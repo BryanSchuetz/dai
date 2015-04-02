@@ -156,7 +156,7 @@ pre code {
 /* Comment */
 .err {
   color: #AA0000;
-  background-color: #ffaaaa; }
+  background-color: #FFAAAA; }
 
 /* Error */
 .k {
@@ -186,7 +186,7 @@ pre code {
 /* Comment.Special */
 .gd {
   background-color: #FFCCCC;
-  border: 1px solid #cc0000; }
+  border: 1px solid #CC0000; }
 
 /* Generic.Deleted */
 .ge {
@@ -194,7 +194,7 @@ pre code {
 
 /* Generic.Emph */
 .gr {
-  color: red; }
+  color: #FF0000; }
 
 /* Generic.Error */
 .gh {
@@ -203,11 +203,11 @@ pre code {
 /* Generic.Heading */
 .gi {
   background-color: #CCFFCC;
-  border: 1px solid #00cc00; }
+  border: 1px solid #00CC00; }
 
 /* Generic.Inserted */
 .go {
-  color: #aaaaaa; }
+  color: #AAAAAA; }
 
 /* Generic.Output */
 .gp {
@@ -220,7 +220,7 @@ pre code {
 
 /* Generic.Subheading */
 .gt {
-  color: #99cc66; }
+  color: #99CC66; }
 
 /* Generic.Traceback */
 .kc {
@@ -248,7 +248,7 @@ pre code {
 
 /* Keyword.Type */
 .m {
-  color: #ff6600; }
+  color: #FF6600; }
 
 /* Literal.Number */
 .s {
@@ -272,7 +272,7 @@ pre code {
 
 /* Name.Constant */
 .nd {
-  color: #9999ff; }
+  color: #9999FF; }
 
 /* Name.Decorator */
 .ni {
@@ -284,11 +284,11 @@ pre code {
 
 /* Name.Exception */
 .nf {
-  color: #cc00ff; }
+  color: #CC00FF; }
 
 /* Name.Function */
 .nl {
-  color: #9999ff; }
+  color: #9999FF; }
 
 /* Name.Label */
 .nn {
@@ -312,27 +312,27 @@ pre code {
 
 /* Text.Whitespace */
 .mf {
-  color: #ff6600; }
+  color: #FF6600; }
 
 /* Literal.Number.Float */
 .mh {
-  color: #ff6600; }
+  color: #FF6600; }
 
 /* Literal.Number.Hex */
 .mi {
-  color: #ff6600; }
+  color: #FF6600; }
 
 /* Literal.Number.Integer */
 .mo {
-  color: #ff6600; }
+  color: #FF6600; }
 
 /* Literal.Number.Oct */
 .sb {
-  color: #cc3300; }
+  color: #CC3300; }
 
 /* Literal.String.Backtick */
 .sc {
-  color: #cc3300; }
+  color: #CC3300; }
 
 /* Literal.String.Char */
 .sd {
@@ -341,7 +341,7 @@ pre code {
 
 /* Literal.String.Doc */
 .s2 {
-  color: #cc3300; }
+  color: #CC3300; }
 
 /* Literal.String.Double */
 .se {
@@ -349,27 +349,27 @@ pre code {
 
 /* Literal.String.Escape */
 .sh {
-  color: #cc3300; }
+  color: #CC3300; }
 
 /* Literal.String.Heredoc */
 .si {
-  color: #aa0000; }
+  color: #AA0000; }
 
 /* Literal.String.Interpol */
 .sx {
-  color: #cc3300; }
+  color: #CC3300; }
 
 /* Literal.String.Other */
 .sr {
-  color: #33aaaa; }
+  color: #33AAAA; }
 
 /* Literal.String.Regex */
 .s1 {
-  color: #cc3300; }
+  color: #CC3300; }
 
 /* Literal.String.Single */
 .ss {
-  color: #ffcc33; }
+  color: #FFCC33; }
 
 /* Literal.String.Symbol */
 .bp {
@@ -389,7 +389,7 @@ pre code {
 
 /* Name.Variable.Instance */
 .il {
-  color: #ff6600; }
+  color: #FF6600; }
 
 /* Literal.Number.Integer.Long */
 .css .o,
