@@ -2,21 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   {% include iehacks.html %}
   {% include head.html %}
-
   <body>
     <div class="wrapper">
+      {% include header.html %}
       <div class="container content">
-        <div class="masthead">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.data.meta.title }}</a>
-            <small>{{ site.data.meta.tagline }}</small>
-          </h3>
-        </div>
         {{ content }}
-
-        <div class="footer">
-        </div>
       </div>
+      {% include footer.html %}
     </div>
   </body>
 </html>

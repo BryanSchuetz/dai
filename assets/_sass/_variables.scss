@@ -1,1 +1,36 @@
 $emphasis: #313437;
+$nav_black: #1c242b;
+$nav_gray: #f2f0ed;
+$nav_links: #c8c6c2;
+$nav_links-main: #aaa7a2;
+$nav_links-main--current: #323940;
+
+// Mixins
+
+$width-tiny: 15em;
+$width-small: 30em;
+$width-medium: 37.5em;
+$width-wide: 57em;
+
+@mixin responsive($width){
+  @if $width == tiny-screens{
+    @media screen and (min-width: $width-tiny){
+      @content;
+    }
+  }
+  @else if $width == small-screens{
+    @media screen and (min-width: $width-small){
+      @content;
+    }
+  }
+  @else if $width == medium-screens{
+    @media screen and (min-width: $width-medium){
+      @content;
+    }
+  }
+  @else if $width == wide-screens{
+    @media screen and (min-width: $width-wide){
+      @content;
+    }
+  }
+}
