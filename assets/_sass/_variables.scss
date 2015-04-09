@@ -12,6 +12,8 @@ $width-small: 30em;
 $width-medium: 37.5em;
 $width-wide: 57em;
 
+// responsive mixin for bubbled media-querries
+
 @mixin responsive($width){
   @if $width == tiny-screens{
     @media screen and (min-width: $width-tiny){

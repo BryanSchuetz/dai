@@ -455,11 +455,14 @@ header {
     content: ''; }
 
 .header-search {
-  font-size: .6rem;
+  font-size: .7rem;
+  position: relative;
+  top: -.1rem;
   float: right;
   color: #c8c6c2;
   border: none;
-  padding: 2px 4px; }
+  padding: 2px 4px;
+  border-radius: 4px; }
   @media screen and (min-width: 30em) {
     .header-search {
       border: 1px solid #f2f0ed;
