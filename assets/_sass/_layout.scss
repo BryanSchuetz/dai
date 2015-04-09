@@ -47,11 +47,14 @@ header{
   }
 }
 .header-search{
-  font-size: .6rem;
+  font-size: .7rem;
+  position: relative;
+  top: -.1rem;
   float: right;
   color: $nav_links;
   border: none;
   padding: 2px 4px;
+  border-radius: 4px;
   @include responsive(small-screens){
     border: 1px solid $nav_gray;
     border-radius: 4px;
