@@ -19,6 +19,9 @@
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
   }
+    .container, .header-inner, .footer-inner{
+    @include width(4);
+  }
 }
 /*
   Wide mobile layout 
