@@ -22,7 +22,7 @@ a {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* Headings */
@@ -68,6 +68,21 @@ strong {
   color: #303030;
 }
 
+// FOOTER
+
+.footer-nav{
+  h4{
+    color: $nav_links-footer--blue;
+    font-size: 1.1rem;
+    font-weight: normal;
+  }
+  li a{
+    color: $nav_links;
+  }
+  li a:hover{
+    color: lighten($nav_links, 10%);
+  }
+}
 
 /* Lists */
 ul, ol, dl {
