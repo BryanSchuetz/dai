@@ -1,6 +1,7 @@
 $emphasis: #313437;
 $nav_black: #1c242b;
 $nav_gray: #f2f0ed;
+$link_green: #74BC70;
 $nav_links: #c8c6c2;
 $nav_links-main: #aaa7a2;
 $nav_links-main--current: #323940;
@@ -8,10 +9,10 @@ $nav_links-footer--blue: #8FC3EA;
 
 // Mixins
 
-$width-tiny: 15em;
-$width-small: 30em;
-$width-medium: 37.5em;
-$width-wide: 57em;
+$width-tiny: 15em; //4bits
+$width-small: 30em; //6bits
+$width-medium: 37.5em; //8bits
+$width-wide: 57em; //10bits
 
 // responsive mixin for bubbled media-querries
 

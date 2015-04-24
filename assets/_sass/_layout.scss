@@ -138,34 +138,16 @@ footer{
   min-height: 300px;
   @include clearfix;
 }
-.footer-nav:nth-child(odd){
+.footer-nav{
+  @include width(1);
+  @include responsive(small-screens){
+    @include width(1.5);
+  }
+  @include responsive(medium-screens){
+    @include width(2);
+  }
   float: left;
   margin-right: $gutter;
-  clear: left;
-  @include responsive(small-screens){
-    clear: none;
-  }
-}
-.footer-nav:nth-child(even){
-  float: right;
-  text-align: right;
-  clear: right;
-  @include responsive(small-screens){
-    float: left;
-    margin-right: $gutter;
-    text-align: left;
-  }
-}
-@include responsive(small-screens){
-  .footer-nav:nth-child(3){
-    margin-right: 0px;
-  }
-  .footer-nav:nth-child(4){
-    clear: left;
-  }
-}
-.footer-nav{
-  @include width(2);
   ul{
     margin-left: 1px;
   }
@@ -174,7 +156,50 @@ footer{
     padding-left: none;
   }
 }
-
+.footer-nav:nth-child(5){
+  margin-right: 0px;
+  @include responsive(wide-screens){
+    margin-right: $gutter;
+  }
+}
+.footer-nav:nth-child(3){
+  display: none;
+  @include responsive(wide-screens){
+    margin-right: 0px;
+    display: block;
+  }
+}
+.footer-bottom{
+  @include clearfix;
+  clear: left;
+  .logo--footer{
+    position: relative;
+    top: 2px;
+    height: 10px;
+    float: left;
+    overflow: hidden;
+    @include width(1);
+    @include responsive(medium-screens){
+      height: 20px;
+      @include width(2);
+    }
+    margin-right: $gutter;
+  }
+  .footer-bottom-links{
+    float: right;
+    @include width(3);
+    @include responsive(small-screens){
+      @include width(5);
+    }
+    @include responsive(medium-screens){
+      @include width(6);
+    }
+    @include responsive(wide-screens){
+      @include width(8);
+      text-align: right;
+    }
+  }
+}
 
 //—————————————————//
 //****Container****//
