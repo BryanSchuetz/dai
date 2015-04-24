@@ -73,8 +73,12 @@ strong {
 .footer-nav{
   h4{
     color: $nav_links-footer--blue;
-    font-size: 1.1rem;
+    font-size: .8rem;
     font-weight: normal;
+  }
+  li{
+    font-size: .6rem;
+    line-height: .9rem;
   }
   li a{
     color: $nav_links;
@@ -82,6 +86,18 @@ strong {
   li a:hover{
     color: lighten($nav_links, 10%);
   }
+}
+.footer-bottom-links{
+  font-size: .6rem;
+  line-height: .9rem;
+  color: $nav_links;
+}
+.footer-bottom-link{
+  color: $nav_links;
+}
+.footer-bottom-link::after{
+  content: '\00a0\00a0/\00a0\00a0 ';
+  color: $nav_links;
 }
 
 /* Lists */
