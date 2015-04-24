@@ -128,8 +128,29 @@ margin-right: 1rem;
   }
 }
 
+//—————————————————//
+//******Main*****//
+//—————————————————//
+.container-section{
+  @include clearfix;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid $nav_gray;
+}
+.section-rail{
+  display: none;
+}
+.section-primary{
+  @include width(4);
+}
+.rail-nav-links{
+  list-style-type: none;
+  margin-left: 0px;
+}
 
-// FOOTER
+
+//—————————————————//
+//******Footer*****//
+//—————————————————//
 footer{
   background-color: $nav_black;
   padding-top: 2rem;
@@ -205,10 +226,10 @@ footer{
 //****Container****//
 //—————————————————//
 
-.container {
-  padding-left:  1rem;
-  padding-right: 1rem;
-}
+// .container {
+//   padding-left:  1rem;
+//   padding-right: 1rem;
+// }
 .content{
   padding-top: 9rem;
 }
