@@ -1,25 +1,17 @@
 
-//—————————————————//
-//******header*****//
-//—————————————————//
+// 🎌 GLOBAL 🎌
 
+.container, .header-inner, .footer-inner{
+  @include width(4);
+  margin: auto;
+}
+
+// 🎌 HEADER 🎌
+    
 header{
   position: fixed;
   width: 100%;
   z-index: 10;
-}
-
-// UTILITY NAVIGATION
-
-.header-utility_nav{
-  background-color: $nav_black;
-}
-.header-inner {
-  @include clearfix;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin-right: auto;
-  margin-left: auto;
 }
 .header-nav{
   @include clearfix;
@@ -29,7 +21,7 @@ header{
     list-style-type: none;
     float: left;
     font-size: .8rem;
-    // fix temp-height
+    // fix temp-height 
     a{
       color: $nav_links;
       font-weight: 200;
@@ -45,6 +37,19 @@ header{
   li:last-child::after{
   content: '';
   }
+}
+.header-inner {
+  @include clearfix;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+// 🎌 HEADER: UTILITY NAVIGATION 🎌
+
+.header-utility_nav{
+  background-color: $nav_black;
 }
 .header-search{
   font-size: .7rem;
@@ -79,17 +84,17 @@ header{
   background-color: lighten($nav_black, 10%);
 }
 
-// PRIMARY NAVIGATION
+// 🎌 HEADER: PRIMARY NAVIGATION 🎌
 
 .header-site_nav{
   background-color: $nav_gray;
 }
 .logo{
-float: left;
-height: 1rem;
-position: relative;
-top: .04rem;
-margin-right: 1rem;
+  float: left;
+  height: 1rem;
+  position: relative;
+  top: .04rem;
+  margin-right: 1rem;
   @include responsive(small-screens){
     top: .02rem;
   }
@@ -128,29 +133,35 @@ margin-right: 1rem;
   }
 }
 
-//—————————————————//
-//******Main*****//
-//—————————————————//
+// 🎌 MAIN 🎌
+
 .container-section{
   @include clearfix;
   margin-bottom: 2rem;
   border-bottom: 1px solid $nav_gray;
 }
+.content{
+  padding-top: 9rem;
+}
+
+// 🎌 MAIN: RAIL  🎌
+
 .section-rail{
   display: none;
-}
-.section-primary{
-  @include width(4);
 }
 .rail-nav-links{
   list-style-type: none;
   margin-left: 0px;
 }
 
+// 🎌 MAIN: PRIMARY  🎌
 
-//—————————————————//
-//******Footer*****//
-//—————————————————//
+.section-primary{
+  @include width(4);
+}
+
+// 🎌 FOOTER 🎌
+
 footer{
   background-color: $nav_black;
   padding-top: 2rem;
@@ -159,6 +170,9 @@ footer{
   min-height: 300px;
   @include clearfix;
 }
+
+// 🎌 FOOTER: NAV 🎌
+
 .footer-nav{
   @include width(1);
   @include responsive(small-screens){
@@ -190,6 +204,9 @@ footer{
     display: block;
   }
 }
+
+// 🎌 FOOTER: BOTTOM 🎌
+
 .footer-bottom{
   @include clearfix;
   clear: left;
@@ -222,38 +239,34 @@ footer{
   }
 }
 
-//—————————————————//
-//****Container****//
-//—————————————————//
 
-// .container {
-//   padding-left:  1rem;
-//   padding-right: 1rem;
+
+//----------LEGACY-----------\\
+
+
+
+
+// 🎌 CONTAINER  🎌
+
+// 🎌 MASTHEAD 🎌
+
+// .header-title {
+//   margin-top: 0;
+//   margin-bottom: 0;
+//   color: #505050;
 // }
-.content{
-  padding-top: 9rem;
-}
-//————————————————//
-//****Masthead****//
-//————————————————//
-.header-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: #505050;
-}
-.header-title a {
-  color: #505050;
-}
-.header-title small {
-  font-size: 75%;
-  font-weight: 400;
-  color: #c0c0c0;
-  letter-spacing: 0;
-  display: block;
-}
-//—————————————————————//
-//****Posts & Pages****//
-//—————————————————————//
+// .header-title a {
+//   color: #505050;
+// }
+// .header-title small {
+//   font-size: 75%;
+//   font-weight: 400;
+//   color: #c0c0c0;
+//   letter-spacing: 0;
+//   display: block;
+// }
+
+// 🎌 POSTS & PAGES 🎌
 .page,
 .post {
   margin-bottom: 4em;
@@ -302,9 +315,9 @@ footer{
 .related-posts li a:hover small {
   color: inherit;
 }
-//——————————————————//
-//****Pagination****//
-//——————————————————//
+
+// 🎌 PAGINATION 🎌
+
 .pagination {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;

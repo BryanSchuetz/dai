@@ -1,11 +1,6 @@
-.container, .header-inner, .footer-inner{
-  @include width(4);
-  margin: auto;
-}
 
-//—————————————————————//
-//****Media Queries****//
-//—————————————————————//
+// 🎌 MEDIA QUERIES 🎌
+
 /*
   Mobile layout 
   240–479 px
@@ -32,6 +27,9 @@
   .container, .header-inner, .footer-inner{
     @include width(6);
   }
+  .section-primary{
+  @include width(6);
+}
   html{
     font-size: 14px;
   }

@@ -1,3 +1,10 @@
+
+// 🎌 GLOBAL 🎌
+
+html {
+  line-height: 1.5;
+  font-size: 10px;
+}
 body{
   font-family: helvetica, arial, sans-serif;
   visibility: hidden;
@@ -11,21 +18,17 @@ body{
   display: block;
   visibility: visible;
 }
-html {
-  line-height: 1.5;
-  font-size: 10px;
-}
 a {
   color: #268bd2;
   text-decoration: none;
 }
-/* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
   text-decoration: none;
 }
 
-/* Headings */
+// 🎌 HEADINGS 🎌
+
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5em;
   font-weight: bold;
@@ -47,7 +50,17 @@ h4, h5, h6 {
   font-weight: 700;
 }
 
-/* Body text */
+// 🎌 MAIN 🎌
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
+}
 p {
   margin-bottom: 1rem;
 }
@@ -78,7 +91,8 @@ strong {
     margin-bottom: .4em;
   }
 }
-// FOOTER
+
+// 🎌 FOOTER 🎌
 
 .footer-nav{
   h4{
@@ -108,17 +122,4 @@ strong {
 .footer-bottom-link::after{
   content: '\00a0\00a0/\00a0\00a0 ';
   color: $nav_links;
-}
-
-/* Lists */
-ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-dd {
-  margin-bottom: .5rem;
 }
