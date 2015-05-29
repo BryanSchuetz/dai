@@ -9,9 +9,7 @@
 @import "layout";
 @import "queries";
 
-//————————————//
-//****Misc****//
-//————————————//
+// 🎌 MISC 🎌
 
 hr {
   position: relative;
@@ -30,7 +28,9 @@ abbr[title] {
   cursor: help;
   border-bottom: 1px dotted #e5e5e5;
 }
-/* Quotes */
+
+// 🎌 MISC: TEXT-BOXES 🎌
+
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
@@ -47,7 +47,8 @@ img {
   border-radius: 5px;
 }
 
-/* Tables */
+// 🎌 TABLES 🎌
+
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -63,7 +64,9 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-/* Alerts */
+
+// 🎌 ALERTS 🎌
+
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
