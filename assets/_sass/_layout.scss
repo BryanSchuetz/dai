@@ -4,6 +4,15 @@
 .container, .header-inner, .footer-inner{
   @include width(4);
   margin: auto;
+  @include responsive(small-screens){
+    @include width(6);
+  }
+  @include responsive(medium-screens){
+    @include width(8);
+  }
+  @include responsive(wide-screens){
+    @include width(10);
+  }
 }
 
 // 🎌 HEADER 🎌
@@ -109,10 +118,6 @@ header{
     list-style-type: none;
     float: left;
     margin-right: .8rem;
-    font-size: .9rem;
-    @include responsive(tiny-screens){
-      font-size: .8rem;
-    }
     a{
       font-weight: bold;
       color: $nav_links-main;
@@ -158,6 +163,9 @@ header{
 
 .section-primary{
   @include width(4);
+  @include responsive(small-screens){
+    @include width(6);  
+  }
 }
 
 // 🎌 FOOTER 🎌
@@ -314,30 +322,4 @@ footer{
 }
 .related-posts li a:hover small {
   color: inherit;
-}
-
-// 🎌 PAGINATION 🎌
-
-.pagination {
-  overflow: hidden; /* clearfix */
-  margin-left: -1rem;
-  margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  color: #ccc;
-  text-align: center;
-}
-
-/* Pagination items can be `span`s or `a`s */
-.pagination-item {
-  display: block;
-  padding: 1rem;
-  border: 1px solid #eee;
-}
-.pagination-item:first-child {
-  margin-bottom: -1px;
-}
-
-/* Only provide a hover state for linked pagination items */
-a.pagination-item:hover {
-  background-color: #f5f5f5;
 }
