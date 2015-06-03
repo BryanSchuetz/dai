@@ -13,6 +13,9 @@
   @include responsive(wide-screens){
     @include width(10);
   }
+  @include responsive(ultra-wide-screens){
+    @include width(12);
+  }
 }
 
 // 🎌 HEADER 🎌
@@ -153,6 +156,15 @@ header{
 
 .section-rail{
   display: none;
+  @include responsive(medium-screens){
+    display: block;
+    float: left;
+    @include width(2);
+    margin-right: $gutter;
+  }
+  @include responsive(wide-screens){
+    @include width(3);
+  }
 }
 .rail-nav-links{
   list-style-type: none;
@@ -165,6 +177,15 @@ header{
   @include width(4);
   @include responsive(small-screens){
     @include width(6);  
+  }
+  @include responsive(medium-screens){
+    float: right;
+  }
+  @include responsive(wide-screens){
+    @include width(7);
+  }
+    @include responsive(ultra-wide-screens){
+    @include width(9);
   }
 }
 
@@ -211,6 +232,9 @@ footer{
     margin-right: 0px;
     display: block;
   }
+  @include responsive(ultra-wide-screens){
+    
+  }
 }
 
 // 🎌 FOOTER: BOTTOM 🎌
@@ -247,79 +271,68 @@ footer{
   }
 }
 
+// 🎌 MISC 🎌
 
-
-//----------LEGACY-----------\\
-
-
-
-
-// 🎌 CONTAINER  🎌
-
-// 🎌 MASTHEAD 🎌
-
-// .header-title {
-//   margin-top: 0;
-//   margin-bottom: 0;
-//   color: #505050;
-// }
-// .header-title a {
-//   color: #505050;
-// }
-// .header-title small {
-//   font-size: 75%;
-//   font-weight: 400;
-//   color: #c0c0c0;
-//   letter-spacing: 0;
-//   display: block;
-// }
-
-// 🎌 POSTS & PAGES 🎌
-.page,
-.post {
-  margin-bottom: 4em;
-}
-
-/* Blog post or page title */
-.page-title,
-.post-title,
-.post-title a {
-  color: $emphasis;
-}
-.page-title,
-.post-title {
-  margin-top: 0;
-}
-
-/* Meta data line below post title */
-.post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
-}
-
-/* Related posts */
-.related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
   border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
 }
-.related-posts {
-  padding-left: 0;
-  list-style: none;
+abbr {
+  font-size: 85%;
+  font-weight: bold;
+  color: #555;
+  text-transform: uppercase;
 }
-.related-posts h3 {
-  margin-top: 0;
+abbr[title] {
+  cursor: help;
+  border-bottom: 1px dotted #e5e5e5;
 }
-.related-posts li small {
-  font-size: 75%;
-  color: #999;
+
+// 🎌 MISC: TEXT-BOXES 🎌
+
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0;
+  color: #7a7a7a;
+  border-left: .25rem solid #e5e5e5;
 }
-.related-posts li a:hover {
-  color: #268bd2;
-  text-decoration: none;
+blockquote p:last-child {
+  margin-bottom: 0;
 }
-.related-posts li a:hover small {
-  color: inherit;
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
+
+// 🎌 TABLES 🎌
+
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+
+// 🎌 ALERTS 🎌
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: lighten(#FA9A4B, 32%);
+  border-radius: 5px;
 }

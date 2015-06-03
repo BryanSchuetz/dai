@@ -16,6 +16,7 @@ $width-tiny: 15em; //4bits
 $width-small: 30em; //6bits
 $width-medium: 37.5em; //8bits
 $width-wide: 57em; //10bits
+$width-ultra-wide: 70em;
 
 // 🎌 MIXINS 🎌
 
@@ -38,6 +39,11 @@ $width-wide: 57em; //10bits
   }
   @else if $width == wide-screens{
     @media screen and (min-width: $width-wide){
+      @content;
+    }
+  }
+  @else if $width == ultra-wide-screens{
+    @media screen and (min-width: $width-ultra-wide){
       @content;
     }
   }
