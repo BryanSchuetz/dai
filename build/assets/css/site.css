@@ -636,6 +636,35 @@ header {
     .section-primary {
       width: 624px; } }
 
+.primary-block {
+  margin-bottom: 1em; }
+  .primary-block img {
+    width: 100%; }
+
+@media screen and (min-width: 57em) {
+  .primary-block.split {
+    width: 228px; } }
+@media screen and (min-width: 70em) {
+  .primary-block.split {
+    width: 300px; } }
+
+@media screen and (min-width: 57em) {
+  .primary-block.split.left {
+    float: left;
+    margin-right: 24px; } }
+
+@media screen and (min-width: 57em) {
+  .primary-block.split.right {
+    float: right; } }
+
+.primary-block--button {
+  padding: 7px;
+  background-color: #74bc70;
+  color: white;
+  font-weight: 400;
+  box-shadow: #8d8d8d 0px 0px 4px 0px;
+  border-radius: 2px; }
+
 footer {
   background-color: #1c242b;
   padding-top: 2rem; }
@@ -742,7 +771,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  border-radius: 5px; }
+  border: 1px solid #f2f0ed; }
 
 table {
   margin-bottom: 1rem;
