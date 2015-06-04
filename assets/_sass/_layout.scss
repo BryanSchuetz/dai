@@ -188,6 +188,39 @@ header{
     @include width(9);
   }
 }
+.primary-block{
+  margin-bottom: 1em;
+  img{
+    width: 100%;
+  }
+}
+.primary-block.split{
+  @include responsive(wide-screens){
+    @include width(3.5);
+  }
+  @include responsive(ultra-wide-screens){
+    @include width(4.5);
+  }
+}
+.primary-block.split.left{
+  @include responsive(wide-screens){
+    float: left;
+    margin-right: $gutter;
+  } 
+}
+.primary-block.split.right{
+  @include responsive(wide-screens){
+    float: right;
+  } 
+}
+.primary-block--button{
+  padding: 7px;
+  background-color: $button-green;
+  color: $text-white;
+  font-weight: 400;
+  box-shadow: rgb(141, 141, 141) 0px 0px 4px 0px;
+  border-radius: 2px;
+}
 
 // 🎌 FOOTER 🎌
 
@@ -233,7 +266,7 @@ footer{
     display: block;
   }
   @include responsive(ultra-wide-screens){
-    
+
   }
 }
 
@@ -306,7 +339,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  border-radius: 5px;
+  border: 1px solid $nav-gray;
 }
 
 // 🎌 TABLES 🎌
