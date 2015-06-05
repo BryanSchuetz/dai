@@ -122,12 +122,17 @@ strong {
 .footer-nav{
   h4{
     color: $nav_links-footer--blue;
-    font-size: .8rem;
+    font-size: .6rem;
     font-weight: normal;
+    @include responsive(small-screens){
+      font-size: .7rem;
+    }
   }
   li{
-    font-size: .6rem;
-    line-height: .9rem;
+    font-size: .5rem;
+       @include responsive(small-screens){
+      font-size: .6rem;
+    }
   }
   li a{
     color: $nav_links;

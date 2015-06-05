@@ -243,6 +243,9 @@ footer{
   @include responsive(medium-screens){
     @include width(2);
   }
+  @include responsive(ultra-wide-screens){
+    @include width(2.4);
+  }
   float: left;
   margin-right: $gutter;
   ul{
@@ -255,18 +258,12 @@ footer{
 }
 .footer-nav:nth-child(5){
   margin-right: 0px;
-  @include responsive(wide-screens){
-    margin-right: $gutter;
-  }
 }
 .footer-nav:nth-child(3){
   display: none;
   @include responsive(wide-screens){
     margin-right: 0px;
     display: block;
-  }
-  @include responsive(ultra-wide-screens){
-
   }
 }
 
