@@ -25,7 +25,7 @@ html {
   @media screen and (min-width: 37.5em) {
     html {
       font-size: 16px; } }
-  @media screen and (min-width: 57em) {
+  @media screen and (min-width: 50em) {
     html {
       font-size: 18px; } }
 
@@ -47,7 +47,7 @@ body {
   visibility: visible; }
 
 a {
-  color: #268bd2;
+  color: #74BC70;
   text-decoration: none; }
 
 a:hover,
@@ -112,12 +112,26 @@ blockquote {
 strong {
   color: #303030; }
 
+.rail-nav-links li {
+  font-size: .9rem; }
 .rail-nav-links li a {
-  color: #1c242b; }
+  color: #1c242b;
+  padding-top: .3rem;
+  padding-bottom: .3rem;
+  padding-left: .3rem;
+  padding-right: 0.5rem; }
+.rail-nav-links li a:hover {
+  background-color: #1c242b;
+  color: white; }
 
 .rail-nav h4 {
-  font-size: 1.1rem;
-  margin-bottom: .4em; }
+  font-size: 1rem;
+  margin-bottom: .4em;
+  padding-left: .3rem; }
+
+.primary-block h3 {
+  font-size: 1.3rem;
+  font-weight: normal; }
 
 .footer-nav h4 {
   color: #8FC3EA;
@@ -472,10 +486,10 @@ pre code {
   @media screen and (min-width: 37.5em) {
     .container, .header-inner, .footer-inner {
       width: 552px; } }
-  @media screen and (min-width: 57em) {
+  @media screen and (min-width: 50em) {
     .container, .header-inner, .footer-inner {
       width: 696px; } }
-  @media screen and (min-width: 70em) {
+  @media screen and (min-width: 60em) {
     .container, .header-inner, .footer-inner {
       width: 840px; } }
 
@@ -593,7 +607,7 @@ header {
 
 .header-nav-li--tiered {
   display: none; }
-  @media screen and (min-width: 57em) {
+  @media screen and (min-width: 50em) {
     .header-nav-li--tiered {
       display: block; } }
 
@@ -607,6 +621,9 @@ header {
   .container-section:after {
     clear: both; }
 
+.container-section:last-of-type {
+  border-bottom: 0px; }
+
 .content {
   padding-top: 9rem; }
 
@@ -618,7 +635,7 @@ header {
       float: left;
       width: 120px;
       margin-right: 24px; } }
-  @media screen and (min-width: 57em) {
+  @media screen and (min-width: 50em) {
     .section-rail {
       width: 192px; } }
 
@@ -634,10 +651,10 @@ header {
   @media screen and (min-width: 37.5em) {
     .section-primary {
       float: right; } }
-  @media screen and (min-width: 57em) {
+  @media screen and (min-width: 50em) {
     .section-primary {
       width: 480px; } }
-  @media screen and (min-width: 70em) {
+  @media screen and (min-width: 60em) {
     .section-primary {
       width: 624px; } }
 
@@ -646,19 +663,19 @@ header {
   .primary-block img {
     width: 100%; }
 
-@media screen and (min-width: 57em) {
+@media screen and (min-width: 50em) {
   .primary-block.split {
     width: 228px; } }
-@media screen and (min-width: 70em) {
+@media screen and (min-width: 60em) {
   .primary-block.split {
     width: 300px; } }
 
-@media screen and (min-width: 57em) {
+@media screen and (min-width: 50em) {
   .primary-block.split.left {
     float: left;
     margin-right: 24px; } }
 
-@media screen and (min-width: 57em) {
+@media screen and (min-width: 50em) {
   .primary-block.split.right {
     float: right; } }
 
@@ -667,8 +684,13 @@ header {
   background-color: #74bc70;
   color: white;
   font-weight: 400;
-  box-shadow: #8d8d8d 0px 0px 4px 0px;
   border-radius: 2px; }
+
+.primary-block li {
+  list-style-type: none;
+  margin-bottom: 1.2em; }
+.primary-block ul {
+  margin-left: 0px; }
 
 footer {
   background-color: #1c242b;
@@ -693,7 +715,7 @@ footer {
   @media screen and (min-width: 37.5em) {
     .footer-nav {
       width: 120px; } }
-  @media screen and (min-width: 70em) {
+  @media screen and (min-width: 60em) {
     .footer-nav {
       width: 148.8px; } }
   .footer-nav ul {
@@ -707,7 +729,7 @@ footer {
 
 .footer-nav:nth-child(3) {
   display: none; }
-  @media screen and (min-width: 57em) {
+  @media screen and (min-width: 50em) {
     .footer-nav:nth-child(3) {
       margin-right: 0px;
       display: block; } }
@@ -741,7 +763,7 @@ footer {
     @media screen and (min-width: 37.5em) {
       .footer-bottom .footer-bottom-links {
         width: 408px; } }
-    @media screen and (min-width: 57em) {
+    @media screen and (min-width: 50em) {
       .footer-bottom .footer-bottom-links {
         width: 552px;
         text-align: right; } }
