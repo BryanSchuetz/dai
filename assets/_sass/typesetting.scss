@@ -32,7 +32,7 @@ body{
   visibility: visible;
 }
 a {
-  color: #268bd2;
+  color: $link-green;
   text-decoration: none;
 }
 a:hover,
@@ -106,17 +106,32 @@ strong {
   color: #303030;
 }
 .rail-nav-links{
+  li{
+    font-size: .9rem;
+  }
   li a{
     color: $nav_black;
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+    padding-left: .3rem;
+    padding-right: .5rem
+  }
+  li a:hover{
+    background-color: $nav_black;
+    color: white;
   }
 }
 .rail-nav{
   h4{
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-bottom: .4em;
+    padding-left: .3rem;
   }
 }
-
+.primary-block h3{
+  font-size: 1.3rem;
+  font-weight: normal;
+}
 // 🎌 FOOTER 🎌
 
 .footer-nav{

@@ -148,6 +148,9 @@ header{
   margin-bottom: 2rem;
   border-bottom: 1px solid $nav_gray;
 }
+.container-section:last-of-type{
+  border-bottom: 0px;
+}
 .content{
   padding-top: 9rem;
 }
@@ -218,8 +221,16 @@ header{
   background-color: $button-green;
   color: $text-white;
   font-weight: 400;
-  box-shadow: rgb(141, 141, 141) 0px 0px 4px 0px;
   border-radius: 2px;
+}
+.primary-block{
+  li{
+  list-style-type: none;
+  margin-bottom: 1.2em;
+  }
+  ul{
+    margin-left: 0px;
+  }
 }
 
 // 🎌 FOOTER 🎌
