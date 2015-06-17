@@ -65,6 +65,9 @@ h4, h5, h6 {
 .header-nav--main{
   li{
     font-size: .8rem;
+    @include responsive(small-screens){
+      font-size: .9rem;
+    }
     @include responsive(medium-screens){
       font-size: 1.1rem;
     }
@@ -110,11 +113,12 @@ strong {
     font-size: .9rem;
   }
   li a{
+    display: block;
     color: $nav_black;
-    padding-top: .3rem;
-    padding-bottom: .3rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
     padding-left: .3rem;
-    padding-right: .5rem
+    padding-right: .3rem
   }
   li a:hover{
     background-color: $nav_black;

@@ -47,6 +47,13 @@
     h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
   })(document);
 </script>
+  <script>
+    $(document).ready(function() {
+      $('.header-nav--main a').smoothScroll({
+        offset: -145
+      });
+    });
+  </script>
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
@@ -74,7 +81,7 @@
 
   <body>
     <div class="wrapper">
-      <header>
+      <header data-gumshoe-header>
   <div class="header-utility_nav">
     <div class="header-inner">
       <ul class="header-nav">
@@ -96,12 +103,12 @@
   <div class="header-site_nav">
     <div class="header-inner">
     <svg class="logo" viewBox="0 0 982 245" preserveAspectRatio="xMinYMax meet"><use xlink:href="#logo"></use></svg>
-    <ul class="header-nav--main">
-        <li class="current"><a href="">Who We Are</a></li>
-        <li><a href="">Our Work</a></li>
-        <li class="header-nav-li--tiered"><a href="">Stories</a></li>
-        <li><a href="">News</a></li>
-        <li><a href="">Working with DAI</a></li>
+    <ul class="header-nav--main" data-gumshoe>
+        <li><a href="/#who-we-are" class="active">Who We Are</a></li>
+        <li><a href="/#our-work">Our Work</a></li>
+        <li class="header-nav-li--tiered"><a href="/#stories">Stories</a></li>
+        <li><a href="/#news">News</a></li>
+        <li><a href="/#working-with-dai">Working with DAI</a></li>
       </ul>
     </div>
   </div>
@@ -213,6 +220,11 @@ An About page! Look at that. With pretty permalinks turned on, Jekyll automagica
       <a href="" class="footer-bottom-link">Privacy Policy</a> Copyright DAI. All Rights Reserved.</p>
     </div>
   </div>
+    <script>
+    gumshoe.init({
+      offset: -145
+    });
+</script>
 </footer>
     </div>
   </body>
