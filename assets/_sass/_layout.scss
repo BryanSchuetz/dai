@@ -129,6 +129,9 @@ header{
       color: $nav_links-main--current;
       text-decoration: none;
     }
+    a.active{
+      color: $nav_black;
+    }
   }
   .current a{
     color: $nav_links-main--current;
@@ -176,6 +179,11 @@ header{
 
 // 🎌 MAIN: PRIMARY  🎌
 
+.section-header{
+  @include responsive(medium-screens){
+    display: none;
+  }
+}
 .section-primary{
   @include width(4);
   @include responsive(small-screens){
@@ -198,8 +206,10 @@ header{
   }
 }
 .primary-block.split{
+  margin-bottom: 3em;
   @include responsive(wide-screens){
     @include width(3.5);
+    margin-bottom: 1em;
   }
   @include responsive(ultra-wide-screens){
     @include width(4.5);
@@ -222,6 +232,9 @@ header{
   color: $text-white;
   font-weight: 400;
   border-radius: 2px;
+}
+.primary-block--button:hover{
+  background-color: darken($button-green, 10%);
 }
 .primary-block{
   li{

@@ -76,6 +76,9 @@ h4, h5, h6 {
 
 .header-nav--main li {
   font-size: .8rem; }
+  @media screen and (min-width: 30em) {
+    .header-nav--main li {
+      font-size: .9rem; } }
   @media screen and (min-width: 37.5em) {
     .header-nav--main li {
       font-size: 1.1rem; } }
@@ -115,11 +118,12 @@ strong {
 .rail-nav-links li {
   font-size: .9rem; }
 .rail-nav-links li a {
+  display: block;
   color: #1c242b;
-  padding-top: .3rem;
-  padding-bottom: .3rem;
+  padding-top: .2rem;
+  padding-bottom: .2rem;
   padding-left: .3rem;
-  padding-right: 0.5rem; }
+  padding-right: 0.3rem; }
 .rail-nav-links li a:hover {
   background-color: #1c242b;
   color: white; }
@@ -602,6 +606,8 @@ header {
     .header-nav--main li a:hover {
       color: #323940;
       text-decoration: none; }
+    .header-nav--main li a.active {
+      color: #1c242b; }
   .header-nav--main .current a {
     color: #323940; }
 
@@ -643,6 +649,10 @@ header {
   list-style-type: none;
   margin-left: 0px; }
 
+@media screen and (min-width: 37.5em) {
+  .section-header {
+    display: none; } }
+
 .section-primary {
   width: 264px; }
   @media screen and (min-width: 30em) {
@@ -663,12 +673,15 @@ header {
   .primary-block img {
     width: 100%; }
 
-@media screen and (min-width: 50em) {
-  .primary-block.split {
-    width: 228px; } }
-@media screen and (min-width: 60em) {
-  .primary-block.split {
-    width: 300px; } }
+.primary-block.split {
+  margin-bottom: 3em; }
+  @media screen and (min-width: 50em) {
+    .primary-block.split {
+      width: 228px;
+      margin-bottom: 1em; } }
+  @media screen and (min-width: 60em) {
+    .primary-block.split {
+      width: 300px; } }
 
 @media screen and (min-width: 50em) {
   .primary-block.split.left {
@@ -685,6 +698,9 @@ header {
   color: white;
   font-weight: 400;
   border-radius: 2px; }
+
+.primary-block--button:hover {
+  background-color: #54aa4f; }
 
 .primary-block li {
   list-style-type: none;
