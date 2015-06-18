@@ -1,7 +1,42 @@
 <script>
-    $(document).ready(function() {
-      $('.header-nav--main a').smoothScroll({
-        offset: -145
-      });
+  $(document).ready(function() {
+    $('.header-nav--main a').smoothScroll({
+      offset: -145,
+      afterScroll: function(opts) {
+        $('.header-nav--main a').removeClass('active');
+        $(this).addClass('active');
+      }
     });
-  </script>
+    /* Take over default page anchor functionality */
+
+    // Store hash location
+    var hashLocation = false;
+    if (location.hash) {
+        hashLocation = window.location.hash;
+        setTimeout(function() {
+            hashLocation = window.location.hash;
+        }, 1); // Execute at two moments for browser compatibility reasons
+    }
+
+    // If we have a hash location do stuff
+    if (hashLocation) {
+
+        // delay .1s for browser compatibility reasons
+        setTimeout(function() {
+
+            // Check hashLocation suffix
+            if( hashLocation.indexOf('_hash') < 0 ) {
+                hashLocation = hashLocation + "_hash";
+            };
+
+            // Scroll to target
+            $.smoothScroll({
+                scrollTarget: hashLocation,
+                offset: 60
+            });
+
+        }, 400);
+
+    };
+});
+</script>

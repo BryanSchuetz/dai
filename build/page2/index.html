@@ -48,12 +48,47 @@
   })(document);
 </script>
   <script>
-    $(document).ready(function() {
-      $('.header-nav--main a').smoothScroll({
-        offset: -145
-      });
+  $(document).ready(function() {
+    $('.header-nav--main a').smoothScroll({
+      offset: -145,
+      afterScroll: function(opts) {
+        $('.header-nav--main a').removeClass('active');
+        $(this).addClass('active');
+      }
     });
-  </script>
+    /* Take over default page anchor functionality */
+
+    // Store hash location
+    var hashLocation = false;
+    if (location.hash) {
+        hashLocation = window.location.hash;
+        setTimeout(function() {
+            hashLocation = window.location.hash;
+        }, 1); // Execute at two moments for browser compatibility reasons
+    }
+
+    // If we have a hash location do stuff
+    if (hashLocation) {
+
+        // delay .1s for browser compatibility reasons
+        setTimeout(function() {
+
+            // Check hashLocation suffix
+            if( hashLocation.indexOf('_hash') < 0 ) {
+                hashLocation = hashLocation + "_hash";
+            };
+
+            // Scroll to target
+            $.smoothScroll({
+                scrollTarget: hashLocation,
+                offset: 60
+            });
+
+        }, 400);
+
+    };
+});
+</script>
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
@@ -81,7 +116,7 @@
 
   <body>
     <div class="wrapper">
-      <header data-gumshoe-header>
+      <header>
   <div class="header-utility_nav">
     <div class="header-inner">
       <ul class="header-nav">
@@ -103,18 +138,18 @@
   <div class="header-site_nav">
     <div class="header-inner">
     <svg class="logo" viewBox="0 0 982 245" preserveAspectRatio="xMinYMax meet"><use xlink:href="#logo"></use></svg>
-    <ul class="header-nav--main" data-gumshoe>
-        <li><a href="/#who-we-are" class="active">Who We Are</a></li>
-        <li><a href="/#our-work">Our Work</a></li>
-        <li class="header-nav-li--tiered"><a href="/#stories">Stories</a></li>
-        <li><a href="/#news">News</a></li>
-        <li><a href="/#working-with-dai">Working with DAI</a></li>
+    <ul class="header-nav--main">
+        <li><a href="/#who-we-are_hash" class="active">Who We Are</a></li>
+        <li><a href="/#our-work_hash">Our Work</a></li>
+        <li class="header-nav-li--tiered"><a href="/#stories_hash">Stories</a></li>
+        <li><a href="/#news_hash">News</a></li>
+        <li><a href="/#working-with-dai_hash">Working with DAI</a></li>
       </ul>
     </div>
   </div>
 </header>
       <div class="container content">
-        <div class="container-section" id="who-we-are">
+        <div class="container-section" id="who-we-are_hash">
   <div class="section-rail">
     <div class="rail-nav">
       <h4>Who We Are</h4>
@@ -153,7 +188,7 @@
     </div>
   </div>
 </div>
-<div class="container-section" id="our-work">
+<div class="container-section" id="our-work_hash">
   <div class="section-rail">
     <div class="rail-nav">
       <h4>Our Work</h4>
@@ -194,7 +229,7 @@
     </div>
   </div>
 </div>
-<div class="container-section" id="stories">
+<div class="container-section" id="stories_hash">
   <div class="section-rail">
     <div class="rail-nav">
       <h4>Stories</h4>
@@ -219,10 +254,9 @@
       <p>When DAI was called on to implement Proyecto de Justicia de USAID, it set ambitious goals. Among them: strengthen the country's criminal investigation and prosecution system, and build the judiciary's capacity to manage complex cases and caseloads. While the effort bolstered the country's law and justice services, some of the project's most heartfelt successes emanated from its most local component: the Casas Comunitarias de Justicia.</p>
       <a href="" class="primary-block--button">Continue Reading</a>
     </div>
-    
   </div>
 </div>
-<div class="container-section" id="news">
+<div class="container-section" id="news_hash">
   <div class="section-rail">
     <div class="rail-nav">
       <h4>News & Publications</h4>
@@ -243,10 +277,9 @@
       <p>In international development, one thing that everyone seems to agree on is that increasing women’s engagement in society has diverse and wide-reaching development benefits. Many people are familiar with some version of the adage: “If you educate a boy, you train a man. If you educate a girl, you train a village.” Expanding opportunities for women’s education, access to health services, economic participation, and leadership can have ripple effects that spur economic growth, promote political stability and peace, and improve public health.</p>
       <a href="" class="primary-block--button">Continue Reading</a>
     </div>
-    
   </div>
 </div>
-<div class="container-section" id="working-with-dai">
+<div class="container-section" id="working-with-dai_hash">
   <div class="section-rail">
     <div class="rail-nav">
       <h4>Working with DAI</h4>
@@ -256,7 +289,7 @@
         
           <li class="rail-nav-link"><a href="/working-dai/current-procurements">Currennt Procurements</a></li>
         
-          <li class="rail-nav-link"><a href="/working-dai/job-opportunities">Job Opportunities</a></li>
+          <li class="rail-nav-link"><a href="/working-dai/job-opportunities/">Job Opportunities</a></li>
         
           <li class="rail-nav-link"><a href="/working-dai/partnering-dai">Partnering with DAI</a></li>
         
@@ -341,7 +374,7 @@
     
       <li><a href="/working-dai/current-procurements">Currennt Procurements</a></li>
     
-      <li><a href="/working-dai/job-opportunities">Job Opportunities</a></li>
+      <li><a href="/working-dai/job-opportunities/">Job Opportunities</a></li>
     
       <li><a href="/working-dai/partnering-dai">Partnering with DAI</a></li>
     
@@ -355,11 +388,6 @@
       <a href="" class="footer-bottom-link">Privacy Policy</a> Copyright DAI. All Rights Reserved.</p>
     </div>
   </div>
-    <script>
-    gumshoe.init({
-      offset: -145
-    });
-</script>
 </footer>
     </div>
   </body>
