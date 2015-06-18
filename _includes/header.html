@@ -1,4 +1,4 @@
-<header data-gumshoe-header>
+<header>
   <div class="header-utility_nav">
     <div class="header-inner">
       <ul class="header-nav">
@@ -12,12 +12,12 @@
   <div class="header-site_nav">
     <div class="header-inner">
     <svg class="logo" viewBox="0 0 982 245" preserveAspectRatio="xMinYMax meet"><use xlink:href="#logo"></use></svg>
-    <ul class="header-nav--main" data-gumshoe>
-        <li><a href="/#who-we-are" class="active">Who We Are</a></li>
-        <li><a href="/#our-work">Our Work</a></li>
-        <li class="header-nav-li--tiered"><a href="/#stories">Stories</a></li>
-        <li><a href="/#news">News</a></li>
-        <li><a href="/#working-with-dai">Working with DAI</a></li>
+    <ul class="header-nav--main">
+        <li><a href="/#who-we-are{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="active">Who We Are</a></li>
+        <li><a href="/#our-work{% if page.title == "Home" %}{{"_hash"}}{% endif %}">Our Work</a></li>
+        <li class="header-nav-li--tiered"><a href="/#stories{% if page.title == "Home" %}{{"_hash"}}{% endif %}">Stories</a></li>
+        <li><a href="/#news{% if page.title == "Home" %}{{"_hash"}}{% endif %}">News</a></li>
+        <li><a href="/#working-with-dai{% if page.title == "Home" %}{{"_hash"}}{% endif %}">Working with DAI</a></li>
       </ul>
     </div>
   </div>
