@@ -1,12 +1,14 @@
 <script>
   $(document).ready(function() {
+    
+//Smooth-scroll to the on-page section//
+    
     $('.header-nav--main a').smoothScroll({
       offset: -145,
-      afterScroll: function(opts) {
-        $('.header-nav--main a').removeClass('active');
-        $(this).addClass('active');
-      }
     });
+    
+// Watch for hash links being loaded externally to smooth-scroll to them
+
     /* Take over default page anchor functionality */
 
     // Store hash location
@@ -38,5 +40,67 @@
         }, 400);
 
     };
+
+// Use waypoints to set active class as one scrolls through the page
+    // Set active when scrolling down
+    $('#who-we-are_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#who-we-are-nav').addClass('active');
+    },{offset: '148'},{direction: 'down'}); 
+    // set active for our-work on the way down
+    $('#our-work_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#our-work-nav').addClass('active');
+    },{offset: '165'},{direction: 'down'});
+    // switch actice to who-we are halfway up
+    $('#our-work_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#who-we-are-nav').addClass('active');
+    },{offset: '50%'},{direction: 'up'});
+    // set active for stories on the way down
+    $('#stories_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#stories-nav').addClass('active');
+    },{offset: '165'},{direction: 'down'});
+    // switch active to our-work halfway up
+    $('#stories_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#our-work-nav').addClass('active');
+    },{offset: '50%'},{direction: 'up'});
+    // set active for news on teh way down
+    $('#news_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#news-nav').addClass('active');
+    },{offset: '165'},{direction: 'down'});
+    // switch active to our-work halfway up
+    $('#news_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#stories-nav').addClass('active');
+    },{offset: '50%'},{direction: 'up'});
+    // set active for working on teh way down
+    $('#working-with-dai_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#working-with-dai-nav').addClass('active');
+    },{offset: '165'},{direction: 'down'});
+    // switch active to news halfway up
+    $('#working-with-dai_hash').waypoint(function(){
+    $('.header-nav--main a').removeClass('active');
+    $('#news-nav').addClass('active');
+    },{offset: '50%'},{direction: 'up'});
+
+
+    // $('#who-we-are_hash').waypoint(function(direction) {
+    // $('.header-nav--main a').removeAttr('class');
+    // $('#who-we-are-nav').toggleClass('active', direction === 'down');
+    // },{offset: '145'});
+
+    // $('#who-we-are_hash').waypoint(function() {
+    //     $('#who-we-are-nav').toggleClass('active');
+    // },{offset: 'bottom-in-view'},{direction: 'up'});
+
+    // $('#our-work_hash').waypoint(function(direction) {
+    // $('.header-nav--main a').removeAttr('class');
+    // $('#our-work-nav').toggleClass('active', direction === 'down');
+    // },{offset: '145'});
 });
 </script>
