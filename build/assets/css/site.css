@@ -137,6 +137,9 @@ strong {
   font-size: 1.3rem;
   font-weight: normal; }
 
+.disclaimer {
+  font-size: .8rem; }
+
 .footer-nav h4 {
   color: #8FC3EA;
   font-size: .6rem;
@@ -669,12 +672,12 @@ header {
       width: 624px; } }
 
 .primary-block {
-  margin-bottom: 1em; }
+  margin-bottom: 4em; }
   .primary-block img {
     width: 100%; }
 
 .primary-block.split {
-  margin-bottom: 3em; }
+  margin-bottom: 4em; }
   @media screen and (min-width: 50em) {
     .primary-block.split {
       width: 228px;
@@ -843,7 +846,8 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   background-image: url(/assets/images/working/boats.jpg);
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  background-position: center; }
   .node-nav:before, .node-nav:after {
     content: " ";
     display: table; }
@@ -857,10 +861,15 @@ tbody tr:nth-child(odd) th {
     color: white; }
   .node-nav--links li a {
     color: #c8c6c2; }
+  .node-nav--links li a.active {
+    color: white; }
   @media screen and (min-width: 30em) {
     .node-nav--links {
       width: 192px;
       float: left; } }
+  @media screen and (min-width: 37.5em) {
+    .node-nav--links {
+      width: 264px; } }
 
 @media screen and (min-width: 30em) {
   .node-nav-banner {

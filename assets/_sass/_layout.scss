@@ -200,13 +200,13 @@ header{
   }
 }
 .primary-block{
-  margin-bottom: 1em;
+  margin-bottom: 4em;
   img{
     width: 100%;
   }
 }
 .primary-block.split{
-  margin-bottom: 3em;
+  margin-bottom: 4em;
   @include responsive(wide-screens){
     @include width(3.5);
     margin-bottom: 1em;
@@ -398,6 +398,7 @@ tbody tr:nth-child(odd) th {
   background-image: url(/assets/images/working/boats.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 .node-nav--links{
   background-color: $nav-black;
@@ -408,9 +409,15 @@ tbody tr:nth-child(odd) th {
   li a{
     color: $node-nav--inactive;
   }
+  li a.active{
+    color: $text-white;
+  }
   @include responsive(small-screens){
     @include width(3);
     float: left;
+  }
+  @include responsive(medium-screens){
+    @include width(4);
   }
 }
 .node-nav-banner{
