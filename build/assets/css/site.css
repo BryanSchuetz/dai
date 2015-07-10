@@ -837,3 +837,34 @@ tbody tr:nth-child(odd) th {
   color: #717171;
   background-color: #fef3ea;
   border-radius: 5px; }
+
+.node-nav {
+  *zoom: 1;
+  margin-bottom: 1rem;
+  background-image: url(/assets/images/working/boats.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .node-nav:before, .node-nav:after {
+    content: " ";
+    display: table; }
+  .node-nav:after {
+    clear: both; }
+
+.node-nav--links {
+  background-color: #1c242b;
+  padding: 1rem; }
+  .node-nav--links h4 {
+    color: white; }
+  .node-nav--links li a {
+    color: #c8c6c2; }
+  @media screen and (min-width: 30em) {
+    .node-nav--links {
+      width: 192px;
+      float: left; } }
+
+@media screen and (min-width: 30em) {
+  .node-nav-banner {
+    width: 216px;
+    float: right; } }
+.node-nav-banner img {
+  border: 0; }
