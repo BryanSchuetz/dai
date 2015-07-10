@@ -40,6 +40,9 @@ $cols16: (16 * ($column + $gutter) - $gutter);
 @mixin width ($cols:1) {
   width: ($cols * ($column + $gutter) - $gutter);
 }
+@mixin full-width ($cols:1){
+  width: ($cols * ($column + $gutter));
+}
 @mixin min-width ($cols:1) {
   width: ($cols * ($column + $gutter) - $gutter);
 }
