@@ -176,7 +176,6 @@ header{
   list-style-type: none;
   margin-left: 0px;
 }
-
 // 🎌 MAIN: PRIMARY  🎌
 
 .section-header{
@@ -200,13 +199,19 @@ header{
   }
 }
 .primary-block{
-  margin-bottom: 4em;
+  margin-bottom: 1em;
   img{
     width: 100%;
   }
 }
 .primary-block.split{
-  margin-bottom: 4em;
+  margin-bottom: 1em;
+  @include responsive(small-screens){
+    @include width(3);
+  }
+  @include responsive (small-screens){
+    @include width(3);
+  }
   @include responsive(wide-screens){
     @include width(3.5);
     margin-bottom: 1em;
@@ -216,25 +221,36 @@ header{
   }
 }
 .primary-block.split.left{
+  @include responsive(small-screens){
+    float: left;
+    margin-right: $gutter;
+  }
   @include responsive(wide-screens){
     float: left;
     margin-right: $gutter;
   } 
 }
 .primary-block.split.right{
+  @include responsive(small-screens){
+    float: right;
+  }
   @include responsive(wide-screens){
     float: right;
   } 
 }
 .primary-block--button{
+  @include responsive(tiny-screens){
+    display: block;
+    width: 100%;
+  }
   padding: 7px;
-  background-color: $button-green;
+  background-color: darken($button-green, 10%);
   color: $text-white;
   font-weight: 400;
   border-radius: 2px;
 }
 .primary-block--button:hover{
-  background-color: darken($button-green, 10%);
+  background-color: lighten($button-green, 1%);
 }
 .primary-block{
   li{
@@ -245,7 +261,12 @@ header{
     margin-left: 0px;
   }
 }
-
+.redirect{
+  height: 1rem;
+  position: relative;
+  top: .3rem;
+  float: right;
+}
 // 🎌 FOOTER 🎌
 
 footer{
