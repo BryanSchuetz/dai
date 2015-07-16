@@ -10,4 +10,9 @@ guard 'rake', :task => 'build' do
   watch(%r{^assets/_sass/.+\.scss})
   watch(%r{^_data/.+\.yml})
   watch('about.md')
+  watch(%r{^working-dai/.+\.md})
+  watch(%r{^who-we-are/.+\.md})
+  watch(%r{^our-work/.+\.mdl})
+  watch(%r{^stories/.+\.mdl})
+  watch(%r{^news-and-publications/.+\.mdl})
 end

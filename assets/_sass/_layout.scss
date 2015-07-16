@@ -234,8 +234,7 @@ header{
   @include responsive(small-screens){
     float: right;
   }
-  @include responsive(wide-screens){
-    float: right;
+  @include responsive(wide-screens){float: right;
   } 
 }
 .primary-block--button{
