@@ -13,7 +13,7 @@ Our Executive Leadership Team ensures that DAI’s passion for development is de
     <img src="{{leader.thumbnail}}" alt="" class="leaders-photo">
     <div class="leaders-details">
       <h3>{{ leader.title }}</h3>
-      <p><strong>{{ leader.job-title }}</strong></p>
+      <p>{{ leader.job-title }}</p>
     </div>
     <div class="leaders-summary">
       <p>{{ leader.summary }}</p>

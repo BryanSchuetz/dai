@@ -459,31 +459,24 @@ img{
 
 .leaders-photo{
   @include responsive(small-screens){
-    width: 40%;
+    width: 55%;
     float: left;
-  }
-  @include responsive(wide-screens){
-    width: 55%
   }
 }
 .leaders-details{
-  @include responsive(small-screens){
-    width: 55%;
-    float: right;
+  h3{
+    margin-bottom: .1rem;
   }
-  @include responsive(wide-screens){
-    width: 40%
+  @include responsive(small-screens){
+    width: 40%;
+    float: right;
   }
 }
 .leaders-summary{
   clear: left;
-  @include responsive(medium-screens){
-    width: 55%;
-    float: right;
-    clear: none;
-  }
   @include responsive(wide-screens){
     width: 40%;
+    float: right;
     clear: none;
   }
 }
