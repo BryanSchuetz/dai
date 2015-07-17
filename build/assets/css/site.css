@@ -739,7 +739,8 @@ header {
 
 footer {
   background-color: #1c242b;
-  padding-top: 2rem; }
+  padding-top: 2rem;
+  margin-top: 2rem; }
 
 .footer-inner {
   min-height: 300px;
@@ -870,7 +871,6 @@ tbody tr:nth-child(odd) th {
 .node-nav {
   *zoom: 1;
   margin-bottom: 1rem;
-  background-image: url(/assets/images/working/boats.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; }
@@ -879,6 +879,12 @@ tbody tr:nth-child(odd) th {
     display: table; }
   .node-nav:after {
     clear: both; }
+
+.node-nav.working-dai {
+  background-image: url(/assets/images/node/boats.jpg); }
+
+.node-nav.who-we-are {
+  background-image: url(/assets/images/node/scaffold.jpg); }
 
 .node-nav--links {
   background-color: #1c242b;
@@ -903,3 +909,6 @@ tbody tr:nth-child(odd) th {
     float: right; } }
 .node-nav-banner img {
   border: 0; }
+
+img {
+  width: 100%; }

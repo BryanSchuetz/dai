@@ -271,6 +271,7 @@ header{
 footer{
   background-color: $nav_black;
   padding-top: 2rem;
+  margin-top: 2rem;
 }
 .footer-inner{
   min-height: 300px;
@@ -415,10 +416,15 @@ tbody tr:nth-child(odd) th {
 .node-nav{
   @include clearfix;
   margin-bottom: 1rem;  
-  background-image: url(/assets/images/working/boats.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+.node-nav.working-dai{
+  background-image: url(/assets/images/node/boats.jpg);
+}
+.node-nav.who-we-are{
+  background-image: url(/assets/images/node/scaffold.jpg)
 }
 .node-nav--links{
   background-color: $nav-black;
@@ -449,4 +455,6 @@ tbody tr:nth-child(odd) th {
     border: 0;
   }
 }
-
+img{
+  width: 100%;
+}
