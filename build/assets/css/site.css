@@ -151,6 +151,9 @@ strong {
 .node-nav--links li a.active {
   color: white; }
 
+.leaders-details p {
+  font-weight: bold; }
+
 .footer-nav h4 {
   color: #8FC3EA;
   font-size: .6rem;
@@ -925,30 +928,22 @@ img {
 
 @media screen and (min-width: 30em) {
   .leaders-photo {
-    width: 40%;
+    width: 55%;
     float: left; } }
-@media screen and (min-width: 50em) {
-  .leaders-photo {
-    width: 55%; } }
 
+.leaders-details h3 {
+  margin-bottom: .1rem; }
 @media screen and (min-width: 30em) {
   .leaders-details {
-    width: 55%;
+    width: 40%;
     float: right; } }
-@media screen and (min-width: 50em) {
-  .leaders-details {
-    width: 40%; } }
 
 .leaders-summary {
   clear: left; }
-  @media screen and (min-width: 37.5em) {
-    .leaders-summary {
-      width: 55%;
-      float: right;
-      clear: none; } }
   @media screen and (min-width: 50em) {
     .leaders-summary {
       width: 40%;
+      float: right;
       clear: none; } }
 
 .leaders-button {
