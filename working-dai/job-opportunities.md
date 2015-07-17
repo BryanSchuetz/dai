@@ -5,7 +5,7 @@ parent: working-dai
 ---
 DAI offers rewarding career opportunities for talented technical, managerial, and support professionals. By providing challenging assignments, a commitment to professional development, managerial systems based on teamwork, and an ownership stake in the company, we attract and retain high-caliber staff. Our workforce reflects a cultural diversity that gives us a broad spectrum of backgrounds and perspectives.
 
-<p><a href="" class="primary-block--button">Search Current Openings <svg class="redirect" viewBox="0 0 72 63" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></p>
+<p><a href="" class="primary-block--button">Search Current Openings <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></p>
 
 It is the policy of DAI to use the Internet and related electronic data technologies to fill all vacant home office (corporate) positions. Job seekers, both internal and external, including but not limited to individuals sourced by means of job fairs, networking events, and employee referrals, will be directed to apply at the DAI online career page. Job seekers are instructed to complete a profile and upload a copy of their current curriculum vitae for a particular job opening.
 

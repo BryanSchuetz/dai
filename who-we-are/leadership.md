@@ -6,7 +6,19 @@ parent: who-we-are
 
 Our Executive Leadership Team ensures that DAI’s passion for development is delivered with the discipline of a business. Embracing the rigors of the marketplace—competition and innovation—they set the standards for a company dedicated to delivering both development results and development value. The Executive Leadership Team reports to DAI’s [Board of Directors](#).
 
+<hr>
 
 {% for leader in site.leaders %}
-  
+  <div class="leaders-block">
+    <img src="{{leader.thumbnail}}" alt="" class="leaders-photo">
+    <div class="leaders-details">
+      <h3>{{ leader.title }}</h3>
+      <p><strong>{{ leader.job-title }}</strong></p>
+    </div>
+    <div class="leaders-summary">
+      <p>{{ leader.summary }}</p>
+    </div>
+    <a href="{{ leader.url }}" class="primary-block--button leaders-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+  <hr>
 {% endfor %}

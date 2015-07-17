@@ -413,6 +413,7 @@ tbody tr:nth-child(odd) th {
 }
 
 // 🎌 NODE 🎌
+
 .node-nav{
   @include clearfix;
   margin-bottom: 1rem;  
@@ -429,15 +430,6 @@ tbody tr:nth-child(odd) th {
 .node-nav--links{
   background-color: $nav-black;
   padding: 1rem;
-  h4{
-    color: $text-white;
-  }
-  li a{
-    color: $node-nav--inactive;
-  }
-  li a.active{
-    color: $text-white;
-  }
   @include responsive(small-screens){
     @include width(3);
     float: left;
@@ -457,4 +449,49 @@ tbody tr:nth-child(odd) th {
 }
 img{
   width: 100%;
+}
+
+// 🎌 LEADERS 🎌
+
+.leaders-block{
+  @include clearfix;
+}
+
+.leaders-photo{
+  @include responsive(small-screens){
+    width: 40%;
+    float: left;
+  }
+  @include responsive(wide-screens){
+    width: 55%
+  }
+}
+.leaders-details{
+  @include responsive(small-screens){
+    width: 55%;
+    float: right;
+  }
+  @include responsive(wide-screens){
+    width: 40%
+  }
+}
+.leaders-summary{
+  clear: left;
+  @include responsive(medium-screens){
+    width: 55%;
+    float: right;
+    clear: none;
+  }
+  @include responsive(wide-screens){
+    width: 40%;
+    clear: none;
+  }
+}
+.leaders-button{
+  clear: both;
+  @include responsive(wide-screens){
+    clear: right;
+    float: right;
+    width: 40%;
+  }
 }
