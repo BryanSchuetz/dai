@@ -130,10 +130,10 @@ strong {
     font-size: 1rem;
     margin-bottom: .4em;
     padding-left: .3rem;
-    line-height: 1rem;
+    line-height: 1.1rem;
   }
   a{
-    line-height: 1rem;
+    line-height: 1.1rem;
   }
 }
 .primary-block h3{
@@ -143,6 +143,25 @@ strong {
 .disclaimer{
   font-size: .8rem;
 }
+
+// 🎌 NODE 🎌
+
+.node-nav--links{
+  h4{
+    color: $text-white;
+  }
+  li a{
+    color: $node-nav--inactive;
+    line-height: 1.1rem;
+  }
+  li a.active{
+    color: $text-white;
+  }
+}
+
+// 🎌 LEADERS 🎌
+
+
 // 🎌 FOOTER 🎌
 
 .footer-nav{
