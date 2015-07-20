@@ -12,6 +12,9 @@ collections:
   leaders:
     output: true
     permalink: /who-we-are/leadership/:path/
+  experts:
+    output: true
+    permalink: /who-we-are/experts/:path/
 # Sass support via Jekyll 2.0
 sass:
   sass_dir:     assets/_sass
