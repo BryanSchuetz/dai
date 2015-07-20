@@ -9,16 +9,16 @@ Our Executive Leadership Team ensures that DAI’s passion for development is de
 <hr>
 
 {% for leader in site.leaders %}
-  <div class="leaders-block">
-    <img src="{{leader.thumbnail}}" alt="" class="leaders-photo">
-    <div class="leaders-details">
+  <div class="people-block">
+    <img src="{{leader.thumbnail}}" alt="" class="people-photo">
+    <div class="people-details">
       <h3>{{ leader.title }}</h3>
       <p>{{ leader.job-title }}</p>
     </div>
-    <div class="leaders-summary">
+    <div class="people-summary">
       <p>{{ leader.summary }}</p>
     </div>
-    <a href="{{ leader.url }}" class="primary-block--button leaders-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+    <a href="{{ leader.url }}" class="primary-block--button people-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
   <hr>
 {% endfor %}

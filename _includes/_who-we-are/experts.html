@@ -1,0 +1,5 @@
+<p class="">{{ page.job-title }}</p>
+<div class="expert-details">
+  <p>Expertise: {% for expertise in page.expertise offset:1 %}<a href="/our-work/solutions/{{ expertise | downcase | replace: ' ', '-' }}">{{ expertise }}</a>, {% endfor %}{% for expertise in page.expertise.first %}<a href="/our-work/solutions/{{ expertise | downcase | replace: ' ', '-' }}">{{ expertise }}</a>{% endfor %}</p>
+  <p>Regions: {% for region in page.regions offset:1 %}<a href="/our-work/regions/{{ region | downcase | replace: ' ', '-' }}">{{ region }}</a>, {% endfor %}{% for region in page.regions.first %}<a href="/our-work/regions/{{ region | downcase | replace: ' ', '-' }}">{{ region }}</a>{% endfor %}</p>
+</div>

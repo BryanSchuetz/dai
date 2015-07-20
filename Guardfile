@@ -12,7 +12,8 @@ guard 'rake', :task => 'build' do
   watch('about.md')
   watch(%r{^working-dai/.+\.md})
   watch(%r{^who-we-are/.+\.md})
-  watch(%r{^our-work/.+\.mdl})
-  watch(%r{^stories/.+\.mdl})
-  watch(%r{^news-and-publications/.+\.mdl})
+  watch(%r{^our-work/.+\.md})
+  watch(%r{^stories/.+\.md})
+  watch(%r{^news-and-publications/.+\.md})
+  watch(%r{^_experts/.+\.md})
 end
