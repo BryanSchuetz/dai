@@ -953,3 +953,30 @@ img {
       clear: right;
       float: right;
       width: 40%; } }
+
+.expert-details {
+  *zoom: 1; }
+  .expert-details:before, .expert-details:after {
+    content: " ";
+    display: table; }
+  .expert-details:after {
+    clear: both; }
+
+.expert-details--title {
+  font-weight: bold; }
+
+.expert-details--photo {
+  width: 40%;
+  float: left; }
+  @media screen and (min-width: 37.5em) {
+    .expert-details--photo {
+      width: 20%; } }
+
+.expert-details--metadata {
+  width: 55%;
+  float: right; }
+  .expert-details--metadata p {
+    margin-bottom: .1rem; }
+  @media screen and (min-width: 37.5em) {
+    .expert-details--metadata {
+      width: 75%; } }
