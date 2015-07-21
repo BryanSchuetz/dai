@@ -1,17 +1,20 @@
-<p class="">{{ page.job-title }}</p>
 <div class="expert-details">
-  <p>Expertise: 
-  {% for expertise in page.expertise offset:1 %}
-    <a href="/our-work/solutions/{{ expertise | downcase | replace: ' ', '-' }}">{{ expertise }}</a>, 
-  {% endfor %}
-  {% for expertise in page.expertise.first %}
-    <a href="/our-work/solutions/{{ expertise | downcase | replace: ' ', '-' }}">{{ expertise }}</a>
-  {% endfor %}</p>
-  <p>Regions: 
-  {% for region in page.regions offset:1 %}
-    <a href="/our-work/regions/{{ region | downcase | replace: ' ', '-' }}">{{ region }}</a>, 
-  {% endfor %}
-  {% for region in page.regions.first %}
-    <a href="/our-work/regions/{{ region | downcase | replace: ' ', '-' }}">{{ region }}</a>
-  {% endfor %}</p>
+  <img src="{{ page.photo }}" alt="" class="expert-details--photo">
+  <div class="expert-details--metadata">
+    <p class="expert-details--title">{{ page.job-title }}</p>
+    <p>Expertise:  
+    {% for expertise in page.expertise offset:1 %}
+      <a href="/our-work/solutions/{{ expertise | downcase | replace: ' ', '-' }}">{{ expertise }}</a>, 
+    {% endfor %}
+    {% for expertise in page.expertise.first %}
+      <a href="/our-work/solutions/{{ expertise | downcase | replace: ' ', '-' }}">{{ expertise }}</a>
+    {% endfor %}</p>
+    <p>Regions: 
+    {% for region in page.regions offset:1 %}
+      <a href="/our-work/regions/{{ region | downcase | replace: ' ', '-' }}">{{ region }}</a>, 
+    {% endfor %}
+    {% for region in page.regions.first %}
+      <a href="/our-work/regions/{{ region | downcase | replace: ' ', '-' }}">{{ region }}</a>
+    {% endfor %}</p>
+  </div>
 </div>

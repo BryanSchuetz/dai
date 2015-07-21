@@ -10,10 +10,12 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 
 {% for expert in site.experts %}
   <div class="people-block">
-    <img src="{{expert.thumbnail}}" alt="" class="people-photo">
-    <div class="people-details">
+    <img src="{{expert.photo}}" alt="" class="expert-details--photo">
+    <div class="expert-details--metadata">
       <h3>{{ expert.title }}</h3>
-      <p>{{ expert.job-title }}</p>
+      <p class="expert-details--title">{{ expert.job-title }}</p>
+      <p>Expertise: <a href="/our-work/solutions/{{ expert.expertise[0] | downcase | replace: ' ', '-' }}">{{ expert.expertise[0] }}</a>{% if expert.expertise[1] %}, <a href="/our-work/solutions/{{ expert.expertise[1] | downcase | replace: ' ', '-' }}">{{ expert.expertise[1] }}</a>{% endif %}</p>
+      <p>Regions: <a href="/our-work/regions/{{ expert.regions[0] | downcase | replace: ' ', '-' }}">{{ expert.regions[0] }}</a>{% if expert.regions[1] %}, <a href="/our-work/regions/{{ expert.regions[1] | downcase | replace: ' ', '-' }}">{{ expert.regions[1] }}</a>{% endif %}</p>
     </div>
     <div class="people-summary">
       <p>{{ expert.summary }}</p>
