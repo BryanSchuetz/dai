@@ -956,7 +956,7 @@ img {
 
 @media screen and (min-width: 37.5em) {
   .experts-rail {
-    width: 50%; } }
+    width: 60%; } }
 
 .expert-details {
   *zoom: 1; }
@@ -989,5 +989,5 @@ img {
   clear: both; }
 
 .hexer, .hexer-red, .globe-blue, .globe-purple {
-  height: 2rem;
+  height: 1rem;
   margin-right: .2rem; }
