@@ -487,6 +487,11 @@ img{
     width: 40%;
   }
 }
+.experts-rail{
+  @include responsive(medium-screens){
+    width: 50%;
+  }
+}
 .expert-details{
   @include clearfix;
 }
@@ -497,7 +502,7 @@ img{
   width: 40%;
   float: left;
   @include responsive(medium-screens){
-    width: 20%;
+    width: 30%;
   }
 }
 .expert-details--metadata{
@@ -507,6 +512,13 @@ img{
     margin-bottom: .1rem;
   }
   @include responsive(medium-screens){
-    width: 75%
+    width: 65%
   }
+}
+.expert-summary{
+  clear: both;
+}
+.hexer, .hexer-red, .globe-blue, .globe-purple{
+  height: 2rem;
+  margin-right: .2rem;
 }
