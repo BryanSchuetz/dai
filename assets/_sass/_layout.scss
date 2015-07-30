@@ -489,7 +489,7 @@ img{
 }
 .experts-rail{
   @include responsive(medium-screens){
-    width: 50%;
+    width: 60%;
   }
 }
 .expert-details{
@@ -519,6 +519,6 @@ img{
   clear: both;
 }
 .hexer, .hexer-red, .globe-blue, .globe-purple{
-  height: 2rem;
+  height: 1rem;
   margin-right: .2rem;
 }
