@@ -156,6 +156,7 @@ header{
 }
 .content{
   padding-top: 9rem;
+  @include clearfix;
 }
 
 // 🎌 MAIN: RAIL  🎌
@@ -473,23 +474,30 @@ img{
 }
 .people-summary{
   clear: left;
-  @include responsive(wide-screens){
-    width: 40%;
-    float: right;
-    clear: none;
-  }
+  // @include responsive(wide-screens){
+  //   width: 40%;
+  //   float: right;
+  //   clear: none;
+  // }
 }
 .people-button{
   clear: both;
-  @include responsive(wide-screens){
-    clear: right;
-    float: right;
-    width: 40%;
-  }
+  // @include responsive(wide-screens){
+  //   clear: right;
+  //   float: right;
+  //   width: 40%;
+  // }
 }
 .experts-rail{
-  @include responsive(medium-screens){
+  @include responsive(wide-screens){
     width: 60%;
+    float: left;
+  }
+}
+.experts-filter{
+  @include responsive(wide-screens){
+    width: 35%;
+    float: right;
   }
 }
 .expert-details{
@@ -520,5 +528,6 @@ img{
 }
 .hexer, .hexer-red, .globe-blue, .globe-purple{
   height: 1rem;
-  margin-right: .2rem;
+  position: relative;
+  top: .2rem;
 }
