@@ -7,29 +7,7 @@ parent: who-we-are
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s technical leaders are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
 <hr>
-<div class="experts-filter">
-  <h3>Team Filter</h3>
-  <p>Looking for expertise in a particular technical area or geographical region? Use the filter tools below to limit your search of DAI staff.</p>
-          <select id="cd-dropdown" class="cd-select">
-            <option value="-1" selected>Choose A Solution</option>
-            <option value="#" >Corporate Services</option>
-            <option value="#" >Economic Growth</option>
-            <option value="#" >Environment & Energy</option>
-            <option value="#" >Governance</option>
-            <option value="#" >Health</option>
-            <option value="#" >ICT</option>
-            <option value="#" >Stability</option>
-          </select>
-          <select id="cd-dropdown-1" class="cd-select">
-            <option value="-1" selected>Choose A Geography</option>
-            <option value="#" >Asia and the Pacific</option>
-            <option value="#" >Eastern Europe</option>
-            <option value="#" >Latin America</option>
-            <option value="#" >Middle East</option>
-            <option value="#" >Sub-Saharan Africa</option>
-          </select>
-  <hr>
-</div>
+{% include _who-we-are/experts-filter.html %}
 {% for expert in site.experts %}
 <div class="experts-rail">
   <div class="people-block">

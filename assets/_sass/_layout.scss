@@ -495,7 +495,9 @@ img{
   }
 }
 .experts-filter{
+  display: none;
   @include responsive(wide-screens){
+    display: block;
     width: 35%;
     float: right;
   }
