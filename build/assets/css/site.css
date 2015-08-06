@@ -962,6 +962,11 @@ img {
       display: block;
       width: 35%;
       float: right; } }
+  .experts-filter ul {
+    list-style-type: none;
+    margin-left: 0; }
+    .experts-filter ul li svg {
+      height: 3rem; }
 
 .expert-details {
   *zoom: 1; }
