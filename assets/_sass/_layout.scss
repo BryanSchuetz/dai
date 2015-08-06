@@ -501,6 +501,15 @@ img{
     width: 35%;
     float: right;
   }
+  ul{
+    list-style-type: none;
+    margin-left: 0;
+    li{
+      svg{
+        height: 3rem;
+      }
+    }
+  }
 }
 .expert-details{
   @include clearfix;

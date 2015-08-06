@@ -2,11 +2,9 @@
   <h3>Team Filter</h3>
   <p>Looking for expertise in a particular technical topic or geographical area? Click below to limit your search of DAI staff to a particular solution or region.</p>
   <h3>Filter by Solution</h3>
-  <ul>
-  {% for solution in site.data.solutions %}
-    <li class="experts-filter--solution"><a href=""> {{ solution.icon }} {{ solution.text }} </a></li>
-  {% endfor %}
-  </ul>
+  <ul>{% for solution in site.data.solutions %}
+  <li class="experts-filter--solution"><a href=""> {{ solution.icon }} {{ solution.text }} </a></li>
+  {% endfor %}</ul>
   <h3>Filter by Region</h3>
   <hr>  
 </div>
