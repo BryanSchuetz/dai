@@ -14,13 +14,21 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
     <img src="{{expert.photo}}" alt="" class="expert-details--photo">
     <div class="expert-details--metadata">
       <h3>{{ expert.title }}</h3>
-      {% for expertise in expert.expertise %}
         <p class="expert-details--expertise">
-          {% if expertise == 'Economic Growth' %} <a href="/our-work/solutions/economic-growth/"><svg class="hexer" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer"></use></svg> Economic Growth</a>{% endif %} {% if expertise == 'Governance' %} <a href="/our-work/solutions/governance/"><svg class="hexer-red" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer-red"></use></svg> Governance</a>{% endif %}</p>
+      {% for expertise in expert.expertise %}
+        {% for solution in site.data.solutions %}
+          {% if expertise == solution.text %}
+            <a class="href="">{{ solution.icon }} {{ solution.text }}</a>
+          {% endif %}
+        {% endfor %}
       {% endfor %}
-      {% for region in expert.regions %}
+      {% for locale in expert.regions %}
         <p class="expert-details--regions">
-          {% if region == 'Sub-Saharan Africa' %} <a href="/our-work/regions/sub-saharan-africa/"><svg class="globe-blue" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#globe-blue"></use></svg> Sub-Saharan Africa</a> </svg> {% endif %} {% if region == 'Eastern Europe and Central Asia' %} <a href="/our-work/regions/sub-saharan-africa/"><svg class="globe-purple" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#globe-purple"></use></svg> Eastern Europe & Central Asia</a>{% endif %}
+          {% for region in site.data.regions %}
+            {% if locale == region.text %}
+            <a class="href="">{{ region.icon }} {{ region.text }}</a>
+          {% endif %}
+        {% endfor %}
         </p>
       {% endfor %}
     </div>

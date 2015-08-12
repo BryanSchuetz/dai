@@ -967,23 +967,30 @@ img {
     padding: .5rem;
     background-color: #f2f0ed;
     border: 1px solid #f2f0ed;
-    margin-bottom: .5rem;
+    margin-bottom: .8rem;
     border-radius: 4px;
-    font-size: 1rem; }
+    font-size: .8rem;
+    color: #1c242b; }
     @media screen and (min-width: 60em) {
       .experts-filter a {
-        font-size: 1.3rem; } }
+        font-size: 1rem; } }
     .experts-filter a svg {
-      height: 1rem; }
+      height: .8rem;
+      position: relative;
+      top: .1rem;
+      margin-right: .2rem; }
       @media screen and (min-width: 60em) {
         .experts-filter a svg {
-          height: 1.3rem; } }
+          height: 1rem;
+          top: .2rem; } }
   .experts-filter a:hover {
-    border: 1px solid #1c242b;
-    color: #1c242b; }
+    border: 1px solid #1c242b; }
 
 #hexer-path {
   stroke: black; }
+
+.experts-filter--control {
+  margin-bottom: 2rem; }
 
 .experts-filter--solution.hover #hexer-path {
   stroke: #1c242b; }
@@ -1014,6 +1021,9 @@ img {
   @media screen and (min-width: 37.5em) {
     .expert-details--metadata {
       width: 65%; } }
+
+.expert-details--expertise a, .expert-details--regions a {
+  display: block; }
 
 .expert-summary {
   clear: both; }
