@@ -501,15 +501,34 @@ img{
     width: 35%;
     float: right;
   }
-  ul{
-    list-style-type: none;
-    margin-left: 0;
-    li{
-      svg{
-        height: 3rem;
+  a{
+    display: block;
+    padding: .5rem;
+    background-color: $nav-gray;
+    border: 1px solid $nav-gray;
+    margin-bottom: .5rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    @include responsive(ultra-wide-screens){
+      font-size: 1.3rem;
+    }
+    svg{
+      height: 1rem;
+      @include responsive(ultra-wide-screens){
+        height: 1.3rem;
       }
     }
   }
+  a:hover{
+    border: 1px solid $nav-black;
+    color: $nav-black;
+  }
+}
+#hexer-path{
+  stroke: black;
+}
+.experts-filter--solution.hover #hexer-path{
+  stroke: $nav-black;
 }
 .expert-details{
   @include clearfix;
@@ -537,7 +556,7 @@ img{
 .expert-summary{
   clear: both;
 }
-.hexer, .hexer-red, .globe-blue, .globe-purple{
+.hexer, .hexer-red, .hexer-blue, .globe-blue, .globe-purple{
   height: 1rem;
   position: relative;
   top: .2rem;
