@@ -1,0 +1,10 @@
+- text: Asia and the Pacific
+  icon: <svg class="globe-blue" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#globe-blue"></use></svg>
+- text: Eastern Europe & Central Asia
+  icon: <svg class="globe-blue" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#globe-blue"></use></svg>
+- text: Latin America & the Caribbean
+  icon: <svg class="globe-blue" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#globe-blue"></use></svg>
+- text: Middle East & North Africa
+  icon: <svg class="globe-blue" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#globe-blue"></use></svg>
+- text: Sub-Saharan Africa
+  icon: <svg class="globe-blue" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#globe-blue"></use></svg>
