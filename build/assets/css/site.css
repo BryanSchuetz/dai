@@ -938,7 +938,8 @@ img {
     float: left; } }
 
 .people-details h3 {
-  margin-bottom: .1rem; }
+  margin-bottom: .1rem;
+  color: #74BC70; }
 @media screen and (min-width: 30em) {
   .people-details {
     width: 40%;
