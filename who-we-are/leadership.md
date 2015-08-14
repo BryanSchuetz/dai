@@ -10,6 +10,7 @@ Our Executive Leadership Team ensures that DAI’s passion for development is de
 
 {% for leader in site.leaders %}
   <div class="people-block">
+    <!-- #FIXING:0 fix whitespace around thumbnail so it doesn't look so blank -->
     <img src="{{leader.thumbnail}}" alt="" class="people-photo">
     <div class="people-details">
       <h3>{{ leader.title }}</h3>

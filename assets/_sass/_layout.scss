@@ -19,7 +19,7 @@
 }
 
 // 🎌 HEADER 🎌
-    
+
 header{
   position: fixed;
   width: 100%;
@@ -33,7 +33,7 @@ header{
     list-style-type: none;
     float: left;
     font-size: .8rem;
-    // fix temp-height 
+    // fix temp-height
     a{
       color: $nav_links;
       font-weight: 200;
@@ -187,7 +187,7 @@ header{
 .section-primary{
   @include width(4);
   @include responsive(small-screens){
-    @include width(6);  
+    @include width(6);
   }
   @include responsive(medium-screens){
     float: right;
@@ -229,14 +229,14 @@ header{
   @include responsive(wide-screens){
     float: left;
     margin-right: $gutter;
-  } 
+  }
 }
 .primary-block.split.right{
   @include responsive(small-screens){
     float: right;
   }
   @include responsive(wide-screens){float: right;
-  } 
+  }
 }
 .primary-block--button{
   @include responsive(tiny-screens){
@@ -417,7 +417,7 @@ tbody tr:nth-child(odd) th {
 
 .node-nav{
   @include clearfix;
-  margin-bottom: 1rem;  
+  margin-bottom: 1rem;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -443,7 +443,7 @@ tbody tr:nth-child(odd) th {
   @include responsive(small-screens){
     @include full-width(3);
     float: right;
-  } 
+  }
   img{
     border: 0;
   }
@@ -466,6 +466,7 @@ img{
 .people-details{
   h3{
     margin-bottom: .1rem;
+    color: $link-green;
   }
   @include responsive(small-screens){
     width: 40%;
