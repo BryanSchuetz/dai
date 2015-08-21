@@ -19,7 +19,7 @@ DAI is an equal opportunity/affirmative action employer with a commitment to  di
 * [Detailed explanation of the EEO is the Law poster (Spanish)](http://dai.com/sites/default/files/eeo-spanish.pdf)
 * [DAI EEO policy](http://dai.com/sites/default/files/pdfs/eeo_policy.pdf)
 
-### Benefits
+## Benefits
 
 Joining DAI means that you now play a role in shaping a livable world. It also means that you have our global commitment to support you and your family by offering competitive and comprehensive compensation and benefits. As a DAI employee, whether you work in the U.S, the U.K., or a field location around the world, you and your dependents have access to generous health, welfare and pension plans, as well as market leading time off benefits and more.
 
@@ -28,4 +28,3 @@ DAI strives to be an employer of choice and to achieve a healthy work-life balan
 ___
 
 <p class="disclaimer">DAI makes reasonable accommodation for individuals with disabilities who are otherwise qualified to perform a job, unless such accommodation would impose an undue hardship. Please let us know if you need an accommodation to participate in the application process: Call (301) 771-7587 or (301) 771-7768.</p>
-

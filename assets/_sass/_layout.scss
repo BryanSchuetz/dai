@@ -244,13 +244,15 @@ header{
     width: 100%;
   }
   padding: 7px;
-  background-color: darken($button-green, 10%);
+  background-color: lighten($button-green, 10%);
   color: $text-white;
   font-weight: 400;
   border-radius: 2px;
+  display: block;
+  width: 30%;
 }
 .primary-block--button:hover{
-  background-color: lighten($button-green, 1%);
+  background-color: darken($button-green, 10%);
 }
 .primary-block{
   li{
@@ -466,7 +468,6 @@ img{
 .people-details{
   h3{
     margin-bottom: .1rem;
-    color: $link-green;
   }
   @include responsive(small-screens){
     width: 40%;
@@ -475,19 +476,19 @@ img{
 }
 .people-summary{
   clear: left;
-  // @include responsive(wide-screens){
-  //   width: 40%;
-  //   float: right;
-  //   clear: none;
-  // }
+  @include responsive(wide-screens){
+    width: 40%;
+    float: right;
+    clear: none;
+  }
 }
 .people-button{
   clear: both;
-  // @include responsive(wide-screens){
-  //   clear: right;
-  //   float: right;
-  //   width: 40%;
-  // }
+  @include responsive(wide-screens){
+    clear: right;
+    float: right;
+    width: 40%;
+  }
 }
 .experts-rail{
   @include responsive(wide-screens){

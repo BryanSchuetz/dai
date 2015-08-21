@@ -730,17 +730,19 @@ header {
 
 .primary-block--button {
   padding: 7px;
-  background-color: #54aa4f;
+  background-color: #96cc93;
   color: white;
   font-weight: 400;
-  border-radius: 2px; }
+  border-radius: 2px;
+  display: block;
+  width: 30%; }
   @media screen and (min-width: 15em) {
     .primary-block--button {
       display: block;
       width: 100%; } }
 
 .primary-block--button:hover {
-  background-color: #77be73; }
+  background-color: #54aa4f; }
 
 .primary-block li {
   list-style-type: none;
@@ -938,8 +940,7 @@ img {
     float: left; } }
 
 .people-details h3 {
-  margin-bottom: .1rem;
-  color: #74BC70; }
+  margin-bottom: .1rem; }
 @media screen and (min-width: 30em) {
   .people-details {
     width: 40%;
@@ -947,9 +948,19 @@ img {
 
 .people-summary {
   clear: left; }
+  @media screen and (min-width: 50em) {
+    .people-summary {
+      width: 40%;
+      float: right;
+      clear: none; } }
 
 .people-button {
   clear: both; }
+  @media screen and (min-width: 50em) {
+    .people-button {
+      clear: right;
+      float: right;
+      width: 40%; } }
 
 @media screen and (min-width: 50em) {
   .experts-rail {
