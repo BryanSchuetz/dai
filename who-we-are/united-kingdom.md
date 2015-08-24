@@ -17,6 +17,19 @@ For more than 50 years, the true measure of our success has been the success of 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
 ### Management Team
+{% for contact in site.contacts-management limit:2 %}
+<div class="contact">
+  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <div class="contact-image">
+    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+  </div>
+  <div class="contact-summary">
+    <p>{{ contact.summary }}</p>
+  </div>
+</div>
+  {% if forloop.first %}<hr>{% endif %}
+{% endfor %}
+<a href="" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Portfolio Coordinators
 

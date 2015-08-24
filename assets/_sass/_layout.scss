@@ -575,3 +575,35 @@ img{
   position: relative;
   top: .2rem;
 }
+.contact{
+  @include clearfix;
+}
+.contact-image{
+  @include width(1.5);
+  margin-top: .3rem;
+  margin-right: $gutter;
+  float: left;
+  @include responsive(small-screens){
+    @include width(2.5);
+  }
+}
+.contact-summary{
+  @include width(2.5);
+  @include responsive(small-screens){
+    @include width(3.5);
+  }
+  @include responsive(medium-screens){
+    @include width(5.5);
+  }
+  @include responsive(wide-screens){
+    @include width(7.5);
+  }
+  @include responsive(ultra-wide-screens){
+    @include width(9.5);
+  }
+  float: right;
+}
+.contacts-button{
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
