@@ -1044,3 +1044,40 @@ img {
   height: 1rem;
   position: relative;
   top: .2rem; }
+
+.contact {
+  *zoom: 1; }
+  .contact:before, .contact:after {
+    content: " ";
+    display: table; }
+  .contact:after {
+    clear: both; }
+
+.contact-image {
+  width: 84px;
+  margin-top: .3rem;
+  margin-right: 24px;
+  float: left; }
+  @media screen and (min-width: 30em) {
+    .contact-image {
+      width: 156px; } }
+
+.contact-summary {
+  width: 156px;
+  float: right; }
+  @media screen and (min-width: 30em) {
+    .contact-summary {
+      width: 228px; } }
+  @media screen and (min-width: 37.5em) {
+    .contact-summary {
+      width: 372px; } }
+  @media screen and (min-width: 50em) {
+    .contact-summary {
+      width: 516px; } }
+  @media screen and (min-width: 60em) {
+    .contact-summary {
+      width: 660px; } }
+
+.contacts-button {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem; }
