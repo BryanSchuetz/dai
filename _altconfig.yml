@@ -23,6 +23,8 @@ collections:
     output: false
   contacts-business-development:
     output: false
+  contacts-business-management:
+    output: flase
 
 # Sass support via Jekyll 2.0
 sass:

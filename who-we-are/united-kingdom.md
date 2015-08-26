@@ -16,7 +16,8 @@ For more than 50 years, the true measure of our success has been the success of 
 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
-### Management Team
+### Management Team:
+
 {% assign contacts = site.contacts-management | sort: 'sort-order' %}
 {% for contact in contacts limit:2 %}
 <div class="contact">
@@ -32,7 +33,8 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 {% endfor %}
 <a href="/who-we-are/global-reach/united-kingdom/contacts/management-team/" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-### Portfolio Coordinators
+### Portfolio Coordinators:
+
 {% assign contacts = site.contacts-coordinators | sort: 'sort-order' %}
 {% for contact in contacts limit:2 %}
 <div class="contact">
@@ -48,7 +50,8 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 {% endfor %}
 <a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators/" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-### Programme Management
+### Programme Management:
+
 {% assign contacts = site.contacts-programme-management | sort: 'sort-order' %}
 {% for contact in contacts limit:2 %}
 <div class="contact">
@@ -64,7 +67,8 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 {% endfor %}
 <a href="/who-we-are/global-reach/united-kingdom/contacts/programme-managers/" class="primary-block--button contacts-button">More Programme Management Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-### Business Development
+### Business Development:
+
 {% assign contacts = site.contacts-business-development | sort: 'sort-order' %}
 {% for contact in contacts limit:2 %}
 <div class="contact">
