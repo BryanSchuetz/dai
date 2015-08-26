@@ -32,7 +32,45 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 <a href="" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Portfolio Coordinators
+{% for contact in site.contacts-coordinators limit:2 %}
+<div class="contact">
+  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <div class="contact-image">
+    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+  </div>
+  <div class="contact-summary">
+    <p>{{ contact.summary }}</p>
+  </div>
+</div>
+  {% if forloop.first %}<hr>{% endif %}
+{% endfor %}
+<a href="" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Programme Management
-
+{% for contact in site.contacts-programme-management limit:2 %}
+<div class="contact">
+  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <div class="contact-image">
+    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+  </div>
+  <div class="contact-summary">
+    <p>{{ contact.summary }}</p>
+  </div>
+</div>
+  {% if forloop.first %}<hr>{% endif %}
+{% endfor %}
+<a href="" class="primary-block--button contacts-button">More Programme Management Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 ### Business Development
+{% for contact in site.contacts-business-development limit:2 %}
+<div class="contact">
+  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <div class="contact-image">
+    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+  </div>
+  <div class="contact-summary">
+    <p>{{ contact.summary }}</p>
+  </div>
+</div>
+  {% if forloop.first %}<hr>{% endif %}
+{% endfor %}
+<a href="" class="primary-block--button contacts-button">More Business Development Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
