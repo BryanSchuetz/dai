@@ -16,5 +16,5 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
     <p>{{ contact.summary }}</p>
   </div>
 </div>
-  {% if forloop.first %}<hr>{% endif %}
+  {% if forloop.last %} {% else %} <hr> {% endif %}
 {% endfor %}
