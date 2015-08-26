@@ -17,7 +17,8 @@ For more than 50 years, the true measure of our success has been the success of 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
 ### Management Team
-{% for contact in site.contacts-management limit:2 %}
+{% assign contacts = site.contacts-management | sort: 'sort-order' %}
+{% for contact in contacts limit:2 %}
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
@@ -29,10 +30,11 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% if forloop.first %}<hr>{% endif %}
 {% endfor %}
-<a href="" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/management-team/" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Portfolio Coordinators
-{% for contact in site.contacts-coordinators limit:2 %}
+{% assign contacts = site.contacts-coordinators | sort: 'sort-order' %}
+{% for contact in contacts limit:2 %}
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
@@ -44,10 +46,11 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% if forloop.first %}<hr>{% endif %}
 {% endfor %}
-<a href="" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators/" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Programme Management
-{% for contact in site.contacts-programme-management limit:2 %}
+{% assign contacts = site.contacts-programme-management | sort: 'sort-order' %}
+{% for contact in contacts limit:2 %}
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
@@ -59,9 +62,11 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% if forloop.first %}<hr>{% endif %}
 {% endfor %}
-<a href="" class="primary-block--button contacts-button">More Programme Management Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/programme-managers/" class="primary-block--button contacts-button">More Programme Management Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+
 ### Business Development
-{% for contact in site.contacts-business-development limit:2 %}
+{% assign contacts = site.contacts-business-development | sort: 'sort-order' %}
+{% for contact in contacts limit:2 %}
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
@@ -73,4 +78,4 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% if forloop.first %}<hr>{% endif %}
 {% endfor %}
-<a href="" class="primary-block--button contacts-button">More Business Development Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/business-development-team/" class="primary-block--button contacts-button">More Business Development Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
