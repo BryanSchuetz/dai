@@ -11,7 +11,7 @@ ince 1970, we have worked in more than 150 countries—delivering results across
 Our U.K.-based team delivers results for bilateral and multilateral donors, governments and private sector clients worldwide, often in difficult environments racked by insecurity and conflict. We work hand in hand with our counterparts in government and the private sector to identify where international best practices can be usefully applied and best tailored to the local context.
 
 <a href="/who-we-are/global-reach/united-kingdom/" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-
+<hr>
 ## United States
 From its earliest days as a start-up in 1970, DAI has maintained a presence in or near Washington, D.C. The three founders’ office was a tiny establishment in Georgetown. Today, our office in Bethesda, Maryland, just outside Washington, is home to some 350 employees.
 
