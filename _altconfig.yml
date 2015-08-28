@@ -12,6 +12,9 @@ collections:
   leaders:
     output: true
     permalink: /who-we-are/leadership/:path/
+  members:
+    output: true
+    permalink: /who-we-are/board/:path/
   experts:
     output: true
     permalink: /who-we-are/our-team/:path/
