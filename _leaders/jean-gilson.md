@@ -5,6 +5,7 @@ layout: node
 thumbnail: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 summary: "Jean leads the firm’s work on strategy, market analysis, external relations, and communications."
 job-title: "Senior Vice President, Strategy and Information Technology Group"
+sort-order: 1
 ---
 **{{ page.job-title }}**
 
@@ -13,7 +14,7 @@ When Jean Gilson left Georgetown University in the early 1980s she went straight
 ![Jean Gilson](/assets/images/leaders/jean-gilson.jpg)
 
 
-“We had all come back to the hotel after celebrating the closing and syndication of a multibillion-dollar leveraged buyout,” she recalls. “I had worked on dozens of such deals at this point. I turned on the television to hear the reports of the laying off of 5,000 staff as a result of the buyout. I decided in that room, on that night, that I wanted to do something different with my life.” 
+“We had all come back to the hotel after celebrating the closing and syndication of a multibillion-dollar leveraged buyout,” she recalls. “I had worked on dozens of such deals at this point. I turned on the television to hear the reports of the laying off of 5,000 staff as a result of the buyout. I decided in that room, on that night, that I wanted to do something different with my life.”
 
 In 1987, she headed off to the Fletcher School at Tufts University. Armed with an advanced degree in international law and economics, she began her first stint with DAI in 1990, leading the firm into new technical services such as finance and commercial services, and new geographic areas such as Eastern Europe, where there was a pressing need for socially responsible privatization assistance after the dissolution of the Soviet Union. She also oversaw DAI offices in Hanoi, Bangkok, and Manila.
 

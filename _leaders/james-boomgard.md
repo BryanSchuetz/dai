@@ -5,6 +5,7 @@ layout: node
 thumbnail: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
 summary: "Jim has worked at the forefront of economic development issues for more than 30 years in more than 30 countries."
 job-title: "President and Chief Executive Officer"
+sort-order: 0
 ---
 **{{ page.job-title }}**
 
