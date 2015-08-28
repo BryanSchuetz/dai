@@ -454,6 +454,22 @@ img{
   width: 100%;
 }
 
+iframe{
+  width: 100%;
+  @include responsive(small-screens){
+    height: 230px;
+  }
+  @include responsive(medium-screens){
+    height: 310px;
+  }
+  @include responsive(wide-screens){
+    height: 390px;
+  }
+  @include responsive(ultra-wide-screens){
+    height: 470px;
+  }
+}
+
 // 🎌 People 🎌
 
 .people-block{

@@ -926,6 +926,21 @@ tbody tr:nth-child(odd) th {
 img {
   width: 100%; }
 
+iframe {
+  width: 100%; }
+  @media screen and (min-width: 30em) {
+    iframe {
+      height: 230px; } }
+  @media screen and (min-width: 37.5em) {
+    iframe {
+      height: 310px; } }
+  @media screen and (min-width: 50em) {
+    iframe {
+      height: 390px; } }
+  @media screen and (min-width: 60em) {
+    iframe {
+      height: 470px; } }
+
 .people-block {
   *zoom: 1; }
   .people-block:before, .people-block:after {
