@@ -11,6 +11,7 @@ _gh_pages
 *.swp
 *.zip
 *.vi
+*.sketch
 *~
 
 # OS or Editor folders
