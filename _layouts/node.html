@@ -25,5 +25,17 @@ layout: default
     </div>
   </div>
 {% endif %}
+{% if page.parent == "our-work" %}
+  <div class="node-nav our-work">
+    <div class="node-nav--links">
+      <h4>Our Work</h4>
+      <ul class="rail-nav-links">
+        {% for nav in site.data.nav-main-our %}
+          <li class="rail-nav-link"><a href="{{ nav.link }}" class="{% if page.url contains nav.link  %}{{ "active" }}{% endif %}">{{ nav.text }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endif %}
 <h1>{{ page.title }}</h1>
 {{ content }}
