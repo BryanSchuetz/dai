@@ -428,7 +428,10 @@ tbody tr:nth-child(odd) th {
   background-image: url(/assets/images/node/boats.jpg);
 }
 .node-nav.who-we-are{
-  background-image: url(/assets/images/node/scaffold.jpg)
+  background-image: url(/assets/images/node/scaffold.jpg);
+}
+.node-nav.our-work{
+  background-image: url(/assets/images/node/ideas.jpg);
 }
 .node-nav--links{
   background-color: $nav-black;
