@@ -7,4 +7,3 @@ end
 task :export do
   sh "jekyll build"
 end
- 

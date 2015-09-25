@@ -74,6 +74,9 @@ h4, h5, h6 {
   font-size: 1.2rem;
   font-weight: 700; }
 
+.header-nav li a {
+  font-weight: regular; }
+
 .header-nav--main li {
   font-size: .8rem; }
   @media screen and (min-width: 30em) {
@@ -533,8 +536,7 @@ header {
     float: left;
     font-size: .8rem; }
     .header-nav li a {
-      color: #c8c6c2;
-      font-weight: 200; }
+      color: #c8c6c2; }
     .header-nav li a:hover {
       color: #e0dfdd;
       text-decoration: none; }

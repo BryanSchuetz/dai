@@ -1,5 +1,6 @@
 
 // 🎌 GLOBAL 🎌
+// fuck this shit
 
 .container, .header-inner, .footer-inner{
   @include width(4);
@@ -36,7 +37,6 @@ header{
     // fix temp-height
     a{
       color: $nav_links;
-      font-weight: 200;
     }
     a:hover{
     color: lighten($nav_links, 10%);
