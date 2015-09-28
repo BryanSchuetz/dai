@@ -2,6 +2,7 @@
 _gh_pages
 .ruby-version
 _plugins
+assets/image-templates.sketch
 # Numerous always-ignore extensions
 *.diff
 *.err
