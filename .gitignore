@@ -2,6 +2,7 @@
 _gh_pages
 .ruby-version
 _plugins
+files
 # Numerous always-ignore extensions
 *.diff
 *.err
