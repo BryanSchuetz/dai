@@ -23,14 +23,9 @@
     <div class="primary-block split right">
       <h2>Integrated Solutions</h2>
       <ul>
-        <li><a href="" class="primary-block--button">Corporate Services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
-        <li><a href="" class="primary-block--button">Economic Growth <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
-        <li><a href="" class="primary-block--button">Environment & Energy <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
-        <li><a href="" class="primary-block--button">Governance <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
-        <li><a href="" class="primary-block--button">Health <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
-        <li><a href="" class="primary-block--button">ICT <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
-        <li><a href="" class="primary-block--button">Stability <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
-        <li><a href="" class="primary-block--button">Law and Justice <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
+        {% for solution in site.data.solutions %}
+          <li><a href="{{ solution.path }}" class="primary-block--button">{{ solution.text }}<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
+        {% endfor %}
       </ul>
     </div>
   </div>
