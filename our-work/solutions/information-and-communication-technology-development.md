@@ -8,7 +8,7 @@ We combine our 40-plus years of experience in global development with the latest
 
 Over the last 10 years, DAI has been at the forefront of innovation, fusing ICT and geospatial elements into more than 50 global development projects. Technology is a dynamic tool that has the potential to amplify the voices of people in developing countries. Whether using mobile phone applications, geospatial maps or crowdsourcing tools, technology provides the ability for individuals, groups, and societies to better organize, gain access, participate, empower, communicate, report, learn, and be accountable. By building on existing capacity and what works, along with introducing new tools and techniques, DAI has succeeded in establishing sustainable ICT initiatives.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/79700096" webkitallowfullscreen="" width="703"></iframe>
+<p><iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/79700096" webkitallowfullscreen="" width="703"></iframe></p>
 
 **Mobiles for Development**—Building off existing local communication practices, adapting to environmental constraints, and creating teams of experts that bring a wealth of experience and knowledge of global best practices, we deliver mobile solutions that meet local development needs.
 
