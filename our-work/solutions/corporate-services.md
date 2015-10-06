@@ -2,7 +2,7 @@
 layout: node
 title: Corporate Services
 parent: our-work
-categories: [corporate-services]
+categories: ['Corporate Services']
 ---
 
 **Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices**

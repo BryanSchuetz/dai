@@ -2,7 +2,7 @@
 layout: node
 title: Global Health Solutions
 parent: our-work
-categories: [health]
+categories: [Health]
 ---
 **Innovating global health solutions to save lives.**
 

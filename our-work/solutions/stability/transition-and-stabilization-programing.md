@@ -3,7 +3,7 @@ layout: node
 title: Transition and Stabilization Programming
 parent: our-work
 permalink: /our-work/solutions/transition-and-stabilization-programing
-categories: [stability, transition-and-stabilization-programing]
+categories: ['Stability', 'Transition and Stabilization Programming']
 ---
 
 In transition environments, it’s critical that community revitalization efforts are driven by their own members. We identify key groups committed to peaceful, participatory reform. We strengthen locally driven conflict mitigation efforts and help communities seize opportunities for economic recovery.

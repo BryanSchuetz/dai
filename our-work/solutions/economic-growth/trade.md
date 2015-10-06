@@ -3,7 +3,7 @@ layout: node
 title: Trade
 parent: our-work
 permalink: /our-work/solutions/trade/
-categories: [economic-growth, trade]
+categories: ['Economic Growth', 'Trade']
 ---
 
 We work with countries and businesses to increase trade in local, regional, and international markets. Whether facilitating accession to the World Trade Organization, assisting in regional trade negotiations, advising and implementing policy reforms, expanding market access, promoting trade, or helping clients meet the requirements to enter markets, our economic growth specialists have worked with policy makers and enterprises to provide them with the needed analysis, skills, and implementation support.

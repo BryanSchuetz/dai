@@ -3,7 +3,7 @@ layout: node
 title: Climate Change Adaptation and Mitigation
 parent: our-work
 permalink: /our-work/solutions/climate-change-adaptation-and-mitigation/
-categories: [environment-and-energy, climate-change-adaptation-and-mitigation]
+categories: ['Environment and Energy', 'Climate Change Adaptation and Mitigation']
 ---
 Helping community, business, and government partners to translate climate science and global climate models into downscaled, locally viable strategies and solutions. We work with local and national governments and the private sector to develop programs and policies that will improve resilience to climate impacts, mitigate behaviors that exacerbate vulnerabilities, and protect freshwater supplies, forests, food security, and economic development.
 

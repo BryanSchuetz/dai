@@ -3,7 +3,7 @@ layout: node
 title: Nutrition and Food Security
 parent: our-work
 permalink: /our-work/solutions/nutrition-and-food-security/
-categories: [health, nutrition-and-food-security]
+categories: ['Health', 'Nutrition and Food Security']
 ---
 
 We build bridges between nutrition, agriculture, and food security. We are at the forefront of improving nutrition and food security outcomes through our integrated and diverse agriculture, agribusiness, and livelihoods programs. We are developing sustainable market- and community-based solutions for improving maternal and child nutrition.

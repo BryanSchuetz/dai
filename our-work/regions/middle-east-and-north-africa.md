@@ -2,7 +2,7 @@
 layout: node
 title: Middle East and North Africa
 parent: our-work
-categories: [middle-east-and-north-africa]
+categories: [Middle East and North Africa]
 ---
 Our work in the Middle East and North Africa began with design and evaluation assignments in 1976 and continues today with major programs in many development fields. On those first assignments, we supported the U.S. Agency for International Development’s (USAID) work in rural Egypt, and in 1980 we helped Egypt implement a long-term agricultural production program. We soon were managing large-scale programs and providing technical expertise in many Middle Eastern and North African countries. A few examples:
 

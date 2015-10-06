@@ -2,7 +2,7 @@
 layout: node
 title: Sub-Saharan Africa
 parent: our-work
-categories: [sub-saharan-africa]
+categories: ['Sub-Saharan Africa']
 ---
 DAI traces its corporate roots to Sub-Saharan Africa. Today, we help African governments, businesses, private organizations, and communities overcome their most pressing challenges.
 

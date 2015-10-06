@@ -2,7 +2,7 @@
 layout: node
 title: Local Supplier Development
 parent: our-work
-categories: [corporate-services, local-supplier-development]
+categories: ['Corporate Services', 'Local Supplier Development']
 ---
 
 Today’s global supply chain is comprised of millions of small firms. Cost savings often drive companies to seek local suppliers, but that cost advantage—and the company brand—will be at risk if suppliers cannot meet market expectations for quality and reliability. Compounding the challenge are the limited numbers of capable local suppliers, a likely lack of in-house expertise to assess or build suppliers' capabilities, and inadequate collaboration among operators, contractors, communities, and governments.

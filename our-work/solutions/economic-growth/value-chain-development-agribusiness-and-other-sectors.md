@@ -3,7 +3,7 @@ layout: node
 title: Value Chain Development for Agribusiness and Other Sectors
 parent: our-work
 permalink: /our-work/solutions/value-chain-development-agribusiness-and-other-sectors/
-categories: [economic-growth, value-chain-development]
+categories: ['Economic Growth', 'Value Chain Development']
 ---
 
 From input suppliers to end retailers, we strengthen the capabilities of all actors along a product line to meet market demand by alleviating constraints on productivity and growth, increasing access to high-quality inputs and working capital, and improving information flow.

@@ -3,7 +3,7 @@ layout: node
 title: Emerging Infectious Diseases
 parent: our-work
 permalink: /our-work/solutions/emerging-infectious-diseases/
-categories: [health, emerging-infectious-diseases]
+categories: ['Health', 'Emerging Infectious Diseases']
 ---
 Environmental changes, as well as economic and technological advancements, have changed how we interact with each other and our world, allowing infectious diseases to spread around the world at a much faster pace. As new diseases and disease variants capture headlines, we are increasingly aware of the risks created by the growing interconnectedness of the global health landscape.
 

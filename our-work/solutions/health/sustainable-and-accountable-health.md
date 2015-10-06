@@ -3,7 +3,7 @@ layout: node
 title: Sustainable and Accountable Health Services
 parent: our-work
 permalink: /our-work/solutions/sustainable-and-accountable-health/
-categories: [health, sustainable-and-accountable-health]
+categories: ['Health', 'Sustainable and Accountable Health Services']
 ---
 We engage citizens, communities, governments, and private organizations to expand access to sustainable health care. We are leaders in the development of innovative and sustainable financing approaches to expand individual and household access to health services and products, including clean water.
 

@@ -2,7 +2,7 @@
 layout: node
 title: Environment and Energy
 parent: our-work
-categories: [environment-and-energy]
+categories: ['Environment and Energy']
 ---
 
 **Improved management of natural resources and important ecosystem services not only supports economic growth, and strengthens resilience to climate change but also can provide the foundation for sustainable development.**

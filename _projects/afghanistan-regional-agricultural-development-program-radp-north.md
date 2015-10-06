@@ -1,12 +1,12 @@
 ---
 title: 'Regional Agricultural Development Program (RADP–North)'
 parent: our-work
-clent: 'U.S. Agency for International Development'
+client: 'U.S. Agency for International Development'
 start-date: 2014
 end-date: 2019
-regions: [eastern-europe-and-central-asia]
-expertise: [economic-growth, agriculture-and-food-security]
-layout: node
+regions: [Eastern Europe and Central Asia]
+solutions: ['Economic Growth', 'Agriculture and Food Security']
+layout: project
 summary: "Through partnerships with USAID, Afghan Government agencies such as the Ministry of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s Affairs, and myriad development projects focused on stability, infrastructure, and agriculture, RADP-North leverages investments in agricultural value chains to optimize cost-effectiveness and incorporate lessons learned."
 ---
 
@@ -16,10 +16,7 @@ Despite these prospects, farmers and agribusinesses in northern Afghanistan face
 
 Through partnerships with USAID, Afghan Government agencies such as the Ministry of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s Affairs (DOWA), and myriad development projects focused on stability, infrastructure, and agriculture, RADP-North leverages investments in agricultural value chains to optimize cost-effectiveness and incorporate lessons learned.
 
-### Sample Activities                            
+### Sample Activities
 * Improve market linkages among farmers, agribusinesses, and consumers.
 * Support development of a policy/action plan for establishing a railway transit agreement with Uzbekistan.
 * Develop public and private sector systems for input and technology supply.
-
-Client: U.S. Agency for International Development
-Contract: 2014–2019

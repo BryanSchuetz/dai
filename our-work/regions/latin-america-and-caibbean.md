@@ -1,8 +1,8 @@
 ---
 layout: node
-title: Latin America & the Caribbean
+title: Latin America and the Caribbean
 parent: our-work
-categories: [latin-america-and-caibbean]
+categories: ['Latin America and the Caribbean']
 ---
 Since 1975, clients such as the U.S. Agency for International Development, Inter-American Development Bank, World Bank, and government of Mexico have called on DAI to support sustainable economic growth, environmentally responsible agricultural development, and democratic processes in Latin America and the Caribbean.
 

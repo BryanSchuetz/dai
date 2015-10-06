@@ -2,7 +2,7 @@
 layout: node
 title: Stabilization Programs for Developing Countries
 parent: our-work
-categories: [stability]
+categories: [Stability]
 ---
 We establish partnerships with government, civil society, and private sector actors to provide short-term stability and build the foundation for long-term development. Building on our diverse experience and nuanced understanding of conflict dynamics in crisis environments, our work in crisis mitigation and stability has won DAI a global reputation for sure-footed and innovative post-crisis assistance.
 

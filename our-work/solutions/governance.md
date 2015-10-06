@@ -2,7 +2,7 @@
 layout: node
 title: Governance
 parent: our-work
-categories: [governance]
+categories: [Governance]
 ---
 
 **Building effective economic and democratic governance**

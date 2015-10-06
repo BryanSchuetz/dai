@@ -2,7 +2,7 @@
 layout: node
 title: Economic Growth
 parent: our-work
-categories: [economic-growth]
+categories: ['Economic Growth']
 ---
 
 **Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**
