@@ -38,24 +38,40 @@ layout: default
   </div>
 {% endif %}
 <h1>{{ page.title }}</h1>
-{{ content }}
-<h3>Project Details</h3>
-<ul class="project-details">
-  <li>Client: <strong>{{ page.client }}</strong></li>
-  <li>Contract: <strong>{{ page.start-date }}-{{ page.end-date }}</strong></li>
-  <li>Technical Focus:
-    {% for solution in page.solutions %}
-      {% if solution == page.solutions.last %}
-        <strong>{{ solution }}</strong>
-        {% else %}
-        <strong>{{ solution }},</strong>
-      {% endif %}
-    {% endfor %}</li>
-  <li>Geographic Focus: {% for region in page.regions %}
-    {% if region == page.regions.last %}
-      <strong>{{ region }}</strong>
-      {% else %}
-      <strong>{{ region }},</strong>
+<p class="project-detail">{{ page.client }} | {{ page.start-date }}-{{ page.end-date }}</p>
+<p class="project-detail">Technical Focus:
+  {% for solution in page.solutions %}
+    {% if solution == page.solutions.last %}
+      {% for solutiondeets in site.data.solutions %}
+        {% if solution == solutiondeets.text %}
+          <a href="{{ solutiondeets.path }}">{{ solutiondeets.text }}</a>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for solutiondeets in site.data.solutions %}
+        {% if solution == solutiondeets.text %}
+          <a href="{{ solutiondeets.path }}">{{ solutiondeets.text }}</a> |
+        {% endif %}
+      {% endfor %}
     {% endif %}
-  {% endfor %}</li>
-</ul>
+  {% endfor %}
+</p>
+<p class="project-detail">Geographic Focus:
+  {% for region in page.regions %}
+    {% if region == page.regions.last %}
+      {% for regiondeets in site.data.regions %}
+        {% if region == regiondeets.text %}
+          <a href="{{ regiondeets.path }}">{{ regiondeets.text }}</a>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for regiondeets in site.data.regions %}
+        {% if region == regiondeets.text %}
+          <a href="{{ regiondeets.path }}">{{ regiondeets.text }}</a>,
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</p>
+<hr>
+{{ content }}
