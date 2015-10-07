@@ -23,7 +23,7 @@
     <div class="primary-block split right">
       <h2>Integrated Solutions</h2>
       <ul>
-        {% for solution in site.data.solutions %}
+        {% for solution in site.data.solutions limit:7 %}
           <li><a href="{{ solution.path }}" class="primary-block--button">{{ solution.text }}<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></li>
         {% endfor %}
       </ul>
