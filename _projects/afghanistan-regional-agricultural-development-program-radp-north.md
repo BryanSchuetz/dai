@@ -4,10 +4,10 @@ parent: our-work
 client: 'U.S. Agency for International Development'
 start-date: 2014
 end-date: 2019
-regions: [Eastern Europe and Central Asia]
+regions: ['Eastern Europe and Central Asia']
 solutions: ['Economic Growth', 'Agriculture and Food Security']
 layout: project
-summary: "Through partnerships with USAID, Afghan Government agencies such as the Ministry of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s Affairs, and myriad development projects focused on stability, infrastructure, and agriculture, RADP-North leverages investments in agricultural value chains to optimize cost-effectiveness and incorporate lessons learned."
+summary: 'Through partnerships with USAID, Afghan Government agencies such as the Ministry of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s Affairs, and myriad development projects focused on stability, infrastructure, and agriculture, RADP-North leverages investments in agricultural value chains to optimize cost-effectiveness and incorporate lessons learned.'
 ---
 Farmers and agribusinesses in northern Afghanistan are optimally positioned to capitalize on the country’s growing economy and expanding ties to the global community. In recent years, Mazar-e-Sharif has become a trading hub for agricultural products, in part because of its proximity to Central Asia. Buildings are springing up across the city as companies set up shop, and a newly functioning railway between Mazar-e-Sharif and the Uzbekistan border has unlocked vast trading opportunities with Central and Southern Asia. In Kunduz and Badakhshan provinces, new bridges across the Amu River have also opened trade with Tajikistan.
 
