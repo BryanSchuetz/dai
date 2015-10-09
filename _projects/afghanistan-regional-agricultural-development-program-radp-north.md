@@ -1,10 +1,11 @@
 ---
-title: 'Regional Agricultural Development Program (RADP–North)'
+title: 'Afghanistan—Regional Agricultural Development Program (RADP–North)'
 parent: our-work
 client: 'U.S. Agency for International Development'
 start-date: 2014
 end-date: 2019
 regions: ['Eastern Europe and Central Asia']
+country: ['Afghanistan']
 solutions: ['Economic Growth', 'Agriculture and Food Security']
 layout: project
 summary: 'Through partnerships with USAID, Afghan Government agencies such as the Ministry of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s Affairs, and myriad development projects focused on stability, infrastructure, and agriculture, RADP-North leverages investments in agricultural value chains to optimize cost-effectiveness and incorporate lessons learned.'

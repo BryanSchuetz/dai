@@ -5,6 +5,7 @@ client: 'U.S. Agency for International Development'
 start-date: 2015
 end-date: 2020
 regions: ['Eastern Europe and Central Asia']
+country: ['Afghanistan']
 solutions: ['Economic Growth', 'Gender', 'Governance', 'Innovation and Entrepreneurship', 'Sustainable Livelihoods', 'Transition and Stabilization Programming', 'Voice and Accountability']
 layout: project
 summary: 'The U.S Agency for International Development, in continuing its longstanding commitment to women in Afghanistan, has launched the Afghan Women’s Leadership in the Economy (AWLE) project.'
