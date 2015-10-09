@@ -6,6 +6,24 @@ layout: default
 <div class ="project-details">
 <p class="project-detail"><strong>Client:</strong> <a href="/our-work/projects/{% for client in site.data.clients %}{% if page.client == client.text %}{{ client.abbr | downcase }}{% endif %}{% endfor %}/">{{ page.client }}</a></p>
 <p class="project-detail"><strong>Contract: </strong>{{ page.start-date }}-{{ page.end-date }}</p>
+<p class="project-detail"><strong>Region:</strong>
+  {% for region in page.regions %}
+    {% if region == page.regions.last %}
+      {% for regiondeets in site.data.regions %}
+        {% if region == regiondeets.text %}
+          <a href="/our-work/projects/{{ region | downcase | split:" " | join:"-" }}/">{{ regiondeets.text }}</a>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for regiondeets in site.data.regions %}
+        {% if region == regiondeets.text %}
+          <a href="/our-work/projects/{{ region | downcase | split:" " | join:"-" }}/">{{ regiondeets.text }}</a>,
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</p>
+<p class="project-detail"><strong>Country:</strong> {{ page.country }}</p>
 <p class="project-detail"><strong>Technical Focus:</strong>
   {% assign projectsolutions = "" | split:"" %}
   {% for solution in page.solutions %}
@@ -20,23 +38,6 @@ layout: default
       <a href="/our-work/projects/{{ projectsolution | downcase | split:" " | join:"-" }}/">{{ projectsolution }}</a>
     {% else %}
     <a href="/our-work/projects/{{ projectsolution | downcase | split:" " | join:"-" }}/">{{ projectsolution }}</a> |
-    {% endif %}
-  {% endfor %}
-</p>
-<p class="project-detail"><strong>Geographic Focus:</strong>
-  {% for region in page.regions %}
-    {% if region == page.regions.last %}
-      {% for regiondeets in site.data.regions %}
-        {% if region == regiondeets.text %}
-          <a href="/our-work/projects/{{ region | downcase | split:" " | join:"-" }}/">{{ regiondeets.text }}</a>
-        {% endif %}
-      {% endfor %}
-    {% else %}
-      {% for regiondeets in site.data.regions %}
-        {% if region == regiondeets.text %}
-          <a href="/our-work/projects/{{ region | downcase | split:" " | join:"-" }}/">{{ regiondeets.text }}</a>,
-        {% endif %}
-      {% endfor %}
     {% endif %}
   {% endfor %}
 </p>
