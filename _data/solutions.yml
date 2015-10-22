@@ -1,17 +1,17 @@
 - text: Corporate Services
-  icon: '<svg class="hexer" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer"></use></svg>'
+  icon: '<svg class="corp-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#corp-badge"></use></svg>'
   summary: 'Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices.'
   path: /our-work/solutions/corporate-services/
 - text: Economic Growth
-  icon: '<svg class="hexer-blue" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer-blue"></use></svg>'
+  icon: '<svg class="econ-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#econ-badge"></use></svg>'
   summary: 'Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, and enhance food security.'
   path: /our-work/solutions/economic-growth/
 - text: Environment and Energy
-  icon: '<svg class="hexer-red" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer-red"></use></svg>'
+  icon: '<svg class="env-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#env-badge"></use></svg>'
   summary: 'Improved management of natural resources and important ecosystem services not only supports economic growth, and strengthens resilience to climate change but also can provide the foundation for sustainable development.'
   path: /our-work/solutions/environment-and-energy/
 - text: Governance
-  icon: '<svg class="hexer-red" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer-red"></use></svg>'
+  icon: '<svg class="gov-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#gov-badge"></use></svg>'
   summary: 'Strengthening and improving government performance by providing technical advice, strategic guidance, and support to public institutions, elected bodies, and citizens. '
   path: /our-work/solutions/governance/
 - text: Health

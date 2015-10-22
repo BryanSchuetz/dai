@@ -2,7 +2,7 @@
 title: Alia Afshar-Gandhi
 parent: who-we-are
 regions: [Asia and the Pacific, Middle East and North Africa, Sub-Saharan Africa]
-expertise: [Agriculture and Food Security, Economic Growth]
+expertise: [Economic Growth]
 layout: node
 photo: "/assets/images/experts/alia-afshar-gandhi.jpg"
 summary: "Alia Afshar-Gandhi works in the area of food security and agriculture, where she specializes in rural livelihood creation in post-conflict countries. She manages the Food and Enterprise Development Program in Liberia and the Strengthening Sustainable Ecosystems in and around Nyungwe National Park program in Rwanda."

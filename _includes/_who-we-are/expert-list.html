@@ -1,6 +1,6 @@
 {% include _who-we-are/experts-filter.html %}
-{% for expert in site.experts %}
 <div class="experts-rail">
+{% for expert in site.experts %}
   <div class="people-block">
     <img src="{{ expert.photo }}" alt="" class="expert-details--photo">
     <div class="expert-details--metadata">
@@ -30,5 +30,5 @@
     <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
   <hr>
-</div>
 {% endfor %}
+</div>

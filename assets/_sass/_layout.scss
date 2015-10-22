@@ -1,6 +1,5 @@
 
 // 🎌 GLOBAL 🎌
-// fuck this shit
 
 .container, .header-inner, .footer-inner{
   @include width(4);
@@ -509,13 +508,13 @@ iframe{
     width: 40%;
   }
 }
-.experts-rail{
+.experts-rail, .projects-rail{
   @include responsive(wide-screens){
     width: 60%;
     float: left;
   }
 }
-.experts-filter{
+.experts-filter, .projects-filter{
   display: none;
   @include responsive(wide-screens){
     display: block;
@@ -589,7 +588,7 @@ iframe{
 .expert-summary{
   clear: both;
 }
-.hexer, .hexer-red, .hexer-blue, .globe-blue, .globe-purple{
+.hexer, .hexer-red, .hexer-blue, .globe-blue, .globe-purple, .badge{
   height: 1rem;
   position: relative;
   top: .2rem;

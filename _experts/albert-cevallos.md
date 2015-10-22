@@ -1,7 +1,7 @@
 ---
 title: Albert Cevallos
 parent: who-we-are
-regions: [Eastern Europe and Central Asia, Middle East and North Africa]
+regions: [Eastern Europe and Central Asia]
 expertise: [Conflict and Vulnerability Analysis, Governance]
 layout: node
 photo: "/assets/images/experts/albert-cevallos.jpg"

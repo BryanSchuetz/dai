@@ -1,0 +1,13 @@
+<div class="projects-filter">
+  <h3>Project Filter</h3>
+  <p>Looking for projects focused on a particular technical topic, geographical area, or client? Click below to limit your search of DAI projects.</p>
+  <div class="experts-filter--control">
+    <h3>Filter by Solution</h3>
+    {% for solution in site.data.solutions %}<a class="experts-filter--solution" href=""> {{ solution.icon }} {{ solution.text }} </a>{% endfor %}
+  </div>
+  <div class="experts-filter--control">
+    <h3>Filter by Region</h3>
+    {% for region in site.data.regions %}<a class="experts-filter--solution" href=""> {{ region.icon }} {{ region.text }} </a>{% endfor %}
+  </div>
+  <hr>
+</div>
