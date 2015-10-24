@@ -593,6 +593,9 @@ iframe{
   position: relative;
   top: .2rem;
 }
+#bar-chart_2{
+  fill: $link-green !important;
+}
 .contact{
   @include clearfix;
 }

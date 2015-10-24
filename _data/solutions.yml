@@ -1,34 +1,34 @@
 - text: Corporate Services
-  icon: '<svg class="corp-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#corp-badge"></use></svg>'
+  icon: '<svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax meet"><use xlink:href="#corp-badge"></use></svg>'
   summary: 'Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices.'
   path: /our-work/solutions/corporate-services/
 - text: Economic Growth
-  icon: '<svg class="econ-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#econ-badge"></use></svg>'
+  icon: '<svg class="econ-badge badge" viewBox="0 0 101 100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#econ-badge"></use></svg>'
   summary: 'Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, and enhance food security.'
   path: /our-work/solutions/economic-growth/
 - text: Environment and Energy
-  icon: '<svg class="env-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#env-badge"></use></svg>'
+  icon: '<svg class="env-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#env-badge"></use></svg>'
   summary: 'Improved management of natural resources and important ecosystem services not only supports economic growth, and strengthens resilience to climate change but also can provide the foundation for sustainable development.'
   path: /our-work/solutions/environment-and-energy/
 - text: Governance
-  icon: '<svg class="gov-badge badge" viewBox="0 0 18 20" preserveAspectRatio="xMinYMax meet"><use xlink:href="#gov-badge"></use></svg>'
+  icon: '<svg class="gov-badge badge" viewBox="0 0 116 115" preserveAspectRatio="xMinYMax meet"><use xlink:href="#gov-badge"></use></svg>'
   summary: 'Strengthening and improving government performance by providing technical advice, strategic guidance, and support to public institutions, elected bodies, and citizens. '
   path: /our-work/solutions/governance/
 - text: Health
-  icon: '<svg class="hexer" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer"></use></svg>'
+  icon: '<svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#health-badge"></use></svg>'
   summary: 'Providing the technical skills, expertise, and local knowledge to deliver global health solutions while responding to issues ranging from emerging pandemic threats to HIV/AIDS to waterborne diseases.'
   path: /our-work/solutions/health/
 - text: ICT
-  icon: '<svg class="hexer-blue" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer-blue"></use></svg>'
+  icon: '<svg class="ict-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#ict-badge"></use></svg>'
   summary: 'We combine our 40-plus years of experience in global development with the latest and most relevant information and communication technology (ICT) tools.'
   path: /our-work/solutions/information-and-communication-technology-development/
 - text: Stability
-  icon: '<svg class="hexer" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer"></use></svg>'
+  icon: '<svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#stability-badge"></use></svg>'
   summary: 'Partnering with government, civil society, and private sector actors to provide short-term stability and build the foundation for long-term development.'
   path: /our-work/solutions/stability/
 # Sub-solution Areas
-- text: Agriculture and Food Security
-  path: /our-work/solutions/agriculture-and-food-security/
+# - text: Agriculture and Food Security
+#   path: /our-work/solutions/agriculture-and-food-security/
 # - text: Law and Justice
 #   icon: '<svg class="hexer-blue" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer-blue"></use></svg>'
 #   summary: 'Fundamental to any model of good governance are strong, fair, enforceable laws and their just and equitable application to all citizens. '
