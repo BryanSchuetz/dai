@@ -529,7 +529,7 @@ iframe{
     margin-bottom: .8rem;
     border-radius: 4px;
     font-size: .8rem;
-    color: $nav-black;
+    color: $nav_links-main;
     @include responsive(ultra-wide-screens){
       font-size: 1rem;
     }
@@ -545,17 +545,12 @@ iframe{
     }
   }
   a:hover{
+    color: $nav-black;
     border: 1px solid $nav-black;
   }
 }
-#hexer-path{
-  stroke: black;
-}
 .experts-filter--control{
   margin-bottom: 2rem;
-}
-.experts-filter--solution.hover #hexer-path{
-  stroke: $nav-black;
 }
 .expert-details{
   @include clearfix;
@@ -588,13 +583,13 @@ iframe{
 .expert-summary{
   clear: both;
 }
-.hexer, .hexer-red, .hexer-blue, .globe-blue, .globe-purple, .badge{
+.badge{
   height: 1rem;
   position: relative;
   top: .2rem;
 }
-#bar-chart_2{
-  fill: $link-green !important;
+.svg-badge{
+  fill: currentColor;
 }
 .contact{
   @include clearfix;
