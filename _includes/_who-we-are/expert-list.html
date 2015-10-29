@@ -5,23 +5,27 @@
     <img src="{{ expert.photo }}" alt="" class="expert-details--photo">
     <div class="expert-details--metadata">
       <h3>{{ expert.title }}</h3>
-        <p class="expert-details--expertise">
-      {% for expertise in expert.expertise %}
-        {% for solution in site.data.solutions %}
-          {% if expertise == solution.text %}
-            <a class=""href="">{{ solution.icon }} {{ solution.text }}</a>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-      {% for locale in expert.regions %}
-        <p class="expert-details--regions">
-          {% for region in site.data.regions %}
-            {% if locale == region.text %}
-            <a class=""href="">{{ region.icon }} {{ region.text }}</a>
-          {% endif %}
-        {% endfor %}
-        </p>
-      {% endfor %}
+          <ul class="expert-details--list">
+            {% for expertise in expert.solutions limit:2 %}
+            <li>
+              {% for solution in site.data.solutions %}
+                {% if expertise == solution.text %}
+                  <a class="expert-solution"href="">{{ solution.icon }} {{ solution.text }}</a>
+                {% endif %}
+              {% endfor %}
+              </li>
+            {% endfor %}
+            {% for locale in expert.regions limit:2 %}
+              <li>
+                {% for region in site.data.regions %}
+                  {% if locale == region.text %}
+                  <a class="expert-region" href="">{{ region.icon }} {{ region.text }}</a>
+                  {% endif %}
+                {% endfor %}
+              </li>
+            {% endfor %}
+
+          </ul>
     </div>
     <div class="expert-summary">
       <p class="expert-details--title">{{ expert.job-title }}</p>

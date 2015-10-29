@@ -7,7 +7,7 @@
   </div>
   <div class="experts-filter--control">
     <h3>Filter by Region</h3>
-    {% for region in site.data.regions %}<a class="experts-filter--solution" href=""> {{ region.icon }} {{ region.text }} </a>{% endfor %}
+    {% for region in site.data.regions %}<a class="experts-filter--solution" href=""> {{ region.icon }} {{ region.text | replace:'and','&' }} </a>{% endfor %}
   </div>
-  <hr>  
+  <hr>
 </div>

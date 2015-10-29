@@ -156,6 +156,7 @@ header{
 .content{
   padding-top: 9rem;
   @include clearfix;
+  padding-bottom: 9rem;
 }
 
 // 🎌 MAIN: RAIL  🎌
@@ -575,13 +576,18 @@ iframe{
     width: 65%
   }
 }
-.expert-details--expertise, .expert-details--regions{
-  a{
-    display: block;
-  }
+.expert-solution, .expert-region{
+  color: lighten($button-green, 5%);
+}
+.expert-solution:hover, .expert-region:hover{
+  color: darken($button-green, 10%);
 }
 .expert-summary{
   clear: both;
+}
+.expert-details--list{
+  list-style-type: none;
+  margin-left: 0;
 }
 .badge{
   height: 1rem;

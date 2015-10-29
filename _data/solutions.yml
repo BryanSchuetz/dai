@@ -26,10 +26,3 @@
   icon: '<svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#stability-badge"></use></svg>'
   summary: 'Partnering with government, civil society, and private sector actors to provide short-term stability and build the foundation for long-term development.'
   path: /our-work/solutions/stability/
-# Sub-solution Areas
-# - text: Agriculture and Food Security
-#   path: /our-work/solutions/agriculture-and-food-security/
-# - text: Law and Justice
-#   icon: '<svg class="hexer-blue" viewBox="0 0 126 146" preserveAspectRatio="xMinYMax meet"><use xlink:href="#hexer-blue"></use></svg>'
-#   summary: 'Fundamental to any model of good governance are strong, fair, enforceable laws and their just and equitable application to all citizens. '
-#   path: /our-work/solutions/law-and-justice

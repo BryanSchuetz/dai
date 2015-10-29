@@ -32,11 +32,12 @@ body{
   visibility: visible;
 }
 a {
-  color: $link-green;
+  color: lighten($button-green, 5%);
   text-decoration: none;
 }
 a:hover,
 a:focus {
+  color: darken($button-green, 10%);
   text-decoration: none;
 }
 

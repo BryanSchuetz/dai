@@ -1,15 +1,20 @@
 - text: Asia and the Pacific
   summary: 'DAI has worked in Asia since the early 1980s, with our first projects in Indonesia. Over time we expanded greatly in Indonesia and gained experience across the continent, from Timor-Leste and Mongolia to Bangladesh and Pakistan.'
+  icon: '<svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg>'
   path: /our-work/regions/asia-and-pacific/
 - text: Eastern Europe and Central Asia
   summary: 'DAI first worked in Eastern Europe and Central Asia in 1976, and since the breakup of the Soviet Union and Yugoslavia, we have joined donors and governments in the region to promote democratic practices and enterprise economies, strengthen farming and business practices, and encourage responsible resource management.'
+  icon: '<svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg>'
   path: /our-work/regions/eastern-europe-and-central-asia/
 - text: Latin America and the Caribbean
   summary: 'Since 1975, clients such as the U.S. Agency for International Development, Inter-American Development Bank, World Bank, and government of Mexico have called on DAI to support sustainable economic growth, environmentally responsible agricultural development, and democratic processes in Latin America and the Caribbean.'
   path: /our-work/regions/latin-america-and-caibbean/
+  icon: '<svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg>'
 - text: Middle East and North Africa
   summary: 'Our work in the Middle East and North Africa began with design and evaluation assignments in 1976 and continues today with major programs in many development fields.'
   path: /our-work/regions/middle-east-and-north-africa/
+  icon: '<svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg>'
 - text: Sub-Saharan Africa
   summary: 'DAI traces its corporate roots to Sub-Saharan Africa. Today, we help African governments, businesses, private organizations, and communities overcome their most pressing challenges.'
   path: /our-work/regions/sub-saharan-africa/
+  icon: '<svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg>'

@@ -1,6 +1,27 @@
 <div class="expert-details">
   <img src="{{ page.photo }}" alt="" class="expert-details--photo">
   <div class="expert-details--metadata">
+    <h1>{{ page.title }}</h1>
     <p class="expert-details--title">{{ page.job-title }}</p>
+    <ul class="expert-details--list">
+      {% for expertise in page.solutions limit:3 %}
+      <li>
+        {% for solution in site.data.solutions %}
+          {% if expertise == solution.text %}
+            <a class="expert-solution"href="">{{ solution.icon }} {{ solution.text }}</a>
+          {% endif %}
+        {% endfor %}
+        </li>
+      {% endfor %}
+      {% for locale in page.regions limit:3 %}
+        <li>
+          {% for region in site.data.regions %}
+            {% if locale == region.text %}
+            <a class="expert-region" href="">{{ region.icon }} {{ region.text }}</a>
+            {% endif %}
+          {% endfor %}
+        </li>
+      {% endfor %}
+    </ul>
   </div>
 </div>
