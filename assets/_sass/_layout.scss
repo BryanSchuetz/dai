@@ -253,6 +253,7 @@ header{
 }
 .primary-block--button:hover{
   background-color: darken($button-green, 10%);
+  color: $text-white;
 }
 .primary-block{
   li{

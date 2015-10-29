@@ -4,7 +4,7 @@
     <h1>{{ page.title }}</h1>
     <p class="expert-details--title">{{ page.job-title }}</p>
     <ul class="expert-details--list">
-      {% for expertise in page.solutions limit:3 %}
+      {% for expertise in page.solutions limit:2 %}
       <li>
         {% for solution in site.data.solutions %}
           {% if expertise == solution.text %}
@@ -13,13 +13,18 @@
         {% endfor %}
         </li>
       {% endfor %}
-      {% for locale in page.regions limit:3 %}
+      {% for locale in page.regions limit:2 %}
         <li>
           {% for region in site.data.regions %}
             {% if locale == region.text %}
             <a class="expert-region" href="">{{ region.icon }} {{ region.text }}</a>
             {% endif %}
           {% endfor %}
+        </li>
+      {% endfor %}
+      {% for article in page.articles limit:2 %}
+        <li>
+          <a href="{{ article.url }}" class="expert-article"><svg class="article-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax meet"><use xlink:href="#article-badge"></use></svg> {{ article.name }}</a>
         </li>
       {% endfor %}
     </ul>

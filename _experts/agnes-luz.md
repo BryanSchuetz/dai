@@ -8,6 +8,11 @@ layout: expert
 photo: "/assets/images/experts/agnes-luz.jpg"
 summary: "Agnes Luz is an accomplished international development practitioner with more than 24 years of experience managing and providing technical assistance to value chain and agribusiness development programs in Africa, the Middle East, and Asia."
 job-title: "Chief of Party, Liberia Food and Enterprise Development"
+articles:
+ - name: Rethinking the Political Economy of Decentralization
+   url: http://dai.com/news-publications/publications/rethinking-political-economy-decentralization
+ - name: Effective Aid Strategies to Support Democracy in Africa
+   url: http://dai.com/news-publications/publications/effective-aid-strategies-support-democracy-africa
 ---
 Agnes Luz is an accomplished international development practitioner with more than 24 years of experience managing and providing technical assistance to value chain and agribusiness development programs in Africa, the Middle East, and Asia. She specializes in designing and leading value chain upgrading strategies, facilitating market linkages, enterprise development, investment generation, export market development, institutional strengthening and capacity building of value chain actors, including business support service providers.
 
