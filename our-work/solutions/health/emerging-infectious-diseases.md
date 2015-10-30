@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Emerging Infectious Diseases
 parent: our-work
 permalink: /our-work/solutions/emerging-infectious-diseases/

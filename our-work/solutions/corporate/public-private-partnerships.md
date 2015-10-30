@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Public-Private Partnerships
 parent: our-work
 categories: ['Corporate Services', 'Public-Private Partnerships']

@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Stabilization Programs for Developing Countries
 parent: our-work
 categories: [Stability]

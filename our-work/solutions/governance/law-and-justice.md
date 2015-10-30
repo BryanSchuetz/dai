@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Law and Justice
 parent: our-work
 permalink: /our-work/solutions/law-and-justice/

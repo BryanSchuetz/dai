@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Trade
 parent: our-work
 permalink: /our-work/solutions/trade/

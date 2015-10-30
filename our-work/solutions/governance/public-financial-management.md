@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Public Financial Management
 parent: our-work
 permalink: /our-work/solutions/public-financial-management/

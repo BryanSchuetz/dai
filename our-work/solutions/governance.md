@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Governance
 parent: our-work
 categories: [Governance]

@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Climate Change Adaptation and Mitigation
 parent: our-work
 permalink: /our-work/solutions/climate-change-adaptation-and-mitigation/

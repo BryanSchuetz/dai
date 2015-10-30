@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Nutrition and Food Security
 parent: our-work
 permalink: /our-work/solutions/nutrition-and-food-security/

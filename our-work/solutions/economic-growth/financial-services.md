@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Financial Services
 parent: our-work
 permalink: /our-work/solutions/financial-services/

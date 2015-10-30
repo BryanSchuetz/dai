@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Decentralization and Local Government Management
 parent: our-work
 permalink: /our-work/solutions/decentralization-and-local-government/

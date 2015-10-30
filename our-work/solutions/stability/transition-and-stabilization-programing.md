@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Transition and Stabilization Programming
 parent: our-work
 permalink: /our-work/solutions/transition-and-stabilization-programing

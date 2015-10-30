@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Public Administration, Civil Service Reform, and Human Resources Management
 parent: our-work
 permalink: /our-work/solutions/public-administration-civil-service-reform-and-human-resources/

@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Water Services and Resource Management
 parent: our-work
 permalink: /our-work/solutions/water-services-and-resource-management/

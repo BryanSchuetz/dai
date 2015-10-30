@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Natural Resource Management
 parent: our-work
 permalink: /our-work/solutions/natural-resource-management/

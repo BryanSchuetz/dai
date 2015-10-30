@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Clean Energy and Energy Efficiency
 parent: our-work
 permalink: /our-work/solutions/clean-energy-and-energy-efficiency/

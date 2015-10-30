@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Land Tenure and Property Rights
 parent: our-work
 permalink: /our-work/solutions/land-tenure/

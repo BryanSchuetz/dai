@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Social Strategy
 parent: our-work
 categories: ['Corporate Services', 'Social Strategy']

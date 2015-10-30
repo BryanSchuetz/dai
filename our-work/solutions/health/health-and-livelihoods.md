@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Health and Livelihoods
 parent: our-work
 permalink: /our-work/solutions/health-and-livelihoods/

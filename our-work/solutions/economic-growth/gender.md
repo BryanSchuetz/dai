@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Gender
 parent: our-work
 permalink: /our-work/solutions/gender/

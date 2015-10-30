@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Environment and Energy
 parent: our-work
 categories: ['Environment and Energy']

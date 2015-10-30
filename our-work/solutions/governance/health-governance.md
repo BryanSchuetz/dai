@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Health Governance
 parent: our-work
 permalink: /our-work/solutions/health-governance/

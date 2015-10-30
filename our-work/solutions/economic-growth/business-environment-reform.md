@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Business Environment Reform
 parent: our-work
 permalink: /our-work/solutions/business-environment-reform/

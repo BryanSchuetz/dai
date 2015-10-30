@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Legislative Strengthening
 parent: our-work
 permalink: /our-work/solutions/legislative-strengthening/

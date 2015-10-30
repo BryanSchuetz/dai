@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Economic Growth
 parent: our-work
 categories: ['Economic Growth']

@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Corporate Services
 parent: our-work
 categories: ['Corporate Services']

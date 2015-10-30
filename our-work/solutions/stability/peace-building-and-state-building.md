@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Peace-building and State-building
 parent: our-work
 permalink: /our-work/solutions/peace-building-and-state-building/

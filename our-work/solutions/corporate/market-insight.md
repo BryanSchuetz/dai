@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Market Insight and Development
 parent: our-work
 categories: ['Corporate Services', 'Market Insight and Development']

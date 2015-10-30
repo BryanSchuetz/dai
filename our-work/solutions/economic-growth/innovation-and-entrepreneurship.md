@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Innovation and Entrepreneurship
 parent: our-work
 permalink: /our-work/solutions/innovation-and-entrepreneurship/

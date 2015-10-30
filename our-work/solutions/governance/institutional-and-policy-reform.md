@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Institutional and Policy Reform
 parent: our-work
 permalink: /our-work/solutions/institional-and-policy-reform/

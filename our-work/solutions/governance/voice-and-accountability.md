@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Voice and Accountability
 parent: our-work
 permalink: /our-work/solutions/voice-and-accountability/

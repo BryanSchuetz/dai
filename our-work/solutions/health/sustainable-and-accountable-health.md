@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Sustainable and Accountable Health Services
 parent: our-work
 permalink: /our-work/solutions/sustainable-and-accountable-health/

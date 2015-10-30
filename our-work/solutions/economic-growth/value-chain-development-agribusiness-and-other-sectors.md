@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Value Chain Development for Agribusiness and Other Sectors
 parent: our-work
 permalink: /our-work/solutions/value-chain-development-agribusiness-and-other-sectors/

@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Security and Justice Development
 parent: our-work
 permalink: /our-work/solutions/security-and-justice-development/

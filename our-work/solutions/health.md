@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Global Health Solutions
 parent: our-work
 categories: [Health]

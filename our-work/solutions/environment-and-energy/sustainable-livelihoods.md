@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Sustainable Livelihoods
 parent: our-work
 permalink: /our-work/solutions/sustainable-livelihoods/

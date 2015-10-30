@@ -1,5 +1,5 @@
 ---
-layout: node
+layout: solution
 title: Local Supplier Development
 parent: our-work
 categories: ['Corporate Services', 'Local Supplier Development']
