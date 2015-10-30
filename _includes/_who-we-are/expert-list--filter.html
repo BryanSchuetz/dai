@@ -1,0 +1,39 @@
+{% include _who-we-are/experts-filter.html %}
+<div class="experts-rail">
+{% for expert in site.experts %}
+  {% if expert.solutions contains page.solution %}
+    <div class="people-block">
+      <a href="{{ expert.url }}"><img src="{{ expert.photo }}" alt="" class="expert-details--photo"></a>
+      <div class="expert-details--metadata">
+        <h3><a href="{{ expert.url }}">{{ expert.title }}</a></h3>
+            <ul class="expert-details--list">
+              {% for expertise in expert.solutions limit:2 %}
+              <li>
+                {% for solution in site.data.solutions %}
+                  {% if expertise == solution.text %}
+                    <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
+                  {% endif %}
+                {% endfor %}
+                </li>
+              {% endfor %}
+              {% for locale in expert.regions limit:2 %}
+                <li>
+                  {% for region in site.data.regions %}
+                    {% if locale == region.text %}
+                    <a class="expert-region" href="{{ region.path }}">{{ region.icon }} {{ region.text }}</a>
+                    {% endif %}
+                  {% endfor %}
+                </li>
+              {% endfor %}
+            </ul>
+      </div>
+      <div class="expert-summary">
+        <p class="expert-details--title">{{ expert.job-title }}</p>
+        <p>{{ expert.summary }}</p>
+      </div>
+      <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+    </div>
+    <hr>
+  {% endif %}
+{% endfor %}
+</div>
