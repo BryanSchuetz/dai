@@ -10,7 +10,7 @@
             <li>
               {% for solution in site.data.solutions %}
                 {% if expertise == solution.text %}
-                  <a class="expert-solution"href="">{{ solution.icon }} {{ solution.text }}</a>
+                  <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
                 {% endif %}
               {% endfor %}
               </li>
@@ -19,12 +19,11 @@
               <li>
                 {% for region in site.data.regions %}
                   {% if locale == region.text %}
-                  <a class="expert-region" href="">{{ region.icon }} {{ region.text }}</a>
+                  <a class="expert-region" href="{{ region.path }}">{{ region.icon }} {{ region.text }}</a>
                   {% endif %}
                 {% endfor %}
               </li>
             {% endfor %}
-
           </ul>
     </div>
     <div class="expert-summary">
