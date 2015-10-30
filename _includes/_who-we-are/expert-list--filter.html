@@ -1,6 +1,6 @@
 {% include _who-we-are/experts-filter.html %}
-<div class="experts-rail">
-{% for expert in site.experts %}
+<div id="anchorish" class="experts-rail">
+{% for expert in site.experts | where expert.solutions contains page.solution%}
   {% if expert.solutions contains page.solution %}
     <div class="people-block">
       <a href="{{ expert.url }}"><img src="{{ expert.photo }}" alt="" class="expert-details--photo"></a>

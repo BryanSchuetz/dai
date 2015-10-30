@@ -3,7 +3,7 @@
   <p>Looking for expertise in a particular technical topic or geographical area? Click below to limit your search of DAI staff to a particular solution or region.</p>
   <div class="experts-filter--control">
     <h3>Filter by Solution</h3>
-    {% for solution in site.data.solutions %}<a class="experts-filter--solution" href="/who-we-are/our-team/{{ solution.text | downcase | replace:' ','-' }}/"> {{ solution.icon }} {{ solution.text }} </a>{% endfor %}
+    {% for solution in site.data.solutions %}<a class="experts-filter--solution {% if solution.text == page.solution %}active{% endif %}" href="/who-we-are/our-team/{{ solution.text | downcase | replace:' ','-' }}/"> {{ solution.icon }} {{ solution.text }} </a>{% endfor %}
   </div>
   <div class="experts-filter--control">
     <h3>Filter by Region</h3>

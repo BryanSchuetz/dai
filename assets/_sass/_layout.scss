@@ -546,7 +546,7 @@ iframe{
       }
     }
   }
-  a:hover{
+  a:hover, a.active{
     color: $nav-black;
     border: 1px solid $nav-black;
   }
