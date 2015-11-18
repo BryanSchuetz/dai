@@ -1,10 +1,13 @@
 ---
-layout: solution
 title: Water Services and Resource Management
+permalink: "/our-work/solutions/water-services-and-resource-management/"
+layout: solution
 parent: our-work
-permalink: /our-work/solutions/water-services-and-resource-management/
-categories: ['Environment and Energy', 'Water Services and Resource Management']
+categories:
+- Environment and Energy
+- Water Services and Resource Management
 ---
+
 One of the pillars for inclusive and sustainable economic growth is nationwide access to water resources. Reflecting the centrality of water to human development and prosperity, our specialists help national and local governments and private companies devise and carry out plans to improve water security, water productivity, and expanded access to clean water and sanitation service solutions so our solutions are designed to:
 
 * Improve management of water resources in freshwater-scarce regions with expanding populations that face additional vulnerabilities of climate change.

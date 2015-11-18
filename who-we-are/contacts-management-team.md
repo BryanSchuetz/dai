@@ -1,9 +1,10 @@
 ---
-layout: node
 title: United Kingdom Management Team
+permalink: "/who-we-are/global-reach/united-kingdom/contacts/management-team/"
+layout: node
 parent: who-we-are
-permalink: /who-we-are/global-reach/united-kingdom/contacts/management-team/
 ---
+
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 {% assign contacts = site.contacts-management | sort: 'sort-order' %}
 {% for contact in contacts %}

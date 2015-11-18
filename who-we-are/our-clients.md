@@ -1,6 +1,6 @@
 ---
-layout: node
 title: Our Clients
+layout: node
 parent: who-we-are
 ---
 

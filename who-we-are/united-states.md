@@ -1,8 +1,8 @@
 ---
-layout: node
 title: United States
+permalink: "/who-we-are/global-reach/united-states/"
+layout: node
 parent: who-we-are
-permalink: /who-we-are/global-reach/united-states/
 ---
 
 From its earliest days as a start-up in 1970, DAI has maintained a presence in or near Washington, D.C. The three founders’ office was a tiny establishment in Georgetown. Today, our office in Bethesda, Maryland, just outside Washington, is home to some 350 employees.

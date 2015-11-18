@@ -1,8 +1,9 @@
 ---
-layout: solution
 title: Economic Growth
+layout: solution
 parent: our-work
-categories: ['Economic Growth']
+categories:
+- Economic Growth
 ---
 
 **Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**

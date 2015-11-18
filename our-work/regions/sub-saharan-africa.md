@@ -1,9 +1,11 @@
 ---
-layout: node
 title: Sub-Saharan Africa
+layout: node
 parent: our-work
-categories: ['Sub-Saharan Africa']
+categories:
+- Sub-Saharan Africa
 ---
+
 DAI traces its corporate roots to Sub-Saharan Africa. Today, we help African governments, businesses, private organizations, and communities overcome their most pressing challenges.
 
 Beginning in the late 1970s, we cut our teeth managing rural development projects in Niger, Sudan, Tanzania, and Zaire. We helped build roads, change cultivation practices, strengthen agricultural training institutes, and create funds for villagers to start small businesses.

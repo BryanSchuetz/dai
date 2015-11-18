@@ -1,8 +1,9 @@
 ---
-layout: solution
 title: Corporate Services
+layout: solution
 parent: our-work
-categories: ['Corporate Services']
+categories:
+- Corporate Services
 ---
 
 **Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices**

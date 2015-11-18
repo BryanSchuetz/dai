@@ -1,9 +1,11 @@
 ---
-layout: solution
 title: Global Health Solutions
+layout: solution
 parent: our-work
-categories: [Health]
+categories:
+- Health
 ---
+
 **Innovating global health solutions to save lives.**
 
 Our health team and its regional and local partners have the technical skills, expertise, and local knowledge to deliver global health solutions while responding to issues ranging from emerging pandemic threats to HIV/AIDS to waterborne diseases. Our approach leverages nonhealth resources in DAI’s environment, economic growth, governance, and post-conflict stabilization sectors to save lives and achieve health improvements all over the world.

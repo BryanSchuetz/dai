@@ -1,6 +1,6 @@
 ---
-layout: node
 title: 'Our Team: Environment and Energy'
+layout: node
 parent: who-we-are
 solution: Environment and Energy
 ---

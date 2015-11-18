@@ -1,6 +1,6 @@
 ---
-layout: node
 title: Ethics and Compliance at DAI
+layout: node
 parent: who-we-are
 ---
 

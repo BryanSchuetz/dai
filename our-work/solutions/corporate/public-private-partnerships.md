@@ -1,9 +1,12 @@
 ---
-layout: solution
 title: Public-Private Partnerships
+layout: solution
 parent: our-work
-categories: ['Corporate Services', 'Public-Private Partnerships']
+categories:
+- Corporate Services
+- Public-Private Partnerships
 ---
+
 Addressing social and environmental challenges in developing countries is a tough job for any single organization. As a recognized leader in developing and managing successful public-private partnerships, we help our clients establish partnerships that directly support their own business and social responsibility challenges.
 
 Our public-private partnerships services include:

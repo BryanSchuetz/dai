@@ -1,6 +1,6 @@
 ---
-layout: node
 title: Board
+layout: node
 parent: who-we-are
 ---
 

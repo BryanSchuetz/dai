@@ -1,9 +1,11 @@
 ---
-layout: node
 title: Middle East and North Africa
+layout: node
 parent: our-work
-categories: [Middle East and North Africa]
+categories:
+- Middle East and North Africa
 ---
+
 Our work in the Middle East and North Africa began with design and evaluation assignments in 1976 and continues today with major programs in many development fields. On those first assignments, we supported the U.S. Agency for International Development’s (USAID) work in rural Egypt, and in 1980 we helped Egypt implement a long-term agricultural production program. We soon were managing large-scale programs and providing technical expertise in many Middle Eastern and North African countries. A few examples:
 
 * Operating in Egypt, Jordan, Lebanon, and Morocco, our Fostering Resolution of Water Resources Disputes program (1996–2002) settled major water disputes across borders by solving problems collaboratively.

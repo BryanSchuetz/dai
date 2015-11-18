@@ -1,6 +1,6 @@
 ---
-layout: node
 title: 'Our Team: Economic Growth'
+layout: node
 parent: who-we-are
 solution: Economic Growth
 ---

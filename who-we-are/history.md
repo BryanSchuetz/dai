@@ -1,8 +1,9 @@
 ---
-layout: node
 title: History
+layout: node
 parent: who-we-are
 ---
+
 DAI was founded in 1970 by three graduates of Harvard University’s Kennedy School of Government intent on providing a more dynamic and effective brand of development assistance. This entrepreneurial approach would look beyond traditional philanthropy to embrace the virtues of the private sector, and build a company that delivers social and economic development on a competitive, cost-effective, best-value basis—a social enterprise that is self-sustaining because it is profitable.
 
 ![DAI's Founders](/assets/images/who-we-are/founders.jpg "DAI's Founders")

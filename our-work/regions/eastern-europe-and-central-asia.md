@@ -1,9 +1,11 @@
 ---
-layout: node
 title: Eastern Europe and Central Asia
+layout: node
 parent: our-work
-categories: ['Eastern Europe and Central Asia']
+categories:
+- Eastern Europe and Central Asia
 ---
+
 DAI first worked in Eastern Europe and Central Asia in 1976, and since the breakup of the Soviet Union and Yugoslavia, we have joined donors and governments in the region to promote democratic practices and enterprise economies, strengthen farming and business practices, and encourage responsible resource management.
 
 * From legislative strengthening assistance in Ukraine and Armenia to governance reform in Serbia and Romania, we have led and supported good governance initiatives since 1996, helping numerous institutions across the region become effective public servants.

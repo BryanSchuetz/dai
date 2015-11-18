@@ -1,9 +1,11 @@
 ---
-layout: node
 title: Latin America and the Caribbean
+layout: node
 parent: our-work
-categories: ['Latin America and the Caribbean']
+categories:
+- Latin America and the Caribbean
 ---
+
 Since 1975, clients such as the U.S. Agency for International Development, Inter-American Development Bank, World Bank, and government of Mexico have called on DAI to support sustainable economic growth, environmentally responsible agricultural development, and democratic processes in Latin America and the Caribbean.
 
 * In Mexico, we helped microfinance institutions secure thousands of new customers, mostly poor rural women unable to access traditional banking, who use these services to nurture basic livelihoods such as farming and crafts.

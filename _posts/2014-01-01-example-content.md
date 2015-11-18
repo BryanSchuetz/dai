@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Example content
+date: 2014-01-01 00:00:00 Z
+categories:
+- news
+layout: post
 category: news
 ---
-
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.

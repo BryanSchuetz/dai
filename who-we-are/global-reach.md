@@ -1,8 +1,9 @@
 ---
-layout: node
 title: Global Offices
+layout: node
 parent: who-we-are
 ---
+
 ince 1970, we have worked in more than 150 countries—delivering results across the spectrum of development contexts, from stable societies and high-growth economies to challenging environments racked by political or military conflict. At any one time we are likely to have active projects in 50 or more countries. This worldwide portfolio is supported from corporate headquarters in the United Kingdom and the United States.
 
 [![DAI Project Map](/assets/images/who-we-are/map.jpg "DAI Project Map")](http://dai.com/extras/maps/index.html)

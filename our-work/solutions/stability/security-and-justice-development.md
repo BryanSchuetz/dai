@@ -1,10 +1,13 @@
 ---
-layout: solution
 title: Security and Justice Development
+permalink: "/our-work/solutions/security-and-justice-development/"
+layout: solution
 parent: our-work
-permalink: /our-work/solutions/security-and-justice-development/
-categories: ['Stability', 'Security and Justice Development']
+categories:
+- Stability
+- Security and Justice Development
 ---
+
 Our approach to enhancing security and justice focuses on the effectiveness, accountability, and responsiveness of security and justice institutions. We
 develop links among institutions, citizens, and communities.
 

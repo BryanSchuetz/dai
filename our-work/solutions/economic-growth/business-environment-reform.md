@@ -1,9 +1,11 @@
 ---
-layout: solution
 title: Business Environment Reform
+permalink: "/our-work/solutions/business-environment-reform/"
+layout: solution
 parent: our-work
-permalink: /our-work/solutions/business-environment-reform/
-categories: ['Economic Growth', 'Business Environment Reform']
+categories:
+- Economic Growth
+- Business Environment Reform
 ---
 
 We have deep experience in reforming business environments to improve competitiveness of companies, industries, and countries in domestic and global markets.

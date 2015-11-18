@@ -1,8 +1,9 @@
 ---
-layout: solution
 title: Governance
+layout: solution
 parent: our-work
-categories: [Governance]
+categories:
+- Governance
 ---
 
 **Building effective economic and democratic governance**

@@ -1,9 +1,11 @@
 ---
-layout: solution
 title: Innovation and Entrepreneurship
+permalink: "/our-work/solutions/innovation-and-entrepreneurship/"
+layout: solution
 parent: our-work
-permalink: /our-work/solutions/innovation-and-entrepreneurship/
-categories: ['Economic Growth', 'Economic Growth']
+categories:
+- Economic Growth
+- Economic Growth
 ---
 
 A pioneer of developing and implementing strategies for national competitiveness, DAI now works at the forefront of development strategies around low-carbon growth.

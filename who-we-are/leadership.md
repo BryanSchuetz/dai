@@ -1,6 +1,6 @@
 ---
-layout: node
 title: Leadership
+layout: node
 parent: who-we-are
 ---
 

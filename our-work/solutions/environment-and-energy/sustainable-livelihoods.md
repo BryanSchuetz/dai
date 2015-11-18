@@ -1,9 +1,11 @@
 ---
-layout: solution
 title: Sustainable Livelihoods
+permalink: "/our-work/solutions/sustainable-livelihoods/"
+layout: solution
 parent: our-work
-permalink: /our-work/solutions/sustainable-livelihoods/
-categories: ['Environment and Energy', 'Sustainable Livelihoods']
+categories:
+- Environment and Energy
+- Sustainable Livelihoods
 ---
 
 Environmental protection and conservation are no longer the exclusive domain of the public and nonprofit sectors. Operating on behalf of clients in developing countries throughout the globe, we are transforming former hindrances to growth into vehicles for sustainable development. Just as social entrepreneurs are flourishing in the developed world, we are building the capacity of developing world businessmen and women to adopt triple-bottom-line business models that achieve blended environmental, social, and economic returns.

@@ -1,8 +1,9 @@
 ---
-layout: solution
 title: Environment and Energy
+layout: solution
 parent: our-work
-categories: ['Environment and Energy']
+categories:
+- Environment and Energy
 ---
 
 **Improved management of natural resources and important ecosystem services not only supports economic growth, and strengthens resilience to climate change but also can provide the foundation for sustainable development.**

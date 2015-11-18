@@ -1,10 +1,13 @@
 ---
-layout: solution
 title: Land Tenure and Property Rights
+permalink: "/our-work/solutions/land-tenure/"
+layout: solution
 parent: our-work
-permalink: /our-work/solutions/land-tenure/
-categories: ['Environment and Energy', 'Land Tenure']
+categories:
+- Environment and Energy
+- Land Tenure
 ---
+
 Secure property rights are key to economic growth. Equitable access to land is the basis for pro-poor and socially inclusive economic growth; and competition for land often inflames tensions between different groups, resulting in conflict. In the context of climate change and population growth, with greater pressure on scarce resources, secure and equitable access to land is becoming increasingly important. As a result, the international development community is escalating its support for land-related programs around the world. DAI works across all types of tenure systems—[customary](http://dai-global-developments.com/articles/customary-land-tenure.html), private, and public—to strengthen the security and rights of land users by focusing on the appropriate reforms and capacity building that are appropriate in each context. We do so in cost-effective ways, working with and through familiar local institutions in which local inhabitants have confidence, so they can improve their livelihoods. We ensure that processes are community-driven in conjunction with effective capacity building at the institutional level. We believe that an integrated approach, incorporating all the key elements under a single program management framework, is the best approach. Some of those elements include:
 
 * Locally tailored interventions that build upon local practices and experience.

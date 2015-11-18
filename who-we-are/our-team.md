@@ -1,6 +1,6 @@
 ---
-layout: node
 title: Our Team
+layout: node
 parent: who-we-are
 ---
 
