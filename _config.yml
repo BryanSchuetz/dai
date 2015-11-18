@@ -6,3 +6,37 @@ collections:
   uploads:
     title: Uploads
     output: true
+  leaders:
+    output: true
+    permalink: /who-we-are/leadership/:path/
+  members:
+    output: true
+    permalink: /who-we-are/board/:path/
+  experts:
+    output: true
+    permalink: /who-we-are/our-team/:path/
+  projects:
+    output: true
+    permalink: /our-work/projects/:path/
+  contacts-management:
+    output: false
+  contacts-coordinators:
+    output: false
+  contacts-programme-management:
+    output: false
+  contacts-business-development:
+    output: false
+  contacts-business-management:
+    output: flase
+markdown:         redcarpet
+highlighter:      pygments
+destination:      ./build
+permalink:        pretty
+paginate:         1
+exclude:          ["README.md", ".gitignore", "Guardfile", "Rakefile", "Gemfile", "Gemfile.lock", ".DS_Store", "punchlist.md"]
+
+# Sass support via Jekyll 2.0
+sass:
+  sass_dir:     assets/_sass
+# Set baseurl for gh-pages
+baseurl: ""
