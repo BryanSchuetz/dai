@@ -3,9 +3,12 @@ title: Jack McCarthy
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/jack-mccarthy.jpg"
-summary: "Jack McCarthy has 20 years of international experience in the research, design, implementation, management, and evaluation of international development programs, especially those involving crisis prevention, mitigation, and responses."
+summary: Jack McCarthy has 20 years of international experience in the research, design,
+  implementation, management, and evaluation of international development programs,
+  especially those involving crisis prevention, mitigation, and responses.
 sort-order: 4
 ---
+
 Jack McCarthy has 20 years of international experience in the research, design, implementation, management, and evaluation of international development programs, especially those involving crisis prevention, mitigation, and responses. Earlier in his career, McCarthy focused on developing USAID’s initial programmatic efforts in Eastern Europe and in the former Soviet Union. He subsequently served as program manager for USAID’s primary program supporting Mozambique’s successful transition from war to peace, including the demobilization, reinsertion and (social and economic) reintegration of former combatants, extensive de-mining, and reconstruction efforts. Jack led USAID’s comprehensive program supporting the implementation of the Guatemalan Peace Accords. USAID’s “Peace Program” was a comprehensive and multifaceted effort with emphasis on war-affected regions and populations, including victims of the conflict as well as former combatants. The $120 million program included a range of projects supporting national reconciliation; capacity building; economic growth; and improved national and local level governance to enhance stability and build sustainable peace.
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)

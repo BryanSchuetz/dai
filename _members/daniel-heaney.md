@@ -3,7 +3,8 @@ title: Daniel Heaney
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/daniel-heaney.jpg"
-summary: "Dan is a financial professional with more than 20 years of experience in public and private companies."
+summary: Dan is a financial professional with more than 20 years of experience in
+  public and private companies.
 sort-order: 2
 ---
 

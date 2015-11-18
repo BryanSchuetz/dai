@@ -3,9 +3,11 @@ title: Gail Steinel
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/gail-steinel.jpg"
-summary: "Gail was for more than two decades a senior executive at Arthur Andersen, leading its Business Consulting Business."
+summary: Gail was for more than two decades a senior executive at Arthur Andersen,
+  leading its Business Consulting Business.
 sort-order: 9
 ---
+
 Gail is the owner of Executive Advisors, which provides consulting services to chief executive officers and leadership seminars to various organizations. Gail was for more than two decades a senior executive at Arthur Andersen, leading its Business Consulting Business. She steered her team through its sale to KPMG Consulting (later BearingPoint) and retired from BearingPoint in 2007 as Executive Vice President of Global Commercial Services.
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)

@@ -3,10 +3,12 @@ title: Jean Gilson
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
-summary: "Jean leads the firm’s work on strategy, market analysis, external relations, and communications."
-job-title: "Senior Vice President, Strategy and Information Technology Group"
+summary: Jean leads the firm’s work on strategy, market analysis, external relations,
+  and communications.
+job-title: Senior Vice President, Strategy and Information Technology Group
 sort-order: 1
 ---
+
 **{{ page.job-title }}**
 
 When Jean Gilson left Georgetown University in the early 1980s she went straight into the heady world of high finance. “I was deeply entrenched in the commercial banking and corporate finance world,” she said. But that all came to a halt one night in Cleveland in August 1986.

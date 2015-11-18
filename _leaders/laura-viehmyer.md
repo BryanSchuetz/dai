@@ -3,10 +3,12 @@ title: Laura Viehmyer
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/laura-viehmyer.jpg"
-summary: "Laura’s career spans 25 years in human resources management for both nonprofit and for-profit organizations."
-job-title: "Senior Vice President, Human Resources"
+summary: Laura’s career spans 25 years in human resources management for both nonprofit
+  and for-profit organizations.
+job-title: Senior Vice President, Human Resources
 sort-order: 5
 ---
+
 **{{ page.job-title }}**
 
 

@@ -3,10 +3,14 @@ title: Michael Jakobowski
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/michael-jakobowski.jpg"
-summary: "Michael has more than 20 years of management and consulting experience, including in strategic planning, mergers and acquisitions, business process integration, and 11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson Lambert."
-job-title: "Chief Financial Officer"
+summary: Michael has more than 20 years of management and consulting experience, including
+  in strategic planning, mergers and acquisitions, business process integration, and
+  11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson
+  Lambert.
+job-title: Chief Financial Officer
 sort-order: 2
 ---
+
 **{{ page.job-title }}**
 
 Michael Jakobowski has more than 20 years of management and consulting experience, including in strategic planning, mergers and acquisitions, business process integration, and 11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson Lambert.

@@ -3,9 +3,11 @@ title: Marwan Juma
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/marwan-juma.jpg"
-summary: "Marwan was the Jordanian Minister of Information and Communications Technology and, previously, Chief Executive Officer of Xpress Telecommunications."
+summary: Marwan was the Jordanian Minister of Information and Communications Technology
+  and, previously, Chief Executive Officer of Xpress Telecommunications.
 sort-order: 3
 ---
+
 Marwan was the Jordanian Minister of Information and Communications Technology and, previously, Chief Executive Officer of Xpress Telecommunications, one of Jordan’s leading mobile operators. He is also the founder and Chairman of Sama for Integrated Systems, better known as dot.jo, one of Jordan’s leading web development houses, and Kinz for Information Technology, the country’s leading corporate data provider. In addition, Marwan is the founder and Vice Chairman of Oasis 500, the region’s leading IT fund and accelerator. He has held prominent positions in the past as CEO of Batelco Jordan, the country’s second fixed-line operator and leading data communication provider. In addition, he chaired the local chapter of the Young Arab Leaders Organization, the region’s leading nongovernmental organization focused on the youth of the region.
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)

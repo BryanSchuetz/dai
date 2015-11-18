@@ -3,9 +3,11 @@ title: Marcia Sharp
 parent: who-we-are
 layout: node
 thumbnail: "/assets/images/leaders/thumbnails/marcia-sharp.jpg"
-summary: "Marcia is the principal of Millennium Communications Group, a strategic communications practice serving the nonprofit and philanthropic sectors."
+summary: Marcia is the principal of Millennium Communications Group, a strategic communications
+  practice serving the nonprofit and philanthropic sectors.
 sort-order: 8
 ---
+
 Marcia is the principal of Millennium Communications Group, a strategic communications practice serving the nonprofit and philanthropic sectors. She works with boards of directors and executive staff in foundations, nonprofit associations, and institutions of higher education on issues of organizational change and the uses of communications to support and drive change. She has served on DAI’s Board since September 1993.
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
