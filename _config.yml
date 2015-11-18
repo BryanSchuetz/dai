@@ -37,16 +37,3 @@ sass:
   sass_dir:     assets/_sass
 # Set baseurl for gh-pages
 baseurl: ""
-prose:
-  media:        assets/images
-  metadata:
-    _posts:
-      - name: category
-        field:
-          element: select
-          label: "Type of Post"
-          options:
-            - name: "News"
-              value: "news"
-            - name: "Story"
-              value: "story"
