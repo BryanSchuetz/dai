@@ -42,6 +42,7 @@ defaults:
     path: ''
     type: experts
   values:
+    layout: expert
     solution:
     - Economic Growth
     regions:
@@ -63,13 +64,3 @@ exclude:
 sass:
   sass_dir: assets/_sass
 baseurl: ''
-defaults:
-  - scope:
-      path: ""
-      type: experts
-    values:
-      layout: expert
-      solution:
-        - Economic Growth
-      regions:
-        - Sub-Saharan Africa
