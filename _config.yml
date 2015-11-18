@@ -22,6 +22,10 @@ collections:
     title: Experts
     output: true
     permalink: "/who-we-are/our-team/:path/"
+    defaults:
+      parent:
+      regions:
+      solutions:
   leaders:
     title: Leaders
     output: true
