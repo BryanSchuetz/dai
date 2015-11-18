@@ -9,11 +9,8 @@ sub-solutions:
 - Agriculture and Food Security
 layout: expert
 photo: "/assets/images/experts/agnes-luz.jpg"
-summary: Agnes Luz is an accomplished international development practitioner with
-  more than 25 years of experience managing and providing technical assistance to
-  value chain and agribusiness development programs in Africa, the Middle East, and
-  Asia.
-job-title: Chief of Party, Liberia Food and Enterprise Development
+summary: "Agnes Luz is an accomplished international development practitioner with more than 25 years of experience managing and providing technical assistance to value chain and agribusiness development programs in Africa, the Middle East, and Asia."
+job-title: "Chief of Party, Liberia Food and Enterprise Development"
 articles:
 - name: Rethinking the Political Economy of Decentralization
   url: http://dai.com/news-publications/publications/rethinking-political-economy-decentralization
