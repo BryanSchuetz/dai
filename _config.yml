@@ -37,6 +37,15 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: experts
+  values:
+    solution:
+    - Economic Growth
+    regions:
+    - Sub-Saharan Africa
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
