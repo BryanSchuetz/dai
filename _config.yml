@@ -68,8 +68,8 @@ defaults:
       path: ""
       type: experts
     values:
+      layout: expert
       solution:
         - Economic Growth
-        - Governance
       regions:
         - Sub-Saharan Africa
