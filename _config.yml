@@ -22,12 +22,6 @@ collections:
     title: Experts
     output: true
     permalink: "/who-we-are/our-team/:path/"
-    defaults:
-      parent: who-we-are
-      regions:
-        - Sub-Saharan Africa
-      solutions:
-        - Economic Growth
   leaders:
     title: Leaders
     output: true
@@ -60,3 +54,12 @@ exclude:
 sass:
   sass_dir: assets/_sass
 baseurl: ''
+defaults:
+  - scope:
+      path: ""
+      type: experts
+    values:
+      solution:
+        - Economic Growth
+      regions:
+        - Sub-Saharan Africa
