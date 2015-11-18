@@ -3,40 +3,54 @@ title: DAI
 url: http://dai.com
 timezone: UTC
 collections:
+  contacts-business-development:
+    title: Contacts Business Development
+    output: false
+  contacts-business-management:
+    title: Contacts Business Management
+    output: true
+  contacts-coordinators:
+    title: Contacts Coordinators
+    output: false
+  contacts-management:
+    title: Contacts Management
+    output: false
+  contacts-programme-management:
+    title: Contacts Programme Management
+    output: false
+  experts:
+    title: Experts
+    output: true
+    permalink: "/who-we-are/our-team/:path/"
+  leaders:
+    title: Leaders
+    output: true
+    permalink: "/who-we-are/leadership/:path/"
+  members:
+    title: Members
+    output: true
+    permalink: "/who-we-are/board/:path/"
+  projects:
+    title: Projects
+    output: true
+    permalink: "/our-work/projects/:path/"
   uploads:
     title: Uploads
     output: true
-  leaders:
-    output: true
-    permalink: /who-we-are/leadership/:path/
-  members:
-    output: true
-    permalink: /who-we-are/board/:path/
-  experts:
-    output: true
-    permalink: /who-we-are/our-team/:path/
-  projects:
-    output: true
-    permalink: /our-work/projects/:path/
-  contacts-management:
-    output: false
-  contacts-coordinators:
-    output: false
-  contacts-programme-management:
-    output: false
-  contacts-business-development:
-    output: false
-  contacts-business-management:
-    output: flase
-markdown:         redcarpet
-highlighter:      pygments
-destination:      ./build
-permalink:        pretty
-paginate:         1
-exclude:          ["README.md", ".gitignore", "Guardfile", "Rakefile", "Gemfile", "Gemfile.lock", ".DS_Store", "punchlist.md"]
-
-# Sass support via Jekyll 2.0
+markdown: redcarpet
+highlighter: pygments
+destination: "./build"
+permalink: pretty
+paginate: 1
+exclude:
+- README.md
+- ".gitignore"
+- Guardfile
+- Rakefile
+- Gemfile
+- Gemfile.lock
+- ".DS_Store"
+- punchlist.md
 sass:
-  sass_dir:     assets/_sass
-# Set baseurl for gh-pages
-baseurl: ""
+  sass_dir: assets/_sass
+baseurl: ''
