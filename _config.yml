@@ -43,17 +43,19 @@ defaults:
     type: experts
   values:
     layout: expert
+    parent: who-we-are
     solution:
     - Economic Growth
+    -
     regions:
     - Sub-Saharan Africa
-    parent: who-we-are
-    image: upload/image/here.jpg
-    summary: Include a summary there that will show up in lists of experts.
-    job-title: Include the job title here
+    - 
+    image:
+    summary:
+    job-title:
     articles:
-    - name: article title
-      url: http://some/article/url.com
+    - name:
+      url:
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
