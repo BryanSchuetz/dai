@@ -44,18 +44,20 @@ defaults:
   values:
     layout: expert
     parent: who-we-are
-    solution:
+    solutions:
     - Economic Growth
-    - 
+    -
+    sub-solutions:
+    -
     regions:
     - Sub-Saharan Africa
-    - 
-    image: 
-    summary: 
-    job-title: 
+    -
+    image:
+    summary:
+    job-title:
     articles:
-    - name: 
-      article_file: 
+    - name:
+      article_file:
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
