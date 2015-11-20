@@ -39,25 +39,25 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
+    path: 'experts'
     type: experts
   values:
     layout: expert
-    parent: who-we-are
     solutions:
-    - Economic Growth
-    - 
+    -
+    -
     sub-solutions:
-    - Financial Services
+    -
     regions:
-    - Sub-Saharan Africa
-    - 
-    image: 
-    summary: 
-    job-title: 
+    -
+    -
+    image:
+    summary:
+    job-title:
     articles:
-    - name: 
-      article_file: 
+    - name:
+      article_file:
+    parent: who-we-are
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
