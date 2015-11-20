@@ -46,18 +46,18 @@ defaults:
     parent: who-we-are
     solutions:
     - Economic Growth
-    -
+    - 
     sub-solutions:
     - Financial Services
     regions:
     - Sub-Saharan Africa
-    -
-    image:
-    summary:
-    job-title:
+    - 
+    image: 
+    summary: 
+    job-title: 
     articles:
-    - name:
-      article_file:
+    - name: 
+      article_file: 
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
