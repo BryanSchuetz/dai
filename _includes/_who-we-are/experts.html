@@ -4,29 +4,35 @@
     <h1>{{ page.title }}</h1>
     <p class="expert-details--title">{{ page.job-title }}</p>
     <ul class="expert-details--list">
-      {% for expertise in page.solutions limit:2 %}
-      <li>
-        {% for solution in site.data.solutions %}
-          {% if expertise == solution.text %}
-            <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
-          {% endif %}
-        {% endfor %}
-        </li>
-      {% endfor %}
-      {% for locale in page.regions limit:2 %}
+      {% unless page.solutions[0] == null %}
+        {% for expertise in page.solutions limit:2 %}
         <li>
-          {% for region in site.data.regions %}
-            {% if locale == region.text %}
-            <a class="expert-region" href="{{ region.path }}">{{ region.icon }} {{ region.text }}</a>
+          {% for solution in site.data.solutions %}
+            {% if expertise == solution.text %}
+              <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
             {% endif %}
           {% endfor %}
-        </li>
-      {% endfor %}
-      {% for article in page.articles limit:2 %}
-        <li>
-          <a href="{{ article.article_file }}" class="expert-article"><svg class="article-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax meet"><use xlink:href="#article-badge"></use></svg> {{ article.name }}</a>
-        </li>
-      {% endfor %}
+          </li>
+        {% endfor %}
+      {% endunless %}
+      {% unless page.regions[0] == null %}
+        {% for locale in page.regions limit:2 %}
+          <li>
+            {% for region in site.data.regions %}
+              {% if locale == region.text %}
+              <a class="expert-region" href="{{ region.path }}">{{ region.icon }} {{ region.text }}</a>
+              {% endif %}
+            {% endfor %}
+          </li>
+        {% endfor %}
+      {% endunless %}
+      {% unless page.articles[0].name == null %}
+        {% for article in page.articles limit:2 %}
+            <li>
+              <a href="{{ article.article_file }}" class="expert-article"><svg class="article-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax meet"><use xlink:href="#article-badge"></use></svg> {{ article.name }}</a>
+            </li>
+        {% endfor %}
+      {% endunless %}
     </ul>
   </div>
 </div>
