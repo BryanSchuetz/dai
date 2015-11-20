@@ -24,7 +24,7 @@
       {% endfor %}
       {% for article in page.articles limit:2 %}
         <li>
-          <a href="{{ article.url }}" class="expert-article"><svg class="article-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax meet"><use xlink:href="#article-badge"></use></svg> {{ article.name }}</a>
+          <a href="{{ article.article_file }}" class="expert-article"><svg class="article-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax meet"><use xlink:href="#article-badge"></use></svg> {{ article.name }}</a>
         </li>
       {% endfor %}
     </ul>
