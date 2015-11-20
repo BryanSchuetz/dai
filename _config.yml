@@ -49,8 +49,9 @@ defaults:
     -
     regions:
     - Sub-Saharan Africa
-    - 
+    -
     image:
+    photo:
     summary:
     job-title:
     articles:
