@@ -47,6 +47,13 @@ defaults:
     - Economic Growth
     regions:
     - Sub-Saharan Africa
+    parent: who-we-are
+    image: upload/image/here.jpg
+    summary: 'Include a summary there that will show up in lists of experts.'
+    job-title: 'Include the job title here'
+    articles:
+      - name: 'article title'
+        url: 'http://some/article/url.com'
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
