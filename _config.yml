@@ -39,24 +39,24 @@ collections:
     output: true
 defaults:
 - scope:
-    path: 'experts'
+    path: experts
     type: experts
   values:
     layout: expert
     solutions:
-    -
-    -
+    - 
+    - 
     sub-solutions:
-    -
+    - 
     regions:
-    -
-    -
-    image:
-    summary:
-    job-title:
+    - 
+    - 
+    image: 
+    summary: 
+    job-title: 
     articles:
-    - name:
-      article_file:
+    - name: 
+      article_file: 
     parent: who-we-are
 markdown: redcarpet
 highlighter: pygments
