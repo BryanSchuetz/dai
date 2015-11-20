@@ -8,7 +8,7 @@ solutions:
 sub-solutions:
 - Agriculture and Food Security
 layout: expert
-photo: "/assets/images/experts/agnes-luz.jpg"
+image: "/assets/images/experts/agnes-luz.jpg"
 summary: Agnes Luz is an accomplished international development practitioner with
   more than 25 years of experience managing and providing technical assistance to
   value chain and agribusiness development programs in Africa, the Middle East, and

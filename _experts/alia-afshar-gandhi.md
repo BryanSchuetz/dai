@@ -10,7 +10,7 @@ solutions:
 sub-solutions:
 - Agriculture and Food Security
 layout: expert
-photo: "/assets/images/experts/alia-afshar-gandhi.jpg"
+image: "/assets/images/experts/alia-afshar-gandhi.jpg"
 summary: Alia Afshar-Gandhi works in the area of food security and agriculture, where
   she specializes in rural livelihood creation in post-conflict countries. She manages
   the Food and Enterprise Development Program in Liberia and the Strengthening Sustainable

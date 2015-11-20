@@ -9,7 +9,7 @@ solutions:
 sub-solutions:
 - Conflict and Vulnerability Analysis
 layout: expert
-photo: "/assets/images/experts/albert-cevallos.jpg"
+image: "/assets/images/experts/albert-cevallos.jpg"
 summary: Albert Cevallos has more than 17 years of experience in democratization,
   governance, media, human rights, conflict resolution, and youth programs in Syria,
   Iran, Iraq, Egypt, Lebanon, Kosovo, Bosnia, Serbia, Croatia, Macedonia, Montenegro,

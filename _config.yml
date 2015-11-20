@@ -51,12 +51,11 @@ defaults:
     - Sub-Saharan Africa
     -
     image:
-    photo:
     summary:
     job-title:
     articles:
     - name:
-      url:
+      article_file:
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
