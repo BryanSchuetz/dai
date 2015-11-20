@@ -46,16 +46,16 @@ defaults:
     parent: who-we-are
     solution:
     - Economic Growth
-    -
+    - 
     regions:
     - Sub-Saharan Africa
-    -
-    image:
-    summary:
-    job-title:
+    - 
+    image: 
+    summary: 
+    job-title: 
     articles:
-    - name:
-      article_file:
+    - name: 
+      article_file: 
 markdown: redcarpet
 highlighter: pygments
 destination: "./build"
