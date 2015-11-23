@@ -38,25 +38,25 @@ collections:
     title: Uploads
     output: true
 defaults:
-- scope: # Defaults for Experts Collection
+- scope:
     path: ''
     type: experts
   values:
     layout: expert
-    job-title:
+    job-title: 
     image: 235x235
-    summary:
+    summary: 
     solutions:
-    -
-    -
+    - 
+    - 
     sub-solutions:
-    -
+    - 
     regions:
-    -
-    -
+    - 
+    - 
     articles:
-    - name:
-      article_file:
+    - name: 
+      article_file: 
     parent: who-we-are
 markdown: redcarpet
 highlighter: pygments
