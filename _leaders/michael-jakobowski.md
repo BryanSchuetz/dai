@@ -2,7 +2,7 @@
 title: Michael Jakobowski
 parent: who-we-are
 layout: node
-thumbnail: "/assets/images/leaders/thumbnails/michael-jakobowski.jpg"
+image: "/assets/images/leaders/thumbnails/michael-jakobowski.jpg"
 summary: Michael has more than 20 years of management and consulting experience, including
   in strategic planning, mergers and acquisitions, business process integration, and
   11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson
@@ -10,12 +10,9 @@ summary: Michael has more than 20 years of management and consulting experience,
 job-title: Chief Financial Officer
 sort-order: 2
 ---
-
-**{{ page.job-title }}**
-
 Michael Jakobowski has more than 20 years of management and consulting experience, including in strategic planning, mergers and acquisitions, business process integration, and 11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson Lambert.
 
-![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
+![{{ page.title }}]({{ page.image }})
 
 Before joining DAI, he served as CFO for Mission Essentials Personnel (MEP), which provides human capital solutions—principally language and training services—to government and corporate clients via a staff of 8,000 personnel in 13 countries across Africa, Asia, Europe, and the Middle East. At MEP, he led a team of 60 staff responsible for all finance functions: reporting, forecasting, treasury, pricing and proposal support, quality assurance, information technology, and regulatory compliance.
 

@@ -10,7 +10,7 @@ Our Executive Leadership Team ensures that DAI’s passion for development is de
 {% assign leaders = site.leaders | sort: 'sort-order' %}
 {% for leader in leaders %}
   <div class="people-block">
-    <img src="{{leader.thumbnail}}" alt="" class="people-photo">
+    <img src="{{leader.image}}" alt="" class="people-photo">
     <div class="people-details">
       <h3>{{ leader.title }}</h3>
       <p>{{ leader.job-title }}</p>

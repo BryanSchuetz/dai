@@ -2,19 +2,15 @@
 title: Jean Gilson
 parent: who-we-are
 layout: node
-thumbnail: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
+image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 summary: Jean leads the firm’s work on strategy, market analysis, external relations,
   and communications.
 job-title: Senior Vice President, Strategy and Information Technology Group
 sort-order: 1
 ---
-
-**{{ page.job-title }}**
-
 When Jean Gilson left Georgetown University in the early 1980s she went straight into the heady world of high finance. “I was deeply entrenched in the commercial banking and corporate finance world,” she said. But that all came to a halt one night in Cleveland in August 1986.
 
-![Jean Gilson](/assets/images/leaders/jean-gilson.jpg)
-
+![{{ page.title }}]({{ page.image }})
 
 “We had all come back to the hotel after celebrating the closing and syndication of a multibillion-dollar leveraged buyout,” she recalls. “I had worked on dozens of such deals at this point. I turned on the television to hear the reports of the laying off of 5,000 staff as a result of the buyout. I decided in that room, on that night, that I wanted to do something different with my life.”
 

@@ -2,18 +2,15 @@
 title: Christopher Lockett
 parent: who-we-are
 layout: node
-thumbnail: "/assets/images/leaders/thumbnails/christopher-lockett.jpg"
+image: "/assets/images/leaders/thumbnails/christopher-lockett.jpg"
 summary: Christopher leads DAI’s operations in Europe and oversees our work for clients
-  such as the U.K. Department for International Development and the European Commission
+  such as the U.K. Department for International Development and the European Commission.
 job-title: Senior Vice President and Managing Director, DAI Europe
 sort-order: 3
 ---
-
-**{{ page.job-title }}**
-
 Christopher Lockett is an accomplished executive who has led projects and teams in both the public and private sectors, focusing for the past decade on donor-funded international development initiatives.
 
-![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
+![{{ page.title }}]({{ page.image }})
 
 He joined DAI in 2013 when DAI purchased HTSPE Ltd., where as Managing Director he oversaw all day-to-day operations.
 

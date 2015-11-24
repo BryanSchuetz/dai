@@ -2,18 +2,15 @@
 title: James Boomgard
 parent: who-we-are
 layout: node
-thumbnail: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
+image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
 summary: Jim has worked at the forefront of economic development issues for more than
   30 years in more than 30 countries.
 job-title: President and Chief Executive Officer
 sort-order: 0
 ---
-
-**{{ page.job-title }}**
-
 Jim Boomgard has worked at the forefront of economic development issues for more than 30 years in more than 30 countries. For the past 26 years he has worked for DAI—with the exception of a two-year stint with FMC Corporation, where he was seconded to establish a large-scale farming operation in Eastern Indonesia.
 
-![James Boomgard](/assets/images/leaders/james-boomgard.jpg)
+![{{ page.title }}]({{ page.image }})
 
 Beginning in the early 1990s, Jim assumed progressively responsible roles at DAI, including serving as Senior Vice President of Business Development, Chief Operating Officer, and President. When he was unanimously elected Chief Executive Officer in 2009, he became only the fourth CEO in DAI’s 41-year history.
 
