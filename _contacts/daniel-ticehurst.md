@@ -1,5 +1,6 @@
 ---
 title: Daniel Ticehurst
+group: Portfolio Coordinators
 parent: who-we-are
 photo: "/assets/images/contacts/daniel-ticehurst.jpg"
 job-title: Knowledge Management, Monitoring and Evaluation
@@ -11,4 +12,3 @@ summary: Daniel is a specialist in the areas of monitoring and evaluation. His m
   and Vietnam, and Falcon Coffees in Uganda.
 sort-order: 6
 ---
-

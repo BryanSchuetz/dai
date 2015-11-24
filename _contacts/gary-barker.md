@@ -1,6 +1,7 @@
 ---
 title: Gary Barker
 parent: who-we-are
+group: Management
 photo: "/assets/images/contacts/gary-barker.jpg"
 job-title: Director, Risk and Business Systems
 email: gary_barker@dai.com
@@ -12,4 +13,3 @@ summary: Gary leads DAI’s risk and systems functions, including contracting, c
   and process, backstopping, and field services.
 sort-order: 1
 ---
-

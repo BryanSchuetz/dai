@@ -1,6 +1,7 @@
 ---
 title: Jenny baker
 parent: who-we-are
+group: Business Management
 photo: "/assets/images/contacts/jenny-baker.jpg"
 job-title: Regional Managing Director, Asia
 email: jenny_baker@dai.com
@@ -12,4 +13,3 @@ summary: Jenny leads the company’s development initiatives in Asia. Jenny has 
   years of experience in domestic public policy, law, and international education.
 sort-order: 1
 ---
-

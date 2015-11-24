@@ -1,6 +1,7 @@
 ---
 title: Bill Grant
 parent: who-we-are
+group: Portfolio Coordinators
 photo: "/assets/images/contacts/bill-grant.jpg"
 job-title: Project Management, Making Markets Work for the Poor (M4P)
 email: bill_grant@dai.com
@@ -14,4 +15,3 @@ summary: Bill focuses on bringing new models of market-led, sustainable economic
   the Poor (M4P) approach for private sector and international donors.
 sort-order: 0
 ---
-

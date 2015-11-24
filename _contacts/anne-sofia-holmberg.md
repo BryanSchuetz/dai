@@ -1,6 +1,7 @@
 ---
 title: Anne-Sofia Holmberg
 parent: who-we-are
+group: Programme Management
 photo: "/assets/images/contacts/anne-sofia-holmberg.jpg"
 job-title: Project Management, Frameworks Operations
 email: anne-sofia_holmberg@dai.com
@@ -14,4 +15,3 @@ summary: Anne-Sofia is a Principal Consultant in the European Commission Framewo
   Nigeria and Ghana.
 sort-order: 0
 ---
-

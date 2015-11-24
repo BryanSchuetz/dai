@@ -1,6 +1,7 @@
 ---
 title: Matthew Roberts
 parent: who-we-are
+group: Programme Management
 photo: "/assets/images/contacts/matthew-roberts.jpg"
 job-title: Project Management
 email: matthew_roberts@dai.com
@@ -20,4 +21,3 @@ summary: Matthew is a Principal Consultant in our Project Management Unit, with 
   in August 2007.
 sort-order: 2
 ---
-

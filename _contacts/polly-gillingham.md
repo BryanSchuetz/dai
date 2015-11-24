@@ -1,6 +1,7 @@
 ---
 title: Polly Gillingham
 parent: who-we-are
+group: Business Development
 photo: "/assets/images/contacts/polly-gillingham.jpg"
 job-title: Business Development, DFID
 email: polly_gillingham@dai.com
@@ -16,4 +17,3 @@ summary: Polly is a livelihoods specialist, with a particular interest in social
   part of the core team for the Evidence on Demand programme and its predecessor programmes.
 sort-order: 1
 ---
-

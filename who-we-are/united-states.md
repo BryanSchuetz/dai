@@ -20,7 +20,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 
 ### Management & Business Development:
 
-{% assign contacts = site.contacts-business-management | sort: 'sort-order' %}
+{% assign contacts = site.contacts | where: 'group', 'Business Management' | sort: 'sort-order' %}
 {% for contact in contacts limit:2 %}
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
@@ -31,6 +31,6 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
     <p>{{ contact.summary }}</p>
   </div>
 </div>
-  {% if forloop.first %}<hr>{% endif %}
+  {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
 <a href="/who-we-are/global-reach/united-states/contacts/management-business/" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

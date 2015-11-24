@@ -1,6 +1,7 @@
 ---
 title: Corin Armstrong
 parent: who-we-are
+group: Business Development
 photo: "/assets/images/contacts/corin-armstrong.jpg"
 job-title: Lead Development
 email: corin_armstrong@dai.com
@@ -18,4 +19,3 @@ summary: Corin is a member of our business development team. He has substantial 
   of activity, liaison with civil society groups, and strategic communications.
 sort-order: 0
 ---
-

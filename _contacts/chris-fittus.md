@@ -1,5 +1,6 @@
 ---
 title: Chris Fittus
+group: Management
 parent: who-we-are
 photo: "/assets/images/contacts/chris-fittus.jpg"
 job-title: Director of Human Resources
@@ -12,4 +13,3 @@ summary: Chris oversees the human resources function for DAI’s U.K. operation,
   and practice.
 sort-order: 3
 ---
-

@@ -1,6 +1,7 @@
 ---
 title: Marika Kanatova
 parent: who-we-are
+group: Business Development
 photo: "/assets/images/contacts/marika-kanatova.jpg"
 job-title: Business Development, Frameworks New Business, Other Donors
 email: marika_kanatova@dai.com
@@ -14,4 +15,3 @@ summary: Marika is a Director in our proposal development team and is responsibl
   and Slovak, and has a working knowledge of Russian and Italian.
 sort-order: 2
 ---
-

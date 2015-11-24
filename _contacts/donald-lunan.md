@@ -1,6 +1,7 @@
 ---
 title: Donald Lunan
 parent: who-we-are
+group: Portfolio Coordinators
 photo: "/assets/images/contacts/donald-lunan.jpg"
 job-title: Knowledge Management, Energy and Environment
 email: donald_lunan@dai.com
@@ -13,4 +14,3 @@ summary: Donald is the Regional Coordinator for the U.K. and Ireland LIFE Monito
   experience includes work in Afghanistan, Kenya, and Tanzania.
 sort-order: 2
 ---
-

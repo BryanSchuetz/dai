@@ -1,6 +1,7 @@
 ---
 title: Chrys Miliaras
 parent: who-we-are
+group: Business Management
 photo: "/assets/images/contacts/chrys-miliaras.jpg"
 job-title: Director, Business Development, Asia
 email: chrys_miliaras@dai.com
@@ -12,4 +13,3 @@ summary: Chrys heads the company’s business development efforts in Asia. An ex
   RTI International, Chemonics, and ACCION.
 sort-order: 6
 ---
-

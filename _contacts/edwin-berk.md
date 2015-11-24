@@ -1,6 +1,7 @@
 ---
 title: Edwin Berk
 parent: who-we-are
+group: Business Management
 photo: "/assets/images/contacts/edwin-berk.jpg"
 job-title: Director, Business Development, Middle East, North Africa, and Afghanistan
 email: edwin_berk@dai.com
@@ -13,4 +14,3 @@ summary: Edwin heads the company’s business development efforts in the Middle 
   to his portfolio.
 sort-order: 2
 ---
-

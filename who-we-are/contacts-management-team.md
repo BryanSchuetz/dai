@@ -6,7 +6,7 @@ parent: who-we-are
 ---
 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
-{% assign contacts = site.contacts-management | sort: 'sort-order' %}
+{% assign contacts = site.contacts | where: 'group', 'Management' | sort: 'sort-order' %}
 {% for contact in contacts %}
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
@@ -17,5 +17,5 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
     <p>{{ contact.summary }}</p>
   </div>
 </div>
-  {% if forloop.last %} {% else %} <hr> {% endif %}
+  {% unless forloop.last %} <hr> {% endunless %}
 {% endfor %}

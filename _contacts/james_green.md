@@ -1,6 +1,7 @@
 ---
 title: James Green
 parent: who-we-are
+group: Management
 photo: "/assets/images/contacts/james-green.jpg"
 job-title: Project Management Advisor
 email: james_green@dai.com
@@ -14,4 +15,3 @@ summary: For more than 30 years, Jim has worked widely in South Asia, Southeast 
   and technical inputs on projects.
 sort-order: 4
 ---
-

@@ -1,6 +1,7 @@
 ---
 title: John Leckie
 parent: who-we-are
+group: Portfolio Coordinators
 photo: "/assets/images/contacts/john-leckie.jpg"
 job-title: Knowledge Management - Land
 email: john_leckie@dai.com
@@ -14,4 +15,3 @@ summary: John, a Principal Consultant in our land team, has 14 years of internat
   and Rural Affairs, and various nonprofits.
 sort-order: 1
 ---
-

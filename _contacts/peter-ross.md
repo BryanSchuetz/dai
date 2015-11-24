@@ -1,6 +1,7 @@
 ---
 title: Peter Ross
 parent: who-we-are
+group: Portfolio Coordinators
 photo: "/assets/images/contacts/peter-ross.jpg"
 job-title: Project Management
 email: peter_ross@dai.com
@@ -11,4 +12,3 @@ summary: A member of the project management team, Peter is responsible for plann
   and South Asia, the Horn of Africa, and West and Southern Africa.
 sort-order: 3
 ---
-

@@ -1,6 +1,7 @@
 ---
 title: Sarah Helmstadter
 parent: who-we-are
+group: Business Management
 photo: "/assets/images/contacts/sarah-helmstadter.jpg"
 job-title: 'Regional Managing Director, Africa '
 email: sarah_helmstadter@dai.com
@@ -12,4 +13,3 @@ summary: Sarah manages the comapny’s Africa portfolio. Since joining DAI in 20
   and social issues.
 sort-order: 5
 ---
-

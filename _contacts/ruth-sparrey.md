@@ -1,6 +1,7 @@
 ---
 title: Ruth Sparrey
 parent: who-we-are
+group: Portfolio Coordinators
 photo: "/assets/images/contacts/ruth-sparrey.jpg"
 job-title: Project Management and Livelihoods
 email: ruth_sparrey@dai.com
@@ -15,4 +16,3 @@ summary: 'Ruth is the Programme Manager for Evidence on Demand, a U.K. Departmen
   services and framework contracts). '
 sort-order: 5
 ---
-

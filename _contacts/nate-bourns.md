@@ -1,6 +1,7 @@
 ---
 title: Nate Bourns
 parent: who-we-are
+group: Management
 photo: "/assets/images/contacts/nate-bourns.jpg"
 job-title: Director, Client Delivery and Business Support
 email: nate_bourns@dai.com
@@ -12,4 +13,3 @@ summary: Nate helped develop and implement our portfolio of microfinance and ent
   underserved rural and urban people, particularly women, access financial services.
 sort-order: 2
 ---
-
