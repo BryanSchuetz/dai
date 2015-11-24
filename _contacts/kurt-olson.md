@@ -15,3 +15,4 @@ summary: Kurt has more than 25 years of experience in the public, private, and n
   sell the firm.
 sort-order: 0
 ---
+
