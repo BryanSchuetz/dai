@@ -1,7 +1,7 @@
 ---
 title: Christopher Lockett
 parent: who-we-are
-layout: node
+layout: leaders
 image: "/assets/images/leaders/thumbnails/christopher-lockett.jpg"
 summary: Christopher leads DAI’s operations in Europe and oversees our work for clients
   such as the U.K. Department for International Development and the European Commission.
@@ -11,7 +11,7 @@ sort-order: 3
 
 Christopher Lockett is an accomplished executive who has led projects and teams in both the public and private sectors, focusing for the past decade on donor-funded international development initiatives.
 
-![{{ page.title }}]({{ page.image }})
+![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
 
 He joined DAI in 2013 when DAI purchased HTSPE Ltd., where as Managing Director he oversaw all day-to-day operations.
 
