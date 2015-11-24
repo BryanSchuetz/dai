@@ -6,21 +6,6 @@ collections:
   contacts:
     title: Contacts
     output: false
-  contacts-business-development:
-    title: Contacts Business Development
-    output: false
-  contacts-business-management:
-    title: Contacts Business Management
-    output: true
-  contacts-coordinators:
-    title: Contacts Coordinators
-    output: false
-  contacts-management:
-    title: Contacts Management
-    output: false
-  contacts-programme-management:
-    title: Contacts Programme Management
-    output: false
   experts:
     title: Experts
     output: true
@@ -46,20 +31,20 @@ defaults:
     type: experts
   values:
     layout: expert
-    job-title: 
+    job-title:
     image: 235x235
-    summary: 
+    summary:
     solutions:
-    - 
-    - 
+    -
+    -
     sub-solutions:
-    - 
+    -
     regions:
-    - 
-    - 
+    -
+    -
     articles:
-    - name: 
-      article_file: 
+    - name:
+      article_file:
     parent: who-we-are
 markdown: redcarpet
 highlighter: pygments
