@@ -6,9 +6,6 @@ collections:
   contacts:
     title: Contacts
     output: false
-  contacts-programme-management:
-    title: Contacts Programme Management
-    output: false
   experts:
     title: Experts
     output: true
