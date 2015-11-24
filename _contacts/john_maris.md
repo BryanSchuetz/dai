@@ -2,7 +2,7 @@
 title: John Maris
 parent: who-we-are
 group: Management
-photo: "/assets/images/contacts/john-maris.jpg"
+image: "/assets/images/contacts/john-maris.jpg"
 job-title: Director of Operations
 email: john_maris@dai.com
 summary: John joined DAI from Relief International, where he was Senior Vice President

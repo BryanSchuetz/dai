@@ -2,7 +2,7 @@
 title: Adam Pierzchala
 group: Business Development
 parent: who-we-are
-photo: "/assets/images/contacts/adam-pierzchala.jpg"
+image: "/assets/images/contacts/adam-pierzchala.jpg"
 job-title: Business Development, Framework Operations
 email: adam_pierzchala@dai.com
 summary: Adam leads our business in European Commission Framework Contracts. A strong
@@ -17,4 +17,3 @@ summary: Adam leads our business in European Commission Framework Contracts. A s
   South Africa, Thailand, the United States, and throughout Western and Central Europe.
 sort-order: 3
 ---
-

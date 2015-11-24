@@ -2,7 +2,7 @@
 title: Cathy Shaw
 parent: who-we-are
 group: Programme Management
-photo: "/assets/images/contacts/cathy-shaw.jpg"
+image: "/assets/images/contacts/cathy-shaw.jpg"
 job-title: Project Management
 email: cathy_shaw@dai.com
 summary: Cathy has been with the company since 2001 and in that time has worked as

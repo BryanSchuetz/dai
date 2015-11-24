@@ -2,7 +2,7 @@
 title: Keith Smith
 parent: who-we-are
 group: Programme Management
-photo: "/assets/images/contacts/keith-smith.jpg"
+image: "/assets/images/contacts/keith-smith.jpg"
 job-title: Deputy Director, Project Management
 email: keith_smith@dai.com
 summary: Keith is an experienced development professional who has worked over the

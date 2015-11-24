@@ -2,7 +2,7 @@
 title: Christopher Lockett
 parent: who-we-are
 group: Management
-photo: "/assets/images/contacts/christopher-lockett.jpg"
+image: "/assets/images/contacts/christopher-lockett.jpg"
 job-title: Senior Vice President, DAI
 email: christopher_lockett@dai.com
 summary: Christopher serves as Managing Director for DAI Europe, responsible for all

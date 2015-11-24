@@ -2,7 +2,7 @@
 title: Sani Daher
 parent: who-we-are
 group: Business Management
-photo: "/assets/images/contacts/sani-daher.jpg"
+image: "/assets/images/contacts/sani-daher.jpg"
 job-title: Regional Managing Director, Global, LAC, Europe
 email: sani_daher@dai.com
 summary: Sani leads delivery of DAI’s global projects, as well as those located in

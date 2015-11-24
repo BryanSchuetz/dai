@@ -2,7 +2,7 @@
 title: Lisa ruch
 parent: who-we-are
 group: Business Management
-photo: "/assets/images/contacts/lisa-ruch.jpg"
+image: "/assets/images/contacts/lisa-ruch.jpg"
 job-title: Director, Business Development, Global
 email: lisa_ruch@dai.com
 summary: Lisa Ruch has 13 years of experience developing proposals for U.S. Agency

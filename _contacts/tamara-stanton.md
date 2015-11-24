@@ -2,7 +2,7 @@
 title: Tamara Stanton
 parent: who-we-are
 group: Business Management
-photo: "/assets/images/contacts/tamara-stanton.jpg"
+image: "/assets/images/contacts/tamara-stanton.jpg"
 job-title: Director, Business Development, Africa
 email: tamara_stanton@dai.com
 summary: Tamara heads the company’s business development efforts in Africa. With more

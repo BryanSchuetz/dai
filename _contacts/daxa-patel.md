@@ -2,7 +2,7 @@
 title: Daxa Patel
 parent: who-we-are
 group: Programme Management
-photo: "/assets/images/contacts/daxa-patel.jpg"
+image: "/assets/images/contacts/daxa-patel.jpg"
 job-title: 'Project Management, Delivery Process '
 email: daxa_patel@dai.com
 summary: Daxa is a Principal Consultant in our Project Management Unit. She has 15

@@ -2,7 +2,7 @@
 title: Katja Silva-Leander
 parent: who-we-are
 group: Portfolio Coordinators
-photo: "/assets/images/contacts/katja-silva-leander.jpg"
+image: "/assets/images/contacts/katja-silva-leander.jpg"
 job-title: Knowledge Management, Private Sector Development
 email: katja_silva-leander@dai.com
 summary: Katja is responsible for building DAI’s private sector development practice

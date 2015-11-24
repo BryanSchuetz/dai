@@ -24,7 +24,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
-    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
   </div>
   <div class="contact-summary">
     <p>{{ contact.summary }}</p>
@@ -41,7 +41,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
-    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
   </div>
   <div class="contact-summary">
     <p>{{ contact.summary }}</p>
@@ -58,7 +58,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
-    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
   </div>
   <div class="contact-summary">
     <p>{{ contact.summary }}</p>
@@ -75,7 +75,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 <div class="contact">
   <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
-    <img src="{{ contact.photo }}" alt="{{ contact.title }}" />
+    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
   </div>
   <div class="contact-summary">
     <p>{{ contact.summary }}</p>

@@ -2,7 +2,7 @@
 title: Chris Fittus
 group: Management
 parent: who-we-are
-photo: "/assets/images/contacts/chris-fittus.jpg"
+image: "/assets/images/contacts/chris-fittus.jpg"
 job-title: Director of Human Resources
 email: chris_fittus@dai.com
 summary: Chris oversees the human resources function for DAI’s U.K. operation, ensuring
