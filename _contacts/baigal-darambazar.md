@@ -1,5 +1,6 @@
 ---
 title: Baigal Darambazar
+group: Business Management
 parent: who-we-are
 photo: "/assets/images/contacts/baigal-darambazar.jpg"
 job-title: Senior Director, Contracts and Procurement
@@ -15,4 +16,3 @@ summary: Baigal leads the Contracts and Procurement office, which provides suppo
   Technical University in Russia.
 sort-order: 4
 ---
-

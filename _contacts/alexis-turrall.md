@@ -1,5 +1,6 @@
 ---
 title: Alexis Turrall
+group: Business Development
 parent: who-we-are
 photo: "/assets/images/contacts/alexis-turrall.jpg"
 job-title: Lead Development
@@ -16,4 +17,3 @@ summary: Alexis is a Project Director in our proposal development unit. He has w
   and East Asia, and Eastern Europe.
 sort-order: 4
 ---
-

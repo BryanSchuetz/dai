@@ -1,5 +1,6 @@
 ---
 title: Bruce Spake
+group: Business Management
 parent: who-we-are
 photo: "/assets/images/contacts/bruce-spake.jpg"
 job-title: Regional Managing Director, MENA/Afghanistan
@@ -11,4 +12,3 @@ summary: Bruce leads the company’s development initiatives in the Middle East,
   and in Democratic Governance. Bruce speaks fluent French, Swahili, and Lingala.
 sort-order: 8
 ---
-
