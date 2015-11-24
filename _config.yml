@@ -30,10 +30,10 @@ defaults:
     path: ''
     type: leaders
   values:
-    listing_image: 400x225
-    job-title: 
-    summary: 
-    sort-order: 
+    listing-image: 400x225
+    job-title:
+    summary:
+    sort-order:
     parent: who-we-are
     layout: leaders
 - scope:
@@ -41,30 +41,30 @@ defaults:
     type: contacts
   values:
     image: 136x136
-    job-title: 
-    email: 
-    summary: 
-    group: 
+    job-title:
+    email:
+    summary:
+    group:
     parent: who-we-are
 - scope:
     path: ''
     type: experts
   values:
     layout: expert
-    job-title: 
+    job-title:
     image: 235x235
-    summary: 
+    summary:
     solutions:
-    - 
-    - 
+    -
+    -
     sub-solutions:
-    - 
+    -
     regions:
-    - 
-    - 
+    -
+    -
     articles:
-    - name: 
-      article_file: 
+    - name:
+      article_file:
     parent: who-we-are
 markdown: redcarpet
 highlighter: pygments
