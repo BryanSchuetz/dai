@@ -8,6 +8,7 @@ summary: Christopher leads DAI’s operations in Europe and oversees our work fo
 job-title: Senior Vice President and Managing Director, DAI Europe
 sort-order: 3
 ---
+
 Christopher Lockett is an accomplished executive who has led projects and teams in both the public and private sectors, focusing for the past decade on donor-funded international development initiatives.
 
 ![{{ page.title }}]({{ page.image }})

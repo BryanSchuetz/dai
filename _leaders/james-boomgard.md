@@ -8,6 +8,7 @@ summary: Jim has worked at the forefront of economic development issues for more
 job-title: President and Chief Executive Officer
 sort-order: 0
 ---
+
 Jim Boomgard has worked at the forefront of economic development issues for more than 30 years in more than 30 countries. For the past 26 years he has worked for DAI—with the exception of a two-year stint with FMC Corporation, where he was seconded to establish a large-scale farming operation in Eastern Indonesia.
 
 ![{{ page.title }}]({{ page.image }})

@@ -8,6 +8,7 @@ summary: Zan leads the development, marketing, and delivery of DAI’s technical
 job-title: Senior Vice President, U.S. Government Business Unit
 sort-order: 4
 ---
+
 Growing up in Alaska, Zan Northrip was fascinated by global events and knew he wanted to work in developing countries. “It's why I took foreign languages at a young age,” he said, “though back then I did not know anything about ‘development.’” Zan’s first job out of college was for the United Nations Development Programme in Botswana. He then hit the road for Ernst & Young in Central Asia, working on privatization and financial sector projects and utilizing his Russian language skills. In 1995, Zan was hired by a company with which he was familiar. “I had read papers in grad school written by people at DAI, on value chains and development as a process, and it had stuck with me,” he said.
 
 ![{{ page.title }}]({{ page.image }})
