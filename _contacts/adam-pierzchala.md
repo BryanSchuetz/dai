@@ -17,3 +17,4 @@ summary: Adam leads our business in European Commission Framework Contracts. A s
   South Africa, Thailand, the United States, and throughout Western and Central Europe.
 sort-order: 3
 ---
+

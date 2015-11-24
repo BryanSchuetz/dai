@@ -12,3 +12,4 @@ summary: Bruce leads the company’s development initiatives in the Middle East,
   and in Democratic Governance. Bruce speaks fluent French, Swahili, and Lingala.
 sort-order: 8
 ---
+
