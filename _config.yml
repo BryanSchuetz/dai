@@ -37,6 +37,7 @@ defaults:
     date:
     categories:
     layout: post
+    foo: bar
 - scope:
     path: ''
     type: members
