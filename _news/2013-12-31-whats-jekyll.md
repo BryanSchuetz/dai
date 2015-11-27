@@ -2,7 +2,7 @@
 title: What's This All About then?
 date: 2013-12-31 00:00:00 Z
 categories:
-- news
+- Project News
 layout: post
 ---
 

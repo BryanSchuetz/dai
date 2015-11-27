@@ -7,12 +7,4 @@ title: Home
 {% include _home/our-work.html %}
 {% include _home/stories.html %}
 {% include _home/news.html %}
-<ul>
-  <p>foobar</p>
-  {% for article in site.news %}
-    <li>
-      <a href="{{ article.url }}">{{ article.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 {% include _home/working.html %}
