@@ -1,8 +1,8 @@
 ---
 title: Marcia Sharp
 parent: who-we-are
-layout: node
-thumbnail: "/assets/images/leaders/thumbnails/marcia-sharp.jpg"
+layout: leaders
+image: "/assets/images/leaders/thumbnails/marcia-sharp.jpg"
 summary: Marcia is the principal of Millennium Communications Group, a strategic communications
   practice serving the nonprofit and philanthropic sectors.
 sort-order: 8

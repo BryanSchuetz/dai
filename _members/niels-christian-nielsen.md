@@ -1,8 +1,8 @@
 ---
 title: Niels Christian Nielsen
 parent: who-we-are
-layout: node
-thumbnail: "/assets/images/leaders/thumbnails/niels-christian-nielsen.jpg"
+layout: leaders
+image: "/assets/images/leaders/thumbnails/niels-christian-nielsen.jpg"
 summary: Niels is and has been a board director for more than 25 companies (nine as
   chairman) including Codan, Unimerco, JyllandsPosten, Prophet, Savivo, 2M Invest,
   Tooling Invest, and Quantumwise. Throughout his career he has been part of around

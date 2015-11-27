@@ -10,7 +10,7 @@ Our Board—comprising internal and external directors—ensures that DAI is ser
 {% assign members = site.members | sort: 'sort-order' %}
 {% for member in members %}
   <div class="people-block">
-    <img src="{{member.thumbnail}}" alt="" class="people-photo">
+    <img src="{{member.image}}" alt="" class="people-photo">
     <div class="people-details">
       <h3>{{ member.title }}</h3>
     </div>

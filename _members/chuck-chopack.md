@@ -1,8 +1,8 @@
 ---
 title: Chuck Chopak
 parent: who-we-are
-layout: node
-thumbnail: "/assets/images/leaders/thumbnails/chuck-chopak.jpg"
+layout: leaders
+image: "/assets/images/leaders/thumbnails/chuck-chopak.jpg"
 summary: As DAI's Vice President for Technical Services, Chuck leads a team that provides
   technical expertise to DAI projects across all of the company's technical sectors.
 sort-order: 1

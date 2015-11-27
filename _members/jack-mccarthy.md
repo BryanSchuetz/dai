@@ -1,8 +1,8 @@
 ---
 title: Jack McCarthy
 parent: who-we-are
-layout: node
-thumbnail: "/assets/images/leaders/thumbnails/jack-mccarthy.jpg"
+layout: leaders
+image: "/assets/images/leaders/thumbnails/jack-mccarthy.jpg"
 summary: Jack McCarthy has 20 years of international experience in the research, design,
   implementation, management, and evaluation of international development programs,
   especially those involving crisis prevention, mitigation, and responses.

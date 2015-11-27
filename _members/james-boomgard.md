@@ -1,8 +1,8 @@
 ---
 title: James Boomgard
 parent: who-we-are
-layout: node
-thumbnail: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
+layout: leaders
+image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
 summary: Jim has worked at the forefront of economic development issues for more than
   30 years in more than 30 countries.
 sort-order: 0
