@@ -35,9 +35,9 @@ defaults:
     type: news
   values:
     date:
-    categories:
-    - news
-    - projects
+    topics:
+    - DAI
+    -
     layout: post
     foo: bar
 - scope:
