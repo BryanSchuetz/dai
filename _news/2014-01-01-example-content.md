@@ -1,6 +1,6 @@
 ---
 title: Example content
-date: 2014-01-01 00:00:00 Z
+date: 2014-01-01
 categories:
 - press-release
 layout: post

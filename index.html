@@ -9,9 +9,9 @@ title: Home
 {% include _home/news.html %}
 <ul>
   <p>foobar</p>
-  {% for post in site.posts %}
+  {% for article in site.news %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ article.url }}">{{ article.title }}</a>
     </li>
   {% endfor %}
 </ul>

@@ -3,7 +3,7 @@ title: DAI
 url: http://dai.com
 timezone: UTC
 collections:
-  posts:
+  news:
     title: News
     output: true
   contacts:
