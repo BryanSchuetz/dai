@@ -1,7 +1,7 @@
 <div class="projects-rail">
 {% for project in site.projects %}
   <div class="project-block">
-    <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+    <h3>{{ project.title }}</h3>
     <p>{{ project.summary }}</p>
   </div>
   <a href="{{ project.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

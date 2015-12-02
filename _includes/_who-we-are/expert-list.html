@@ -4,7 +4,7 @@
   <div class="people-block">
     <a href="{{ expert.url }}"><img src="{{ expert.image }}" alt="" class="expert-details--photo"></a>
     <div class="expert-details--metadata">
-      <h3><a href="{{ expert.url }}">{{ expert.title }}</a></h3>
+      <h3>{{ expert.title }}</h3>
           <ul class="expert-details--list">
             {% for expertise in expert.solutions limit:2 %}
             <li>
