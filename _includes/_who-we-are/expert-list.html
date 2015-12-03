@@ -1,36 +1,36 @@
 {% include _who-we-are/experts-filter.html %}
-<div class="experts-rail">
+<div class="experts-rail grid">
 {% for expert in site.experts %}
-  <div class="people-block">
+  <div class="people-block grid-item {% for expertise in expert.solutions %}{{ expertise | downcase | split:" " | join:"-" }}{% endfor %}">
     <a href="{{ expert.url }}"><img src="{{ expert.image }}" alt="" class="expert-details--photo"></a>
     <div class="expert-details--metadata">
       <h3>{{ expert.title }}</h3>
-          <ul class="expert-details--list">
-            {% for expertise in expert.solutions limit:2 %}
+        <ul class="expert-details--list">
+          {% for expertise in expert.solutions limit:2 %}
+          <li>
+            {% for solution in site.data.solutions %}
+              {% if expertise == solution.text %}
+                <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
+              {% endif %}
+            {% endfor %}
+            </li>
+          {% endfor %}
+          {% for locale in expert.regions limit:2 %}
             <li>
-              {% for solution in site.data.solutions %}
-                {% if expertise == solution.text %}
-                  <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
+              {% for region in site.data.regions %}
+                {% if locale == region.text %}
+                <a class="expert-region" href="{{ region.path }}">{{ region.icon }} {{ region.text }}</a>
                 {% endif %}
               {% endfor %}
-              </li>
-            {% endfor %}
-            {% for locale in expert.regions limit:2 %}
-              <li>
-                {% for region in site.data.regions %}
-                  {% if locale == region.text %}
-                  <a class="expert-region" href="{{ region.path }}">{{ region.icon }} {{ region.text }}</a>
-                  {% endif %}
-                {% endfor %}
-              </li>
-            {% endfor %}
-          </ul>
-    </div>
-    <div class="expert-summary">
-      <p class="expert-details--title">{{ expert.job-title }}</p>
-      <p>{{ expert.summary }}</p>
-    </div>
-    <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="expert-summary">
+        <p class="expert-details--title">{{ expert.job-title }}</p>
+        <p>{{ expert.summary }}</p>
+      </div>
+      <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
   <hr>
 {% endfor %}

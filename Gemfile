@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'octopress-paginate'
 gem 'github-pages'
 gem 'rouge'
 gem 'jekyll-assets'
