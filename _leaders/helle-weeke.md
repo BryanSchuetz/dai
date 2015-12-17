@@ -1,5 +1,5 @@
 ---
-title: Helle weeke
+title: Helle Weeke
 parent: who-we-are
 layout: leaders
 image: "/assets/images/leaders/thumbnails/helle-weeke.jpg"
