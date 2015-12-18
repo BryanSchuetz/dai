@@ -39,6 +39,10 @@
   padding-top: 10px;
   padding-bottom: 20px;
 }
+.flickity-prev-next-button .arrow {
+  fill: $button-green;
+}
+
 // 🎌 GLOBAL 🎌
 
 .container, .header-inner, .footer-inner{
