@@ -1,4 +1,18 @@
-
+// 🎌 HEROBOX 🎌
+.gallery-cell .gallery-cell--text{
+  padding: 1rem 1rem 3rem 1rem;
+  text-align: center;
+  h2{
+    font-size: 3rem;
+    color: $text-white;
+    margin-bottom: 0;
+    font-weight: 300;
+  }
+  p{
+    color: $text-white;
+    -webkit-transform: translate3d(0, 0, 0);
+  }
+}
 // 🎌 GLOBAL 🎌
 
 html {

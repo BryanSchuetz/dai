@@ -6,3 +6,4 @@
 {% include _jsmods/waypoints.js %}
 {% include _jsmods/modernizer.js %}
 {% include _jsmods/isotope.js %}
+{% include _jsmods/flickity.js %}
