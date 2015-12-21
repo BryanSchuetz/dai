@@ -2,11 +2,11 @@
 // 🎌 HEROBOX 🎌
 .gallery {
   background: #fff;
+  margin-top: 5.5rem;
 }
 
 .gallery-cell {
   width: 100%;
-  height: 200px;
   margin-right: 10px;
   background: #8C8;
 }
@@ -22,7 +22,7 @@
 }*/
 /* gallery height */
 .gallery {
-  height: 460px;
+  height: 30rem;
 }
 
 /* cell inherit height from gallery */
@@ -36,7 +36,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ba000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
   position: relative;
   top: -10px;
-  padding-top: 10px;
+  margin-top: 10px;
   padding-bottom: 20px;
 }
 .flickity-prev-next-button .arrow {
