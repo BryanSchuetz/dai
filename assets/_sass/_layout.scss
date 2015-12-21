@@ -2,7 +2,7 @@
 // 🎌 HEROBOX 🎌
 .gallery {
   background: #fff;
-  margin-top: 5.5rem;
+  padding-top: 7rem;
 }
 
 .gallery-cell {
@@ -22,7 +22,7 @@
 }*/
 /* gallery height */
 .gallery {
-  height: 30rem;
+  height: 35rem;
 }
 
 /* cell inherit height from gallery */
@@ -42,7 +42,12 @@
 .flickity-prev-next-button .arrow {
   fill: $button-green;
 }
-
+.container.content.home{
+  padding-top: 4rem;
+}
+.flickity-prev-next-button{
+  top: 55%;
+}
 // 🎌 GLOBAL 🎌
 
 .container, .header-inner, .footer-inner{

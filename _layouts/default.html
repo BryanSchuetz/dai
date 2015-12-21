@@ -6,9 +6,6 @@
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}
-      <div class="holder">
-        .
-      </div>
         <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": true, "setGallerySize": false }'>
           <a class="gallery-cell" style="background: url(/uploads/cambodia.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"  href="">
             <div class="shader">
@@ -36,7 +33,7 @@
             </a>
         </div>
       {% endif %}
-      <div class="container content">
+      <div class="container content {% if page.title == 'Home' %} home {% endif %}">
         {{ content }}
       </div>
       {% include footer.html %}
