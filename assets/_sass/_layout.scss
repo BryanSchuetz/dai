@@ -29,6 +29,10 @@
 .gallery-cell {
   height: 100%;
 }
+.gallery-cell--text{
+  text-align: center;
+  padding: 2rem 1rem 3rem 1rem;
+}
 .shader{
   background: -moz-linear-gradient(top, rgba(0,0,0,0.73) 0%, rgba(0,0,0,0.73) 10%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, rgba(0,0,0,0.73) 0%,rgba(0,0,0,0.73) 10%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -46,7 +50,7 @@
   padding-top: 4rem;
 }
 .flickity-prev-next-button{
-  top: 55%;
+  top: 60%;
 }
 // 🎌 GLOBAL 🎌
 
