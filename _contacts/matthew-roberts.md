@@ -1,6 +1,6 @@
 ---
 title: Matthew Roberts
-parent: who-we-are
+
 group: Programme Management
 image: "/assets/images/contacts/matthew-roberts.jpg"
 job-title: Project Management

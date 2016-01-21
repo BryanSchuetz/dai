@@ -1,6 +1,6 @@
 ---
 title: Christopher Lockett
-parent: who-we-are
+
 group: Management
 image: "/assets/images/contacts/christopher-lockett.jpg"
 job-title: Senior Vice President, DAI

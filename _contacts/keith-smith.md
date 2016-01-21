@@ -1,6 +1,6 @@
 ---
 title: Keith Smith
-parent: who-we-are
+
 group: Programme Management
 image: "/assets/images/contacts/keith-smith.jpg"
 job-title: Deputy Director, Project Management

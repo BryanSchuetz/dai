@@ -1,6 +1,6 @@
 ---
 title: Ruth Sparrey
-parent: who-we-are
+
 group: Portfolio Coordinators
 image: "/assets/images/contacts/ruth-sparrey.jpg"
 job-title: Project Management and Livelihoods

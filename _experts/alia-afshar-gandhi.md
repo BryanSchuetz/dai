@@ -1,6 +1,6 @@
 ---
 title: Alia Afshar-Gandhi
-parent: who-we-are
+
 regions:
 - Asia and the Pacific
 - Middle East and North Africa

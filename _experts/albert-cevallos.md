@@ -1,6 +1,6 @@
 ---
 title: Albert Cevallos
-parent: who-we-are
+
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa

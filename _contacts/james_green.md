@@ -1,6 +1,6 @@
 ---
 title: James Green
-parent: who-we-are
+
 group: Management
 image: "/assets/images/contacts/james-green.jpg"
 job-title: Project Management Advisor

@@ -1,6 +1,6 @@
 ---
 title: Agnes Luz
-parent: who-we-are
+
 regions:
 - Sub-Saharan Africa
 solutions:

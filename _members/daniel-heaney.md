@@ -1,6 +1,6 @@
 ---
 title: Daniel Heaney
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/daniel-heaney.jpg"
 summary: Dan is a financial professional with more than 20 years of experience in

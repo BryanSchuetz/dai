@@ -1,7 +1,7 @@
 ---
 title: Alexis Turrall
 group: Business Development
-parent: who-we-are
+
 image: "/assets/images/contacts/alexis-turrall.jpg"
 job-title: Lead Development
 email: alexis_turrall@dai.com

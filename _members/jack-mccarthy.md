@@ -1,6 +1,6 @@
 ---
 title: Jack McCarthy
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/jack-mccarthy.jpg"
 summary: Jack McCarthy has 20 years of international experience in the research, design,

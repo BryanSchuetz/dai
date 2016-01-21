@@ -1,6 +1,6 @@
 ---
 title: Donald Lunan
-parent: who-we-are
+
 group: Portfolio Coordinators
 image: "/assets/images/contacts/donald-lunan.jpg"
 job-title: Knowledge Management, Energy and Environment

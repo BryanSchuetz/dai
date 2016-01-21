@@ -1,7 +1,7 @@
 ---
 title: Bruce Spake
 group: Business Management
-parent: who-we-are
+
 image: "/assets/images/contacts/bruce-spake.jpg"
 job-title: Regional Managing Director, MENA/Afghanistan
 email: bruce_spake@dai.com

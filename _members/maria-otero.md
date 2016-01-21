@@ -1,6 +1,6 @@
 ---
 title: Maria Otero
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/maria-otero.jpg"
 summary: Maria joined the board from the U.S. Department of State, where from 2009

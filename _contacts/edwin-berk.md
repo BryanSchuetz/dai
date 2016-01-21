@@ -1,6 +1,6 @@
 ---
 title: Edwin Berk
-parent: who-we-are
+
 group: Business Management
 image: "/assets/images/contacts/edwin-berk.jpg"
 job-title: Director, Business Development, Middle East, North Africa, and Afghanistan

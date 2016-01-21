@@ -1,6 +1,6 @@
 ---
 title: Bill Grant
-parent: who-we-are
+
 group: Portfolio Coordinators
 image: "/assets/images/contacts/bill-grant.jpg"
 job-title: Project Management, Making Markets Work for the Poor (M4P)

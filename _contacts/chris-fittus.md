@@ -1,7 +1,7 @@
 ---
 title: Chris Fittus
 group: Management
-parent: who-we-are
+
 image: "/assets/images/contacts/chris-fittus.jpg"
 job-title: Director of Human Resources
 email: chris_fittus@dai.com

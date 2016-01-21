@@ -1,6 +1,6 @@
 ---
 title: Lisa ruch
-parent: who-we-are
+
 group: Business Management
 image: "/assets/images/contacts/lisa-ruch.jpg"
 job-title: Director, Business Development, Global

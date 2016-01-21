@@ -1,6 +1,6 @@
 ---
 title: Gary Barker
-parent: who-we-are
+
 group: Management
 image: "/assets/images/contacts/gary-barker.jpg"
 job-title: Director, Risk and Business Systems

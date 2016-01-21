@@ -1,6 +1,6 @@
 ---
 title: Anne-Sofia Holmberg
-parent: who-we-are
+
 group: Programme Management
 image: "/assets/images/contacts/anne-sofia-holmberg.jpg"
 job-title: Project Management, Frameworks Operations

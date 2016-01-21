@@ -1,6 +1,6 @@
 ---
 title: Christopher Lockett
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/christopher-lockett.jpg"
 summary: Christopher leads DAI’s operations in Europe and oversees our work for clients

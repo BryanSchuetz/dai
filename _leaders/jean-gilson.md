@@ -1,6 +1,6 @@
 ---
 title: Jean Gilson
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 summary: Jean leads the firm’s work on strategy, market analysis, external relations,

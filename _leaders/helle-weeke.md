@@ -1,6 +1,6 @@
 ---
 title: Helle Weeke
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/helle-weeke.jpg"
 summary: Helle is DAI’s principal legal advisor, responsible for managing all of the

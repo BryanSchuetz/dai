@@ -1,7 +1,7 @@
 ---
 title: Mission & Values
 layout: node
-parent: who-we-are
+
 ---
 
 DAI’s mission is to make a lasting difference in the world by helping people improve their lives. We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable.

@@ -1,6 +1,6 @@
 ---
 title: Corin Armstrong
-parent: who-we-are
+
 group: Business Development
 image: "/assets/images/contacts/corin-armstrong.jpg"
 job-title: Lead Development

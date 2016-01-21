@@ -1,4 +1,4 @@
-{% if page.parent == "working-dai" %}
+{% if page.url contains "working-dai" %}
   <div class="node-nav working-dai">
     <div class="node-nav--links">
       <h4>Working with DAI</h4>
@@ -10,7 +10,7 @@
     </div>
   </div>
 {% endif %}
-{% if page.parent == "who-we-are" %}
+{% if page.url contains "who-we-are" %}
   <div class="node-nav who-we-are">
     <div class="node-nav--links">
       <h4>Who We Are</h4>
@@ -22,7 +22,7 @@
     </div>
   </div>
 {% endif %}
-{% if page.parent == "our-work" %}
+{% if page.url contains "our-work" %}
   <div class="node-nav our-work">
     <div class="node-nav--links">
       <h4>Our Work</h4>

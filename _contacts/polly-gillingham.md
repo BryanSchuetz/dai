@@ -1,6 +1,6 @@
 ---
 title: Polly Gillingham
-parent: who-we-are
+
 group: Business Development
 image: "/assets/images/contacts/polly-gillingham.jpg"
 job-title: Business Development, DFID

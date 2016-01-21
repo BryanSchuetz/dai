@@ -1,6 +1,6 @@
 ---
 title: Marika Kanatova
-parent: who-we-are
+
 group: Business Development
 image: "/assets/images/contacts/marika-kanatova.jpg"
 job-title: Business Development, Frameworks New Business, Other Donors

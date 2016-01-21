@@ -1,6 +1,6 @@
 ---
 title: John Leckie
-parent: who-we-are
+
 group: Portfolio Coordinators
 image: "/assets/images/contacts/john-leckie.jpg"
 job-title: Knowledge Management - Land

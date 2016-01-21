@@ -1,6 +1,6 @@
 ---
 title: Michael Jakobowski
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/michael-jakobowski.jpg"
 summary: Michael has more than 20 years of management and consulting experience, including

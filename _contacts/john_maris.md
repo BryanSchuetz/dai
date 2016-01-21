@@ -1,6 +1,6 @@
 ---
 title: John Maris
-parent: who-we-are
+
 group: Management
 image: "/assets/images/contacts/john-maris.jpg"
 job-title: Director of Operations

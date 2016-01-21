@@ -1,6 +1,6 @@
 ---
 title: Laura Viehmyer
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/laura-viehmyer.jpg"
 summary: Laura’s career spans 25 years in human resources management for both nonprofit

@@ -1,6 +1,6 @@
 ---
 title: Alexander Kitain
-parent: who-we-are
+
 regions:
 - Asia and the Pacific
 solutions:

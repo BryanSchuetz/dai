@@ -1,6 +1,6 @@
 ---
 title: Tamara Stanton
-parent: who-we-are
+
 group: Business Management
 image: "/assets/images/contacts/tamara-stanton.jpg"
 job-title: Director, Business Development, Africa

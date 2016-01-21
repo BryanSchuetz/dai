@@ -1,6 +1,6 @@
 ---
 title: Chrys Miliaras
-parent: who-we-are
+
 group: Business Management
 image: "/assets/images/contacts/chrys-miliaras.jpg"
 job-title: Director, Business Development, Asia

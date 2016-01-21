@@ -1,6 +1,6 @@
 ---
 title: Nate Bourns
-parent: who-we-are
+
 group: Management
 image: "/assets/images/contacts/nate-bourns.jpg"
 job-title: Director, Client Delivery and Business Support

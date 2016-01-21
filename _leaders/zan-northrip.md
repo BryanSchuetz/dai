@@ -1,6 +1,6 @@
 ---
 title: Zan Northrip
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/zan-northrip.jpg"
 summary: Zan leads the development, marketing, and delivery of DAI’s technical solutions

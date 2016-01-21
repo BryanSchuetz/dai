@@ -1,6 +1,6 @@
 ---
 title: Sarah Helmstadter
-parent: who-we-are
+
 group: Business Management
 image: "/assets/images/contacts/sarah-helmstadter.jpg"
 job-title: 'Regional Managing Director, Africa '

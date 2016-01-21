@@ -1,7 +1,7 @@
 ---
 title: Daniel Ticehurst
 group: Portfolio Coordinators
-parent: who-we-are
+
 image: "/assets/images/contacts/daniel-ticehurst.jpg"
 job-title: Knowledge Management, Monitoring and Evaluation
 email: daniel_ticehurst@dai.com

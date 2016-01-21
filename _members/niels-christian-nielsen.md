@@ -1,6 +1,6 @@
 ---
 title: Niels Christian Nielsen
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/niels-christian-nielsen.jpg"
 summary: Niels is and has been a board director for more than 25 companies (nine as

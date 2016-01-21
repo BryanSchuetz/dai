@@ -1,6 +1,6 @@
 ---
 title: Kurt Olsson
-parent: who-we-are
+
 group: Business Management
 image: "/assets/images/contacts/kurt-olsson.jpg"
 job-title: Vice President, Business Development

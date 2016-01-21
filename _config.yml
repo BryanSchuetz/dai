@@ -31,7 +31,8 @@ collections:
     permalink: "/our-work/projects/:path/"
   solutions:
     title: Solutions
-    output: false
+    output: true
+    permalink: "/our-work/solutions/:path/"
   uploads:
     title: Uploads
     output: true
@@ -40,72 +41,72 @@ defaults:
     path: ''
     type: projects
   values:
-    client: 
-    start-date: 
-    end-date: 
-    regions: 
-    country: 
-    solutions: 
+    client:
+    start-date:
+    end-date:
+    regions:
+    country:
+    solutions:
     parent: our-work
     layout: project
 - scope:
     path: ''
     type: news
   values:
-    date: 
+    date:
     topics:
-    - 
-    - 
+    -
+    -
     layout: post
 - scope:
     path: ''
     type: members
   values:
     image: 400x225
-    summary: 
-    sort-order: 
-    parent: who-we-are
+    summary:
+    sort-order:
+    
     layout: leaders
 - scope:
     path: ''
     type: leaders
   values:
     image: 400x225
-    job-title: 
-    summary: 
-    sort-order: 
-    parent: who-we-are
+    job-title:
+    summary:
+    sort-order:
+    
     layout: leaders
 - scope:
     path: ''
     type: contacts
   values:
     image: 136x136
-    job-title: 
-    email: 
-    summary: 
-    group: 
-    parent: who-we-are
+    job-title:
+    email:
+    summary:
+    group:
+    
 - scope:
     path: ''
     type: experts
   values:
     layout: expert
-    job-title: 
+    job-title:
     image: 235x235
-    summary: 
+    summary:
     solutions:
-    - 
-    - 
+    -
+    -
     sub-solutions:
-    - 
+    -
     regions:
-    - 
-    - 
+    -
+    -
     articles:
-    - name: 
-      article_file: 
-    parent: who-we-are
+    - name:
+      article_file:
+    
 gems:
 - octopress-paginate
 markdown: redcarpet

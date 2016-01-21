@@ -1,6 +1,6 @@
 ---
 title: Jenny baker
-parent: who-we-are
+
 group: Business Management
 image: "/assets/images/contacts/jenny-baker.jpg"
 job-title: Regional Managing Director, Asia

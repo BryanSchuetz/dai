@@ -1,6 +1,6 @@
 ---
 title: Daxa Patel
-parent: who-we-are
+
 group: Programme Management
 image: "/assets/images/contacts/daxa-patel.jpg"
 job-title: 'Project Management, Delivery Process '

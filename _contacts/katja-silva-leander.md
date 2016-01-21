@@ -1,6 +1,6 @@
 ---
 title: Katja Silva-Leander
-parent: who-we-are
+
 group: Portfolio Coordinators
 image: "/assets/images/contacts/katja-silva-leander.jpg"
 job-title: Knowledge Management, Private Sector Development

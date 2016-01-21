@@ -1,6 +1,6 @@
 ---
 title: Cathy Shaw
-parent: who-we-are
+
 group: Programme Management
 image: "/assets/images/contacts/cathy-shaw.jpg"
 job-title: Project Management

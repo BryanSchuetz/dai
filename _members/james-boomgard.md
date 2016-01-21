@@ -1,6 +1,6 @@
 ---
 title: James Boomgard
-parent: who-we-are
+
 layout: leaders
 image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
 summary: Jim has worked at the forefront of economic development issues for more than

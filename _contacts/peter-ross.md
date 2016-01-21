@@ -1,6 +1,6 @@
 ---
 title: Peter Ross
-parent: who-we-are
+
 group: Portfolio Coordinators
 image: "/assets/images/contacts/peter-ross.jpg"
 job-title: Project Management
