@@ -1,1 +1,7 @@
-<h1 class="solution-title">{% if page.icon %}{{ page.icon }}{% endif %} {{ page.title }}</h1>
+{% assign parent = page.url | split:"/" %}
+{% for solution in site.solutions %}
+  {% assign solution_slug = solution.title | slugify %}
+  {% if solution_slug contains parent[3] %}
+    <h1 class="solution-title">{{ solution.icon }} {{ page.title }}</h1>
+  {% endif %}
+{% endfor %}
