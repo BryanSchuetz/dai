@@ -1,6 +1,6 @@
 ---
 title: Helle Weeke
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/helle-weeke.jpg"
 summary: Helle is DAI’s principal legal advisor, responsible for managing all of the

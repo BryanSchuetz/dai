@@ -1,7 +1,6 @@
 ---
 title: 'Our Team: Environment and Energy'
 layout: node
-
 solution: Environment and Energy
 ---
 

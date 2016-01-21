@@ -1,6 +1,6 @@
 ---
 title: Jean Gilson
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 summary: Jean leads the firm’s work on strategy, market analysis, external relations,

@@ -1,6 +1,6 @@
 ---
 title: Anne-Sofia Holmberg
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Programme Management
 image: "/assets/images/contacts/anne-sofia-holmberg.jpg"
 job-title: Project Management, Frameworks Operations

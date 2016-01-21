@@ -1,6 +1,6 @@
 ---
 title: Keith Smith
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Programme Management
 image: "/assets/images/contacts/keith-smith.jpg"
 job-title: Deputy Director, Project Management

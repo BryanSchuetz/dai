@@ -1,7 +1,7 @@
 ---
 title: Daniel Ticehurst
+date: 2016-01-21 22:18:43.395000000 Z
 group: Portfolio Coordinators
-
 image: "/assets/images/contacts/daniel-ticehurst.jpg"
 job-title: Knowledge Management, Monitoring and Evaluation
 email: daniel_ticehurst@dai.com

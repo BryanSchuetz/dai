@@ -1,6 +1,6 @@
 ---
 title: Corin Armstrong
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Business Development
 image: "/assets/images/contacts/corin-armstrong.jpg"
 job-title: Lead Development

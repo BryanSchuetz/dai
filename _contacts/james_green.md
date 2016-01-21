@@ -1,6 +1,6 @@
 ---
 title: James Green
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Management
 image: "/assets/images/contacts/james-green.jpg"
 job-title: Project Management Advisor

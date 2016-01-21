@@ -1,6 +1,6 @@
 ---
 title: Niels Christian Nielsen
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/niels-christian-nielsen.jpg"
 summary: Niels is and has been a board director for more than 25 companies (nine as

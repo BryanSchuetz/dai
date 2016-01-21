@@ -1,6 +1,6 @@
 ---
 title: Maria Otero
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/maria-otero.jpg"
 summary: Maria joined the board from the U.S. Department of State, where from 2009

@@ -1,7 +1,7 @@
 ---
 title: Baigal Darambazar
+date: 2016-01-21 22:18:43.395000000 Z
 group: Business Management
-
 image: "/assets/images/contacts/baigal-darambazar.jpg"
 job-title: Senior Director, Contracts and Procurement
 email: baigal_darambazar@dai.com

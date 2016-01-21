@@ -11,6 +11,7 @@ topics:
 - Governance
 type: primary
 ---
+
 **Building effective economic and democratic governance**
 
 DAI’s Governance Sector strengthens accountability and improves government performance by providing technical advice, strategic guidance, and support to public institutions, elected bodies, and citizens. Based on a thorough understanding of the incentives, interests, and political economy inherent to policy development and implementation, we supply best-fit solutions to policy makers, citizen leaders, and elected representatives. Our approach to governance seeks to identify and foster engagement between citizens and their government, recognizing that both the supply and demand for good governance is necessary to initiate change. In doing so, we empower leaders, recognizing that locally owned solutions have the greatest potential for sustainability.

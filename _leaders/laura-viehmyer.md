@@ -1,6 +1,6 @@
 ---
 title: Laura Viehmyer
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/laura-viehmyer.jpg"
 summary: Laura’s career spans 25 years in human resources management for both nonprofit

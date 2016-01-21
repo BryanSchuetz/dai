@@ -1,6 +1,6 @@
 ---
 title: Gail Steinel
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/gail-steinel.jpg"
 summary: Gail was for more than two decades a senior executive at Arthur Andersen,

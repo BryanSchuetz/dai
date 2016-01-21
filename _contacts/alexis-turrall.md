@@ -1,7 +1,7 @@
 ---
 title: Alexis Turrall
+date: 2016-01-21 22:18:43.395000000 Z
 group: Business Development
-
 image: "/assets/images/contacts/alexis-turrall.jpg"
 job-title: Lead Development
 email: alexis_turrall@dai.com

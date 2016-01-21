@@ -1,6 +1,6 @@
 ---
 title: Zan Northrip
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/zan-northrip.jpg"
 summary: Zan leads the development, marketing, and delivery of DAI’s technical solutions

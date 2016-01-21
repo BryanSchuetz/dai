@@ -1,7 +1,7 @@
 ---
 title: Chris Fittus
+date: 2016-01-21 22:18:43.395000000 Z
 group: Management
-
 image: "/assets/images/contacts/chris-fittus.jpg"
 job-title: Director of Human Resources
 email: chris_fittus@dai.com

@@ -1,6 +1,6 @@
 ---
 title: Jack McCarthy
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/jack-mccarthy.jpg"
 summary: Jack McCarthy has 20 years of international experience in the research, design,

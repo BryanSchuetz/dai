@@ -1,6 +1,6 @@
 ---
 title: Ruth Sparrey
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Portfolio Coordinators
 image: "/assets/images/contacts/ruth-sparrey.jpg"
 job-title: Project Management and Livelihoods

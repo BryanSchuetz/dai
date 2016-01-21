@@ -1,6 +1,6 @@
 ---
 title: Marwan Juma
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/marwan-juma.jpg"
 summary: Marwan was the Jordanian Minister of Information and Communications Technology

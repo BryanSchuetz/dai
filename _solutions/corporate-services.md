@@ -10,6 +10,7 @@ topics:
 - Corporate Services
 type: primary
 ---
+
 **Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices**
 
 Our work with private sector companies and nonprofit foundations spans decades. Our corporate work goes far beyond helping to develop a corporate social responsibility (CSR) strategy, it blends our economic development capabilities with business strategies to help clients succeed in their developing world operations. We’ve worked with major companies such as Hewlett-Packard on its global citizenship program, Monsanto on its collaboration with the Filipino Ministry of Agriculture, and Unilever on its small business support program in South Africa.

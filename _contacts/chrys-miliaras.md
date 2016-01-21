@@ -1,6 +1,6 @@
 ---
 title: Chrys Miliaras
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Business Management
 image: "/assets/images/contacts/chrys-miliaras.jpg"
 job-title: Director, Business Development, Asia

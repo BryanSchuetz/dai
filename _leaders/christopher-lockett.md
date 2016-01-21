@@ -1,6 +1,6 @@
 ---
 title: Christopher Lockett
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/christopher-lockett.jpg"
 summary: Christopher leads DAI’s operations in Europe and oversees our work for clients

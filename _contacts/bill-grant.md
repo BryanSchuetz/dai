@@ -1,6 +1,6 @@
 ---
 title: Bill Grant
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Portfolio Coordinators
 image: "/assets/images/contacts/bill-grant.jpg"
 job-title: Project Management, Making Markets Work for the Poor (M4P)

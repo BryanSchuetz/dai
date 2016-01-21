@@ -1,6 +1,6 @@
 ---
 title: Gary Barker
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Management
 image: "/assets/images/contacts/gary-barker.jpg"
 job-title: Director, Risk and Business Systems

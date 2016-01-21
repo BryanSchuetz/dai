@@ -1,7 +1,6 @@
 ---
 title: 'Our Team: Economic Growth'
 layout: node
-
 solution: Economic Growth
 paginate:
   collection: experts

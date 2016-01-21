@@ -1,7 +1,6 @@
 ---
 title: Board
 layout: node
-
 ---
 
 Our Board—comprising internal and external directors—ensures that DAI is serving the interests of its employee owners and fulfilling its mission to make a difference in the world.

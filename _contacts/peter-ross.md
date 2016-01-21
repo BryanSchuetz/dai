@@ -1,6 +1,6 @@
 ---
 title: Peter Ross
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Portfolio Coordinators
 image: "/assets/images/contacts/peter-ross.jpg"
 job-title: Project Management

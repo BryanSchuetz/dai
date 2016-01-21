@@ -1,6 +1,6 @@
 ---
 title: Chuck Chopak
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/chuck-chopak.jpg"
 summary: As DAI's Vice President for Technical Services, Chuck leads a team that provides

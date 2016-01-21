@@ -1,6 +1,6 @@
 ---
 title: Christopher Lockett
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Management
 image: "/assets/images/contacts/christopher-lockett.jpg"
 job-title: Senior Vice President, DAI

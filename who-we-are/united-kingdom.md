@@ -2,7 +2,6 @@
 title: United Kingdom
 permalink: "/who-we-are/global-reach/united-kingdom/"
 layout: node
-
 ---
 
 Our U.K.-based team delivers results for bilateral and multilateral donors, governments and private sector clients worldwide, often in difficult environments racked by insecurity and conflict. We work hand in hand with our counterparts in government and the private sector to identify where international best practices can be usefully applied and best tailored to the local context.

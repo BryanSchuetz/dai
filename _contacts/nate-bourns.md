@@ -1,6 +1,6 @@
 ---
 title: Nate Bourns
-
+date: 2016-01-21 22:18:43.395000000 Z
 group: Management
 image: "/assets/images/contacts/nate-bourns.jpg"
 job-title: Director, Client Delivery and Business Support

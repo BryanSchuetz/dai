@@ -1,6 +1,6 @@
 ---
 title: James Boomgard
-
+date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
 summary: Jim has worked at the forefront of economic development issues for more than
