@@ -3,9 +3,6 @@ title: DAI
 url: http://dai.com
 timezone: UTC
 collections:
-  solutions:
-    title: Solutions
-    output: false
   contacts:
     title: Contacts
     output: false
@@ -25,10 +22,16 @@ collections:
     title: News
     output: true
     permalink: "/news-publications/news/:path/"
+  posts:
+    title: Posts
+    output: true
   projects:
     title: Projects
     output: true
     permalink: "/our-work/projects/:path/"
+  solutions:
+    title: Solutions
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -37,32 +40,32 @@ defaults:
     path: ''
     type: projects
   values:
-    client:
-    start-date:
-    end-date:
-    regions:
-    country:
+    client: 
+    start-date: 
+    end-date: 
+    regions: 
+    country: 
     solutions:
-    -
-    -
+    - 
+    - 
     parent: our-work
     layout: project
 - scope:
     path: ''
     type: news
   values:
-    date:
+    date: 
     topics:
-    -
-    -
+    - 
+    - 
     layout: post
 - scope:
     path: ''
     type: members
   values:
     image: 400x225
-    summary:
-    sort-order:
+    summary: 
+    sort-order: 
     parent: who-we-are
     layout: leaders
 - scope:
@@ -70,9 +73,9 @@ defaults:
     type: leaders
   values:
     image: 400x225
-    job-title:
-    summary:
-    sort-order:
+    job-title: 
+    summary: 
+    sort-order: 
     parent: who-we-are
     layout: leaders
 - scope:
@@ -80,30 +83,30 @@ defaults:
     type: contacts
   values:
     image: 136x136
-    job-title:
-    email:
-    summary:
-    group:
+    job-title: 
+    email: 
+    summary: 
+    group: 
     parent: who-we-are
 - scope:
     path: ''
     type: experts
   values:
     layout: expert
-    job-title:
+    job-title: 
     image: 235x235
-    summary:
+    summary: 
     solutions:
-    -
-    -
+    - 
+    - 
     sub-solutions:
-    -
+    - 
     regions:
-    -
-    -
+    - 
+    - 
     articles:
-    - name:
-      article_file:
+    - name: 
+      article_file: 
     parent: who-we-are
 gems:
 - octopress-paginate
