@@ -1,7 +1,7 @@
 ---
 title: Sub-Saharan Africa
 layout: node
-parent: our-work
+
 categories:
 - Sub-Saharan Africa
 ---

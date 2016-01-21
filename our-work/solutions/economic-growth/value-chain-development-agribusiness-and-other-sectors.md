@@ -2,7 +2,7 @@
 title: Value Chain Development for Agribusiness and Other Sectors
 permalink: "/our-work/solutions/value-chain-development-agribusiness-and-other-sectors/"
 layout: solution
-parent: our-work
+
 categories:
 - Economic Growth
 - Value Chain Development

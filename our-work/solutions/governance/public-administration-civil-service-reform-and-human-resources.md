@@ -2,7 +2,7 @@
 title: Public Administration, Civil Service Reform, and Human Resources Management
 permalink: "/our-work/solutions/public-administration-civil-service-reform-and-human-resources/"
 layout: solution
-parent: our-work
+
 categories:
 - governance
 - Public Administration, Civil Service Reform, and Human Resources Management

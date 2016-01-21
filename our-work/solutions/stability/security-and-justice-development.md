@@ -2,7 +2,7 @@
 title: Security and Justice Development
 permalink: "/our-work/solutions/security-and-justice-development/"
 layout: solution
-parent: our-work
+
 categories:
 - Stability
 - Security and Justice Development

@@ -1,7 +1,7 @@
 ---
 title: Middle East and North Africa
 layout: node
-parent: our-work
+
 categories:
 - Middle East and North Africa
 ---

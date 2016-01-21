@@ -2,7 +2,7 @@
 title: Gender
 permalink: "/our-work/solutions/gender/"
 layout: solution
-parent: our-work
+
 categories:
 - Economic Growth
 - Gender`

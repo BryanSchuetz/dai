@@ -2,7 +2,7 @@
 title: Innovation and Entrepreneurship
 permalink: "/our-work/solutions/innovation-and-entrepreneurship/"
 layout: solution
-parent: our-work
+
 categories:
 - Economic Growth
 - Economic Growth

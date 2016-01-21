@@ -2,7 +2,7 @@
 title: Agriculture and Food Security
 permalink: "/our-work/solutions/agriculture-and-food-security/"
 layout: solution
-parent: our-work
+
 categories:
 - Economic Growth
 - Agriculture and Food Security

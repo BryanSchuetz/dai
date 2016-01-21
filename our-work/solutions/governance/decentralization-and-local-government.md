@@ -2,7 +2,7 @@
 title: Decentralization and Local Government Management
 permalink: "/our-work/solutions/decentralization-and-local-government/"
 layout: solution
-parent: our-work
+
 categories:
 - Governance
 - Decentralization and Local Government Management

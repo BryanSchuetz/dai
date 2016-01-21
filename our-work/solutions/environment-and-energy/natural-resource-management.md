@@ -2,7 +2,7 @@
 title: Natural Resource Management
 permalink: "/our-work/solutions/natural-resource-management/"
 layout: solution
-parent: our-work
+
 categories:
 - Environment and Energy
 - Natural Resource Management

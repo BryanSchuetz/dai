@@ -1,7 +1,7 @@
 ---
 title: Latin America and the Caribbean
 layout: node
-parent: our-work
+
 categories:
 - Latin America and the Caribbean
 ---

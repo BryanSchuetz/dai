@@ -2,7 +2,7 @@
 title: Public Financial Management
 permalink: "/our-work/solutions/public-financial-management/"
 layout: solution
-parent: our-work
+
 categories:
 - Governance
 - Public Financial Management

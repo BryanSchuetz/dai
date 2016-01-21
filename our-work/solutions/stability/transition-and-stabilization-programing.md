@@ -2,7 +2,7 @@
 title: Transition and Stabilization Programming
 permalink: "/our-work/solutions/transition-and-stabilization-programing"
 layout: solution
-parent: our-work
+
 categories:
 - Stability
 - Transition and Stabilization Programming

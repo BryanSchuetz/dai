@@ -2,7 +2,7 @@
 title: Trade
 permalink: "/our-work/solutions/trade/"
 layout: solution
-parent: our-work
+
 categories:
 - Economic Growth
 - Trade

@@ -1,7 +1,7 @@
 ---
 title: Stabilization Programs for Developing Countries
 layout: solution
-parent: our-work
+
 categories:
 - Stability
 ---

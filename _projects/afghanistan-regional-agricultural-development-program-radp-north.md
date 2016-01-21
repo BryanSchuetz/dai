@@ -1,6 +1,6 @@
 ---
 title: Afghanistan—Regional Agricultural Development Program (RADP–North)
-parent: our-work
+
 client: U.S. Agency for International Development
 start-date: 2014
 end-date: 2019

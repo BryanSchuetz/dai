@@ -1,7 +1,7 @@
 ---
 title: Eastern Europe and Central Asia
 layout: node
-parent: our-work
+
 categories:
 - Eastern Europe and Central Asia
 ---

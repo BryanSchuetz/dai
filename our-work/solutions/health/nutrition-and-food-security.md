@@ -2,7 +2,7 @@
 title: Nutrition and Food Security
 permalink: "/our-work/solutions/nutrition-and-food-security/"
 layout: solution
-parent: our-work
+
 categories:
 - Health
 - Nutrition and Food Security

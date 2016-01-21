@@ -2,7 +2,7 @@
 title: Health and Livelihoods
 permalink: "/our-work/solutions/health-and-livelihoods/"
 layout: solution
-parent: our-work
+
 categories:
 - Health
 - Health and Livelihoods

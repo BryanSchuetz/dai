@@ -2,7 +2,7 @@
 title: Clean Energy and Energy Efficiency
 permalink: "/our-work/solutions/clean-energy-and-energy-efficiency/"
 layout: solution
-parent: our-work
+
 categories:
 - Environment and Energy
 - Clean Energy and Energy Efficiency

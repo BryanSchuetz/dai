@@ -1,7 +1,7 @@
 ---
 title: Asia and the Pacific
 layout: node
-parent: our-work
+
 categories:
 - Asia and the Pacific
 ---

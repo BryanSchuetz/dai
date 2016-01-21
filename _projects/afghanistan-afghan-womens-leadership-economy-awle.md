@@ -1,6 +1,6 @@
 ---
 title: Afghan Women’s Leadership in the Economy (AWLE)
-parent: our-work
+
 client: U.S. Agency for International Development
 start-date: 2015
 end-date: 2020

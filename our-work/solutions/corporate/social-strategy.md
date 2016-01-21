@@ -1,7 +1,7 @@
 ---
 title: Social Strategy
 layout: solution
-parent: our-work
+
 categories:
 - Corporate Services
 - Social Strategy

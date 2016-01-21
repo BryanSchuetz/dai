@@ -2,7 +2,7 @@
 title: Financial Services
 permalink: "/our-work/solutions/financial-services/"
 layout: solution
-parent: our-work
+
 categories:
 - Economic Growth
 - Financial Services

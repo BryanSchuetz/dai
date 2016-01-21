@@ -1,7 +1,7 @@
 ---
 title: Public-Private Partnerships
 layout: solution
-parent: our-work
+
 categories:
 - Corporate Services
 - Public-Private Partnerships
