@@ -2,7 +2,6 @@
 title: Institutional and Policy Reform
 permalink: "/our-work/solutions/institional-and-policy-reform/"
 layout: solution
-
 categories:
 - Governance
 - Institutional and Policy Reform

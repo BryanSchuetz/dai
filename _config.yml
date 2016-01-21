@@ -47,7 +47,6 @@ defaults:
     regions: 
     country: 
     solutions: 
-    
     layout: project
 - scope:
     path: ''

@@ -2,7 +2,6 @@
 title: Sustainable and Accountable Health Services
 permalink: "/our-work/solutions/sustainable-and-accountable-health/"
 layout: solution
-
 categories:
 - Health
 - Sustainable and Accountable Health Services

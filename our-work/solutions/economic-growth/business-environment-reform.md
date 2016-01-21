@@ -2,7 +2,6 @@
 title: Business Environment Reform
 permalink: "/our-work/solutions/business-environment-reform/"
 layout: solution
-
 categories:
 - Economic Growth
 - Business Environment Reform

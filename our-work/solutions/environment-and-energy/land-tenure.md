@@ -2,7 +2,6 @@
 title: Land Tenure and Property Rights
 permalink: "/our-work/solutions/land-tenure/"
 layout: solution
-
 categories:
 - Environment and Energy
 - Land Tenure

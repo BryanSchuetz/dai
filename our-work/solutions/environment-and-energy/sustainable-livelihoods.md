@@ -2,7 +2,6 @@
 title: Sustainable Livelihoods
 permalink: "/our-work/solutions/sustainable-livelihoods/"
 layout: solution
-
 categories:
 - Environment and Energy
 - Sustainable Livelihoods

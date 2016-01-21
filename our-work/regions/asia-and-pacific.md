@@ -1,7 +1,6 @@
 ---
 title: Asia and the Pacific
 layout: node
-
 categories:
 - Asia and the Pacific
 ---

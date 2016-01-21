@@ -2,7 +2,6 @@
 title: Climate Change Adaptation and Mitigation
 permalink: "/our-work/solutions/climate-change-adaptation-and-mitigation/"
 layout: solution
-
 categories:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation

@@ -1,7 +1,6 @@
 ---
 title: Local Supplier Development
 layout: solution
-
 categories:
 - Corporate Services
 - Local Supplier Development

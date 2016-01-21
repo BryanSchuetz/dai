@@ -2,7 +2,6 @@
 title: Emerging Infectious Diseases
 permalink: "/our-work/solutions/emerging-infectious-diseases/"
 layout: solution
-
 categories:
 - Health
 - Emerging Infectious Diseases

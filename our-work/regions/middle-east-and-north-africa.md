@@ -1,7 +1,6 @@
 ---
 title: Middle East and North Africa
 layout: node
-
 categories:
 - Middle East and North Africa
 ---

@@ -2,7 +2,6 @@
 title: Legislative Strengthening
 permalink: "/our-work/solutions/legislative-strengthening/"
 layout: solution
-
 categories:
 - Governance`
 - Legislative Strengthening

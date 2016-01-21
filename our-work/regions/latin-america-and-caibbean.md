@@ -1,7 +1,6 @@
 ---
 title: Latin America and the Caribbean
 layout: node
-
 categories:
 - Latin America and the Caribbean
 ---

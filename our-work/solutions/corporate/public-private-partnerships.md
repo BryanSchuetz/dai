@@ -1,7 +1,6 @@
 ---
 title: Public-Private Partnerships
 layout: solution
-
 categories:
 - Corporate Services
 - Public-Private Partnerships

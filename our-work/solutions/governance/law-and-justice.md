@@ -2,7 +2,6 @@
 title: Law and Justice
 permalink: "/our-work/solutions/law-and-justice/"
 layout: solution
-
 categories:
 - Governance
 - Law and Justice

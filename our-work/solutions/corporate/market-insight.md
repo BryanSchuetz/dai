@@ -1,7 +1,6 @@
 ---
 title: Market Insight and Development
 layout: solution
-
 categories:
 - Corporate Services
 - Market Insight and Development

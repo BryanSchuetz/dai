@@ -2,7 +2,6 @@
 title: Health Governance
 permalink: "/our-work/solutions/health-governance/"
 layout: solution
-
 categories:
 - Governance
 - Health Governance

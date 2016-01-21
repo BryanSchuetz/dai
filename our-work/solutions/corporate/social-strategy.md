@@ -1,7 +1,6 @@
 ---
 title: Social Strategy
 layout: solution
-
 categories:
 - Corporate Services
 - Social Strategy

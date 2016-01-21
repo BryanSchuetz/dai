@@ -1,7 +1,6 @@
 ---
 title: Stabilization Programs for Developing Countries
 layout: solution
-
 categories:
 - Stability
 ---

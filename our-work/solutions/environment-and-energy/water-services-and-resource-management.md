@@ -2,7 +2,6 @@
 title: Water Services and Resource Management
 permalink: "/our-work/solutions/water-services-and-resource-management/"
 layout: solution
-
 categories:
 - Environment and Energy
 - Water Services and Resource Management

@@ -2,7 +2,6 @@
 title: Voice and Accountability
 permalink: "/our-work/solutions/voice-and-accountability/"
 layout: solution
-
 categories:
 - Governance
 - Voice and Accountability

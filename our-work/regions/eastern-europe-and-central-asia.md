@@ -1,7 +1,6 @@
 ---
 title: Eastern Europe and Central Asia
 layout: node
-
 categories:
 - Eastern Europe and Central Asia
 ---

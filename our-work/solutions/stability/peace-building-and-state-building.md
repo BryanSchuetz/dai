@@ -2,7 +2,6 @@
 title: Peace-building and State-building
 permalink: "/our-work/solutions/peace-building-and-state-building/"
 layout: solution
-
 categories:
 - Stability
 - Peace-building and State-building

@@ -1,7 +1,6 @@
 ---
 title: Sub-Saharan Africa
 layout: node
-
 categories:
 - Sub-Saharan Africa
 ---
