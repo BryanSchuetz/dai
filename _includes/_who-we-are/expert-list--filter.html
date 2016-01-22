@@ -9,9 +9,10 @@
               <ul class="expert-details--list">
                 {% for expertise in expert.solutions limit:2 %}
                 <li>
-                  {% for solution in site.data.solutions %}
-                    {% if expertise == solution.text %}
-                      <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
+                  {% assign primary_solutions = site.solutions | where:"type","primary" %}
+                  {% for solution in primary_solutions %}
+                    {% if expertise == solution.title %}
+                      <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.title }}</a>
                     {% endif %}
                   {% endfor %}
                   </li>

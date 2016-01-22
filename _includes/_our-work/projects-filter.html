@@ -3,7 +3,8 @@
   <p>Looking for projects focused on a particular technical topic, geographical area, or client? Click below to limit your search of DAI projects.</p>
   <div class="experts-filter--control">
     <h3>Filter by Solution</h3>
-    {% for solution in site.data.solutions %}<a class="experts-filter--solution" href=""> {{ solution.icon }} {{ solution.text }} </a>{% endfor %}
+    {% assign primary_solutions = site.solutions | where:"type","primary" %}
+    {% for solution in primary_solutions %}<a class="experts-filter--solution" href=""> {{ solution.icon }} {{ solution.title }} </a>{% endfor %}
   </div>
   <div class="experts-filter--control">
     <h3>Filter by Region</h3>

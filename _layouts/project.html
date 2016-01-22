@@ -4,7 +4,7 @@ layout: default
 {% include node-nav-block.html %}
 <h1 class="project-name">{{ page.title }}</h1>
 <div class ="project-details">
-<p class="project-detail"><strong>Client:</strong> <a href="/our-work/projects/{% for client in site.data.clients %}{% if page.client == client.text %}{{ client.abbr | downcase }}{% endif %}{% endfor %}/">{{ page.client }}</a></p>
+<p class="project-detail"><strong>Client:</strong> <a href="/our-work/projects/{% for client in site.clients %}{% if page.client == client.title %}{{ client.abbr | downcase }}{% endif %}{% endfor %}/">{{ page.client }}</a></p>
 <p class="project-detail"><strong>Contract: </strong>{{ page.start-date }}-{{ page.end-date }}</p>
 <p class="project-detail"><strong>Region:</strong>
   {% for region in page.regions %}
@@ -25,10 +25,18 @@ layout: default
 </p>
 <p class="project-detail"><strong>Country:</strong> {{ page.country }}</p>
 <p class="project-detail"><strong>Technical Focus:</strong>
-  {% assign projectsolutions = "" | split:"" %}
-  {% for solution in page.solutions %}
-    {% for solutiondeets in site.data.solutions limit:7 %}
-      {% if solution == solutiondeets.text %}
+  {% assign primary_solutions = site.solutions | where:"type","primary" %}
+  {% for solution in primary_solutions %}
+    {% for project_solution in page.solutions %}
+      {% if solution == project_solution %}
+        <a href="/our-work/projects/{{ projectsolution | downcase | split:" " | join:"-" }}/">{{ projectsolution }}</a>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+    <!-- {% assign projectsolutions = "" | split:"" %}
+    {% for solution in page.solutions %}
+    {% for solutiondeets in primary_solutions %}
+      {% if solution == solutiondeets.title %}
         {% assign projectsolutions = projectsolutions | push:solution %}
       {% endif %}
     {% endfor %}
@@ -39,7 +47,7 @@ layout: default
     {% else %}
     <a href="/our-work/projects/{{ projectsolution | downcase | split:" " | join:"-" }}/">{{ projectsolution }}</a> |
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
 </p>
 </div>
 {{ content }}
