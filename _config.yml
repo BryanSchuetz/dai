@@ -41,7 +41,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path:''
+    path: ''
     type: clients
   values:
     abbr:
