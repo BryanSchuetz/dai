@@ -1,7 +1,6 @@
 ---
 title: Digital
 date: 2016-01-21 18:23:00.492000000 Z
-permalink: "/our-work/solutions/information-and-communication-technology-development/"
 icon: <svg class="ict-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#ict-badge"></use></svg>
 summary: We combine our 40-plus years of experience in global development with the
@@ -13,7 +12,7 @@ topics:
 type: primary
 ---
 
-We combine our 40-plus years of experience in global development with the latest and most relevant information and communication technology (ICT) tools. We do more than just introduce innovations on a project-by-project basis—we help build the institutions and sustainable processes that facilitate innovation on the ground.
+We combine our 40-plus years of experience in global development with the latest and most relevant information and communication technology (ICT) tools. We do more than just introduce innovations on a project-by-project basis—we help build the institutions and sustainable processes that facilitate innovation on the ground. 
 
 
 Over the last 10 years, DAI has been at the forefront of innovation, fusing ICT and geospatial elements into more than 50 global development projects. Technology is a dynamic tool that has the potential to amplify the voices of people in developing countries. Whether using mobile phone applications, geospatial maps or crowdsourcing tools, technology provides the ability for individuals, groups, and societies to better organize, gain access, participate, empower, communicate, report, learn, and be accountable. By building on existing capacity and what works, along with introducing new tools and techniques, DAI has succeeded in establishing sustainable ICT initiatives.

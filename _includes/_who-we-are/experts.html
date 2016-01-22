@@ -5,11 +5,12 @@
     <p class="expert-details--title">{{ page.job-title }}</p>
     <ul class="expert-details--list">
       {% unless page.solutions[0] == null %}
-        {% for expertise in page.solutions limit:2 %}
+        {% for expertise in page.solutions %}
         <li>
-          {% for solution in site.data.solutions %}
-            {% if expertise == solution.text %}
-              <a class="expert-solution"href="{{ solution.path }}">{{ solution.icon }} {{ solution.text }}</a>
+          {% assign primary_solutions = site.solutions | where:"type","primary" %}
+          {% for solution in primary_solutions %}
+            {% if expertise == solution.title %}
+              <a class="expert-solution"href="{{ solution.url }}">{{ solution.icon }} {{ solution.title }}</a>
             {% endif %}
           {% endfor %}
           </li>

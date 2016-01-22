@@ -1,7 +1,7 @@
 ---
 title: Market Insight and Development
 date: 2016-01-22 00:11:14.114000000 Z
-categories:
+topics:
 - Corporate Services
 - Market Insight and Development
 layout: solution

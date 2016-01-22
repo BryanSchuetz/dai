@@ -1,7 +1,7 @@
 ---
 title: Voice and Accountability
 date: 2016-01-22 00:11:14.114000000 Z
-categories:
+topics:
 - Governance
 - Voice and Accountability
 layout: solution

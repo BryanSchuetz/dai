@@ -1,7 +1,7 @@
 ---
 title: Public Financial Management
 date: 2016-01-22 00:11:14.114000000 Z
-categories:
+topics:
 - Governance
 - Public Financial Management
 layout: solution
