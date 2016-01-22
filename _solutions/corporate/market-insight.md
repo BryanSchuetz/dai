@@ -1,9 +1,10 @@
 ---
 title: Market Insight and Development
-layout: solution
+date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Corporate Services
 - Market Insight and Development
+layout: solution
 ---
 
 Developing economies are increasingly important markets and suppliers for multinationals. But as internationally oriented companies enter increasingly remote geographies, the terrain becomes less familiar and the challenges more complex. We help companies navigate this terrain and position themselves to thrive.

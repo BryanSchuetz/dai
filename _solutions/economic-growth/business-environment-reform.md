@@ -1,10 +1,10 @@
 ---
-title: Business Environment Reform
- "/our-work/solutions/business-environment-reform/"
-layout: solution
+title: Business Environment Reform "/our-work/solutions/business-environment-reform/"
+date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Economic Growth
 - Business Environment Reform
+layout: solution
 ---
 
 We have deep experience in reforming business environments to improve competitiveness of companies, industries, and countries in domestic and global markets.

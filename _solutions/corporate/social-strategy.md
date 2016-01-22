@@ -1,9 +1,10 @@
 ---
 title: Social Strategy
-layout: solution
+date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Corporate Services
 - Social Strategy
+layout: solution
 ---
 
 The expectations placed upon the corporate sector to invest in its host communities continue to grow. Successful corporations build social strategies that support their own core business strategies, enabling them to set their own agendas and differentiate themselves in the marketplace. In our strategy work for corporate clients, we weave in community, environmental, philanthropic, and other goals to shape a sustainable and socially responsible profile. Clear, structured strategies at the corporate level cascade into operational results at the business unit and country level. Finally, DAI is well positioned—based on our 40 years of experience implementing social and economic development programs—to assist in the execution of any social program.

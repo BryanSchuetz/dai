@@ -1,10 +1,10 @@
 ---
-title: Peace-building and State-building
- "/our-work/solutions/peace-building-and-state-building/"
-layout: solution
+title: Peace-building and State-building "/our-work/solutions/peace-building-and-state-building/"
+date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Stability
 - Peace-building and State-building
+layout: solution
 ---
 
 Peace-building and state-building are fundamentally “endogenous” political processes, meaning that local people will drive the ultimate outcome. As an external partner, we help them succeed by enhancing broad participation in the transition, providing financial and technical assistance, and promoting best-fit approaches.

@@ -1,10 +1,10 @@
 ---
-title: Nutrition and Food Security
- "/our-work/solutions/nutrition-and-food-security/"
-layout: solution
+title: Nutrition and Food Security "/our-work/solutions/nutrition-and-food-security/"
+date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Health
 - Nutrition and Food Security
+layout: solution
 ---
 
 We build bridges between nutrition, agriculture, and food security. We are at the forefront of improving nutrition and food security outcomes through our integrated and diverse agriculture, agribusiness, and livelihoods programs. We are developing sustainable market- and community-based solutions for improving maternal and child nutrition.

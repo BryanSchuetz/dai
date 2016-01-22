@@ -1,10 +1,10 @@
 ---
-title: Gender
- "/our-work/solutions/gender/"
-layout: solution
+title: Gender "/our-work/solutions/gender/"
+date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Economic Growth
 - Gender`
+layout: solution
 ---
 
 DAI integrates gender programming across all our services: design, research, monitoring and evaluation, assessments, and implementation, as well as through our staffing of projects. We draw not only on tool kits, research, and theory—valuable as those things are—but on 40 years of field experience of what works, what does not, and why. Innovative where appropriate and results-driven in every case, our holistic approach founded on culturally sensitive techniques creates real change for women and men.
