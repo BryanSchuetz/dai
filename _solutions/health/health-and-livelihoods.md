@@ -1,5 +1,5 @@
 ---
-title: Health and Livelihoods "/our-work/solutions/health-and-livelihoods/"
+title: Health and Livelihoods
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Health

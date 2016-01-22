@@ -1,5 +1,5 @@
 ---
-title: Water Services and Resource Management "/our-work/solutions/water-services-and-resource-management/"
+title: Water Services and Resource Management
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Environment and Energy

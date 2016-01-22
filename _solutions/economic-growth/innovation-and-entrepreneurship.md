@@ -1,5 +1,5 @@
 ---
-title: Innovation and Entrepreneurship "/our-work/solutions/innovation-and-entrepreneurship/"
+title: Innovation and Entrepreneurship
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Economic Growth

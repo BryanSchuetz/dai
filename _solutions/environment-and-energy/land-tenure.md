@@ -1,5 +1,5 @@
 ---
-title: Land Tenure and Property Rights "/our-work/solutions/land-tenure/"
+title: Land Tenure and Property Rights
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Environment and Energy

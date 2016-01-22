@@ -1,5 +1,5 @@
 ---
-title: Clean Energy and Energy Efficiency "/our-work/solutions/clean-energy-and-energy-efficiency/"
+title: Clean Energy and Energy Efficiency
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Environment and Energy

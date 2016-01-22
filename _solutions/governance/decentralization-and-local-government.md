@@ -1,5 +1,5 @@
 ---
-title: Decentralization and Local Government Management "/our-work/solutions/decentralization-and-local-government/"
+title: Decentralization and Local Government Management
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Governance

@@ -1,5 +1,5 @@
 ---
-title: Business Environment Reform "/our-work/solutions/business-environment-reform/"
+title: Business Environment Reform
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Economic Growth

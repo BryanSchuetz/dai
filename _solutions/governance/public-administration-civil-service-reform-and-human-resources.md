@@ -1,6 +1,5 @@
 ---
 title: Public Administration, Civil Service Reform, and Human Resources Management
-  "/our-work/solutions/public-administration-civil-service-reform-and-human-resources/"
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - governance

@@ -1,5 +1,5 @@
 ---
-title: Climate Change Adaptation and Mitigation "/our-work/solutions/climate-change-adaptation-and-mitigation/"
+title: Climate Change Adaptation and Mitigation
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Environment and Energy

@@ -1,5 +1,5 @@
 ---
-title: Peace-building and State-building "/our-work/solutions/peace-building-and-state-building/"
+title: Peace-building and State-building
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Stability

@@ -1,5 +1,5 @@
 ---
-title: Legislative Strengthening "/our-work/solutions/legislative-strengthening/"
+title: Legislative Strengthening
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Governance`

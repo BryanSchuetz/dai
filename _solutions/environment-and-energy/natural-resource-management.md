@@ -1,5 +1,5 @@
 ---
-title: Natural Resource Management "/our-work/solutions/natural-resource-management/"
+title: Natural Resource Management
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Environment and Energy

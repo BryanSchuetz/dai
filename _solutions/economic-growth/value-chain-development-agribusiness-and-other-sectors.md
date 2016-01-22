@@ -1,5 +1,5 @@
 ---
-title: Value Chain Development for Agribusiness and Other Sectors "/our-work/solutions/value-chain-development-agribusiness-and-other-sectors/"
+title: Value Chain Development for Agribusiness and Other Sectors
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Economic Growth

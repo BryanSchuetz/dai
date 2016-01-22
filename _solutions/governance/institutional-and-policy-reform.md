@@ -1,5 +1,5 @@
 ---
-title: Institutional and Policy Reform "/our-work/solutions/institional-and-policy-reform/"
+title: Institutional and Policy Reform
 date: 2016-01-22 00:11:14.114000000 Z
 categories:
 - Governance
