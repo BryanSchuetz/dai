@@ -1,9 +1,13 @@
 ---
 title: Eastern Europe and Central Asia
+date: 2016-01-27 22:20:40.426000000 Z
 layout: node
 topics:
 - Eastern Europe and Central Asia
-summary: DAI first worked in Eastern Europe and Central Asia in 1976, and since the breakup of the Soviet Union and Yugoslavia, we have joined donors and governments in the region to promote democratic practices and enterprise economies, strengthen farming and business practices, and encourage responsible resource management.
+summary: DAI first worked in Eastern Europe and Central Asia in 1976, and since the
+  breakup of the Soviet Union and Yugoslavia, we have joined donors and governments
+  in the region to promote democratic practices and enterprise economies, strengthen
+  farming and business practices, and encourage responsible resource management.
 ---
 
 DAI first worked in Eastern Europe and Central Asia in 1976, and since the breakup of the Soviet Union and Yugoslavia, we have joined donors and governments in the region to promote democratic practices and enterprise economies, strengthen farming and business practices, and encourage responsible resource management.

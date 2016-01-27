@@ -1,9 +1,12 @@
 ---
 title: Middle East and North Africa
+date: 2016-01-27 22:20:40.426000000 Z
 layout: node
 topics:
 - Middle East and North Africa
-summary: Our work in the Middle East and North Africa began with design and evaluation assignments in 1976 and continues today with major programs in many development fields.
+summary: Our work in the Middle East and North Africa began with design and evaluation
+  assignments in 1976 and continues today with major programs in many development
+  fields.
 ---
 
 Our work in the Middle East and North Africa began with design and evaluation assignments in 1976 and continues today with major programs in many development fields. On those first assignments, we supported the U.S. Agency for International Development’s (USAID) work in rural Egypt, and in 1980 we helped Egypt implement a long-term agricultural production program. We soon were managing large-scale programs and providing technical expertise in many Middle Eastern and North African countries. A few examples:
