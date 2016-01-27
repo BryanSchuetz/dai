@@ -1,8 +1,9 @@
 ---
 title: Sub-Saharan Africa
 layout: node
-categories:
+topics:
 - Sub-Saharan Africa
+summary: DAI traces its corporate roots to Sub-Saharan Africa. Today, we help African governments, businesses, private organizations, and communities overcome their most pressing challenges.
 ---
 
 DAI traces its corporate roots to Sub-Saharan Africa. Today, we help African governments, businesses, private organizations, and communities overcome their most pressing challenges.

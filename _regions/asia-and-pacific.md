@@ -1,8 +1,9 @@
 ---
 title: Asia and the Pacific
 layout: node
-categories:
+topics:
 - Asia and the Pacific
+summary: DAI has worked in Asia since the early 1980s, with our first projects in Indonesia. Over time we expanded greatly in Indonesia and gained experience across the continent, from Timor-Leste and Mongolia to Bangladesh and Pakistan.
 ---
 
 DAI has worked in Asia since the early 1980s, with our first projects in Indonesia. Over time we expanded greatly in Indonesia and gained experience across the continent, from Timor-Leste and Mongolia to Bangladesh and Pakistan. Our work in Asia is as diverse as the countries themselves:

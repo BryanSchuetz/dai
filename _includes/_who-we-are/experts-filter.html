@@ -8,7 +8,7 @@
   </div>
   <div class="experts-filter--control">
     <h3>Filter by Region</h3>
-    {% for region in site.data.regions %}<a class="experts-filter--solution" href=""> {{ region.icon }} {{ region.text | replace:'and','&' }} </a>{% endfor %}
+    {% for region in site.regions %}<a class="experts-filter--solution" href="{{ region.url }}"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </a>{% endfor %}
   </div>
   <hr>
 </div>

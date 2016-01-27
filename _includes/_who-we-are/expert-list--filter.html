@@ -19,9 +19,9 @@
                 {% endfor %}
                 {% for locale in expert.regions limit:2 %}
                   <li>
-                    {% for region in site.data.regions %}
-                      {% if locale == region.text %}
-                      <a class="expert-region" href="{{ region.path }}">{{ region.icon }} {{ region.text }}</a>
+                    {% for region in site.regions %}
+                      {% if locale == region.title %}
+                      <a class="expert-region" href="{{ region.url }}"><svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.text }}</a>
                       {% endif %}
                     {% endfor %}
                   </li>

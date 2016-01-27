@@ -6,6 +6,7 @@ start-date: 2015
 end-date: 2020
 regions:
 - Eastern Europe and Central Asia
+- Sub-Saharan Africa
 country:
 - Afghanistan
 solutions:

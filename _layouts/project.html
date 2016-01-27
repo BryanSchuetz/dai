@@ -7,20 +7,12 @@ layout: default
 <p class="project-detail"><strong>Client:</strong> <a href="/our-work/projects/{% for client in site.clients %}{% if page.client == client.title %}{{ client.abbr | downcase }}{% endif %}{% endfor %}/">{{ page.client }}</a></p>
 <p class="project-detail"><strong>Contract: </strong>{{ page.start-date }}-{{ page.end-date }}</p>
 <p class="project-detail"><strong>Region:</strong>
-  {% for region in page.regions %}
-    {% if region == page.regions.last %}
-      {% for regiondeets in site.data.regions %}
-        {% if region == regiondeets.text %}
-          <a href="/our-work/projects/{{ region | downcase | split:" " | join:"-" }}/">{{ regiondeets.text }}</a>
-        {% endif %}
-      {% endfor %}
-    {% else %}
-      {% for regiondeets in site.data.regions %}
-        {% if region == regiondeets.text %}
-          <a href="/our-work/projects/{{ region | downcase | split:" " | join:"-" }}/">{{ regiondeets.text }}</a>,
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+  {% for locale in page.regions.first %}
+    {% for region in site.regions %}
+      {% if locale == region.title %}
+        <a href="{{region.url}}">{{ region.title }}</a>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </p>
 <p class="project-detail"><strong>Country:</strong> {{ page.country }}</p>
