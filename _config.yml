@@ -3,9 +3,6 @@ title: DAI
 url: http://dai.com
 timezone: UTC
 collections:
-  regions:
-    title: regions
-    output: true
   clients:
     title: Clients
     output: false
@@ -42,77 +39,80 @@ collections:
   uploads:
     title: Uploads
     output: true
+  regions:
+    title: regions
+    output: true
 defaults:
 - scope:
     path: ''
     type: clients
   values:
-    abbr:
+    abbr: 
 - scope:
     path: ''
     type: projects
   values:
-    client:
-    start-date:
-    end-date:
-    regions:
-    country:
-    solutions:
+    client: 
+    start-date: 
+    end-date: 
+    regions: 
+    country: 
+    solutions: 
     layout: project
 - scope:
     path: ''
     type: news
   values:
-    date:
+    date: 
     topics:
-    -
-    -
+    - 
+    - 
     layout: post
 - scope:
     path: ''
     type: members
   values:
     image: 400x225
-    summary:
-    sort-order:
+    summary: 
+    sort-order: 
     layout: leaders
 - scope:
     path: ''
     type: leaders
   values:
     image: 400x225
-    job-title:
-    summary:
-    sort-order:
+    job-title: 
+    summary: 
+    sort-order: 
     layout: leaders
 - scope:
     path: ''
     type: contacts
   values:
     image: 136x136
-    job-title:
-    email:
-    summary:
-    group:
+    job-title: 
+    email: 
+    summary: 
+    group: 
 - scope:
     path: ''
     type: experts
   values:
     layout: expert
-    job-title:
+    job-title: 
     image: 235x235
-    summary:
+    summary: 
     solutions:
-    -
-    -
+    - 
+    - 
     sub-solutions:
-    -
+    - 
     regions:
-    -
-    -
+    - 
+    - 
     articles:
-    - name:
-      article_file:
+    - name: 
+      article_file: 
 gems:
 - octopress-paginate
 markdown: redcarpet
