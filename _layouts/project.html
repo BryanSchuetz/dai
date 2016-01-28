@@ -20,9 +20,18 @@ layout: default
   {% assign primary_solutions = site.solutions | where:"type","primary" %}
   {% for solution in primary_solutions %}
     {% if page.solutions contains solution.title %}
-      <a href="{{ solution.url }}">{{ solution.title }}</a>
+    {% assign last_title = solution.title %}
+    {% assign last_url = solution.url %}
     {% endif %}
   {% endfor %}
+  {% for solution in primary_solutions %}
+    {% if page.solutions contains solution.title %}
+      {% unless solution.title == last_title %}
+        <a href="{{ solution.url }}">{{ solution.title }}</a> |
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+      <a href="{{ last_url }}">{{ last_title }}</a>
 
   <!-- {% assign primary_solutions = site.solutions | where:"type","primary" %}
   {% for solution in primary_solutions %}
