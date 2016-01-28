@@ -19,12 +19,19 @@ layout: default
 <p class="project-detail"><strong>Technical Focus:</strong>
   {% assign primary_solutions = site.solutions | where:"type","primary" %}
   {% for solution in primary_solutions %}
+    {% if page.solutions contains solution.title %}
+      <a href="{{ solution.url }}">{{ solution.title }}</a>
+    {% endif %}
+  {% endfor %}
+
+  <!-- {% assign primary_solutions = site.solutions | where:"type","primary" %}
+  {% for solution in primary_solutions %}
     {% for project_solution in page.solutions %}
-      {% if solution == project_solution %}
-        <a href="/our-work/projects/{{ projectsolution | downcase | split:" " | join:"-" }}/">{{ projectsolution }}</a>
+      {% if project_solution == solution.title %}
+        <a href="{{ solution.url }}">{{ projectsolution }}</a>
       {% endif %}
     {% endfor %}
-  {% endfor %}
+  {% endfor %} -->
     <!-- {% assign projectsolutions = "" | split:"" %}
     {% for solution in page.solutions %}
     {% for solutiondeets in primary_solutions %}
