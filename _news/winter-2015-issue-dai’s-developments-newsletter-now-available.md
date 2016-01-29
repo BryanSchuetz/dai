@@ -1,5 +1,5 @@
 ---
-title: Winter 2015 Issue of DAI’s Developments Newsletter Now Available
+title: `Winter 2015 Issue of DAI’s Developments Newsletter Now Available`
 date: 12/22/2015
 ---
 
