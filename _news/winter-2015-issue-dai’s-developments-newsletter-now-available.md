@@ -1,6 +1,6 @@
 ---
 title: Winter 2015 Issue of DAI’s Developments Newsletter Now Available
-date: 2015-12-22 22:40:52.765000000 Z
+date: 2015-12-22
 ---
 
 The Winter 2015 issue of DAI’s Developments newsletter is now available.
