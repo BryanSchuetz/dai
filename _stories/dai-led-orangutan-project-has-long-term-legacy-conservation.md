@@ -13,6 +13,7 @@ summary: Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Age
   rigorous policies and procedures.
 layout: node
 ---
+
 Every year on August 19, the world celebrates International Orangutan Day as a way to bring attention and awareness to the crisis facing these majestic red apes.
 
 From 1992 to 2000, the population of the Sumatran orangutan declined by more than 50 percent. Closely related to the Sumatran orangutan, the Bornean orangutan population also fell, by nearly 43 percent in a decade, going from 35,000 in 1996 to 20,000 in 2006. Since these studies were done, deforestation rates have continued to climb, meaning the actual populations could be well below these.
