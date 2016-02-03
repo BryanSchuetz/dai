@@ -1,5 +1,6 @@
 ---
 title: The Birth of a New Credit Culture in Afghanistan
+date: 2016-02-03 14:42:05.262000000 Z
 regions:
 - Eastern Europe and Central Asia
 solutions:
@@ -10,7 +11,10 @@ solutions:
 - Stability
 projects:
 - Afghanistan—Agricultural Credit Enhancement Program I & II (ACE)
-summary: "Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Agency for International Development (USAID) established a standalone financial institution to administer the ADF, with a clearly defined governance structure and guided by rigorous policies and procedures."
+summary: Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Agency
+  for International Development (USAID) established a standalone financial institution
+  to administer the ADF, with a clearly defined governance structure and guided by
+  rigorous policies and procedures.
 layout: node
 ---
 
