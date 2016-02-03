@@ -21,7 +21,7 @@ articles:
   article_file: http://dai.com/news-publications/publications/effective-aid-strategies-support-democracy-africa
 ---
 
-Agnes Luz is an accomplished international development practitioner with more than 25 years of experience managing and providing technical assistance to value chain and agribusiness development programs in Africa, the Middle East, and Asia. She specializes in designing and leading value chain upgrading strategies, facilitating market linkages, enterprise development, investment generation, export market development, institutional strengthening and capacity building of value chain actors, including business support service providers.
+Agnes foo Luz is an accomplished international development practitioner with more than 25 years of experience managing and providing technical assistance to value chain and agribusiness development programs in Africa, the Middle East, and Asia. She specializes in designing and leading value chain upgrading strategies, facilitating market linkages, enterprise development, investment generation, export market development, institutional strengthening and capacity building of value chain actors, including business support service providers.
 
 She has worked in the fruits, vegetables, seafoods, seaplants, apiculture, dairy, and the textile subsectors with various international organizations and donors, including the International Finance Corporation, the U.S. Agency for International Development, SNV Netherlands Development Organization, and the Asian Development Bank. She was an entrepreneur with hands-on experience developing and managing her own businesses in the field of plantation crops (coffee and black pepper), fish culture, poultry, pottery, IT, consumer products, and food service.
 
