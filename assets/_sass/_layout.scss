@@ -514,6 +514,8 @@ img{
 
 iframe{
   width: 100%;
+  margin-bottom: 1rem;
+  height: 143px;
   @include responsive(small-screens){
     height: 230px;
   }

@@ -18,11 +18,15 @@ summary: Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Age
 layout: node
 ---
 
+> back to the drawing board ok that's quick, like really quick almost seems incrementalm, but it aint, fuck it it works
+
 Fifty-four months. That’s how long it took to conceive, launch, and hand over the Agricultural Development Fund (ADF) in Afghanistan.
 
 Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Agency for International Development (USAID) established a standalone financial institution to administer the ADF, with a clearly defined governance structure and guided by rigorous policies and procedures.
 
 When the DAI-led team launched this program in 2010, Afghan financial institutions had little interest in lending to the agricultural sector. Nevertheless, the ADF has successfully provided loans to more than 35,000 farm households and agribusinesses in 33 of Afghanistan’s 34 provinces. The ADF has so far approved 234 loans valued at US$105.9 million. Offering both conventional and Islamic financial products designed to meet borrowers’ needs and business cycles, the ADF is changing the landscape of rural Afghanistan.
+
+<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/130361148" webkitallowfullscreen="" width="703"></iframe>
 
 In its first design, ACE relied heavily on the participation of Afghan financial institutions acting as intermediaries of funds—a plan that ultimately proved to be unfeasible due to a risk-averse private banking sector.
 
