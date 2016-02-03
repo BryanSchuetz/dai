@@ -1,7 +1,7 @@
-
 // define all the things
 var gulp        = require('gulp');
 var bs          = require('browser-sync');
+// use this bit of middleware for connect server to clean up urls
 var hygienist   = require('hygienist-middleware');
 var reload      = bs.reload;
 var shell       = require('gulp-shell');
