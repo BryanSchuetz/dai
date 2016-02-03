@@ -1,0 +1,10 @@
+<div class="projects-rail">
+{% for story in site.stories %}
+  <div class="project-block">
+    <h3>{{ story.title }}</h3>
+    <p>{{ story.summary }}</p>
+  </div>
+  <a href="{{ story.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  <hr>
+{% endfor %}
+</div>
