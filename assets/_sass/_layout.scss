@@ -428,9 +428,9 @@ abbr[title] {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
+  color: $emphasis;
   border-left: .25rem solid #e5e5e5;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 blockquote p:last-child {
   margin-bottom: 0;

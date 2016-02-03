@@ -18,8 +18,6 @@ summary: Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Age
 layout: node
 ---
 
-> back to the drawing board ok that's quick, like really quick almost seems incrementalm, but it aint, fuck it it works
-
 Fifty-four months. That’s how long it took to conceive, launch, and hand over the Agricultural Development Fund (ADF) in Afghanistan.
 
 Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Agency for International Development (USAID) established a standalone financial institution to administer the ADF, with a clearly defined governance structure and guided by rigorous policies and procedures.
