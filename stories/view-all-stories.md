@@ -8,3 +8,4 @@ Collaborating with hundreds of institutional partners around the world, DAI is w
 <hr>
 
 {% include stories-list.html %}
+{% include stories-filter.html %}

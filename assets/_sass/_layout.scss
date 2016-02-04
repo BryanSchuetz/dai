@@ -579,13 +579,13 @@ iframe{
     width: 40%;
   }
 }
-.experts-rail, .projects-rail{
+.experts-rail, .projects-rail, .stories-rail, .news-rail{
   @include responsive(wide-screens){
     width: 60%;
     float: left;
   }
 }
-.experts-filter, .projects-filter{
+.experts-filter, .projects-filter, .stories-filter{
   display: none;
   @include responsive(wide-screens){
     display: block;
@@ -620,7 +620,7 @@ iframe{
     border: 1px solid $nav-black;
   }
 }
-.experts-filter--control{
+.filter--control{
   margin-bottom: 2rem;
 }
 .expert-details{

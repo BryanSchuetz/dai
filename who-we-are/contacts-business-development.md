@@ -1,6 +1,6 @@
 ---
 title: United Kingdom Business Development Contacts
-permalink: "/who-we-are/global-reach/united-kingdom/contacts/business-development-team/"
+permalink: "/who-we-are/global-reach/united-kingdom/contacts/business-development-team"
 layout: node
 ---
 
