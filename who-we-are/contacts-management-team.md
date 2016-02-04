@@ -1,6 +1,6 @@
 ---
 title: United Kingdom Management Team
-permalink: "/who-we-are/global-reach/united-kingdom/contacts/management-team/"
+permalink: "/who-we-are/global-reach/united-kingdom/contacts/management-team"
 layout: node
 ---
 

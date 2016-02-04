@@ -1,6 +1,6 @@
 ---
 title: United States, Management and Business Development Team
-permalink: "/who-we-are/global-reach/united-states/contacts/management-business/"
+permalink: "/who-we-are/global-reach/united-states/contacts/management-business"
 layout: node
 ---
 

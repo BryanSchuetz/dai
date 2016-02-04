@@ -1,6 +1,6 @@
 ---
 title: United Kingdom Programme Managers
-permalink: "/who-we-are/global-reach/united-kingdom/contacts/programme-managers/"
+permalink: "/who-we-are/global-reach/united-kingdom/contacts/programme-managers"
 layout: node
 ---
 

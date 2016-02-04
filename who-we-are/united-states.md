@@ -1,6 +1,6 @@
 ---
 title: United States
-permalink: "/who-we-are/global-reach/united-states/"
+permalink: "/who-we-are/global-reach/united-states"
 layout: node
 ---
 
@@ -32,4 +32,4 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
-<a href="/who-we-are/global-reach/united-states/contacts/management-business/" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-states/contacts/management-business" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

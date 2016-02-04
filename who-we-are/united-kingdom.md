@@ -1,6 +1,6 @@
 ---
 title: United Kingdom
-permalink: "/who-we-are/global-reach/united-kingdom/"
+permalink: "/who-we-are/global-reach/united-kingdom"
 layout: node
 ---
 
@@ -31,7 +31,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/management-team/" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/management-team" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Portfolio Coordinators:
 
@@ -48,7 +48,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators/" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Programme Management:
 
@@ -65,7 +65,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/programme-managers/" class="primary-block--button contacts-button">More Programme Management Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/programme-managers" class="primary-block--button contacts-button">More Programme Management Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 ### Business Development:
 
@@ -82,4 +82,4 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
   {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/business-development-team/" class="primary-block--button contacts-button">More Business Development Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/business-development-team" class="primary-block--button contacts-button">More Business Development Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

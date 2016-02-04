@@ -1,6 +1,6 @@
 ---
 title: United Kingdom Portfolio Coordinators
-permalink: "/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators/"
+permalink: "/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators"
 layout: node
 ---
 
