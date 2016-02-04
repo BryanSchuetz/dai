@@ -1,14 +1,18 @@
 <div class="projects-filter">
   <h3>Project Filter</h3>
-  <p>Looking for projects focused on a particular technical topic, geographical area, or client? Click below to filter.</p>
+  <p>Looking for projects focused on a particular technical topic, geographical area, or client? <br>Click below to filter.</p>
   <div class="filter--control solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
-    {% for solution in primary_solutions %}<a class="experts-filter--solution" href=""> {{ solution.icon }} {{ solution.title }} </a>{% endfor %}
+    {% for solution in primary_solutions %}<a class="filter--solution" href=""> {{ solution.icon }} {{ solution.title }} </a>{% endfor %}
+  </div>
+  <div class="filter--control client">
+    <h3>Filter by Client</h3>
+    {% for client in site.clients %}<a class="filter--client" href=""> {{ client.abbr }} </a>{% endfor %}
   </div>
   <div class="filter--control region">
     <h3>Filter by Region</h3>
-    {% for region in site.regions %}<a class="experts-filter--solution" href="{{ region.url }}"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </a>{% endfor %}
+    {% for region in site.regions %}<a class="filter--region" href=""> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </a>{% endfor %}
   </div>
   <hr>
 </div>
