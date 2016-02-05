@@ -580,7 +580,7 @@ iframe{
     float: left;
   }
 }
-.experts-filter, .projects-filter, .stories-filter{
+.experts-filter, .projects-filter, .stories-filter, .news-filter{
   display: none;
   @include responsive(wide-screens){
     display: block;

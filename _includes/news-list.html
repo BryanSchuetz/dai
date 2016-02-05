@@ -1,0 +1,10 @@
+<div class="news-rail">
+{% for article in site.news %}
+  <div class="news-block">
+    <h3>{{ news.title }}</h3>
+    <p>{{ news.summary }}</p>
+  </div>
+  <a href="{{ news.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  <hr>
+{% endfor %}
+</div>
