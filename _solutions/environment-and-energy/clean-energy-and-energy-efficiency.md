@@ -1,9 +1,8 @@
 ---
 title: Clean Energy and Energy Efficiency
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Environment and Energy
-- Clean Energy and Energy Efficiency
 layout: solution
 ---
 

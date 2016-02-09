@@ -1,9 +1,8 @@
 ---
 title: Transition and Stabilization Programming
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Stability
-- Transition and Stabilization Programming
 layout: solution
 ---
 

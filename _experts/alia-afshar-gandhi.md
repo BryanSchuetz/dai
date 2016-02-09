@@ -1,5 +1,6 @@
 ---
 title: Alia Afshar-Gandhi
+lastname: Afshar-Gandhi
 date: 2016-01-21 22:18:43.395000000 Z
 regions:
 - Asia and the Pacific
@@ -7,7 +8,6 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Economic Growth
-sub-solutions:
 - Agriculture and Food Security
 layout: expert
 image: "/assets/images/experts/alia-afshar-gandhi.jpg"

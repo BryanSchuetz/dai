@@ -8,4 +8,4 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 
 <hr>
 
-{% include _who-we-are/expert-list--filter.html %}
+{% include _who-we-are/expert-list--filtered.html %}

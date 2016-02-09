@@ -1,12 +1,12 @@
 ---
 title: Albert Cevallos
+lastname: Cevallos
 date: 2016-01-21 22:18:43.395000000 Z
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa
 solutions:
 - Governance
-sub-solutions:
 - Conflict and Vulnerability Analysis
 layout: expert
 image: "/assets/images/experts/albert-cevallos.jpg"

@@ -7,8 +7,6 @@ summary: 'Strengthening and improving government performance by providing techni
   advice, strategic guidance, and support to public institutions, elected bodies,
   and citizens. '
 layout: solution
-topics:
-- Governance
 type: primary
 ---
 

@@ -1,7 +1,7 @@
 <div class="expert-details">
   <img src="{{ page.image }}" alt="" class="expert-details--photo">
   <div class="expert-details--metadata">
-    <h1>{{ page.title }}</h1>
+    <h1 class="expert-details--name">{{ page.title }}</h1>
     <p class="expert-details--title">{{ page.job-title }}</p>
     <ul class="expert-details--list">
       {% unless page.solutions[0] == null %}

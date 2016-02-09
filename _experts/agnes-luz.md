@@ -1,11 +1,11 @@
 ---
 title: Agnes Luz
+lastname: Luz
 date: 2016-01-21 22:18:43.395000000 Z
 regions:
 - Sub-Saharan Africa
 solutions:
 - Economic Growth
-sub-solutions:
 - Agriculture and Food Security
 layout: expert
 image: "/assets/images/experts/agnes-luz.jpg"

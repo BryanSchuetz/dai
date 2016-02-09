@@ -5,8 +5,6 @@ icon: <svg class="econ-badge badge" viewBox="0 0 101 100" preserveAspectRatio="x
   meet"><use xlink:href="#econ-badge"></use></svg>
 summary: Driving trade, technology, agriculture, business, and financial services
   to create jobs, reduce poverty, and enhance food security.
-topics:
-- Economic Growth
 layout: solution
 type: primary
 ---

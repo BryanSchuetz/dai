@@ -1,9 +1,8 @@
 ---
 title: Nutrition and Food Security
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Health
-- Nutrition and Food Security
 layout: solution
 ---
 

@@ -1,9 +1,8 @@
 ---
 title: Decentralization and Local Government Management
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Governance
-- Decentralization and Local Government Management
 layout: solution
 ---
 

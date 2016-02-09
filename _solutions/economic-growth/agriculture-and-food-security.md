@@ -1,9 +1,8 @@
 ---
 title: Agriculture and Food Security
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Economic Growth
-- Agriculture and Food Security
 layout: solution
 ---
 

@@ -7,8 +7,6 @@ summary: Improved management of natural resources and important ecosystem servic
   not only supports economic growth, and strengthens resilience to climate change
   but also can provide the foundation for sustainable development.
 layout: solution
-topics:
-- Environment and Energy
 type: primary
 ---
 

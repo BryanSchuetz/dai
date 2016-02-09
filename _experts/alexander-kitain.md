@@ -1,14 +1,14 @@
 ---
 title: Alexander Kitain
+lastname: Kitain
 date: 2016-01-21 22:18:43.395000000 Z
 regions:
 - Asia and the Pacific
 solutions:
 - Economic Growth
 - Environment and Energy
-sub-solutions:
 - Institutional and Policy Reform
-- Public Administration Civil Service Reform and Human Resources Management
+- Public Administration, Civil Service Reform, and Human Resources Management
 - Public Financial Management
 layout: expert
 image: "/assets/images/experts/alexander-kitain.jpg"

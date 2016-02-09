@@ -6,8 +6,6 @@ icon: <svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRat
 summary: Partnering with government, civil society, and private sector actors to provide
   short-term stability and build the foundation for long-term development.
 layout: solution
-topics:
-- Stability
 type: primary
 ---
 

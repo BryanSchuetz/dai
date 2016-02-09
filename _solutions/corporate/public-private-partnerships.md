@@ -1,9 +1,8 @@
 ---
 title: Public-Private Partnerships
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Corporate Services
-- Public-Private Partnerships
 layout: solution
 ---
 

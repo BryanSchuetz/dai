@@ -624,6 +624,9 @@ iframe{
 .expert-details--title{
   font-weight: bold;
 }
+.expert-details--name{
+  margin-bottom: 0;
+}
 .expert-details--photo{
   width: 40%;
   float: left;
@@ -634,9 +637,6 @@ iframe{
 .expert-details--metadata{
   width: 55%;
   float: right;
-  p{
-    margin-bottom: .1rem;
-  }
   @include responsive(medium-screens){
     width: 65%
   }

@@ -1,9 +1,8 @@
 ---
 title: Emerging Infectious Diseases
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Health
-- Emerging Infectious Diseases
 layout: solution
 ---
 

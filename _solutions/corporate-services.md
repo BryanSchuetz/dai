@@ -6,8 +6,6 @@ icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="x
 summary: Helping our clients achieve significantly higher social and business returns
   by merging business imperatives with development best practices.
 layout: solution
-topics:
-- Corporate Services
 type: primary
 ---
 

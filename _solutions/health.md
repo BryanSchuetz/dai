@@ -7,8 +7,6 @@ summary: Providing the technical skills, expertise, and local knowledge to deliv
   global health solutions while responding to issues ranging from emerging pandemic
   threats to HIV/AIDS to waterborne diseases.
 layout: solution
-topics:
-- Health
 type: primary
 ---
 

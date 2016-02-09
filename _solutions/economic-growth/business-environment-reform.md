@@ -1,9 +1,8 @@
 ---
 title: Business Environment Reform
 date: 2016-01-22 00:11:14.114000000 Z
-topics:
+solutions:
 - Economic Growth
-- Business Environment Reform
 layout: solution
 ---
 
