@@ -211,7 +211,11 @@ header{
   @include clearfix;
   padding-bottom: 9rem;
 }
-
+aside{
+  padding: 1rem;
+  background-color: $nav_gray;
+  margin-bottom: 1rem;
+}
 // 🎌 MAIN: RAIL  🎌
 
 .section-rail{

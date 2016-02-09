@@ -7,7 +7,7 @@
     <div class="expert-detailslist--metadata">
       <h3 class="expert-details--name">{{ expert.title }}</h3>
       <p class="expert-details--title">{{ expert.job-title }}</p>
-        <ul class="expert-details--list">
+        <!-- <ul class="expert-details--list">
           {% for expertise in expert.solutions limit:2 %}
           <li>
             {% assign primary_solutions = site.solutions | where:"type","primary" %}
@@ -27,7 +27,7 @@
               {% endfor %}
             </li>
           {% endfor %}
-        </ul>
+        </ul> -->
       </div>
       <div class="expert-summary">
         <p>{{ expert.summary }}</p>

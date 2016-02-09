@@ -1,8 +1,8 @@
 <div class="news-rail">
-{% for article in site.news %}
+{% for article in site.news reversed %}
   <div class="news-block">
     <h3>{{ article.title }}</h3>
-    <p>{{ article.summary }}</p>
+    <p>{{ article.summary | markdownify }}</p>
   </div>
   <a href="{{ article.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   <hr>
