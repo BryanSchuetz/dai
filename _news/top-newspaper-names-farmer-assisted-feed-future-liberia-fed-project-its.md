@@ -1,7 +1,10 @@
 ---
-title: Top Newspaper Names Farmer Assisted by Feed the Future Liberia FED Project as its Person of the Year
+title: Top Newspaper Names Farmer Assisted by Feed the Future Liberia FED Project
+  as its Person of the Year
 date: 2016-01-12 18:05:00 Z
-summary: "A former businessman who took up farming to help Liberia become more self-sufficient at generating food was named Person of the Year by the Daily Observer, one of the country’s top newspapers."
+summary: A former businessman who took up farming to help Liberia become more self-sufficient
+  at generating food was named Person of the Year by the Daily Observer, one of the
+  country’s top newspapers.
 solutions:
 - Agriculture and Food Security
 regions:
@@ -10,6 +13,7 @@ projects: Feed the Future Liberia Food and Enterprise Development Program (FED)
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 A former businessman who took up farming to help Liberia become more self-sufficient at generating food was named Person of the Year by the Daily Observer, one of the country’s top newspapers.
 
 John Selma is part of a group that harvested 1 million tons of rice in Lofa County in 2015. Under Selma’s leadership, the group took advantage of technical assistance and farm lending facilitated by a U.S. Agency for International Development initiative—the [Feed the Future Liberia Food and Enterprise Development Program (FED)](http://dai.com/our-work/projects/liberia—food-and-enterprise-development-program-fed).

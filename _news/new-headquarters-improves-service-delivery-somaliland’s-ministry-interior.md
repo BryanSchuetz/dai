@@ -1,7 +1,9 @@
 ---
 title: New Headquarters Improves Service Delivery by Somaliland’s Ministry of Interior
 date: 2016-01-05 18:05:00 Z
-summary: "An effort that began in 2011 recently came to fruition in Somaliland at the end of 2015 with the handover of a newly constructed facility to house the 145 employees who work for the region’s Ministry of Interior."
+summary: An effort that began in 2011 recently came to fruition in Somaliland at the
+  end of 2015 with the handover of a newly constructed facility to house the 145 employees
+  who work for the region’s Ministry of Interior.
 solutions:
 - Stability
 regions:
@@ -10,6 +12,7 @@ projects: Transition Initiatives for Stabilization (TIS)
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 An effort that began in 2011 recently came to fruition in Somaliland at the end of 2015 with the handover of a newly constructed facility to house the 145 employees who work for the region’s Ministry of Interior.
 
 As part of a [Transition Initiatives for Stabilization (TIS)](http://dai.com/our-work/projects/somalia—transition-initiatives-stabilization-tis)-led activity, the Ministry and the community in Hargeisa together identified and prioritized the construction of the new headquarters in assist in strengthening governance, stability, and peace—and to promote better relations between the government and citizens. TIS, funded by the U.S. Agency for International Development (USAID) and led by DAI, facilitated construction in May 2011.
