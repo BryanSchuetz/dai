@@ -4,7 +4,9 @@
   <div class="filter--control solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
-    {% for solution in primary_solutions %}<a class="filter--solution" href=""> {{ solution.icon }} {{ solution.title }} </a>{% endfor %}
+    {% for solution in primary_solutions %}
+    {% assign solution_slug = solution.title | slugify %}
+  <a class="filter--solution {% if page.url contains solution_slug %}active{% endif %}" href="/who-we-are/our-team/{{ solution_slug }}"> {{ solution.icon }} {{ solution.title }} </a>{% endfor %}
   </div>
   <div class="filter--control region">
     <h3>Filter by Region</h3>
