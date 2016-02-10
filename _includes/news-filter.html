@@ -1,10 +1,12 @@
 <div class="stories-filter">
   <h3>News Filter</h3>
   <p>Looking for news articles on a particular technical topic or geographical area? Click below to filter.</p>
-  <div class="filter--control solution">
+  <div class="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
-    {% for solution in primary_solutions %}<a class="filter--solution" href=""> {{ solution.icon }} {{ solution.title }} </a>{% endfor %}
+    <div class="button-group filter-button-group">
+    {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }} "> {{ solution.icon }} {{ solution.title }}</button>{% endfor %}
+    </div>
   </div>
   <div class="filter--control region">
     <h3>Filter by Region</h3>
@@ -12,3 +14,13 @@
   </div>
   <hr>
 </div>
+<script type="text/javascript">
+  var $grid = $('.grid').isotope({
+  itemSelector: '.grid-item',
+  layoutMode: 'vertical'
+  });
+  $('.filter-button-group').on( 'click', 'button', function() {
+    var filterValue = $(this).attr('data-filter');
+    $grid.isotope({ filter: filterValue });
+  });
+</script>

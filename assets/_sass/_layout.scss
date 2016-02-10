@@ -591,8 +591,10 @@ iframe{
     width: 35%;
     float: right;
   }
-  a{
+  a, button{
     display: block;
+    width: 100%;
+    text-align: left;
     padding: .5rem;
     background-color: $nav-gray;
     border: 1px solid $nav-gray;
@@ -614,7 +616,7 @@ iframe{
       }
     }
   }
-  a:hover, a.active{
+  a:hover, a.active, .button:hover{
     color: $nav-black;
     border: 1px solid $nav-black;
   }
