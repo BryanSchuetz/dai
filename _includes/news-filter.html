@@ -8,9 +8,11 @@
     {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }} "> {{ solution.icon }} {{ solution.title }}</button>{% endfor %}
     </div>
   </div>
-  <div class="filter--control region">
+  <div class="region">
     <h3>Filter by Region</h3>
-    {% for region in site.regions %}<a class="filter--region" href=""> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </a>{% endfor %}
+    <div class="button-group filter-button-group">
+    {% for region in site.regions %}<button data-filter=".{{ region.title | slugify}}"" class="filter--region"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </button>{% endfor %}
+    </div>
   </div>
   <hr>
 </div>
@@ -21,6 +23,8 @@
   });
   $('.filter-button-group').on( 'click', 'button', function() {
     var filterValue = $(this).attr('data-filter');
+    $("button.active").removeClass('active');
+    $(this).addClass('active');
     $grid.isotope({ filter: filterValue });
   });
 </script>

@@ -592,6 +592,7 @@ iframe{
     float: right;
   }
   a, button{
+    cursor: pointer;
     display: block;
     width: 100%;
     text-align: left;
@@ -616,7 +617,7 @@ iframe{
       }
     }
   }
-  a:hover, a.active, .button:hover{
+  a:hover, a.active, button:hover, button.active{
     color: $nav-black;
     border: 1px solid $nav-black;
   }
