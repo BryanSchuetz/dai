@@ -1,8 +1,8 @@
-{% include _who-we-are/experts-filter.html %}
+
 <div class="experts-rail grid">
 {% assign sorted_experts = site.experts | sort:'lastname' %}
 {% for expert in sorted_experts %}
-  <div class="people-block grid-item {% for expertise in expert.solutions %}{{ expertise | downcase | split:" " | join:"-" }}{% endfor %}">
+  <div class="people-block grid-item {% for expertise in expert.solutions %} {{ expertise | downcase | slugify }} {% endfor %} {% for region in expert.regions %} {{ region | slugify}} {% endfor %} ">
     <!-- <a href="{{ expert.url }}"><img src="{{ expert.image }}" alt="" class="expert-details--photo"></a> -->
     <div class="expert-detailslist--metadata">
       <h3 class="expert-details--name">{{ expert.title }}</h3>
@@ -33,7 +33,7 @@
         <p>{{ expert.summary }}</p>
       </div>
       <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+      {% unless forloop.last %}<hr>{% endunless %}
   </div>
-  <hr>
 {% endfor %}
 </div>

@@ -1,14 +1,26 @@
 <div class="stories-filter">
   <h3>Stories Filter</h3>
   <p>Looking for stories on a particular technical topic or geographical area? Click below to filter.</p>
-  <div class="filter--control solution">
+  <div class="button-group filter-button-group solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
-    {% for solution in primary_solutions %}<a class="filter--solution" href=""> {{ solution.icon }} {{ solution.title }} </a>{% endfor %}
+    {% for solution in primary_solutions %}<button class="filter--solution" data-filter=".{{ solution.title | slugify }}"> {{ solution.icon }} {{ solution.title }} </button>{% endfor %}
   </div>
-  <div class="filter--control region">
+  <div class="button-group filter-button-group region">
     <h3>Filter by Region</h3>
-    {% for region in site.regions %}<a class="filter--region" href=""> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </a>{% endfor %}
+    {% for region in site.regions %}<button class="filter--region" data-filter=".{{ region.title | slugify }}"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </button>{% endfor %}
   </div>
   <hr>
 </div>
+<script type="text/javascript">
+  var $grid = $('.grid').isotope({
+  itemSelector: '.grid-item',
+  layoutMode: 'vertical'
+  });
+  $('.filter-button-group').on( 'click', 'button', function() {
+    var filterValue = $(this).attr('data-filter');
+    $("button.active").removeClass('active');
+    $(this).addClass('active');
+    $grid.isotope({ filter: filterValue });
+  });
+</script>
