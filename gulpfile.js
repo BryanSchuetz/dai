@@ -10,7 +10,7 @@ var files = ['**/*.html', '**/*.md', '**/*.markdown', '**/*.js', '**/*.scss', '!
 
 // build Jekyll, only the stuff that's changed since last time (documentation calls incremental mode experimental)
 gulp.task('build', shell.task([
-  'jekyll build --incremental'
+  'jekyll build'
 ]))
 // setup browsersync to reload browser when changes happen
 gulp.task('serve', function() {

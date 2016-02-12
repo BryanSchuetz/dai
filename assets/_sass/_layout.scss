@@ -327,6 +327,16 @@ aside{
   top: .3rem;
   float: right;
 }
+.float-left{
+  float: left;
+  margin-right: .5rem;
+  margin-top: .3rem;
+  margin-bottom: 0;
+  width: 30%;
+  @include responsive(small-screens){
+    width: 25%;
+  }
+}
 // 🎌 FOOTER 🎌
 
 footer{

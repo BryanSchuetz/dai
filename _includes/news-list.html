@@ -1,6 +1,6 @@
 <div class="news-rail grid">
 {% for article in site.news reversed %}
-  <div class="news-block grid-item {% for solution in article.solutions %}{{ solution | slugify }}{% endfor %} {% for region in article.regions %}{{ region | slugify }}{% endfor %}">
+  <div class="news-block grid-item {% for solution in article.solutions %}{{ solution | slugify }}{% endfor %} {% for region in article.regions %}{{ region | slugify }} {% endfor %}">
     <h3>{{ article.title }}</h3>
     <p>{{ article.summary | markdownify }}</p>
     <a href="{{ article.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
@@ -8,4 +8,3 @@
   </div>
 {% endfor %}
 </div>
- 

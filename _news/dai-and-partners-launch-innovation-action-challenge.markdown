@@ -7,8 +7,8 @@ summary: DAI and three key partners announced the launch of the [Innovation into
   in the lives of people in emerging and transitioning nations.
 solutions:
 - Digital
-regions: 
-projects: 
+regions:
+projects:
 clients:
 - U.S. Agency for International Development
 layout: node
@@ -55,4 +55,4 @@ Montgomery County, Maryland, just outside Washington, D.C., is a local jurisdict
 
 The Global Accelerator Network is a network of the world’s most respected accelerators. GAN accelerators provide startups with the resources necessary to create and grow businesses, wherever they are.
 
-Contact: [Steven O’Connor](mailto:steven_o’connor@dai.com), Director of Communications, DAI, 301-771-7834
+Contact: [Steven O’Connor](mailto:steven_o'connor@dai.com), Director of Communications, DAI, 301-771-7834

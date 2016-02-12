@@ -15,7 +15,7 @@ layout: node
 
 An effort that began in 2011 recently came to fruition in Somaliland at the end of 2015 with the handover of a newly constructed facility to house the 145 employees who work for the region’s Ministry of Interior.
 
-As part of a [Transition Initiatives for Stabilization (TIS)](http://dai.com/our-work/projects/somalia—transition-initiatives-stabilization-tis)-led activity, the Ministry and the community in Hargeisa together identified and prioritized the construction of the new headquarters in assist in strengthening governance, stability, and peace—and to promote better relations between the government and citizens. TIS, funded by the U.S. Agency for International Development (USAID) and led by DAI, facilitated construction in May 2011.
+As part of a [Transition Initiatives for Stabilization (TIS)](/our-work/projects/somalia—transition-initiatives-stabilization-tis)-led activity, the Ministry and the community in Hargeisa together identified and prioritized the construction of the new headquarters in assist in strengthening governance, stability, and peace—and to promote better relations between the government and citizens. TIS, funded by the U.S. Agency for International Development (USAID) and led by DAI, facilitated construction in May 2011.
 
 The Ministry of Interior is the national entity responsible for policing, national security, and immigration. Previously, the Ministry’s building was too old and too small. Ministry Director General Abdifatah Mohamed said, “The Ministry of Interior is composed of six departments and being one of the key ministries in the country, we needed a large, conducive working office.”
 
