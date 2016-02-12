@@ -1,7 +1,10 @@
 ---
 title: Winter 2015 Issue of DAI’s Developments Newsletter Now Available
 date: 2015-12-22 18:05:00 Z
-summary: The Winter 2015 issue of DAI’s Developments newsletter is now available. Leading off, Vanna Kruy describes how he developed an application—now with 300,000 downloads and counting—that enables Cambodians to use smartphones more easily using their native Khmer alphabet.
+summary: The Winter 2015 issue of DAI’s Developments newsletter is now available.
+  Leading off, Vanna Kruy describes how he developed an application—now with 300,000
+  downloads and counting—that enables Cambodians to use smartphones more easily using
+  their native Khmer alphabet.
 solutions:
 - Digital
 - Agriculture and Food Security
@@ -9,8 +12,8 @@ solutions:
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
 

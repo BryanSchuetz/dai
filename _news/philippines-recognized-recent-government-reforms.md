@@ -1,15 +1,21 @@
 ---
 title: Philippines Recognized for Recent Government Reforms
 date: 2015-10-13 18:05:00 Z
-summary: "The Philippines, a founding member of the international [Open Government Partnership](http://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/) (OGP), has been recognized as one of the leading OGP participants. The OGP is an international organization promoting transparency, civic participation, the fight against corruption, and new technologies to make government more open, effective, and accountable."
+summary: The Philippines, a founding member of the international [Open Government
+  Partnership](http://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/)
+  (OGP), has been recognized as one of the leading OGP participants. The OGP is an
+  international organization promoting transparency, civic participation, the fight
+  against corruption, and new technologies to make government more open, effective,
+  and accountable.
 solutions:
 - Governance
 regions:
 - Asia and the Pacific
 projects: Facilitating Public Investment (FPI)
-clients:
+clients: 
 layout: node
 ---
+
 The Philippines, a founding member of the international [Open Government Partnership][1] (OGP), has been recognized as one of the leading OGP participants. The OGP is an international organization promoting transparency, civic participation, the fight against corruption, and new technologies to make government more open, effective, and accountable.
 
 Two of the Philippines' commitments have been recognized with international awards. The Commission on Audit's Citizen's Participatory Audit received the Bright Spots Award from the U.K. Government during the OGP Summit in London in October 2013 and the Department of Budget and Management (DBM)'s Bottom-Up-Budgeting process more recently received the Gold Open Government Award from OGP.

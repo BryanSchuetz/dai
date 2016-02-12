@@ -1,7 +1,11 @@
 ---
 title: Fall 2015 Issue of DAI’s Developments Newsletter Available Online
 date: 2015-11-05 18:05:00 Z
-summary: "The Fall 2015 issue of DAI's _Developments_ newsletter is now available [online](http://dai-global-developments.com/developments/fall-2015/). Leading off, Mathilde Gaston-Mathé and Emmanuel Moyart describe how the African, Caribbean, and Pacific/European Union Microfinance Programme [vitalized a network](http://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners/) of practitioners and stakeholders—including more than 2,400 microfinance institutions, 3,000 staff, and 57 policy makers—across 32 countries."
+summary: The Fall 2015 issue of DAI's _Developments_ newsletter is now available [online](http://dai-global-developments.com/developments/fall-2015/).
+  Leading off, Mathilde Gaston-Mathé and Emmanuel Moyart describe how the African,
+  Caribbean, and Pacific/European Union Microfinance Programme [vitalized a network](http://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners/)
+  of practitioners and stakeholders—including more than 2,400 microfinance institutions,
+  3,000 staff, and 57 policy makers—across 32 countries.
 solutions:
 - Digital
 - Agriculture and Food Security
@@ -9,10 +13,11 @@ solutions:
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The Fall 2015 issue of DAI's *Developments* newsletter is now available [online][1].
 
 Leading off, Mathilde Gaston-Mathé and Emmanuel Moyart describe how the African, Caribbean, and Pacific/European Union Microfinance Programme [vitalized a network][2] of practitioners and stakeholders—including more than 2,400 microfinance institutions, 3,000 staff, and 57 policy makers—across 32 countries.

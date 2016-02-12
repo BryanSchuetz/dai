@@ -1,7 +1,13 @@
 ---
-title: Jordan’s Customs Department—A Middle East Model—Launches Regional Training Center
+title: Jordan’s Customs Department—A Middle East Model—Launches Regional Training
+  Center
 date: 2015-11-25 18:05:00 Z
-summary: The Jordan Customs Department last week inaugurated its newly certified regional training center in Amman, a forum for customs staff from more than 10 Middle East countries to train, strengthen ties, and improve cross-border commerce and traffic. The center allows the Jordan Customs Department to conduct high-quality training for customs officers, partner government agencies, and private sector representatives in the region.
+summary: The Jordan Customs Department last week inaugurated its newly certified regional
+  training center in Amman, a forum for customs staff from more than 10 Middle East
+  countries to train, strengthen ties, and improve cross-border commerce and traffic.
+  The center allows the Jordan Customs Department to conduct high-quality training
+  for customs officers, partner government agencies, and private sector representatives
+  in the region.
 solutions: Governance
 regions: Middle East and North Africa
 projects:
@@ -10,6 +16,7 @@ clients:
 - U.S. Agency for International Development
 layout: node
 ---
+
 The Jordan Customs Department last week inaugurated its newly certified regional training center in Amman, a forum for customs staff from more than 10 Middle East countries to train, strengthen ties, and improve cross-border commerce and traffic. The center allows the Jordan Customs Department to conduct high-quality training for customs officers, partner government agencies, and private sector representatives in the region.
 
 Jordan Customs Training Center joins Egypt and Saudi Arabia as hosts of accredited, regional centers in the Middle East. The World Customs Organization (WCO)'s international network of training centers plays a critical role in the development and delivery of training services that are adapted to specific, regional customs needs.

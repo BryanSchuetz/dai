@@ -1,15 +1,20 @@
 ---
 title: Honduran NGO Wins White House Award
 date: 2015-11-20 18:05:00 Z
-summary: The Organization for Youth Empowerment (OYE), a Honduran nongovernmental organization, was honored November 19 at a reception at the home of Joe Eldridge and DAI Board Member [Maria Otero](http://www.oyehonduras.org). Earlier this week, [OYE](http://www.oyehonduras.org) was presented with the International Spotlight Award in a White House ceremony with First Lady Michelle Obama.
+summary: The Organization for Youth Empowerment (OYE), a Honduran nongovernmental
+  organization, was honored November 19 at a reception at the home of Joe Eldridge
+  and DAI Board Member [Maria Otero](http://www.oyehonduras.org). Earlier this week,
+  [OYE](http://www.oyehonduras.org) was presented with the International Spotlight
+  Award in a White House ceremony with First Lady Michelle Obama.
 solutions:
 - Economic Growth
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The Organization for Youth Empowerment (OYE), a Honduran nongovernmental organization, was honored November 19 at a reception at the home of Joe Eldridge and DAI Board Member [Maria Otero][1]. Earlier this week, [OYE][2] was presented with the International Spotlight Award in a White House ceremony with First Lady Michelle Obama.
 
 ![][3]
