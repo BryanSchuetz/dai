@@ -1,5 +1,5 @@
 ---
-title: Board
+title: The DAI Board
 layout: node
 ---
 
