@@ -1,10 +1,10 @@
 ---
 title: Agriculture and Food Security
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/economic-growth/agriculture-and-food-security"
 solutions:
 - Economic Growth
 layout: solution
-permalink: /our-work/solutions/economic-growth/agriculture-and-food-security
 ---
 
 We help communities, nations, and regions address food insecurity by championing solutions that lead to resilient and sustainable livelihoods, including increasing agricultural productivity and production, expanding opportunities to increase and diversify incomes, and promoting socially and economically responsible safety nets.

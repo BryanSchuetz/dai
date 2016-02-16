@@ -1,10 +1,10 @@
 ---
 title: Public-Private Partnerships
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/corporate/public-private-partnerships"
 solutions:
 - Corporate Services
 layout: solution
-permalink: /our-work/solutions/corporate/public-private-partnerships
 ---
 
 Addressing social and environmental challenges in developing countries is a tough job for any single organization. As a recognized leader in developing and managing successful public-private partnerships, we help our clients establish partnerships that directly support their own business and social responsibility challenges.

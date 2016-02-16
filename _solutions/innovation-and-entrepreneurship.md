@@ -1,10 +1,10 @@
 ---
 title: Innovation and Entrepreneurship
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/economic-growth/innovation-and-entrepreneurship"
 solutions:
 - Economic Growth
 layout: solution
-permalink: /our-work/solutions/economic-growth/innovation-and-entrepreneurship
 ---
 
 A pioneer of developing and implementing strategies for national competitiveness, DAI now works at the forefront of development strategies around low-carbon growth.

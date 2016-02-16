@@ -1,10 +1,10 @@
 ---
 title: Climate Change Adaptation and Mitigation
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/environment-and-energy/climate-change-adaptation-and-mitigation"
 solutions:
 - Environment and Energy
 layout: solution
-permalink: /our-work/solutions/environment-and-energy/climate-change-adaptation-and-mitigation
 ---
 
 Helping community, business, and government partners to translate climate science and global climate models into downscaled, locally viable strategies and solutions. We work with local and national governments and the private sector to develop programs and policies that will improve resilience to climate impacts, mitigate behaviors that exacerbate vulnerabilities, and protect freshwater supplies, forests, food security, and economic development.

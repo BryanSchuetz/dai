@@ -1,10 +1,10 @@
 ---
 title: Business Environment Reform
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/economic-growth/business-environment-reform"
 solutions:
 - Economic Growth
 layout: solution
-permalink: /our-work/solutions/economic-growth/business-environment-reform
 ---
 
 We have deep experience in reforming business environments to improve competitiveness of companies, industries, and countries in domestic and global markets.

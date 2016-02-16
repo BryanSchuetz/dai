@@ -1,10 +1,10 @@
 ---
 title: Value Chain Development for Agribusiness and Other Sectors
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/economic-growth/value-chain-development-agribusiness-and-other-sectors"
 solutions:
 - Economic Growth
 layout: solution
-permalink: /our-work/solutions/economic-growth/value-chain-development-agribusiness-and-other-sectors
 ---
 
 From input suppliers to end retailers, we strengthen the capabilities of all actors along a product line to meet market demand by alleviating constraints on productivity and growth, increasing access to high-quality inputs and working capital, and improving information flow.

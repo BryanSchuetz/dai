@@ -1,10 +1,10 @@
 ---
 title: Sustainable and Accountable Health Services
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/health/sustainable-and-accountable-health"
 solutions:
 - Health
 layout: solution
-permalink: /our-work/solutions/health/sustainable-and-accountable-health
 ---
 
 We engage citizens, communities, governments, and private organizations to expand access to sustainable health care. We are leaders in the development of innovative and sustainable financing approaches to expand individual and household access to health services and products, including clean water.

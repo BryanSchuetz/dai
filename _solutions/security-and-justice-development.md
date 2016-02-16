@@ -1,10 +1,10 @@
 ---
 title: Security and Justice Development
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/stability/security-and-justice-development"
 solutions:
 - Stability
 layout: solution
-permalink: /our-work/solutions/stability/security-and-justice-development
 ---
 
 Our approach to enhancing security and justice focuses on the effectiveness, accountability, and responsiveness of security and justice institutions. We

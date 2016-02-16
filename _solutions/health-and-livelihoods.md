@@ -1,10 +1,10 @@
 ---
 title: Health and Livelihoods
 date: 2016-01-22 00:11:14.114000000 Z
+permalink: "/our-work/solutions/health/health-and-livelihoods"
 solutions:
 - Health
 layout: solution
-permalink: /our-work/solutions/health/health-and-livelihoods
 ---
 
 Health and livelihoods are inextricably linked. Communities and households facing significant health challenges often face food and livelihood insecurity. Livelihoods and food security limitations undermine health, perpetuate vulnerability, and exacerbate social stigma, especially for women, vulnerable children, and persons living with HIV/AIDS.
