@@ -9,11 +9,14 @@ solutions:
 - Governance
 - Digital
 layout: expert
-image: /assets/images/experts/Adam%20inner.png
-summary: "Adam works to make interventions more efficient and more effective by introducing new technologies that help citizens report corruption, monitor biodiversity, access markets, and adapt to climate change."
+image: "/assets/images/experts/Adam%20inner.png"
+summary: Adam works to make interventions more efficient and more effective by introducing
+  new technologies that help citizens report corruption, monitor biodiversity, access
+  markets, and adapt to climate change.
 job-title: New Business Specialist, ICT
-articles:
+articles: 
 ---
+
 Standing and staring as yet another flaming wall of tires blocked the only access road to the neighborhood, it finally dawned on Adam Fivenson why Dominicans in his Peace Corps neighborhood didn't relay their demands to their local government in a more constructive manner: burning tires got the government's attention; formal channels of citizen-government accountability did not. So they burned tires. This early lesson in citizen engagement (or the lack thereof) drove Adam's interest in how citizen accountability and government transparency and can work together to improve service delivery.
 
 Five years later, Adam remains focused on citizen-based solutions to poverty. At DAI, he works to make interventions more efficient and more effective by introducing new technologies that help citizens report corruption, monitor biodiversity, access markets, and adapt to climate change. Adam supports the Initiative for Innovation in Adaptation, which is working with young innovators in Colombia to find tech-enabled solutions to climate change in rural areas, launched [Nexos Locales][3], the U.S. Agency for International Development (USAID)'s local governance project in the Western Highlands of Guatemala, and supported the USAID [Fiscal Policy and Expenditure Management Program][4] in El Salvador.
