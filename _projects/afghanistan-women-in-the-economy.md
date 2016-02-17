@@ -1,5 +1,5 @@
 ---
-title: Afghan Women’s Leadership in the Economy (AWLE)
+title: Afghanistan—Women in the Economy (WIE)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2015

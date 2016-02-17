@@ -14,7 +14,7 @@ summary: Anand helps DAI's projects integrate ICT into their activities and buil
   partnerships with local technology companies.
 job-title: Senior ICT Specialist
 articles:
-- name: Peace Inc.Foreign Policy, 2015
+- name: Peace Inc. *Foreign Policy*, 2015
   article_file: http://foreignpolicy.com/2015/01/27/peace-inc-tech-government-industry-defense-funding/
 - name: The Parochial Web *The Olive Branch*, United States Institute of Peace, 2014
   article_file: http://www.usip.org/olivebranch/the-parochial-web

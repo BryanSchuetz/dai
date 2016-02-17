@@ -648,7 +648,7 @@ iframe{
   width: 40%;
   float: left;
   @include responsive(medium-screens){
-    width: 30%;
+    width: 31.5%;
   }
 }
 .expert-details--metadata{
@@ -658,12 +658,7 @@ iframe{
     width: 65%
   }
 }
-.expert-solution, .expert-region{
-  color: lighten($button-green, 5%);
-}
-.expert-solution:hover, .expert-region:hover{
-  color: darken($button-green, 10%);
-}
+
 .expert-summary{
   clear: both;
 }
@@ -674,7 +669,7 @@ iframe{
 .badge{
   height: 1rem;
   position: relative;
-  top: .2rem;
+  top: .15rem;
 }
 .svg-badge{
   fill: currentColor;
