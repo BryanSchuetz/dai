@@ -13,13 +13,16 @@ solutions:
 - Trade
 - Value Chain Development for Agribusiness and Other Sectors
 layout: expert
-image: /assets/images/experts/Chartock_Inner.jpg
-summary: "Andrea Chartock's work at DAI focuses on promoting economic growth. She is currently Team Leader on the Agricultural Competitiveness and Enterprise Development program in Moldova."
+image: "/assets/images/experts/Chartock_Inner.jpg"
+summary: Andrea Chartock's work at DAI focuses on promoting economic growth. She is
+  currently Team Leader on the Agricultural Competitiveness and Enterprise Development
+  program in Moldova.
 job-title: Senior Development Specialist
 articles:
-- name:
-- article_file:
+- name: 
+- article_file: 
 ---
+
 Andrea Chartock's work at DAI focuses on promoting economic growth. She is currently Team Leader on the Agricultural Competitiveness and Enterprise Development (ACED) program in Moldova. Previous to that, she completed consulting assignments in Serbia, Indonesia, Ghana, Moldova, Haiti, Georgia, Kosovo, and Cambodia. She also served as the home office project team leader for the Indonesia Competitiveness Program (SENADA) and the senior tourism advisor for the Strengthening Micro, Small and Medium Enterprises in Cambodia (MSME) project. From January 2007 to April 2008, Andrea served as senior tourism advisor for the U.S. Agency for International Development (USAID)'s Enhancing Small and Medium Enterprise Performance Project in Croatia. Before that, she was deputy manager of the Accelerated Microenterprise Advancement Project Business Development Services Knowledge and Practice task order, focusing on market assessment, impact assessment, and promoting development using a value chain framework.
 
 > "I love working at DAI because of the interesting challenges we tackle and the stellar colleagues. After eight years here, I still feel I am constantly learning something new, which is both humbling and exciting."
