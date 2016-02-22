@@ -9,7 +9,7 @@ var shell       = require('gulp-shell');
 var files = ['**/*.html', '**/*.md', '**/*.markdown', '**/*.js', '**/*.scss', '!build/**/*.*'];
 
 gulp.task('build', shell.task([
-  'jekyll build --incremental'
+  'jekyll build'
 ]))
 // setup browsersync to reload browser when changes happen
 gulp.task('serve', function() {
