@@ -12,8 +12,13 @@ solutions:
 - Economic Growth
 - Gender
 layout: project
-summary: "In 2004, the eastern provinces of Afghanistan cultivated approximately one-third of Afghanistan's opium poppy. Nangarhar alone had 28,000 hectares—a 44 percent increase in area from 2003, and more than 70 percent of the households were involved in the illicit poppy economy, double the national average. In 2005, after a strong enforcement campaign by the governor, the poppy-growing area was reduced by 90 percent."
+summary: In 2004, the eastern provinces of Afghanistan cultivated approximately one-third
+  of Afghanistan's opium poppy. Nangarhar alone had 28,000 hectares—a 44 percent increase
+  in area from 2003, and more than 70 percent of the households were involved in the
+  illicit poppy economy, double the national average. In 2005, after a strong enforcement
+  campaign by the governor, the poppy-growing area was reduced by 90 percent.
 ---
+
 In 2004, the eastern provinces of Afghanistan cultivated approximately one-third of Afghanistan's opium poppy. Nangarhar alone had 28,000 hectares—a 44 percent increase in area from 2003, and more than 70 percent of the households were involved in the illicit poppy economy, double the national average. In 2005, after a strong enforcement campaign by the governor, the poppy-growing area was reduced by 90 percent. The farmers in these areas plant poppy because they can make more money growing poppy than they can growing any of the many alternative crops available to them. The U.S. Agency for International Development (USAID)-funded ADP/E was one part of a multipillar strategy to reduce poppy cultivation, a balanced approach of incentives and disincentives that included public information, eradication, interdiction, prosecution, and alternative livelihoods. ADP/E's goal was to accelerate broad-based, sustainable regional economic development in the Eastern Region. The project aimed to help accelerate licit economic growth and business activity and provide an immediate alternative source of income to poor households whose livelihoods depend, directly or indirectly, on the opium economy.
 
 ![][1]
