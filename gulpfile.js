@@ -8,9 +8,8 @@ var shell       = require('gulp-shell');
 // exclude rendered files to avoid duplicate hits to the watch process
 var files = ['**/*.html', '**/*.md', '**/*.markdown', '**/*.js', '**/*.scss', '!build/**/*.*'];
 
-// build Jekyll, only the stuff that's changed since last time (documentation calls incremental mode experimental)
 gulp.task('build', shell.task([
-  'jekyll build'
+  'jekyll build --incremental'
 ]))
 // setup browsersync to reload browser when changes happen
 gulp.task('serve', function() {
