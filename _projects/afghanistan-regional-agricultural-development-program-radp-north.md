@@ -13,7 +13,7 @@ solutions:
 - Agriculture and Food Security
 layout: project
 summary: Through partnerships with USAID, Afghan Government agencies such as the Ministry
-  of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s
+  of Agriculture, Irrigation, and Livestock and the Directorate of Women’s
   Affairs, and myriad development projects focused on stability, infrastructure, and
   agriculture, RADP-North leverages investments in agricultural value chains to optimize
   cost-effectiveness and incorporate lessons learned.

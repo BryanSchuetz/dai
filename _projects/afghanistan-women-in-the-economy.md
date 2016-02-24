@@ -20,7 +20,7 @@ solutions:
 layout: project
 summary: The U.S Agency for International Development, in continuing its longstanding
   commitment to women in Afghanistan, has launched the Afghan Women’s Leadership in
-  the Economy (AWLE) project.
+  the Economy project.
 ---
 
 The U.S Agency for International Development, in continuing its longstanding commitment to women in Afghanistan, has launched the Afghan Women’s Leadership in the Economy (AWLE) project. The project aims to ensure that the progress Afghan women have made over the past decade not only endures but advances.

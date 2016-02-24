@@ -337,6 +337,9 @@ aside{
     width: 25%;
   }
 }
+.project-detail--solution-link:not(:last-child)::after{
+  content: ",";
+}
 // 🎌 FOOTER 🎌
 
 footer{
