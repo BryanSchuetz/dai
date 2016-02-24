@@ -140,7 +140,3 @@ exclude:
 sass:
   sass_dir: assets/_sass
 baseurl: ''
-compress:
-  js: uglifier
-sources:
-  - assets/js
