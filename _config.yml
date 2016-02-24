@@ -127,9 +127,6 @@ excerpt_separator: "<!--more-->"
 markdown: kramdown
 destination: "./build"
 permalink: "/:title"
-gems:
-  - 'jekyll-assets'
-  - 'uglifier'
 exclude:
 - README.md
 - ".gitignore"
