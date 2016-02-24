@@ -17,8 +17,12 @@ solutions:
 - Public Financial Management
 - Law and Justice
 layout: project
-summary: The Assistance to Legislative Bodies of Afghanistan works to prepare both houses of Parliament for greater self-reliance. The program provides issue-based assistance that focuses training and capacity building on actual bills or policies that Members of Parliament and staff are addressing.
+summary: The Assistance to Legislative Bodies of Afghanistan works to prepare both
+  houses of Parliament for greater self-reliance. The program provides issue-based
+  assistance that focuses training and capacity building on actual bills or policies
+  that Members of Parliament and staff are addressing.
 ---
+
 The Assistance to Legislative Bodies of Afghanistan (ALBA) works to prepare both houses of Parliament for greater self-reliance. The program provides issue-based assistance that focuses training and capacity building on actual bills or policies that Members of Parliament (MPs) and staff are addressing. By the end of the program, our goal is for parliamentary committees to be actively reviewing legislation and conducting policy oversight as MPs increase dialogue with citizens, civil society, and media. The Parliament will create a cadre of staff able to provide regular, topical research, and legislative and budget analysis to MPs. Parliament will also provide a stronger and more consistent check on the executive branch and operate as a more independent and effective legislative, representative, and oversight body.
 
 ![][1]
