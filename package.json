@@ -1,0 +1,14 @@
+{
+  "name": "dai",
+  "version": "1.0.0",
+  "description": "Node stuff for dai.com",
+  "main": "gulpfile.js",
+  "author": "Bryan Schuetz",
+  "dependencies":{
+    "gulp": "",
+    "browser-sync": "",
+    "hygienist-middleware": "",
+    "gulp-shell": "",
+    "gulp-uglify": "",
+  }
+}
