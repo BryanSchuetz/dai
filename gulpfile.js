@@ -5,11 +5,12 @@ var bs          = require('browser-sync');
 var hygienist   = require('hygienist-middleware');
 var reload      = bs.reload;
 var shell       = require('gulp-shell');
+var uglify      = require('gulp-uglify');
 // exclude rendered files to avoid duplicate hits to the watch process
 var files = ['**/*.html', '**/*.md', '**/*.markdown', '**/*.js', '**/*.scss', '!build/**/*.*'];
 
 gulp.task('build', shell.task([
-  'bundle exec jekyll build'
+  'bundle exec jekyll build --incremental'
 ]))
 // setup browsersync to reload browser when changes happen
 gulp.task('serve', function() {
@@ -20,6 +21,12 @@ gulp.task('serve', function() {
         },
         notify: false,
     });
+});
+// compress javascript assets
+gulp.task('compress', function(){
+  return gulp.src('build/assets/js/site.js')
+    .pipe(uglify())
+    .pipe(gulp.dest('build/assets/js'))
 });
 // look for changes to **source files**, then trigger a new incremental build and reload the browser
 gulp.task('watch', function(){
