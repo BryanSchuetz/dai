@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html style="height: 100%;">
+<head>
+<meta charset=utf-8 />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<title>DAI Clients At A Glance</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+  .legend label{
+  font-size: 13px;
+  color:#808080;
+
+}
+.legend span {
+  display:block;
+  float:left;
+  height:10px;
+  width:10px;
+  margin-right: 5px;
+  margin-top: 6px;
+  }
+.legend p{
+  margin-bottom: 5px;
+}
+.legend-marker{
+  margin-right: 3px;
+  height: 23px;
+  margin-left: -2px;
+  margin-top: 1px;
+  float: left;
+}
+.layer-marker{
+  margin-top: -1px;
+}
+</style>
+</head>
+<body>
+
+<div id='legend' style='display:none;'>
+  <strong>DAI Activity Worldwide</strong>
+  <nav class='legend clearfix'>
+  <p><span style='background:#4B8E2F'></span><label>Countries with active projects</label></p>
+  <p><span style='background:#ACD7A6;'></span><label>Countries with previous projects</label></p>
+  <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to list all active projects</label></p>
+  <p><img class="legend-marker layer-marker" src="http://ksdai.org/at-a-glance/layers.png" alt=""><label>Click to explore client layers</label></p>
+</div>
+<div id='map'></div>
+ 
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
+var map = L.mapbox.map('map',{
+  minzoom: 3,
+  maxzoom: 4
+}).setView([23.645, 44.824], 3);
+
+var features = L.mapbox.featureLayer('dai.l4pp7odf').addTo(map);
+map.legendControl.addLegend(document.getElementById('legend').innerHTML);
+map.addLayer(L.mapbox.tileLayer('dai.l4pp7odf'));
+L.control.layers({
+    'DAI activity worldwide': L.mapbox.tileLayer('dai.l4pp7odf'),
+    'Countries with active USAID projects': L.mapbox.tileLayer('dai.6f9d4059'),
+    'Countries with active DFID projects': L.mapbox.tileLayer('dai.7e60702c'),
+    'Countries with active EC projects': L.mapbox.tileLayer('dai.7a6366a4')
+  }).addTo(map);
+</script>
+
+
+</body>
+</html>

@@ -12,16 +12,18 @@
   <div class="section-primary">
     <h1 class="section-header">Stories</h1>
     <div class="primary-block split left">
-      <h3>Science into Action in Southeast Asia</h3>
-      <img src="/assets/images/home/climate-1.jpg" alt="">
-      <p>Awareness of our changing climate has steadily grown over the past decade, but its impacts are viewed as intermittent and fleeting: a big flood or the doubling of the price of rice. News reports and climate change studies suggest widespread threats to our health and socioeconomic wellbeing, but often fail to explain how to adapt to the nuances of a shifting climate.</p>
-      <a href="" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+      {% for story in site.stories limit: 1 %}
+      <h3>{{ story.title}}</h3>
+      {{ story.excerpt }}
+      <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+      {% endfor %}
     </div>
     <div class="primary-block split right">
-      <h3>Improving Law and Justice in the Dominican Republic</h3>
-      <img src="/assets/images/home/justice.jpg" alt="">
-      <p>When DAI was called on to implement Proyecto de Justicia de USAID, it set ambitious goals. Among them: strengthen the country's criminal investigation and prosecution system, and build the judiciary's capacity to manage complex cases and caseloads. While the effort bolstered the country's law and justice services, some of the project's most heartfelt successes emanated from its most local component: the Casas Comunitarias de Justicia.</p>
-      <a href="" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+      {% for story in site.stories limit:1 offset:1 %}
+      <h3>{{ story.title }}</h3>
+      {{ story.excerpt }}
+      <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+      {% endfor %}
     </div>
   </div>
 </div>

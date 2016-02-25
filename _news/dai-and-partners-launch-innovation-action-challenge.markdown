@@ -7,14 +7,19 @@ summary: DAI and three key partners announced the launch of the [Innovation into
   in the lives of people in emerging and transitioning nations.
 solutions:
 - Digital
-regions: 
-projects: 
+regions:
+projects:
 clients:
 - U.S. Agency for International Development
 layout: node
+featured: true
 ---
 
 DAI and three key partners announced the launch of the [Innovation into Action Challenge](https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai), a new challenge designed to support innovations with the potential to make a difference in the lives of people in emerging and transitioning nations.
+
+![](/assets/images/news/logo_news.jpg)
+
+<!--more-->
 
 The Innovation into Action Challenge is presented by DAI; [USAID’s Global Development Lab](https://www.usaid.gov/GlobalDevLab); the Innovation Program of Montgomery County, Maryland; and the Denver, Colorado-based [Global Accelerator Network (GAN)](http://gan.co/). The partners gathered at a January 28 kickoff event sponsored by Montgomery County and hosted at DAI’s Bethesda headquarters.
 
