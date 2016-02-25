@@ -340,6 +340,31 @@ aside{
 .project-detail--solution-link:not(:last-child)::after{
   content: ",";
 }
+.wufoo-form{
+  iframe{
+    min-height: 1500px;
+  }
+}
+// 🎌 Default 🎌
+
+@include responsive(small-screens){
+.contact-us{
+  width: 40%;
+}
+.us{
+  float: left;
+
+}
+.uk{
+  float: right;
+}
+
+}
+.project-login{
+  .region{
+    margin-left: 1rem;
+  }
+}
 // 🎌 FOOTER 🎌
 
 footer{
@@ -621,11 +646,13 @@ iframe{
     }
     svg{
       height: .8rem;
+      width: .8rem;
       position: relative;
       top: .1rem;
       margin-right: .2rem;
       @include responsive(ultra-wide-screens){
         height: 1rem;
+        width: 1rem;
         top: .2rem;
       }
     }
@@ -671,6 +698,7 @@ iframe{
 }
 .badge{
   height: 1rem;
+  width: 1rem;
   position: relative;
   top: .15rem;
 }
