@@ -1,5 +1,5 @@
 ---
-title: "Project Login (TAMIS)"
+title: Project Login (TAMIS)
 layout: default
 ---
 
