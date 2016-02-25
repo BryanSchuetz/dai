@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Frequently Asked Questions
+layout: default
 ---
+
 # Frequently Asked Questions
 
 Don't see the answer you're looking for below? [Send us your question][1] and we'll find an answer for you.
