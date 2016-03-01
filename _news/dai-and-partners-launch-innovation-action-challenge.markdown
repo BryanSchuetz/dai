@@ -7,8 +7,8 @@ summary: DAI and three key partners announced the launch of the [Innovation into
   in the lives of people in emerging and transitioning nations.
 solutions:
 - Digital
-regions:
-projects:
+regions: 
+projects: 
 clients:
 - U.S. Agency for International Development
 layout: node
