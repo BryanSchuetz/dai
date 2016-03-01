@@ -12,7 +12,9 @@
       {{ page.title }} &middot; {{ site.data.meta.title }}
     {% endif %}
   </title>
-
+  {% unless jekyll.environment == 'production' %}
+    <script type="text/javascript" src="http://localhost:35729/livereload.js"></script>
+  {% endunless %}
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css">
   <!-- Icons -->
