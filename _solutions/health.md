@@ -8,6 +8,7 @@ summary: Providing the technical skills, expertise, and local knowledge to deliv
   threats to HIV/AIDS to waterborne diseases.
 layout: solution
 type: primary
+permalink: /our-work/solutions/health.html
 ---
 
 **Innovating global health solutions to save lives.**

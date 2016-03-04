@@ -1,6 +1,6 @@
 ---
 title: United States
-permalink: "/who-we-are/global-reach/united-states"
+permalink: "/who-we-are/global-reach/united-states.html"
 layout: node
 ---
 

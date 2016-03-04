@@ -5,13 +5,17 @@
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
     <div class="button-group filter-button-group">
-    {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }} "> {{ solution.icon }} {{ solution.title }}</button>{% endfor %}
+      {% for solution in primary_solutions %}
+        <button data-filter=".{{ solution.title | slugify }} "> {{ solution.icon }} {{ solution.title }}</button>
+      {% endfor %}
     </div>
   </div>
   <div class="region">
     <h3>Filter by Region</h3>
     <div class="button-group filter-button-group">
-    {% for region in site.regions %}<button data-filter=".{{ region.title | slugify}}" class="filter--region"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </button>{% endfor %}
+      {% for region in site.regions %}
+        <button data-filter=".{{ region.title | slugify}}" class="filter--region"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </button>
+      {% endfor %}
     </div>
   </div>
   <hr>

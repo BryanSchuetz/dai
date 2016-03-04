@@ -8,6 +8,7 @@ summary: 'Strengthening and improving government performance by providing techni
   and citizens. '
 layout: solution
 type: primary
+permalink: /our-work/solutions/governance.html
 ---
 
 **Building effective economic and democratic governance**
