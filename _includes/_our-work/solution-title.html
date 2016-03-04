@@ -1,8 +1,0 @@
-{% assign parent = page.url | split:"/" %}
-{% assign primary_solutions = site.solutions | where:"type", "primary" %}
-{% for solution in primary_solutions %}
-  {% assign solution_slug = solution.title | slugify %}
-  {% if solution_slug contains parent[3]  %}
-    <h1 class="solution-title">{{ solution.icon }} {{ page.title }}</h1>
-  {% endif %}
-{% endfor %}

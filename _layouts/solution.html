@@ -2,5 +2,16 @@
 layout: default
 ---
 {% include node-nav-block.html %}
-{% include _our-work/solution-title.html %}
+{% if page.type == 'primary' %}
+  <h1 class="solution-title">{{ page.icon }} {{ page.title }}</h1>
+  {% else %}
+    {% assign primary_solutions = site.solutions | where:"type","primary" %}
+    {% for solution in page.solutions %}
+      {% for primary_solution in primary_solutions  %}
+        {% if solution == primary_solution.title %}
+          <h1 class="solution-title">{{ primary_solution.icon }} {{ page.title }}</h1>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+{% endif %}
 {{ content }}
