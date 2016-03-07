@@ -1,0 +1,29 @@
+{
+  "name": "dai",
+  "version": "3.0.0",
+  "description": "primary corporate website for dai, a global development company",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanSchuetz/dai.git"
+  },
+  "keywords": [
+    "dai"
+  ],
+  "author": "bryan schuetz",
+  "bugs": {
+    "url": "https://github.com/BryanSchuetz/dai/issues"
+  },
+  "homepage": "https://github.com/BryanSchuetz/dai#readme",
+  "devDependencies": {
+    "surge": "^0.17.7",
+    "gulp": "",
+    "browser-sync": "",
+    "hygienist-middleware": "",
+    "gulp-shell": "",
+    "gulp-uglify": ""
+  }
+}
