@@ -1,12 +1,30 @@
 <script>
   $(document).ready(function() {
-
+    function checkSize(){
+      if ($("header").height() > 118){
+          offsetf = -165;
+      } else if ($("header").height() > 91 ){
+        offsetf = -148
+      }
+      else if ($("header").height() > 65 ){
+        offsetf = -117
+      } else {
+        offsetf = -80
+      }
+      console.log(offsetf);
+      $('.header-nav--main a').smoothScroll({
+        offset: offsetf
+      });
+    }
+    var offsetf = -126;
+    console.log(offsetf);
+    checkSize();
+    console.log(offsetf);
+    $(window).resize(checkSize);
 //Smooth-scroll to the on-page section//
-
     $('.header-nav--main a').smoothScroll({
-      offset: -145,
+      offset: offsetf
     });
-
 // Watch for hash links being loaded externally to smooth-scroll to them
 
     /* Take over default page anchor functionality */

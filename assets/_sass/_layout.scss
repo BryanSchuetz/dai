@@ -1,7 +1,7 @@
 // 🎌 HEROBOX 🎌
 .gallery {
   background: #fff;
-  padding-top: 7rem;
+  padding-top: 6.5rem;
 }
 
 .gallery-cell {
@@ -110,30 +110,42 @@ header{
   margin-right: auto;
   margin-left: auto;
 }
-
+.header-inner--logo{
+  display: block;
+  float: left;
+}
 // 🎌 HEADER: UTILITY NAVIGATION 🎌
-.st-ui-injected-overlay-container .st-ui-header input[type="text"]:focus{
-  border-bottom: 2px solid $link-green !important;
+.st-ui-injected-overlay-container *:not(select){
+  font-family: 'proxima-nova', helvetica, arial, sans-serif !important;
+  .st-ui-header input[type="text"]:focus{
+    border-bottom: 2px solid $link-green !important;
+  }
 }
 .st-ui-pagination-link{
   color: $link-green !important;
 }
+.st-ui-arrow{
+  border-color: $link-green !important;
+}
 .st-default-search-input.header-search{
+  display: none;
+  font-family: 'proxima-nova', helvetica, arial, sans-serif;
   background-color: $nav-gray;
   background-image: none;
   font-size: .7rem;
   height: .7rem;
-  width: 100%;
   @include responsive(small-screens){
     float: right;
     width: 4rem;
     padding-left: .5rem;
   }
   @include responsive(medium-screens){
+    display: block;
     padding-left: 1.5rem;
     background-size: .7rem;
     background-position: .4rem .4rem;
     width: 5rem;
+    background-repeat: no-repeat;
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG11AABzoAAA%2FN0AAINkAABw6AAA7GgAADA%2BAAAQkOTsmeoAAAIKSURBVHjatNbPi81RGMfx1x0zio3yKzOLiSLyK1OzYEpSczYUycbCQk3DJAsxZGejWSGh%2FFr5AyxQlJOkCZPFSGlKxmzMj0SymBoLZmzOrdPN%2Fd57p%2FFZnc%2Fz7fT%2BPs85z%2FP9lrq7u1XRahxEJ1rxC1MYxmP8gBijetRcBXARvWipsm8GNzGAn%2FWAmir8LrzHyQIILME5DIcQtjUK2osXWJPFXuIMDqQynseb7Pk6DIYQttQCldIZrcKHVDaYxNEE%2Fpf24T5WJj%2BKjhjjdK2MLmWQcewsgMATdOFb8utxoVbpluNYFuvBlzrK%2FimdZVl9IYSWItB%2BLE5%2BCM%2FUrwcYSesV2F0E2p75hxrTHB5lvrMI1Jb5zxrXaLZuLQL9zvyieYDypp8tAk1mftM8QBuz9UQRaDjzh1FqMJtDmX9dBHqKcqNtxZEGQD1Ym2Xztgg0jRtZ7BZ21AHpwtXMX4sxztaaDAP4mNbLMJjetqlKuU7hOZam2Fdcr2fWlcfIUGq8ssZSn4yls9uQBmx7RS%2BVcBd9Mca5WiDYnLq93ts3VdE7VWGVpRlBB%2FrxvQAwnuZcO65k8eO4HUIo1cooVwv2pLHSlj7lE3iHV%2FhT%2FpSHEC7jbLb3Hk7kmRWB6lL5n6EWrMkCKcbYX1HGXtwpl3HBQLVgCwoqgi04qApsptl%2FUoyxP4RQvr2n%2Fw4AIvqLpmbxnMcAAAAASUVORK5CYII%3D);
   }
   @include responsive(wide-screens){
@@ -371,7 +383,7 @@ footer{
   margin-top: 2rem;
 }
 .footer-inner{
-  min-height: 300px;
+  min-height: 500px;
   @include clearfix;
 }
 
