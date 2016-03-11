@@ -1,7 +1,6 @@
 ---
 title: Stability
 date: 2016-01-21 18:23:00.492000000 Z
-permalink: "/our-work/solutions/stability.html"
 icon: <svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#stability-badge"></use></svg>
 summary: Partnering with government, civil society, and private sector actors to provide

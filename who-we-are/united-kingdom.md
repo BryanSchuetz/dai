@@ -1,6 +1,6 @@
 ---
 title: United Kingdom
-permalink: "/who-we-are/global-reach/united-kingdom.html"
+permalink: "/who-we-are/global-reach/united-kingdom"
 layout: node
 ---
 

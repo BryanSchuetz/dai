@@ -1,7 +1,6 @@
 ---
 title: Environment and Energy
 date: 2016-01-21 18:23:00.492000000 Z
-permalink: "/our-work/solutions/environment-and-energy.html"
 icon: <svg class="env-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#env-badge"></use></svg>
 summary: Improved management of natural resources and important ecosystem services

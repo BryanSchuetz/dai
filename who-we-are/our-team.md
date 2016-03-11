@@ -1,6 +1,5 @@
 ---
 title: Our Team
-permalink: "/who-we-are/our-team.html"
 layout: node
 ---
 

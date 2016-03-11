@@ -1,6 +1,5 @@
 ---
 title: Leadership
-permalink: "/who-we-are/leadership.html"
 layout: node
 ---
 

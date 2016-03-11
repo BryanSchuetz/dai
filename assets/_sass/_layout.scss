@@ -7,7 +7,7 @@
 .gallery-cell {
   width: 100%;
   margin-right: 10px;
-  background: #8C8;
+  background: #8C8; 
 }
 
 /* cell number */
@@ -157,6 +157,16 @@ header{
 }
 .header-utility_nav{
   background-color: $nav_black;
+  height: 32px;
+  @include responsive(small-screens){
+    height: 44px;
+  }
+  @include responsive(medium-screens){
+    height: 59.188px;
+  }
+  @include responsive(wide-screens){
+    height: 64.594px;
+  }
 }
 // 🎌 HEADER: PRIMARY NAVIGATION 🎌
 
