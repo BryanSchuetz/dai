@@ -7,17 +7,17 @@ summary: DAI and three key partners announced the launch of the [Innovation into
   in the lives of people in emerging and transitioning nations.
 solutions:
 - Digital
-regions: 
-projects: 
+regions:
+projects:
 clients:
 - U.S. Agency for International Development
 layout: node
 featured: true
 ---
+![innovation into action](/assets/images/news/logo_news.jpg)
 
 DAI and three key partners announced the launch of the [Innovation into Action Challenge](https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai), a new challenge designed to support innovations with the potential to make a difference in the lives of people in emerging and transitioning nations.
 
-![](/assets/images/news/logo_news.jpg)
 
 <!--more-->
 
