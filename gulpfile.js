@@ -9,7 +9,7 @@ var uglify      = require('gulp-uglify');
 // exclude rendered files to avoid duplicate hits to the watch process
 var files = ['**/*.html', '**/*.md', '**/*.markdown', '**/*.js', '**/*.scss', '!build/**/*.*'];
 gulp.task('build', shell.task([
-  'bundle exec jekyll build --incremental'
+  'bundle exec jekyll build'
 ]))
 // setup browsersync to reload browser when changes happen
 gulp.task('serve', function() {
