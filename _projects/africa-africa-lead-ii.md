@@ -12,8 +12,11 @@ solutions:
 - Economic Growth
 - Agriculture and Food Security
 layout: project
-summary: "In 2009, the U.S. Government's Feed the Future initiative was born of the belief that global hunger is solvable; that initiative is now helping support and advance African-led agricultural transformation through Africa Lead II."
+summary: In 2009, the U.S. Government's Feed the Future initiative was born of the
+  belief that global hunger is solvable; that initiative is now helping support and
+  advance African-led agricultural transformation through Africa Lead II.
 ---
+
 In 2009, the U.S. Government's Feed the Future initiative was born of the belief that global hunger is solvable; that initiative is now helping support and advance African-led agricultural transformation through [Africa Lead II][1].
 
 Following on the original [Africa Lead project][2], Africa Lead II is [building the capacity][3] of Africa's agriculture hierarchy to develop, manage, and lead programs. Our work with these professionals, institutions, and emerging stars is guided by the African Union's Comprehensive Africa Agriculture Development Program (CAADP), based in South Africa.
