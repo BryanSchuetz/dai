@@ -12,8 +12,11 @@ solutions:
 - Governance
 - Stability
 layout: project
-summary: "Security and justice are essential to countries in sub-Saharan Africa. They create an environment in which poverty-reducing development can occur and help reduce the incidence of violent conflict."
+summary: Security and justice are essential to countries in sub-Saharan Africa. They
+  create an environment in which poverty-reducing development can occur and help reduce
+  the incidence of violent conflict.
 ---
+
 Security and justice are essential to countries in sub-Saharan Africa. They create an environment in which poverty-reducing development can occur and help reduce the incidence of violent conflict. People and the communities and states they live in will not develop economically, socially, or politically without an environment of safety and security or without equitable access to justice. We are [working with the Government of Sierra Leone][1] to consolidate peace and stability by increasing access to responsive, accountable, and effective security and justice services, especially for the poor, vulnerable, and those living in remote and marginalized areas. ASJP focuses on local ownership, on ensuring sustainability of the reform process, and on enhancing security and justice service provision outside of the capital, Freetown, especially in remote areas. It is designed to align with the Government of Sierra Leone's Justice Sector Reform Strategy and Investment Plan and to pay particular attention to the needs of women.
 
 ![][2]
