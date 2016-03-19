@@ -12,8 +12,11 @@ solutions:
 - Economic Growth
 - Governance
 layout: project
-summary: "To develop a competitive and dynamic non-oil economy, particularly one based on pro-poor growth, Nigeria needs to pursue innovation and reform in its policy and public investment framework."
+summary: To develop a competitive and dynamic non-oil economy, particularly one based
+  on pro-poor growth, Nigeria needs to pursue innovation and reform in its policy
+  and public investment framework.
 ---
+
 To develop a competitive and dynamic non-oil economy, particularly one based on pro-poor growth, Nigeria needs to pursue innovation and reform in its policy and public investment framework.
 
 Funded by the U.K. Department for International Development (DFID), this Abuja-based facility is increasing capacity throughout Nigeria to craft and implement evidence-based policies and initiatives. These may be in: economics (macro, fiscal, industry), trade and trade relations, private sector development, public expenditure management, tax policy and regulation, fiscal decentralisation, social development, poverty analysis, and social impact assessment.

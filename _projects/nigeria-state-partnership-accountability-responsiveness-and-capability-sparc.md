@@ -1,5 +1,6 @@
 ---
-title: Nigeria—State Partnership for Accountability Responsiveness and Capability (SPARC)
+title: Nigeria—State Partnership for Accountability Responsiveness and Capability
+  (SPARC)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
 start-date: 2008
@@ -15,8 +16,11 @@ solutions:
 - Security and Justice Development
 - Public Financial Management
 layout: project
-summary: "SPARC is building the capacity of Nigeria's state governments to support responsive planning and policy formulation, enhanced public financial management and human resources systems, and performance-focused public service."
+summary: SPARC is building the capacity of Nigeria's state governments to support
+  responsive planning and policy formulation, enhanced public financial management
+  and human resources systems, and performance-focused public service.
 ---
+
 SPARC is building the capacity of Nigeria's state governments to support responsive planning and policy formulation, enhanced public financial management and human resources systems, and performance-focused public service. The programme was initially active in the states of Lagos, Enugu, Kaduna, Kano, and Jigawa, with five more states added in 2012. Because SPARC works with only a selection of Nigeria's 36 states, federal institutions are being assisted in their capacity to support the reform process across the federation. State-to-state learning and knowledge exchange has also been encouraged.
 
 [SPARC][1] generates success by being embedded and responsive through political and programming cycles, and through technical and political engagement approaches that are politically savvy and locally led.

@@ -13,7 +13,8 @@ solutions:
 - Economic Growth
 - Health
 layout: project
-summary: "Half of all Liberians generate their income through agriculture, yet agriculture is not seen as a business by the vast majority of Liberian farmers."
+summary: Half of all Liberians generate their income through agriculture, yet agriculture
+  is not seen as a business by the vast majority of Liberian farmers.
 ---
 
 Half of all Liberians generate their income through agriculture, yet agriculture is not seen as a business by the vast majority of Liberian farmers. Using an approach tailored to specific conditions and locations, this project is helping Liberia achieve food security—in terms of food availability, utilization, and affordability—by building incentive structures that assist local stakeholders to adopt a commercial approach.

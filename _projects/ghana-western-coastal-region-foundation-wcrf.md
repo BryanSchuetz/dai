@@ -2,7 +2,7 @@
 title: Ghana Western Coastal Region Foundation (WCRF)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2014  
+start-date: 2014
 end-date: 2019
 regions:
 - Sub-Saharan Africa
@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "The WRCF is focused on helping to build local supply chains, improve stability, and promote inclusive economic development for poor communities in the six coastal districts in Ghana tied to the oil and gas sector. The project will focus on crowding-in private sector corporate funding from oil and gas companies and building trusted relationships between coastal communities and oil and gas companies.
-"
+summary: 'The WRCF is focused on helping to build local supply chains, improve stability,
+  and promote inclusive economic development for poor communities in the six coastal
+  districts in Ghana tied to the oil and gas sector. The project will focus on crowding-in
+  private sector corporate funding from oil and gas companies and building trusted
+  relationships between coastal communities and oil and gas companies. '
 ---
+
 The WRCF is focused on helping to build local supply chains, improve stability, and promote inclusive economic development for poor communities in the six coastal districts in Ghana tied to the oil and gas sector. The project will focus on crowding-in private sector corporate funding from oil and gas companies and building trusted relationships between coastal communities and oil and gas companies.
 
 During the one-year inception phase that concludes in October 2015, we will agree on program direction, launch pilot initiatives, and establish operations.

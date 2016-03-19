@@ -14,8 +14,9 @@ solutions:
 - Governance
 - Natural Resource Management
 layout: project
-summary: "In 2011, the European Union and the Government of Liberia concluded a Voluntary Partnership Agreement (VPA) under the European Union's Forest Law Enforcement, Governance and Trade (FLEGT) Action Plan.
-"
+summary: 'In 2011, the European Union and the Government of Liberia concluded a Voluntary
+  Partnership Agreement (VPA) under the European Union''s Forest Law Enforcement,
+  Governance and Trade (FLEGT) Action Plan. '
 ---
 
 In 2011, the European Union and the Government of Liberia concluded a Voluntary Partnership Agreement (VPA) under the European Union's Forest Law Enforcement, Governance and Trade (FLEGT) Action Plan.
