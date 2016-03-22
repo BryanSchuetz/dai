@@ -7,7 +7,7 @@
 .gallery-cell {
   width: 100%;
   margin-right: 10px;
-  background: #8C8; 
+  background: #8C8;
 }
 
 /* cell number */
@@ -677,7 +677,7 @@ iframe{
       }
     }
   }
-  a:hover, a.active, button:hover, button.active{
+  a:hover, a.active, button:hover, button.active, .is-checked{
     color: $nav-black;
     border: 1px solid $nav-black;
   }

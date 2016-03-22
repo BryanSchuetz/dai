@@ -15,13 +15,13 @@ layout: default
     {% endfor %}
   {% endfor %}
 </p>
-<p class="project-detail"><strong>Country:</strong> {{ page.country }}</p>
+<p class="project-detail"><strong>Country: </strong>{% for country in page.country %}{% unless forloop.last %}{{ country }}, {% else %}{{ country }}{% endunless %}{% endfor %}</p>
 {% assign site_solutions = site.solutions | where:"type","primary" %}
 <p class="project-detail"><strong>Technical Focus:</strong>
 {% for solution in page.solutions %}
   {% for site_solution in site_solutions %}
     {% if solution == site_solution.title  %}
-<a class="project-detail--solution-link" href="{{ site_solution.url }}">{{ solution }}</a> 
+<a class="project-detail--solution-link" href="{{ site_solution.url }}">{{ solution }}</a>
     {% endif %}
   {% endfor %}
 {% endfor %}</p>
