@@ -12,8 +12,10 @@ solutions:
 - Economic Growth
 - Land Tenure
 layout: project
-summary: "While still one of the poorest countries in the world, Ethiopia has made many advances in reducing the level of poverty and increasing agricultural production. The pace of these advances however, is constrained by inefficiencies in the rural land sector and weak documentation and management of land rights.
-"
+summary: 'While still one of the poorest countries in the world, Ethiopia has made
+  many advances in reducing the level of poverty and increasing agricultural production.
+  The pace of these advances however, is constrained by inefficiencies in the rural
+  land sector and weak documentation and management of land rights. '
 ---
 
 While still one of the poorest countries in the world, Ethiopia has made many advances in reducing the level of poverty and increasing agricultural production. The pace of these advances however, is constrained by inefficiencies in the rural land sector and weak documentation and management of land rights.

@@ -12,8 +12,10 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: project
-summary: "FoodTrade ESA works to systemically improve the national and regional staple food market systems, directly impacting more than 400,000 households and consumers through stable markets for staple food products. The program works to enable private sector to invest and develop regional staple markets, benefiting farmers and consumers.
-"
+summary: 'FoodTrade ESA works to systemically improve the national and regional staple
+  food market systems, directly impacting more than 400,000 households and consumers
+  through stable markets for staple food products. The program works to enable private
+  sector to invest and develop regional staple markets, benefiting farmers and consumers. '
 ---
 
 FoodTrade ESA works to systemically improve the national and regional staple food market systems, directly impacting more than 400,000 households and consumers through stable markets for staple food products. The program works to enable private sector to invest and develop regional staple markets, benefiting farmers and consumers.

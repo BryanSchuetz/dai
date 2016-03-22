@@ -15,8 +15,11 @@ solutions:
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
 layout: project
-summary: "Growth in the five East African Community Partner States—Burundi, Kenya, Rwanda, Tanzania, and Uganda—has been robust but uneven, with millions of people left behind in poverty. Women, youth, smallholder farmers, and the poor are not fully represented in policy making or implementation nor integrated into the wider economic community.
-"
+summary: 'Growth in the five East African Community Partner States—Burundi, Kenya,
+  Rwanda, Tanzania, and Uganda—has been robust but uneven, with millions of people
+  left behind in poverty. Women, youth, smallholder farmers, and the poor are not
+  fully represented in policy making or implementation nor integrated into the wider
+  economic community. '
 ---
 
 Growth in the five East African Community Partner States—Burundi, Kenya, Rwanda, Tanzania, and Uganda—has been robust but uneven, with millions of people left behind in poverty. Women, youth, smallholder farmers, and the poor are not fully represented in policy making or implementation nor integrated into the wider economic community.

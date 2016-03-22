@@ -12,8 +12,9 @@ solutions:
 - Economic Growth
 - Gender
 layout: project
-summary: "This program is helping generate access to finance, good quality jobs, and increased incomes for Ethiopia's poor. To achieve its overall end, DAI and consortium partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars:
-"
+summary: 'This program is helping generate access to finance, good quality jobs, and
+  increased incomes for Ethiopia''s poor. To achieve its overall end, DAI and consortium
+  partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars: '
 ---
 
 This program is helping generate access to finance, good quality jobs, and increased incomes for Ethiopia's poor. To achieve its overall end, DAI and consortium partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars:

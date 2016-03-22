@@ -3,7 +3,7 @@ title: Uganda—Governance, Accountability, Participation and Performance Progra
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2013
-end-date: 2020  
+end-date: 2020
 regions:
 - Sub-Saharan Africa
 country:
@@ -11,8 +11,9 @@ country:
 solutions:
 - Governance
 layout: project
-summary: "GAPP is improving the environment in Uganda—legal, policy, regulatory, and institutional—to meet demands for democratic governance and the participation of citizens and communities in local governance.
-"
+summary: 'GAPP is improving the environment in Uganda—legal, policy, regulatory, and
+  institutional—to meet demands for democratic governance and the participation of
+  citizens and communities in local governance. '
 ---
 
 GAPP is improving the environment in Uganda—legal, policy, regulatory, and institutional—to meet demands for democratic governance and the participation of citizens and communities in local governance.

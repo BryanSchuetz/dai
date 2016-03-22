@@ -3,7 +3,7 @@ title: Somalia—Promoting Inclusive Markets in Somalia
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
 start-date: 2015
-end-date: 2018  
+end-date: 2018
 regions:
 - Sub-Saharan Africa
 country:
@@ -15,8 +15,12 @@ solutions:
 - Gender
 - Value Chain Development for Agribusiness and Other Sectors
 layout: project
-summary: "The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market development approach, using the Making Markets Work for the Poor (M4P) methodology to stimulate inclusive economic growth. PIMS works through the private sector to support the functioning of markets in key sectors by addressing weaknesses in small-scale productive infrastructure, a chronic lack of market information, and limited access to finance.
-"
+summary: 'The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market
+  development approach, using the Making Markets Work for the Poor (M4P) methodology
+  to stimulate inclusive economic growth. PIMS works through the private sector to
+  support the functioning of markets in key sectors by addressing weaknesses in small-scale
+  productive infrastructure, a chronic lack of market information, and limited access
+  to finance. '
 ---
 
 The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market development approach, using the Making Markets Work for the Poor (M4P) methodology to stimulate inclusive economic growth. PIMS works through the private sector to support the functioning of markets in key sectors by addressing weaknesses in small-scale productive infrastructure, a chronic lack of market information, and limited access to finance.

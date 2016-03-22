@@ -12,7 +12,10 @@ solutions:
 - Economic Growth
 - Governance
 layout: project
-summary: "Rwanda presents a compelling opportunity for Human and Institutional Capacity Development (HICD) implementation. As a regional leader in promoting aid effectiveness, Rwanda has received accolades for its clear and time-bound plans that define its development priorities."
+summary: Rwanda presents a compelling opportunity for Human and Institutional Capacity
+  Development (HICD) implementation. As a regional leader in promoting aid effectiveness,
+  Rwanda has received accolades for its clear and time-bound plans that define its
+  development priorities.
 ---
 
 Rwanda presents a compelling opportunity for Human and Institutional Capacity Development (HICD) implementation. As a regional leader in promoting aid effectiveness, Rwanda has received accolades for its clear and time-bound plans that define its development priorities. The Government of Rwanda (GOR) rightly recognizes that the country's capacity to implement these plans is pivotal to its ability to drive its own agenda.

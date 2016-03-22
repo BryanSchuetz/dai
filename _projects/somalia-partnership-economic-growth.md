@@ -12,7 +12,10 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: project
-summary: "A number of the Somali areas that enjoy relative peace and stability have established functioning governance structures and favorable business environments that have facilitated investment in sectors including livestock, import and export, telecommunications, remittances, and more."
+summary: A number of the Somali areas that enjoy relative peace and stability have
+  established functioning governance structures and favorable business environments
+  that have facilitated investment in sectors including livestock, import and export,
+  telecommunications, remittances, and more.
 ---
 
 A number of the Somali areas that enjoy relative peace and stability have established functioning governance structures and favorable business environments that have facilitated investment in sectors including livestock, import and export, telecommunications, remittances, and more. These areas are now ripe for support to private sector development, investment, and economic policy development. The USAID Partnership for Economic Growth program works with local authorities and private sector groups to improve the enabling environment for investment and generate more [productive employment][1] and incomes.

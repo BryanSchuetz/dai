@@ -11,7 +11,9 @@ country:
 solutions:
 - Stability
 layout: project
-summary: "Somalia has been without a unified central government since 1990. The northern region of Somaliland declared its autonomy in 1991. The current Government of Somalia was established in 2012, but is limited geographically in its influence."
+summary: Somalia has been without a unified central government since 1990. The northern
+  region of Somaliland declared its autonomy in 1991. The current Government of Somalia
+  was established in 2012, but is limited geographically in its influence.
 ---
 
 Somalia has been without a unified central government since 1990. The northern region of Somaliland declared its autonomy in 1991. The current Government of Somalia was established in 2012, but is limited geographically in its influence. The threats of humanitarian disasters, extremist militias, and further fragmentation of the state remain significant.
