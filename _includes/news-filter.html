@@ -1,30 +1,64 @@
-<div class="stories-filter">
+<div class="news-filter">
   <h3>News Filter</h3>
   <p>Looking for news articles on a particular technical topic or geographical area? Click below to filter.</p>
-  <div class="solution">
+  <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
-    <div class="button-group filter-button-group">
-    {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }} "> {{ solution.icon }} {{ solution.title }}</button>{% endfor %}
-    </div>
+    {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }}" class="filter--solution button"> {{ solution.icon }} {{ solution.title }}</button>{% endfor %}
   </div>
-  <div class="region">
+  <div class="button-group filter-button-group region" data-filter-group="region">
     <h3>Filter by Region</h3>
-    <div class="button-group filter-button-group">
-    {% for region in site.regions %}<button data-filter=".{{ region.title | slugify}}" class="filter--region"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </button>{% endfor %}
-    </div>
+    {% for region in site.regions %}<button data-filter=".{{ region.title | slugify}}" class="filter--region button"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </button>{% endfor %}
   </div>
   <hr>
 </div>
 <script type="text/javascript">
-  var $grid = $('.grid').isotope({
+var $grid = $('.grid').isotope({
   itemSelector: '.grid-item',
   layoutMode: 'vertical'
+});
+
+// store filter for each group
+var filters = {};
+
+$('.news-filter').on( 'click', '.button', function() {
+  var $this = $(this);
+  // get group key
+  var $buttonGroup = $this.parents('.button-group');
+  var filterGroup = $buttonGroup.attr('data-filter-group');
+  // set filter for group
+  filters[ filterGroup ] = $this.attr('data-filter');
+  // combine filters
+  var filterValue = concatValues( filters );
+  // set filter for Isotope
+  $grid.isotope({ filter: filterValue });
+});
+
+// change is-checked class on buttons
+$('.button-group').each( function( i, buttonGroup ) {
+  var $buttonGroup = $( buttonGroup );
+  $buttonGroup.on( 'click', 'button', function() {
+    $buttonGroup.find('.is-checked').removeClass('is-checked');
+    $( this ).addClass('is-checked');
   });
-  $('.filter-button-group').on( 'click', 'button', function() {
-    var filterValue = $(this).attr('data-filter');
-    $("button.active").removeClass('active');
-    $(this).addClass('active');
-    $grid.isotope({ filter: filterValue });
-  });
+});
+
+// flatten object by concatting values
+function concatValues( obj ) {
+  var value = '';
+  for ( var prop in obj ) {
+    value += obj[ prop ];
+  }
+  return value;
+}
+  // var $grid = $('.grid').isotope({
+  // itemSelector: '.grid-item',
+  // layoutMode: 'vertical'
+  // });
+  // $('.filter-button-group').on( 'click', 'button', function() {
+  //   var filterValue = $(this).attr('data-filter');
+  //   $("button.active").removeClass('active');
+  //   $(this).addClass('active');
+  //   $grid.isotope({ filter: filterValue });
+  // });
 </script>
