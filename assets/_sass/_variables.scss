@@ -20,6 +20,7 @@ $width-small: 480px; //6bits
 $width-medium: 600px; //8bits
 $width-wide: 800px; //10bits
 $width-ultra-wide: 960px; //12bits
+$width-extra-ultra-wide: 1400px;
 
 // 🎌 MIXINS 🎌
 
@@ -50,4 +51,9 @@ $width-ultra-wide: 960px; //12bits
       @content;
     }
   }
+    @else if $width == extra-ultra-wide-screens{
+      @media screen and (min-width: $width-extra-ultra-wide){
+        @content;
+      }
+    }
 }
