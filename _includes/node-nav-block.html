@@ -45,7 +45,7 @@
 {% elsif page.url contains "news-publications" %}
   <div class="node-nav news-publications">
     <div class="node-nav--links">
-      <h4>News and Publicaitons</h4>
+      <h4>News and Publications</h4>
       <ul class="rail-nav-links">
         {% for nav in site.data.nav-main-news %}
         <li class="rail-nav-link"><a href="{{ nav.link }}" {% assign strip_link = nav.link | remove:".html" %}class="{% if page.url contains strip_link  %}{{ "active" }}{% endif %}">{{ nav.text }}</a></li>
