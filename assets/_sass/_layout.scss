@@ -74,10 +74,10 @@ body.st-ui-overlay-active{
     @include width(12);
   }
   @include responsive(extra-ultra-wide-screens){
-    @include width(14)
+    @include width(12)
   }
 }
-.node-inner{
+/*.node-inner{
   @include responsive(ultra-wide-screens){
     @include width(8);
     float: left;
@@ -86,7 +86,7 @@ body.st-ui-overlay-active{
   @include responsive(extra-ultra-wide-screens){
     @include width(12);
   }
-}
+}*/
 .container.container-node{
   /*block to float for related content*/
   }
