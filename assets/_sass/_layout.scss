@@ -576,7 +576,7 @@ tbody tr:nth-child(odd) th {
   background-image: url(/assets/images/node/sunrise.jpg);
 }
 .node-nav.our-work{
-  background-image: url(/assets/images/node/rice.jpg);
+  background-image: url(/assets/images/node/pattern01.jpg);
 }
 .node-nav.stories{
   background-image: url(/assets/images/node/bits.jpg);
@@ -588,7 +588,9 @@ tbody tr:nth-child(odd) th {
 .node-nav--links{
   background-color: $nav-black;
   padding: 1rem;
-  min-height: 10rem;
+  ul{
+    margin-bottom: 0;
+  }
   @include responsive(small-screens){
     @include width(3);
     float: left;
