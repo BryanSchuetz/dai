@@ -565,28 +565,29 @@ tbody tr:nth-child(odd) th {
 .node-nav{
   @include clearfix;
   margin-bottom: 1rem;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-repeat: repeat;
+  /*background-size: cover;
+  background-position: center;*/
 }
 .node-nav.working-dai{
-  background-image: url(/assets/images/node/bits.jpg);
+  background-image: url(/assets/images/node/px_by_Gre3g.png);
 }
 .node-nav.who-we-are{
-  background-image: url(/assets/images/node/sunrise.jpg);
+  background-image: url(/assets/images/node/px_by_Gre3g.png);
 }
 .node-nav.our-work{
-  background-image: url(/assets/images/node/pattern01.jpg);
+  background-image: url(/assets/images/node/px_by_Gre3g.png);
 }
 .node-nav.stories{
-  background-image: url(/assets/images/node/bits.jpg);
+  background-image: url(/assets/images/node/px_by_Gre3g.png);
 }
 .node-nav.news-publications{
-  background-image: url(/assets/images/node/rice.jpg);
+  background-image: url(/assets/images/node/px_by_Gre3g.png);
 }
 
 .node-nav--links{
-  background-color: $nav-black;
+background: -webkit-linear-gradient(left, rgba(28,36,43,1) 0%,rgba(28,36,43,0.9) 4%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(28,36,43,1) 0%,rgba(28,36,43,0.9) 4%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   padding: 1rem;
   ul{
     margin-bottom: 0;
