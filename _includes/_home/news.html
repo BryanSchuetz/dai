@@ -1,7 +1,7 @@
 <div class="container-section" id="news_hash">
   <div class="section-rail">
     <div class="rail-nav">
-      <h4>News & Publications</h4>
+      <h4>News</h4>
       <ul class="rail-nav-links">
         {% for nav in site.data.nav-main-news %}
           <li class="rail-nav-link"><a href="{{ nav.link }}">{{ nav.text }}</a></li>
@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="section-primary">
-    <h1 class="section-header">News & Publications</h1>
+    <h1 class="section-header">News</h1>
     <div class="primary-block full">
       {% assign featured_news = site.news | where:"featured","true" %}
       {% for article in featured_news limit:1 %}

@@ -1,9 +1,13 @@
 <script>
   $(document).ready(function() {
     function checkSize(){
-      if ($("header").height() > 118){
+      if ($("header").height() > 127){
+          offsetf = -163;
+      }
+      else if ($("header").height() > 118){
           offsetf = -165;
-      } else if ($("header").height() > 91 ){
+      }
+      else if ($("header").height() > 91 ){
         offsetf = -148
       }
       else if ($("header").height() > 65 ){
@@ -64,7 +68,7 @@
     $('#who-we-are_hash').waypoint(function(){
     $('.header-nav--main a').removeClass('active');
     $('#who-we-are-nav').addClass('active');
-    },{offset: '148'},{direction: 'down'});
+  },{offset: '163'},{direction: 'down'});
     // set active for our-work on the way down
     $('#our-work_hash').waypoint(function(){
     $('.header-nav--main a').removeClass('active');
@@ -75,13 +79,13 @@
     $('.header-nav--main a').removeClass('active');
     $('#who-we-are-nav').addClass('active');
     },{offset: '50%'},{direction: 'up'});
-    // set active for stories on the way down
-    $('#stories_hash').waypoint(function(){
+    // set active for publications on the way down
+    $('#publications_hash').waypoint(function(){
     $('.header-nav--main a').removeClass('active');
-    $('#stories-nav').addClass('active');
+    $('#publications-nav').addClass('active');
     },{offset: '165'},{direction: 'down'});
     // switch active to our-work halfway up
-    $('#stories_hash').waypoint(function(){
+    $('#publications_hash').waypoint(function(){
     $('.header-nav--main a').removeClass('active');
     $('#our-work-nav').addClass('active');
     },{offset: '50%'},{direction: 'up'});
@@ -90,11 +94,11 @@
     $('.header-nav--main a').removeClass('active');
     $('#news-nav').addClass('active');
   },{offset: '175'},{direction: 'down'});
-    // switch active to our-work halfway up
+    // switch active to publications halfway up
     $('#news_hash').waypoint(function(){
     $('.header-nav--main a').removeClass('active');
-    $('#stories-nav').addClass('active');
-    },{offset: '50%'},{direction: 'up'});
+    $('#publications-nav').addClass('active');
+  },{offset: '45%'},{direction: 'up'});
     // set active for working on teh way down
     $('#working-with-dai_hash').waypoint(function(){
     $('.header-nav--main a').removeClass('active');

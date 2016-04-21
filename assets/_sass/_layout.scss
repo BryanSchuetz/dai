@@ -429,7 +429,7 @@ footer{
     @include width(2.4);
   }
   @include responsive(extra-ultra-wide-screens){
-    @include width(2.8);
+    @include width(2.4);
   }
   float: left;
   margin-right: $gutter;

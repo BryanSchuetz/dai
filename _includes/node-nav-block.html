@@ -1,7 +1,7 @@
 {% if page.url contains "working-dai" %}
   <div class="node-nav working-dai">
     <div class="node-nav--links">
-      <!-- <h4>Working with DAI</h4> -->
+      <h4>Working with DAI</h4>
       <ul class="rail-nav-links">
         {% for nav in site.data.nav-main-working %}
           <li class="rail-nav-link"><a href="{{ nav.link }}" {% assign strip_link = nav.link | remove:".html" %}class="{% if page.url contains strip_link  %}{{ "active" }}{% endif %}">{{ nav.text }}</a></li>
@@ -12,7 +12,7 @@
 {% elsif page.url contains "who-we-are" %}
   <div class="node-nav who-we-are">
     <div class="node-nav--links">
-      <!-- <h4>Who We Are</h4> -->
+      <h4>Who We Are</h4>
       <ul class="rail-nav-links">
         {% for nav in site.data.nav-main-who %}
         <li class="rail-nav-link"><a href="{{ nav.link }}" {% assign strip_link = nav.link | remove:".html" %}class="{% if page.url contains strip_link  %}{{ "active" }}{% endif %}">{{ nav.text }}</a></li>
@@ -23,7 +23,7 @@
 {% elsif page.url contains "our-work" %}
   <div class="node-nav our-work">
     <div class="node-nav--links">
-      <!-- <h4>Our Work</h4> -->
+      <h4>Our Work</h4>
       <ul class="rail-nav-links">
         {% for nav in site.data.nav-main-our %}
         <li class="rail-nav-link"><a href="{{ nav.link }}" {% assign strip_link = nav.link | remove:".html" %}class="{% if page.url contains strip_link  %}{{ "active" }}{% endif %}">{{ nav.text }}</a></li>
@@ -31,26 +31,8 @@
       </ul>
     </div>
   </div>
-{% elsif page.url contains "stories" %}
-  <div class="node-nav stories">
-    <div class="node-nav--links">
-      <!-- <h4>Stories</h4> -->
-      <ul class="rail-nav-links">
-        {% for nav in site.data.nav-main-stories %}
-          <li class="rail-nav-link"><a href="{{ nav.link }}" {% assign strip_link = nav.link | remove:".html" %}class="{% if page.url contains strip_link  %}{{ "active" }}{% endif %}">{{ nav.text }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-{% elsif page.url contains "news-publications" %}
-  <div class="node-nav news-publications">
-    <div class="node-nav--links">
-      <!-- <h4>News and Publications</h4> -->
-      <ul class="rail-nav-links">
-        {% for nav in site.data.nav-main-news %}
-        <li class="rail-nav-link"><a href="{{ nav.link }}" {% assign strip_link = nav.link | remove:".html" %}class="{% if page.url contains strip_link  %}{{ "active" }}{% endif %}">{{ nav.text }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+{% elsif page.url contains "publications" %}
+
+{% elsif page.url contains "news" %}
+  
 {% endif %}

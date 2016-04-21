@@ -1,5 +1,5 @@
 ---
-title: Stories
+title: Publications
 layout: node
 ---
 
