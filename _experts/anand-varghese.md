@@ -1,4 +1,5 @@
 ---
+layout: finalists
 title: Anand Varghese
 date: 2016-01-21 22:18:43.395000000 Z
 lastname: Varghese
