@@ -1,7 +1,7 @@
 ---
-layout: finalists
 title: Anand Varghese
 date: 2016-01-21 22:18:43.395000000 Z
+layout: expert
 lastname: Varghese
 regions:
 - Asia and the Pacific
@@ -9,7 +9,6 @@ regions:
 solutions:
 - Governance
 - Digital
-layout: expert
 image: "/assets/images/experts/anand%20inner.jpg"
 summary: Anand helps DAI's projects integrate ICT into their activities and build
   partnerships with local technology companies.
