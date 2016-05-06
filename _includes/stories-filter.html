@@ -1,14 +1,17 @@
 <div class="stories-filter">
-  <h3>Stories Filter</h3>
+  <h3>Article Filter</h3>
   <p>Looking for stories on a particular technical topic or geographical area? Click below to filter.</p>
+  <div class="button-group filter-button-group region" data-filter-group="publication">
+    <h3>Filter by Publication</h3>
+    <button class="filter--publication button" data-filter=".developments"> Developments </button>
+    <button class="filter--publication button" data-filter=".daideas"> DAIdeas </button>
+    <button class="filter--publication button" data-filter=".developing-alternatives"> Developing Alternatives </button>
+    <button class="filter--publication button" data-filter=".digital"> Digital@DAI </button>
+  </div>
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
     {% for solution in primary_solutions %}<button class="filter--solution button" data-filter=".{{ solution.title | slugify }}"> {{ solution.icon }} {{ solution.title }} </button>{% endfor %}
-  </div>
-  <div class="button-group filter-button-group region" data-filter-group="region">
-    <h3>Filter by Region</h3>
-    {% for region in site.regions %}<button class="filter--region button" data-filter=".{{ region.title | slugify }}"> <svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }} </button>{% endfor %}
   </div>
   <hr>
 </div>

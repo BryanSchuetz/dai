@@ -186,7 +186,13 @@ strong {
     color: $text-white;
   }
 }
-
+.article-publication{
+  font-style: italic;
+  font-size: .7rem;
+  padding: .3rem;
+  background-color: $nav-gray;
+  border-radius: 2px;
+}
 // 🎌 Solutions 🎌
 .solution-title{
   svg{
