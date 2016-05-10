@@ -2,9 +2,9 @@
 {% for article in site.data.digital %}
   {% assign all_articles = all_articles | push: article %}
 {% endfor %}
-{% assign sorted_articles = all_articles | sort: 'date','first' %}
+{% assign sorted_articles = all_articles | sort: 'date' %}
 
-<div class="stories-rail grid">{% for article in sorted_articles %}
+<div class="stories-rail grid">{% for article in sorted_articles reversed %}
   <div class="stories-block grid-item {% for tag in article.tags %} {{ tag | slugify }} {% endfor %}{% for pub in article.pub %} {{ pub | slugify }} {% endfor %}">
     <h3>{{ article.title }}</h3>
     <p class="article-details">

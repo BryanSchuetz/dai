@@ -12,18 +12,23 @@
   <div class="section-primary">
     <h1 class="section-header">Publications</h1>
     <div class="primary-block split left">
-      {% for story in site.stories limit: 1 %}
-      <h3><a href="{{ story.url }}">{{ story.title }}</a></h3>
-      {{ story.excerpt }}
-      <!-- <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
+      {% assign all_articles = site.data.pubs %}
+      {% for article in site.data.digital %}
+        {% assign all_articles = all_articles | push: article %}
       {% endfor %}
+      {% assign sorted_articles = all_articles | sort: 'date' %}
+
+      {% assign reversed_articles = sorted_articles | reverse %}
+      {% assign first = reversed_articles[0] %}
+      <h3><a href="{{ first.link }}">{{ first.title }}</a></h3>
+      {{ first.summary }}
+      <!-- <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
     </div>
     <div class="primary-block split right">
-      {% for story in site.stories limit:1 offset:1 %}
-      <h3><a href="{{ story.url }}">{{ story.title }}</a></h3>
-      {{ story.excerpt }}
+      {% assign second = reversed_articles[1] %}
+      <h3><a href="{{ second.link }}">{{ second.title }}</a></h3>
+      {{ second.summary }}
       <!-- <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
-      {% endfor %}
     </div>
   </div>
 </div>
