@@ -143,7 +143,12 @@ strong {
   li a:hover{
     background-color: $nav_black;
     color: white;
+    border-radius: 2px;
   }
+}
+.node-nav--links .rail-nav-links a:hover{
+  background-color: rgba($nav_gray, 0.1);
+  border-radius: 2px;
 }
 .rail-nav{
   h4{
@@ -184,6 +189,7 @@ strong {
   }
   li a.active{
     color: $text-white;
+    background-color: rgba($nav_gray, 0.1);
   }
 }
 .article-publication{
