@@ -11,12 +11,16 @@ solutions:
 - Transition and Stabilization Programming
 layout: expert
 image: "/assets/images/experts/Donal%20Inner.jpg"
-summary: "Donal Cotter has more than more than 23 years of experience in the fields of finance and economic growth, including 15 years of experience in international development. He has held management roles on five major donor-funded economic growth initiatives in transitioning economies."
+summary: Donal Cotter has more than more than 23 years of experience in the fields
+  of finance and economic growth, including 15 years of experience in international
+  development. He has held management roles on five major donor-funded economic growth
+  initiatives in transitioning economies.
 job-title: Chief of Party, Pakistan Regional Economic Integration Activity
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Donal Cotter has more than more than 23 years of experience in the fields of finance and economic growth, including 15 years of experience in international development. He has held management roles on five major donor-funded economic growth initiatives in transitioning economies.
 
 Donal has extensive experience in private sector enterprise development and strategic planning; capacity building and institutional strengthening for government ministries and professional accounting certification associations; credit management in small business lending; and working in interculturally sensitive, conflict and post-conflict environments.

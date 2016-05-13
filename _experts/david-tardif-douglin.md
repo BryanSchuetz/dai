@@ -13,12 +13,16 @@ solutions:
 - Value Chain Development for Agribusiness and Other Sectors
 layout: expert
 image: "/assets/images/experts/innerdouglin.jpg"
-summary: "David Tardif-Douglin runs Africa Lead II, a project that builds the capacity of agriculture professionals, institutions and stakeholders to position African leaders and institutions at the forefront of increased agricultural productivity and food security."
+summary: David Tardif-Douglin runs Africa Lead II, a project that builds the capacity
+  of agriculture professionals, institutions and stakeholders to position African
+  leaders and institutions at the forefront of increased agricultural productivity
+  and food security.
 job-title: Principal Development Specialist
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 David Tardif-Douglin runs Africa Lead II, a project that builds the capacity of agriculture professionals, institutions and stakeholders to position African leaders and institutions at the forefront of increased agricultural productivity and food security.
 
 It was a high school politics and economics class 37 years ago that sparked David's interest in economic development. The son of American missionaries in Zaire (now the Democratic Republic of the Congo), David, who was born and raised in the turbulent country, saw the effects of poverty all around him, as well as how things could be on his infrequent trips back to the United States and Europe. He also gained an appreciation for different paths toward economic progress while traveling to and from school through Zaire, Uganda, and Kenya.

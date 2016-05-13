@@ -11,12 +11,15 @@ solutions:
 - Nutrition and Food Security
 layout: expert
 image: "/assets/images/experts/innerchopak.jpg"
-summary: "Thirty years ago Chuck Chopak earned a bachelor's degree, but couldn't see earning a living in biology or sociology, his dual major at Tulane University. He was intrigued, though, by an aquaculture opening in northern Senegal."
+summary: Thirty years ago Chuck Chopak earned a bachelor's degree, but couldn't see
+  earning a living in biology or sociology, his dual major at Tulane University. He
+  was intrigued, though, by an aquaculture opening in northern Senegal.
 job-title: Chief of Party, Honduras ProParque
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Thirty years ago Chuck Chopak earned a bachelor's degree, but couldn't see earning a living in biology or sociology, his dual major at Tulane University. He was intrigued, though, by an aquaculture opening in northern Senegal. Figuring it a great way to learn French and fish farming, Chuck joined the Peace Corps for what turned out to be a five-year assignment in a village of 200 people.
 
 The village chief gave him the name Ibrahima Diene, and he went to work building ponds that could be lowered or raised with the season in order to most efficiently raise _ceeb u jen_, or rice and fish. "In the Peace Corps I realized the decisions we made and solutions we found were the types of things I wanted to be doing," he said.

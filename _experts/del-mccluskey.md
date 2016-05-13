@@ -12,12 +12,17 @@ solutions:
 - Environment and Energy
 layout: expert
 image: "/assets/images/experts/Del_Inner.jpg"
-summary: "Del McCluskey was introduced to international development in 1963 when his father joined the U.S. Agency for International Development (USAID). Growing up in Africa, Latin America, and Asia, and seeing his father work to improve agriculture production and food security, instilled in Del a passion to make a difference in the world."
+summary: Del McCluskey was introduced to international development in 1963 when his
+  father joined the U.S. Agency for International Development (USAID). Growing up
+  in Africa, Latin America, and Asia, and seeing his father work to improve agriculture
+  production and food security, instilled in Del a passion to make a difference in
+  the world.
 job-title: Global Practice Lead, Environment, Climate Change & Urban Services
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Del McCluskey was introduced to international development in 1963 when his father joined the U.S. Agency for International Development (USAID). Growing up in Africa, Latin America, and Asia, and seeing his father work to improve agriculture production and food security, instilled in Del a passion to make a difference in the world.
 
 Twenty years later, Del joined USAID and led several groundbreaking programs that included supporting the diversification of the Dominican Republic's and Honduras' agriculture exports; establishing the Honduran Agriculture Research Foundation, one of the first public-private partnerships in agriculture research that still thrives today; designing and testing approaches for community-based management of informal land rights for indigenous Filipinos; and developing one of USAID's first climate change programs.

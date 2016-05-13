@@ -9,12 +9,16 @@ solutions:
 - Economic Growth
 layout: expert
 image: "/assets/images/experts/JohnsonC_Inner_0.jpg"
-summary: "Catherine Johnston is a private sector development specialist who for 12 years has provided technical assistance and strategic planning consulting services to support economic growth driven by and benefiting micro, small, and medium-sized enterprises."
+summary: Catherine Johnston is a private sector development specialist who for 12
+  years has provided technical assistance and strategic planning consulting services
+  to support economic growth driven by and benefiting micro, small, and medium-sized
+  enterprises.
 job-title: Chief of Party, Timor-Leste Dezenvolve Agricultura Communitária
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Catherine Johnston is a private sector development specialist who for 12 years has provided technical assistance and strategic planning consulting services to support economic growth driven by and benefiting micro, small, and medium-sized enterprises. She has significant experience in designing and delivering interventions that increase access to financial services, upgrade and strengthen value chains, and improve the business enabling environment. Catherine has provided technical assistance to donor-funded projects, host-country governments, microfinance institutions, and small and medium-sized enterprises. Most recently, she served as senior advisor for business development services and business association development for the DAI-led Afghanistan Small and Medium-Sized Enterprise Development Activity.
 
 * M.B.A., Georgetown University

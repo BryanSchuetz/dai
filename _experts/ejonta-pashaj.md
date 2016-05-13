@@ -12,12 +12,17 @@ solutions:
 - Health
 layout: expert
 image: "/assets/images/experts/Pashaj_Inner.jpg"
-summary: "Ejonta Pashaj learned of DAI through a public administration program DAI was implementing in Albania. Ejonta says she was impressed with how DAI approaches working with local governments, especially our emphasis on citizen participation in municipal decision making."
-job-title: Director, Economic Growth, Environment and Health, Middle East, North Africa, and Afghanistan
+summary: Ejonta Pashaj learned of DAI through a public administration program DAI
+  was implementing in Albania. Ejonta says she was impressed with how DAI approaches
+  working with local governments, especially our emphasis on citizen participation
+  in municipal decision making.
+job-title: Director, Economic Growth, Environment and Health, Middle East, North Africa,
+  and Afghanistan
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Ejonta Pashaj learned of DAI through a public administration program DAI was implementing in Albania. Ejonta says she was impressed with how DAI approaches working with local governments, especially our emphasis on citizen participation in municipal decision making. When a job opportunity opened on the project, Ejonta applied and started her career as a governance specialist and program manager. Her areas of expertise include the design, implementation, and evaluation of citizen participation, community development, outreach, and anti-corruption strategies. She has helped to establish business improvement districts, citizen assistance centers, and one-stop permitting centers in Albania, Serbia, and Macedonia, and designed and delivered training on results-based public engagement in municipal decision making.
 
 > "They came to DAI to ask for help—we helped them raise additional money to build a road, conduct a transparent procurement process, and ensure citizen monitoring of the construction work." — Ejonta Pashaj

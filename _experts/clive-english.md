@@ -12,11 +12,13 @@ solutions:
 - Natural Resource Management
 layout: expert
 image: "/assets/images/experts/CliveEnglishInner.jpg"
-summary: "Clive English is a highly experienced project manager and adviser with more than 35 years of project experience in Africa, the Caribbean, the Middle East, and South Asia."
+summary: Clive English is a highly experienced project manager and adviser with more
+  than 35 years of project experience in Africa, the Caribbean, the Middle East, and
+  South Asia.
 job-title: Land Tenure Specialist
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
 
 Clive English is a highly experienced project manager and adviser with more than 35 years of project experience in Africa, the Caribbean, the Middle East, and South Asia. Originally trained as a geographer and then an agric engineer, Clive started work on soil surveys for irrigation development and worked on programs both as an irrigation agronomist and land use planner. He later became involved in consultations and planning for resettlement of communities impacted by large dams in Lesotho, and later issues related to land tenure.
