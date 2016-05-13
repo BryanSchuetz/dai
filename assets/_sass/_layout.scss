@@ -206,6 +206,9 @@ header{
 }
 .header-nav--main{
   @include clearfix;
+}
+.header-nav--main{
+  display: block;
   margin: 0;
   li{
     list-style-type: none;
