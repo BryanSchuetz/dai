@@ -9,14 +9,22 @@ solutions:
 - Economic Growth
 layout: expert
 image: "/assets/images/experts/innereunice_0.jpg"
-summary: "Growing up in a developing country and witnessing poverty first hand, Eunice Heredia-Ortiz always knew she wanted to help people get on the path to prosperity. Specializing in public finance, Eunice has helped governments in many countries transform their fiscal policy and management, laying the foundations for more efficient and accountable use of public resources, better public service delivery, and improved living standards."
+summary: Growing up in a developing country and witnessing poverty first hand, Eunice
+  Heredia-Ortiz always knew she wanted to help people get on the path to prosperity.
+  Specializing in public finance, Eunice has helped governments in many countries
+  transform their fiscal policy and management, laying the foundations for more efficient
+  and accountable use of public resources, better public service delivery, and improved
+  living standards.
 job-title: Public Finance Economist, Senior Development Specialist
 articles:
-- name: "Mobilizing Tax Revenue and Prioritizing Health Spending in El Salvador – A Case Study"
+- name: Mobilizing Tax Revenue and Prioritizing Health Spending in El Salvador – A
+    Case Study
   article_file: https://www.hfgproject.org/tax-reform-resource-mobilization/
-- name: "Rethinking the Political Economy of Decentralization: How Elections and Parties Shape the Provision of Local Public Goods"
+- name: 'Rethinking the Political Economy of Decentralization: How Elections and Parties
+    Shape the Provision of Local Public Goods'
   article_file: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2188613
 ---
+
 Growing up in a developing country and witnessing poverty first hand, Eunice Heredia-Ortiz always knew she wanted to help people get on the path to prosperity. Specializing in public finance, Eunice has helped governments in many countries transform their fiscal policy and management, laying the foundations for more efficient and accountable use of public resources, better public service delivery, and improved living standards.
 
 > "Children with no clothes, no shoes, bad nutrition, and no schools … how do we empower them to have a better life? I want to dedicate my life to empowering people to prosper." — Eunice Heredia-Ortiz
