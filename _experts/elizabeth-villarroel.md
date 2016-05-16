@@ -13,12 +13,14 @@ solutions:
 - Transition and Stabilization Programming
 layout: expert
 image: "/assets/images/experts/ElizabethVInner.jpg"
-summary: "Elizabeth has 13 years of programmatic and operations experience in designing, managing, monitoring, and assessing programs in conflict and post-conflict environments."
+summary: Elizabeth has 13 years of programmatic and operations experience in designing,
+  managing, monitoring, and assessing programs in conflict and post-conflict environments.
 job-title: Director, Stable Governance, Asia
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Elizabeth has 13 years of programmatic and operations experience in designing, managing, monitoring, and assessing programs in conflict and post-conflict environments. Having served as a senior technical manager, she offers a deep understanding of the practical challenges of working in complex environments in countries as diverse as Afghanistan, Burma, Colombia, Iraq, Moldova, Pakistan and Sudan.
 
 Prior to joining DAI, Elizabeth was a Senior Associate at Creative Associates and served as the Project Director of the U.S. Agency for International Development's Office of Transition Initiatives' program in Afghanistan, where she supported project management efforts and provided strategic leadership in the implementation of small grant activities. Elizabeth also served as Acting Chief of Party in Kabul. She is fluent in Spanish and English, proficient in Russian, and has a basic knowledge of Arabic, Polish, and Dari.
