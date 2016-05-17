@@ -8,12 +8,16 @@ solutions:
 - Economic Growth
 layout: expert
 image: "/assets/images/experts/jamalinner.jpg"
-summary: "While working at The Housing Bank for Trade and Finance in Amman, Jordan, Jamal Al Jabiri progressed from clerical positions to managing a post at the bank's currency trading desk, then managing a small investment portfolio, and finally directing the correspondent relations department."
+summary: While working at The Housing Bank for Trade and Finance in Amman, Jordan,
+  Jamal Al Jabiri progressed from clerical positions to managing a post at the bank's
+  currency trading desk, then managing a small investment portfolio, and finally directing
+  the correspondent relations department.
 job-title: Component Lead, Jordan Competitiveness Project
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 While working at The Housing Bank for Trade and Finance in Amman, Jordan, Jamal Al Jabiri progressed from clerical positions to managing a post at the bank's currency trading desk, then managing a small investment portfolio, and finally directing the correspondent relations department. Ten years into his career at the housing bank, Jamal answered an ad for a position with the U.S. Agency for International Development's (USAID's) Economic Growth Office in Jordan. With little expectation of competing for the position, he submitted his qualifications and shortly thereafter was hired as a project management specialist, managing small projects at first and eventually becoming increasingly involved in some of the most cutting-edge economic development projects in Jordan.
 
 > "To be able to walk around the city and see and touch the changes that have been made is a singular experience, and knowing you contributed makes the experience that much more meaningful." — Jamal Al Jabiri

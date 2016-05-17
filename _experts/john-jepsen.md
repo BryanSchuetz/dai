@@ -10,12 +10,15 @@ solutions:
 - Innovation and Entrepreneurship
 layout: expert
 image: "/assets/images/experts/Jepsen_Inner.jpg"
-summary: "Eleven years ago, John left his job at _Rolling Stone Magazine_ in New York City to start as an associate with DAI's Finance, Banking, and Enterprise group. Little did he know his new job would turn into a lifestyle."
+summary: Eleven years ago, John left his job at _Rolling Stone Magazine_ in New York
+  City to start as an associate with DAI's Finance, Banking, and Enterprise group.
+  Little did he know his new job would turn into a lifestyle.
 job-title: Global Practice Lead, Financial Services
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Eleven years ago, John left his job at _Rolling Stone Magazine_ in New York City to start as an associate with DAI's Finance, Banking, and Enterprise group. Little did he know his new job would turn into a lifestyle. John studied international relations and French at American University, but it was an internship during his senior year of college with a small Washington, D.C.-based microfinance outfit that first exposed him to development. This experience would prove to be life-changing.
 
 DAI exposed him to a depth of development issues, but his passion was in microenterprise development, particularly microfinance. He worked on several large U.S. Agency for International Development (USAID) microfinance development projects, taking a particular interest in Haiti. He also managed and provided technical assistance to several USAID centralized programs, including the SEGIR Financial Services IQCs, BASIS Rural and Agricultural Finance Best Practice Project, and the Office of Development Credit DCA Design Contract.   

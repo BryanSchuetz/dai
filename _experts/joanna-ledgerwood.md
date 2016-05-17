@@ -9,12 +9,14 @@ solutions:
 - Financial Services
 layout: expert
 image: "/assets/images/experts/LedgerwoodNew_0.jpg"
-summary: "After graduating from McGill University with an MBA in international finance, Joanna Ledgerwood took the expected path and joined one of Canada's largest banks. "
+summary: 'After graduating from McGill University with an MBA in international finance,
+  Joanna Ledgerwood took the expected path and joined one of Canada''s largest banks. '
 job-title: Team Leader, Financial Sector Deepening Project
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 After graduating from McGill University with an MBA in international finance, Joanna Ledgerwood took the expected path and joined one of Canada's largest banks. Six years later she found herself in the private banking department supporting wealthy clients to manage their portfolios. At the same time, she was taking night classes in women's studies learning about the inequities of poor women around the world. Finding this very hard to reconcile with her day job, she eventually quit banking and dedicated herself to development finance.
 
 > "By definition, people who are poor do not have the safety nets that less poor people have. Having access to a small amount of savings or credit in times of need can greatly support people's ability to cope and prevent an emergency from becoming a long-term problem. I think it is essential for development practitioners to really understand who poor people are and how they manage financially, and with that understanding, work to facilitate ways to improve their quality of life." — Joanna Ledgerwood

@@ -12,11 +12,13 @@ solutions:
 - Natural Resource Management
 layout: expert
 image: "/assets/images/experts/jLeckie-INNER.jpg"
-summary: "John, a Principal Consultant in our land team, has 14 years of international project experience in the land, natural resources, and environment sectors in Europe, Africa, Central and Southeast Asia, and South America."
+summary: John, a Principal Consultant in our land team, has 14 years of international
+  project experience in the land, natural resources, and environment sectors in Europe,
+  Africa, Central and Southeast Asia, and South America.
 job-title: Knowledge Management, Land
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
 
 John, a Principal Consultant in our land team, has 14 years of international project experience in the land, natural resources, and environment sectors in Europe, Africa, Central and Southeast Asia, and South America. During this time he has worked for a diverse range of clients, including the U.K. Department for International Development, the Millennium Challenge Corporation, the U.S. Agency for International Development, the European Commission, the Pan American Health Organization, the Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food and Rural Affairs, and various nonprofits.

@@ -10,12 +10,16 @@ solutions:
 - Governance
 layout: expert
 image: "/assets/images/experts/Winkler_Inner.jpg"
-summary: "After graduating from Georgetown University's McDonough Business School, Jim accepted a two-year assignment in Costa Rica as a small business advisor with the Peace Corps rather than the well-heeled path of Wall Street and corporate America that most of his classmates followed."
+summary: After graduating from Georgetown University's McDonough Business School,
+  Jim accepted a two-year assignment in Costa Rica as a small business advisor with
+  the Peace Corps rather than the well-heeled path of Wall Street and corporate America
+  that most of his classmates followed.
 job-title: Senior Trade and Investment Advisor
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 After graduating from Georgetown University's McDonough Business School, Jim accepted a two-year assignment in Costa Rica as a small business advisor with the Peace Corps rather than the well-heeled path of Wall Street and corporate America that most of his classmates followed. "I found myself working on tough, real life issues that really made a difference in people's lives in Costa Rica," Jim said. "I was asked to do much more in a foreign culture and language than I would have been doing in a typical career at home."
 
 Jim specializes in private sector development, economic growth, competitiveness, and governance. After completing a Ph.D., he joined DAI in 1990 and has since worked for eight years in the head office and 14 years in Bangkok, Jerusalem, Zagreb, and Hanoi. In 2004, he completed a high profile 18-month assessment for the U.S. Agency for International Development on enterprise and economic growth strategies, providing a framework for a new era of development projects that integrate institutional and policy reforms with support for the private sector.
