@@ -8,12 +8,17 @@ solutions:
 - Digital
 layout: expert
 image: "/assets/images/experts/Heuisler_Inner.jpg"
-summary: "Kate Heuisler is a development practitioner with 13 years of experience designing and managing development programs in 16 countries. As a cultural anthropologist, Kate is passionate about user-centered design and working with partners to design and run programs based on political, economic, and cultural needs in the countries and regions where she works."
+summary: Kate Heuisler is a development practitioner with 13 years of experience designing
+  and managing development programs in 16 countries. As a cultural anthropologist,
+  Kate is passionate about user-centered design and working with partners to design
+  and run programs based on political, economic, and cultural needs in the countries
+  and regions where she works.
 job-title: Chief of Party, Cambodia Development Innovations
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Kate Heuisler is a development practitioner with 13 years of experience designing and managing development programs in 16 countries. As a cultural anthropologist, Kate is passionate about user-centered design and working with partners to design and run programs based on political, economic, and cultural needs in the countries and regions where she works. She is currently the Chief of Party for the USAID Development Innovations project in Cambodia, a project designed to support civil society organizations to work with technology partners to design and use information and communication technology (ICT) tools to further development goals.
 
 > "Innovation is increasingly important as resource pools constrict and change across the globe. As practitioners, we need to begin with the user of the tools and technologies we help introduce—however simple or complex—and work with them to make things work in that context." — Kate Heuisler

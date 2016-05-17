@@ -11,12 +11,16 @@ solutions:
 - Stability
 layout: expert
 image: "/assets/images/experts/Doxtater-Inner.jpg"
-summary: "For the last decade, Keith Doxtater has provided strategic direction and project management expertise from both the field and home office for U.S. Agency for International Development (USAID) projects in Indonesia, Kenya, Myanmar, the Philippines, Somalia, and Sri Lanka."
+summary: For the last decade, Keith Doxtater has provided strategic direction and
+  project management expertise from both the field and home office for U.S. Agency
+  for International Development (USAID) projects in Indonesia, Kenya, Myanmar, the
+  Philippines, Somalia, and Sri Lanka.
 job-title: Chief of Party, ASEAN PROGRESS
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 For the last decade, Keith Doxtater has provided strategic direction and project management expertise from both the field and home office for U.S. Agency for International Development (USAID) projects in Indonesia, Kenya, Myanmar, the Philippines, Somalia, and Sri Lanka. He is well versed in all aspects of project implementation, including project startup and closedown, strategic planning, staff recruitment and training, financial management, and administration of technical assistance and grants. Working in volatile political environments, he has honed his ability to adapt program implementation to rapidly changing political landscapes and has developed a keen understanding of the need for flexibility and resourcefulness to achieve project goals.
 
 Over five years in DAI's U.S. office, Keith conducted on-the-ground reconnaissance and led new business efforts for opportunities in Cambodia, Colombia, El Salvador, Indonesia, Sri Lanka, Thailand, Venezuela, and Yemen. Over five years in the field, he served as a field-based manager on two USAID Office of Transition Initiatives projects and as acting Chief of Party on multiple occasions. He has also served as DAI's Country Representative in South Sudan where he led efforts to better position DAI for potential opportunities in the new country.

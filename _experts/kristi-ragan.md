@@ -18,9 +18,10 @@ summary: |
   Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep urge to see the world. While Kristi was earning her master's degree from Georgetown University's School of Foreign Service, her professor, Madeleine Albright, urged her to join the United Nations and become "an international civil servant."
 job-title: Chief of Party, Center for Development Innovation
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep urge to see the world. While Kristi was earning her master's degree from Georgetown University's School of Foreign Service, her professor, Madeleine Albright, urged her to join the United Nations and become "an international civil servant." She joined the Peace Corps twice—serving in the South Pacific and in Tanzania. Working in Somalia from 1997 to 2000 for the United Nations, Kristi saw how important it is to involve the full spectrum of local actors in development solutions, particularly the private sector. In places like Hargeisa and Berbera, where donors and donor dollars were scarce, she saw businesses moving essential goods and services and generating funds for building homes and schools, stoking Kristi's determination to bring the private sector more fully into development through public-private partnerships.
 
 >"There are no single-actor solutions to the challenges of development. Partnering with business is one of the best ways to leverage both funds and know-how in order to solve problems and improve people's lives." — Kristi Ragan
