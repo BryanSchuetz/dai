@@ -16,12 +16,15 @@ solutions:
 - Land Tenure and Property Rights
 layout: expert
 image: "/assets/images/experts/Richard-BaldwinInner.jpg"
-summary: "Richard is a land tenure professional with more than 20 years of experience managing and providing technical assistance to land projects in Africa, Eastern Europe, the Middle East, Central Asia, and the Caribbean."
+summary: Richard is a land tenure professional with more than 20 years of experience
+  managing and providing technical assistance to land projects in Africa, Eastern
+  Europe, the Middle East, Central Asia, and the Caribbean.
 job-title: Global Practice Lead, Land Tenure and Property Rights
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Richard is a land tenure professional with more than 20 years of experience managing and providing technical assistance to land projects in Africa, Eastern Europe, the Middle East, Central Asia, and the Caribbean. Richard's first overseas consultancy was in the Philippines in 1992, where he worked on a UNDP land records management project. This was quickly followed by long-term technical assistance in Hungary and the Czech Republic on the re-establishment of land registration systems in these transition states focusing on mapping, cadastre, information technology, and developing land policy. In 1998, Richard undertook a study comparing land markets in Eastern Europe that developed indicators and a tool for assessing the state of development of land markets at a national level.
 
 Richard was the Project Director for a $12 million project to develop a computerized land registry in Lebanon and carry out data conversion of all existing paper records. From 2000 to 2004 Richard held a business development role and undertook short-term policy and business strategy and registration projects across Eastern Europe and the former Soviet Union territories.

@@ -10,12 +10,17 @@ solutions:
 - Health
 layout: expert
 image: "/assets/images/experts/richinner.jpg"
-summary: "Following his graduate program at the University of Minnesota, Rich Magnani joined Experience, an agribusiness consultancy. He focused on new venture analyses, export market development, and policy analysis for grain and oilseed processors, dairy and livestock processors, trade associations, and state government development agencies."
+summary: Following his graduate program at the University of Minnesota, Rich Magnani
+  joined Experience, an agribusiness consultancy. He focused on new venture analyses,
+  export market development, and policy analysis for grain and oilseed processors,
+  dairy and livestock processors, trade associations, and state government development
+  agencies.
 job-title: Chief of Party, Afghanistan Regional Agricultural Development Program
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Following his graduate program at the University of Minnesota, Rich Magnani joined Experience, an agribusiness consultancy. He focused on new venture analyses, export market development, and policy analysis for grain and oilseed processors, dairy and livestock processors, trade associations, and state government development agencies.
 
 > "I saw that my commercial consulting background that emphasized financial results was of great value in designing activities that could make development projects sustainable." – Rich Magnani after his first international development assignment for Experience, Inc. — Rich Magnani

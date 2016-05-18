@@ -9,12 +9,15 @@ solutions:
 - Environment and Energy
 layout: expert
 image: "/assets/images/experts/innerpaul.jpg"
-summary: "The schoolyards of Queens, New York, where Paul Hartman grew up, are a long way from the jungles of Borneo. But that's the journey Paul made when he moved to Indonesia in 2001, eventually to run an orangutan conservation program for DAI."
+summary: The schoolyards of Queens, New York, where Paul Hartman grew up, are a long
+  way from the jungles of Borneo. But that's the journey Paul made when he moved to
+  Indonesia in 2001, eventually to run an orangutan conservation program for DAI.
 job-title: Chief of Party, Mekong ARCC
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 The schoolyards of Queens, New York, where Paul Hartman grew up, are a long way from the jungles of Borneo. But that's the journey Paul made when he moved to Indonesia in 2001, eventually to run an orangutan conservation program for DAI.
 
 Paul became fascinated by the interaction between communities and their natural environment during his first trip into Borneo's spectacular tropical forests. The indigenous Dayak community that was Paul's eventual stopping point was comprised of villagers whose families were forest nomads just 30 years earlier. Animism and the interaction between the physical and spiritual world continued to permeate the belief system of the village, steering their use of natural resources.

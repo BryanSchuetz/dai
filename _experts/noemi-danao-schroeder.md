@@ -13,12 +13,15 @@ solutions:
 - Environment and Energy
 layout: expert
 image: "/assets/images/experts/NoemiInner.jpg"
-summary: "Noemi first worked internationally as a summer volunteer for a rural vaccination campaign in Paraguay. That experience kickstarted 25 years of international development work."
+summary: Noemi first worked internationally as a summer volunteer for a rural vaccination
+  campaign in Paraguay. That experience kickstarted 25 years of international development
+  work.
 job-title: Development Practitioner
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Noemi first worked internationally as a summer volunteer for a rural vaccination campaign in Paraguay. That experience kickstarted 25 years of international development work. After finishing her undergraduate degree, Noemi took a nine-month volunteer assignment in Nicaragua, eventually staying in the country for nine years. During that time she founded and led a Nicaraguan nongovernmental organization (NGO) that developed the first health and environmental education curriculum for children created for, and by, rural educators. After returning to the United States, she worked as development director for a water and reforestation NGO.
 
 The "call abroad" came once again, and Noemi and her family moved to the cloud forest of Costa Rica where she served as Executive Director of the Monteverde Institute. During her tenure she turned the organization around from near bankruptcy to profitability in two years, and re-established the Institute as a regional leader in place-based education, applied research, and community development. A few years later Noemi joined SNV, an international development organization headquartered in The Hague, Netherlands. Noemi served as country representative for Nicaragua, and then was promoted to Head of Business Development and Communications for Latin America in Quito. Noemi and her family returned to the United States in 2012 when she joined DAI on the SERVIR project.

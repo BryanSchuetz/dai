@@ -12,12 +12,15 @@ solutions:
 - Natural Resource Management
 layout: expert
 image: "/assets/images/experts/HobgoodInner.jpg"
-summary: "Nick Hobgood has 22 years of experience leading complex, multi-sector development projects in humanitarian response, democratic initiatives, community-based natural resource management, agriculture, and small business development."
+summary: Nick Hobgood has 22 years of experience leading complex, multi-sector development
+  projects in humanitarian response, democratic initiatives, community-based natural
+  resource management, agriculture, and small business development.
 job-title: Chief of Party, South Pacific Islands—Coastal Community Adaptation Project
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Nick Hobgood has 22 years of experience leading complex, multi-sector development projects in humanitarian response, democratic initiatives, community-based natural resource management, agriculture, and small business development.
 
 Son of a career U.S. Agency for International Development (USAID) officer, Nick was lucky to grow up in four Latin American countries, the Ivory Coast and Haiti all before graduating from high school. He began his career in development in 1984, working as an intern in the USAID Office of Agriculture and Rural Development, Port-au-Prince, Haiti. Appreciation for diverse cultures later compelled him to join the Peace Corps and was assigned to an aquaculture program in a very remote village in the Bandundu Province of Zaire, now Democratic Republic of Congo. His work for four years in the Peace Corps prepared him to better understand the problems faced by poor rural populations. This life-changing experience fueled Nick's desire to continue striving to make a difference.  

@@ -10,12 +10,15 @@ solutions:
 - Gender
 layout: expert
 image: "/assets/images/experts/Thompson_Inner.jpg"
-summary: "After ditching plans to become a lawyer, William Thompson, via the Peace Corps and other organizations, found himself teaching math in Fiji and training Afghan teachers along the Afghan/Pakistan border, long before the current conflict."
+summary: After ditching plans to become a lawyer, William Thompson, via the Peace
+  Corps and other organizations, found himself teaching math in Fiji and training
+  Afghan teachers along the Afghan/Pakistan border, long before the current conflict.
 job-title: Development Specialist
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 After ditching plans to become a lawyer, William Thompson, via the Peace Corps and other organizations, found himself teaching math in Fiji and training Afghan teachers along the Afghan/Pakistan border, long before the current conflict. He then ran programs for the International Rescue Committee in Pakistan, Thailand, and Georgia, before joining Save the Children for six years of assignments in Bhutan, Nepal, along with a brief assignment in Kosovo. William served four years as UNICEF's state representative in Andhra Pradesh and Karnataka, India.
 
 >"I was the first student from my university to join the Peace Corps and I had to overcome a great deal of skepticism on the part of my peers and family, but it was the most profound, meaningful and significant professional decision I ever made." — William Thompson

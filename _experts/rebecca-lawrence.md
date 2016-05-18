@@ -11,12 +11,15 @@ solutions:
 - Stability
 layout: expert
 image: "/assets/images/experts/Lawrence_Inner.jpg"
-summary: "Since 1996, Rebecca Lawrence has planned and implemented more than a dozen large-scale development programs, and contributed to the design or management of at least 20 others."
+summary: Since 1996, Rebecca Lawrence has planned and implemented more than a dozen
+  large-scale development programs, and contributed to the design or management of
+  at least 20 others.
 job-title: Senior Development Specialist
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Since 1996, Rebecca Lawrence has planned and implemented more than a dozen large-scale development programs, and contributed to the design or management of at least 20 others. She has more than 15 years of experience in democracy, governance, and stabilization programs in Africa (Ethiopia, Kenya, Somalia, and Zimbabwe), Asia (Afghanistan, Pakistan), the Balkans, the former Soviet Union, and the Middle East. These programs have encompassed good governance, civil society development, conflict mitigation, and municipal services and infrastructure.
 
 Rebecca currently directs the U.K. Department for International Development's Mozambique Democratic Governance Support Program, which aims to build voice and accountability in urban municipalities. Previously, she managed DAI's cross-cutting teams implementing stabilization and state-building programs for the U.S. Agency for International Development (USAID) in East Africa, and was project team leader for more than $65 million in USAID-funded programs in Pakistan. She has also worked on DAI's business development team and chaired its Haiti working group.

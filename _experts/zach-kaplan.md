@@ -16,14 +16,20 @@ solutions:
 - Natural Resource Management
 layout: expert
 image: "/assets/images/experts/KaplanInner.jpg"
-summary: "Originally from North Carolina, Zachary Kaplan never planned to become a development professional. Instead, he wanted to be a veterinarian. However, after creating an international development outreach program as a graduate student, Zach decided to pursue a career in development instead."
+summary: Originally from North Carolina, Zachary Kaplan never planned to become a
+  development professional. Instead, he wanted to be a veterinarian. However, after
+  creating an international development outreach program as a graduate student, Zach
+  decided to pursue a career in development instead.
 job-title: Development Specialist and Chief of Party, Chevron Masters Services Agreement
 articles:
-- name: Addressing Resilience to Climate Change with Public-Private Partnerships in Vietnam, _Developing Alternatives_, Winter 2013–14
+- name: Addressing Resilience to Climate Change with Public-Private Partnerships in
+    Vietnam, _Developing Alternatives_, Winter 2013–14
   article_file: http://dai-global-developments.com/articles/climate-resilient-city.html
-- name: "Mining for Answers: Mozambique Weighs Options for a Practical, Profitable Local Content Policy, _Developments_"
+- name: 'Mining for Answers: Mozambique Weighs Options for a Practical, Profitable
+    Local Content Policy, _Developments_'
   article_file: http://dai-global-developments.com/articles/mining-for-answers.html
 ---
+
 Originally from North Carolina, Zachary Kaplan never planned to become a development professional. Instead, he wanted to be a veterinarian. However, after creating an international development outreach program as a graduate student, Zach decided to pursue a career in development instead. He came to DAI after several years at the World Bank Group. His development focus has been on private and financial sector development and unlocking ways to open markets to new private sector actors. In particular, Zach specializes in public-private partnerships (PPP) in both core and social infrastructure, helping governments and private sector clients work together and deliver key services and goods. He is also interested in the intersection of private sector development, natural resource development, and environmental conservation.
 
 His in-country experience includes Nigeria, Ghana, Liberia, Sierra Leone, Kenya, Tanzania, Mozambique, Rwanda, Honduras, Brazil, Vietnam, and the Philippines. With these experiences, Zach has authored works on developing long-term infrastructure finance in sub-Saharan Africa; overcoming constraints to the legal and regulatory challenges for public-private partnerships; strengthening private sector investment in fragile states; and applying innovative financing mechanisms for PPP transactions in emerging sectors. Zach has deep experience working in the extractive industry advising on local content development, supply chain strengthening and enterprise development. Zach has advised governments on issues around leveraging investment in natural resource production for local economic development in Nigeria, Ghana, and Mozambique.

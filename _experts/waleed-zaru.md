@@ -13,12 +13,17 @@ solutions:
 - Water Services and Resource Management
 layout: expert
 image: "/assets/images/experts/Waleed_Inner.jpg"
-summary: "Even before Waleed Zaru officially started working in the field of international development, he was helping build up his country's private sector—first managing the rapid growth of a home builder and then working with a local nongovernmental organization (NGO) focused on local capacity building and community education programs for generating jobs."
+summary: Even before Waleed Zaru officially started working in the field of international
+  development, he was helping build up his country's private sector—first managing
+  the rapid growth of a home builder and then working with a local nongovernmental
+  organization (NGO) focused on local capacity building and community education programs
+  for generating jobs.
 job-title: Senior Director of Project Finance
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Even before Waleed Zaru officially started working in the field of international development, he was helping build up his country's private sector—first managing the rapid growth of a home builder and then working with a local nongovernmental organization (NGO) focused on local capacity building and community education programs for generating jobs.
 
 Waleed currently oversees a group of worldwide professionals responsible for the accounting and management of project financial activities.

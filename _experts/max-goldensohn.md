@@ -9,12 +9,16 @@ solutions:
 - Economic Growth
 layout: expert
 image: "/assets/images/experts/Goldensohn_Inner.jpg"
-summary: "Max Goldensohn joined the Peace Corps after college and spent two years in Gabon building schools with villagers in remote communities. After graduate school, Max went to Laos as a civilian volunteer during the Vietnam War and taught future teachers to do community development."
+summary: Max Goldensohn joined the Peace Corps after college and spent two years in
+  Gabon building schools with villagers in remote communities. After graduate school,
+  Max went to Laos as a civilian volunteer during the Vietnam War and taught future
+  teachers to do community development.
 job-title: Team Leader, Ethiopia PEPE and Senior Advisor for Special Projects
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Max Goldensohn joined the Peace Corps after college and spent two years in Gabon building schools with villagers in remote communities. After graduate school, Max went to Laos as a civilian volunteer during the Vietnam War and taught future teachers to do community development. By then he was thoroughly bitten by the international development bug, and has since worked for 40 years in program management, capacity building, training, and monitoring and evaluation, including more than 20 years managing long-term projects in agribusiness and agricultural production in the developing world. Max has augmented his expertise with a deep understanding of strategy development, planning and capacity building, and the impact of policy on citizens' lives, all of it grounded in his training in anthropology.
 
 >"DAI always tries to play from a position of superior virtue when it deals with beneficiaries, partners, subcontractors, and funding organizations. This has led me to stick with DAI and to return to the company after a brief separation." — Max Goldensohn

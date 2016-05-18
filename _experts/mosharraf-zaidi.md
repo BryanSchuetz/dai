@@ -8,12 +8,15 @@ solutions:
 - Governance
 layout: expert
 image: "/assets/images/experts/Mosharraf-Inner.jpg"
-summary: "Mosharraf Zaidi is the Team Leader for the Transforming Education in Pakistan programme and Campaign Director for _Alif Ailaan_, a political campaign to help end Pakistan's education crisis."
+summary: Mosharraf Zaidi is the Team Leader for the Transforming Education in Pakistan
+  programme and Campaign Director for _Alif Ailaan_, a political campaign to help
+  end Pakistan's education crisis.
 job-title: Team Leader, Transforming Education in Pakistan
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Mosharraf Zaidi is the Team Leader for the Transforming Education in Pakistan programme and Campaign Director for _Alif Ailaan_, a political campaign to help end Pakistan's education crisis. Previously, he has held senior positions with governments and various international organizations. Until January 2013, he was the principal advisor to the Foreign Minister of Pakistan. His responsibilities at the Ministry include working on Pakistan's key strategic relationships, communication outreach and he helped establish the country's public diplomacy division.
 
 Over the course of his career as a government advisor, he has supported local government reform in New York City (for the New York City Council), administrative reform in the Government of the Punjab (for the Chief Minister of the Punjab) and numerous reform efforts including technology policy, higher education and capital markets reform for the Government of Pakistan. He has also advised the United Nations, the European Union, the World Bank, the Asian Development Bank, the UK Government's Department for International Devlopment, and the Danish and Swiss governments on policy issues in Afghanistan, Pakistan and the South Asia region.

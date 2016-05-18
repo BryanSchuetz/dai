@@ -14,9 +14,10 @@ summary: |
   Nate Bourns began learning the value of language as a 12-year-old while on a trip to Mexico with his Spanish class—and the lesson stuck. "Language opens up all sorts of windows to the world, and lets you think the way other people think," Nate says.
 job-title: Managing Director, International
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Nate Bourns began learning the value of language as a 12-year-old while on a trip to Mexico with his Spanish class—and the lesson stuck. "Language opens up all sorts of windows to the world, and lets you think the way other people think," Nate says. "Being able to see things from the local people's perspective is essential when working in development." This is certainly true in microfinance, which provides basic financial services—borrowing, saving, insurance, and so on—for people traditionally seen as too poor or isolated to appear as potential consumers for conventional banks.
 
 >"What really inspires me is the notion of business helping society. That is what interests me about microfinance—in microfinance you must think about the real needs of the poor and innovate around that." — Nate Bourns

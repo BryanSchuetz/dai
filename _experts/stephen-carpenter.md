@@ -13,12 +13,15 @@ solutions:
 - Public Financial Management
 layout: expert
 image: "/assets/images/experts/Carpenter-Inner.jpg"
-summary: "Stephen Carpenter is a governance specialist with 15 years of experience whose field-based work has focused on anticorruption, public financial management, customs modernization, and institutional strengthening. "
+summary: 'Stephen Carpenter is a governance specialist with 15 years of experience
+  whose field-based work has focused on anticorruption, public financial management,
+  customs modernization, and institutional strengthening. '
 job-title: Global Practice Lead, Public Financial Management
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Stephen Carpenter is a governance specialist with 15 years of experience whose field-based work has focused on anticorruption, public financial management, customs modernization, and institutional strengthening.
 
 Previously at Deloitte Consulting, Stephen led new business development efforts and managed donor projects in governance and economic growth. As Director of Tetra Tech ARD's Democracy and Governance Sector, Stephen provided strategic leadership in the areas of local governance and decentralization, anticorruption, analytical services, and legislative strengthening.

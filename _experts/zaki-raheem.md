@@ -12,12 +12,16 @@ solutions:
 - Economic Growth
 layout: expert
 image: "/assets/images/experts/RaheemInner.jpg"
-summary: "While on a Fulbright scholarship more than 10 years ago, Zaki Raheem first became interested in microenterprise development while being the only male working with a women's microfinance program in rural Philippines."
+summary: While on a Fulbright scholarship more than 10 years ago, Zaki Raheem first
+  became interested in microenterprise development while being the only male working
+  with a women's microfinance program in rural Philippines.
 job-title: Global Practice Specialist, Private Sector Development
 articles:
-- name: Why more diaspora investors are exploring business opportunities in Somaliland, _The Guardian_
-  article_file: http://www.theguardian.com/global-development-professionals-network/dai-partner-zone/bringing-it-home 
+- name: Why more diaspora investors are exploring business opportunities in Somaliland,
+    _The Guardian_
+  article_file: http://www.theguardian.com/global-development-professionals-network/dai-partner-zone/bringing-it-home
 ---
+
 While on a Fulbright scholarship more than 10 years ago, Zaki Raheem first became interested in microenterprise development while being the only male working with a women's microfinance program in rural Philippines. The experience exposed him to the role of the private sector in a country's development and the potentially positive impact that smart investments, inclusive policies, and sound market assessments could have on the lives and livelihoods of the enterprising poor in the developing world.
 
 After these early experiences, Zaki joined Innovest Strategic Value Advisors, a socially responsible investment advisory firm, to explore the role of capital markets and multinational corporation investments in emerging markets.

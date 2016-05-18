@@ -11,12 +11,15 @@ solutions:
 - Stability
 layout: expert
 image: "/assets/images/experts/Weeks_Inner-1.jpg"
-summary: "Willet Weeks has four decades of experience in Africa, mostly in conflict and postconflict zones. He is especially knowledgeable about the cultures and the political and social dynamics of the Great Lakes region."
+summary: Willet Weeks has four decades of experience in Africa, mostly in conflict
+  and postconflict zones. He is especially knowledgeable about the cultures and the
+  political and social dynamics of the Great Lakes region.
 job-title: Advisor, Stability
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 Willet Weeks has four decades of experience in Africa, mostly in conflict and postconflict zones. He is especially knowledgeable about the cultures and the political and social dynamics of the Great Lakes region. Willet lived and worked for extended periods in the Democratic Republic of Congo (DRC), first as a Peace Corps staff member, then as a founder and director of the Peace Corps Regional Training Center in Bukavu. He subsequently led the first U.S. Agency for International Development (USAID) assessment in the DRC following the fall of the Mobutu regime for the Office of Transition Initiatives (OTI), and was OTI country representative for three years, developing a network with government and civil society leaders and playing an important role in facilitating the Lusaka agreements.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="http://player.vimeo.com/video/57136931" webkitallowfullscreen="" width="703"></iframe>
