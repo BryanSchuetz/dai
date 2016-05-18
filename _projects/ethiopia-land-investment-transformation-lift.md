@@ -1,6 +1,6 @@
 ---
 title: Ethiopia—Land Investment for Transformation (LIFT)
-date: 2016-01-21 22:40:52.765000000 Z 
+date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
 start-date: 2014
 end-date: 2019
