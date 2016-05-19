@@ -14,8 +14,11 @@ solutions:
 - Governance
 - Land Tenure and Property Rights
 layout: project
-summary: "Smallholder land registrations under the Village Land Act in Tanzania are of considerable importance in protecting local land rights. Since passing the Act in 1999, the process of registration has moved slowly."
+summary: Smallholder land registrations under the Village Land Act in Tanzania are
+  of considerable importance in protecting local land rights. Since passing the Act
+  in 1999, the process of registration has moved slowly.
 ---
+
 Smallholder land registrations under the Village Land Act in Tanzania are of considerable importance in protecting local land rights. Since passing the Act in 1999, the process of registration has moved slowly. Procedures need to be low cost simple and efficient, and future transactions must be supported and the registers maintained. Under the LTA program, DAI will combine an existing tool for mapping smallholdings—Mobile Application to Secure Tenure (MAST), which the U.S. Agency for International Development (USAID) has piloted in Tanzania—with our expertise in scaling up and linking to a low-cost land registry tool Technical Register Under Social Tenure (TRUST), that DAI will develop at local levels.
 
 MAST is one of a number of tools that USAID is developing with a view to being adopted in future programs.

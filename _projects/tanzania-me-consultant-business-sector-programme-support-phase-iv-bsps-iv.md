@@ -11,8 +11,11 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "The fourth phase of the Business Sector Programme Support (BSPS IV) has three components—Agricultural Markets Development, Improved Business Climate, and Access to Finance—and six subcomponents."
+summary: The fourth phase of the Business Sector Programme Support (BSPS IV) has three
+  components—Agricultural Markets Development, Improved Business Climate, and Access
+  to Finance—and six subcomponents.
 ---
+
 The fourth phase of the Business Sector Programme Support (BSPS IV) has three components—Agricultural Markets Development, Improved Business Climate, and Access to Finance—and six subcomponents.
 
 While partner organizations are responsible for implementing and managing monitoring and evaluation (M&E) for the subcomponents, DAI's consultancy is developing and implementing a coherent M&E system for BSPS IV and its three components—Agricultural Markets Development, Improved Business Climate, and Access to Finance.

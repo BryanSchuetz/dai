@@ -11,8 +11,12 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "PEP-Z is tackling low productivity and increasing competitiveness in Zambia's private sector by strengthening the capacity of micro, small, and medium-sized enterprises (MSMEs). We are targeting enterprises that have the potential to grow, create jobs, and contribute to the diversification of the Zambian economy."
+summary: PEP-Z is tackling low productivity and increasing competitiveness in Zambia's
+  private sector by strengthening the capacity of micro, small, and medium-sized enterprises
+  (MSMEs). We are targeting enterprises that have the potential to grow, create jobs,
+  and contribute to the diversification of the Zambian economy.
 ---
+
 DAI is the contract holder, but our partner Nathan Associates is implementing this program. Our goal is to deliver outputs, outcome, and impact while ensuring value for money is achieved by building in appropriate programme and financial management systems.
 
 ###  ![][1]

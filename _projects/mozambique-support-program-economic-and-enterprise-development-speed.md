@@ -11,8 +11,12 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. However, there is a pressing need to prioritize, deepen, and accelerate key reforms; strengthen private sector participation in policy dialogue; and create the capacity and systems to ensure that key reforms are implemented effectively."
+summary: Mozambique has been engaged in economic policy reform since its first democratic
+  elections in 1994. However, there is a pressing need to prioritize, deepen, and
+  accelerate key reforms; strengthen private sector participation in policy dialogue;
+  and create the capacity and systems to ensure that key reforms are implemented effectively.
 ---
+
 Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. However, there is a pressing need to prioritize, deepen, and accelerate [key reforms][1]; strengthen private sector participation in policy dialogue; and create the capacity and systems to ensure that key reforms are implemented effectively. Some positive trends are visible. A strong constituency for reform exists within the business community, a public-private dialogue mechanism is in place, capacity is being built to advance economic policy reforms, and numerous analytical studies have recommended reform priorities. [SPEED][2] supports and expands ongoing reforms to catalyze economic development and speed the transformation of Mozambique's economic, legal, and governance systems into those of a modern, developed country. SPEED's goal is to have more companies doing more business, resulting in increased trade and investment and a [stronger competitive position][3] for Mozambican firms, thus creating local opportunities for job and income growth.
 
 ![][4]

@@ -15,8 +15,12 @@ solutions:
 - Institutional and Policy Reform
 - Public Administration, Civil Service Reform, and Human Resources Management
 layout: project
-summary: "While there is some quite good quality economic policy research in and around Zambia, most people, including policy makers, don't know about it. ZEAP aims to raise the quality of research and how it is communicated and improve the ways in which it is used for advocacy."
+summary: While there is some quite good quality economic policy research in and around
+  Zambia, most people, including policy makers, don't know about it. ZEAP aims to
+  raise the quality of research and how it is communicated and improve the ways in
+  which it is used for advocacy.
 ---
+
 While there is some quite good quality economic policy research in and around Zambia, most people, including policy makers, don't know about it. ZEAP aims to raise the quality of research and how it is communicated and improve the ways in which it is used for advocacy. The intended outcome is more and better public debate with the expectation that this will lead to better economic policy and, in turn, more wealth creation and poverty alleviation.
 
 Funded by the U.K. Department for International Development (DFID), ZEAP also supports the Economics Association of Zambia (EAZ), a long established association of business, banking, academic, and government representatives. The organisation is well placed to use its senior network to spread informed messages regarding economic policy.

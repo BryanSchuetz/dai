@@ -12,8 +12,11 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: project
-summary: "The first phase of the Hunger Safety Net Programme (HSNP) in Kenya—from 2009 to 2012—reached 69,000 households in four northern counties with a cash transfer payment every two months."
+summary: The first phase of the Hunger Safety Net Programme (HSNP) in Kenya—from 2009
+  to 2012—reached 69,000 households in four northern counties with a cash transfer
+  payment every two months.
 ---
+
 The first phase of the Hunger Safety Net Programme (HSNP) in Kenya—from 2009 to 2012—reached 69,000 households in four northern counties with a cash transfer payment every two months. Phase 2 expands coverage within the same four counties: Marsabit, Mandera, [Turkana][1], and Wajir.
 
 Households receiving the regular bi-monthly cash transfers have been selected from the poorest 10 percent in each county, using a combination of Community-Based Targeting and Proxy Means Testing. The number of beneficiary households will gradually increase to 100,000. A scalable emergency cash transfer response to droughts will be built for 470,000 households, which will be provided with bank accounts and cards in advance to facilitate rapid transfers.

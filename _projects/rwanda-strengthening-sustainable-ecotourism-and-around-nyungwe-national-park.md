@@ -1,5 +1,6 @@
 ---
-title: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National Park (SSENNP)
+title: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National
+  Park (SSENNP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2010
@@ -11,8 +12,13 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: "Rwanda is an emerging tourist destination. This program is helping the country reach its tourism potential by targeting the spectacular Nyungwe National Park (NNP), focusing on inclusive ecotourism development for the benefit of communities surrounding the park and leveraging private sector investment in management, construction, and maintenance of new and existing park infrastructure."
+summary: Rwanda is an emerging tourist destination. This program is helping the country
+  reach its tourism potential by targeting the spectacular Nyungwe National Park (NNP),
+  focusing on inclusive ecotourism development for the benefit of communities surrounding
+  the park and leveraging private sector investment in management, construction, and
+  maintenance of new and existing park infrastructure.
 ---
+
 Rwanda is an emerging tourist destination. This program is helping the country reach its tourism potential by targeting the spectacular Nyungwe National Park (NNP), focusing on inclusive ecotourism development for the benefit of communities surrounding the park and leveraging private sector investment in management, construction, and maintenance of new and existing park infrastructure. Dubbed Nyungwe Nziza, or "beautiful Nyungwe," the project is helping to transform NNP into a viable ecotourism destination capable of generating employment and sustainable and equitable income for local communities and other stakeholders, thus providing economic incentives to conserve the park's rich biodiversity. The goal is a thriving economy in NNP with engaged communities and a private sector that benefit economically by protecting and leveraging their unique environment.
 
 ![][1]

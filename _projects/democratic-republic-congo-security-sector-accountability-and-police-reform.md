@@ -1,5 +1,6 @@
 ---
-title: Democratic Republic of the Congo—Security Sector Accountability and Police Reform Programme (SSAPR)
+title: Democratic Republic of the Congo—Security Sector Accountability and Police
+  Reform Programme (SSAPR)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
 start-date: 2009
@@ -14,8 +15,13 @@ solutions:
 - Stability
 - Transition and Stabilization Programming
 layout: project
-summary: "The Democratic Republic of the Congo (DRC) has for decades been riven by war, corruption, and inadequate governance. Too often, the security and police forces have been part of the problem rather than the solution for the Congolese people, operating within a culture of impunity that perpetuates a cycle of violence, conflict, and criminality."
+summary: The Democratic Republic of the Congo (DRC) has for decades been riven by
+  war, corruption, and inadequate governance. Too often, the security and police forces
+  have been part of the problem rather than the solution for the Congolese people,
+  operating within a culture of impunity that perpetuates a cycle of violence, conflict,
+  and criminality.
 ---
+
 The Democratic Republic of the Congo (DRC) has for decades been riven by war, corruption, and inadequate governance. Too often, the security and police forces have been part of the problem rather than the solution for the Congolese people, operating within a culture of impunity that perpetuates a cycle of violence, conflict, and criminality. If we are to help address poverty and establish democratic systems responsive to the needs of the DRC's citizens, we must simultaneously address this fundamental issue of human security. SSAPR is working to improve the DRC's capacity to provide security, safety, and justice for all. Specifically, it is tackling the "[demand side][1]" of the problem, working with citizens, government institutions, and elected representatives to ensure that the security and justice sectors are responsive and accountable to the people they are meant to serve.
 
 ![][2]

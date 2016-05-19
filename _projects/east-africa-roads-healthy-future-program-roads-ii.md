@@ -11,8 +11,12 @@ solutions:
 - Health
 - Health and Livelihoods
 layout: project
-summary: "The project works to increase access to multisectoral HIV/AIDS, health, and related services for mobile populations and vulnerable communities along major transport corridors; and to increase African regional institutions' capacity to scale up best practices and apply lessons learned in HIV and health."
+summary: The project works to increase access to multisectoral HIV/AIDS, health, and
+  related services for mobile populations and vulnerable communities along major transport
+  corridors; and to increase African regional institutions' capacity to scale up best
+  practices and apply lessons learned in HIV and health.
 ---
+
 The ROADS II program, a successor to the Regional Outreach for Addressing AIDS through Development Strategies (ROADS) project, is implemented under a cooperative agreement, where Family Health International (FHI) holds the Leader Award and DAI is a subcontractor to FHI. ROADS II, headquartered in Nairobi, Kenya, operates in Ethiopia, Kenya, Rwanda, Tanzania, Uganda, Burundi, the Democratic Republic of the Congo, Djibouti, and Sudan. The project works to increase access to multisectoral HIV/AIDS, health, and related services for mobile populations and vulnerable communities along major transport corridors; and to increase African regional institutions' capacity to scale up best practices and apply lessons learned in HIV and health. The economic activities of most ROADS II beneficiaries lie in low-yield subsistence agriculture and low-margin petty trade. Most of these households are further disadvantaged by the recent deaths of working members, poor agricultural skills, inadequate access to supplies, inability to raise the capital required to grow microenterprises, and dissolution of safety nets that would allow them to recover from accidents or illnesses. They are stuck in a poverty trap, eking out a living by, for example, selling poor-quality sunflower oil or peddling water bottles at truck stops. Adverse living conditions force many of these low-income women and youths to engage in transactional sex, further exposing them and their partners to HIV infection. With FHI, DAI is empowering these communities to improve their lives through savings groups, business skills training, and participation in higher-value industries, with the goal of building their resilience and reducing the risks they face in securing their livelihoods. DAI's technical and regional experience in this area is informed by our work on the Urban Agriculture Program for HIV-Affected Women in Ethiopia and its successor, the [Urban Gardens for HIV-Affected Women and Children project][1].
 
 ![][2]

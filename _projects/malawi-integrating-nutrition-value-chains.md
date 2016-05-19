@@ -13,8 +13,13 @@ solutions:
 - Natural Resource Management
 - Nutrition and Food Security
 layout: project
-summary: "DAI and our partners, Michigan State University and Save the Children, are concentrating on inclusive value chain building in Malawi and smallholders' decision-making about what to plant and consume, acknowledging that smallholders operate under short horizons with limited assets and coping strategies for handling fluctuations in food and income."
+summary: DAI and our partners, Michigan State University and Save the Children, are
+  concentrating on inclusive value chain building in Malawi and smallholders' decision-making
+  about what to plant and consume, acknowledging that smallholders operate under short
+  horizons with limited assets and coping strategies for handling fluctuations in
+  food and income.
 ---
+
 DAI and our partners, Michigan State University and Save the Children, are concentrating on inclusive value chain building in Malawi and smallholders' decision-making about what to plant and consume, acknowledging that smallholders operate under short horizons with limited assets and coping strategies for handling fluctuations in food and income.
 
 The project promotes gender-equitable, agriculture-led, integrated economic growth approaches to increase the competitiveness of the legume and dairy value chains; improve productivity through soil and water management practices; reduce chronic under-nutrition; foster innovation in agricultural value chains; and develop the capacity of local organizations and systems to promote climate change resilience.

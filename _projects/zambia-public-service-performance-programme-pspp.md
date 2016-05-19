@@ -11,8 +11,11 @@ country:
 solutions:
 - Governance
 layout: project
-summary: "Zambia is a middle-income country but poverty is still widespread and service delivery is unsatisfactory. This five-year programme is supporting the Government of Zambia (GRZ) to improve the delivery of public goods and services."
+summary: Zambia is a middle-income country but poverty is still widespread and service
+  delivery is unsatisfactory. This five-year programme is supporting the Government
+  of Zambia (GRZ) to improve the delivery of public goods and services.
 ---
+
 Zambia is a middle-income country but poverty is still widespread and service delivery is unsatisfactory. This five-year programme is supporting the Government of Zambia (GRZ) to improve the delivery of public goods and services.
 
 We will support a Zambian-led process, building sustained capacity in the Cabinet Office, which has a central role in driving up efficiency and holding line ministries accountable. PSPP will aim for a balance between rural and urban issues, and an appropriate geographic spread. Where possible, PSPP will develop links and achieve synergy with other Zambia programmes of the U.K. Department for International Development.

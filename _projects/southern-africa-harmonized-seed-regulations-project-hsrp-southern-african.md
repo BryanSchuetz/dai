@@ -1,5 +1,6 @@
 ---
-title: Southern Africa—Harmonized Seed Regulations Project (HSRP) in the Southern African Development Community
+title: Southern Africa—Harmonized Seed Regulations Project (HSRP) in the Southern
+  African Development Community
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2015
@@ -12,8 +13,12 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: project
-summary: "Based in Lusaka, Zambia, we provide technical assistance to help harmonize seed regulations in the Southern African Development Community (SADC), which will allow seed trade across the region, thereby integrating smaller and isolated national markets into one larger SADC market for seeds."
+summary: Based in Lusaka, Zambia, we provide technical assistance to help harmonize
+  seed regulations in the Southern African Development Community (SADC), which will
+  allow seed trade across the region, thereby integrating smaller and isolated national
+  markets into one larger SADC market for seeds.
 ---
+
 Based in Lusaka, Zambia, we provide technical assistance to help harmonize seed regulations in the Southern African Development Community (SADC), which will allow seed trade across the region, thereby integrating smaller and isolated national markets into one larger SADC market for seeds. This process will increase the availability of new, improved varieties and high-quality seeds of maize, soy, and groundnuts in Feed the Future and other countries.
 
 Seed regulations that promote crop varieties with higher yield, pest and disease tolerance, drought resistance, and improved nutritional profiles are part of a larger package of initiatives designed to improve regional policy coherence and, in turn, boost agricultural productivity and food and nutrition security.

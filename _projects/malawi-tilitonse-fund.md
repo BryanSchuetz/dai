@@ -12,8 +12,13 @@ solutions:
 - Governance
 - Institutional and Policy Reform
 layout: project
-summary: "Malawi is a largely rural country and, despite impressive recent progress, poverty rates and basic service delivery remain a challenge. Sixteen years since multi-party democracy replaced 30 years of single party rule, many people are still unused to holding government to account for services they provide, how they manage public money, or protection of basic rights."
+summary: Malawi is a largely rural country and, despite impressive recent progress,
+  poverty rates and basic service delivery remain a challenge. Sixteen years since
+  multi-party democracy replaced 30 years of single party rule, many people are still
+  unused to holding government to account for services they provide, how they manage
+  public money, or protection of basic rights.
 ---
+
 Malawi is a largely rural country and, despite impressive recent progress, poverty rates and basic service delivery remain a challenge. Sixteen years since multi-party democracy replaced 30 years of single party rule, many people are still unused to holding government to account for services they provide, how they manage public money, or protection of basic rights. This leaves communities, especially the poor, lacking the ability to address the problems that reduce their quality of life and their vulnerability to the impact of corruption.
 
 The [Tilitonse Fund][1], worth approximately £12 million, is a grants facility for Malawian-based civil society organisations (CSOs) supporting projects that bolster accountable, inclusive, and responsive governance in Malawi. The approach that Tilitonse advocates is one of collaboration and coalition building, not confrontation. Bringing groups in society together to advocate for and create positive change, including government, the private sector, faith groups, the media and others, can create increased responsiveness in duty bearers and power holders in and outside government and lead to greater social inclusion, increased accountability and the improved delivery of basic services.
