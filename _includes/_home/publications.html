@@ -21,13 +21,13 @@
       {% assign reversed_articles = sorted_articles | reverse %}
       {% assign first = reversed_articles[0] %}
       <h3><a href="{{ first.link }}">{{ first.title }}</a></h3>
-      {{ first.summary }}
+      {{ first.summary | truncatewords:40 }}
       <!-- <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
     </div>
     <div class="primary-block split right">
       {% assign second = reversed_articles[1] %}
       <h3><a href="{{ second.link }}">{{ second.title }}</a></h3>
-      {{ second.summary }}
+      {{ second.summary | truncatewords:40 }}
       <!-- <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
     </div>
   </div>

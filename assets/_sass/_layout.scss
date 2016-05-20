@@ -128,10 +128,6 @@ header{
   margin-right: auto;
   margin-left: auto;
 }
-.header-inner--logo{
-  display: block;
-  float: left;
-}
 // 🎌 HEADER: UTILITY NAVIGATION 🎌
 .st-ui-injected-overlay-container *:not(select){
   font-family: 'proxima-nova', helvetica, arial, sans-serif !important;
@@ -194,6 +190,7 @@ header{
 .logo{
   float: left;
   height: 1rem;
+  width: 56px;
   position: relative;
   top: .04rem;
   margin-right: 1rem;
@@ -202,7 +199,15 @@ header{
   }
   @include responsive(medium-screens){
     height: 1.5rem;
+    width: 96px;
   }
+  @include responsive(wide-screens){
+    width: 108px;
+  }
+}
+.header-inner--logo{
+  display: block;
+  float: left;
 }
 .header-nav--main{
   @include clearfix;
