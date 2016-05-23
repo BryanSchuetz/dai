@@ -11,8 +11,14 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "PMDP aims to improve market systems and improve the competitiveness of the Palestinian private sector. We will do so by improving private sector skills and innovation through technical assistance and matching grants; addressing market system failures in specific sectors through market analysis and facilitation; and strengthening trade and investment linkages with international markets in collaboration with key commercial representatives."
+summary: PMDP aims to improve market systems and improve the competitiveness of the
+  Palestinian private sector. We will do so by improving private sector skills and
+  innovation through technical assistance and matching grants; addressing market system
+  failures in specific sectors through market analysis and facilitation; and strengthening
+  trade and investment linkages with international markets in collaboration with key
+  commercial representatives.
 ---
+
 PMDP aims to improve market systems and improve the competitiveness of the Palestinian private sector. We will do so by improving private sector skills and innovation through technical assistance and matching grants; addressing market system failures in specific sectors through market analysis and facilitation; and strengthening trade and investment linkages with international markets in collaboration with key commercial representatives. DAI will work as well to mobilize Palestinian diaspora to explore opportunities to transfer knowledge and improve linkages on trade and investment.
 
 PMDP is a follow-on to the [Facility for New Market Development][1] project (2008–2012) implemented by DAI, which built a portfolio of 603 client-companies in the West Bank and Gaza from sectors including manufacturing, agribusiness, stone and marble, ICT, services, tourism, pharmaceuticals, media, and handicrafts. During the project, these client-companies increased their sales by $118 million and created more than 3,400 permanent jobs.

@@ -16,6 +16,7 @@ layout: project
 summary: |
   Jordan faces an immediate challenge: to create high-quality jobs through increased private sector competitiveness. To do this, the country must look outward for opportunity—through exports and foreign direct investment—while meeting diverse internal needs related to resource scarcity, geographic inequality, and high unemployment among youth and women.
 ---
+
 Jordan faces an immediate challenge: to create high-quality jobs through increased private sector competitiveness. To do this, the country must look outward for opportunity—through exports and foreign direct investment—while meeting diverse internal needs related to resource scarcity, geographic inequality, and high unemployment among youth and women.
 
 [The Jordan Competitiveness Program (JCP)][1], funded by the U.S. Agency for International Development (USAID), assists Jordanian private and public sector leaders to achieve competitiveness and job creation goals, equitably and sustainably.

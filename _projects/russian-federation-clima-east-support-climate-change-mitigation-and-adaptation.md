@@ -15,8 +15,12 @@ solutions:
 - Environment and Energy
 - Governance
 layout: project
-summary: "The Clima East programme works to help integrate the countries' climate change strategies, greenhouse gases mitigation plans and adaptation approaches. The programme is part of a larger Clima East package, to include a pilot project component, implemented by UNDP, supporting the development of ecosystems-based approaches to climate change."
+summary: The Clima East programme works to help integrate the countries' climate change
+  strategies, greenhouse gases mitigation plans and adaptation approaches. The programme
+  is part of a larger Clima East package, to include a pilot project component, implemented
+  by UNDP, supporting the development of ecosystems-based approaches to climate change.
 ---
+
 The countries of the ENP East region—[Armenia][1], Azerbaijan, Belarus, Georgia, Moldova, and Ukraine—and the Russian Federation are signatories of the UN Framework Convention on Climate Change and its Kyoto Protocol, and as such have a number of obligations. The Clima East programme works to help integrate the countries' climate change strategies, greenhouse gases mitigation plans and adaptation approaches. The programme is part of a larger [Clima East][2] package, to include a pilot project component, implemented by UNDP, supporting the development of ecosystems-based approaches to climate change.
 
 ###  Sample Activities

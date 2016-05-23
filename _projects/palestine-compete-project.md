@@ -12,8 +12,11 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 layout: project
-summary: "We are helping the agribusiness, tourism, information and communication technology (ICT), and stone and marble sectors in the West Bank and Gaza compete in the global market."
+summary: We are helping the agribusiness, tourism, information and communication technology
+  (ICT), and stone and marble sectors in the West Bank and Gaza compete in the global
+  market.
 ---
+
 We are helping the [agribusiness][1], tourism, information and communication technology (ICT), and stone and marble sectors in the West Bank and Gaza [compete][2] in the global market. To do so, we are forging solid connections in these sectors between small and medium-sized enterprises and larger producers and exporters that have direct and more efficient access to markets. Working beyond anchor firms, we are implementing an industry-wide approach that leverages the U.S. Agency for International Development's past investments and helps these smaller businesses link into, actively participate in, and benefit from sectorwide economic growth and development activities. By increasing the flow of information, products, and technology throughout these sectors, [The Compete Project][3] will empower these firms to perceive and take hold of the opportunities around them. We will build managerial, marketing, and production skills to help these firms meet quantity and quality standards, and become active participants in global value chains.
 
 ![][4]
