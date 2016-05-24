@@ -13,8 +13,12 @@ solutions:
 - Governance
 - Voice and Accountability
 layout: project
-summary: "AAWAZ brings together five of the most important civil society development organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan, Strengthening Participatory Organization, Sungi Development Foundation, and Sustainable Development Policy Institute."
+summary: 'AAWAZ brings together five of the most important civil society development
+  organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan,
+  Strengthening Participatory Organization, Sungi Development Foundation, and Sustainable
+  Development Policy Institute.'
 ---
+
 AAWAZ brings together five of the most important civil society development organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan, Strengthening Participatory Organization, Sungi Development Foundation, and Sustainable Development Policy Institute. Together, they form an integrated network—managed by DAI—to strengthen Pakistani citizens' capacity to collectively voice their priorities, bring about reform, and hold the government accountable.
 
 <iframe src="https://player.vimeo.com/video/162528947" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

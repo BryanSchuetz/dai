@@ -11,8 +11,12 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "Tajikistan is the poorest country in Central Asia, with 49 percent of its rural population living below the poverty line. Approximately 73 percent of the country's 8.2 million citizens live in rural areas, where paid jobs are scarce and the average amount of arable land held per person is 0.11 hectares."
+summary: Tajikistan is the poorest country in Central Asia, with 49 percent of its
+  rural population living below the poverty line. Approximately 73 percent of the
+  country's 8.2 million citizens live in rural areas, where paid jobs are scarce and
+  the average amount of arable land held per person is 0.11 hectares.
 ---
+
 Tajikistan is the poorest country in Central Asia, with 49 percent of its rural population living below the poverty line. Approximately 73 percent of the country's 8.2 million citizens live in rural areas, where paid jobs are scarce and the average amount of arable land held per person is 0.11 hectares. While 46.5 percent of the overall population is employed in agriculture, productivity in the sector is low and represents only 21 percent of national GDP.
 
 Despite rising food prices, the food security situation in Tajikistan has generally improved in recent years, largely due to high levels of remittances from Tajiks working abroad in Russia. However, food security remains a significant concern; 22 percent of households were severely or moderately food insecure as of November 2012. The 2012 Tajikistan Demographic and Health Survey indicates 26 percent of children below the age of 5 were stunted, 10 percent were wasted, and 12 percent were underweight.

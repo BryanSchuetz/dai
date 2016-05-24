@@ -14,8 +14,11 @@ solutions:
 - Institutional and Policy Reform
 - Voice and Accountability
 layout: project
-summary: "The Transforming Education in Pakistan (TEP) programme is developing and implementing a public advocacy campaign in Pakistan to ensure that parents and civil society groups support quality education."
+summary: The Transforming Education in Pakistan (TEP) programme is developing and
+  implementing a public advocacy campaign in Pakistan to ensure that parents and civil
+  society groups support quality education.
 ---
+
 The Transforming Education in Pakistan (TEP) programme is developing and implementing a public advocacy campaign in Pakistan to ensure that parents and civil society groups support quality education. _Alif Ailaan_ is the brand name for the three-year campaign, based on a decade-long engagement between the U.K. Department for International Development and education stakeholders in Pakistan that essentially determined the need for a dramatic change in the level of active political engagement on education issues. The theory of change for the project is that a greater degree of political salience for education is a prerequisite for any transformational change to take place in education in Pakistan.
 
 <iframe src="//player.vimeo.com/video/104423898" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

@@ -15,8 +15,12 @@ solutions:
 - Stability
 - Voice and Accountability
 layout: project
-summary: "This project aims to find opportunities to make short-term, high-impact grants to improve rights awareness, citizen engagement, access to justice, and provision of security services to ensure that Pakistani citizen rights and democratic processes are strengthened at provincial and local levels."
+summary: This project aims to find opportunities to make short-term, high-impact grants
+  to improve rights awareness, citizen engagement, access to justice, and provision
+  of security services to ensure that Pakistani citizen rights and democratic processes
+  are strengthened at provincial and local levels.
 ---
+
 This project aims to find opportunities to make short-term, high-impact grants to improve rights awareness, citizen engagement, access to justice, and provision of security services to ensure that Pakistani citizen rights and democratic processes are strengthened at provincial and local levels.
 
 The Enhanced Democratic Accountability and Civic Engagement (EDACE) project marks the first time the U.K. Foreign and Commonwealth Office has worked through a professional grants manager. The initial geographic focus will be on Sindh and Punjab.

@@ -11,8 +11,13 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: "Lebanon is saddled with a multitude of water and wastewater infrastructure investments that are failing to adequately deliver benefits to its people. The companies that provide water face crippling staff shortages and an aging workforce, poor customer relations, low tariffs that fail to recover operating costs, lack of metering, excessive nonrevenue water, and years of underinvestment in the water and wastewater infrastructure."
+summary: Lebanon is saddled with a multitude of water and wastewater infrastructure
+  investments that are failing to adequately deliver benefits to its people. The companies
+  that provide water face crippling staff shortages and an aging workforce, poor customer
+  relations, low tariffs that fail to recover operating costs, lack of metering, excessive
+  nonrevenue water, and years of underinvestment in the water and wastewater infrastructure.
 ---
+
 Lebanon is saddled with a multitude of water and wastewater infrastructure investments that are failing to adequately deliver benefits to its people. The companies that provide water face crippling staff shortages and an aging workforce, poor customer relations, low tariffs that fail to recover operating costs, lack of metering, excessive nonrevenue water, and years of underinvestment in the water and wastewater infrastructure. Since 2009, the Lebanon Water and Wastewater Sector Support (LWWSS) project has been addressing these challenges by partnering with Lebanon's four water establishments and the Ministry of Energy and Water. LWWSS provides training and technical assistance related to improving operational and management efficiency, customer service and outreach, financial viability and cost recovery, and capital investment planning. Additionally, LWWSS is addressing critical capital infrastructure needs, selecting projects with promise to improve water or wastewater service delivery to 1 million people.
 
 ![][1]

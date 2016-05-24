@@ -11,8 +11,10 @@ country:
 solutions:
 - Transition and Stabilization Programming
 layout: project
-summary: "PREIA works to increase Pakistan's access to regional and international markets and is a key economic growth project that stands to benefit numerous Pakistani businesses."
+summary: PREIA works to increase Pakistan's access to regional and international markets
+  and is a key economic growth project that stands to benefit numerous Pakistani businesses.
 ---
+
 PREIA works to increase Pakistan's access to regional and international markets and is a key economic growth project that stands to benefit numerous Pakistani businesses. This project has two components: improve Pakistan's business enabling environment so that policies, laws, and regulations are adaptable and more reflective of on-the-ground needs; and improve Pakistan's capacity to access regional markets by identifying bottlenecks and practical solutions for increasing export efficiency.
 
 Additionally, PREIA's Activity Fund will help local organizations build capacities to support trade reform and modernization and, subsequently, to utilize these capacities in support of local stakeholders.

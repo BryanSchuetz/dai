@@ -12,8 +12,12 @@ solutions:
 - Decentralization and Local Government Management
 - Governance
 layout: project
-summary: "Afghanistan's municipal governments are not performing at the level they must to maintain their social contract with their citizens. They have improved over the past decade and their performance in public service delivery is better, more so in some municipalities than others."
+summary: Afghanistan's municipal governments are not performing at the level they
+  must to maintain their social contract with their citizens. They have improved over
+  the past decade and their performance in public service delivery is better, more
+  so in some municipalities than others.
 ---
+
 Afghanistan's municipal governments are not performing at the level they must to maintain their social contract with their citizens. They have improved over the past decade and their performance in public service delivery is better, more so in some municipalities than others. But Afghanistan's municipalities are not prepared to continue to improve in the years ahead. SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the General Directorate of Municipal Affairs (GDMA) and Municipal Advisory Boards, will aim to improve municipal financial management, urban service delivery, and citizen consultation.
 
 ![][1]

@@ -11,8 +11,12 @@ country:
 solutions:
 - Governance
 layout: project
-summary: "Khyber Pakhtunkhwa (KP) is Pakistan's smallest province, but it ranks third in population and economic activity. KP's relative vitality and diversity are offset by unstable public services and its vulnerability to militancy. The province, though, has seen incremental gains in stability in the past few years."
+summary: Khyber Pakhtunkhwa (KP) is Pakistan's smallest province, but it ranks third
+  in population and economic activity. KP's relative vitality and diversity are offset
+  by unstable public services and its vulnerability to militancy. The province, though,
+  has seen incremental gains in stability in the past few years.
 ---
+
 Khyber Pakhtunkhwa (KP) is Pakistan's smallest province, but it ranks third in population and economic activity. KP's relative vitality and diversity are offset by unstable public services and its vulnerability to militancy. The province, though, has seen incremental gains in stability in the past few years.
 
 The Khyber Pakhtunkhwa Governance Program (KPG) will assist the provincial government and civil society organizations to implement an agenda that improves local government service and better serves KP citizens. It will establish and manage a mechanism for supporting activities that reinforce stability, counter extremism, and promote democratic inclusiveness, including for women and other marginalized groups.

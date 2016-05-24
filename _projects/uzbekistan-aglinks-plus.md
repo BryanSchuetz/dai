@@ -11,8 +11,12 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "For many people in developing countries, farming is the foundation on which their lives depend. AgLinks Plus works to increase agricultural incomes by improving the competitiveness of Uzbekistan's fruit and vegetable sector, a major driver of the Uzbek economy."
+summary: For many people in developing countries, farming is the foundation on which
+  their lives depend. AgLinks Plus works to increase agricultural incomes by improving
+  the competitiveness of Uzbekistan's fruit and vegetable sector, a major driver of
+  the Uzbek economy.
 ---
+
 For many people in developing countries, farming is the foundation on which their lives depend. AgLinks Plus works to increase agricultural incomes by improving the competitiveness of Uzbekistan's fruit and vegetable sector, a major driver of the Uzbek economy. We support farmers, agrifirms, processors, and other value chain participants. AgLinks Plus deepens and extends activities from the previous successful project that ran from 2007 to 2011.
 
 ![][1]
