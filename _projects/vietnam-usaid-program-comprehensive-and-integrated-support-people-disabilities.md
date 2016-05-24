@@ -1,5 +1,6 @@
 ---
-title: Vietnam—USAID Program of Comprehensive and Integrated Support to People with Disabilities (Disability Support Program)
+title: Vietnam—USAID Program of Comprehensive and Integrated Support to People with
+  Disabilities (Disability Support Program)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2012
@@ -11,8 +12,11 @@ country:
 solutions:
 - Health
 layout: project
-summary: "An estimated 12 million people and families in Vietnam are affected by disabilities, with the resulting human, social, and economic costs to society often exacerbating the poverty that causes or accompanies disability."
+summary: An estimated 12 million people and families in Vietnam are affected by disabilities,
+  with the resulting human, social, and economic costs to society often exacerbating
+  the poverty that causes or accompanies disability.
 ---
+
 An estimated 12 million people and families in Vietnam are [affected by disabilities][1], with the resulting human, social, and economic costs to society often exacerbating the poverty that causes or accompanies disability.
 
 We assisted the Vietnamese to provide more comprehensive care, treatment, and specialized assistance to people with disabilities, beginning in Danang Province. Building on more than 20 years of disability assistance in Vietnam from the U.S. Agency for International Development (USAID), this [program supported][2] the implementation of the Danang disability action plan, worked closely with the departments responsible for carrying out the plan to ensure that there was local government ownership of providing services for the disabled.

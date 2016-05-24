@@ -12,8 +12,11 @@ solutions:
 - Economic Growth
 - Digital
 layout: project
-summary: "Technology—when carefully adapted to the context and users it serves—has the potential to empower civil society organizations (CSOs) to tackle development challenges in innovative ways with increased reach and results."
+summary: Technology—when carefully adapted to the context and users it serves—has
+  the potential to empower civil society organizations (CSOs) to tackle development
+  challenges in innovative ways with increased reach and results.
 ---
+
 Technology—when carefully adapted to the context and users it serves—has the potential to empower civil society organizations (CSOs) to tackle development challenges in innovative ways with increased reach and results. The U.S. Agency for International Development (USAID)-funded [Development Innovations][1] project helps connect Cambodia's civil society and technology communities to design and use information and communication technology (ICT) solutions to address Cambodia's development challenges. The project toolkit includes public-private sector partnerships, ICT4D advisory and match-making services, training activities and technology expositions, small grants, and the 5D Lab co-working space (also known as the Innovation Lab).
 
 This program enables Cambodian-led technology products to be designed and built to meet CSO and user demands and trigger changes in the ways CSOs conduct programs, largely through small grants and public-private partnerships. This strengthened and more informed civil society community will result in CSOs' increased ability to access and [use tools such as mobile technologies][2], the Internet, and social media. Ultimately, this will help the CSOs take steps to make their own programs more efficient, amplify their programmatic results, and support civic change.
