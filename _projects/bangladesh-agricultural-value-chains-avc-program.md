@@ -12,8 +12,10 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: project
-summary: "Funded under the Feed the Future initiative, this project works to improve food security by strengthening agricultural value chains."
+summary: Funded under the Feed the Future initiative, this project works to improve
+  food security by strengthening agricultural value chains.
 ---
+
 Funded under the Feed the Future initiative, this project works to improve food security by strengthening agricultural value chains.
 
 [AVC][1] aims to achieve broad-based economic growth and enhance long-term food security in the Southern Delta of Bangladesh by applying a market systems approach. This will result in increased access to and availability of diverse and nutritious fruits, vegetables, and pulses in local, regional, and national markets and will contribute significantly to improving food security in the targeted area.

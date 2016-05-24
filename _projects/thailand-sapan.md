@@ -11,8 +11,12 @@ country:
 solutions:
 - Stability
 layout: project
-summary: "Democracy in Thailand foundered in recent years on the heels of a period of strong economic gains. During the political crises and civil unrest of 2005-2010, institutions such as citizen advocates, professional associations, labor unions, and independent media faltered or simply disbanded."
+summary: Democracy in Thailand foundered in recent years on the heels of a period
+  of strong economic gains. During the political crises and civil unrest of 2005-2010,
+  institutions such as citizen advocates, professional associations, labor unions,
+  and independent media faltered or simply disbanded.
 ---
+
 Democracy in Thailand foundered in recent years on the heels of a period of strong economic gains. During the political crises and civil unrest of 2005-2010, institutions such as citizen advocates, professional associations, labor unions, and independent media faltered or simply disbanded. Ordinary people found it difficult to make their voices heard, and the country suffered through protests, riots, and states of emergency.
 
 Our Bangkok-based team is promoting cooperation between civil society and agencies of the Royal Thai Government to strengthen the role of community organizations, facilitate constructive public dialogue, and promote citizen engagement in efforts to improve local governance. To do so, we have convened leaders, academics, and managers from all sides to design and guide activities that build and strengthen relations between civil society, media, and government and, most importantly, pursue ways to keep these groups in sustained creative interaction. Sapan is the Thai word for "bridge." The name invokes the vision of bringing together people of various political, economic, and cultural backgrounds. It is impartial as everybody can cross a bridge.

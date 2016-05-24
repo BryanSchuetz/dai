@@ -12,8 +12,12 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 layout: project
-summary: "Sixty million people living in Southeast Asia's Mekong River Basin are sustained by the river. This is especially true for the 75 percent whose livelihoods and food security depend on agriculture and fisheries, and who face grave threats from the impacts of climate change, including crop failure."
+summary: Sixty million people living in Southeast Asia's Mekong River Basin are sustained
+  by the river. This is especially true for the 75 percent whose livelihoods and food
+  security depend on agriculture and fisheries, and who face grave threats from the
+  impacts of climate change, including crop failure.
 ---
+
 Sixty million people living in Southeast Asia's Mekong River Basin are sustained by the river. This is especially true for the 75 percent whose livelihoods and food security depend on agriculture and fisheries, and who face grave threats from the impacts of climate change, including crop failure.
 
 The U.S. Agency for International Development (USAID)'s [Mekong ARCC][1] project is bridging the knowledge gap between high-level science and local responses to help communities become more resilient. The project has identified critical environmental, economic, and social impacts in the Lower Mekong Basin (LMB). We are now assisting select rural communities in Laos, PDR, Thailand, and Vietnam to strengthen their adaptation capacity in the face of climate change risks to water resources, agricultural systems, biodiversity, ecosystems, and livelihood opportunities.
