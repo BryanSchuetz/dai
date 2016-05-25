@@ -1,16 +1,16 @@
 ---
 title: Kosmos Energy Launches Groundbreaking Social Investment Initiative in Ghana
 date: 2016-03-16 18:05:00 Z
-summary: "Kosmos Energy today launched the Kosmos Innovation Center (KIC) in Accra,
+summary: Kosmos Energy today launched the Kosmos Innovation Center (KIC) in Accra,
   Ghana. With DAI's assistance, Kosmos will take a market-driven approach to catalyze
   innovation and promote youth employment in the Ghanaian agricultural sector. DAI
   will provide capacity building support, personnel recruitment and management, stakeholder
-  engagement, investment due diligence, and ongoing technical assistance to the initiative."
-solutions:
+  engagement, investment due diligence, and ongoing technical assistance to the initiative.
+solutions: 
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 featured: true
 ---
