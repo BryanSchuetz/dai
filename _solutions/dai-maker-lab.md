@@ -5,6 +5,7 @@ solutions:
 - Digital
 layout: solution
 ---
+
 The manufactured world is so basic to modern life that we hardly stop to think about how its constraints affect us. Since the days of Henry Ford, we have been limited by the assumptions that substantial capital must be expended in order to produce a good, and that a good must be produced in large quantities in order to be economically feasible. These constraints disadvantage those without substantial resources for research, development, and fabrication; or whose needs do not represent a large enough market to make those investments worthwhile.
 
 <iframe src="https://player.vimeo.com/video/130582276" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
