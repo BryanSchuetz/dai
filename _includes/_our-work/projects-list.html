@@ -2,7 +2,7 @@
 <div class="projects-rail grid">{% for project in site.projects %}
   <div class="project-block grid-item {% for solution in project.solutions %} {{ solution | slugify }} {% endfor %}{% for region in project.regions %} {{ region | slugify}} {% endfor %} {% for client in project.client %} {{ client | slugify }} {% endfor %}{% if project.end-date < current_year %} closed {% else %} active{% endif %}">
     <h3>{{ project.title }}</h3>
-    <p>{{ project.summary | markdownify }}</p>
+    {% if project.summary %}<p>{{ project.summary | markdownify }}</p>{% endif %}
     <a href="{{ project.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
     <hr>
   </div>{% endfor %}
