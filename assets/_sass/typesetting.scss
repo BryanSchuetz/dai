@@ -2,6 +2,9 @@
 .gallery-cell .gallery-cell--text{
   h2{
     font-size: 3rem;
+    @include responsive(small-screens){
+      font-size: 4rem;
+    }
     color: $text-white;
     margin-bottom: 0;
     font-weight: 300;
@@ -9,6 +12,7 @@
   p{
     color: $text-white;
     -webkit-transform: translate3d(0, 0, 0);
+    font-size: 1.5rem;
   }
 }
 .gallery-subhead{

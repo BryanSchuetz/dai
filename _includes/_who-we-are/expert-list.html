@@ -30,7 +30,7 @@
         </ul> -->
       </div>
       <div class="expert-summary">
-        <p>{{ expert.summary | markdownify | remove:'<p>' | remove:'</p>' }}</p>
+        {% if expert.summary %}<p>{{ expert.summary | markdownify | remove:'<p>' | remove:'</p>' }}</p>{% endif %}
       </div>
       <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
       {% unless forloop.last %}<hr>{% endunless %}
