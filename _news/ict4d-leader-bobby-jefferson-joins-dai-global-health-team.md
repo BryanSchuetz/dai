@@ -1,14 +1,18 @@
 ---
 title: ICT4D Leader Bobby Jefferson Joins DAI’s Global Health Team
 date: 2016-04-29 18:05:00 Z
-summary: "DAI today announced that Bobby Jefferson has joined DAI as Vice President and Chief Technology Officer for DAI Global Health, effective May 1. A leader in the field of information and communications technology for development (ICT4D), Jefferson will focus on expanding DAI's range of digital health services."
+summary: DAI today announced that Bobby Jefferson has joined DAI as Vice President
+  and Chief Technology Officer for DAI Global Health, effective May 1. A leader in
+  the field of information and communications technology for development (ICT4D),
+  Jefferson will focus on expanding DAI's range of digital health services.
 solutions:
 - Health
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 ![Bobby](/assets/images/news/bobby%20photoInner.jpg){: .float-left}DAI today announced that [Bobby Jefferson][1] has joined DAI as Vice President and Chief Technology Officer for DAI Global Health, effective May 1. A leader in the field of information and communications technology for development (ICT4D), Jefferson will focus on expanding DAI's range of digital health services.
 
 "DAI is committed to delivering the next generation of tech-enabled health solutions," said [Chris LeGrand][3], President, DAI Global Health. "Bobby brings to our team a wealth of knowledge and connections in the health informatics and technology sectors. A proven developer of IT talent in both developed and emerging markets, he has a record of building and leading innovative teams that make a real difference in the health sector and beyond."
