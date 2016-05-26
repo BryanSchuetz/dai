@@ -3,31 +3,9 @@
 {% assign sorted_experts = site.experts | sort:'lastname' %}
 {% for expert in sorted_experts %}
   <div class="people-block grid-item {% for expertise in expert.solutions %} {{ expertise | downcase | slugify }} {% endfor %}{% for region in expert.regions %} {{ region | slugify}} {% endfor %}">
-    <!-- <a href="{{ expert.url }}"><img src="{{ expert.image }}" alt="" class="expert-details--photo"></a> -->
     <div class="expert-detailslist--metadata">
       <h3 class="expert-details--name">{{ expert.title }}</h3>
       <p class="expert-details--title">{{ expert.job-title }}</p>
-        <!-- <ul class="expert-details--list">
-          {% for expertise in expert.solutions limit:2 %}
-          <li>
-            {% assign primary_solutions = site.solutions | where:"type","primary" %}
-            {% for solution in primary_solutions %}
-              {% if expertise == solution.title %}
-                <a class="expert-solution"href="{{ solution.url }}">{{ solution.icon }} {{ solution.title }}</a>
-              {% endif %}
-            {% endfor %}
-            </li>
-          {% endfor %}
-          {% for locale in expert.regions limit:2 %}
-            <li>
-              {% for region in site.regions %}
-                {% if locale == region.title %}
-                <a class="expert-region" href="{{ region.url }}"><svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title | replace:'and','&' }}</a>
-                {% endif %}
-              {% endfor %}
-            </li>
-          {% endfor %}
-        </ul> -->
       </div>
       <div class="expert-summary">
         {% if expert.summary %}<p>{{ expert.summary | markdownify | remove:'<p>' | remove:'</p>' }}</p>{% endif %}
