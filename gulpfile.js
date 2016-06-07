@@ -33,3 +33,8 @@ gulp.task('watch', function(){
 })
 // the default task to call from the terminal: `gulp`
 gulp.task('default', ['build', 'serve', 'watch']);
+
+// grab new content from the pubs and digital sites
+gulp.task('aggregate', shell.task([
+  'curl http://dai-global-developments.com/pubs.yml --output _data/pubs.yml && curl http://dai-global-digital.com/digital.yml --output _data/digital.yml'
+]))
