@@ -1,6 +1,6 @@
 ---
 title: Learn More About DAI
-position: 4
+position: 5
 layout: default
 ---
 
