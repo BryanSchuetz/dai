@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-position: 6
+position: 5
 layout: default
 ---
 

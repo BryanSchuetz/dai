@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-position: 4
+position: 3
 layout: default
 ---
 
