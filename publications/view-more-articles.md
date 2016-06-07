@@ -1,5 +1,6 @@
 ---
 title: Publications
+position: 9
 layout: node
 ---
 

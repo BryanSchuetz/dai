@@ -1,5 +1,6 @@
 ---
 title: News
+position: 8
 layout: node
 ---
 
