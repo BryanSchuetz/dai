@@ -1,8 +1,8 @@
 ---
 title: Publications
+permalink: "/publications/view-more-articles"
 position: 2
 layout: node
-permalink: /publications/view-more-articles
 ---
 
 By freely sharing what we learn, we have built a reputation as thought leaders who translate good ideas into action and action into results. You can **browse through our recently published articles below**—or visit the following individual publication sites for a full archive.
