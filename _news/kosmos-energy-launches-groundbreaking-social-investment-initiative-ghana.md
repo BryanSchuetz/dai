@@ -6,11 +6,12 @@ summary: Kosmos Energy today launched the Kosmos Innovation Center (KIC) in Accr
   innovation and promote youth employment in the Ghanaian agricultural sector. DAI
   will provide capacity building support, personnel recruitment and management, stakeholder
   engagement, investment due diligence, and ongoing technical assistance to the initiative.
-solutions: 
+solutions:
+- Corporate Services
 regions:
 - Sub-Saharan Africa
-projects: 
-clients: 
+projects:
+clients:
 layout: node
 featured: true
 ---
