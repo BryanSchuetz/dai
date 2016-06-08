@@ -1,7 +1,10 @@
 ---
 title: Jim Winkler elected to Board of Directors for Corporate Council on Africa
-date: 2016-04-8 18:05:00 Z
-summary: "Senior Trade and Investment Advisor [Jim Winkler](/who-we-are/our-team/jim-packard-winkler) has been elected to the Board of Directors for the [Corporate Council on Africa](http://www.africacncl.org/) (CCA), a nonprofit, membership-based organization that promotes business and investment between the U.S. and African countries."
+date: 2016-04-08 18:05:00 Z
+summary: Senior Trade and Investment Advisor [Jim Winkler](/who-we-are/our-team/jim-packard-winkler)
+  has been elected to the Board of Directors for the [Corporate Council on Africa](http://www.africacncl.org/)
+  (CCA), a nonprofit, membership-based organization that promotes business and investment
+  between the U.S. and African countries.
 solutions:
 - Economic Growth
 - Governance
@@ -14,6 +17,7 @@ projects: East Africa—Trade and Investment Hub (TIH)
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 Senior Trade and Investment Advisor [Jim Winkler][1] has been elected to the Board of Directors for the [Corporate Council on Africa][2] (CCA), a nonprofit, membership-based organization that promotes business and investment between the U.S. and African countries.
 
 "I am excited to join the board at a time when the council is exploring innovative ways to expand its membership to include U.S. and African small and medium enterprises and to support broad-based economic growth in Africa," he said. "CCA is considered the premier business organization representing the U.S. private sector to promote trade and investment in Africa. With more than 180 of the largest and most influential U.S. companies operating in Africa in its membership, CCA has built a reputation based on integrity and trusted relationships with African political and business leaders, African institutions, and U.S. government agencies."

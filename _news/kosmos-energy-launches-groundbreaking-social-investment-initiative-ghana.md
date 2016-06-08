@@ -10,8 +10,8 @@ solutions:
 - Corporate Services
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 featured: true
 ---

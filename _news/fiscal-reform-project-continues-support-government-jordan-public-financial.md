@@ -1,17 +1,23 @@
 ---
-title: Fiscal Reform Project Continues to Support Government of Jordan’s Public Financial Management
+title: Fiscal Reform Project Continues to Support Government of Jordan’s Public Financial
+  Management
 date: 2016-04-12 18:05:00 Z
-summary: "Over the past decade, Jordan has been successful in achieving many of its reform goals in education, health, and economic privatization and liberalization. The government continues to introduce social protection mechanisms and reform subsidies, creating the conditions for public-private partnerships in infrastructure and improving its overall fiscal and budgetary health."
+summary: Over the past decade, Jordan has been successful in achieving many of its
+  reform goals in education, health, and economic privatization and liberalization.
+  The government continues to introduce social protection mechanisms and reform subsidies,
+  creating the conditions for public-private partnerships in infrastructure and improving
+  its overall fiscal and budgetary health.
 solutions:
 - Economic Growth
 - Governance
-regions:
+regions: 
 projects:
 - Jordan Fiscal Reform Project II and Bridge Activity (FRP II, FRP Bridge)
 clients:
 - U.S. Agency for International Development
 layout: node
 ---
+
 Over the past decade, Jordan has been successful in achieving many of its reform goals in education, health, and economic privatization and liberalization. The government continues to introduce social protection mechanisms and reform subsidies, creating the conditions for public-private partnerships in infrastructure and improving its overall fiscal and budgetary health.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/161944212" webkitallowfullscreen="" width="703"></iframe>

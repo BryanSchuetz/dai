@@ -1,14 +1,18 @@
 ---
 title: DAI’s Employee Ownership Initiative Wins Prestigious Award
 date: 2016-04-22 18:05:00 Z
-summary: "DAI was yesterday named an award winner at the [17th annual conference](http://www.globalequity.org/geo/Boston2016) of the Global Equity Organization (GEO), a professional membership organization dedicated to advancing understanding of employee share plans. DAI won in a new award category, _Best Use of a Share Plan in a Private Company._"
-solutions:
-regions:
-projects:
-clients:
+summary: DAI was yesterday named an award winner at the [17th annual conference](http://www.globalequity.org/geo/Boston2016)
+  of the Global Equity Organization (GEO), a professional membership organization
+  dedicated to advancing understanding of employee share plans. DAI won in a new award
+  category, _Best Use of a Share Plan in a Private Company._
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 featured: true
 ---
+
 DAI was yesterday named an award winner at the [17th annual conference][1] of the Global Equity Organization (GEO), a professional membership organization dedicated to advancing understanding of employee share plans. DAI won in a new award category, _Best Use of a Share Plan in a Private Company._
 <!--more-->
 "We are delighted to receive this honor," said DAI Senior Vice President of Human Resources [Laura Viehmyer][2], who accepted the award on DAI's behalf at a gala event held at the Boston Marriott Copley Place hotel.

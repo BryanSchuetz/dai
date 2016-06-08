@@ -1,14 +1,16 @@
 ---
 title: DAI to Present at European Development Days 2016
 date: 2016-04-07 18:05:00 Z
-summary: "DAI is pleased to have been selected to host a lab and stand at the annual European Development Days event in Brussels on June 15-16."
-solutions:
-regions:
-projects:
+summary: DAI is pleased to have been selected to host a lab and stand at the annual
+  European Development Days event in Brussels on June 15-16.
+solutions: 
+regions: 
+projects: 
 clients:
 - European Commission
 layout: node
 ---
+
 DAI is pleased to have been selected to host a lab and stand at the annual European Development Days event in Brussels on June 15-16.
 
 European Development Days (EDD16) is Europe's leading forum on development and international cooperation. Organised by the European Commission, the forum brings together the development community to share ideas and experience, inspiring new partnerships, and innovative solutions to the world's challenges. Each year the forum attracts more than 5,000 participants from more than 140 countries, representing 1,200 organisations from the development community.

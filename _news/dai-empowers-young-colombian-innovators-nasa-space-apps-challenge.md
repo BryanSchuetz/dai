@@ -1,7 +1,10 @@
 ---
 title: DAI Empowers Young Colombian Innovators via NASA Space Apps Challenge
 date: 2016-04-21 18:05:00 Z
-summary: "Colombia's 2015 floods affected some 18,000 people. They destroyed homes and bridges, caused the suspension of water and sanitation services, and killed at least 83. The loss of life and millions of dollars in damage have re-emphasized the importance of confronting the effects of climate change in Colombia."
+summary: Colombia's 2015 floods affected some 18,000 people. They destroyed homes
+  and bridges, caused the suspension of water and sanitation services, and killed
+  at least 83. The loss of life and millions of dollars in damage have re-emphasized
+  the importance of confronting the effects of climate change in Colombia.
 solutions:
 - Digital
 - Climate Change Adaptation and Mitigation
@@ -10,9 +13,10 @@ regions:
 - Latin America and the Caribbean
 projects:
 - USAID Central America Regional Climate Change Program (RCCP)
-clients:
+clients: 
 layout: node
 ---
+
 Colombia's 2015 floods affected some 18,000 people. They destroyed homes and bridges, caused the suspension of water and sanitation services, and killed at least 83. The loss of life and millions of dollars in damage have re-emphasized the importance of confronting the effects of climate change in Colombia.
 
 In response, DAI is working with the [Pontificia Universidad Javeriana][1] in Bogotá, its on-campus technology and innovation hub, [Centro Ático][2], and the Centro Internacional de Agriculture Tropical (CIAT) in Cali to harness the entrepreneurial power of young Colombians to tackle climate change with the aid of NASA satellite data, mobile phones, and their own ingenuity.

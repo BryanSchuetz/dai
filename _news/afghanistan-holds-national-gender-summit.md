@@ -1,7 +1,9 @@
 ---
 title: Afghanistan Holds National Gender Summit
 date: 2016-06-01 18:05:00 Z
-summary: "A national summit on gender equality was recently held in Afghanistan that brought together activist and civil society groups to set priorities and establish coalitions."
+summary: A national summit on gender equality was recently held in Afghanistan that
+  brought together activist and civil society groups to set priorities and establish
+  coalitions.
 solutions:
 - Conflict and Vulnerability Analysis
 - Gender
@@ -15,6 +17,7 @@ projects:
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 A national summit on gender equality was recently held in Afghanistan that brought together activist and civil society groups to set priorities and establish coalitions.
 
 ![][1]

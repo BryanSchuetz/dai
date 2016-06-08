@@ -1,15 +1,19 @@
 ---
 title: Nine Finalists Selected for Innovation into Action Challenge
 date: 2016-05-13 18:05:00 Z
-summary: "Nine organizations have been chosen as finalists for the DAI _[Innovation into Action Challenge](/news/dai-and-partners-launch-innovation-action-challenge)_, a global competition designed to find and support products and services that will help people in developing nations tackle social and economic development problems."
+summary: Nine organizations have been chosen as finalists for the DAI _[Innovation
+  into Action Challenge](/news/dai-and-partners-launch-innovation-action-challenge)_,
+  a global competition designed to find and support products and services that will
+  help people in developing nations tackle social and economic development problems.
 solutions:
 - Digital
-regions:
-projects:
+regions: 
+projects: 
 clients:
 - U.S. Agency for International Development
 layout: node
 ---
+
 ![][1]{:.float-left} Nine organizations have been chosen as finalists for the DAI _[Innovation into Action Challenge][2]_, a global competition designed to find and support products and services that will help people in developing nations tackle social and economic development problems. Finalists will come to the Washington, D.C. area during the week of May 23 to compete for three _Challenge_ prizes, each offering $20,000 in seed funding, an opportunity to field-test their product or service, and a tailored package of coaching and technical assistance.
 
 A total of [296 applications][3] were received. "Twenty DAI technical staff worked on the judging process, and given the quality of submissions they had a difficult time narrowing the field," said _Challenge_ lead Doug McLean.

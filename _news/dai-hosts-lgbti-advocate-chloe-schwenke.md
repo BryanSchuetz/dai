@@ -1,13 +1,16 @@
 ---
 title: DAI Hosts LGBTI Advocate Chloe Schwenke
 date: 2016-04-20 18:05:00 Z
-summary: "DAI this week hosted Chloe Schwenke for a presentation in its Bethesda office. Schwenke is a leading voice in the efforts to integrate sexual minorities into the work of the international development community."
-solutions:
-regions:
-projects:
-clients:
+summary: DAI this week hosted Chloe Schwenke for a presentation in its Bethesda office.
+  Schwenke is a leading voice in the efforts to integrate sexual minorities into the
+  work of the international development community.
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI this week hosted Chloe Schwenke for a presentation in its Bethesda office. Schwenke is a leading voice in the efforts to integrate sexual minorities into the work of the international development community.
 
 An openly transgender woman, Schwenke has dedicated the past 10 years of her life to promoting the basic needs and rights of people in developing nations who are lesbian, gay, bisexual, transgender, or intersex (LGBTI).

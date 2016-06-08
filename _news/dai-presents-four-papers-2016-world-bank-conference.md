@@ -1,14 +1,17 @@
 ---
 title: DAI Presents Four Papers at 2016 World Bank Conference
 date: 2016-03-18 18:05:00 Z
-summary: "DAI's [Land Tenure and Property Rights team](/our-work/solutions/environment-and-energy/land-tenure) presented four papers at the Annual World Bank Conference on Land and Poverty 2016, on March 14–18, in Washington, D.C."
+summary: DAI's [Land Tenure and Property Rights team](/our-work/solutions/environment-and-energy/land-tenure)
+  presented four papers at the Annual World Bank Conference on Land and Poverty 2016,
+  on March 14–18, in Washington, D.C.
 solutions:
 - Land Tenure and Property Rights
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's [Land Tenure and Property Rights team][1] presented four papers at the Annual World Bank Conference on Land and Poverty 2016, on March 14–18, in Washington, D.C.
 
 The event, attended by hundreds of key stakeholders from governments, civil society, academia, the development community, and the private sector, is in its 17th year. The theme of this year's conference was "Scaling up Responsible Land Governance." Conference participants discussed what can be done to "guarantee inclusiveness, sustainability, and reliability, build capacity, and ensure that better land information and more tenure security contribute to wider societal objectives and progress towards the Sustainable Development Goals."

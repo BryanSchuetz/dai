@@ -1,17 +1,20 @@
 ---
 title: DAI Presents EC-Funded Study on Uganda Land Governance
 date: 2016-04-06 18:05:00 Z
-summary: "DAI recently hosted a workshop in Kampala, Uganda, on the implementation of the country's national land policy (NLP). The workshop presented the findings of a seven-week capacity assessment to support the implementation of the NLP. "
+summary: 'DAI recently hosted a workshop in Kampala, Uganda, on the implementation
+  of the country''s national land policy (NLP). The workshop presented the findings
+  of a seven-week capacity assessment to support the implementation of the NLP. '
 solutions:
 - Land Tenure and Property Rights
 - Governance
 regions:
 - Sub-Saharan Africa
-projects:
+projects: 
 clients:
 - European Commission
 layout: node
 ---
+
 DAI recently hosted a workshop in Kampala, Uganda, on the implementation of the country's national land policy (NLP). The workshop presented the findings of a seven-week capacity assessment to support the implementation of the NLP.
 
 The workshop was attended by the Minister for Lands, Daudi Migereko, Permanent Secretary Gabindadde Musoke, and approximately 80 other participants, including ministry staff and development partners.

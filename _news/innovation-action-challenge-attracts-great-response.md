@@ -1,15 +1,18 @@
 ---
 title: Innovation into Action Challenge Attracts Great Response
 date: 2016-03-17 18:05:00 Z
-summary: "The response to the Innovation into Action Challenge, whose application window closed last week, has been rich, broad, and diverse. All told, the competition attracted entries from 296 innovators in 49 countries."
+summary: The response to the Innovation into Action Challenge, whose application window
+  closed last week, has been rich, broad, and diverse. All told, the competition attracted
+  entries from 296 innovators in 49 countries.
 solutions:
 - Digital
-regions:
-projects:
+regions: 
+projects: 
 clients:
 - U.S. Agency for International Development
 layout: node
 ---
+
 The response to the Innovation into Action Challenge, whose application window closed last week, has been rich, broad, and diverse. All told, the competition attracted entries from 296 innovators in 49 countries.
 
 The _Innovation into Action Challenge_ is a new initiative designed to support innovations with the potential to make a difference in the lives of people in emerging and transitioning nations. It is presented by DAI; USAID's Global Development Lab; the Innovation Program of Montgomery County, Maryland; and the Denver, Colorado-based Global Accelerator Network (GAN).
