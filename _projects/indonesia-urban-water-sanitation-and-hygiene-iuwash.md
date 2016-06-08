@@ -12,8 +12,12 @@ solutions:
 - Environment and Energy
 - Health
 layout: project
-summary: "Under the Indonesia Urban Water, Sanitation and Hygiene (IUWASH) program, DAI is improving urban water and sanitation services, mobilizing demand for these services, and strengthening the enabling environment through improved governance and sector financing."
+summary: Under the Indonesia Urban Water, Sanitation and Hygiene (IUWASH) program,
+  DAI is improving urban water and sanitation services, mobilizing demand for these
+  services, and strengthening the enabling environment through improved governance
+  and sector financing.
 ---
+
  Under the Indonesia Urban Water, Sanitation and Hygiene (IUWASH) program, DAI is improving urban water and sanitation services, mobilizing demand for these services, and strengthening the enabling environment through improved governance and sector financing. Our goal: 2 million Indonesians in urban areas gain access to improved water supply and 250,000 gain access to improved sanitation facilities. With a focus on serving the urban poor and a staff that is 98 percent Indonesian, we are building on a legacy of DAI leadership in the sector, including the [Environmental Services Program][1] (2005–2010) which piloted numerous innovative approaches to improving water supply and sanitation service delivery and led to improved access to safe water for more than 1 million and a wide range of sanitation improvements.
 
  <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/105875924" webkitallowfullscreen="" width="703"></iframe>

@@ -12,8 +12,11 @@ solutions:
 - Governance
 - Stability
 layout: project
-summary: "This project assists six conflict-affected areas in Mindanao, Philippines: Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo, and its surrounding environs."
+summary: 'This project assists six conflict-affected areas in Mindanao, Philippines:
+  Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo,
+  and its surrounding environs.'
 ---
+
  This project assists six conflict-affected areas in Mindanao, Philippines: Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo, and its surrounding environs. Through the promotion of good governance, ENGAGE will improve peace and stability by:
 
 * Strengthening the capacity, legitimacy, transparency, and accountability of local government; and

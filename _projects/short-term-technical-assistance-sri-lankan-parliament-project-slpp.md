@@ -11,8 +11,12 @@ country:
 solutions:
 - Governance
 layout: project
-summary: "SLPP supports Sri Lanka's newly elected parliament to change the Standing Orders in light of an evolving constitutional and institutional structure, facilitate training for new members and staff, and enable parliamentary staff to better engage with constituents through local development activities."
+summary: SLPP supports Sri Lanka's newly elected parliament to change the Standing
+  Orders in light of an evolving constitutional and institutional structure, facilitate
+  training for new members and staff, and enable parliamentary staff to better engage
+  with constituents through local development activities.
 ---
+
  SLPP supports Sri Lanka's newly elected parliament to change the Standing Orders in light of an evolving constitutional and institutional structure, facilitate training for new members and staff, and enable parliamentary staff to better engage with constituents through local development activities.
 
 ###  Sample Activities
