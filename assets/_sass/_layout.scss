@@ -78,14 +78,17 @@ body.st-ui-overlay-active{
   }
 }
 /*.node-inner{
-  @include responsive(ultra-wide-screens){
+  @include responsive(wide-screens){
     @include width(8);
     float: left;
     margin-right: $gutter;
   }
-  @include responsive(extra-ultra-wide-screens){
-    @include width(12);
+  @include responsive(ultra-wide-screens){
+    @include width(10);
+    float: left;
+    margin-right: $gutter;
   }
+
 }*/
 .container.container-node{
   /*block to float for related content*/
