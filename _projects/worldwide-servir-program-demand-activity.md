@@ -12,8 +12,11 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 layout: project
-summary: "Satellites photograph the world, providing a world of information. DAI helped use this information to help countries prepare for and mitigate the effects of climate change and natural and manmade disasters."
+summary: Satellites photograph the world, providing a world of information. DAI helped
+  use this information to help countries prepare for and mitigate the effects of climate
+  change and natural and manmade disasters.
 ---
+
 Satellites photograph the world, providing a world of information. DAI helped use this information to help countries prepare for and mitigate the effects of climate change and natural and manmade disasters.
 
 Established in 2004 by NASA, the U.S. Agency for International Development (USAID), and others, SERVIR provides a web-based geospatial platform for sharing, integrating, and mapping climate data from satellite imagery.

@@ -14,8 +14,11 @@ solutions:
 - Voice and Accountability
 - Water Services and Resource Management
 layout: project
-summary: "The increase of mining, logging, and oil and gas development in Latin America has led to chronic low-grade conflict and periodic violence in communities in or near extraction zones."
+summary: The increase of mining, logging, and oil and gas development in Latin America
+  has led to chronic low-grade conflict and periodic violence in communities in or
+  near extraction zones.
 ---
+
 The increase of mining, logging, and oil and gas development in Latin America has led to chronic low-grade conflict and periodic violence in communities in or near extraction zones. ABC-LA worked to create conditions that enable local people to drive conflict resolution in Peru and Colombia. The project worked to lay a foundation for key actors to address the causes of this conflict and lead transformative changes that reduce negative impacts to both vulnerable communities and the environment.
 
 ABC-LA improved the capacities of indigenous and minority communities and local and regional governments, leading to greater inclusion of marginalized groups. It focused on biologically significant areas in Colombia and Peru where there is ongoing or potential conflict associated with extractive activities.

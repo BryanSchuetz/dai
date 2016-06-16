@@ -10,10 +10,14 @@ country:
 - Worldwide
 solutions:
 - Economic Growth
-- Public Financial Management  
+- Public Financial Management
 layout: project
-summary: "It is easy for people with access to financial services to make safe and sensible decisions on loans, savings, money transfers, and insurance. But in the African, Caribbean and Pacific (ACP) Group of States, 71 percent of adults lack access to a bank."
+summary: It is easy for people with access to financial services to make safe and
+  sensible decisions on loans, savings, money transfers, and insurance. But in the
+  African, Caribbean and Pacific (ACP) Group of States, 71 percent of adults lack
+  access to a bank.
 ---
+
 It is easy for people with access to financial services to make safe and sensible decisions on loans, savings, money transfers, and insurance. But in the African, Caribbean and Pacific (ACP) Group of States, 71 percent of adults lack access to a bank. [This program][1] helped to grow the microfinance sector—basic financial services for the poor—across the ACP Group of States that encompasses 740 million people in 79 countries.
 
 Globally, the program supported efficiency and transparency in local markets, and training of microfinance policy makers and practitioners. Regionally, our partners managed microfinance and small business investment funds. Locally, the program provided grants to institutions that support financial services to those excluded from mainstream access to proper financial services.

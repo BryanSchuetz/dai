@@ -14,8 +14,14 @@ solutions:
 - Land Tenure and Property Rights
 - Natural Resource Management
 layout: project
-summary: "Our ProParque team is helping Honduras develop sound management of its natural resources in a way that complements the country's economic and social development. We are working with the Government of Honduras to strengthen the nation's protected area management system, improve biodiversity and natural resource management, and facilitate rural enterprise growth, climate change adaptation, disaster risk reduction, and clean energy development."
+summary: Our ProParque team is helping Honduras develop sound management of its natural
+  resources in a way that complements the country's economic and social development.
+  We are working with the Government of Honduras to strengthen the nation's protected
+  area management system, improve biodiversity and natural resource management, and
+  facilitate rural enterprise growth, climate change adaptation, disaster risk reduction,
+  and clean energy development.
 ---
+
 Our [ProParque][1] team is helping Honduras develop sound management of its natural resources in a way that complements the country's economic and social development. We are working with the Government of Honduras to strengthen the nation's protected area management system, improve biodiversity and natural resource management, and facilitate [rural enterprise growth][2], climate change adaptation, disaster risk reduction, and clean energy development.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104423902" webkitallowfullscreen="" width="703"></iframe>

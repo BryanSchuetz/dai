@@ -11,8 +11,15 @@ solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
 layout: project
-summary: "The Pacific Island countries comprise the most vulnerable region in the world to climate change. The nature-based livelihoods and diverse cultures that have risen from these island nations—some of which stand only meters above sea level—are being challenged, and in some cases overwhelmed, by sea level rise, changing ocean temperatures and acidity, increasing air temperatures, shifting rainfall and storm patterns, and other impacts of climate change that are projected to increase over the next 100 years."
+summary: The Pacific Island countries comprise the most vulnerable region in the world
+  to climate change. The nature-based livelihoods and diverse cultures that have risen
+  from these island nations—some of which stand only meters above sea level—are being
+  challenged, and in some cases overwhelmed, by sea level rise, changing ocean temperatures
+  and acidity, increasing air temperatures, shifting rainfall and storm patterns,
+  and other impacts of climate change that are projected to increase over the next
+  100 years.
 ---
+
 The Pacific Island countries comprise the most vulnerable region in the world to climate change. The nature-based livelihoods and diverse cultures that have risen from these island nations—some of which stand only meters above sea level—are being challenged, and in some cases overwhelmed, by sea level rise, changing ocean temperatures and acidity, increasing air temperatures, shifting rainfall and storm patterns, and other impacts of climate change that are projected to increase over the next 100 years.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/daiglobal/8206353128/in/set-72157632067577502/player/" webkitallowfullscreen="" width="703"></iframe>

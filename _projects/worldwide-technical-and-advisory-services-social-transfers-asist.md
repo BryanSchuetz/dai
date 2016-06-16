@@ -12,8 +12,13 @@ solutions:
 - Agriculture and Food Security
 - Governance
 layout: project
-summary: "This project will help the European Commission to increase the impact, quality, sustainability and coverage of social transfers to address food insecurity in partner countries focusing in particular on: resilience to food crisis and food insecurity; agricultural growth and sustainable agriculture; and nutritional status of nutritionally insecure people."
+summary: 'This project will help the European Commission to increase the impact, quality,
+  sustainability and coverage of social transfers to address food insecurity in partner
+  countries focusing in particular on: resilience to food crisis and food insecurity;
+  agricultural growth and sustainable agriculture; and nutritional status of nutritionally
+  insecure people.'
 ---
+
 This project will help the European Commission to increase the impact, quality, sustainability and coverage of social transfers to address food insecurity in partner countries focusing in particular on: resilience to food crisis and food insecurity; agricultural growth and sustainable agriculture; and nutritional status of nutritionally insecure people.
 
 These tailored services will be demand-driven, initiated by requests from European Union (EU) delegations to assist countries in areas such as: maximising the impact of social transfers on the rural economy and local food production; maximising their impact on maternal and child nutrition; designing and improving complementary measures for graduating from social transfers programmes; and moving from recurrent, as-needed humanitarian transfers to a more systemic approach to national transfers schemes.

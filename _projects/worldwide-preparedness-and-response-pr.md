@@ -11,7 +11,10 @@ country:
 solutions:
 - Health
 layout: project
-summary: "The Preparedness and Response (P&R) project is one component of the U.S. Agency for International Development's Emerging Pandemic Threats (EPT 2) program. The EPT initiative detects and responds to viruses such as Ebola, avian influenza, and MERS that move between animal and human populations."
+summary: The Preparedness and Response (P&R) project is one component of the U.S.
+  Agency for International Development's Emerging Pandemic Threats (EPT 2) program.
+  The EPT initiative detects and responds to viruses such as Ebola, avian influenza,
+  and MERS that move between animal and human populations.
 ---
 
 The Preparedness and Response (P&R) project is one component of the U.S. Agency for International Development's[ Emerging Pandemic Threats (EPT 2)][1] program. The EPT initiative detects and responds to viruses such as Ebola, avian influenza, and MERS that move between animal and human populations. EPT is, in turn, part of the Obama Administration's Global Health Security Agenda, which brings together U.S. Government agencies and other national governments to address natural and manmade disease threats worldwide.

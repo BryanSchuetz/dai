@@ -1,5 +1,6 @@
 ---
-title: Haiti—Appui a la Valorisation du potentiel Agricole du Nord, a la Securite Economique et Environnementale (AVANSE)
+title: Haiti—Appui a la Valorisation du potentiel Agricole du Nord, a la Securite
+  Economique et Environnementale (AVANSE)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2013
@@ -12,8 +13,13 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: project
-summary: "This project catalyzes inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. As the flagship Feed the Future program in the region, it is positioned to be one of the most innovative initiatives by increasing incomes while also developing local companies into direct partners of the U.S. Agency for International Development (USAID)'s assistance to Haiti."
+summary: This project catalyzes inclusive, sustainable economic growth in a potentially
+  highly productive agricultural area in Haiti. As the flagship Feed the Future program
+  in the region, it is positioned to be one of the most innovative initiatives by
+  increasing incomes while also developing local companies into direct partners of
+  the U.S. Agency for International Development (USAID)'s assistance to Haiti.
 ---
+
 This project catalyzes inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. As the flagship Feed the Future program in the region, it is positioned to be one of the most innovative initiatives by increasing incomes while also developing local companies into direct partners of the U.S. Agency for International Development (USAID)'s assistance to Haiti.
 
 The project's objectives include: increasing agricultural productivity among a wider circle of small farmers; improving watershed stability above selected plains; strengthening agricultural markets by increasing access to financial products; and improving transportation infrastructure such as roads to fertile but inaccessible farmland.

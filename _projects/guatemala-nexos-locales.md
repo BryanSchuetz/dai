@@ -17,8 +17,13 @@ solutions:
 - Institutional and Policy Reform
 - Public Financial Management
 layout: project
-summary: "Nexos Locales is working with 30 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socio-economic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance."
+summary: Nexos Locales is working with 30 Feed the Future municipalities in Guatemala's
+  Western Highlands to foster more responsive, inclusive, and effective socio-economic
+  development while reducing local vulnerabilities such as food insecurity and natural
+  disasters. To achieve this goal, the project works at the intersection—or nexos—of
+  good governance.
 ---
+
 Nexos Locales is working with 30 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socio-economic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
 
 [Nexos Locales][1] aims to increase the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and global climate change; and improve public financial management. The team will work with the municipalities to improve basic services delivery and security plans, as well as increase civil society participation in decision-making.

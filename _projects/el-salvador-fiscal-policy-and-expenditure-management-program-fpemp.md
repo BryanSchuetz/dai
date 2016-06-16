@@ -11,8 +11,11 @@ country:
 solutions:
 - Governance
 layout: project
-summary: "The FPEMP project is helping the Government of El Salvador (GOES) increase tax revenue, without raising rates, and achieve greater transparency and accountability, and more efficiently use public resources."
+summary: The FPEMP project is helping the Government of El Salvador (GOES) increase
+  tax revenue, without raising rates, and achieve greater transparency and accountability,
+  and more efficiently use public resources.
 ---
+
 The FPEMP project is helping the Government of El Salvador (GOES) increase tax revenue, without raising rates, and achieve [greater transparency][1] and accountability, and more efficiently [use public resources][2]. We are modernizing the General Directorate for Internal Revenue to improve taxpayer services, reduce tax fraud and tax evasion, and enhance legitimacy. The project builds on the [foundations][3] for reform laid by a preceding project called Tax Policy and Administration Reform that DAI led from 2005 to 2010.
 
 ![][4]

@@ -1,5 +1,6 @@
 ---
-title: "Timor-Leste—Developing Agricultural Communities/Desenvolve Agricultura Comunitaria (DAC)"
+title: Timor-Leste—Developing Agricultural Communities/Desenvolve Agricultura Comunitaria
+  (DAC)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2010
@@ -11,8 +12,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: "In 2007, USAID invested in a hydroponic greenhouse facility that enabled 20 Timorese farmers to grow high-value vegetables such as peppers, tomatoes, and eggplant. These new products for local supermarkets replaced vegetables that previously had to be imported, jumpstarting production in Timor-Leste's Aileu District and increasing cash income for its farmers. "
+summary: 'In 2007, USAID invested in a hydroponic greenhouse facility that enabled
+  20 Timorese farmers to grow high-value vegetables such as peppers, tomatoes, and
+  eggplant. These new products for local supermarkets replaced vegetables that previously
+  had to be imported, jumpstarting production in Timor-Leste''s Aileu District and
+  increasing cash income for its farmers. '
 ---
+
 In 2007, USAID invested in a hydroponic greenhouse facility that enabled 20 Timorese farmers to grow high-value vegetables such as peppers, tomatoes, and eggplant. These new products for local supermarkets replaced vegetables that previously had to be imported, jumpstarting production in Timor-Leste's Aileu District and increasing cash income for its farmers. Since then, DAC and its predecessor, the Dezenvolve Setor Privadu project (2006–2010), engaged more than 450 farmers in greenhouse and outdoor vegetable production and helped build a stronger fresh produce value chain.
 
 Our approach provided technical and management assistance to input suppliers, farmers, traders, wholesalers, retailers, and even lenders, and was designed to ensure that these successes will sustain. This approach was driven by the market demand for higher quality, more diverse fresh produce and helped establish local horticulture as a [contributor to the non-oil economy][1] of Timor-Leste.

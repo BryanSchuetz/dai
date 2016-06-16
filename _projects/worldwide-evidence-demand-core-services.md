@@ -17,8 +17,12 @@ solutions:
 - Sustainable and Accountable Health Services
 - Water Services and Resource Management
 layout: project
-summary: "[Evidence on Demand](http://www.evidenceondemand.info/homepage.aspx) is a resource service providing high-quality information in the fields of climate, environment, infrastructure, and livelihoods. The information hub provides access to a broad range of documents, learning resources and technical expertise."
+summary: "[Evidence on Demand](http://www.evidenceondemand.info/homepage.aspx) is
+  a resource service providing high-quality information in the fields of climate,
+  environment, infrastructure, and livelihoods. The information hub provides access
+  to a broad range of documents, learning resources and technical expertise."
 ---
+
 [Evidence on Demand][1] is a resource service providing high-quality information in the fields of climate, environment, infrastructure, and livelihoods. The information hub provides access to a broad range of documents, learning resources and technical expertise. One of the key functions of the service is to assist U.K. Department for International Development (DFID) advisers and the [wider][2] international development community make informed, evidence-based decisions. The expert team behind Evidence on Demand is co-led with IMC Worldwide Ltd in a joint venture.
 
 ![][3]

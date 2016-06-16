@@ -1,5 +1,6 @@
 ---
-title: Middle East and North Africa—Further Advancing the Blue Revolution Initiative (FABRI)
+title: Middle East and North Africa—Further Advancing the Blue Revolution Initiative
+  (FABRI)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2007
@@ -11,8 +12,11 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: "We work closely with USAID to launch and strengthen the Middle East and North Africa Network of Water Centers of Excellence (MENA NWC), a regional association of research and educational institutions."
+summary: We work closely with USAID to launch and strengthen the Middle East and North
+  Africa Network of Water Centers of Excellence (MENA NWC), a regional association
+  of research and educational institutions.
 ---
+
 We work closely with USAID to launch and strengthen the Middle East and North Africa Network of Water Centers of Excellence (MENA NWC), a regional association of research and educational institutions. Collaborating on applied research with governments, businesses, and civil society organizations, MENA NWC is addressing shared challenges in the water sector using locally appropriate scientific, technological, and management solutions.
 
 In Africa, FABRI joined with the African Water Association (AfWA) in an ambitious first continent-wide program to halt the constant creep of higher water-loss levels. FABRI and AfWA are working with 19 national and city water companies and state water boards in 16 countries to improve financial, economic, and operating efficiency, including development of association business plans, non-revenue water initiatives, capacity building, and communications and knowledge sharing programs.

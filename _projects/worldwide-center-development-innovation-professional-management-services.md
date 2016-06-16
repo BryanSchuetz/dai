@@ -11,8 +11,11 @@ country:
 solutions:
 - Innovation and Entrepreneurship
 layout: project
-summary: "The U.S. Global Development Lab's Center for Development Innovation (CDI) is driving long-term, sustained investment in innovations that have the potential to end extreme poverty."
+summary: The U.S. Global Development Lab's Center for Development Innovation (CDI)
+  is driving long-term, sustained investment in innovations that have the potential
+  to end extreme poverty.
 ---
+
 The U.S. Global Development Lab's Center for Development Innovation (CDI) is driving long-term, sustained investment in innovations that have the potential to end extreme poverty.
 
 Building on the early evidence that science, technology, innovation, and partnerships can deliver and accelerate outcomes and enhance development impact, CDI brings together some of the most cutting-edge programming at USAID. These programs include Grand Challenges for Development, Development Innovation Ventures, the Higher Education Solutions Network, LAUNCH, the Center for Transition to Scale, prize programs, and others.

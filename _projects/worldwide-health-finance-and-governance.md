@@ -12,8 +12,11 @@ solutions:
 - Governance
 - Health
 layout: project
-summary: "Our principal responsibility under this subcontract is for strengthening the governance capacity and accountability mechanisms of partner country health systems."
+summary: Our principal responsibility under this subcontract is for strengthening
+  the governance capacity and accountability mechanisms of partner country health
+  systems.
 ---
+
 Our principal responsibility under this subcontract is for strengthening the governance capacity and accountability mechanisms of partner country health systems.
 
 This project under the U.S. Agency for International Development's new Office of Health Systems supports partner countries' efforts to increase domestic resources available for health care, manage those resources more effectively and accountably, and increase the responsiveness of health systems to their populations' needs, especially women, girls, and poor and rural populations.
