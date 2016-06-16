@@ -2,5 +2,43 @@
 layout: default
 ---
 {% include node-nav-block.html %}
-{% include _who-we-are/experts.html %}
+<div class="expert-details">
+  <img src="{{ page.image }}" alt="" class="expert-details--photo">
+  <div class="expert-details--metadata">
+    <h1 class="expert-details--name">{{ page.title }}</h1>
+    <p class="expert-details--title">{{ page.job-title }}</p>
+    <ul class="expert-details--list">
+      {% unless page.solutions[0] == null %}
+        {% for expertise in page.solutions %}
+        <li>
+          {% assign primary_solutions = site.solutions | where:"type","primary" %}
+          {% for solution in primary_solutions %}
+            {% if expertise == solution.title %}
+              <a class="expert-solution"href="{{ solution.url }}">{{ solution.icon }} {{ solution.title }}</a>
+            {% endif %}
+          {% endfor %}
+          </li>
+        {% endfor %}
+      {% endunless %}
+      {% unless page.regions[0] == null %}
+        {% for locale in page.regions limit:2 %}
+          <li>
+            {% for region in site.regions %}
+              {% if locale == region.title %}
+              <a class="expert-region" href="{{ region.url }}"><svg class="region-badge badge" viewBox="0 0 100  100" preserveAspectRatio="xMinYMax meet"><use xlink:href="#region-badge"></use></svg> {{ region.title }}</a>
+              {% endif %}
+            {% endfor %}
+          </li>
+        {% endfor %}
+      {% endunless %}
+      {% unless page.articles[0].name == null %}
+        {% for article in page.articles limit:2 %}
+            <li>
+              <a href="{{ article.article_file }}" class="expert-article"><svg class="article-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax meet"><use xlink:href="#article-badge"></use></svg> {{ article.name | markdownify | remove: '<p>' | remove: '</p>'}}</a>
+            </li>
+        {% endfor %}
+      {% endunless %}
+    </ul>
+  </div>
+</div>
 {{ content }}
