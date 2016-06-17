@@ -15,6 +15,7 @@ summary: Albert Cevallos has more than 17 years of experience in democratization
   Iran, Iraq, Egypt, Lebanon, Kosovo, Bosnia, Serbia, Croatia, Macedonia, Montenegro,
   Cyprus, Rwanda, Cuba, Ecuador, Venezuela, Kyrgyzstan, and Kazakhstan.
 job-title: Director, Effective Governance, Middle East, North Africa, and Afghanistan
+featured: true
 ---
 
 Prior to joining DAI, Albert Cevallos was the Director of Democracy and Governance at International Relief and Development. He has more than 17 years of experience in democratization, governance, media, human rights, conflict resolution, and youth programs in Syria, Iran, Iraq, Egypt, Lebanon, Kosovo, Bosnia, Serbia, Croatia, Macedonia, Montenegro, Cyprus, Rwanda, Cuba, Ecuador, Venezuela, Kyrgyzstan, and Kazakhstan. Over his career, he has received numerous awards for his work, including four Superior Group Honor Awards presented by the U.S. Government, a United Nations Association Human Rights Community Award, and a Senior Fellowship at the U.S. Institute of Peace, for whom he just completed a book analyzing the democratization of Serbia and how this could apply to other repressive regimes.

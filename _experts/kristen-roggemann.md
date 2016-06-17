@@ -22,6 +22,7 @@ job-title: Principal Mobile Solutions Specialist
 articles:
 - name: Guess Which Communications Platform Youth Prefer Today?
   article_file: http://us4.campaign-archive1.com/?u=84e9f392a668e74df589375c7&id=5446792d6e&e=2d65075350
+featured: true
 ---
 
 Before joining DAI, Kristen Roggemann held advisory and business development positions within a variety of mobile-for-development and international development organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen, driving partnership strategy at the intersection of the mobile operator and international development sectors.

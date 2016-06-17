@@ -93,7 +93,23 @@ body.st-ui-overlay-active{
   }
 }
 .related-block{
-  display: block;
+  display: none;
+  float: right;
+  clear: right;
+  @include responsive(wide-screens){
+    display: block;
+    @include width(2);
+  }
+}
+.related-block--expert{
+  margin-top: 1rem;
+  padding: .3rem;
+  background-color: $related-blue;
+  border-radius: .1rem;
+  p{
+    font-size: .7rem;
+    color: white;
+  }
 }
 .container.container-node{
   /*block to float for related content*/

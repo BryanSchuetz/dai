@@ -1,0 +1,6 @@
+  {% assign experts = site.experts | where: "featured", "true" %}
+  <div class="related-block">
+  {% for expert in experts %}
+    <div class="related-block--expert"><p>{{ expert.title }}</p></div>
+  {% endfor %}
+</div>
