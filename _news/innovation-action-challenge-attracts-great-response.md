@@ -10,7 +10,7 @@ regions:
 projects: 
 clients:
 - U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 The response to the Innovation into Action Challenge, whose application window closed last week, has been rich, broad, and diverse. All told, the competition attracted entries from 296 innovators in 49 countries.

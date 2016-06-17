@@ -11,7 +11,7 @@ solutions:
 regions: 
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 DAI today announced the appointment of [Christopher A. LeGrand][1] to its global leadership team. LeGrand, the former CEO of Futures Group, will assume the role of President, DAI Global Health. In this newly created position, he will focus on advancing DAI's global health portfolio, with an emphasis on emerging health markets and services.

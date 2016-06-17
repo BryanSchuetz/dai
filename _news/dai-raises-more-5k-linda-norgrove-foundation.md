@@ -9,7 +9,7 @@ solutions:
 regions: 
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 DAI recently hosted a number of events to raise funds for the Linda Norgrove Foundation, a grant-giving trust that provides funding for women, families, and children in Afghanistan, focusing on education, health, childcare, and scholarships to help Afghan women go to university.

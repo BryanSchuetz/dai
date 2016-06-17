@@ -7,7 +7,7 @@ solutions:
 regions: 
 projects: 
 clients: 
-layout: node
+layout: page
 featured: true
 ---
 

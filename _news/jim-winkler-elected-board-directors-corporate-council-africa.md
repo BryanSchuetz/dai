@@ -15,7 +15,7 @@ regions:
 - Sub-Saharan Africa
 projects: East Africa—Trade and Investment Hub (TIH)
 clients: U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 Senior Trade and Investment Advisor [Jim Winkler][1] has been elected to the Board of Directors for the [Corporate Council on Africa][2] (CCA), a nonprofit, membership-based organization that promotes business and investment between the U.S. and African countries.

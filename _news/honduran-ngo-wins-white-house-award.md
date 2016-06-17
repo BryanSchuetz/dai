@@ -12,7 +12,7 @@ regions:
 - Latin America and the Caribbean
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 The Organization for Youth Empowerment (OYE), a Honduran nongovernmental organization, was honored November 19 at a reception at the home of Joe Eldridge and DAI Board Member [Maria Otero][1]. Earlier this week, [OYE][2] was presented with the International Spotlight Award in a White House ceremony with First Lady Michelle Obama.

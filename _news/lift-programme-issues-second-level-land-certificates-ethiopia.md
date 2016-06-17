@@ -10,7 +10,7 @@ regions:
 - Sub-Saharan Africa
 projects: Land Investment for Transformation (LIFT)
 clients: 
-layout: node
+layout: page
 ---
 
 DAI's [Land Investment for Transformation (LIFT)][1] programme in Ethiopia recently issued second-level land certificates to farmers for the first time at an event in Dejen Kebele, Emba Alaje Woreda, Tigray.

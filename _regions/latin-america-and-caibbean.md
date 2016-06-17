@@ -1,7 +1,7 @@
 ---
 title: Latin America and the Caribbean
 date: 2016-01-27 22:20:40.426000000 Z
-layout: node
+layout: page
 summary: Since 1975, clients such as the U.S. Agency for International Development,
   Inter-American Development Bank, World Bank, and government of Mexico have called
   on DAI to support sustainable economic growth, environmentally responsible agricultural

@@ -11,7 +11,7 @@ regions:
 - Sub-Saharan Africa
 projects: Feed the Future Liberia Food and Enterprise Development Program (FED)
 clients: U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 A former businessman who took up farming to help Liberia become more self-sufficient at generating food was named Person of the Year by the Daily Observer, one of the country’s top newspapers.

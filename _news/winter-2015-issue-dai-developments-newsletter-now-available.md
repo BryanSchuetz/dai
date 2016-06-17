@@ -14,7 +14,7 @@ regions:
 - Asia and the Pacific
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 The Winter 2015 issue of DAI's *Developments* newsletter is now available.

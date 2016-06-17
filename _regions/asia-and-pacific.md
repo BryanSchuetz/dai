@@ -1,7 +1,7 @@
 ---
 title: Asia and the Pacific
 date: 2016-01-27 22:20:40.426000000 Z
-layout: node
+layout: page
 summary: DAI has worked in Asia since the early 1980s, with our first projects in
   Indonesia. Over time we expanded greatly in Indonesia and gained experience across
   the continent, from Timor-Leste and Mongolia to Bangladesh and Pakistan.

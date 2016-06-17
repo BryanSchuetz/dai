@@ -12,7 +12,7 @@ regions:
 projects: 
 clients:
 - European Commission
-layout: node
+layout: page
 ---
 
 DAI recently hosted a workshop in Kampala, Uganda, on the implementation of the country's national land policy (NLP). The workshop presented the findings of a seven-week capacity assessment to support the implementation of the NLP.

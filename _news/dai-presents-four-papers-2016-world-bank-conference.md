@@ -9,7 +9,7 @@ solutions:
 regions: 
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 DAI's [Land Tenure and Property Rights team][1] presented four papers at the Annual World Bank Conference on Land and Poverty 2016, on March 14–18, in Washington, D.C.

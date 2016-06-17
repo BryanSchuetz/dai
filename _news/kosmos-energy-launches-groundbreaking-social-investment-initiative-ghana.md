@@ -12,7 +12,7 @@ regions:
 - Sub-Saharan Africa
 projects: 
 clients: 
-layout: node
+layout: page
 featured: true
 ---
 

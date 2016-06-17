@@ -10,7 +10,7 @@ solutions:
 regions: 
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 ![Bobby](/assets/images/news/bobby%20photoInner.jpg){: .float-left}DAI today announced that [Bobby Jefferson][1] has joined DAI as Vice President and Chief Technology Officer for DAI Global Health, effective May 1. A leader in the field of information and communications technology for development (ICT4D), Jefferson will focus on expanding DAI's range of digital health services.

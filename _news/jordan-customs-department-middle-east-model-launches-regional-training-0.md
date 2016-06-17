@@ -14,7 +14,7 @@ projects:
 - Jordan Fiscal Reform Project II and Bridge Activity (FRP II, FRP Bridge)
 clients:
 - U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 The Jordan Customs Department last week inaugurated its newly certified regional training center in Amman, a forum for customs staff from more than 10 Middle East countries to train, strengthen ties, and improve cross-border commerce and traffic. The center allows the Jordan Customs Department to conduct high-quality training for customs officers, partner government agencies, and private sector representatives in the region.

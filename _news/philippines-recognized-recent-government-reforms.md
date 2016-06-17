@@ -13,7 +13,7 @@ regions:
 - Asia and the Pacific
 projects: Facilitating Public Investment (FPI)
 clients: 
-layout: node
+layout: page
 ---
 
 The Philippines, a founding member of the international [Open Government Partnership][1] (OGP), has been recognized as one of the leading OGP participants. The OGP is an international organization promoting transparency, civic participation, the fight against corruption, and new technologies to make government more open, effective, and accountable.

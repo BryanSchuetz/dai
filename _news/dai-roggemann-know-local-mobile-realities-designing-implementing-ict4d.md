@@ -11,7 +11,7 @@ regions:
 projects:
 - Jordan Workforce Development (WFD) Project
 clients: 
-layout: node
+layout: page
 ---
 
 As the rate of mobile penetration grows globally, youth-focused local programming will need to account for the nuanced preferences of this mobile-first generation.

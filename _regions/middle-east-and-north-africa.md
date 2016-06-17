@@ -1,7 +1,7 @@
 ---
 title: Middle East and North Africa
 date: 2016-01-27 22:20:40.426000000 Z
-layout: node
+layout: page
 summary: Our work in the Middle East and North Africa began with design and evaluation
   assignments in 1976 and continues today with major programs in many development
   fields.

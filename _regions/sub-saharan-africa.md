@@ -1,7 +1,7 @@
 ---
 title: Sub-Saharan Africa
 date: 2016-01-27 22:20:40.426000000 Z
-layout: node
+layout: page
 summary: DAI traces its corporate roots to Sub-Saharan Africa. Today, we help African
   governments, businesses, private organizations, and communities overcome their most
   pressing challenges.

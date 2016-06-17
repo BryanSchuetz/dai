@@ -11,7 +11,7 @@ projects:
 - Jordan Fiscal Reform Project II and Bridge Activity (FRP II, FRP Bridge)
 clients:
 - U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 Jordan continues to carry the burden of high unemployment rates among its young people—at 30 percent. The [Fiscal Reform Project (FRP)][1], funded by the U.S. Agency for International Development, supports young Jordanians, current students and recent graduates, through its Internship and Volunteer Program.

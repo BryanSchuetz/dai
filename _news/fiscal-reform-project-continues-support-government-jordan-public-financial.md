@@ -15,7 +15,7 @@ projects:
 - Jordan Fiscal Reform Project II and Bridge Activity (FRP II, FRP Bridge)
 clients:
 - U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 Over the past decade, Jordan has been successful in achieving many of its reform goals in education, health, and economic privatization and liberalization. The government continues to introduce social protection mechanisms and reform subsidies, creating the conditions for public-private partnerships in infrastructure and improving its overall fiscal and budgetary health.

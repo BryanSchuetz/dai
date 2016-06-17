@@ -10,7 +10,7 @@ regions:
 - Sub-Saharan Africa
 projects: Transition Initiatives for Stabilization (TIS)
 clients: U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 An effort that began in 2011 recently came to fruition in Somaliland at the end of 2015 with the handover of a newly constructed facility to house the 145 employees who work for the region’s Ministry of Interior.

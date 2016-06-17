@@ -8,7 +8,7 @@ solutions:
 regions: 
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 DAI this week hosted Chloe Schwenke for a presentation in its Bethesda office. Schwenke is a leading voice in the efforts to integrate sexual minorities into the work of the international development community.

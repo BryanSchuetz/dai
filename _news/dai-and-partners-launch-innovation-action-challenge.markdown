@@ -11,7 +11,7 @@ regions:
 projects: 
 clients:
 - U.S. Agency for International Development
-layout: node
+layout: page
 featured: true
 ---
 

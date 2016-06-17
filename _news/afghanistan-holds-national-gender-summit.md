@@ -15,7 +15,7 @@ regions:
 projects:
 - Afghanistan—Musharikat
 clients: U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 A national summit on gender equality was recently held in Afghanistan that brought together activist and civil society groups to set priorities and establish coalitions.

@@ -11,7 +11,7 @@ projects:
 - Thailand—Sapan
 clients:
 - U.S. Agency for International Development
-layout: node
+layout: page
 ---
 
 ![][3]{:.float-left}A key partner of the USAID Sapan Program in Thailand was presented the 2016 Secretary of State's International Women of Courage Award. Rodjaraeg Wattanapanit, 50, co-owner of a bookstore, Book Re:public, was one of 14 recipients lauded at a March 29 [ceremony][1] in Washington, D.C., led by U.S. Secretary of State John Kerry. The activist from Chiang Mai in northern Thailand was a close friend and grantee of the [Sapan][2] program; Cafe Democracy, which is hosted in her bookstore, was one of Sapan's flagship beneficiaries.

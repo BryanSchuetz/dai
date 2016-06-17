@@ -1,6 +1,6 @@
 ---
 title: Ethics and Compliance at DAI
-layout: node
+layout: page
 ---
 
 At DAI, everyone is responsible for ethical behavior and compliance with all applicable laws and regulations. These responsibilities include being vigilant in mitigating the risk of ethical and compliance violations, and reporting any violations through proper channels. DAI maintains multiple offices and implements stringent policies and processes to ensure that our projects succeed in a compliant and ethical manner. DAI employees play a pivotal role in upholding DAI’s high standards.

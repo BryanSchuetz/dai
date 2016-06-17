@@ -11,7 +11,7 @@ solutions:
 regions: 
 projects: 
 clients: 
-layout: node
+layout: page
 ---
 
 DAI is delighted honor the two winners of this year's David H. Gunning Award for Community Service. They are Caity Campos, who founded and runs a nonprofit for at-risk youth in South and Central America, and Katie Prowse, who works for an education charity in Zambia. Matt Woodhouse, a trustee and founder of Katapult Kilimanjaro, a U.K. charity that promotes sustainable development in Tanzania, was selected as the winner of an "honorable mention" prize.

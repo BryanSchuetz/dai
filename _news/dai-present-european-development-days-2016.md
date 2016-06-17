@@ -8,7 +8,7 @@ regions:
 projects: 
 clients:
 - European Commission
-layout: node
+layout: page
 ---
 
 DAI is pleased to have been selected to host a lab and stand at the annual European Development Days event in Brussels on June 15-16.
