@@ -1,11 +1,8 @@
 ---
 title: Contact Us
 position: 5
-layout: default
+layout: page
 ---
-
-# Contact Us
-
 <div class="cf">
   <div class="contact-us us">
     <h2 id="us">U.S.</h2>

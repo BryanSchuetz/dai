@@ -1,11 +1,8 @@
 ---
 title: Project Login (TAMIS)
 position: 8
-layout: default
+layout: page
 ---
-
-# Project Login (TAMIS)
-
 Our Technical and Administrative Management Information System (TAMIS) is a comprehensive project management system that helps manage a wide variety of international development projects. For a number of DAI projects, select data in TAMIS are accessible via password-protected websites. The links to these websites below allow staff and partners with established credentials to access this select project data.
 
 <div class="project-login">
