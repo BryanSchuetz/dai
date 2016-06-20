@@ -1,6 +1,16 @@
-  {% assign experts = site.experts | where: "featured", "true" %}
+  {% assign shuffled_experts = site.experts | shuffle %}
   <div class="related-block">
-  {% for expert in experts %}
-    <div class="related-block--expert"><p>{{ expert.title }}</p></div>
+  {% assign counter = 0 %}
+  {% for expert in shuffled_experts %}
+    {% for solution in expert.solutions %}
+      {% if page.solutions contains solution %}
+        <a href="{{ expert.url }}"><div class="related-block--expert" style="background: url({{ expert.image }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"><span class="related-block--sub">{{ expert.title }}</span></div></a>
+        {% assign counter = counter | plus:1 %}
+      {% break %}
+      {% endif %}
+    {% endfor %}
+    {% if counter == 2 %}
+      {% break %}
+    {% endif %}
   {% endfor %}
 </div>

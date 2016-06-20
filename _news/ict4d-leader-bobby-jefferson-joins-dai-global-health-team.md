@@ -7,9 +7,10 @@ summary: DAI today announced that Bobby Jefferson has joined DAI as Vice Preside
   Jefferson will focus on expanding DAI's range of digital health services.
 solutions:
 - Health
-regions: 
-projects: 
-clients: 
+- Digital
+regions:
+projects:
+clients:
 layout: page
 ---
 

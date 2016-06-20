@@ -103,12 +103,22 @@ body.st-ui-overlay-active{
 }
 .related-block--expert{
   margin-top: 1rem;
-  padding: .3rem;
-  background-color: $related-blue;
   border-radius: .1rem;
-  p{
+  height: 150px;
+  position: relative;
+  span{
     font-size: .7rem;
     color: white;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding: 3px;
+    background: rgba($nav_black, 0.8);
+    text-align: center;
+  }
+  img{
+    border: 0;
   }
 }
 .container.container-node{
