@@ -1,4 +1,9 @@
+
+{% if jekyll.environment== 'prod' %}
   {% assign shuffled_experts = site.experts | shuffle %}
+  {% else %}
+    {% assign shuffled_experts = site.experts %}
+{% endif %}
   <div class="related-block">
   {% assign counter = 0 %}
   {% for expert in shuffled_experts %}

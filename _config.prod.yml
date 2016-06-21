@@ -1,7 +1,6 @@
 ---
 title: DAI
 timezone: UTC
-incremental: true
 collections:
   clients:
     title: Clients
