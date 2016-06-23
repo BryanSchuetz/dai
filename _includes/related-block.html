@@ -1,10 +1,12 @@
 
+<!-- Check for a productin environment that will allow the shuffle plugin to run -->
 {% if jekyll.environment== 'prod' %}
   {% assign shuffled_experts = site.experts | shuffle %}
   {% else %}
     {% assign shuffled_experts = site.experts %}
 {% endif %}
-  <div class="related-block">
+
+<div class="related-block">
   {% assign counter = 0 %}
   {% for expert in shuffled_experts %}
     {% for solution in expert.solutions %}
@@ -18,4 +20,10 @@
       {% break %}
     {% endif %}
   {% endfor %}
+  {% if counter == 0 %}
+      {% for related in site.related %}
+      <a href="{{ related.link }}"><div class="related-block--global" style="background: url({{ related.image }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"><span class="related-block--sub">{{ related.title }}</span>
+      </div></a>
+      {% endfor %}
+  {% endif %}
 </div>

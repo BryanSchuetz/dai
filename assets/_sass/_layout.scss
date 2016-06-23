@@ -100,8 +100,15 @@ body.st-ui-overlay-active{
     display: block;
     @include width(2);
   }
+  @include responsive(extra-ultra-wide-screens){
+    @include width(4);
+  }
+  & a:first-of-type div{
+    margin-top: .25rem;
+  }
 }
-.related-block--expert{
+
+.related-block--expert, .related-block--global{
   margin-top: 1rem;
   border-radius: .1rem;
   height: 150px;
@@ -120,6 +127,9 @@ body.st-ui-overlay-active{
   img{
     border: 0;
   }
+}
+.related-block--global{
+  border: 1px solid $nav-gray;
 }
 .container.container-node{
   /*block to float for related content*/

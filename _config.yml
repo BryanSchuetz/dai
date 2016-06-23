@@ -3,6 +3,9 @@ title: DAI
 timezone: UTC
 incremental: true
 collections:
+  related:
+    title: related
+    output: false
   clients:
     title: Clients
     output: false

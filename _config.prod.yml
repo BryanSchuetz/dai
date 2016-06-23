@@ -2,6 +2,9 @@
 title: DAI
 timezone: UTC
 collections:
+  related:
+    title: related
+    output: false
   clients:
     title: Clients
     output: false
