@@ -5,7 +5,6 @@ lastname: Edwards
 regions:
 - Sub-Saharan Africa
 solutions:
-- Economic Growth
 - Land Tenure and Property Rights
 layout: expert
 image: "/assets/images/experts/Owen%20INNER.jpg"
@@ -14,8 +13,8 @@ summary: Owen Edwards is a Principal Project Manager with the DAI Europe Program
   programmes in sub-Saharan Africa where he has been working for more than eight years.
 job-title: Principal Project Manager, Land Administration
 articles:
-- name: 
-  article_file: 
+- name:
+  article_file:
 ---
 
 Owen Edwards is a Principal Project Manager with the DAI Europe Programme Management Unit. Owen has extensive experience in delivering successful land administration programmes in sub-Saharan Africa where he has been working for more than eight years. Owen specifically concentrates upon the use of data to ensure project control and to understand the unique complex adaptive environments in which each development initiative is implemented. This has resulted in the successful delivery of development initiatives; achieved on major land administration programmes that Owen has worked on in Rwanda and Ethiopia.  

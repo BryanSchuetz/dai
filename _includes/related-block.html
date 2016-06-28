@@ -7,23 +7,26 @@
 {% endif %}
 
 <div class="related-block">
-  {% assign counter = 0 %}
-  {% for expert in shuffled_experts %}
-    {% for solution in expert.solutions %}
-      {% if page.solutions contains solution %}
-        <a href="{{ expert.url }}"><div class="related-block--expert" style="background: url({{ expert.image }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"><span class="related-block--sub">{{ expert.title }}</span></div></a>
-        {% assign counter = counter | plus:1 %}
-      {% break %}
+  <div class="related-wrap--experts">
+    {% assign counter = 0 %}
+    {% for expert in shuffled_experts %}
+      {% for solution in expert.solutions %}
+        {% if page.solutions contains solution %}
+          <a style="background: url({{ expert.image }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" class="related-block--expert {% if counter == 1 %}second {% else %} first {% endif %}" href="{{ expert.url }}"><span class="related-block--sub">{{ expert.title }}</span></a>
+          {% assign counter = counter | plus:1 %}
+        {% break %}
+        {% endif %}
+      {% endfor %}
+      {% if counter == 2 %}
+        {% break %}
       {% endif %}
     {% endfor %}
+  </div>
+  <div class="related-wrap--globals">
     {% if counter == 2 %}
-      {% break %}
+        {% for related in site.related %}
+        <a class="related-block--global" style="" href="{{ related.link }}"><h4>{{ related.title }}</h4></a>
+        {% endfor %} 
     {% endif %}
-  {% endfor %}
-  {% if counter == 0 %}
-      {% for related in site.related %}
-      <a href="{{ related.link }}"><div class="related-block--global" style="background: url({{ related.image }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"><span class="related-block--sub">{{ related.title }}</span>
-      </div></a>
-      {% endfor %}
-  {% endif %}
+  </div>
 </div>
