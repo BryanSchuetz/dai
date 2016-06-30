@@ -141,10 +141,10 @@ body.st-ui-overlay-active{
   h4{
     margin-bottom: 0;
     @include responsive(wide-screens){
-      font-size: 1rem;
+      font-size: .8rem;
     }
     @include responsive(extra-ultra-wide-screens){
-      font-size: 1.1rem;
+      font-size: .9rem;
     }
     color: white;
     text-align: center;

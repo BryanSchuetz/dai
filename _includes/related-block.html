@@ -22,11 +22,11 @@
       {% endif %}
     {% endfor %}
   </div>
-  <div class="related-wrap--globals">
+  <div class="related-wrap--globals">  
     {% if counter == 2 %}
         {% for related in site.related %}
         <a class="related-block--global" style="" href="{{ related.link }}"><h4>{{ related.title }}</h4></a>
-        {% endfor %} 
+        {% endfor %}
     {% endif %}
   </div>
 </div>
