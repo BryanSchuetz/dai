@@ -35,8 +35,31 @@
       {% endif %}
       <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}">
         {{ content }}
+        <p id="last"></p>
+        <div id="slidebox">
+          <p>Related Content:</p>
+          <h2>DAI History: 40 Years of Excellence</h2>
+          <a href="" class="more">Read More</a>
+        </div>
       </div>
       {% include footer.html %}
     </div>
+    <script type="text/javascript">
+      $(function() {
+      	$(window).scroll(function(){
+
+          var distanceTop = $('#last').offset().top - $(window).height() - 100;
+
+      		if  ($(window).scrollTop() > distanceTop)
+      			$('#slidebox').animate({'right':'0px'},300);
+      		else
+      			$('#slidebox').stop(true).animate({'right':'-430px'},100);
+      	});
+
+      	$('#slidebox .close').bind('click',function(){
+      		$(this).parent().remove();
+      	});
+      });
+    </script>
   </body>
 </html>

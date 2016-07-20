@@ -1,4 +1,39 @@
 
+- title: "Machine Learning Will Help Development Projects Achieve Scale"
+  pub: "Digital"
+  date: 2016-07-12
+  link: "http://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html"
+  summary: "The terms “machine learning” and “artificial intelligence” (AI) conjure up feelings that are equal parts fear and fascination. Why is that? Until recently, the prospect of a piece of software making human-like decisions resided safely in the far-fetched expectations of 1960s-era computer scientists or the plot lines of science fiction novels. Today, however, after decades of unmet expectations, we finally have AI systems that are beginning to influence our lives in tangible ways. Voice recognition systems like Amazon’s Echo and Apple’s Siri, and once-unimaginable fantasies like self-driving cars, are on the market for consumers, with more exciting life-like systems to come. We have also seen a few early signs of robotic autonomy that makes us feel uneasy, like the Russian robot that learned how to escape the lab!"
+  tags:
+    - digital
+
+- title: "Ready for Takeoff: Video Games in International Development"
+  pub: "Digital"
+  date: 2016-07-07
+  link: "http://dai-global-digital.com/video-games-in-international-development.html"
+  summary: "From Gaming to Development Impact
+
+I was 6 when my dad brought home our first computer. It was an IBM 386. At the time, it was space-age technology. By today’s standards it’s the musical equivalent of banging two rocks together. I imagine my dad expected my older brother and me to learn the interface and how to type. Instead, within weeks we were mowing down Nazis in Wolfenstein 3D and engineering some pretty spectacular crashes in in Stunts. Needless to say, I was hooked."
+  tags:
+    - digital
+
+- title: "Afghanistan Produces Highly Skilled Software Engineers"
+  pub: "Digital"
+  date: 2016-06-30
+  link: "http://dai-global-digital.com/afghanistans-highly-skilled-software-engineers.html"
+  summary: "Great products are built close to the user. It is design principle No. 1. It is what lets you deploy early and often, fail fast, learn and iterate. It is also why it is impossible to export software across an ocean and expect it to work well for users with whom you have little interaction or empathy. But here’s the thing: businesses and local governments in poor countries need great software to achieve inclusion, transparency, efficiency, and revenue."
+  tags:
+    - digital
+
+- title: "Consumer Insights Palestine: 
+E-Governance Readiness"
+  pub: "Digital"
+  date: 2016-06-22
+  link: "http://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html"
+  summary: "In June I traveled to the West Bank to investigate aspects of Palestinian readiness for local electronic governance (e-gov) systems. As part of an attempt to explore potential improvements in municipal service delivery and citizen engagement, I conducted citizen interviews to help us better understand how Palestinians receive and share information using technology, and how they interact with local municipalities."
+  tags:
+    - digital
+
 - title: "Notes from the Field: Makerspaces a Great Solution for Tanzanian Youth to Realize Dreams"
   pub: "Digital"
   date: 2016-06-17
@@ -15,7 +50,7 @@
   tags:
     - digital
 
-- title: "Los Mejores 3 Conceptos Para Enfrertar el Cambio Climatico de NASA Space Apps Bogotá"
+- title: "Los Mejores 3 Conceptos Para Enfrentar el Cambio Climatico de NASA Space Apps Bogotá"
   pub: "Digital"
   date: 2016-06-13
   link: "http://dai-global-digital.com/cambio-climatico-space-apps-bogota.html"
@@ -27,7 +62,7 @@ This post is also available in English."
 
 - title: "5 (and 1/2) Things We Learned from Teaching the Digital Principles"
   pub: "Digital"
-  date: 2016-06-09
+  date: 2016-06-08
   link: "http://dai-global-digital.com/5-and-a-half-things-we-learned-from-teaching-the-digital-principles.html"
   summary: "Over the last couple of years, DAI has developed the “ICT Corps”—a series of in-house training sessions for our teams around the world on how to integrate ICT into development projects, from using mobile tools to engage communities to using ICT-enabled solutions to gather data for decision-making. One of these modules is devoted to teaching the nine Principles for Digital Development. DAI has endorsed the principles and regularly uses them to guide technology design, but in using them as a training tool, we learned a thing or five."
   tags:
@@ -53,7 +88,7 @@ Esta entrada también está disponible en español."
 
 - title: "Consumer Insights Indonesia Part 2: Where WhatsApp is Just Another BlackBerry Messenger Clone"
   pub: "Digital"
-  date: 2016-05-19
+  date: 2016-05-18
   link: "http://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-consumer-insights-indonesia.html"
   summary: "Consumer Insights participants in Semarang, Central Java, Indonesia.
 
@@ -224,7 +259,7 @@ To the casual observer, Chamelecón looks like any other marginalized Central Am
 
 - title: "Data Mining and the Human Development Index"
   pub: "Digital"
-  date: 2016-03-10
+  date: 2016-03-09
   link: "http://dai-global-digital.com/data-mining-and-the-human-development-index.html"
   summary: "We love data mining at DAI and today we are going to mine a data set from the United Nations (UN). We are going to do so by first working through an illustrative four-wheeled example."
   tags:
@@ -255,42 +290,6 @@ The digital divide is a buzz phrase that is easy to cite (especially around Inte
   summary: "This is a guest post by Rob Ryan-Silva,  Director, DAI Maker Lab
 
 We started the Maker Lab about a year ago to introduce a promising set of tools and approaches emerging from the maker movement to the developing world. These rapidly evolving and improving tools empower non-specialists to design electronic and mechanical devices, and to build them in quantities that are not economically viable under the traditional mass production model, upending some of the long-standing constraints around traditional manufacturing that have hindered developing countries’ access to transformative technologies."
-  tags:
-    - digital
-
-- title: "Sowing the Seeds of a Tech-for-Social-Good Ecosystem in Afghanistan"
-  pub: "Digital"
-  date: 2016-02-23
-  link: "http://dai-global-digital.com/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html"
-  summary: "In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded under the U.S. Agency for International Development (USAID)’s Promote program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners."
-  tags:
-    - digital
-
-- title: "Consumer Insights Afghanistan: How Young Women are Using Tech"
-  pub: "Digital"
-  date: 2016-02-18
-  link: "http://dai-global-digital.com/consumer-insights-afghanistan-how-young-women-are-using-tech.html"
-  summary: "In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s Promote program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries."
-  tags:
-    - digital
-
-- title: "Innovation Into Action Challenge"
-  pub: "Digital"
-  date: 2016-02-04
-  link: "http://dai-global-digital.com/innovation-into-action-challenge.html"
-  summary: "Is your startup prototyping a new tool that might help shape a more livable world? Has your company developed a novel way to tackle age-old problems in international development?
-
-
-
-DAI and a group of partners have come together to launch the “Innovation into Action Challenge,” and we’re looking for people like you!"
-  tags:
-    - digital
-
-- title: "Addressing the Issue: How to Deliver on Physical Addresses for the Poor"
-  pub: "Digital"
-  date: 2016-02-03
-  link: "http://dai-global-digital.com/addressing-the-issue-how-to-deliver-on-physical-addresses-for-the-poor.html"
-  summary: "Did you know that 4 billion people the world over make do every day without a physical address? Consider the last time you opened a bank account or applied for a loan—you were probably asked for a home address to verify your identity. Imagine calling an ambulance in an emergency situation and trying to explain where you were if your street had no name and your home had no number. How would you register to vote? How would you get supplies to and from your office?"
   tags:
     - digital
 
