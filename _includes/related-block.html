@@ -7,6 +7,7 @@
 {% endif %}
 
 <div class="related-block">
+  <h4>Related Content</h4>
   <div class="related-wrap--experts">
     {% assign counter = 0 %}
     {% for expert in shuffled_experts %}
@@ -18,11 +19,11 @@
         {% endif %}
       {% endfor %}
       {% if counter == 2 %}
-        {% break %}
+        {% break %}ulp
       {% endif %}
     {% endfor %}
   </div>
-  <div class="related-wrap--globals">  
+  <div class="related-wrap--globals">
     {% if counter == 2 %}
         {% for related in site.related %}
         <a class="related-block--global" style="" href="{{ related.link }}"><h4>{{ related.title }}</h4></a>
