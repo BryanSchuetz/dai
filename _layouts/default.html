@@ -40,19 +40,19 @@
           <div id="slidebox">
             <a class="close">x</a>
             <p>Related Content:</p>
-            <h2>DAI History: 40 Years of Excellence</h2>
-            <a href="" class="more">Read More</a>
+            <h2><a href="">DAI History: 40 Years of Excellence</a></h2>
+            <p>DAI was founded in 1970 by three graduates of Harvard University’s Kennedy School of Government intent on providing a more dynamic and effective brand of development assistance. See how DAI is turning this American success story, into a global one.</p>
           </div>
           <script type="text/javascript">
             $(function() {
             	$(window).scroll(function(){
 
-                var distanceTop = $('#last').offset().top - $(window).height() - 100;
+                var distanceTop = $('#last').offset().top - $(window).height() - 350;
 
             		if  ($(window).scrollTop() > distanceTop)
-            			$('#slidebox').animate({'right':'0px'},300);
+            			$('#slidebox').animate({'right':'0%', 'easing':'swing'},300);
             		else
-            			$('#slidebox').stop(true).animate({'right':'-430px'},100);
+            			$('#slidebox').stop(true).animate({'right':'-45%', 'easing':'swing'},300);
             	});
 
             	$('#slidebox .close').bind('click',function(){
