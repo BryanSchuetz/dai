@@ -404,14 +404,17 @@ aside{
     bottom:100px;
     right:-45%;
     box-shadow: 2px 5px 10px 1px rgba($emphasis, 0.6);
+    .title{
+      font-weight: bold;
+    }
 }
-#slidebox p, a.more{
-    font-size:11px;
+#slidebox p{
+    font-size: .7rem;
     color:#555;
 }
 #slidebox h2{
     color: $link-green;
-    font-size:18px;
+    font-size: 1.1rem;
     margin:10px 20px 5px 0px;
 }
 a.close{
