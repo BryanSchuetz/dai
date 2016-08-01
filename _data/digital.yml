@@ -1,4 +1,20 @@
 
+- title: "Online Petitions and the Future of Citizen-driven Advocacy: A Conversation with Avijit Michael"
+  pub: "Digital"
+  date: 2016-07-25
+  link: "http://dai-global-digital.com/online-petitions-and-the-future-of-citizen-driven-advocacy-a-conversation-with-avijit-michael.html"
+  summary: "Meet Avijit Michael, the former Global Development Director for Change.org who recently moved to Jhatkaa.org, a tech nonprofit focused on digital advocacy in his home country of India. Avijit wears many hats—software designer, artist, environmentalist, campaigner for progressive causes, and musician. After almost a decade in the world of digital activism, he gives us his thoughts on the state of the field."
+  tags:
+    - digital
+
+- title: "Measuring Mobile Connectivity: GSMA Launches New Analytical Tool"
+  pub: "Digital"
+  date: 2016-07-20
+  link: "http://dai-global-digital.com/measuring-mobile-connectivity-gsma-launches-a-new-analytical-tool.html"
+  summary: "The end of 2015 saw 3.2 billion people connected to the internet. With rates continuing to rise steadily, people are plugging into online networks that foster social and economic development, empowering them with new tools for more effective communication and more efficient economic activity. As impressive as these figures are though, 4 billion people remain offline, without access to these opportunities. Bridging the digital divide is of paramount importance if the world’s most disadvantaged populations are to participate in the increasingly connected economy, and because people are increasingly turning to mobile phones as their primary gateway to the mobile networks represent the linchpin to inclusive, ICT-enabled development."
+  tags:
+    - digital
+
 - title: "Machine Learning Will Help Development Projects Achieve Scale"
   pub: "Digital"
   date: 2016-07-12
@@ -270,26 +286,6 @@ To the casual observer, Chamelecón looks like any other marginalized Central Am
   date: 2016-03-09
   link: "http://dai-global-digital.com/code-weekend-afghanistan-update-locally-developed-apps-to-fight-street-harassment.html"
   summary: "In February, I wrote a piece about Code Weekend, a tech-for-social-good organization based in Kabul. Here’s an exciting update: last month, it launched the first Code Women Challenge in Afghanistan, aimed at creating smartphone apps to counter the harassment that women face in the streets. Nine teams submitted concepts, and two tied for first place in the competition."
-  tags:
-    - digital
-
-- title: "Defeated by the Digital Divide? Invest in Inclusion"
-  pub: "Digital"
-  date: 2016-03-08
-  link: "http://dai-global-digital.com/defeated-by-the-digital-divide-invest-in-inclusion.html"
-  summary: "This is a guest post by Kate Heuisler, Chief of Party, USAID Development Innovations Cambodia
-
-The digital divide is a buzz phrase that is easy to cite (especially around International Women’s Day!), but considerably harder to address with tangible plans. Quotas? Women-focused events? Round phones? As development practitioners look for the easy answers, we here at Development Innovations Cambodia are pushing back: there isn’t one. Rather than one-off events, we focus on the quality of programming, improving access to digital education, tools and skills, and showing young Cambodians that jobs and careers in tech are viable options for every interested Cambodian, not just young men."
-  tags:
-    - digital
-
-- title: "Civil Society the Hard(ware) Way: Maker Lab Experiences in Cambodia"
-  pub: "Digital"
-  date: 2016-03-07
-  link: "http://dai-global-digital.com/civil-society-the-hard-ware-way-maker-lab-experiences-in-cambodia.html"
-  summary: "This is a guest post by Rob Ryan-Silva,  Director, DAI Maker Lab
-
-We started the Maker Lab about a year ago to introduce a promising set of tools and approaches emerging from the maker movement to the developing world. These rapidly evolving and improving tools empower non-specialists to design electronic and mechanical devices, and to build them in quantities that are not economically viable under the traditional mass production model, upending some of the long-standing constraints around traditional manufacturing that have hindered developing countries’ access to transformative technologies."
   tags:
     - digital
 
