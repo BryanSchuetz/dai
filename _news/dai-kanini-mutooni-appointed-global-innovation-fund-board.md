@@ -1,15 +1,18 @@
 ---
 title: DAI’s Kanini Mutooni Appointed to Global Innovation Fund Board
 date: 2016-06-10 18:05:00 Z
-summary: "DAI's Kanini Mutooni, director for investment at the [East Africa Trade and Investment Hub](/our-work/projects/east-africa-trade-and-investment-hub-tih), was recently appointed to the board of directors of the Global Innovation Fund."
+summary: DAI's Kanini Mutooni, director for investment at the [East Africa Trade and
+  Investment Hub](/our-work/projects/east-africa-trade-and-investment-hub-tih), was
+  recently appointed to the board of directors of the Global Innovation Fund.
 solutions:
 - Economic Growth
 - Agriculture and Food Security
 regions: Sub-Saharan Africa
 projects: East Africa—Trade and Investment Hub (TIH)
-clients:
+clients: 
 layout: node
 ---
+
 DAI's Kanini Mutooni, director for investment at the [East Africa Trade and Investment Hub][1], was recently appointed to the board of directors of the Global Innovation Fund. The $200 million London-based fund invests in evidence-based innovations with strong potential for social impact, supports innovators, scales up successes, and provides financing options. The fund was established in partnership with Omidyar Network in 2014 by governments of the United States, United Kingdom, Sweden, and Australia.
 
 ![][2]{: .float-left} Based in Nairobi, Kenya, and funded by the U.S. Agency for International Development (USAID), the East Africa Trade and Investment Hub is an eight-country initiative to deepen regional integration, strengthen select agricultural value chains, promote trade, and facilitate investment and technology. As director for investment, Mutooni, pictured left, oversees the Hub's due diligence, financial analysis, market intelligence, deal structuring, and fundraising support. In March, Mutooni represented the Hub in Geneva at the meeting of the United Nations Conference on Trade and Development World Economic Forum's National Planning Committee.

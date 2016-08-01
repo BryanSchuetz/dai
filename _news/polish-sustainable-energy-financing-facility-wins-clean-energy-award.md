@@ -1,13 +1,16 @@
 ---
 title: Polish Sustainable Energy Financing Facility Wins Clean Energy Award
 date: 2016-07-05 18:05:00 Z
-summary: "A DAI-led project that provides credit to hundreds of small businesses in Poland to improve energy efficiency was recently honored with the Financing Deal of the Year award at the 2016 Central and Eastern European [(CEE) Clean Energy Awards](/our-work/projects/polish-residential-energy-efficiency-financing-facility-poland-reff)."
+summary: A DAI-led project that provides credit to hundreds of small businesses in
+  Poland to improve energy efficiency was recently honored with the Financing Deal
+  of the Year award at the 2016 Central and Eastern European [(CEE) Clean Energy Awards](/our-work/projects/polish-residential-energy-efficiency-financing-facility-poland-reff).
 solutions: Economic Growth
 regions: Eastern Europe and Central Asia
 projects: Polish Sustainable Energy Financing Facility (PolSEFF I and II)
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 A DAI-led project that provides credit to hundreds of small businesses in Poland to improve energy efficiency was recently honored with the Financing Deal of the Year award at the 2016 Central and Eastern European [(CEE) Clean Energy Awards][1]. The [Polish Sustainable Energy Financing Facility (PolSEFF),][2] funded by the European Bank for Reconstruction and Development (EBRD), was named over three other finalists in the category, including DNB Bank Polska SA, Energix Renewable Energies Ltd, and the EU Connect Europe Facility. Accepting the award on behalf of PolSEFF was Anna Chmielewska, Principal Banker at the European Bank for Reconstruction and Development (pictured).
 
 ![][3]
