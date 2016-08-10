@@ -33,10 +33,10 @@
   {% assign related_pick = shuffled_related %}
 {% endif %}
   <!-- show related item -->
-  {% for related in shuffled_related limit: 1 %}
-    <h2><a href="{{ related.url }}">{{ related.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
+  {% for related in related_pick limit: 1 %}
+    <h2><a href="{{ related.permalink | default: related.url }}">{{ related.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
     {{ related.summary | markdownify }}
-  <a href="{{ related.url }}" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  <a href="{{ related.permalink | default: related.url }}" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   {% endfor %}
 </div>
 
