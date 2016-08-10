@@ -1,9 +1,23 @@
 <!-- Check for a productin environment that will allow the shuffle plugin to run -->
-{% if jekyll.environment== 'prod' %}
-  <!-- Shuffle the items in site.related -->
+{% if jekyll.environment == 'prod' %}
+  <!-- Shuffle corporate related items -->
   {% assign shuffled_related = site.related | shuffle %}
   {% else %}
     {% assign shuffled_related = site.related %}
+{% endif %}
+
+<!-- shuffle related projects -->
+{% if  jekyll.environment == 'prod' %}
+  {% assign shuffled_projects = site.projects | shuffle %}
+{% else %}
+  {% assign shuffled_projects = site.projects %}
+{% endif %}
+
+<!-- shuffle related news stories -->
+{% if  jekyll.environment == 'prod' %}
+  {% assign shuffled_news = site.news | shuffle %}
+{% else %}
+  {% assign shuffled_news = site.news %}
 {% endif %}
 
 <!-- related box markup -->
@@ -11,11 +25,18 @@
 <div id="slidebox">
   <a class="close">x</a>
   <p class="title">RELATED CONTENT:</p>
-  <!-- loop though items in the shuffled collectin of related items -->
+{% if page.collection == 'projects' %}
+  {% assign related_pick = shuffled_projects %}
+{% elsif page.collection == 'news'  %}
+  {% assign related_pick = shuffled_news %}
+{% else %}
+  {% assign related_pick = shuffled_related %}
+{% endif %}
+  <!-- show related item -->
   {% for related in shuffled_related limit: 1 %}
-    <h2><a href="{{ related.link }}">{{ related.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
-    <p>{{ related.description }}</p>
-  <a href="{{ related.link }}" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+    <h2><a href="{{ related.url }}">{{ related.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
+    {{ related.summary | markdownify }}
+  <a href="{{ related.url }}" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   {% endfor %}
 </div>
 
