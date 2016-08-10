@@ -1,14 +1,16 @@
 ---
 title: DAI Presents Gender Case Studies at European Development Days 2016
 date: 2016-06-22 18:05:00 Z
-summary: "DAI recently hosted a lab session and stand on gender equality at the 10th annual European Development Days conference in Brussels."
+summary: DAI recently hosted a lab session and stand on gender equality at the 10th
+  annual European Development Days conference in Brussels.
 solutions: Gender
-regions:
-projects:
+regions: 
+projects: 
 clients: U.K. Department for International Development
 layout: node
-featured: yes
+featured: true
 ---
+
 DAI recently hosted a lab session and stand on gender equality at the 10th annual European Development Days conference in Brussels.
 
 Organised by the European Commission, European Development Days brings development practitioners together to "share ideas and experiences in ways that inspire new partnerships and innovative solutions to the world's most pressing challenges." This year's conference was dedicated to exploring the 2030 Agenda for Sustainable Development.
