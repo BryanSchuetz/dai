@@ -43,7 +43,7 @@
       {% endif %}
       <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}">
         {{ content }}
-        {% if  page.collection == 'news' %}
+        {% if  page.collection == 'news' or page.collection == 'projects'%}
         {% include  related.html %}
         {% else %}
         {% endif %}
