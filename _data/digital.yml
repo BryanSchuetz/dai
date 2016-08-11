@@ -1,4 +1,12 @@
 
+- title: "Visualizing Hierarchical Data: USAID’s $8.5 Billion Global Health Initiative"
+  pub: "Digital"
+  date: 2016-08-08
+  link: "http://dai-global-digital.com/visualizing-hierarchical-data-the-2017-budget-request-for-usaids-global-health-initiative.html"
+  summary: "Budget data is notoriously difficult to analyze. The volume of data can be high, the long tables are unwieldy, and the structures are almost always multilayered, making it difficult to visualize. But with some of the advanced interactive visualization tools we use at DAI, we can analyze and present even complex data more clearly."
+  tags:
+    - digital
+
 - title: "WhatsApp for Development: the Launch of Appathon 2016"
   pub: "Digital"
   date: 2016-08-03
@@ -280,14 +288,6 @@ To the casual observer, Chamelecón looks like any other marginalized Central Am
   date: 2016-03-17
   link: "http://dai-global-digital.com/innovation-and-entrepreneurship-in-el-salvador.html"
   summary: "A recent visit to El Salvador to help DAI launch the new USAID Employment Training Project made it clear that El Salvador’s budding technology, innovation, and entrepreneurship community is poised and ready to help solve the country’s youth unemployment problems. Below are brief bios of five rockstars of the Salvadoran scene who I was lucky enough to meet while there. Please email us (digital@dai.com) if you would like an introduction!"
-  tags:
-    - digital
-
-- title: "Data Mining and the Human Development Index"
-  pub: "Digital"
-  date: 2016-03-09
-  link: "http://dai-global-digital.com/data-mining-and-the-human-development-index.html"
-  summary: "We love data mining at DAI and today we are going to mine a data set from the United Nations (UN). We are going to do so by first working through an illustrative four-wheeled example."
   tags:
     - digital
 

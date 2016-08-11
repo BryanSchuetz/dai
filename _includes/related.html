@@ -1,46 +1,78 @@
-<!-- Check for a productin environment that will allow the shuffle plugin to run -->
-{% if jekyll.environment == 'prod' %}
-  <!-- Shuffle corporate related items -->
-  {% assign shuffled_related = site.related | shuffle %}
+<!-- PROJECTS -->
+
+<!-- Check for the page type, and start the right loop -->
+{% if page.collection == 'projects' %}
+<!-- Grab an array of all found_item items—projects for projects, etc. -->
+  {% assign projects = site.projects %}
+<!-- Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle -->
+  {% if jekyll.environment == 'prod' %}
+    {% assign shuffled_projects = projects | shuffle %}
   {% else %}
-    {% assign shuffled_related = site.related %}
-{% endif %}
+    {% assign shuffled_projects = projects %}
+  {% endif %}
+<!-- Loop through all the items -->
+  {% for project in shuffled_projects %}
+<!-- Loop through all the solutions for each item -->
+    {% for solution in project.solutions %}
+<!-- Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items -->
+      {% if  page.solutions contains solution %}
+        {% assign found_item = project %}
+        {% assign found = 'found' %}
+        {% break %}
+      {% else %}
+      {% endif %}
+    {% endfor %}
+    {% if found == 'found' %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
 
-<!-- shuffle related projects -->
-{% if  jekyll.environment == 'prod' %}
-  {% assign shuffled_projects = site.projects | shuffle %}
-{% else %}
-  {% assign shuffled_projects = site.projects %}
-{% endif %}
+<!-- NEWS -->
 
-<!-- shuffle related news stories -->
-{% if  jekyll.environment == 'prod' %}
-  {% assign shuffled_news = site.news | shuffle %}
-{% else %}
-  {% assign shuffled_news = site.news %}
-{% endif %}
+{% elsif page.collection == 'news' %}
+  <!-- Grab an array of all found_item items—projects for projects, etc. -->
+    {% assign news = site.news %}
+  <!-- Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle -->
+    {% if jekyll.environment == 'prod' %}
+      {% assign shuffled_news = news | shuffle %}
+    {% else %}
+      {% assign shuffled_news = news %}
+    {% endif %}
+  <!-- Loop through all the items -->
+    {% for article in shuffled_news %}
+  <!-- Loop through all the solutions for each item -->
+      {% for solution in article.solutions %}
+  <!-- Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items -->
+        {% if  page.solutions contains solution %}
+          {% if page.url == article.url %}
+            {% break %}
+          {% endif %}
+          {% assign found_item = article %}
+          {% assign found = 'found' %}
+          {% break %}
+        {% else %}
+        {% endif %}
+      {% endfor %}
+      {% if found == 'found' %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
 
-<!-- related box markup -->
+{% endif %}
+<!-- found_item box markup -->
 <p id="last"></p>
 <div id="slidebox">
   <a class="close">x</a>
   <p class="title">RELATED CONTENT:</p>
-{% if page.collection == 'projects' %}
-  {% assign related_pick = shuffled_projects %}
-{% elsif page.collection == 'news'  %}
-  {% assign related_pick = shuffled_news %}
-{% else %}
-  {% assign related_pick = shuffled_related %}
-{% endif %}
-  <!-- show related item -->
-  {% for related in related_pick limit: 1 %}
-    <h2><a href="{{ related.permalink | default: related.url }}">{{ related.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
-    {{ related.summary | markdownify }}
-  <a href="{{ related.permalink | default: related.url }}" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-  {% endfor %}
+  <!-- show found_item item -->
+  {% if found_item.title %}
+    <h2><a href="{{ found_item.permalink | default: found_item.url }}">{{ found_item.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
+    {{ found_item.summary | markdownify }}
+    <a href="{{ found_item.permalink | default: found_item.url }}" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  {% endif %}
 </div>
-
-<!-- related box animation  -->
+<!-- TODO: prevent pages from linking to themeselves, and account for pages which will find no match -->
+<!-- found_item box animation  -->
 <script type="text/javascript">
   $(function() {
   	$(window).scroll(function(){
@@ -52,7 +84,6 @@
   		else
   			$('#slidebox').stop(true).animate({'right':'-45%', 'easing':'swing'},300);
   	});
-
   	$('#slidebox .close').bind('click',function(){
   		$(this).parent().remove();
   	});

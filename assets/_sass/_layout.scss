@@ -173,7 +173,7 @@ header{
   display:none !important;
 }
 .header-utility_nav{
-  background-color: $nav_black;
+  background-color: $slate;
   height: 32px;
   @include responsive(small-screens){
     height: 44px;
@@ -189,6 +189,7 @@ header{
 
 .header-site_nav{
   background-color: $nav_gray;
+  border-bottom: 1px solid $slate;
 }
 .logo{
   float: left;
@@ -412,7 +413,7 @@ aside{
     width: 40%;
     padding:10px;
     background-color: $nav_gray;
-    border-top:3px solid $nav_black;
+    border-top:3px solid $slate;
     position:fixed;
     bottom:100px;
     right:-45%;
@@ -471,7 +472,7 @@ a.close:hover{
 // 🎌 FOOTER 🎌
 
 footer{
-  background-color: $nav_black;
+  background-color: $slate;
   padding-top: 2rem;
   margin-top: 2rem;
 }
