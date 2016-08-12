@@ -189,7 +189,7 @@ header{
 
 .header-site_nav{
   background-color: $nav_gray;
-  border-bottom: 1px solid $slate;
+  border-bottom: 1px solid lighten($slate, 60%);
 }
 .logo{
   float: left;
