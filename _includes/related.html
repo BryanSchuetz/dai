@@ -1,4 +1,4 @@
-{% comment %} PROJECTS {% endcomment %}
+{% comment %} 🎌 PROJECTS 🎌 {% endcomment %}
 
 {% comment %} Check for the page type, and start the right loop {% endcomment %}
 {% if page.collection == 'projects' %}
@@ -50,6 +50,113 @@
     {% endfor %}
   {% endunless %}
 {% endif %}
+
+{% comment %} 🎌  NEWS 🎌 {% endcomment %}
+
+{% comment %} Check for the page type, and start the right loop {% endcomment %}
+{% if page.collection == 'news' %}
+{% comment %} Grab an array of all found_item items—projects for projects, etc. {% endcomment %}
+  {% assign articles = site.news %}
+{% comment %} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {% endcomment %}
+  {% if jekyll.environment == 'prod' %}
+    {% assign shuffled_articles = articles | shuffle %}
+  {% else %}
+    {% assign shuffled_articles = articles %}
+  {% endif %}
+{% comment %} Loop through all the items {% endcomment %}
+  {% for article in shuffled_articles %}
+{% comment %} Loop through all the solutions for each item {% endcomment %}
+    {% for solution in article.solutions %}
+{% comment %} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {% endcomment %}
+      {% if  page.solutions contains solution %}
+{% comment %} Prevent it from picking itself {% endcomment %}
+
+        {% if article.url == page.url %}
+          {% break %}
+        {% endif %}
+
+        {% assign found_item = article %}
+        {% assign found = 'found' %}
+        {% break %}
+      {% else %}
+
+  {% comment %} Once we have one, stop this craziness {% endcomment %}
+        {% if found == 'found' %}
+          {% break %}
+        {% endif %}
+
+      {% endif %}
+
+    {% endfor %}
+  {% endfor %}
+
+  {% unless found == 'found' %}
+{% comment %} If no matching items are found {% endcomment %}
+
+    {% if jekyll.environment == 'prod' %}
+      {% assign shuffled_related = site.related | shuffle %}
+    {% else %}
+      {% assign shuffled_related = site.related %}
+    {% endif %}
+    {% for related in shuffled_related limit: 1 %}
+      {% assign found_item = related %}
+    {% endfor %}
+  {% endunless %}
+{% endif %}
+
+{% comment %} 🎌  Experts 🎌 {% endcomment %}
+
+{% comment %} Check for the page type, and start the right loop {% endcomment %}
+{% if page.collection == 'experts' %}
+{% comment %} Grab an array of all found_item items—projects for projects, etc. {% endcomment %}
+  {% assign experts = site.experts %}
+{% comment %} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {% endcomment %}
+  {% if jekyll.environment == 'prod' %}
+    {% assign shuffled_experts = experts | shuffle %}
+  {% else %}
+    {% assign shuffled_experts = experts %}
+  {% endif %}
+{% comment %} Loop through all the items {% endcomment %}
+  {% for expert in shuffled_experts %}
+{% comment %} Loop through all the solutions for each item {% endcomment %}
+    {% for solution in expert.solutions %}
+{% comment %} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {% endcomment %}
+      {% if  page.solutions contains solution %}
+{% comment %} Prevent it from picking itself {% endcomment %}
+
+        {% if expert.url == page.url %}
+          {% break %}
+        {% endif %}
+
+        {% assign found_item = expert %}
+        {% assign found = 'found' %}
+        {% break %}
+      {% else %}
+
+  {% comment %} Once we have one, stop this craziness {% endcomment %}
+        {% if found == 'found' %}
+          {% break %}
+        {% endif %}
+
+      {% endif %}
+
+    {% endfor %}
+  {% endfor %}
+
+  {% unless found == 'found' %}
+{% comment %} If no matching items are found {% endcomment %}
+
+    {% if jekyll.environment == 'prod' %}
+      {% assign shuffled_related = site.related | shuffle %}
+    {% else %}
+      {% assign shuffled_related = site.related %}
+    {% endif %}
+    {% for related in shuffled_related limit: 1 %}
+      {% assign found_item = related %}
+    {% endfor %}
+  {% endunless %}
+{% endif %}
+
 {% comment %} found_item box markup {% endcomment %}
 <p id="last"></p>
 <div id="slidebox">

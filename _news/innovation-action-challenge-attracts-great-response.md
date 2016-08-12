@@ -6,8 +6,8 @@ summary: The response to the Innovation into Action Challenge, whose application
   entries from 296 innovators in 49 countries.
 solutions:
 - Digital
-regions: 
-projects: 
+regions:
+projects:
 clients:
 - U.S. Agency for International Development
 layout: node
@@ -24,4 +24,5 @@ As might be expected, the United States led the pack in terms of number of appli
 The _Challenge_ now moves on to the review stage, where DAI technical specialists will score the submissions to determine which applicants are invited to make in-person "pitches" before a panel of judges in Maryland in late May.
 
 At stake is a tailored package of support designed to accelerate their innovation's deployment in the field, including $20,000 in funding; matchmaking with one of DAI's projects, including a funded visit to the selected project; access to a network of innovation accelerator professionals; and coaching and technical mentoring to refine their pitch, product, or service.
-[1]: /who-we-are/our-team/doug-mclean
+
+[2]: /who-we-are/our-team/doug-mclean
