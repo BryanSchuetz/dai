@@ -6,8 +6,8 @@ summary: The response to the Innovation into Action Challenge, whose application
   entries from 296 innovators in 49 countries.
 solutions:
 - Digital
-regions:
-projects:
+regions: 
+projects: 
 clients:
 - U.S. Agency for International Development
 layout: node
