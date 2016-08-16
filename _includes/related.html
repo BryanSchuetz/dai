@@ -157,6 +157,19 @@
   {% endunless %}
 {% endif %}
 
+{% unless found == 'found' %}
+{% comment %} If no matching items are found {% endcomment %}
+
+  {% if jekyll.environment == 'prod' %}
+    {% assign shuffled_related = site.related | shuffle %}
+  {% else %}
+    {% assign shuffled_related = site.related %}
+  {% endif %}
+  {% for related in shuffled_related limit: 1 %}
+    {% assign found_item = related %}
+  {% endfor %}
+{% endunless %}
+
 {% comment %} found_item box markup {% endcomment %}
 <p id="last"></p>
 <div id="slidebox">

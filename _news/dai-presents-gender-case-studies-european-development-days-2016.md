@@ -4,8 +4,8 @@ date: 2016-06-22 18:05:00 Z
 summary: DAI recently hosted a lab session and stand on gender equality at the 10th
   annual European Development Days conference in Brussels.
 solutions: Gender
-regions: 
-projects: 
+regions:
+projects:
 clients: U.K. Department for International Development
 layout: node
 featured: true
