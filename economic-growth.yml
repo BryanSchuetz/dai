@@ -1,6 +1,6 @@
 ---
-
 ---
+
 {% for article in site.news %}{% if article.solutions contains "Economic Growth" %}
 - title: "{{ article.title }}"
   type: {{ article.collection}}
