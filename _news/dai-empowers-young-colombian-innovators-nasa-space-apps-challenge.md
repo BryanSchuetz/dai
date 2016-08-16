@@ -13,7 +13,7 @@ regions:
 - Latin America and the Caribbean
 projects:
 - USAID Central America Regional Climate Change Program (RCCP)
-clients:
+clients: 
 layout: node
 ---
 
