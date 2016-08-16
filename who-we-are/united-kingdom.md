@@ -49,37 +49,3 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
   {% unless forloop.last %}<hr>{% endunless %}
 {% endfor %}
 <a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-
-### Programme Management:
-
-{% assign contacts = site.contacts | where: 'group', 'Programme Management' | sort: 'sort-order' %}
-{% for contact in contacts limit:2 %}
-<div class="contact">
-  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-  <div class="contact-image">
-    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
-  </div>
-  <div class="contact-summary">
-    <p>{{ contact.summary }}</p>
-  </div>
-</div>
-  {% unless forloop.last %}<hr>{% endunless %}
-{% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/programme-managers" class="primary-block--button contacts-button">More Programme Management Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-
-### Business Development:
-
-{% assign contacts = site.contacts | where: 'group', 'Business Development' | sort: 'sort-order' %}
-{% for contact in contacts limit:2 %}
-<div class="contact">
-  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-  <div class="contact-image">
-    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
-  </div>
-  <div class="contact-summary">
-    <p>{{ contact.summary }}</p>
-  </div>
-</div>
-  {% unless forloop.last %}<hr>{% endunless %}
-{% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/business-development-team" class="primary-block--button contacts-button">More Business Development Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

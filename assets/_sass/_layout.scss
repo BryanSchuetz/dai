@@ -77,22 +77,8 @@ body.st-ui-overlay-active{
     @include width(12)
   }
 }
-/*.node-inner{
-  @include responsive(wide-screens){
-    @include width(8);
-    float: left;
-    margin-right: $gutter;
-  }
-  @include responsive(ultra-wide-screens){
-    @include width(10);
-    float: left;
-    margin-right: $gutter;
-  }
 
-}*/
-.container.container-node{
-  /*block to float for related content*/
-  }
+
 // 🎌 HEADER 🎌
 
 header{
@@ -409,6 +395,9 @@ aside{
   }
 }
 // 🎌 Related 🎌
+#last{
+  clear:both;
+}
 #slidebox{
     width: 40%;
     padding:10px;
@@ -467,6 +456,18 @@ a.close:hover{
 .project-login{
   .region{
     margin-left: 1rem;
+  }
+}
+.promos .node-inner{
+  @include responsive(wide-screens){
+    @include width(8);
+    float: left;
+    margin-right: $gutter;
+  }
+  @include responsive(ultra-wide-screens){
+    @include width(10);
+    float: left;
+    margin-right: $gutter;
   }
 }
 // 🎌 FOOTER 🎌
