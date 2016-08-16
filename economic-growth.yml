@@ -1,0 +1,24 @@
+---
+
+---
+{% for article in site.news %}{% if article.solutions contains "Economic Growth" %}
+- title: "{{ article.title }}"
+  type: {{ article.collection}}
+  summary: |
+    {{ article.summary}}
+  link: {{ article.url}}
+{% endif %}{% endfor %}
+{% for project in site.projects %}{% if project.solutions contains "Economic Growth" %}
+- title: "{{ project.title }}"
+  type: {{ project.collection}}
+  summary: |
+    {{ project.summary}}
+  link: {{ project.url}}
+{% endif %}{% endfor %}
+{% for expert in site.experts %}{% if expert.solutions contains "Economic Growth" %}
+- title: "{{ expert.title }}"
+  type: {{ expert.collection}}
+  summary: |
+    {{ expert.summary}}
+  link: {{ expert.url}}
+{% endif %}{% endfor %}
