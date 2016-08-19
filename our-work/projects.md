@@ -1,8 +1,5 @@
 ---
 title: Projects
-permalink: "/our-work/projects.html"
-redirect_from:
-  - /our-work/projects
 layout: node
 related: false
 ---
