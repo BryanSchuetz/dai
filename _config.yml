@@ -139,3 +139,5 @@ sass:
   sass_dir: assets/_sass
   style: compressed
 baseurl: 
+gems:
+- jekyll-redirect-from
