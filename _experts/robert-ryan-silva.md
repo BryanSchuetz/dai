@@ -21,7 +21,7 @@ summary: Robert Ryan-Silva has been with DAI since 2002, when he joined the firm
 job-title: |
   Global Practice Specialist, Governance, and Director, DAI Maker Lab
 articles:
-- name: ''
+- name: |
   DIY Development: The maker movement could make a real difference to international
     development
   article_file: http://www.theguardian.com/global-development-professionals-network/dai-partner-zone/2014/aug/21/diy-development
