@@ -1,6 +1,6 @@
 ---
 title: Solutions
-permalink: "/our-work/solutions.html"
+permalink: "/our-work/the-solutions"
 layout: node
 ---
 

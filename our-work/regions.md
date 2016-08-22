@@ -1,6 +1,6 @@
 ---
 title: Regions
-permalink: "/our-work/regions.html"
+permalink: "/our-work/the-regions"
 layout: node
 ---
 

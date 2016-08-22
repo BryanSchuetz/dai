@@ -7,6 +7,7 @@ summary: Driving trade, technology, agriculture, business, and financial service
   to create jobs, reduce poverty, and enhance food security.
 layout: solution
 type: primary
+permalink: "/our-work/solution/economic-growth"
 ---
 
 **Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**
