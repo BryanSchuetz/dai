@@ -1,6 +1,7 @@
 ---
 title: Health
 date: 2016-01-21 18:23:00.492000000 Z
+permalink: our-work/solution/health
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
 summary: Providing the technical skills, expertise, and local knowledge to deliver
@@ -8,7 +9,6 @@ summary: Providing the technical skills, expertise, and local knowledge to deliv
   threats to HIV/AIDS to waterborne diseases.
 layout: solution
 type: primary
-permalink: "our-work/solution/health"
 ---
 
 **Innovating global health solutions to save lives.**
