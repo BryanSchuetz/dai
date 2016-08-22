@@ -136,6 +136,7 @@ exclude:
 - ".DS_Store"
 - gulpfile.js
 - vendor
+- node_modules
 sass:
   sass_dir: assets/_sass
   style: compressed
