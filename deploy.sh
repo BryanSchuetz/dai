@@ -1,7 +1,7 @@
 #!/bin/bash
 set -ev && \
 cd ./build && \
-remote_repo=${GITHUB_URL:-`git config remote.origin.url`} && \
+remote_repo="https://${GITHUB_URL}@github.com/${TRAVIS_REPO_SLUG}.git" && \
 remote_branch="gh-pages" && \
 git init && \
 git config user.name "Travis CI" && \
