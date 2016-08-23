@@ -54,76 +54,76 @@ defaults:
     path: ''
     type: stories
   values:
-    regions: 
-    solutions: 
-    projects: 
-    clients: 
+    regions:
+    solutions:
+    projects:
+    clients:
 - scope:
     path: ''
     type: clients
   values:
-    abbr: 
+    abbr:
 - scope:
     path: ''
     type: projects
   values:
-    client: 
-    start-date: 
-    end-date: 
-    regions: 
-    country: 
-    solutions: 
+    client:
+    start-date:
+    end-date:
+    regions:
+    country:
+    solutions:
     layout: project
 - scope:
     path: ''
     type: news
   values:
-    solutions: 
-    projects: 
-    regions: 
-    clients: 
-    featured: 
+    solutions:
+    projects:
+    regions:
+    clients:
+    featured:
     layout: node
 - scope:
     path: ''
     type: members
   values:
     image: 400x225
-    summary: 
-    sort-order: 
+    summary:
+    sort-order:
     layout: leaders
 - scope:
     path: ''
     type: leaders
   values:
     image: 400x225
-    job-title: 
-    summary: 
-    sort-order: 
+    job-title:
+    summary:
+    sort-order:
     layout: leaders
 - scope:
     path: ''
     type: contacts
   values:
     image: 136x136
-    job-title: 
-    email: 
-    summary: 
-    group: 
+    job-title:
+    email:
+    summary:
+    group:
 - scope:
     path: ''
     type: experts
   values:
-    lastname: 
-    regions: 
-    solutions: 
+    lastname:
+    regions:
+    solutions:
     layout: expert
     image: 235x235
-    summary: 
-    job-title: 
+    summary:
+    job-title:
     articles:
-    - name: 
-      article_file: 
+    - name:
+      article_file:
 excerpt_separator: "<!--more-->"
 markdown: kramdown
 destination: "./build"
@@ -135,10 +135,7 @@ exclude:
 - vendor
 - node_modules
 - build
-- ".gulpfile.js"
-- Gemfile
-- Gemfile.lock
 sass:
   sass_dir: assets/_sass
   style: compressed
-baseurl: 
+baseurl:
