@@ -16,7 +16,7 @@ summary: Daniel started his career playing cricket for Hampshire County Cricket 
 job-title: Knowledgement Management, Monitoring and Evaluation
 articles:
 - name: A Critical Reply on the DCED Standard
-  article_file: "https://marcusjenal.wordpress.com/2013/03/28/guest-post-daniel-ticehurst-with-a-critical-reply-on-the-dced-standard/"
+  article_file: https://marcusjenal.wordpress.com/2013/03/28/guest-post-daniel-ticehurst-with-a-critical-reply-on-the-dced-standard/
 ---
 
 Daniel started his career playing cricket for Hampshire County Cricket Club, but after completing his degree in geography and development economics and volunteering in India on an irrigation project, he went on to do a master's degree and pursue a career in the field of international development. Over the next 10 years, Daniel worked on long-term monitoring and evaluation (M&E) positions in Bangladesh, Lesotho, Malawi, Uganda, South Africa, and Zimbabwe, on initiatives supported by the U.K. Department for International Development (DFID), the World Bank, The Community Development Resource Network, the U.S. Agency for International Development, the International Fund for Agricultural Development, and Danida.
