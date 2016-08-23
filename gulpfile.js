@@ -1,4 +1,4 @@
-// define all the things
+// define all the things 
 var gulp        = require('gulp');
 var bs          = require('browser-sync');
 // use this bit of middleware for connect server to clean up urls
