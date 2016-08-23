@@ -6,40 +6,40 @@
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}
-        <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": true, "setGallerySize": false }'>
-          <a class="gallery-cell" style="background: url(/uploads/mine.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"  href="http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/">
-            <div class="shader">
-              <div class="gallery-cell--text">
-                <h2>Unlocking Local Content</h2>
-                <p class="gallery-subhead">Harnessing the power of data-driven decision making</p>
-              </div>
-            </div>
-          </a>
-          <a class="gallery-cell" style="background: url(/uploads/water.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really/">
-            <div class="shader">
-                      <div class="gallery-cell--text">
-                        <h2>Clean Water for All by 2030</h2>
-                        <p class="gallery-subhead">No, Really.</p>
-                      </div>
-                  </div>
-          </a>
-          <a class="gallery-cell" style="background: url(/uploads/data.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"  href="http://dai-global-developments.com/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue/">
-            <div class="shader">
-              <div class="gallery-cell--text">
-                <h2>Big Data and DRM</h2>
-                <p class="gallery-subhead">How donors can help developing countries increase revenue</p>
-              </div>
-            </div>
-          </a>
-            <a class="gallery-cell" style="background: url(/uploads/what-if.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="/what-if">
-              <div class="shader">
-                <div class="gallery-cell--text">
-                  <h2>Turning What Ifs into What’s Next</h2>
-                  <p class="gallery-subhead">See what drives our work.</p>
-                </div>
-              </div>
-            </a>
+  <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": true, "setGallerySize": false }'>
+    <a class="gallery-cell" style="background: url(/uploads/mine.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"  href="http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/">
+      <div class="shader">
+        <div class="gallery-cell--text">
+          <h2>Unlocking Local Content</h2>
+          <p class="gallery-subhead">Harnessing the power of data-driven decision making</p>
         </div>
+      </div>
+    </a>
+    <a class="gallery-cell" style="background: url(/uploads/water.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really/">
+      <div class="shader">
+                <div class="gallery-cell--text">
+                  <h2>Clean Water for All by 2030</h2>
+                  <p class="gallery-subhead">No, Really.</p>
+                </div>
+            </div>
+    </a>
+    <a class="gallery-cell" style="background: url(/uploads/data.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"  href="http://dai-global-developments.com/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue/">
+      <div class="shader">
+        <div class="gallery-cell--text">
+          <h2>Big Data and DRM</h2>
+          <p class="gallery-subhead">How donors can help developing countries increase revenue</p>
+        </div>
+      </div>
+    </a>
+      <a class="gallery-cell" style="background: url(/uploads/what-if.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="/what-if">
+        <div class="shader">
+          <div class="gallery-cell--text">
+            <h2>Turning What Ifs into What’s Next</h2>
+            <p class="gallery-subhead">See what drives our work.</p>
+          </div>
+        </div>
+      </a>
+  </div>
       {% endif %}
       <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}">
         {{ content }}
