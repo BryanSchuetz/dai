@@ -1,8 +1,11 @@
 - text: Solutions
   link: /our-work/the-solutions
+  children: /our-work/solutions
 - text: Regions
   link: /our-work/the-regions
+  children: /our-work/regions
 - text: Projects
   link: /our-work/the-projects
+  children: /our-work/projects
 - text: Our Clients
   link: /our-work/our-clients

@@ -8,5 +8,6 @@
   link: /who-we-are/global
 - text: Our Team
   link: /who-we-are/the-team
+  children: team
 - text: Ethics & Integrity
   link: /who-we-are/ethics-integrity
