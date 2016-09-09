@@ -2,6 +2,7 @@
 title: Energy and Resources Group
 layout: node
 related: false
+promos: true
 ---
 
 DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
@@ -24,3 +25,22 @@ DAI uses empirical evidence and technical analysis to empower our clients to spe
 * Strategy design and market entry analysis
 * Program design, inception, and implementation
 * Performance monitoring, evaluation, and reporting
+
+## Featured Experts
+
+Global in outlook and approach, ERG’s staff are steeped in the challenges of delivering business solutions in the developing world.
+
+{% assign contacts = site.contacts | where: 'group', 'erg' | sort: 'sort-order' %}
+{% for contact in contacts %}
+<div class="contact">
+  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <div class="contact-image">
+    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
+  </div>
+  <div class="contact-summary">
+    <p>{{ contact.summary }}</p>
+  </div>
+</div>
+<a href="/who-we-are/our-team/{{ contact.title | slugify }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  {% unless forloop.last %}<hr>{% endunless %}
+{% endfor %}
