@@ -3,16 +3,17 @@ title: Energy and Resources Group
 layout: node
 related: false
 promos:
-  - title: "**Project**: Niger Delta Electricity Sector Assesment and Investment Strategy"
-    link: "http://dai.com/sites/default/files/erg/chevron.pdf"
-  - title: "**Project**: Local Content Demand and Supply Study for Liquefied Natural Gas"
-    link: "http://dai.com/sites/default/files/erg/wb.pdf"
-  - title: "**Project**: Corporate Social investment Program for Entrepreneurs in Ghana"
-    link: "http://dai.com/sites/default/files/erg/kosmos.pdf "
-  - title: "**Analysis**: Unlocking Content"
-    link: "http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/"
-  - title: "**Video**: Kosmos Innovation Center"
-    link: https://www.youtube.com/watch?v=A3-VyczktO8
+- title: "**Project**: Niger Delta Electricity Sector Assesment and Investment Strategy"
+  link: http://dai.com/sites/default/files/erg/chevron.pdf
+- title: "**Project**: Local Content Demand and Supply Study for Liquefied Natural
+    Gas"
+  link: http://dai.com/sites/default/files/erg/wb.pdf
+- title: "**Project**: Corporate Social investment Program for Entrepreneurs in Ghana"
+  link: 'http://dai.com/sites/default/files/erg/kosmos.pdf '
+- title: "**Analysis**: Unlocking Content"
+  link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
+- title: "**Video**: Kosmos Innovation Center"
+  link: https://www.youtube.com/watch?v=A3-VyczktO8
 ---
 
 DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
