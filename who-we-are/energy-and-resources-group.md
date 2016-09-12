@@ -2,7 +2,17 @@
 title: Energy and Resources Group
 layout: node
 related: false
-promos: true
+promos:
+  - title: "**Project**: Niger Delta Electricity Sector Assesment and Investment Strategy"
+    link: "http://dai.com/sites/default/files/erg/chevron.pdf"
+  - title: "**Project**: Local Content Demand and Supply Study for Liquefied Natural Gas"
+    link: "http://dai.com/sites/default/files/erg/wb.pdf"
+  - title: "**Project**: Corporate Social investment Program for Entrepreneurs in Ghana"
+    link: "http://dai.com/sites/default/files/erg/kosmos.pdf "
+  - title: "**Analysis**: Unlocking Content"
+    link: "http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/"
+  - title: "**Video**: Kosmos Innovation Center"
+    link: https://www.youtube.com/watch?v=A3-VyczktO8
 ---
 
 DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
@@ -17,6 +27,8 @@ The Energy and Resources Group works with companies in the oil, gas, mining, and
 * Corporate Social Investment. We design and manage impactful initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals.
 * Government and Community Engagement. We secure our clients’ social license to operate by assessing above-ground risk and establishing trusted partnerships with key stakeholders to mitigate those risks.
 
+<hr>
+
 ## Our Unique Approach
 
 DAI uses empirical evidence and technical analysis to empower our clients to spend smarter. We are a full-service provider with the flexibility to offer:
@@ -25,6 +37,8 @@ DAI uses empirical evidence and technical analysis to empower our clients to spe
 * Strategy design and market entry analysis
 * Program design, inception, and implementation
 * Performance monitoring, evaluation, and reporting
+
+<hr>
 
 ## Featured Experts
 

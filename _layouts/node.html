@@ -10,3 +10,14 @@ layout: default
   {% endif %}
   {{ content }}
 </div>
+{% if page.promos %}
+  <div class="promos-list">
+    <h4>Featured Links</h4>
+  {% for promo in page.promos %}
+    <div class="promo-item">
+          <p class="promo-item--title"><a href="{{ promo.link }}" class="promo-item--link">{{ promo.title | markdownify | remove:"<p>" | remove:"</p>" }}</a></p>
+        </a>
+    </div>
+  {% endfor %}
+  </div>
+{% endif %}

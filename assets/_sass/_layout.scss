@@ -73,9 +73,11 @@ body.st-ui-overlay-active{
   @include responsive(ultra-wide-screens){
     @include width(12);
   }
-  @include responsive(extra-ultra-wide-screens){
-    @include width(12)
-  }
+}
+.promos .container, .promos .header-inner, .promos .footer-inner{
+    @include responsive(extra-ultra-wide-screens){
+      @include width(14)
+    }
 }
 
 
@@ -469,6 +471,31 @@ a.close:hover{
     float: left;
     margin-right: $gutter;
   }
+
+}
+.promos-list{
+  float:left;
+  margin-top: 1rem;
+  @include responsive(wide-screens){
+    float: right;
+    @include width(2);
+    margin-top: .1rem;
+  }
+  @include responsive(extra-ultra-wide-screens){
+    @include width(4);
+  }
+
+}
+.promo-item{
+  p{
+    font-size: .7em;
+  }
+  strong{
+    color: $link-green;
+  }
+  a:hover strong{
+    color: #43873f;
+  }
 }
 // 🎌 FOOTER 🎌
 
@@ -624,12 +651,12 @@ tbody tr:nth-child(odd) th {
 .node-nav{
   @include clearfix;
   margin-bottom: 2.5rem;
-  background-repeat: repeat;
-  /*background-size: cover;
-  background-position: center;*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .node-nav.working-dai{
-  background-image: url(/assets/images/node/px_by_Gre3g.png);
+  background-image: url(/assets/images/node/people-header.jpg);
 }
 .node-nav.who-we-are{
   background-image: url(/assets/images/node/people-header.jpg);
@@ -638,12 +665,6 @@ tbody tr:nth-child(odd) th {
 .node-nav.our-work{
   background-image: url(/assets/images/node/map-header.jpg);
   background-position: center;
-}
-.node-nav.stories{
-  background-image: url(/assets/images/node/px_by_Gre3g.png);
-}
-.node-nav.news-publications{
-  background-image: url(/assets/images/node/px_by_Gre3g.png);
 }
 
 .node-nav--links{
@@ -827,6 +848,14 @@ iframe{
   float: left;
   @include responsive(small-screens){
     @include width(2.5);
+  }
+}
+.promos .contact-summary{
+  @include responsive(wide-screens){
+    @include width(5.5)
+  }
+  @include responsive(ultra-wide-screens){
+    @include width(7.5)
   }
 }
 .contact-summary{
