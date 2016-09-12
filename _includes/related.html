@@ -169,9 +169,8 @@
     {% assign found_item = related %}
   {% endfor %}
 {% endunless %}
-
+ 
 {% comment %} found_item box markup {% endcomment %}
-<p id="last"></p>
 <div id="slidebox">
   <a class="close">x</a>
   <p class="title">RELATED CONTENT:</p>
@@ -190,7 +189,7 @@
   $(function() {
   	$(window).scroll(function(){
 
-      var distanceTop = $('#last').offset().top - $(window).height() - 225;
+      var distanceTop = $('#last').offset().top - $(window).height() - 1;
 
   		if  ($(window).scrollTop() > distanceTop)
   			$('#slidebox').animate({'right':'0%', 'easing':'swing'},300);
