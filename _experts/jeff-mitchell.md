@@ -12,6 +12,7 @@ summary: |
   Jeff Mitchell has worked in the oil and gas industry for nearly 40 years. His extensive experience informs DAI's proprietary tool for economic analysis of local content in developing countries' extractive industries.
 job-title: Senior Oil and Gas Advisor, Energy and Resources Group
 ---
+
 Jeff Mitchell has worked in the oil and gas industry for nearly 40 years. His extensive experience informs DAI's proprietary tool for economic analysis of local content in developing countries' extractive industries. He has extensive experience in managing various multidisciplinary projects including oil and gas facilities, water and sewerage facilities, desalination plants, pipelines, office buildings, and industrial sites. His background includes overseeing facility design, construction, scheduling, and budgeting. Prior to his work in the oil and gas industry, Jeff served as a First Lieutenant in the U.S. Army Corps of Engineers in Vietnam.
 
 * M.S., civil engineering, Polytechnic Institute of New York University

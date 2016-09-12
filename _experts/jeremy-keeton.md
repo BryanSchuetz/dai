@@ -15,6 +15,7 @@ summary: |
   Jeremy specializes in biodiversity conservation and climate change, with an emphasis on environmental governance, climate change adaptation, and anti-wildlife trafficking.
 job-title: Global Practice Specialist, Natural Resources Management
 ---
+
 Jeremy specializes in biodiversity conservation and climate change, with an emphasis on environmental governance, climate change adaptation, and anti-wildlife trafficking. He has been involved in a range of activities, from business development to managing a portfolio of environmental projects in the Africa region.
 
 Jeremy's skillset includes statistical data analysis and environmental monitoring and evaluation. His geographical experience includes work throughout Eastern and Southern Africa, Asia, and the Commonwealth Caribbean, including long-term assignments in Lesotho and Guyana, where he served as a U.S. Peace Corps Volunteer.
