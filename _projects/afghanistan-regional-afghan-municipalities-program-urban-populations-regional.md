@@ -1,5 +1,6 @@
 ---
-title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional Command East (RAMP UP East)
+title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
+  Command East (RAMP UP East)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2010
@@ -14,6 +15,7 @@ layout: project
 summary: |
   Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal.
 ---
+
 Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Of the total population of urban households, only 10 percent have piped water systems; 20 percent have consistent city power, and 14 percent lack any access to electricity. Inadequate sanitation services result in high rates of infant mortality.
 
 RAMP UP East supports 14 provincial capitals. Its primary customers are municipal officials such as mayors, revenue officers, and engineers as well as the citizens who benefit from municipal services.

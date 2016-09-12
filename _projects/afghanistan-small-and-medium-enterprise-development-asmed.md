@@ -15,6 +15,7 @@ layout: project
 summary: |
   ASMED supported small and medium-sized enterprises (SMEs), the major drivers of Afghanistan's economic development. Through support for investment, technology, and business development services, ASMED improved private sector productivity by expanding SMEs and increasing employment.
 ---
+
 ASMED supported small and medium-sized enterprises (SMEs), the major drivers of Afghanistan's economic development. Through support for investment, technology, and business development services, ASMED improved private sector productivity by expanding SMEs and increasing employment. ASMED collaborated with Afghan private sector and international partners in key sectors such as agribusiness, carpets, marble, gemstones, and business services. We also facilitated public-private partnerships, grants, and practical and technical training. In its final year, ASMED concentrated on creating professional, commercial linkages among SMEs in 25 key districts.
 
 ![][1]
