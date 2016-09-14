@@ -11,8 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: Given the importance of agriculture to the Albanian economy—it provides income for nearly two-thirds of the rural population and accounts for close to a quarter of the country's gross domestic product—AAC has the potential to make a lasting contribution to sustained economic development and improved livelihoods across the country.
+summary: Given the importance of agriculture to the Albanian economy—it provides income
+  for nearly two-thirds of the rural population and accounts for close to a quarter
+  of the country's gross domestic product—AAC has the potential to make a lasting
+  contribution to sustained economic development and improved livelihoods across the
+  country.
 ---
+
 Given the importance of agriculture to the Albanian economy—it provides income for nearly two-thirds of the rural population and accounts for close to a quarter of the country's gross domestic product—AAC has the potential to make a lasting contribution to sustained economic development and improved livelihoods across the country. The program works with producers, suppliers, and processors along promising value chains to increase productivity, improve quality, and access better markets in Albania. The program's value chain approach assesses constraints to competitiveness and provides long- and short-term technical assistance, training, linkages to financing, and targeted performance grants to address these constraints. AAC has expanded the number of postharvest handling facilities and collection points in the country, and has developed export of watermelons and cabbages. The market information system developed by AAC addresses information constraints by providing daily price reports on 22 market commodities in Tirana and four regional markets. A major project focus is to transition management of the system to the Albanian Ministry of Agriculture to ensure its sustained availability.
 
 ![][1]

@@ -1,5 +1,6 @@
 ---
-title: Africa—Conflict Prevention, Mitigation, and Response Programs in East and Southern Africa (CPMR-ESA)
+title: Africa—Conflict Prevention, Mitigation, and Response Programs in East and Southern
+  Africa (CPMR-ESA)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2003
@@ -11,8 +12,11 @@ country:
 solutions:
 - Stability
 layout: project
-summary: Ethnic conflict, weak economies, health crises, and fragile governments dramatically hinder sustainable economic and political development in Africa's Horn and Great Lakes regions.
+summary: Ethnic conflict, weak economies, health crises, and fragile governments dramatically
+  hinder sustainable economic and political development in Africa's Horn and Great
+  Lakes regions.
 ---
+
 Ethnic conflict, weak economies, health crises, and fragile governments dramatically hinder sustainable economic and political development in Africa's Horn and Great Lakes regions. Although a wave of democratic transitions in Southern Africa has helped decrease the likelihood of large-scale civil war and cross-border conflict, the use or threat of violence as a political strategy continues, especially prior to elections. The region remains vulnerable due to interrelated, root causes of conflict—including health, demographic, social, environmental, economic, and political factors. CPMR-ESA supported implementation of the conflict prevention, mitigation, and response programs of the U.S. Agency for International Development (USAID)/East Africa office in Nairobi, Kenya, and the USAID/Southern Africa office in Gaborone, Botswana. The USAID/East Africa-funded Peace in East and Central Africa (PEACE) component focused primarily on addressing cross-border conflict issues affecting local and regional peace and stability in the Horn of Africa, with emphasis on border areas of the pastoralist arc that includes parts of Kenya, Uganda, Sudan, Somalia, and Ethiopia. PEACE activities included support for localized peace-building efforts through civil society and community-based organizations as well as coordination with regional organizations such as the Intergovernmental Authority on Development Conflict Early Warning and Response Mechanism. Other components of the East Africa program included support for Somalia reconciliation and a regional anticorruption program to increase transparency and reduce opportunities for corruption in the East African regional freight forwarding and clearing sector. In Southern Africa, the programmatic focus has been on preventing, managing, and mitigating potential conflict resulting from political competition.
 
 ![][1]

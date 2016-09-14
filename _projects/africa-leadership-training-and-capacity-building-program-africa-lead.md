@@ -11,8 +11,12 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: The U.S. government's Feed the Future (FTF) initiative calls not simply for host-country partnership but country leadership. Working across public and private institutions, Africa Lead is building capacity among Africa's emerging food security leaders to devise and manage their country investment plans.
+summary: The U.S. government's Feed the Future (FTF) initiative calls not simply for
+  host-country partnership but country leadership. Working across public and private
+  institutions, Africa Lead is building capacity among Africa's emerging food security
+  leaders to devise and manage their country investment plans.
 ---
+
 The U.S. government's Feed the Future (FTF) initiative calls not simply for host-country partnership but country leadership. Working across public and private institutions, Africa Lead is building capacity among Africa's emerging food security leaders to devise and manage their country investment plans. We operate across sub-Sahara Africa with hubs in Kenya and Ghana.
 
 This work is done within the framework of the New Economic Partnership for African Development's Comprehensive Africa Agriculture Development Program (CAADP), which requires countries to allocate 10 percent of their budgets to agriculture to raise productivity.

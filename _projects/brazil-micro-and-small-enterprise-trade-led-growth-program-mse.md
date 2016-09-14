@@ -14,6 +14,7 @@ layout: project
 summary: |
   Micro and small enterprises (MSEs) make important contributions to the Brazilian economy, representing 20 percent of the total gross domestic product nationwide. However, although the MSE sector accounts for a large part of Brazilian businesses, it contributes a minimal percentage to Brazil's exports (only 3 percent).
 ---
+
 Micro and small enterprises (MSEs) make important contributions to the Brazilian economy, representing 20 percent of the total gross domestic product nationwide. However, although the MSE sector accounts for a large part of Brazilian businesses, it contributes a minimal percentage to Brazil's exports (only 3 percent). The U.S. Agency for International Development (USAID) Brazil Micro and Small Enterprise Trade-Led Growth Program was a pilot project, aimed at enhancing job and income creation through trade-led growth of MSEs. The program focused on eight interventions: development of four clusters (acai fruit in Para, cashew nuts in Cear, honey in Piau, and swimwear in Bahia) and four enabling environment initiatives (monitoring and evaluation, trade finance enhancement, regulatory improvement, and a communication strategy to disseminate the results and lessons learned). For each cluster, DAI staff conducted a sector competitiveness evaluation and implemented a trade-led strategy, leveraging existing cooperatives and associations of small producers to improve competitiveness in a sustainable manner.
 
 ![][1]
