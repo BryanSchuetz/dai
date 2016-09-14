@@ -1,0 +1,35 @@
+---
+title: Azerbaijan—Parliamentary Program in Azerbaijan (PPA)
+date: 2016-01-21 22:40:52.765000000 Z
+client: U.S. Agency for International Development
+start-date: 2007
+end-date: 2010
+regions:
+- Eastern Europe and Central Asia
+country:
+- Azerbaijan
+solutions:
+- Governance
+layout: project
+summary: |
+  Azerbaijan faces serious challenges to its democratic development. Democratic institutions are new and evolving from a historical legacy of highly centralized authority, and Azerbaijan ranks near the bottom of several international measures of corruption.
+---
+Azerbaijan faces serious challenges to its democratic development. Democratic institutions are new and evolving from a historical legacy of highly centralized authority, and Azerbaijan ranks near the bottom of several international measures of corruption. A strengthened parliament is critical to maintaining a healthy system of checks and balances and, thus, supporting successful social and economic development. The parliament must first, however, solidify its own sense of identity, with clearly understood roles and responsibilities, professional services, and a vastly stronger relationship between the deputies and the constituents they should serve. The PPA assisted the Parliament of Azerbaijan, called the Milli Majlis, in improving its government oversight and representation functions, with an emphasis on internal institutional reform and training of new constituency-based staff. We helped establish new norms of behavior that improved institutional professionalism and responsiveness to citizens. European Union standards and legislative compliance mechanisms were utilized in the design and capacity-building activities.
+
+![][1]
+
+###  Sample Activities
+
+* Review internal processes, including human resources and research functions.
+* Provide training for members of parliament and parliamentary staff.
+* Assist in the establishment of constituency offices.
+* Help establish transparency mechanisms in the legislature.
+* Enhance the capacity of the parliament to effectively address civil society concerns.
+
+###  Select Results
+
+* To help members of parliament engage the public in the legislative process, the program and local Social Services Initiative introduced public hearing procedures to citizens and nongovernmental organizations; procedures that are fostering communication between members and citizens and improving public service.
+* PPA published and distributed to the Milli Majlis the manuals developed by the program to assist parliamentary staff and members of parliament in conducting constructive parliamentary committee hearings with full public engagement.
+* Working through the Parliamentary Journalists Association, PPA completed focus groups for new members of parliament, as well as nongovernmental organizations and parliamentary journalists.
+
+[1]: /assets/images/projects/APPA.jpg
