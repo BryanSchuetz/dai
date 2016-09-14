@@ -15,6 +15,7 @@ layout: project
 summary: |
   Eurobank EFG Bulgaria AD (EFGB) is the fifth-largest bank in Bulgaria, operating 272 network locations and employing 2,649 staff. In 2008, the European Bank for Reconstruction and Development selected EFGB to receive a credit line of €25 million under its lending window facility for on-lending to Bulgarian small and medium enterprises (SME).
 ---
+
 Eurobank EFG Bulgaria AD (EFGB) is the fifth-largest bank in Bulgaria, operating 272 network locations and employing 2,649 staff. In 2008, the European Bank for Reconstruction and Development selected EFGB to receive a credit line of €25 million under its lending window facility for on-lending to Bulgarian small and medium enterprises (SME). DAI was contracted to provide EFG with technical assistance on its lending to Bulgarian SMEs by training EFG's loan officers and small business banking staff, assist on the development of new products, setting up a marketing strategy and design a staff incentive scheme. DAI adopted a hands-on, flexible approach that met the needs of Eurobank EFGB while adhering to the principles of the European Union program.
 
 ###  Sample Activities

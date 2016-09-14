@@ -16,6 +16,7 @@ layout: project
 summary: |
   Notwithstanding growth of more than 8 percent in gross domestic product from 2014 to 2015, as well as increased foreign investment, Burma remains one of the poorest countries in Asia.
 ---
+
 Notwithstanding growth of more than 8 percent in gross domestic product from 2014 to 2015, as well as increased foreign investment, Burma remains one of the poorest countries in Asia. The domestic private sector has experienced little residual benefit from outside investment, widespread underemployment remains an issue, and the majority of gains from growth are still concentrated among a few long-established business entities.
 
 However, small and medium-sized enterprises (SMEs), including household businesses, account for more than 90 percent of all enterprises in the country. Many of these operate on an informal basis, particularly those run by women. And many thousands of potential Burmese entrepreneurs are prevented from seizing business opportunities by the lack of capital for investment and by an uncertain business environment.
