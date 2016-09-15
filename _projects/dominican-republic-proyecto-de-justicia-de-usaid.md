@@ -11,9 +11,13 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  The adoption of a new criminal procedures code in the Dominican Republic is bringing about institutional and organizational transformation needed to modernize the country's judicial sector.
+summary: 'The adoption of a new criminal procedures code in the Dominican Republic
+  is bringing about institutional and organizational transformation needed to modernize
+  the country''s judicial sector.
+
+'
 ---
+
 The adoption of a new criminal procedures code in the Dominican Republic is bringing about institutional and organizational transformation needed to modernize the country's judicial sector. Through Proyecto de Justicia de USAID, DAI helped the Dominican Republic's justice institutions implement the new code by providing assistance in policy making, administration, and operations management. We collaborated with participatory working committees to develop and then advocate for technical and training approaches, used data-based management to ensure that process improvements are measured quantitatively, coordinated with other programs to strengthen civil society participation, and communicated the activities of the project throughout the justice system.
 
 ![][1]

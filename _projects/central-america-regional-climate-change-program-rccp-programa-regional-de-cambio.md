@@ -1,5 +1,6 @@
 ---
-title: Central America—Regional Climate Change Program (RCCP) (Programa Regional de Cambio Climatico—PRCC)
+title: Central America—Regional Climate Change Program (RCCP) (Programa Regional de
+  Cambio Climatico—PRCC)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2013
@@ -12,9 +13,13 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 layout: project
-summary: |
-  This regional initiative is identifying solutions and action plans to permit the countries and territories of Central America and the Dominican Republic to respond to the effects of climate change.
+summary: 'This regional initiative is identifying solutions and action plans to permit
+  the countries and territories of Central America and the Dominican Republic to respond
+  to the effects of climate change.
+
+'
 ---
+
 This regional initiative is identifying solutions and action plans to permit the countries and territories of Central America and the Dominican Republic to respond to the effects of climate change. The program is implemented by five organizations: Centro Agronómico Tropical de Investigación y Enseñanza (CATIE), International Union for Conservation of Nature, CARE, Terra Global Capital LLC, and DAI—and implements activities related to both mitigation and adaptation.
 
 As a subcontractor to CATIE, DAI has three main deliverables: a regional clearinghouse (Climate Services Portal) based on user-centered design requirements; a Global Development Alliance related to the sustainability of the Climate Services Portal; and decision-support tools related to climate change adaptation, biodiversity, and water.

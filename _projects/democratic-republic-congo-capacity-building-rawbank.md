@@ -11,9 +11,15 @@ country:
 solutions:
 - Financial Services
 layout: project
-summary: |
-  Complementing other International Finance Corporation interventions to improve the enabling environment for private sector growth and investment, the capacity building delivered to Rawbank in the Democratic Republic of Congo falls under the Africa MSME Finance Program, which seeks to significantly increase support to African micro, small, and medium enterprises (MSME).
+summary: 'Complementing other International Finance Corporation interventions to improve
+  the enabling environment for private sector growth and investment, the capacity
+  building delivered to Rawbank in the Democratic Republic of Congo falls under the
+  Africa MSME Finance Program, which seeks to significantly increase support to African
+  micro, small, and medium enterprises (MSME).
+
+'
 ---
+
 Complementing other International Finance Corporation interventions to improve the enabling environment for private sector growth and investment, the capacity building delivered to Rawbank in the Democratic Republic of Congo falls under the Africa MSME Finance Program, which seeks to significantly increase support to African micro, small, and medium enterprises (MSME).The institution building involved designing new MSME products and services and strengthening the overall management and risk management practices of the bank.
 
 ###  Sample Activities

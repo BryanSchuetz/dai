@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  The SALTO project was the central implementing mechanism for the U.S. Agency for International Development (USAID) Ecuador's Economic Growth and Poverty Reduction Strategy.
+summary: 'The SALTO project was the central implementing mechanism for the U.S. Agency
+  for International Development (USAID) Ecuador''s Economic Growth and Poverty Reduction
+  Strategy.
+
+'
 ---
+
 The SALTO project was the central implementing mechanism for the U.S. Agency for International Development (USAID) Ecuador's Economic Growth and Poverty Reduction Strategy. SALTO activities were designed to achieve multiple objectives under two components: development of the microfinance industry in Ecuador, and critical macroeconomic and structural reforms. A later initiative, the Competitiveness Pilot Program, provided cost-shared assistance to selected private sector clusters to help solve technical, marketing, or financing bottlenecks and build competitiveness in foreign or domestic markets. The principal clusters were the Cuenca-based leather industry and ecotourism development on Isabela Island, Galapagos. Another project supported exports by the Ecuadorian Food and Beverage Manufacturers Association to a U.S. market. Finally, SALTO implemented a pilot initiative with Banco del Pichincha and Banco de Guayaquil to adapt microcredit techniques to their small and medium-sized enterprise clients.
 
 ![][1]

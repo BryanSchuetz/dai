@@ -13,9 +13,14 @@ country:
 solutions:
 - Public Financial Management
 layout: project
-summary: |
-  The Royal Government of Cambodia has successfully designed and implemented a comprehensive four-stage public financial reform plan supported by 10 development partners, including the European Commission, the U.K. Department for International Development, and AusAID.
+summary: 'The Royal Government of Cambodia has successfully designed and implemented
+  a comprehensive four-stage public financial reform plan supported by 10 development
+  partners, including the European Commission, the U.K. Department for International
+  Development, and AusAID.
+
+'
 ---
+
 The Royal Government of Cambodia has successfully designed and implemented a comprehensive four-stage public financial reform plan supported by 10 development partners, including the European Commission, the U.K. Department for International Development, and AusAID. Through this assignment, DAI provided the Chief Technical Advisor, ensuring cohesion between the different partners and initiatives under the program. The advisor was an expert on the platform approach to public financial management and was a key contributor to the DFID-published [report][1], "A Platform Approach to Improving Public Financial Management."
 
 ###  Sample Activities

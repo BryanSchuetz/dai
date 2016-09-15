@@ -11,9 +11,14 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  Many inhabitants of the ecological corridors and watersheds of western El Salvador employ farming and other practices that contribute to environmental degradation—trends that threaten the sustainability of critical ecosystems, degrade water supplies and quality, and bind farmers to environmentally destructive subsistence farming.
+summary: 'Many inhabitants of the ecological corridors and watersheds of western El
+  Salvador employ farming and other practices that contribute to environmental degradation—trends
+  that threaten the sustainability of critical ecosystems, degrade water supplies
+  and quality, and bind farmers to environmentally destructive subsistence farming.
+
+'
 ---
+
 Many inhabitants of the ecological corridors and watersheds of western El Salvador employ farming and other practices that contribute to environmental degradation—trends that threaten the sustainability of critical ecosystems, degrade water supplies and quality, and bind farmers to environmentally destructive subsistence farming. At the same time, growing markets for certified specialty coffees, high-quality fruits and vegetables, and ecotourism offer opportunities to generate income and improve environmental quality. To improve the economic situation in rural areas, the Government of El Salvador's development strategy focuses on enlisting local support for improved natural resources and generating better economic opportunities through higher-value agriculture and sustainable tourism, linked to improved management of El Salvador's water, land, and biological resources.
 
 ![][1]

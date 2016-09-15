@@ -11,9 +11,13 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  Since its independence in 1960, the Democratic Republic of the Congo (DRC) has struggled to devise institutions that can provide effective governance for its vast and diverse land mass and for its diverse and long-suffering people.
+summary: 'Since its independence in 1960, the Democratic Republic of the Congo (DRC)
+  has struggled to devise institutions that can provide effective governance for its
+  vast and diverse land mass and for its diverse and long-suffering people.
+
+'
 ---
+
 Since its independence in 1960, the Democratic Republic of the Congo (DRC) has struggled to devise institutions that can provide effective governance for its vast and diverse land mass and for its diverse and long-suffering people. The Programme de Bonne Gouvernance (PBG), or Good Governance Program, works to improve the management capacity and accountability of select legislatures and local governments by working closely with civil society and community-based organizations, parliamentary institutions at the central and provincial levels, and public institutions with a stake and role in decentralization.
 
 ![][1]

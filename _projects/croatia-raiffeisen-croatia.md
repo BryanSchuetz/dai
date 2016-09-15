@@ -12,9 +12,15 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  The overall objective of the European Union/European Bank for Reconstruction and Development SME Finance Facility for EU Accession countries was to deepen the credit markets for small and medium enterprises by building the confidence and capacity of participating banks in SME lending, and by providing credit to SMEs through participating banks.
+summary: 'The overall objective of the European Union/European Bank for Reconstruction
+  and Development SME Finance Facility for EU Accession countries was to deepen the
+  credit markets for small and medium enterprises by building the confidence and capacity
+  of participating banks in SME lending, and by providing credit to SMEs through participating
+  banks.
+
+'
 ---
+
 The overall objective of the European Union/European Bank for Reconstruction and Development SME Finance Facility for EU Accession countries was to deepen the credit markets for small and medium enterprises by building the confidence and capacity of participating banks in SME lending, and by providing credit to SMEs through participating banks. Raiffeisenbank Croatia (RBA) participated in the Facility with a €10 million credit line for on-lending to qualifying SMEs.
 
 ###  Select Results
