@@ -11,9 +11,16 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  One of the 10 most water-deprived countries in the world, Jordan is making every effort to cooperate with neighboring countries that control or share much of the available water resources. But, as Jordan aspires to raise the quality and standard of living of its citizens, it must expand the commercial, industrial, and tourism sectors, thereby putting additional stress on the country's already stretched water resources.
+summary: 'One of the 10 most water-deprived countries in the world, Jordan is making
+  every effort to cooperate with neighboring countries that control or share much
+  of the available water resources. But, as Jordan aspires to raise the quality and
+  standard of living of its citizens, it must expand the commercial, industrial, and
+  tourism sectors, thereby putting additional stress on the country''s already stretched
+  water resources.
+
+'
 ---
+
 One of the 10 most water-deprived countries in the world, Jordan is making every effort to cooperate with neighboring countries that control or share much of the available water resources. But, as Jordan aspires to raise the quality and standard of living of its citizens, it must expand the commercial, industrial, and tourism sectors, thereby putting additional stress on the country's already stretched water resources. The most viable short-term options are to manage its water demand to more effectively use the current water supply, and embrace water-use efficiency throughout the country.
 
 <iframe allowfullscreen="" frameborder="0" height="510" mozallowfullscreen="" src="http://player.vimeo.com/video/39851961?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>

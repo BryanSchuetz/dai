@@ -1,5 +1,6 @@
 ---
-title: Iraq—Support to Iraq’s Federal Board of Supreme Audit’s Strategic Development Plan
+title: Iraq—Support to Iraq’s Federal Board of Supreme Audit’s Strategic Development
+  Plan
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Department of State
 start-date: 2012
@@ -11,9 +12,14 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  As Iraq's primary audit institution, the Federal Board of Supreme Audit (FBSA) plays an integral role in ensuring the accountability of public funds, government institutions, and public servants. The board's strategic plan provides a road map for institutional strengthening to help the FBSA fulfill this mandate.
+summary: 'As Iraq''s primary audit institution, the Federal Board of Supreme Audit
+  (FBSA) plays an integral role in ensuring the accountability of public funds, government
+  institutions, and public servants. The board''s strategic plan provides a road map
+  for institutional strengthening to help the FBSA fulfill this mandate.
+
+'
 ---
+
 As Iraq's primary audit institution, the Federal Board of Supreme Audit (FBSA) plays an integral role in ensuring the accountability of public funds, government institutions, and public servants. The board's strategic plan provides a road map for institutional strengthening to help the FBSA fulfill this mandate.
 
 DAI manages this two-year grant, which is being implemented by a team of expert advisors in financial and performance audit, petroleum accounting, fraud detection and prevention, and institutional relationship strengthening.
