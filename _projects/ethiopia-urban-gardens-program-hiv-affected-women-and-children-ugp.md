@@ -17,9 +17,7 @@ summary: 'With a population vulnerable to HIV/AIDS and poverty, Ethiopia needs i
   ways to enable its people to lead healthier, more productive lives. Lack of access
   to food for HIV-vulnerable populations is especially acute in cities, where land
   and water are scarce and food options are limited, and where food is expensive due
-  to high transport costs and inefficient agriculture markets.
-
-'
+  to high transport costs and inefficient agriculture markets.'
 ---
 
 With a population vulnerable to HIV/AIDS and poverty, Ethiopia needs innovative ways to enable its people to lead healthier, more productive lives. Lack of access to food for HIV-vulnerable populations is especially acute in cities, where land and water are scarce and food options are limited, and where food is expensive due to high transport costs and inefficient agriculture markets. As part of an effort to provide healthier, more empowered lifestyles for people with HIV/AIDS and their families, we were tasked with increasing access to fresh, nutritious food, while giving vulnerable Ethiopians an increasing number of ways to earn a living. The U.S. Agency for International Development-funded UGP follows up on the successes of a previous program, Urban Agriculture Program for HIV-Affected Women (UAPHAW), which DAI led 2004–2008.
