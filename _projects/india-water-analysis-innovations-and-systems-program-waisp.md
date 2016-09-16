@@ -11,9 +11,16 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  Food, health, and the environment are inextricably linked to the supply of water. In India, a country of 1.2 billion people, the water supply is being squeezed by the growing population and climate change. Despite overexploitation of groundwater, deteriorating water quality, and weak water governance, there is cause for optimism as the public and business sectors now acknowledge these threats to India's economic growth and public health.
+summary: 'Food, health, and the environment are inextricably linked to the supply
+  of water. In India, a country of 1.2 billion people, the water supply is being squeezed
+  by the growing population and climate change. Despite overexploitation of groundwater,
+  deteriorating water quality, and weak water governance, there is cause for optimism
+  as the public and business sectors now acknowledge these threats to India''s economic
+  growth and public health.
+
+'
 ---
+
 Food, health, and the environment are inextricably linked to the supply of water. In India, a country of 1.2 billion people, the water supply is being squeezed by the growing population and climate change. Despite overexploitation of groundwater, deteriorating water quality, and weak water governance, there is cause for optimism as the public and business sectors now acknowledge these threats to India's economic growth and public health.
 
 Given the competing water demands between agriculture, domestic use, and industry, the industrial sector could be the worst hit, with a direct impact on economic growth and jobs. Improved municipal and industrial water-use efficiency and water reuse will decrease freshwater demand, slow groundwater withdrawals, and reduce pollution. We were contracted by the U.S. Agency for International Development to analyze its comparative advantage for delivering innovative solutions to India's water challenges.

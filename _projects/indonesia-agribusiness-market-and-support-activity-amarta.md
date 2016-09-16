@@ -11,9 +11,14 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Indonesian agribusiness is changing for the better, pursuing new supply chain models (such as hypermarkets), products, and business structures. Yet Indonesian agribusiness must become even more dynamic to keep pace with the rapid transformation of agribusiness globally.
+summary: 'Indonesian agribusiness is changing for the better, pursuing new supply
+  chain models (such as hypermarkets), products, and business structures. Yet Indonesian
+  agribusiness must become even more dynamic to keep pace with the rapid transformation
+  of agribusiness globally.
+
+'
 ---
+
 Indonesian agribusiness is changing for the better, pursuing new supply chain models (such as hypermarkets), products, and business structures. Yet Indonesian agribusiness must become even more dynamic to keep pace with the rapid transformation of agribusiness globally. At issue is not merely the ability of Indonesian products to compete in export markets, but the ability of Indonesian agribusinesses to hold their own against foreign competition in the domestic market. AMARTA focused on improving productivity and quality, the keys to upgrading agribusiness value chains in Indonesia. High productivity and quality are essential in each link of the value chain, beginning with production: without high-quality primary food and fiber products at the start, no amount of downstream effort and expense will create a high-quality end product. To stimulate productivity throughout a value chain, the DAI team sought out "demanding customers"—forward-looking retailers, suppliers, and other intermediaries willing to pay a premium for quality—and transmitted price signals to every firm and farm in the value chain as an incentive to upgrade production and improve quality.
 
 ![][1]

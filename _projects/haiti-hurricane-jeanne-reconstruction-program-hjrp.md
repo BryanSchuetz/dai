@@ -11,9 +11,13 @@ country:
 solutions:
 - Stability
 layout: project
-summary: |
-  The floods that ravaged Haiti in the aftermath of Hurricane Jeanne in September 2004 had their origins in the upper watersheds of major river systems that empty at Gonaives and Port de Paix.
+summary: 'The floods that ravaged Haiti in the aftermath of Hurricane Jeanne in September
+  2004 had their origins in the upper watersheds of major river systems that empty
+  at Gonaives and Port de Paix.
+
+'
 ---
+
 The floods that ravaged Haiti in the aftermath of Hurricane Jeanne in September 2004 had their origins in the upper watersheds of major river systems that empty at Gonaives and Port de Paix. The effects of intensive rainfall in these watersheds were aggravated by the degraded condition of their surrounding hillsides. In addition to killing thousands, the flood water draining off the hillsides damaged thousands of hectares of irrigated lands and put the livelihoods of thousands of households in jeopardy.
 
 ![][1]

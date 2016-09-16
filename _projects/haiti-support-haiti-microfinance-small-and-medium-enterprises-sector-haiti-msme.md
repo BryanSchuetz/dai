@@ -1,5 +1,6 @@
 ---
-title: Haiti—Support to Haiti’s Microfinance, Small and Medium Enterprises Sector (Haiti MSME)
+title: Haiti—Support to Haiti’s Microfinance, Small and Medium Enterprises Sector
+  (Haiti MSME)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2006
@@ -11,9 +12,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Haiti MSME was launched by the U.S. Agency for International Development (USAID) to improve livelihoods and create employment through broader access to financial services.
+summary: 'Haiti MSME was launched by the U.S. Agency for International Development
+  (USAID) to improve livelihoods and create employment through broader access to financial
+  services.
+
+'
 ---
+
 Haiti MSME was launched by the U.S. Agency for International Development (USAID) to improve livelihoods and create employment through broader access to financial services. MSME leveraged prior USAID project successes to reach a target population that includes both potential generators of income and livelihoods (such as rural and agricultural micro, small, and medium enterprises and market-oriented enterprises) and poor and vulnerable populations (for example, out-of-school youth, HIV/AIDS-affected people, women, and rural communities). DAI spurred the development of innovative financial services for the target population through its intermediaries, including microfinance and other financial institutions and financial service associations. The goal was to enable the target population to access financial services that would help them weather economic shocks, respond to market opportunities, and invest in business growth.
 
 ![][1]

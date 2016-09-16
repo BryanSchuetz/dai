@@ -11,9 +11,14 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  In Indonesia, 100 million people lack access to clean water, and many households in densely populated areas are not served by existing piped water. This project developed an innovative "ridge to reef" approach that leveraged the inextricable connection between health and the environment.
+summary: 'In Indonesia, 100 million people lack access to clean water, and many households
+  in densely populated areas are not served by existing piped water. This project
+  developed an innovative "ridge to reef" approach that leveraged the inextricable
+  connection between health and the environment.
+
+'
 ---
+
 In Indonesia, 100 million people lack access to clean water, and many households in densely populated areas are not served by existing piped water. This project developed an innovative "ridge to reef" approach that leveraged the inextricable connection between health and the environment. It expanded access to clean water by protecting upland raw water sources while working with water providers and users in the lowlands to increase access to water and sanitation services.
 
 ![][1]

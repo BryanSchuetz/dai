@@ -13,8 +13,12 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: DAI supported Basis Bank in the implementation of a comprehensive institution building programme. The objective of the programme was to strengthen the bank to allow it to compete effectively in Georgia and the region and thereby contribute to increased competition and a more balanced distribution of financial power.
+summary: DAI supported Basis Bank in the implementation of a comprehensive institution
+  building programme. The objective of the programme was to strengthen the bank to
+  allow it to compete effectively in Georgia and the region and thereby contribute
+  to increased competition and a more balanced distribution of financial power.
 ---
+
 DAI supported Basis Bank in the implementation of a comprehensive institution building programme. The objective of the programme was to strengthen the bank to allow it to compete effectively in Georgia and the region and thereby contribute to increased competition and a more balanced distribution of financial power. The programme spans a large area of the bank's activities, from corporate governance and strategic review to risk management and internal systems, with extensive work being done on the streamlining of corporate and retail lending.
 
 ###  Sample Activities

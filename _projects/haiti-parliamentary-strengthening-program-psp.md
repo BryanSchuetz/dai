@@ -11,9 +11,14 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  Given the Government of Haiti's commitment to democratic reform and broad-based economic recovery, it is imperative that its elected officials be provided with technical and logistical support that allows them to fulfill their act as effective legislators and policymakers.
+summary: 'Given the Government of Haiti''s commitment to democratic reform and broad-based
+  economic recovery, it is imperative that its elected officials be provided with
+  technical and logistical support that allows them to fulfill their act as effective
+  legislators and policymakers.
+
+'
 ---
+
 Given the Government of Haiti's commitment to democratic reform and broad-based economic recovery, it is imperative that its elected officials be provided with technical and logistical support that allows them to fulfill their act as effective legislators and policymakers. Moreover, supporting the legislature is critical to improving its legitimacy and providing the political space and stability needed to undertake difficult tasks, including long-term legislative planning and constitutional reform. The U.S. Agency for International Development (USAID)-funded PSP program is helping to develop Haiti's parliamentary institutional capacity, promote transparency in legislative processes, and facilitate representation through the provision of technical assistance, training, staffing, and material. Program activities will focus on representation, lawmaking, oversight and accountability, and management and infrastructure.
 
 ![][1]

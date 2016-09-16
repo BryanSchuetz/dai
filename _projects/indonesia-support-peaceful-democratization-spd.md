@@ -11,9 +11,14 @@ country:
 solutions:
 - Stability
 layout: project
-summary: |
-  Indonesia has experienced tremendous political, economic, and social change since the end of authoritarian rule in 1998. The country now enjoys one of Asia's most pluralist and critical media, and has held internationally accepted general elections.
+summary: 'Indonesia has experienced tremendous political, economic, and social change
+  since the end of authoritarian rule in 1998. The country now enjoys one of Asia''s
+  most pluralist and critical media, and has held internationally accepted general
+  elections.
+
+'
 ---
+
 Indonesia has experienced tremendous political, economic, and social change since the end of authoritarian rule in 1998. The country now enjoys one of Asia's most pluralist and critical media, and has held internationally accepted general elections. The transition from authoritarianism to democracy was not free of serious complications and setbacks, however. One of the most disturbing effects of the breakdown of repressive state control was the eruption of communal and separatist violence in certain areas of the archipelago. Bottled-up and nurtured by decades of authoritarian rule, tensions between religious, ethnic, and other social groups came to the surface after 1998. SPD aimed to address violent conflicts between groups with incompatible interests regarding the distribution of resources, control of power and participation in political decision making, identity, status, or values. SPD support was rapid and flexible, addressing urgent needs and overarching causes of conflict, and  encouraging the involvement of women throughout the project cycle.
 
 ![][1]

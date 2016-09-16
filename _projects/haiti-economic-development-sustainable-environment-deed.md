@@ -11,9 +11,14 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  Environmental degradation in Haiti is the worst in the Western Hemisphere—a cause and result of the country's economic decline. DEED focused on promoting environmentally sustainable development in two of the country's watersheds through commercial agriculture, alternative livelihood development, and natural resource management.
+summary: 'Environmental degradation in Haiti is the worst in the Western Hemisphere—a
+  cause and result of the country''s economic decline. DEED focused on promoting environmentally
+  sustainable development in two of the country''s watersheds through commercial agriculture,
+  alternative livelihood development, and natural resource management.
+
+'
 ---
+
 Environmental degradation in Haiti is the worst in the Western Hemisphere—a cause and result of the country's economic decline. DEED focused on promoting environmentally sustainable development in two of the country's watersheds through commercial agriculture, alternative livelihood development, and natural resource management. The project aimed to find alternative approaches to erosive agriculture practiced on the steeply sloped land in the upper areas of the watersheds, and to protect biodiversity. Both efforts ultimately raised local incomes and helped the fragile environment.
 
 ![][1]

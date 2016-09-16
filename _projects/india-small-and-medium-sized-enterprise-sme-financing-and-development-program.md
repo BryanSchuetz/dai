@@ -13,9 +13,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  India's small and medium-sized enterprises (SMEs) stand behind the country's economic growth and employment generation and make a significant contribution to poverty alleviation.
+summary: 'India''s small and medium-sized enterprises (SMEs) stand behind the country''s
+  economic growth and employment generation and make a significant contribution to
+  poverty alleviation.
+
+'
 ---
+
 India's small and medium-sized enterprises (SMEs) stand behind the country's economic growth and employment generation and make a significant contribution to poverty alleviation. The sector, however, suffers from limited access to finance and business development services, with the state-run system of business services covering only about 1 percent of all SMEs. In line with the Indian government's strategy to strengthen economic growth and employment by developing the SME sector, DAI facilitated linkages between SMEs and business development and finance service providers.
 
 ![][1]

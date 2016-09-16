@@ -11,9 +11,14 @@ country:
 solutions:
 - Health
 layout: project
-summary: |
-  Indonesia accounts for the most confirmed human H5N1 avian influenza (AI) cases and deaths in the world. At the epicenter of the AI outbreak since soon after its reported emergence in poultry in early 2004, Indonesia understands its need to expand its surveillance and response capabilities.
+summary: 'Indonesia accounts for the most confirmed human H5N1 avian influenza (AI)
+  cases and deaths in the world. At the epicenter of the AI outbreak since soon after
+  its reported emergence in poultry in early 2004, Indonesia understands its need
+  to expand its surveillance and response capabilities.
+
+'
 ---
+
 Indonesia accounts for the most confirmed human H5N1 avian influenza (AI) cases and deaths in the world. At the epicenter of the AI outbreak since soon after its reported emergence in poultry in early 2004, Indonesia understands its need to expand its surveillance and response capabilities. Since its inception in August 2006, CBAIC worked with the Government of Indonesia and local partners to do just that. CBAIC expanded community-level capacity in animal and human surveillance and response to 27,000 villages across the western half of the country with the goal of reducing the risk of AI transmission to animals and humans, and ultimately, reduce the risk of pandemic influenza developing from deadly bird flu.
 
 ![][1]

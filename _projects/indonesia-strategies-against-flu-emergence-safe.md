@@ -12,9 +12,13 @@ solutions:
 - Governance
 - Health
 layout: project
-summary: |
-  In recent years, the U.S. Agency for International Development (USAID) and DAI have helped Indonesia—the country that has suffered the most human deaths from H5N1 avian influenza—make great strides in reducing its vulnerability to the virus.
+summary: 'In recent years, the U.S. Agency for International Development (USAID) and
+  DAI have helped Indonesia—the country that has suffered the most human deaths from
+  H5N1 avian influenza—make great strides in reducing its vulnerability to the virus.
+
+'
 ---
+
 In recent years, the U.S. Agency for International Development (USAID) and DAI have helped Indonesia—the country that has suffered the most human deaths from H5N1 avian influenza—make great strides in reducing its vulnerability to the virus. The SAFE project was created by USAID/Indonesia's Avian and Pandemic Influenza Program to further reduce the risk and potential impact of the virus on animals and humans. We operate in high-risk districts of Western and Central Java and Greater Jakarta, in close collaboration with government, the private sector, nongovernmental organizations, service providers, community groups, and other stakeholders.
 
 ![][1]

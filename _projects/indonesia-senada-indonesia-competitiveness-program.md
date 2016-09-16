@@ -11,9 +11,14 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  SENADA, a four-year project financed by the U.S. Agency for International Development (USAID), generated growth, jobs, and income by increasing the competitiveness of Indonesia's labor-intensive manufacturing industries, including footwear, furniture, garments, auto parts, and information and communications technology.
+summary: 'SENADA, a four-year project financed by the U.S. Agency for International
+  Development (USAID), generated growth, jobs, and income by increasing the competitiveness
+  of Indonesia''s labor-intensive manufacturing industries, including footwear, furniture,
+  garments, auto parts, and information and communications technology.
+
+'
 ---
+
 SENADA, a four-year project financed by the U.S. Agency for International Development (USAID), generated growth, jobs, and income by increasing the competitiveness of Indonesia's labor-intensive manufacturing industries, including footwear, furniture, garments, auto parts, and information and communications technology. Having a thorough understanding of the actors and dynamics throughout a value chain—from input suppliers to final retail customers—is critical to bringing about growth and change. SENADA's industry value chain approach focused on enterprises while incorporating the institutions and services integral to selected industries. National, provincial, and local governments; universities; financial, business service, and technology providers; and other supporting institutions worked side-by-side with SENADA and Indonesian enterprises to improve productivity.
 
 ![][1]

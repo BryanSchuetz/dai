@@ -11,9 +11,14 @@ country:
 solutions:
 - Financial Services
 layout: project
-summary: |
-  Deutsche Leasing Hungary signed a €10 million facility with the European Bank for Reconstruction and Development (EBRD) in 2006 to develop its business of leasing to small and medium-sized enterprises  (SME) in Hungary as a part of the EU/EBRD SME Finance Facility for EU Accession Countries.
+summary: 'Deutsche Leasing Hungary signed a €10 million facility with the European
+  Bank for Reconstruction and Development (EBRD) in 2006 to develop its business of
+  leasing to small and medium-sized enterprises  (SME) in Hungary as a part of the
+  EU/EBRD SME Finance Facility for EU Accession Countries.
+
+'
 ---
+
 Deutsche Leasing Hungary signed a €10 million facility with the European Bank for Reconstruction and Development (EBRD) in 2006 to develop its business of leasing to small and medium-sized enterprises  (SME) in Hungary as a part of the EU/EBRD SME Finance Facility for EU Accession Countries. The Deutsche Leasing Group is owned by 410 German savings banks that form the Sparkassen Group. It has been operating since 1962 and has been Germany's leading leasing company since that time. DAI was contracted by EBRD to assist Deutsche Leasing Hungary, certain aspects of which were also applied to Deutsche Leasing's operations in Czech Republic and Poland, to expand its leasing operations for the SME segment.
 
 ###  Sample Activities

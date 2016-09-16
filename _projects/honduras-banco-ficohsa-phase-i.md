@@ -11,9 +11,14 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Building on its recent entry and growth in mortgage and micro, small, and medium-sized enterprise (MSME) lending, Banco Ficohsa—Honduras' largest locally owned commercial bank—assessed its experience and the Honduran market to identify opportunities for profitable growth.
+summary: 'Building on its recent entry and growth in mortgage and micro, small, and
+  medium-sized enterprise (MSME) lending, Banco Ficohsa—Honduras'' largest locally
+  owned commercial bank—assessed its experience and the Honduran market to identify
+  opportunities for profitable growth.
+
+'
 ---
+
 Building on its recent entry and growth in mortgage and micro, small, and medium-sized enterprise (MSME) lending, Banco Ficohsa—Honduras' largest locally owned commercial bank—assessed its experience and the Honduran market to identify opportunities for profitable growth. Working with the bank, DAI studied the segmentation of the enterprise and residential mortgage markets, and assessed Banco Ficohsa's capacity to better serve these segments. Our advisers designed a plan to improve Banco Ficohsa's strategic focus; product offerings; marketing and sales strategies; policy guides, manuals, and procedures; staffing, organizational structure, and skills; cost management; and support systems. This project is part of the International Finance Corporation (IFC) Latin America and Caribbean MSME Finance Technical Assistance Facility. The IFC, a member of the World Bank Group, promotes sustainable economic growth in developing countries by financing private sector investment, mobilizing private capital in local and international financial markets, and providing advisory and risk mitigation services to business and governments.
 
 ###  Sample Activities

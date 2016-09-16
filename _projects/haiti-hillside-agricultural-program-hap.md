@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  A shortage of land drives many farmers to till on Haiti's hillsides. But to be sustainable, hillside farming requires suitable crops and special techniques. DAI staff worked with hillside farmers to build this understanding.
+summary: 'A shortage of land drives many farmers to till on Haiti''s hillsides. But
+  to be sustainable, hillside farming requires suitable crops and special techniques.
+  DAI staff worked with hillside farmers to build this understanding.
+
+'
 ---
+
 A shortage of land drives many farmers to till on Haiti's hillsides. But to be sustainable, hillside farming requires suitable crops and special techniques. DAI staff worked with hillside farmers to build this understanding. HAP's market-based approach treated the hillside farm as a business, enhancing productivity through improvements in resource management, agricultural production, post-harvest technologies, and marketing systems. Target crops included mango, coffee, and cacao, along with several field crops intended for local and ethnic export markets.
 
 ![][1]
