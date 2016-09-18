@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  DAI assisted LBDI in expanding its business, particularly to the micro, small, and medium-sized enterprise (MSME) segment. The banking sector in Liberia is extremely small, comprising only a handful of operational banks.
+summary: 'DAI assisted LBDI in expanding its business, particularly to the micro,
+  small, and medium-sized enterprise (MSME) segment. The banking sector in Liberia
+  is extremely small, comprising only a handful of operational banks.
+
+'
 ---
+
 DAI assisted LBDI in expanding its business, particularly to the micro, small, and medium-sized enterprise (MSME) segment. The banking sector in Liberia is extremely small, comprising only a handful of operational banks. Ecobank and LBDI dominate the sector, but LBDI has the highest capacity to respond to many of the financial markets, including corporate, real estate, domestic savings mobilization, and remittances (such as Western Union money transfers). LBDI was in need of stronger credit risk management procedures to ensure that its expansion plan was sustainable in the long run, particularly as it broadened its lending portfolio to include the riskier MSME segment.
 
 ###  Sample Activities

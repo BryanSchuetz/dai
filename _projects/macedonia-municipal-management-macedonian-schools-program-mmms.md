@@ -11,9 +11,15 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  The Republic of Macedonia has made decentralization and the promotion of democratic local governance a principal part of its commitment to restore, revitalize, and expand democratic practices. The goal of MMMS was to provide technical assistance and training to local governments to improve their ability to undertake their new responsibilities in school management.
+summary: 'The Republic of Macedonia has made decentralization and the promotion of
+  democratic local governance a principal part of its commitment to restore, revitalize,
+  and expand democratic practices. The goal of MMMS was to provide technical assistance
+  and training to local governments to improve their ability to undertake their new
+  responsibilities in school management.
+
+'
 ---
+
 The Republic of Macedonia has made decentralization and the promotion of democratic local governance a principal part of its commitment to restore, revitalize, and expand democratic practices. The goal of MMMS was to provide technical assistance and training to local governments to improve their ability to undertake their new responsibilities in school management. ![][1]
 
 ###  Sample Activities

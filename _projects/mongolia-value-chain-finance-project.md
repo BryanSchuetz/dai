@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  We are devising a strategy to expand and improve financial services in Mongolia that would facilitate the strengthening of select value chains, including in mining, agriculture, construction, and manufacturing.
+summary: 'We are devising a strategy to expand and improve financial services in Mongolia
+  that would facilitate the strengthening of select value chains, including in mining,
+  agriculture, construction, and manufacturing.
+
+'
 ---
+
 We are devising a strategy to expand and improve financial services in Mongolia that would facilitate the strengthening of select value chains, including in mining, agriculture, construction, and manufacturing.
 
 The objective is to identify the key value chains and their main inefficiencies and vulnerabilities and propose forms of value chain financing that mitigate such weaknesses. A key aim of the feasibility study is to enable investors and stakeholders to ascertain investment opportunities in value chain finance.

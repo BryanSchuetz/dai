@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Environment and Energy
 layout: project
-summary: |
-  Under the LWPP, DAI supported the Ministry of Energy and Water and the Water Establishments in Lebanon, guiding Lebanese ministry and water establishments' officials through the complicated process of identifying and implementing sustainable financing and privatization techniques.
+summary: 'Under the LWPP, DAI supported the Ministry of Energy and Water and the Water
+  Establishments in Lebanon, guiding Lebanese ministry and water establishments''
+  officials through the complicated process of identifying and implementing sustainable
+  financing and privatization techniques.
+
+'
 ---
+
 Under the LWPP, DAI supported the Ministry of Energy and Water and the Water Establishments in Lebanon, guiding Lebanese ministry and water establishments' officials through the complicated process of identifying and implementing sustainable financing and privatization techniques. DAI's team exposed key stakeholders to a range of privatization approaches, working with them to identify those most appropriate for Lebanon through seminars, study tours, and working groups.
 
 ![][1]

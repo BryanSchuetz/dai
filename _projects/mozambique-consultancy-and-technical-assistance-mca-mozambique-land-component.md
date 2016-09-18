@@ -1,5 +1,6 @@
 ---
-title: Mozambique—Consultancy and Technical Assistance to the MCA (Mozambique) Land Component
+title: Mozambique—Consultancy and Technical Assistance to the MCA (Mozambique) Land
+  Component
 date: 2016-01-21 22:40:52.765000000 Z
 client: Millennium Challenge Account
 start-date: 2009
@@ -13,9 +14,14 @@ solutions:
 - Environment and Energy
 - Land Tenure and Property Rights
 layout: project
-summary: |
-  Land administration in Mozambique has been seriously under-resourced, and needed new, modern systems in place to be able to deal with the increasing demands being placed upon it. The principal aim of this support programme to four provinces was to improve the efficiency of the land rights management and registration system.
+summary: 'Land administration in Mozambique has been seriously under-resourced, and
+  needed new, modern systems in place to be able to deal with the increasing demands
+  being placed upon it. The principal aim of this support programme to four provinces
+  was to improve the efficiency of the land rights management and registration system.
+
+'
 ---
+
 Land administration in Mozambique has been seriously under-resourced, and needed new, modern systems in place to be able to deal with the increasing demands being placed upon it. The principal aim of this support programme to four provinces was to improve the efficiency of the land rights management and registration system. Analysis and assessment of existing systems within the context of ongoing policy discussions at central level were undertaken. This provided a basis for developing a plan to improve this system and provide better access to land-related services for all land users.
 
 ![][1]

@@ -11,9 +11,13 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  BIZTAR supported the Government of Moldova's efforts to encourage productive investment by improving the business environment and lowering the overall burden of state regulation on private enterprise.
+summary: 'BIZTAR supported the Government of Moldova''s efforts to encourage productive
+  investment by improving the business environment and lowering the overall burden
+  of state regulation on private enterprise.
+
+'
 ---
+
 BIZTAR supported the Government of Moldova's efforts to encourage productive investment by improving the business environment and lowering the overall burden of state regulation on private enterprise. The project focused on streamlining business-state interaction through regulatory reform and promoting more efficient administrative procedures to ensure that reporting requirements for tax and other business purposes are kept to the minimum needed for effective government operations. Over the four-year lifespan of the project, three of Moldova's World Bank _Doing Business_ indicators saw significant improvement: Starting a Business, Ending a Business, and Paying Taxes. The Paying Taxes indicator moved from 119th in the world (2008) to 81st (2012). By 2012, Moldova was among the top 10 reformers in the world, jumping from 99th to 81st place and ranking as the second most-improved country in the world. BIZTAR has been recognized as one of the key contributors to the country's strong performance in the _Doing Business_ report.
 
 ![][1]

@@ -11,9 +11,14 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  Our goals for this project in water-constrained Morocco were simple: reduce poverty, create jobs, and upgrade the workforce. Cutting across the project's three main components were gender and youth considerations—an effort to mainstream citizens marginalized despite Morocco's economic growth.
+summary: 'Our goals for this project in water-constrained Morocco were simple: reduce
+  poverty, create jobs, and upgrade the workforce. Cutting across the project''s three
+  main components were gender and youth considerations—an effort to mainstream citizens
+  marginalized despite Morocco''s economic growth.
+
+'
 ---
+
 Our goals for this project in water-constrained Morocco were simple: reduce poverty, create jobs, and upgrade the workforce. Cutting across the project's three main components were gender and youth considerations—an effort to mainstream citizens marginalized despite Morocco's economic growth. Our approach reflected a 21st century definition of competitiveness, and incorporated economic, environmental, and social concerns. Prior to MEC, from 2005 to 2009 DAI implemented the U.S. Agency for International Development-funded project Improving the Business Climate in Morocco, which helped the country make headway in standardizing procedures for entrepreneurs, businesses, and the legal community. Our uncovering of service gaps prompted follow-up in areas such as registering businesses, property title transfer, and dispute resolution. We devised appropriate solutions, including simplifying construction procedures for architects and builders, standardizing business entry and tax registration, and implementing software that improved the review of applications by investors. The project also helped organize the country's solar technology sector, work that carries on under the MEC project.
 
 ![][1]

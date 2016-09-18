@@ -11,9 +11,14 @@ country:
 solutions:
 - Stability
 layout: project
-summary: |
-  After the second civil war in Liberia ended, DAI was active in the country on behalf of the U.S. Agency for International Development (USAID), supporting social reconciliation, community infrastructure reconstruction, economic development, and democratic governance and civil society strengthening.
+summary: 'After the second civil war in Liberia ended, DAI was active in the country
+  on behalf of the U.S. Agency for International Development (USAID), supporting social
+  reconciliation, community infrastructure reconstruction, economic development, and
+  democratic governance and civil society strengthening.
+
+'
 ---
+
 After the second civil war in Liberia ended, DAI was active in the country on behalf of the U.S. Agency for International Development (USAID), supporting social reconciliation, community infrastructure reconstruction, economic development, and democratic governance and civil society strengthening. Building on this presence, DAI was awarded USAID's Liberia Community Infrastructure Project II, which targeted vulnerable youths by combining literacy and numeracy training, enterprise development and agribusiness assistance, and key infrastructure projects that fostered economic growth for the nation.
 
 ![][1]

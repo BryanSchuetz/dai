@@ -11,9 +11,14 @@ country:
 solutions:
 - Stability
 layout: project
-summary: |
-  Adopted in the wake of flawed national elections and resulting interethnic violence in 2007, Kenya's February 2008 peace accord and power-sharing agreement afford Kenyans the political framework around which they can begin to rebuild their country.
+summary: 'Adopted in the wake of flawed national elections and resulting interethnic
+  violence in 2007, Kenya''s February 2008 peace accord and power-sharing agreement
+  afford Kenyans the political framework around which they can begin to rebuild their
+  country.
+
+'
 ---
+
 Adopted in the wake of flawed national elections and resulting interethnic violence in 2007, Kenya's February 2008 peace accord and power-sharing agreement afford Kenyans the political framework around which they can begin to rebuild their country. The U.S. Agency for International Development (USAID)'s Office of Transition Initiatives (OTI) is working to help Kenya restore its position as an anchor of stability in the Greater Horn of Africa region. Through assistance in reducing tensions and by enabling economic, political, and social recovery, the Kenya Transition Initiative Program (KTI) is helping to renew the nation's confidence and capacity in addressing instability, political marginalization, and violence.
 
 ![][1]

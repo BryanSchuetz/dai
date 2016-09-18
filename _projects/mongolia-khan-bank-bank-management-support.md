@@ -1,5 +1,5 @@
 ---
-title: "Mongolia—Khan Bank: Bank Management Support"
+title: 'Mongolia—Khan Bank: Bank Management Support'
 date: 2016-01-21 22:40:52.765000000 Z
 client:
 - U.S. Agency for International Development
@@ -13,9 +13,15 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  In 1999, the state-owned Agricultural Bank of Mongolia, or AgBank (now known as Khan Bank), was in receivership and staring at outright failure. The consequences for Mongolia's people and economic development would have been severe, because [AgBank][1] was the only bank offering significant coverage of the country's rural hinterland and reaching the bulk of its population.
+summary: 'In 1999, the state-owned Agricultural Bank of Mongolia, or AgBank (now known
+  as Khan Bank), was in receivership and staring at outright failure. The consequences
+  for Mongolia''s people and economic development would have been severe, because
+  [AgBank][1] was the only bank offering significant coverage of the country''s rural
+  hinterland and reaching the bulk of its population.
+
+'
 ---
+
 In 1999, the state-owned Agricultural Bank of Mongolia, or AgBank (now known as Khan Bank), was in receivership and staring at outright failure. The consequences for Mongolia's people and economic development would have been severe, because [AgBank][1] was the only bank offering significant coverage of the country's rural hinterland and reaching the bulk of its population. At World Bank's prompting, the government of Mongolia agreed to attempt to revive the institution, and the U.S. Agency for International Development (USAID) agreed to fund an outside management contract. In 2000, Mongolia's government hired DAI to restore financial soundness to the bank, bring financial services to the rural population, and prepare the bank for privatization. The turnaround was successful on all fronts. With 500 branches across all of Mongolia and 4,000 employees, Khan Bank is now the nation's largest bank, serving 80 percent of Mongolian households. The institution was successfully privatized in 2003—with DAI retained in a management capacity—and is perennially named the best bank in Mongolia by leading international finance publications. Most importantly, the bank has opened hundreds of new branches, reaches 98 percent of rural communities, and has massively expanded deposit, loan, and other service offerings to clients, including pensioners, nomadic herders, and small enterprises—all in a profitable and sustainable manner. For the price of a two-year, $2.5 million management contract, USAID turned a worthless bank into a $125 million enterprise that has become fundamental to Mongolia's economic and social infrastructure.
 
 ![][2]

@@ -13,9 +13,14 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Many people in Mexico are too poor or geographically isolated to use traditional banks for services such as saving and borrowing. We are working with an alliance of regulated financial institutions to expand access to basic financial services to the poor.
+summary: 'Many people in Mexico are too poor or geographically isolated to use traditional
+  banks for services such as saving and borrowing. We are working with an alliance
+  of regulated financial institutions to expand access to basic financial services
+  to the poor.
+
+'
 ---
+
 Many people in Mexico are too poor or geographically isolated to use traditional banks for services such as saving and borrowing. We are working with an alliance of regulated financial institutions to expand access to basic financial services to the poor. This includes applying new approaches to branchless banking. Together with our alliance partners, our goal is to add 175,000 savings clients to the formal financial sector in Mexico while responding to conditions of local markets and the changing context of personal and small business finance. PATMIR, a results-based project, continues our record of building the capacity of financial institutions and developing new products and services and delivery channels in Mexico and the region.
 
 ![][1]

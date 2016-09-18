@@ -17,9 +17,13 @@ solutions:
 - Digital
 - Innovation and Entrepreneurship
 layout: project
-summary: |
-  The Tec-In project works to identify and develop innovations in the use of information and communications technology (ICT) to expand access to financial services throughout Latin America and the Caribbean.
+summary: 'The Tec-In project works to identify and develop innovations in the use
+  of information and communications technology (ICT) to expand access to financial
+  services throughout Latin America and the Caribbean.
+
+'
 ---
+
 The [Tec-In][1] project works to identify and develop innovations in the use of information and communications technology (ICT) to expand access to financial services throughout Latin America and the Caribbean.
 
 In 2010, DAI was hired to work with a selection committee to choose the top 19 of 420 submissions from around Latin America and the Caribbean for further analysis. DAI worked with the program's donors to filter for the top ideas, which DAI then supported in developing project strategies and business planning for financing. Projects were chosen from Colombia, Ecuador, Mexico, Paraguay, Peru, and Venezuela.

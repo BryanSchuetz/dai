@@ -11,9 +11,15 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  As the Mexican economy has grown and evolved, issues such as regulation, credit information services, and development of microfinance skills have become increasingly important—particularly since microentrepreneurs and households have been hard hit by the inherent volatility in agricultural production and the economic crisis of the mid-1990s.
+summary: 'As the Mexican economy has grown and evolved, issues such as regulation,
+  credit information services, and development of microfinance skills have become
+  increasingly important—particularly since microentrepreneurs and households have
+  been hard hit by the inherent volatility in agricultural production and the economic
+  crisis of the mid-1990s.
+
+'
 ---
+
 As the Mexican economy has grown and evolved, issues such as regulation, credit information services, and development of microfinance skills have become increasingly important—particularly since microentrepreneurs and households have been hard hit by the inherent volatility in agricultural production and the economic crisis of the mid-1990s. The AFIRMA project built an inclusive, sustainable microfinance sector in Mexico as a means to increase access to a range of financial services and thereby spur local economic development.
 
 ![][1]

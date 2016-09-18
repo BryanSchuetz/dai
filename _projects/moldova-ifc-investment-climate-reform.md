@@ -12,9 +12,13 @@ solutions:
 - Business Environment Reform
 - Economic Growth
 layout: project
-summary: |
-  DAI completed the International Finance Corporation (IFC)'s Investment Climate Reform program in support of Moldova's strategy to prepare its economy to capitalize on the country's association agreement with the EU.
+summary: 'DAI completed the International Finance Corporation (IFC)''s Investment
+  Climate Reform program in support of Moldova''s strategy to prepare its economy
+  to capitalize on the country''s association agreement with the EU.
+
+'
 ---
+
 DAI completed the International Finance Corporation (IFC)'s Investment Climate Reform program in support of Moldova's strategy to prepare its economy to capitalize on the country's association agreement with the EU.
 
 It was recognised that government policies and private sector initiatives would need to focus on raising the competitiveness of promising value chains to fully compete in EU markets. The quest for quick gains drove policy reforms aimed at creating a framework of smart regulation that supported productivity and competitiveness.

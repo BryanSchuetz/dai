@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  DAI was contracted by the European Bank for Reconstruction and Development to help Investbanka substantially increase its small and medium-sized enterprise (SME) lending activities.
+summary: 'DAI was contracted by the European Bank for Reconstruction and Development
+  to help Investbanka substantially increase its small and medium-sized enterprise
+  (SME) lending activities.
+
+'
 ---
+
 DAI was contracted by the European Bank for Reconstruction and Development to help Investbanka substantially increase its small and medium-sized enterprise (SME) lending activities.
 
 ###  Sample Activities

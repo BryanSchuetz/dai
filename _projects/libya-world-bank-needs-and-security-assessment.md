@@ -12,9 +12,13 @@ solutions:
 - Governance
 - Stability
 layout: project
-summary: |
-  The goal of this assessment is to update World Bank understanding in Libya, increase the specificity of its knowledge about critical institutions and themes, and broaden the base of Libyan sources for future use by the bank.
+summary: 'The goal of this assessment is to update World Bank understanding in Libya,
+  increase the specificity of its knowledge about critical institutions and themes,
+  and broaden the base of Libyan sources for future use by the bank.
+
+'
 ---
+
 The goal of this assessment is to update World Bank understanding in Libya, increase the specificity of its knowledge about critical institutions and themes, and broaden the base of Libyan sources for future use by the bank. There are significant knowledge gaps in the international understanding of the challenges and risks in Libya, and we aim to fill these gaps from a perspective sensitive to the Libyan context.
 
 ###  Sample Activities

@@ -15,9 +15,14 @@ solutions:
 - Legislative Strengthening
 - Voice and Accountability
 layout: project
-summary: |
-  Liberian President Ellen Johnson Sirleaf has launched an ambitious reform agenda to support government decentralization. The Government of Liberia has committed to moving forward with deconcentration in the near term, setting the stage for full devolution in the long-term.
+summary: 'Liberian President Ellen Johnson Sirleaf has launched an ambitious reform
+  agenda to support government decentralization. The Government of Liberia has committed
+  to moving forward with deconcentration in the near term, setting the stage for full
+  devolution in the long-term.
+
+'
 ---
+
 Liberian President Ellen Johnson Sirleaf has launched an ambitious reform agenda to support government decentralization. The Government of Liberia has committed to moving forward with deconcentration in the near term, setting the stage for full devolution in the long-term. Greater decentralization will promote the country's continued development and allow the Liberian people to be "active partners in the delivery of services and in the governance of their communities and counties." The Local Empowerment for Government Inclusion and Transparency (LEGIT) program, funded by the U.S. Agency for International Development (USAID), will help solidify this process by facilitating the transfer of authority from the national government to counties and cities, enhancing citizen participation in governance, and building capacity for government officials. LEGIT activities will complement the USAID [Liberia Accountability and Voice Initiative][1] (LAVI), further enhancing citizen engagement and government accountability throughout the country.
 
 ![][2]

@@ -12,9 +12,13 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  The Mozambique Access to Finance Programme (MAFiP) facilitates financial inclusion for all through a range of quality financial services to more than 2 million poor Mozambicans and 650 businesses, particularly in rural areas.
+summary: 'The Mozambique Access to Finance Programme (MAFiP) facilitates financial
+  inclusion for all through a range of quality financial services to more than 2 million
+  poor Mozambicans and 650 businesses, particularly in rural areas.
+
+'
 ---
+
 The Mozambique Access to Finance Programme (MAFiP) facilitates financial inclusion for all through a range of quality financial services to more than 2 million poor Mozambicans and 650 businesses, particularly in rural areas. The project also helps drive finance for stability by promoting the development and implementation of strong financial sector regulation, supervision, and infrastructure to promote and maintain Mozambique's favorable economic and social conditions domestically and internationally.
 
 ###  Sample Activities
