@@ -1,15 +1,19 @@
 ---
 title: DAI and Partner IMC Honoured for Outstanding Relationship with Subcontractors
 date: 2016-09-12 18:05:00 Z
-summary: |
-  DAI Europe Ltd. and joint venture partner IMC Worldwide recently won top honour from the U.K. Department for International Development (DFID) for supplier excellence in the category of "Fair Treatment of Subcontractors."
-solutions:
-regions:
-projects:
+summary: 'DAI Europe Ltd. and joint venture partner IMC Worldwide recently won top
+  honour from the U.K. Department for International Development (DFID) for supplier
+  excellence in the category of "Fair Treatment of Subcontractors."
+
+'
+solutions: 
+regions: 
+projects: 
 clients: U.K. Department for International Development
 layout: node
-featured: yes
+featured: true
 ---
+
 DAI Europe Ltd. and joint venture partner IMC Worldwide recently won top honour from the U.K. Department for International Development (DFID) for supplier excellence in the category of "Fair Treatment of Subcontractors."
 
 <!--more-->

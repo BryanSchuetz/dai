@@ -1,15 +1,23 @@
 ---
 title: A Trio of Innovators Get Closer to Market
 date: 2016-02-24 18:05:00 Z
-summary: |
-  DAI has developed considerable expertise in the disciplines required to source and nurture good ideas and support the entrepreneurs and innovators who come up with them so they can bring their innovations to market. We are currently drawing on this body of experience in the [Innovation into Action Challenge][1], for example, a contest that awards prizes, field visits, and tailored mentoring and partnering opportunities for initiatives with the potential to make a difference in developing and transitioning nations.
+summary: 'DAI has developed considerable expertise in the disciplines required to
+  source and nurture good ideas and support the entrepreneurs and innovators who come
+  up with them so they can bring their innovations to market. We are currently drawing
+  on this body of experience in the [Innovation into Action Challenge][1], for example,
+  a contest that awards prizes, field visits, and tailored mentoring and partnering
+  opportunities for initiatives with the potential to make a difference in developing
+  and transitioning nations.
+
+'
 solutions:
 - Digital
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI has developed considerable expertise in the disciplines required to source and nurture good ideas and support the entrepreneurs and innovators who come up with them so they can bring their innovations to market. We are currently drawing on this body of experience in the [Innovation into Action Challenge][1], for example, a contest that awards prizes, field visits, and tailored mentoring and partnering opportunities for initiatives with the potential to make a difference in developing and transitioning nations.
 
 In that spirit, three examples of entrepreneurial thinking fostered by DAI-led projects have recently won acclaim: a gas cylinder safety and tracking device in Jordan; therapeutic sensory spaces for children with developmental disorders in the West Bank and Gaza; and a mobile application for tracking complaints registered with governments in Cambodia.

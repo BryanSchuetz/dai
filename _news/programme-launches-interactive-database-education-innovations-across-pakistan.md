@@ -1,17 +1,24 @@
 ---
-title: Programme Launches Interactive Database of Education Innovations from Across Pakistan
-date: 2015-09-8 18:05:00 Z
-summary: |
-  The U.K. Department of International Development (DFID)-funded Ilm Ideas—Pakistan Education Fund recently launched an interactive database of innovations designed to increase access for Pakistani children to quality education. Developed and implemented by Pakistani organizations and entrepreneurs, the edinnovators.com virtual platform connects these innovators with Pakistan's wider education ecosystem.
+title: Programme Launches Interactive Database of Education Innovations from Across
+  Pakistan
+date: 2015-09-08 18:05:00 Z
+summary: 'The U.K. Department of International Development (DFID)-funded Ilm Ideas—Pakistan
+  Education Fund recently launched an interactive database of innovations designed
+  to increase access for Pakistani children to quality education. Developed and implemented
+  by Pakistani organizations and entrepreneurs, the edinnovators.com virtual platform
+  connects these innovators with Pakistan''s wider education ecosystem.
+
+'
 solutions:
 - Financial Services
 - Governance
 - Innovation and Entrepreneurship
 regions: Asia and the Pacific
 projects: Pakistan—Education Voice and Accountability Fund
-clients:
+clients: 
 layout: node
 ---
+
 The U.K. Department of International Development (DFID)-funded [Ilm Ideas—Pakistan Education Fund][1] recently launched an interactive database of innovations designed to increase access for Pakistani children to quality education. Developed and implemented by Pakistani organizations and entrepreneurs, the [edinnovators.com][2] virtual platform connects these innovators with Pakistan's wider education ecosystem.
 
 "This platform will bridge the gap between investors and education innovators," said Ilm Ideas Team Leader Zehra Zaidi. "We encourage donors, government, and social investors to take advantage of this resource and support the work of local education players."

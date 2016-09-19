@@ -1,17 +1,22 @@
 ---
-title: Online Platform Launched to Connect East African Farmers to Markets, Improve Incomes and Food Availability
+title: Online Platform Launched to Connect East African Farmers to Markets, Improve
+  Incomes and Food Availability
 date: 2015-08-04 18:05:00 Z
-summary: |
-  The Eastern Africa Grain Council (EAGC) has launched an online trading platform that enables smallholder farmers to track their produce to warehouses and buyers via their mobile phones as well as interact directly with traders and bankers.
+summary: 'The Eastern Africa Grain Council (EAGC) has launched an online trading platform
+  that enables smallholder farmers to track their produce to warehouses and buyers
+  via their mobile phones as well as interact directly with traders and bankers.
+
+'
 solutions:
 - Digital
 - Economic Growth
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The Eastern Africa Grain Council (EAGC) has launched an online trading platform that enables smallholder farmers to track their produce to warehouses and buyers via their mobile phones as well as interact directly with traders and bankers.
 
 The G-Soko Market Platform, operating in Kenya, Uganda, and Tanzania, addresses a key cause of food shortages: the inefficient exchange of food across the region and lack of access to markets by farmers.

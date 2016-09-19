@@ -1,16 +1,20 @@
 ---
 title: DAI Helps Meet Urgent Need for Shelter in Hard-Hit Nepalese Village
 date: 2015-05-21 18:05:00 Z
-summary: |
-  DAI has contributed £2,000 to support pressing reconstruction needs in Nepal following the earthquakes and aftershocks that devastated the country in late April and early May.
+summary: 'DAI has contributed £2,000 to support pressing reconstruction needs in Nepal
+  following the earthquakes and aftershocks that devastated the country in late April
+  and early May.
+
+'
 solutions:
 - Stability
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI has contributed £2,000 to support pressing reconstruction needs in Nepal following the earthquakes and aftershocks that devastated the country in late April and early May.
 
 The funds will be directed specifically to Danda Gaun Village of Panchakhal Municipality in Kavrepalachowk (Kavre) District, some 65 kilometers from Kathmandu. In Danda Gaun, all 61 houses have been destroyed.

@@ -1,15 +1,20 @@
 ---
 title: DAI Named One of Six YouthPower IDIQ Holders
 date: 2015-06-27 18:05:00 Z
-summary: |
-  DAI was recently selected as one of six holders of the U.S. Agency for International Development (USAID)'s YouthPower Implementation Indefinite Delivery Indefinite Quantity Contract (IDIQ). YouthPower is USAID's platform for implementing and scaling up positive youth development programs globally.
+summary: 'DAI was recently selected as one of six holders of the U.S. Agency for International
+  Development (USAID)''s YouthPower Implementation Indefinite Delivery Indefinite
+  Quantity Contract (IDIQ). YouthPower is USAID''s platform for implementing and scaling
+  up positive youth development programs globally.
+
+'
 solutions:
 - Governance
-regions:
-projects:
+regions: 
+projects: 
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 DAI was recently selected as one of six holders of the U.S. Agency for International Development (USAID)'s YouthPower Implementation Indefinite Delivery Indefinite Quantity Contract (IDIQ). YouthPower is USAID's platform for implementing and scaling up positive youth development programs globally.
 
 Designed to bring USAID's [Youth in Development Policy][1] to life—emphasizing youth engagement and cross-sector collaboration, while approaching youth holistically in the context of their families, communities, and countries—YouthPower will tackle diverse design and implementation issues, with a lens on young people as decision makers and problem solvers.

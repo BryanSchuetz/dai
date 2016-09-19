@@ -1,16 +1,21 @@
 ---
-title: Palestinian Businesses, Diaspora Sign Agreement to Promote Economic Growth, Trade
+title: Palestinian Businesses, Diaspora Sign Agreement to Promote Economic Growth,
+  Trade
 date: 2015-03-16 18:05:00 Z
-summary: |
-  The Palestinian Business Forum-Britain recently signed a Memorandum of Understanding with the Palestinian Market Development Programme (PMDP) to encourage the participation of the diaspora in the growth of Palestine's economy.
+summary: 'The Palestinian Business Forum-Britain recently signed a Memorandum of Understanding
+  with the Palestinian Market Development Programme (PMDP) to encourage the participation
+  of the diaspora in the growth of Palestine''s economy.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The Palestinian Business Forum-Britain recently signed a Memorandum of Understanding with the [Palestinian Market Development Programme][1] (PMDP) to encourage the participation of the diaspora in the growth of Palestine's economy.
 
 ![][2]

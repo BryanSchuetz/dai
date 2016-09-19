@@ -1,14 +1,18 @@
 ---
 title: DAI Staffer Runner-Up for Prestigious Rice Award
 date: 2015-05-27 18:05:00 Z
-summary: |
-  DAI is pleased to announce that Caity Campos, an Associate on DAI's Technical Services team, has been selected as a runner-up for the Society for International Development (SID) 2015 Andrew E. Rice Award.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is pleased to announce that Caity Campos, an Associate on DAI''s Technical
+  Services team, has been selected as a runner-up for the Society for International
+  Development (SID) 2015 Andrew E. Rice Award.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is pleased to announce that Caity Campos, an Associate on DAI's Technical Services team, has been selected as a runner-up for the Society for International Development (SID) 2015 Andrew E. Rice Award.
 
 Andrew E. Rice, a founder and visionary of SID was a tireless advocate of promoting and mentoring youth in development. The Andrew E. Rice Award for Leadership and Innovation by a Young Professional in International Development recognizes the achievements of an exceptional young professional working in the field of international development.

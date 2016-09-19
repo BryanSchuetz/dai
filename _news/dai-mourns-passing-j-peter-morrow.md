@@ -1,15 +1,21 @@
 ---
 title: DAI Mourns the Passing of J. Peter Morrow
 date: 2016-03-08 18:05:00 Z
-summary: |
-  DAI is deeply saddened to mark the passing of J. Peter Morrow, who led the dramatic turnaround of the Agricultural Bank of Mongolia (rebranded as Khan Bank) under a DAI project and went on to become one of Mongolia's most respected business leaders and most honored foreign citizens. Morrow, who worked for DAI from 2000 to 2010, died on August 4 in Seattle. He was 68 years old.
+summary: 'DAI is deeply saddened to mark the passing of J. Peter Morrow, who led the
+  dramatic turnaround of the Agricultural Bank of Mongolia (rebranded as Khan Bank)
+  under a DAI project and went on to become one of Mongolia''s most respected business
+  leaders and most honored foreign citizens. Morrow, who worked for DAI from 2000
+  to 2010, died on August 4 in Seattle. He was 68 years old.
+
+'
 solutions:
 - Economic Growth
 regions: Asia and the Pacific
 projects: 'Mongolia—Khan Bank: Bank Management Support'
-clients:
+clients: 
 layout: node
 ---
+
 DAI is deeply saddened to mark the passing of J. Peter Morrow, who led the dramatic turnaround of the Agricultural Bank of Mongolia (rebranded as Khan Bank) under a DAI project and went on to become one of Mongolia's most respected business leaders and most honored foreign citizens. Morrow, who worked for DAI from 2000 to 2010, died on August 4 in Seattle. He was 68 years old.
 
 Morrow, an American banker, began working in Mongolia when he was hired by DAI to prepare the state-owned "Ag Bank" for privatization. Given the Bank's importance to Mongolian rural populations, the government agreed to put the institution under an [external management team][1] hired by DAI and funded by the U.S. Agency for International Development (USAID).

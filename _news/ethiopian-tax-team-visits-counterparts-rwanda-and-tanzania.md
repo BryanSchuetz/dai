@@ -1,16 +1,22 @@
 ---
 title: Ethiopian Tax Team Visits Counterparts in Rwanda and Tanzania
 date: 2016-08-11 18:05:00 Z
-summary: |
-  A high-level team from the Ethiopian Revenues and Customs Authority (ERCA), led by Ato Desta Bezabh Gebrehiwet, Deputy Director General and Head of Domestic Tax Department, and facilitated by the U.K. Department for International Development (DFID)-funded Tax, Audit and Transparency (TAUT) programme led by DAI, visited revenue authorities in Rwanda and Tanzania during the past two weeks.
+summary: 'A high-level team from the Ethiopian Revenues and Customs Authority (ERCA),
+  led by Ato Desta Bezabh Gebrehiwet, Deputy Director General and Head of Domestic
+  Tax Department, and facilitated by the U.K. Department for International Development
+  (DFID)-funded Tax, Audit and Transparency (TAUT) programme led by DAI, visited revenue
+  authorities in Rwanda and Tanzania during the past two weeks.
+
+'
 solutions:
 - Economic Growth
 - Public Financial Management
 regions: Sub-Saharan Africa
 projects: Ethiopia—Tax, Audit and Transparency Programme (TAUT)
-clients:
+clients: 
 layout: node
 ---
+
 A high-level team from the Ethiopian Revenues and Customs Authority (ERCA), led by Ato Desta Bezabh Gebrehiwet, Deputy Director General and Head of Domestic Tax Department, and facilitated by the U.K. Department for International Development (DFID)-funded [Tax, Audit and Transparency (TAUT)][1] programme led by DAI, visited revenue authorities in Rwanda and Tanzania during the past two weeks.
 
 ![][2]

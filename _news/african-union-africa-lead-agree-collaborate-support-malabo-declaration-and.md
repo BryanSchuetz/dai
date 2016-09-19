@@ -1,8 +1,12 @@
 ---
-title: African Union, Africa Lead Agree to Collaborate on Support for Malabo Declaration and New Alliance
+title: African Union, Africa Lead Agree to Collaborate on Support for Malabo Declaration
+  and New Alliance
 date: 2015-09-29 18:05:00 Z
-summary: |
-  The African Union Commission's Department of Rural Economy and Agriculture (AUC/DREA) recently signed a letter of agreement with Africa Lead, a top program of the U.S. Government's Feed the Future initiative.
+summary: 'The African Union Commission''s Department of Rural Economy and Agriculture
+  (AUC/DREA) recently signed a letter of agreement with Africa Lead, a top program
+  of the U.S. Government''s Feed the Future initiative.
+
+'
 solutions:
 - Agriculture and Food Security
 regions: Sub-Saharan Africa
@@ -10,6 +14,7 @@ projects: Africa—Africa Lead II
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 The African Union Commission's Department of Rural Economy and Agriculture (AUC/DREA) recently signed a letter of agreement with Africa Lead, a top program of the U.S. Government's Feed the Future initiative.
 
 The Letter of Agreement between the two organizations commits to the selection and seconding of professional staff to AUC/DREA for up to three years to assist in facilitating the continental commitment to transform agriculture. The 2014 Malabo Declaration on Accelerated Agricultural Growth and Transformation for Shared Prosperity and Improved Livelihoods was signed by leaders of the 54 African Union member states last July. The Malabo Declaration includes country commitments to ending hunger; decreasing poverty through inclusive agriculture growth and transformation; boosting intra-African trade in agricultural commodities and services; enhancing resilience to climate variability and other shocks; and a commitment to mutual accountability for actions and results.

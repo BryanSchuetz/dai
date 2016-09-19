@@ -1,15 +1,19 @@
 ---
 title: Chuck Chopak to Co-Chair SID Workgroup on Food Security & Agriculture
 date: 2015-05-22 18:05:00 Z
-summary: |
-  DAI Vice President for Technical Services Chuck Chopak has been chosen to co-chair the Society for International Development (SID) Washington, D.C., Chapter's workgroup on food security and agriculture.
+summary: 'DAI Vice President for Technical Services Chuck Chopak has been chosen to
+  co-chair the Society for International Development (SID) Washington, D.C., Chapter''s
+  workgroup on food security and agriculture.
+
+'
 solutions:
 - Agriculture and Food Security
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI Vice President for Technical Services [Chuck Chopak][1] has been chosen to co-chair the Society for International Development (SID) Washington, D.C., Chapter's workgroup on food security and agriculture.
 
 ![][2]{:.float-left}

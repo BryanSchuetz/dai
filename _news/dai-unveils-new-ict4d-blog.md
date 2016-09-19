@@ -1,15 +1,19 @@
 ---
 title: DAI Unveils New ICT4D Blog
 date: 2016-03-16 18:05:00 Z
-summary: |
-  DAI's Information and Communications Technology (ICT) team has launched Digital@DAI, a blog offering a behind-the-scenes look at the way digital technologies are contributing to global development work.
+summary: 'DAI''s Information and Communications Technology (ICT) team has launched
+  Digital@DAI, a blog offering a behind-the-scenes look at the way digital technologies
+  are contributing to global development work.
+
+'
 solutions:
 - Digital
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's Information and Communications Technology (ICT) team has launched [Digital@DAI][1], a blog offering a behind-the-scenes look at the way digital technologies are contributing to global development work.
 
 From data collection tools for client reporting to social media marketing for cause advocacy, our ICT team is constantly working on how best to utilize digital technologies in support of DAI projects. This blog is an effort to expand those conversations beyond our own cluster of cubicles and email threads.

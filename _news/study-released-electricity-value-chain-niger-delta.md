@@ -1,16 +1,20 @@
 ---
 title: Study Released on Electricity Value Chain in Niger Delta
 date: 2015-07-12 18:05:00 Z
-summary: |
-  DAI, the Niger Delta Partnership Initiative (NDPI), and the Foundation for Partnership Initiatives in the Niger Delta (PIND), have released an initial study of the electricity value chain in the Niger Delta.
+summary: 'DAI, the Niger Delta Partnership Initiative (NDPI), and the Foundation for
+  Partnership Initiatives in the Niger Delta (PIND), have released an initial study
+  of the electricity value chain in the Niger Delta.
+
+'
 solutions:
 - Corporate Services
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI, the [Niger Delta Partnership Initiative (NDPI),][1] and the [Foundation for Partnership Initiatives in the Niger Delta (PIND),][2] have released an initial study of the electricity value chain in the Niger Delta.
 
 The study, which took place from January to March, highlights challenges and opportunities in the power sector in the Niger Delta region. The study also validates the researchers' initial assumptions for further analysis on potential distributed power solutions in locations that are not subject to the slow pace of reform and privatization associated with the on-grid portion of the power sector.

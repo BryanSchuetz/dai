@@ -1,16 +1,21 @@
 ---
 title: USAID TIS Supports Arts and Culture Week to Engage Youth in Puntland
 date: 2015-06-05 18:05:00 Z
-summary: |
-  Traditional arts and culture contribute to peace and stability in Somalia. In a country where youth struggle to find education and job opportunities, and avoid piracy, crime and extremism, arts and culture can provide safe outlets for peaceful self-expression and socialization.
+summary: 'Traditional arts and culture contribute to peace and stability in Somalia.
+  In a country where youth struggle to find education and job opportunities, and avoid
+  piracy, crime and extremism, arts and culture can provide safe outlets for peaceful
+  self-expression and socialization.
+
+'
 solutions:
 - Stability
 regions:
 - Sub-Saharan Africa
 projects: Somalia—Transition Initiatives for Stabilization (TIS)
-clients:
+clients: 
 layout: node
 ---
+
 Traditional arts and culture contribute to peace and stability in Somalia. In a country where youth struggle to find education and job opportunities, and avoid piracy, crime and extremism, arts and culture can provide safe outlets for peaceful self-expression and socialization.
 
 The Puntland Arts and Culture Week, held from May 30 to June 4, attracted more than 1,500 people—young and elderly alike—from different regions in an uplifting celebration aimed at reviving Somali arts and culture in Garowe, the capital city of Puntland. This event, funded by DAI-led [Transition Initiatives for Stabilization (TIS)][1], a U.S. Agency for International Development (USAID)-funded project, not only helped improved the image of Puntland Administration within the wider public, but it also gave the relationship between the administration and communities all over Puntland a boost.

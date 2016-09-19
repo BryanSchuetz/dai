@@ -1,14 +1,18 @@
 ---
 title: DAI Europe Earns ISO 9001:2015 and ISO 14001:2015 Certifications
 date: 2016-08-01 18:05:00 Z
-summary: |
-  DAI Europe has achieved the internationally recognised ISO 9001:2015 and ISO 14001:2015 standards, establishing it as an operations leader in international development consulting and implementation.
-solutions:
-regions:
-projects:
+summary: 'DAI Europe has achieved the internationally recognised ISO 9001:2015 and
+  ISO 14001:2015 standards, establishing it as an operations leader in international
+  development consulting and implementation.
+
+'
+solutions: 
+regions: 
+projects: 
 clients: U.K. Department for International Development
 layout: node
 ---
+
 DAI Europe has achieved the internationally recognised ISO 9001:2015 and ISO 14001:2015 standards, establishing it as an operations leader in international development consulting and implementation.
 
 The independent assessment was conducted by the United Kingdom Accreditation Service (UKAS)-affiliated British Assessment Bureau and substantiates DAI Europe's commitment to customer service and quality in delivery. As a result, DAI Europe has earned the right to display the coveted British Assessment Bureau ISO 9001 and ISO 14001 certification marks to demonstrate its conformance to the standards.

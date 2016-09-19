@@ -1,14 +1,17 @@
 ---
 title: Summer 2015 Issue of Developments Now Available
 date: 2015-07-10 18:05:00 Z
-summary: |
-  The Summer 2015 issue of DAI's Developments newsletter is now available online.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Summer 2015 issue of DAI''s Developments newsletter is now available
+  online.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The Summer 2015 issue of DAI's Developments newsletter is now available [online][1].
 
 Leading off, Chief of Party Vishalini Lawrence writes about [building trust in Somalia][2] and how the Transition Initiatives for Stabilization project works effectively inside the country. Her team has empowered local people to plan, manage, and complete more than 300 locally prioritized community improvement projects. Next up, Sarah Maguire tells of the [Access to Security and Justice Programme in Sierra Leone][3] and increasing justice particularly in remote, rural, or marginalized areas, where most people lack the time, money, or literacy needed to access formal structures such as police, courts, or legal services.

@@ -1,15 +1,19 @@
 ---
 title: DAI Mexico Transferred to Local Team, Doing Business as INTEGRO
 date: 2015-08-31 18:05:00 Z
-summary: |
-  DAI is delighted to announce the sale of its Mexico City-based regional consulting practice, DAI Mexico, to the outstanding team of local managers and technical specialists who have run the operation since it was started in 2009.
-solutions:
+summary: 'DAI is delighted to announce the sale of its Mexico City-based regional
+  consulting practice, DAI Mexico, to the outstanding team of local managers and technical
+  specialists who have run the operation since it was started in 2009.
+
+'
+solutions: 
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce the sale of its Mexico City-based regional consulting practice, DAI Mexico, to the outstanding team of local managers and technical specialists who have run the operation since it was started in 2009.
 
 Their new, independent company—[INTEGRO][1]—will continue to offer world-class consulting services focused on the financial services and enterprise development sector in Mexico and the region.

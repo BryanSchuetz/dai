@@ -1,14 +1,18 @@
 ---
 title: DAI Hosts Second Annual Small Business Fair
 date: 2015-06-26 18:05:00 Z
-summary: |
-  DAI recently hosted its second annual small business fair at DAI headquarters in Bethesda, Maryland, where representatives from small development firms met with DAI staff members to establish connections and explore partnerships.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI recently hosted its second annual small business fair at DAI headquarters
+  in Bethesda, Maryland, where representatives from small development firms met with
+  DAI staff members to establish connections and explore partnerships.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI recently hosted its second annual small business fair at DAI headquarters in Bethesda, Maryland, where representatives from small development firms met with DAI staff members to establish connections and explore partnerships.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/131918269" webkitallowfullscreen="" width="703"></iframe>

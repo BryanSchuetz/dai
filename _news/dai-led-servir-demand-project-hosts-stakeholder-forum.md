@@ -1,16 +1,20 @@
 ---
 title: DAI-led SERVIR Demand Project Hosts Stakeholder Forum
 date: 2015-06-08 18:05:00 Z
-summary: |
-  The DAI-led SERVIR Program Demand Activity brought together representatives from nearly 20 organizations that work at the nexus of global climate change and technology for an inaugural two-day forum around the topic of collaboration.
+summary: 'The DAI-led SERVIR Program Demand Activity brought together representatives
+  from nearly 20 organizations that work at the nexus of global climate change and
+  technology for an inaugural two-day forum around the topic of collaboration.
+
+'
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
-regions:
+regions: 
 projects: Worldwide—SERVIR Program Demand Activity
-clients:
+clients: 
 layout: node
 ---
+
 The DAI-led [SERVIR Program Demand Activity][1] brought together representatives from nearly 20 organizations that work at the nexus of global climate change and technology for an inaugural two-day forum around the topic of collaboration.
 
 [SERVIR Global][2], which relies heavily on collaboration, was established in 2004 by NASA, the U.S. Agency for International Development (USAID), and others, to make geospatial information and Earth observation data available for sharing, integrating, and mapping. This data, in turn, is used by partner institutions, or hubs, based in Kenya, Nepal, and Thailand. The hubs collectively work with hundreds of regional stakeholders to co-develop and build decision-support products.

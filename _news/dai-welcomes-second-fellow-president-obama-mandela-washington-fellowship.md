@@ -1,14 +1,20 @@
 ---
 title: DAI Welcomes Second Fellow from President Obama’s Mandela Washington Fellowship
 date: 2015-08-17 18:05:00 Z
-summary: |
-  DAI is delighted to welcome Alueshima Utsaha as part of the Mandela Washington Fellowship for Young African Leaders. Alueshima will work through September at DAI, focusing on Health governance and leadership in addition to, conducting desk research in water, sanitation, and hygiene (WASH) programming as well as how enhanced domestic resource mobilization could be used to bolster HIV programs in developing countries.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to welcome Alueshima Utsaha as part of the Mandela Washington
+  Fellowship for Young African Leaders. Alueshima will work through September at DAI,
+  focusing on Health governance and leadership in addition to, conducting desk research
+  in water, sanitation, and hygiene (WASH) programming as well as how enhanced domestic
+  resource mobilization could be used to bolster HIV programs in developing countries.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to welcome Alueshima Utsaha as part of the [Mandela Washington Fellowship][1] for Young African Leaders. Alueshima will work through September at DAI, focusing on Health governance and leadership in addition to, conducting desk research in water, sanitation, and hygiene (WASH) programming as well as how enhanced domestic resource mobilization could be used to bolster HIV programs in developing countries.
 
 ![][2]{:.float-left}

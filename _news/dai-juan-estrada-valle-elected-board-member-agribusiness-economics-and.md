@@ -1,16 +1,22 @@
 ---
-title: DAI’s Juan Estrada-Valle Elected Board Member of Agribusiness Economics and Management Group
+title: DAI’s Juan Estrada-Valle Elected Board Member of Agribusiness Economics and
+  Management Group
 date: 2015-07-07 18:05:00 Z
-summary: |
-  DAI's Juan Estrada-Valle, who has worked for more than 20 years in agriculture, value chain development, and market-based strategies in conflict-affected environments, was elected a board member of the Agribusiness Economics and Management Section of the Milwaukee, Wisconsin-based Agricultural and Applied Economics Association.
+summary: 'DAI''s Juan Estrada-Valle, who has worked for more than 20 years in agriculture,
+  value chain development, and market-based strategies in conflict-affected environments,
+  was elected a board member of the Agribusiness Economics and Management Section
+  of the Milwaukee, Wisconsin-based Agricultural and Applied Economics Association.
+
+'
 solutions:
 - Economic Growth
 - Agriculture and Food Security
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's [Juan Estrada-Valle][1], who has worked for more than 20 years in agriculture, value chain development, and market-based strategies in conflict-affected environments, was elected a board member of the Agribusiness Economics and Management Section of the Milwaukee, Wisconsin-based [Agricultural and Applied Economics Association][2]. The section provides a place for all AAEA members working or interested in agribusiness economics and management to share work, learn, and advance the field. As a board member, Juan fills a chair reserved for economists working in the private sector.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/130361148" webkitallowfullscreen="" width="703"></iframe>

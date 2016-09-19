@@ -1,17 +1,23 @@
 ---
 title: USAID Jordan Fiscal Reform Project Produces Video on New Budgeting Tool
 date: 2015-06-02 18:05:00 Z
-summary: |
-  As part of the Government of Jordan's 2025 economic vision of fiscal reforms, it is adopting a General Financial Management Information System (GFMIS) to help it ensure consistent accounting of public funds. GFMIS is being implemented with the support of the Jordan Fiscal Reform Bridge Activity, funded by the U.S. Agency for International Development (USAID), in collaboration with the Ministry of Finance.
+summary: 'As part of the Government of Jordan''s 2025 economic vision of fiscal reforms,
+  it is adopting a General Financial Management Information System (GFMIS) to help
+  it ensure consistent accounting of public funds. GFMIS is being implemented with
+  the support of the Jordan Fiscal Reform Bridge Activity, funded by the U.S. Agency
+  for International Development (USAID), in collaboration with the Ministry of Finance.
+
+'
 solutions:
 - Economic Growth
 - Public Financial Management
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 As part of the Government of Jordan's 2025 economic vision of fiscal reforms, it is adopting a General Financial Management Information System (GFMIS) to help it ensure consistent accounting of public funds. GFMIS is being implemented with the support of the [Jordan Fiscal Reform Bridge Activity][1], funded by the U.S. Agency for International Development (USAID), in collaboration with the Ministry of Finance.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/129261639" webkitallowfullscreen="" width="703"></iframe>

@@ -1,14 +1,18 @@
 ---
 title: DAI Biodiversity Expert Jim Tarrant Speaks on Integration Panel
 date: 2016-08-31 18:05:00 Z
-summary: |
-  Jim Tarrant, Chief of Party of the [Biodiversity Results and Integrated Development Gains Enhanced (BRIDGE)][1] project, was a featured panelist at a recent discussion on the need for integrated development approaches.
+summary: 'Jim Tarrant, Chief of Party of the [Biodiversity Results and Integrated
+  Development Gains Enhanced (BRIDGE)][1] project, was a featured panelist at a recent
+  discussion on the need for integrated development approaches.
+
+'
 solutions: Environment and Energy
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Jim Tarrant, Chief of Party of the [Biodiversity Results and Integrated Development Gains Enhanced (BRIDGE)][1] project, was a featured panelist at a recent discussion on the need for integrated development approaches. The [panel][2]—hosted by the Wilson Center in Washington, D.C.—also included Jayce Newton, integration lead for the U.S. Agency for International Development (USAID)'s Center for Democracy Rights and Governance; Nanette Barkey, Director of Results & Measurement, Pact; and Salman Jaffer, Program Director, Social Impact.
 
 "USAID has recognized the need for more results and impact on its development investments," said Newton. "That's why, increasingly, integration is vital to all of the work we do."

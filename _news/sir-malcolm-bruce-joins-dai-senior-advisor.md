@@ -1,14 +1,19 @@
 ---
 title: Sir Malcolm Bruce Joins DAI as a Senior Advisor
 date: 2015-09-19 18:05:00 Z
-summary: |
-  DAI is delighted to announce that Sir Malcolm Bruce has joined the firm in an advisory capacity, effective immediately. A distinguished public servant, Bruce brings to DAI more than 40 years of experience spanning government, private industry, and non-profit roles.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to announce that Sir Malcolm Bruce has joined the firm
+  in an advisory capacity, effective immediately. A distinguished public servant,
+  Bruce brings to DAI more than 40 years of experience spanning government, private
+  industry, and non-profit roles.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce that Sir Malcolm Bruce has joined the firm in an advisory capacity, effective immediately. A distinguished public servant, Bruce brings to DAI more than 40 years of experience spanning government, private industry, and non-profit roles. As the M.P. for the Scottish constituency of Gordon, he served in the British House of Commons for 32 years, chairing the International Development Committee from 2005 to 2015.
 
 ![][1]
