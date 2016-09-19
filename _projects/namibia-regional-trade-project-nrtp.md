@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Governance
 layout: project
-summary: |
-  NRTP's objective was to build the capacity and competitiveness of historically disadvantaged Namibian firms in the small and medium sector to enable them to trade and establish linkages with firms in Namibia, the Southern African Development Community (SADC) region (for example, Angola, Zambia, and South Africa), and the United States.
+summary: 'NRTP''s objective was to build the capacity and competitiveness of historically
+  disadvantaged Namibian firms in the small and medium sector to enable them to trade
+  and establish linkages with firms in Namibia, the Southern African Development Community
+  (SADC) region (for example, Angola, Zambia, and South Africa), and the United States.
+
+'
 ---
+
 NRTP's objective was to build the capacity and competitiveness of historically disadvantaged Namibian firms in the small and medium sector to enable them to trade and establish linkages with firms in Namibia, the Southern African Development Community (SADC) region (for example, Angola, Zambia, and South Africa), and the United States. The program was implemented in collaboration with the Namibian Chamber of Commerce and Industry. The project instilled awareness in areas related to export promotion among small and medium enterprises, and resulted in an increased participation in regional trade fairs, as well as undertakings of marketing trips within SADC and beyond. The project equally strengthened the relationship between export service-oriented bodies within the region, resulting in leveraging of efforts to market Namibia's export potential within the region and beyond.
 
 ![][1]

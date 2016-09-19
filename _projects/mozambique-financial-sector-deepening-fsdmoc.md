@@ -12,9 +12,15 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  Financial Sector Deepening Mozambique (FSDMoç) is a financial inclusion facilitation unit. It is seeking financial inclusion for households and businesses through a series of public and private sector partnerships. FSDMoç is targeting increased access and improved quality of financial services for 2 million individuals and 650 businesses in Mozambique by 2019.
+summary: 'Financial Sector Deepening Mozambique (FSDMoç) is a financial inclusion
+  facilitation unit. It is seeking financial inclusion for households and businesses
+  through a series of public and private sector partnerships. FSDMoç is targeting
+  increased access and improved quality of financial services for 2 million individuals
+  and 650 businesses in Mozambique by 2019.
+
+'
 ---
+
 Financial Sector Deepening Mozambique (FSDMoç) is a financial inclusion facilitation unit. It is seeking financial inclusion for households and businesses through a series of public and private sector partnerships. FSDMoç is targeting increased access and improved quality of financial services for 2 million individuals and 650 businesses in Mozambique by 2019.
 
 ###  Sample Activities

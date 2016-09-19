@@ -1,5 +1,6 @@
 ---
-title: Nigeria—Restructured Economic Framework for Openness, Reform, and Macroeconomic Stability (REFORMS)
+title: Nigeria—Restructured Economic Framework for Openness, Reform, and Macroeconomic
+  Stability (REFORMS)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2005
@@ -11,9 +12,13 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  With its return to democracy, Nigerian authorities have taken major steps to create a strategic framework for the federal budget, guide ministries in charge of delivering services, and open federal procurement to competition.
+summary: 'With its return to democracy, Nigerian authorities have taken major steps
+  to create a strategic framework for the federal budget, guide ministries in charge
+  of delivering services, and open federal procurement to competition.
+
+'
 ---
+
 With its return to democracy, Nigerian authorities have taken major steps to create a strategic framework for the federal budget, guide ministries in charge of delivering services, and open federal procurement to competition. DAI was asked to build on that success by deepening budget reform, expanding it to selected states, preparing key institutions in government and civil society to play an effective role, and supporting policy reform to make it easier for private enterprise—primarily small and medium-sized enterprises—to respond to new opportunities and challenges. The REFORMS program aims to improve the policy environment and address major impediments to economic growth in Nigeria. REFORMS was designed to support the government's National Economic Empowerment and Development Strategy (NEEDS) goals: wealth creation, employment generation, poverty reduction, and value reorientation. The NEEDS policy reform goals addressed the following key obstacles: poverty and inequality; weak public sectors; poor economic management; and an unfavorable environment for broad-based, private sector-led economic growth.
 
 ![][1]

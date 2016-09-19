@@ -12,9 +12,14 @@ solutions:
 - Agriculture and Food Security
 - Health
 layout: project
-summary: |
-  Preparing food for children ages 6-24 months takes a lot of mothers' time, which is often limited by other responsibilities. In low-income neighborhoods of Kathmandu, Nepal, there is minimal supply of but high demand for processed, affordable, and nutritious weaning foods that incorporate multiple food groups.
+summary: 'Preparing food for children ages 6-24 months takes a lot of mothers'' time,
+  which is often limited by other responsibilities. In low-income neighborhoods of
+  Kathmandu, Nepal, there is minimal supply of but high demand for processed, affordable,
+  and nutritious weaning foods that incorporate multiple food groups.
+
+'
 ---
+
 Preparing food for children ages 6-24 months takes a lot of mothers' time, which is often limited by other responsibilities. In low-income neighborhoods of Kathmandu, Nepal, there is minimal supply of but high demand for processed, affordable, and nutritious weaning foods that incorporate multiple food groups.
 
 Tufts University, DAI, and Right Direction Nepal are assisting a Kathmandu-based cottage industry that produces foods that complement breast feeding. The goal: help this cottage industry to produce processed (quick and easy) weaning food for infants and toddlers at higher quality and nutrition, higher volume, and lower cost.
