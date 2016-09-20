@@ -1,18 +1,16 @@
 ---
 title: DAI Convenes Global Experts to Explore Systemic Market Development
 date: 2015-04-17 18:05:00 Z
-summary: 'Economic development programs that seek to help people lift themselves out
+summary: "Economic development programs that seek to help people lift themselves out
   of poverty are increasingly adopting systemic market development approaches. On
   April 28–29 in London, DAI will convene 80 top practitioners to explore this trend
-  at a workshop titled "Pushing the Frontier: DAI''s Experience in Systemic Market
-  Development for Inclusive Economic Growth."
-
-'
+  at a workshop titled 'Pushing the Frontier: DAIs Experience in Systemic Market
+  Development for Inclusive Economic Growth.'"
 solutions:
 - Economic Growth
-regions: 
-projects: 
-clients: 
+regions:
+projects:
+clients:
 layout: node
 ---
 
