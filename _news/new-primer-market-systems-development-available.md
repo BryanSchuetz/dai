@@ -2,16 +2,16 @@
 title: New Primer on Market Systems Development Available
 date: 2015-07-14 18:05:00 Z
 summary: 'Bill Grant, DAI''s Global Practice Leader for Market Systems Development,
-  has published a new summary paper—"[Market Systems Development: A Primer on Pro-Poor
-  Programming][2]"—coming out of DAI''s recent economic growth conference in London.
+  has published a new summary paper—"Market Systems Development: A Primer on Pro-Poor
+  Programming"—coming out of DAI''s recent economic growth conference in London.
 
 '
 solutions:
 - Economic Growth
 - Public Financial Management
-regions: 
-projects: 
-clients: 
+regions:
+projects:
+clients:
 layout: node
 ---
 
