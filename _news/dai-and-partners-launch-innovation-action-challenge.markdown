@@ -1,14 +1,15 @@
 ---
 title: DAI and Partners Launch Innovation into Action Challenge
 date: 2016-01-28 18:05:00 Z
-summary: DAI and three key partners announced the launch of the [Innovation into Action
+summary: |
+  DAI and three key partners announced the launch of the [Innovation into Action
   Challenge](https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai),
   a new challenge designed to support innovations with the potential to make a difference
   in the lives of people in emerging and transitioning nations.
 solutions:
 - Digital
-regions: 
-projects: 
+regions:
+projects:
 clients:
 - U.S. Agency for International Development
 layout: node
