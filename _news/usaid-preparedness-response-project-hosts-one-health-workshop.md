@@ -1,15 +1,20 @@
 ---
 title: USAID Preparedness & Response Project Hosts One Health Workshop
 date: 2015-05-05 18:05:00 Z
-summary: |
-  The U.S. Agency for International Development (USAID)-funded Preparedness and Response (P&R) project brought together 30 representatives from 10 countries to learn what the project and its partners are doing to build national and regional One Health capacity to emerging and re-emerging zoonotic diseases.
+summary: 'The U.S. Agency for International Development (USAID)-funded Preparedness
+  and Response (P&R) project brought together 30 representatives from 10 countries
+  to learn what the project and its partners are doing to build national and regional
+  One Health capacity to emerging and re-emerging zoonotic diseases.
+
+'
 solutions:
 - Health
-regions:
+regions: 
 projects: Worldwide—Preparedness and Response (P&R)
-clients:
+clients: 
 layout: node
 ---
+
 The U.S. Agency for International Development (USAID)-funded [Preparedness and Response (P&R)][1] project brought together 30 representatives from 10 countries to learn what the project and its partners are doing to build national and regional One Health capacity to emerging and re-emerging zoonotic diseases.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/126964616" webkitallowfullscreen="" width="703"></iframe>

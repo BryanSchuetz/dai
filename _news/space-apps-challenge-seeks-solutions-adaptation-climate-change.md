@@ -1,16 +1,20 @@
 ---
 title: Space Apps Challenge Seeks Solutions for Adaptation to Climate Change
 date: 2015-04-23 18:05:00 Z
-summary: |
-  The Regional Climate Change Program (RCCP) recently supported the Instituto Tecnologico de Costa Rica (TEC)'s participation in the annual International Space Apps Challenge, sponsored by the National Aeronautics and Space Administration (NASA).
+summary: 'The Regional Climate Change Program (RCCP) recently supported the Instituto
+  Tecnologico de Costa Rica (TEC)''s participation in the annual International Space
+  Apps Challenge, sponsored by the National Aeronautics and Space Administration (NASA).
+
+'
 solutions:
 - Digital
 - Climate Change Adaptation and Mitigation
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The [Regional Climate Change Program (RCCP)][1] recently supported the Instituto Tecnologico de Costa Rica (TEC)'s participation in the annual [International Space Apps Challenge][2], sponsored by the National Aeronautics and Space Administration (NASA).
 
 The Challenge, held simultaneously in 147 locations around the world, involved more than 12,000 people. TEC [hosted the event at its campus][3] in Costa Rica with the support of RCCP, which is funded by the U.S. Agency for International Development.

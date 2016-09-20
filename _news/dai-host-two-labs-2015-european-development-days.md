@@ -1,16 +1,19 @@
 ---
 title: DAI to Host Two Labs at 2015 European Development Days
 date: 2015-03-23 18:05:00 Z
-summary: |
-  DAI is pleased to be hosting two labs at the annual European Development Days event in Brussels on June 3–4.
-solutions:
-regions:
-projects:
+summary: 'DAI is pleased to be hosting two labs at the annual European Development
+  Days event in Brussels on June 3–4.
+
+'
+solutions: 
+regions: 
+projects: 
 clients:
 - European Commission
 - U.K. Department for International Development
 layout: node
 ---
+
 DAI is pleased to be hosting two labs at the annual European Development Days event in Brussels on June 3–4.
 
 This year is the European Year for Development ([#EYD2015][1]) and Development Days (EDD15) will be its flagship event. The forum is an incubator of new ideas to inform our shared aim of a poverty-free, sustainable, and fair world where everyone has a chance at a decent life.

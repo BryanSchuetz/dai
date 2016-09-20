@@ -1,14 +1,16 @@
 ---
 title: Spring 2015 Issue of Developments Now Available
 date: 2015-03-09 18:05:00 Z
-summary: |
-  The Spring 2015 issue of DAI's Developments online newsletter is now available.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Spring 2015 issue of DAI''s Developments online newsletter is now available.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The Spring 2015 issue of DAI's Developments online newsletter is now available.
 
 Leading off, Simone Anzboeck and Inez Couzinet describe how banks in Poland are issuing high-quality loans so small and medium-sized enterprises can invest in [more efficient energy systems][1]. The Poland Sustainable Energy Finance Facility has financed more than 2,000 projects worth a total of €185 million.

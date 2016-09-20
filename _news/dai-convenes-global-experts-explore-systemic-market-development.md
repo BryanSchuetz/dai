@@ -1,15 +1,21 @@
 ---
 title: DAI Convenes Global Experts to Explore Systemic Market Development
 date: 2015-04-17 18:05:00 Z
-summary: |
-  Economic development programs that seek to help people lift themselves out of poverty are increasingly adopting systemic market development approaches. On April 28–29 in London, DAI will convene 80 top practitioners to explore this trend at a workshop titled "Pushing the Frontier: DAI's Experience in Systemic Market Development for Inclusive Economic Growth."
+summary: 'Economic development programs that seek to help people lift themselves out
+  of poverty are increasingly adopting systemic market development approaches. On
+  April 28–29 in London, DAI will convene 80 top practitioners to explore this trend
+  at a workshop titled "Pushing the Frontier: DAI''s Experience in Systemic Market
+  Development for Inclusive Economic Growth."
+
+'
 solutions:
 - Economic Growth
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Economic development programs that seek to help people lift themselves out of poverty are increasingly adopting systemic market development approaches. On April 28–29 in London, DAI will convene 80 top practitioners to explore this trend at a workshop titled "Pushing the Frontier: DAI's Experience in Systemic Market Development for Inclusive Economic Growth."
 
 "DAI is implementing more than 30 economic growth projects for different donors. While these projects operate in diverse countries under a variety of conditions, they share the ultimate goal of increasing sustainable and inclusive economic growth," said [Bill Grant][1], DAI's Global Practice Leader for Systemic Market Development. "This workshop will be a great investment by our key staff, partners, and guests to capture more of what we have learned about market systems, strengthen links between our teams, and generate learning pieces for public use."

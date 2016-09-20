@@ -1,16 +1,20 @@
 ---
 title: USAID Program Credited with Energizing Zimbabwe’s Agribusiness
 date: 2015-02-18 18:05:00 Z
-summary: |
-  Ministers, the U.S. ambassador, and local stakeholders commended the revival of Zimbabwe's once-flourishing agriculture sector at an event marking the close of the Zimbabwe Agricultural Competitiveness Program (Zim-ACP).
+summary: 'Ministers, the U.S. ambassador, and local stakeholders commended the revival
+  of Zimbabwe''s once-flourishing agriculture sector at an event marking the close
+  of the Zimbabwe Agricultural Competitiveness Program (Zim-ACP).
+
+'
 solutions:
 - Agriculture and Food Security
 regions:
--  Sub-Saharan Africa
-projects:
-clients:
+- Sub-Saharan Africa
+projects: 
+clients: 
 layout: node
 ---
+
 Ministers, the U.S. ambassador, and local stakeholders commended the revival of Zimbabwe's once-flourishing agriculture sector at an event marking the close of the [Zimbabwe Agricultural Competitiveness Program (Zim-ACP)][1].
 
 More than 150 guests heralded advances by commercial farming, agribusinesses, and farmer organizations that had collapsed during the economic turmoil of the 2000s, when Zimbabwe was forced to become a net importer of food.

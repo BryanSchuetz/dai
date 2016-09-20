@@ -1,18 +1,26 @@
 ---
 title: Thai Scientist Goes From Microscopes to Policy-making
 date: 2015-02-20 18:05:00 Z
-summary: |
-  From examining microbes under a microscope to pitching policy recommendations that could affect the sharing of biological resources within the Association of Southeast Asian Nations (ASEAN), the ASEAN-U.S. Science and Technology Fellows Program gave Honglada "Lada" Thoetkiattikul the skills, experience, and connections to help her shift her career and apply her expertise to improve science-based policy-making in the region.
+summary: 'From examining microbes under a microscope to pitching policy recommendations
+  that could affect the sharing of biological resources within the Association of
+  Southeast Asian Nations (ASEAN), the ASEAN-U.S. Science and Technology Fellows Program
+  gave Honglada "Lada" Thoetkiattikul the skills, experience, and connections to help
+  her shift her career and apply her expertise to improve science-based policy-making
+  in the region.
+
+'
 solutions:
 - Governance
 - Economic Growth
 - Stability
 regions:
 - Asia and the Pacific
-projects: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable
-clients:
+projects: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and
+  Sustainable
+clients: 
 layout: node
 ---
+
 From examining microbes under a microscope to pitching policy recommendations that could affect the sharing of biological resources within the Association of Southeast Asian Nations (ASEAN), the ASEAN-U.S. Science and Technology Fellows Program gave Honglada "Lada" Thoetkiattikul the skills, experience, and connections to help her shift her career and apply her expertise to improve science-based policy-making in the region.
 
 Thoetkiattikul pursued biotechnology when she was offered a scholarship to study entomology at the University of Georgia. After completing her postdoctoral work, she returned to Bangkok to become a researcher with the Biotechnology Center of Thailand's National Science Park, the country's leading science and technology institute. But after many years conducting research, she said was ready for new challenges outside the lab.

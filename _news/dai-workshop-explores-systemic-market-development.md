@@ -1,16 +1,20 @@
 ---
 title: DAI Workshop Explores Systemic Market Development
 date: 2015-05-06 18:05:00 Z
-summary: |
-  More than 90 practitioners from around the world convened April 28–29 in London for a workshop titled "Pushing the Frontier: DAI's Experience in Systemic Market Development for Inclusive Economic Growth."
+summary: 'More than 90 practitioners from around the world convened April 28–29 in
+  London for a workshop titled "Pushing the Frontier: DAI''s Experience in Systemic
+  Market Development for Inclusive Economic Growth."
+
+'
 solutions:
 - Economic Growth
 - Public Financial Management
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 More than 90 practitioners from around the world convened April 28–29 in London for a workshop titled "Pushing the Frontier: DAI's Experience in Systemic Market Development for Inclusive Economic Growth."
 
 The [event][1] explored how economic development programs are increasingly adopting market systems development approaches. DAI is implementing 36 economic growth projects with a combined budget of more than $1 billion, serving different clients and operating under different conditions but all with the ultimate goal of increasing sustainable and inclusive economic growth.

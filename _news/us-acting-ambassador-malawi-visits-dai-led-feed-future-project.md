@@ -1,16 +1,21 @@
 ---
 title: U.S. Acting Ambassador to Malawi Visits DAI-Led Feed the Future Project
 date: 2015-01-17 18:05:00 Z
-summary: |
-  United States Acting Ambassador to Malawi Michael Gonzales and a team from the U.S. Embassy and Malawi Mission of the U.S. Agency for International Development (USAID) recently visited the Feed the Future Integrating Nutrition in Value Chains (FtF-INVC) project.
+summary: 'United States Acting Ambassador to Malawi Michael Gonzales and a team from
+  the U.S. Embassy and Malawi Mission of the U.S. Agency for International Development
+  (USAID) recently visited the Feed the Future Integrating Nutrition in Value Chains
+  (FtF-INVC) project.
+
+'
 solutions:
 - Agriculture and Food Security
 regions:
 - Sub-Saharan Africa
-projects:
+projects: 
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 United States Acting Ambassador to Malawi Michael Gonzales and a team from the U.S. Embassy and Malawi Mission of the U.S. Agency for International Development (USAID) recently visited the Feed the Future [Integrating Nutrition in Value Chains][1] (FtF-INVC) project.
 
 ![][2]

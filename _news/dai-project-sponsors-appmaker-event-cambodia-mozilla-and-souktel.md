@@ -1,17 +1,22 @@
 ---
 title: DAI Project Sponsors Appmaker Event in Cambodia with Mozilla and Souktel
 date: 2015-03-08 18:05:00 Z
-summary: |
-  The Cambodia Development Innovations project, funded by the U.S. Agency for International Development (USAID), recently hosted a mobile application-building event that brought together youth and staff members of Cambodian civil society organizations (CSOs).
+summary: 'The Cambodia Development Innovations project, funded by the U.S. Agency
+  for International Development (USAID), recently hosted a mobile application-building
+  event that brought together youth and staff members of Cambodian civil society organizations
+  (CSOs).
+
+'
 solutions:
 - Digital
 regions:
 - Asia and the Pacific
 projects:
 - Cambodia—Development Innovations
-clients:
+clients: 
 layout: node
 ---
+
 The Cambodia [Development Innovations][1] project, funded by the U.S. Agency for International Development (USAID), recently hosted a mobile application-building event that brought together youth and staff members of Cambodian civil society organizations (CSOs).
 
 The program was created by the DAI-led Development Innovations, the [Mozilla Foundation][2], and [Souktel][3] Mobile Solutions to teach organizations working in their communities how to build simple mobile apps for social good using the AppMaker tool. Participants did not need any previous training or technology skills.

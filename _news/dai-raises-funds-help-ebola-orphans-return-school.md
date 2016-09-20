@@ -1,16 +1,21 @@
 ---
 title: DAI Raises Funds to Help Ebola Orphans Return to School
 date: 2015-02-23 18:05:00 Z
-summary: |
-  DAI's UK offices recently held a fundraiser on behalf of [Street Child][1], a charity focused primarily on achieving universal access to education. The charity came to the attention of a DAI-led and U.K. Department for International Development-funded programme, Access to Security and Justice Programme (ASJP), in Sierra Leone.
+summary: 'DAI''s UK offices recently held a fundraiser on behalf of [Street Child][1],
+  a charity focused primarily on achieving universal access to education. The charity
+  came to the attention of a DAI-led and U.K. Department for International Development-funded
+  programme, Access to Security and Justice Programme (ASJP), in Sierra Leone.
+
+'
 solutions:
 - Health
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's UK offices recently held a fundraiser on behalf of [Street Child][1], a charity focused primarily on achieving universal access to education. The charity came to the attention of a DAI-led and U.K. Department for International Development-funded programme, [Access to Security and Justice Programme][2] (ASJP), in Sierra Leone.
 
 Street Child is embarking on a"back-to-school surge"—accelerating a range of initiatives to maximise numbers of children in Sierra Leone and Liberia re-entering school as soon as they re-open.

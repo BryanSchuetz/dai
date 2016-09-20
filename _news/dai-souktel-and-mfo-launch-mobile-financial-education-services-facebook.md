@@ -1,15 +1,20 @@
 ---
-title: DAI, Souktel, and MFO Launch Mobile Financial Education Services with Facebook’s Internet.org
+title: DAI, Souktel, and MFO Launch Mobile Financial Education Services with Facebook’s
+  Internet.org
 date: 2015-02-11 18:05:00 Z
-summary: |
-  In low-income countries, good information about personal budgeting and saving is hard to find. Many people have limited schooling and little familiarity with financial institutions.
+summary: 'In low-income countries, good information about personal budgeting and saving
+  is hard to find. Many people have limited schooling and little familiarity with
+  financial institutions.
+
+'
 solutions:
 - Digital
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 In low-income countries, good information about personal budgeting and saving is hard to find. Many people have limited schooling and little familiarity with financial institutions. Financial education efforts at the local level—often constrained by inadequate staff resources and transportation challenges—tend to be one-time events accessible only to a small slice of the population. Getting the information you need at the moment you need it is nearly impossible.
 
 Online, on-demand resources have huge potential to address this problem. But with roughly two-thirds of the world not yet on the web, "last-mile" content delivery remains a challenge—even as data coverage is increasing.

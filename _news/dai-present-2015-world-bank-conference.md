@@ -1,15 +1,22 @@
 ---
 title: DAI to Present at 2015 World Bank Conference
 date: 2015-03-16 18:05:00 Z
-summary: |
-  DAI's Land Tenure and Property Rights team will make two presentations—one looking at the emerging trends and recent initiatives for improving land tenure in Africa and the second looking at how the Mozambican private sector, international investors, and donors are working to introduce more flexibility into land rights transfers—at the Annual World Bank Conference on Land and Poverty 2015, on March 23–27.
+summary: 'DAI''s Land Tenure and Property Rights team will make two presentations—one
+  looking at the emerging trends and recent initiatives for improving land tenure
+  in Africa and the second looking at how the Mozambican private sector, international
+  investors, and donors are working to introduce more flexibility into land rights
+  transfers—at the Annual World Bank Conference on Land and Poverty 2015, on March
+  23–27.
+
+'
 solutions:
 - Economic Growth
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's [Land Tenure and Property Rights][1] team will make two presentations—one looking at the emerging trends and recent initiatives for improving land tenure in Africa and the second looking at how the Mozambican private sector, international investors, and donors are working to introduce more flexibility into land rights transfers—at the Annual [World Bank Conference on Land and Poverty][2] 2015, on March 23–27.
 
 ![][3]
