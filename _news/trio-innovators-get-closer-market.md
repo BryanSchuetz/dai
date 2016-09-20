@@ -1,18 +1,18 @@
 ---
 title: A Trio of Innovators Get Closer to Market
 date: 2016-02-24 18:05:00 Z
-summary: 'DAI has developed considerable expertise in the disciplines required to
-  source and nurture good ideas and support the entrepreneurs and innovators who come
-  up with them so they can bring their innovations to market. We are currently drawing
+summary: DAI has developed considerable expertise in the disciplines required to source
+  and nurture good ideas and support the entrepreneurs and innovators who come up
+  with them so they can bring their innovations to market. We are currently drawing
   on this body of experience in the Innovation into Action Challenge, for example,
   a contest that awards prizes, field visits, and tailored mentoring and partnering
   opportunities for initiatives with the potential to make a difference in developing
-  and transitioning nations.'
+  and transitioning nations.
 solutions:
 - Digital
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
 

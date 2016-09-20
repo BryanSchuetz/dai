@@ -11,8 +11,8 @@ solutions:
 - Health
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
 
