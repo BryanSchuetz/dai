@@ -1,15 +1,15 @@
 ---
-title: "DAI’s Jim Winkler Highlights Higher Education and Workforce Development at
-  North America-Mongolia Business Council"
+title: DAI’s Jim Winkler Highlights Higher Education and Workforce Development at
+  North America-Mongolia Business Council
 date: 2015-04-21 18:05:00 Z
 summary: |
   As the rising youth population in Mongolia comes of age, the American University
   of Mongolia (AUM) can prepare them to contribute to their country's economic development while helping businesses—fueled by mining-related growth—to meet their urgent need for a trained workforce.
 solutions:
 - Economic Growth
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
 
