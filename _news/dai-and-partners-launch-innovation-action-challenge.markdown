@@ -8,8 +8,8 @@ summary: |
   in the lives of people in emerging and transitioning nations.
 solutions:
 - Digital
-regions:
-projects:
+regions: 
+projects: 
 clients:
 - U.S. Agency for International Development
 layout: node

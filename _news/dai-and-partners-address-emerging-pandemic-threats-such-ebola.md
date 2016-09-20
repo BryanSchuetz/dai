@@ -1,16 +1,21 @@
 ---
 title: DAI and Partners to Address Emerging Pandemic Threats such as Ebola
 date: 2014-12-11 18:05:00 Z
-summary: |
-  The U.S. Agency for International Development (USAID) has chosen DAI and three partners—Training Resources Group, The Futures Group, and the African Field Epidemiology Network—to implement a five-year program to help countries prepare for and respond to disease outbreaks.
+summary: 'The U.S. Agency for International Development (USAID) has chosen DAI and
+  three partners—Training Resources Group, The Futures Group, and the African Field
+  Epidemiology Network—to implement a five-year program to help countries prepare
+  for and respond to disease outbreaks.
+
+'
 solutions:
 - Health
 regions:
 - Sub-Saharan Africa
 projects: Worldwide—Preparedness and Response (P&R)
-clients:
+clients: 
 layout: node
 ---
+
 The U.S. Agency for International Development (USAID) has chosen DAI and three partners—Training Resources Group, The Futures Group, and the African Field Epidemiology Network—to implement a five-year program to help countries prepare for and respond to disease outbreaks.
 
 Focusing on 15 countries in Africa and Southeast Asia, the $44.3 million [Preparedness and Response (P&R)][1] project is part of USAID's Emerging Pandemic Threats (EPT-2) initiative to prevent, detect, and respond to viruses such as Ebola, avian influenza, and MERS-CoV that move between animal and human populations. EPT-2 is, in turn, part of the Obama Administration's Global Health Security Agenda, which brings together U.S. Government agencies and other national governments to increase capacities worldwide to prevent, detect and respond to infectious disease threats.

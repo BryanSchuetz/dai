@@ -7,9 +7,9 @@ summary: |
   of Mongolia (AUM) can prepare them to contribute to their country's economic development while helping businesses—fueled by mining-related growth—to meet their urgent need for a trained workforce.
 solutions:
 - Economic Growth
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
 
