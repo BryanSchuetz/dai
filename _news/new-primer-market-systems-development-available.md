@@ -9,9 +9,9 @@ summary: 'Bill Grant, DAI''s Global Practice Leader for Market Systems Developme
 solutions:
 - Economic Growth
 - Public Financial Management
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
 

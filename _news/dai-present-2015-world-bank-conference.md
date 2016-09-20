@@ -11,9 +11,9 @@ summary: 'DAI''s Land Tenure and Property Rights team will make two presentation
 '
 solutions:
 - Economic Growth
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
 
