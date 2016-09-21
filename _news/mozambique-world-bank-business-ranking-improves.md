@@ -1,17 +1,21 @@
 ---
 title: Mozambique’s World Bank Business Ranking Improves
 date: 2013-11-11 18:05:00 Z
-summary: |
-  Mozambique, which has historically struggled with the process of issuing construction permits, jumped 46 places on the construction permit indicator in the recently released World Bank _Doing Business 2014_ report.
+summary: 'Mozambique, which has historically struggled with the process of issuing
+  construction permits, jumped 46 places on the construction permit indicator in the
+  recently released World Bank _Doing Business 2014_ report.
+
+'
 solutions:
 - Economic Growth
 - Public Financial Management
 regions:
 - Sub-Saharan Africa
 projects: Mozambique—Support Program for Economic and Enterprise Development (SPEED)
-clients:
+clients: 
 layout: node
 ---
+
 Mozambique, which has historically struggled with the process of issuing construction permits, jumped 46 places on the construction permit indicator in the recently released World Bank _Doing Business 2014_ report.
 
 The vast improvement in the country's process for issuing construction permits helped move the country overall to 139th from 146th in the most recent rankings. The rankings comprise 11 indicators that measure such things as a country's business regulations, property rights, tax burdens, access to credit, and the cost of exporting and importing.

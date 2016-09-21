@@ -1,8 +1,11 @@
 ---
 title: DAI-Managed Programme Highlighted in Official EU Communication
 date: 2014-09-17 18:05:00 Z
-summary: |
-  The European Commission (EC) recently published its Communication on Private Sector Development (PSD) under the Agenda for Change framework, which sets out the EU Development Policy.
+summary: 'The European Commission (EC) recently published its Communication on Private
+  Sector Development (PSD) under the Agenda for Change framework, which sets out the
+  EU Development Policy.
+
+'
 solutions:
 - Economic Growth
 - Public Financial Management
@@ -11,9 +14,10 @@ regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean
 projects: African, Caribbean and Pacific–European Union Microfinance Programme
-clients:
+clients: 
 layout: node
 ---
+
 The European Commission (EC) recently published its Communication on Private Sector Development (PSD) under the Agenda for Change framework, which sets out the EU Development Policy. This paper, circulated to the European Union's consultative and legislative bodies, defines the role of PSD and framework for PSD programming in the next policy.
 
 The Communication is the result of a participative review and analysis process involving EC stakeholders in Brussels and delegations from around the world. It advocates for a stronger role of the private sector in achieving inclusive and sustainable growth, one of two key focus areas of the Agenda for Change.

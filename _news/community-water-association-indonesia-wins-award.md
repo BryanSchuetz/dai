@@ -1,17 +1,22 @@
 ---
 title: Community Water Association in Indonesia Wins Award
 date: 2013-10-31 18:05:00 Z
-summary: |
-  The Community Association of Drinking Water and Sanitation Users in the Lamongan District of Indonesia was chosen as one of 12 winners of the Drinking Water and Environmental Health Award from the National Working Group on Drinking Water and Sanitation.
+summary: 'The Community Association of Drinking Water and Sanitation Users in the
+  Lamongan District of Indonesia was chosen as one of 12 winners of the Drinking Water
+  and Environmental Health Award from the National Working Group on Drinking Water
+  and Sanitation.
+
+'
 solutions:
 - Environment and Energy
 - Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH)
-clients:
+clients: 
 layout: node
 ---
+
 The Community Association of Drinking Water and Sanitation Users in the Lamongan District of Indonesia was chosen as one of 12 winners of the Drinking Water and Environmental Health Award from the National Working Group on Drinking Water and Sanitation.
 
 ![][1]

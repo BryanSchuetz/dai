@@ -1,17 +1,21 @@
 ---
 title: DAI Hosts Fellow from President Obama’s Mandela Washington Fellowship
 date: 2014-06-28 18:05:00 Z
-summary: |
-  DAI is delighted to welcome Zainab Ferrah Conteh as part of the Mandela Washington Fellowship for Young African Leaders. Zainab will work through September with DAI's Africa Region team.
+summary: 'DAI is delighted to welcome Zainab Ferrah Conteh as part of the Mandela
+  Washington Fellowship for Young African Leaders. Zainab will work through September
+  with DAI''s Africa Region team.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 regions:
 - Sub-Saharan Africa
 projects: Africa—Africa Lead II
-clients:
+clients: 
 layout: node
 ---
+
 DAI is delighted to welcome Zainab Ferrah Conteh as part of the Mandela Washington Fellowship for Young African Leaders. Zainab will work through September with DAI's Africa Region team.
 
 ![][1]{:.float-left}The Mandela Washington Fellowship is the new flagship program of President Obama's Young African Leaders Initiative (YALI). President Obama launched YALI in 2010 to support young leaders who are working to spur growth and prosperity, strengthen democratic governance, and enhance peace and security.

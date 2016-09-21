@@ -1,15 +1,19 @@
 ---
 title: DFID Permanent Secretary Visits Women Entrepreneurs in Ethiopia
 date: 2013-12-17 18:05:00 Z
-summary: |
-  U.K. Department of International Development (DFID) Permanent Secretary Mark Lowcock recently met with women entrepreneurs who are part of a DFID-funded project to boost lending to small and women-owned firms in Ethiopia.
-solutions:
+summary: 'U.K. Department of International Development (DFID) Permanent Secretary
+  Mark Lowcock recently met with women entrepreneurs who are part of a DFID-funded
+  project to boost lending to small and women-owned firms in Ethiopia.
+
+'
+solutions: 
 regions:
 - Sub-Saharan Africa
 projects: Ethiopia—Private Enterprise Programme Ethiopia (PEPE)
-clients:
+clients: 
 layout: node
 ---
+
 U.K. Department of International Development (DFID) Permanent Secretary Mark Lowcock recently met with women entrepreneurs who are part of a DFID-funded project to boost lending to small and women-owned firms in Ethiopia. The project—called [Private Enterprise Programme Ethiopia (PEPE)][1]—works through microfinance institutions so they can make more financial products available to micro, small, and medium-sized enterprises.
 
 While visiting a market in Addis Ababa with the project team, Lowcock met with Elsa Yergalem, one of the project's potential beneficiaries. Yergalem, a grocer, already rents out a stall at the market but wants to expand her operation. Though her business has been successful, she has no collateral to offer a microfinance institution in order to secure an individual loan.

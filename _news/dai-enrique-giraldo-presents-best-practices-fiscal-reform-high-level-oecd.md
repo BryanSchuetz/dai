@@ -1,17 +1,25 @@
 ---
-title: DAI’s Enrique Giraldo Presents Best Practices in Fiscal Reform at High-Level OECD Events
+title: DAI’s Enrique Giraldo Presents Best Practices in Fiscal Reform at High-Level
+  OECD Events
 date: 2014-12-09 18:05:00 Z
-summary: |
-  Since the passage of El Salvador's Access to Public Information Law in 2011, DAI has assisted that government to promote fiscal transparency initiatives including a public-private sector agreement on fiscal transparency policy, adopting International Public Sector Accounting Standards, upgrading the Government Financial Management Information System, implementing an e-procurement system, and launching a revamped Fiscal Transparency Portal.
+summary: 'Since the passage of El Salvador''s Access to Public Information Law in
+  2011, DAI has assisted that government to promote fiscal transparency initiatives
+  including a public-private sector agreement on fiscal transparency policy, adopting
+  International Public Sector Accounting Standards, upgrading the Government Financial
+  Management Information System, implementing an e-procurement system, and launching
+  a revamped Fiscal Transparency Portal.
+
+'
 solutions:
 - Public Financial Management
 - Governance
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Since the passage of El Salvador's Access to Public Information Law in 2011, DAI has assisted that government to promote fiscal transparency initiatives including a public-private sector agreement on fiscal transparency policy, adopting International Public Sector Accounting Standards, upgrading the Government Financial Management Information System, implementing an e-procurement system, and launching a revamped Fiscal Transparency [Portal][1].
 
 These initiatives and more are what DAI's [Enrique Giraldo][2] will share at two upcoming events hosted by the Organisation for Economic Cooperation and Development (OECD): The Symposium on Anti-Corruption Development Assistance: Good Practices among Providers of Development Cooperation, and a meeting of Task Force on Tax and Development. Both events will take place in Paris on December 11 and 12.

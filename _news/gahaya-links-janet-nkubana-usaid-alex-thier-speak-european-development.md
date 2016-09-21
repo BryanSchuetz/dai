@@ -1,14 +1,21 @@
 ---
-title: Gahaya Links’ Janet Nkubana, USAID’s Alex Thier to Speak on European Development Days Gender Panel
+title: Gahaya Links’ Janet Nkubana, USAID’s Alex Thier to Speak on European Development
+  Days Gender Panel
 date: 2013-11-14 18:05:00 Z
-summary: |
-  Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be one of four speakers at the upcoming European Development Days conference, November 26–27. She will be part of a DAI-sponsored innovation lab addressing women's economic empowerment called "Harnessing public private partnerships to connect women's businesses to international supply chains."
-solutions:
-regions:
-projects:
-clients:
+summary: 'Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be one
+  of four speakers at the upcoming European Development Days conference, November
+  26–27. She will be part of a DAI-sponsored innovation lab addressing women''s economic
+  empowerment called "Harnessing public private partnerships to connect women''s businesses
+  to international supply chains."
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 ![][1]{:.float-left}Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be one of four speakers at the upcoming European Development Days conference, November 26–27. She will be part of a DAI-sponsored innovation lab addressing women's economic empowerment called "Harnessing public private partnerships to connect women's businesses to international supply chains." This lab includes [Alex Thier][2], the Assistant to the Administrator for Policy, Planning, and Learning at the U.S. Agency for International Development (USAID), and DAI's [Anne Simmons-Benton][3] and [Katja Silva-Leander][4].
 
 Gahaya Links' story of how as a small business in Rwanda it has been able to reach the international marketplace with the assistance of a donor project is inspirational.

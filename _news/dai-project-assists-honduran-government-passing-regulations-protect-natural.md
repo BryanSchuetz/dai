@@ -1,16 +1,22 @@
 ---
-title: DAI Project Assists Honduran Government in Passing Regulations to Protect Natural Areas
+title: DAI Project Assists Honduran Government in Passing Regulations to Protect Natural
+  Areas
 date: 2013-11-20 18:05:00 Z
-summary: |
-  The government of Honduras has passed laws that will allow the private sector to invest in infrastructure and visitor services in the country's underfunded national parks, enabling the development of tourism concessions in these spectacular but unfrequented protected natural areas.
+summary: 'The government of Honduras has passed laws that will allow the private sector
+  to invest in infrastructure and visitor services in the country''s underfunded national
+  parks, enabling the development of tourism concessions in these spectacular but
+  unfrequented protected natural areas.
+
+'
 solutions:
 - Environment and Energy
 regions:
 - Latin America and the Caribbean
 projects: Honduras—ProParque
-clients:
+clients: 
 layout: node
 ---
+
 The government of Honduras has passed laws that will allow the private sector to invest in infrastructure and visitor services in the country's underfunded national parks, enabling the development of tourism concessions in these spectacular but unfrequented protected natural areas.
 
 These regulations define the terms for the establishment of tourism-related services such as restaurants, lodging, shops, and activity vendors, as well as for supporting infrastructure such as roads, trails, and water and sanitation systems, in line with the government's goal to generate more revenue to be used toward the conservation of these areas.

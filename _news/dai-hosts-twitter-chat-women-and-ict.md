@@ -1,16 +1,19 @@
 ---
 title: DAI Hosts Twitter Chat on Women and ICT
 date: 2014-03-18 18:05:00 Z
-summary: |
-  As part of a month-long Devex campaign on the contributions of women and girls in developing countries, DAI hosted a live Twitter chat this week.
+summary: 'As part of a month-long Devex campaign on the contributions of women and
+  girls in developing countries, DAI hosted a live Twitter chat this week.
+
+'
 solutions:
 - Gender
 - Digital
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 As part of a month-long Devex campaign on the contributions of women and girls in developing countries, DAI hosted a live Twitter chat this week.
 
 With a stable of nine panelists with experience in mobile technology, gender mainstreaming, health care, trade, and governance—our chat focused on how women and development programs can leverage information and communications technology (ICT) to support economic empowerment (mobile banking, access to markets and employment), social empowerment (access to information, reporting and monitoring tools), and physical empowerment (mobile health).

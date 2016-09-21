@@ -1,15 +1,20 @@
 ---
 title: New Issue of DAI Journal Focuses on Resilience
 date: 2013-12-09 18:05:00 Z
-summary: |
-  On November 7, typhoon Haiyan tore through the central Philippines. The latest in a series of high-profile disasters and increasingly severe weather events, Haiyan has drawn relief and development practitioners' attention once again to the concept of resilience.
-solutions:
+summary: 'On November 7, typhoon Haiyan tore through the central Philippines. The
+  latest in a series of high-profile disasters and increasingly severe weather events,
+  Haiyan has drawn relief and development practitioners'' attention once again to
+  the concept of resilience.
+
+'
+solutions: 
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 On November 7, typhoon Haiyan tore through the central Philippines. The latest in a series of high-profile disasters and increasingly severe weather events, Haiyan has drawn relief and development practitioners' attention once again to the concept of resilience.
 
 But the resilience agenda is about much more than just disaster recovery and preparedness. Resilience programming, properly considered, involves enabling vulnerable people, households, communities, and nations to become more robust and adaptable in the face of diverse sources of stress and crisis. And as DAI's Del McCluskey makes clear in his recent article on how to "build back better" after Haiyan, effective programming for long-term resilience in the Philippines—as elsewhere—crosses sectoral and disciplinary boundaries and bridges the divide between relief and development in a way that calls for an integrated approach.

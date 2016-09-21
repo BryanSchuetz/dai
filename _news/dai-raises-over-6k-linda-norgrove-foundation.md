@@ -1,14 +1,20 @@
 ---
 title: DAI Raises Over $6k for the Linda Norgrove Foundation
 date: 2014-10-07 18:05:00 Z
-summary: |
-  DAI hosted three events last week to raise funds for the Linda Norgrove Foundation, a grant-giving trust that provides funding for women, families, and children in Afghanistan, focusing on education, health, childcare, and scholarships to help Afghan women go to university.
-solutions:
-regions:
-projects: Afghanistan—Incentives Driving Economic Alternatives for the North, East and West (IDEA-NEW)
-clients:
+summary: 'DAI hosted three events last week to raise funds for the Linda Norgrove
+  Foundation, a grant-giving trust that provides funding for women, families, and
+  children in Afghanistan, focusing on education, health, childcare, and scholarships
+  to help Afghan women go to university.
+
+'
+solutions: 
+regions: 
+projects: Afghanistan—Incentives Driving Economic Alternatives for the North, East
+  and West (IDEA-NEW)
+clients: 
 layout: node
 ---
+
 DAI hosted three events last week to raise funds for the Linda Norgrove Foundation, a grant-giving trust that provides funding for women, families, and children in Afghanistan, focusing on education, health, childcare, and scholarships to help Afghan women go to university.
 
 The events—a Happy Hour, Workout Wear Friday, and our annual 5k Run/Walk—raised a total of $6,414, a nearly 45 percent increase above last year's total.

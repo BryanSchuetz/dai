@@ -1,16 +1,21 @@
 ---
 title: DAI Participates in USAID Frontiers in Development Forum
 date: 2014-09-15 18:05:00 Z
-summary: |
-  When the U.S. Agency for International Development's Frontiers in Development Forum kicked off September 18 in Washington, D.C., a DAI team was there to help address the forum's driving question—"_How will we eradicate extreme poverty by 2030?"_
+summary: 'When the U.S. Agency for International Development''s Frontiers in Development
+  Forum kicked off September 18 in Washington, D.C., a DAI team was there to help
+  address the forum''s driving question—"_How will we eradicate extreme poverty by
+  2030?"_
+
+'
 solutions:
 - Digital
 - Innovation and Entrepreneurship
-regions:
-projects:
+regions: 
+projects: 
 clients: U.S. Agency for International Development
 layout: node
 ---
+
 When the U.S. Agency for International Development's Frontiers in Development Forum kicked off September 18 in Washington, D.C., a DAI team was there to help address the forum's driving question—"_How will we eradicate extreme poverty by 2030?"_
 
 A follow-on to the inaugural 2012 forum, [Frontiers][1] convened some of the brightest minds and boldest leaders on ending extreme poverty and laying the groundwork for a broad coalition of committed partners. This major event featured global leaders such as U.S. Secretary of State John Kerry and included two days of discussions, high-profile talks, and interactive panels. There was also an Innovation Marketplace as well as numerous concurrent focus sessions.

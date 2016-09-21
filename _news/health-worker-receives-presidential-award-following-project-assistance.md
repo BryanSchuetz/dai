@@ -1,17 +1,21 @@
 ---
 title: Health Worker Receives Presidential Award Following Project Assistance
 date: 2014-10-13 18:05:00 Z
-summary: |
-  While improving local sanitation conditions is a difficult job with often little reward, such was not the case for Pak Mulyadi, a health worker from the Kedaung Barat Health Center in Tangerang District, Indonesia.
+summary: 'While improving local sanitation conditions is a difficult job with often
+  little reward, such was not the case for Pak Mulyadi, a health worker from the Kedaung
+  Barat Health Center in Tangerang District, Indonesia.
+
+'
 solutions:
 - Health
 - Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 While improving local sanitation conditions is a difficult job with often little reward, such was not the case for Pak Mulyadi, a health worker from the Kedaung Barat Health Center in Tangerang District, Indonesia. Working as a sanitarian for the local health department, Mulyadi received training and support from the [U.S. Agency for International Development's Indonesia Urban Water, Sanitation and Hygiene (IUWASH) project][1] on how to best promote sanitation improvement in the local community of Damprit Village where his health center is based. He has since overseen programs which have led to about 80 percent of the households building safe latrine systems. For his efforts, Mulyadi was recently honored with a Presidential Award for being a "National Exemplary Health Worker."
 
 ![][2]{:.float-left}Previously referred to locally by the derogatory nickname "Feces Village" due to the widespread acceptance of open defecation, Damprit was considered a significant health risk. When an opportunity to change the mindset of its inhabitants opened up with the arrival of the USAID/IUWASH project, Mulyadi seized it. Drawn to the area by its high prevalence of sanitation-related disease, USAID/IUWASH organized training to promote sanitation and entrepreneurship, and what seemed an impossible task started to come within reach.

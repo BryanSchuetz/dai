@@ -1,8 +1,12 @@
 ---
 title: DAI Helps Lead African Trade Discussion at SID-Washington Event
 date: 2014-08-01 18:05:00 Z
-summary: |
-  With multibillion-dollar transportation projects under way, including for a railway connecting Mombasa to Nairobi and eventually Uganda, Rwanda, Burundi, and Southern Sudan, Kenya's rapid development is setting the pace for many other African countries.
+summary: 'With multibillion-dollar transportation projects under way, including for
+  a railway connecting Mombasa to Nairobi and eventually Uganda, Rwanda, Burundi,
+  and Southern Sudan, Kenya''s rapid development is setting the pace for many other
+  African countries.
+
+'
 solutions:
 - Economic Growth
 - Agriculture and Food Security
@@ -10,10 +14,11 @@ regions:
 - Sub-Saharan Africa
 projects:
 - Africa—Africa Lead II
-- Kenya—Financial Inclusion for Rural Microenterprises (FIRM)  
-clients:
+- Kenya—Financial Inclusion for Rural Microenterprises (FIRM)
+clients: 
 layout: node
 ---
+
 With multibillion-dollar transportation projects under way, including for a railway connecting Mombasa to Nairobi and eventually Uganda, Rwanda, Burundi, and Southern Sudan, Kenya's rapid development is setting the pace for many other African countries. Its recent discoveries of oil, natural gas, and fresh water—which could greatly expand Kenya's arable land for agriculture—present significant opportunities.
 
 "Kenya and the African continent are industrializing rapidly, but only so many of its citizens can benefit from the fruits of this growth—with populations growing so rapidly, this becomes even more of a concern," said DAI's [Mark Rostal][1], Chief of Party of the U.S. Agency for International Development (USAID) [Financial Inclusion for Rural Microenterprises][2] project in Kenya.

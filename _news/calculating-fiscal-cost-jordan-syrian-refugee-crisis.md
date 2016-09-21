@@ -1,18 +1,25 @@
 ---
 title: Calculating the Fiscal Cost to Jordan of the Syrian Refugee Crisis
 date: 2014-06-20 18:05:00 Z
-summary: |
-  Since 2011, the Syrian conflict has killed more than 100,000 people and destroyed countless homes and businesses, forcing Syrians by the thousands to seek refuge in the region. Jordan generously opened its borders to these refugees, who settled in camps established by the United Nations and in northern cities such as Irbid, Ramtha, and Mafraq, resulting in a rapid, nearly 10 percent increase in the population.
+summary: 'Since 2011, the Syrian conflict has killed more than 100,000 people and
+  destroyed countless homes and businesses, forcing Syrians by the thousands to seek
+  refuge in the region. Jordan generously opened its borders to these refugees, who
+  settled in camps established by the United Nations and in northern cities such as
+  Irbid, Ramtha, and Mafraq, resulting in a rapid, nearly 10 percent increase in the
+  population.
+
+'
 solutions:
 - Stability
 - Economic Growth
 - Public Financial Management
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Since 2011, the Syrian conflict has killed more than 100,000 people and destroyed countless homes and businesses, forcing Syrians by the thousands to seek refuge in the region. Jordan generously opened its borders to these refugees, who settled in camps established by the United Nations and in northern cities such as Irbid, Ramtha, and Mafraq, resulting in a rapid, nearly 10 percent increase in the population.
 
 Refugees are crowding schools and health facilities, water and waste services are near capacity, and Jordanians are competing with Syrians in the workplace. A resource-poor country, Jordan is now footing the bill for its humanitarian role. But how much is that bill? It's an especially pertinent question to ponder today, as June 20 is World Refugee Day.

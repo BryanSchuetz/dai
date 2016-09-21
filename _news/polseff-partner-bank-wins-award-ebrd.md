@@ -1,8 +1,13 @@
 ---
 title: PolSEFF Partner Bank Wins Award from EBRD
 date: 2014-05-23 18:05:00 Z
-summary: |
-  BNP Paribas Bank Polska—a partner bank of the DAI-implemented [Polish Sustainable Energy Financing Facility (PolSEFF)](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff) program—won the EBRD 2014 Sustainability Energy and Climate Change Award for achievements in supporting small and medium enterprises in their initiatives to increase energy efficiency and apply energy from renewable sources.
+summary: 'BNP Paribas Bank Polska—a partner bank of the DAI-implemented [Polish Sustainable
+  Energy Financing Facility (PolSEFF)](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)
+  program—won the EBRD 2014 Sustainability Energy and Climate Change Award for achievements
+  in supporting small and medium enterprises in their initiatives to increase energy
+  efficiency and apply energy from renewable sources.
+
+'
 solutions:
 - Economic Growth
 - Environment and Energy
@@ -10,10 +15,11 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 BNP Paribas Bank Polska—a partner bank of the DAI-implemented [Polish Sustainable Energy Financing Facility (PolSEFF)][1] program—won the EBRD 2014 Sustainability Energy and Climate Change Award for achievements in supporting small and medium enterprises in their initiatives to increase energy efficiency and apply energy from renewable sources.
 
 ![][2]

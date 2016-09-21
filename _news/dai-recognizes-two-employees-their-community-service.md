@@ -1,17 +1,22 @@
 ---
 title: DAI Recognizes Two Employees for their Community Service
 date: 2013-12-12 18:05:00 Z
-summary: |
-  Two DAI employees will receive the company's inaugural David H. Gunning Award for Community Service in 2013. Mubarak Abdi and Vikki Groves will each receive $5,000 for donation to their respective social service organizations—the Somaliland National Youth Organization (SONYO) and Kings World Trust for Children.
+summary: 'Two DAI employees will receive the company''s inaugural David H. Gunning
+  Award for Community Service in 2013. Mubarak Abdi and Vikki Groves will each receive
+  $5,000 for donation to their respective social service organizations—the Somaliland
+  National Youth Organization (SONYO) and Kings World Trust for Children.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 regions:
 - Sub-Saharan Africa
 projects: Somalia—Partnership for Economic Growth
-clients:
+clients: 
 layout: node
 ---
+
 Two DAI employees will receive the company's inaugural David H. Gunning Award for Community Service in 2013. Mubarak Abdi and Vikki Groves will each receive $5,000 for donation to their respective social service organizations—the Somaliland National Youth Organization (SONYO) and Kings World Trust for Children.
 
 "Both Mubarak and Vikki embody the volunteer ethos we sought to recognize through the Gunning Award," said DAI Senior Vice President Jean Gilson. "We are delighted to support their work and to celebrate their example."

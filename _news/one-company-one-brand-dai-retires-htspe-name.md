@@ -1,14 +1,18 @@
 ---
 title: 'One Company, One Brand: DAI Retires HTSPE Name'
 date: 2014-07-31 18:05:00 Z
-summary: |
-  Some seven months after the combination of DAI and HTSPE Ltd., DAI today announced that the HTSPE brand will be retired and the firm will begin doing business as DAI, effective July 31, 2014.
-solutions:
-regions:
-projects:
-clients:
+summary: 'Some seven months after the combination of DAI and HTSPE Ltd., DAI today
+  announced that the HTSPE brand will be retired and the firm will begin doing business
+  as DAI, effective July 31, 2014.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 ![DAI Logo][1]{:.float-left}Some seven months after the combination of DAI and HTSPE Ltd., DAI today announced that the HTSPE brand will be retired and the firm will begin doing business as DAI, effective July 31, 2014.
 
 "We are delighted with the progress of our integration," said [Christopher Lockett][2], a 10-year veteran of HTSPE who was recently named to lead the combined entity as Managing Director of DAI Europe and Senior Vice President of DAI, responsible for all of DAI's operations in Europe. "I am confident that the marriage of DAI's technical creativity and HTSPE's proven programme management expertise will yield powerful synergies for our clients."

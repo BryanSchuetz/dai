@@ -1,14 +1,17 @@
 ---
 title: DAI’s Jean Gilson Appointed to SID Global Leadership Post
 date: 2014-06-05 18:05:00 Z
-summary: |
-  [Jean Gilson](/who-we-are/leadership/jean-gilson), DAI's Senior Vice President for Strategy and Information Technology, has been appointed to serve as Vice President on the Executive Committee of the Society for International Development, the umbrella group of which SID-Washington is a leading member.
-solutions:
-regions:
-projects:
-clients:
+summary: "[Jean Gilson](/who-we-are/leadership/jean-gilson), DAI's Senior Vice President
+  for Strategy and Information Technology, has been appointed to serve as Vice President
+  on the Executive Committee of the Society for International Development, the umbrella
+  group of which SID-Washington is a leading member.\n"
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 [Jean Gilson][1], DAI's Senior Vice President for Strategy and Information Technology, has been appointed to serve as Vice President on the Executive Committee of the Society for International Development, the umbrella group of which SID-Washington is a leading member. SID has three offices—in Dar es-Salaam, Nairobi, and Rome—and local chapters in more than 50 countries. Jean will be the only U.S. representative on the Executive Committee.
 
 ![][2]{:.float-left}"SID could not have a more impeccable and distinguished individual as Jean Gilson joining the organization at a pivotal moment when SID is reviewing its relevance and scope of roles in a fast-changing global development scene," said SID President Juma Mwapachu, citing her "broad work experience involving diverse international development roles in developing country environments."

@@ -1,14 +1,19 @@
 ---
-title: 'At SID Conference, DAI Leads Discussion on New Models of Innovation and Collaboration'
+title: At SID Conference, DAI Leads Discussion on New Models of Innovation and Collaboration
 date: 2014-05-23 18:05:00 Z
-summary: |
-  For private sector firms, filling market gaps in developing nations can be good business. Over the past couple of decades, accordingly, private resource flows to developing nations have risen exponentially, far outpacing official development assistance.
-solutions:
-regions:
-projects:
-clients:
+summary: 'For private sector firms, filling market gaps in developing nations can
+  be good business. Over the past couple of decades, accordingly, private resource
+  flows to developing nations have risen exponentially, far outpacing official development
+  assistance.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 For private sector firms, filling market gaps in developing nations can be good business. Over the past couple of decades, accordingly, private resource flows to developing nations have risen exponentially, far outpacing official development assistance. This illustrates the growing potential influence of the private sector over development versus traditional donor organizations, as private companies increasingly see the need for broader social and economic development as a precondition for long-term success in these markets.
 
 ![][1]{:.float-left}As a result, there is a growing affinity between international development donors—that want to leverage the tools, technology, networks, resources, and expertise that private enterprise brings to the table—and private actors, who increasingly see benefits in working with partners adept at working with communities and governments in emerging economies.

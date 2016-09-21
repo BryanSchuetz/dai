@@ -1,14 +1,16 @@
 ---
 title: Summer 2014 Issue of Developments Now Available
 date: 2014-08-07 18:05:00 Z
-summary: |
-  The Summer 2014 issue of DAI's _Developments_ newsletter is now available.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Summer 2014 issue of DAI''s _Developments_ newsletter is now available.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The Summer 2014 issue of DAI's _Developments_ newsletter is now available.
 
 Leading off, Kanwal Manzoor and Sereena Nizam describe [work in Pakistan][1]—spearheaded by five of the country's top civil society groups—that is helping thousands to more effectively demand services such as decent schools and health facilities. Operating in hundreds of communities, the AAWAZ Voice and Accountability Programme is also bringing long-missing attention to the concerns of Pakistani children, religious minorities, the poor, elderly, and disabled.

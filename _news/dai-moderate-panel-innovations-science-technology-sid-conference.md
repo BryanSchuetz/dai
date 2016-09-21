@@ -1,14 +1,19 @@
 ---
 title: DAI to Moderate Panel on Innovations in Science & Technology at SID Conference
 date: 2014-05-14 18:05:00 Z
-summary: |
-  DAI will join more than 600 development professionals on May 20 at the Society for International Development (SID)-Washington 2014 Annual Conference. The event will feature a keynote address by U.S. Agency for International Development (USAID) Administrator Rajiv Shah.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI will join more than 600 development professionals on May 20 at the Society
+  for International Development (SID)-Washington 2014 Annual Conference. The event
+  will feature a keynote address by U.S. Agency for International Development (USAID)
+  Administrator Rajiv Shah.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI will join more than 600 development professionals on May 20 at the [Society for International Development (SID)-Washington 2014 Annual Conference][1]. The event will feature a keynote address by U.S. Agency for International Development (USAID) Administrator Rajiv Shah.
 
 [Kristi Ragan][2], Chief of Party of the USAID [Grand Challenges for Development][3], will lead the plenary on _Collaborating to Scale Innovations in Science & Technology: Development, Donors and the Private Sector _at 9:15 am_._ Participants on the panel include Cathy Clark, Director of CASE i3 and SEAD at Duke University, April DuBois, Vice President of International Development at MasterCard Corporation, and John R. Wille, Lead Private Sector Development Specialist of the Investment Climate Department at the World Bank Group.

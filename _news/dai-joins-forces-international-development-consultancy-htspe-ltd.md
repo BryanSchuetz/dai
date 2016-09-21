@@ -1,14 +1,18 @@
 ---
 title: DAI Joins Forces with International Development Consultancy, HTSPE Ltd.
 date: 2013-12-31 18:05:00 Z
-summary: |
-  HTSPE Ltd. has agreed to join forces with DAI, a global development company with corporate headquarters in London and Washington and project operations in 70 countries worldwide.
-solutions:
-regions:
-projects:
-clients:
+summary: 'HTSPE Ltd. has agreed to join forces with DAI, a global development company
+  with corporate headquarters in London and Washington and project operations in 70
+  countries worldwide.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 _Combined entity offers enhanced capabilities and greater value for money to European development clients_
 
 [HTSPE Ltd.][1] has agreed to join forces with DAI, a global development company with corporate headquarters in London and Washington and project operations in 70 countries worldwide.

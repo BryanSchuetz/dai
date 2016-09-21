@@ -1,14 +1,19 @@
 ---
 title: Elizabeth Nelson Appointed Chair of DAI Board of Directors
 date: 2014-05-22 18:05:00 Z
-summary: |
-  DAI is delighted to announce the appointment of [Elizabeth (Betsey) Nelson]/who-we-are/board/elizabeth-nelson() as Chair of DAI's Board of Directors. She succeeds outgoing chair Jim Boomgard, DAI's President and Chief Executive Officer, who had led the Board on an interim basis since the retirement of longtime chair David Gunning in May 2013.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to announce the appointment of [Elizabeth (Betsey) Nelson]/who-we-are/board/elizabeth-nelson()
+  as Chair of DAI''s Board of Directors. She succeeds outgoing chair Jim Boomgard,
+  DAI''s President and Chief Executive Officer, who had led the Board on an interim
+  basis since the retirement of longtime chair David Gunning in May 2013.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce the appointment of [Elizabeth (Betsey) Nelson][1] as Chair of DAI's Board of Directors. She succeeds outgoing chair Jim Boomgard, DAI's President and Chief Executive Officer, who had led the Board on an interim basis since the [retirement][2] of longtime chair David Gunning in May 2013.
 
 ![Betsey Nelson][3]{:.float-left}Elected at last week's quarterly Board of Directors meeting in Bethesda, Maryland, Betsey made it her first act as chair to refer the Board to the company's [core values][4]. "I am delighted and proud to assume this leadership role in a company so committed to its dual social and business mission," she said.

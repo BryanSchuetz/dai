@@ -1,14 +1,16 @@
 ---
 title: Winter 2013-2014 Issue of Developments is Available Online
 date: 2014-02-28 18:05:00 Z
-summary: |
-  The Winter 2013-2014 issue of DAI's _Developments_ newsletter is now available.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Winter 2013-2014 issue of DAI''s _Developments_ newsletter is now available.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Leading off, development practitioner [Zaki Raheem][1] describes how hundreds of entrepreneurs in Somaliland answered a call for business plans with proposals to fill major gaps in the economy. Many are now implementing their ideas with help from matching grants from the [Partnership Fund][2], part of the U.S. Agency for International Development project, Partnership for Economic Growth, being implemented by DAI.
 
 Other stories include:

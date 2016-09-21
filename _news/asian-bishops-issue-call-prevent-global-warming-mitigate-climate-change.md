@@ -1,8 +1,11 @@
 ---
-title: 'Asian Bishops Issue Call to Prevent Global Warming, Mitigate Climate Change'
+title: Asian Bishops Issue Call to Prevent Global Warming, Mitigate Climate Change
 date: 2014-07-24 18:05:00 Z
-summary: |
-  Calling it their spiritual obligation to "safeguard the integrity of creation," the Federation of Asian Bishops' Conferences (FABC) is asking church members to take action to prevent global warming and mitigate the effects of climate change.
+summary: 'Calling it their spiritual obligation to "safeguard the integrity of creation,"
+  the Federation of Asian Bishops'' Conferences (FABC) is asking church members to
+  take action to prevent global warming and mitigate the effects of climate change.
+
+'
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
@@ -11,9 +14,10 @@ regions:
 projects:
 - South Pacific Islands—Coastal Community Adaptation Project (C-CAP)
 - Southeast Asia—Mekong Adaptation and Resilience to Climate Change (ARCC)
-clients:
+clients: 
 layout: node
 ---
+
 Calling it their spiritual obligation to "safeguard the integrity of creation," the Federation of Asian Bishops' Conferences (FABC) is asking church members to take action to prevent global warming and mitigate the effects of climate change.
 
 In a paper summarizing their October 2013 conference in Bangkok, Thailand, bishops representing 18 countries in Southeast Asia underscored "the human responsibility for human-induced changes in the climate," calling it a matter of intergenerational justice. "To hand over a planet that is not livable to the next generation is an injustice," according to "[FABC Paper No. 140: Climate Change, Asian Impacts and Response][1]."

@@ -1,14 +1,20 @@
 ---
 title: DAI CEO Jim Boomgard Named to Advisory Committee on Voluntary Foreign Aid
 date: 2014-02-05 18:05:00 Z
-summary: |
-  DAI President and CEO Jim Boomgard has been appointed to serve a two-year term on the United States' Advisory Committee on Voluntary Foreign Aid (ACVFA). The committee consists of leaders in the international development community who advise the Administrator of the U.S. Agency for International Development (USAID) and other U.S. Government agencies on development policy.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI President and CEO Jim Boomgard has been appointed to serve a two-year
+  term on the United States'' Advisory Committee on Voluntary Foreign Aid (ACVFA).
+  The committee consists of leaders in the international development community who
+  advise the Administrator of the U.S. Agency for International Development (USAID)
+  and other U.S. Government agencies on development policy.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI President and CEO [Jim Boomgard][1] has been appointed to serve a two-year term on the United States' Advisory Committee on Voluntary Foreign Aid (ACVFA). The committee consists of leaders in the international development community who advise the Administrator of the U.S. Agency for International Development (USAID) and other U.S. Government agencies on development policy.
 
 "I am honored by this appointment," said Dr. Boomgard, who was also [recently named][2] chair of the Council of International Development Companies. "I look forward to working with the administration and the other members of ACVFA to help advance USAID's critical development mission."

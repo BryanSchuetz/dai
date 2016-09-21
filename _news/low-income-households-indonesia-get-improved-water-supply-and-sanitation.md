@@ -1,17 +1,22 @@
 ---
-title: 'Low-Income Households in Indonesia Get Improved Water Supply and Sanitation Facilities'
+title: Low-Income Households in Indonesia Get Improved Water Supply and Sanitation
+  Facilities
 date: 2014-05-19 18:05:00 Z
-summary: |
-  U.S. Ambassador Robert O. Blake Jr. accompanied by the Mayor of Surakarta, Indonesia, recently inaugurated new water supply and sanitation facilities in the neighborhood of Semanggi.
+summary: 'U.S. Ambassador Robert O. Blake Jr. accompanied by the Mayor of Surakarta,
+  Indonesia, recently inaugurated new water supply and sanitation facilities in the
+  neighborhood of Semanggi.
+
+'
 solutions:
 - Environment and Energy
 - Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH)
-clients:
+clients: 
 layout: node
 ---
+
 U.S. Ambassador Robert O. Blake Jr. accompanied by the Mayor of Surakarta, Indonesia, recently inaugurated new water supply and sanitation facilities in the neighborhood of Semanggi.
 
 ![][1]

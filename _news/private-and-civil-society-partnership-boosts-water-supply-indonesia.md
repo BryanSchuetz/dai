@@ -1,17 +1,21 @@
 ---
 title: Private and Civil Society Partnership Boosts Water Supply in Indonesia
 date: 2014-02-20 18:05:00 Z
-summary: |
-  East Java's dwindling supply of raw water is being replenished thanks to an initiative launched by the U.S. Agency for International Development (USAID) and two key partners in Indonesia's private and civil society sectors.
+summary: 'East Java''s dwindling supply of raw water is being replenished thanks to
+  an initiative launched by the U.S. Agency for International Development (USAID)
+  and two key partners in Indonesia''s private and civil society sectors.
+
+'
 solutions:
 - Environment and Energy
 - Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH)
-clients:
+clients: 
 layout: node
 ---
+
 East Java's dwindling supply of raw water is being replenished thanks to an initiative launched by the U.S. Agency for International Development (USAID) and two key partners in Indonesia's private and civil society sectors.
 
 The USAID-funded [Indonesia Urban Water, Sanitation, and Hygiene][1] (IUWASH) project, the Coca-Cola Foundation Indonesia, and Yayasan Lingkungan Hidup Seloliman—a local nongovernmental organization—last month celebrated the construction of 650 water infiltration ponds designed to channel more water into the water table.

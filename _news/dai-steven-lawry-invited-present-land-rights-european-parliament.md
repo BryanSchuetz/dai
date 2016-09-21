@@ -1,17 +1,21 @@
 ---
-title: 'DAI''s Steven Lawry Invited to Present on Land Rights to European Parliament'
+title: DAI's Steven Lawry Invited to Present on Land Rights to European Parliament
 date: 2014-04-15 18:05:00 Z
-summary: |
-  According to Dr. Steven Lawry, DAI's Global Practice Lead for Land Tenure and Property Rights, customary land tenure rights provide poor farmers in Africa access to land as a social right.
+summary: 'According to Dr. Steven Lawry, DAI''s Global Practice Lead for Land Tenure
+  and Property Rights, customary land tenure rights provide poor farmers in Africa
+  access to land as a social right.
+
+'
 solutions:
 - Environment and Energy
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 According to Dr. Steven Lawry, DAI's Global Practice Lead for Land Tenure and Property Rights, [customary land tenure rights][1] provide poor farmers in Africa access to land as a social right. National governments and donor agencies should support efforts that strengthen the legal protections of customary right holders to their land, especially in the face of efforts to convert customary tenure to freehold or private title, he says.
 
 These and other recommendations were offered by Lawry at the European Union Parliament Conference on Property Rights: "Land Tenure Security, the Missing Key to Eradicating Poverty," in Brussels on April 9.  The conference was hosted by Member of Parliament Nirj Deva, and attended by senior African and European government officials, as well as policy researchers and land rights advocates from Africa, Europe, and the United States.

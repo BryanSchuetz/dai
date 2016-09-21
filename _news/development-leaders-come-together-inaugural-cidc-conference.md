@@ -1,16 +1,20 @@
 ---
 title: Development Leaders Come Together for Inaugural CIDC Conference
 date: 2013-12-06 18:05:00 Z
-summary: |
-  Nearly 170 members of the global development community came together this week at the Mayflower Hotel in Washington, D.C., for the inaugural Council of International Development Companies (CIDC) Conference.
+summary: 'Nearly 170 members of the global development community came together this
+  week at the Mayflower Hotel in Washington, D.C., for the inaugural Council of International
+  Development Companies (CIDC) Conference.
+
+'
 solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
-regions:
+regions: 
 projects: Palestine—The Compete Project
-clients:
+clients: 
 layout: node
 ---
+
 Nearly 170 members of the global development community came together this week at the Mayflower Hotel in Washington, D.C., for the inaugural Council of International Development Companies (CIDC) Conference. [Jim Boomgard][1], DAI President and CEO, co-chaired the event with Jan Auman, Tetra Tech President.
 
 In his opening [remarks][2], Boomgard focused on the evolution and challenges of development work. "Our work has evolved significantly over the past 20 years," he said. "Our teams on the frontlines of development recognize and have embraced these changes. They have been instrumental in leading some [of these changes] and have adapted well to others.

@@ -1,8 +1,11 @@
 ---
 title: Education Campaign Programme Wins DAI Innovation of the Year
 date: 2014-10-31 18:05:00 Z
-summary: |
-  DAI is delighted to announce that the [Transforming Education in Pakistan (TEP) programme](/our-work/projects/pakistan-transforming-education-pakistan-tep) has won Innovation of the Year with its Alif Ailaan Data Platform.
+summary: 'DAI is delighted to announce that the [Transforming Education in Pakistan
+  (TEP) programme](/our-work/projects/pakistan-transforming-education-pakistan-tep)
+  has won Innovation of the Year with its Alif Ailaan Data Platform.
+
+'
 solutions:
 - Digital
 - Governance
@@ -12,9 +15,10 @@ solutions:
 regions:
 - Asia and the Pacific
 projects: Pakistan—Transforming Education in Pakistan (TEP)
-clients:
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce that the [Transforming Education in Pakistan (TEP) programme][1] has won Innovation of the Year with its Alif Ailaan Data Platform.
 
 The U.K. Department for International Development project is tasked with building the political will among all stakeholders—parents and politicians, teachers and unions, governments and officials at all levels—to tackle an education emergency that sees 25 million children out of school.

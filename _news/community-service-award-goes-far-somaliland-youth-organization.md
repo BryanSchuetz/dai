@@ -1,17 +1,21 @@
 ---
 title: Community Service Award Goes Far for Somaliland Youth Organization
 date: 2014-07-15 18:05:00 Z
-summary: |
-  Last year, two DAI employees received the company's inaugural David H. Gunning Award for Community Service. Each awardee received $5,000 for donation to their respective social service organizations.
+summary: 'Last year, two DAI employees received the company''s inaugural David H.
+  Gunning Award for Community Service. Each awardee received $5,000 for donation to
+  their respective social service organizations.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 regions:
 - Sub-Saharan Africa
 projects: Somalia—Partnership for Economic Growth
-clients:
+clients: 
 layout: node
 ---
+
 Last year, two DAI employees [received][1] the company's inaugural David H. Gunning Award for Community Service. Each awardee received $5,000 for donation to their respective social service organizations.
 
 One awardee, Mubarak Abdi, chairs the Somaliland National Youth Organization (SONYO Umbrella), where he leads the organization's ongoing operations, coordinates communication and learning between member organizations, and engages in high-level planning and project support with partners and public service stakeholders. His donation is already reaping rewards for its recipients. Established in 2003, SONYO Umbrella is dedicated to empowering the youth of Somaliland.

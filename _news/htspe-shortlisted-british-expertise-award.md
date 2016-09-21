@@ -1,16 +1,20 @@
 ---
 title: HTSPE Shortlisted for British Expertise Award
 date: 2014-02-27 18:05:00 Z
-summary: |
-  An HTSPE-led project is one of three shortlisted by the London-based trade organization British Expertise for Outstanding International Development Project 2014.
+summary: 'An HTSPE-led project is one of three shortlisted by the London-based trade
+  organization British Expertise for Outstanding International Development Project
+  2014.
+
+'
 solutions:
 - Land Tenure and Property Rights
 - Environment and Energy
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 An HTSPE-led project is one of three shortlisted by the London-based trade organization British Expertise for Outstanding International Development Project 2014.
 
 [HTSPE][1] is a [member][2] of the DAI group.

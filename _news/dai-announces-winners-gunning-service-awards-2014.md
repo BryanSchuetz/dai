@@ -1,14 +1,19 @@
 ---
 title: DAI Announces Winners of Gunning Service Awards for 2014
 date: 2014-11-24 18:05:00 Z
-summary: |
-  DAI is delighted to announce three winners of this year's David H. Gunning Award for Community Service: Christel Milazzo, who runs a food pantry in Montgomery County, Maryland; and [Alia Afshar-Gandhi](/who-we-are/our-team/alia-afshar-gandhi) and Jessica Stretz, who work with My Brother's Keeper Orphanage in Liberia.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to announce three winners of this year''s David H. Gunning
+  Award for Community Service: Christel Milazzo, who runs a food pantry in Montgomery
+  County, Maryland; and [Alia Afshar-Gandhi](/who-we-are/our-team/alia-afshar-gandhi)
+  and Jessica Stretz, who work with My Brother''s Keeper Orphanage in Liberia.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce three winners of this year's David H. Gunning Award for Community Service: Christel Milazzo, who runs a food pantry in Montgomery County, Maryland; and [Alia Afshar-Gandhi][1] and Jessica Stretz, who work with My Brother's Keeper Orphanage in Liberia.
 
 The Gunning Award [was created][2] in May 2013, after DAI Board Director David Gunning's retirement, to honor his extraordinary service to the firm. A continuous presence on DAI's Board from its inception in 1970, Gunning was a steady advocate of the company's social mission. In that spirit, the award was established to recognize DAI employee service in the community.

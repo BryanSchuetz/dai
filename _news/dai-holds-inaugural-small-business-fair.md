@@ -1,14 +1,18 @@
 ---
 title: DAI Holds Inaugural Small Business Fair
 date: 2014-06-24 18:05:00 Z
-summary: |
-  DAI recently held its first small business fair, where small U.S.-based firms met with DAI staff members in its Bethesda, Maryland, headquarters to establish connections and potential partnerships.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI recently held its first small business fair, where small U.S.-based
+  firms met with DAI staff members in its Bethesda, Maryland, headquarters to establish
+  connections and potential partnerships.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 "We were small once and we've never forgotten our roots," said DAI's Small Business Liaison Officer Kurt Olsson. "Over the years we've worked with several firms, like dTS, Social Impact, and Fintrac that have grown and become major players in our field. This fair is another step we are taking to engage a wider pool of small businesses that want to enter or broaden their footprint as USAID partners."
 
 Modeled on the Montgomery County Chamber of Commerce's annual GovConNet conference, DAI set up timed matchmaking sessions between the company's key buyers and more than 20 pre-selected small firms that provide services for global development projects funded by the U.S. Agency for International Development (USAID) and other U.S. government agencies.

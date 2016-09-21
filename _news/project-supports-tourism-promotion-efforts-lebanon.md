@@ -1,16 +1,19 @@
 ---
 title: Project Supports Tourism Promotion Efforts in Lebanon
 date: 2014-06-26 18:05:00 Z
-summary: |
-  U.S. Ambassador David Hale and the Lebanese Minister of Tourism Michel Pharaon recently launched "Travel Lebanon" to promote domestic tourism in Lebanon.
+summary: 'U.S. Ambassador David Hale and the Lebanese Minister of Tourism Michel Pharaon
+  recently launched "Travel Lebanon" to promote domestic tourism in Lebanon.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 U.S. Ambassador David Hale and the Lebanese Minister of Tourism Michel Pharaon recently launched "Travel Lebanon" to promote domestic tourism in Lebanon.
 
 For the first time in Lebanon, businesses, cooperatives, nongovernmental organizations, municipalities, and other stakeholders active in rural tourism gathered for the Travel Lebanon festival, a division of the Beirut Garden Show, to promote rural tourism in the country.

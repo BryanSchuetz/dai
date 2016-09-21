@@ -1,16 +1,21 @@
 ---
 title: Project Supports Historic Elections in Sri Lanka
 date: 2013-12-02 18:05:00 Z
-summary: |
-  On September 21, residents in Northern Sri Lanka cast their ballots as part of an historic event—the first-ever Northern Provincial Council Elections. Election Day turnout was extremely high at 68 percent, representing a dramatic increase from previous years despite a very tense electoral environment.
+summary: 'On September 21, residents in Northern Sri Lanka cast their ballots as part
+  of an historic event—the first-ever Northern Provincial Council Elections. Election
+  Day turnout was extremely high at 68 percent, representing a dramatic increase from
+  previous years despite a very tense electoral environment.
+
+'
 solutions:
 - Governance
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 On September 21, residents in Northern Sri Lanka cast their ballots as part of an historic event—the first-ever Northern Provincial Council Elections. Election Day turnout was extremely high at 68 percent, representing a dramatic increase from previous years despite a very tense electoral environment. The U.S. Agency for International Development's Office of Transition Initiatives (OTI) supported the landmark event through the [Reintegration and Stabilization in the East and North (RISEN) project][1] as the culmination of three years of work helping marginalized, conflict-affected communities in the North.
 
 Through partnerships with three local organizations—Campaign for Free and Fair Elections (CaFFE), Centre for Human Rights (CHR), and Home for Human Rights (HHR)—RISEN helped citizens province-wide to understand why and how to vote, enabled many to acquire the identification documents required to do so, and ensured their trip to the polls would be observed by trained, non-partisan monitors.

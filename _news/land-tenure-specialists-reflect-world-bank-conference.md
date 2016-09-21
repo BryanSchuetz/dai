@@ -1,18 +1,25 @@
 ---
 title: Land Tenure Specialists Reflect on World Bank Conference
 date: 2014-04-30 18:05:00 Z
-summary: |
-  Last month, nearly 1,000 members of the land rights community gathered at the 15th annual World Bank Conference on Land and Poverty to present field-based research, announce new initiatives, and develop partnerships. According to the World Bank, the conference aims to "foster dialogue and the sharing of best practices on the diversity of reforms, approaches, and experiences that are being implemented in the land sector around the world."
+summary: 'Last month, nearly 1,000 members of the land rights community gathered at
+  the 15th annual World Bank Conference on Land and Poverty to present field-based
+  research, announce new initiatives, and develop partnerships. According to the World
+  Bank, the conference aims to "foster dialogue and the sharing of best practices
+  on the diversity of reforms, approaches, and experiences that are being implemented
+  in the land sector around the world."
+
+'
 solutions:
 - Agriculture and Food Security
 - Governance
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Last month, nearly 1,000 members of the land rights community gathered at the 15th annual World Bank Conference on Land and Poverty to present field-based research, announce new initiatives, and develop partnerships. According to the World Bank, the conference aims to "foster dialogue and the sharing of best practices on the diversity of reforms, approaches, and experiences that are being implemented in the land sector around the world."
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/93401680" webkitallowfullscreen="" width="703"></iframe>

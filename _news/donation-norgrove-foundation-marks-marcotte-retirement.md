@@ -1,14 +1,17 @@
 ---
 title: Donation to Norgrove Foundation Marks Marcotte Retirement
 date: 2014-08-04 18:05:00 Z
-summary: |
-  DAI's Senior Vice President, U.S. Government Business Unit, Betsy Marcotte retired from the company this month after nine years of service.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI''s Senior Vice President, U.S. Government Business Unit, Betsy Marcotte
+  retired from the company this month after nine years of service.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's Senior Vice President, U.S. Government Business Unit, Betsy Marcotte retired from the company this month after nine years of service.
 
 To celebrate her tenure, and particularly her devotion to the cause of development in Afghanistan, DAI made a $10,000 donation in Betsy's name to the [Linda Norgrove Foundation][1], a grant-giving trust that funds education, health, and childcare for women and children affected by the war in Afghanistan.

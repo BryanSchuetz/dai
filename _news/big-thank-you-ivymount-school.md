@@ -1,14 +1,21 @@
 ---
 title: A Big Thank You to the Ivymount School
 date: 2014-11-25 18:05:00 Z
-summary: |
-  Opening the pantries in the kitchens of DAI, employees have their pick of teas and coffees. Cups are always well stocked and organized. And cutlery is never in short supply. This is no accident—four students and their job coaches come to DAI's Bethesda, Maryland, office twice a week for several hours to help stock the kitchens as part of a school-to-work job training program organized by the Ivymount School, a Washington, D.C., organization for young people with special needs.
-solutions:
-regions:
-projects:
-clients:
+summary: 'Opening the pantries in the kitchens of DAI, employees have their pick of
+  teas and coffees. Cups are always well stocked and organized. And cutlery is never
+  in short supply. This is no accident—four students and their job coaches come to
+  DAI''s Bethesda, Maryland, office twice a week for several hours to help stock the
+  kitchens as part of a school-to-work job training program organized by the Ivymount
+  School, a Washington, D.C., organization for young people with special needs.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Opening the pantries in the kitchens of DAI, employees have their pick of teas and coffees. Cups are always well stocked and organized. And cutlery is never in short supply. This is no accident—four students and their job coaches come to DAI's Bethesda, Maryland, office twice a week for several hours to help stock the kitchens as part of a school-to-work job training program organized by the [Ivymount School][1], a Washington, D.C., organization for young people with special needs.
 
 ![][2]

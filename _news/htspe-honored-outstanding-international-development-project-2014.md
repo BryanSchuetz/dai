@@ -1,17 +1,20 @@
 ---
 title: HTSPE Honored for Outstanding International Development Project 2014
 date: 2014-04-11 18:05:00 Z
-summary: |
-  [Rwanda Land Tenure Regularisation (LTR)][/our-work/projects/rwanda-support-land-tenure-regularisation], an HTSPE-led project to increase land rights, stability, and economic opportunity, was named Outstanding International Development Project (non-physical) 2014 by the London-based trade organization British Expertise.
+summary: "[Rwanda Land Tenure Regularisation (LTR)][/our-work/projects/rwanda-support-land-tenure-regularisation],
+  an HTSPE-led project to increase land rights, stability, and economic opportunity,
+  was named Outstanding International Development Project (non-physical) 2014 by the
+  London-based trade organization British Expertise.\n"
 solutions:
 - Environment and Energy
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 [Rwanda Land Tenure Regularisation (LTR)][1], an HTSPE-led project to increase land rights, stability, and economic opportunity, was named Outstanding International Development Project (non-physical) 2014 by the London-based trade organization British Expertise. [HTSPE][2] is a [member][3] of the DAI group.
 
 The award was presented April 10 at a black tie dinner event at the Cumberland Hotel in London. Eleven prestigious awards were presented, spanning architecture, design, development and humanitarian aid, environment, and overall business. LTR Team Leader Simon Lapper and Deputy Team Leader John Iyadema collected the award on behalf of HTSPE from HRH the Duke of Gloucester.

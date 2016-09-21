@@ -1,17 +1,21 @@
 ---
 title: USAID Project Supports Construction of Major Wind Farm in Somaliland
 date: 2014-06-05 18:05:00 Z
-summary: |
-  The Government of Somaliland recently launched its first pilot wind farm, an initiative to power the Hargeisa International Airport, sending a clear signal that Somaliland has abundant renewable energy resources.
+summary: 'The Government of Somaliland recently launched its first pilot wind farm,
+  an initiative to power the Hargeisa International Airport, sending a clear signal
+  that Somaliland has abundant renewable energy resources.
+
+'
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The [launch event][1]—attended by Somaliland President Ahmed Mohamed Mohamoud "Silanyo" and several key ministries—was the culmination of activities implemented by the [Partnership for Economic Growth][2], a project funded by the U.S. Agency for International Development (USAID).
 
 ![][3]

@@ -1,8 +1,9 @@
 ---
-title: 'DAI’s Saad Hamid to Present “60-Second Education” at Telenor Youth Summit'
+title: DAI’s Saad Hamid to Present “60-Second Education” at Telenor Youth Summit
 date: 2013-12-06 18:05:00 Z
-summary: |
-  [Ilm Ideas]() Communications Specialist Saad Hamid was one of 26 social entrepreneurs selected globally to present at the inaugural Telenor Youth Summit on December 9–11 in Oslo, Norway.
+summary: "[Ilm Ideas]() Communications Specialist Saad Hamid was one of 26 social
+  entrepreneurs selected globally to present at the inaugural Telenor Youth Summit
+  on December 9–11 in Oslo, Norway.\n"
 solutions:
 - Financial Services
 - Economic Growth
@@ -11,9 +12,10 @@ solutions:
 regions:
 - Asia and the Pacific
 projects: Pakistan—Education Voice and Accountability Fund (Ilm Ideas)
-clients:
+clients: 
 layout: node
 ---
+
 [Ilm Ideas][1] Communications Specialist Saad Hamid was one of 26 social entrepreneurs selected globally to present at the inaugural Telenor Youth Summit on December 9–11 in Oslo, Norway.
 
 ![Hamid][2]{:.float-left}Hamid was chosen for his idea, the "60-Second Education," a solution for filtering information from the web, social media, TV, and radio, and then curating short, simple, and relevant bits to educate young people using video, audio, text, and images.

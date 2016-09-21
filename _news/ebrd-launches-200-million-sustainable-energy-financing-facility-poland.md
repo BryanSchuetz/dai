@@ -1,8 +1,14 @@
 ---
 title: EBRD Launches €200 Million Sustainable Energy Financing Facility in Poland
 date: 2014-11-05 18:05:00 Z
-summary: |
-  The European Bank for Reconstruction and Development (EBRD) has [launched]http://www.ebrd.com/pages/news/press/2014/141105.shtml() its second Polish Sustainable Energy Financing Facility ([PolSEFF2](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)), implemented by DAI, with €200 million that will be loaned via local banks to small and medium-sized enterprises (SMEs) in Poland to finance investments to replace or upgrade heating, cooling, electric, and related systems, thereby reducing energy bills and decreasing carbon emissions.
+summary: 'The European Bank for Reconstruction and Development (EBRD) has [launched]http://www.ebrd.com/pages/news/press/2014/141105.shtml()
+  its second Polish Sustainable Energy Financing Facility ([PolSEFF2](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)),
+  implemented by DAI, with €200 million that will be loaned via local banks to small
+  and medium-sized enterprises (SMEs) in Poland to finance investments to replace
+  or upgrade heating, cooling, electric, and related systems, thereby reducing energy
+  bills and decreasing carbon emissions.
+
+'
 solutions:
 - Climate Change Adaptation and Mitigation
 - Economic Growth
@@ -10,9 +16,10 @@ regions:
 - decreasing
 projects:
 - Polish Sustainable Energy Financing Facility Wins Clean Energy Award
-clients:
+clients: 
 layout: node
 ---
+
 The European Bank for Reconstruction and Development (EBRD) has [launched][1] its second Polish Sustainable Energy Financing Facility ([PolSEFF2][2]), implemented by DAI, with €200 million that will be loaned via local banks to small and medium-sized enterprises (SMEs) in Poland to finance investments to replace or upgrade heating, cooling, electric, and related systems, thereby reducing energy bills and decreasing carbon emissions.
 
 Investment grants will be provided by the Polish National Fund for Environmental Protection and Water Management (NFOSiGW) and technical cooperation will be provided by the European Commission.

@@ -1,14 +1,18 @@
 ---
 title: DAI’s James Boomgard Named Chair of Council of International Development CompaniesBlank
 date: 2014-01-08 18:05:00 Z
-summary: |
-  The Council of International Development Companies (CIDC) has named DAI President and CEO James Boomgard]—formerly one of three co-chairs—as the CIDC Chair for 2014.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Council of International Development Companies (CIDC) has named DAI
+  President and CEO James Boomgard]—formerly one of three co-chairs—as the CIDC Chair
+  for 2014.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The Council of International Development Companies (CIDC) has named DAI President and CEO [James Boomgard][1]—formerly one of three co-chairs—as the CIDC Chair for 2014.
 
 In a New Year message to Council members, Boomgard focused on the shared objectives and aspirations that bind together practitioners across the development community. "As development professionals, we know that our greatest successes come when all stakeholders—donors, the private sector, policy makers, civil society groups, and others—work in unison toward our common goal of development success," he wrote. "We take that collaborative approach as our touchstone going into 2014."

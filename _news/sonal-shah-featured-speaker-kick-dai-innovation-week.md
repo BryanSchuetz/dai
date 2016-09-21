@@ -1,16 +1,20 @@
 ---
 title: Sonal Shah is Featured Speaker to Kick Off DAI Innovation Week
 date: 2014-10-17 18:05:00 Z
-summary: |
-  Sonal Shah, founding Director of the White House Office of Social Innovation and Civic Participation, will be the featured speaker during DAI Innovation Week October 27–31.
+summary: 'Sonal Shah, founding Director of the White House Office of Social Innovation
+  and Civic Participation, will be the featured speaker during DAI Innovation Week
+  October 27–31.
+
+'
 solutions:
 - Digital
 - Innovation and Entrepreneurship
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Sonal Shah, founding Director of the White House Office of Social Innovation and Civic Participation, will be the featured speaker during DAI Innovation Week October 27–31.
 
 ![][1]{:.float-left}Shah, who headed development initiatives at Goldman Sachs and Google, served as Deputy Assistant to President Obama from April 2009 to August 2011. She is Executive Director of the Beeck Center for Social Impact & Innovation at Georgetown University. Shah will address DAI staff on October 28 at the company headquarters in Bethesda, Maryland.

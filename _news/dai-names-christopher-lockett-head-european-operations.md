@@ -1,15 +1,19 @@
 ---
 title: DAI Names Christopher Lockett to Head European Operations
 date: 2014-06-23 18:05:00 Z
-summary: |
-  DAI today announced that [Christopher Lockett](/who-we-are/leadership/christopher-lockett), a 10-year veteran of HTSPE Ltd., has been appointed Managing Director of DAI Europe and Senior Vice President of DAI.
-solutions:
+summary: 'DAI today announced that [Christopher Lockett](/who-we-are/leadership/christopher-lockett),
+  a 10-year veteran of HTSPE Ltd., has been appointed Managing Director of DAI Europe
+  and Senior Vice President of DAI.
+
+'
+solutions: 
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI today announced that [Christopher Lockett][1], a 10-year veteran of HTSPE Ltd., has been appointed Managing Director of DAI Europe and Senior Vice President of DAI.
 
 "I am honored and delighted to accept this challenging new position," said Lockett. "The capabilities our unified operation brings to the development field—and the opportunities we have for learning across clients, geographies, and disciplines—make this an exciting time to lead DAI's operations in Europe."

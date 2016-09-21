@@ -1,8 +1,11 @@
 ---
 title: Wide-Ranging Economic Growth Project Launches in Jordan
 date: 2013-11-21 18:05:00 Z
-summary: |
-  The [Jordan Competitiveness Program (JCP)]/our-work/projects/jordan-competitiveness-program-jcp() has officially launched—with ambitious goals of creating some 40,000 jobs over the next five years and attracting foreign investment to the Kingdom.
+summary: 'The [Jordan Competitiveness Program (JCP)]/our-work/projects/jordan-competitiveness-program-jcp()
+  has officially launched—with ambitious goals of creating some 40,000 jobs over the
+  next five years and attracting foreign investment to the Kingdom.
+
+'
 solutions:
 - Economic Growth
 - Business Environment Reform
@@ -10,9 +13,10 @@ solutions:
 regions:
 - Middle East and North Africa
 projects: Jordan Competitiveness Program (JCP)
-clients:
+clients: 
 layout: node
 ---
+
 The [Jordan Competitiveness Program (JCP)][1] has officially launched—with ambitious goals of creating some 40,000 jobs over the next five years and attracting foreign investment to the Kingdom.
 
 The wide-ranging project—funded by the U.S. Agency for International Development (USAID) and led by DAI with partners, McKinsey & Company and Duke University—focuses in particular on making young people and women more competitive in the workforce. Though nearly 70 percent of women in Jordan have secondary education, only 15 percent of them work; overall, youth unemployment stands at 37 percent.

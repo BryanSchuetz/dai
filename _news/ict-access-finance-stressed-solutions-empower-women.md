@@ -1,16 +1,20 @@
 ---
 title: ICT, Access to Finance Stressed as Solutions to Empower Women
 date: 2013-12-05 18:05:00 Z
-summary: |
-  At the DAI-hosted lab at this year's European Development Days, participants were challenged to come up with creative ways of economically empowering women in developing countries.
+summary: 'At the DAI-hosted lab at this year''s European Development Days, participants
+  were challenged to come up with creative ways of economically empowering women in
+  developing countries.
+
+'
 solutions:
 - Economic Growth
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 featured: true
 ---
+
 At the DAI-hosted [lab][1] at this year's European Development Days, participants were challenged to come up with creative ways of economically empowering women in developing countries. Among some of the solutions discussed were: promoting the use of information and communications technology to help more women access business financing; training banks to cater specifically to female customers; taking advantage of women's abilities to network; and encouraging donors and governments to facilitate women's participation in local and global value chains.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/daiglobal/11222785173/in/set-72157638381482575/player/" webkitallowfullscreen="" width="703"></iframe>
