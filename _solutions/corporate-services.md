@@ -1,6 +1,7 @@
 ---
 title: Corporate Services
 date: 2016-01-21 18:23:00.492000000 Z
+permalink: our-work/solutions/corporate-services
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#corp-badge"></use></svg>
 summary: Helping our clients achieve significantly higher social and business returns
