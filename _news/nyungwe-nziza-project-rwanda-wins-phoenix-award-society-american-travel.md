@@ -1,16 +1,22 @@
 ---
-title: Nyungwe Nziza Project in Rwanda wins Phoenix Award from the Society of American Travel Writers
+title: Nyungwe Nziza Project in Rwanda wins Phoenix Award from the Society of American
+  Travel Writers
 date: 2013-10-23 18:05:00 Z
-summary: |
-  The _Nyungwe Nziza_ ("Beautiful Nyungwe") project, funded by the U.S. Agency for International Development (USAID), was named one of the winners of the Society of American Travel Writers' (SATW) Phoenix Awards at SATW's annual convention in Biloxi, Mississippi, this month.
+summary: 'The _Nyungwe Nziza_ ("Beautiful Nyungwe") project, funded by the U.S. Agency
+  for International Development (USAID), was named one of the winners of the Society
+  of American Travel Writers'' (SATW) Phoenix Awards at SATW''s annual convention
+  in Biloxi, Mississippi, this month.
+
+'
 solutions:
 - Environment and Energy
 regions:
 - Sub-Saharan Africa
 projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National
-clients:
+clients: 
 layout: node
 ---
+
 The _Nyungwe Nziza_ ("Beautiful Nyungwe") project, funded by the U.S. Agency for International Development (USAID), was named one of the winners of the Society of American Travel Writers' (SATW) Phoenix Awards at SATW's annual convention in Biloxi, Mississippi, this month. USAID's involvement in Nyungwe dates back over 20 years, and since the forest's designation as a national park in 2007 USAID has had active projects in conservation and ecotourism, engaging collaboratively with the Government of Rwanda to support its efforts to independently and responsibly manage the park and its resources.
 
 At the SATW awards ceremony, the [_Nyungwe Nziza_ project][1] was recognized for its contributions to ecotourism, biodiversity, and local communities. SATW Co-Chair Cheryl Hargrove said that "the SATW Phoenix Committee and Board of Directors selected the _Nyungwe Nziza_ Project after studying many projects in many countries. They voted for the _Nyungwe Nziza_ Project because it is a great example of the type of project that should be replicated around the world."

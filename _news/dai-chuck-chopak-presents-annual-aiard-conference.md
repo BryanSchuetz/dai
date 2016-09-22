@@ -1,17 +1,24 @@
 ---
 title: DAI’s Chuck Chopak Presents at Annual AIARD Conference
 date: 2013-06-19 18:05:00 Z
-summary: |
-  Dr. [Chuck Chopak](/who-we-are/our-team/chuck-chopak), DAI's Regional Managing Director for the Africa region and president of the Association for International Agriculture and Rural Development (AIARD), opened the association's 49th annual conference by highlighting the increased significance of AIARD as a group that brings together a diversity of stakeholders from academia, the public sector, and the private sector to build consensus and understanding around agricultural development.
+summary: 'Dr. [Chuck Chopak](/who-we-are/our-team/chuck-chopak), DAI''s Regional Managing
+  Director for the Africa region and president of the Association for International
+  Agriculture and Rural Development (AIARD), opened the association''s 49th annual
+  conference by highlighting the increased significance of AIARD as a group that brings
+  together a diversity of stakeholders from academia, the public sector, and the private
+  sector to build consensus and understanding around agricultural development.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Nutrition and Food Security
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Dr. [Chuck Chopak][1], DAI's Regional Managing Director for the Africa region and president of the Association for International Agriculture and Rural Development (AIARD), opened the association's 49th annual conference by highlighting the increased significance of AIARD as a group that brings together a diversity of stakeholders from academia, the public sector, and the private sector to build consensus and understanding around agricultural development. He also welcomed AIARD president-elect Mike McGirr to the post.
 
 This year's conference, held June 2-4 in Washington, D.C., focused on "Feeding the Future in a Changing Climate." "Agriculture, rural development, and food security for millions will be impacted by global changes affecting a broad range of natural resources that our food systems rely upon," according to the AIARD. "Experts predict that vulnerable populations in developing countries, those already struggling to become food secure, will be the ones most adversely affected by these environmental changes."

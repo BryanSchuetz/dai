@@ -1,14 +1,17 @@
 ---
 title: Latest Issue of DAI’s Developments Newsletter Now Available Online
 date: 2013-10-04 18:05:00 Z
-summary: |
-  The Summer 2013 issue of DAI's newsletter, _Developments_, is now available online.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Summer 2013 issue of DAI''s newsletter, _Developments_, is now available
+  online.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The Summer 2013 issue of DAI's newsletter, [Developments][1], is now available online.
 
 Feature articles include:

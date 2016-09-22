@@ -1,14 +1,17 @@
 ---
 title: DAI’s Jean Gilson Re-elected to SID-Washington Leadership Post
 date: 2013-10-03 18:05:00 Z
-summary: |
-  [Jean Gilson](/who-we-are/leadership/jean-gilson), DAI's Senior Vice President for Strategy and Information Technology, has been re-elected as Chair for Chapter Affairs at the Society for International Development, Washington, D.C., Chapter (SID-Washington).
-solutions:
-regions:
-projects:
-clients:
+summary: "[Jean Gilson](/who-we-are/leadership/jean-gilson), DAI's Senior Vice President
+  for Strategy and Information Technology, has been re-elected as Chair for Chapter
+  Affairs at the Society for International Development, Washington, D.C., Chapter
+  (SID-Washington).\n"
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 [Jean Gilson][1], DAI's Senior Vice President for Strategy and Information Technology, has been re-elected as Chair for Chapter Affairs at the Society for International Development, Washington, D.C., Chapter (SID-Washington).
 
 As the second-ranking officer of the [SID-Washington][2] board of directors, Gilson will continue to lead efforts on membership recruitment, retention, and diversification, as well as help guide the organization's strategic thinking.

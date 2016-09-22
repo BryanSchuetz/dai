@@ -1,8 +1,11 @@
 ---
 title: Girls Going to School Against the Odds in Pakistan
 date: 2013-10-09 18:05:00 Z
-summary: |
-  The transition from primary school to middle school is a difficult one for children all across the world. It is especially difficult if you happen to be born in rural Sindh province in Pakistan.
+summary: 'The transition from primary school to middle school is a difficult one for
+  children all across the world. It is especially difficult if you happen to be born
+  in rural Sindh province in Pakistan.
+
+'
 solutions:
 - Economic Growth
 - Financial Services
@@ -10,9 +13,10 @@ solutions:
 regions:
 - Asia and the Pacific
 projects: Pakistan—Education Voice and Accountability Fund (Ilm Ideas)
-clients:
+clients: 
 layout: node
 ---
+
 The transition from primary school to middle school is a difficult one for children all across the world. It is especially difficult if you happen to be born in rural Sindh province in Pakistan. For the female residents of the town of Thatta, chances are that they will never make it beyond grade 5—if they are lucky enough to go to school in the first place. The schools available are few and far between. And many parents in conservative Pakistan would not allow their girls to walk alone to and from school. On top of that, parents who are employed as daily wage laborers or as bonded labor on farms don't have the time or luxury to walk their girls to school.
 
 ![][1]

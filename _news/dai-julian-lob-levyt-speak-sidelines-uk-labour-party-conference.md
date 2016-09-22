@@ -1,14 +1,18 @@
 ---
 title: DAI’s Julian Lob-Levyt to Speak on Sidelines of U.K. Labour Party Conference
 date: 2013-09-19 18:05:00 Z
-summary: |
-  With the focus shifting from aid commitments to aid impact, the question in the global development community is: how can we maximize our results by utilizing every tool, partner, and technology available?
-solutions:
-regions:
-projects:
-clients:
+summary: 'With the focus shifting from aid commitments to aid impact, the question
+  in the global development community is: how can we maximize our results by utilizing
+  every tool, partner, and technology available?
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 With the focus shifting from aid commitments to aid impact, the question in the global development community is: how can we maximize our results by utilizing every tool, partner, and technology available?
 
 DAI and its colleagues in the global development industry will tackle [this question][1] and more on the sidelines of the U.K.'s Labour Party Conference in Brighton.

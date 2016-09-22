@@ -1,13 +1,13 @@
 ---
 title: Digital
 date: 2016-01-21 18:23:00.492000000 Z
+permalink: our-work/solutions/digital
 icon: <svg class="ict-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#ict-badge"></use></svg>
 summary: We combine our 40-plus years of experience in global development with the
   latest and most relevant information and communication technology (ICT) tools.
 layout: solution
 type: primary
-permalink: our-work/solutions/digital
 ---
 
 We combine our 40-plus years of experience in global development with the latest and most relevant information and communication technology (ICT) tools. We do more than just introduce innovations on a project-by-project basis—we help build the institutions and sustainable processes that facilitate innovation on the ground.

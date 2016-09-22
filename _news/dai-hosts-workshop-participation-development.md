@@ -1,16 +1,20 @@
 ---
 title: DAI Hosts Workshop on Participation in Development
 date: 2013-06-26 18:05:00 Z
-summary: |
-  DAI, in partnership with the Carnegie Endowment, hosted a workshop in London convening policymakers, practitioners, and academics to discuss "Making Participation Work for Development.
+summary: 'DAI, in partnership with the Carnegie Endowment, hosted a workshop in London
+  convening policymakers, practitioners, and academics to discuss "Making Participation
+  Work for Development.
+
+'
 solutions:
 - Governance
 regions:
 - Eastern Europe and Central Asia
 projects: Pakistan—AAWAZ Voice and Accountability Programme
-clients:
+clients: 
 layout: node
 ---
+
 DAI, in partnership with the Carnegie Endowment, hosted a workshop in London convening policymakers, practitioners, and academics to discuss "Making Participation Work for Development." Held in May and facilitated by Thomas Carothers of the Carnegie Endowment, the event debated issues such as what participation can achieve, how can projects be designed for better participation, and how to make change work.
 
 The workshop was opened with a lively presentation from Vijayendra Rao and Ghazala Mansuri of the World Bank, summarizing their recent book, "Localising Development: Does Participation Work?" which examines the impact of community development and decentralization programs, an area in which the World Bank alone has spent nearly $85 billion. The report concludes that there is little rigorous evaluation of the impact of these programs, and that local participatory programs by themselves do not appear to contribute to greater poverty reduction. The authors call on assistance providers to rethink their approach to supporting participation.

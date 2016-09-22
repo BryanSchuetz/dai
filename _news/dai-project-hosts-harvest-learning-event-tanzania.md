@@ -1,17 +1,24 @@
 ---
 title: DAI Project Hosts Harvest Learning Event in Tanzania
 date: 2013-07-22 18:05:00 Z
-summary: |
-  The DAI-led [Economic Strengthening for Households Affected by AIDS (IMARISHA)][1] project—in partnership with four other organizations—recently hosted the Orange Fleshed Sweet Potato Harvest Event. The event brought together the expertise of programs supported by the President's Emergency Plan for AIDS Relief (PEPFAR), the U.S. government's Feed the Future Agriculture Initiative, and the Bill and Melinda Gates Foundation.
+summary: 'The DAI-led [Economic Strengthening for Households Affected by AIDS (IMARISHA)][1]
+  project—in partnership with four other organizations—recently hosted the Orange
+  Fleshed Sweet Potato Harvest Event. The event brought together the expertise of
+  programs supported by the President''s Emergency Plan for AIDS Relief (PEPFAR),
+  the U.S. government''s Feed the Future Agriculture Initiative, and the Bill and
+  Melinda Gates Foundation.
+
+'
 solutions:
 - Health
 - Health and Livelihoods
 regions:
 - Sub-Saharan Africa
 projects: Economic Strengthening for Households Affected by AIDS (IMARISHA)
-clients:
+clients: 
 layout: node
 ---
+
 The DAI-led [Economic Strengthening for Households Affected by AIDS (IMARISHA)][1] project—in partnership with four other organizations—recently hosted the Orange Fleshed Sweet Potato Harvest Event. The event brought together the expertise of programs supported by the President's Emergency Plan for AIDS Relief (PEPFAR), the U.S. government's Feed the Future Agriculture Initiative, and the Bill and Melinda Gates Foundation.
 
 ![][2]

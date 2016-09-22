@@ -1,17 +1,23 @@
 ---
 title: West Africa GIS Workshop Shines Light on Women and Climate Change
 date: 2013-08-13 18:05:00 Z
-summary: |
-  University students from Benin, Cameroon, Cote d'Ivoire, Ghana, and Nigeria recently came together for 10 days of training on geospatial technology, through a fellowship program supported by MyCOE/SERVIR, a joint initiative between My Community Our Earth (MyCOE) and the SERVIR satellite-based Earth observation platform of data and imagery.
+summary: 'University students from Benin, Cameroon, Cote d''Ivoire, Ghana, and Nigeria
+  recently came together for 10 days of training on geospatial technology, through
+  a fellowship program supported by MyCOE/SERVIR, a joint initiative between My Community
+  Our Earth (MyCOE) and the SERVIR satellite-based Earth observation platform of data
+  and imagery.
+
+'
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific
 projects: Worldwide—SERVIR Program Demand Activity
-clients:
+clients: 
 layout: node
 ---
+
 University students from Benin, Cameroon, Cote d'Ivoire, Ghana, and Nigeria recently came together for 10 days of training on geospatial technology, through a fellowship program supported by MyCOE/SERVIR, a joint initiative between My Community Our Earth (MyCOE) and the SERVIR satellite-based Earth observation platform of data and imagery.
 
 Co-funded by NASA and the U.S. Agency for International Development (USAID), SERVIR generates information from space used to help countries prepare for and mitigate the effects of climate change and natural and manmade disasters. DAI implements the [SERVIR Program Demand Activity][1]. MyCOE is a public-private partnership active for the past decade with more than 645 youth-led and mentor-supported projects in 102 countries, and with hundreds of young people and educators trained in using geographic knowledge and technologies for sustainable development in local communities.

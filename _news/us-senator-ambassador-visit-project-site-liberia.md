@@ -1,8 +1,13 @@
 ---
 title: U.S. Senator, Ambassador Visit Project Site in Liberia
 date: 2013-09-06 18:05:00 Z
-summary: |
-  The DAI-led [Food and Enterprise Development Program](/our-work/projects/liberia-food-and-enterprise-development-program-fed) (FED) in Liberia, funded by the U.S. Agency for International Development (USAID), recently hosted U.S. Sen. Chris Coons, D-Del., chair of the Senate Foreign Relations Subcommittee on African Affairs, and U.S. Ambassador to Liberia Deborah Malac on a visit to the New Generational Women farm near Monrovia.
+summary: 'The DAI-led [Food and Enterprise Development Program](/our-work/projects/liberia-food-and-enterprise-development-program-fed)
+  (FED) in Liberia, funded by the U.S. Agency for International Development (USAID),
+  recently hosted U.S. Sen. Chris Coons, D-Del., chair of the Senate Foreign Relations
+  Subcommittee on African Affairs, and U.S. Ambassador to Liberia Deborah Malac on
+  a visit to the New Generational Women farm near Monrovia.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -10,9 +15,10 @@ solutions:
 regions:
 - Sub-Saharan Africa
 projects: Liberia—Food and Enterprise Development Program (FED)
-clients:
+clients: 
 layout: node
 ---
+
 The DAI-led [Food and Enterprise Development Program][1] (FED) in Liberia, funded by the U.S. Agency for International Development (USAID), recently hosted U.S. Sen. Chris Coons, D-Del., chair of the Senate Foreign Relations Subcommittee on African Affairs, and U.S. Ambassador to Liberia Deborah Malac on a visit to the New Generational Women farm near Monrovia.
 
 The New Generational Women farm site aims to provide livelihoods for its 30 members through the cultivation and sales of cassava and vegetables. Coons and Malac met with farmers and plot leaders to witness the group's newly acquired agriculture and agribusiness skills in action.

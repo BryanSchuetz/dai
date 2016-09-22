@@ -1,16 +1,23 @@
 ---
 title: Primatologist Jane Goodall Visits Rwanda Project
 date: 2013-07-17 18:05:00 Z
-summary: |
-  World-renowned primatologist Jane Goodall recently visited the Nyungwe National Park in Rwanda as part of an ongoing collaboration with the U.S. Agency for International Development (USAID)-funded [Strengthening Sustainable Ecotourism in and around Nyungwe National Park (SSENNP)](/our-work/projects/rwanda-strengthening-sustainable-ecotourism-and-around-nyungwe-national-park) project.
+summary: 'World-renowned primatologist Jane Goodall recently visited the Nyungwe National
+  Park in Rwanda as part of an ongoing collaboration with the U.S. Agency for International
+  Development (USAID)-funded [Strengthening Sustainable Ecotourism in and around Nyungwe
+  National Park (SSENNP)](/our-work/projects/rwanda-strengthening-sustainable-ecotourism-and-around-nyungwe-national-park)
+  project.
+
+'
 solutions:
 - Environment and Energy
 regions:
 - Sub-Saharan Africa
-projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National Park (SSENNP)
-clients:
+projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National
+  Park (SSENNP)
+clients: 
 layout: node
 ---
+
 World-renowned primatologist Jane Goodall recently visited the Nyungwe National Park in Rwanda as part of an ongoing collaboration with the U.S. Agency for International Development (USAID)-funded [Strengthening Sustainable Ecotourism in and around Nyungwe National Park (SSENNP)][1] project.
 
 The Nyungwe Nziza project, in partnership with the Rwanda Development Board, first contracted with the Jane Goodall Institute in 2010 to conduct an assessment of chimpanzee tourism in Nyungwe.

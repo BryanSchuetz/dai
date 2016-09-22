@@ -1,14 +1,19 @@
 ---
 title: DAI to Host Lab on Women’s Economic Empowerment at European Development Days
 date: 2013-07-31 18:05:00 Z
-summary: |
-  DAI is pleased to have been selected to host a lab at the annual European Development Days event, held in Brussels on November 26-27. EUDevDays, as it is known, is Europe's premier forum on development cooperation between international organizations, and business, political, academic, and civil society leaders.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is pleased to have been selected to host a lab at the annual European
+  Development Days event, held in Brussels on November 26-27. EUDevDays, as it is
+  known, is Europe''s premier forum on development cooperation between international
+  organizations, and business, political, academic, and civil society leaders.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is pleased to have been selected to host a lab at the annual European Development Days event, held in Brussels on November 26-27. EUDevDays, as it is known, is Europe's premier forum on development cooperation between international organizations, and business, political, academic, and civil society leaders.
 
 ![][1]

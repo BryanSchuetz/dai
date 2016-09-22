@@ -1,17 +1,25 @@
 ---
 title: Film Festival Supports Municipal Efforts to Raise Awareness
 date: 2013-06-11 18:05:00 Z
-summary: |
-  he municipality of Herat, Afghanistan, hosted its second annual film festival at the end of May. Assisted by the DAI-led Regional Afghan Municipalities Program for Urban Populations, Regional Command West (RAMP UP West) project, the festival was attended by representatives of the Mayor's Office, the Economic Directorate, the Provincial Development Council, as well as members of the Herat Journalism Faculty, filmmakers, project representatives, and citizens.
+summary: 'he municipality of Herat, Afghanistan, hosted its second annual film festival
+  at the end of May. Assisted by the DAI-led Regional Afghan Municipalities Program
+  for Urban Populations, Regional Command West (RAMP UP West) project, the festival
+  was attended by representatives of the Mayor''s Office, the Economic Directorate,
+  the Provincial Development Council, as well as members of the Herat Journalism Faculty,
+  filmmakers, project representatives, and citizens.
+
+'
 solutions:
 - Governance
 - Stability
 regions:
 - Middle East and North Africa
-projects: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional Command West (RAMP UP West)
-clients:
+projects: Afghanistan—Regional Afghan Municipalities Program for Urban Populations,
+  Regional Command West (RAMP UP West)
+clients: 
 layout: node
 ---
+
 The municipality of Herat, Afghanistan, hosted its second annual film festival at the end of May. Assisted by the DAI-led [Regional Afghan Municipalities Program for Urban Populations, Regional Command West (RAMP UP West)][1] project, the festival was attended by representatives of the Mayor's Office, the Economic Directorate, the Provincial Development Council, as well as members of the Herat Journalism Faculty, filmmakers, project representatives, and citizens.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="http://player.vimeo.com/video/68133033" webkitallowfullscreen="" width="703"></iframe>
