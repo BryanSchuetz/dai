@@ -1,14 +1,19 @@
 ---
 title: Gross Family and DAI Settle Case Relating to Cuba Imprisonment
 date: 2013-05-16 18:05:00 Z
-summary: |
-  Development Alternatives, Inc. (DAI) and Judy Gross today announced the settlement of the lawsuit brought by Judy and Alan Gross against DAI in the wake of Alan Gross's imprisonment by Cuban authorities in December 2009 for his work for DAI to implement the U.S. Government's Cuba Program.
-solutions:
-regions:
-projects:
-clients:
+summary: 'Development Alternatives, Inc. (DAI) and Judy Gross today announced the
+  settlement of the lawsuit brought by Judy and Alan Gross against DAI in the wake
+  of Alan Gross''s imprisonment by Cuban authorities in December 2009 for his work
+  for DAI to implement the U.S. Government''s Cuba Program.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Development Alternatives, Inc. (DAI) and Judy Gross today announced the settlement of the lawsuit brought by Judy and Alan Gross against DAI in the wake of Alan Gross's imprisonment by Cuban authorities in December 2009 for his work for DAI to implement the U.S. Government's Cuba Program.
 
 The parties agreed to a settlement in which neither admits fault. DAI has agreed to pay an undisclosed monetary amount to help address the injuries the Gross family has sustained in connection with Alan's arrest and imprisonment in Cuba. DAI and Judy Gross have also agreed to continue working together to seek Alan's release.

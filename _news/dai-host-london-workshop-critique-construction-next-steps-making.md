@@ -1,8 +1,13 @@
 ---
-title: 'DAI to Host London Workshop: “From Critique to Construction: Next Steps in Making Participation Work for Development”'
+title: 'DAI to Host London Workshop: “From Critique to Construction: Next Steps in
+  Making Participation Work for Development”'
 date: 2013-05-07 18:05:00 Z
-summary: |
-  DAI, in association with the Carnegie Endowment for International Peace, is hosting a workshop convening policymakers, practitioners, and academics to explore the topic, "From Critique to Construction: Next Steps in Making Participation Work for Development," in London on May 30 at Central Westminster Hall.
+summary: 'DAI, in association with the Carnegie Endowment for International Peace,
+  is hosting a workshop convening policymakers, practitioners, and academics to explore
+  the topic, "From Critique to Construction: Next Steps in Making Participation Work
+  for Development," in London on May 30 at Central Westminster Hall.
+
+'
 solutions:
 - Governance
 - Gender
@@ -10,9 +15,10 @@ solutions:
 regions:
 - Asia and the Pacific
 projects: Pakistan—AAWAZ Voice and Accountability Programme
-clients:
+clients: 
 layout: node
 ---
+
 DAI, in association with the Carnegie Endowment for International Peace, is hosting a workshop convening policymakers, practitioners, and academics to explore the topic, "From Critique to Construction: Next Steps in Making Participation Work for Development," in London on May 30 at Central Westminster Hall.
 
 This event will be moderated by Tom Carothers, Vice President for Studies at the Carnegie Endowment and co-author of "Development Aid Confronts Politics: The Almost Revolution."

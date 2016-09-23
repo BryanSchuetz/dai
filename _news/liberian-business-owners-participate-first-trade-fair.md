@@ -1,8 +1,12 @@
 ---
 title: Liberian Business Owners Participate in First Trade Fair
 date: 2013-05-17 18:05:00 Z
-summary: |
-  The DAI-led [Food and Enterprise Development (FED)](/our-work/projects/liberia-food-and-enterprise-development-program-fed) project in Liberia earlier this month facilitated a trade fair and conference focusing on the private sector—the first time a conference of its kind has ever been held in the country.
+summary: 'The DAI-led [Food and Enterprise Development (FED)](/our-work/projects/liberia-food-and-enterprise-development-program-fed)
+  project in Liberia earlier this month facilitated a trade fair and conference focusing
+  on the private sector—the first time a conference of its kind has ever been held
+  in the country.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -10,9 +14,10 @@ solutions:
 regions:
 - Sub-Saharan Africa
 projects: Liberia—Food and Enterprise Development Program (FED)
-clients:
+clients: 
 layout: node
 ---
+
 The DAI-led [Food and Enterprise Development (FED)][1] project in Liberia earlier this month facilitated a trade fair and conference focusing on the private sector—the first time a conference of its kind has ever been held in the country.
 
 The event—"From Vision to Implementation—Buying Liberian, Building Liberia"—was held under the auspices of the Ministry of Industry and Commerce. It entailed a two-day conference and a three-day trade fair, where more than 50 local small companies were represented.

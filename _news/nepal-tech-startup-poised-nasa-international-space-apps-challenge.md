@@ -1,17 +1,23 @@
 ---
 title: Nepal Tech Startup Poised for NASA’s International Space Apps Challenge
 date: 2013-04-15 18:05:00 Z
-summary: |
-  Space enthusiasts, tech wizards, and citizen scientists the world over are prepping for the second International Space Apps Challenge, a 48-hour hackathon led by NASA April 20-21. Their mission: use images from space, open-source data, and earthly know-how to make apps that address climate change and improve life on earth—and beyond.
+summary: 'Space enthusiasts, tech wizards, and citizen scientists the world over are
+  prepping for the second International Space Apps Challenge, a 48-hour hackathon
+  led by NASA April 20-21. Their mission: use images from space, open-source data,
+  and earthly know-how to make apps that address climate change and improve life on
+  earth—and beyond.
+
+'
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific
 projects: Worldwide—SERVIR Program Demand Activity
-clients:
+clients: 
 layout: node
 ---
+
 Space enthusiasts, tech wizards, and citizen scientists the world over are prepping for the second International Space Apps Challenge, a 48-hour hackathon led by NASA April 20-21. Their mission: use images from space, open-source data, and earthly know-how to make apps that address climate change and improve life on earth—and beyond.
 
 Two thousand enthusiasts at last year's event whipped up more than 100 open-source solutions to facilitate clean energy development, educate novice gardeners, and crowd-source environmental data, among other breakthroughs.

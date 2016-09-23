@@ -1,14 +1,17 @@
 ---
 title: DAI Welcomes New Board Members, Bids Farewell to Longtime Directors
 date: 2013-05-06 18:05:00 Z
-summary: |
-  DAI is delighted to welcome its two newest members of the Board of Directors: Maria Otero and Gail Steinel.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to welcome its two newest members of the Board of Directors:
+  Maria Otero and Gail Steinel.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to welcome its two newest members of the Board of Directors: Maria Otero and Gail Steinel.
 
 [Maria Otero][1] joins the board from the Department of State, where from 2009 until February 2013 she served as Under Secretary of State for Civilian Security, Democracy, and Human Rights, overseeing U.S. foreign relations on issues ranging from democracy and human rights to criminal justice and violent extremism. Born in Bolivia, Maria was—at the time of her departure—the State Department's highest ranking Hispanic official, and she was the first Latina Under Secretary in its history.

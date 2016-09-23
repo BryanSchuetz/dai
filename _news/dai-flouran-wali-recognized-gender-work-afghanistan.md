@@ -1,16 +1,22 @@
 ---
 title: DAI’s Flouran Wali Recognized for Gender Work in Afghanistan
 date: 2013-04-22 18:05:00 Z
-summary: |
-  Flouran Wali, DAI's business and gender advisor for the DAI-led and U.S. Agency for International Development (USAID)-funded [Agricultural Credit Enhancement (ACE)](/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace) program, was recognized by the Government of Afghanistan for her more than 10 years of work supporting the advancement of women in Afghanistan.
+summary: 'Flouran Wali, DAI''s business and gender advisor for the DAI-led and U.S.
+  Agency for International Development (USAID)-funded [Agricultural Credit Enhancement
+  (ACE)](/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace)
+  program, was recognized by the Government of Afghanistan for her more than 10 years
+  of work supporting the advancement of women in Afghanistan.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia
 projects: Afghanistan—Agricultural Credit Enhancement Program I & II (ACE)
-clients:
+clients: 
 layout: node
 ---
+
 Flouran Wali, DAI's business and gender advisor for the DAI-led and U.S. Agency for International Development (USAID)-funded [Agricultural Credit Enhancement (ACE)][1] program, was recognized by the Government of Afghanistan for her more than 10 years of work supporting the advancement of women in Afghanistan.
 
 Flouran was presented with a certificate of appreciation signed by the Minister of Women's Affairs, Dr. Husn Banu Ghazanfar, in a recent ceremony at the Ministry of Agriculture.
