@@ -5,10 +5,10 @@ summary: 'DAI is delighted to announce the addition of Helen Mealins as Director
   International, Bilateral Strategy and External Partnering.
 
 '
-solutions:
-regions:
-projects:
-clients:
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
 
