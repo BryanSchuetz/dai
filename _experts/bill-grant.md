@@ -6,7 +6,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Market Insight and Development
-- Corporate Services
+- Economic Growth
 layout: expert
 image: "/assets/images/experts/innerbill.jpg"
 summary: Bill has played an important role in the development and application of subsector

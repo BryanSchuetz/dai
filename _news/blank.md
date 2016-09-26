@@ -1,14 +1,13 @@
 ---
 title: Blank
-date: 2013-03-16 18:05:00 Z
+date: 2012-03-16 18:05:00 Z
 published: false
-summary: 
-solutions: 
+summary:
+solutions:
 regions:
-- 
-projects: 
-clients: 
+-
+projects:
+clients:
 layout: node
 featured: true
 ---
-
