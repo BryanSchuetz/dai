@@ -1,14 +1,14 @@
 ---
-title: Blank
+title: Helen Mealins Joins DAI’s London Team
 date: 2013-01-08 18:05:00 Z
 summary: 'DAI is delighted to announce the addition of Helen Mealins as Director,
   International, Bilateral Strategy and External Partnering.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
+solutions:
+regions:
+projects:
+clients:
 layout: node
 ---
 
