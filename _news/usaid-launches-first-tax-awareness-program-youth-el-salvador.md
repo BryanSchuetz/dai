@@ -1,16 +1,20 @@
 ---
 title: USAID Launches First Tax Awareness Program for Youth in El Salvador
 date: 2013-03-20 18:05:00 Z
-summary: |
-  Teaching teens to embrace taxes is a daunting task, but a DAI-led project in El Salvador is supporting the government to make tax compliance a little more palatable through a new strategy called Expresate.
+summary: 'Teaching teens to embrace taxes is a daunting task, but a DAI-led project
+  in El Salvador is supporting the government to make tax compliance a little more
+  palatable through a new strategy called Expresate.
+
+'
 solutions:
 - Governance
 regions:
 - Latin America and the Caribbean
 projects: El Salvador—Fiscal Policy and Expenditure Management Program (FPEMP)
-clients:
+clients: 
 layout: node
 ---
+
 Teaching teens to embrace taxes is a daunting task, but a DAI-led project in El Salvador is supporting the government to make tax compliance a little more palatable through a new strategy called Expresate.
 
 The [Fiscal Policy and Expenditure Management Program][1] (FPEMP), funded by the United States Agency for International Development (USAID), will launch Expresate on March 21 in San Salvador.

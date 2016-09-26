@@ -1,17 +1,20 @@
 ---
 title: Somaliland Poised to Pass First-Ever Energy Law in 2013
 date: 2013-02-08 18:05:00 Z
-summary: |
-  Somaliland has its first-ever draft of an electrical energy law, a major step toward increased legitimacy for the autonomous region of Somalia.
+summary: 'Somaliland has its first-ever draft of an electrical energy law, a major
+  step toward increased legitimacy for the autonomous region of Somalia.
+
+'
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Somaliland has its first-ever draft of an electrical energy law, a major step toward increased legitimacy for the autonomous region of Somalia.
 
 With guidance from the [Partnership for Economic Growth][1], the Somaliland Ministry of Mining, Energy and Water Resources and nearly 100 Somalis from independent power providers, consumer groups, nongovernmental organizations, universities, and government agencies recently came together to review the first draft of the law and regulations.

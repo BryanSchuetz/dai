@@ -1,15 +1,20 @@
 ---
 title: DAI Environmental Specialist Publishes Photo Book for Charity
 date: 2013-01-31 18:05:00 Z
-summary: |
-  While working as a regional advisor on a DAI project in Northern Haiti, Nick Hobgood spent much of his personal time scuba diving and taking photos of the marine species he saw along the coast. The photos he collected from 2007 to 2010 have been published in a coffee table book called "Haiti From Below."
-solutions:
+summary: 'While working as a regional advisor on a DAI project in Northern Haiti,
+  Nick Hobgood spent much of his personal time scuba diving and taking photos of the
+  marine species he saw along the coast. The photos he collected from 2007 to 2010
+  have been published in a coffee table book called "Haiti From Below."
+
+'
+solutions: 
 regions:
--
-projects:
-clients:
+- 
+projects: 
+clients: 
 layout: node
 ---
+
 While working as a regional advisor on a DAI project in Northern Haiti, Nick Hobgood spent much of his personal time scuba diving and taking photos of the marine species he saw along the coast. The photos he collected from 2007 to 2010 have been published in a coffee table book called "Haiti From Below." Proceeds from sales of the first 250 books go to Reef Check Foundation to support EcoDiver training on the north coast of Haiti.
 
 ![][1]

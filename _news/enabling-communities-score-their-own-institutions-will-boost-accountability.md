@@ -1,14 +1,18 @@
 ---
 title: Enabling Communities to Score Their Own Institutions Will Boost Accountability
 date: 2013-04-12 18:05:00 Z
-summary: |
-  When the United Kingdom took over the presidency of the G8, it announced it would focus on open economies, open governments, and open societies. It is leading by example with its efforts to make its own aid flows traceable from source to destination.
-solutions:
+summary: 'When the United Kingdom took over the presidency of the G8, it announced
+  it would focus on open economies, open governments, and open societies. It is leading
+  by example with its efforts to make its own aid flows traceable from source to destination.
+
+'
+solutions: 
 regions: 
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 When the United Kingdom took over the presidency of the G8, it announced it would focus on open economies, open governments, and open societies. It is leading by example with its efforts to make its own aid flows traceable from source to destination.
 
 In a February 7 speech, newly appointed Secretary of State for International Development Justine Greening said making aid flows traceable "will have a truly transformative effect, as citizens will be able to start holding those in power to account. That spotlight can help truly fight corruption, and the sharing of information will allow far better collaboration, analysis, and evaluation."

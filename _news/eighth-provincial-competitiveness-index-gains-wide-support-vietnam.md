@@ -1,17 +1,21 @@
 ---
 title: Eighth Provincial Competitiveness Index Gains Wide Support in Vietnam
 date: 2013-03-14 18:05:00 Z
-summary: |
-  More than 500 business and government leaders from Vietnam's 63 cities and provinces gathered March 14 in Hanoi for the launch of the 2012 Provincial Competiveness Index (PCI).
+summary: 'More than 500 business and government leaders from Vietnam''s 63 cities
+  and provinces gathered March 14 in Hanoi for the launch of the 2012 Provincial Competiveness
+  Index (PCI).
+
+'
 solutions:
 - Economic Growth
-- Governance  
+- Governance
 regions:
 - Asia and the Pacific
 projects: 
-clients:
+clients: 
 layout: node
 ---
+
 More than 500 business and government leaders from Vietnam's 63 cities and provinces gathered March 14 in Hanoi for the launch of the 2012 Provincial Competiveness Index (PCI).
 
 The ceremony was chaired by Vietnam Chamber of Commerce and Industry (VCCI) Chairman Dr. Vu Tien Loc and U.S. Ambassador David Shear.

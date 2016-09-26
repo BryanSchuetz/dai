@@ -1,16 +1,19 @@
 ---
 title: Somalis Come Together to Build Community Projects
 date: 2013-02-25 18:05:00 Z
-summary: |
-  Communities that come together and work toward similar goals for the good of all is one way to deliver peace and stability in conflict-riddled areas.
+summary: 'Communities that come together and work toward similar goals for the good
+  of all is one way to deliver peace and stability in conflict-riddled areas.
+
+'
 solutions:
 - Stability
 regions:
 - Sub-Saharan Africa
 projects: Somalia—Transition Initiatives for Stabilization (TIS)
-clients:
+clients: 
 layout: node
 ---
+
 Communities that come together and work toward similar goals for the good of all is one way to deliver peace and stability in conflict-riddled areas.
 
 The DAI-led [Transition Initiatives for Stabilization (TIS)][1] program in Somalia has put this theory into action. Funded by the U.S. Agency for International Development (USAID), the program aims to mitigate conflict, improve social cohesion, and create confidence in governance through service delivery.

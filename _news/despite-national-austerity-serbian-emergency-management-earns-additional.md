@@ -1,16 +1,20 @@
 ---
 title: Despite National Austerity, Serbian Emergency Management Earns Additional Funding
 date: 2013-01-10 18:05:00 Z
-summary: |
-  In a vote of confidence for the country's Sector for Emergency Management, the Serbian government has moved to increase its roster of professional firefighters and rescue workers from 3,000 to 3,500.
+summary: 'In a vote of confidence for the country''s Sector for Emergency Management,
+  the Serbian government has moved to increase its roster of professional firefighters
+  and rescue workers from 3,000 to 3,500.
+
+'
 solutions:
 - Governance
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 In a vote of confidence for the country's Sector for Emergency Management, the Serbian government has moved to increase its roster of professional firefighters and rescue workers from 3,000 to 3,500.
 
 The sector was formed in 2009 to more effectively abate the damage being caused by floods, fires, and other emergencies. In 2012 Serbia lost 30 lives and suffered an estimated 1 billion euro in damages due to droughts and associated wildfires, for example, and floods in 2006 and 2010 severely damaged Serbian cities and villages along the Danube and its tributaries.

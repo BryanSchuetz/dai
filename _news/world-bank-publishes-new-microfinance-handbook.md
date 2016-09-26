@@ -1,15 +1,19 @@
 ---
 title: World Bank Publishes New Microfinance Handbook
 date: 2013-02-19 18:05:00 Z
-summary: |
-  The majority of the world's poor have no access to formal financial services. They must rely on friends and family to help them in hard times, or the proverbial mattress to save for a rainy day or to ensure they have enough to pay school fees.
+summary: 'The majority of the world''s poor have no access to formal financial services.
+  They must rely on friends and family to help them in hard times, or the proverbial
+  mattress to save for a rainy day or to ensure they have enough to pay school fees.
+
+'
 solutions:
 - Economic Growth
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The majority of the world's poor have no access to formal financial services. They must rely on friends and family to help them in hard times, or the proverbial mattress to save for a rainy day or to ensure they have enough to pay school fees.
 
 The World Bank's _New Microfinance Handbook_—edited by [Joanna Ledgerwood][1], who is joining DAI's [Financial Services][2] team in the coming months—addresses the need for increased financial inclusion by examining the financial market system, beginning with client needs.

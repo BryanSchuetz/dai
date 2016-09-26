@@ -1,15 +1,19 @@
 ---
 title: DAI CEO Hosts Prime Minister of Libya for Business Luncheon
 date: 2013-03-14 18:05:00 Z
-summary: |
-  DAI CEO [Jim Boomgard](/who-we-are/leadership/james-boomgard) hosted a business association luncheon March 12 honoring His Excellency Ali Zeidan, Prime Minister of Libya, who was in Washington, D.C., for his first official visit.
-solutions:
+summary: 'DAI CEO [Jim Boomgard](/who-we-are/leadership/james-boomgard) hosted a business
+  association luncheon March 12 honoring His Excellency Ali Zeidan, Prime Minister
+  of Libya, who was in Washington, D.C., for his first official visit.
+
+'
+solutions: 
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI CEO [Jim Boomgard][1] hosted a business association luncheon March 12 honoring His Excellency Ali Zeidan, Prime Minister of Libya, who was in Washington, D.C., for his first official visit.
 
 The luncheon, attended by 60 other firms and held at the Willard Hotel, was also the Prime Minister's first meeting with business leaders in the United States.

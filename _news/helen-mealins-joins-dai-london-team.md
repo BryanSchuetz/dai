@@ -1,14 +1,17 @@
 ---
 title: Blank
 date: 2013-01-08 18:05:00 Z
-summary: |
-  DAI is delighted to announce the addition of Helen Mealins as Director, International, Bilateral Strategy and External Partnering.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to announce the addition of Helen Mealins as Director,
+  International, Bilateral Strategy and External Partnering.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce the addition of Helen Mealins as Director, International, Bilateral Strategy and External Partnering.
 
 Helen brings to DAI more than 20 years of experience supporting social policy and economic sector reforms in developed and developing countries in Africa, Asia, and Europe. An accomplished bilateral aid program director and strategist, she has planned and managed the successful implementation of regional and country development assistance programs on behalf of agencies including the U.K. Department for International Development (DFID), the European Commission, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), the International Monetary Fund, the United Nations Development Programme, and the World Bank.

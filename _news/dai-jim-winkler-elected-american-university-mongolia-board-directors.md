@@ -1,15 +1,19 @@
 ---
 title: DAI’s Jim Winkler Elected to American University of Mongolia Board of Directors
 date: 2013-03-19 18:05:00 Z
-summary: |
-  DAI's Vice President of Solutions [Jim Winkler](/who-we-are/leadership/jim-winkler) on March 14 was elected to the Board of Directors of the newly established American University of Mongolia (AUM).
-solutions:
+summary: 'DAI''s Vice President of Solutions [Jim Winkler](/who-we-are/leadership/jim-winkler)
+  on March 14 was elected to the Board of Directors of the newly established American
+  University of Mongolia (AUM).
+
+'
+solutions: 
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's Vice President of Solutions [Jim Winkler][1] on March 14 was elected to the Board of Directors of the newly established American University of Mongolia (AUM).
 
 An economist who specializes in private sector development, economic growth, competitiveness, and governance, Jim has supervised more than 50 long-term DAI projects funded by the U.S. Agency for International Development (USAID), personally managing projects in [Vietnam][2], Croatia, Cambodia, and the Palestinian Territories. Jim holds a Ph.D. in international relations from The Fletcher School, Tufts University.

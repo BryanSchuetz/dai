@@ -1,14 +1,16 @@
 ---
 title: Spring 2013 Developments is Available
 date: 2013-03-26 18:05:00 Z
-summary: |
-  The Spring 2013 issue of _Developments_ is now available.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Spring 2013 issue of _Developments_ is now available.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The Spring 2013 issue of _Developments_ is now available.
 
 In the cover story, Sydney Zharare describes how we used a Making Markets Work for the Poor approach [in Mozambique][1] to broker a mutually profitable and hence sustainable partnership between a major poultry operation and struggling local farmers.

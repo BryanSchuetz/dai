@@ -1,17 +1,20 @@
 ---
 title: Burundian Coffee Joins Ranks of International Elite
 date: 2013-01-07 18:05:00 Z
-summary: |
-  Coffee from Burundi is now far more visible on world markets after an international competition was held in the country.
+summary: 'Coffee from Burundi is now far more visible on world markets after an international
+  competition was held in the country.
+
+'
 solutions:
 - Economic Growth
 - Agriculture and Food Security
 regions:
 - Sub-Saharan Africa
 projects: Burundi—Agribusiness Program (BAP)
-clients:
+clients: 
 layout: node
 ---
+
 Coffee from Burundi is now far more visible on world markets after an international competition was held in the country.
 
 With support from the [Burundi Agribusiness Program][1] (BAP)—a DAI-implemented, United States Agency for International Development (USAID)-funded project that recently came to a close after five years—Burundi became the second African nation to host a Cup of Excellence contest, a well-known international coffee competition that rewards the best quality coffee. It was this competition that gave the country's coffee bean growers a well-deserved boost. About 150 lots of Burundian coffee were pre-selected for submission to the competition. Coffee production is divided into "lots" when processed at the wet mill and taste, as well as quality, can differ per lot, depending on the soil, plant varietal, altitude, rainfall and a host of other factors.

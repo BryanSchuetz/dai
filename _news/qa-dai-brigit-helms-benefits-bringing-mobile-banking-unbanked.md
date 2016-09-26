@@ -1,17 +1,21 @@
 ---
 title: Q&A with DAI’s Brigit Helms on Benefits of Bringing Mobile Banking to the Unbanked
 date: 2013-04-12 18:05:00 Z
-summary: |
-  There is no doubting the growth in popularity of mobile banking. According to Juniper Research, the market for mobile payments is expected to reach more than $600 billion (£393bn) globally this year—double the figure of February 2011.
+summary: 'There is no doubting the growth in popularity of mobile banking. According
+  to Juniper Research, the market for mobile payments is expected to reach more than
+  $600 billion (£393bn) globally this year—double the figure of February 2011.
+
+'
 solutions:
 - Economic Growth
 - Digital
 regions:
 - Sub-Saharan Africa
 projects: Mozambique—Support Program for Economic and Enterprise Development (SPEED)
-clients:
+clients: 
 layout: node
 ---
+
 There is no doubting the growth in popularity of mobile banking. According to Juniper Research, the market for mobile payments is expected to reach more than $600 billion (£393bn) globally this year—double the figure of February 2011. And many development organizations are riding that telecom wave to reach people who don't have access to financial institutions.
 
 But that doesn't mean mobile banking is without its challenges. DAI's mobile banking and inclusive economic growth specialist Brigit Helms has worked for 25 years with various institutions, including McKinsey & Co. and the International Finance Corporation, on financial inclusion and enterprise and market-based approaches to alleviating poverty. She currently works in Mozambique for the U.S. Agency for International Development (USAID) on a [DAI-led project][1] aimed at speeding up the modernization of Mozambique's economic, legal, and governance systems.

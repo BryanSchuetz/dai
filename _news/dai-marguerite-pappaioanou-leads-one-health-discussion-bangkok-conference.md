@@ -1,16 +1,20 @@
 ---
 title: DAI’s Marguerite Pappaioanou Leads One Health Discussion at Bangkok Conference
 date: 2013-02-01 18:05:00 Z
-summary: |
-  In recent years tens of thousands of people have died—including more than 18,000 in the 2009 H1N1 influenza pandemic—of disease born from the interaction of people, animals, and ecosystems.
+summary: 'In recent years tens of thousands of people have died—including more than
+  18,000 in the 2009 H1N1 influenza pandemic—of disease born from the interaction
+  of people, animals, and ecosystems.
+
+'
 solutions:
 - Health
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 In recent years tens of thousands of people have died—including more than 18,000 in the 2009 H1N1 influenza pandemic—of disease born from the interaction of people, animals, and ecosystems.
 
 Outbreaks of swine flu, avian flu, and other zoonotic diseases could be stopped if authorities cooperated across borders and other barriers, DAI's Dr. Marguerite Pappaioanou told an audience February 1 at the Prince Mahidol Award Conference in Bangkok, Thailand. The conference, which runs through February 2, has drawn more than 1,200 health and industry professionals addressing infectious disease.

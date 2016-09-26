@@ -1,15 +1,21 @@
 ---
 title: DAI Experts Present at Savings Group Conference
 date: 2013-03-06 18:05:00 Z
-summary: |
-  Robert Salerno, DAI's specialist in Health, Nutrition, and Livelihoods, and Daniel Lazier, Livelihoods Manager on the Economic Strengthening for Households Affected by AIDS (IMARISHA) Project in Tanzania, were featured speakers on a panel about savings groups with HIV-affected communities at the 2013 Savings Group Conference "Expanding Financial Inclusion and Development," held March 4–5.
-solutions:
+summary: 'Robert Salerno, DAI''s specialist in Health, Nutrition, and Livelihoods,
+  and Daniel Lazier, Livelihoods Manager on the Economic Strengthening for Households
+  Affected by AIDS (IMARISHA) Project in Tanzania, were featured speakers on a panel
+  about savings groups with HIV-affected communities at the 2013 Savings Group Conference
+  "Expanding Financial Inclusion and Development," held March 4–5.
+
+'
+solutions: 
 regions:
--
-projects:
-clients:
+- 
+projects: 
+clients: 
 layout: node
 ---
+
 [Robert Salerno][1], DAI's specialist in Health, Nutrition, and Livelihoods, and Daniel Lazier, Livelihoods Manager on the [Economic Strengthening for Households Affected by AIDS (IMARISHA)][2] Project in Tanzania, were featured speakers on a panel about savings groups with HIV-affected communities at the 2013 Savings Group Conference "Expanding Financial Inclusion and Development," held March 4–5. [Bill Grant][3], Global Lead for Inclusive Economic Growth, opened the plenary with a historical perspective on savings groups and their role in rural development.
 
 The 2013 conference, put on by Oxfam America, focused on savings groups as an effective and complementary approach to financial inclusion and development. Presentations highlighted new developments in research, impact, and how to bring savings groups to scale.

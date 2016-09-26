@@ -1,14 +1,19 @@
 ---
-title: Maria Otero Honored by the Society for International Development Washington Chapter
+title: Maria Otero Honored by the Society for International Development Washington
+  Chapter
 date: 2012-12-19 18:05:00 Z
-summary: |
-  This week's Gala Dinner for the Washington, D.C. Chapter of the Society for International Development (SID-Washington) honored Maria Otero, Under Secretary for Civilian Security, Democracy and Human Rights at the U.S. Department of State.
-solutions:
-regions:
-projects:
-clients:
+summary: 'This week''s Gala Dinner for the Washington, D.C. Chapter of the Society
+  for International Development (SID-Washington) honored Maria Otero, Under Secretary
+  for Civilian Security, Democracy and Human Rights at the U.S. Department of State.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 This week's Gala Dinner for the Washington, D.C. Chapter of the Society for International Development (SID-Washington) honored Maria Otero, Under Secretary for Civilian Security, Democracy and Human Rights at the U.S. Department of State.
 
 Otero won the SID-Washington Award for Leadership in Development for "her profound contributions to the international development community," particularly in the areas of microfinance, inclusive economic development, women's issues, and poverty alleviation.

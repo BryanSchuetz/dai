@@ -1,14 +1,17 @@
 ---
 title: Michael Jakobowski Joins DAI as CFO
 date: 2013-03-05 18:05:00 Z
-summary: |
-  DAI is delighted to announce that Michael Jakobowski has joined the firm as Chief Financial Officer (CFO).
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to announce that Michael Jakobowski has joined the firm
+  as Chief Financial Officer (CFO).
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce that Michael Jakobowski has joined the firm as Chief Financial Officer (CFO).
 
 Jakobowski has more than 20 years of management and consulting experience, including in strategic planning, mergers and acquisitions, business process integration, and 11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson Lambert.

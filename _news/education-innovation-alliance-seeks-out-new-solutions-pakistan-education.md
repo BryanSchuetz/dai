@@ -1,18 +1,24 @@
 ---
-title: Education Innovation Alliance Seeks Out New Solutions to Pakistan’s Education Emergency
+title: Education Innovation Alliance Seeks Out New Solutions to Pakistan’s Education
+  Emergency
 date: 2013-03-18 18:05:00 Z
-summary: |
-  With millions of children out of school and those in school failing to read and write at grade level, Pakistan will not only fall short of its Millennium Development Goals—it is gripped by an education emergency that will cripple the country's economy, stymie its growth, and threaten its stability.
+summary: 'With millions of children out of school and those in school failing to read
+  and write at grade level, Pakistan will not only fall short of its Millennium Development
+  Goals—it is gripped by an education emergency that will cripple the country''s economy,
+  stymie its growth, and threaten its stability.
+
+'
 solutions:
 - Governance
 - Financial Services
 - Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 With millions of children out of school and those in school failing to read and write at grade level, Pakistan will not only fall short of its Millennium Development Goals—it is gripped by an education emergency that will cripple the country's economy, stymie its growth, and threaten its stability.
 
 To encourage out-of-the-box thinking and generate commitment among Pakistan's leading minds and policy influencers on the need to nurture innovative approaches in education, the DAI-led [Ilm Ideas](/our-work/projects/pakistan-education-voice-and-accountability-fund) project, funded by the U.K. Department for International Development, partnered with an education nonprofit, Developyst, and the Pakistan Poverty Alleviation Fund to bring together leaders from education, government, microfinance, poverty alleviation, and technology sectors to form Pakistan's first Education Innovation Alliance.

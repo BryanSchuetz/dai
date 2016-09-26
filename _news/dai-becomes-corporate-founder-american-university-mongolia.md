@@ -1,16 +1,20 @@
 ---
 title: DAI Becomes Corporate Founder of American University of Mongolia
 date: 2013-02-04 18:05:00 Z
-summary: |
-  DAI today announced that it has become a corporate founder of the American University of Mongolia (AUM), joining Newcom LLC, Rio Tinto PLC, and the General Electric Foundation in supporting the university's development.
+summary: 'DAI today announced that it has become a corporate founder of the American
+  University of Mongolia (AUM), joining Newcom LLC, Rio Tinto PLC, and the General
+  Electric Foundation in supporting the university''s development.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Asia and the Pacific
 projects: 'Mongolia—Khan Bank: Bank Management Support'
-clients:
+clients: 
 layout: node
 ---
+
 DAI today announced that it has become a corporate founder of the [American University of Mongolia (AUM)][1], joining Newcom LLC, Rio Tinto PLC, and the General Electric Foundation in supporting the university's development.
 
 "We are delighted to make this contribution," said DAI president and CEO [James Boomgard][2]. "DAI has been working to make a difference in Mongolia for more than 20 years and we want to be part of Mongolia's bright future. Making a lasting investment in its young people is one way we can do that."
