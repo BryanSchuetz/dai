@@ -1,17 +1,22 @@
 ---
 title: DAI Project in Poland Honors Small Firms for Energy-Efficiency Efforts
 date: 2012-11-28 18:05:00 Z
-summary: |
-  The Polish Sustainable Energy Financing Facility (PolSEFF), implemented by DAI and funded by the European Bank for Reconstruction and Development (EBRD), recently held its first awards ceremony to recognize Polish small and medium enterprises' achievements in raising energy efficiency standards.
+summary: 'The Polish Sustainable Energy Financing Facility (PolSEFF), implemented
+  by DAI and funded by the European Bank for Reconstruction and Development (EBRD),
+  recently held its first awards ceremony to recognize Polish small and medium enterprises''
+  achievements in raising energy efficiency standards.
+
+'
 solutions:
 - Environment and Energy
 - Innovation and Entrepreneurship
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The Polish Sustainable Energy Financing Facility (PolSEFF), implemented by DAI and funded by the European Bank for Reconstruction and Development (EBRD), recently held its first awards ceremony to recognize Polish small and medium enterprises' achievements in raising energy efficiency standards.
 
 More than 100 guests—including representatives from small and medium firms, bankers, ministers, senior management from EBRD, and local business media—attended the gala dinner and awards ceremony organized by the DAI project team.

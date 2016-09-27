@@ -1,8 +1,12 @@
 ---
-title: DAI Launches FED Project With Initiative to Triple Rice Production in Doumpa, Liberia
+title: DAI Launches FED Project With Initiative to Triple Rice Production in Doumpa,
+  Liberia
 date: 2012-07-23 18:05:00 Z
-summary: |
-  DAI has begun its first major initiative under the Food and Enterprise Development (FED) Program, part of the U.S. Agency for International Development's Feed the Future Initiative.
+summary: 'DAI has begun its first major initiative under the Food and Enterprise Development
+  (FED) Program, part of the U.S. Agency for International Development''s Feed the
+  Future Initiative.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -10,9 +14,10 @@ solutions:
 regions:
 - Sub-Saharan Africa
 projects: Liberia—Food and Enterprise Development Program (FED)
-clients:
+clients: 
 layout: node
 ---
+
 DAI has begun its first major initiative under the [Food and Enterprise Development (FED) Program][1], part of the U.S. Agency for International Development's Feed the Future Initiative.
 
 The project's overarching goal is to assist local farmers in increasing their production and profitability.

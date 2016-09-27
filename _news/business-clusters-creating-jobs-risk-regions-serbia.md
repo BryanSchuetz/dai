@@ -1,16 +1,20 @@
 ---
 title: Business Clusters Creating Jobs in At-Risk Regions of Serbia
 date: 2012-11-28 18:05:00 Z
-summary: |
-  Serbian national television this month profiled a pair of business clusters launched in economically depressed regions of Serbia that are now thriving and creating hundreds of jobs.
+summary: 'Serbian national television this month profiled a pair of business clusters
+  launched in economically depressed regions of Serbia that are now thriving and creating
+  hundreds of jobs.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Serbian national television this month profiled a pair of business clusters launched in economically depressed regions of Serbia that are now thriving and creating hundreds of jobs.
 
 Formerly a collection of small businesses struggling to make a dent in local markets, the Asstex jeans production cluster in Novi Pazar and Kostana shoes production cluster in Vranje combined for $22.5 million in export sales in 2011 while employing nearly 1,800 people.

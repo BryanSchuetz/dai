@@ -1,17 +1,24 @@
 ---
 title: DAI Speaks On Supporting Young Entrepreneurs at Workforce Development Conference
 date: 2012-09-11 18:05:00 Z
-summary: |
-  Lara Goldmark, DAI's Technical Area Manager for Private Sector Development, and Marwan Juma, a DAI Board Member and former chairman of the Young Arab Leaders Organization, are speaking on a panel about innovative funding mechanisms to support youth entrepreneurs on the opening day of the 2012 Global Youth Economic Opportunities Conference, September 11-13, at the Inter-American Development Bank in Washington, D.C.
+summary: 'Lara Goldmark, DAI''s Technical Area Manager for Private Sector Development,
+  and Marwan Juma, a DAI Board Member and former chairman of the Young Arab Leaders
+  Organization, are speaking on a panel about innovative funding mechanisms to support
+  youth entrepreneurs on the opening day of the 2012 Global Youth Economic Opportunities
+  Conference, September 11-13, at the Inter-American Development Bank in Washington,
+  D.C.
+
+'
 solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Lara Goldmark, DAI's Technical Area Manager for Private Sector Development, and [Marwan Juma][1], a DAI Board Member and former chairman of the Young Arab Leaders Organization, are speaking on a panel about innovative funding mechanisms to support youth entrepreneurs on the opening day of the 2012 Global Youth Economic Opportunities Conference, September 11-13, at the Inter-American Development Bank in Washington, D.C.
 
 The 2012 conference, put on by Making Cents International, focuses on workforce development; adolescent girls and young women; financial services and financial capabilities; monitoring, evaluation, and impact assessment; and youth enterprise development.

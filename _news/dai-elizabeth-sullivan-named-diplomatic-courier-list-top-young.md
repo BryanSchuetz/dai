@@ -1,16 +1,22 @@
 ---
-title: DAI’s Elizabeth Sullivan Named on Diplomatic Courier’s List of Top Young Professionals in Foreign Policy
+title: DAI’s Elizabeth Sullivan Named on Diplomatic Courier’s List of Top Young Professionals
+  in Foreign Policy
 date: 2012-09-07 18:05:00 Z
-summary: |
-  Elizabeth Sullivan, a Monitoring and Evaluation Specialist on DAI's Trans-Sahara Security Symposium (TSS) project, was named by the _Diplomatic Courier_ magazine and the Young Professionals in Foreign Policy (YPFP) association as one of the top 99 leaders under the age of 33 working in international affairs.
+summary: 'Elizabeth Sullivan, a Monitoring and Evaluation Specialist on DAI''s Trans-Sahara
+  Security Symposium (TSS) project, was named by the _Diplomatic Courier_ magazine
+  and the Young Professionals in Foreign Policy (YPFP) association as one of the top
+  99 leaders under the age of 33 working in international affairs.
+
+'
 solutions:
 - Stability
 regions:
 - Middle East and North Africa
 projects: Africa—Trans-Sahara Security Symposium (TSS)
-clients:
+clients: 
 layout: node
 ---
+
 Elizabeth Sullivan, a Monitoring and Evaluation Specialist on DAI's [Trans-Sahara Security Symposium][1] (TSS) project, was named by the _Diplomatic Courier_ magazine and the Young Professionals in Foreign Policy (YPFP) association as one of the top 99 leaders under the age of 33 working in international affairs.
 
 The magazine created the award to "capture the extraordinary impact of the millennial generation on international affairs."

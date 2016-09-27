@@ -1,17 +1,22 @@
 ---
 title: DASKARA Olive Oil Brand Unveiled at Major Food Tradeshow in D.C.
 date: 2012-06-19 18:05:00 Z
-summary: |
-  The unprecedented public-private partnership between the International Finance Corporation (IFC), DAI, and Palestinian olive oil producers culminated in the successful launch June 17 of a high-end flavorful olive oil called DASKARA, on the sidelines of the Summer Fancy Food Show in Washington, D.C.
+summary: 'The unprecedented public-private partnership between the International Finance
+  Corporation (IFC), DAI, and Palestinian olive oil producers culminated in the successful
+  launch June 17 of a high-end flavorful olive oil called DASKARA, on the sidelines
+  of the Summer Fancy Food Show in Washington, D.C.
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The unprecedented public-private partnership between the International Finance Corporation (IFC), DAI, and Palestinian olive oil producers culminated in the successful launch June 17 of a high-end flavorful olive oil called DASKARA, on the sidelines of the Summer Fancy Food Show in Washington, D.C.
 
 The brand launch was held at one of D.C.'s most well-known restaurants, ris, with multiple mezzes prepared with DASKARA by celebrity chef Ris Lacoste, including cauliflower panna cotta; rice, lentils, and vermicelli; lamb shank, and focaccia thyme bread.

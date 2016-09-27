@@ -1,15 +1,19 @@
 ---
 title: DAI Presents at 19th International AIDS Conference in Washington, D.C.
 date: 2012-07-30 18:05:00 Z
-summary: |
-  DAI's Health Sector helped lead discussions at this year's International AIDS Conference, AIDS2012, in Washington, D.C. The weeklong event, July 22-27, attracted an estimated 25,000 people who are joined in the ongoing battle against AIDS.
+summary: 'DAI''s Health Sector helped lead discussions at this year''s International
+  AIDS Conference, AIDS2012, in Washington, D.C. The weeklong event, July 22-27, attracted
+  an estimated 25,000 people who are joined in the ongoing battle against AIDS.
+
+'
 solutions:
-- Health 
-regions:
-projects:
-clients:
+- Health
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's Health Sector helped lead discussions at this year's International AIDS Conference, [AIDS2012][1], in Washington, D.C. The weeklong event, July 22-27, attracted an estimated 25,000 people who are joined in the ongoing battle against AIDS.
 
 One of the stars of the event was the DAI-led [Economic Strengthening for Households Affected by AIDS (IMARISHA)][2] project, which assists PEPFAR-funded service providers and the Government in Tanzania to improve economic strengthening activities for people impacted by HIV. Specifically, DAI is helping these organizations—including FHI360, Africare, Pathfinder, Pact, Walter Reed, and more than 50 Tanzanian organizations—to better prioritize and deliver appropriate interventions for HIV-affected households.

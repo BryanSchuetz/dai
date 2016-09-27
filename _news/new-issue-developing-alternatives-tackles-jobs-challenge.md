@@ -1,14 +1,19 @@
 ---
 title: New Issue of Developing Alternatives Tackles the Jobs Challenge
 date: 2012-10-11 18:05:00 Z
-summary: |
-  Job losses during the worldwide economic slump continue to bedevil policy makers everywhere. Dismal employment prospects, especially for young people, have exacerbated social conflicts. In emerging economies, the global crisis has further complicated the challenge of integrating the informal sector.
-solutions:
-regions:
-projects:
-clients:
+summary: 'Job losses during the worldwide economic slump continue to bedevil policy
+  makers everywhere. Dismal employment prospects, especially for young people, have
+  exacerbated social conflicts. In emerging economies, the global crisis has further
+  complicated the challenge of integrating the informal sector.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Job losses during the worldwide economic slump continue to bedevil policy makers everywhere. Dismal employment prospects, especially for young people, have exacerbated social conflicts. In emerging economies, the global crisis has further complicated the challenge of integrating the informal sector.
 
 The magnitude of the employment challenge is enormous. In the Middle East and North Africa alone, anywhere from 55 to 85 million jobs are needed to employ youth. The economic, social, and political costs of inaction are staggering.

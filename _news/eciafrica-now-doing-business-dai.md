@@ -1,15 +1,18 @@
 ---
 title: ECIAfrica Now Doing Business as DAI
 date: 2012-11-07 18:05:00 Z
-summary: |
-  Johannesburg, South Africa—Effective November 14th, 2012, ECI_Africa_ Consulting (Pty) Ltd will do business under the name of its majority owner, DAI.
-solutions:
+summary: 'Johannesburg, South Africa—Effective November 14th, 2012, ECI_Africa_ Consulting
+  (Pty) Ltd will do business under the name of its majority owner, DAI.
+
+'
+solutions: 
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Johannesburg, South Africa—Effective November 14th, 2012, ECI_Africa_ Consulting (Pty) Ltd will do business under the name of its majority owner, DAI.
 
 The name change reflects tighter integration between Johannesburg and DAI's corporate offices worldwide. "ECI_Africa_ has been an integral part of the DAI network since 1994 and a crucial part of its mission to shape a more livable world, particularly in our own region of Southern Africa," said Johannesburg-based Managing Director Claudia Manning. "In taking on the DAI name, we are reflecting the fact that now more than ever, clients who access DAI services through the Johannesburg office are tapping the full spectrum of DAI's global resources: knowledge, systems, networks, and human capital."

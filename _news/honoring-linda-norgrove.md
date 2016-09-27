@@ -1,16 +1,21 @@
 ---
 title: Honoring Linda Norgrove
 date: 2012-10-04 18:05:00 Z
-summary: |
-  DAI employee Linda Norgrove was kidnapped September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt by U.S. forces. Norgrove was working on the [Incentives Driving Economic Alternatives for the North, East, and West][1] Program.
+summary: 'DAI employee Linda Norgrove was kidnapped September 26, 2010, in Kunar Province,
+  Afghanistan, and died October 8 during a rescue attempt by U.S. forces. Norgrove
+  was working on the [Incentives Driving Economic Alternatives for the North, East,
+  and West][1] Program.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI employee Linda Norgrove was kidnapped September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt by U.S. forces. Norgrove was working on the [Incentives Driving Economic Alternatives for the North, East, and West][1] Program.
 
 After the [tragedy][2], her parents created the [Linda Norgrove Foundation][3] to support development in Afghanistan, and the advancement of women and children in particular. The foundation is a grant-giving trust that funds education, health, and childcare for Afghan women and children affected by the war.

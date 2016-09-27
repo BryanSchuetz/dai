@@ -1,15 +1,19 @@
 ---
 title: DAI’s Global Health Practitioners Recognize World AIDS Day
 date: 2012-11-26 18:05:00 Z
-summary: |
-  World AIDS Day is held every December 1 and is an opportunity for people worldwide to unite in the fight against HIV, show their support for people living with HIV, and to commemorate people who have died. It was first was held in 1988.
+summary: 'World AIDS Day is held every December 1 and is an opportunity for people
+  worldwide to unite in the fight against HIV, show their support for people living
+  with HIV, and to commemorate people who have died. It was first was held in 1988.
+
+'
 solutions:
 - Health
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 [World AIDS Day][1] is held every December 1 and is an opportunity for people worldwide to unite in the fight against HIV, show their support for people living with HIV, and to commemorate people who have died. It was first was held in 1988.
 
 According to the World Health Organization, between 2011–2015, World AIDS Days has the theme of "Getting to zero: Zero new HIV infections. Zero discrimination. Zero AIDS-related deaths." The theme "signifies a push towards greater access to treatment for all; a call for governments to act now. It is a call to honor promises like the Abuja declaration and for African governments to at least hit targets for domestic spending on health and HIV."

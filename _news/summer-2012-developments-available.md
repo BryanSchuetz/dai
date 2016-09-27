@@ -1,14 +1,16 @@
 ---
 title: Summer 2012 Developments is Available
 date: 2012-07-16 18:05:00 Z
-summary: |
-  The Summer 2012 issue of _Developments_ is now available.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The Summer 2012 issue of _Developments_ is now available.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The Summer 2012 issue_ _of_ Developments_ is now available.
 
 In the cover story, Ed Rackley relates the ups and downs of engaging youth and especially youth music to hold [government accountable][1] in the Democratic Republic of the Congo.

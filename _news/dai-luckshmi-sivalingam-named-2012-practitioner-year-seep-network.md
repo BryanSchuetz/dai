@@ -1,8 +1,14 @@
 ---
 title: DAI’s Luckshmi Sivalingam Named 2012’s Practitioner of the Year by SEEP Network
 date: 2012-11-13 18:05:00 Z
-summary: |
-  Luckshmi Sivalingam—a development practitioner with 10 years of professional experience in project design, development, and management in South and Southeast Asia, Sub-Saharan Africa, and the Middle East—has been named Practitioner of the Year by the SEEP Network, a global membership network of more than 130 international organizations dedicated to alleviating poverty by promoting inclusive markets and financial systems.
+summary: 'Luckshmi Sivalingam—a development practitioner with 10 years of professional
+  experience in project design, development, and management in South and Southeast
+  Asia, Sub-Saharan Africa, and the Middle East—has been named Practitioner of the
+  Year by the SEEP Network, a global membership network of more than 130 international
+  organizations dedicated to alleviating poverty by promoting inclusive markets and
+  financial systems.
+
+'
 solutions:
 - Economic Growth
 - Natural Resource Management
@@ -11,9 +17,10 @@ solutions:
 regions:
 - Sub-Saharan Africa
 projects: Malawi—Integrating Nutrition into Value Chains
-clients:
+clients: 
 layout: node
 ---
+
 Luckshmi Sivalingam—a development practitioner with 10 years of professional experience in project design, development, and management in South and Southeast Asia, Sub-Saharan Africa, and the Middle East—has been named Practitioner of the Year by the SEEP Network, a global membership network of more than 130 international organizations dedicated to alleviating poverty by promoting inclusive markets and financial systems.
 
 SEEP members are active in 170 countries and support nearly 90 million entrepreneurs and their families. Every year, the SEEP Network recognizes one microfinance network, one member organization, and one individual practitioner for exceptional leadership and contributions to the industry.

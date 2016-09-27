@@ -1,16 +1,20 @@
 ---
 title: USAID Presents Awards for Innovations to Promote Literacy
 date: 2012-09-10 18:05:00 Z
-summary: |
-  Thirty-two groups representing 16 countries were nominated for innovation grants Sept. 7 by the U.S. Agency for International Development (USAID), with the funds to be invested in programs that increase literacy.
+summary: 'Thirty-two groups representing 16 countries were nominated for innovation
+  grants Sept. 7 by the U.S. Agency for International Development (USAID), with the
+  funds to be invested in programs that increase literacy.
+
+'
 solutions:
 - Digital
-- Innovation and Entrepreneurship 
-regions:
-projects:
-clients:
+- Innovation and Entrepreneurship
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Thirty-two groups representing 16 countries were nominated for innovation grants Sept. 7 by the U.S. Agency for International Development (USAID), with the funds to be invested in programs that increase literacy.
 
 Selected from a field of 450 submissions, the awards are part of "[All Children Reading: A Grand Challenge for Development][1]," a multiyear partnership launched in November 2011 to find and fund innovative solutions for literacy and catalyze global action around the issue.

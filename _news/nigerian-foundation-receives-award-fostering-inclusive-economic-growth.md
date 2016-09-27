@@ -1,17 +1,21 @@
 ---
 title: Nigerian Foundation Receives Award for Fostering Inclusive Economic Growth
 date: 2012-10-02 18:05:00 Z
-summary: |
-  The Foundation for Partnership Initiative in the Niger Delta (PIND) recently received a 2012 Delta Achievers' Merit Award (NDAMA) for its work on partnerships that promote inclusive economic growth.
+summary: 'The Foundation for Partnership Initiative in the Niger Delta (PIND) recently
+  received a 2012 Delta Achievers'' Merit Award (NDAMA) for its work on partnerships
+  that promote inclusive economic growth.
+
+'
 solutions:
 - Economic Growth
 - Corporate Services
 regions:
 - Sub-Saharan Africa
 projects: Nigeria—Foundation for Partnership Initiatives in the Niger Delta (PIND)
-clients:
+clients: 
 layout: node
 ---
+
 The Foundation for Partnership Initiative in the Niger Delta (PIND) recently received a 2012 Delta Achievers' Merit Award (NDAMA) for its work on partnerships that promote inclusive economic growth.
 
 The awards go to organizations that have contributed to the advancement of the Niger Delta region organizations—"that may have never been commended or recognized by government and society for their remarkable performance in the growth and development of the Niger Delta region."

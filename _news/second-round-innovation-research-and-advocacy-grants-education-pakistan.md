@@ -1,8 +1,11 @@
 ---
-title: Second Round of Innovation, Research, and Advocacy Grants for Education in Pakistan Launches
+title: Second Round of Innovation, Research, and Advocacy Grants for Education in
+  Pakistan Launches
 date: 2012-10-19 18:05:00 Z
-summary: |
-  The U.K. Department for International Development (DFID), also known as UKaid, has launched a second round of grants under the [Ilm Ideas Program][1].
+summary: 'The U.K. Department for International Development (DFID), also known as
+  UKaid, has launched a second round of grants under the [Ilm Ideas Program][1].
+
+'
 solutions:
 - Innovation and Entrepreneurship
 - Financial Services
@@ -10,9 +13,10 @@ solutions:
 regions:
 - Asia and the Pacific
 projects: Pakistan—Education Voice and Accountability Fund (Ilm Ideas)
-clients:
+clients: 
 layout: node
 ---
+
 The U.K. Department for International Development (DFID), also known as UKaid, has launched a second round of grants under the [Ilm Ideas Program][1].
 
 The £6.1 million program allocates grants from two funds:

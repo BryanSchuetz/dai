@@ -1,15 +1,18 @@
 ---
 title: USAID Launches Program to Tap the Brainpower of University Students
 date: 2012-11-19 18:05:00 Z
-summary: |
-  The U.S. Agency for International Developing (USAID) is launching development labs at seven universities to harness their creative energy and generate ideas.
+summary: 'The U.S. Agency for International Developing (USAID) is launching development
+  labs at seven universities to harness their creative energy and generate ideas.
+
+'
 solutions:
 - Innovation and Entrepreneurship
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The U.S. Agency for International Developing (USAID) is launching development labs at seven universities to harness their creative energy and generate ideas.
 
 The new Higher Education Solutions Network will, among other activities, establish technology hubs, test ideas, and brainstorm for solutions to challenges in areas such as global health, food security, and chronic conflict.

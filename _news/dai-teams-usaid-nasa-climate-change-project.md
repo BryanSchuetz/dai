@@ -1,16 +1,21 @@
 ---
 title: DAI Teams with USAID, NASA on Climate Change Project
 date: 2012-08-07 18:05:00 Z
-summary: |
-  DAI is delighted to announce that we are collaborating with the U.S. Agency for International Development (USAID), in partnership with the National Aeronautics and Space Administration (NASA), to use earth observations from space to help forecast and adapt to the effects of climate change.
+summary: 'DAI is delighted to announce that we are collaborating with the U.S. Agency
+  for International Development (USAID), in partnership with the National Aeronautics
+  and Space Administration (NASA), to use earth observations from space to help forecast
+  and adapt to the effects of climate change.
+
+'
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
-regions:
+regions: 
 projects: Worldwide—SERVIR Program Demand Activity
-clients:
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce that we are collaborating with the U.S. Agency for International Development (USAID), in partnership with the National Aeronautics and Space Administration (NASA), to use earth observations from space to help forecast and adapt to the effects of climate change.
 
 Established in 2004, the [SERVIR Program][1], using NASA's vast earth observation satellite resources, is strengthening the capacity of governments and others to integrate earth observations and geospatial technologies into decision making for sustainable development.

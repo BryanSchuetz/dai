@@ -1,18 +1,21 @@
 ---
 title: Philippine City Launches Mobile Payment Pilot
 date: 2012-11-08 18:05:00 Z
-summary: |
-  The U.S. Embassy and the city of Valenzuela, Philippines, have partnered to promote the use of mobile money for payment of government services.
+summary: 'The U.S. Embassy and the city of Valenzuela, Philippines, have partnered
+  to promote the use of mobile money for payment of government services.
+
+'
 solutions:
 - Economic Growth
 - Digital
 - Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The U.S. Embassy and the city of Valenzuela, Philippines, have partnered to promote the use of mobile money for payment of government services.
 
 The United States Agency for International Development (USAID)'s [Scaling Innovations in Mobile Money][1] (SIMM) project—implemented by DAI—will lead the pilot.

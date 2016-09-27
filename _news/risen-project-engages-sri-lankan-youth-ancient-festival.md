@@ -1,16 +1,20 @@
 ---
 title: RISEN Project Engages Sri Lankan Youth in Ancient Festival
 date: 2012-11-07 18:05:00 Z
-summary: |
-  To commemorate the Tamil holiday of Thai Pongal and celebrate diversity within a country too often divided along ethnic and religious lines, the [Reintegration and Stabilization in the East and North (RISEN)][1] project recently brought together youth from the north and south of Sri Lanka to promote reconciliation and advocate for the establishment of a youth network.  
+summary: "To commemorate the Tamil holiday of Thai Pongal and celebrate diversity
+  within a country too often divided along ethnic and religious lines, the [Reintegration
+  and Stabilization in the East and North (RISEN)][1] project recently brought together
+  youth from the north and south of Sri Lanka to promote reconciliation and advocate
+  for the establishment of a youth network.  \n"
 solutions:
 - Stability
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 To commemorate the Tamil holiday of Thai Pongal and celebrate diversity within a country too often divided along ethnic and religious lines, the [Reintegration and Stabilization in the East and North (RISEN)][1] project recently brought together youth from the north and south of Sri Lanka to promote reconciliation and advocate for the establishment of a youth network.  
 
 <iframe allowfullscreen="" frameborder="0" height="391" mozallowfullscreen="" src="http://player.vimeo.com/video/53352500?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" webkitallowfullscreen="" width="703"></iframe>

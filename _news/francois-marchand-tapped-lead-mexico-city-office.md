@@ -1,15 +1,19 @@
 ---
-title:  Francois Marchand Tapped to Lead Mexico City Office
+title: Francois Marchand Tapped to Lead Mexico City Office
 date: 2012-09-12 18:05:00 Z
-summary: |
-  DAI is delighted to announce that Francois Marchand has joined the global development firm to lead Latin America and Caribbean work, based out of our Mexico City office.
-solutions:
+summary: 'DAI is delighted to announce that Francois Marchand has joined the global
+  development firm to lead Latin America and Caribbean work, based out of our Mexico
+  City office.
+
+'
+solutions: 
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce that Francois Marchand has joined the global development firm to lead Latin America and Caribbean work, based out of our Mexico City office.
 
 Marchand comes from the management consulting world, have worked for nearly a decade at KPMG, one of the largest consulting firms in the world. He also has previously worked at Grupo Pulsar, a holding company for firms in financial services, technology, and media; Zipoint Consulting Group, an advisory firm that designs and executes high-level growth strategies; and Compostela Capital Partners, a venture capital firm.

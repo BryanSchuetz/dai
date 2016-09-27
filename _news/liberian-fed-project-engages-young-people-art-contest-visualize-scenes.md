@@ -1,8 +1,14 @@
 ---
-title: Liberian FED Project Engages Young People in Art Contest to Visualize Scenes of Healthy Food Production
+title: Liberian FED Project Engages Young People in Art Contest to Visualize Scenes
+  of Healthy Food Production
 date: 2012-11-15 18:05:00 Z
-summary: |
-  In celebration of World Food Day, held every year on October 16, in commemoration of the founding of the United Nation's Food and Agriculture Organization (FAO) in 1945, the Food and Enterprise Development (FED) project is collaborating with ChildArt Liberia, a local nongovernmental organization, in a competition called "Agricultural Cooperatives—Key to Feeding the World."
+summary: 'In celebration of World Food Day, held every year on October 16, in commemoration
+  of the founding of the United Nation''s Food and Agriculture Organization (FAO)
+  in 1945, the Food and Enterprise Development (FED) project is collaborating with
+  ChildArt Liberia, a local nongovernmental organization, in a competition called
+  "Agricultural Cooperatives—Key to Feeding the World."
+
+'
 solutions:
 - Agriculture and Food Security
 - Economic Growth
@@ -10,9 +16,10 @@ solutions:
 regions:
 - Sub-Saharan Africa
 projects: Liberia—Food and Enterprise Development Program (FED)
-clients:
+clients: 
 layout: node
 ---
+
 In celebration of World Food Day, held every year on October 16, in commemoration of the founding of the United Nation's Food and Agriculture Organization (FAO) in 1945, the [Food and Enterprise Development (FED)][1] project is collaborating with ChildArt Liberia, a local nongovernmental organization, in a competition called "Agricultural Cooperatives—Key to Feeding the World."
 
 ![][2]

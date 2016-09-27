@@ -1,16 +1,20 @@
 ---
 title: Rwanda’s Nyungwe National Park Nominated for Travel Award
 date: 2012-10-22 18:05:00 Z
-summary: |
-  Rwanda's Nyungwe National Park has been nominated by the British Guild of Travel Writers (BGTW) to receive an award for "Best Overseas Project/Attraction."
+summary: 'Rwanda''s Nyungwe National Park has been nominated by the British Guild
+  of Travel Writers (BGTW) to receive an award for "Best Overseas Project/Attraction."
+
+'
 solutions:
 - Environment and Energy
 regions:
 - Sub-Saharan Africa
-projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National Park (SSENNP)
-clients:
+projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National
+  Park (SSENNP)
+clients: 
 layout: node
 ---
+
 Rwanda's Nyungwe National Park has been nominated by the British Guild of Travel Writers (BGTW) to receive an award for "Best Overseas Project/Attraction."
 
 The park is being supported by a U.S. Agency for International Development (USAID)-funded, DAI-led project called [Strengthening Sustainable Ecotourism in and around Nyungwe National Park (SSENNP)][1]. The goal of the project is to foster inclusive ecotourism development for the benefit of the surrounding communities and to leverage private sector investment in management, construction, and maintenance of new and existing park infrastructure.

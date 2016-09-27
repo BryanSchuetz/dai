@@ -1,14 +1,18 @@
 ---
 title: DAI Pens Opinion Piece on Benefits of Employee Ownership
 date: 2012-11-18 18:05:00 Z
-summary: |
-  DAI's Senior Vice President for Strategy and Marketing Jean Gilson wrote about employee ownership as a business model in the September 14­–20 edition of the Washington Business Journal.
-solutions:
+summary: 'DAI''s Senior Vice President for Strategy and Marketing Jean Gilson wrote
+  about employee ownership as a business model in the September 14­–20 edition of
+  the Washington Business Journal.
+
+'
+solutions: 
 regions: 
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's Senior Vice President for Strategy and Marketing [Jean Gilson][1] wrote about employee ownership as a business model in the September 14­–20 [edition][2] of the Washington Business Journal.
 
 In her words: "When employees own the business, workers' interests align with the company's, giving employees an extra incentive to perform, sometimes make hard choices, and do whatever they can to drive success.

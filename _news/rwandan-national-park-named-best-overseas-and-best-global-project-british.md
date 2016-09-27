@@ -1,17 +1,24 @@
 ---
-title: Rwandan National Park Named Best Overseas and Best Global Project by British Travel Writers
+title: Rwandan National Park Named Best Overseas and Best Global Project by British
+  Travel Writers
 date: 2012-11-06 18:05:00 Z
-summary: |
-  The Nyungwe Nziza project in Rwanda has been named winner of the prestigious British Guild of Travel Writers' (BGTW) Best Overseas and Best Global Project Awards. At the recent annual awards dinner at the Savoy Hotel in London, Guild Chair Roger Bray said: "Nyungwe Nziza is a model tourism project for developing countries."
+summary: 'The Nyungwe Nziza project in Rwanda has been named winner of the prestigious
+  British Guild of Travel Writers'' (BGTW) Best Overseas and Best Global Project Awards.
+  At the recent annual awards dinner at the Savoy Hotel in London, Guild Chair Roger
+  Bray said: "Nyungwe Nziza is a model tourism project for developing countries."
+
+'
 solutions:
 - Environment and Energy
 - Economic Growth
 regions:
 - Sub-Saharan Africa
-projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National Park (SSENNP)
-clients:
+projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National
+  Park (SSENNP)
+clients: 
 layout: node
 ---
+
 The Nyungwe Nziza project in Rwanda has been named winner of the prestigious British Guild of Travel Writers' (BGTW) Best Overseas and Best Global Project Awards. At the recent annual awards dinner at the Savoy Hotel in London, Guild Chair Roger Bray said: "Nyungwe Nziza is a model tourism project for developing countries."
 
 The U.S. Agency for International Development (USAID) has been working with the government of Rwanda for 20 years to help transform the Nyungwe National Park into a viable ecotourism destination. Implemented by DAI, the current project—called [Strengthening Sustainable Ecotourism in and around Nyungwe National Park][1]—focuses on developing inclusive ecotourism for the benefit of communities surrounding the park and leveraging private sector investment in the management, construction, and maintenance of park infrastructure.

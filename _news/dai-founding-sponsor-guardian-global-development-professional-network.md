@@ -1,14 +1,17 @@
 ---
 title: DAI is Founding Sponsor of Guardian Global Development Professional Network
 date: 2012-11-28 18:05:00 Z
-summary: |
-  DAI is delighted to be a founding sponsor of a new professional network launched this week by _The Guardian_ to complement its global development website.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI is delighted to be a founding sponsor of a new professional network
+  launched this week by _The Guardian_ to complement its global development website.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to be a founding sponsor of a new professional [network][1] launched this week by _The Guardian_ to complement its global development website.
 
 According to _The Guardian_, "the aim of the new network is to offer a space where professionals can network as well as share knowledge and expertise. We hope to achieve this through a blend of comment, analysis, online discussions, and offline events, recognizing that the day-to-day lives of development professionals are constantly in flux as a result of changes in technology, policy and collaborations across the public and private sectors."

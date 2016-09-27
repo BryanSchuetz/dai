@@ -1,16 +1,20 @@
 ---
 title: Secretary of State Clinton Lauds Malawi Dairy Milk Bulking Group
 date: 2012-08-14 18:05:00 Z
-summary: |
-  U.S. Secretary of State Hillary Clinton last week praised a community-managed dairy enterprise in Malawi that is helping small farmers to increase their incomes and communities to live more nutritiously.
+summary: 'U.S. Secretary of State Hillary Clinton last week praised a community-managed
+  dairy enterprise in Malawi that is helping small farmers to increase their incomes
+  and communities to live more nutritiously.
+
+'
 solutions:
 - Agriculture and Food Security
 regions:
 - Sub-Saharan Africa
 projects: Malawi—Integrating Nutrition into Value Chains
-clients:
+clients: 
 layout: node
 ---
+
 U.S. Secretary of State Hillary Clinton last week praised a community-managed dairy enterprise in Malawi that is helping small farmers to increase their incomes and communities to live more nutritiously.
 
 "For the past decade, the United States has been supporting Malawi's dairy sector, including this center," Clinton said during a stop at the Lumbadzi Milk Bulking Group. "And thanks to your work and the support we have given you, Malawi's milk production has increased 500 percent. Thousands of farmers have benefited."
