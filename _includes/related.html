@@ -169,11 +169,11 @@
     {% assign found_item = related %}
   {% endfor %}
 {% endunless %}
- 
+
 {% comment %} found_item box markup {% endcomment %}
 <div id="slidebox">
   <a class="close">x</a>
-  <p class="title">RELATED CONTENT:</p>
+  <p class="title">RELATED CONTENT: {{ jekyll.environment }}/p>
   {% comment %} show found_item item {% endcomment %}
   {% if found_item.title %}
     <h2><a href="{{ found_item.relatedlink | default: found_item.url}}">{{ found_item.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
