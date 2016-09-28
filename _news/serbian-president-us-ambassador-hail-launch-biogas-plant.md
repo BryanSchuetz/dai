@@ -1,15 +1,20 @@
 ---
 title: Serbian President, U.S. Ambassador Hail Launch of Biogas Plant
 date: 2012-05-29 18:05:00 Z
-summary: |
-  As the operator of one of the larger dairy farms in Serbia, Lazar Dairy has had a significant problem dealing with the manure produced by the cows on the farm. Previously, Lazar pumped the manure into a large lagoon, where the solid materials settled and the remaining liquid was used to fertilize crops.
-solutions:
+summary: 'As the operator of one of the larger dairy farms in Serbia, Lazar Dairy
+  has had a significant problem dealing with the manure produced by the cows on the
+  farm. Previously, Lazar pumped the manure into a large lagoon, where the solid materials
+  settled and the remaining liquid was used to fertilize crops.
+
+'
+solutions: 
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 As the operator of one of the larger dairy farms in Serbia, Lazar Dairy has had a significant problem dealing with the manure produced by the cows on the farm. Previously, Lazar pumped the manure into a large lagoon, where the solid materials settled and the remaining liquid was used to fertilize crops.
 
 In early May, Lazar and the farming village of Gornja Dragusa in southern Serbia celebrated a big day when outgoing President Boris Tadic and U.S. Ambassador Mary Warlick pushed the button that fired up one of the country's first biogas plants.

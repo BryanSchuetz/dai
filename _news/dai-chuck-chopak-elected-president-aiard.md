@@ -1,15 +1,21 @@
 ---
 title: DAI’s Chuck Chopak Elected President of AIARD
 date: 2012-06-06 18:05:00 Z
-summary: |
-  Dr. Chuck Chopak, DAI's Technical Area Manager for Agriculture and Food Security, this week was elected president of the Association for International Agriculture and Rural Development (AIARD). For more than 30 years, Chopak has managed, planned, and implemented agriculture, rural development, and food security activities throughout the world, including in Central America, Haiti, Afghanistan, and many African countries.
-solutions:
+summary: 'Dr. Chuck Chopak, DAI''s Technical Area Manager for Agriculture and Food
+  Security, this week was elected president of the Association for International Agriculture
+  and Rural Development (AIARD). For more than 30 years, Chopak has managed, planned,
+  and implemented agriculture, rural development, and food security activities throughout
+  the world, including in Central America, Haiti, Afghanistan, and many African countries.
+
+'
+solutions: 
 regions:
--
-projects:
-clients:
+- 
+projects: 
+clients: 
 layout: node
 ---
+
 Dr. [Chuck Chopak][1], DAI's Technical Area Manager for Agriculture and Food Security, this week was elected president of the Association for International Agriculture and Rural Development (AIARD). For more than 30 years, Chopak has managed, planned, and implemented agriculture, rural development, and food security activities throughout the world, including in Central America, Haiti, Afghanistan, and many African countries.
 
 ![Chuck Chopak][2]{:.float-left}Chopak was elected during the AIARD Annual Conference June 4-5 in Washington, D.C., where members focused on "Priorities for Inclusive Agriculture and Rural Development."

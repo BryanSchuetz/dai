@@ -1,16 +1,22 @@
 ---
 title: 'USAID Project Launches Newest Grand Challenge: Powering Agriculture'
 date: 2012-06-12 18:05:00 Z
-summary: |
-  Today 1.4 billion people lack access to clean energy. The impact of this limited energy access is particularly pronounced in the agricultural sectors of developing countries, which often have extremely low rural electrification rates. The lack of modern energy services affects every aspect of the agricultural value chain, from irrigation and harvesting to processing and storage.
+summary: 'Today 1.4 billion people lack access to clean energy. The impact of this
+  limited energy access is particularly pronounced in the agricultural sectors of
+  developing countries, which often have extremely low rural electrification rates.
+  The lack of modern energy services affects every aspect of the agricultural value
+  chain, from irrigation and harvesting to processing and storage.
+
+'
 solutions:
 - Digital
 - Innovation and Entrepreneurship
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Today 1.4 billion people lack access to clean energy. The impact of this limited energy access is particularly pronounced in the agricultural sectors of developing countries, which often have extremely low rural electrification rates. The lack of modern energy services affects every aspect of the agricultural value chain, from irrigation and harvesting to processing and storage. According to the UN Food and Agriculture Organization, it is estimated that 70 percent of the additional food required to feed the world in 2050 will come from agricultural intensification—the process of producing more food on the same parcel of land. Increasing access to clean energy is critical to sustainably intensifying production and meeting growing global food needs.
 
 To address these issues, the U.S. Agency for International Development (USAID) in partnership with the Swedish International Development Cooperation Agency, (Sida), Duke Energy, the African Development Bank (AfDB), the Overseas Private Investment Corporation (OPIC) and USDA, on June 12 launched Powering Agriculture: An Energy Grand Challenge for Development.  The challenge was launched at USAID's Frontiers in Development three-day conference in Washington, D.C.

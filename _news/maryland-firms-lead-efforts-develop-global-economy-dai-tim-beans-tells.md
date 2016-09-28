@@ -1,15 +1,21 @@
 ---
-title: Maryland Firms Lead Efforts to Develop Global Economy, DAI’s Tim Beans Tells Governor’s International Council
+title: Maryland Firms Lead Efforts to Develop Global Economy, DAI’s Tim Beans Tells
+  Governor’s International Council
 date: 2012-04-19 18:05:00 Z
-summary: |
-  Maryland firms manage approximately $2.3 billion, or 10.4 percent, of the foreign assistance budget of the Department of State and the U.S. Agency for International Development (USAID)—with DAI serving as the state's leading development firm operating in 60 countries.
-solutions:
+summary: 'Maryland firms manage approximately $2.3 billion, or 10.4 percent, of the
+  foreign assistance budget of the Department of State and the U.S. Agency for International
+  Development (USAID)—with DAI serving as the state''s leading development firm operating
+  in 60 countries.
+
+'
+solutions: 
 regions:
--
-projects:
-clients:
+- 
+projects: 
+clients: 
 layout: node
 ---
+
 Maryland firms manage approximately $2.3 billion, or 10.4 percent, of the foreign assistance budget of the Department of State and the U.S. Agency for International Development (USAID)—with DAI serving as the state's leading development firm operating in 60 countries.
 
 "DAI, nongovernmental organizations, universities, and other private sector firms together employ some 13,000 development professionals in Maryland and worldwide on behalf of the U.S. government and other donor agencies," said DAI's Tim Beans, who on April 18 spoke in Baltimore before the Governor's International Advisory Council.

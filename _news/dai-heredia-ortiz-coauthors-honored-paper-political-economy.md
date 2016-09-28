@@ -1,16 +1,20 @@
 ---
 title: DAI’s Heredia-Ortiz, Coauthors Honored for Paper on Political Economy of Decentralization
 date: 2012-05-21 18:05:00 Z
-summary: |
-  DAI's Eunice Heredia-Ortiz and three coauthors were recently honored for their paper, "Rethinking the Political Economy of Decentralization: How Democracy and Political Parties Shape the Provision of Local Public Goods."
+summary: 'DAI''s Eunice Heredia-Ortiz and three coauthors were recently honored for
+  their paper, "Rethinking the Political Economy of Decentralization: How Democracy
+  and Political Parties Shape the Provision of Local Public Goods."
+
+'
 solutions:
 - Economic Growth
 - Public Financial Management
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's [Eunice Heredia-Ortiz ][1]and three coauthors were recently honored for their paper, "Rethinking the Political Economy of Decentralization: How Democracy and Political Parties Shape the Provision of Local Public Goods."
 
 ![Eunice Heredia-Ortiz][2]{:.float-left}The paper was selected to receive the American Political Science Association Federalism Section Deil Wright Best Paper Award. It investigates the political conditions under which decentralization—the devolution of decision-making power and resources from national to local authorities—would improve the delivery of public services. The authors extend the renowned Oates' (1952) decentralization theorem suggesting that the interaction of democratic decentralization (i.e., the creation of popularly elected sub-national governments) and party centralization (i.e., the power of national party leaders to nominate candidates for subnational office) will produce the best outcomes for public service delivery. 

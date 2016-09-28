@@ -1,16 +1,24 @@
 ---
-title: DFID Economic Growth Project in Palestine Assists 600 firms, Creates 3,400 Jobs
+title: DFID Economic Growth Project in Palestine Assists 600 firms, Creates 3,400
+  Jobs
 date: 2012-05-18 18:05:00 Z
-summary: |
-  The DAI-led Facility for New Market Development project (FNMD) in Palestine came to a close this week with numerous successes to its credit. Since 2008, the U.K. Department for International Development (DFID)-funded program has assisted 600 Palestinian companies in a wide range of sectors, generating more than $100 million in attributable sales and exports, and providing 3,400 new permanent jobs to unemployed Palestinians in the West Bank and Gaza.
+summary: 'The DAI-led Facility for New Market Development project (FNMD) in Palestine
+  came to a close this week with numerous successes to its credit. Since 2008, the
+  U.K. Department for International Development (DFID)-funded program has assisted
+  600 Palestinian companies in a wide range of sectors, generating more than $100
+  million in attributable sales and exports, and providing 3,400 new permanent jobs
+  to unemployed Palestinians in the West Bank and Gaza.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The DAI-led [Facility for New Market Development project (FNMD)][1] in Palestine came to a close this week with numerous successes to its credit. Since 2008, the U.K. Department for International Development (DFID)-funded program has assisted 600 Palestinian companies in a wide range of sectors, generating more than $100 million in attributable sales and exports, and providing 3,400 new permanent jobs to unemployed Palestinians in the West Bank and Gaza.
 
 Helen Winterton, the head of DFID in Jerusalem, said of the agency's flagship economic growth project: "I am delighted with the impact that FNMD has delivered over the past four years. And I strongly believe that Palestinian companies can deliver quality products and services that can compete globally."

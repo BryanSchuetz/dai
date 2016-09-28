@@ -1,16 +1,21 @@
 ---
-title: DAI’s Kregg Halstead Describes for University Audience the Growth of Parliament in Embattled Kyrgyzstan
+title: DAI’s Kregg Halstead Describes for University Audience the Growth of Parliament
+  in Embattled Kyrgyzstan
 date: 2012-06-12 18:05:00 Z
-summary: |
-  Kyrgyzstan's Lake Issyk Kul is a natural wonder: one of the largest and deepest lakes in the world, fed by natural mineral springs and surrounded by snow-capped mountains, it could be a premium destination for the world's tourists.
+summary: 'Kyrgyzstan''s Lake Issyk Kul is a natural wonder: one of the largest and
+  deepest lakes in the world, fed by natural mineral springs and surrounded by snow-capped
+  mountains, it could be a premium destination for the world''s tourists.
+
+'
 solutions:
 - Governance
 regions:
 - Asia and the Pacific
 projects: Kyrgyzstan—Parliamentary Strengthening Program (KPSP)
-clients:
+clients: 
 layout: node
 ---
+
 Kyrgyzstan's Lake Issyk Kul is a natural wonder: one of the largest and deepest lakes in the world, fed by natural mineral springs and surrounded by snow-capped mountains, it could be a premium destination for the world's tourists.
 
 For years, local and national government officials failed to develop a strategy to improve infrastructure and facilities needed to make Issyk Kul more accessible. But with the help of the [Kyrgyzstan Parliamentary Strengthening Program (KPSP)][1], Members of Parliament are bringing together stakeholders from the public and private sectors and developing plans for transforming Issyk Kul. If the Parliament succeeds in its tourism initiative, it could be a source of much-needed private income and public revenue.

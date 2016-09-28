@@ -1,17 +1,20 @@
 ---
 title: Water Demand Management Project Changed Jordanians’ Approach to Water
 date: 2012-04-03 18:05:00 Z
-summary: |
-  DAI celebrated the successes of its five-year water conservation program, which ended last week in Jordan, with a ceremony attended by nearly 200 people.
+summary: 'DAI celebrated the successes of its five-year water conservation program,
+  which ended last week in Jordan, with a ceremony attended by nearly 200 people.
+
+'
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI celebrated the successes of its five-year water conservation program, which ended last week in Jordan, with a [ceremony][1] attended by nearly 200 people.
 
 The U.S. Agency for International Development (USAID)-funded work brought about a cultural shift in thinking about water usage, according to Jordanian Minister of Water and Irrigation Mousa Jamani. People are increasingly seeking methods to cut down water use, he told The Jordan Times: "Although people are more aware now about Jordan's acute water shortage, efforts to increase water efficiency in the various sectors and reduce water loss must continue in order to narrow the gap between the rising demand and [finite] supply."

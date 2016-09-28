@@ -1,15 +1,19 @@
 ---
 title: Students from Indonesia’s Finance Ministry Visit DAI
 date: 2012-05-03 18:05:00 Z
-summary: |
-  DAI, which has worked in Indonesia for more than 30 years, hosted 15 junior members of that country's Ministry of Finance this week for a discussion at DAI headquarters in Bethesda, Maryland.
-solutions:
+summary: 'DAI, which has worked in Indonesia for more than 30 years, hosted 15 junior
+  members of that country''s Ministry of Finance this week for a discussion at DAI
+  headquarters in Bethesda, Maryland.
+
+'
+solutions: 
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 ![Indonesian Students][1]{:.float-left}DAI, which has worked in [Indonesia][2] for more than 30 years, hosted 15 junior members of that country's Ministry of Finance this week for a discussion at DAI headquarters in Bethesda, Maryland.
 
 The visitors, who included analysts from Indonesia's Fiscal, Tax, Budget, and Macroeconomic policy offices, are master's degree candidates in applied economics at Georgia State University, which along with the U.S. Agency for International Development and Indonesia's Gadjah Mada University, is funding their studies.

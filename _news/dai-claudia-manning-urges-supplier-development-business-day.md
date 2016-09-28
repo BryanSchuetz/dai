@@ -1,14 +1,17 @@
 ---
 title: DAI’s Claudia Manning Urges Supplier Development in Business Day
 date: 2012-05-31 18:05:00 Z
-summary: |
-  DAI's Claudia Manning has written a column on effective business supplier development for South Africa's _Business Day_, a leading national newspaper.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI''s Claudia Manning has written a column on effective business supplier
+  development for South Africa''s _Business Day_, a leading national newspaper.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI's Claudia Manning has written a [column][1] on effective business supplier development for South Africa's _Business Day_, a leading national newspaper.
 
 ![Claudia Manning][2]{:.float-left}Manning, Managing Director of DAI's Johannesburg office, and her staff played a key role in [establishing][3] the South African Supplier Diversity Council, which links black-owned small enterprises in South Africa to larger corporations and their supply chains.

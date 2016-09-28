@@ -1,15 +1,19 @@
 ---
 title: DAI Co-hosts Webinar on Mobile Technologies for Development
 date: 2012-06-08 18:05:00 Z
-summary: |
-  In partnership with the Bretton Woods Committee, DAI co-hosted a webinar yesterday on the use of mobile technologies in development, specifically within the World Bank's work.
+summary: 'In partnership with the Bretton Woods Committee, DAI co-hosted a webinar
+  yesterday on the use of mobile technologies in development, specifically within
+  the World Bank''s work.
+
+'
 solutions:
 - Digital
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 In partnership with the Bretton Woods Committee, DAI co-hosted a webinar yesterday on the use of mobile technologies in development, specifically within the World Bank's work. DAI's Senior Information and Communication Technologies (ICT) Specialist Jessica Heinzelman was a featured presenter, alongside Ineke Buskens, Research Director, Gender Research into ICT for Empowerment, and Tim Kelly, a Lead ICT Policy Specialist at the World Bank.
 
 The speakers agreed that there is a major opportunity to reach people through mobile technology since there are 5.3 billion users worldwide, 620 million of whom are in Africa, and mobile is roughly 20 percent cheaper than other communication services.

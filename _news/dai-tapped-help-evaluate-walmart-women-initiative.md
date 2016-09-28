@@ -1,16 +1,20 @@
 ---
 title: DAI Tapped to Help Evaluate Walmart Women’s Initiative
 date: 2012-04-06 18:05:00 Z
-summary: |
-  DAI is delighted to announce it has joined an alliance working with Walmart to evaluate the retailer's initiative to empower women working in its factories in developing countries.
+summary: 'DAI is delighted to announce it has joined an alliance working with Walmart
+  to evaluate the retailer''s initiative to empower women working in its factories
+  in developing countries.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI is delighted to announce it has joined an alliance working with Walmart to evaluate the retailer's initiative to empower women working in its factories in developing countries.
 
 The program—implemented in factories in India, Bangladesh, China, and Central America that supply products to the Bentonville, Arkansas-based retail giant—will teach up to 60,000 women critical life skills related to communication, hygiene, reproductive health, occupational health and safety, identifying personal strengths and gender sensitivity. Up to 8,000 women will also receive leadership training to develop the skills necessary for personal and career development.
