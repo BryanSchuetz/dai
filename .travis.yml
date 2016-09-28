@@ -10,7 +10,7 @@ rvm:
 script:
   - npm install
   - gulp aggregate
-  - bundle exec jekyll build
+  - JEKYLL_ENV=prod bundle exec jekyll build
 
 before_deploy:
   - chmod +x deploy.sh
