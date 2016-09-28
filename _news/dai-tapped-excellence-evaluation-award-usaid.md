@@ -1,16 +1,19 @@
 ---
 title: DAI Tapped for Excellence in Evaluation Award from USAID
 date: 2012-03-15 18:05:00 Z
-summary: |
-  DAI was one of five winners of an Excellence in Evaluation award from the U.S. Agency for International Development (USAID).
+summary: 'DAI was one of five winners of an Excellence in Evaluation award from the
+  U.S. Agency for International Development (USAID).
+
+'
 solutions:
 - Digital
 - Innovation and Entrepreneurship
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI was one of five winners of an Excellence in Evaluation award from the U.S. Agency for International Development (USAID).
 
 To gather and showcase some of the best evaluation reports completed in recent years, USAID's Office of Learning, Evaluation and Research in the Bureau for Policy, Planning and Learning (PPL/LER) studied reports submitted between January 2009 and August 2011. Thirty-three high-quality reports were received and five were selected "because they presented a detailed description of robust methodology used for data collection and analysis, findings that were linked to quality evidence, and a well-written and documented presentation of the results," according to USAID.

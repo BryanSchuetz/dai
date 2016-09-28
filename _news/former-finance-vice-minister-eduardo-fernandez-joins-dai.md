@@ -1,18 +1,22 @@
 ---
 title: Former Finance Vice Minister Eduardo Fernandez Joins DAI
 date: 2012-03-19 18:05:00 Z
-summary: |
-  Dr. Eduardo Fernandez, Colombia's former vice minister of finance and national budget director, recently joined DAI as managing director for governance in the Mexico office.
+summary: 'Dr. Eduardo Fernandez, Colombia''s former vice minister of finance and national
+  budget director, recently joined DAI as managing director for governance in the
+  Mexico office.
+
+'
 solutions:
 - Economic Growth
 - Financial Services
 - Public Financial Management
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Dr. [Eduardo Fernandez][1], Colombia's former vice minister of finance and national budget director, recently joined DAI as managing director for governance in the Mexico office. Fernandez served from 1983-1998 in a number of roles in the Colombian government, including as governor of the state of El Meta and secretary of finance for the capital city of Bogotá, before beginning his career in global development work.
 
 Since 1998 he has worked for numerous clients, including the World Bank, Inter-American Development Bank, and U.S. Agency for International Development. His work in 12 countries has focused on designing and implementing fiscal policy, especially in relation to transferring responsibilities and resources to local and regional governments. Fernandez also has deep experience in developing the complementary institutional reforms required for local and regional governments to achieve this administrative autonomy.

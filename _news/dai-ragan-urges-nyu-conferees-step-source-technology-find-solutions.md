@@ -1,16 +1,21 @@
 ---
 title: DAI’s Ragan Urges NYU Conferees to Step Up Source Technology to Find Solutions
 date: 2012-02-27 18:05:00 Z
-summary: |
-  Technology and innovation ought to shape the work being done in developing countries but are not being sourced or scaled in ways that meet key development challenges, according to DAI's Kristi Ragan, Chief of Party for USAID's Grand Challenges for Development.
+summary: 'Technology and innovation ought to shape the work being done in developing
+  countries but are not being sourced or scaled in ways that meet key development
+  challenges, according to DAI''s Kristi Ragan, Chief of Party for USAID''s Grand
+  Challenges for Development.
+
+'
 solutions:
 - Digital
 - Innovation and Entrepreneurship
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Technology and innovation ought to shape the work being done in developing countries but are not being sourced or scaled in ways that meet key development challenges, according to DAI's [Kristi Ragan][1], Chief of Party for USAID's [Grand Challenges for Development][2].
 
 Collaboration with the private sector can lead to commercializing technologies that are changing lives in Africa. "Mobile phones and the Internet, for example, are a force multiplier for gathering ideas and delivering solutions," said Ragan, a featured panelist at New York University's Stern School of Business' inaugural [Stern Africa Forum.][3] "Their use should be integral to international development projects, but too often are afterthoughts."

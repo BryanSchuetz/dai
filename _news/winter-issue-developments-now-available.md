@@ -1,14 +1,16 @@
 ---
 title: Winter Issue of Developments Now Available
 date: 2012-01-26 18:05:00 Z
-summary: |
-  The fall/winter issue of _Developments_ is now available.
-solutions:
-regions:
-projects:
-clients:
+summary: 'The fall/winter issue of _Developments_ is now available.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 The fall/winter issue of _Developments_ is now available.
 
 Heading up a team in one of the most challenging environments in the world, Suleiman Mohamed and Zaki Raheem are creating ambitious economic growth solutions in Somaliland, a semi-autonomous region of Somalia, for the U.S. Agency for International Development (USAID).

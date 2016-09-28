@@ -1,16 +1,20 @@
 ---
 title: Documentary Describes How Project Delivers Clean Water for 1.8 Million Filipinos
 date: 2012-01-16 18:05:00 Z
-summary: |
-  A recently released 15-minute documentary describes how a DAI-led project in the Philippines made it possible for water providers to expand and upgrade their systems, and deliver water services to another 1.8 million people.
+summary: 'A recently released 15-minute documentary describes how a DAI-led project
+  in the Philippines made it possible for water providers to expand and upgrade their
+  systems, and deliver water services to another 1.8 million people.
+
+'
 solutions:
 - Environment and Energy
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 A recently released 15-minute documentary describes how a DAI-led project in the Philippines made it possible for water providers to expand and upgrade their systems, and deliver water services to another 1.8 million people.
 
 The documentary, made by Cinesur Films of Zamboanga for the [Philippines Water Revolving Fund][1] project, shows how USAID support was used to mobilize private bank loans to local water services providers, which used the financing to upgrade  purification and pumping systems and expand networks to communities that did not have clean, running water.

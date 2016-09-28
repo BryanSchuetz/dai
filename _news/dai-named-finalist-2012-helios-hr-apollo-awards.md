@@ -1,14 +1,18 @@
 ---
 title: DAI Named Finalist in the 2012 Helios HR Apollo Awards
 date: 2012-03-08 18:05:00 Z
-summary: |
-  DAI has been named a finalist in the 2012 Helios HR Apollo Awards, in the largest company category alongside Booz Allen Hamilton, Deltek, Ogilvy Washington, SRA International, Inc., and Washington Gas.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI has been named a finalist in the 2012 Helios HR Apollo Awards, in the
+  largest company category alongside Booz Allen Hamilton, Deltek, Ogilvy Washington,
+  SRA International, Inc., and Washington Gas.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 DAI has been named a finalist in the 2012 Helios HR Apollo Awards, in the largest company category alongside Booz Allen Hamilton, Deltek, Ogilvy Washington, SRA International, Inc., and Washington Gas.
 
 ![Daniel Shaul and Laura Viehmyer][1]

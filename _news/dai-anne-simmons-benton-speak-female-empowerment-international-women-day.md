@@ -1,17 +1,22 @@
 ---
-title: DAI’s Anne Simmons-Benton to Speak on Female Empowerment on International Women’s Day Event at USAID
+title: DAI’s Anne Simmons-Benton to Speak on Female Empowerment on International Women’s
+  Day Event at USAID
 date: 2012-03-06 18:05:00 Z
-summary: |
-  Anne Simmons-Benton, who heads up DAI's Gender Working Group, will speak Thursday to approximately 150 attendees about techniques to economically empower the women of Afghanistan.
+summary: 'Anne Simmons-Benton, who heads up DAI''s Gender Working Group, will speak
+  Thursday to approximately 150 attendees about techniques to economically empower
+  the women of Afghanistan.
+
+'
 solutions:
 - Gender
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Anne Simmons-Benton, who heads up DAI's Gender Working Group, will speak Thursday to approximately 150 attendees about techniques to economically empower the women of Afghanistan.
 
 The event at the U.S. Agency for International Development (USAID) headquarters in Washington, D.C., commemorates International Women's Day, celebrated in countries around the world as a way to recognize the achievements of women.

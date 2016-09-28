@@ -1,16 +1,22 @@
 ---
 title: DAI Staff Host NDU Classes on Asia, Economic Growth
 date: 2012-03-06 18:05:00 Z
-summary: |
-  DAI staff made presentations last week to military and civilian members of the Agribusiness Industry Study Group from the National Defense University. The group visited DAI headquarters in Bethesda, Maryland, on February 29 to receive training in food security and competitiveness, from bioterrorism and economic development perspectives, targeting Asia and the Pacific.
+summary: 'DAI staff made presentations last week to military and civilian members
+  of the Agribusiness Industry Study Group from the National Defense University. The
+  group visited DAI headquarters in Bethesda, Maryland, on February 29 to receive
+  training in food security and competitiveness, from bioterrorism and economic development
+  perspectives, targeting Asia and the Pacific.
+
+'
 solutions:
 - Stability
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI staff made presentations last week to military and civilian members of the Agribusiness Industry Study Group from the National Defense University. The group visited DAI headquarters in Bethesda, Maryland, on February 29 to receive training in food security and competitiveness, from bioterrorism and economic development perspectives, targeting [Asia and the Pacific][1].
 
 Topics and presenters included:
