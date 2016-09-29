@@ -1,5 +1,6 @@
 ---
-title: Pakistan—Federally Administered Tribal Areas Capacity Building Program (FATA CBP)
+title: Pakistan—Federally Administered Tribal Areas Capacity Building Program (FATA
+  CBP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2008
@@ -12,9 +13,14 @@ solutions:
 - Governance
 - Stability
 layout: project
-summary: |
-  In Pakistan's Federally Administered Tribal Areas (FATA), socioeconomic development has been inhibited by a lack of development funds. In addition, worsening insecurity in the region is contributing to the gap in development between FATA and the rest of Pakistan.
+summary: 'In Pakistan''s Federally Administered Tribal Areas (FATA), socioeconomic
+  development has been inhibited by a lack of development funds. In addition, worsening
+  insecurity in the region is contributing to the gap in development between FATA
+  and the rest of Pakistan.
+
+'
 ---
+
 In Pakistan's Federally Administered Tribal Areas (FATA), socioeconomic development has been inhibited by a lack of development funds. In addition, worsening insecurity in the region is contributing to the gap in development between FATA and the rest of Pakistan. A large infusion of funds expected during the next several years will be critical to create economic opportunities, raise living standards, and bring the seven FATA Agencies and the six Frontier Regions into mainstream Pakistani society. The FATA CBP supported efforts to build civilian-military cooperation in the tribal areas; strengthened FATA institutions' capacity to plan, implement, and manage funds; assisted constituents and communities to communicate effectively; ensured that development initiatives aligned with local needs and expectations; and strengthen the capacity of the indigenous civil society organizations to establish their ability to produce their own strategic plans by developing visions for the future and road maps for realizing these plans.
 
 ![][1]

@@ -1,5 +1,6 @@
 ---
-title: Palestine—Strengthening the Accountability and Transparency of the Legislative Process (BAYAN)
+title: Palestine—Strengthening the Accountability and Transparency of the Legislative
+  Process (BAYAN)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2005
@@ -11,8 +12,13 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  The strength of democracy in Palestine depends on the ability of its citizens and their representative organizations to evaluate the performance of their elected officials, participate effectively in the legislative process, and have sufficient timely information to perform these crucial citizen responsibilities of oversight and advocacy.
+summary: 'The strength of democracy in Palestine depends on the ability of its citizens
+  and their representative organizations to evaluate the performance of their elected
+  officials, participate effectively in the legislative process, and have sufficient
+  timely information to perform these crucial citizen responsibilities of oversight
+  and advocacy.
+
+'
 ---
 
 The strength of democracy in Palestine depends on the ability of its citizens and their representative organizations to evaluate the performance of their elected officials, participate effectively in the legislative process, and have sufficient timely information to perform these crucial citizen responsibilities of oversight and advocacy. The BAYAN project (named after the Arabic word for exposition) worked closely with leading Palestinian civil society organizations (CSOs) to build their capacity to oversee the legislature, analyze information, and lead information and advocacy campaigns. During its 34 months, BAYAN evolved into a highly effective and well-regarded project that had the strategic vision and flexibility to respond to the ever-changing political landscape. BAYAN's approach emphasized responding to the initiative and needs of the Palestinian civil society community and supporting practical and sustainable projects that address issues facing Palestinians now and in the future.

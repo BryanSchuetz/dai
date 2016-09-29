@@ -11,9 +11,14 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  Through PLSP, DAI worked with national and provincial legislatures to strengthen parliamentary institutions and processes. The program's focus was on improving the capacity of the legislatures in their representation, law making, oversight/accountability, and infrastructure/management activities.
+summary: 'Through PLSP, DAI worked with national and provincial legislatures to strengthen
+  parliamentary institutions and processes. The program''s focus was on improving
+  the capacity of the legislatures in their representation, law making, oversight/accountability,
+  and infrastructure/management activities.
+
+'
 ---
+
 Through PLSP, DAI worked with national and provincial legislatures to strengthen parliamentary institutions and processes. The program's focus was on improving the capacity of the legislatures in their representation, law making, oversight/accountability, and infrastructure/management activities.
 
 ![][1]

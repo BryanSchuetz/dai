@@ -1,5 +1,6 @@
 ---
-title: Peru—Policy and Institutional Development Component (PIDC) of the Alternative Development Program
+title: Peru—Policy and Institutional Development Component (PIDC) of the Alternative
+  Development Program
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2005
@@ -11,9 +12,14 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  By 2005, Peru was the second-largest producer of coca leaves in the world, and production of coca leaves and cocaine has been rising dramatically as a consequence of counter-narcotics activities in Colombia and comparatively ineffective counter-narcotics policies and institutions in Peru.
+summary: 'By 2005, Peru was the second-largest producer of coca leaves in the world,
+  and production of coca leaves and cocaine has been rising dramatically as a consequence
+  of counter-narcotics activities in Colombia and comparatively ineffective counter-narcotics
+  policies and institutions in Peru.
+
+'
 ---
+
 By 2005, Peru was the second-largest producer of coca leaves in the world, and production of coca leaves and cocaine has been rising dramatically as a consequence of counter-narcotics activities in Colombia and comparatively ineffective counter-narcotics policies and institutions in Peru. The U.S. Agency for International Development contracted DAI to work on improving the counter-narcotics policy framework upon which success of the alternative development program depends, and to strengthen government institutions responsible for implementing those policies. This contract focused on strengthening control of the licit coca market, strengthening control of precursor chemicals used in processing coca into coca paste and cocaine, and strengthening enforcement of money laundering controls.
 
 ###  Sample Activities

@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  DAI supported the Centre for Agricultural and Rural Development (CARD) Bank in the creation of a small business bank (SBB). The CARD foundation was established in 1986 to address rural poverty by providing banking services to landless rural women in the Philippines.
+summary: 'DAI supported the Centre for Agricultural and Rural Development (CARD) Bank
+  in the creation of a small business bank (SBB). The CARD foundation was established
+  in 1986 to address rural poverty by providing banking services to landless rural
+  women in the Philippines.
+
+'
 ---
+
 DAI supported the Centre for Agricultural and Rural Development (CARD) Bank in the creation of a small business bank (SBB). The CARD foundation was established in 1986 to address rural poverty by providing banking services to landless rural women in the Philippines. Since then, CARD expanded from its nongovernmental organization entity to include a rural bank which provides microcredit, an insurance affiliate, and an arm that addresses agriculturally tied financing needs by arranging and financing bulk purchase of inputs as well as financing of land acquisition. The development of small and medium enterprise (SME) banking services through an SBB was the next step in this progression, intended to benefit both those CARD members who have grown beyond current CARD offerings and other small businesses that are not well-served by the banking system. For the new CARD SBB to succeed, DAI highlighted the importance of reaching the SME segment with a clear and feasible strategy while institutionalizing a well-structured internal organisation. With this in mind, DAI executed a tailored, multiphased approach to the design and set up of CARD SBB.
 
 ###  Sample Activities

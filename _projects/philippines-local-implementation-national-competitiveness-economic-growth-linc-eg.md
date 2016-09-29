@@ -1,5 +1,6 @@
 ---
-title: Philippines—Local Implementation of National Competitiveness for Economic Growth (LINC-EG)
+title: Philippines—Local Implementation of National Competitiveness for Economic Growth
+  (LINC-EG)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2008
@@ -12,9 +13,14 @@ solutions:
 - Economic Growth
 - Governance
 layout: project
-summary: |
-  Implemented by the DAI/Nathan Group—a joint member of DAI and Nathan Associates Inc.—Local Implementation of National Competitivness for Economic Growth (LINC-EG) promotes local and national economic competitiveness to improve prospects for economic growth and fiscal sustainability in the Philippines.
+summary: 'Implemented by the DAI/Nathan Group—a joint member of DAI and Nathan Associates
+  Inc.—Local Implementation of National Competitivness for Economic Growth (LINC-EG)
+  promotes local and national economic competitiveness to improve prospects for economic
+  growth and fiscal sustainability in the Philippines.
+
+'
 ---
+
 Implemented by the DAI/Nathan Group—a joint member of DAI and Nathan Associates Inc.—Local Implementation of National Competitivness for Economic Growth (LINC-EG) promotes local and national economic competitiveness to improve prospects for economic growth and fiscal sustainability in the Philippines. Working with local advocacy groups, the project develops policy reforms that improve Filipino private sector competitiveness, particularly in Mindanao. Although these reforms can target any level of government, the project focuses on local governments, combining our understanding of the agents and institutions involved in reforming the Philippines' political economy with a technical approach that builds ownership among local reform advocates. For example, the project includes subnational provincial competitiveness indexing.
 
 ![][1]
