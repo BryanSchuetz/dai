@@ -1,7 +1,7 @@
 ---
 title: Sustainable and Accountable Health Services
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/health/sustainable-and-accountable-health"
+permalink: "/our-work/solutions/health-solutions/sustainable-and-accountable-health"
 solutions:
 - Health
 layout: solution

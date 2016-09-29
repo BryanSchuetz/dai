@@ -1,7 +1,7 @@
 ---
 title: Transition and Stabilization Programming
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/stability/transition-and-stabilization-programing"
+permalink: "/our-work/solutions/stability-solutions/transition-and-stabilization-programing"
 solutions:
 - Stability
 layout: solution

@@ -1,7 +1,7 @@
 ---
 title: Peace-building and State-building
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/stability/peace-building-and-state-building"
+permalink: "/our-work/solutions/stability-solutions/peace-building-and-state-building"
 solutions:
 - Stability
 layout: solution

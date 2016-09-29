@@ -1,7 +1,7 @@
 ---
 title: Law and Justice
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/governance/law-and-justice"
+permalink: "/our-work/solutions/governance-solutions/law-and-justice"
 solutions:
 - Governance
 layout: solution

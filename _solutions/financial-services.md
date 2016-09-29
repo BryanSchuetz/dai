@@ -1,7 +1,7 @@
 ---
 title: Financial Services
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/economic-growth/financial-services"
+permalink: "/our-work/solutions/economic-growth-solutions/financial-services"
 solutions:
 - Economic Growth
 layout: solution

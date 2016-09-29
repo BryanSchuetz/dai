@@ -1,7 +1,7 @@
 ---
 title: Climate Change Adaptation and Mitigation
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/environment-and-energy/climate-change-adaptation-and-mitigation"
+permalink: "/our-work/solutions/environment-and-energy-solutions/climate-change-adaptation-and-mitigation"
 solutions:
 - Environment and Energy
 layout: solution

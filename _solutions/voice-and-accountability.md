@@ -1,7 +1,7 @@
 ---
 title: Voice and Accountability
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/governance/voice-and-accountability"
+permalink: "/our-work/solutions/governance-solutions/voice-and-accountability"
 solutions:
 - Governance
 layout: solution

@@ -1,7 +1,7 @@
 ---
 title: Decentralization and Local Government Management
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/governance/decentralization-and-local-government"
+permalink: "/our-work/solutions/governance-solutions/decentralization-and-local-government"
 solutions:
 - Governance
 layout: solution

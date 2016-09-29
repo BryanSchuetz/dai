@@ -1,7 +1,7 @@
 ---
 title: Gender
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/economic-growth/gender"
+permalink: "/our-work/solutions/economic-growth-solutions/gender"
 solutions:
 - Economic Growth
 layout: solution

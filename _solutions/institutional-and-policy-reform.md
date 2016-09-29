@@ -1,7 +1,7 @@
 ---
 title: Institutional and Policy Reform
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/governance/institutional-and-policy-reform"
+permalink: "/our-work/solutions/governance-solutions/institutional-and-policy-reform"
 solutions:
 - Governance
 layout: solution

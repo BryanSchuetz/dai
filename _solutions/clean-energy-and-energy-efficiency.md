@@ -1,7 +1,7 @@
 ---
 title: Clean Energy and Energy Efficiency
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/environment-and-energy/clean-energy-and-energy-efficiency"
+permalink: "/our-work/solutions/environment-and-energy-solutions/clean-energy-and-energy-efficiency"
 solutions:
 - Environment and Energy
 layout: solution

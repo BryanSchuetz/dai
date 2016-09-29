@@ -1,7 +1,7 @@
 ---
 title: Agriculture and Food Security
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/economic-growth/agriculture-and-food-security"
+permalink: "/our-work/solutions/economic-growth-solutions/agriculture-and-food-security"
 solutions:
 - Economic Growth
 layout: solution

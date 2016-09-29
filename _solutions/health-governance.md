@@ -1,7 +1,7 @@
 ---
 title: Health Governance
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/governance/health-governance"
+permalink: "/our-work/solutions/governance-solutions/health-governance"
 solutions:
 - Governance
 layout: solution

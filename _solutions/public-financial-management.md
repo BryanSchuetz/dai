@@ -1,7 +1,7 @@
 ---
 title: Public Financial Management
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/governance/public-financial-management"
+permalink: "/our-work/solutions/governance-solutions/public-financial-management"
 solutions:
 - Governance
 layout: solution
