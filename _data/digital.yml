@@ -1,4 +1,30 @@
 
+- title: "Appified: How Social Media is Doing the Hard Work in ICT4D"
+  pub: "Digital"
+  date: 2016-09-28
+  link: "http://dai-global-digital.com/appified-how-social-media-is-doing-the-hard-work-in-ict4d.html"
+  summary: "A spoonful of sugar helps the medicine go down, in a most delightful way. Mary Poppins was on to something significant in user experience, far before that phrase even entered our lexicon. How has the sugary sweet world of social media changed the game in ICT for development (ICT4D)? More than just providing us with new channels to engage our target audiences, social media has actually taught our beneficiaries how to be a mobile audience."
+  tags:
+    - digital
+
+- title: "App-a-Thon 2016: BlackBerry Messenger for Development"
+  pub: "Digital"
+  date: 2016-09-27
+  link: "http://dai-global-digital.com/appathon-BBM.html"
+  summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and  the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
+
+So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. Up to bat this week is BlackBerry Messenger (BBM)."
+  tags:
+    - digital
+
+- title: "From Data to Knowledge: Applying Schema Agnostic Systems Modeling to Development Challenges"
+  pub: "Digital"
+  date: 2016-09-22
+  link: "http://dai-global-digital.com/from-data-to-knowledge-applying-schema-agnostic-systems-modeling-to-development-challenges.html"
+  summary: "By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement."
+  tags:
+    - digital
+
 - title: "Building Cluster Maps with the AidData API"
   pub: "Digital"
   date: 2016-09-14
@@ -11,7 +37,7 @@
   pub: "Digital"
   date: 2016-09-13
   link: "http://dai-global-digital.com/app-a-thon-2016-line-for-development.html"
-  summary: "As we’ve ramped up our Consumer Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app."
+  summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app."
   tags:
     - digital
 
@@ -243,36 +269,6 @@ Decisiones Sobre los Medios Sociales y Mensajería Móvil
 Hace poco escribí sobre mi experiencia entrevistando a jóvenes en riesgo en Honduras, sobre sus teléfonos móviles y cómo los utilizan. Si no lo vió, atrápelo aquí: Los móviles en América Central: Digital Insights Honduras, Parte 1
 
 La mensajería móvil y las redes sociales son muy populares entre los jóvenes de Honduras. Más del 70% de los jóvenes en riesgo en Honduras que hemos entrevistado tenían teléfonos inteligentes, y casi cada uno de los que tenían teléfonos inteligentes utiliza WhatsApp. Facebook es aún más omnipresente. El mensaje es el siguiente: cualquier persona–desde el gobierno de Honduras hasta los donantes como USAID y las organizaciones de la implementación–que quiera trabajar con los jóvenes Hondureños deben buscarlos en sus plataformas nativas de comunicación. En estos días eso significa en las aplicaciones de medios sociales y mensajería."
-  tags:
-    - digital
-
-- title: "Móviles en América Central: Digital Insights Honduras, Parte 1"
-  pub: "Digital"
-  date: 2016-05-13
-  link: "http://dai-global-digital.com/telefonos-moviles-en-america-central-digital-insights-honduras.html"
-  summary: "El autor (L) entrevistando a un joven en la cocina de una casa en Tegucigalpa, Honduras
-
-This post is also available in English.
-
-Chamelecón
-
-Para el observador casual, Chamelecón se parece a cualquier barrio marginal de América Central: tiendas pintadas de color pastel flanquean su calle principal, canalizando un flujo incesante de peatones, carros, y motocicletas. Pero detrás de esta fachada cotidiana, los residentes de Chamelecón se enfrentan a algunos grandes retos: pobreza, desempleo, migración, desintegración familiar, infiltración de pandillas, la violencia y la impunidad. Mientras esta combinación de factores de riesgo es común en los barrios marginales en América Central, en las comunidades de la periferia de San Pedro Sula como Chamelecón, coinciden con fuerza. Cada factor alimenta los demás y aumenta los riesgos que los residentes enfrentan a diario."
-  tags:
-    - digital
-
-- title: "Injecting Ghana’s Ag Sector with Youth-led ICT Energy"
-  pub: "Digital"
-  date: 2016-05-12
-  link: "http://dai-global-digital.com/ghana-agritech-exchange.html"
-  summary: "How do you get city kids interested in agriculture? It’s one of the first questions I was asked when I joined DAI, and as a confirmed urbanite, I must admit it’s not a discussion I expected to have. The topic came up in a meeting with my colleagues in DAI’s Energy &amp; Resources Group, who have been working over the last year with the Kosmos Innovation Center (KIC) in Accra, Ghana. The KIC, the flagship corporate social investment effort by Kosmos Energy, is exploring creative ways to address development challenges in Ghana, and in its first year, it has set its sights on boosting Ghana’s agricultural sector."
-  tags:
-    - digital
-
-- title: "Detecting Patterns in Survey Data with Data Visualization"
-  pub: "Digital"
-  date: 2016-05-05
-  link: "http://dai-global-digital.com/detecting-patterns-in-survey-data-with-data-visualization.html"
-  summary: "We love exploratory data analysis here at DAI and today we are going to delve into some of the survey data from my colleague Adam’s recent Digital Insights Research in Honduras to see if we can use data visualization to find social media and mobile super users.  Spoiler: they exist (and in surprising places!)"
   tags:
     - digital
 
