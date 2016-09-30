@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  In the early 2000s, the Russian financial sector was overregulated and served primarily large enterprises. Financial sector deepening had only begun to take place with the expansion of microfinance, which allowed for the creation of new financial institutions catering to small entrepreneurs and individual consumers.
+summary: 'In the early 2000s, the Russian financial sector was overregulated and served
+  primarily large enterprises. Financial sector deepening had only begun to take place
+  with the expansion of microfinance, which allowed for the creation of new financial
+  institutions catering to small entrepreneurs and individual consumers.
+
+'
 ---
+
 In the early 2000s, the Russian financial sector was overregulated and served primarily large enterprises. Financial sector deepening had only begun to take place with the expansion of microfinance, which allowed for the creation of new financial institutions catering to small entrepreneurs and individual consumers. Starting in September 2001, the RMSSP promoted this deepening by creating a Russian best practice microfinance center to support the industry. Now an established part of the Russian financial landscape, the Russian Microfinance Center (RMC) provides training, consulting, information, benchmarking, and policy support services to Russian microfinance institutions (MFIs).
 
 ![][1]

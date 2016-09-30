@@ -11,9 +11,13 @@ country:
 solutions:
 - Stability
 layout: project
-summary: |
-  Only a half-generation removed from civil war, Serbia has also been prone to flooding, including devastating floods in 2006 and 2010 that wrecked communities and small businesses and threatened the fragile social order.
+summary: 'Only a half-generation removed from civil war, Serbia has also been prone
+  to flooding, including devastating floods in 2006 and 2010 that wrecked communities
+  and small businesses and threatened the fragile social order.
+
+'
 ---
+
 Only a half-generation removed from civil war, Serbia has also been prone to flooding, including devastating floods in 2006 and 2010 that wrecked communities and small businesses and threatened the fragile social order. The Preparedness, Planning, and Economic Security (PPES) project increased stability by working on three fronts: building the capacity of vulnerable communities to prepare for crises and natural disasters, helping small businesses grow and expand into new markets within and beyond Serbia, and working to empower Serbian youth.
 
 ![][1]

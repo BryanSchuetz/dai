@@ -1,5 +1,6 @@
 ---
-title: Serbia—Preparation of Second Energy Efficiency Action Plan and Development of Energy Indicators
+title: Serbia—Preparation of Second Energy Efficiency Action Plan and Development
+  of Energy Indicators
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Commission
 start-date: 2014
@@ -12,9 +13,15 @@ solutions:
 - Clean Energy and Energy Efficiency
 - Environment and Energy
 layout: project
-summary: |
-  The Preparation of Second Energy Efficiency Action Plan and Development of Energy Indicators project will assist the Serbian Ministry of Energy, Development, and Environment support sustainable development by creating an action plan and building capacities to advance energy saving and energy-efficiency measures that will contribute to reduction of energy consumption and carbon dioxide emissions.
+summary: 'The Preparation of Second Energy Efficiency Action Plan and Development
+  of Energy Indicators project will assist the Serbian Ministry of Energy, Development,
+  and Environment support sustainable development by creating an action plan and building
+  capacities to advance energy saving and energy-efficiency measures that will contribute
+  to reduction of energy consumption and carbon dioxide emissions.
+
+'
 ---
+
 The Preparation of Second Energy Efficiency Action Plan and Development of Energy Indicators project will assist the Serbian Ministry of Energy, Development, and Environment support sustainable development by creating an action plan and building capacities to advance energy saving and energy-efficiency measures that will contribute to reduction of energy consumption and carbon dioxide emissions.
 
 ###  Sample Activities                              

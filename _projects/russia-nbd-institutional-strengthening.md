@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  DAI was hired to assist Russia's NBD, a bank focused on the micro, small, and medium enterprise sector, in its efforts to ensure that the appropriate institutional structures were put in place to enable the bank to grow and achieve its business objectives to expand into new regions and to attract a strategic investor.
+summary: 'DAI was hired to assist Russia''s NBD, a bank focused on the micro, small,
+  and medium enterprise sector, in its efforts to ensure that the appropriate institutional
+  structures were put in place to enable the bank to grow and achieve its business
+  objectives to expand into new regions and to attract a strategic investor.
+
+'
 ---
+
 DAI was hired to assist Russia's NBD, a bank focused on the micro, small, and medium enterprise sector, in its efforts to ensure that the appropriate institutional structures were put in place to enable the bank to grow and achieve its business objectives to expand into new regions and to attract a strategic investor.
 
 ###  Sample Activities

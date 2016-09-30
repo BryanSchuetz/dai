@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  The U.S. Agency for International Development (USAID) is working to help Serbia become a prosperous, democratic country moving further toward Euro-Atlantic integration.
+summary: 'The U.S. Agency for International Development (USAID) is working to help
+  Serbia become a prosperous, democratic country moving further toward Euro-Atlantic
+  integration.
+
+'
 ---
+
 The U.S. Agency for International Development (USAID) is working to help Serbia become a prosperous, democratic country moving further toward Euro-Atlantic integration. Given the critical role of agriculture in the Serbian economy, the Serbian Agribusiness Project (SAP) built on current and past USAID programs to help the Serbian agricultural sector transform into an increasingly efficient and competitive sector that is broad based and integrates producers from all regions of the country into the agricultural economy. To increase the value of Serbian agricultural product sales and increase agricultural employment, the DAI team worked at the producer and firm levels to increase the efficiency and competitiveness of Serbian agribusinesses, as well as at the policy level to improve the enabling environment for Serbian agribusinesses. SAP took a dual approach to increasing access to domestic and international markets. We worked directly with businesses, developing their marketing skills and knowledge of export and domestic markets and helping local producers to interact with supermarkets, identify their needs, and conclude contracts to replace imported product. On the international front, we worked with the Ministry of Agriculture, Forestry, and Water Management, the Serbia Investment and Export Promotion Agency, and the Serbian Chamber of Commerce to educate producers on international market offerings.
 
 ![][1]

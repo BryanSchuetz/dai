@@ -12,9 +12,13 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  Bank Leumi Romania (BLR) is a small bank that had a market share of just 0.3 percent at the beginning of the project in 2008. It wants to increase this to about 3.0 percent by the end of 2012.
+summary: 'Bank Leumi Romania (BLR) is a small bank that had a market share of just
+  0.3 percent at the beginning of the project in 2008. It wants to increase this to
+  about 3.0 percent by the end of 2012.
+
+'
 ---
+
 Bank Leumi Romania (BLR) is a small bank that had a market share of just 0.3 percent at the beginning of the project in 2008. It wants to increase this to about 3.0 percent by the end of 2012.  Bank Leumi recognized small and medium enterprise (SME) lending as a key area of growth in the Romanian economy and accordingly identified this segment as a strategic priority in the medium- to long-term. DAI helped create policies and procedures for SME lending and trained staff in SME lending methodology and supported management in implementing this lending program in at least 18 branches. Two long-term experts, permanently based at the bank, were supported in this task by short-term experts on marketing and credit scoring.
 
 ###  Sample Activities

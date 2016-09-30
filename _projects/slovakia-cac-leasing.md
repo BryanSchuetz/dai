@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to improve small and medium-sized enterprise (SME) financing methodologies at CAC Leasing and help develop a new credit scoring model.
+summary: 'DAI was contracted by the European Bank for Reconstruction and Development
+  (EBRD) to improve small and medium-sized enterprise (SME) financing methodologies
+  at CAC Leasing and help develop a new credit scoring model.
+
+'
 ---
+
 DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to improve small and medium-sized enterprise (SME) financing methodologies at CAC Leasing and help develop a new credit scoring model.
 
 ###  Sample Activities

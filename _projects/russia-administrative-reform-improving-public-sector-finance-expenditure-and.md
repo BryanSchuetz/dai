@@ -1,5 +1,6 @@
 ---
-title: 'Russia—Administrative Reform: Improving Public Sector Finance, Expenditure, and Delivery of Services'
+title: 'Russia—Administrative Reform: Improving Public Sector Finance, Expenditure,
+  and Delivery of Services'
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Commission
 start-date: 2005
@@ -11,9 +12,13 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  The Russian government acknowledges that administrative reform, civil service reform, and reform of the budget system is imperative to maintain its economic growth momentum.
+summary: 'The Russian government acknowledges that administrative reform, civil service
+  reform, and reform of the budget system is imperative to maintain its economic growth
+  momentum.
+
+'
 ---
+
 The Russian government acknowledges that administrative reform, civil service reform, and reform of the budget system is imperative to maintain its economic growth momentum. Working for the European Commission's Technical Assistance to the Commonwealth of Independent States program, three DAI Europe-led projects helped Russia improve its public sector operations. The projects introduced European experience and best practice in these areas, in line with common standards as established for a European Administrative Space, and adapted European Union experience and best practice to specific Russian circumstances. Following are the projects and some of their accomplishments.
 
 ![][1]
