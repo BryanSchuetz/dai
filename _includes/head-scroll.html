@@ -4,23 +4,21 @@
       if ($("header").height() > 127){
           offsetf = -163;
       }
-      else if ($("header").height() > 118){
-          offsetf = -165;
+      else if ($("header").height() > 117){
+          offsetf = -145;
       }
-      else if ($("header").height() > 91 ){
-        offsetf = -148
+      else if ($("header").height() > 90 ){
+          offsetf = -118;
       }
-      else if ($("header").height() > 65 ){
-        offsetf = -117
-      } else {
-        offsetf = -80
+      else if ($("header").height() < 66 ){
+          offsetf = -80;
       }
-      console.log('offsetf');
+      console.log(offsetf);
       $('.header-nav--main a').smoothScroll({
         offset: offsetf
       });
     }
-    var offsetf = -126;
+    var offsetf = -80;
     console.log(offsetf);
     checkSize();
     console.log(offsetf);
