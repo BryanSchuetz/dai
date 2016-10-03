@@ -1,6 +1,5 @@
 ---
-title: Southern Africa—Harmonized Seed Regulations Project (HSRP) in the Southern
-  African Development Community
+title: Feed the Future Southern Africa Seed Trade Project
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2015
