@@ -11,9 +11,15 @@ country:
 solutions:
 - Stability
 layout: project
-summary: |
-  After 25 years of civil war, the Government of Sri Lanka has regained control of its diverse provinces and peoples. The Eastern Province, an ethnically mixed, politically charged, and economically deprived area, was under the control of the Liberation Tigers of Tamil Elam (LTTE) and still erupting in periodic violence as recently as 2008.
+summary: 'After 25 years of civil war, the Government of Sri Lanka has regained control
+  of its diverse provinces and peoples. The Eastern Province, an ethnically mixed,
+  politically charged, and economically deprived area, was under the control of the
+  Liberation Tigers of Tamil Elam (LTTE) and still erupting in periodic violence as
+  recently as 2008.
+
+'
 ---
+
 After 25 years of civil war, the Government of Sri Lanka has regained control of its diverse provinces and peoples. The Eastern Province, an ethnically mixed, politically charged, and economically deprived area, was under the control of the Liberation Tigers of Tamil Elam (LTTE) and still erupting in periodic violence as recently as 2008. Constant battling between the Government of Sri Lanka, the LTTE, and the Karuna-faction, later known as Tamil Makkal Viduthalai Pulikal (TMVP), created a culture of violence in the Eastern Province. When the East was "liberalized" by the government in 2007 and subsequent elections empowered the TMVP, underlying resentment from the local people and lack of follow-through by the government created an environment ripe for further instability. The U.S. Agency for International Development (USAID)'s Reintegration and Stabilization in the East and North (RISEN) program implemented a wide range of conflict prevention and mitigation measures to create and promote stability. RISEN's goal was to improve personal and economic security in targeted communities in the East, providing support and opportunities for at-risk [youth][1], and building public confidence that core conflict issues are being addressed by the Government of Sri Lanka.
 
 ![][2]

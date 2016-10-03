@@ -13,9 +13,14 @@ solutions:
 - Corporate Services
 - Economic Growth
 layout: project
-summary: |
-  DAI was commissioned by TradeMark Southern Africa to conduct an independent evaluation of retailer Freshmark's project helping 200 small-scale farmers in Southern Africa meet the retailer's minimum food safety and quality standards, with the aim of improving the relationship between the retailer and its suppliers.
+summary: 'DAI was commissioned by TradeMark Southern Africa to conduct an independent
+  evaluation of retailer Freshmark''s project helping 200 small-scale farmers in Southern
+  Africa meet the retailer''s minimum food safety and quality standards, with the
+  aim of improving the relationship between the retailer and its suppliers.
+
+'
 ---
+
 DAI was commissioned by TradeMark Southern Africa to conduct an independent evaluation of retailer Freshmark's project helping 200 small-scale farmers in Southern Africa meet the retailer's minimum food safety and quality standards, with the aim of improving the relationship between the retailer and its suppliers. The 36-month project DAI evaluated was implemented by QC Fresh, on behalf of Freshmark, in Namibia, South Africa, Swaziland, and Zambia. The evaluation assessed the project's relevance, effectiveness, efficiency, replicability, and lessons learned.
 
 ###  Sample Activities

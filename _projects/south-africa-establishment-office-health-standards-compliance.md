@@ -12,9 +12,15 @@ solutions:
 - Governance
 - Health
 layout: project
-summary: |
-  We are assisting the South Africa National Department of Health (NDoH) as it transforms its Office of Standards Compliance into an independent public agency, the Office of Health Standards and Compliance (OHSC). The OHSC will monitor public health services and address complaints of non-compliance, while developing guidelines and providing information on the implementation of set health service standards.
+summary: 'We are assisting the South Africa National Department of Health (NDoH) as
+  it transforms its Office of Standards Compliance into an independent public agency,
+  the Office of Health Standards and Compliance (OHSC). The OHSC will monitor public
+  health services and address complaints of non-compliance, while developing guidelines
+  and providing information on the implementation of set health service standards.
+
+'
 ---
+
 We are assisting the South Africa National Department of Health (NDoH) as it transforms its Office of Standards Compliance into an independent public agency, the Office of Health Standards and Compliance (OHSC). The OHSC will monitor public health services and address complaints of non-compliance, while developing guidelines and providing information on the implementation of set health service standards.
 
 As the sector quality watchdog, the OHSC will lead the much-needed improvement in health service quality, change in public healthcare management, and institution of core health standards in public and private service providers. This move will lay the groundwork for the rollout of the NDoH National Health Insurance initiative.

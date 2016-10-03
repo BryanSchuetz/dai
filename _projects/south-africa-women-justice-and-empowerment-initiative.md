@@ -11,9 +11,14 @@ country:
 solutions:
 - Health
 layout: project
-summary: |
-  Under a subcontract to an RTI International project funded by the U.S. Agency for International Development (USAID), DAI worked on the Women's Justice and Empowerment Initiative, a U.S. Presidential Initiative to address women's rights and access to justice in four African countries.
+summary: 'Under a subcontract to an RTI International project funded by the U.S. Agency
+  for International Development (USAID), DAI worked on the Women''s Justice and Empowerment
+  Initiative, a U.S. Presidential Initiative to address women''s rights and access
+  to justice in four African countries.
+
+'
 ---
+
 Under a subcontract to an RTI International project funded by the U.S. Agency for International Development (USAID), DAI worked on the Women's Justice and Empowerment Initiative, a U.S. Presidential Initiative to address women's rights and access to justice in four African countries. In South Africa, the program worked closely with the National Prosecuting Authority that leads the Thuthuzela Care Centres (TCCs). Our work focused on strengthening South Africa's response to sexual violence.
 
 The TCCs were established as one-stop facilities critical to South Africa's anti-rape strategy. They aim to reduce secondary trauma for victims, improve conviction rates of rapists, and reduce the time for resolving cases in court. USAID's assistance helped advance the program.

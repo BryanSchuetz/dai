@@ -1,5 +1,6 @@
 ---
-title: 'South Africa—Analysis, Design, and Implementation Plan for Business Commitments in Local Procurement Accord'
+title: South Africa—Analysis, Design, and Implementation Plan for Business Commitments
+  in Local Procurement Accord
 date: 2016-01-21 22:40:52.765000000 Z
 client: Business Leadership South Africa
 start-date: 2012
@@ -12,9 +13,14 @@ solutions:
 - Business Environment Reform
 - Economic Growth
 layout: project
-summary: |
-  The South African business community, in a 2011 Local Procurement Accord, committed to "promote measures that will enhance the level of localization in private sector supply chains." Signed by constituents of the business, labor, and government sectors, the accord ultimately aims to create 5 million jobs by 2020.
+summary: 'The South African business community, in a 2011 Local Procurement Accord,
+  committed to "promote measures that will enhance the level of localization in private
+  sector supply chains." Signed by constituents of the business, labor, and government
+  sectors, the accord ultimately aims to create 5 million jobs by 2020.
+
+'
 ---
+
 The South African business community, in a 2011 Local Procurement Accord, committed to "promote measures that will enhance the level of localization in private sector supply chains." Signed by constituents of the business, labor, and government sectors, the accord ultimately aims to create 5 million jobs by 2020.
 
 To gauge businesses' commitment and to create momentum, Business Leadership South Africa (BLSA) commissioned DAI to conduct a study of a small sample of BLSA members to identify potential opportunities for increasing local procurement. In two phases, the aim of the study was to guide future efforts toward achieving Commitment Four (Support for Local Manufacturing by Organized Business) and Commitment Five (Investment of Domestic Manufacturing Sectors) of the Local Procurement Accord. The second phase built on the recommendations of the first with the aim of providing guidance to businesses in the fulfillment of their commitments.

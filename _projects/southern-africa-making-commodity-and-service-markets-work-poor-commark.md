@@ -13,9 +13,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  ComMark was designed specifically to facilitate the development and improved operation of commodity and service markets for the benefit of poor people in Southern Africa.
+summary: 'ComMark was designed specifically to facilitate the development and improved
+  operation of commodity and service markets for the benefit of poor people in Southern
+  Africa.
+
+'
 ---
+
 ComMark was designed specifically to facilitate the development and improved operation of commodity and service markets for the benefit of poor people in Southern Africa. This project focused on growing sub-sectors within and across countries with high growth potential, including South Africa, Namibia, Botswana, Lesotho, and Swaziland, as well as fostering broader regional linkages.
 
 ###  Sample Activities

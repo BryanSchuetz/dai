@@ -12,9 +12,13 @@ solutions:
 - Corporate Services
 - Economic Growth
 layout: project
-summary: |
-  This International Finance Corporation (IFC)-funded project worked to bring economic development and wealth to the local community by training local small and medium enterprises in the South African community where mining company Lonmin works.
+summary: 'This International Finance Corporation (IFC)-funded project worked to bring
+  economic development and wealth to the local community by training local small and
+  medium enterprises in the South African community where mining company Lonmin works.
+
+'
 ---
+
 This International Finance Corporation (IFC)-funded project worked to bring economic development and wealth to the local community by training local small and medium enterprises in the South African community where mining company Lonmin works. Lonmin, with the support and involvement of the IFC, launched a program to operationalize its Social Labour Plan (SLP) to bring economic development and wealth to the community of Marikana through the development and training of local small and medium enterprises to become competitive suppliers to the Lonmin Marikana Mines. Drawing on our experience designing and implementing long-term small and medium enterprise development and business linkages projects in Southern Africa, the implementation of the Lonmin-IFC SME training and development program was based on: Enterprise Diagnosis, Enterprise Reporting, and Enterprise Support.
 
 ###  Sample Activities

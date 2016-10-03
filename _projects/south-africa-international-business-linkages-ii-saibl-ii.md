@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  The political and socioeconomic model of apartheid South Africa constrained the competitiveness of black-owned companies by isolating them from the mainstream economy and limiting their access to opportunities for education and skills development.
+summary: 'The political and socioeconomic model of apartheid South Africa constrained
+  the competitiveness of black-owned companies by isolating them from the mainstream
+  economy and limiting their access to opportunities for education and skills development.
+
+'
 ---
+
 The political and socioeconomic model of apartheid South Africa constrained the competitiveness of black-owned companies by isolating them from the mainstream economy and limiting their access to opportunities for education and skills development. This legacy of limited opportunities and stunted networks remains an impediment to black entrepreneurship. With the South Africa International Business Linkages II program (SAIBL II), an enterprise development and business linkages project, we worked to reverse the damage done to black-owned business during apartheid through training, technical assistance, and linking businesses.
 
 ![][1]

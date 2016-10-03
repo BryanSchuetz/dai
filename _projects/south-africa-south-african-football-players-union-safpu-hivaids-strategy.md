@@ -11,9 +11,16 @@ country:
 solutions:
 - Health
 layout: project
-summary: |
-  During the 2010 World Cup, all eyes were on South African football—locally, regionally, and around the world. The South African Football Players Union (SAFPU) recognized the seriousness of the HIV/AIDS epidemic and its impact on the football fraternity, and the community at large, and supported national efforts to reduce the spread of the disease, minimize its impact, and raise awareness around the issue of HIV/AIDS.
+summary: 'During the 2010 World Cup, all eyes were on South African football—locally,
+  regionally, and around the world. The South African Football Players Union (SAFPU)
+  recognized the seriousness of the HIV/AIDS epidemic and its impact on the football
+  fraternity, and the community at large, and supported national efforts to reduce
+  the spread of the disease, minimize its impact, and raise awareness around the issue
+  of HIV/AIDS.
+
+'
 ---
+
 During the 2010 World Cup, all eyes were on South African football—locally, regionally, and around the world. The South African Football Players Union (SAFPU) recognized the seriousness of the HIV/AIDS epidemic and its impact on the football fraternity, and the community at large, and supported national efforts to reduce the spread of the disease, minimize its impact, and raise awareness around the issue of HIV/AIDS. DAI assisted SAFPU in developing an HIV/AIDS policy for football players. This process was preceded by a situational analysis that confirmed the lack of HIV/AIDS programs aimed at benefiting football players. It also highlighted high-risk sexual behavior among football players, low perception of risk, low HIV testing rates, and fears of discrimination. The high prevalence of HIV/AIDS in South African society in general suggested that a significant percentage of football players are living with HIV/AIDS, or at risk of contracting it.
 
 ###  Sample Activities

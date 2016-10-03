@@ -11,9 +11,12 @@ country:
 solutions:
 - Health
 layout: project
-summary: |
-  DAI helped Social & Scientific Systems (SSS) establish on-the-ground operations in Thailand, Indonesia, and Vietnam.
+summary: 'DAI helped Social & Scientific Systems (SSS) establish on-the-ground operations
+  in Thailand, Indonesia, and Vietnam.
+
+'
 ---
+
 DAI helped Social & Scientific Systems (SSS) establish on-the-ground operations in Thailand, Indonesia, and Vietnam. DAI provided administrative and management support services to facilitate clinical research under the multisite, multinational Southeast Asia Infectious Disease Clinical Research Network (SEA ICRN) and the multisite Indonesian clinical research network, which will conduct some of its research as part of the SEA ICRN.
 
 ###  Sample Activities

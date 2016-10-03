@@ -14,9 +14,15 @@ solutions:
 - Institutional and Policy Reform
 - Public Administration, Civil Service Reform, and Human Resources Management
 layout: project
-summary: |
-  Following a 2001 review of provincial service delivery systems and realizing the challenges related to the planning and management of public sector infrastructure delivery, the South African government introduced the Infrastructure Delivery Improvement Programme (IDIP), a capacity-building program designed to enhance infrastructure delivery. DAI was involved in the design and initial implementation of the program.
+summary: 'Following a 2001 review of provincial service delivery systems and realizing
+  the challenges related to the planning and management of public sector infrastructure
+  delivery, the South African government introduced the Infrastructure Delivery Improvement
+  Programme (IDIP), a capacity-building program designed to enhance infrastructure
+  delivery. DAI was involved in the design and initial implementation of the program.
+
+'
 ---
+
 Following a 2001 review of provincial service delivery systems and realizing the challenges related to the planning and management of public sector infrastructure delivery, the South African government introduced the Infrastructure Delivery Improvement Programme (IDIP), a capacity-building program designed to enhance infrastructure delivery. DAI was involved in the design and initial implementation of the program.
 
 Managed by the National Treasury, provincial departments receive support to develop their capacity to plan, manage, and sustain infrastructure delivery. Now in its third phase, the program has slowly been shifted to provinces in order to improve capacity at that level. The provision of good quality health and education remain key priorities for government and expanded infrastructure is central to addressing the challenges in these priority areas.

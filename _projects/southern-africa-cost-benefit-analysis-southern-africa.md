@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  With increasing scrutiny on how government tax revenue is spent, bilateral donors must be able to devise high-impact, cost-effective approaches to development that demonstrate value for money.
+summary: 'With increasing scrutiny on how government tax revenue is spent, bilateral
+  donors must be able to devise high-impact, cost-effective approaches to development
+  that demonstrate value for money.
+
+'
 ---
+
 With increasing scrutiny on how government tax revenue is spent, bilateral donors must be able to devise high-impact, cost-effective approaches to development that demonstrate value for money. The Swiss Agency for Development and Cooperation (SDC) commissioned DAI to advise on how to integrate cost-benefit analysis into the SDC's programming in Southern Africa. Based on the cost-benefit analysis of a food security project in Malawi and an education project in South Africa, DAI is developing case studies to train SDC staff and partners on how to integrate CBA into current and future projects. The Malawian post-harvest project is being implemented by CIMMYT, while the South African education project is being implemented by an institution set up by the SDC and Swiss companies operating in South Africa.
 
 ###  Sample Activities

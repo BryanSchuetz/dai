@@ -12,9 +12,16 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: project
-summary: |
-  This project is increasing the number of local suppliers of fresh produce in South Africa to Massmart, a subsidiary of Walmart, in concert with the country's black economic empowerment policy. It assists farmers and cooperatives with the informed farm- and market-level support they need to link to Massmart's fresh produce supply chain. Additionally, we help farmers access commercial production credit from banks and other sources.
+summary: 'This project is increasing the number of local suppliers of fresh produce
+  in South Africa to Massmart, a subsidiary of Walmart, in concert with the country''s
+  black economic empowerment policy. It assists farmers and cooperatives with the
+  informed farm- and market-level support they need to link to Massmart''s fresh produce
+  supply chain. Additionally, we help farmers access commercial production credit
+  from banks and other sources.
+
+'
 ---
+
 This project is increasing the number of local suppliers of fresh produce in South Africa to Massmart, a subsidiary of Walmart, in concert with the country's black economic empowerment policy. It assists farmers and cooperatives with the informed farm- and market-level support they need to link to Massmart's fresh produce supply chain. Additionally, we help farmers access commercial production credit from banks and other sources. Together, this work will result in sustainable improvement in the capacity of farmers to efficiently increase production and productivity of quality produce.
 
 ###  Sample Activities
