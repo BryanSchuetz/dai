@@ -1,17 +1,23 @@
 ---
-title: Innovation into Action Challenge Winners Begin to Implement Their Solutions in the Field
+title: Innovation into Action Challenge Winners Begin to Implement Their Solutions
+  in the Field
 date: 2016-09-26 18:05:00 Z
-summary: |
-  In May 2016, DAI and its partners [announced](/news/innovation-action-challenge-winners-chosen) four winners in the _Innovation into Action Challenge_, a competition to identify and support products and services that will help people in developing nations tackle social and economic challenges.
+summary: 'In May 2016, DAI and its partners [announced](/news/innovation-action-challenge-winners-chosen)
+  four winners in the _Innovation into Action Challenge_, a competition to identify
+  and support products and services that will help people in developing nations tackle
+  social and economic challenges.
+
+'
 solutions:
 - Digital
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 featured: true
 ---
+
 In May 2016, DAI and its partners [announced][1] four winners in the _Innovation into Action Challenge_, a competition to identify and support products and services that will help people in developing nations tackle social and economic challenges.
 
 <!--more-->

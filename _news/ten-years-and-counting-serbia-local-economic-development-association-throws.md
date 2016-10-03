@@ -1,16 +1,22 @@
 ---
-title: 'Ten Years and Counting: Serbia’s Local Economic Development Association Throws a Birthday Party'
+title: 'Ten Years and Counting: Serbia’s Local Economic Development Association Throws
+  a Birthday Party'
 date: 2016-09-21 18:05:00 Z
-summary: |
-  Ten years after DAI helped Serbia launch its National Association for Local Economic Development (NALED), NALED celebrated the milestone with a [gala](http://www.naled-serbia.org/en/news/details/1077/NALED-celebrated-its-10th-birthday) in Belgrade that attracted more than 600 political and business leaders, mayors, representatives of state institutions and international organizations, and diplomats.
+summary: 'Ten years after DAI helped Serbia launch its National Association for Local
+  Economic Development (NALED), NALED celebrated the milestone with a [gala](http://www.naled-serbia.org/en/news/details/1077/NALED-celebrated-its-10th-birthday)
+  in Belgrade that attracted more than 600 political and business leaders, mayors,
+  representatives of state institutions and international organizations, and diplomats.
+
+'
 solutions:
 - Governance
 regions:
 - Eastern Europe and Central Asia
 projects: Serbia—Local Government Reform Program (SLGRP)
-clients:
+clients: 
 layout: node
 ---
+
 Ten years after DAI helped Serbia launch its National Association for Local Economic Development (NALED), NALED celebrated the milestone with a [gala][1] in Belgrade that attracted more than 600 political and business leaders, mayors, representatives of state institutions and international organizations, and diplomats.
 
 The September 7 event at the historic White Palace was opened by Ana Brnabić, Serbia's Minister of Public Administration and Local Government. Brnabić is a former DAI employee who worked from 2002 to 2007 on the U.S. Agency for International Development (USAID)-funded [Serbia Local Government Reform Program][2] and Municipal Economic Growth Activity. She and former DAI Chief of Party Steven Rosenberg were instrumental in [establishing NALED][3].
