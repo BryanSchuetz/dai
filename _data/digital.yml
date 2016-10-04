@@ -5,7 +5,8 @@
   link: "http://dai-global-digital.com/appified-how-social-media-is-doing-the-hard-work-in-ict4d.html"
   summary: "A spoonful of sugar helps the medicine go down, in a most delightful way. Mary Poppins was on to something significant in user experience, far before that phrase even entered our lexicon. How has the sugary sweet world of social media changed the game in ICT for development (ICT4D)? More than just providing us with new channels to engage our target audiences, social media has actually taught our beneficiaries how to be a mobile audience."
   tags:
-    - digital
+    - digital 
+    - Think Piece 
 
 - title: "App-a-Thon 2016: BlackBerry Messenger for Development"
   pub: "Digital"
@@ -15,7 +16,8 @@
 
 So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. Up to bat this week is BlackBerry Messenger (BBM)."
   tags:
-    - digital
+    - digital 
+    - Appathon 2016 
 
 - title: "From Data to Knowledge: Applying Schema Agnostic Systems Modeling to Development Challenges"
   pub: "Digital"
@@ -23,7 +25,9 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   link: "http://dai-global-digital.com/from-data-to-knowledge-applying-schema-agnostic-systems-modeling-to-development-challenges.html"
   summary: "By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement."
   tags:
-    - digital
+    - digital 
+    - Think Piece 
+    - Data 
 
 - title: "Building Cluster Maps with the AidData API"
   pub: "Digital"
@@ -31,7 +35,9 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   link: "http://dai-global-digital.com/building-cluster-maps-with-the-aiddata-api.html"
   summary: "AidData is an awesome organization. It has built a lightning-fast application program interface (API) that exposes a massive amount of structured data about aid finance, projects, locations, and sources of funding. More broadly—and quoted from its Twitter bio—AidData, a research and innovation lab at the College of William &amp; Mary, is “providing tools and services to make development finance more transparent and effective.” Its API is one incredible step toward that admirable goal."
   tags:
-    - digital
+    - digital 
+    - Think Piece 
+    - Data 
 
 - title: "App-a-Thon 2016: LINE for Development"
   pub: "Digital"
@@ -39,7 +45,8 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   link: "http://dai-global-digital.com/app-a-thon-2016-line-for-development.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app."
   tags:
-    - digital
+    - digital 
+    - Appathon 2016 
 
 - title: "ICT in the Agricultural Sector: Business Concepts from Ghanaian Youth"
   pub: "Digital"
@@ -47,7 +54,11 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   link: "http://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html"
   summary: "Some of you may recall my post  from May when I wrote about the Kosmos Innovation Center (KIC) and the exciting work it’s doing to bring young tech-savvy entrepreneurs into the agricultural sector in Ghana. Here’s a quick update and brief summary of the kinds of ideas that have emerged from the project so far."
   tags:
-    - digital
+    - digital 
+    - Agriculture 
+    - Sub-Saharan Africa 
+    - Economic Growth 
+    - Innovation 
 
 - title: "How Dashboards are like Olympians"
   pub: "Digital"
@@ -55,7 +66,8 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   link: "http://dai-global-digital.com/how-dashboards-are-like-olympians.html"
   summary: "The Olympic Games in Rio are over! It’s too bad. We all had fun watching the world’s greatest athletes come together to compete. At these Olympic Games we saw several displays of dominance from competitors such as Usain Bolt, Katie Ledecky, and Michael Phelps. Watching their races, it struck me how easy they made it look, with Bolt laughing in his prelims, Ledecky winning by 11 seconds, and Phelps winning by over a body length in a race that was only two laps in the pool."
   tags:
-    - digital
+    - digital 
+    - Data 
 
 - title: "App-a-Thon 2016: Kik for Development"
   pub: "Digital"
@@ -65,7 +77,8 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
 
 So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week kik takes center stage."
   tags:
-    - digital
+    - digital 
+    - Appathon 2016 
 
 - title: "A Call for Action: Leaving Behind “One App at a Time” Approaches"
   pub: "Digital"
@@ -73,7 +86,8 @@ So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week ki
   link: "http://dai-global-digital.com/a-call-for-action-leaving-behind-one-app-at-a-time-approaches.html"
   summary: "It’s become all but banal to observe that information and communications technology (ICT) has made our world increasingly interconnected and data-rich. But, for some reason, the role of ICT practitioners in international development hasn’t evolved to reflect this shift. ICT teams, like other “functional” (as opposed to regional) experts, are incentivized to develop niche expertise and subject matter knowledge—sometimes at the expense of improved development programming."
   tags:
-    - digital
+    - digital 
+    - Think Piece 
 
 - title: "App-a-Thon 2016: Telegram for Development"
   pub: "Digital"
@@ -83,7 +97,8 @@ So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week ki
 
 So far, we’ve covered WhatsApp and Facebook Messenger. This time, we bring you Telegram, WhatsApp’s bolder, more extroverted cousin."
   tags:
-    - digital
+    - digital 
+    - Appathon 2016 
 
 - title: "App-a-Thon 2016: Facebook  Messenger for Development"
   pub: "Digital"
@@ -93,7 +108,8 @@ So far, we’ve covered WhatsApp and Facebook Messenger. This time, we bring you
 
 Last time we covered WhatsApp. This week, we’re talking about another Facebook property: Messenger."
   tags:
-    - digital
+    - digital 
+    - Appathon 2016 
 
 - title: "Can Big Data Build Resilient Communities?"
   pub: "Digital"
@@ -103,7 +119,9 @@ Last time we covered WhatsApp. This week, we’re talking about another Facebook
 
 Before my time at DAI, I spent several months in India, working for a local nongovernmental organization on multidimensional poverty reduction projects. One of the projects had me walking through a tsunami-affected village on the southeastern coast of India. Witnessing first-hand how damaging hydrometerological events can be really galvanized my desire to work in the sector. I talked to local fisherman about how their boats were destroyed and how they had to leave their village behind in the impending wake of the storm. They despaired at the lack of early warning information to help them prepare for and understand the effects of such a disaster."
   tags:
-    - digital
+    - digital 
+    - Health 
+    - Data 
 
 - title: "Top 5 Civic Tech Concepts and Ideas from PDF 2016"
   pub: "Digital"
@@ -111,7 +129,8 @@ Before my time at DAI, I spent several months in India, working for a local nong
   link: "http://dai-global-digital.com/civic-tech-pdf-2016.html"
   summary: "The annual Personal Democracy Forum (PDF) might best be described as “civic tech prom.” It’s that once-a-year time when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they’re using new technology for public good. What qualifies as civic tech in this crowd? If you’re starting discourse about important public issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, you would fit right in at PDF."
   tags:
-    - digital
+    - digital 
+    - Governance 
 
 - title: "Visualizing Hierarchical Data: USAID’s $8.5 Billion Global Health Initiative"
   pub: "Digital"
@@ -119,7 +138,9 @@ Before my time at DAI, I spent several months in India, working for a local nong
   link: "http://dai-global-digital.com/visualizing-hierarchical-data-the-2017-budget-request-for-usaids-global-health-initiative.html"
   summary: "Budget data is notoriously difficult to analyze. The volume of data can be high, the long tables are unwieldy, and the structures are almost always multilayered, making it difficult to visualize. But with some of the advanced interactive visualization tools we use at DAI, we can analyze and present even complex data more clearly."
   tags:
-    - digital
+    - digital 
+    - Health 
+    - Data 
 
 - title: "WhatsApp for Development: the Launch of App-a-Thon 2016"
   pub: "Digital"
@@ -129,7 +150,8 @@ Before my time at DAI, I spent several months in India, working for a local nong
 
 This week, we begin with one of the most popular – WhatsApp."
   tags:
-    - digital
+    - digital 
+    - Appathon 2016 
 
 - title: "Online Petitions and the Future of Citizen-driven Advocacy: A Conversation with Avijit Michael"
   pub: "Digital"
@@ -137,7 +159,8 @@ This week, we begin with one of the most popular – WhatsApp."
   link: "http://dai-global-digital.com/online-petitions-and-the-future-of-citizen-driven-advocacy-a-conversation-with-avijit-michael.html"
   summary: "Meet Avijit Michael, the former Global Development Director for Change.org who recently moved to Jhatkaa.org, a tech nonprofit focused on digital advocacy in his home country of India. Avijit wears many hats—software designer, artist, environmentalist, campaigner for progressive causes, and musician. After almost a decade in the world of digital activism, he gives us his thoughts on the state of the field."
   tags:
-    - digital
+    - digital 
+    - Governance 
 
 - title: "Measuring Mobile Connectivity: GSMA Launches New Analytical Tool"
   pub: "Digital"
@@ -145,7 +168,9 @@ This week, we begin with one of the most popular – WhatsApp."
   link: "http://dai-global-digital.com/measuring-mobile-connectivity-gsma-launches-a-new-analytical-tool.html"
   summary: "The end of 2015 saw 3.2 billion people connected to the internet. With rates continuing to rise steadily, people are plugging into online networks that foster social and economic development, empowering them with new tools for more effective communication and more efficient economic activity. As impressive as these figures are though, 4 billion people remain offline, without access to these opportunities. Bridging the digital divide is of paramount importance if the world’s most disadvantaged populations are to participate in the increasingly connected economy, and because people are increasingly turning to mobile phones as their primary gateway to the mobile networks represent the linchpin to inclusive, ICT-enabled development."
   tags:
-    - digital
+    - digital 
+    - Economic Growth 
+    - Data 
 
 - title: "Machine Learning Will Help Development Projects Achieve Scale"
   pub: "Digital"
@@ -153,7 +178,10 @@ This week, we begin with one of the most popular – WhatsApp."
   link: "http://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html"
   summary: "The terms “machine learning” and “artificial intelligence” (AI) conjure up feelings that are equal parts fear and fascination. Why is that? Until recently, the prospect of a piece of software making human-like decisions resided safely in the far-fetched expectations of 1960s-era computer scientists or the plot lines of science fiction novels. Today, however, after decades of unmet expectations, we finally have AI systems that are beginning to influence our lives in tangible ways. Voice recognition systems like Amazon’s Echo and Apple’s Siri, and once-unimaginable fantasies like self-driving cars, are on the market for consumers, with more exciting life-like systems to come. We have also seen a few early signs of robotic autonomy that makes us feel uneasy, like the Russian robot that learned how to escape the lab!"
   tags:
-    - digital
+    - digital 
+    - Think Piece 
+    - Afghanistan 
+    - Data 
 
 - title: "Ready for Takeoff: Video Games in International Development"
   pub: "Digital"
@@ -163,7 +191,8 @@ This week, we begin with one of the most popular – WhatsApp."
 
 I was 6 when my dad brought home our first computer. It was an IBM 386. At the time, it was space-age technology. By today’s standards it’s the musical equivalent of banging two rocks together. I imagine my dad expected my older brother and me to learn the interface and how to type. Instead, within weeks we were mowing down Nazis in Wolfenstein 3D and engineering some pretty spectacular crashes in in Stunts. Needless to say, I was hooked."
   tags:
-    - digital
+    - digital 
+    - Think Piece 
 
 - title: "Afghanistan Produces Highly Skilled Software Engineers"
   pub: "Digital"
@@ -171,7 +200,9 @@ I was 6 when my dad brought home our first computer. It was an IBM 386. At the t
   link: "http://dai-global-digital.com/afghanistans-highly-skilled-software-engineers.html"
   summary: "Great products are built close to the user. It is design principle No. 1. It is what lets you deploy early and often, fail fast, learn and iterate. It is also why it is impossible to export software across an ocean and expect it to work well for users with whom you have little interaction or empathy. But here’s the thing: businesses and local governments in poor countries need great software to achieve inclusion, transparency, efficiency, and revenue."
   tags:
-    - digital
+    - digital 
+    - Afghanistan 
+    - Economic Growth 
 
 - title: "Digital Insights Palestine: 
 E-Governance Readiness"
@@ -180,7 +211,10 @@ E-Governance Readiness"
   link: "http://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html"
   summary: "In June I traveled to the West Bank to investigate aspects of Palestinian readiness for local electronic governance (e-gov) systems. As part of an attempt to explore potential improvements in municipal service delivery and citizen engagement, I conducted citizen interviews to help us better understand how Palestinians receive and share information using technology, and how they interact with local municipalities."
   tags:
-    - digital
+    - digital 
+    - Digital Insights 
+    - Palestine 
+    - Governance 
 
 - title: "Notes from the Field: Makerspaces a Great Solution for Tanzanian Youth to Realize Dreams"
   pub: "Digital"
@@ -188,7 +222,9 @@ E-Governance Readiness"
   link: "http://dai-global-digital.com/notes-from-the-field-makerspaces-a-great-solution-for-tanzanian-youth-to-realize-dreams.html"
   summary: "Meet Jesse, a university student and entrepreneur. Jesse grew up in Leguruki village in Meru District in Northern Tanzania where the majority of people farm avocados, including Jesse’s family members. Despite good markets for avocado, 98 percent of Leguruki avocados do not make it to the market; their thin skins make them susceptible to rot or damage during transport along Meru’s bumpy, unpaved roads."
   tags:
-    - digital
+    - digital 
+    - Innovation 
+    - Sub-Saharan Africa 
 
 - title: "ICT4Ag: Smart Thoughts from USAID on the Partnership Gap"
   pub: "Digital"
@@ -196,7 +232,9 @@ E-Governance Readiness"
   link: "http://dai-global-digital.com/ict4ag-smart-thoughts-on-the-partnership-gap-from-usaid.html"
   summary: "After last week’s ICT4Ag conference, there was one panel discussion that really stuck in mind, and in particular one speaker: USAID’s Chris Burns. This is not some fawning post batting eyelashes at the donor, but a true appreciation for the content of what Chris said and his eloquence in getting at what I see as really the heart of the matter in any ICT4D work: smart partnerships that leverage comparative advantages."
   tags:
-    - digital
+    - digital 
+    - Agriculture 
+    - Think Piece 
 
 - title: "Los Mejores 3 Conceptos Para Enfrentar el Cambio Climatico de NASA Space Apps Bogotá"
   pub: "Digital"
@@ -206,7 +244,10 @@ E-Governance Readiness"
 
 This post is also available in English."
   tags:
-    - digital
+    - digital 
+    - Colombia 
+    - Environment & Energy 
+    - Innovation 
 
 - title: "5 (and 1/2) Things We Learned from Teaching the Digital Principles"
   pub: "Digital"
@@ -214,7 +255,8 @@ This post is also available in English."
   link: "http://dai-global-digital.com/5-and-a-half-things-we-learned-from-teaching-the-digital-principles.html"
   summary: "Over the last couple of years, DAI has developed the “ICT Corps”—a series of in-house training sessions for our teams around the world on how to integrate ICT into development projects, from using mobile tools to engage communities to using ICT-enabled solutions to gather data for decision-making. One of these modules is devoted to teaching the nine Principles for Digital Development. DAI has endorsed the principles and regularly uses them to guide technology design, but in using them as a training tool, we learned a thing or five."
   tags:
-    - digital
+    - digital 
+    - Digital Principles 
 
 - title: "Top 3 Climate Change Concepts from NASA Space Apps Challenge Bogotá"
   pub: "Digital"
@@ -224,7 +266,10 @@ This post is also available in English."
 
 Esta entrada también está disponible en español."
   tags:
-    - digital
+    - digital 
+    - Colombia 
+    - Innovation 
+    - Environment & Energy 
 
 - title: "Have We Hit a Tech Tipping Point? Observations from Cambodia"
   pub: "Digital"
@@ -232,7 +277,9 @@ Esta entrada también está disponible en español."
   link: "http://dai-global-digital.com/have-we-hit-a-technology-tipping-point.html"
   summary: "Longstanding wisdom in the ICT4D community dictates that you need to conduct a hard sales job to convince more traditional communities and/or stakeholders to use ICT services. My current research in Cambodia is challenging this notion."
   tags:
-    - digital
+    - digital 
+    - Cambodia 
+    - Think Piece 
 
 - title: "Digital Insights Indonesia Part 2: Where WhatsApp is Just Another BlackBerry Messenger Clone"
   pub: "Digital"
@@ -244,7 +291,9 @@ Last time, in Digital Insights Indonesia: Mobiles &amp; Workforce Development, I
 
 This time, it’s straight to the insights."
   tags:
-    - digital
+    - digital 
+    - Indonesia 
+    - Digital Insights 
 
 - title: "Digital Insights Indonesia Part 1: Mobiles & Workforce Development"
   pub: "Digital"
@@ -254,7 +303,9 @@ This time, it’s straight to the insights."
 
 Stepping through a narrow alley way, under low-slung balconies and sagging clotheslines, the landscape opens up and what had appeared to be an open field in the middle of a megacity now comes in to view. Prumpung Public Cemetery on a Saturday morning is most certainly the place to be; snack hawkers shout as they amble along the rows of horseshoe shaped headstones, groups of friends congregate alongside tea stands, and families gather around the graves of aunts and uncles. Such was my introduction to the East Jakarta neighborhood of Cipinang Besar Utara, where I would soon be playing Simon Says, dancing, and beatboxing with the 60 Indonesian youth who we interviewed about their media and technology habits."
   tags:
-    - digital
+    - digital 
+    - Digital Insights 
+    - Indonesia 
 
 - title: "Móviles en América Central: Digital Insights Honduras, Parte 2"
   pub: "Digital"
@@ -270,5 +321,7 @@ Hace poco escribí sobre mi experiencia entrevistando a jóvenes en riesgo en Ho
 
 La mensajería móvil y las redes sociales son muy populares entre los jóvenes de Honduras. Más del 70% de los jóvenes en riesgo en Honduras que hemos entrevistado tenían teléfonos inteligentes, y casi cada uno de los que tenían teléfonos inteligentes utiliza WhatsApp. Facebook es aún más omnipresente. El mensaje es el siguiente: cualquier persona–desde el gobierno de Honduras hasta los donantes como USAID y las organizaciones de la implementación–que quiera trabajar con los jóvenes Hondureños deben buscarlos en sus plataformas nativas de comunicación. En estos días eso significa en las aplicaciones de medios sociales y mensajería."
   tags:
-    - digital
+    - digital 
+    - Digital Insights 
+    - Honduras 
 
