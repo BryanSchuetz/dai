@@ -12,9 +12,14 @@ solutions:
 - Health
 - Health and Livelihoods
 layout: project
-summary: |
-  As the AIDS epidemic in Tanzania spread, treatment and care expanded and people started living longer. As a result, programs increasingly wrestled with how to mitigate the huge economic costs faced by individuals and families coping with HIV/AIDS and how to build better household safety nets.
+summary: 'As the AIDS epidemic in Tanzania spread, treatment and care expanded and
+  people started living longer. As a result, programs increasingly wrestled with how
+  to mitigate the huge economic costs faced by individuals and families coping with
+  HIV/AIDS and how to build better household safety nets.
+
+'
 ---
+
 As the AIDS epidemic in Tanzania spread, treatment and care expanded and people started living longer. As a result, programs increasingly wrestled with how to mitigate the huge economic costs faced by individuals and families coping with HIV/AIDS and how to build better household safety nets. Many programs intervened to build resiliency among the affected households and mitigate AIDS' economic impact. Intent, however, has not always translated into outcomes as economic strengthening activities undertaken by the health community have had mixed results. IMARISHA, which means "strengthening" in Swahili, is a four-year program funded by the U.S. Agency for International Development (USAID) and the U.S. President's Emergency Plan for AIDS Relief (PEPFAR) to strengthen these economic activities. IMARISHA is forging a common language between the health and economic-strengthening communities to foster more effective programming, innovation, smart partnerships, and appropriate services, as well as a common set of indicators to measure impact.
 
 ![][1]

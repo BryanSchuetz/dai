@@ -14,9 +14,13 @@ solutions:
 - Financial Services
 - Public Financial Management
 layout: project
-summary: |
-  Since its inception in 1992, Raiffeisenbank Aval (AVAL) has strengthened its position in the Ukrainian market through an extensive branch network and a strong customer deposit base.
+summary: 'Since its inception in 1992, Raiffeisenbank Aval (AVAL) has strengthened
+  its position in the Ukrainian market through an extensive branch network and a strong
+  customer deposit base.
+
+'
 ---
+
 Since its inception in 1992, Raiffeisenbank Aval (AVAL) has strengthened its position in the Ukrainian market through an extensive branch network and a strong customer deposit base. AVAL has been strong in micro and small business lending, and in lending to larger business borrowers. However, in 2006, the bank assessed its need to address the segment that lies between these two. The European Bank for Reconstruction and Development contracted DAI to establish a small and medium-sized enterprise (SME) lending program and ensure through an institution building program that AVAL's commitment to SME lending was sustainable.
 
 ###  Sample Activities

@@ -1,5 +1,6 @@
 ---
-title: 'Zambia—Private Sector Support to Climate Resilience in Zambia: Mobile Phone Platform for Disseminating Market and Climate Information'
+title: 'Zambia—Private Sector Support to Climate Resilience in Zambia: Mobile Phone
+  Platform for Disseminating Market and Climate Information'
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Finance Corporation
 start-date: 2012
@@ -11,9 +12,14 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  DAI is supporting a World Bank pilot program by assessing and making recommendations for investment and design of a mobile platform for disseminating market and climate information. This information would be for farmers in the Kafue and Barotse sub-basins of Zambia.
+summary: 'DAI is supporting a World Bank pilot program by assessing and making recommendations
+  for investment and design of a mobile platform for disseminating market and climate
+  information. This information would be for farmers in the Kafue and Barotse sub-basins
+  of Zambia.
+
+'
 ---
+
 DAI is supporting a World Bank pilot program by assessing and making recommendations for investment and design of a mobile platform for disseminating market and climate information. This information would be for farmers in the Kafue and Barotse sub-basins of Zambia.
 
 If the project moves forward after the assessment, Zambia will be one of the first countries to launch a large-scale mobile platform for communicating market and climate information. This collaborative national platform would integrate information from multiple government agencies and agricultural support organizations, improving the ability of Zambian farmers to mitigate and recover from the negative effects of climate change that are making drought and floods more common. In addition to DAI's work, the program includes projects that support climate resilience through private sector investment, microfinance, and weather index-based insurance for farmers.

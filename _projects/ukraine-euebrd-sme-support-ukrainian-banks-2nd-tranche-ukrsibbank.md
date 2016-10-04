@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  UkrSibbank received a €50 million credit line from the European Bank for Reconstruction and Development (EBRD) in 2008, but had difficulty disbursing funds in the wake of the global financial crisis and its impact on the Ukrainian economy.
+summary: 'UkrSibbank received a €50 million credit line from the European Bank for
+  Reconstruction and Development (EBRD) in 2008, but had difficulty disbursing funds
+  in the wake of the global financial crisis and its impact on the Ukrainian economy.
+
+'
 ---
+
 UkrSibbank received a €50 million credit line from the European Bank for Reconstruction and Development (EBRD) in 2008, but had difficulty disbursing funds in the wake of the global financial crisis and its impact on the Ukrainian economy. The free-falling Ukrainian currency, the hryvnia, and dwindling trust in a government paralyzed by infighting led to a frenzied rush in autumn 2008 to withdraw deposits. Amid the resulting liquidity crisis, banks stopped performing their contractual obligations. Since the beginning of 2009, nine banks were placed in receivership, and many of those with foreign ownership received aid from their parent institutions. UkrSibbank, majority-owned by BNP Paribas and with a dense branch network covering all regions of the country, sought out technical assistance from DAI. DAI implemented a small and medium-sized enterprise (SME) lending scheme at UkrSibbank, with the focus on building the bank's capacity through training in credit analysis and portfolio management.
 
 ###  Sample Activities

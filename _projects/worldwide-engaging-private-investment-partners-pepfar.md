@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Implemented by DAI and San Francisco, California-based Origo, this groundbreaking public-private partnership allied venture capital with public funds to mitigate the HIV/AIDS pandemic.
+summary: 'Implemented by DAI and San Francisco, California-based Origo, this groundbreaking
+  public-private partnership allied venture capital with public funds to mitigate
+  the HIV/AIDS pandemic.
+
+'
 ---
+
 Implemented by DAI and San Francisco, California-based Origo, this groundbreaking public-private partnership allied venture capital with public funds to mitigate the HIV/AIDS pandemic. Preventing HIV depends on a complex set of factors rooted in the personal security of individuals and communities, and central to security is economic stability. To promote economic stability, the project engaged external capital players and investors in joint ventures with the President's Emergency Plan for AIDS Relief (PEPFAR), the U.S. Agency for International Development (USAID), and other public sector partners. The DAI/Origo team worked under USAID's Global Development Alliance Strategic Services Program (GDA SSP). The work was closely aligned with the GDA, which develops complementary "pipelines" that match philanthropic, venture, and Overseas Private Investment Corporation capital to USAID-supported enterprises. GDA SSP PEPFAR also complemented our work with the Hewlett Foundation to develop investment and partnership opportunities via an Africa Development Corridors Platform, which uses geospatial analysis to visualize and identify investment opportunities along infrastructure corridors that include the PEPFAR target countries. Visual mapping informed decisions regarding corridor investments that leverage diverse resources.
 
 ###  Sample Activities

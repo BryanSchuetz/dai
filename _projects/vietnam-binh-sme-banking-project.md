@@ -14,9 +14,13 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  DAI was contracted to provide An Binh Commercial Joint Stock Bank (ABB) with a client-driven small and medium enterprise (SME) banking strategy, with a clear objective to become a leading bank serving SMEs in Vietnam.
+summary: 'DAI was contracted to provide An Binh Commercial Joint Stock Bank (ABB)
+  with a client-driven small and medium enterprise (SME) banking strategy, with a
+  clear objective to become a leading bank serving SMEs in Vietnam.
+
+'
 ---
+
 DAI was contracted to provide An Binh Commercial Joint Stock Bank (ABB) with a client-driven small and medium enterprise (SME) banking strategy, with a clear objective to become a leading bank serving SMEs in Vietnam. DAI was also contracted to develop an SME marketing plan geared to clearly identify client segments and target market niches, based upon a thorough understanding of the complete banking needs of the targeted clients of ABB.
 
 ###  Sample Activities

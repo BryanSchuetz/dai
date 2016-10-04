@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  This project's main objective was to implement credit scoring in selected banks and non-bank microfinance institutions in Tajikistan. Credit scoring is a tool that helps participating institutions improve loan decision efficiency and quality, which can help to lower operating costs and reduce loan losses.
+summary: 'This project''s main objective was to implement credit scoring in selected
+  banks and non-bank microfinance institutions in Tajikistan. Credit scoring is a
+  tool that helps participating institutions improve loan decision efficiency and
+  quality, which can help to lower operating costs and reduce loan losses.
+
+'
 ---
+
 This project's main objective was to implement credit scoring in selected banks and non-bank microfinance institutions in Tajikistan. Credit scoring is a tool that helps participating institutions improve loan decision efficiency and quality, which can help to lower operating costs and reduce loan losses. Scoring can also help the partner institutions tailor their product offerings and pricing for borrowers with different risk characteristics. Our approach was participatory so that we could transfer to the local scoring working groups the skills needed to develop, monitor and manage credit risk models without outside assistance in the future.
 
 ###  Sample Activities

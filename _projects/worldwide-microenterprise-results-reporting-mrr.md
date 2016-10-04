@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  In 2000, the U.S. Congress formally established microenterprise development as an integral part of U.S. foreign assistance strategy. DAI manages Microenterprise Results Reporting (MRR) for the U.S. Agency for International Development (USAID).
+summary: 'In 2000, the U.S. Congress formally established microenterprise development
+  as an integral part of U.S. foreign assistance strategy. DAI manages Microenterprise
+  Results Reporting (MRR) for the U.S. Agency for International Development (USAID).
+
+'
 ---
+
 In 2000, the U.S. Congress formally established microenterprise development as an integral part of U.S. foreign assistance strategy. DAI manages Microenterprise Results Reporting (MRR) for the U.S. Agency for International Development (USAID).
 
 With a partner web development firm, we maintain the MRR website, an integrated web-based database to collect and process accurate, timely information from missions and partners on funding, results, and other requirements ([www.mrreporting.org][1]).

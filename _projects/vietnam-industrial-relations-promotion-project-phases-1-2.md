@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Governance
 layout: project
-summary: |
-  Vietnam has dramatically modernized its economy and supporting legal framework over the past decade, including a new Labor Code as of May 2013. But the framework for labor relations has not kept pace, leading to problems in implementing labor laws and poor communication between management and labor.
+summary: 'Vietnam has dramatically modernized its economy and supporting legal framework
+  over the past decade, including a new Labor Code as of May 2013. But the framework
+  for labor relations has not kept pace, leading to problems in implementing labor
+  laws and poor communication between management and labor.
+
+'
 ---
+
 Vietnam has dramatically modernized its economy and supporting legal framework over the past decade, including a new Labor Code as of May 2013. But the framework for labor relations has not kept pace, leading to problems in implementing labor laws and poor communication between management and labor. As a result, each year has seen strikes and other labor disruptions that have hurt industry and workflow.
 
 This current partnership between the U.S. Department Of Labor and Vietnamese government—a follow-on to Phase 1 that was funded by the U.S. Agency for International Development—provides technical assistance to unions, business, and government in strengthening the implementation of labor laws and promoting sound industrial relations.

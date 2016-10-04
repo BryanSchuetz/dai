@@ -11,9 +11,14 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Despite the potential benefits of biotechnology, few technologies throughout history have caused as much controversy. Its application has raised concerns about safety to human health and the environment, as well as issues of technology access and equity and potential impact on politics and trade.
+summary: 'Despite the potential benefits of biotechnology, few technologies throughout
+  history have caused as much controversy. Its application has raised concerns about
+  safety to human health and the environment, as well as issues of technology access
+  and equity and potential impact on politics and trade.
+
+'
 ---
+
 Despite the potential benefits of biotechnology, few technologies throughout history have caused as much controversy. Its application has raised concerns about safety to human health and the environment, as well as issues of technology access and equity and potential impact on politics and trade. DAI provided technical assistance primarily to developing-country governments to help them make informed decisions and draft national biosafety frameworks in line with their international obligations. The DAI team provided technical assistance to build the capacity of local institutions to make decisions on issues specifically relating to cotton, food aid, trade, and biosafety, and regulation of biotechnology. The team worked with the U.S. Agency for International Development (USAID), government counterparts, and other stakeholders to design and deliver cutting-edge conferences, study tours, and policy briefs, and to field international experts for short-term technical assignments.
 
 ###  Sample Activities

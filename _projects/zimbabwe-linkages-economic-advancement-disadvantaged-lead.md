@@ -11,9 +11,15 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  DAI worked to alleviate poverty for the most disadvantaged members of Zimbabwean society through economically empowering activities such as creation of Business Opportunity Centers that provide information and training to youths, legal assistance in writing wills for HIV/AIDS-affected households, increased outreach of financial services to rural areas, and farmer association development.
+summary: 'DAI worked to alleviate poverty for the most disadvantaged members of Zimbabwean
+  society through economically empowering activities such as creation of Business
+  Opportunity Centers that provide information and training to youths, legal assistance
+  in writing wills for HIV/AIDS-affected households, increased outreach of financial
+  services to rural areas, and farmer association development.
+
+'
 ---
+
 DAI worked to alleviate poverty for the most disadvantaged members of Zimbabwean society through economically empowering activities such as creation of Business Opportunity Centers that provide information and training to youths, legal assistance in writing wills for HIV/AIDS-affected households, increased outreach of financial services to rural areas, and farmer association development. Given the unstable environment in Zimbabwe, the Linkages for the Economic Advancement of the Disadvantaged (LEAD) program was also designed to be flexible in response to changing political and humanitarian scenarios. As the situation deteriorated during the life of the project, LEAD shifted one of its main project priorities from microenterprise development to issues of food insecurity. Mitigating the adverse economic impact of the AIDS crisis also became increasingly important during the project. DAI staff worked with local nongovernmental organizations (NGOs) and private companies to expand their life-enhancing and life-saving services to help the most vulnerable groups in Zimbabwe, such as orphans affected by the HIV/AIDS pandemic.
 
 ![][1]

@@ -12,9 +12,14 @@ solutions:
 - Governance
 - Stability
 layout: project
-summary: |
-  After a month of youth-led protests fueled by social and economic pressures, corruption, and political repression, the Tunisian president and several family members fled the country in January 2011, ushering in a wave of political excitement and uncertainty.
+summary: 'After a month of youth-led protests fueled by social and economic pressures,
+  corruption, and political repression, the Tunisian president and several family
+  members fled the country in January 2011, ushering in a wave of political excitement
+  and uncertainty.
+
+'
 ---
+
 After a month of youth-led protests fueled by social and economic pressures, corruption, and political repression, the Tunisian president and several family members fled the country in January 2011, ushering in a wave of political excitement and uncertainty. Steps were taken toward building a more participatory democracy, but a sense of marginalization pervades the regions outside the capital, Tunis. Citizens across many backgrounds [feel ignored][1] by decision makers despite their efforts to be heard through existing political channels. Accordingly, momentum is building to develop a more robust civil society across Tunisia. Organizations are forming and pushing their agendas. Nongovernmental organizations are shaping the future at this crucial juncture by documenting abuses, highlighting the role of youth in the transition, organizing civic education activities, and implementing modest local economic development projects. Nonetheless, the political transition is vulnerable to countervailing forces. Our countrywide program focused on marginalized regions. Activities supported the efforts of civil society organizations, media groups, and associations to organize platforms through which citizens convey their priorities to local government and national reform entities. We supported constructive citizen engagement in the transition and encouraging positive interaction between the government and citizens.
 
 ![][2]

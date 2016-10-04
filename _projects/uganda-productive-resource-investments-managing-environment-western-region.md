@@ -1,5 +1,6 @@
 ---
-title: Uganda—Productive Resource Investments for Managing the Environment—Western Region (PRIME/West)
+title: Uganda—Productive Resource Investments for Managing the Environment—Western
+  Region (PRIME/West)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
 start-date: 2003
@@ -11,9 +12,16 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  The Albertine Rift is a vital region for global conservation, harboring more species of vertebrates than any other region on the African continent. It shelters more than half of continental Africa's bird species and nearly 40 percent of its mammal species. However, high population density, inadequate economic opportunities, and weak natural resources governance threaten biodiversity by causing deforestation, unsustainable forest management, and habitat loss.
+summary: 'The Albertine Rift is a vital region for global conservation, harboring
+  more species of vertebrates than any other region on the African continent. It shelters
+  more than half of continental Africa''s bird species and nearly 40 percent of its
+  mammal species. However, high population density, inadequate economic opportunities,
+  and weak natural resources governance threaten biodiversity by causing deforestation,
+  unsustainable forest management, and habitat loss.
+
+'
 ---
+
 The Albertine Rift is a vital region for global conservation, harboring more species of vertebrates than any other region on the African continent. It shelters more than half of continental Africa's bird species and nearly 40 percent of its mammal species. However, high population density, inadequate economic opportunities, and weak natural resources governance threaten biodiversity by causing deforestation, unsustainable forest management, and habitat loss. To reduce threats to biodiversity in the Ugandan portion of the Rift, while sustainably and equitably integrating the region's economy and people into the global economy, PRIME/West used three approaches to bring biodiversity conservation/natural resource management, and economic development together into a practical and sustainable model: landscape analysis, community-based natural resource management (CBNRM), and competitiveness. The impact of PRIME/West lay not in the application of these individual approaches, but in their creative combinations. Thus, landscape principles informed program participants on the productive potential—both economic and ecological—of the land. The CBNRM approach provided communities with use-rights of the natural resources, along with the ability to decide when and how to use those resources. The competitiveness approach turned economic and environmentally sustainable solutions and secure tenure and use rights into action within the private sector.
 
 ![][1]

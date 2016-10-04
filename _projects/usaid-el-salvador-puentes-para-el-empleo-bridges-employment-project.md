@@ -11,9 +11,13 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Many young people in El Salvador's high-crime communities face impossible choices for livelihoods among the gang coercion, underemployment, and expensive, dangerous migration.
+summary: 'Many young people in El Salvador''s high-crime communities face impossible
+  choices for livelihoods among the gang coercion, underemployment, and expensive,
+  dangerous migration.
+
+'
 ---
+
 Many young people in El Salvador's high-crime communities face impossible choices for livelihoods among the gang coercion, underemployment, and expensive, dangerous migration. At the same time, networks of committed people are engaging youth in positive development activities and working to grow the country's economy and strengthen the educational systems and institutions that could offer viable alternatives to gangs and crime.
 
 These champions face epidemic violence, challenges in institutional capacity, a complex political and policy environment, and disjointed coordination at local and national levels. The result is a system that struggles to offer all Salvadoran youth positive pathways to meaningful social inclusion offered by economic stability and rewarding work.

@@ -11,9 +11,14 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Until a decade ago, Zimbabwe's agricultural sector was flourishing. Amid the country's economic decline, the government's aggressive land reform program essentially dismantled the large-scale commercial farming sector, drastically reducing national productivity and resulting in the country becoming a net importer of food.
+summary: 'Until a decade ago, Zimbabwe''s agricultural sector was flourishing. Amid
+  the country''s economic decline, the government''s aggressive land reform program
+  essentially dismantled the large-scale commercial farming sector, drastically reducing
+  national productivity and resulting in the country becoming a net importer of food.
+
+'
 ---
+
 Until a decade ago, Zimbabwe's agricultural sector was flourishing. Amid the country's economic decline, the government's aggressive land reform program essentially dismantled the large-scale commercial farming sector, drastically reducing national productivity and resulting in the country becoming a net importer of food. The decline in demand from large-scale commercial farming and the mass exodus of skilled management and labor led to the deterioration of rural market infrastructure and the decline of the extension and agricultural education system. DAI supported the private sector-driven revitalization of Zimbabwe's agriculture economy.
 
 To achieve these goals within a complex and changing political landscape, DAI worked through existing institutions and with the re-emerging private sector to identify needed reforms in the investment environment to promote competitiveness. The program relied heavily on supporting local experts and institutions, tapping into the Zimbabwean diaspora in South Africa, and incorporating local bodies directly into the planning, oversight, and monitoring of program interventions.

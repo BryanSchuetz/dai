@@ -11,9 +11,13 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  In December 2001, the governments of the United States and Vietnam signed a historic bilateral free trade agreement that promised to strengthen economic and political ties between the two countries.
+summary: 'In December 2001, the governments of the United States and Vietnam signed
+  a historic bilateral free trade agreement that promised to strengthen economic and
+  political ties between the two countries.
+
+'
 ---
+
 In December 2001, the governments of the United States and Vietnam signed a historic bilateral free trade agreement that promised to strengthen economic and political ties between the two countries. The U.S. Agency for International Development (USAID)-funded STAR (2001–2006)—the first major USAID technical assistance project in economic growth implemented in Vietnam since 1975—supported the Government of Vietnam in implementing the U.S.-Vietnam Bilateral Trade Agreement (BTA) and began reforms needed for accession to the World Trade Organization (WTO), which the country achieved in 2007. Following on enormous success of STAR I, STAR II (2006–2010) focused on supporting development of institutional and administrative systems needed to implement the massive legal and regulatory changes that have been promulgated during this period in the areas of trade, commercial dispute settlement, intellectual property rights, foreign direct investment, and transparency and the right to appeal. These reforms were partnered with extensive educational programs that include training for officials, lawyers, judges, and business leaders; revision of university curricula and capacity development; and media-based public education campaigns. To respond to Vietnam's evolving priorities, the STAR Plus (2010–2013) strategy included advising the Office of the Government, Ministry of Finance, and State Bank of Vietnam on macroeconomic policy, and ramping up Vietnam's governance skills, systems, and processes at all levels. STAR Plus was flexible and demand-driven, and furthered Vietnam's integration into the global economy as it continues its transition to a market-driven system.
 
 ![][1]

@@ -12,9 +12,12 @@ solutions:
 - Economic Growth
 - Governance
 layout: project
-summary: |
-  VNCI is an economic growth project designed to increase the competitiveness of small and medium-sized enterprises (SMEs) in Vietnam
+summary: 'VNCI is an economic growth project designed to increase the competitiveness
+  of small and medium-sized enterprises (SMEs) in Vietnam
+
+'
 ---
+
 VNCI is an economic growth project designed to increase the competitiveness of small and medium-sized enterprises (SMEs) in Vietnam through 1) improved economic governance, particularly at the provincial level, through the Provincial Competitiveness Index and key policy research analysis; 2) demonstration and catalytic work in four industries (information and communications technology, dragon fruit, home furnishings, and banking, which also addressed SME access to credit) to remove key constraints to international competitiveness; and 3) improved access to financing for SMEs. This U.S. Agency for International Development (USAID) project is helping to harness the booming economic energy in Vietnam and empower its employers, employees, and consumers. Working under USAID, DAI is assisting the Government of Vietnam in implementing the Prime Minister's administrative reform (called Project 30) that inventoried more than 5,700 administrative procedures, 9,000 legal documents, and thousands of forms in the first National Database, as part of an effort to increase transparency and access for citizens and businesses. The Prime Minister's Special Task Force is reviewing the administrative procedures with input from foreign and domestic business associations and companies.
 
 ![][1]

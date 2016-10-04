@@ -12,9 +12,14 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  For more than two decades, DAI has been the U.S. Agency for International Development (USAID)'s partner in microenterprise development and microenterprise research, and has been involved in all of the debates about how to provide high-quality, sustainable financial services to low-income, informal sector businesses.
+summary: 'For more than two decades, DAI has been the U.S. Agency for International
+  Development (USAID)''s partner in microenterprise development and microenterprise
+  research, and has been involved in all of the debates about how to provide high-quality,
+  sustainable financial services to low-income, informal sector businesses.
+
+'
 ---
+
 For more than two decades, DAI has been the U.S. Agency for International Development (USAID)'s partner in microenterprise development and microenterprise research, and has been involved in all of the debates about how to provide high-quality, sustainable financial services to low-income, informal sector businesses. As the debates and research continue, DAI and its partners continue to push the research frontier, identifying innovative, efficient, and cost-effective ways to extend financial services to poor and geographically remote clients. Research and knowledge conducted under FSKG increased the capacity of donors and USAID missions to design and strengthen implementation, monitoring, and evaluation of microfinance projects.
 
 ![][1]

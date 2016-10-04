@@ -11,9 +11,12 @@ country:
 solutions:
 - Environment and Energy
 layout: project
-summary: |
-  Through this project, DAI facilitated the exchange of knowledge across natural resource management (NRM) communities worldwide.
+summary: 'Through this project, DAI facilitated the exchange of knowledge across natural
+  resource management (NRM) communities worldwide.
+
+'
 ---
+
 Through this project, DAI facilitated the exchange of knowledge across natural resource management (NRM) communities worldwide. CK2C supported the three fundamentals of knowledge management—information, sharing, and knowledge—through stock-taking exercises, management of the [FRAME website][1], and training U.S. Agency for International Development (USAID) mission and home office staff on the fundamentals of sound NRM.
 
 ###  Sample Activities

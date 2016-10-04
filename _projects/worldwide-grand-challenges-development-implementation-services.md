@@ -16,9 +16,13 @@ solutions:
 - Health
 - Stability
 layout: project
-summary: |
-  Grand Challenges for Development has given people around the world a way to apply their scientific and technological know-how to solving global development problems in areas such as hunger, water, and literacy.
+summary: 'Grand Challenges for Development has given people around the world a way
+  to apply their scientific and technological know-how to solving global development
+  problems in areas such as hunger, water, and literacy.
+
+'
 ---
+
 Grand Challenges for Development has given people around the world a way to apply their scientific and technological know-how to solving global development problems in areas such as hunger, water, and literacy. In this new approach, the U.S. Agency for International Development (USAID) articulates a specific problem and invites a broad range of actors—including foundations, corporations, groups, and individuals—to engage in solving it. For example, the first Grand Challenge for Development, called [Savings Lives at Birth][1], attracted nearly 500 submissions on how to help mothers and newborns in poor countries during their most vulnerable hours. An invention submitted by a car mechanic in Argentina—a device to extract babies during difficult childbirths—is now[ being developed][2] by a major American medical supply company.
 
 USAID believes that by focusing global attention, stimulating broad participation, and connecting communities and networks, solutions can be discovered and brought to scale. Other challenges issued so far include [All Children Reading][3], [Powering Agriculture][4], [Making All Voices Count][5], and [Securing Water for Food][6]. To support this initiative, USAID's Office of Science and Technology in October 2011 awarded DAI the Grand Challenges for Development Implementation Services contract. Since kickoff, USAID has received 2,500 innovator applications, supported 104 awards of $100,000 to $2 million, and leveraged $124 million in external funding.

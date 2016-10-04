@@ -13,9 +13,13 @@ solutions:
 - Environment and Energy
 - Financial Services
 layout: project
-summary: |
-  Significant potential for sustainable energy investments remains untapped in the Western Balkans while improvement in sustainable energy still faces many barriers.
+summary: 'Significant potential for sustainable energy investments remains untapped
+  in the Western Balkans while improvement in sustainable energy still faces many
+  barriers.
+
+'
 ---
+
 Significant potential for sustainable energy investments remains untapped in the Western Balkans while improvement in sustainable energy still faces many barriers. WeBSEFF I and II continue the European Bank for Reconstruction and Development's support to the region by providing debt financing to businesses, municipalities, and energy service companies for energy projects undertaken in Bosnia-Herzegovina, Macedonia, Former Yugoslav Republic of Montenegro, and Serbia. The goal: reduce energy intensity and promote diverse sources of green energy in a region where rising energy prices remain a challenge.
 
 WeBSEFF I has allocated €60 million to 131 projects in energy efficiency and renewable energy. Due to this success, a second phase of the project was launched in July 2013 with additional financing of €45 million available to participating financial institutions.
