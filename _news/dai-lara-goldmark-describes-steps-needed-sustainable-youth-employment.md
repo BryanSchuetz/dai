@@ -1,14 +1,20 @@
 ---
 title: DAI’s Lara Goldmark Describes Steps Needed for Sustainable Youth Employment
 date: 2011-09-15 18:05:00 Z
-summary: |
-  Large numbers of unemployed young people can lead to blight, social unrest, or worse—sometimes much worse. Donors and others hoping to help put young men and women to work in developing nations need to consider wide-ranging steps for job growth to take root, according to Lara Goldmark, DAI's Technical Area Manager for Private Sector Development.
-solutions:
-regions:
-projects:
-clients:
+summary: 'Large numbers of unemployed young people can lead to blight, social unrest,
+  or worse—sometimes much worse. Donors and others hoping to help put young men and
+  women to work in developing nations need to consider wide-ranging steps for job
+  growth to take root, according to Lara Goldmark, DAI''s Technical Area Manager for
+  Private Sector Development.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Large numbers of unemployed young people can lead to blight, social unrest, or worse—sometimes much worse. Donors and others hoping to help put young men and women to work in developing nations need to consider wide-ranging steps for job growth to take root, according to Lara Goldmark, DAI's Technical Area Manager for Private Sector Development.
 
 "It takes more than simple jobs programs but a range of actors pulling together to spur [economic growth][1] nationally and an enabling spirit locally in schools and institutions," said Goldmark, former Chief of Party of DAI's Improving the Business Climate in Morocco project.

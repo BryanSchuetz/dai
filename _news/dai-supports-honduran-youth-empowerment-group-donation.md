@@ -1,15 +1,19 @@
 ---
 title: DAI Supports Honduran Youth Empowerment Group with Donation
 date: 2012-03-16 18:05:00 Z
-summary: |
-  DAI caps off its 2011 Community Engagement Program with a $10,000 grant to OYE Honduras, a community-based, youth-led organization that develops the leadership and capacity of at-risk Honduran youth.
-solutions:
+summary: 'DAI caps off its 2011 Community Engagement Program with a $10,000 grant
+  to OYE Honduras, a community-based, youth-led organization that develops the leadership
+  and capacity of at-risk Honduran youth.
+
+'
+solutions: 
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 DAI caps off its 2011 Community Engagement Program with a $10,000 grant to OYE Honduras, a community-based, youth-led organization that develops the leadership and capacity of at-risk Honduran youth.
 
 [OYE (Organization for Youth Empowerment)][1] was founded in 2005 by Justin Eldridge-Otero and Ana Luisa Ahern, two young Americans who spent many years volunteering with youth in El Progreso, witnessing firsthand the challenges facing them. As a critical first step, they started a scholarship program to help students who would otherwise be denied an education due to economic barriers. They quickly saw that access to a formal education was just the beginning and developed an integrated leadership curriculum that is now broken up into three programs: Youth Capacity Building and Leadership, Community Engagement, and Institutional Strengthening.

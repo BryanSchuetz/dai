@@ -1,15 +1,19 @@
 ---
 title: DAI Staff Run to Raise Funds for Norgrove Foundation and Benefit Afghan Women
 date: 2011-10-06 18:05:00 Z
-summary: |
-  DAI is following the lead of the Linda Norgrove Foundation by organizing events to mark the first anniversary of our late colleague's death and raise money for the foundation.
-solutions:
+summary: 'DAI is following the lead of the Linda Norgrove Foundation by organizing
+  events to mark the first anniversary of our late colleague''s death and raise money
+  for the foundation.
+
+'
+solutions: 
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 ![][1]
 
 DAI is following the lead of the Linda Norgrove Foundation by organizing events to mark the first anniversary of our late colleague's death and raise money for the foundation.

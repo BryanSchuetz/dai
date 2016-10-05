@@ -1,15 +1,18 @@
 ---
 title: Telecom Champion, Former Minister Marwan Juma of Jordan Named to DAI Board
 date: 2012-03-16 18:05:00 Z
-summary: |
-  DAI is delighted to announce that technology executive and champion Marwan Juma of Jordan has accepted an invitation to join DAI's Board of Directors.
-solutions:
+summary: 'DAI is delighted to announce that technology executive and champion Marwan
+  Juma of Jordan has accepted an invitation to join DAI''s Board of Directors.
+
+'
+solutions: 
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 ![Marwan Juma][1]{:.float-left}DAI is delighted to announce that technology executive and champion [Marwan Juma][2] of Jordan has accepted an invitation to join DAI's Board of Directors.
 
 As a driving force behind some of Jordan's most innovative technology firms and national technology initiatives, Juma has helped his country emerge as a telecommunications leader in the Middle East.

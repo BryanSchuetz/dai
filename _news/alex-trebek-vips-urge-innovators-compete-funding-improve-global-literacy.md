@@ -1,14 +1,19 @@
 ---
-title: Alex Trebek, VIPs Urge Innovators to Compete for Funding to Improve Global Literacy
+title: Alex Trebek, VIPs Urge Innovators to Compete for Funding to Improve Global
+  Literacy
 date: 2012-03-16 18:05:00 Z
-summary: |
-  Global donors urged innovators worldwide last week to compete for $7.5 million in newly available funding by submitting ideas to increase literacy among the world's neediest children. Funding applications are due January 31.
-solutions:
-regions:
-projects:
-clients:
+summary: 'Global donors urged innovators worldwide last week to compete for $7.5 million
+  in newly available funding by submitting ideas to increase literacy among the world''s
+  neediest children. Funding applications are due January 31.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Global donors urged innovators worldwide last week to compete for $7.5 million in newly available funding by submitting ideas to increase literacy among the world's neediest children. Funding applications are due January 31.
 
 "[All Children Reading: A Grand Challenge for Development][1]" is being presented by the U.S. Agency for International Development (USAID), Australian Aid, and World Vision, with support from the U.S. Department of Education.

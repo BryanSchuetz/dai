@@ -1,15 +1,19 @@
 ---
 title: Bangladesh Right to Information Group Meets with U.S. and University Officials
 date: 2012-06-22 18:05:00 Z
-summary: |
-  Bangladesh's Right to Information Law, enacted in 2009, is slowly taking root in outlying districts and benefiting residents, the country's chief information commissioner said last week during a study tour in the Washington, D.C., area.
-solutions:
+summary: 'Bangladesh''s Right to Information Law, enacted in 2009, is slowly taking
+  root in outlying districts and benefiting residents, the country''s chief information
+  commissioner said last week during a study tour in the Washington, D.C., area.
+
+'
+solutions: 
 regions:
 - Asia and the Pacific
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Bangladesh's Right to Information Law, enacted in 2009, is slowly taking root in outlying districts and benefiting residents, the country's chief information commissioner said last week during a study tour in the Washington, D.C., area.
 
 Muhammad Zamir, speaking at a roundtable discussion July 20 at the University of Maryland's Philip Merrill College of Journalism, said issues such as the leasing of water bodies have been resolved by the law, and he expected the next generation of adults in Bangladesh to be ambassadors for information disclosure and participate actively in democratic governance.

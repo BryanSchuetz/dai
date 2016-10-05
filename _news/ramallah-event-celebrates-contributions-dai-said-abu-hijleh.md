@@ -1,15 +1,20 @@
 ---
 title: Ramallah Event Celebrates Contributions of DAI’s Said Abu Hijleh
 date: 2012-10-18 18:05:00 Z
-summary: |
-  Officials from ministries and business gathered October 16 in Ramallah to salute Said Abu Hijleh, the outgoing managing director of DAI Palestine whose work opened doors for development in the West Bank and Gaza, boosted businesses, and created jobs, among other accomplishments.
-solutions:
+summary: 'Officials from ministries and business gathered October 16 in Ramallah to
+  salute Said Abu Hijleh, the outgoing managing director of DAI Palestine whose work
+  opened doors for development in the West Bank and Gaza, boosted businesses, and
+  created jobs, among other accomplishments.
+
+'
+solutions: 
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 ![Said Abu Hijleh][1]{:.float-left}Officials from ministries and business gathered October 16 in Ramallah to salute Said Abu Hijleh, the outgoing managing director of DAI Palestine whose work opened doors for development in the West Bank and Gaza, boosted businesses, and created jobs, among other accomplishments.
 
 Approximately 100 people attended, including the Minister of National Economy Dr. Hasan Abu Libdeh, Minister of Labor Dr. Ahmad Majdalani, and Minister of Telecommunications Dr. Mashhour Abu Daqqa.

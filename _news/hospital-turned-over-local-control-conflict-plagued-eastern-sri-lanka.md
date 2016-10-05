@@ -1,16 +1,20 @@
 ---
 title: Hospital Turned Over to Local Control in Conflict-Plagued Eastern Sri Lanka
 date: 2012-03-16 18:05:00 Z
-summary: |
-  A milestone was achieved November 22 in conflict-plagued eastern Sri Lanka when a recently built, three-ward medical complex was handed over to local district authorities.
+summary: 'A milestone was achieved November 22 in conflict-plagued eastern Sri Lanka
+  when a recently built, three-ward medical complex was handed over to local district
+  authorities.
+
+'
 solutions:
 - Stability
 regions:
 - Asia and the Pacific
 projects: Sri Lanka—Reintegration and Stabilization in the East and North (RISEN)
-clients:
+clients: 
 layout: node
 ---
+
 A milestone was achieved November 22 in conflict-plagued eastern Sri Lanka when a recently built, three-ward medical complex was handed over to local district authorities. The 72-bed complex—comprised of male, female, and maternity wards—is now being operated by the Karadiyanaru Divisional Hospital in Chenkalady, Batticaloa District, and catering to the needs of 60,000 area residents.
 
 "The people of this area are very poor. They are affected by natural disasters and in various other ways," said Dr. S. Sathurmugan, the Regional Director of Health Services. "This is a great service to them, and through this support we can uplift the heath care standards of the entire district."

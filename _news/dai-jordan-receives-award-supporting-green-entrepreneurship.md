@@ -1,15 +1,19 @@
 ---
 title: DAI Jordan Receives Award for Supporting Green Entrepreneurship
 date: 2011-09-22 18:05:00 Z
-summary: |
-  DAI Jordan was presented with a plaque September 18 by Her Royal Highness Princess Sumaya in recognition of DAI's support of the 4th Queen Rania National Entrepreneurship Competition.
-solutions:
+summary: 'DAI Jordan was presented with a plaque September 18 by Her Royal Highness
+  Princess Sumaya in recognition of DAI''s support of the 4th Queen Rania National
+  Entrepreneurship Competition.
+
+'
+solutions: 
 regions:
 - Middle East and North Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 [DAI Jordan][1] was presented with a plaque September 18 by Her Royal Highness Princess Sumaya in recognition of DAI's support of the 4th Queen Rania National Entrepreneurship Competition.
 
 Deputizing for Her Majesty Queen Rania, HRH Princess Sumaya honored DAI Jordan for its $5,000 contribution to the Business Park for Project Developments at Prince Hassan Science City.

@@ -1,17 +1,23 @@
 ---
 title: Arrest Underscores DAI’s Support of USAID, Afghan Authorities in Fighting Corruption
 date: 2012-03-16 18:05:00 Z
-summary: |
-  On December 20 the U.S. Agency for International Development (USAID) in Kabul, Afghanistan, announced the arrest of Din Mohammad Ramin on a charge of bribery. An Afghan citizen, Ramin, 26, allegedly solicited and received a one-time payment of $3,000 and promise of an additional $1,500 in exchange for directing a grant to a project beneficiary in Laghman Province.
+summary: 'On December 20 the U.S. Agency for International Development (USAID) in
+  Kabul, Afghanistan, announced the arrest of Din Mohammad Ramin on a charge of bribery.
+  An Afghan citizen, Ramin, 26, allegedly solicited and received a one-time payment
+  of $3,000 and promise of an additional $1,500 in exchange for directing a grant
+  to a project beneficiary in Laghman Province.
+
+'
 solutions:
 - Economic Growth
 - Gender
 regions:
 - Eastern Europe and Central Asia
 projects: Afghanistan—Small and Medium Enterprise Development (ASMED)
-clients:
+clients: 
 layout: node
 ---
+
 On December 20 the U.S. Agency for International Development (USAID) in Kabul, Afghanistan, announced the arrest of Din Mohammad Ramin on a charge of bribery. An Afghan citizen, Ramin, 26, allegedly solicited and received a one-time payment of $3,000 and promise of an additional $1,500 in exchange for directing a grant to a project beneficiary in Laghman Province. Ramin was an employee for the USAID-funded [Afghanistan Small and Medium Enterprise Development][1] (ASMED) project being implemented by DAI, which has terminated Ramin's employment.
 
 DAI applauds the efforts of the Afghan National Police and investigators from the Afghan Attorney General's Anti Corruption Unit, who made the arrest after working in collaboration with the USAID Office of the Inspector General (USAID OIG), which was informed of the potential crime when it was discovered by DAI.

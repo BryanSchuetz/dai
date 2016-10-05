@@ -1,15 +1,20 @@
 ---
-title: Partnership with Somaliland’s Private Sector Aims to Lay Foundation for Growth, Stability
+title: Partnership with Somaliland’s Private Sector Aims to Lay Foundation for Growth,
+  Stability
 date: 2012-03-16 18:05:00 Z
-summary: |
-  For more than 20 years, efforts to end civil conflict and lawlessness in southern and central Somalia have been unsuccessful—yet the northern autonomous region of Somaliland enjoys relative peace and stability.
-solutions:
+summary: 'For more than 20 years, efforts to end civil conflict and lawlessness in
+  southern and central Somalia have been unsuccessful—yet the northern autonomous
+  region of Somaliland enjoys relative peace and stability.
+
+'
+solutions: 
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 For more than 20 years, efforts to end civil conflict and lawlessness in southern and central Somalia have been unsuccessful—yet the northern autonomous region of Somaliland enjoys relative peace and stability. Somaliland seceded from Somalia in 1991 and, though not internationally recognized, has managed to establish functioning governance structures and a vibrant private sector that has facilitated investment in sectors from livestock export to telecommunications and remittance distribution.
 
 In summer 2011, an assessment team led by DAI and supported by our partners CNFA and AISDevelopment evaluated the private sector in Somaliland as the initial activity of the [Partnership for Economic Growth][1], the U.S. Agency for International Development's first economic development project in Somalia in 20 years. The Partnership is working with a broad range of government authorities and private sector actors to strengthen weak links and improve investment opportunities in Somaliland's most productive and promising industries: agriculture and livestock. The program is also improving access to business development services, especially for women entrepreneurs, and developing regulatory policies to improve business opportunities and attract more investment.

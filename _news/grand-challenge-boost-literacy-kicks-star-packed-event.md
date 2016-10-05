@@ -1,14 +1,19 @@
 ---
 title: Grand Challenge to Boost Literacy Kicks Off with Star-Packed Event
 date: 2011-11-10 18:05:00 Z
-summary: |
-  On November 18, The U.S. Agency for International Development (USAID) and the nonprofit organization World Vision will launch All Children Reading: A Grand Challenge for Development, with support from the DAI-implemented Grand Challenges for Development project.
-solutions:
-regions:
-projects:
-clients:
+summary: 'On November 18, The U.S. Agency for International Development (USAID) and
+  the nonprofit organization World Vision will launch All Children Reading: A Grand
+  Challenge for Development, with support from the DAI-implemented Grand Challenges
+  for Development project.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 On November 18, The U.S. Agency for International Development (USAID) and the nonprofit organization World Vision will launch All Children Reading: A Grand Challenge for Development, with support from the DAI-implemented [Grand Challenges for Development][1] project.
 
 <iframe src="https://www.flickr.com/photos/daiglobal/7973197242/in/set-72157631504176138/player/" width="703" height="394" frameborder="0" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>

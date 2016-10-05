@@ -1,14 +1,20 @@
 ---
-title: New Issue of Developing Alternatives Explores the Power of Political Economy Analysis
+title: New Issue of Developing Alternatives Explores the Power of Political Economy
+  Analysis
 date: 2012-10-06 18:05:00 Z
-summary: |
-  Development practitioners ignore governance at their peril. This admonition is the main takeaway of the latest issue of DAI's journal _Developing Alternatives_, which examines the theme of political economy analysis (PEA) and its application to development policy and practice.
-solutions:
-regions:
-projects:
-clients:
+summary: 'Development practitioners ignore governance at their peril. This admonition
+  is the main takeaway of the latest issue of DAI''s journal _Developing Alternatives_,
+  which examines the theme of political economy analysis (PEA) and its application
+  to development policy and practice.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 Development practitioners ignore governance at their peril. This admonition is the main takeaway of the latest issue of DAI's journal _Developing Alternatives_, which examines the theme of political economy analysis (PEA) and its application to development policy and practice.
 
 Edited by Dr. [Ann Hudock][1], _Political Considerations: Political Economy Analysis and the Practice of Development_ explores how political economy approaches shed light on the challenges of programming across all development sectors, starting from an understanding of the political context and finding ways to bridge the state-society divide.
