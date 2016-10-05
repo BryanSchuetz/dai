@@ -1,15 +1,18 @@
 ---
 title: Hundreds of Women and Children in Afghanistan Assisted by Linda Norgrove Foundation
 date: 2011-12-28 18:05:00 Z
-summary: |
-  The Linda Norgrove Foundation marked its first year by releasing a list of its accomplishments in Afghanistan.
-solutions:
+summary: 'The Linda Norgrove Foundation marked its first year by releasing a list
+  of its accomplishments in Afghanistan.
+
+'
+solutions: 
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 The Linda Norgrove Foundation marked its first year by releasing a list of its accomplishments in Afghanistan, including:
 
 * Vaccinations of people in 28 villages against diseases such as measles, polio, whooping cough, and tetanus (cost: £7,500);

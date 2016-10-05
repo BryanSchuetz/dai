@@ -1,14 +1,21 @@
 ---
 title: DAI Wins International Business Leadership Award from World Trade Center Institute
 date: 2012-01-24 18:05:00 Z
-summary: |
-  DAI has been named a winner in the World Trade Center Institute's 16th Annual Maryland International Business Leadership Award program. Represented by CEO Jim Boomgard, DAI was one of seven winners chosen from a pool of 80 independently nominated companies from the state. Winning companies were selected based on their success in international business, growth in revenue and employment, and community involvement.
-solutions:
-regions:
-projects:
-clients:
+summary: 'DAI has been named a winner in the World Trade Center Institute''s 16th
+  Annual Maryland International Business Leadership Award program. Represented by
+  CEO Jim Boomgard, DAI was one of seven winners chosen from a pool of 80 independently
+  nominated companies from the state. Winning companies were selected based on their
+  success in international business, growth in revenue and employment, and community
+  involvement.
+
+'
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 ---
+
 ![][1]DAI has been named a winner in the World Trade Center Institute's 16th Annual Maryland International Business Leadership Award program. Represented by CEO [Jim Boomgard][2], DAI was one of seven winners chosen from a pool of 80 independently nominated companies from the state. Winning companies were selected based on their success in international business, growth in revenue and employment, and community involvement.
 
 Bethesda-based DAI—with global offices in London, Ramallah, Amman, Mexico City, Johannesburg, and Islamabad—was also recently [named][3] a Devex Top 40 Development Innovator, one of only 10 consulting firms so honored globally.
