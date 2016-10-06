@@ -3,16 +3,16 @@ title: Energy and Resources Group
 layout: node
 related: false
 promos:
-- title: "**Project**: Niger Delta Electricity Sector Assesment and Investment Strategy"
+- title: "**Project**: _Niger Delta Electricity Sector Assesment and Investment Strategy_"
   link: http://dai.com/sites/default/files/erg/chevron.pdf
-- title: "**Project**: Local Content Demand and Supply Study for Liquefied Natural
+- title: "**Project**: _Local Content Demand and Supply Study for Liquefied Natural_
     Gas"
   link: http://dai.com/sites/default/files/erg/wb.pdf
-- title: "**Project**: Corporate Social investment Program for Entrepreneurs in Ghana"
+- title: "**Project**: _Corporate Social investment Program for Entrepreneurs in Ghana_"
   link: 'http://dai.com/sites/default/files/erg/kosmos.pdf '
-- title: "**Analysis**: Unlocking Content"
+- title: "**Analysis**: _Unlocking Content_"
   link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
-- title: "**Video**: Kosmos Innovation Center"
+- title: "**Video**: _Kosmos Innovation Center_"
   link: https://www.youtube.com/watch?v=A3-VyczktO8
 ---
 

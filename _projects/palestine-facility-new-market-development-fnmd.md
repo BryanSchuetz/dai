@@ -21,9 +21,9 @@ summary: 'In the West Bank and Gaza, periods of relative political stability hav
 
 '
 promos:
-- title: "**Report:** Business Services Sector Market Analysis, Volume 1"
+- title: "**Report:** _Business Services Sector Market Analysis, Volume 1_"
   link: "/uploads/fnmd_analysis_1.pdf"
-- title: "**Report:** Business Services Sector Market Analysis, Volume 2"
+- title: "**Report:** _Business Services Sector Market Analysis, Volume 2_"
   link: "/uploads/fnmd_analysis_2.pdf"
 ---
 
