@@ -4,7 +4,7 @@ permalink: "/who-we-are/global-reach/united-kingdom/contacts/management-team"
 layout: node
 ---
 
-Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
+Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide. 
 {% assign contacts = site.contacts | where: 'group', 'Management' | sort: 'sort-order' %}
 {% for contact in contacts %}
 <div class="contact">

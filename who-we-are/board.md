@@ -5,7 +5,7 @@ layout: node
 related: false
 ---
 
-Our Board—comprising internal and external directors—ensures that DAI is serving the interests of its employee owners and fulfilling its mission to make a difference in the world.
+Our Board—comprising internal and external directors—ensures that DAI is serving the interests of its employee owners and fulfilling its mission to make a difference in the world. 
 
 <hr>
 {% assign members = site.members | sort: 'sort-order' %}
