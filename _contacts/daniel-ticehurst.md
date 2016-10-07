@@ -1,6 +1,7 @@
 ---
 title: Daniel Ticehurst
 date: 2016-01-21 22:18:43.395000000 Z
+published: false
 group: Portfolio Coordinators
 image: "/assets/images/contacts/daniel-ticehurst.jpg"
 job-title: Knowledge Management, Monitoring and Evaluation
@@ -11,5 +12,5 @@ summary: Daniel is a specialist in the areas of monitoring and evaluation. His m
   Tanzania, the Australian Department of Foreign Affairs and Trade in Timor-Leste
   and Vietnam, and Falcon Coffees in Uganda.
 sort-order: 6
-published: false
 ---
+

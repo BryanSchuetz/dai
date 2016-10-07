@@ -1,12 +1,12 @@
 ---
 title: Chuck Chopak
 date: 2016-01-21 22:18:43.395000000 Z
+published: false
 layout: leaders
 image: "/assets/images/leaders/thumbnails/chuck-chopak.jpg"
 summary: As DAI's Vice President for Technical Services, Chuck leads a team that provides
   technical expertise to DAI projects across all of the company's technical sectors.
 sort-order: 1
-published: false
 ---
 
 As DAI's Vice President for Technical Services, Chuck leads a team that provides technical expertise to DAI projects across all of the company's technical sectors. Chuck has more than 30 years of experience managing, planning, and implementing agriculture, food security, and livelihoods activities throughout the world. Chuck has served long-term postings in Senegal and Zimbabwe, and has completed numerous assignments throughout Africa, as well as in Asia, Central America, and Haiti. He has strong experience in providing technical leadership, planning strategy, managing projects, furnishing decision support to senior officials, strengthening institutions, and developing capacity. Throughout his career Chuck has worked in collaboration with a wide range of partners, including donors, universities, host country governments, United Nations agencies, and nongovernmental organizations.
