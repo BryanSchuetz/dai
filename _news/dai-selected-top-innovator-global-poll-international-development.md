@@ -1,5 +1,5 @@
 ---
-title: Blank
+title: DAI Selected as Top Innovator in Global Poll
 date: 2011-04-08 18:05:00 Z
 summary: 'Bethesda, Maryland—DAI has been named a Devex Top 40 Development Innovator,
   one of only 10 consulting firms so honored globally. The award was based on a poll
@@ -10,9 +10,9 @@ summary: 'Bethesda, Maryland—DAI has been named a Devex Top 40 Development Inn
 solutions:
 - Innovation and Entrepreneurship
 - Digital
-regions: 
-projects: 
-clients: 
+regions:
+projects:
+clients:
 layout: node
 ---
 

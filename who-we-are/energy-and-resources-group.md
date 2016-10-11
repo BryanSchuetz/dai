@@ -28,18 +28,16 @@ The Energy and Resources Group works with companies in the oil, gas, mining, and
 * Corporate Social Investment. We design and manage impactful initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals.
 * Government and Community Engagement. We secure our clients’ social license to operate by assessing above-ground risk and establishing trusted partnerships with key stakeholders to mitigate those risks.
 
-<hr>
-
-## Our Unique Approach
-
-DAI uses empirical evidence and technical analysis to empower our clients to spend smarter. We are a full-service provider with the flexibility to offer:
-
-* Surge and long-term capacity to supplement in-house teams
-* Strategy design and market entry analysis
-* Program design, inception, and implementation
-* Performance monitoring, evaluation, and reporting
-
-<hr>
+<aside>
+<h2>Our Unique Approach</h2>
+<p>DAI uses empirical evidence and technical analysis to empower our clients to spend smarter. We are a full-service provider with the flexibility to offer:</p>
+<ul>
+  <li>Surge and long-term capacity to supplement in-house teams</li>
+  <li>Strategy design and market entry analysis</li>
+  <li>Program design, inception, and implementation</li>
+  <li>Performance monitoring, evaluation, and reporting</li>
+</ul>
+</aside>
 
 ## Featured Experts
 
