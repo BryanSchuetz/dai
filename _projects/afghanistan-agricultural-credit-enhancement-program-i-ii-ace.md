@@ -7,7 +7,7 @@ end-date: 2018
 regions:
 - Eastern Europe and Central Asia
 country:
-- Afghanistan
+- Afghanistan 
 solutions:
 - Economic Growth
 layout: project
