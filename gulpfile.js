@@ -13,13 +13,13 @@ gulp.task('build', shell.task([
 ]))
 // setup browsersync to reload browser when changes happen
 gulp.task('serve', function() {
-    bs({
-        server:{
-          baseDir: "build",
-          middleware: hygienist("build")
-        },
-        notify: false,
-    });
+  bs({
+      server:{
+        baseDir: "build",
+        middleware: hygienist("build")
+      },
+      notify: false,
+  });
 });
 // compress javascript assets
 gulp.task('compress', function(){
