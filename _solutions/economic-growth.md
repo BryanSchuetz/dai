@@ -9,8 +9,8 @@ summary: Driving trade, technology, agriculture, business, and financial service
 layout: solution
 type: primary
 promos:
-- title: '**Our Team:** DAI Economic Growth Experts'
-  link: /who-we-are/the-team?filter=economic-growth
+- title: "**Our Team:** DAI Economic Growth Experts"
+  link: "/who-we-are/the-team?filter=economic-growth"
 ---
 
 **Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**  

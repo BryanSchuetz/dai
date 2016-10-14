@@ -12,8 +12,8 @@ solutions:
 - Digital
 regions:
 - Latin America and the Caribbean
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 featured: true
 ---
