@@ -8,9 +8,12 @@ summary: Driving trade, technology, agriculture, business, and financial service
   to create jobs, reduce poverty, and enhance food security.
 layout: solution
 type: primary
+promos:
+- title: '**Our Team:** DAI Economic Growth Experts'
+  link: /who-we-are/the-team?filter=economic-growth
 ---
 
-**Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**
+**Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.** 
 
 Our economic growth work brings together the right mix of industry dynamics to unleash broad and inclusive growth. Focusing on commercial sustainability, and building on the fundamental belief that small businesses and farmers play vital roles in the value chains at the heart of developing economies, we work to improve domestic and global market access, forge links between companies, enhance workforce productivity, expand access to finance, and boost local value. Our programs seek to leave behind adaptive commercial systems that provide ordinary citizens with concrete opportunities to build better lives for themselves, their communities, and their nations. As incomes rise, so do the structures—and the courage—to demand accountability from government officials, especially in the development of predictable, internationally competitive business environments.
 

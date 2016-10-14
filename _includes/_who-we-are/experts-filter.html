@@ -16,6 +16,7 @@
   <hr>
 </div>
 <script type="text/javascript">
+
 var $grid = $('.grid').isotope({
   itemSelector: '.grid-item',
   layoutMode: 'vertical'
@@ -64,4 +65,22 @@ function concatValues( obj ) {
   //   $(this).addClass('active');
   //   $grid.isotope({ filter: filterValue });
   // });
+
+  //Let's grab a data-filter paramater from the URL so we can link to prefiltered lists
+  function getParameterByName(name) {
+    if (name !== "" && name !== null && name != undefined) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    } else {
+        var arr = location.href.split("/");
+        return arr[arr.length - 1];
+    }
+
+}
+  var filterFromQuerystring = getParameterByName('filter');
+  $('button[data-filter=".' + filterFromQuerystring  + '"]').click();
+// END URL data-filtering stuff
+
 </script>
