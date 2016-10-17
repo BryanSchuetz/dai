@@ -11,8 +11,11 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  In the peace following three decades of civil war, Angola faced the formidable challenge of building basic infrastructure, establishing social services, and addressing widespread poverty.
+summary: 'In the peace following three decades of civil war, Angola faced the formidable
+  challenge of building basic infrastructure, establishing social services, and addressing
+  widespread poverty.
+
+'
 ---
 
 In the peace following three decades of civil war, Angola faced the formidable challenge of building basic infrastructure, establishing social services, and addressing widespread poverty. If properly managed, oil wealth—already accounting for 40 percent of gross domestic product and 80 percent of government revenues—had the potential to drive Angola's social and economic recovery. In 2005, the economy grew 18 percent, fueled by increased oil production and rising prices on the world market. With oil prices at record levels and oil production estimated to double in the next several years, the Government of the Republic of Angola had to consider how to make wise use of the revenues this windfall afforded. AFRP was based on DAI's earlier work under the Fiscal Reform in Support of Trade Liberalization project, which designed and launched the Fiscal Programming Unit (FPU) in the Angola Ministry of Finance.

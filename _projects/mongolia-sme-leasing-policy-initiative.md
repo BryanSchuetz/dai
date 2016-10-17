@@ -13,8 +13,12 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  During the past decade, Mongolia has experienced strong economic growth supported almost single-handedly by its mining industry—primarily copper, coal, and gold. Mongolia has also progressed significantly in developing and strengthening its financial services and regulations.
+summary: 'During the past decade, Mongolia has experienced strong economic growth
+  supported almost single-handedly by its mining industry—primarily copper, coal,
+  and gold. Mongolia has also progressed significantly in developing and strengthening
+  its financial services and regulations.
+
+'
 ---
 
 During the past decade, Mongolia has experienced strong economic growth supported almost single-handedly by its mining industry—primarily copper, coal, and gold. Mongolia has also progressed significantly in developing and strengthening its financial services and regulations. Access to financial services for the private sector has improved, albeit not equally for all businesses.

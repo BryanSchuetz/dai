@@ -11,8 +11,12 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  Azerbaijan faces serious challenges to its democratic development. Democratic institutions are new and evolving from a historical legacy of highly centralized authority, and Azerbaijan ranks near the bottom of several international measures of corruption.
+summary: 'Azerbaijan faces serious challenges to its democratic development. Democratic
+  institutions are new and evolving from a historical legacy of highly centralized
+  authority, and Azerbaijan ranks near the bottom of several international measures
+  of corruption.
+
+'
 ---
 
 Azerbaijan faces serious challenges to its democratic development. Democratic institutions are new and evolving from a historical legacy of highly centralized authority, and Azerbaijan ranks near the bottom of several international measures of corruption. A strengthened parliament is critical to maintaining a healthy system of checks and balances and, thus, supporting successful social and economic development. The parliament must first, however, solidify its own sense of identity, with clearly understood roles and responsibilities, professional services, and a vastly stronger relationship between the deputies and the constituents they should serve. The PPA assisted the Parliament of Azerbaijan, called the Milli Majlis, in improving its government oversight and representation functions, with an emphasis on internal institutional reform and training of new constituency-based staff. We helped establish new norms of behavior that improved institutional professionalism and responsiveness to citizens. European Union standards and legislative compliance mechanisms were utilized in the design and capacity-building activities.

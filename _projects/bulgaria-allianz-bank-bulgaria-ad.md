@@ -12,8 +12,12 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  DAI was contracted by the European Bank for Reconstruction and Development, under its Small and Medium Enterprise (SME) Finance Facility Special Fund, to support Allianz Bank's ability to downscale its lending activities to the SME sector in Bulgaria.
+summary: 'DAI was contracted by the European Bank for Reconstruction and Development,
+  under its Small and Medium Enterprise (SME) Finance Facility Special Fund, to support
+  Allianz Bank''s ability to downscale its lending activities to the SME sector in
+  Bulgaria.
+
+'
 ---
 
 DAI was contracted by the European Bank for Reconstruction and Development, under its Small and Medium Enterprise (SME) Finance Facility Special Fund, to support Allianz Bank's ability to downscale its lending activities to the SME sector in Bulgaria. In 2007, the fund provided Allianz Bank with a credit line of €5 million for on-lending to Bulgarian SMEs and to be disbursed over a period of up to two years. Following the successful utilization of the credit line, an extension for additional €5 million was signed in February 2009. Both credit lines were fully utilized by the end of the assignment.

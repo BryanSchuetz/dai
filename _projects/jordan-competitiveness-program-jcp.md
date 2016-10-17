@@ -13,8 +13,13 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 layout: project
-summary: |
-  Jordan faces an immediate challenge: to create high-quality jobs through increased private sector competitiveness. To do this, the country must look outward for opportunity—through exports and foreign direct investment—while meeting diverse internal needs related to resource scarcity, geographic inequality, and high unemployment among youth and women.
+summary: 'Jordan faces an immediate challenge: to create high-quality jobs through
+  increased private sector competitiveness. To do this, the country must look outward
+  for opportunity—through exports and foreign direct investment—while meeting diverse
+  internal needs related to resource scarcity, geographic inequality, and high unemployment
+  among youth and women.
+
+'
 ---
 
 Jordan faces an immediate challenge: to create high-quality jobs through increased private sector competitiveness. To do this, the country must look outward for opportunity—through exports and foreign direct investment—while meeting diverse internal needs related to resource scarcity, geographic inequality, and high unemployment among youth and women.

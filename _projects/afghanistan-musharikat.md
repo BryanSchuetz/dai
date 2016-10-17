@@ -16,8 +16,13 @@ solutions:
 - Transition and Stabilization Programming
 - Voice and Accountability
 layout: project
-summary: |
-  Musharikat will support USAID/Afghanistan's investments in women's rights groups and activists. Musharikat—which means "partnership" or "participation" in Dari and Pashto—aims to build constituencies, strengthen advocacy, and increase awareness and support for women's equality and empowerment in all of Afghanistan's 34 provinces.
+summary: 'Musharikat will support USAID/Afghanistan''s investments in women''s rights
+  groups and activists. Musharikat—which means "partnership" or "participation" in
+  Dari and Pashto—aims to build constituencies, strengthen advocacy, and increase
+  awareness and support for women''s equality and empowerment in all of Afghanistan''s
+  34 provinces.
+
+'
 ---
 
 Musharikat will support USAID/Afghanistan's investments in women's rights groups and activists. Musharikat—which means "partnership" or "participation" in Dari and Pashto—aims to build constituencies, strengthen advocacy, and increase awareness and support for women's equality and empowerment in all of Afghanistan's 34 provinces.

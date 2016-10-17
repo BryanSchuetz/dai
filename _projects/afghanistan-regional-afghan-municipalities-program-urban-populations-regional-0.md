@@ -13,8 +13,11 @@ solutions:
 - Governance
 - Stability
 layout: project
-summary: |
-  Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal.
+summary: 'Afghan municipalities have long suffered from underinvestment, limited support,
+  low revenues, and weak institutional capacity. As a result, services and infrastructure
+  in municipalities are minimal.
+
+'
 ---
 
 Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Only 10 percent of urban dwellers have piped water systems; 20 percent have consistent city power, and 14 percent lack any access to electricity. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent. This project addressed these challenges and helps the Government of the Islamic Republic of Afghanistan (GIRoA) establish capable, legitimate governance at the municipal level in nine provincial capitals. Its primary customers were municipal officials (mayors, revenue officers, engineers, etc.) and the citizens who benefit from municipal services. The small-scale and sustainable service delivery improvement projects that we helped municipalities implement improved their capacity to deliver services and increasing citizen satisfaction with, trust in, and support for the municipal government.

@@ -11,8 +11,11 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Araratbank in Armenia is a privately owned commercial bank that provides a range of services to corporate and retail customers and small businesses, with micro, small, and medium-sized companies (MSMEs) as its main clientele.
+summary: 'Araratbank in Armenia is a privately owned commercial bank that provides
+  a range of services to corporate and retail customers and small businesses, with
+  micro, small, and medium-sized companies (MSMEs) as its main clientele.
+
+'
 ---
 
 Araratbank in Armenia is a privately owned commercial bank that provides a range of services to corporate and retail customers and small businesses, with micro, small, and medium-sized companies (MSMEs) as its main clientele. The European Bank for Reconstruction and Development (EBRD) extended a $7 million equivalent credit line to Araratbank to support further development of on-lending to local micro, small, and medium-sized companies. At least $1 million was allocated for lending to local agribusinesses. This is a relatively new segment for Aratatbank; we assisted in designing sustainable lending schemes suitable for this sector.
