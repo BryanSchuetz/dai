@@ -2,8 +2,8 @@
 title: Philippines—Scaling Innovations in Mobile Money (SIMM) Project
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2012
-end-date: 2014
+start: 2012
+end: 2014
 regions:
 - Asia and the Pacific
 country:

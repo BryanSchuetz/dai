@@ -3,8 +3,8 @@ title: Philippines—Local Implementation of National Competitiveness for Econom
   (LINC-EG)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2008
-end-date: 2012
+start: 2008
+end: 2012
 regions:
 - Asia and the Pacific
 country:

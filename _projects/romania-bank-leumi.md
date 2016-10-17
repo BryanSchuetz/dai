@@ -2,8 +2,8 @@
 title: Romania—Bank Leumi
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2008
-end-date: 2010
+start: 2008
+end: 2010
 regions:
 - Eastern Europe and Central Asia
 country:

@@ -2,8 +2,8 @@
 title: Short-Term Technical Assistance to the Sri Lankan Parliament Project (SLPP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2015
-end-date: 2016
+start: 2015
+end: 2016
 regions:
 - Asia and the Pacific
 country:

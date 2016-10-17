@@ -2,8 +2,8 @@
 title: Mexico—Access to Rural Finance for Microenterprises (AFIRMA)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2004
-end-date: 2009
+start: 2004
+end: 2009
 regions:
 - Latin America and the Caribbean
 country:

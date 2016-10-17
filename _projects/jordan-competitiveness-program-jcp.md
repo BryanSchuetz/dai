@@ -2,8 +2,8 @@
 title: Jordan Competitiveness Program (JCP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2013
-end-date: 2018
+start: 2013
+end: 2018
 regions:
 - Middle East and North Africa
 country:

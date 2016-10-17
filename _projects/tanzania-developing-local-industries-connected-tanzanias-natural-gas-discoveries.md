@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - World Blank
 - U.K. Department for International Development
-start-date: 2013
-end-date: 2014
+start: 2013
+end: 2014
 regions:
 - Sub-Saharan Africa
 country:

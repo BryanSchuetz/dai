@@ -2,8 +2,8 @@
 title: Southern Africa—Trade Hub (SATH)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2010
-end-date: 2016
+start: 2010
+end: 2016
 regions:
 - Sub-Saharan Africa
 country:

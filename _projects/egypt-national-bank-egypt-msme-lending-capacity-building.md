@@ -2,8 +2,8 @@
 title: 'Egypt—National Bank of Egypt: MSME Lending Capacity Building'
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2014
-end-date: 2016
+start: 2014
+end: 2016
 regions:
 - Sub-Saharan Africa
 country:

@@ -5,8 +5,8 @@ client:
 - Multilateral Investment Fund
 - Inter-American Development Bank
 - Andean Development Corporation
-start-date: 2010
-end-date: 2012
+start: 2010
+end: 2012
 regions:
 - Latin America and the Caribbean
 country:

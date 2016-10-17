@@ -3,8 +3,8 @@ title: Democratic Republic of Congo—Technical Assistance for the Programme to 
   Security Sector Reform (DAO Progress)—Defence Component
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Commission
-start-date: 2015
-end-date: 2021
+start: 2015
+end: 2021
 regions:
 - Sub-Saharan Africa
 country:

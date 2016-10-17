@@ -2,8 +2,8 @@
 title: Serbia—Local Government Reform Program (SLGRP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2001
-end-date: 2006
+start: 2001
+end: 2006
 regions:
 - Eastern Europe and Central Asia
 country:

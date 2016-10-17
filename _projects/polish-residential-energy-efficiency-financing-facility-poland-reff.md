@@ -2,8 +2,8 @@
 title: Polish Residential Energy Efficiency Financing Facility (Poland REFF)
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2016
-end-date: 2018
+start: 2016
+end: 2018
 regions:
 - Eastern Europe and Central Asia
 country:

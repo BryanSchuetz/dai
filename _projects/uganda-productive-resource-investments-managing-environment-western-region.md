@@ -3,8 +3,8 @@ title: Uganda—Productive Resource Investments for Managing the Environment—W
   Region (PRIME/West)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2003
-end-date: 2008
+start: 2003
+end: 2008
 regions:
 - Sub-Saharan Africa
 country:

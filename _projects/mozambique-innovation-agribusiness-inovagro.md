@@ -2,8 +2,8 @@
 title: Mozambique—Innovation for Agribusiness (INOVAGRO)
 date: 2016-01-21 22:40:52.765000000 Z
 client: Swiss Agency for Development and Cooperation
-start-date: 2010
-end-date: 2013
+start: 2010
+end: 2013
 regions:
 - Sub-Saharan Africa
 country:

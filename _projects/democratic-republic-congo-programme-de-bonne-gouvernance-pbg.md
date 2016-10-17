@@ -2,8 +2,8 @@
 title: Democratic Republic of the Congo—Programme De Bonne Gouvernance (PBG)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2009
-end-date: 2014
+start: 2009
+end: 2014
 regions:
 - Sub-Saharan Africa
 country:

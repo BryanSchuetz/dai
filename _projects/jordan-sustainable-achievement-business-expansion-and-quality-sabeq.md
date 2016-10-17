@@ -2,8 +2,8 @@
 title: Jordan—Sustainable Achievement of Business Expansion and Quality (SABEQ)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2006
-end-date: 2011
+start: 2006
+end: 2011
 regions:
 - Middle East and North Africa
 country:

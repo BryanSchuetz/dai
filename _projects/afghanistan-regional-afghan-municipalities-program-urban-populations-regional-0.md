@@ -3,8 +3,8 @@ title: Afghanistan—Regional Afghan Municipalities Program for Urban Population
   Command North (RAMP UP North)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2011
-end-date: 2014
+start: 2011
+end: 2014
 regions:
 - Eastern Europe and Central Asia
 country:

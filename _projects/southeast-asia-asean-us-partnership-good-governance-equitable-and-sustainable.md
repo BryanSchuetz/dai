@@ -3,8 +3,8 @@ title: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable an
   Development and Security (U.S.-ASEAN PROGRESS)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2013
-end-date: 2018
+start: 2013
+end: 2018
 regions:
 - Asia and the Pacific
 country:

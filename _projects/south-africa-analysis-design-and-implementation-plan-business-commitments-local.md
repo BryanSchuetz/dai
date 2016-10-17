@@ -3,8 +3,8 @@ title: South Africa—Analysis, Design, and Implementation Plan for Business Com
   in Local Procurement Accord
 date: 2016-01-21 22:40:52.765000000 Z
 client: Business Leadership South Africa
-start-date: 2012
-end-date: 2012
+start: 2012
+end: 2012
 regions:
 - Sub-Saharan Africa
 country:

@@ -2,8 +2,8 @@
 title: South Africa—Sishen Iron Ore Company Community Development Trust
 date: 2016-01-21 22:40:52.765000000 Z
 client: Sishen Iron Ore Company
-start-date: 2011
-end-date: 2015
+start: 2011
+end: 2015
 regions:
 - Sub-Saharan Africa
 country:

@@ -2,8 +2,8 @@
 title: Mongolia—SME Leasing Policy Initiative
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2015
-end-date: 2015
+start: 2015
+end: 2015
 regions:
 - Asia and the Pacific
 country:

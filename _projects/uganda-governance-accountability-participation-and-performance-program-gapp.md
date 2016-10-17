@@ -2,8 +2,8 @@
 title: Uganda—Governance, Accountability, Participation and Performance Program (GAPP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2013
-end-date: 2020
+start: 2013
+end: 2020
 regions:
 - Sub-Saharan Africa
 country:

@@ -2,8 +2,8 @@
 title: Worldwide—Fiscal Reform and Economic Governance
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2003
-end-date: 2010
+start: 2003
+end: 2010
 regions:
 - Worldwide
 country:

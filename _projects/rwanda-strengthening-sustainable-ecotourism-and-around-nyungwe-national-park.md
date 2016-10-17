@@ -3,8 +3,8 @@ title: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe Natio
   Park (SSENNP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2010
-end-date: 2015
+start: 2010
+end: 2015
 regions:
 - Sub-Saharan Africa
 country:

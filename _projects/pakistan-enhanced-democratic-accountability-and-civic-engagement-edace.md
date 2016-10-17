@@ -2,8 +2,8 @@
 title: Pakistan—Enhanced Democratic Accountability and Civic Engagement (EDACE)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Foreign and Commonwealth Office
-start-date: 2013
-end-date: 2016
+start: 2013
+end: 2016
 regions:
 - Eastern Europe and Central Asia
 country:

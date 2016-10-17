@@ -2,8 +2,8 @@
 title: South Africa—Lonmin IFC SME Training and Development
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Finance Corporation
-start-date: 2009
-end-date: 2010
+start: 2009
+end: 2010
 regions:
 - Sub-Saharan Africa
 country:

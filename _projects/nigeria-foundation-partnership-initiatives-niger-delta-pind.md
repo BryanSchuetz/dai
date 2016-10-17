@@ -2,8 +2,8 @@
 title: Nigeria—Foundation for Partnership Initiatives in the Niger Delta (PIND)
 date: 2016-01-21 22:40:52.765000000 Z
 client: NDPI Foundation and PIND (Funded by Chevron Corporation)
-start-date: 2010
-end-date: 2015
+start: 2010
+end: 2015
 regions:
 - Sub-Saharan Africa
 country:

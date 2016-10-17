@@ -3,8 +3,8 @@ title: Equatorial Guinea—Technical Support Program to the Government of the Re
   of Equatorial Guinea (EGTSP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2006
-end-date: 2009
+start: 2006
+end: 2009
 regions:
 - Latin America and the Caribbean
 country:

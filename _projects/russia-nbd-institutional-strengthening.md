@@ -2,8 +2,8 @@
 title: Russia—NBD Institutional Strengthening
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2007
-end-date: 2009
+start: 2007
+end: 2009
 regions:
 - Eastern Europe and Central Asia
 country:

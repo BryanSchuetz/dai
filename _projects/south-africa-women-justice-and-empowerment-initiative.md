@@ -2,8 +2,8 @@
 title: South Africa—Women’s Justice and Empowerment Initiative
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2011
-end-date: 2012
+start: 2011
+end: 2012
 regions:
 - Sub-Saharan Africa
 country:

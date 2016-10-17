@@ -3,8 +3,8 @@ title: Democratic Republic of the Congo—Building Recovery and Reform through D
   Governance in the DRC (BRDG-DRC)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2008
-end-date: 2010
+start: 2008
+end: 2010
 regions:
 - Sub-Saharan Africa
 country:

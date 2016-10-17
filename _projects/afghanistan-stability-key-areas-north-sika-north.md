@@ -2,8 +2,8 @@
 title: Afghanistan—Stability in Key Areas-North (SIKA-North)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2012
-end-date: 2015
+start: 2012
+end: 2015
 regions:
 - Eastern Europe and Central Asia
 country:

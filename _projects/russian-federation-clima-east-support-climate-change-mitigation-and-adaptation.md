@@ -3,8 +3,8 @@ title: |
   Russian Federation—Clima East: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Commission
-start-date: 2012
-end-date: 2016
+start: 2012
+end: 2016
 regions:
 - Eastern Europe and Central Asia
 country:

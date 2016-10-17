@@ -2,8 +2,8 @@
 title: Africa—Comprehensive Africa Agriculture Development Programme (CAADP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: World Bank
-start-date: 2012
-end-date: 2016
+start: 2012
+end: 2016
 regions:
 - Sub-Saharan Africa
 country:

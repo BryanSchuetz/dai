@@ -3,8 +3,8 @@ title: South Asia—EU Public Diplomacy and Outreach in India and the South Asia
   for Regional Cooperation (SAARC)
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Commission
-start-date: 2013
-end-date: 2016
+start: 2013
+end: 2016
 regions:
 - Eastern Europe and Central Asia
 country:

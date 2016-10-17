@@ -3,8 +3,8 @@ title: South Africa—Tourism Enterprise Programme (TEP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: Business Trust and the Department of Environmental Affairs and Tourism South
   Africa
-start-date: 2000
-end-date: 2010
+start: 2000
+end: 2010
 regions:
 - Sub-Saharan Africa
 country:

@@ -2,8 +2,8 @@
 title: South Africa—Massmart Farmer Support Programme
 date: 2016-01-21 22:40:52.765000000 Z
 client: Walmart
-start-date: 2013
-end-date: 2014
+start: 2013
+end: 2014
 regions:
 - Sub-Saharan Africa
 country:

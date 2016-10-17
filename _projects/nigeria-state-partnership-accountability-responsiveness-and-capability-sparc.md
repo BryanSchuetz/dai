@@ -3,8 +3,8 @@ title: Nigeria—State Partnership for Accountability Responsiveness and Capabil
   (SPARC)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2008
-end-date: 2016
+start: 2008
+end: 2016
 regions:
 - Sub-Saharan Africa
 country:

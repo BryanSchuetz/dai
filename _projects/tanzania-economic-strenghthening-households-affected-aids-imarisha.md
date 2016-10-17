@@ -2,8 +2,8 @@
 title: Tanzania—Economic Strenghthening for Households Affected by AIDS (IMARISHA)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2011
-end-date: 2015
+start: 2011
+end: 2015
 regions:
 - Sub-Saharan Africa
 country:

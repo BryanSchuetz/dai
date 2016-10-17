@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - JSC Basis BasisBank
 - European Bank for Reconstruction and Development
-start-date: 2009
-end-date: 2011
+start: 2009
+end: 2011
 regions:
 - Eastern Europe and Central Asia
 country:

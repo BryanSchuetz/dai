@@ -2,8 +2,8 @@
 title: South Africa—Establishment of the Office of Health Standards Compliance
 date: 2016-01-21 22:40:52.765000000 Z
 client: South Africa National Treasury
-start-date: 2012
-end-date: 2013
+start: 2012
+end: 2013
 regions:
 - Sub-Saharan Africa
 country:

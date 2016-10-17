@@ -2,8 +2,8 @@
 title: Tajikistan—USAID Family Farming Program (FFP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2010
-end-date: 2015
+start: 2010
+end: 2015
 regions:
 - Eastern Europe and Central Asia
 country:

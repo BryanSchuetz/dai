@@ -2,8 +2,8 @@
 title: Philippines—CARD Bank
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Finance Corporation
-start-date: 2009
-end-date: 2010
+start: 2009
+end: 2010
 regions:
 - Asia and the Pacific
 country:

@@ -3,8 +3,8 @@ title: 'Zambia—Private Sector Support to Climate Resilience in Zambia: Mobile 
   Platform for Disseminating Market and Climate Information'
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Finance Corporation
-start-date: 2012
-end-date: 2012
+start: 2012
+end: 2012
 regions:
 - Sub-Saharan Africa
 country:

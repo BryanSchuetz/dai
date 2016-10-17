@@ -2,8 +2,8 @@
 title: Jordan Fiscal Reform Project II and Bridge Activity (FRP II, FRP Bridge)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2009
-end-date: 2016
+start: 2009
+end: 2016
 regions:
 - Middle East and North Africa
 country:

@@ -3,8 +3,8 @@ title: Cambodia—Micro, Small and Medium Enterprises Strengthening 2 Project (M
   1 and 2)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2005
-end-date: 2012
+start: 2005
+end: 2012
 regions:
 - Asia and the Pacific
 country:

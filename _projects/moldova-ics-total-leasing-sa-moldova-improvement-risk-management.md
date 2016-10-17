@@ -2,8 +2,8 @@
 title: Moldova—ICS Total Leasing SA, Moldova, Improvement of Risk Management
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2011
-end-date: 2012
+start: 2011
+end: 2012
 regions:
 - Eastern Europe and Central Asia
 country:

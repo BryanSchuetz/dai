@@ -2,8 +2,8 @@
 title: Sierra Leone—Access to Security and Justice Programme (ASJP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2011
-end-date: 2016
+start: 2011
+end: 2016
 regions:
 - Sub-Saharan Africa
 country:

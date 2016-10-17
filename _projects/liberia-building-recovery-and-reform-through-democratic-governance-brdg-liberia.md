@@ -2,8 +2,8 @@
 title: Liberia—Building Recovery and Reform Through Democratic Governance (BRDG-Liberia)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2006
-end-date: 2007
+start: 2006
+end: 2007
 regions:
 - Sub-Saharan Africa
 country:

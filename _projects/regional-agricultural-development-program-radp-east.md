@@ -2,8 +2,8 @@
 title: Regional Agricultural Development Program (RADP-East)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2016
-end-date: 2021
+start: 2016
+end: 2021
 regions:
 - Eastern Europe and Central Asia
 country:

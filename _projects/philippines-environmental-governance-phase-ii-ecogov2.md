@@ -2,8 +2,8 @@
 title: Philippines—Environmental Governance Phase II (ECOGOV2)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2004
-end-date: 2001
+start: 2004
+end: 2001
 regions:
 - Asia and the Pacific
 country:

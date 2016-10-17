@@ -2,8 +2,8 @@
 title: Iraq—Agriculture Reconstruction and Development Program for Iraq (ARDI)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2003
-end-date: 2006
+start: 2003
+end: 2006
 regions:
 - Middle East and North Africa
 country:

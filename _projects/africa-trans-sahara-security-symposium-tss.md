@@ -2,8 +2,8 @@
 title: Africa—Trans-Sahara Security Symposium (TSS)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Department of Defense
-start-date: 2008
-end-date: 2012
+start: 2008
+end: 2012
 regions:
 - Sub-Saharan Africa
 country:

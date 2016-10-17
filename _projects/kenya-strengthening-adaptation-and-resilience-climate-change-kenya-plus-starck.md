@@ -3,8 +3,8 @@ title: Kenya—Strengthening Adaptation and Resilience to Climate Change in Keny
   (StARCK+)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2013
-end-date: 2017
+start: 2013
+end: 2017
 regions:
 - Sub-Saharan Africa
 country:

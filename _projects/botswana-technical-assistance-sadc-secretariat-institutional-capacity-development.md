@@ -3,8 +3,8 @@ title: 'Botswana—Technical Assistance to the SADC Secretariat: Institutional C
   Development Programme'
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Commission
-start-date: 2013
-end-date: 2016
+start: 2013
+end: 2016
 regions:
 - Sub-Saharan Africa
 country:

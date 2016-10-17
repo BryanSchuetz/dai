@@ -2,8 +2,8 @@
 title: Afghanistan—Alternative Development Program/Eastern Region (ADP/E)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2005
-end-date: 2009
+start: 2005
+end: 2009
 regions:
 - Eastern Europe and Central Asia
 country:

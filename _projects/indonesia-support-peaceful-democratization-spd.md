@@ -2,8 +2,8 @@
 title: Indonesia—Support for Peaceful Democratization (SPD)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2005
-end-date: 2008
+start: 2005
+end: 2008
 regions:
 - Asia and the Pacific
 country:

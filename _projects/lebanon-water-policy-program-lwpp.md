@@ -2,8 +2,8 @@
 title: Lebanon—Water Policy Program (LWPP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2002
-end-date: 2008
+start: 2002
+end: 2008
 regions:
 - Middle East and North Africa
 country:

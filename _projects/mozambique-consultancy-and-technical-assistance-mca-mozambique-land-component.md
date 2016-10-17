@@ -3,8 +3,8 @@ title: Mozambique—Consultancy and Technical Assistance to the MCA (Mozambique)
   Component
 date: 2016-01-21 22:40:52.765000000 Z
 client: Millennium Challenge Account
-start-date: 2009
-end-date: 2013
+start: 2009
+end: 2013
 regions:
 - Sub-Saharan Africa
 country:

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - U.S. Trade and Development Agency
 - Financiera Rural
-start-date: 2006
-end-date: 2008
+start: 2006
+end: 2008
 regions:
 - Latin America and the Caribbean
 country:

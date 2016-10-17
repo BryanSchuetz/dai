@@ -3,8 +3,8 @@ title: Malawi—Community Partnerships for Sustainable Resource Management (COMP
   II)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2004
-end-date: 2009
+start: 2004
+end: 2009
 regions:
 - Sub-Saharan Africa
 country:

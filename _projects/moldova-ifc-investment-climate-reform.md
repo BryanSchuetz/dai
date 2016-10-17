@@ -2,8 +2,8 @@
 title: Moldova—IFC Investment Climate Reform
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Finance Corporation
-start-date: 2014
-end-date: 2014
+start: 2014
+end: 2014
 regions:
 - Eastern Europe and Central Asia
 country:

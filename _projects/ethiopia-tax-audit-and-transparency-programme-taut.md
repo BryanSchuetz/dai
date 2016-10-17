@@ -2,8 +2,8 @@
 title: Ethiopia—Tax, Audit and Transparency Programme (TAUT)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2015
-end-date: 2018
+start: 2015
+end: 2018
 regions:
 - Sub-Saharan Africa
 country:

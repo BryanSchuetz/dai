@@ -2,8 +2,8 @@
 title: Macedonia—Municipal Management of Macedonian Schools Program (MMMS)
 date: 2016-01-21 22:40:52.765000000 Z
 client: Embassy of the Kingdom of the Netherlands
-start-date: 2006
-end-date: 2007
+start: 2006
+end: 2007
 regions:
 - Eastern Europe and Central Asia
 country:

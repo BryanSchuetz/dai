@@ -2,8 +2,8 @@
 title: Zambia Public Service Performance Programme (PSPP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2014
-end-date: 2019
+start: 2014
+end: 2019
 regions:
 - Sub-Saharan Africa
 country:

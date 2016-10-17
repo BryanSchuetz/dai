@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - World Blank
 - Government of Tanzania
-start-date: 1999
-end-date: 2005
+start: 1999
+end: 2005
 regions:
 - Sub-Saharan Africa
 country:

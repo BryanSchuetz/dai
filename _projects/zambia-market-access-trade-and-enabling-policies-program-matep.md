@@ -2,8 +2,8 @@
 title: Zambia—Market Access, Trade, and Enabling Policies Program (MATEP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2005
-end-date: 2010
+start: 2005
+end: 2010
 regions:
 - Sub-Saharan Africa
 country:

@@ -2,8 +2,8 @@
 title: Worldwide—Support for Trade Capacity Building (TCBoost)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2008
-end-date: 2011
+start: 2008
+end: 2011
 regions:
 - Worldwide
 country:

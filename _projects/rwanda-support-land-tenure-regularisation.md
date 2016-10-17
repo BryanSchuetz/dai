@@ -2,8 +2,8 @@
 title: Rwanda—Support for Land Tenure Regularisation
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2010
-end-date: 2013
+start: 2010
+end: 2013
 regions:
 - Sub-Saharan Africa
 country:

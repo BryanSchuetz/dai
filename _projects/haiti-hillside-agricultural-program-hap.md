@@ -2,8 +2,8 @@
 title: Haiti—Hillside Agricultural Program (HAP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2000
-end-date: 2007
+start: 2000
+end: 2007
 regions:
 - Latin America and the Caribbean
 country:

@@ -2,8 +2,8 @@
 title: Mongolia Value Chain Finance Project
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2013
-end-date: 2013
+start: 2013
+end: 2013
 regions:
 - Asia and the Pacific
 country:

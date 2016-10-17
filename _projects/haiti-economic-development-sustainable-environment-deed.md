@@ -2,8 +2,8 @@
 title: Haiti—Economic Development for a Sustainable Environment (DEED)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2008
-end-date: 2012
+start: 2008
+end: 2012
 regions:
 - Latin America and the Caribbean
 country:

@@ -2,8 +2,8 @@
 title: Worldwide—Stamping Out Pandemic and Avian Influenza (STOP AI)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2007
-end-date: 2011
+start: 2007
+end: 2011
 regions:
 - Worldwide
 country:

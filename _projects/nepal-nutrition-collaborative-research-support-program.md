@@ -2,8 +2,8 @@
 title: Nepal—Nutrition Collaborative Research Support Program
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2010
-end-date: 2015
+start: 2010
+end: 2015
 regions:
 - Asia and the Pacific
 country:

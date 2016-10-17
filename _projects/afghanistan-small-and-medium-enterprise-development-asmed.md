@@ -2,8 +2,8 @@
 title: Afghanistan—Small and Medium Enterprise Development (ASMED)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2006
-end-date: 2012
+start: 2006
+end: 2012
 regions:
 - Eastern Europe and Central Asia
 country:

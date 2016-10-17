@@ -2,8 +2,8 @@
 title: Kazakhstan—Development of Standards for the Civil Service Provision (KCSP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Commission
-start-date: 2005
-end-date: 2007
+start: 2005
+end: 2007
 regions:
 - Eastern Europe and Central Asia
 country:

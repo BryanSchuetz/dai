@@ -2,8 +2,8 @@
 title: Lebanon—Industry Value Chain Development (LIVCD)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2012
-end-date: 2017
+start: 2012
+end: 2017
 regions:
 - Middle East and North Africa
 country:

@@ -3,8 +3,8 @@ title: Democratic Republic of the Congo—Security Sector Accountability and Pol
   Reform Programme (SSAPR)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2009
-end-date: 2015
+start: 2009
+end: 2015
 regions:
 - Sub-Saharan Africa
 country:

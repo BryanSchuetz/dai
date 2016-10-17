@@ -2,8 +2,8 @@
 title: Kenya—Hunger Safety Net Programme Phase 2 (HSNP2)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.K. Department for International Development
-start-date: 2014
-end-date: 2017
+start: 2014
+end: 2017
 regions:
 - Sub-Saharan Africa
 country:

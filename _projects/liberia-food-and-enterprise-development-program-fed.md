@@ -2,8 +2,8 @@
 title: Liberia—Food and Enterprise Development Program (FED)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2011
-end-date: 2016
+start: 2011
+end: 2016
 regions:
 - Sub-Saharan Africa
 country:

@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - U.S. Agency for International Development
 - Swiss Agency for Development and Cooperation
-start-date: 2004
-end-date: 2008
+start: 2004
+end: 2008
 regions:
 - Eastern Europe and Central Asia
 country:

@@ -2,8 +2,8 @@
 title: Indonesia—Orangutan Conservation Services Program (OCSP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2007
-end-date: 2010
+start: 2007
+end: 2010
 regions:
 - Asia and the Pacific
 country:

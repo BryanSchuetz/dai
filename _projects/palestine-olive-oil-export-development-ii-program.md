@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - World Blank
 - International Finance Corporation
-start-date: 2011
-end-date: 2012
+start: 2011
+end: 2012
 regions:
 - Middle East and North Africa
 country:

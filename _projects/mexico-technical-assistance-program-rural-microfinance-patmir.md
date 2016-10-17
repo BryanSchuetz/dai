@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - World Bank
 - National Savings Bank (Bansefi)
-start-date: 2011
-end-date: 2016
+start: 2011
+end: 2016
 regions:
 - Latin America and the Caribbean
 country:

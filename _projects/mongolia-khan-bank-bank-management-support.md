@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - U.S. Agency for International Development
 - European Bank for Reconstruction and Development
-start-date: 2003
-end-date: 2006
+start: 2003
+end: 2006
 regions:
 - Asia and the Pacific
 country:

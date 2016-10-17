@@ -3,8 +3,8 @@ title: Colombia—Design and Implementation of Microsavings Products for Financi
   (MICROAHORRO)
 date: 2016-01-21 22:40:52.765000000 Z
 client: Colombia Bank of International Trade
-start-date: 2012
-end-date: 2014
+start: 2012
+end: 2014
 regions:
 - Latin America and the Caribbean
 country:

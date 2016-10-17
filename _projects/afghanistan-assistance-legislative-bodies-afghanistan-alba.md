@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:52.765000000 Z
 client:
 - U.S. Agency for International Development
 - U.K. Foreign and Commonwealth Office
-start-date: 2013
-end-date: 2018
+start: 2013
+end: 2018
 regions:
 - Eastern Europe and Central Asia
 country:

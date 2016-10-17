@@ -2,8 +2,8 @@
 title: Slovakia—SME Finance Facility—OTP Banka Slovensko
 date: 2016-01-21 22:40:52.765000000 Z
 client: European Bank for Reconstruction and Development
-start-date: 2005
-end-date: 2007
+start: 2005
+end: 2007
 regions:
 - Eastern Europe and Central Asia
 country:

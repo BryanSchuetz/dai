@@ -2,8 +2,8 @@
 title: Morocco—Economic Competitiveness Project (MEC)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2009
-end-date: 2013
+start: 2009
+end: 2013
 regions:
 - Middle East and North Africa
 country:

@@ -2,8 +2,8 @@
 title: Honduras—Banco Ficohsa Phase I
 date: 2016-01-21 22:40:52.765000000 Z
 client: International Finance Corporation
-start-date: 2008
-end-date: 2010
+start: 2008
+end: 2010
 regions:
 - Latin America and the Caribbean
 country:

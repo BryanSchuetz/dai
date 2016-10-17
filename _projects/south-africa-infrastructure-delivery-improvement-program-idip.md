@@ -2,8 +2,8 @@
 title: South Africa—Infrastructure Delivery Improvement Program (IDIP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: National Treasury
-start-date: 2011
-end-date: 2014
+start: 2011
+end: 2014
 regions:
 - Sub-Saharan Africa
 country:

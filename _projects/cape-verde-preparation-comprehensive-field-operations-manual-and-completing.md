@@ -2,8 +2,8 @@
 title: Cape Verde Land
 date: 2016-01-21 22:40:52.765000000 Z
 client: Millennium Challenge Corporation
-start-date: 2014
-end-date: 2015
+start: 2014
+end: 2015
 regions:
 - Sub-Saharan Africa
 country:

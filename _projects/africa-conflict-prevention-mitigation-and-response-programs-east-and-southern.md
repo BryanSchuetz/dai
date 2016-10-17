@@ -3,8 +3,8 @@ title: Africa—Conflict Prevention, Mitigation, and Response Programs in East a
   Africa (CPMR-ESA)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2003
-end-date: 2007
+start: 2003
+end: 2007
 regions:
 - Sub-Saharan Africa
 country:

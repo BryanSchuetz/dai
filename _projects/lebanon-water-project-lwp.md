@@ -2,8 +2,8 @@
 title: Lebanon Water Project (LWP)
 date: 2016-01-21 22:40:52.765000000 Z
 client: U.S. Agency for International Development
-start-date: 2015
-end-date: 2020
+start: 2015
+end: 2020
 regions:
 - Middle East and North Africa
 country:
