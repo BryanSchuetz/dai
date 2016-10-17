@@ -12,8 +12,12 @@ country:
 solutions:
 - Governance
 layout: project
-summary: |
-  Corruption is a significant obstacle to governments as they seek greater economic growth and to expand public services. Faced with the lack of transparency and accountability, citizens, the private sector, and foreign investors lose trust in public institutions and the rule of law.
+summary: 'Corruption is a significant obstacle to governments as they seek greater
+  economic growth and to expand public services. Faced with the lack of transparency
+  and accountability, citizens, the private sector, and foreign investors lose trust
+  in public institutions and the rule of law.
+
+'
 ---
 
 Corruption is a significant obstacle to governments as they seek greater economic growth and to expand public services. Faced with the lack of transparency and accountability, citizens, the private sector, and foreign investors lose trust in public institutions and the rule of law. Corruption is not an issue that can be addressed by working in one sector or with one set of stakeholders—solutions must be comprehensive and crosscutting. In Bangladesh, we worked with government and citizens, with media and watchdog organizations, and with public officials and elected representatives to foster partnerships and new incentives for anticorruption reform.

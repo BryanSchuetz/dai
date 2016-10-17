@@ -15,8 +15,14 @@ solutions:
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
 layout: project
-summary: |
-  In 2014, the Government of Jordan responded to the King's call for a 10-year economic blueprint for meeting a set of challenging objectives. Key among the objectives was "to enhance policies related to human resources, link education policies to labor market demands, focus on building a labor force through vocational training, especially youth, so that they gradually replace guest labor, and encourage women to join the labor market."
+summary: 'In 2014, the Government of Jordan responded to the King''s call for a 10-year
+  economic blueprint for meeting a set of challenging objectives. Key among the objectives
+  was "to enhance policies related to human resources, link education policies to
+  labor market demands, focus on building a labor force through vocational training,
+  especially youth, so that they gradually replace guest labor, and encourage women
+  to join the labor market."
+
+'
 ---
 
 In 2014, the Government of Jordan responded to the King's call for a 10-year economic blueprint for meeting a set of challenging objectives. Key among the objectives was "to enhance policies related to human resources, link education policies to labor market demands, focus on building a labor force through vocational training, especially youth, so that they gradually replace guest labor, and encourage women to join the labor market."

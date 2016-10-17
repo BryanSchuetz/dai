@@ -12,8 +12,11 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  In partnership with Encon Services, DAI implemented a European Bank for Reconstruction and Development-funded project intended to develop Rational Energy Utilization Plans with small and medium-sized enterprises (SMEs) in Bulgaria.
+summary: 'In partnership with Encon Services, DAI implemented a European Bank for
+  Reconstruction and Development-funded project intended to develop Rational Energy
+  Utilization Plans with small and medium-sized enterprises (SMEs) in Bulgaria.
+
+'
 ---
 
 In partnership with Encon Services, DAI implemented a European Bank for Reconstruction and Development-funded [project][1] intended to develop Rational Energy Utilization Plans with small and medium-sized enterprises (SMEs) in Bulgaria. The project was part of a European Union initiative to support Bulgaria's Energy Law and assist with the closure of the oldest first-generation Soviet-designed blocks of the Kozloduy Nuclear Plant. The Bulgarian economy stands out as one of the most energy-intensive in Europe. A core aim of this project was to develop adequate bank financing services directed at industrial customers for use in energy-efficiency projects. The DAI team worked with participating banks to develop streamlined procedures for customer/project identification and to enhance their due diligence and risk mitigation capabilities. DAI also worked with participating banks to market the project to increase branch participation in energy financing and attract new clients. Finally, DAI and Encon consultants worked with SMEs to develop bankable energy efficiency proposals for the participating banks to evaluate with a view to financing.

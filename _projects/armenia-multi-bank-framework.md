@@ -12,8 +12,12 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: project
-summary: |
-  DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to support to Armenian Partner Banks to implement small and medium enterprise lending projects by assisting the partner banks in establishing adequate lending practices and supporting them in loan appraisal and credit approval processes.
+summary: 'DAI was contracted by the European Bank for Reconstruction and Development
+  (EBRD) to support to Armenian Partner Banks to implement small and medium enterprise
+  lending projects by assisting the partner banks in establishing adequate lending
+  practices and supporting them in loan appraisal and credit approval processes.
+
+'
 ---
 
 DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to support to Armenian Partner Banks to implement small and medium enterprise lending projects by assisting the partner banks in establishing adequate lending practices and supporting them in loan appraisal and credit approval processes. DAI is establishing and implementing EBRD-funded small and medium enterprise sub-projects in all new partner banks. At the same time, we are contributing to the overall institution strengthening of the banks by advising on structuring of credit departments and developing and improving internal credit policies and procedures. We are working with the partner banks to create capabilities and capacities in both policies and procedures and staff to build a profitable and high-quality small and medium enterprise sub-loan portfolio, and help the banks further and independently develop their lending activities and effectively manage their portfolios.

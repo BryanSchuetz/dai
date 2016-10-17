@@ -11,8 +11,11 @@ country:
 solutions:
 - Stability
 layout: project
-summary: |
-  The U.S. Africa Command's Operation Enduring Freedom—Trans-Sahara and DAI conducted this innovative civil-military operations/relations (CMO/R) education program to support the interagency Trans-Sahara Counter Terrorism Partnership (TSCTP).
+summary: 'The U.S. Africa Command''s Operation Enduring Freedom—Trans-Sahara and DAI
+  conducted this innovative civil-military operations/relations (CMO/R) education
+  program to support the interagency Trans-Sahara Counter Terrorism Partnership (TSCTP).
+
+'
 ---
 
 The U.S. Africa Command's Operation Enduring Freedom—Trans-Sahara and DAI conducted this innovative civil-military operations/relations (CMO/R) education program to support the interagency Trans-Sahara Counter Terrorism Partnership (TSCTP). This multiyear U.S. Department of Defense training series supported the U.S. Agency for International Development and U.S. Department of State's joint effort to build civil-military capacity and enhance regional security and cooperation.

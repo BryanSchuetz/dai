@@ -12,8 +12,11 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  In 2000, Armenia was still shaking off the Soviet heritage of planned economy approaches, a mentality of production-led entrepreneurship and isolation from international markets.
+summary: 'In 2000, Armenia was still shaking off the Soviet heritage of planned economy
+  approaches, a mentality of production-led entrepreneurship and isolation from international
+  markets.
+
+'
 ---
 
 In 2000, Armenia was still shaking off the Soviet heritage of planned economy approaches, a mentality of production-led entrepreneurship and isolation from international markets. The small size and economically distressed condition of the domestic market necessitated a broader perspective on growth opportunities. The U.S. Agency for International Development (USAID)-funded ASME sought to increase market opportunities for small and medium-sized businesses. For the first four years, efforts were exclusively targeted at agribusiness enterprises such as canneries, dried fruit producers, meat processors, milk processors, poultry producers, and fish farms. Beginning in early 2004, USAID asked DAI to broaden ASME's focus to include textiles and apparel and a broader set of nonfarm rural enterprises. Those new initiatives delivered good results. They strengthened the rural business service provider network and commercial links between providers and their private clients, and contributed to the development of the Armenian fashion industry (members of which are now rapidly increasing their share of the growing Armenian market and beginning to export). The project team expanded its client base and had notable success in encouraging local industry association development. In May 2006, USAID requested ASME's assistance in working with government agencies and private producers to respond to the growing threat of avian influenza.

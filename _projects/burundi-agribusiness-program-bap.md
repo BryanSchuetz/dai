@@ -11,8 +11,11 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  Burundi's extreme poverty is largely due to the fact that more than 90 percent of the population is on subsistence agriculture—and the agriculture sector has one of the lowest productivity rates in the world.
+summary: 'Burundi''s extreme poverty is largely due to the fact that more than 90
+  percent of the population is on subsistence agriculture—and the agriculture sector
+  has one of the lowest productivity rates in the world.
+
+'
 ---
 
 Burundi's extreme poverty is largely due to the fact that more than 90 percent of the population is on subsistence agriculture—and the agriculture sector has one of the lowest productivity rates in the world. DAI supported Burundi's efforts to respond to changes in the world agricultural market that occurred in the 1990s, when Burundi was mired in crisis, and to revitalize the country's agricultural sector. BAP developed agro-enterprises that raise rural incomes; diversify economic opportunity; strengthen competitive, commodity-based value chains that link producers to domestic, regional, and international markets; and stabilize the country so it does not relapse into chaos and bloodshed.

@@ -12,8 +12,11 @@ country:
 solutions:
 - Economic Growth
 layout: project
-summary: |
-  The Cambodia MSME 1 and 2 Project built upon the success of DAI-led employing a market-driven, grassroots strategy aimed at alleviating poverty and fostering economic growth in 17 rural provinces.
+summary: 'The Cambodia MSME 1 and 2 Project built upon the success of DAI-led employing
+  a market-driven, grassroots strategy aimed at alleviating poverty and fostering
+  economic growth in 17 rural provinces.
+
+'
 ---
 
 The Cambodia MSME 1 and 2 Project built upon the success of DAI-led employing a market-driven, grassroots strategy aimed at alleviating poverty and fostering economic growth in 17 rural provinces. The project worked across the aquaculture, swine, tile manufacturing, clean water, honey, resin, and ecotourism value chains. Its goals were to broadly improve technical and business skills for all value chain actors, promote strong business relationships between value chain actors and between government actors, assist MSMEs to [access higher-value markets][1] and better credit resources, and assist government and private sector to improve the business-enabling environment at the national and provincial levels.
