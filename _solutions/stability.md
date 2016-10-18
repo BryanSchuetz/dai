@@ -8,6 +8,13 @@ summary: Partnering with government, civil society, and private sector actors to
   short-term stability and build the foundation for long-term development.
 layout: solution
 type: primary
+promos:
+- title: "**Our Team:** DAI Stability Experts"
+  link: "/who-we-are/the-team?filter=stability"
+- title: "**Our Work:** DAI Stability Projects"
+  link: "/our-work/the-projects?filter=stability"
+- title: "**News:** Recent Stability News"
+  link: "/news/view-more-news?filter=stability"
 ---
 
 We establish partnerships with government, civil society, and private sector actors to provide short-term stability and build the foundation for long-term development. Building on our diverse experience and nuanced understanding of conflict dynamics in crisis environments, our work in crisis mitigation and stability has won DAI a global reputation for sure-footed and innovative post-crisis assistance.

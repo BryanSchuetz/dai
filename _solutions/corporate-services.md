@@ -8,6 +8,13 @@ summary: Helping our clients achieve significantly higher social and business re
   by merging business imperatives with development best practices.
 layout: solution
 type: primary
+promos:
+- title: "**Our Team:** DAI Corporate Services Experts"
+  link: "/who-we-are/the-team?filter=corporate-services"
+- title: "**Our Work:** DAI Corporate Services Projects"
+  link: "/our-work/the-projects?filter=corporate-services"
+- title: "**News:** Recent Corporate Services News"
+  link: "/news/view-more-news?filter=corporate-services"
 ---
 
 **Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices**

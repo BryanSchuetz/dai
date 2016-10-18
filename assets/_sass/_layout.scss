@@ -762,7 +762,7 @@ iframe{
     width: 35%;
     float: right;
   }
-  a, button{
+  button{
     cursor: pointer;
     display: block;
     width: 100%;
@@ -790,10 +790,16 @@ iframe{
       }
     }
   }
-  a:hover, a.active, button:hover, button.active, .is-checked{
+  button:hover, button.active, .is-checked{
     color: $nav-black;
     border: 1px solid $nav-black;
   }
+}
+.filter-reset{
+  font-size: .8rem;
+  display: inline-block;
+  text-align: right;
+  width: 100%;
 }
 .filter--control{
   margin-bottom: 2rem;

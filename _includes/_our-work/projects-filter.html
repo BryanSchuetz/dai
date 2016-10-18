@@ -1,6 +1,6 @@
 <div class="projects-filter">
   <h3>Project Filter</h3>
-  <p>Looking for projects focused on a particular technical topic, geographical area, or client? Click below to filter. <a href="/our-work/the-projects">Reset Filters</a></p>
+  <p>Looking for projects focused on a particular technical topic, geographical area, or client? Click below to filter.<br/><a class="filter-reset" href="/our-work/the-projects">RESET FILTERS</a></p>
   <div class="button-group filter-button-group status" data-filter-group="status">
     <h3>Filter by Status</h3>
     <button class="filter--status button" data-filter=".active">Active</button>
@@ -61,6 +61,23 @@ function concatValues( obj ) {
   }
   return value;
 }
+
+  //Let's grab a data-filter paramater from the URL so we can link to prefiltered lists
+  function getParameterByName(name) {
+    if (name !== "" && name !== null && name != undefined) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    } else {
+        var arr = location.href.split("/");
+        return arr[arr.length - 1];
+    }
+
+}
+  var filterFromQuerystring = getParameterByName('filter');
+  $('button[data-filter=".' + filterFromQuerystring  + '"]').click();
+// END URL data-filtering stuff
   // var $grid = $('.grid').isotope({
   // itemSelector: '.grid-item',
   // layoutMode: 'vertical'

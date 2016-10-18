@@ -9,6 +9,13 @@ summary: 'Strengthening and improving government performance by providing techni
   and citizens. '
 layout: solution
 type: primary
+promos:
+- title: "**Our Team:** DAI Governance Experts"
+  link: "/who-we-are/the-team?filter=governance"
+- title: "**Our Work:** DAI Governance Projects"
+  link: "/our-work/the-projects?filter=governance"
+- title: "**News:** Recent Governance News"
+  link: "/news/view-more-news?filter=governance"
 ---
 
 **Building effective economic and democratic governance**

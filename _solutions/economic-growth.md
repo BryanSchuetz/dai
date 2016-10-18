@@ -11,6 +11,11 @@ type: primary
 promos:
 - title: "**Our Team:** DAI Economic Growth Experts"
   link: "/who-we-are/the-team?filter=economic-growth"
+- title: "**Our Work:** DAI Economic Growth Projects"
+  link: "/our-work/the-projects?filter=economic-growth"
+- title: "**News:** Recent Economic Growth News"
+  link: "/news/view-more-news?filter=economic-growth"
+
 ---
 
 **Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**  

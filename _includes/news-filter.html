@@ -1,6 +1,6 @@
 <div class="news-filter">
   <h3>News Filter</h3>
-  <p>Looking for news articles on a particular technical topic or geographical area? Click below to filter.</p>
+  <p>Looking for news articles on a particular technical topic or geographical area? Click below to filter.<br/><a class="filter-reset" href="/news/view-more-news">RESET FILTERS</a></p>
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" %}
@@ -51,6 +51,22 @@ function concatValues( obj ) {
   }
   return value;
 }
+  //Let's grab a data-filter paramater from the URL so we can link to prefiltered lists
+  function getParameterByName(name) {
+    if (name !== "" && name !== null && name != undefined) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    } else {
+        var arr = location.href.split("/");
+        return arr[arr.length - 1];
+    }
+
+}
+  var filterFromQuerystring = getParameterByName('filter');
+  $('button[data-filter=".' + filterFromQuerystring  + '"]').click();
+// END URL data-filtering stuff
   // var $grid = $('.grid').isotope({
   // itemSelector: '.grid-item',
   // layoutMode: 'vertical'

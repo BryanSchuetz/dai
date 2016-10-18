@@ -9,6 +9,13 @@ summary: Providing the technical skills, expertise, and local knowledge to deliv
   threats to HIV/AIDS to waterborne diseases.
 layout: solution
 type: primary
+promos:
+- title: "**Our Team:** DAI Health Experts"
+  link: "/who-we-are/the-team?filter=health"
+- title: "**Our Work:** DAI Health Projects"
+  link: "/our-work/the-projects?filter=health"
+- title: "**News:** Recent Health News"
+  link: "/news/view-more-news?filter=health"
 ---
 
 **Innovating global health solutions to save lives.**

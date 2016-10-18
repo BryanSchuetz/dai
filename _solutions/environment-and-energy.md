@@ -9,6 +9,13 @@ summary: Improved management of natural resources and important ecosystem servic
   but also can provide the foundation for sustainable development.
 layout: solution
 type: primary
+promos:
+- title: "**Our Team:** DAI Environment and Energy Experts"
+  link: "/who-we-are/the-team?filter=environment-and-energy"
+- title: "**Our Work:** DAI Environment and Energy Projects"
+  link: "/our-work/the-projects?filter=environment-and-energy"
+- title: "**News:** Recent Environment and Energy News"
+  link: "/news/view-more-news?filter=environment-and-energy"
 ---
 
 **Improved management of natural resources and important ecosystem services not only supports economic growth, and strengthens resilience to climate change but also can provide the foundation for sustainable development.**
