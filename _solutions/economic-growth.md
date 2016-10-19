@@ -15,6 +15,7 @@ promos:
   link: "/our-work/the-projects?filter=economic-growth"
 - title: "**News:** Recent Economic Growth News"
   link: "/news/view-more-news?filter=economic-growth"
+related: false
 ---
 
 **Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**  

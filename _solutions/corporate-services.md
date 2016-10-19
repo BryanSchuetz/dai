@@ -15,6 +15,7 @@ promos:
   link: "/our-work/the-projects?filter=corporate-services"
 - title: "**News:** Recent Corporate Services News"
   link: "/news/view-more-news?filter=corporate-services"
+related: false
 ---
 
 **Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices**

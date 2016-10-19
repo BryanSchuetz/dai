@@ -16,36 +16,6 @@ For more than 50 years, the true measure of our success has been the success of 
 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 
-### Management Team:
-
-{% assign contacts = site.contacts | where: 'group', 'Management' | sort: 'sort-order' %}
-{% for contact in contacts limit:2 %}
-<div class="contact">
-  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-  <div class="contact-image">
-    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
-  </div>
-  <div class="contact-summary">
-    <p>{{ contact.summary }}</p>
-  </div>
-</div>
-  {% unless forloop.last %}<hr>{% endunless %}
-{% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/management-team" class="primary-block--button contacts-button">More Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-
-### Portfolio Coordinators:
-
-{% assign contacts = site.contacts | where: 'group', 'Portfolio Coordinators' | sort: 'sort-order' %}
-{% for contact in contacts limit:2 %}
-<div class="contact">
-  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-  <div class="contact-image">
-    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
-  </div>
-  <div class="contact-summary">
-    <p>{{ contact.summary }}</p>
-  </div>
-</div>
-  {% unless forloop.last %}<hr>{% endunless %}
-{% endfor %}
-<a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators" class="primary-block--button contacts-button">More Portfolio Coordinators <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/management" class="primary-block--button contacts-button">
+Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators" class="primary-block--button contacts-button">Portfolio Coordinator Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

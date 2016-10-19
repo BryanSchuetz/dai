@@ -15,6 +15,7 @@ promos:
   link: "/our-work/the-projects?filter=digital"
 - title: "**News:** Recent Digital News"
   link: "/news/view-more-news?filter=digital"
+related: false
 ---
 
 We combine our 40-plus years of experience in global development with the latest and most relevant information and communication technology (ICT) tools. We do more than just introduce innovations on a project-by-project basis—we help build the institutions and sustainable processes that facilitate innovation on the ground.

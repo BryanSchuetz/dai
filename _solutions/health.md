@@ -16,6 +16,7 @@ promos:
   link: "/our-work/the-projects?filter=health"
 - title: "**News:** Recent Health News"
   link: "/news/view-more-news?filter=health"
+related: false
 ---
 
 **Innovating global health solutions to save lives.**
