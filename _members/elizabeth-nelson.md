@@ -3,7 +3,7 @@ title: Elizabeth Nelson
 date: 2016-01-21 22:18:43.395000000 Z
 layout: leaders
 image: "/assets/images/leaders/thumbnails/elizabeth-nelson.jpg"
-summary: Betsey, the chair of DAI’s Board of Directors, is an advisor and corporate
+summary: Betsey, the chair of DAI’s Board of Managers, is an advisor and corporate
   director for high-growth companies in the software, digital media, technology and
   Internet markets.
 sort-order: 5
