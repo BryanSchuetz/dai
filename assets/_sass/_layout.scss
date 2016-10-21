@@ -136,9 +136,12 @@ header{
   display: none;
   font-family: 'proxima-nova', helvetica, arial, sans-serif;
   background-color: $nav-gray;
-  background-image: none;
   font-size: .7rem;
   height: .7rem;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  border-style: solid;
   @include responsive(small-screens){
     float: right;
     width: 4rem;
