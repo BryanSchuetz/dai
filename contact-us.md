@@ -22,6 +22,10 @@ layout: default
     <a href="mailto:procurement@dai.com">Small Business/Procurement</a><br>
     <a href="mailto:contracts@dai.com">Contracts/Proposals</a><br>
     <a href="mailto:accountspayable@dai.com">Payment Inquiries</a></p>
+    <p><strong>Social Networks</strong><br>
+    <a href="http://twitter.com/daiglobal">Twitter</a><br>
+    <a href="http://facebook.com/daiglobal">Facebook</a><br>
+    <a href="https://www.linkedin.com/company/dai">Linkedin</a></p>
   </div>
 
   <div class="contact-us uk">

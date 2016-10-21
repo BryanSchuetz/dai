@@ -772,10 +772,10 @@ iframe{
     border: 1px solid $nav-gray;
     margin-bottom: .8rem;
     border-radius: 4px;
-    font-size: .8rem;
+    font-size: .7rem;
     color: $nav_links-main;
     @include responsive(ultra-wide-screens){
-      font-size: 1rem;
+      font-size: .9rem;
     }
     svg{
       height: .8rem;
