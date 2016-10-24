@@ -17,6 +17,9 @@ layout: default
     {% endfor %}
 {% endif %}
 {{ content }}
+{% unless page.type == 'primary' %}
+  {% include solution-queries.html %}
+{% endunless %}
 </div>
 {% if page.promos %}
   <div class="promos-list">
