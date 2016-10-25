@@ -3,32 +3,37 @@
   {% for solution in expert.solutions %}
     {% if solution == page.title %}
     {% unless gotexp == 'gotexp' %}
-    <h2>Our Experts</h2>
-    <hr>
-    {% endunless %}
-    {% assign gotexp = 'gotexp' %}
-<div class="people-block grid-item {% for expertise in expert.solutions %} {{ expertise | downcase | slugify }} {% endfor %}{% for region in expert.regions %} {{ region | slugify}} {% endfor %}">
-  <div class="expert-detailslist--metadata">
-    <h3 class="expert-details--name">{{ expert.title }}</h3>
-    <p class="expert-details--title">{{ expert.job-title }}</p>
-    </div>
-    <div class="expert-summary">
-      {% if expert.summary %}<p>{{ expert.summary | markdownify | remove:'<p>' | remove:'</p>' }}</p>{% endif %}
-    </div>
-    <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-    <hr>
-</div>
-    {% break %}
-    {% endif %}
+    <div class="block-people">
+      <h1>Our Experts</h1>
+      <hr>
+      {% endunless %}
+      {% assign gotexp = 'gotexp' %}
+  <div class="people-block grid-item {% for expertise in expert.solutions %} {{ expertise | downcase | slugify }} {% endfor %}{% for region in expert.regions %} {{ region | slugify}} {% endfor %}">
+    <div class="expert-detailslist--metadata">
+      <h3 class="expert-details--name">{{ expert.title }}</h3>
+      <p class="expert-details--title">{{ expert.job-title }}</p>
+      </div>
+      <div class="expert-summary">
+        {% if expert.summary %}<p>{{ expert.summary | markdownify | remove:'<p>' | remove:'</p>' }}</p>{% endif %}
+      </div>
+      <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+      <hr>
+  </div>
+      {% break %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
-{% endfor %}
+  {% if gotexp == 'gotexp' %}
+</div>
+  {% endif %}
 {% assign current_year = site.time | date:"%Y" | times:1 %}
 {% for project in site.projects %}
   {% for solution in project.solutions %}
     {% if solution == page.title %}
     {% if project.end > current_year %}
     {% unless gotproj == 'gotproj' %}
-    <h2>Our Projects</h2>
+    <div class="block-project">
+    <h1>Our Projects</h1>
     <hr>
     {% endunless %}
     {% assign gotproj = 'gotproj' %}
@@ -42,3 +47,6 @@
     {% endif %}
   {% endfor %}
 {% endfor %}
+{% if gotproj == 'gotproj' %}
+  </div>
+{% endif %}

@@ -270,6 +270,25 @@ aside{
   background-color: $nav_gray;
   margin-bottom: 1rem;
 }
+.block-people, .block-project{
+  @include responsive(wide-screens){
+    @include width(5);
+  }
+  @include responsive(ultra-wide-screens){
+    @include width(6);
+  }
+}
+.block-people{
+  @include responsive(wide-screens){
+    float: left;
+    margin-right: $gutter;
+  }
+}
+.block-project{
+  @include responsive(wide-screens){
+    float: right;
+  }
+}
 // 🎌 MAIN: RAIL  🎌
 
 .section-rail{
