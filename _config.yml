@@ -54,76 +54,76 @@ defaults:
     path: ''
     type: stories
   values:
-    regions: 
-    solutions: 
-    projects: 
-    clients: 
+    regions:
+    solutions:
+    projects:
+    clients:
 - scope:
     path: ''
     type: clients
   values:
-    abbr: 
+    abbr:
 - scope:
     path: ''
     type: projects
   values:
-    client: 
-    start: 
-    end: 
-    regions: 
-    country: 
-    solutions: 
+    start:
+    end:
+    client:
+    solutions:
+    regions:
+    country:
     layout: project
 - scope:
     path: ''
     type: news
   values:
-    solutions: 
-    projects: 
-    regions: 
-    clients: 
-    featured: 
+    featured:
+    solutions:
+    regions:
+    projects:
+    clients:
     layout: node
 - scope:
     path: ''
     type: members
   values:
+    summary:
     image: 400x225
-    summary: 
-    sort-order: 
+    sort-order:
     layout: leaders
 - scope:
     path: ''
     type: leaders
   values:
+    job-title:
+    summary:
     image: 400x225
-    job-title: 
-    summary: 
-    sort-order: 
+    sort-order:
     layout: leaders
 - scope:
     path: ''
     type: contacts
   values:
+    job-title:
+    email:
+    summary:
     image: 136x136
-    job-title: 
-    email: 
-    summary: 
-    group: 
+    group:
 - scope:
     path: ''
     type: experts
   values:
-    lastname: 
-    regions: 
-    solutions: 
-    layout: expert
+    lastname:
+    summary:
+    job-title:
     image: 235x235
-    summary: 
-    job-title: 
+    solutions:
+    regions:
     articles:
-    - name: 
-      article_file: 
+    - name:
+      article_file:
+    layout: expert
 excerpt_separator: "<!--more-->"
 markdown: kramdown
 destination: "./build"
@@ -138,4 +138,4 @@ exclude:
 sass:
   sass_dir: assets/_sass
   style: compressed
-baseurl: 
+baseurl:
