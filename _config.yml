@@ -67,10 +67,10 @@ defaults:
     path: ''
     type: projects
   values:
-    start: 
+    start:
     end:
     client:
-    solutions: ['Primary and Secondary Solutions']
+    solutions: ["Primary and Secondary Solutions"]
     regions:
     country:
     layout: project
