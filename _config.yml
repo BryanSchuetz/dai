@@ -67,7 +67,7 @@ defaults:
     path: ''
     type: projects
   values:
-    start:
+    start: 
     end:
     client:
     solutions: ['Primary and Secondary Solutions']
