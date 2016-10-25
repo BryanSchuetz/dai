@@ -70,7 +70,7 @@ defaults:
     start:
     end:
     client:
-    solutions: []
+    solutions: ["Primary and Secondary Solutions"]
     regions:
     country:
     layout: project
