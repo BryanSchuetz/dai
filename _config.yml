@@ -74,6 +74,9 @@ defaults:
     - Include Primary and/or Secondary Solutions
     regions:
     country:
+    promos:
+    - title: Title of promo
+      link: Link to promoted item
     layout: project
 - scope:
     path: ''
@@ -127,6 +130,12 @@ defaults:
     - name:
       article_file:
     layout: expert
+- scope:
+    path: ''
+    type: related
+  values:
+    relatedlink: include a full link to the item you want to feature
+    summary: include some text that will show up alongside the title and read more link
 excerpt_separator: "<!--more-->"
 markdown: kramdown
 destination: "./build"

@@ -11,6 +11,7 @@ layout: default
   {{ content }}
 </div>
 {% if page.promos %}
+  {% if page.promos[0].title.size >1 %}
   <div class="promos-list">
     <h4>Featured Links</h4>
   {% for promo in page.promos %}
@@ -20,4 +21,5 @@ layout: default
     </div>
   {% endfor %}
   </div>
+  {% endif %}
 {% endif %}

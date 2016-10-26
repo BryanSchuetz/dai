@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   {% include iehacks.html %}
   {% include head.html %}
-  <body {% if page.promos %}class="promos"{% endif %}>
+  <body {% if page.promos %}{% if page.promos[0].title.size > 1 %}class="promos" {% endif %}{% endif %}>
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}

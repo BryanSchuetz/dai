@@ -16,6 +16,9 @@ summary: For more than 25 years, Afghan farmers did not have access to agricultu
   U.S. Agency for International Development (USAID) grant to the Ministry of Agriculture,
   Irrigation and Livestock to provide credit to farmers, who repay their loans after
   their harvests.
+promos:
+- title: 
+  link:
 ---
 
 For more than 25 years, Afghan farmers did not have access to agricultural credit, seriously constraining the growth of farming. DAI managed a $100 million U.S. Agency for International Development (USAID) grant to the Ministry of Agriculture, Irrigation and Livestock to provide credit to farmers, who repay their loans after their harvests. We also provided technical assistance so that farmers and others who borrow from the Agricultural Development Fund are well prepared to sustain and succeed.
