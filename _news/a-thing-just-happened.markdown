@@ -1,7 +1,7 @@
 ---
 title: A Thing Just Happened
 date: 2016-10-27 19:39:00 Z
-featured: 'yes'
+featured: true
 solutions:
 - Economic Growth
 regions: Asia and the Pacific
@@ -10,6 +10,8 @@ clients: U.S. Department of State
 ---
 
 Collaboratively [administrate](http://google.com) **empowered** markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+
+<!--more-->
 
 ![2.jpg](/uploads/2.jpg)
 `Here is a caption right here`
