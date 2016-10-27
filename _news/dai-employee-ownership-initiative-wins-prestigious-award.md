@@ -10,7 +10,7 @@ regions:
 projects: 
 clients: 
 layout: node
-featured: true
+is_featured: true
 ---
 
 DAI was yesterday named an award winner at the [17th annual conference][1] of the Global Equity Organization (GEO), a professional membership organization dedicated to advancing understanding of employee share plans. DAI won in a new award category, _Best Use of a Share Plan in a Private Company._

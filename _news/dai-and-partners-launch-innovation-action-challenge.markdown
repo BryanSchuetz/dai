@@ -13,7 +13,7 @@ projects:
 clients:
 - U.S. Agency for International Development
 layout: node
-featured: true
+is_featured: true
 ---
 
 ![innovation into action](/assets/images/news/logo_news.jpg)

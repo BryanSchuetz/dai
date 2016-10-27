@@ -12,7 +12,7 @@
   <div class="section-primary">
     <h1 class="section-header">News</h1>
     <div class="primary-block full">
-      {% assign featured_news = site.news | where:"featured","true" %}
+      {% assign featured_news = site.news | where:"is_featured","true" %}
       {% assign sorted_feature = featured_news | sort: 'date' | reverse %}
       {% for article in sorted_feature limit:1 %}
       <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>

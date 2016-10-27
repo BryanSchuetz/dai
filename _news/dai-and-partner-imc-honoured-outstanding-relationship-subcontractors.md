@@ -11,7 +11,7 @@ regions:
 projects: 
 clients: U.K. Department for International Development
 layout: node
-featured: true
+is_featured: true
 ---
 
 DAI Europe Ltd. and joint venture partner IMC Worldwide recently won top honour from the U.K. Department for International Development (DFID) for supplier excellence in the category of "Fair Treatment of Subcontractors."

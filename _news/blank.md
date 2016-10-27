@@ -9,6 +9,6 @@ regions:
 projects: 
 clients: 
 layout: node
-featured: true
+is_featured: true
 ---
 

@@ -8,7 +8,7 @@ regions:
 projects: 
 clients: U.K. Department for International Development
 layout: node
-featured: true
+is_featured: true
 ---
 
 DAI recently hosted a lab session and stand on gender equality at the 10th annual European Development Days conference in Brussels.

@@ -12,7 +12,7 @@ regions:
 projects: 
 clients: 
 layout: node
-featured: true
+is_featured: true
 ---
 
 At the DAI-hosted [lab][1] at this year's European Development Days, participants were challenged to come up with creative ways of economically empowering women in developing countries. Among some of the solutions discussed were: promoting the use of information and communications technology to help more women access business financing; training banks to cater specifically to female customers; taking advantage of women's abilities to network; and encouraging donors and governments to facilitate women's participation in local and global value chains.

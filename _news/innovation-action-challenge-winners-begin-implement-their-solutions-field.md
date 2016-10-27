@@ -15,7 +15,7 @@ regions:
 projects: 
 clients: 
 layout: node
-featured: true
+is_featured: true
 ---
 
 In May 2016, DAI and its partners [announced][1] four winners in the _Innovation into Action Challenge_, a competition to identify and support products and services that will help people in developing nations tackle social and economic challenges.

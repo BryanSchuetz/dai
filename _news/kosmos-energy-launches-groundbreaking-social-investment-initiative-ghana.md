@@ -13,7 +13,7 @@ regions:
 projects: 
 clients: 
 layout: node
-featured: true
+is_featured: true
 ---
 
 [Kosmos Energy][1] today launched the [Kosmos Innovation Center (KIC)][2] in Accra, Ghana. With DAI's assistance, Kosmos will take a market-driven approach to catalyze innovation and promote youth employment in the Ghanaian agricultural sector. DAI will provide capacity building support, personnel recruitment and management, stakeholder engagement, investment due diligence, and ongoing technical assistance to the initiative.

@@ -1,7 +1,7 @@
 ---
 title: A Thing Just Happened
 date: 2016-10-27 19:39:00 Z
-featured: true
+is_featured: true
 solutions:
 - Economic Growth
 regions: Asia and the Pacific
