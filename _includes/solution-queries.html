@@ -1,13 +1,9 @@
-{% assign experts = site.experts | sort:"lastname" %}
-{% for expert in experts %}
-  {% for solution in expert.solutions %}
-    {% if solution == page.title %}
-    {% unless gotexp == 'gotexp' %}
+{% assign experts = site.experts | where_exp: "expert", "expert.solutions contains page.title" | sort: "lastname"%}
+{% if experts.size > 0 %}
     <div class="block-people">
       <h1>Our Experts</h1>
       <hr>
-      {% endunless %}
-      {% assign gotexp = 'gotexp' %}
+    {% for expert in experts %}
   <div class="people-block grid-item {% for expertise in expert.solutions %} {{ expertise | downcase | slugify }} {% endfor %}{% for region in expert.regions %} {{ region | slugify}} {% endfor %}">
     <div class="expert-detailslist--metadata">
       <h3 class="expert-details--name">{{ expert.title }}</h3>
@@ -19,34 +15,24 @@
       <a href="{{ expert.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
       <hr>
   </div>
-      {% break %}
-      {% endif %}
     {% endfor %}
-  {% endfor %}
-  {% if gotexp == 'gotexp' %}
 </div>
-  {% endif %}
+{% endif %}
 {% assign current_year = site.time | date:"%Y" | times:1 %}
-{% for project in site.projects %}
-  {% for solution in project.solutions %}
-    {% if solution == page.title %}
-    {% if project.end > current_year %}
-    {% unless gotproj == 'gotproj' %}
-    <div class="block-project">
+{% assign projects = site.projects | where_exp: "project", "project.solutions contains page.title" %}
+{% if projects.size > 0 %}
+  <div class="block-project">
     <h1>Our Projects</h1>
     <hr>
-    {% endunless %}
-    {% assign gotproj = 'gotproj' %}
-<div class="project-block grid-item {% for solution in project.solutions %} {{ solution | slugify }} {% endfor %}{% for region in project.regions %} {{ region | slugify}} {% endfor %} {% for client in project.client %} {{ client | slugify }} {% endfor %}{% if project.end < current_year %} closed {% else %} active{% endif %}">
+    {% for project in projects %}
+      {% if project.end > current_year %}
+    <div class="project-block grid-item {% for solution in project.solutions %} {{ solution | slugify }} {% endfor %}{% for region in project.regions %} {{ region | slugify}} {% endfor %} {% for client in project.client %} {{ client | slugify }} {% endfor %}{% if project.end < current_year %} closed {% else %} active{% endif %}">
     <h3>{{ project.title }}</h3>
     {% if project.summary %}<p>{{ project.summary | markdownify }}</p>{% endif %}
     <a href="{{ project.url }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
     <hr>
-  </div>
-    {% endif %}
+    </div>
     {% endif %}
   {% endfor %}
-{% endfor %}
-{% if gotproj == 'gotproj' %}
   </div>
 {% endif %}
