@@ -1,6 +1,10 @@
 #!/bin/bash
 set -ev && \
 cd ./build && \
+rm CNAME && \
+rm robots.txt && \
+touch CNAME && \
+echo "dai-global.com" >> CNAME && \
 remote_repo="https://${GITHUB_URL}@github.com/${TRAVIS_REPO_SLUG}.git" && \
 remote_branch="gh-pages" && \
 git init && \
