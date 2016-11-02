@@ -1,7 +1,7 @@
 ---
 title: Job Opportunities
 layout: node
-promos:
+promos: 
 ---
 
 DAI offers rewarding career opportunities for talented technical, managerial, and support professionals. By providing challenging assignments, a commitment to professional development, managerial systems based on teamwork, and an ownership stake in the company, we attract and retain high-caliber staff. Our workforce reflects a cultural diversity that gives us a broad spectrum of backgrounds and perspectives.
