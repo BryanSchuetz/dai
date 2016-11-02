@@ -67,6 +67,7 @@ defaults:
     path: ''
     type: projects
   values:
+    summary: 
     start:
     end:
     client:
@@ -77,7 +78,6 @@ defaults:
     promos:
     - title:
       link:
-    summary: 
     layout: project
 - scope:
     path: ''
