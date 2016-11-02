@@ -7,10 +7,18 @@ National and local governments, bilateral and multilateral donors, private corpo
 
 ## U.S. Agency for International Development
 
-[![Project Map](/assets/images/who-we-are/usaid-projects.jpg "A map of active DAI projects for USAID.")](http://dai.com/extras/maps/index.html)
+In 1973, we won our first contract with USAID to analyze 36 projects in Latin America and Africa. Since then Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit, felis sit amet tempus facilisis, elit tortor feugiat felis, ac efficitur nulla nunc vel massa. Aenean ullamcorper eget turpis vitae sagittis. Ut nec elit vitae libero rhoncus luctus ut vitae enim. Sed suscipit interdum nisl, tristique molestie risus congue a.
+
+<iframe src="/extras/maps/usaid" frameborder="0"></iframe>
 
 ## U.K. Department for International Development
-[![Project Map](/assets/images/who-we-are/dfid-projects.jpg "A map of active DAI projects for DFID.")](http://dai.com/extras/maps/index.html)
+
+Since then Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit, felis sit amet tempus facilisis, elit tortor feugiat felis, ac efficitur nulla nunc vel massa. Aenean ullamcorper eget turpis vitae sagittis. Ut nec elit vitae libero rhoncus luctus ut vitae enim. Sed suscipit interdum nisl, tristique molestie risus congue a.
+
+<iframe src="/extras/maps/dfid" frameborder="0"></iframe>
 
 ## European Commission
-[![Project Map](/assets/images/who-we-are/ec-projects.jpg "A map of active DAI projects for the EC.")](http://dai.com/extras/maps/index.html)
+
+Since then Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit, felis sit amet tempus facilisis, elit tortor feugiat felis, ac efficitur nulla nunc vel massa. Aenean ullamcorper eget turpis vitae sagittis. Ut nec elit vitae libero rhoncus luctus ut vitae enim. Sed suscipit interdum nisl, tristique molestie risus congue a.
+
+<iframe src="/extras/maps/ec" frameborder="0"></iframe>

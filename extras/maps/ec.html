@@ -53,7 +53,7 @@
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
 var map = L.mapbox.map('map',{
-  minzoom: 3,
+  minzoom: 2,
   maxzoom: 4
 }).setView([23.645, 44.824], 3);
 
@@ -62,10 +62,9 @@ map.legendControl.addLegend(document.getElementById('legend').innerHTML);
 map.addLayer(L.mapbox.tileLayer('dai.l4pp7odf'));
 L.control.layers({
     'DAI activity worldwide': L.mapbox.tileLayer('dai.l4pp7odf'),
-    'Countries with active USAID projects': L.mapbox.tileLayer('dai.6f9d4059'),
-    'Countries with active DFID projects': L.mapbox.tileLayer('dai.7e60702c'),
-    'Countries with active EC projects': L.mapbox.tileLayer('dai.7a6366a4')
+    'Countries with active EC projects': L.mapbox.tileLayer('dai.7a6366a4').addTo(map)
   }).addTo(map);
+  map.scrollWheelZoom.disable();
 </script>
 
 
