@@ -1,25 +1,22 @@
 ---
 title: Stephen Carpenter
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Carpenter
+summary: 'Stephen Carpenter is a governance specialist with 15 years of experience
+  whose field-based work has focused on anticorruption, public financial management,
+  customs modernization, and institutional strengthening. '
+job-title: Global Practice Lead, Public Financial Management
+image: "/uploads/Carpenter.jpg"
+solutions:
+- Economic Growth
+- Governance
+- Public Financial Management
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Middle East and North Africa
 - Sub-Saharan Africa
-solutions:
-- Economic Growth
-- Governance
-- Public Financial Management
 layout: expert
-image: "/assets/images/experts/Carpenter-Inner.jpg"
-summary: 'Stephen Carpenter is a governance specialist with 15 years of experience
-  whose field-based work has focused on anticorruption, public financial management,
-  customs modernization, and institutional strengthening. '
-job-title: Global Practice Lead, Public Financial Management
-articles:
-- name: 
-  article_file: 
 ---
 
 Stephen Carpenter is a governance specialist with 15 years of experience whose field-based work has focused on anticorruption, public financial management, customs modernization, and institutional strengthening.
