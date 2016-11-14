@@ -12,6 +12,7 @@ solutions:
 - Decentralization and Local Government Management
 - Governance
 regions: Asia and the Pacific
+country: 'Philippines, Sri Lanka, Vietnam '
 Key: 'The Municipal Waste Recycling Project  works in the Philippines, Sri Lanka,
   and Vietnam to provide grants and technical assistance to waste recycling programs,
   with a particular focus on improving waste management practices and reducing plastics
