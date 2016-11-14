@@ -24,7 +24,5 @@ DAI will support Development Innovations Group in the implementation of MWRP by 
 ## Sample Activities
 
 * Support the development of a grants manual to communicate consistent application and evaluation criteria to project team and grant applicants.
-
 * Conduct a study on municipal solid waste in the three target countries to inform grant program design.
-
 * Identify promising potential grant recipients, evaluate grant proposals, and analyze effectiveness of grantee programs to collect lessons and insights for future waste recycling initiatives.
