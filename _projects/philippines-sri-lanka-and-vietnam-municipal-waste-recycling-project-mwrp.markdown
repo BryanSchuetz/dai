@@ -19,6 +19,8 @@ In 2015, the U.S. Agency for International Development (USAID) received a Congre
 
 DAI will support Development Innovations Group in the implementation of MWRP by helping to create a grants program that will provide startup funding for promising new approaches to municipal waste management. The team will evaluate grantees throughout the project to collect insights for future USAID recycling initiatives, as well as facilitate international knowledge sharing on municipal waste management and recycling best practices.
 
+![MWRP_photo.jpg](/uploads/MWRP_photo.jpg)
+
 ## Sample Activities
 
 * Support the development of a grants manual to communicate consistent application and evaluation criteria to project team and grant applicants.
