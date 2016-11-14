@@ -1,10 +1,10 @@
 ---
 title: Philippines, Sri Lanka, and Vietnam—Municipal Waste Recycling Project (MWRP)
 date: 2016-11-14 20:46:00 Z
-Key: 'The Municipal Waste Recycling Project  works in the Philippines, Sri Lanka,
+summary: The Municipal Waste Recycling Project works in the Philippines, Sri Lanka,
   and Vietnam to provide grants and technical assistance to waste recycling programs,
   with a particular focus on improving waste management practices and reducing plastics
-  pollution in marine environments. '
+  pollution in marine environments.
 start: 2016
 end: 2020
 client: U.S. Agency for International Development
@@ -12,6 +12,10 @@ solutions:
 - Decentralization and Local Government Management
 - Governance
 regions: Asia and the Pacific
+Key: 'The Municipal Waste Recycling Project  works in the Philippines, Sri Lanka,
+  and Vietnam to provide grants and technical assistance to waste recycling programs,
+  with a particular focus on improving waste management practices and reducing plastics
+  pollution in marine environments. '
 ---
 
 In 2015, the U.S. Agency for International Development (USAID) received a Congressional Directive to support increased recycling of waste that threatens human health and the environment, and that, if recycled, could generate income, improve agriculture, and produce energy. As part of this objective, USAID has launched the Municipal Waste Recycling Project (MWRP), which will work in the Philippines, Sri Lanka, and Vietnam to provide grants and technical assistance to waste recycling programs, with a particular focus on improving waste management practices and reducing plastics pollution in marine environments. Successful pilot programs and lessons learned from MWRP will help guide USAID efforts to scale up municipal waste recycling programs in other countries around the world.
