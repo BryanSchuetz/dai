@@ -34,20 +34,19 @@ FED is Africa’s largest project under the U.S. Goverment’s Feed the Future I
 
 ###  Select Results
 
-* Established value chains for rice, cassava, vegetables, and goats which did not exist five short years ago.
-* Reached more than 100,000 beneficiaries and dramatically increased the number of farmers applying new technologies as well as the number of hectares under improved technologies.
-* Increased access to finance among rural women, mobilizing US$1.6 million in loans to approximately 12,000 rural women which were used to start new micro-enterprises and provide for essential family expenses such as health care and school fees.
+* Established value chains for rice, cassava, vegetables, and goats, which did not exist five years ago.
+* Reached more than 100,000 beneficiaries and dramatically increased the number of farmers applying new technologies and the number of hectares under improved technologies.
+* Increased access to finance among rural women, mobilizing US$1.6 million in loans to approximately 12,000 rural women, which were used to start new micro-enterprises and provide for essential family expenses such as health care and school fees.
 * Piloted productivity enhancing technologies, including treadle pumps, tube wells, power-tillers, rice de-hullers, and application of Urea Deep Placement.
 * Developed extension manuals and brochures used by hundreds of farmers.
-* Provided technical training in agriculture [best practices][4] for 18,646 farmers.
-* Training has led to more than 14,000 farmers applying improved technologies in more than 2,634 hectares.
+* Provided technical training in agriculture [best practices][4] for nearly 19,000 farmers.
+* Training led to more than 14,000 farmers applying improved technologies in more than 2,600 hectares.
 * Provided 224 interns with life-changing work experience across 54 Liberian businesses.
-* Engaged 1,138 youth through the "Back to the School Garden" initiative to get youth involved in agricultural best practices.
-* Trained 164 women in food processing and preservation skills so they can jump-start their own businesses.
+* Engaged more than 1,100 youth through the "Back to the School Garden" initiative to get youth involved in agricultural best practices.
+* Trained 164 women in food processing and preservation skills so they can jumpstart their own businesses.
 * Generated private sector investment of $422,600 in rice seed production, vegetable seedling, and goat shelters.
-* Provided 435 textbooks to four educational institutions, benefitting nearly 3,000 students and instructors.
 * Forty-five percent of FED's beneficiaries are youth (ages 16 to 35), while 48 percent are women.
-* Played a crucial role in the development of Liberia's first National Agriculture Diploma Curriculum, which was tested in key vocational institutions. A total of 2,861 students and instructors benefited from FED's assistance, including establishment of demonstration farms, provision of textbooks and training aimed at improving the quality of instruction.
+* Assisted development of Liberia's first National Agriculture Diploma Curriculum, which was tested in key vocational institutions. Nearly 3,000 students and instructors benefited from FED's assistance, including establishment of demonstration farms, provision of 435 textbooks, and training to improve the quality of instruction.
 
 
 [1]: http://afkinsider.com/45636/agriculture-meets-education-usaid-back-to-school-farming-program/
