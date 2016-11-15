@@ -17,7 +17,7 @@ country:
 layout: project
 ---
 
-Half of all Liberians generate their income through agriculture, yet agriculture previously was not seen as a business by the vast majority of Liberian farmers. Using an approach tailored to specific conditions and locations, FED helped Liberia achieve increased food security—in terms of food availability, utilization, and affordability—by building incentive structures that assisted local stakeholders to adopt a commercial approach.
+Half of all Liberians generate their income through agriculture, yet agriculture previously was not seen as a business by the vast majority of Liberian farmers. Using an approach tailored to specific conditions and locations, FED helped Liberia achieve increased food security—in terms of food availability, utilization, and affordability—by building incentive structures that assisted local stakeholders to adopt a commercial approach. Change here
 
 Our market-led and value chain-driven methodology built indigenous capacity, and focused on benefiting Liberia’s women and [youth](http://afkinsider.com/45636/agriculture-meets-education-usaid-back-to-school-farming-program/). New market linkages catalyzed income and job growth and increased in the production, processing, marketing, and nutritional utilization of rice, cassava, and vegetables in Bong, Lofa, Nimba, Grand Bassa, Montserrado, and Margibi counties, a region targeted as a development corridor that fosters commerce, simultaneously [improving food availability](http://www.goodfoodworld.com/2013/09/development-aid-programs-target-small-scale-farmers-to-ramp-up-production-in-food-insecure-liberia/) and access and dietary diversity.
 
