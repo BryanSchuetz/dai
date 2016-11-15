@@ -1,28 +1,27 @@
 ---
 title: Liberia—Food and Enterprise Development Program (FED)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: Half of all Liberians generate their income through agriculture, yet agriculture
+  is not seen as a business by the vast majority of Liberian farmers.
 start: 2011
 end: 2016
-regions:
-- Sub-Saharan Africa
-country:
-- Liberia
+client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Health
+regions:
+- Sub-Saharan Africa
+country:
+- Liberia
 layout: project
-summary: Half of all Liberians generate their income through agriculture, yet agriculture
-  is not seen as a business by the vast majority of Liberian farmers.
 ---
 
-Half of all Liberians generate their income through agriculture, yet agriculture is not seen as a business by the vast majority of Liberian farmers. Using an approach tailored to specific conditions and locations, this project is helping Liberia achieve food security—in terms of food availability, utilization, and affordability—by building incentive structures that assist local stakeholders to adopt a commercial approach.
+Half of all Liberians generate their income through agriculture, yet agriculture previously was not seen as a business by the vast majority of Liberian farmers. Using an approach tailored to specific conditions and locations, FED helped Liberia achieve increased food security—in terms of food availability, utilization, and affordability—by building incentive structures that assisted local stakeholders to adopt a commercial approach.
 
-Our market-led and value chain-driven methodology builds indigenous capacity, and focuses on benefiting Liberia's women and [youth][1]. New market linkages are catalyzing income and job growth and increases in the production, processing, marketing, and nutritional utilization of rice, cassava, and vegetables in Bong, Lofa, Nimba, Grand Bassa, Montserrado, and Margibi counties, a region targeted as a development corridor that fosters commerce, simultaneously [improving food availability][2] and access and dietary diversity.
+Our market-led and value chain-driven methodology built indigenous capacity, and focused on benefiting Liberia’s women and [youth](http://afkinsider.com/45636/agriculture-meets-education-usaid-back-to-school-farming-program/). New market linkages catalyzed income and job growth and increased in the production, processing, marketing, and nutritional utilization of rice, cassava, and vegetables in Bong, Lofa, Nimba, Grand Bassa, Montserrado, and Margibi counties, a region targeted as a development corridor that fosters commerce, simultaneously [improving food availability](http://www.goodfoodworld.com/2013/09/development-aid-programs-target-small-scale-farmers-to-ramp-up-production-in-food-insecure-liberia/) and access and dietary diversity.
 
-FED is Africa's largest project under President Barack Obama's Feed the Future Initiative, which promotes a move away from subsistence and increasing food security by working with public and private bodies, including the Government of Liberia, the private sector, local nongovernmental groups, and other key stakeholders.
-
+FED is Africa’s largest project under the U.S. Goverment’s Feed the Future Initiative, which promotes a move away from subsistence and increasing food security by working with public and private bodies, including the Government of Liberia, private sector, local nongovernmental groups, and other key stakeholders.
 ![][3]
 
 ###  Sample Activities
@@ -35,6 +34,9 @@ FED is Africa's largest project under President Barack Obama's Feed the Future I
 
 ###  Select Results
 
+* Established value chains for rice, cassava, vegetables, and goats which did not exist five short years ago.
+* Reached more than 100,000 beneficiaries and dramatically increased the number of farmers applying new technologies as well as the number of hectares under improved technologies.
+* Increased access to finance among rural women, mobilizing US$1.6 million in loans to approximately 12,000 rural women which were used to start new micro-enterprises and provide for essential family expenses such as health care and school fees.
 * Piloted productivity enhancing technologies, including treadle pumps, tube wells, power-tillers, rice de-hullers, and application of Urea Deep Placement.
 * Developed extension manuals and brochures used by hundreds of farmers.
 * Provided technical training in agriculture [best practices][4] for 18,646 farmers.
