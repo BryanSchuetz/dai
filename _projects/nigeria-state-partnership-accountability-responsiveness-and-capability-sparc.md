@@ -1,51 +1,53 @@
 ---
-title: Nigeria—State Partnership for Accountability Responsiveness and Capability
-  (SPARC)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+title: Nigeria—Nigeria Accountable, Responsive, and Capable Government (ARC)
+date: 2016-01-21 22:40:00 Z
+summary: SPARC is building the capacity of Nigeria's state governments to support
+  responsive planning and policy formulation, enhanced public financial management
+  and human resources systems, and performance-focused public service.
 start: 2008
 end: 2016
-regions:
-- Sub-Saharan Africa
-country:
-- Nigeria
+client: U.K. Department for International Development
 solutions:
 - Governance
 - Decentralization and Local Government Management
 - Institutional and Policy Reform
 - Security and Justice Development
 - Public Financial Management
+regions:
+- Sub-Saharan Africa
+country:
+- Nigeria
 layout: project
-summary: SPARC is building the capacity of Nigeria's state governments to support
-  responsive planning and policy formulation, enhanced public financial management
-  and human resources systems, and performance-focused public service.
 ---
 
-SPARC is building the capacity of Nigeria's state governments to support responsive planning and policy formulation, enhanced public financial management and human resources systems, and performance-focused public service. The programme was initially active in the states of Lagos, Enugu, Kaduna, Kano, and Jigawa, with five more states added in 2012. Because SPARC works with only a selection of Nigeria's 36 states, federal institutions are being assisted in their capacity to support the reform process across the federation. State-to-state learning and knowledge exchange has also been encouraged.
+Nigeria is Africa’s largest economy and one that continues to grows in size and dynamism. However, inefficient resource management, corruption, and a lack of accountability have undermined the government’s ability to translate this economic progress into inclusive growth and improved public services for more Nigerians. Advancements in public administration, public financial management, and enhanced policy making will be crucial in helping the Nigerian government provide better services to its citizen and reduce high levels of poverty.
 
-[SPARC][1] generates success by being embedded and responsive through political and programming cycles, and through technical and political engagement approaches that are politically savvy and locally led.
+To promote progress in these key areas, the UK Department for International Development (DFID) launched the Accountable, Responsive, and Capable Government (ARC) programme to support the Nigerian government in more effectively managing resources and providing more responsive and accountable services to its citizens. ARC will work at both the state and national levels to build on the success of its predecessor program, the State Partnership for Accountability Responsiveness and Capability (SPARC). Over seven years, SPARC helped to support responsive policy formulation and encourage performance-focused public service in Nigeria by helping state governments to improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning.
 
-![][2]
+In implementing ARC, DAI will take a collective action approach to reducing corruption and strengthening public accountability by working with stakeholders both inside and outside of government. ARC will also utilize Problem-Driven Iterative Adaptation methods to improve public services by involving community members in identifying and solving specific issues.
 
-###  Sample Activities
+Sample Activities
 
-* Develop best-fit, state-specific public service reform plans with flexible approaches for 10 states and support implementation.
-* Manage state self-assessments that lead to locally owned planning.
-* Improve government monitoring and evaluation systems.
-* Strengthen public financial management systems to reduce waste and improve budget realism, including working with key state ministries to support introduction of tools such as the Medium-Term Expenditure Framework, which build stronger linkages between policies and budgets.
-* Improve domestic revenue strategies and implementation plans.
-* Support knowledge management initiatives within the work streams of lead states, enabling wider and rapid replication and adoption in non-lead states and at the federal level.
+* Support state partners in moving to e-government services that create more secure, paperless platforms, and enhance service delivery while reducing costs.
 
-###  Select Results
 
-* Supported eight State Development Plans with better linking to budgets.
-* Assisted states to produce and roll out 38 medium-term strategies in sectors such as education, health, and agriculture. Supported 65 corporate plans leading to reorganisation of key ministries.
-* Closed more than 500 dormant accounts, resulting in savings in Nigeria of N12 billion and in Enugu of N521 million.
-* Supported Human Resources Management Information Systems that resulted in the elimination of more than 5,000 ghost workers across lead states.
-* Deployed strategies for Domestic Revenue Mobilization (DMR) in nine states, resulting, for example, in increased DMR of N400 million in Nigeria in the first six months of implementation and N13 billion in Kaduna state in 2014.
-* Increased spending on education and health—for each £1 spent by SPARC from 2010–2013, target state governments spent an additional £8 on education and health.
-* Helped enroll nearly 2.1 million additional children (53 percent girls) in primary and junior secondary schools and ensured that an additional estimated 300,000 children (49 percent girls) received basic vaccinations.
-* Strengthened budget preparation processes; Nigeria's budget variance for expenditures decreased from 50 percent in 2011 to 15 percent in 2013.
+* Strengthen capacity of Nigerian think tanks to deliver high-quality research and use results for advocacy and to contribute to the country’s current policy debates.
 
-[1]: http://www.sparc-nigeria.com/
-[2]: /assets/images/projects/SPARCtax.jpg
+
+* Improve delivery of government services for marginalised groups, such as women living in poverty and people with disabilities, by collaborating with the State Accountability and Voice Initiative.
+
+Select Results
+
+* SPARC helped state governments collect an additional £600 million in funds to support public services by improving domestic revenue mobilization, reclaiming funds from dormant bank accounts, reducing procurement costs, and recovering outstanding debts.
+
+
+* SPARC supported the development of 10 [State Development Plans](http://www.eldis.org/go/latest-news/news/five-key-lessons-on-effective-governance-reform-from-sparc-nigeria) and strengthened linkage to budgets.
+
+
+* SPARC advocated for increased state spending on health and education, contributing to an additional £329 million in these sectors, which resulted in 2.1 million additional children enrolling in school and an additional 300,000 children receiving basic vaccinations.
+
+
+* SPARC set up an online resource center with more than 60 documents, resources, and reports that shared best practices, lessons learned, and data from SPARC activities.
+
+Client: U.K. Department for International Development
+Contract: 2008-2016; 2016-2021
