@@ -5,8 +5,8 @@ summary: Nigeria is Africa’s largest economy and one that continues to grows i
   and dynamism. However, inefficient resource management, corruption, and a lack of
   accountability have undermined the government’s ability to translate this economic
   progress into inclusive growth and improved public services for more Nigerians.
-start: 2008
-end: 2016; 2016-2021
+start: 2016
+end: 2020
 client: U.K. Department for International Development
 solutions:
 - Governance
@@ -32,22 +32,12 @@ In implementing ARC, DAI will take a collective action approach to reducing corr
 ### Sample Activities
 
 * Support state partners in moving to e-government services that create more secure, paperless platforms, and enhance service delivery while reducing costs.
-
-
 * Strengthen capacity of Nigerian think tanks to deliver high-quality research and use results for advocacy and to contribute to the country’s current policy debates.
-
-
 * Improve delivery of government services for marginalised groups, such as women living in poverty and people with disabilities, by collaborating with the State Accountability and Voice Initiative.
 
 ### Select Results
 
 * SPARC helped state governments collect an additional £600 million in funds to support public services by improving domestic revenue mobilization, reclaiming funds from dormant bank accounts, reducing procurement costs, and recovering outstanding debts.
-
-
 * SPARC supported the development of 10 [State Development Plans](http://www.eldis.org/go/latest-news/news/five-key-lessons-on-effective-governance-reform-from-sparc-nigeria) and strengthened linkage to budgets.
-
-
 * SPARC advocated for increased state spending on health and education, contributing to an additional £329 million in these sectors, which resulted in 2.1 million additional children enrolling in school and an additional 300,000 children receiving basic vaccinations.
-
-
 * SPARC set up an online resource center with more than 60 documents, resources, and reports that shared best practices, lessons learned, and data from SPARC activities.
