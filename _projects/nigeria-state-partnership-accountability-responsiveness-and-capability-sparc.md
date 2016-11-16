@@ -5,7 +5,7 @@ summary: SPARC is building the capacity of Nigeria's state governments to suppor
   responsive planning and policy formulation, enhanced public financial management
   and human resources systems, and performance-focused public service.
 start: 2008
-end: 2016
+end: 2016; 2016-2021
 client: U.K. Department for International Development
 solutions:
 - Governance
@@ -48,6 +48,3 @@ Select Results
 
 
 * SPARC set up an online resource center with more than 60 documents, resources, and reports that shared best practices, lessons learned, and data from SPARC activities.
-
-Client: U.K. Department for International Development
-Contract: 2008-2016; 2016-2021
