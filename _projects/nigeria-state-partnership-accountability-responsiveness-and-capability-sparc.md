@@ -27,7 +27,9 @@ To promote progress in these key areas, the UK Department for International Deve
 
 In implementing ARC, DAI will take a collective action approach to reducing corruption and strengthening public accountability by working with stakeholders both inside and outside of government. ARC will also utilize Problem-Driven Iterative Adaptation methods to improve public services by involving community members in identifying and solving specific issues.
 
-Sample Activities
+![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
+
+###Sample Activities
 
 * Support state partners in moving to e-government services that create more secure, paperless platforms, and enhance service delivery while reducing costs.
 
@@ -37,9 +39,7 @@ Sample Activities
 
 * Improve delivery of government services for marginalised groups, such as women living in poverty and people with disabilities, by collaborating with the State Accountability and Voice Initiative.
 
-![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
-
-Select Results
+###Select Results
 
 * SPARC helped state governments collect an additional £600 million in funds to support public services by improving domestic revenue mobilization, reclaiming funds from dormant bank accounts, reducing procurement costs, and recovering outstanding debts.
 
