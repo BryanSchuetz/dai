@@ -29,7 +29,7 @@ In implementing ARC, DAI will take a collective action approach to reducing corr
 
 ![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
 
-###Sample Activities
+### Sample Activities
 
 * Support state partners in moving to e-government services that create more secure, paperless platforms, and enhance service delivery while reducing costs.
 
@@ -39,7 +39,7 @@ In implementing ARC, DAI will take a collective action approach to reducing corr
 
 * Improve delivery of government services for marginalised groups, such as women living in poverty and people with disabilities, by collaborating with the State Accountability and Voice Initiative.
 
-###Select Results
+### Select Results
 
 * SPARC helped state governments collect an additional £600 million in funds to support public services by improving domestic revenue mobilization, reclaiming funds from dormant bank accounts, reducing procurement costs, and recovering outstanding debts.
 
