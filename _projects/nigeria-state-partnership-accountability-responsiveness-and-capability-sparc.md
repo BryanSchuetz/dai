@@ -37,7 +37,7 @@ Sample Activities
 
 * Improve delivery of government services for marginalised groups, such as women living in poverty and people with disabilities, by collaborating with the State Accountability and Voice Initiative.
 
-\(/uploads/SPARCtax.jpg)
+![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
 
 Select Results
 
