@@ -1,9 +1,10 @@
 ---
 title: Nigeria—Nigeria Accountable, Responsive, and Capable Government (ARC)
 date: 2016-01-21 22:40:00 Z
-summary: SPARC is building the capacity of Nigeria's state governments to support
-  responsive planning and policy formulation, enhanced public financial management
-  and human resources systems, and performance-focused public service.
+summary: Nigeria is Africa’s largest economy and one that continues to grows in size
+  and dynamism. However, inefficient resource management, corruption, and a lack of
+  accountability have undermined the government’s ability to translate this economic
+  progress into inclusive growth and improved public services for more Nigerians.
 start: 2008
 end: 2016; 2016-2021
 client: U.K. Department for International Development
