@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Nigeria Accountable, Responsive, and Capable Government (ARC)
+title: Nigeria—Accountable, Responsive, and Capable Government (ARC)
 date: 2016-01-21 22:40:00 Z
 summary: Nigeria is Africa’s largest economy and one that continues to grows in size
   and dynamism. However, inefficient resource management, corruption, and a lack of
