@@ -17,8 +17,14 @@ solutions:
 - Security and Justice Development
 - Stability
 layout: project
-summary: Kenya is one of Africa’s longest-running democracies, a regional economic powerhouse, and a critical ally in the fight against violent extremism. After Kenyan troops entered Somalia in 2011 under Operation Linda Nchi (“Protect the Country”), the terrorist group Al-Shabaab and its Kenyan affiliate al-Hijra have reacted by carrying out increasingly audacious attacks on targets within Kenya, including assaults on buses, churches, mosques, shopping malls, and universities.
+summary: Kenya is one of Africa’s longest-running democracies, a regional economic
+  powerhouse, and a critical ally in the fight against violent extremism. After Kenyan
+  troops entered Somalia in 2011 under Operation Linda Nchi (“Protect the Country”),
+  the terrorist group Al-Shabaab and its Kenyan affiliate al-Hijra have reacted by
+  carrying out increasingly audacious attacks on targets within Kenya, including assaults
+  on buses, churches, mosques, shopping malls, and universities.
 ---
+
 Kenya is one of Africa’s longest-running democracies, a regional economic powerhouse, and a critical ally in the fight against violent extremism. After Kenyan troops entered Somalia in 2011 under Operation Linda Nchi (“Protect the Country”), the terrorist group Al-Shabaab and its Kenyan affiliate al-Hijra have reacted by carrying out increasingly audacious attacks on targets within Kenya, including assaults on buses, churches, mosques, shopping malls, and universities. The escalating violence has in turn exacerbated existing tensions between Kenyan Christians and Muslim populations, which extremist groups take advantage of to fuel their victimization narratives and recruit disenfranchised individuals to their cause.
 
 In response to this growing extremist threat, the Ni Wetu Ni Wajibu Wetu (NIWETU) program was launched by the U.S. Agency for International Development to empower Kenyan communities and government institutions to take the lead on countering violent extremism (CVE). NIWETU will work to address the root causes of extremism by fostering a sense of unity and tolerance among individuals, communities, and civil society groups, as well as provide CVE training to government institutions at the county and national levels. “Ni Wetu Ni Wajibu Wetu” is a Kiswahili phrase meaning “We are responsible,” and is inspired by verses in the Kenyan national anthem and the Constitution of Kenya.

@@ -1,14 +1,18 @@
 ---
 title: DAI Named Prime Partner of the Year for 2016
 date: 2016-10-11 18:05:00 Z
-summary: DAI is delighted to announce that it has been named Prime Partner of the Year by the Montgomery County Chamber of Commerce (MCCC). The award is designed "to recognize a prime contractor who demonstrates excellence in sub-contracting and support to small businesses to accelerate their success."
-solutions:
-regions:
-projects:
-clients:
+summary: DAI is delighted to announce that it has been named Prime Partner of the
+  Year by the Montgomery County Chamber of Commerce (MCCC). The award is designed
+  "to recognize a prime contractor who demonstrates excellence in sub-contracting
+  and support to small businesses to accelerate their success."
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 is_featured: true
 ---
+
 DAI is delighted to announce that it has been named Prime Partner of the Year by the Montgomery County Chamber of Commerce (MCCC). The award is designed "to recognize a prime contractor who demonstrates excellence in sub-contracting and support to small businesses to accelerate their success." Past winners include Northrup Grumman, Booz Allen Hamilton, and Lockheed Martin.
 
 <!--more-->

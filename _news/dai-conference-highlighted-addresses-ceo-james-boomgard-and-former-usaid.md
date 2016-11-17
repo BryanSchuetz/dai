@@ -1,14 +1,21 @@
 ---
-title: DAI Conference Highlighted by Addresses from CEO James Boomgard and Former USAID Administrator Rajiv Shah
+title: DAI Conference Highlighted by Addresses from CEO James Boomgard and Former
+  USAID Administrator Rajiv Shah
 date: 2016-10-07 18:05:00 Z
-summary: The DAI Global Staff Conference launched Monday, October 3, convening more than 600 staff from DAI headquarters in Washington and London and from project locations all over the world. The weeklong conference in Washington welcomed an array of guests to help DAI staff celebrate successes, absorb lessons learned from across the company's portfolio, and discuss ways to improve collaboration and deepen the impact of projects worldwide.
-solutions:
-regions:
-projects:
-clients:
+summary: The DAI Global Staff Conference launched Monday, October 3, convening more
+  than 600 staff from DAI headquarters in Washington and London and from project locations
+  all over the world. The weeklong conference in Washington welcomed an array of guests
+  to help DAI staff celebrate successes, absorb lessons learned from across the company's
+  portfolio, and discuss ways to improve collaboration and deepen the impact of projects
+  worldwide.
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 is_featured: false
 ---
+
 The DAI Global Staff Conference launched Monday, October 3, convening more than 600 staff from DAI headquarters in Washington and London and from project locations all over the world. The weeklong conference in Washington welcomed an array of guests to help DAI staff celebrate successes, absorb lessons learned from across the company's portfolio, and discuss ways to improve collaboration and deepen the impact of projects worldwide.
 
 ![][1]{:.float-left}On Monday, DAI experts in economic growth, environment, governance, global health, and other technical areas met to compare activities, share viewpoints, and prepare for the week.

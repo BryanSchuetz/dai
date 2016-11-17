@@ -1,16 +1,20 @@
 ---
-title: Following Private Sector Advocacy, Kenya Repeals Law That Deterred Foreign Investment
+title: Following Private Sector Advocacy, Kenya Repeals Law That Deterred Foreign
+  Investment
 date: 2016-11-16 18:05:00 Z
-summary: A 2015 Kenya law that required 30-percent Kenyan ownership of businesses registered by foreign firms was recently repealed after successful advocacy by the business community with direct support from an economic growth program led by DAI.
+summary: A 2015 Kenya law that required 30-percent Kenyan ownership of businesses
+  registered by foreign firms was recently repealed after successful advocacy by the
+  business community with direct support from an economic growth program led by DAI.
 solutions:
 - Economic Growth
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 is_featured: false
 ---
+
 A 2015 Kenya law that required 30-percent Kenyan ownership of businesses registered by foreign firms was recently repealed after successful advocacy by the business community with direct support from an economic growth program led by DAI.
 
 The [East Africa Trade and Investment Hub][1], which is funded by the U.S. Agency for International Development, and its partner, the Kenya Private Sector Alliance, realized that the law sent the wrong signal to foreign investors—especially for a country recently feted by the World Bank as the third-most-reformed country in the Doing Business Index for the second year in a row, moving up 21 places to position 92 in the index.

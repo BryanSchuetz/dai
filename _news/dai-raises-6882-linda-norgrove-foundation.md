@@ -1,14 +1,18 @@
 ---
 title: DAI Raises $6,882 for the Linda Norgrove Foundation
 date: 2016-10-21 18:05:00 Z
-summary: DAI staff recently raised $6,882 for the Linda Norgrove Foundation during annual activities to observe the October 8, 2010, passing of the DAI staff member. The foundation gives grants to assist programs in Afghanistan that help women and children affected by the war.
-solutions:
-regions:
-projects:
-clients:
+summary: DAI staff recently raised $6,882 for the Linda Norgrove Foundation during
+  annual activities to observe the October 8, 2010, passing of the DAI staff member.
+  The foundation gives grants to assist programs in Afghanistan that help women and
+  children affected by the war.
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 is_featured: false
 ---
+
 DAI staff recently raised $6,882 for the [Linda Norgrove Foundation][1] during annual activities to observe the October 8, 2010, passing of the DAI staff member. The foundation gives grants to assist programs in Afghanistan that help women and children affected by the war.
 
 Fundraising events included a lunch meeting with the Norgrove family, casual dress day, food and drink sales, and the annual DAI 5-kilometer Fun Run/Walk in Bethesda, Maryland.

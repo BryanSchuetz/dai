@@ -1,17 +1,22 @@
 ---
-title: |
-  Ten Years Later: Steven Rosenberg, “Creative Father” of Serbia’s Association for Local Economic Development
+title: 'Ten Years Later: Steven Rosenberg, “Creative Father” of Serbia’s Association
+  for Local Economic Development
+
+'
 date: 2016-11-03 18:05:00 Z
-summary: Ten years after DAI helped Serbia launch its National Association for Local Economic Development (NALED), NALED stands as an example for local institution building and deep-rooted development that endures.
+summary: Ten years after DAI helped Serbia launch its National Association for Local
+  Economic Development (NALED), NALED stands as an example for local institution building
+  and deep-rooted development that endures.
 solutions:
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 is_featured: false
 ---
+
 Ten years after DAI helped Serbia launch its National Association for Local Economic Development (NALED), NALED stands as an example for local institution building and deep-rooted development that endures. Now well established with [myriad accomplishments][1] to its credit, NALED celebrated its 10th anniversary in September 2016 with a [gala][2] in Belgrade that attracted more than 600 political and business leaders, mayors, representatives of state institutions and international organizations, and diplomats.
 
 For "[10 Years of NALED: Celebrating Reform][3]," NALED interviewed Steven Rosenberg, pictured below left with former U.S. Ambassador to Serbia Michael Polt. Called the "creative father" of NALED, Rosenberg served as DAI's Chief of Party on the U.S. Agency for International Development (USAID)'s [Serbia Local Government Reform Program][4] (2001–2005) and Serbia Municipal Economic Growth Activity (MEGA, 2005–2008, subcontracted to Urban Institute). Rosenberg, who lives in Bethesda, Maryland, reflected on the association's launch, success, and prospects for the future:

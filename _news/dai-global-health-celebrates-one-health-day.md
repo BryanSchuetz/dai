@@ -1,15 +1,17 @@
 ---
 title: DAI Global Health Celebrates One Health Day
 date: 2016-11-03 18:05:00 Z
-summary: DAI Global Health celebrates globally the first annual One Health Day on November 3.
+summary: DAI Global Health celebrates globally the first annual One Health Day on
+  November 3.
 solutions:
 - Health
-regions:
-projects:
-clients:
+regions: 
+projects: 
+clients: 
 layout: node
 is_featured: false
 ---
+
 DAI Global Health celebrates globally the first annual One Health Day on November 3.
 
 The [USAID Preparedness & Response][1] project, tasked with working with country governments in Asia and Africa to prevent, detect, and respond to emerging disease threats, held a One Health conference in Thailand with government leaders and civil society partners, and worked with the government of Uganda to launch its One Health platform.

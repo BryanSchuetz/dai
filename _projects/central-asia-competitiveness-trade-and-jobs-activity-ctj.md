@@ -12,8 +12,11 @@ solutions:
 - Economic Growth
 - Sustainable Livelihoods
 layout: project
-summary: A quarter of a century after the disintegration of the Soviet Union, the Central Asian Republics have yet to realize full regional integration or sustained economic growth outside of the oil and gas industries.
+summary: A quarter of a century after the disintegration of the Soviet Union, the
+  Central Asian Republics have yet to realize full regional integration or sustained
+  economic growth outside of the oil and gas industries.
 ---
+
 A quarter of a century after the disintegration of the Soviet Union, the Central Asian Republics have yet to realize full regional integration or sustained economic growth outside of the oil and gas industries. In addition, state control over business freedoms and rivalries among national governments have led to restrictive trade policies and stifled private sector investment, resulting in a stagnant economy and limited job opportunities. Large segments of the population remain mired in poverty, resulting in migration to find work and vulnerability to recruitment by violent extremist groups.
 
 The U.S. Government's New Silk Road Initiative is supporting Central Asia to regain its place at the center of renewed trade between the East and West. An integral part of the initiative is the Competitiveness, Trade, and Jobs (CTJ) Activity, funded by the U.S. Agency for International Development (USAID), which will work in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to improve the region's trade environment, resulting in growth for exports and increased employment.

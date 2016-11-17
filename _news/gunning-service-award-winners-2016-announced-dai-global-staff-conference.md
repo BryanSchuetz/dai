@@ -1,14 +1,17 @@
 ---
 title: Gunning Service Award Winners for 2016 Announced at DAI Global Staff Conference
 date: 2016-10-04 18:05:00 Z
-summary: On October 4, at the DAI Global Staff Conference in Rockville, Maryland, DAI was delighted to announce the 2016 winners of the David H. Gunning Award for Community Service.
-solutions:
-regions:
-projects:
-clients:
+summary: On October 4, at the DAI Global Staff Conference in Rockville, Maryland,
+  DAI was delighted to announce the 2016 winners of the David H. Gunning Award for
+  Community Service.
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 is_featured: false
 ---
+
 On October 4, at the DAI Global Staff Conference in Rockville, Maryland, DAI was delighted to announce the 2016 winners of the David H. Gunning Award for Community Service.
 
 They are Samuel Njakai, who volunteers at a rescue center and home for orphans and vulnerable children near Nairobi, Kenya, and Rocio Sanchez, who supports a small charity dedicated to assisting marginalized Mayan villages.
