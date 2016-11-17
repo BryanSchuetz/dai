@@ -29,9 +29,9 @@ DAI’s approach will include serving as a capacity builder and facilitator, bol
 
 ### Sample Activities
 
-*Commercialize agribusiness and consumer goods value chains to compete in regional and global markets.
-Use evidence and strategic communications to advocate for regional and national governments to increase regional trade and integration. 
-*Facilitate increased foreign and national investments and access to finance throughout Southern Africa, with an eye toward increasing exports and trade.
-*Leverage DAI’s unique position as implementer of the East Africa Trade and Investment Hub, the Feed the Future Southern Africa Seed Trade Project, and the FoodTrade East and Southern Africa initiative to enhance SATIH’s impact and advance the vision of an integrated and prosperous Africa.
-*Empower local champions and institutions—especially the private sector—to lead value chain competitiveness and regional integration initiatives.
-*Integrate gender considerations throughout to maximize women entrepreneur’s engagement and competitiveness.
+* Commercialize agribusiness and consumer goods value chains to compete in regional and global markets.
+Use evidence and strategic communications to advocate for regional and national governments to increase regional trade and integration.
+* Facilitate increased foreign and national investments and access to finance throughout Southern Africa, with an eye toward increasing exports and trade.
+* Leverage DAI’s unique position as implementer of the East Africa Trade and Investment Hub, the Feed the Future Southern Africa Seed Trade Project, and the FoodTrade East and Southern Africa initiative to enhance SATIH’s impact and advance the vision of an integrated and prosperous Africa.
+* Empower local champions and institutions—especially the private sector—to lead value chain competitiveness and regional integration initiatives.
+* Integrate gender considerations throughout to maximize women entrepreneur’s engagement and competitiveness.
