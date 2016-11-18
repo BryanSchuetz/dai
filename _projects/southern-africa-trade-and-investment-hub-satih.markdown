@@ -17,6 +17,9 @@ solutions:
 - Agriculture and Food Security
 regions: Sub-Saharan Africa
 country: Regional
+promos:
+- title: Uzbekistan Agricultural Value Chain
+  link: https://dai-global.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc
 ---
 
 When the U.S. Congress and the White House celebrated the reauthorization of the African Growth Opportunity Act (AGOA) it reconfirmed the United States' commitment to helping Africa become the world’s next major economic success story. Despite major gains in trade and market expansion, countries in the Southern African Development Community (SADC) still face significant obstacles to sustained economic growth. Many member states lack the physical infrastructure along with trade and investment policies to capitalize upon these trade agreements. In addition, cumbersome export/import procedures, high transportation costs, and preferential trade regimes all hinder investment and reduce productivity while negatively affecting the region’s economy, food security, livelihoods, and public health.
