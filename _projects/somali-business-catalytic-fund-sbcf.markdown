@@ -1,13 +1,14 @@
 ---
 title: Somali Business Catalytic Fund (SBCF)
 date: 2016-11-18 19:02:00 Z
-'2018': 
+Key: 
 summary: 'The people of Somalia have had little respite from violent conflict over
   the past twenty years, and more than 70 percent of the population still lives in
   poverty. Despite these difficult conditions, the Somali private sector has shown
   remarkable resiliency, with a variety of small businesses managing to prosper and
   create an environment for potential investment. '
 start: 2016
+end: 2018
 client: World Bank
 solutions:
 - Innovation and Entrepreneurship
