@@ -16,9 +16,9 @@ country:
 layout: project
 ---
 
-DAI is applying a market systems approach to agricultural value chains in Bangladesh’s Southern Delta, home to 30 million people where poverty and under-nutrition are acute and persistent, agricultural productivity is low, and farmers are not linked to markets.
+DAI is applying a [market systems approach](http://dai.com/news-publications/news/new-primer-market-systems-development-available) to agricultural value chains in Bangladesh’s Southern Delta, home to 30 million people where poverty and under-nutrition are acute and persistent, agricultural productivity is low, and farmers are not linked to markets.
 
-AVC is strengthening 10 agricultural value chains through a range of tools, platforms, and agreements to implement large-scale, systemic interventions. We have forged agreements with 25 of the most influential private sector firms and organizations in the agricultural sector; through these agreements, AVC is leveraging private sector interests and investment opportunities to drive more inclusive growth.
+AVC is strengthening 10 agricultural value chains through a [range](http://dai-global-developments.com/articles/market-systems-development-boosts-farming-nutrition-in-bangladeshs-southern-delta/) of tools, platforms, and agreements to implement large-scale, systemic interventions. We have forged agreements with 25 of the most influential private sector firms and organizations in the agricultural sector; through these agreements, AVC is leveraging private sector interests and investment opportunities to drive more inclusive growth.
 
 Ultimately, AVC’s work will result in increased access to and availability of diverse and nutritious fruits, vegetables, and pulses in local, regional, and national markets and will contribute significantly to improving food security in the Southern Delta.
 ![][2]
