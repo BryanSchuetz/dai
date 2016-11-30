@@ -2,6 +2,8 @@
 title: Regions
 permalink: "/our-work/the-regions"
 layout: node
+redirect_from:
+  - /our-work/regions
 ---
 
 Having worked in more than 150 countries since 1970, we have extensive networks and deep roots in every region of the world.

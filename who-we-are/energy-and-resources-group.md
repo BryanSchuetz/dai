@@ -2,6 +2,9 @@
 title: Energy and Resources Group
 layout: node
 related: false
+redirect_from:
+  - /erg
+
 promos:
 - title: "**Project**: _Niger Delta Electricity Sector Assesment and Investment Strategy_"
   link: http://dai.com/sites/default/files/erg/chevron.pdf
