@@ -6,13 +6,13 @@ summary: 'Some seven months after the combination of DAI and HTSPE Ltd., DAI tod
   as DAI, effective July 31, 2014.
 
 '
-solutions:
-regions:
-projects:
-clients:
+solutions: 
+regions: 
+projects: 
+clients: 
 layout: node
 redirect_from:
-  - /htspe
+- "/htspe"
 ---
 
 ![DAI Logo][1]{:.float-left}Some seven months after the combination of DAI and HTSPE Ltd., DAI today announced that the HTSPE brand will be retired and the firm will begin doing business as DAI, effective July 31, 2014.

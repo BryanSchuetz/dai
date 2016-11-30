@@ -7,13 +7,13 @@ summary: Last night, DAI and its partners announced four winners of the _Innovat
   development problems.
 solutions:
 - Digital
-regions:
-projects:
+regions: 
+projects: 
 clients:
 - U.S. Agency for International Development
 layout: node
 redirect_from:
-  - /innovation
+- "/innovation"
 ---
 
 Last night, DAI and its partners announced four winners of the_ Innovation into Action Challenge_, a competition designed to find and support products and services that will help people in developing nations tackle social and economic development problems. Each organization will receive $20,000 in seed funding, an opportunity to field-test their product or service on a DAI project, and a tailored package of coaching and technical assistance.
