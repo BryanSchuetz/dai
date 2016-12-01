@@ -31,9 +31,6 @@ The project was also the U.S. Agency for International Development’s implement
 ### Sample Activities
 
 * Invest in the competitiveness of the legume and dairy value chains where large numbers of smallholders participate—nearly three-quarters of whom are under the poverty line of $1.25 per day.
-
 * Link increased market-oriented production of legumes and dairy to household consumption and improved nutrition.
-
 * Strengthen Malawian agriculture-related organizations so that indigenous institutions, both government and nongovernmental, have the capacity to implement one or more components of this project.
-
 * Support community programs that target behaviorial change in nutrition.
