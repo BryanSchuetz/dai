@@ -1,13 +1,15 @@
 ---
 title: Palestine Finance for Jobs (F4J)
 date: 2016-12-01 21:19:00 Z
-'2020': 
+Key: 
 summary: One of the most important political, social, and economic challenges facing
   Palestine today is the lack of sustainable and productive employment opportunities
   for the state’s growing population. Creating more jobs for women, youth, and marginalized
   people in particular is seen as one of the most effective paths toward reducing
   overall poverty in Palestine.
 start: 2016
+end: 2020
+client: World Bank
 solutions:
 - Innovation and Entrepreneurship
 - Economic Growth
