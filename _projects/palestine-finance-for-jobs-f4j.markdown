@@ -1,13 +1,15 @@
 ---
 title: Palestine—Finance for Jobs (F4J)
 date: 2016-12-01 21:19:00 Z
-'2020': 
+Key: 
 summary: One of the most important political, social, and economic challenges facing
   Palestine today is the lack of sustainable and productive employment opportunities
   for the state’s growing population. Creating more jobs for women, youth, and marginalized
   people in particular is seen as one of the most effective paths toward reducing
   overall poverty in Palestine.
 start: 2016
+end: 2020
+client: World Bank
 solutions:
 - Innovation and Entrepreneurship
 - Economic Growth
@@ -21,8 +23,8 @@ One of the most important political, social, and economic challenges facing Pale
 The Palestine Finance for Jobs (F4J) project, funded by the World Bank, seeks to overcome these fundamental barriers by investing in an enterprise finance mobilization ecosystem and business growth initiatives. F4J will collaborate with organizations in developing and testing innovative instruments that increase access to the private financing needed to help stimulate economic growth and drive job creation, including piloting the first development impact bond (DIB) to be used in Palestine.
 
 Our approach to F4J will promote cross-sector employment by providing coordinated matching grants that allow entire vertical pipelines of companies to grow together and create jobs. F4J will also work closely with investment funds, businesses, and government agencies to generate proof-of-concept results in the first year and use lessons learned in scaling up early successes for wider implementation.
-
-Sample Activities
+**
+Sample Activities**
 
 * Solicit proposals from investment funds for cost-shared financing to improve performance of their enterprises and assist selected funds in enhancing their overall pipeline of invested businesses.
 
