@@ -27,7 +27,5 @@ Our approach to F4J will promote cross-sector employment by providing coordinate
 **Sample Activities**
 
 * Solicit proposals from investment funds for cost-shared financing to improve performance of their enterprises and assist selected funds in enhancing their overall pipeline of invested businesses.
-
 * Work with DIB advising firm partner to build a financial model for the bond that most efficiently meets the needs of the Palestinian Authority, service providers, employers, and investors, as well identify potential DIB investors.
-
 * Develop a social cost-benefit analysis tool to assist the Ministry of Finance and Planning and private-sector stakeholders in identifying industries and business with high job creation potential for investment.
