@@ -12,10 +12,9 @@ client: World Bank
 solutions:
 - Innovation and Entrepreneurship
 - Economic Growth
-- 
+-
 regions: Middle East and North Africa
 country: Palestine
-Key: 
 ---
 
 One of the most important political, social, and economic challenges facing Palestine today is the lack of sustainable and productive employment opportunities for the state’s growing population. Creating more jobs for women, youth, and marginalized people in particular is seen the most effective paths towards reducing overall poverty in Palestine. However, many companies have been cut off from direct market contact and cannot find financing, leading them to rely on outdated business models that limit their ability to compete, grow, and add new jobs. In addition, Palestine’s insecure business environment with high risks and high costs has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and the Palestinian Authority has undermined innovation and growth.
