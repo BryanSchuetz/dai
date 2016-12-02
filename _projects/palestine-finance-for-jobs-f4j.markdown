@@ -12,7 +12,7 @@ client: World Bank
 solutions:
 - Innovation and Entrepreneurship
 - Economic Growth
--
+- 
 regions: Middle East and North Africa
 country: Palestine
 ---
