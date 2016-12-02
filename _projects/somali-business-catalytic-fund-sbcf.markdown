@@ -22,7 +22,7 @@ The people of Somalia have had little respite from violent conflict over the pas
 
 To help address these barriers and boost economic growth, the World Bank has launched the Somali Business Catalytic Fund (SBCF), designed to invest in the establishment and expansion of profitable small and medium enterprises (SMEs) in Somalia. The SBCF will work across all areas of the Somali Peninsula to provide matching grants for existing and start-up businesses working in key sectors as well as those demonstrating job creation capacity.
 
-In managing the SBCF, DAI will take a market-driven approach to building up a strong ecosystem for Somali SMEs. SBCF funds will support companies to innovate and enhance their productivity, competitiveness against imported products, and overall profits, improving efficiency in the economy as a whole and increasing employment. In addition, SBCF will provide grants targeted at developmental priority groups such as women-owned enterprises and youth employers. 
+In managing the SBCF, DAI will take a market-driven approach to building up a strong ecosystem for Somali SMEs. SBCF funds will support companies to innovate and enhance their productivity, competitiveness against imported products, and overall profits, improving efficiency in the economy as a whole and increasing employment. In addition, SBCF will provide grants targeted at developmental priority groups such as women-owned enterprises and youth employers.
 
 ![Storeowner and customer in Somalia.jpg](/uploads/SBCF_photo.jpg)
 
