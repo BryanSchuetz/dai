@@ -1,5 +1,5 @@
 ---
-title: Palestine Finance for Jobs (F4J)
+title: Palestine—Finance for Jobs (F4J)
 date: 2016-12-01 21:19:00 Z
 '2020': 
 summary: One of the most important political, social, and economic challenges facing
