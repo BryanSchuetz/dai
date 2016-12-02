@@ -22,7 +22,7 @@ The Palestine Finance for Jobs (F4J) project, funded by the World Bank, seeks to
 
 Our approach to F4J will promote cross-sector employment by providing coordinated matching grants that allow entire vertical pipelines of companies to grow together and create jobs. F4J will also work closely with investment funds, businesses, and government agencies to generate proof-of-concept results in the first year and use lessons learned in scaling up early successes for wider implementation.
 
-** Sample Activities **
+**Sample Activities**
 
 * Solicit proposals from investment funds for cost-shared financing to improve performance of their enterprises and assist selected funds in enhancing their overall pipeline of invested businesses.
 
