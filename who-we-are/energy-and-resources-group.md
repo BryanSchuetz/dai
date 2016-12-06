@@ -48,7 +48,7 @@ Global in outlook and approach, ERG’s staff are steeped in the challenges of d
 {% assign contacts = site.contacts | where: 'group', 'erg' | sort: 'sort-order' %}
 {% for contact in contacts %}
 <div class="contact">
-  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <p><h3>{{ contact.title }}</h3>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
     <img src="{{ contact.image }}" alt="{{ contact.title }}" />
   </div>
