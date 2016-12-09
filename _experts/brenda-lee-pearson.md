@@ -16,13 +16,17 @@ solutions:
 - Voice and Accountability
 layout: expert
 image: "/assets/images/experts/Brenda%20inner.jpg"
-summary: |
-  In the tragic wake of ethnic cleansing and genocide in the Balkans and Rwanda in the 1990s, Brenda Lee Pearson and a dozen colleagues launched the International Crisis Group (ICG) to better monitor the drivers of insecurity and conflict.
-job-title:
+summary: 'In the tragic wake of ethnic cleansing and genocide in the Balkans and Rwanda
+  in the 1990s, Brenda Lee Pearson and a dozen colleagues launched the International
+  Crisis Group (ICG) to better monitor the drivers of insecurity and conflict.
+
+'
+job-title: 
 articles:
-- name:
-  article_file:
+- name: 
+  article_file: 
 ---
+
 In the tragic wake of ethnic cleansing and genocide in the Balkans and Rwanda in the 1990s, Brenda Lee Pearson and a dozen colleagues launched the International Crisis Group (ICG) to better monitor the drivers of insecurity and conflict. As the Chief of Party for the National Democratic Institute (NDI) in Macedonia, she saw the telltale signs of another "ethnic war" simmering in Kosovo and Macedonia. Brenda co-created ICG's effective digital crisis early warning, which continues to provide highly detailed analysis and advice to prevent, manage and resolve conflict and rebuild after it.
 
 Over the past 25 years, Brenda has been at the forefront of new strategic and tactical thinking about the international community's complex and multilayered responses to humanitarian crises and conflicts. She is an experienced Chief of Party for projects funded by the U.S. Agency for International Development and was a senior director at the UN World Food Programme.

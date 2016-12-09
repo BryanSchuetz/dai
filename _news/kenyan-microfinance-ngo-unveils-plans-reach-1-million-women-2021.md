@@ -1,16 +1,21 @@
 ---
 title: Kenyan Microfinance NGO Unveils Plans to Reach 1 Million Women by 2021
 date: 2016-12-02 18:05:00 Z
-summary: |
-  Kenyan social enterprise Joyful Women Organization (JOYWO) recently announced an ambitious five-year strategic plan, which was developed with the support of the Financial Inclusion for Rural Microenterprises (FIRM) project, led by DAI and funded by the U.S. Agency for International Development.
+summary: 'Kenyan social enterprise Joyful Women Organization (JOYWO) recently announced
+  an ambitious five-year strategic plan, which was developed with the support of the
+  Financial Inclusion for Rural Microenterprises (FIRM) project, led by DAI and funded
+  by the U.S. Agency for International Development.
+
+'
 solutions:
 - Economic Growth
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
+
 Kenyan social enterprise Joyful Women Organization (JOYWO) recently announced an ambitious five-year strategic plan, which was developed with the support of the [Financial Inclusion for Rural Microenterprises (FIRM)][1] project, led by DAI and funded by the U.S. Agency for International Development.
 
 The plan was unveiled during JOYWO's annual thanksgiving celebration in Nairobi, attended by thousands of supporters and heads of state. The plan calls for the organization to reach 1 million women clientele across Kenya with entrepreneurial training and small business loans by 2021, among other goals such as enhancing advocacy efforts, strengthening market access, and establishing strategic partnerships.
