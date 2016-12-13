@@ -40,6 +40,10 @@ Our visual identity is built around our colors—brown, green, and blue—and th
 
 As a rule, no. Typically we implement programs funded by international donors, national governments, private corporations, or major philanthropies. As part of those programs, we very often are charged with overseeing and disbursing program funds in support of civil society organizations, local institutions, or programs with development-oriented goals, but those disbursements are invariably on a local, program-by-program basis. That said, we do sponsor a [service award][3] for DAI employees who volunteer in their communities. 
 
+### What, is your favorite color?
+
+Orange. No, green.
+
 
 [1]: mailto:steven_o'connor@dai.com?subject=faq
 [2]: http://htspe.com
