@@ -8,18 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daiglobal/daiglobal.git"
+    "url": "git+https://github.com/BryanSchuetz/dai.git"
   },
   "keywords": [
     "dai"
   ],
   "author": "bryan schuetz",
   "bugs": {
-    "url": "https://github.com/daiglobal/daiglobal/issues"
+    "url": "https://github.com/BryanSchuetz/dai/issues"
   },
-  "homepage": "https://github.com/daiglobal/daiglobal#readme",
+  "homepage": "https://github.com/BryanSchuetz/dai#readme",
   "devDependencies": {
+    "surge": "^0.17.7",
     "gulp": "",
+    "browser-sync": "3.7.2",
+    "hygienist-middleware": "",
     "gulp-shell": "",
     "gulp-uglify": ""
   }
