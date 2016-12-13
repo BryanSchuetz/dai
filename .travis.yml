@@ -1,5 +1,8 @@
 sudo: false
 language: ruby
+language: node_js
+node_js:
+  - "node_js"
 cache:
   bundler: true
   directories:
