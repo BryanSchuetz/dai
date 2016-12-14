@@ -2,7 +2,7 @@ sudo: false
 language: ruby
 language: node_js
 node_js:
-  - "-4"
+  - "0.12"
 cache:
   bundler: true
   directories:
