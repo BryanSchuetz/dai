@@ -21,7 +21,7 @@
   "devDependencies": {
     "surge": "^0.17.7",
     "gulp": "",
-    "browser-sync": "",
+    "browser-sync": "2.12.5",
     "hygienist-middleware": "",
     "gulp-shell": "",
     "gulp-uglify": ""
