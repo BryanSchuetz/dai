@@ -11,8 +11,8 @@ solutions:
 - Economic Growth
 regions:
 - Sub-Saharan Africa
-projects: 
-clients: 
+projects:
+clients:
 layout: node
 ---
 
@@ -21,8 +21,7 @@ Kenyan social enterprise Joyful Women Organization (JOYWO) recently announced an
 The plan was unveiled during JOYWO's annual thanksgiving celebration in Nairobi, attended by thousands of supporters and heads of state. The plan calls for the organization to reach 1 million women clientele across Kenya with entrepreneurial training and small business loans by 2021, among other goals such as enhancing advocacy efforts, strengthening market access, and establishing strategic partnerships.
 
 ![][2]
-
-(More than 6,000 women JOYWO members attended the event. Kenyan President Uhuru Kenyatta, First Lady Margaret Kenyatta, Deputy President William Ruto, and Second Lady Rachel Ruto, who is JOYWO's founder and patron, presided.)
+`More than 6,000 women JOYWO members attended the event. Kenyan President Uhuru Kenyatta, First Lady Margaret Kenyatta, Deputy President William Ruto, and Second Lady Rachel Ruto, who is JOYWO's founder and patron, presided.`
 
 [JOYWO][3] was formed in 2009 to economically empower Kenyan women and enhance household food security by supporting women's involvement in livelihood projects. JOYWO's flagship project has been providing financial resources to women through "table banking," where small groups of women meet on a regular basis to borrow and lend to one another to fund small-scale entrepreneurial activities. The program achieved great success in its first five years, growing from 10 employees serving approximately 170 women in one county with an initial loan fund of $6,000, to 65 employees serving 17,000 women across eight counties with a total revolving fund of $3.9 million by 2013. This rapid expansion came with new challenges, leading JOYWO to approach FIRM for assistance in scaling up.
 
