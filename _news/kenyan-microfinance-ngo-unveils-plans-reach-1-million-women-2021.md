@@ -11,8 +11,8 @@ solutions:
 - Economic Growth
 regions:
 - Sub-Saharan Africa
-projects:
-clients:
+projects: 
+clients: 
 layout: node
 ---
 
