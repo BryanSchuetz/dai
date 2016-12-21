@@ -1,5 +1,8 @@
 ---
 title: Ethics and Compliance at DAI
+promos:
+  title: DAI Code of Business Conduct and Ethics
+  link: 
 layout: node
 ---
 
