@@ -21,7 +21,7 @@ The Community and Municipal Governance Initiative (CAMI) project, funded by the 
  
 DAI’s approach will focus first on service delivery improvements that are highly visible to the public with immediate positive impacts, such as solid waste management, water, lighting, transportation, and local economic development, while concurrently building the capacity of partner local governments across all service areas for which they are responsible.
 
-## Sample Activities
+### Sample Activities
 
 * Work with local governments to develop effective public outreach strategies that address key citizen grievances identified in an initial rapid survey. 
 * Support locally elected council members through trainings on topics such as conducting public hearings and budget and planning oversight.
