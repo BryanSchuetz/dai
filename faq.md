@@ -22,15 +22,11 @@ DAI is a company, wholly owned by its employees. Our founders were determined to
 
 ###  How many people work for DAI?
 
-Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of February 2016, we employ more than 2,700 people worldwide, more than 70 percent of them local staff.
+Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of January 2017, we employ approximately 3000 people worldwide, more than 70 percent of them local staff.
 
 ###  Who are your partners?
 
 In terms of consultants, we tap an in-house database of more than 60,000 highly qualified individuals. Organizational partners vary from country to country, assignment to assignment, but all told we work with more than 200 institutional collaborators.
-
-###  What is DAI's relationship with HTSPE?
-
-At the end of 2013, DAI joined forces with [HTSPE Ltd][2]., a highly respected international development consultancy based in the United Kingdom. DAI now owns all the shares of HTSPE. The combination has allowed us to scale up our business so we offer enhanced capabilities and greater value for money to our European customers and other international donors.
 
 ###  What do the DAI colors and the DAI flag stand for?
 
@@ -43,5 +39,4 @@ As a rule, no. Typically we implement programs funded by international donors, n
 
 
 [1]: mailto:steven_o'connor@dai.com?subject=faq
-[2]: http://htspe.com
 [3]: /news-publications/news/dai-recognizes-two-employees-their-community-service
