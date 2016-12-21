@@ -2,7 +2,7 @@
 title: Ethics and Compliance at DAI
 promos:
   title: DAI Code of Business Conduct and Ethics
-  link: 
+  link: "/uploads/Code%20of%20Business%20Conduct%20and%20Ethics.pdf"
 layout: node
 ---
 
