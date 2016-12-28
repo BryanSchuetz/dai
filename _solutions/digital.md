@@ -14,6 +14,8 @@ promos:
   link: "/our-work/the-projects?filter=digital"
 - title: "**News:** Recent Digital News"
   link: "/news/view-more-news?filter=digital"
+- title: Digital Blog
+  link: https://dai-global-digital.com
 related: false
 redirect_from:
 - "/digital"
