@@ -30,9 +30,6 @@ In managing the SBCF, DAI will take a market-driven approach to building up a st
 ### Sample Activities
 
 * Create grants manual to establish guidelines for applicants to submit proposals as well as scoring criteria for reviewers evaluating submissions.
-
 * Raise awareness about the fund program and advertise calls to submit grant proposals using a range of media channels such as newspapers, radio, and social media, as well as through roadshows and introductory workshops.
-
 * Review and score proposals, inviting promising organizations to attend proposal development workshops with regional business advisors.
-
 * Provide grantees with follow-up site visits and mentoring from business advisors to support continued success and growth of new enterprises.
