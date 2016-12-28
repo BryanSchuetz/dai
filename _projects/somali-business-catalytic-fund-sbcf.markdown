@@ -15,7 +15,7 @@ solutions:
 - Economic Growth
 - 
 regions: Sub-Saharan Africa
-country: Somalia
+country: Somali Peninsula
 ---
 
 The people of Somalia have had little respite from violent conflict over the past twenty years, and more than 70 percent of the population still lives in poverty. Despite these difficult conditions, the Somali private sector has shown remarkable resiliency, with a variety of small businesses managing to prosper and create an environment for potential investment. However, key constraints such as weak infrastructure, limited access to finance, a lack of market information, and low levels of human capital hinder the private-sector expansion crucial to reducing the country’s widespread poverty.
