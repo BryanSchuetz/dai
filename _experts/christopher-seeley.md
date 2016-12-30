@@ -5,8 +5,7 @@ lastname: Seeley
 summary: Christopher Seeley is an expert in sustainable livelihoods, alternative development,
   and the design and management of large-scale, multi-objective rural development
   programs.
-job-title: Chief of Party, Honduras Gobernanza en Ecosistemas, Medios de Vida y Agua
-  (GEMA)
+job-title: "Senior Principal Global Practice Leader,\nNatural Resource Management "
 image: "/assets/images/experts/Seeley_Inner.jpg"
 solutions:
 - Environment and Energy
