@@ -1,21 +1,21 @@
 ---
 title: Energy and Resources Group
-layout: node
 related: false
 redirect_from:
 - "/erg"
 promos:
 - title: "**Project**: _Niger Delta Electricity Sector Assesment and Investment Strategy_"
-  link: http://dai.com/sites/default/files/erg/chevron.pdf
+  link: "/uploads/chevron.pdf"
 - title: "**Project**: _Local Content Demand and Supply Study for Liquefied Natural_
     Gas"
-  link: http://dai.com/sites/default/files/erg/wb.pdf
+  link: "/uploads/wb.pdf"
 - title: "**Project**: _Corporate Social investment Program for Entrepreneurs in Ghana_"
-  link: 'http://dai.com/sites/default/files/erg/kosmos.pdf '
+  link: "/uploads/kosmos.pdf"
 - title: "**Analysis**: _Unlocking Content_"
   link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
 - title: "**Video**: _Kosmos Innovation Center_"
   link: https://www.youtube.com/watch?v=A3-VyczktO8
+layout: node
 ---
 
 DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
