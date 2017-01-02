@@ -22,11 +22,11 @@ country:
 layout: project
 ---
 
-[ProParque][1] helped the government of Honduras to develop sound management of its natural resources in a way that complements the country's economic and social development. The project worked with government stakeholders to strengthen the nation's protected area management system, improve biodiversity and natural resource management, and facilitate [rural enterprise growth][2], climate change adaptation, disaster risk reduction, and clean energy development.
+[ProParque][1] helped the government of Honduras to develop sound management of its natural resources in a way that complemented the country's economic and social development. The project worked with government stakeholders to strengthen the nation's protected area management system, improve biodiversity and natural resource management, and facilitate [rural enterprise growth][2], climate change adaptation, disaster risk reduction, and clean energy development.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104423902" webkitallowfullscreen="" width="703"></iframe>
 
-Over the course of implementation, the ProParque team worked t improve Honduran biodiversity conservation, create local jobs, and strengthen national capacity for mitigating and adapting to global climate change. Honduras and its Bay Islands have rich natural resources—stunning coral reefs, mangroves, rainforests, [cloud forests][3], mountain ranges, and an abundance of endemic plant and [animal species][4]. ProParque worked side-by-side with the government, private sector, and civil society to protect these resources and leverage their natural and economic value for the benefit of the country and people who live within these sustainable and productive landscapes. ProParque endeavored to protect these resources and leverage their natural value for the benefit of the people who live among them. 
+Over the course of implementation, the ProParque team worked to improve Honduran biodiversity conservation, create local jobs, and strengthen national capacity for mitigating and adapting to global climate change. Honduras and its Bay Islands have rich natural resources—stunning coral reefs, mangroves, rainforests, [cloud forests][3], mountain ranges, and an abundance of endemic plant and [animal species][4]. ProParque worked side-by-side with the government, private sector, and civil society to protect these resources and leverage their natural and economic value for the benefit of the country and communities in which they are located.
 
 ###  Sample Activities
 
