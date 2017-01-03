@@ -25,7 +25,7 @@ Honduras and its Bay Islands offer unparalleled natural wonders—stunning coral
 
 In order to help the Honduran government confront these pressing issues, the U.S. Agency for International Development (USAID) launched [ProParque ](http://en.usaid-proparque.org/)in 2010, also implemented by DAI. Over six years, ProParque worked with government stakeholders to strengthen the nation’s protected area management system and promote [rural enterprise growth](https://www.youtube.com/watch?v=Lwy0yHaAMRE&feature=youtu.be), climate change adaptation, disaster risk reduction, and clean energy development.
 
-To build upon these accomplishments, USAID has designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua, or Governance in Ecosystems, Livelihoods, and Water, (GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA will work in western Honduras to further improve natural conservation policies; develop opportunities for inclusive, environmentally sustainable economic growth; and promote a more climate-informed and resilient civil society in Honduras.
+To build upon these accomplishments, USAID has designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua, or Governance in Ecosystems, Livelihoods, and Water (GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA is working in western Honduras to further improve natural conservation policies; develop opportunities for inclusive, environmentally sustainable economic growth; and promote a more climate-informed and resilient civil society in Honduras.
 
 ![GEMA_photo.jpg](/uploads/GEMA_photo.jpg)
 
@@ -46,7 +46,7 @@ To build upon these accomplishments, USAID has designed the Gobernanza en Ecosis
 
 * Through ProParque, more than 4,400 producers and MSMEs received technical assistance in green certifications, new technologies, and access to new markets.
 
-* ProParque trained 111 micro entrepreneurs on methods on improving rural access to clean and renewable energy, in turn benefiting 25,000 individuals with clean cook stoves, solar panels, and bio-digesters.
+* ProParque trained 111 micro entrepreneurs on improving rural access to clean and renewable energy, in turn benefiting 25,000 individuals with clean cook stoves, solar panels, and bio-digesters.
 
 * ProParque built the capacity of local chambers of tourism and member businesses to market new tourism products and packages, such as birdwatching and cultural events.
 
