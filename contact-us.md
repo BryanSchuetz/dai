@@ -12,7 +12,7 @@ layout: default
     <p>tel: (301)771-7600<br>
     <a href="steven_o'connor@dai.com">Email</a></p>
 
-    <p><strong>Washington</strong>
+    <p><strong>Washington</strong><br>
     7600 Wisconsin Avenue, Suite 200<br>
     Bethesda, MD 20814<br>
     <a href="https://www.google.com/maps/place/Development+Alternatives+Inc/@38.986188,-77.095005,17z/data=!3m1!4b1!4m2!3m1!1s0x89b7c964ea36cca5:0xad074d59840ba3da">Map this location</a></p>
@@ -39,11 +39,11 @@ layout: default
     London, EC1V 3RS<br>
     <a href="https://www.google.com/maps/place/DAI+Europe+Ltd./@51.524923,-0.096706,17z/data=!3m1!4b1!4m2!3m1!1s0x487604ea5ea8bdad:0x2f5f29960334ba18">Map this location</a></p>
 
-    <p><strong>DAI Europe</strong><br>
+    <p><strong>Apsley</strong><br>
     3rd Floor Block C<br>
     Westside, London Road<br>
     Apsley<br>
-    HP3 9TD<br>
+    Hertfordshire, HP3 9TD<br>
     <a href="https://www.google.co.uk/maps/place/Htspe+Ltd/@51.765654,-0.433064,17z/data=!3m1!4b1!4m2!3m1!1s0x4876412b68231735:0x61f4728dc73f4ba7?hl=en">Map this location</a></p>
 
     <p><strong>Asia and Pacific Region Representative</strong><br>
