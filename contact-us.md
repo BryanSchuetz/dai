@@ -44,7 +44,7 @@ layout: default
     Westside, London Road<br>
     Apsley<br>
     Hertfordshire, HP3 9TD<br>
-    <a href="https://www.google.com/maps/search/google+maps+westside,+london+road,+apsley/@51.7295072,-0.4580049,17z/data=!3m1!4b1">Map this location</a></p>
+    <a href="https://www.google.com/maps/place/DAI+Europe/@51.7295892,-0.4582898,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7c0d368c0749a3fb!8m2!3d51.7295892!4d-0.4561011?hl=en-US">Map this location</a></p>
 
     <p><strong>Asia and Pacific Region Representative</strong><br>
     Inovact Consulting Pty. Ltd.<br>
