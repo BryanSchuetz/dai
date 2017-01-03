@@ -1,21 +1,21 @@
 ---
 title: Alia Afshar-Gandhi
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Afshar-Gandhi
-regions:
-- Asia and the Pacific
-- Middle East and North Africa
-- Sub-Saharan Africa
-solutions:
-- Economic Growth
-- Agriculture and Food Security
-layout: expert
-image: "/assets/images/experts/alia-afshar-gandhi.jpg"
 summary: Alia Afshar-Gandhi works in the area of food security and agriculture, where
   she specializes in rural livelihood creation in post-conflict countries. She manages
   the Food and Enterprise Development Program in Liberia and the Strengthening Sustainable
   Ecosystems in and around Nyungwe National Park program in Rwanda.
-job-title: Development Specialist
+job-title: 'Director, Economic Growth, Middle East and North Africa '
+image: "/assets/images/experts/alia-afshar-gandhi.jpg"
+solutions:
+- Economic Growth
+- Agriculture and Food Security
+regions:
+- Asia and the Pacific
+- Middle East and North Africa
+- Sub-Saharan Africa
+layout: expert
 ---
 
 Alia Afshar-Gandhi works in the area of food security and agriculture, where she specializes in strengthening rural livelihoods in post-conflict countries. Her specific areas of expertise include value chain analysis, alternative livelihoods, and rural economic development. After five years of managing large, complex livelihood programs in Eastern Afghanistan, she now serves as a program manger for the U.S. Agency for International Development (USAID) Feed the Future-funded Food and Enterprise Development Program in Liberia and the Strengthening Sustainable Ecosystems in and around Nyungwe National Park program in Rwanda. She has worked in transitional environments including Afghanistan, Angola, Iraq, Liberia, Rwanda, and South Africa. She has conducted value chain analysis around agriculture, tourism and handicraft sectors, developed small grants programs, and has worked with gender and microenterprise teams to identify income-generating opportunities for marginalized women. Alia recently gave an interview as part of a series on Women in Development highlighting the role women play in DAI’s work around the globe.
