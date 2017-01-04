@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+    .mapboxgl-popup-content{
+      padding-top: 20px;
+    }
+    body { margin:0; padding:0; color: #515151;}
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    a{
+      color: #3887BE;
+      text-decoration: none;
+    }
+    a:hover{color: #63b6e5;}
+    </style>
+</head>
+<body>
+<style media="screen">
+  #legend{
+    display: block;
+    z-index: 1;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: white;
+    padding: 1rem;
+    font-family: 'Helvetica', arial, sans-serif;
+    border: 1px solid #515151;
+  }
+  .legend label{
+    font-size: 13px;
+    color:#808080;
+
+  }
+  .legend span {
+      display:block;
+      float:left;
+      height:10px;
+      width:10px;
+      margin-right: 5px;
+      margin-top: 6px;
+      }
+    .legend p{
+      margin-bottom: 5px;
+    }
+    .legend-marker{
+      margin-right: 3px;
+      height: 23px;
+      margin-left: -2px;
+      margin-top: 1px;
+      float: left;
+    }
+    .layer-marker{
+      margin-top: -1px;
+    }
+</style>
+<div id='map'></div>
+<div id='legend' style='display:block;'>
+  <strong>DAI Activity Worldwide</strong>
+  <nav class='legend clearfix'>
+  <p><span style='background:#4B8E2F'></span><label>Countries with active projects</label></p>
+  <p><span style='background:#ACD7A6;'></span><label>Countries with previous projects</label></p>
+  <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to list all active projects</label></p>
+  <p><img class="legend-marker layer-marker" src="http://ksdai.org/at-a-glance/layers.png" alt=""><label>Click to explore client layers</label></p>
+</div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
+var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: 'mapbox://styles/dai/cixhnt69a005c2qqor8eedw42', //stylesheet location
+    center: [14.50, 20], // starting position
+    minZoom: 2,
+    maxZoom: 9,
+    zoom: 3, // starting zoom
+    pitch: 40
+});
+var legend = document.getElementById('legend');
+
+map.on('click', function (e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['project-pins'] });
+
+    if (features.length) {
+        map.flyTo({center: features[0].geometry.coordinates});
+    }
+
+    var feature = features[0];
+
+    // Populate the popup and set its coordinates
+    // based on the feature found.
+    var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML("<strong>"+feature.properties.title+"</strong><br>"+feature.properties.description)
+        .addTo(map);
+});
+map.on('mousemove', function (e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['project-pins'] });
+    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+});
+</script>
+
+</body>
+</html>
