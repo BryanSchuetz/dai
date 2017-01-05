@@ -12,7 +12,7 @@ summary: Amanda leads human resources (HR) management for DAI’s Europe busines
   and working with clients and business units to develop human capital strategies
   and coaching senior leaders in dealing with key people management and development
   issues.
-image: "/uploads/Amanda%20Page%20Large.jpg"
+image: "/uploads/Amanda%20Page%20Final.jpg"
 group: Management
 sort-order: 5
 ---
