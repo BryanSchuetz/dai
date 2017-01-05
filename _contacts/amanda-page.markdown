@@ -14,6 +14,6 @@ summary: Amanda leads human resources (HR) management for DAI’s Europe busines
   issues.
 image: "/uploads/Amanda%20Page%20Large.jpg"
 group: Management
-sort-order: 4
+sort-order: 5
 ---
 
