@@ -9,9 +9,9 @@ summary: 'Sonal Shah, founding Director of the White House Office of Social Inno
 solutions:
 - Digital
 - Innovation and Entrepreneurship
-regions: 
-projects: 
-clients: 
+regions:
+projects:
+clients:
 layout: node
 ---
 
@@ -39,7 +39,7 @@ Follow news throughout Innovation Week via DAI's [Twitter][8] using the #DAInnov
 [3]: /our-work/projects/south-pacific-islands-coastal-community-adaptation-project-c-cap
 [4]: /our-work/projects/pakistan-education-voice-and-accountability-fund
 [5]: /our-work/projects/pakistan-transforming-education-pakistan-tep
-[6]: /our-work/projects/honduras-proparque
+[6]: /our-work/projects/honduras-ProParque-GEMA
 [7]: /our-work/projects/rwanda-support-land-tenure-regularisation
 [8]: https://twitter.com/daiglobal
 [9]: http://facebook.com/daiglobal

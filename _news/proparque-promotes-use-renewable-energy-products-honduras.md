@@ -14,7 +14,7 @@ solutions:
 regions:
 - Latin America and the Caribbean
 projects: Honduras—ProParque
-clients: 
+clients:
 layout: node
 ---
 
@@ -32,4 +32,4 @@ The most critical aspect of the initiative—linking the new microenterprises wi
 
 Benefiting almost 250 people, these small systems represent a first step toward the consolidation of a local, rural renewable energy service sector. ProParque staff conservatively estimate that project-assisted microenterprises could play a key role in the installation of more than 5,000 improved cooking stoves and 250 solar power installations within the next two years alone.
 
-[1]: /our-work/projects/honduras-proparque
+[1]: /our-work/projects/honduras-ProParque-GEMA

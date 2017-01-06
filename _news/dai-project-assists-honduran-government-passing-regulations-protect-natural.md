@@ -13,7 +13,7 @@ solutions:
 regions:
 - Latin America and the Caribbean
 projects: Honduras—ProParque
-clients: 
+clients:
 layout: node
 ---
 
@@ -35,5 +35,5 @@ With the new regulations in place, the project team believes opportunities to im
 
 "As budgets for conservation keep shrinking, the engagement of professional private sector operators and local communities in the provision of visitor services will allow the ICF and co-management groups to reduce their reliance on donor funding while re-focusing their mission," said [Miguel Baca][2], DAI's Senior Tourism Development Specialist. "Too much time and resources are spent managing tourism, distracting the ICF from its core job of protecting and managing these areas' natural resources."
 
-[1]: /our-work/projects/honduras-proparque
+[1]: /our-work/projects/honduras-ProParque-GEMA
 [2]: /who-we-are/our-team/miguel-baca
