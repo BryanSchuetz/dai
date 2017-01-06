@@ -13,7 +13,7 @@ solutions:
 regions:
 - Latin America and the Caribbean
 projects: Honduras—ProParque
-clients:
+clients: 
 layout: node
 ---
 
