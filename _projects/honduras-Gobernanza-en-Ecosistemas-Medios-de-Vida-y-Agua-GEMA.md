@@ -21,9 +21,9 @@ country:
 layout: project
 ---
 
-Honduras and its Bay Islands offer unparalleled natural wonders—stunning coral reefs, mangroves, rainforests, cloud forests, mountain ranges, and an abundance of endemic plant and animal species. However, insufficient environmental protection and unchecked deterioration of natural resources threatens the future of these important and fragile ecosystems. Many of the sustainable business opportunities in tourism and agriculture that could help to preserve the country’s rich biodiversity and provide income for rural populations have yet to be full developed. In addition, the communities around these valuable ecosystems face significant and growing risks from climate-induced natural disasters.
+Honduras and its Bay Islands offer unparalleled natural wonders—stunning coral reefs, mangroves, rainforests, cloud forests, mountain ranges, and an abundance of endemic plant and animal species. However, insufficient environmental protection and unchecked deterioration of natural resources threatens the future of these important and fragile ecosystems. Many of the sustainable business opportunities in tourism and agriculture that could help to preserve the country’s rich biodiversity and provide income for rural populations have yet to be fully developed. In addition, the communities around these valuable ecosystems face significant and growing risks from climate-induced natural disasters.
 
-In order to help the Honduran government confront these pressing issues, the U.S. Agency for International Development (USAID) launched [ProParque ](http://en.usaid-proparque.org/)in 2010, also implemented by DAI. Over six years, ProParque worked with government stakeholders to strengthen the nation’s protected area management system and promote [rural enterprise growth](https://www.youtube.com/watch?v=Lwy0yHaAMRE&feature=youtu.be), climate change adaptation, disaster risk reduction, and clean energy development.
+To help the Honduran government confront these pressing issues, the U.S. Agency for International Development (USAID) launched [ProParque ](http://en.usaid-proparque.org/)in 2010, also implemented by DAI. Over six years, ProParque worked with government stakeholders to strengthen the nation’s protected area management system and promote [rural enterprise growth](https://www.youtube.com/watch?v=Lwy0yHaAMRE&feature=youtu.be), climate change adaptation, disaster risk reduction, and clean energy development.
 
 To build upon these accomplishments, USAID has designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua, or Governance in Ecosystems, Livelihoods, and Water (GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA is working in western Honduras to further improve natural conservation policies; develop opportunities for inclusive, environmentally sustainable economic growth; and promote a more climate-informed and resilient civil society in Honduras.
 
@@ -35,14 +35,15 @@ To build upon these accomplishments, USAID has designed the Gobernanza en Ecosis
 
 * Promote education and awareness about renewable energy technologies, such as solar panels and improved cook stoves, and provide support to renewable energy microenterprises.
 
-* Increase conservation-related income generation in agriculture and tourism by forming public-private partnerships and linking growing enterprises with business development service providers.
+* Increase conservation-related income in agriculture and tourism by forming public-private partnerships and linking growing enterprises with business development service providers.
 
-* Strengthen disaster response institutions across multiple levels and increase involvement of women in disaster risk reduction and climate change adaptation decision making.
+* Strengthen disaster response institutions across multiple levels and increase the involvement of women in disaster risk reduction and climate change adaptation decision-making.
 
 ### Select Results
 
-* From 2010-2016, ProParque generated $13.3 million in sales for micro, small, and medium-sized enterprises (MSMEs), creating 5,168 new jobs.
-  ProParque trained approximately 4,000 members of local and municipal emergency committees in disaster risk reduction and response.
+* From 2010–2016, ProParque generated $13.3 million in sales for micro, small, and medium-sized enterprises (MSMEs), creating 5,168 new jobs.
+
+* ProParque trained approximately 4,000 members of local and municipal emergency committees in disaster risk reduction and response.
 
 * Through ProParque, more than 4,400 producers and MSMEs received technical assistance in green certifications, new technologies, and access to new markets.
 
