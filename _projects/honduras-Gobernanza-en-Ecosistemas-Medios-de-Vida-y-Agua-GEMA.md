@@ -1,5 +1,5 @@
 ---
-title: Honduras—Gobernanza en Ecosistemas, Medios de Vida, y Agua (GEMA)
+title: Honduras—ProParque; Gobernanza en Ecosistemas, Medios de Vida, y Agua (GEMA)
 date: 2016-01-21 22:40:00 Z
 summary: Honduras and its Bay Islands offer unparalleled natural wonders—stunning
   coral reefs, mangroves, rainforests, cloud forests, mountain ranges, and an abundance
