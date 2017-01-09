@@ -9,7 +9,7 @@ summary: 'Funded by the U.K. Department for International Development and the Is
   which has one of the lowest rates of female labour force participation in the world. '
 start: 2015
 end: 2020
-client: U.S. Agency for International Development
+client: U.K. Department for International Development, Islamic Development Bank
 solutions:
 - Economic Growth
 - Institutional and Policy Reform
