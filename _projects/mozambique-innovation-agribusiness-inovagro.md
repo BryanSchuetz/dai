@@ -25,16 +25,29 @@ The second phase of InovAgro started in January 2014 and aims to assist 15,000 p
 
 ###  Sample Activities
 
-* Identify and analyze value chains in which the private sector provides avenues for smallholder participation, such soybean, sesame, groundnuts, pulses, and agricultural inputs.
-* Build strong supporting service markets (such as seed and agricultural input supply, farm mechanization, and extension services) that respond to the needs of the poor, including introducing new technologies, such as ICT-based reporting, to enhance large firm engagement with small farmers.
-* Promoting national policy dialogue on the seed industry to address market failures and lead to increased effective demand for certified seed by small farmers matched with a growth in the supply of commercially marketed certified seeds.
-* Facilitate ways for private-sector partners to improve the viability of their supply chains and build linkages to small-scale outgrowers and business development services.
+* Increase access to certified seeds and other inputs.
+* Help suppliers and output buyers develop embedded extension services.
+* Strengthen farmers’ associations.
+* Facilitate increased mechanisation services.
+* Support establishment of agro-dealer network.
+* Facilitate linkages between private sector seed companies and Government Seed Multiplication Agency.
+* Link formal financial institutions with targeted farmers.
+* Support community delimitation and formation of community land management committees.
 
-###  Select Results
+###  Select Results (INOVAGRO I)
 
 * Working in partnership with one of Mozambique's largest integrated poultry operations, African Century Agriculture (ACA), Inovagro facilitated the structuring of relationships between ACA and small and emerging farmers in Gurue district of Zambezia province, including the development of an extension services program managed by ACA.
 * In the 2012/13 planting season 1,364 farmers (25 percent women-owned and managed farms) farmers cultivated soya and pigeon peas with improved seeds earned a gross income of US$1,123,776 and a net income of US$624,31 and commercial financing worth US$160,000 was provided for inputs and labour. This represented an 18.5 percent increase in net profit by the farmers from the previous season.
 * Working with local and regional research institutions, INOVAGRO facilitated the multiplication of new varieties of soya bean seed, which led to 175 tons of cheaper certified seed being sold to small farmers in the 2013/2014 season and assisted the seed company to engage directly with the farmers to sell the seed.
 * In April 2014, INOVAGRO hosted a national seminar on the seed sector, leading to the creation of the National Platform for Seed Dialogue, which comprises key stakeholders in the Government of Mozambique, the private seed multiplication and distribution industry, and international donors and research services.
+
+###  Select Results (INOVAGRO II)
+
+* Assisted more than 8,000 direct beneficiaries, with 6,000 smallholder farmers purchasing and using certified seeds.
+* Established 38 community-based retail outlets for certified seed.
+* Formed partnership between 10 input and output companies to help 2,000 farmers find new markets.
+* Assisted 2,900 small-scale farmers to participate in Village Savings and Loans Associations.
+* Ten mechanisation service providers provided services to mor than 250 smallholder farmers and organised extension visits to 2,400 farmers.
+* Facilitated improved business environment for the seed sector.
 
 [1]: /assets/images/projects/INOVAGRO.jpg
