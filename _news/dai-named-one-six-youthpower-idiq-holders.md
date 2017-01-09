@@ -5,9 +5,9 @@ solutions:
 - Governance
 clients: U.S. Agency for International Development
 summary: 'DAI was recently selected as one of six holders of the U.S. Agency for International
-  Development (USAID)''s YouthPower Implementation Indefinite Delivery Indefinite
-  Quantity Contract (IDIQ). YouthPower is USAID''s platform for implementing and scaling
-  up positive youth development programs globally.
+  Development (USAID)’s YouthPower Implementation Indefinite Delivery Indefinite Quantity
+  Contract (IDIQ). YouthPower is USAID’s platform for implementing and scaling up
+  positive youth development programs globally.
 
 '
 layout: node
