@@ -36,10 +36,9 @@ The second phase of InovAgro started in January 2014 and aims to assist 15,000 p
 
 ###  Select Results (INOVAGRO I)
 
-* Working in partnership with one of Mozambique's largest integrated poultry operations, African Century Agriculture (ACA), Inovagro facilitated the structuring of relationships between ACA and small and emerging farmers in Gurue district of Zambezia province, including the development of an extension services program managed by ACA.
-* In the 2012/13 planting season 1,364 farmers (25 percent women-owned and managed farms) farmers cultivated soya and pigeon peas with improved seeds earned a gross income of US$1,123,776 and a net income of US$624,31 and commercial financing worth US$160,000 was provided for inputs and labour. This represented an 18.5 percent increase in net profit by the farmers from the previous season.
-* Working with local and regional research institutions, INOVAGRO facilitated the multiplication of new varieties of soya bean seed, which led to 175 tons of cheaper certified seed being sold to small farmers in the 2013/2014 season and assisted the seed company to engage directly with the farmers to sell the seed.
-* In April 2014, INOVAGRO hosted a national seminar on the seed sector, leading to the creation of the National Platform for Seed Dialogue, which comprises key stakeholders in the Government of Mozambique, the private seed multiplication and distribution industry, and international donors and research services.
+* Facilitated linkages between integrated poultry operator African Century Agriculture and small and emerging farmers in Gurue district of Zambezia province, including development of an extension services program managed by ACA.
+* Working with local and regional research institutions, INOVAGRO facilitated the multiplication of new varieties of soya bean seed, which led to 175 tons of cheaper certified seed being sold to small farmers in the 2013-2014 season; assisted the seed company to engage directly with the farmers.
+* Hosted a national seminar on the seed sector in April 2014, leading to creation of the National Platform for Seed Dialogue, which comprises  stakeholders in the Government of Mozambique,  private seed multiplication and distribution industry, international donors, and research services.
 
 ###  Select Results (INOVAGRO II)
 
