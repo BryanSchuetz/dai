@@ -1,5 +1,5 @@
 ---
-title: Mozambique—Innovation for Agribusiness (INOVAGRO)
+title: Mozambique—Innovation for Agribusiness (INOVAGRO I-II)
 date: 2016-01-21 22:40:00 Z
 summary: Formal commercial actors are needed to sustain and expand agricultural value
   chains. Poor farmers, either individually or within groups, cannot effectively penetrate
