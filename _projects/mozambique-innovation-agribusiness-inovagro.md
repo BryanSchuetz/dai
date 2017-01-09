@@ -17,9 +17,9 @@ country:
 layout: project
 ---
 
-Formal commercial actors are needed to sustain and expand agricultural value chains. Poor farmers, either individually or within groups, cannot effectively penetrate international and formal markets without the formal intermediaries involved in quality management, bulking, and export. Under the right conditions, these formal commercial actors can expand their businesses in ways that generate employment and market opportunities for poor communities and farming households. INOVAGRO is working to help them do that.
+In Northern Mozambique, small-scale farmers dominate agricultural production but work at subsistence level. In alignment with priorities of the Mozambican government, the Swiss Agency for Development Cooperation is promoting development of inclusive market systems, also known as Making Markets Work for the Poor. InovAgro aims to increase small farmers’ revenue by facilitating sustainable changes in the agricultural market.
 
-In the four-year second phase (2014–2017), the Swiss Agency for Development and Cooperation is reducing poverty in northern Mozambique by promoting the principles of the market development approach, also known as Making Markets Work for the Poor (M4P). This approach to inclusive private sector development is increasing the economic involvement of the poor in select agricultural value chains, and also addressing nationwide policy issues that constrain pro-poor development. The project mandate is to work in the northern provinces of Mozambique, which despite having the greatest agricultural opportunities, have been hardest hit by rural poverty.
+The second phase of InovAgro started in January 2014 and aims to assist 15,000 poor farmers—including 6,000 women—living in the provinces of Cabo Delgado, Nampula, and Zambezia. On, average, these target beneficiaries have six members in the households, grow at least three food crops, and have no land titles. InovAgro will build up the capacity of seed companies and input suppliers to drive extension services to these and other smallholders. The project works with five value chains: soya beans, pigeon peas, groundnuts, sesame, and maize.
 
 ![][1]
 
