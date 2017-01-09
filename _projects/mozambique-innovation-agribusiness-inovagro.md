@@ -1,25 +1,25 @@
 ---
 title: Mozambique—Innovation for Agribusiness (INOVAGRO)
-date: 2016-01-21 22:40:52.765000000 Z
-client: Swiss Agency for Development and Cooperation
-start: 2010
-end: 2013
-regions:
-- Sub-Saharan Africa
-country:
-- Mozambique
-solutions:
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: Formal commercial actors are needed to sustain and expand agricultural value
   chains. Poor farmers, either individually or within groups, cannot effectively penetrate
   international and formal markets without the formal intermediaries involved in quality
   management, bulking, and export.
+start: 2010
+end: 2017
+client: Swiss Agency for Development and Cooperation
+solutions:
+- Economic Growth
+regions:
+- Sub-Saharan Africa
+country:
+- Mozambique
+layout: project
 ---
 
 Formal commercial actors are needed to sustain and expand agricultural value chains. Poor farmers, either individually or within groups, cannot effectively penetrate international and formal markets without the formal intermediaries involved in quality management, bulking, and export. Under the right conditions, these formal commercial actors can expand their businesses in ways that generate employment and market opportunities for poor communities and farming households. INOVAGRO is working to help them do that.
 
-In the four-year second phase, the Swiss Agency for Development and Cooperation is reducing poverty in northern Mozambique by promoting the principles of the market development approach, also known as Making Markets Work for the Poor (M4P). This approach to inclusive private sector development is increasing the economic involvement of the poor in select agricultural value chains, and also addressing nationwide policy issues that constrain pro-poor development. The project mandate is to work in the northern provinces of Mozambique, which despite having the greatest agricultural opportunities, have been hardest hit by rural poverty.
+In the four-year second phase (2014–2017), the Swiss Agency for Development and Cooperation is reducing poverty in northern Mozambique by promoting the principles of the market development approach, also known as Making Markets Work for the Poor (M4P). This approach to inclusive private sector development is increasing the economic involvement of the poor in select agricultural value chains, and also addressing nationwide policy issues that constrain pro-poor development. The project mandate is to work in the northern provinces of Mozambique, which despite having the greatest agricultural opportunities, have been hardest hit by rural poverty.
 
 ![][1]
 
