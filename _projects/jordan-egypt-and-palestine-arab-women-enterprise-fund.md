@@ -30,9 +30,13 @@ AWEF is the only market systems-based development programme in the region that a
 
 ###  Sample Activities
 
-* Promote behaviour change to prepare key market actors for promoting women's economic empowerment.
-* Stimulate changes in formal and informal rules to address key market constraints for women.
-* Establish and employ an innovative results-measurement system around women's economic empowerment and agency.
+* Support businesses to increase focus on women's working conditions in Egypt's food retail, citrus, and ready-made garment sectors, and on gender-sensitive recruitment, human resource management, and training policies. 
+
+* Assist women home-based producers in Jordan's dairy sector to raise awareness of the value of testing and certification of products to increase their competitiveness and value.
+
+* Work with government standards institutes, the private sector, and women producers of food products such as maftoul, cheese, and yoghurt to streamline certification processes and services and better enable women to move up the value chain.
+
+* Support introduction of fee-based, female para-veterinary services to make basic animal health care services more available locally, particularly to home-based production run by women.
 
 [1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/
 [2]: /assets/images/projects/AWEF-web-page.jpg
