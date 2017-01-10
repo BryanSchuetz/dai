@@ -1,9 +1,7 @@
 ---
 title: Gary Barker
-date: 2016-01-21 22:18:43.395000000 Z
-group: Management
-image: "/assets/images/contacts/gary-barker.jpg"
-job-title: Director, Risk and Business Systems
+date: 2016-01-21 22:18:00 Z
+job-title: Finance Director
 email: gary_barker@dai.com
 summary: Gary leads DAI’s risk and systems functions, including contracting, compliance,
   internal audit, information technology, ethics, insurance, and QMS. With 25 years
@@ -11,6 +9,8 @@ summary: Gary leads DAI’s risk and systems functions, including contracting, c
   the financial aspects of complex, multimillion-pound international projects carried
   out for major donor agencies, in addition to providing quality control, systems
   and process, backstopping, and field services.
+image: "/assets/images/contacts/gary-barker.jpg"
+group: Management
 sort-order: 1
 ---
 
