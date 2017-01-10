@@ -29,11 +29,7 @@ PANI works to raise the profile of freshwater issues through policy engagement, 
 ### Sample Activities
 
 * Train diverse groups (engineers, teachers, planners, village groups, and government staff) in the importance of and methods for freshwater conservation and protection of local ecosystems.
-
 * Create multi-stakeholder platforms to share lessons, plans, and news through roundtable discussions and information communication and technology tools such as websites, social media, listservs, and text messages.
-
 * Create a Freshwater Center of Excellence to serve as a repository for technical tools, training, and scientific assessments and transition knowledge to local institutions for sustainability.
-
 * Collaborate with engineering and construction firms and government ministries to develop best practices guide for green infrastructure construction.
-
 * Develop and implement a university-level green engineering curriculum and provide scholarships, internships, and/or mentorships for Nepali students pursuing related fields.
