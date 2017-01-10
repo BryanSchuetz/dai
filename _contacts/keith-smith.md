@@ -20,7 +20,6 @@ summary: Keith is an experienced development professional who has worked over th
   Programme in Ethiopia; and the M&E, Environmental and Social Management/Maintenance
   of Roads in DRC Phase II.
 image: "/assets/images/contacts/keith-smith.jpg"
-group: Programme Management
+group: Management
 sort-order: 4
 ---
-
