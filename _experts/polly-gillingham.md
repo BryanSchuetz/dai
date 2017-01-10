@@ -2,8 +2,8 @@
 title: Polly Gillingham
 date: 2016-01-21 22:18:43.395000000 Z
 lastname: Gillingham
-regions: 
-solutions: 
+regions:
+solutions:
 layout: expert
 image: "/assets/images/experts/PollyGillinghamINNER.jpg"
 summary: Polly Gillingham is a livelihoods specialist, with a particular interest
@@ -11,8 +11,9 @@ summary: Polly Gillingham is a livelihoods specialist, with a particular interes
   over—natural resources.
 job-title: Business Management and Livelihoods Specialist
 articles:
-- name: 
-  article_file: 
+- name:
+  article_file:
+published: flase
 ---
 
 Polly Gillingham is a livelihoods specialist, with a particular interest in social inclusion and institutions for the governance of—and resolution of conflicts over—natural resources. Polly began her career focusing on water resources, but over the years her experience has encompassed inclusive growth and institutional development. Her range of work includes programme design, bid preparation, programme evaluation, quality assurance of key programme deliverables, work programming, and budgeting. An accomplished writer, Polly has authored numerous technical reports, websites, and case studies.
