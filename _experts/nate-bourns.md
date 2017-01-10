@@ -1,21 +1,22 @@
 ---
 title: Nate Bourns
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Bourns
-regions:
-- Latin America and the Caribbean
+summary: 'Nate Bourns began learning the value of language as a 12-year-old while
+  on a trip to Mexico with his Spanish class—and the lesson stuck. "Language opens
+  up all sorts of windows to the world, and lets you think the way other people think,"
+  Nate says.
+
+'
+job-title: Vice President, Technical Services
+image: "/assets/images/experts/nate_inner.jpg"
 solutions:
 - Economic Growth
 - Environment and Energy
 - Governance
+regions:
+- Latin America and the Caribbean
 layout: expert
-image: "/assets/images/experts/nate_inner.jpg"
-summary: |
-  Nate Bourns began learning the value of language as a 12-year-old while on a trip to Mexico with his Spanish class—and the lesson stuck. "Language opens up all sorts of windows to the world, and lets you think the way other people think," Nate says.
-job-title: Managing Director, International
-articles:
-- name: 
-  article_file: 
 ---
 
 Nate Bourns began learning the value of language as a 12-year-old while on a trip to Mexico with his Spanish class—and the lesson stuck. "Language opens up all sorts of windows to the world, and lets you think the way other people think," Nate says. "Being able to see things from the local people's perspective is essential when working in development." This is certainly true in microfinance, which provides basic financial services—borrowing, saving, insurance, and so on—for people traditionally seen as too poor or isolated to appear as potential consumers for conventional banks.
