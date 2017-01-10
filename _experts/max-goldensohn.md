@@ -25,7 +25,7 @@ Max Goldensohn joined the Peace Corps after college and spent two years in Gabon
 
 Max's work and results cover many disciplines, including: natural resource management; rural health delivery systems; trans-regional initiatives; partnership building between farmers, water-users, entrepreneurs, villagers, city-dwellers, government, and the private sector; and planning and orientation exercises.
 
-<iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="http://player.vimeo.com/video/38160870?title=0&amp;byline=0&amp;portrait=0&amp;loop=1" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="https://player.vimeo.com/video/38160870?title=0&amp;byline=0&amp;portrait=0&amp;loop=1" webkitallowfullscreen="" width="703"></iframe>
 
 He has lived and worked in Laos, Gabon, Mauritania, Mali, Sri Lanka, Zaire, Egypt, and Colombia. Max has served as Chief of Party of major USAID-funded projects in Mauritania, Zaire, Sri Lanka and Egypt and as country director in Colombia for the Pan-American Development Foundation. "More than anything else, I have enjoyed my time as a long-term, resident manager of projects," Max says. "Living for two to five years in a place gives you the chance to have a real impact on people's lives." Max is fluent in French and Spanish; useful in German; formerly fluent or useful in Egyptian Arabic, Sinhala, Kiswahili, Ngbandi, Lingala, Lao, and Soninke.
 

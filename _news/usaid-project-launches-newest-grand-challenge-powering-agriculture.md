@@ -21,7 +21,7 @@ Today 1.4 billion people lack access to clean energy. The impact of this limited
 
 To address these issues, the U.S. Agency for International Development (USAID) in partnership with the Swedish International Development Cooperation Agency, (Sida), Duke Energy, the African Development Bank (AfDB), the Overseas Private Investment Corporation (OPIC) and USDA, on June 12 launched Powering Agriculture: An Energy Grand Challenge for Development.  The challenge was launched at USAID's Frontiers in Development three-day conference in Washington, D.C.
 
-<iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="http://player.vimeo.com/video/43930217?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="https://player.vimeo.com/video/43930217?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
 With support from the DAI-led [Grand Challenges for Development][1] team, the initiative aims to increase clean energy access and support economic growth in the developing world through finding and scaling effective, clean energy solutions for farmers and agribusinesses. Success will result in enhanced food security and increased economic resiliency in the host communities.
 

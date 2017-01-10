@@ -24,7 +24,7 @@ While working at The Housing Bank for Trade and Finance in Amman, Jordan, Jamal 
 
 When he began to see the tangible outcomes of his team's efforts, from more products available in the supermarket to increased telephone access, Jamal knew he was taking part in something meaningful. He eventually became USAID/Jordan's Deputy Director for the Office for Economic Opportunities, the first Jordanian to hold that position. As a Cognizant Technical Officer, Jamal designed and managed the largest USAID Economic Opportunities projects in Jordan. He managed a privatization program that became the model partnership between USAID, the World Bank, and the Government of Jordan, and he has helped facilitate trade agreements with the United States as well as revamp Jordan's capital markets. In 2008 he joined DAI, where he is tasked with broadening and deepening DAI's long history of delivering development results in Jordan and the region.
 
-<iframe allowfullscreen="" frameborder="0" height="392" mozallowfullscreen="" src="http://player.vimeo.com/video/35148061?byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="392" mozallowfullscreen="" src="https://player.vimeo.com/video/35148061?byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
 * B.S., banking, University of Alabama
 * M.B.A., banking, Stirling University, Scotland

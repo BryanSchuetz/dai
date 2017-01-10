@@ -26,4 +26,4 @@ In the past 10 years, DAI has been at the forefront of technological innovation 
 
 Watch the webinar below:  
 
-<iframe allowfullscreen="" frameborder="0" height="378" mozallowfullscreen="" src="http://player.vimeo.com/video/43682098?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="378" mozallowfullscreen="" src="https://player.vimeo.com/video/43682098?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>

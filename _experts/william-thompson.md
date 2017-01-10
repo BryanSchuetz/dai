@@ -23,7 +23,7 @@ After ditching plans to become a lawyer, William Thompson, via the Peace Corps a
 
 He returned to the United States and worked from 2005-2007 as manager of international affairs for the AIDS Project Los Angeles. From February 2007 until September 2011, William led development projects in Afghanistan, first as country director for Relief International and FLAG International, and since September 2008 as director, deputy chief of party, and chief of party for the DAI-led Local Governance and Community Development project, the flagship governance project in Afghanistan of the U.S. Agency for International Development. Most recently he headed up the Jordan Workforce Development Project.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="http://player.vimeo.com/video/37802405?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/37802405?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
 * B.A., political science, Widener University; graduate coursework, Tufts University Fletcher School of Law and Diplomacy
 * Training in refugees studies programme, University of Oxford
