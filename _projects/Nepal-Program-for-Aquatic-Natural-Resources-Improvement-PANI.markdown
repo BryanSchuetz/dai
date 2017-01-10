@@ -26,6 +26,7 @@ The Program for Aquatic Natural Resources Improvement (PANI), funded by the U.S.
 
 PANI will work to raise the profile of freshwater issues through policy engagement, academic research, curriculum development, and sponsorship of international forums. PANI will emphasize user-centered design to analyze how various stakeholders, including fishermen, government officials, and hydropower developers, use water resources to better incentivize their engagement in water conservation and management activities.
 
+![PANI cover.jpg](/uploads/PANI%20cover.jpg)
 
 ### Sample Activities
 
