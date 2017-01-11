@@ -5,7 +5,7 @@ lastname: Turrall
 summary: 'Alexis has worked in both the private and public sector as an international
   development specialist. '
 job-title: 'Deputy Director, Programme Management Unit, Europe '
-image: "/uploads/Alexis.jpg"
+image: "/uploads/AlexisTurrall%20INNER.jpg"
 solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management
