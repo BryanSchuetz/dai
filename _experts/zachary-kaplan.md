@@ -1,26 +1,25 @@
 ---
 title: Zachary Kaplan
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Kaplan
-regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
-- Middle East and North Africa
-- Sub-Saharan Africa
+summary: Originally from North Carolina, Zachary Kaplan never planned to become a
+  development professional. Instead, he wanted to be a veterinarian. However, after
+  creating an international development outreach program as a graduate student, Zach
+  decided to pursue a career in development instead.
+job-title: Director, Energy and Resources Group
+image: "/assets/images/experts/KaplanInner.jpg"
 solutions:
 - Business Environment Reform
 - Corporate Services
 - Economic Growth
 - Institutional and Policy Reform
 - Natural Resource Management
-layout: expert
-image: "/assets/images/experts/KaplanInner.jpg"
-summary: Originally from North Carolina, Zachary Kaplan never planned to become a
-  development professional. Instead, he wanted to be a veterinarian. However, after
-  creating an international development outreach program as a graduate student, Zach
-  decided to pursue a career in development instead.
-job-title: Development Specialist and Chief of Party, Chevron Masters Services Agreement
+regions:
+- Asia and the Pacific
+- Eastern Europe and Central Asia
+- Latin America and the Caribbean
+- Middle East and North Africa
+- Sub-Saharan Africa
 articles:
 - name: Addressing Resilience to Climate Change with Public-Private Partnerships in
     Vietnam, _Developing Alternatives_, Winter 2013–14
@@ -28,6 +27,7 @@ articles:
 - name: 'Mining for Answers: Mozambique Weighs Options for a Practical, Profitable
     Local Content Policy, _Developments_'
   article_file: http://dai-global-developments.com/articles/mining-for-answers.html
+layout: expert
 ---
 
 Originally from North Carolina, Zachary Kaplan never planned to become a development professional. Instead, he wanted to be a veterinarian. However, after creating an international development outreach program as a graduate student, Zach decided to pursue a career in development instead. He came to DAI after several years at the World Bank Group. His development focus has been on private and financial sector development and unlocking ways to open markets to new private sector actors. In particular, Zach specializes in public-private partnerships (PPP) in both core and social infrastructure, helping governments and private sector clients work together and deliver key services and goods. He is also interested in the intersection of private sector development, natural resource development, and environmental conservation.
