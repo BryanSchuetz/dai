@@ -1,6 +1,7 @@
 ---
 title: Zachary Kaplan
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Kaplan
 summary: Originally from North Carolina, Zachary Kaplan never planned to become a
   development professional. Instead, he wanted to be a veterinarian. However, after
