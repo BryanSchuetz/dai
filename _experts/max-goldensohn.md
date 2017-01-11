@@ -1,22 +1,19 @@
 ---
 title: Max Goldensohn
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Goldensohn
-regions:
-- Middle East and North Africa
-- Sub-Saharan Africa
-solutions:
-- Economic Growth
-layout: expert
-image: "/assets/images/experts/Goldensohn_Inner.jpg"
 summary: Max Goldensohn joined the Peace Corps after college and spent two years in
   Gabon building schools with villagers in remote communities. After graduate school,
   Max went to Laos as a civilian volunteer during the Vietnam War and taught future
   teachers to do community development.
-job-title: Team Leader, Ethiopia PEPE and Senior Advisor for Special Projects
-articles:
-- name: 
-  article_file: 
+job-title: Senior Advisor for Special Projects
+image: "/assets/images/experts/Goldensohn_Inner.jpg"
+solutions:
+- Economic Growth
+regions:
+- Middle East and North Africa
+- Sub-Saharan Africa
+layout: expert
 ---
 
 Max Goldensohn joined the Peace Corps after college and spent two years in Gabon building schools with villagers in remote communities. After graduate school, Max went to Laos as a civilian volunteer during the Vietnam War and taught future teachers to do community development. By then he was thoroughly bitten by the international development bug, and has since worked for 40 years in program management, capacity building, training, and monitoring and evaluation, including more than 20 years managing long-term projects in agribusiness and agricultural production in the developing world. Max has augmented his expertise with a deep understanding of strategy development, planning and capacity building, and the impact of policy on citizens' lives, all of it grounded in his training in anthropology.
