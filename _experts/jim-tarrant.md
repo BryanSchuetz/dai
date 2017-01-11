@@ -1,20 +1,20 @@
 ---
 title: Jim Tarrant
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Tarrant
+summary: "Jim Tarrant leads the Biodiversity Results and Integrated Biodiversity Gains
+  Enhanced (BRIDGE) Project based in Washington, D.C. \n"
+job-title: Chief of Party, BRIDGE
+image: "/assets/images/experts/Tarrant%20inner.jpg"
+solutions:
+- Environment and Energy
+- Natural Resource Management
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
 - Middle East and North Africa
-solutions:
-- Environment and Energy
-- Natural Resource Management
 layout: expert
-image: "/assets/images/experts/Tarrant%20inner.jpg"
-summary: |
-  Jim Tarrant leads the Biodiversity Results and Integrated Biodiversity Gains Enhanced (BRIDGE) Project based in Washington, D.C. BRIDGE provides long-term technical assistance to the U.S. Agency for International Development (USAID) and various missions to build support for biodiversity integration across development sectors: food security, health, governance, economic development, and climate change mitigation and adaptation projects.
-job-title: Chief of Party, BRIDGE
 ---
 
 Jim Tarrant leads the Biodiversity Results and Integrated Biodiversity Gains Enhanced (BRIDGE) Project based in Washington, D.C. BRIDGE provides long-term technical assistance to the U.S. Agency for International Development (USAID) and various missions to build support for biodiversity integration across development sectors: food security, health, governance, economic development, and climate change mitigation and adaptation projects.
