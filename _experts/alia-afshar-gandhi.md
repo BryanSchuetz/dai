@@ -16,7 +16,7 @@ regions:
 layout: expert
 ---
 
-Alia Afshar-Gandhi works in the area of food security and agriculture, where she specializes in strengthening rural livelihoods in post-conflict countries. Her specific areas of expertise include value chain analysis, alternative livelihoods, and rural economic development. She has worked in transitional environments including Afghanistan, Angola, Iraq, Liberia, Rwanda, and South Africa. She has conducted value chain analysis around agriculture, tourism and handicraft sectors, developed small grants programs, and has worked with gender and microenterprise teams to identify income-generating opportunities for marginalized women. Alia recently gave an interview as part of a series on Women in Development highlighting the role women play in DAI’s work around the globe.
+Alia Afshar-Gandhi works in the area of food security and agriculture, where she specializes in strengthening rural livelihoods in post-conflict countries. Her specific areas of expertise include value chain analysis, alternative livelihoods, and rural economic development. She has worked in transitional environments including Afghanistan, Angola, Iraq, Liberia, Rwanda, and South Africa. She has conducted value chain analysis around agriculture, tourism and handicraft sectors, developed small grants programs, and has worked with gender and microenterprise teams to identify income-generating opportunities for marginalized women. 
 
 Alia, a member of DAI’s Food Security and Agriculture group, was drawn to international development from an early age. Her strong desire to work with people from all over the world and help to improve their livelihoods has been a challenging and highly rewarding experience.
 
