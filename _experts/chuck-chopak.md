@@ -23,7 +23,7 @@ The village chief gave him the name Ibrahima Diene, and he went to work building
 
 > “Life was harsh—I used the same bathroom, got sick from the same water, saw kids dying at an early age, and saw the joy that a good harvest brought.” — Chuck Chopak
 
-After earning his doctorate, Chuck went on to lead some of the world’s most important food security programs, including the Washington, D.C.-based Famine Early Warning Systems Network (FEWS NET). He served long-term postings in Senegal and Zimbabwe and completed numerous assignments in African nations and Haiti. He now leads the DAI team implementing food security projects in Africa and Central Asia. He manages our Support for Food Security Activities indefinite quantity contract with the U.S. Agency for International Development, as well as our long-term agreement with the World Food Programme to analyze work in select countries and recommend improvements.
+After earning his doctorate, Chuck went on to lead some of the world’s most important food security programs, including the Washington, D.C.-based Famine Early Warning Systems Network (FEWS NET). He served long-term postings in Senegal and Zimbabwe and completed numerous assignments in African nations and Haiti. He now leads the DAI team implementing food security projects in Africa and Central Asia. 
 
 * President, Association for International Agriculture and Rural Development
 
