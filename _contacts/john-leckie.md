@@ -1,9 +1,7 @@
 ---
 title: John Leckie
-date: 2016-01-21 22:18:43.395000000 Z
-group: Portfolio Coordinators
-image: "/assets/images/contacts/john-leckie.jpg"
-job-title: Knowledge Management - Land
+date: 2016-01-21 22:18:00 Z
+job-title: Knowledge Management, Land
 email: john_leckie@dai.com
 summary: John, a Principal Consultant in our land team, has 14 years of international
   project experience in the land, natural resources, and environment sectors in Europe,
@@ -13,6 +11,8 @@ summary: John, a Principal Consultant in our land team, has 14 years of internat
   Development, the European Commission, the Pan American Health Organization, the
   Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food
   and Rural Affairs, and various nonprofits.
+image: "/assets/images/contacts/john-leckie.jpg"
+group: Portfolio Coordinators
 sort-order: 1
 ---
 
