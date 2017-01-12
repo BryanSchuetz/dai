@@ -1,9 +1,7 @@
 ---
 title: Ruth Sparrey
-date: 2016-01-21 22:18:43.395000000 Z
-group: Portfolio Coordinators
-image: "/assets/images/contacts/ruth-sparrey.jpg"
-job-title: Project Management and Livelihoods
+date: 2016-01-21 22:18:00 Z
+job-title: Managing Development Results
 email: ruth_sparrey@dai.com
 summary: 'Ruth is the Programme Manager for Evidence on Demand, a U.K. Department
   for International Development (DFID)-supported knowledge service that covers climate,
@@ -14,6 +12,8 @@ summary: 'Ruth is the Programme Manager for Evidence on Demand, a U.K. Departmen
   on Demand service, Ruth provided technical support to DFID’s Programme of Advisory
   Support Services and managed the DFID Livelihood Resource Centre (covering core
   services and framework contracts). '
+image: "/assets/images/contacts/ruth-sparrey.jpg"
+group: Portfolio Coordinators
 sort-order: 5
 ---
 
