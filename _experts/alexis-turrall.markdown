@@ -8,7 +8,7 @@ job-title: 'Deputy Director, Programme Management Unit, Europe '
 image: "/uploads/AlexisTurrall%20INNER.jpg"
 solutions:
 - Governance
-- Public Administration, Civil Service Reform, and Human Resources Management
+- 
 regions: Sub-Saharan Africa
 ---
 
