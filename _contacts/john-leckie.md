@@ -13,7 +13,6 @@ summary: John, a Principal Consultant in our land team, has 14 years of internat
   Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food
   and Rural Affairs, and various nonprofits.
 image: "/assets/images/contacts/john-leckie.jpg"
-group: Portfolio Coordinators
 sort-order: 1
 ---
 
