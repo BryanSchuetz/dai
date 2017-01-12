@@ -36,6 +36,10 @@ Our visual identity is built around our colors—brown, green, and blue—and th
 
 As a rule, no. Typically we implement programs funded by international donors, national governments, private corporations, or major philanthropies. As part of those programs, we very often are charged with overseeing and disbursing program funds in support of civil society organizations, local institutions, or programs with development-oriented goals, but those disbursements are invariably on a local, program-by-program basis. That said, we do sponsor a [service award][3] for DAI employees who volunteer in their communities.
 
+### Who Owns DAI?
+ 
+DAI is wholly owned by its employees. All global corporate employees may invest in the firm, and more than 80 percent have done so. In 2016, at the annual conference of the Global Equity Organization (GEO), an organization dedicated to advancing understanding of employee share plans, DAI’s plan won the award for Best Use of a Share Plan in a Private Company. “DAI has raised the bar in achieving its corporate objectives and inclusively engaging its workforce as owners,” wrote GEO.
+
 
 
 [1]: mailto:steven_o'connor@dai.com?subject=faq
