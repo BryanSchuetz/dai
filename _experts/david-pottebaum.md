@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Pottebaum
 summary: David Pottebaum has more than 27 years of technical and managerial experience
   focusing on institutional and organizational development, public administration
-  transparency and accountability, policy reform and rural agricultural development.
+  transparency and accountability, policy reform, and rural agricultural development.
 job-title: Chief of Party, Philippines ENGAGE Program
 image: "/uploads/David%20Pottebaum%20NEW.jpg"
 solutions:
@@ -15,9 +15,9 @@ regions:
 layout: expert
 ---
 
-David Pottebaum has more than 27 years of technical and managerial experience focusing on institutional and organizational development, public administration transparency and accountability, policy reform and rural agricultural development. For more than 16 years he has led and managed recovery and reconciliation projects and operations in complex settings in Southeast and South Asia. 
+David Pottebaum has more than 27 years of technical and managerial experience focusing on institutional and organizational development, public administration transparency and accountability, policy reform, and rural agricultural development. For more than 16 years he has led and managed recovery and reconciliation projects and operations in complex settings in Southeast and South Asia. 
 
-Dr. Pottebaum has served as U.S. Agency for International Development (USAID) Chief of Party on five long-term projects with a total contract value of more than $125 million implemented by Development Alternatives, Inc. (DAI) in Southeast and South Asia over the past 14 years. He has managed large, diverse teams, including hiring for start-ups and to match changes in the work environment and of contract demands; established systems for effective program operations; managed budgets composed of funds from multiple sources; and implemented grant programs with total value of $40 million, including more than 1,000 grant awards to local and international nongovernmental organizations (NGOs). He has regularly worked with and served as liaison to high-level government officials and USAID mission staff.
+David has served as U.S. Agency for International Development (USAID) Chief of Party on five long-term projects in Southeast and South Asia over the past 14 years. He has managed large, diverse teams, including hiring for start-ups and to match changes in the work environment and of contract demands; established systems for effective program operations; managed budgets composed of funds from multiple sources; and implemented grant programs with total value of $40 million, including more than 1,000 grant awards to local and international nongovernmental organizations (NGOs). He has regularly worked with and served as liaison to high-level government officials and USAID mission staff.
 
 Dr. Pottebaum currently serves as the Chief of Party on the $16 million Enhancing Governance, Accountability and Engagement (ENGAGE) Project in the Philippines, where he leads the design and implementation of governance, accountability and local government and NGO capacity-building initiatives. Prior to this, he served as Chief of Party on the following USAID-funded projects, each having focus on building government and NGO capacity on governance, accountability, and conflict prevention, mitigation and reconciliation themes: Thailand Sapan Project ($30 million); Bangladesh Promoting Governance, Accountability, Transparency and Integrity project (PROGATI, $18 million); Indonesia Support for Peaceful Democratization project (SPD, $44 million); and Indonesia Program Support Initiative (PSI, $17 million).
 
