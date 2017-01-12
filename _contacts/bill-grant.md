@@ -1,8 +1,7 @@
 ---
 title: Bill Grant
-date: 2016-01-21 22:18:43.395000000 Z
-group: Portfolio Coordinators
-image: "/assets/images/contacts/bill-grant.jpg"
+date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Project Management, Making Markets Work for the Poor (M4P)
 email: bill_grant@dai.com
 summary: Bill focuses on bringing new models of market-led, sustainable economic development
@@ -13,6 +12,8 @@ summary: Bill focuses on bringing new models of market-led, sustainable economic
   role in the development and application of subsector and value chain approaches,
   and is currently leading numerous programs applying the Making Markets Work for
   the Poor (M4P) approach for private sector and international donors.
+image: "/assets/images/contacts/bill-grant.jpg"
+group: Portfolio Coordinators
 sort-order: 0
 ---
 
