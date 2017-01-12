@@ -10,7 +10,6 @@ summary: A member of the project management team, Peter is responsible for plann
   managing, monitoring, and evaluating rural development programmes in Europe, Central
   and South Asia, the Horn of Africa, and West and Southern Africa.
 image: "/assets/images/contacts/peter-ross.jpg"
-group: Portfolio Coordinators
 sort-order: 3
 ---
 
