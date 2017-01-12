@@ -16,7 +16,7 @@
           </li>
         {% endfor %}
       {% endunless %}
-      {% unless page.regions[0] == null %}
+      {% unless page.regions == '' %}
         {% for locale in page.regions limit:2 %}
           <li>
             {% for region in site.regions %}
