@@ -1,6 +1,7 @@
 ---
 title: John Leckie
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Knowledge Management, Land
 email: john_leckie@dai.com
 summary: John, a Principal Consultant in our land team, has 14 years of international
