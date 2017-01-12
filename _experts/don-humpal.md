@@ -8,8 +8,8 @@ summary: Don Humpal has worked for more than 30 years on agricultural production
 job-title: Global Practice Specialist, Agriculture & Food Security
 image: "/assets/images/experts/Humpal_Inner.jpg"
 regions:
-- Asia and the Pacific
 - Eastern Europe and Central Asia
+- Middle East and North Africa
 - Sub-Saharan Africa
 layout: expert
 ---
