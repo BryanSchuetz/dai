@@ -1,13 +1,13 @@
 ---
 title: Katja Silva-Leander
-date: 2016-01-21 22:18:43.395000000 Z
-group: Portfolio Coordinators
-image: "/assets/images/contacts/katja-silva-leander.jpg"
-job-title: Knowledge Management, Private Sector Development
+date: 2016-01-21 22:18:00 Z
+job-title: Inclusive Economic Growth
 email: katja_silva-leander@dai.com
 summary: Katja is responsible for building DAI’s private sector development practice
   in the London office, focusing on European donors, international financial institutions,
   and private sector clients.
+image: "/assets/images/contacts/katja-silva-leander.jpg"
+group: Portfolio Coordinators
 sort-order: 4
 ---
 
