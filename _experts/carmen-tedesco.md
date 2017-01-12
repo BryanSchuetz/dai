@@ -1,34 +1,29 @@
 ---
 title: Carmen Tedesco
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Tedesco
-regions:
-- 
-solutions:
-- Environment and Energy
-- Digital
-layout: expert
-image: "/assets/images/experts/carmen_inner.jpg"
 summary: Climate change adaptation is Carmen's primary interest. From her fieldwork
   on the North Slope of Alaska and in Glacier National Park in Montana, to work in
   Bangladesh and the deserts of Tunisia, she has witnessed the direct impacts of climate
   change on diverse ecosystems and cultures.
-job-title: Senior Spatial Planning and Development Specialist
-articles:
-- name: 
-  article_file: 
+job-title: 'Senior Spatial Planning Specialist, Climate Change '
+image: "/assets/images/experts/carmen_inner.jpg"
+solutions:
+- Environment and Energy
+- Digital
+regions:
+- 
+layout: expert
 ---
 
-Carmen Tedesco became a geographer after finding other fields of study too limiting. "I was interested in infectious diseases, land management, and global climate change," she said, "but wasn't finding the right angle until I took my first geography course—then it all made sense." Carmen has since earned her bachelor's and master's degrees in geography and now applies her skills in spatial analysis and planning to DAI's work on environment and energy issues. "I've had some intense experiences—from volcano tracking at the Alaska Volcano Observatory, to having stern public debates with the U.S. Forest Service, to taking part in participatory mapping with young people all over the world," she said.
+Carmen Tedesco became a geographer after finding other fields of study too limiting. “I was interested in infectious diseases, land management, and global climate change,” she said, “but wasn’t finding the right angle until I took my first geography course—then it all made sense.” Carmen now has 15 years of experience as a geographer, specializing in human-environmental interrelationships, geospatial technologies, and climate change. She combines strong knowledge management skills in natural resource management with experience in community-based mapping, spatial planning, and climate services. She is a translator of technology, assisting others in finding innovative solutions through the use of spatial tools and visualizations. She has multiple degrees in geography. “I’ve had some intense experiences—from volcano tracking at the Alaska Volcano Observatory, to having stern public debates with the U.S. Forest Service, to working with district forest rangers in Nepal and Bhutan to improve a forest fire warning systems,” she said. 
 
-> "For development work to succeed, it takes a solid understanding of the culture, history, and physical environment of a place, especially when dealing with problems with huge uncertainty, such as global climate change." — Carmen Tedesco
-
-Climate change adaptation is Carmen's primary interest. From her fieldwork on the North Slope of Alaska and in Glacier National Park in Montana, to work in Bangladesh and the deserts of Tunisia, she has witnessed the direct impacts of climate change on diverse ecosystems and cultures. Carmen has served as a Designated Contact Point to the United Nations Framework Convention on Climate Change, leading delegations in Copenhagen, Bonn, and Cancun. As part of the Geographic Information System/Information and Communication Technology team at DAI, Carmen works with projects and proposal teams, serving as a geospatial coordinator, building buy-in, educating teams on the uses of geospatial tools, and conducting analysis. She also co-manages an online peer network of natural resource management practitioners—[FRAMEweb.org][1].
+Combining geospatial information and climate change is Carmen’s primary interest. From her fieldwork on the North Slope of Alaska and in the Terai region of Nepal, to work in Bangladesh and the deserts of Tunisia, she has witnessed the direct impacts of climate change on diverse ecosystems and cultures. Carmen has served as Senior Lead for Program Demand on the SERVIR project, a U.S. Agency for International Development (USAID) and NASA partnership where she led the user engagement and knowledge management of large geospatial systems. She was also a Knowledge Management Specialist on the Capitalizing Knowledge Connecting Communities (CK2C) project. As part of the Climate Change Team at DAI, Carmen works with projects and proposal teams, serving as a geospatial advisor, and supporting technical needs. 
 
 * M.A., geography, University of Illinois Urbana-Champaign
+
 * B.A., geography, Middlebury College
+
 * Founder, Vermont Development Network
+
 * Member: Association of American Geographers, American Geophysical Union, Society for International Development
-
-
-[1]: http://frameweb.org/

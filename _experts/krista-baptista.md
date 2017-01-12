@@ -1,25 +1,22 @@
 ---
 title: Krista Baptista
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Baptista
+summary: From her early research in cultural anthropology to subsequent work in management
+  consulting, Krista Baptista has always been engaged around ways to do things better
+  and empower entrepreneurs to use new skills and tools.
+job-title: Director, ICT
+image: "/assets/images/experts/BaptistaInner1.jpg"
+solutions:
+- Economic Growth
+- Digital
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
 - Middle East and North Africa
 - Sub-Saharan Africa
-solutions:
-- Economic Growth
-- Digital
 layout: expert
-image: "/assets/images/experts/BaptistaInner1.jpg"
-summary: From her early research in cultural anthropology to subsequent work in management
-  consulting, Krista Baptista has always been engaged around ways to do things better
-  and empower entrepreneurs to use new skills and tools.
-job-title: Manager, ICT Services
-articles:
-- name: 
-  article_file: 
 ---
 
 From her early research in cultural anthropology to subsequent work in management consulting, Krista Baptista has always been engaged around ways to do things better and empower entrepreneurs to use new skills and tools. Combining this background with an interest in international development led her to DAI and, specifically, to ways that information and communication technology (ICT) and geospatial tools can be integrated into development work.

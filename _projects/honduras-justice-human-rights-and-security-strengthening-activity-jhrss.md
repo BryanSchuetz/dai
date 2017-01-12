@@ -1,13 +1,14 @@
 ---
 title: Honduras—Justice, Human Rights, and Security Strengthening Activity (JHRSS)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: In the wake of the 2009 removal of President Manual Zelaya, a weak state
+  response to gang-related crime has led to unprecedented levels violence. The average
+  Honduran living in an urban area faces risks such as bus robberies, indiscriminate
+  homicides, extortion phone calls, and other criminal activities perpetrated by gangs,
+  often with a high level of impunity.
 start: 2016
 end: 2017
-regions:
-- Latin America and the Caribbean
-country:
-- Honduras
+client: U.S. Agency for International Development
 solutions:
 - Conflict and Vulnerability Analysis
 - Governance
@@ -17,12 +18,11 @@ solutions:
 - Security and Justice Development
 - Stability
 - Voice and Accountability
+regions:
+- Latin America and the Caribbean
+country:
+- Honduras
 layout: project
-summary: In the wake of the 2009 removal of President Manual Zelaya, a weak state
-  response to gang-related crime has led to unprecedented levels violence. The average
-  Honduran living in an urban area faces risks such as bus robberies, indiscriminate
-  homicides, extortion phone calls, and other criminal activities perpetrated by gangs,
-  often with a high level of impunity.
 ---
 
 In the wake of the 2009 removal of President Manual Zelaya, a weak state response to gang-related crime has led to unprecedented levels violence. The average Honduran living in an urban area faces risks such as bus robberies, indiscriminate homicides, extortion phone calls, and other criminal activities perpetrated by gangs, often with a high level of impunity. Along with corrupt law enforcement officials and political interests that oppose reforms, the rising violence has significantly undermined the public's trust in the judicial system. Furthermore, disillusionment with an unresponsive government as well as fear of gang reprisals deters local leaders and citizens from working together with law enforcement officials to improve safety in their own communities.

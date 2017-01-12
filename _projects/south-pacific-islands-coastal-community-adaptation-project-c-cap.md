@@ -1,16 +1,6 @@
 ---
 title: South Pacific Islands—Coastal Community Adaptation Project (C-CAP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2012
-end: 2016
-regions:
-- Asia and the Pacific
-country: Regional
-solutions:
-- Environment and Energy
-- Climate Change Adaptation and Mitigation
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: The Pacific Island countries comprise the most vulnerable region in the world
   to climate change. The nature-based livelihoods and diverse cultures that have risen
   from these island nations—some of which stand only meters above sea level—are being
@@ -18,6 +8,16 @@ summary: The Pacific Island countries comprise the most vulnerable region in the
   and acidity, increasing air temperatures, shifting rainfall and storm patterns,
   and other impacts of climate change that are projected to increase over the next
   100 years.
+start: 2012
+end: 2017
+client: U.S. Agency for International Development
+solutions:
+- Environment and Energy
+- Climate Change Adaptation and Mitigation
+regions:
+- Asia and the Pacific
+country: Regional
+layout: project
 ---
 
 The Pacific Island countries comprise the most vulnerable region in the world to climate change. The nature-based livelihoods and diverse cultures that have risen from these island nations—some of which stand only meters above sea level—are being challenged, and in some cases overwhelmed, by sea level rise, changing ocean temperatures and acidity, increasing air temperatures, shifting rainfall and storm patterns, and other impacts of climate change that are projected to increase over the next 100 years.

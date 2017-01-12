@@ -1,21 +1,19 @@
 ---
 title: Paul Hartman
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Hartman
-regions:
-- Asia and the Pacific
-solutions:
-- Climate Change Adaptation and Mitigation
-- Environment and Energy
-layout: expert
-image: "/assets/images/experts/innerpaul.jpg"
 summary: The schoolyards of Queens, New York, where Paul Hartman grew up, are a long
   way from the jungles of Borneo. But that's the journey Paul made when he moved to
   Indonesia in 2001, eventually to run an orangutan conservation program for DAI.
 job-title: Chief of Party, Mekong ARCC
-articles:
-- name: 
-  article_file: 
+image: "/assets/images/experts/innerpaul.jpg"
+solutions:
+- Climate Change Adaptation and Mitigation
+- Environment and Energy
+regions:
+- Asia and the Pacific
+layout: expert
 ---
 
 The schoolyards of Queens, New York, where Paul Hartman grew up, are a long way from the jungles of Borneo. But that's the journey Paul made when he moved to Indonesia in 2001, eventually to run an orangutan conservation program for DAI.

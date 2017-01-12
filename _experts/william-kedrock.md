@@ -1,8 +1,13 @@
 ---
 title: William Kedrock
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Kedrock
-regions: 
+summary: William brings more than 30 years of experience to the challenges of business
+  competitiveness, enterprise development, business enabling environment, investment
+  facility design, and public-private dialogue.
+job-title: Managing Director, Economic Growth
+image: "/assets/images/experts/KedrockInner.jpg"
 solutions:
 - Agriculture and Food Security
 - Business Environment Reform
@@ -10,14 +15,6 @@ solutions:
 - Financial Services
 - Value Chain Development for Agribusiness and Other Sectors
 layout: expert
-image: "/assets/images/experts/KedrockInner.jpg"
-summary: William brings more than 30 years of experience to the challenges of business
-  competitiveness, enterprise development, business enabling environment, investment
-  facility design, and public-private dialogue.
-job-title: Managing Director, Economic Growth
-articles:
-- name: 
-  article_file: 
 ---
 
 William brings more than 30 years of experience to the challenges of business competitiveness, enterprise development, business enabling environment, investment facility design, and public-private dialogue. He has worked in dozens of countries on various assignments—ranging from writing a franchise plan for 330 health clinics to designing a regional venture capital project to assessing policy and regulatory constraints to private sector growth to carrying out a risk assessment as part of an analysis for a loan portfolio guarantee program.

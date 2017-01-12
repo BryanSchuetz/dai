@@ -4,7 +4,7 @@
     <h1 class="expert-details--name">{{ page.title }}</h1>
     <p class="expert-details--title">{{ page.job-title }}</p>
     <ul class="expert-details--list">
-      {% unless page.solutions[0] == null %}
+      {% unless page.solutions == '' %}
         {% for expertise in page.solutions %}
         <li>
           {% assign primary_solutions = site.solutions | where:"type","primary" %}
@@ -16,7 +16,7 @@
           </li>
         {% endfor %}
       {% endunless %}
-      {% unless page.regions[0] == null %}
+      {% unless page.regions == '' %}
         {% for locale in page.regions limit:2 %}
           <li>
             {% for region in site.regions %}

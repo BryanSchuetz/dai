@@ -1,20 +1,18 @@
 ---
 title: Polly Gillingham
-date: 2016-01-21 22:18:43.395000000 Z
-group: Business Development
-image: "/assets/images/contacts/polly-gillingham.jpg"
-job-title: Business Development, DFID
+date: 2016-01-21 22:18:00 Z
+job-title: Director, Business Development, Europe
 email: polly_gillingham@dai.com
-summary: Polly is a livelihoods specialist, with a particular interest in social inclusion
-  and institutions for the governance of – and resolution of conflicts over - natural
-  resources. Polly began her career focusing on water resources, but over the years
-  her expertise has expanded to include forestry and land. Her range of work includes
-  programme design, policy reviews, programme evaluations, and socioeconomic impact
-  assessments. An accomplished writer, Polly has authored numerous technical reports,
-  websites, and case studies. Polly joined the company in 2000. Prior to that she
-  worked for a local consultancy based in Tanzania. Since joining the company she
-  has managed programmes in Bangladesh, Nigeria, and South Africa, as well as being
-  part of the core team for the Evidence on Demand programme and its predecessor programmes.
+summary: Polly is responsible for business development and competitive tendering processes
+  within DAI’s European business, with a prime focus on the U.K. Department for International
+  Development (DFID). Over the last 20 years, Polly has worked with a number of different
+  donors, including DFID, the World Bank, and the Millennium Challenge Corporation
+  over a wide range of geographies. Polly began her career working for  consultancy
+  in Tanzania, working mainly on livelihoods and natural resource management programmes.
+  She has maintained this technical focus since joining DAI in 2000, providing support
+  to a variety of programmes, including the Evidence on Demand service.
+image: "/assets/images/contacts/polly-gillingham.jpg"
+group: Management
 sort-order: 1
 ---
 

@@ -20,6 +20,10 @@ We tackle fundamental social and economic development problems caused by ineffic
 
 DAI is a company, wholly owned by its employees. Our founders were determined to live or die as an enterprise, offering services on a competitive, cost-effective, best-value basis that is self-sustaining because it is profitable. They created a business model that would embrace the rigors of the marketplace—competition and innovation—plough its returns back into the organization and its people, and grow a company to serve as an engine for progress in the developing world. Competition is at the heart of this vision. We compete for 99 percent of our projects, going head to head with companies, nongovernmental organizations, and other service providers. For DAI, open competition keeps us sharp and tests our claims to quality and value. For our clients, for taxpayers, and for development as a whole, competition yields lower costs, better value, superior technical innovation, and more diverse technical choices.
 
+### Who Owns DAI?
+ 
+DAI is wholly owned by its employees. All global corporate employees may invest in the firm, and more than 80 percent have done so. In 2016, at the annual conference of the Global Equity Organization (GEO), an organization dedicated to advancing understanding of employee share plans, DAI’s plan won the award for Best Use of a Share Plan in a Private Company. “DAI has raised the bar in achieving its corporate objectives and inclusively engaging its workforce as owners,” wrote GEO.
+
 ###  How many people work for DAI?
 
 Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of January 2017, we employ approximately 3000 people worldwide, more than 70 percent of them local staff.

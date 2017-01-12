@@ -1,34 +1,35 @@
 ---
 title: Zambia—Economic Advocacy Programme (ZEAP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+date: 2016-01-21 22:40:00 Z
+summary: While quality economic policy research exists within Zambia, the country's
+  policymakers were not always aware of how to access and use this information to
+  support economic growth. The Zambia—Economic Advocacy Programme (ZEAP) aimed to
+  raise both the quality of research as well as improve how research results are communicated
+  and used for advocacy.
 start: 2013
 end: 2016
-regions:
-- Sub-Saharan Africa
-country:
-- Zambia
+client: U.K. Department for International Development
 solutions:
 - Decentralization and Local Government Management
 - Economic Growth
 - Governance
 - Institutional and Policy Reform
 - Public Administration, Civil Service Reform, and Human Resources Management
+regions:
+- Sub-Saharan Africa
+country:
+- Zambia
 layout: project
-summary: While there is some quite good quality economic policy research in and around
-  Zambia, most people, including policy makers, don't know about it. ZEAP aims to
-  raise the quality of research and how it is communicated and improve the ways in
-  which it is used for advocacy.
 ---
 
-While there is some quite good quality economic policy research in and around Zambia, most people, including policy makers, don't know about it. ZEAP aims to raise the quality of research and how it is communicated and improve the ways in which it is used for advocacy. The intended outcome is more and better public debate with the expectation that this will lead to better economic policy and, in turn, more wealth creation and poverty alleviation.
+While quality economic policy research exists within Zambia, the country's policymakers were not always aware of how to access and use this information to support economic growth. The Zambia—Economic Advocacy Programme (ZEAP) aimed to raise both the quality of research as well as improve how research results are communicated and used for advocacy. The intended outcome was more and better public debate that would lead to better economic policy and, in turn, more wealth creation and poverty alleviation.
 
-Funded by the U.K. Department for International Development (DFID), ZEAP also supports the Economics Association of Zambia (EAZ), a long established association of business, banking, academic, and government representatives. The organisation is well placed to use its senior network to spread informed messages regarding economic policy.
+Funded by the U.K. Department for International Development (DFID), ZEAP also supported the Economics Association of Zambia (EAZ), a long-established association of business, banking, academic, and government representatives. The organisation was well placed to use its senior network to spread informed messages regarding economic policy.
 
-The topics of importance for policy debate in Zambia need to be chosen by Zambians. ZEAP advises its think tank partners about how to choose subjects which are relevant to the country's own interests and priorities, consistent with the think tank's own agenda, and which will attract interest from those who are well placed to influence policy.
+The topics of importance for policy debate in Zambia need to be chosen by Zambians. ZEAP advised its think tank partners about how to choose subjects which were relevant to the country's own interests and priorities, consistent with the think tank's own agenda, and which would attract interest from policy influencers.
 
 ###  Sample Activities
 
-* Support high-quality research.
-* Promote better publicity and advocacy around research results.
-* Strengthen capacity amongst partner think tanks to deliver these results.
+* Supported high-quality research.
+* Promoted better publicity and advocacy around research results.
+* Strengthened capacity amongst partner think tanks to deliver these results.

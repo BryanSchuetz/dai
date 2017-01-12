@@ -921,3 +921,19 @@ iframe{
   padding: 1rem;
   background-color: $nav-gray;
 }
+
+// 🎌 PRINT STYLES  🎌
+@media print{
+  .container, .header-inner, .footer-inner{
+    width: 100%;
+  }
+  .container{
+    padding-top: 10px;
+  }
+  header, footer, .node-nav{
+    display: none;
+  }
+  html{
+    font-size: 18px;
+  }
+}

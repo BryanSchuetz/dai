@@ -23,7 +23,7 @@ The DAI-led [Facility for New Market Development project (FNMD)][1] in Palestine
 
 Helen Winterton, the head of DFID in Jerusalem, said of the agency's flagship economic growth project: "I am delighted with the impact that FNMD has delivered over the past four years. And I strongly believe that Palestinian companies can deliver quality products and services that can compete globally."
 
-<iframe src="http://player.vimeo.com/video/36162922?title=0&amp;byline=0&amp;portrait=0" width="703" height="395" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/36162922?title=0&amp;byline=0&amp;portrait=0" width="703" height="395" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 The project, which was created to enhance the competitiveness of Palestinian businesses in the global marketplace, was co-sponsored by The World Bank and implemented in partnership with the Palestinian Ministry of National Economy. Over the past four years, FNMD has assisted more than 600 small- and medium-sized companies through matching grants and technical assistance to develop new products and to enter new local and international markets. Of the total number of companies helped, 76 are either owned or managed by women.
 

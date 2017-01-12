@@ -19,7 +19,7 @@ A recently released 15-minute documentary describes how a DAI-led project in the
 
 The documentary, made by Cinesur Films of Zamboanga for the [Philippines Water Revolving Fund][1] project, shows how USAID support was used to mobilize private bank loans to local water services providers, which used the financing to upgrade  purification and pumping systems and expand networks to communities that did not have clean, running water.
 
-<iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="http://player.vimeo.com/video/37755989?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="395" mozallowfullscreen="" src="https://player.vimeo.com/video/37755989?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
 Previously, the water service providers depended on their own revenue or donor support to undertake capital improvements and system expansions. The project, which is funded by the U.S. Agency for International Development (USAID), designed a  revolving fund mechanism that successfully blended private and public sector funding, and provided sufficient guarantees to catalyze loans from private banks to public water service providers.
 

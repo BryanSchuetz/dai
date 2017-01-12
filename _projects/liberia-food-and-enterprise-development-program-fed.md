@@ -21,16 +21,16 @@ Half of all Liberians generate their income through agriculture, yet agriculture
 
 Our market-led and value chain-driven methodology built indigenous capacity, and focused on benefiting Liberia’s women and [youth](http://afkinsider.com/45636/agriculture-meets-education-usaid-back-to-school-farming-program/). New market linkages catalyzed income and job growth and increased in the production, processing, marketing, and nutritional utilization of rice, cassava, and vegetables in Bong, Lofa, Nimba, Grand Bassa, Montserrado, and Margibi counties, a region targeted as a development corridor that fosters commerce, simultaneously [improving food availability](http://www.goodfoodworld.com/2013/09/development-aid-programs-target-small-scale-farmers-to-ramp-up-production-in-food-insecure-liberia/) and access and dietary diversity.
 
-FED is Africa’s largest project under the U.S. Goverment’s Feed the Future Initiative, which promotes a move away from subsistence and increasing food security by working with public and private bodies, including the Government of Liberia, private sector, local nongovernmental groups, and other key stakeholders.
+FED was Africa’s largest project under the U.S. Government’s Feed the Future Initiative, which promotes a move away from subsistence agriculture and works to increase food security by collaborating with the private sector and key government stakeholders.
 ![](/assets/images/projects/LiberiaFED.jpg)
 
 ### Sample Activities
 
-* Develop and disseminate improved technologies for agricultural productivity and profitability. Expand and modernize the input supply and extension systems.
-* Improve commercial marketing and food processing.
-* Bolster Liberian organizations that support business and farming.
-* Develop skills of agriculture-related workforce.
-* Launch a Market Development Fund to build Liberian capacity without compromising market development.
+* Developed and disseminated improved technologies for agricultural productivity and profitability. Expanded and modernized the input supply and extension systems.
+* Improved commercial marketing and food processing.
+* Bolstered Liberian organizations that support business and farming.
+* Developed skills of agriculture-related workforce.
+* Launched a Market Development Fund to build Liberian capacity without compromising market development.
 
 ### Select Results
 

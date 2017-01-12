@@ -154,5 +154,7 @@ sass:
   sass_dir: assets/_sass
   style: compressed
 baseurl: 
+url: https://www.dai.com
 gems:
 - jekyll-redirect-from
+- jekyll-sitemap

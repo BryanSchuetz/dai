@@ -1,30 +1,30 @@
 ---
 title: Robin Young
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: young
-regions:
-- Latin America and the Caribbean
-- Sub-Saharan Africa
-solutions:
-- Economic Growth
-- Financial Services
-layout: expert
-image: "/assets/images/experts/Young_Inner.jpg"
 summary: Robin Young began to focus her career on micro and small enterprise finance
   after learning in an undergraduate development economics course more than 20 years
   ago how this emerging field 'just worked. ... It was so practical and brought macroeconomics
   and global politics down to a concrete and effective level.'
 job-title: Global Practice Specialist, Financial Services
-articles:
-- name: 
-  article_file: 
+image: "/assets/images/experts/Young_Inner.jpg"
+solutions:
+- Economic Growth
+- Financial Services
+regions:
+- Latin America and the Caribbean
+- Sub-Saharan Africa
+layout: expert
 ---
 
-Robin Young began to focus her career on micro and small enterprise finance after learning in an undergraduate development economics course more than 20 years ago how this emerging field 'just worked. ... It was so practical and brought macroeconomics and global politics down to a concrete and effective level.' Since then she has dedicated herself to working with financial institutions and professionals in developing countries to build the capacity to effectively and sustainably service hundreds of thousands of enterprises with financial services. Her career has ranged from fund raising for nonprofit microfinance institutions to guiding a credit union through the tedious licensing process to advising the CEO of large banks on micro and small enterprise finance strategies and designing programs to strengthen national financial systems with modern innovations to increase access to finance. Increasingly, Robin's work focuses on agricultural finance, blending the lessons from microfinance and value chain development to customize strategies and systems to effectively expand outreach to incorporate small holders and improve commercial agriculture.
+Robin Young brings together two decades of experience in micro and small enterprise finance with value chain and enterprise development to design and implement innovative and effect private sector approaches to address development challenges.
 
-> "Working with people around the world—from CEOs to young loan officers—to help them express their knowledge and combine it with what we have learned from similar challenges to develop and implement strategies that improve and expand services for those that don't have access is the most rewarding aspect of my work. I feel like a student and a teacher, continually learning and sharing to help make the world a better place." — Robin Young
+Her career has included advising multi-lateral development finance institutions on regional strategies to advance access to finance, consulting with large and small retail financial institutions on MSE business lines, and implementing capital raising strategies for microfinance institutions. Her recent research and advisory services on innovations in rural and agricultural finance builds on almost two decades of work that started with groundbreaking commercialization of microfinance and credit guarantee research begun in the 1990s. She is frequently invited to speak at international events and run workshops on topics including impact investing, rural, agricultural, micro and small enterprise finance. Currently she is exploring innovative and effective ways to leverage investment, business development and market access for rural enterprises, value chains and sustainable landscapes.
 
-Robin works as an advisor, team leader, and project manager developing and overseeing DAI's portfolio of agricultural and micro and small and medium enterprise finance projects worldwide. She has led financial services advisory and research projects for the Consultative Group to Assist the Poor, the U.K. Department for International Development, Inter-American Development Bank, International Finance Corporation, World Bank, the U.S. Agency for International Development and private sector financial institutions and has published and presented on  the commercialization of microfinance and public sector financial institutions in retail and agricultural finance.
+Robin works as a technical advisor, team leader, and new business champion on DAI’s economic growth portfolio. She has led advisory and research projects for the Consultative Group to Assist the Poor, the U.K. Department for International Development, Inter-American Development Bank, International Finance Corporation, World Bank, the U.S. Agency for International Development and private sector financial institutions and investment funds.
+
+Based in Central America, she has worked in more than 20 developing countries.
 
 * M.B.A., Georgetown University
+
 * B.A., economics, Tufts University

@@ -1,23 +1,23 @@
 ---
 title: Boaz Tumwesigye
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Tumwesigye
-regions:
-- Sub-Saharan Africa
-solutions:
-- Environment and Energy
-layout: expert
-image: "/assets/images/experts/Boaz_Inner.jpg"
 summary: Boaz joined DAI in 2010 as a member of the project management team, providing
   technical direction and oversight of sustainable, ecotourism development projects
   in and around Nyungwe National Park, one of the region's most spectacular destinations.
-job-title: Chief of Party, SSENNP
-articles:
-- name: 
-  article_file: 
+job-title: Regional Coordinator & Communications Lead, Preparedness & Response Project
+image: "/assets/images/experts/Boaz_Inner.jpg"
+solutions:
+- Environment and Energy
+- Health
+regions:
+- Sub-Saharan Africa
+layout: expert
 ---
 
-Boaz Tumwesigye is the Chief of Party and Ecotourism Team Leader for the Rwanda Strengthening Sustainable Ecotourism in Nyungwe National Park Project (SSENNP). Boaz joined DAI in 2010 as a member of the project management team, providing technical direction and oversight of sustainable, ecotourism development projects in and around Nyungwe National Park, one of the region's most spectacular destinations. Prior to joining DAI, Boaz served as Country Manager for Volcanoes Safaris, where he oversaw operations and development of tourism packages for this prestigious international tour company. His strong networks and relationships with many of the local, regional, and international tourism providers have made him an invaluable asset to the project and DAI.
+Boaz Tumwesigye serves as Regional Coordinator and Communications Lead for the U.S. Agency for International Development (USAID) Preparedness and Response (P&R) Project, Central and East Africa Region. P&R facilitates countries in developing and maintaining national preparedness and response plans to respond to public health events at the regional, national, and subnational levels.
+
+Until April 2015, Boaz was the Chief of Party for the USAID Strengthening Sustainable Ecotourism and Livelihood project in Rwanda, providing technical direction and oversight of sustainable, ecotourism development programs in and around Nyungwe National Park. Prior to joining DAI in 2010, he served as the general manager of a leading U.K.-based international nature tourism operator for many years, managing nature tourism financing and development initiatives in the region. His strong networks and relationships with many of the local, regional, and international development players have made him an invaluable asset to DAI.
 
 * B.A., tourism, Makerere University in Kampala, Uganda
 * Fluent in English, Kinyarwanda, Runyankole/Rukiga, Kishwali, and French
