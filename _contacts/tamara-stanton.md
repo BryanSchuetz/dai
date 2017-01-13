@@ -1,9 +1,7 @@
 ---
 title: Tamara Stanton
-date: 2016-01-21 22:18:43.395000000 Z
-group: Business Management
-image: "/assets/images/contacts/tamara-stanton.jpg"
-job-title: Director, Business Development, Africa
+date: 2016-01-21 22:18:00 Z
+job-title: 'Managing Director, Business Development '
 email: tamara_stanton@dai.com
 summary: Tamara heads the company’s business development efforts in Africa. With more
   than 17 years of experience, she has led teams throughout the company to support
@@ -13,6 +11,8 @@ summary: Tamara heads the company’s business development efforts in Africa. Wi
   open innovation programming with a particular emphasis on new approaches to improve
   adoption and scaling. Prior to joining DAI, Tamara worked for the National Conference
   of State Legislatures.
-sort-order: 9
+image: "/assets/images/contacts/tamara-stanton.jpg"
+group: Business Management
+sort-order: 0
 ---
 
