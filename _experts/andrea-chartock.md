@@ -1,10 +1,11 @@
 ---
 title: Andrea Chartock
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Chartock
-regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
+summary: 'Andrea Chartock’s work at DAI focuses on promoting economic growth and designing
+  and managing monitoring and evaluation of projects. '
+job-title: Senior Development Specialist
+image: "/assets/images/experts/Chartock_Inner.jpg"
 solutions:
 - Business Environment Reform
 - Corporate Services
@@ -12,15 +13,14 @@ solutions:
 - Innovation and Entrepreneurship
 - Trade
 - Value Chain Development for Agribusiness and Other Sectors
-layout: expert
-image: "/assets/images/experts/Chartock_Inner.jpg"
-summary: Andrea Chartock's work at DAI focuses on promoting economic growth. She is
-  currently Team Leader on the Agricultural Competitiveness and Enterprise Development
-  program in Moldova.
-job-title: Senior Development Specialist
+regions:
+- Asia and the Pacific
+- Eastern Europe and Central Asia
 articles:
 - name: 
+  article_file: 
 - article_file: 
+layout: expert
 ---
 
 Andrea Chartock's work at DAI focuses on promoting economic growth. She is currently Team Leader on the Agricultural Competitiveness and Enterprise Development (ACED) program in Moldova. Previous to that, she completed consulting assignments in Serbia, Indonesia, Ghana, Moldova, Haiti, Georgia, Kosovo, and Cambodia. She also served as the home office project team leader for the Indonesia Competitiveness Program (SENADA) and the senior tourism advisor for the Strengthening Micro, Small and Medium Enterprises in Cambodia (MSME) project. From January 2007 to April 2008, Andrea served as senior tourism advisor for the U.S. Agency for International Development (USAID)'s Enhancing Small and Medium Enterprise Performance Project in Croatia. Before that, she was deputy manager of the Accelerated Microenterprise Advancement Project Business Development Services Knowledge and Practice task order, focusing on market assessment, impact assessment, and promoting development using a value chain framework.
