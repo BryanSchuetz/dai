@@ -7,15 +7,12 @@ summary: 'Andrea Chartock’s work at DAI focuses on promoting economic growth a
 job-title: Senior Development Specialist
 image: "/assets/images/experts/Chartock_Inner.jpg"
 solutions:
-- Business Environment Reform
 - Corporate Services
 - Economic Growth
-- Innovation and Entrepreneurship
-- Trade
-- Value Chain Development for Agribusiness and Other Sectors
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
+- Sub-Saharan Africa
 articles:
 - name: 
   article_file: 
