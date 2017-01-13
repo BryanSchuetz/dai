@@ -1,8 +1,56 @@
 
+- title: "Q&A: Ian Schuler, CEO of Development Seed"
+  pub: "Digital"
+  date: 2017-01-10
+  link: "https://dai-global-digital.com/QandA-ian-schuler.html"
+  summary: "Welcome to Geekfest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in launching #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the growth of the ICT4D community.
+
+We’re kicking things off with Ian Schuler, the CEO of Development Seed, one of the lead organizers and sponsors for the upcoming SatSummit."
+  tags:
+    - digital 
+    - Geekfest 2017 
+    - Data 
+
+- title: "Hiring ICT Staff (Or, How to Get 500 IT CVs Without Really Trying)"
+  pub: "Digital"
+  date: 2017-01-03
+  link: "https://dai-global-digital.com/hiring-ict-staff-or-how-to-get-500-it-cvs-without-really-trying.html"
+  summary: "Kabul, 2016. I’d been here before: a cold cup of Nescafe and stack of overly formatted CVs on the table next to me, an over-worked HR officer slow-blinking at me from across the room in subtle panic. Of the 35 CVs in the stack, culled from hundreds submitted online, only two had any mention of ICT experience—the rest were full of network engineering degrees, Oracle and Microsoft certifications, and years and years of experience managing IT networks and project systems. If I had been looking to hire IT staff, I would have been spoiled for options—but I wasn’t. I was trying to hire an ICT officer, and it was almost impossible. Just as it had been in Cambodia,  Jordan, and Senegal. Why, oh, why was hiring ICT staff so hard, and what could we do about it?"
+  tags:
+    - digital 
+    - Economic Growth 
+    - Think Piece 
+
+- title: "Digital@DAI Year in Review: Top Five Posts of 2016"
+  pub: "Digital"
+  date: 2016-12-27
+  link: "https://dai-global-digital.com/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html"
+  summary: "That’s a wrap for 2016, folks. We launched this blog in February with a sense of curiosity and caution, unsure who would read it—or if it would be read at all. Since then, we’ve grown steadily to more than 2,000 page views a month, collaborated with colleagues throughout the ICT4D ecosystem to host 12 guest author posts, and had the privilege of teammate John DeRiggi being interviewed by the BBC’s program “Click,” about his post on Machine Learning in Afghanistan."
+  tags:
+    - digital 
+    - Digital Insights 
+    - Data 
+    - Economic Growth 
+    - Think Piece 
+    - Appathon 2016 
+
+- title: "We’re Putting Citizens at the Center of the Design Process in Guatemala"
+  pub: "Digital"
+  date: 2016-12-19
+  link: "https://dai-global-digital.com/citizen-centered-design-guatemala.html"
+  summary: "Back in late 2015, the Nexos Locales project in Guatemala received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of Chiantla (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had been elected on a platform of budget transparency and social audit and was part of a wave of good governance reformers that swept into office on the heels of the Línea corruption scandal, which saw both President Otto Perez Molina and Vice President Roxana Baldetti jailed. He wanted DAI’s help to design and develop a mobile tool to give the citizens of Chiantla (Chiantlecos) better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, facilitating social audit and giving citizens the ability to more easily communicate with his administration. So, the project called me, and I called the Mayor.
+
+
+Mayor Carlos Alvarado’s post-election Facebook banner image promoting social audit. Text reads: A cordial invitation to participate in a social audit workshop. The resources are the community’s, and we should audit them!"
+  tags:
+    - digital 
+    - Guatemala 
+    - Governance 
+
 - title: "Next Steps: Making Countering Violent Extremism Approaches More Rigorous"
   pub: "Digital"
   date: 2016-12-18
-  link: "http://dai-global-digital.com/next-steps-making-cve-more-rigorous.html"
+  link: "https://dai-global-digital.com/next-steps-making-cve-more-rigorous.html"
   summary: "This is a guest post by a friend and colleague of the DAI ICT Team, Ben Dubow. Ben is a partner at Omelas, a firm that works to bring together data scientists, software engineers, and counterterrorism experts to defeat violent extremism. Debuted at the annual meeting of the Nordic Council of Ministers, Safe Cities, Omelas currently has operations in Europe and the Middle East. It was co-founded by Ben, Evanna Hu, and Bjorn Ihler.
 
 I started my career by conducting threat analyses of suspected jihadists. I’d trawl their online profiles and then use a mix of instinct and experience to decide what to include. It made sense that sharing a post from a Taliban website signaled radicalization. It made sense that following a jihadist preacher signaled the same. It made sense that liking a Facebook page for bacon lovers signaled some apprehension about fundamentalism. But making sense was the extent of the proof we had."
@@ -14,7 +62,7 @@ I started my career by conducting threat analyses of suspected jihadists. I’d 
 - title: "Part 1: The Foundations and Applications of Remote Sensing"
   pub: "Digital"
   date: 2016-12-14
-  link: "http://dai-global-digital.com/remote-sensing-of-the-earth.html"
+  link: "https://dai-global-digital.com/remote-sensing-of-the-earth.html"
   summary: "This is the first in a series of posts about remote sensing. DAI is entering an orbit of excitement about the upcoming SatSummit  on January 31!
 
 
@@ -33,7 +81,7 @@ Herschel placed a thermometer to the left of the red band and found invisible in
 - title: "Mobile Data Collection:  A Sector in Flux"
   pub: "Digital"
   date: 2016-12-07
-  link: "http://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html"
+  link: "https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html"
   summary: "In recent years, mobile surveys and data collection capabilities have increased alongside rapidly expanding mobile phone penetration in the developing world. And with this trend, there has been a proliferation of small firms that have entered this space. At DAI, we realize that by allowing us to quickly capture hard-to-gather data and conduct surveys across our portfolio, new tools can change the way we execute development projects as well as win new business."
   tags:
     - digital 
@@ -42,7 +90,7 @@ Herschel placed a thermometer to the left of the red band and found invisible in
 - title: "Crowdsourcing Ideas—The Challenge Fund Model for Innovation"
   pub: "Digital"
   date: 2016-11-28
-  link: "http://dai-global-digital.com/crowdsourcing-ideas-the-challenge-fund-model-for-innovation.html"
+  link: "https://dai-global-digital.com/crowdsourcing-ideas-the-challenge-fund-model-for-innovation.html"
   summary: "I apologize for using the word “innovation” in the title of this post. I know… I work in ICT4D and I’m supposed to be a champion for innovation in all its forms. The truth is, for me, the word has nearly lost all its meaning. Innovation is easily one of the most overused and least-understood words favored by businesses, academia, and yes, international development agencies. So instead of writing a post on how we can “promote innovation,” per se, I prefer to write about how we as development practitioners can use promising models to source, finance, and apply new solutions—be they digital technologies, products, or processes—to development problems based on open competition, collaboration, and evidence."
   tags:
     - digital 
@@ -51,7 +99,7 @@ Herschel placed a thermometer to the left of the red band and found invisible in
 - title: "4 Things I Learned at MIT’s TechCon"
   pub: "Digital"
   date: 2016-11-15
-  link: "http://dai-global-digital.com/four-things-i-learned-at-mits-techcon.html"
+  link: "https://dai-global-digital.com/four-things-i-learned-at-mits-techcon.html"
   summary: "This past week I attended TechCon 2016, co-hosted this year by MIT and the U.S. Agency for International Development (USAID). TechCon is the annual gathering of the Higher Education Solutions Network, a partnership between USAID and top universities to harness the academic power, passion, and curiosity of students, researchers, and faculty to solve global development challenges. Spoiler alert: it was GREAT. It’s easy to forget in the day-in, day-out of ICT4D work that “technology” has a far broader remit than the work we as ICT4D practitioners do in it. Engaging with researchers and academics conducting research far outside my normal scope awakened a sense of real and joyful curiosity I hadn’t felt in awhile. So beyond this humble reminder, and that Boston in autumn is truly glorious, here’s a few other things I learned at TechCon."
   tags:
     - digital 
@@ -60,7 +108,7 @@ Herschel placed a thermometer to the left of the red band and found invisible in
 - title: "Counting People is Hard: Biometrics can Help"
   pub: "Digital"
   date: 2016-11-08
-  link: "http://dai-global-digital.com/counting-people-is-hard-biometrics-can-help.html"
+  link: "https://dai-global-digital.com/counting-people-is-hard-biometrics-can-help.html"
   summary: "This is a guest post written by Ben Mann, a development specialist at DAI with a wide range of interests. He is a policy wonk; water, sanitation, and hygiene (WASH) technical expert; ICT enthusiast; and general advocate for improved use of data and visualizations. Follow Ben on twitter @bhmann
 
 One of the core functions of an effective monitoring and evaluation (M&amp;E) system is the ability to accurately count things. Depending on your M&amp;E strategy, you may be counting the number of schools built in a district, number of boreholes functioning in a region, or the number of microloans given to farmers in a cluster of villages. From my experience designing and operationalizing M&amp;E plans for a range of private and bilaterally funded programs, counting people is by far the hardest and most complex to do—especially when you are trying to observe and record information on the same people over an extended time."
@@ -72,7 +120,7 @@ One of the core functions of an effective monitoring and evaluation (M&amp;E) sy
 - title: "Hey USAID, Want to Promote Innovation?"
   pub: "Digital"
   date: 2016-10-30
-  link: "http://dai-global-digital.com/hey-usaid-want-to-promote-innovation.html"
+  link: "https://dai-global-digital.com/hey-usaid-want-to-promote-innovation.html"
   summary: "Earlier this month I had the good fortune to attend the Global Accelerator Network’s (GAN) annual Rally in Denver, Colorado. GAN includes 70 startup accelerators in 100 cities across six continents.
 
 
@@ -85,7 +133,7 @@ GAN CEO Patrick Riley and the managing directors of startup accelerators at the 
 - title: "Should Big Data Be Open Data?"
   pub: "Digital"
   date: 2016-10-26
-  link: "http://dai-global-digital.com/should-big-data-be-open-data.html"
+  link: "https://dai-global-digital.com/should-big-data-be-open-data.html"
   summary: "This is a guest post by Michelle Kaffenberger, Applied Research Consultant, and Bill Kedrock, Independent Consultant. The post uses Nigeria smallholder farmer data collected through the Growth Enhancement Scheme as the backdrop for a set of initial principles to guide those weighing the pros and cons of opening big data.
 
 We propose that when considering whether big data should be made open, decision makers should apply a litmus test including at least the following three questions, and likely many others according to the specific context of the data."
@@ -97,7 +145,7 @@ We propose that when considering whether big data should be made open, decision 
 - title: "App-a-Thon 2016: Viber for Development"
   pub: "Digital"
   date: 2016-10-23
-  link: "http://dai-global-digital.com/viber-appathon-2016.html"
+  link: "https://dai-global-digital.com/viber-appathon-2016.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, LINE, and BBM. This time around we’re checking out Viber."
@@ -108,7 +156,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, LINE, and B
 - title: "Geeks Like Us: How Academic Research Can Help us Create Better ICT Programs"
   pub: "Digital"
   date: 2016-10-18
-  link: "http://dai-global-digital.com/geeks-like-us-how-academic-research-can-help-us-create-better-ict-programs.html"
+  link: "https://dai-global-digital.com/geeks-like-us-how-academic-research-can-help-us-create-better-ict-programs.html"
   summary: "In a not-so-distant past life, I was at the PeaceTech Lab, a spin-off from the U.S. Institute of Peace. For the most part, the Lab executes in-country technology and media projects, but one vestige of its parent organization’s think tank legacy is the Blogs &amp; Bullets project—a research initiative done in partnership with some of the wonkiest political science and data analysis geeks from American University, George Washington University, and Stanford University. As I’ve made my transition into a full-time ‘do tank’ like DAI, it has become easy to dismiss (or forget) the somewhat esoteric pursuits of our friends in academia. But with the release last week of the latest installment in the Blogs &amp; Bullets series, I was reminded just how important the work of the Ivory Tower is to advancing our understanding of the role of ICT in creating real world change in the places where we work."
   tags:
     - digital 
@@ -117,7 +165,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, LINE, and B
 - title: "Have You Read the 2016 Digital GAP Act?"
   pub: "Digital"
   date: 2016-10-13
-  link: "http://dai-global-digital.com/digital-gap-act.html"
+  link: "https://dai-global-digital.com/digital-gap-act.html"
   summary: "Update: Since I wrote this, Congress.gov removed the text of the bill. It’s now pasted at the bottom.
 
 Have you read the Digital Global Access Policy (GAP) Act?
@@ -134,7 +182,7 @@ The bill was just passed in the House and is speeding toward a Senate vote. So, 
 - title: "Appified: How Social Media is Doing the Hard Work in ICT4D"
   pub: "Digital"
   date: 2016-09-28
-  link: "http://dai-global-digital.com/appified-how-social-media-is-doing-the-hard-work-in-ict4d.html"
+  link: "https://dai-global-digital.com/appified-how-social-media-is-doing-the-hard-work-in-ict4d.html"
   summary: "A spoonful of sugar helps the medicine go down, in a most delightful way. Mary Poppins was on to something significant in user experience, far before that phrase even entered our lexicon. How has the sugary sweet world of social media changed the game in ICT for development (ICT4D)? More than just providing us with new channels to engage our target audiences, social media has actually taught our beneficiaries how to be a mobile audience."
   tags:
     - digital 
@@ -143,7 +191,7 @@ The bill was just passed in the House and is speeding toward a Senate vote. So, 
 - title: "App-a-Thon 2016: BlackBerry Messenger for Development"
   pub: "Digital"
   date: 2016-09-27
-  link: "http://dai-global-digital.com/appathon-BBM.html"
+  link: "https://dai-global-digital.com/appathon-BBM.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and  the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. Up to bat this week is BlackBerry Messenger (BBM)."
@@ -154,7 +202,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
 - title: "From Data to Knowledge: Applying Schema Agnostic Systems Modeling to Development Challenges"
   pub: "Digital"
   date: 2016-09-22
-  link: "http://dai-global-digital.com/from-data-to-knowledge-applying-schema-agnostic-systems-modeling-to-development-challenges.html"
+  link: "https://dai-global-digital.com/from-data-to-knowledge-applying-schema-agnostic-systems-modeling-to-development-challenges.html"
   summary: "By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement."
   tags:
     - digital 
@@ -164,7 +212,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
 - title: "Building Cluster Maps with the AidData API"
   pub: "Digital"
   date: 2016-09-14
-  link: "http://dai-global-digital.com/building-cluster-maps-with-the-aiddata-api.html"
+  link: "https://dai-global-digital.com/building-cluster-maps-with-the-aiddata-api.html"
   summary: "AidData is an awesome organization. It has built a lightning-fast application program interface (API) that exposes a massive amount of structured data about aid finance, projects, locations, and sources of funding. More broadly—and quoted from its Twitter bio—AidData, a research and innovation lab at the College of William &amp; Mary, is “providing tools and services to make development finance more transparent and effective.” Its API is one incredible step toward that admirable goal."
   tags:
     - digital 
@@ -174,7 +222,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
 - title: "App-a-Thon 2016: LINE for Development"
   pub: "Digital"
   date: 2016-09-13
-  link: "http://dai-global-digital.com/app-a-thon-2016-line-for-development.html"
+  link: "https://dai-global-digital.com/app-a-thon-2016-line-for-development.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app."
   tags:
     - digital 
@@ -183,7 +231,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
 - title: "ICT in the Agricultural Sector: Business Concepts from Ghanaian Youth"
   pub: "Digital"
   date: 2016-09-09
-  link: "http://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html"
+  link: "https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html"
   summary: "Some of you may recall my post  from May when I wrote about the Kosmos Innovation Center (KIC) and the exciting work it’s doing to bring young tech-savvy entrepreneurs into the agricultural sector in Ghana. Here’s a quick update and brief summary of the kinds of ideas that have emerged from the project so far."
   tags:
     - digital 
@@ -195,7 +243,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
 - title: "How Dashboards are like Olympians"
   pub: "Digital"
   date: 2016-09-07
-  link: "http://dai-global-digital.com/how-dashboards-are-like-olympians.html"
+  link: "https://dai-global-digital.com/how-dashboards-are-like-olympians.html"
   summary: "The Olympic Games in Rio are over! It’s too bad. We all had fun watching the world’s greatest athletes come together to compete. At these Olympic Games we saw several displays of dominance from competitors such as Usain Bolt, Katie Ledecky, and Michael Phelps. Watching their races, it struck me how easy they made it look, with Bolt laughing in his prelims, Ledecky winning by 11 seconds, and Phelps winning by over a body length in a race that was only two laps in the pool."
   tags:
     - digital 
@@ -204,7 +252,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
 - title: "App-a-Thon 2016: Kik for Development"
   pub: "Digital"
   date: 2016-09-05
-  link: "http://dai-global-digital.com/appathon-2016-kik-for-development.html"
+  link: "https://dai-global-digital.com/appathon-2016-kik-for-development.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week kik takes center stage."
@@ -215,7 +263,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week ki
 - title: "A Call for Action: Leaving Behind “One App at a Time” Approaches"
   pub: "Digital"
   date: 2016-08-31
-  link: "http://dai-global-digital.com/a-call-for-action-leaving-behind-one-app-at-a-time-approaches.html"
+  link: "https://dai-global-digital.com/a-call-for-action-leaving-behind-one-app-at-a-time-approaches.html"
   summary: "It’s become all but banal to observe that information and communications technology (ICT) has made our world increasingly interconnected and data-rich. But, for some reason, the role of ICT practitioners in international development hasn’t evolved to reflect this shift. ICT teams, like other “functional” (as opposed to regional) experts, are incentivized to develop niche expertise and subject matter knowledge—sometimes at the expense of improved development programming."
   tags:
     - digital 
@@ -224,7 +272,7 @@ So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week ki
 - title: "App-a-Thon 2016: Telegram for Development"
   pub: "Digital"
   date: 2016-08-29
-  link: "http://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html"
+  link: "https://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 So far, we’ve covered WhatsApp and Facebook Messenger. This time, we bring you Telegram, WhatsApp’s bolder, more extroverted cousin."
@@ -235,7 +283,7 @@ So far, we’ve covered WhatsApp and Facebook Messenger. This time, we bring you
 - title: "App-a-Thon 2016: Facebook  Messenger for Development"
   pub: "Digital"
   date: 2016-08-24
-  link: "http://dai-global-digital.com/facebook-messenger.html"
+  link: "https://dai-global-digital.com/facebook-messenger.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 Last time we covered WhatsApp. This week, we’re talking about another Facebook property: Messenger."
@@ -246,7 +294,7 @@ Last time we covered WhatsApp. This week, we’re talking about another Facebook
 - title: "Can Big Data Build Resilient Communities?"
   pub: "Digital"
   date: 2016-08-22
-  link: "http://dai-global-digital.com/can-big-data-build-resilient-communities.html"
+  link: "https://dai-global-digital.com/can-big-data-build-resilient-communities.html"
   summary: "Guest post by Max Baiden, Project Manager on the Climate &amp; Environment, Infrastructure and Livelihoods Professional Evidence Applied Knowledge Services Framework in DAI’s UK office, with contributors from Data-Pop Alliance
 
 Before my time at DAI, I spent several months in India, working for a local nongovernmental organization on multidimensional poverty reduction projects. One of the projects had me walking through a tsunami-affected village on the southeastern coast of India. Witnessing first-hand how damaging hydrometerological events can be really galvanized my desire to work in the sector. I talked to local fisherman about how their boats were destroyed and how they had to leave their village behind in the impending wake of the storm. They despaired at the lack of early warning information to help them prepare for and understand the effects of such a disaster."
@@ -258,7 +306,7 @@ Before my time at DAI, I spent several months in India, working for a local nong
 - title: "Top 5 Civic Tech Concepts and Ideas from PDF 2016"
   pub: "Digital"
   date: 2016-08-16
-  link: "http://dai-global-digital.com/civic-tech-pdf-2016.html"
+  link: "https://dai-global-digital.com/civic-tech-pdf-2016.html"
   summary: "The annual Personal Democracy Forum (PDF) might best be described as “civic tech prom.” It’s that once-a-year time when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they’re using new technology for public good. What qualifies as civic tech in this crowd? If you’re starting discourse about important public issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, you would fit right in at PDF."
   tags:
     - digital 
@@ -267,7 +315,7 @@ Before my time at DAI, I spent several months in India, working for a local nong
 - title: "Visualizing Hierarchical Data: USAID’s $8.5 Billion Global Health Initiative"
   pub: "Digital"
   date: 2016-08-08
-  link: "http://dai-global-digital.com/visualizing-hierarchical-data-the-2017-budget-request-for-usaids-global-health-initiative.html"
+  link: "https://dai-global-digital.com/visualizing-hierarchical-data-the-2017-budget-request-for-usaids-global-health-initiative.html"
   summary: "Budget data is notoriously difficult to analyze. The volume of data can be high, the long tables are unwieldy, and the structures are almost always multilayered, making it difficult to visualize. But with some of the advanced interactive visualization tools we use at DAI, we can analyze and present even complex data more clearly."
   tags:
     - digital 
@@ -277,52 +325,11 @@ Before my time at DAI, I spent several months in India, working for a local nong
 - title: "WhatsApp for Development: the Launch of App-a-Thon 2016"
   pub: "Digital"
   date: 2016-08-03
-  link: "http://dai-global-digital.com/whatsapp-appathon-2016.html"
+  link: "https://dai-global-digital.com/whatsapp-appathon-2016.html"
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around the Middle East, Latin America, Asia, and Africa about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 This week, we begin with one of the most popular – WhatsApp."
   tags:
     - digital 
     - Appathon 2016 
-
-- title: "Online Petitions and the Future of Citizen-driven Advocacy: A Conversation with Avijit Michael"
-  pub: "Digital"
-  date: 2016-07-25
-  link: "http://dai-global-digital.com/online-petitions-and-the-future-of-citizen-driven-advocacy-a-conversation-with-avijit-michael.html"
-  summary: "Meet Avijit Michael, the former Global Development Director for Change.org who recently moved to Jhatkaa.org, a tech nonprofit focused on digital advocacy in his home country of India. Avijit wears many hats—software designer, artist, environmentalist, campaigner for progressive causes, and musician. After almost a decade in the world of digital activism, he gives us his thoughts on the state of the field."
-  tags:
-    - digital 
-    - Governance 
-
-- title: "Measuring Mobile Connectivity: GSMA Launches New Analytical Tool"
-  pub: "Digital"
-  date: 2016-07-20
-  link: "http://dai-global-digital.com/measuring-mobile-connectivity-gsma-launches-a-new-analytical-tool.html"
-  summary: "The end of 2015 saw 3.2 billion people connected to the internet. With rates continuing to rise steadily, people are plugging into online networks that foster social and economic development, empowering them with new tools for more effective communication and more efficient economic activity. As impressive as these figures are though, 4 billion people remain offline, without access to these opportunities. Bridging the digital divide is of paramount importance if the world’s most disadvantaged populations are to participate in the increasingly connected economy, and because people are increasingly turning to mobile phones as their primary gateway to the mobile networks represent the linchpin to inclusive, ICT-enabled development."
-  tags:
-    - digital 
-    - Economic Growth 
-    - Data 
-
-- title: "Machine Learning Will Help Development Projects Achieve Scale"
-  pub: "Digital"
-  date: 2016-07-12
-  link: "http://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html"
-  summary: "The terms “machine learning” and “artificial intelligence” (AI) conjure up feelings that are equal parts fear and fascination. Why is that? Until recently, the prospect of a piece of software making human-like decisions resided safely in the far-fetched expectations of 1960s-era computer scientists or the plot lines of science fiction novels. Today, however, after decades of unmet expectations, we finally have AI systems that are beginning to influence our lives in tangible ways. Voice recognition systems like Amazon’s Echo and Apple’s Siri, and once-unimaginable fantasies like self-driving cars, are on the market for consumers, with more exciting life-like systems to come. We have also seen a few early signs of robotic autonomy that makes us feel uneasy, like the Russian robot that learned how to escape the lab!"
-  tags:
-    - digital 
-    - Think Piece 
-    - Afghanistan 
-    - Data 
-
-- title: "Ready for Takeoff: Video Games in International Development"
-  pub: "Digital"
-  date: 2016-07-07
-  link: "http://dai-global-digital.com/video-games-in-international-development.html"
-  summary: "From Gaming to Development Impact
-
-I was 6 when my dad brought home our first computer. It was an IBM 386. At the time, it was space-age technology. By today’s standards it’s the musical equivalent of banging two rocks together. I imagine my dad expected my older brother and me to learn the interface and how to type. Instead, within weeks we were mowing down Nazis in Wolfenstein 3D and engineering some pretty spectacular crashes in in Stunts. Needless to say, I was hooked."
-  tags:
-    - digital 
-    - Think Piece 
 
