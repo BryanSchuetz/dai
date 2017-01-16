@@ -12,6 +12,7 @@ solutions:
 - Financial Services
 regions:
 - Sub-Saharan Africa
+- Latin America and the Caribbean
 articles:
 - name: 
   article_file: 
