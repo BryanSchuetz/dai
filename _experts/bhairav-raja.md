@@ -6,7 +6,7 @@ summary: Bhairav Raja is a multilingual consultant with experience in financial 
   development and inclusive finance in Africa and Latin America, employing market
   systems approaches.
 job-title: Global Practice Specialist, Private Sector Development and Financial Services
-image: "/assets/images/experts/Bhairav%20Raja%20Inner.jpg"
+image: "/uploads/RajaInner.jpg.jpeg"
 solutions:
 - Economic Growth
 - Financial Services
@@ -19,9 +19,12 @@ articles:
 layout: expert
 ---
 
-Bhairav Raja is a multilingual consultant with experience in financial sector development and inclusive finance in Africa and Latin America, employing market systems approaches. He has experience of working with hard-to-reach target segments (both households and small firms) in fragile financial sectors in Africa. He has strong financial inclusion diagnostic experience and toolkit development, taking a holistic approach to examining demand, supply and regulation across savings, credit, insurance, and payment systems. He has advised a range of stakeholders from the private sector, government ministries, and central banks through to the broader institutional landscape of financial and nonfinancial services.
+Originally from Kenya, Bhairav Raja is passionate about the development opportunities of engaging the private sector to create more sustainable social investment outcomes. He applies market systems approaches to investment and finance solutions in crucial real economy challenges in agricultural and renewable energy value chains. He started his career working in some of the largest corporations in media and investment banking. Subsequently, an internship developing financial diaries with female micro-entrepreneurs on behalf of a microfinance institution in Colombia inspired him to continue down this track. The excitement of listening to and responding to the aspirations that enterprising citizens around the world communicated convinced him to apply his skills to private sector engagement, built upon a foundation of deep insights into households and microenterprises.
 
-In addition to inclusive finance, Bhairav has worked with agribusiness value chains; including linking financial solutions for smallholder farmers. He has provided extensive qualitative demand-side fieldwork, immersing himself in diverse low-income target market households in rural and urban real economies. He has quantitative data analysis skills and has used key tools such as FinScope. His work is contributing to policy and product innovation solutions that can enhance the quality of economic growth. Bhairav offers a mix of technical delivery, partnership brokering and project and people management on a diverse set of programmes. He has previous private sector career experience, working in leading global firms in financial services and the media.
+He has experience of working with hard-to-reach communities in fragile markets in Africa and Latin America. He also has strong financial inclusion diagnostic and toolkit development experience, taking an integrated approach to examining demand, supply and regulation across savings, credit, leasing, insurance, and payment systems. He has advised a range of stakeholders from the private sector, government ministries, and central banks through to the broader institutional landscape of financial and nonfinancial services.
+
+His work is contributing to policy and product innovation solutions that can enhance the quality of inclusive economic growth. Bhairav offers a mix of technical design, delivery, partnership brokering, training, and project and people management on a diverse set of programs across agro-industrial, energy, and financial sector markets.
 
 * M. Phil, development studies, University of Cambridge, Queen's College
+
 * B.A., hons, Spanish & Portuguese, University of Bristol
