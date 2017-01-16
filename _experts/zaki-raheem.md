@@ -10,11 +10,11 @@ image: "/assets/images/experts/RaheemInner.jpg"
 solutions:
 - Economic Growth
 regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
-- Middle East and North Africa
-- Sub-Saharan Africa
+- 
+- 
+- 
+- 
+- 
 articles:
 - name: Why more diaspora investors are exploring business opportunities in Somaliland,
     _The Guardian_
