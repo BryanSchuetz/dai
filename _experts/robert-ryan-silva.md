@@ -1,30 +1,30 @@
 ---
 title: Robert Ryan-Silva
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Ryan-Silva
+summary: Robert Ryan-Silva has been with DAI since 2002, when he joined the firm as
+  a group business manager in the Agriculture and Natural Resources Group. Working
+  over a wide range of regions and technical areas in his 20 years in international
+  development, Rob approaches the implementation of complex projects in difficult
+  environments at the level of nuts and bolts.
+job-title: 'Global Practice Specialist, Governance, and Director, DAI Maker Lab
+
+'
+image: "/assets/images/experts/RyanSilvaInner.jpg"
+solutions:
+- Health
+- Digital
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
 - Middle East and North Africa
 - Sub-Saharan Africa
-solutions:
-- Health
-- Digital
-layout: expert
-image: "/assets/images/experts/RyanSilvaInner.jpg"
-summary: Robert Ryan-Silva has been with DAI since 2002, when he joined the firm as
-  a group business manager in the Agriculture and Natural Resources Group. Working
-  over a wide range of regions and technical areas in his 20 years in international
-  development, Rob approaches the implementation of complex projects in difficult
-  environments at the level of nuts and bolts.
-job-title: |
-  Global Practice Specialist, Governance, and Director, DAI Maker Lab
 articles:
-- name: ''
-  DIY Development: The maker movement could make a real difference to international
-    development
+- name: 'DIY Development: The maker movement could make a real difference to international
+    development'
   article_file: http://www.theguardian.com/global-development-professionals-network/dai-partner-zone/2014/aug/21/diy-development
+layout: expert
 ---
 
 Robert Ryan-Silva has been with DAI since 2002, when he joined the firm as a group business manager in the Agriculture and Natural Resources Group. Working over a wide range of regions and technical areas in his 20 years in international development, Rob approaches the implementation of complex projects in difficult environments at the level of nuts and bolts.
