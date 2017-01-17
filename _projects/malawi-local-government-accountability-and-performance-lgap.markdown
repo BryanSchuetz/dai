@@ -9,6 +9,7 @@ summary: Over 20 years since its first multi-party elections, the government of 
   institutional tensions as well as confusion over roles and responsibilities between
   levels of government continues to hinder successful decentralization.
 start: 2016
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Governance
