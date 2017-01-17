@@ -21,6 +21,7 @@
 </head>
 <body>
 <style media="screen">
+
   #legend{
     display: block;
     z-index: 1;
@@ -31,6 +32,7 @@
     padding: 1rem;
     font-family: 'Helvetica', arial, sans-serif;
     border: 1px solid #515151;
+    border-radius: 3px;
   }
   .legend label{
     font-size: 13px;
@@ -47,6 +49,7 @@
       }
     .legend p{
       margin-bottom: 5px;
+      margin-top: 5px;
     }
     .legend-marker{
       margin-right: 3px;
@@ -58,6 +61,13 @@
     .layer-marker{
       margin-top: -1px;
     }
+  #menu a {
+   display: block !important;
+   margin-bottom: 5px !important;
+  }
+  #menu p{
+    margin-bottom: 10px;
+  }
 </style>
 <div id='map'></div>
 <div id='legend' style='display:block;'>
@@ -66,7 +76,8 @@
   <p><span style='background:#4B8E2F'></span><label>Countries with active projects</label></p>
   <p><span style='background:#ACD7A6;'></span><label>Countries with previous projects</label></p>
   <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to list all active projects</label></p>
-  <p><img class="legend-marker layer-marker" src="http://ksdai.org/at-a-glance/layers.png" alt=""><label>Click to explore client layers</label></p>
+  <hr>
+  <nav id="menu"><p><strong>Toggle Client Layers</strong></p></nav>
 </div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
@@ -79,8 +90,35 @@ var map = new mapboxgl.Map({
     zoom: 3, // starting zoom
     pitch: 40
 });
-var legend = document.getElementById('legend');
+toggleLayer(['USAID'], 'USAID');
+toggleLayer(['DFID'], 'DFID');
+toggleLayer(['EC'], 'EC');
 
+function toggleLayer(ids, name) {
+    var link = document.createElement('a');
+    link.href = '#';
+    link.className = '';
+    link.textContent = name;
+
+    link.onclick = function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        for (layers in ids){
+            var visibility = map.getLayoutProperty(ids[layers], 'visibility');
+            if (visibility === 'visible') {
+                map.setLayoutProperty(ids[layers], 'visibility', 'none');
+                this.className = '';
+            } else {
+                this.className = 'active';
+                map.setLayoutProperty(ids[layers], 'visibility', 'visible');
+            }
+         }
+
+    };
+
+    var layers = document.getElementById('menu');
+    layers.appendChild(link);
+}
 map.on('click', function (e) {
     var features = map.queryRenderedFeatures(e.point, { layers: ['project-pins'] });
 
