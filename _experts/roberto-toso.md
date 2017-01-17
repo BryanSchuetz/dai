@@ -5,7 +5,7 @@ lastname: Toso
 summary: Roberto Toso is a senior economist with more than 25 years of international
   development experience working on financial sector reform, economic policy, public
   financial management, international trade, and competitiveness strategy.
-job-title: Managing Director, Economic Growth
+job-title: Chief of Party, Philippines Facilitating Public Investment (FPI) Project
 image: "/assets/images/experts/TosoInner.jpg"
 solutions:
 - Economic Growth
