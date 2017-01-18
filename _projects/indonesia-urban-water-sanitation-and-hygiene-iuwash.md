@@ -3,11 +3,9 @@ title: Indonesia Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS)
 date: 2016-01-21 22:40:00 Z
 summary: Despite positive economic growth in recent years, urban Indonesia still suffers
   from one of the lowest rates of access to safe water and improved sanitation in
-  the region. It’s not uncommon for residents living in or around Indonesia’s major
-  cities to spend up to two hours every day purchasing and transporting expensive
-  jugged water to their homes for drinking and cooking. In addition, a lack of sewage
-  and wastewater infrastructure in many densely populated, low-income urban areas
-  create serious risks to health and life from waterborne diseases.
+  the region. USAID’s IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health
+  for All (IUWASH PLUS), is working to expand access to water and sanitation services
+  to hundreds of thousands of low-income urban households.
 start: 2011
 end: 2016
 client: U.S. Agency for International Development
@@ -56,5 +54,7 @@ DAI’s approach involves strengthening the urban WASH ecosystem at all levels�
 * More than 45,000 people—33.5 percent of whom are women—have benefited from participation in project activities.
 
 * Installed [infiltration ponds](https://www.usaid.gov/news-information/frontlines/climate-change-2015/bringing-back-water) all over country, bringing clean water to home taps and farms.
+
+* Brought together 261 government agencies and civil society organizations to provide sustainable water and sanitation services to vulnerable populations in more than 50 cities across Indonesia.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/105875924" webkitallowfullscreen="" width="703"></iframe>
