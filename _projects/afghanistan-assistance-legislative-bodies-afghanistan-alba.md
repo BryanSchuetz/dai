@@ -39,6 +39,6 @@ The Assistance to Legislative Bodies of Afghanistan (ALBA) works to prepare both
 * Supported 74 executive oversight actions.
 * Placed 45 top graduates in Parliamentary commissions and directorates through the ALBA Afghanistan Parliamentary Institute Fellows program.
 * Initiated a series of quarterly bulletins providing brief, focused information for members of Parliament and staff, as well as civil society organizations.
-* Supported passage of more than 50 laws, including the [Anti-Harassment Law](http://dai-global-developments.com/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval/) to protect women.
+* Supported parliamentarians as they crafted and passed more than 50 laws, including the [Anti-Harassment Law](http://dai-global-developments.com/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval/) to protect women.
 
 [1]: /assets/images/projects/ALBAsite.jpg
