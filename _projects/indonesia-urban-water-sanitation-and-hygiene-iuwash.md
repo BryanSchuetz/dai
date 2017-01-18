@@ -57,4 +57,6 @@ DAIâ€™s approach involves strengthening the urban WASH ecosystem at all levelsâ€
 
 * Installed [infiltration ponds](https://www.usaid.gov/news-information/frontlines/climate-change-2015/bringing-back-water) all over country, bringing clean water to home taps and farms.
 
+* Brought together 261 government agencies and civil society organizations to provide sustainable water and sanitation services to vulnerable populations in more than 50 cities across Indonesia.
+
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/105875924" webkitallowfullscreen="" width="703"></iframe>
