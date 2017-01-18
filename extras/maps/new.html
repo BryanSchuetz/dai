@@ -90,6 +90,9 @@ var map = new mapboxgl.Map({
     zoom: 3, // starting zoom
     pitch: 40
 });
+map.on('load', function(){
+  map.setLayoutProperty(['USAID'], 'visibility', 'visible');
+});
 toggleLayer(['USAID'], 'USAID');
 toggleLayer(['DFID'], 'DFID');
 toggleLayer(['EC'], 'EC');
@@ -101,9 +104,6 @@ function toggleLayer(ids, name) {
     link.textContent = name;
 
     link.onclick = function (e) {
-      map.setLayoutProperty(['USAID'], 'visibility', 'none');
-      map.setLayoutProperty(['DFID'], 'visibility', 'none');
-      map.setLayoutProperty(['EC'], 'visibility', 'none');
         e.preventDefault();
         e.stopPropagation();
         for (layers in ids){
@@ -112,6 +112,9 @@ function toggleLayer(ids, name) {
                 map.setLayoutProperty(ids[layers], 'visibility', 'none');
                 this.className = '';
             } else {
+                map.setLayoutProperty(['USAID'], 'visibility', 'none');
+                map.setLayoutProperty(['DFID'], 'visibility', 'none');
+                map.setLayoutProperty(['EC'], 'visibility', 'none');
                 this.className = 'active';
                 map.setLayoutProperty(ids[layers], 'visibility', 'visible');
             }
