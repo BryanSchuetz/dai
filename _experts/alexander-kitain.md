@@ -5,8 +5,7 @@ lastname: Kitain
 summary: Alexander Kitain is a Harvard-trained public administration professional
   with a unique combination of skills in tax policy, tax and customs administration,
   tax and financial accounting, trade, economics, and public finance.
-job-title: 'Deputy Chief of Party, Liberia—Revenue Generation for Governance and Growth
-  (RG3) '
+job-title: 'Chief of Party, Liberia—Revenue Generation for Governance and Growth (RG3) '
 image: "/assets/images/experts/alexander-kitain.jpg"
 solutions:
 - Economic Growth
