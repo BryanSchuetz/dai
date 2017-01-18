@@ -30,7 +30,7 @@
     right: 10px;
     background-color: white;
     padding: 1rem;
-    font-family: 'Helvetica', arial, sans-serif;
+    font-family: 'Helvetica', arial, sans-serif; 
     border: 1px solid #515151;
     border-radius: 3px;
   }
@@ -68,6 +68,24 @@
   #menu p{
     margin-bottom: 10px;
   }
+  #menu span{
+    width: 10px;
+    height: 10px;
+    top: -3px;
+    position: relative;
+  }
+  #menu #USAID span{
+    background-color: #19387D;
+  }
+  #menu #DFID span{
+    background-color: #C3282D;
+  }
+  #menu #EC span{
+    background-color: #F4F200;
+  }
+  hr{
+    border-bottom: 0px;
+  }
 </style>
 <div id='map'></div>
 <div id='legend' style='display:block;'>
@@ -91,7 +109,10 @@ var map = new mapboxgl.Map({
     pitch: 40
 });
 map.on('load', function(){
-  map.setLayoutProperty(['USAID'], 'visibility', 'visible');
+  // Turn one on for client specific map embed on client pages
+  // map.setLayoutProperty(['USAID'], 'visibility', 'visible');
+  // map.setLayoutProperty(['DFID'], 'visibility', 'visible');
+  // map.setLayoutProperty(['EC'], 'visibility', 'visible');
 });
 toggleLayer(['USAID'], 'USAID');
 toggleLayer(['DFID'], 'DFID');
@@ -102,6 +123,7 @@ function toggleLayer(ids, name) {
     link.href = '#';
     link.className = '';
     link.textContent = name;
+    link.id = name;
 
     link.onclick = function (e) {
         e.preventDefault();
@@ -124,6 +146,8 @@ function toggleLayer(ids, name) {
 
     var layers = document.getElementById('menu');
     layers.appendChild(link);
+    var blocker = document.createElement('span');
+    link.appendChild(blocker);
 }
 map.on('click', function (e) {
     var features = map.queryRenderedFeatures(e.point, { layers: ['project-pins'] });
