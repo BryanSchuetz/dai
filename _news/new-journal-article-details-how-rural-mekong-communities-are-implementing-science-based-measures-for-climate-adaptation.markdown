@@ -1,6 +1,6 @@
 ---
-title: New Journal Article Details How Rural Mekong Communities Merged Local Knowledge
-  With Climate Science to Implement Adaptation Measures
+title: New Journal Article Details How Rural Mekong Communities Implement Climate
+  Adaptation Measures Born of Local Knowledge and High-Level Science
 date: 2017-01-18 18:41:00 Z
 solutions:
 - Natural Resource Management
