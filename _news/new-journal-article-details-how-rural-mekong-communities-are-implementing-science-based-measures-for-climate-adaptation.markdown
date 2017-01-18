@@ -10,8 +10,8 @@ projects: Southeast Asia—Mekong Adaptation and Resilience to Climate Change (A
 clients: U.S. Agency for International Development
 summary: A newly released article in the peer-reviewed journal Climatic Changes details
   how rural communities in Cambodia, Laos, Thailand, and Vietnam are building resilience
-  with activities that merge climate science with the local knowledge and expertise
-  of farmers.
+  with activities that merge climate science with the knowledge and expertise of local
+  farmers.
 ---
 
 The 60 million people in the Lower Mekong Basin are among the world’s most vulnerable to extreme weather events—including cyclones, floods, drought, and prolonged heat. 
