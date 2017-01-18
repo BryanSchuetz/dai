@@ -1,6 +1,6 @@
 ---
 title: New Journal Article Details How Rural Mekong Communities Implement Climate
-  Adaptation by Mixing Local Knowledge With High-Level Science
+  Adaptation by Merging Local Knowledge With High-Level Science
 date: 2017-01-18 18:41:00 Z
 solutions:
 - Natural Resource Management
