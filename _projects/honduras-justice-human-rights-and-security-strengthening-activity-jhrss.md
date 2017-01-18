@@ -7,7 +7,7 @@ summary: In the wake of the 2009 removal of President Manual Zelaya, a weak stat
   homicides, extortion phone calls, and other criminal activities perpetrated by gangs,
   often with a high level of impunity.
 start: 2016
-end: 2017
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Conflict and Vulnerability Analysis
