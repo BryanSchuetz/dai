@@ -1,25 +1,26 @@
 ---
 title: Andrew Watson
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Watson
-regions:
-- Asia and the Pacific
-- Middle East and North Africa
-- Sub-Saharan Africa
-solutions:
-- Environment and Energy
-- Governance
-- Land Tenure
-layout: expert
-image: "/assets/images/experts/innerwatson.jpg"
 summary: Over the past 30 years, Andrew's technical focus has shifted from the earth
   sciences and remote sensing to environment policy and impact assessment, natural
   resource management, and biodiversity conservation, and, most recently, to climate
   change adaptation, with an emphasis on the sustainable use of water resources.
-job-title: Managing Director, Environment and Health
+job-title: 'Managing Director, Environment '
+image: "/assets/images/experts/innerwatson.jpg"
+solutions:
+- Environment and Energy
+- Governance
+- Land Tenure
+regions:
+- Asia and the Pacific
+- Middle East and North Africa
+- Sub-Saharan Africa
 articles:
 - name: 
+  article_file: 
 - article_file: 
+layout: expert
 ---
 
 As a graduate student in geomorphology, Andrew Watson worked on desert soils in Tunisia and Namibia. Over the past 30 years, his technical focus has shifted from the earth sciences and remote sensing to environment policy and impact assessment, natural resource management, and biodiversity conservation, and, most recently, to climate change adaptation, with an emphasis on the sustainable use of water resources. Andrew has worked in diverse natural environments, from the tropical rain forests of Indonesia, Madagascar, Bolivia, and Brazil, to the deserts of Namibia and Saudi Arabia.
