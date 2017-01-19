@@ -1,24 +1,22 @@
 ---
 title: Hadiza Elayo
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Elayo
-regions:
-- Sub-Saharan Africa
-solutions:
-- Governance
-- Institutional and Policy Reform
-- Public Financial Management
-layout: expert
-image: "/assets/images/experts/Hadiza-Inner.jpg"
 summary: Hadiza is the Deputy National Programme Manager for SPARC, the U.K. Department
   for International Development (DFID)'s leading governance reform programme in Nigeria.
   She also leads SPARC's federal component, mandated to support the Nigeria Governors'
   Forum and central reform agencies such as the Millennium Development Office tasked
   with delivering state-level reforms.
 job-title: Deputy National Programme Manager, Nigeria SPARC
-articles:
-- name: 
-  article_file: 
+image: "/assets/images/experts/Hadiza-Inner.jpg"
+solutions:
+- Governance
+- Institutional and Policy Reform
+- Public Financial Management
+regions:
+- Sub-Saharan Africa
+layout: expert
 ---
 
 Hadiza is the Deputy National Programme Manager for SPARC, the U.K. Department for International Development (DFID)'s leading governance reform programme in Nigeria. She also leads SPARC's federal component, mandated to support the Nigeria Governors' Forum and central reform agencies such as the Millennium Development Office tasked with delivering state-level reforms. Her work entails managing state offices and government partners across the 10 states where SPARC operates, ensuring that the programme delivers on its governance reform objectives. She has successfully guided and supported the country's implementation of the Millennium Development Goals (MDGs) office, resulting in the widely acclaimed Conditional Grants Scheme, Nigeria's Countdown Strategy to achieving the MDGs, and is currently involved in shaping the country's direction with plans for the Sustainable Development Goals.   
