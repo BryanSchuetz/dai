@@ -35,10 +35,12 @@ The Assistance to Legislative Bodies of Afghanistan (ALBA) works to prepare both
 
 ###  Select Results
 
-* Trained 1,054 members of Parliament and Secretariat staff at the ALBA Afghanistan Parliamentary Institute.
-* Supported 74 executive oversight actions.
-* Placed 45 top graduates in Parliamentary commissions and directorates through the ALBA Afghanistan Parliamentary Institute Fellows program.
-* Initiated a series of quarterly bulletins providing brief, focused information for members of Parliament and staff, as well as civil society organizations.
+* Sponsored 64 provincial oversight trips with commissions from both Houses.
+* Advised on 160 executive oversight actions (questionings, hearings, reports).
+* Placed 160 top graduates throughout parliament in the ALBA Fellowship Program.
+* Conducted 195 trainings to Secretariat and Ministry of Parliamentary Affairs staff, advisors and ALBA Fellows.
+* Sponsored 34 public forums that allow parliamentarians and the public to interact.
+* Published 33 publications for Parliament.
 * Supported parliamentarians as they crafted and passed more than 50 laws, including the [Anti-Harassment Law](http://dai-global-developments.com/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval/) to protect women.
 
 [1]: /assets/images/projects/ALBAsite.jpg
