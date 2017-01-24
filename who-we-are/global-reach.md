@@ -8,7 +8,7 @@ layout: node
 
 Since 1970, we have worked in more than 150 countries—delivering results across the spectrum of development contexts, from stable societies and high-growth economies to challenging environments racked by political or military conflict. At any one time we are likely to have active projects in 50 or more countries. This worldwide portfolio is supported from corporate headquarters in the United Kingdom and the United States.
 
-![DAI Project Map](/assets/images/who-we-are/map.jpg "DAI Project Map")
+[![DAI Project Map](https://api.mapbox.com/styles/v1/dai/cixhnt69a005c2qqor8eedw42/static/49.395110,19.879567,2.21,0.00,20.00/600x300@2x?access_token=pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA&attribution=false")](/extras/maps/){:target="blank"}
 
 ## United Kingdom
 
