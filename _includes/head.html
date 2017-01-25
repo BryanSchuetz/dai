@@ -10,7 +10,7 @@
     {% if page.title == "Home" %}
       {{ site.data.meta.title }} &middot; {{ site.data.meta.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.data.meta.title }}
+      {{ page.title }} &middot; {{ site.data.meta.title }}: International Development {% if page.title == 'Job Opportunities' %}Jobs{% endif %}
     {% endif %}
   </title>
   <!-- CSS -->
