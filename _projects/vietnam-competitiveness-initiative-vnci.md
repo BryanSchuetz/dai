@@ -31,7 +31,7 @@ VNCI was an [economic growth project](http://dai-global-developments.com/article
 
 * Cost savings to individuals and businesses resulting from Project 30 are estimated to be $1.4 billion per year after full implementation of the simplified rules.
 * Simplified and made accessible procedures for investment, construction, housing, land, and enterprise establishment.
-* Improved countrywide transparency and understanding of administrative procedures.
+* [Improved countrywide transparency](http://dai-global-developments.com/articles/project-helps-vietnam-cut-red-tape-hone-competitiveness-and-boost-economic-growth/) and understanding of administrative procedures.
 * Established the Administrative Procedures Control Agency under the People's Committee of Ho Chi Minh City, a system of 87 control units that has more than 500 professionals helping coordinate reforms in 24 ministries, 63 cities, and provinces nationwide.
 
 [1]: /assets/images/projects/vnci.jpg
