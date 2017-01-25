@@ -1,7 +1,7 @@
 ---
 title: Job Opportunities
 layout: node
-promos:
+promos: 
 redirect_from:
 - "/jobs"
 ---
