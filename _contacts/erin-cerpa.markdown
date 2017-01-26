@@ -14,5 +14,6 @@ summary: 'Erin Cerpa transitioned to our office in the United Kingdom in January
   financial planning and budgeting, and pricing. '
 image: "/uploads/ErinCerpa.jpg"
 group: Management
+sort-order: 2
 ---
 
