@@ -1,7 +1,6 @@
 ---
 title: Erin Cerpa
 date: 2017-01-26 15:09:00 Z
-published: false
 job-title: Chief Finance and Administration Officer, Europe
 email: erin_cerpa@dai.com
 summary: 'Erin Cerpa transitioned to our office in the United Kingdom in January 2017
