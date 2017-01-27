@@ -573,6 +573,7 @@ footer{
 // 🎌 FOOTER: BOTTOM 🎌
 
 .footer-bottom{
+  position: relative;
   @include clearfix;
   clear: left;
   .logo--footer{
@@ -603,7 +604,13 @@ footer{
     }
   }
 }
-
+.trademarked{
+  display: block;
+  position: absolute;
+  color: white;
+  left: -.7rem;
+  top: -.3rem;
+}
 // 🎌 MISC 🎌
 
 hr {
