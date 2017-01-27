@@ -6,7 +6,7 @@ promos:
 layout: node
 ---
 
-At DAI, everyone is responsible for ethical behavior and compliance with all applicable laws and regulations. These responsibilities include being vigilant in mitigating the risk of ethical and compliance violations, and reporting any violations through proper channels. DAI maintains multiple offices and implements stringent policies and processes to ensure that our projects succeed in a compliant and ethical manner. DAI employees play a pivotal role in upholding DAI’s high standards.
+At DAI, everyone is responsible for ethical behavior and compliance with all applicable laws and regulations. These responsibilities include being vigilant in mitigating the risk of ethical and compliance violations, and reporting any violations through proper channels. DAI maintains multiple offices and implements stringent policies and processes to ensure that our projects succeed in a compliant and ethical manner. DAI employees play a pivotal role in upholding DAI’s high standards. 
 
 <iframe src="https://player.vimeo.com/video/35507889?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -16,4 +16,4 @@ DAI’s Chief Ethics and Compliance Officer oversees the Ethics and Compliance p
 
 At DAI, we take compliance seriously. Accomplishing development results in challenging circumstances while complying with funding partner and host nation laws and policies requires disciplined performance. DAI professionals recognize that meeting these high standards will model effective and compliant management to their beneficiaries and establish trusting relationships essential to successful development.
 
-If you have a question or concern on ethics or compliance that you’d like to communicate to DAI, please contact the Chief Ethics and Compliance Officer directly at +1-301-771-7998 or at [compliance@dai.com](mailto:compliance@dai.com). If you wish to remain anonymous, please visit [www.ethicspoint.com](http://www.ethicspoint.com) and choose “File a New Report.”  Enter DAI, select a country, and file your report. A hotline number for your country will also present itself. The Ethicspoint hotline service provides translations if necessary.  All reports will be reviewed and responded to appropriately.
+If you have a question or concern on ethics or compliance that you’d like to communicate to DAI, please contact the Chief Ethics and Compliance Officer directly at +1-301-771-7998 or at [ethics@dai.com](mailto:ethics@dai.com). If you wish to remain anonymous, please visit [www.ethicspoint.com](http://www.ethicspoint.com) and choose “File a New Report.”  Enter DAI, select a country, and file your report. A hotline number for your country will also present itself. The Ethicspoint hotline service provides translations if necessary.  All reports will be reviewed and responded to appropriately.
