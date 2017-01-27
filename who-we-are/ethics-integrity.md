@@ -3,6 +3,20 @@ title: Ethics and Compliance at DAI
 promos:
 - title: DAI Code of Business Conduct and Ethics
   link: "/uploads/Code%20of%20Business%20Conduct%20and%20Ethics.pdf"
+- title: Code of Business Conduct and Ethics - Dari
+  link: http://dai-global-conduct.com/assets/dari.pdf
+- title: Code of Business Conduct and Ethics - Pashto
+  link: http://dai-global-conduct.com/assets/pashto.pdf
+- title: Code of Business Conduct and Ethics - Spanish
+  link: http://dai-global-conduct.com/assets/spanish.pdf
+- title: Code of Business Conduct and Ethics - French
+  link: http://dai-global-conduct.com/assets/Code%20of%20Business%20Conduct%20and%20Ethics%20-%20French.pdf
+- title: Code of Business Conduct and Ethics - Arabic
+  link: http://dai-global-conduct.com/assets/Code%20of%20Conduct%20-%20April%202015%20Arabic%2010-1-15-2.pdf
+- title: Code of Business Conduct and Ethics - Urdu
+  link: http://dai-global-conduct.com/assets/Code%20of%20Conduct%20-%20Urdu-1-2.pdf
+- title: Code of Business Conduct and Ethics - Bahasa Indonesia
+  link: http://dai-global-conduct.com/assets/Bahasa%20Indonesia%20Pedoman%20Bisnis%20dan%20Etika%20DAI.pdf
 layout: node
 ---
 
