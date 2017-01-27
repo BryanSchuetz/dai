@@ -15,7 +15,7 @@ regions: Latin America and the Caribbean
 country: Guatemala
 ---
 
-The Government of Guatemala’s anemic ratio of tax revenue-to-gross domestic product means the country cannot afford to provide critical public services. The project team will assist the government to increase domestic resource mobilization, enhance transparency and accountability, and support public procurement reform.
+The Government of Guatemala’s anemic ratio of tax revenue-to-gross domestic product means the country cannot afford to provide critical public services. The project team will assist the government to increase domestic resource mobilization, enhance transparency and accountability, and support public procurement reform. 
 
 Through FPRP, DAI will assist Guatemala’s Tax and Customs Administration and Ministry of Finance to collect and spend revenue with greater efficiency, effectiveness, and accountability, ultimately increasing its ability to invest in public services and improve outcomes for citizens in health, education, and economic growth.
 
