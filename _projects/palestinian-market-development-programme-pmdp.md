@@ -46,4 +46,4 @@ PMDP is a follow-on to the [Facility for New Market Development](/our-work/proje
 
 * Almost 35 enterprises reported improved financial performance in the same time frame.
 
-* At least 80 new jobs have been created since December 2014.
+* At least 80 new jobs have been created since December 2014.![PMDP-new-pic.jpg](/uploads/PMDP-new-pic.jpg)
