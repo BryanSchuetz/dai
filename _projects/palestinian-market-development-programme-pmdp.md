@@ -28,7 +28,7 @@ PMDP aims to improve market systems and improve the competitiveness of the Pales
 
 PMDP is a follow-on to the [Facility for New Market Development](/our-work/projects/palestine%E2%80%94facility-new-market-development-fnmd) project (2008–2012) implemented by DAI, which built a portfolio of 603 client-companies in the West Bank and Gaza from sectors including manufacturing, agribusiness, stone and marble, ICT, services, tourism, pharmaceuticals, media, and handicrafts. During the project, these client-companies increased their sales by $118 million and created more than 3,400 permanent jobs.
 
-![](/assets/images/projects/PMDP-pic.jpg)
+![PMDP-new-pic-9e2af3.jpg](/uploads/PMDP-new-pic-9e2af3.jpg)
 
 ### Sample Activities
 
