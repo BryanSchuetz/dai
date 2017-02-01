@@ -2,6 +2,16 @@
 title: Development Secretary Priti Patel Stresses Economic Growth in Visit to Ethiopia
   Industrial Park
 date: 2017-02-01 22:22:00 Z
+solutions:
+- Economic Growth
+- Sustainable Livelihoods
+regions: Sub-Saharan Africa
+projects: Ethiopia—Private Enterprise Programme Ethiopia (PEPE)
+clients: U.K. Department for International Development
+summary: Speaking at a burgeoning industrial park in Ethiopia, where clothing is being
+  manufactured for brands such as Calvin Klein and Tommy Hilfiger, UK Development
+  Secretary Priti Patel said that continued development assistance will help Ethiopia
+  create jobs to sustain its rapidly growing native and refugee populations.
 ---
 
 Citing long-term domestic and security benefits to the United Kingdom, International Development Secretary Priti Patel [looked ahead this week](https://www.gov.uk/government/news/uk-to-boost-jobs-and-trade-for-worlds-poorest-countries) to a sharpened focus on economic development in the world’s poorest countries.
