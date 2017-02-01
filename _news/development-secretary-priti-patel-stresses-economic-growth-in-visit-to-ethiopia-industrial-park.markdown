@@ -2,7 +2,6 @@
 title: Development Secretary Priti Patel Stresses Economic Growth in Visit to Ethiopia
   Industrial Park
 date: 2017-02-01 22:22:00 Z
-published: false
 solutions:
 - Economic Growth
 - Sustainable Livelihoods
