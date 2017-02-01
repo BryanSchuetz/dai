@@ -2,7 +2,6 @@
 title: Development Secretary Priti Patel Stresses Economic Growth in Visit to Ethiopia
   Industrial Park
 date: 2017-02-01 22:22:00 Z
-published: false
 ---
 
 Citing long-term domestic and security benefits to the United Kingdom, International Development Secretary Priti Patel [looked ahead this week](https://www.gov.uk/government/news/uk-to-boost-jobs-and-trade-for-worlds-poorest-countries) to a sharpened focus on economic development in the world’s poorest countries.
