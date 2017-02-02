@@ -33,7 +33,7 @@ The middle years of the decade also saw the company innovating in the health are
 
 [![DAI Project Map](/assets/images/who-we-are/map.jpg "DAI Project Map")](http://dai.com/extras/maps/index.html)
 
-At the start of 2009, Jim Boomgard became DAI’s new CEO. The next year DAI celebrated its 40th birthday by publishing [The First 40: A History of DAI]( <!-- #TODO:2 Link To History PDF --> ).
+At the start of 2009, Jim Boomgard became DAI’s new CEO. The next year DAI celebrated its 40th birthday by publishing [The First 40: A History of DAI]( /uploads/history.pdf ).
 
 “The next 10 years will determine whether we can make an American success story into a global success story,” wrote Boomgard in his foreword to the book. “Over the next 10 years, we’ll execute a new strategy designed to bring our strengths, our experience, and our commitment to a changing and in many ways expanding landscape of international development—a landscape that will see more development driven from the ground up, more decision making in countries that have traditionally been the recipients of donor assistance, and a more diverse and influential array of local actors in the development arena.”  
 
