@@ -28,5 +28,4 @@ Catherine has authored business case appraisals for DFID, World Bank, and bilate
 Her current work is contributing to mainstream climate solutions that can enhance the development impact of DAI’s projects, such as MFAT Agricultural Technical Assistance to the Clinton Health Access Initiative (Ethiopia and Rwanda) and the Western Region Coastal Foundation (Ghana).
 
 * MSc, environmental policy, planning and sciences, University of Bath
-
 * MSc., agronomy, Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires
