@@ -10,7 +10,7 @@
     <p class="article-details">
       <span class="article-publication">{{ article.pub }}</span>
     </p>
-    <p>{{ article.summary | markdownify}}</p>
+    <p>{{ article.summary | truncate: 350 | markdownify }}</p>
     <a href="{{ article.link }}" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
     <hr>
   </div>{% endfor %}

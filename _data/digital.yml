@@ -1,5 +1,68 @@
 
-- title: "Q&A: Ian Schuler, CEO of Development Seed"
+- title: "More Data, Less Risk: Innovators Chart a Path to Financial Inclusion"
+  pub: "Digital"
+  date: 2017-01-26
+  link: "https://dai-global-digital.com/more-data-less-risk-innovators-charting-a-path-forward-for-financial-inclusion-through-mobile-data.html"
+  summary: "The phrase “Catch-22” was originally coined to describe a paradoxical situation that someone is unable to escape from because of contradictory rules or regulations. Think, for example, about the recent graduate who is unable to obtain a job because he or she does not possess any previous work experience, yet cannot gain any work experience because he or she cannot get a job. Fortunately, as tends to be the case with graduates who persist, compromising expectations and demands, eventually someone takes a chance, giving them the benefit of the doubt, and chooses to invest in their potential.
+
+Unfortunately, when it comes to access to finance, there are also persistent Catch-22s that directly affect the ability of some of the world’s poorest and most vulnerable populations—particularly rural communities—to improve their precarious position and become more food secure. Perhaps this predicament sounds familiar: Rural farmers are unable to access loans from formal financial institutions because they do not have a credit history that would allow those institutions to effectively assess risk associated with such loans—yet farmers are unable to develop a credit history since they are unable to obtain a loan. Cash-strapped farmers are unable to access better quality farm inputs to increase their yields and inputs. Rural farmers are even more handicapped by geographical considerations: banking agent networks are often extremely weak in rural Africa for instance, and banks are often unwilling to invest in growing into those areas because of the lack of a strong business case based on reliable data."
+  tags:
+    - digital 
+    - Innovation 
+    - Data 
+    - Economic Growth 
+
+- title: "Remote Sensing Part 3: Identify Healthy Vegetation From Space"
+  pub: "Digital"
+  date: 2017-01-23
+  link: "https://dai-global-digital.com/lush-green-remote-sensing.html"
+  summary: "DAI’s excitement about the upcoming SatSummit is approaching perigee levels, with the conference less than one week away! This is Part 3 of our Remote Sensing Series. In case you missed them, here’s Part 2 and Part 1.
+
+You could live a perfectly fulfilled life while taking for granted all the colors that appear in the natural world. However, when you ask “why?”—a fascinating level of complexity is revealed, and this is especially true for the colors of nature: green forests, blue skies, red roses, golden sunsets. The spectrum of visible colors, approximately, but not exclusively, contains: red, orange, yellow, green, indigo, blue, and violet. These colors are emitted from the sun, along with all the invisible parts of the spectrum. Pure snow, (not the gray stuff that piles up in the Walmart the parking lot) is a brilliant bright white. You may recall having to wear sunglasses when the sun is out after a fresh snowfall because of the bright reflective white stuff layering the ground. But why? The molecular structure of snow reflects nearly all of the visible spectrum back to your eye, hence the white color. It has, what remote sensing people call, high albedo."
+  tags:
+    - digital 
+    - Remote Sensing Series 
+    - Data 
+
+- title: "Remote Sensing Series Part 2: Landsat is the Stalwart of Satellite Imagery Platforms (and it’s Free!)"
+  pub: "Digital"
+  date: 2017-01-18
+  link: "https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html"
+  summary: "DAI is in a stellar mood about the upcoming SatSummit in Washington, D.C. Part 1 of the remote sensing series can be read here.
+
+Some incredible things were happening in the United States in 1972: Bill Withers’ “Lean on Me” was the No. 1 song on the radio; the first “Godfather” film was released; and NASA launched the first in a series of satellites designed to provide consistent and reliable coverage of the earth’s land cover. The platform—the Earth Resources Technology Satellite or ERTS-1—was developed in partnership with the U.S. Geological Survey (USGS), which agreed to handle the storage, archiving, and distribution of the data products. The second satellite, eventually renamed Landsat 2, launched in 1975, operating in parallel with ERTS-1 for a few years until the original satellite was decommissioned in 1978.
+
+In the late 1980s, the program hit hard times, with few people or organizations using the data and heightened scrutiny from Congress. It was saved only through direct intervention from then-Vice President Dan Quayle, who perhaps should be remembered more for saving Landsat than an unfortunate incident with a chalkboard and a root vegetable.
+
+Today, Landsat 8 and Landsat 7 operate concurrently."
+  tags:
+    - digital 
+    - Remote Sensing Series 
+    - Data 
+
+- title: "Situamos a la Ciudadanía en el Centro del Proceso de Diseño en Guatemala"
+  pub: "Digital"
+  date: 2017-01-17
+  link: "https://dai-global-digital.com/diseno-ciudadano-guatemala.html"
+  summary: "This post is also available in English.
+
+A finales de 2015, el proyecto USAID Nexos Locales recibió una solicitud novedosa. Fue enviada por Carlos Alvarado Figueroa, que acababa de ser elegido alcalde de Chiantla, un municipio de 75.000 habitantes en el altiplano occidental de Guatemala. Alvarado había sido elegido por su plataforma de transparencia presupuestaria y auditoría social, y formó parte de una ola de reformadores de buena gobernabilidad que fueron elegidos después de la revelación del escándalo denominado La Línea, que envió a prisión el Ex Presidente Otto Pérez Molina y la Ex Vicepresidenta Roxana Baldetti."
+  tags:
+    - digital 
+    - Guatemala 
+    - Governance 
+
+- title: "What Good Is the Internet of Things to People Who Don’t Have the Internet?"
+  pub: "Digital"
+  date: 2017-01-13
+  link: "https://dai-global-digital.com/what-good-is-the-internet-of-things-to-people-who-dont-have-internet.html"
+  summary: "As I write this, the annual Consumer Electronics Show has just wrapped up in Las Vegas, having introduced an allegedly eager public to smartphone-enabled hairbrushes, Bluetooth-capable vibrating hotpants, and refrigerators that tweet when you’re running low on soy milk. This is what marketing departments call the Internet of Things (IoT): devices that are networked for sensing, control, and/or coordination. Under the stifling blanket of hype, though, new platforms, network protocols, and data repositories really are enabling applications of value, in addition to the tweeting kitchen appliances which, one hopes, will stay in Vegas."
+  tags:
+    - digital 
+    - Innovation 
+    - Think Piece 
+
+- title: "GeekFest 2017: Q&A with Ian Schuler, CEO of Development Seed"
   pub: "Digital"
   date: 2017-01-10
   link: "https://dai-global-digital.com/QandA-ian-schuler.html"
@@ -38,7 +101,9 @@ We’re kicking things off with Ian Schuler, the CEO of Development Seed, one of
   pub: "Digital"
   date: 2016-12-19
   link: "https://dai-global-digital.com/citizen-centered-design-guatemala.html"
-  summary: "Back in late 2015, the Nexos Locales project in Guatemala received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of Chiantla (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had been elected on a platform of budget transparency and social audit and was part of a wave of good governance reformers that swept into office on the heels of the Línea corruption scandal, which saw both President Otto Perez Molina and Vice President Roxana Baldetti jailed. He wanted DAI’s help to design and develop a mobile tool to give the citizens of Chiantla (Chiantlecos) better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, facilitating social audit and giving citizens the ability to more easily communicate with his administration. So, the project called me, and I called the Mayor.
+  summary: "Esta entrada también está disponible en español.
+
+Back in late 2015, the Nexos Locales project in Guatemala received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of Chiantla (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had been elected on a platform of budget transparency and social audit and was part of a wave of good governance reformers that swept into office on the heels of the Línea corruption scandal, which saw both President Otto Perez Molina and Vice President Roxana Baldetti jailed. He wanted DAI’s help to design and develop a mobile tool to give the citizens of Chiantla (Chiantlecos) better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, facilitating social audit and giving citizens the ability to more easily communicate with his administration. So, the project called me, and I called the Mayor.
 
 
 Mayor Carlos Alvarado’s post-election Facebook banner image promoting social audit. Text reads: A cordial invitation to participate in a social audit workshop. The resources are the community’s, and we should audit them!"
@@ -59,7 +124,7 @@ I started my career by conducting threat analyses of suspected jihadists. I’d 
     - Governance 
     - CVE 
 
-- title: "Part 1: The Foundations and Applications of Remote Sensing"
+- title: "Remote Sensing Series Part 1: The Foundations and Applications of Remote Sensing"
   pub: "Digital"
   date: 2016-12-14
   link: "https://dai-global-digital.com/remote-sensing-of-the-earth.html"
@@ -276,59 +341,6 @@ So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week ki
   summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
 
 So far, we’ve covered WhatsApp and Facebook Messenger. This time, we bring you Telegram, WhatsApp’s bolder, more extroverted cousin."
-  tags:
-    - digital 
-    - Appathon 2016 
-
-- title: "App-a-Thon 2016: Facebook  Messenger for Development"
-  pub: "Digital"
-  date: 2016-08-24
-  link: "https://dai-global-digital.com/facebook-messenger.html"
-  summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
-
-Last time we covered WhatsApp. This week, we’re talking about another Facebook property: Messenger."
-  tags:
-    - digital 
-    - Appathon 2016 
-
-- title: "Can Big Data Build Resilient Communities?"
-  pub: "Digital"
-  date: 2016-08-22
-  link: "https://dai-global-digital.com/can-big-data-build-resilient-communities.html"
-  summary: "Guest post by Max Baiden, Project Manager on the Climate &amp; Environment, Infrastructure and Livelihoods Professional Evidence Applied Knowledge Services Framework in DAI’s UK office, with contributors from Data-Pop Alliance
-
-Before my time at DAI, I spent several months in India, working for a local nongovernmental organization on multidimensional poverty reduction projects. One of the projects had me walking through a tsunami-affected village on the southeastern coast of India. Witnessing first-hand how damaging hydrometerological events can be really galvanized my desire to work in the sector. I talked to local fisherman about how their boats were destroyed and how they had to leave their village behind in the impending wake of the storm. They despaired at the lack of early warning information to help them prepare for and understand the effects of such a disaster."
-  tags:
-    - digital 
-    - Health 
-    - Data 
-
-- title: "Top 5 Civic Tech Concepts and Ideas from PDF 2016"
-  pub: "Digital"
-  date: 2016-08-16
-  link: "https://dai-global-digital.com/civic-tech-pdf-2016.html"
-  summary: "The annual Personal Democracy Forum (PDF) might best be described as “civic tech prom.” It’s that once-a-year time when civic tech enthusiasts put on their good shoes, stand up in front of their peers, and show how they’re using new technology for public good. What qualifies as civic tech in this crowd? If you’re starting discourse about important public issues, monitoring government expenditures, holding politicians accountable for campaign promises, drafting candidates to run for office, and using a mobile phone, social media, or remote sensing to do it, you would fit right in at PDF."
-  tags:
-    - digital 
-    - Governance 
-
-- title: "Visualizing Hierarchical Data: USAID’s $8.5 Billion Global Health Initiative"
-  pub: "Digital"
-  date: 2016-08-08
-  link: "https://dai-global-digital.com/visualizing-hierarchical-data-the-2017-budget-request-for-usaids-global-health-initiative.html"
-  summary: "Budget data is notoriously difficult to analyze. The volume of data can be high, the long tables are unwieldy, and the structures are almost always multilayered, making it difficult to visualize. But with some of the advanced interactive visualization tools we use at DAI, we can analyze and present even complex data more clearly."
-  tags:
-    - digital 
-    - Health 
-    - Data 
-
-- title: "WhatsApp for Development: the Launch of App-a-Thon 2016"
-  pub: "Digital"
-  date: 2016-08-03
-  link: "https://dai-global-digital.com/whatsapp-appathon-2016.html"
-  summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around the Middle East, Latin America, Asia, and Africa about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
-
-This week, we begin with one of the most popular – WhatsApp."
   tags:
     - digital 
     - Appathon 2016 
