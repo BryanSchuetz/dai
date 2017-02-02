@@ -21,14 +21,12 @@ Catherine Wallis has worked in international development for 14 years  with publ
 
 She has experience in working with smallholder farmers and communities in fragile environments in Africa and Asia. Her expertise lies in climate resilience and risk management, climate smart agriculture, ecosystem-based approaches, and adaptive social protection.
 
-Catherine is involved in multiple aspects of proposal development efforts including technical content, team set up and financial offers. She also provides peer review guidance to the in-house framework and call-down contracts with DFID and the European Commission relating to climate adaptation and resilience building.
+Catherine is involved in multiple aspects of proposal development efforts including technical content, team set up and financial offers. She also provides peer review guidance to the in-house framework and call-down contracts with the U.K. Department for International Development (DFID) and the European Commission relating to climate adaptation and resilience building.
 
-Catherine has authored business case appraisals for DFID, World Bank and bilateral donors on agricultural livelihoods (Bangladesh, Haiti), forest resources management (Tanzania, Malawi), social protection (Uganda), and climate adaptation (New Caledonia, Vietnam). She has led or contributed to evaluation assessments of biodiversity conservation (Ivory Coast, the Mediterranean region) and disaster rehabilitation programmes (India).
+Catherine has authored business case appraisals for DFID, World Bank, and bilateral donors on agricultural livelihoods (Bangladesh, Haiti), forest resources management (Tanzania, Malawi), social protection (Uganda), and climate adaptation (New Caledonia, Vietnam). She has led or contributed to evaluation assessments of biodiversity conservation (Ivory Coast, the Mediterranean region) and disaster rehabilitation programmes (India).
 
-Her current work is contributing to mainstream climate solutions that can enhance the development impact of DAI’s projects. Catherine is currently supporting projects in integrating climate adaptation and resilience technologies and practices into their activities and tracking development results. These include the MFAT Agricultural Technical Assistance to the Clinton Health Access Initiative (Ethiopia and Rwanda) and the Western Region Coastal Foundation (Ghana).
+Her current work is contributing to mainstream climate solutions that can enhance the development impact of DAI’s projects, such as MFAT Agricultural Technical Assistance to the Clinton Health Access Initiative (Ethiopia and Rwanda) and the Western Region Coastal Foundation (Ghana).
 
-Catherine is bilingual French and English, with good command of Spanish and German. She first joined HTSPE in 2003 as a project coordinator and is delighted to be back with the DAI family 10 years on.
+* MSc, environmental policy, planning and sciences, University of Bath
 
-* MSc, environmental policy, planning and sciences, University of Bath, UK
-
-* MSc., agronomy, Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires, France
+* MSc., agronomy, Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires
