@@ -6,6 +6,14 @@
   <meta name="viewport" content="">
   <meta name="keywords" content="International Development, DAI, Consulting, International Development Company, {{ page.title }}">
   <meta name="description" content="{{ page.title }} &middot; {{ site.data.meta.description }}">
+  <!-- Enable twitter card magic -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@daiglobal">
+  <meta name="twitter:creator" content="@daiglobal">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary | strip_html | truncate: 300 }}{% else %}{{ site.data.meta.description }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.twit-pic %}{{ page.twit-pic }}{% else %}/uploads/default.png{% endif %}">
+
   <title>
     {% if page.title == "Home" %}
       {{ site.data.meta.title }} &middot; {{ site.data.meta.tagline }}
