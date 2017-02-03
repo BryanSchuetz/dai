@@ -425,6 +425,7 @@ aside{
   clear:both;
 }
 #slidebox{
+    z-index: 100;
     width: 40%;
     padding:10px;
     background-color: $nav_gray;

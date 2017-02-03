@@ -1,11 +1,20 @@
 
+- title: "Remote Sensing Part 4: The Everest of Satellite Conferences, SatSummit 2017"
+  pub: "Digital"
+  date: 2017-02-01
+  link: "https://dai-global-digital.com/reaching-the-summit-with-satellites.html"
+  summary: "We reached the summit of satellite conferences this week! This is the fourth post in our remote sensing series. See part 1, part 2 and part 3.
+
+#SatDiversity and #FatData are two hashtags I did not expect to see blaring across the screen when I attended the SatSummit conference this week. These bold declarations are something new: a compression of expression, capturing with perfect brevity the major themes of a fledgling tech space on the cusp of bringing real change almost as quickly as the terabytes of data that rain down to Earth from satellites bearing the names of these space-technology pioneers. Here’s some key takeaways from the event."
+  tags:
+    - digital 
+    - Remote Sensing Series 
+
 - title: "More Data, Less Risk: Innovators Chart a Path to Financial Inclusion"
   pub: "Digital"
   date: 2017-01-26
   link: "https://dai-global-digital.com/more-data-less-risk-innovators-charting-a-path-forward-for-financial-inclusion-through-mobile-data.html"
-  summary: "The phrase “Catch-22” was originally coined to describe a paradoxical situation that someone is unable to escape from because of contradictory rules or regulations. Think, for example, about the recent graduate who is unable to obtain a job because he or she does not possess any previous work experience, yet cannot gain any work experience because he or she cannot get a job. Fortunately, as tends to be the case with graduates who persist, compromising expectations and demands, eventually someone takes a chance, giving them the benefit of the doubt, and chooses to invest in their potential.
-
-Unfortunately, when it comes to access to finance, there are also persistent Catch-22s that directly affect the ability of some of the world’s poorest and most vulnerable populations—particularly rural communities—to improve their precarious position and become more food secure. Perhaps this predicament sounds familiar: Rural farmers are unable to access loans from formal financial institutions because they do not have a credit history that would allow those institutions to effectively assess risk associated with such loans—yet farmers are unable to develop a credit history since they are unable to obtain a loan. Cash-strapped farmers are unable to access better quality farm inputs to increase their yields and inputs. Rural farmers are even more handicapped by geographical considerations: banking agent networks are often extremely weak in rural Africa for instance, and banks are often unwilling to invest in growing into those areas because of the lack of a strong business case based on reliable data."
+  summary: "The phrase “Catch-22” was originally coined to describe a paradoxical situation that someone is unable to escape from because of contradictory rules or regulations. Think, for example, about the recent graduate who is unable to obtain a job because he or she does not possess any previous work experience, yet cannot gain any work experience because he or she cannot get a job. Fortunately, as tends to be the case with graduates who persist, compromising expectations and demands, eventually someone takes a chance, giving them the benefit of the doubt, and chooses to invest in their potential."
   tags:
     - digital 
     - Innovation 
@@ -18,7 +27,7 @@ Unfortunately, when it comes to access to finance, there are also persistent Cat
   link: "https://dai-global-digital.com/lush-green-remote-sensing.html"
   summary: "DAI’s excitement about the upcoming SatSummit is approaching perigee levels, with the conference less than one week away! This is Part 3 of our Remote Sensing Series. In case you missed them, here’s Part 2 and Part 1.
 
-You could live a perfectly fulfilled life while taking for granted all the colors that appear in the natural world. However, when you ask “why?”—a fascinating level of complexity is revealed, and this is especially true for the colors of nature: green forests, blue skies, red roses, golden sunsets. The spectrum of visible colors, approximately, but not exclusively, contains: red, orange, yellow, green, indigo, blue, and violet. These colors are emitted from the sun, along with all the invisible parts of the spectrum. Pure snow, (not the gray stuff that piles up in the Walmart the parking lot) is a brilliant bright white. You may recall having to wear sunglasses when the sun is out after a fresh snowfall because of the bright reflective white stuff layering the ground. But why? The molecular structure of snow reflects nearly all of the visible spectrum back to your eye, hence the white color. It has, what remote sensing people call, high albedo."
+You could live a perfectly fulfilled life while taking for granted all the colors that appear in the natural world. However, when you ask “why?”—a fascinating level of complexity is revealed, and this is especially true for the colors of nature: green forests, blue skies, red roses, golden sunsets."
   tags:
     - digital 
     - Remote Sensing Series 
@@ -30,11 +39,7 @@ You could live a perfectly fulfilled life while taking for granted all the color
   link: "https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html"
   summary: "DAI is in a stellar mood about the upcoming SatSummit in Washington, D.C. Part 1 of the remote sensing series can be read here.
 
-Some incredible things were happening in the United States in 1972: Bill Withers’ “Lean on Me” was the No. 1 song on the radio; the first “Godfather” film was released; and NASA launched the first in a series of satellites designed to provide consistent and reliable coverage of the earth’s land cover. The platform—the Earth Resources Technology Satellite or ERTS-1—was developed in partnership with the U.S. Geological Survey (USGS), which agreed to handle the storage, archiving, and distribution of the data products. The second satellite, eventually renamed Landsat 2, launched in 1975, operating in parallel with ERTS-1 for a few years until the original satellite was decommissioned in 1978.
-
-In the late 1980s, the program hit hard times, with few people or organizations using the data and heightened scrutiny from Congress. It was saved only through direct intervention from then-Vice President Dan Quayle, who perhaps should be remembered more for saving Landsat than an unfortunate incident with a chalkboard and a root vegetable.
-
-Today, Landsat 8 and Landsat 7 operate concurrently."
+Some incredible things were happening in the United States in 1972: Bill Withers’ “Lean on Me” was the No. 1 song on the radio; the first “Godfather” film was released; and NASA launched the first in a series of satellites designed to provide consistent and reliable coverage of the earth’s land cover. The platform—the Earth Resources Technology Satellite or ERTS-1—was developed in partnership with the U.S. Geological Survey (USGS), which agreed to handle the storage, archiving, and distribution of the data products. The second satellite, eventually renamed Landsat 2, launched in 1975, operating in parallel with ERTS-1 for a few years until the original satellite was decommissioned in 1978."
   tags:
     - digital 
     - Remote Sensing Series 
@@ -103,10 +108,7 @@ We’re kicking things off with Ian Schuler, the CEO of Development Seed, one of
   link: "https://dai-global-digital.com/citizen-centered-design-guatemala.html"
   summary: "Esta entrada también está disponible en español.
 
-Back in late 2015, the Nexos Locales project in Guatemala received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of Chiantla (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had been elected on a platform of budget transparency and social audit and was part of a wave of good governance reformers that swept into office on the heels of the Línea corruption scandal, which saw both President Otto Perez Molina and Vice President Roxana Baldetti jailed. He wanted DAI’s help to design and develop a mobile tool to give the citizens of Chiantla (Chiantlecos) better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, facilitating social audit and giving citizens the ability to more easily communicate with his administration. So, the project called me, and I called the Mayor.
-
-
-Mayor Carlos Alvarado’s post-election Facebook banner image promoting social audit. Text reads: A cordial invitation to participate in a social audit workshop. The resources are the community’s, and we should audit them!"
+Back in late 2015, the Nexos Locales project in Guatemala received a novel inquiry. It was from Carlos Alvarado Figueroa, who had just been elected mayor of Chiantla (CHEE-ahn-tlah), a municipality of 75,000 in the Western Highlands, and he had an idea. Alvarado had been elected on a platform of budget transparency and social audit and was part of a wave of good governance reformers that swept into office on the heels of the Línea corruption scandal, which saw both President Otto Perez Molina and Vice President Roxana Baldetti jailed. He wanted DAI’s help to design and develop a mobile tool to give the citizens of Chiantla (Chiantlecos) better access to municipal government. In particular, he wanted to give Chiantlecos an easy, transparent view on how his government was allocating and spending money, facilitating social audit and giving citizens the ability to more easily communicate with his administration. So, the project called me, and I called the Mayor."
   tags:
     - digital 
     - Guatemala 
@@ -333,15 +335,4 @@ So far, we’ve covered WhatsApp, Facebook Messenger, and Telegram. This week ki
   tags:
     - digital 
     - Think Piece 
-
-- title: "App-a-Thon 2016: Telegram for Development"
-  pub: "Digital"
-  date: 2016-08-29
-  link: "https://dai-global-digital.com/app-a-thon-2016-telegram-for-development.html"
-  summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
-
-So far, we’ve covered WhatsApp and Facebook Messenger. This time, we bring you Telegram, WhatsApp’s bolder, more extroverted cousin."
-  tags:
-    - digital 
-    - Appathon 2016 
 
