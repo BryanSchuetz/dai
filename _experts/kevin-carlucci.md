@@ -14,8 +14,12 @@ solutions:
 - Water and Sanitation Services and Management
 layout: expert
 image: "/assets/images/experts/Kevin%20inner.jpg"
-summary: |
-  As a behavioral economist, Kevin's work has focused on resource use efficiency (water, energy) and governance of land and its natural resources. He has particular interest in environmental finance, such as payments for ecosystem services, and in working to demystify how to access climate adaptation funding.
+summary: 'As a behavioral economist, Kevin''s work has focused on resource use efficiency
+  (water, energy) and governance of land and its natural resources. He has particular
+  interest in environmental finance, such as payments for ecosystem services, and
+  in working to demystify how to access climate adaptation funding.
+
+'
 job-title: Senior Global Practice Specialist, Environment
 ---
 
