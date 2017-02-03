@@ -17,11 +17,11 @@ summary: Speaking at a burgeoning industrial park in Ethiopia, where clothing is
 
 Citing long-term domestic and security benefits to the United Kingdom, International Development Secretary Priti Patel [looked ahead this week](https://www.gov.uk/government/news/uk-to-boost-jobs-and-trade-for-worlds-poorest-countries) to a sharpened focus on economic development in the world’s poorest countries.
 
+Speaking at a burgeoning industrial park in Ethiopia, where clothing is being manufactured for brands such as Calvin Klein and Tommy Hilfiger, Patel said that continued development assistance will help Ethiopia create jobs to sustain its rapidly growing native and refugee populations.
+
 ![DAI-News----PEPE-Patel-visit-8b7f24.jpg](/uploads/DAI-News----PEPE-Patel-visit-8b7f24.jpg "UK Development Secretary Priti Patel is greeted by DAI's Nebil Kellow, managing director of Enterprise Partners.")
 
 <!--more-->
-
-Speaking at a burgeoning industrial park in Ethiopia, where clothing is being manufactured for brands such as Calvin Klein and Tommy Hilfiger, Patel said that continued development assistance will help Ethiopia create jobs to sustain its rapidly growing native and refugee populations.
 
 “If the jobs aren’t there, young Africans who are educated will want to migrate. They will want to have better prospects and futures elsewhere,” said Patel, [as quoted by *The Times* of London](http://www.thetimes.co.uk/article/bigger-share-of-aid-budget-to-be-spent-supporting-business-p3svp8c6k). “So we need to support these [countries] in Africa to industrialise. If you think about the long-term benefit, many of the countries we are working with right now will become our trade partners as well.”
 
