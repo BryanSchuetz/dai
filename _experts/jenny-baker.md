@@ -10,7 +10,7 @@ solutions:
 - Environment and Energy
 - Governance
 - Natural Resource Management
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: expert
 image: "/assets/images/experts/Baker_Inner.jpg"
 summary: As Regional Managing Director for Asia, Jenny oversees DAI operations from

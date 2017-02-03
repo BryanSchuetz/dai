@@ -11,7 +11,7 @@ country:
 solutions:
 - Environment and Energy
 - Natural Resource Management
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: project
 summary: Despite significant progress made through donor and nongovernmental organization
   investments over the past 30 years, a large percentage of Africans still lack access

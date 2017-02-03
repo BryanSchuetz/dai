@@ -10,7 +10,7 @@ country:
 - Lebanon
 solutions:
 - Environment and Energy
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: project
 summary: 'LWP will increase reliable and sustainable access to water for Lebanese
   citizens, improve water management practices, enhance the efficiency and sustainability

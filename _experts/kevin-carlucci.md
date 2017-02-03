@@ -11,7 +11,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Natural Resource Management
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: expert
 image: "/assets/images/experts/Kevin%20inner.jpg"
 summary: |

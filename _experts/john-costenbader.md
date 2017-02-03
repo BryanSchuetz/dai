@@ -14,7 +14,7 @@ solutions:
 - Land Tenure and Property Rights
 - Legislative Strengthening
 - Natural Resource Management
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: expert
 image: "/assets/images/experts/John%20Costenbader%20Inner.jpg"
 summary: Twenty years ago, John Costenbader graduated from a small New England college

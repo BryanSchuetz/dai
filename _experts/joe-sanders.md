@@ -9,7 +9,7 @@ job-title: Chief of Party, Kenya Integrated Water Sanitation and Hygiene (KIWASH
 image: "/assets/images/experts/Joe%20Sanders%20Inner.jpg"
 solutions:
 - Environment and Energy
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 - Agriculture and Food Security
 - Economic Growth
 regions:

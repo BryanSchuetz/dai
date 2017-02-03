@@ -12,7 +12,7 @@ client: U.S. Agency for International Development
 solutions:
 - Environment and Energy
 - Health
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 - 
 regions:
 - Asia and the Pacific

@@ -12,7 +12,7 @@ solutions:
 - Peace-building and State-building
 - Stability
 - Voice and Accountability
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: project
 summary: The increase of mining, logging, and oil and gas development in Latin America
   has led to chronic low-grade conflict and periodic violence in communities in or

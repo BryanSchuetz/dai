@@ -15,7 +15,7 @@ solutions:
 - Land Tenure and Property Rights
 - Natural Resource Management
 - Sustainable and Accountable Health Services
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 regions:
 - Worldwide
 country:

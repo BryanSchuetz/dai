@@ -10,7 +10,7 @@ solutions:
 - Governance
 - Natural Resource Management
 - Stability
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: expert
 image: "/assets/images/experts/Spake_Inner%20%281%29.jpg"
 summary: Bruce has worked in various leadership roles, including as Vice President

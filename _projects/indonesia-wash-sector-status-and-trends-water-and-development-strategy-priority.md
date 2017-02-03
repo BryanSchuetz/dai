@@ -11,7 +11,7 @@ country:
 - Indonesia
 solutions:
 - Health
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: project
 summary: 'While many developing countries have made notable progress increasing access
   to water, progress is more uneven in improving access to adequate sanitation. In

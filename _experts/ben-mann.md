@@ -9,7 +9,7 @@ solutions:
 - Environment and Energy
 - Health
 - Digital
-- Water Services and Resource Management
+- Water and Sanitation Services and Management
 layout: expert
 image: "/assets/images/experts/MannInner.jpg"
 summary: Ben serves as a Global Practice Specialist for Water and Sanitation with
