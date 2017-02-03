@@ -7,6 +7,14 @@
       {% include header.html %}
       {% if page.title == 'Home' %}
   <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": true, "setGallerySize": false }'>
+    <a class="gallery-cell" style="background: url(/uploads/nexos.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/mitigating-instability-in-central-america/">
+      <div class="shader">
+        <div class="gallery-cell--text">
+          <h2>Mitigating Instability</h2>
+          <p class="gallery-subhead">Economic opportunity and citizen security in Central America</p>
+        </div>
+      </div>
+    </a>
     <a class="gallery-cell" style="background: url(/uploads/mine.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"  href="http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/">
       <div class="shader">
         <div class="gallery-cell--text">
@@ -31,14 +39,6 @@
         </div>
       </div>
     </a>
-      <a class="gallery-cell" style="background: url(/uploads/nexos.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/mitigating-instability-in-central-america/">
-        <div class="shader">
-          <div class="gallery-cell--text">
-            <h2>Mitigating Instability</h2>
-            <p class="gallery-subhead">Economic opportunity and citizen security in Central America</p>
-          </div>
-        </div>
-      </a>
   </div>
       {% endif %}
       <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}">
