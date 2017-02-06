@@ -10,7 +10,6 @@ solutions:
 - Environment and Energy
 - Governance
 - Natural Resource Management
-- Water and Sanitation Services and Management
 layout: expert
 image: "/assets/images/experts/Baker_Inner.jpg"
 summary: As Regional Managing Director for Asia, Jenny oversees DAI operations from
@@ -19,8 +18,8 @@ summary: As Regional Managing Director for Asia, Jenny oversees DAI operations f
   growth, governance, and environment.
 job-title: Regional Managing Director, Asia
 articles:
-- name: 
-  article_file: 
+- name:
+  article_file:
 ---
 
 As Regional Managing Director for Asia, Jenny oversees DAI operations from Central Asia to the Pacific Islands. DAI's current portfolio of 18 long-term field projects in the region tackle development challenges in sectors as diverse as economic growth, governance, and environment. Her 25-person team supports dozens of long- and short-term expatriates, and hundreds of local professionals in the field.

@@ -8,7 +8,7 @@ layout: default
 
 <div class="cf">
 <div class="contact-us us">
-<h2 id="us">U.S.</h2> 
+<h2 id="us">United States</h2> 
 <p>tel: (301)771-7600<br>
 <a href="steven_o'connor@dai.com">Email</a></p>
 
@@ -16,7 +16,7 @@ layout: default
     7600 Wisconsin Avenue, Suite 200<br>
     Bethesda, MD 20814<br>
     <a href="https://www.google.com/maps/place/Development+Alternatives+Inc/@38.986188,-77.095005,17z/data=!3m1!4b1!4m2!3m1!1s0x89b7c964ea36cca5:0xad074d59840ba3da">Map this location</a></p>
-    
+
     <p><strong>Additional Email Contacts</strong><br>
     <a href="mailto:steven_o'connor@dai.com">Press Inquiries</a><br>
     <a href="mailto:procurement@dai.com">Small Business/Procurement</a><br>
@@ -41,7 +41,7 @@ layout: default
     Apsley<br>
     Hertfordshire, HP3 9TD<br>
     <a href="https://www.google.com/maps/place/DAI+Europe/@51.7295892,-0.4582898,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7c0d368c0749a3fb!8m2!3d51.7295892!4d-0.4561011?hl=en-US">Map this location</a></p>
-        
+
     <p><strong>London</strong><br>
     63 Gee Street, 2nd Floor<br>
     London, EC1V 3RS<br>

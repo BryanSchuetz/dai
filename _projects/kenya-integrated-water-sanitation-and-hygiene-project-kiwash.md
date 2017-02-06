@@ -13,6 +13,7 @@ solutions:
 - Health
 - Health and Livelihoods
 - Nutrition and Food Security
+- Water and Sanitation Services and Management
 layout: project
 summary: By combining nutrition programming with improved access to water, sanitation,
   and hygiene (WASH), the U.S. Agency for International Development has designed the
