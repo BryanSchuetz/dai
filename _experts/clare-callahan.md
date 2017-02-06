@@ -5,7 +5,7 @@ lastname: Callahan
 regions:
 - Sub-Saharan Africa
 solutions:
-- Corporate Services
+- Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/clare.jpg"
 summary: |

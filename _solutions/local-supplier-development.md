@@ -4,7 +4,7 @@ date: 2016-01-22 00:11:14.114000000 Z
 permalink: "/our-work/solutions/corporate/local-supplier-development"
 layout: solution
 solutions:
-- Corporate Services
+- Corporate Sustainability
 ---
 
 Today’s global supply chain is comprised of millions of small firms. Cost savings often drive companies to seek local suppliers, but that cost advantage—and the company brand—will be at risk if suppliers cannot meet market expectations for quality and reliability. Compounding the challenge are the limited numbers of capable local suppliers, a likely lack of in-house expertise to assess or build suppliers' capabilities, and inadequate collaboration among operators, contractors, communities, and governments.

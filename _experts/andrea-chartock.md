@@ -7,16 +7,15 @@ summary: 'Andrea Chartock’s work at DAI focuses on promoting economic growth a
 job-title: Senior Development Specialist
 image: "/assets/images/experts/Chartock_Inner.jpg"
 solutions:
-- Corporate Services
 - Economic Growth
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
 articles:
-- name: 
-  article_file: 
-- article_file: 
+- name:
+  article_file:
+- article_file:
 layout: expert
 ---
 
@@ -26,7 +25,7 @@ Andrea has served as Project Team Lead and Project Quality Manager for seven DAI
 
 > "I love working at DAI because of the interesting challenges we tackle and the stellar colleagues. After 14 years here, I still feel I am constantly learning something new, which is both humbling and exciting."
 
-Andrea joined DAI in April 2004 after spending five years managing and implementing economic development programs for Citizens Developments Corps. She spent two years as a Peace Corps volunteer teaching at a university in Russia. 
+Andrea joined DAI in April 2004 after spending five years managing and implementing economic development programs for Citizens Developments Corps. She spent two years as a Peace Corps volunteer teaching at a university in Russia.
 
 * M.A., international policy studies, Stanford University
 

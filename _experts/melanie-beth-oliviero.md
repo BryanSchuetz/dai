@@ -6,7 +6,6 @@ regions:
 - Latin America and the Caribbean
 - Sub-Saharan Africa
 solutions:
-- Corporate Services
 - Economic Growth
 layout: expert
 image: "/assets/images/experts/Oliviera_Inner_0.jpg"
@@ -16,8 +15,8 @@ summary: Melanie Beth Oliviero has for 35 years worked for human rights and huma
   civil society strengthening, and human rights and economic empowerment.
 job-title: Strategic Adviser, Economic Growth
 articles:
-- name: 
-  article_file: 
+- name:
+  article_file:
 ---
 
 Melanie Beth Oliviero has for 35 years worked for human rights and human development. As a strategic adviser on alliances and global business solutions at DAI, she draws on her expertise in corporate social responsibility, global philanthropy, civil society strengthening, and human rights and economic empowerment. She has designed and delivered innovative global alliances that break ground in leveraging layers of public and private donor and commercial capital to deepen impact for economic and environmental security in poor countries. This work is an extension of her affiliation with the MacArthur Foundation, where she was recruited in 1998 to help develop a philanthropic strategy responsive to new imperatives resulting from economic globalization.

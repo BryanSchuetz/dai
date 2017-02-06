@@ -9,7 +9,7 @@ regions:
 country:
 - Moldova
 solutions:
-- Corporate Services
+- Corporate Sustainability
 - Economic Growth
 - Voice and Accountability
 layout: project

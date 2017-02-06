@@ -11,7 +11,7 @@ summary: 'Emily Foster is an analyst with extensive experience in technical and 
 job-title: Analyst, Energy and Resources Group
 image: "/assets/images/experts/emily.jpg"
 solutions:
-- Corporate Services
+- Corporate Sustainability
 regions:
 - Sub-Saharan Africa
 layout: expert

@@ -1,9 +1,22 @@
 ---
-title: Energy and Resources Group
-related: false
+title: Corporate Sustainability
+date: 2016-01-21 18:23:00.492000000 Z
+permalink: our-work/solutions/corporate-services
+icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
+  meet"><use xlink:href="#corp-badge"></use></svg>
+summary: Helping our clients achieve significantly higher social and business returns
+  by merging business imperatives with development best practices.
+layout: solution
+type: primary
 redirect_from:
 - "/erg"
 promos:
+- title: "**Our Team:** DAI Corporate Sustainability Experts"
+  link: "/who-we-are/the-team?filter=corporate-sustainability"
+- title: "**Our Work:** DAI Corporate Sustainability Projects"
+  link: "/our-work/the-projects?filter=corporate-sustainability"
+- title: "**News:** Recent Corporate Sustainability News"
+  link: "/news/view-more-news?filter=corporate-sustainability"
 - title: "**Project**: _Niger Delta Electricity Sector Assesment and Investment Strategy_"
   link: "/uploads/chevron.pdf"
 - title: "**Project**: _Local Content Demand and Supply Study for Liquefied Natural_
@@ -13,15 +26,16 @@ promos:
   link: "/uploads/kosmos.pdf"
 - title: "**Analysis**: _Unlocking Content_"
   link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
-- title: "**Video**: _Kosmos Innovation Center_"
-  link: https://www.youtube.com/watch?v=A3-VyczktO8
-layout: node
-published: false
+related: false
 ---
+**Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices**
 
-DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
+ Our work with private sector companies and nonprofit foundations spans decades. Our corporate work goes far beyond helping to develop a corporate social responsibility (CSR) strategy, it blends our economic development capabilities with business strategies to help clients succeed in their developing world operations.
 
-![Mine](/uploads/full-mine.jpg)
+DAI’s **Energy and Resources Group** expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
+
+<iframe src="https://www.youtube.com/embed/A3-VyczktO8" frameborder="0" allowfullscreen></iframe>
+`With DAI’s assistance, Kosmos Energy has taken a market-driven approach to catalyze innovation and promote youth employment in the Ghanaian agricultural sector.`
 
 ## Services
 
@@ -42,7 +56,7 @@ The Energy and Resources Group works with companies in the oil, gas, mining, and
 </ul>
 </aside>
 
-## Featured Experts
+<!-- ## Featured Experts
 
 Global in outlook and approach, ERG’s staff are steeped in the challenges of delivering business solutions in the developing world.
 
@@ -59,4 +73,4 @@ Global in outlook and approach, ERG’s staff are steeped in the challenges of d
 </div>
 <a href="/who-we-are/our-team/{{ contact.title | slugify }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   {% unless forloop.last %}<hr>{% endunless %}
-{% endfor %}
+{% endfor %} -->

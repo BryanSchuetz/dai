@@ -8,7 +8,7 @@ summary: Doug McLean oversees the company's international offices, ensuring effe
 job-title: Vice President, Partnerships
 image: "/assets/images/experts/McLean_Inner.jpg"
 solutions:
-- Corporate Services
+- Digital
 layout: expert
 ---
 

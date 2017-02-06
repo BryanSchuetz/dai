@@ -5,7 +5,7 @@ lastname: Kozumbo
 regions:
 - Sub-Saharan Africa
 solutions:
-- Corporate Services
+- Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/luke_inside.jpg"
 summary: |

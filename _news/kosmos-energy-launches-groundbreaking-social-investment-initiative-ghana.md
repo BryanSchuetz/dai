@@ -7,7 +7,7 @@ summary: Kosmos Energy today launched the Kosmos Innovation Center (KIC) in Accr
   will provide capacity building support, personnel recruitment and management, stakeholder
   engagement, investment due diligence, and ongoing technical assistance to the initiative.
 solutions:
-- Corporate Services
+- Corporate Sustainability
 regions:
 - Sub-Saharan Africa
 projects: 

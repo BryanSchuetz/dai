@@ -3,7 +3,7 @@ title: Social Strategy
 date: 2016-01-22 00:11:14.114000000 Z
 permalink: "/our-work/solutions/corporate/social-strategy"
 solutions:
-- Corporate Services
+- Corporate Sustainability
 layout: solution
 ---
 

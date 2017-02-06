@@ -9,7 +9,7 @@ regions:
 country:
 - Nigeria
 solutions:
-- Corporate services
+- Corporate Sustainability
 - Economic Growth
 layout: project
 summary: DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of
