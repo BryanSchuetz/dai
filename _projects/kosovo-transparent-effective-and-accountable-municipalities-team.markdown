@@ -11,7 +11,7 @@ solutions:
 - Governance
 - Financial Services
 regions: Eastern Europe and Central Asia
-country: KOSOVO
+country: Kosovo
 ---
 
 The landlocked country of Kosovo—smaller than the U.S. state of Connecticut—runs on an annual budget of only €1.7 billion. Its cities are also small and depend largely on block grants from the national coffers to fund their municipal budgets. The country’s Law on Local Self-Government requires these cities to provide for drinking water, sewage and waste management, public transport, schools, and other necessary services. Unfortunately, corruption and a lack of municipal fiscal systems and diligence have for years bled away precious resources to the detriment of public services and the citizens they serve.
