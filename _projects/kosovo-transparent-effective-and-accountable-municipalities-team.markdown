@@ -20,6 +20,7 @@ TEAM is going to assist partner cities in Kosovo to institute systems and traini
 
 **Component One—**Develop, Refine and Roll Out Models for Transparent and Accountable Municipalities.
 **Component Two—**Engage the Central Level in Addressing Municipal Effectiveness and Transparency Within the Procurement Process.
+
 **Component Three—**Improve Civil Society Monitoring and Oversight.
 
 ### Sample Activities
