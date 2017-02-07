@@ -22,6 +22,8 @@ TEAM is going to assist partner cities in Kosovo to institute systems and traini
 **Component Two—**Engage the Central Level in Addressing Municipal Effectiveness and Transparency Within the Procurement Process.
 **Component Three—**Improve Civil Society Monitoring and Oversight.
 
+![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg)
+
 ### Sample Activities
 
 * Select five partner municipalities that show promise for fiscal reform.
