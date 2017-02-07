@@ -1,11 +1,12 @@
 ---
 title: Job Opportunities
 layout: node
-promos:
+promos: 
 redirect_from:
 - "/jobs"
-amp: |
-  <link rel="amphtml" href="https://mercury.postlight.com/amp?url=https://www.dai.com/working-dai/job-opportunities">
+amp: '<link rel="amphtml" href="https://mercury.postlight.com/amp?url=https://www.dai.com/working-dai/job-opportunities">
+
+'
 ---
 
 DAI offers rewarding career opportunities in International Development for talented technical, managerial, and support professionals. By providing challenging assignments, a commitment to professional development, managerial systems based on teamwork, and an ownership stake in the company, we attract and retain high-caliber staff. Our workforce reflects a cultural diversity that gives us a broad spectrum of backgrounds and perspectives. 
