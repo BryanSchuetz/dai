@@ -2,8 +2,9 @@
 title: Matthew Roberts
 date: 2016-01-21 22:18:00 Z
 lastname: Roberts
-summary: Matthew Roberts is a Principal Project Manager in DAI Europe's Project Management
-  Unit, and is based full-time in Addis Ababa as General Manager.
+summary: Matthew Roberts is Monitoring and Evaluation Manager on DAI’s Land Investment
+  for Transformation programme (LIFT), a six-year project to improve the incomes of
+  the rural poor in Ethiopia.
 job-title: Monitoring and Evaluation Manager, LIFT Programme, Ethiopia
 image: "/assets/images/experts/Matt%20Roberts%20INNER.jpg"
 solutions:
