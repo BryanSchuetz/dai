@@ -8,12 +8,16 @@ job-title: Senior Development Specialist
 image: "/assets/images/experts/Baca_Inner.jpg"
 solutions:
 - Environment and Energy
+- Water and Sanitation Services and Management
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean
 - Middle East and North Africa
-- Sub-Saharan Africa
+- 
 layout: expert
 ---
 
-Miguel Baca is a sustainable tourism development expert with extensive experience in the Middle East, Latin America, and the Asia Pacific region. Over the past 13 years, he has assisted international organizations in designing and implementing tourism development programs, tourism marketing and market research plans, ecotourism and nature-based tourism, certification systems, and small and medium-sized enterprise and community-based business development programs for the tourism industry. He has served as a project manager on tourism assignments in Rwanda, Belize, Dominica, Egypt, El Salvador, Guatemala, Honduras, Jamaica, Jordan, Mexico, Peru, and Uruguay, working with clients such as the U.S. Agency for International Development, World Bank, Inter-American Development Bank, European Union, and the Millennium Challenge Corporation.
+Miguel Baca is responsible for overseeing a portfolio of water, sanitation, natural resources management, and climate change projects implemented by DAI in Latin America, Eastern Europe, and the United States. Prior to this role, he focused on strategic and operational tourism planning, tourism marketing and research, and community-based tourism development. He mined DAI’s existing technical expertise to create a suite of sustainable tourism services that were successfully introduced to clients. Prior to DAI, Miguel worked for PA Consulting Group, where he developed and led the implementation of the tourism unit’s strategic and management plan for expansion into new markets. While in his native Peru, he worked for the Peruvian Tourism and Investment Promotion Agency, PromPerú, facilitating access to markets and funding for small rural tourism businesses. Between 2006 and 2009, he was a regular speaker on *CNN en Español,* providing advice on issues of environmental standards and certification systems in the tourism industry.
+
+* Master of Arts, International Relations, Syracuse University
+* Bachelor of Arts, History, Pontificia Universidad Católica del Perú
