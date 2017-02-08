@@ -8,7 +8,6 @@ summary: John Maris, DAI’s Director of Project Management in Europe, has been 
 John Maris, DAI’s Director of Project Management in Europe, has been elected Chair of [British Expertise International’s](http://www.britishexpertise.org/bx/pages/bx.php) (BEI) Development Aid Working Group. BEI is a U.K. business organization comprised of more than 200 companies that offer consulting and professional services internationally.
 
 ![John_Maris_1.jpeg](/uploads/John_Maris_1.jpeg)
-{:.float-left}
 
 Its Development Aid Working Group hosts information-sharing sessions, discussions on industry trends, and workshops on best practices in international development. He will be Chair for a one-year term.
 
