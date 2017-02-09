@@ -29,11 +29,13 @@ Following the 9/11 attacks of 2001 and the subsequent U.S. military actions, DAI
 
 The middle years of the decade also saw the company innovating in the health arena. As avian influenza assumed the dimensions of an emerging threat, we launched an AI practice at the intersection of our existing work in sanitary and phytosanitary standards (essentially animal and plant health), agricultural economics, community engagement, HIV/AIDS, and crisis response. The firm won USAID’s flagship AI control program, STOP AI, and subsequently a broader program called RESPOND, which builds the capacity of institutions in developing nations to respond to emerging infectious diseases and pandemic threats.
 
-## A Global Development company
+## A Global Development Company
 
-[![DAI Project Map](/assets/images/who-we-are/map.jpg "DAI Project Map")](http://dai.com/extras/maps/index.html)
+[![DAI Project Map](https://api.mapbox.com/styles/v1/dai/cixhnt69a005c2qqor8eedw42/static/52.719866,12.000812,2.13,0.00,0.00/900x500?access_token=pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA&attribution=false "DAI Project Map")](http://dai.com/extras/maps/index.html)
 
-At the start of 2009, Jim Boomgard became DAI’s new CEO. The next year DAI celebrated its 40th birthday by publishing [The First 40: A History of DAI]( /uploads/history.pdf ).
+At the start of 2009, Jim Boomgard became DAI’s new CEO. The next year DAI celebrated its 40th birthday by publishing a 40 year retrospective.
+
+[The First 40: A History of DAI](/uploads/history.pdf){:.primary-block--button}
 
 “The next 10 years will determine whether we can make an American success story into a global success story,” wrote Boomgard in his foreword to the book. “Over the next 10 years, we’ll execute a new strategy designed to bring our strengths, our experience, and our commitment to a changing and in many ways expanding landscape of international development—a landscape that will see more development driven from the ground up, more decision making in countries that have traditionally been the recipients of donor assistance, and a more diverse and influential array of local actors in the development arena.”  
 
