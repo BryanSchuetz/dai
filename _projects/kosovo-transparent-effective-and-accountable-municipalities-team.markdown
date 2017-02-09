@@ -18,17 +18,24 @@ The landlocked country of Kosovo—smaller than the U.S. state of Connecticut—
 
 TEAM is going to assist partner cities in Kosovo to institute systems and training that will improve how cities account for public funds and expenditures. DAI is working with Kosovo-based partners CiviKos and KPMG Kosovo/Albania Branch, TEAM will work through three components:
 
-**Component One—**Develop, Refine and Roll Out Models for Transparent and Accountable Municipalities.
-**Component Two—**Engage the Central Level in Addressing Municipal Effectiveness and Transparency Within the Procurement Process.
-**Component Three—**Improve Civil Society Monitoring and Oversight.
+**Component One—** Develop, Refine and Roll Out Models for Transparent and Accountable Municipalities.
+
+**Component Two—** Engage the Central Level in Addressing Municipal Effectiveness and Transparency Within the Procurement Process.
+
+**Component Three—** Improve Civil Society Monitoring and Oversight.
 
 ![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg)
 
 ### Sample Activities
 
 * Select five partner municipalities that show promise for fiscal reform.
+
 * Sign Memoranda of Understanding with the municipalities and mobilize TEAM staff accordingly.
+
 * Conduct the Needs Gap Analysis using systems tools.
+
 * Create custom work plans for the five partner municipalities.
+
 * Establish the Support Fund to build capacity among local and national civil society organizations to enhance citizen oversight.
+
 * Initiate coordination and outreach with donors in Kosovo working in complement with TEAM.
