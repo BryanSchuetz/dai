@@ -36,4 +36,5 @@ Jim has worked at the highest levels of government with cabinet-level officials 
 * Fluent in Spanish and basic knowledge of Arabic, Thai, and Vietnamese
 
 * Board of Directors, [Corporate Council on Africa](http://www.africacncl.org/)
+
 * Author, "[Opinion: Why we should stick to the trade route out of poverty](https://www.devex.com/news/opinion-why-we-should-stick-to-the-trade-route-out-of-poverty-89361)," Devex
