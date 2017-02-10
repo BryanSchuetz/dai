@@ -52,6 +52,28 @@
 .flickity-prev-next-button{
   top: 60%;
 }
+.vid{
+  video{
+  /*filter: blur(2px);*/
+    position: absolute;
+    overflow: hidden;
+    height: 300px;
+    @include responsive(small-screens){
+      height: 400px;
+    }
+    @include responsive(medium-screens){
+      height: 500px;
+    }
+    @include responsive(wide-screens){
+      height: 610px;
+    }
+    @include responsive(ultra-wide-screens){
+      height: auto;
+      top: -5%;
+      width: 100%;
+    }
+  }
+}
 // 🎌 GLOBAL 🎌
 .wrapper{
   @include clearfix;
