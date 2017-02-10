@@ -14,6 +14,9 @@ regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Middle East and North Africa
+articles:
+- '"Opinion: Why we should stick to the trade route out of poverty"': 
+  https://www.devex.com/news/opinion-why-we-should-stick-to-the-trade-route-out-of-poverty-89361: 
 layout: expert
 ---
 
