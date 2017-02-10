@@ -14,9 +14,9 @@ regions: Eastern Europe and Central Asia
 country: Kosovo
 ---
 
-The landlocked country of Kosovo—smaller than the U.S. state of Connecticut—runs on an annual budget of only €1.7 billion. Its cities are also small and depend largely on block grants from the national coffers to fund their municipal budgets. The country’s Law on Local Self-Government requires these cities to provide for drinking water, sewage and waste management, public transport, schools, and other necessary services. Unfortunately, corruption and a lack of municipal fiscal systems and diligence have for years bled away precious resources to the detriment of public services and the citizens they serve.
+The landlocked country of Kosovo—smaller than the U.S. state of Connecticut—runs on an annual budget of only €1.7 billion. Its cities are also small and depend largely on block grants from the national coffers to fund their municipal budgets. The country’s Law on Local Self-Government requires these cities to provide public services for its citizens. Unfortunately, misuse of funds and a lack of municipal fiscal systems and diligence have for years bled away precious resources to the detriment of public services and the citizens they serve.
 
-TEAM is going to assist partner cities in Kosovo to institute systems and training that will improve how cities account for public funds and expenditures. DAI is working with Kosovo-based partners CiviKos and KPMG Kosovo/Albania Branch, TEAM will work through three components:
+TEAM is going to assist focus municipalities in Kosovo to institute systems and training that will improve how cities account for public funds and expenditures. TEAM and Kosovo-based partners CiviKos and KPMG Kosovo/Albania Branch will implement its work through three components:
 
 **Component One—** Develop, Refine and Roll Out Models for Transparent and Accountable Municipalities.
 
@@ -28,7 +28,7 @@ TEAM is going to assist partner cities in Kosovo to institute systems and traini
 
 ### Sample Activities
 
-* Select five partner municipalities that show promise for fiscal reform.
+* Select five focus municipalities that show promise for fiscal reform.
 
 * Sign Memoranda of Understanding with the municipalities and mobilize TEAM staff accordingly.
 
