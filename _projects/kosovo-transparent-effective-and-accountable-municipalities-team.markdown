@@ -18,11 +18,11 @@ The landlocked country of Kosovo—smaller than the U.S. state of Connecticut—
 
 TEAM is going to assist focus municipalities in Kosovo to institute systems and training that will improve how cities account for public funds and expenditures. TEAM and Kosovo-based partners CiviKos and KPMG Kosovo/Albania Branch will implement its work through three components:
 
-**Component One—** Develop, Refine and Roll Out Models for Transparent and Accountable Municipalities.
+**Component One —** Develop, Refine and Roll Out Models for Transparent and Accountable Municipalities.
 
-**Component Two—** Engage the Central Level in Addressing Municipal Effectiveness and Transparency Within the Procurement Process.
+**Component Two —** Engage the Central Level in Addressing Municipal Effectiveness and Transparency Within the Procurement Process.
 
-**Component Three—** Improve Civil Society Monitoring and Oversight.
+**Component Three —** Improve Civil Society Monitoring and Oversight.
 
 ![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg "City of Ferizaj, Kosovo. Photo Credit: Pero Kvrzica")
 
