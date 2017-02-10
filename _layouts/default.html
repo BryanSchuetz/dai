@@ -23,8 +23,15 @@
         </div>
       </div>
     </a>
-    <a class="gallery-cell vid" style="background: url() no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really/"><video src="https://player.vimeo.com/external/203486411.sd.mp4?s=27b9167ca7fefb72c09aff118f1a2b8fa8297aca&profile_id=165" loop muted autoplay autoplay poster="/uploads/water.jpg">
-    </video>
+    <a class="gallery-cell vid" style="background: url() no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really/">
+      <video id="vid" controls autoplay loop preload="auto" muted poster="/uploads/water.jpg">
+        <source src="https://player.vimeo.com/external/203486411.sd.mp4?s=27b9167ca7fefb72c09aff118f1a2b8fa8297aca&profile_id=165" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'>
+      </video>
+      <script>
+      window.onload = function() {
+  document.querySelector('#vid').play()
+}
+</script>
       <div class="shader">
                 <div class="gallery-cell--text">
                   <h2>Clean Water for All by 2030</h2>
