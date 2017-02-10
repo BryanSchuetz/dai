@@ -6,7 +6,7 @@ summary: Richard Rapier for 15 years has worked in domestic and international pr
   addressing water, sanitation, and hygiene (WASH), water and waste resource management,
   and environmental and social impact assessment and management in infrastructure.
 job-title: Chief of Party, USAID Water for Africa through Leadership and Institutional
-  Support program
+  Support
 image: "/uploads/rich-rapier-bio.jpg"
 solutions:
 - Water and Sanitation Services and Management
