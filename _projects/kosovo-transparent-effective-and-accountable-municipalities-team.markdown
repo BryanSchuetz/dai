@@ -24,7 +24,7 @@ TEAM is going to assist partner cities in Kosovo to institute systems and traini
 
 **Component Three—** Improve Civil Society Monitoring and Oversight.
 
-![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg)
+![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg "City of Ferizaj, Kosovo. Photo Credit: Pero Kvrzica")
 
 ### Sample Activities
 
