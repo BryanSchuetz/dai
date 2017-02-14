@@ -1,7 +1,9 @@
 ---
 title: DAI Invests in THINKMD’s Clinical Assessment Technology
 date: 2017-02-14 13:08:00 Z
-is_featured: true
+is_featured: false
+solutions:
+- Innovation and Entrepreneurship
 summary: DAI and THINKMD today announced a strategic partnership that will use DAI’s
   extensive international network to bring [THINKMD](http://www.thinkmd.org/)’s digital
   health products to new markets. As part of this partnership, DAI led THINKMD’s latest
