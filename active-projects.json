@@ -5,11 +5,11 @@ title: Active Projects JSON
 {% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}[
   [
     [
-      "Project length",
+      "Project Length",
       "length"
     ],
     {% for project in projects %}[
-      {{ project.title }},
+      "{{ project.title }}",
       {{ project.end | minus: project.start}}
     ]{% unless forloop.last %},{% endunless %}{% endfor %}
   ]
