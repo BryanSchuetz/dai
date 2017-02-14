@@ -1,0 +1,20 @@
+---
+title: Active Projects JSON
+---
+{% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}{
+    "type": "chart",
+    "chart_type": "table",
+    "data": {
+        "sheets": [
+            {
+                "header": [ "Start", "End", "Region", "Solution" ],
+                "rows": [
+                    {% for project in projects %}{
+                        "header": "{{ project.title }}",
+                        "data": [ "{{ project.start }}", "{{ project.end }}", "{{ project.solutions[0] }}", "{{ project.regions[0] }}" ]
+                    }{% unless forloop.last %},{% endunless %}{% endfor %}
+                ]
+            }
+        ]
+    }
+}
