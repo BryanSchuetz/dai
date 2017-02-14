@@ -1,0 +1,16 @@
+---
+title: Active Projects JSON
+---
+{% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}
+
+[
+{% for project in projects %}
+  {
+    "project": "{{ project.title }}",
+    "start": "{{ project.start }}",
+    "end": "{{ project.end }}",
+  {% for region in project.regions limit:1 %}   "region": "{{ region }}",{% endfor %}
+  {% for solution in project.solutions limit:1 %}   "solution": "{{ solution }}"{% endfor %}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
