@@ -1,6 +1,7 @@
 ---
 title: John Maris to Chair Working Group on International Development
 date: 2017-02-08 15:46:00 Z
+clients: U.K. Department for International Development
 summary: John Maris, DAI’s Director of Project Management in Europe, has been elected
   Chair of British Expertise International’s (BEI) Development Aid Working Group.
 ---
