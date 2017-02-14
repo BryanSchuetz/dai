@@ -1,7 +1,7 @@
 ---
 title: DAI Invests in THINKMD’s Clinical Assessment Technology
 date: 2017-02-14 13:08:00 Z
-is_featured: false
+is_featured: true
 solutions:
 - Innovation and Entrepreneurship
 summary: DAI and THINKMD today announced a strategic partnership that will use DAI’s
@@ -11,6 +11,8 @@ summary: DAI and THINKMD today announced a strategic partnership that will use D
 ---
 
 DAI and THINKMD today announced a strategic partnership that will use DAI’s extensive international network to bring [THINKMD](http://www.thinkmd.org/)’s digital health products to new markets. As part of this partnership, DAI led THINKMD’s latest financing round, joined by Fresh Tracks Capital and select private investors.
+
+<!--more-->
 
 DAI, a global development company, has an operational track record in more than 150 countries across multiple sectors and has established a leadership position in the international development space. The firm recently launched a business unit focused on global health and healthcare analytics. THINKMD is an early-stage global healthcare innovation company dedicated to expanding healthcare capacity and access to services worldwide. THINKMD’s first product, MEDSINC, is a mobile clinical assessment platform that enables anyone anywhere to assess the sickness of a child, and provide triage and treatment recommendations.
 
