@@ -1,6 +1,7 @@
 ---
 title: Active Projects JSON
 ---
+
 {% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}{
     "type": "chart",
     "chart_type": "table",
