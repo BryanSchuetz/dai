@@ -43,7 +43,7 @@ To build upon this momentum, the USAID-funded SPEED\+ program will work to furth
 
 * SPEED supported key reforms such as insolvency laws and streamlining of licensing and registration procedures to facilitate payment of taxes and registration of businesses, resulting in Mozambique rising 22 places in the World Bank’s Doing Business rankings from 2013-2015.
 
-* SPEED provided institutional support and capacity building to a wide range of public and private partners, including the Ministries of Industry & Trade, Agriculture, Tourism, Finance, and Justice, with capacity-building and outreach activities reaching 8,362 people, 1,750 of which were women.
+* SPEED provided institutional support and capacity building to a wide range of public and private partners, including the Ministries of Industry & Trade, Agriculture, Tourism, Finance, and Justice, with capacity-building and outreach activities reaching 8,362 people, 1,750 of whom were women.
 
 * SPEED partnered with Soico and the Confederation of Economic Associations on the Agro.Biz project to promote involvement in agribusiness, producing 32 short documentaries, more than 50 pages of print articles, and 11 televised debates discussing the importance of the agricultural sector to Mozambique’s economy.
 
