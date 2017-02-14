@@ -3,14 +3,17 @@ title: Mozambique—Support Program for Economic and Enterprise Development (SPE
   SPEED+)
 date: 2016-01-21 22:40:00 Z
 summary: Mozambique has been engaged in economic policy reform since its first democratic
-  elections in 1994. However, there is a pressing need to prioritize, deepen, and
-  accelerate key reforms; strengthen private sector participation in policy dialogue;
-  and create the capacity and systems to ensure that key reforms are implemented effectively.
-start: 2010
-end: 2016
+  elections in 1994. With a pressing need to reform the country’s business policies
+  and strengthen private sector participation, the U.S. Agency for International Development
+  (USAID) initiated the Support Program for Economic and Enterprise Development (SPEED),
+  a five-year, $19.4 million project implemented by DAI.
+start: 2016
+end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
+- Business Environment Reform
+- Institutional and Policy Reform
 regions:
 - Sub-Saharan Africa
 country:
@@ -18,25 +21,33 @@ country:
 layout: project
 ---
 
-Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. However, there is a pressing need to prioritize, deepen, and accelerate [key reforms][1]; strengthen private sector participation in policy dialogue; and create the capacity and systems to ensure that key reforms are implemented effectively. Some positive trends are visible. A strong constituency for reform exists within the business community, a public-private dialogue mechanism is in place, capacity is being built to advance economic policy reforms, and numerous analytical studies have recommended reform priorities. [SPEED][2] supports and expands ongoing reforms to catalyze economic development and speed the transformation of Mozambique's economic, legal, and governance systems into those of a modern, developed country. SPEED's goal is to have more companies doing more business, resulting in increased trade and investment and a [stronger competitive position][3] for Mozambican firms, thus creating local opportunities for job and income growth.
+Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. With a pressing need to reform the country’s business policies and strengthen private sector participation, the U.S. Agency for International Development (USAID) initiated the Support Program for Economic and Enterprise Development (SPEED), a five-year, $19.4 million project implemented by DAI. Over the course of the program, [SPEED successfully expanded policy reforms](http://dai-global-developments.com/articles/reforming-business-policy-mozambique/) which resulted in increased trade and investment, a stronger competitive position for Mozambican firms, and increased local job opportunities and incomes.
 
-![][4]
+To build upon this momentum, the USAID-funded SPEED\+ program will work to further develop a favorable business environment to attract investment, expand markets, and reduce costs, thus contributing to broad-based and inclusive economic growth and conservation of natural resources. Working with consortium partners that include Nathan Associates and Mozambican firms CIMPOGEST, IMPACTO, and Sal & Caldeira, DAI will help to advance reforms in key areas such as agriculture, trade and investment, power, water, and biodiversity conservation, while improving government transparency and fostering new public-private partnerships.
 
-###  Sample Activities
+![SPEED_photo.jpg](/uploads/SPEED_photo.jpg)
 
-* Deliver training and technical assistance that [builds the capacity of business][5] associations and corresponding government institutions and catalyzes trade and investment growth in tourism and agriculture.
-* Because Mozambican women are under-represented in the policy development process, yet critical to sustained economic growth, ensure stronger female participation in this area through targeted training and financial assistance to woman-run associations.
-* Utilize Mozambican expertise to achieve sustainable results, with a strong focus on choosing local partners and employing Mozambicans.
+### Sample Activities
 
-###  Select Results
+* Provide independent and high-quality analysis and policy options from experienced economic specialist, and work with a network of policy influencers to promote informed decisions.
 
-* Trained 290 customs officials, transit agency representatives, and business leaders (including 41 women), in new goods in transit legislation to facilitate trade across Mozambique's borders.
-* Developed a comprehensive guide to the implementation of Mozambique's land legislation and trained 63 Ministry of Agriculture staff in the use of the guide in order for them to pass the knowledge to their colleagues.
-* Supported reforms to the way construction permits are granted leading to an improvement of 46 positions of Mozambique's ranking in the World Bank's _Doing Business_ indicators.
-* Supported the design, development, and printing of 10,000 simplified business licensing forms used to roll out a pilot project to significantly simplify business licensing, and supported monitoring and evaluation of the pilot project.
+* Improve public-private dialogues through targeted conferences and meetings; engaging new voices, such as the Young Parliamentarians organization; and supporting local think tanks.
 
-[1]: http://dai-global-developments.com/articles/reforming-business-policy-mozambique.html
-[2]: http://www.speed-program.com/
-[3]: https://www.youtube.com/channel/UC1fZmNplnrzArM8eS1V2shA/videos
-[4]: /assets/images/projects/Soja-depositada-no-celeiro.jpg
-[5]: http://blog.usaid.gov/2014/02/doing-business-in-mozambique-just-got-easier/
+* Work with local partners to build awareness and public support for policy reforms using traditional and social media as well as awareness-raising events.
+
+* Build capacity to enforce conservation laws and support ecotourism activities that help to incentivize biodiversity conservation.
+
+* Develop scorecards to monitor reform, using the SPEED\+ website and an online application to survey experts and rate progress on policy recommendations.
+
+### Select Results
+
+* SPEED supported key reforms such as insolvency laws and streamlining of licensing and registration procedures to facilitate payment of taxes and registration of businesses, resulting in Mozambique rising 22 places in the World Bank’s Doing Business rankings from 2013-2015.
+
+* SPEED provided institutional support and capacity building to a wide range of public and private partners, including the Ministries of Industry & Trade, Agriculture, Tourism, Finance, and Justice, with capacity-building and outreach activities reaching 8,362 people, 1,750 of which were women.
+
+* SPEED partnered with Soico and the Confederation of Economic Associations on the Agro.Biz project to promote involvement in agribusiness, producing 32 short documentaries, more than 50 pages of print articles, and 11 televised debates discussing the importance of the agricultural sector to Mozambique’s economy.
+
+* SPEED made significant progress on 96 reform policies, regulations, or
+  administrative procedures, ranging from macroeconomic and trade policy to sectoral competitiveness in agriculture and tourism.
+
+* Developed a comprehensive guide to the implementation of Mozambique’s land legislation and trained Ministry of Agriculture staff in the use of the guide how to train colleagues on its content.
