@@ -1,20 +1,21 @@
 ---
-title: Mozambique—Support Program for Economic and Enterprise Development (SPEED)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2010
-end: 2016
-regions:
-- Sub-Saharan Africa
-country:
-- Mozambique
-solutions:
-- Economic Growth
-layout: project
+title: Mozambique—Support Program for Economic and Enterprise Development (SPEED,
+  SPEED+)
+date: 2016-01-21 22:40:00 Z
 summary: Mozambique has been engaged in economic policy reform since its first democratic
   elections in 1994. However, there is a pressing need to prioritize, deepen, and
   accelerate key reforms; strengthen private sector participation in policy dialogue;
   and create the capacity and systems to ensure that key reforms are implemented effectively.
+start: 2010
+end: 2016
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+regions:
+- Sub-Saharan Africa
+country:
+- Mozambique
+layout: project
 ---
 
 Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. However, there is a pressing need to prioritize, deepen, and accelerate [key reforms][1]; strengthen private sector participation in policy dialogue; and create the capacity and systems to ensure that key reforms are implemented effectively. Some positive trends are visible. A strong constituency for reform exists within the business community, a public-private dialogue mechanism is in place, capacity is being built to advance economic policy reforms, and numerous analytical studies have recommended reform priorities. [SPEED][2] supports and expands ongoing reforms to catalyze economic development and speed the transformation of Mozambique's economic, legal, and governance systems into those of a modern, developed country. SPEED's goal is to have more companies doing more business, resulting in increased trade and investment and a [stronger competitive position][3] for Mozambican firms, thus creating local opportunities for job and income growth.
