@@ -1,24 +1,21 @@
 ---
 title: Rich Magnani
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Magnani
+summary: 'Rich Magnani has worked in agriculture and agribusiness for more than 30
+  years—first in commercial consulting and the past 25 years at DAI with a continuing
+  focus on agriculture development by leveraging public private partnerships.
+
+'
+job-title: Chief of Party, Afghanistan Regional Agricultural Development Program
+image: "/assets/images/experts/richinner.jpg"
+solutions:
+- Health
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Middle East and North Africa
-solutions:
-- Health
 layout: expert
-image: "/assets/images/experts/richinner.jpg"
-summary: Following his graduate program at the University of Minnesota, Rich Magnani
-  joined Experience, an agribusiness consultancy. He focused on new venture analyses,
-  export market development, and policy analysis for grain and oilseed processors,
-  dairy and livestock processors, trade associations, and state government development
-  agencies.
-job-title: Chief of Party, Afghanistan Regional Agricultural Development Program
-articles:
-- name: 
-  article_file: 
 ---
 
 Following his graduate program at the University of Minnesota, Rich Magnani joined Experience, an agribusiness consultancy. He focused on new venture analyses, export market development, and policy analysis for grain and oilseed processors, dairy and livestock processors, trade associations, and state government development agencies.
