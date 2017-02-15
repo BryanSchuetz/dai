@@ -1,7 +1,6 @@
 ---
 title: Lara Goldmark
 date: 2017-02-15 13:58:00 Z
-published: false
 lastname: Goldmark
 summary: Lara Goldmark leads DAI’s Economic Growth portfolio, the largest in the company
   and the heartland of our work.
