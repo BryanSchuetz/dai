@@ -35,7 +35,7 @@ JCP helps to ensure that job creation is based on real growth drivers responding
 * Position Jordanian clusters within global value chains.
 * Create jobs for young people and women, in and outside of Amman.
 
-<aside>DAI established and is leading the Project Management Unit of the Jordan Compact, which aims to create jobs for Jordanians and Syrians by developing products for export to the European Union. The Jordan Compact between countries is supporting Jordan to mitigate the impact of hosting more than 600,000 registered Syrian refugees. The Compact aims to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector and industries such garment manufacture, plastics, and agriculture.</aside>
+<aside>DAI is leading the Project Management Unit of the Jordan Compact, which aims to create jobs for Jordanians and Syrians by developing products for export to the European Union. The  Compact between countries is supporting Jordan to mitigate the impact of hosting more than 600,000 registered Syrian refugees. The Compact aims to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector and industries such garment manufacture, plastics, and agriculture.</aside>
 
 ###  Select Results
 
