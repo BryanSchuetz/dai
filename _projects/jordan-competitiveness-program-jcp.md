@@ -1,18 +1,6 @@
 ---
 title: Jordan Competitiveness Program (JCP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2013
-end: 2018
-regions:
-- Middle East and North Africa
-country:
-- Jordan
-solutions:
-- Business Environment Reform
-- Economic Growth
-- Innovation and Entrepreneurship
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'Jordan faces an immediate challenge: to create high-quality jobs through
   increased private sector competitiveness. To do this, the country must look outward
   for opportunity—through exports and foreign direct investment—while meeting diverse
@@ -20,6 +8,18 @@ summary: 'Jordan faces an immediate challenge: to create high-quality jobs throu
   among youth and women.
 
 '
+start: 2013
+end: 2018
+client: U.S. Agency for International Development
+solutions:
+- Business Environment Reform
+- Economic Growth
+- Innovation and Entrepreneurship
+regions:
+- Middle East and North Africa
+country:
+- Jordan
+layout: project
 ---
 
 Jordan faces an immediate challenge: to create high-quality jobs through increased private sector competitiveness. To do this, the country must look outward for opportunity—through exports and foreign direct investment—while meeting diverse internal needs related to resource scarcity, geographic inequality, and high unemployment among youth and women.
@@ -34,6 +34,8 @@ JCP helps to ensure that job creation is based on real growth drivers responding
 
 * Position Jordanian clusters within global value chains.
 * Create jobs for young people and women, in and outside of Amman.
+
+<aside>DAI established and is leading the Project Management Unit of the Jordan Compact, which aims to create jobs for Jordanians and Syrians by developing products for export to the European Union. The Jordan Compact between countries is supporting Jordan to mitigate the impact of hosting more than 600,000 registered Syrian refugees. The Compact aims to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector and industries such garment manufacture, plastics, and agriculture.</aside>
 
 ###  Select Results
 
