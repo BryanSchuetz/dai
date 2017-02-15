@@ -30,12 +30,13 @@ Jordan faces an immediate challenge: to create high-quality jobs through increas
 
 JCP helps to ensure that job creation is based on real growth drivers responding to market demand and capitalizing on existing factors. These drivers include industry specialization in information and communications technology, ramping up capacity in renewable energy, and improving standards for low-cost, high-quality medical services.
 
+In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact, which aims to help create jobs for Jordanians and Syrians by developing exports to the European Union. This Compact between countries is supporting Jordan to mitigate the impact of hosting more than 600,000 registered Syrian refugees. The Compact aims to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
+
 ###  Sample Activities
 
 * Position Jordanian clusters within global value chains.
 * Create jobs for young people and women, in and outside of Amman.
-
-<aside>DAI is leading the Project Management Unit of the Jordan Compact, which aims to help create jobs for Jordanians and Syrians by developing exports to the European Union. This Compact between countries is supporting Jordan to mitigate the impact of hosting more than 600,000 registered Syrian refugees. The Compact aims to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.</aside>
+* Lead the Project Management Unit of the Jordan Compact (see above).
 
 ###  Select Results
 
