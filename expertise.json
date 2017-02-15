@@ -1,0 +1,39 @@
+---
+title: Expertise Graph
+---
+
+{% assign eg_experts = site.projects | where_exp: "expert", 'expert.solutions contains "Economic Growth"' %}{% assign eg_count = '' %}{% assign di_experts = site.projects | where_exp: "expert", 'expert.solutions contains "Digital"' %}{% assign di_count = '' %}{% assign ee_experts = site.projects | where_exp: "expert", 'expert.solutions contains "Environment and Energy"' %}{% assign ee_count = '' %}{% assign cs_experts = site.projects | where_exp: "expert", 'expert.solutions contains "Corporate Services"' %}{% assign cs_count = '' %}{% assign go_experts = site.projects | where_exp: "expert", 'expert.solutions contains "Governance"' %}{% assign go_count = '' %}{% assign he_experts = site.projects | where_exp: "expert", 'expert.solutions contains "Health"' %}{% assign he_count = '' %}{% assign st_experts = site.projects | where_exp: "expert", 'expert.solutions contains "Stability"' %}{% assign st_count = '' %}[
+  [
+    [
+      "Expertise Distribution",
+      "Economic Growth",
+      "Digital",
+      "Environment and Energy",
+      "Corporate Services",
+      "Governance",
+      "Health",
+      "Stability"
+    ],
+    {% for expert in eg_experts %}{% assign eg_count = eg_count | append: 'x' %}{% endfor %}[
+      {{ eg_count.size }}
+    ],
+    {% for expert in di_experts %}{% assign di_count = di_count | append: 'x' %}{% endfor %}[
+      {{ di_count.size }}
+    ],
+    {% for expert in ee_experts %}{% assign ee_count = ee_count | append: 'x' %}{% endfor %}[
+      {{ ee_count.size }}
+    ],
+    {% for expert in cs_experts %}{% assign cs_count = cs_count | append: 'x' %}{% endfor %}[
+      {{ cs_count.size }}
+    ],
+    {% for expert in go_experts %}{% assign go_count = go_count | append: 'x' %}{% endfor %}[
+      {{ go_count.size }}
+    ],
+    {% for expert in he_experts %}{% assign he_count = he_count | append: 'x' %}{% endfor %}[
+      {{ he_count.size }}
+    ],
+    {% for expert in st_experts %}{% assign st_count = st_count | append: 'x' %}{% endfor %}[
+      {{ st_count.size }}
+    ]
+  ]
+]
