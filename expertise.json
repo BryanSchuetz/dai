@@ -15,7 +15,7 @@ title: Expertise Graph
       "Stability"
     ],
     [
-      "Expertise",
+      "Expert Focus",
       {% for expert in eg_experts %}{% assign eg_count = eg_count | append: 'x' %}{% endfor %}{{ eg_count.size }},
       {% for expert in di_experts %}{% assign di_count = di_count | append: 'x' %}{% endfor %}{{ di_count.size }},
       {% for expert in ee_experts %}{% assign ee_count = ee_count | append: 'x' %}{% endfor %}{{ ee_count.size }},
