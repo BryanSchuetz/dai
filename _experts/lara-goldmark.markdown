@@ -9,7 +9,9 @@ image: "/uploads/Lara%20Goldmark%20portal.jpg"
 solutions:
 - Economic Growth
 - 
-regions: Middle East and North Africa
+regions:
+- Middle East and North Africa
+- Latin America and the Caribbean
 ---
 
 Growing up, Lara Goldmark was asked so often whether she wanted to be a doctor or a lawyer that she chose neither. Instilled with a global outlook by her French mother, Lara knew from an early age that she wanted to pursue an international career. After earning a degree in political science, her fluency in English, French, Spanish, and Portuguese helped her get a job organizing an HIV/AIDS conference in Latin America for the Pan American Health Organization. Lara’s first field experience was in Limón, Costa Rica, working in a shelter for street kids. When she first flew back to the United States, she still remembers seeing the world through the kids’ eyes, how colorful the Miami airport looked and how many rich gringos there were.
