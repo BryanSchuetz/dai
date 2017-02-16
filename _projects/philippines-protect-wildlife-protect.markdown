@@ -10,13 +10,8 @@ Recognizing that the solutions to combatting wildlife trafficking and biodiversi
 ![Philippines_Protect_Wildlife.jpg](/uploads/Philippines_Protect_Wildlife.jpg)
 
 **Sample Activities**
-
-· Broker partnerships that provide financial support to local conservation efforts through direct investment in ecologically sound commercial ventures.
-
-· Support targeted behavior change campaigns to improve attitudes toward biodiversity and increase participation in conservation.
-
-· Coordinate with local and national partners to design and deliver training in community-based natural resource management and deputize a cadre of local wildlife protection officers.
-
-· Help leading Philippine universities establish centers of excellence in conservation to produce research, support evidence-based policy making, and train next generation of conservation scientists.
-
-· Develop and disseminate mobile application that enables community members to upload GPS-registered photos and anonymously report illegal activity.
+* Broker partnerships that provide financial support to local conservation efforts through direct investment in ecologically sound commercial ventures.
+* Support targeted behavior change campaigns to improve attitudes toward biodiversity and increase participation in conservation.
+* Coordinate with local and national partners to design and deliver training in community-based natural resource management and deputize a cadre of local wildlife protection officers.
+* Help leading Philippine universities establish centers of excellence in conservation to produce research, support evidence-based policy making, and train next generation of conservation scientists.
+* Develop and disseminate mobile application that enables community members to upload GPS-registered photos and anonymously report illegal activity.
