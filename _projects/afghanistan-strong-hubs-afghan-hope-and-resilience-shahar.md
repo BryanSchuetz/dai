@@ -6,7 +6,7 @@ summary: Afghanistan's municipal governments are not performing at the level the
   the past decade and their performance in public service delivery is better, more
   so in some municipalities than others.
 start: 2014
-end: 2018
+end: 2017
 client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management
