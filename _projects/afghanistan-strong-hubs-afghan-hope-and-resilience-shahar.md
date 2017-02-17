@@ -28,4 +28,13 @@ Afghanistan's municipal governments are not performing at the level they must to
 * Provide technical assistance to each municipality to develop a public-private partnership unit to fill public resource gaps.
 * Prepare and implement capacity building plans for municipal officials.
 
+### Select Results
+
+* Twenty SHAHAR-assisted communities increased revenues by 38 percent over the most recent fiscal year, including by 26 percent in the fixed revenues that are key to budget stability.
+* Partner municipalities improved their governance scores by an average of 239 percent between July 2015 (baseline) and August 2016 (midline); areas included revenue and finances, planning, service delivery, administrative reform, and community outreach.
+* Municipalities successfully bid out and completed 14 projects worth $1.25 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
+* Operationalized Citizen Service Centers in 10 municipalities, which provide one-stop service for paying taxes and fees, registering properties and businesses, and asking questions.
+* Instituted Integrated Financial Management Systems in 13 municipalities.
+* Established Municipal Advisory Boards of citizens in 19 of 20 partner municipalities.         
+
 [1]: /assets/images/projects/SHAHAR.jpg
