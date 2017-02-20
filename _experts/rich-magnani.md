@@ -18,15 +18,14 @@ regions:
 layout: expert
 ---
 
-Following his graduate program at the University of Minnesota, Rich Magnani joined Experience, an agribusiness consultancy. He focused on new venture analyses, export market development, and policy analysis for grain and oilseed processors, dairy and livestock processors, trade associations, and state government development agencies.
+Early in his career Rich Magnani joined Experience Inc., an agribusiness consultancy focusing on new venture analyses, export market development, and policy analysis. Initially, Rich was barely involved in the firm’s donor-based business, but that changed dramatically on a four-month assignment in Indonesia for an Asian Development Bank-funded palm oil development project. Helping palm plantation smallholders resulted in a significant change for Rich and he became invested in applying his experience to international development. The transition continued when DAI acquired Experience, Inc. in 1992.
 
-> "I saw that my commercial consulting background that emphasized financial results was of great value in designing activities that could make development projects sustainable." – Rich Magnani after his first international development assignment for Experience, Inc. — Rich Magnani
+> "I saw that my commercial consulting background that emphasized financial results was of great value in designing activities that could make development projects sustainable." – Rich Magnani after his first international development assignment — Rich Magnani
 
-During his early years at Experience Inc., Rich was barely involved in the firm's donor-based business, but that changed dramatically when he was given a four-month assignment in Indonesia for an Asian Development Bank-funded project to encourage development of the palm oil subsector. Helping palm plantation smallholders offered a far different challenge than analyzing the feasibility of a new oilseed processing plant in the Midwest. The world of consulting had changed for Rich, who grew more interested in applying his commercial consulting background to a diverse mix of donor-funded agriculture projects. The transition continued when DAI acquired Experience, Inc. in 1992.
+Since then, Rich has served as resident adviser on four U.S. Agency for International Development-funded projects for DAI, agribusiness development in Indonesia, policy reform in Egypt, agriculture rehabilitation in Iraq, and now leads a agriculture value chain project in Afghanistan.
 
 <iframe allowfullscreen="" frameborder="0" height="392" mozallowfullscreen="" src="https://player.vimeo.com/video/35278992?portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
-Since then, Rich has served as resident adviser on three U.S. Agency for International Development-funded projects for DAI, including the Agriculture Reconstruction and Development project in Iraq, the Agricultural Policy Reform Program in Egypt, and the Agribusiness Development Program in Indonesia. Rich has since worked in DAI's agribusiness practice, followed by two years as Senior Technical Adviser for DAI's Stamping Out Pandemic and Avian Influenza (STOP AI) Project, and now as leader of a project in Afghanistan.
-
 * M.S., agriculture economics, University of Minnesota
+
 * B.S., economics, University of Iowa
