@@ -1,0 +1,27 @@
+---
+title: Project Totals
+---
+
+{% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}[
+  [
+    [
+      "Project Totals",
+      "Color",
+      "Icon",
+      "Figure",
+      "Fact"
+    ],
+    [
+      "#48005F",
+      "briefcase",
+      {{ projects.size }},
+      "The total number of currently active projects."
+    ],
+    [
+      "#149A88",
+      "map",
+      93,
+      "The total number of countries with atleast one active project."
+    ]
+  ]
+]
