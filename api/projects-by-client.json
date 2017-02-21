@@ -1,6 +1,7 @@
 ---
 title: Projects by Client
 ---
+
 {% assign current_projects = site.projects | where_exp:"project", "project.end > 2016" %}
 {% assign current_usaid = current_projects | where_exp: "project", "project.client contains 'U.S. Agency for International Development'" %}{% assign current_dfid = current_projects | where_exp: "project", "project.client contains 'U.K. Department for International Development'" %}{% assign current_ec = current_projects | where_exp: "project", "project.client contains 'European Commission'" %}{% assign current_ebrd = current_projects | where_exp: "project", "project.client contains 'European Bank for Reconstruction and Development'" %}{% assign usaid_projects = site.projects | where_exp: "project", "project.client contains 'U.S. Agency for International Development'" %}{% assign dfid_projects = site.projects | where_exp: "project", "project.client contains 'U.K. Department for International Development'" %}{% assign ec_projects = site.projects | where_exp: "project", "project.client contains 'European Commission'" %}{% assign ebrd_projects = site.projects | where_exp: "project", "project.client contains 'European Bank for Reconstruction and Development'" %}[
   [
