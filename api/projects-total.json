@@ -6,7 +6,7 @@ title: Project Totals
   [
     [
       {{ projects.size }},
-      "The total number of currently active projects."
+      "The total number of currently active DAI projects."
     ]
   ]
 ]
