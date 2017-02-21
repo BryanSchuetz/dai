@@ -1,0 +1,16 @@
+---
+title: Worldwide—Trade, Private Sector Development and Engagement, and Regional Integration
+  Facility
+date: 2017-02-21 01:44:00 Z
+---
+
+Trade, regional economic integration, and private sector development are widely recognized as key drivers for poverty reduction through spurring growth and investment, creating jobs, and generating tax revenues to fund public services. However, experience has shown that improved market access alone is not always sufficient for sustained economic expansion in developing countries, and often needs to be complemented by specific policy measures that support lasting and equitable prosperity.
+
+In order to maximize the development impact of its trading partnerships, the European Commission established the Trade, Private Sector Development and Engagement, and Regional Integration (TSPD) Facility. In managing the TPSD Facility, DAI will provide policy advising, knowledge management, and communications expertise to the European Commission's Development Aid Directorate in charge of trade and private sector development, known as DEVCO C4. 
+
+**Sample Activities**
+
+* Provide analysis to the DEVCO C4 Unit on the revision of key TPSD policies, such as the EU Aid for Trade strategy document.
+* Design and implement a knowledge management work-plan and new guidance materials for the DEVCO C4 Unit, including toolkits, lessons learned, case studies, and how-to documents.
+* Organise, conduct, and publicise training seminars and field visits to TPSD sites for regional EU delegations.
+* Write articles and blog posts; manage TPSD-related online content; and produce and disseminate multi-media products as part of communications strategy to share TPSD’s mission and showcase best practices.
