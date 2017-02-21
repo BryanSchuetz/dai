@@ -2,7 +2,7 @@
 title: Project Totals
 ---
 
-{% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}[
+{% assign projects = site.projects | where_exp: "project", "project.end > 2016" %}[
   [
     [
       "Project Totals",
