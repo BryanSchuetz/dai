@@ -2,12 +2,10 @@
 title: Worldwide—Trade, Private Sector Development and Engagement, and Regional Integration
   Facility
 date: 2017-02-21 01:44:00 Z
-summary: Trade, regional economic integration, and private sector development are
-  widely recognized as key drivers for poverty reduction through their capability
-  to spur growth and investment, create jobs, and generate tax revenues to fund public
-  services. However, experience has shown that improved market access alone is not
-  always sufficient for sustained economic developing, and often needs to be complemented
-  by specific policy measures that support lasting and equitable prosperity.
+summary: To maximize the development impact of its trading partnerships, the European
+  Commission established the Trade, Private Sector Development and Engagement, and
+  Regional Integration (TPSD) Facility to help shape and implement new policies related
+  to Aid for Trade and regional integration programmes.
 start: 2017
 end: 2020
 client: European Commission
@@ -20,9 +18,9 @@ country: Worldwide
 Key: 
 ---
 
-Trade, regional economic integration, and private sector development are widely recognized as key drivers for poverty reduction through their capability to spur growth and investment, create jobs, and generate tax revenues to fund public services. However, experience has shown that improved market access alone is not always sufficient for sustained economic development, and often needs to be complemented by specific policy measures that support lasting and equitable prosperity.
+Trade, regional economic integration, and private sector development are widely recognized as key drivers for poverty reduction through their capability to spur growth and investment, create jobs, and generate tax revenues to fund public services. However, experience has shown that improved market access alone is not always sufficient for sustained economic development. Access often needs to be complemented by specific policy measures that support lasting and equitable prosperity.
 
-In order to maximize the development impact of its trading partnerships, the European Commission established the Trade, Private Sector Development and Engagement, and Regional Integration (TSPD) Facility to help shape and implement new policies related to initiatives such as Aid for Trade and regional integration programmes. In supporting the TPSD Facility, DAI will provide policy advising, knowledge management, and communications expertise to the European Commission's Development Aid Directorate in charge of trade and private sector development, known as DEVCO C4. 
+To maximize the development impact of its trading partnerships, the European Commission established the Trade, Private Sector Development and Engagement, and Regional Integration (TPSD) Facility to help shape and implement new policies related to Aid for Trade and regional integration programmes. In supporting the TPSD Facility, DAI will provide policy advising, knowledge management, and communications expertise to the European Commission's Development Aid Directorate in charge of trade and private sector development, known as DEVCO C4. 
 
 **Sample Activities**
 
