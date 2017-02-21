@@ -5,10 +5,7 @@ title: Project Totals
 {% assign projects = site.projects | where_exp: "project", "project.end > 2016" %}[
   [
     [
-      {{ projects.size }},
-      "The total number of currently active projects."
-    ],
-    [
+      "",
       93,
       "The total number of countries with at least one active project."
     ]
