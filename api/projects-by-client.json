@@ -1,0 +1,28 @@
+---
+title: Projects by Client
+---
+
+{% assign usaid_projects = site.projects | where_exp: "project", "project.client contains 'U.S. Agency for International Development'" %}{% assign dfid_projects = site.projects | where_exp: "project", "project.client contains 'U.K. Department for International Development'" %}{% assign ec_projects = site.projects | where_exp: "project", "project.client contains 'European Commission'" %}{% assign ebrd_projects = site.projects | where_exp: "project", "project.client contains 'European Bank for Reconstruction and Development'" %}[
+  [
+    [
+      "Clients",
+      "Projects"
+    ],
+    [
+      "USAID",
+      {{ usaid_projects.size }}
+    ],
+    [
+      "DFID",
+      {{ dfid_projects.size }}
+    ],
+    [
+      "EC",
+      {{ ec_projects.size }}
+    ],
+    [
+      "EBRD",
+      {{ ebrd_projects }}
+    ]
+  ]
+]
