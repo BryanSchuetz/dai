@@ -1,0 +1,12 @@
+---
+title: Project Totals
+---
+
+{% assign m_experts = site.experts | where_exp:"expert","expert.content contains 'M.'" %}{% assign phd_experts = site.experts | where_exp:"expert","expert.content contains 'Ph.D.'" %}[
+  [
+    [
+      {{ m_experts.size | plus: phd_experts.size}},
+      "The total number of graduate degrees held by DAI experts"
+    ]
+  ]
+]
