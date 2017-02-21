@@ -15,6 +15,8 @@ solutions:
 - Economic Growth
 - Business Environment Reform
 - Trade
+regions: Worldwide
+Key: 
 ---
 
 Trade, regional economic integration, and private sector development are widely recognized as key drivers for poverty reduction through their capability to spur growth and investment, create jobs, and generate tax revenues to fund public services. However, experience has shown that improved market access alone is not always sufficient for sustained economic developing, and often needs to be complemented by specific policy measures that support lasting and equitable prosperity.
