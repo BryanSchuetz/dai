@@ -6,7 +6,7 @@ title: Project Totals
   [
     [
       {{ m_experts.size | plus: phd_experts.size}},
-      "The total number of graduate degrees held by DAI experts"
+      "The total number of DAI experts holding graduate degrees."
     ]
   ]
 ]
