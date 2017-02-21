@@ -6,8 +6,8 @@ title: Project Totals
   [
     [
       "",
-      93,
-      "The total number of countries with at least one active project."
+      {{ projects.size }},
+      "The total number of currently active projects."
     ]
   ]
 ]
