@@ -22,7 +22,7 @@ title: Projects by Client
     ],
     [
       "EBRD",
-      {{ ebrd_projects }}
+      {{ ebrd_projects.size }}
     ]
   ]
 ]
