@@ -1,5 +1,5 @@
 ---
-title: Active Projects JSON
+title: Projects by Length
 ---
 
 {% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}[
