@@ -1,6 +1,23 @@
 ---
 title: DRC Integrated Governance Activity (PBG Follow-on)
 date: 2017-02-23 21:19:00 Z
+summary: While more than a decade has passed since the Democratic Republic of the
+  Congo (DRC) adopted a new constitution and held its first free election in 40 years,
+  the country has yet to achieve enduring stability and failed to provide the benefits
+  of peace dividends to its citizens. The democratic system remains fragile, with
+  highly limited or nonexistent basic public services in much of the country. Furthermore,
+  a lack of government accountability and transparency, along with widespread corruption,
+  has generated strong mistrust of politicians and government officials among the
+  general public.
+start: 2017
+end: 2022
+client: U.S. Agency for International Development
+solutions:
+- Governance
+- Decentralization and Local Government Management
+- Voice and Accountability
+regions: Sub-Saharan Africa
+country: Democratic Republic of the Congo
 ---
 
 While more than a decade has passed since the Democratic Republic of the Congo (DRC) adopted a new constitution and held its first free election in 40 years, the country has yet to achieve enduring stability and failed to provide the benefits of peace dividends to its citizens. The democratic system remains fragile, with highly limited or nonexistent basic public services in much of the country. Furthermore, a lack of government accountability and transparency, along with widespread corruption, has generated strong mistrust of politicians and government officials among the general public.
