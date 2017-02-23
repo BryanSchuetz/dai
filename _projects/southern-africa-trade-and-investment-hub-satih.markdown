@@ -15,6 +15,7 @@ solutions:
 - Business Environment Reform
 - Value Chain Development for Agribusiness and Other Sectors
 - Agriculture and Food Security
+- Economic Growth
 regions: Sub-Saharan Africa
 country: Regional
 promos:
