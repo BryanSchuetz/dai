@@ -26,6 +26,8 @@ However, a new generation of leaders is emerging in the DRC who are committed to
 
 DAI’s approach will focus on institutional interventions that can immediately enhance public services related to health, education, and economic development, while also remedying underlying governance issues that lead to corruption and mismanagement. By tying better government processes to improved outcomes for the general public, the work of IGA will help to restore and strengthen the important social contract between citizens and the State in the DRC.
 
+![DRC Good Governance teaching.JPG](/uploads/DRC%20Good%20Governance%20teaching.JPG)
+
 **Sample Activities**
 
 * Support the passage of key legislation regulating human resources management at the national and local levels.
