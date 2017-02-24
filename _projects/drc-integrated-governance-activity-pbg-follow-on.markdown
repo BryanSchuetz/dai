@@ -1,5 +1,5 @@
 ---
-title: DRC Integrated Governance Activity (PBG Follow-on)
+title: Democratic Republic of the Congo Integrated Governance Activity (PBG Follow-on)
 date: 2017-02-23 21:19:00 Z
 summary: While more than a decade has passed since the Democratic Republic of the
   Congo (DRC) adopted a new constitution and held its first free election in 40 years,
