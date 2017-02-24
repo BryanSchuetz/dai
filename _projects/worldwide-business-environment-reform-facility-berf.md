@@ -10,7 +10,6 @@ country:
 - Regional
 solutions:
 - Business Environment Reform
-- Corporate Services
 - Economic Growth
 layout: project
 summary: 'The U.K. Department for International Development (DFID) leads a growing
