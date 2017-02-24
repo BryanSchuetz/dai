@@ -1,19 +1,19 @@
 ---
 title: El Salvador—Fiscal Policy and Expenditure Management Program (FPEMP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: The FPEMP project is helping the Government of El Salvador (GOES) increase
+  tax revenue, without raising rates, and achieve greater transparency and accountability,
+  and more efficiently use public resources.
 start: 2011
 end: 2017
+client: U.S. Agency for International Development
+solutions:
+- Governance
 regions:
 - Latin America and the Caribbean
 country:
 - El Salvador
-solutions:
-- Governance
 layout: project
-summary: The FPEMP project is helping the Government of El Salvador (GOES) increase
-  tax revenue, without raising rates, and achieve greater transparency and accountability,
-  and more efficiently use public resources.
 ---
 
 The FPEMP project is helping the Government of El Salvador (GOES) increase tax revenue, without raising rates, and achieve [greater transparency][1] and accountability, and more efficiently [use public resources][2]. We are modernizing the General Directorate for Internal Revenue to improve taxpayer services, reduce tax fraud and tax evasion, and enhance legitimacy. The project builds on the [foundations][3] for reform laid by a preceding project called Tax Policy and Administration Reform that DAI led from 2005 to 2010.
@@ -23,7 +23,7 @@ The FPEMP project is helping the Government of El Salvador (GOES) increase tax r
 ###  Sample Activities
 
 * Help the government implement multiyear results-oriented budgeting and modernize its financial management information systems.
-* Help reform tax policies for more effective tax administration.
+* Help reform tax policies for [more effective tax administration](http://dai-global-developments.com/articles/mitigating-instability-in-central-america/).
 * Increase participation of the tax-paying private sector in the government's budget process.
 
 ###  Select Results
