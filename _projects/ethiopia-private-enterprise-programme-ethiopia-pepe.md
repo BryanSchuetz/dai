@@ -1,23 +1,23 @@
 ---
 title: Ethiopia—Private Enterprise Programme Ethiopia (PEPE)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+date: 2016-01-21 22:40:00 Z
+summary: 'This program is helping generate access to finance, good quality jobs, and
+  increased incomes for Ethiopia''s poor. To achieve its overall end, DAI and consortium
+  partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars: '
 start: 2013
 end: 2020
+client: U.K. Department for International Development
+solutions:
+- Economic Growth
+- Gender
 regions:
 - Sub-Saharan Africa
 country:
 - Ethiopia
-solutions:
-- Economic Growth
-- Gender
 layout: project
-summary: 'This program is helping generate access to finance, good quality jobs, and
-  increased incomes for Ethiopia''s poor. To achieve its overall end, DAI and consortium
-  partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars: '
 ---
 
-This program is helping generate access to finance, good quality jobs, and increased incomes for Ethiopia's poor. To achieve its overall end, DAI and consortium partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars:
+This program is helping generate access to finance, [good quality jobs](https://www.dai.com/news/development-secretary-priti-patel-stresses-economic-growth-in-visit-to-ethiopia-industrial-park), and increased incomes for Ethiopia's poor. To achieve its overall end, DAI and consortium partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars:
 
 * [Women's Entrepreneurship Development Program (WEDP)][1]—enhance the capacity of the Development Bank of Ethiopia to manage a fund of $42 million provided by the World Bank for on-lending through microfinance institutions (MFIs) to small and medium-sized women-owned enterprises in the urban centers of Adama, Bahir Dar, Hawassa, and Mekelle.
 * Access to Finance (A2F)—Using a Making Markets Work for the Poor (M4P) approach, work with financial institutions at all levels to ensure that poor Ethiopians can obtain finance to launch and grow sustainable businesses.
