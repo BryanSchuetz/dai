@@ -1,5 +1,6 @@
 ---
 title: Experts by Solution
+published: false
 ---
 
 {% assign eg_experts = site.experts | where_exp: "expert", 'expert.solutions contains "Economic Growth"' %}{% assign eg_count = '' %}{% assign di_experts = site.experts | where_exp: "expert", 'expert.solutions contains "Digital"' %}{% assign di_count = '' %}{% assign ee_experts = site.experts | where_exp: "expert", 'expert.solutions contains "Environment and Energy"' %}{% assign ee_count = '' %}{% assign cs_experts = site.experts | where_exp: "expert", 'expert.solutions contains "Corporate Services"' %}{% assign cs_count = '' %}{% assign go_experts = site.experts | where_exp: "expert", 'expert.solutions contains "Governance"' %}{% assign go_count = '' %}{% assign he_experts = site.experts | where_exp: "expert", 'expert.solutions contains "Health"' %}{% assign he_count = '' %}{% assign st_experts = site.experts | where_exp: "expert", 'expert.solutions contains "Stability"' %}{% assign st_count = '' %}[

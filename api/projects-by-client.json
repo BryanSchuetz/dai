@@ -1,5 +1,6 @@
 ---
 title: Projects by Client
+published: false 
 ---
 
 {% assign current_projects = site.projects | where_exp:"project", "project.end > 2016" %}

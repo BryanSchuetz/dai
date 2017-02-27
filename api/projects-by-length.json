@@ -1,5 +1,6 @@
 ---
 title: Projects by Length
+published: false 
 ---
 
 {% assign projects = site.projects | where_exp: "project", "project.end > 2017" %}[
