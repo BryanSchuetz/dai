@@ -1,23 +1,23 @@
 ---
 title: South Asia—EU Public Diplomacy and Outreach in India and the South Asian Association
   for Regional Cooperation (SAARC)
-date: 2016-01-21 22:40:52.765000000 Z
-client: European Commission
-start: 2013
-end: 2016
-regions:
-- Eastern Europe and Central Asia
-country:
-- Regional
-solutions:
-- Governance
-- Institutional and Policy Reform
-- Peace-building and State-building
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: There is a long history of engagement, and a great interest in taking forward
   cooperation, between the European Union and the South Asian Association for Regional
   Cooperation (SAARC) region, which includes Afghanistan, Bangladesh, Bhutan, India,
   Maldives, Nepal, Pakistan, and Sri Lanka.
+start: 2013
+end: 2017
+client: European Commission
+solutions:
+- Governance
+- Institutional and Policy Reform
+- Peace-building and State-building
+regions:
+- Eastern Europe and Central Asia
+country:
+- Regional
+layout: project
 ---
 
 There is a long history of engagement, and a great interest in taking forward cooperation, between the European Union and the South Asian Association for Regional Cooperation (SAARC) region, which includes Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. For a majority of these countries, the European Union is the largest provider of assistance, and their largest trading partner.
