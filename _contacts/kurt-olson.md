@@ -1,8 +1,7 @@
 ---
 title: Kurt Olsson
-date: 2016-01-21 22:18:43.395000000 Z
-group: Business Management
-image: "/assets/images/contacts/kurt-olsson.jpg"
+date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Vice President, Business Development
 email: kurt_olson@dai.com
 summary: Kurt has more than 25 years of experience in the public, private, and nonprofit
@@ -13,6 +12,8 @@ summary: Kurt has more than 25 years of experience in the public, private, and n
   and geographies. Kurt helps develop DAI’s overall new business strategy, prioritizing
   bid opportunities, maximizing resources, and putting together proposals that best
   sell the firm.
+image: "/assets/images/contacts/kurt-olsson.jpg"
+group: Business Management
 sort-order: 0
 ---
 
