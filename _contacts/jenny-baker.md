@@ -1,8 +1,6 @@
 ---
-title: Jenny baker
-date: 2016-01-21 22:18:43.395000000 Z
-group: Business Management
-image: "/assets/images/contacts/jenny-baker.jpg"
+title: Jenny Baker
+date: 2016-01-21 22:18:00 Z
 job-title: Regional Managing Director, Asia
 email: jenny_baker@dai.com
 summary: Jenny leads the company’s development initiatives in Asia. Jenny has worked
@@ -11,6 +9,8 @@ summary: Jenny leads the company’s development initiatives in Asia. Jenny has 
   Sector; and previously as Senior Vice President of a regional division at Chemonics
   International. Jenny’s career in international development was preceded by nine
   years of experience in domestic public policy, law, and international education.
+image: "/assets/images/contacts/jenny-baker.jpg"
+group: Business Management
 sort-order: 1
 ---
 
