@@ -1,21 +1,6 @@
 ---
 title: Rwanda—Support for Land Tenure Regularisation
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
-start: 2010
-end: 2013
-regions:
-- Sub-Saharan Africa
-country:
-- Rwanda
-solutions:
-- Economic Growth
-- Environment and Energy
-- Gender
-- Governance
-- Land Tenure and Property Rights
-- Natural Resource Management
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal the
   issuance of registered title to every landholder in the country. Prior to the project,
   we had laid the groundwork for an innovative approach to registration. Between 2005
@@ -23,11 +8,28 @@ summary: 'The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal
   the Strategic Road Map for Land Tenure Reform.
 
 '
+start: 2010
+end: 2013
+client: U.K. Department for International Development
+solutions:
+- Economic Growth
+- Environment and Energy
+- Gender
+- Governance
+- Land Tenure and Property Rights
+- Natural Resource Management
+regions:
+- Sub-Saharan Africa
+country:
+- Rwanda
+layout: project
 ---
 
 The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal the issuance of registered title to every landholder in the country. Prior to the project, we had laid the groundwork for an innovative approach to registration. Between 2005 and 2009, we developed and tested a feasible approach to [LTR][1], which lead to the Strategic Road Map for Land Tenure Reform.
 
 Titles were then issued to every landholder through a one-off, low-cost community-based process of LTR, securing land assets and facilitating investment to 90 percent of predominantly poor households that own some farming land. The process, which [won an award][2], was fundamental to unlocking future fair and sustainable economic growth in Rwanda.
+<iframe src="https://player.vimeo.com/video/104419937" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 ###  Sample Activities
 

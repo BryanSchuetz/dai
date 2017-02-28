@@ -5,7 +5,7 @@ lastname: Afshar-Gandhi
 summary: 'Alia Afshar-Gandhi works in the area of food security and agriculture, where
   she specializes in rural livelihood creation in post-conflict countries. '
 job-title: 'Director, Economic Growth, Middle East and North Africa '
-image: "/assets/images/experts/alia-afshar-gandhi.jpg"
+image: "/uploads/Alia.jpg"
 solutions:
 - Economic Growth
 - Agriculture and Food Security
