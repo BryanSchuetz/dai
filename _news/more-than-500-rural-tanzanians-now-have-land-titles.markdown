@@ -11,7 +11,7 @@ projects: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 clients: U.S. Agency for International Development
 summary: 'DAI held an official ceremony to hand over 502 land titles to villagers
   in Tanzania. '
-twit-pic: 
+twit-pic: https://i.vimeocdn.com/video/621202021_600x340.jpg
 ---
 
 Land registrations for small family-run farms under the Village Land Act in Tanzania are paramount in securing and protecting local land rights. Since the act passed in 1999, the process of registration in the country has moved slowly, particularly in rural areas. This has largely been due to a general lack of operational capacity at district and village levels to bring the laws into effect.
