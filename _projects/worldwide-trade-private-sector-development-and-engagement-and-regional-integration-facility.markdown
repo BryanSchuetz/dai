@@ -22,7 +22,7 @@ Trade, regional economic integration, and private sector development are widely 
 
 To maximize the development impact of its trading partnerships, the European Commission established the Trade, Private Sector Development and Engagement, and Regional Integration (TPSD) Facility to help shape and implement new policies related to Aid for Trade and regional integration programmes. In supporting the TPSD Facility, DAI will provide policy advising, knowledge management, and communications expertise to the European Commission's Development Aid Directorate in charge of trade and private sector development, known as DEVCO C4.
 
-![TSPD_image.jpg](/uploads/TSPD_image.jpg)
+![TSPD_image_2.jpg](/uploads/TSPD_image_2.jpg)
 
 **Sample Activities**
 
