@@ -1,6 +1,6 @@
 ---
 title: Worldwide—Trade, Private Sector Development and Engagement, and Regional Integration
-  Facility (TSPD)
+  (TSPD) Facility
 date: 2017-02-21 01:44:00 Z
 summary: To maximize the development impact of its trading partnerships, the European
   Commission established the Trade, Private Sector Development and Engagement, and
