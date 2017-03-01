@@ -12,7 +12,9 @@ LTA is assisting specific villages to conduct participatory field mapping of lan
 
 The certificates are important to villagers because they provide more secure tenure, giving them the incentive to develop their land more sustainably and increase food security.
 
-Just last month the team held an official ceremony in which the first completed 502 CCROs were handed to the Village Council for issuance to villagers in Kinywang’anga Village, part of the Iringa region. The ceremony was attended by more than 350 local people in addition to officials from central and local government, representatives from the USAID Mission in Tanzania, members of the LTA team and the District Land Office
+Just last month the team held an official ceremony in which the first completed 502 CCROs were handed to the Village Council for issuance to villagers in Kinywang’anga Village, part of the Iringa region. The ceremony was attended by more than 350 local people in addition to officials from central and local government, representatives from the USAID Mission in Tanzania, members of the LTA team and the District Land Office.
+
+
 
 Guests of Honour included the Minister for Lands, Housing, and Human Settlements Development, The Hon. William Lukuvi and the Deputy Mission Director for USAID, Mr David Thompson. Following presentation of the titles the Minister and Mr Thompson formally opened the building that has been refurbished and furnished as part of the program to house the Village Land Registry Office.
 
