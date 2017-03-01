@@ -1,7 +1,6 @@
 ---
 title: More Than 500 Rural Tanzanians Now Have Land Titles
 date: 2017-03-01 12:41:00 Z
-is_featured: true
 solutions:
 - Governance
 - Land Tenure and Property Rights
@@ -11,12 +10,9 @@ projects: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 clients: U.S. Agency for International Development
 summary: 'DAI held an official ceremony to hand over 502 land titles to villagers
   in Tanzania. '
-twit-pic: https://i.vimeocdn.com/video/621202021_600x340.jpg
 ---
 
-Land registrations for small family-run farms under the Village Land Act in Tanzania are paramount in securing and protecting local land rights. Since the act passed in 1999, the process of registration in the country has moved slowly, particularly in rural areas. This has largely been due to a general lack of operational capacity at district and village levels to bring the laws into effect.
-
-<!--more--> 
+Land registrations for small family-run farms under the Village Land Act in Tanzania are paramount in securing and protecting local land rights. Since the act passed in 1999, the process of registration in the country has moved slowly, particularly in rural areas. This has largely been due to a general lack of operational capacity at district and village levels to bring the laws into effect. 
 
 A DAI team is now managing the [Land Tenure Assistance (LTA)](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) project as part of a Feed the Future, U.S. Agency for International Development (USAID)-funded initiative to accelerate the registration process, support land use planning and increase local understanding of land use and land rights. It is envisioned that the interventions will reduce land tenure-related risks and lay the groundwork for sustainable agricultural investment for both owners of small family-run farms and commercial investors.
 
@@ -24,9 +20,9 @@ LTA is assisting specific villages to conduct participatory field mapping of lan
 
 The certificates are important to villagers because they provide more secure tenure, giving them the incentive to develop their land more sustainably and increase food security.
 
-Just last month the team held an official ceremony in which the first completed 502 CCROs were handed to the Village Council for issuance to villagers in Kinywang’anga Village, part of the Iringa region. The ceremony was attended by more than 350 local people in addition to officials from central and local government, representatives from the USAID Mission in Tanzania, members of the LTA team and the District Land Office.
-
 <iframe src="https://player.vimeo.com/video/206238160" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Just last month the team held an official ceremony in which the first completed 502 CCROs were handed to the Village Council for issuance to villagers in Kinywang’anga Village, part of the Iringa region. The ceremony was attended by more than 350 local people in addition to officials from central and local government, representatives from the USAID Mission in Tanzania, members of the LTA team and the District Land Office.
 
 Guests included the Minister for Lands, Housing, and Human Settlements Development, The Hon. William Lukuvi and the Deputy Mission Director for USAID, David Thompson. Following presentation of the titles, Hon. Lukuvi and Thompson formally opened the building that has been refurbished and furnished as part of the program to house the Village Land Registry Office.
 
