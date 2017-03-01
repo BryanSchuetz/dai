@@ -1,6 +1,7 @@
 ---
 title: More Than 500 Rural Tanzanians Now Have Land Titles
 date: 2017-03-01 12:41:00 Z
+is_featured: true
 solutions:
 - Governance
 - Land Tenure and Property Rights
@@ -12,7 +13,9 @@ summary: 'DAI held an official ceremony to hand over 502 land titles to villager
   in Tanzania. '
 ---
 
-Land registrations for small family-run farms under the Village Land Act in Tanzania are paramount in securing and protecting local land rights. Since the act passed in 1999, the process of registration in the country has moved slowly, particularly in rural areas. This has largely been due to a general lack of operational capacity at district and village levels to bring the laws into effect. 
+Land registrations for small family-run farms under the Village Land Act in Tanzania are paramount in securing and protecting local land rights. Since the act passed in 1999, the process of registration in the country has moved slowly, particularly in rural areas. This has largely been due to a general lack of operational capacity at district and village levels to bring the laws into effect.
+
+<!--more--> 
 
 A DAI team is now managing the [Land Tenure Assistance (LTA)](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) project as part of a Feed the Future, U.S. Agency for International Development (USAID)-funded initiative to accelerate the registration process, support land use planning and increase local understanding of land use and land rights. It is envisioned that the interventions will reduce land tenure-related risks and lay the groundwork for sustainable agricultural investment for both owners of small family-run farms and commercial investors.
 
