@@ -1,6 +1,7 @@
 ---
 title: More Than 500 Rural Tanzanians Now Have Land Titles
 date: 2017-03-01 12:41:00 Z
+is_featured: true
 solutions:
 - Governance
 - Land Tenure and Property Rights
