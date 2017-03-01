@@ -34,4 +34,4 @@ In his speech, Hon. Lukuvi described the project as “groundbreaking” in the 
 
 Work has already commenced in three new villages—Kiponzelo, Magunga, and Usengelendete—using the same procedures and processes. Villagers will be receiving certificates later this year. 
 
-The four-year LTA project aims to transform the way land rights are delivered and managed in Tanzania, with the potential for large-scale adaptation and use in other developing countries.
+The four-year LTA project will transform the way land rights are delivered and managed in Tanzania, with the potential for large-scale adaptation and use in other developing countries. LTR aims to benefit more than 14,000 villagers in 41 villages, registering an estimated 50,000 plots.
