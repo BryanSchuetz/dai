@@ -30,6 +30,6 @@ Guests included the Minister for Lands, Housing, and Human Settlements Developme
 
 In his speech, Hon. Lukuvi described the project as “groundbreaking” in the development of participatory models for land use planning and registration of rights and recognized the challenge to scale up and complete more villages in Iringa District, with a view to applying models to the rest of the country. He also said he was very impressed with the large number of women, 55 percent, who received CCROs. 
 
-Work has already commenced in three new villages—Kiponzelo, Magunga and Usengelendete—using the same procedures and processes. Villagers will be receiving certificates later this year. 
+Work has already commenced in three new villages—Kiponzelo, Magunga, and Usengelendete—using the same procedures and processes. Villagers will be receiving certificates later this year. 
 
 The four-year LTA project aims to transform the way land rights are delivered and managed in Tanzania, with the potential for large-scale adaptation and use in other developing countries.
