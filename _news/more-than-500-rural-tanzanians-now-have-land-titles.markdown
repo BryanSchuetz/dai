@@ -23,10 +23,9 @@ The certificates are important to villagers because they provide more secure ten
 
 Just last month the team held an official ceremony in which the first completed 502 CCROs were handed to the Village Council for issuance to villagers in Kinywang’anga Village, part of the Iringa region. The ceremony was attended by more than 350 local people in addition to officials from central and local government, representatives from the USAID Mission in Tanzania, members of the LTA team and the District Land Office.
 
-
+<iframe src="https://player.vimeo.com/video/206238160" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Guests included the Minister for Lands, Housing, and Human Settlements Development, The Hon. William Lukuvi and the Deputy Mission Director for USAID, David Thompson. Following presentation of the titles, Hon. Lukuvi and Thompson formally opened the building that has been refurbished and furnished as part of the program to house the Village Land Registry Office.
-
 
 In his speech, Hon. Lukuvi described the project as “groundbreaking” in the development of participatory models for land use planning and registration of rights and recognized the challenge to scale up and complete more villages in Iringa District, with a view to applying models to the rest of the country. He also said he was very impressed with the large number of women, 55 percent, who received CCROs. 
 
