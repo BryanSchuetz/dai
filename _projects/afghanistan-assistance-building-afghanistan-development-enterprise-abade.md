@@ -1,21 +1,21 @@
 ---
 title: Afghanistan—Assistance in Building Afghanistan by Development Enterprise (ABADE)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2012
-end: 2016
-regions:
-- Eastern Europe and Central Asia
-country:
-- Afghanistan
-solutions:
-- Business Environment Reform
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: ABADE aims to increase domestic and foreign investment, stimulate employment,
   and improve sales of Afghan products. By funding Afghan businesses that have viable
   plans and matching funds, ABADE helps these businesses mitigate the financial risk
   inherent to investing, expanding, and innovating.
+start: 2012
+end: 2017
+client: U.S. Agency for International Development
+solutions:
+- Business Environment Reform
+- Economic Growth
+regions:
+- Eastern Europe and Central Asia
+country:
+- Afghanistan
+layout: project
 ---
 
 ABADE aims to increase domestic and foreign investment, stimulate employment, and improve sales of Afghan products. By funding Afghan businesses that have viable plans and matching funds, ABADE helps these businesses mitigate the financial risk inherent to investing, expanding, and innovating.
