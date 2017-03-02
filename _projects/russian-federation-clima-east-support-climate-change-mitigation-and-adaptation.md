@@ -1,26 +1,24 @@
 ---
 title: 'Russian Federation—Clima East: Support to Climate Change Mitigation and Adaptation
-  in Russia and ENP East Countries
-
-'
-date: 2016-01-21 22:40:52.765000000 Z
-client: European Commission
+  in Russia and ENP East Countries'
+date: 2016-01-21 22:40:00 Z
+summary: The Clima East programme works to help integrate the countries' climate change
+  strategies, greenhouse gases mitigation plans and adaptation approaches. The programme
+  is part of a larger Clima East package, to include a pilot project component, implemented
+  by UNDP, supporting the development of ecosystems-based approaches to climate change.
 start: 2012
-end: 2016
-regions:
-- Eastern Europe and Central Asia
-country:
-- Regional
+end: 2017
+client: European Commission
 solutions:
 - Clean Energy and Energy Efficiency
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Governance
+regions:
+- Eastern Europe and Central Asia
+country:
+- Regional
 layout: project
-summary: The Clima East programme works to help integrate the countries' climate change
-  strategies, greenhouse gases mitigation plans and adaptation approaches. The programme
-  is part of a larger Clima East package, to include a pilot project component, implemented
-  by UNDP, supporting the development of ecosystems-based approaches to climate change.
 ---
 
 The countries of the ENP East region—[Armenia][1], Azerbaijan, Belarus, Georgia, Moldova, and Ukraine—and the Russian Federation are signatories of the UN Framework Convention on Climate Change and its Kyoto Protocol, and as such have a number of obligations. The Clima East programme works to help integrate the countries' climate change strategies, greenhouse gases mitigation plans and adaptation approaches. The programme is part of a larger [Clima East][2] package, to include a pilot project component, implemented by UNDP, supporting the development of ecosystems-based approaches to climate change.
