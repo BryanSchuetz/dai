@@ -1,19 +1,6 @@
 ---
 title: Poland—Polish Sustainable Energy Financing Facility (PolSEFF)
-date: 2016-01-21 22:40:52.765000000 Z
-client: European Bank for Reconstruction and Development
-start: 2010
-end: 2016
-regions:
-- Eastern Europe and Central Asia
-country:
-- Poland
-solutions:
-- Economic Growth
-- Environment and Energy
-- Financial Services
-- Clean Energy and Energy Efficiency
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'We are [creating a perpetual market][1] for investments in efficient energy
   by Poland''s local businesses by training financial institutions on how to appraise
   and finance sensible energy projects; detailing for small and medium-sized enterprises
@@ -22,6 +9,19 @@ summary: 'We are [creating a perpetual market][1] for investments in efficient e
   technically feasible, bankable projects.
 
 '
+start: 2010
+end: 2017
+client: European Bank for Reconstruction and Development
+solutions:
+- Economic Growth
+- Environment and Energy
+- Financial Services
+- Clean Energy and Energy Efficiency
+regions:
+- Eastern Europe and Central Asia
+country:
+- Poland
+layout: project
 ---
 
 We are [creating a perpetual market][1] for investments in efficient energy by Poland's local businesses by training financial institutions on how to appraise and finance sensible energy projects; detailing for small and medium-sized enterprises (SMEs) the competitive advantages of investing in energy-efficient materials and equipment; and training local experts to assist SMEs in identifying and preparing technically feasible, bankable projects. Following the success of the first phase of the program, PolSEFF II provides a new energy efficiency credit line through local participating financial institutions. The facility will provide up to a €200 million credit line, following the previous phase's €180 million disbursal, through a framework to commercial banks and leasing companies in Poland for on-lending to small and medium enterprises to finance investments in energy efficiency and small-scale renewable energy. This work will help build lasting capacity for this type of finance in Poland, which is presently highly reliant on foreign energy.
