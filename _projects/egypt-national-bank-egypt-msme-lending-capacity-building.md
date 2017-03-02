@@ -1,21 +1,21 @@
 ---
 title: 'Egypt—National Bank of Egypt: MSME Lending Capacity Building'
-date: 2016-01-21 22:40:52.765000000 Z
-client: European Bank for Reconstruction and Development
-start: 2014
-end: 2016
-regions:
-- Sub-Saharan Africa
-country:
-- Egypt
-solutions:
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'Loans to micro, small, and medium-sized enterprises (MSMEs) account for
   only 6 percent of the total loan portfolio of Egyptian banks, well below the 10
   to 30 percent documented in the countries of the Organization for Economic Cooperation
   and Development. The Government of Egypt and Central Bank of Egypt have made access
   to finance for MSMEs a top priority and key area for banking sector reform. '
+start: 2014
+end: 2017
+client: European Bank for Reconstruction and Development
+solutions:
+- Economic Growth
+regions:
+- Sub-Saharan Africa
+country:
+- Egypt
+layout: project
 ---
 
 Loans to micro, small, and medium-sized enterprises (MSMEs) account for only 6 percent of the total loan portfolio of Egyptian banks, well below the 10 to 30 percent documented in the countries of the Organisation for Economic Cooperation and Development. The Government of Egypt and Central Bank of Egypt have made access to finance for MSMEs a top priority and key area for banking sector reform.
