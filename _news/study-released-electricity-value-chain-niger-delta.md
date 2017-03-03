@@ -7,7 +7,7 @@ summary: 'DAI, the Niger Delta Partnership Initiative (NDPI), and the Foundation
 
 '
 solutions:
-- Corporate Services
+- Corporate Sustainability
 regions:
 - Sub-Saharan Africa
 projects: 

@@ -10,7 +10,7 @@ country:
 - Regional
 solutions:
 - Agriculture and Food Security
-- Corporate Services
+- Corporate Sustainability
 - Economic Growth
 layout: project
 summary: 'DAI was commissioned by TradeMark Southern Africa to conduct an independent

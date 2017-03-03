@@ -10,7 +10,7 @@ country:
 - Regional
 solutions:
 - Conflict and Vulnerability Analysis
-- Corporate Services
+- Corporate Sustainability
 - Economic Growth
 layout: project
 summary: 'DAI was part of a team working with the Walmart Foundation to evaluate the

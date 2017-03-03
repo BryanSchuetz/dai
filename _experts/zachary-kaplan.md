@@ -10,7 +10,7 @@ job-title: Director, Energy and Resources Group
 image: "/assets/images/experts/KaplanInner.jpg"
 solutions:
 - Business Environment Reform
-- Corporate Services
+- Corporate Sustainability
 - Economic Growth
 - Institutional and Policy Reform
 - Natural Resource Management

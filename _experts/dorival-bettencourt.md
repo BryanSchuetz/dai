@@ -5,7 +5,7 @@ lastname: Bettencourt
 regions:
 - Sub-Saharan Africa
 solutions:
-- Corporate Services
+- Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/expert-portrait-1.jpg"
 summary: |

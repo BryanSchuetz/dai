@@ -6,7 +6,7 @@ summary: 'Waleed Zaru oversees the U.S. Government Operations and Systems Team. 
 job-title: Senior Director, U.S. Government Operations and Systems Team
 image: "/assets/images/experts/Waleed_Inner.jpg"
 solutions:
-- Corporate Services
+- Economic Growth
 regions:
 - Middle East and North Africa
 layout: expert

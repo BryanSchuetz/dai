@@ -8,7 +8,7 @@ summary: 'The Foundation for Partnership Initiative in the Niger Delta (PIND) re
 '
 solutions:
 - Economic Growth
-- Corporate Services
+- Corporate Sustainability
 regions:
 - Sub-Saharan Africa
 projects: Nigeria—Foundation for Partnership Initiatives in the Niger Delta (PIND)
