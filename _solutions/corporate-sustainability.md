@@ -28,22 +28,33 @@ promos:
   link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
 related: false
 ---
-**Helping our clients achieve significantly higher social and business returns by merging business imperatives with development best practices**
 
- Our work with private sector companies and nonprofit foundations spans decades. Our corporate work goes far beyond helping to develop a corporate social responsibility (CSR) strategy, it blends our economic development capabilities with business strategies to help clients succeed in their developing world operations.
+## Energy and Resources Group
 
-DAI’s **Energy and Resources Group** expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
+DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
 
-<iframe src="https://www.youtube.com/embed/A3-VyczktO8" frameborder="0" allowfullscreen></iframe>
-`With DAI’s assistance, Kosmos Energy has taken a market-driven approach to catalyze innovation and promote youth employment in the Ghanaian agricultural sector.`
+## Industries
+
+* Oil & Gas
+* Mining
+* Renewable Energy
+* Infrastructure
+* Retail
 
 ## Services
 
 The Energy and Resources Group works with companies in the oil, gas, mining, and renewable energy sectors to provide solutions to business needs, including:
 
-* Local Content and Supply Chain Management. We use our suite of analytical tools and data sets to optimize local supply chains and maximize local content capture.
-* Corporate Social Investment. We design and manage impactful initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals.
+* [Local Content and Supply Chain Management](/our-work/solutions/corporate/local-content-and-supply-chain-management). We use our suite of analytical tools and data sets to uncover market insights that optimize local supply chains and maximize local content capture.
+* [Corporate Social Investment](/our-work/solutions/corporate/social-strategy). We design and manage impactful initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals.
 * Government and Community Engagement. We secure our clients’ social license to operate by assessing above-ground risk and establishing trusted partnerships with key stakeholders to mitigate those risks.
+
+<hr>
+
+<iframe src="https://www.youtube.com/embed/A3-VyczktO8" frameborder="0" allowfullscreen></iframe>
+`With DAI’s assistance, Kosmos Energy has taken a market-driven approach to catalyze innovation and promote youth employment in the Ghanaian agricultural sector.`
+
+<hr>
 
 <aside>
 <h2>Our Unique Approach</h2>

@@ -1,7 +1,7 @@
 ---
-title: Local Supplier Development
+title: Local Content and Supply Chain Management
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/corporate/local-supplier-development"
+permalink: "/our-work/solutions/corporate/local-content-and-supply-chain-management"
 layout: solution
 solutions:
 - Corporate Sustainability
