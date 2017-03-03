@@ -8,8 +8,11 @@ solutions:
 - Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/Slice.jpg"
-summary: |
-  Warwick Strong was born in Zimbabwe and spent his formative years in Southern Africa. He then joined the British Army in 1998 and was commissioned as an officer in 2000 from the United Kingdom's Royal Military Academy.
+summary: 'Warwick Strong was born in Zimbabwe and spent his formative years in Southern
+  Africa. He then joined the British Army in 1998 and was commissioned as an officer
+  in 2000 from the United Kingdom''s Royal Military Academy.
+
+'
 job-title: Mining Sector Specialist, Energy and Resources Group
 articles:
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”

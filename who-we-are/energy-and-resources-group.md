@@ -1,5 +1,6 @@
 ---
 title: Energy and Resources Group
+published: false
 related: false
 redirect_from:
 - "/erg"
@@ -16,7 +17,6 @@ promos:
 - title: "**Video**: _Kosmos Innovation Center_"
   link: https://www.youtube.com/watch?v=A3-VyczktO8
 layout: node
-published: false
 ---
 
 DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.

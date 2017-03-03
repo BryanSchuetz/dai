@@ -8,8 +8,11 @@ solutions:
 - Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/dipika.jpg"
-summary: |
-  As part of the Energy and Resources Group, Dipika Chawla leads the communications strategy, designs technical service offerings, performs market intelligence on extractive industries in developing countries, and conducts new business efforts.
+summary: 'As part of the Energy and Resources Group, Dipika Chawla leads the communications
+  strategy, designs technical service offerings, performs market intelligence on extractive
+  industries in developing countries, and conducts new business efforts.
+
+'
 job-title: Senior Analyst, Energy and Resources Group
 articles:
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”

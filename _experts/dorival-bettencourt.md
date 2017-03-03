@@ -8,8 +8,10 @@ solutions:
 - Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/expert-portrait-1.jpg"
-summary: |
-  Dorival Bettencourt is a private sector development specialist with extensive policy and extractives industry experience.
+summary: 'Dorival Bettencourt is a private sector development specialist with extensive
+  policy and extractives industry experience.
+
+'
 job-title: Senior Oil and Gas Advisor, Energy and Resources Group
 ---
 

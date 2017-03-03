@@ -8,8 +8,10 @@ solutions:
 - Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/francis.jpg"
-summary: |
-  Francis DiMora leads the Energy and Resources Group's new business, market intelligence, and product development functions.
+summary: 'Francis DiMora leads the Energy and Resources Group''s new business, market
+  intelligence, and product development functions.
+
+'
 job-title: Head of Development, Energy and Resources Group
 ---
 

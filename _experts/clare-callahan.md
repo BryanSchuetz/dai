@@ -8,8 +8,10 @@ solutions:
 - Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/clare.jpg"
-summary: |
-  Clare Callahan provides project management, financial management, business development, and technical support to the Energy and Resources Group.
+summary: 'Clare Callahan provides project management, financial management, business
+  development, and technical support to the Energy and Resources Group.
+
+'
 job-title: Analyst, Energy and Resources Group
 ---
 

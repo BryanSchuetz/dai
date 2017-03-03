@@ -8,8 +8,10 @@ solutions:
 - Corporate Sustainability
 layout: expert
 image: "/assets/images/experts/luke_inside.jpg"
-summary: |
-  Luke Kozumbo specializes in economic analysis and issues of trade and economic competitiveness.
+summary: 'Luke Kozumbo specializes in economic analysis and issues of trade and economic
+  competitiveness.
+
+'
 job-title: Manager, Energy and Resources Group
 ---
 
