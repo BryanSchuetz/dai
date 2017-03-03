@@ -12,6 +12,6 @@ DAI Brussels also provides management support on the [Technical Assistance Progr
 
 The [Technical and Advisory Services for Social Transfers for Food Security and Nutrition (ASiST III) Programme](/our-work/projects/worldwide-technical-and-advisory-services-social-transfers-asist) also has a strong base in Brussels. Our Brussels Liaison Officer is working closely with DEVCO C1, serving as the coordination bridge to facilitate technical and thematic collaboration with relevant DEVCO Units and supporting knowledge management, communication, and activity coordination. Through this demand-driven service, DAI is helping the European Commission and the EU Delegations to increase the impact, quality, coverage, and sustainability of social transfer schemes that target food and nutrition security, resilience, and sustainable agriculture.
 
-The Brussels office will be a key venue for engaging with European and wider development community. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Associations.
+The Brussels office will be a key venue for engaging with the European and wider development community. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Associations.
 
 DAI Brussels was officially registered as a separate Belgian legal entity in July 2016. 
