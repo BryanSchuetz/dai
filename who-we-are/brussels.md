@@ -3,6 +3,7 @@ title: Brussels
 permalink: "/who-we-are/global-reach/brussels"
 layout: node
 ---
+
 DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S. and U.K. operations.
 
 Currently, the Brussels office oversees numerous projects, ranging from EC training and technical assistance to demand-driven advisory services. Since January 2017, DAI Brussels has been managing an EU-funded [Trade, Private Sector Development and Engagement, and Regional Integration Facility (TPSD)](/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). Through this programme, our Brussels-based team provides policy advice, knowledge management, and communications expertise to DEVCO C4.
