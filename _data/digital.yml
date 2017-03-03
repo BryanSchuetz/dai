@@ -1,4 +1,42 @@
 
+- title: "Ecosystem Insights: How Trade Associations in Rural Afghanistan Use Mobile Tech"
+  pub: "Digital"
+  date: 2017-03-02
+  link: "https://dai-global-digital.com/ecosystem-insights-afghanistan.html"
+  summary: "We’re pleased to launch a new research product on the blog today: Ecosystem Insights (EI). EI seeks to understand how key groups of stakeholders use digital tools to connect with each other and share information, pushing beyond the individual personas of our Digital Insights work to gain insights into how groups access and use ICT in both their personal and professional lives. We conducted this research alongside our partner CIPE’s star provincial teams in Herat, Kandahar, Balkh, and Nangarhar. Not surprisingly, even in rural Afghanistan, smartphone and social media penetration rates are much higher than currently published reports account for. These findings continue to prove that DAI’s investment in this research is worthwhile: Designing a sustainable and high-impact ICT intervention will always start with knowing the what, how, and why of users’ ICT habits."
+  tags:
+    - digital 
+    - Ecosystem Insights 
+    - Economic Growth 
+
+- title: "Top 5 Social Media Blogs: How & Why ICT4D Pros Should Think Like Digital Marketers"
+  pub: "Digital"
+  date: 2017-02-22
+  link: "https://dai-global-digital.com/on-digital-marketing-why-ict4d-professionals-should.html"
+  summary: "Back in the day, when I was but a young ICT4D practitioner trying to figure out how to get hundreds of thousands of Somalis to open and read text messages about democracy and governance from a tiny startup’s office in Palestine, I developed a weird habit of obsessively reading fast-moving consumer good product mobile marketing blogs. Why? These commercially focused blogs had super insightful guidance on how to structure mobile campaigns and get users to open, read, and act upon messaging content—because at the end of the day, selling good governance isn’t that different from selling individual shampoo packets. Both take targeted, entertaining and value-added content, and timing to have the most impact, and because the advertising firms servicing large multinationals had a lot more money to invest in getting the art of the mobile campaign right, I figured, why not poach their best practices for the social sector? Fast forward seven years, and I’m doing the same thing but for Facebook."
+  tags:
+    - digital 
+    - Think Piece 
+    - Social Media 
+
+- title: "I Made a Facebook Chatbot (And You Can, Too!)"
+  pub: "Digital"
+  date: 2017-02-14
+  link: "https://dai-global-digital.com/facebook-chatbot.html"
+  summary: "I’ve been excited about using chatbots in our work since Facebook’s F8 Developer conference last  April, when the company announced that Messenger would begin to support them.
+
+
+
+
+  What is a Facebook chatbot?
+
+
+Our Digital Insights work in Indonesia, Honduras, and Palestine has shown that Facebook and FB Messenger are hugely popular in the places DAI works. In Indonesia, 77 percent of the people we interviewed said they use Facebook on their phones; in Palestine the number was 95 percent. In Honduras, 80 percent of our respondents across urban and rural areas said they are Facebook users. If DAI projects want to reach people with messages and services, we must meet people where they already are: on Facebook (and no, not exclusively and not always—if you read our Indonesia post, you’ll find out a surprising fact about which messaging app is king there (bet you can’t guess!). Failing to meet users where they are—in this case, on Facebook—when on-the-ground evidence shows it to be popular would be a major missed opportunity."
+  tags:
+    - digital 
+    - Innovation 
+    - Think Piece 
+
 - title: "Crowdsourced Data Collection Provides On-the-Ground Insights"
   pub: "Digital"
   date: 2017-02-09
@@ -305,35 +343,5 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   tags:
     - digital 
     - Think Piece 
-    - Data 
-
-- title: "App-a-Thon 2016: LINE for Development"
-  pub: "Digital"
-  date: 2016-09-13
-  link: "https://dai-global-digital.com/app-a-thon-2016-line-for-development.html"
-  summary: "As we’ve ramped up our Digital Insights work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “App-a-Thon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app."
-  tags:
-    - digital 
-    - Appathon 2016 
-
-- title: "ICT in the Agricultural Sector: Business Concepts from Ghanaian Youth"
-  pub: "Digital"
-  date: 2016-09-09
-  link: "https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html"
-  summary: "Some of you may recall my post  from May when I wrote about the Kosmos Innovation Center (KIC) and the exciting work it’s doing to bring young tech-savvy entrepreneurs into the agricultural sector in Ghana. Here’s a quick update and brief summary of the kinds of ideas that have emerged from the project so far."
-  tags:
-    - digital 
-    - Agriculture 
-    - Sub-Saharan Africa 
-    - Economic Growth 
-    - Innovation 
-
-- title: "How Dashboards are like Olympians"
-  pub: "Digital"
-  date: 2016-09-07
-  link: "https://dai-global-digital.com/how-dashboards-are-like-olympians.html"
-  summary: "The Olympic Games in Rio are over! It’s too bad. We all had fun watching the world’s greatest athletes come together to compete. At these Olympic Games we saw several displays of dominance from competitors such as Usain Bolt, Katie Ledecky, and Michael Phelps. Watching their races, it struck me how easy they made it look, with Bolt laughing in his prelims, Ledecky winning by 11 seconds, and Phelps winning by over a body length in a race that was only two laps in the pool."
-  tags:
-    - digital 
     - Data 
 
