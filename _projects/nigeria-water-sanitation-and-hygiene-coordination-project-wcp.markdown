@@ -23,6 +23,8 @@ The state of Nigeria’s water, sanitation, and hygiene (WASH) sector has reache
 
 Despite these challenges, reform-minded states in the country’s impoverished northern region have shown a commitment to necessary policy changes and an interest in actively collaborating with development partners. The WASH Coordination Project (WCP), funded by the U.S. Agency for International Development (USAID), will assist these forward-looking states and utilities in improving WASH governance and service delivery. DAI will support Development Innovations Group in the implementation of WCP through data collection and analysis, monitoring and evaluation, and institutional capacity building.
 
+![Nigeria_WASH_image.jpg](/uploads/Nigeria_WASH_image.jpg)
+
 **Sample Activities**
 
 * Provide baseline data, analysis, and recommendations on engaging civil society and non-governmental organizations in improving the urban WASH sector.
