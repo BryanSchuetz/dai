@@ -182,11 +182,18 @@ strong {
   font-size: 1.3rem;
   font-weight: 700;
 }
+
 .primary-block--solution{
-  @include responsive(medium-screens){
+  @include responsive(small-screens){
     font-size: .9rem;
   }
+  @include responsive(medium-screens){
+    font-size: .8rem;
+  }
   @include responsive(wide-screens){
+    font-size: .9rem;
+  }
+  @include responsive(ultra-wide-screens){
     font-size: 1rem;
   }
 }
