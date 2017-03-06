@@ -1,22 +1,22 @@
 ---
 title: Cape Verde Land
-date: 2016-01-21 22:40:52.765000000 Z
-client: Millennium Challenge Corporation
+date: 2016-01-21 22:40:00 Z
+summary: The Cape Verde Land project provides direct support for public outreach,
+  adjudication, parcel mapping, data capture, processing of information and records
+  for the purpose of land registration.
 start: 2014
-end: 2015
-regions:
-- Sub-Saharan Africa
-country:
-- Cape Verde
+end: 2016
+client: Millennium Challenge Corporation
 solutions:
 - Economic Growth
 - Governance
 - Environment and Energy
 - Land Tenure
+regions:
+- Sub-Saharan Africa
+country:
+- Cape Verde
 layout: project
-summary: The Cape Verde Land project provides direct support for public outreach,
-  adjudication, parcel mapping, data capture, processing of information and records
-  for the purpose of land registration.
 ---
 
 The Cape Verde Land project provides direct support for public outreach, adjudication, parcel mapping, data capture, processing of information and records for the purpose of land registration. This process will lead to all parcels on the Island of Sal being validated either for registration or the deferral of rights registration with full justification and clear recommendation on the way forward.
