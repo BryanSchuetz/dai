@@ -10,7 +10,7 @@ summary: 'Francis DiMora leads the Energy and Resources Group''s new business, m
 job-title: Head of Development, Energy and Resources Group
 image: "/assets/images/experts/francis.jpg"
 solutions:
-- Corporate Sustainability
+- Include Primary and/or Secondary Solutions
 regions:
 - Sub-Saharan Africa
 layout: expert
