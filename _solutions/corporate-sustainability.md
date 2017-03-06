@@ -10,6 +10,7 @@ layout: solution
 type: primary
 redirect_from:
 - "/erg"
+- "/who-we-are/energy-and-resources-group"
 promos:
 - title: "**Our Team:** DAI Corporate Sustainability Experts"
   link: "/who-we-are/the-team?filter=corporate-sustainability"
