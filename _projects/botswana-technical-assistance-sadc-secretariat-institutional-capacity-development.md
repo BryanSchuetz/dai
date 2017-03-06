@@ -1,20 +1,20 @@
 ---
 title: 'Botswana—Technical Assistance to the SADC Secretariat: Institutional Capacity
   Development Programme'
-date: 2016-01-21 22:40:52.765000000 Z
-client: European Commission
+date: 2016-01-21 22:40:00 Z
+summary: DAI is improving the capacity of the Southern African Development Community
+  (SADC) Secretariat to provide expertise and harmonise policies and strategies for
+  regional integration and sustainable development for its member states
 start: 2013
-end: 2016
+end: 2017
+client: European Commission
+solutions:
+- Economic Growth
 regions:
 - Sub-Saharan Africa
 country:
 - Botswana
-solutions:
-- Economic Growth
 layout: project
-summary: DAI is improving the capacity of the Southern African Development Community
-  (SADC) Secretariat to provide expertise and harmonise policies and strategies for
-  regional integration and sustainable development for its member states
 ---
 
 DAI is improving the capacity of the Southern African Development Community (SADC) Secretariat to provide expertise and harmonise policies and strategies for regional integration and sustainable development for its member states: Angola, Botswana, Democratic Republic of Congo, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Swaziland, Tanzania, Zambia, and Zimbabwe.
