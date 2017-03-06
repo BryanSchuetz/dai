@@ -3,7 +3,7 @@ title: |-
   Nigeria—Water, Sanitation, and Hygiene Coordination Project
   (WCP)
 date: 2017-03-03 22:14:00 Z
-summary: The state of Nigeria’s water, sanitation, and hygiene (WASH) sector has reached
+summary: The state of Nigeria’s water, sanitation, and hygiene sector has reached
   an alarming state of decline, with nearly one third of the population lacking access
   to improved drinking water sources and approximately two thirds living without adequate
   sanitation facilities. With one of the fastest growing urban populations in the
@@ -14,7 +14,7 @@ end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Water and Sanitation Services and Management
-- 
+- Environment and Energy
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
