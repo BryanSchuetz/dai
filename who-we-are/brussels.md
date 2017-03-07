@@ -14,4 +14,8 @@ The [Technical and Advisory Services for Social Transfers for Food Security and 
 
 The Brussels office will be a key venue for engaging with the European and wider development community. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Associations.
 
-DAI Brussels was officially registered as a separate Belgian legal entity in July 2016. 
+DAI Brussels was officially registered as a separate Belgian legal entity in July 2016.
+
+<a href="/who-we-are/global-reach/brussels/contacts/management" class="primary-block--button contacts-button">
+Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/brussels/contacts/coordinators" class="primary-block--button contacts-button">Portfolio Coordinator Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
