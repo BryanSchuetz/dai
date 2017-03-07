@@ -1,7 +1,6 @@
 ---
 title: Kenya—Ni Wetu Ni Wajibu Wetu (NIWETU)
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: Kenya is one of Africa’s longest-running democracies, a regional economic
   powerhouse, and a critical ally in the fight against violent extremism. After Kenyan
   troops entered Somalia in 2011 under Operation Linda Nchi (“Protect the Country”),
