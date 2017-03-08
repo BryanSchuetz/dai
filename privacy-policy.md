@@ -7,7 +7,7 @@ layout: default
 
 This website is operated and maintained by DAI.
 
-This privacy policy informs you of the types of information DAI may gather about your visit to our site. DAI's policies and procedures on collecting personal information, the use of cookies, the DAI newsletter, and security procedures on dai.com are listed below. If you have any questions, please [contact us](/contact-us).
+This privacy policy informs you of the types of information DAI may gather about your visit to our site. DAI's policies and procedures on collecting personal information, the use of cookies, the DAI newsletter, and security procedures on dai.com are listed below. If you have any questions, please [contact us](/contact-us). 
 
 ###  Personal Information
 
