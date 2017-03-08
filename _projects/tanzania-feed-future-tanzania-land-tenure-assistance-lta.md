@@ -45,4 +45,4 @@ The outcome of LTA—a low-cost, participatory land registration process—will 
 
 * Completed the first two villages with more than 2,700 parcels demarcated and claims taken with 840 Certificates of Customary Right of Occupancy printed for issuance. Targets for scaling up have been established.
 
-* More than 55 percent of claimants in the early villages are women, who hold land in multiple plots either singly, jointly, or in common. Analysis of incoming data is ongoing to ensure rights of women and vulnerable groups are secured.
+* More than 55 percent of claimants in the early villages are [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, jointly, or in common. Analysis of incoming data is ongoing to ensure rights of women and vulnerable groups are secured.
