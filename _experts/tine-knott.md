@@ -8,6 +8,9 @@ summary: Tine Knott joined DAI in January 2011 on the strength of a 17-year deve
   Mozambique, among other responsibilities.
 job-title: Vice President, Center for Secure and Stable States
 image: "/assets/images/experts/Knott_Inner.jpg"
+solutions:
+- Governance
+- Stability
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
