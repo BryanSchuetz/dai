@@ -1,5 +1,5 @@
 ---
-title: Ukraine—Transforming Financial Sector (FST)
+title: Ukraine— Financial Sector Transformation (FST)
 date: 2017-02-27 05:31:00 Z
 summary: After years of oligarchic control, the closing of more than 70 banks, and
   a threefold currency devaluation, the Ukrainian financial sector remains fragile
