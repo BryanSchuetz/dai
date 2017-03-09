@@ -1,12 +1,12 @@
 ---
 title: Jean Gilson
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
+date: 2016-01-21 22:18:00 Z
+job-title: Senior Vice President, Strategy and Information Technology Group
 summary: Jean leads the firm’s work on strategy, market analysis, external relations,
   and communications.
-job-title: Senior Vice President, Strategy and Information Technology Group
+image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
 sort-order: 1
+layout: leaders
 ---
 
 When Jean Gilson left Georgetown University in the early 1980s she went straight into the heady world of high finance. “I was deeply entrenched in the commercial banking and corporate finance world,” she said. But that all came to a halt one night in Cleveland in August 1986.
@@ -24,4 +24,4 @@ A leading figure in the international development community, Jean returned to DA
 * Vice President for Program Affairs, Society for International Development, Washington, D.C. Chapter
 * M.A., international law and economics, Fletcher School of Law and Diplomacy
 * M.B.A. equivalence certificate, First National Bank of Chicago
-* Vice President, [Executive Committee](http://dai.com/news-publications/news/dai’s-jean-gilson-appointed-sid-global-leadership-post#), Society for International Development
+* Vice President, [Executive Committee](http://dai.com/news-publications/news/dai-jean-gilson-appointed-sid-global-leadership-post), Society for International Development
