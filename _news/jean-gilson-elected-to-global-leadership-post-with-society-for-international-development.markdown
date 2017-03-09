@@ -6,6 +6,8 @@ date: 2017-03-09 14:40:00 Z
 
 DAI Senior Vice President for Strategy [Jean Gilson](https://www.dai.com/who-we-are/leadership/jean-gilson) has been elected to a second term on the Society for International Development (SID) Governing Council, where she will serve until 2020.
 
+
+
 Headquartered in Rome, Italy, SID is an international network of individuals and organizations founded in 1957 to promote social justice and foster democratic participation in the development process. SID has more than 30 chapters and 3,000 members in more than 50 countries.
 
 “SID brings together all sides of the development community from all around the world,” said Gilson. “I’m honored to support this global forum for debate and hope to advance its work toward the common good.”
