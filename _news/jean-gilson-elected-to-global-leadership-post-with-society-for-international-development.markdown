@@ -2,6 +2,9 @@
 title: Jean Gilson Elected to Global Leadership Post with Society for International
   Development
 date: 2017-03-09 14:40:00 Z
+summary: DAI Senior Vice President for Strategy [Jean Gilson](https://www.dai.com/who-we-are/leadership/jean-gilson)
+  has been elected to a second term on the Society for International Development (SID)
+  Governing Council, where she will serve until 2020.
 ---
 
 DAI Senior Vice President for Strategy [Jean Gilson](https://www.dai.com/who-we-are/leadership/jean-gilson) has been elected to a second term on the Society for International Development (SID) Governing Council, where she will serve until 2020.
