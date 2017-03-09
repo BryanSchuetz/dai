@@ -8,6 +8,7 @@ DAI Senior Vice President for Strategy [Jean Gilson](https://www.dai.com/who-we-
 
 
 
+
 Headquartered in Rome, Italy, SID is an international network of individuals and organizations founded in 1957 to promote social justice and foster democratic participation in the development process. SID has more than 30 chapters and 3,000 members in more than 50 countries.
 
 “SID brings together all sides of the development community from all around the world,” said Gilson. “I’m honored to support this global forum for debate and hope to advance its work toward the common good.”
