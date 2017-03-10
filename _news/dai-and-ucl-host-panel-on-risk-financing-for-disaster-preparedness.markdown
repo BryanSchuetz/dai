@@ -13,15 +13,14 @@ summary: With the University College of London Institute of Risk and Disaster Re
   titled “Risk Financing for the Developing World.”
 ---
 
-
 With the University College of London Institute of Risk and Disaster Reduction, DAI last week held a panel discussion on effective financial planning for disasters, titled “Risk Financing for the Developing World.”
 
 Risk financing seeks to put reliable funding for response efforts in place in advance of a natural disaster, disease outbreak, or other crisis, and is a topic of increasing interest for the international donor community, including the U.K. Department for International Development (DFID). Last week’s event supported the broad goals of DFID’s [Expert Advisory Call Down Service (EACDS) Lot B: Resilience and Response to Crisis](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises), under which DAI provides rapid-response expertise and advice [\[BM1\]](#_msocom_1) to DFID and other entities.
 
 ![EACDS_Story_Image.jpg](/uploads/EACDS_Story_Image.jpg)
 
-'Risk Finance Panelists (from left to right): Daniel Clarke (chair) - UK Government Actuary's Department, Swenja Surminski - London School of Economics, Daniel Stander - Risk Management Solutions, Carmine Galasso - UCL, Sophie Evans - Willis Towers Watson, Ric Goodman - DAI'
-<!--more-->
+`Risk Finance Panelists (left to right): Daniel Clarke (chair) - UK Government Actuary's Department, Swenja Surminski  - London School of Economics, Daniel Stander - Risk Management Solutions, Carmine Galasso - UCL, Sophie Evans - Willis Towers Watson
+Ric Goodman - DAI.`
 
 Risk financing typically utilizes private-sector approaches, including insurance or bonds in which investors can expect a return as long as no major crisis occurs during the investment term. In contrast, the standard model for funding relief efforts is through appeals for donations after a disaster strikes. Risk financing approaches could enable faster and better planned crisis response, with funding already in place and assured under contract, thereby sparing donor grant funds for other uses.
 
