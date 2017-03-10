@@ -1,5 +1,5 @@
 ---
-title: 'Worldwide—Expert Advisory Call Down Services (EACDs) Lot B: Strengthening
+title: 'Worldwide—Expert Advisory Call Down Services (EACDS) Lot B: Strengthening
   Resilience and Response to Crises'
 date: 2017-03-04 02:41:00 Z
 summary: Crises such as natural disasters, violent conflicts, and disease outbreaks
