@@ -1,7 +1,7 @@
 ---
-title: Kurt olson
+title: Kurt Olsson
 date: 2017-03-01 15:38:00 Z
-lastname: Olson
+lastname: Olsson
 summary: Kurt has 30 years of experience in the public, private, and nonprofit sectors
   focused primarily on business development, marketing, and public relations.
 job-title: Vice President, Global Strategic Marketing
