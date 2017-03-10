@@ -33,7 +33,7 @@ The goal of [HSNP2](http://www.hsnp.or.ke/) is to continue to reduce poverty, hu
 
 * Agree with stakeholders to recertification process for cash transfers
 
-### Select Results, Inception Phase
+### Select Results
 
 * Activated the [HSNP Dashboard](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/), allowing real time data about cash transfers and the process to be transferred online to and from field-level staff, improving service.
 
