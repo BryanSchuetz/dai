@@ -20,7 +20,8 @@ Risk financing seeks to put reliable funding for response efforts in place in ad
 
 ![EACDS_Story_Image.jpg](/uploads/EACDS_Story_Image.jpg)
 
-Risk Finance Panelists (from left to right): Daniel Clarke (chair) - UK Government Actuary's Department, Swenja Surminski - London School of Economics, Daniel Stander - Risk Management Solutions, Carmine Galasso - UCL, Sophie Evans - Willis Towers Watson, Ric Goodman - DAI
+'Risk Finance Panelists (from left to right): Daniel Clarke (chair) - UK Government Actuary's Department, Swenja Surminski - London School of Economics, Daniel Stander - Risk Management Solutions, Carmine Galasso - UCL, Sophie Evans - Willis Towers Watson, Ric Goodman - DAI'
+<!--more-->
 
 Risk financing typically utilizes private-sector approaches, including insurance or bonds in which investors can expect a return as long as no major crisis occurs during the investment term. In contrast, the standard model for funding relief efforts is through appeals for donations after a disaster strikes. Risk financing approaches could enable faster and better planned crisis response, with funding already in place and assured under contract, thereby sparing donor grant funds for other uses.
 
