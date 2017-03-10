@@ -2,7 +2,7 @@
 title: John Lindsay
 date: 2017-03-10 20:09:00 Z
 published: false
-Lastname: Lindsay
+lastname: Lindsay
 summary: John Lindsay leads DAI’s Workforce Development and Youth practice, specializing
   in developing market-driven products and services that improve competitiveness for
   enterprises and employment opportunities for youth.
@@ -12,6 +12,7 @@ solutions:
 - Governance
 - Economic Growth
 - 
+Lastname: Lindsay
 ---
 
 John Lindsay leads DAI’s Workforce Development and Youth practice, specializing in developing market-driven products and services that improve competitiveness for enterprises and employment opportunities for youth. The focus is on cross-cutting, holistic programming that delves into employment, competitiveness, training, governance, education and the like. A key piece of this is incorporating demand driven workforce development in and across sectors.
