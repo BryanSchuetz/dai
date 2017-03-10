@@ -3,7 +3,9 @@ title: 'Worldwide—Expert Advisory Call Down Services (EACDS) Lot B: Strengthen
   Resilience and Response to Crises'
 date: 2017-03-04 02:41:00 Z
 summary: Crises such as natural disasters, violent conflicts, and disease outbreaks
-  continue to affect more and more people across the world, resulting in increased
+  continue to affect large numbers of people across the world, with long-term stresses
+  such as climate change making extreme weather events more common and sapping the
+  reserves of disaster-affected communities. Such strains have resulted in increased
   migration, unstable states, protracted humanitarian interventions, and expensive
   rebuilding efforts. In addition to the toll of human suffering, the costs associated
   with responding to such crises can strain the entire humanitarian response system,
