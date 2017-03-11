@@ -23,7 +23,7 @@
     "gulp": "",
     "browser-sync": "2.12.5",
     "hygienist-middleware": "",
-    "gulp-shell": "0.6.0",
+    "gulp-shell": "0.5.2",
     "gulp-uglify": ""
   }
 }
