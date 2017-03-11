@@ -9,7 +9,7 @@ projects: 'Worldwide—Expert Advisory Call Down Services (EACDS) Lot B: Strengt
   Resilience and Response to Crises'
 clients: U.K. Department for International Development
 summary: With the University College of London Institute of Risk and Disaster Reduction,
-  DAI last week held a panel discussion on effective financial planning for disasters,
+  DAI recently held a panel discussion on effective financial planning for disasters,
   titled “Risk Financing for the Developing World.”
 ---
 
