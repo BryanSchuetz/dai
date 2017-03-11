@@ -15,7 +15,7 @@ summary: With the University College of London Institute of Risk and Disaster Re
 
 With the University College of London Institute of Risk and Disaster Reduction, DAI this week held a panel discussion on effective financial planning for disasters, titled “Risk Financing for the Developing World.”
 
-Risk financing seeks to put reliable funding for response efforts in place in advance of a natural disaster, disease outbreak, or other crisis, and is a topic of increasing interest for the international donor community, including the U.K. Department for International Development (DFID). Last week’s event supported the broad goals of DFID’s [Expert Advisory Call Down Service (EACDS) Lot B: Resilience and Response to Crisis](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises), under which DAI provides rapid-response expertise and advice [\[BM1\]](#_msocom_1) to DFID and other entities.
+Risk financing seeks to put reliable funding for response efforts in place in advance of a natural disaster, disease outbreak, or other crisis, and is a topic of increasing interest for the international donor community, including the U.K. Department for International Development (DFID). Last week’s event supported the broad goals of DFID’s [Expert Advisory Call Down Service (EACDS) Lot B: Resilience and Response to Crisis](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises), under which DAI provides rapid-response expertise and advice to DFID and other entities.
 
 ![EACDS_Story_Image.jpg](/uploads/EACDS_Story_Image.jpg)
 
@@ -33,12 +33,6 @@ The discussion was chaired by Daniel Clarke of the Government Actuary’s Depart
 
 “One of the ways we try to reduce the impact of severe drought is by scaling up coverage of cash transfers to families in northern Kenya as soon as pre-agreed triggers are met,” said Goodman. “Having this cash on hand right away can help families mitigate immediate hardships that can otherwise lead to detrimental coping measures, such as selling off potentially valuable livestock at a low price just to survive.”
 
-The event brought together more than 200 attendees,[\[BM2\]](#_msocom_2) including representatives from across DFID and other U.K. Government agencies, universities, the insurance industry, and development and humanitarian organizations, including many of DAI’s more than 60 partners on the EACDS Lot B service.
+The event brought together more than 200 attendees, including representatives from across DFID and other U.K. Government agencies, universities, the insurance industry, and development and humanitarian organizations, including many of DAI’s more than 60 partners on the EACDS Lot B service.
 
 A summary of key takeaways and a podcast of the discussion will be available soon on the [DAI Know How Resilience Learning Blog](http://daiknowhowlab-resilience.org/).
-
----
-
-[\[BM1\]](#_msoanchor_1)Is this a good interpretation? Just trying to think of a way to make it more relatable to average reader?
-
-[\[BM2\]](#_msoanchor_2)How many attendees?
