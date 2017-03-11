@@ -1,4 +1,16 @@
 
+- title: "Digital Insights Bangladesh: How Urban Youth Stay Connected"
+  pub: "Digital"
+  date: 2017-03-08
+  link: "https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html"
+  summary: "It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and he four of his classmates are DAI’s street team for our first-ever Digital Insights study in South Asia.
+
+
+Digital Insights data collectors gathering information from students in Mymensingh."
+  tags:
+    - digital 
+    - Digital Insights 
+
 - title: "Ecosystem Insights: How Trade Associations in Rural Afghanistan Use Mobile Tech"
   pub: "Digital"
   date: 2017-03-02
@@ -330,16 +342,6 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   date: 2016-09-22
   link: "https://dai-global-digital.com/from-data-to-knowledge-applying-schema-agnostic-systems-modeling-to-development-challenges.html"
   summary: "By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement."
-  tags:
-    - digital 
-    - Think Piece 
-    - Data 
-
-- title: "Building Cluster Maps with the AidData API"
-  pub: "Digital"
-  date: 2016-09-14
-  link: "https://dai-global-digital.com/building-cluster-maps-with-the-aiddata-api.html"
-  summary: "AidData is an awesome organization. It has built a lightning-fast application program interface (API) that exposes a massive amount of structured data about aid finance, projects, locations, and sources of funding. More broadly—and quoted from its Twitter bio—AidData, a research and innovation lab at the College of William &amp; Mary, is “providing tools and services to make development finance more transparent and effective.” Its API is one incredible step toward that admirable goal."
   tags:
     - digital 
     - Think Piece 

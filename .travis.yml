@@ -12,7 +12,7 @@ cache:
 
 script:
   - npm install
-  - gulp aggregate
+  # - gulp aggregate
   - bundle install
   - JEKYLL_ENV=prod bundle exec jekyll build
 
