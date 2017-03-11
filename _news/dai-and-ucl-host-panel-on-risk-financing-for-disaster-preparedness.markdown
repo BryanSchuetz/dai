@@ -13,9 +13,9 @@ summary: With the University College of London Institute of Risk and Disaster Re
   titled “Risk Financing for the Developing World.”
 ---
 
-With the University College of London Institute of Risk and Disaster Reduction, DAI this week held a panel discussion on effective financial planning for disasters, titled “Risk Financing for the Developing World.”
+With the University College of London Institute of Risk and Disaster Reduction, DAI recently held a panel discussion on effective financial planning for disasters, titled “Risk Financing for the Developing World.”
 
-Risk financing seeks to put reliable funding for response efforts in place in advance of a natural disaster, disease outbreak, or other crisis, and is a topic of increasing interest for the international donor community, including the U.K. Department for International Development (DFID). Last week’s event supported the broad goals of DFID’s [Expert Advisory Call Down Service (EACDS) Lot B: Resilience and Response to Crisis](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises), under which DAI provides rapid-response expertise and advice to DFID and other entities.
+Risk financing seeks to put reliable funding for response efforts in place in advance of a natural disaster, disease outbreak, or other crisis, and is a topic of increasing interest for the international donor community, including the U.K. Department for International Development (DFID). The event supported the broad goals of DFID’s [Expert Advisory Call Down Service (EACDS) Lot B: Resilience and Response to Crisis](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises), under which DAI provides rapid-response expertise and advice to DFID and other entities.
 
 ![EACDS_Story_Image.jpg](/uploads/EACDS_Story_Image.jpg)
 
