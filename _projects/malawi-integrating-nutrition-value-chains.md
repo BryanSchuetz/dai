@@ -20,7 +20,7 @@ country:
 layout: project
 ---
 
-DAI and partners Michigan State University and Save the Children, focused on inclusive value chain building in Malawi and smallholders’ decision-making on which crops to plant and consume, acknowledging that smallholders operate under short horizons with limited assets and coping strategies for handling fluctuations in food and income.
+DAI and our partners, Michigan State University and Save the Children, focused on inclusive value chain building in Malawi and smallholders’ decision-making on which crops to plant and consume, acknowledging that smallholders operate under short horizons with limited assets and coping strategies for handling fluctuations in food and income.
 
 The project promoted [gender-equitable](http://dai-global-developments.com/articles/including-men-and-farmers-to-promote-nutrition-change-behaviors/), agriculture-led, integrated economic growth approaches to increase the competitiveness of the legume and dairy value chains; improved productivity through soil and water management practices; reduced chronic under-nutrition; fostered innovation in agricultural value chains; and developed the capacity of local organizations and systems to promote climate change resilience.
 
@@ -30,10 +30,10 @@ The project was also the U.S. Agency for International Development’s implement
 
 ### Sample Activities
 
-* Invested in the competitiveness of the legume and dairy value chains where large numbers of smallholders participate, nearly three-quarters of whom are under the poverty line of $1.25 per day.
+* Invest in the competitiveness of the legume and dairy value chains where large numbers of smallholders participate, nearly three-quarters of whom are under the poverty line of $1.25 per day.
 
-* Linked increased market-oriented production of legumes and dairy to household consumption and improved nutrition.
+* Link increased market-oriented production of legumes and dairy to household consumption and improved nutrition.
 
-* Strengthened Malawian agriculture-related organizations, providing indigenous institutions, both government and nongovernmental, with the capacity to sustainably implement project components.
+* Strengthen Malawian agriculture-related organizations, providing indigenous institutions, both government and nongovernmental, with the capacity to sustainably implement project components.
 
-* Supported community programs targeting [behavioral change in nutrition](http://dai-global-developments.com/articles/indigenous-gardens-improving-nutrition-while-easing-the-load/).
+* Support community programs targeting [behavioral change in nutrition](http://dai-global-developments.com/articles/indigenous-gardens-improving-nutrition-while-easing-the-load/).
