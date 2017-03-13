@@ -36,4 +36,4 @@ To learn more about how the DAI EACDS team can help your department or organisat
 
 * Manage all commissioned assignments on behalf of DFID, including contract placement and management, financial management, delivery and quality control, and duty of care.
 
-* Promote learning materials for a wider audience through digital communications and social media.
+* [Promote](https://www.dai.com/news/dai-and-ucl-host-panel-on-risk-financing-for-disaster-preparedness) learning materials for a wider audience through digital communications and social media.
