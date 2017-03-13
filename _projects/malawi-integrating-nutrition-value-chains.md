@@ -37,3 +37,9 @@ The project was also the U.S. Agency for International Development’s implement
 * Strengthen Malawian agriculture-related organizations, providing indigenous institutions, both government and nongovernmental, with the capacity to sustainably implement project components.
 
 * Support community programs targeting [behavioral change in nutrition](http://dai-global-developments.com/articles/indigenous-gardens-improving-nutrition-while-easing-the-load/).
+
+### Select Results
+
+* Reached more than 1.7 million direct and indirect [beneficiaries](https://www.usaid.gov/news-information/frontlines/march-april-2017/sell-some-keep-some-invest-some-mantra), members of some 321,000 rural households.
+
+* Increased the number of soybean farmers using double-row planting by 56 percent and groundnut farmers using the improved method by 41 percent.
