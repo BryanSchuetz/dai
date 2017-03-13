@@ -43,3 +43,7 @@ The project was also the U.S. Agency for International Development’s implement
 * Reached more than 1.7 million direct and indirect [beneficiaries](https://www.usaid.gov/news-information/frontlines/march-april-2017/sell-some-keep-some-invest-some-mantra), members of some 321,000 rural households.
 
 * Increased the number of soybean farmers using double-row planting by 56 percent and groundnut farmers using the improved method by 41 percent.
+
+* Improved nutritional status among children under the age of 5. Stunting dropped from 47.3 percent to 35.7 percent over the life of the project.
+
+* The prevalence of underweight children declined from 13 percent in 2014 to 10.3 percent in 2016.
