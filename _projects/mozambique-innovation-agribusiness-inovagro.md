@@ -1,10 +1,9 @@
 ---
 title: Mozambique—Innovation for Agribusiness (InovAgro I, II)
 date: 2016-01-21 22:40:00 Z
-summary: Formal commercial actors are needed to sustain and expand agricultural value
-  chains. Poor farmers, either individually or within groups, cannot effectively penetrate
-  international and formal markets without the formal intermediaries involved in quality
-  management, bulking, and export.
+summary: In Northern Mozambique, small-scale farmers dominate agricultural production
+  but work at subsistence level. InovAgro increases small farmers’ revenue by facilitating
+  sustainable changes in the agricultural market.
 start: 2010
 end: 2017
 client: Swiss Agency for Development and Cooperation
@@ -61,6 +60,6 @@ The second phase of InovAgro started in January 2014 and aims to assist 15,000 p
 
 * Assisted 2,900 small-scale farmers to participate in Village Savings and Loans Associations.
 
-* Ten mechanisation service providers provided services to mor than 250 smallholder farmers and organised extension visits to 2,400 farmers.
+* Ten mechanization service providers provided services to more than 250 smallholder farmers and organized extension visits to 2,400 farmers.
 
 * Facilitated improved business environment for the seed sector.
