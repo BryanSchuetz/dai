@@ -1,6 +1,7 @@
 ---
 title: Mozambique—Innovation for Agribusiness (InovAgro I, II)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: In Northern Mozambique, small-scale farmers dominate agricultural production
   but work at subsistence level. InovAgro increases small farmers’ revenue by facilitating
   sustainable changes in the agricultural market.
@@ -22,7 +23,7 @@ Launched in 2011, InovAgro was initially named the Private Sector Led Agricultur
 
 The second phase of InovAgro started in January 2014 and aims to assist 15,000 poor farmers—including 6,000 women—living in the provinces of Cabo Delgado, Nampula, and Zambezia. On, average, these target beneficiaries have six members in the households, grow at least three food crops, and have no land titles. InovAgro is building up the capacity of seed companies and input suppliers to drive extension services to these and other smallholders. The project works with five value chains: soya beans, pigeon peas, groundnuts, sesame, and maize.
 
-![](/assets/images/projects/INOVAGRO.jpg)
+<iframe src="https://DAIGlobal.exposure.co/the-seeds-of-transformation?embed=true" style="width:100%;height:550px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/the-seeds-of-transformation">The Seeds of Change</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a>
 
 ### Sample Activities
 
