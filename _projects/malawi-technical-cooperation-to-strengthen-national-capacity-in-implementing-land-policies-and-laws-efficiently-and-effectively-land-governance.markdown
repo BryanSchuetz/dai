@@ -2,7 +2,6 @@
 title: Malawi—Technical Cooperation to Strengthen National Capacity in Implementing
   Land Policies and Laws Efficiently and Effectively (Land Governance)
 date: 2017-03-13 17:17:00 Z
-published: false
 summary: The overall objective of the Malawi Land Governance programme is to improve
   people’s livelihoods, with a particular emphasis on the rural areas, through sustainable
   agricultural development.
