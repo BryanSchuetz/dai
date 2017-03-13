@@ -14,3 +14,5 @@ country: Malawi
 ---
 
 The overall objective of the Malawi Land Governance programme is to improve people’s livelihoods, with a particular emphasis on the rural areas, through sustainable agricultural development. Our team is focused on developing and implementing land policy that will improve the overall land governance framework. Our function is to serve both advisory and capacity building roles: helping to ensure the government in Malawi has the capacity to review and further develop land policy, legal reforms, and develop processes and procedures to be implemented at the national level.
+
+Sample Activities
