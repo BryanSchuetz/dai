@@ -24,7 +24,7 @@ Crises such as natural disasters, violent conflicts, and disease outbreaks conti
 
 To better assist the world’s poorest and most vulnerable people to deal with shocks, adapt to change, and mitigate risk, the U.K. Department for International Development (DFID) has designed the Expert Advisory Call Down Services (EACDS) Lot B: Strengthening Resilience and Response to Crises. EACDS is a technical advisory call down service which provides rapid-response, expert support to DFID and other U.K. Government agencies and other donors. In managing Lot B, DAI will lead a 63-member consortium to respond to the varied requirements of service users-both to help them make risk-aware investments that take into account relevant future hazards, and to provide analysis and practical expertise to respond to crises where they occur. The service will also focus on synthesising and sharing lessons learned in cross-sectoral resilience building and crisis mitigation with U.K. Government stakeholders and the wider donor community. A strong emphasis will be placed on bridging the divide between humanitarian action and development by planning for shocks and stresses and ensuring that emergency responses do not ignore or disrupt development paths.
 
-To learn more about how the DAI EACDS team can help your department or organisation, contact [info@lotb-resilience.org ](mailto:info@lotb-resilience.org)or visit the [daiknowhowlab-resilience.org].(www.http://daiknowhowlab-resilience.org/)
+To learn more about how the DAI EACDS team can help your department or organisation, contact [info@lotb-resilience.org ](mailto:info@lotb-resilience.org)or visit [daiknowhowlab-resilience.org].(www.http://daiknowhowlab-resilience.org/)
 
 **Sample Activities**
 
