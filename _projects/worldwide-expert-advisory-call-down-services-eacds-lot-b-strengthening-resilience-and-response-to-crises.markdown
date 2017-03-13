@@ -17,7 +17,6 @@ solutions:
 - Conflict and Vulnerability Analysis
 - Climate Change Adaptation and Mitigation
 - Stability
-regions: Worldwide
 ---
 
 Crises such as natural disasters, violent conflicts, and disease outbreaks continue to affect large numbers of people across the world, with long-term stresses such as climate change making extreme weather events more common and sapping the reserves of disaster-affected communities. Such strains have resulted in increased migration, unstable states, protracted humanitarian interventions, and expensive rebuilding efforts. In addition to the toll of human suffering, the costs associated with responding to such crises can strain the entire humanitarian response system, while subsequent regional instability can develop into security threats with far-reaching consequences.
