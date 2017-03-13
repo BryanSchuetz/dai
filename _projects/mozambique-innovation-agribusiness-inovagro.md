@@ -62,4 +62,4 @@ The second phase of InovAgro started in January 2014 and aims to assist 15,000 p
 
 * Ten mechanization service providers provided services to more than 250 smallholder farmers and organized extension visits to 2,400 farmers.
 
-* Facilitated improved business environment for the seed sector.
+* Facilitated improved business environment for the seed sector. 
