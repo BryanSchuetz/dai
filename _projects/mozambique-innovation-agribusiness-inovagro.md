@@ -27,39 +27,25 @@ The second phase of InovAgro started in January 2014 and aims to assist 15,000 p
 ## Sample Activities
 
 * Increase access to certified seeds and other inputs.
-
 * Help suppliers and output buyers develop embedded extension services.
-
 * Strengthen farmers’ associations.
-
 * Facilitate increased mechanization services.
-
 * Support establishment of agrodealer network.
-
 * Facilitate linkages between private sector seed companies and Government Seed Multiplication Agency.
-
 * Link formal financial institutions with targeted farmers.
-
 * Support community delimitation and formation of community land management committees.
 
 ### Select Results (InovAgro I)
 
 * Facilitated linkages between ACA and small and emerging farmers in Gurue district of Zambezia province, including development of an extension services program managed by ACA.
-
 * Working with local and regional research institutions, InovAgro facilitated the multiplication of new varieties of soya bean seed, which led to 175 tons of cheaper certified seed being sold to small farmers in the 2013-2014 season; assisted the seed company to engage directly with the farmers.
-
 * Hosted a national seminar on the seed sector in April 2014, leading to creation of the National Platform for Seed Dialogue, which comprises  stakeholders in the Government of Mozambique,  private seed multiplication and distribution industry, international donors, and research services.
 
 ### Select Results (InovAgro II)
 
 * Assisted more than 8,000 direct beneficiaries, with 6,000 smallholder farmers purchasing and using certified seeds.
-
 * Established 38 community-based retail outlets for certified seed.
-
 * Formed partnership between 10 input and output companies to help 2,000 farmers find new markets.
-
 * Assisted 2,900 small-scale farmers to participate in Village Savings and Loans Associations.
-
 * Ten mechanization service providers provided services to more than 250 smallholder farmers and organized extension visits to 2,400 farmers.
-
 * Facilitated improved business environment for the seed sector.
