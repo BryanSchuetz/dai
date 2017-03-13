@@ -12,12 +12,12 @@ layout: default
     {% for locale in page.regions limit:1 %}
       {% for region in site.regions %}
         {% if locale == region.title %}
-          <a href="{{region.url}}">{{ region.title }}</a>
+          <a href="{% if locale == 'Worldwide' %}/our-work/the-regions{% else %}{{region.url}}{% endif %}">{{ region.title }}</a>
         {% endif %}
       {% endfor %}
-      {% if locale == "Worldwide" %}
+      {% comment %}{% if locale == "Worldwide" %}
         <a href="/our-work/the-regions">Worldwide</a>
-      {% endif %}
+      {% endif %}{% endcomment %}
     {% endfor %}
   </p>
   <p class="project-detail"><strong>Country: </strong>{% for country in page.country %}{% unless forloop.last %}{{ country }}, {% else %}{{ country }}{% endunless %}{% endfor %}</p>

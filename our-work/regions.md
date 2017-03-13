@@ -8,7 +8,7 @@ redirect_from:
 
 Having worked in more than 150 countries since 1970, we have extensive networks and deep roots in every region of the world.
 
-{% for region in site.regions %}
+{% for region in site.regions limit:5 %}
 <div class="solution-block">
   <h2>{{ region.title }}</h2>
   <p>{{ region.summary }}</p>
