@@ -1,5 +1,5 @@
 ---
-title: Malawi Local Government Accountability and Performance (LGAP)
+title: Malawi—Local Government Accountability and Performance (LGAP)
 date: 2017-01-10 18:54:00 Z
 '2021': 
 summary: Over 20 years since its first multi-party elections, the government of Malwai
