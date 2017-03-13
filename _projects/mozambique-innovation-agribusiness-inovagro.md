@@ -1,7 +1,6 @@
 ---
 title: Mozambique—Innovation for Agribusiness (InovAgro I, II)
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: In Northern Mozambique, small-scale farmers dominate agricultural production
   but work at subsistence level. InovAgro increases small farmers’ revenue by facilitating
   sustainable changes in the agricultural market.
