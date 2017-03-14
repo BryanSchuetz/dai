@@ -8,11 +8,11 @@ summary: DAI officially unveiled its Brussels office last week with a series of 
 
 DAI officially unveiled its [Brussels office](https://www.dai.com/who-we-are/global-reach/brussels) last week with a series of events.
 
-Members of our European Commission (EC) team held a team strategy day to discuss our work in governance, private sector development, rural development, and energy and environment. A reception was held for more than 50 invitees, including EC staff and independent consultants. And finally, the DAI team attended presentations at the [European Union (EU)’s External Cooperation Info Point](http://ec.europa.eu/europeaid/infopoint_en) conference.
+Members of our European Commission (EC) team held a team strategy day to discuss our work in governance, private sector development, rural development, and energy and environment. A reception was held for more than 50 invitees, including EC staff and independent consultants. And finally, the DAI team attended presentations at the [European Union (EU)’s External Cooperation Infopoint](http://ec.europa.eu/europeaid/infopoint_en) conference.
 
 ![infopoint_02.jpg](/uploads/infopoint_02.jpg)
 
-`Members of the DAI staff attend the EU External Cooperation Info Point.`
+`Members of the DAI staff attend the EU External Cooperation Infopoint.`
 
 Conference speakers included private sector development expert Sergio Piazzardi, who spoke about leveraging the role of the private sector in development. He outlined key EU private sector policies and the funding mechanisms used to achieve EU external policy objectives.
 
