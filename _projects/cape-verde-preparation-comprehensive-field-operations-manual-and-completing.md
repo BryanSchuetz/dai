@@ -41,4 +41,4 @@ The Cape Verde Land project provided direct support for public outreach, adjudic
 
 * Promoted legal reforms and practices to protect women’s property rights, particularly in the case of de facto (unregistered) marriages.
 
-* Successful roll-out of a spatially enabled multipurpose cadaster, achieved by providing critical technical support to government agency in charge of the Land Management Information and Transaction System.
+* Rolled out a spatially enabled multipurpose cadaster, achieved by providing critical technical support to government agency in charge of the Land Management Information and Transaction System.
