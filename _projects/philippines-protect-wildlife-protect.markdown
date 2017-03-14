@@ -19,9 +19,9 @@ country: Philippines
 
 Environmental degradation and habitat destruction throughout the Philippines are not only harming wildlife but also undermining people’s livelihoods and creating social instability. In addition, wildlife poaching and trade continues to be a growing problem in the country, driven by poverty, porous borders, and weak law enforcement. It is within this context that the U.S. Agency for International Development (USAID) launched Protect, a multi-pronged program that will work to conserve biodiversity, protect wildlife, and sustain ecosystem services in ways that also improve the local population’s livelihoods and long-term well-being.
 
-Recognizing that the solutions to combatting wildlife trafficking and biodiversity loss in the Philippines are complex, DAI will take a holistic approach that includes supporting ecologically sustainable fisheries and income generating options for local communities, education and awareness campaigns, increased biodiversity research opportunities, and strong enforcement of environmental laws. Protect will promote solutions grounded in the local context of each community, taking into account which species are threatened, how populations are affected, and the capacity of local police and governments, in order to provide sustainable livelihood alternatives and promote lasting behavior change.
+Recognizing that the solutions to combatting wildlife trafficking and biodiversity loss in the Philippines are complex, DAI will take a holistic approach that includes supporting ecologically sustainable fisheries and income generating options for local communities, education and awareness campaigns, increased biodiversity research opportunities, and strong enforcement of environmental laws. Protect will promote solutions grounded in the local context of each community, taking into account which species are threatened, how populations are affected, and the capacity of local police and governments, to provide sustainable livelihood alternatives and promote lasting behavior change.
 
-![Philippines_Protect_Wildlife.jpg](/uploads/Philippines_Protect_Wildlife.jpg)
+<iframe src="https://player.vimeo.com/video/208299306" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **Sample Activities**
 
