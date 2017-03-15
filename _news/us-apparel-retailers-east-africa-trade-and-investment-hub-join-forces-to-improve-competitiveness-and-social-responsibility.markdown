@@ -18,13 +18,13 @@ summary: 'The American Apparel and Footwear Association (AAFA), which represents
   and retail. '
 ---
 
-The American Apparel and Footwear Association (AAFA), which represents more than 1,000 brands generating $361 billion in annual U.S. retail sales, has signed a partnership agreement with the East Africa Trade and Investment Hub (EATIH) to address constraints to competitiveness and expansion of the industry in East Africa. The partnership is projected to create up to 45,000 labor jobs in East Africa as well as jobs in the United States in trade, advertising, logistics, distribution, and retail. 
+The American Apparel and Footwear Association (AAFA), which represents more than 1,000 brands generating $361 billion in annual U.S. retail sales, has signed a partnership agreement with the [East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) (EATIH) to address constraints to competitiveness and expansion of the industry in East Africa. The partnership is projected to create up to 45,000 labor jobs in East Africa as well as jobs in the United States in trade, advertising, logistics, distribution, and retail. 
 
 The partnership will also work to institutionalize workplace standards required by U.S. importers. The agreement was forged by EATIH, a five-year program to bolster trade and investment that is funded by the U.S. Agency for International Development (USAID) and implemented by DAI. The partnership was announced in February in Las Vegas, Nevada, at MAGIC, the largest apparel trade show in North America.
 
 “The American apparel, footwear, and travel goods industry has an interest in ensuring that U.S. brands and goods are manufactured in accordance with best-in-class practices,” said AAFA President and CEO Rick Helfenbein. “We are pleased to partner with USAID’s East Africa Trade and Investment Hub on this important initiative.”
 
-“This partnership constitutes, in essence, the formalization of a symbiotic relationship between the U.S industry and East Africa,” said DAI’s Juan Estrada-Valle, EATIH Chief of Party. “Trade expansion, job creation, and economic growth will be the primary results for both.” 
+“This partnership constitutes, in essence, the formalization of a symbiotic relationship between the U.S industry and East Africa,” said DAI’s [Juan Estrada-Valle](https://www.dai.com/who-we-are/our-team/juan-estrada-valle), EATIH Chief of Party. “Trade expansion, job creation, and economic growth will be the primary results for both.” 
 
 ![DAI-News----EATIH,-Apparel-Agreement.jpg](/uploads/DAI-News----EATIH,-Apparel-Agreement.jpg)
 
@@ -40,7 +40,7 @@ The AAFA will represent the U.S. apparel industry by engaging East African gover
 
 ## Developing the Necessary Workforce
 
-In Kenya, approximately 800,000 young people enter the labor market every year, and 80 percent of unemployed Kenyans are below 35 years old, according to Sicily Kariuki, cabinet secretary for youth and gender affairs in the Ministry of Public Service. “The challenge of youth unemployment is compounded by the fact that 90 percent of all unemployed young people lack vocational skills,” she said.
+In Kenya, approximately 800,000 young people enter the labor market every year, and [80 percent of unemployed Kenyans are below 35 years old](https://www.theguardian.com/sustainable-business/2016/mar/02/tackling-youth-unemployment-in-kenya-through-public-private-collaboration), according to Sicily Kariuki, cabinet secretary for youth and gender affairs in the Ministry of Public Service. “The challenge of youth unemployment is compounded by the fact that 90 percent of all unemployed young people lack vocational skills,” she said.
 
 EATIH partners are recruiting and equipping young men and women with technical and soft skills to become productive textile workers, reducing staff turnover and enabling young people to become responsible community members. Workforce development has already begun in Kenya, where EATIH partners will train the first 2,000 sewing machine operators this year. 
 
