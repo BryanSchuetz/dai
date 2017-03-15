@@ -24,6 +24,6 @@ Lastly, the EC’s Camilla Hagstroem spoke about the European Agenda on Migratio
 
 DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the EC. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S. and U.K. operations.
 
-![brussels.jpg](/uploads/brussels.jpg)
+![new brussels.jpg](/uploads/new%20brussels.jpg)
 
-`DAI hosted a reception to network with clients, partners, and colleagues at the new Brussels office.`
+`DAI hosted a reception to network with clients, partners, and colleagues.`
