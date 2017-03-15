@@ -8,13 +8,10 @@ solutions:
 regions: Sub-Saharan Africa
 projects: East Africa Trade and Investment Hub
 clients: U.S. Agency for International Development
-summary: 'The American Apparel and Footwear Association (AAFA), which represents more
-  than 1,000 brands generating $361 billion in annual U.S. retail sales, has signed
-  a partnership agreement with the East Africa Trade and Investment Hub (EATIH) to
-  address constraints to competitiveness and expansion of the industry in East Africa.
-  The partnership is projected to create up to 45,000 labor jobs in East Africa as
-  well as jobs in the United States in trade, advertising, logistics, distribution,
-  and retail. '
+summary: 'The American Apparel and Footwear Association has signed a partnership agreement
+  with the East Africa Trade and Investment Hub. The partnership is projected to create
+  up to 45,000 labor jobs in East Africa as well as jobs in the United States in trade,
+  advertising, logistics, distribution, and retail. '
 ---
 
 The American Apparel and Footwear Association (AAFA), which represents more than 1,000 brands generating $361 billion in annual U.S. retail sales, has signed a partnership agreement with the [East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) (EATIH) to address constraints to competitiveness and expansion of the industry in East Africa. The partnership is projected to create up to 45,000 labor jobs in East Africa as well as jobs in the United States in trade, advertising, logistics, distribution, and retail. 
