@@ -21,11 +21,11 @@ The American Apparel and Footwear Association (AAFA), which represents more than
 
 The partnership will also work to institutionalize workplace standards required by U.S. importers. The agreement was forged by EATIH, a five-year program to bolster trade and investment that is funded by the U.S. Agency for International Development (USAID) and implemented by DAI. The partnership was announced in February in Las Vegas, Nevada, at MAGIC, the largest apparel trade show in North America.
 
+![DAI-News----EATIH,-Apparel-Agreement.jpg](/uploads/DAI-News----EATIH,-Apparel-Agreement.jpg)
+
 “The American apparel, footwear, and travel goods industry has an interest in ensuring that U.S. brands and goods are manufactured in accordance with best-in-class practices,” said AAFA President and CEO Rick Helfenbein. “We are pleased to partner with USAID’s East Africa Trade and Investment Hub on this important initiative.”
 
 “This partnership constitutes, in essence, the formalization of a symbiotic relationship between the U.S industry and East Africa,” said DAI’s [Juan Estrada-Valle](https://www.dai.com/who-we-are/our-team/juan-estrada-valle), EATIH Chief of Party. “Trade expansion, job creation, and economic growth will be the primary results for both.” 
-
-![DAI-News----EATIH,-Apparel-Agreement.jpg](/uploads/DAI-News----EATIH,-Apparel-Agreement.jpg)
 
 EATIH represents the flagship U.S. Government program for advancing trade that generates new markets for East African goods, creates jobs, and makes the business environment more attractive for private and foreign investment. The program also supports food security by facilitating much-needed trade across East Africa of staple foods such as cereals and pulses, and by creating nonfarm jobs that increase the incomes and resilience of rural households.
 
