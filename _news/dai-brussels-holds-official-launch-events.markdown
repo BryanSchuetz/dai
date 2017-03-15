@@ -14,7 +14,7 @@ Members of our European Commission (EC) team held a team strategy day to discuss
 
 `Members of the DAI staff attend the EU External Cooperation Infopoint.`
 
-Conference speakers included private sector development expert Sergio Piazzardi, who spoke about leveraging the role of the private sector in development. He outlined key EU private sector policies and the funding mechanisms used to achieve EU external policy objectives.
+Conference speakers included Sergio Piazzardi, EC Policy Officer from DEVCO C4, who spoke about leveraging the role of the private sector in development. He outlined key EU private sector policies and the funding mechanisms used to achieve EU external policy objectives.
 
 Joachim Knoth from the EC’s Directorate-General for International Cooperation and Development (DG DEVCO) spoke about responsible land governance and the importance of this work for food security, growth, social stability, human rights, and gender equality. He outlined the valuable work of the EU related to [land governance](https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance) in capacity building, administration, land grabbing, human rights, and legislation.
 
