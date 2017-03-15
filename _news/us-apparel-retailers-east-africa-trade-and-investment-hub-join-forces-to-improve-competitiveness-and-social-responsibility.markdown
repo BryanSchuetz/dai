@@ -23,6 +23,9 @@ The partnership will also work to institutionalize workplace standards required 
 
 ![DAI-News----EATIH,-Apparel-Agreement.jpg](/uploads/DAI-News----EATIH,-Apparel-Agreement.jpg)
 
+`AAFA President and CEO Rick Helfenbein, left, with DAI's Juan-Estrada-Valle after signing the partnership agreement.`
+<!--more-->
+
 “The American apparel, footwear, and travel goods industry has an interest in ensuring that U.S. brands and goods are manufactured in accordance with best-in-class practices,” said AAFA President and CEO Rick Helfenbein. “We are pleased to partner with USAID’s East Africa Trade and Investment Hub on this important initiative.”
 
 “This partnership constitutes, in essence, the formalization of a symbiotic relationship between the U.S industry and East Africa,” said DAI’s [Juan Estrada-Valle](https://www.dai.com/who-we-are/our-team/juan-estrada-valle), EATIH Chief of Party. “Trade expansion, job creation, and economic growth will be the primary results for both.” 
