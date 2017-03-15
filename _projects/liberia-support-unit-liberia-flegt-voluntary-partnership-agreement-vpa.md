@@ -30,24 +30,15 @@ The VPA also commits Liberia to reform its governance to secure the long-term su
 ### Sample Activities
 
 * Build capacity of both government and nongovernmental entities in Liberia for effective VPA implementation based on needs assessment.
-
 * Manage building of infrastructure and providing of equipment to support, enable, and enhance stakeholders’ work and contributions to the VPA process.
-
 * Work with Liberian counterparts to draft, initiate, and deliver regulations and guidelines required for VPA implementation.
 
 ### Select Results
 
 * Managed the renovation of the Forestry Development Authority building damaged during civil war, including structural reconstruction and reinstallation of electrical and plumbing systems, providing the authority with a central location from which to carry out its duties, including VPA commitments.
-
-
 * Consulted with key stakeholders to revise the Code of Forest Harvesting Practices, setting parameters for legal and sustainable management of forest resources in a manner that was clear, consistent, and practical for companies to comply with.
-
 * Provided training and equipment to the Forestry Development Authority’s GIS Unit to develop accurate forest maps for sustainable resource management planning, monitoring, and prevention of illegal logging outside of concession areas.
-
 * Supported the establishment of the NGO Coalition Secretariat to provide civil society with representation in the VPA process and engage with civil society organizations in the monitoring of, and accountability for, forest governance.
-
 * Collaborated with the Liberia Timber Association to establish a Secretariat to promote private sector engagement in, and awareness of the VPA.
-
 * Worked with various stakeholders, including the European Union, Forestry Development Authority, Ministry of Justice, private-sector partners, and civil society organizations to develop five timber-related regulations critical to reinforcing legal framework and meeting VPA requirements.
-
 * Facilitated the signing of a Memorandum of Understanding between the Forestry Development Authority and Ministry of Justice to strengthen cooperation; conducted workshops with Ministry of Justice to promote better enforcement of forestry laws.
