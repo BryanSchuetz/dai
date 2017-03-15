@@ -21,7 +21,7 @@ The American Apparel and Footwear Association (AAFA), which represents more than
 
 The partnership will also work to institutionalize workplace standards required by U.S. importers. The agreement was forged by EATIH, a five-year program to bolster trade and investment that is funded by the U.S. Agency for International Development (USAID) and implemented by DAI. The partnership was announced in February in Las Vegas, Nevada, at MAGIC, the largest apparel trade show in North America.
 
-![DAI-News----EATIH,-Apparel-Agreement.jpg](/uploads/DAI-News----EATIH,-Apparel-Agreement.jpg)
+![DAI-News----pic-1-7f54e0.jpg](/uploads/DAI-News----pic-1-7f54e0.jpg)
 
 `AAFA President and CEO Rick Helfenbein, left, with DAI's Juan Estrada-Valle after signing the partnership agreement.`
 <!--more-->
@@ -47,6 +47,8 @@ In Kenya, approximately 800,000 young people enter the labor market every year, 
 EATIH partners are recruiting and equipping young men and women with technical and soft skills to become productive textile workers, reducing staff turnover and enabling young people to become responsible community members. Workforce development has already begun in Kenya, where EATIH partners will train the first 2,000 sewing machine operators this year. 
 
 As the industry realizes the return on investment, EATIH and partners plan to scale up and roll out the program to Ethiopia, Rwanda, Tanzania, and Uganda to create a sustainable model for workforce development that provides American companies with competitive sourcing destinations.
+
+![DAI-News-pic-2.jpg](/uploads/DAI-News-pic-2.jpg)
 
 ## Forging Policy for Trade, Investment
 
