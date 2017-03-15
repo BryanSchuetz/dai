@@ -54,6 +54,5 @@ In the apparel, footwear, and travel goods industry, East African companies stru
 
 EATIH is assisting East African governments and businesses to institutionalize labor, worker safety, social, and environmental standards required by AAFA members and others. Harmonizing and championing a uniform set of standards will benefit U.S. apparel companies committed to sourcing from East Africa. The East African apparel sector’s ability to attract investment and sourcing depends on an attractive formula of policy, capacity, standards, and access to affordable inputs and services. EATIH is working to ensure the East African public and private sectors secure this formula.
 
-> "Incorporating the American Apparel and Footwear Association with [EATIH] directly supports the competitiveness and sustained growth of American firms. Importantly, at the same time this partnership also addresses livelihoods, incomes, and stability in parts of East Africa that are vulnerable to drought, hunger, and extremism."
-DAI’s Juan Estrada Valle, Chief of Party
-USAID East Africa Trade and Investment Hub
+> *"Incorporating the American Apparel and Footwear Association with [EATIH] directly supports the competitiveness and sustained growth of American firms. Importantly, at the same time this partnership also addresses livelihoods, incomes, and stability in parts of East Africa that are vulnerable to drought, hunger, and extremism."* **DAI’s Juan Estrada Valle, Chief of Party
+USAID East Africa Trade and Investment Hub**
