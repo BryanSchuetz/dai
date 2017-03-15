@@ -2,7 +2,6 @@
 title: U.S. Apparel Retailers, East Africa Trade and Investment Hub Join Forces to
   Improve Competitiveness and Social Responsibility
 date: 2017-03-15 14:04:00 Z
-published: false
 solutions:
 - Economic Growth
 - Trade
