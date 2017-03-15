@@ -3,6 +3,9 @@ title: U.S. Apparel Retailers, East Africa Trade and Investment Hub Join Forces 
   Improve Competitiveness and Social Responsibility
 date: 2017-03-15 14:04:00 Z
 published: false
+solutions:
+- Economic Growth
+- Trade
 regions: Sub-Saharan Africa
 projects: East Africa Trade and Investment Hub
 clients: U.S. Agency for International Development
