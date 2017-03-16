@@ -1,23 +1,23 @@
 ---
 title: Worldwide—Business Environment Reform Facility (BERF)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
-start: 2016
-end: 2019
-regions:
-- Worldwide
-country:
-- Regional
-solutions:
-- Business Environment Reform
-- Corporate Sustainability
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'The U.K. Department for International Development (DFID) leads a growing
   number of business environment reform programmes around the world to help small
   firms start, grow, and create jobs in their communities.
 
 '
+start: 2016
+end: 2019
+client: U.K. Department for International Development
+solutions:
+- Business Environment Reform
+- Economic Growth
+- 
+regions:
+- Worldwide
+country:
+- Regional
+layout: project
 ---
 
 The U.K. Department for International Development (DFID) leads a growing number of business environment reform programmes around the world to help small firms start, grow, and create jobs in their communities. As DFID expands this work as part of its Business Environment for Economic Development program, it has set up the Business Environment Reform Facility to provide its country offices with access to expert advice on program design, implementation, and monitoring and evaluation.
