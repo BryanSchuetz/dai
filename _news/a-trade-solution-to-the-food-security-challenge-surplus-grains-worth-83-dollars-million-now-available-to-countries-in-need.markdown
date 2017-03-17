@@ -17,6 +17,8 @@ A food security milestone was achieved this month with the signing of contracts 
 
 The forum attracted more than 40 sellers from throughout Ethiopia and more than 50 buyers from five East African countries. It was hosted by the Eastern Africa Grain Council (EAGC) in partnership with the Addis Ababa Chamber of Commerce and Sectoral Associations. The event was supported by the U.S. Agency for International Development (USAID)-funded East Africa Trade and Investment Hub (EATIH), which is implemented by DAI.
 
+![DAI-News----EATIH-grains-pic-4-c6b7b4.jpg](/uploads/DAI-News----EATIH-grains-pic-4-c6b7b4.jpg)
+
 These transactions support the core of the U.S. Government’s Feed the Future Presidential Initiative by expanding food trade and markets and by enabling the private sector to lead the process. The volumes traded are projected to supply the food needs of 1.3 million households for six months in the recipient countries, according to DAI’s Juan Estrada-Valle, Chief of Party of USAID/EATIH.
 
 “By promoting intraregional trade, we put the private sector in the driver's seat to address food shortages and hunger in East Africa,” Estrada-Valle said. “Once we made this connection and supported the private sector to address policy issues, the floodgate opened, with open borders in East and Southern Africa to give rise to more stable markets that attract investment.”
@@ -24,6 +26,8 @@ These transactions support the core of the U.S. Government’s Feed the Future P
 The business-to-business transactions were facilitated by the removal of cross-border trade barriers and acknowledgment by East African governments that regional trade can drive national economic growth, according to EAGC Executive Director Gerald Masila, who signed 10 new Ethiopian members to his organization during the event.
 
 “EAGC is gunning her efforts to ensure efficient and sustained trade amongst grain players within eastern and southern Africa,” Masila said. “This is through corporate engagement and facilitation of collaborative platforms of both governments and the private sector, which include business-to-business, government-to-government, and business-to-government linkages.”
+
+![DAI-News----EATIH-grain-pic-3.jpg](/uploads/DAI-News----EATIH-grain-pic-3.jpg)
 
 ## Drought, Hunger Compel Solutions
 
