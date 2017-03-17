@@ -2,6 +2,15 @@
 title: 'A Trade Solution to the Food Security Challenge: Surplus Grains Worth $83
   Million Now Available to Countries in Need'
 date: 2017-03-17 19:33:00 Z
+solutions:
+- Agriculture and Food Security
+- Economic Growth
+regions: Sub-Saharan Africa
+projects: East Africa Trade and Investment Hub
+clients: U.S. Agency for International Development
+summary: 'A food security milestone was achieved this month with the signing of contracts
+  to sell 279,000 metric tons of food grains from areas of surplus in East Africa
+  to areas of need. '
 ---
 
 A food security milestone was achieved this month with the signing of contracts to sell 279,000 metric tons of food grains from areas of surplus in East Africa to areas of need. The 58 contracts to sell staple crops from Ethiopia to its drought-stricken neighbors were executed at the first multilateral grain trade facilitation forum in Addis Ababa, Ethiopia. The sales totaled approximately US$83 million and included deals for maize, beans, soya, chick pea, sorghum, millet, rice, and sesame.
