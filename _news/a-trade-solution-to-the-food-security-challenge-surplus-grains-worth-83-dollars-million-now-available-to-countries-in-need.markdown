@@ -25,7 +25,7 @@ The business-to-business transactions were facilitated by the removal of cross-b
 
 “EAGC is gunning her efforts to ensure efficient and sustained trade amongst grain players within eastern and southern Africa,” Masila said. “This is through corporate engagement and facilitation of collaborative platforms of both governments and the private sector, which include business-to-business, government-to-government, and business-to-government linkages.”
 
-##Drought, Hunger Compel Solutions
+## Drought, Hunger Compel Solutions
 
 Kenya’s East African Community (EAC) trading partners, Tanzania and Uganda, experienced low rainfall this past year, resulting in no tradeable surplus of maize. Kenyan consumers were suffering, with the supermarket price of maize flour—a dietary mainstay—rising by 30 percent from November 2016 to January 2017. But to the north, Ethiopia, which is not an EAC member, realized a bumper crop and surplus of more than 1 million metric tons of maize plus beans and other pulses.
 
@@ -39,8 +39,5 @@ The forum is expected to open doors to future events that link food grain buyers
 
 BREAKOUT BOX
 
-<aside>Deals Spur Smarter Farming
-
-For decades, African countries have been slow to adopt agricultural technologies, including improved seed varieties, fertilizers, and agro-chemicals, with farmers generally following a conservative approach and investing in technologies only when risk is reduced.
-
+<aside>**Deals Spur Smarter Farming:**For decades, African countries have been slow to adopt agricultural technologies, including improved seed varieties, fertilizers, and agro-chemicals, with farmers generally following a conservative approach and investing in technologies only when risk is reduced.
 “Since market risk is ubiquitous in countries with arbitrary trade policies, agriculture in those countries is trapped in a vicious circle,” Estrada-Valle said. “I believe—as does USAID—that enabling intraregional trade and reducing market uncertainty will have a positive effect on technology adoption, productivity, and ultimately on self-reliance.”</aside> 
