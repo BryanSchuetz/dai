@@ -8,7 +8,7 @@ summary: With more than one billion people around the world living without relia
   under-electrified areas, they often lack the critical information on market potential,
   electrical infrastructure, socioeconomic contexts, and energy demand required to
   make prudent investment decisions.
-start: 2015
+start: 2016
 end: 2016
 client: World Bank
 solutions:
@@ -25,10 +25,8 @@ DAI Energy and Resources Group (DAI/ERG) designed a methodology to help the Worl
 
 **Select Results**
 
-* Leveraged our experience assessing consumers’ electricity access and ability to pay to develop a data framework for characterizing off-grid markets based on demographics, energy access, energy demand, financing and payments, productive uses, land use, and renewable potential.
+* Leveraged our experience assessing consumers’ electricity access and ability to pay for electricity services to develop a data framework for characterizing off-grid markets based on demographics, energy access, energy demand, financing and payments, productive uses, land use, and renewable potential.
 
 * Utilized open source data sets to advise on strategies for identifying areas without electrical grid service and calculating basic energy expenditure at a subnational level.
 
 * Combined datasets with solar irradiance data to provide investors with a decision-making tool to analyze and visualize market potential throughout Sub-Saharan Africa.
-
-* Provided built-in capability for industry experts and research institutions to upload useful data layers for customizable analysis.
