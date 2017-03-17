@@ -1,6 +1,7 @@
 ---
 title: Regional–Off-grid Energy Access Mapping in Sub-Saharan Africa
 date: 2017-03-17 18:09:00 Z
+published: false
 summary: With more than one billion people around the world living without reliable
   and affordable electricity, an increasing number of off-grid energy technologies
   and business models are emerging in an effort to close this global energy access
