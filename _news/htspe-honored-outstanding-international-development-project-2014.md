@@ -1,7 +1,7 @@
 ---
 title: HTSPE Honored for Outstanding International Development Project 2014
 date: 2014-04-11 18:05:00 Z
-summary: "[Rwanda Land Tenure Regularisation (LTR)][/our-work/projects/rwanda-support-land-tenure-regularisation],
+summary: "[Rwanda Land Tenure Regularisation (LTR)](/our-work/projects/rwanda-support-land-tenure-regularisation),
   an HTSPE-led project to increase land rights, stability, and economic opportunity,
   was named Outstanding International Development Project (non-physical) 2014 by the
   London-based trade organization British Expertise.\n"
