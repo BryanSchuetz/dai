@@ -3,6 +3,10 @@ title: DAI Invests in MobileODT, a Breakthrough Provider of Cervical Cancer Dete
   Tech
 date: 2017-03-21 17:57:00 Z
 published: false
+solutions:
+- Health
+- Innovation and Entrepreneurship
+summary: DAI today announced an investment in the mHealth service provider, MobileODT.
 ---
 
 DAI today announced an investment in the mHealth service provider, [MobileODT](http://www.mobileodt.com/). In turn, MobileODT will take advantage of DAI’s worldwide footprint to expand the global penetration of its flagship EVA System, which combines advanced optical technology with smartphone capabilities to bring affordable cancer detection services to underserved communities around the world.
