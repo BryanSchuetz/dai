@@ -1,26 +1,22 @@
 ---
 title: Ejonta Pashaj
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Pashaj
-regions:
-- Eastern Europe and Central Asia
-- Middle East and North Africa
+summary: Ejonta Pashaj learned of DAI through a public administration program DAI
+  was implementing in Albania. Ejonta says she was impressed with how DAI approaches
+  working with local governments, especially our emphasis on citizen participation
+  in municipal decision making.
+job-title: Global Practice Lead for Local Government
+image: "/assets/images/experts/Pashaj_Inner.jpg"
 solutions:
 - Economic Growth
 - Environment and Energy
 - Governance
 - Health
+regions:
+- Eastern Europe and Central Asia
+- Middle East and North Africa
 layout: expert
-image: "/assets/images/experts/Pashaj_Inner.jpg"
-summary: Ejonta Pashaj learned of DAI through a public administration program DAI
-  was implementing in Albania. Ejonta says she was impressed with how DAI approaches
-  working with local governments, especially our emphasis on citizen participation
-  in municipal decision making.
-job-title: Director, Economic Growth, Environment and Health, Middle East, North Africa,
-  and Afghanistan
-articles:
-- name: 
-  article_file: 
 ---
 
 Ejonta Pashaj learned of DAI through a public administration program DAI was implementing in Albania. Ejonta says she was impressed with how DAI approaches working with local governments, especially our emphasis on citizen participation in municipal decision making. When a job opportunity opened on the project, Ejonta applied and started her career as a governance specialist and program manager. Her areas of expertise include the design, implementation, and evaluation of citizen participation, community development, outreach, and anti-corruption strategies. She has helped to establish business improvement districts, citizen assistance centers, and one-stop permitting centers in Albania, Serbia, and Macedonia, and designed and delivered training on results-based public engagement in municipal decision making.
