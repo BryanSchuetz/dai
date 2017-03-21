@@ -1,7 +1,8 @@
 ---
 title: DAI Invests in MobileODT, a Breakthrough Provider of Cervical Cancer Detection
-  Tech
+  Technology
 date: 2017-03-20 17:57:00 Z
+published: false
 solutions:
 - Health
 - Innovation and Entrepreneurship
@@ -24,3 +25,9 @@ Initially, MobileODT’s EVA System is being deployed to tackle the leading caus
 Additionally, in the United States—where rape is one of the most underreported crime—the EVA System is used by Sexual Assault Nurse Examiners (SANEs) for forensic documentation after a sexual or domestic assault. The EVA System’s portability, HIPAA-compliant portal, and high-quality imaging allows SANEs to take images and collect patient information that is admissible in court. With the EVA System, SANEs can reach more victims of assault and document evidence efficiently and securely.
 
 Expanding cervical cancer screening services is difficult because the traditional technology is cumbersome, expensive, and dependent on expert operators. It also requires a continuous electricity supply and is hard to maintain, especially in developing countries. By contrast, the EVA System is relatively cheap, small, easy to transport, and makes use of the ubiquitous smartphone and its supply chain. Readily connected to the cloud, it facilitates the collection of biomedical images and other data for diagnostic, analytical, and other purposes.
+
+About MobileODT
+MobileODT is driven by a mission: to enable front line health providers in resource-limited areas to deliver affordable and accessible visual-based assessment and triage of diseases with connected medical devices. MobileODT’s first product, the EVA System, functions on its own as an enhanced visual assessment screening or alongside any cervical cancer treatment. As a practical solution to the challenges of resource-limited healthcare—and to enable the extension of care into medium-resource settings—the EVA System was built to be affordable and practical for the nurse or general practitioner at the point-of-care and point-of-treatment, everywhere. 
+
+About DAI
+Founded in 1970, DAI is a global development company with corporate offices in the United States, the United Kingdom, and Belgium. Named one of the world’s top 40 international development innovators, DAI works on the front lines of international development, tackling fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability.
