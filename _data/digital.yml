@@ -1,9 +1,19 @@
 
+- title: "Jhatkaa: Tech-enabled Citizen Advocacy in India"
+  pub: "Digital"
+  date: 2017-03-15
+  link: "https://dai-global-digital.com/jhatkaa-tech-enabled-citizen-advocacy-in-india.html"
+  summary: "Our top post of 2016 was my interview with Avijit Michael, the director of Indian citizen advocacy organization Jhatkaa. In his interview, Avijit mentioned they had created a tool for citizens to report local issues via WhatsApp. Needless to say, we were intrigued. So, in the spirit of investigative journalism, we sent one of our staff members to India to find out more."
+  tags:
+    - digital 
+    - Governance 
+    - Innovation 
+
 - title: "Digital Insights Bangladesh: How Urban Youth Stay Connected"
   pub: "Digital"
   date: 2017-03-08
   link: "https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html"
-  summary: "It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and he four of his classmates are DAI’s street team for our first-ever Digital Insights study in South Asia.
+  summary: "It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and four of his classmates are DAI’s street team for our first-ever Digital Insights study in South Asia.
 
 
 Digital Insights data collectors gathering information from students in Mymensingh."
@@ -336,14 +346,4 @@ So far, we’ve covered WhatsApp, Facebook Messenger, Telegram, kik, and LINE. U
   tags:
     - digital 
     - Appathon 2016 
-
-- title: "From Data to Knowledge: Applying Schema Agnostic Systems Modeling to Development Challenges"
-  pub: "Digital"
-  date: 2016-09-22
-  link: "https://dai-global-digital.com/from-data-to-knowledge-applying-schema-agnostic-systems-modeling-to-development-challenges.html"
-  summary: "By now the much-vaunted “Big Data Revolution” that technologists have endlessly touted is in full swing. Almost all industrial and economic sectors are actively recognizing and harnessing the potential of digital data. International development is no different, as an ever-increasing number of programs are being conceived with data for decision-making as a central pillar to improve intervention strategy, activity coordination, and impact measurement."
-  tags:
-    - digital 
-    - Think Piece 
-    - Data 
 
