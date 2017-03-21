@@ -18,5 +18,5 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 		<div>
 			&nbsp;</div>
 		<div>
-			<input class="button" type="submit" value="Subscribe" /></div>
+			<input class="button" type="submit" value="Sign Up" /></div>
 	</form>

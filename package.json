@@ -4,11 +4,13 @@
   "description": "primary corporate website for dai, a global development company",
   "main": "gulpfile.js",
   "scripts": {
-    "serve": "browser-sync start --config browser-sync.js"
+    "serve": "browser-sync start --config browser-sync.js",
+    "build":"bundle exec jekyll build --incremental --watch",
+    "jekyllfy": "npm run build & npm run serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BryanSchuetz/dai.git"
+    "url": "https://github.com/BryanSchuetz/dai"
   },
   "keywords": [
     "dai"
@@ -21,7 +23,6 @@
   "devDependencies": {
     "gulp": "3.9.1",
     "browser-sync": "2.17.0",
-    "hygienist-middleware": "",
     "gulp-shell": "0.5.2",
     "gulp-uglify": "1.5.4"
   }
