@@ -16,7 +16,7 @@ The EVA (Enhanced Visual Assessment) System has already been deployed in the Uni
 “MobileODT is a perfect partner for DAI as we seek to advance our vision of tech-enabled, data-centric services for the global health marketplace,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “We are delighted to make this investment in a disruptive technology that promises so much benefit to women in the developing world and even in service-starved areas of the United States.”
 
 How EVA works:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mm5ogJT-M9k" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/209445357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Founded in 2012, MobileODT is driven by a mission to deliver affordable, practical healthcare innovation and make a difference in the world. The company focuses on optical diagnostic devices and software services for early cancer detection and, in time, other purposes including forensic documentation, oral disease, dermatology, otology, and ophthalmology—all using the same core platform.
 
