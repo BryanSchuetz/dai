@@ -17,6 +17,7 @@ The EVA (Enhanced Visual Assessment) System has already been deployed in the Uni
 How EVA works:
 <iframe src="https://player.vimeo.com/video/209445357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+
 Founded in 2012, MobileODT is driven by a mission to deliver affordable, practical healthcare innovation and make a difference in the world. The company focuses on optical diagnostic devices and software services for early cancer detection and, in time, other purposes including forensic documentation, oral disease, dermatology, otology, and ophthalmology—all using the same core platform.
 
 Initially, MobileODT’s EVA System is being deployed to tackle the leading cause of cancer death for women in low-resource settings: cervical cancer. According to the World Health Organization, 85 percent of women worldwide lack adequate access to cervical cancer screening, which means that out of the 527,000 women diagnosed with such cancer every year, 275,000 will die, despite the fact that cervical cancer takes 20 years to develop and can be treated for less than $28 and in less than 40 minutes, if caught in the first five years.
