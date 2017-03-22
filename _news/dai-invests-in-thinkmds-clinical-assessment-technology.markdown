@@ -6,6 +6,7 @@ tags:
 is_featured: true
 solutions:
 - Innovation and Entrepreneurship
+- Health
 summary: DAI and THINKMD today announced a strategic partnership that will use DAI’s
   extensive international network to bring THINKMD’s digital health products to new
   markets. As part of this partnership, DAI led THINKMD’s latest financing round,
