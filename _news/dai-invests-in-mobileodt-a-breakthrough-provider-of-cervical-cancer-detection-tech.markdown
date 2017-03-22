@@ -17,7 +17,6 @@ The EVA (Enhanced Visual Assessment) System has already been deployed in the Uni
 How EVA works:
 <iframe src="https://player.vimeo.com/video/209445357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-
 Founded in 2012, MobileODT is driven by a mission to deliver affordable, practical healthcare innovation and make a difference in the world. The company focuses on optical diagnostic devices and software services for early cancer detection and, in time, other purposes including forensic documentation, oral disease, dermatology, otology, and ophthalmology—all using the same core platform.
 
 Initially, MobileODT’s EVA System is being deployed to tackle the leading cause of cancer death for women in low-resource settings: cervical cancer. According to the World Health Organization, 85 percent of women worldwide lack adequate access to cervical cancer screening, which means that out of the 527,000 women diagnosed with such cancer every year, 275,000 will die, despite the fact that cervical cancer takes 20 years to develop and can be treated for less than $28 and in less than 40 minutes, if caught in the first five years.
@@ -27,7 +26,9 @@ Additionally, in the United States—where rape is one of the most underreported
 Expanding cervical cancer screening services is difficult because the traditional technology is cumbersome, expensive, and dependent on expert operators. It also requires a continuous electricity supply and is hard to maintain, especially in developing countries. By contrast, the EVA System is relatively cheap, small, easy to transport, and makes use of the ubiquitous smartphone and its supply chain. Readily connected to the cloud, it facilitates the collection of biomedical images and other data for diagnostic, analytical, and other purposes.
 
 *About MobileODT*
+
 MobileODT is driven by a mission: to enable front line health providers in resource-limited areas to deliver affordable and accessible visual-based assessment and triage of diseases with connected medical devices. MobileODT’s first product, the EVA System, functions on its own as an enhanced visual assessment screening or alongside any cervical cancer treatment. As a practical solution to the challenges of resource-limited healthcare—and to enable the extension of care into medium-resource settings—the EVA System was built to be affordable and practical for the nurse or general practitioner at the point-of-care and point-of-treatment, everywhere.
 
 *About DAI*
+
 Founded in 1970, DAI is a global development company with corporate offices in the United States, the United Kingdom, and Belgium. Named one of the world’s top 40 international development innovators, DAI works on the front lines of international development, tackling fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability.
