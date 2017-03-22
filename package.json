@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "serve": "browser-sync start --config browser-sync.js",
-    "build":"bundle exec jekyll build --incremental --watch",
+    "build":"bundle exec jekyll build --watch --incremental",
     "jekyllfy": "npm run build & npm run serve"
   },
   "repository": {

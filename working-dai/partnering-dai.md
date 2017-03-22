@@ -26,6 +26,49 @@ redirect_from:
 	Tell Us About Your Organization</h3>
 <p><strong>Please take a few minutes to introduce us to your organization by filling out the form below:</strong></p>
 <p>If we need the type of services or supplies you provide, one of our business development or procurement specialists may contact you to explore opportunities. If there is no immediate opportunity, we will retain your information until a relevant opportunity arises. Please note that expressing interest in working with DAI does not automatically place your company on a &ldquo;bidder&rsquo;s list,&rdquo; nor does it constitute approval of your firm as a DAI supplier or obligate DAI to solicit requests for quotations.</p>
+<!-- <form accept-charset="UTF-8" action="https://formkeep.com/f/1e00a5a9a05a" method="POST">
+  <input type="hidden" name="utf8" value="✓">
+
+  <label for="organization-name">Organization Name</label>
+  <input type="text" id="organization-name" name="organization-name">
+  <label for="address">Street Address</label>
+  <input type="text" id="address" name="address">
+  <label for="address2">Address Line 2</label>
+  <input type="text" id="address2" name="address2">
+  <label for="city">City</label>
+  <input type="text" id="city" name="city">
+  <label for="sate">State</label>
+  <input type="text" id="state" name="state">
+	<label for="zip">Postal / Zip Code</label>
+  <input type="text" id="zip" name="zip">
+  <label for="email">Email</label>
+  <input type="email" id="email" name="email">
+  <label for="registration">U.S. Registration</label>
+	<input type="radio" name="registration" value="yes" checked> Yes<br>
+	<input type="radio" name="registration" value="no"> No<br>
+  <label for="activity">Ongoing Regional Activity</label>
+  <input type="checkbox" name="Asia and the Pacific" value="Asia and the Pacific" checked> Asia and the Pacific<br>
+  <input type="checkbox" name="Eastern Europe and Central Asia" value="Eastern Europe and Central Asia"> Eastern Europe and Central Asia<br>
+  <input type="checkbox" name="Latin America and the Caribbean" value="Latin America and the Caribbean" > Latin America and the Caribbean<br>
+  <input type="checkbox" name="Middle East and North Africa" value="Middle East and North Africa"> Middle East and North Africa<br>
+  <input type="checkbox" name="Sub-Saharan Africa" value="Sub-Saharan Africa"
+   > Sub-Saharan Africa<br>
+	<label for="expertise">Areas of Expertise</label>
+  <input class="body" type="text" id="expertise" name="expertise">
+	<label for="small-business">Small Business</label>
+	<input type="radio" name="small-business" value="yes" checked> Yes<br>
+	<input type="radio" name="small-business" value="no"> No<br>
+	<label for="categories">Socio-Economic Status Categories</label>
+	<input type="radio" name="categories" value="Small Disadvantaged" checked> Small Disadvantaged<br>
+	<input type="radio" name="categories" value="Woman-Owned"> Woman-Owned<br>
+	<input type="radio" name="categories" value="Veteran-Owned"> Veteran-Owned<br>
+	<input type="radio" name="categories" value="Service-Disabled"> Service-Disabled<br>
+	<input type="radio" name="categories" value="HUBZone"> HUBZone<br>
+	<label for="details">Organizational Details</label>
+  <input class="body" type="text" id="details" name="details">
+
+  <button type="submit">Submit</button>
+</form> -->
 <div id="wufoo-s1vodmba1438whk" class="wufoo-form">
 	<a href="https://ksdai.wufoo.com/forms/s1vodmba1438whk">Tell Us</a> About Your Organization.</div>
 <script type="text/javascript">var s1vodmba1438whk;(function(d, t) {
