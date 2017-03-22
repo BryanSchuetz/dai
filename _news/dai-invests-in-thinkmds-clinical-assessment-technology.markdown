@@ -1,6 +1,8 @@
 ---
 title: DAI Invests in THINKMD’s Clinical Assessment Technology
 date: 2017-02-14 13:08:00 Z
+tags:
+- health
 is_featured: true
 solutions:
 - Innovation and Entrepreneurship
