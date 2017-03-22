@@ -2,7 +2,7 @@
 title: 'A Trade Solution to the Food Security Challenge: Surplus Grains Worth $83
   Million Now Available to Countries in Need'
 date: 2017-03-17 19:33:00 Z
-is_featured: true
+is_featured: false
 solutions:
 - Agriculture and Food Security
 - Economic Growth
