@@ -17,7 +17,7 @@ DAI will present three papers at the annual World Bank Land and Poverty Conferen
 One of the leading international events on land governance, the [Land and Poverty Conference](http://www.worldbank.org/en/events/2016/08/22/land-and-poverty-conference-2017-responsible-land-governance-towards-an-evidence-based-approach) brings together 1,200 participants from government, academia, civil society, and the private sector to discuss the latest theories, best practices, and innovations for land tenure reform from around the world. Titled “Responsible Land Governance: Towards an Evidence-Based Approach,” this year’s meeting focuses on the role of data and evidence in implementing land policy reform.
 
 ![WB_story_image.jpg](/uploads/WB_story_image.jpg)
-`Conference attendees and presenters from DAI (left to right) Andy Smith, Ian rose, Ann Kinsley, Bernice Sam, John Maris, John Leckie, Felicity Buckle, Clive English`
+`Conference attendees and presenters from DAI include, from left, Andy Smith, Ian Rose, Ann Kinsley, Bernice Sam, John Maris, John Leckie, Felicity Buckle, and Clive English.`
 
 “We are excited to share learning from our land work in Africa and look forward to contributing to the conversation on ways to improve land tenure and property rights for all,” said [Ian Rose](https://www.dai.com/who-we-are/our-team/ian-rose), DAI’s Senior Principal Global Practice Specialist for Land Tenure and Property Rights.
 
