@@ -2,7 +2,6 @@
 title: DAI Invests in MobileODT, a Breakthrough Provider of Cervical Cancer Detection
   Technology
 date: 2017-03-22 08:00:00 Z
-published: false
 solutions:
 - Health
 - Innovation and Entrepreneurship
