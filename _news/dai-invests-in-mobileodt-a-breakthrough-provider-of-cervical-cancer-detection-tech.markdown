@@ -13,6 +13,8 @@ summary: DAI today announced an investment in the mHealth service provider, Mobi
 
 DAI today announced an investment in the mHealth service provider, [MobileODT](http://www.mobileodt.com/). In turn, MobileODT will take advantage of DAI’s worldwide footprint to expand the global penetration of its flagship EVA System, which combines advanced optical technology with smartphone capabilities to bring affordable cancer detection services to underserved communities around the world.
 
+<!--more-->
+
 The EVA (Enhanced Visual Assessment) System has already been deployed in the United States and more than 20 countries, and in December 2016 was approved by the U.S. Food and Drug Administration as a video colposcope.
 
 “MobileODT is a perfect partner for DAI as we seek to advance our vision of tech-enabled, data-centric services for the global health marketplace,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “We are delighted to make this investment in a disruptive technology that promises so much benefit to women in the developing world and even in service-starved areas of the United States.”
