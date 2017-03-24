@@ -1,6 +1,6 @@
 ---
 title: DAI Presents Three Papers at the 2017 World Bank Land Conference
-date: 2017-03-24 20:48:00 Z
+date: 2017-03-24 08:48:00 Z
 solutions:
 - Land Tenure and Property Rights
 regions: Sub-Saharan Africa
