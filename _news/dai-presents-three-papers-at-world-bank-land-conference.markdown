@@ -1,13 +1,13 @@
 ---
 title: DAI Presents Three Papers at the 2017 World Bank Land Conference
-date: 2017-03-20 20:48:00 Z
+date: 2017-03-24 20:48:00 Z
 solutions:
 - Land Tenure and Property Rights
 regions: Sub-Saharan Africa
-summary: DAI will present three papers at the annual World Bank Land and Poverty Conference
-  this week in Washington, D.C. The Land Tenure and Property Rights team will share
-  key lessons learned on the use of public-private partnerships in land administration
-  in Cabo Verde, the challenges of large-scale rural land certification and administration
+summary: DAI presented three papers at the annual World Bank Land and Poverty Conference
+  this week in Washington, D.C. The Land Tenure and Property Rights team shared key
+  lessons learned on the use of public-private partnerships in land administration
+  in Cape Verde, the challenges of large-scale rural land certification and administration
   in Ethiopia, and the impact of infrastructure investments on land and livelihoods
   in Ghana.
 ---
