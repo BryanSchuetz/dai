@@ -6,8 +6,8 @@ summary: Despite positive economic growth in recent years, urban Indonesia still
   the region. USAID’s IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health
   for All (IUWASH PLUS), is working to expand access to water and sanitation services
   to hundreds of thousands of low-income urban households.
-start: 2011
-end: 2016
+start: 2016
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Environment and Energy
