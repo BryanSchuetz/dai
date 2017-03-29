@@ -1,21 +1,18 @@
 ---
 title: Mark Rostal
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Rostal
-regions:
-- Eastern Europe and Central Asia
-- Sub-Saharan Africa
-solutions:
-- Economic Growth
-layout: expert
-image: "/assets/images/experts/Rostal_Inner_0.jpg"
 summary: Mark Rostal is an expert in designing financial services and products for
   micro, small, and medium-sized enterprises in developing countries, offering directly
   applicable technical expertise and senior management experience.
 job-title: Chief of Party, Financial Inclusion for Rural Microenterprises (Kenya FIRM)
-articles:
-- name: 
-  article_file: 
+image: "/uploads/Mark%20Rostal.jpg"
+solutions:
+- Economic Growth
+regions:
+- Eastern Europe and Central Asia
+- Sub-Saharan Africa
+layout: expert
 ---
 
 Mark Rostal is an expert in designing financial services and products for micro, small, and medium-sized enterprises in developing countries, offering directly applicable technical expertise and senior management experience. Mark has managed various DAI projects in the field and backstopped projects in DAI's home office over the course of his 24-year career in finance and banking. His professional experience in Africa, Asia, and the transitional economies of Eastern Europe and Eurasia, as well as in private U.S. banking, have given him a deep knowledge of international best practices in financial services across a range of markets and institutional models.
