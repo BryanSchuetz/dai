@@ -50,11 +50,11 @@ related: false
   <input class="radio" type="radio" name="registration" value="yes" > Yes<br>
   <input class="radio" type="radio" name="registration" value="no"> No<br>
   <label for="activity"><strong>In what regions do you currently have ongoing work?</strong></label><br>
-  <input class="checkbox" type="checkbox" name="Asia and the Pacific" value="Asia and the Pacific" > Asia and the Pacific<br>
-  <input class="checkbox" type="checkbox" name="Eastern Europe and Central Asia" value="Eastern Europe and Central Asia"> Eastern Europe and Central Asia<br>
-  <input class="checkbox" type="checkbox" name="Latin America and the Caribbean" value="Latin America and the Caribbean" > Latin America and the Caribbean<br>
-  <input class="checkbox" type="checkbox" name="Middle East and North Africa" value="Middle East and North Africa"> Middle East and North Africa<br>
-  <input class="checkbox" type="checkbox" name="Sub-Saharan Africa" value="Sub-Saharan Africa"
+  <input class="checkbox" type="checkbox" name="regions" value="Asia and the Pacific" > Asia and the Pacific<br>
+  <input class="checkbox" type="checkbox" name="regions" value="Eastern Europe and Central Asia"> Eastern Europe and Central Asia<br>
+  <input class="checkbox" type="checkbox" name="regions" value="Latin America and the Caribbean" > Latin America and the Caribbean<br>
+  <input class="checkbox" type="checkbox" name="regions" value="Middle East and North Africa"> Middle East and North Africa<br>
+  <input class="checkbox" type="checkbox" name="regions" value="Sub-Saharan Africa"
    > Sub-Saharan Africa<br>
 	<label for="expertise"><strong>What are your organization's core areas of expertise?</strong></label><br>
   <textarea class="body" id="expertise" name="expertise" rows="5"></textarea>
