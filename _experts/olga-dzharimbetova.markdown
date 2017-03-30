@@ -17,5 +17,4 @@ Olga brings strong analytical skills and sector knowledge to support the build o
 She speaks Russian, English, and French.
 
 * M.B.A., Webster University
-
 * B.A., management in international business, Webster University
