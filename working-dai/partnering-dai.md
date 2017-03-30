@@ -5,6 +5,7 @@ redirect_from:
 - "/smallbiz"
 related: false
 ---
+
 <p>We&rsquo;re interested in you&mdash;DAI is looking to build partnerships with other development firms and organizations so that we can deliver the highest quality solutions to our clients and beneficiaries.</p>
 <h3>
 	Engaging Small Businesses</h3>
