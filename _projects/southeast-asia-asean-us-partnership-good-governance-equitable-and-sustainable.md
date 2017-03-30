@@ -25,7 +25,7 @@ Southeast Asia has transformed from a region of political strife and poverty to 
 
 The ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security (PROGRESS) seizes this momentum and converges with the renewed U.S. focus on the region as a strategic economic and geopolitical partner. For ASEAN to achieve its own integration agenda and be a dynamic U.S. partner in regional and transnational challenges such as the fight against terrorism and promotion of good governance and human rights, ASEAN must have the institutional capability to muster and enhance its ability for collective action. PROGRESS focuses on strengthening institutions to advance ASEAN’s vision.
 
-![ASEAN.jpg](/uploads/ASEAN.jpg)
+![ASEAN Progress.jpg](/uploads/ASEAN%20Progress.jpg)
 
 ### Sample Activities
 
@@ -35,7 +35,7 @@ The ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Develo
 
 * Improve capacity to combat transnational crimes and nontraditional security threats.
 
-* Raise awareness about human trafficking and other human rights abuses. 
+* Raise awareness about human trafficking and other human rights abuses.
 
 * Work closely with ASEAN Secretariat’s Legal Service and Agreement Division to develop a practical system to report on the implementation of ASEAN agreements.
 
