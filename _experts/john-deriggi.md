@@ -25,7 +25,7 @@ articles:
 layout: expert
 ---
 
-John DeRiggi is a spatial products developer with 10 years of experience in software and data engineering. John learned Java in college and started his career developing Java-based web applications, which were used to help analysts make sense of massive data sets. After working as a consultant and research programmer for Booz Allen and the RAND Corporation in Washington, D.C., John moved to Rwanda for a year, where he taught programing and developed components for an open source medical record system for Partners in Health. John's ties to Rwanda remain strong as he has returned to the country four times since leaving at the end of 2009, once to go camping on the rim of a Congolese volcano.
+John DeRiggi is a spatial products developer with 10 years of experience in software and data engineering. John learned Java in college and started his career developing Java-based web applications, which were used to help analysts make sense of massive data sets. After working as a consultant and research programmer for Booz Allen and the RAND Corporation in Washington, D.C., John moved to Rwanda for a year, where he taught programing and developed components for an open source medical record system for Partners in Health. John's ties to Rwanda remain strong as he has returned to the country four times since leaving at the end of 2009, once to go camping on the rim of a Congolese volcano. this
 
 John's work with GIS includes building a system for sharing climate data at the World Bank, which supported the 2012 Apps for Climate contest and was added to the Bank's portfolio of open data products. He is currently developing supply chain modeling and forecasting software with DAI's Energy and Resources Group.
 
