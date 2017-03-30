@@ -439,7 +439,7 @@ aside{
 }
 // 🎌 FORMS 🎌
 
-.campaign-monitor{
+.campaign-monitor, .formkeep{
   input{
     width: 100%;
     border-radius: 2px;
@@ -464,7 +464,21 @@ aside{
     min-height: 1500px;
   }
 }
-
+input.checkbox, input.radio{
+  width: 1.5rem;
+}
+button.submit{
+  border: 0;
+  font-size: 2rem;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+textarea{
+  width: 100%;
+  font-size: 1rem;
+  padding: .5rem;
+  margin-bottom: 1rem;
+}
 // 🎌 Related 🎌
 #last{
   clear:both;
