@@ -1,7 +1,6 @@
 ---
 title: Alyssa Menz
 date: 2017-03-30 18:05:00 Z
-published: false
 lastname: Menz
 summary: As an Associate Analyst in DAI’s Energy and Resources Group, Alyssa provides
   technical support on business development, market intelligence, and communications
