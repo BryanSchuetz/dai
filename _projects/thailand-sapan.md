@@ -1,20 +1,20 @@
 ---
 title: Thailand—Sapan
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2010
-end: 2015
-regions:
-- Asia and the Pacific
-country:
-- Thailand
-solutions:
-- Stability
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: Democracy in Thailand foundered in recent years on the heels of a period
   of strong economic gains. During the political crises and civil unrest of 2005-2010,
   institutions such as citizen advocates, professional associations, labor unions,
   and independent media faltered or simply disbanded.
+start: 2010
+end: 2015
+client: U.S. Agency for International Development
+solutions:
+- Stability
+regions:
+- Asia and the Pacific
+country:
+- Thailand
+layout: project
 ---
 
 Democracy in Thailand foundered in recent years on the heels of a period of strong economic gains. During the political crises and civil unrest of 2005-2010, institutions such as citizen advocates, professional associations, labor unions, and independent media faltered or simply disbanded. Ordinary people found it difficult to make their voices heard, and the country suffered through protests, riots, and states of emergency.
@@ -33,7 +33,7 @@ Our Bangkok-based team is promoting cooperation between civil society and agenci
 
 * Enrolled and provided training for more than 6,000 representatives of civil society organizations, universities, government, and media.
 * Facilitated and strengthened the capacity of a coalition of seven women-led civil society organizations, which now more effectively promotes and supports access by women to funding through the country's Women's Development Fund.
-* Designed and helped establish a university-based Center for Civil Society and Nonprofit Management that strengthens the skills of current and future managers and leaders of nonprofit organizations, equipping them to mobilize resources to improve local governance and encourage social justice.
+* Designed and helped establish a university-based [Center for Civil Society and Nonprofit Management](http://dai-global-developments.com/articles/usaid-sapan-program-energized-thailands-civil-society/) that strengthens the skills of current and future managers and leaders of nonprofit organizations, equipping them to mobilize resources to improve local governance and encourage social justice.
 * Supported six universities in their founding of Local Stakeholder Committees, which bring together university staff with local leaders and citizens to identify and address local issues.
 
 [1]: /assets/images/projects/Sapan.jpg
