@@ -48,30 +48,30 @@ related: false
   <h3>Regional Experience and Expertise</h3>
   <hr>
   <label for="registration"><strong>Is your company registered in the U.S.?</strong></label><br> 
-  <input class="radio" type="radio" name="registration" value="yes" > Yes<br>
-  <input class="radio" type="radio" name="registration" value="no"> No<br>
+  <input class="radio" type="radio" name="Registration" value="yes" > Yes<br>
+  <input class="radio" type="radio" name="Registration" value="no"> No<br>
   <label for="activity"><strong>In what regions do you currently have ongoing work?</strong></label><br>
-  <input class="checkbox" type="checkbox" name="region1" value="Asia and the Pacific" > Asia and the Pacific<br>
-  <input class="checkbox" type="checkbox" name="region2" value="Eastern Europe and Central Asia"> Eastern Europe and Central Asia<br>
-  <input class="checkbox" type="checkbox" name="region3" value="Latin America and the Caribbean" > Latin America and the Caribbean<br>
-  <input class="checkbox" type="checkbox" name="region4" value="Middle East and North Africa"> Middle East and North Africa<br>
-  <input class="checkbox" type="checkbox" name="region5" value="Sub-Saharan Africa"
+  <input class="checkbox" type="checkbox" name="Region 1" value="Asia and the Pacific" > Asia and the Pacific<br>
+  <input class="checkbox" type="checkbox" name="Region 2" value="Eastern Europe and Central Asia"> Eastern Europe and Central Asia<br>
+  <input class="checkbox" type="checkbox" name="Region 3" value="Latin America and the Caribbean" > Latin America and the Caribbean<br>
+  <input class="checkbox" type="checkbox" name="Region 4" value="Middle East and North Africa"> Middle East and North Africa<br>
+  <input class="checkbox" type="checkbox" name="Region 5" value="Sub-Saharan Africa"
    > Sub-Saharan Africa<br>
 	<label for="expertise"><strong>What are your organization's core areas of expertise?</strong></label><br>
-  <textarea class="body" id="expertise" name="expertise" rows="5"></textarea>
+  <textarea class="body" id="expertise" name="Expertise" rows="5"></textarea>
   <h3>Small Businesses</h3>
   <hr>
 	<label for="small-business"><strong>Is your organization registered as a Small Business?</strong></label><br>
-	<input class="radio" type="radio" name="small-business" value="yes" > Yes<br>
-	<input class="radio" type="radio" name="small-business" value="no"> No<br>
+	<input class="radio" type="radio" name="SB Registration" value="yes" > Yes<br>
+	<input class="radio" type="radio" name="SB Registration" value="no"> No<br>
 	<label for="categories"><strong>If so, please check all socio-economic categories that apply.</strong></label><br>
-	<input class="checkbox" type="checkbox" name="category1" value="Small Disadvantaged" > Small Disadvantaged<br>
-	<input class="checkbox" type="checkbox" name="category2" value="Woman-Owned"> Woman-Owned<br>
-	<input class="checkbox" type="checkbox" name="category3" value="Veteran-Owned"> Veteran-Owned<br>
-	<input class="checkbox" type="checkbox" name="category4" value="Service-Disabled"> Service-Disabled<br>
-	<input class="checkbox" type="checkbox" name="category5" value="HUBZone"> HUBZone<br>
+	<input class="checkbox" type="checkbox" name="Category 1" value="Small Disadvantaged" > Small Disadvantaged<br>
+	<input class="checkbox" type="checkbox" name="Category 2" value="Woman-Owned"> Woman-Owned<br>
+	<input class="checkbox" type="checkbox" name="Category 3" value="Veteran-Owned"> Veteran-Owned<br>
+	<input class="checkbox" type="checkbox" name="Category 4" value="Service-Disabled"> Service-Disabled<br>
+	<input class="checkbox" type="checkbox" name="Category 5" value="HUBZone"> HUBZone<br>
 	<label for="details"><strong>Tell us a bit about your organization, and where/how you would like to partner with DAI.</strong></label>
-  <textarea class="body" id="details" name="details" rows="5"></textarea>
+  <textarea class="body" id="details" name="Org Details" rows="5"></textarea>
 
   <button class="primary-block--button submit" type="submit">Submit</button>
 </form>
