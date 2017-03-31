@@ -32,24 +32,24 @@ related: false
 <h3>Organizational Details</h3>
 <hr>
   <label for="organization-name">Organization Name</label>
-  <input type="text" id="organization-name" name="organization-name">
+  <input type="text" id="organization-name" name="Organization Name">
   <label for="address">Street Address</label>
-  <input type="text" id="address" name="address">
+  <input type="text" id="address" name="Address">
   <label for="address2">Address Line 2</label>
-  <input type="text" id="address2" name="address2">
+  <input type="text" id="address2" name="Address 2">
   <label for="city">City</label>
-  <input type="text" id="city" name="city">
+  <input type="text" id="city" name="City">
   <label for="sate">State</label>
-  <input type="text" id="state" name="state">
+  <input type="text" id="state" name="State">
 	<label for="zip">Postal / Zip Code</label>
-  <input type="text" id="zip" name="zip">
+  <input type="text" id="zip" name="Zip">
   <label for="email">Email</label>
-  <input type="email" id="email" name="email">
+  <input type="email" id="email" name="Email">
   <h3>Regional Experience and Expertise</h3>
   <hr>
   <label for="registration"><strong>Is your company registered in the U.S.?</strong></label><br> 
-  <input class="radio" type="radio" name="Registration" value="yes" > Yes<br>
-  <input class="radio" type="radio" name="Registration" value="no"> No<br>
+  <input class="radio" type="radio" name="US Registration" value="yes" > Yes<br>
+  <input class="radio" type="radio" name="US Registration" value="no"> No<br>
   <label for="activity"><strong>In what regions do you currently have ongoing work?</strong></label><br>
   <input class="checkbox" type="checkbox" name="Region 1" value="Asia and the Pacific" > Asia and the Pacific<br>
   <input class="checkbox" type="checkbox" name="Region 2" value="Eastern Europe and Central Asia"> Eastern Europe and Central Asia<br>
