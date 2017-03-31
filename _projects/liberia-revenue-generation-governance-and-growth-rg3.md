@@ -1,29 +1,29 @@
 ---
 title: Liberia—Revenue Generation for Governance and Growth (RG3)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2016
-end: 2021
-regions:
-- Sub-Saharan Africa
-country:
-- Liberia
-solutions:
-- Economic Growth
-- Financial Services
-- Governance
-- Institutional and Policy Reform
-- Public Financial Management
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'Enhancing the government of Liberia''s ability to collect taxes from its
   citizens, known as domestic revenue mobilization (DRM), is a critical part of helping
   the country meet the long-term development goals laid out in its ambitious Agenda
   for Transformation.
 
 '
+start: 2016
+end: 2021
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Financial Services
+- Governance
+- Institutional and Policy Reform
+- Public Financial Management
+regions:
+- Sub-Saharan Africa
+country:
+- Liberia
+layout: project
 ---
 
-Enhancing the government of Liberia's ability to collect taxes from its citizens, known as domestic revenue mobilization (DRM), is a critical part of helping the country meet the long-term development goals laid out in its ambitious Agenda for Transformation. However, tax evasion, poor tax policy, and ineffective enforcement all constrain the government's ability to raise the funds it needs to provide basic services to citizens and promote economic growth and social development in the country.
+Enhancing the government of Liberia's ability to collect taxes from its citizens, known as [domestic revenue mobilization (DRM)](http://dai-global-developments.com/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue/), is a critical part of helping the country meet the long-term development goals laid out in its ambitious Agenda for Transformation. However, tax evasion, poor tax policy, and ineffective enforcement all constrain the government's ability to raise the funds it needs to provide basic services to citizens and promote economic growth and social development in the country.
 
 The Revenue Generation for Governance and Growth (RG3) project will support the Government of Liberia to confront the challenge of improving its tax collection system and cultivating a sense of accountability among taxpayers. DAI's approach will holistically address DRM and tax system reforms. We will pair supply-side support to key government ministries, in the form of capacity building to improve policy, efficiency, and enforcement, along with demand-side interventions that increase taxpayer morale through raising awareness of taxation responsibilities, newly simplified payment methods, and the risk of enforcement for noncompliance.
 
