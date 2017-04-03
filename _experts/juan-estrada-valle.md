@@ -17,12 +17,16 @@ layout: expert
 
 Juan Estrada-Valle has more than 20 years of experience in agriculture, value chain development, and market-based strategies for economic development in conflict-affected environments. Throughout his career, Juan has been an agribusiness entrepreneur, international consultant, researcher and development practitioner.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/35273230?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/35273230?title=0&byline=0&portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
 He has led large-scale agricultural development programs in Southern Africa, the Western Balkans, and South Asia. Juan was most recently the Chief of Party of the Agricultural Credit Enhancement (ACE) Program, where he helped establish an Agricultural Development Fund in Afghanistan. He now leads the East Africa Trade and Investment Hub.
 
-* [Commendation](http://) from Afghanistan Ministry of Agriculture, Irrigation, and Livestock
+* [Commendation](https://www.facebook.com/DAIGlobal/posts/10152684125290797) from Afghanistan Ministry of Agriculture, Irrigation, and Livestock
+
 * Board Member, Agribusiness Economics and Management Section, Agricultural and Applied Economics Association
+
 * PhD, international development, agri-food systems economics, Michigan State University
+
 * M.S., agricultural economics, Michigan State University
+
 * B.S., agronomy, animal science, Universidad de San Carlos, Guatemala
