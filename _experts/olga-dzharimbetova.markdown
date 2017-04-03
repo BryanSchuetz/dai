@@ -7,6 +7,7 @@ summary: 'After completing her master’s degree in Business Administration in t
   as a finance and administrative manager in the country’s burgeoning oil and gas
   and construction sectors. '
 job-title: Senior Analyst
+image: "/uploads/Olga%20mug.jpg"
 solutions:
 - Corporate Sustainability
 - Local Content and Supply Chain Management
