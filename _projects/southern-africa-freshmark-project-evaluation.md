@@ -1,24 +1,24 @@
 ---
 title: Southern Africa—Freshmark Project Evaluation
-date: 2016-01-21 22:40:52.765000000 Z
-client: TradeMark Southern Africa
-start: 2012
-end: 2012
-regions:
-- Sub-Saharan Africa
-country:
-- Regional
-solutions:
-- Agriculture and Food Security
-- Corporate Sustainability
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'DAI was commissioned by TradeMark Southern Africa to conduct an independent
   evaluation of retailer Freshmark''s project helping 200 small-scale farmers in Southern
   Africa meet the retailer''s minimum food safety and quality standards, with the
   aim of improving the relationship between the retailer and its suppliers.
 
 '
+start: 2012
+end: 2012
+client: TradeMark Southern Africa
+solutions:
+- Agriculture and Food Security
+- 
+- Economic Growth
+regions:
+- Sub-Saharan Africa
+country:
+- Regional
+layout: project
 ---
 
 DAI was commissioned by TradeMark Southern Africa to conduct an independent evaluation of retailer Freshmark's project helping 200 small-scale farmers in Southern Africa meet the retailer's minimum food safety and quality standards, with the aim of improving the relationship between the retailer and its suppliers. The 36-month project DAI evaluated was implemented by QC Fresh, on behalf of Freshmark, in Namibia, South Africa, Swaziland, and Zambia. The evaluation assessed the project's relevance, effectiveness, efficiency, replicability, and lessons learned.
