@@ -6,6 +6,7 @@ solutions:
 - Fragile States
 layout: solution
 ---
+
 Mitigating the threat from—and strengthening resilience to—violent extremism is a multifaceted commitment that requires all the tools at our disposal: diplomatic, development, data, and defense. Well-versed in operating alongside complementary diplomatic and defense initiatives, DAI addresses violent extremism on multiple fronts, bringing to this task our full suite of expertise in good governance, job creation, community development, post-conflict stabilization, rule of law, citizen security, public financial management, trade and customs, and social development. 
 
 Our integrated approach builds the capacity of national governments, civil society, the private sector, and communities to become full partners with international actors in combating extremist ideologies. And while there is no “silver bullet” solution to the challenge of violent extremism, we know that exerting pressure on the recruitment, operations, and financing of terror organizations yields results:

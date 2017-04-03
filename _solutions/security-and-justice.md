@@ -6,6 +6,7 @@ solutions:
 - Fragile States
 layout: solution
 ---
+
 Our approach to enhancing security and justice focuses on the effectiveness, accountability, and responsiveness of security and justice institutions such as the police and the judiciary. We develop links among institutions, citizens, and communities. 
 
 According equal importance to national and local issues, we work simultaneously on institutional reform and improved service delivery. We help citizens identify gaps in security and justice provision. We mobilize their participation in reform efforts and strengthen channels to advance their demands for improved services. We help national governments and donors improve systems to measure results. 

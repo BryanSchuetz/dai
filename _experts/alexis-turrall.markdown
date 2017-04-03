@@ -8,7 +8,7 @@ job-title: 'Deputy Director, Programme Management Unit, Europe '
 image: "/uploads/AlexisTurrall%20INNER.jpg"
 solutions:
 - Governance
-- Fragile States 
+- Fragile States
 regions: Sub-Saharan Africa
 ---
 

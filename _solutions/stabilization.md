@@ -6,6 +6,7 @@ solutions:
 - Fragile States
 layout: solution
 ---
+
 In transition environments, it’s critical that community revitalization efforts are driven by community members. We identify key groups committed to peaceful, participatory reform. We strengthen locally driven conflict mitigation efforts. And we help communities seize opportunities for economic recovery.
 
 Our approach focuses on implementing rapid response initiatives that engage stakeholders in reconciliation and stabilization processes that build a base for long-term development. We seek to rebuild social capital through work with community institutions and support to culturally sensitive activities. We work with organizations and individuals to strengthen their capacity. We promote economic recovery and economic growth by engaging with the private sector.

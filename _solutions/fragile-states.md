@@ -4,9 +4,11 @@ date: 2016-01-21 18:23:00.492000000 Z
 permalink: our-work/solutions/fragile-states
 icon: <svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#stability-badge"></use></svg>
-summary: |
-  DAI’s fragile states work, led by the Center for Secure and Stable States, builds on our global reputation for innovative post-crisis assistance to support political transition, ensure short-term stability operations, prevent and counter violent extremism (P/CVE), and lay the foundation for long-term development in fragile, crisis-stricken states. 
-
+summary: "DAI’s fragile states work, led by the Center for Secure and Stable States,
+  builds on our global reputation for innovative post-crisis assistance to support
+  political transition, ensure short-term stability operations, prevent and counter
+  violent extremism (P/CVE), and lay the foundation for long-term development in fragile,
+  crisis-stricken states. \n"
 layout: solution
 type: primary
 related: false

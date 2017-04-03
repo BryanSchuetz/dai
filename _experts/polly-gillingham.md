@@ -8,8 +8,8 @@ summary: Polly Gillingham is a livelihoods specialist, with a particular interes
 job-title: Business Management and Livelihoods Specialist
 image: "/assets/images/experts/PollyGillinghamINNER.jpg"
 solutions:
-  - Governance
-  - Fragile States
+- Governance
+- Fragile States
 regions: Sub-Saharan Africa
 layout: expert
 ---

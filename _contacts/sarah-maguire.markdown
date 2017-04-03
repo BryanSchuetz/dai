@@ -10,6 +10,6 @@ summary: 'Sarah joined DAI’s London office as a Director of Technical Services
 image: "/uploads/SarahMaguireInner.jpg"
 group: Portfolio Coordinators
 solutions:
-  - Fragile States
+- Fragile States
 ---
 
