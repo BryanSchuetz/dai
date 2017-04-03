@@ -1,27 +1,27 @@
 ---
 title: Worldwide—Grand Challenges for Development Implementation Services
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: 'Grand Challenges for Development has given people around the world a way
+  to apply their scientific and technological know-how to solving global development
+  problems in areas such as hunger, water, and literacy.
+
+'
 start: 2011
 end: 2014
-regions:
-- Worldwide
-country:
-- Regional
+client: U.S. Agency for International Development
 solutions:
-- Corporate Sustainability
+- Include Primary and/or Secondary Solutions
 - Economic Growth
 - Environment and Energy
 - Governance
 - Health
 - Fragile States
 - Stabilization
+regions:
+- Worldwide
+country:
+- Regional
 layout: project
-summary: 'Grand Challenges for Development has given people around the world a way
-  to apply their scientific and technological know-how to solving global development
-  problems in areas such as hunger, water, and literacy.
-
-'
 ---
 
 Grand Challenges for Development has given people around the world a way to apply their scientific and technological know-how to solving global development problems in areas such as hunger, water, and literacy. In this new approach, the U.S. Agency for International Development (USAID) articulates a specific problem and invites a broad range of actors—including foundations, corporations, groups, and individuals—to engage in solving it. For example, the first Grand Challenge for Development, called [Savings Lives at Birth][1], attracted nearly 500 submissions on how to help mothers and newborns in poor countries during their most vulnerable hours. An invention submitted by a car mechanic in Argentina—a device to extract babies during difficult childbirths—is now[ being developed][2] by a major American medical supply company.
