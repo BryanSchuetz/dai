@@ -23,7 +23,7 @@ He has led large-scale agricultural development programs in Southern Africa, the
 
 * [Commendation](https://www.facebook.com/DAIGlobal/posts/10152684125290797) from Afghanistan Ministry of Agriculture, Irrigation, and Livestock
 
-* Board Member, Agribusiness Economics and Management Section, Agricultural and Applied Economics Association
+* [Board Member](https://www.dai.com/news/dai-juan-estrada-valle-elected-board-member-agribusiness-economics-and), Agribusiness Economics and Management Section, Agricultural and Applied Economics Association
 
 * PhD, international development, agri-food systems economics, Michigan State University
 
