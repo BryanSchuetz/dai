@@ -1,23 +1,24 @@
 ---
 title: Warwick Strong
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Strong
-regions:
-- Sub-Saharan Africa
-solutions:
-- Corporate Sustainability
-layout: expert
-image: "/assets/images/experts/Slice.jpg"
 summary: 'Warwick Strong was born in Zimbabwe and spent his formative years in Southern
   Africa. He then joined the British Army in 1998 and was commissioned as an officer
   in 2000 from the United Kingdom''s Royal Military Academy.
 
 '
 job-title: Mining Sector Specialist, Energy and Resources Group
+image: "/assets/images/experts/Slice.jpg"
+solutions:
+- Corporate Sustainability
+- Local Content and Supply Chain Management
+regions:
+- Sub-Saharan Africa
 articles:
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”
     _DAIdeas_"
   article_file: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
+layout: expert
 ---
 
 Warwick Strong was born in Zimbabwe and spent his formative years in Southern Africa. He then joined the British Army in 1998 and was commissioned as an officer in 2000 from the United Kingdom's Royal Military Academy. He served six years in the military, deploying on peacekeeping missions to Iraq, Kenya, Kosovo, and Kuwait. In this capacity, Warwick worked with community leaders to achieve better governance and build safer communities across a variety of cultures.

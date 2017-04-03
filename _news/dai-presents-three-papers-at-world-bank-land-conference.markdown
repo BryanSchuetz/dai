@@ -24,7 +24,7 @@ Bernice Sam, Dialogue Leader with the Ghana Western Region Coastal Foundation, i
 ![WB_Bernice_1.jpg](/uploads/WB_Bernice_1.jpg)
 `Bernice Sam presents on the effects of oil and gas infrastructure projects on land and livelihoods in Ghana.`
 
-The conference also offered a valuable opportunity for the DAI team to learn about the challenges and successes of other land tenure programs around the world. “This year’s disuccsions helped to validate the work we’ve been doing in our projects in Africa to address how constraints to the land market negatively affect poor land holders,” said DAI’s [John Leckie](https://www.dai.com/who-we-are/our-team/john-leckie). “It’s inspiring to see more attendees at the conference every year and to see land administration issues approached from such a wide range of perspectives.”
+The conference also offered a valuable opportunity for the DAI team to learn about the challenges and successes of other land tenure programs around the world. “This year’s discussions helped to validate the work we’ve been doing in our projects in Africa to address how constraints to the land market negatively affect poor land holders,” said DAI’s [John Leckie](https://www.dai.com/who-we-are/our-team/john-leckie). “It’s inspiring to see more attendees at the conference every year and to see land administration issues approached from such a wide range of perspectives.”
 
 To further share our learning in land tenure and administration programs, a special issue of DAI’s *Developing Alternatives* journal on [Making Land Rights Real](http://dai-global-developments.com/developing-alternatives/land-rights/) was published to coincide with the conference.
 
