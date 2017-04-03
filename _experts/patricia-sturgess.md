@@ -10,7 +10,7 @@ image: "/assets/images/experts/Sturgess%20INNER.jpg"
 solutions:
 - Economic Growth
 - Sustainable Livelihoods
-- Stability
+- Fragile States
 regions:
 - Latin America and the Caribbean
 - Sub-Saharan Africa

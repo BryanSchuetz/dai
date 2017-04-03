@@ -9,7 +9,9 @@ regions:
 country:
 - Burundi
 solutions:
-- Stability
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Established to assist Burundi''s post-transition national government and
   civil society organizations, PCTAP increased the government''s ability to develop

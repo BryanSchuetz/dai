@@ -6,8 +6,9 @@ regions:
 - Asia and the Pacific
 - Latin America and the Caribbean
 solutions:
-- Governance
 - Digital
+- Fragile States
+- Governance
 layout: expert
 image: "/assets/images/experts/Adam%20inner.png"
 summary: Adam works to make interventions more efficient and more effective by introducing

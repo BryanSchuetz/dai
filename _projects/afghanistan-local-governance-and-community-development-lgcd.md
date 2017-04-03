@@ -11,7 +11,10 @@ country:
 solutions:
 - Gender
 - Governance
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'When this project launched in 2006, the insurgency was intensifying in Afghanistan
   and would soon escalate into violence. Our mission on behalf of the U.S. Agency

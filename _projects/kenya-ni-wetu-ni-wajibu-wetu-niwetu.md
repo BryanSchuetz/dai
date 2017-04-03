@@ -16,7 +16,8 @@ solutions:
 - Institutional and Policy Reform
 - Peace-building and State-building
 - Security and Justice Development
-- Stability
+- Fragile States
+- Countering Extremism
 regions:
 - Sub-Saharan Africa
 country:

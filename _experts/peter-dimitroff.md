@@ -6,6 +6,7 @@ regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa
 solutions:
+- Fragile States
 - Gender
 - Institutional and Policy Reform
 - Legislative Strengthening

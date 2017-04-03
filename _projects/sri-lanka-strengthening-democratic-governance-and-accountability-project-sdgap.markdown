@@ -10,6 +10,8 @@ solutions:
 - Institutional and Policy Reform
 - Public Administration, Civil Service Reform, and Human Resources Management
 - Voice and Accountability
+- Fragile States
+- Stabilization
 regions: Asia and the Pacific
 country: Sri Lanka
 summary: Sri Lanka's new government has taken bold steps toward political and social

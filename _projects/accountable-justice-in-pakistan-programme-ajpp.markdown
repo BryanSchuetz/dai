@@ -15,6 +15,9 @@ solutions:
 - Institutional and Policy Reform
 - Governance
 - Voice and Accountability
+- Fragile States
+- Security and Justice
+- Countering Extremism
 regions: Asia and the Pacific
 country: Pakistan
 ---

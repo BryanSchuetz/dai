@@ -14,7 +14,8 @@ solutions:
 - Environment and Energy
 - Governance
 - Health
-- Stability
+- Fragile States
+- Stabilization
 layout: project
 summary: 'Grand Challenges for Development has given people around the world a way
   to apply their scientific and technological know-how to solving global development

@@ -10,6 +10,10 @@ country:
 - Liberia
 solutions:
 - Governance
+- Fragile States
+- Security and Justice
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'LAVI will implement activities that strengthen advocacy and coalitions pressing
   for public sector reform and improving the citizen-state relationship. We will work

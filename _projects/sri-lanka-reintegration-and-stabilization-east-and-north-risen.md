@@ -12,7 +12,11 @@ start: 2009
 end: 2013
 client: U.S. Agency for International Development
 solutions:
-- Stability
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 regions:
 - Asia and the Pacific
 country:

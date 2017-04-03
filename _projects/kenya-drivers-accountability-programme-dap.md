@@ -9,7 +9,11 @@ regions:
 country:
 - Kenya
 solutions:
-- Stability
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: This programme was prompted by the post-election violence of 2007–2008 in
   Kenya, when implications of impunity, lack of accountability, and need for an overhaul

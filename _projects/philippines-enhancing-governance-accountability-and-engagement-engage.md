@@ -10,7 +10,10 @@ country:
 - Philippines
 solutions:
 - Governance
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'This project assists six conflict-affected areas in Mindanao, Philippines:
   Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo,

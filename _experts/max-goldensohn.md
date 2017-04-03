@@ -10,6 +10,7 @@ job-title: Senior Advisor for Special Projects
 image: "/assets/images/experts/Goldensohn_Inner.jpg"
 solutions:
 - Economic Growth
+- Fragile States
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa

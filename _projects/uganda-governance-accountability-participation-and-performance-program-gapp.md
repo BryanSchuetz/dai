@@ -10,6 +10,8 @@ country:
 - Uganda
 solutions:
 - Governance
+- Fragile States
+- Stabilization
 layout: project
 summary: 'GAPP is improving the environment in Uganda—legal, policy, regulatory, and
   institutional—to meet demands for democratic governance and the participation of

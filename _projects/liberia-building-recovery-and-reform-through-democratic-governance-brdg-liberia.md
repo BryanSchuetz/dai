@@ -10,6 +10,10 @@ country:
 - Liberia
 solutions:
 - Governance
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Since 1979, chronic instability has plagued Liberia. Peace was restored
   in late 2003 when warring factions signed a Comprehensive Peace Agreement, and in

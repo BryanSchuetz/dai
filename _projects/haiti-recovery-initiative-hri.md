@@ -9,7 +9,9 @@ regions:
 country:
 - Haiti
 solutions:
-- Stability
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'The January 2010 earthquake shattered Haiti''s teeming capital of Port-au-Prince,
   killing and maiming hundreds of thousands of people, rendering homeless hundreds

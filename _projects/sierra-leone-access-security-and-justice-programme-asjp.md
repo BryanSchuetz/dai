@@ -9,7 +9,9 @@ end: 2016
 client: U.K. Department for International Development
 solutions:
 - Governance
-- Stability
+- Fragile States
+- Security and Justice
+- Peace-Building and Political Transition
 regions:
 - Sub-Saharan Africa
 country:

@@ -9,7 +9,7 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 solutions:
-- Stability
+- Fragile States
 - Transition and Stabilization Programming
 layout: expert
 image: "/assets/images/experts/ElizabethVInner.jpg"

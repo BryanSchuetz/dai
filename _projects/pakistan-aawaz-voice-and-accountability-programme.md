@@ -12,6 +12,11 @@ solutions:
 - Gender
 - Governance
 - Voice and Accountability
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'AAWAZ brings together five of the most important civil society development
   organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan,

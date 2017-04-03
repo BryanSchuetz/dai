@@ -11,7 +11,9 @@ country:
 - Afghanistan
 solutions:
 - Governance
-- Stability
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Afghan municipalities have long suffered from underinvestment, limited support,
   low revenues, and weak institutional capacity. As a result, services and infrastructure

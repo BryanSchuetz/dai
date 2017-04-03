@@ -6,7 +6,7 @@ summary: 'Communities that come together and work toward similar goals for the g
 
 '
 solutions:
-- Stability
+- Fragile States
 regions:
 - Sub-Saharan Africa
 projects: Somalia—Transition Initiatives for Stabilization (TIS)

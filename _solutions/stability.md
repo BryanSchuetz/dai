@@ -7,7 +7,7 @@ icon: <svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRat
 summary: Partnering with government, civil society, and private sector actors to provide
   short-term stability and build the foundation for long-term development.
 layout: solution
-type: primary
+type: archived
 promos:
 - title: "**Our Team:** DAI Stability Experts"
   link: "/who-we-are/the-team?filter=stability"
@@ -26,4 +26,4 @@ We establish partnerships with government, civil society, and private sector act
 
 [Peace-building and State-building](/our-work/solutions/stability-solutions/peace-building-and-state-building)—Our approach focuses on the long-term goal of building legitimate indigenous governments that are better able to respond to the needs of their populations. We analyze root causes of conflict, map power relations, improve local capacity to articulate demands to the state, and strengthen state institutions’ capacity to deliver those important services.
 
-[Security and Justice Development](/our-work/solutions/stability-solutions/security-and-justice-development)—We build the capacity of both formal and informal security and justice systems to improve citizen security and deliver justice. We emphasize grassroots, community-level collaboration as the starting point for systemic, society-wide reform.
+[Security and Justice](/our-work/solutions/fragile-states-solutions/security-and-justice)—We support access to, accountability in, and the stability of formal and informal justice institutions, building the capacity of legitimate security and justice systems to deliver services and ensure citizen security. We emphasize grassroots, community-level collaboration as the starting point for reform, particularly in complex transitional justice and post-conflict environments..

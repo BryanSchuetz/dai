@@ -9,7 +9,10 @@ regions:
 country:
 - Serbia
 solutions:
-- Stability
+- Fragile States
+- Security and Justice
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Only a half-generation removed from civil war, Serbia has also been prone
   to flooding, including devastating floods in 2006 and 2010 that wrecked communities

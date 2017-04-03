@@ -9,7 +9,7 @@ summary: '"Are you going to have a cookie-cutter solution, or are you going to t
 
 '
 solutions:
-- Stability
+- Fragile States
 regions:
 - Sub-Saharan Africa
 projects: 

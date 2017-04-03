@@ -10,6 +10,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Economic Growth
+- Fragile States
 - Digital
 layout: expert
 image: "/assets/images/experts/seanINNER_1.jpg"

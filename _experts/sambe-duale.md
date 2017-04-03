@@ -9,6 +9,7 @@ regions:
 solutions:
 - Governance
 - Health
+- Fragile States
 layout: expert
 image: "/assets/images/experts/SambeInner_0.jpg"
 summary: |

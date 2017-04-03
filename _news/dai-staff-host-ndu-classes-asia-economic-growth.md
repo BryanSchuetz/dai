@@ -9,7 +9,7 @@ summary: 'DAI staff made presentations last week to military and civilian member
 
 '
 solutions:
-- Stability
+- Fragile States
 regions:
 - Asia and the Pacific
 projects: 

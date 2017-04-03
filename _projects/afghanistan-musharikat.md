@@ -12,9 +12,12 @@ solutions:
 - Conflict and Vulnerability Analysis
 - Gender
 - Governance
-- Stability
+- Fragile States
 - Transition and Stabilization Programming
 - Voice and Accountability
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
 layout: project
 summary: 'Musharikat will support USAID/Afghanistan''s investments in women''s rights
   groups and activists. Musharikat—which means "partnership" or "participation" in

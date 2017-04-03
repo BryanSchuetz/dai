@@ -9,7 +9,10 @@ regions:
 country:
 - Sri Lanka
 solutions:
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Funded by the U.S. Agency for International Development (USAID), the Sri
   Lanka Transition Initiatives (SLTI) built support for the peace process among Sri

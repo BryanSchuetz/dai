@@ -8,7 +8,7 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 solutions:
-- Stability
+- Fragile States
 layout: expert
 image: "/assets/images/experts/Lawrence_Inner.jpg"
 summary: Since 1996, Rebecca Lawrence has planned and implemented more than a dozen

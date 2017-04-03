@@ -10,9 +10,10 @@ regions:
 country:
 - Decomcratic Republic of the Congo
 solutions:
-- Peace-building and State-building
-- Security and Justice Development
-- Stability
+- Peace-Building and Political Transition
+- Security and Justice
+- Fragile States
+- Countering Extremism
 - Transition and Stabilization Programming
 layout: project
 summary: The Democratic Republic of the Congo (DRC) has for decades been riven by

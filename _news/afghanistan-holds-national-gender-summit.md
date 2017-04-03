@@ -7,7 +7,7 @@ summary: A national summit on gender equality was recently held in Afghanistan t
 solutions:
 - Conflict and Vulnerability Analysis
 - Gender
-- Stability
+- Fragile States
 - Transition and Stabilization Programming
 - Voice and Accountability
 regions:

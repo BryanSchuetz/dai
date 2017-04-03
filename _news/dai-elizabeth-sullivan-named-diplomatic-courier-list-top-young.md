@@ -9,7 +9,7 @@ summary: 'Elizabeth Sullivan, a Monitoring and Evaluation Specialist on DAI''s T
 
 '
 solutions:
-- Stability
+- Fragile States
 regions:
 - Middle East and North Africa
 projects: Africa—Trans-Sahara Security Symposium (TSS)

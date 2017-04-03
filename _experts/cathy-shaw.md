@@ -7,7 +7,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Environment and Energy
-- Stability
+- Fragile States
 layout: expert
 image: "/assets/images/experts/CathyShawInner.jpg"
 summary: 'Cathy Shaw is a Principal Project Manager at DAI Europe, having joined the

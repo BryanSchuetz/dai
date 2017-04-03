@@ -12,6 +12,7 @@ image: "/assets/images/experts/KathorInner.jpg"
 solutions:
 - Governance
 - Health
+- Fragile States
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

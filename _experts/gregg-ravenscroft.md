@@ -8,7 +8,7 @@ summary: 'Gregg Ravenscroft is a Principal Project Manager with more than 12 yea
 job-title: Principal Project Manager
 image: "/assets/images/experts/Greg-1%20INNER.jpg"
 solutions:
-- Stability
+- Fragile States
 - Transition and Stabilization Programming
 regions:
 - Sub-Saharan Africa

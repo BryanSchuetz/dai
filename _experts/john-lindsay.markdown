@@ -10,7 +10,7 @@ image: "/uploads/John%20bio.jpg"
 solutions:
 - Governance
 - Economic Growth
-- 
+- Fragile States
 Lastname: Lindsay
 ---
 

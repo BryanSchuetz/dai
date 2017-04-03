@@ -10,10 +10,11 @@ regions:
 country:
 - Democratic Republic of Congo
 solutions:
-- Peace-building and State-building
-- Security and Justice Development
-- Stability
-- Transition and Stabilization Programming
+- Peace-Building and Political Transition
+- Security and Justice
+- Fragile States
+- Countering Extremism
+- Stabilization
 layout: project
 summary: DAO Progress aims to assist civil and military authorities in the design
   and conduct of the security sector reform process (defence component) in the Democratic

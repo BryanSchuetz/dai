@@ -11,7 +11,7 @@ summary: 'he municipality of Herat, Afghanistan, hosted its second annual film f
 '
 solutions:
 - Governance
-- Stability
+- Fragile States
 regions:
 - Middle East and North Africa
 projects: Afghanistan—Regional Afghan Municipalities Program for Urban Populations,

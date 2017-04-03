@@ -10,7 +10,6 @@ summary: Heather Skilling has more than 25 years of experience in strengthening 
 job-title: Principal Global Practice Specialist, Water and Sanitation
 image: "/assets/images/experts/Skilling%20Portal.jpg"
 solutions:
-- Stability
 - Governance
 - Environment and Energy
 regions:

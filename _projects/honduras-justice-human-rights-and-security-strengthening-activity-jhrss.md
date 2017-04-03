@@ -14,9 +14,9 @@ solutions:
 - Governance
 - Institutional and Policy Reform
 - Law and Justice
-- Peace-building and State-building
-- Security and Justice Development
-- Stability
+- Peace-Building and Political Transition
+- Security and Justice
+- Fragile States
 - Voice and Accountability
 regions:
 - Latin America and the Caribbean

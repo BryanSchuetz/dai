@@ -9,5 +9,7 @@ summary: 'Sarah joined DAI’s London office as a Director of Technical Services
   United Nations entities, and nongovernmental organizations. '
 image: "/uploads/SarahMaguireInner.jpg"
 group: Portfolio Coordinators
+solutions:
+  - Fragile States
 ---
 

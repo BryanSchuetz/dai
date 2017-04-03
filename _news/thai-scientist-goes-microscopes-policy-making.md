@@ -12,7 +12,7 @@ summary: 'From examining microbes under a microscope to pitching policy recommen
 solutions:
 - Governance
 - Economic Growth
-- Stability
+- Fragile States
 regions:
 - Asia and the Pacific
 projects: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and

@@ -10,7 +10,7 @@ summary: 'Since 2011, the Syrian conflict has killed more than 100,000 people an
 
 '
 solutions:
-- Stability
+- Fragile States
 - Economic Growth
 - Public Financial Management
 regions:

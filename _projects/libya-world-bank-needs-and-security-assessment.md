@@ -10,7 +10,11 @@ country:
 - Libya
 solutions:
 - Governance
-- Stability
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'The goal of this assessment is to update World Bank understanding in Libya,
   increase the specificity of its knowledge about critical institutions and themes,

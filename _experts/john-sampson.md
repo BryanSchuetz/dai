@@ -12,7 +12,7 @@ solutions:
 - Conflict and Vulnerability Analysis
 - Peace-building and State-building
 - Security and Justice Development
-- Stability
+- Fragile States
 - Transition and Stabilization Programming
 layout: expert
 image: "/assets/images/experts/SampsonJohn_inner.jpg"

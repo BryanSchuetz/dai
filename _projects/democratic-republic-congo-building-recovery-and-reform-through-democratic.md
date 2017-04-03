@@ -10,8 +10,11 @@ regions:
 country:
 - Democratic Republic of the Congo
 solutions:
-- Stability
+- Fragile States
+- Countering Extremism
 - Governance
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Following a seven-year civil war, the Democratic Republic of the Congo (DRC)
   is on a path toward recovery. A constitutional referendum was successfully implemented;

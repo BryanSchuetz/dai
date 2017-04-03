@@ -10,7 +10,11 @@ regions:
 country:
 - Regional
 solutions:
-- Stability
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: Ethnic conflict, weak economies, health crises, and fragile governments dramatically
   hinder sustainable economic and political development in Africa's Horn and Great

@@ -11,6 +11,11 @@ country:
 - Bangladesh
 solutions:
 - Governance
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Corruption is a significant obstacle to governments as they seek greater
   economic growth and to expand public services. Faced with the lack of transparency

@@ -8,7 +8,6 @@ regions:
 solutions:
 - Governance
 - Peace-building and State-building
-- Stability
 layout: expert
 image: "/assets/images/experts/Weeks_Inner-1.jpg"
 summary: Willet Weeks has four decades of experience in Africa, mostly in conflict

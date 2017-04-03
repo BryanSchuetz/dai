@@ -14,6 +14,7 @@ solutions:
 - Governance
 - Health
 - Health Governance
+- Fragile States
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

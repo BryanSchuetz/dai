@@ -16,7 +16,7 @@ solutions:
 - Legislative Strengthening
 - Peace-building and State-building
 - Security and Justice Development
-- Stability
+- Fragile States
 regions:
 - Latin America and the Caribbean
 - Middle East and North Africa

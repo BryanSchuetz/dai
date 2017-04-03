@@ -9,7 +9,10 @@ regions:
 country:
 - Kenya
 solutions:
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Adopted in the wake of flawed national elections and resulting interethnic
   violence in 2007, Kenya''s February 2008 peace accord and power-sharing agreement

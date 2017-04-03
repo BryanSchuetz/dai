@@ -7,7 +7,9 @@ summary: Polly Gillingham is a livelihoods specialist, with a particular interes
   over—natural resources.
 job-title: Business Management and Livelihoods Specialist
 image: "/assets/images/experts/PollyGillinghamINNER.jpg"
-solutions: Governance
+solutions:
+  - Governance
+  - Fragile States
 regions: Sub-Saharan Africa
 layout: expert
 ---

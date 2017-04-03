@@ -11,7 +11,10 @@ country:
 - Pakistan
 solutions:
 - Governance
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'In Pakistan''s Federally Administered Tribal Areas (FATA), socioeconomic
   development has been inhibited by a lack of development funds. In addition, worsening

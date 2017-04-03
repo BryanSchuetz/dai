@@ -10,6 +10,10 @@ country:
 - Pakistan
 solutions:
 - Governance
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: Khyber Pakhtunkhwa (KP) is Pakistan's smallest province, but it ranks third
   in population and economic activity. KP's relative vitality and diversity are offset

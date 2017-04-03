@@ -16,6 +16,8 @@ solutions:
 - Governance
 - Decentralization and Local Government Management
 - Voice and Accountability
+- Fragile States
+- Stabilization
 regions: Sub-Saharan Africa
 country: Democratic Republic of the Congo
 ---

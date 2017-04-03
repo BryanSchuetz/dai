@@ -10,6 +10,8 @@ country:
 - Dominican Republic
 solutions:
 - Governance
+- Fragile States
+- Security and Justice
 layout: project
 summary: 'The adoption of a new criminal procedures code in the Dominican Republic
   is bringing about institutional and organizational transformation needed to modernize

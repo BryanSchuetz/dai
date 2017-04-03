@@ -8,7 +8,7 @@ summary: 'Traditional arts and culture contribute to peace and stability in Soma
 
 '
 solutions:
-- Stability
+- Fragile States
 regions:
 - Sub-Saharan Africa
 projects: Somalia—Transition Initiatives for Stabilization (TIS)

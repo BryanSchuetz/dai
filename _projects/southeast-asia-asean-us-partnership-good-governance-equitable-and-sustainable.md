@@ -13,7 +13,10 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Governance
-- Stability
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Stabilization
 regions:
 - Asia and the Pacific
 country:

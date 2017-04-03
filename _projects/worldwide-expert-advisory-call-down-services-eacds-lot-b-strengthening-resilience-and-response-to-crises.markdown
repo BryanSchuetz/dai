@@ -16,7 +16,10 @@ client: U.K. Department for International Development
 solutions:
 - Conflict and Vulnerability Analysis
 - Climate Change Adaptation and Mitigation
-- Stability
+- Security and Justice
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
 regions: Worldwide
 country: Worldwide
 ---

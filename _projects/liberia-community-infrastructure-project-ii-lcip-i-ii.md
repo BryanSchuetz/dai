@@ -9,7 +9,10 @@ regions:
 country:
 - Liberia
 solutions:
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'After the second civil war in Liberia ended, DAI was active in the country
   on behalf of the U.S. Agency for International Development (USAID), supporting social

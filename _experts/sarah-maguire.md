@@ -13,7 +13,7 @@ solutions:
 - Gender
 - Law and Justice
 - Security and Justice Development
-- Stability
+- Fragile States
 - Transition and Stabilization Programming
 - Voice and Accountability
 - Governance

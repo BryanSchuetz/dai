@@ -9,8 +9,9 @@ regions:
 country:
 - Afghanistan
 solutions:
-- Peace-building and State-building
-- Stability
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: In 2004, the U.S. Agency for International Development launched a national
   plan to create meaningful alternative livelihoods and assist the Afghan people in

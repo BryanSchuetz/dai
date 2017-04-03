@@ -10,7 +10,10 @@ country:
 - Afghanistan
 solutions:
 - Governance
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: SIKA-North worked to create more resilient communities in Afghanistan that
   see their government officials as delivering public services and responsive to local

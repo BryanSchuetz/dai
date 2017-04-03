@@ -11,9 +11,12 @@ country:
 solutions:
 - Gender
 - Governance
-- Security and Justice Development
-- Stability
+- Security and Justice
+- Fragile States
+- Countering Extremism
 - Voice and Accountability
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: This project aims to find opportunities to make short-term, high-impact grants
   to improve rights awareness, citizen engagement, access to justice, and provision

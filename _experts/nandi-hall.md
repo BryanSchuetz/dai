@@ -9,7 +9,7 @@ image: "/assets/images/experts/Nandi%20Hall%20INNER.jpg"
 solutions:
 - Conflict and Vulnerability Analysis
 - Economic Growth
-- Stability
+- Fragile States
 - Sustainable and Accountable Health Services
 regions:
 - Middle East and North Africa

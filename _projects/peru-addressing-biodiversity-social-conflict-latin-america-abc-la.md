@@ -9,10 +9,13 @@ regions:
 country:
 - Regional
 solutions:
-- Peace-building and State-building
-- Stability
+- Peace-Building and Political Transition
+- Fragile States
+- Security and Justice
+- Countering Extremism
 - Voice and Accountability
 - Water and Sanitation Services and Management
+- Stabilization
 layout: project
 summary: The increase of mining, logging, and oil and gas development in Latin America
   has led to chronic low-grade conflict and periodic violence in communities in or

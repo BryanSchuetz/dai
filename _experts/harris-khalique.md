@@ -8,6 +8,7 @@ solutions:
 - Governance
 - Institutional and Policy Reform
 - Voice and Accountability
+- Fragile States
 layout: expert
 image: "/assets/images/experts/HarrisInner.jpg"
 summary: Harris Khalique is an internationally recognized civil society leader with

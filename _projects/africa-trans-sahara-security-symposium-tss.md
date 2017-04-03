@@ -9,7 +9,11 @@ regions:
 country:
 - Regional
 solutions:
-- Stability
+- Fragile States
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'The U.S. Africa Command''s Operation Enduring Freedom—Trans-Sahara and DAI
   conducted this innovative civil-military operations/relations (CMO/R) education

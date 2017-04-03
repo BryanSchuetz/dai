@@ -8,7 +8,7 @@ regions:
 solutions:
 - Economic Growth
 - Governance
-- Stability
+- Fragile States
 layout: expert
 image: "/assets/images/experts/Doxtater-Inner.jpg"
 summary: For the last decade, Keith Doxtater has provided strategic direction and

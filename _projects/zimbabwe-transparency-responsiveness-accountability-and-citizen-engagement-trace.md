@@ -11,6 +11,9 @@ country:
 - Zimbabwe
 solutions:
 - Governance
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'Now might be the time for Zimbabwe improve on its record of access to justice,
   human rights, and responsiveness to citizens'' needs.

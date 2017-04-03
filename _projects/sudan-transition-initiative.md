@@ -9,7 +9,10 @@ regions:
 country:
 - Sudan
 solutions:
-- Stability
+- Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
 layout: project
 summary: 'DAI managed small grant activities to strengthen Sudan''s transition to
   democratic and civilian rule, and and worked to improve stakeholder understanding

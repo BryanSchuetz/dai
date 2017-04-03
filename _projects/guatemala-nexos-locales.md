@@ -17,6 +17,8 @@ solutions:
 - Governance
 - Institutional and Policy Reform
 - Public Financial Management
+- Fragile States
+- Stabilization
 regions:
 - Latin America and the Caribbean
 country:

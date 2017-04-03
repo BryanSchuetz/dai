@@ -10,7 +10,6 @@ regions:
 solutions:
 - Land Tenure and Property Rights
 - Peace-building and State-building
-- Stability
 - Transition and Stabilization Programming
 layout: expert
 image: "/assets/images/experts/KeithSmith1Inner.jpg"

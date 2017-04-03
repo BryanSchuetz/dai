@@ -9,7 +9,8 @@ regions:
 country:
 - Pakistan
 solutions:
-- Transition and Stabilization Programming
+- Fragile States
+- Stabilization
 layout: project
 summary: PREIA works to increase Pakistan's access to regional and international markets
   and is a key economic growth project that stands to benefit numerous Pakistani businesses.
