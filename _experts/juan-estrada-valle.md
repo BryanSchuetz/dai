@@ -20,7 +20,10 @@ Juan Estrada-Valle has more than 20 years of experience in agriculture, value ch
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/35273230?title=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
-He has led large-scale agricultural development programs in Southern Africa, the Western Balkans, and South Asia. Juan was most recently the Chief of Party of the Agricultural Credit Enhancement (ACE) Program, where he helped establish an Agricultural Development Fund in Afghanistan. He holds degrees in agronomy, agricultural economics, and international development from Universidad de San Carlos de Guatemala and Michigan State University.
+He has led large-scale agricultural development programs in Southern Africa, the Western Balkans, and South Asia. Juan was most recently the Chief of Party of the Agricultural Credit Enhancement (ACE) Program, where he helped establish an Agricultural Development Fund in Afghanistan. He now leads the East Africa Trade and Investment Hub.
 
 * [Commendation](http://) from Afghanistan Ministry of Agriculture, Irrigation, and Livestock
 * Board Member, Agribusiness Economics and Management Section, Agricultural and Applied Economics Association
+* PhD, international development, agri-food systems economics, Michigan State University
+* M.S., agricultural economics, Michigan State University
+* B.S., agronomy, animal science, Universidad de San Carlos, Guatemala
