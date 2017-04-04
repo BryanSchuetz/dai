@@ -8,7 +8,7 @@ redirect_from:
 
 Forty years on the frontlines of global development confirm the interconnectedness of development challenges. Conflict mitigation touches on issues of effective civil society, legitimate governance, equitable use of natural resources, and poverty reduction. Poverty reduction in turn intersects with economic reform, global competitiveness, private sector engagement, and the prevalence of debilitating diseases. And so on. Our development specialists reach across technical disciplines to shape the integrated development solutions that promise transformational development results.
 
-{% assign primary_solutions = site.solutions | where:"type","primary" %}
+{% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
 {% for solution in primary_solutions %}
 <div class="solution-block">
   <h2 class="solution-title">{{ solution.icon }} {{ solution.title }}</h2>

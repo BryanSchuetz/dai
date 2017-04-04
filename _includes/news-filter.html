@@ -3,7 +3,7 @@
   <p>Looking for news articles on a particular technical topic or geographical area? Click below to filter.<br/><a class="filter-reset" href="/news/view-more-news">RESET FILTERS</a></p>
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
-    {% assign primary_solutions = site.solutions | where:"type","primary" %}
+    {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
     {% for solution in primary_solutions %}<button data-filter=".{{ solution.title | slugify }}" class="filter--solution button"> {{ solution.icon }} {{ solution.title }}</button>{% endfor %}
   </div>
   <div class="button-group filter-button-group region" data-filter-group="region">

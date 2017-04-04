@@ -8,7 +8,7 @@
   </div>
   <div class="button-group filter-button-group solution" data-filter-group="solution">
     <h3>Filter by Solution</h3>
-    {% assign primary_solutions = site.solutions | where:"type","primary" %}
+    {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
     {% for solution in primary_solutions %}<button class="filter--solution button" data-filter=".{{ solution.title | slugify }}"> {{ solution.icon }} {{ solution.title }} </button>{% endfor %}
   </div>
   <div class="button-group filter-button-group" data-filter-group="client">
