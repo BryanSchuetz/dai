@@ -7,7 +7,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Governance
-- Peace-building and State-building
+- Peace-Building and Political Transition
 layout: expert
 image: "/assets/images/experts/Weeks_Inner-1.jpg"
 summary: Willet Weeks has four decades of experience in Africa, mostly in conflict

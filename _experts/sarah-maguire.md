@@ -12,9 +12,9 @@ solutions:
 - Countering Extremism
 - Gender
 - Law and Justice
-- Security and Justice Development
+- Security and Justice
 - Fragile States
-- Transition and Stabilization Programming
+- Stabilization
 - Voice and Accountability
 - Governance
 regions:

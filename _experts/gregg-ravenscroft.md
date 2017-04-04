@@ -9,7 +9,7 @@ job-title: Principal Project Manager
 image: "/assets/images/experts/Greg-1%20INNER.jpg"
 solutions:
 - Fragile States
-- Transition and Stabilization Programming
+- Stabilization
 regions:
 - Sub-Saharan Africa
 layout: expert

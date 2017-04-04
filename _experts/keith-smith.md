@@ -9,8 +9,8 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Land Tenure and Property Rights
-- Peace-building and State-building
-- Transition and Stabilization Programming
+- Peace-Building and Political Transition
+- Stabilization
 layout: expert
 image: "/assets/images/experts/KeithSmith1Inner.jpg"
 summary: A former aircraft engineer, Keith is an experienced development professional

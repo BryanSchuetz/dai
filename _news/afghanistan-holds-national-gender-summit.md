@@ -8,7 +8,7 @@ solutions:
 - Countering Extremism
 - Gender
 - Fragile States
-- Transition and Stabilization Programming
+- Stabilization
 - Voice and Accountability
 regions:
 - Middle East and North Africa

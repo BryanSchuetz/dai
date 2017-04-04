@@ -7,7 +7,7 @@ regions:
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Transition and Stabilization Programming
+- Stabilization
 - Value Chain Development for Agribusiness and Other Sectors
 layout: expert
 image: "/assets/images/experts/Kongkona%20Sarma%20Inner.jpg"

@@ -10,7 +10,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Fragile States
-- Transition and Stabilization Programming
+- Stabilization
 layout: expert
 image: "/assets/images/experts/ElizabethVInner.jpg"
 summary: Elizabeth has 13 years of programmatic and operations experience in designing,

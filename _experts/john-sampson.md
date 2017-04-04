@@ -10,10 +10,10 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Countering Extremism
-- Peace-building and State-building
-- Security and Justice Development
+- Peace-Building and Political Transition
+- Security and Justice
 - Fragile States
-- Transition and Stabilization Programming
+- Stabilization
 layout: expert
 image: "/assets/images/experts/SampsonJohn_inner.jpg"
 summary: 'John Sampson has 11 years of experience leading complex, high-speed programs
