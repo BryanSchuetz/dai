@@ -20,34 +20,32 @@ country:
 layout: project
 ---
 
-This project catalyzes inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. As the flagship Feed the Future program in the region, it is positioned to be one of the most innovative initiatives by increasing incomes while also developing local companies into direct partners of the U.S. Agency for International Development (USAID)'s assistance to Haiti.
+Despite the steeply sloped terrain, the soil of northern Haiti has the potential to produce highly profitable cash crops, such as rice, bananas, and cacao. However, a lack of access to markets and improved agriculture techniques has kept crop prices and yields low, while floods, droughts, and landslides are a constant threat to farmers’ harvests and livelihoods. These factors have helped contributed to a persistent cycle of poverty, malnutrition, and food insecurity in the region.
 
-The project's objectives include: increasing agricultural productivity among a wider circle of small farmers; improving watershed stability above selected plains; strengthening agricultural markets by increasing access to financial products; and improving transportation infrastructure such as roads to fertile but inaccessible farmland.
+To help Haitian farmers confront these challenges, the U.S. Agency for International Development (USAID), in collaboration with the Haitian Ministry of Agriculture, has launched the Feed the Future North program to catalyze inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. Appui a la Valorisation du potentiel Agricole du Nord, pour la Securite Economique et Environnementale, or Support to the Valuation of the Agricultural Potential of the North for Economic and Environmental Security (AVANSE) is the flagship Feed the Future program in the region, and partners with small-holder farmers to build resilience to climate shocks, increase agricultural productivity, and improve livelihood opportunities.
+
+AVANSE works with both farmers and vendors to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing access to financial products and produce buyers.
 
 ![](/assets/images/projects/AVANSE.jpg)
 
 ### Sample Activities
 
-* Introduce higher-yielding crop varieties and cultivation techniques in five strategic crops (rice, bananas, beans, maize, and cacao) to 43,000 targeted beneficiaries in six watersheds in northern Haiti.
+* Introduce higher-yield crop varieties and cultivation techniques for strategic crops (rice, bananas, and cacao).
 
-* Pilot a voucher program to increase beneficiaries' access to agricultural inputs such as seeds, fertilizers, and pesticides while stimulating local markets for these commodities.
+* Pilot a voucher program to increase beneficiaries' access to agricultural inputs, such as seeds, fertilizers, and pesticides, while stimulating local markets for these commodities.
 
-* Ensure access to best practices and approaches that improve product quality and producer efficiency.
+* Conduct environmental assessments in watersheds to ensure compliance with Haiti's Code of Federal Regulations and create better understanding of the delicate nature of the watersheds and dangers of mismanagement.
 
-* Embrace local ownership and sustainability while emphasizing quality assurance, quality control, and effective return on investment.
-
-* Train and support local organizations to strengthen their systems and make them eligible for direct support from USAID.
-
-* Leverage local breakthroughs in mobile money and market information systems; integrate new technology throughout all interventions.
-
-* Analyze and integrate gender considerations, ensuring that women and men benefit equally from AVANSE interventions. All project indicators are disaggregated for gender.
-
-* Conduct environmental assessments in six watersheds to ensure compliance with Haiti's Code of Federal Regulations and an understanding of the delicate nature of the watersheds and dangers of mismanagement.
+* Provide grants to community-based organizations for equipment and small-scale infrastructure projects to improve climate resilience and agricultural productivity.
 
 ### Select Results
 
-* In the project's first year, [7,007 farmers](http://bit.ly/1HrxfEI) were trained to apply new agricultural technologies.
+* Organized smallholder cacao farmers into vendor groups to combine and manage stocks and sell directly to Haiti’s largest cacao exporter, Novella, leading to an almost 100 percent increase in the price per pound of cocoa sold by farmers.
 
-* Nearly 5,000 rural households benefitted directly from the project.
+* Collaborated with local NGO Collectifs de Lutte Contre  l’Exclusion Sociale to sign an agreement to purchase high-quality rice seeds produced by AVANSE farmers, resulting in five tons of seed sold by farmers at 68 Haitian Gourde (HTG) per kilo, compared to 35 HTG per kilo that most farmers previously earned selling rice paddies on the local market.
 
-* Nearly 3,000 people received training in natural resource management or biodiversity conservation.
+* Implemented improved technologies to help increase crop yields in more than 4,790 hectares of farmland, including fertilizers, plowing services, irrigation systems, and grafting and pruning tools.
+
+* Signed fifteen grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 667 hectares of hillside land from soil erosion and prevent flooding and landslides.
+
+* Provided two major grants to public-private partnerships to improve local livelihoods; one grant for Haitian Banana Producers Union to develop a 50-hectare commercial farm for the production and export of bananas, and another with cacao processor PISA S.A. to expand cacao fermentation facilities and improve the quality and value of cacao producers’ output.
