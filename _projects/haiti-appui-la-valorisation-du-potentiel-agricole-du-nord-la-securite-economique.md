@@ -23,7 +23,7 @@ Despite the steeply sloped terrain, the soil of northern Haiti has the potential
 
 To help Haitian farmers confront these challenges, the U.S. Agency for International Development (USAID), in collaboration with the Haitian Ministry of Agriculture, has launched the Feed the Future AVANSE program to catalyze inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. AVANSE is the flagship Feed the Future program in the region, and partners with smallholder farmers to build resilience to extreme weather events, increase agricultural productivity, and improve livelihood opportunities.
 
-AVANSE works with both farmers and vendors to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing direct access produce buyers.
+AVANSE works with both farmers and the private sector to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing direct access  to produce buyers.
 
 ![](/assets/images/projects/AVANSE.jpg)
 
@@ -33,7 +33,7 @@ AVANSE works with both farmers and vendors to address key constraints within pro
 
 * Pilot a voucher program to increase beneficiaries' access to agricultural inputs, such as seeds, fertilizers, and pesticides, while stimulating local markets for these commodities.
 
-* Conduct environmental assessments in watersheds to ensure compliance with Haiti's Code of Federal Regulations and create better understanding of the delicate nature of the watersheds and dangers of mismanagement.
+* Conduct environmental assessments in watersheds to ensure compliance with Haitian Government and USAID environmental regulations and to create a better understanding of the delicate nature of the watersheds and dangers of mismanagement.
 
 * Provide grants to community-based organizations for equipment and small-scale infrastructure projects to improve climate resilience and agricultural productivity.
 
