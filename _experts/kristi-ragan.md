@@ -14,8 +14,12 @@ solutions:
 - Innovation and Entrepreneurship
 layout: expert
 image: "/assets/images/experts/Ragan_Inner_0.jpg"
-summary: |
-  Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep urge to see the world. While Kristi was earning her master's degree from Georgetown University's School of Foreign Service, her professor, Madeleine Albright, urged her to join the United Nations and become "an international civil servant."
+summary: 'Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep
+  urge to see the world. While Kristi was earning her master''s degree from Georgetown
+  University''s School of Foreign Service, her professor, Madeleine Albright, urged
+  her to join the United Nations and become "an international civil servant."
+
+'
 job-title: Chief of Party, Center for Development Innovation
 articles:
 - name: 
