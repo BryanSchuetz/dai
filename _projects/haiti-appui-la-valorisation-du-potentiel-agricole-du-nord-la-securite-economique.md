@@ -2,11 +2,12 @@
 title: Haiti—Appui a la Valorisation du potentiel Agricole du Nord, pour la Securite
   Economique et Environnementale (AVANSE)
 date: 2016-01-21 22:40:00 Z
-summary: This project catalyzes inclusive, sustainable economic growth in a potentially
-  highly productive agricultural area in Haiti. As the flagship Feed the Future program
-  in the region, it is positioned to be one of the most innovative initiatives by
-  increasing incomes while also developing local companies into direct partners of
-  the U.S. Agency for International Development (USAID)'s assistance to Haiti.
+summary: Despite the steeply sloped terrain, the soil of northern Haiti has the potential
+  to produce highly profitable cash crops, such as rice, bananas, and cacao. However,
+  a lack of access to markets and improved agriculture techniques has kept crop prices
+  and yields low, while floods, droughts, and landslides are a constant threat to
+  farmers’ harvests and livelihoods. These factors have helped contributed to a persistent
+  cycle of poverty, malnutrition, and food insecurity in the region.
 start: 2013
 end: 2018
 client: U.S. Agency for International Development
