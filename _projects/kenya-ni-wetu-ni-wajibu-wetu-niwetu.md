@@ -11,7 +11,6 @@ start: 2016
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Conflict and Vulnerability Analysis
 - Governance
 - Institutional and Policy Reform
 - Peace-building and State-building

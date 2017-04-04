@@ -9,7 +9,7 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 solutions:
-- Conflict and Vulnerability Analysis
+- Countering Extremism
 - Economic Growth
 - Innovation and Entrepreneurship
 layout: expert

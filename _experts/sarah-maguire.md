@@ -9,7 +9,7 @@ summary: Sarah joined DAI's London office as a Director of Technical Services, G
 job-title: Director, Technical Services, Governance
 image: "/assets/images/experts/SarahMaguireInner.jpg"
 solutions:
-- Conflict and Vulnerability Analysis
+- Countering Extremism
 - Gender
 - Law and Justice
 - Security and Justice Development

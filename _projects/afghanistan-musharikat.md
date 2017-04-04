@@ -9,7 +9,6 @@ regions:
 country:
 - Afghanistan
 solutions:
-- Conflict and Vulnerability Analysis
 - Gender
 - Governance
 - Fragile States

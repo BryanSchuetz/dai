@@ -14,7 +14,6 @@ start: 2016
 end: 2018
 client: U.K. Department for International Development
 solutions:
-- Conflict and Vulnerability Analysis
 - Climate Change Adaptation and Mitigation
 - Security and Justice
 - Fragile States

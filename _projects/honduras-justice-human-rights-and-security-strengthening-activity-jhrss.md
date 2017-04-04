@@ -10,7 +10,6 @@ start: 2016
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Conflict and Vulnerability Analysis
 - Governance
 - Institutional and Policy Reform
 - Law and Justice

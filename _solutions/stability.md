@@ -8,13 +8,6 @@ summary: Partnering with government, civil society, and private sector actors to
   short-term stability and build the foundation for long-term development.
 layout: solution
 type: archived
-promos:
-- title: "**Our Team:** DAI Stability Experts"
-  link: "/who-we-are/the-team?filter=stability"
-- title: "**Our Work:** DAI Stability Projects"
-  link: "/our-work/the-projects?filter=stability"
-- title: "**News:** Recent Stability News"
-  link: "/news/view-more-news?filter=stability"
 related: false
 ---
 

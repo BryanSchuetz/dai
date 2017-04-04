@@ -5,7 +5,7 @@ summary: A national summit on gender equality was recently held in Afghanistan t
   brought together activist and civil society groups to set priorities and establish
   coalitions.
 solutions:
-- Conflict and Vulnerability Analysis
+- Countering Extremism
 - Gender
 - Fragile States
 - Transition and Stabilization Programming

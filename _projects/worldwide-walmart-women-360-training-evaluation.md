@@ -9,7 +9,6 @@ regions:
 country:
 - Regional
 solutions:
-- Conflict and Vulnerability Analysis
 - Corporate Sustainability
 - Economic Growth
 layout: project
