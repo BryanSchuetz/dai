@@ -23,7 +23,7 @@ Despite the steeply sloped terrain, the soil of northern Haiti has the potential
 
 To help Haitian farmers confront these challenges, the U.S. Agency for International Development (USAID), in collaboration with the Haitian Ministry of Agriculture, has launched the Feed the Future AVANSE program to catalyze inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. AVANSE is the flagship Feed the Future program in the region, and partners with smallholder farmers to build resilience to extreme weather events, increase agricultural productivity, and improve livelihood opportunities.
 
-AVANSE works with both farmers and vendors to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing access to financial products and produce buyers.
+AVANSE works with both farmers and vendors to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing direct access produce buyers.
 
 ![](/assets/images/projects/AVANSE.jpg)
 
@@ -45,6 +45,6 @@ AVANSE works with both farmers and vendors to address key constraints within pro
 
 * Implemented improved technologies to help increase crop yields in more than 4,790 hectares of farmland, including fertilizers, plowing services, irrigation systems, and grafting and pruning tools.
 
-* Signed 15 grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 667 hectares of hillside land from soil erosion and prevent flooding and landslides.
+* Signed 11 grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 667 hectares of hillside land from soil erosion and prevent flooding and landslides.
 
 * Provided two major grants to public-private partnerships to improve local livelihoods; one grant for Haitian Banana Producers Union to develop a 50-hectare commercial farm for the production and export of bananas, and another with cacao processor PISA S.A. to expand cacao fermentation facilities and improve the quality and value of cacao producers’ output.
