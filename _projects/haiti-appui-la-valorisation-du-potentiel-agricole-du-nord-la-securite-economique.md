@@ -35,7 +35,9 @@ AVANSE works with both farmers and the private sector to address key constraints
 
 * Conduct environmental assessments in watersheds to ensure compliance with Haitian Government and USAID environmental regulations and to create a better understanding of the delicate nature of the watersheds and dangers of mismanagement.
 
-* Provide grants to community-based organizations for equipment and small-scale infrastructure projects to improve climate resilience and agricultural productivity.
+* Provide grants to community-based organizations for agroforestry and soil conservation activities, including training and purchasing of planting material and seedlings. 
+
+* Provide grants to local businesses for equipment and small-scale infrastructure to increase productivity and create jobs.
 
 ### Select Results
 
