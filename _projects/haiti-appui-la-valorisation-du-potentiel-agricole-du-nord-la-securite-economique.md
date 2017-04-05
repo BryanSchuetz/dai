@@ -37,6 +37,8 @@ AVANSE works with both farmers and the private sector to address key constraints
 
 * Provide grants to community-based organizations for agroforestry and soil conservation activities, including training and purchasing of planting material and seedlings. 
 
+* Provide grants to community-based organizations for agroforestry and soil conservation activities, including training and purchasing planting material and seedlings.
+
 * Provide grants to local businesses for equipment and small-scale infrastructure to increase productivity and create jobs.
 
 ### Select Results
