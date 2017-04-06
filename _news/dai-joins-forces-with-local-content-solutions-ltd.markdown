@@ -1,6 +1,7 @@
 ---
 title: DAI Joins Forces with Local Content Solutions Ltd.
 date: 2017-04-06 15:32:00 Z
+is_featured: true
 solutions:
 - Corporate Sustainability
 summary: DAI today announced that it is joining forces with [Local Content Solutions
