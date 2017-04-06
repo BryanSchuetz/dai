@@ -6,7 +6,7 @@ summary: DAI is delighted to introduce the Spring 2017 issue of its *Development
   finance, stability, food security, and other areas.
 ---
 
-DAI is delighted to introduce the [Spring 2017](http://dai-global-developments.com/developments/spring-2017/) issue of its Developments newsletter.
+DAI is delighted to introduce the [Spring 2017](http://dai-global-developments.com/developments/spring-2017/) issue of our *Developments* newsletter.
 
 Leading off, Mark Rostal and John Jepsen describe how $1 billion in local financing was [unlocked](http://dai-global-developments.com/articles/unlocking-capital-across-kenya-how-usaid-firm-pushed-the-frontier-of-financial-services-and-built-a-foundation-for-economic-growth/) for borrowers throughout Kenya under the U.S. Agency for International Development (USAID)’s Financial Inclusion for Microenterprises project. Rostal and Jepsen further tell how this assistance to hundreds of financial institutions and actors has strengthened the foundation in Kenya for further investment and economic growth.
 
