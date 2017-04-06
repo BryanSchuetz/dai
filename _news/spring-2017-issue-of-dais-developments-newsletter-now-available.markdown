@@ -32,4 +32,4 @@ Other stories include:
 
 * DAI is [applying a market systems approach](http://dai-global-developments.com/articles/market-systems-development-boosts-farming-nutrition-in-bangladeshs-southern-delta/) in Bangladesh to strengthen the country’s agricultural network and, as a result, its performance, by Michael Field and Sarah Wall.
 
-To sign up for DAI news, newsletters, technical articles, and job postings, click here.
+To sign up for DAI news, newsletters, technical articles, and job postings, click [here](https://www.dai.com/sign-up).
