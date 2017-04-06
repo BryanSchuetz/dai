@@ -2,8 +2,8 @@
 title: Spring 2017 Issue of DAI’s Developments Newsletter Now Available
 date: 2017-04-06 15:12:00 Z
 summary: DAI is delighted to introduce the Spring 2017 issue of its *Developments*
-  newsletter, featuring 10 articles by our staff on inclusive and municipal finance,
-  stability, agriculture, and other subjects.
+  newsletter, featuring 10 articles by our staff on DAI's work in inclusive and municipal
+  finance, stability, food security, and other areas.
 ---
 
 DAI is delighted to introduce the [Spring 2017](http://dai-global-developments.com/developments/spring-2017/) issue of its Developments newsletter.
