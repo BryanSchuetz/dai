@@ -32,7 +32,7 @@ In combination, DAI and LCS draw on a wide range of experience working with comm
 Building on Dr. Warner’s 25 years of expertise and experience in the oil, gas, and mining space, LCS has developed proprietary performance management tools and software that will serve as the capstone to the Energy & Resources Group’s already powerful Local Content Suite of Services. The Local Content Suite provides clients with a complete line of local content solutions, from forecasting and diagnostics of local industrial capabilities to local supplier vendor management systems and registration portals. LCS’s software and tools complement these capabilities by assisting clients to prepare local content plans, integrate local content in contract tendering, and report on local content activities against host country regulations and requirements using a customizable online platform. 
 
 LCS is also an established training provider, fully accredited by the British Accreditation Council as a provider of short courses. Its Local Content MasterClass is the industry standard for local content training globally. 
-A full-time member of the DAI team, Michael Warner will continue to be based in the United Kingdom
+A full-time member of the DAI team, Michael Warner will continue to be based in the United Kingdom.
 
 <aside style="font-size: .8rem;">
 <p><em>About DAI</em></p>
