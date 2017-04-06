@@ -12,6 +12,8 @@ Leading off, Mark Rostal and John Jepsen describe how $1 billion in local financ
 
 Next up, Richard Rapier writes of how four diverse countries in Sub-Saharan Africa [significantly increased](http://dai-global-developments.com/articles/doubling-access-to-safe-drinking-water-how-four-african-countries-did-it-and-how-others-can-too/) the amount of drinking water available to their citizens. Rapier also prescribes how other water-challenged countries can follow suit.
 
+![Devs----Gaza-fish-1.jpg](/uploads/Devs----Gaza-fish-1.jpg "Khaled Sarhan, owner of the Fish Fresh farm in Gaza.")
+
 Other stories include:
 
 * Lebanon’s [doubling](http://dai-global-developments.com/articles/despite-regional-instability-lebanons-honey-sector-reaches-new-heights/) of its honey production to $70 million annually, among other value chain successes, by Nadine Chemali and Mounia Barakat.
