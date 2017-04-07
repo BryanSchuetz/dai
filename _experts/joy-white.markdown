@@ -2,9 +2,9 @@
 title: Joy White
 date: 2017-04-05 20:07:00 Z
 lastname: white
-summary: Joy White is an international management specialist with 20 years of experience
-  in international development, information technology systems, and foreign policy.
-  Joy always knew she wanted an international career.
+summary: Joy White is an international management specialist with more than 20 years
+  of experience in international development, information technology systems, and
+  foreign policy.
 job-title: Director, Global Employee Ownership
 image: "/uploads/Joy%20White.jpg"
 solutions:
