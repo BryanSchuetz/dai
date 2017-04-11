@@ -3,7 +3,12 @@ title: Aaron Sheldon
 date: 2017-04-11 17:46:00 Z
 published: false
 lastname: Sheldon
+summary: With a background in conflict management, political science, and governance,
+  Aaron Sheldon brings over 10 years of experience to technical and operational assignments.
+job-title: 'Project Manager, Center for Secure and Stable States '
 image: "/uploads/Sheldon.jpg"
+solutions:
+- Stability
 ---
 
 Aaron Sheldon performs multiple roles on DAI projects and business development. With a background in conflict management, political science, and governance, he brings over 10 years of experience to technical and operational assignments. Throughout project design and implementation he looks for opportunities to empower local partners to realize their goals, building on their assets and capabilities.
