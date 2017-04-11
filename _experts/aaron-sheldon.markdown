@@ -1,6 +1,7 @@
 ---
 title: Aaron Sheldon
 date: 2017-04-11 17:46:00 Z
+published: false
 lastname: Sheldon
 summary: With a background in conflict management, political science, and governance,
   Aaron Sheldon brings over 10 years of experience to technical and operational assignments.
