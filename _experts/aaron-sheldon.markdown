@@ -5,7 +5,7 @@ published: false
 lastname: Sheldon
 summary: With a background in conflict management, political science, and governance,
   Aaron Sheldon brings over 10 years of experience to technical and operational assignments.
-job-title: 'Project Manager, Center for Secure and Stable States '
+job-title: 'Project Manager, Stable and Effective Governance '
 image: "/uploads/Sheldon.jpg"
 solutions:
 - Stability
