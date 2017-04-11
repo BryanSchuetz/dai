@@ -9,6 +9,8 @@ job-title: 'Project Manager, Center for Secure and Stable States '
 image: "/uploads/Sheldon.jpg"
 solutions:
 - Stability
+regions:
+- Sub-Saharan Africa
 ---
 
 Aaron Sheldon performs multiple roles on DAI projects and business development. With a background in conflict management, political science, and governance, he brings over 10 years of experience to technical and operational assignments. Throughout project design and implementation he looks for opportunities to empower local partners to realize their goals, building on their assets and capabilities.
