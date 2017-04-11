@@ -7,12 +7,12 @@ regions: Sub-Saharan Africa
 summary: DAI presented three papers at the annual World Bank Land and Poverty Conference
   this week in Washington, D.C. The Land Tenure and Property Rights team shared key
   lessons learned on the use of public-private partnerships in land administration
-  in Cape Verde, the challenges of large-scale rural land certification and administration
+  in Cabo Verde, the challenges of large-scale rural land certification and administration
   in Ethiopia, and the impact of infrastructure investments on land and livelihoods
   in Ghana.
 ---
 
-DAI presented three papers at the annual World Bank Land and Poverty Conference this week in Washington, D.C. The Land Tenure and Property Rights team shared key lessons learned on the use of public-private partnerships in land administration in [Cape Verde](https://www.dai.com/our-work/projects/cape-verde-preparation-comprehensive-field-operations-manual-and-completing), the challenges of large-scale rural land certification and administration in [Ethiopia](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift), and the impact of infrastructure investments on land and livelihoods in [Ghana](https://www.dai.com/our-work/projects/ghana-western-coastal-region-foundation-wcrf).
+DAI presented three papers at the annual World Bank Land and Poverty Conference this week in Washington, D.C. The Land Tenure and Property Rights team shared key lessons learned on the use of public-private partnerships in land administration in [Cabo Verde](https://www.dai.com/our-work/projects/cape-verde-preparation-comprehensive-field-operations-manual-and-completing), the challenges of large-scale rural land certification and administration in [Ethiopia](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift), and the impact of infrastructure investments on land and livelihoods in [Ghana](https://www.dai.com/our-work/projects/ghana-western-coastal-region-foundation-wcrf).
 
 One of the leading international events on land governance, the [Land and Poverty Conference](http://www.worldbank.org/en/events/2016/08/22/land-and-poverty-conference-2017-responsible-land-governance-towards-an-evidence-based-approach) brought together 1,200 participants from government, academia, civil society, and the private sector to discuss the latest theories, best practices, and innovations for land tenure reform from around the world. Titled “Responsible Land Governance: Towards an Evidence-Based Approach,” this year’s meeting focused on the role of data and evidence in implementing land policy reform. Conference sessions covered a variety of topics related to this theme, from the use of drones and mobile mapping apps in surveying, to improving the involvement of women and marginalized populations in land use planning.
 

@@ -21,7 +21,7 @@ The event, attended by hundreds of key stakeholders from governments, civil soci
 
 DAI's papers covered topics including ensuring [women are not overlooked][3] in land titling systems; setting up [sustainable systems][4] once donor funding ends; the importance of [monitoring land][5] programs; and lastly, an update on the issuing of [second-level land certificates][5] in Ethiopia.
 
-"The DAI Lands team was delighted to showcase our current ongoing major land work in [Ethiopia][6], [Tanzania][7], and [Cape Verde][8] and to interact with our partners and donors on these large and important programmes," said [James Green][9], Director, DAI.
+"The DAI Lands team was delighted to showcase our current ongoing major land work in [Ethiopia][6], [Tanzania][7], and [Cabo Verde][8] and to interact with our partners and donors on these large and important programmes," said [James Green][9], Director, DAI.
 
 Our land work includes securing property rights, supporting policy and legal reforms and regularization, cadaster development, land record rehabilitation and management, land information systems, institution building and information dissemination, participatory land use and resource planning, dispute resolution and mitigation, training, research and communications, and grants management. DAI currently works on the land issues for the U.K. Department for International Development, the Millennium Challenge Corporation, the European Union, and the U.S. Agency for International Development, for which it holds an indefinite quantity contract, [Strengthening Tenure and Resource Rights (STARR)][10].
 
@@ -32,6 +32,6 @@ Our land work includes securing property rights, supporting policy and legal ref
 [5]: https://www.conftool.com/landandpoverty2016/index.php?page=browseSessions&presentations=show&search=Edwards%2C+Owen
 [6]: /our-work/projects/ethiopia-and-investment-transformation-lift-0
 [7]: /our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta
-[8]: /our-work/projects/cape-verde-preparation-comprehensive-field-operations-manual-and-completing
+[8]: /our-work/projects/cabo-verde-preparation-comprehensive-field-operations-manual-and-completing
 [9]: /who-we-are/our-team/james-green
 [10]: http://usaidlandtenure.net/
