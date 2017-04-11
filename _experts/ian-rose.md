@@ -3,7 +3,7 @@ title: Ian Rose
 date: 2016-01-21 22:18:00 Z
 lastname: Rose
 summary: 'Ian Rose, a lawyer specializing in land tenure, property rights, and access
-  to justice, has led long-term projects in Colombia, Lebanon, Mozambique, and Cape
+  to justice, has led long-term projects in Colombia, Lebanon, Mozambique, and Cabo
   Verde.
 
 '
