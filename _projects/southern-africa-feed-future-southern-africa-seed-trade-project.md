@@ -1,10 +1,10 @@
 ---
 title: Feed the Future Southern Africa Seed Trade Project
 date: 2016-01-21 22:40:00 Z
-summary: Based in Lusaka, Zambia, we provide technical assistance to help harmonize
-  seed regulations in the Southern African Development Community (SADC), which will
-  allow seed trade across the region, thereby integrating smaller and isolated national
-  markets into one larger SADC market for seeds.
+summary: This project provides technical assistance to help harmonize seed regulations
+  in the Southern African Development Community (SADC), which will allow seed trade
+  across the region, thereby integrating smaller and isolated national markets into
+  one larger SADC market for seeds.
 start: 2015
 end: 2019
 client: U.S. Agency for International Development
