@@ -18,10 +18,9 @@ country:
 layout: project
 ---
 
-Based in Lusaka, Zambia, we provide technical assistance to help harmonize seed regulations in the Southern African Development Community (SADC), which will allow seed trade across the region, thereby integrating smaller and isolated national markets into one larger SADC market for seeds. This process will increase the availability of new, improved varieties and high-quality seeds of maize, soy, and groundnuts in Feed the Future and other countries.
-
-Seed regulations that promote crop varieties with higher yield, pest and disease tolerance, drought resistance, and improved nutritional profiles are part of a larger package of initiatives designed to improve regional policy coherence and, in turn, boost agricultural productivity and food and nutrition security.
-
+The Feed the Future Southern Africa Seed Trade Project (Seed Trade Project) is designed to increase the availability of high-quality seed of improved varieties to farmers in the Southern Africa Development Community (SADC) to improve yields and increase food security and nutrition. The Seed Trade Project provides diverse assistance to implement the SADC Harmonized Seed Regulations (HSR) to foster seed trade across the region and integrate smaller and isolated national seed markets into a larger, more efficient SADC-wide seed market. The Seed Trade Project also helps policy-makers put in place the mechanisms needed to improve access to high-quality, affordable seed—allowing smallholder farmers and large private sector producers to grow more food at cheaper prices for consumers across the region.
+ 
+Located in Pretoria, South Africa, Lusaka, Zambia, and Gaborone, Botswana, the Seed Trade Project supports activities in three Feed the Future focus countries: Malawi, Mozambique, and Zambia; and is also active in Zimbabwe, an aligned Feed the Future country. However, many regional project activities will benefit all 15 SADC Member States. The Seed Trade Project provides targeted technical assistance to facilitate implementation of SADC’s Harmonized Seed Regulations (HSR).
 <iframe src="https://player.vimeo.com/video/212912142" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
