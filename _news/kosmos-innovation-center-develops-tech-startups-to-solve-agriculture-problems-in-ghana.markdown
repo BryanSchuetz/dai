@@ -2,6 +2,7 @@
 title: Kosmos Innovation Center Develops Tech Startups to Solve Agriculture Problems
   in Ghana
 date: 2017-04-12 15:14:00 Z
+published: false
 tags:
 - corporate sustainability
 - economic growth
