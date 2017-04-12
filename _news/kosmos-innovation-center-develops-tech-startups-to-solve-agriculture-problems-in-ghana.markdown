@@ -11,6 +11,10 @@ solutions:
 - Corporate Sustainability
 - Agriculture and Food Security
 regions: Sub-Saharan Africa
+summary: In 2016, DAI partnered with Kosmos Energy to launch the the Kosmos Innovation
+  Center (KIC) in Ghana. Now in its second year, KIC is supporting a group of 80 young
+  entrepreneurs in developing innovative, technology-driven business concepts to address
+  Ghana’s pressing development issues.
 ---
 
 In 2016, DAI partnered with Kosmos Energy to launch the the [Kosmos Innovation Center](http://www.kosmosinnovationcenter.com/) (KIC) in Ghana. Now in its second year, KIC is supporting a group of 80 young entrepreneurs in developing innovative, technology-driven business concepts to address Ghana’s pressing development issues.
