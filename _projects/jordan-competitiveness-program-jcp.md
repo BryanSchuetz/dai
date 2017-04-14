@@ -1,13 +1,9 @@
 ---
 title: Jordan Competitiveness Program (JCP)
 date: 2016-01-21 22:40:00 Z
-summary: 'Jordan faces an immediate challenge: to create high-quality jobs through
-  increased private sector competitiveness. To do this, the country must look outward
-  for opportunity—through exports and foreign direct investment—while meeting diverse
-  internal needs related to resource scarcity, geographic inequality, and high unemployment
-  among youth and women.
-
-'
+summary: The Jordan Competitiveness Program (JCP), funded by the U.S. Agency for International
+  Development (USAID), assists Jordanian private and public sector leaders to achieve
+  competitiveness and job creation goals, equitably and sustainably.
 start: 2013
 end: 2018
 client: U.S. Agency for International Development
@@ -15,6 +11,7 @@ solutions:
 - Business Environment Reform
 - Economic Growth
 - Innovation and Entrepreneurship
+- Financial Services
 regions:
 - Middle East and North Africa
 country:
