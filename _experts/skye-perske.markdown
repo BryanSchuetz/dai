@@ -2,6 +2,8 @@
 title: Skye Perske
 date: 2017-04-14 12:33:00 Z
 lastname: Perske
+summary: Skye Perske is focused on ensuring excellence in DAI programming, thought
+  leadership in countering violent extremism (CVE), and new business activities.
 job-title: Project Team Director, Center for Secure and Stable States
 image: "/uploads/Perske,%20Skyelar%E2%80%9414--jpg--use%20this%20one.jpg"
 solutions:
