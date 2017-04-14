@@ -1,23 +1,19 @@
 ---
 title: Donal Cotter
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Cotter
-regions:
-- Eastern Europe and Central Asia
-- Middle East and North Africa
-solutions:
-- Economic Growth
-- Financial Services
-layout: expert
-image: "/assets/images/experts/Donal%20Inner.jpg"
 summary: Donal Cotter has more than more than 23 years of experience in the fields
   of finance and economic growth, including 15 years of experience in international
   development. He has held management roles on five major donor-funded economic growth
   initiatives in transitioning economies.
 job-title: Chief of Party, Pakistan Regional Economic Integration Activity
-articles:
-- name: 
-  article_file: 
+image: "/assets/images/experts/Donal%20Inner.jpg"
+solutions:
+- Economic Growth
+regions:
+- Eastern Europe and Central Asia
+- Middle East and North Africa
+layout: expert
 ---
 
 Donal Cotter has more than more than 23 years of experience in the fields of finance and economic growth, including 15 years of experience in international development. He has held management roles on five major donor-funded economic growth initiatives in transitioning economies.
