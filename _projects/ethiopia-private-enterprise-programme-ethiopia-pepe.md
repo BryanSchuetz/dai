@@ -29,17 +29,17 @@ Enterprise Partners works through two major pillars:
 
 ### Sample Activities
 
-* Cotton, Textile and Apparel: Improve labour market system and cotton production to create a sustainable industry with strong back-ward linkages. Support Government of Ethiopia’s flagship Hawassa industrial park which will create 60,000 jobs in Apparel sector.
-* Leather and Livestock: Increase finishing capacity of tanneries and produce high value leather products to increase export.
-* Fruits and Vegetables: Increase national production of fruits and vegetables from highly productive farms using quality inputs (seed, seedlings etc.).
-* Financial Inclusion: Promote digital financial services so that poor people living in rural Ethiopia have increased access to a formal system.
-* SME Finance: Provide technical assistance and finance (World bank credit line) to Banks, Microfinance Institutions, Leasing companies, and Development Bank of Ethiopia to support SMEs who are women owned or contributing to industrial growth.
-* Investments: Promote foreign direct investment and private equity capital investment, especially in priority Agro-Industrial sectors.
+* Cotton, Textile and Apparel: Improve labour market systems and cotton production to create a sustainable industry with strong backward linkages. Support Government of Ethiopia’s flagship Hawassa Industrial Park, which will create 60,000 jobs in the apparel sector.
+* Leather and Livestock: Increase finishing capacity of tanneries and produce high-value leather products to increase export.
+* Fruits and Vegetables: Increase national production from highly productive farms using quality inputs (seed, seedlings etc.).
+* Financial Inclusion: Promote digital banking so poor people living in rural Ethiopia have increased access to formal financial services such as savings and loans.
+* SME Finance: Provide technical assistance and finance (World Bank credit line) to banks, microfinance institutions, leasing companies, and the Development Bank of Ethiopia to support small and medium-sized enterprises that are women-owned or contributing to industrial growth.
+* Investments: Promote foreign direct investment and private equity capital investment, especially in priority agro-industrial sectors.
 
 ### Select Results
 
 * Launched 24 interventions addressing critical constraints across agro-industrial and finance sectors.
-* Introduced 13 innovations through 47 organizations.
+* Introduced 13 innovations through 47 financial services and business organizations.
 * Supported the Development Bank of Ethiopia and 12 microfinance institutions with technical assistance that contributed to £50 million in loan disbursements.
 * Generated £10 million of additional investment into the economy.
 * Created more than 18,000 financial accounts for businesses.
