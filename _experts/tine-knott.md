@@ -2,10 +2,8 @@
 title: Tine Knott
 date: 2016-01-21 22:18:00 Z
 lastname: Knott
-summary: Tine Knott joined DAI in January 2011 on the strength of a 17-year development
-  career that included 15 years of service at the U.S. Agency for International Development
-  (USAID), where she managed multimillion-dollar project portfolios in Jordan and
-  Mozambique, among other responsibilities.
+summary: 'Tine Knott is the Vice President of the Center for Secure and Stable States
+  where she provides strategic leadership of DAI’s work in fragile states. '
 job-title: Vice President, Center for Secure and Stable States
 image: "/assets/images/experts/Knott_Inner.jpg"
 solutions:
@@ -20,6 +18,8 @@ regions:
 layout: expert
 ---
 
-Tine Knott joined DAI in January 2011 on the strength of a 17-year development career that included 15 years of service at the U.S. Agency for International Development (USAID), where she managed multimillion-dollar project portfolios in Jordan and Mozambique, among other responsibilities. As senior development advisor at USAID Jordan from 2008–2010, Tine developed cross-sectoral and politically sensitive programming in human rights, good governance, and poverty and was responsible for public outreach and management of relationships with host government counterparts, other U.S. government agencies, civil society, and media. Prior to that, as program manager for USAID Mozambique she developed a new financial mechanism for accessing an additional $5 million in host government resources for local business association development activities, and undertook economic analysis and research on various issues at the policy and project levels, among other accomplishments. Her private sector positions include two years working for business consultancies in Ghana. Tine is fluent in Portuguese and Spanish with skills in French and Norwegian.
+Tine Knott is the Vice President of the Center for Secure and Stable States where she provides strategic leadership of DAI’s work in fragile states. For the three years prior, she was DAI’s Managing Director for Governance, Transition, and Stability, where she was responsible for the company’s portfolio of good governance, stabilization, political transition, preventing and countering violent extremism, peace building, citizen security, and public financial management work. From 2011 to 2013, Tine held senior business development and technical expert positions with DAI. 
+
+Before joining DAI in 2011, Tine spent more than 15 years with the U.S. Agency for International Development (USAID) in Washington, D.C., and the field, including assignments in Ghana, Jordan, Mozambique, and Peru. In her final USAID assignment as the Senior Development Advisor in Jordan, Tine developed cross-sectoral and politically sensitive programming in human rights, good governance, and poverty and was responsible for public outreach and management of relationships with host government counterparts, other U.S. government agencies, civil society, and media. Before her career in development, Tine spent time in Nigeria teaching at the University of Ibadan and participating in the pro-democracy movement—picking up some Pidgin along the way. She is fluent in Portuguese and Spanish with skills in French and Norwegian. 
 
 * M.S., international development, University of Pennsylvania
