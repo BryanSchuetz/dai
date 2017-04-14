@@ -1,24 +1,23 @@
 ---
 title: Nigeria—Market Development Programme (MADE)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+date: 2016-01-21 22:40:00 Z
+summary: This 4½-year design and implement project in the Niger Delta is applying
+  a market development approach (M4P) to improve market access, increase economic
+  activity, and raise the incomes of 150,000 poor people, half of whom will be women.
 start: 2013
 end: 2018
+client: U.K. Department for International Development
+solutions:
+- Business Environment Reform
+- Economic Growth
+- Gender
+- Digital
+- Innovation and Entrepreneurship
 regions:
 - Sub-Saharan Africa
 country:
 - Nigeria
-solutions:
-- Business Environment Reform
-- Economic Growth
-- Financial Services
-- Gender
-- Digital
-- Innovation and Entrepreneurship
 layout: project
-summary: This 4½-year design and implement project in the Niger Delta is applying
-  a market development approach (M4P) to improve market access, increase economic
-  activity, and raise the incomes of 150,000 poor people, half of whom will be women.
 ---
 
 This 4½-year design and implement project in the Niger Delta is applying a market development approach (M4P) to improve market access, increase economic activity, and raise the incomes of 150,000 poor people, half of whom will be women. We are initially focusing on the critical constraints to pro-poor growth in the value chains of palm oil, aquaculture and fisheries, agricultural inputs, and backyard poultry. Activities will stimulate private sector provision of services and promote innovative, inclusive business models that reach a large number of low-income households.
