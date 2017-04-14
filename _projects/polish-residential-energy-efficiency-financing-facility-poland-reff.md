@@ -24,7 +24,7 @@ Poland is one of the most energy-intensive economies in Europe and the Polish go
 
 Over the course of the project, the ERBD will disperse €200 million through local banks in Poland to borrowers ranging from single family households to commercial residential developers and property owners. DAI, as a subcontractor to the Polish Foundation for Energy Efficiency (FEWE), will provide technical assistance to support the implementation of the facility.
 
-Poland REFF will build on the success of the DAI-led Polish Sustainable Energy Financing Facility (PolSEFF), which provides similar energy efficiency financing to small and medium enterprises.
+Poland REFF builds on the success of the DAI-led Polish Sustainable Energy Financing Facility (PolSEFF), which provides similar energy efficiency financing to small and medium enterprises.
 
 ![](/assets/images/projects/PolReff.jpg)
 
