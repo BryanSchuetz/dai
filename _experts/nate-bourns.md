@@ -12,7 +12,7 @@ job-title: Vice President, Technical Services
 image: "/assets/images/experts/nate_inner.jpg"
 solutions:
 - Economic Growth
-- Environment and Energy
+- Financial Services
 - Governance
 regions:
 - Latin America and the Caribbean
