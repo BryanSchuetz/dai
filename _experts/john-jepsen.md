@@ -1,22 +1,19 @@
 ---
 title: John Jepsen
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Jepsen
-regions:
-- Latin America and the Caribbean
+summary: Eleven years ago, John Jepsen left his job at _Rolling Stone Magazine_ in
+  New York City to start as an associate with DAI's Finance, Banking, and Enterprise
+  group. Little did he know his new job would turn into a lifestyle.
+job-title: Global Practice Lead, Financial Services
+image: "/assets/images/experts/Jepsen_Inner.jpg"
 solutions:
 - Economic Growth
 - Financial Services
 - Innovation and Entrepreneurship
+regions:
+- Latin America and the Caribbean
 layout: expert
-image: "/assets/images/experts/Jepsen_Inner.jpg"
-summary: Eleven years ago, John left his job at _Rolling Stone Magazine_ in New York
-  City to start as an associate with DAI's Finance, Banking, and Enterprise group.
-  Little did he know his new job would turn into a lifestyle.
-job-title: Global Practice Lead, Financial Services
-articles:
-- name: 
-  article_file: 
 ---
 
 Eleven years ago, John left his job at _Rolling Stone Magazine_ in New York City to start as an associate with DAI's Finance, Banking, and Enterprise group. Little did he know his new job would turn into a lifestyle. John studied international relations and French at American University, but it was an internship during his senior year of college with a small Washington, D.C.-based microfinance outfit that first exposed him to development. This experience would prove to be life-changing.
