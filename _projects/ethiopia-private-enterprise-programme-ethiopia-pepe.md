@@ -33,7 +33,7 @@ Enterprise Partners works through two major pillars:
 * Leather and Livestock: Increase finishing capacity of tanneries and produce high-value leather products to increase export.
 * Fruits and Vegetables: Increase national production from highly productive farms using quality inputs (seed, seedlings etc.).
 * Financial Inclusion: Promote digital banking so poor people living in rural Ethiopia have increased access to formal financial services such as savings and loans.
-* SME Finance: Provide technical assistance and finance (World Bank credit line) to banks, microfinance institutions, leasing companies, and the Development Bank of Ethiopia to support small and medium-sized enterprises that are women-owned or contributing to industrial growth.
+* SME Finance: Provide technical assistance and finance (World Bank credit line) to banks, microfinance institutions, leasing companies, and the [Development Bank of Ethiopia](https://www.dai.com/news/development-secretary-priti-patel-stresses-economic-growth-in-visit-to-ethiopia-industrial-park) to support small and medium-sized enterprises that are women-owned or contributing to industrial growth.
 * Investments: Promote foreign direct investment and private equity capital investment, especially in priority agro-industrial sectors.
 
 ### Select Results
