@@ -1,19 +1,21 @@
 ---
 title: Arsalan Ali Faheem
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Faheem
-regions:
-- Eastern Europe and Central Asia
+summary: 'Arsalan Faheem works with our London-based Private Sector Development practice,
+  where he is responsible for advising DAI''s portfolio of economic development programmes,
+  as well as growing the practice through client development.
+
+'
+job-title: Specialist, Private Sector Development and Finance
+image: "/assets/images/experts/ArsalanInner.jpg"
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Financial Services
 - Value Chain Development for Agribusiness and Other Sectors
+regions:
+- Eastern Europe and Central Asia
 layout: expert
-image: "/assets/images/experts/ArsalanInner.jpg"
-summary: |
-  Arsalan Faheem works with our London-based Private Sector Development practice, where he is responsible for advising DAI's portfolio of economic development programmes, as well as growing the practice through client development.
-job-title: Specialist, Private Sector Development and Finance
 ---
 
 Arsalan Faheem works with our London-based Private Sector Development practice, where he is responsible for advising DAI's portfolio of economic development programmes, as well as growing the practice through client development. Arsalan's advisory work consists of economic sector appraisal, value chain analysis, market development, enterprise financial analysis, and project evaluation.
