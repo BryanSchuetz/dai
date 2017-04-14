@@ -16,6 +16,7 @@ solutions:
 - Value Chain Development for Agribusiness and Other Sectors
 - Agriculture and Food Security
 - Economic Growth
+- Financial Services
 regions: Sub-Saharan Africa
 country: Regional
 promos:
