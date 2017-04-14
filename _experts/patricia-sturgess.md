@@ -11,6 +11,7 @@ solutions:
 - Economic Growth
 - Sustainable Livelihoods
 - Fragile States
+- Countering Extremism
 regions:
 - Latin America and the Caribbean
 - Sub-Saharan Africa

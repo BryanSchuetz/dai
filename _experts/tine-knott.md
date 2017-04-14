@@ -8,10 +8,7 @@ job-title: Vice President, Center for Secure and Stable States
 image: "/assets/images/experts/Knott_Inner.jpg"
 solutions:
 - Fragile States
-- Security and Justice
-- Countering Extremism
 - Peace-Building and Political Transition
-- Stabilization
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa

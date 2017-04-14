@@ -9,7 +9,7 @@ job-title: Principal Project Manager
 image: "/assets/images/experts/Greg-1%20INNER.jpg"
 solutions:
 - Fragile States
-- Stabilization
+- Security and Justice
 regions:
 - Sub-Saharan Africa
 layout: expert

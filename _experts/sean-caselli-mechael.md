@@ -8,6 +8,7 @@ job-title: New Business Manager, Center for Secure and Stable States
 image: "/assets/images/experts/seanINNER_1.jpg"
 solutions:
 - Fragile States
+- Countering Extremism
 - Digital
 regions:
 - Asia and the Pacific

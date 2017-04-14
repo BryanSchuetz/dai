@@ -8,7 +8,7 @@ summary: With a background in conflict management, political science, and govern
 job-title: 'Project Manager, Stable and Effective Governance '
 image: "/uploads/Sheldon.jpg"
 solutions:
-- Stability
+- Stabilization
 regions:
 - Sub-Saharan Africa
 ---

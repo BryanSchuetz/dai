@@ -12,6 +12,8 @@ image: "/assets/images/experts/Skilling%20Portal.jpg"
 solutions:
 - Governance
 - Environment and Energy
+- Fragile States
+- Stabilization
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

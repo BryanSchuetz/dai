@@ -9,6 +9,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Fragile States
+- Countering Extremism
 layout: expert
 image: "/assets/images/experts/Lawrence_Inner.jpg"
 summary: Since 1996, Rebecca Lawrence has planned and implemented more than a dozen

@@ -9,9 +9,6 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 solutions:
-- Countering Extremism
-- Peace-Building and Political Transition
-- Security and Justice
 - Fragile States
 - Stabilization
 layout: expert

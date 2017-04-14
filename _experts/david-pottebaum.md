@@ -9,6 +9,7 @@ job-title: Chief of Party, Philippines ENGAGE Program
 image: "/uploads/David%20Pottebaum%20NEW.jpg"
 solutions:
 - Governance
+- Countering Extremism
 - Fragile States
 regions:
 - Asia and the Pacific

@@ -11,6 +11,7 @@ image: "/assets/images/experts/Goldensohn_Inner.jpg"
 solutions:
 - Economic Growth
 - Fragile States
+- Security and Justice
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa

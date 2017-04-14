@@ -8,6 +8,7 @@ job-title: Project Team Director, Center for Secure and Stable States
 image: "/uploads/Perske,%20Skyelar%E2%80%9414--jpg--use%20this%20one.jpg"
 solutions:
 - Fragile States
+- Security and Justice
 regions:
 - Sub-Saharan Africa
 - Middle East and North Africa

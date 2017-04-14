@@ -7,7 +7,7 @@ summary: Nandi Hall is a Principal Project Manager with more than 15 years of ex
 job-title: Principal Project Manager
 image: "/assets/images/experts/Nandi%20Hall%20INNER.jpg"
 solutions:
-- Countering Extremism
+- Peace-Building and Political Transition
 - Economic Growth
 - Fragile States
 - Sustainable and Accountable Health Services

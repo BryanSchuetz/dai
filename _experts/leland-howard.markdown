@@ -8,6 +8,7 @@ job-title: Strategic Recruitment Manager, Center for Secure and Stable States
 image: "/uploads/Howard,%20Leland--81%20(1%20in.%20300%20dpi).jpg"
 solutions:
 - Fragile States
+- Stabilization
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa

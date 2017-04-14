@@ -14,7 +14,6 @@ solutions:
 - Governance
 - Institutional and Policy Reform
 - Legislative Strengthening
-- Peace-Building and Political Transition
 - Security and Justice
 - Fragile States
 regions:

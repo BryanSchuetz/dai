@@ -7,6 +7,7 @@ regions:
 - Middle East and North Africa
 solutions:
 - Fragile States
+- Peace-Building and Political Transition
 - Gender
 - Institutional and Policy Reform
 - Legislative Strengthening

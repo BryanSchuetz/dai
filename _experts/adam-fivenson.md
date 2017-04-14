@@ -8,6 +8,7 @@ regions:
 solutions:
 - Digital
 - Fragile States
+- Peace-Building and Political Transition
 - Governance
 layout: expert
 image: "/assets/images/experts/Adam%20inner.png"
