@@ -15,6 +15,7 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
+- Financial Services
 regions:
 - Sub-Saharan Africa
 country:
