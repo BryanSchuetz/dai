@@ -1,7 +1,8 @@
 ---
 title: Emmanuel Moyart
 date: 2017-03-07 16:37:00 Z
-job-title: Project Lead, TPSD
+job-title: Project Lead, Trade, Private Sector Development and Engagement, and Regional
+  Integration (TSPD) Facility
 email: Emmanuel_Moyart@dai.com
 summary: A former banker, Emmanuel Moyart has been a microfinance consultant for 20
   years, with significant experience in programme management, training, and policy
