@@ -1,22 +1,21 @@
 ---
 title: Mozambique—Access to Finance Programme (MAFiP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
-start: 2014
-end: 2019
-regions:
-- Sub-Saharan Africa
-country:
-- Mozambique
-solutions:
-- Economic Growth
-- Financial Services
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'The Mozambique Access to Finance Programme (MAFiP) facilitates financial
   inclusion for all through a range of quality financial services to more than 2 million
   poor Mozambicans and 650 businesses, particularly in rural areas.
 
 '
+start: 2014
+end: 2019
+client: U.K. Department for International Development
+solutions:
+- Economic Growth
+regions:
+- Sub-Saharan Africa
+country:
+- Mozambique
+layout: project
 ---
 
 The Mozambique Access to Finance Programme (MAFiP) facilitates financial inclusion for all through a range of quality financial services to more than 2 million poor Mozambicans and 650 businesses, particularly in rural areas. The project also helps drive finance for stability by promoting the development and implementation of strong financial sector regulation, supervision, and infrastructure to promote and maintain Mozambique's favorable economic and social conditions domestically and internationally.
