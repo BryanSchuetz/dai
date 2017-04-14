@@ -1,9 +1,9 @@
 ---
-title: Ethiopia—Enterprise Partners (EP)/Private Enterprise Programme Ethiopia (PEPE)
+title: Ethiopia—Enterprise Partners/Private Enterprise Programme Ethiopia (PEPE)
 date: 2016-01-21 22:40:00 Z
-summary: 'This program is helping generate access to finance, good quality jobs, and
-  increased incomes for Ethiopia''s poor. To achieve its overall end, DAI and consortium
-  partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD focus on three pillars: '
+summary: This program is helping generate access to finance, good quality jobs, and
+  increased incomes for Ethiopia's poor. DAI works with consortium partners First
+  Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD.
 start: 2013
 end: 2020
 client: U.K. Department for International Development
