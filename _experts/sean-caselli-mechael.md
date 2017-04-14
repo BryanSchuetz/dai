@@ -2,9 +2,8 @@
 title: Sean Caselli-Mechael
 date: 2016-01-21 22:18:00 Z
 lastname: Caselli-Mechael
-summary: Outside of the classroom, Sean's first exposure to international development
-  challenges came in the form of a group of teenage boys from the Langa Township in
-  South Africa.
+summary: Sean Caselli-Mechael is the New Business Manager for the Center for Secure
+  and Stable States.
 job-title: New Business Manager, Center for Secure and Stable States
 image: "/assets/images/experts/seanINNER_1.jpg"
 solutions:
