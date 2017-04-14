@@ -8,7 +8,6 @@ regions:
 solutions:
 - Economic Growth
 - Financial Services
-- Stabilization
 layout: expert
 image: "/assets/images/experts/Donal%20Inner.jpg"
 summary: Donal Cotter has more than more than 23 years of experience in the fields

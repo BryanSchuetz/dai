@@ -9,7 +9,6 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 solutions:
-- Countering Extremism
 - Economic Growth
 - Innovation and Entrepreneurship
 layout: expert
