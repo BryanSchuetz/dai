@@ -9,6 +9,7 @@ job-title: Chief of Party, Financial Inclusion for Rural Microenterprises (Kenya
 image: "/uploads/Mark%20Rostal.jpg"
 solutions:
 - Economic Growth
+- Financial Services
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
