@@ -1,23 +1,22 @@
 ---
 title: Philippines—Facilitating Public Investment (FPI)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2013
-end: 2018
-regions:
-- Asia and the Pacific
-country:
-- Philippines
-solutions:
-- Economic Growth
-- Financial Services
-- Governance
-- Public Financial Management
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: With reform-minded leadership and the commitment of the United States and
   Philippine governments to transformational change—embodied in their joint Partnership
   for Growth—the Philippines has a rare opportunity to address some critical fiscal
   issues.
+start: 2013
+end: 2018
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Governance
+- Public Financial Management
+regions:
+- Asia and the Pacific
+country:
+- Philippines
+layout: project
 ---
 
  With reform-minded leadership and the commitment of the United States and Philippine governments to transformational change—embodied in their joint Partnership for Growth—the Philippines has a rare opportunity to address some critical fiscal issues. FPI is helping the government of the Philippines increase its fiscal space to enable inclusive economic growth as well as identify synergies between increasing revenue collection and improving the business environment.
