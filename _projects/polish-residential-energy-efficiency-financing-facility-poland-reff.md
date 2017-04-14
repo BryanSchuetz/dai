@@ -1,5 +1,5 @@
 ---
-title: Polish Residential Energy Efficiency Financing Facility (Poland REFF)
+title: Poland—Residential Energy Efficiency Financing Facility (Poland REFF)
 date: 2016-01-21 22:40:00 Z
 summary: 'Poland is one of the most energy-intensive economies in Europe and the Polish
   government identified increased energy efficiency as one of its top priorities when
@@ -26,14 +26,14 @@ Over the course of the project, the ERBD will disperse €200 million through lo
 
 Poland REFF will build on the success of the DAI-led Polish Sustainable Energy Financing Facility (PolSEFF), which provides similar energy efficiency financing to small and medium enterprises.
 
-![][2]
+![](/assets/images/projects/PolReff.jpg)
 
-###  Sample Activities
+### Sample Activities
 
 * Promote the facility and support participating banks in their marketing efforts.
-* Develop tools to help prospective borrowers choose appropriate equipment and materials to purchase, such as a List of Recommended Sustainable Energy Technologies (LEME) and an energy savings calculator.
-* Maintain an advisory helpline for borrowers.
-* Provide capacity building on energy efficiency financing to participating banks.
 
-[1]: /projects/poland-polish-sustainable-energy-financing-facility-polseff
-[2]: /assets/images/projects/PolReff.jpg
+* Develop tools to help prospective borrowers choose appropriate equipment and materials to purchase, such as a List of Recommended Sustainable Energy Technologies (LEME) and an energy savings calculator.
+
+* Maintain an advisory helpline for borrowers.
+
+* Provide capacity building on energy efficiency financing to participating banks.
