@@ -30,13 +30,12 @@ TAUT monitors evidence that key agencies are expanding their reach and improving
 * Conduct comprehensive tax legislation and policy assessment.
 * Advise the Ethiopian Customs and Revenue Authority (ERCA) and other government partners in developing the country’s National Tax Roadmap.
 * Partner with ERCA to upgrade Ethiopia’s Standard Integrated Government Tax Administration System (SIGTAS) and reduce reliance on time-consuming and unreliable paper record keeping.
-* Improve audit capability and public oversight by working with the Office of the Federal Auditor General and selected regional counterparts to strengthen their institutional systems, processes, and capabilities.
+* Improve audit capability and public oversight by working with the Office of the Federal Auditor General and regional counterparts to strengthen institutional systems and processes and increase efficiency.
 * Promote involvement of civil society in transparency and anti-corruption efforts, including building capacity of investigative journalists to report misuse of public funds.
 
 ### Select Results
 
-* Upgraded electronic tax-filing system, resulting in a 250 percent increase in the number of value-added tax filers, and leading to shorter wait times in tax offices while also reducing time-burden on tax officials.
-* Assisted the Government of Ethiopia in processing almost $4 billion worth of revenue in Fiscal Year 2016 through the previously unusable SIGTAS system.
-* Supported the Federal Ethics and Anti-Corruption Commission to institutionalise anti-corruption efforts across public agencies by developing education modules on ethics and corruption prevention and delivering training to more than 800 national and local government officials.
-* Supported more transparent government auditing through improved IT systems and audit training, with the intention of increasing business’ confidence in government and driving further private sector investment.
-* Signed concept note the Commercial Bank of Ethiopia (CBE) and regional IT partner USI to begin development of an e-payment solution that will interface directly with SIGTAS e-filing records and allow for convenient and direct payment of taxes, reducing taxpayer travel time and opportunities for corruption.
+* Upgraded electronic tax-filing system, resulting in a 250 percent increase in the number of value-added tax filers and leading to shorter wait times in tax offices while also reducing time burden on tax officials.
+* Supported the Federal Ethics and Anti-Corruption Commission to institutionalise anti-corruption efforts across public agencies by developing educational modules on ethics and corruption prevention and delivering training to more than 800 national and local government officials.
+* Supported more transparent government auditing processes through implementation of improved IT systems and audit training, with the intention of increasing private-sector confidence in government contracting and encouraging further business investment in the country.
+* Signed concept note with the Commercial Bank of Ethiopia (CBE) and regional IT partner USI to begin development of an e-payment solution that will interface directly with SIGTAS electronic tax filing records and allow for convenient and direct payment of taxes, reducing taxpayer travel time and opportunities for corruption.
