@@ -36,7 +36,9 @@ Working under the U.S. Agency for International Development, DAI collaborated wi
 
 * Rolled out the [government-wide financial management system ](/news/usaid-jordan-fiscal-reform-project-produces-video-new-budgeting-tool)to six pilot agencies, covering nearly half of the country's budget—a watershed step toward more transparent, consistent, and real-time budget preparation and execution processes across all spending agencies.
 
-* Built a macroeconometric model capable of forecasting Jordan's economy and exploring the consequences of policy scenarios or external shocks to the economy—an essential tool for future policy papers and the Ministry of Finance's medium-term fiscal framework.
+* Collaborated with the Income and Sales Tax Department to improve IT systems, customer service, and taxpayer databases; contributing to a 50 percent increase in tax revenues collected since 2010.
+
+* Partnered with the General Budget Department to develop a public expenditures roadmap for budgetary planning in health, education, energy, and water, as well as to introduce Jordan’s first gender-responsive participatory budgeting manual.
 
 * Supported opening of an additional Single Window border center, for a total of eight Single Windows around the country, covering 80 percent of all imports and integrating the border operations of five government agencies.
 
