@@ -1,7 +1,6 @@
 ---
 title: Brenda Barrett
 date: 2017-04-17 12:18:00 Z
-published: false
 lastname: 'Barrett '
 summary: Brenda Barrett has supported political stabilization and peace-building programs
   in 25 countries.
