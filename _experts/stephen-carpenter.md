@@ -5,7 +5,7 @@ lastname: Carpenter
 summary: 'Stephen Carpenter is a governance specialist with 15 years of experience
   whose field-based work has focused on anticorruption, public financial management,
   customs modernization, and institutional strengthening. '
-job-title: Global Practice Lead, Public Financial Management
+job-title: 'Chief of Party, Kosovo TEAM Project '
 image: "/uploads/Carpenter.jpg"
 solutions:
 - Economic Growth
