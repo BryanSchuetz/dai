@@ -1,12 +1,11 @@
 ---
 title: Robin Young
 date: 2016-01-21 22:18:00 Z
-lastname: young
-summary: Robin Young began to focus her career on micro and small enterprise finance
-  after learning in an undergraduate development economics course more than 20 years
-  ago how this emerging field 'just worked. ... It was so practical and brought macroeconomics
-  and global politics down to a concrete and effective level.'
-job-title: Global Practice Specialist, Financial Services
+lastname: Young
+summary: Robin Young brings together two decades of experience in micro and small
+  enterprise finance with value chain and enterprise development to design and implement
+  innovative and effect private sector approaches to address development challenges.
+job-title: Principal Global Practice Specialist, Financial Services
 image: "/assets/images/experts/Young_Inner.jpg"
 solutions:
 - Economic Growth
