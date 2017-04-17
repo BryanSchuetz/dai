@@ -19,7 +19,7 @@ layout: project
 ---
 
 The Feed the Future Southern Africa Seed Trade Project (Seed Trade Project) is designed to increase the availability of high-quality seed of improved varieties to farmers in the Southern Africa Development Community (SADC) to improve yields and increase food security and nutrition. The Seed Trade Project provides diverse assistance to implement the SADC Harmonized Seed Regulations (HSR) to foster seed trade across the region and integrate smaller and isolated national seed markets into a larger, more efficient SADC-wide seed market. The Seed Trade Project also helps policy-makers put in place the mechanisms needed to improve access to high-quality, affordable seed—allowing smallholder farmers and large private sector producers to grow more food at cheaper prices for consumers across the region.
- 
+
 Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the Seed Trade Project supports activities in three Feed the Future focus countries: Malawi, Mozambique, and Zambia; and is also active in Zimbabwe, an aligned Feed the Future country. However, many regional project activities will benefit all 15 SADC Member States. The Seed Trade Project provides targeted technical assistance to facilitate implementation of SADC’s Harmonized Seed Regulations (HSR).
 
 <iframe src="https://player.vimeo.com/video/212912142" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -37,3 +37,13 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 * Synchronize assistance in Malawi, Zambia, and Zimbabwe with the Common Market for Eastern and Southern Africa Seed Harmonisation Implementation Plan.
 
 * Transfer technology and management practices that prioritize and scale up regional variety registration and seed certification models.
+
+### Select Results
+
+* Established the Southern African Development Community (SADC) Seed Committee.
+
+* Drafted the Protocol for the Protection of New Varieties of Plants and the SADC Seed Centre Charter approved by the SADC Ministers of Agriculture.
+
+* Launched the Seed Control and Certification Institute Online Seed Lab in Zambia.
+
+* Completed the Regional Seed Supply and Demand Study.
