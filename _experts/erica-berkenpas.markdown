@@ -3,8 +3,7 @@ title: Erica Berkenpas
 date: 2017-04-18 11:56:00 Z
 lastname: Berkenpas
 summary: Erica Berkenpas has spent the past 10 plus years working at the intersection
-  of transition, stabilization, resilience, countering violent extremism (CVE) and
-  governance.
+  of transition, stabilization, resilience, countering violent extremism, and governance.
 job-title: Director of Grants and Operations, NIWETU
 image: "/uploads/Isaac,%20Erica%E2%80%9422--jpg.jpg"
 solutions:
