@@ -1,12 +1,11 @@
 ---
 title: Corporate Sustainability
-date: 2016-01-21 18:23:00.492000000 Z
+date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/corporate-sustainability
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#corp-badge"></use></svg>
 summary: Helping our clients achieve significantly higher social and business returns
   by merging business imperatives with development best practices.
-layout: solution
 type: primary
 redirect_from:
 - "/erg"
@@ -27,7 +26,10 @@ promos:
   link: "/uploads/kosmos.pdf"
 - title: "**Analysis**: _Unlocking Content_"
   link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
+- title: "**News**:_Tech Startups in Ghana_"
+  link: https://www.dai.com/news/kosmos-innovation-center-develops-tech-startups-to-solve-agriculture-problems-in-ghana
 related: false
+layout: solution
 ---
 
 ## Energy and Resources Group
