@@ -8,7 +8,6 @@ job-title: Chief of Party
 image: "/uploads/PortalBarrett.jpg"
 solutions:
 - Fragile States
-- Stability
 - Peace-Building and Political Transition
 regions:
 - Asia and the Pacific
