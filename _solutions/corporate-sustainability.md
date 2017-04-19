@@ -54,8 +54,8 @@ The Energy and Resources Group works with companies in the oil, gas, mining, and
 
 <hr>
 
-<iframe src="https://www.youtube.com/embed/A3-VyczktO8" frameborder="0" allowfullscreen></iframe>
-`With DAI’s assistance, Kosmos Energy has taken a market-driven approach to catalyze innovation and promote youth employment in the Ghanaian agricultural sector.`
+<iframe src="https://player.vimeo.com/video/210303653"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+`Now in its second year, KIC is supporting a group of 80 young entrepreneurs in developing innovative, technology-driven business concepts to address Ghana’s pressing development issues.`
 
 <hr>
 
