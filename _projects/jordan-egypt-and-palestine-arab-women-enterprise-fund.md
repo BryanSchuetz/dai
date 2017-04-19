@@ -13,6 +13,7 @@ client: U.K. Department for International Development, Islamic Development Bank
 solutions:
 - Economic Growth
 - Institutional and Policy Reform
+- Gender
 regions:
 - Middle East and North Africa
 country:
@@ -30,7 +31,7 @@ AWEF is the only market systems-based development programme in the region that a
 
 ###  Sample Activities
 
-* Support businesses to increase focus on women's working conditions in Egypt's food retail, citrus, and ready-made garment sectors, and on gender-sensitive recruitment, human resource management, and training policies. 
+* Support businesses to increase focus on women's working conditions in Egypt's food retail, citrus, and ready-made garment sectors, and on gender-sensitive recruitment, human resource management and training policies. 
 
 * Assist women home-based producers in Jordan's dairy sector to raise awareness of the value of testing and certification of products to increase their competitiveness and value.
 
