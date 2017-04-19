@@ -22,7 +22,7 @@ layout: project
 
 The Pacific Island countries comprise the most vulnerable region in the world to climate change. The nature-based livelihoods and diverse cultures that have risen from these island nations—some of which stand only meters above sea level—are being challenged, and in some cases overwhelmed, by sea level rise, changing ocean temperatures and acidity, increasing air temperatures, shifting rainfall and storm patterns, and other impacts of climate change that are projected to increase over the next 100 years.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/daiglobal/8206353128/in/set-72157632067577502/player/" webkitallowfullscreen="" width="703"></iframe>
+<iframe src="https://player.vimeo.com/video/104419933" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 National adaptation strategies and policies are in place, but implementation lags at the community level. Climate-smart decision making to improve coastal zone and water resource management and strengthen disaster management must be applied in communities across the Pacific for the region to successfully adapt to climate change.
 
@@ -53,3 +53,5 @@ This project is for the countries of Fiji, Kiribati, Nauru, Palau, Papua New Gui
 * Through training and workshops, C-CAP found—using pre- and post- workshop evaluations—that participant awareness had increased: by 34 percent regarding the causes of climate change; and by 57 percent about the types of adaptation interventions that can be useful to mitigate the effects of climate change.
 
 <iframe src="https://DAIGlobal.exposure.co/trouble-in-paradise/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/trouble-in-paradise">Trouble in Paradise</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a>
+
+<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" src="https://www.flickr.com/photos/daiglobal/8206353128/in/set-72157632067577502/player/" webkitallowfullscreen="" width="703"></iframe>
