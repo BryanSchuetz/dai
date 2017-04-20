@@ -1,20 +1,17 @@
 ---
 title: Honduras—School-Based Violence Prevention Activity (SBVPA)
 date: 2017-04-20 18:11:00 Z
-summary: While the education sector in Honduras faces many complex challenges, one
-  of the most insidious obstacles to students’ success is violence in and around schools.
-  School-based violence (SBV) not only hinders the academic achievement of youth while
-  they are students, but can lead to life-long negative behavior patterns that impact
-  Honduran society as a whole. SBV prevention has emerged as a critical strategy for
-  breaking this cycle of violence by enabling more at-risk youth to stay in school,
-  leading to better academic outcomes, which in turn are linked to improved levels
-  of health and nutrition, reduced crime, and stronger local economies.
+summary: To address the complex nature of violence in and around schools in Honduras,
+  SBVPA works across multiple levels; improving schools’ ability to prevent violence;
+  strengthening local networks that increase school safety; and building the capacity
+  of the Ministry of Education and social service agencies to respond to school-based
+  violence.
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
 solutions:
+- Fragile States
 - Governance
-- Institutional and Policy Reform
 - Security and Justice
 - 
 regions: Latin America and the Caribbean
