@@ -1,5 +1,5 @@
 ---
-title: Honduras School-Based Violence Prevention Activity (SBVPA)
+title: Honduras—School-Based Violence Prevention Activity (SBVPA)
 date: 2017-04-20 18:11:00 Z
 summary: While the education sector in Honduras faces many complex challenges, one
   of the most insidious obstacles to students’ success is violence in and around schools.
