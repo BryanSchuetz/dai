@@ -13,7 +13,6 @@ solutions:
 - Natural Resource Management
 regions:
 - Asia and the Pacific
-- Eastern Europe and Central Asia
 - Sub-Saharan Africa
 layout: expert
 ---
