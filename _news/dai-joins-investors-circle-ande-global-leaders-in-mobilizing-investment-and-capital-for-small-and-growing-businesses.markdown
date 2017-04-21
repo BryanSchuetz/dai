@@ -2,7 +2,7 @@
 title: DAI Joins Investors’ Circle, ANDE—Global Leaders in Mobilizing Investment and
   Capital for Small and Growing Businesses
 date: 2017-04-21 21:39:00 Z
-is_featured: true
+is_featured: false
 solutions:
 - Economic Growth
 regions: Worldwide
@@ -12,8 +12,6 @@ summary: DAI is delighted to announce it has joined Investors’ Circle and the 
 ---
 
 DAI is delighted to announce it has joined Investors’ Circle and the Aspen Network of Development Entrepreneurs (ANDE), global leaders in supporting small and growing businesses dedicated to improving their communities and the world.
-
-<!--more-->
 
 Since 1992, Investors’ Circle has partnered with hundreds of early-stage angel investors, venture capitalists, foundations, and family firms. Their efforts have propelled more than $200 million for 330 enterprises working in education, health, natural resources, and other areas. Based in Raleigh, North Carolina, Investors’ Circle has long supported American entrepreneurship and in recent years it has begun mobilizing investment and capital for social enterprises in developing countries, notably in East Africa.
 
