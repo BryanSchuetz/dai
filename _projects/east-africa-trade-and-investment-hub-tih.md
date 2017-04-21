@@ -36,5 +36,10 @@ The [East Africa Trade and Investment Hub][1] is the U.S. Government's flagship 
 * Improve information flows and promote the use of available global technology.
 * Promote intra-regional trade and export trade, particularly under the African Growth and Opportunity Act.
 
+###  Select Results
+
+* Facilitated Eastern Africa Grain Council forum, where 58 contracts were signed to sell 279,000 metric tons of Ethiopian food grain surplus to neighboring East African countries with food shortages; total value of contracts was US$83 million.
+* Brokered partnership with American Apparel and Footwear Association, which represents more than 1,000 brands generating $361 billion in annual U.S. retail sales, to address constraints to competitiveness and expansion of the industry in East Africa while creating jobs in East Africa and the United States.
+
 [1]: https://eatradehub.nationbuilder.com/
 [2]: https://magic.piktochart.com/output/5281453-why-trade-shows-pvh
