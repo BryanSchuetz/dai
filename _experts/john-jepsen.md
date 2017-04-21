@@ -5,8 +5,8 @@ lastname: Jepsen
 summary: Eleven years ago, John Jepsen left his job at _Rolling Stone Magazine_ in
   New York City to start as an associate with DAI's Finance, Banking, and Enterprise
   group. Little did he know his new job would turn into a lifestyle.
-job-title: Global Practice Lead, Financial Services
-image: "/assets/images/experts/Jepsen_Inner.jpg"
+job-title: Global Practice Leader, Financial Services
+image: "/uploads/New%20John%20Jepsen.jpg"
 solutions:
 - Economic Growth
 - Financial Services
@@ -16,12 +16,10 @@ regions:
 layout: expert
 ---
 
-Eleven years ago, John left his job at _Rolling Stone Magazine_ in New York City to start as an associate with DAI's Finance, Banking, and Enterprise group. Little did he know his new job would turn into a lifestyle. John studied international relations and French at American University, but it was an internship during his senior year of college with a small Washington, D.C.-based microfinance outfit that first exposed him to development. This experience would prove to be life-changing.
+It all started 20 years ago with an internship at a small Washington, D.C.-based microfinance outfit—John Jepsen was exposed to development issues and found his career. A few years later, he would land at DAI.
 
-DAI exposed him to a depth of development issues, but his passion was in microenterprise development, particularly microfinance. He worked on several large U.S. Agency for International Development (USAID) microfinance development projects, taking a particular interest in Haiti. He also managed and provided technical assistance to several USAID centralized programs, including the SEGIR Financial Services IQCs, BASIS Rural and Agricultural Finance Best Practice Project, and the Office of Development Credit DCA Design Contract.   
+Since then, John’s expertise in economic growth programming has been honed over nearly two decades at DAI. John has held corporate positions with DAI’s U.S. government, European, and South African operations. He also served as Deputy Chief of Party for a U.S. Agency for International Development (USAID) financial inclusion program in Haiti. During his career, he has gained unique insights into various donor strategies and approaches, having developed and managed programs on behalf of USAID, DFID, EC, the EBRD, and the IFC among others.  John has a particular expertise in applying market systems approaches and making markets work for the poor (M4P) strategies to economic growth programming as well as specializations in various financial inclusion and capital mobilization topics.  John is also a tested technical trainer and speaker, who is often invited to speak at international fora on financial inclusion.  John regularly writes on financial inclusion topics, including as co-editor of the financial inclusion article series on the Guardian’s New Development Hub (http://bit.ly/1c8oWzO) and most recently an article on Applying the Market Systems Approach to Financial Inclusion Programming (http://bit.ly/2fm2Pao).
 
-> "I was nearly Medivacced out of Chad. Unfortunately, the delicious juice I was offered by the town elder contained some not-so-good bacteria." — John Jepsen 
-
-In 2003, John decided to go back to school to obtain a master's degree in business administration from the University of Maryland's Smith School of Business. During this time he maintained full-time employment with DAI. He benefited from DAI's corporate continued education benefit, which in turn built his credentials in enterprise development.
-
-In 2006, John became the Deputy Chief of Party on the USAID/Haiti Microfinance, Small and Medium Enterprise Project. He conceived and implemented the strategic work plan for the $7.2 million, three-year program. He left Haiti in 2009 to work with the DAI Banking and Financial Services team on a variety of European projects and proposals.
+John is based in New York City and has worked in more than  20 countries.
+* B.A., international relations and French from American University
+* M.B.A., University of Maryland, Smith School of Business
