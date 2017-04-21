@@ -2,7 +2,7 @@
 title: DAI Joins Investors’ Circle, ANDE—Global Leaders in Mobilizing Investment and
   Capital for Small and Growing Businesses
 date: 2017-04-21 21:39:00 Z
-is_featured: false
+is_featured: true
 solutions:
 - Economic Growth
 regions: Worldwide
