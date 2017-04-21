@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Randall
 summary: Jonathan Randall has been working at the intersection of sustainable economic
   development, climate change, and environmental conservation for more than 14 years.
-job-title: Global Practice Specialist, Climate Change and Natural Resource Management
+job-title: Principal Global Practice Leader, Environment, and Climate Change
 image: "/assets/images/experts/Randall-Inner.jpg"
 solutions:
 - Clean Energy and Energy Efficiency
