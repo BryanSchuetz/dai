@@ -2,11 +2,8 @@
 title: Kate Heuisler
 date: 2016-01-21 22:18:00 Z
 lastname: Heuisler
-summary: Kate Heuisler is a development practitioner with 13 years of experience designing
-  and managing development programs in 16 countries. As a cultural anthropologist,
-  Kate is passionate about user-centered design and working with partners to design
-  and run programs based on political, economic, and cultural needs in the countries
-  and regions where she works.
+summary: 'Kate Heuisler is a development practitioner with 15 years of experience
+  designing and managing development programs in 16 countries. '
 job-title: Chief of Party, Cambodia Development Innovations
 image: "/uploads/New%20Kate.jpg"
 solutions:
