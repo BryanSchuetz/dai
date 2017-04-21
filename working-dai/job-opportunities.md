@@ -1,9 +1,9 @@
 ---
 title: Job Opportunities
-layout: node
 promos: 
 redirect_from:
 - "/jobs"
+layout: node
 ---
 
 DAI offers rewarding career opportunities in International Development for talented technical, managerial, and support professionals. By providing challenging assignments, a commitment to professional development, managerial systems based on teamwork, and an ownership stake in the company, we attract and retain high-caliber staff. Our workforce reflects a cultural diversity that gives us a broad spectrum of backgrounds and perspectives.
@@ -32,4 +32,4 @@ DAI strives to be an employer of choice and to achieve a healthy work-life balan
 
 ___
 
-<p class="disclaimer">DAI makes reasonable accommodation for individuals with disabilities who are otherwise qualified to perform a job, unless such accommodation would impose an undue hardship. Please let us know if you need an accommodation to participate in the application process: Call (301) 771-7587 or (301) 771-7768.</p>
+<p class="disclaimer">DAI makes reasonable accommodation for individuals with disabilities who are otherwise qualified to perform a job, unless such accommodation would impose an undue hardship. Please let us know if you need an accommodation to participate in the application process: Call (301) 771-7587 or 301-771-7822.</p>
