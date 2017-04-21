@@ -1,32 +1,27 @@
 ---
 title: Jonathan Randall
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Randall
-regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
-- Middle East and North Africa
-- Sub-Saharan Africa
+summary: Jonathan Randall has been working at the intersection of sustainable economic
+  development, climate change, and environmental conservation for more than 14 years.
+job-title: Global Practice Specialist, Climate Change and Natural Resource Management
+image: "/assets/images/experts/Randall-Inner.jpg"
 solutions:
 - Clean Energy and Energy Efficiency
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Natural Resource Management
 - Water and Sanitation Services and Management
+regions:
+- Asia and the Pacific
+- Eastern Europe and Central Asia
+- Latin America and the Caribbean
+- Middle East and North Africa
+- Sub-Saharan Africa
 layout: expert
-image: "/assets/images/experts/Randall-Inner.jpg"
-summary: Jonathan has been working at the intersection of sustainable economic development,
-  climate change, and environmental conservation for more than 14 years with experience
-  in Bangladesh, Indonesia, Philippines, Maldives, Micronesia, Mozambique, Namibia,
-  Sri Lanka, Thailand, and United States.
-job-title: Global Practice Specialist, Climate Change and Natural Resource Management
-articles:
-- name: 
-  article_file: 
 ---
 
-Jonathan has been working at the intersection of sustainable economic development, climate change, and environmental conservation for more than 14 years with experience in Bangladesh, Indonesia, Philippines, Maldives, Micronesia, Mozambique, Namibia, Sri Lanka, Thailand, and United States.
+Jonathan Randall has been working at the intersection of sustainable economic development, climate change, and environmental conservation for more than 14 years with experience in Bangladesh, Indonesia, Philippines, Maldives, Micronesia, Mozambique, Namibia, Sri Lanka, Thailand, and United States.
 
 Trained as an ecologist, Jonathan's career path started as an undergraduate while he was conducting ecological field surveys in the hot sun and stunning landscapes of the Mojave Desert. His field site was located on public land owned by the federal government and the project was funded by geothermal power developers as an environmental offsets project.  Witnessing the competing interests of the government, the private sector, local communities and the environment on this land in the Mojave inspired him to follow a career finding solutions to complex problems at the intersection of environment and sustainable development.
 
