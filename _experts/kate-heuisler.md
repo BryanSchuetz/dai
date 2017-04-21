@@ -8,9 +8,11 @@ summary: Kate Heuisler is a development practitioner with 13 years of experience
   and run programs based on political, economic, and cultural needs in the countries
   and regions where she works.
 job-title: Chief of Party, Cambodia Development Innovations
-image: "/assets/images/experts/Heuisler_Inner.jpg"
+image: "/uploads/New%20Kate.jpg"
 solutions:
 - Digital
+- Economic Growth
+- Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific
 layout: expert
