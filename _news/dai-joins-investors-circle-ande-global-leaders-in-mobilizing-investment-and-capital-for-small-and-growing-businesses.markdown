@@ -3,6 +3,13 @@ title: DAI Joins Investors’ Circle, ANDE—Global Leaders in Mobilizing Invest
   Capital for Small and Growing Businesses
 date: 2017-04-21 21:39:00 Z
 published: false
+is_featured: true
+solutions:
+- Economic Growth
+regions: Worldwide
+summary: DAI is delighted to announce it has joined Investors’ Circle and the Aspen
+  Network of Development Entrepreneurs (ANDE), global leaders in supporting small
+  and growing businesses dedicated to improving their communities and the world.
 ---
 
 DAI is delighted to announce it has joined Investors’ Circle and the Aspen Network of Development Entrepreneurs (ANDE), global leaders in supporting small and growing businesses dedicated to improving their communities and the world.
@@ -11,13 +18,13 @@ Since 1992, Investors’ Circle has partnered with hundreds of early-stage angel
 
 With more than 200 members globally, Washington, D.C.-based ANDE assists small and growing businesses in developing countries with funding, training, metrics and evaluation, and other needs. ANDE’s membership extends to more than 150 countries, with full-time regional coordinators in Brazil, Central America and Mexico, East Africa, India, and South Africa. Among ANDE’s contributions, its ANDE Catalyst Fund has disbursed $2.3 million in grants to 43 member organizations and small businesses.
 
-“It is good development to help mobilize investment and capital for worthy small and growing businesses, which DAI has been doing for years on behalf of clients such as the U.S. Agency for International Development (USAID),” said Doug McLean, DAI’s Vice President for Partnerships. “More recently, DAI itself has invested in select small-business partners who are driving innovation in development. We are thrilled to join Investors’ Circle and ANDE, alongside our ongoing membership in the Global Accelerator Network.”
+“It is good development to help mobilize investment and capital for worthy small and growing businesses, which DAI has been doing for years on behalf of clients such as the U.S. Agency for International Development (USAID),” said [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean), DAI’s Vice President for Partnerships. “More recently, DAI itself has invested in select small-business partners who are driving innovation in development. We are thrilled to join Investors’ Circle and ANDE, alongside our ongoing membership in the Global Accelerator Network.”
 
 Working under USAID’s Grand Challenges for Development and Center for Development Innovation, DAI established itself as a leader in assisting innovators around the world to apply their know-how to challenges in areas such as hunger, water, and literacy. DAI is also bringing fresh entrepreneurial energy to international development by means of targeted investments:
 
-* In February, DAI announced a financial commitment to ThinkMD, an early-stage global healthcare innovation company whose first product, MEDSINC, is a mobile clinical assessment platform that enables anyone, anywhere to assess the sickness of a child and provide triage and treatment recommendations.
-* In March, DAI invested in the mHealth service provider MobileODT, which combines advanced optical technology with smartphone capabilities to bring affordable cancer detection services to underserved communities around the world.
-* Earlier this month, DAI acquired U.K.-based Local Content Solutions to complement DAI’s work in the oil, gas, mining, and infrastructure sectors in corporate social investment, government and community engagement, and local content and related supply chain management.
-* In 2016, DAI awarded grants to six small businesses in the Innovation into Action Challenge—through which DAI was introduced to ThinkMD—in partnership with USAID, the Global Accelerator Network, and Montgomery County, Maryland.
+* In February, DAI [announced](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology) a financial commitment to ThinkMD, an early-stage global healthcare innovation company whose first product, MEDSINC, is a mobile clinical assessment platform that enables anyone, anywhere to assess the sickness of a child and provide triage and treatment recommendations.
+* In March, DAI [invested](https://www.dai.com/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech?related-box) in the mHealth service provider MobileODT, which combines advanced optical technology with smartphone capabilities to bring affordable cancer detection services to underserved communities around the world.
+* Earlier this month, DAI [acquired](https://www.dai.com/news/dai-joins-forces-with-local-content-solutions-ltd) U.K.-based Local Content Solutions to complement DAI’s work in the oil, gas, mining, and infrastructure sectors in corporate social investment, government and community engagement, and local content and related supply chain management.
+* In 2016, DAI [awarded](https://www.dai.com/news/innovation-action-challenge-winners-begin-implement-their-solutions-field) grants to six small businesses in the Innovation into Action Challenge—through which DAI was introduced to ThinkMD—in partnership with USAID, the Global Accelerator Network, and Montgomery County, Maryland.
 
-“The world has countless innovators and smart entrepreneurs as well as people and institutions willing to invest in shaping a more livable world,” said John Jepsen, DAI’s Global Practice Lead for Financial Services. “Investors’ Circle and ANDE are proven leaders in developing networks that can shine light on business and investment opportunities. We look forward to partnering with Investors’ Circle and ANDE and leveraging our memberships.”
+“The world has countless innovators and smart entrepreneurs as well as people and institutions willing to invest in shaping a more livable world,” said [John Jepsen](https://www.dai.com/who-we-are/our-team/john-jepsen), DAI’s Global Practice Lead for Financial Services. “Investors’ Circle and ANDE are proven leaders in developing networks that can shine light on business and investment opportunities. We look forward to partnering with Investors’ Circle and ANDE and leveraging our memberships.”
