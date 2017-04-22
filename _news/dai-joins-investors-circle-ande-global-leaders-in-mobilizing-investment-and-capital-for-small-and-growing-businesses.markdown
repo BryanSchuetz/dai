@@ -17,9 +17,13 @@ DAI is delighted to announce it has joined Investors’ Circle and the Aspen Net
 
 Since 1992, Investors’ Circle has partnered with hundreds of early-stage angel investors, venture capitalists, foundations, and family firms. Their efforts have propelled more than $200 million for 330 enterprises working in education, health, natural resources, and other areas. Based in Raleigh, North Carolina, Investors’ Circle has long supported American entrepreneurship and in recent years it has begun mobilizing investment and capital for social enterprises in developing countries, notably in East Africa.
 
+![DAI-News----ANDE.jpg](/uploads/DAI-News----ANDE.jpg "Winners of DAI's Innovation into Action Challenge share their experiences at the DAI Global Staff Conference in October 2016.")
+
 With more than 200 members globally, Washington, D.C.-based ANDE assists small and growing businesses in developing countries with funding, training, metrics and evaluation, and other needs. ANDE’s membership extends to more than 150 countries, with full-time regional coordinators in Brazil, Central America and Mexico, East Africa, India, and South Africa. Among ANDE’s contributions, its ANDE Catalyst Fund has disbursed $2.3 million in grants to 43 member organizations and small businesses.
 
 “It is good development to help mobilize investment and capital for worthy small and growing businesses, which DAI has been doing for years on behalf of clients such as the U.S. Agency for International Development (USAID),” said [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean), DAI’s Vice President for Partnerships. “More recently, DAI itself has invested in select small-business partners who are driving innovation in development. We are thrilled to join Investors’ Circle and ANDE, alongside our ongoing membership in the Global Accelerator Network.”
+
+![DAI-News----ANDE-ThinkMD.jpg](/uploads/DAI-News----ANDE-ThinkMD.jpg "ThinkMD's MEDSINC medical assessment platform being used in Bangladesh.")
 
 Working under USAID’s Grand Challenges for Development and Center for Development Innovation, DAI established itself as a leader in assisting innovators around the world to apply their know-how to challenges in areas such as hunger, water, and literacy. DAI is also bringing fresh entrepreneurial energy to international development by means of targeted investments:
 
