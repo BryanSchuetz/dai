@@ -41,10 +41,10 @@ The [East Africa Trade and Investment Hub][1] is the U.S. Government's flagship 
 * Facilitated Eastern Africa Grain Council forum, where 58 contracts were signed to sell 279,000 metric tons of Ethiopian food grain surplus to neighboring East African countries with food shortages; total value of contracts was US$83 million.
 * Brokered partnership with American Apparel and Footwear Association, which represents more than 1,000 brands generating $361 billion in annual U.S. retail sales, to address constraints to competitiveness and expansion of the industry in East Africa while creating jobs in East Africa and the United States.
 * Supported $224 million in exports through the African Growth and Opportunity Act (AGOA).
-* Facilitated $51 million of new private sector investment and more than 1,400 export buyer-seller linkages.
+* Facilitated $51 million of new private sector investment and more than 1,400 buyer-seller export linkages.
 * Created more than 33,000 new full- and part-time jobs.
 * Supported more than 600 food security producers and organizations.
-* Assisted in crafting four policy and regulatory reforms.
+* Assisted in drafting four policy and regulatory reforms.
 * Provided export capacity building assistance to more than 1,200 firms.
 
 [1]: https://eatradehub.nationbuilder.com/
