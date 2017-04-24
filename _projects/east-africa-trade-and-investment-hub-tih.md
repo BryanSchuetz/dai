@@ -45,7 +45,7 @@ The [East Africa Trade and Investment Hub][1] is the U.S. Government's flagship 
 * Created more than 33,000 new full- and part-time jobs.
 * Supported more than 600 food security producers and organizations.
 * Assisted in crafting four policy and regulatory reforms.
-* Provided capacity building assistance to export to more than 1,200 firms.
+* Provided export capacity building assistance to more than 1,200 firms.
 
 [1]: https://eatradehub.nationbuilder.com/
 [2]: https://magic.piktochart.com/output/5281453-why-trade-shows-pvh
