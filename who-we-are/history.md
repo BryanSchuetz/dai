@@ -17,9 +17,9 @@ Employee-owned DAI is now a global development company with a record of deliveri
 
 Incorporated in 1970 as Development Alternatives, Inc., DAI made its earliest mark through a series of analytical studies. In 1973, we won a contract to analyze 36 U.S. Agency for International Development (USAID) projects in Latin America and Africa.
 
-The resulting study, Strategies for Small Farmer Development, cemented the firm’s growing reputation, and we built on this momentum to seek more substantial assignments implementing projects in the field. Our first major project was to revitalize the agricultural economy in the North Shaba region of Zaire. Other implementation initiatives in rural and agricultural development followed in Sudan and elsewhere.
+The resulting study, _Strategies for Small Farmer Development_, cemented the firm’s growing reputation, and we built on this momentum to seek more substantial assignments implementing projects in the field. Our first major project was to revitalize the agricultural economy in the North Shaba region of Zaire. Other implementation initiatives in rural and agricultural development followed in Sudan and elsewhere.
 
-Among a new generation of DAI employees joining the firm in the 1980s was current CEO Jim Boomgard, a Ph.D. agricultural economist who played a key role in developing an approach to small business promotion in developing countries and managed a landmark multicountry study called Growth and Equity through Micro-enterprise Investments and Institutions (GEMINI).
+Among a new generation of DAI employees joining the firm in the 1980s was current CEO Jim Boomgard, a Ph.D. agricultural economist who played a key role in developing an approach to small business promotion in developing countries and managed a landmark multicountry study called _Growth and Equity through Micro-enterprise Investments and Institutions_ (GEMINI).
 
 ## Responding to Global Transformations
 
