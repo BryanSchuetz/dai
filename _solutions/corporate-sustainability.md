@@ -38,7 +38,7 @@ DAI’s Energy and Resources Group (ERG) expertly navigates the intersection of 
 
 ## Industries
 
-ERG works across many sectors, including Oil & Gas, Mining, Renewable Energy, Infrastructure, and Retail. 
+ERG works across many sectors, including Oil & Gas, Mining, Renewable Energy, Infrastructure, Retail, and more. 
 
 ## Services
 
