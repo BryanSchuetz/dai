@@ -34,19 +34,15 @@ layout: solution
 
 ## Energy and Resources Group
 
-DAI’s Energy and Resources Group expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
+DAI’s Energy and Resources Group (ERG) expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
 
 ## Industries
 
-* Oil & Gas
-* Mining
-* Renewable Energy
-* Infrastructure
-* Retail
+ERG works across many sectors, including Oil & Gas, Mining, Renewable Energy, Infrastructure, and Retail. 
 
 ## Services
 
-The Energy and Resources Group works with companies in the oil, gas, mining, and renewable energy sectors to provide solutions to business needs, including:
+ERG works with companies in the oil, gas, mining, and renewable energy sectors to provide solutions to business needs, including:
 
 * [Local Content and Supply Chain Management](/our-work/solutions/corporate/local-content-and-supply-chain-management). We use our suite of analytical tools and data sets to uncover market insights that optimize local supply chains and maximize local content capture.
 * [Corporate Social Investment](/our-work/solutions/corporate/social-strategy). We design and manage impactful initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals.
