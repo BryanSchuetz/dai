@@ -2,10 +2,9 @@
 title: Peter Ross
 date: 2016-01-21 22:18:00 Z
 lastname: Ross
-summary: Peter has been a permanent member of staff for 25 years. A member of the
-  project management team, he is responsible for planning and managing our current
-  long-term U.K. Department for International Development-funded programmes in Malawi,
-  Nigeria, and Zambia.
+summary: Peter Ross has been a permanent member of staff for 25 years. A member of
+  the project management team, he is responsible for planning and managing our current
+  long-term DFID-funded programmes in Malawi, Nigeria, and Zambia.
 job-title: Project Management and Advisor
 image: "/assets/images/experts/PeterRossINNER.jpg"
 solutions:
