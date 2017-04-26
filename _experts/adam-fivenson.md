@@ -1,22 +1,21 @@
 ---
 title: Adam Fivenson
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Fivenson
-regions:
-- Asia and the Pacific
-- Latin America and the Caribbean
+summary: Adam Fivenson works to make interventions more efficient and more effective
+  by introducing new technologies that help citizens report corruption, monitor biodiversity,
+  access markets, and adapt to climate change.
+job-title: New Business Specialist, ICT
+image: "/assets/images/experts/Adam%20inner.png"
 solutions:
 - Digital
 - Fragile States
 - Peace-Building and Political Transition
 - Governance
+regions:
+- Asia and the Pacific
+- Latin America and the Caribbean
 layout: expert
-image: "/assets/images/experts/Adam%20inner.png"
-summary: Adam works to make interventions more efficient and more effective by introducing
-  new technologies that help citizens report corruption, monitor biodiversity, access
-  markets, and adapt to climate change.
-job-title: New Business Specialist, ICT
-articles: 
 ---
 
 Standing and staring as yet another flaming wall of tires blocked the only access road to the neighborhood, it finally dawned on Adam Fivenson why Dominicans in his Peace Corps neighborhood didn't relay their demands to their local government in a more constructive manner: burning tires got the government's attention; formal channels of citizen-government accountability did not. So they burned tires. This early lesson in citizen engagement (or the lack thereof) drove Adam's interest in how citizen accountability and government transparency and can work together to improve service delivery.
