@@ -2,10 +2,9 @@
 title: Olga Dzharimbetova
 date: 2017-03-30 12:37:00 Z
 lastname: Dzharimbetova
-summary: 'After completing her master’s degree in Business Administration in the United
-  States, Olga returned to her home country, Turkmenistan, to apply her new skills
-  as a finance and administrative manager in the country’s burgeoning oil and gas
-  and construction sectors. '
+summary: 'Olga Dzharimbetova brings strong analytical skills and sector knowledge
+  to support the build out of sustainability and local content solutions for partners
+  in the extractives industry. '
 job-title: Senior Analyst
 image: "/uploads/Olga%20mug.jpg"
 solutions:
