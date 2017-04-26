@@ -24,5 +24,6 @@ After joining the corporate banking world for a couple years, Gaelle decided it 
 Step by step, it became quickly apparent that her natural leaning was mostly in areas “least fun” for most living souls (i.e. monitoring and evaluation, management, accountability, systems, compliance) while remaining engaged with projects of greatest technical interest (governance at large, sustainable tourism, and now, countering violent extremism). 
 
 Gaelle is today a six-time Chief for Party and Team Leader.
+
 * M.Phil, modern Middle East studies, University of Oxford
 * B.S., School of Foreign Service, Georgetown University
