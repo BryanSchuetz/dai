@@ -6,7 +6,7 @@ summary: After joining the corporate banking world for a couple years, Gaelle de
   that it was time to return to “interesting work” delving back this time into governance-related
   development going from Iraq, to South Sudan, Ecuador, DR of Congo, Yemen and back
   to Kenya/Somalia.
-job-title: Chief of Party
+job-title: Team Leader
 image: "/uploads/Gaelle%20LePottier%20portal.jpg"
 solutions:
 - Fragile States
