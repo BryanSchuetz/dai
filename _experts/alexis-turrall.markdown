@@ -2,7 +2,7 @@
 title: Alexis Turrall
 date: 2017-01-11 18:27:00 Z
 lastname: Turrall
-summary: 'Alexis has worked in both the private and public sector as an international
+summary: 'Alexis Turrall has worked in both the private and public sector as an international
   development specialist. '
 job-title: 'Deputy Director, Programme Management Unit, Europe '
 image: "/uploads/AlexisTurrall%20INNER.jpg"
