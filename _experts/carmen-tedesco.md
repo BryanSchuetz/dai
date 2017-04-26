@@ -2,17 +2,13 @@
 title: Carmen Tedesco
 date: 2016-01-21 22:18:00 Z
 lastname: Tedesco
-summary: 'Combining geospatial information and climate change is Carmen’s primary
-  interest. From her fieldwork on the North Slope of Alaska and in the Terai region
-  of Nepal, to work in Bangladesh and the deserts of Tunisia, she has witnessed the
-  direct impacts of climate change on diverse ecosystems and cultures.  '
+summary: 'As part of the Climate Change Team at DAI, Carmen Tedesco works with projects
+  and proposal teams, serving as a geospatial advisor, and supporting technical needs. '
 job-title: 'Senior Spatial Planning Specialist, Climate Change '
 image: "/assets/images/experts/carmen_inner.jpg"
 solutions:
 - Environment and Energy
 - Digital
-regions:
-- 
 layout: expert
 ---
 
