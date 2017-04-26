@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: default
 ---
 
-# Privacy Policy 
+# Privacy Policy  
 
 This website is operated and maintained by DAI.
 
