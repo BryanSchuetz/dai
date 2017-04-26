@@ -10,6 +10,7 @@ job-title: Chief of Party
 image: "/uploads/Gaelle%20LePottier%20portal.jpg"
 solutions:
 - Fragile States
+- Governance
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
