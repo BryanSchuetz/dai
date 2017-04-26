@@ -2,10 +2,9 @@
 title: Gaelle Le Pottier
 date: 2017-04-26 19:06:00 Z
 lastname: Le Pottier
-summary: After joining the corporate banking world for a couple years, Gaelle decided
-  that it was time to return to “interesting work” delving back this time into governance-related
-  development going from Iraq, to South Sudan, Ecuador, DR of Congo, Yemen and back
-  to Kenya/Somalia.
+summary: After joining the corporate banking world for a couple years, Gaelle Le Pottier
+  delved back into governance-related development going from Iraq, to South Sudan,
+  Ecuador, Democratic Republic of Congo, Yemen, and back to Kenya/Somalia.
 job-title: Team Leader
 image: "/uploads/Gaelle%20LePottier%20portal.jpg"
 solutions:
