@@ -2,13 +2,8 @@
 title: Alyssa Menz
 date: 2017-03-30 18:05:00 Z
 lastname: Menz
-summary: As an Associate Analyst in DAI’s Energy and Resources Group, Alyssa provides
-  technical support on business development, market intelligence, and communications
-  strategies for private-sector oil, gas, mining, and energy clients. Prior to joining
-  DAI, she interned with Synergy Global Consulting, where she supported research and
-  analysis on environmental and social policy issues related to global hydropower
-  projects, social responsibility in the mining sector, and community trusts tied
-  to renewable energy sources.
+summary: 'Alyssa Menz provides technical support on business development, market intelligence,
+  and communications strategies for private-sector oil, gas, mining, and energy clients. '
 job-title: Associate Analyst
 image: "/uploads/Alyssa%20Menz.jpg"
 solutions:
