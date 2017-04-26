@@ -1,24 +1,22 @@
 ---
 title: Elizabeth Villarroel
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Villarroel
+summary: Elizabeth Villarroel has 13 years of programmatic and operations experience
+  in designing, managing, monitoring, and assessing programs in conflict and post-conflict
+  environments.
+job-title: Director, Stable Governance, Asia
+image: "/assets/images/experts/ElizabethVInner.jpg"
+solutions:
+- Fragile States
+- Stabilization
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
 - Middle East and North Africa
 - Sub-Saharan Africa
-solutions:
-- Fragile States
-- Stabilization
 layout: expert
-image: "/assets/images/experts/ElizabethVInner.jpg"
-summary: Elizabeth has 13 years of programmatic and operations experience in designing,
-  managing, monitoring, and assessing programs in conflict and post-conflict environments.
-job-title: Director, Stable Governance, Asia
-articles:
-- name: 
-  article_file: 
 ---
 
 Elizabeth has 13 years of programmatic and operations experience in designing, managing, monitoring, and assessing programs in conflict and post-conflict environments. Having served as a senior technical manager, she offers a deep understanding of the practical challenges of working in complex environments in countries as diverse as Afghanistan, Burma, Colombia, Iraq, Moldova, Pakistan and Sudan.
