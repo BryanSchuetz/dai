@@ -15,7 +15,7 @@ solutions:
 - Agriculture and Food Security
 - Value Chain Development for Agribusiness and Other Sectors
 - Economic Growth
-regions: Africa
+regions: Sub-Saharan Africa
 country: Mozambique
 ---
 
