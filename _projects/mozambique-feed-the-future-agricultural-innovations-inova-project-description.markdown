@@ -1,5 +1,5 @@
 ---
-title: Mozambique—Feed the Future Agricultural Innovations (INOVA) Project Description
+title: Mozambique—Feed the Future Agricultural Innovations (INOVA)
 date: 2017-04-27 18:11:00 Z
 summary: Mozambique has one of the best records of sustained economic growth in Africa,
   averaging a seven-percent increase in GDP per year for the last decade. However,
