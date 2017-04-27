@@ -15,11 +15,11 @@ regions: Sub-Saharan Africa
 country: Mozambique
 ---
 
-Mozambique has one of the best records of sustained economic growth in Africa, averaging a seven-percent increase in GDP per year for the last decade. However, poverty and malnutrition rates remain high while food availability is limited by low yields and inadequate access to markets. To address these issues, the government of Mozambique has launched an ambitious new plan to grow its agricultural sector in an inclusive manner that also reduces poverty and alleviates hunger throughout the country.
+Mozambique has one of the best records of sustained economic growth in Africa, averaging a 7 percent increase in GDP per year for the last decade. However, poverty and malnutrition rates remain high while food availability is limited by low yields and inadequate access to markets. To address these issues, the government of Mozambique has launched an ambitious plan to grow its agricultural sector in an inclusive manner to reduce poverty and alleviate hunger throughout the country.
 
-In support of this goal, the U.S. Agency for International Development (USAID) has launched the Feed the Future Agricultural Innovations (INOVA) project, which partners with farmers, businesses, and policymakers to explore ways to improve production and increase sales of key cash crops vital to Mozambique’s economy. In addition to providing technical assistance and training, INOVA leverages project funds to strategically buy down risk and co-finance with farmers and agribusiness in order to promote investments in equipment upgrades, climate-smart agriculture, and women’s empowerment.
+In support of this goal, the U.S. Agency for International Development (USAID) has launched the Feed the Future Agricultural Innovations (INOVA) project, which partners with farmers, businesses, and policymakers to explore ways to improve production and increase sales of key cash crops vital to Mozambique’s economy. In addition to providing technical assistance and training, INOVA leverages project funds to strategically buy down risk and co-finance with farmers and agribusiness to promote investments in equipment upgrades, climate-smart agriculture, and women’s empowerment.
 
-In developing value chains, INOVA takes a portfolio approach adapted from the finance industry, relying on diversified assets, active monitoring of performance, and the flexibility to rebalance investments based on changing market dynamics. Also central to INOVA’s work is the co-creation of pilot interventions, which involves partnering with local private-sector firms to develop innovative and inclusive agri-business models and demonstrating their viability to potential stakeholders.
+In developing value chains, INOVA takes a portfolio approach adapted from the finance industry, relying on diversified assets, active monitoring of performance, and the flexibility to rebalance investments based on changing market dynamics. Also central to INOVA’s work is the co-creation of pilot interventions, which involves partnering with local private-sector firms to develop innovative and inclusive agribusiness models and demonstrating their viability to potential stakeholders.
 
 ![Mufankiwa Small Scale Irrigation Scheme.jpg](/uploads/Mufankiwa%20Small%20Scale%20Irrigation%20Scheme.jpg)
 
@@ -27,7 +27,7 @@ In developing value chains, INOVA takes a portfolio approach adapted from the fi
 
 * Conduct comprehensive, gender-responsive value chain analyses for key crops, such as sesame, soybean, and cowpeas, to better understand market inefficiencies and address root causes of underperformance.
 
-* Promote the adoption of improved seed varieties and fertilizers to increase crop yields through use of demonstration plots, agricultural extension trainings, and radio and SMS messaging campaigns.
+* Promote the adoption of improved seed varieties and fertilizers to increase crop yields through use of demonstration plots, agricultural extension trainings, and radio and text messaging campaigns.
 
 * Collaborate with financial institutions and village savings and loan associations to provide credit lines targeted at enabling smallholder farmers to invest in improved seeds, fertilizer, and other agricultural inputs.
 
