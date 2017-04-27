@@ -1,12 +1,8 @@
 ---
 title: Mozambique—Feed the Future Agricultural Innovations (INOVA)
 date: 2017-04-27 18:11:00 Z
-summary: Mozambique has one of the best records of sustained economic growth in Africa,
-  averaging a seven-percent increase in GDP per year for the last decade. However,
-  poverty and malnutrition rates remain high while food availability is limited by
-  low yields and inadequate access to markets. To address these issues, the government
-  of Mozambique has launched an ambitious new plan to grow its agricultural sector
-  in an inclusive manner that also reduces poverty and alleviates hunger throughout
+summary: The government of Mozambique has launched an ambitious plan to grow its agricultural
+  sector in an inclusive manner to reduce poverty and alleviate hunger throughout
   the country.
 start: 2017
 end: 2022
