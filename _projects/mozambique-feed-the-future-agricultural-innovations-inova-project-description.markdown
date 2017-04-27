@@ -1,5 +1,5 @@
 ---
-title: Mozambique–Feed the Future Agricultural Innovations (INOVA) Project Description
+title: Mozambique—Feed the Future Agricultural Innovations (INOVA) Project Description
 date: 2017-04-27 18:11:00 Z
 summary: Mozambique has one of the best records of sustained economic growth in Africa,
   averaging a seven-percent increase in GDP per year for the last decade. However,
@@ -24,6 +24,8 @@ Mozambique has one of the best records of sustained economic growth in Africa, a
 In support of this goal, the U.S. Agency for International Development (USAID) has launched the Feed the Future Agricultural Innovations (INOVA) project, which partners with farmers, businesses, and policymakers to explore ways to improve production and increase sales of key cash crops vital to Mozambique’s economy. In addition to providing technical assistance and training, INOVA leverages project funds to strategically buy down risk and co-finance with farmers and agribusiness to promote investments in equipment upgrades, climate-smart agriculture, and women’s empowerment.
 
 In developing value chains, INOVA takes a portfolio approach adapted from the finance industry, relying on diversified assets, active monitoring of performance, and the flexibility to rebalance investments based on changing market dynamics. Also central to INOVA’s work is the co-creation of pilot interventions, which involves partnering with local private-sector firms to develop innovative and inclusive agri-business models and demonstrating their viability to potential stakeholders.
+
+![Mufankiwa Small Scale Irrigation Scheme.jpg](/uploads/Mufankiwa%20Small%20Scale%20Irrigation%20Scheme.jpg)
 
 **Sample Activities**
 
