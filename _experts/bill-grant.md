@@ -1,25 +1,25 @@
 ---
 title: Bill Grant
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Grant
-regions:
-- Sub-Saharan Africa
+summary: Bill Grant has played an important role in the development and application
+  of subsector and value chain approaches and is currently leading numerous programs
+  applying the [Making Markets Work for the Poor](http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html)
+  approach for private and international donors.
+job-title: Global Practice Lead, Market Systems Development
+image: "/assets/images/experts/innerbill.jpg"
 solutions:
 - Market Insight and Development
 - Economic Growth
-layout: expert
-image: "/assets/images/experts/innerbill.jpg"
-summary: Bill has played an important role in the development and application of subsector
-  and value chain approaches and is currently leading numerous programs applying the
-  [Making Markets Work for the Poor](http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html)
-  approach for private and international donors.
-job-title: Global Practice Lead, Market Systems Development
+regions:
+- Sub-Saharan Africa
 articles:
 - name: In Niger Delta, Chevron Launches New Paradigm for Corporate Social Investment,
     *DAIdeas*
   article_file: http://dai-global-developments.com/articles/daideas-innovation-in-action-chevron.html
 - name: 'Market Systems Development: A Primer on Pro-Poor Programming, _DAIdeas_'
   article_file: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/
+layout: expert
 ---
 
 For some, international development is a walk on the wild side. For Bill Grant, it is the family business. His family has been involved in international health and economic development for more than 120 years. His great-grandfather built the first major hospital in Ningpo, China, in the 1880s; his grandfather was the first doctor of public health in China in the 1920s; and his father was an architect of the U.S. Government's foreign assistance programs in the 1950s and 1960s, before helping to lead the United Nations Children's Fund to its current position in the world of international development.
