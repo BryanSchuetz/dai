@@ -2,10 +2,10 @@
 title: Andrew Watson
 date: 2016-01-21 22:18:00 Z
 lastname: Watson
-summary: Over the past 30 years, Andrew's technical focus has shifted from the earth
-  sciences and remote sensing to environment policy and impact assessment, natural
-  resource management, and biodiversity conservation, and, most recently, to climate
-  change adaptation, with an emphasis on the sustainable use of water resources.
+summary: Over the past 30 years, Andrew Watson's technical focus has shifted from
+  the earth sciences and remote sensing to environment policy and impact assessment,
+  natural resource management, and biodiversity conservation, and, most recently,
+  to climate change adaptation, with an emphasis on the sustainable use of water resources.
 job-title: 'Managing Director, Environment '
 image: "/assets/images/experts/innerwatson.jpg"
 solutions:
