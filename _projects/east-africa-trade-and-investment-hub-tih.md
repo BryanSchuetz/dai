@@ -27,7 +27,7 @@ Growth in the five East African Community Partner States—Burundi, Kenya, Rwand
 
 The [East Africa Trade and Investment Hub](https://eatradehub.nationbuilder.com/) is the U.S. Government's flagship project under the presidential Trade Africa initiative, which seeks to increase U.S.-Africa trade and investment, regional integration, and competitiveness. Managed by DAI, the Hub will assist the region's private sector to engage with government in finding practical solutions to constraints to [trade](https://magic.piktochart.com/output/5281453-why-trade-shows-pvh) and investment. The team will also build awareness around opportunities for African and U.S. firms to increase trade, expand business partnerships, and invest in East Africa.
 
-Watch this video to see how the project works:
+Watch this video of Kanini Mutooni, the director for investment at the East Africa Trade and Investment Hub, to see how the project works:
 <iframe src="https://player.vimeo.com/video/215195467" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
