@@ -2,9 +2,10 @@
 title: Boaz Tumwesigye
 date: 2016-01-21 22:18:00 Z
 lastname: Tumwesigye
-summary: Boaz joined DAI in 2010 as a member of the project management team, providing
-  technical direction and oversight of sustainable, ecotourism development projects
-  in and around Nyungwe National Park, one of the region's most spectacular destinations.
+summary: Boaz Tumwesigye joined DAI in 2010 as a member of the project management
+  team, providing technical direction and oversight of sustainable, ecotourism development
+  projects in and around Nyungwe National Park, one of the region's most spectacular
+  destinations.
 job-title: Regional Coordinator & Communications Lead, Preparedness & Response Project
 image: "/assets/images/experts/Boaz_Inner.jpg"
 solutions:
