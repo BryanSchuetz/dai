@@ -2,11 +2,9 @@
 title: John DeRiggi
 date: 2016-01-21 22:18:00 Z
 lastname: DeRiggi
-summary: John DeRiggi is a spatial products developer with 10 years of experience
+summary: 'John DeRiggi is a spatial products developer with 10 years of experience
   in software and data engineering that includes working with Booz Allen, the RAND
-  Corporation, and the World Bank. He currently develops data-driven analytical and
-  visualization tools for DAI's Energy and Resources Group, including building out
-  their local supply chain modeling and forecasting software.
+  Corporation, and the World Bank. '
 job-title: Principal Software Developer
 image: "/assets/images/experts/DeRiggiInner.jpg"
 solutions:
