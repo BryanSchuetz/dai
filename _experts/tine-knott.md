@@ -5,7 +5,7 @@ lastname: Knott
 summary: 'Tine Knott is the Vice President of the Center for Secure and Stable States
   where she provides strategic leadership of DAI’s work in fragile states. '
 job-title: Vice President, Center for Secure and Stable States
-image: "/assets/images/experts/Knott_Inner.jpg"
+image: "/uploads/TineKnott%20New.jpg"
 solutions:
 - Fragile States
 - Peace-Building and Political Transition
