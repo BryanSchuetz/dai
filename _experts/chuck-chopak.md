@@ -2,9 +2,8 @@
 title: Chuck Chopak
 date: 2016-01-21 22:18:00 Z
 lastname: Chopak
-summary: Thirty years ago Chuck Chopak earned a bachelor's degree, but couldn't see
-  earning a living in biology or sociology, his dual major at Tulane University. He
-  was intrigued, though, by an aquaculture opening in northern Senegal.
+summary: With more than 30 years of experience, Chuck Chopak heads our Technical Services
+  unit.
 job-title: Vice President, Technical Services
 image: "/assets/images/experts/innerchopak.jpg"
 solutions:
