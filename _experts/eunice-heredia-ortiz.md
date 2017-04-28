@@ -2,12 +2,10 @@
 title: Eunice Heredia-Ortiz
 date: 2016-01-21 22:18:00 Z
 lastname: Heredia-Ortiz
-summary: Growing up in a developing country and witnessing poverty first hand, Eunice
-  Heredia-Ortiz always knew she wanted to help people get on the path to prosperity.
-  Specializing in public finance, Eunice has helped governments in many countries
-  transform their fiscal policy and management, laying the foundations for more efficient
-  and accountable use of public resources, better public service delivery, and improved
-  living standards.
+summary: Specializing in public finance, Eunice Heredia-Ortiz has helped governments
+  in many countries transform their fiscal policy and management, laying the foundations
+  for more efficient and accountable use of public resources, better public service
+  delivery, and improved living standards.
 job-title: Chief of Party, Guatemala Fiscal and Procurement Reform Project
 image: "/assets/images/experts/innereunice_0.jpg"
 solutions:
