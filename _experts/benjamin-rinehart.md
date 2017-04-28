@@ -1,22 +1,23 @@
 ---
 title: Benjamin Rinehart
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Rinehart
-regions:
-- Sub-Saharan Africa
+summary: 'As a seasoned proposal writer, technical specialist, and Chief of Party,
+  Ben Rinehart brings significant depth of experience in providing strategic direction
+  to program design, implementation and monitoring and evaluation '
+job-title: Development Specialist, Food Security & Livelihoods
+image: "/assets/images/experts/Ben.jpg"
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Sustainable Livelihoods
-layout: expert
-image: "/assets/images/experts/Ben.jpg"
-summary: 'As a seasoned proposal writer, technical specialist, and Chief of Party,
-  Ben brings significant depth of experience in providing strategic direction to program
-  design, implementation and monitoring and evaluation '
-job-title: Development Specialist, Food Security & Livelihoods
+regions:
+- Sub-Saharan Africa
 articles:
 - name: 
+  article_file: 
 - article_file: 
+layout: expert
 ---
 
 After four years in southern Africa, Benjamin Rinehart returned to his native Washington, D.C., to join DAI's Technical Services team and support its practice in food security, agriculture, and livelihoods. As a seasoned proposal writer, technical specialist, and Chief of Party, he brings significant depth of experience in providing strategic direction to program design, implementation and monitoring and evaluation in multiple areas: livelihoods, agriculture, food security, gender, markets and trade, vulnerability assessment methodology, climate adaptation, and resilience.
