@@ -7,7 +7,7 @@ In implementing its projects, DAI relies on services and equipment provided by s
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click on its link below.  
 
-* There are no available procurements at this time. 
+* There are no available procurements at this time. Some text here.
 
 <!-- * [Improving Water, Sanitation and Hygiene (WASH) Evidence-based Decision-making No. 1002690-003](/uploads/wash_rfp_1002690-003.pdf)
 * [Improving Water, Sanitation and Hygiene (WASH) Evidence-based Decision-making No. 1002690-003 Portugese](/uploads/wash_rfp_1002690-003_port.pdf)-->
