@@ -9,8 +9,11 @@ solutions:
 - 
 layout: expert
 image: "/assets/images/experts/"
-summary: |
-  Stewart Pirnie is a highly experienced international consultant who has held senior positions in leasing companies operating in central and eastern Europe for the last eight years (lease transaction size from €30 to €250,000).
+summary: 'Stewart Pirnie is a highly experienced international consultant who has
+  held senior positions in leasing companies operating in central and eastern Europe
+  for the last eight years (lease transaction size from €30 to €250,000).
+
+'
 job-title: Associate Consultant
 ---
 
