@@ -9,7 +9,7 @@ summary: Nate helped develop and implement our portfolio of microfinance and ent
   current job, he was deputy director of the U.S. Agency for International Development
   Access to Rural Finance for Microenterprises project that helped 20,000 of Mexico’s
   underserved rural and urban people, particularly women, access financial services.
-image: "https://s3.amazonaws.com/dai-assets/contacts/nate-bourns.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/nate-bourns.jpg
 group: Management
 sort-order: 2
 ---

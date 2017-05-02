@@ -1,7 +1,7 @@
 ---
 title: John DeRiggi
 group: erg
-image: "https://s3.amazonaws.com/dai-assets/contacts/john.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/john.jpg
 job-title: Senior Data Architect
 email: john_deriggi@dai.com
 summary: John DeRiggi is a data architect with 10 years of experience in software

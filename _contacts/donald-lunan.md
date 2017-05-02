@@ -10,7 +10,7 @@ summary: Donald is the Regional Coordinator for the U.K. and Ireland LIFE Monito
   to provide short-term technical assistance to a range of donors in the fields of
   climate change and natural resource management in Africa and South Asia. His overseas
   experience includes work in Afghanistan, Kenya, and Tanzania.
-image: "https://s3.amazonaws.com/dai-assets/contacts/donald-lunan.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/donald-lunan.jpg
 group: Portfolio Coordinators
 sort-order: 2
 ---

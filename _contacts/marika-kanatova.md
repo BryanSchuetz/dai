@@ -2,7 +2,7 @@
 title: Marika Kanatova
 date: 2016-01-21 22:18:43.395000000 Z
 group: Business Development
-image: "https://s3.amazonaws.com/dai-assets/contacts/marika-kanatova.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/marika-kanatova.jpg
 job-title: Business Development, Frameworks New Business, Other Donors
 email: marika_kanatova@dai.com
 summary: Marika is a Director in our proposal development team and is responsible

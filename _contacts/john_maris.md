@@ -8,7 +8,7 @@ summary: John joined DAI from Relief International, where he was Senior Vice Pre
   Prior to that he worked for tech startup Aeromesh, private equity firm H.I.G. Capital,
   and in the corporate strategy department of The Walt Disney Company. John was recently
   named Chair of British Expertise International’s (BEI) Development Aid Working Group.
-image: "https://s3.amazonaws.com/dai-assets/contacts/john-maris.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/john-maris.jpg
 group: Management
 sort-order: 5
 ---

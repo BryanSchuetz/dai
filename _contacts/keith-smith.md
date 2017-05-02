@@ -7,7 +7,7 @@ summary: 'Keith is an experienced development professional who has worked over t
   past 15 years in Africa, Asia, and Europe. He has managed a range of development
   programmes focused on infrastructure, agriculture, health, reintegration of ex-combatants,
   grants management, and governance. '
-image: "https://s3.amazonaws.com/dai-assets/contacts/keith-smith.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/keith-smith.jpg
 group: Management
 sort-order: 4
 ---

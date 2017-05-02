@@ -9,7 +9,7 @@ summary: Gary leads DAI’s finance and risk and systems functions, including co
   auditing the financial aspects of complex, multimillion-pound international projects
   carried out for major donor agencies, in addition to providing quality control,
   systems and process, backstopping, and field services.
-image: "https://s3.amazonaws.com/dai-assets/contacts/gary-barker.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/gary-barker.jpg
 group: Management
 sort-order: 1
 ---

@@ -2,7 +2,7 @@
 title: Anne-Sofia Holmberg
 date: 2016-01-21 22:18:43.395000000 Z
 group: Programme Management
-image: "https://s3.amazonaws.com/dai-assets/contacts/anne-sofia-holmberg.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/anne-sofia-holmberg.jpg
 job-title: Project Management, Frameworks Operations
 email: anne-sofia_holmberg@dai.com
 summary: Anne-Sofia is a Principal Consultant in the European Commission Framework

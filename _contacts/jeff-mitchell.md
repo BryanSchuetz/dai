@@ -1,7 +1,7 @@
 ---
 title: Jeff Mitchell
 group: erg
-image: "https://s3.amazonaws.com/dai-assets/contacts/jeff.jpg"
+image: https://s3.amazonaws.com/dai-assets/contacts/jeff.jpg
 job-title: Senior Oil and Gas Advisor, Energy and Resources Group
 email: jeff_mitchell@dai.com
 summary: Jeff Mitchell has worked in the oil and gas industry for nearly 40 years.
