@@ -2,7 +2,7 @@
 title: James Green
 date: 2016-01-21 22:18:43.395000000 Z
 group: Management
-image: https://s3.amazonaws.com/dai-assets/contacts/james-green.jpg
+image: https://assetify-dai.com/contacts/james-green.jpg
 job-title: Project Management Advisor
 email: james_green@dai.com
 summary: For more than 30 years, Jim has worked widely in South Asia, Southeast Asia,

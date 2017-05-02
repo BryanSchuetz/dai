@@ -9,7 +9,7 @@ summary: A member of the project management team, Peter is responsible for plann
   programmes in Malawi, Nigeria, and Zambia. Peter has 35 years of experience of planning,
   managing, monitoring, and evaluating rural development programmes in Europe, Central
   and South Asia, the Horn of Africa, and West and Southern Africa.
-image: https://s3.amazonaws.com/dai-assets/contacts/peter-ross.jpg
+image: https://assetify-dai.com/contacts/peter-ross.jpg
 sort-order: 3
 ---
 

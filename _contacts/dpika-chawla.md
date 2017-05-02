@@ -1,7 +1,7 @@
 ---
 title: Dipika Chawla
 group: erg
-image: https://s3.amazonaws.com/dai-assets/contacts/dipika.jpg
+image: https://assetify-dai.com/contacts/dipika.jpg
 job-title: Senior Analyst, Energy and Resources Group
 email: dipika_chawla@dai.com
 summary: As part of the Energy and Resources Group, Dipika Chawla leads the communications

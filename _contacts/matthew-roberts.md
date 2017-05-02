@@ -2,7 +2,7 @@
 title: Matthew Roberts
 date: 2016-01-21 22:18:43.395000000 Z
 group: Programme Management
-image: https://s3.amazonaws.com/dai-assets/contacts/matthew-roberts.jpg
+image: https://assetify-dai.com/contacts/matthew-roberts.jpg
 job-title: Project Management
 email: matthew_roberts@dai.com
 summary: Matthew is a Principal Consultant in our Project Management Unit, with responsibility

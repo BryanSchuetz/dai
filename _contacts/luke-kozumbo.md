@@ -1,7 +1,7 @@
 ---
 title: Luke Kozumbo
 group: erg
-image: https://s3.amazonaws.com/dai-assets/contacts/luke.jpg
+image: https://assetify-dai.com/contacts/luke.jpg
 job-title: Manager, Energy and Resources Group
 email: luke_kozumbo@dai.com
 summary: Luke Kozumbo specializes in economic analysis and issues of trade and economic

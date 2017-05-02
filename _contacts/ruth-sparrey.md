@@ -7,7 +7,7 @@ summary: 'Ruth has 17 years of experience as a rural development consultant and 
   a project director on donor-funded projects in Bangladesh, Kyrgyzstan, South Sudan,
   Swaziland, and Thailand, for DFID, the European Commission, and the Capacity Building
   Trust Fund. '
-image: https://s3.amazonaws.com/dai-assets/contacts/ruth-sparrey.jpg
+image: https://assetify-dai.com/contacts/ruth-sparrey.jpg
 group: Portfolio Coordinators
 sort-order: 5
 ---

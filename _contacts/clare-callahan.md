@@ -1,7 +1,7 @@
 ---
 title: Clare Callahan
 group: erg
-image: https://s3.amazonaws.com/dai-assets/contacts/clare.jpg
+image: https://assetify-dai.com/contacts/clare.jpg
 job-title: Analyst, Energy and Resources Group
 email: clare_callahan@dai.com
 summary: Clare Callahan provides project management, financial management, business

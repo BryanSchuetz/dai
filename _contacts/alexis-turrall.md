@@ -12,7 +12,7 @@ summary: Alexis has worked in both the private and public sector as an internati
   include good governance, public sector reform, public policy, public sector management,
   livelihoods, rural development, and project management. Alexis has worked in Sub-Saharan
   Africa, Southeast and East Asia, and Eastern Europe.
-image: https://s3.amazonaws.com/dai-assets/contacts/alexis-turrall.jpg
+image: https://assetify-dai.com/contacts/alexis-turrall.jpg
 group: Business Development
 sort-order: 4
 ---

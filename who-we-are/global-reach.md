@@ -21,11 +21,11 @@ DAI has long had a project presence in the European capital and in 2016 we estab
 
 With offices in Apsley, Hertfordshire, and in London, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict.
 
-<a href="/who-we-are/global-reach/the-united-kingdom.html" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/the-united-kingdom" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 <hr>
 
 ## United States
 
 From its earliest days as a start-up in 1970, DAI has maintained a presence in or near Washington, D.C. The three founders’ office was a tiny establishment in Georgetown. Today, our office in Bethesda, Maryland, just outside Washington, is home to some 350 employees.
 
-<a href="/who-we-are/global-reach/the-united-states.html" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/the-united-states" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

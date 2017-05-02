@@ -1,7 +1,7 @@
 ---
 title: Francis DiMora
 group: erg
-image: https://s3.amazonaws.com/dai-assets/contacts/francis.jpg
+image: https://assetify-dai.com/contacts/francis.jpg
 job-title: Head of Development, Energy and Resources Group
 email: francis_dimora@dai.com
 summary: Francis DiMora leads the Energy and Resources Group’s new business, market

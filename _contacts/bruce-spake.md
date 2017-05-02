@@ -2,7 +2,7 @@
 title: Bruce Spake
 date: 2016-01-21 22:18:43.395000000 Z
 group: Business Management
-image: https://s3.amazonaws.com/dai-assets/contacts/bruce-spake.jpg
+image: https://assetify-dai.com/contacts/bruce-spake.jpg
 job-title: Regional Managing Director, MENA/Afghanistan
 email: bruce_spake@dai.com
 summary: Bruce leads the company’s development initiatives in the Middle East, North

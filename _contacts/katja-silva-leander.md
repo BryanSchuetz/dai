@@ -6,7 +6,7 @@ email: katja_silva-leander@dai.com
 summary: Katja is responsible for building DAI’s private sector development practice
   in the London office, focusing on European donors, international financial institutions,
   and private sector clients.
-image: https://s3.amazonaws.com/dai-assets/contacts/katja-silva-leander.jpg
+image: https://assetify-dai.com/contacts/katja-silva-leander.jpg
 group: Portfolio Coordinators
 sort-order: 4
 ---

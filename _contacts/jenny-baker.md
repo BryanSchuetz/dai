@@ -9,7 +9,7 @@ summary: Jenny leads the company’s development initiatives in Asia. Jenny has 
   Sector; and previously as Senior Vice President of a regional division at Chemonics
   International. Jenny’s career in international development was preceded by nine
   years of experience in domestic public policy, law, and international education.
-image: https://s3.amazonaws.com/dai-assets/contacts/jenny-baker.jpg
+image: https://assetify-dai.com/contacts/jenny-baker.jpg
 group: Business Management
 sort-order: 1
 ---

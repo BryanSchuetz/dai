@@ -1,7 +1,7 @@
 ---
 title: Warwick Strong
 group: erg
-image: https://s3.amazonaws.com/dai-assets/contacts/warwick.jpg
+image: https://assetify-dai.com/contacts/warwick.jpg
 job-title: Mining Sector Specialist, Energy and Resources Group
 email: warwick_strong@dai.com
 summary: Warwick Strong was born in Zimbabwe and spent his formative years in Southern

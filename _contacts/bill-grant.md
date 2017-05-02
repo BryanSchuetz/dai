@@ -12,7 +12,7 @@ summary: Bill focuses on bringing new models of market-led, sustainable economic
   role in the development and application of subsector and value chain approaches,
   and is currently leading numerous programs applying the Making Markets Work for
   the Poor (M4P) approach for private sector and international donors.
-image: https://s3.amazonaws.com/dai-assets/contacts/bill-grant.jpg
+image: https://assetify-dai.com/contacts/bill-grant.jpg
 sort-order: 0
 ---
 

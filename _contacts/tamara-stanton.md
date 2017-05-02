@@ -11,7 +11,7 @@ summary: Tamara heads the company’s business development efforts in Africa. Wi
   open innovation programming with a particular emphasis on new approaches to improve
   adoption and scaling. Prior to joining DAI, Tamara worked for the National Conference
   of State Legislatures.
-image: https://s3.amazonaws.com/dai-assets/contacts/tamara-stanton.jpg
+image: https://assetify-dai.com/contacts/tamara-stanton.jpg
 group: Business Management
 sort-order: 0
 ---
