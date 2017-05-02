@@ -2,7 +2,7 @@
 title: Blank
 published: false
 group: 
-image: "/assets/images/contacts/.jpg"
+image: "/uploads/.jpg"
 job-title: 
 email: 
 summary: 

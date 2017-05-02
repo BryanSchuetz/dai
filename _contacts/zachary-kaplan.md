@@ -1,7 +1,7 @@
 ---
 title: Zachary Kaplan
 group: erg
-image: "/assets/images/contacts/zach.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/zach.jpg"
 job-title: Director, Energy and Resources Group
 email: zachary_kaplan@dai.com
 summary: Zachary Kaplan leads DAI Energy and Resources Group, a specialized business

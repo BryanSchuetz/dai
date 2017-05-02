@@ -1,7 +1,7 @@
 ---
 title: Dorival Bettencourt
 group: erg
-image: "/assets/images/contacts/dorival.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/dorival.jpg"
 job-title: Senior Oil and Gas Advisor, Energy and Resources Group
 email: dorival_bettencourt@dai.com
 summary: Dorival Bettencourt is a private sector development specialist with extensive

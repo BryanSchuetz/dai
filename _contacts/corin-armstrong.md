@@ -2,7 +2,7 @@
 title: Corin Armstrong
 date: 2016-01-21 22:18:43.395000000 Z
 group: Business Development
-image: "/assets/images/contacts/corin-armstrong.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/corin-armstrong.jpg"
 job-title: Lead Development
 email: corin_armstrong@dai.com
 summary: Corin is a member of our business development team. He has substantial experience

@@ -12,7 +12,7 @@ summary: John, a Principal Consultant in our land team, has 14 years of internat
   Development, the European Commission, the Pan American Health Organization, the
   Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food
   and Rural Affairs, and various nonprofits.
-image: "/assets/images/contacts/john-leckie.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/john-leckie.jpg"
 sort-order: 1
 ---
 

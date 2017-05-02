@@ -11,7 +11,7 @@ summary: Lisa Ruch has 13 years of experience developing proposals for U.S. Agen
   Haiti, Eastern Europe, and Washington-based programs. Lisa has a bachelor's degree
   in international relations from American University and a master's degree in international
   studies from Johns Hopkins School of Advanced International Studies.
-image: "/assets/images/contacts/lisa-ruch.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/lisa-ruch.jpg"
 sort-order: 7
 ---
 

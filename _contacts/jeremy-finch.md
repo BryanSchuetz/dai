@@ -10,7 +10,7 @@ summary: "Jeremy heads up both the Internal Audit and the ethics and compliance 
   auditing a number of pan-European businesses across the leisure sector, he has run
   an internal audit function for three medium-sized private-equity backed leisure
   operators. \n"
-image: "/assets/images/contacts/finch.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/finch.jpg"
 group: Management
 sort-order: 6
 ---

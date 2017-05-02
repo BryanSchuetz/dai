@@ -2,7 +2,7 @@
 title: Cathy Shaw
 date: 2016-01-21 22:18:43.395000000 Z
 group: Programme Management
-image: "/assets/images/contacts/cathy-shaw.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/cathy-shaw.jpg"
 job-title: Project Management
 email: cathy_shaw@dai.com
 summary: Cathy has been with the company since 2001 and in that time has worked as

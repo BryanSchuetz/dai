@@ -11,7 +11,7 @@ summary: Polly is responsible for business development and competitive tendering
   in Tanzania, working mainly on livelihoods and natural resource management programmes.
   She has maintained this technical focus since joining DAI in 2000, providing support
   to a variety of programmes, including the Evidence on Demand service.
-image: "/assets/images/contacts/polly-gillingham.jpg"
+image: "https://s3.amazonaws.com/dai-assets/contacts/polly-gillingham.jpg"
 group: Management
 sort-order: 1
 ---
