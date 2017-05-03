@@ -7,7 +7,7 @@ summary: Donal Cotter has more than more than 23 years of experience in the fiel
   development. He has held management roles on five major donor-funded economic growth
   initiatives in transitioning economies.
 job-title: Chief of Party, Pakistan Regional Economic Integration Activity
-image: "/assets/images/experts/Donal%20Inner.jpg"
+image: "https://assetify-dai.com/experts/Donal%20Inner.jpg"
 solutions:
 - Economic Growth
 regions:

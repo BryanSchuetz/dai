@@ -8,7 +8,7 @@ summary: 'Francis DiMora leads the Energy and Resources Group''s new business, m
 
 '
 job-title: Head of Development, Energy and Resources Group
-image: "/assets/images/experts/francis.jpg"
+image: "https://assetify-dai.com/experts/francis.jpg"
 solutions:
 - Fragile States
 - Security and Justice

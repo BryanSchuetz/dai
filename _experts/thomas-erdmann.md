@@ -7,7 +7,7 @@ regions:
 solutions:
 - Environment and Energy
 layout: expert
-image: "/assets/images/experts/ErdmannInner.jpg"
+image: "https://assetify-dai.com/experts/ErdmannInner.jpg"
 summary: Thomas Erdmann specializes in natural resources management. A trained forester,
   he offers expertise in community forestry, agroforesty, ecoregional or landscape-scale
   conservation and development, conservation forestry, and land use planning.

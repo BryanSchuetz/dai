@@ -11,7 +11,7 @@ solutions:
 - Fragile States
 - Countering Extremism
 layout: expert
-image: "/assets/images/experts/Lawrence_Inner.jpg"
+image: "https://assetify-dai.com/experts/Lawrence_Inner.jpg"
 summary: Since 1996, Rebecca Lawrence has planned and implemented more than a dozen
   large-scale development programs, and contributed to the design or management of
   at least 20 others.

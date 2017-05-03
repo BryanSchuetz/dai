@@ -6,7 +6,7 @@ summary: John Leckie has 17 years of international project experience in the lan
   natural resources, and environment sectors in Europe, Africa, Central and Southeast
   Asia, and South America.
 job-title: Knowledge Management, Land
-image: "/assets/images/experts/jLeckie-INNER.jpg"
+image: "https://assetify-dai.com/experts/jLeckie-INNER.jpg"
 solutions:
 - Environment and Energy
 - Land Tenure and Property Rights

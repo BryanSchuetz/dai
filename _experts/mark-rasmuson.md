@@ -9,7 +9,7 @@ summary: Mark Rasmuson currently serves as Senior Technical and Management Advis
   (PDSP). Previously, he was Vice President and Director of the Center for Global
   Health Communication and Marketing at FHI 360 and AED.
 job-title: Senior Technical and Management Advisor, Preparedness and Response
-image: "/assets/images/experts/Mark-Rasmuson-inner-new.jpg"
+image: "https://assetify-dai.com/experts/Mark-Rasmuson-inner-new.jpg"
 solutions:
 - Governance
 - Health

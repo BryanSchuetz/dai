@@ -7,7 +7,7 @@ summary: Specializing in public finance, Eunice Heredia-Ortiz has helped governm
   for more efficient and accountable use of public resources, better public service
   delivery, and improved living standards.
 job-title: Chief of Party, Guatemala Fiscal and Procurement Reform Project
-image: "/assets/images/experts/innereunice_0.jpg"
+image: "https://assetify-dai.com/experts/innereunice_0.jpg"
 solutions:
 - Governance
 - Economic Growth

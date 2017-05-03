@@ -8,7 +8,7 @@ regions:
 solutions:
 - Governance
 layout: expert
-image: "/assets/images/experts/Weeks_Inner-1.jpg"
+image: "https://assetify-dai.com/experts/Weeks_Inner-1.jpg"
 summary: Willet Weeks has four decades of experience in Africa, mostly in conflict
   and postconflict zones. He is especially knowledgeable about the cultures and the
   political and social dynamics of the Great Lakes region.

@@ -6,7 +6,7 @@ summary: Matthew Roberts is Monitoring and Evaluation Manager on DAI’s Land In
   for Transformation programme (LIFT), a six-year project to improve the incomes of
   the rural poor in Ethiopia.
 job-title: Monitoring and Evaluation Manager, LIFT Programme, Ethiopia
-image: "/assets/images/experts/Matt%20Roberts%20INNER.jpg"
+image: "https://assetify-dai.com/experts/Matt%20Roberts%20INNER.jpg"
 solutions:
 - Business Environment Reform
 - Economic Growth

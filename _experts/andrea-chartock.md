@@ -5,7 +5,7 @@ lastname: Chartock
 summary: 'Andrea Chartock’s work focuses on promoting economic growth and designing
   and managing monitoring and evaluation of projects. '
 job-title: Senior Development Specialist
-image: "/assets/images/experts/Chartock_Inner.jpg"
+image: "https://assetify-dai.com/experts/Chartock_Inner.jpg"
 solutions:
 - Economic Growth
 regions:

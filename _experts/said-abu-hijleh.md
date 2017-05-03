@@ -9,7 +9,7 @@ summary: 'Said Abu Hijleh has nearly 20 years of experience in the Middle East w
 
 '
 job-title: Managing Director, DAI Palestine
-image: "/assets/images/experts/said.jpg"
+image: "https://assetify-dai.com/experts/said.jpg"
 regions:
 - Middle East and North Africa
 layout: expert

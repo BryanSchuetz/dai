@@ -11,7 +11,7 @@ solutions:
 - Health
 - Fragile States
 layout: expert
-image: "/assets/images/experts/SambeInner_0.jpg"
+image: "https://assetify-dai.com/experts/SambeInner_0.jpg"
 summary: 'Dr. Sambe Duale serves as a Senior One Health Technical Advisor for the
   Preparedness and Response Project, a component of the U.S. Agency for International
   Development (USAID) Emerging Pandemic Threats 2 Program. He joined the RESPOND Project

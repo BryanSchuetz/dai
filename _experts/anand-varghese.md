@@ -5,7 +5,7 @@ lastname: Varghese
 summary: Anand Varghese helps DAI's projects integrate ICT into their activities and
   build partnerships with local technology companies.
 job-title: Senior ICT Specialist
-image: "/assets/images/experts/anand%20inner.jpg"
+image: "https://assetify-dai.com/experts/anand%20inner.jpg"
 solutions:
 - Governance
 - Digital

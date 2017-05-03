@@ -14,7 +14,7 @@ solutions:
 - Public Financial Management
 - Governance
 layout: expert
-image: "/assets/images/experts/Dimitroff%2C%20Peter%20inner.jpg"
+image: "https://assetify-dai.com/experts/Dimitroff%2C%20Peter%20inner.jpg"
 summary: 'Peter Dimitroff holds more than 20 years of international development and
   project management experience, primarily in the Middle East and Afghanistan and
   focusing on anti-corruption, budget transparency, legislative strengthening, and

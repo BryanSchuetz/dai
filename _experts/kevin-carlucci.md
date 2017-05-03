@@ -7,7 +7,7 @@ summary: Kevin Carlucci focuses on resource use efficiency (water, energy) and g
   such as payments for ecosystem services, and in working to demystify how to access
   climate adaptation funding.
 job-title: Senior Global Practice Specialist, Environment
-image: "/assets/images/experts/Kevin%20inner.jpg"
+image: "https://assetify-dai.com/experts/Kevin%20inner.jpg"
 solutions:
 - Clean Energy and Energy Efficiency
 - Climate Change Adaptation and Mitigation

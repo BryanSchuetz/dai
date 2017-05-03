@@ -6,7 +6,7 @@ summary: While on a Fulbright scholarship more than 10 years ago, Zaki Raheem fi
   became interested in microenterprise development while being the only male working
   with a women's microfinance program in rural Philippines.
 job-title: Global Practice Specialist, Private Sector Development
-image: "/assets/images/experts/RaheemInner.jpg"
+image: "https://assetify-dai.com/experts/RaheemInner.jpg"
 solutions:
 - Economic Growth
 regions:

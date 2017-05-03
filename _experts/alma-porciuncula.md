@@ -8,12 +8,12 @@ solutions:
 - Environment and Energy
 - Natural Resource Management
 layout: expert
-image: "/assets/images/experts/Alma_Inner.jpg"
+image: "https://assetify-dai.com/experts/Alma_Inner.jpg"
 summary: Alma Porciuncula has been leading DAI's work in the Philippines on innovative
   financing for water supply and sanitation projects, policy, and regulatory and utility
   reform since 1994.
 job-title: Water Finance and Infrastructure PPP Specialist
-articles: 
+articles:  
 ---
 
 Alma Porciuncula has been leading DAI's work in the Philippines on innovative financing for water supply and sanitation projects, policy, and regulatory and utility reform since 1994. Under her stewardship, a U.S. Agency for International Development (USAID) technical support program helped establish the Philippine Water Revolving Fund. She has had the privilege of steering the development of the fund from conceptualization and feasibility assessment through design and implementation. The fund, a credit financing facility that leverages public with private commercial bank funds, thereby augmenting scarce public resources, has changed the water funding paradigm by bringing in sustainable, market-based financing.

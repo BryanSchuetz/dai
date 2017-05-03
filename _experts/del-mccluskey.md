@@ -8,7 +8,7 @@ summary: Del McCluskey was introduced to international development in 1963 when 
   production and food security, instilled in Del a passion to make a difference in
   the world.
 job-title: Global Practice Lead, Environment, Climate Change & Urban Services
-image: "/assets/images/experts/Del_Inner.jpg"
+image: "https://assetify-dai.com/experts/Del_Inner.jpg"
 solutions:
 - Environment and Energy
 regions:

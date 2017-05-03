@@ -16,7 +16,7 @@ solutions:
 - Natural Resource Management
 - Water and Sanitation Services and Management
 layout: expert
-image: "/assets/images/experts/John%20Costenbader%20Inner.jpg"
+image: "https://assetify-dai.com/experts/John%20Costenbader%20Inner.jpg"
 summary: Twenty years ago, John Costenbader graduated from a small New England college
   and felt a need to see how the rest of the world lived. Joining the Peace Corps,
   John served as a forestry volunteer on the edge of the Sahara Desert in Mali's remote

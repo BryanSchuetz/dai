@@ -8,7 +8,7 @@ summary: 'Joey Manfredo specializes in environment program management, communica
 
 '
 job-title: Deputy Chief of Party, Coastal Community Adaptation Project (C-CAP)
-image: "/assets/images/experts/Joey%20inner.jpg"
+image: "https://assetify-dai.com/experts/Joey%20inner.jpg"
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy

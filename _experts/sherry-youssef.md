@@ -8,7 +8,7 @@ summary: Sherry has worked in international development for more than 20 years. 
   programming as well as innovations in information and communications technology
   (ICT) and social media.
 job-title: Global Practice Specialist, Youth & Workforce
-image: "/assets/images/experts/SherryInner.jpg"
+image: "https://assetify-dai.com/experts/SherryInner.jpg"
 solutions:
 - Economic Growth
 - Gender

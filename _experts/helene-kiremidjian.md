@@ -11,7 +11,7 @@ solutions:
 - Sustainable and Accountable Health Services
 - Value Chain Development for Agribusiness and Other Sectors
 layout: expert
-image: "/assets/images/experts/Helene%20Kiremidjian_Photo_inner.jpg"
+image: "https://assetify-dai.com/experts/Helene%20Kiremidjian_Photo_inner.jpg"
 summary: Hélène Kirémidjian has 10 years of professional experience in analysis, design,
   and implementation of economic growth projects focusing on value chain development
   and business enabling environment reform.

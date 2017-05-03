@@ -8,7 +8,7 @@ regions:
 solutions:
 - Economic Growth
 layout: expert
-image: "/assets/images/experts/Oliviera_Inner_0.jpg"
+image: "https://assetify-dai.com/experts/Oliviera_Inner_0.jpg"
 summary: Melanie Beth Oliviero has for 35 years worked for human rights and human
   development. As a strategic adviser on alliances and global business solutions at
   DAI, she draws on her expertise in corporate social responsibility, global philanthropy,

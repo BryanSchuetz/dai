@@ -8,7 +8,7 @@ summary: Jeremy Kanthor's interest in governance started during a high school tr
   and police using tear gas, he was quickly ushered into the home of the leading opposition
   candidate, Abdoulaye Wade.
 job-title: 'Managing Director, Governance '
-image: "/assets/images/experts/KathorInner.jpg"
+image: "https://assetify-dai.com/experts/KathorInner.jpg"
 solutions:
 - Governance
 - Health

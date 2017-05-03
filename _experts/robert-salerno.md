@@ -12,7 +12,7 @@ solutions:
 - Health
 - Health and Livelihoods
 layout: expert
-image: "/assets/images/experts/Salerno_Inner.jpg"
+image: "https://assetify-dai.com/experts/Salerno_Inner.jpg"
 summary: Robert Salerno specializes in the intersection of health and nutrition and
   the role of livelihoods to improve health outcomes. He provides technical assistance
   and management support to DAI's health projects, focusing on household-level analysis,

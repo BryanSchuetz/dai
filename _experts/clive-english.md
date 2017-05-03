@@ -11,7 +11,7 @@ solutions:
 - Land Tenure and Property Rights
 - Natural Resource Management
 layout: expert
-image: "/assets/images/experts/CliveEnglishInner.jpg"
+image: "https://assetify-dai.com/experts/CliveEnglishInner.jpg"
 summary: Clive English is a highly experienced project manager and adviser with more
   than 35 years of project experience in Africa, the Caribbean, the Middle East, and
   South Asia.

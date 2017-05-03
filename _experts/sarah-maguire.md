@@ -7,7 +7,7 @@ summary: Sarah Maguire joined DAI's London office as a Director of Technical Ser
   in fragile and conflict-affected countries, and at the policy level with donors,
   United Nations entities, and nongovernmental organizations.
 job-title: Director, Technical Services, Governance
-image: "/assets/images/experts/SarahMaguireInner.jpg"
+image: "https://assetify-dai.com/experts/SarahMaguireInner.jpg"
 solutions:
 - Gender
 - Law and Justice

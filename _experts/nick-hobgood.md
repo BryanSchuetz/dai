@@ -11,7 +11,7 @@ solutions:
 - Environment and Energy
 - Natural Resource Management
 layout: expert
-image: "/assets/images/experts/HobgoodInner.jpg"
+image: "https://assetify-dai.com/experts/HobgoodInner.jpg"
 summary: Nick Hobgood has 22 years of experience leading complex, multi-sector development
   projects in humanitarian response, democratic initiatives, community-based natural
   resource management, agriculture, and small business development.

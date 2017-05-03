@@ -8,7 +8,7 @@ summary: 'In the tragic wake of ethnic cleansing and genocide in the Balkans and
 
 '
 job-title: Senior Principal Global Practice Specialist, Livelihoods and Resilience
-image: "/assets/images/experts/Brenda%20inner.jpg"
+image: "https://assetify-dai.com/experts/Brenda%20inner.jpg"
 solutions:
 - Agriculture and Food Security
 - Economic Growth

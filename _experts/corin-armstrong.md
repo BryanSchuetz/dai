@@ -10,7 +10,7 @@ solutions:
 - Economic Growth
 - Governance
 layout: expert
-image: "/assets/images/experts/CorinArmstrong%20INNER.jpg"
+image: "https://assetify-dai.com/experts/CorinArmstrong%20INNER.jpg"
 summary: Corin Armstrong, a member of our Business Development team, has more than
   10 years of experience supporting the design, implementation, and management of
   governance and economic development programmes.

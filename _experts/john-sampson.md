@@ -12,7 +12,7 @@ solutions:
 - Fragile States
 - Stabilization
 layout: expert
-image: "/assets/images/experts/SampsonJohn_inner.jpg"
+image: "https://assetify-dai.com/experts/SampsonJohn_inner.jpg"
 summary: 'John Sampson has 11 years of experience leading complex, high-speed programs
   in conflict, post-conflict, and fragile environments, including stability and transition,
   countering violent extremism, governance, emergency assistance, crisis management,

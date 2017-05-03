@@ -6,7 +6,7 @@ summary: 'Gregg Ravenscroft is a Principal Project Manager with more than 12 yea
   of experience negotiating the diverse challenges that come with successfully designing
   and implementing international, aid-funded, development projects in fragile states. '
 job-title: Principal Project Manager
-image: "/assets/images/experts/Greg-1%20INNER.jpg"
+image: "https://assetify-dai.com/experts/Greg-1%20INNER.jpg"
 solutions:
 - Fragile States
 - Security and Justice

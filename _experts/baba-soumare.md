@@ -9,7 +9,7 @@ summary: Dr. Baba Soumare is a veterinary epidemiologist with a Ph.D in animal h
   transboundary animal diseases and zoonoses such as Rinderpest, Peste des Petits
   Ruminants, Rift Valley fever, and Rabies.
 job-title: Africa Regional Director, Preparedness & Response
-image: "/assets/images/experts/Baba.jpg"
+image: "https://assetify-dai.com/experts/Baba.jpg"
 solutions:
 - Emerging Infectious Diseases
 - Health

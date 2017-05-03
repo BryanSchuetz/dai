@@ -7,7 +7,7 @@ summary: Max Goldensohn joined the Peace Corps after college and spent two years
   Max went to Laos as a civilian volunteer during the Vietnam War and taught future
   teachers to do community development.
 job-title: Senior Advisor for Special Projects
-image: "/assets/images/experts/Goldensohn_Inner.jpg"
+image: "https://assetify-dai.com/experts/Goldensohn_Inner.jpg"
 solutions:
 - Economic Growth
 - Fragile States

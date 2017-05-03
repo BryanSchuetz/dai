@@ -6,7 +6,7 @@ summary: Doug McLean oversees the company's international offices, ensuring effe
   coordination with DAI technical sectors and support departments. From 2005 to 2008,
   he managed what was then the Private Sector Development Practice.
 job-title: Vice President, Partnerships
-image: "/assets/images/experts/McLean_Inner.jpg"
+image: "https://assetify-dai.com/experts/McLean_Inner.jpg"
 solutions:
 - Digital
 layout: expert

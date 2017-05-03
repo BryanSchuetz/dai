@@ -12,7 +12,7 @@ solutions:
 - Digital
 - Economic Growth
 layout: expert
-image: "/assets/images/experts/KristenInner.jpg"
+image: "https://assetify-dai.com/experts/KristenInner.jpg"
 summary: Before joining DAI, Kristen Roggemann held advisory and business development
   positions within a variety of mobile-for-development and international development
   organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen,

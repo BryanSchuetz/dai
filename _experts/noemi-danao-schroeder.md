@@ -6,7 +6,7 @@ summary: Noemi Danao-Schroeder first worked internationally as a summer voluntee
   for a rural vaccination campaign in Paraguay. That experience kickstarted 25 years
   of international development work.
 job-title: Development Practitioner
-image: "/assets/images/experts/NoemiInner.jpg"
+image: "https://assetify-dai.com/experts/NoemiInner.jpg"
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy

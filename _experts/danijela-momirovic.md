@@ -13,7 +13,7 @@ solutions:
 - Digital
 - Innovation and Entrepreneurship
 layout: expert
-image: "/assets/images/experts/DanijelaMInner.jpg"
+image: "https://assetify-dai.com/experts/DanijelaMInner.jpg"
 summary: Danijela Kostic performs management, coordination, planning, and assessments
   of information and communications technology (ICT) projects, writing technical documentation,
   reviewing ICT components for DAI projects, working on proposals with ICT components,

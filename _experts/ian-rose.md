@@ -9,7 +9,7 @@ summary: 'Ian Rose, a lawyer specializing in land tenure, property rights, and a
 '
 job-title: 'Senior Principal Global Practice Specialist, Land Tenure and Property
   Rights '
-image: "/assets/images/experts/IanInner.jpg"
+image: "https://assetify-dai.com/experts/IanInner.jpg"
 solutions:
 - Environment and Energy
 - Land Tenure and Property Rights

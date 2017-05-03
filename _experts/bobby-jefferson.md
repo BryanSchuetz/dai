@@ -9,7 +9,7 @@ solutions:
 - Health
 - Innovation and Entrepreneurship
 layout: expert
-image: "/assets/images/experts/bobby%20jeffersonInner.jpg"
+image: "https://assetify-dai.com/experts/bobby%20jeffersonInner.jpg"
 summary: Bobby Jefferson, a leader in the field of information and communications
   technology for development, is working to expand DAI's range of digital health services.
 job-title: Vice President and Chief Technology Officer, DAI Global Health

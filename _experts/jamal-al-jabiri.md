@@ -7,7 +7,7 @@ regions:
 solutions:
 - Economic Growth
 layout: expert
-image: "/assets/images/experts/jamalinner.jpg"
+image: "https://assetify-dai.com/experts/jamalinner.jpg"
 summary: While working at The Housing Bank for Trade and Finance in Amman, Jordan,
   Jamal Al Jabiri progressed from clerical positions to managing a post at the bank's
   currency trading desk, then managing a small investment portfolio, and finally directing

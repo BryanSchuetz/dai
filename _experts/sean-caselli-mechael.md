@@ -5,7 +5,7 @@ lastname: Caselli-Mechael
 summary: Sean Caselli-Mechael is the New Business Manager for the Center for Secure
   and Stable States.
 job-title: New Business Manager, Center for Secure and Stable States
-image: "/assets/images/experts/seanINNER_1.jpg"
+image: "https://assetify-dai.com/experts/seanINNER_1.jpg"
 solutions:
 - Fragile States
 - Countering Extremism

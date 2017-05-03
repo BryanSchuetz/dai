@@ -10,7 +10,7 @@ solutions:
 - Health
 - Digital
 layout: expert
-image: "/assets/images/experts/Susan%20Inner.jpg"
+image: "https://assetify-dai.com/experts/Susan%20Inner.jpg"
 summary: 'Susan Scribner leads the Preparedness and Response project (P&R). P&R works
   in 16 countries in East Africa, West Africa, and Southeast Asia to support multisectoral
   collaboration through National One Health Platforms.

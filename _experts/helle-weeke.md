@@ -7,7 +7,7 @@ regions:
 solutions:
 - Governance
 layout: expert
-image: "/assets/images/experts/helle.jpg"
+image: "https://assetify-dai.com/experts/helle.jpg"
 summary: Helle Weeke specializes in trade, investment, and legal development issues.
   As Chief of Party and Senior Technical Advisor to the U.S. Agency for International
   Development (USAID)-funded Vietnam Competitiveness Initiative, she supported the

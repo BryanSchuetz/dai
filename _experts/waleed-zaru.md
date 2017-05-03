@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Zaru
 summary: 'Waleed Zaru oversees the U.S. Government Operations and Systems Team. '
 job-title: Senior Director, U.S. Government Operations and Systems Team
-image: "/assets/images/experts/Waleed_Inner.jpg"
+image: "https://assetify-dai.com/experts/Waleed_Inner.jpg"
 solutions:
 - Economic Growth
 regions:

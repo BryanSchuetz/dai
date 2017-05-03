@@ -7,7 +7,7 @@ regions:
 solutions:
 - Environment and Energy
 layout: expert
-image: "/assets/images/experts/Hollenbach_Inner.jpg"
+image: "https://assetify-dai.com/experts/Hollenbach_Inner.jpg"
 summary: Allen Hollenbach is a Senior Project Manager in the Environment and Health
   Team, Asia region. He specializes in governance and the environment, with an emphasis
   on environmental services finance and local government administration.

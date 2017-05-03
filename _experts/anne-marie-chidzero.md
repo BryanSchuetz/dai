@@ -8,7 +8,7 @@ solutions:
 - Economic Growth
 - Financial Services
 layout: expert
-image: "/assets/images/experts/chidzero_inner.jpg"
+image: "https://assetify-dai.com/experts/chidzero_inner.jpg"
 summary: |
   Anne-Marie Chidzero has more than 20 years of experience in private sector development, specifically in the financial sector, microfinance, and small and medium enterprise development throughout Africa.
 job-title: Team Leader, Mozambique Financial Sector Deepening

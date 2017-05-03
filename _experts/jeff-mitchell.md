@@ -7,7 +7,7 @@ regions:
 solutions:
 - Corporate Sustainability
 layout: expert
-image: "/assets/images/experts/expert-portrait.jpg"
+image: "https://assetify-dai.com/experts/expert-portrait.jpg"
 summary: 'Jeff Mitchell has worked in the oil and gas industry for nearly 40 years.
   His extensive experience informs DAI''s proprietary tool for economic analysis of
   local content in developing countries'' extractive industries.

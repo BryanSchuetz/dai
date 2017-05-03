@@ -10,7 +10,7 @@ solutions:
 - Institutional and Policy Reform
 - Public Financial Management
 layout: expert
-image: "/assets/images/experts/EnriqueInner.jpg"
+image: "https://assetify-dai.com/experts/EnriqueInner.jpg"
 summary: Enrique Giraldo has more than 20 years of experience in tax policy and administration,
   demonstrated management credentials in leading U.S. Agency for International Development
   (USAID) projects, and established credibility with Salvadoran counterparts.

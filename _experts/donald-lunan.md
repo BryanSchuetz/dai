@@ -5,7 +5,7 @@ lastname: Lunan
 summary: 'Donald Lunan has worked at the company since 2005 and has been instrumental
   in building its portfolio of environment and climate change work. '
 job-title: Knowledge Management, Energy and Environment
-image: "/assets/images/experts/DonaldLunanINNER.jpg"
+image: "https://assetify-dai.com/experts/DonaldLunanINNER.jpg"
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy

@@ -7,7 +7,7 @@ summary: Boaz Tumwesigye joined DAI in 2010 as a member of the project managemen
   projects in and around Nyungwe National Park, one of the region's most spectacular
   destinations.
 job-title: Regional Coordinator & Communications Lead, Preparedness & Response Project
-image: "/assets/images/experts/Boaz_Inner.jpg"
+image: "https://assetify-dai.com/experts/Boaz_Inner.jpg"
 solutions:
 - Environment and Energy
 - Health

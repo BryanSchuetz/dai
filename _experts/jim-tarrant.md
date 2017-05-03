@@ -5,7 +5,7 @@ lastname: Tarrant
 summary: "Jim Tarrant leads the Biodiversity Results and Integrated Biodiversity Gains
   Enhanced (BRIDGE) Project based in Washington, D.C. \n"
 job-title: Chief of Party, BRIDGE
-image: "/assets/images/experts/Tarrant%20inner.jpg"
+image: "https://assetify-dai.com/experts/Tarrant%20inner.jpg"
 solutions:
 - Environment and Energy
 - Natural Resource Management

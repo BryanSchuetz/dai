@@ -6,7 +6,7 @@ regions:
 solutions:
 - Environment and Energy
 layout: expert
-image: "/assets/images/experts/innerweaver.jpg"
+image: "https://assetify-dai.com/experts/innerweaver.jpg"
 summary: Walter Weaver has 18 years of experience working on diverse development projects
   worldwide. At 13, he moved to Alexandria, Egypt, where his father was working on
   a U.S. Agency for International Development (USAID) wastewater project.

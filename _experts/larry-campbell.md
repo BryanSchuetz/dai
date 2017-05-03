@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 - Digital
 layout: expert
-image: "/assets/images/experts/LarryInner2.jpg"
+image: "https://assetify-dai.com/experts/LarryInner2.jpg"
 summary: Larry Campbell, the Vice President of the Office of Information Management
   and Technology, has been at DAI for more than 16 years. He oversees the global IT
   department that supports offices in more than 50 countries.

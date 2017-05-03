@@ -7,7 +7,7 @@ regions:
 solutions:
 - Corporate Sustainability
 layout: expert
-image: "/assets/images/experts/clare.jpg"
+image: "https://assetify-dai.com/experts/clare.jpg"
 summary: 'Clare Callahan provides project management, financial management, business
   development, and technical support to the Energy and Resources Group.
 

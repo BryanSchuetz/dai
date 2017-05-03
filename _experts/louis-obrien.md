@@ -6,7 +6,7 @@ summary: Louis O’Brien is a senior water supply, sanitation, and hygiene (WASH
   who has more than 25 years of experience designing, managing, and providing technical
   direction to development programs in Asia, Africa and the Middle East.
 job-title: Chief of Party, USAID/Indonesia IUWASH PLUS
-image: "/assets/images/experts/O%27Brien_Inner.jpg"
+image: "https://assetify-dai.com/experts/O%27Brien_Inner.jpg"
 solutions:
 - Environment and Energy
 layout: expert

@@ -6,7 +6,7 @@ summary: Jeremy Keeton specializes in biodiversity conservation and climate chan
   with an emphasis on environmental governance, climate change adaptation, and anti-wildlife
   trafficking.
 job-title: Global Practice Specialist, Natural Resources Management
-image: "/assets/images/experts/Keeton%20inner.jpg"
+image: "https://assetify-dai.com/experts/Keeton%20inner.jpg"
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy

@@ -7,7 +7,7 @@ summary: Daniel Martinko specializes in conducting assessments and developing st
   human and institutional capacity building, youth at risk, transparency and accountability
   of government, value chain development, and post-conflict stabilization.
 job-title: New Business Director, Asia
-image: "/assets/images/experts/MartinkoInner.jpg"
+image: "https://assetify-dai.com/experts/MartinkoInner.jpg"
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

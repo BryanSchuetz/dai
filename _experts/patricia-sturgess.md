@@ -6,7 +6,7 @@ summary: Patricia Sturgess has a unique background that combines more than 13 ye
   of experience in the private, public and voluntary sectors, with expertise in livelihoods,
   aid management, international relations and security, and political analysis.
 job-title: Principal Consultant, Governance
-image: "/assets/images/experts/Sturgess%20INNER.jpg"
+image: "https://assetify-dai.com/experts/Sturgess%20INNER.jpg"
 solutions:
 - Economic Growth
 - Sustainable Livelihoods
