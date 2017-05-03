@@ -34,4 +34,4 @@ In the peace following three decades of civil war, Angola faced the formidable c
 * Developed and installed a medium-term fiscal framework, which was key to the development of the country's economic goals and economic stability.
 * Achieved fiscal reporting of a quality acceptable to international financial institutions, especially the International Monetary Fund.
 
-[1]: /assets/images/projects/angolaFRP.jpg
+[1]: https://assetify-dai.com/projects/angolaFRP.jpg

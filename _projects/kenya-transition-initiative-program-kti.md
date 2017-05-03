@@ -40,4 +40,4 @@ Adopted in the wake of flawed national elections and resulting interethnic viole
 * Through support to the Civic Societies Organization Network, set up a savings cooperative society, which trained young moto drivers on the importance of savings and pooling resources; and empowered the Kisumu Joint Bunge, an informal community parliament, to establish youth forums for information exchange and dialogue.
 * Awarded grants to help the Government of Kenya provide live television and radio broadcasts of Parliament to increase transparency.
 
-[1]: /assets/images/projects/KTI.jpg
+[1]: https://assetify-dai.com/projects/KTI.jpg

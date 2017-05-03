@@ -35,4 +35,4 @@ Under apartheid, most South Africans were restricted from traveling freely, owni
 * More than 30,500 jobs created in the first six years.
 * Assisted 1,600 enterprises to obtain new business.
 
-[1]: /assets/images/projects/joburgone.jpg
+[1]: https://assetify-dai.com/projects/joburgone.jpg

@@ -36,4 +36,4 @@ The political and socioeconomic model of apartheid South Africa constrained the 
 * Trained and provided capacity building to 100 business service providers countrywide.
 * The first phase of SAIBL, which ran from 1998 to 2008, fostered $380 million in transactions and SAIBL clients created 8,000 jobs. As a result of the success of the project, two extensions were granted, and the project ended in March 2012.
 
-[1]: /assets/images/projects/saiblinner.jpg
+[1]: https://assetify-dai.com/projects/saiblinner.jpg

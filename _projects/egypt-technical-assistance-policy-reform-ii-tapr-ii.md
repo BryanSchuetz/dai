@@ -34,4 +34,4 @@ TAPR II's objective was to provide a comprehensive and integrated source of tech
 * Created the Smart Service Business Center to improve the service provided by governorates to business, reducing the regulatory burden and red tape that licensing and compliance represent.
 * Collaborated with The Egyptian Research Forum, the Industrial Modernization Center, and the Egyptian National Competitiveness Council to produce the third Egyptian Competitiveness Report for 2005–2006, in advance of the World Economic Forum on the Middle East in Sharm El-Sheikh in May 2006.
 
-[1]: /assets/images/projects/TAPRII.jpg
+[1]: https://assetify-dai.com/projects/TAPRII.jpg

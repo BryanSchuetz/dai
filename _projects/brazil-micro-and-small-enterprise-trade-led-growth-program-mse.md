@@ -36,4 +36,4 @@ Micro and small enterprises (MSEs) make important contributions to the Brazilian
 * Bahian swimwear exports increased 125 percent.
 * Set up contracts to sell 100 percent of acai fruit cooperative's production in 2006; negotiated new orders for five other kinds of fruit pulps, and helped get Naked Juice to contribute funds to improve a local elementary school.
 
-[1]: /assets/images/projects/Swimwear.jpg
+[1]: https://assetify-dai.com/projects/Swimwear.jpg

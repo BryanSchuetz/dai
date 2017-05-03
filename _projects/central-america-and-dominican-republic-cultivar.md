@@ -31,4 +31,4 @@ Consumers increasingly look for a commitment to social and labor standards from 
 * Work primarily through community-based, multistakeholder committees to develop and implement training.
 * Engage socially responsible brands and retailers, as well as international trade unions and nongovernmental organizations, to build support for the project goals.
 
-[1]: /assets/images/projects/CULTIVAR.jpg
+[1]: https://assetify-dai.com/projects/CULTIVAR.jpg

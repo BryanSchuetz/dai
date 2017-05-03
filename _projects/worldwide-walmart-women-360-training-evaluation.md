@@ -27,4 +27,4 @@ The program was implemented in factories in India, Bangladesh, China, and Centra
 
 DAI worked in partnership with Northwestern University and Mission Measurement. The Walmart Women in Factories initiative will be rolled out to 150 factories in India, Bangladesh, China, and Central America over the next five years, having launched in Bangladesh and India in 2012.
 
-[1]: /assets/images/projects/Factory-floor.jpg
+[1]: https://assetify-dai.com/projects/Factory-floor.jpg

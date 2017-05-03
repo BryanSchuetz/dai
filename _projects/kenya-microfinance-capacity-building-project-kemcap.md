@@ -40,4 +40,4 @@ As the trade and financial hub for East Africa, Kenya has been a leader in devel
 * Brokered several loan guarantees through the U.S. Agency for International Development's Development Credit Authority, and provided technical assistance to increase the use of loan guarantees for small and medium enterprise lending, lending to woman-owned businesses, and warehouse receipt lending.
 * Supported the passage of the Microfinance Act 2006, which allowed for microfinance institutions to become licensed and regulated deposit-taking institutions. DAI staff also took special care to ensure that rural and woman-owned enterprises benefit from KEMCAP's work.
 
-[1]: /assets/images/projects/KenyaKEMCAP.jpg
+[1]: https://assetify-dai.com/projects/KenyaKEMCAP.jpg

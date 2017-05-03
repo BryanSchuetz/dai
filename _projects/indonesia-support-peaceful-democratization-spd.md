@@ -41,4 +41,4 @@ Indonesia has experienced tremendous political, economic, and social change sinc
 * Formed 56 civil society organizations and train 165 people in how to manage them, 16 percent of whom were women.
 * Rehabilitated or constructed 100 community centers, 57 village offices, and 65 recreation facilities; cleaned 66.5 kilometers of irrigation canal; 52 kilometers of drainage ditch; 1,090 hectares of village land; and 4,657 hectares of agriculture land; and planted 112,380 tree seedlings.
 
-[1]: /assets/images/projects/Indonesia-ACEH.jpg
+[1]: https://assetify-dai.com/projects/Indonesia-ACEH.jpg

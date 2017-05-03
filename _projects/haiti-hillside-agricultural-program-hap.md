@@ -33,4 +33,4 @@ A shortage of land drives many farmers to till on Haiti's hillsides. But to be s
 * Implemented a strategy for strengthening farmer and private sector organizations as a key element of improving production and marketing systems.
 * Starting in 2004, the project's jobs component provided more than a million person-days of work, amounting to $3.1 million in direct labor compensation.
 
-[1]: /assets/images/projects/HAP-crated-mangos.jpg
+[1]: https://assetify-dai.com/projects/HAP-crated-mangos.jpg

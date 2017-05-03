@@ -32,4 +32,4 @@ Based in Dar es Salaam, the program will cover nine countries: Burundi, Kenya, M
 
 
 [1]: http://foodtradeesa.com/
-[2]: /assets/images/projects/FoodTradeESA.jpg
+[2]: https://assetify-dai.com/projects/FoodTradeESA.jpg

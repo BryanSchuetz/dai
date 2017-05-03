@@ -46,4 +46,4 @@ The Jordan Workforce Development Project [directly addresses ][1]this objective.
 * Developed guide for civil society grant process that will assist youth and women in the workplace.
 
 [1]: http://www.jordanwfd.org/Home-Video
-[2]: /assets/images/projects/WFD.jpg
+[2]: https://assetify-dai.com/projects/WFD.jpg

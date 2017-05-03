@@ -47,5 +47,5 @@ Farmer groups also contributed to community life, including the refurbishing of 
 ![][3]
 
 [1]: http://www.usaid.gov/news-information/frontlines/extreme-poverty/timor-leste-conocophillips-improving-incomes-rural-farmers
-[2]: /assets/images/projects/timorlestedac.gif
-[3]: /assets/images/projects/DAI-Postcard_9.12.jpg
+[2]: https://assetify-dai.com/projects/timorlestedac.gif
+[3]: https://assetify-dai.com/projects/DAI-Postcard_9.12.jpg

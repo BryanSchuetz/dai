@@ -39,5 +39,5 @@ Lebanon is saddled with a multitude of water and wastewater infrastructure inves
 * Training staffers at the water establishments to design and update five-year business plans, enabling them to adhere to national strategic guidelines, plan medium-term goals, and adopt benchmarking processes to monitor and evaluate performance.
 * Promoting water conservation in schools and in rural regions, covering a population of 150,000.
 
-[1]: /assets/images/projects/lebanonwater.jpg
+[1]: https://assetify-dai.com/projects/lebanonwater.jpg
 [2]: http://www.usaid.gov/results-data/success-stories/drinkable-water-increases-lebanon-city

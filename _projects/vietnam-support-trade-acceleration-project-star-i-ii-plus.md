@@ -38,4 +38,4 @@ In December 2001, the governments of the United States and Vietnam signed a hist
 * Supported development of laws and rules governing the financial sector, including banking laws, securities laws, and securities regulations.
 * Supported creation of an early warning system at the State Bank.
 
-[1]: /assets/images/projects/STAR.jpg
+[1]: https://assetify-dai.com/projects/STAR.jpg

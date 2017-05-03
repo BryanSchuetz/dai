@@ -25,7 +25,7 @@ In 2011, the European Union and the Government of Liberia concluded a Voluntary 
 
 The VPA also commits Liberia to reform its governance to secure the long-term sustainability of Liberia’s forest sector while contributing to national economic development. The U.K. Department for International Development (DFID) and the European Union established the VPA Support Unit to provide Liberia with technical assistance and guidance to meet its VPA obligations. DAI manages the Support Unit, building the capacity of key government counterparts such as the Liberian Forestry Development Authority and Ministry of Justice, as well as private sector and civil society partners to effectively implement VPA regulations and sustainably manage Liberia’s forestry resources.
 
-![](/assets/images/projects/LiberiaHTSPE.jpg)
+![](https://assetify-dai.com/projects/LiberiaHTSPE.jpg)
 
 ### Sample Activities
 

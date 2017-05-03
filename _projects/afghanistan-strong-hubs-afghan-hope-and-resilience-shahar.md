@@ -41,4 +41,4 @@ Afghanistan's municipal governments are not performing at the level they must to
 * Instituted Integrated Financial Management Systems in 13 municipalities.
 * Established Municipal Advisory Boards of citizens in 19 of 20 partner municipalities.         
 
-[1]: /assets/images/projects/SHAHAR.jpg
+[1]: https://assetify-dai.com/projects/SHAHAR.jpg

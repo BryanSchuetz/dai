@@ -29,4 +29,4 @@ The 15-country Southern African Development Community (SADC) region—including 
 * Build private sector capacity to comply with regional and international market standards, including agricultural standards.
 * Increase use and availability of financial services for trade and investment, and of trade-related information and communication technology products.
 
-[1]: /assets/images/projects/SATH.jpg
+[1]: https://assetify-dai.com/projects/SATH.jpg

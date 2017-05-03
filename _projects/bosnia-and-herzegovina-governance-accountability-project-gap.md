@@ -38,4 +38,4 @@ Sample Activities
 * Thirty-five partner municipalities had access to integrated accounting and budgeting software for the 2008 budget cycle. In addition, 10 nonpartner municipalities received upgrades of their financial management software at no cost to the clients pursuant to an agreement with the software provider.
 * The policy framework for municipalities was improved to allow for substantially increased local autonomy in decision making and finances. Starting in 2006, all municipalities benefited from predictable, growing revenue in accordance with objective, needs-based formulae.
 
-[1]: /assets/images/projects/Bosnia.jpg
+[1]: https://assetify-dai.com/projects/Bosnia.jpg

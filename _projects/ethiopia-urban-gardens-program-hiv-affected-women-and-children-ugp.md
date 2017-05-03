@@ -37,4 +37,4 @@ With a population vulnerable to HIV/AIDS and poverty, Ethiopia needs innovative 
 * More than 110,000 women, orphans, and vulnerable children have benefited through access to healthy food, new economic opportunities, stronger support networks, and secure access to land and water.
 * More than 50 local partners continue working with the program to provide technical assistance to the urban gardeners to ensure effective and efficient growing, storing, and marketing of vegetables.
 
-[1]: /assets/images/projects/ugpinner.jpg
+[1]: https://assetify-dai.com/projects/ugpinner.jpg

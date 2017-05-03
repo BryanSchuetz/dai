@@ -37,4 +37,4 @@ With its return to democracy, Nigerian authorities have taken major steps to cre
 * Supported the federal government's adoption of an overseas development assistance policy, including a study tour to neighboring Ghana to spotlight that country's successes.
 * Sponsored stakeholder workshops, legislative reviews, and training for the National Assembly.
 
-[1]: /assets/images/projects/NigeriaREFORMS.jpg
+[1]: https://assetify-dai.com/projects/NigeriaREFORMS.jpg

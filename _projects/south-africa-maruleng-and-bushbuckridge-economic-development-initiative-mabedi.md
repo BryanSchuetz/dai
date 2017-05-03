@@ -40,4 +40,4 @@ This project in South Africa worked to reduce poverty through increased local in
 * Created 5,000 employment opportunities.
 * Produced three document sets that capture the Community Private Partnerships (CPP) principles.
 
-[1]: /assets/images/projects/MABEDI.jpg
+[1]: https://assetify-dai.com/projects/MABEDI.jpg

@@ -37,4 +37,4 @@ Azerbaijan faces serious challenges to its democratic development. Democratic in
 * PPA published and distributed to the Milli Majlis the manuals developed by the program to assist parliamentary staff and members of parliament in conducting constructive parliamentary committee hearings with full public engagement.
 * Working through the Parliamentary Journalists Association, PPA completed focus groups for new members of parliament, as well as nongovernmental organizations and parliamentary journalists.
 
-[1]: /assets/images/projects/APPA.jpg
+[1]: https://assetify-dai.com/projects/APPA.jpg

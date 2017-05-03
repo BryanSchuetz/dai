@@ -41,4 +41,4 @@ Significant achievements have been made in the past decade in revitalizing the U
 * Identified principles based on international benchmarks of good licensing practice, explaining what the lessons from other countries might mean for Uganda.
 * Implemented the reformed licensing system through public awareness programs for entrepreneurs and training activities for central and local government officials.
 
-[1]: /assets/images/projects/UgandaDeregulation_0.jpg
+[1]: https://assetify-dai.com/projects/UgandaDeregulation_0.jpg

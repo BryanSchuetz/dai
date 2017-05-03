@@ -32,5 +32,5 @@ APIK will support the Government of Indonesia to improve climate and disaster re
 * Tailor climate information tools and services for those on the frontlines of climate adaptation and disaster response, including through the application of open-source, user-centric monitoring technologies introduced by the [DAI Maker Lab.][2]
 * [Target support](http://apikindonesia.or.id/en/success-story/when-women-are-in-charge-building-more-resilient-communities-two-steps-at-a-time) to those most susceptible, such as urban slum inhabitants living at the rising water's edge.
 
-[1]: /assets/images/projects/Indonesia-APIK-webpage.jpg
+[1]: https://assetify-dai.com/projects/Indonesia-APIK-webpage.jpg
 [2]: /our-work/solutions/dai-maker-lab

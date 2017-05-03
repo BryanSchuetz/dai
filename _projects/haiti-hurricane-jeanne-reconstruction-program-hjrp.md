@@ -35,4 +35,4 @@ The floods that ravaged Haiti in the aftermath of Hurricane Jeanne in September 
 * In the lower watershed, the project helped water user associations replace equipment and strengthen their organizational capacity to restart and fortify irrigation enterprises.
 * In the upper watershed, the project assisted farmers in stabilizing hillsides and increased productivity.
 
-[1]: /assets/images/projects/HaitiHJRP.jpg
+[1]: https://assetify-dai.com/projects/HaitiHJRP.jpg

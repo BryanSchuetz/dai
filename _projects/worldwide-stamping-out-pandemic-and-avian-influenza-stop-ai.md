@@ -39,4 +39,4 @@ Highly pathogenic avian influenza (HPAI) is economically devastating for commerc
 * Strengthened biosecurity along the poultry value chain in Vietnam.
 * Enhanced pandemic preparedness at the national and municipal levels throughout Latin America and the Caribbean.
 
-[1]: /assets/images/projects/STOPAI.jpg
+[1]: https://assetify-dai.com/projects/STOPAI.jpg

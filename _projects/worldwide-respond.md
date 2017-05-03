@@ -33,4 +33,4 @@ Diseases of serious concern are emerging from wildlife populations in regions of
 * In 2010, supported the founding of the One Health Central and East Africa network, which includes 14 academic institutions from the Democratic Republic of the Congo, Ethiopia, Kenya, Rwanda, Tanzania, and Uganda.
 * In July 2011, provided training in wildlife, livestock disease, and public health to professionals from 10 African countries, including representatives from ministries of health, agriculture, and wildlife.
 
-[1]: /assets/images/projects/respondinner.jpg
+[1]: https://assetify-dai.com/projects/respondinner.jpg

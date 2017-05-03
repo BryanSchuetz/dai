@@ -31,4 +31,4 @@ ABC Bank recently obtained a $13 million loan from the International Finance Cor
 * Assist the bank as it refines its operational policies and risk and credit policies and procedures.
 * Develop training modules for eventual handover to the bank's training department on areas such as training of trainers, on-the-job training, and classroom trainings for bank Product, Risk, and Credit staff.
 
-[1]: /assets/images/projects/bancabc_0.jpg
+[1]: https://assetify-dai.com/projects/bancabc_0.jpg

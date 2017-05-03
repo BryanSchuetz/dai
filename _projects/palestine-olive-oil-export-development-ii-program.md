@@ -41,5 +41,5 @@ Agriculture contributes 27 percent of all Palestinian private sector output, mak
 * Created branding and supporting website for the partnership ([www.daskara.com][3]).
 * Conducted market research to help bottling companies better understand the respective markets' needs, standards and preferences. Market research on the export of Palestinian olive oil in target markets were conducted to assist the bottling companies in their participation in tradeshows and trade mission.
 
-[1]: /assets/images/projects/OliveOil.jpg
+[1]: https://assetify-dai.com/projects/OliveOil.jpg
 [3]: http://www.daskara.com

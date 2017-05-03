@@ -42,5 +42,5 @@ In 2004, the eastern provinces of Afghanistan cultivated approximately one-third
 * Trained 2,500 women in livestock husbandry; 4,599 in business skills; and 3,835 in improved agricultural practices.
 * [Final Report][2]
 
-[1]: /assets/images/projects/ADPE.jpg
+[1]: https://assetify-dai.com/projects/ADPE.jpg
 [2]: http://dai.com/sites/default/files/pdfs/adpe_final_report.pdf

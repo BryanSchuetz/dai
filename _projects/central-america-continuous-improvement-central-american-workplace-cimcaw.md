@@ -35,4 +35,4 @@ In the globalizing economy, the challenge of implementing international and nati
 * Increased capacity of local partners to develop and design training curriculum and train workers and managers, specifically on labor rights and obligations; provided technical assistance to factories on labor-related matters; and improved industrial relations.
 
 [1]: http://wdi-publishing.com/DocFiles/PDF/cases/preview/WDI-1430438P.pdf
-[2]: /assets/images/projects/CIMCAW.jpg
+[2]: https://assetify-dai.com/projects/CIMCAW.jpg

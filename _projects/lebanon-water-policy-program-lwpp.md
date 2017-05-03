@@ -38,4 +38,4 @@ Under the LWPP, DAI supported the Ministry of Energy and Water and the Water Est
 * Resistance to change, especially to the introduction of new concepts and techniques, is a significant obstacle in Lebanon's water establishments. LWPP was able to overcome this resistance through continuous communication with our Lebanese partners, including training sessions and workshops showing the importance of the project's work and its direct positive impact on employees' daily operations.
 * Generated critical and previously uncollected data (financial, technical, and operational) that are now accessible to other stakeholders in the water sector.
 
-[1]: /assets/images/projects/LebanonWaterPolicy.jpg
+[1]: https://assetify-dai.com/projects/LebanonWaterPolicy.jpg

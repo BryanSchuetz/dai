@@ -36,4 +36,4 @@ In 2003, with an unemployment rate as high as 20 percent, job growth was a prima
 * Facilitated $54.1 million in foreign direct investment and generated an estimated $20 million in complementary local investment.
 * With the Office of the Prime Minister, reviewed 1,500 laws, bylaws, and business regulations and procedures to determine their relevance, necessity, and impact on business.
 
-[1]: /assets/images/projects/Croatia%2C-Zagreb-Market.jpg
+[1]: https://assetify-dai.com/projects/Croatia%2C-Zagreb-Market.jpg

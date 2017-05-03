@@ -29,4 +29,4 @@ This programme was prompted by the post-election violence of 2007–2008 in Keny
 * Develop a comprehensive suite of program management tools, including grant selection criteria, grant agreements, grant proposal templates, templates for budget and risk management models, and monitoring and evaluation tools.
 * Assess the capacity of potential grantees, and train them on the programme's vision and goals.
 
-[1]: /assets/images/projects/Kenya----Drivers-of-Accountability-Programme.jpg
+[1]: https://assetify-dai.com/projects/Kenya----Drivers-of-Accountability-Programme.jpg

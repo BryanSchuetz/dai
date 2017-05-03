@@ -41,6 +41,6 @@ We assisted the Vietnamese to provide more comprehensive care, treatment, and sp
 
 [1]: http://dai-global-developments.com/articles/energizing-the-support-network-for-people-with-disabilities-in-vietnam/
 [2]: http://www.usaid.gov/vietnam/persons-with-disabilities
-[3]: /assets/images/projects/Vietnam_DSP.jpg
+[3]: https://assetify-dai.com/projects/Vietnam_DSP.jpg
 [4]: http://dai-global-developments.com/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/
 [5]: http://www.usaid.gov/sites/default/files/documents/1861/PDSP_Project_Update-Beneficiary_Summary_September-2014-USAID.pdf

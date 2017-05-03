@@ -26,7 +26,7 @@ Enhancing the government of Liberia's ability to collect taxes from its citizens
 
 The Revenue Generation for Governance and Growth (RG3) project will support the Government of Liberia to confront the challenge of improving its tax collection system and cultivating a sense of accountability among taxpayers. DAI's approach will holistically address DRM and tax system reforms. We will pair supply-side support to key government ministries, in the form of capacity building to improve policy, efficiency, and enforcement, along with demand-side interventions that increase taxpayer morale through raising awareness of taxation responsibilities, newly simplified payment methods, and the risk of enforcement for noncompliance.
 
-![](/assets/images/projects/Liberia_RG3_image.jpg)
+![](https://assetify-dai.com/projects/Liberia_RG3_image.jpg)
 
 ### Sample Activities
 

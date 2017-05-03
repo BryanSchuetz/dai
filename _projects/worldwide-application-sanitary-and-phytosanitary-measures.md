@@ -40,4 +40,4 @@ Agricultural health and food safety are important to developing countries for ma
 * Recommended investments to meet SPS requirements.
 * In more than a dozen countries, implemented comprehensive SPS programming and training specifically to mitigate the emerging threat of avian influenza.
 
-[1]: /assets/images/projects/RAISE.jpg
+[1]: https://assetify-dai.com/projects/RAISE.jpg

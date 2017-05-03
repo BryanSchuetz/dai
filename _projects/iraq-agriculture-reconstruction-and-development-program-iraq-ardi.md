@@ -38,4 +38,4 @@ For 8,000 years, the fertile land between the Tigris and Euphrates rivers yielde
 * Improved the ability of mechanics and welders in four governorates to provide repair and maintenance services for agricultural machinery. The 216 rural mechanics and welders trained under ARDI worked in approximately 210 workshops, each of which represents a new small business opportunity in a rural village. Each workshop offered improved services to a minimum of 100 clients, for a total beneficiary population of 21,600 tractor owners.
 * Rehabilitated 68 veterinary clinics in 17 governorates, serving 135,068 livestock breeders owning 5.7 million animals. Thanks to these efforts, 967 veterinarians returned to work in fully functioning clinics. The rehabilitation projects also provided temporary employment for 4,905 workers.
 
-[1]: /assets/images/projects/IraqARDI.jpg
+[1]: https://assetify-dai.com/projects/IraqARDI.jpg

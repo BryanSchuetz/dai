@@ -44,4 +44,4 @@ In Pakistan's Federally Administered Tribal Areas (FATA), socioeconomic developm
 * Built capacity of 45 CSOs.
 * Conducted 1,200 monitoring and verification visits to projects being implemented by USAID partners.
 
-[1]: /assets/images/projects/PakistanCPB.jpg
+[1]: https://assetify-dai.com/projects/PakistanCPB.jpg

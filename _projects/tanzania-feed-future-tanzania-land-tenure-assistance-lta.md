@@ -27,7 +27,7 @@ MAST, with the modifications made by DAI, is one of a number of tools that USAID
 
 The outcome of LTA—a low-cost, participatory land registration process—will transform the way land rights are managed in Tanzania, with the potential for adaptation and use elsewhere.
 
-![](/assets/images/projects/LTA.jpg)
+![](https://assetify-dai.com/projects/LTA.jpg)
 
 ### Sample Activities
 

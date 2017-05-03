@@ -30,4 +30,4 @@ Utilizing the making markets work for the poor (M4P) approach, [FSDZ][1] works t
 * Support improvements in the regulations, standards, and norms that guide financial markets; the payment systems, credit bureaus, and other infrastructure that supports increased supply; and information services necessary to inform all stakeholders how to better improve the market system.
 
 [1]: http://fsdzambia.org/
-[2]: /assets/images/projects/FSDZ.jpg
+[2]: https://assetify-dai.com/projects/FSDZ.jpg

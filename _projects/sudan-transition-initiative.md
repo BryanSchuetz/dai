@@ -42,4 +42,4 @@ DAI managed small grant activities to strengthen Sudan's transition to democrati
 * Developed water and sanitation services in key urban centers in South Sudan through the provision of water pumps, leak detection equipment, sedimentation tanks, and water treatment chemicals, as well as through the repair of boreholes.
 * Provided opportunities for women survivors to be treated and rehabilitated; created safe spaces for women to meet and develop economic skills and self-esteem.
 
-[1]: /assets/images/projects/SudanTransition.jpg
+[1]: https://assetify-dai.com/projects/SudanTransition.jpg

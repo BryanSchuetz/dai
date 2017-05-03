@@ -36,4 +36,4 @@ The apparel industry is Lesotho's largest private sector employer with approxima
 * Workers who have access to treatment: 11,000.
 * Workers on antiretroviral drugs: 104.
 
-[1]: /assets/images/projects/Lesotho.jpg
+[1]: https://assetify-dai.com/projects/Lesotho.jpg

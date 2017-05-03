@@ -34,5 +34,5 @@ We are implementing the multi-donor Tilitonse programme with our consortium part
 * Undertake research and analysis to identify strategic opportunities for interventions and, where necessary, facilitate coalition-building, and provide small [non-standard support grants][3].
 
 [1]: http://tilitonsefund.org/
-[2]: /assets/images/projects/MalawiHTSPE.jpg
+[2]: https://assetify-dai.com/projects/MalawiHTSPE.jpg
 [3]: http://dai-global-developments.com/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held/

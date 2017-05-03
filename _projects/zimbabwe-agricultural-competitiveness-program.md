@@ -43,4 +43,4 @@ To achieve these goals within a complex and changing political landscape, DAI wo
 * Increased the profitability of 511 agricultural and food security-related firms.
 * Facilitated cascaded training in "Farming as a Family Business" for 11,274 enterprises covering all eight provinces.
 
-[1]: /assets/images/projects/LEAD_Zim_0.jpg
+[1]: https://assetify-dai.com/projects/LEAD_Zim_0.jpg

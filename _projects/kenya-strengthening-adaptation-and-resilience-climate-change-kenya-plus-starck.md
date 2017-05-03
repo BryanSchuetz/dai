@@ -38,4 +38,4 @@ StARCK+ follows on from the original StARCK programme (2011—2013), which suppo
 * Awarded FICCF grants to the UN, Kenya Association of Manufacturers, and the ClimateCare carbon offset company.
 * Facilitated innovative coordination between MFIs, climate specialists, and agricultural supply chain actors resulting in groundbreaking, systemic shifts in agriculture production. Examples include increased uptake of climate resilient crops such as sorghum and cassava, diversified income generation such as utilizing indigenous chicken, and production improvements in dairy and crops that reduce net emissions whilst increasing productivity.
 
-[1]: /assets/images/projects/Kenya-StARCK%2B.jpg
+[1]: https://assetify-dai.com/projects/Kenya-StARCK%2B.jpg

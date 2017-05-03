@@ -39,4 +39,4 @@ Since 1979, chronic instability has plagued Liberia. Peace was restored in late 
 * Mobilized Liberian, West African, European, and North American expertise to assist the government and civil society to build sustainable institutions—inside and outside of government—to consolidate Liberia's embrace of democratic governance, social reconciliation, and economic opportunities for its citizens.
 * Facilitated public debates all over the country.
 
-[1]: /assets/images/projects/LiberiaBRDG.jpg
+[1]: https://assetify-dai.com/projects/LiberiaBRDG.jpg

@@ -39,4 +39,4 @@ For more than two decades, DAI has been the U.S. Agency for International Develo
 * Under FSKG, DAI contributed to USAID's management of the microLINKS website by providing all research materials, appropriately formatted and branded, along with abstracts and searchable key words.
 * Regularly contributed speakers to the USAID Financial Services After Hours series, presenting research and innovations developed under FSKG to an audience averaging 80 people from diverse backgrounds.
 
-[1]: /assets/images/projects/AMAP-FSKG.jpg
+[1]: https://assetify-dai.com/projects/AMAP-FSKG.jpg

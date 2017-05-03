@@ -46,4 +46,4 @@ RAMP UP West takes a "learning by doing," approach by helping municipalities imp
 * Produced Service Delivery Improvement Plans that involved citizens expressing their service needs/priorities and identifying specific projects during 44 sessions at the district level (2,650 residents).  Municipalities used these plans in their budget commissions to guide preparation of their next year budgets.
 * Established multistakeholder Economic Development Steering Committees in each partner municipality to facilitate the inclusive development of Strategic Economic Development Plans.
 
-[1]: /assets/images/projects/RampUpWest_0.jpg
+[1]: https://assetify-dai.com/projects/RampUpWest_0.jpg

@@ -36,4 +36,4 @@ Many people in Mexico are too poor or geographically isolated to use traditional
 * Improve efficiency in financial mediation.
 * Promote use of technology and low-cost delivery channels where applicable.
 
-[1]: /assets/images/projects/PATMIR.jpg
+[1]: https://assetify-dai.com/projects/PATMIR.jpg

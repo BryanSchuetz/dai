@@ -37,4 +37,4 @@ For many people in developing countries, farming is the foundation on which thei
 * Implemented a recurring Horticulture Exchange Program, designed to expose Uzbek agriculture professionals to training and experience in the United States.
 * Designed, procured, and oversaw the installation of two advanced irrigation systems at Shreder branches in Tashkent and Ferghana.
 
-[1]: /assets/images/projects/aglinksinner.jpg
+[1]: https://assetify-dai.com/projects/aglinksinner.jpg

@@ -37,4 +37,4 @@ Established to assist Burundi's post-transition national government and civil so
 * About 90 percent, or 116, of the 129 communal councils participated in an interprovincial competition, in which a selection committee chose 17 projects (one per province) to receive technical and financial support.
 * Signed partnership agreements with seven national government entities designed to build their capacity.
 
-[1]: /assets/images/projects/Burundian-Woman.jpg
+[1]: https://assetify-dai.com/projects/Burundian-Woman.jpg

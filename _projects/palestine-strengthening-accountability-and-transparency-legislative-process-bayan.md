@@ -38,4 +38,4 @@ The strength of democracy in Palestine depends on the ability of its citizens an
 * Drafted a regulatory impact assessment manual in Arabic, distributed to 15 organizations and 40 individuals in the legislative community.
 * Trained 400 citizens—youth, women, members of community-based organizations, representatives of key CSOs, and newly elected members of local government councils—on advocacy, oversight, information dissemination, budget analysis, and the role of Parliament and government.
 
-[1]: /assets/images/projects/PalestineStrengthening.jpg
+[1]: https://assetify-dai.com/projects/PalestineStrengthening.jpg

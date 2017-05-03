@@ -41,7 +41,7 @@ A number of the Somali areas that enjoy relative peace and stability have establ
 
 
 [1]: http://www.youtube.com/watch?v=OMlujjHQ6pI
-[2]: /assets/images/projects/PEG.jpg
+[2]: https://assetify-dai.com/projects/PEG.jpg
 [3]: http://www.youtube.com/watch?v=oCykzBOj2xM
 [4]: http://www.guardian.co.uk/global-development/2013/apr/15/somaliland-wind-power-sector
 [5]: http://www.SomalilandInvest.net

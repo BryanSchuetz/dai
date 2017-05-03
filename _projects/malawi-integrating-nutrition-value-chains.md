@@ -26,7 +26,7 @@ The project promoted [gender-equitable](http://dai-global-developments.com/artic
 
 The project was also the U.S. Agency for International Development’s implementation vehicle to execute Feed the Future and Global Health Initiative strategies. Issues critical to the project’s success included gender, information and communication technology, HIV/AIDS, access to financial services, policy advocacy, and climate change.
 
-![](/assets/images/projects/forweb.jpg)
+![](https://assetify-dai.com/projects/forweb.jpg)
 
 ### Sample Activities
 

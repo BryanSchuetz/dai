@@ -45,4 +45,4 @@ Following a seven-year civil war, the Democratic Republic of the Congo (DRC) is 
 * Worked in collaboration with the Justice Ministry to conduct an audit of the Ministry and associated institutions, and to implement justice reform; and built the capacity of justice sector officials in four target provinces.
 * Provided technical and material assistance to the Amani Peace Process and the Independent Electoral Commission on an awareness building campaign that explained the new voter registry system to voters in Kinshasa.
 
-[1]: /assets/images/projects/BRGDRC.jpg
+[1]: https://assetify-dai.com/projects/BRGDRC.jpg

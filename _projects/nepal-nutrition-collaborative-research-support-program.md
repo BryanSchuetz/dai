@@ -31,4 +31,4 @@ Tufts University, DAI, and Right Direction Nepal are assisting a Kathmandu-based
 * Improve development of processed, fortified complementary foods.
 * Conduct market analysis of complementary foods in the Kathmandu area; the forthcoming report and recommendations will guide DAI's and Right Direction Nepal's work with the cottage industry group.
 
-[1]: /assets/images/projects/NepalNutrition-CRSP2.gif
+[1]: https://assetify-dai.com/projects/NepalNutrition-CRSP2.gif

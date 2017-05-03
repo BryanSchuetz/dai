@@ -37,4 +37,4 @@ India's small and medium-sized enterprises (SMEs) stand behind the country's eco
 * Introduced the concept of SME vendor development programs at Tier I automotive sector firms. Such programs are widespread in original equipment manufacturers, but had not been introduced farther down the value chain to SMEs.
 * Introduced customer relationship management (CRM) to ICICI Bank and SBI through development of a foundation course in CRM. SBI offered this CRM course to its own staff and marketed the course to other banks, including the Small Industries Development Bank of India.
 
-[1]: /assets/images/projects/India1.jpg
+[1]: https://assetify-dai.com/projects/India1.jpg

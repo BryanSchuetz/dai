@@ -32,4 +32,4 @@ Integrating biodiversity conservation in development initiatives such as climate
 * Package knowledge to align with demonstrated needs.
 * Collaborate with other partners, donors, nongovernmental organizations, and the private sector to improve outcomes through strategic partnerships and knowledge sharing.
 
-[1]: /assets/images/projects/BRIDGE%20New.jpg
+[1]: https://assetify-dai.com/projects/BRIDGE%20New.jpg

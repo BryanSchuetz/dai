@@ -34,4 +34,4 @@ If the project moves forward after the assessment, Zambia will be one of the fir
 * Ensure framework is created to capture information that is universally relevant but also relevant to the unique environment in Zambia.
 * Identify lines of inquiry that will guide the information gathering and analysis: network coverage; availability of usable content; information formats and standards; language; literacy; mobile phone access; access to electricity; ability to understand information; demand for market and climate information, revenue models, and cost sensitivity; technical capacity of both end-users and platform implementers; and infrastructural and technical requirements.
 
-[1]: /assets/images/projects/ZambiaIFC.jpg
+[1]: https://assetify-dai.com/projects/ZambiaIFC.jpg

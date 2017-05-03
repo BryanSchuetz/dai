@@ -37,4 +37,4 @@ The SALTO project was the central implementing mechanism for the U.S. Agency for
 * Promoted the Ecuador-United States Bilateral Free Trade Agreement (FTA) by preparing the Ecuadorian government for negotiation of the FTA, as well as trade-related reforms linked to the FTA.
 * Provided comprehensive assistance for the Superintendency of Banks and Insurance, focused on stricter regulations and tighter supervision of financial institutions to prevent reccurrence of the financial crisis that devastated the Ecuadorian economy in 1999–2000.
 
-[1]: /assets/images/projects/EcqadorSALTO.jpg
+[1]: https://assetify-dai.com/projects/EcqadorSALTO.jpg

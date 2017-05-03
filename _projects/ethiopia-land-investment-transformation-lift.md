@@ -22,7 +22,7 @@ While still one of the poorest countries in the world, Ethiopia has made many ad
 
 The objective of the Land Investment for Transformation programme (LIFT) is to improve the incomes of the rural poor and vulnerable groups in Ethiopia and enhance economic growth, through second-level land certification, and improved rural land administration. The programme team will work with the Government of Ethiopia to improve the effectiveness of the rural land sector through increased security of land rights and to enhance the productivity and incomes of the farmers, especially women and vulnerable groups.
 
-![](/assets/images/projects/Liftnew.jpg)
+![](https://assetify-dai.com/projects/Liftnew.jpg)
 
 ### Sample Activities
 

@@ -34,4 +34,4 @@ Vietnam's economy is on the right path, but numerous aspects of public administr
 
 * Assisted SAV in raising its public profile as a major oversight body in the national fight against corruption and the promotion of good governance.
 
-[1]: /assets/images/projects/VietnamAudit.jpg
+[1]: https://assetify-dai.com/projects/VietnamAudit.jpg

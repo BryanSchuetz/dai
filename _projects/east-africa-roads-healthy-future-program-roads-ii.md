@@ -36,4 +36,4 @@ The ROADS II program, a successor to the Regional Outreach for Addressing AIDS t
 * Provided business training to 520 ROADS II beneficiaries (260 GSLA members in Rwanda and 260 in Zambia).
 
 [1]: /our-work/projects/ethiopia—urban-gardens-program-hiv-affected-women-and-children-ugp
-[2]: /assets/images/projects/ZambiaROADS.jpg
+[2]: https://assetify-dai.com/projects/ZambiaROADS.jpg

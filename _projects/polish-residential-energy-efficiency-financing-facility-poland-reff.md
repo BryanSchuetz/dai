@@ -26,7 +26,7 @@ Over the course of the project, the ERBD will disperse €200 million through lo
 
 Poland REFF builds on the success of the DAI-led Polish Sustainable Energy Financing Facility (PolSEFF), which provides similar energy efficiency financing to small and medium enterprises.
 
-![](/assets/images/projects/PolReff.jpg)
+![](https://assetify-dai.com/projects/PolReff.jpg)
 
 ### Sample Activities
 

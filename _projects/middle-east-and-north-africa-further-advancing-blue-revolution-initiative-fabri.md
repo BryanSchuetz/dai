@@ -41,4 +41,4 @@ Secured partnerships with four private sector companies in the Middle East; each
 * Launched interregional partnership between the Arab Countries Water Utilities Association (ACWUA) and AfWA to reduce non-revenue water through technical and administrative audits of water utilities and development of performance improvement plans.
 * Raised profile of MENA NWC and AfWA through supporting participation in international events such as the Stockholm International Water Institute's World Water Week, International Water Association's World Water Congress and Exhibition, and regional conferences and meetings.
 
-[1]: /assets/images/projects/abriinner.jpg
+[1]: https://assetify-dai.com/projects/abriinner.jpg

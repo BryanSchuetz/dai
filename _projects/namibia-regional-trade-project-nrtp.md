@@ -36,4 +36,4 @@ NRTP's objective was to build the capacity and competitiveness of historically d
 * Project clients attended eight trade fairs during the second year, covering seven countries in the region and beyond.
 * Two companies established five fully fledged offices in five countries within the region, a direct result of the assistance given to the individual companies.
 
-[1]: /assets/images/projects/namibia_0.jpg
+[1]: https://assetify-dai.com/projects/namibia_0.jpg

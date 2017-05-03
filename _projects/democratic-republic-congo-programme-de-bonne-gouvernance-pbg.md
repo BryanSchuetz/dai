@@ -38,4 +38,4 @@ Select Results
 * Created a budget committee at the Mayor's office comprised of civil society members.
 * Established and rendered operational a taxpayers database for the City of Bukavu which currently registers more than 7,500 taxpayers.
 
-[1]: /assets/images/projects/DRC-Good-Governance-teaching.jpg
+[1]: https://assetify-dai.com/projects/DRC-Good-Governance-teaching.jpg

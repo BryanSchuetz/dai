@@ -36,4 +36,4 @@ In the early 2000s, the Russian financial sector was overregulated and served pr
 * In total, 273 representatives of 154 organizations attended training courses.
 * Through TAISP, the project awarded 10 grants totaling $1,234,200 to Russian MFIs.
 
-[1]: /assets/images/projects/RussiaRMSSP.jpg
+[1]: https://assetify-dai.com/projects/RussiaRMSSP.jpg

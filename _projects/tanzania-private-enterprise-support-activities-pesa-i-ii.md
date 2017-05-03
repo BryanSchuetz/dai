@@ -39,4 +39,4 @@ Active in six regions that account for a third of Tanzania's population, the Pri
 * Formed public-private alliances at the district level to democratize and devolve governance and resolve policy issues.
 * Promoted district-level stakeholder alliances that embraced both direct economic and crosscutting issues, such as HIV/AIDS mitigation, youth unemployment, gender imbalance, and environmental balance.
 
-[1]: /assets/images/projects/TanzaniaPESA.jpg
+[1]: https://assetify-dai.com/projects/TanzaniaPESA.jpg

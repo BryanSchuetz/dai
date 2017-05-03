@@ -43,4 +43,4 @@ Provincial Reconstruction Teams were the civilian-military teams established in 
 * Informed Iraqi minority men and women about women's legal rights through media, art, and workshops.
 * Created and broadcast short television episodes with commentary by Iraqi lawyers to inform citizens about legal, civil, and human rights, with a focus on such issues as corruption, terrorism, sectarian hatred, and free speech.
 
-[1]: /assets/images/projects/irapinner.jpg
+[1]: https://assetify-dai.com/projects/irapinner.jpg

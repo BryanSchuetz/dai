@@ -35,4 +35,4 @@ BIZPRO supported businesses in the contiguous countries of Belarus, Ukraine, and
 * In Moldova, identified business regulations that were then referred by the Moldovan government, which substantially reduced the 300 million Moldovan lei (US$24 million) that businesses were once required to dole out annually in government fees.
 * In Belarus, assisted 31 accountants to earn Certified Accounting Professional certificates by completing examinations in financial accounting, managerial accounting, and tax and law that were developed and scored by the Certified International Professional Accountant Institute based in Moscow.
 
-[1]: /assets/images/projects/BIZPRO.jpg
+[1]: https://assetify-dai.com/projects/BIZPRO.jpg

@@ -35,4 +35,4 @@ Although it is more industrialized than many countries in the Balkans and southe
 * Annual fruit and vegetable production increased an average of 25 percent and buy-off has exceeded project target indicators; products from these producers are now marketable across Europe; and 1,500 fruit and vegetable growers are now associated with 28 marketing support organizations and currently supplying all major retailers and the largest processors in Croatia.
 * Nearly 130 grants totaling $1.3 million were disbursed. All grants were cost sharing, with the recipient providing a minimum of 50 percent of the funds. Grants were used to introduce new technology to improve production and stimulate adoption of new practices to improve quality.
 
-[1]: /assets/images/projects/CroatiaACE.jpg
+[1]: https://assetify-dai.com/projects/CroatiaACE.jpg

@@ -48,4 +48,4 @@ This U.S. Agency for International Development-funded program worked to increase
 * Constructed 67 kilometers of roads in Puntland and Somaliland.
 
 
-[1]: /assets/images/projects/TISSomfish.jpg
+[1]: https://assetify-dai.com/projects/TISSomfish.jpg

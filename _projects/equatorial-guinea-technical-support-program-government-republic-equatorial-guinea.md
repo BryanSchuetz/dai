@@ -37,4 +37,4 @@ Most Equatoguineans live in poverty, lack education, and suffer from poor health
 * Implemented modular training for preschool educators.
 * Developed global technical requirements for infrastructure work to guide FDS projects.
 
-[1]: /assets/images/projects/EGTSP.jpg
+[1]: https://assetify-dai.com/projects/EGTSP.jpg

@@ -35,4 +35,4 @@ Decentralization is an important component of lasting democratic development in 
 * Established an improved regulatory environment for public communal enterprises, demonstrated by higher collection rates, improved financial management, and improved customer satisfaction.
 * Twenty-five Macedonian municipalities implemented modern urban planning systems, resulting in a demonstrable improvement in the key indicator areas (zoning, customer service and permitting, city planning).
 
-[1]: /assets/images/projects/MacedoniaMDW.jpg
+[1]: https://assetify-dai.com/projects/MacedoniaMDW.jpg

@@ -45,4 +45,4 @@ Enterprise Partners works through two major pillars:
 * Created more than 18,000 financial accounts for businesses.
 
 [1]: http://dai-global-developments.com/articles/serving-the-missing-middle-creating-access-to-finance-for-female-owned-small-businesses-in-ethiopia/
-[2]: /assets/images/projects/PEPE.jpg
+[2]: https://assetify-dai.com/projects/PEPE.jpg

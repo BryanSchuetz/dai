@@ -48,4 +48,4 @@ RAMP UP East helps municipalities implement projects through which local officia
 * Developed property register for a property tax, a linchpin of municipal financing.
 * Trained 80 municipal officials in gender sensitivity and mainstreaming, looking critically at gender and social relations, stereotypes, integration of gender analysis, and gender-responsive leadership and governance.
 
-[1]: /assets/images/projects/RAMPUP.jpg
+[1]: https://assetify-dai.com/projects/RAMPUP.jpg

@@ -37,4 +37,4 @@ DAI will work in consortium on the project under KPMG International, along with 
 * Develop innovative approaches for involving stakeholders in reform programmes.
 * Assess and strengthen monitoring and evaluation systems through capacity building.
 
-[1]: /assets/images/projects/DFID-BERF-pic.jpg
+[1]: https://assetify-dai.com/projects/DFID-BERF-pic.jpg

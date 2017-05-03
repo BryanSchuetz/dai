@@ -36,4 +36,4 @@ Established in 2000, Volksbank Leasing (VBL) quickly became one of the top playe
 * Reviewed VBL's risk management practices and scoring system and provided recommendations to senior management.
 * Provided tailored formal and on-the-job training on risk management and sales skills for SMEs.
 
-[1]: /assets/images/projects/RomaniaVolksbank.jpg
+[1]: https://assetify-dai.com/projects/RomaniaVolksbank.jpg

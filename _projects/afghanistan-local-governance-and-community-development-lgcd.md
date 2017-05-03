@@ -43,4 +43,4 @@ When this project launched in 2006, the insurgency was intensifying in Afghanist
 * Equipped 528 government offices and 202 community organizations with basic office infrastructure and supplies in 2010–2011, including schools, provincial government offices, district centers, provincial ministry departments, community centers, associations (such as youth groups), and sports teams; provided 196 institutions with information technology and internet connections in 2008–2009.
 * Launched quick-impact projects to provide tangible benefits in conflict-affected communities, completing the rehabilitation of 1,300 pieces of infrastructure, including 37 buildings, 268 kilometers of road, 436 kilometers of irrigation canals and _karezes_, and 86 boundary and protection walls; also prepared 25 hectares of sports fields and managed grants that extended 6 pipe schemes and 436 other pieces of infrastructure such as culverts and water dividers.
 
-[1]: /assets/images/projects/LGCD.jpg
+[1]: https://assetify-dai.com/projects/LGCD.jpg

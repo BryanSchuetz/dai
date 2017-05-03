@@ -42,4 +42,4 @@ Public-private partnerships leverage external funds from corporations, foundatio
 
 [1]: http://wdi-publishing.com/DocFiles/PDF/cases/preview/WDI-1430438P.pdf
 [2]: http://idea.usaid.gov/organization/gp
-[3]: /assets/images/projects/GDA_0.jpg
+[3]: https://assetify-dai.com/projects/GDA_0.jpg

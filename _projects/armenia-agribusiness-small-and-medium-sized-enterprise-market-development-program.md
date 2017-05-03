@@ -43,4 +43,4 @@ In 2000, Armenia was still shaking off the Soviet heritage of planned economy ap
 * Organized 85 domestic and international trade events.
 * Funded 132 short-term technical assistance assignments by 78 international specialists in fields as diverse as queen bee breeding and fashion design.
 
-[1]: /assets/images/projects/ArmeniaTomatoProcessing.jpg
+[1]: https://assetify-dai.com/projects/ArmeniaTomatoProcessing.jpg

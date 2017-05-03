@@ -38,4 +38,4 @@ PIMS aims to: generate net attributable income of £25.5 million for poor produc
 * Engage in detailed value chain analysis in selected sub-sectors.
 
 
-[1]: /assets/images/projects/PIMS.jpg
+[1]: https://assetify-dai.com/projects/PIMS.jpg

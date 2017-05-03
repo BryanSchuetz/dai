@@ -35,4 +35,4 @@ Through PLSP, DAI worked with national and provincial legislatures to strengthen
 * Created a Legislative Drafting Course that included civil society and academic specialists.
 * On February 8, 2007, PLSP made history in Pakistan by bringing together leaders of the National Parliament and the Provincial Assemblies in the first-ever Conference of Committee Chairs. The Conference provided an opportunity for interaction between national and provincial committee chairs and set the stage for strengthening the institution of committees, particularly in their oversight and representational roles.
 
-[1]: /assets/images/projects/PakistanPLSP.jpg
+[1]: https://assetify-dai.com/projects/PakistanPLSP.jpg

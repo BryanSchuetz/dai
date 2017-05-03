@@ -41,4 +41,4 @@ Given the competing water demands between agriculture, domestic use, and industr
 * Hosted workshops with municipal representatives and other water sector stakeholders in Jaipur, Pune, and Faridabad, as well as a national-level workshop.
 * Presented results of our analysis regarding the potential for intersectoral water use, and opportunities for improving urban water-use efficiency.
 
-[1]: /assets/images/projects/India.jpg
+[1]: https://assetify-dai.com/projects/India.jpg

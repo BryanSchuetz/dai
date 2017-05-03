@@ -39,4 +39,4 @@ Until recently, the fledgling nation of Kosovo's most pressing concern was not g
 * Prepared a Consular Duty Book for use at Kosovo's overseas posts.
 * Pioneered an economic diplomacy initiative that trained 50 economic diplomats in how to identify export opportunities and attract foreign direct investment, with $90 million in new business opportunities pending at project close-down.
 
-[1]: /assets/images/projects/KosovoMFA.jpg
+[1]: https://assetify-dai.com/projects/KosovoMFA.jpg

@@ -24,7 +24,7 @@ By [combining nutrition programming ](https://medium.com/usaid-global-waters/tac
 
 As county governments take on responsibility for investment in and oversight of service delivery to keep their constituents healthy—and their economies thriving—there is great opportunity to expand service delivery through public-private partnerships that bring new actors into the WASH sector. KIWASH will partner with water and sanitation service providers to develop bankable business plans, improve operations, and facilitate access to financing. In parallel, behavior change communication activities linked to Community-Led Total Sanitation and hygiene will stimulate demand for improved household sanitation, hygiene, and nutrition. Our target counties are Busia, Kakamega, Kisumu, Kitui, Makueni, Migori, Nairobi, Nyamira, and Siaya.
 
-![](/assets/images/projects/KIWASH.jpg)
+![](https://assetify-dai.com/projects/KIWASH.jpg)
 
 ### Select Activities
 

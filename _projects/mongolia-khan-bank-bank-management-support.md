@@ -40,4 +40,4 @@ In 1999, the state-owned Agricultural Bank of Mongolia, or AgBank (now known as 
 * By 2007, Khan Bank was the largest Mongolian bank by assets, loans, deposits and earnings. Today, the bank is one of the country's largest taxpayers.
 
 [1]: http://www.khanbank.com/mn.html
-[2]: /assets/images/projects/KhanBank_0.jpg
+[2]: https://assetify-dai.com/projects/KhanBank_0.jpg

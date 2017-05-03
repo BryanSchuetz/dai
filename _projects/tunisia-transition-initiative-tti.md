@@ -39,4 +39,4 @@ After a month of youth-led protests fueled by social and economic pressures, cor
 * Established dialogue between youth and local governments on the political process in disaffected interior communities of Tunisia.
 
 [1]: http://www.dw.de/tunisias-break-dancers-spin-away-from-extremism/a-17670737
-[2]: /assets/images/projects/Tunisia.JPG
+[2]: https://assetify-dai.com/projects/Tunisia.JPG

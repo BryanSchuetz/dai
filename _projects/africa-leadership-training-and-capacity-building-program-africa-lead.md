@@ -41,4 +41,4 @@ Africa Lead is measured by its training, institutional strengthening, and leader
 * Brokered placements for eight agribusiness specialists—from Ethiopia, Liberia, Kenya, Rwanda, Uganda, and Zambia—with Hershey Company USA, Johannesburg Stock Exchange/South Africa Futures Exchange, and Zamindara Farm Solutions, India.
 * Provided online support to the Champions for Change in Food Security Facebook pages by posting agriculture and food security related articles, video clips, and links to pertinent websites.
 
-[1]: /assets/images/projects/AfricaLEADprojectpic.jpg
+[1]: https://assetify-dai.com/projects/AfricaLEADprojectpic.jpg

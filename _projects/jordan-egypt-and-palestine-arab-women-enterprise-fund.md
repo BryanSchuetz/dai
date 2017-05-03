@@ -40,4 +40,4 @@ AWEF is the only market systems-based development programme in the region that a
 * Support introduction of fee-based, female para-veterinary services to make basic animal health care services more available locally, particularly to home-based production run by women.
 
 [1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/
-[2]: /assets/images/projects/AWEF-web-page.jpg
+[2]: https://assetify-dai.com/projects/AWEF-web-page.jpg

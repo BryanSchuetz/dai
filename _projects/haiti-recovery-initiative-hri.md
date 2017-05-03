@@ -43,4 +43,4 @@ The January 2010 earthquake shattered Haiti's teeming capital of Port-au-Prince,
 * Trained 400,000 individuals on cholera prevention and awareness.
 
 [1]: http://www.haitilibre.com/en/news-9497-haiti-humanitarian-usaid-s-office-of-transition-initiatives-ceases-its-activities.html
-[2]: /assets/images/projects/hriinner.jpg
+[2]: https://assetify-dai.com/projects/hriinner.jpg

@@ -42,4 +42,4 @@ Our program conducted eight to 10 CMO/R training events per year to foster conti
 * Semiannual training brought together select TSS graduates of country-specific training from the eight participating nations to discuss regional irregular threats, emphasizing collaborative responses to security challenges.
 * The Senior Leader Symposium brought together outstanding alumni each year to engage regional organizations and partners in collaborative efforts to address regional security challenges.
 
-[1]: /assets/images/projects/TTS.jpg
+[1]: https://assetify-dai.com/projects/TTS.jpg

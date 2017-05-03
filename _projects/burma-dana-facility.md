@@ -24,7 +24,7 @@ However, small and medium-sized enterprises (SMEs), including household business
 
 The DaNa Facility (DaNa is Burmese for "prosperity"), a program funded by the U.K. Department for International Development, seeks to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. DaNa will work across multiple levels, including with government policy makers, business sectors leaders, and individual entrepreneurs, to address five key constraints to inclusive growth: infrastructure, regulatory environment, access to finance, exports, and inclusiveness of women and minority groups.
 
-![DFID DaNa Facility in Burma](/assets/images/projects/DaNa_Image.jpg)
+![DFID DaNa Facility in Burma](https://assetify-dai.com/projects/DaNa_Image.jpg)
 
 ### Sample Activities
 

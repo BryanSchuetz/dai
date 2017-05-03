@@ -32,4 +32,4 @@ Since 2003, FANTA has been improving and strengthening nutrition and food securi
 * Assist the Ugandan Ministry of Agriculture in developing guidelines for extension agents to integrate nutrition in agriculture extension activities.
 * Apply value chain methodology to determine entry points along different commodity value chains where agriculture interventions can positively influence nutritional outcomes.
 
-[1]: /assets/images/projects/WorldwideFANTAGuatemala.gif
+[1]: https://assetify-dai.com/projects/WorldwideFANTAGuatemala.gif

@@ -39,4 +39,4 @@ Musharikat will support USAID/Afghanistan's investments in women's rights groups
 * Develop policy agenda and strategy.
 * Support gender-sensitive planning, budgeting, and monitoring.
 
-[1]: /assets/images/projects/Musharikat-web.jpg
+[1]: https://assetify-dai.com/projects/Musharikat-web.jpg

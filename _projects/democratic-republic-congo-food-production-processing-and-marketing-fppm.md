@@ -32,4 +32,4 @@ Working with producer organizations, public and private partnerships, and other 
 * Make markets more efficient.
 * Improve the capacity for smallholders and agri-businesses to respond to market opportunities.
 
-[1]: /assets/images/projects/DRC-FPPM.jpg
+[1]: https://assetify-dai.com/projects/DRC-FPPM.jpg

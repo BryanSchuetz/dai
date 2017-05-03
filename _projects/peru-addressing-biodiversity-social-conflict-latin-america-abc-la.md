@@ -43,4 +43,4 @@ ABC-LA improved the capacities of indigenous and minority communities and local 
 * Launched 16 new groups or initiatives dedicated to resolving socio-environmental conflict or the drivers of conflict in high-biodiversity areas. Key stakeholders in 10 municipalities have demonstrated capacity to contribute to local socio-environmental conflict early warning mechanisms.
 * Trained 2,006 people in natural resource management, biodiversity conservation, and socio-environmental conflict identification, prevention, and response, for a total of 25,655 person-hours training.
 
-[1]: /assets/images/projects/ABCLA%20Photo.jpg
+[1]: https://assetify-dai.com/projects/ABCLA%20Photo.jpg

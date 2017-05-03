@@ -35,4 +35,4 @@ DAI began working in August 1999 to transform the National Microfinance Bank (NM
 * Re-engineering of the bank improved management, customer service, and product offerings throughout the branch network.
 * As of 2005, the bank was providing micro, salaried worker, personal, and pension loans, deposit, remittance, and payment services to 131,000 clients through 108 branch locations countrywide.
 
-[1]: /assets/images/projects/tanz-bank-1.jpg
+[1]: https://assetify-dai.com/projects/tanz-bank-1.jpg

@@ -38,4 +38,4 @@ Local sources of instability, to name a few, include water and land rights disag
 * Build capacity at entities such as District Development Assemblies to address the sources of instability, provide services to their communities, and improve provincial-district coordination.
 * Support activities designed by district entities that mitigate local sources of instability.
 
-[1]: /assets/images/projects/sikanorth1.jpg
+[1]: https://assetify-dai.com/projects/sikanorth1.jpg

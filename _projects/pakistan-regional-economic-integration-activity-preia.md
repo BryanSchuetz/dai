@@ -30,4 +30,4 @@ Additionally, PREIA's Activity Fund will help local organizations build capaciti
 * In coordination with other U.S. Government and donor-financed efforts, support the Federal Board of Revenue (FBR) with development and implementation of its Customs Reform Roadmap.
 * Strengthen capacity of FBR/Customs and other border control agencies to implement global best practices and improve compliance.
 
-[1]: /assets/images/projects/Khussa-shop%2C-Lahore%2C-Pakistan.jpg
+[1]: https://assetify-dai.com/projects/Khussa-shop%2C-Lahore%2C-Pakistan.jpg

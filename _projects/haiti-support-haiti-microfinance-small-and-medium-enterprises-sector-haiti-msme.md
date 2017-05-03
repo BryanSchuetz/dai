@@ -39,4 +39,4 @@ Haiti MSME was launched by the U.S. Agency for International Development (USAID)
 * Nine new value chain financing solutions were launched during the contract period.
 * Points of services grew from 110 to 205, with approximately 86 percent of them of Port-au-Prince in rural area1s.
 
-[1]: /assets/images/projects/HaitiMSME.jpg
+[1]: https://assetify-dai.com/projects/HaitiMSME.jpg

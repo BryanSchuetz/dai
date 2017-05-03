@@ -41,4 +41,4 @@ Ethnic conflict, weak economies, health crises, and fragile governments dramatic
 * Increased transparency and efficiency of the East Africa regional freight forwarding and clearing system.
 * Reduced loss of government revenue, improved trade and investment competitiveness in the region; reduced the spread of HIV among transporters forced to spend idle nights at border-towns, reduced delays in the delivery of relief consignments, and reduced opportunities for smuggling of drugs and terrorist weapons.
 
-[1]: /assets/images/projects/CPMRESA.jpg
+[1]: https://assetify-dai.com/projects/CPMRESA.jpg

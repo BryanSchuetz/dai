@@ -38,5 +38,5 @@ DAI's support to CDI is helping USAID and its partners to place smarter bets in 
 
 This project builds on DAI's support to the [USAID Grand Challenges for Development][2] program (2011–2014), which attracted more than 4,000 applications from more than 100 countries and made 185 awards. Over 30 percent of Grand Challenges for Development awardees are located in developing countries. These innovators are now applying or deepening their work in areas such as improving health care for mothers and their newborns, creating energy for agriculture, increasing literacy, securing water for food, and improving governance by making all voices count.  
 
-[1]: /assets/images/projects/CDI-pic-1.jpg
+[1]: https://assetify-dai.com/projects/CDI-pic-1.jpg
 [2]: our-work/projects/worldwide-grand-challenges-development-implementation-services

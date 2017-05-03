@@ -37,4 +37,4 @@ In the early 2000s, Angola was deep in the process of rebuilding after 27 years 
 * Facilitated $800,000 of trade in inputs and technology.
 * Two of the subsectors were included in the Agricultural Development and Finance Project, a five-year follow-on project funded by Chevron and USAID.
 
-[1]: /assets/images/projects/CoffeeBeans.jpg
+[1]: https://assetify-dai.com/projects/CoffeeBeans.jpg

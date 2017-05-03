@@ -38,4 +38,4 @@ Like most countries that have achieved significant economic development, the Phi
 * Helped local government units address their waste management responsibilities under Philippine law in a way that is appropriate for their relative income.
 * Diverted 25 percent of solid waste from disposal sites (such as open and controlled dumps and sanitary landfills) through recycling and composting in 90 local government units.
 
-[1]: /assets/images/projects/PhilippinesECOGOVII.jpg
+[1]: https://assetify-dai.com/projects/PhilippinesECOGOVII.jpg

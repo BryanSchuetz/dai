@@ -39,4 +39,4 @@ The Palestine Enterprise Development project represented a critical phase of the
 * Facilitated $11.1 million in exports for assisted businesses.
 * Implemented a $3.5 million grant fund to support PED objectives.
 
-[1]: /assets/images/projects/PED.jpg
+[1]: https://assetify-dai.com/projects/PED.jpg

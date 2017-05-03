@@ -41,4 +41,4 @@ layout: project
 
 [1]: http://www.evidenceondemand.info/homepage.aspx
 [2]: http://www.facebook.com/EvidenceOnDemand
-[3]: /assets/images/projects/EoD.jpg
+[3]: https://assetify-dai.com/projects/EoD.jpg

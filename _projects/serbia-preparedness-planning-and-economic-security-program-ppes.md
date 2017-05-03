@@ -44,4 +44,4 @@ Only a half-generation removed from civil war, Serbia has also been prone to flo
 * Provided entrepreneurship education to 6,000 young people through Youth Offices and Junior Achievement activities.
 * From April to September 2010, strengthened economies of South Serbia and Sandzak by generating $1.2 million in new sales through trade fairs, helped nine companies enter new international markets, helped five companies expand into new domestic markets, and generated a 25‐to‐1 return on investment on trade fair support.
 
-[1]: /assets/images/projects/serbiainner.jpg
+[1]: https://assetify-dai.com/projects/serbiainner.jpg

@@ -39,4 +39,4 @@ As the Mexican economy has grown and evolved, issues such as regulation, credit 
 * Partnership with the National Microenterprise Finance Program designed and delivered training courses, seminars, and national conferences for 70 Mexican institutions.
 * Partnership with the Instituto Politecnico Nacional developed a university-level popular finance education and internship program for students and professors.
 
-[1]: /assets/images/projects/afirmainner.jpg
+[1]: https://assetify-dai.com/projects/afirmainner.jpg

@@ -35,4 +35,4 @@ Implemented by the DAI/Nathan Group—a joint member of DAI and Nathan Associate
 * Improve trade facilitation and customs administration to bring the Philippines in line with best international practices for customs administration, thereby facilitating competitiveness by reducing import and export transaction costs.
 * Improve logistics chain performance through diagnostics, stakeholder dialogue, implementation planning, and technical advice.
 
-[1]: /assets/images/projects/PhilippinesLINC.jpg
+[1]: https://assetify-dai.com/projects/PhilippinesLINC.jpg

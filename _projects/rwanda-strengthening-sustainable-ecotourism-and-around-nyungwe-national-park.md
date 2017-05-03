@@ -31,4 +31,4 @@ Rwanda is an emerging tourist destination. This program is helping the country r
 * Cultivate joint ventures between local communities and the private sector to increase the availability of visitor accommodations and develop new attractions.
 * Train local communities to integrate into existing and new value chains around niche products such as bird watching, chimpanzee tracking, and cultural activities.
 
-[1]: /assets/images/projects/RwandaSSENNP.jpg
+[1]: https://assetify-dai.com/projects/RwandaSSENNP.jpg

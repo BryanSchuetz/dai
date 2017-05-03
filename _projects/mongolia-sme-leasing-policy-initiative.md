@@ -35,4 +35,4 @@ Funded by the European Bank for Reconstruction and Development, the SME Leasing 
 * Build the supply of leasing by improving the operations of two leasing companies.
 * Assist in improving tax policy and revising regulations of the Mongolian Ministry of Industry's SME Development Fund, which offers subsidized loans to SMEs through commercial banks.
 
-[1]: /assets/images/projects/Mongolia-SME-Leasing-1.jpg
+[1]: https://assetify-dai.com/projects/Mongolia-SME-Leasing-1.jpg

@@ -34,4 +34,4 @@ VNCI was an [economic growth project](http://dai-global-developments.com/article
 * [Improved countrywide transparency](http://dai-global-developments.com/articles/project-helps-vietnam-cut-red-tape-hone-competitiveness-and-boost-economic-growth/) and understanding of administrative procedures.
 * Established the Administrative Procedures Control Agency under the People's Committee of Ho Chi Minh City, a system of 87 control units that has more than 500 professionals helping coordinate reforms in 24 ministries, 63 cities, and provinces nationwide.
 
-[1]: /assets/images/projects/vnci.jpg
+[1]: https://assetify-dai.com/projects/vnci.jpg

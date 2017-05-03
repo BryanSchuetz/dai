@@ -35,5 +35,5 @@ From 2010–2013, Africa Lead trained more than 1,800 food security leaders, con
 [1]: http://africaleadftf.org/
 [2]: /our-work/projects/africa-leadership-training-and-capacity-building-program-africa-lead
 [3]: http://feedthefuture.gov/article/grassroots-african-coalition-fights-inclusive-food-policies-more-action#overlay-context=
-[4]: /assets/images/projects/Africa-Lead-II-pic.gif
+[4]: https://assetify-dai.com/projects/Africa-Lead-II-pic.gif
 [5]: http://feedthefuture.gov/article/farm-or-not-farm-helping-youth-discover-opportunity-agriculture

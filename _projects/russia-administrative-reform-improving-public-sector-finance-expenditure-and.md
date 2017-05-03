@@ -38,4 +38,4 @@ The Russian government acknowledges that administrative reform, civil service re
 * Devised a system of flexible indicators to measure state performance for selected departments (internal indicators) and the delivery of state services (external indicators).
 * Developed a system of e-government, compatible with the existing Russian programme "e-Russia" and Organisation for Economic Co-operation and Development guidelines.
 
-[1]: /assets/images/projects/RussiaEC.jpg
+[1]: https://assetify-dai.com/projects/RussiaEC.jpg

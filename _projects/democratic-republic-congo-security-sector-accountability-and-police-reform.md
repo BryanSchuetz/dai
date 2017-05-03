@@ -44,4 +44,4 @@ The Democratic Republic of the Congo (DRC) has for decades been riven by war, co
 * Developed a communications strategy aimed at helping the media cover security issues more effectively, thereby better informing citizens.
 
 [1]: http://sustainablesecurity.org/2014/06/11/ssr-and-sexual-violence-in-drcongo/
-[2]: /assets/images/projects/congoinner.jpg
+[2]: https://assetify-dai.com/projects/congoinner.jpg

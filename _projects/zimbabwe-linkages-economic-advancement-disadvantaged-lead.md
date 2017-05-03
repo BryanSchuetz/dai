@@ -36,4 +36,4 @@ DAI worked to alleviate poverty for the most disadvantaged members of Zimbabwean
 * A total of 235 NGO field agents were trained and they in turn trained the targeted 2,000 contact farmers. The contact farmers managed to train an average of two members per household resulting in about 47,160 farmers being trained. An additional 90 NGO and government extension field officers were also trained to build up local knowledge on drip-irrigated intensive gardening. The LEAD team built up local expertise and technical know-how by training hundreds of NGO-based field agents, agricultural and extension services officers, and contact farmers.
 * By 2005, 12 business opportunity centers were open for business—surpassing the original target of nine.
 
-[1]: /assets/images/projects/Zimbabwe-LEAD-MVC-0285.jpg
+[1]: https://assetify-dai.com/projects/Zimbabwe-LEAD-MVC-0285.jpg

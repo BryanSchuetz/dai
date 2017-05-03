@@ -32,4 +32,4 @@ Our objectives are to improve the quality and volume of agricultural production 
 * Build linkages between producers and local supermarkets, take advantage of local trade events, and develop relationships with buyers in new markets.
 * Conduct AVC horticulture assessment and mapping with agrarian university professors and students, and develop hands-on production and post-harvest learning at universities.
 
-[1]: /assets/images/projects/Uzbek-AVC.jpeg
+[1]: https://assetify-dai.com/projects/Uzbek-AVC.jpeg

@@ -42,4 +42,4 @@ Nexos Locales will also increase the capacity of the National Association of Mun
 * Establish and implement local development plans to improve food security and economic development.
 
 [1]: http://www.nexoslocales.com/
-[2]: /assets/images/projects/Nexos.jpg
+[2]: https://assetify-dai.com/projects/Nexos.jpg

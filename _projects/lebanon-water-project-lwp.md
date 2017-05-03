@@ -32,4 +32,4 @@ LWP aims to build on the successes of the [Lebanon Waste and Wastewater Sector S
 * Develop pilot private sector partnerships that address improved service delivery, water conservation technologies, and water usage awareness.
 
 [1]: /our-work/projects/lebanon-water-and-wastewater-sector-support-lwwss
-[2]: /assets/images/projects/Lebanon-Water-Project.jpg
+[2]: https://assetify-dai.com/projects/Lebanon-Water-Project.jpg

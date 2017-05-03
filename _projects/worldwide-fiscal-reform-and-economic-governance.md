@@ -42,5 +42,5 @@ For nearly a decade, DAI worked with the U.S Agency for International Developmen
 * Modeled the impact of trade liberalization on government revenues in Vietnam.
 * Designed and set up a fiscal programming office in the Ministry of Finance of Angola.
 
-[1]: /assets/images/projects/FiscalReform.jpg
+[1]: https://assetify-dai.com/projects/FiscalReform.jpg
 [2]: http://www.fiscalreform.net

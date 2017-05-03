@@ -36,4 +36,4 @@ To this end, DAI is strengthening institutional and human capacity in targeted G
 * Received and reviewed applications from consultants and consulting firms, which will form a community of practice dedicated to fostering effective social, economic, and environmental development.
 
 
-[1]: /assets/images/projects/HICD.jpg
+[1]: https://assetify-dai.com/projects/HICD.jpg

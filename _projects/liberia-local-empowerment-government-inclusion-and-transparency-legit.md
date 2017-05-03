@@ -37,4 +37,4 @@ Liberian President Ellen Johnson Sirleaf has launched an ambitious reform agenda
 * Administer grants, training, and assistance to build government capacity and promote civic engagement.
 
 [1]: /our-work/projects/liberia-accountability-and-voice-initiative-lavi
-[2]: /assets/images/projects/LEGIT.jpg
+[2]: https://assetify-dai.com/projects/LEGIT.jpg

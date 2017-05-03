@@ -37,4 +37,4 @@ Many inhabitants of the ecological corridors and watersheds of western El Salvad
 * Signed up 365 new smaller-scale producers to implement conservation measures and clean technology while expanding production, mostly for the domestic market.
 * Promoted tourism in the project area by assisting two town festivals.
 
-[1]: /assets/images/projects/IMCCWprojectsummary.jpg
+[1]: https://assetify-dai.com/projects/IMCCWprojectsummary.jpg

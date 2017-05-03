@@ -41,4 +41,4 @@ Malawi's soils, waters, forests, wildlife, fisheries, and other natural resource
 * Developed and disseminated producer-level extension materials that focused on moving subsistence producers toward small-scale commercial businesses relying on natural products. By combining this approach with parallel efforts to mobilize a private sector extension service, as well as business service providers within one day's travel from rural producers, the project increased production volumes and quality to levels that build foundations for a sustainable industry that can compete regionally and export globally.
 * Designed a mechanism to make capital available to small-scale commercial producers and other parts of the value chains.
 
-[1]: /assets/images/projects/MalawiCOMPASSII.jpg
+[1]: https://assetify-dai.com/projects/MalawiCOMPASSII.jpg

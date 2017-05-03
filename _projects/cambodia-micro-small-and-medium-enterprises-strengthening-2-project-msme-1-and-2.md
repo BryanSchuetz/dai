@@ -42,4 +42,4 @@ Read a third-party assessment of the project [here][2].
 
 [1]: http://www.youtube.com/watch?v=gnbpvYZ7PzU
 [2]: https://www.microlinks.org/blog/did-facilitation-approach-pass-test-time-insights-%E2%80%9Cex-post%E2%80%9D-assessment-cambodia
-[3]: /assets/images/projects/CambodiaMSMEII.jpg
+[3]: https://assetify-dai.com/projects/CambodiaMSMEII.jpg

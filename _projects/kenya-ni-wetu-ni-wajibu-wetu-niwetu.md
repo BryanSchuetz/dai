@@ -31,7 +31,7 @@ In response to this growing extremist threat, the Ni Wetu Ni Wajibu Wetu (NIWETU
 
 DAI will use a tested complex adaptive systems approach to implement NIWETU, which recognizes that both drivers for violent extremism, as well as champions against it exist in a complex, ever-changing environment with multiple actors, decision makers, and influencers. By examining not only individual motivators, but also the political, social, and economic factors that can either exacerbate or mitigate violent extremism, NIWETU work to direct program interventions where they will have the most significant and lasting impact.
 
-![photograph](/assets/images/projects/Kenya_NIWETU.jpg)
+![photograph](https://assetify-dai.com/projects/Kenya_NIWETU.jpg)
 
 ## Sample Activities
 

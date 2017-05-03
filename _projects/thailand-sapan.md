@@ -39,4 +39,4 @@ Our Bangkok-based team is promoting cooperation between civil society and agenci
 * Designed and helped establish a university-based [Center for Civil Society and Nonprofit Management](http://dai-global-developments.com/articles/usaid-sapan-program-energized-thailands-civil-society/) that strengthens the skills of current and future managers and leaders of nonprofit organizations, equipping them to mobilize resources to improve local governance and encourage social justice.
 * Supported six universities in their founding of Local Stakeholder Committees, which bring together university staff with local leaders and citizens to identify and address local issues.
 
-[1]: /assets/images/projects/Sapan.jpg
+[1]: https://assetify-dai.com/projects/Sapan.jpg

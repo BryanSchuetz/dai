@@ -47,4 +47,4 @@ In the West Bank and Gaza, periods of relative political stability have witnesse
 * Gaza Back to Work supported 230 client companies that have increased their sales by $18 million.
 
 [1]: http://www.fnmd.ps/
-[2]: /assets/images/projects/fnmdinner.jpg
+[2]: https://assetify-dai.com/projects/fnmdinner.jpg

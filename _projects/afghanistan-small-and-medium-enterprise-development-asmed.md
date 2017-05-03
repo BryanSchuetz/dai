@@ -38,4 +38,4 @@ ASMED supported small and medium-sized enterprises (SMEs), the major drivers of 
 * Supported the next generation of Afghan leaders by helping 2,000 university students (approximately 25 percent of whom are women) complete a comprehensive internship program; another 500 (approximately 170 women) participated in the project's Young Professionals Mentorship Program.
 * Utilized 11 percent more local small businesses as partners than originally planned.
 
-[1]: /assets/images/projects/asmedinner.jpg
+[1]: https://assetify-dai.com/projects/asmedinner.jpg

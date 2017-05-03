@@ -30,5 +30,5 @@ Given the Government of Haiti's commitment to democratic reform and broad-based 
 * Improve legislative oversight, particularly in budget formulation and implementation, by strengthening budget processes and emphasizing the role of committees, and implementing question hour.
 * Assist legislatures with human resource improvements, information communications technology systems development and management, hardware and software improvements, archiving and legislative records management, internal budget planning and management, and review of rules and procedures.
 
-[1]: /assets/images/projects/HaitiParliament.jpg
+[1]: https://assetify-dai.com/projects/HaitiParliament.jpg
 [2]: http://www.youtube.com/watch?v=ECNdMAfUThE&feature=youtu.be

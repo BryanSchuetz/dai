@@ -32,4 +32,4 @@ In recent years, the U.S. Agency for International Development (USAID) and DAI h
 * Increase awareness of the symptoms and risk factors of H5N1-related illness so households can recognize them and respond appropriately.
 * Host face-to-face discussions with partner organizations and the Indonesian poultry industry to coordinate efforts.
 
-[1]: /assets/images/projects/IndonesiaSAFE.jpg
+[1]: https://assetify-dai.com/projects/IndonesiaSAFE.jpg

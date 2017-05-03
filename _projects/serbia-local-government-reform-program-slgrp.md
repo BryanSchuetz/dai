@@ -43,5 +43,5 @@ The fall of Milosevic opened new possibilities for a Serbia long isolated from d
 * Assisted local governments in attaining $7.3 million in additional funding from other donors, other programs, and the Serbian government.
 * Helped the municipal association increase its budget and services dramatically.
 
-[1]: /assets/images/projects/SLGP.jpg
+[1]: https://assetify-dai.com/projects/SLGP.jpg
 [2]: /news/ten-years-and-counting-serbia-local-economic-development-association-throws

@@ -39,4 +39,4 @@ The first phase (PDF1) operated from 2010 to 2015. Our approach for PDF2 will co
 * Supported restructuring of the Development Finance Institution (DFI) sector and created a "wholesale" DFI; the new entity (alongside World-Bank-supported restructuring of the existing DFIs) will bring more private sector discipline, access to funding for Nigerian enterprises, and access for smaller borrowers to formal financial services.
 * Embedded advisers who helped: deliver national policies for sugar, automotive, and solid minerals and mining; improve enabling environments via the Investment Climate Reform Programme and Nigerian Business Charter; and develop plans and delivery mechanisms, such as for the national Investment Strategy and Infrastructure Plan.
 
-[1]: /assets/images/projects/Nigeria-PDF-pumping-station.jpg
+[1]: https://assetify-dai.com/projects/Nigeria-PDF-pumping-station.jpg

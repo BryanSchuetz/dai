@@ -35,4 +35,4 @@ TRACE seeks to design, build, and implement a civil society support programme wh
 * Oversee contracting, monitoring and evaluation, coordination, and dissemination of lessons learned.
 * With partner Jimat Development Consultants of Zimbabwe, identify, contract, and manage mentors and other Zimbabwean technical experts.
 
-[1]: /assets/images/projects/Zimbabwe-TRACE-pic_1.jpg
+[1]: https://assetify-dai.com/projects/Zimbabwe-TRACE-pic_1.jpg

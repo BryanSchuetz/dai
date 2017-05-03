@@ -41,4 +41,4 @@ The marshlands of southern Iraq were once a major flyway for billions of birds, 
 * The American Anthropological Association awarded DAI's project leader Peter Reiss and his IMRP team its prestigious Lourdes Arizpe Award for their work on the project, an honor that in the association's words "combines a practical component (results) with a knowledge-based component (advancement of knowledge)."
 
 [1]: http://www.guardian.co.uk/environment/2013/apr/15/azzam-alwash-goldman-prize
-[2]: /assets/images/projects/IraqIMRP.jpg
+[2]: https://assetify-dai.com/projects/IraqIMRP.jpg

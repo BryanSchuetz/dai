@@ -39,4 +39,4 @@ ENGAGE will ultimately support at least 24 local government units (LGUs) and 48 
 * Assist LGUs to increase the locally generated revenues available for high-priority development and service needs.
 
 
-[1]: /assets/images/projects/ENGAGE.jpg
+[1]: https://assetify-dai.com/projects/ENGAGE.jpg

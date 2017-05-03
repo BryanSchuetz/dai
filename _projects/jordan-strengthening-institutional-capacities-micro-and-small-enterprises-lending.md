@@ -36,4 +36,4 @@ With the vast majority of bank lending allocated to large corporations and the p
 * Assess internal audit, compliance and control functions and make recommendations to improve effectiveness.
 * Review and redesign internal reports to help management better assess performance.
 
-[1]: /assets/images/projects/FINCA%20pic.jpg
+[1]: https://assetify-dai.com/projects/FINCA%20pic.jpg

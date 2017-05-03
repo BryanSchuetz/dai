@@ -37,4 +37,4 @@ As a tropical island nation, Madagascar has a rich and diverse foundation of pla
 * Established 10 community forest management federations slated to comanage protected areas; the 10 federations encompassed 155 associations with about 10,000 members. These associations managed 179,000 hectares of biodiversity-rich forests.
 * More than 1,100 farmer extension agents were trained during the project. At the end of project, 728 were still functional (employed by their cooperatives or associations). In addition, 161 model farmers (demonstrating improved agriculture techniques) were trained. These agents/farmers provided services to 20,000 people.
 
-[1]: /assets/images/projects/ERI.jpg
+[1]: https://assetify-dai.com/projects/ERI.jpg

@@ -44,4 +44,4 @@ Corruption is a significant obstacle to governments as they seek greater economi
 * Established Budget Analysis and Monitoring Unit in the Bangladesh Parliament.
 * Supported civil society social audit of a government program to provide food and other development assistance to the ultra poor. The audit revealed systemic corruption and mismanagement. Civil society partners have used the results to successfully advocate for programmatic improvements at the local and national levels.
 
-[1]: /assets/images/projects/PROGATIprojectphoto.jpg
+[1]: https://assetify-dai.com/projects/PROGATIprojectphoto.jpg

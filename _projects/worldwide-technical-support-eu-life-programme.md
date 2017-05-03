@@ -41,4 +41,4 @@ One of the duties of the External Assistance Team is to assist LIFE beneficiarie
 [1]: http://ec.europa.eu/environment/life/
 [2]: http://ec.europa.eu/environment/newprg/
 [3]: http://ec.europa.eu/environment/nature/natura2000/index_en.htm
-[4]: /assets/images/projects/Life.jpg
+[4]: https://assetify-dai.com/projects/Life.jpg

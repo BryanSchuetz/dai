@@ -37,4 +37,4 @@ BIZTAR supported the Government of Moldova's efforts to encourage productive inv
 * Drafted or helped draft critical laws, including a law on construction (2010); law on the Guillotine 2+ (2011), which consolidates thousands of pages of regulations affecting businesses into a single, short, clear document; law on one-stop shops (2011), which will revive the moribund one-stop shop system; and law on protecting investors (2011), which should move Moldova 10–12 ranks in next year's _Doing Business_ survey.
 * Published more than 30 studies and assessments on a wide range of business and tax-related topics, from bankruptcy in Moldova to the state of the Moldovan meat market.
 
-[1]: /assets/images/projects/BIZTAR.jpg
+[1]: https://assetify-dai.com/projects/BIZTAR.jpg

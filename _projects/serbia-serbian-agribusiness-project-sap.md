@@ -37,4 +37,4 @@ The U.S. Agency for International Development (USAID) is working to help Serbia 
 * Eight policy reforms implemented, aimed at creating an enabling environment for agribusinesses in Serbia.
 * More than 8,000 new jobs created in the agribusiness sector.
 
-[1]: /assets/images/projects/SerbiaAgribiz.jpg
+[1]: https://assetify-dai.com/projects/SerbiaAgribiz.jpg

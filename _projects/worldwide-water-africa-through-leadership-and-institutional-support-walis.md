@@ -32,4 +32,4 @@ Despite significant progress made through donor and nongovernmental organization
 * Increase the capacity of regional organizations and USAID staff required to improve the collection and use of sector knowledge.
 
 [1]: /our-work/projects/middle-east-and-north-africa-further-advancing-blue-revolution-initiative-fabri
-[2]: /assets/images/projects/WALIS.jpg
+[2]: https://assetify-dai.com/projects/WALIS.jpg

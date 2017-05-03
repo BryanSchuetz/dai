@@ -27,4 +27,4 @@ The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Local para a
 * Help translate citizen demand into concrete policy level action by supporting locally driven research and advocacy activities.
 * Develop and execute a rigorous monitoring and evaluation approach to effective program management and demonstrate value for money.
 
-[1]: /assets/images/projects/Dialogo.jpg
+[1]: https://assetify-dai.com/projects/Dialogo.jpg

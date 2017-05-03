@@ -19,7 +19,7 @@ layout: project
 
 DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of this Nigerian-registered [foundation](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220) by helping outline a strategy for its Economic Development Program, specifically orienting its activities around a Making Markets Work for the Poor (M4P) approach and developing monitoring and evaluating mechanisms to document their impact. Collectively, these recommendations informed the principles of intervention, program areas, sustainable outcomes, and intermediate and final impacts of PIND's Strategic Plan 2011–2014. We also identified resources to execute the economic development component of the plan, and established criteria for prioritizing projects and selecting implementing partners.
 
-![](/assets/images/projects/PIND.jpg)
+![](https://assetify-dai.com/projects/PIND.jpg)
 
 ### Sample Activities
 

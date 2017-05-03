@@ -28,7 +28,7 @@ The Regional Agricultural Development Program – East (RADP-East), funded by th
 
 DAI will take a flexible and gender-sensitive approach in implementing the program, emphasizing collaboration with local Afghan partners in analyzing existing value chains and training farmers, agribusinesses, and financial partners on methods to increase production and revenue.
 
-![Regional Agricultural Development Program (RADP-East)](/assets/images/projects/RADP-East.jpg)
+![Regional Agricultural Development Program (RADP-East)](https://assetify-dai.com/projects/RADP-East.jpg)
 
 ### **Sample Activities**
 

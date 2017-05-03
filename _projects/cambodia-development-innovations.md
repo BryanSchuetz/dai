@@ -41,6 +41,6 @@ This program enables Cambodian-led technology products to be designed and built 
 
 [1]: http://www.development-innovations.org/
 [2]: http://www.forbes.com/sites/joshuawilwohl/2016/02/14/new-app-to-help-cambodians-track-complaints-made-with-local-govt/#58a2a8f47c8e
-[3]: /assets/images/projects/DI-pic.jpg
+[3]: https://assetify-dai.com/projects/DI-pic.jpg
 [4]: https://blog.usaid.gov/2015/09/empowering-voters-one-mobile-phone-at-a-time/
 [5]: http://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/

@@ -39,4 +39,4 @@ In Indonesia, 100 million people lack access to clean water, and many households
 * Signed 22 master agreements with municipal water companies and local banks, with 12,000 households gaining access to clean water; the project leveraged $1,211,100 for these new connections.
 * $29.9 million of resources leveraged to expand impact of ESP work.
 
-[1]: /assets/images/projects/ESP.jpg
+[1]: https://assetify-dai.com/projects/ESP.jpg

@@ -21,7 +21,7 @@ layout: project
 
 The lack of access to financial services in the rural Philippines presents a major barrier to achieving broad-based economic growth. Mobile money offers an innovative, cost-effective means to create high-impact development that benefits marginalized populations. SIMM built upon the U.S. Agency for International Development's interventions in microenterprise access and mobile banking to expand financial services through new technologies. Financial services provide the means for the poor and unbanked to build assets, better withstand shocks, and participate more broadly in the formal economy. Mobile phone banking has the potential to help the Philippines reach development goals faster and make those gains sustainable. With just 26 percent of Filipinos enjoying access to formal financial channels, a latent demand remains largely untapped as 610 out of 1,635 municipalities do not have banks. This [two-year project](http://dai-global-developments.com/articles/philippine-town.html) addressed supply and demand constraints to broaden adoption of mobile money in the Philippines while promoting global knowledge sharing.
 
-![](/assets/images/projects/SIMM.jpg)
+![](https://assetify-dai.com/projects/SIMM.jpg)
 
 ### Sample Activities
 

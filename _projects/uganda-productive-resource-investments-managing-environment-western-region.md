@@ -42,4 +42,4 @@ The Albertine Rift is a vital region for global conservation, harboring more spe
 * Two beach management units on Lake George developed and adopted two-year fisheries management plans and lake patrol procedures.
 * In May 2007, succeeded in mobilizing partners (Lake Albert Safaris, Uganda Wildlife Authority, and the National Environmental Management Authority) to stop oil companies drilling in Kabwoya Wildlife Reserve from dredging a passage from the Kaiso lagoon to Lake Albert for purposes of mooring their barges in the lagoon.
 
-[1]: /assets/images/projects/UgandaPRIME.jpg
+[1]: https://assetify-dai.com/projects/UgandaPRIME.jpg

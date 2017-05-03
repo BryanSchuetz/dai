@@ -37,4 +37,4 @@ In 2004, the U.S. Agency for International Development (USAID) launched a nation
 * Invested $2.3 million in local communities using locally procured materials.
 
 [1]: /our-work/projects/afghanistan—alternative-development-programeastern-region-adpe
-[2]: /assets/images/projects/AINP-1.jpg
+[2]: https://assetify-dai.com/projects/AINP-1.jpg

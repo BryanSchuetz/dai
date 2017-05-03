@@ -37,4 +37,4 @@ Indonesia accounts for the most confirmed human H5N1 avian influenza (AI) cases 
 * The CBAIC commercial poultry private sector partnership program directly reached 250 commercial poultry farms in western Java Island with key biosecurity and flock management training to improve disease control and farm production.
 * Designed and implemented intensive community mobilization activities in West Java province, include creating village AI teams, partnering with local markets, and training local public health cadres to increase hygiene and sanitation to reduce disease risk. By the end of 2009, these initiatives, along with supporting communication activities, such as community variety shows, directly reached 11,270 people in 1,000 villages.
 
-[1]: /assets/images/projects/IndonesiaAI.jpg
+[1]: https://assetify-dai.com/projects/IndonesiaAI.jpg

@@ -31,4 +31,4 @@ The National Bank of Egypt is the oldest and largest commercial bank in Egypt wh
 * Provide recommendations and assist with the implementation of credit scoring, to perhaps include development of a scorecard, time-bound programme, and automated application processing.
 * Help develop an MSME Advisory Services Unit to support MSMEs in financial management, applying for and servicing loan products, and other needs.
 
-[1]: /assets/images/projects/egyptmse.jpg
+[1]: https://assetify-dai.com/projects/egyptmse.jpg

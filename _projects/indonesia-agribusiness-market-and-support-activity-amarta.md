@@ -35,4 +35,4 @@ Indonesian agribusiness is changing for the better, pursuing new supply chain mo
 * Increased international exports of Sulawesi cocoa by 49 percent.
 * Improved relationships between buyers and sellers—the direct linkages will provide farmers information on what crops to grow and the market demand for quality.
 
-[1]: /assets/images/projects/AMARATA.jpg
+[1]: https://assetify-dai.com/projects/AMARATA.jpg

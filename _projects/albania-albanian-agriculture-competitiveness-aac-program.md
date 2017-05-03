@@ -33,4 +33,4 @@ Given the importance of agriculture to the Albanian economy—it provides income
 * Launched the Taste of Albania program, a national brand aimed to identify Albanian produce of the highest quality in an effort to build the reputation of Albanian produce.
 * Progressive farmers from Albania's coastal areas are supplying personal-size watermelons to ASDA Supermarkets, the British subsidiary of Walmart, the world's largest food retail chain. AAC facilitated the initial contact between a local export company and ASDA. The program also assisted the selection of a watermelon variety suitable to the British market, enabled members of Divjaka 07 Farmers Association to meet European Standards, and mentored the exporter in trade logistics.
 
-[1]: /assets/images/projects/AAC.jpg
+[1]: https://assetify-dai.com/projects/AAC.jpg

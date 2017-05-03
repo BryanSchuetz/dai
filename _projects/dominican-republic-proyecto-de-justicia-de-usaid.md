@@ -38,4 +38,4 @@ The adoption of a new criminal procedures code in the Dominican Republic is brin
 * Assisted the Offices of the Criminal Courts in the Judicial District of Puerto Plata to establish the new management model. Four of the five judicial districts that have applied the management model have been assisted by USAID and the staff of the Justice Project.
 * Enhanced the Jurisbook, a case tracking and management system, to provide computer-based, automated management of hearings, as well as establish a common calendar for prosecutors, judges, and defenders. By using telephone and web-based notifications, the new management models are pioneering the use of technology to further advance the goals of the justice system.
 
-[1]: /assets/images/projects/DRjustice.jpg
+[1]: https://assetify-dai.com/projects/DRjustice.jpg

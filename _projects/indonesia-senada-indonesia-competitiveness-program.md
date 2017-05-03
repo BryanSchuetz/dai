@@ -38,4 +38,4 @@ SENADA, a four-year project financed by the U.S. Agency for International Develo
 * Created and implemented a RegMAP tool that enabled regulatory mapping and analysis.
 * Accelerated business licensing. For example, the program resulted in a total of 916 business licenses obtained during a six-month period in Sidoarjo Regency—a dramatic increase in the normal six-month average of licenses approved (378).
 
-[1]: /assets/images/projects/SENADA.jpg
+[1]: https://assetify-dai.com/projects/SENADA.jpg

@@ -37,4 +37,4 @@ Funded by the U.S. Agency for International Development (USAID), the Sri Lanka T
 * Supported a $715,743 infrastructure project financed by USAID and Hellenic Aid of the Ministry of Foreign Affairs of Greece—the Anuradhapura Junction Market in Trincomalee was the first partnership between the two donors.
 * Received funding from the U.S. Department of Defense's Overseas Humanitarian Disaster and Civic Aid appropriation, through the U.S. Pacific Command, to support the return of people displaced by conflict to their Eastern Province communities of origin. DAI rehabilitated schools, health facilities, and other public infrastructure to meet critical needs in these newly resettled areas. Projects were identified in collaboration with the U.S. Army Corps of Engineers based on needs identified by relevant government authorities and international agencies, and vetted through an inclusive community consultation process.
 
-[1]: /assets/images/projects/SLTI.jpg
+[1]: https://assetify-dai.com/projects/SLTI.jpg

@@ -41,4 +41,4 @@ After the second civil war in Liberia ended, DAI was active in the country on be
 * In the immediate aftermath of the war, developed community-level psychosocial counseling and reconciliation systems in nearly 800 high-need communities in close coordination with our jobs program.
 * Restored 28,000 acres of land for cash crops such as coffee, cocoa, cassava, and rice.
 
-[1]: /assets/images/projects/LCIPII.jpg
+[1]: https://assetify-dai.com/projects/LCIPII.jpg

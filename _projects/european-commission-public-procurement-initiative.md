@@ -26,4 +26,4 @@ DAI and lead partner Everis will provide European Union negotiators with quantit
 * Assess these markets and their barriers, and the effects of these barriers on trade flows, GDP, and related policy—among other effects.
 * Determine the potential for opening these procurement markets for European Union businesses.
 
-[1]: /assets/images/projects/EC-Procurement-webpage.jpg
+[1]: https://assetify-dai.com/projects/EC-Procurement-webpage.jpg

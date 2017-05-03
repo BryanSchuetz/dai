@@ -33,4 +33,4 @@ DAI's strategy will focus on facilitating the development of competitive, inclus
 
 [1]: /our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc
 [2]: /our-work/projects/pakistan-regional-economic-integration-activity-preia
-[3]: /assets/images/projects/CTJ_Project_page_image.jpg
+[3]: https://assetify-dai.com/projects/CTJ_Project_page_image.jpg

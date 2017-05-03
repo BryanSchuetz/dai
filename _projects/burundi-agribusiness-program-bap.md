@@ -38,4 +38,4 @@ Burundi's extreme poverty is largely due to the fact that more than 90 percent o
 * In the same quarter, further soil amendments led to less rejection of coffee arriving at the washing station, reducing rejection during the flotation/selection process from an average of 23 percent under traditional control to between 9 and 13 percent for the fertility treatments.
 * In women's leadership, producer association development, and promotion of microenterprises 122 literacy centers remained open. Seventy percent of women who began the literacy cycle finished and are thus able to read, write, and perform simple calculations.
 
-[1]: /assets/images/projects/BAP.jpg
+[1]: https://assetify-dai.com/projects/BAP.jpg

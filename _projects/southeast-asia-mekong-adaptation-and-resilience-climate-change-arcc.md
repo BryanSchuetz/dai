@@ -52,6 +52,6 @@ The U.S. Agency for International Development (USAID)'s [Mekong ARCC][1] project
 
 
 [1]: http://mekongarcc.net/home
-[2]: /assets/images/projects/ARCC.jpg
+[2]: https://assetify-dai.com/projects/ARCC.jpg
 [3]: http://mekongarcc.net/resource/usaid-mekong-arcc-lower-mekong-climate-study-released-download
 [4]: /news/asian-bishops-issue-call-prevent-global-warming-mitigate-climate-change

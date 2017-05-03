@@ -42,4 +42,4 @@ Schools and hospitals are faced with persistent backlogs of critical infrastruct
 
 * In its first phase, IDIP formalized structures to manage and monitor infrastructure delivery; established an integrated provincial planning function for education and health infrastructure; and instituted monitoring and control systems.
 
-[1]: /assets/images/projects/SouthAfricaInfrastructure.jpg
+[1]: https://assetify-dai.com/projects/SouthAfricaInfrastructure.jpg

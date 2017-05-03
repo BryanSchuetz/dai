@@ -38,4 +38,4 @@ Afghan farmers cultivate opium poppy because they need to feed their families—
 * IDEA-NEW prioritizes local procurement, and has procured $13 million from Afghan vendors.
 * Provided improved care and management for more than 9.4 million livestock.
 
-[1]: /assets/images/projects/ideanewinner.jpg
+[1]: https://assetify-dai.com/projects/ideanewinner.jpg

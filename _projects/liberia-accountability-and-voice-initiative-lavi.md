@@ -33,4 +33,4 @@ LAVI will implement activities that strengthen advocacy and coalitions pressing 
 * Promote development of existing domestic providers of capacity building services.
 * Use monitoring and iterative evaluation to ensure that our learning is shared with others and our best practices are applied by others and sustainable.
 
-[1]: /assets/images/projects/LAVI-pic-for-webpage.jpg
+[1]: https://assetify-dai.com/projects/LAVI-pic-for-webpage.jpg

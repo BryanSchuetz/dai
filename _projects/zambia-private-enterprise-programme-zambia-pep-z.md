@@ -28,4 +28,4 @@ DAI is the contract holder, but our partner Nathan Associates is implementing th
 * Develop business service providers so that they can meet increased demand.
 * Manage a business plan competition to promote understanding of and improve attitudes toward entrepreneurship.
 
-[1]: /assets/images/projects/Zambia-PEP-Z.jpg
+[1]: https://assetify-dai.com/projects/Zambia-PEP-Z.jpg

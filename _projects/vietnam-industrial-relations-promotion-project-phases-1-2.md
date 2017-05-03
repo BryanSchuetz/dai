@@ -39,4 +39,4 @@ This current partnership between the U.S. Department Of Labor and Vietnamese gov
 * Adapted syllabus and curriculum from U.S. universities now being used by three Vietnamese universities and nonaffiliated professors; together they comprise a network of labor relations academics.
 * Introduced alternative, peer-to-peer dispute resolution techniques to address issues such as wages and working conditions and help prevent labor disruptions.
 
-[1]: /assets/images/projects/VietnamSIIR.jpg
+[1]: https://assetify-dai.com/projects/VietnamSIIR.jpg

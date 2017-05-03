@@ -35,4 +35,4 @@ The Republic of Macedonia has made decentralization and the promotion of democra
 * Published a manual on how to assess schools.
 * Trained 44 representatives across all eight municipalities.
 
-[1]: /assets/images/projects/MacedoniaMMS.jpg
+[1]: https://assetify-dai.com/projects/MacedoniaMMS.jpg

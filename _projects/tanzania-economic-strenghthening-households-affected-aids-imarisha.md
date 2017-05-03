@@ -42,6 +42,6 @@ As the AIDS epidemic in Tanzania spread, treatment and care expanded and people 
 * Developed and rolled out 10 courses to strengthen the financial standing of households, including: [savings-led][2] microfinance; household gardening and nutrition strengthening; local chicken production; basic business skills; basic market analysis; causal and logic models for economic strengthening; adult learning; production of [orange-fleshed sweet potato][3] for improved nutrition and income; using household economic assessments; and public private partnerships.
 * Supported new innovations in economic strengthening, including: a franchise model for most vulnerable children (MVC) caregivers for solar-dried fruits and vegetables; a job mentoring program for orphans and vulnerable children vocational graduates; an empowerment and livelihoods program for adolescent girls; a solar phone-charging business franchise for people living with HIV/AIDS; and a dairy cooperative program for MVC households.
 
-[1]: /assets/images/projects/IMARISHA.jpg
+[1]: https://assetify-dai.com/projects/IMARISHA.jpg
 [2]: /news/dai-experts-present-savings-group-conference
 [3]: /news/dai-project-hosts-harvest-learning-event-tanzania

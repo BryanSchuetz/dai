@@ -38,4 +38,4 @@ Afghan municipalities have long suffered from underinvestment, limited support, 
 * Five municipalities started the business registration and licensing process that will generate additional revenues to these municipalities.
 * All nine municipalities formed Service Delivery Advisory Groups that serve as the key interface between citizens and municipal officials.
 
-[1]: /assets/images/projects/RUN.jpg
+[1]: https://assetify-dai.com/projects/RUN.jpg

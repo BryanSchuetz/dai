@@ -36,4 +36,4 @@ Environmental degradation in Haiti is the worst in the Western Hemisphere—a ca
 * Leveraged $6.1 million of non-U.S. government funds, effectively increasing DEED's available funding by 33 percent.
 * More than 100 Haitian organizations now work in collaboration with DEED, including 48 producer groups, 37 other agriculture-related community associations, and 20 formal enterprises of which 11 are woman-led and -focused.
 
-[1]: /assets/images/projects/deedinner.jpg
+[1]: https://assetify-dai.com/projects/deedinner.jpg
