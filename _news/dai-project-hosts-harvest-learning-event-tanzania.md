@@ -36,4 +36,4 @@ Participants, which included representatives of Dar es Salaam-based organization
 The event brought organizations working on HIV, agriculture, nutrition, and economic growth. Collaborating and working together across interests and investing in orange-fleshed sweet potatoes can leverage health and wealth benefits for Tanzanians and increased impact for development programming.  
 
 [1]: /our-work/projects/tanzania-economic-strenghthening-households-affected-aids-imarisha
-[2]: /assets/images/news/OFSDAY-and-Pathfinder-259.jpg
+[2]: https://assetify-dai.com/news/OFSDAY-and-Pathfinder-259.jpg

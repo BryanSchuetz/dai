@@ -44,4 +44,4 @@ Cost-effective solutions such as these will be funded for deployment at a larger
 
 
 [1]: /our-work/projects/pakistan-education-voice-and-accountability-fund
-[2]: /assets/images/news/IlmIdeas.jpg
+[2]: https://assetify-dai.com/news/IlmIdeas.jpg

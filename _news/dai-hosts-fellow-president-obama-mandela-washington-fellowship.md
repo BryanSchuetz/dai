@@ -32,7 +32,7 @@ The [Mandela Washington Fellowship][4] is a program of the U.S. government and s
 
 The fellows are a diverse group and represent some of the brightest young leaders in the 49 countries in sub-Saharan Africa. Zainab on her experience thus far: "The group has a wealth of knowledge in a wide range of issues," Zainab said. "It's an experience I'll forever remember," adding that  she is "determined to implement the professional skills" she has acquired so far to make the change that is most needed in Sierra Leone and Africa as in whole.
 
-[1]: /assets/images/news/Conteh.jpg
+[1]: https://assetify-dai.com/news/Conteh.jpg
 [2]: /our-work/projects/africa-africa-lead-ii
 [3]: /who-we-are/our-team/david-tardif-douglin
 [4]: https://youngafricanleaders.state.gov/washington-fellowship/

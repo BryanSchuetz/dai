@@ -36,10 +36,10 @@ The DAI Global Staff Conference continued Wednesday and Thursday, with panel dis
 
 In addition to the addresses by Shah and Boomgard, plenary sessions were presented on DAI business units, the [David H. Gunning Awards for Commmunity Service][7], and reflections by DAI's past and present leaders. Other large presentations and discussions examined DAI's global operating model, updates on client regulations and best practices, managing for development results, and results thus far by the [DAI Maker Lab][8].
 
-[1]: /assets/images/news/DAI-News----conference-3.jpg
-[2]: /assets/images/news/DAI-NEWS----conference-2.jpg
+[1]: https://assetify-dai.com/news/DAI-News----conference-3.jpg
+[2]: https://assetify-dai.com/news/DAI-NEWS----conference-2.jpg
 [3]: http://dai.com/who-we-are/leadership/elizabeth-nelson
-[4]: /assets/images/news/DAI-News----conference-1.jpg
+[4]: https://assetify-dai.com/news/DAI-News----conference-1.jpg
 [5]: /news/innovation-action-challenge-winners-begin-implement-their-solutions-field
 [6]: /news/dai-announces-winners-gunning-service-awards-2015
 [7]: /news/gunning-service-award-winners-2016-announced-dai-global-staff-conference

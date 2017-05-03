@@ -43,9 +43,9 @@ ICIMOD and YoungInnovations will submit the top two local solutions to NASA for 
 
 More information about this story is available [here][4] or via [Twitter][5] and [Facebook][6] or by contacting Stacy Whittle, Senior Lead for Communications on the SERVIR Demand Activity at stacy_whittle@dai.com.
 
-[1]: /assets/images/news/nasa2.jpg
+[1]: https://assetify-dai.com/news/nasa2.jpg
 [2]: /our-work/projects/worldwide-servir-program-demand-activity
-[3]: /assets/images/news/nasa1.jpg
+[3]: https://assetify-dai.com/news/nasa1.jpg
 [4]: http://spaceappschallenge.org/
 [5]: https://twitter.com/spaceapps
 [6]: https://www.facebook.com/spaceappschallenge

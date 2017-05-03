@@ -25,4 +25,4 @@ In 2013, G-7 focused its efforts on motivating at-risk youth and expanded its mi
 
 "Since September 2013, I have had the great opportunity to expand my knowledge of development practice at DAI, an experience that has only deepened my commitment to work with the most vulnerable populations, fight for gender equality, and empower at-risk youth," said Campos. "I believe my on-the-ground experience has enhanced my contributions to DAI's team, and the new ideas I am trying to bring to the firm as a development entrepreneur."
 
-[1]: /assets/images/news/Caity2.jpg
+[1]: https://assetify-dai.com/news/Caity2.jpg

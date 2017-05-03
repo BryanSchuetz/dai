@@ -54,6 +54,6 @@ In the two decades since the fall of the Soviet Union and the emergence of indep
 "The people in the neighboring countries are smart and aware," said Halstead, referring to Kazakhstan, Uzbekistan, and Tajikistan, among others. "If a strong democracy can take root in Kyrgyzstan, it can also take root in these countries as well."
 
 [1]: /our-work/projects/kyrgyzstan-parliamentary-strengthening-program-kpsp
-[2]: /assets/images/news/Halstead_Inner.jpg
+[2]: https://assetify-dai.com/news/Halstead_Inner.jpg
 [3]: http://www.flickr.com/photos/daiglobal/sets/72157629759603010/
 [4]: http://www.flickr.com/photos/daiglobal/sets/72157629957993461/

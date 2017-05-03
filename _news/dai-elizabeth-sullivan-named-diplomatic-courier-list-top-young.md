@@ -30,5 +30,5 @@ Sullivan has evaluated peacebuilding and economic recovery efforts in Indonesia 
 The awards were given to the ["99Under33"][3] after Diplomatic Courier and YPFP accepted nominations and formed a selection committee to determine who would be on the list. Leaders from the business, government, and academic sectors nominated several hundred individuals and selections were made through a three-step committee process.
 
 [1]: /our-work/projects/africa-trans-sahara-security-symposium-tss
-[2]: /assets/images/news/SullivanWeb.jpg
+[2]: https://assetify-dai.com/news/SullivanWeb.jpg
 [3]: http://www.diplomaticourier.com/special-features/top-99-under-33

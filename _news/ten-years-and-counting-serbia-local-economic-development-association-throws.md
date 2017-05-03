@@ -34,5 +34,5 @@ At the 10-year gala, NALED also received plaudits from ministers Branislav Nedim
 [1]: http://www.naled-serbia.org/en/news/details/1077/NALED-celebrated-its-10th-birthday
 [2]: /our-work/projects/serbia-local-government-reform-program-slgrp
 [3]: http://naled.rs/download/Monografija-ENG-web.pdf
-[4]: /assets/images/news/DAI-News----Serbia-NALED-2.jpg
-[5]: /assets/images/news/DAI-News----Serbia-NALED-4.jpg
+[4]: https://assetify-dai.com/news/DAI-News----Serbia-NALED-2.jpg
+[5]: https://assetify-dai.com/news/DAI-News----Serbia-NALED-4.jpg

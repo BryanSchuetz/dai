@@ -45,6 +45,6 @@ Tony has been a board member of the Corporate Council on Africa, is past Preside
 [1]: /who-we-are/board/maria-otero
 [2]: /who-we-are/board/gail-steinel
 [3]: /who-we-are/leadership/james-boomgard
-[4]: /assets/images/news/DAIboard2.jpg
+[4]: https://assetify-dai.com/news/DAIboard2.jpg
 [5]: /who-we-are/leadership/jean-gilson
-[6]: /assets/images/news/DAIBoard1.jpg
+[6]: https://assetify-dai.com/news/DAIBoard1.jpg

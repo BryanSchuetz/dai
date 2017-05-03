@@ -35,7 +35,7 @@ This year, DAI partnered with Montgomery County on an Innovation into Action Cha
 The MCCC's Prime Partner of the Year Award comes on the heels of a similar award from the U.K. Department for International Development, which recently recognized DAI for its [excellent relationships with subcontractors][5].
 
 [1]: /who-we-are/leadership/james-boomgard
-[2]: /assets/images/news/DAI-News----Prime-of-the-Year.jpg
+[2]: https://assetify-dai.com/news/DAI-News----Prime-of-the-Year.jpg
 [3]: /news/dai-hosts-second-annual-small-business-fair
 [4]: http://www.cloudburstgroup.com/small-business-insights-working-with-usaid/
 [5]: /news/dai-and-partner-imc-honoured-outstanding-relationship-subcontractors

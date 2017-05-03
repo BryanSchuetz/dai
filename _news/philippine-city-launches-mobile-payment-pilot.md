@@ -37,4 +37,4 @@ SIMM targets three key areas: payment of government services, payroll distributi
 SIMM "supports USAID Forward, an initiative which focuses on innovation and the application of technology to achieve high-impact development," said Postel.
 
 [1]: /our-work/projects/philippines-scaling-innovations-mobile-money-simm-project
-[2]: /assets/images/news/SIMMLaunchPhoto.jpg
+[2]: https://assetify-dai.com/news/SIMMLaunchPhoto.jpg

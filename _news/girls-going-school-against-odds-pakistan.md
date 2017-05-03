@@ -31,7 +31,7 @@ Taught by local teachers who were trained with support from Ilm Ideas, the commu
 
 To learn more about grants available from Ilm, follow the project on [Twitter][3] or visit the [site.][4]
 
-[1]: /assets/images/news/SRO2.jpg
+[1]: https://assetify-dai.com/news/SRO2.jpg
 [2]: /our-work/projects/pakistan-education-voice-and-accountability-fund
 [3]: https://twitter.com/IlmIdeas
 [4]: http://ilm-ideas.com/grant-solicitations/resources/

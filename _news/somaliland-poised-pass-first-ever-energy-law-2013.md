@@ -34,4 +34,4 @@ Some solutions proposed by participants included: setting up electrical and engi
 The Electrical Energy Act is expected to become law this year. The President of Somaliland, Ahmed Silanyo, recently praised the energy efforts in his 2013 State of the Union address, saying, "My government will submit an Energy Legislation to this honorable Chamber. This will be the first of its kind in the country. We have a policy to encourage and implement some renewable energy projects this year. We are implementing five wind energy facilities in Hargeysa Airport to meet the electricity needs of the airport and we are also establishing four additional wind energy facilities in Las Anod. These projects will create jobs for our people."
 
 [1]: /our-work/projects/somalia-partnership-economic-growth-program
-[2]: /assets/images/news/EnergyLaw.jpg
+[2]: https://assetify-dai.com/news/EnergyLaw.jpg

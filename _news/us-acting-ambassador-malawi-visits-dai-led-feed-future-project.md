@@ -29,4 +29,4 @@ Finally, the visitors met local community volunteer Eric Mwale, who demonstrated
 "I am excited to see that farmers in Chitekwere are now planting more legumes because they recognize their importance not only as a cash crop, but also as a source of nutritious food for their families," Gonzales said. "Not only are they diversifying their incomes and diets, but the new planting techniques will also increase farmers'yields of soy, groundnut, and pigeon pea. I hope the work INVC is carrying out here, with support from the United States, lays the foundation for long-term improvement in livelihoods and in the health of young children and mothers in Chitekwere."
 
 [1]: /our-work/projects/malawi-integrating-nutrition-value-chains
-[2]: /assets/images/news/Gonzales.jpg
+[2]: https://assetify-dai.com/news/Gonzales.jpg

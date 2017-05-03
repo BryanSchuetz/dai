@@ -29,6 +29,6 @@ DAI is supporting USAID's Office of Science and Technology in the launch of the 
 
 "We want to build on and expand all this progress and we especially want to expand our portfolio of partners in the private sector, in local NGOs, and, of course in the academic and research community," Clinton said.
 
-[1]: /assets/images/news/hesn2.jpg
+[1]: https://assetify-dai.com/news/hesn2.jpg
 [2]: http://www.usaid.gov/hesn
 [3]: /our-work/projects/worldwide-grand-challenges-development-implementation-services

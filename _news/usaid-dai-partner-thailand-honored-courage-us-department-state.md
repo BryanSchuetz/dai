@@ -32,7 +32,7 @@ When it opened in October 2011, [Book Re:public][4] became well-known among citi
 
 [1]: http://www.state.gov/secretary/remarks/2016/03/255272.htm
 [2]: /our-work/projects/thailand-sapan
-[3]: /assets/images/news/DAI-News-pic----Sapan-Kerry.jpg
+[3]: https://assetify-dai.com/news/DAI-News-pic----Sapan-Kerry.jpg
 [4]: https://www.facebook.com/BookRepublicChiangMai/
 [5]: http://www.bangkokpost.com/news/general/914997/chiang-mai-activist-wins-us-courage-award
 [6]: http://dai-global-developments.com/articles/measuring-the-effectiveness-of-government-in-thailands-provinces/

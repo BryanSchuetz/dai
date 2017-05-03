@@ -39,5 +39,5 @@ Robert Bender, DAI's Senior Facilities Manager in Bethesda, has seen Ivymount's 
 `Celestine Coleman`
 
 [1]: http://www.ivymount.org/
-[2]: /assets/images/news/Jason.jpg
-[3]: /assets/images/news/celestine.jpg
+[2]: https://assetify-dai.com/news/Jason.jpg
+[3]: https://assetify-dai.com/news/celestine.jpg

@@ -26,7 +26,7 @@ Each Gunning Award winner receives $5,000 for donation to the social service org
 
 More than 650 staff from DAI headquarters in Washington and London and from project locations all over the world are convening this week, celebrating success stories and absorbing lessons learned from across the company's multiclient portfolio, while discussing ways to improve collaboration and deepen our impact in the field.
 
-[1]: /assets/images/news/Samuel-Njakai.jpg
+[1]: https://assetify-dai.com/news/Samuel-Njakai.jpg
 [2]: https://www.facebook.com/NjiruFocusProgressiveCentre/
-[3]: /assets/images/news/Rocio.jpg
+[3]: https://assetify-dai.com/news/Rocio.jpg
 [4]: http://natik.org/

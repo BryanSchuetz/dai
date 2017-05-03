@@ -35,6 +35,6 @@ At DAI, Luckshmi focuses on inclusive economic growth, access to finance, and pr
 
 As DAI's representative at the SEEP Network, Luckshmi has been an active member of SEEP's Strengthening the Economic Potential of the Ultra Poor and Market Facilitation Initiative working groups, which work to expand learning, conduct research, and test market-based approaches to integrating the poor and very poor into market systems.
 
-[1]: /assets/images/news/LuckshmiS.jpg
+[1]: https://assetify-dai.com/news/LuckshmiS.jpg
 [2]: /our-work/projects/malawi-integrating-nutrition-value-chains-invc
-[3]: /assets/images/news/SEEP.jpg
+[3]: https://assetify-dai.com/news/SEEP.jpg

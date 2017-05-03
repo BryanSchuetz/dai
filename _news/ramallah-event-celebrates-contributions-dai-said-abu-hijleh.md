@@ -29,7 +29,7 @@ Founded in 1970, employee-owned DAI first worked in Palestine in 1987 on a multi
 
 Other guests at the event, held at the Movenpick Hotel in downtown Ramallah, included [Jamal Al-Jabiri][4], the Managing Director of DAI Jordan, as well as DAI Palestine staff and alumni, clients, and local business and government representatives.
 
-[1]: /assets/images/news/Said.jpg
+[1]: https://assetify-dai.com/news/Said.jpg
 [2]: /who-we-are/leadership/james-boomgard
 [3]: /our-work/projects/palestine-facility-new-market-development-fnmd
 [4]: /who-we-are/our-team/jamal-al-jabiri

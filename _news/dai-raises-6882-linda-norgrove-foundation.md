@@ -27,7 +27,7 @@ Operated by Linda's parents, a small team of volunteers, and one part-time emplo
 "[Our] special emphasis on providing education and incomes for women is because we believe that these [programs] are most likely to create a positive lasting change for the country," according to the foundation.
 
 [1]: http://www.lindanorgrovefoundation.org/
-[2]: /assets/images/news/DAI-News----Norgrove-Fundraiser.jpg
+[2]: https://assetify-dai.com/news/DAI-News----Norgrove-Fundraiser.jpg
 [3]: /our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new
 [4]: http://www.lindanorgrovefoundation.org/site/projects
 [5]: http://www.lindanorgrovefoundation.org/run

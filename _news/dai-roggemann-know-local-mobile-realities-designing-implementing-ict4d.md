@@ -32,6 +32,6 @@ Roggemann outlined DAI's approach to implementing ICT for Development initiative
 "The question is: 'How do we leverage youths' instinct to reach for their phone to help achieve development impact?'" she asked the audience. "This is what our work is trying to do."
 
 [1]: /who-we-are/our-team/kristen-roggemann
-[2]: /assets/images/news/DAI-News----Roggemann-pic-1.jpg
+[2]: https://assetify-dai.com/news/DAI-News----Roggemann-pic-1.jpg
 [3]: /our-work/projects/jordan-workforce-development-wfd-project
 [4]: http://www.ictworks.org/2015/11/11/guess-which-communications-platform-youth-prefer-to-use-today/?utm_source=ICTworks&utm_campaign=5446792d6e-MC-RSS-Email&utm_medium=email&utm_term=0_0814c7961e-5446792d6e-48224181

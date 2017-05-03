@@ -30,7 +30,7 @@ Expanding women's access to markets through global supply chains will have ramif
 
 Learn more about other labs and the entire EUDevDays program by following [@eudevdays][6] on Twitter (tweet with the [#EDD13][7] hashtag), on [Facebook][8], or via [eudevdays.eu][9].
 
-[1]: /assets/images/news/logo_EDD13.png
+[1]: https://assetify-dai.com/news/logo_EDD13.png
 [2]: http://www.erd-report.eu/erd/report_2012/index.html
 [3]: /who-we-are/our-team/anne-simmons-benton
 [5]: http://www.eib.org/epec/resources/epec-using-EU-funds-in-ppps-public.pdf

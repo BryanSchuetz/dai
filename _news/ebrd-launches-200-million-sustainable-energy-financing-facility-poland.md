@@ -45,4 +45,4 @@ Watch this video to learn more:
 [1]: http://www.ebrd.com/pages/news/press/2014/141105.shtml
 [2]: /our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff
 [3]: http://www.polseff.org/pl/rezultaty-polseff-0
-[4]: /assets/images/news/polseff2launch.jpg
+[4]: https://assetify-dai.com/news/polseff2launch.jpg

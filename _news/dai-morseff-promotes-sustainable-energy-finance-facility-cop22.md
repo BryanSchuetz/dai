@@ -18,7 +18,7 @@ Developed by the [Bank for Reconstruction and Development (EBRD)](http://www.ebr
 
 Through MorSEFF, prospective borrowers receive dedicated financing, investment incentives of 10 percent or 15 percent of the loan amount (funded by grants from the EU Neighborhood Investment Facility), and free technical assistance for project assessment and implementation by DAI's dedicated implementation team financed by the EU NIF and the SEMED Multi-Donor Fund. MorSEFF has so far issued 50 loans worth €20.4 million, and another 40 are being processed, worth €20.99 million.
 
-![](/assets/images/news/MorSEFF.jpg)
+![](https://assetify-dai.com/news/MorSEFF.jpg)
 `Meriem Elmandjra, Marketing Consultant for MorSEFF, presents at a side event.`
 
 At COP22, the MorSEFF team was also represented at the stand of Africa Climate Solutions, an engineering firm involved in the implementation of the programme. Senior members of the MorSEFF team also spoke at various side events about the unique combination of dedicated financing through local participating banks, technical assistance, and investment incentives boost the private sector's sustainable energy investments in Morocco, resulting in lower operating costs, better quality equipment, reduced environmental impact, and improved competitiveness of companies.

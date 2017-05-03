@@ -25,5 +25,5 @@ Susan led Abt's integration of its acquired Australian subsidiary, JTA, and play
 
 [1]: /who-we-are/our-team/susan-scribner
 [2]: /our-work/projects/worldwide%E2%80%94preparedness-and-response-pr
-[3]: /assets/images/news/Susan%20Inner_0.jpg
+[3]: https://assetify-dai.com/news/Susan%20Inner_0.jpg
 [4]: /who-we-are/leadership/christopher-legrand

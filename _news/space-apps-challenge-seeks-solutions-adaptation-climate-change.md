@@ -42,5 +42,5 @@ CATIE is a regional research, higher education, and outreach institution devoted
 [1]: /our-work/projects/usaid-central-america-regional-climate-change-program-rccp-programa-regional-de
 [2]: http://www.spaceappscr.com
 [3]: http://spaceappscr.org/galeria-fotografica/
-[4]: /assets/images/news/spaceappchallenge_finales-23.jpg
+[4]: https://assetify-dai.com/news/spaceappchallenge_finales-23.jpg
 [5]: http://www.catie.ac.cr/en/

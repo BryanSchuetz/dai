@@ -26,7 +26,7 @@ DAI works in more than 60 countries delivering solutions ranging from reforming 
 
 All 2012 International Business Leadership Award winners will be honored March 7 at the Jim Rouse Visionary Center in Baltimore at a ceremony featuring Johns Hopkins University President Ron Daniels, Gov. Martin O'Malley, and nearly 400 top business leaders.
 
-[1]: /assets/images/news/O%27Malley%26Jim.JPG
+[1]: https://assetify-dai.com/news/O%27Malley%26Jim.JPG
 [2]: /who-we-are/leadership/james-boomgard
 [3]: /news/dai-selected-top-innovator-global-poll-international-development
 [4]: https://twitter.com/#!/DAIGlobal

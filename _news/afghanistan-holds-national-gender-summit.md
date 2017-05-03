@@ -36,6 +36,6 @@ Promote Musharikat project will work with more than 50 civil society groups and 
 
 ![][3]
 
-[1]: /assets/images/news/Mush%201.jpg
+[1]: https://assetify-dai.com/news/Mush%201.jpg
 [2]: /our-work/projects/afghanistan-musharikat
-[3]: /assets/images/news/Mush%202.jpg
+[3]: https://assetify-dai.com/news/Mush%202.jpg

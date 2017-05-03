@@ -37,4 +37,4 @@ One of IUWASH's partners, the Coca-Cola Foundation Indonesia, has provided $750,
 IUWASH works to expand access to water and sanitation services to Indonesia's urban poor by improving urban water and sanitation services, mobilizing demand for these services, improving governments' capacity for service delivery, and contributing to government strategies. The IUWASH team provided technical assistance and monitoring for the project. 
 
 [1]: /our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash
-[2]: /assets/images/news/NEWSiuwash.jpg
+[2]: https://assetify-dai.com/news/NEWSiuwash.jpg

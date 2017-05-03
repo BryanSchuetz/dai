@@ -28,7 +28,7 @@ With nearly 80 countries [criminalizing homosexuality][3], working with LGBTI co
 
 Schwenke currently serves on the boards of [Alturi][4], the [International Development Ethics Association][5], and the [Society for International Development Washington DC chapter][6]. Her forthcoming book, "Self-ish," to be published by Red Hen Press in 2017, is an account of her life and work.
 
-[1]: /assets/images/news/JeanAndChloe_0.jpg
+[1]: https://assetify-dai.com/news/JeanAndChloe_0.jpg
 [2]: https://www.usaid.gov/sites/default/files/documents/1874/LGBT%20Vision.pdf
 [3]: https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory
 [4]: http://www.alturi.org/

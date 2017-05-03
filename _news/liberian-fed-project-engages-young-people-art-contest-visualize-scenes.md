@@ -35,4 +35,4 @@ The FED project, funded by the U.S. Agency for International Development and par
 "These children are the future of Liberia," said Jonathan Greenham, FED Team Leader. "How they view agriculture is very important. They need to think about agriculture not just as a potential for feeding themselves, but also their country."
 
 [1]: /our-work/projects/liberia-food-and-enterprise-development-program-fed
-[2]: /assets/images/news/WFD_FED.jpg
+[2]: https://assetify-dai.com/news/WFD_FED.jpg

@@ -36,5 +36,5 @@ The workshop stemmed in part from a September 2013 memorandum of understanding b
 "The panels allowed us to explore the different approaches used between USAID- and DFID-funded projects," he continued. "It's clear that many of our projects can improve their market systems approaches by taking the project out of the direct line of paying for activities that should be driven by the private sector and purchased by the beneficiaries."
 
 [1]: /news/dai-convenes-global-experts-explore-systemic-market-development
-[2]: /assets/images/news/EG-news.jpg
+[2]: https://assetify-dai.com/news/EG-news.jpg
 [3]: /who-we-are/our-team/bill-grant

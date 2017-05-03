@@ -52,5 +52,5 @@ DFID has a long history of supporting revenue administration in Africa and elsew
 TAUT supports the Government of Ethiopia in progressively expanding the tax base and ensuring more effective tax administration. TAUT works to improve the business climate and public oversight and transparency across specific government agencies and the wider public sector.
 
 [1]: /our-work/projects/ethiopia-tax-audit-and-transparency-programme-taut
-[2]: /assets/images/news/TAUT.jpg
+[2]: https://assetify-dai.com/news/TAUT.jpg
 [3]: http://tadat.org/

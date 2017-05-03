@@ -34,7 +34,7 @@ Here are the _Innovation into Action Challenge_ finalists:
 
 DAI's partners in the _Innovation into Action Challenge_ are USAID, Montgomery County, Maryland, and the Global Accelerator Network.
 
-[1]: /assets/images/news/badge.jpg
+[1]: https://assetify-dai.com/news/badge.jpg
 [2]: /news/dai-and-partners-launch-innovation-action-challenge
 [3]: http://dai.com/sites/default/files/innovation_graphic.jpg
 [4]: http://www.mavunoharvest.com/

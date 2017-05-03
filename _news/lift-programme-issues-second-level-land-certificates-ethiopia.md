@@ -34,4 +34,4 @@ Messelu Selemon, another woman receiving her certificate, said it would reduce b
 Despite the achievements made in reaching certificate issuance, the job is not done. To maintain the integrity of the land administration system, land information must be updated to ensure its accuracy. LIFT is implementing a computerized administration system to ensure transactions are recorded and an updated registry is maintained. The LIFT team will continue to raise awareness among farmers about the importance of this maintenance, without which the second-level certification process risks becoming redundant.
 
 [1]: /our-work/projects/ethiopia-land-investment-transformation-lift-0
-[2]: /assets/images/news/LIFT%20news.jpg
+[2]: https://assetify-dai.com/news/LIFT%20news.jpg

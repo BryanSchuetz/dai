@@ -38,5 +38,5 @@ In addition to winning additional funding for firefighters and rescue workers, M
 Assisting Serbia with its emergency preparedness represented one part of the DAI-led PPES project. The team also conducted numerous activities to empower Serbian youth, and is currently wrapping up an economic strengthening component that, among other results, helped form [business clusters][5] for jeans, shoes, and other products that have led to increased domestic and export sales for local companies.
 
 [1]: /our-work/projects/serbia-preparedness-planning-and-economic-security-program-ppes
-[3]: /assets/images/news/SerbiaEmergencyPreparednessDAINews.gif
+[3]: https://assetify-dai.com/news/SerbiaEmergencyPreparednessDAINews.gif
 [5]: /news/business-clusters-creating-jobs-risk-regions-serbia

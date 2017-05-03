@@ -39,5 +39,5 @@ SERVIR helps scientists, researchers, and government officials improve their dec
 [MyCOE/SERVIR][3]-West Africa is the most recent iteration of MyCOE, which also has fellows and mentors working in the Himalayas and East Africa.
 
 [1]: /our-work/projects/worldwide-servir-program-demand-activity
-[2]: /assets/images/news/COE.jpg
+[2]: https://assetify-dai.com/news/COE.jpg
 [3]: https://sites.google.com/a/aag.org/mycoe-servirglobal/

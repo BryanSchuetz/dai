@@ -32,8 +32,8 @@ With the award money, Caity—who earlier this year was named a runner up for th
 
 To see photos of the work Caity, Katie, and Matt have been doing, check out this [Facebook album][5].
 
-[1]: /assets/images/news/DAI-News----Campos-new.jpg
+[1]: https://assetify-dai.com/news/DAI-News----Campos-new.jpg
 [2]: /news-publications/news/dai-staffer-runner-prestigious-rice-award
-[3]: /assets/images/news/Katie%20Prowse%20Gunning.jpg
-[4]: /assets/images/news/Matt%20Woodhouse%20Gunning.jpg
+[3]: https://assetify-dai.com/news/Katie%20Prowse%20Gunning.jpg
+[4]: https://assetify-dai.com/news/Matt%20Woodhouse%20Gunning.jpg
 [5]: https://www.facebook.com/DAIGlobal/posts/10153722208770797

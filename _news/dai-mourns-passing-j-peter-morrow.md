@@ -59,14 +59,14 @@ Morrow graduated from Harvard University in 1969 with a bachelor's degree in eco
 Morrow is survived by his wife, Pagma, and children Sara, Amy, and Charles.
 
 [1]: /our-work/projects/mongolia-khan-bank-bank-management-support
-[2]: /assets/images/news/morrow.jpg
+[2]: https://assetify-dai.com/news/morrow.jpg
 [3]: /who-we-are/leadership/james-boomgard
 [4]: /uploads/morrow-article.pdf
-[5]: /assets/images/news/DAI-News-Morrow-photo-1.jpg
+[5]: https://assetify-dai.com/news/DAI-News-Morrow-photo-1.jpg
 [6]: /who-we-are/our-team/rob-dressen
-[7]: /assets/images/news/DAI-News-Morrow-photo-2.jpg
+[7]: https://assetify-dai.com/news/DAI-News-Morrow-photo-2.jpg
 [8]: /news/khan-bank-named-2005-%E2%80%9Cbank-year%E2%80%9D
 [9]: /news/once-near-collapse-khan-bank-named-global-finance-magazine-one-asia%E2%80%99s-best
 [10]: /news/j-peter-morrow-ceo-khan-bank-mongolia-receives-prestigious-award-mongolian
-[11]: /assets/images/news/Morrow-new.jpg
+[11]: https://assetify-dai.com/news/Morrow-new.jpg
 [12]: /news/dai-becomes-corporate-founder-american-university-mongolia

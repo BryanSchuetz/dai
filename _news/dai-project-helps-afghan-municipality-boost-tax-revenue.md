@@ -36,6 +36,6 @@ With the increased activity, the municipality hired three more revenue staff to 
 
 ![][3]
 
-[1]: /assets/images/news/RampUPWestPic.jpg
+[1]: https://assetify-dai.com/news/RampUPWestPic.jpg
 [2]: /our-work/projects/afghanistan-regional-afghan-municipalities-program-urban-populations-regional
-[3]: /assets/images/news/RUWest2.jpg
+[3]: https://assetify-dai.com/news/RUWest2.jpg

@@ -29,7 +29,7 @@ Our Second Lab, "Land Tenure in Africa: Lessons learned and the road ahead," als
 To register and for more information about the event, visit [www.eudevdays.eu][5]. Follow [#EDD15][6] on Twitter as well as the [@EuropeAid][7] and [@DAIGlobal][8] accounts.
 
 [1]: https://twitter.com/search?q=%23EYD2015&src=typd
-[2]: /assets/images/news/EDD15_Logo.png
+[2]: https://assetify-dai.com/news/EDD15_Logo.png
 [3]: /our-work/projects/african-caribbean-and-pacific-european-union-microfinance-programme
 [4]: /our-work/solutions/land-tenure
 [5]: http://www.eudevdays.eu

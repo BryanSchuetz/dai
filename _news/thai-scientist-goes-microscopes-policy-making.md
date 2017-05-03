@@ -39,6 +39,6 @@ Thoetkiattikul felt that a lack of scientific input hinders science and technolo
 
 The year-long ASEAN-U.S. Science and Technology Fellows Program works to advance regional cooperation among the ASEAN countries, strengthen science-based policy-making and empower ASEAN scientists to take a more prominent role in their respective countries' efforts to integrate into the ASEAN community.
 
-[1]: /assets/images/news/Lada-S%26T-Story-Pic.jpg
+[1]: https://assetify-dai.com/news/Lada-S%26T-Story-Pic.jpg
 [2]: http://www.usaid.gov/asia-regional/asean-us-science-and-technology-fellows-program
 [3]: /our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable

@@ -29,5 +29,5 @@ DAI is working directly with Kavre Sewa Samaj (Kavre Service Committee), a local
 
 DAI's corporate donation follows [a separate contribution][2] recently made by DAI staff to assist the Grace Home Orphanage in Kathmandu.
 
-[1]: /assets/images/news/nepal-earthquake.jpg
+[1]: https://assetify-dai.com/news/nepal-earthquake.jpg
 [2]: /news/dai-staff-donate-kathmandu-orphanage-wake-nepal-earthquakes

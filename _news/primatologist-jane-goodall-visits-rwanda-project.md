@@ -29,4 +29,4 @@ Following recommendations on how to enhance guides, tracker skills, and visitor 
 Goodall's recent visit revolves around understanding some of the ecotourism and community-related initiatives the Rwanda Development Board and conservation partners have been able to achieve. She encouraged Nyungwe Nziza and its partners to "keep up the good work," adding that "conservation is beyond how much we know of the biodiversity in our forests, but also about how we feel for living things and other people as well."
 
 [1]: /our-work/projects/rwanda-strengthening-sustainable-ecotourism-and-around-nyungwe-national-park
-[2]: /assets/images/news/Goodall.jpg
+[2]: https://assetify-dai.com/news/Goodall.jpg

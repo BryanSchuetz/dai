@@ -28,4 +28,4 @@ The winner will be selected and announced November 4 at a dinner at the Savoy Ho
 The BGTW is one of Britain's leading professional organizations for those in the fields of travel writing, photography, editing, and broadcasting. Each year, the guild hosts an awards gala dinner on the eve of the World Travel Market to recognize outstanding global tourism products and journalists' coverage of them.
 
 [1]: /our-work/projects/rwanda-strengthening-sustainable-ecotourism-and-around-nyungwe-national-park
-[2]: /assets/images/news/Rwanda-018%28waterfall%29.jpg
+[2]: https://assetify-dai.com/news/Rwanda-018%28waterfall%29.jpg

@@ -32,7 +32,7 @@ Duke's Clark shed light on the discussion by reference to recent research on imp
 
 "A common refrain coming out of this panel was the simple need for better awareness on all sides of the emerging partnership paradigm," said [Jean Gilson][6], DAI Senior Vice President for Strategy and IT, and SID-Washington's Vice President for Chapter Affairs. "Donors and their implementing partners need to understand and accommodate their private sector partners' objectives and incentives, and vice versa. Once that understanding is established, we can often find the common ground for mutual commitments and investment."
 
-[1]: /assets/images/news/SIDbooth1.jpg
+[1]: https://assetify-dai.com/news/SIDbooth1.jpg
 [2]: /who-we-are/our-team/kristi-ragan
 [3]: http://www.sidw.org/2014-annual-conference
 [4]: /news/dai-moderate-panel-innovations-science-technology-sid-conference

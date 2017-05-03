@@ -28,6 +28,6 @@ The dinner, held at the Washington Hilton, was attended by about 670 people repr
 
 Click [here][3] to read more of Jim Boomgard's speech outlining Otero's accomplishments, along with a dose of good-natured ribbing.
 
-[1]: /assets/images/news/Otero.jpg
+[1]: https://assetify-dai.com/news/Otero.jpg
 [2]: /who-we-are/leadership/james-boomgard
 [3]: http://www.facebook.com/DAIGlobal/posts/453737611354905

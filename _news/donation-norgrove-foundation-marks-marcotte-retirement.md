@@ -31,4 +31,4 @@ In 2008, she was appointed Senior Vice President for Operations, leading DAI's t
 "While I only spent one quarter of my working life at DAI, it was by far the richest, most meaningful part of my career," Betsy added in her farewell remarks to staff, more than 200 of whom came together to mark her retirement in a gathering at the Strathmore Music Center in North Bethesda, Maryland.
 
 [1]: http://www.lindanorgrovefoundation.org/
-[2]: /assets/images/news/JimBetsy.jpg
+[2]: https://assetify-dai.com/news/JimBetsy.jpg

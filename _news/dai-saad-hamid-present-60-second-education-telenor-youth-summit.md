@@ -27,5 +27,5 @@ One of the world's leading mobile operators, the Telenor Group launched its yout
 Click [here][3] to see a one-minute video describing "60-Second Education."
 
 [1]: /our-work/projects/pakistan-education-voice-and-accountability-fund
-[2]: /assets/images/news/SaadHamid.jpg
+[2]: https://assetify-dai.com/news/SaadHamid.jpg
 [3]: http://vimeo.com/78506799

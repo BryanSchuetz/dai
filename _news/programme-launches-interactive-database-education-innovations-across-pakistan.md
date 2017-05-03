@@ -35,4 +35,4 @@ In addition to piloting potential solutions, Ilm Ideas has strengthened the educ
 
 [1]: /our-work/projects/pakistan-education-voice-and-accountability-fund
 [2]: http://edinnovators.com/Pages/Home.aspx
-[3]: /assets/images/news/DAI-NEWS----Ilm-pic.jpg
+[3]: https://assetify-dai.com/news/DAI-NEWS----Ilm-pic.jpg

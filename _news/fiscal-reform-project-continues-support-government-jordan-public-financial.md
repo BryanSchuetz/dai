@@ -35,4 +35,4 @@ Prime Minister of Jordan Abdallah Ensour said, "The GFMIS will improve the budge
 In the coming months, USAID and the Fiscal Reform Project will continue to support the Ministry of Finance as it expands the reach of GFMIS and institutes the recommendations of PEP 2015.
 
 [1]: /our-work/projects/jordan-fiscal-reform-project-ii-and-bridge-activity-frp-ii-frp-bridge
-[2]: /assets/images/news/PEP-Pages.pdf
+[2]: https://assetify-dai.com/news/PEP-Pages.pdf

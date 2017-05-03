@@ -32,4 +32,4 @@ Download the entire program [here][6] or see highlights on Twitter by using the 
 [2]: /our-work/projects/tanzania-economic-strenghthening-households-affected-aids-imarisha
 [3]: /who-we-are/our-team/bill-grant
 [5]: /our-work/projects/east-africa-roads-healthy-future-program-roads-ii
-[6]: /assets/images/news/SG2013conferenceagendaselectpages.pdf
+[6]: https://assetify-dai.com/news/SG2013conferenceagendaselectpages.pdf

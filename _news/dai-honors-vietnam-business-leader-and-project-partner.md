@@ -32,4 +32,4 @@ The PCI is now solely managed by the VCCI through a USAID grant. According to Tu
 (Tuan is pictured with DAI's Dan Rathbun, the leader of the USAID Vietnam Support for Trade Acceleration Project (USAID/STAR Plus); Helle Weeke, DAI's General Counsel and former COP of USAID/VNCI; Jean Gilson, DAI's Senior Vice President, who opened USAID's mission in Hanoi when she worked for the agency; and Jim Winkler, DAI's Vice President of Solutions and former leader of the USAID/VNCI project.)
 
 [2]: http://dai-global-developments.com/doing-more-with-doing-business-vietnam-provincial-competitiveness-index/
-[3]: /assets/images/news/VCCIaward.jpg
+[3]: https://assetify-dai.com/news/VCCIaward.jpg

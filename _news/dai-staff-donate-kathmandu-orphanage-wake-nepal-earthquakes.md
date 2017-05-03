@@ -29,4 +29,4 @@ The orphanage was founded in October 2000 by D.R. Thulung, a former sherpa who n
 
 "The money you have donated will be in D.R.'s hands to use for the children," wrote Cari in a note to staff, "to assure they have shelter and the basic needs as the country rebuilds its infrastructure."
 
-[1]: /assets/images/news/Picture-of-the-Grace-Home-Orphanage-and-students.jpg
+[1]: https://assetify-dai.com/news/Picture-of-the-Grace-Home-Orphanage-and-students.jpg

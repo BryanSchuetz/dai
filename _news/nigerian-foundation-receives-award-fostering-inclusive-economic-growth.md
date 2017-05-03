@@ -26,6 +26,6 @@ The awards go to organizations that have contributed to the advancement of the N
 
 DAI has been [working with PIND][3] since late 2010 to develop its economic development program: assisting with overall strategy development, providing regional economic analysis and building analytical capacity within the PIND team, guiding it through value chain studies, and helping the PIND staff to design and implement their program activities. PIND's economic development program takes a systemic approach to inclusive economic development, combining the value chain and making markets work for the poor (M4P) methods.
 
-[1]: /assets/images/news/PINDaward.JPG
+[1]: https://assetify-dai.com/news/PINDaward.JPG
 [2]: http://pindfoundation.net/
 [3]: /our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind

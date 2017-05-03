@@ -31,7 +31,7 @@ The four winners were:
 
 "We are truly honored to have been chosen as a winner in the Innovation into Action Challenge and excited to begin working with DAI to expand the reach of MEDSINC in the field," said Dr. Barry Finette, founder and CEO of THINKmd. "This week alone has been incredibly informative for us, learning how major donor organizations work, seeing how we can best scale our projects, and networking with the other finalists."
 
-After the *Innovation into Action Challenge* was [announced](/news/dai-and-partners-launch-innovation-action-challenge) in January, a total of [296 applications](/assets/images/news/innovation_graphic.jpg) were submitted from 49 countries. Nine finalists travelled to Maryland for a week of mentoring from DAI technical experts, workshops on innovation and global development, and meetings with officials from the U.S. Agency for International Development (USAID).
+After the *Innovation into Action Challenge* was [announced](/news/dai-and-partners-launch-innovation-action-challenge) in January, a total of [296 applications](https://assetify-dai.com/news/innovation_graphic.jpg) were submitted from 49 countries. Nine finalists travelled to Maryland for a week of mentoring from DAI technical experts, workshops on innovation and global development, and meetings with officials from the U.S. Agency for International Development (USAID).
 
 The week concluded with the nine finalists presenting their innovations to a panel of judges at the historic Montgomery County Red Brick Courthouse in Rockville, Maryland. Judges selected winners based on the innovation's readiness for use, effectiveness and impact, sustainability, scalability, and manageability in the field.
 

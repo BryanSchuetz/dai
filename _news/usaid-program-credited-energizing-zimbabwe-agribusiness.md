@@ -50,5 +50,5 @@ Among other achievements, since launching in October 2010, Zim-ACP has:
 * Facilitated training in "Farming as a Family Business" for 11,274 enterprises covering all eight provinces.
 
 [1]: /our-work/projects/zimbabwe-agricultural-competitiveness-program
-[2]: /assets/images/news/Zim-ACP-1_2.jpg
+[2]: https://assetify-dai.com/news/Zim-ACP-1_2.jpg
 [3]: https://www.newsday.co.zw/2015/02/12/wharton-commends-zim-agric-programme/

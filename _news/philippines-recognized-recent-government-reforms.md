@@ -36,6 +36,6 @@ The dialogues provided a mechanism for the government to communicate directly wi
 FPI, which runs through 2018, promotes results-oriented budgeting and fiscal transparency, eliminating ineffective spending in favor of high-impact programs and public investment in infrastructure, education, technology, and other areas. FPI works in partnership with the Department of Finance, Bureau of Internal Revenue, Department of Budget Management, and Bureau of Customs.
 
 [1]: http://www.opengovpartnership.org/
-[2]: /assets/images/news/OGP.jpg
+[2]: https://assetify-dai.com/news/OGP.jpg
 [3]: /our-work/projects/philippines-facilitating-public-investment-fpi
 [4]: /who-we-are/our-team/alexander-kitain

@@ -23,5 +23,5 @@ SID was founded in Washington, D.C., in 1957 as a forum for development professi
 Jean was re-elected as Chair for Chapter Affairs at the local SID chapter [last October][3]. As the second-ranking officer of the SID-Washington board of directors, she leads efforts on membership recruitment, retention, and diversification, and helps guide the organization's strategic thinking.
 
 [1]: /who-we-are/leadership/jean-gilson
-[2]: /assets/images/news/SID_0.jpg
+[2]: https://assetify-dai.com/news/SID_0.jpg
 [3]: /news/dai%E2%80%99s-jean-gilson-re-elected-sid-washington-leadership-post

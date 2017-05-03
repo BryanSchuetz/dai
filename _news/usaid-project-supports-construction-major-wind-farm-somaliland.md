@@ -38,5 +38,5 @@ The association recently announced plans to invest in four to seven new wind far
 
 [1]: mailto:http://somalilandsun.com/index.php/component/content/article/5872-somaliland-president-launches-usaid-funded-wind-powered-electricity-supply-for-egal-airport-
 [2]: /our-work/projects/somalia-partnership-economic-growth-program
-[3]: /assets/images/news/WindFarmSomaliland.jpg
+[3]: https://assetify-dai.com/news/WindFarmSomaliland.jpg
 [4]: mailto:http://www.theguardian.com/global-development/2013/apr/15/somaliland-wind-power-sector

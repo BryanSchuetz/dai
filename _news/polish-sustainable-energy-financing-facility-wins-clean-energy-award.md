@@ -23,7 +23,7 @@ DAI and the EBRD recently launched the [Polish Residential Energy Efficiency Fin
 
 [1]: http://ceeenergyawards.com/
 [2]: /our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff
-[3]: /assets/images/news/PolSEFF_award.jpg
+[3]: https://assetify-dai.com/news/PolSEFF_award.jpg
 [4]: /our-work/projects/polish-residential-energy-efficiency-financing-facility-poland-reff
 [5]: /our-work/projects/morocco-sustainable-energy-financing-facility-morseff
 [6]: /our-work/projects/bulgaria-energy-efficiency-and-renewable-energy-credit-line-support-%E2%80%93-rational

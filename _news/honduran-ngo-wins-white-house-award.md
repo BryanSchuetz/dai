@@ -29,5 +29,5 @@ Jefry received a scholarship from OYE at age 14 and has participated in OYE's ar
 
 [1]: /who-we-are/leadership/maria-otero
 [2]: http://www.oyehonduras.org
-[3]: /assets/images/news/OYE_Obama.jpg "Pictured with First Lady Michele Obama are, (from left) Jefry Amaya, OYE scholar, Rocio Mendoza, OYE Executive Director, and Jorge Alberto Milla Reyes, Honduran Ambassador to the United States."
+[3]: https://assetify-dai.com/news/OYE_Obama.jpg "Pictured with First Lady Michele Obama are, (from left) Jefry Amaya, OYE scholar, Rocio Mendoza, OYE Executive Director, and Jorge Alberto Milla Reyes, Honduran Ambassador to the United States."
 [4]: /news-publications/news/dai-supports-honduran-youth-empowerment-group-donation

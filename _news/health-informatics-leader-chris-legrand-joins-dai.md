@@ -30,4 +30,4 @@ LeGrand is current board chairman of the Triangle Global Health Consortium and i
 Founded in 1970, DAI is a global development company with corporate offices in London and Washington, D.C. Named one of the world's top 40 international development innovators, DAI works on the frontlines of international development, tackling fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability.*
 
 [1]: /who-we-are/leadership/christopher-legrand
-[2]: /assets/images/news/ChristopherLegrandLeadership.jpg
+[2]: https://assetify-dai.com/news/ChristopherLegrandLeadership.jpg

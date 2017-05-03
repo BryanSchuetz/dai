@@ -28,5 +28,5 @@ In his role as senior advisor, Bruce will visit field sites, attend learning eve
 
 A former deputy leader of the Liberal Democrats, Bruce was first elected in 1983, winning his seat in seven consecutive general elections. He was named a Privy Councillor in 2006, knighted in the Queen's Jubilee Birthday Honours of 2012, and appointed to the House of Lords in this year's Dissolution Honours. He is a long-time advocate for the hearing impaired, and a former president of GLOBE International, an organisation of parliamentarians from more than 80 countries committed to implementing laws in pursuit of sustainable development.
 
-[1]: /assets/images/news/bruce.jpg
+[1]: https://assetify-dai.com/news/bruce.jpg
 [2]: /who-we-are/leadership/christopher-lockett

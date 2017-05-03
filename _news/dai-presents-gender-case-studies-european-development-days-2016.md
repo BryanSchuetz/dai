@@ -31,6 +31,6 @@ DAI also hosted a stand that showcased the DFID-funded Sierra Leone [Access to S
 [2]: /our-work/projects/mozambique-access-finance-programme-mafip
 [3]: /our-work/projects/pakistan-aawaz-voice-and-accountability-programme
 [4]: https://eudevdays.eu/sessions/gender-equality-gets-results
-[5]: /assets/images/news/EDD16.jpg
+[5]: https://assetify-dai.com/news/EDD16.jpg
 [6]: /our-work/projects/sierra-leone-access-security-and-justice-programme-asjp
 [7]: http://www.bbc.co.uk/mediaaction/where-we-work/africa/sierra-leone/womens-rights-radio-show

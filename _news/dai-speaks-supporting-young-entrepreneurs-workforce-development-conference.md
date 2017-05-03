@@ -32,6 +32,6 @@ The Global Youth Economic Opportunities Conference, expected to host more than 4
 Download the entire program [here][3] or follow highlights on Twitter by using the hashtag [#ImpactGlobalYouth][4].
 
 [1]: /who-we-are/board/marwan-juma
-[2]: /assets/images/news/LaraMarwan.jpg
+[2]: https://assetify-dai.com/news/LaraMarwan.jpg
 [3]: http://makingcents.bluetundra.com/sites/default/files/uploads/resource/GlobalYouthEcOppsConf2012.pdf
 [4]: https://twitter.com/i/#!/search/realtime/%23ImpactGlobalYouth

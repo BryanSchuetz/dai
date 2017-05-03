@@ -31,6 +31,6 @@ The award winners were invited to the biannual National Conference on Drinking W
 
 "The winners make us optimistic that there are always solutions for water and sanitation problems. Innovations are abound. Money does not become an issue. It's about mind-set, passion, and enthusiasm to find breakthroughs to boost water and sanitation development." said Nugroho Tri Utomo, the Head of National Working Group on Drinking Water and Sanitation, Indonesia.
 
-[1]: /assets/images/news/IUWASH1.jpg
+[1]: https://assetify-dai.com/news/IUWASH1.jpg
 [2]: /our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash
 [3]: /who-we-are/our-team/louis-obrien

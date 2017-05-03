@@ -29,5 +29,5 @@ Other panels during the two-day event examined "Making Markets Work for All," "I
 Since 1964, AIARD has represented agriculture and development professionals in both the United States and overseas, most of whom have extensive experience in developing countries. AIARD members offer vast experience and skills from a diverse community of universities, private voluntary organizations, commercial firms, trade associations, government and donor agencies, and foundations in the United States and overseas.
 
 [1]: /who-we-are/our-team/chuck-chopak
-[2]: /assets/images/news/Chopak.jpg
+[2]: https://assetify-dai.com/news/Chopak.jpg
 [3]: /who-we-are/leadership/james-boomgard

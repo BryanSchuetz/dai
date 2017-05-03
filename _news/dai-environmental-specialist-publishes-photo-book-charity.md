@@ -29,7 +29,7 @@ Nick continues his environmentally focused development work in the South Pacific
 
 "Haiti From Below" can be purchased through [reefcheck.org][4] and [imagineayiti.com][5].
 
-[1]: /assets/images/news/Haiti-From-Below-cover--copy.jpg
+[1]: https://assetify-dai.com/news/Haiti-From-Below-cover--copy.jpg
 [3]: /our-work/projects/south-pacific-islands-coastal-community-adaptation-project-c-cap
 [4]: http://reefcheck.org/store/detail.php?pid=578&cid=5
 [5]: http://imagineayiti.com/p897698999/h5196b1a0#h5196b1a0

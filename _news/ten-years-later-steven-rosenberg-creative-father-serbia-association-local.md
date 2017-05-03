@@ -99,6 +99,6 @@ _Steven Rosenberg is an attorney with 35 years of experience in municipal govern
 [2]: /news/ten-years-and-counting-serbia-local-economic-development-association-throws
 [3]: https://issuu.com/cordmagazines/docs/10_years_of_naled_celebrating_refor?e=9502342/40200503
 [4]: /our-work/projects/serbia%E2%80%94local-government-reform-program-slgrp
-[5]: /assets/images/news/DAI-NEWS----Serbia-NALED-Rosenberg_1.jpg
-[6]: /assets/images/news/DAI-News----Rosenberg-interview_0.jpg
-[7]: /assets/images/news/DAI-News----Rosenberg-interview-3.jpg
+[5]: https://assetify-dai.com/news/DAI-NEWS----Serbia-NALED-Rosenberg_1.jpg
+[6]: https://assetify-dai.com/news/DAI-News----Rosenberg-interview_0.jpg
+[7]: https://assetify-dai.com/news/DAI-News----Rosenberg-interview-3.jpg

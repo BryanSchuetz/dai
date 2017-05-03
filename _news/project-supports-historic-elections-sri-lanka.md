@@ -33,4 +33,4 @@ RISEN also used these voter education efforts to publicize and promote a paralle
 In response, RISEN organized mobile clinics that enabled the request, processing, and delivery of 21,225 new NICs (as well as thousands of birth certificates and other critical documents)—a number equivalent to roughly a quarter of all northern voters registered but without valid ID.
 
 [1]: /our-work/projects/sri-lanka-reintegration-and-stabilization-east-and-north-risen
-[2]: /assets/images/news/RISENnews.jpg
+[2]: https://assetify-dai.com/news/RISENnews.jpg

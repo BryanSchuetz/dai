@@ -23,6 +23,6 @@ In the article, Manning implores large companies to be more open to bonafide bla
 DAI's work with developing black suppliers in South Africa dates back to 1998 when the U.S. Agency for International Development hired DAI's South Africa team to implement the [South Africa International Business Linkages][4] program.
 
 [1]: http://www.businessday.co.za/articles/Content.aspx?id=173022
-[2]: /assets/images/news/Manning_Inner_0.jpg
+[2]: https://assetify-dai.com/news/Manning_Inner_0.jpg
 [3]: /news/eciafrica-organizing-business-council-promote-black-south-african-suppliers
 [4]: /our-work/projects/south-africa-international-business-linkages-ii-saibl-ii

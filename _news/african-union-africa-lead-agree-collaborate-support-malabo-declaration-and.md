@@ -29,5 +29,5 @@ Work to be performed under the agreement will focus on advancing the implementat
 
 AUC/DREA is a department within the African Union in Addis Ababa, Ethiopia, and is charged with the promotion of sustainable agricultural and rural development across the continent and improved food security for Africans. [Africa Lead II][2] is a five-year program of the U.S. Agency for International Development to support and advance agricultural transformation in Africa. Simultaneously, Africa Lead II contributes to the U.S. Feed the Future goals of reduced hunger and poverty by building the capacity of Champions—defined as men and women leaders in agriculture—to develop, lead, and manage the policies, structures, and processes needed for the transformation process.
 
-[1]: /assets/images/news/ALII-and-AUC-pic.jpg
+[1]: https://assetify-dai.com/news/ALII-and-AUC-pic.jpg
 [2]: /our-work/projects/africa-africa-lead-ii

@@ -41,4 +41,4 @@ In 2013, the bank implemented a corporate social responsibility policy to financ
 "The EBRD Sustainability Award 2014 for our bank is a great distinction," said Frederic Amoudru, CEO of BNP Paribas Bank Polska. "Small and medium enterprises constitute a key segment of clients for us as they generate nearly 50 percent of Polish GDP and employ a large part of the working population. Thanks to EBRD and the PolSEFF programme, we have been able to offer to our clients a solution that combines material energy savings with its corollary of production cost reduction and a contribution in the fight against climate change."
 
 [1]: /our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff
-[2]: /assets/images/news/EBRDawardPolSEFF.jpg
+[2]: https://assetify-dai.com/news/EBRDawardPolSEFF.jpg

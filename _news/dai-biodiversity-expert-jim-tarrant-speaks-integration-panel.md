@@ -29,6 +29,6 @@ DAI-led BRIDGE is engaged in researching and writing a number of case studies on
 
 [1]: /our-work/projects/worldwide-biodiversity-results-and-integrated-development-gains-enhanced-bridge
 [2]: https://www.wilsoncenter.org/event/building-case-for-integrated-development-identifying-and-answering-key-research-questions
-[3]: /assets/images/news/jim%20tarrant%20panel.jpg
+[3]: https://assetify-dai.com/news/jim%20tarrant%20panel.jpg
 [4]: /who-we-are/our-team/jim-tarrant
 [5]: https://www.usaid.gov/sites/default/files/documents/1865/USAID%20Biodiversity%20Policy%20-%20June%202015.pdf

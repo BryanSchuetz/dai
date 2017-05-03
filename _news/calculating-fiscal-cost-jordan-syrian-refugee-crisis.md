@@ -54,5 +54,5 @@ The number of refugees is expected to rise significantly by the end of 2014. On 
 
 [1]: /our-work/projects/jordan-fiscal-reform-project-ii-frp-ii
 [2]: https://www.dropbox.com/s/kq74hjhw15gxmkw/The%20Fiscal%20Impact%20of%20Syrian%20Refugees%20on%20GOJ.pdf
-[3]: /assets/images/news/Jordan-Refugees-1.jpg
+[3]: https://assetify-dai.com/news/Jordan-Refugees-1.jpg
 [4]: https://creativecommons.org/licenses/by/2.0/#

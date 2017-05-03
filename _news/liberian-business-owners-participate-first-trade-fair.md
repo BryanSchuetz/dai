@@ -38,4 +38,4 @@ On the second day of the conference, FED organized a two-hour breakout session, 
 President Sirleaf has high aspirations for a future trade fair. "By this time next year, when we hold the second MSME conference, I hope to hear that companies exhibiting here today have improved their products, found new customers, and grown their markets."
 
 [1]: /our-work/projects/liberia-food-and-enterprise-development-program-fed
-[2]: /assets/images/news/liberia_inside.jpg
+[2]: https://assetify-dai.com/news/liberia_inside.jpg

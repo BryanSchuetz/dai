@@ -31,7 +31,7 @@ Follow @DAIGlobal on Twitter for more about the [#LandRights][7] event.
 
 [1]: /our-work/solutions/environment-and-energy/land-tenure
 [2]: http://www.worldbank.org/en/events/2014/08/06/landconference2015
-[3]: /assets/images/news/WB.jpg
+[3]: https://assetify-dai.com/news/WB.jpg
 [4]: /who-we-are/our-team/richard-baldwin
 [5]: /our-work/projects/rwanda-support-land-tenure-regularisation
 [6]: /our-work/projects/ethiopia-land-investment-transformation-lift-0

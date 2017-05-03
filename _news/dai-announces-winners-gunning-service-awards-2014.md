@@ -30,9 +30,9 @@ This year the Gunning Award received 13 applications representing 15 nominees. E
 
 [1]: /who-we-are/our-team/alia-afshar-gandhi
 [2]: /news/dai-recognizes-two-employees-their-community-service
-[3]: /assets/images/news/Christel.jpg
+[3]: https://assetify-dai.com/news/Christel.jpg
 [4]: http://www.sscrc.org/
-[5]: /assets/images/news/Stretz.jpg
+[5]: https://assetify-dai.com/news/Stretz.jpg
 [6]: https://www.facebook.com/pages/My-Brothers-Keeper/382147121855404
 [7]: /our-work/projects/liberia-food-and-enterprise-development-program-fed
-[8]: /assets/images/news/AliaInner_2.jpg
+[8]: https://assetify-dai.com/news/AliaInner_2.jpg

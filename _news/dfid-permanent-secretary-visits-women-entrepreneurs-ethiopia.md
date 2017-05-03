@@ -30,4 +30,4 @@ The WEDP, co-funded by the World Bank and DFID, will enable microfinance institu
 "The WEDP project works closely with the microfinance partner institutions to ensure they have the capability and capacity to provide women like Yergalem access to individual, higher loan sizes," says Fran Toomey-Mys, who leads the WEDP team.  "Yergalem—with her current success and her aspirations to expand—is just the kind of woman we want to reach."
 
 [1]: /our-work/projects/ethiopia-private-enterprise-programme-ethiopia-pepe
-[2]: /assets/images/news/PEPEpic_0.jpg
+[2]: https://assetify-dai.com/news/PEPEpic_0.jpg

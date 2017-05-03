@@ -36,4 +36,4 @@ Through technical assistance from FED, the farmers committed to developing the s
 FED and Chevron have provided assistance ranging from improved cassava cuttings, vegetable seed varieties, land preparation support, and skills training. Site partner AEDE has provided mentoring, and organization and leadership strengthening. FED is introducing new skills and technology in agriculture such as the use of improved varieties, irrigation and water management, mechanization, better post-harvest handling and storage, and integrated soil fertility management to small and medium-sized farm operations. The program works to reduce hunger in Liberia and promote food security through increased agricultural productivity and profitability in rice, cassava, vegetables and goats value chains in six counties: Bong, Nimba, Lofa, Grand Bassa, Margibi, and Montserrado.
 
 [1]: /our-work/projects/liberia-food-and-enterprise-development-program-fed
-[2]: /assets/images/news/FEDnewspic.jpg
+[2]: https://assetify-dai.com/news/FEDnewspic.jpg

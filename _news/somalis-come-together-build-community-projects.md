@@ -41,4 +41,4 @@ This is the first phase of a wider USAID drive to support piracy-affected towns 
 "This celebration reminded me of when we had peace," said resident Hersi Ahmed at the event. "Piracy robbed us of our freedom, our businesses. This event shows us that we have combated piracy and reclaimed our independence."
 
 [1]: /our-work/projects/somalia-transition-initiatives-stabilization-tis
-[2]: /assets/images/news/Bandar-bayla-snapshot-photo1.jpg
+[2]: https://assetify-dai.com/news/Bandar-bayla-snapshot-photo1.jpg

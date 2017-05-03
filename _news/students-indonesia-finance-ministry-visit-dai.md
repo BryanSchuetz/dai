@@ -20,7 +20,7 @@ The visitors, who included analysts from Indonesia's Fiscal, Tax, Budget, and Ma
 
 [Eunice Heredia-Ortiz][3], a public finance economist for DAI, helped design the applied economics curriculum before joining DAI while she was a professor at Georgia State. Eunice led a discussion on [fiscal reform and public financial management][4], while DAI's [Allen Hollenbach][5] described DAI's [work in Indonesia][6] to improve access to clean water and sanitation services.
 
-[1]: /assets/images/news/IndonesianStudents.jpg
+[1]: https://assetify-dai.com/news/IndonesianStudents.jpg
 [2]: /uploads/indonesia.pdf
 [3]: /who-we-are/our-team/eunice-heredia-ortiz
 [4]: /our-work/solutions/fiscal-institutions

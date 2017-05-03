@@ -37,6 +37,6 @@ _Nyungwe Nziza_ is implemented in collaboration with SW Associates, a Washington
 For further information about the project, contact [Boaz Tumwesigye][4].
 
 [1]: /our-work/projects/rwanda-strengthening-sustainable-ecotourism-and-around-nyungwe-national-park
-[2]: /assets/images/news/Rwanda-018%28waterfall%29_0.jpg
+[2]: https://assetify-dai.com/news/Rwanda-018%28waterfall%29_0.jpg
 [3]: http://nyungwepark.com/
 [4]: /who-we-are/our-team/boaz-tumwesigye

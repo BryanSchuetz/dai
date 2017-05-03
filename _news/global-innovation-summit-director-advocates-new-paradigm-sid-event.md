@@ -21,7 +21,7 @@ Hwang, whose company produces the annual [Global Innovation Summit][2], most rec
 
 About 50 SID members, entrepreneurs, and venture capitalists attended the event, which was held at the [WeWork co-working office space][3] and organized by Seema Patel, co-chair of the working group and a senior development specialist in DAI's Economic Growth team. Patel is currently serving as Innovation and Partnership Advisor to the U.S. Agency for International Development's Center for Development Innovation at the [U.S. Global Development Lab][4],  which includes support to the [Grand Challenges for Development][5], [LAUNCH][6], and [Higher Education Solutions Network.][7]
 
-[1]: /assets/images/news/DAI-News----victor_hwang.jpg
+[1]: https://assetify-dai.com/news/DAI-News----victor_hwang.jpg
 [2]: http://www.innosummit.com/#global-innovation
 [3]: http://www.wework.com/location/chinatown/
 [4]: http://www.usaid.gov/GlobalDevLab/about

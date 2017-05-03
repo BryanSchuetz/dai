@@ -27,6 +27,6 @@ Returning to the Board alongside Boomgard are Indira Ahluwalia, President of dTS
 The CIDC acts as a platform for U.S. development companies to analyze development issues and promote high-level dialogue with the U.S. Agency for International Development; educate audiences on the role firms play in achieving accountable, transparent, and sustainable development results in support of U.S. national security, economic, and humanitarian goals overseas; and advocate on contracting, regulatory, legislative, business process, and business development issues. In 2013, the CIDC [hosted][4] a successful inaugural conference.
 
 [1]: /who-we-are/leadership/james-boomgard
-[2]: /assets/images/news/BoomgardCIDC_PSC.jpg
+[2]: https://assetify-dai.com/news/BoomgardCIDC_PSC.jpg
 [3]: http://www.cidc.us/
 [4]: /news/development-leaders-come-together-inaugural-cidc-conference

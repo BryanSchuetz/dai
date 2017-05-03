@@ -36,7 +36,7 @@ Gahaya Links' story illustrates the value of technical assistance that connects 
 
 Meet Nkubana at [EU Dev Days][5] or follow [#EDD13][6] on Twitter as we probe new innovations at the [EU Dev Days Lab on Gender.][7]
 
-[1]: /assets/images/news/JanetInner.jpg
+[1]: https://assetify-dai.com/news/JanetInner.jpg
 [2]: http://www.usaid.gov/who-we-are/organization/alex-thier
 [3]: /who-we-are/our-team/anne-simmons-benton
 [4]: /who-we-are/our-team/katja-silva-leander

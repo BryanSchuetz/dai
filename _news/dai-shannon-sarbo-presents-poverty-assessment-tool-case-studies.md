@@ -26,4 +26,4 @@ DAI Development Specialist Shannon Sarbo recently presented on poverty assessmen
 [1]: /our-work/projects/haiti-support-haiti-microfinance-small-and-medium-enterprises-sector-haiti-msme
 [2]: /our-work/projects/timor-leste-developing-agricultural-communitiesdesenvolve-agricultura-comunitaria
 [3]: /our-work/projects/cambodia-micro-small-and-medium-enterprises-strengthening-2-project-msme-1-and-2
-[4]: /assets/images/news/Sarbo.jpg
+[4]: https://assetify-dai.com/news/Sarbo.jpg

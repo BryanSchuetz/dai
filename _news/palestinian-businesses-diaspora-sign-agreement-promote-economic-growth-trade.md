@@ -32,4 +32,4 @@ PMDP is an initiative of the U.K. Department for International Development and E
 The Palestinian Business Forum-Britain is an independent nonprofit organization with more than 1,500 members worldwide. The forum aims to encourage the establishment of strategic projects that promote Palestinian economic growth and encourage the export of Palestinian products.
 
 [1]: /our-work/projects/palestinian-market-development-programme-pmdp
-[2]: /assets/images/news/DAI-News----PMDP.jpg
+[2]: https://assetify-dai.com/news/DAI-News----PMDP.jpg

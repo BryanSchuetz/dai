@@ -60,14 +60,14 @@ DAI's partners in the _Innovation into Action Challenge_ are USAID, the Global A
 [1]: /news/innovation-action-challenge-winners-chosen
 [2]: http://laboratoria.la/en
 [3]: /our-work/projects/usaid-el-salvador-puentes-para-el-empleo-bridges-employment-project
-[4]: /assets/images/news/DAI-News----Innov-update-Click-Medix.jpg
+[4]: https://assetify-dai.com/news/DAI-News----Innov-update-Click-Medix.jpg
 [5]: /who-we-are/our-team/bobby-jefferson
 [6]: http://clickmedix.com/
 [7]: /our-work/projects/jordan-competitiveness-program-jcp
 [8]: https://www.solarsister.org/
-[9]: /assets/images/news/DAI--News----Innov-pic-2.jpg
+[9]: https://assetify-dai.com/news/DAI--News----Innov-pic-2.jpg
 [10]: http://www.thinkmd.org/
 [11]: https://mavuno-harvest.myshopify.com/
 [12]: /who-we-are/our-team/don-humpal
-[13]: /assets/images/news/DAI-News----Innov-update-pic-3.jpg
+[13]: https://assetify-dai.com/news/DAI-News----Innov-update-pic-3.jpg
 [14]: http://www.speakagent.com/

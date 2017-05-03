@@ -41,6 +41,6 @@ In complement with the U.S.-Africa Leaders Summit, the [Africa Lead II][5] proje
 
 [1]: /who-we-are/our-team/mark-rostal
 [2]: /our-work/projects/kenya-financial-inclusion-rural-microenterprises-firm
-[3]: /assets/images/news/WinklerRostal.jpg
+[3]: https://assetify-dai.com/news/WinklerRostal.jpg
 [4]: /who-we-are/our-team/jim-packard-winkler
 [5]: /our-work/projects/africa-africa-lead-ii

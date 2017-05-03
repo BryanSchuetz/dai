@@ -33,6 +33,6 @@ Sixty-seven percent of DFID advisers rated the EoD service as Very Good or Excel
 At the annual DAI/IMC consortium meetings, subcontractors are encouraged to voice concerns and provide feedback. The consortium has delivered a stable and well-used group of responsive subcontractors, many of whom have gone on to play important technical and managerial roles in local DFID-supported programmes worldwide.
 
 [1]: /our-work/projects/worldwide-evidence-demand-core-services
-[2]: /assets/images/news/DFID-DAI-pic_0.jpg
+[2]: https://assetify-dai.com/news/DFID-DAI-pic_0.jpg
 [3]: /who-we-are/our-team/cathy-shaw
 [4]: http://www.evidenceondemand.info/consultancy-services

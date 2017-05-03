@@ -26,5 +26,5 @@ Betsey holds an M.B.A. in finance with distinction from the Wharton School at th
 
 [1]: /who-we-are/board/elizabeth-nelson
 [2]: /news/dai-welcomes-new-board-members-bids-farewell-longtime-directors
-[3]: /assets/images/news/elizabeth-nelson-board-memberNEWS.jpg
+[3]: https://assetify-dai.com/news/elizabeth-nelson-board-memberNEWS.jpg
 [4]: /who-we-are/history

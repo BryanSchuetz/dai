@@ -26,6 +26,6 @@ The foundation, established by Linda's parents, John and Lorna Norgrove, especia
 
 [Learn more][2] about the life of Norgrove and events celebrating her legacy.
 
-[1]: /assets/images/news/GroupShot.jpg
+[1]: https://assetify-dai.com/news/GroupShot.jpg
 [2]: http://www.lindanorgrovefoundation.org/
 [3]: /news/dai-mourns-loss-friend-and-colleague-linda-norgrove

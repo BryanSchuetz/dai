@@ -32,5 +32,5 @@ The SASDC's Annual Synergy Conference is a two-day event where participants deep
 
 DAI's work with black suppliers in South Africa dates back to 1998 when the U.S. Agency for International Development hired DAI's South Africa team to implement the [South Africa International Business Linkages][3] (SAIBL) program.
 
-[1]: /assets/images/news/Manning.jpg
+[1]: https://assetify-dai.com/news/Manning.jpg
 [3]: /our-work/projects/south-africa-international-business-linkages-ii-saibl-ii

@@ -36,5 +36,5 @@ Like its predecessor surveys, the PCI 2012 provides insight into governance area
 
 In his remarks, Ambassador Shear said, "The PCI continues to contribute to economic governance and the ease of doing business in Vietnam. I am confident this year's report will foster new commitments by provincial and national authorities to improving economic governance for the benefit of all the people of Vietnam."
 
-[1]: /assets/images/news/PCI-Launch.jpg
+[1]: https://assetify-dai.com/news/PCI-Launch.jpg
 [2]: /our-work/projects/vietnam-competitiveness-initiative-vnci

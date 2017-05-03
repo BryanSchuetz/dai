@@ -44,4 +44,4 @@ Jordan Customs operates 35 major and minor customs centers—including clearance
 
 [1]: /our-work/projects/jordan-fiscal-reform-project-ii-and-bridge-activity-frp-ii-frp-bridge
 [2]: /who-we-are/our-team/roberto-toso
-[3]: /assets/images/news/jordan-training.jpg
+[3]: https://assetify-dai.com/news/jordan-training.jpg

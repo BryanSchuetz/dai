@@ -36,5 +36,5 @@ In her current role, Flouran continues to advance the cause of women, ensuring t
 Thanks in part to her efforts, the ACE project has lent more than $1 million to women-owned enterprises.  "As a result of her hard work, dedication and commitment to make of Afghanistan a better place, Flouran has helped change the lives of over 30,000 Afghan women and girls—an achievement that very few development practitioners would be able to match," said Dr. Ghazanfar, in her speech.
 
 [1]: /our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace
-[2]: /assets/images/news/flouran_inner.jpg
+[2]: https://assetify-dai.com/news/flouran_inner.jpg
 [3]: /our-work/projects/afghanistan-alternative-development-program-eastern-region-adpe

@@ -18,7 +18,7 @@ U.S. Secretary of State Hillary Clinton last week praised a community-managed da
 
 "For the past decade, the United States has been supporting Malawi's dairy sector, including this center," Clinton said during a stop at the Lumbadzi Milk Bulking Group. "And thanks to your work and the support we have given you, Malawi's milk production has increased 500 percent. Thousands of farmers have benefited."
 
-![](/assets/images/news/Clinton_Inner.jpg)
+![](https://assetify-dai.com/news/Clinton_Inner.jpg)
 
 The Lumbadzi center—supported by the Malawi Milk Producers Association (MMPA)—is being upgraded and strengthened further through the recently launched Feed the Future's [Integrating Nutrition in Value Chains project](https://www.dai.com/our-work/projects/malawi-integrating-nutrition-value-chains), a three-year effort implemented by DAI and funded by the U.S. Agency for International Development (USAID). As part of her visit, Clinton donated Emanuel, a purebred dairy bull to contribute to the community's dairy cattle breeding program.
 

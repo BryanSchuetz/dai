@@ -37,5 +37,5 @@ Kosmos Energy is a leading independent oil and gas exploration and production co
 
 [1]: http://www.kosmosenergy.com
 [2]: http://www.kosmosinnovationcenter.com
-[3]: /assets/images/news/2.jpg
+[3]: https://assetify-dai.com/news/2.jpg
 [4]: /who-we-are/our-team/zach-kaplan

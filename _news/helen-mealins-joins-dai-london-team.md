@@ -28,5 +28,5 @@ Between 2004 and 2008 Helen was based in London, supporting the DFID Management 
 
 Helen has a strong record of working across organizational boundaries and at the highest political levels to support partner governments, the voluntary sector, and private sector organizations meet their poverty reduction goals and institutional development objectives. Her technical expertise includes public sector and civil service reform, public financial management, organizational development, and African regional economic integration.
 
-[1]: /assets/images/news/HelenMealins_0.JPG
+[1]: https://assetify-dai.com/news/HelenMealins_0.JPG
 [2]: http://localhost:3000/who-we-are/global-reach/the-united-kingdom

@@ -35,7 +35,7 @@ DAI would like to acknowledge the professional contributions of [ButcherJoseph &
 
 [1]: http://www.globalequity.org/geo/Boston2016
 [2]: /who-we-are/leadership/laura-viehmyer
-[3]: /assets/images/news/award.jpg
+[3]: https://assetify-dai.com/news/award.jpg
 [4]: /who-we-are/leadership/james-boomgard
 [5]: http://www.butcherjoseph.com/
 [6]: https://www.globalshares.com/

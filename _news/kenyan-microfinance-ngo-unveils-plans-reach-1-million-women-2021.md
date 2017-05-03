@@ -36,6 +36,6 @@ Given the successful partnership with FIRM, JOYWO asked the project team for add
 JOYWO today has more than 182,500 members, with $23.5 million in its revolving loan fund and a presence in 45 out Kenya's 47 counties. The organization's livelihood programs have also empowered women with information on modern agriculture, entrepreneurial skills, clean energy, and affordable housing.
 
 [1]: /our-work/projects/kenya-financial-inclusion-rural-microenterprises-firm
-[2]: /assets/images/news/JoyWo.jpg
+[2]: https://assetify-dai.com/news/JoyWo.jpg
 [3]: https://joywo.org/
 [4]: /who-we-are/our-team/mark-rostal

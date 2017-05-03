@@ -22,6 +22,6 @@ Since its launch in 2014, the Hub's investment unit has supported the close of m
 Mutooni's appointment at the Global Innovation Fund deepens DAI's commitment to promoting and applying innovation for development, most recently demonstrated through the [Innovation into Action Challenge][3] and DAI's support of USAID's [Center for Development Innovation][4].
 
 [1]: /our-work/projects/east-africa-trade-and-investment-hub-tih
-[2]: /assets/images/news/Kanini-Mutooni-mug.jpg
+[2]: https://assetify-dai.com/news/Kanini-Mutooni-mug.jpg
 [3]: http://dai.com/news-publications/news/innovation-action-challenge-winners-chosen
 [4]: http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services

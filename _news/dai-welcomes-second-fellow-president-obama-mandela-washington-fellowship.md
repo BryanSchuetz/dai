@@ -28,5 +28,5 @@ The YALI program has had a tremendous effect on Alueshima's long-term career amb
 Last year, DAI [hosted][3] a YALI fellow from Sierra Leone, Zainab Conteh, who assisted with several areas including monitoring and evaluation.
 
 [1]: https://youngafricanleaders.state.gov/washington-fellowship/
-[2]: /assets/images/news/Alu.jpg
+[2]: https://assetify-dai.com/news/Alu.jpg
 [3]: /news/dai-hosts-fellow-president-obama%E2%80%99s-mandela-washington-fellowship

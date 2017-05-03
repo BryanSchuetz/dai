@@ -31,5 +31,5 @@ In recognition of these problems, city officials prioritized improving condition
 
 For his part, the Mayor of Surakarta, FX Hadi Rudyatmo, was also appreciative. "Before Kampung Semanggi, this community had very unhealthy conditions, but due to everyone's efforts, we can see how the situation has greatly improved. We thank USAID/IUWASH for its support in this program, as well as many others. The city and USAID/IUWASH continue to implement other programs such as optimizing the wastewater treatment plant, developing regular desludging system, and assisting in improving the performance of the PDAM. Through these and other efforts, we look forward to Surakarta becoming the first "Sanitation City" in Indonesia."
 
-[1]: /assets/images/news/AmboBlakeNEWS.jpg
+[1]: https://assetify-dai.com/news/AmboBlakeNEWS.jpg
 [2]: /our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash

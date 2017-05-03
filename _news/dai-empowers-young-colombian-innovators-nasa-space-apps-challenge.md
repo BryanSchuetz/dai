@@ -37,9 +37,9 @@ DAI Board Member [Maria Otero][9] was recently in Colombia to take part in the F
 [2]: http://www.javeriana.edu.co/vicerrectoria-academica/atico
 [3]: https://www.youtube.com/watch?list=PLoRLK-0MlLuN4Tx_UL1u6L7V7GffIhI4K&v=JoSdx8wng0g
 [4]: https://2016.spaceappschallenge.org/locations/bogota-colombia
-[5]: /assets/images/news/Space%20Apps%20Bogota%CC%81-11V.jpg
+[5]: https://assetify-dai.com/news/Space%20Apps%20Bogota%CC%81-11V.jpg
 [6]: /who-we-are/our-team/noemi-danao-schroeder
 [7]:/our-work/projects/usaid-central-america-regional-climate-change-program-rccp-programa-regional-de
 [8]: /news/space-apps-challenge-seeks-solutions-adaptation-climate-change
 [9]: /who-we-are/board/maria-otero
-[10]: /assets/images/news/Space%20Apps%20Bogota%CC%81-12v.jpg
+[10]: https://assetify-dai.com/news/Space%20Apps%20Bogota%CC%81-12v.jpg

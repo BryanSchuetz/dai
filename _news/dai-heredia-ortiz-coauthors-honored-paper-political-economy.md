@@ -24,6 +24,6 @@ Using a new dataset of subnational political institutions for 148 countries over
 Heredia-Ortiz, a [public finance][5] economist at DAI, coauthored the paper with Jorge Martinez-Vazquez and Charles R. Hankla of Georgia State University and Raúl A. Ponce-Rodriguez of the Universidad Autónoma de Ciudad Juárez. In acknowledging a global trend toward decentralization, the study provides greater understanding of the appropriate political conditions of subnational governance necessary to achieve greater impact to the everyday lives of citizens, and important implications to best assist countries with centralized power structures that wish to decentralize.
 
 [1]: /who-we-are/our-team/eunice-heredia-ortiz
-[2]: /assets/images/news/Eunice.jpg
+[2]: https://assetify-dai.com/news/Eunice.jpg
 [4]: /our-work/solutions/governance
 [5]: /our-work/solutions/governance/public-financial-management

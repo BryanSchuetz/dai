@@ -27,4 +27,4 @@ In prepared remarks, Prime Minister Zeidan and Foreign Minister Abdel Aziz descr
 Both leaders pledged to remove impediments to foreign investment. In addition to meeting with business leaders, the Prime Minister also met with President Barack Obama, Secretary of State John Kerry, Defense Secretary Chuck Hagel, and Members of Congress.
 
 [1]: /who-we-are/leadership/james-boomgard
-[2]: /assets/images/news/libyaInside.jpg
+[2]: https://assetify-dai.com/news/libyaInside.jpg

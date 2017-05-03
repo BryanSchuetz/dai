@@ -40,4 +40,4 @@ Kenya President Uhuru Muigai Kenyatta signed the amendment in September; it beco
 
 [1]:/our-work/projects/east-africa-trade-and-investment-hub
 [2]: /who-we-are/our-team/juan-estrada-valle
-[3]: /assets/images/news/DAI-News----EATIH-Foreign-Investment.jpg
+[3]: https://assetify-dai.com/news/DAI-News----EATIH-Foreign-Investment.jpg

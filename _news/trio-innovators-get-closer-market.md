@@ -45,7 +45,7 @@ Transmit allows government and grassroots leaders to enter complaints made by ci
 The Transit tool is one of a series of pilots developed by DI and its Cambodia-based partners to test whether digital innovations can improve the reach and efficiency of their organizations.
 
 [1]: https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai
-[2]: /assets/images/news/DAI-News----Innov-pic_0.jpg
+[2]: https://assetify-dai.com/news/DAI-News----Innov-pic_0.jpg
 [3]: https://www.facebook.com/AJASciTec/videos/vb.299647583563486/484398485088394/?type=2&theater
 [4]: /our-work/projects/jordan-competitiveness-program-jcp
 [5]: https://www.facebook.com/1419165588314916/photos/pb.1419165588314916.-2207520000.1455805569./1712857245612414/?type=3&theater

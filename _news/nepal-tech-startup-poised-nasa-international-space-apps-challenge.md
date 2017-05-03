@@ -46,7 +46,7 @@ This type of innovative thinking is typical at the International Space Apps Chal
 
 This year's event promises to generate many more terrific and original ideas. Follow the action [here][11] or via [Twitter][12] and [Facebook][13]. For more information, contact Stacy Whittle at stacy_whittle@dai.com.
 
-[1]: /assets/images/news/nepal-inner.jpg
+[1]: https://assetify-dai.com/news/nepal-inner.jpg
 [2]: http://www.younginnovations.com.np/
 [3]: http://www.nasa.gov/mission_pages/servir/index.html
 [4]: http://www.icimod.org

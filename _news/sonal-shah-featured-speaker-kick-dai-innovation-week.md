@@ -34,7 +34,7 @@ The finalists will present to a panel of judges, including: Dave Ferguson, Direc
 
 Follow news throughout Innovation Week via DAI's [Twitter][8] using the #DAInnovate hashtag and on [Facebook][9].
 
-[1]: /assets/images/news/Shah.jpg
+[1]: https://assetify-dai.com/news/Shah.jpg
 [2]: https://www.facebook.com/media/set/?set=a.10152691322925797.1073741881.70185985796&type=3
 [3]: /our-work/projects/south-pacific-islands-coastal-community-adaptation-project-c-cap
 [4]: /our-work/projects/pakistan-education-voice-and-accountability-fund

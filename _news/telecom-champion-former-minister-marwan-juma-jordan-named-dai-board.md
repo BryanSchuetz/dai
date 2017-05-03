@@ -29,6 +29,6 @@ Juma is former Chairman of the local chapter of the Young Arab Leaders Organizat
 
 A longtime advocate for the establishment of a world-class telecom infrastructure in Jordan, Juma is a supporter of increased private-public partnerships to accelerate the country's modernization and economic development. He holds an M.B.A. from North Carolina State University in the United States as well as bachelor's degrees in business management and economics.
 
-[1]: /assets/images/news/Juma.jpg
+[1]: https://assetify-dai.com/news/Juma.jpg
 [2]: /who-we-are/board/marwan-juma
 [3]: /who-we-are/leadership/james-boomgard

@@ -25,4 +25,4 @@ In February 2013, the NLP was approved by the Uganda Cabinet, marking the end of
 
 In support of the NLP, an implementation action plan was developed, prioritizing various actions needed to prepare for the countrywide adoption of the NLP. As part of this plan, a DAI-led study was carried out to assess the capacity of the land institutions in Uganda to implement the NLP. Under a European Commission contract, DAI identified gaps and made recommendations on how to improve land governance and strengthen land institutions.
 
-[1]: /assets/images/news/uganda.jpg
+[1]: https://assetify-dai.com/news/uganda.jpg

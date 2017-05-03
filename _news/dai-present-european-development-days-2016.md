@@ -27,7 +27,7 @@ Our stand in the EDD Village presents our work on the DFID Access to Security an
 
 More information is available at [www.eudevdays.eu][5]. You can also follow [@EuropeAid][6] on Twitter (tweet with the #EDD16 hashtag). We will be tweeting at the event from [@DAIGlobal][7].
 
-[1]: /assets/images/news/logo-EC-EDD-2016%20copy.png
+[1]: https://assetify-dai.com/news/logo-EC-EDD-2016%20copy.png
 [2]: /our-work/projects/sierra-leone-access-security-and-justice-programme-asjp
 [3]: /our-work/projects/pakistan-aawaz-voice-and-accountability-programme
 [4]: /our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund

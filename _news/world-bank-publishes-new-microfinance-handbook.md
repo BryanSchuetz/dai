@@ -34,5 +34,5 @@ Ledgerwood will join DAI from the Aga Khan Foundation, where she leads access to
 
 [1]: /who-we-are/our-team/joanna-ledgerwood
 [2]: /our-work/solutions/economic-growth/financial-services
-[3]: /assets/images/news/mfHandbookCover.jpg
+[3]: https://assetify-dai.com/news/mfHandbookCover.jpg
 [4]: http://publications.worldbank.org/index.php?main_page=product_info&cPath=0&products_id=24269&cid=EXT_WBPubsAlerts_P_EXT

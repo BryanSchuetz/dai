@@ -27,7 +27,7 @@ Attendees from DAI included President and CEO [James Boomgard][3] and Senior Vic
 DAI also joined USAID's "tweet brigade" and supported other social media. Featured booth presenters included former [Tunisia Transition Initiative][6] Chief of Party Michele Piercey, who discussed "artivism" in Tunisia and Business Systems Analyst Neil Enet who discussed an innovative real-time grants management mobile application in [Southern and Eastern Africa][7].
 
 [1]: http://www.usaid.gov/frontiers
-[2]: /assets/images/news/fronteirs.jpg
+[2]: https://assetify-dai.com/news/fronteirs.jpg
 [3]: /who-we-are/leadership/james-boomgard
 [4]: /who-we-are/leadership/jean-gilson
 [5]: /who-we-are/leadership/zan-northrip

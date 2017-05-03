@@ -33,6 +33,6 @@ Participants will also explore crosscutting issues such as finance, trade, polic
 The event will be held at the Hilton Metropole. Follow DAI's [Twitter][3] and [Facebook][4] feeds for updates.
 
 [1]: /who-we-are/our-team/bill-grant
-[2]: /assets/images/news/preview.jpg
+[2]: https://assetify-dai.com/news/preview.jpg
 [3]: https://twitter.com/DAIGlobal
 [4]: https://www.facebook.com/DAIGlobal

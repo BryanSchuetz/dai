@@ -35,5 +35,5 @@ In the fall of 2014, the first students will be accepted into AUM's four-year un
 
 [1]: http://aum.edu.mn/
 [2]: /who-we-are/leadership/james-boomgard
-[3]: /assets/images/news/morrow.jpg
+[3]: https://assetify-dai.com/news/morrow.jpg
 [4]: /our-work/projects/mongolia-khan-bank-bank-management-support

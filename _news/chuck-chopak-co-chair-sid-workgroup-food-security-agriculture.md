@@ -27,4 +27,4 @@ This research set the stage for a career committed to alleviating poverty and hu
 In that year, Chopak joined DAI's Agriculture and Food Security team, where among other assignments he was asked to lead external evaluations of various World Food Programme country portfolios. From 2013, he has served as the Technical Area Manager for DAI's Agriculture Production and Food Security practice, providing technical and managerial leadership to the firm's portfolio. Before becoming the Vice President of Technical Services, which provides technical expertise and leadership to DAI projects across all of the company's technical sectors, he managed DAI's Africa Region.
 
 [1]: /who-we-are/our-team/chuck-chopak
-[2]: /assets/images/news/ChopakChuck_0.jpg
+[2]: https://assetify-dai.com/news/ChopakChuck_0.jpg

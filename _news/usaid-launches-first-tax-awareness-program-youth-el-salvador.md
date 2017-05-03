@@ -36,4 +36,4 @@ Partners of the initiative include the Fiscal Education Unit of the General Dire
 The FPEMP team has assisted the implementation of this initiative by supporting the development of curricula and materials, installation and furnishing of the facilities, establishment of a computer lab, and purchase of state of the art video and audio equipment. The Ministry of Education will co-participate in the operations.  
 
 [1]: /our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp
-[2]: /assets/images/news/ExpresatePic.jpg
+[2]: https://assetify-dai.com/news/ExpresatePic.jpg
