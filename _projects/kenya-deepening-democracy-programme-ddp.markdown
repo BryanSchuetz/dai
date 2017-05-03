@@ -21,7 +21,7 @@ Despite significant economic growth in recent years, Kenya continues to rank low
 
 The Kenya Deepening Democracy Programme (DDP), funded by the U.K. Department for International Development (DFID) will promote more inclusive governance in Kenya by improving electoral processes and enhancing government accountability. DDP will build upon governance reforms previously accomplished through DFID’s [Drivers of Accountability Programme](https://www.dai.com/our-work/projects/kenya-drivers-accountability-programme-dap) to increase the credibility of elections and transparency of public service delivery, and contribute to the achievement of Kenya’s Vision 2030 for “a more globally competitive and prosperous nation with a high quality of life.”
 
-![Kenya_DDP_image_web.jpg](/uploads/Kenya_DDP_image_web.jpg)
+![Kenya_DDP_image_web-ec3df3.jpg](/uploads/Kenya_DDP_image_web-ec3df3.jpg)
 
 **Sample Activities**
 
