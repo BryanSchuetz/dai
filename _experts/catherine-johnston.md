@@ -8,7 +8,7 @@ summary: Catherine Johnston is a private sector development specialist who for 1
   to support economic growth driven by and benefiting micro, small, and medium-sized
   enterprises.
 job-title: Chief of Party, Timor-Leste Dezenvolve Agricultura Communitária
-image: "https://assetify-dai.com/experts/JohnsonC_Inner_0.jpg"
+image: https://assetify-dai.com/experts/JohnsonC_Inner_0.jpg
 solutions:
 - Economic Growth
 regions:

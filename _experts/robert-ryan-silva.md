@@ -10,7 +10,7 @@ summary: Robert Ryan-Silva has been with DAI since 2002, when he joined the firm
 job-title: 'Global Practice Specialist, Governance, and Director, DAI Maker Lab
 
 '
-image: "https://assetify-dai.com/experts/RyanSilvaInner.jpg"
+image: https://assetify-dai.com/experts/RyanSilvaInner.jpg
 solutions:
 - Health
 - Digital

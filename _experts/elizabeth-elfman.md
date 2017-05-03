@@ -6,7 +6,7 @@ regions:
 solutions:
 - Health
 layout: expert
-image: "https://assetify-dai.com/experts/Elizabeth%20Elfman%20inner.jpg"
+image: https://assetify-dai.com/experts/Elizabeth%20Elfman%20inner.jpg
 summary: Elizabeth Elfman, a health specialist, began her career in Massachusetts
   working to accelerate health care delivery. Seven years later she has accrued a
   vast array of experience working and studying health systems.

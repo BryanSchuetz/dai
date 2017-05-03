@@ -6,7 +6,7 @@ summary: From her early research in cultural anthropology to subsequent work in 
   consulting, Krista Baptista has always been engaged around ways to do things better
   and empower entrepreneurs to use new skills and tools.
 job-title: Director, ICT
-image: "https://assetify-dai.com/experts/BaptistaInner1.jpg"
+image: https://assetify-dai.com/experts/BaptistaInner1.jpg
 solutions:
 - Economic Growth
 - Digital

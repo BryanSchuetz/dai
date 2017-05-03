@@ -8,7 +8,7 @@ summary: Bruce Spake has worked in various leadership roles, including as Vice P
   in the emerging Stability Operations field with the Department of Defense and in
   Crisis Mitigation and Recovery projects with USAID and other donors.
 job-title: Regional Managing Director, Middle East and Afghanistan
-image: "https://assetify-dai.com/experts/Spake_Inner%20%281%29.jpg"
+image: https://assetify-dai.com/experts/Spake_Inner%20%281%29.jpg
 solutions:
 - Economic Growth
 - Public Financial Management

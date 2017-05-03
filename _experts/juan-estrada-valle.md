@@ -6,7 +6,7 @@ summary: 'Juan Estrada-Valle has more than 20 years of experience in agriculture
   value chain development, and market-based strategies for economic development in
   conflict-affected environments. '
 job-title: Chief of Party, East Africa Trade and Investment Hub
-image: "https://assetify-dai.com/experts/Estrada_Inner.jpg"
+image: https://assetify-dai.com/experts/Estrada_Inner.jpg
 solutions:
 - Economic Growth
 regions:

@@ -7,7 +7,7 @@ regions:
 solutions:
 - Corporate Sustainability
 layout: expert
-image: "https://assetify-dai.com/experts/dipika.jpg"
+image: https://assetify-dai.com/experts/dipika.jpg
 summary: 'As part of the Energy and Resources Group, Dipika Chawla leads the communications
   strategy, designs technical service offerings, performs market intelligence on extractive
   industries in developing countries, and conducts new business efforts.

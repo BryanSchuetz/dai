@@ -9,7 +9,7 @@ solutions:
 - Fragile States
 - Peace-Building and Political Transition
 layout: expert
-image: "https://assetify-dai.com/experts/Mosharraf-Inner.jpg"
+image: https://assetify-dai.com/experts/Mosharraf-Inner.jpg
 summary: Mosharraf Zaidi is the Team Leader for the Transforming Education in Pakistan
   programme and Campaign Director for _Alif Ailaan_, a political campaign to help
   end Pakistan's education crisis.

@@ -7,7 +7,7 @@ summary: After graduating from Georgetown University's McDonough Business School
   with the Peace Corps rather than the well-heeled path of Wall Street and corporate
   America that most of his classmates followed.
 job-title: Senior Trade and Investment Advisor
-image: "https://assetify-dai.com/experts/Winkler_Inner.jpg"
+image: https://assetify-dai.com/experts/Winkler_Inner.jpg
 solutions:
 - Governance
 regions:

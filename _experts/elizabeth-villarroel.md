@@ -6,7 +6,7 @@ summary: Elizabeth Villarroel has 13 years of programmatic and operations experi
   in designing, managing, monitoring, and assessing programs in conflict and post-conflict
   environments.
 job-title: Director, Stable Governance, Asia
-image: "https://assetify-dai.com/experts/ElizabethVInner.jpg"
+image: https://assetify-dai.com/experts/ElizabethVInner.jpg
 solutions:
 - Fragile States
 - Stabilization

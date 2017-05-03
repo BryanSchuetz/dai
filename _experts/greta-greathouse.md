@@ -7,7 +7,7 @@ summary: 'Greta Greathouse has more than 35 years of experience innovating emerg
 
 '
 job-title: 'Chief of Party, Agricultural Credit Enhancement (ACE II) '
-image: "https://assetify-dai.com/experts/GretaInner.jpg"
+image: https://assetify-dai.com/experts/GretaInner.jpg
 solutions:
 - Economic Growth
 - Financial Services

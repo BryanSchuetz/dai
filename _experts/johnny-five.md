@@ -8,7 +8,7 @@ regions:
 solutions:
 - 
 layout: expert
-image: ""
+image: ''
 summary: 
 job-title: 
 articles:

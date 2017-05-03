@@ -6,7 +6,7 @@ summary: 'As a seasoned proposal writer, technical specialist, and Chief of Part
   Ben Rinehart brings significant depth of experience in providing strategic direction
   to program design, implementation and monitoring and evaluation '
 job-title: Development Specialist, Food Security & Livelihoods
-image: "https://assetify-dai.com/experts/Ben.jpg"
+image: https://assetify-dai.com/experts/Ben.jpg
 solutions:
 - Agriculture and Food Security
 - Economic Growth

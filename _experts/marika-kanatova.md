@@ -9,7 +9,7 @@ solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management
 layout: expert
-image: "https://assetify-dai.com/experts/MarikaKanatova_L1_INNER.jpg"
+image: https://assetify-dai.com/experts/MarikaKanatova_L1_INNER.jpg
 summary: Marika Kanatova is the director responsible for bids for the European Commission
   (EC), Australian Department of Foreign Affairs and Trade (formerly AusAID), New
   Zealand Ministry of Foreign Affairs and Trade (formerly NZ Aid), and other donors.

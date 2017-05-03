@@ -6,7 +6,7 @@ regions:
 solutions:
 - Digital
 layout: expert
-image: "https://assetify-dai.com/experts/Karim%20Inner.jpg"
+image: https://assetify-dai.com/experts/Karim%20Inner.jpg
 summary: Karim Bin-Humam joined DAI in 2015 to help bridge the divide between cutting-edge
   technology and the needs of poor and vulnerable communities globally. Karim studied
   mechanical engineering in the United States and Germany and worked as an engineering

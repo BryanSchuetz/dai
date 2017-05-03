@@ -7,7 +7,7 @@ summary: Bill Grant has played an important role in the development and applicat
   applying the [Making Markets Work for the Poor](http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html)
   approach for private and international donors.
 job-title: Global Practice Lead, Market Systems Development
-image: "https://assetify-dai.com/experts/innerbill.jpg"
+image: https://assetify-dai.com/experts/innerbill.jpg
 solutions:
 - Market Insight and Development
 - Economic Growth

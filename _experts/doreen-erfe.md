@@ -8,9 +8,12 @@ solutions:
 - Environment and Energy
 - Natural Resource Management
 layout: expert
-image: "https://assetify-dai.com/experts/doreen-erfe.jpg"
-summary: |
-  Doreen Erfe joined the U.S. Agency for International Development (USAID)-funded Philippine Water Revolving Fund Support Program in 2008 as Senior Policy and Institutional Development Specialist.
+image: https://assetify-dai.com/experts/doreen-erfe.jpg
+summary: 'Doreen Erfe joined the U.S. Agency for International Development (USAID)-funded
+  Philippine Water Revolving Fund Support Program in 2008 as Senior Policy and Institutional
+  Development Specialist.
+
+'
 job-title: Senior Policy Development Specialist
 ---
 

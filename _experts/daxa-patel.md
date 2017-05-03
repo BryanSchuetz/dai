@@ -9,7 +9,7 @@ regions:
 solutions:
 - Economic Growth
 layout: expert
-image: "https://assetify-dai.com/experts/DaxaPatel%20INNER.jpg"
+image: https://assetify-dai.com/experts/DaxaPatel%20INNER.jpg
 summary: 'Daxa Patel has 18 years of multi-country, multimillion-pound project delivery
   experience. Daxa has built and led large multicultural teams in Africa, Asia, Europe,
   and Russia and provided troubleshooting, mentoring support, and expertise to achieve

@@ -8,7 +8,7 @@ summary: He joined the DAI-led Liberia Community Infrastructure Project in 2005 
   systems and monitoring and evaluation, and a manager of DAI's work in Liberia for
   the United States Agency for International Development.
 job-title: Deputy Chief of Party, Liberia Food and Enterprise Development
-image: "https://assetify-dai.com/experts/BoimaInner.jpg"
+image: https://assetify-dai.com/experts/BoimaInner.jpg
 solutions:
 - Agriculture and Food Security
 - Economic Growth

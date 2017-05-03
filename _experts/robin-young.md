@@ -6,7 +6,7 @@ summary: Robin Young brings together two decades of experience in micro and smal
   enterprise finance with value chain and enterprise development to design and implement
   innovative and effect private sector approaches to address development challenges.
 job-title: Principal Global Practice Specialist, Financial Services
-image: "https://assetify-dai.com/experts/Young_Inner.jpg"
+image: https://assetify-dai.com/experts/Young_Inner.jpg
 solutions:
 - Economic Growth
 - Financial Services

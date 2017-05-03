@@ -5,7 +5,7 @@ lastname: Tedesco
 summary: 'As part of the Climate Change Team at DAI, Carmen Tedesco works with projects
   and proposal teams, serving as a geospatial advisor, and supporting technical needs. '
 job-title: 'Senior Spatial Planning Specialist, Climate Change '
-image: "https://assetify-dai.com/experts/carmen_inner.jpg"
+image: https://assetify-dai.com/experts/carmen_inner.jpg
 solutions:
 - Environment and Energy
 - Digital

@@ -7,7 +7,7 @@ summary: William brings more than 30 years of experience to the challenges of bu
   competitiveness, enterprise development, business enabling environment, investment
   facility design, and public-private dialogue.
 job-title: Managing Director, Economic Growth
-image: "https://assetify-dai.com/experts/KedrockInner.jpg"
+image: https://assetify-dai.com/experts/KedrockInner.jpg
 solutions:
 - Agriculture and Food Security
 - Business Environment Reform

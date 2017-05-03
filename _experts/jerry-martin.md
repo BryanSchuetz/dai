@@ -7,7 +7,7 @@ summary: Prior to leading the Preparedness and Response program for the U.S. Age
   & Infectious Disease practice, working at the intersection of challenges related
   to animal health, human health, the environment, and economic development.
 job-title: Senior Director, Global Health Security
-image: "https://assetify-dai.com/experts/Martin_Inner.jpg"
+image: https://assetify-dai.com/experts/Martin_Inner.jpg
 solutions:
 - Health
 regions:

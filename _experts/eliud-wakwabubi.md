@@ -9,7 +9,7 @@ solutions:
 - Health and Livelihoods
 - Health
 layout: expert
-image: "https://assetify-dai.com/experts/Eliud_Inner.jpg"
+image: https://assetify-dai.com/experts/Eliud_Inner.jpg
 summary: Eliud Wakwabubi provides technical and strategic oversight for integrating
   economic strengthening approaches into HIV and AIDS programming under the regional
   project, ROADS II (Regional Outreach Addressing AIDS through Development Strategies),

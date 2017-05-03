@@ -7,7 +7,7 @@ regions:
 solutions:
 - Economic Growth
 layout: expert
-image: "https://assetify-dai.com/experts/Greenham_Inner.jpg"
+image: https://assetify-dai.com/experts/Greenham_Inner.jpg
 summary: For 30 years, Jonathan Greenham has focused on identifying new options for
   agribusiness entrepreneurs in developing countries, improving production, increasing
   access to markets, and forging public-private partnerships.

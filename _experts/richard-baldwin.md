@@ -6,7 +6,7 @@ summary: Richard Baldwin is a land tenure professional with more than 20 years o
   experience managing and providing technical assistance to land projects in Africa,
   Eastern Europe, the Middle East, Central Asia, and the Caribbean.
 job-title: Global Practice Lead, Land Tenure and Property Rights
-image: "https://assetify-dai.com/experts/Richard-BaldwinInner.jpg"
+image: https://assetify-dai.com/experts/Richard-BaldwinInner.jpg
 solutions:
 - Economic Growth
 - Environment and Energy

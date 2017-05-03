@@ -7,7 +7,7 @@ summary: Marina Krivoshlykova specializes in enterprise development and competit
   projects worldwide, focusing on issues of value chain strengthening, market analysis,
   and design of strategies for firm and industry competitiveness.
 job-title: Global Practice Lead, Private Sector Development, Economic Growth
-image: "https://assetify-dai.com/experts/Krivoshlykova_Inner.jpg"
+image: https://assetify-dai.com/experts/Krivoshlykova_Inner.jpg
 solutions:
 - Economic Growth
 regions:

@@ -7,7 +7,7 @@ summary: After working as a highway engineer, rail engineer, drainage and hydrol
   engineer, and cost engineer, Bill transitioned to the role of project manager for
   the World Bank's national road programs in Thailand, the first of numerous assignments.
 job-title: Chief of Party, Lebanon Lebanon Water and Wastewater Sector Support Program
-image: "https://assetify-dai.com/experts/billinner.jpg"
+image: https://assetify-dai.com/experts/billinner.jpg
 solutions:
 - Environment and Energy
 regions:

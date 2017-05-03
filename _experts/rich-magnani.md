@@ -8,7 +8,7 @@ summary: 'Rich Magnani has worked in agriculture and agribusiness for more than 
 
 '
 job-title: Chief of Party, Afghanistan Regional Agricultural Development Program
-image: "https://assetify-dai.com/experts/richinner.jpg"
+image: https://assetify-dai.com/experts/richinner.jpg
 solutions:
 - Health
 regions:

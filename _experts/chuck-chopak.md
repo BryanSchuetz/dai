@@ -5,7 +5,7 @@ lastname: Chopak
 summary: With more than 30 years of experience, Chuck Chopak heads our Technical Services
   unit.
 job-title: Vice President, Technical Services
-image: "https://assetify-dai.com/experts/innerchopak.jpg"
+image: https://assetify-dai.com/experts/innerchopak.jpg
 solutions:
 - Agriculture and Food Security
 - Economic Growth

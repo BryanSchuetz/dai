@@ -6,7 +6,7 @@ regions:
 solutions:
 - Economic Growth
 layout: expert
-image: "https://assetify-dai.com/experts/Doerring_Inner.jpg"
+image: https://assetify-dai.com/experts/Doerring_Inner.jpg
 summary: Lief Doerring is a senior international development expert, leader, and portfolio
   manager with more than 20 years of experience working in Africa, Asia, and the Pacific.
 job-title: Global Lead, Agriculture, Agribusiness & Food Security

@@ -7,7 +7,7 @@ summary: Originally from North Carolina, Zachary Kaplan never planned to become 
   creating an international development outreach program as a graduate student, Zach
   decided to pursue a career in development instead.
 job-title: Director, Energy and Resources Group
-image: "https://assetify-dai.com/experts/KaplanInner.jpg"
+image: https://assetify-dai.com/experts/KaplanInner.jpg
 solutions:
 - Business Environment Reform
 - Corporate Sustainability

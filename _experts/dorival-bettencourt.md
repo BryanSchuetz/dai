@@ -7,7 +7,7 @@ regions:
 solutions:
 - Corporate Sustainability
 layout: expert
-image: "https://assetify-dai.com/experts/expert-portrait-1.jpg"
+image: https://assetify-dai.com/experts/expert-portrait-1.jpg
 summary: 'Dorival Bettencourt is a private sector development specialist with extensive
   policy and extractives industry experience.
 

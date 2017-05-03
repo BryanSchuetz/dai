@@ -6,7 +6,7 @@ summary: Polly Gillingham is a livelihoods specialist, with a particular interes
   in social inclusion and institutions for the governance of—and resolution of conflicts
   over—natural resources.
 job-title: Business Management and Livelihoods Specialist
-image: "https://assetify-dai.com/experts/PollyGillinghamINNER.jpg"
+image: https://assetify-dai.com/experts/PollyGillinghamINNER.jpg
 solutions:
 - Governance
 - Fragile States

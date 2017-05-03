@@ -9,7 +9,7 @@ solutions:
 - Institutional and Policy Reform
 - Governance
 layout: expert
-image: "https://assetify-dai.com/experts/Lane_Inner.jpg"
+image: https://assetify-dai.com/experts/Lane_Inner.jpg
 summary: While in graduate school for international development, Carmen Lane was surprised
   to learn there was an emerging field of international democracy assistance, where
   she could apply her practical U.S. political experience in campaigns to her development

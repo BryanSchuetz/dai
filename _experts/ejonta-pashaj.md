@@ -7,7 +7,7 @@ summary: Ejonta Pashaj learned of DAI through a public administration program DA
   working with local governments, especially our emphasis on citizen participation
   in municipal decision making.
 job-title: Global Practice Lead for Local Governance
-image: "https://assetify-dai.com/experts/Pashaj_Inner.jpg"
+image: https://assetify-dai.com/experts/Pashaj_Inner.jpg
 solutions:
 - Economic Growth
 - Environment and Energy

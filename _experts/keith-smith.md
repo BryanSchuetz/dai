@@ -12,7 +12,7 @@ solutions:
 - Peace-Building and Political Transition
 - Stabilization
 layout: expert
-image: "https://assetify-dai.com/experts/KeithSmith1Inner.jpg"
+image: https://assetify-dai.com/experts/KeithSmith1Inner.jpg
 summary: A former aircraft engineer, Keith is an experienced development professional
   who has worked over the past 15 years in Africa, Asia, and Europe. He has managed
   a range of development programmes focused on infrastructure, agriculture, health,

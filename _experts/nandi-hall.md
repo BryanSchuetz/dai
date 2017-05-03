@@ -5,7 +5,7 @@ lastname: Hall
 summary: Nandi Hall is a Principal Project Manager with more than 15 years of experience
   working in international development in both the private and nongovernmental sector.
 job-title: Principal Project Manager
-image: "https://assetify-dai.com/experts/Nandi%20Hall%20INNER.jpg"
+image: https://assetify-dai.com/experts/Nandi%20Hall%20INNER.jpg
 solutions:
 - Peace-Building and Political Transition
 - Economic Growth

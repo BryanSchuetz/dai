@@ -5,7 +5,7 @@ lastname: Walsh
 regions: 
 solutions: 
 layout: expert
-image: "https://assetify-dai.com/experts/mikeinner.jpg"
+image: https://assetify-dai.com/experts/mikeinner.jpg
 summary: Mike Walsh's credentials as DAI's leading watchdog were earned over a 30-year
   career of scrutinizing procurement worldwide. During tenures as the U.S. Agency
   for International Development's (USAID's) contracting officer in Bangladesh, Egypt,

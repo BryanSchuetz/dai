@@ -6,7 +6,7 @@ summary: Catherine Wallis has worked in international development for 14 years  
   public, commercial, and nonprofit clients across inclusive and sustainable agricultural
   supply chains, climate, and environmental sectors.
 job-title: Principal Consultant, Environment, Climate, and Livelihoods
-image: "https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg"
+image: https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg
 solutions:
 - Clean Energy and Energy Efficiency
 - Climate Change Adaptation and Mitigation

@@ -9,7 +9,7 @@ summary: Hadiza is the Deputy National Programme Manager for SPARC, the U.K. Dep
   Forum and central reform agencies such as the Millennium Development Office tasked
   with delivering state-level reforms.
 job-title: Deputy National Programme Manager, Nigeria SPARC
-image: "https://assetify-dai.com/experts/Hadiza-Inner.jpg"
+image: https://assetify-dai.com/experts/Hadiza-Inner.jpg
 solutions:
 - Governance
 - Institutional and Policy Reform

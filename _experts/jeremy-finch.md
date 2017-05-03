@@ -5,7 +5,7 @@ lastname: Finch
 regions: 
 solutions: 
 layout: expert
-image: "https://assetify-dai.com/experts/Jeremy%20Finch%20INNER.jpg"
+image: https://assetify-dai.com/experts/Jeremy%20Finch%20INNER.jpg
 summary: 'Jeremy Finch heads up the internal audit, ethics, and compliance functions
   for DAI Europe. As such, he is the custodian of the control environment for the
   company and its complex network across the project portfolio as well as being the

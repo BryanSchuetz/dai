@@ -9,7 +9,7 @@ solutions:
 - Environment and Energy
 - Fragile States
 layout: expert
-image: "https://assetify-dai.com/experts/CathyShawInner.jpg"
+image: https://assetify-dai.com/experts/CathyShawInner.jpg
 summary: 'Cathy Shaw is a Principal Project Manager at DAI Europe, having joined the
   company in 2001. Formerly a researcher in economic development in transition countries,
   Cathy has worked on long-term programmes in Nigeria and Russia, eastern Europe and

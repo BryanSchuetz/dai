@@ -6,7 +6,7 @@ summary: Don Humpal has worked for more than 30 years on agricultural production
   postharvest handling and storage, marketing, and food safety programs, primarily
   in Africa as well as in Eastern Europe, the Caribbean, and Middle East.
 job-title: Global Practice Specialist, Agriculture & Food Security
-image: "https://assetify-dai.com/experts/Humpal_Inner.jpg"
+image: https://assetify-dai.com/experts/Humpal_Inner.jpg
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa

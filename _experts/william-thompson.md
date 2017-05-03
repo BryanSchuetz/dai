@@ -7,7 +7,7 @@ summary: After ditching plans to become a lawyer, William Thompson, via the Peac
   Corps and other organizations, found himself teaching math in Fiji and training
   Afghan teachers along the Afghan/Pakistan border, long before the current conflict.
 job-title: Development Specialist
-image: "https://assetify-dai.com/experts/Thompson_Inner.jpg"
+image: https://assetify-dai.com/experts/Thompson_Inner.jpg
 solutions:
 - Gender
 - Economic Growth

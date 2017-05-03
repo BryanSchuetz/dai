@@ -6,7 +6,7 @@ summary: Peter Ross has been a permanent member of staff for 25 years. A member 
   the project management team, he is responsible for planning and managing our current
   long-term DFID-funded programmes in Malawi, Nigeria, and Zambia.
 job-title: Project Management and Advisor
-image: "https://assetify-dai.com/experts/PeterRossINNER.jpg"
+image: https://assetify-dai.com/experts/PeterRossINNER.jpg
 solutions:
 - Governance
 - Legislative Strengthening

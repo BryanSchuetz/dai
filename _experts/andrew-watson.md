@@ -7,7 +7,7 @@ summary: Over the past 30 years, Andrew Watson's technical focus has shifted fro
   natural resource management, and biodiversity conservation, and, most recently,
   to climate change adaptation, with an emphasis on the sustainable use of water resources.
 job-title: 'Managing Director, Environment '
-image: "https://assetify-dai.com/experts/innerwatson.jpg"
+image: https://assetify-dai.com/experts/innerwatson.jpg
 solutions:
 - Environment and Energy
 - Governance

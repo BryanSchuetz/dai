@@ -8,7 +8,7 @@ solutions:
 - Clean Energy and Energy Efficiency
 - Environment and Energy
 layout: expert
-image: "https://assetify-dai.com/experts/AnneSofiaHolmbergINNER.jpg"
+image: https://assetify-dai.com/experts/AnneSofiaHolmbergINNER.jpg
 summary: Anne-Sofia Holmberg is a Principal Consultant working on our portfolio of
   European Bank for Reconstruction and Development (EBRD) programmes and bids. She
   manages The Polish Sustainable Energy Financing Facility II and the Morocco Sustainable

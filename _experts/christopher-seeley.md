@@ -6,7 +6,7 @@ summary: Christopher Seeley is an expert in sustainable livelihoods, alternative
   and the design and management of large-scale, multi-objective rural development
   programs.
 job-title: "Senior Principal Global Practice Leader,\nNatural Resource Management "
-image: "https://assetify-dai.com/experts/Seeley_Inner.jpg"
+image: https://assetify-dai.com/experts/Seeley_Inner.jpg
 solutions:
 - Environment and Energy
 regions:

@@ -8,7 +8,7 @@ summary: 'Arsalan Faheem works with our London-based Private Sector Development 
 
 '
 job-title: Specialist, Private Sector Development and Finance
-image: "https://assetify-dai.com/experts/ArsalanInner.jpg"
+image: https://assetify-dai.com/experts/ArsalanInner.jpg
 solutions:
 - Business Environment Reform
 - Economic Growth

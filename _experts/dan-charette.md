@@ -7,7 +7,7 @@ summary: Daniel Charette specializes in private sector development. He has exper
   including value chain analysis/development, making markets work for the poor, and
   business environment reform.
 job-title: 'Senior Consultant '
-image: "https://assetify-dai.com/experts/Charette_Inner_0.jpg"
+image: https://assetify-dai.com/experts/Charette_Inner_0.jpg
 solutions:
 - Economic Growth
 - Governance

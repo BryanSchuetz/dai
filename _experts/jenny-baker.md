@@ -11,7 +11,7 @@ solutions:
 - Governance
 - Natural Resource Management
 layout: expert
-image: "https://assetify-dai.com/experts/Baker_Inner.jpg"
+image: https://assetify-dai.com/experts/Baker_Inner.jpg
 summary: As Regional Managing Director for Asia, Jenny oversees DAI operations from
   Central Asia to the Pacific Islands. DAI's current portfolio of 18 long-term field
   projects in the region tackle development challenges in sectors as diverse as economic

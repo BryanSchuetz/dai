@@ -12,7 +12,7 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 layout: expert
-image: "https://assetify-dai.com/experts/Burruss_Inner.jpg"
+image: https://assetify-dai.com/experts/Burruss_Inner.jpg
 summary: Duke Burruss joined DAI in November 2010, bringing 30 years of experience
   centered on agricultural and rural development, marketing and distribution, competitive
   value chains, international trade and public-private partnerships.

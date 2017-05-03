@@ -10,7 +10,7 @@ solutions:
 - Governance
 - Fragile States
 layout: expert
-image: "https://assetify-dai.com/experts/Doxtater-Inner.jpg"
+image: https://assetify-dai.com/experts/Doxtater-Inner.jpg
 summary: For the last decade, Keith Doxtater has provided strategic direction and
   project management expertise from both the field and home office for U.S. Agency
   for International Development (USAID) projects in Indonesia, Kenya, Myanmar, the

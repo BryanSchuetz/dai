@@ -5,7 +5,7 @@ lastname: Green
 summary: For more than 30 years, Jim Green has worked widely in South Asia, Southeast
   Asia, and China as a project director and rural development specialist.
 job-title: Project Management Adviser, Director
-image: "https://assetify-dai.com/experts/JamesGreenInner.jpg"
+image: https://assetify-dai.com/experts/JamesGreenInner.jpg
 solutions:
 - Environment and Energy
 - Governance

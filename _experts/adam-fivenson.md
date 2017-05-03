@@ -6,7 +6,7 @@ summary: Adam Fivenson works to make interventions more efficient and more effec
   by introducing new technologies that help citizens report corruption, monitor biodiversity,
   access markets, and adapt to climate change.
 job-title: New Business Specialist, ICT
-image: "https://assetify-dai.com/experts/Adam%20inner.png"
+image: https://assetify-dai.com/experts/Adam%20inner.png
 solutions:
 - Digital
 - Fragile States

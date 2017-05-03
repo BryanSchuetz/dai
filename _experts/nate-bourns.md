@@ -9,7 +9,7 @@ summary: 'Nate Bourns began learning the value of language as a 12-year-old whil
 
 '
 job-title: Vice President, Technical Services
-image: "https://assetify-dai.com/experts/nate_inner.jpg"
+image: https://assetify-dai.com/experts/nate_inner.jpg
 solutions:
 - Economic Growth
 - Financial Services

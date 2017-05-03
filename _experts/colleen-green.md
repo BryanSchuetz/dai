@@ -6,7 +6,7 @@ summary: Since joining DAI in 2000, Colleen Green has served as a microfinance s
   providing short-term support to bank downscaling and other programs to benefit micro,
   small, and medium-sized enterprises
 job-title: Principal Global Practice Specialist, Financial Services
-image: "https://assetify-dai.com/experts/innercoleen.jpg"
+image: https://assetify-dai.com/experts/innercoleen.jpg
 solutions:
 - Financial Services
 regions:

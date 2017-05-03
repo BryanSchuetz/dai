@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 layout: expert
-image: "https://assetify-dai.com/experts/Ragan_Inner_0.jpg"
+image: https://assetify-dai.com/experts/Ragan_Inner_0.jpg
 summary: 'Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep
   urge to see the world. While Kristi was earning her master''s degree from Georgetown
   University''s School of Foreign Service, her professor, Madeleine Albright, urged

@@ -11,7 +11,7 @@ solutions:
 - Fragile States
 - Peace-Building and Political Transition
 layout: expert
-image: "https://assetify-dai.com/experts/HarrisInner.jpg"
+image: https://assetify-dai.com/experts/HarrisInner.jpg
 summary: Harris Khalique is an internationally recognized civil society leader with
   more than 20 years of professional and voluntary work with civil society organizations
   with a focus on human rights and community development. He has held senior management

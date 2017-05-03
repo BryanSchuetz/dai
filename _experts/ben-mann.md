@@ -6,7 +6,7 @@ summary: Ben Mann serves as a Global Practice Specialist for Water and Sanitatio
   with DAI, contributing to new business development, technical project support, and
   institutional knowledge management.
 job-title: Global Practice Specialist, Water & Sanitation
-image: "https://assetify-dai.com/experts/MannInner.jpg"
+image: https://assetify-dai.com/experts/MannInner.jpg
 solutions:
 - Environment and Energy
 - Health

@@ -7,7 +7,7 @@ summary: Rob Dressen is a banker with 25 years of experience in microfinance, co
   years and Chase Manhattan Bank for 15 years, where he specialized in trade finance,
   branch operations, and credit and risk management.
 job-title: Advisor, Financial Services
-image: "https://assetify-dai.com/experts/Dressen_Inner.jpg"
+image: https://assetify-dai.com/experts/Dressen_Inner.jpg
 solutions:
 - Financial Services
 - Economic Growth

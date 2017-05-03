@@ -5,7 +5,7 @@ lastname: Sparrey
 summary: Ruth Sparrey is a Director in our Technical Services team and has oversight
   of DAI Europe’s livelihoods portfolio.
 job-title: Project Management and Livelihoods
-image: "https://assetify-dai.com/experts/RuthInner.jpg"
+image: https://assetify-dai.com/experts/RuthInner.jpg
 solutions:
 - Environment and Energy
 - Health and Livelihoods
