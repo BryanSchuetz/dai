@@ -1,6 +1,20 @@
 ---
 title: Kenya–Deepening Democracy Programme (DDP)
 date: 2017-05-03 18:52:00 Z
+summary: The Kenya Deepening Democracy Programme (DDP) works to address recurring
+  political instability and non-inclusive institutions in Kenya by improving electoral
+  processes and government accountability. Through supporting  credible elections
+  and transparent public service delivery, DDP activities will contribute to achieving
+  Kenya’s Vision 2030 for “a more globally competitive and prosperous nation with
+  a high quality of life.”
+start: 2016
+end: 2020
+client: U.K. Department for International Development
+solutions:
+- Governance
+- Institutional and Policy Reform
+regions: Sub-Saharan Africa
+country: Kenya
 ---
 
 Despite significant economic growth in recent years, Kenya continues to rank low in key human development indicators due to substandard public services, recurring election-related instability, and non-inclusive markets and institutions. An overall ineffective social contract combined with weak governmental accountability have kept average Kenyans from experiencing the tangible benefits of economic progress in their daily lives.
