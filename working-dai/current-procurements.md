@@ -8,4 +8,4 @@ In implementing its projects, DAI relies on services and equipment provided by s
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.   
 
 * [Improving Water, Sanitation and Hygiene (WASH) Evidence-based Decision-making No. 1002690-003](/uploads/wash_rfp_1002690-003_eng.pdf)
-* [Improving Water, Sanitation and Hygiene (WASH) Evidence-based Decision-making No. 1002690-003 Portugese](/uploads/wash_rfp_1002690-003_port-57a0bb.pdf)
+* [Improving Water, Sanitation and Hygiene (WASH) Evidence-based Decision-making No. 1002690-003 Portugese](https://assetify-dai.com/pdfs/mozrfp_port.pdf)
