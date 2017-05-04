@@ -1,21 +1,21 @@
 ---
 title: Somalia—Partnership for Economic Growth
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2011
-end: 2016
-regions:
-- Sub-Saharan Africa
-country:
-- Somalia
-solutions:
-- Agriculture and Food Security
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: A number of the Somali areas that enjoy relative peace and stability have
   established functioning governance structures and favorable business environments
   that have facilitated investment in sectors including livestock, import and export,
   telecommunications, remittances, and more.
+start: 2011
+end: 2016
+client: U.S. Agency for International Development
+solutions:
+- Agriculture and Food Security
+- Economic Growth
+regions:
+- Sub-Saharan Africa
+country:
+- Somalia
+layout: project
 ---
 
 A number of the Somali areas that enjoy relative peace and stability have established functioning governance structures and favorable business environments that have facilitated investment in sectors including livestock, import and export, telecommunications, remittances, and more. These areas are now ripe for support to private sector development, investment, and economic policy development. The USAID Partnership for Economic Growth program works with local authorities and private sector groups to improve the enabling environment for investment and generate more [productive employment][1] and incomes.
@@ -39,6 +39,7 @@ A number of the Somali areas that enjoy relative peace and stability have establ
 * Developed and implemented community-based animal health training and curriculum, benefiting an estimated 80,000 people who can now access better- trained veterinary pharmacists and extension workers.
 * Through support to the Ministry of Commerce, developed more streamlined investment laws, an investment guide, and [www.SomalilandInvest.net][5], which is expected to benefit 2,000 registered businesses.
 
+<iframe src="https://player.vimeo.com/video/140180134" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [1]: http://www.youtube.com/watch?v=OMlujjHQ6pI
 [2]: https://assetify-dai.com/projects/PEG.jpg
