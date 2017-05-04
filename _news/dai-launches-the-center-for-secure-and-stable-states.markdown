@@ -1,8 +1,13 @@
 ---
 title: DAI Launches the Center for Secure and Stable States
 date: 2017-05-04 15:25:00 Z
-published: false
 is_featured: true
+clients:
+- U.S. Agency for International Development
+- U.K. Department for International Development
+summary: DAI today announced the launch of the Center for Secure and Stable States,
+  a center of excellence with a mission to raise the bar for development and security
+  programming in fragile states.
 ---
 
 ![Tine Knott](/uploads/TineKnott%20New.jpg){:.float-left}
