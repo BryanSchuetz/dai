@@ -2,6 +2,8 @@
 title: Ric Goodman
 date: 2017-05-04 17:45:00 Z
 lastname: Goodman
+summary: 'Most recently, Ric Goodman has been Team Leader for the DAI-managed Hunger
+  Safety Net Programme in Kenya since 2014. '
 job-title: Technical Services Director, Resilience
 image: "/uploads/Ric%20Goodman.jpg"
 solutions:
