@@ -16,9 +16,13 @@ DAI today announced the launch of the Center for Secure and Stable States, a cen
  
 Based at DAI’s U.S. headquarters in Bethesda, Maryland—but spanning the globe in terms of clients, operations, research, and learning—the Center will integrate DAI’s technical and operational experience in designing, delivering, and monitoring projects in fragile states, serving as a locus point for synthesizing and projecting DAI’s expertise in political transition, stability and resilience, and countering extremism. 
 
+<hr>
+
 ![Tine Knott](/uploads/TineKnott%20New.jpg){:.float-left}
 
 > “The hallmark of DAI is turning research and innovation into action and results,” said [DAI Vice President Tine Knott](/who-we-are/our-team/tine-knott), who will lead the new organization. “The Center, accordingly, will be both a technical and a project management hub, feeding practical insights from the field into the design and delivery of fragile states programming worldwide.”
+
+<hr>
 
 Currently, DAI is delivering [security, stability, and countering violent extremism (CVE) programming](/our-work/solutions/fragile-states) for clients including the U.S. Agency for International Development and its Office of Transition Initiatives, and the U.K. Department for International Development and Foreign and Commonwealth Office (through the Conflict, Security and Stability Fund). The Center’s initial project portfolio includes work in Kenya, Burma, Pakistan, the Philippines, and Syria. 
 
