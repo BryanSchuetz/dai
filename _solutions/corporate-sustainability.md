@@ -36,6 +36,17 @@ layout: solution
 
 DAI’s Energy and Resources Group (ERG) expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
 
+<aside>
+<h2>Our Unique Approach</h2>
+<p>DAI uses empirical evidence and technical analysis to empower our clients to spend smarter. We are a full-service provider with the flexibility to offer:</p>
+<ul>
+  <li>Surge and long-term capacity to supplement in-house teams</li>
+  <li>Strategy design and market entry analysis</li>
+  <li>Program design, inception, and implementation</li>
+  <li>Performance monitoring, evaluation, and reporting</li>
+</ul>
+</aside>
+
 ## Industries
 
 ERG works across many sectors, including Oil & Gas, Mining, Renewable Energy, Infrastructure, Retail, and more. 
@@ -52,19 +63,6 @@ ERG works with companies in the oil, gas, mining, and renewable energy sectors t
 
 <iframe src="https://player.vimeo.com/video/210303653"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 `Now in its second year, KIC is supporting a group of 80 young entrepreneurs in developing innovative, technology-driven business concepts to address Ghana’s pressing development issues.`
-
-<hr>
-
-<aside>
-<h2>Our Unique Approach</h2>
-<p>DAI uses empirical evidence and technical analysis to empower our clients to spend smarter. We are a full-service provider with the flexibility to offer:</p>
-<ul>
-  <li>Surge and long-term capacity to supplement in-house teams</li>
-  <li>Strategy design and market entry analysis</li>
-  <li>Program design, inception, and implementation</li>
-  <li>Performance monitoring, evaluation, and reporting</li>
-</ul>
-</aside>
 
 <!-- ## Featured Experts
 
