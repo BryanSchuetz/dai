@@ -20,7 +20,7 @@ Based at DAI’s U.S. headquarters in Bethesda, Maryland—but spanning the glob
 
 ![Tine Knott](/uploads/TineKnott%20New.jpg){:.float-left}
 
-<blockquote style="margin-bottom: 3rem; border-left: 0px;"> “The hallmark of DAI is turning research and innovation into action and results,” said [DAI Vice President Tine Knott](/who-we-are/our-team/tine-knott), who will lead the new organization. “The Center, accordingly, will be both a technical and a project management hub, feeding practical insights from the field into the design and delivery of fragile states programming worldwide.”</blockquote>
+<blockquote style="margin-bottom: 3rem; border-left: 0px;"> “The hallmark of DAI is turning research and innovation into action and results,” said <a href="/who-we-are/our-team/tine-knott">DAI Vice President Tine Knott</a>, who will lead the new organization. “The Center, accordingly, will be both a technical and a project management hub, feeding practical insights from the field into the design and delivery of fragile states programming worldwide.”</blockquote>
 
 <hr>
 
