@@ -1,26 +1,26 @@
 ---
 title: Afghanistan—Local Governance and Community Development (LGCD)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2006
-end: 2011
-regions:
-- Eastern Europe and Central Asia
-country:
-- Afghanistan
-solutions:
-- Gender
-- Governance
-- Fragile States
-- Countering Extremism
-- Peace-Building and Political Transition
-- Stabilization
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'When this project launched in 2006, the insurgency was intensifying in Afghanistan
   and would soon escalate into violence. Our mission on behalf of the U.S. Agency
   for International Development was crucial: encourage communities in the most volatile
   parts of the country to turn away from the insurgency and toward the Government
   of the Islamic Republic of Afghanistan.'
+start: 2006
+end: 2011
+client: U.S. Agency for International Development
+solutions:
+- Gender
+- Governance
+- 
+- Countering Extremism
+- Peace-Building and Political Transition
+- Stabilization
+regions:
+- Eastern Europe and Central Asia
+country:
+- Afghanistan
+layout: project
 ---
 
 When this project launched in 2006, the insurgency was intensifying in Afghanistan and would soon escalate into violence. Our mission on behalf of the U.S. Agency for International Development (USAID) was crucial: encourage communities in the most volatile parts of the country to turn away from the insurgency and toward the Government of the Islamic Republic of Afghanistan. We set out to do this in large part by facilitating 2,635 community projects that addressed local grievances, fostered stability, facilitated dialogue, and engendered trust in district and provincial leaders. Acknowledged as USAID's flagship stabilization program, LGCD achieved its aims to a large degree. LGCD's projects, undertaken in a variety of sectors, included assessments, rehabilitation of community infrastructure, basic vocational training, training of local government officials, cash-for-work activities, and provision of agricultural inputs and equipment. LGCD facilitated engagement between communities and government officials so that Afghans saw government as responsive to their needs and not as an external organization. This focus on supporting Afghan government is important because the provision of services by the government was found to be a key determinant in positively influencing local perceptions of stability. By the end of LGCD, 100 percent of requests for project assistance were being routed to and through the Afghan government instead of through LGCD staff. LGCD evolved into a countrywide program, working in 23 of Afghanistan's 34 provinces, but most of its work targeted the country's vulnerable eastern and southern provinces. Employing 765 people at its peak, 90 percent of them local Afghans, LGCD, in tandem with other stabilization initiatives, had extensive reach. In communities where LGCD projects were implemented, many Afghans expressed that they felt a greater sense of security, hopefulness, and trust in their government officials than in communities where LGCD was not active.   
