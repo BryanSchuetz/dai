@@ -28,8 +28,6 @@ Kenya is one of Africa’s longest-running democracies, a regional economic powe
 
 In response, the Kenya NiWajibu Wetu (NIWETU) program was launched by the U.S. Agency for International Development to reduce violent extremism among at-risk individuals and communities in hotspots in Kenya. The program will empower communities and government institutions to take the lead in preventing/countering violent extremism (P/CVE). NIWETU will work to address the root causes of violent extremism by fostering a sense of unity and tolerance among individuals, communities, and civil society groups, as well as catalyze their connections with government institutions at the county and national levels. “NiWajibu Wetu” is a Kiswahili phrase meaning, “It’s our responsibility,” and is inspired by verses in the Kenya national anthem and the 2010 Constitution of Kenya.
 
-![photograph](https://assetify-dai.com/projects/Kenya_NIWETU.jpg)
-
 ## Sample Activities
 
 * Enhance the capacity of community leaders and groups to work effectively with one another across ethnic and religious lines.
