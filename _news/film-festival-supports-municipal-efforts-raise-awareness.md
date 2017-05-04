@@ -1,14 +1,6 @@
 ---
 title: Film Festival Supports Municipal Efforts to Raise Awareness
 date: 2013-06-11 18:05:00 Z
-summary: 'he municipality of Herat, Afghanistan, hosted its second annual film festival
-  at the end of May. Assisted by the DAI-led Regional Afghan Municipalities Program
-  for Urban Populations, Regional Command West (RAMP UP West) project, the festival
-  was attended by representatives of the Mayor''s Office, the Economic Directorate,
-  the Provincial Development Council, as well as members of the Herat Journalism Faculty,
-  filmmakers, project representatives, and citizens.
-
-'
 solutions:
 - Governance
 - Fragile States
@@ -16,7 +8,14 @@ regions:
 - Middle East and North Africa
 projects: Afghanistan—Regional Afghan Municipalities Program for Urban Populations,
   Regional Command West (RAMP UP West)
-clients: 
+summary: 'The municipality of Herat, Afghanistan, hosted its second annual film festival
+  at the end of May. Assisted by the DAI-led Regional Afghan Municipalities Program
+  for Urban Populations, Regional Command West (RAMP UP West) project, the festival
+  was attended by representatives of the Mayor''s Office, the Economic Directorate,
+  the Provincial Development Council, as well as members of the Herat Journalism Faculty,
+  filmmakers, project representatives, and citizens.
+
+'
 layout: node
 ---
 
