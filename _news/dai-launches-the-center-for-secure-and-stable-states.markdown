@@ -8,10 +8,10 @@ clients:
 summary: DAI today announced the launch of the Center for Secure and Stable States,
   a center of excellence with a mission to raise the bar for development and security
   programming in fragile states.
-twit-pic: https://assetify-dai.com/news/tine.jpg
+twit-pic: "/uploads/tine.jpg"
 ---
 
-DAI today announced the launch of the Center for Secure and Stable States, a center of excellence with a mission to raise the bar for development and security programming in fragile states.
+DAI today announced the launch of the Center for Secure and Stable States, a center of excellence with a mission to raise the bar for development and security programming in fragile states. 
 
 <!--more-->
  
