@@ -4,6 +4,7 @@ date: 2017-05-04 17:45:00 Z
 published: false
 lastname: Goodman
 job-title: Technical Services Director, Resilience
+image: "/uploads/Ric%20Goodman.jpg"
 solutions:
 - Agriculture and Food Security
 - Fragile States
