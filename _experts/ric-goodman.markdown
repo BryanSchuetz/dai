@@ -2,8 +2,10 @@
 title: Ric Goodman
 date: 2017-05-04 17:45:00 Z
 lastname: Goodman
-summary: 'Most recently, Ric Goodman has been Team Leader for the DAI-managed Hunger
-  Safety Net Programme in Kenya since 2014. '
+summary: Ric Goodman’s focus is on solutions to extreme poverty and vulnerability,
+  often in hard to reach areas. He broadened his work to include the provision of
+  goods and services to populations in remote areas, often in fragile ecosystems and
+  environments, where people’s livelihoods are inherently fragile.
 job-title: Technical Services Director, Resilience
 image: "/uploads/Ric%20Goodman.jpg"
 solutions:
