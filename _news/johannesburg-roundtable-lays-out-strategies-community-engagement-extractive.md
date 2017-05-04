@@ -2,18 +2,16 @@
 title: Johannesburg Roundtable Lays Out Strategies for Community Engagement by Extractive
   Industry
 date: 2013-07-25 18:05:00 Z
+solutions:
+- Include Primary and/or Secondary Solutions
+regions:
+- Sub-Saharan Africa
 summary: '"Are you going to have a cookie-cutter solution, or are you going to take
   the time to consider a range of options and design something that has impact?" asked
   DAI President and CEO Jim Boomgard, speaking to a room of extractive industry executives
   operating in Southern Africa.
 
 '
-solutions:
-- Fragile States
-regions:
-- Sub-Saharan Africa
-projects: 
-clients: 
 layout: node
 ---
 
