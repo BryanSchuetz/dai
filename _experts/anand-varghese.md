@@ -9,6 +9,8 @@ image: https://assetify-dai.com/experts/anand%20inner.jpg
 solutions:
 - Governance
 - Digital
+- Social Strategy
+- Corporate Sustainability
 regions:
 - Asia and the Pacific
 - Middle East and North Africa

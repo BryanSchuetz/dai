@@ -6,6 +6,8 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Corporate Sustainability
+- Local Content and Supply Chain Management
+- Social Strategy
 layout: expert
 image: https://assetify-dai.com/experts/luke_inside.jpg
 summary: 'Luke Kozumbo specializes in economic analysis and issues of trade and economic

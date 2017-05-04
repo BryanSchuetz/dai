@@ -6,6 +6,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Corporate Sustainability
+- Social Strategy
 layout: expert
 image: https://assetify-dai.com/experts/dipika.jpg
 summary: 'As part of the Energy and Resources Group, Dipika Chawla leads the communications

@@ -6,6 +6,8 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Corporate Sustainability
+- Local Content and Supply Chain Management
+- Social Strategy
 layout: expert
 image: https://assetify-dai.com/experts/expert-portrait-1.jpg
 summary: 'Dorival Bettencourt is a private sector development specialist with extensive

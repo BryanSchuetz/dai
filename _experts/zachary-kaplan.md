@@ -14,6 +14,8 @@ solutions:
 - Economic Growth
 - Institutional and Policy Reform
 - Natural Resource Management
+- Local Content and Supply Chain Management
+- Social Strategy
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
