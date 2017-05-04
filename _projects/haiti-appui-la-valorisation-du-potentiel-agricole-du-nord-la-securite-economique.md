@@ -25,7 +25,7 @@ To help Haitian farmers confront these challenges, the U.S. Agency for Internati
 
 AVANSE works with both farmers and the private sector to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing direct access  to produce buyers.
 
-![](https://assetify-dai.com/projects/AVANSE.jpg)
+<iframe src="https://player.vimeo.com/video/171475381" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
