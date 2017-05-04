@@ -1,6 +1,14 @@
 ---
 title: Thai Scientist Goes From Microscopes to Policy-making
 date: 2015-02-20 18:05:00 Z
+solutions:
+- Governance
+- Economic Growth
+- 
+regions:
+- Asia and the Pacific
+projects: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and
+  Sustainable
 summary: 'From examining microbes under a microscope to pitching policy recommendations
   that could affect the sharing of biological resources within the Association of
   Southeast Asian Nations (ASEAN), the ASEAN-U.S. Science and Technology Fellows Program
@@ -9,15 +17,6 @@ summary: 'From examining microbes under a microscope to pitching policy recommen
   in the region.
 
 '
-solutions:
-- Governance
-- Economic Growth
-- Fragile States
-regions:
-- Asia and the Pacific
-projects: Southeast Asia—ASEAN-U.S. Partnership for Good Governance, Equitable and
-  Sustainable
-clients: 
 layout: node
 ---
 
