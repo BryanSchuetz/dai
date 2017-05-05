@@ -1,7 +1,7 @@
 ---
-title: Cabo Verde Land
+title: Cabo Verde—Land
 date: 2016-01-21 22:40:00 Z
-summary: The Cabo Verde Land project provides direct support for public outreach,
+summary: The Cabo Verde Land project provided direct support for public outreach,
   adjudication, parcel mapping, data capture, processing of information and records
   for the purpose of land registration.
 start: 2014
@@ -19,7 +19,7 @@ country:
 layout: project
 ---
 
-The Cabo Verde Land project provided direct support for public outreach, adjudication, parcel mapping, data capture, processing of information and records for the purpose of [land registration](http://dai-global-developments.com/articles/public-private-partnerships-for-land-administration-can-it-work-in-cabo-verde/). This process lead to all parcels on the Island of Sal being validated either for registration or the deferral of rights registration with full justification and clear recommendation on the way forward.
+The Cabo Verde Land project provided direct support for public outreach, adjudication, parcel mapping, data capture, processing of information and records for the purpose of [land registration](http://dai-global-developments.com/articles/public-private-partnerships-for-land-administration-can-it-work-in-cabo-verde/). This process led to all parcels on the Island of Sal being validated either for registration or the deferral of rights registration with full justification and clear recommendation on the way forward.
 
 ![](https://assetify-dai.com/projects/CapeV.jpg)
 
