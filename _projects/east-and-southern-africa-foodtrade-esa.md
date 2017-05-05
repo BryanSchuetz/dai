@@ -42,7 +42,7 @@ Based in Dar es Salaam, the program works across nine countries: Burundi, Kenya,
 
 * Provided improved agricultural inputs to 169,000 farmers to increase quality and quantity of harvests.
 
-* Connected 130,000 farmers to improved market information systems through Food Trade interventions.
+* Connected 130,000 farmers to improved market information systems through FoodTrade interventions.
 
 * Collaborated with regional partners to develop strategies for addressing 31 regulatory and policy challenges that hinder trade.
 
