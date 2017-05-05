@@ -1,5 +1,5 @@
 ---
-title: Jordan Competitiveness Program (JCP)
+title: Jordan—Competitiveness Program (JCP)
 date: 2016-01-21 22:40:00 Z
 summary: The Jordan Competitiveness Program (JCP), funded by the U.S. Agency for International
   Development (USAID), assists Jordanian private and public sector leaders to achieve
