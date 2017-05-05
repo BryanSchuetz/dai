@@ -37,3 +37,13 @@ As county governments take on responsibility for investment in and oversight of 
 * Incubate private sector WASH enterprises to develop innovative products and approaches.
 
 * Integrate WASH and nutrition best practices into Kenyan health services delivery.
+
+### Select Results
+
+* Provided training to 82 WASH enterprises on water sector reforms and rights to water access, basic computer skills, business planning, and strategic marketing, accompanied by on-the-job coaching and mentoring to help enterprises improve access to WASH services for targeted communities.
+
+* Initiated awareness raising campaigns promoting the attainment of Open Defecation Free status in 110 villages in five counties and reached 21,876 people with messages on the importance of improved latrines, toilets, and hand washing stations.
+
+* Trained 78 public health officers to initiate Community Led Total Sanitation programs in their respective areas.
+
+* Facilitated the establishment of 12 farming demonstration sites to showcase low-cost methods for producing nutritious food and improved irrigation technologies that can significantly increase crop yields and raise incomes. 
