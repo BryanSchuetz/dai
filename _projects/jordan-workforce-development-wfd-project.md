@@ -1,20 +1,6 @@
 ---
-title: Jordan Workforce Development (WFD) Project
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2014
-end: 2019
-regions:
-- Middle East and North Africa
-country:
-- Jordan
-solutions:
-- Business Environment Reform
-- Economic Growth
-- Gender
-- Innovation and Entrepreneurship
-- Institutional and Policy Reform
-layout: project
+title: Jordan—Workforce Development (WFD) Project
+date: 2016-01-21 22:40:00 Z
 summary: 'In 2014, the Government of Jordan responded to the King''s call for a 10-year
   economic blueprint for meeting a set of challenging objectives. Key among the objectives
   was "to enhance policies related to human resources, link education policies to
@@ -23,6 +9,20 @@ summary: 'In 2014, the Government of Jordan responded to the King''s call for a 
   to join the labor market."
 
 '
+start: 2014
+end: 2019
+client: U.S. Agency for International Development
+solutions:
+- Business Environment Reform
+- Economic Growth
+- Gender
+- Innovation and Entrepreneurship
+- Institutional and Policy Reform
+regions:
+- Middle East and North Africa
+country:
+- Jordan
+layout: project
 ---
 
 In 2014, the Government of Jordan responded to the King's call for a 10-year economic blueprint for meeting a set of challenging objectives. Key among the objectives was "to enhance policies related to human resources, link education policies to labor market demands, focus on building a labor force through vocational training, especially youth, so that they gradually replace guest labor, and encourage women to join the labor market."
