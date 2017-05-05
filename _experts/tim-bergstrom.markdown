@@ -4,7 +4,7 @@ date: 2017-05-05 15:30:00 Z
 lastname: Bergstrom
 summary: Tim Bergstrom leads the Somali Business Catalytic Fund, managing the operational
   and grant teams to achieve the program objectives.
-job-title: Team Leader
+job-title: Team Leader, Somali Business Catalytic Fund
 image: "/uploads/Tim%20Bergstrom%20Portal.jpg"
 solutions:
 - Economic Growth
