@@ -20,7 +20,7 @@ layout: project
 
 FoodTrade ESA works to systemically improve the national and regional staple food market systems, directly impacting more than 400,000 households and consumers through stable markets for staple food products. The program works to enable private sector to invest and develop regional staple markets, benefiting farmers and consumers.
 
-Based in Dar es Salaam, the program works across nine countries: Burundi, Kenya, Malawi, Mozambique, Rwanda, Tanzania, Uganda, Zambia, and Zimbabwe. Through two facilitative tools—a Challenge Fund and Development Fund—the program will foster catalytic and innovative solutions. For more information and the latest updates, visit the F[oodTrade ESA website](http://foodtradeesa.com/).
+Based in Dar es Salaam, the program works across nine countries: Burundi, Kenya, Malawi, Mozambique, Rwanda, Tanzania, Uganda, Zambia, and Zimbabwe. Through two facilitative tools—a Challenge Fund and Development Fund—the program will foster catalytic and innovative solutions. For more information and the latest updates, visit the [FoodTrade ESA website](http://foodtradeesa.com/).
 
 ![](https://assetify-dai.com/projects/FoodTradeESA.jpg)
 
@@ -41,6 +41,8 @@ Based in Dar es Salaam, the program works across nine countries: Burundi, Kenya,
 * Enhanced value chain coordination for 115,000 farmers by applying grades and standards for products, improving logistics, and developing a virtual marketplace.
 
 * Provided improved agricultural inputs to 169,000 farmers to increase quality and quantity of harvests.
+
+* Connected 130,000 farmers to improved market information systems through Food Trade interventions.
 
 * Collaborated with regional partners to develop strategies for addressing 31 regulatory and policy challenges that hinder trade.
 
