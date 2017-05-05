@@ -42,7 +42,7 @@ Watch this video of Kanini Mutooni, the director for investment at the East Afri
 
 ### Select Results
 
-* Facilitated Eastern Africa Grain Council forum, where 58 contracts were signed to sell 279,000 metric tons of Ethiopian food grain surplus to neighboring East African countries with food shortages; total value of contracts was US$83 million.
+* [Facilitated](https://www.dai.com/news/a-trade-solution-to-the-food-security-challenge-surplus-grains-worth-83-dollars-million-now-available-to-countries-in-need) Eastern Africa Grain Council forum, where 58 contracts were signed to sell 279,000 metric tons of Ethiopian food grain surplus to neighboring East African countries with food shortages; total value of contracts was US$83 million.
 
 * Brokered partnership with American Apparel and Footwear Association, which represents more than 1,000 brands generating $361 billion in annual U.S. retail sales, to address constraints to competitiveness and expansion of the industry in East Africa while creating jobs in East Africa and the United States.
 
