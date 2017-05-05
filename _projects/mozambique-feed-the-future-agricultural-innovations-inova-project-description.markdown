@@ -1,9 +1,9 @@
 ---
 title: Mozambique—Feed the Future Agricultural Innovations (INOVA)
 date: 2017-04-27 18:11:00 Z
-summary: The government of Mozambique has launched an ambitious plan to grow its agricultural
-  sector in an inclusive manner to reduce poverty and alleviate hunger throughout
-  the country.
+summary: The Feed the Future Agricultural Innovations (INOVA) project partners with
+  farmers, businesses, and policymakers to explore ways to improve production and
+  increase sales of key cash crops vital to Mozambique’s economy.
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
