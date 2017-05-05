@@ -1,29 +1,26 @@
 ---
 title: Rebecca Lawrence
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Lawrence
+summary: Since 1996, Rebecca Lawrence has planned and implemented more than a dozen
+  large-scale development programs, and contributed to the design or management of
+  at least 20 others.
+job-title: Project Team Director, Governance, Africa
+image: https://assetify-dai.com/experts/Lawrence_Inner.jpg
+solutions:
+- Fragile States
+- Countering Extremism
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Middle East and North Africa
 - Sub-Saharan Africa
-solutions:
-- Fragile States
-- Countering Extremism
 layout: expert
-image: https://assetify-dai.com/experts/Lawrence_Inner.jpg
-summary: Since 1996, Rebecca Lawrence has planned and implemented more than a dozen
-  large-scale development programs, and contributed to the design or management of
-  at least 20 others.
-job-title: Senior Development Specialist
-articles:
-- name: 
-  article_file: 
 ---
 
-Since 1996, Rebecca Lawrence has planned and implemented more than a dozen large-scale development programs, and contributed to the design or management of at least 20 others. She has more than 15 years of experience in democracy, governance, and stabilization programs in Africa (Ethiopia, Kenya, Somalia, and Zimbabwe), Asia (Afghanistan, Pakistan), the Balkans, the former Soviet Union, and the Middle East. These programs have encompassed good governance, civil society development, conflict mitigation, and municipal services and infrastructure.
+Since 1996, Rebecca Lawrence has planned and implemented more than a dozen large-scale development programs, and contributed to the design or management of at least 20 others. She has more than 20 years of experience in democracy, governance, and stabilization programs in Africa (Ethiopia, Kenya, Liberia, Malawi, Somalia, and Zimbabwe), Asia (Afghanistan, Pakistan), the Balkans, the former Soviet Union, and the Middle East. These programs have encompassed good governance, civil society development, conflict mitigation, and municipal services and infrastructure.
 
-Rebecca currently directs the U.K. Department for International Development's Mozambique Democratic Governance Support Program, which aims to build voice and accountability in urban municipalities. Previously, she managed DAI's cross-cutting teams implementing stabilization and state-building programs for the U.S. Agency for International Development (USAID) in East Africa, and was project team leader for more than $65 million in USAID-funded programs in Pakistan. She has also worked on DAI's business development team and chaired its Haiti working group.
+Rebecca currently directs projects in sub-Saharan Africa. Previously, she led the U.K. Department for International Development’s Mozambique Democratic Governance Support Program. Before moving to Mozambique, she managed DAI’s cross-cutting teams implementing stabilization and state-building programs for the U.S. Agency for International Development (USAID) in East Africa, and was project team leader for programs in Pakistan. She has also worked on DAI’s business development team and chaired its Haiti working group.
 
 > "There are many pieces to every puzzle, and the best projects address a development problem in an integrated way. We take a holistic view to the people and the place, and see the politics, the economy, the environmental, water, or land issues at stake." — Rebecca Lawrence
 
