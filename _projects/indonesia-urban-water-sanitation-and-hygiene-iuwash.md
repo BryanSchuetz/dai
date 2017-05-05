@@ -1,5 +1,5 @@
 ---
-title: Indonesia Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS)
+title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS)
 date: 2016-01-21 22:40:00 Z
 summary: Despite positive economic growth in recent years, urban Indonesia still suffers
   from one of the lowest rates of access to safe water and improved sanitation in
