@@ -1,13 +1,11 @@
 ---
 title: Afghanistan—Musharikat
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: "Musharikat supports USAID Afghanistan's investments in women's rights groups
+  and activists. \n"
 start: 2015
 end: 2020
-regions:
-- Eastern Europe and Central Asia
-country:
-- Afghanistan
+client: U.S. Agency for International Development
 solutions:
 - Gender
 - Governance
@@ -17,17 +15,14 @@ solutions:
 - Security and Justice
 - Countering Extremism
 - Peace-Building and Political Transition
+regions:
+- Eastern Europe and Central Asia
+country:
+- Afghanistan
 layout: project
-summary: 'Musharikat will support USAID/Afghanistan''s investments in women''s rights
-  groups and activists. Musharikat—which means "partnership" or "participation" in
-  Dari and Pashto—aims to build constituencies, strengthen advocacy, and increase
-  awareness and support for women''s equality and empowerment in all of Afghanistan''s
-  34 provinces.
-
-'
 ---
 
-Musharikat will support USAID/Afghanistan's investments in women's rights groups and activists. Musharikat—which means "partnership" or "participation" in Dari and Pashto—aims to build constituencies, strengthen advocacy, and increase awareness and support for women's equality and empowerment in all of Afghanistan's 34 provinces.
+Musharikat supports USAID Afghanistan's investments in women's rights groups and activists. Musharikat—which means "partnership" or "participation" in Dari and Pashto—works to build constituencies, strengthen advocacy, and increase awareness and support for women's equality and empowerment in all of Afghanistan's 34 provinces.
 
 ###  ![][1]
 
