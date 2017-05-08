@@ -9,6 +9,10 @@ solutions:
 projects: Worldwide—Biodiversity Results and Integrated Development Gains Enhanced
   (BRIDGE)
 clients: U.S. Agency for International Development
+summary: A recent panel discussion, during the Smithsonian Institution’s Earth Optimism
+  Summit in Washington, D.C., was supported by the U.S. Agency for International Development’s
+  Biodiversity Results and Integrated Development Gains Enhanced (BRIDGE) Project,
+  implemented by DAI.
 ---
 
 What do chocolate, forests, sea turtles, and fisheries management have in common? The answer lies with biodiversity conservation for food security. These were topics recently discussed by four speakers who emphasized the importance of biodiversity conservation across development sectors.
