@@ -1,5 +1,5 @@
 ---
-title: Kenya—Ni Wetu Ni Wajibu Wetu (NIWETU)
+title: Kenya—NiWajibu Wetu (NIWETU)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Kenya Ni Wajibu Wetu (NIWETU) program was launched by the U.S. Agency
   for International Development to reduce violent extremism among at-risk individuals
