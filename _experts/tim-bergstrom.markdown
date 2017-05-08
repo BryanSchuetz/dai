@@ -15,3 +15,7 @@ regions:
 ---
 
 Tim Bergstrom leads the [Somali Business Catalytic Fund](http://www.somalibcf.com/), managing the operational and grant teams to achieve the program objectives. He has 21 years of professional experience, of which 15 years are in Africa. He is experienced in managing international trade programs, providing capacity building and market linkages to small and medium-sized firms and agro dealers. He has effectively managed several large U.K. Department for International Development, U.S. Agency for International Development, and World Bank projects, including the 12-year [South Africa International Business Linkages](https://www.dai.com/our-work/projects/south-africa-international-business-linkages-ii-saibl-ii) program which resulted in $330 million in sales to the United States from South Africa. He also has private sector management experience, including three successful business startups based in Southern Africa. Tim has worked and lived in Ethiopia, Malawi, Mozambique, Kenya, Somalia, South Africa, Tanzania, Uganda, Zambia, and Zimbabwe.
+
+* M.B.A., international operations, University of Saint Thomas
+* B.S., management information systems, Saint Mary's University of Minnesota
+* B.A., business and economics, Bethel University
