@@ -14,8 +14,7 @@ clients: U.S. Agency for International Development
 
 What do chocolate, forests, sea turtles, and fisheries management have in common? The answer lies with biodiversity conservation for food security. These were topics recently discussed by four speakers who emphasized the importance of biodiversity conservation across development sectors.
 
-
-
+<!--more-->
 
 The panel discussion took place during the Smithsonian Institution’s Earth Optimism Summit in Washington, D.C., during a session called “The Wild Table.” The discussion was supported by the U.S. Agency for International Development (USAID)’s [Biodiversity Results and Integrated Development Gains Enhanced (BRIDGE) Project](https://www.dai.com/our-work/projects/worldwide-biodiversity-results-and-integrated-development-gains-enhanced-bridge), implemented by DAI. This presentation showcased BRIDGE’s work with the Agency’s Office of Forestry and Biodiversity to integrate biodiversity conservation into development initiatives, such as food security.
 
