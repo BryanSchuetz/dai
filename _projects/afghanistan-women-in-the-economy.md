@@ -1,5 +1,5 @@
 ---
-title: Afghanistan—Women in the Economy (WIE)
+title: 'Afghanistan—Promote: Women in the Economy (WIE)'
 date: 2016-01-21 22:40:00 Z
 summary: The U.S Agency for International Development, in continuing its longstanding
   commitment to women in Afghanistan, has launched the Afghan Women’s Leadership in
