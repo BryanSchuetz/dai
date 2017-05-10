@@ -1,7 +1,6 @@
 ---
 title: Michael Warner
 date: 2017-05-09 16:37:00 Z
-published: false
 lastname: 'Warner '
 summary: Michael Warner is one of the world’s leading authorities on local content
   in the context of the oil and gas, mining, and infrastructure sectors. He is Managing
