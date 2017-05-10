@@ -14,8 +14,8 @@ solutions:
 - Corporate Sustainability
 - Local Content and Supply Chain Management
 articles:
-- name: 'Local Content in Procurement: Creating Local Jobs and Competitive Domestic
-    Industries in Supply Chains'
+- name: "*Local Content in Procurement: Creating Local Jobs and Competitive Domestic
+    Industries in Supply Chains*"
   article_file: https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644
 ---
 
