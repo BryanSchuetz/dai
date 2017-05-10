@@ -7,7 +7,6 @@ summary: 'In response to the news that Cuba''s Supreme Court has upheld a 15-yea
   Officer James Boomgard issued the following statement.
 
 '
-solutions: 
 regions: 
 projects: 
 clients: 

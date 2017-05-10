@@ -5,7 +5,6 @@ summary: 'DAI is delighted to announce that technology executive and champion Ma
   Juma of Jordan has accepted an invitation to join DAI''s Board of Directors.
 
 '
-solutions: 
 regions:
 - Middle East and North Africa
 projects: 
