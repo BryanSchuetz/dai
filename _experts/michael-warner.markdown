@@ -30,3 +30,8 @@ Immediately before founding LCS in 2010, Michael served as Local Content and Sup
 Between 1998 and 2001, Michael was Co-ordinator of the Oil, Gas and Mining Secretariat for a World Bank programme called Business Partners for Development. Before and after this secondment, he spent eight years with the Overseas Development Institute (ODI), in part as Director of the Business and Development Programme, where he managed projects on local content and inclusive business in the oil, gas, mining, agriculture, infrastructure, and ICT sectors. At ODI, in collaboration with the International Business Leaders Forum, he co-founded the successful Partnership Brokers Accreditation Scheme (PBAS), which continues to this day.
 
 A regular media commentator on business and international development issues, Michael has written more than 100 papers, reports, and books on business and economic development, including *[Local Content in Procurement: Creating Local Jobs and Competitive Domestic Industries in Supply Chains](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf.
+
+* Ph.D., strategic environmental and socioeconomic impact assessment, Imperial College, University of London 
+* B.Sc., geography, focus on international development and environmental management, University of Birmingham
+* Certified facilitator of multiparty consensus-building and dispute mediation, Environment Council
+* Accredited broker of cross-sector partnerships for sustainable development, PBAS
