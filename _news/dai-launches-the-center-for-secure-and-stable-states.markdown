@@ -2,6 +2,8 @@
 title: DAI Launches the Center for Secure and Stable States
 date: 2017-05-04 15:25:00 Z
 is_featured: true
+solutions:
+- Fragile States
 clients:
 - U.S. Agency for International Development
 - U.K. Department for International Development
