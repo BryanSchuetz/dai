@@ -8,7 +8,7 @@ layout: node
 
 DAI offers rewarding career opportunities in International Development for talented technical, managerial, and support professionals. By providing challenging assignments, a commitment to professional development, managerial systems based on teamwork, and an ownership stake in the company, we attract and retain high-caliber staff. Our workforce reflects a cultural diversity that gives us a broad spectrum of backgrounds and perspectives.
 
-<p><a href="https://sj.tbe.taleo.net/SJ1/ats/careers/jobSearch.jsp?org=DAINC&cws=1&rid=173" class="primary-block--button">Search Current Jobs <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></p>
+<p><a href="http://sj.tbe.taleo.net/SJ1/ats/careers/jobSearch.jsp?org=DAINC&cws=1&rid=173" class="primary-block--button">Search Current Jobs <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a></p>
 
 <iframe src="https://player.vimeo.com/video/138317317" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
