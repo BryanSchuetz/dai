@@ -23,7 +23,8 @@ Following on the original [Africa Lead project](/our-work/projects/africa-leader
 
 From 2010–2013, Africa Lead trained more than 1,800 food security leaders, conducted instructive assessments of many of the continent's agriculture institutions, and curated hundreds of short courses from 192 colleges and institutions into a single database, among other achievements. The five-year Africa Lead II program is now working with individual countries, regions, and many of these same "Champions for Change" to develop long-term, African-led activities to increase agricultural productivity and food security. Our menu of offerings is flexible, customizable, scalable, and transparent.
 
-![Africa-Lead-project-page.jpg](/uploads/Africa-Lead-project-page.jpg"Closing ceremony for Champions for Change short course for university students, January 2017 in Accra, Ghana.")
+![Africa-Lead-project-page.jpg](/uploads/Africa-Lead-project-page.jpg)
+`Closing ceremony for Champions for Change short course for university students, January 2017 in Accra, Ghana.`
 
 ### Sample Activities
 
@@ -37,10 +38,10 @@ From 2010–2013, Africa Lead trained more than 1,800 food security leaders, con
 
 ### Select Results
 
-* In Tanzania, developed a roster of 30 qualified instructors of Champions for Change (C4C) leadership training, who have provided training sessions to more than 540 policymakers and stakeholders, including Members of Parliament, local government officials, and leaders of community-based organizations.
+* Developed a roster of 30 qualified instructors of Champions for Change (C4C) leadership training in Tanzania, who have provided training sessions to more than 540 policymakers and stakeholders, including members of Parliament, local government officials, and leaders of community organizations.
 
-* Partnered with Media for Development International in Tanzania to conduct a media campaign to promote agricultural entrepreneurship among Tanzanian women and youth, producing two feature-length dramatic films and a 52-episode radio drama, [Kumekucha](http://kumekucha.info/), with weekly broadcasts across Tanzania.
+* Partnered with Media for Development International in Tanzania to conduct a media campaign to promote agricultural entrepreneurship among women and youth, producing two feature-length dramatic films and a 52-episode radio drama, [Kumekucha](http://kumekucha.info/), with weekly broadcasts.
 
-* Provided leadership and ICT training to 35 new agricultural extension agents in Kenya, allowing them to reach up to 800 farmers daily through social media and messaging applications, compared to previously conducting only four or five on-site visits in a day.
+* Provided leadership and ICT training to 35 new agricultural extension agents in Kenya, enabling them to reach up to 800 farmers daily through social media and messaging applications, compared to previously conducting only four or five on-site visits in a day.
 
 * Supported leaders of Ghanaian civil society groups in successfully advocating for key policy updates in the Ghana Livestock Development Policy and Strategy Document to address issues of poor animal nutrition, a lack of livestock disease control, and competition from imported animal produce.

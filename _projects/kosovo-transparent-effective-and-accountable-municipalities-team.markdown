@@ -17,8 +17,8 @@ The landlocked country of Kosovo—smaller than the U.S. state of Connecticut—
 
 TEAM assists municipalities in Kosovo to institute systems and training that will improve how cities account for public funds and expenditures. TEAM works with Kosovo-based partners, CiviKos and KPMG Kosovo/Albania Branch.
 
-![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg"City of Ferizaj, Kosovo. Photo Credit: Pero Kvrzica")
-
+![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg)
+`City of Ferizaj, Kosovo. Photo Credit: Pero Kvrzica`
 ### Sample Activities
 
 * Select five focus municipalities that show promise for fiscal reform.
