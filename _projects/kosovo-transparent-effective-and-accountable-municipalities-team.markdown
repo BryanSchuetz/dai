@@ -23,13 +23,8 @@ TEAM assists municipalities in Kosovo to institute systems and training that wil
 ### Sample Activities
 
 * Select five focus municipalities that show promise for fiscal reform.
-
 * Sign Memoranda of Understanding with the municipalities and mobilize TEAM staff accordingly.
-
 * Conduct the Needs Gap Analysis using systems tools.
-
 * Create custom work plans for the five partner municipalities.
-
 * Establish the Support Fund to build capacity among local and national civil society organizations to enhance citizen oversight.
-
 * Initiate coordination and outreach with donors in Kosovo working in complement with TEAM.
