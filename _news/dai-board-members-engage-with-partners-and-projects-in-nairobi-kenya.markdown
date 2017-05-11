@@ -1,6 +1,10 @@
 ---
 title: DAI Board Members Engage with Partners and Projects in Nairobi, Kenya
 date: 2017-05-11 19:50:00 Z
+regions: Sub-Saharan Africa
+summary: Members of DAI’s Board visited project sites in Nairobi, Kenya, on Wednesday
+  as part of their quarterly meeting, which they seek to hold once per year in a country
+  where DAI works.
 ---
 
 Members of DAI’s Board visited project sites in Nairobi, Kenya, on Wednesday as part of their quarterly meeting, which they seek to hold once per year in a country where DAI works.
