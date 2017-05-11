@@ -19,6 +19,7 @@ TEAM assists municipalities in Kosovo to institute systems and training that wil
 
 ![Kosovo-TEAM-website-2ea4f1.jpg](/uploads/Kosovo-TEAM-website-2ea4f1.jpg)
 `City of Ferizaj, Kosovo. Photo Credit: Pero Kvrzica`
+
 ### Sample Activities
 
 * Select five focus municipalities that show promise for fiscal reform.
