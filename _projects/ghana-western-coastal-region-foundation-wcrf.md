@@ -1,5 +1,5 @@
 ---
-title: Ghana—Western Coastal Region Foundation (WCRF)
+title: Ghana—Western Region Coastal Foundation (WRCF)
 date: 2016-01-21 22:40:00 Z
 summary: 'The WRCF is focused on helping to build local supply chains, improve stability,
   and promote inclusive economic development for poor communities in the six coastal
@@ -11,6 +11,7 @@ end: 2019
 client: U.K. Department for International Development
 solutions:
 - Corporate Sustainability
+- Economic Growth
 regions:
 - Sub-Saharan Africa
 country:
@@ -18,7 +19,7 @@ country:
 layout: project
 ---
 
-The WRCF is focused on helping to build local supply chains, improve stability, and promote inclusive economic development for poor communities in the six coastal districts in Ghana tied to the oil and gas sector. The project will focus on crowding-in private sector corporate funding from oil and gas companies and [building trusted relationships ](http://dai-global-developments.com/articles/dialogue-and-development-in-ghanas-oil-and-gas-region/)between coastal communities and oil and gas companies.
+The Western Region Coastal Foundation (WRCF) is focused on helping to build local supply chains, improve stability, and promote inclusive economic development for poor communities in the six coastal districts in Ghana tied to the oil and gas sector. The project will focus on crowding-in private sector corporate funding from oil and gas companies and [building trusted relationships ](http://dai-global-developments.com/articles/dialogue-and-development-in-ghanas-oil-and-gas-region/)between coastal communities and oil and gas companies.
 
 Learn how the foundation works by watching this video:
 <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/134617154" webkitallowfullscreen=""></iframe>
