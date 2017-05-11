@@ -5,7 +5,7 @@ date: 2017-05-11 19:50:00 Z
 
 Members of DAI’s Board visited project sites in Nairobi, Kenya, on Wednesday as part of their quarterly meeting, which they seek to hold once per year in a country where DAI works.
  
-The visits—led by DAI’s Mark Rostal and Sarah Helmstadter, and DAI Board Chair Betsey Nelson—featured briefings by project managers, partners, and beneficiaries. 
+The visits—led by DAI’s [Mark Rostal](https://www.dai.com/who-we-are/our-team/mark-rostal) and [Sarah Helmstadter](https://www.dai.com/who-we-are/global-reach/united-states/contacts/management-business), and DAI Board Chair [Betsey Nelson](https://www.dai.com/who-we-are/board/elizabeth-nelson)—featured briefings by project managers, partners, and beneficiaries. 
 
 The group first visited the Geoseismic Water Company, one of 110 private enterprises receiving assistance under the U.S. Agency for International Development (USAID) Kenya Integrated Water, Sanitation and Hygiene Project (KIWASH). They then traveled to the Kangemi shantytown and visited a community center that hosts victimized and vulnerable young women and men under USAID’s Kenya Ni Wetu Ni Wajibu Wetu program.
 
