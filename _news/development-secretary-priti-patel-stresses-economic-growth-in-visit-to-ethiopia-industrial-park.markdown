@@ -20,7 +20,7 @@ Citing long-term domestic and security benefits to the United Kingdom, Internati
 
 Speaking at a burgeoning industrial park in Ethiopia, where clothing is being manufactured for brands such as Calvin Klein and Tommy Hilfiger, Patel said that continued development assistance will help Ethiopia create jobs to sustain its rapidly growing native and refugee populations.
 
-![DAI-News----PEPE-Patel-visit-8b7f24.jpg](/uploads/DAI-News----PEPE-Patel-visit-8b7f24.jpg "UK Development Secretary Priti Patel is greeted by DAI's Nebil Kellow, managing director of Enterprise Partners.")
+![DAI-News----PEPE-Patel-visit-8b7f24.jpg](/uploads/DAI-News----PEPE-Patel-visit-8b7f24.jpg)
 `UK Development Secretary Priti Patel is greeted by DAI's Nebil Kellow, managing director of Enterprise Partners.`
 <!--more-->
 
