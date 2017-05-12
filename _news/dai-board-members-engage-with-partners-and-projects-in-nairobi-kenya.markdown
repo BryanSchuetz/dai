@@ -13,7 +13,7 @@ The visits—led by DAI’s [Mark Rostal](https://www.dai.com/who-we-are/our-tea
 
 ![DAI-News----DAI-Board-Nairobi-2.jpg](/uploads/DAI-News----DAI-Board-Nairobi-2.jpg "DAI Board and others visiting the Geoseismic Water Company in Nairobi, Kenya.")
 
-The group first visited the Geoseismic Water Company, one of 110 private enterprises receiving assistance under the U.S. Agency for International Development (USAID) [Kenya Integrated Water, Sanitation and Hygiene Project](https://www.dai.com/our-work/projects/kenya-integrated-water-sanitation-and-hygiene-project-kiwash) (KIWASH). They then traveled to the Kangemi shantytown and visited a community center that hosts victimized and vulnerable young women and men under USAID’s Kenya Ni Wet program.
+The group first visited the Geoseismic Water Company, one of 110 private enterprises receiving assistance under the U.S. Agency for International Development (USAID) [Kenya Integrated Water, Sanitation and Hygiene Project](https://www.dai.com/our-work/projects/kenya-integrated-water-sanitation-and-hygiene-project-kiwash) (KIWASH). They then traveled to the Kangemi shantytown and visited a community center that hosts victimized and vulnerable young women and men under USAID’s Kenya NiWetu program.
 
 During Wednesday’s visit, Kenneth Marangu—owner of the Geoseismic Water Company, also known as Ken’s Borehole—spoke of how he started the borehole five years ago, and of how surrounding property values have increased as water has become more accessible. The KIWASH team is assisting Marangu to improve water efficiency, extend his pipelines, and grow the company’s network from 1,000 to 3,000 metered customers.
 
