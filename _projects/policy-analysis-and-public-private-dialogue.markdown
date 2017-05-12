@@ -1,7 +1,6 @@
 ---
 title: Tanzania—Policy Analysis and Public-Private Dialogue Support
 date: 2017-05-12 18:21:00 Z
-published: false
 summary: DAI supports the Oil and Gas Association of Tanzania by conducting comparative
   policy analysis and facilitating public-private dialogues as part of the Association's
   efforts to engage government stakeholders on how to most effectively implement new
