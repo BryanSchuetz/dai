@@ -1,12 +1,12 @@
 ---
 title: James Boomgard
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
+date: 2016-01-21 22:18:00 Z
+job-title: President and Chief Executive Officer
 summary: Jim has worked at the forefront of economic development issues for more than
   30 years in more than 30 countries.
-job-title: President and Chief Executive Officer
+image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
 sort-order: 0
+layout: leaders
 ---
 
 Jim Boomgard has worked at the forefront of economic development issues for more than 30 years in more than 30 countries. For the past 26 years he has worked for DAI—with the exception of a two-year stint with FMC Corporation, where he was seconded to establish a large-scale farming operation in Eastern Indonesia.
@@ -26,5 +26,5 @@ In the past few years, Jim has emerged as a leading figure in industry debates o
 * Ph.D., agricultural economics (international agricultural development), Michigan State University
 * International Executive Program, INSEAD, Fontainebleau, France and Singapore
 * Board member, Professional Services Council
-* Founding member and Chair, Council of International Development Companies
+* Founding member, Council of International Development Companies
 * Member, United States’ Advisory Committee on Voluntary Foreign Aid
