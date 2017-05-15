@@ -1,27 +1,27 @@
 ---
 title: Kristen Roggemann
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Roggemann
+summary: Before joining DAI, Kristen Roggemann held advisory and business development
+  positions within a variety of mobile-for-development and international development
+  organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen,
+  driving partnership strategy at the intersection of the mobile operator and international
+  development sectors.
+job-title: 'Digital Insights and ICT Products Manager '
+image: https://assetify-dai.com/experts/KristenInner.jpg
+solutions:
+- Digital
+- Economic Growth
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
 - Middle East and North Africa
 - Sub-Saharan Africa
-solutions:
-- Digital
-- Economic Growth
-layout: expert
-image: https://assetify-dai.com/experts/KristenInner.jpg
-summary: Before joining DAI, Kristen Roggemann held advisory and business development
-  positions within a variety of mobile-for-development and international development
-  organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen,
-  driving partnership strategy at the intersection of the mobile operator and international
-  development sectors.
-job-title: Principal Mobile Solutions Specialist
 articles:
 - name: Guess Which Communications Platform Youth Prefer Today?
   article_file: http://us4.campaign-archive1.com/?u=84e9f392a668e74df589375c7&id=5446792d6e&e=2d65075350
+layout: expert
 ---
 
 Before joining DAI, Kristen Roggemann held advisory and business development positions within a variety of mobile-for-development and international development organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen, driving partnership strategy at the intersection of the mobile operator and international development sectors.
