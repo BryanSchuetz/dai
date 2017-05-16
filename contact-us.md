@@ -9,7 +9,7 @@ layout: default
 <div class="cf">
 <div class="contact-us us">
 <h2 id="us">United States</h2> 
-<p>tel: (301)771-7600<br>
+<p>Tel: (301)771-7600<br>
 <a href="mailto:steven_o'connor@dai.com">Email</a></p>
 
     <p><strong>Washington</strong><br>
@@ -59,7 +59,7 @@ layout: default
     Level 7, Hobart Place<br>
     AMP Building<br>
     Canberra, Australia<br>
-    Tel: \+61 2 6162 1621</p>
+    Tel: +61 2 6162 1621</p>
 
     <p><strong>Additional Email Contacts</strong><br>
     <a href="mailto:steven_o'connor@dai.com">Press Inquiries</a></p>
