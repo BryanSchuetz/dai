@@ -1,13 +1,13 @@
 ---
 title: Pakistan—AAWAZ Voice and Accountability Programme
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+date: 2016-01-21 22:40:00 Z
+summary: 'AAWAZ brings together five of the most important civil society development
+  organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan,
+  Strengthening Participatory Organization, Sungi Development Foundation, and Sustainable
+  Development Policy Institute.'
 start: 2012
-end: 2017
-regions:
-- Asia and the Pacific
-country:
-- Pakistan
+end: 2018
+client: U.K. Department for International Development
 solutions:
 - Gender
 - Governance
@@ -17,11 +17,11 @@ solutions:
 - Countering Extremism
 - Peace-Building and Political Transition
 - Stabilization
+regions:
+- Asia and the Pacific
+country:
+- Pakistan
 layout: project
-summary: 'AAWAZ brings together five of the most important civil society development
-  organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan,
-  Strengthening Participatory Organization, Sungi Development Foundation, and Sustainable
-  Development Policy Institute.'
 ---
 
 AAWAZ brings together five of the most important civil society development organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan, Strengthening Participatory Organization, Sungi Development Foundation, and Sustainable Development Policy Institute. Together, they form an integrated network—managed by DAI—to strengthen Pakistani citizens' capacity to collectively voice their priorities, bring about reform, and hold the government accountable.
