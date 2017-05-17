@@ -27,5 +27,6 @@ Since its inception, *Alif Ailaan* has embedded specific education issues into t
 
 ###  Sample Activities
 
-* Design and implement a public advocacy campaign, a media strategy that reaches out to target groups with clear messages; an online data observatory where evidence can be published and accessed easily by parents, teachers, and civil society organizations.
-* Elicit engagement from key stakeholders, nongovernmental organisations, and education champions.
+* Write, design, and publish a three-volume document titled “Powering Pakistan for the 21st Century”; the document establishes the importance of maths and science for a country’s progress and an individual’s cognitive development in the first volume, demonstrates the state of maths and science in Pakistan currently and the contributing factors, and finally engages practitioners in policy, maths and science, and education to come up with comprehensive and specific recommendations to transform education in Pakistan.
+* Organise a series of School Management Council conventions in 14 constituencies across Pakistan.
+* Create alliances around education themes: maths and science education, government education finance, and data.
