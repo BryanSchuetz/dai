@@ -41,12 +41,12 @@ AVANSE works with both farmers and the private sector to address key constraints
 
 ### Select Results
 
-* Organized smallholder cacao farmers into vendor groups to combine and manage stocks and sell directly to Haiti’s largest cacao exporter, Novella, leading to an almost 100 percent increase in the price per pound of cocoa sold by farmers.
+* In 2016, organized smallholder cacao farmers into vendor groups to combine and manage stocks and sell directly to Haiti’s largest cacao exporter, Novella, leading to an almost 100 percent increase in the price per pound of cocoa sold by farmers.
 
 * Collaborated with local nongovernmental organization Collectifs de Lutte Contre  l’Exclusion Sociale to sign an agreement to purchase high-quality rice seeds produced by AVANSE farmers, resulting in five tons of seed sold by farmers at 68 Haitian Gourde (HTG) per kilo, compared to 35 HTG per kilo that most farmers previously earned selling rice paddies on the local market.
 
-* Implemented improved technologies to help increase crop yields in more than 4,790 hectares of farmland, including fertilizers, plowing services, irrigation systems, and grafting and pruning tools.
+* Implemented improved technologies to help increase crop yields in more than 4,790 hectares of farmland in 2016, including fertilizers, plowing services, irrigation systems, and grafting and pruning tools.
 
 * Signed 11 grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 667 hectares of hillside land from soil erosion and prevent flooding and landslides.
 
-* Provided two major grants to public-private partnerships to improve local livelihoods; one grant for Haitian Banana Producers Union to develop a 50-hectare commercial farm for the production and export of bananas, and another with cacao processor PISA S.A. to expand cacao fermentation facilities and improve the quality and value of cacao producers’ output.
+* Providing support to ongoing grant programs/public-private partnerships to improve local livelihoods; one grant for Haitian Banana Producers Union to develop a 50-hectare commercial farm for the production and export of bananas, and another with cacao processor PISA S.A. to expand cacao fermentation facilities and improve the quality and value of cacao producers’ output.
