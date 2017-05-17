@@ -1,5 +1,5 @@
 ---
-title: Honduras Local Governance Activity (HLG)
+title: Honduras—Local Governance Activity (HLG)
 date: 2016-11-19 00:25:00 Z
 summary: 'Despite greater economic stability since 2000, Honduras has yet to significantly
   improve living conditions or reduce poverty for much of its citizenry. The inability
