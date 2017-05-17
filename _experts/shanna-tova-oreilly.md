@@ -1,14 +1,14 @@
 ---
 title: Shanna Tova O’Reilly
 date: 2016-01-21 22:18:00 Z
-lastname: Oreilly
+lastname: O'Reilly
 summary: 'Shanna Tova O''Reilly has more than 15 years of experience in stabilization
   and citizen security, working with the U.S. Agency for International Development,
   Department of Defense, and other donors in fragile states in Africa, Asia, Latin
   America, and the Middle East.
 
 '
-job-title: Senior Development Practitioner
+job-title: Chief of Party, Honduras School-Based Violence Prevention Activity
 image: "/uploads/Shanna%20Meeting%201st%20Lady%20Honduras.jpg"
 solutions:
 - Governance
