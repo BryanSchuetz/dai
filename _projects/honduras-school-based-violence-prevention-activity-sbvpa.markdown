@@ -22,7 +22,7 @@ While the education sector in Honduras faces many complex challenges, one of the
 
 The Honduras School-Based Violence Prevention Activity (SBVPA), funded by the U.S. Agency for International Development (USAID), capitalizes on the opportunity that schools provide to establish a culture of non-violence, inclusion, and respect among youth. SBVPA partners with education systems and communities in target municipalities to make schools safer places for students and teachers, while also empowering schools to play a larger role in decreasing community violence.
 
-To address the complex nature of violence in and around schools, SBVPA works across multiple levels; improving schools’ ability to prevent violence; strengthening local networks that increase school safety; and building the capacity of the Ministry of Education and social service agencies to respond to school-based violence. By taking a comprehensive, adaptive approach that involves teachers, students, administrators, community members, and policymakers, SBVPA’s interventions helps to enhance education and job opportunities for youth, while increasing peace and security in communities.
+To address the complex nature of violence in and around schools, SBVPA works across multiple levels: improving schools’ ability to prevent violence; strengthening local networks that increase school safety; and building the capacity of the Ministry of Education and social service agencies to respond to school-based violence. By taking a comprehensive, adaptive approach that involves teachers, students, administrators, community members, and policymakers, SBVPA works to enhance education and job opportunities for youth, while increasing peace and security in communities.
 
 **Sample Activities**
 
