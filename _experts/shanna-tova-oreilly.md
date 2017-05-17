@@ -9,7 +9,7 @@ summary: 'Shanna Tova O''Reilly has more than 15 years of experience in stabiliz
 
 '
 job-title: Senior Development Practitioner
-image: https://assetify-dai.com/experts/Shanna%20inner.jpg
+image: "/uploads/Shanna%20Meeting%201st%20Lady%20Honduras.jpg"
 solutions:
 - Governance
 - Institutional and Policy Reform
