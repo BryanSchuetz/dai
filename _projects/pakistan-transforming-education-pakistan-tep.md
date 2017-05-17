@@ -1,29 +1,29 @@
 ---
 title: Pakistan—Transforming Education in Pakistan (TEP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+date: 2016-01-21 22:40:00 Z
+summary: The Transforming Education in Pakistan (TEP) programme manages a public advocacy
+  campaign in Pakistan to ensure that parents and civil society groups support quality
+  education.
 start: 2012
-end: 2016
-regions:
-- Asia and the Pacific
-country:
-- Pakistan
+end: 2018
+client: U.K. Department for International Development
 solutions:
 - Governance
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
 - Voice and Accountability
+regions:
+- Asia and the Pacific
+country:
+- Pakistan
 layout: project
-summary: The Transforming Education in Pakistan (TEP) programme is developing and
-  implementing a public advocacy campaign in Pakistan to ensure that parents and civil
-  society groups support quality education.
 ---
 
-The Transforming Education in Pakistan (TEP) programme is developing and implementing a public advocacy campaign in Pakistan to ensure that parents and civil society groups support quality education. _Alif Ailaan_ is the brand name for the three-year campaign, based on a decade-long engagement between the U.K. Department for International Development and education stakeholders in Pakistan that essentially determined the need for a dramatic change in the level of active political engagement on education issues. The theory of change for the project is that a greater degree of political salience for education is a prerequisite for any transformational change to take place in education in Pakistan.
+The Transforming Education in Pakistan (TEP) programme manages a political advocacy and media campaign in Pakistan to ensure that parents and communities demand quality education and that the government takes tangible steps to provide free quality education to all children between the ages of 5 and 16. The campaign, *Alif Ailaan*, works through six core strands—political and government, media, research, digital/social media, civil society and alliances. 
+
+Since its inception, *Alif Ailaan* has embedded specific education issues into the discourse, set a precedent of data-informed journalism and reporting on education, pioneered a series of ground-breaking publications, and successfully lobbied for the government to research, calculate, and publish a nationally accepted number for out-of-school children between the ages of 5 and 16. In its current phase, the campaign is focused on lobbying for and getting key stakeholders to demand quality learning available in the classrooms of government schools, which are the only option available to the poorest parents to send their children to school. The campaign is now geared towards the next Pakistani general election, in May 2018. The team intends for the provision for quality education for all provided by the government to be a top priority agenda item in manifestos and political party campaigns.  
 
 <iframe src="//player.vimeo.com/video/104423898" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
-There are five core strands that the campaign depends on to enhance education's standing in the mainstream political discourse: Direct political advocacy, the media, civil society and direct community engagement, research and evidence and finally, the international community. Several pioneering efforts have been tested by the _Alif Ailaan_ campaign, which is already recognised as a trailblazer in areas such as education and school infrastructure league tables for districts, cross-platform activism, and engaging senior journalists and politicians.
 
 ###  Sample Activities
 
