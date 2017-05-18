@@ -6,7 +6,7 @@ layout: default
 
 # Frequently Asked Questions
 
-Don't see the answer you're looking for below? [Send us your question][1] and we'll find an answer for you.
+Don't see the answer you're looking for below? [Send us your question][1] and we'll find an answer for you in no time.
 
 ###  What do the letters DAI stand for?
 
