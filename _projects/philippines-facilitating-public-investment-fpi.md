@@ -21,7 +21,9 @@ layout: project
 
 With reform-minded leadership and the commitment of the United States and Philippine governments to transformational change—embodied in their joint Partnership for Growth—the Philippines has a rare opportunity to address some critical fiscal issues. FPI is helping the government of the Philippines [increase its fiscal space](http://dai-global-developments.com/articles/how-tax-assistance-from-usaid-dfid-helps-developing-countries-to-manage-money-and-help-themselves/) to enable inclusive economic growth as well as identify synergies between increasing revenue collection and improving the business environment.
 
-The project promotes optimization of public expenditures through results-oriented budgeting and fiscal transparency, eliminating ineffective spending in favor of high-impact programs and public investment in infrastructure, education, technology, and other areas. Our key counterparts are the Department of Finance, Bureau of Internal Revenue, Department of Budget Management, and Bureau of Customs.
+The project promotes optimization of public expenditures through results-oriented budgeting and fiscal transparency, eliminating ineffective spending in favor of high-impact programs and public investment in infrastructure, education, technology, and other areas. Our key counterparts are the Department of Finance, Bureau of Internal Revenue, Department of Budget Management, and Bureau of Customs.![FPI.jpg](/uploads/FPI.jpg)
+
+
 
 ### Sample Activities
 
