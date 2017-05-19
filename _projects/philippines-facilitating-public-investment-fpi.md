@@ -34,6 +34,6 @@ The project promotes optimization of public expenditures through results-oriente
 
 ### Select Results
 
-* Partnered with the Bureau of Internal Revenue to improve performance of electronic filing system during peak season and reduce service cutouts, contributing to an increased rate of taxpayers using electronic filing, from just 10 percent in 2013 to over 90 percent in 2016.
+* Partnered with the Bureau of Internal Revenue to [improve performance of electronic filing](http://dai-global-developments.com/articles/philippines-increases-tax-collections-by-11-billion-year-over-yearwithout-raising-rates/) system during peak season and reduce service cutouts, contributing to an increased rate of taxpayers using electronic filing, from just 10 percent in 2013 to over 90 percent in 2016.
 * Supported public awareness campaign on electronic filing which, together with filing IT system improvements, helped to drive a 10 percent increase in collections in 2015, while also reducing waiting lines in select regional tax administration offices by several hours.
 * Provided technical assistance to the Department of Budget and Management to streamline key internal business processes, helping to identify the opportunity to free up $500 million within the 2016 national government budget.
