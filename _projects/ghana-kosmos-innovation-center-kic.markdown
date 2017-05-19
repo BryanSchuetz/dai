@@ -20,7 +20,7 @@ To more sustainably invest in the social and economic development of the communi
 
 The KIC promotes innovation and youth employment by investing in, and facilitating the development of Ghanaian entrepreneurs and businesses, with a current focus on the agribusiness sector. The DAI team provides capacity building support, personnel recruitment and management, stakeholder engagement, investment due diligence, and ongoing technical assistance to the Kosmos Innovation Center.
 
-![KIC_image_1.jpg](/uploads/KIC_image_1.jpg)
+<iframe src="https://player.vimeo.com/video/210303653" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
