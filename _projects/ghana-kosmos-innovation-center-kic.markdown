@@ -2,12 +2,9 @@
 title: Ghana—Kosmos Innovation Center (KIC)
 date: 2017-05-19 17:58:00 Z
 published: false
-summary: DAI helped to Kosmos Energy to design, launch, and implement the Kosmos Innovation
-  Center (KIC) program as part of the oil and gas company's corporate social investment
-  strategy in Ghana. The KIC promotes innovation and youth employment by investing
-  in, and facilitating the development of Ghanaian entrepreneurs and businesses in
-  order to advance locally led, market-driven solutions to  the country's social and
-  economic challenges.
+summary: 'DAI helped to Kosmos Energy to design, launch, and implement the Kosmos
+  Innovation Center (KIC) program as part of the oil and gas company''s corporate
+  social investment strategy in Ghana. '
 start: 2015
 client: Kosmos Energy
 solutions:
@@ -21,14 +18,14 @@ End: 2017
 
 To more sustainably invest in the social and economic development of the communities where it operates in Ghana, Kosmos Energy sought the expertise of DAI to offer new approaches to local engagement beyond tradition models of corporate social responsibility (CSR). DAI helped to design, launch, and implement the Kosmos Innovation Center (KIC) program to advance locally led, market-driven solutions to some of the country’s key challenges.
 
-The KIC promotes innovation and youth employment by investing in, and facilitating the development of Ghanaian entrepreneurs and businesses, with a current focus on the agribusiness sector. The DAI ERG team provides capacity building support, personnel recruitment and management, stakeholder engagement, investment due diligence, and ongoing technical assistance to the Kosmos Innovation Center.
+The KIC promotes innovation and youth employment by investing in, and facilitating the development of Ghanaian entrepreneurs and businesses, with a current focus on the agribusiness sector. The DAI team provides capacity building support, personnel recruitment and management, stakeholder engagement, investment due diligence, and ongoing technical assistance to the Kosmos Innovation Center.
 
 ![KIC_image_1.jpg](/uploads/KIC_image_1.jpg)
 
 ### Sample Activities
 
-* Collaborate with Kosmos Energy to design their flagship social investment program in Ghana, ensuring buy-in from internal stakeholders at the company as well as external stakeholders from the national government and other relevant institutions.
-* Provide seed funding, capacity building, and mentorship through innovation challenges to promote the development of promising local start-up enterprises created by young entrepreneurs.
+* Collaborate with Kosmos Energy to design its flagship social investment program in Ghana, ensuring buy-in from internal stakeholders at the company as well as external stakeholders from the national government and other relevant institutions.
+* Provide seed funding, capacity building, and mentorship through innovation challenges to promote the development of promising local startup enterprises created by young entrepreneurs.
 * Provide technical support to an accelerator engaging small- and medium-sized enterprises in the agribusiness sector.
 * Host workshops and conferences that bring together experts in business, technology, finance, academia, and other fields to collaborate in developing practical solutions to pressing social problems.
 
