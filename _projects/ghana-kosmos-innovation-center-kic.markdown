@@ -2,6 +2,21 @@
 title: Ghana—Kosmos Innovation Center (KIC)
 date: 2017-05-19 17:58:00 Z
 published: false
+summary: DAI helped to Kosmos Energy to design, launch, and implement the Kosmos Innovation
+  Center (KIC) program as part of the oil and gas company's corporate social investment
+  strategy in Ghana. The KIC promotes innovation and youth employment by investing
+  in, and facilitating the development of Ghanaian entrepreneurs and businesses in
+  order to advance locally led, market-driven solutions to  the country's social and
+  economic challenges.
+start: 2015
+End: 2017
+client: Kosmos Energy
+solutions:
+- Corporate Sustainability
+- Innovation and Entrepreneurship
+- Local Content and Supply Chain Management
+regions: Sub-Saharan Africa
+country: Ghana
 ---
 
 In order to more sustainably invest in the social and economic development of the communities where it operates in Ghana, Kosmos Energy sought the expertise of the DAI Energy and Resources Group (ERG) to offer new approaches to local engagement beyond tradition models of corporate social responsibility (CSR). DAI helped to design, launch, and implement the Kosmos Innovation Center (KIC) program to advance locally led, market-driven solutions to some of the country’s key challenges.
