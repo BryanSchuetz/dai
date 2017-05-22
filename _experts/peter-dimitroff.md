@@ -11,7 +11,6 @@ solutions:
 - Gender
 - Institutional and Policy Reform
 - Legislative Strengthening
-- Public Financial Management
 - Governance
 layout: expert
 image: https://assetify-dai.com/experts/Dimitroff%2C%20Peter%20inner.jpg

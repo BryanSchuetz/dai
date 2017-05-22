@@ -11,6 +11,7 @@ image: https://assetify-dai.com/experts/innereunice_0.jpg
 solutions:
 - Governance
 - Economic Growth
+- Public Financial Management
 regions:
 - Latin America and the Caribbean
 articles:

@@ -11,7 +11,6 @@ job-title: Regional Managing Director, Middle East and Afghanistan
 image: https://assetify-dai.com/experts/Spake_Inner%20%281%29.jpg
 solutions:
 - Economic Growth
-- Public Financial Management
 - Governance
 - Natural Resource Management
 - Fragile States

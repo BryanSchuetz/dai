@@ -8,7 +8,6 @@ solutions:
 - Decentralization and Local Government Management
 - Economic Growth
 - Institutional and Policy Reform
-- Public Financial Management
 layout: expert
 image: https://assetify-dai.com/experts/EnriqueInner.jpg
 summary: Enrique Giraldo has more than 20 years of experience in tax policy and administration,
