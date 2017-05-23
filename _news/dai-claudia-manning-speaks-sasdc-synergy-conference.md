@@ -1,6 +1,8 @@
 ---
 title: DAI’s Claudia Manning Speaks at SASDC Synergy Conference
 date: 2013-06-28 18:05:00 Z
+regions:
+- Sub-Saharan Africa
 summary: 'Claudia Manning, Managing Director of DAI''s Johannesburg office, spoke
   to delegates this week at the South African Supplier Diversity Council (SASDC) Synergy
   Conference about challenges facing the country, particularly about the various instruments
@@ -9,15 +11,10 @@ summary: 'Claudia Manning, Managing Director of DAI''s Johannesburg office, spok
   Council.
 
 '
-solutions: 
-regions:
-- Sub-Saharan Africa
-projects: 
-clients: 
 layout: node
 ---
 
-![Claudia Manning][1]{:.float-left}Claudia Manning, Managing Director of DAI's [Johannesburg office][2], spoke to delegates this week at the South African Supplier Diversity Council (SASDC) Synergy Conference about challenges facing the country, particularly about the various instruments that could be used by government and the private sector to ameliorate unemployment. The SASDC is modeled on the successful U.S. National Minority Supplier Development Council.
+![Claudia Manning][1]{:.float-left}Claudia Manning, Managing Director of DAI's Johannesburg office, spoke to delegates this week at the South African Supplier Diversity Council (SASDC) Synergy Conference about challenges facing the country, particularly about the various instruments that could be used by government and the private sector to ameliorate unemployment. The SASDC is modeled on the successful U.S. National Minority Supplier Development Council.
 
 More than a quarter of economically active people in South Africa are unemployed, with unofficial estimates even higher. By comparison, Brazil, currently experiencing its most severe social protests in decades, has less than 10 percent unemployment. In South Africa, more than 50 percent of South African working-age youth (under the age of 25) are unemployed.
 
