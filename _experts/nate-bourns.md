@@ -3,11 +3,7 @@ title: Nate Bourns
 date: 2016-01-21 22:18:00 Z
 lastname: Bourns
 summary: 'Nate Bourns began learning the value of language as a 12-year-old while
-  on a trip to Mexico with his Spanish class—and the lesson stuck. "Language opens
-  up all sorts of windows to the world, and lets you think the way other people think,"
-  Nate says.
-
-'
+  on a trip to Mexico with his Spanish class—and the lesson stuck. '
 job-title: Vice President, Technical Services
 image: https://assetify-dai.com/experts/nate_inner.jpg
 solutions:
