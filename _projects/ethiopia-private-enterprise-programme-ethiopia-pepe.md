@@ -22,6 +22,7 @@ Enterprise Partners is the major component of the U.K. Department for Internatio
 DAI is implementing this work with consortium partners First Consult/Ethiopia, Itad/UK, Enclude/NL, and BCaD. We are utilizing the [market systems approach](https://www.dai.com/news/new-primer-market-systems-development-available) to achieve the impact. Enterprise Partners is identifying key constraints and developing socially and environmentally responsible strategies working with industry actors to introduce new business models. This is leading to a better business enabling environment and investment generation in Ethiopia.
 
 Enterprise Partners works through two major pillars:
+
 * **Agro-Industry:** Strengthening market systems in three priority sectors of the Government of Ethiopia—cotton, textile and apparel; leather and livestock; and fruits and vegetables.  
 * **Access to Finance:** Strengthening financial systems for increased financial inclusion of the poor into formal financial systems and enabling investments for small, medium, and large enterprises.
 
