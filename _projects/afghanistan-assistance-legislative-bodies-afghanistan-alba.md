@@ -14,8 +14,8 @@ solutions:
 - Governance
 - Institutional and Policy Reform
 - Legislative Strengthening
-- Public Financial Management
 - Law and Justice
+- Public Financial Management
 regions:
 - Eastern Europe and Central Asia
 country:

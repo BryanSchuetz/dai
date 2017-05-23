@@ -9,6 +9,7 @@ end: 2017
 client: U.S. Agency for International Development
 solutions:
 - Governance
+- Public Financial Management
 regions:
 - Latin America and the Caribbean
 country:
