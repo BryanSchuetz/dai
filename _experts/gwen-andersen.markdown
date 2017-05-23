@@ -27,4 +27,4 @@ Her focus is on wind, solar, and small hydro but she gained familiarity with bio
 
 * MBA, finance, American University
 * MA, international development: appropriate electrification technology, American University
-*BA, international relations, Bryn Mawr College
+* BA, international relations, Bryn Mawr College
