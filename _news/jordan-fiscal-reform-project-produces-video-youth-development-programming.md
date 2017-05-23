@@ -5,9 +5,9 @@ summary: Jordan continues to carry the burden of high unemployment rates among i
   young people—at 30 percent. The Fiscal Reform Project (FRP), funded by the U.S.
   Agency for International Development, supports young Jordanians, current students
   and recent graduates, through its Internship and Volunteer Program.
-solutions: 
-  - Governance
-  - Public Financial Management
+solutions:
+- Governance
+- Public Financial Management
 regions: Middle East and North Africa
 projects:
 - Jordan Fiscal Reform Project II and Bridge Activity (FRP II, FRP Bridge)

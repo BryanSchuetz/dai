@@ -1,5 +1,6 @@
 ---
 ---
+
 {% assign pfm_projects = site.projects | where_exp:"project", "project.solutions contains 'Public Financial Management'" %}
 {% for project in pfm_projects %}
 - title: "{{ project.title }}"
