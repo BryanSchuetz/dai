@@ -23,4 +23,4 @@ Prior to that, she was a Senior Lecturer in public health at the Liverpool John 
 * MSc nursing (midwifery pathway), University of Manchester
 * BSc (Hons), nursing, University of Ibadan, Nigeria
 * Registered Nurse, Registered Midwife, Registered Nurse/Midwife Educator
-Fellow, Royal Society of Public Health (FRSPH)
+* Fellow, Royal Society of Public Health
