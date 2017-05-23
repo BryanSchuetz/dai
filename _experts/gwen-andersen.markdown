@@ -1,7 +1,6 @@
 ---
 title: Gwen Andersen
 date: 2017-05-23 15:44:00 Z
-published: false
 lastname: Andersen
 summary: Clean energy specialist Gwen Andersen works to increase the speed with which
   developing countries adopt renewable energy by working on finance.
