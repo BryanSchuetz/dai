@@ -17,7 +17,7 @@ promos:
   link: "/our-work/the-projects?filter=corporate-sustainability"
 - title: "**News:** Recent Corporate Sustainability News"
   link: "/news/view-more-news?filter=corporate-sustainability"
-- title: "**Project**: _Niger Delta Electricity Sector Assesment and Investment Strategy_"
+- title: "**Project**: _Niger Delta Electricity Sector Assessment and Investment Strategy_"
   link: "/uploads/chevron.pdf"
 - title: "**Project**: _Local Content Demand and Supply Study for Liquefied Natural_
     Gas"
