@@ -1,5 +1,5 @@
 ---
-title: Mozambique—Support Program for Economic and Enterprise Development (SPEED,
+title: Mozambique—Supporting the Policy Environment for Economic Development (SPEED,
   SPEED+)
 date: 2016-01-21 22:40:00 Z
 summary: Mozambique has been engaged in economic policy reform since its first democratic
@@ -23,7 +23,7 @@ layout: project
 
 Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. With a pressing need to reform the country’s business policies and strengthen private sector participation, the U.S. Agency for International Development (USAID) initiated the Support Program for Economic and Enterprise Development (SPEED), a five-year, $19.4 million project implemented by DAI. Over the course of the program, [SPEED successfully expanded policy reforms](http://dai-global-developments.com/articles/reforming-business-policy-mozambique/) which resulted in increased trade and investment, a stronger competitive position for Mozambican firms, and increased local job opportunities and incomes.
 
-To build upon this momentum, the USAID-funded SPEED\+ program will work to further develop a favorable business environment to attract investment, expand markets, and reduce costs, thus contributing to broad-based and inclusive economic growth and conservation of natural resources. Working with consortium partners that include Nathan Associates and Mozambican firms CIMPOGEST, IMPACTO, and Sal & Caldeira, DAI will help to advance reforms in key areas such as agriculture, trade and investment, power, water, and biodiversity conservation, while improving government transparency and fostering new public-private partnerships.
+To build upon this momentum, the USAID-funded Supporting the Policy Environment for Economic Development (SPEED\+) program will work to further develop a favorable business environment to attract investment, expand markets, and reduce costs, thus contributing to broad-based and inclusive economic growth and conservation of natural resources. Working with consortium partners that include Nathan Associates and Mozambican firms CIMPOGEST, IMPACTO, and Sal & Caldeira, DAI will help to advance reforms in key areas such as agriculture, trade and investment, power, water, and biodiversity conservation, while improving government transparency and fostering new public-private partnerships.
 
 ![SPEED_photo.jpg](/uploads/SPEED_photo.jpg)
 
