@@ -8,5 +8,5 @@
   summary: "{{ expert.summary }}"
   job-title: "{{ expert.job-title }}"
   immage: "{{ expert.image }}"
-  body: "{{ expert.content }}"
+  body: "{{ expert.content | strip_html | rstrip | lstrip }}"
 {% endfor %}
