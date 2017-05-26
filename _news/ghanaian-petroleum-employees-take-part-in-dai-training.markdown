@@ -11,11 +11,11 @@ summary: Employees of the Ghana Petroleum Commission, Ghana National Petroleum C
   spell out how the country must interact with foreign private sector investors.
 ---
 
-Employees of the Ghana Petroleum Commission, Ghana National Petroleum Corporation, and the Ministry of Energy recently participated in a DAI-led training to improve their capacity to effectively manage and oversee the local content regulations that spell out how the country must interact with foreign private sector investors.
+Employees of the Ghana Petroleum Commission, Ghana National Petroleum Corporation, and the Ministry of Energy recently participated in a DAI-led training to manage and oversee the local content regulations that spell out how the country must interact with foreign private sector investors.
 
 ![ghana5web.jpg](/uploads/ghana5web.jpg)
 
-DAI’s five-day Local Content Master Class instructed participants how to execute local content regulatory responsibilities in accordance with the Ghanaian Local Content Policy L.I 2204—and industry best practices. The training was led by DAI’s Energy and Resources Group (ERG) Local Content Expert and Managing Director of Local Content Solutions Ltd. [Dr. Michael Warner](https://www.dai.com/who-we-are/our-team/michael-warner), a [leading authority](https://www.dai.com/news/dai-joins-forces-with-local-content-solutions-ltd) on local content in the oil and gas, mining, and infrastructure sectors. He has trained more than 400 professionals in local content all over the world and has drafted numerous country’s local content policies. He was assisted by ERG Analyst [Alyssa Menz](https://www.dai.com/who-we-are/our-team/alyssa-menz), who helped facilitate and led some of the training exercises.  
+DAI’s five-day Local Content Master Class instructed participants how to execute local content regulatory responsibilities in accordance with the Ghanaian Local Content Policy L.I 2204—and industry best practices. Leading the training was DAI’s Energy and Resources Group (ERG) Local Content Expert and Managing Director of Local Content Solutions Ltd. [Dr. Michael Warner](https://www.dai.com/who-we-are/our-team/michael-warner), a [leading authority](https://www.dai.com/news/dai-joins-forces-with-local-content-solutions-ltd) on local content in the oil and gas, mining, and infrastructure sectors. He has trained more than 400 professionals in local content all over the world and has drafted numerous countries’ local content policies. He was assisted by ERG Analyst [Alyssa Menz](https://www.dai.com/who-we-are/our-team/alyssa-menz), who helped facilitate and led some of the training exercises.  
 
 The content of the course spans strategy, optimization, forecasting, tendering, reporting, and development.  
 
