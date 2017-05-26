@@ -19,5 +19,5 @@ DAI’s five-day Local Content Master Class instructed participants how to execu
 
 The content of the course spans strategy, optimization, forecasting, tendering, reporting, and development.  
 
-DAI’s [Energy and Resources Group (ERG)](https://www.dai.com/our-work/solutions/corporate-sustainability) helps companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
+[ERG](https://www.dai.com/our-work/solutions/corporate-sustainability) helps companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
 ![Warner group pic.jpg](/uploads/Warner%20group%20pic.jpg)
