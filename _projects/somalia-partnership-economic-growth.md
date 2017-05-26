@@ -32,7 +32,7 @@ A number of the Somali areas that enjoy relative peace and stability have establ
 
 ###  Select Results
 
-* Conducted Somaliland's first business-plan competition; invested more than $1 million in matching grants for the winning small and medium enterprises, which represent promising sectors such as agriculture, livestock, fisheries, and renewable energy.
+* [Conducted Somaliland's first business-plan competition](http://dai-global-developments.com/articles/to-the-partnership-fund/); invested more than $1 million in matching grants for the winning small and medium enterprises, which represent promising sectors such as agriculture, livestock, fisheries, and renewable energy.
 * Created more than 1,500 new or better jobs through these investments, including in Somaliland's first salt processing plant, first two wind farms, first major drip-irrigation system for livestock fattening farms, and two fish processing and cold storage facilities.
 * Developed Somaliland's first agriculture extension unit since the civil war; participating farmers saw yields increase by 100-500 percent, while production costs decreased due to improved practices, making the farmers more competitive with Ethiopian imports.
 * Helped develop Somaliland's first Electrical Energy Law, which is expected to benefit more than 2 million power-users in the major cities.
