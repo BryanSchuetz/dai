@@ -1,19 +1,19 @@
 ---
 title: Worldwide—Center for Development Innovation Professional Management Services
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: The U.S. Global Development Lab's Center for Development Innovation (CDI)
+  is driving long-term, sustained investment in innovations that have the potential
+  to end extreme poverty.
 start: 2014
 end: 2018
+client: U.S. Agency for International Development
+solutions:
+- Innovation and Entrepreneurship
 regions:
 - Worldwide
 country:
 - Worldwide
-solutions:
-- Innovation and Entrepreneurship
 layout: project
-summary: The U.S. Global Development Lab's Center for Development Innovation (CDI)
-  is driving long-term, sustained investment in innovations that have the potential
-  to end extreme poverty.
 ---
 
 The U.S. Global Development Lab's Center for Development Innovation (CDI) is driving long-term, sustained investment in innovations that have the potential to end extreme poverty.
@@ -36,7 +36,7 @@ DAI's support to CDI is helping USAID and its partners to place smarter bets in 
 * Facilitate financing solutions that blend public and private capital and provide flexible structures to underwrite growth.
 * Mobilize and connect academic communities around the world through channels such as the Higher Education Solutions Network.
 
-This project builds on DAI's support to the [USAID Grand Challenges for Development][2] program (2011–2014), which attracted more than 4,000 applications from more than 100 countries and made 185 awards. Over 30 percent of Grand Challenges for Development awardees are located in developing countries. These innovators are now applying or deepening their work in areas such as improving health care for mothers and their newborns, creating energy for agriculture, increasing literacy, securing water for food, and improving governance by making all voices count.  
+This project builds on DAI's support to the [USAID Grand Challenges for Development](https://www.dai.com/our-work/projects/worldwide-grand-challenges-development-implementation-services) program (2011–2014), which attracted more than 4,000 applications from more than 100 countries and made 185 awards. Over 30 percent of Grand Challenges for Development awardees are located in developing countries. These innovators are now applying or deepening their work in areas such as improving health care for mothers and their newborns, creating energy for agriculture, increasing literacy, securing water for food, and improving governance by making all voices count.  
 
 [1]: https://assetify-dai.com/projects/CDI-pic-1.jpg
 [2]: our-work/projects/worldwide-grand-challenges-development-implementation-services
