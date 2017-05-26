@@ -1,7 +1,6 @@
 ---
 title: Ghanaian Petroleum Employees Take Part in DAI Training
 date: 2017-05-26 13:43:00 Z
-published: false
 solutions:
 - Local Content and Supply Chain Management
 - Corporate Sustainability
