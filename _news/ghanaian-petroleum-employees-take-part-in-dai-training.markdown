@@ -5,6 +5,10 @@ solutions:
 - Local Content and Supply Chain Management
 - Corporate Sustainability
 regions: Sub-Saharan Africa
+summary: Employees of the Ghana Petroleum Commission, Ghana National Petroleum Corporation,
+  and the Ministry of Energy recently participated in a DAI-led training to improve
+  their capacity to effectively manage and oversee the local content regulations that
+  spell out how the country must interact with foreign private sector investors.
 ---
 
 Employees of the Ghana Petroleum Commission, Ghana National Petroleum Corporation, and the Ministry of Energy recently participated in a DAI-led training to improve their capacity to effectively manage and oversee the local content regulations that spell out how the country must interact with foreign private sector investors.
