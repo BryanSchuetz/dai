@@ -9,4 +9,5 @@
   job-title: "{{ expert.job-title }}"
   immage: "{{ expert.image }}"
   body: "{{ expert.content | strip_html | rstrip | lstrip }}"
+  permalink: "{{ expert.url }}"
 {% endfor %}

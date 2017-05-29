@@ -9,4 +9,5 @@
   regions:{% for region in project.regions %}
     - {{ region }}{% endfor %}
   client: "{{ project.client }}"
+  permalink: "{{ project.url }}"
 {% endfor %}
