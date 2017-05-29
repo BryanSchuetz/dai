@@ -34,8 +34,6 @@ From 2010–2013, Africa Lead trained more than 1,800 food security leaders, con
 
 * Incorporate into training and technical assistance a wider range of non-state actors, including trade and farmer organizations, private sector businesses and associations, [young people](http://feedthefuture.gov/article/farm-or-not-farm-helping-youth-discover-opportunity-agriculture), and women.
 
-* Develop a Program Advisory Group co-chaired by the African Union Council and USAID to provide strategic guidance to ensure that these activities align with and support the strategic thrusts of CAADP.
-
 ### Select Results
 
 * Developed a roster of 30 qualified instructors of Champions for Change (C4C) leadership training in Tanzania, who have provided training sessions to more than 540 policymakers and stakeholders, including members of Parliament, local government officials, and leaders of community organizations.
