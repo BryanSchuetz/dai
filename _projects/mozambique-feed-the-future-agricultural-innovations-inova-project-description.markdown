@@ -30,5 +30,3 @@ In developing value chains, INOVA takes a portfolio approach adapted from the fi
 * Promote the adoption of improved seed varieties and fertilizers to increase crop yields through use of demonstration plots, agricultural extension trainings, and radio and text messaging campaigns.
 
 * Collaborate with financial institutions and village savings and loan associations to provide credit lines targeted at enabling smallholder farmers to invest in improved seeds, fertilizer, and other agricultural inputs.
-
-* Use project’s Market Development Fund to upgrade value chain equipment and infrastructure, such as introducing standardized scales to increase buyer-seller confidence, and improving warehouse conditions to prevent product deterioration during storage.
