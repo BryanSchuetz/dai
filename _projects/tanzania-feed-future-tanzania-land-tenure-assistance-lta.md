@@ -25,7 +25,7 @@ Future transactions must be supported and the land registers maintained at villa
 
 MAST, with the modifications made by DAI, is one of a number of tools that USAID is developing. Already, other land tenure and forestry projects have shown interest in acquiring the new MAST for application to their programs.
 
-The outcome of LTA—a low-cost, participatory land registration process—will transform the way land rights are managed in Tanzania, with the potential for adaptation and use elsewhere.
+The outcome of LTA—a low-cost, participatory land registration process—will [transform the way](https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future) land rights are managed in Tanzania, with the potential for adaptation and use elsewhere.
 
 <iframe src="https://player.vimeo.com/video/206238160" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
