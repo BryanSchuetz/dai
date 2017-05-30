@@ -26,7 +26,5 @@ In developing value chains, INOVA takes a portfolio approach adapted from the fi
 **Sample Activities**
 
 * Conduct comprehensive, gender-responsive value chain analyses for key crops, such as sesame, soybean, and cowpeas, to better understand market inefficiencies and address root causes of underperformance.
-
 * Promote the adoption of improved seed varieties and fertilizers to increase crop yields through use of demonstration plots, agricultural extension trainings, and radio and text messaging campaigns.
-
 * Collaborate with financial institutions and village savings and loan associations to provide credit lines targeted at enabling smallholder farmers to invest in improved seeds, fertilizer, and other agricultural inputs.
