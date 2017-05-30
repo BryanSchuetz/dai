@@ -7,7 +7,7 @@
   lastname: "{{ expert.lastname }}"
   summary: "{{ expert.summary }}"
   job-title: "{{ expert.job-title }}"
-  immage: "{{ expert.image }}"
+  image: "{{ expert.image }}"
   body: "{{ expert.content | strip_html | rstrip | lstrip }}"
   permalink: "{{ expert.url }}"
 {% endfor %}
