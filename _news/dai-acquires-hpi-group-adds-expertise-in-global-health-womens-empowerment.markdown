@@ -3,11 +3,16 @@ title: DAI Acquires HPI Group, Adds Expertise in Global Health, Women’s Empowe
 date: 2017-06-01 12:17:00 Z
 published: false
 is_featured: true
+clients: U.K. Department for International Development
 ---
 
 DAI today announced the acquisition of the HPI Group, which consists of Health Partners International (HPI) and WISE Development.
 
+![Health-Partners-International.jpg](/uploads/Health-Partners-International.jpg)
+
 Based in Lewes, Sussex, in the United Kingdom, HPI is a partnership that specializes in health systems, governance, and community engagement in low- and middle-income countries. It is committed to delivering high-quality, sustainable health care services accessible for all. WISE Development works with international agencies, NGOs, and government institutions in the United Kingdom and worldwide to drive gender equality and empower women and girls.
+
+<!--more-->
 
 > “Like DAI, these companies are employee-owned and mission-driven. Coming together under the DAI banner will expand DAI’s service offering in the global health arena and augment our strengths in women’s and gender issues across the DAI portfolio. We look forward to bringing the benefits of Britain’s extraordinary health expertise to communities and markets all around the world.” **[Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health.**
 
