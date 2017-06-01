@@ -13,6 +13,9 @@ solutions:
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa
 country: Ghana
+promos:
+- title: 'Women in Agritech: Profiles from Ghana'
+  link: https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html
 End: 
 ---
 
