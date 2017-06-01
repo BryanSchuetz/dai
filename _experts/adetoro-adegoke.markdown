@@ -1,7 +1,6 @@
 ---
 title: Adetoro Adegoke
 date: 2017-06-01 19:02:00 Z
-published: false
 lastname: Adegoke
 summary: 'Dr. Adetoro Adeyemi Adegoke has more than 20 years of experience working
   and managing reproductive, maternal, newborn, child, and adolescent health; health
