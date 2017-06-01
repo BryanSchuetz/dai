@@ -2,7 +2,7 @@
   <img src="{{ page.image }}" alt="" class="expert-details--photo">
   <div class="expert-details--metadata">
     <h1 class="expert-details--name">{{ page.title }}</h1>
-    <p class="expert-details--title">{{ page.job-title }}</p>
+    <p class="expert-details--title">{{ page.job-title | markdownify |remove: "<p>" | remove: "</p>"}}</p>
     <ul class="expert-details--list">
       {% unless page.solutions == '' %}
         {% for expertise in page.solutions %}

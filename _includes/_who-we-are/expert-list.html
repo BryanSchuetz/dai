@@ -5,7 +5,7 @@
   <div class="people-block grid-item {% for expertise in expert.solutions %} {{ expertise | downcase | slugify }} {% endfor %}{% for region in expert.regions %} {{ region | slugify}} {% endfor %}">
     <div class="expert-detailslist--metadata">
       <h3 class="expert-details--name">{{ expert.title }}</h3>
-      <p class="expert-details--title">{{ expert.job-title }}</p>
+      <p class="expert-details--title">{{ expert.job-title | markdownify |remove: "<p>" | remove: "</p>"}}</p>
       </div>
       <div class="expert-summary">
         {% if expert.summary %}<p>{{ expert.summary | markdownify | remove:'<p>' | remove:'</p>' }}</p>{% endif %}
