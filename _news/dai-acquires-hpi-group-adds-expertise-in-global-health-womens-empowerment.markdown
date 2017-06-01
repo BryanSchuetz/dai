@@ -7,6 +7,7 @@ solutions:
 clients: U.K. Department for International Development
 summary: DAI announces the acquisition of the HPI Group, which consists of Health
   Partners International (HPI) and WISE Development.
+twit-pic: "/uploads/Health-Partners-International.jpg"
 ---
 
 DAI today announced the acquisition of the HPI Group, which consists of [Health Partners International (HPI) and WISE Development](http://healthpartners-int.co.uk/).
