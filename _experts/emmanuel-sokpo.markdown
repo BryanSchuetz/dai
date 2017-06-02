@@ -12,6 +12,10 @@ solutions:
 - Emerging Infectious Diseases
 regions:
 - Sub-Saharan Africa
+articles:
+- name: Building the ‘enabling environment’ via a multi-sector nutrition platform
+    to scale up micronutrient supplementation
+  article_file: http://resources.healthpartners-int.co.uk/resource/building-the-enabling-environment-via-a-multi-sector-nutrition-platform-to-scale-up-micronutrient-supplementation-2/
 ---
 
 Dr. Emmanuel Sokpo is a specialist clinician with extensive training in public health. He has more than 30 years of experience in health systems strengthening at various levels, with a particular focus on health policy, planning, leadership, governance, and management system strengthening in fragile and resource-scarce areas of Africa. He advises the Women for Health program, which aims to train 6,000 female health workers in rural northern Nigeria; the Neglected Tropical Diseases control program in Nigeria; and the multi-donor Health Pooled Fund Project in South Sudan, supporting policy, strategy, planning and implementation at national, state, and county levels.
