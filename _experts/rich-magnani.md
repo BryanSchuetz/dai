@@ -10,7 +10,8 @@ summary: 'Rich Magnani has worked in agriculture and agribusiness for more than 
 job-title: Chief of Party, Afghanistan Regional Agricultural Development Program
 image: https://assetify-dai.com/experts/richinner.jpg
 solutions:
-- Health
+- Economic Growth
+- Agriculture and Food Security
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
@@ -27,5 +28,4 @@ Since then, Rich has served as resident adviser on four U.S. Agency for Internat
 <iframe allowfullscreen="" frameborder="0" height="392" mozallowfullscreen="" src="https://player.vimeo.com/video/35278992?portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
 * M.S., agriculture economics, University of Minnesota
-
 * B.S., economics, University of Iowa
