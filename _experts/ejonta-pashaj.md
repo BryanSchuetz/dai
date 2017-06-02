@@ -1,6 +1,7 @@
 ---
 title: Ejonta Pashaj
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Pashaj
 summary: Ejonta Pashaj learned of DAI through a public administration program DAI
   was implementing in Albania. Ejonta says she was impressed with how DAI approaches
@@ -12,7 +13,7 @@ solutions:
 - Economic Growth
 - Environment and Energy
 - Governance
-- Health
+- 
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa
