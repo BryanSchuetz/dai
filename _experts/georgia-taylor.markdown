@@ -4,7 +4,7 @@ date: 2017-06-02 13:11:00 Z
 lastname: Taylor
 summary: 'Georgia Taylor has been working on gender, women’s economic empowerment,
   private sector development and sexual and reproductive health for more than 20 years. '
-job-title: Technical Director, WISE development, [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Director, [WISE Development](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Georgia%20Taylor%20DAI%20iste.jpg"
 solutions:
 - Gender
