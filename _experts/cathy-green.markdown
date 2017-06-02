@@ -12,6 +12,10 @@ solutions:
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific
+articles:
+- name: Increasing access to rural maternal health services in Zambia through demand-side
+    interventions
+  article_file: http://www.tandfonline.com/doi/abs/10.1080/09614524.2015.1027148?journalCode=cdip20
 ---
 
 Cathy Green has more than 20 years of experience of supporting health and health systems strengthening programmes in Africa and Asia. Her areas of expertise include community health systems strengthening; increasing demand for and access to maternal, newborn, child, and adolescent health services; gender mainstreaming; and strengthening accountability in the health sector. 
