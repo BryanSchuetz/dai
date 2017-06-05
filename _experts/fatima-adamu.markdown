@@ -23,7 +23,7 @@ She has worked extensively in Nigeria, most recently with the Women for Health p
 
 Before working on Women for Health, Fatima was a Professor of Sociology at Usmanu Danfodiyo University and later a Director of Planning and Research at the National Centre for Women’s Development in Nigeria. She was also the Social Development Advisor for a programme that strengthened routine immunisation and maternal and child health in Northern Nigeria. Here, she led advocacy to key stakeholders to improve maternal health care services in four states. 
 
-* PhD., University of Bradford
+* Ph.D., University of Bradford
 * Diploma, research methods, University of Bradford
-* MSc., sociology, Bayero University, Nigeria
-* BSc., sociology, Usman Dan Fodio University, Nigeria
+* M.S., sociology, Bayero University, Nigeria
+* B.S., sociology, Usman Dan Fodio University, Nigeria
