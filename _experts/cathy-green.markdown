@@ -25,4 +25,4 @@ Cathy designed the Mobilising Access to Maternal Health Services in Zambia progr
 Formerly Cathy was the Programme Development Coordinator at Sight Savers International, where she coordinated monitoring, evaluation, strategic review, and impact assessments. Prior to that she was a reproductive and sexual health project manager and consultant with Options Consultancy Services. Cathy also worked for the Briefings in Gender and Development Service at the Institute of Development Studies. 
 
 * M.A., gender and development, Institute of Development Studies, University of Sussex
-* B.S. (Hons), development studies (1992), School of Development Studies, University of East Anglia
+* B.S. (Hons), development studies, School of Development Studies, University of East Anglia
