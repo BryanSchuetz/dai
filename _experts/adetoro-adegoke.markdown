@@ -25,7 +25,7 @@ Dr. Adetoro Adeyemi Adegoke has more than 20 years of experience working and man
 Prior to that, she was a Senior Lecturer in public health at the Liverpool John Moores University and Lecturer in sexual and reproductive health at the Liverpool School of Tropical Medicine. Adetoro has extensive experience conducting and disseminating research with more than 40 publications, including peer-reviewed articles and conference papers. Adetoro sits on the editorial board of multiple journals.
 
 * Ph.D, midwifery and maternal epidemiology, University of Manchester
-* M.S. nursing (midwifery pathway), University of Manchester
-* B.S. (Hons), nursing, University of Ibadan, Nigeria
+* M.S., nursing (midwifery pathway), University of Manchester
+* B.S., (Hons), nursing, University of Ibadan, Nigeria
 * Registered Nurse, Registered Midwife, Registered Nurse/Midwife Educator
 * Fellow, Royal Society of Public Health
