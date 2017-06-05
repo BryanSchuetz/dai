@@ -22,6 +22,6 @@ Dr. Andrew McKenzie has more than 30 years of experience in capacity building an
 Andrew has provided technical assistance for a number of programmes in Lesotho, Nigeria, South Africa, and South Sudan. He has extensive experience in capacity building and facilitation and an excellent understanding of managing and evaluating health systems and services, health sector reform, and district development in sub-Saharan Africa. He served as a member of the Technical Review Panel of the Global Fund and is a Board member of the Health Information Systems Programme. 
 
 * Diploma, primary health care education, University of Witwatersrand, South Africa
-* Masters, public health, University of Leeds
-* Bachelor, medicine and surgery, University of Cape Town, South Africa
+* M.A., public health, University of Leeds
+* B.S., medicine and surgery, University of Cape Town, South Africa
 * B.S., zoology, University of Cape Town, South Africa
