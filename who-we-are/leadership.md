@@ -2,12 +2,12 @@
 title: Leadership
 permalink: "/who-we-are/leaders"
 related: false
-layout: node
 redirect_from:
 - "/who-we-are/leadership"
+layout: node
 ---
 
-Our Executive Leadership Team ensures that DAI’s passion for development is delivered with the discipline of a business. Embracing the rigors of the marketplace—competition and innovation—they set the standards for a company dedicated to delivering both development results and development value. The Executive Leadership Team reports to DAI’s [Board.](/who-we-are/leadership/board.html)
+Our Global Executive Team ensures that DAI’s passion for development is delivered with the discipline of a business. Embracing the rigors of the marketplace—competition and innovation—they set the standards for a company dedicated to delivering both development results and development value. The Global Executive Team is led by Jim Boomgard, who reports to DAI’s [Board.](/who-we-are/leadership/board.html)
 
 <hr>
 {% assign leaders = site.leaders | sort: 'sort-order' %}
