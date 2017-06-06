@@ -20,6 +20,6 @@ As an Accredited Observer, DAI is invited to send representatives to GCF Board m
 
 “We look forward to playing our part in the work to reduce greenhouse gas emissions and help vulnerable people become more resilient to the impacts of climate change,” said Watson.
 
-Watch this video to learn more about DAI’s approach to climate change work:
+Watch this video to learn more about DAI’s approach to climate change programming:
 
 <iframe src="https://player.vimeo.com/video/214065469" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
