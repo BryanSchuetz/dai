@@ -16,6 +16,10 @@ country: Ghana
 promos:
 - title: 'Women in Agritech: Profiles from Ghana'
   link: https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html
+- title: Injecting Ghana’s Ag Sector with Youth-led ICT Energy
+  link: https://dai-global-digital.com/ghana-agritech-exchange.html
+- title: 'ICT in the Agricultural Sector: Business Concepts from Ghanaian Youth'
+  link: https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html
 End: 
 ---
 
