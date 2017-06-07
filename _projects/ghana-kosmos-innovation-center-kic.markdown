@@ -41,7 +41,7 @@ The [KIC promotes innovation and youth employment](http://www.kosmosinnovationce
 
 ### Select Results
 
-* Supported more than 100 young entrepreneurs in developing innovative, technology-driven agribusiness concepts for annual KIC challenge.
+* Supported more than 100 young entrepreneurs in developing [innovative, technology-driven agribusiness concepts ](https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html)for annual KIC challenge.
 
 * Improved confidence, teamwork, presentation abilities, critical thinking skills, and business acumen of more than 100 youth participants of innovation challenge workshops and mentorship program.
 
