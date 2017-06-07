@@ -1,11 +1,11 @@
 ---
 title: Ghana—Western Region Coastal Foundation (WRCF)
 date: 2016-01-21 22:40:00 Z
-summary: 'The WRCF is focused on helping to build local supply chains, improve stability,
-  and promote inclusive economic development for poor communities in the six coastal
-  districts in Ghana tied to the oil and gas sector. The project will focus on crowding-in
-  private sector corporate funding from oil and gas companies and building trusted
-  relationships between coastal communities and oil and gas companies. '
+summary: The Western Region Coastal Foundation promotes inclusive economic growth
+  for communities affected by Ghana's burgeoning oil and gas industry by helping to
+  build up local supply chains, in addition to providing a multi-stakeholder dialogue
+  platform for government agencies, oil companies, and coastal communities to better
+  share challenges and solutions.
 start: 2014
 end: 2019
 client: U.K. Department for International Development
@@ -16,30 +16,29 @@ regions:
 - Sub-Saharan Africa
 country:
 - Ghana
+promos:
+- title: Dialogue and Development in Ghana’s Oil and Gas Region
+  link: http://dai-global-developments.com/articles/dialogue-and-development-in-ghanas-oil-and-gas-region/
 layout: project
 ---
 
-The Western Region Coastal Foundation (WRCF) is focused on helping to build local supply chains, improve stability, and promote inclusive economic development for poor communities in the six coastal districts in Ghana tied to the oil and gas sector. The project will focus on crowding-in private sector corporate funding from oil and gas companies and [building trusted relationships ](http://dai-global-developments.com/articles/dialogue-and-development-in-ghanas-oil-and-gas-region/)between coastal communities and oil and gas companies.
+The discovery of oil and gas off the coast of Ghana’s Western Region in 2007 greatly changed the country’s development trajectory. Production began in 2010 and rapidly accelerated to reach 100,000 barrels per day in just four years. While investments and operations in the oil and gas sector bring new resources and create opportunities for the local economy, they also bring new challenges. Oil-driven growth around cities has raised the cost of living, affecting primarily the urban poor. Meanwhile, new employment opportunities have attracted migrants from other parts of Ghana who often compete with local residents for jobs, further raising tensions and the risk of conflict.
+
+To address these strains and promote collaborative solutions, the U.K. Department for International Development (DFID) supported the creation of the Western Region Coastal Foundation (WRCF). The foundation works to improve relationships between oil and gas companies, government agencies, and coastal communities by providing a multi-stakeholder dialogue platform, as well as promotes economic development by building up local value chains related to the oil and gas industry.
 
 Learn how the foundation works by watching this video:
 <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/134617154" webkitallowfullscreen=""></iframe>
 
 ### Select Activities
 
-* Design a structure for the foundation.
+* Provide technical and vocational training to communities in order to improve prospects of employment in oil and gas-related industries.
+* Conduct multi-stakeholder dialogues with communities, local authorities, traditional leaders, and oil and gas companies to prioritise local issues and hold duty bearers accountable.
+* Collaborate with Ghana’s state agency for natural gas resources to create local employment opportunities and ensure security along gas pipeline’s right of way.
+* Support communities in identifying climate risks and developing mitigation techniques.
 
-* Inaugurate with supporting charter, business operational plan with budget, and national nongovernmental registration.
+### Select Results
 
-* Validate the Funders' Council and establish the Coastal Foundation Advisory Council as well as a secretariat to support both.
-
-* Develop fundraising and resource mobilisation strategy.
-
-* Develop communications plan that explains how the foundation will serve as an information bank for oil- and gas-related issues in the Western District and for other economic opportunities.
-
-* Set goals and measures for success informed by international oil companies, development partners, and local stakeholders.
-
-* Establish gender and climate change strategies detailing how both will be integrated into all WRCF activities and measured.
-
-* Establish a dialogue platform between private sector companies and local government and citizens to address and resolve problems quickly.
-
-* Finalise foundation (and programme) M&E framework and programme outcome indicators.
+* Conducted multi-stakeholder dialogues that engaged 64,000 people in 181 communities and effectively garnered support from government and oil companies to address local needs, such as repairing health and sanitation infrastructure.
+* Provided valuable data and feedback from community conversations to stakeholder groups to help guide plans for inclusive development and corporate social investment in the Western Region.
+* Worked with four fish farmer associations to strengthen linkages among catfish value chain actors.
+* Trained fish farmers to protect against loss of fish during flooding by adopting climate-smart practices, such as installing concrete water outlets and retention netting.
