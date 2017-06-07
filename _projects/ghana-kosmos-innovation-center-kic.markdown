@@ -37,7 +37,7 @@ The [KIC promotes innovation and youth employment](http://www.kosmosinnovationce
 
 * Provide technical support to an accelerator engaging small- and medium-sized enterprises in the agribusiness sector.
 
-* Host workshops and conferences that bring together experts in business, technology, finance, academia, and other fields to collaborate in developing practical solutions to pressing social problems.
+* [Host collaborative workshops](https://dai-global-digital.com/ghana-agritech-exchange.html) that bring together experts in business, technology, finance, academia, and other fields to develop practical solutions to pressing social problems.
 
 ### Select Results
 
