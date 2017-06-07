@@ -35,14 +35,14 @@ layout: default
     <p>Tel: +44 (0)1442 202400<br>
     <a href="mailto:daieurope@dai.com">Email</a></p>
 
-    <p><strong>Apsley</strong><br>
+    <p><strong>Apsley, United Kingdom</strong><br>
     3rd Floor Block C<br>
     Westside, London Road<br>
     Apsley<br>
     Hertfordshire, HP3 9TD<br>
     <a href="https://www.google.com/maps/place/DAI+Europe/@51.7295892,-0.4582898,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7c0d368c0749a3fb!8m2!3d51.7295892!4d-0.4561011?hl=en-US">Map this location</a></p>
 
-    <p><strong>Lewes</strong><br>
+    <p><strong>Lewes, United Kingdom</strong><br>
     Health Partners International<br>
     F1 Waterside Centre, North Street<br>
     Lewes<br>
@@ -50,7 +50,7 @@ East Sussex, BN7 2PE<br>
 Tel: +44 1273 477474<br>
 <a href="mailto:info@healthpartners-int.co.uk">Email</a>    
 </p>
-    <p><strong>Brussels</strong>
+    <p><strong>Brussels, Belgium</strong>
     <br>
     Avenue d'Yser, 4<br>
     1040 Brussels<br>
