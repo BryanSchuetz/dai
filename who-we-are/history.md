@@ -11,7 +11,7 @@ Employee-owned DAI is now a global development company with a record of deliveri
 
 ## A Consistent Mission
 
-[DAI’s mission is to make a lasting difference in the world](/who-we-are/mission-and-values/) by helping people improve their lives. We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable.
+[DAI’s mission is to make a lasting difference in the world](/who-we-are/mission-and-values) by helping people improve their lives. We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable.
 
 ![Photo of DAI field staff](/assets/images/who-we-are/hood.jpg "DAI field staff plan work in Iraq.")
 
@@ -39,6 +39,6 @@ At the start of 2009, Jim Boomgard became DAI’s new CEO. The next year DAI cel
 
 “The next 10 years will determine whether we can make an American success story into a global success story,” wrote Boomgard in his foreword to the book. “Over the next 10 years, we’ll execute a new strategy designed to bring our strengths, our experience, and our commitment to a changing and in many ways expanding landscape of international development—a landscape that will see more development driven from the ground up, more decision making in countries that have traditionally been the recipients of donor assistance, and a more diverse and influential array of local actors in the development arena.”  
 
-Most recently, in 2013, DAI joined forces with the distinguished British consultancy HTSPE Ltd., in a combination that offers [enhanced capabilities and greater value for money to global—and especially European—development clients](/news-publications/news/dai-joins-forces-international-development-consultancy-htspe-ltd/).
+Most recently, in 2013, DAI joined forces with the distinguished British consultancy HTSPE Ltd., in a combination that offers [enhanced capabilities and greater value for money to global—and especially European—development clients](/news-publications/news/dai-joins-forces-international-development-consultancy-htspe-ltd).
 
 HTSPE, which began doing business as DAI in mid-2014, was founded in 1953 as Hunting Technical Services, a natural resource management consultancy. In 1998, HTS was acquired by Genus plc. A year later, Genus also bought P-E International, a firm focused on management consulting. Genus merged the two firms in 2004, thus giving birth to HTSPE. Three years on, a management buyout ended the relationship with Genus.
