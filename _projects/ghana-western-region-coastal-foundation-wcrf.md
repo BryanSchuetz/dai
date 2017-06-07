@@ -12,6 +12,8 @@ client: U.K. Department for International Development
 solutions:
 - Corporate Sustainability
 - Economic Growth
+- Local Content and Supply Chain Management
+- 
 regions:
 - Sub-Saharan Africa
 country:
