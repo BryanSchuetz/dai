@@ -42,11 +42,14 @@ layout: default
     Hertfordshire, HP3 9TD<br>
     <a href="https://www.google.com/maps/place/DAI+Europe/@51.7295892,-0.4582898,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7c0d368c0749a3fb!8m2!3d51.7295892!4d-0.4561011?hl=en-US">Map this location</a></p>
 
-    <p><strong>London</strong><br>
-    63 Gee Street, 2nd Floor<br>
-    London, EC1V 3RS<br>
-    <a href="https://www.google.com/maps/place/DAI+Europe+Ltd./@51.524923,-0.096706,17z/data=!3m1!4b1!4m2!3m1!1s0x487604ea5ea8bdad:0x2f5f29960334ba18">Map this location</a></p>
-
+    <p><strong>Lewes</strong><br>
+    Health Partners International<br>
+    F1 Waterside Centre, North Street<br>
+    Lewes<br>
+East Sussex, BN7 2PE<br>
+Tel: +44 1273 477474<br>
+<a href="mailto:info@healthpartners-int.co.uk">Email</a>    
+</p>
     <p><strong>Brussels</strong>
     <br>
     Avenue d'Yser, 4<br>
