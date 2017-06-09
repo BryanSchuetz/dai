@@ -2,12 +2,9 @@
 title: Guinea—Assessing Sector Capacity for Foreign Direct Investment Linkages
 date: 2017-06-09 18:31:00 Z
 published: false
-summary: DAI’s Energy and Resources Group is working with the World Bank and Guinea’s
+summary: 'DAI’s Energy and Resources Group is working with the World Bank and Guinea’s
   Ministry of Mines to assess the competitiveness of key value chains related to new
-  mining operations in the country. Using DAI’s Local Content Optimization Model,
-  the team’s analysis will determine local industries that have the highest potential
-  to supply mining investors and identify needed skills to help local workers find
-  employment in these new job markets.
+  mining operations in the country. '
 start: 2017
 end: 2017
 client: World Bank
