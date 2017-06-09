@@ -3,7 +3,7 @@
 {% comment %} Check for the page type, and start the right loop {% endcomment %}
 {% if page.collection == 'projects' %}
 {% comment %} Grab an array of all found_item items—projects for projects, etc. {% endcomment %}
-  {% assign projects = site.projects %}
+  {% assign projects = site.projects | where_exp: "project","project.end > 2016"%}
 {% comment %} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {% endcomment %}
   {% if jekyll.environment == 'prod' %}
     {% assign shuffled_projects = projects | shuffle %}
