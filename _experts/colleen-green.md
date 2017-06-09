@@ -9,6 +9,7 @@ job-title: Principal Global Practice Specialist, Financial Services
 image: https://assetify-dai.com/experts/innercoleen.jpg
 solutions:
 - Financial Services
+- Economic Growth
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
