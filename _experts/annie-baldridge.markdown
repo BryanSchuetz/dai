@@ -19,3 +19,4 @@ Annie Baldridge has a background in law and public health and has been working i
 She has been working internationally on health finance and public financial management ever since—in eight countries in Africa and five in the Middle East and Asia. After three years of working for a U.S. Agency for International Development contractor, Annie started a small business in Zambia working directly with the government on public financial management, and pharmaceutical supply chain issues. She joined DAI after consulting with the company for two years and is now is a senior global practice specialist for the public financial management team.
 
 * J.D., Tulane University
+* M.A., public health, Tulane University
