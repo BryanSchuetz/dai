@@ -1,6 +1,6 @@
 ---
 title: Honduras—Unidos por la Justicia (Justice, Human Rights, and Security Strengthening
-  Activity (JHRSS)
+  Activity)
 date: 2016-01-21 22:40:00 Z
 summary: In the wake of the 2009 removal of President Manual Zelaya, a weak state
   response to gang-related crime has led to unprecedented levels violence. The average
