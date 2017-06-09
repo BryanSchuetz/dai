@@ -1,5 +1,6 @@
 ---
-title: Honduras—Justice, Human Rights, and Security Strengthening Activity (JHRSS)
+title: Honduras—Unidos por la Justicia (Justice, Human Rights, and Security Strengthening
+  Activity (JHRSS)
 date: 2016-01-21 22:40:00 Z
 summary: In the wake of the 2009 removal of President Manual Zelaya, a weak state
   response to gang-related crime has led to unprecedented levels violence. The average
@@ -29,6 +30,8 @@ In the wake of the 2009 removal of President Manual Zelaya, a weak state respons
 Coupled with more than a year of citizen demonstrations to demand accountability, the Justice, Human Rights, and Security Strengthening (JHRSS) program, funded by the U.S. Agency for International Development (USAID), was launched to help [address the underlying systemic failings that perpetuate high levels of crime and impunity](http://dai-global-developments.com/articles/mitigating-instability-in-central-america/). JHRSS will work with local partners to improve citizen engagement with the security and justice sectors; enhance the efficiency of the judicial system; and increase the effectiveness of community police.
 
 Building on 20 years of experience leading projects in Honduras, DAI will combine best practices from previous rule-of-law programs along with a "place-based" systems approach. New initiatives will first be tested at the neighborhood level in target communities with highly concentrated hotspots of crime, and resulting lessons and evidence then used to replicate successes in other municipalities and promote wider institutional reform.
+
+![JHRSS pic.jpg](/uploads/JHRSS%20pic.jpg)
 
 ###  Sample Activities
 
