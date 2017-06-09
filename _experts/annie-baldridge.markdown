@@ -7,7 +7,7 @@ summary: 'Annie Baldridge has a background in law and public health and has been
 job-title: 'Senior Global Practice Specialist, Public Financial Management '
 image: "/uploads/Annie%20Baldridge%20Portal.jpg"
 solutions:
-- Economic Growth
+- Governance
 - Public Financial Management
 regions:
 - Middle East and North Africa
