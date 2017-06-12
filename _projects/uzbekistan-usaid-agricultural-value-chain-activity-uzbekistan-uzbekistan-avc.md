@@ -1,20 +1,20 @@
 ---
 title: Uzbekistan—USAID Agricultural Value Chain Activity in Uzbekistan (Uzbekistan
   AVC)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: Uzbekistan AVC will capitalize on the achievements of USAID's Uzbekistan
+  AgLinks (2007–2011) and AgLinks Plus (2011–2015) projects, which were implemented
+  by DAI.
 start: 2015
 end: 2020
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
 regions:
 - Eastern Europe and Central Asia
 country:
 - Uzbekistan
-solutions:
-- Economic Growth
 layout: project
-summary: Uzbekistan AVC will capitalize on the achievements of USAID's Uzbekistan
-  AgLinks (2007–2011) and AgLinks Plus (2011–2015) projects, which were implemented
-  by DAI.
 ---
 
 Uzbekistan AVC will capitalize on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and AgLinks Plus (2011–2015) projects, which were implemented by DAI. We will scale up support to postharvest handling and foster new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC will co-invest with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and cold chain operators—to ensure scalability and sustainability.
@@ -31,5 +31,6 @@ Our objectives are to improve the quality and volume of agricultural production 
 * Facilitate cold chain demo site activities, workshops targeted to women, and exchange programs for cold storage operators.
 * Build linkages between producers and local supermarkets, take advantage of local trade events, and develop relationships with buyers in new markets.
 * Conduct AVC horticulture assessment and mapping with agrarian university professors and students, and develop hands-on production and post-harvest learning at universities.
+* [Introduce new ICT tools](https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html) to help facilitate learning.
 
 [1]: https://assetify-dai.com/projects/Uzbek-AVC.jpeg
