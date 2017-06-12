@@ -10,7 +10,7 @@ summary: DAI announces the acquisition of the HPI Group, which consists of Healt
 twit-pic: "/uploads/Health-Partners-International.jpg"
 ---
 
-DAI today announced the acquisition of the HPI Group, which consists of [Health Partners International (HPI) and WISE Development](http://healthpartners-int.co.uk/).
+DAI today announced the acquisition of the HPI Group, which consists of [Health Partners International (HPI)](http://healthpartners-int.co.uk/) and [WISE Development](http://wisedevelopment.com).
 
 ![Health-Partners-International.jpg](/uploads/Health-Partners-International.jpg)
 
