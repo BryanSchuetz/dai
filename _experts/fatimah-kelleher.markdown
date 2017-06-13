@@ -5,7 +5,7 @@ lastname: Kelleher
 summary: 'Fatimah Kelleher is an international women’s rights and social development
   consultant with 16 years of experience working with a variety of international,
   regional, and national stakeholders in Africa, South Asia, and the Caribbean. '
-job-title: Senior Associate, WISE Development, [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Senior Associate, [WISE Development](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Fatimah%20Kelleher%20DAI%20site.jpg"
 solutions:
 - Health
