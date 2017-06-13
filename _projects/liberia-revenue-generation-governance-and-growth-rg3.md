@@ -19,6 +19,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Liberia
+promos:
+- title: 'Report: Benchmarking the Tax System in Liberia'
+  link: "/uploads/BENCHMARKING%20THE%20TAX%20SYSTEM%20IN%20LIBERIA%5B2%5D.pdf"
 layout: project
 ---
 
