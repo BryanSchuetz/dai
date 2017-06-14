@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Foundation for Partnership Initiatives in the Niger Delta (PIND)
+title: Nigeria—Foundation Design and Market Development in the Niger Delta
 date: 2016-01-21 22:40:00 Z
 summary: DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of
   this Nigerian-registered [foundation](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220
@@ -17,7 +17,7 @@ country:
 layout: project
 ---
 
-DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of this Nigerian-registered [foundation](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220) by helping outline a strategy for its Economic Development Program, specifically orienting its activities around a Making Markets Work for the Poor (M4P) approach and developing monitoring and evaluating mechanisms to document their impact. Collectively, these recommendations informed the principles of intervention, program areas, sustainable outcomes, and intermediate and final impacts of PIND's Strategic Plan 2011–2014. We also identified resources to execute the economic development component of the plan, and established criteria for prioritizing projects and selecting implementing partners.
+DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of the Foundation for Partnership Initiatives in the Niger Delta (PIND), a Nigerian-registered [foundation,](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220) by helping outline a strategy for its economic development program, specifically orienting its activities around a Making Markets Work for the Poor (M4P) approach and developing monitoring and evaluating mechanisms to document their impact. Collectively, these recommendations informed the principles of intervention, program areas, sustainable outcomes, and intermediate and final impacts of the Foundations 2011–2014 Strategic Plan. We also identified resources to execute the economic development component of the plan, and established criteria for prioritizing projects and selecting implementing partners.
 
 ![](https://assetify-dai.com/projects/PIND.jpg)
 
