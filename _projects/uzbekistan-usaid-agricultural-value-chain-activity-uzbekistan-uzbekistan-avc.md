@@ -31,6 +31,6 @@ Our objectives are to improve the quality and volume of agricultural production 
 * Facilitate cold chain demo site activities, workshops targeted to women, and exchange programs for cold storage operators.
 * Build linkages between producers and local supermarkets, take advantage of local trade events, and develop relationships with buyers in new markets.
 * Conduct AVC horticulture assessment and mapping with agrarian university professors and students, and develop hands-on production and post-harvest learning at universities.
-* [Introduce new ICT tools](https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html) to help facilitate learning.
+* [Introduce new ICT tools](https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html?utm_source=daidotcom) to help facilitate learning.
 
 [1]: https://assetify-dai.com/projects/Uzbek-AVC.jpeg

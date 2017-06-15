@@ -15,11 +15,11 @@ regions: Sub-Saharan Africa
 country: Ghana
 promos:
 - title: 'Women in Agritech: Profiles from Ghana'
-  link: https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html
+  link: https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html?utm_source=daidotcom
 - title: Injecting Ghana’s Ag Sector with Youth-led ICT Energy
-  link: https://dai-global-digital.com/ghana-agritech-exchange.html
+  link: https://dai-global-digital.com/ghana-agritech-exchange.html?utm_source=daidotcom
 - title: 'ICT in the Agricultural Sector: Business Concepts from Ghanaian Youth'
-  link: https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html
+  link: https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html?utm_source=daidotcom
 End: 
 ---
 
@@ -37,11 +37,11 @@ The [KIC promotes innovation and youth employment](http://www.kosmosinnovationce
 
 * Provide technical support to an accelerator engaging small- and medium-sized enterprises in the agribusiness sector.
 
-* [Host collaborative workshops](https://dai-global-digital.com/ghana-agritech-exchange.html) that bring together experts in business, technology, finance, academia, and other fields to develop practical solutions to pressing social problems.
+* [Host collaborative workshops](https://dai-global-digital.com/ghana-agritech-exchange.html?utm_source=daidotcom) that bring together experts in business, technology, finance, academia, and other fields to develop practical solutions to pressing social problems.
 
 ### Select Results
 
-* Supported more than 100 young entrepreneurs in developing [innovative, technology-driven agribusiness concepts ](https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html)for annual KIC challenge.
+* Supported more than 100 young entrepreneurs in developing [innovative, technology-driven agribusiness concepts ](https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html?utm_source=daidotcom)for annual KIC challenge.
 
 * Improved confidence, teamwork, presentation abilities, critical thinking skills, and business acumen of more than 100 youth participants of innovation challenge workshops and mentorship program.
 
