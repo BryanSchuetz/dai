@@ -27,11 +27,11 @@ In other stories:
 
 To sign up for DAI news, newsletters, technical articles, and job postings, click [here][8].
 
-[1]: http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs/
-[2]: http://dai-global-developments.com/articles/getting-the-message-bonding-suppliers-and-farmers-via-sms/
-[3]: http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/
-[4]: http://dai-global-developments.com/articles/sustaining-the-facebook-revolution-social-media-in-political-transition/
-[5]: http://dai-global-developments.com/articles/monitoring-our-assumptions/
-[6]: http://dai-global-developments.com/articles/community-savings-groups-in-tanzania-provide-locally-managed-safety-nets/
-[7]: http://dai-global-developments.com/articles/the-phantom-team-leader/
+[1]: http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs/?utm_source=daidotcom
+[2]: http://dai-global-developments.com/articles/getting-the-message-bonding-suppliers-and-farmers-via-sms/?utm_source=daidotcom
+[3]: http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/?utm_source=daidotcom
+[4]: http://dai-global-developments.com/articles/sustaining-the-facebook-revolution-social-media-in-political-transition/?utm_source=daidotcom
+[5]: http://dai-global-developments.com/articles/monitoring-our-assumptions/?utm_source=daidotcom
+[6]: http://dai-global-developments.com/articles/community-savings-groups-in-tanzania-provide-locally-managed-safety-nets/?utm_source=daidotcom
+[7]: http://dai-global-developments.com/articles/the-phantom-team-leader/?utm_source=daidotcom
 [8]: /sign-up

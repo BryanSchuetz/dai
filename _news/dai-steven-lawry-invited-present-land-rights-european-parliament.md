@@ -24,4 +24,4 @@ The conference came on the heels of the passage by the European Parliament of a 
 
 His presentation—"Tenure Policy toward Customary Land Rights in Sub-Saharan Africa"—summarized key attributes of customary tenure arrangements, including that rights are generally secure, inheritable, and constitute one of the few tangible economic assets available to the poor. Customary rights are under threat due to poor constitutional and legal protection, elite-capture, and a long-standing preference for freehold rights in development policy.
 
-[1]: http://dai-global-developments.com/articles/customary-land-tenure.html
+[1]: http://dai-global-developments.com/articles/customary-land-tenure.html?utm_source=daidotcom

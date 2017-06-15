@@ -26,14 +26,14 @@ Feature articles include:
 
 Click [here][9] to view Developments on its web and mobile platform, or [here][10] for a downloadable pdf. To receive a paper copy of the publication, write to [publications@dai.com][11].
 
-[1]: http://dai-global-developments.com/developments/summer-2013/
-[2]: http://dai-global-developments.com/articles/evidence-kits-turning-the-tide-on-sexual-violence/
-[3]: http://dai-global-developments.com/articles/foreseeing-a-grave-crisis-will-india-e280a8embrace-greater-water-use-efficiency/
-[4]: http://dai-global-developments.com/articles/three-things-that-really-mattered-to-developing-the-youth-workforce-in-serbias-down-economyhtml/
-[5]: http://dai-global-developments.com/articles/to-unlock-job-growth-in-egypt-fix-the-micro-bee/
-[6]: http://dai-global-developments.com/articles/bottom-up-decentralization-new-local-autonomy-kickstarts-community-governing-in-the-drc-3/
-[7]: http://dai-global-developments.com/articles/ensuring-that-forest-communities-own-redd-projectse28089-e28089not-the-other-way-around/
-[8]: http://dai-global-developments.com/articles/competitiveness-driven-growth-ciber-process-breaks-barriers-for-moldovan-entrepreneurs/
-[9]: http://dai-global-developments.com/
-[10]: http://dai-global-developments.com/wp-content/uploads/pdf/developments_summer_2013.pdf
+[1]: http://dai-global-developments.com/developments/summer-2013/?utm_source=daidotcom
+[2]: http://dai-global-developments.com/articles/evidence-kits-turning-the-tide-on-sexual-violence/?utm_source=daidotcom
+[3]: http://dai-global-developments.com/articles/foreseeing-a-grave-crisis-will-india-e280a8embrace-greater-water-use-efficiency/?utm_source=daidotcom
+[4]: http://dai-global-developments.com/articles/three-things-that-really-mattered-to-developing-the-youth-workforce-in-serbias-down-economyhtml/?utm_source=daidotcom
+[5]: http://dai-global-developments.com/articles/to-unlock-job-growth-in-egypt-fix-the-micro-bee/?utm_source=daidotcom
+[6]: http://dai-global-developments.com/articles/bottom-up-decentralization-new-local-autonomy-kickstarts-community-governing-in-the-drc-3/?utm_source=daidotcom
+[7]: http://dai-global-developments.com/articles/ensuring-that-forest-communities-own-redd-projectse28089-e28089not-the-other-way-around/?utm_source=daidotcom
+[8]: http://dai-global-developments.com/articles/competitiveness-driven-growth-ciber-process-breaks-barriers-for-moldovan-entrepreneurs/?utm_source=daidotcom
+[9]: http://dai-global-developments.com/?utm_source=daidotcom
+[10]: http://dai-global-developments.com/wp-content/uploads/pdf/developments_summer_2013.pdf?utm_source=daidotcom
 [11]: mailto:publications@dai.com

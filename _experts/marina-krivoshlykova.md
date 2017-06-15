@@ -16,7 +16,7 @@ regions:
 - Sub-Saharan Africa
 articles:
 - name: Market Trends and Resilience, _Developing Alternatives_
-  article_file: http://dai-global-developments.com/articles/market-trends-and-resilience.html
+  article_file: http://dai-global-developments.com/articles/market-trends-and-resilience.html?utm_source=daidotcom
 layout: expert
 ---
 

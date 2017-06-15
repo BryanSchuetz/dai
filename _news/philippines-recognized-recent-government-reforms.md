@@ -7,7 +7,7 @@ regions:
 - Asia and the Pacific
 projects: Facilitating Public Investment (FPI)
 summary: The Philippines, a founding member of the international [Open Government
-  Partnership](http://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/)
+  Partnership](http://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/?utm_source=daidotcom)
   (OGP), has been recognized as one of the leading OGP participants. The OGP is an
   international organization promoting transparency, civic participation, the fight
   against corruption, and new technologies to make government more open, effective,

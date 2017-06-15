@@ -12,7 +12,7 @@ summary: 'Bill Grant, DAI''s Global Practice Leader for Market Systems Developme
 layout: node
 ---
 
-[Bill Grant](/who-we-are/our-team/bill-grant), DAI's Global Practice Leader for Market Systems Development, has published a new summary paper—"[Market Systems Development: A Primer on Pro-Poor Programming](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/)"—coming out of DAI's recent economic growth conference in London.
+[Bill Grant](/who-we-are/our-team/bill-grant), DAI's Global Practice Leader for Market Systems Development, has published a new summary paper—"[Market Systems Development: A Primer on Pro-Poor Programming](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom)"—coming out of DAI's recent economic growth conference in London.
 
 The paper reviews the basic principles of market systems development programming, showing how it incorporates the complementary lessons of both value chain and Making Markets Work for the Poor (M4P) approaches, with an emphasis on project implementation and reference to concrete examples from interventions in Lesotho, Mozambique, Nigeria, and elsewhere.
 

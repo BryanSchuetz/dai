@@ -6,7 +6,7 @@ layout: default
 
 # Learn More About DAI
 
-Sign up below to receive news alerts from DAI. We'll send out word when we have new issues of our formal publications like [Developing Alternatives](http://dai-global-developments.com/developing-alternatives/), [Developments](http://dai-global-developments.com/developments/), and [DAIdeas](http://dai-global-developments.com/daideas/). Occasionally, we'll also let you know about other important news, events, and job opportunities. You can unsubscribe at any time with a single click.
+Sign up below to receive news alerts from DAI. We'll send out word when we have new issues of our formal publications like [Developing Alternatives](http://dai-global-developments.com/developing-alternatives/?utm_source=daidotcom), [Developments](http://dai-global-developments.com/developments/?utm_source=daidotcom), and [DAIdeas](http://dai-global-developments.com/daideas/?utm_source=daidotcom). Occasionally, we'll also let you know about other important news, events, and job opportunities. You can unsubscribe at any time with a single click.
 
 <form class="campaign-monitor" action="http://dai.createsend.com/t/r/s/sikkud/" id="subForm" method="post">
 		<div>

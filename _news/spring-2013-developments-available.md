@@ -37,8 +37,8 @@ Click [here][11] to view Developments on its new web and mobile platform and [si
 [5]: /who-we-are/our-team/larry-campbell
 [6]: /our-work/projects/rwanda-strengthening-sustainable-ecotourism-and-around-nyungwe-national-park
 [7]: /our-work/projects/cambodia-micro-small-and-medium-enterprises-strengthening-2-project-msme-1-and-2
-[8]: http://dai-global-developments.com/daideas-innovation-in-action-chevro/
+[8]: http://dai-global-developments.com/daideas-innovation-in-action-chevro/?utm_source=daidotcom
 [9]: /who-we-are/our-team/bill-grant
 [10]: /who-we-are/our-team/zach-kaplan
-[11]: http://dai-global-developments.com
+[11]: http://dai-global-developments.com?utm_source=daidotcom
 [12]: http://dai.com/sign-up

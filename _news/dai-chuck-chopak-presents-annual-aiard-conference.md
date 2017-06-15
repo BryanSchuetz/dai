@@ -33,5 +33,5 @@ See highlights from the conference on Twitter by searching the hashtag [#AIARD20
 
 [1]: /who-we-are/our-team/chuck-chopak
 [2]: /who-we-are/our-team/keith-forbes
-[3]: http://dai-global-developments.com/science-into-action-turning-climate-studies-into-decision-making-tools/
+[3]: http://dai-global-developments.com/science-into-action-turning-climate-studies-into-decision-making-tools/?utm_source=daidotcom
 [4]: https://twitter.com/search?q=%23aiard2013&src=hash

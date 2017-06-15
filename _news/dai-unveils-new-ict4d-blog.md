@@ -30,7 +30,7 @@ Among the initial posts, you'll find [Anand Varghese][3] reflecting on new progr
 
 "In the discipline of [ICT for Development][6], the pace of change never lets up and the range of potential activities is immense," said Baptista. "We look forward to sharing what we are seeing, hearing, and learning—across DAI's diverse portfolio and beyond."
 
-[1]: http://dai-global-digital.com/
+[1]: http://dai-global-digital.com/?utm_source=daidotcom
 [2]: /who-we-are/our-team/krista-baptista
 [3]: /who-we-are/our-team/anand-varghese
 [4]: /who-we-are/our-team/adam-fivenson

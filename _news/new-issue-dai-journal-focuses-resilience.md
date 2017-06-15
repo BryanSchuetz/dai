@@ -37,7 +37,7 @@ By way of an afterword, Ambassador Rick Barton, Assistant Secretary of State for
 
 The print edition of _Resilience_ will be available early in 2014, and we will hold related discussions around the publication in Washington, D.C. and elsewhere. In the meantime, we invite you to check out the articles online and to follow [#resilience][5] on Twitter, where we will post links as new articles are posted.
 
-[2]: http://dai-global-developments.com/articles/self-examining-practitioners.html
-[3]: http://dai-global-developments.com/articles/resilience-development-fad-concept-with-staying-power.html
-[4]: http://dai-global-developments.com/articles/fragility-resilience-and-libya-after-the-revolution.html
+[2]: http://dai-global-developments.com/articles/self-examining-practitioners.html?utm_source=daidotcom
+[3]: http://dai-global-developments.com/articles/resilience-development-fad-concept-with-staying-power.html?utm_source=daidotcom
+[4]: http://dai-global-developments.com/articles/fragility-resilience-and-libya-after-the-revolution.html?utm_source=daidotcom
 [5]: https://twitter.com/search?src=typd&q=%23resilience

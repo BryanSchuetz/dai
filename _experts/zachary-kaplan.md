@@ -25,10 +25,10 @@ regions:
 articles:
 - name: Addressing Resilience to Climate Change with Public-Private Partnerships in
     Vietnam, _Developing Alternatives_, Winter 2013–14
-  article_file: http://dai-global-developments.com/articles/climate-resilient-city.html
+  article_file: http://dai-global-developments.com/articles/climate-resilient-city.html?utm_source=daidotcom
 - name: 'Mining for Answers: Mozambique Weighs Options for a Practical, Profitable
     Local Content Policy, _Developments_'
-  article_file: http://dai-global-developments.com/articles/mining-for-answers.html
+  article_file: http://dai-global-developments.com/articles/mining-for-answers.html?utm_source=daidotcom
 layout: expert
 ---
 

@@ -50,7 +50,7 @@ Agriculture: Improve and secure food production and distribution.
 
 The Challenge is targeted at innovations that have shown some traction in the marketplace and would benefit substantially from engagement with DAI’s portfolio. To nominate your innovation and find out more, complete the [brief online application](https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai) by February 29.
 
-<aside>Read more about DAI's approach to innovation in this <a href="http://dai-global-developments.com/articles/innovation-into-action-challenge/">Q&A with Jean Gilson</a>, DAI's Senior Vice President, Strategy and Information Technology Group.</aside>
+<aside>Read more about DAI's approach to innovation in this <a href="http://dai-global-developments.com/articles/innovation-into-action-challenge/?utm_source=daidotcom">Q&A with Jean Gilson</a>, DAI's Senior Vice President, Strategy and Information Technology Group.</aside>
 
 ## About the Innovation into Action Partners
 

@@ -17,7 +17,7 @@ regions:
 articles:
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”
     _DAIdeas_"
-  article_file: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
+  article_file: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/?utm_source=daidotcom
 layout: expert
 ---
 

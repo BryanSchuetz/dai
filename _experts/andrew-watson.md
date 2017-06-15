@@ -33,4 +33,4 @@ In his 18 years with DAI, Andrew has undertaken three long-term assignments—in
 * B.A. and M.A., geography, Oxford University
 
 [3]: https://www.devex.com/en/news/in-morocco-a-million-dollar-deal-founded-on-land/81830
-[4]: http://dai-global-developments.com/articles/incentive-for-moroccan-farmers-to-conserve-water.html
+[4]: http://dai-global-developments.com/articles/incentive-for-moroccan-farmers-to-conserve-water.html?utm_source=daidotcom

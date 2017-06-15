@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Grant
 summary: Bill Grant has played an important role in the development and application
   of subsector and value chain approaches and is currently leading numerous programs
-  applying the [Making Markets Work for the Poor](http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html)
+  applying the [Making Markets Work for the Poor](http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html?utm_source=daidotcom)
   approach for private and international donors.
 job-title: Global Practice Lead, Market Systems Development
 image: https://assetify-dai.com/experts/innerbill.jpg
@@ -16,9 +16,9 @@ regions:
 articles:
 - name: In Niger Delta, Chevron Launches New Paradigm for Corporate Social Investment,
     *DAIdeas*
-  article_file: http://dai-global-developments.com/articles/daideas-innovation-in-action-chevron.html
+  article_file: http://dai-global-developments.com/articles/daideas-innovation-in-action-chevron.html?utm_source=daidotcom
 - name: 'Market Systems Development: A Primer on Pro-Poor Programming, _DAIdeas_'
-  article_file: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/
+  article_file: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom
 layout: expert
 ---
 
@@ -33,4 +33,4 @@ So in 1984, after driving his motorcycle across Africa, he enrolled in Stanford 
 * M.B.A., international development, small business management, Stanford University
 * M.A., agricultural economics, Stanford University
 
-[3]: http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html
+[3]: http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html?utm_source=daidotcom

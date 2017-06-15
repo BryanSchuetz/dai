@@ -1,9 +1,9 @@
 ---
 title: Fall 2015 Issue of DAI’s Developments Newsletter Available Online
 date: 2015-11-05 18:05:00 Z
-summary: The Fall 2015 issue of DAI's _Developments_ newsletter is now available [online](http://dai-global-developments.com/developments/fall-2015/).
+summary: The Fall 2015 issue of DAI's _Developments_ newsletter is now available [online](http://dai-global-developments.com/developments/fall-2015/?utm_source=daidotcom).
   Leading off, Mathilde Gaston-Mathé and Emmanuel Moyart describe how the African,
-  Caribbean, and Pacific/European Union Microfinance Programme [vitalized a network](http://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners/)
+  Caribbean, and Pacific/European Union Microfinance Programme [vitalized a network](http://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners/?utm_source=daidotcom)
   of practitioners and stakeholders—including more than 2,400 microfinance institutions,
   3,000 staff, and 57 policy makers—across 32 countries.
 solutions:
@@ -33,12 +33,12 @@ Other articles include:
 
 To see DAI's archive of more than 130 *Developments* articles, click [here][8]. To sign up for DAI news, newsletters, technical articles, and job postings, click [here][9].
 
-[1]: http://dai-global-developments.com/developments/fall-2015/
-[2]: http://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners/
-[3]: http://dai-global-developments.com/articles/filling-cambodias-video-void/
-[4]: http://dai-global-developments.com/articles/getting-back-to-business-in-post-conflict-gaza/
-[5]: http://dai-global-developments.com/articles/philippines-experiences-major-increase-in-electronic-tax-filing/
-[6]: http://dai-global-developments.com/articles/building-community-climate-stories-and-adaptation-plans-from-the-ground-up/
-[7]: http://dai-global-developments.com/articles/measuring-the-effectiveness-of-government-in-thailands-provinces/
-[8]: http://dai-global-developments.com/developments/full-archive/
+[1]: http://dai-global-developments.com/developments/fall-2015/?utm_source=daidotcom
+[2]: http://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners/?utm_source=daidotcom
+[3]: http://dai-global-developments.com/articles/filling-cambodias-video-void/?utm_source=daidotcom
+[4]: http://dai-global-developments.com/articles/getting-back-to-business-in-post-conflict-gaza/?utm_source=daidotcom
+[5]: http://dai-global-developments.com/articles/philippines-experiences-major-increase-in-electronic-tax-filing/?utm_source=daidotcom
+[6]: http://dai-global-developments.com/articles/building-community-climate-stories-and-adaptation-plans-from-the-ground-up/?utm_source=daidotcom
+[7]: http://dai-global-developments.com/articles/measuring-the-effectiveness-of-government-in-thailands-provinces/?utm_source=daidotcom
+[8]: http://dai-global-developments.com/developments/full-archive/?utm_source=daidotcom
 [9]: sign-up
