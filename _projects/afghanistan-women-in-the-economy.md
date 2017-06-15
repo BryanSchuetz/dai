@@ -22,7 +22,7 @@ country:
 layout: project
 ---
 
-The U.S Agency for International Development (USAID)’s Promote: Women in the Economy (WIE) program, now in its second year, is [bolstering women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce/) in Afghanistan’s economy and working to ensure that progress made by Afghan women over the past decade endures and advances.
+The U.S Agency for International Development (USAID)’s Promote: Women in the Economy (WIE) program, now in its second year, is [bolstering women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce/?utm_source=daidotcom) in Afghanistan’s economy and working to ensure that progress made by Afghan women over the past decade endures and advances.
 
 With its focus on both private sector and workforce development, WIE is based in five economic zones across the country and works across 30 Afghan provinces. WIE assists women-owned businesses and businesses that employ at least 10 percent women to perform better, increasing the income growth and sustainability of these businesses. The program provides technical assistance, industry-specific business skills training, and improved access to markets to leverage growth in the private sector.
 

@@ -26,19 +26,19 @@ Other stories include:
 Click [here][16] to view Developments on its web and mobile platform. If you prefer to order a paper copy of a specific issue, please send an email with your contact information to [publications@dai.com][17].
 
 [1]: /who-we-are/our-team/zaki-raheem
-[2]: http://dai-global-developments.com/articles/to-the-partnership-fund.html
+[2]: http://dai-global-developments.com/articles/to-the-partnership-fund.html?utm_source=daidotcom
 [3]: /news/dai-saad-hamid-present-second-education-telenor-youth-summit
-[4]: http://dai-global-developments.com/articles/dfid-project-assists-pakistani-boys-and-girls.html
+[4]: http://dai-global-developments.com/articles/dfid-project-assists-pakistani-boys-and-girls.html?utm_source=daidotcom
 [5]: /who-we-are/our-team/andrew-watson
-[6]: http://dai-global-developments.com/articles/incentive-for-moroccan-farmers-to-conserve-water.html
-[7]: http://dai-global-developments.com/articles/natural-resource-conservation-through-electronic-hotel-reservations.html
+[6]: http://dai-global-developments.com/articles/incentive-for-moroccan-farmers-to-conserve-water.html?utm_source=daidotcom
+[7]: http://dai-global-developments.com/articles/natural-resource-conservation-through-electronic-hotel-reservations.html?utm_source=daidotcom
 [8]: /who-we-are/our-team/miguel-baca
-[9]: http://dai-global-developments.com/articles/fiscal-project-helps-jordan-issue-bond.html
+[9]: http://dai-global-developments.com/articles/fiscal-project-helps-jordan-issue-bond.html?utm_source=daidotcom
 [10]: /who-we-are/our-team/zach-kaplan
-[11]: http://dai-global-developments.com/articles/mining-for-answers.html
-[12]: http://dai-global-developments.com/articles/philippine-town.html
+[11]: http://dai-global-developments.com/articles/mining-for-answers.html?utm_source=daidotcom
+[12]: http://dai-global-developments.com/articles/philippine-town.html?utm_source=daidotcom
 [13]: /who-we-are/our-team/john-jepsen
 [14]: /who-we-are/our-team/del-mccluskey
-[15]: http://dai-global-developments.com/articles/building-back-better.html
-[16]: http://dai-global-developments.com/developments/winter-2013.html
+[15]: http://dai-global-developments.com/articles/building-back-better.html?utm_source=daidotcom
+[16]: http://dai-global-developments.com/developments/winter-2013.html?utm_source=daidotcom
 [17]: mailto:publications@dai.com?subject=dai.com

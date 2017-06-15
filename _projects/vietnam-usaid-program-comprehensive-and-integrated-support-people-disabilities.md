@@ -39,8 +39,8 @@ We assisted the Vietnamese to provide more comprehensive care, treatment, and sp
 * Nearly 230 community government employees in Danang received training in disability classification and determination as required by the new Disability Law.
 * About 330 service providers from different local agencies in Danang attended an orientation workshop in December 2013.
 
-[1]: http://dai-global-developments.com/articles/energizing-the-support-network-for-people-with-disabilities-in-vietnam/
+[1]: http://dai-global-developments.com/articles/energizing-the-support-network-for-people-with-disabilities-in-vietnam/?utm_source=daidotcom
 [2]: http://www.usaid.gov/vietnam/persons-with-disabilities
 [3]: https://assetify-dai.com/projects/Vietnam_DSP.jpg
-[4]: http://dai-global-developments.com/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/
+[4]: http://dai-global-developments.com/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/?utm_source=daidotcom
 [5]: http://www.usaid.gov/sites/default/files/documents/1861/PDSP_Project_Update-Beneficiary_Summary_September-2014-USAID.pdf

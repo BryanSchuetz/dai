@@ -27,7 +27,7 @@ The marshlands of southern Iraq were once a major flyway for billions of birds, 
 
 ###  Sample Activities
 
-* [Restore the region](http://dai-global-developments.com/articles/the-re-greening-of-iraq-restoring-marshlands/) and make it environmentally sustainable and economically profitable for marsh dwellers.
+* [Restore the region](http://dai-global-developments.com/articles/the-re-greening-of-iraq-restoring-marshlands/?utm_source=daidotcom) and make it environmentally sustainable and economically profitable for marsh dwellers.
 * Improve the management of existing and newly reflooded marshlands.
 * Expand restoration activities.
 * Develop and reach broad international consensus on a long-term comprehensive rehabilitation strategy.

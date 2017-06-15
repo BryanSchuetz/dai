@@ -45,5 +45,5 @@ Enterprise Partners works through two major pillars:
 * Generated £10 million of additional investment into the economy.
 * Created more than 18,000 financial accounts for businesses.
 
-[1]: http://dai-global-developments.com/articles/serving-the-missing-middle-creating-access-to-finance-for-female-owned-small-businesses-in-ethiopia/
+[1]: http://dai-global-developments.com/articles/serving-the-missing-middle-creating-access-to-finance-for-female-owned-small-businesses-in-ethiopia/?utm_source=daidotcom
 [2]: https://assetify-dai.com/projects/PEPE.jpg

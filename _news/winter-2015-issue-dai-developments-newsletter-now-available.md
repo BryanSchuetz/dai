@@ -32,12 +32,12 @@ In other articles:
 
 To see DAI's archive of more than 130 *Developments* articles, click [here][8]. To sign up for DAI news, newsletters, technical articles, and job postings, click [here][9].
 
-[1]: http://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/
+[1]: http://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/?utm_source=daidotcom
 [2]: /our-work/projects/cambodia-development-innovations
-[3]: http://dai-global-developments.com/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/
-[4]: http://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/
-[5]: http://dai-global-developments.com/articles/indigenous-gardens-improving-nutrition-while-easing-the-load/
-[6]: http://dai-global-developments.com/articles/the-future-of-mobile-money-big-banks-b2b-and-the-users-perspective/
-[7]: http://dai-global-developments.com/articles/nurturing-a-culture-of-law-and-justice-in-the-drc/
-[8]: http://dai-global-developments.com/developments/full-archive/
+[3]: http://dai-global-developments.com/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities/?utm_source=daidotcom
+[4]: http://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/?utm_source=daidotcom
+[5]: http://dai-global-developments.com/articles/indigenous-gardens-improving-nutrition-while-easing-the-load/?utm_source=daidotcom
+[6]: http://dai-global-developments.com/articles/the-future-of-mobile-money-big-banks-b2b-and-the-users-perspective/?utm_source=daidotcom
+[7]: http://dai-global-developments.com/articles/nurturing-a-culture-of-law-and-justice-in-the-drc/?utm_source=daidotcom
+[8]: http://dai-global-developments.com/developments/full-archive/?utm_source=daidotcom
 [9]: /sign-up

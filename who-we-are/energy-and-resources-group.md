@@ -13,7 +13,7 @@ promos:
 - title: "**Project**: _Corporate Social investment Program for Entrepreneurs in Ghana_"
   link: "/uploads/kosmos.pdf"
 - title: "**Analysis**: _Unlocking Content_"
-  link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
+  link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/?utm_source=daidotcom
 - title: "**Video**: _Kosmos Innovation Center_"
   link: https://www.youtube.com/watch?v=A3-VyczktO8
 layout: node

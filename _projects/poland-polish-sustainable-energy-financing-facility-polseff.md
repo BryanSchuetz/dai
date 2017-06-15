@@ -43,6 +43,6 @@ We are [creating a perpetual market][1] for investments in efficient energy by P
 * Phase I established partnerships with five major financial institutions, which financed 2,012 efficient-energy projects from more than 1,900 small firms; trained 200 staff of financial institutions on how to responsibly finance projects; and developed a [website ][2]and equipment with a database of more than 700 registered companies and 7,000 eligible products.
 * [Honored][3] with the Financing Deal of the Year award at the 2016 Central and Eastern European (CEE) Clean Energy Awards.
 
-[1]: http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs/
+[1]: http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs/?utm_source=daidotcom
 [2]: http://www.polseff.org/
 [3]: /news/polish-sustainable-energy-financing-facility-wins-clean-energy-award

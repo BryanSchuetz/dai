@@ -35,7 +35,7 @@ In 2004, the eastern provinces of Afghanistan cultivated approximately one-third
 ###  Select Results
 
 * ADP/E agribusiness projects had a direct impact on 66 percent of the households in Nangarhar; 32 percent in Laghman; 22 percent in Kunar; and 9 percent in Nuristan, through a series of commercially oriented activities incorporating 24,308 hectares to legal agriculture and generating more than 17,584 full-time jobs.
-* [Provided villages with lights and electricity](http://dai-global-developments.com/articles/-providing-an-afghan-village-with-lights-and-electricity/).
+* [Provided villages with lights and electricity](http://dai-global-developments.com/articles/-providing-an-afghan-village-with-lights-and-electricity/?utm_source=daidotcom).
 * Training was made available for 118,414 farmers, government representatives, associations, and business owners.
 * Introduced a mobile phone system where Afghan buyers and sellers obtain daily prices for more than 60 commodities in five markets via email or by sending an SMS from their mobile phone (in multiple Afghan dialects).
 * Directly facilitated sales of fruits and vegetables valued at $5.2 million.

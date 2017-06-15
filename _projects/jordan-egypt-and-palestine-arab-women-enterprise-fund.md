@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: 'Funded by the U.K. Department for International Development and the Islamic
   Development Bank and working in Jordan, Egypt, and Palestine, Arab Women''s Enterprise
   Fund (AWEF) is the first project of its kind. AWEF will stimulate increased women''s
-  economic empowerment and agency through a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/).
+  economic empowerment and agency through a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom).
   This partnership will address gaps in women''s economic empowerment in the region,
   which has one of the lowest rates of female labour force participation in the world. '
 start: 2015
@@ -39,5 +39,5 @@ AWEF is the only market systems-based development programme in the region that a
 
 * Support introduction of fee-based, female para-veterinary services to make basic animal health care services more available locally, particularly to home-based production run by women.
 
-[1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/
+[1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom
 [2]: https://assetify-dai.com/projects/AWEF-web-page.jpg

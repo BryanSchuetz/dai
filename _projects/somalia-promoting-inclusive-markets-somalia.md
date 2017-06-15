@@ -23,7 +23,7 @@ country:
 layout: project
 ---
 
-The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market development approach, using the Making Markets Work for the Poor (M4P) methodology to stimulate inclusive economic growth. PIMS works through the private sector to support the functioning of markets in key sectors by [addressing](http://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/) weaknesses in small-scale productive infrastructure, a chronic lack of market information, and limited access to finance.
+The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market development approach, using the Making Markets Work for the Poor (M4P) methodology to stimulate inclusive economic growth. PIMS works through the private sector to support the functioning of markets in key sectors by [addressing](http://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/?utm_source=daidotcom) weaknesses in small-scale productive infrastructure, a chronic lack of market information, and limited access to finance.
 
 The three-year programme will address market constraints to the development of the private sector by facilitating the strengthening of key value chains and focus investment towards these key value chains. PIMS works in Somaliland, Puntland, and Somalia.
 

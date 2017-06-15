@@ -29,15 +29,15 @@ In other stories:
 
 Click [here][11] to view Developments on its web and mobile platform. If you wish to order the free 32-page print copy, please send an email with your mailing address to [publications@dai.com][12].
 
-[1]: http://dai-global-developments.com/articles/supporting-active-citizenship-across-pakistan.html
-[2]: http://dai-global-developments.com/articles/going-soical-on-avian-influenza.html
-[3]: http://dai-global-developments.com/articles/reforming-business-policy-mozambique.html
-[4]: http://dai-global-developments.com/articles/innovative-fund-enables-philippine-water-utilities-to-invest.html
-[5]: http://dai-global-developments.com/articles/supporting-the-transition-to-peace-in-sri-lanka.html
-[6]: http://dai-global-developments.com/articles/timorese-farmers-high-value-produce.html
-[7]: http://dai-global-developments.com/articles/fertilizing-method-delivers-results-for-liberian-rice-farmers.html
-[8]: http://dai-global-developments.com/articles/solutions-thinking-outside-organizational-box.html
-[9]: http://dai-global-developments.com/articles/calculating-syrian-refugee-crisis-fiscal-crisis.html
-[10]: http://dai-global-developments.com/articles/poverty-partnership-pursuit-innovation.html
-[11]: http://dai-global-developments.com/developments/summer-2014.html
+[1]: http://dai-global-developments.com/articles/supporting-active-citizenship-across-pakistan.html?utm_source=daidotcom
+[2]: http://dai-global-developments.com/articles/going-soical-on-avian-influenza.html?utm_source=daidotcom
+[3]: http://dai-global-developments.com/articles/reforming-business-policy-mozambique.html?utm_source=daidotcom
+[4]: http://dai-global-developments.com/articles/innovative-fund-enables-philippine-water-utilities-to-invest.html?utm_source=daidotcom
+[5]: http://dai-global-developments.com/articles/supporting-the-transition-to-peace-in-sri-lanka.html?utm_source=daidotcom
+[6]: http://dai-global-developments.com/articles/timorese-farmers-high-value-produce.html?utm_source=daidotcom
+[7]: http://dai-global-developments.com/articles/fertilizing-method-delivers-results-for-liberian-rice-farmers.html?utm_source=daidotcom
+[8]: http://dai-global-developments.com/articles/solutions-thinking-outside-organizational-box.html?utm_source=daidotcom
+[9]: http://dai-global-developments.com/articles/calculating-syrian-refugee-crisis-fiscal-crisis.html?utm_source=daidotcom
+[10]: http://dai-global-developments.com/articles/poverty-partnership-pursuit-innovation.html?utm_source=daidotcom
+[11]: http://dai-global-developments.com/developments/summer-2014.html?utm_source=daidotcom
 [12]: mailto:publications@dai.com?subject=dai.com

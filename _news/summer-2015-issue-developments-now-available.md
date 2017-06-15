@@ -22,8 +22,8 @@ Finally, [Joel Carter][4], CEO of the Agricultural Development Fund in Afghanist
 
 To sign up for DAI news, newsletters, technical articles, and job postings, click [here][5].
 
-[1]: http://dai-global-developments.com/developments/summer-2015/
-[2]: http://dai-global-developments.com/articles/building-trust-while-rebuilding-somalia/
-[3]: http://dai-global-developments.com/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people/
-[4]: http://dai-global-developments.com/articles/interview-with-joel-o-carter-ceo-of-the-afghanistan-agricultural-development-fund/
+[1]: http://dai-global-developments.com/developments/summer-2015/?utm_source=daidotcom
+[2]: http://dai-global-developments.com/articles/building-trust-while-rebuilding-somalia/?utm_source=daidotcom
+[3]: http://dai-global-developments.com/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people/?utm_source=daidotcom
+[4]: http://dai-global-developments.com/articles/interview-with-joel-o-carter-ceo-of-the-afghanistan-agricultural-development-fund/?utm_source=daidotcom
 [5]: /sign-up

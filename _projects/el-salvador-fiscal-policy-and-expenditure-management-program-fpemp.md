@@ -17,7 +17,7 @@ country:
 layout: project
 ---
 
-The FPEMP project is helping the Government of El Salvador (GOES) increase tax revenue, without raising rates, and achieve [greater transparency](http://www.transparenciaactiva.gob.sv/portal-de-transparencia-fiscal-se-renueva-y-profundiza-el-acceso-a-la-informacion-publica/) and accountability, and more efficiently [use public resources](http://www.usaid.gov/sites/default/files/documents/1865/120314_E3%20Brochure_Trifold_L_singles.pdf). We are modernizing the General Directorate for Internal Revenue to improve taxpayer services, reduce tax fraud and tax evasion, and enhance legitimacy. The project builds on the [foundations](http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services/) for reform laid by a preceding project called Tax Policy and Administration Reform that DAI led from 2005 to 2010.
+The FPEMP project is helping the Government of El Salvador (GOES) increase tax revenue, without raising rates, and achieve [greater transparency](http://www.transparenciaactiva.gob.sv/portal-de-transparencia-fiscal-se-renueva-y-profundiza-el-acceso-a-la-informacion-publica/) and accountability, and more efficiently [use public resources](http://www.usaid.gov/sites/default/files/documents/1865/120314_E3%20Brochure_Trifold_L_singles.pdf). We are modernizing the General Directorate for Internal Revenue to improve taxpayer services, reduce tax fraud and tax evasion, and enhance legitimacy. The project builds on the [foundations](http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services/?utm_source=daidotcom) for reform laid by a preceding project called Tax Policy and Administration Reform that DAI led from 2005 to 2010.
 
 ![](https://assetify-dai.com/projects/salvadorinner.jpg)
 
@@ -25,7 +25,7 @@ The FPEMP project is helping the Government of El Salvador (GOES) increase tax r
 
 * Help the government implement multiyear results-oriented budgeting and modernize its financial management information systems.
 
-* Help reform tax policies for [more effective tax administration](http://dai-global-developments.com/articles/mitigating-instability-in-central-america/).
+* Help reform tax policies for [more effective tax administration](http://dai-global-developments.com/articles/mitigating-instability-in-central-america/?utm_source=daidotcom).
 
 * Increase participation of the tax-paying private sector in the government's budget process.
 

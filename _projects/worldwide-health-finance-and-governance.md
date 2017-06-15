@@ -28,4 +28,4 @@ In addition to prime contractor Abt Associates, other partners include Training 
 * Support the supply and demand in partner countries for good governance of health systems.
 * Build upon successful efforts in Jordan to improve systems for health budgeting, in Bangladesh on civil society oversight of health facilities, and [in El Salvador][1] on local revenue generation.
 
-[1]: http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services/
+[1]: http://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services/?utm_source=daidotcom

@@ -31,7 +31,7 @@ To keep in touch with the DAI Maker Lab, follow us here in this space, on Twitte
 ![][5]
 
 [1]: https://prezi.com/pxbdaizrkbrf/diy-development/
-[2]: http://dai-global-developments.com/articles/diy-development/
+[2]: http://dai-global-developments.com/articles/diy-development/?utm_source=daidotcom
 [3]: http://twitter.com/DAI_Maker_Lab
 [4]: mailto:robert_ryan-silva@dai.com
 [5]: /uploads/rob.jpg

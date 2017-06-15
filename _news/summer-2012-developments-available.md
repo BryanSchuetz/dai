@@ -34,19 +34,19 @@ Finally, in the executive opinion section, our Managing Director in our South Af
 
 Click [here][15] to view Developments on its new web and mobile platform and [sign up here][16] to receive the quarterly publication.
 
-[1]: http://dai-global-developments.com/youth-music-and-popular-voice-in-the-democratic-republic-of-the-congo/
-[2]: http://dai-global-developments.com/usaid-star-project-helped-propel-vietnam-into-the-global-economy/
-[3]: http://dai-global-developments.com/helping-a-south-african-mining-giant-invest-for-results-in-its-local-communities/
+[1]: http://dai-global-developments.com/youth-music-and-popular-voice-in-the-democratic-republic-of-the-congo/?utm_source=daidotcom
+[2]: http://dai-global-developments.com/usaid-star-project-helped-propel-vietnam-into-the-global-economy/?utm_source=daidotcom
+[3]: http://dai-global-developments.com/helping-a-south-african-mining-giant-invest-for-results-in-its-local-communities/?utm_source=daidotcom
 [4]: /who-we-are/our-team/walter-weaver
-[5]: http://dai-global-developments.com/in-arid-jordan-idara-motivated-citizens-government-to-conserve-precious-water/
+[5]: http://dai-global-developments.com/in-arid-jordan-idara-motivated-citizens-government-to-conserve-precious-water/?utm_source=daidotcom
 [6]: /who-we-are/our-team/carmen-tedesco
-[7]: http://dai-global-developments.com/thousands-worldwide-find-environmental-solutions-at-frameweb/
+[7]: http://dai-global-developments.com/thousands-worldwide-find-environmental-solutions-at-frameweb/?utm_source=daidotcom
 [8]: /our-work/projects/worldwide-capitalizing-knowledge-connecting-communities-ck2c-program
-[9]: http://dai-global-developments.com/herat-economic-corridor-could-catalyze-growth-in-western-afghanistan/
-[10]: http://dai-global-developments.com/providing-an-afghan-village-with-lights-and-electricity/
-[11]: http://dai-global-developments.com/ways-to-help-women-reclaim-their-roles-in-afghanistans-economic-growth/
-[12]: http://dai-global-developments.com/afghan-farmers-investing-in-livelihoods/
+[9]: http://dai-global-developments.com/herat-economic-corridor-could-catalyze-growth-in-western-afghanistan/?utm_source=daidotcom
+[10]: http://dai-global-developments.com/providing-an-afghan-village-with-lights-and-electricity/?utm_source=daidotcom
+[11]: http://dai-global-developments.com/ways-to-help-women-reclaim-their-roles-in-afghanistans-economic-growth/?utm_source=daidotcom
+[12]: http://dai-global-developments.com/afghan-farmers-investing-in-livelihoods/?utm_source=daidotcom
 [13]: /who-we-are/our-team/juan-estrada-valle
-[14]: http://dai.com/our-work/projects/afghanistan-agricultural-credit-enhancement-program-ace
+[14]: http://dai.com/our-work/projects/afghanistan-agricultural-credit-enhancement-program-ace?utm_source=daidotcom
 [15]: http://dai.tc/MAczs6
 [16]: http://dai.com/sign-up

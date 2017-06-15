@@ -34,7 +34,7 @@ Our goals for this project in water-constrained Morocco were simple: reduce pove
 
 ### Select Results
 
-* [Improved and streamlined](http://dai-global-developments.com/articles/project-improves-business-environment-in-morocco-in-midst-of-political-upheaval/) business processes related to investment, building permitting, and creation of new enterprises.
+* [Improved and streamlined](http://dai-global-developments.com/articles/project-improves-business-environment-in-morocco-in-midst-of-political-upheaval/?utm_source=daidotcom) business processes related to investment, building permitting, and creation of new enterprises.
 
 * Designed and implemented improved information systems for managing scarce water resources in key agricultural districts.
 

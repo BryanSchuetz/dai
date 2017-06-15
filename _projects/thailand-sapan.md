@@ -36,7 +36,7 @@ Our Bangkok-based team is promoting cooperation between civil society and agenci
 
 * Enrolled and provided training for more than 6,000 representatives of civil society organizations, universities, government, and media.
 * Facilitated and strengthened the capacity of a coalition of seven women-led civil society organizations, which now more effectively promotes and supports access by women to funding through the country's Women's Development Fund.
-* Designed and helped establish a university-based [Center for Civil Society and Nonprofit Management](http://dai-global-developments.com/articles/usaid-sapan-program-energized-thailands-civil-society/) that strengthens the skills of current and future managers and leaders of nonprofit organizations, equipping them to mobilize resources to improve local governance and encourage social justice.
+* Designed and helped establish a university-based [Center for Civil Society and Nonprofit Management](http://dai-global-developments.com/articles/usaid-sapan-program-energized-thailands-civil-society/?utm_source=daidotcom) that strengthens the skills of current and future managers and leaders of nonprofit organizations, equipping them to mobilize resources to improve local governance and encourage social justice.
 * Supported six universities in their founding of Local Stakeholder Committees, which bring together university staff with local leaders and citizens to identify and address local issues.
 
 [1]: https://assetify-dai.com/projects/Sapan.jpg

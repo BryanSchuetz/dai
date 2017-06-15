@@ -25,7 +25,7 @@ promos:
 - title: "**Project**: _Corporate Social investment Program for Entrepreneurs in Ghana_"
   link: "/uploads/kosmos.pdf"
 - title: "**Analysis**: _Unlocking Content_"
-  link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/
+  link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/?utm_source=daidotcom
 - title: "**News**:_Tech Startups in Ghana_"
   link: https://www.dai.com/news/kosmos-innovation-center-develops-tech-startups-to-solve-agriculture-problems-in-ghana
 related: false
