@@ -1,6 +1,7 @@
 ---
 title: Jim Tarrant
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Tarrant
 summary: "Jim Tarrant leads the Biodiversity Results and Integrated Biodiversity Gains
   Enhanced (BRIDGE) Project based in Washington, D.C. \n"
