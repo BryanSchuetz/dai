@@ -4,11 +4,11 @@ date: 2017-06-16 17:46:00 Z
 published: false
 ---
 
-StARCK+ holds successful learning event on engaging private sector in climate resilient agriculture
+The [Finance for Climate Change Innovation Fund (FICCF)](http://ficcf.com/index.php/climate-smart-agriculture/csa), operated by a DAI-led project, recently held a [two-day conference](https://www.climatesmartag.org/) in Nairobi to share achievements under the Climate Smart Agriculture pilot.
  
-On 13 and 14 June, the Finance for Climate Change Innovation Fund held a two-day conference in Nairobi to share achievements under the Climate Smart Agriculture pilot.
- 
-The FICCF is promoting the transition to CSA in Kenya through support to microfinance institutions (MFIs) partnering with agribusiness aggregators and smallholder farmers to adopt a range of tools and practices to de-risk production and build resilience to increasingly variable climate. The FICCF is managed by a small team led by Noelle O’Brien and supported by Cathy Shaw, Donald Lunan and Catherine Wallis.
+The FICCF is promoting the transition to climate-smart agriculture in Kenya through support to microfinance institutions partnering with agribusiness aggregators and smallholder farmers to adopt a range of tools and practices to de-risk production and build resilience to increasingly variable climate. 
+
+The FICCF is managed by the U.K. Department for International Development (DFID)-funded https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck programme. 
  
 The oversubscribed event saw over 140 participants join representing MFIs, insurance and climate information services partners, agribusiness aggregators, project implementers, research and development partners, government institutions as well as cassava, sorghum and dairy farmers from Kisumu, Homa Bay, Nyandarua counties. The diversity of participants – from sub-county to capital and from field to executive boardrooms – was well received and generated engaging interactions during the breakout sessions.
  
