@@ -12,7 +12,7 @@ The FICCF is managed by the U.K. Department for International Development (DFID)
  
 The event saw more than 140 participants representing microfinance institutions, insurance and climate information services partners, agribusiness aggregators, project implementers, research and development partners, government institutions as well as cassava, sorghum and dairy farmers from Kisumu, Homa Bay, and Nyandarua counties. 
  
-The conference featured five sessions covering the key layers of the FICCF climate smart agriculture pilot: Finance, Climate Information Services, Insurance, Technical Services, and Partnerships. During the breakout session, participants discussed the opportunities to adapt and scale up the CSA model capable to attract external investors. In addition, 15 exhibition booths were on display for participants to meet agri-businesses, insurance and technical service providers engaged in the various commodities.
+The conference featured five sessions covering the key layers of the FICCF climate-smart agriculture pilot: Finance, Climate Information Services, Insurance, Technical Services, and Partnerships. During the breakout session, participants discussed the opportunities to adapt and scale up the climate-smart agriculture model capable to attract external investors. In addition, 15 exhibition booths were on display for participants to meet agri-businesses, insurance and technical service providers engaged in the various commodities.
  
 Through detailed accounts in each of the value-chains, we heard how FICCF set up a range of partnerships with commercial and market players to test a package of services to farmers to de-risk farm investments and build resilience.
  
