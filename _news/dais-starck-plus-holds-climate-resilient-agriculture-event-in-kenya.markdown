@@ -22,7 +22,7 @@ The FICCF is promoting the transition to climate-smart agriculture in Kenya thro
 
 The event saw more than 140 participants representing microfinance institutions, insurance and climate information services partners, agribusiness aggregators, project implementers, research and development partners, government institutions as well as cassava, sorghum and dairy farmers from Kisumu, Homa Bay, and Nyandarua counties.
 
-![starck-10246c.JPG](/uploads/starck-10246c.JPG)
+![starck-10246c.JPG](/uploads/starck-10246c.JPG "DAI's Cathy Shaw leads a breakout session.")
 
 The conference featured five sessions covering the key layers of the FICCF climate-smart agriculture pilot: Finance, Climate Information Services, Insurance, Technical Services, and Partnerships. During the breakout session, participants discussed the opportunities to adapt and scale up the climate-smart agriculture model capable to attract external investors. In addition, 15 exhibition booths were on display for participants to meet agribusinesses, insurance, and technical service providers engaged in the various commodities.
  
