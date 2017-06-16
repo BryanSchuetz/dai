@@ -19,11 +19,11 @@ The [Finance for Climate Change Innovation Fund (FICCF)](http://ficcf.com/index.
 
 
  
-The FICCF is promoting the transition to climate-smart agriculture in Kenya through support to microfinance institutions partnering with agribusiness aggregators and smallholder farmers to adopt a range of tools and practices to de-risk production and build resilience to increasingly variable climate. 
+The FICCF is promoting the transition to climate-smart agriculture in Kenya through support to microfinance institutions partnering with agribusiness aggregators and smallholder farmers to adopt a range of tools and practices to de-risk production and build resilience to increasingly variable climate. The FICCF is managed by the U.K. Department for International Development (DFID)-funded [Strengthening Adaptation and Resilience to Climate Change in Kenya Plus (StARCK+) programme](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck). 
 
-The FICCF is managed by the U.K. Department for International Development (DFID)-funded https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck programme. [starck.JPG](/uploads/starck.JPG)
- 
-The event saw more than 140 participants representing microfinance institutions, insurance and climate information services partners, agribusiness aggregators, project implementers, research and development partners, government institutions as well as cassava, sorghum and dairy farmers from Kisumu, Homa Bay, and Nyandarua counties. 
+[starck-901feb.JPG](/uploads/starck-901feb.JPG "DAI's Cathy Shaw leads a breakout session.")
+
+The event saw more than 140 participants representing microfinance institutions, insurance and climate information services partners, agribusiness aggregators, project implementers, research and development partners, government institutions as well as cassava, sorghum and dairy farmers from Kisumu, Homa Bay, and Nyandarua counties.
  
 The conference featured five sessions covering the key layers of the FICCF climate-smart agriculture pilot: Finance, Climate Information Services, Insurance, Technical Services, and Partnerships. During the breakout session, participants discussed the opportunities to adapt and scale up the climate-smart agriculture model capable to attract external investors. In addition, 15 exhibition booths were on display for participants to meet agribusinesses, insurance, and technical service providers engaged in the various commodities.
  
