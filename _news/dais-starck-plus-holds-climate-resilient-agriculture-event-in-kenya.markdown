@@ -22,7 +22,7 @@ The [Finance for Climate Change Innovation Fund (FICCF)](http://ficcf.com/index.
  
 The FICCF is promoting the transition to climate-smart agriculture in Kenya through support to microfinance institutions partnering with agribusiness aggregators and smallholder farmers to adopt a range of tools and practices to de-risk production and build resilience to increasingly variable climate. 
 
-The FICCF is managed by the U.K. Department for International Development (DFID)-funded https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck programme. 
+The FICCF is managed by the U.K. Department for International Development (DFID)-funded https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck programme. [starck.JPG](/uploads/starck.JPG "DAI's Cathy Shaw leads a breakout group.")
  
 The event saw more than 140 participants representing microfinance institutions, insurance and climate information services partners, agribusiness aggregators, project implementers, research and development partners, government institutions as well as cassava, sorghum and dairy farmers from Kisumu, Homa Bay, and Nyandarua counties. 
  
