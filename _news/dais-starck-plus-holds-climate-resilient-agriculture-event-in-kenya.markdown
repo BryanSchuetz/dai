@@ -1,7 +1,6 @@
 ---
 title: DAI’s StARCK+ Holds Climate-Resilient Agriculture Event in Kenya
 date: 2017-06-16 17:46:00 Z
-published: false
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
