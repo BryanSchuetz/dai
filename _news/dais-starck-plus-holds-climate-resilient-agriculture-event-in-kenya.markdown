@@ -17,12 +17,13 @@ summary: The [Finance for Climate Change Innovation Fund (FICCF)](http://ficcf.c
 The [Finance for Climate Change Innovation Fund (FICCF)](http://ficcf.com/index.php/climate-smart-agriculture/csa), operated by a DAI-led project, recently held a [two-day conference](https://www.climatesmartag.org/) in Nairobi to share achievements under the Climate Smart Agriculture pilot.
 
 
-
  
 The FICCF is promoting the transition to climate-smart agriculture in Kenya through support to microfinance institutions partnering with agribusiness aggregators and smallholder farmers to adopt a range of tools and practices to de-risk production and build resilience to increasingly variable climate. The FICCF is managed by the [Strengthening Adaptation and Resilience to Climate Change in Kenya Plus (StARCK+) programme](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck), funded by the U.K. Department for International Development (DFID).
 
 The event saw more than 140 participants representing microfinance institutions, insurance and climate information services partners, agribusiness aggregators, project implementers, research and development partners, government institutions as well as cassava, sorghum and dairy farmers from Kisumu, Homa Bay, and Nyandarua counties.
- 
+
+![starck-10246c.JPG](/uploads/starck-10246c.JPG)
+
 The conference featured five sessions covering the key layers of the FICCF climate-smart agriculture pilot: Finance, Climate Information Services, Insurance, Technical Services, and Partnerships. During the breakout session, participants discussed the opportunities to adapt and scale up the climate-smart agriculture model capable to attract external investors. In addition, 15 exhibition booths were on display for participants to meet agribusinesses, insurance, and technical service providers engaged in the various commodities.
  
 Through detailed accounts in each of the value chains, attendees heard how FICCF set up a range of partnerships with commercial and market players to test a package of services to farmers to de-risk farm investments and build resilience.
