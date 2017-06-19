@@ -1,6 +1,7 @@
 ---
 title: Conflict Stability and Security Fund
 date: 2017-06-19 15:11:00 Z
+layout: default
 ---
 
 DAI has been awarded a place on the United Kingdom’s Conflict Stability and Security Fund (CSSF) Framework. The Framework is divided into three Lots, with four key areas in each Lot, as outlined below.
