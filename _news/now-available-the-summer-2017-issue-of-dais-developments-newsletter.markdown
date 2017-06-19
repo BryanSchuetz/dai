@@ -6,9 +6,9 @@ published: false
 
 The Summer 2017 issue of DAI’s Developments newsletter is now available.
 
-Leading off, assistance led by DAI has long been unlocking capital in developing countries, writes DAI’s xxxxtitlexxxx Robin Young. Now, investing equity capital in these teeming markets enjoys increasing advantages, thanks to finance and policy groundwork laid by programs of the U.S. Agency for International Development (USAID) and other donors.
+Leading off, assistance led by DAI has long been unlocking capital in developing countries, writes Robin young, DAI’s Principal Global Practice Specialist for Financial Services. Now, investing equity capital in these teeming markets enjoys increasing advantages, thanks to finance and policy groundwork laid by programs of the U.S. Agency for International Development (USAID) and other donors.
 
-Next up, farmers and buyers in East Africa signed $83 million in contracts—moving food from countries of surplus to countries of need—thanks to assistance to overcome trade barriers. Our xxxxtitlexxxxx Yohannes Assefa describes how it happened and how it might open floodgates for more trade between food-challenged countries on the continent.
+Next up, farmers and buyers in East Africa signed $83 million in contracts—moving food from countries of surplus to countries of need—thanks to assistance to overcome trade barriers. Yohannes Assefa, who leads the agriculture component of the USAID East Africa Trade and Investment Hub, implemented by DAI, describes how it happened and how it might open floodgates for more trade between food-challenged countries on the continent.
 
 Other stories include:
 * Poland’s small and growing businesses previously had no way to finance new or upgraded energy systems. The Polish Sustainable Energy Finance Facility helped Polish banks to develop loan products that spurred more than 2,000 small and medium-sized businesses to upgrade or replace their heating, cooling, electric power, and insulation—a total of €200 million worth of improvements—providing a financing model worthy of scale and replication, as captured by our xxxxtitlexxxxx Anne-Sofia Holmberg. 
