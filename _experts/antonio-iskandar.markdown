@@ -20,5 +20,5 @@ He has led the implementation of several complex U.S. Agency for International D
  
 Inspired by the success of his last assignment leading the USAID Crime and Violence Prevention program in Mexico, he returned to DAI in September 2016, after 15 years, to build the Citizen Security Practice under the Governance Sector. In that role, Antonio is leading DAI’s efforts to position in the Citizen Security area by supporting business development efforts, the generation of knowledge and technical products, and the successful implementation of projects within that practice.
 
-M.A., Public Policy, 1997, Georgetown University, Washington, DC
-J.D., 1989, Universidad Católica Andrés Bello, Caracas, Venezuela
+* M.A., public policy, Georgetown University
+* J.D., Universidad Católica Andrés Bello
