@@ -21,6 +21,10 @@ Rwanda presents a compelling opportunity for Human and Institutional Capacity De
 
 To this end, DAI worked to strengthen institutional and human capacity in targeted GOR institutions, as well as in civil society organizations that work closely with or support the objectives of USAID/Rwanda. Our Performance for Development approach linked HICD outcomes directly to development impacts by: 1) advancing Rwandan Government development priorities, including stability, gender equity, and productive high-value and market-oriented agriculture; 2) supporting USAID/Rwanda development outcomes in technical sectors such as governance, food security, economic growth, health, and education; and 3) creating a demand for future HICD initiatives by linking HICD directly to results that matter to citizens.
 
+Over the life of the five-year project, HICD/R conducted more than 170 training sessions, and supported the foundation of a community of practice devoted to professionals interested in the field of performance improvement. HICD/R aided 11 civil society organizations working in the fields of agriculture, health, education, and reconciliation, and four Government of Rwanda institutions: the Ministry of Agriculture and Animal Resources, the Capacity Development and Employment Services Board, the Rwanda Management Institute, and the National Women’s Council.
+
+Watch the video to learn more about the impact of HICD/R:
+
 <iframe src="https://player.vimeo.com/video/222202347" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ###  Sample Activities
