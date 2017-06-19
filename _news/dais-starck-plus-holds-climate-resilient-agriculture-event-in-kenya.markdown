@@ -34,4 +34,4 @@ Greater productivity at the farm level translates into a greater ability to borr
  
 The Head of DFID Kenya, Pete Vowles, along with Sabita Thapa, lead Climate Advisor, acknowledged the intensity of effort required in developing innovative partnerships between value-chain actors. They also reiterated the contribution of the pilot towards building resilience in Kenya, a high priority for DFID.
  
-The FICCF seeks to support Kenya’s efforts in addressing climate change through private sector engagement, improved governance and civil society capacity.
+STARCK+ seeks to support Kenya’s efforts in addressing climate change through private sector engagement, improved governance and civil society capacity.
