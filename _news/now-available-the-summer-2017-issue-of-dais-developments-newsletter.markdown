@@ -10,7 +10,7 @@ The [Summer 2017 issue](http://dai-global-developments.com/developments/summer-2
 Leading off, assistance led by DAI has long been unlocking capital in developing countries. Now, investing equity capital in these teeming markets enjoys increasing advantages, thanks to finance and policy groundwork laid by programs of the U.S. Agency for International Development (USAID) and other donors, [writes](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) DAI's [Robin Young](https://www.dai.com/who-we-are/our-team/robin-young), Principal Global Practice Specialist for Financial Services. 
 
 ![DAI-News----Summer-2017-1.jpg](/uploads/DAI-News----Summer-2017-1.jpg)
-`Developing the workforce at the Hawassa Industrial Park in Ethiopia`
+`The U.K. Department for International Development's  Enterprise Partners program, implemented by DAI, is helping develop the workforce at the Hawassa Industrial Park in Ethiopia.`
 
 Next up, farmers and buyers in East Africa signed $83 million in contracts—moving food from countries of surplus to countries of need—thanks to assistance to overcome trade barriers. Yohannes Assefa, who leads the agriculture component of the USAID East Africa Trade and Investment Hub, implemented by DAI, [describes](http://dai-global-developments.com/articles/83-million-grain-deal-between-east-african-countries-demonstrates-how-east-africa-can-feed-itself/) how it happened and how it might open floodgates for more trade between food-challenged countries on the continent.
 
