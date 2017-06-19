@@ -4,9 +4,9 @@ date: 2017-06-19 21:21:00 Z
 published: false
 ---
 
-The Summer 2017 issue of DAI’s Developments newsletter is now available.
+The [Summer 2017 issue](http://dai-global-developments.com/developments/summer-2017/) of DAI’s Developments newsletter is now available.
 
-Leading off, assistance led by DAI has long been unlocking capital in developing countries, writes Robin young, DAI’s Principal Global Practice Specialist for Financial Services. Now, investing equity capital in these teeming markets enjoys increasing advantages, thanks to finance and policy groundwork laid by programs of the U.S. Agency for International Development (USAID) and other donors.
+Leading off, assistance led by DAI has long been unlocking capital in developing countries, [writes](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) Robin young, DAI’s Principal Global Practice Specialist for Financial Services. Now, investing equity capital in these teeming markets enjoys increasing advantages, thanks to finance and policy groundwork laid by programs of the U.S. Agency for International Development (USAID) and other donors.
 
 Next up, farmers and buyers in East Africa signed $83 million in contracts—moving food from countries of surplus to countries of need—thanks to assistance to overcome trade barriers. Yohannes Assefa, who leads the agriculture component of the USAID East Africa Trade and Investment Hub, implemented by DAI, [describes how it happened](http://dai-global-developments.com/articles/83-million-grain-deal-between-east-african-countries-demonstrates-how-east-africa-can-feed-itself/) and how it might open floodgates for more trade between food-challenged countries on the continent.
 
