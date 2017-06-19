@@ -4,6 +4,8 @@ date: 2017-06-19 15:11:00 Z
 layout: default
 ---
 
+# Conflict Stability and Security Fund
+
 DAI has been awarded a place on the United Kingdom’s Conflict Stability and Security Fund (CSSF) Framework. The Framework is divided into three Lots, with four key areas in each Lot, as outlined below.
 
 <aside>As a lead contractor, DAI will provide timely access to high-quality, cost-effective, and professional technical consultancy services. We are therefore interested in identifying the right individuals and organisations that can play an important role in tender preparations, in addition to programme implementation. If you or your organisation are interested in joining DAI’s CSSF Framework network, please contact Mr. Kieran Griffin at <a href="mailto:kieran_griffin@dai.com">kieran_griffin@dai.com</a>.</aside>
@@ -11,23 +13,24 @@ DAI has been awarded a place on the United Kingdom’s Conflict Stability and Se
 
 ## Lot A: Governance, Security, and Justice
 
-I. Understanding and strengthening inclusive politics, political processes, and accountability in fragile and conflict-affected states (FCAS).
-II. Public sector reform and public financial management.
-III. Security sector reform and security sector capacity building in FCAS.
-IV. Justice sector reform and rule of law in FCAS.
+1. Understanding and strengthening inclusive politics, political processes, and accountability in fragile and conflict-affected states (FCAS).
+2. Public sector reform and public financial management.
+3. Security sector reform and security sector capacity building in FCAS.
+4. Justice sector reform and rule of law in FCAS.
 
 ## Lot B: Conflict Prevention, Stabilisation, and Peace-Building
 
-I. Peace-building, stabilisation, and conflict sensitivity.
-II. State-civil society engagement.
-III. Strategic communication and outreach.
-IV. Inclusive conflict prevention and peace-building.
+1. Peace-building, stabilisation, and conflict sensitivity.
+2. State-civil society engagement.
+3. Strategic communication and outreach.
+4. Inclusive conflict prevention and peace-building.
 
 ## Lot C: Defence Support Services
-I. Defence advice.
-II. Defence and military exercises and training.
-III. Provision of non-lethal equipment.
-IV. Defence services.
+
+1. Defence advice.
+2. Defence and military exercises and training.
+3. Provision of non-lethal equipment.
+4. Defence services.
 
 Her Majesty's Government (HMG) established the CSSF Framework Agreement in 2015 to provide effective and cost-efficient consultancy services in support of HMG activity in FCAS. The CSSF is part of a new, more strategic approach to work in conflict-affected states and those at risk of instability where the United Kingdom has key interests.
 
