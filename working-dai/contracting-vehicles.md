@@ -59,6 +59,7 @@ DAI holds umbrella contracts from various clients through which development prog
 
 ### U.K. Department for International Development
 
+* [Conflict Stability and Security Fund (CSSF) (2016-2018)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
 * Fragile and Conflict Affected States Framework Agreement (2012–2016)
 
 **Governance and Security Framework**
