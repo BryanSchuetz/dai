@@ -1,6 +1,7 @@
 ---
 title: 'Now Available: The Summer 2017 Issue of DAI’s Developments Newsletter'
 date: 2017-06-19 21:21:00 Z
+published: false
 summary: The [Summer 2017 issue](http://dai-global-developments.com/developments/summer-2017/)
   of DAI’s Developments newsletter is now available.
 ---
