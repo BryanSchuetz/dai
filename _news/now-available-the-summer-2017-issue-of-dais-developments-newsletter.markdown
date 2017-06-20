@@ -12,7 +12,7 @@ Leading off, assistance led by DAI has long been unlocking capital in developing
 ![DAI-News----Summer-2017-1.jpg](/uploads/DAI-News----Summer-2017-1.jpg)
 `The U.K. Department for International Development's  Enterprise Partners program, implemented by DAI, is helping develop the workforce at the Hawassa Industrial Park in Ethiopia.`
 
-Next up, farmers and buyers in East Africa signed $83 million in contracts—moving food from countries of surplus to countries of need—thanks to assistance to overcome trade barriers. Yohannes Assefa, who leads the agriculture component of the USAID East Africa Trade and Investment Hub, implemented by DAI, [describes](http://dai-global-developments.com/articles/83-million-grain-deal-between-east-african-countries-demonstrates-how-east-africa-can-feed-itself/) how it happened and how it might open floodgates for more trade between food-challenged countries on the continent.
+Next up, farmers and buyers in East Africa signed $83 million in contracts—moving food from countries of surplus to countries of need—thanks to assistance to overcome trade barriers. Yohannes Assefa, who leads the agriculture component of the USAID [East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih), implemented by DAI, [describes](http://dai-global-developments.com/articles/83-million-grain-deal-between-east-african-countries-demonstrates-how-east-africa-can-feed-itself/) how it happened and how it might open floodgates for more trade between food-challenged countries on the continent.
 
 Other stories include:
 
