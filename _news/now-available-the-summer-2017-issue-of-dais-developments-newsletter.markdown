@@ -5,7 +5,7 @@ summary: The [Summer 2017 issue](http://dai-global-developments.com/developments
   of DAI’s Developments newsletter is now available.
 ---
 
-The [Summer 2017 issue](http://dai-global-developments.com/developments/summer-2017/) of DAI’s Developments newsletter is now available.
+The [Summer 2017 issue](http://dai-global-developments.com/developments/summer-2017/) of DAI’s *Developments* newsletter is now available.
 
 Leading off, assistance led by DAI has long been unlocking capital in developing countries. Now, investing equity capital in these teeming markets enjoys increasing advantages, thanks to finance and policy groundwork laid by programs of the U.S. Agency for International Development (USAID) and other donors, [writes](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) DAI's [Robin Young](https://www.dai.com/who-we-are/our-team/robin-young), Principal Global Practice Specialist for Financial Services. 
 
