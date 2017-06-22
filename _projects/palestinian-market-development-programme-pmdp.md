@@ -43,6 +43,7 @@ PMDP is a follow-on to the [Facility for New Market Development](/our-work/proje
 ### Select Results (through 2016)
 
 **Open Matching Grants:**
+
 * 340 businesses  assisted under open grants (93 are women-owned or -managed). 
 * 343 new products developed or enhanced (90 by women owned/managed businesses).
 * 198 enterprises reported improved annual performance (46 by women owned/managed businesses). 
@@ -50,6 +51,7 @@ PMDP is a follow-on to the [Facility for New Market Development](/our-work/proje
 * 833 jobs been created  (248 for women).
 
 **Gaza Back to Business/Market Window** 
+
 * 261 businesses assisted. 
 * 136 new products developed or enhanced. 
 * 41 million Increase of sales due to programme assistance
