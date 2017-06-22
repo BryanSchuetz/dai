@@ -9,6 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Fragile States
 - Stabilization
+- Public Financial Management
 regions:
 - Asia and the Pacific
 country:
