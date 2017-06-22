@@ -12,6 +12,7 @@ solutions:
 - Economic Growth
 - Fragile States
 - Security and Justice
+- Public Financial Management
 Lastname: Lindsay
 ---
 
