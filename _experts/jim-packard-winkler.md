@@ -10,10 +10,12 @@ job-title: Senior Trade and Investment Advisor
 image: https://assetify-dai.com/experts/Winkler_Inner.jpg
 solutions:
 - Governance
+- Public Financial Management
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Middle East and North Africa
+- 
 articles:
 - Key: 
 layout: expert
