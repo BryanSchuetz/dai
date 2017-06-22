@@ -12,6 +12,7 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 - Financial Services
+- Public Financial Management
 regions:
 - Middle East and North Africa
 country:
