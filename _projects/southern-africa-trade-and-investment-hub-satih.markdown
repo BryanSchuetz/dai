@@ -17,6 +17,7 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Financial Services
+- Public Financial Management
 regions: Sub-Saharan Africa
 country: Regional
 promos:
