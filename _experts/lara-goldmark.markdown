@@ -8,7 +8,7 @@ job-title: Managing Director, Economic Growth
 image: "/uploads/Lara%20Goldmark%20portal.jpg"
 solutions:
 - Economic Growth
-- 
+- Public Financial Management
 regions:
 - Middle East and North Africa
 - Latin America and the Caribbean
