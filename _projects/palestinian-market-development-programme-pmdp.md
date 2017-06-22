@@ -40,10 +40,17 @@ PMDP is a follow-on to the [Facility for New Market Development](/our-work/proje
 
 * Create linkages to mobilize potential diaspora investment, knowledge and technological transfer to the Palestinian private sector.
 
-### Select Results
+### Select Results (through 2016)
 
-* Nearly 40 new products have been developed or enhanced by small firms since December 2014.
+**Open Matching Grants:**
+* 340 businesses  assisted under open grants (93 are women-owned or -managed). 
+* 343 new products developed or enhanced (90 by women owned/managed businesses).
+* 198 enterprises reported improved annual performance (46 by women owned/managed businesses). 
+* 33 million Increase of sales due to programme assistance.
+* 833 jobs been created  (248 for women).
 
-* Almost 35 enterprises reported improved financial performance in the same time frame.
-
-* At least 80 new jobs have been created since December 2014.
+**Gaza Back to Business/Market Window** 
+* 261 businesses assisted. 
+* 136 new products developed or enhanced. 
+* 41 million Increase of sales due to programme assistance
+1,617 jobs created (44 for women).
