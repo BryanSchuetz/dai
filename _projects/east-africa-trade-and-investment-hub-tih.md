@@ -16,6 +16,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
 - Financial Services
+- Public Financial Management
 regions:
 - Sub-Saharan Africa
 country:
