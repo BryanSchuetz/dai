@@ -5,7 +5,7 @@ summary: DAI was recognized this week as a winner of the 2017 Innovations in Emp
   Ownership Award by the [National Center for Employee Ownership](https://www.nceo.org/)
   (NCEO), a nonprofit organization dedicated to providing unbiased information and
   research on broad-based employee stock plans.
-twit-pic: "/uploads/eoc.jpg"
+social-image: "/uploads/eoc.jpg"
 ---
 
 DAI was recognized this week as a winner of the 2017 *Innovations in Employee Ownership Award* by the [National Center for Employee Ownership](https://www.nceo.org/) (NCEO), a nonprofit organization dedicated to providing unbiased information and research on broad-based employee stock plans.

@@ -91,6 +91,7 @@ defaults:
     clients: 
     summary: 
     layout: node
+    social-image:
 - scope:
     path: ''
     type: members
