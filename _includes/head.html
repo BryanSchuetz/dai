@@ -12,7 +12,7 @@
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary | strip_html | truncate: 300 }}{% else %}{{ site.data.meta.description }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary | markdownify | strip_html | truncate: 300 }}{% else %}{{ site.data.meta.description }}{% endif %}">
   <meta name="twitter:image" content="https://www.dai.com{{ page.social-image | default: "/uploads/social-image.jpg" }}">
   <title>
     {% if page.title == "Home" %}
