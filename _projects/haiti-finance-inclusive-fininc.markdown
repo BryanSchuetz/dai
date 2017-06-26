@@ -1,7 +1,6 @@
 ---
 title: Haiti—Finance Inclusive (FinInc)
 date: 2017-06-26 16:18:00 Z
-published: false
 summary: The Haiti Finance Inclusive (FinInc) project supports the development of
   the enabling environment to increase the usage of basic financial services by undeserved
   and unserved households and micro, small, and medium-sized enterprises (MSMES) in
