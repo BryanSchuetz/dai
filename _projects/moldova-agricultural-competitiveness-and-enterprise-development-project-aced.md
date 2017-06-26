@@ -29,15 +29,15 @@ To view more videos about the project's work, click [here](https://www.youtube.c
 
 ### Sample Activities
 
-* Developed and expanded market opportunities.
+* Develop and expand market opportunities.
 
-* Trained farmers to increase their productivity and meet buyer requirements.
+* Train farmers to increase their productivity and meet buyer requirements.
 
-* Provided demand-driven technical assistance to upgrade high-value agriculture value chains.
+* Provid demand-driven technical assistance to upgrade high-value agriculture value chains.
 
-* Improved the enabling environment for these activities.
+* Improve the enabling environment for these activities.
 
-* Built capacity of small and medium-sized enterprises in Moldova's breakaway territory of Transnistria to improve competitiveness.
+* Build capacity of small and medium-sized enterprises in Moldova's breakaway territory of Transnistria to improve competitiveness.
 
 ### Select Results
 
