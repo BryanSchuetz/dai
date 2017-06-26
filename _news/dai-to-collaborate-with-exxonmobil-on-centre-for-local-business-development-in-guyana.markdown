@@ -2,7 +2,6 @@
 title: DAI to Collaborate with ExxonMobil on Centre for Local Business Development
   in Guyana
 date: 2017-06-26 17:43:00 Z
-published: false
 solutions:
 - Corporate Sustainability
 regions: Latin America and the Caribbean
