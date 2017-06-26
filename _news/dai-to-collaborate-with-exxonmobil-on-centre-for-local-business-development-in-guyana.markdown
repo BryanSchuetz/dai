@@ -25,7 +25,9 @@ The Centre will initially prioritize skills development in various sectors that 
 Once operational, the Centre will be a reliable source of information on technical standards, procurement opportunities, and project-specific information. EEPGL, its contractors, the broader oil and gas industry, and the government will be able to utilize the Centre to source local vendors and services. Following its opening, DAI will work over a three-year period to transition management of the Centre to Guyanese management. 
 
 **About Esso Exploration and Production Guyana Ltd**
+
 ExxonMobil’s affiliate [Esso Exploration and Production Guyana Limited (EEPGL)](http://corporate.exxonmobil.com/en/company/worldwide-operations/locations/guyana#About) operates an affiliate office in Georgetown. EEPGL holds an interest and is the operator in the Stabroek, Canje and Kaieteur Blocks, offshore Guyana. In May 2015, ExxonMobil announced an oil and gas discovery in Guyana. This marked the first significant discovery for the country.
 
 **About DAI**
+
 DAI is an international development company working in 150 countries with 40 years of experience in implementing economic development programs. DAI’s clients include government organizations, international institutions, and private companies. 
