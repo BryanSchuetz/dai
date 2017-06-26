@@ -6,7 +6,7 @@ summary: Lebanese agricultural products have the potential to compete well in re
   quality and specifications to meet customer demand, leveraging the country's significant
   assets and abundant talented human resources.
 start: 2012
-end: 2017
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
