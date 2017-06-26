@@ -7,6 +7,7 @@ summary: The Haiti Finance Inclusive (FinInc) project supports the development o
   and unserved households and micro, small, and medium-sized enterprises (MSMES) in
   rural and agricultural areas in Haiti.
 start: 2017
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
@@ -15,7 +16,9 @@ regions: Latin America and the Caribbean
 country: Haiti
 ---
 
-The Haiti Finance Inclusive (FinInc) project supports the development of the enabling environment to increase the usage of basic financial services by undeserved and unserved households and micro, small, and medium-sized enterprises (MSMES) in rural and agricultural areas in Haiti. By accessing basic, more formal financial services, low-income people are able to accumulate assets, withstand financial shocks, invest in businesses, and more conveniently receive and send money and make payments. FinInc tackles enabling environment and market coordination issues to increase financial inclusion in a way that creates lasting benefits for low-income people across Haiti. 
+Initiatives to increase financial inclusion have yet to translate into significant expansion of relevant services in Haiti. Only 19 percent of Haitian adults have an account with a financial institution, while only 9 percent of adults save and 5 percent borrow from a financial institution. These figures are among the lowest not just in the Latin American and Caribbean region, but globally. 
+
+The Haiti Finance Inclusive (FinInc) project tackles enabling environment and market coordination issues to increase financial inclusion in a way that creates lasting benefits for low-income people across Haiti. By accessing basic, more formal financial services, low-income people are able to accumulate assets, withstand financial shocks, invest in businesses, and more conveniently receive and send money and make payments. 
 
 FinInc is facilitating a two-level change in the market system: 1) behavior of market actors through better information availability and increased orientation around low-income market segments, and 2) deeper collaboration in the broader financial ecosystem and enabling environment. 
 
