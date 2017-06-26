@@ -1,0 +1,14 @@
+---
+title: Haiti—Finance Inclusive (FinInc)
+date: 2017-06-26 16:18:00 Z
+published: false
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Financial Services
+regions: Latin America and the Caribbean
+country: Haiti
+---
+
+The Haiti Finance Inclusive (FinInc) project supports USAID’s Assistance Objective of promoting a “Stable and Economically Viable Haiti.” FSDHaiti is part of a two-fold financial inclusion program. Specifically, FSDHaiti will facilitate the deepening of the financial sector ecosystem by supporting the development of the enabling environment for the increased provision and usage of basic financial services by undeserved and unserved households and micro, small, and medium-sized enterprises (MSMES), particularly in the U.S. Government-supported rural and agricultural areas in Haiti. By accessing basic, more formal financial services, low-income people will be able to accumulate assets, withstand financial shocks, invest in businesses, and more conveniently receive and send money and make payments.  
+FSDHaiti will leverage gains made by USAID’s previous financial sector development initiatives to facilitate a two-level change in the market system: 1) behavior of market actors through better information availability and increased orientation around low-income market segments, and 2) deeper collaboration in the broader financial ecosystem and enabling environment. To effect such market system change, FSDHaiti will prioritize institutional capacity-building support to advocacy and enabling environment bodies for improved financial inclusion, including support of the crosscutting financial inclusion working group Haitian Alliance for Financial Inclusion (HALFI) and strengthening of existing financial sector associations—Association National des Institutions de Microfinance d’Haïti (ANIMH), Association Professionnelle des Banques (APB), and Association Nationale des Caisses Populaires Haïtiennes (ANACAPH). These bodies are pivotal to advocacy for financial inclusion and to engage the Banque de la République d’Haiti (BRH) in support of its implementation of the National Financial Inclusion Strategy (NFIS). FSDHaiti will also prioritize information-building and research activities that enhance understanding of key low-income market segments and gender aspects of financial inclusion in order to encourage the development of relevant products and services that correspond to livelihoods strategies of low-income market segments. Lastly, FSDHaiti will prioritize the provision of technical assistance and training on financial literacy and behavior change communication (BCC) to financial institutions to ensure that low-income Haitians understand the financial products offered to them and to improve uptake of available services, particularly digital financial services (DFS).  
