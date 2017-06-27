@@ -1,7 +1,6 @@
 ---
 title: Haiti Strategic Health Information System (HIS) Program
 date: 2017-06-27 16:40:00 Z
-published: false
 summary: The Haiti Strategic Health Information System (HIS) Program team will consolidate
   and integrate Haiti’s at-present disconnected health information assets to create
   a comprehensive national system.
