@@ -1,6 +1,7 @@
 ---
 title: DAI to Launch USAID Health Information System Program in Haiti
 date: 2017-06-27 15:19:00 Z
+published: false
 solutions:
 - Health
 clients: U.S. Agency for International Development
