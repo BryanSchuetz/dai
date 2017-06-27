@@ -20,7 +20,7 @@ DAI is set to begin implementation of the Haiti Strategic Health Information Sys
 
 ![Bobby Jefferson](/uploads/DAI-News----Bobby-Jefferson-mug.jpg){:.float-left}
 
-> “By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people," said   DAI's Bobby Jefferson. "This will benefit not just Haiti but its donor partners and the entire Caribbean region.”
+> “By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people," said **DAI's Bobby Jefferson**. "This will benefit not just Haiti but its donor partners and the entire Caribbean region.”
 
 <hr>
 
