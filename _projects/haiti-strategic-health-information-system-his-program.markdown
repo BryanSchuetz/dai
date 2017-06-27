@@ -5,6 +5,8 @@ published: false
 summary: The Haiti Strategic Health Information System (HIS) Program team will consolidate
   and integrate Haiti’s at-present disconnected health information assets to create
   a comprehensive national system.
+start: 2017
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Health
