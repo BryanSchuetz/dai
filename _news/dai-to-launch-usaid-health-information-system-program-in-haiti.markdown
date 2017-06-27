@@ -1,12 +1,28 @@
 ---
 title: DAI to Launch USAID Health Information System Program in Haiti
 date: 2017-06-27 15:19:00 Z
-published: false
+solutions:
+- Health
+clients: U.S. Agency for International Development
+summary: DAI is set to begin implementation of the Haiti Strategic Health Information
+  System (HIS) Program. Funded by the U.S. Agency for International Development (USAID),
+  the project team will consolidate and integrate Haiti’s at-present disconnected
+  health information assets to create a comprehensive national system.
+social-image: "/uploads/DAI-News----Bobby-Jefferson-mug.jpg"
 ---
 
 DAI is set to begin implementation of the Haiti Strategic Health Information System (HIS) Program. Funded by the U.S. Agency for International Development (USAID), the project team will consolidate and integrate Haiti’s at-present disconnected health information assets to create a comprehensive national system.
 
-“Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village,” said [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), Vice President and Chief Technology Officer for [DAI Global Health](https://www.dai.com/our-work/solutions/health). “This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak. By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people. This will benefit not just Haiti but its donor partners and the entire Caribbean region.”
+“Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village,” said [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), Vice President and Chief Technology Officer for [DAI Global Health](https://www.dai.com/our-work/solutions/health). “This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak. 
+
+<hr>
+
+![Bobby Jefferson](/uploads/DAI-News----Bobby-Jefferson-mug.jpg){:.float-left}
+
+<blockquote style="margin-bottom: 3rem; border-left: 0px;"> “"By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people," said Bobby Jefferson, Vice President and Chief Technology Officer for DAI Global Health. "This will benefit not just Haiti but its donor partners and the entire Caribbean region.”</blockquote>
+
+<hr>
+"By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people. This will benefit not just Haiti but its donor partners and the entire Caribbean region.”
 
 The DAI Team expects to affirm Haiti’s System d’Information Sanitaire Nationale Unique (SISNU) as the country’s central repository for health information, reporting, and evidence. Established in (year), SISNU has struggled due to low reporting rates, poor data quality and triangulation, and lack of computing infrastructure. The country also faces a dearth of health care professionals.
 
