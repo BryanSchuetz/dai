@@ -25,8 +25,8 @@ FinInc is facilitating a two-level change in the market system: 1) behavior of m
 
 ### Sample Activities
 
-* Build institutional capacity of the financial inclusion working group, Haitian Alliance for Financial Inclusion (HALFI), and strengthen existing financial sector association, Association National des Institutions de Microfinance d’Haïti (ANIMH), Association Professionnelle des Banques (APB), and Association Nationale des Caisses Populaires Haïtiennes (ANACAPH). 
+* Develop a private sector financial inclusion platform, and strengthen existing financial sector associations: Association National des Institutions de Microfinance d’Haïti (ANIMH) and Association Nationale des Caisses Populaires Haïtiennes (ANACAPH). 
 
 * Increase information and research activities to enhance understanding of key low-income market segments and gender aspects of financial inclusion to encourage the development of relevant products and services that correspond to livelihoods strategies of low-income market segments. 
 
-* Train financial institutions to ensure that low-income Haitians understand the financial products offered to them and to improve uptake of available services, particularly digital financial services.
+* Support the development of an active consumer protection environment to ensure that low-income Haitians understand the financial products offered to them and to improve uptake of available services, particularly digital financial services.
