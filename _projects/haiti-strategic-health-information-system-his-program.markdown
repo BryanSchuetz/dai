@@ -17,6 +17,8 @@ The Haiti Strategic Health Information System (HIS) Program team will consolidat
 
 Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village. This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak. By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people. This will benefit not just Haiti but its donor partners and the entire Caribbean region.
 
+
+
 ###  Sample Activities
 
 * Enhance departmental coordination for data collection, consolidation, and reporting.
