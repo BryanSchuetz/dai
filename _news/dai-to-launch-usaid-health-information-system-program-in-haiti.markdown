@@ -15,9 +15,9 @@ social-image: "/uploads/DAI-News----Bobby-Jefferson-mug.jpg"
 
 “Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village,” said [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), pictured left, Vice President and Chief Technology Officer for [DAI Global Health](https://www.dai.com/our-work/solutions/health). “This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak."
 
-> “By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people," said Jefferson. "This will benefit not just Haiti but its donor partners and the entire Caribbean region.”
+> “By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people. This will benefit not just Haiti but its donor partners and the entire Caribbean region.” — Jefferson
 
-The DAI Team expects to affirm Haiti’s System d’Information Sanitaire Nationale Unique (SISNU) as the country’s central repository for health information, reporting, and evidence. SISNU has struggled due to low reporting rates, poor data quality and triangulation, and lack of computing infrastructure. The country also faces a dearth of health care professionals.
+The DAI team expects to affirm Haiti’s System d’Information Sanitaire Nationale Unique (SISNU) as the country’s central repository for health information, reporting, and evidence. SISNU has struggled due to low reporting rates, poor data quality and triangulation, and lack of computing infrastructure. The country also faces a dearth of health care professionals.
 
 These shortcomings severely inhibit the health ministry’s ability to plan for and respond to public health needs using reliable, evidence-based information. The DAI Team will support the ministry in drafting eHealth policy, addressing information and technical gaps, and encouraging a data-centric culture at national and department levels to enhance performance.
 
