@@ -17,7 +17,7 @@ social-image: "/uploads/DAI-News----Bobby-Jefferson-mug.jpg"
 
 > “By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people," said Jefferson. "This will benefit not just Haiti but its donor partners and the entire Caribbean region.”
 
-The DAI Team expects to affirm Haiti’s System d’Information Sanitaire Nationale Unique (SISNU) as the country’s central repository for health information, reporting, and evidence. Established in (year), SISNU has struggled due to low reporting rates, poor data quality and triangulation, and lack of computing infrastructure. The country also faces a dearth of health care professionals.
+The DAI Team expects to affirm Haiti’s System d’Information Sanitaire Nationale Unique (SISNU) as the country’s central repository for health information, reporting, and evidence. SISNU has struggled due to low reporting rates, poor data quality and triangulation, and lack of computing infrastructure. The country also faces a dearth of health care professionals.
 
 These shortcomings severely inhibit the health ministry’s ability to plan for and respond to public health needs using reliable, evidence-based information. The DAI Team will support the ministry in drafting eHealth policy, addressing information and technical gaps, and encouraging a data-centric culture at national and department levels to enhance performance.
 
