@@ -11,7 +11,7 @@ summary: DAI is set to begin implementation of the Haiti Strategic Health Inform
 social-image: "/uploads/DAI-News----Bobby-Jefferson-mug.jpg"
 ---
 
-![Bobby Jefferson](/uploads/DAI-News----Bobby-Jefferson-mug.jpg){:.float-left} `Bobby Jefferson` DAI is set to begin implementation of the [Haiti Strategic Health Information System](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) (HIS) Program. Funded by the U.S. Agency for International Development (USAID), the project team will consolidate and integrate Haiti’s at-present disconnected health information assets to create a comprehensive national system.
+![Bobby Jefferson](/uploads/DAI-News----Bobby-Jefferson-mug.jpg){:.float-left} DAI is set to begin implementation of the [Haiti Strategic Health Information System](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) (HIS) Program. Funded by the U.S. Agency for International Development (USAID), the project team will consolidate and integrate Haiti’s at-present disconnected health information assets to create a comprehensive national system.
 
 “Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village,” said [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), Vice President and Chief Technology Officer for [DAI Global Health](https://www.dai.com/our-work/solutions/health). “This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak."
 
