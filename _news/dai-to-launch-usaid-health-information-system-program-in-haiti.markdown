@@ -3,6 +3,7 @@ title: DAI to Launch USAID Health Information System Program in Haiti
 date: 2017-06-27 15:19:00 Z
 solutions:
 - Health
+regions: Latin America and the Caribbean
 projects: Haiti—Strategic Health Information System Program
 clients: U.S. Agency for International Development
 summary: DAI is set to begin implementation of the Haiti Strategic Health Information
