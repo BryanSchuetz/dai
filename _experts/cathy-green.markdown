@@ -1,6 +1,7 @@
 ---
 title: Cathy Green
 date: 2017-06-02 11:29:00 Z
+published: false
 lastname: 'Green '
 summary: 'Cathy Green has more than 20 years of experience of supporting health and
   health systems strengthening programmes in Africa and Asia. '
