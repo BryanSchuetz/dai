@@ -7,7 +7,6 @@ start: 2015
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Fragile States
 - Stabilization
 - Public Financial Management
 - Economic Growth
