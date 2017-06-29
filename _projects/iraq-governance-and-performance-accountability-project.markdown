@@ -14,6 +14,8 @@ country: Iraq
 
 IGPA will support the Iraqi Government to shore up fiscal stability while rapidly and visibly improving service delivery. The project aims to build capacity for Iraqi government service delivery, improve governorate and national government public financial management, and strengthen monitoring and oversight of service delivery and public expenditure.
 
+![Iraq----IGPA.jpg](/uploads/Iraq----IGPA.jpg)
+
 ### Sample Activities
 
 * Engage key Iraqi Government stakeholders to share information, coordinate activities, and introduce IGPA and its technical approach at the national level; at the governorate level, regional managers will engage their local counterparts.
