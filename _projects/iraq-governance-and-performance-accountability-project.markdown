@@ -1,5 +1,5 @@
 ---
-title: Iraq Governance and Performance Accountability Project
+title: Iraq Governance and Performance Accountability Project (IGPA)
 date: 2017-06-29 19:58:00 Z
 summary: 'IGPA will support the Iraqi Government to shore up fiscal stability while
   rapidly and visibly improving service delivery. '
