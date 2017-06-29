@@ -10,6 +10,7 @@ solutions:
 - Fragile States
 - Stabilization
 - Public Financial Management
+- Economic Growth
 regions:
 - Asia and the Pacific
 country:
