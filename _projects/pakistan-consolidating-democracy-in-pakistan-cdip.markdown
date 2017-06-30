@@ -8,10 +8,12 @@ A historical moment for Pakistan, the 2013 elections saw the country’s first d
 
 To support this aim, the U.K. Department for International Development (DFID) has launched the Consolidating Democracy in Pakistan (CDIP) programme, which is working to increase the capacity, accountability, and responsiveness of Pakistan’s political institutions leading up to, and beyond the May 2018 elections. The CDIP team provides technical assistance to the Election Commission of Pakistan to improve its oversight of elections and helps members of parliament and political parties to better represent and respond to the needs of their constituents. In addition, the program works with civil society groups to increase the participation of Pakistani citizens in the policy making process, with a particular focus on engaging women, youth, people with disabilities, and ethnic and religious minorities.
 
-Sample Activities
+![CDIP_Image.jpg](/uploads/CDIP_Image.jpg)
 
-Support civil society groups to expand voter registration, electoral participation, and election observation.
+### Sample Activities
 
-Build the communication and legislative drafting skills of key parliamentarians in order to help them more effectively represent their constituents.
+* Support civil society groups to expand voter registration, electoral participation, and election observation.
 
-Engage with groups representing women, youth, and other marginalized populations to encourage their participation in policy debates and advocacy efforts.
+* Build the communication and legislative drafting skills of key parliamentarians in order to help them more effectively represent their constituents.
+
+* Engage with groups representing women, youth, and other marginalized populations to encourage their participation in policy debates and advocacy efforts.
