@@ -2,6 +2,18 @@
 title: Pakistan—Consolidating Democracy in Pakistan (CDIP)
 date: 2017-06-30 21:08:00 Z
 published: false
+summary: The Consolidating Democracy in Pakistan programme is working to increase
+  the capacity, accountability, and responsiveness of Pakistan’s political institutions
+  leading up to, and beyond, the May 2018 elections, with a particular focus on engaging
+  women, youth, people with disabilities, and ethnic and religious minorities.
+start: 2016
+end: 2018
+client: U.K. Department for International Development
+solutions:
+- Governance
+- Legislative Strengthening
+regions: Asia and the Pacific
+country: Pakistan
 ---
 
 A historical moment for Pakistan, the 2013 elections saw the country’s first democratic transfer of power from one civilian government to another. In light of the upcoming May 2018 elections for the National Assembly, it is crucial that the success of 2013 is not only replicated, but consolidated and strengthened to help ensure long-term, stable democracy in Pakistan. Furthermore, the fact that political power remains highly centralized and concentrated among a small group of elites as well as the 2013 election results being contested by one of Pakistan’s largest political parties highlight the importance of holding accountable and widely accepted elections in 2018.
