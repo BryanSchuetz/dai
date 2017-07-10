@@ -12,7 +12,7 @@ summary: On June 28, Zambia signed $100 million worth of trade contracts with bu
   million families for six months.
 ---
 
-On June 28, Zambia signed $100 million worth of trade contracts with buyers from East and Southern Africa to export grains to countries suffering from a drought affecting more than 40 million people. The contracts—to sell more than 380,000 tons of white maize, soybeans, and other grains—are projected to provide food for 1.3 million families for six months. For Zambia, which is expecting to have a staple food surplus of 3.2 million tons this year, the cross-border sales represent an unparalleled contribution to the food security of East Africa, taking the lead in a powerful story of African sustainability.
+On June 28, Zambia signed $100 million worth of trade contracts with buyers from East and Southern Africa to export grains to countries suffering from a drought affecting more than 40 million people. The contracts—to sell more than 380,000 tons of white maize, soybeans, and other grains—are projected to provide food for 1.78 million families for six months. For Zambia, which is expecting to have a staple food surplus of 3.2 million tons this year, the cross-border sales represent an unparalleled contribution to the food security of East Africa, taking the lead in a powerful story of African sustainability.
 
 The trade contracts were signed in Lusaka at an African regional trade forum facilitated by the U.S. Agency for International Development (USAID)’s [East Africa](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) and [Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-hub-sath) Trade and Investment Hubs, implemented by DAI.
 
