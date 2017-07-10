@@ -10,7 +10,7 @@ clients: U.S. Agency for International Development
 summary: On June 28, Zambia signed $100 million worth of trade contracts with buyers
   from East and Southern Africa to export grains to countries suffering from a drought
   affecting more than 40 million people. The contracts—to sell more than 380,000 tons
-  of white maize, soybeans, and other grains—are projected to provide food for 1.3
+  of white maize, soybeans, and other grains—are projected to provide food for 1.78
   million families for six months.
 ---
 
