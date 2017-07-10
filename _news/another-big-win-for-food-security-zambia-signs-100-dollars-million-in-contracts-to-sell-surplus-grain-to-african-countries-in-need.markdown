@@ -16,8 +16,7 @@ On June 28, Zambia signed $100 million worth of trade contracts with buyers from
 
 The trade contracts were signed in Lusaka at an African regional trade forum facilitated by the U.S. Agency for International Development (USAID)’s [East Africa](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) and [Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-hub-sath) Trade and Investment Hubs, implemented by DAI.
 
-![DAI-News----EATIH-Zambia-Grain-1.jpg](/uploads/DAI-News----EATIH-Zambia-Grain-1.jpg)
-`Making deals for grain on June 28 in Lusaka, Zambia.'
+![DAI-News----EATIH-Zambia-Grain-1.jpg](/uploads/DAI-News----EATIH-Zambia-Grain-1.jpg)`Making deals for grain on June 28 in Lusaka, Zambia.'
 
 This marks the second forum of its kind hosted by USAID-funded programs, which seek to facilitate the trade of food grains from countries of surplus to those in deficit. In March, the East Africa Trade and Investment Hub (EATIH) convened the first Trade Facilitation Forum in Addis Ababa, Ethiopia, which [produced $83 million in contracts](http://dai-global-developments.com/articles/83-million-grain-deal-between-east-african-countries-demonstrates-how-east-africa-can-feed-itself/?utm_source=daidotcom) that are now supplying grains grown by Ethiopian farmers to buyers in six countries, most notably Kenya. EATIH's regional grain trade initiative is designed to facilitate the efficient flow of staple foods from surplus countries to countries in need.
 
