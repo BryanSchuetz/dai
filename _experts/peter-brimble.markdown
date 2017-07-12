@@ -18,6 +18,9 @@ regions:
 
 Peter Brimble has worked extensively in Central, Southeast, and North Asia on industrial efficiency, investment promotion, foreign direct investment, private sector development, and public policy issues. In the past three decades, he has worked on private sector development, public-private partnerships, logistics, and business development in the Greater Mekong Subregion.
 
-Following assignments with the Asian Development Bank, Peter joined the DaNa Facility in December 2016 as Team Leader. The DaNa Facility supports inclusive economic growth through responsible and sustainable private sector development in Myanmar, by enhancing business growth, investment and trade across the country. The Facility is a £25 million UK Department for International Development (DFID) funded programme, initially running to 2020.  
+Following assignments with the Asian Development Bank, Peter joined the DaNa Facility in 2016 as Team Leader. The DaNa Facility supports inclusive economic growth through responsible and sustainable private sector development in Myanmar by enhancing business growth, investment, and trade across the country. The Facility is funded by the U.K. Department for International Development (DFID).  
 
-Peter is an Economics graduate of the London School of Economics, Georgetown University, the University of Sussex, and Johns Hopkins University.  His Ph.D. thesis examined the productivity performance of Thai manufacturing firms.
+* B.Sc., economics, The London School of Economics and Political Science
+* M.A., economics, Georgetown University
+* M.A., economics, University of Sussex
+* Ph.D. candidate, economics, Johns Hopkins University
