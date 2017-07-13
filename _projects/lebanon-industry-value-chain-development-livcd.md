@@ -51,5 +51,5 @@ Watch [other videos ](https://www.youtube.com/channel/UCpLbGE-sJXJBQ-ZFxy5cw9g/v
 
 * Helped 1,160 medium and small enterprises—including—to apply for value chain finance.
 
-360-degree photos of LIVCD's work with the freekeh grain value chain: 
+*360-degree photos of LIVCD's work with the freekeh grain value chain*: 
 <iframe width='640' height='360' src='https://roundme.com/embed/159341/403047' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
