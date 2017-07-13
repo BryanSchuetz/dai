@@ -16,7 +16,7 @@ country:
 layout: project
 ---
 
-DAI and lead partner Everis carry out studies on government procurement in Australia, Brazil, China, India, Indonesia, New Zealand, and Thailand. We will be supported throughout this work by sector and market leaders from the London School of Economics, and employ a large pool of short-term experts—international and local—to collect and process the relevant data in each partner country.
+DAI and lead partner Everis carry out studies on government procurement in Australia, Brazil, China, India, Indonesia, New Zealand, and Thailand. We will be supported throughout this work by sector and market leaders and employ a large pool of short-term experts—international and local—to collect and process the relevant data in each partner country.
 
 ![][1]
 
