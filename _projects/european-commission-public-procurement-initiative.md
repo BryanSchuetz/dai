@@ -1,22 +1,22 @@
 ---
 title: European Commission—Public Procurement Initiative
-date: 2016-01-21 22:40:52.765000000 Z
-client: European Commission
+date: 2016-01-21 22:40:00 Z
+summary: DAI and lead partner Everis will provide European Union negotiators with
+  quantitative tools to assess the government procurement markets in Australia, Brazil,
+  China, India, Indonesia, New Zealand, and Thailand.
 start: 2015
 end: 2018
+client: European Commission
+solutions:
+- Economic Growth
 regions:
 - Worldwide
 country:
 - Worldwide
-solutions:
-- Economic Growth
 layout: project
-summary: DAI and lead partner Everis will provide European Union negotiators with
-  quantitative tools to assess the government procurement markets in Australia, Brazil,
-  China, India, Indonesia, New Zealand, and Thailand.
 ---
 
-DAI and lead partner Everis will provide European Union negotiators with quantitative tools to assess the government procurement markets in Australia, Brazil, China, India, Indonesia, New Zealand, and Thailand. We will be supported throughout this work by sector and market leaders from the London School of Economics, and employ a large pool of short-term experts—international and local—to collect and process the relevant data in each partner country.
+DAI and lead partner Everis carry out studies on government procurement in Australia, Brazil, China, India, Indonesia, New Zealand, and Thailand. We will be supported throughout this work by sector and market leaders from the London School of Economics, and employ a large pool of short-term experts—international and local—to collect and process the relevant data in each partner country.
 
 ![][1]
 
