@@ -22,4 +22,4 @@ Following assignments with the Asian Development Bank, Peter joined the [DaNa Fa
 * B.Sc., economics, The London School of Economics and Political Science
 * M.A., economics, Georgetown University
 * M.A., economics, University of Sussex
-* Ph.D. candidate, economics, Johns Hopkins University
+* Ph.D., economics, Johns Hopkins University
