@@ -18,7 +18,7 @@ DAI today announced it will work with Esso Exploration and Production Guyana Ltd
 
 “The Centre for Local Business Development is an investment in the people of Guyana and the future of the country. ExxonMobil is proud to assist in designing and opening this important resource center,” said Rod Henson, country manager for ExxonMobil in Guyana. “The Centre will play a key role in furthering the capabilities of local businesses that we are eager to partner with.” 
 
-The Centre will initially prioritize skills development in various sectors that support the oil and gas industry, including safety equipment and personnel, marine operations, offshore supply, and civil construction. It will also provide tailored mentoring, coaching, and access to financial support.
+[The Centre ](http://clbdguyana.com/)will initially prioritize skills development in various sectors that support the oil and gas industry, including safety equipment and personnel, marine operations, offshore supply, and civil construction. It will also provide tailored mentoring, coaching, and access to financial support.
 
 “Local suppliers are important to the success of EEPGL’s operations,” said Henson. “Through the Centre, we will continue working with these and other stakeholders to develop local companies and help build a competitive industrial base.”
 
