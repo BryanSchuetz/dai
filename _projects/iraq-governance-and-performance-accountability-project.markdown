@@ -1,7 +1,6 @@
 ---
 title: Iraq Governance and Performance Accountability Project (IGPA)
 date: 2017-06-29 19:58:00 Z
-published: false
 summary: 'IGPA will support the Iraqi Government to shore up fiscal stability while
   rapidly and visibly improving service delivery. '
 start: 2017
@@ -15,7 +14,7 @@ country: Iraq
 
 IGPA will support the Iraqi Government to shore up fiscal stability while rapidly and visibly improving service delivery. The project aims to build capacity for Iraqi government service delivery, improve governorate and national government public financial management, and strengthen monitoring and oversight of service delivery and public expenditure.
 
-![Iraq----IGPA.jpg](/uploads/Iraq----IGPA.jpg)
+![IGPA-web-page.jpg](/uploads/IGPA-web-page.jpg)
 
 ### Sample Activities
 
