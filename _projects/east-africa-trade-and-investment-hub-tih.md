@@ -1,5 +1,5 @@
 ---
-title: East Africa—Trade and Investment Hub
+title: East Africa Trade and Investment Hub
 date: 2016-01-21 22:40:00 Z
 summary: 'Growth in the five East African Community Partner States—Burundi, Kenya,
   Rwanda, Tanzania, and Uganda—has been robust but uneven, with millions of people
