@@ -23,7 +23,6 @@ DAI and lead partner Everis carry out studies on government procurement in Austr
 ### Sample Activities
 
 * Develop a methodology for collecting data.
-* Assess these markets and their barriers, and the effects of these barriers on trade flows, GDP, and related policy—among other effects.
-* Determine the potential for opening these procurement markets for European Union businesses.
+* Analyse public procurement data and legislation and their effects on trade flows, gross domestic product, and related policy—among other effects.
 
 [1]: https://assetify-dai.com/projects/EC-Procurement-webpage.jpg
