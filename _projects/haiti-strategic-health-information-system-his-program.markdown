@@ -13,7 +13,7 @@ regions: Latin America and the Caribbean
 country: Haiti
 ---
 
-The Haiti Strategic Health Information System (HIS) Program team will consolidate and integrate Haiti’s at-present disconnected health information assets to empower the national *System d’Information Sanitaire Nationale Unique* (SISNU).
+The Haiti Strategic Health Information System (HIS) Program team will consolidate and integrate Haiti’s at-present disconnected health information assets to [empower](https://www.dai.com/news/dai-to-launch-usaid-health-information-system-program-in-haiti) the national *System d’Information Sanitaire Nationale Unique* (SISNU).
 
 At present, Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village. This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak. By creating a single, comprehensive health information system, Haiti will be far better prepared to address its inevitable health crises as well as the daily needs of its 11 million people. This will benefit not just Haiti but its donor partners and the entire Caribbean region.
 
