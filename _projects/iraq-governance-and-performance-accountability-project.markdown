@@ -21,4 +21,4 @@ IGPA will support the Iraqi Government to shore up fiscal stability while rapidl
 
 * Engage key Iraqi Government stakeholders to share information, coordinate activities, and introduce IGPA and its technical approach at the national level; at the governorate level, regional managers engage local counterparts.
 * Conduct political economy analyses and related assessments to identify constraints in specific service delivery sectors; design and implement appropriate interventions.
-* Establish rapid response and Project Activities Fund infrastructure so the Iraqi government and governorates can implement flexible and accountable capital projects—with local contributions—especially in provinces with disadvantaged and vulnerable populations.
+* Establish rapid response and high impact priority activities so the Iraqi government and governorates can implement flexible and accountable capital projects—with local counterpart contributions—especially in provinces with disadvantaged and vulnerable populations.
