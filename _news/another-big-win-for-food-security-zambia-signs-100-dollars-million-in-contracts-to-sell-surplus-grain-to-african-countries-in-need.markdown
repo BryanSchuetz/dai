@@ -33,6 +33,8 @@ The June event was spurred by Zambia’s pending surplus maize crop and modeled 
 
 Elico Spyron of Agrilink, representing the Zambian National Farmers Union and more than 1 million farmers, from commercial outfits to subsistence smallholders, praised the one-to-one contact between buyers and sellers and the advance discussions between countries on standards and logistics. “This year it is especially important because we are looking to expand our markets,” Spyron added.
 
+### Making Food Trade the Norm, Not the Exception
+
 Zambia and other African countries face challenges—notably storage, interregional transport, and related costs—to instituting sustainable, beneficial food trade that grows economies and increases food security, noted John Mundy of the World Food Program, who represented WFP at the event. WFP procures hundreds of thousands of metric tons of grain annually, which is delivered as food aid to millions of people.
 
 “If you don't have the ability to keep or sell your grain, that can be a problem, so this event highlighted the need for regional trade and local initiatives,” Mundy said. “There are concerns of logistics, [but] with the private sector and government in the room, it was a good forum to talk about that.”
