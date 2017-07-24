@@ -25,7 +25,7 @@ This event is the year’s second forum supported by USAID and implementer DAI t
 
 This latest example of regional cooperation presents an encouraging sign of improving African sustainability and independence. Increased grain trade will stabilize grain supply and prices in the region, improve food security, and reduce malnutrition. It would also allow the region to be less dependent upon emergency food assistance.
 
->“The surplus created an important opportunity, not only for the transactions now in development, but also to leverage trade to address the barriers to trade. This interplay of business and policy is a fundamental reason the hubs exist.”—DAI’s Vanessa Adams, Chief of Party, Southern Africa Trade and Investment Hub.
+> “The surplus created an important opportunity, not only for the transactions now in development, but also to leverage trade to address the barriers to trade. This interplay of business and policy is a fundamental reason the hubs exist.”—DAI’s Vanessa Adams, Chief of Party, Southern Africa Trade and Investment Hub.
 
 The June event was spurred by Zambia’s pending surplus maize crop and modeled after the EATIH trade forum in March. SATIH had been working with the Zambian Commodity Exchange to improve structured trading and market opportunities for crops produced by smallholder farmers. The SATIH team had also been working with the Zambian government toward ensuring the appropriate export permits, documents, and quality and safety standards. This coincided with the recent lifting of an export ban and 10-percent tax by the Zambian government, which further facilitated the transactions.
 
