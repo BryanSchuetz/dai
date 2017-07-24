@@ -18,6 +18,9 @@ On June 28, Zambia signed $93.5 million worth of contracts with buyers from East
 
 The trade contracts were signed in Lusaka at an African regional trade forum facilitated by the Zambian Commodity Exchange and Eastern Africa Grain Council with assistance from the U.S. Agency for International Development (USAID)’s [Southern Africa](https://www.dai.com/our-work/projects/southern-africa-trade-and-investment-hub-satih) and [East Africa](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) Trade and Investment Hubs. The forum convened 230 sellers and buyers from Burundi, Malawi, South Africa, Kenya, Uganda, Rwanda, Zambia, and Zimbabwe.
 
+![DAI-News----Zambia-grain-3.jpg](/uploads/DAI-News----Zambia-grain-3.jpg)
+'Grain traders convening in Luzaka, Zambia, on June 28.' 
+
 This event is the year’s second forum supported by USAID and implementer DAI to facilitate the trade of food grains from countries of surplus to those in deficit. In March, the East Africa Trade and Investment Hub (EATIH) convened the first Trade Facilitation Forum in Addis Ababa, Ethiopia, which [produced](https://www.dai.com/news/a-trade-solution-to-the-food-security-challenge-surplus-grains-worth-83-dollars-million-now-available-to-countries-in-need) $93.1 million in contracts that are now supplying grains grown by Ethiopian farmers to buyers in six countries, most notably Kenya.
 
 This latest example of regional cooperation presents an encouraging sign of improving African sustainability and independence. Increased grain trade will stabilize grain supply and prices in the region, improve food security, and reduce malnutrition. It would also allow the region to be less dependent upon emergency food assistance.
