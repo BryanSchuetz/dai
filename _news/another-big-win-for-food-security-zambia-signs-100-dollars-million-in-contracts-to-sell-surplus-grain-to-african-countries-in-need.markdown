@@ -25,7 +25,7 @@ This latest example of regional cooperation presents an encouraging sign of impr
 
 The June event was spurred by Zambia’s pending surplus maize crop and modeled after the EATIH trade forum in March. SATIH had been working with the Zambian Commodity Exchange to improve structured trading and market opportunities for crops produced by smallholder farmers. The SATIH team had also been working with the Zambian government toward ensuring the appropriate export permits, documents, and quality and safety standards. This coincided with the recent lifting of an export ban and 10-percent tax by the Zambian government, which further facilitated the transactions.
 
-“The surplus created an important opportunity, not only for the transactions now in development, but also to leverage trade to address the barriers to trade,” said DAI’s Vanessa Adams, SATIH director. “This interplay of business and policy is a fundamental reason the hubs exist.”
+> “The surplus created an important opportunity, not only for the transactions now in development, but also to leverage trade to address the barriers to trade,” said DAI’s Vanessa Adams, SATIH director. “This interplay of business and policy is a fundamental reason the hubs exist.”
 
 “Suspending the export duties creates an incentive to traders to export to Kenya, as does making the export process smoother—the implementation of express clearance at the borders, particularly, is important. We are competitive now,” said Alok Dikshit of Zambia’s Export Traders Group.
 
