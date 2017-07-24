@@ -1,5 +1,5 @@
 ---
-title: 'Another Big Win for Food Security: Zambia Signs $100 Million in Contracts
+title: 'Another Big Win for Food Security: Zambia Signs $93.5 Million in Contracts
   to Sell Surplus Grain to African Countries in Need'
 date: 2017-07-24 17:31:00 Z
 solutions:
@@ -7,7 +7,7 @@ solutions:
 regions: Sub-Saharan Africa
 projects: East Africa—Trade and Investment Hub
 clients: U.S. Agency for International Development
-summary: On June 28, Zambia signed $100 million worth of trade contracts with buyers
+summary: On June 28, Zambia signed $93.5 million worth of trade contracts with buyers
   from East and Southern Africa to export grains to countries suffering from a drought
   affecting more than 40 million people. The contracts—to sell more than 380,000 tons
   of white maize, soybeans, and other grains—are projected to provide food for 1.78
