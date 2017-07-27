@@ -1,5 +1,5 @@
 ---
-title: Tanzania—Developing Local Industries Connected to Tanzania's Natural Gas Discoveries
+title: Tanzania—Developing Local Industries Connected to Tanzania’s Natural Gas Discoveries
 date: 2016-01-21 22:40:00 Z
 summary: 'We are working in the Mtwara region of Tanzania to analyze the demand and
   supply for local suppliers in key supply chains in the gas industry, working closely
