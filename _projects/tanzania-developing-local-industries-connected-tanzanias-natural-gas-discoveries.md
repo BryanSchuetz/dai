@@ -9,7 +9,7 @@ summary: 'We are working in the Mtwara region of Tanzania to analyze the demand 
 start: 2013
 end: 2014
 client:
-- World Blank
+- World Bank
 - U.K. Department for International Development
 solutions:
 - Corporate Sustainability
