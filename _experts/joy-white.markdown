@@ -21,3 +21,5 @@ Before joining DAI, Joy spent four years as a consultant and team leader at Ande
 
 * M.B.A., George Washington University
 * B.S., foreign service, Georgetown University
+
+<iframe src="https://player.vimeo.com/video/35271625" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
