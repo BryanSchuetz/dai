@@ -34,3 +34,5 @@ In his 18 years with DAI, Andrew has undertaken three long-term assignments—in
 
 [3]: https://www.devex.com/en/news/in-morocco-a-million-dollar-deal-founded-on-land/81830
 [4]: http://dai-global-developments.com/articles/incentive-for-moroccan-farmers-to-conserve-water.html?utm_source=daidotcom
+
+<iframe src="https://player.vimeo.com/video/50089195" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
