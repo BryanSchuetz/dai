@@ -32,8 +32,6 @@ Islamic Finance and Conventional Loans are available to many Afghans who partici
 * Facilitate the transition of the Agricultural Development Fund into a standalone and sustainable institution.
 * Drawing other Afghan intermediaries into agriculture finance and providing a learning and advocacy platform.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104419931" webkitallowfullscreen="" width="703"></iframe>
-
 ###  Select Results
 
 * ACE I developed an Islamic finance toolbox to facilitate credit to farmers using culturally acceptable lending mechanisms.
@@ -41,6 +39,8 @@ Islamic Finance and Conventional Loans are available to many Afghans who partici
 * ACE I processed loans worth $104 million and disbursed $60 million to financial and nonfinancial intermediaries that are directly benefiting 31,000 small commercial farmers in 33 provinces. Indirect beneficiaries exceed 150,000 rural households.
 * ACE I received repayments worth almost $37 million, while keeping the ADF's default rate below 5 percent.
 * ACE I lent $1.6 million to women-owned enterprises through Zahra, Islamic Finance, a [flagship program for women][3]. For more about Zahra, watch this video:
+
+<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104419931" webkitallowfullscreen="" width="703"></iframe>
 
 [1]: https://www.youtube.com/user/agricultureDF
 [2]: /news/agricultural-credit-delivering-development-promise-afghanistan
