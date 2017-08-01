@@ -1,5 +1,5 @@
 ---
-title: Regional Advisory Service (RAS) Project Description
+title: Regional Advisory Service (RAS)
 date: 2017-07-31 17:41:00 Z
 summary: The Regional Advisory Service provides expert advice on strategic planning,
   monitoring and evaluation, audit and risk management, and governance to five regional
