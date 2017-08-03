@@ -22,7 +22,7 @@ The Kenya Deepening Democracy Programme (DDP), funded by the U.K. Department for
 
 **Sample Activities**
 
-* Improve civic education and support well-administered and transparent elections in order to increase voter confidence and legitimacy of election outcomes.
+* Support well-administered and transparent elections in order to increase voter confidence and legitimacy of election outcomes.
 
 * Enhance women’s participation and representation in politics through training, mentorship, and media profiling.
 
