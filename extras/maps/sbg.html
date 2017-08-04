@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <base target="_parent" />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+    .mapboxgl-popup-content{
+      padding-top: 20px;
+    }
+    body { margin:0; padding:0; color: #515151;}
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    a{
+      color: #3887BE;
+      text-decoration: none;
+    }
+    a:hover{color: #63b6e5;}
+    </style>
+</head>
+<body>
+<style media="screen">
+
+  #legend{
+    display: block;
+    z-index: 1;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: white;
+    padding: 1rem;
+    font-family: 'Helvetica', arial, sans-serif;
+    border: 1px solid #515151;
+    border-radius: 3px;
+  }
+  .legend label{
+    font-size: 13px;
+    color:#808080;
+
+  }
+  .legend span {
+      display:block;
+      float:left;
+      height:10px;
+      width:10px;
+      margin-right: 5px;
+      margin-top: 6px;
+      }
+    .legend p{
+      margin-bottom: 5px;
+      margin-top: 5px;
+    }
+    .legend-marker{
+      margin-right: 3px;
+      height: 23px;
+      margin-left: -2px;
+      margin-top: 1px;
+      float: left;
+    }
+    .layer-marker{
+      margin-top: -1px;
+    }
+  #menu a {
+   display: block !important;
+   margin-bottom: 5px !important;
+  }
+  #menu p{
+    margin-bottom: 10px;
+  }
+  #menu span{
+    width: 10px;
+    height: 10px;
+    top: -3px;
+    position: relative;
+  }
+  #menu #USAID span{
+    background-color: #19387D;
+  }
+  #menu #DFID span{
+    background-color: #C3282D;
+  }
+  #menu #EC span{
+    background-color: #F4F200;
+  }
+  hr{
+    border-bottom: 0px;
+  }
+</style>
+<div id='map'></div>
+<div id='legend' style='display:block;'>
+  <strong>SBG Activity Worldwide</strong>
+  <nav class='legend clearfix'>
+  <p><span style='background:#2C383D'></span><label>Countries with active projects</label></p>
+  <p><span style='background:#5C757F;'></span><label>Countries with previous projects</label></p>
+</div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
+var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: 'mapbox://styles/dai/cj5tqya904th72so9q7kmzyl8', //stylesheet location
+    center: [14.50, 20], // starting position
+    minZoom: 2,
+    maxZoom: 9,
+    zoom: 3, // starting zoom
+    pitch: 40,
+});
+// map.scrollZoom.disable();
+var nav = new mapboxgl.NavigationControl();
+map.addControl(nav, 'top-left');
+map.on('load', function(){
+  // Turn one on for client specific map embed on client pages
+  // map.setLayoutProperty(['USAID'], 'visibility', 'visible');
+  // map.setLayoutProperty(['DFID'], 'visibility', 'visible');
+  // map.setLayoutProperty(['EC'], 'visibility', 'visible');
+});
+</script>
+
+</body>
+</html>
