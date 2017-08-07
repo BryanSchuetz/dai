@@ -21,7 +21,7 @@ In support of this goal, the U.S. Agency for International Development (USAID) h
 
 In developing value chains, INOVA takes a portfolio approach adapted from the finance industry, relying on diversified assets, active monitoring of performance, and the flexibility to rebalance investments based on changing market dynamics. Also central to INOVA’s work is the co-creation of pilot interventions, which involves partnering with local private-sector firms to develop innovative and inclusive agribusiness models and demonstrating their viability to potential stakeholders.
 
-![Mufankiwa Small Scale Irrigation Scheme.jpg](/uploads/Mufankiwa%20Small%20Scale%20Irrigation%20Scheme.jpg)
+![Moz Hort Assessment_Chimoio Photo 1.jpg](/uploads/Moz%20Hort%20Assessment_Chimoio%20Photo%201.jpg)
 
 **Sample Activities**
 
