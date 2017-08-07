@@ -4,11 +4,15 @@ date: 2017-08-07 14:13:00 Z
 lastname: Maly
 summary: Greg Maly has spent his career working at the intersection of global development
   and diplomacy, technology, and the arts.
-job-title: Principal Software Developer
+job-title: Data Scientist and Technical Solutions Engineer
 image: "/uploads/greg%20portal.jpg"
 solutions:
-- Economic Growth
 - Digital
+- Stabilization
+- Health
+regions:
+- Asia and the Pacific
+- Latin America and the Caribbean
 ---
 
 Greg Maly has spent his career working at the intersection of global development and diplomacy, technology, and the arts. Joining DAI in 2017, he works to develop and implement data collection and analysis technologies in support of a range of thematic areas.  
