@@ -1,25 +1,22 @@
 ---
 title: Susan Scribner
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Scribner
-regions:
-- Asia and the Pacific
-- Middle East and North Africa
-- Sub-Saharan Africa
-solutions:
-- Health
-- Digital
-layout: expert
-image: https://assetify-dai.com/experts/Susan%20Inner.jpg
 summary: 'Susan Scribner leads the Preparedness and Response project (P&R). P&R works
   in 16 countries in East Africa, West Africa, and Southeast Asia to support multisectoral
   collaboration through National One Health Platforms.
 
 '
 job-title: Director, Preparedness and Response project
-articles:
-- name: 
-  article_file: 
+image: https://assetify-dai.com/experts/Susan%20Inner.jpg
+solutions:
+- Health
+- 
+regions:
+- Asia and the Pacific
+- Middle East and North Africa
+- Sub-Saharan Africa
+layout: expert
 ---
 
 Susan Scribner leads the Preparedness and Response project (P&R). P&R works in 16 countries in East Africa, West Africa, and Southeast Asia to support multisectoral collaboration through National One Health Platforms. These platforms strengthen countries' abilities to prevent, detect and respond to pandemic threats. P&R facilitates countries in developing and maintaining National Preparedness and Response Plans to respond to public health events at the regional, national, and subnational levels.  
