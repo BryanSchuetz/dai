@@ -11,7 +11,7 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-Nigeria suffers from critical health sector human resource challenges. The U.K. Department for International Development (DFID) is tackling this problem by empowering women as service providers in five states in northern Nigeria through its Women for Health (W4H) programme.
+Northern Nigeria suffers from critical health sector human resource challenges. Up to 90 percent of women deliver their babies without a skilled birth attendant present in northern Nigeria, compared to 35 percent of women in the southern region of the country. And in Jigawa state, there are only five nurses per 100,000 people, compared to Enugu state in the Southeast with 59 per 100,000 people. These are just a few examples. The U.K. Department for International Development (DFID) is tackling this problem by empowering women as service providers in five states in northern Nigeria through its Women for Health (W4H) programme.
 
 [W4H](http://www.women4healthnigeria.org/) works closely with other existing health and education programmes in the states as well as government partners and other organisations including Save the Children, GRID Consulting Ltd., the Clinton Health Access Initiative, Mailman School of Public Health, Heilbrunn Department of Population and Family Health, Columbia University, Royal College of Midwives, Usmanu Danfodiyo University Sokoto, Bayero University Kano, and Advocacy Nigeria.
 
