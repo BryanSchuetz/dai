@@ -1,6 +1,9 @@
 ---
 title: Nigeria—Women for Health (W4H)
 date: 2017-07-28 14:56:00 Z
+summary: The U.K. Department for International Development is empowering women as
+  service providers in five states in northern Nigeria through its Women for Health
+  (W4H) programme.
 start: 2012
 end: 2020
 client: U.K. Department for International Development
