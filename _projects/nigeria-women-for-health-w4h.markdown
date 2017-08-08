@@ -21,13 +21,13 @@ Northern Nigeria suffers from critical health sector human resource challenges. 
 
 **Sample Activities**
 
-* Improve the training of female health workers.
-* Strengthen the recruitment and retention of female health workers in rural health facilities.
-* Engage with community and religious institutions to create a gender-friendly environment for women to pursue health careers.
+*Improve the training of female health workers.
+*Strengthen the recruitment and retention of female health workers in rural health facilities.
+*Engage with community and religious institutions to create a gender-friendly environment for women to pursue health careers.
 
 **Select Results**
 
-* Increased the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation.
-* Strengthened management systems and structures of training institutions to provide an appropriate environment for high-quality professional training.
-* Improved female-friendliness of health training institutions by increasing gender sensitivity of staff, constructing female-friendly accommodation, improving security, providing counseling, child care facilities, and increasing the proportion of female tutors and managers.
-* As of December 2016: 4,609 female students enrolled into professional training; 1,276 attended a a Foundation Year Programme; 35 houses were constructed to accommodate midwives; and seven out of 70 institutions now have a female principal.
+*Increased the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation.
+*Strengthened management systems and structures of training institutions to provide an appropriate environment for high-quality professional training.
+*Improved female-friendliness of health training institutions by increasing gender sensitivity of staff, constructing female-friendly accommodation, improving security, providing counseling, child care facilities, and increasing the proportion of female tutors and managers.
+*As of December 2016: 4,609 female students enrolled into professional training; 1,276 attended a a Foundation Year Programme; 35 houses were constructed to accommodate midwives; and seven out of 70 institutions now have a female principal.
