@@ -55,4 +55,4 @@ PMDP is a follow-on to the [Facility for New Market Development](/our-work/proje
 * 261 businesses assisted. 
 * 136 new products developed or enhanced. 
 * £41 million increase of sales due to programme assistance
-1,617 jobs created (44 for women).
+* 1,617 jobs created (44 for women).
