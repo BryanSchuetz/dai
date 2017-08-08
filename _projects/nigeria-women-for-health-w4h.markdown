@@ -15,7 +15,7 @@ Northern Nigeria suffers from critical health sector human resource challenges. 
 
 [W4H](http://www.women4healthnigeria.org/) works closely with other existing health and education programmes in the states as well as government partners and other organisations including Save the Children, GRID Consulting Ltd., the Clinton Health Access Initiative, Mailman School of Public Health, Heilbrunn Department of Population and Family Health, Columbia University, Royal College of Midwives, Usmanu Danfodiyo University Sokoto, Bayero University Kano, and Advocacy Nigeria.
 
-![w4health.jpg](/uploads/w4health.jpg)
+![women4health.jpg](/uploads/women4health.jpg)
 
 **Sample Activities**
 * Improve the training of female health workers.
