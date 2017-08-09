@@ -4,8 +4,7 @@ date: 2017-06-02 12:31:00 Z
 lastname: Soyoola
 summary: 'Miniratu Soyoola has more than 20 years of experience in health and social
   development programme implementation, coordination, and strategy development. '
-job-title: Technical Specialist, Community Health Systems and Gender, [Health Partners
-  International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Lead, Community Health Systems and Gender, [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Miniratu%20Soyoola%20DAI%20site.jpg"
 solutions:
 - Health
