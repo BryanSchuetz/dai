@@ -5,8 +5,7 @@ lastname: Adegoke
 summary: 'Dr. Adetoro Adeyemi Adegoke has more than 20 years of experience working
   and managing reproductive, maternal, newborn, child, and adolescent health; health
   system strengthening; human resources for health; and education programmes. '
-job-title: Senior Technical Advisor, Reproductive, Maternal, Newborn, Child, and Adolescent
-  Health, [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Lead, Health Service Delivery, [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Adetoro%20Adegoke%20DAI%20site-0ddbb5.jpg"
 solutions:
 - Health
