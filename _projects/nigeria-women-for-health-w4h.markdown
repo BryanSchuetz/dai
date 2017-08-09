@@ -32,4 +32,6 @@ Collaborating with 20 Midwifery, Nursing and Community Health Extension Worker T
 * Increased by more than 4,000 the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation. [Watch these videos ](https://www.youtube.com/watch?v=L5C4HPhIrc8&list=PLNh1_9YTHaV3d3oB3ZR7luGxPW6R6A_NG&index=1)to learn more. 
 * Strengthened management systems and structures of training institutions to provide an appropriate environment for high-quality professional training.
 * Improved female-friendliness of health training institutions by increasing gender sensitivity of staff, constructing female-friendly accommodation, improving security, providing counseling, child care facilities, and increasing the proportion of female tutors and managers.
-* As of December 2016: 4,609 female students enrolled into professional training; 1,276 attended a a Foundation Year Programme; 35 houses were constructed to accommodate midwives; and seven out of 70 institutions now have a female principal.
+* Helped nine schools receive full accreditation and 11 to achieve provisional accreditation.
+* Constructed 35 houses to accommodate midwives.
+* Helped elevate women to the role of principal at seven of 20 institutions. 
