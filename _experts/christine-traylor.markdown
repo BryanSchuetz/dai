@@ -6,7 +6,7 @@ summary: As Operations Manager for DAI’s Energy and Resources Group, Christine
   develops and implements new processes that help the group streamline key business
   functions.
 job-title: Operations Manager
-image: "/uploads/Christine_Traylor_photo.jpeg"
+image: "/uploads/ChristineTraylerPortal.jpg"
 solutions:
 - Corporate Sustainability
 ---
