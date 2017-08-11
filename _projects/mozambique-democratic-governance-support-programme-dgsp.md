@@ -27,8 +27,10 @@ The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Local para a
 * Help translate citizen demand into concrete policy level action by supporting locally driven research and advocacy activities.
 * Develop and execute a rigorous monitoring and evaluation approach to effective program management and demonstrate value for money.
 
-###  Sample Activities
+###  Select Results
 
-
+* Created relationships between local governments and citizens, energised by a partner network of 220 community-based organisations and local nongovernmental organisations, 4,859 community activists and individual agents of change (45 percent of whom are female), and 10 media outlets (local radio stations and newspapers). 
+* Enabled the municipal planning and budgeting models in Nampula, Quelimane, Beira, and Maputo to have direct citizen participation in defining annual priorities, and supported the adoption of innovative community problem solving tools for addressing key issues such as water leaks, waste management, and primary health services. 
+* Supported the creation of hundreds of new social and economic infrastructure, which are now benefiting millions of people. Such projects include the improvement in waste management and hygiene conditions in health facilities and markets in Maputo and Tete and the construction of long-demanded access roads, water and electricity systems, health facilities, and markets in peripheral, low-income neighbourhoods of Quelimane, Beira, and Nampula.
 
 [1]: https://assetify-dai.com/projects/Dialogo.jpg
