@@ -1,7 +1,5 @@
 ---
-title: |-
-  El Salvador—
-  Domestic Resource Mobilization Program
+title: El Salvador—Domestic Resource Mobilization Program
 date: 2017-08-14 14:35:00 Z
 summary: By working with national and local governments to improve their systems for
   collecting and spending revenue, the El Salvador Domestic Resource Mobilization
