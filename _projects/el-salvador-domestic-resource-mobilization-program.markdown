@@ -9,8 +9,8 @@ start: 2017
 end: 2022
 client: U.S. Agency for International Development
 solutions:
-- Governance
 - Public Financial Management
+- Governance
 regions: Latin America and the Caribbean
 country: El Salvador
 ---
