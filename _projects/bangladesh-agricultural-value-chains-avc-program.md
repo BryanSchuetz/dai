@@ -29,11 +29,8 @@ Read more from the project on lessons learned from the [project’s blog](http:/
 ### Sample Activities
 
 * Hold competitions for value chain co-investment/innovation grants as well as capacity building and training grants.
-
 * Partner with agri-firms to invest in supply chain governance and input distribution networks to support greater inclusion of smallholders in agricultural market growth.
-
 * Help stimulate growth in support service market sectors and facilitate increased access for farmers to improved services and technologies.
-
 * Develop partnerships with local groups such as nongovernmental organizations, private businesses, microfinance institutions, social venture capital firms, and commercial banks.
 
 ### Select Results
