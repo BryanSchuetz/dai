@@ -30,19 +30,15 @@ Read more from the project on lessons learned from the [project’s blog](http:/
 
 * Hold competitions for value chain co-investment/innovation grants as well as capacity building and training grants.
 
-* Help stimulate growth in alternative market sectors and facilitate increased access for farmers to these alternative market channels.
+* Partner with agri-firms to invest in supply chain governance and input distribution networks to support greater inclusion of smallholders in agricultural market growth.
+
+* Help stimulate growth in support service market sectors and facilitate increased access for farmers to improved services and technologies.
 
 * Develop partnerships with local groups such as nongovernmental organizations, private businesses, microfinance institutions, social venture capital firms, and commercial banks.
 
 ### Select Results
 
 * Forged partnerships with 25 private sector companies and cooperatives to ensure sustainable supply of inputs and transfer of appropriate technologies and management practices to farmers and market linkage of farmers produce.
-
 * Reached 74,000 new farmers in the third year of the project, a 393 percent increase over the second year.
-
 * Introduced high-yielding and disease-resistant variety of nutritious mung bean, leading to a 4 percent yield increase per hectare, reduction of post-harvest loss by 6 percent, and increase in average net income per farmer by $64, or 78 percent per hectare.
-
-* Tomato crop interventions led to yield increase by 8 percent per hectare and average income per farmer by 11 percent.
-  Line-sowing techniques for cultivation of groundnuts plus fertilizer management resulted yield increase per hectare by 196 percent.
-
 * Linked safe mango growers to two private sector enterprises; assisted those enterprises to develop a sustainable supply and marketing channel for safe mango through a local supermarket and local e-commerce platform, availing urban consumers of 500 metrics tons of graded premium quality mangoes.
