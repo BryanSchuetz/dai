@@ -1,9 +1,10 @@
 ---
 title: Kenya—Hunger Safety Net Programme Phase 2 (HSNP2)
 date: 2016-01-21 22:40:00 Z
-summary: The first phase of the Hunger Safety Net Programme (HSNP) in Kenya—from 2009
-  to 2012—reached 69,000 households in four northern counties with a cash transfer
-  payment every two months.
+summary: The Hunger Safety Net Programme (HSNP) in Kenya is up as case study in “shock-responsive
+  social protection,” contributing to evidence of cost effectiveness of investments
+  in resilience and planned intervention at early stage of disaster compared to costly
+  reactive “emergency” responses.
 start: 2014
 end: 2017
 client: U.K. Department for International Development
@@ -36,5 +37,5 @@ The goal of [HSNP2](http://www.hsnp.or.ke/) is to continue to reduce poverty, hu
 * Activated the [HSNP Dashboard](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/?utm_source=daidotcom), allowing real time data about cash transfers and the process to be transferred online to and from field-level staff, improving service.
 * Reached 69,000 households in four northern counties with a cash transfer payment every two months in the first phase of HSNP in Kenya—from 2009 to 2012.
 * Transitioned HSNP2 to be a Government of Kenya flagship programme. It expanded to register 374,000 households (more than 2.1 million people) across four most arid and vulnerable counties.
-•      Close to 100,000 HHs are paid a regular transfer. HSNP has paid transfers to an additional approx. 90,000 HHs from an early stage of the current extreme drought cycle, helping avoid damaging impact and losses occurring.
-•      Held up as case study in “shock-responsive social protection”. Contributing to evidence of cost effectiveness of investments in resilience and planned intervention at early stage of disaster compared to costly reactive “emergency” responses.
+* Close to 100,000 households are paid a regular transfer. HSNP has paid transfers to nearly 90,000 households from an early stage of the current extreme drought cycle, helping avoid damaging impact and losses occurring.
+* Held up as case study in “shock-responsive social protection,” contributing to evidence of cost effectiveness of investments in resilience and planned intervention at early stage of disaster compared to costly reactive “emergency” responses.
