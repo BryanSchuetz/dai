@@ -3,7 +3,7 @@ title: Nigeria—Malaria Action Program for States (MAPS)
 date: 2017-08-21 18:13:00 Z
 published: false
 start: 2010
-end: 2015
+end: 2016
 client: U.S. Agency for International Development
 solutions:
 - Health
