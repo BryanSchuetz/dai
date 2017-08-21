@@ -21,7 +21,6 @@ Sample Activities
 * Support the scale-up of proven malaria interventions. 
 * Maintain a high level of insecticide-treaded bednets.
 * Improve malaria case management at facility and community level.
-* Promote positive behaviours through information, education, and communication and behaviour change communication activities, facilitating community mobilisation.
+* Promote positive behaviours through information, education, and behaviour change communication activities, facilitating community mobilisation.
 
-Strengthening the management capacity of the State Ministry of Health and Local Government Area health personnel to provide oversight of malaria interventions
-Improving capacity of the focus states and the NMCP to monitor and evaluate malaria interventions and data to guide programmatic decisions, optimally at national, state and LGA levels.
+Select Results
