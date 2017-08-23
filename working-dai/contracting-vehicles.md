@@ -93,6 +93,10 @@ DAI holds umbrella contracts from various clients through which development prog
 
 * Russian Federation: RSBF Technical Co-operation Programme: Call-Off Assignments Framework (2011–2015) 
 
+### European Commission
+
+* DAI holds various EC framework contracts. To review the full list and consultant opportunities associated with them, visit our [Framework Contracts site](http://frameworkcontracts.com).
+
 ### New Zealand Aid Programme
 
 * [Agricultural Services Panel (2014–present)](http://frameworkcontracts.com/lots/mfat)
