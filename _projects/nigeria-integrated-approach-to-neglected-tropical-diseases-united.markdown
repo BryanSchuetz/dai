@@ -24,6 +24,8 @@ The targeted NTDs are preventable with proven, cost-effective interventions, suc
 
 As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach is used, in which drugs for different diseases are administered at the same time.
 
+Led by Sightsavers, the consortium also comprises Helen Keller International, CBM, MITOSATH, Carter Centre, the Liverpool School of Tropical Medicine – Centre for Neglected Tropical Diseases, the London Centre for NTD Research, the Partnership for Child Development and the Schistosomiasis Control Initiative, Imperial College, the London School of Hygiene and Tropical Medicine, the Natural History Museum, Accenture Development Partnerships, and Crown Agents. 
+
 ## Sample Activities 
 
 * Conduct mapping of the NTDs.
@@ -34,10 +36,3 @@ As many of the NTDs are tackled using similar community mechanisms, an integrate
 
 * Reached 13.8 million people, with annual shot to reduce illness.
 * Distributed more than 110 million treatments in the three northern states of Kano, Katsina and Zamfara. 
-
-
-
-Communication and coordination
-Drug supply chain management
-Health systems strengthening
-Led by Sightsavers, the consortium also comprises Health Partners International, Helen Keller International, CBM, MITOSATH, Carter Centre, the Liverpool School of Tropical Medicine – Centre for Neglected Tropical Diseases (LSTM-CNTD) and the London Centre for NTD Research (comprising the Partnership for Child Development and the Schistosomiasis Control Initiative (SCI), Imperial College, University of London; the London School of Hygiene and Tropical Medicine (LSHTM), and the Natural History Museum), Accenture Development Partnerships and Crown Agents. 
