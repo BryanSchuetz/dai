@@ -5,6 +5,7 @@ summary: For nearly two years, the Sustainable Business Group’s Local Content 
   and Reporting online platform has been in operation in Sierra Leone. 
 start: 2016
 end: 2018
+client: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 solutions:
 - Corporate Sustainability
 - Local Content and Supply Chain Management
