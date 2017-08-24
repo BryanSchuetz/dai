@@ -1,5 +1,5 @@
 ---
-title: Africa—Local Content Country Case Studies
+title: Regional—Local Content Country Case Studies
 date: 2017-08-24 17:11:00 Z
 summary: The Sustainable Business Group (SBG) conducted a Local Content Regime Analysis
   (LCRA) in seven countries and provided a comparative analysis of the impacts of
