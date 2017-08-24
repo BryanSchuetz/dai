@@ -22,17 +22,21 @@ Health Partners International is responsible for the health systems strengthenin
 
 The targeted NTDs are preventable with proven, cost-effective interventions, such as mass drug administration, which involves distributing four drugs once or twice a year to everyone in a community to prevent the seven diseases.
 
-These drugs are donated, in whole or in part, by pharmaceutical companies, and distributed by community volunteers. MDA costs less than $0.50 to treat one person for a year, with the resulting cost effectiveness of less than $10 per disability adjusted life year (DALY) averted.
+As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach is used, in which drugs for different diseases are administered at the same time.
 
-As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach will be used, in which drugs for different diseases are administered at the same time.
+## Sample Activities 
 
-Sample Activities 
+* Conduct mapping of the NTDs.
+* Administer drugs.
+* Strengthen health systems.
+
+## Select Results
+
+* Reached 13.8 million people, with annual shot to reduce illness.
+* Distributed more than 110 million treatments in the three northern states of Kano, Katsina and Zamfara. 
 
 
-By 2016, the programme will reach 13.8 million people, with annual MDA to reduce illness, and will have distributed over 110 million treatments in the three northern states of Kano, Katsina and Zamfara. Funded by DFID, the four year programme comprises five key areas of activity:
 
-Mapping of NTDs
-Mass drug administration
 Communication and coordination
 Drug supply chain management
 Health systems strengthening
