@@ -5,8 +5,8 @@ summary: The Sustainable Business Group designed a methodology to help the World
   and International Finance Corporation provide investors with the data necessary
   to better understand the market for off-grid energy, and made that data accessible
   through a web-based, geo-analytical application.
-start: 2016
-end: 2016
+start: 2017
+end: 2017
 client: World Bank
 solutions:
 - Corporate Sustainability
