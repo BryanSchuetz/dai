@@ -1,5 +1,5 @@
 ---
-title: Regional–Off-Grid Energy Access Mapping in Sub-Saharan Africa
+title: Africa–Off-Grid Energy Access Mapping in Sub-Saharan Africa
 date: 2017-03-17 18:09:00 Z
 summary: The Sustainable Business Group designed a methodology to help the World Bank
   and International Finance Corporation provide investors with the data necessary
