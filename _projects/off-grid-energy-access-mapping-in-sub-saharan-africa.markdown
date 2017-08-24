@@ -1,5 +1,5 @@
 ---
-title: Regional–Off-grid Energy Access Mapping in Sub-Saharan Africa
+title: Africa–Off-grid Energy Access Mapping in Sub-Saharan Africa
 date: 2017-03-17 18:09:00 Z
 summary: The DAI Energy and Resources Group (DAI/ERG) designed a methodology to help
   the World Bank and International Finance Corporation provide investors with the
@@ -16,7 +16,7 @@ regions: Sub-Saharan Africa
 
 With more than one billion people around the world living without reliable and affordable electricity, an increasing number of off-grid energy technologies and business models are emerging in an effort to close this global energy access gap. While companies offering off-grid solutions are interested in the world’s most under-electrified areas, they often lack the critical information on market potential, electrical infrastructure, socioeconomic contexts, and energy demand required to make prudent investment decisions.
 
-The DAI Energy and Resources Group (DAI/ERG) designed a methodology to help the World Bank and International Finance Corporation provide investors with the data necessary to better understand the market for off-grid energy, and made that data accessible through a web-based, geo-analytical application. The resulting[ Off-Grid Market Opportunity Tool](http://offgrid.energydata.info/), built by project partner [Development Seed](https://developmentseed.org/), maps potential hot spots for investment across Sub-Saharan Africa, with additional in-depth, highly localized data for Nigeria, Tanzania, and Zambia.
+The Sustainable Business Group designed a methodology to help the World Bank and International Finance Corporation provide investors with the data necessary to better understand the market for off-grid energy, and made that data accessible through a web-based, geo-analytical application. The resulting[ Off-Grid Market Opportunity Tool](http://offgrid.energydata.info/), built by project partner [Development Seed](https://developmentseed.org/), maps potential hot spots for investment across Sub-Saharan Africa, with additional in-depth, highly localized data for Nigeria, Tanzania, and Zambia.
 
 ![tool_image_2.jpg](/uploads/tool_image_2.jpg)
 
