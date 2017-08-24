@@ -4,7 +4,7 @@ date: 2017-08-24 17:16:00 Z
 summary: The Sustainable Business Group (SBG) is utilizing its Local Content Optimization
   Model (LCOM) to complete an Industrial Baseline Analysis for Senegal.
 start: 2017
-end: 2017
+end: 2018
 solutions:
 - Corporate Sustainability
 regions: Sub-Saharan Africa
