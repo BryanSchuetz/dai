@@ -8,6 +8,7 @@ solutions:
 - Local Content and Supply Chain Management
 - Corporate Sustainability
 regions: Sub-Saharan Africa
+country: Regional
 ---
 
 The Sustainable Business Group (SBG) conducted a Local Content Regime Analysis (LCRA) in seven countries and provided a comparative analysis of the impacts of local content regimes. The countries examined included Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania and Papua New Guinea, Uganda. 
