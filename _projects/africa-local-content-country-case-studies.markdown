@@ -7,6 +7,8 @@ summary: The Sustainable Business Group (SBG) conducted a Local Content Regime A
 solutions:
 - Local Content and Supply Chain Management
 - Corporate Sustainability
+- 
+- 
 regions: Sub-Saharan Africa
 country: Regional
 ---
