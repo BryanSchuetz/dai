@@ -1,7 +1,6 @@
 ---
 title: Nigeria—Integrated Approach to Neglected Tropical Diseases (UNITED)
 date: 2017-08-24 14:39:00 Z
-published: false
 summary: The Integrated Approach to Neglected Tropical Diseases in Northern Nigeria
   programme (UNITED) supports the Nigerian government in controlling seven Neglected
   Tropical Diseases.
@@ -35,4 +34,4 @@ Led by Sightsavers, the consortium also comprises Helen Keller International, CB
 ## Select Results
 
 * Reached 13.8 million people, with annual shot to reduce illness.
-* Distributed more than 110 million treatments in the three northern states of Kano, Katsina and Zamfara. 
+* Distributed more than 110 million treatments in the three northern states of Kano, Katsina, and Zamfara. 
