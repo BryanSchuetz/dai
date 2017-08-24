@@ -3,7 +3,7 @@ title: Nigeria—Foundation Design and Market Development in the Niger Delta
 date: 2016-01-21 22:40:00 Z
 summary: DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of
   this Nigerian-registered [foundation](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220
-  ) by helping outline a strategy for its Economic Development Program
+  ) by helping outline a strategy for its Economic Development Program.
 start: 2010
 end: 2017
 client: NDPI Foundation and PIND (Funded by Chevron Corporation)
