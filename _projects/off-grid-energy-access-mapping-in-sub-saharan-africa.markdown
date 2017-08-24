@@ -24,7 +24,5 @@ The Sustainable Business Group designed a methodology to help the World Bank and
 **Select Results**
 
 * Leveraged our experience assessing consumers’ electricity access and ability to pay for electricity services to develop a data framework for characterizing off-grid markets based on demographics, energy access, energy demand, financing and payments, productive uses, land use, and renewable potential.
-
 * Utilized open source data sets to advise on strategies for identifying areas without electrical grid service and calculating basic energy expenditure at a subnational level.
-
 * Combined datasets with solar irradiance data to provide investors with a decision-making tool to analyze and visualize market potential throughout Sub-Saharan Africa.
