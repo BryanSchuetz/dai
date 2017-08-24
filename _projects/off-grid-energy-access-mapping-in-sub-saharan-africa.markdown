@@ -1,10 +1,10 @@
 ---
-title: Africa–Off-Grid Energy Access Mapping in Sub-Saharan Africa
+title: Regional–Off-Grid Energy Access Mapping in Sub-Saharan Africa
 date: 2017-03-17 18:09:00 Z
-summary: The DAI Energy and Resources Group (DAI/ERG) designed a methodology to help
-  the World Bank and International Finance Corporation provide investors with the
-  data necessary to better understand the market for off-grid energy, and made that
-  data accessible through a web-based, geo-analytical application.
+summary: The Sustainable Business Group designed a methodology to help the World Bank
+  and International Finance Corporation provide investors with the data necessary
+  to better understand the market for off-grid energy, and made that data accessible
+  through a web-based, geo-analytical application.
 start: 2016
 end: 2016
 client: World Bank
