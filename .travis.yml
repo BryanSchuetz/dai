@@ -1,4 +1,5 @@
 sudo: false
+dist: precise
 language: node_js
 node_js:
   - "0.12"
@@ -11,7 +12,7 @@ cache:
     - node_modules
 
 script:
-  - npm install -g
+  - npm install
   - gulp aggregate
   - bundle install
   - JEKYLL_ENV=prod bundle exec jekyll build

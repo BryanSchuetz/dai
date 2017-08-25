@@ -26,38 +26,56 @@ promos:
 related: false
 layout: solution
 ---
-
-## Sustainable Business Group
-
-DAI’s Energy and Resources Group (ERG) expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
+DAI’s **Sustainable Business Group (SBG)** supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. Our experts help unlock the commercial potential in growth markets by advising companies on how to **secure the social license to operate, comply with local laws** and regulations, participate in the country’s **socio-economic development**, and become a **trusted partner for the government.**
 
 <aside>
-<h2>Our Unique Approach</h2>
-<p>DAI uses empirical evidence and technical analysis to empower our clients to spend smarter. We are a full-service provider with the flexibility to offer:</p>
+<h2>Why SBG?</h2>
 <ul>
-  <li>Surge and long-term capacity to supplement in-house teams</li>
-  <li>Strategy design and market entry analysis</li>
-  <li>Program design, inception, and implementation</li>
-  <li>Performance monitoring, evaluation, and reporting</li>
+  <li>SBG has the expertise and knowledge to advance your business in developing and emerging markets.</li>
+  <li>SBG has deep experience navigating the political, legal, and regulatory environments of transitioning countries.</li>
+  <li>SBG is your trusted partner in building your reputation as a responsible global business working locally.</li>
 </ul>
 </aside>
 
+## The SBG Approach
+
+Our approach is defined by 40 years of development experience around the world. We rely on data-driven technical analysis and on-the-ground experience to structure successful country engagements and investments in emerging markets. We provide a full suite of approaches, including:
+
+* Economic and policy analysis 
+* Corporate capacity development
+* Strategy formulation
+* Program design and implementation
+* Performance monitoring and evaluation
+* Short-term and long-term human resource surge capacity 
+
 ## Industries
 
-ERG works across many sectors, including Oil & Gas, Mining, Renewable Energy, Infrastructure, Retail, and more. 
+SBG works across industries including oil and gas, metals and mining, capital projects and infrastructure, renewable energy, retail, food and beverage, financial services, telecommunications, and more.
 
-## Services
+## Technical Service Areas: 
 
-ERG works with companies in the oil, gas, mining, and renewable energy sectors to provide solutions to business needs, including:
+**[Local Content Solutions](/our-work/solutions/corporate/local-content-and-supply-chain-management)**
 
-* [Local Content and Supply Chain Management](/our-work/solutions/corporate/local-content-and-supply-chain-management). We use our suite of analytical tools and data sets to uncover market insights that optimize local supply chains and maximize local content capture.
-* [Corporate Social Investment](/our-work/solutions/corporate/social-strategy). We design and manage impactful initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals.
-* Government and Community Engagement. We secure our clients’ social license to operate by assessing above-ground risk and establishing trusted partnerships with key stakeholders to mitigate those risks.
+Today’s global supply chain is comprised of millions of small firms. Cost savings often drive companies to seek local suppliers, but that cost advantage—and the company brand—will be at risk if suppliers cannot meet market expectations for quality and reliability. Compounding the challenge are the limited numbers of capable local suppliers, a likely lack of in-house expertise to assess or build suppliers’ capabilities, and inadequate collaboration among operators, contractors, communities, and governments. 
 
-<hr>
+We help companies overcome these challenges and improve compliance with local content requirements in cost-effective ways, thereby supporting economic development, strengthening relationships with local communities and government, and—over time—lowering procurement costs. 
+
+**Corporate Social Investment Solutions**
+
+We design and manage initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals. Using the latest ICT tools to inform unique program designs, SBG helps businesses build and shape sustainable and socially responsible profiles.
+
+**Government Engagement Solutions** 
+
+We secure our clients’ social license to operate by assessing above-ground risk and establishing trusted partnerships with key stakeholders to mitigate those risks.
+
+**Performance Monitoring, Evaluation, and Reporting Solutions** 
+
+We work with clients to assess their impact and provide premium reporting to support performance improvement and transparency. This recounting is critical to ensuring responsible business practices in emerging markets.
+
+<!-- <hr>
 
 <iframe src="https://player.vimeo.com/video/210303653"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-`Now in its second year, KIC is supporting a group of 80 young entrepreneurs in developing innovative, technology-driven business concepts to address Ghana’s pressing development issues.`
+`Now in its second year, KIC is supporting a group of 80 young entrepreneurs in developing innovative, technology-driven business concepts to address Ghana’s pressing development issues.` -->
 
 <!-- ## Featured Experts
 
