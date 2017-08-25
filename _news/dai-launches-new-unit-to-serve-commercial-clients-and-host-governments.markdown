@@ -12,7 +12,7 @@ DAI today announced the launch of the Sustainable Business Group, a unit designe
 
 DAI’s Sustainable Business Group integrates a suite of services previously offered through DAI’s Energy & Resources Group, which focused on the oil, gas, and mining sectors; Local Content Solutions (LCS), the world’s premier local content strategy firm, which was founded by Michael Warner and [acquired by DAI](https://www.dai.com/news/dai-joins-forces-with-local-content-solutions-ltd) in March of this year; and DAI’s technical services teams.
 
-> “Local content strategy, social investment solutions, government and community engagement—these kinds of issues are increasingly important for all companies, whatever sector they’re in and wherever they operate,” - Zachary Kaplan, Director of the Sustainable Business Group. 
+> “Local content strategy, social investment solutions, government and community engagement—these kinds of issues are increasingly important for all companies, whatever sector they’re in and wherever they operate,” - **Zachary Kaplan**, Director of the Sustainable Business Group. 
 
 “We have seen striking success over the past two years working alongside forward-looking clients and host governments to address these sustainability issues in the extractives industries,” added Kaplan. “Given the growth in that business line, the successful integration of LCS, and the investments we have made in expertise, in empirical data, and in unique software products, now is the time to bring our capabilities to a broader client base.”
 
