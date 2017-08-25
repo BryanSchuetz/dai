@@ -28,7 +28,7 @@ related: false
 layout: solution
 ---
 
-DAI’s **Sustainable Business Group (SBG)** supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. Our experts help unlock the commercial potential in growth markets by advising companies on how to **secure the social license to operate, comply with local laws** and regulations, participate in the country’s **socio-economic development**, and become a **trusted partner for the government.**
+DAI’s **Sustainable Business Group (SBG)** supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. Our experts help unlock the commercial potential in growth markets by advising companies on how to **optimize their local supply base** and labor force, **comply with local content requirements**, **demonstrate their long-term commitment** to the country's development, and become a **trusted partner for government.**
 
 <aside>
 <h2>Why SBG?</h2>
@@ -41,14 +41,14 @@ DAI’s **Sustainable Business Group (SBG)** supports private companies to be sm
 
 ## The SBG Approach
 
-Our approach is defined by 40 years of development experience around the world. We rely on data-driven technical analysis and on-the-ground experience to structure successful country engagements and investments in emerging markets. We provide a full suite of approaches, including:
+Client focused and data-driven, our approach is defined by 40 years of development experience around the world. We rely on data-rich technical analysis and on-the-ground relationships to structure successful services engagements and investments in emerging markets, with an unwavering commitment to our clients and the countries where they work. We provide a full suite of services, including:
 
 * Economic and policy analysis 
 * Corporate capacity development
 * Strategy formulation
 * Program design and implementation
 * Performance monitoring and evaluation
-* Short-term and long-term human resource surge capacity 
+* Short- and long-term human resource surge capacity 
 
 ## Industries
 
@@ -64,15 +64,15 @@ Today’s global supply chain is comprised of millions of small firms. Cost savi
 
 We help companies overcome these challenges and improve compliance with local content requirements in cost-effective ways, thereby supporting economic development, strengthening relationships with local communities and government, and—over time—lowering procurement costs. 
 
-**Corporate Social Investment Solutions**
+**Corporate Social Investment**
 
 We design and manage initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals. Using the latest ICT tools to inform unique program designs, SBG helps businesses build and shape sustainable and socially responsible profiles.
 
-**Government Engagement Solutions** 
+**Government Engagement** 
 
 We secure our clients’ social license to operate by assessing above-ground risk and establishing trusted partnerships with key stakeholders to mitigate those risks.
 
-**Performance Monitoring, Evaluation, and Reporting Solutions** 
+**Performance Monitoring, Evaluation, and Reporting** 
 
 We work with clients to assess their impact and provide premium reporting to support performance improvement and transparency. This recounting is critical to ensuring responsible business practices in emerging markets.
 
