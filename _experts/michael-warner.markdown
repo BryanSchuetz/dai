@@ -3,12 +3,12 @@ title: Michael Warner
 date: 2017-05-09 16:37:00 Z
 lastname: 'Warner '
 summary: Michael Warner is one of the world’s leading authorities on local content
-  in the context of the oil and gas, mining, and infrastructure sectors. He is Managing
-  Director of Local Content Solutions Ltd. (LCS), an advisory and training company
-  providing services to operators, regulators, and international suppliers on local
-  content policy, regulation, strategy, local market gap analysis, tender procedures,
-  and performance reporting metrics.
-job-title: Managing Director, Local Content Solutions
+  in the context of the oil and gas, mining, and infrastructure sectors. He was previously
+  the Managing Director of Local Content Solutions Ltd. (LCS), an advisory and training
+  company providing services to operators, regulators, and international suppliers
+  on local content policy, regulation, strategy, local market gap analysis, tender
+  procedures, and performance reporting metrics.
+job-title: Senior Technical Advisor, Sustainable Business Group
 image: "/uploads/warner.jpg"
 solutions:
 - Sustainable Business
@@ -19,7 +19,7 @@ articles:
   article_file: https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644
 ---
 
-Michael Warner is one of the world’s leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors. He is Managing Director of Local Content Solutions Ltd. (LCS), an advisory and training company providing services to operators, regulators, and international suppliers on local content policy, regulation, strategy, local market gap analysis, tender procedures, and performance reporting metrics. [LCS was acquired by DAI in 2017](/news/dai-joins-forces-with-local-content-solutions-ltd).
+Michael Warner is one of the world’s leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors. He was previously the Managing Director of Local Content Solutions Ltd. (LCS), an advisory and training company providing services to operators, regulators, and international suppliers on local content policy, regulation, strategy, local market gap analysis, tender procedures, and performance reporting metrics. [LCS was acquired by DAI in 2017](/news/dai-joins-forces-with-local-content-solutions-ltd).
 
 As the founder and lead trainer of the formally accredited and highly successful LCS Local Content Master Class, Michael has trained more than 400 professionals in local content, and he is the architect of LCS Reports, the widely used online local content reporting tool.
 
