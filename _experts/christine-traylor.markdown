@@ -6,7 +6,7 @@ summary: As Operations Manager for DAI’s Sustainable Business Group, Christine
   develops and implements new processes that help the group streamline key business
   functions.
 job-title: Operations Manager, Sustainable Business Group
-image: "/uploads/Christine_Traylor.jpg"
+image: "/uploads/traylor.jpg"
 solutions:
 - Sustainable Business
 ---
