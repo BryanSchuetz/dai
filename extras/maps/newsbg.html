@@ -107,6 +107,7 @@ var map = new mapboxgl.Map({
     zoom: 3, // starting zoom
     pitch: 40,
 });
+map.scrollZoom.disable();
 // map.scrollZoom.disable();
 var nav = new mapboxgl.NavigationControl();
 map.addControl(nav, 'top-left');

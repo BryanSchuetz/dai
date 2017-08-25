@@ -6,7 +6,7 @@ summary: Originally from North Carolina, Zachary Kaplan never planned to become 
   development professional. Instead, he wanted to be a veterinarian. However, after
   creating an international development outreach program as a graduate student, Zach
   decided to pursue a career in development instead.
-job-title: Director, Energy and Resources Group
+job-title: Director, Sustainable Business Group
 image: https://assetify-dai.com/experts/KaplanInner.jpg
 solutions:
 - Business Environment Reform

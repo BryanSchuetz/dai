@@ -26,7 +26,7 @@ layout: expert
 
 John DeRiggi is a spatial products developer with 10 years of experience in software and data engineering. John learned Java in college and started his career developing Java-based web applications, which were used to help analysts make sense of massive data sets. After working as a consultant and research programmer for Booz Allen and the RAND Corporation in Washington, D.C., John moved to Rwanda for a year, where he taught programing and developed components for an open source medical record system for Partners in Health. 
 
-His work with GIS includes building a system to share climate data at the World Bank to support the 2012 Apps for Climate contest, which was later added to the Bank's portfolio of open data products. John currently develops data-driven analytical and visualization tools for DAI's Energy and Resources Group, including building out their local supply chain modeling and forecasting software.
+His work with GIS includes building a system to share climate data at the World Bank to support the 2012 Apps for Climate contest, which was later added to the Bank's portfolio of open data products. John currently develops data-driven analytical and visualization tools for DAI's Sustainable Business Group, including building out their local supply chain modeling and forecasting software.
 
 * B.S., computer science, University of Colorado
 

@@ -7,7 +7,7 @@ summary: 'Warwick Strong was born in Zimbabwe and spent his formative years in S
   in 2000 from the United Kingdom''s Royal Military Academy.
 
 '
-job-title: Mining Sector Specialist, Energy and Resources Group
+job-title: Mining Sector Specialist, Sustainable Business Group
 image: https://assetify-dai.com/experts/Slice.jpg
 solutions:
 - Sustainable Business

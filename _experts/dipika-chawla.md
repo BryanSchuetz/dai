@@ -9,19 +9,19 @@ solutions:
 - Social Strategy
 layout: expert
 image: https://assetify-dai.com/experts/dipika.jpg
-summary: 'As part of the Energy and Resources Group, Dipika Chawla leads the communications
+summary: 'As part of the Sustainable Business Group, Dipika Chawla leads the communications
   strategy, designs technical service offerings, performs market intelligence on extractive
   industries in developing countries, and conducts new business efforts.
 
 '
-job-title: Senior Analyst, Energy and Resources Group
+job-title: Senior Analyst, Sustainable Business Group
 articles:
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”
     _DAIdeas_"
   article_file: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/?utm_source=daidotcom
 ---
 
-As part of the Energy and Resources Group, Dipika Chawla leads the communications strategy, designs technical service offerings, performs market intelligence on extractive industries in developing countries, and conducts new business efforts. She specializes in optimizing local content strategies and maximizing ROI of corporate social investment programs for private sector clients.
+As part of the Sustainable Business Group, Dipika Chawla leads the communications strategy, designs technical service offerings, performs market intelligence on extractive industries in developing countries, and conducts new business efforts. She specializes in optimizing local content strategies and maximizing ROI of corporate social investment programs for private sector clients.
 
 Before joining DAI, Dipika worked in the World Bank's Trade and Competitiveness practice, researching public policy tools for fostering innovation in East Asia. She has also worked for the Rainforest Alliance, an NGO that works with agricultural, forestry, and tourism companies to promote sustainable livelihoods worldwide. She speaks French in addition to her native English and is working on Spanish in her spare time.
 

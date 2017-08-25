@@ -53,6 +53,8 @@ Our approach is defined by 40 years of development experience around the world. 
 
 SBG works across industries including oil and gas, metals and mining, capital projects and infrastructure, renewable energy, retail, food and beverage, financial services, telecommunications, and more.
 
+<iframe src="/extras/maps/newsbg.html" frameborder="0"></iframe>
+
 ## Technical Service Areas: 
 
 **[Local Content Solutions](/our-work/solutions/corporate/local-content-and-supply-chain-management)**

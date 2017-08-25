@@ -31,7 +31,7 @@ The KIC will initially focus on agriculture—the largest sector in Ghana's econ
 * **Incubation**: surfacing and then supporting promising start-ups through seed funding, technical assistance, and mentorship
 * **Acceleration**: investing in small businesses with the potential to provide private sector solutions to market problems
 
-"Kosmos is a forward-thinking company," said [Zachary Kaplan][4], Director of DAI's Energy and Resources Group, which helped conceive the initiative. "The firm has growing roots and a long-term stake in Ghana, and is acting on that long-term commitment with a bold investment beyond the oil and gas industry. A stronger, more diverse, and more vibrant economy is in everyone's interest: Kosmos is doing its part to help bring that about."
+"Kosmos is a forward-thinking company," said [Zachary Kaplan][4], Director of DAI's Sustainable Business Group, which helped conceive the initiative. "The firm has growing roots and a long-term stake in Ghana, and is acting on that long-term commitment with a bold investment beyond the oil and gas industry. A stronger, more diverse, and more vibrant economy is in everyone's interest: Kosmos is doing its part to help bring that about."
 
 Kosmos Energy is a leading independent oil and gas exploration and production company focused on frontier and emerging areas along the Atlantic Margin. Its assets include production and other major development projects offshore Ghana, as well as exploration licenses offshore Ireland, Mauritania, Morocco, Portugal, Senegal, Suriname, and Western Sahara.
 
