@@ -12,7 +12,7 @@ client:
 - World Bank
 - U.K. Department for International Development
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 regions:
 - Sub-Saharan Africa
 country:

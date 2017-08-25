@@ -9,7 +9,7 @@ regions:
 country:
 - Regional
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Economic Growth
 - Governance
 layout: project

@@ -8,7 +8,7 @@ start: 2010
 end: 2017
 client: NDPI Foundation and PIND (Funded by Chevron Corporation)
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Economic Growth
 regions:
 - Sub-Saharan Africa

@@ -10,7 +10,7 @@ summary: 'Warwick Strong was born in Zimbabwe and spent his formative years in S
 job-title: Mining Sector Specialist, Energy and Resources Group
 image: https://assetify-dai.com/experts/Slice.jpg
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 regions:
 - Sub-Saharan Africa

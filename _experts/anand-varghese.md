@@ -10,7 +10,7 @@ solutions:
 - Governance
 - Digital
 - Social Strategy
-- Corporate Sustainability
+- Sustainable Business
 regions:
 - Asia and the Pacific
 - Middle East and North Africa

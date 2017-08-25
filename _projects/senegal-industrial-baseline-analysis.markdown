@@ -6,7 +6,7 @@ summary: The Sustainable Business Group (SBG) is utilizing its Local Content Opt
 start: 2017
 end: 2018
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 regions: Sub-Saharan Africa
 country: Senegal
 ---

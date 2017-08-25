@@ -3,7 +3,7 @@ title: DAI to Collaborate with ExxonMobil on Centre for Local Business Developme
   in Guyana
 date: 2017-06-26 17:43:00 Z
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 regions: Latin America and the Caribbean
 summary: 'DAI will work with Esso Exploration and Production Guyana Ltd (EEPGL), an
   affiliate of ExxonMobil, to support EEPGL’s establishment of the Centre for Local
@@ -14,7 +14,7 @@ DAI today announced it will work with Esso Exploration and Production Guyana Ltd
 
 
 
-“We are delighted to support ExxonMobil in its work to develop local businesses and drive inclusive economic growth,” said [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Director of DAI’s [Energy and Resources Group](https://www.dai.com/our-work/solutions/corporate-sustainability).
+“We are delighted to support ExxonMobil in its work to develop local businesses and drive inclusive economic growth,” said [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Director of DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).
 
 “The Centre for Local Business Development is an investment in the people of Guyana and the future of the country. ExxonMobil is proud to assist in designing and opening this important resource center,” said Rod Henson, country manager for ExxonMobil in Guyana. “The Centre will play a key role in furthering the capabilities of local businesses that we are eager to partner with.” 
 

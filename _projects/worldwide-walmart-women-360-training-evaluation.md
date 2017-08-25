@@ -9,7 +9,7 @@ regions:
 country:
 - Regional
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Economic Growth
 layout: project
 summary: 'DAI was part of a team working with the Walmart Foundation to evaluate the

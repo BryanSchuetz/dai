@@ -7,7 +7,7 @@ start: 2017
 end: 2017
 client: Ghana Petroleum Commission
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa
 country: Ghana

@@ -8,7 +8,7 @@ start: 2014
 end: 2016
 client: Niger Delta Partnership Initiative Foundation
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - 
 regions: Sub-Saharan Africa
 country: Nigeria

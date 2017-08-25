@@ -7,7 +7,7 @@ start: 2016
 end: 2018
 client: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa
 country: Sierra Leone

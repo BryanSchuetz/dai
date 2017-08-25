@@ -9,7 +9,7 @@ regions:
 country:
 - Regional
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Economic Growth
 layout: project
 summary: 'Public-private partnerships leverage external funds from corporations, foundations,

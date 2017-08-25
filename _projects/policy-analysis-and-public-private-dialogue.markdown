@@ -9,7 +9,7 @@ start: 2016
 end: 2017
 client: Oil and Gas Assoication of Tanzania
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 - 
 regions: Sub-Saharan Africa

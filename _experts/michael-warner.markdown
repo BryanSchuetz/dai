@@ -11,7 +11,7 @@ summary: Michael Warner is one of the world’s leading authorities on local con
 job-title: Managing Director, Local Content Solutions
 image: "/uploads/warner.jpg"
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 articles:
 - name: "*Local Content in Procurement: Creating Local Jobs and Competitive Domestic

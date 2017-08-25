@@ -3,7 +3,7 @@ title: DAI Joins Forces with Local Content Solutions Ltd.
 date: 2017-04-06 15:32:00 Z
 is_featured: true
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 summary: DAI today announced that it is joining forces with [Local Content Solutions
   Ltd](http://www.localcontentsolutions.com/). (LCS). Led by Dr. Michael Warner, the
   U.K.-based LCS is a global leader in providing consulting and software solutions
@@ -15,7 +15,7 @@ DAI today announced that it is joining forces with [Local Content Solutions Ltd]
 
 <!--more-->
 
-“We are delighted to welcome Michael and his company to the DAI team,” said [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Director of DAI’s [Energy and Resources Group](https://www.dai.com/our-work/solutions/corporate-sustainability). “Michael is recognized as the pre-eminent thought and practice leader in the space of local content and local supply chain development. He will enrich our thinking in this area, and in turn DAI will afford him a more powerful global platform to amplify the impact of his work.”
+“We are delighted to welcome Michael and his company to the DAI team,” said [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Director of DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business). “Michael is recognized as the pre-eminent thought and practice leader in the space of local content and local supply chain development. He will enrich our thinking in this area, and in turn DAI will afford him a more powerful global platform to amplify the impact of his work.”
 
 The Energy and Resources Group works at the intersection of development and business. In the oil, gas, mining, and infrastructure sectors, the Group delivers services in corporate social investment, government and community engagement, and local content and related supply chain management.
 

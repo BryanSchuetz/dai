@@ -8,7 +8,7 @@ start: 2017
 end: 2018
 client: Multinational Corporation
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 regions: Sub-Saharan Africa
 country: Senegal
 ---

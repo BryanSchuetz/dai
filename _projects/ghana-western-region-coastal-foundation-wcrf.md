@@ -10,7 +10,7 @@ start: 2014
 end: 2019
 client: U.K. Department for International Development
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Economic Growth
 - Local Content and Supply Chain Management
 - 

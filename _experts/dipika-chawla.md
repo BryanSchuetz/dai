@@ -5,7 +5,7 @@ lastname: Chawla
 regions:
 - Sub-Saharan Africa
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Social Strategy
 layout: expert
 image: https://assetify-dai.com/experts/dipika.jpg

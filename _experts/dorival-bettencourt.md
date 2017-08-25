@@ -5,7 +5,7 @@ lastname: Bettencourt
 regions:
 - Sub-Saharan Africa
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 - Social Strategy
 layout: expert

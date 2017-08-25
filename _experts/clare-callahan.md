@@ -9,7 +9,7 @@ summary: 'Clare Callahan provides project management, financial management, busi
 job-title: Analyst, Energy and Resources Group
 image: https://assetify-dai.com/experts/clare.jpg
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 - Social Strategy
 regions:

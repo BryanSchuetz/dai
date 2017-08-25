@@ -7,7 +7,7 @@ tags:
 - economic growth
 solutions:
 - Economic Growth
-- Corporate Sustainability
+- Sustainable Business
 - Agriculture and Food Security
 regions: Sub-Saharan Africa
 summary: In 2016, DAI partnered with Kosmos Energy to launch the the Kosmos Innovation

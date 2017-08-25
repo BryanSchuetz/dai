@@ -7,7 +7,7 @@ summary: 'Alyssa Menz provides technical support on business development, market
 job-title: Associate Analyst
 image: "/uploads/Alyssa%20Menz.jpg"
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Social Strategy
 ---
 

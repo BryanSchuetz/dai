@@ -8,7 +8,7 @@ summary: 'Olga Dzharimbetova brings strong analytical skills and sector knowledg
 job-title: Senior Analyst
 image: "/uploads/Olga%20mug.jpg"
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 - Social Strategy
 - 

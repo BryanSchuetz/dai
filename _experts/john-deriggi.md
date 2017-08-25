@@ -8,7 +8,7 @@ summary: 'John DeRiggi is a spatial products developer with 10 years of experien
 job-title: Principal Software Developer
 image: https://assetify-dai.com/experts/DeRiggiInner.jpg
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 regions:
 - Asia and the Pacific

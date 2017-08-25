@@ -8,7 +8,7 @@ start: 2015
 end: 2017
 client: Kosmos Energy
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Innovation and Entrepreneurship
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa

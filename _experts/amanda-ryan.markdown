@@ -8,7 +8,7 @@ summary: Amanda Ryan specializes in local content for the mining and oil and gas
 job-title: Associate Analyst, Energy and Resources Group
 image: "/uploads/Amanda%20Leigh%20Ryan.jpg"
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Local Content and Supply Chain Management
 ---
 

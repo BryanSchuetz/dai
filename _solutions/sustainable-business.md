@@ -1,7 +1,7 @@
 ---
-title: Corporate Sustainability
+title: Sustainable Business
 date: 2016-01-21 18:23:00 Z
-permalink: our-work/solutions/corporate-sustainability
+permalink: our-work/solutions/sustainable-business
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#corp-badge"></use></svg>
 summary: Helping our clients achieve significantly higher social and business returns
@@ -10,20 +10,15 @@ type: primary
 redirect_from:
 - "/erg"
 - "/who-we-are/energy-and-resources-group"
+- "/sustainable-business"
+- "/who-we-are/sustainable-business"
 promos:
-- title: "**Our Team:** DAI Corporate Sustainability Experts"
-  link: "/who-we-are/the-team?filter=corporate-sustainability"
-- title: "**Our Work:** DAI Corporate Sustainability Projects"
-  link: "/our-work/the-projects?filter=corporate-sustainability"
-- title: "**News:** Recent Corporate Sustainability News"
-  link: "/news/view-more-news?filter=corporate-sustainability"
-- title: "**Project**: _Niger Delta Electricity Sector Assessment and Investment Strategy_"
-  link: "/uploads/chevron.pdf"
-- title: "**Project**: _Local Content Demand and Supply Study for Liquefied Natural_
-    Gas"
-  link: "/uploads/wb.pdf"
-- title: "**Project**: _Corporate Social investment Program for Entrepreneurs in Ghana_"
-  link: "/uploads/kosmos.pdf"
+- title: "**Our Team:** DAI Sustainable Business Experts"
+  link: "/who-we-are/the-team?filter=sustainable-business"
+- title: "**Our Work:** DAI Sustainable Business Projects"
+  link: "/our-work/the-projects?filter=sustainable-business"
+- title: "**News:** Recent Sustainable Business News"
+  link: "/news/view-more-news?filter=sustainable-business"
 - title: "**Analysis**: _Unlocking Content_"
   link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/?utm_source=daidotcom
 - title: "**News**:_Tech Startups in Ghana_"
@@ -32,7 +27,7 @@ related: false
 layout: solution
 ---
 
-## Energy and Resources Group
+## Sustainable Business Group
 
 DAI’s Energy and Resources Group (ERG) expertly navigates the intersection of development and business, enabling companies and communities to prosper together. Drawing on our 46 years of experience in emerging markets, we help companies enter new markets quickly, expand existing operations, and reduce investment and operational risks by engaging productively with local vendors and communities.
 

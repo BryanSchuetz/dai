@@ -6,7 +6,7 @@ summary: The Sustainable Business Group has in-house capacity and experience wor
 start: 2017
 end: 2018
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 regions: Middle East and North Africa
 country: Regional
 ---

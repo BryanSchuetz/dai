@@ -9,7 +9,7 @@ regions:
 country:
 - South Africa
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 layout: project
 summary: 'In September 2011, the South Africa-based Sishen Iron Ore Company Community
   Development Trust learned it would receive dividends of more than $1 billion. It

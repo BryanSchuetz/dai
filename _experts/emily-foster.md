@@ -11,7 +11,7 @@ summary: 'Emily Foster is an analyst with extensive experience in technical and 
 job-title: Analyst, Energy and Resources Group
 image: https://assetify-dai.com/experts/emily.jpg
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 regions:
 - Sub-Saharan Africa
 layout: expert

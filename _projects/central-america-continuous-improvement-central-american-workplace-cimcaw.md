@@ -9,7 +9,7 @@ regions:
 country:
 - Regional
 solutions:
-- Corporate Sustainability
+- Sustainable Business
 - Governance
 layout: project
 summary: 'In the globalizing economy, the challenge of implementing international
