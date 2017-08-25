@@ -26,6 +26,7 @@ promos:
 related: false
 layout: solution
 ---
+
 DAI’s **Sustainable Business Group (SBG)** supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. Our experts help unlock the commercial potential in growth markets by advising companies on how to **secure the social license to operate, comply with local laws** and regulations, participate in the country’s **socio-economic development**, and become a **trusted partner for the government.**
 
 <aside>
