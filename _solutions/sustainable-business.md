@@ -12,6 +12,7 @@ redirect_from:
 - "/who-we-are/energy-and-resources-group"
 - "/sustainable-business"
 - "/who-we-are/sustainable-business"
+- "/sbg"
 promos:
 - title: "**Our Team:** DAI Sustainable Business Experts"
   link: "/who-we-are/the-team?filter=sustainable-business"
