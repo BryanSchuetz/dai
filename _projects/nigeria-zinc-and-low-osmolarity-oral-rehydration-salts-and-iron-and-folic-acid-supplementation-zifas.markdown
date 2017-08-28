@@ -2,7 +2,6 @@
 title: Nigeria—Zinc and Low-osmolarity Oral Rehydration Salts and Iron and Folic Acid
   Supplementation (ZIFAS)
 date: 2017-08-28 20:05:00 Z
-published: false
 summary: ZIFAS increased the coverage and quality of antenatal care using low dose
   IFAS to reduce pregnancy related illnesses and deaths resulting from anaemia in
   pregnancy in Nigeria.
