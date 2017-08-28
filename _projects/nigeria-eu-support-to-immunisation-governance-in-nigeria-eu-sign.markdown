@@ -3,8 +3,8 @@ title: Nigeria—EU Support to Immunisation Governance in Nigeria (EU-SIGN)
 date: 2017-08-28 17:43:00 Z
 published: false
 summary: 'The EU Support to Immunisation Governance in Nigeria (EU-SIGN) project is
-  improving maternal newborn and child health by protecting children along and their
-  mothers from vaccine preventable diseases. '
+  improving maternal newborn and child health by protecting children and their mothers
+  from preventable diseases. '
 start: 2014
 end: 2017
 client: European Commission
@@ -12,14 +12,16 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The EU Support to Immunisation Governance in Nigeria (EU-SIGN) project is improving maternal newborn and child health (MNCH) in Nigeria by protecting children along and their mothers from vaccine preventable diseases. Focused on strengthening the governance of immunisation programming at State and Local Government Area levels, EU-SIGN works with stakeholders to shore up the systems and resource deployment necessary to improve routine immunization. It seeks to align governance and accountability in immunisation with stewardship transformation in the Nigerian health sector.
+The EU Support to Immunisation Governance in Nigeria (EU-SIGN) project is improving maternal newborn and child health (MNCH) by protecting children and their mothers from preventable diseases. Focused on strengthening the governance of immunisation programming at State and Local Government Area levels, EU-SIGN works with stakeholders to shore up the systems and resource deployment necessary to improve routine immunization. It seeks to align governance and accountability in immunisation with stewardship transformation in the Nigerian health care sector.
 
-Funded by the European Union, initially for a period of three years, the project will strengthen the governance of routine immunisation at the Federal level (Abuja FCT) and across 23 States (Abia, AkwaIbom, Anambra, Bauchi, Cross River, Ebonyi, Edo, Gombe, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Ogun, Osun, Plateau, Rivers, Sokoto, Yobe and Zamfara).
+Funded by the European Union, the project strengthens the governance of routine immunisation at the Federal level and across 23 states.
 
-The project works closely with the National Primary Health Care Development Agency (NPHCDA) and its State level counterparts to ensure sustainable quality routine immunisation services are permanently available through:
+The project works closely with the National Primary Health Care Development Agency (NPHCDA) and its counterparts to ensure sustainable quality routine immunisation services.
 
-effective management systems , policies and guidelines for primary health care;
-improved delivery of routine immunization services via the primary health care system including infrastructure, transport and equipment; and,
+## Sample Activities
+
+* Craft policies and guidelines for primary health care.
+* Improve delivery of routine immunization services via the primary health care system including infrastructure, transport and equipment; and,
 improved information and knowledge generation for routine immunisation including operational or implementation research to drive policies and planning.
 The project also contributes to Nigerian Polio Eradication by assisting the WHO-supported effort to accelerate the reduction in the wild polio virus transmission in Nigeria to less than five case per annum by the end of 2014. 
 
