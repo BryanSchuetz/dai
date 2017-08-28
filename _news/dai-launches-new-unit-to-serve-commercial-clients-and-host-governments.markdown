@@ -2,6 +2,7 @@
 title: DAI Launches New Unit to Serve Commercial Clients and Host Governments
 date: 2017-08-25 18:23:00 Z
 published: false
+is_featured: true
 solutions:
 - Sustainable Business
 summary: DAI today announced the launch of the Sustainable Business Group, a unit
