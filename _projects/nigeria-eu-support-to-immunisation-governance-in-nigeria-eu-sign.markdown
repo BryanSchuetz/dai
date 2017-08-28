@@ -10,6 +10,7 @@ client: European Commission
 solutions:
 - Health Governance
 - Sustainable and Accountable Health Services
+- Health
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
