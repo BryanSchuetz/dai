@@ -2,6 +2,9 @@
 title: Nigeria—EU Support to Immunisation Governance in Nigeria (EU-SIGN)
 date: 2017-08-28 17:43:00 Z
 published: false
+summary: 'The EU Support to Immunisation Governance in Nigeria (EU-SIGN) project is
+  improving maternal newborn and child health by protecting children along and their
+  mothers from vaccine preventable diseases. '
 start: 2014
 end: 2017
 client: European Commission
