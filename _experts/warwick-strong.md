@@ -2,11 +2,9 @@
 title: Warwick Strong
 date: 2016-01-21 22:18:00 Z
 lastname: Strong
-summary: 'Warwick Strong was born in Zimbabwe and spent his formative years in Southern
-  Africa. He then joined the British Army in 1998 and was commissioned as an officer
-  in 2000 from the United Kingdom''s Royal Military Academy.
-
-'
+summary: Warwick Strong has worked for major mining companies in Ethiopia, Kenya,
+  Madagascar, and Mauritania, where he developed local content policies, managed local
+  suppliers, and successfully led and implemented local business development projects.
 job-title: Mining Sector Specialist, Sustainable Business Group
 image: https://assetify-dai.com/experts/Slice.jpg
 solutions:
