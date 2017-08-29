@@ -2,7 +2,6 @@
 title: Nigeria—Partnership for Reviving Routine Immunization in Northern Nigeria /
   Maternal Newborn and Child Health (PRRINN/MNCH)
 date: 2017-08-29 18:48:00 Z
-published: false
 summary: Covering a population of approximately 19 million in four states of Northern
   Nigeria, the Partnership for Reviving Routine Immunization in Northern Nigeria /
   Maternal Newborn and Child Health programme (PRRINN/MNCH) combined health systems
@@ -37,3 +36,6 @@ A broad range of indicators provide strong evidence of value for money and lives
 * Developed one of the largest and enduring community engagement and mobilization initiatives in Northern Nigeria, resulting in large increases in demand for child immunization and MNCH services. 
 * Developed and implemented a human resource (HR) information system that was used to capture baseline HR information, plan for equitable distribution of health workers, and support administration of human resources.
 * Rolled out the District Health Information Systems 2 (DHIS2), in collaboration with Health Information Systems Program – Nigeria (HISP Nigeria) and also successfully pioneered the use of the mobile version of the software, revolutionizing access to health data across the country.
+* Doubled percentage rates of women receiving antenatal care and delivering with a skilled birth attendant, from 25 to 51 percent and from 11 to 27 percent, respectively.
+* Reduced child mortality—by 41 percent in the under-5 mortality rate and by 44 percent in the infant mortality rate.
+* Increased immunised coverage from 2 to 18 percent for 1-year-olds.
