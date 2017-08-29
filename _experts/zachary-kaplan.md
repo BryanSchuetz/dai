@@ -2,10 +2,9 @@
 title: Zachary Kaplan
 date: 2016-01-21 22:18:00 Z
 lastname: Kaplan
-summary: Originally from North Carolina, Zachary Kaplan never planned to become a
-  development professional. Instead, he wanted to be a veterinarian. However, after
-  creating an international development outreach program as a graduate student, Zach
-  decided to pursue a career in development instead.
+summary: 'Zachary Kaplan specializes in public-private partnerships in both core and
+  social infrastructure, helping governments and private sector clients work together
+  and deliver key services and goods. '
 job-title: Director, Sustainable Business Group
 image: https://assetify-dai.com/experts/KaplanInner.jpg
 solutions:
