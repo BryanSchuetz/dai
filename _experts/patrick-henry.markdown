@@ -1,7 +1,6 @@
 ---
 title: Patrick Henry
 date: 2017-08-29 11:44:00 Z
-published: false
 lastname: Henry
 summary: Patrick Henry is a principle advisor and the project director of the Centre
   for Local Business Development in Guyana.
