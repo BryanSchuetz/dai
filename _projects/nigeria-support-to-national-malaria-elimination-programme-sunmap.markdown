@@ -2,6 +2,15 @@
 title: Nigeria—Support to National Malaria Elimination Programme (SuNMaP)
 date: 2017-08-29 17:59:00 Z
 published: false
+summary: 'The Support to the National Malaria programme worked in close cooperation
+  with Nigeria’s National Malaria Control Elimination Programme in 10 states. '
+start: 2008
+end: 2016
+client: U.K. Department for International Development
+solutions:
+- Health
+regions: Sub-Saharan Africa
+country: Nigeria
 ---
 
 The Support to the National Malaria programme (SuNMaP) worked in close co-operation with Nigeria’s National Malaria Control Elimination Programme (NMEP) in 10 states and selected Local Government Areas within those states. Eventually covering around 40% of Nigeria’s population, SuNMaP rolled out activities in Anambra, Kano, Lagos, Niger, Ogun Jigawa, Enugu, Katsina and Yobe states. The programme ran for eight years and ended in March 2016.
