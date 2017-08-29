@@ -1,7 +1,6 @@
 ---
 title: Nigeria—Support to National Malaria Elimination Programme (SuNMaP)
 date: 2017-08-29 17:59:00 Z
-published: false
 summary: 'The Support to the National Malaria programme worked in close cooperation
   with Nigeria’s National Malaria Control Elimination Programme in 10 states. '
 start: 2008
