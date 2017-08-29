@@ -23,6 +23,17 @@ Covering a population of approximately 19 million in four states of Northern Nig
 
 Working in states with some of the world’s worst indicators for maternal, newborn, and child health, PRRINN-MNCH revitalized primary health care and improved the availability, quality, and utilization of maternal, newborn, and child health services, including ante-, peri- and post- natal care, emergency obstetric and newborn care, essential care for newborns and infants, young child feeding and nutrition, and routine immunization against preventable diseases.
 
+A broad range of indicators provide strong evidence of value for money and lives saved by PRRINN-MNCH. The programme delivered a range of outcomes at an estimated cost per person of £0.43 in 2013, which equates to a cost of between £16 and £33 per child life saved. The programme’s comprehensive approach to health system strengthening contributed to positive change in one of the world’s most difficult settings.
+
 ## Sample Activities
 
+*  Increase efficiency and coordination of health services, decentralisation, and increase confidence in and utilisation of services. 
+* Increase information access to participating communities.
+* Support the establishment of sustainable community emergency schemes such as blood donor schemes, emergency saving schemes, the emergency transport schemes, and a system of mother’s helpers.
+* Monitor MNCH-related activities and use this data to improve and increase understanding of and support for community-level response.
 
+## Select Results
+
+* Developed one of the largest and enduring community engagement and mobilization initiatives in Northern Nigeria, resulting in large increases in demand for child immunization and MNCH services. 
+* Developed and implemented a human resource (HR) information system that was used to capture baseline HR information, plan for equitable distribution of health workers, and support administration of human resources.
+* Rolled out the District Health Information Systems 2 (DHIS2), in collaboration with Health Information Systems Program – Nigeria (HISP Nigeria) and also successfully pioneered the use of the mobile version of the software, revolutionizing access to health data across the country.
