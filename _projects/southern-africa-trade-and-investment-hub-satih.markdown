@@ -1,12 +1,10 @@
 ---
 title: Southern Africa—Trade and Investment Hub
 date: 2016-11-17 15:08:00 Z
-summary: 'When the U.S. Congress and the White House celebrated the reauthorization
-  of the African Growth Opportunity Act (AGOA) it reconfirmed the United States''
-  commitment to helping Africa become the world’s next major economic success story.
-  Despite major gains in trade and market expansion, countries in the Southern African
-  Development Community (SADC) still face significant obstacles to sustained economic
-  growth. '
+summary: The Southern Africa Trade and Investment Hub supports Southern Africa to
+  create a well-integrated regional economy that delivers tangible economic benefits
+  and improved food security for the people of the region through increased global
+  competitiveness, trade, and investment.
 start: 2016
 end: 2021
 client: U.S. Agency for International Development
@@ -38,6 +36,6 @@ DAI’s approach will include serving as a capacity builder and facilitator, bol
 * Commercialize agribusiness and consumer goods value chains to compete in regional and global markets.
 * Use evidence and strategic communications to advocate for regional and national governments to increase regional trade and integration.
 * Facilitate increased foreign and national investments and access to finance throughout Southern Africa, with an eye toward increasing exports and trade.
-* Leverage DAI’s unique position as implementer of the [East Africa Trade and Investment Hub](preview-dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih), the [Feed the Future Southern Africa Seed Trade Project](https://manage.siteleaf.com/documents/57f29ba72aacdd76b3228f3a/edit), and the [FoodTrade East and Southern Africa ](preview-dai.com/our-work/projects/east-and-southern-africa-foodtrade-esa)initiative to enhance SATIH’s impact and advance the vision of an integrated and prosperous Africa.
+* Leverage DAI’s unique position as implementer of the [East Africa Trade and Investment Hub](preview-dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih), the [Feed the Future Southern Africa Seed Trade Project](https://manage.siteleaf.com/documents/57f29ba72aacdd76b3228f3a/edit), and the [FoodTrade East and Southern Africa ](preview-dai.com/our-work/projects/east-and-southern-africa-foodtrade-esa)initiative to enhance the Hub’s impact and advance the vision of an integrated and prosperous Africa.
 * Empower local champions and institutions—especially the private sector—to lead value chain competitiveness and regional integration initiatives.
 * Integrate gender considerations throughout to maximize women entrepreneur’s engagement and competitiveness.
