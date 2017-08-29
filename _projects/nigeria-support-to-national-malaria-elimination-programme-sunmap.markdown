@@ -29,18 +29,14 @@ Health Partners International (HPI) provided technical assistance in health syst
 
 ## Select Results
 
-The development of a revised and more coherent national malaria policy and malaria monitoring & evaluation strategy in Nigeria;
-Development of a new National Strategic Malaria Plan (2014-2019) and associated annual operational plans at national and state level (10 states in all) and at LGA level;
-Establishment of systems for continuous routine distribution of LLINs;
-Improved availability of and access to RDTs and ACTs
-Establishment of annual review and planning processes of malaria control activities and development of costed annual operational plans, which are reviewed regularly for progress and use evidence to set out a clear direction for malaria control;
-Improved quality and coverage of diagnostic and treatment services for malaria as a result of extensive training of health workers and development of a strong pool of trainers;
-Improved integrated supportive supervision processes across health facilities and management bodies;
-Establishment of quality assurance systems for malaria diagnostic laboratory services;
-Strengthened monitoring & evaluation, data collection and analysis of the malaria eradication elimination programme;
-Increased coverage of the population by malaria prevention and control interventions and increased access to malaria treatment with ACT.
-Funded by the UK Department for International Development (DFID) and led by the Malaria Consortium, other core consortium members included HPI and GRID consulting. Other partners included Federation of Muslim Women Association in Nigeria, Health Reform Foundation of Nigeria (HERFON), Pharmaceutical Manufacturers Group (PMG), and Christian Health Association of Nigeria (CHAN).
+* Developed a revised and more coherent national malaria policy and malaria monitoring and evaluation strategy in Nigeria.
+* Developed a new National Strategic Malaria Plan and associated annual operational plans at the national, state, and local levels.
+* Established systems for continuous routine distribution and improved availability of vaccines.
+* Established annual review and planning processes of malaria control activities and development of costed annual operational plans, which are reviewed regularly for progress and use evidence to set out a clear direction for malaria control.
+* Improved quality and coverage of diagnostic and treatment services for malaria as a result of extensive training of health workers and development of a strong pool of trainers.
+* Improved integrated supportive supervision processes across health facilities and management bodies.
+* Established quality assurance systems for malaria diagnostic laboratory services.
+* Strengthened monitoring and evaluation, data collection and analysis of the malaria eradication elimination programme.
+* Increased coverage of the population by malaria prevention and control interventions and increased access to malaria treatment.
 
-Evidence and learning from the programme is available in more detail in the Final Report.
-
-A SuNMap technical brief can be found here and a SuNMap learning paper can be found here.
+The programme was led by the Malaria Consortium, other core consortium members included HPI and GRID consulting. Other partners included Federation of Muslim Women Association in Nigeria, Health Reform Foundation of Nigeria, Pharmaceutical Manufacturers Group, and Christian Health Association of Nigeria.
