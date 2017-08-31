@@ -31,8 +31,10 @@ Through partnerships with USAID, Afghan Government agencies such as the Ministry
 * Develop public and private sector systems for input and technology supply.
 
 ### Select Results
-* Increased more than 38,000 farming households’ income by 114 percent, far exceeding the 30-percent increase for non-beneficiary farmers surveyed to measure activity impact.
-* Increased sales of target commodities by $26 million for beneficiary farmers and agribusinesses.
-* Increased the productivity of 2,265 wheat farmers by an average of 47 percent and 2,596 horticultural farmers by an average of 88 percent.
-* Reduced livestock (small ruminants) mortality rate from 16 percent at the baseline to 12 percent.
+* Helped 2,000 high-value crop farmers to increase productivity by 35 percent or more.
+* Improved sales of target commodities by $22 million for beneficiary farmers and agribusinesses.
+* Assisted 400 agribusinesses to improve management practices and apply new technologies.
+* Helped input suppliers reach farmers through SMS messaging and live radio shows, leading to an average 20 percent sales increase.
+* Sponsored four agribusinesses to attend the 2017 Gulfoods exhibition, where they made connections to sell $1.2 million in raisins, pistachios, and almonds to international buyers.
+* Project activities benefitted 56,700 individuals across Northern Afghanistan and created 215 new jobs for assisted agribusinesses.
 * Assisted 579 agriculture-related businesses to improve management practices and business profitability.
