@@ -3,13 +3,13 @@ title: Ben Mann
 date: 2016-01-21 22:18:00 Z
 published: false
 lastname: Mann
-summary: Ben Mann serves as a Global Practice Specialist for Water and Sanitation
-  with DAI, contributing to new business development, technical project support, and
-  institutional knowledge management.
+summary: 'Ben Mann is the Global Practice Lead for Development Results,  overseeing
+  the DAI efforts to improve project results through better monitoring and evaluation,
+  knowledge management, and learning, and the systems that support them. '
 job-title: 'Global Practice Lead, Development Results '
 image: https://assetify-dai.com/experts/MannInner.jpg
 solutions:
-- Environment and Energy
+- Include Primary and/or Secondary Solutions
 - Economic Growth
 - Digital
 - 
