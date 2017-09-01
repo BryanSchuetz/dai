@@ -26,5 +26,5 @@ Ben Mann considers himself an “enlightened” engineer, leaving behind a forma
 
 Ben is the Global Practice Lead for Development Results. He oversees efforts to improve project results through better monitoring, evaluation, knowledge management, and learning, as well as the systems that support them. His team works to ensure that we exceed our client expectations and our own goals for collecting, understanding, and utilizing our results to deliver better technical assistance on our global projects.
 
-* M.Eng., engineering and public policy, University of Maryland
+* M. Eng., engineering and public policy, University of Maryland
 * B.S., civil engineering, Clemson University
