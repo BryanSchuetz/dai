@@ -26,3 +26,5 @@ Prior to joining McKinsey, Brigit was Chief Executive Officer of Unitus, a nonpr
 * Ph.D, economic and agricultural development, Stanford University
 * M.A. economic & agricultural development, Stanford University              
 * M.A., advanced international studies, Johns Hopkins School for Advanced International Studies
+
+<iframe src="https://player.vimeo.com/video/84596401" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
