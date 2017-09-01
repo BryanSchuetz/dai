@@ -24,6 +24,8 @@ Despite these prospects, farmers and agribusinesses in northern Afghanistan face
 
 Through partnerships with USAID, Afghan Government agencies such as the Ministry of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s Affairs (DOWA), and myriad development projects focused on stability, infrastructure, and agriculture, RADP-North leverages investments in agricultural value chains to optimize cost-effectiveness and incorporate lessons learned.
 
+![RADP-North_photo.jpg](/uploads/RADP-North_photo.jpg)
+
 ### Sample Activities
 * Improve market linkages among farmers, agribusinesses, and consumers.
 * Support development of a policy/action plan for establishing a railway transit agreement with Uzbekistan.
