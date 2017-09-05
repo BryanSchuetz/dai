@@ -16,7 +16,7 @@ articles:
   article_file: http://dai-global-developments.com/articles/benefits-of-bringing-mobile-banking-to-the-unbanked/
 ---
 
-Brigit Helms has more than 25 years of experience pioneering innovative approaches to financial inclusion and seeking enterprise and market-based solutions to poverty. She came to DAI after working at McKinsey & Company in Seattle. Drawing on her deep expertise in market-based solutions to global development problems, Brigit has supported and helped lead projects focused on expanding private sector involvement in extending financial services to poor households and small businesses that are underbanked. 
+Brigit Helms has nearly 30 years of experience pioneering innovative approaches to financial inclusion and seeking enterprise and market-based solutions to poverty. She came to DAI after leading the Multilateral Investment Fund, an innovation lab of the Inter-American Development Bank making investments equaling $85 million a year. Prior to this, she was Chief of Party of the SPEED program in Mozambique, leading DAI’s work to improve the business environment and competitiveness of the economy there. Brigit originally came to DAI from McKinsey & Company in Seattle. Drawing on her deep expertise in market-based solutions to global development problems, Brigit has supported and helped lead projects focused on expanding private sector involvement in extending financial services to poor households and small businesses that are underbanked.
 
 > “The human dimensions of change are just as important as sound technical solutions and robust strategies when it comes to having a lasting impact at scale. The problems we face today, and in the future, will require effective execution, from paper to people.”
 — Brigit Helms
