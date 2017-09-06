@@ -35,6 +35,7 @@ This programme was prompted by the post-election violence of 2007–2008 in Keny
 * Launched Forum Syd, a mobile phone text messaging platform, that mobilised and actively engaged more than 20,000 citizens across four counties around leadership, devolution, and public participation topics. 
 * Supported partners that scrutinised legislation being developed to
 improve the legal framework for fighting corruption and impunity. The success rate for their suggested amendments was high; by one count, 79 percent were reflected in the final law.
-* Supported a variety of partners in producing stories on corruption and in building the capacity of investigative journalists. For example, AfriCOG produced more than 18 investigative stories, estimated to have reached more than 800,000 members of the public. 
+* Supported a variety of partners in producing stories on corruption and in building the capacity of investigative journalists. For example, AfriCOG produced more than 18 investigative stories, estimated to have reached more than 800,000 members of the public.
+* Facilitated more than 1,200 public forums where nearly 54,000 citizens interacted with leaders in planning improvements to public services.
 
 [1]: https://assetify-dai.com/projects/Kenya----Drivers-of-Accountability-Programme.jpg
