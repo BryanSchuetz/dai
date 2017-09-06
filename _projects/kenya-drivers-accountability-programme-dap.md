@@ -20,7 +20,7 @@ country:
 layout: project
 ---
 
-This programme was prompted by the post-election violence of 2007–2008 in Kenya, when implications of impunity, lack of accountability, and need for an overhaul of the constitutional, legislative, electoral, and judicial environment became critical. With DAP, the U.K. Department of International Development's ultimate goal is to improve the Kenyan Government's accountability to its citizens. We supported key reforms and built on efforts to strengthen oversight and the demand for accountability and better governance, and in doing so, helped make Kenya a more stable democracy. With our partner, the Overseas Development Institute, we supported the programme's Joint Steering Committee of donors, as well as executed and managed grants.
+This programme was prompted by the post-election violence of 2007–2008 in Kenya, when implications of impunity, lack of accountability, and need for an overhaul of the constitutional, legislative, electoral, and judicial environment became critical. DAP's goal was to improve the Kenyan Government's accountability to its citizens. We supported key reforms and built on efforts to strengthen oversight and the demand for accountability and better governance, and in doing so, helped make Kenya a more stable democracy. With our partner, the Overseas Development Institute, we supported the programme's Joint Steering Committee of donors, as well as executed and managed grants. DAP supported a wide range of civil society organisations, media, oversight bodies, and independent commissions to influence and deliver governance reforms in Kenya. 
 
 ![][1]
 
