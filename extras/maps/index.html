@@ -120,7 +120,7 @@ map.on('load', function(){
 });
 toggleLayer(['USAID'], 'USAID');
 toggleLayer(['DFID'], 'DFID');
-toggleLayer(['EC'], 'EC');
+toggleLayer(['EU Donors'], 'EU Donors');
 
 function toggleLayer(ids, name) {
     var link = document.createElement('a');
@@ -140,7 +140,7 @@ function toggleLayer(ids, name) {
             } else {
                 map.setLayoutProperty(['USAID'], 'visibility', 'none');
                 map.setLayoutProperty(['DFID'], 'visibility', 'none');
-                map.setLayoutProperty(['EC'], 'visibility', 'none');
+                map.setLayoutProperty(['EU Donors'], 'visibility', 'none');
                 this.className = 'active';
                 map.setLayoutProperty(ids[layers], 'visibility', 'visible');
             }
