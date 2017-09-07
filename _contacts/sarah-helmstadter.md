@@ -9,7 +9,7 @@ summary: Sarah manages the company’s Africa portfolio. Since joining DAI in 20
   development for 20 years, with her first field assignment in Kazakhstan. Prior to
   entering the field of development, Sarah was a Soviet analyst, publishing on health
   and social issues.
-image: https://assetify-dai.com/contacts/sarah-helmstadter.jpg
+image: "/uploads/new%20Sarah.jpg"
 group: Business Management
 sort-order: 5
 ---
