@@ -1,27 +1,25 @@
 ---
 title: Worldwide—United Nations World Food Programme Long-Term Agreement to Provide
   Evaluation Services
-date: 2016-01-21 22:40:52.765000000 Z
-client: United Nations World Food Programme
+date: 2016-01-21 22:40:00 Z
+summary: DAI performed evaluations of WFP's portfolio of programs in Central America,
+  Chad, Haiti, Yemen, Zimbabwe, and Niger to help the organization better implement
+  its food assistance programs.
 start: 2010
 end: 2013
-regions:
-- Worldwide
-country:
-- Regional
+client: United Nations World Food Programme
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Health
+regions:
+- Worldwide
+country:
+- Regional
 layout: project
-summary: 'Volatile food prices, changing weather patterns, and local and regional
-  instability are contributing to increased numbers of refugees, internally displaced
-  people, and food-insecure communities.
-
-'
 ---
 
-Volatile food prices, changing weather patterns, and local and regional instability are contributing to increased numbers of refugees, internally displaced people, and food-insecure communities. In a food security crisis, many of these people and communities depend on the United Nations World Food Programme (WFP) for assistance. Since 2010, DAI has performed evaluations of WFP's portfolio of programs in Central America, Chad, Haiti, Yemen, Zimbabwe, and Niger to help the organization better implement its food assistance programs.
+Volatile food prices, changing weather patterns, and local and regional instability are contributing to increased numbers of refugees, internally displaced people, and food-insecure communities. In a food security crisis, many of these people and communities depend on the United Nations World Food Programme (WFP) for assistance. DAI performed evaluations of WFP's portfolio of programs in Central America, Chad, Haiti, Yemen, Zimbabwe, and Niger to help the organization better implement its food assistance programs.
 
 ###  Sample Activities
 
