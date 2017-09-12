@@ -38,6 +38,7 @@ This program enables Cambodian-led technology products to be designed and built 
 * Funded development of [Khmer Smart Keyboard App][5] that improves ease of typing in Khmer and has regularly been the No. 1 Cambodian productivity app download since it launched in early 2015.
 * Built capacity of staff from 18 CSOs to script, shoot, and edit videos that promote storytelling and advocacy about key civil society issues.
 * Built partnerships with private sector companies to support technology projects with companies such as EZECOM, MyTEB, Cellcard, Facebook, and Mozilla.
+* Developed more than 100 new CSO partnerships, resulting in the development of 257 percent more ICT solutions designed by CSOs in two years.
 
 [1]: http://www.development-innovations.org/
 [2]: http://www.forbes.com/sites/joshuawilwohl/2016/02/14/new-app-to-help-cambodians-track-complaints-made-with-local-govt/#58a2a8f47c8e
