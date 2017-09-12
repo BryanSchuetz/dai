@@ -1,10 +1,10 @@
 ---
 title: Lebanon—Social Enterprise Pilot Project (SEPP)
 date: 2017-09-12 13:02:00 Z
-summary: The Lebanon Social Enterprise Pilot (SEP) programme, funded by the U.K. Foreign
+summary: The Lebanon Social Enterprise Pilot Project (SEPP), funded by the U.K. Foreign
   and Commonwealth Office (FCO), uses an evidence-based approach to demonstrate the
-  potential of the private-sector led SE model to deliver economic growth and improve
-  social cohesion in Lebanon.
+  potential of the private sector-led social enterprise model to deliver economic
+  growth and improve social cohesion in Lebanon.
 start: 2017
 end: 2018
 client: U.K. Foreign and Commonwealth Office
