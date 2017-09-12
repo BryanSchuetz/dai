@@ -29,11 +29,7 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 ### Sample Activities
 
 * Strengthen the skills of, and [create significant business and employment opportunities](http://www.mmtimes.com/index.php/business/26753-dfid-funded-grant-program-to-target-businesses-in-four-sectors.html) for, poor women and marginalised groups.
-
 * Hold innovation challenges to identify and provide funding support for ideas that have the potential to deliver positive and impactful change in the business sector.
-
 * Provide rapid technical assistance in response to requests of the recently elected national government in regard to inclusive economic growth and private sector development.
-
 * Promote inclusive, evidence-based economic decision making at both the national and sub-national levels.
-
 * Facilitate increased trade and exports, particularly in non-extractive and job-creating sectors such as textiles, bamboo, and agribusiness.
