@@ -20,12 +20,14 @@ The Kenya Deepening Democracy Programme (DDP), funded by the U.K. Department for
 
 ![Kenya_DDP_image_web-ec3df3.jpg](/uploads/Kenya_DDP_image_web-ec3df3.jpg)
 
-**Sample Activities**
+## Sample Activities
 
 * Support well-administered and transparent elections in order to increase voter confidence and legitimacy of election outcomes.
-
 * Enhance women’s participation and representation in politics through training, mentorship, and media profiling.
-
 * Support anti-corruption efforts by providing technical assistance to state and non-state accountability and oversight institutions.
-
 * Strengthen the ability of civil society organizations to advocate on key issues related to planning, budgeting, climate change, and service delivery.
+
+## Select Results
+
+* Reached 6.5 million Kenyans through mass and sustained civic and voter education.
+* Trained 235 people, including 19 local leaders, in three counties on climate change planning and budgeting processes.
