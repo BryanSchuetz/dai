@@ -1,21 +1,21 @@
 ---
 title: Kenya—Strengthening Adaptation and Resilience to Climate Change in Kenya Plus
   (StARCK+)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
-start: 2013
-end: 2017
-regions:
-- Sub-Saharan Africa
-country:
-- Kenya
-solutions:
-- Environment and Energy
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: Much of Kenya's economy is based around sectors that are highly climate vulnerable,
   particularly tourism, arable agriculture, horticulture, floriculture, and livestock.
   Minor industries that employ significant numbers, such as forestry and coastal and
   freshwater fisheries, are also sensitive to climate change.
+start: 2013
+end: 2017
+client: U.K. Department for International Development
+solutions:
+- Environment and Energy
+regions:
+- Sub-Saharan Africa
+country:
+- Kenya
+layout: project
 ---
 
 Much of Kenya's economy is based around sectors that are highly climate vulnerable, particularly tourism, arable agriculture, horticulture, floriculture, and livestock. Minor industries that employ significant numbers, such as forestry and coastal and freshwater fisheries, are also sensitive to climate change. Kenya's energy sector is highly dependent on hydropower, and therefore it—along with the industry and manufacturing that it powers—is also climate vulnerable.
@@ -35,6 +35,7 @@ StARCK+ follows on from the original StARCK programme (2011—2013), which suppo
 ###  Select Results
 
 * Awarded and manages grants to four microfinance institutions (MFIs) that service clients implementing Climate Smart Agriculture activities.
+* Supported 15,000 people to cope with climate change through the adoption of climate smart agricultural practices, with more than 20,000 farmers additionally supported through access to downscaled weather and climate information services.
 * Awarded FICCF grants to the UN, Kenya Association of Manufacturers, and the ClimateCare carbon offset company.
 * Facilitated innovative coordination between MFIs, climate specialists, and agricultural supply chain actors resulting in groundbreaking, systemic shifts in agriculture production. Examples include increased uptake of climate resilient crops such as sorghum and cassava, diversified income generation such as utilizing indigenous chicken, and production improvements in dairy and crops that reduce net emissions whilst increasing productivity.
 
