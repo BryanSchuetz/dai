@@ -33,6 +33,7 @@ Based in Dar es Salaam, the program works across nine countries: Burundi, Kenya,
 ### Select Results
 
 * Assisted 250,000 farmers in accessing national and cross-border value chains, allowing them to sell more than 60,000 metric tonnes of staple foods across the region in 2016 alone.
+* Stimulated £17,455,463 in private sector investment in regional staple food value chains to date. Challenge Fund grantees contribute at least 51 percent of the total project budgets.
 * Enhanced value chain coordination for 115,000 farmers by applying grades and standards for products, improving logistics, and developing a virtual marketplace.
 * Provided improved agricultural inputs to 169,000 farmers to increase quality and quantity of harvests.
 * Connected 130,000 farmers to improved market information systems through FoodTrade interventions.
