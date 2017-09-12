@@ -1,11 +1,13 @@
 ---
 title: DAI and IntraHealth Join Forces to Amplify Global Health Impact
 date: 2017-09-12 01:23:00 Z
+published: false
 solutions:
 - Health
-summary: IntraHealth International and DAI today announced a strategic affiliation that will enable the two organizations to extend their reach and amplify their collective impact in the global health arena.
-social-image: /uploads/intrahealth-release.jpg
-published: false
+summary: IntraHealth International and DAI today announced a strategic affiliation
+  that will enable the two organizations to extend their reach and amplify their collective
+  impact in the global health arena.
+social-image: "/uploads/intrahealth-release.jpg"
 ---
 
 *Chapel Hill, N.C., and Bethesda, Md.*
