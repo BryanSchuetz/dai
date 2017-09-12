@@ -27,13 +27,13 @@ Through HSNP, more than 600,000 of Kenya’s most vulnerable people have access 
 
 <iframe src="https://player.vimeo.com/video/207471099" width="703" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Sample Activities
+### Sample Activities
 
 * Build capacity and sustainability of local partners.
 * Implement framework for emergency scale up.
 * Agree with stakeholders to recertification process for cash transfers
 
-## Select Results
+### Select Results
 
 * Activated the [HSNP Dashboard](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/?utm_source=daidotcom), allowing real time data about cash transfers and the process to be transferred online to and from field-level staff, improving service.
 * Reached 69,000 households in four northern counties with a cash transfer payment every two months in the first phase of HSNP in Kenya—from 2009 to 2012.
