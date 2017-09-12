@@ -1,10 +1,9 @@
 ---
 title: Kenya—Hunger Safety Net Programme Phase 2 (HSNP2)
 date: 2016-01-21 22:40:00 Z
-summary: The Hunger Safety Net Programme (HSNP) in Kenya is up as case study in “shock-responsive
-  social protection,” contributing to evidence of cost effectiveness of investments
-  in resilience and planned intervention at early stage of disaster compared to costly
-  reactive “emergency” responses.
+summary: 'Through the Hunger Safety Net Programme (HSNP), more than 600,000 of Kenya’s
+  most vulnerable people have access to cash transfers on a regular basis and up to
+  2,100,000 people reached with emergency cash transfers in times of drought or flood. '
 start: 2014
 end: 2017
 client: U.K. Department for International Development
@@ -23,6 +22,8 @@ The first phase of the Hunger Safety Net Programme (HSNP) in Kenya—from 2009 t
 Households receiving the regular bi-monthly cash transfers have been selected from the poorest 10 percent in each county, using a combination of Community-Based Targeting and Proxy Means Testing. The number of beneficiary households will gradually increase to 100,000. A scalable emergency cash transfer response to droughts will be built for 470,000 households, which will be provided with bank accounts and cards in advance to facilitate rapid transfers.
 
 The goal of [HSNP2](http://www.hsnp.or.ke/) is to continue to reduce poverty, hunger, and vulnerability in the focus counties, resulting in better and more sustainable [safety nets](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/) for poor and [vulnerable households](https://www.youtube.com/watch?v=ObSi7IXcYeU).
+
+Through HSNP, more than 600,000 of Kenya’s most vulnerable people have access to cash transfers on a regular basis and up to 2,100,000 people reached with emergency cash transfers in times of drought or flood. 
 
 <iframe src="https://player.vimeo.com/video/207471099" width="703" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
