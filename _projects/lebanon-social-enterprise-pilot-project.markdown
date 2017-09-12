@@ -23,7 +23,7 @@ The [Lebanon Social Enterprise Pilot Project (SEPP)](http://souklb.co/), funded 
 
 ## Sample Activities
 
-* Organise and lead sprint design competitions and business development trainings for both start-up and growth stage social enterprises. 
-* Provide seed funding to help enterprises advance to next level of growth. 
+* Organise and lead sprint design competitions and business development trainings for both startup and growth stage social enterprises. 
+* Provide seed funding to help enterprises advance to next level. 
 * Establish a monthly social enterprise stakeholders forum and a quarterly International Advisory Committee to advise on project activities.
 * Develop an impact assessment framework and indicators to monitor social enterprise performance and guide future FCO approaches to supporting social enterprise growth.
