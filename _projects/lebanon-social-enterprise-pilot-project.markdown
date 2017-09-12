@@ -21,7 +21,7 @@ The [Lebanon Social Enterprise Pilot Project (SEPP)](http://souklb.co/), funded 
 
 ![Souk.jpg](/uploads/Souk.jpg)
 
-## Sample Activities
+### Sample Activities
 
 * Organise and lead sprint design competitions and business development trainings for both startup and growth stage social enterprises. 
 * Provide seed funding to help enterprises advance to next level. 
