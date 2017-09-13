@@ -23,7 +23,6 @@ The Lebanon Social Enterprise Pilot Project (SEPP), funded by the U.K. Foreign a
 
 ### Sample Activities
 
-* Organise and lead sprint design competitions and business development trainings for both startup and growth stage social enterprises. 
-* Provide seed funding to help enterprises advance to next level. 
-* Establish a monthly social enterprise stakeholders forum and a quarterly International Advisory Committee to advise on project activities.
-* Develop an impact assessment framework and indicators to monitor social enterprise performance and guide future FCO approaches to supporting social enterprise growth.
+* Support the development of a pipeline of high-impact social enterprises at the idea, early, and growth stages through seed funding, training, and mentorship. 
+* Increase the visibility of and awareness around the potential of the social enterprise sector in Lebanon. 
+* Engage existing ecosystem partners and key stakeholders to set the stage for the sustainable development and growth of the social enterprise sector.
