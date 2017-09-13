@@ -1,17 +1,6 @@
 ---
 title: Mozambique—Financial Sector Deepening (FSDMoç)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
-start: 2014
-end: 2019
-regions:
-- Sub-Saharan Africa
-country:
-- Mozambique
-solutions:
-- Economic Growth
-- Financial Services
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'Financial Sector Deepening Mozambique (FSDMoç) is a financial inclusion
   facilitation unit. It is seeking financial inclusion for households and businesses
   through a series of public and private sector partnerships. FSDMoç is targeting
@@ -19,6 +8,18 @@ summary: 'Financial Sector Deepening Mozambique (FSDMoç) is a financial inclusi
   and 650 businesses in Mozambique by 2019.
 
 '
+start: 2014
+end: 2019
+client: U.K. Department for International Development, Swedish International Development
+  Cooperation Agency
+solutions:
+- Economic Growth
+- Financial Services
+regions:
+- Sub-Saharan Africa
+country:
+- Mozambique
+layout: project
 ---
 
 Financial Sector Deepening Mozambique (FSDMoç) is a financial inclusion facilitation unit. It is seeking financial inclusion for households and businesses through a series of public and private sector partnerships. FSDMoç is targeting increased access and improved quality of financial services for 2 million individuals and 650 businesses in Mozambique by 2019.
