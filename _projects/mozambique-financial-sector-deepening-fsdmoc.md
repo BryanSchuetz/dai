@@ -36,12 +36,12 @@ In July 2017, [FSDMoç](http://fsdmoc.com/) received additional 39 million Swedi
 * Foster public-private dialogue by creating and disseminating information, research, and data about inclusive finance;
 * Enlist private sector partners to creatively address financial issues in the rural economy, particularly in agriculture;
 * Partner with the Digital Frontiers Institute on meso-level activities such as payment systems, inter-operability, and development of technology solutions;
-* Partner with the Consultative Group to Assist the Poor (CGAP) and others in applying Human-Centered Design (HCD) to develop rural safety nets such as insurance and housing finance.
+* Partner with the Consultative Group to Assist the Poor and others in applying Human-Centered Design to develop rural safety nets such as insurance and housing finance.
 
 ###  Select Results (Through March 2017)
 
 * Partnered to implement saving groups models with the Aga Khan Foundation and CARE, creating 66 saving groups totaling more than 1,700 members, including 900+ women;
 * Enabled more than 130,000 financially underserved people (two-thirds women) to access and utilize at least one new financial service such as saving, borrowing, and e-payments—nearly 87,000 used more than one new service;
 * Recorded 232 small and growing businesses newly receiving financial services or products;
-* Launched Fintech Innovation Fund, which selected seven grantees for funding and technical support to refine their proposals in financial technology; 
-* Built capacity in the Ministry of Economy and Finance, Central Bank, and Ministry of Industry and Commerce to make policy, notably on issues of private equity and investment that supports financial inclusion.
+* Launched the Fintech Innovation Fund, which selected seven grantees for funding and technical support to refine their proposals in financial technology; 
+* Built capacity within the Ministry of Economy and Finance, Central Bank, and Ministry of Industry and Commerce to make policy—notably on issues of private equity and investment that support financial inclusion.
