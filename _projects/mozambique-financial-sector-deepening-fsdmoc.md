@@ -24,7 +24,7 @@ layout: project
 
 While Mozambique’s economy is emerging—notably through the extractives sector—most Mozambicans remain very poor. Financial Sector Deepening Mozambique (FSDMoç) is a facility to [develop](http://dai-global-developments.com/articles/qa-assisting-mozambiques-rural-poor-to-build-stability-and-economic-opportunity-through-digital-financial-inclusion/?utm_source=daidotcom) the country’s financial sector, and thus its economy, by expanding levels of inclusion.  By directing investments and insights to address constraints in the financial market, FSDMoç helps diversify Mozambique’s economy and broaden local prosperity and economic resilience. FSDMoç aims to create access to basic financial services for 2.6 million individuals and 1,000 businesses in Mozambique by 2019, which includes women, youth, and the rural poor, as well as small businesses that lack access to appropriate and accessible financial services.
 
-In July 2017 [FSDMoç](http://fsdmoc.com/) received additional 39 million Swedish Krona (£3.5 million) in funding from the Swedish International Development Cooperation Agency. These additional funds will enable FSDMoç to flexibly adapt to emerging opportunities in the digital finance, inclusive insurance, and housing finance sectors.
+In July 2017, [FSDMoç](http://fsdmoc.com/) received additional 39 million Swedish Krona (£3.5 million) in funding from the Swedish International Development Cooperation Agency. These additional funds will enable FSDMoç to flexibly adapt to emerging opportunities in the digital finance, inclusive insurance, and housing finance sectors.
 
 ![Devs----FSDMoz-1.jpg](/uploads/Devs----FSDMoz-1.jpg)
 
