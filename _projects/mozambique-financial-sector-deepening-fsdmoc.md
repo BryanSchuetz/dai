@@ -39,7 +39,7 @@ In July 2017 [FSDMoç](http://fsdmoc.com/) received additional 39 million Swedis
 ###  Select Results (Through March 2017)
 
 * Partnered to implement saving groups models with the Aga Khan Foundation and CARE, creating 66 saving groups totaling more than 1,700 members, including 900+ women;
-* Through September 2017, enabled more than 130,000 financially underserved people (two-thirds women) to access and utilize at least one new financial service such as saving, borrowing, and e-payments—nearly 87,000 used more than one new service;
+* Through March 2017, enabled more than 130,000 financially underserved people (two-thirds women) to access and utilize at least one new financial service such as saving, borrowing, and e-payments—nearly 87,000 used more than one new service;
 * Recorded 232 small and growing businesses newly receiving financial services or products;
 * Launched Fintech Innovation Fund, which selected seven grantees for funding and technical support to refine their proposals in financial technology; 
 * Built capacity in the Ministry of Economy and Finance, Central Bank, and Ministry of Industry and Commerce to make policy, notably on issues of private equity and investment that supports financial inclusion.
