@@ -1,6 +1,6 @@
 ---
 title: DAI and IntraHealth Join Forces to Amplify Global Health Impact
-date: 2017-09-12 01:23:00 Z
+date: 2017-09-13 01:23:00 Z
 solutions:
 - Health
 summary: IntraHealth International and DAI today announced a strategic affiliation
