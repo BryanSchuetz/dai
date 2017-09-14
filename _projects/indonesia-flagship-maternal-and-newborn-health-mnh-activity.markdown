@@ -28,4 +28,4 @@ To support the Indonesian people in tackling these myriad challenges, The U.S. A
 
 * Bring together actors from within and outside of the health system to use local evidence and global best practices to co-create, test, and adapt solutions to improve MNH outcomes.
 
-* Engage the public and private sectors to co-finance scalable local solutions to address MNH-related issues for underserved populations.
+* Engage the public and private sectors to co-finance scalable local solutions that address MNH-related issues for underserved populations.
