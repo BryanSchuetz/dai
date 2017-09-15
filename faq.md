@@ -14,7 +14,13 @@ DAI was incorporated in 1970 as Development Alternatives, Inc. The founders, all
 
 ###  What does DAI do?
 
-We tackle fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability. And we do this by bringing together fresh combinations of expertise and innovation across multiple disciplines—crisis mitigation and stability operations, democratic governance and public sector management, agriculture and agribusiness, private sector development and financial services, economics and trade, HIV/AIDS and disease control, water and natural resources management, and energy and climate change.
+We are skilled technical specialists and project managers, trained in the disciplines of international development and steeped in the challenges of operating overseas. We work for development agencies, private corporations, and philanthropies to tackle fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability. This means working across the spectrum of international development. Today, for example, it means:
+
+* Equipping women to join the workforce in Afghanistan and the Middle East
+* Stimulating the trade in life-changing seeds for farmers in southern Africa
+* Reversing the dynamics that lead to violent extremism in Kenya, Pakistan, and the Philippines
+* Strengthening overseas health systems so they can contain the next pandemic threat, like Ebola
+* Helping oil companies invest in their host communities in a way that benefits both their bottom line and the local people and enterprises in those communities
 
 ###  Is DAI a company or an NGO?
 
