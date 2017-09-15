@@ -1,9 +1,8 @@
 ---
 title: Worldwide—Water for Africa through Leadership and Institutional Support (WALIS)
 date: 2016-01-21 22:40:00 Z
-summary: Despite significant progress made through donor and nongovernmental organization
-  investments over the past 30 years, a large percentage of Africans still lack access
-  to clean water and proper sanitation.
+summary: 'The WALIS program provides technical, programmatic, administrative, and
+  logistical support to USAID in improving the capacity of African water sectors. '
 start: 2015
 end: 2020
 client: U.S. Agency for International Development
