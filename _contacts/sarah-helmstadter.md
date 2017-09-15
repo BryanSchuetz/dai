@@ -8,7 +8,8 @@ summary: Sarah manages the company’s Africa portfolio. Since joining DAI in 20
   and Senior Director of the Business Development Unit. She has been working in international
   development for 20 years, with her first field assignment in Kazakhstan. Prior to
   entering the field of development, Sarah was a Soviet analyst, publishing on health
-  and social issues.
+  and social issues. She is also a member of the Board of Directors for the Society
+  for International Development for 2017–2018.
 image: "/uploads/new%20Sarah.jpg"
 group: Business Management
 sort-order: 5
