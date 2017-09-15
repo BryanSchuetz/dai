@@ -11,7 +11,7 @@ solutions:
 - Natural Resource Management
 - Water and Sanitation Services and Management
 regions:
-- Worldwide
+- Sub-Saharan Africa
 country:
 - Worldwide
 redirect_from:
