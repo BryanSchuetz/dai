@@ -21,7 +21,7 @@ In 2000, Jean left DAI for a high-profile assignment with the U.S. Agency for In
 
 A leading figure in the international development community, Jean returned to DAI in 2006 and since 2008 she has led the firm’s work on strategy formulation and execution, market analysis, external relations, communications, and brand.
 
-* Vice President for Program Affairs, Society for International Development, Washington, D.C. Chapter
+* SID-International Governing Council Liaison, Society for International Development, Washington, D.C. Chapter
 * M.A., international law and economics, Fletcher School of Law and Diplomacy
 * M.B.A. equivalence certificate, First National Bank of Chicago
 * Vice President, [Executive Committee](http://dai.com/news-publications/news/dai-jean-gilson-appointed-sid-global-leadership-post), Society for International Development
