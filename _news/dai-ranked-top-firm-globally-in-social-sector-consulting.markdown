@@ -1,6 +1,9 @@
 ---
 title: DAI Ranked Top Firm Globally in Social Sector Consulting
 date: 2017-09-18 18:25:00 Z
+summary: 'DAI is the top-ranked firm globally in social sector consulting, according
+  to the inaugural issue of _WhoKnowsAbout_, a “global competence ranking” of management
+  consulting companies. '
 social-image: "/uploads/who_knows.png"
 ---
 
