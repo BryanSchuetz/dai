@@ -5,6 +5,7 @@ summary: The Sustainable Business Group has in-house capacity and experience wor
   with public and private petroleum clients in the Middle East.
 start: 2017
 end: 2018
+client: National Government
 solutions:
 - Sustainable Business
 regions: Middle East and North Africa
