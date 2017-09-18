@@ -5,6 +5,7 @@ summary: The Sustainable Business Group (SBG) is utilizing its Local Content Opt
   Model (LCOM) to complete an Industrial Baseline Analysis for Senegal.
 start: 2017
 end: 2018
+client: Multinational Corporation
 solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
