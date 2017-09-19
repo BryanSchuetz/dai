@@ -1,7 +1,6 @@
 ---
 title: Bronwyn Irwin
 date: 2017-09-19 13:41:00 Z
-published: false
 lastname: Irwin
 summary: 'Bronwyn Irwin is an agricultural economist who specializes in strengthening
   agricultural market systems to increase competitiveness while preserving natural
