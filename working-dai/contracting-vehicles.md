@@ -69,12 +69,12 @@ DAI holds umbrella contracts from various clients through which development prog
 * Lot E–Private Sector Development and Market Development (2013–2015)
 * Lot F-Investment Climate Reform (2013-2015)
 
-### Australian Agency for International Development
+### Australian Department of Foreign Affairs and Trade
 
 * [Aid Advisory Services Standing Offer](http://frameworkcontracts.com/lots/dfat/)
 * Climate Change and Environment Services (2013–2016)
 * Economics (2013–2016)
-* Fragility and Conflict (2013–2016)\
+* Fragility and Conflict (2013–2016)
 * Gender (2013–2016)
 * Governance (2013–2016)
 * Food Security and Rural Development (2013–2016)
@@ -84,10 +84,6 @@ DAI holds umbrella contracts from various clients through which development prog
 * Federal Supply Schedule for Financial and Business Solutions (FABS) (2003-2018)
 * Mission Oriented Business Integrated Services (MOBIS) (2002–2017)
 * Professional Services Schedule (PSS) (2016-2021)
-
-### U.S. Department of State
-
-* Criminal Justice Support Program IDIQ subcontract (2011–2016)
 
 ### European Bank of Reconstruction and Development
 
@@ -99,4 +95,4 @@ DAI holds umbrella contracts from various clients through which development prog
 
 ### New Zealand Aid Programme
 
-* [Agricultural Services Panel (2014–present)](http://frameworkcontracts.com/lots/mfat)
+* [Agricultural Services Panel (2014–2018)](http://frameworkcontracts.com/lots/mfat)
