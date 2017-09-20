@@ -117,7 +117,8 @@ defaults:
     email: 
     summary: 
     image: 136x136
-    group: 
+    group:
+    sort-order: 
 - scope:
     path: ''
     type: experts
