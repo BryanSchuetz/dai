@@ -25,5 +25,4 @@ During a period away from DAI, Lara worked on a shared value consulting project 
 Lara now leads DAI’s Economic Growth portfolio, the largest in the company and the heartland of our work. She oversees a team of specialists organized into five practices: financial services, agriculture and agribusiness, trade and competitiveness, workforce development, and business environment reform. “I came back because this is a company that believes in me and the work that I do,” she said, “and that keeps me growing professionally.”
 
 * M.A., international economics/Latin American studies, Johns Hopkins School of Advanced International Studies
-
 * B.A., comparative politics and French literature, Wesleyan University

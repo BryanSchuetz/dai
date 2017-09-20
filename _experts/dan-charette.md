@@ -6,7 +6,7 @@ summary: Daniel Charette specializes in private sector development. He has exper
   applying the principles and tools of various international development frameworks,
   including value chain analysis/development, making markets work for the poor, and
   business environment reform.
-job-title: 'Senior Consultant '
+job-title: New Business Director, Asia
 image: https://assetify-dai.com/experts/Charette_Inner_0.jpg
 solutions:
 - Economic Growth
@@ -14,7 +14,7 @@ solutions:
 layout: expert
 ---
 
-Daniel Charette specializes in private sector development. He has experience applying the principles and tools of various international development frameworks, including value chain analysis/development, making markets work for the poor, and business environment reform. Dan has applied each of these frameworks to project design, implementation, evaluation, and knowledge management. For example, he designed the project strategy, staffing plan, and performance monitoring plan for an agriculture-focused value chain development project in Tanzania that DAI later implemented for the U.S. Agency for International Development (USAID). He also contributed to a USAID-funded research task order covering good practices in the impact evaluation of private sector development projects. In 2008, he implemented and managed an International Labour Organization-funded assessment of the regulatory barriers faced by the artisanal weaving value chain in Addis Ababa, Ethiopia. Subsequently, Dan served on a three-person team tasked by USAID with devising a development strategy for Nigeria's rice industry.
+Dan Charette specializes in private sector development. He has experience applying the principles and tools of various international development frameworks, including value chain analysis/development, making markets work for the poor, and business environment reform. Dan has applied each of these frameworks to project design, implementation, evaluation, and knowledge management. For example, he designed the project strategy, staffing plan, and performance monitoring plan for an agriculture-focused value chain development project in Tanzania that DAI later implemented for the U.S. Agency for International Development (USAID). He also contributed to a USAID-funded research task order covering good practices in the impact evaluation of private sector development projects. In 2008, he implemented and managed an International Labour Organization-funded assessment of the regulatory barriers faced by the artisanal weaving value chain in Addis Ababa, Ethiopia. Subsequently, Dan served on a three-person team tasked by USAID with devising a development strategy for Nigeria's rice industry.
 
 > "I am most interested in why and how different types of systems function or dysfunction, particularly market systems. I love the analytical exercise of trying to understand why different countries are more or less competitive in certain industries, and thinking seriously about the extent to which external forces and resources such as donor-funded development programs can influence economic development in a positive way." — Dan Charette
 
