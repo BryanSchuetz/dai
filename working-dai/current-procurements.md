@@ -7,4 +7,4 @@ In implementing its projects, DAI relies on services and equipment provided by s
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.   
 
-There are currently no open solicitations.
+* There are currently no open solicitations.
