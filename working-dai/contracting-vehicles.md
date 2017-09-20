@@ -72,12 +72,6 @@ DAI holds umbrella contracts from various clients through which development prog
 ### Australian Department of Foreign Affairs and Trade
 
 * [Aid Advisory Services Standing Offer](http://frameworkcontracts.com/lots/dfat/)
-* Climate Change and Environment Services (2013–2016)
-* Economics (2013–2016)
-* Fragility and Conflict (2013–2016)
-* Gender (2013–2016)
-* Governance (2013–2016)
-* Food Security and Rural Development (2013–2016)
 
 ### General Services Administration Schedules
 
