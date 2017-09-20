@@ -6,7 +6,7 @@ summary: Daniel Charette specializes in private sector development. He has exper
   applying the principles and tools of various international development frameworks,
   including value chain analysis/development, making markets work for the poor, and
   business environment reform.
-job-title: 'Senior Consultant '
+job-title: New Business Director, Asia
 image: https://assetify-dai.com/experts/Charette_Inner_0.jpg
 solutions:
 - Economic Growth
