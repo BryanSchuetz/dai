@@ -10,5 +10,6 @@ summary: Dan Charette specializes in private sector development. He has experien
   design, implementation, evaluation, and knowledge management.
 image: "/uploads/charette.jpg"
 group: Business Management
+sort-order: 6
 ---
 
