@@ -79,9 +79,6 @@ DAI holds umbrella contracts from various clients through which development prog
 * Mission Oriented Business Integrated Services (MOBIS) (2002–2017)
 * Professional Services Schedule (PSS) (2016-2021)
 
-### European Bank of Reconstruction and Development
-
-* Russian Federation: RSBF Technical Co-operation Programme: Call-Off Assignments Framework (2011–2015) 
 
 ### European Commission
 
