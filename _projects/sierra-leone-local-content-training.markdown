@@ -11,6 +11,9 @@ solutions:
 - Local Content and Supply Chain Management
 regions: Sub-Saharan Africa
 country: Sierra Leone
+promos:
+- title: 'Sierra Leone News: Companies trained to report on local content compliance'
+  link: http://awoko.org/2017/07/11/sierra-leone-news-companies-trained-to-report-on-local-content-compliance/
 ---
 
 For nearly two years, the Sustainable Business Group’s Local Content Plan and Reporting online platform has been in operation in Sierra Leone. The government’s local content regulator uses the platform to meet its obligations under the Local Content Agency Act (LCAA 2016) to track local content performance in the mining, manufacturing, ICT, agriculture, banking, and hospitality sectors. 
