@@ -5,6 +5,10 @@ solutions:
 - Governance
 - Public Financial Management
 regions: Worldwide
+summary: DAI has brought on John Yates to lead a team of practitioners who deliver
+  technical assistance around macroeconomic policy, domestic resource mobilization,
+  budget planning and execution, tax and customs administration, central banking,
+  trade and investment policy, and the business enabling environment.
 social-image: "/uploads/John%20Yates%20portal-448ef2.jpg"
 ---
 
