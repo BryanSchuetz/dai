@@ -1,7 +1,6 @@
 ---
 title: John Yates
 date: 2017-09-22 14:10:00 Z
-published: false
 lastname: 'Yates '
 summary: John Yates leads DAI’s Global Practice for Public Financial Management covering
   macroeconomic policy, domestic resource mobilization, budget planning and execution,
@@ -9,6 +8,11 @@ summary: John Yates leads DAI’s Global Practice for Public Financial Managemen
   the business enabling environment.
 job-title: Global Practice Lead, Public Financial Management
 image: "/uploads/John%20Yates%20portal.jpg"
+solutions:
+- Governance
+- Public Financial Management
+regions:
+- Worldwide
 ---
 
 Inspired by his grandfather who worked at the Food and Agricultural Organization (FAO), John Yates was determined to pursue a career in international development since college. An opportunity to travel to Italy on a study abroad program cemented his enthusiasm for international adventures and encouraged him to study in the United Kingdom. However, unlike his grandfather’s passion for agriculture, his passion is for the riveting subjects of macroeconomics, tax and fiscal policy, and international trade. He also branched out and developed his skills in computer science and systems design. This started with taking on divisional technical support duties, while he was working at the World Bank, and led to several opportunities working on USAID projects where he combined his economics and computer backgrounds. His last role before joining DAI was as the Chief Information Officer at Chemonics International. 
