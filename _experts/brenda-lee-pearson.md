@@ -1,6 +1,7 @@
 ---
 title: Brenda Lee Pearson
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Pearson
 summary: 'In the tragic wake of ethnic cleansing and genocide in the Balkans and Rwanda
   in the 1990s, Brenda Lee Pearson and a dozen colleagues launched the International
