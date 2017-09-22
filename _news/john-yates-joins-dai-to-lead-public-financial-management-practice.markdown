@@ -1,7 +1,6 @@
 ---
 title: John Yates Joins DAI to Lead Public Financial Management Practice
 date: 2017-09-22 15:35:00 Z
-published: false
 solutions:
 - Governance
 - Public Financial Management
