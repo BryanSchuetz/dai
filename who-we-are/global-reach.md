@@ -19,7 +19,7 @@ DAI has long had a project presence in the European capital and in 2016 we estab
 
 ## United Kingdom
 
-With offices in Apsley, Hertfordshire and Lewes, Sussex, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict.
+With offices in Apsley, Hertfordshire, and Lewes, Sussex, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict.
 
 <a href="/who-we-are/global-reach/the-united-kingdom" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 <hr>
