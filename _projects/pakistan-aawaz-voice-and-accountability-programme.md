@@ -29,8 +29,6 @@ AAWAZ brings together some of the most important civil society development organ
 
 [AAWAZ][1] works from the community to the national level to enhance women's safe political participation, strengthen community cohesion and nonviolent dispute resolution, and build citizens' capacity, particularly women and other disadvantaged groups, to influence the quality of government service delivery. It also has an investigative component, implemented by the Policy, Advocacy, Research and Results facility, that synthesizes information and findings from AAWAZ and similar programs to build a robust evidence base around community voice and empowerment with a view to initiating reform within Pakistan as well as contributing to global debates on the understanding of citizen empowerment and accountability.
 
-Over the next five years, the program will work with more than 5,000 villages in 45 districts of the provinces of Punjab and Khyber Pakhtunkhwa (KPK).
-
 ###  Sample Activities
 
 * Train community members to raise awareness on the issues of significance of women's role in decision making, participation of women in formal political processes and structures, gender-based violence, and voting rights and responsibilities.
@@ -41,8 +39,8 @@ Over the next five years, the program will work with more than 5,000 villages in
 ###  Select Results
 
 * Established the AAWAZ Steering Committee and Advisory Council to provide overall strategic direction and ensure coordination and agreement at the highest level of leadership of the partner organizations.
-* Piloted key activities in seven districts such as: institutional development; capacity development; community engagement; and advocacy.
-* Development of an Implementation Strategy based on Inception Phase learning gleaned from the baseline study, political economy analysis and the pilot activities.
+* Registered 161,735 women as voter and helped another 189,245 women receive national ID cards.
+* Engaged more than 198,000 members of organizations from the grassroots, district, provincial, and national levels, through AAWAZ forums.
 * Established the Policy, Advocacy, Research and Results (PARR) facility, which includes development of a monitoring and evaluation framework and structure and the development of the Respond Fund strategy.
 * Awarded eight research grants under the Response Fund. These studies complement the baseline study and provide more in-depth examination of issues such as barriers to women's political participation, roots of conflict, males' perceptions of violence against women and the importance of service delivery in political parties' platforms in the two target provinces of Punjab and KPK.
 
