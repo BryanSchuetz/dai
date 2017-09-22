@@ -7,7 +7,7 @@ summary: Nexos Locales is working with 30 Feed the Future municipalities in Guat
   disasters. To achieve this goal, the project works at the intersection—or nexos—of
   good governance.
 start: 2014
-end: 2019
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
