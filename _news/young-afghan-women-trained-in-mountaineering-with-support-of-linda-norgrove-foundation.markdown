@@ -11,7 +11,7 @@ social-image: "/uploads/Ascend-f4f054.jpg"
 
 Last year, DAI employees raised $6,882 through a series of fundraising events for the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/) to benefit [Ascend](https://www.ascendathletics.org/), a woman’s empowerment program in Afghanistan. Ascend develops the leaderships abilities of young Afghan women by teaching mountaineering skills and supporting community service.
 
-![Ascend.jpg](/uploads/Ascend.jpg) The women of Ascend’s 2016 team take an alumni trip together this year to a snowy summit near Kabul.
+![Ascend.jpg](/uploads/Ascend.jpg) `The women of Ascend’s 2016 team take an alumni trip together this year to a snowy summit near Kabul.`
  
 Every year, Ascend trains a new group of women, ages 15-23, beginning with intense workouts and climbing lessons six days a week. Mountaineering skills are complemented by lessons on trauma resiliency, team building, self-esteem, and conflict resolution. The program culminates with the young women testing their new skills on excursions with increasingly difficult climbs. Each member of the Ascend team also spends two days a week volunteering in their community, such as working at a center for street children or an animal shelter, or teaching literacy in a women’s resource center.
  

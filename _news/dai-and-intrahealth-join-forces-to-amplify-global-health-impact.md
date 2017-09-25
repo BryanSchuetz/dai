@@ -20,7 +20,7 @@ IntraHealth’s Board of Directors voted unanimously September 11 to approve the
 As an affiliate of DAI, IntraHealth will retain its name and distinct identity, its nonprofit status, and its guiding mission to improve the performance of health workers and strengthen the systems in which they work. IntraHealth has particular expertise in HIV/AIDS, reproductive health and family planning, maternal and child health services, and digital health innovation.
 
 ![Chris and Pape](/uploads/intrahealth-release.jpg)
-`Christopher LeGrand, President, DAI Global Health, and Pape Amadou Gaye, President and CEO, IntraHealth International`
+`Christopher LeGrand, President, DAI Global Health, and Pape Amadou Gaye, President and CEO, IntraHealth International.`
 
 “For DAI, aligning with IntraHealth offers a powerful infusion of technical resources in health and health informatics, in line with our data-centric, tech-enabled approach to the health challenges of the 21st century,” said [Chris LeGrand](/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “We look forward as partners to expanding DAI’s and IntraHealth’s reach in the domestic and international market, and to offering new combinations of integrated health and development services for public and private sector clients.”
 
