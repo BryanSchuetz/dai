@@ -2,7 +2,6 @@
 title: Young Afghan Women Trained in Mountaineering With Support of Linda Norgrove
   Foundation
 date: 2017-09-25 12:10:00 Z
-published: false
 summary: 'Last year, DAI employees raised $6,882 through a series of fundraising events
   for the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/) to
   benefit [Ascend](https://www.ascendathletics.org/), a woman’s empowerment program
