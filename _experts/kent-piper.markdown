@@ -15,3 +15,5 @@ regions:
 ---
 
 Kent Piper has more than 25 years of professional experience, largely in senior or executive management roles. Steeped in various aspects of corporate finance and operations, he also has direct program management experience in client engagements. He is currently responsible for the finance, operations, and contracts functions in DAI’s U.S. Government Business Unit, overseeing field accounting, project banking, country registration, client invoicing, and staff training. Separately, Kent serves as CEO for DAI’s subsidiary in Pakistan. Before joining DAI, Kent was a senior manager at Arthur Andersen, where he focused on solutions to advance the strategic objectives of the global Andersen organization.
+
+* B.S., business administration, concentrations in finance and accounting, Kogod College of Business, The American University
