@@ -3,8 +3,8 @@ title: Uganda—Governance, Accountability, Participation, and Performance Progr
 date: 2016-01-21 22:40:00 Z
 summary: The Governance, Accountability, Participation, and Performance Program (GAPP)
   works to improve the legal, policy, regulatory, and institutional environment in
-  Uganda in order to enhance democratic governance and the engagement of citizens
-  with their local governments.
+  Uganda to enhance democratic governance and the engagement of citizens with their
+  local governments.
 start: 2013
 end: 2020
 client: U.S. Agency for International Development
