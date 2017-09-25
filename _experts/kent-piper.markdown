@@ -7,7 +7,7 @@ summary: Kent Piper has more than 25 years of professional experience, largely i
   and operations, he also has direct program management experience in client engagements.
 job-title: CEO, DAI Pakistan; Vice President, Finance and Operations, U.S. Government
   Business
-image: "/uploads/Piper,%20Kent-92--3%20in%20300%20dpi.jpg"
+image: "/uploads/Kent%20web.jpg"
 solutions:
 - Economic Growth
 regions:
