@@ -19,25 +19,19 @@ DAI holds umbrella contracts from various clients through which development prog
 ### Environment and Energy
 
 * Restoring the Environment through Prosperity, Livelihoods and Conserving Ecosystems (REPLACE) (2013–2018)
-* Rural and Agricultural Incomes with a Sustainable Environment Plus (RAISE Plus) (2005–2015)
 * Water and Development (WADI) (2015–2019)
 * Strengthening Tenure and Resource Rights (STARR) (2012–2017)
 * Clean Energy for Non-Critical Priority Countries (2013–2018) (DAI sub)
 
 ### Governance
 
-* Legislative Strengthening Technical Assistance Services (2011-2016)
 * Public Financial Management (PFM) (2012-2017)
 * Programming Effectively Against Conflict and Extremism (PEACE) (2013-2018)
 * Making Cities Work (MCW) (2014–2019)
 * Rule of Law Technical Assistance Services (ROL) (2013–2018)
 * YouthPower (2015–2020)
 
-**Health**
-
-* Support for Food Security Activities (SFSA) (2010–2015)
-
-**Information Communications Technology**
+### Information Communications Technology
 
 * mSTAR: Mobile Solutions Technical Assistance and Research (mSTAR) (2013–2015)
 
@@ -67,7 +61,6 @@ DAI holds umbrella contracts from various clients through which development prog
 ### General Services Administration Schedules
 
 * Federal Supply Schedule for Financial and Business Solutions (FABS) (2003-2018)
-* Mission Oriented Business Integrated Services (MOBIS) (2002–2017)
 * Professional Services Schedule (PSS) (2016-2021)
 
 
