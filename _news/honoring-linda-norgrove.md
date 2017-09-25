@@ -1,24 +1,22 @@
 ---
 title: Honoring Linda Norgrove
 date: 2012-10-04 18:05:00 Z
+solutions:
+- Economic Growth
+regions:
+- Eastern Europe and Central Asia
 summary: 'DAI employee Linda Norgrove was kidnapped September 26, 2010, in Kunar Province,
   Afghanistan, and died October 8 during a rescue attempt by U.S. forces. Norgrove
   was working on the [Incentives Driving Economic Alternatives for the North, East,
   and West][1] Program.
 
 '
-solutions:
-- Economic Growth
-regions:
-- Eastern Europe and Central Asia
-projects: 
-clients: 
 layout: node
 ---
 
 DAI employee Linda Norgrove was kidnapped September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt by U.S. forces. Norgrove was working on the [Incentives Driving Economic Alternatives for the North, East, and West][1] Program.
 
-After the [tragedy][2], her parents created the [Linda Norgrove Foundation][3] to support development in Afghanistan, and the advancement of women and children in particular. The foundation is a grant-giving trust that funds education, health, and childcare for Afghan women and children affected by the war.
+After the tragedy, her parents created the [Linda Norgrove Foundation][3] to support development in Afghanistan, and the advancement of women and children in particular. The foundation is a grant-giving trust that funds education, health, and childcare for Afghan women and children affected by the war.
 
 At DAI, we think of Linda often, mourn her loss, and celebrate her memory. The following remarks were written by Linda's father, John Norgrove. We reproduce them here to mark the upcoming two-year anniversary of Linda's death.
 
@@ -41,7 +39,6 @@ _The DAI connection has proved so valuable to us over the past two years; it has
 **Editor's note:** Events to honor Linda Norgrove and benefit the foundation created in her name include the second-annual [Linda Norgrove Valtos Peninsula 10K][5] on October 6 in Linda's childhood home of Uig, Scotland, and a documentary [scheduled to air][6] on BBC Alba on October 8.
 
 [1]: /our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new
-[2]: /news/dai-mourns-loss-friend-and-colleague-linda-norgrove
 [3]: http://www.lindanorgrovefoundation.org.uk/
 [4]: http://www.lindanorgrovefoundation.org/pdf/LNFNewsletterFINAL.pdf
 [5]: http://scottishrunningguide.com/news.php/1423/linda_norgrove_10k_set_for_second_year/full
