@@ -7,9 +7,12 @@ summary: 'Last year, DAI employees raised $6,882 through a series of fundraising
   for the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/) to
   benefit [Ascend](https://www.ascendathletics.org/), a woman’s empowerment program
   in Afghanistan. '
+social-image: "/uploads/Ascend-f4f054.jpg"
 ---
 
 Last year, DAI employees raised $6,882 through a series of fundraising events for the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/) to benefit [Ascend](https://www.ascendathletics.org/), a woman’s empowerment program in Afghanistan. Ascend develops the leaderships abilities of young Afghan women by teaching mountaineering skills and supporting community service.
+
+![Ascend.jpg](/uploads/Ascend.jpg)
  
 Every year, Ascend trains a new group of women, ages 15-23, beginning with intense workouts and climbing lessons six days a week. Mountaineering skills are complemented by lessons on trauma resiliency, team building, self-esteem, and conflict resolution. The program culminates with the young women testing their new skills on excursions with increasingly difficult climbs. Each member of the Ascend team also spends two days a week volunteering in their community, such as working at a center for street children or an animal shelter, or teaching literacy in a women’s resource center.
  
@@ -22,3 +25,5 @@ The Linda Norgrove Foundation was set up after the death of Linda Norgrove, a 
 Since its beginning, the foundation has distributed more than £1 million to almost [50 projects](http://www.lindanorgrovefoundation.org/site/projects) that help women and children affected by the war in Afghanistan. Every year, DAI works with the Foundation to choose a beneficiary organization for its fundraising campaign, with 2017 contributions going towards scholarships for female medical students in Kabul.
 
 This year’s fundraising activities include food and drink sales, a causal wear Friday, a penny collection competition, and the annual Linda Norgrove Foundation 5k walk/run, to be held Saturday, September 30. [Register here](https://runsignup.com/Race/MD/SouthKensington/2016LindaNorgrove5K) to join us this year.
+
+![run.png](/uploads/run.png)
