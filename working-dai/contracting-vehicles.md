@@ -7,16 +7,16 @@ DAI holds umbrella contracts from various clients through which development prog
 
 ### U.S. Agency for International Development
 
-**Capacity Building**
+### Capacity Building
 
 * Human and Institutional Capacity Development for Critical Priority Countries (HICDPro for CPCs) (2013–2018)
 
-**Economic Growth**
+### Economic Growth
 
 * Equatorial Guinea Liquid Natural Gas Operations, SA (2007–2017)
 * SEGIR Financial Sector II Blanket Purchasing Agreement (BPA) (SEGIR-FS II) (2004–2019)
 
-**Environment and Energy**
+### Environment and Energy
 
 * Restoring the Environment through Prosperity, Livelihoods and Conserving Ecosystems (REPLACE) (2013–2018)
 * Rural and Agricultural Incomes with a Sustainable Environment Plus (RAISE Plus) (2005–2015)
@@ -24,7 +24,7 @@ DAI holds umbrella contracts from various clients through which development prog
 * Strengthening Tenure and Resource Rights (STARR) (2012–2017)
 * Clean Energy for Non-Critical Priority Countries (2013–2018) (DAI sub)
 
-**Governance**
+### Governance
 
 * Legislative Strengthening Technical Assistance Services (2011-2016)
 * Public Financial Management (PFM) (2012-2017)
@@ -41,7 +41,7 @@ DAI holds umbrella contracts from various clients through which development prog
 
 * mSTAR: Mobile Solutions Technical Assistance and Research (mSTAR) (2013–2015)
 
-**Stability**
+### Stability
 
 * Support Which Implements Fast Transitions IV (SWIFT IV) (2013-2018)
 * Promoting Gender Equality in National Priority Programs ([Promote](http://www.usaid.gov/afghanistan/promote)) (2014–2019)
@@ -51,7 +51,7 @@ DAI holds umbrella contracts from various clients through which development prog
 
 * [Conflict Stability and Security Fund (CSSF) (2016-2018)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
 
-**Wealth Creation Framework**
+### Wealth Creation Framework
 
 * Lot A–Economic Policy, Trade and Regional Integration (sub to Nathan) (2013–2018)
 * Lot B–Rural Economic Development, Livelihoods, and Natural Resource Management (2013–2018)
