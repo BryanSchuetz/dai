@@ -21,8 +21,8 @@ As mountaineering is primarily considered a men’s activity in Afghanistan, Asc
 
 The Linda Norgrove Foundation was established after the death of Linda Norgrove, a DAI employee who was kidnapped September 26, 2010, in Kunar Province, Afghanistan, and died 12 days later during a rescue attempt by U.S. forces. Norgrove was working on the [Incentives Driving Economic Alternatives for the North, East, and West Program](https://www.dai.com/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new).
 
-Since its beginning, the foundation has distributed more than £1 million to almost [50 projects](http://www.lindanorgrovefoundation.org/site/projects) that help women and children affected by the war in Afghanistan. Every year, DAI works with the foundation to choose a beneficiary organization for its fund-raising campaign, with 2017 contributions going toward scholarships for female medical students in Kabul.
+Since its beginning, the foundation has distributed more than £1 million to almost [50 projects](http://www.lindanorgrovefoundation.org/site/projects) that help women and children affected by the war in Afghanistan. Every year, DAI works with the foundation to choose a beneficiary organization for its fundraising campaign, with 2017 contributions going toward scholarships for female medical students in Kabul.
 
-In addition to fund-raisers being held worldwide, this year’s fund-raising activities by DAI include food and drink sales, a causal wear Friday, a penny collection competition, and the annual Linda Norgrove Foundation 5k walk/run, to be held Saturday, September 30. [Register here](https://runsignup.com/Race/MD/SouthKensington/2016LindaNorgrove5K) to join us this year.
+In addition to fundraisers being held worldwide, this year’s fundraising activities by DAI include food and drink sales, a causal wear Friday, a penny collection competition, and the annual Linda Norgrove Foundation 5k walk/run, to be held Saturday, September 30. [Register here](https://runsignup.com/Race/MD/SouthKensington/2016LindaNorgrove5K) to join us this year.
 
 ![run.png](/uploads/run.png)
