@@ -50,24 +50,15 @@ DAI holds umbrella contracts from various clients through which development prog
 ### U.K. Department for International Development
 
 * [Conflict Stability and Security Fund (CSSF) (2016-2018)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
-* Fragile and Conflict Affected States Framework Agreement (2012–2016)
-
-**Governance and Security Framework**
-
-* Lot A – Public Sector Governance (2012–2016)
-* Lot B – Public Financial Management (2012–2016)
-* Lot D – Security and Justice Reform (2012–2016)
-* Lot E – Peace-building and State-building (2012–2016)
-* Lot F – Empowerment and Accountability (2012–2016)
 
 **Wealth Creation Framework**
 
-* Lot A–Economic Policy, Trade and Regional Integration (sub to Nathan) (2013–2015)
-* Lot B–Rural Economic Development, Livelihoods, and Natural Resource Management (2013–2015)
-* Lot C–Infrastructure (sub to Nathan) (2013–2015)
-* Lot D–Financial Sector Development (2013–2015)
-* Lot E–Private Sector Development and Market Development (2013–2015)
-* Lot F-Investment Climate Reform (2013-2015)
+* Lot A–Economic Policy, Trade and Regional Integration (sub to Nathan) (2013–2018)
+* Lot B–Rural Economic Development, Livelihoods, and Natural Resource Management (2013–2018)
+* Lot C–Infrastructure (sub to Nathan) (2013–2018)
+* Lot D–Financial Sector Development (2013–2018)
+* Lot E–Private Sector Development and Market Development (2013–2018)
+* Lot F-Investment Climate Reform (2013-2018)
 
 ### Australian Department of Foreign Affairs and Trade
 
