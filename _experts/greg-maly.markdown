@@ -5,7 +5,7 @@ lastname: Maly
 summary: Greg Maly has spent his career working at the intersection of global development
   and diplomacy, technology, and the arts.
 job-title: Data Scientist and Technical Solutions Engineer
-image: "/uploads/greg%20portal.jpg"
+image: "/uploads/greg.jpg"
 solutions:
 - Digital
 - Stabilization
