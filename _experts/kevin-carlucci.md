@@ -6,7 +6,7 @@ summary: Kevin Carlucci focuses on resource use efficiency (water, energy) and g
   of land and its natural resources. He has particular interest in environmental finance,
   such as payments for ecosystem services, and in working to demystify how to access
   climate adaptation funding.
-job-title: Senior Global Practice Specialist, Environment
+job-title: Senior Global Practice Specialist, Environment and Land
 image: https://assetify-dai.com/experts/Kevin%20inner.jpg
 solutions:
 - Clean Energy and Energy Efficiency
@@ -14,6 +14,7 @@ solutions:
 - Environment and Energy
 - Natural Resource Management
 - Water and Sanitation Services and Management
+- Land Tenure and Property Rights
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean
