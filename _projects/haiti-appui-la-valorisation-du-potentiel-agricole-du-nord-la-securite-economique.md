@@ -21,7 +21,7 @@ layout: project
 
 Despite the steeply sloped terrain, the soil of northern Haiti has the potential to produce profitable cash crops such as rice, bananas, and cacao. However, a lack of access to markets and poor agriculture techniques has kept crop prices and yields low, while floods, droughts, and landslides are a constant threat to farmers’ harvests and livelihoods. These factors have contributed to a persistent cycle of poverty, malnutrition, and food insecurity in the region.
 
-To help Haitian farmers confront these challenges, the U.S. Agency for International Development (USAID), in collaboration with the Haitian Ministry of Agriculture, has launched the Feed the Future AVANSE program to catalyze inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. AVANSE is the flagship Feed the Future program in the region, and partners with smallholder farmers to build resilience to extreme weather events, increase agricultural productivity, and improve livelihood opportunities.
+To help Haitian farmers confront these challenges, the U.S. Agency for International Development (USAID), in collaboration with the Haitian Ministry of Agriculture, launched the AVANSE program to catalyze inclusive, sustainable economic growth in a potentially highly productive agricultural area in Haiti. AVANSE is the flagship Feed the Future program in the region, and partners with smallholder farmers to build resilience to extreme weather events, increase agricultural productivity, and improve livelihood opportunities.
 
 AVANSE works with both farmers and the private sector to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing direct access  to produce buyers.
 
@@ -30,23 +30,15 @@ AVANSE works with both farmers and the private sector to address key constraints
 ### Sample Activities
 
 * Introduce higher-yield crop varieties and cultivation techniques for strategic crops (rice, bananas, and cacao).
-
 * Pilot a voucher program to increase beneficiaries' access to agricultural inputs, such as seeds, fertilizers, and pesticides, while stimulating local markets for these commodities.
-
 * Conduct environmental assessments in watersheds to ensure compliance with Haitian Government and USAID environmental regulations and to create a better understanding of the delicate nature of the watersheds and dangers of mismanagement.
-
 * Provide grants to community-based organizations for agroforestry and soil conservation activities, including training and purchasing planting material and seedlings.
-
 * Provide grants to local businesses for equipment and small-scale infrastructure to increase productivity and create jobs.
 
 ### Select Results
 
 * In 2016, organized smallholder cacao farmers into vendor groups to combine and manage stocks and sell directly to Haiti’s largest cacao exporter, Novella, leading to an almost 100 percent increase in the price per pound sold by farmers.
-
 * Collaborated with local nongovernmental organization Collectifs de Lutte Contre  l’Exclusion Sociale to sign an agreement to purchase high-quality rice seeds produced by AVANSE farmers, resulting in five tons of seed sold by farmers at 68 Haitian Gourde (HTG) per kilo, compared to 35 HTG per kilo that most farmers previously earned selling rice seed on the local market.
-
 * Implemented improved technologies to help increase crop yields in more than 4,790 hectares of farmland in 2016, including fertilizers, plowing services, irrigation systems, and grafting and pruning tools.
-
 * Signed 11 grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 667 hectares of hillside land from soil erosion and prevent flooding and landslides.
-
 * Providing support to ongoing grant programs/public-private partnerships to improve local livelihoods; one grant for Haitian Banana Producers Union to develop a 50-hectare commercial farm for the production and export of bananas, and another with cacao processor PISA S.A. to expand cacao fermentation facilities and improve the quality and value of cacao producers’ output.
