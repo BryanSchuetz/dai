@@ -1,5 +1,5 @@
 sudo: required
-dist: precise
+dist: trusty
 language: node_js
 node_js:
   - "0.12"
@@ -12,6 +12,8 @@ cache:
     - node_modules
 
 script:
+  - npm install -g gulp
+  - npm install --save-dev gulp
   - npm install
   - gulp aggregate
   - bundle install
