@@ -1,7 +1,6 @@
 ---
 title: Shannon Dugan
 date: 2017-09-26 19:07:00 Z
-published: false
 lastname: Dugan
 summary: 'As Deputy Chief of Party for the Mekong Adaptation and Resilience to Climate
   Change project, Shannon managed community and ecosystem-based agricultural adaptation
