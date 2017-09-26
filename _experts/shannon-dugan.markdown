@@ -7,6 +7,7 @@ summary: 'As Deputy Chief of Party for the Mekong Adaptation and Resilience to C
   Change project, Shannon managed community and ecosystem-based agricultural adaptation
   and translated climate change projections and impacts for targeted users. '
 job-title: Global Practice Specialist-Environment
+image: "/uploads/DAI-Bio----Shannon-Dugan.jpg"
 solutions:
 - Environment and Energy
 regions:
