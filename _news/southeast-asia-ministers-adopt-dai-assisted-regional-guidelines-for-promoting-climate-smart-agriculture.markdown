@@ -1,7 +1,7 @@
 ---
 title: Southeast Asia Ministers Adopt DAI-Assisted Regional Guidelines for Promoting
   Climate Smart Agriculture
-date: 2017-09-26 21:36:00 Z
+date: 2017-09-27 09:36:00 Z
 published: false
 solutions:
 - Environment and Energy
