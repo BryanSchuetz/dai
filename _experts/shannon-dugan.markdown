@@ -16,5 +16,5 @@ Shannon Dugan’s work has focused on the nexis of climate change, rural livelih
 Shannon is fluent in Spanish. She has worked in Asia, Latin America, and Africa—merging technical and operational duties to improve project management and technical direction. In addition to climate change adaptation, her technical areas of experience include ecosystem valuation, biodiversity conservation, energy efficiency, climate finance, and natural resource management. Shannon leads the Green Climate Fund business initiative, which led to DAI’s becoming an Accredited Observer for the fund.
 
 * M.A., public policy, Lyndon B. Johnson School for Public Affairs, University of Texas at Austin
-* B.A., Government, Rhodes College
+* B.A., government, University of Texas at Austin
 * Certificate, Formulating Project Proposals for Low Carbon Climate Resilient Development: Designing Green Climate Fund Projects, University of Twente, the Netherlands
