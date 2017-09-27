@@ -4,7 +4,7 @@ date: 2017-09-26 19:07:00 Z
 lastname: Dugan
 summary: 'Shannon Dugan’s work has focused on the nexis of climate change, rural livelihoods,
   and natural resource management. '
-job-title: Global Practice Specialist-Environment
+job-title: Global Practice Specialist, Environment
 image: "/uploads/DAI-Bio----Shannon-Dugan.jpg"
 solutions:
 - Environment and Energy
