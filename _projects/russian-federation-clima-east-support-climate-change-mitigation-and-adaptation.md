@@ -2,10 +2,10 @@
 title: 'European Neighbourhood Policy East Countries—Clima East: Support to Climate
   Change Mitigation and Adaptation'
 date: 2016-01-21 22:40:00 Z
-summary: The Clima East programme works to help integrate the countries' climate change
-  strategies, greenhouse gases mitigation plans and adaptation approaches. The programme
-  is part of a larger Clima East package, to include a pilot project component, implemented
-  by UNDP, supporting the development of ecosystems-based approaches to climate change.
+summary: The Clima East programme helped integrate the countries' climate change strategies,
+  greenhouse gases mitigation plans, and adaptation approaches. The programme was
+  part of a larger Clima East package, supporting the development of ecosystems-based
+  approaches to climate change.
 start: 2012
 end: 2017
 client: European Commission
@@ -21,7 +21,7 @@ country:
 layout: project
 ---
 
-The countries of the ENP East region—[Armenia][1], Azerbaijan, Belarus, Georgia, Moldova, and Ukraine are signatories of the UN Framework Convention on Climate Change and its Kyoto Protocol, and as such have a number of obligations. The Clima East programme works to help integrate the countries' climate change strategies, greenhouse gases mitigation plans and adaptation approaches, with activities carried out across the region. The programme is part of a larger [Clima East][2] package, to include a pilot project component, implemented by UNDP, supporting the development of ecosystems-based approaches to climate change.
+The countries of the ENP East region—[Armenia][1], Azerbaijan, Belarus, Georgia, Moldova, and Ukraine are signatories of the UN Framework Convention on Climate Change and its Kyoto Protocol, and as such have a number of obligations. The Clima East programme helped integrate the countries' climate change strategies, greenhouse gases mitigation plans and adaptation approaches, with activities carried out across the region. The programme was part of a larger [Clima East][2] package that supported the development of ecosystems-based approaches to climate change.
 
 ###  Sample Activities
 
