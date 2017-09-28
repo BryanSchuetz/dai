@@ -36,7 +36,7 @@ The countries of the ENP East region—[Armenia][1], Azerbaijan, Belarus, Georgi
 
 * Increased understanding of the EU Climate Change and energy acquis and the 20/20/20 agenda.
 * Responsible public institutions will competently address the Kyoto- and post-Kyoto regime under the UNFCCC, and be strengthened to comply with regulations.
-* Developed state-of-the-art national climate change mitigation and adaptation policies.
+* Developed state-of-the-art national [climate change mitigation and adaptation policies](http://dai-global-developments.com/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/).
 * Increased capacity for climate change vulnerability and impact assessments and for adaptation planning.
 * Prepared national and/or regional emissions trading schemes.
 * Progress made in elaboration of low carbon/low emissions development strategies.
