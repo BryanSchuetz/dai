@@ -26,7 +26,7 @@ The U.S Agency for International Development (USAID)’s Promote: Women in the E
 
 With its focus on both private sector and workforce development, WIE is based in five economic zones across the country and works across 30 Afghan provinces. WIE assists women-owned businesses and businesses that employ at least 10 percent women to perform better, increasing the income growth and sustainability of these businesses. The program provides technical assistance, industry-specific business skills training, and improved access to markets to leverage growth in the private sector.
 
-To help female jobseekers, WIE supports educated women the ages of 18 to 30 in finding new or better jobs through career counseling, workplace skills development, and technical skills training based on market demand. This is done by partnering with local educational, vocational, and technical training providers to deliver services, and by funding scholarships for training and certification programs. The project also supports internships, apprenticeships, and job placement services that give women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions. WIE also incentivizes companies to improve workplace environments for women.
+To help female jobseekers, WIE supports educated women the ages of 18 to 30 in finding new or better jobs through career counseling, workplace skills development, and technical skills training based on market demand. This is done by partnering with local educational, vocational, and technical training providers to deliver services, and by funding scholarships for [training](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) and certification programs. The project also supports internships, apprenticeships, and job placement services that give women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions. WIE also incentivizes companies to improve workplace environments for women.
 
 Consortium partners include Afghan firms Afghanistan Holding Group, Afghanistan Center for Excellence, Afghanistan Microfinance Association, Rumi Consultancy, and RSI Consulting (M&E), as well as the Thunderbird School of Global Management at Arizona State University.
 
@@ -44,6 +44,6 @@ Consortium partners include Afghan firms Afghanistan Holding Group, Afghanistan 
 * Placed close to 4,000 interns in more than 400 companies in 30 Afghan provinces.
 * 556 of these interns with a medical background are placed within 138 hospitals and clinics.
 * 1,023 of these interns are placed within 164 schools and 32 universities throughout the country.
-* Placed 70 young women into microfinance trainee programs within six different microfinance institutions, located in three urban regional centers.
+* Placed 70 young women into [microfinance trainee](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) programs within six different microfinance institutions, located in three urban regional centers.
 * Provided 25,000 hours of job readiness training nationwide for 1,600 young women.
 * Facilitated nine small business loans to women-owned companies totaling more than US$20,000.
