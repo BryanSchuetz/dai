@@ -1,10 +1,13 @@
 ---
 title: Local Content and Supply Chain Management
-date: 2016-01-22 00:11:14.114000000 Z
+date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/corporate/local-content-and-supply-chain-management"
-layout: solution
 solutions:
 - Sustainable Business
+promos:
+  title: Local Content Plan and Report Brochure
+  link: "/uploads/LCPR%20Brochure%20(r8)%20pdf.pdf"
+layout: solution
 ---
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) builds in-house programs or develops multistakeholder, industry-wide solutions that will create a sustainable industrial base without losing sight of immediate business needs. Our approach begins with a discussion of business objectives, procurement needs, and community expectations, and includes target-setting, stakeholder engagement, measurement and evaluation, and communications. We help clients determine if and how to engage other operators, contractors, governments, and communities in the program. We can focus our services to meet particular needs or build directories that broaden suppliers’ markets, thereby improving their abilities to thrive and to support procurement needs.
