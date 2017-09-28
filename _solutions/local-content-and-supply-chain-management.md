@@ -4,9 +4,6 @@ date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/corporate/local-content-and-supply-chain-management"
 solutions:
 - Sustainable Business
-promos:
-- title: Local Content Plan and Reporting Brochure
-  link: "/uploads/LCPR%20Brochure%20(r8)%20pdf.pdf"
 layout: solution
 ---
 
