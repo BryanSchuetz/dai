@@ -5,7 +5,7 @@ permalink: "/our-work/solutions/corporate/local-content-and-supply-chain-managem
 solutions:
 - Sustainable Business
 promos:
-  title: Local Content Plan and Report Brochure
+- title: Local Content Plan and Reporting Brochure
   link: "/uploads/LCPR%20Brochure%20(r8)%20pdf.pdf"
 layout: solution
 ---
