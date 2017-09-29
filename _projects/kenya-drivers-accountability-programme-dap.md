@@ -1,9 +1,9 @@
 ---
 title: Kenya—Drivers of Accountability Programme (DAP)
 date: 2016-01-21 22:40:00 Z
-summary: This programme was prompted by the post-election violence of 2007–2008 in
-  Kenya, when implications of impunity, lack of accountability, and need for an overhaul
-  of the constitutional, legislative, electoral, and judicial environment became critical.
+summary: The Driver’s of Accountability Programme worked to address the issues of
+  impunity and lack of accountability that fed into the post-election violence of
+  2007–2008 in Kenya.
 start: 2010
 end: 2015
 client: U.K. Department for International Development
@@ -20,7 +20,7 @@ country:
 layout: project
 ---
 
-Following the post-election violence of 2007–2008 in Kenya, the need for an overhaul of the constitutional, legislative, electoral, and judicial environment became critical. To address the issues of impunity and lack of accountability that fed into the unrest, the U.K. Department for International Development (DFID) and the Danish International Development Agency (DANIDA) jointly supported the Driver’s of Accountability Program (DAP) to improve the Kenyan government’s accountability to its citizens.
+Following the post-election violence of 2007–2008 in Kenya, the need for an overhaul of the constitutional, legislative, electoral, and judicial environment became critical. To address the issues of impunity and lack of accountability that fed into the unrest, the U.K. Department for International Development (DFID) and the Danish International Development Agency (DANIDA) jointly supported the Driver’s of Accountability Programme (DAP) to improve the Kenyan government’s accountability to its citizens.
 
 DAP supported key reforms and built on efforts to strengthen oversight and increase the demand for accountability and better governance, helping Kenya to become a more stable democracy. The project supported a wide range of civil society groups, media, oversight bodies, and independent commissions to influence and deliver governance reforms in Kenya.
 
