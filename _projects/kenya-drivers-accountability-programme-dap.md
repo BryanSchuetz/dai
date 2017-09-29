@@ -20,23 +20,23 @@ country:
 layout: project
 ---
 
-This programme was prompted by the post-election violence of 2007–2008 in Kenya, when implications of impunity, lack of accountability, and need for an overhaul of the constitutional, legislative, electoral, and judicial environment became critical. DAP's goal was to improve the Kenyan Government's accountability to its citizens. We supported key reforms and built on efforts to strengthen oversight and the demand for accountability and better governance, and in doing so, helped make Kenya a more stable democracy. With our partner, the Overseas Development Institute, we supported the programme's Joint Steering Committee of donors, as well as executed and managed grants. DAP supported a wide range of civil society organisations, media, oversight bodies, and independent commissions to influence and deliver governance reforms in Kenya. 
+Following the post-election violence of 2007–2008 in Kenya, the need for an overhaul of the constitutional, legislative, electoral, and judicial environment became critical. To address the issues of impunity and lack of accountability that fed into the unrest, the U.K. Department for International Development (DFID) and the Danish International Development Agency (DANIDA) jointly supported the Driver’s of Accountability Program (DAP) to improve the Kenyan government’s accountability to its citizens.
 
-![][1]
+DAP supported key reforms and built on efforts to strengthen oversight and increase the demand for accountability and better governance, helping Kenya to become a more stable democracy. The project supported a wide range of civil society groups, media, oversight bodies, and independent commissions to influence and deliver governance reforms in Kenya.
 
-###  Sample Activities
+![](https://assetify-dai.com/projects/Kenya----Drivers-of-Accountability-Programme.jpg)
 
-* Develop a comprehensive suite of program management tools, including grant selection criteria, grant agreements, grant proposal templates, templates for budget and risk management models, and monitoring and evaluation tools.
-* Assess the capacity of potential grantees, and train them on the programme's vision and goals.
-* Engage the public and build coalitions at the county level to jointly plan improvements to public service delivery and strengthen formal and informal accountability mechanisms between elected country leaders and citizens.
+### Sample Activities
 
-###  Select Results
+* Developed suite of program management tools, including grant selection criteria templates, budget and risk management models, and monitoring and evaluation tools.
+* Assessed the capacity of potential grantees, and trained them on DAP vision and goals.
+* Built county-level coalitions to jointly plan improvements to public service delivery and strengthen accountability mechanisms between elected country leaders and citizens.
+* Supported policy framework for country-wide devolution and increased citizen participation through public awareness-raising campaigns.
 
-* Launched Forum Syd, a mobile phone text messaging platform, that mobilised and actively engaged more than 20,000 citizens across four counties around leadership, devolution, and public participation topics. 
-* Supported partners that scrutinised legislation being developed to
-improve the legal framework for fighting corruption and impunity. The success rate for their suggested amendments was high; by one count, 79 percent were reflected in the final law.
-* Supported a variety of partners in producing stories on corruption and in building the capacity of investigative journalists. For example, AfriCOG produced more than 18 investigative stories, estimated to have reached more than 800,000 members of the public.
-* Facilitated more than 1,200 public forums where nearly 54,000 citizens interacted with leaders in planning improvements to public services.
-* Established the Education Accountability Fund (EAF) to support selected sector players to strengthen oversight and improve integrity in education sector. Between 2012 and 2014, EAF supported 12 projects in more than 2,800 schools across the country. 
+### Select Results
 
-[1]: https://assetify-dai.com/projects/Kenya----Drivers-of-Accountability-Programme.jpg
+* Reached 15 million Kenyans with civic education messages through radio, television, community dialogue sessions, mobile text messaging, and other channels.
+* Supported partners in reviewing new anti-corruption and anti-impunity bills, with 79 percent of amendment suggestions reflected in final laws.
+* Supported the production of news stories on corruption and built the capacity of investigative journalists, with partner African Centre for Open Governance producing 18 investigative stories that reached 800,000 people.
+* DAP-sponsored anti-corruption messaging reached 9.5 million people through televised public service announcements, as well as online and physical distribution of anticorruption policy briefs and reports.
+* Provided budget, planning, and policymaking capacity building to more than 500 women leaders, which was used to successfully lobby for gender-responsive county development planning.
