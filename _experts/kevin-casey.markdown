@@ -1,7 +1,6 @@
 ---
 title: Kevin Casey
 date: 2017-10-04 20:36:00 Z
-published: false
 lastname: Casey
 summary: In his role as research director for the Center for Secure and Stable States
   (CS3), Kevin Casey is bringing his expertise to CS3’s projects to increase the quality
