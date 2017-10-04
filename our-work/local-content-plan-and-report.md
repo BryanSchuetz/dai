@@ -2,7 +2,6 @@
 title: Local Content Plan and Report Platform
 date: 2017-06-19 15:11:00 Z
 layout: default
-published: false
 ---
 
 # Local Content Plan and Reporting Platform
@@ -47,3 +46,7 @@ Automatically runs a Calibrated Economic Value model (CEV) to generate indicator
 ![Planning](/uploads/lcpr-plan.png){: style="border: 0px;"}
 
 Forecasts of Local Content are uploaded as targets—part of building a Local Content Plan for operator or primary contractors. Planning includes qualitative sub-plans for recruitment, training, local sourcing, supplier development, etc.
+
+## Arrange a demonstration
+
+Please contact either [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Specialist in Local Content or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager, Mining to arrange for a demonstration of the software.
