@@ -7,6 +7,11 @@ summary: In his role as research director for the Center for Secure and Stable S
   (CS3), Kevin Casey is bringing his expertise to CS3’s projects to increase the quality
   and impact of project research.
 job-title: Research Director, Center for Secure and Stable States (CS3)
+image: "/uploads/Kevin%20Casey.jpg"
+solutions:
+- Fragile States
+regions:
+- Sub-Saharan Africa
 ---
 
 Kevin Casey is an applied researcher with experience brining innovative methodologies to research in conflict, transitional, and stabilization contexts. Kevin has designed and executed research in complex environments for the U.S. Agency for International Development’s Office of Transition Initiatives, U.S. Army Africa, and U.S. Forces in Iraq. In each case, Kevin focused on developing processes for discerning research needs, designing methods that are suitable and practical to specific contexts, and translating research findings into actionable recommendations to drive programmatic responses and strategy. Kevin has researched extensively in the technical areas of countering violent extremism, conflict and reconciliation, security cooperation, and political transition in places such as Botswana, Ghana, Iraq, Libya, Syria, Tanzania, and Tunisia.
