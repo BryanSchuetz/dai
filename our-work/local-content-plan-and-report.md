@@ -7,7 +7,7 @@ layout: default
 
 # Local Content Plan and Reporting Platform
 
-LCPR is an online software platform for local content compliance, planning, and performance reporting. Configured to domestic regulations, LCPR assures companies meet their obligations to comply with local content, contract tendering, and reporting requirements.  [Read the full brochure](https://www.dai.com/uploads/LCPR%20Brochure%20(r8)%20pdf.pdf).
+LCPR is an online software platform to help companies meet their governmental obligations to comply with local content, contract tendering, and reporting requirements. The platform covers local content compliance, planning, and performance reporting—configured to any domestic regulation. [Read the full brochure](https://www.dai.com/uploads/LCPR%20Brochure%20(r8)%20pdf.pdf).
 
 ## Fully configurable to different local content requirements, metrics, and key performance indicators
 
