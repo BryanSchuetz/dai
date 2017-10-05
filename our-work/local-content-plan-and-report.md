@@ -49,4 +49,4 @@ Forecasts of local content are uploaded as targets—part of building a Local Co
 
 ## Arrange a demonstration
 
-Please contact [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Specialist in Local Content or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager, Mining to arrange for a demonstration of the software.
+Please contact [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Specialist in Local Content, or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager of Mining, for a demonstration of the software.
