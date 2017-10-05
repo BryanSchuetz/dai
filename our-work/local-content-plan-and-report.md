@@ -39,14 +39,14 @@ Super users are able to very quickly verify large amounts of data and correct er
 
 ![Analytics](/uploads/lcpr-analytics.png){: style="border: 0px;"}
 
-Automatically runs a Calibrated Economic Value model (CEV) to generate indicators of impact on domestic economy, saving regulators, companies, and primary contractors. Tracks performance against targets, to identify trends, non-compliance, successes, and areas in need of improvement.
+The platform automatically runs a calibrated economic value model to generate indicators of impact on domestic economy, saving regulators, companies, and primary contractors. It tracks performance against targets to identify trends, non-compliance, successes, and areas in need of improvement.
 
 ## Creates and tracks local content plans
 
 ![Planning](/uploads/lcpr-plan.png){: style="border: 0px;"}
 
-Forecasts of Local Content are uploaded as targets—part of building a Local Content Plan for operator or primary contractors. Planning includes qualitative sub-plans for recruitment, training, local sourcing, supplier development, etc.
+Forecasts of local content are uploaded as targets—part of building a Local Content Plan for operator or primary contractors. Planning includes recruitment, training, local sourcing, supplier development, and more.
 
 ## Arrange a demonstration
 
-Please contact either [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Specialist in Local Content or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager, Mining to arrange for a demonstration of the software.
+Please contact [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Specialist in Local Content or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager, Mining to arrange for a demonstration of the software.
