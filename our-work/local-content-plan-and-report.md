@@ -1,7 +1,6 @@
 ---
 title: Local Content Plan and Report Platform
 date: 2017-06-19 15:11:00 Z
-published: false
 layout: default
 ---
 
@@ -49,4 +48,4 @@ Forecasts of local content are uploaded as targets—part of building a Local Co
 
 ## Arrange a demonstration
 
-Please contact [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Specialist in Local Content, or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager of Mining, for a demonstration of the software.
+Please contact [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Advisor in Local Content, or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager of Mining, for a demonstration of the software.
