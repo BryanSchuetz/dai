@@ -61,21 +61,21 @@ SBG works across industries including oil and gas, metals and mining, capital pr
 
 ## Technical Service Areas: 
 
-**[Local Content Solutions](/our-work/solutions/corporate/local-content-and-supply-chain-management)**
+## [Local Content Solutions](/our-work/solutions/corporate/local-content-and-supply-chain-management)
 
 Today’s global supply chain is comprised of millions of small firms. Cost savings often drive companies to seek local suppliers, but that cost advantage—and the company brand—will be at risk if suppliers cannot meet market expectations for quality and reliability. Compounding the challenge are the limited numbers of capable local suppliers, a likely lack of in-house expertise to assess or build suppliers’ capabilities, and inadequate collaboration among operators, contractors, communities, and governments. 
 
 We help companies overcome these challenges and improve compliance with local content requirements in cost-effective ways, thereby supporting economic development, strengthening relationships with local communities and government, and—over time—lowering procurement costs. 
 
-**Corporate Social Investment**
+## Corporate Social Investment
 
 We design and manage initiatives that promote community development and improve human capital to achieve our clients’ sustainability goals. Using the latest ICT tools to inform unique program designs, SBG helps businesses build and shape sustainable and socially responsible profiles.
 
-**Government Engagement** 
+## Government Engagement
 
 We secure our clients’ social license to operate by assessing above-ground risk and establishing trusted partnerships with key stakeholders to mitigate those risks.
 
-**Performance Monitoring, Evaluation, and Reporting** 
+## Performance Monitoring, Evaluation, and Reporting
 
 We work with clients to assess their impact and provide premium reporting to support performance improvement and transparency. This recounting is critical to ensuring responsible business practices in emerging markets.
 
