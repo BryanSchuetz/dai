@@ -15,13 +15,13 @@ Our platform saves clients money and months of software programming, because it 
 
 ![Configuration](/uploads/lcpr-configure.png){: style="border: 0px;"}
 
-The entire platform can be up and running in a couple of weeks, including in-person or online training of those personnel who will be using it. Three days of training is included at the regulator/corporation level; one day of training is include at the company management level.
+The entire platform can be up and running in a couple of weeks, including in-person or online training of those personnel who will be using it. Three days of training is included at the regulator/corporation level; one day of training is included at the company management level.
 
 ## Fully flexible company structure and unlimited supply chain users
 
 ![Users](/uploads/lcpr-users.png){: style="border: 0px;"}
 
-**“Super user” **roles can be set up at the regulator or corporate level and for each reporting company. Super users create the company structure and lower-tier usage—allocating to each user the ability to add, view, or edit data. 
+**“Super user” **roles can be set up at the regulator or corporate level and for each client. Super users create the company structure and lower-tier usage—allocating to each user the ability to add, view, or edit data. 
 
 ## Generates management dashboards and balanced scorecards
 
