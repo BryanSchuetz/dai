@@ -7,34 +7,33 @@ layout: default
 
 # Local Content Plan and Reporting Platform
 
-LCPR is an online software platform for Local Content compliance, planning and performance reporting. Configured to domestic regulations LCPR assures companies meet their obligations to comply with local content, contract tendering, and reporting requirements.  [Read the full brochure](https://www.dai.com/uploads/LCPR%20Brochure%20(r8)%20pdf.pdf).
+LCPR is an online software platform for local content compliance, planning, and performance reporting. Configured to domestic regulations, LCPR assures companies meet their obligations to comply with local content, contract tendering, and reporting requirements.  [Read the full brochure](https://www.dai.com/uploads/LCPR%20Brochure%20(r8)%20pdf.pdf).
 
-## Fully configurable to different Local Content requirements, metrics, and key performance indicators
+## Fully configurable to different local content requirements, metrics, and key performance indicators
 
-The uniquness of the platform is that it saves clients money and months of software programming, because the tool can be rapidly configured (ie zero additional software coding) to virtually any policy, law, regulation or corporate or country strategy on Local Content in a matter of just a few days.
+Our platform saves clients money and months of software programming, because it can be rapidly configured to fit any policy, law, regulation, corporate, or country strategy on local content in just a few days.
 
 ![Configuration](/uploads/lcpr-configure.png){: style="border: 0px;"}
 
-The platform can be up and running ‘live‘ in a couple of weeks, including completion of on-line or workshop-based training of users (3 days trainnig to regulator/corporation level, 1 day trainng to company Procurement and HR managers).
+The entire platform can be up and running in a couple of weeks, including in-person or online training of those personnel who will be using it. Three days of training is included at the regulator/corporation level; one day of training is include at the company management level.
 
 ## Fully flexible company structure and unlimited supply chain users
 
 ![Users](/uploads/lcpr-users.png){: style="border: 0px;"}
 
-**Super User** roles can be set up at regulator or corporate level, and for each reporting company. Super Users create the company structure
-and lower-tier users—allocating to each the ability to add, view or edit data. Other than username, password and contact email, no private infomation (addreses, phone, etc) is held by the system.
+**“Super user” **roles can be set up at the regulator or corporate level and for each reporting company. Super users create the company structure and lower-tier usage—allocating to each user the ability to add, view, or edit data. 
 
 ## Generates management dashboards and balanced scorecards
 
 ![Dashboards](/uploads/lcpr-dashboard.png){: style="border: 0px;"}
 
-Presents headline performance for Nationals in the Workforce, Local Procurement and Local Capacity Developent. Sets targets against any configured metrics and across any time periods, faciliating milestone payments against local content delivery
+The platform presents high-level performance targets for nationals in workforce, local procurement, and local capacity development categories. It sets targets against any configured metrics and across any time periods, facilitating milestone payments.
 
-## High speed data verification and correction
+## High-speed data verification and correction
 
 ![Verification](/uploads/lcpr-verification.png){: style="border: 0px;"}
 
-Imperative is that such a system faciliates Super Users to very quickly verify large amounts of data and enable users to correct errors. Cluster Status and Master Status screens allow Super Users to drill down into the original source data to verify and re-set erroneous data. 
+Super users are able to very quickly verify large amounts of data and correct errors. “Cluster status” and “master status” screens allow super users to drill down into the original source data to verify and reset erroneous data.
 
 ## Local content analytical tools
 
