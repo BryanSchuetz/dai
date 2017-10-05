@@ -45,7 +45,7 @@ The platform automatically runs a calibrated economic value model to generate in
 
 ![Planning](/uploads/lcpr-plan.png){: style="border: 0px;"}
 
-Forecasts of local content are uploaded as targets—part of building a Local Content Plan for operator or primary contractors. Planning includes recruitment, training, local sourcing, supplier development, and more.
+Forecasts of local content are uploaded as targets—part of building a Local Content Plan for operators or primary contractors. Planning includes recruitment, training, local sourcing, supplier development, and more.
 
 ## Arrange a demonstration
 
