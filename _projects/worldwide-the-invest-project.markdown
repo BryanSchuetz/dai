@@ -2,10 +2,10 @@
 title: Worldwide—The Invest Project
 date: 2017-10-06 19:20:00 Z
 summary: The Invest Project is a flagship U.S. Agency for International Development
-  (USAID) program to research, develop, and build “blended finance” solutions to be
-  incorporated into development programs. Blended finance uses public resources, such
-  as USAID’s, and philanthropic funds to catalyze private capital flows in pursuit
-  of development results and financial returns.
+  (USAID) program to research, develop, and build “blended finance” solutions  to
+  development challenges. Blended finance uses public resources, such as USAID’s,
+  and philanthropic funds to catalyze private capital flows in pursuit of development
+  results and financial returns.
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
@@ -14,7 +14,7 @@ solutions:
 regions: Worldwide
 ---
 
-The Invest Project is a flagship U.S. Agency for International Development (USAID) program to research, develop, and build “blended finance” solutions to be incorporated into development programs. Blended finance uses public resources, such as USAID’s, and philanthropic funds to catalyze private capital flows in pursuit of development results and financial returns. 
+The Invest Project is a flagship U.S. Agency for International Development (USAID) program to research, develop, and build “blended finance” solutions to development challenges. Blended finance uses public resources, such as USAID’s, and philanthropic funds to catalyze private capital flows in pursuit of development results and financial returns. 
 
 These flows can include equity, capital, and angel investments and financing—anything that attracts additional, business-minded funding into initiatives in agriculture, water and sanitation, trade, health, energy, and other areas. The especially includes attracting equity investments into small and growing businesses operating in these sectors in developing countries.
 
