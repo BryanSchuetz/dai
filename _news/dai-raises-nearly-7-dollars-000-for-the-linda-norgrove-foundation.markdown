@@ -1,7 +1,6 @@
 ---
 title: DAI Raises Nearly $7,000 for the Linda Norgrove Foundation
 date: 2017-10-06 12:26:00 Z
-published: false
 summary: DAI hosted a number of events throughout the month of September to raise
   funds for the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/.
   The events raised a total of $6,800.
