@@ -12,6 +12,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 regions: Worldwide
+country: Worldwide
 ---
 
 The Invest Project is a flagship U.S. Agency for International Development (USAID) program to research, develop, and build “blended finance” solutions for development challenges. Blended finance uses public resources, such as USAID’s, and philanthropic funds to catalyze private capital flows in pursuit of development results and financial returns. 
