@@ -16,7 +16,7 @@ regions: Worldwide
 
 The Invest Project is a flagship U.S. Agency for International Development (USAID) program to research, develop, and build “blended finance” solutions to development challenges. Blended finance uses public resources, such as USAID’s, and philanthropic funds to catalyze private capital flows in pursuit of development results and financial returns. 
 
-These flows can include equity, capital, and angel investments and financing—anything that attracts additional, business-minded funding into initiatives in agriculture, water and sanitation, trade, health, energy, and other areas. The especially includes attracting equity investments into small and growing businesses operating in these sectors in developing countries.
+These flows can include equity, capital, and angel investments and financing—anything that attracts additional, business-minded funding into initiatives in agriculture, water and sanitation, trade, health, energy, and other areas. This especially includes attracting equity investments into small and growing businesses operating in these sectors in developing countries.
 
 Based in Washington, D.C., the Invest Project includes DAI subcontractors CrossBoundary, Tideline, and Convergence; we anticipate engaging a wide range of partners, including many of the 30 companies that contributed to conceiving and launching the USAID blended finance network.
 
