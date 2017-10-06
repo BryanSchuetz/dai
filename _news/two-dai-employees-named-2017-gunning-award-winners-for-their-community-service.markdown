@@ -9,7 +9,7 @@ social-image: "/uploads/ina-b4afc2.jpg"
 
 DAI is delighted honor the two winners of this year’s David H. Gunning Award for Community Service. Ina Nasution, a pricing manager in the U.S. Business Development Unit, and Laure Lightbourne, a senior accountant in DAI’s Bethesda, Maryland, office.
 
-In the [five years](https://www.dai.com/news/dai-recognizes-two-employees-their-community-service) that it’s been running, the Gunning Award has attracted 77 applications. This year we saw applications covering employees’ community work in Ghana, Guatemala, Honduras, Indonesia, Kenya, Mozambique, Nepal, the Philippines, and Washington, D.C.
+In the [five years](https://www.dai.com/news/dai-recognizes-two-employees-their-community-service) since its founding, the Gunning Award has attracted 77 applications. This year we saw applications covering employees’ community work in Ghana, Guatemala, Honduras, Indonesia, Kenya, Mozambique, Nepal, the Philippines, and Washington, D.C.
 
 Separate from their day jobs, DAI employees are:
 
