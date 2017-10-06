@@ -14,20 +14,13 @@ In the [five years](https://www.dai.com/news/dai-recognizes-two-employees-their-
 Separate from their day jobs, DAI employees are:
 
 * Leading a community-based organization to build local capacity in Kisumu County, Kenya;
-
 * Volunteering for an organization that supports 40 families in Guatemala;
-
 * Seeking to apply findings from one of our U.S. Agency for International Development projects to enhance resilience among the rural poor in Nepal;
-
 * Helping a public-private partnership provide water to Tachasis, a rural community in Nandi County, Kenya;
-
 * Extending education to communities in northern Ghana; 
-  Supporting the children’s wing at Nampula General Hospital in Mozambique;
-
+* Supporting the children’s wing at Nampula General Hospital in Mozambique;
 * Assisting poor and high-violence communities in various cities in Honduras;
-
 * Sponsoring an orphan in Vilankulo District, Mozambique; and
-
 * Participating in a literacy program for vulnerable children in Manila, the Philippines.
    
 This year’s winners, Ina and Laure, are helping young people and older people, respectively, in communities close to DAI’s Bethesda, Maryland, home and communities in one of our adopted homes, Jakarta, Indonesia.
