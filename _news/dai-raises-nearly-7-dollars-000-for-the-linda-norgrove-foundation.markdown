@@ -5,6 +5,7 @@ published: false
 summary: DAI hosted a number of events throughout the month of September to raise
   funds for the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/.
   The events raised a total of $6,800.
+social-image: "/uploads/Screen%20Shot%202017-10-06%20at%208.36.09%20AM.png"
 ---
 
 DAI hosted a number of events throughout the month of September to raise funds for the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/), a charity that gives grants to assist programs in Afghanistan that help women and children affected by the war.
