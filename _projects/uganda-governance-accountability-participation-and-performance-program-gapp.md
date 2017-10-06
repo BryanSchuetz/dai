@@ -23,6 +23,8 @@ The Governance, Accountability, Participation, and Performance Program (GAPP), f
 
 Under a subcontract to RTI International, DAI helps to strengthen processes and policies for local governance accountability in addition to conducting national-level advocacy for improved local governance financing, participation, and service delivery.
 
+![GAPP_image.jpg](/uploads/GAPP_image.jpg)
+
 ### Sample Activities
 
 * Provide technical assistance to parliamentary oversight committees and national-level auditing and procurement agencies to conduct outreach meetings with district governments.
