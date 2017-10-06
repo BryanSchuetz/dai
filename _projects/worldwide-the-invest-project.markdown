@@ -20,6 +20,8 @@ These flows can include equity, capital, and angel investments and financing—a
 
 Based in Washington, D.C., the Invest Project includes DAI subcontractors CrossBoundary, Tideline, and Convergence; we anticipate engaging a wide range of partners, including many of the 30 companies that participated in conceiving and launching the USAID blended finance network.
 
+![Invest-Project-for-website.jpg](/uploads/Invest-Project-for-website.jpg)
+
 ### Sample Activities
 
 * Solidify and launch a field-focused blended finance research agenda, and launch and run USAID’s Blended Finance Innovation Center.
