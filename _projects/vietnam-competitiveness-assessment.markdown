@@ -5,6 +5,7 @@ summary: DAI’s Sustainable Business Group conducted an industrial baseline ana
   of Vietnam’s offshore petroleum industry and developed a local supplier registration
   portal to connect upstream customers with Vietnamese firms.
 start: 2017
+end: 2017
 client: Multinational Corporation
 solutions:
 - Sustainable Business
