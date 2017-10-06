@@ -17,7 +17,12 @@ Digital technologies are accelerating change across the developing world–from 
 
 To foster a more inclusive and robust global digital ecosystem, the Digital Frontiers (DF) project works with the U.S. Agency for International Development (USAID) Center for Digital Development (CDD) to identify the most successful digital solutions and scale up their impact. Through DF, DAI manages a catalytic grant fund that supports innovators around the world in using digital tools to tackle development challenges–from digital financial services and identity management to digital inclusion and development informatics.
 
+![DF_image.jpg](/uploads/DF_image.jpg)
+
 ### Sample Activities
+
 * Support the CDD in identifying gaps and challenges in the global digital development ecosystem.
-* Establish strategic partnerships with private, public, and nongovernmental organizations that compliment CDD priorities. 
-* Utilize rapid learning, iteration, and adaptation strategies to keep pace with changes in digital access, products, and platforms. 
+
+* Establish strategic partnerships with private, public, and nongovernmental organizations that compliment CDD priorities.
+
+* Utilize rapid learning, iteration, and adaptation strategies to keep pace with changes in digital access, products, and platforms.
