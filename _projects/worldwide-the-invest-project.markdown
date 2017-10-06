@@ -18,7 +18,7 @@ The Invest Project is a flagship U.S. Agency for International Development (USAI
 
 These flows can include equity, capital, and angel investments and financing—anything that attracts additional, business-minded funding into initiatives in agriculture, water and sanitation, trade, health, energy, and other areas. The especially includes attracting equity investments into small and growing businesses operating in these sectors in developing countries.
 
-Based in Washington, D.C., the Invest Project includes DAI subcontractors CrossBoundary, Tideline, and Convergence; we anticipate engaging a wide range of partners, including many of the 30 companies that participated in conceiving and launching the USAID blended finance network.
+Based in Washington, D.C., the Invest Project includes DAI subcontractors CrossBoundary, Tideline, and Convergence; we anticipate engaging a wide range of partners, including many of the 30 companies that contributed to conceiving and launching the USAID blended finance network.
 
 ![Invest-Project-for-website.jpg](/uploads/Invest-Project-for-website.jpg)
 
