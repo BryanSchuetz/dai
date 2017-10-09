@@ -1,5 +1,5 @@
 ---
-title: World Wide—Digital Frontiers (DF)
+title: Worldwide—Digital Frontiers (DF)
 date: 2017-10-06 20:36:00 Z
 published: false
 summary: The Digital Frontiers project supports the U.S. Agency for International
