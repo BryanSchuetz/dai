@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Digital Frontiers (DF)
 date: 2017-10-06 20:36:00 Z
-published: false
 summary: Digital Frontiers supports the U.S. Agency for International Development’s
   Center for Digital Development in identifying the most successful digital solutions
   and scaling their impact globally.
