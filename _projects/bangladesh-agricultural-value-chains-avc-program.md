@@ -14,6 +14,9 @@ regions:
 - Asia and the Pacific
 country:
 - Bangladesh
+promos:
+- title: "**Case Study:** _Adaptive Management to Support Market Systems Development_\n"
+  link: https://www.microlinks.org/sites/default/files/resource/files/AdaptiveManagementCaseStudy090617low_0.pdf
 layout: project
 ---
 
