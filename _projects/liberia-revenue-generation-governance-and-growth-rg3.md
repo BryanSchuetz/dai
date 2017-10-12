@@ -20,7 +20,7 @@ regions:
 country:
 - Liberia
 promos:
-- title: "**Report**:_ Benchmarking the Tax System in Liberia_"
+- title: "**Report**: _Benchmarking the Tax System in Liberia_"
   link: "/uploads/BENCHMARKING%20THE%20TAX%20SYSTEM%20IN%20LIBERIA.pdf"
 layout: project
 ---
