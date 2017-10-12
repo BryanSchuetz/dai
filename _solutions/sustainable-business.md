@@ -22,9 +22,9 @@ promos:
   link: "/news/view-more-news?filter=sustainable-business"
 - title: "**Analysis**: _Unlocking Content_"
   link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/?utm_source=daidotcom
-- title: "**News**:_Tech Startups in Ghana_"
+- title: "**News**: _Tech Startups in Ghana_"
   link: https://www.dai.com/news/kosmos-innovation-center-develops-tech-startups-to-solve-agriculture-problems-in-ghana
-- title: "**News** :_Chevron’s Nigerian Initiative Decreases Business Risk and Attracts
+- title: "**News**: _Chevron’s Nigerian Initiative Decreases Business Risk and Attracts
     Investment_"
   link: http://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/
 related: false
