@@ -1,6 +1,17 @@
 ---
 title: Indonesia—Mitra Kunci Initiative
 date: 2017-10-13 16:09:00 Z
+summary: 'The Mitra Kunci Initiative is providing Indonesia’s poorest and most vulnerable
+  with skills needed to be productive members of Indonesia’s workforce through training,
+  information, and resources to prepare them to meet the needs of the private sector. '
+start: 2017
+end: 2022
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Sustainable Livelihoods
+regions: Asia and the Pacific
+country: Indonesia
 ---
 
 Indonesia is a growing regional and global player, having experienced a remarkable democratic and economic transformation over the last two decades. However, the country remains at a development crossroads, with 40 percent of the population earning less than two dollars a day.
