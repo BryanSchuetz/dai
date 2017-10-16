@@ -6,7 +6,7 @@ solutions:
 - Fragile States
 ---
 
-DAI is delighted to unveil a new blog, Checkpoint. 
+DAI is delighted to unveil a new blog, [Checkpoint](http://dai-global-checkpoint.com/). 
 
 Checkpoint is spearheaded by DAI’s [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states), launched in May. Led by [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott), the Center integrates DAI’s technical and operational experience in designing, delivering, and monitoring projects in fragile states.
 
