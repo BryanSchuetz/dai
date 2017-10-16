@@ -2,9 +2,8 @@
 title: Doug McLean
 date: 2016-01-21 22:18:00 Z
 lastname: McLean
-summary: Doug McLean oversees the company's international offices, ensuring effective
-  coordination with DAI technical sectors and support departments. From 2005 to 2008,
-  he managed what was then the Private Sector Development Practice.
+summary: Doug McLean is responsible for identifying and developing strategic partnerships
+  that support the growth of DAI’s global business.
 job-title: Vice President, Partnerships
 image: "/uploads/new%20Doug.jpg"
 solutions:
