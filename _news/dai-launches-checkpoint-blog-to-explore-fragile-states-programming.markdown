@@ -15,6 +15,6 @@ Blog authors will include our own fragile states experts as well as thought lead
 
 “Our goal is to move the needle on the complex problem sets of violent extremism and insurgency, political and security transitions, and community stabilization and cohesion,” says Knott. “We hope to engage a community of practitioners with whom we can have these animated—and at times difficult—conversations about how to broaden the evidence base to both achieve development impact and support national security interests around these problem sets.”
 
-Checkpoint is edited by Kevin Casey, the Center for Secure and Stable States’ Director of Research, and managed by Janene Sawers, the Center’s Program Manager for countering violent extremism programming.
+Checkpoint is edited by [Kevin Casey](http://dai-global-checkpoint.com/authors/kevin-casey/), the Center for Secure and Stable States’ Director of Research, and managed by [Janene Sawers](http://dai-global-checkpoint.com/authors/janene-sawers/), the Center’s Program Manager for countering violent extremism programming.
 
 DAI is delivering security, stability, and countering violent extremism initiatives for clients including the U.S. Agency for International Development and its Office of Transition Initiatives, and the U.K. Department for International Development and Foreign and Commonwealth Office.
