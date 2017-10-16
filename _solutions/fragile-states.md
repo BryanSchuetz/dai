@@ -12,7 +12,7 @@ summary: "DAI’s fragile states work, led by the Center for Secure and Stable S
 type: primary
 related: false
 promos:
-- title: "**Blog:** Checkpoint"
+- title: "**Blog:** CHECKPOINT"
   link: http://dai-global-checkpoint.com/
 - title: "**Our Team:** DAI Fragile States Experts"
   link: "/who-we-are/the-team?filter=fragile-states"
