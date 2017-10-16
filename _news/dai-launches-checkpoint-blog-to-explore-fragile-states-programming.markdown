@@ -3,6 +3,7 @@ title: DAI Launches Checkpoint Blog to Explore Fragile States Programming
 date: 2017-10-16 13:44:00 Z
 solutions:
 - Fragile States
+summary: 'DAI is delighted to unveil a new blog, [Checkpoint](http://dai-global-checkpoint.com/). '
 social-image: "/uploads/Screen%20Shot%202017-10-16%20at%2012.37.17%20PM.png"
 ---
 
