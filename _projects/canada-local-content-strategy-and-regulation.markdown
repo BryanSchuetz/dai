@@ -1,7 +1,6 @@
 ---
 title: Canada—Local Content Strategy and Regulation
 date: 2017-08-24 16:33:00 Z
-published: false
 summary: DAI provides technical advice on strategy and regulations for the Department
   of Energy, Government of Nova Scotia, and the Nova Scotia Off-shore Petroleum Board.
 start: 2017
@@ -13,4 +12,4 @@ regions: Worldwide
 country: 'Canada '
 ---
 
-Through the Sustainable Business Group’s acquisition of Local Content Solutions Limited in 2017, DAI now continues to engage with the Department of Energy, Government of Nova Scotia, and the Nova Scotia Off-shore Petroleum Board to provide technical advice on strategy and regulations in the sector.
+Through the Sustainable Business Group’s acquisition of Local Content Solutions Limited in 2017, DAI now continues to engage with the Department of Energy, Government of Nova Scotia.
