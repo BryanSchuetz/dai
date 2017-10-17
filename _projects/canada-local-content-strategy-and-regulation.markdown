@@ -1,5 +1,5 @@
 ---
-title: Canada—Local Content Strategy and Regulation
+title: Canada—Local Content Strategy
 date: 2017-08-24 16:33:00 Z
 summary: DAI provides technical advice on strategy for the Department of Energy, Government
   of Nova Scotia.
