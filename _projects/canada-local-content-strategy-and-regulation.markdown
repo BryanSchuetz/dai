@@ -1,8 +1,8 @@
 ---
 title: Canada—Local Content Strategy and Regulation
 date: 2017-08-24 16:33:00 Z
-summary: DAI provides technical advice on strategy and regulations for the Department
-  of Energy, Government of Nova Scotia, and the Nova Scotia Off-shore Petroleum Board.
+summary: DAI provides technical advice on strategy for the Department of Energy, Government
+  of Nova Scotia.
 start: 2017
 end: 2018
 client: Department of Energy, Government of Nova Scotia
