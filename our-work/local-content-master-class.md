@@ -115,7 +115,7 @@ To stimulate engagement and cross-learning between participants during the Maste
 
 * Developed local content policies for the extractives industries in Madagascar and Mauritania
 
-* Led a local content study with the World Bank Group to determine optimum levels of Foreign direct investment with Guinean supply chains in order to maximize actual value contributed to the local economy
+* Led a local content study with the World Bank Group to determine optimum levels of foreign direct investment with Guinean supply chains to maximize actual value contributed to the local economy
 
 * Helped shape Guinea's Local Content policy and strategy within the mining sector
 
