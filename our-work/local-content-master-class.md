@@ -103,19 +103,19 @@ To stimulate engagement and cross-learning between participants during the Maste
 
 * Former Managing Director of Local Content Solutions Ltd., a local content advisory and training company acquired by DAI in 2017
 
-* Radio appearances to discuss business and international development on BBC Newsnight, BBC Radio 4, BBC World Service and CNBC, and has authored articles in Newsweek Magazine and The Guardian Newspaper
+* Radio appearances to discuss business and international development on BBC Newsnight, BBC Radio 4, BBC World Service, and CNBC, and has authored articles in *Newsweek m*agazine and *The Guardian* newspaper
 
-* Author of multiple books and papers on local content business and development, including "Local Content in Procurement" published by Greenleaf Publishing in 2012
+* Author of multiple books and papers on local content business and development, including “Local Content in Procurement,” published by Greenleaf Publishing in 2012
 
 **Warwick Strong, Local Content Specialist**
 
 ![Warwick Strong Photo](https://assetify-dai.com/experts/Slice.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
 
-* Over ten years experience as a social-economic development manager in Ethiopia, Kenya, Madagascar, and Mauritania
+* More than 10 years experience as a social-economic development manager in Ethiopia, Kenya, Madagascar, and Mauritania
 
 * Developed local content policies for the extractives industries in Madagascar and Mauritania
 
-* Led a local content study with the World Bank Group to determine optimum levels of Foreign Direct Investment with Guinean supply chains in order to maximize actual value contributed to the local economy
+* Led a local content study with the World Bank Group to determine optimum levels of Foreign direct investment with Guinean supply chains in order to maximize actual value contributed to the local economy
 
 * Helped shape Guinea's Local Content policy and strategy within the mining sector
 
