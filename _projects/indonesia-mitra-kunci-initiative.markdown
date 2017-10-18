@@ -14,7 +14,7 @@ regions: Asia and the Pacific
 country: Indonesia
 ---
 
-Indonesia is a growing regional and global player, having experienced a remarkable democratic and economic transformation over the last two decades. However, the country remains at a development crossroads, with 40 percent of the population earning less than two dollars a day.
+Indonesia is a growing regional and global player, having experienced a remarkable democratic and economic transformation over the last two decades. However, the country remains at a development crossroads, with 40 percent of the population earning less than $2 a day.
 
 The U.S. Agency for International Development (USAID)’s Mitra Kunci Initiative is providing Indonesia’s poorest and most vulnerable with skills needed to be productive members of Indonesia’s workforce. Young people, women, and people with disabilities will receive training, information, and resources to prepare them to meet the needs of the private sector.
 
