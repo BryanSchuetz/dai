@@ -3,6 +3,7 @@ title: Local Content Master Class
 date: 2017-06-19 15:11:00 Z
 layout: default
 ---
+
 # Local Content Master Class
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers an industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage Local Content in ways that maximize benefits and minimize risk. [Read the brochure](/uploads/tanzania-brochure.pdf).
