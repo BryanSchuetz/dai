@@ -6,31 +6,30 @@ layout: default
 
 # Local Content Master Class
 
-The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers an industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage Local Content in ways that maximize benefits and minimize risk. [Read the brochure](/uploads/tanzania-brochure.pdf).
+The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers an industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage Local Content to maximize benefits and minimize risk. [Read the brochure](/uploads/tanzania-brochure.pdf).
 
-> "Certainly the prime Local Content course in
-> the market. Highly recommended." - *International oil field services Local Content Manager*
+> “Certainly the prime Local Content course in
+> the market. Highly recommended.” — *International oil field services Local Content Manager*
 
-Since mid-2015, the topic of Local Content has fast moved center stage across the globe, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
+Since mid-2015, the topic of Local Content has taken center stage across the globe, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
 
 <hr>
 
-## Why does Local Content Matter?
+## Why Does Local Content Matter?
 
 Local Content has the potential to provide a significant political and monetary contribution to the host economy from major inward investments.
 
 ![Local Content Impact](/uploads/local-impact-chart.jpg)
 
-DAI's [Sustainable Business Group](/our-work/solutions/sustainable-business) specializes in tackling the growing challenges facing private sector companies (investor, operators, contractors) and public authorities in meeting Local Content regulations and supporting sustainable industrial development of host economies through the impact of capital investments and operations.
+DAI’s [Sustainable Business Group](/our-work/solutions/sustainable-business) tackles the growing challenges facing private sector companies (investor, operators, contractors) and public authorities in meeting Local Content regulations and supporting sustainable industrial development of host economies through capital investments.
 
 The challenges include:
 
-* Since 2015 **dramatic falls** in commodity oil and gas prices and challenging metal and mineral prices
+* Since 2015, **dramatic falls** in commodity oil and gas prices and challenging metal and mineral prices
 
 * Uncertain **global demand** for oil and gas and mining products
 
-* Uneven **global recovery** after the 2008 shock, which has driven many governments to seek to privatize
-  public infrastructure operations and investments in order to reduce government expenditure budgets
+* Uneven **global recovery** after the 2008 shock, which has driven many governments to seek to privatize public infrastructure operations and investments to reduce government expenditure budgets
 
 * Limited government and **regulatory capacity**
 
@@ -56,9 +55,9 @@ The challenges include:
 
 To stimulate engagement and cross-learning between participants during the Master Class, every effort is mad to invite individuals from a range of organizations involved in the Local Content management. Typical participants include:
 
-* **National and international oil, gas and mining companies**: This could include individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and those in sustainable development roles.
+* **National and international oil, gas, and mining companies**: This could include individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and those in sustainable development roles.
 
-* **National and international companies involved in other capital intensive infrastructure, transportation, renewable energy, utilities and water management etc.**: Individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and sustainable development
+* **National and international companies involved in other capital intensive infrastructure, transportation, renewable energy, utilities, and water management, etc.**: Individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and sustainable development
 
 * **Government policy-making authorities**: those working at the national or provincial level engaged in industrial policy, private sector development, supply-chain linkage programs and the promotion of inward investment and exports.
 
