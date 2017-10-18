@@ -41,33 +41,33 @@ The challenges include:
 
 ## What is the Master Class?
 
-* Offered as a **four-day** or **three day** training program convering the full landscape of Local Content.
+* Offered as a **four- **or **three-day** training program covering the full landscape of Local Content.
 
 * Framed by the **regional context** of Local Content regulation and sector development.
 
-* Compriosed of **lectures**, hands-on **group exercises**, **computer modelling**, and video **case studies**.
+* Comprised of **lectures**, hands-on **group exercises**, **computer modeling**, and video **case studies**.
 
-* Examines **strategic alignment** of refulations, industrial policy, and commercial interests, **smart procurement** to manage Local Content, and the mechanics/metrics of Local Content.
+* Examines **strategic alignment** of regulations, industrial policy, and commercial interests, **smart procurement** to manage Local Content, and the mechanics of Local Content.
 
 <hr>
 
 ## Who Can Participate?
 
-To stimulate engagement and cross-learning between participants during the Master Class, every effort is mad to invite individuals from a range of organizations involved in the Local Content management. Typical participants include:
+To stimulate engagement and cross-learning between participants during the Master Class, every effort is made to invite individuals from a range of organizations involved in the Local Content management. Typical participants include:
 
-* **National and international oil, gas, and mining companies**: This could include individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and those in sustainable development roles.
+* **National and international oil, gas, and mining companies**: This could include individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance, and those in sustainable development roles.
 
-* **National and international companies involved in other capital intensive infrastructure, transportation, renewable energy, utilities, and water management, etc.**: Individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and sustainable development
+* **National and international companies involved in other capital intensive infrastructure, transportation, renewable energy, utilities, and water management, etc.**: Individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and sustainable development.
 
-* **Government policy-making authorities**: those working at the national or provincial level engaged in industrial policy, private sector development, supply-chain linkage programs and the promotion of inward investment and exports.
+* **Government policy-making authorities**: Those working at the national or provincial level engaged in industrial policy, private sector development, supply-chain linkage programs, and the promotion of inward investment and exports.
 
-* **Host country regulatory agencies**: those responsible for setting Local Content targets, compiling aggregate demand, assessing local market capability, managing registers of domestic suppliers, engaging in tendering processes
+* **Host-country regulatory agencies**: Those responsible for setting Local Content targets, compiling aggregate demand, assessing local market capability, managing registers of domestic suppliers, engaging in tendering processes.
 
-* **International and larger-scale domestic contractors suppliers**: those who manage local supply chains, source globally and/or have business development interests in emerging economies. Relevant departments would include: business development, account management, marketing, service delivery, production, human resources, social performance and sustainable development.
+* **International and larger-scale domestic contractors suppliers**: Those who manage local supply chains, source globally and/or have business development interests in emerging economies. Relevant departments include: business development, account management, marketing, service delivery, production, human resources, social performance, and sustainable development.
 
 * **Local supplier business and trade associations**
 
-* **Official development agencies and development finance institutions**: especially those from procurement departments, oil, gas, mining and infrastructure departments and those involved in business linkage advisory services
+* **Official development agencies and development finance institutions**: Those who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
 
 <hr>
 
@@ -97,7 +97,7 @@ To stimulate engagement and cross-learning between participants during the Maste
 
 ![Michael Warner Photo](/uploads/warner.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
 
-* One of the world's leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors
+* One of the world’s leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors
 
 * Founder and lead trainer of the BAC accredited Local Content Master Class, where he trained more than 400 professionals in local content
 
