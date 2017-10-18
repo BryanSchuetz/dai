@@ -119,10 +119,10 @@ To stimulate engagement and cross-learning between participants during the Maste
 
 * Helped shape Guinea's Local Content policy and strategy within the mining sector
 
-* Former Officer in the United Kingdom's Royal Military, where he was deployed on peacekeeping missions to work with community leaders to achieve stronger, more transparent governance systems and build stronger communities.
+* Former Officer in the United Kingdom’s Royal Military, where he was deployed on peacekeeping missions to work with community leaders to achieve stronger, more transparent governance systems and build stronger communities
 
 <hr>
 
 ## Contact Us
 
-If you would like to find out additional information, apply for an upcoming Regional Master Class, and/or arrange a demonstration to view our Suite of Local Content Tools, please email [masterclass@dai.com](mailto:masterclass@dai.com).
+If you would like to find out additional information, apply for an upcoming Master Class, and/or arrange a demonstration to view our suite of Local Content tools, please email [masterclass@dai.com](mailto:masterclass@dai.com).
