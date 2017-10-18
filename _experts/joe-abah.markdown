@@ -15,9 +15,11 @@ regions:
 ---
 
 Originally trained as a barrister in Nigeria, Joe Abah gained extensive experience in the governance sector, working on public sector reform programs for the U.K. Prime Minister’s Office. He has spent more than 10 years managing governance programs in Nigeria for the U.K. Department for International Development, including the DAI-led [State Partnership for Accountability Responsiveness and Capability](https://www.dai.com/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc) project.
- 
+
 From 2013 to 2017, Joe took a post with the Government of Nigeria as Head of the Bureau for Public Sector Reform. He has now returned to DAI to serve as Country Director for Nigeria, where he provides technical and strategic inputs to DAI’s existing portfolio of projects, in addition to supporting business development initiatives.
- 
+
 * Doctor of Philosophy, Maastricht University, The Netherlands
+
 * M.A., business law, London Guildhall University, London, England
-* B.A, law, University of Calabar, Nigeria
+
+* Bachelor of Laws, law, University of Calabar, Nigeria
