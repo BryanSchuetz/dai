@@ -1,6 +1,7 @@
 ---
 title: Local Content Master Class
 date: 2017-06-19 15:11:00 Z
+published: false
 layout: default
 ---
 
