@@ -6,7 +6,7 @@ layout: default
 
 # Local Content Master Class
 
-The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers an industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure](/uploads/tanzania-brochure.pdf). 
+The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers an industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure](/uploads/lcmc-final.pdf). 
 
 > “Certainly the prime local content course in the market. Highly recommended.” — *Local Content Manager, International oil field services company*
 
@@ -62,10 +62,10 @@ To stimulate engagement and cross-learning between participants, we make every e
 * Europe: **London**
 * West Africa: **Ghana**
 * East Africa: **Tanzania**
-  * [Brochure](/uploads/tanzania-brochure.pdf)
+  * [Brochure](/uploads/lcmc-tanzania-final.pdf)
   * [Agenda](/uploads/tanzania-agenda.pdf)
   * [Pre-course Reading](/uploads/tanzania-reading.pdf)
-* South Africa: **Guyana**
+* South America: **Guyana**
 
 <hr>
 
