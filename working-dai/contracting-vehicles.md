@@ -105,6 +105,6 @@ DAI holds umbrella contracts from various clients through which development prog
 
 # New Zealand Aid Programme
 
-* [Agricultural Services Panel (2014–2018)](http://frameworkcontracts.com/lots/mfat)
+* [Agricultural Services Panel ](http://frameworkcontracts.com/lots/mfat)
 
-To review the full list and consultant opportunities on EC, DFAT, and MFAT lots, visit our [Framework Contracts site](http://frameworkcontracts.com).
+To review consultant opportunities for EC, DFAT, and MFAT lots, visit our [Framework Contracts site](http://frameworkcontracts.com).
