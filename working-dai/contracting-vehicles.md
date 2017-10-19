@@ -77,26 +77,27 @@ DAI holds umbrella contracts from various clients through which development prog
 
 * [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
 
-
-
 # European Commission
 
 ### Framework Contract Beneficiaries 2013-2018
 
-* Lot 1: Rural Development and Food Security
-* Lot 6: Environment
-* Lot 7: Governance and Home Affairs
-* Lot 10: Trade and Private Sector
+* [Lot 1: Rural Development and Food Security](http://frameworkcontracts.com/lots/benef-1/)
+
+* [Lot 6: Environment](http://frameworkcontracts.com/lots/benef-6/)
+
+* [Lot 7: Governance and Home Affairs](http://frameworkcontracts.com/lots/benef-7/)
+
+* [Lot 10: Trade and Private Sector](http://frameworkcontracts.com/lots/benef-10/)
 
 ### Framework Contract Commission 2015
 
-* Lot 1: Evaluation
+* [Lot 1: Evaluation](http://frameworkcontracts.com/lots/ec-com-2015-1/)
 
 # European Investment Bank
 
 ### Advisory Services Activities Inside and Outside EU-28
 
-* Lot 5: SME Access to Finance and Private Sector Development
+* [Lot 5: SME Access to Finance and Private Sector Development](http://frameworkcontracts.com/lots/eib-5/)
 
 # Australian Department of Foreign Affairs and Trade
 
@@ -106,4 +107,4 @@ DAI holds umbrella contracts from various clients through which development prog
 
 * [Agricultural Services Panel (2014–2018)](http://frameworkcontracts.com/lots/mfat)
 
-DAI holds various EC framework contracts. To review the full list and consultant opportunities associated with them, visit our [Framework Contracts site](http://frameworkcontracts.com).
+To review the full list and consultant opportunities on EC, DFAT, and MFAT lots, visit our [Framework Contracts site](http://frameworkcontracts.com).
