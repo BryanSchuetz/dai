@@ -29,6 +29,8 @@ To better assist the world’s poorest and most vulnerable people to deal with s
 
 To learn more about how the DAI EACDS team can help your department or organisation, contact [info@lotb-resilience.org ](mailto:info@lotb-resilience.org)or visit [http://daiknowhowlab-resilience.org/](http://daiknowhowlab-resilience.org/).
 
+![EACDS_Image.jpg](/uploads/EACDS_Image.jpg)
+
 **Sample Activities**
 
 * Respond  to on-demand requests for support and work with users to precisely define scopes of assistance from first idea to full terms of reference.
