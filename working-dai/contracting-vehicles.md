@@ -39,10 +39,6 @@ DAI holds umbrella contracts from various clients through which development prog
 
 * YouthPower (2015–2020)
 
-### Information Communications Technology
-
-* mSTAR: Mobile Solutions Technical Assistance and Research (mSTAR) (2013–2015)
-
 ### Stability
 
 * Support Which Implements Fast Transitions IV (SWIFT IV) (2013-2018)
