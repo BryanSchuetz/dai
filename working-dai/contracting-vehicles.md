@@ -77,6 +77,10 @@ DAI holds umbrella contracts from various clients through which development prog
 
 * Lot F-Investment Climate Reform (2013-2018)
 
+### Expert Advisory Call Down Services
+
+* [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
+
 # Australian Department of Foreign Affairs and Trade
 
 * [Aid Advisory Services Standing Offer](http://frameworkcontracts.com/lots/dfat/)
