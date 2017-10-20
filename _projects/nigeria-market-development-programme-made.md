@@ -9,7 +9,8 @@ end: 2018
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
-- Digital
+- - Digital
+- 
 - 
 - 
 regions:
@@ -19,11 +20,19 @@ country:
 layout: project
 ---
 
-This 4½-year design and implement project in the Niger Delta is applying a market development approach (M4P) to improve market access, increase economic activity, and raise the incomes of 150,000 poor people, half of whom will be women. We are initially focusing on the critical constraints to pro-poor growth in the value chains of palm oil, aquaculture and fisheries, agricultural inputs, and backyard poultry. Activities will stimulate private sector provision of services and promote innovative, inclusive business models that reach a large number of low-income households.
+This 4½-year design and implement project in the Niger Delta seeks to raise the incomes of at least 150,000 poor people—half of whom will be women—by at least 50 percent. MADE adopts a market development approach to support growth in the region’s non-oil economy by (a) stimulating sustainable, pro-poor growth in selected agricultural and agricultural input markets, and (b) improving the position of the economically active poor and women in these markets by making them more inclusive.
 
-The first year of the project focused on drafting the Business Case and implementing pilot activities in the target value chains. With approval of the Business Case in July 2014, the Implementation Phase will proceed through March 2018. Working out of Port Harcourt, MADE works closely with the Chevron-funded Partnership Initiative for the Niger Delta (PIND) implementing synergistic activities across the nine states.
+MADE has facilitated partnerships with the private sector in five market systems: agricultural inputs, palm oil, fisheries, micro- and small-scale poultry, and cassava. Activities were designed and managed from the programme’s operational bases in Port Harcourt, Rivers State, and Warri, Delta State—both of which are co-located with the [Partnership for the Niger Delta (PIND)](https://www.dai.com/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind) programme. 
 
-###  Sample Activities
+Implementation activities were supported by a dual-component grant strategy: private sector grants, structured to reduce the risk of lead private-sector actors; and facilitators grants, designed to fund facilitators to manage and monitor activities in conjunction with intervention managers. This approach enabled MADE to maintain a relatively lean structure while ensuring adequate oversight of activities taking place across the Delta.
 
-* Select and analyze key value chains.
-* Conduct market, environmental, conflict, and political economy analyses and draft the Business Case.
+Implementation continues with focus on consolidating and scaling-up a series of initiatives with market actors in six value chains across all nine Delta states.
+
+### Sample Activities
+* Improve fish farmer’s knowledge and access to new markets
+* Promote sustainable cassava production with bio-products as inputs
+* Improve good agricultural practices and access to quality inputs for smallholder farmers
+* Improve access to and use of improved small-scale processing equipment  by small and medium-scale millers and mill users
+* Improve productivity and access to new markets for small household poultry producers
+* Improve quality, distribution and sales of finished leather goods
+* Support interventions with crosscutting initiatives: access to finance, gender and advocacy, and communications.
