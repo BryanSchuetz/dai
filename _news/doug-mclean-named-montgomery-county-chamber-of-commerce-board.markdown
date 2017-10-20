@@ -1,12 +1,14 @@
 ---
 title: Doug McLean Named to Montgomery County Chamber of Commerce Board
 date: 2017-10-25 13:44:00 Z
-solutions:
-summary: 'DAI is delighted to announce that [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean) has been elected to the Montgomery County Chamber of Commerce (MCCC) Board of Directors as a Strategic Partner, effective November 1.
-'
-social-image: "/uploads/new%20Doug.jpg"
 published: false
+solutions: 
+summary: 'DAI is delighted to announce that [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean)
+  has been elected to the Montgomery County Chamber of Commerce (MCCC) Board of Directors
+  as a Strategic Partner, effective November 1. '
+social-image: "/uploads/new%20Doug.jpg"
 ---
+
 ![Doug Mclean](/uploads/new%20Doug.jpg){:.float-left} DAI is delighted to announce that [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean) has been elected to the Montgomery County Chamber of Commerce (MCCC) Board of Directors as a Strategic Partner, effective November 1.
 
 A 25-year DAI staff member, McLean currently serves as DAI's Vice President for Partnerships. In this role he cultivates alliances that support DAI's global business, building bridges between DAI and various organizations interested in collaborating to address the challenges faced by people around the world. He led the development of DAI's _[Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-chosen)_ with Montgomery County and other partners.

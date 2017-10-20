@@ -9,7 +9,7 @@ end: 2018
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
-- Digital 
+- Digital
 regions:
 - Sub-Saharan Africa
 country:
