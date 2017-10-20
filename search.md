@@ -30,6 +30,9 @@ layout: default
   top: .8rem;
   right: .4rem;
 }
+.algolia__result-highlight{
+  font-weight: bold;
+}
 </style>
 <input id="search-box" />
 <div id="hits"></div>
@@ -39,6 +42,7 @@ layout: default
   appId: 'R7MRY12BR6',
   apiKey: 'a773dcb4e565198a31f353490e3652d8',
   indexName: 'dai',
+  autoselect: true,
   searchParameters: {
     attributesToSnippet: ["excerpt"] 
   }
@@ -47,13 +51,15 @@ layout: default
 search.addWidget(
     instantsearch.widgets.searchBox({
       container: '#search-box',
-      placeholder: 'Search'
+      placeholder: 'Search',
+      autoselect: true
     })
   );
 
 search.addWidget(
     instantsearch.widgets.hits({
       container: '#hits',
+      autoselect: true,
       templates: {
         empty: 'No results',
         item: '{{{_highlightResult.title.value}}}<br> Excerpt: [{{{_snippetResult.excerpt.value}}}]'
