@@ -8,11 +8,11 @@ start: 2013
 end: 2018
 client: U.K. Department for International Development
 solutions:
-- Business Environment Reform
 - Economic Growth
-- Gender
-- Digital
-- Innovation and Entrepreneurship
+- - Digital
+- 
+- 
+- 
 regions:
 - Sub-Saharan Africa
 country:
