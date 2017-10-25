@@ -6,7 +6,7 @@ summary: Joy White is an international management specialist with more than 20 y
   of experience in international development, information technology systems, and
   foreign policy.
 job-title: Director, Global Employee Ownership
-image: "/uploads/Joy%20White.jpg"
+image: "/uploads/new%20Joy.jpg"
 solutions:
 - Economic Growth
 ---
