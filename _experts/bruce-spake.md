@@ -2,11 +2,9 @@
 title: Bruce Spake
 date: 2016-01-21 22:18:00 Z
 lastname: Spake
-summary: Bruce Spake has worked in various leadership roles, including as Vice President
-  of DAI's pioneering work in Crisis and Conflict Mitigation and in Democratic Governance.
-  As Managing Director of the Stability Sector, he now directs DAI's service offerings
-  in the emerging Stability Operations field with the Department of Defense and in
-  Crisis Mitigation and Recovery projects with USAID and other donors.
+summary: Bruce Spake directs DAI's service offerings in the emerging Stability Operations
+  field with the Department of Defense and in Crisis Mitigation and Recovery projects
+  with USAID and other donors.
 job-title: Regional Managing Director, Middle East and Afghanistan
 image: https://assetify-dai.com/experts/Spake_Inner%20%281%29.jpg
 solutions:
