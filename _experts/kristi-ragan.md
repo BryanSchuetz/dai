@@ -1,28 +1,25 @@
 ---
 title: Kristi Ragan
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Ragan
-regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
-- Middle East and North Africa
-- Sub-Saharan Africa
-solutions:
-- Economic Growth
-- Innovation and Entrepreneurship
-layout: expert
-image: https://assetify-dai.com/experts/Ragan_Inner_0.jpg
 summary: 'Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep
   urge to see the world. While Kristi was earning her master''s degree from Georgetown
   University''s School of Foreign Service, her professor, Madeleine Albright, urged
   her to join the United Nations and become "an international civil servant."
 
 '
-job-title: Chief of Party, Center for Development Innovation
-articles:
-- name: 
-  article_file: 
+job-title: Chief of Party, The Invest Project
+image: https://assetify-dai.com/experts/Ragan_Inner_0.jpg
+solutions:
+- Economic Growth
+- Innovation and Entrepreneurship
+regions:
+- Asia and the Pacific
+- Eastern Europe and Central Asia
+- Latin America and the Caribbean
+- Middle East and North Africa
+- Sub-Saharan Africa
+layout: expert
 ---
 
 Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep urge to see the world. While Kristi was earning her master's degree from Georgetown University's School of Foreign Service, her professor, Madeleine Albright, urged her to join the United Nations and become "an international civil servant." She joined the Peace Corps twice—serving in the South Pacific and in Tanzania. Working in Somalia from 1997 to 2000 for the United Nations, Kristi saw how important it is to involve the full spectrum of local actors in development solutions, particularly the private sector. In places like Hargeisa and Berbera, where donors and donor dollars were scarce, she saw businesses moving essential goods and services and generating funds for building homes and schools, stoking Kristi's determination to bring the private sector more fully into development through public-private partnerships.
