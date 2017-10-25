@@ -2,12 +2,8 @@
 title: Kristi Ragan
 date: 2016-01-21 22:18:00 Z
 lastname: Ragan
-summary: 'Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep
-  urge to see the world. While Kristi was earning her master''s degree from Georgetown
-  University''s School of Foreign Service, her professor, Madeleine Albright, urged
-  her to join the United Nations and become "an international civil servant."
-
-'
+summary: 'Kristi Ragan leads The Invest Project, a flagship USAID program to research,
+  develop, and build “blended finance” solutions for development challenges. '
 job-title: Chief of Party, The Invest Project
 image: https://assetify-dai.com/experts/Ragan_Inner_0.jpg
 solutions:
