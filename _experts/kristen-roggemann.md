@@ -2,11 +2,9 @@
 title: Kristen Roggemann
 date: 2016-01-21 22:18:00 Z
 lastname: Roggemann
-summary: Before joining DAI, Kristen Roggemann held advisory and business development
-  positions within a variety of mobile-for-development and international development
-  organizations, most recently as the Strategic Partnerships Manager for GSMA mWomen,
-  driving partnership strategy at the intersection of the mobile operator and international
-  development sectors.
+summary: Kristen Roggemann has extensive field experience in the Middle East and Africa
+  working on mobile-for-development initiatives in both public and private sector
+  contexts.
 job-title: 'Digital Insights and ICT Products Manager '
 image: https://assetify-dai.com/experts/KristenInner.jpg
 solutions:
