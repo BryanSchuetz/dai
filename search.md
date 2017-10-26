@@ -39,6 +39,22 @@ h3.alg-title{
 h3.alg-title:hover{
   color: #43873f;
 }
+.facet-item{
+  text-transform: capitalize;
+}
+#rev-box{
+  margin-bottom: 2rem;
+}
+.ais-refinement-list--header{
+  font-weight: bold;
+}
+.ais-refinement-list--item{
+  cursor: pointer; 
+}
+.ais-refinement-list--item__active{
+  color: #43873f;
+}
+
 </style>
 <input id="search-box" />
 <div id="rev-box"></div>
@@ -68,16 +84,17 @@ search.addWidget(
     container: '#rev-box',
     attributeName: 'layout',
     operator: 'or',
-    limit: 10,
+    limit: 4,
+    sortBy: ["count:desc","name:asc"],
     templates: {
-      header: 'Type',
-      item: '<label><input type="checkbox" value="{{label}}"> {{ label }} <span>{{ count }}</span></label>'
+      header: 'Result Type:',
+      item: '<span class="facet-item">{{ label }} ({{ count }} items)</span>'
     },
     transformData: function(item){
-    if(item.label == "node"){
-      item.label = "Page";
+    if(item.value == "node"){
+      item.label = "News";
     }else{
-    item.label = item.label;
+    item.value == item.label;
     }
   return item;
   }
