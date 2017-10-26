@@ -15,4 +15,4 @@ A 25-year DAI staff member, McLean currently serves as DAI's Vice President for 
 
 Headquartered in Montgomery County, Maryland, since 1990, DAI has a long-standing relationship with the MCCC and last year was honored with the Chamber's [Prime Partner of the Year](https://www.dai.com/news/dai-named-prime-partner-year-2016) award.
 
-"Montgomery County has been a great home for DAI, but there is always healthy pressure to keep our business environment ahead of competing locations," said McLean. "I'm looking forward to working with the Chamber to make Montgomery County an even better place to start and grow the thriving business of the 21st century."
+"Montgomery County has been a great home for DAI, but there is always healthy pressure to keep our business environment ahead of competing locations," said McLean. "I'm looking forward to working with the Chamber to make Montgomery County an even better place to start and grow the thriving businesses of the 21st century."
