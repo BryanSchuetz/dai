@@ -12,6 +12,7 @@ client: Millennium Challenge Corporation
 solutions:
 - Water and Sanitation Services and Management
 - Governance
+- Land Tenure and Property Rights
 regions: Asia and the Pacific
 country: Mongolia
 ---
