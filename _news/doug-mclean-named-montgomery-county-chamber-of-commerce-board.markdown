@@ -1,8 +1,6 @@
 ---
 title: Doug McLean Named to Montgomery County Chamber of Commerce Board
 date: 2017-10-25 13:44:00 Z
-published: false
-solutions: 
 summary: 'DAI is delighted to announce that [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean)
   has been elected to the Montgomery County Chamber of Commerce (MCCC) Board of Directors
   as a Strategic Partner, effective November 1. '
