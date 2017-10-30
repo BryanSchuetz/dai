@@ -54,11 +54,16 @@ h3.alg-title:hover{
 .ais-refinement-list--item__active{
   color: #43873f;
 }
-
+.agl-checkbox{
+  position: relative;
+  top: -.08rem;
+  margin-right: .5rem;
+}
 </style>
 <input id="search-box" />
 <div id="rev-box"></div>
 <div id="hits"></div>
+<div id="hits-more"></div>
 {% raw %}
 <script type="text/javascript">
   const search = instantsearch({
@@ -88,7 +93,7 @@ search.addWidget(
     sortBy: ["count:desc","name:asc"],
     templates: {
       header: 'Result Type:',
-      item: '<span class="facet-item">{{ label }} ({{ count }} items)</span>'
+      item: '<div class="ais-refinement-list--item"><div class=""><label class="ais-refinement-list--label"><input type="checkbox" class="ais-refinement-list--checkbox" value="{{ label }}">{{ label }}<span class="ais-refinement-list--count">{{ count }}</span></label></div></div>'
     },
     transformData: function(item){
     if(item.value == "node"){
@@ -105,9 +110,38 @@ search.addWidget(
     instantsearch.widgets.hits({
       container: '#hits',
       autoselect: true,
+      filters: 'layout:project',
+      transformData: {
+        item: function(hit) {
+          if(hit.layout == 'project'){
+          hit.show = true;
+        }
+          return hit;
+        }
+      },
       templates: {
         empty: 'No results',
-        item: '<a class="alg-link" href="{{_highlightResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>'
+        item: '{{#show}} <a class="alg-link" href="{{_highlightResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>{{/show}}'
+      }
+    })
+  );
+
+search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#hits-more',
+      autoselect: true,
+      filters: 'layout:project',
+      transformData: {
+        item: function(hit) {
+          if(hit.layout == 'expert'){
+          hit.show = true;
+        }
+          return hit;
+        }
+      },
+      templates: {
+        empty: 'No results',
+        item: '{{#show}} <a class="alg-link" href="{{_highlightResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>{{/show}}'
       }
     })
   );
