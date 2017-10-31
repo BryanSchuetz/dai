@@ -45,32 +45,43 @@ h3.alg-title:hover{
 #rev-box{
   margin-bottom: 2rem;
 }
-.ais-refinement-list--header{
-  font-weight: bold;
+.menu-item{
+  cursor: pointer;
 }
-.ais-refinement-list--item{
-  cursor: pointer; 
+.menu-item--label{
+  text-transform: capitalize;
 }
-.ais-refinement-list--item__active{
-  color: #43873f;
+.ais-menu--item__active{
+  color: #54aa4f;
 }
-.agl-checkbox{
-  position: relative;
-  top: -.08rem;
-  margin-right: .5rem;
+.ais-menu--item{
+  float: left;
+  margin-right: 1rem;
+  border: 1px solid black;
+  width: 30%;
+  padding: .5rem;
+}
+.ais-menu--list{
+clear: right;
+}
+.break{
+  margin-bottom: 1rem;
 }
 </style>
 <input id="search-box" />
 <div id="rev-box"></div>
-<div id="hits"></div>
-<div id="hits-more"></div>
+<br>
+<hr class="break">
+<div id="hits">
+  <h2>Projects</h2>
+  <div id="hits"></div>  
+</div>
 {% raw %}
 <script type="text/javascript">
   const search = instantsearch({
   appId: 'R7MRY12BR6',
   apiKey: 'a773dcb4e565198a31f353490e3652d8',
   indexName: 'dai',
-  autoselect: true,
   searchParameters: {
     attributesToSnippet: ["excerpt", "text:30"] 
   }
@@ -80,20 +91,19 @@ search.addWidget(
     instantsearch.widgets.searchBox({
       container: '#search-box',
       placeholder: 'Search',
-      autoselect: true
     })
   );
 
 search.addWidget(
-  instantsearch.widgets.refinementList({
+  instantsearch.widgets.menu({
     container: '#rev-box',
     attributeName: 'layout',
     operator: 'or',
-    limit: 4,
+    limit: 3,
     sortBy: ["count:desc","name:asc"],
     templates: {
       header: 'Result Type:',
-      item: '<div class="ais-refinement-list--item"><div class=""><label class="ais-refinement-list--label"><input type="checkbox" class="ais-refinement-list--checkbox" value="{{ label }}">{{ label }}<span class="ais-refinement-list--count">{{ count }}</span></label></div></div>'
+      item: '<div class="menu-item"><span class="menu-item--label">{{ label }} ({{ count }} items)</h3></span>'
     },
     transformData: function(item){
     if(item.value == "node"){
@@ -107,10 +117,9 @@ search.addWidget(
 );
 
 search.addWidget(
-    instantsearch.widgets.hits({
+    instantsearch.widgets.infiniteHits({
       container: '#hits',
-      autoselect: true,
-      filters: 'layout:project',
+      hitsPerPage: 5000,
       transformData: {
         item: function(hit) {
           if(hit.layout == 'project'){
@@ -121,27 +130,7 @@ search.addWidget(
       },
       templates: {
         empty: 'No results',
-        item: '{{#show}} <a class="alg-link" href="{{_highlightResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>{{/show}}'
-      }
-    })
-  );
-
-search.addWidget(
-    instantsearch.widgets.hits({
-      container: '#hits-more',
-      autoselect: true,
-      filters: 'layout:project',
-      transformData: {
-        item: function(hit) {
-          if(hit.layout == 'expert'){
-          hit.show = true;
-        }
-          return hit;
-        }
-      },
-      templates: {
-        empty: 'No results',
-        item: '{{#show}} <a class="alg-link" href="{{_highlightResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>{{/show}}'
+        item: '<a class="alg-link" href="{{_highlightResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>'
       }
     })
   );
