@@ -13,7 +13,7 @@ summary: The economy of the West Bank and Gaza moved up 26 places in the World B
   100, the ninth-largest year-over-year improvement among the 190 economies measured.
 ---
 
-The economy of the West Bank and Gaza moved up 26 places in the World Bank [ *Doing Business* ] report (http://www.doingbusiness.org/~/media/WBG/DoingBusiness/Documents/Annual-Reports/English/DB2018-Full-Report.pdf) for 2018, from 140th to 114th in the annual ranking of 190 economies. The West Bank and Gaza’s overall score—an average of 10 indicators that measure ease of doing business—increased from 54.88 to 58.68 on a scale of 1 to 100, the ninth-largest year-over-year improvement among the 190 economies measured. 
+The economy of the West Bank and Gaza moved up 26 places in the World Bank [*Doing Business*] (http://www.doingbusiness.org/~/media/WBG/DoingBusiness/Documents/Annual-Reports/English/DB2018-Full-Report.pdf) report for 2018, from 140th to 114th in the annual ranking of 190 economies. The West Bank and Gaza’s overall score—an average of 10 indicators that measure ease of doing business—increased from 54.88 to 58.68 on a scale of 1 to 100, the ninth-largest year-over-year improvement among the 190 economies measured. 
 
 The territories’ exceptional performance was facilitated in part by the [Palestinian Market Development Programme](https://www.dai.com/our-work/projects/palestinian-market-development-programme-pmdp) (PMDP), which assists the Palestinian Ministry of National Economy specifically in its efforts to improve West Bank and Gaza’s Doing Business ranking. PMDP is funded by the U.K. Department for International Development and the European Commission, and implemented by DAI.
 
