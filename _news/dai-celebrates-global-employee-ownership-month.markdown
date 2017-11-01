@@ -8,7 +8,7 @@ summary: 'DAI celebrated Global Employee Ownership (GEO) Month in October. Event
 
 DAI celebrated Global Employee Ownership (GEO) Month in October. Events included the annual shareholders meeting, a GEO orientation for new employees, and socials in both our U.S. and U.K. offices. 
 
-DAI has always been employee-owned. But until February 2016, ownership was limited to U.S.-based employees via its Employee Stock Ownership Plan, or ESOP. As we expanded our global footprint, we created a new ownership structure that accommodates this increasingly global workforce. In the new, more inclusive framework, the ESOP is complemented by an active ownership option available to all global corporate employees. 
+DAI has always been employee-owned. But until February 2016, ownership was limited to U.S.-based employees via its Employee Stock Ownership Plan (ESOP). As we expanded our global footprint, we created a new ownership structure that accommodates this increasingly global workforce. In the new, more inclusive framework, the ESOP is complemented by an active ownership option available to all global corporate employees. 
 
 DAI’s employee ownership program has been recognized with awards from both the [Global Equity Organization](https://www.dai.com/news/dai-employee-ownership-initiative-wins-prestigious-award) and the [National Center for Employee Ownership](https://www.dai.com/news/dai-wins-innovations-in-employee-ownership-award-for-2017). 
 
