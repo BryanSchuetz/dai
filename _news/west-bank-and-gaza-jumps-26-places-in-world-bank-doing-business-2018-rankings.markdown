@@ -1,6 +1,16 @@
 ---
 title: West Bank and Gaza Jumps 26 Places in World Bank “Doing Business” 2018 Rankings
 date: 2017-11-01 21:52:00 Z
+regions: Middle East and North Africa
+projects: Palestinian Market Development Programme (PMDP)
+clients:
+- U.K. Department for International Development
+- European Commission
+summary: The economy of the West Bank and Gaza moved up 26 places in the World Bank
+  Doing Business report for 2018, from 140th to 114th in the annual ranking of 190
+  economies. The West Bank and Gaza’s overall score—an average of 10 indicators that
+  measure ease of doing business—increased from 54.88 to 58.68 on a scale of 1 to
+  100, the ninth-largest year-over-year improvement among the 190 economies measured.
 ---
 
 The economy of the West Bank and Gaza moved up 26 places in the World Bank Doing Business report for 2018, from 140th to 114th in the annual ranking of 190 economies. The West Bank and Gaza’s overall score—an average of 10 indicators that measure ease of doing business—increased from 54.88 to 58.68 on a scale of 1 to 100, the ninth-largest year-over-year improvement among the 190 economies measured. 
