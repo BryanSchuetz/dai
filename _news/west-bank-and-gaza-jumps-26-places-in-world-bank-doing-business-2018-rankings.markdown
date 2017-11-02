@@ -30,6 +30,7 @@ The West Bank and Gaza upgrade was led by significant improvements in the “Get
 
 
 
+
 The PMDP team supported the ministry in analyzing West Bank and Gaza’s status in each of the 10 indicators and identifying potential areas for reform. This effort produced a comprehensive action plan that identified short-, medium- and long-term reforms needed to improve the ranking. The action plan was presented to the Cabinet of Ministers and adopted by a ministerial committee set up to execute the action plan. Specialized technical committees are working to advance the proposed reforms. 
 
 For the “Getting Credit” indicator, PMDP’s team supported the ministry by ensuring that the legal framework for the Law for Secured Transactions was complete and the collateral registry fully functional. Notably, PMDP engaged with the financial sector to raise awareness and promote the use of the registry, which was essential in driving the reform. 
