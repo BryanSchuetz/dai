@@ -8,6 +8,8 @@ DAI was last night named Government Contractor of the Year at the [Greater Washi
 
 The award is presented annually for “distinguished financial and operational accomplishments and for outstanding contributions to its employees, the government contracting industry and the U.S. Government.” DAI was one of six finalists in the large contractor category, representing companies with revenues in excess of $300 million. DAI also won the award [in 2006](https://washingtontechnology.com/Articles/2006/10/30/2006-Greater-Washington-Government-Contractor-Awards-Partnership-takes-center-stage.aspx?Page=2).
 
+![GovConAward2017.jpg](/uploads/GovConAward2017.jpg)
+
 “DAI has literally transformed itself in the decade since we were first named Contractor of the Year,” said DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard), who joined 1,000 industry and government leaders for the presentation at a gala event at the Ritz Carlton in Tysons Corner, Virginia.
 
 “In 2006, we were almost exclusively a partner for USAID; today, we are also a trusted partner for British and European aid agencies, and increasingly for commercial clients. In 2006, we had no global health practice to speak of; today, we have a robust health portfolio and we integrate services across the spectrum of international development. In 2006, we were wholly owned by our employees, but only by our U.S. employees; today, all of our global corporate employees are eligible to own a stake in DAI, as befits a truly global development company.”
