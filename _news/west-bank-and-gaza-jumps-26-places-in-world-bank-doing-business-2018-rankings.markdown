@@ -1,7 +1,6 @@
 ---
 title: West Bank and Gaza Jump 26 Places in World Bank “Doing Business” 2018 Rankings
 date: 2017-11-01 21:52:00 Z
-published: false
 regions: Middle East and North Africa
 projects: Palestinian Market Development Programme (PMDP)
 clients:
