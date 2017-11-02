@@ -4,6 +4,7 @@ date: 2017-11-02 12:02:00 Z
 is_featured: false
 summary: DAI was named 2017 Government Contractor of the Year at the Greater Washington
   Government Contractor Awards.
+social-image: "/uploads/GovCon%20Winner%20Badge%202017.jpg"
 ---
 
 DAI was last night named Government Contractor of the Year at the [Greater Washington Government Contractor Awards](http://www.novachamber.org/greater-washington-government-contracting-awards.html).
