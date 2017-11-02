@@ -11,7 +11,7 @@ DAI was last night named Government Contractor of the Year at the [Greater Washi
 
 The award is presented annually for “distinguished financial and operational accomplishments and for outstanding contributions to its employees, the government contracting industry and the U.S. Government.” DAI was one of six finalists in the large contractor category, representing companies with revenues in excess of $300 million. DAI also won the award [in 2006](https://washingtontechnology.com/Articles/2006/10/30/2006-Greater-Washington-Government-Contractor-Awards-Partnership-takes-center-stage.aspx?Page=2).
 
-![GovConAward2017.jpg](/uploads/GovConAward2017.jpg)`Jean Gilson, Senior Vice President of Marketing and IT, from left; Jim Boomgard, CEO; and Beth Singh, Senior Director of Human Resources, with the award for 2017 Contractor of the Year.`
+![GovConAward2017.jpg](/uploads/GovConAward2017.jpg)`Jean Gilson, from left, Senior Vice President of Marketing and IT; Jim Boomgard, CEO; and Beth Singh, Senior Director of Human Resources, with the award for 2017 Contractor of the Year.`
 
 <!--more-->
 
