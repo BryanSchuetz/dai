@@ -7,7 +7,7 @@ summary: 'Dorival Bettencourt is a private sector development specialist with ex
 
 '
 job-title: Senior Oil and Gas Advisor, Sustainable Business Group
-image: https://assetify-dai.com/experts/expert-portrait-1.jpg
+image: "/uploads/Dorival_Bettencourt_photo.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
