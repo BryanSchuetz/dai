@@ -19,3 +19,5 @@ The award is presented annually for “distinguished financial and operational a
 “Most gratifying is the evaluation committee’s recognition that this structural transformation and diversification actually makes DAI a better partner for the U.S. Government. We thank the committee for this honor, and we extend our warmest congratulations to all of last night’s distinguished finalists and winners.”
 
 The Greater Washington Government Contractor Awards are presented by the Northern Virginia Chamber of Commerce and the Professional Services Council, the voice of the government technology and professional services industry. 
+
+“We are proud to recognize DAI as Contractor of the Year,” said Jim Corcoran, Northern Virginia Chamber President and CEO. “We applaud each of the winners for their contributions to the government contracting sector and commitment to employees and our region.”
