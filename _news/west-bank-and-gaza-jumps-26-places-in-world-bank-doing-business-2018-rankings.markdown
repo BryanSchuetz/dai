@@ -21,6 +21,10 @@ The territories’ exceptional performance was facilitated in part by the [Pales
 
 The West Bank and Gaza upgrade was led by significant improvements in the “Getting Credit” indicator, where the West Bank and Gaza leaped from 118th to 20th place, the greatest improvement in this indicator worldwide. The World Bank noted that the West Bank and Gaza strengthened access to credit by introducing a Law for Secured Transactions and by setting up a new collateral registry for movable assets. The new law implements a secured transactions system that allows more functional descriptions of assets, debts, and obligations. The collateral registry is now operational, unified geographically, and searchable by a debtor’s unique identifier. The new law also gives priority to secured creditors outside insolvency procedures and allows out-of-court restructuring as a debt-enforcement option.
 
+> ![Abeer-Odeh.jpg](/uploads/Abeer-Odeh.jpg)“[We] have been working on implementing reforms aimed at improving Palestine ranking in the World Bank Doing Business report, aspiring to attract more investments to Palestine. It is noteworthy that Palestine scored the highest change in ranking in the MENA region, advancing 26 places this year.”
+— H.E Abeer Odeh, Minister of National Economy, Palestinian Authority    
+
+
 The PMDP team supported the ministry in analyzing West Bank and Gaza’s status in each of the 10 indicators and identifying potential areas for reform. This effort produced a comprehensive action plan that identified short-, medium- and long-term reforms needed to improve the ranking. The action plan was presented to the Cabinet of Ministers and adopted by a ministerial committee set up to execute the action plan. Specialized technical committees are working to advance the proposed reforms. 
 
 For the “Getting Credit” indicator, PMDP’s team supported the ministry by ensuring that the legal framework for the Law for Secured Transactions was complete and the collateral registry fully functional. Notably, PMDP engaged with the financial sector to raise awareness and promote the use of the registry, which was essential in driving the reform. 
