@@ -2,9 +2,9 @@
 title: Rebecca Homan
 date: 2017-11-02 21:08:00 Z
 lastname: Homan
-summary: becca Homan administers the Sustainable Business Group’s customer relationship
+summary: Rebecca Homan administers the Sustainable Business Group’s customer relationship
   management system, maintains the unit’s materials, and supports financial transactions.
-job-title: Homan, Sustainable Business Group
+job-title: Assistant, Sustainable Business Group
 image: "/uploads/Rebecca_Homan_photoo.jpeg"
 solutions:
 - Sustainable Business
