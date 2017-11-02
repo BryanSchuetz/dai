@@ -1,7 +1,7 @@
 ---
 title: DAI Named Government Contractor of the Year
 date: 2017-11-02 12:02:00 Z
-is_featured: true
+is_featured: false
 summary: DAI was named 2017 Government Contractor of the Year at the Greater Washington
   Government Contractor Awards.
 ---
