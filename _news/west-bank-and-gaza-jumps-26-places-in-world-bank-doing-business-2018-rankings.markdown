@@ -24,7 +24,7 @@ The West Bank and Gaza upgrade was led by significant improvements in the “Get
 ![Abeer-Odeh.jpg](/uploads/Abeer-Odeh.jpg){:.float-left}
 
 > “[We] have been working on implementing reforms aimed at improving Palestine ranking in the World Bank *Doing Business* report, aspiring to attract more investments to Palestine. It is noteworthy that Palestine scored the highest change in ranking in the [Middle East and North Africa] region, advancing 26 places this year.”
-— H.E Abeer Odeh, left, Minister of National Economy, Palestinian Authority
+— **H.E Abeer Odeh**, left, Minister of National Economy, Palestinian Authority
     
 
 
