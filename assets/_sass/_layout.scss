@@ -996,6 +996,72 @@ iframe{
   background-color: $nav-gray;
 }
 
+// 🎌 Search Styles  🎌
+
+#search-box{
+  width: 100%;
+  padding: .5rem;
+  font-size: 1rem;
+  position: relative;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.ais-search-box{
+  position: relative;
+}
+#sbx-icon-search-13{
+  height: 1rem;
+  width: 1rem;
+  position: relative;
+  top: -1.8rem;
+  left: .4rem;
+}
+.ais-search-box--reset{
+  height: 1rem;
+  width: 1rem;
+  position: absolute;
+  top: .8rem;
+  right: .4rem;
+}
+.algolia__result-highlight{
+  font-weight: bold;
+}
+h3.alg-title{
+  color: #54aa4f;
+}
+h3.alg-title:hover{
+  color: #43873f;
+}
+.facet-item{
+  text-transform: capitalize;
+}
+#rev-box{
+  margin-bottom: 2rem;
+}
+.menu-item{
+  cursor: pointer;
+}
+.menu-item--label{
+  text-transform: capitalize;
+}
+.ais-menu--item__active{
+  color: #54aa4f;
+}
+.ais-menu--item{
+  float: left;
+  margin-right: 1rem;
+  border: 1px solid black;
+  width: 30%;
+  padding: .5rem;
+}
+.ais-menu--list{
+clear: right;
+}
+.break{
+  margin-bottom: 1rem;
+}
+
+
 // 🎌 PRINT STYLES  🎌
 @media print{
   .container, .header-inner, .footer-inner{
