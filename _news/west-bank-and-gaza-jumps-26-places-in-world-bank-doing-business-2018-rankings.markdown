@@ -15,7 +15,7 @@ summary: The economy of the West Bank and Gaza moved up 26 places in the World B
 
 The economy of the West Bank and Gaza moved up 26 places in the World Bank [*Doing Business*](http://www.doingbusiness.org/~/media/WBG/DoingBusiness/Documents/Annual-Reports/English/DB2018-Full-Report.pdf) report for 2018, from 140th to 114th in the annual ranking of 190 economies. The West Bank and Gaza’s overall score—an average of 10 indicators that measure ease of doing business—increased from 54.88 to 58.68 on a scale of 1 to 100, the ninth-largest year-over-year improvement among the 190 economies measured. 
 
-The territories’ exceptional performance was facilitated in part by the [Palestinian Market Development Programme](https://www.dai.com/our-work/projects/palestinian-market-development-programme-pmdp) (PMDP), which assists the Palestinian Ministry of National Economy specifically in its efforts to improve West Bank and Gaza’s Doing Business ranking. PMDP is funded by the U.K. Department for International Development and the European Commission, and implemented by DAI.
+The territories’ exceptional performance was facilitated in part by the [Palestinian Market Development Programme](https://www.dai.com/our-work/projects/palestinian-market-development-programme-pmdp) (PMDP), which assists the Palestinian Ministry of National Economy specifically in its efforts to improve West Bank and Gaza’s *Doing Business* ranking. PMDP is funded by the U.K. Department for International Development and the European Commission, and implemented by DAI.
 
 <script id="infogram_0__/YaCHje3bJXzflgNQoWQC" title="West Bank and Gaza Doing Business Indicators" src="https://e.infogram.com/js/dist/embed.js?l7z" type="text/javascript"></script>
 
@@ -23,7 +23,7 @@ The West Bank and Gaza upgrade was led by significant improvements in the “Get
 
 ![Abeer-Odeh.jpg](/uploads/Abeer-Odeh.jpg){:.float-left}
 
-> “[We] have been working on implementing reforms aimed at improving Palestine ranking in the World Bank Doing Business report, aspiring to attract more investments to Palestine. It is noteworthy that Palestine scored the highest change in ranking in the MENA region, advancing 26 places this year.”
+> “[We] have been working on implementing reforms aimed at improving Palestine ranking in the World Bank *Doing Business* report, aspiring to attract more investments to Palestine. It is noteworthy that Palestine scored the highest change in ranking in the MENA region, advancing 26 places this year.”
 
 — H.E Abeer Odeh, left, Minister of National Economy, Palestinian Authority    
 
