@@ -5,7 +5,7 @@ lastname: 'Helms '
 summary: Brigit Helms has more than 25 years of experience pioneering innovative approaches
   to financial inclusion and seeking enterprise and market-based solutions to poverty.
 job-title: Senior Principal Strategic Advisor, Strategy & Marketing
-image: "/uploads/Helms%20copy.jpg"
+image: "/uploads/Brigit-Helms-bio.jpg"
 solutions:
 - Economic Growth
 - Financial Services
