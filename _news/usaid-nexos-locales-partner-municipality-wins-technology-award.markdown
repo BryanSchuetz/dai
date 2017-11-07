@@ -12,6 +12,7 @@ summary: Chiantla, a municipality of 98,000 people in the Western Highlands of G
   from the National Association of Municipalities for creating a municipal transparency
   mobile app designed to help citizens hold government accountable for delivering
   services.
+social-image: "/uploads/WhatsApp%20Image%202017-10-31%20at%202.07.05%20PM.jpeg"
 ---
 
 Chiantla, a municipality of 98,000 people in the Western Highlands of Guatemala, has won a "Best Use of Technology" [award](https://www.facebook.com/anamguatemala2/videos/vb.1519600618370362/1853870384943382/?type=2&theater) from the National Association of Municipalities for creating a municipal transparency mobile app designed to help citizens hold government accountable for delivering services.
