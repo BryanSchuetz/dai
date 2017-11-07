@@ -12,13 +12,13 @@ The [Sustainable Business Group](/our-work/solutions/sustainable-business) offer
 
 Since 2015, the topic of local content has taken center stage, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
 
+<script id="infogram_0__/a4OO6kty6VOVCplLgMBc" title="Master Class Evaluations" src="https://e.infogram.com/js/dist/embed.js?BHY" type="text/javascript"></script>
+
 <hr>
 
 ## Why Does Local Content Matter?
 
 Local content has the potential to provide significant contributions to the host economy from major inward investments.
-
-![Local Content Impact](/uploads/local-impact-chart.jpg)
 
 DAI’s [Sustainable Business Group](/our-work/solutions/sustainable-business) tackles the growing challenges facing private sector companies (investors, operators, contractors) and public authorities in meeting local content regulations and supporting the sustainable industrial development of host economies through capital investments.
 
