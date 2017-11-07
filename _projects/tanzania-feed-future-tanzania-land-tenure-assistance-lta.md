@@ -32,17 +32,12 @@ The outcome of LTA—a low-cost, participatory land registration process—will 
 ### Sample Activities
 
 * Assist villages and district administrations in Kilombero and Iringa in understanding the laws and completing the land-use planning process and delivering Certificates of Customary Right of Occupancy.
-
 * Support capacity building of village and district land governance institutions.
-
 * Expand to Mbeya with similar programs to educate and build capacity of village land governance institutions, and of district-level land governance in Mbeya.
-
 * Building capacity to use the MAST application throughout Tanzania.
 
 ### Select Results
 
 * Designed and developed formal field and office operations and procedures for regularising land ownership, with a view to registering land in more than 40 villages by December 2019. This process is being implemented in the districts of Iringa and Mbeya.
-
 * Completed the first two villages with more than 2,700 parcels demarcated and claims taken with 840 Certificates of Customary Right of Occupancy printed for issuance. Targets for scaling up have been established.
-
-* More than 55 percent of claimants in the early villages are [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, jointly, or in common. Analysis of incoming data is ongoing to ensure rights of women and vulnerable groups are secured.
+* More than 55 percent of claimants in the early villages are [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, [jointly](https://land-links.org/document/lta-success-story-land-registration-opens-economic-doors-women-kiponzelo/), or in common. Analysis of incoming data is ongoing to ensure rights of women and vulnerable groups are secured.
