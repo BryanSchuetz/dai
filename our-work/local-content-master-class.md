@@ -6,7 +6,7 @@ layout: default
 
 # Local Content Master Class
 
-The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers an industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure](/uploads/lcmc-final.pdf). 
+The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure](/uploads/lcmc-final.pdf). 
 
 > “Certainly the prime local content course in the market. Highly recommended.” — *Local Content Manager, International oil field services company*
 
@@ -21,6 +21,8 @@ Since 2015, the topic of local content has taken center stage, and with it the n
 Local content has the potential to provide significant contributions to the host economy from major inward investments.
 
 DAI’s [Sustainable Business Group](/our-work/solutions/sustainable-business) tackles the growing challenges facing private sector companies (investors, operators, contractors) and public authorities in meeting local content regulations and supporting the sustainable industrial development of host economies through capital investments.
+
+> "The course has given me great insight... and covered all the important areas of local content: policy, procurement and metrics". *-Project Co-ordinator for Local Content, Ministry of Energy, Ghana*
 
 These challenges include:
 
@@ -53,6 +55,8 @@ To stimulate engagement and cross-learning between participants, we make every e
 * **International and larger-scale domestic contractor suppliers**: Those who manage local supply chains, source globally, and/or have business development interests in emerging economies. Relevant departments include business development, account management, marketing, service delivery, production, human resources, social performance, and sustainable development.
 * **Local supplier business and trade associations**
 * **Official development agencies and development finance institutions**: Personell who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
+
+> "The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights" *-Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board*
 
 <hr>
 
@@ -90,6 +94,30 @@ To stimulate engagement and cross-learning between participants, we make every e
 * Led a World Bank study to determine optimum levels of foreign direct investment in Guinean supply chains to maximize actual value contributed to the local economy
 * Helped shape Guinea's local content policy within the mining sector
 * Former Officer in the United Kingdom’s Royal Military, where he was deployed on peacekeeping missions to work with community leaders to achieve more transparent governance systems and build stronger communities
+
+**Dorival Bettencourt, Senior Oil and Gas Advisor**
+
+![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
+
+* Over ten years experience within the extractives industry, focusing on extensive local content and policy work
+* Supported development of a proprietary SBG tool that forecasts local content supply and demand
+* Spearheaded the Tanzania Local Content Benchmarking Study and Exchanges, which included designing and implementing a local content stakeholder engagement process for The Oil and Gas Association of Tanzania (OGAT). Dorival was the lead author of the first Local Content Benchmarking Study for Tanzania.  Then, drawing on key conclusions from this study, he led a series of Local Content Exchanges to promote open dialogue on priority local content topics with stakeholders
+* Led and facilitated the first Kenya Local Content Exchange, one of a three-part series that brings together public, private, and civil stakeholders from Kenya's petroleum sector to facilitate discussion and create a deeper understanding of local content issues in the country
+* Led workshops covering the fundamentals of oil and gas and local content, aimed at providing the Senegalese media with the foundational knowledge to effectively report on developments within the sector
+
+**Zachary Kaplan, Director, Sustainable Buisness Group**
+
+![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
+
+* As Director of the Sustainable Business Unit, Zach leads activities related to local content, corporate social investment and supplier development
+* Over ten years experience within the extractives industry, focusing on extensive local content and policy work
+* Served as a Technical Advisor to local content supplier development programs linked to the extractive industries in Zambia, Mozambique, Nigeria, Ghana and Angola. Much of this work included assessing local supplier capacity, helping local suppliers upgrade to enter global supply chains, and facilitating foreign direct investment vis-à-vis joint-ventures and business-to-business relationships between international and local companies
+* Spearheaded a Local Content Regime Analysis in seven countries including Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania, Papua New Guinea, and Uganda, to provide a comparative analysis of the impacts of various local content regimes
+* Recently led the Local Content Strategy Project for ExxonMobil Ghana, which included both an industrial baseline analysis of the Ghanaian offshore petroleum industry to assess the ability of local suppliers, as well as an analysis of the Ghanaian regulatory requirements
+* Summer guest lecturer on social change at Georgetown University
+* Guest panelist and keynote speaker at events such as the Lebanon Oil and Gas Summit 2017 and Mozambique Local Content Policy Options Forum, 2015, on topics including local content, supplier development, PPPs and inclusive economic growth in extractive industries
+
+
 
 <hr>
 
