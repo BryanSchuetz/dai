@@ -25,7 +25,17 @@ Since its inception, *Alif Ailaan* has embedded specific education issues into t
 
 <iframe src="//player.vimeo.com/video/104423898" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
-###  Sample Activities
+### Sample Activities
+
+* Bring parents, politicians and education providers together to solve problems collectively.
+* Make sure parents know and understand that a quality education free of cost is the Constitutional right of every child.
+* Lobby politicians and policy makers at the highest levels to make education a national priority.
+* Build alliances with grassroots organisations and civil society to campaign more effectively for education reform.
+* Support provincial education departments in carrying out activities that promote education for all.
+* Provide financial support to partner organisations working to address education-related issues.
+* Conduct research to better understand the problems Pakistan faces in the field of education and to find solutions.
+
+###  Select Results
 
 * Write, design, and publish a three-volume document titled “Powering Pakistan for the 21st Century”; the document establishes the importance of maths and science for a country’s progress and an individual’s cognitive development in the first volume, demonstrates the state of maths and science in Pakistan currently and the contributing factors, and finally engages practitioners in policy, [maths and science](https://www.youtube.com/watch?v=xF7DgkdL36s), and education to come up with comprehensive and specific recommendations to transform education in Pakistan.
 * Organise a series of School Management Council conventions in 14 constituencies across Pakistan to [engage parents](https://www.youtube.com/watch?v=0EfgGS2p-T4).
