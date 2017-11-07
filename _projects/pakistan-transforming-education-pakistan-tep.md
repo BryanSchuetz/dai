@@ -37,6 +37,6 @@ Since its inception, *Alif Ailaan* has embedded specific education issues into t
 
 ###  Select Results
 
-* Write, design, and publish a three-volume document titled “Powering Pakistan for the 21st Century”; the document establishes the importance of maths and science for a country’s progress and an individual’s cognitive development in the first volume, demonstrates the state of maths and science in Pakistan currently and the contributing factors, and finally engages practitioners in policy, [maths and science](https://www.youtube.com/watch?v=xF7DgkdL36s), and education to come up with comprehensive and specific recommendations to transform education in Pakistan.
-* Organise a series of School Management Council conventions in 14 constituencies across Pakistan to [engage parents](https://www.youtube.com/watch?v=0EfgGS2p-T4).
-* Create alliances around education themes: maths and science education, government education finance, and data.
+* Wrote, designed, and published a three-volume document titled “Powering Pakistan for the 21st Century;” the document established the importance of maths and science for a country’s progress and an individual’s cognitive development in the first volume, demonstrated the state of maths and science in Pakistan currently and the contributing factors, and engaged practitioners in policy, [maths and science](https://www.youtube.com/watch?v=xF7DgkdL36s), and education to come up with comprehensive and specific recommendations to transform education in Pakistan.
+* Organised a series of School Management Council conventions in 14 constituencies across Pakistan to [engage parents](https://www.youtube.com/watch?v=0EfgGS2p-T4).
+* Created alliances around education themes: maths and science education, government education finance, and data.
