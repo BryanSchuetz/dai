@@ -13,14 +13,16 @@ layout: default
   <h2>Projects</h2>
   <div id="hits"></div>  
 </div>
+
 {% raw %}
+
 <script type="text/javascript">
   const search = instantsearch({
   appId: 'R7MRY12BR6',
   apiKey: 'a773dcb4e565198a31f353490e3652d8',
   indexName: 'dai',
   searchParameters: {
-    attributesToSnippet: ["excerpt", "text:30"] 
+    attributesToSnippet: ["excerpt", "text:30", "url"] 
   }
 });
 
@@ -67,7 +69,7 @@ search.addWidget(
       },
       templates: {
         empty: 'No results',
-        item: '<a class="alg-link" href="{{_highlightResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>'
+        item: '<a class="alg-link" href="{{_sbuooetResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>'
       }
     })
   );

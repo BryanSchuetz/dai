@@ -1036,7 +1036,8 @@ h3.alg-title:hover{
   text-transform: capitalize;
 }
 #rev-box{
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+  @include clearfix;
 }
 .menu-item{
   cursor: pointer;
@@ -1044,15 +1045,30 @@ h3.alg-title:hover{
 .menu-item--label{
   text-transform: capitalize;
 }
-.ais-menu--item__active{
-  color: #54aa4f;
+.ais-menu--header{
+  margin-bottom: 1rem;
+}
+.ais-menu{
+  margin-bottom: 1rem;
 }
 .ais-menu--item{
   float: left;
-  margin-right: 1rem;
-  border: 1px solid black;
-  width: 30%;
+  width: 100%;
+  margin-bottom: .5rem;
+  @include responsive(medium-screens){
+    width: 30%;
+    margin-right: 1rem;
+    margin-bottom: 0;
+  }
+  border: 1px solid #f2f0ed;
+  border-radius: 4px;
+  background-color: #f2f0ed;
+  color: #aaa7a2;
   padding: .5rem;
+}
+.ais-menu--item.ais-menu--item__active, .ais-menu--item:hover{
+  color: #1c242b;
+  border: 1px solid #1c242b;
 }
 .ais-menu--list{
 clear: right;
