@@ -1,9 +1,9 @@
 ---
 title: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 date: 2016-01-21 22:40:00 Z
-summary: Smallholder land registrations under the Village Land Act in Tanzania are
-  of considerable importance in protecting local land rights. Since passing the Act
-  in 1999, the process of registration has moved slowly.
+summary: The outcome of LTA—a low-cost, participatory land registration process—will
+  [transform the way](https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future)
+  land rights are managed in Tanzania, with the potential for adaptation and use elsewhere.
 start: 2015
 end: 2019
 client: U.S. Agency for International Development
