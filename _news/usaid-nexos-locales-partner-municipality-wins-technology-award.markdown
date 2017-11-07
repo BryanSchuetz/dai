@@ -1,7 +1,6 @@
 ---
 title: USAID Nexos Locales Partner Municipality Wins Technology Award
 date: 2017-11-06 19:55:00 Z
-published: false
 solutions:
 - Innovation and Entrepreneurship
 - Digital
