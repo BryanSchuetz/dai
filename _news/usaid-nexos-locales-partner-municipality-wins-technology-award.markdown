@@ -1,6 +1,7 @@
 ---
 title: USAID Nexos Locales Partner Municipality Wins Technology Award
 date: 2017-11-06 19:55:00 Z
+is_featured: true
 solutions:
 - Innovation and Entrepreneurship
 - Digital
@@ -18,6 +19,8 @@ social-image: "/uploads/WhatsApp%20Image%202017-10-31%20at%202.07.05%20PM.jpeg"
 Chiantla, a municipality of 98,000 people in the Western Highlands of Guatemala, has won a "Best Use of Technology" [award](https://www.facebook.com/anamguatemala2/videos/vb.1519600618370362/1853870384943382/?type=2&theater) from the National Association of Municipalities for creating a municipal transparency mobile app designed to help citizens hold government accountable for delivering services.
 
 ![app award.jpg](/uploads/app%20award.jpg)`Mayor Carlos Alvarado Figueroa, right, receives the award from Edwin Escobar, President of ANAM.`
+
+<!--more-->
 
 The app’s creation was facilitated by a DAI-led project called [Nexos Locales](https://www.dai.com/our-work/projects/guatemala-nexos-locales). Nexos aims to increase the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and global climate change; and improve public financial management. DAI’s digital team [worked side-by-side](https://dai-global-digital.com/citizen-centered-design-guatemala.html) with the Mayor of Chiantla, Carlos Alvarado Figueroa, and brought in citizens to inform the design process.
 
