@@ -117,8 +117,6 @@ To stimulate engagement and cross-learning between participants, we make every e
 * Summer guest lecturer on social change at Georgetown University
 * Guest panelist and keynote speaker at events such as the Lebanon Oil and Gas Summit 2017 and Mozambique Local Content Policy Options Forum, 2015, on topics including local content, supplier development, PPPs and inclusive economic growth in extractive industries
 
-
-
 <hr>
 
 ## Contact Us
