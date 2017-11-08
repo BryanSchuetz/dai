@@ -9,8 +9,8 @@ layout: default
 <div id="rev-box"></div>
 <br>
 <hr class="break">
+<div id="refine"></div>
 <div id="hits">
-  <h2>Projects</h2>
   <div id="hits"></div>  
 </div>
 
@@ -69,12 +69,32 @@ search.addWidget(
       },
       templates: {
         empty: 'No results',
-        item: '<a class="alg-link" href="{{_sbuooetResult.url.value}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>'
+        item: '<a class="alg-link" href="{{url}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>'
       }
     })
   );
 
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#refine',
+    attributeName: 'solutions',
+    operator: 'or',
+    limit: 10,
+    transformData: function(item){
+      if(item.label == "Include Primary and/or Secondary Solutions"){
+        item.hide = "true";
+      }
+     return item;
+     },
+    templates: {
+      header: 'Solutions:',
+      item: '{{^hide}}<span class="refine-button">{{ label }}</span>{{/hide}}'
+    }
+  })
+);
+
 search.start();
 
 </script>
+
 {% endraw %}
