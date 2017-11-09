@@ -18,7 +18,7 @@ promos:
 - title: Code of Business Conduct and Ethics - Bahasa Indonesia
   link: http://dai-global-conduct.com/assets/Bahasa%20Indonesia%20Pedoman%20Bisnis%20dan%20Etika%20DAI.pdf
 - title: Modern Day Slavery and Anti-Human Trafficking
-  link: "/uploads/Modern%20Day%20Slavery%20and%20Anti-Human%20Trafficking%20Statement.pdf"
+  link: "/uploads/moder-day-slavery.pdf"
 layout: node
 ---
 
