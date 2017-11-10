@@ -5,7 +5,7 @@ layout: default
 ---
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.1/dist/instantsearch.min.js"></script>
 
-<input id="search-box" />
+<input id="search-box" /> 
 <div id="rev-box"></div>
 <br>
 <hr class="break">
@@ -17,6 +17,7 @@ layout: default
 {% raw %}
 
 <script type="text/javascript">
+
   const search = instantsearch({
   appId: 'R7MRY12BR6',
   apiKey: 'a773dcb4e565198a31f353490e3652d8',
@@ -81,14 +82,32 @@ search.addWidget(
     operator: 'or',
     limit: 10,
     transformData: function(item){
-      if(item.label == "Include Primary and/or Secondary Solutions"){
+    if(item.label == "Include Primary and/or Secondary Solutions" || item.label == "Agriculture and Food Security" || item.label == "Business Environment Reform" || item.label == "Clean Energy and Energy Efficiency" || item.label == "Climate Change Adaptation and Mitigation" || item.label == "Conflict and Vulnerability Analysis" || item.label == "Countering Extremism" || item.label == "The DAI Maker Lab" || item.label == "Decentralization and Local Government Management" || item.label == "Emerging Infectious Diseases" || item.label == "Financial Services" || item.label == "Gender" || item.label == "Health and Livelihoods" || item.label == "Health Governance" || item.label == "Innovation and Entrepreneurship" || item.label == "Institutional and Policy Reform" || item.label == "Land Tenure and Property Rights" || item.label == "Law and Justice" || item.label == "Legislative Strengthening" || item.label == "Local Content and Supply Chain Management" || item.label == "Market Insight and Development" || item.label == "Natural Resource Management" || item.label == "Nutrition and Food Security" || item.label == "Peace-Building and Political Transition" || item.label == "Peace-building and State-building" || item.label == "Public Administration, Civil Service Reform, and Human Resources Management" || item.label == "Public Financial Management" || item.label == "Public-Private Partnerships" || item.label == "Security and Justice Development" || item.label == "Security and Justice" || item.label == "Stability" || item.label == "Stabilization" || item.label == "Sustainable and Accountable Health Services" || item.label == "Sustainable Livelihoods" || item.label == "Trade" || item.label == "Transition and Stabilization Programming" || item.label == "Value Chain Development for Agribusiness and Other Sectors" || item.label == "Voice and Accountability" || item.label == "Water and Sanitation Services and Management"  || item.label == "gender"){
         item.hide = "true";
+      }else if(item.label == ""){
+        item.hide = "true";
+      }else if(item.label == ""){
+        item.hide = "true";
+      }else if(item.label == "Economic Growth"){
+        item.icon = "econ-badge"
+      }else if(item.label == "Governance"){
+        item.icon = "gov-badge"
+      }else if(item.label == "Environment and Energy"){
+        item.icon = "env-badge"
+      }else if(item.label == "Health"){
+        item.icon = "health-badge"
+      }else if(item.label == "Fragile States"){
+        item.icon = "stability-badge"
+      }else if(item.label == "Digital"){
+        item.icon = "ict-badge"
+      }else if(item.label == "Sustainable Business"){
+        item.icon = "corp-badge"
       }
      return item;
      },
     templates: {
       header: 'Solutions:',
-      item: '{{^hide}}<span class="refine-button">{{ label }}</span>{{/hide}}'
+      item: '{{^hide}}<span class="refine-button"><svg class="{{icon}} badge" viewBox="0 0 101 100" preserveAspectRatio="xMinYMaxmeet"><use xlink:href="#{{icon}}"></use></svg>{{ label }}</span>{{/hide}}'
     }
   })
 );

@@ -997,7 +997,9 @@ iframe{
 }
 
 // 🎌 Search Styles  🎌
-
+.refine-button .badge{
+  margin-right: .4rem;
+}
 #refine{
   width: 30%;
   float: left;
@@ -1066,7 +1068,10 @@ h3.alg-title:hover{
   border-radius: 4px;
   background-color: #f2f0ed;
   color: #aaa7a2;
-  padding: .2rem .4rem;
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  padding-right: .4rem;
+  padding-left: .3rem;
   cursor: pointer;
   display: block;
   margin-bottom: 1rem;
