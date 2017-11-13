@@ -2,8 +2,9 @@
 title: Alia Afshar-Gandhi
 date: 2016-01-21 22:18:00 Z
 lastname: Afshar-Gandhi
-summary: 'Alia Afshar-Gandhi works in the area of food security and agriculture, where
-  she specializes in rural livelihood creation in post-conflict countries. '
+summary: Alia Afshar-Gandhi is responsible for overseeing a portfolio of economic
+  growth, workforce development, and competitiveness projects in the Middle East and
+  Afghanistan.
 job-title: 'Director, Economic Growth, Middle East and North Africa '
 image: "/uploads/Alia.jpg"
 solutions:
@@ -16,10 +17,9 @@ regions:
 layout: expert
 ---
 
-Alia Afshar-Gandhi works in the area of food security and agriculture, where she specializes in strengthening rural livelihoods in post-conflict countries. Her specific areas of expertise include value chain analysis, alternative livelihoods, and rural economic development. She has worked in transitional environments including Afghanistan, Angola, Iraq, Liberia, Rwanda, and South Africa. She has conducted value chain analysis around agriculture, tourism and handicraft sectors, developed small grants programs, and has worked with gender and microenterprise teams to identify income-generating opportunities for marginalized women. 
+Alia Afshar-Gandhi is responsible for overseeing a portfolio of economic growth, workforce development, and competitiveness projects in the Middle East and Afghanistan. Her specific areas of expertise include value chain analysis, alternative livelihoods, micro- and macro-economic growth interventions, and workforce development. Alia started at DAI working on alternative livelihood programs in Eastern Afghanistan and then joined DAI’s Africa team where she managed the USAID/Feed the Future Food and Enterprise Development Program in Liberia. Before joining DAI, Alia worked at Creative Associates International where she focused on immediate post-conflict programming in Iraq, Afghanistan, Liberia, and Angola.
 
-Alia, a member of DAI’s Food Security and Agriculture group, was drawn to international development from an early age. Her strong desire to work with people from all over the world and help to improve their livelihoods has been a challenging and highly rewarding experience.
+Alia was drawn to international development from an early age. Her strong desire to work with people from all over the world and help to improve their livelihoods has been a challenging and highly rewarding experience.
 
-* M.P.P., international development policy, The University of Maryland
-
-* B.A., international relations, The George Washington University
+* M.P.P., international development policy, University of Maryland
+* B.A., international relations, George Washington University
