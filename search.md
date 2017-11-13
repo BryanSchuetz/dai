@@ -7,7 +7,6 @@ layout: default
 
 <input id="search-box" /> 
 <div id="rev-box"></div>
-<br>
 <hr class="break">
 <div id="refine"></div>
 <div id="hits">
@@ -42,7 +41,7 @@ search.addWidget(
     limit: 3,
     sortBy: ["count:desc","name:asc"],
     templates: {
-      header: 'Result Type:',
+      header: 'Filter Results by Document Type:',
       item: '<div class="menu-item"><span class="menu-item--label">{{ label }} ({{ count }} items)</h3></span>'
     },
     transformData: function(item){
@@ -82,7 +81,7 @@ search.addWidget(
     operator: 'or',
     limit: 10,
     transformData: function(item){
-    if(item.label == "Include Primary and/or Secondary Solutions" || item.label == "Agriculture and Food Security" || item.label == "Business Environment Reform" || item.label == "Clean Energy and Energy Efficiency" || item.label == "Climate Change Adaptation and Mitigation" || item.label == "Conflict and Vulnerability Analysis" || item.label == "Countering Extremism" || item.label == "The DAI Maker Lab" || item.label == "Decentralization and Local Government Management" || item.label == "Emerging Infectious Diseases" || item.label == "Financial Services" || item.label == "Gender" || item.label == "Health and Livelihoods" || item.label == "Health Governance" || item.label == "Innovation and Entrepreneurship" || item.label == "Institutional and Policy Reform" || item.label == "Land Tenure and Property Rights" || item.label == "Law and Justice" || item.label == "Legislative Strengthening" || item.label == "Local Content and Supply Chain Management" || item.label == "Market Insight and Development" || item.label == "Natural Resource Management" || item.label == "Nutrition and Food Security" || item.label == "Peace-Building and Political Transition" || item.label == "Peace-building and State-building" || item.label == "Public Administration, Civil Service Reform, and Human Resources Management" || item.label == "Public Financial Management" || item.label == "Public-Private Partnerships" || item.label == "Security and Justice Development" || item.label == "Security and Justice" || item.label == "Stability" || item.label == "Stabilization" || item.label == "Sustainable and Accountable Health Services" || item.label == "Sustainable Livelihoods" || item.label == "Trade" || item.label == "Transition and Stabilization Programming" || item.label == "Value Chain Development for Agribusiness and Other Sectors" || item.label == "Voice and Accountability" || item.label == "Water and Sanitation Services and Management"  || item.label == "gender"){
+    if(item.label == "Include Primary and/or Secondary Solutions" || item.label == "Agriculture and Food Security" || item.label == "Business Environment Reform" || item.label == "Clean Energy and Energy Efficiency" || item.label == "Climate Change Adaptation and Mitigation" || item.label == "Conflict and Vulnerability Analysis" || item.label == "Countering Extremism" || item.label == "The DAI Maker Lab" || item.label == "Decentralization and Local Government Management" || item.label == "Emerging Infectious Diseases" || item.label == "Financial Services" || item.label == "Gender" || item.label == "Health and Livelihoods" || item.label == "Health Governance" || item.label == "Innovation and Entrepreneurship" || item.label == "Institutional and Policy Reform" || item.label == "Land Tenure and Property Rights" || item.label == "Law and Justice" || item.label == "Legislative Strengthening" || item.label == "Local Content and Supply Chain Management" || item.label == "Market Insight and Development" || item.label == "Natural Resource Management" || item.label == "Nutrition and Food Security" || item.label == "Peace-Building and Political Transition" || item.label == "Peace-building and State-building" || item.label == "Public Administration, Civil Service Reform, and Human Resources Management" || item.label == "Public Financial Management" || item.label == "Public-Private Partnerships" || item.label == "Security and Justice Development" || item.label == "Security and Justice" || item.label == "Stability" || item.label == "Stabilization" || item.label == "Sustainable and Accountable Health Services" || item.label == "Sustainable Livelihoods" || item.label == "Trade" || item.label == "Transition and Stabilization Programming" || item.label == "Value Chain Development for Agribusiness and Other Sectors" || item.label == "Voice and Accountability" || item.label == "Water and Sanitation Services and Management"  || item.label == "gender" || item.label == "Social Strategy"){
         item.hide = "true";
       }else if(item.label == ""){
         item.hide = "true";
@@ -106,7 +105,7 @@ search.addWidget(
      return item;
      },
     templates: {
-      header: 'Solutions:',
+      header: 'Further Refine Results by Solution:',
       item: '{{^hide}}<span class="refine-button"><svg class="{{icon}} badge" viewBox="0 0 101 100" preserveAspectRatio="xMinYMaxmeet"><use xlink:href="#{{icon}}"></use></svg>{{ label }}</span>{{/hide}}'
     }
   })
