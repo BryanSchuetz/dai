@@ -11,9 +11,9 @@ solutions:
 - Economic Growth
 - Agriculture and Food Security
 regions:
-- Asia and the Pacific
-- Middle East and North Africa
 - Sub-Saharan Africa
+- Middle East and North Africa
+- 
 layout: expert
 ---
 
