@@ -24,12 +24,8 @@ Nearly 40 years ago, Bill Parente completed degrees in civil engineering with no
 
 After working as a highway engineer, rail engineer, drainage and hydrological engineer, and cost engineer, Bill transitioned to the role of project manager for the World Bank's national roads programs in Thailand, the first of numerous assignments as a project manager and chief of party on World Bank, Asian Development Bank, U.S. Army Corps of Engineers, and U.S. Agency for International Development projects. Feeling the need to diversify his skills, Bill developed competencies in municipal engineering, engineering economics, water supply, and public-private partnerships in infrastructure.
 
-> "In public-private partnerships, there is no substitute for a well planned, professionally designed, transparently prepared, and competitively bid infrastructure project."
-
 In recent years, Bill has managed projects for DAI in Indonesia, Afghanistan, and Lebanon, as well as led a rural roads program in Liberia for CDM Smith. As Senior Principal Global Practice Specialist, he contributes to DAI’s portfolio of water, environment, and infrastructure programs.
 
 * M.S., transportation engineering and construction management, Drexel University
-
 * B.S., civil engineering, Rutgers University
-
 * Registered Professional Engineer, Pennsylvania
