@@ -1,12 +1,14 @@
 ---
 title: Bill Parente
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Parente
-summary: After working as a highway engineer, rail engineer, drainage and hydrological
-  engineer, and cost engineer, Bill transitioned to the role of project manager for
-  the World Bank's national road programs in Thailand, the first of numerous assignments.
-job-title: Chief of Party, Lebanon Lebanon Water and Wastewater Sector Support Program
+summary: 'A professional engineer by training, Bill has led numerous infrastructure
+  and development projects for donors in countries around the world. He contributes
+  to DAI’s water, environment, and infrastructure programs as part of the Technical
+  Services team.
+
+'
+job-title: " Senior Principal Global Practice Specialist"
 image: "/uploads/PersonImage.jpeg"
 solutions:
 - Environment and Energy
@@ -24,7 +26,7 @@ After working as a highway engineer, rail engineer, drainage and hydrological en
 
 > "In public-private partnerships, there is no substitute for a well planned, professionally designed, transparently prepared, and competitively bid infrastructure project."
 
-In recent years, Bill has managed projects for DAI in Indonesia, Afghanistan, and Lebanon, as well as led a rural roads program in Liberia for CDM Smith.
+In recent years, Bill has managed projects for DAI in Indonesia, Afghanistan, and Lebanon, as well as led a rural roads program in Liberia for CDM Smith. As Senior Principal Global Practice Specialist, he contributes to DAI’s portfolio of water, environment, and infrastructure programs.
 
 * M.S., transportation engineering and construction management, Drexel University
 
