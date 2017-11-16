@@ -1,5 +1,5 @@
 ---
-title: DAI’s Ian Rose to Present on Legal Reform in the Land Sector
+title: DAI’s Ian Rose to Present on Legal Reform in the Land Sector in Mozambique
 date: 2017-11-16 16:22:00 Z
 solutions:
 - Land Tenure and Property Rights
