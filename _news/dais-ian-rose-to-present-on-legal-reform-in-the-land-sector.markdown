@@ -13,7 +13,7 @@ summary: "[Ian Rose](https://www.dai.com/who-we-are/our-team/ian-rose), DAI’s 
   conference in Mozambique. "
 ---
 
-![Ian Rose in high-rez.jpg](/uploads/Ian%20Rose%20in%20high-rez.jpg){:.float-left} (/uploads/Ian%20Rose%20in%20high-rez.jpg)
+![Ian Rose in high-rez.jpg](/uploads/Ian%20Rose%20in%20high-rez.jpg){:.float-left} 
 [Ian Rose](https://www.dai.com/who-we-are/our-team/ian-rose), DAI’s Senior Principal Global Practice Specialist for Land Tenure and Property Rights, will present at the upcoming [CASP](https://www.cta.org.mz/index.php/novidades/cta/716-xv-casp) conference in Mozambique. The annual conference, to be held November 29-30 in Maputo, highlights the country’s investment environment and is hosted by the [CTA](https://www.cta.org.mz/) (Confederação das Associações Económicas de Moçambique), the leading association of the private sector in Mozambique.
 
 Conference organizers are expecting 700 people to attend.
