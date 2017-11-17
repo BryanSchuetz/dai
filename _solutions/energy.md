@@ -1,14 +1,14 @@
 ---
 title: Energy
-date: 2016-01-22 00:11:14.114000000 Z
+date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/environment-and-energy-solutions/energy"
 solutions:
 - Environment and Energy
 layout: solution
 ---
 
-We support low-emissions development through policy design at the national and local levels to change practices and drive investment in clean and renewable energy and energy-efficiency technology.
+Our work in renewable, locally available energy and energy-efficiency technology supports energy security, economic growth, environmental protection, and improved governance.
 
-With a focus on expanding cleaner energy access for the 2.4 billion people who rely on traditional biomass and expensive fuels, DAI supports governments at the national and regional levels in their design of energy, trade, and tax policies, as well as at the local level for urban development and environmental policies. We work to build an environment in which stakeholders are able to attract investment for wind, solar, geothermal, hydro, biomass, and efficient fossil-based energy for both grid and off-grid distributed electricity.
+With a focus on expanding cleaner energy access for the 2.4 billion people who rely on traditional biomass and expensive fuels, DAI supports governments at the national and regional levels in their design of energy, trade, and tax policies to build an environment to attract investment for wind, solar, geothermal, hydro, biomass, and efficient fossil-based energy for both grid and off-grid distributed electricity. 
 
-By evaluating energy needs in value chains including agriculture, we identify and address barriers to deploying clean and affordable technology such as efficient water pumps and steam traps. In communities, we help local populations match technologies with local conditions and use resources more efficiently through the introduction of new business models and public-private partnerships to support improved livelihoods, meet social needs, and improve health.
+We manage energy finance facilities and work to increase the capability of financial institutions to lend to the energy sector. We also work with small entrepreneurs to help them learn how to install solar systems and run renewable energy businesses. In agriculture and fishing our work allows local communities to retain more of the value of their crops through processing and refrigeration. Our work decreases pressure on forests and allows hydropower work to be done in a manner that benefits communities and protects the environment.  
