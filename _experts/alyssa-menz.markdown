@@ -8,7 +8,7 @@ job-title: Associate Analyst
 image: "/uploads/Alyssa%20Menz.jpg"
 solutions:
 - Sustainable Business
-- Social Strategy
+- energy
 ---
 
 Alyssa Menz entered college intending to pursue dual degrees in environmental biology and cultural anthropology until she discovered the field of international development, which married her interests in environmental sustainability and socio-economic equity. While visiting Israel, Jordan, Kenya, Turkey, and the West Bank during her studies, she gained firsthand exposure to issues and challenges related to ecological conservation, conflict resolution, and sustainable agriculture, furthering her interest in multi-stakeholder dialogue processes, local content, and the role of the private sector in development.
