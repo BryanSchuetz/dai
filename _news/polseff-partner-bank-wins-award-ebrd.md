@@ -13,6 +13,7 @@ solutions:
 - Environment and Energy
 - Financial Services
 - Climate Change Adaptation and Mitigation
+- Energy
 regions:
 - Eastern Europe and Central Asia
 projects: 

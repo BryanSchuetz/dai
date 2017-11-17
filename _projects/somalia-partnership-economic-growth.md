@@ -11,6 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
+- Energy
 regions:
 - Sub-Saharan Africa
 country:

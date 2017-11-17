@@ -10,6 +10,7 @@ solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
 - Social Strategy
+- Energy
 regions:
 - Sub-Saharan Africa
 layout: expert

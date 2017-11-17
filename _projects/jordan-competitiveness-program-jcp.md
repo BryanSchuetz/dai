@@ -13,6 +13,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Financial Services
 - Public Financial Management
+- Energy
 regions:
 - Middle East and North Africa
 country:

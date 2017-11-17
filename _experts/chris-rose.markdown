@@ -8,6 +8,7 @@ job-title: 'Senior Development Specialist, Energy and Environment '
 image: "/uploads/ChrisRose-Inner.jpg"
 solutions:
 - Environment and Energy
+- Energy
 ---
 
 Chris Rose is a Senior Development Specialist with DAI Europe’s Energy, Environment, and Climate Change practice. He has experience providing technical expertise on programmes funded by the U.K. Department for International Development (DFID) and the European Commission (EC), and supports business development and programme management across all donors in the fields of climate change, environment, and renewable energy.
