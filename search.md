@@ -22,7 +22,8 @@ layout: default
   apiKey: 'a773dcb4e565198a31f353490e3652d8',
   indexName: 'dai',
   searchParameters: {
-    attributesToSnippet: ["excerpt", "text:30", "url"] 
+    attributesToSnippet: ["excerpt", "text:30", "url"],
+     facetingAfterDistinct: true
   }
 });
 
@@ -31,7 +32,7 @@ search.addWidget(
       container: '#search-box',
       placeholder: 'Search',
     })
-  );
+  ); 
 
 search.addWidget(
   instantsearch.widgets.menu({
@@ -58,15 +59,6 @@ search.addWidget(
 search.addWidget(
     instantsearch.widgets.infiniteHits({
       container: '#hits',
-      hitsPerPage: 5000,
-      transformData: {
-        item: function(hit) {
-          if(hit.layout == 'project'){
-          hit.show = true;
-        }
-          return hit;
-        }
-      },
       templates: {
         empty: 'No results',
         item: '<a class="alg-link" href="{{url}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.text.value}}}</span><br><hr>'

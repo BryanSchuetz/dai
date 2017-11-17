@@ -997,6 +997,36 @@ iframe{
 }
 
 // 🎌 Search Styles  🎌
+
+.ais-search-box--reset{
+  border: 0px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.ais-infinite-hits--showmore button{
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: .5rem;
+    background-color: $nav-gray;
+    border: 1px solid $nav-gray;
+    margin-bottom: .8rem;
+    border-radius: 4px;
+    font-size: .7rem;
+    color: $nav_links-main;
+    @include responsive(ultra-wide-screens){
+      font-size: .9rem;
+    }
+}
+.ais-infinite-hits--showmore button:hover, button.active, .is-checked{
+    color: $nav-black;
+    border: 1px solid $nav-black;
+}
+.ais-infinite-hits--showmore button:disabled{
+  display: none;
+}
 .refine-button .badge{
   margin-right: .4rem;
 }
