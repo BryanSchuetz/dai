@@ -1,20 +1,19 @@
 ---
 title: ProParque Promotes Use of Renewable Energy Products in Honduras
 date: 2012-12-10 18:05:00 Z
+solutions:
+- Energy
+- Environment and Energy
+- Climate Change Adaptation and Mitigation
+regions:
+- Latin America and the Caribbean
+projects: Honduras—ProParque
 summary: 'The U.S. Agency for International Development-funded ProParque project has
   begun promoting alternative energy in Honduras by working with vocational education
   centers, entrepreneurs, and microenterprises all located near 10 of the country''s
   national parks.
 
 '
-solutions:
-- Economic Growth
-- Environment and Energy
-- Climate Change Adaptation and Mitigation
-regions:
-- Latin America and the Caribbean
-projects: Honduras—ProParque
-clients: 
 layout: node
 ---
 
