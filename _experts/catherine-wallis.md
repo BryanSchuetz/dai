@@ -8,7 +8,7 @@ summary: Catherine Wallis has worked in international development for 14 years  
 job-title: Principal Consultant, Environment, Climate, and Livelihoods
 image: https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Climate Change Adaptation and Mitigation
 - Economic Growth
 - Environment and Energy

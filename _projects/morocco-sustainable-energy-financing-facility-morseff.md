@@ -15,7 +15,7 @@ solutions:
 - Economic Growth
 - Environment and Energy
 - Financial Services
-- Clean Energy and Energy Efficiency
+- Energy
 regions:
 - Sub-Saharan Africa
 country:

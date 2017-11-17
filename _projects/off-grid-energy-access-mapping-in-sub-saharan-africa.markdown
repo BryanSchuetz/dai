@@ -10,7 +10,7 @@ end: 2017
 client: World Bank
 solutions:
 - Sustainable Business
-- Clean Energy and Energy Efficiency
+- Energy
 regions: Sub-Saharan Africa
 country: Regional
 ---

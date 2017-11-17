@@ -10,7 +10,7 @@ start: 2016
 end: 2018
 client: European Bank for Reconstruction and Development
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
 regions:

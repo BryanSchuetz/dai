@@ -10,7 +10,7 @@ regions:
 country:
 - Serbia
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Environment and Energy
 layout: project
 summary: 'The Preparation of Second Energy Efficiency Action Plan and Development

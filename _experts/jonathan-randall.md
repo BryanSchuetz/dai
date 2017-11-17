@@ -7,7 +7,7 @@ summary: Jonathan Randall has been working at the intersection of sustainable ec
 job-title: Principal Global Practice Leader, Environment, and Climate Change
 image: "/uploads/Jon%20Randall%20Casual.jpg"
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Natural Resource Management
