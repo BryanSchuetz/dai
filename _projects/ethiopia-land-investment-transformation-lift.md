@@ -27,11 +27,8 @@ The objective of the Land Investment for Transformation programme (LIFT) is to i
 ### Sample Activities
 
 * Implement a second-level land certification process by which 14 million parcels of rural land will be certified, 70 percent of the holders of which will be, jointly or individually, women.
-
 * Set up a rural land administration system that will sustain the certification process and ensure farmers' security of land holding.
-
-* Increase access to credit, improve policies and institutions to enhance opportunities for rental lands and service providers.
-
+* [Increase access to credit](https://beamexchange.org/community/blogs/2017/11/13/land-tenure-security-financial-inclusion/), improve policies and institutions to enhance opportunities for rental lands and service providers.
 * Increase investment by farmers in planting trees, use of better seeds and agricultural practices, as well as increasing aggregations of cultivated lands through rental transactions, and facilitating a reduction in the cost of production.
 
 ### Select Results
