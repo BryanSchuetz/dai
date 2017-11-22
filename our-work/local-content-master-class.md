@@ -77,7 +77,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 **Dr. Michael Warner, Senior Technical Advisor**
 
-![Michael Warner Photo](/uploads/warner.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
+![Michael Warner Photo](/uploads/warner.jpg){:.float-right}
 
 * One of the world’s leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors
 * Founder and lead trainer of the BAC-accredited Local Content Master Class, where he trained more than 400 professionals in local content
@@ -87,7 +87,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 **Warwick Strong, Local Content Specialist**
 
-![Warwick Strong Photo](https://assetify-dai.com/experts/Slice.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
+![Warwick Strong Photo](https://assetify-dai.com/experts/Slice.jpg){:.float-right}
 
 * More than 10 years experience as a social-economic development manager in Ethiopia, Kenya, Madagascar, and Mauritania
 * Developed local content policies for the extractives industries in Madagascar and Mauritania
@@ -97,7 +97,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 **Dorival Bettencourt, Senior Oil and Gas Advisor**
 
-![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
+![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-right}
 
 * Over ten years experience within the extractives industry, focusing on extensive local content and policy work
 * Supported development of a proprietary SBG tool that forecasts local content supply and demand
@@ -107,7 +107,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 **Zachary Kaplan, Director, Sustainable Buisness Group**
 
-![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-left : style="margin-right: 2rem; margin-top: .5rem;"}
+![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
 
 * As Director of the Sustainable Business Unit, Zach leads activities related to local content, corporate social investment and supplier development
 * Over ten years experience within the extractives industry, focusing on extensive local content and policy work
