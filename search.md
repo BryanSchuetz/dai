@@ -5,13 +5,15 @@ layout: default
 ---
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.1/dist/instantsearch.min.js"></script>
 
-<input id="search-box" /> 
-<div id="rev-box"></div>
-<hr class="break">
-<div id="refine"></div>
-<div id="hits">
+<input id="search-box">
+
+  <div id="rev-box"></div>
+
+  <hr class="break">
+
+  <div id="refine"></div>
+
   <div id="hits"></div>  
-</div>
 
 {% raw %}
 
@@ -30,7 +32,8 @@ layout: default
 search.addWidget(
     instantsearch.widgets.searchBox({
       container: '#search-box',
-      placeholder: 'Search',
+      placeholder: 'Enter Search Terms',
+      autofocus: 'true'
     })
   ); 
 
