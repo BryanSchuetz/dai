@@ -1,6 +1,6 @@
 ---
 title: Worldwide—Trade, Private Sector Development and Engagement, and Regional Integration
-  (TPSD) Facility
+  (TPSD/E) Facility
 date: 2017-02-21 01:44:00 Z
 summary: The Trade, Private Sector Development and Engagement, and Regional Integration
   Facility helps shape and implement new policies related to Aid for Trade and regional
