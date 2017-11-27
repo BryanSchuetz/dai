@@ -1,6 +1,5 @@
 ---
-title: Worldwide—Technical and Advisory Services for Social Transfers Transfers for
-  Food Security and Nutrition (ASiST III) Programme
+title: Worldwide—Advisory Service Social Transfers (ASiST III) Programme
 date: 2016-01-21 22:40:00 Z
 summary: DAI is helping the European Commission to increase the impact, quality, coverage,
   and sustainability of social transfer schemes that target food and nutrition security.
