@@ -14,7 +14,7 @@ summary: DAI's Land Investment for Transformation (LIFT) programme in Ethiopia r
 layout: node
 ---
 
-DAI's Land Investment for Transformation (LIFT) programme in Ethiopia recently issued second-level land certificates to farmers for the first time at an event in Dejen Kebele, Emba Alaje Woreda, Tigray.
+DAI's [Land Investment for Transformation (LIFT) programme](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) in Ethiopia recently issued second-level land certificates to farmers for the first time at an event in Dejen Kebele, Emba Alaje Woreda, Tigray.
 
 The six-year project, funded by the U.K. Department for International Development (DFID), seeks to improve the incomes of the rural poor and enhance economic growth through second-level land certification, improved rural land administration, and the development of land market systems.
 
