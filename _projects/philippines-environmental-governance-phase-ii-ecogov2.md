@@ -1,16 +1,6 @@
 ---
 title: Philippines—Environmental Governance Phase II (ECOGOV2)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2004
-end: 2001
-regions:
-- Asia and the Pacific
-country:
-- Philippines
-solutions:
-- Environment and Energy
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'Like most countries that have achieved significant economic development,
   the Philippines now is struggling with development''s byproducts: forest loss, declining
   fisheries, increased solid waste, and untreated wastewater. The key to overcoming
@@ -18,6 +8,16 @@ summary: 'Like most countries that have achieved significant economic developmen
   management.
 
 '
+start: 2004
+end: 2011
+client: U.S. Agency for International Development
+solutions:
+- Environment and Energy
+regions:
+- Asia and the Pacific
+country:
+- Philippines
+layout: project
 ---
 
 Like most countries that have achieved significant economic development, the Philippines now is struggling with development's byproducts: forest loss, declining fisheries, increased solid waste, and untreated wastewater. The key to overcoming these environmental problems is institutionalizing incentives for sustainable resource management. Building on the success of the DAI-implemented EcoGov I (2001–2004), this second phase of the program supported two important trends in the Philippines: the move toward integrated resource management, which addressed linkages and resolved conflicts between upland and coastal resources, and the move toward decentralization, which empowered local governments and communities to play bigger roles in managing their natural resources.
