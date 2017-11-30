@@ -27,8 +27,7 @@ For example, in the past year, CTCN supported the development of an Energy Effic
 
 In its application to CTCN, DAI showcased eight of its recent mitigation and adaptation projects:
 
-* [Adaptasi Perubahan Iklim dan Ketangguhan](https://www.dai.com/our-work/projects/indonesia-apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption)
-* (Climate Change Adaptation and Resilience), Indonesia
+* [Adaptasi Perubahan Iklim dan Ketangguhan](https://www.dai.com/our-work/projects/indonesia-apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption (Climate Change Adaptation and Resilience), Indonesia
 * [Clima East](http://dai-global-developments.com/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/?utm_source=daidotcom), European Neighbourhood Policy East Countries
 * [Coastal Community Adaptation Project](https://www.dai.com/our-work/projects/south-pacific-islands-coastal-community-adaptation-project-c-cap), South Pacific Islands
 * [Mekong Adaptation and Resilience to Climate Change](https://www.dai.com/our-work/projects/southeast-asia-mekong-adaptation-and-resilience-climate-change-arcc), Southeast Asia
