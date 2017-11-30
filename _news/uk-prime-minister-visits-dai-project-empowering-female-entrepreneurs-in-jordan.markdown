@@ -8,6 +8,10 @@ solutions:
 regions: Middle East and North Africa
 projects: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund
 clients: U.K. Department for International Development
+summary: 'British Prime Minister Theresa May today visited the [Arab Women’s Enterprise
+  Fund (AWEF)](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund)
+  in Amman, Jordan, an initiative to stimulate increased women’s economic empowerment
+  and agency. '
 ---
 
 British Prime Minister Theresa May today visited the [Arab Women’s Enterprise Fund (AWEF)](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund) in Amman, Jordan, an initiative to stimulate increased women’s economic empowerment and agency through a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/). 
