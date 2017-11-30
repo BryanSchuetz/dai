@@ -22,6 +22,7 @@ For example, in the past year, CTCN supported the development of an Energy Effic
 
 “As a global company, we strive to engage in new partnerships and take part in global networks such as CTCN,” Watson said. “As a CTCN member, we are able to strengthen our partnership with the Global Climate Fund and support activities that focus on capacity building and climate technologies.” DAI is also a member of the Carbon Pricing Leadership Coalition—a similar partnership initiative led by the World Bank that seeks to reduce carbon emissions that contribute to global warming.
 
+
 <aside> **DAI's Recent Work in Mitigation and Adaptation**
 
 In its application to CTCN, DAI showcased eight of its recent mitigation and adaptation projects:
