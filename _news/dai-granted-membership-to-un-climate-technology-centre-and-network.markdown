@@ -3,6 +3,7 @@ title: DAI Granted Membership to UN Climate Technology Centre & Network
 date: 2017-11-30 15:15:00 Z
 solutions:
 - Environment and Energy
+regions: Worldwide
 summary: 'DAI is pleased to announce that it has been granted membership by the Climate
   Technology Centre & Network (CTCN), the operational arm of the United Nations Framework
   Convention on Climate Change. '
