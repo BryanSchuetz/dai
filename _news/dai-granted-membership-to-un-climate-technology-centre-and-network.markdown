@@ -20,7 +20,7 @@ For example, in the past year, CTCN supported the development of an Energy Effic
 
 “As a global company, we strive to engage in new partnerships and take part in global networks such as CTCN,” Watson said. “As a CTCN member, we are able to strengthen our partnership with the Global Climate Fund and support activities that focus on capacity building and climate technologies.” DAI is also a member of the Carbon Pricing Leadership Coalition—a similar partnership initiative led by the World Bank that seeks to reduce carbon emissions that contribute to global warming.
 
-<aside>**DAI's Recent Work in Mitigation and Adaptation**
+<aside> **DAI's Recent Work in Mitigation and Adaptation**
 
 In its application to CTCN, DAI showcased eight of its recent mitigation and adaptation projects:
 
@@ -31,4 +31,5 @@ In its application to CTCN, DAI showcased eight of its recent mitigation and ada
 * Morocco Sustainable Energy Financing Facility
 * [Polish Sustainable Energy Financing Facility I and II](http://dai-global-developments.com/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate/?utm_source=daidotcom) and [Polish Residential Energy Financing Facility](https://www.dai.com/our-work/projects/polish-residential-energy-efficiency-financing-facility-poland-reff), Poland
 * [Regional Climate Change Program](https://www.dai.com/our-work/projects/central-america-regional-climate-change-program-rccp-programa-regional-de-cambio), Central America
-* [Strengthening Adaptation and Resilience to Climate Change in Kenya](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck)</aside>
+* [Strengthening Adaptation and Resilience to Climate Change in Kenya](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck)
+</aside>
