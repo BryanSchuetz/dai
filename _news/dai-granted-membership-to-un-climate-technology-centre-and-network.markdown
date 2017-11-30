@@ -19,7 +19,7 @@ Based in Copenhagen, Denmark, the [CTCN](https://www.ctc-n.org/) was established
  
 In 2017, the CTCN has received requests from more than 70 countries. Most are seeking assistance in climate change mitigation and adaptation technologies to help fulfill their Nationally Determined Contributions—the commitments made at the Paris Agreement in 2015.
 
-For example, in the past year, CTCN supported the development of an Energy Efficiency Master Plan in Tonga, through a partnership with the Green Climate Fund (GCF). DAI also serves as a GCF Accredited Observer. In Ghana, the Centre is helping improve dry season planning and management, and in Mynamar, CTCN is actively supporting data-gathering systems to support the country’s planning and adaptation efforts in the water and agriculture sectors.
+For example, in the past year, CTCN supported the development of an Energy Efficiency Master Plan in Tonga, through a partnership with the Green Climate Fund (GCF). DAI also serves as a GCF Accredited Observer. In Ghana, the Centre is helping improve dry season planning and management, and in Myanmar, CTCN is actively supporting data-gathering systems to support the country’s planning and adaptation efforts in the water and agriculture sectors.
 
 “As a global company, we strive to engage in new partnerships and take part in global networks such as CTCN,” Watson said. “As a CTCN member, we are able to strengthen our partnership with the Global Climate Fund and support activities that focus on capacity building and climate technologies.” DAI is also a member of the Carbon Pricing Leadership Coalition—a similar partnership initiative led by the World Bank that seeks to reduce carbon emissions that contribute to global warming.
 
