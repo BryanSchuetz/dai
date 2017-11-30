@@ -1,7 +1,6 @@
 ---
 title: UK Prime Minister Visits DAI Project Empowering Female Entrepreneurs in Jordan
 date: 2017-11-30 19:17:00 Z
-published: false
 solutions:
 - Economic Growth
 - Gender
