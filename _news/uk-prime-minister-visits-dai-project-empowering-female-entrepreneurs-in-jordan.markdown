@@ -27,7 +27,7 @@ Greater female participation in the Jordanian workforce will improve livelihoods
 
 Among other results, the AWEF programme has, to date:
 
-* Supported access to business licenses for 970 home-based women’s businesses focused on *jameed* (a local specialty food) and other home-based products;
+* Supported access to business licenses for 970 home-based women’s businesses focused on _jameed_ (a local specialty food) and other home-based products;
 * Leveraged more than £300,000 from partners to implement activities that will improve women’s voice, choice, and control; and
 * Improved access for nearly 1,000 women to municipal services and facilities via new Women’s Economic Empowerment Units in the Jordanian municipalities of Jerash and Madaba.
 
