@@ -1,5 +1,5 @@
 ---
-title: DAI Granted Membership to UN Climate Technology Centre & Network
+title: DAI Joins UN Climate Technology Centre & Network
 date: 2017-11-30 15:15:00 Z
 solutions:
 - Environment and Energy
