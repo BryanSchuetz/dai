@@ -13,6 +13,9 @@ regions:
 - Worldwide
 country:
 - Worldwide
+promos:
+- title: 'Report: Somalia—Paving the Way to Long-term Social Protection'
+  link: "/uploads/ASiST%20Report_Somalia_Final-report.pdf"
 layout: project
 ---
 
