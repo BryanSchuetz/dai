@@ -23,17 +23,18 @@ For example, in the past year, CTCN supported the development of an Energy Effic
 
 “As a global company, we strive to engage in new partnerships and take part in global networks such as CTCN,” Watson said. “As a CTCN member, we are able to strengthen our partnership with the Global Climate Fund and support activities that focus on capacity building and climate technologies.” DAI is also a member of the Carbon Pricing Leadership Coalition—a similar partnership initiative led by the World Bank that seeks to reduce carbon emissions that contribute to global warming.
 
-
-<aside> **DAI's Recent Work in Mitigation and Adaptation**
+<aside>**DAI's Recent Work in Mitigation and Adaptation**
 
 In its application to CTCN, DAI showcased eight of its recent mitigation and adaptation projects:
 
-* [Adaptasi Perubahan Iklim dan Ketangguhan](https://www.dai.com/our-work/projects/indonesia-apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption) (Climate Change Adaptation and Resilience), Indonesia
-* [Clima East](http://dai-global-developments.com/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/?utm_source=daidotcom), Eastern Neighbourhood Partnership Countries and Russia 
+* [Adaptasi Perubahan Iklim dan Ketangguhan](https://www.dai.com/our-work/projects/indonesia-apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption)
+* (Climate Change Adaptation and Resilience), Indonesia
+* [Clima East](http://dai-global-developments.com/articles/helping-eastern-partnership-countries-meet-their-voluntary-commitments-to-reduce-emissions-address-climate-change/?utm_source=daidotcom), European Neighbourhood Policy East Countries
 * [Coastal Community Adaptation Project](https://www.dai.com/our-work/projects/south-pacific-islands-coastal-community-adaptation-project-c-cap), South Pacific Islands
 * [Mekong Adaptation and Resilience to Climate Change](https://www.dai.com/our-work/projects/southeast-asia-mekong-adaptation-and-resilience-climate-change-arcc), Southeast Asia
-* Morocco Sustainable Energy Financing Facility
+* [Morocco Sustainable Energy Financing Facility](https://www.dai.com/our-work/projects/morocco-sustainable-energy-financing-facility-morseff)
 * [Polish Sustainable Energy Financing Facility I and II](http://dai-global-developments.com/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate/?utm_source=daidotcom) and [Polish Residential Energy Financing Facility](https://www.dai.com/our-work/projects/polish-residential-energy-efficiency-financing-facility-poland-reff), Poland
 * [Regional Climate Change Program](https://www.dai.com/our-work/projects/central-america-regional-climate-change-program-rccp-programa-regional-de-cambio), Central America
 * [Strengthening Adaptation and Resilience to Climate Change in Kenya](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck)
+
 </aside>
