@@ -1,6 +1,17 @@
 ---
 title: Serbia—Trade Ready
 date: 2017-11-30 21:43:00 Z
+summary: 'Trade Ready Serbia is strengthening the capacity of small businesses to
+  access trade finance and stimulating local banks to offer trade finance products
+  that will help support economic growth and job creation.  '
+start: 2017
+end: 2020
+client: European Bank for Reconstruction and Development
+solutions:
+- Trade
+- 
+regions: Eastern Europe and Central Asia
+country: Serbia
 ---
 
 Small and medium-sized enterprises (SMEs) are a major driver of trade, employment, and economic development in Serbia. However, these small businesses face barriers to expansion into international importing and exporting, in particular limited access to trade finance. Local financial institutions are reluctant to offer trade financing to smaller businesses, while SMEs often lack knowledge about trade finance instruments and how to conduct international commerce.
