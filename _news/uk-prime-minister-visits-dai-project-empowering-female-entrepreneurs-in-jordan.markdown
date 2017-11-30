@@ -1,6 +1,7 @@
 ---
 title: UK Prime Minister Visits DAI Project Empowering Female Entrepreneurs in Jordan
 date: 2017-11-30 19:17:00 Z
+is_featured: true
 solutions:
 - Economic Growth
 - Gender
@@ -11,11 +12,14 @@ summary: 'British Prime Minister Theresa May today visited the [Arab Women’s E
   Fund (AWEF)](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund)
   in Amman, Jordan, an initiative to stimulate increased women’s economic empowerment
   and agency. '
+social-image: "/uploads/May.jpg"
 ---
 
 British Prime Minister Theresa May today visited the [Arab Women’s Enterprise Fund (AWEF)](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund) in Amman, Jordan, an initiative to stimulate increased women’s economic empowerment and agency through a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/). 
 
 ![May.jpg](/uploads/May.jpg)
+
+<!--more-->
 
 AWEF addresses some of the most persistent constraints on women’s economic empowerment in a region with one of the lowest rates of female labour force participation in the world. It aims to improve gender awareness and sensitivity among key actors in the local economy, to increase employment and retention of women in the labour force, and to improve certification of products made by women working at home. 
 
