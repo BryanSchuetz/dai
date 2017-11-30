@@ -18,7 +18,12 @@ Small and medium-sized enterprises (SMEs) are a major driver of trade, employmen
 
 To help address these gaps, the European Bank for Reconstruction and Development launched the Trade Ready initiative. The programme is strengthening the capacity of small businesses to access trade finance that supports growth and creates jobs, and stimulating the local banking sector to offer tailored trade finance products and services to SMEs. Through Trade Ready technical assistance, SMEs are taking a more active role in expanding international and intra-regional trade and fostering local economic development.
 
+![Serbia_Trade_image.jpg](/uploads/Serbia_Trade_image.jpg)
+
 ### Sample Activities
+
 * Provide technical assistance to partner banks to introduce new trade finance products and services or optimise existing ones to better meet the needs of SMEs.
+
 * Build the capacity of SMEs and local consultants to assess businesses’ trade readiness and better understand trade financing products.
+
 * Facilitate policy dialogues on reforms to improve SME access to trade finance.
