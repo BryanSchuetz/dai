@@ -32,7 +32,7 @@ DAI is wholly owned by its employees. All global corporate employees may invest 
 
 ###  How many people work for DAI?
 
-Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of January 2017, we employ approximately 3000 people worldwide, more than 70 percent of them local staff.
+Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of November 2017, we employ approximately 3,300 people worldwide, more than 75 percent of them local staff.
 
 ###  Who are your partners?
 
@@ -46,6 +46,9 @@ Our visual identity is built around our colors—brown, green, and blue—and th
 
 As a rule, no. Typically we implement programs funded by international donors, national governments, private corporations, or major philanthropies. As part of those programs, we very often are charged with overseeing and disbursing program funds in support of civil society organizations, local institutions, or programs with development-oriented goals, but those disbursements are invariably on a local, program-by-program basis. That said, we do sponsor a [service award][3] for DAI employees who volunteer in their communities.
 
+### Does DAI offer internships?
+
+DAI does not have a formal internship program. Periodically, targeted internship opportunities arise and when they do, we post information about them on our [careers page](/working-dai/job-opportunities). When offered, internships are paid; the individuals selected must be eligible to work in the country of the internship without company sponsorship. We encourage anyone who is interested to monitor our website and apply through the site for opportunities of interest to them.
 
 
 [1]: mailto:steven_o'connor@dai.com?subject=faq

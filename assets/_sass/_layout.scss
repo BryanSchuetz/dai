@@ -434,6 +434,16 @@ aside{
     width: 25%;
   }
 }
+.float-right{
+  float: right;
+  margin-left: 1rem;
+  margin-top: .3rem;
+  margin-bottom: 0;
+  width: 30%;
+  @include responsive(small-screens){
+    width: 25%;
+  }
+}
 .project-detail--solution-link:not(:last-child)::after{
   content: ",";
 }
@@ -1170,3 +1180,9 @@ clear: right;
     font-size: 18px;
   }
 }
+// 🎌 HAXORS  🎌
+
+.content ul ul{
+  margin-bottom: 0;
+}
+

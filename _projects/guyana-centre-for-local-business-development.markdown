@@ -10,7 +10,7 @@ end: 2017
 client: Esso Exploration and Production Guyana Ltd
 solutions:
 - Sustainable Business
-regions: Sub-Saharan Africa
+regions: Latin America and the Caribbean
 country: Guyana
 ---
 

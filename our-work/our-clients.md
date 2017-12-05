@@ -17,8 +17,14 @@ Since 2000, DAI has worked with DFID in scores of countries on three continents.
 
 <iframe src="/extras/maps/dfid" frameborder="0"></iframe>
 
-## European Commission 
+## European Donors 
 
-Our work with the EC is currently managed from our offices in the United Kingdom and Belgium. DAI supports the vision of the Europe 2020 strategy, and is well placed to assist the European Union’s efforts to build a smart, sustainable, and inclusive economy that delivers high levels of employment, productivity, and social cohesion.
+Our work with European Donors is currently managed from our offices in the United Kingdom and Belgium. DAI supports the vision of the Europe 2020 strategy, and is well placed to assist the European Union’s efforts to build a smart, sustainable, and inclusive economy that delivers high levels of employment, productivity, and social cohesion.
 
 <iframe src="/extras/maps/ec" frameborder="0"></iframe>
+
+## Sustainable Business
+
+DAI's [Sustainable Business Group](http://localhost:8080/our-work/solutions/sustainable-business) works across industries including oil and gas, metals and mining, capital projects and infrastructure, renewable energy, retail, food and beverage, financial services, telecommunications, and more.
+
+<iframe src="https://www.dai.com/extras/maps/newsbg.html" frameborder="0"></iframe>

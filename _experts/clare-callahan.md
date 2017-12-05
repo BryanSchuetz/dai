@@ -10,6 +10,7 @@ job-title: Analyst, Sustainable Business Group
 image: https://assetify-dai.com/experts/clare.jpg
 solutions:
 - Sustainable Business
+- Energy
 - Local Content and Supply Chain Management
 - Social Strategy
 regions:

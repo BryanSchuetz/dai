@@ -2,12 +2,9 @@
 title: Mark Rasmuson
 date: 2016-01-21 22:18:00 Z
 lastname: Rasmuson
-summary: Mark Rasmuson currently serves as Senior Technical and Management Advisor
+summary: 'Mark Rasmuson currently serves as Senior Technical and Management Advisor
   for the U.S. Agency for International Development (USAID) Preparedness and Response
-  Project. Until January 2016, he was Chief of Party for DAI's cooperative agreement
-  with USAID in Vietnam to implement the Persons with Disabilities Support Program
-  (PDSP). Previously, he was Vice President and Director of the Center for Global
-  Health Communication and Marketing at FHI 360 and AED.
+  Project. '
 job-title: Senior Technical and Management Advisor, Preparedness and Response
 image: https://assetify-dai.com/experts/Mark-Rasmuson-inner-new.jpg
 solutions:

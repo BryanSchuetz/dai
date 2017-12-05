@@ -9,7 +9,9 @@ summary: PMDP is improving market systems and the competitiveness of the Palesti
   representatives.
 start: 2013
 end: 2019
-client: U.K. Department for International Development
+client:
+- U.K. Department for International Development
+- European Commission
 solutions:
 - Economic Growth
 regions:

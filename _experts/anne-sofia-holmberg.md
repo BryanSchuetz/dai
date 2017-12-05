@@ -5,7 +5,7 @@ lastname: Holmberg
 regions:
 - 
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Environment and Energy
 layout: expert
 image: https://assetify-dai.com/experts/AnneSofiaHolmbergINNER.jpg

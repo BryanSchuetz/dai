@@ -12,6 +12,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Governance
+- Energy
 - Institutional and Policy Reform
 - Land Tenure and Property Rights
 - Legislative Strengthening

@@ -81,7 +81,7 @@
   #menu #DFID span{
     background-color: #C3282D;
   }
-  #menu #EC span{
+  #menu #European span{
     background-color: #F4F200;
   }
   hr{
@@ -116,11 +116,11 @@ map.on('load', function(){
   // Turn one on for client specific map embed on client pages
   // map.setLayoutProperty(['USAID'], 'visibility', 'visible');
   // map.setLayoutProperty(['DFID'], 'visibility', 'visible');
-map.setLayoutProperty(['EC'], 'visibility', 'visible');
+map.setLayoutProperty(['EU Donors'], 'visibility', 'visible');
 });
 toggleLayer(['USAID'], 'USAID');
 toggleLayer(['DFID'], 'DFID');
-toggleLayer(['EC'], 'EC');
+toggleLayer(['EU Donors'], 'European');
 
 function toggleLayer(ids, name) {
     var link = document.createElement('a');
@@ -140,7 +140,7 @@ function toggleLayer(ids, name) {
             } else {
                 map.setLayoutProperty(['USAID'], 'visibility', 'none');
                 map.setLayoutProperty(['DFID'], 'visibility', 'none');
-                map.setLayoutProperty(['EC'], 'visibility', 'none');
+                map.setLayoutProperty(['EU Donors'], 'visibility', 'none');
                 this.className = 'active';
                 map.setLayoutProperty(ids[layers], 'visibility', 'visible');
             }

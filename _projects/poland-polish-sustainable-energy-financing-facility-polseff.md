@@ -16,7 +16,7 @@ solutions:
 - Economic Growth
 - Environment and Energy
 - Financial Services
-- Clean Energy and Energy Efficiency
+- Energy
 regions:
 - Eastern Europe and Central Asia
 country:

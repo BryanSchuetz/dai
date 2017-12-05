@@ -1,11 +1,9 @@
 ---
 title: East Africa—Trade and Investment Hub
 date: 2016-01-21 22:40:00 Z
-summary: 'Growth in the five East African Community Partner States—Burundi, Kenya,
-  Rwanda, Tanzania, and Uganda—has been robust but uneven, with millions of people
-  left behind in poverty. Women, youth, smallholder farmers, and the poor are not
-  fully represented in policy making or implementation nor integrated into the wider
-  economic community. '
+summary: 'The East Africa Trade and Investment Hub is the U.S. Government''s flagship
+  project under the presidential Trade Africa initiative, which works to increase
+  U.S.-Africa trade and investment, regional integration, and competitiveness. '
 start: 2014
 end: 2019
 client: U.S. Agency for International Development
@@ -34,27 +32,17 @@ Watch this video of Kanini Mutooni, the director for investment at the East Afri
 ### Sample Activities
 
 * Improve the policy environment for East African Community integration, trade, and investment.
-
 * Bolster regional trade in staple foods.
-
-* Improve information flows and promote the use of available global technology.
-
+* Improve information flows and promote the use of available global [technology](https://www.usaid.gov/results-data/success-stories/thresher-move-young-innovator-reduces-harvest-losses-boosts-food).
 * Promote intra-regional trade and export trade, particularly under the African Growth and Opportunity Act.
 
 ### Select Results
 
 * [Facilitated](https://www.dai.com/news/a-trade-solution-to-the-food-security-challenge-surplus-grains-worth-83-dollars-million-now-available-to-countries-in-need) Eastern Africa Grain Council forum, where 58 contracts were signed to sell 279,000 metric tons of Ethiopian food grain surplus to neighboring East African countries with food shortages; total value of contracts was US$93 million.
-
 * Brokered partnership with American Apparel and Footwear Association, which represents more than 1,000 brands generating $361 billion in annual U.S. retail sales, to address constraints to competitiveness and expansion of the industry in East Africa while creating jobs in East Africa and the United States.
-
 * Supported $224 million in exports through the African Growth and Opportunity Act (AGOA).
-
 * Facilitated $51 million of new private sector investment and more than 1,400 buyer-seller export linkages.
-
 * Created more than 33,000 new full- and part-time jobs.
-
 * Supported more than 600 food security producers and organizations.
-
 * Assisted in drafting four policy and regulatory reforms.
-
 * Provided export capacity building assistance to more than 1,200 firms.

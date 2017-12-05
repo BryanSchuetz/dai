@@ -4,7 +4,7 @@ date: 2017-02-27 05:31:00 Z
 summary: The Financial Sector Transformation (FST) Activity supports efforts to reform
   Ukraine’s non-bank financial institutions.
 start: 2016
-end: 2021
+end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth

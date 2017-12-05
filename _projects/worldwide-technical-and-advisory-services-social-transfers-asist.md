@@ -1,6 +1,5 @@
 ---
-title: Worldwide—Technical and Advisory Services for Social Transfers Transfers for
-  Food Security and Nutrition (ASiST III) Programme
+title: Worldwide—Advisory Service Social Transfers (ASiST III) Programme
 date: 2016-01-21 22:40:00 Z
 summary: DAI is helping the European Commission to increase the impact, quality, coverage,
   and sustainability of social transfer schemes that target food and nutrition security.
@@ -14,25 +13,30 @@ regions:
 - Worldwide
 country:
 - Worldwide
+promos:
+- title: "**Report**: _Somalia—Paving the Way to Long-term Social Protection_"
+  link: "/uploads/ASiST%20Report_Somalia_Final-report.pdf"
 layout: project
 ---
 
-DAI is helping the European Commission to increase the impact, quality, coverage, and sustainability of social transfer schemes that target food and nutrition security. These demand-driven tailored services are initiated by requests from European Union (EU) delegations to increase the impact, quality, sustainability and coverage of social transfers to address resilience to food crisis and food insecurity, agricultural growth and sustainable agriculture, and under-nutrition.
+The Advisory Service in Social Transfers phase III programme (ASiST III) provides on-demand support to partner countries and European Union delegations in addressing food security through national social transfer schemes. Funded by the European Commission’s Directorate General for Development and Cooperation and led by DAI, ASiST III has completed more than 100 assignments since 2015, examining the roles of public financial management, sustainable agriculture, rural development, and other factors in social transfer programmes and resilience to food crises.
 
-These services assist countries in: maximising the impact of social transfers on the rural economy and local food production; maximising their impact on maternal and child nutrition; designing and improving complementary measures for graduating from social transfers programmes; and moving from recurrent, as-needed humanitarian transfers to a more systemic approach to national transfers schemes.
+These services assist countries and EU delegations to maximise the impact of food security and social transfer programmes and to develop a graduation plan to move from short-term, emergency social transfers to systemic national safety net programmes. For country-specific requests, ASiST provides guidance throughout the project cycle management, including programme design and monitoring and evaluation. ASiST also provides technical assistance on strategic issues, such as building partnerships with other donors and projects and offering feedback on policy documents.
 
-The first phase of ASiST ran from January 2012 to October 2013, the second phase from August 2014 to February 2015. These initial phases confirmed the need for, and usefulness of, a more substantial advisory service with a longer implementation period.
+### Sample Activities
 
-For country-specific requests, ASiST provides guidance along various stages of project cycle management, including programme design and monitoring and evaluation. ASiST also provides technical assistance on strategic issues, including the creation of partnerships with other donors and projects, networking and feedback on policy documents, and communications.
+* Support EU country delegations with programming, training courses, field visits, and participation in national seminars.
 
-###  Sample Activities
+* Convene regional meetings of EU delegations around topics related to social transfers and food security.
 
-* Assist local EU delegations with support to programming, contributions to training courses, field visits, and participation in national seminars.
-* Convene or support regional seminars of EU delegations.
-* Develop a knowledge platform for broad exchange and collaboration.
-* Communicate the potential and importance of social transfers to a wider audience, creating partnerships and finding synergies among people and institutions, benefiting from each other's lessons learned and building on achievements.
+* Develop a knowledge platform to promote collaboration and exchange lessons learned.
 
-###  Select Results
+* Communicate the importance of social transfers to a wider audience and build partnerships with institutions working on related issues.
 
-* Conducted more than 30 studies and delivered missions to more than 20 countries, including to Mali, North Sudan, Gambia, Somalia, Ethiopia, Bangladesh, Chad, Senegal, and Bolivia.
-* Designed social transfers for pregnant women and infants, resilience interventions, and nutrition workshops, among other assignments.
+### Select Results
+
+* Conducted more than 100 assignments and led missions to more than 30 countries in Africa, Asia, and Latin America.
+
+* Designed social transfer programmes for pregnant women and infants, resilience interventions, and nutrition workshops.
+
+* Advised on the use of cash-transfer safety net programmes as a means to bridge humanitarian interventions and development cooperation.

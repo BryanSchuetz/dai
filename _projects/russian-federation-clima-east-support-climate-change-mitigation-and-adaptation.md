@@ -10,7 +10,7 @@ start: 2012
 end: 2017
 client: European Commission
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Governance

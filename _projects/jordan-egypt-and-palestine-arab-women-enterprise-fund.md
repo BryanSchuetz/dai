@@ -34,7 +34,7 @@ AWEF is the only market systems-based development programme in the region that a
 * Support businesses to increase focus on women’s working conditions in Egypt’s food retail, citrus, and ready-made garment sectors, and on gender-sensitive recruitment, human resource management and training policies. 
 * Assist home-based female producers in Jordan’s dairy sector to raise awareness of the value of testing and certification of products to [increase their competitiveness](http://jordantimes.com/news/local/uk-project-helps-jerash-women-sell-dairy-products-national-market) and value.
 * Work with government standards institutes, the private sector, and women producers of food products such as maftoul, cheese, and yoghurt to streamline certification processes and services and better enable women to move up the value chain.
-* Support introduction of fee-based, female para-veterinary services to make basic animal health care services more available locally, particularly to home-based production run by women.
+* Support introduction of fee-based, [female para-veterinary services](http://dai-global-developments.com/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/) to make basic animal health care services more available locally, particularly to home-based production run by women.
 
 ###  Select Results
 

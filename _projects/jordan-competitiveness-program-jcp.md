@@ -13,6 +13,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Financial Services
 - Public Financial Management
+- Energy
 regions:
 - Middle East and North Africa
 country:
@@ -26,7 +27,7 @@ Jordan faces an immediate challenge: to create high-quality jobs through increas
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/79677732" webkitallowfullscreen="" width="703"></iframe>
 
-JCP helps to ensure that job creation is based on real growth drivers responding to market demand and capitalizing on existing factors. These drivers include industry specialization in information and communications technology, ramping up capacity in renewable energy, and improving standards for low-cost, high-quality medical services.
+JCP helps to ensure that job creation is based on real growth drivers responding to market demand and capitalizing on existing factors. These drivers include industry specialization in information and communications technology, ramping up capacity in [renewable energy](https://www.climatelinks.org/resources/climate-integration-case-study-jordan-competitiveness-project), and improving standards for low-cost, high-quality medical services.
 
 In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact, which aims to help create jobs for Jordanians and Syrians by developing exports to the European Union. This Compact between countries is supporting Jordan to mitigate the impact of hosting more than 600,000 registered Syrian refugees. The Compact aims to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
 

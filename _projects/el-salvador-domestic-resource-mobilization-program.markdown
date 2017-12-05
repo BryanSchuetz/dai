@@ -19,12 +19,11 @@ Over the past 10 years, El Salvador’s government, with support from the U.S. A
 
 USAID’s Domestic Resource Mobilization Program is supporting local and national government partners to address these challenges through a combination of increased revenue mobilization, improved expenditure management, and enhanced public-private dialogue. The program builds upon the achievements of USAID’s Tax Policy and Administration Reform project and Fiscal Policy and Expenditure Management Program, both managed by DAI, which assisted El Salvador’s government to significantly improve revenue mobilization and public financial management. By assisting government partners to further enhance their systems for collecting and spending revenue, DAI’s Domestic Resource Mobilization team helps increase public funding to support social programs, generate employment, and reduce inequality.
 
-![El_Salvador_DRM_photo.jpg](/uploads/El_Salvador_DRM_photo.jpg)
+<iframe src="https://player.vimeo.com/video/232543519" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
 * Develop e-learning platforms and procedure manuals to support the transition to a results-oriented budget focused on achieving results over spending money.
 * Assist government agencies in upgrading information systems to accurately assess citizen needs and target budgeting to serve marginalized communities.
 * Collaborate with the Ministry of Finance in creating and training a Fiscal Reform Unit to review and analyze tax policy and advance reform proposals.
-
 * Support the Public Procurement Ombudsman Office to improve citizen oversight of public procurement, increasing transparency and reducing corruption.

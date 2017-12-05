@@ -32,27 +32,20 @@ To build upon these accomplishments, USAID has designed the Gobernanza en Ecosis
 ### Sample Activities
 
 * Strengthen local institutions for natural resource management and water governance through capacity building and formation of collaborative alliances.
-
+* Educate Hondurans about the ability of hydropower to increase their ability to advocate and negotiate. Prepare “Good Practices Guide” and “Lessons Learned in the Socialization Process,” on hydropower projects working with local communities.
 * Promote education and awareness about renewable energy technologies, such as solar panels and improved cook stoves, and provide support to renewable energy microenterprises.
-
 * Increase conservation-related income in agriculture and tourism by forming public-private partnerships and linking growing enterprises with business development service providers.
-
 * Strengthen disaster response institutions across multiple levels and increase the involvement of women in disaster risk reduction and climate change adaptation decision-making.
 
 ### Select Results
 
+* Twenty-one hydroprojects are in process.
 * From 2011–2016, [ProParque generated $13.3 million](https://www.facebook.com/DAIGlobal/videos/10155131037990797/) in sales for micro, small, and medium-sized enterprises (MSMEs), creating more than 5,100 new jobs.
-
 * ProParque trained approximately 4,000 members of local and municipal emergency committees in disaster risk reduction and response.
-
 * Through ProParque, more than 4,400 producers and MSMEs received technical assistance in green certifications, new technologies, and access to new markets.
-
 * ProParque trained 111 micro entrepreneurs on improving rural access to clean and renewable energy, in turn benefiting 25,000 individuals with clean cook stoves, solar panels, and bio-digesters.
-
 * ProParque built the capacity of local chambers of tourism and member businesses to market new tourism products and packages, such as birdwatching and cultural events.
-
 * ProParque worked with the Institute for Conservation and Forestry and the Honduran Tourism Institute to adopt a national protected areas tourism strategy and a national bird watching tourism strategy, as well as policies and norms for commercial services in protected areas.
-
 * ProParque supported the protection of more than 350,000 hectares through improved natural resource management and more effective biodiversity conservation.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104423902" webkitallowfullscreen="" width="703"></iframe>

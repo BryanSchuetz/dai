@@ -4,10 +4,10 @@ date: 2017-05-23 15:44:00 Z
 lastname: Andersen
 summary: Clean energy specialist Gwen Andersen works to increase the speed with which
   developing countries adopt renewable energy by working on finance.
-job-title: Principal Global Practice Specialist, Clean Energy
+job-title: Principal Global Practice Specialist, Energy
 image: "/uploads/Gwen%20Andersen%20casual.jpg"
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Financial Services
 - Environment and Energy
 regions:

@@ -9,7 +9,7 @@ summary: Kevin Carlucci focuses on resource use efficiency (water, energy) and g
 job-title: Senior Global Practice Specialist, Environment and Land
 image: https://assetify-dai.com/experts/Kevin%20inner.jpg
 solutions:
-- Clean Energy and Energy Efficiency
+- Energy
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Natural Resource Management

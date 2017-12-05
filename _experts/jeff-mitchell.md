@@ -6,6 +6,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Sustainable Business
+- Energy
 layout: expert
 image: https://assetify-dai.com/experts/expert-portrait.jpg
 summary: 'Jeff Mitchell has worked in the oil and gas industry for nearly 40 years.

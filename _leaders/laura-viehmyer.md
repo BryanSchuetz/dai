@@ -1,12 +1,13 @@
 ---
 title: Laura Viehmyer
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/laura-viehmyer.jpg"
+date: 2016-01-21 22:18:00 Z
+published: false
+job-title: Senior Vice President, Human Resources
 summary: Laura’s career spans 25 years in human resources management for both nonprofit
   and for-profit organizations.
-job-title: Senior Vice President, Human Resources
+image: "/assets/images/leaders/thumbnails/laura-viehmyer.jpg"
 sort-order: 5
+layout: leaders
 ---
 
 Laura Viehmyer’s career spans 25 years in human resources management for both nonprofit and for-profit organizations. She is responsible for DAI’s global human resource functions, including benefits, compensation, employee relations, recruitment, talent management, and training and development.
