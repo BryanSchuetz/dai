@@ -168,15 +168,3 @@ url: https://www.dai.com
 gems:
 - jekyll-redirect-from
 - jekyll-sitemap
-# - algoliasearch-jekyll
-# algolia:
-#   application_id: 'R7MRY12BR6'
-#   index_name:     'dai'
-#   excluded_files:
-#     - view-more-articles.md
-#     - view-more-news.md
-#     - our-work/projects.md
-#     - who-we-are/our-team.md
-#     - who-we-are/board.md
-#     - who-we-are/leadership.md
-#     - project-login.md
