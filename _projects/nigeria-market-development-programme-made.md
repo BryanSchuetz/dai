@@ -1,9 +1,9 @@
 ---
 title: Nigeria—Market Development Programme (MADE)
 date: 2016-01-21 22:40:00 Z
-summary: This 4½-year design and implement project in the Niger Delta is applying
-  a market development approach to improve market access, increase economic activity,
-  and raise the incomes of 150,000 poor people, half of whom will be women.
+summary: This project in the Niger Delta is applying a market systems approach to
+  improve market access, increase economic activity, and raise the incomes of 150,000
+  poor people, half of whom will be women.
 start: 2013
 end: 2018
 client: U.K. Department for International Development
