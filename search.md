@@ -3,6 +3,7 @@ title: Search
 position: 8
 layout: default
 ---
+
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.1/dist/instantsearch.min.js"></script>
 
 <input id="search-box">
