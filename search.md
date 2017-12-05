@@ -18,6 +18,14 @@ layout: default
 {% raw %}
 
 <script type="text/javascript">
+function getUrlParameter(name) {
+    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+    var results = regex.exec(location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+};
+
+var keywords = getUrlParameter('keywords');
 
   const search = instantsearch({
   appId: 'R7MRY12BR6',
@@ -25,7 +33,8 @@ layout: default
   indexName: 'dai',
   searchParameters: {
     attributesToSnippet: ["excerpt", "text:30", "url"],
-     facetingAfterDistinct: true
+     facetingAfterDistinct: true,
+     query: keywords
   }
 });
 

@@ -1031,6 +1031,10 @@ iframe{
   margin-right: .4rem;
 }
 #refine{
+  display: none;
+  @include responsive(medium-screens){
+    display: block;
+  }
   width: 30%;
   float: left;
 }
@@ -1039,8 +1043,11 @@ iframe{
 }
 
 #hits{
-  width: 65%;
-  float: right;
+  width: 100%;
+  @include responsive(medium-screens){
+    width: 65%;
+    float: right;
+  }
 }
 
 #search-box{
@@ -1053,6 +1060,10 @@ iframe{
 }
 .ais-search-box{
   position: relative;
+}
+.ais-search-box--reset svg{
+  width: 10px;
+  height: 10px;
 }
 #sbx-icon-search-13{
   height: 1rem;
