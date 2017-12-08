@@ -98,6 +98,8 @@ search.addWidget(
         item.icon = "gov-badge"
       }else if(item.label == "Environment and Energy"){
         item.icon = "env-badge"
+      }else if(item.label == "Energy"){
+        item.icon = "env-badge"
       }else if(item.label == "Health"){
         item.icon = "health-badge"
       }else if(item.label == "Fragile States"){
