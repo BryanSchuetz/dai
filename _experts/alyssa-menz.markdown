@@ -9,6 +9,7 @@ image: "/uploads/Alyssa%20Menz.jpg"
 solutions:
 - Sustainable Business
 - energy
+- Local Content and Supply Chain Management
 ---
 
 Alyssa Menz entered college intending to pursue dual degrees in environmental biology and cultural anthropology until she discovered the field of international development, which married her interests in environmental sustainability and socio-economic equity. While conducting research in Israel, Jordan, Kenya, Turkey, and the West Bank during her undergraduate and graduate pursuits, she gained firsthand exposure to issues and challenges related to ecological conservation, conflict resolution, community engagement, and the extractives sector, furthering her interest in multi-stakeholder dialogue processes, local content, and the role of the private sector in development.
