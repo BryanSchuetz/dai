@@ -1,5 +1,5 @@
 ---
-title: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund
+title: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund (AWEF)
 date: 2016-01-21 22:40:00 Z
 summary: 'Funded by the U.K. Department for International Development and the Islamic
   Development Bank and working in Jordan, Egypt, and Palestine, Arab Women''s Enterprise
@@ -39,7 +39,7 @@ AWEF is the only market systems-based development programme in the region that a
 ###  Select Results
 
 * Launched a Women’s Economic Empowerment Unit in Jordan.
-* Designed and developed a customised AWEF Disadvantage Assessment Tool, now in use in all three countries. 
+* Designed and developed a customised AWEF [Disadvantage Assessment Tool](http://www.seepnetwork.org/empowerment-forward-poverty-measurement--real-time-learning-from-the-arab-women---s-enterprise-fund---s-disadvantage-assessment-resources-1778.php), now in use in all three countries. 
 * Started training at least 30 women in Palestine to become paraveterinarians and work with female sheepherders in rural areas. 
 * Set up a milk supply network of 189 to 250 women with a dairy processing company; will be scaled to 500 women in the following year. 
 * Engaged with major Egyptian retailers to increase the hiring of women. 
