@@ -14,7 +14,7 @@ summary: Guzmán Oveja works as tender manager in the Business Development Unit,
   Guzmán’s areas of expertise cover governance, rule of law, peacebuilding, and trade
   and employment, among others.
 image: "/uploads/Guzman%20Oveja%20final.jpg"
-group: Management  Team
+group: Brussels Management
 sort-order: 4
 ---
 
