@@ -7,7 +7,7 @@ summary: In 2011, the European Union and the Government of Liberia concluded a V
   developing and implementing systems to ensure that its timber exports to the European
   Union come from legal sources.
 start: 2013
-end: 2017
+end: 2018
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
