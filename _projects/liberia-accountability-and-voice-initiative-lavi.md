@@ -1,8 +1,9 @@
 ---
 title: Liberia—Accountability and Voice Initiative (LAVI)
 date: 2016-01-21 22:40:00 Z
-summary: 'LAVI implements activities to strengthen advocacy and coalitions pressing
-  for public sector reform and improving the citizen-state relationship. '
+summary: The Liberia Accountability and Voice Initiative is improving the citizen-state
+  relationship in Liberia by supporting coalitions and advocacy campaigns that promote
+  public sector accountability.
 start: 2015
 end: 2020
 client: U.S. Agency for International Development
