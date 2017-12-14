@@ -19,23 +19,23 @@ country:
 layout: project
 ---
 
-LAVI works to strengthen advocacy and coalitions pressing for public sector reform and improving the citizen-state relationship. The team works with civil society, the private sector, government, and others to support these coalitions—strengthening linkages among them, building capacity, and promoting local services.
+The Liberia Accountability and Voice Initiative (LAVI), funded by the U.S. Agency for International Development (USAID), is improving the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability.
+LAVI brings together diverse stakeholders to form coalitions around themes that include improving natural resource management (NRM) and enhancing the education system. The project also works with partners from civil society, the private sector, and government to conduct advocacy activities to reform laws, policies, and government programs. To support sustainability in the work of its partners, LAVI builds the capacity of coalitions in research, fundraising, outcome monitoring, and communication. 
 
 ![][1]
 
 ###  Sample Activities
 
-* Strengthen horizontal and vertical linkages among parties in Liberia interested in improving the citizen-state relationship.
-* Build the capacity of targeted civil society organizations to participate in issue-based reforms and in measures to increase accountability and social inclusion.
-* Promote development of existing domestic providers of capacity building services.
-* Use monitoring and iterative evaluation to ensure that our learning is shared with others and our best practices are applied by others and sustainable.
+* Provide in-kind grants and support for government agencies involved in NRM to conduct community outreach activities.
+* Train local small businesses to provide organizational development services to civil society groups, government agencies, and the private sector.
+* Support coalition partners in developing communication strategies and materials and conducting public relations activities.
+
 
 ###  Select Results
 
-* Supported eight local civil society organizations in the formation of an advocacy coalition to promote reforms in the management and monitoring of the County Social Development Funds, money earmarked in concession agreements for community development projects in counties where natural resource extraction companies operate. 
-* Provided funding and support to government agencies that oversee natural resource management for community outreach activities.
-* Launched the LAVI Learning Lab, a co-working space, technology hub, and online community dedicated to information-sharing and collaborative problem-solving to promote issue-based reform. 
+* Facilitated eight civil society organizations in coming together to form the NRM Coalition to advocate for reforms to County Social Development Funds, which collect and distribute funds from extractive concessions to community development projects.
+* Supported the NRM Coalition in conducting surveys and focus group discussions in Liberia’s fifteen counties to inform the creation of a roadmap for advocacy efforts.
 * Identified and trained a pool of 18 Liberian small businesses, consulting firms, and experienced nongovernmental organizations to function as service providers to address capacity challenges.
-* Conducted a national mobile survey and regional focus group discussions to determine which policy issues are priorities for Liberians. 
+* Launched the LAVI Learning Lab, a co-working space, technology hub, and online community that supports collaborative efforts for issue-based reform.
 
 [1]: https://assetify-dai.com/projects/LAVI-pic-for-webpage.jpg
