@@ -20,7 +20,7 @@ country:
 layout: project
 ---
 
-The Liberia Accountability and Voice Initiative (LAVI), funded by the U.S. Agency for International Development (USAID), is improving the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability.
+The Liberia Accountability and Voice Initiative (LAVI) is improving the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability.
 LAVI brings together diverse stakeholders to form coalitions around themes that include improving natural resource management (NRM) and enhancing the education system. 
 
 The project also works with partners from civil society, the private sector, and government to conduct advocacy activities to reform laws, policies, and government programs. To support sustainability in the work of its partners, LAVI builds the capacity of coalitions in research, fundraising, outcome monitoring, and communication. 
@@ -32,7 +32,6 @@ The project also works with partners from civil society, the private sector, and
 * Provide in-kind grants and support for government agencies involved in NRM to conduct community outreach activities.
 * Train local small businesses to provide organizational development services to civil society groups, government agencies, and the private sector.
 * Support coalition partners in developing communication strategies and materials and conducting public relations activities.
-
 
 ###  Select Results
 
