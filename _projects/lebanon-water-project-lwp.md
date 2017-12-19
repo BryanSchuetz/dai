@@ -22,7 +22,9 @@ LWP is increasing reliable and sustainable access to water for Lebanese citizens
 
 LWP is building on the successes of the [Lebanon Waste and Wastewater Sector Support](/our-work/projects/lebanon-water-and-wastewater-sector-support-lwwss) project that from 2009 to 2015.
 
-### ![](https://assetify-dai.com/projects/Lebanon-Water-Project.jpg)Sample Activities
+![](https://assetify-dai.com/projects/Lebanon-Water-Project.jpg)
+
+### Sample Activities
 
 * Review and strengthen the planning and internal operations management of water authorities.
 
