@@ -33,3 +33,6 @@ LWP is building on the successes of the [Lebanon Waste and Wastewater Sector Sup
 ### Select Results
 
 * Completed five-year business plans—in English and Arabic—for its partner water authorities. 
+* Procured handheld billing devices for its water authority partners, which will improve bill collection.
+* Promoted the use of water-saving drip irrigation and hydroponics methods to public and private partners. 
+* Improved the communication and customer service functions at the partner water authorities. 
