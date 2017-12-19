@@ -27,12 +27,17 @@ LWP is building on the successes of the [Lebanon Waste and Wastewater Sector Sup
 ### Sample Activities
 
 * Review and strengthen the planning and internal operations management of water authorities.
+
 * Design and support completion of baseline regional customer satisfaction surveys.
+
 * Develop pilot private sector partnerships that address improved service delivery, water conservation technologies, and water usage awareness.
 
 ### Select Results
 
-* Completed five-year business plans—in English and Arabic—for its partner water authorities. 
+* Completed five-year business plans—in English and Arabic—for its partner water authorities.
+
 * Procured handheld billing devices for its water authority partners, which will improve bill collection.
-* Promoted the use of water-saving drip irrigation and hydroponics methods to public and private partners. 
-* Improved the communication and customer service functions at the partner water authorities. 
+
+* Promoted the use of water-saving [drip irrigation](https://www.dai.com/news/lebanon-project-demos-water-saving-techniques) and hydroponics methods to public and private partners.
+
+* Improved the communication and customer service functions at the partner water authorities.
