@@ -26,9 +26,6 @@ Despite significant progress made through donor and nongovernmental organization
 ### Sample Activities
 
 * Develop, monitor, and analyze sound sector data.
-
 * Engage in targeted research and pilot activities around constraints in the water sector.
-
 * Strengthen country systems to develop informed policy and sectoral planning for sustainable water supply, sanitation, and hygiene (WASH) services.
-
 * Increase the capacity of regional organizations and USAID staff required to improve the collection and use of sector knowledge.
