@@ -24,7 +24,9 @@ To support this aim, the U.K. Department for International Development (DFID)-fu
 ### Sample Activities
 
 * Support civil society groups to expand voter registration, electoral participation, and election observation.
-
 * Build the communication and legislative drafting skills of key parliamentarians to help them more effectively represent their constituents.
-
 * Engage with groups representing women, youth, and other marginalized populations to encourage their participation in policy debates and advocacy efforts.
+
+### Select Results
+
+* Held an event with 150 participants to observe International People With Disabilities Day. The event served as a platform for the Election Commission of Pakistan to inform the PWD community about steps taken to accommodate voters with disabilities.   
