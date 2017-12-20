@@ -5,7 +5,7 @@ lastname: McIntyre Brown
 summary: 'James McIntyre Brown is the Health Practice Director for Europe and joined
   DAI in May 2017. '
 job-title: 'Health Practice Director, DAI Global Health '
-image: "/uploads/Mac.jpg"
+image: "/uploads/macfinal.jpg"
 solutions:
 - Health
 regions:
