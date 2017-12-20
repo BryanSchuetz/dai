@@ -29,5 +29,5 @@ To support this aim, the U.K. Department for International Development (DFID)-fu
 
 ### Select Results
 
-* Held an event with 150 participants to observe International People With Disabilities Day. The event served as a platform for the Election Commission of Pakistan to inform the PWD community about steps taken to accommodate voters with disabilities.  
+* Held an event with 150 participants to observe 2017 International People With Disabilities Day. The event served as a platform for the Election Commission of Pakistan to inform the PWD community about steps taken to accommodate voters with disabilities.  
 * Organised a National Dialogue about closing the gender gap in Pakistan’s Electoral Rolls. The dialogue opened with an expert briefing on the current situation, followed by a moderated roundtable by on key challenges and barriers to women’s voter registration, and a dialogue on policy recommendations to close the gender gap in electoral rolls.
