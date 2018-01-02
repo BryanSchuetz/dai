@@ -7,7 +7,7 @@ summary: StARCK+ is designed to achieve transformational change by helping Kenya
   services, and assets such as clean energy, sustainable agriculture, water management,
   and weather forecasting.
 start: 2013
-end: 2017
+end: 2018
 client: U.K. Department for International Development
 solutions:
 - Environment and Energy
