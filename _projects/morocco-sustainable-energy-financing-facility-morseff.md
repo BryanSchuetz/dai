@@ -9,7 +9,7 @@ summary: Like with its successful [PjolSEFF](/our-work/projects/poland-polish-su
   credit lines to local partner financial institutions in Morocco that then on-lend
   to their clients.
 start: 2013
-end: 2017
+end: 2018
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
