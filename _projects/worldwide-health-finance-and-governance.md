@@ -1,20 +1,20 @@
 ---
 title: Worldwide—Health Finance and Governance
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: Our principal responsibility under this subcontract is for strengthening
+  the governance capacity and accountability mechanisms of partner country health
+  systems.
 start: 2012
-end: 2017
+end: 2018
+client: U.S. Agency for International Development
+solutions:
+- Governance
+- Health
 regions:
 - Worldwide
 country:
 - Worldwide
-solutions:
-- Governance
-- Health
 layout: project
-summary: Our principal responsibility under this subcontract is for strengthening
-  the governance capacity and accountability mechanisms of partner country health
-  systems.
 ---
 
 Our principal responsibility under this subcontract is for strengthening the governance capacity and accountability mechanisms of partner country health systems.
