@@ -5,7 +5,7 @@ summary: We are helping key Palestinian sectors compete in regional and global m
   Targeted sectors in the West Bank and Gaza include agribusiness, tourism, information
   and communications technology, stone and marble, fishing, and garments.
 start: 2011
-end: 2017
+end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
