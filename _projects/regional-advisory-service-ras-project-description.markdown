@@ -6,7 +6,7 @@ summary: The Regional Advisory Service provides expert advice on strategic plann
   organisations in the Pacific, in addition to supporting Australia’s Pacific regional
   aid program.
 start: 2014
-end: 2017
+end: 2018
 client: Australia Department for Foreign Affairs and Trade
 solutions:
 - Governance
