@@ -35,7 +35,8 @@ var keywords = getUrlParameter('keywords');
   searchParameters: {
     attributesToSnippet: ["excerpt", "text:30", "url"],
      facetingAfterDistinct: true,
-     query: keywords
+     query: keywords,
+     snippetEllipsisText: '[&hellip;]'
   }
 });
 
