@@ -1,19 +1,15 @@
 ---
 title: Walter Weaver
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Weaver
-regions: 
-solutions:
-- Environment and Energy
-layout: expert
-image: https://assetify-dai.com/experts/innerweaver.jpg
 summary: Walter Weaver has 18 years of experience working on diverse development projects
   worldwide. At 13, he moved to Alexandria, Egypt, where his father was working on
   a U.S. Agency for International Development (USAID) wastewater project.
-job-title: Senior Development Specialist
-articles:
-- name: 
-  article_file: 
+job-title: 'Acting Regional Managing Director, Asia '
+image: https://assetify-dai.com/experts/innerweaver.jpg
+solutions:
+- Environment and Energy
+layout: expert
 ---
 
 Walter Weaver has 18 years of experience working on diverse development projects worldwide. At 13, he moved to Alexandria, Egypt, where his father was working on a U.S. Agency for International Development (USAID) wastewater project.
