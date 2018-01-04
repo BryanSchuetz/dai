@@ -1,30 +1,23 @@
 ---
 title: Jenny Baker
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Baker
-regions:
-- Asia and the Pacific
+summary: 'As Senior Director of Programmes for DAI Global Health, Jenny ensures that
+  our European health programmes are delivered on time, on budget, and with high quality. '
+job-title: Senior Director of Programmes, DAI Global Health
+image: https://assetify-dai.com/experts/Baker_Inner.jpg
 solutions:
-- Business Environment Reform
+- Health
 - Economic Growth
 - Environment and Energy
 - Governance
 - Natural Resource Management
 layout: expert
-image: https://assetify-dai.com/experts/Baker_Inner.jpg
-summary: As Regional Managing Director for Asia, Jenny oversees DAI operations from
-  Central Asia to the Pacific Islands. DAI's current portfolio of 18 long-term field
-  projects in the region tackle development challenges in sectors as diverse as economic
-  growth, governance, and environment.
-job-title: Regional Managing Director, Asia
-articles:
-- name: 
-  article_file: 
 ---
 
-As Regional Managing Director for Asia, Jenny oversees DAI operations from Central Asia to the Pacific Islands. DAI's current portfolio of 18 long-term field projects in the region tackle development challenges in sectors as diverse as economic growth, governance, and environment. Her 25-person team supports dozens of long- and short-term expatriates, and hundreds of local professionals in the field.
+Jenny's more than 25 years of international development experience includes long-term field assignments in Morocco, Egypt, Palestine, and South Africa. Prior to joining DAI in 2008 as Principal Development Specialist in the Governance Sector, Jenny was Senior Vice President for Europe & Eurasia at Chemonics. Her technical specialization and interests include civil society strengthening and human and institutional capacity development. Earlier in her career she worked on Capitol Hill as a legislative specialist, and later as a paralegal in an international law firm.
 
-Jenny's more than 20 years of international development experience includes long-term field assignments in Morocco, Egypt, Palestine, and South Africa. Prior to joining DAI in 2008 as Principal Development Specialist in the Governance Sector, Jenny was Senior Vice President for Europe & Eurasia at Chemonics. Her technical specialization and interests include civil society strengthening and human and institutional capacity development. Earlier in her career she worked on Capitol Hill as a legislative specialist, and later as a paralegal in an international law firm.
+As Senior Director of Programmes for DAI Global Health, Jenny ensures that our European health programmes are delivered on time, on budget, and with high quality. 
 
 * B.S., international relations, Georgetown University
 * Fluent in French
