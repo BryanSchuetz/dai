@@ -1,7 +1,7 @@
 ---
 title: Juan Estrada-Valle
 date: 2016-01-21 22:18:00 Z
-lastname: Estrada-valle
+lastname: Estrada-Valle
 summary: Juan Estrada-Valle is Chief of Party of the USAID East Africa Trade and Investment
   Hub, a multi-country, multi-sector initiative to promote trade, investment, food
   security, and policy change in eight countries.
@@ -10,8 +10,8 @@ image: https://assetify-dai.com/experts/Estrada_Inner.jpg
 solutions:
 - Economic Growth
 regions:
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
+- 
+- 
 layout: expert
 ---
 
