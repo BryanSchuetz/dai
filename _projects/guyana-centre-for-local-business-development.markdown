@@ -6,7 +6,7 @@ summary: 'The Sustainable Business Group designed a [Centre for Local Business D
   industry information, and analysis to help link local suppliers with oil and gas
   supply chain opportunities. '
 start: 2017
-end: 2017
+end: 2020
 client: Esso Exploration and Production Guyana Ltd
 solutions:
 - Sustainable Business

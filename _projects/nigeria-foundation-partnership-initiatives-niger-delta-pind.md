@@ -5,7 +5,7 @@ summary: DAI assisted the Chevron Corporation with the [strategic design ](https
   this Nigerian-registered [foundation](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220
   ) by helping outline a strategy for its Economic Development Program.
 start: 2010
-end: 2017
+end: 2018
 client: NDPI Foundation and PIND (Funded by Chevron Corporation)
 solutions:
 - Sustainable Business
