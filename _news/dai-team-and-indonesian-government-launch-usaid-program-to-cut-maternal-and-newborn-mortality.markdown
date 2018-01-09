@@ -33,9 +33,7 @@ For example, much of the Government of Indonesia’s health allocations remain u
 
 Based on recent evidence reviews, USAID identified six technical focus areas likely to improve maternal and newborn health outcomes: quality of care, referral systems, local governance, financial protection, defining and reaching the poorest and most vulnerable, and evidence utilization. Jalin will explore these and other areas to accelerate progress and foster the uptake and expansion of successful efforts.
 
-<aside>“The [Government of Indonesia](https://id.usembassy.gov/indonesia-united-states-launch-new-project-advance-health-mothers-newborns/) continues to make reducing maternal and newborn mortality a top priority in its 2015-2019 National Mid Term Development Strategy and has committed to achieving the Sustainable Development Goals for maternal and newborn health by 2030.”
-
-—Indonesia Ministry of Health Secretary General Dr. Untung Sutarjo</aside>
+<aside>“The Government of Indonesia continues to make reducing maternal and newborn mortality a top priority in its 2015-2019 National Mid Term Development Strategy and has committed to achieving the Sustainable Development Goals for maternal and newborn health by 2030.”—Indonesia Ministry of Health Secretary General Dr. Untung Sutarjo</aside>
 
 ## The Right Combination
 
