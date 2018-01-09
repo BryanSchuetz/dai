@@ -25,6 +25,7 @@ DAI’s Jalin consortium, based in Jakarta, includes:
 * **IntraHealth**—a DAI [strategic affiliate](https://www.dai.com/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact) with particular expertise in health systems strengthening and health workforce development. 
 * **Vital Strategies**—a global leader in vital statistics and social autopsy. 
 * **MarketShare Associates**—a woman-owned business expert in integrating gender and pro-poor inclusion strategies.
+
 “DAI has a solid record of achievement across many sectors in Indonesia,” said [Christopher LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), president of [DAI Global Health](https://www.dai.com/our-work/solutions/health). “We have put together a really creative team for this forward-thinking initiative, and as a team we are eager to get to work with our government partners.” 
 
 ## Parlaying Indonesia’s Development Gains
