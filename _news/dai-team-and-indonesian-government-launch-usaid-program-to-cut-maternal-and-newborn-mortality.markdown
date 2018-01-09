@@ -2,6 +2,14 @@
 title: DAI Team and Indonesian Government Launch USAID Program to Cut Maternal and
   Newborn Mortality
 date: 2018-01-09 18:48:00 Z
+solutions:
+- Health
+regions: Asia and the Pacific
+projects: Indonesia—Jalin
+clients: U.S. Agency for International Development
+summary: DAI, IntraHealth International, and our partners have launched a five-year
+  program bringing together Indonesia’s public and private sectors with local communities
+  to co-create strategies that will reduce death rates among mothers and their newborns.
 ---
 
 Indonesia’s maternal and newborn mortality rates remain stubbornly higher than in neighboring countries—this despite Indonesia’s fast-rising economic power and substantial development in the past 15 years. Approximately 90,000 newborns or new mothers die each year in Indonesia. In response, DAI, IntraHealth International, and our partners have launched a five-year program bringing together Indonesia’s public and private sectors with local communities to co-create strategies that will reduce death rates among mothers and their newborns.
