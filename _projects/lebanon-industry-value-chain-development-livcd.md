@@ -1,10 +1,10 @@
 ---
 title: Lebanon—Industry Value Chain Development (LIVCD)
 date: 2016-01-21 22:40:00 Z
-summary: Lebanese agricultural products have the potential to compete well in regional
-  and international markets; however many products require improvements in terms of
-  quality and specifications to meet customer demand, leveraging the country's significant
-  assets and abundant talented human resources.
+summary: The Lebanon Industry Value Chain Development (LIVCD) project is a five-year
+  program aimed at improving Lebanon's economic stability and providing income-generating
+  opportunities for small business while creating jobs for the rural population, in
+  particular women and youth.
 start: 2012
 end: 2019
 client: U.S. Agency for International Development
@@ -32,21 +32,14 @@ Watch [other videos ](https://www.youtube.com/channel/UCpLbGE-sJXJBQ-ZFxy5cw9g/v
 ### Sample Activities
 
 * Increase rural incomes, support rural employment, and [expand export sales in processed foods](http://dai-global-developments.com/articles/feed-the-future-project-builds-freekeh-industry-in-lebanon/?utm_source=daidotcom), rural tourism, floriculture, grapes, [olive oil](http://www.naharnet.com/stories/en/168984-usaid-funded-olive-oil-mechanical-harvesting-program-draws-to-a-close-1-000-olive-oil-producers-benefited), apples, pears, avocados, cherries, and a basket of rural agricultural products including thyme, pine nuts, honey, and free range eggs.
-
 * Build linkages between farmers, producers, input suppliers, processors, service providers, traders, transporters, retailers, packers, distributors, exporters, and ending with consumers.
-
 * Strengthen coalition of local actors to ensure that economic benefits from rural tourism remain in those communities.
-
-* Facilitate access to markets and to financing opportunities for rural actors through public-private partnerships and co-investments in order to increase income of the rural population and promote rural wealth creation.
-
+* Facilitate [access to markets](http://www.executive-magazine.com/industry-agriculture/from-the-olive-to-the-oil) and to financing opportunities for rural actors through public-private partnerships and co-investments in order to increase income of the rural population and promote rural wealth creation.
 * Provide technical assistance to disseminate innovative agricultural practices and technologies and build capacities through customized training for micro, small, and medium enterprises, and farmers.
 
 ### Select Results
 
 * Leveraged $7,621,305 of new private sector investment.
-
 * Helped 8,402 farmers to apply improved technologies or management practices.
-
 * Trained 10,370 individuals.
-
 * Helped 1,160 medium and small enterprises—including—to apply for value chain finance.
