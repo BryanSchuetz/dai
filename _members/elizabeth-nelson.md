@@ -1,15 +1,15 @@
 ---
 title: Elizabeth Nelson
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/elizabeth-nelson.jpg"
-summary: Betsey, the chair of DAI’s Board of Managers, is an advisor and corporate
+date: 2016-01-21 22:18:00 Z
+summary: Betsey Nelson, the chair of DAI’s Board of Managers, is an advisor and corporate
   director for high-growth companies in the software, digital media, technology and
   Internet markets.
+image: "/assets/images/leaders/thumbnails/elizabeth-nelson.jpg"
 sort-order: 5
+layout: leaders
 ---
 
-Betsey, DAI’s chair of the Board of Managers, is an advisor and corporate director for high-growth companies in the software, digital media, technology and Internet markets. She currently also serves on the Boards of Nokia, Pandora Media, and Zendesk. Her prior board service includes Ancestry.com, Autodesk, CNET Networks, Macromedia, Good Technology, and SuccessFactors. Betsey served in various executive positions—including Executive Vice President, Chief Financial Officer, and Secretary—at Macromedia, Inc., a global multimedia software company, from 1996 until its acquisition by Adobe Systems Inc. in 2006.
+Betsey Nelson, DAI’s chair of the Board of Managers, is an advisor and corporate director for high-growth companies in the software, digital media, technology and Internet markets. She currently also serves on the Boards of Nokia, Pandora Media, and Zendesk. She is also an advisor to the Mercy Corps Social Venture Fund. Her prior board service includes Ancestry.com, Autodesk, CNET Networks, Macromedia, Good Technology, and SuccessFactors. Betsey served in various executive positions—including Executive Vice President, Chief Financial Officer, and Secretary—at Macromedia, Inc., a global multimedia software company, from 1996 until its acquisition by Adobe Systems Inc. in 2006.
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
 
