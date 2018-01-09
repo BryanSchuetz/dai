@@ -18,7 +18,7 @@ Funded by the U.S. Agency for International Development (USAID), [the Jalin proj
 
 “This is a unique assistance program in that it will support the Ministry of Health and Indonesian communities to save the lives of women and babies by using real-time data to inform locally-driven solutions,” said Folsom.
 
-![DAI-News----Jalin-pic.jpg](/uploads/DAI-News----Jalin-pic.jpg)
+![DAI-News----Jalin-pic.jpg](/uploads/DAI-News----Jalin-pic.jpg)`Bidan Tatik, a midwife in Donomulyo Village, East Java, Indonesia on a house call to check a newborn in her village. Photo: Syane Luntungan, USAID/Indonesia.`
 
 DAI’s Jalin consortium, based in Jakarta, includes:
 
