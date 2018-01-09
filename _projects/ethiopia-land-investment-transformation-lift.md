@@ -1,9 +1,9 @@
 ---
 title: Ethiopia—Land Investment for Transformation (LIFT)
 date: 2016-01-21 22:40:00 Z
-summary: The Land Investment for Transformation programme (LIFT) works to improve
-  the incomes of the rural poor and vulnerable groups in Ethiopia and enhance economic
-  growth, through second-level land certification, and improved rural land administration.
+summary: The Land Investment for Transformation programme (LIFT) is improving the
+  incomes of the rural poor and vulnerable groups in Ethiopia and enhancing economic
+  growth through second-level land certification, and improved rural land administration.
 start: 2014
 end: 2019
 client: U.K. Department for International Development
