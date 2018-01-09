@@ -16,7 +16,7 @@ Indonesia’s maternal and newborn mortality rates remain stubbornly higher than
 
 Funded by the U.S. Agency for International Development (USAID), [the Jalin project](https://www.dai.com/our-work/projects/indonesia-jalin) will target West Java, Central Java, East Java, Banten, North Sumatra, and South Sulawesi—all provinces prone to elevated maternal and neonatal death rates—as well as communities in Eastern Indonesia. Led by Chief of Party Michelle Folsom, the Jalin team—in cooperation with Indonesia’s Ministry of Health—will collect evidence from these provinces, identify the causes of high mortality rates and constraints to progress, and then collaborate with Indonesian partners to create, implement, and scale solutions. Jalin will help improve the efficiency and effectiveness of the medical referral system and work with public health professionals, insurance providers, and policy makers to be more responsive to the needs of patients.
 
-“This is a unique assistance program in that it will support the Ministry of Health and Indonesian communities to save the lives of women and babies by using real-time data to inform locally-driven solutions,” said Folsom.
+“This is a unique assistance program in that it will support the Ministry of Health and Indonesian communities to save the lives of women and babies by using real-time data to inform locally driven solutions,” said Folsom.
 
 ![DAI-News----Jalin-pic.jpg](/uploads/DAI-News----Jalin-pic.jpg)`Bidan Tatik, a midwife in Donomulyo Village, East Java, Indonesia on a house call to check a newborn in her village. Photo: Syane Luntungan, USAID/Indonesia.`
 
