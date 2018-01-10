@@ -22,10 +22,20 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: "**Report**: _Education in Emergencies Guidance Note_"
-  link: "/uploads/EiE_Guidance_Note.pdf"
-- title: "**Report**: _Education in Emergencies Evidence Briefs_"
-  link: "/uploads/EiE_Evidence_Briefs.pdf"
+- title: "**Evidence Brief**: _Education in Emergencies - Political Settlements_"
+  link: 
+- title: "**Evidence Brief**: _Education in Emergencies - Political Settlements_"
+  link: "/uploads/Theme%201%20-%20Political%20settlements%2008.01.18.pdf"
+- title: "**Evidence Brief**: _Education in Emergencies - Accountability_"
+  link: "/uploads/Theme%202%20-%20Accountability%2008.01.18.pdf"
+- title: "**Evidence Brief**: _Education in Emergencies - Cost-Effective Delivery_"
+  link: "/uploads/Theme%203%20-%20Cost-effective%20delivery%2008.01.18.pdf"
+- title: "**Evidence Brief**: _Education in Emergencies - Quality and Learning_"
+  link: "/uploads/Theme%204%20-%20Quality%20and%20learning%2008.01.18.pdf"
+- title: "**Evidence Brief**: _Education in Emergencies - Protection and Inclusion_"
+  link: "/uploads/Theme%205%20-%20Protection%20and%20inclusion%20%2008.01.18.pdf"
+- title: "**Evidence Brief**: _Education in Emergencies - Data Monitoring and Evaluation_"
+  link: "/uploads/Theme%206%20-%20Data%20monitoring%20and%20evaluation%2008.01.18.pdf"
 ---
 
 Crises such as natural disasters, violent conflicts, and disease outbreaks continue to affect large numbers of people across the world, with long-term stresses such as climate change making extreme weather events more common and sapping the reserves of disaster-affected communities. Such strains have resulted in increased migration, unstable states, protracted humanitarian interventions, and expensive rebuilding efforts. In addition to the toll of human suffering, the costs associated with responding to such crises can strain the entire humanitarian response system, while subsequent regional instability can develop into security threats with far-reaching consequences.
