@@ -2,6 +2,7 @@
 title: DAI Team and Indonesian Government Launch USAID Program to Cut Maternal and
   Newborn Mortality
 date: 2018-01-09 18:48:00 Z
+is_featured: true
 solutions:
 - Health
 regions: Asia and the Pacific
@@ -10,9 +11,12 @@ clients: U.S. Agency for International Development
 summary: DAI, IntraHealth International, and our partners have launched a five-year
   program bringing together Indonesia’s public and private sectors with local communities
   to co-create strategies that will reduce death rates among mothers and their newborns.
+social-image: "/uploads/DAI-News----Jalin-pic.jpg"
 ---
 
 Indonesia’s maternal and newborn mortality rates remain stubbornly higher than in neighboring countries—this despite Indonesia’s fast-rising economic power and substantial development in the past 15 years. In response, DAI, IntraHealth International, and our partners have launched a five-year program bringing together Indonesia’s public and private sectors with local communities to co-create strategies that will reduce death rates among mothers and their newborns.
+
+<!--more-->
 
 Funded by the U.S. Agency for International Development (USAID), [the Jalin project](https://www.dai.com/our-work/projects/indonesia-jalin) will target West Java, Central Java, East Java, Banten, North Sumatra, and South Sulawesi—all provinces prone to elevated maternal and neonatal death rates—as well as communities in Eastern Indonesia. Led by Chief of Party Michelle Folsom, the Jalin team—in cooperation with Indonesia’s Ministry of Health—will collect evidence from these provinces, identify the causes of high mortality rates and constraints to progress, and then collaborate with Indonesian partners to create, implement, and scale solutions. Jalin will help improve the efficiency and effectiveness of the medical referral system and work with public health professionals, insurance providers, and policy makers to be more responsive to the needs of patients.
 
