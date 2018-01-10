@@ -44,4 +44,4 @@ In implementing ARC, DAI will take a collective action approach to reducing corr
 * SPARC helped state governments collect an additional £600 million in funds to support public services by improving domestic revenue mobilization, reclaiming funds from dormant bank accounts, reducing procurement costs, and recovering outstanding debts.
 * SPARC supported the development of 10 [State Development Plans](http://www.eldis.org/go/latest-news/news/five-key-lessons-on-effective-governance-reform-from-sparc-nigeria) and strengthened linkage to budgets.
 * SPARC advocated for increased state spending on health and education, contributing to an additional £329 million in these sectors, which resulted in 2.1 million additional children enrolling in school and an additional 300,000 children receiving basic vaccinations.
-* SPARC set up an online resource center with more than 60 documents, resources, and reports that shared best practices, lessons learned, and data from SPARC activities.
+* SPARC set up an online resource center with more than 600 documents, resources, and reports that shared best practices, lessons learned, and data from SPARC activities.
