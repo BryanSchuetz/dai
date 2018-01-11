@@ -23,8 +23,6 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: "**Evidence Brief**: _Education in Emergencies - Political Settlements_"
-  link: 
-- title: "**Evidence Brief**: _Education in Emergencies - Political Settlements_"
   link: "/uploads/Theme%201%20-%20Political%20settlements%2008.01.18.pdf"
 - title: "**Evidence Brief**: _Education in Emergencies - Accountability_"
   link: "/uploads/Theme%202%20-%20Accountability%2008.01.18.pdf"
