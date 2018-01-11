@@ -25,7 +25,7 @@ To ensure more citizens benefit from the effects of decentralization, the U.S. A
 
 DAI is taking an integrated systems approach that includes providing local government employees with the tools and skills to improve the quality of service, as well as incentivizing collaboration among local government institutions. Initiatives will be district-led, reinforcing ownership and accountability by local stakeholders and improving their capacity to sustain progress.
 
-![LGAP_photo.jpg](/uploads/LGAP_photo.jpg)
+<iframe src="https://player.vimeo.com/video/250615766" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **Sample Activities**
 
