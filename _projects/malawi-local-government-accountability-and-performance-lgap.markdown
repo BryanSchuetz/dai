@@ -27,7 +27,7 @@ DAI is taking an integrated systems approach that includes providing local gover
 
 <iframe src="https://player.vimeo.com/video/250615766" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and [here](https://player.vimeo.com/video/250615982).
+View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and [here](https://player.vimeo.com/video/250615982) to learn more.
 
 **Sample Activities**
 
