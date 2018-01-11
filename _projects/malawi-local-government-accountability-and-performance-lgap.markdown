@@ -27,6 +27,8 @@ DAI is taking an integrated systems approach that includes providing local gover
 
 <iframe src="https://player.vimeo.com/video/250615766" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and [here](https://player.vimeo.com/video/250615982).
+
 **Sample Activities**
 
 * Provide targeted capacity-building assistance specific to the roles and requirements of various public servants, with a focus on solving locally relevant problems rather than broad standardized training.
