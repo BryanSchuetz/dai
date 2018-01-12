@@ -4,7 +4,7 @@ date: 2018-01-12 18:06:00 Z
 lastname: Chemaly
 summary: 'Nabil Chemaly is a senior water, sanitation, and hygiene (WASH) development
   expert with more than 15 years of experience working in Africa and the Middle East. '
-job-title: Senior Global Practice Leader,  Water, Sanitation, and Hygiene
+job-title: Senior Global Practice Specialist,  Water, Sanitation, and Hygiene
 image: "/uploads/Nabil%20Portal.jpg"
 solutions:
 - Environment and Energy
