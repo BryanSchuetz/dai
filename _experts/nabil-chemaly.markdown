@@ -1,7 +1,6 @@
 ---
 title: Nabil Chemaly
 date: 2018-01-12 18:06:00 Z
-published: false
 lastname: Chemaly
 summary: 'Nabil Chemaly is a senior water, sanitation, and hygiene (WASH) development
   expert with more than 15 years of experience working in Africa and the Middle East. '
