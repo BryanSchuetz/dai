@@ -3,8 +3,9 @@ title: Lief Doerring
 date: 2016-01-21 22:18:00 Z
 lastname: Doerring
 summary: Lief Doerring is a senior international development expert, leader, and portfolio
-  manager with more than 20 years of experience working in Africa, Asia, and the Pacific.
-job-title: 'Global Lead, Water, Sanitation, and Hygiene '
+  manager with more than 20 years of experience working in Africa, Asia, the Middle
+  East, and the Pacific.
+job-title: 'Global Practice Leader, Water, Sanitation, and Hygiene '
 image: https://assetify-dai.com/experts/Doerring_Inner.jpg
 solutions:
 - Environment and Energy
