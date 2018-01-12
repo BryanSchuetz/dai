@@ -1,15 +1,15 @@
 ---
 title: Gail Steinel
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/gail-steinel.jpg"
+date: 2016-01-21 22:18:00 Z
 summary: Gail was for more than two decades a senior executive at Arthur Andersen,
   leading its Business Consulting Business.
+image: "/assets/images/leaders/thumbnails/gail-steinel.jpg"
 sort-order: 9
+layout: leaders
 ---
 
-Gail is the owner of Executive Advisors, which provides consulting services to chief executive officers and leadership seminars to various organizations. Gail was for more than two decades a senior executive at Arthur Andersen, leading its Business Consulting Business. She steered her team through its sale to KPMG Consulting (later BearingPoint) and retired from BearingPoint in 2007 as Executive Vice President of Global Commercial Services.
+Gail is the owner of Executive Advisors, which provides consulting services to chief executives and senior officers and leadership seminars/speeches to various organizations. Gail was for more than two decades at Arthur Andersen, with her last position leading its Global Business Consulting Business. With 10,000 employees, operating in 85 different countries, she steered her team through its sale to KPMG Consulting (later BearingPoint) and retired from BearingPoint in 2007 as Executive Vice President of Global Commercial Services.
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
 
-She is now a member of the board of trustees and chair of the audit committee of Federal Realty Investment Trust, a member of the board and chair of the audit committee of MTS Systems Corporation, and a board member of Shelter Our Sisters, a nonprofit that assists women and children suffering from domestic violence. Twice recognized as one of Consulting Magazine’s Top 25 Consultants, Gail is the executive-in-residence and leadership instructor for its leadership programs at the Yale School of Management. She has also lectured on leadership development at West Point and Harvard Business School, and is currently the co-instructor of Leadership in Crisis for Villanova’s Executive MBA program.
+She is now a member of the board of trustees, chair of the audit committee and member of the compensation committee of Federal Realty Investment Trust; a member of the board and chair of the nomination and governance committee, and member of the audit committee of MTS Systems Corporation; and a board member of Center for Hope & Safety, a nonprofit that assists women and children suffering from domestic violence. Twice recognized as one of Consulting Magazine’s Top 25 Consultants, Gail has also lectured on leadership development at West Point and Harvard Business School, is the executive-in-residence and a leadership instructor for the leadership programs at the Yale School of Management for BearingPoint and its global consulting partners.
