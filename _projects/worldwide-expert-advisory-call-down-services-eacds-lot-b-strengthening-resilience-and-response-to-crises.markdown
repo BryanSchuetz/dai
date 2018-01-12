@@ -34,6 +34,8 @@ promos:
   link: "/uploads/Theme%205%20-%20Protection%20and%20inclusion%20%2008.01.18.pdf"
 - title: "**Evidence Brief**: _Education in Emergencies - Data Monitoring and Evaluation_"
   link: "/uploads/Theme%206%20-%20Data%20monitoring%20and%20evaluation%2008.01.18.pdf"
+- title: "**Evidence Brief**: _Education in Emergencies - Research Methodology_"
+  link: "/uploads/EiE_Evidence_Briefs_Introduction.pdf"
 ---
 
 Crises such as natural disasters, violent conflicts, and disease outbreaks continue to affect large numbers of people across the world, with long-term stresses such as climate change making extreme weather events more common and sapping the reserves of disaster-affected communities. Such strains have resulted in increased migration, unstable states, protracted humanitarian interventions, and expensive rebuilding efforts. In addition to the toll of human suffering, the costs associated with responding to such crises can strain the entire humanitarian response system, while subsequent regional instability can develop into security threats with far-reaching consequences.
