@@ -15,6 +15,7 @@ solutions:
 - Institutional and Policy Reform
 - Financial Services
 - Public Financial Management
+- Trade
 regions:
 - Sub-Saharan Africa
 country:
