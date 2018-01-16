@@ -2,6 +2,10 @@
 title: Zambia—More Mobilising Access to Maternal Health Services
 date: 2018-01-16 18:25:00 Z
 published: false
+summary: The award-winning More Mobilising Access to Maternal Health Services in Zambia
+  (MORE MAMaZ) programme empowered rural communities to address the household and
+  community-level barriers preventing women and girls from accessing maternal and
+  newborn health services.
 start: 2014
 end: 2016
 client: Transaid
@@ -11,6 +15,17 @@ regions: Sub-Saharan Africa
 country: Zambia
 ---
 
-The award-winning More Mobilising Access to Maternal Health Services in Zambia (MORE MAMaZ) programme was an integrated programme that empowered rural communities to address the household and community-level barriers preventing women and girls from accessing maternal and newborn health services.
+The award-winning More Mobilising Access to Maternal Health Services in Zambia (MORE MAMaZ) programme empowered rural communities to address the household and community-level barriers preventing women and girls from accessing maternal and newborn health services.
 
-The programme achieved transformational change for women and girls, particularly those who are under-supported at household and community level, by supporting government partners to scale up HPI’s community engagement approach.
+The programme achieved transformational change for women and girls, particularly those who are under-supported at household and community level, through a community engagement approach.
+
+Rural communities were empowered to increase maternal newborn health awareness, address access and affordability barriers, and tackle underlying social problems that contribute to negative health outcomes, such as gender-based violence. The approach strengthened existing structures, namely community-based Safe Motherhood Action Groups (SMAGs). Complementary, targeted supply-side inputs were provided. 
+
+Building on the successes of the predecessor programme, [Moblising Access to Maternal Health Services](https://www.dai.com/our-work/projects/zambia-moblising-access-to-maternal-health-services-mamaz), MORE MAMaZ increased the population coverage of community engagement activities to between 61 percent and 94 percent over the programme’s lifetime. A national scale-up component supported the roll-out of the MORE MAMaZ approach to a further 15 districts. 
+
+### Sample Activities
+
+* Increase population coverage from first programme.
+* Build the capacity of District Health Management Teams so they can focus on building a secure, long-term institutional home for demand-side health-related issues. 
+
+New learning and evidence from the intervention districts increased the evidence base at national level about effective ways to intervene at community level in support of improved access to maternal and newborn health services.
