@@ -26,7 +26,6 @@ DAI Global Health’s Health Partners International is supporting the Ministry o
 
 
 
-Through improving governance and management structures, models and processes, and promoting results-driven service provision, the project will contribute to broader sector outcomes, such as efficiency and sustainability of health financing, improvements in the quality of care, and better health outcomes.
 
 The project is funded jointly by the World Bank and the European Union. The consortium contracted to implement the project is led by Health Partners Southern Africa (HPSA) in partnership with Health Information Systems Program (HISP), the Institute for Health Measurement (IHM) and Strategic Development Consultants (SDC).
 
