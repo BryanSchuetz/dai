@@ -31,3 +31,12 @@ Building on the successes of the predecessor programme, [Moblising Access to Mat
 
 ### Select Results
 
+Key results included:
+
+32% increase in skilled birth attendance rates (from 46% to 78%)
+ 25% increase in women and girls attending ANC in first trimester (from 37% to 62%)
+14% increase in use of modern family planning methods (from 24% to 38%)
+4,105 women transferred to a healthy facility by Emergency Transport Scheme (ETS) drivers
+2,344 women supported by food banks
+2,798 women supported by emergency savings schemes
+82,205 door-to-door visits to homes of pregnant and newly delivered women undertaken by trained SMAG volunteers
