@@ -4,7 +4,7 @@ date: 2018-01-16 16:54:00 Z
 published: false
 start: 2017
 end: 2018
-client: World Bank
+client: 'World Bank and European Union '
 solutions:
 - Health
 - Health Governance
@@ -23,10 +23,3 @@ DAI Global Health’s Health Partners International is supporting the Ministry o
 * Hold stakeholder consultations and perform diagnostic assessments of the status of governance and management in the health sector with an emphasis on hospitals, involving qualitative and quantitative information.
 * Present options for governance models and management structures, drawing from lessons, experiences, and discussions from the above analysis.
 * Provide a set of governance and management tools and processes to support effective implementation of the reforms across all levels of care.
-
-
-
-
-The project is funded jointly by the World Bank and the European Union. The consortium contracted to implement the project is led by Health Partners Southern Africa (HPSA) in partnership with Health Information Systems Program (HISP), the Institute for Health Measurement (IHM) and Strategic Development Consultants (SDC).
-
-Dr Andrew McKenzie, HPI’s Technical Lead for Governance, Policy and Planning is the lead expert of a team of 10.
