@@ -13,18 +13,16 @@ country: South Sudan
 
 The Health Pooled Fund, supported by multiple donors, focuses on successfully strengthening health systems and delivering essential health services in South Sudan. Crown Agents leads a consortium that includes DAI Global Health’s Health Partners International and Montrose International. Within the fund are 23 other implementing partners that support primary health care services in health facilities, including hospitals, across 55 counties.
 
-Sample Activities
+### Sample Activities
 
-Manage Health Pooled Fund mechanisms through support to the Steering Committee and state and county coordination mechanisms, as well as develop policies, procedures, and guidelines.
-Support health service delivery through contracting, managing, and monitoring implementing partners.
-Strengthen health sector planning, management, and oversight at national and state levels.
-Manage fiduciary risk for funds under direct Health Pooled Fund control.
+* Manage Health Pooled Fund mechanisms through support to the Steering Committee and state and county coordination mechanisms, as well as develop policies, procedures, and guidelines.
+* Support health service delivery through contracting, managing, and monitoring implementing partners.
+* Strengthen health sector planning, management, and oversight at national and state levels.
+* Manage fiduciary risk for funds under direct Health Pooled Fund control.
 
-Select Results
+### Select Results
 
-As a result of this, HPF has delivered key achievements including:
-
-Immunising hundreds of thousands of children against preventable childhood illnesses including vaccinating 614, 243 children under 1 year old against measles.
+Immunised hundreds of thousands of children against preventable childhood illnesses including vaccinating 614, 243 children under 1 year old against measles.
 32, 342 women of reproductive age received family planning for the first time, reinforcing their right to determine number/spacing of children and, by preventing unintended pregnancy, reducing number of maternal deaths and infant mortality
 736, 814 mothers-to-be attended first antenatal care appointments, with 139, 522 continuing though to fourth antenatal visit
 191, 554 women delivered to health facilities and 62% of all deliveries in facilities were attended by a skilled birth attendant resulting in more women getting access to clean, safe and reliable treatment
