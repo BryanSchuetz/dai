@@ -22,9 +22,7 @@ MAMaZ worked directly with communities to build social approval for behaviour ch
 Select Results
 
 * Increased the usage of skilled attendants at childbirth from 43 percent to 70 percent.  
-
-the proportion of pregnant women who knew to attend antenatal care in the first trimester increased from 47% to 71%
-the proportion of those women who attended at least 4 antenatal care visits in total increased from 30% to 43%
+* Increased the number of women who attended prenatal care in their first trimester from 47 percent to 71 percent. The proportion of those women who attended at least four antenatal care visits in total increased from 30 percent to 43 percent.
 use of modern family planning methods increased from 21% to 33%, exceeding the programme target
 uptake of postnatal care within six days increased to 48%
 the retention rate of volunteers was 95%
