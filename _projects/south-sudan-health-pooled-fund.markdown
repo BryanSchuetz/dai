@@ -11,11 +11,15 @@ regions: Sub-Saharan Africa
 country: South Sudan
 ---
 
-The Health Pooled Fund (HPF) is a partnership with the Government of South Sudan’s (GRSS), Ministry of Health (MoH) implemented in two phases (HPF1 – 3 ½ years and HPF2 – 2 years), it focuses on successfully strengthening health systems and delivering essential health services across 8 of the South-Sudan previous 10 states (23 of the 32 new states). Crown Agents leads a consortium which includes Health Partners International and Montrose International, to deliver the HPF which currently funds 23 implementing partners to support primary health care services in health facilities, including hospitals, across 55 counties.
+The Health Pooled Fund is a partnership with the Government of South Sudan’s Ministry of Health implemented in two phases (HPF1 – 3 ½ years and HPF2 – 2 years), it 
 
-To achieve this, the consortium focus on four work streams:-
+The Health Pooled Fund focuses on successfully strengthening health systems and delivering essential health services in South Sudan. Crown Agents leads a consortium that includes DAI Global Health’s Health Partners International and Montrose International. Within the fund are 23 other implementing partners that support primary health care services in health facilities, including hospitals, across 55 counties.
 
-Management of Health Pooled Fund Mechanisms through support to the HPF Steering Committee (SC) and state and county coordination mechanisms, as well as development of HPF policies, procedures and guidelines
+The consortium works on four main areas:
+Sample Activities
+
+Manage Health Pooled Fund mechanisms through support to the Steering Committee and state and county coordination mechanisms, as well as develop policies, procedures, and guidelines.
+
 Support to health service delivery through contracting, management and performance monitoring of NGO Implementing Partners (IPs)
 Health systems strengthening, with emphasis on health sector planning, management and oversight at national and state levels
 Management of fiduciary risk for funds under direct HPF control
