@@ -20,15 +20,14 @@ MQSUN+ builds on the successes of the previous MQSUN Framework Agreement of whic
 ### Sample Activities
 
 * Provide policy and budget cycle management assistance to governments in the SUN Movement and to the SUN Movement Secretariat to catalyse country efforts to scale up nutrition impact. 
-* Assist the U.K. Department for International Development to maximise the quality and effective of its nutrition-related programmes, to support evidence generation and lesson learning, and to develop nutrition capacity and support the achievement of global targets to reduce malnutrition.
+* Assist the U.K. Department for International Development to maximise the quality and effectiveness of its nutrition-related programmes.
+* Support evidence generation and lesson learning around the global targets to reduce malnutrition.
 
-## MQSUN
+### Select Results
 
-HPI was part of a consortium established in 2012 to assist with the urgent task of scaling up DFID nutrition-specific and nutrition–sensitive programmes.
+In the first phase of the MQSUN programme, which ran from 2012 to 2016, we:
 
-The Maximising the Quality of Scaling Up Nutrition (MQSUN) programme supported the global **[Scaling Up Nutrition, or SUN](http://scalingupnutrition.org/)**, movement and provides technical expertise on the design and implementation of nutrition programmes, drawing on the best available evidence.
-
-HPI provided technical support to MQSUN in strengthening the nutrition enabling environment including:
+* Provided technical support to harmonise nutrition-related indicators, targets, and outcomes across multiple donors and sectors (notably agriculture, education, health and social protection) in support of plans for scaling up nutrition-related interventions in Kenya.
 
 * **[Technical assistance to the SUN donor convenor](http://healthpartners-int.co.uk/our-projects/support-to-scaling-up-nutrition-donor-convenor-kenya/)** to harmonise nutrition-related indicators, targets, and outcomes across multiple donors and sectors (notably agriculture, education, health and social protection) in support of plans for scaling up nutrition-related interventions in Kenya.
 
