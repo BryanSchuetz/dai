@@ -1,21 +1,26 @@
 ---
-title: Worldwide—Maximising the Quality of Scaling Up Nutrition (MQSUN, MQSUN +) Framework
+title: Worldwide—Maximising the Quality of Scaling Up Nutrition (MQSUN, MQSUN+) Framework
 date: 2018-01-16 19:15:00 Z
 published: false
 start: 2012
 end: 2022
 client: U.K. Department for International Development
+solutions:
+- health
+- Health Governance
+regions: Worldwide
 ---
 
 DAI Global Health’s Health Partners International is part of a consortium led by PATH that works to increase coverage of effective multi-sectoral programmes to reduce undernutrition in countries that have signed up to the [Scaling Up Nutrition](http://scalingupnutrition.org), or SUN, movement.
 
-MQSUN \+ is a five year programme which will provide multi-disciplinary highly qualified expert teams, including nutritionists, economists, statisticians, social economists, and other specialists in key areas such as public health, agriculture and food security, law, social protection, WASH, education, governance and gender. MQSUN \+ builds on the successes of the previous MQSUN Framework Agreement of which HPI was a core implementing partner.
+MQSUN+ is a five-year programme that provides multi-disciplinary highly qualified expert teams, including nutritionists, economists, statisticians, social economists, and other specialists in key areas such as public health, agriculture and food security, law, social protection, water, sanitation, and hygiene (WASH), education, governance, and gender. 
 
-The objectives of this project are to provide:
+MQSUN+ builds on the successes of the previous MQSUN Framework Agreement of which Health Partners International was a core implementing partner.
 
-1. Technical assistance to Governments in the SUN Movement and to the SUN Movement Secretariat to catalyse country efforts to scale up nutrition impact. This objective will strengthen the capacity of 50\+ SUN Movement countries to continuously improve their policy and budget cycle management and to deliver policies and programmes which reduce undernutrition.
+### Sample Activities
 
-2. Technical assistance to DFID to maximise the quality and effective of its nutrition-related programmes, to support evidence generation and lesson learning, and to develop nutrition capacity and support the achievement of global targets to reduce malnutrition.
+* Provide policy and budget cycle management assistance to governments in the SUN Movement and to the SUN Movement Secretariat to catalyse country efforts to scale up nutrition impact. 
+* Assist the U.K. Department for International Development to maximise the quality and effective of its nutrition-related programmes, to support evidence generation and lesson learning, and to develop nutrition capacity and support the achievement of global targets to reduce malnutrition.
 
 ## MQSUN
 
