@@ -1,7 +1,6 @@
 ---
 title: Zambia—MAMaZ Against Malaria
 date: 2018-01-16 17:45:00 Z
-published: false
 summary: The MAMaZ Against Malaria project addresses the lack of access to quality
   commodities for case management of severe malaria in rural Zambia.
 start: 2017
@@ -13,7 +12,7 @@ regions: Sub-Saharan Africa
 country: 'Zambia '
 ---
 
-Malaria is serious public health problem in rural Zambia particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years (Inambao et al, 2017, in Health Press Zambia Bulletin, based on analysis of HMIS data).
+Malaria is a serious public health problem in rural Zambia, particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years.
 
 The MAMaZ Against Malaria project addresses the lack of access to quality commodities for case management of severe malaria in rural Zambia.
 
@@ -30,29 +29,3 @@ MAMaZ Against Malaria is using a health systems and operational research approac
 * Increase access to severe malaria commodities in remote areas.
 * Intervene at the community level to reduce barriers and delays in treatment-seeking and increase patient completion of referral.
 * Intervene at the facility level to optimize case management for severe malaria.
-
-
-
-**Background**
-
-Malaria is serious public health problem in rural Zambia particularly affecting children under five.
-
-A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years (Inambao et al, 2017, in Health Press Zambia Bulletin, based on analysis of HMIS data).
-
-Delays in seeking and reaching care at the community level include:
-
-* Lack of understanding of severe malaria danger signs and of the need to refer urgently;
-
-* Preference for local remedies based on assumptions about causes;
-
-* Long distances to the nearest health facility; and
-
-* Lack of support or resources to transfer the sick to health facilities.
-
-At the health facility level care can be hampered by:
-
-* Lack of capacity and commodities to treat severe malaria;
-
-* Inconsistent outreach services; and
-
-* Delays in onwards referral to district hospital.
