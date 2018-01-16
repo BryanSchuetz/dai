@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Global Evaluation Framework Agreement 1 and 2
 date: 2018-01-16 20:07:00 Z
-published: false
 summary: The Global Evaluation Framework Agreement 2 ensures the provision of efficient
   and effective expert services for the design and implementation of evaluations.
 start: 2012
