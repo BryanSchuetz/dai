@@ -2,42 +2,36 @@
 title: Zambia—MAMaZ Against Malaria
 date: 2018-01-16 17:45:00 Z
 published: false
+summary: The MAMaZ Against Malaria project addresses the lack of access to quality
+  commodities for case management of severe malaria in rural Zambia.
 start: 2017
 end: 2018
-client: Transaid
+client: Medicines for Malaria Venture
 solutions:
 - Health
 regions: Sub-Saharan Africa
 country: 'Zambia '
 ---
 
-MAMaZ Against Malaria aims to address the lack of access to quality commodities for case management of severe malaria in rural Zambia.
+Malaria is serious public health problem in rural Zambia particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years (Inambao et al, 2017, in Health Press Zambia Bulletin, based on analysis of HMIS data).
 
-The project aims to increase access to community-based pre-referral treatment for severe malaria (pre-referral rectal artesunate – RAS) for children from six months to under six years old, and to reduce referral delays from the community to health facilities that are equipped to treat severe malaria, ideally with injectable artesunate.
+The MAMaZ Against Malaria project addresses the lack of access to quality commodities for case management of severe malaria in rural Zambia.
 
-The goal of the project is to devise an evidence based and sustainable strategy for improving the access of hard-to-reach communities to effective treatment for severe malaria, including rectal artesunate (RAS) at community level in a high malaria burden setting.
+The project aims to increase access to community-based pre-referral treatment for severe malaria for children from six months to under six years old, and to reduce referral delays from the community to health facilities that are equipped to treat severe malaria.
 
-The project will generate evidence to show that it is feasible to:
+The goal of the project is to devise an evidence-based and sustainable strategy for improving the access of hard-to-reach communities to effective treatment for severe malaria.
 
-1. Provide pre-referral treatment for severe malaria at community level; and
-
-2. Improve case management of severe malaria at lower level health facilities.
+The project is working to generate evidence to show that it is feasible to provide pre-referral treatment for severe malaria in the communities and improve case management of severe malaria at lower-level health facilities.
 
 MAMaZ Against Malaria is using a health systems and operational research approach to address the constraints that limit knowledge of severe malaria at community level and access to quality medical drugs which undermine effect case management.
 
-MAMaZ Against Malaria is a follow on pilot project after the successful implementation of the maternal health focused **[More MAMaZ](http://healthpartners-int.co.uk/our-projects/more-mobilising-access-to-maternal-health-services-zambia/)** project.
-
-MAMaZ Against Malaria will:
+### Sample Activities
 
 * Increase access to severe malaria commodities in remote areas.
+* Intervene at the community level to reduce barriers and delays in treatment-seeking and increase patient completion of referral.
+* Intervene at the facility level to optimize case management for severe malaria.
 
-* Intervene at community level to reduce barriers and delays in treatment-seeking and increase patient completion of referral.
 
-* Intervene at facility level to optimize case management for severe malaria.
-
-The project operates in Serenje District, Central Province, across 10 intervention health facilities and 45 intervention communities. Intervention communities are sites that have previously participated in the MAMaZ and MORE MAMaZ projects.
-
-MAMaZ Against Malaria is funded by the Medicines for Malaria Venture. The project is implemented by Transaid, Health Partners Zambia, Development Data and Disacare in partnership with the Zambian Ministry of Health and Serenje District Health Management Team.
 
 **Background**
 
