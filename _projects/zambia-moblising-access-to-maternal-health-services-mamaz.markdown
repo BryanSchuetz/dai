@@ -2,6 +2,8 @@
 title: Zambia—Moblising Access to Maternal Health Services (MAMaZ)
 date: 2018-01-16 18:08:00 Z
 published: false
+start: 2010
+end: 2013
 client: U.K. Department for International Development
 solutions:
 - Health
@@ -11,16 +13,16 @@ country: Zambia
 
 In Zambia, health indicators remain poor, with an estimated 2,600 maternal deaths annually, and a neonatal mortality rate of 30 deaths per 1,000 live births. The average rate of delivery by skilled birth attendants has remained stagnant at below 50 percent for more than 20 years.
 
-The Mobilising Access to Maternal Health Services in Zambia (MAMaZ) programme, operating from 2010 to 2013, was implemented in six districts in Central, Western, Southern and Muchinga provinces in rural Zambia and reached a population of over 250,000.
+The Mobilising Access to Maternal Health Services in Zambia (MAMaZ) programme was implemented in six districts in Central, Western, Southern and Muchinga provinces in rural Zambia and reached a population of more than 250,000 people.
 
-The programme aimed to address at household and community level the factors that affect access to maternal, newborn and child health (MNCH) services, in particular Emergency Obstetric Neonatal Care (EmONC), and develop appropriate home-based care of women who are pregnant or have recently delivered, as well as for their babies.
+The programme addressed the factors that affect access to maternal, newborn and child health (MNCH) services, in particular emergency obstetric neonatal care, and developed appropriate home-based care of women who were pregnant or had recently delivered, as well as for their babies.
 
-This was done by working directly with communities to build wide social approval for behaviour change and to assist communities to develop their own emergency response systems. The programme worked through existing structures, and the change process was community-led and managed by community health volunteers.
+MAMaZ worked directly with communities to build social approval for behaviour change and to assist communities to develop their own emergency response systems. The programme worked through existing structures, and the change process was community-led and managed by community health volunteers.
 
-Reducing maternal mortality
-Over the programme timeframe of 2 ½ years:
+Select Results
 
-skilled attendance at birth across the 6 districts increased from 43% to 70%, exceeding the agreed target
+* Increased the usage of skilled attendants at childbirth from 43 percent to 70 percent.  
+
 the proportion of pregnant women who knew to attend antenatal care in the first trimester increased from 47% to 71%
 the proportion of those women who attended at least 4 antenatal care visits in total increased from 30% to 43%
 use of modern family planning methods increased from 21% to 33%, exceeding the programme target
