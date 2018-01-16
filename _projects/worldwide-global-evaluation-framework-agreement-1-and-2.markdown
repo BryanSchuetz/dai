@@ -22,7 +22,7 @@ GEFA 2 covers a range of geographic locations including fragile and conflicted-a
 
 Under the framework's first phase, we: 
 
-* Provided niche technical expertise in health and social development as a prime contractor to UK aid on the Global Evaluation Framework Agreement (GEFA).
+* Provided niche technical expertise in health and social development as a prime contractor on the Global Evaluation Framework Agreement.
 
 Key priorities in relation to this framework were to ensure the provision of efficient and effective consultancy services for the design and implementation of evaluation across UK aid programmes, adhering to the Organisation of Economic Co-operation and Development (OECD) Development Assistance Committe (DAC) Quality Standards for Development Evaluation. GEFA is UK aid’s primary route for engaging service providers for a mix of long term and short term evaluation programmes and consultancy opportunities.
 
