@@ -1,5 +1,5 @@
 ---
-title: Zambia—MAMAZ Against Malaria
+title: Zambia—MAMaZ Against Malaria
 date: 2018-01-16 17:45:00 Z
 published: false
 start: 2017
