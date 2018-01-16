@@ -27,5 +27,7 @@ Building on the successes of the predecessor programme, [Moblising Access to Mat
 
 * Increase population coverage from first programme.
 * Build the capacity of District Health Management Teams so they can focus on building a secure, long-term institutional home for demand-side health-related issues. 
+* Increase the evidence base at the national level about effective ways to intervene at the community level in support of improved access to maternal and newborn health services.
 
-New learning and evidence from the intervention districts increased the evidence base at national level about effective ways to intervene at community level in support of improved access to maternal and newborn health services.
+### Select Results
+
