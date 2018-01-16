@@ -20,26 +20,9 @@ GEFA 2 covers a range of geographic locations including fragile and conflicted-a
 
 ### Select Results
 
-Under the framework's first phase, we: 
+Under the framework’s first phase, we: 
 
 * Provided niche technical expertise in health and social development as a prime contractor on the Global Evaluation Framework Agreement.
-
-Key priorities in relation to this framework were to ensure the provision of efficient and effective consultancy services for the design and implementation of evaluation across UK aid programmes, adhering to the Organisation of Economic Co-operation and Development (OECD) Development Assistance Committe (DAC) Quality Standards for Development Evaluation. GEFA is UK aid’s primary route for engaging service providers for a mix of long term and short term evaluation programmes and consultancy opportunities.
-
-Under this Framework Contract, HPI provided technical support in the following thematic areas:
-
-* health
-
-* governance
-
-* capacity building
-
-* social development
-
-* aid instruments
-
-Projects awarded under this Framework include:
-
-* **[Evaluation of Maternal Newborn and Child Health Programme, Zimbabwe](http://healthpartners-int.co.uk/our-projects/evaluation-of-maternal-newborn-and-child-health-zimbabwe/)**
-
-* **[Evaluation of the Health Partnership Scheme](http://healthpartners-int.co.uk/our-projects/evaluation-of-the-health-partnership-scheme/)**
+* Provided technical support in the following thematic areas: health, governance, capacity building, social development, and aid instruments.
+* Conducted an overall evaluation of Maternal Newborn and Child Health Programme in Zimbabwe.
+* With Triple Line, conducted the end of project evaluation DFID-funded Health Partnership Scheme programme, culminating in a presentation of the final report at the October 2016 THET Conference.
