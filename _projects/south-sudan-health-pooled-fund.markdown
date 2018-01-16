@@ -11,20 +11,16 @@ regions: Sub-Saharan Africa
 country: South Sudan
 ---
 
-The Health Pooled Fund is a partnership with the Government of South Sudan’s Ministry of Health implemented in two phases (HPF1 – 3 ½ years and HPF2 – 2 years), it 
+The Health Pooled Fund, supported by multiple donors, focuses on successfully strengthening health systems and delivering essential health services in South Sudan. Crown Agents leads a consortium that includes DAI Global Health’s Health Partners International and Montrose International. Within the fund are 23 other implementing partners that support primary health care services in health facilities, including hospitals, across 55 counties.
 
-The Health Pooled Fund focuses on successfully strengthening health systems and delivering essential health services in South Sudan. Crown Agents leads a consortium that includes DAI Global Health’s Health Partners International and Montrose International. Within the fund are 23 other implementing partners that support primary health care services in health facilities, including hospitals, across 55 counties.
-
-The consortium works on four main areas:
 Sample Activities
 
 Manage Health Pooled Fund mechanisms through support to the Steering Committee and state and county coordination mechanisms, as well as develop policies, procedures, and guidelines.
+Support health service delivery through contracting, managing, and monitoring implementing partners.
+Strengthen health sector planning, management, and oversight at national and state levels.
+Manage fiduciary risk for funds under direct Health Pooled Fund control.
 
-Support to health service delivery through contracting, management and performance monitoring of NGO Implementing Partners (IPs)
-Health systems strengthening, with emphasis on health sector planning, management and oversight at national and state levels
-Management of fiduciary risk for funds under direct HPF control
-The HPF is supported by the Australian Government’s Overseas Aid Program (AusAid), the British Government’s Department for International Development (DFID), the Canadian International Development Agency (CIDA), the European Union (EU), the Swedish International Development and Cooperation Agency (SIDA) and the United States Agency for International Development (USAID).
-Our consortium’s adaptive programming approach has ensured continuous service delivery throughout the outbreaks of conflict and continuing instability, as well as responding to additional demands from GRSS.
+Select Results
 
 As a result of this, HPF has delivered key achievements including:
 
