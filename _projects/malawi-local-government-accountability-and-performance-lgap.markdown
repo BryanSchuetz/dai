@@ -10,7 +10,8 @@ summary: Over 20 years since its first multi-party elections, the government of 
   levels of government continues to hinder successful decentralization.
 start: 2016
 end: 2021
-client: U.S. Agency for International Development
+client: U.S. Agency for International Development, U.K. Department for International
+  Development
 solutions:
 - Governance
 - Decentralization and Local Government Management
