@@ -11,7 +11,7 @@ With the launch of the Sustainable Development Goals, the UN Secretary Generalâ€
 
 There is a growing body of experience in a range of RBF-related programmes, but there remain key gaps in the evidence including how cost-effective programme approaches can be adapted to circumstances of fragility, poor governance and weak systems, where unmet need in reproductive, maternal, newborn and child health is often greatest.
 
-Funded by UK aid and implemented by Montrose International and Health Partners International, Northern Uganda Health (NU Health) was a controlled implementation study to assess costs and benefits of RBF relative to conventional Input Based Financing (IBF). The study design aimed to isolate the main effect of the financing modality in terms of quality and quantity of health service provision. Programme data and the results of an independent evaluation conducted by Liverpool School of Tropical Medicine confirm a range of key findings. These include:
+Montrose International and Health Partners International, a DAI Global Health firm, implemented a study to assess the costs and benefits of Results Based Financing (RBF) relative to Input Based Financing (IBF) in Northern Uganda. The study design aimed to isolate the main effect of the financing modality in terms of quality and quantity of health service provision. Programme data and the results of an independent evaluation conducted by Liverpool School of Tropical Medicine confirm a range of key findings. These include:
 
 A significant reduction in barriers to access and increase in health service utilisation;
 A massive three to eight fold improvement in adherence to standard treatment algorithms/quality of care for the major childhood killers: diarrhoea, malaria and pneumonia; and
