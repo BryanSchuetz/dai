@@ -188,7 +188,7 @@ algolia:
     - h1
     - h2
     - h3
-    - text
+    - excerpt_text
     - tags
     attributesForFaceting:
     - tags

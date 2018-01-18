@@ -39,7 +39,7 @@ var keywords = getUrlParameter('keywords');
   apiKey: 'a773dcb4e565198a31f353490e3652d8',
   indexName: 'dai',
   searchParameters: {
-    attributesToSnippet: ["excerpt_text", "text:30", "url"],
+    attributesToSnippet: ["excerpt_text:30", "text:30", "url"],
      facetingAfterDistinct: true,
      query: keywords,
      snippetEllipsisText: '[&hellip;]'
@@ -108,6 +108,8 @@ search.addWidget(
       }else if(item.label == "Energy"){
         item.icon = "env-badge"
       }else if(item.label == "Health"){
+        item.icon = "health-badge"
+      }else if(item.label == "health"){
         item.icon = "health-badge"
       }else if(item.label == "Fragile States"){
         item.icon = "stability-badge"
