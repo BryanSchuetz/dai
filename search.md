@@ -111,6 +111,7 @@ search.addWidget(
         item.icon = "health-badge"
       }else if(item.label == "health"){
         item.icon = "health-badge"
+        item.label = "Health"
       }else if(item.label == "Fragile States"){
         item.icon = "stability-badge"
       }else if(item.label == "Digital"){
