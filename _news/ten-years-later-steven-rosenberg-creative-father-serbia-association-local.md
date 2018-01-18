@@ -2,6 +2,7 @@
 title: 'Ten Years Later: Steven Rosenberg, “Creative Father” of Serbia’s Association
   for Local Economic Development'
 date: 2016-11-03 18:05:00 Z
+published: false
 is_featured: false
 solutions:
 - Economic Growth
@@ -10,7 +11,6 @@ regions:
 summary: Ten years after DAI helped Serbia launch its National Association for Local
   Economic Development (NALED), NALED stands as an example for local institution building
   and deep-rooted development that endures.
-published: false
 layout: node
 ---
 

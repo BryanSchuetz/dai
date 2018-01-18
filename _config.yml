@@ -182,19 +182,18 @@ algolia:
   - project-login.md
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
   settings:
-    attributeForDistinct: 'URL'
+    attributeForDistinct: URL
     searchableAttributes:
-      - title
-      - h1
-      - h2
-      - h3
-      - text
-      - tags
+    - title
+    - h1
+    - h2
+    - h3
+    - text
+    - tags
     attributesForFaceting:
-      - tags
-      - type
-      - title
-      - layout
-      - solutions
+    - tags
+    - type
+    - title
+    - layout
+    - solutions
     hitsPerPage: 20
-
