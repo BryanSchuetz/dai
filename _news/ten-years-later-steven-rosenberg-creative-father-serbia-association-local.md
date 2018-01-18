@@ -10,14 +10,13 @@ regions:
 summary: Ten years after DAI helped Serbia launch its National Association for Local
   Economic Development (NALED), NALED stands as an example for local institution building
   and deep-rooted development that endures.
+published: false
 layout: node
 ---
 
 Ten years after DAI helped Serbia launch its National Association for Local Economic Development (NALED), NALED stands as an example for local institution building and deep-rooted development that endures. Now well established with myriad accomplishments to its credit, NALED celebrated its 10th anniversary in September 2016 with a [gala][2] in Belgrade that attracted more than 600 political and business leaders, mayors, representatives of state institutions and international organizations, and diplomats.
 
 For "[10 Years of NALED: Celebrating Reform][3]," NALED interviewed Steven Rosenberg, pictured below left with former U.S. Ambassador to Serbia Michael Polt. Called the "creative father" of NALED, Rosenberg served as DAI's Chief of Party on the U.S. Agency for International Development (USAID)'s [Serbia Local Government Reform Program][4] (2001–2005) and Serbia Municipal Economic Growth Activity (MEGA, 2005–2008, subcontracted to Urban Institute). Rosenberg, who lives in Bethesda, Maryland, reflected on the association's launch, success, and prospects for the future:
-
-![][5]{:.float-left}
 
 **What was the original idea of NALED and how was it inspired?**
 
@@ -35,8 +34,6 @@ The first major project, led by Dusan Petrovic, was the "business-friendly munic
 
 **Rosenberg:** It was difficult at first to get people to believe that such an organization could work or function. But this effort had a lot of credibility from the start, as it was managed out of MEGA project, the successor to Serbia Local Government Reform Program (SLGRP), another USAID-funded project implemented by DAI. Our staff in both these projects had an excellent reputation of being helpful and providing meaningful support to municipalities and the private sector. That goodwill carried over and gave people a willingness to see if NALED could be similarly successful. As it succeeded, success bred more success and more interest from people. I am not aware of similar organizations from other countries.
 
-![][6]
-`Steve Rosenberg with Ana Brnabic, former DAI staff member and currently Serbia's Minister of State Administration and Local Government.`
 
 **What was your vision for NALED at the beginning, back in 2006 when you were leading USAID MEGA program, and how much does it differ from what NALED is and stands for today?**
 
@@ -68,9 +65,6 @@ The key obstacle for making progress is the over-politicization of the various i
 
 The region is competing for investments internally, as well as globally. Potential investors are attracted to communities where they are assured of honest and timely actions by the local and central governments. The business-friendly municipality program gives investors certainty as to how they will be treated while providing municipalities with guidance as to what they need to do to make their municipality more attractive to investment.
 
-![][7]
-`Presentations at the September 2016 event in Belgrade celebrating the 10th anniversary of the founding of Serbia's National Association for Local Economic Development.`
-
 **Recently we had elections in Serbia and new local leaders are in place. You have observed our local elections from 1998 to 2009. Do you have any thoughts about how we elect our local officials?**
 
 **Rosenberg:** One critical action that I believe that the government should take is to reinstitute the direct election of mayors. In the 2002 local elections, mayors were elected for the first time directly by their citizens but this right was taken away for the following election. As such these mayors aren't accountable to the citizens but to the political parties which selected (and can fire) them. Corrupt behavior has been tolerated because to report it would lead to the collapse of a governing coalition. I hope and trust that with the election of Ana Brnabic, as Minister of State Administration and Local Self Government, the Government of Serbia will again provide for the direct election of mayors.
@@ -95,6 +89,3 @@ _Steven Rosenberg is an attorney with 35 years of experience in municipal govern
 [2]: /news/ten-years-and-counting-serbia-local-economic-development-association-throws
 [3]: https://issuu.com/cordmagazines/docs/10_years_of_naled_celebrating_refor?e=9502342/40200503
 [4]: /our-work/projects/serbia%E2%80%94local-government-reform-program-slgrp
-[5]: https://assetify-dai.com/news/DAI-NEWS----Serbia-NALED-Rosenberg_1.jpg
-[6]: https://assetify-dai.com/news/DAI-News----Rosenberg-interview_0.jpg
-[7]: https://assetify-dai.com/news/DAI-News----Rosenberg-interview-3.jpg
