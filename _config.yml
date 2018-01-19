@@ -168,7 +168,6 @@ url: https://www.dai.com
 gems:
 - jekyll-redirect-from
 - jekyll-sitemap
-- jekyll-algolia
 whitelist:
 - jekyll-redirect-from
 - jekyll-sitemap
