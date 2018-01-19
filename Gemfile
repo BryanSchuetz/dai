@@ -3,5 +3,5 @@ group :jekyll_plugins do
   gem 'jekyll-algolia'
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'
-  gem 'github-pages'
+  gem 'github-pages', '~>172'
 end

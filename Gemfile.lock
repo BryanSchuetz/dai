@@ -253,7 +253,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 172)
   jekyll-algolia
   jekyll-redirect-from
   jekyll-sitemap
