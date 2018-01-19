@@ -171,6 +171,7 @@ plugins:
 - jekyll-algolia
 whitelist:
 - jekyll-redirect-from
+- jekyll-sitemap
 algolia:
   application_id: R7MRY12BR6
   index_name: dai
