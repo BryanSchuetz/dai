@@ -5,7 +5,7 @@ node_js:
   - "0.12"
 language: ruby
 rvm:
-- 2.1
+- 2.3.6
 cache:
   bundler: true
   directories:
