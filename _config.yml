@@ -165,10 +165,12 @@ sass:
   style: compressed
 baseurl: 
 url: https://www.dai.com
-plugins_dir:
+plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jekyll-algolia
+whitelist:
+- jekyll-redirect-from
 algolia:
   application_id: R7MRY12BR6
   index_name: dai
