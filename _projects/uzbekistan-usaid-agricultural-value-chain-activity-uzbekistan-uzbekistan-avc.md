@@ -2,7 +2,7 @@
 title: Uzbekistan—USAID Agricultural Value Chain Activity in Uzbekistan (Uzbekistan
   AVC)
 date: 2016-01-21 22:40:00 Z
-summary: Uzbekistan AVC will capitalize on the achievements of USAID's Uzbekistan
+summary: Uzbekistan AVC is capitalizing on the achievements of USAID's Uzbekistan
   AgLinks (2007–2011) and AgLinks Plus (2011–2015) projects, which were implemented
   by DAI.
 start: 2015
@@ -17,9 +17,9 @@ country:
 layout: project
 ---
 
-Uzbekistan AVC will capitalize on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We will scale up support to postharvest handling and foster new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC will co-invest with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and cold chain operators—to ensure scalability and sustainability.
+Uzbekistan AVC is capitalizing on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We are scaling up support to post-harvest handling and fostering new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC is co-investing with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and [cold chain operators](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/)—to ensure scalability and sustainability.
 
-Our objectives are to improve the quality and volume of agricultural production and post-harvest handling and production, facilitate market linkages, and link educational institutions with private sector demand.
+We aim to [improve the quality](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/) and volume of agricultural production and post-harvest handling and production, facilitate market linkages, and link educational institutions with private sector demand.
 
 ![][1]
 
