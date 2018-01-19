@@ -166,7 +166,7 @@ sass:
 baseurl: 
 url: https://www.dai.com
 plugins_dir: _plugins
-plugins:
+gems:
 - jekyll-redirect-from
 - jekyll-sitemap
 - github-pages
