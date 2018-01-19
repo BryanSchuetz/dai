@@ -21,7 +21,7 @@ Uzbekistan AVC is capitalizing on the achievements of USAID's Uzbekistan AgLinks
 
 We aim to [improve the quality](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/) and volume of agricultural production and post-harvest handling and production, facilitate market linkages, and link educational institutions with private sector demand.
 
-![][1]
+<iframe src="https://player.vimeo.com/video/210491523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ###  Sample Activities
 
@@ -32,5 +32,3 @@ We aim to [improve the quality](http://dai-global-developments.com/articles/the-
 * Build linkages between producers and local supermarkets, take advantage of local trade events, and develop relationships with buyers in new markets.
 * Conduct AVC horticulture assessment and mapping with agrarian university professors and students, and develop hands-on production and post-harvest learning at universities.
 * [Introduce new ICT tools](https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html?utm_source=daidotcom) to help facilitate learning.
-
-[1]: https://assetify-dai.com/projects/Uzbek-AVC.jpeg
