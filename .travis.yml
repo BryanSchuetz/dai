@@ -5,7 +5,7 @@ node_js:
   - "0.12"
 language: ruby
 rvm:
-- 2.3.6
+- 2.3.4
 cache:
   bundler: true
   directories:
@@ -16,7 +16,6 @@ script:
   - npm install --save-dev gulp
   - npm install
   - gulp aggregate
-  - bundle install
   - JEKYLL_ENV=prod bundle exec jekyll build
 
 before_deploy:
