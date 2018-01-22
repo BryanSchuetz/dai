@@ -10,6 +10,6 @@ summary: Sani leads delivery of DAI’s global projects, as well as those in Eur
   and medical device design, manufacturing, and marketing.
 image: https://assetify-dai.com/contacts/sani-daher.jpg
 group: Business Management
-sort-order: 3
+sort-order: 4
 ---
 

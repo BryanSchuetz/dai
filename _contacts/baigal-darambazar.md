@@ -11,6 +11,6 @@ summary: 'Baigal leads the Contracts and Procurement office, which provides supp
   in project management, as well as in federal government contracts and grants management. '
 image: https://assetify-dai.com/contacts/baigal-darambazar.jpg
 group: Business Management
-sort-order: 4
+sort-order: 5
 ---
 
