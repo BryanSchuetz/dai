@@ -12,6 +12,6 @@ summary: Paola heads new business development for Latin America, the Caribbean, 
   partnerships.
 image: "/uploads/Lang,%20Paola%20--%2050--jpg.jpg"
 group: Business Management
-sort-order: 9
+sort-order: 8
 ---
 
