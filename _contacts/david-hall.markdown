@@ -11,5 +11,6 @@ summary: David Hall leads the company’s business development efforts in sub-Sa
   space, and held technical and project management positions in DAI’s Governance sector.
 image: "/uploads/Hall,%20David%20(2%20x%202%20in.%20300%20dpi).jpg"
 group: Business Management
+sort-order: 4
 ---
 
