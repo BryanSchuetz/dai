@@ -8,6 +8,6 @@ summary: Dan manages a seven-person team and oversees all business development f
   management, resource allocation, and proposal execution.
 image: "/uploads/charette.jpg"
 group: Business Management
-sort-order: 6
+sort-order: 3
 ---
 
