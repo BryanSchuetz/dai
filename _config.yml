@@ -154,6 +154,8 @@ exclude:
 - vendor
 - node_modules
 - build
+- Gemfile
+- Gemflie.lock
 - browser-sync.js
 - gulpfile.js
 - package.json
