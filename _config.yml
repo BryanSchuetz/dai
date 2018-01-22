@@ -156,7 +156,6 @@ exclude:
 - build
 - browser-sync.js
 - gulpfile.js
-- deploy.sh
 - package.json
 sass:
   sass_dir: assets/_sass
