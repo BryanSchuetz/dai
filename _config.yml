@@ -189,9 +189,9 @@ algolia:
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
   settings:
     attributeForDistinct: url
-    attributesToHighlight:
-    highlightPreTag:  '<span class="algolia__result-highlight">'
-    highlightPostTag: '</span>'
+    attributesToHighlight: 
+    highlightPreTag: <span class="algolia__result-highlight">
+    highlightPostTag: "</span>"
     attributesToRetrieve:
     - excerpt_text
     - title
