@@ -155,6 +155,10 @@ exclude:
 - node_modules
 - build
 - browser-sync.js
+- Gemfile
+- Gemfile.lock
+- gulpfile.js
+- package.json
 sass:
   sass_dir: assets/_sass
   style: compressed
