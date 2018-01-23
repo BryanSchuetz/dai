@@ -157,8 +157,6 @@ exclude:
 - Gemfile
 - Gemflie.lock
 - browser-sync.js
-- gulpfile.js
-- package.json
 sass:
   sass_dir: assets/_sass
   style: compressed
@@ -174,6 +172,7 @@ whitelist:
 - jekyll-redirect-from
 - jekyll-sitemap
 - github-pages
+- jekyll-algolia 
 algolia:
   application_id: R7MRY12BR6
   index_name: dai
@@ -188,6 +187,10 @@ algolia:
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
   settings:
     attributeForDistinct: URL
+    attributesToRetrieve:
+      - excerpt_text
+      - title
+      - url
     searchableAttributes:
     - title
     - h1
@@ -196,9 +199,6 @@ algolia:
     - excerpt_text
     - tags
     attributesForFaceting:
-    - tags
-    - type
-    - title
     - layout
     - solutions
     hitsPerPage: 20
