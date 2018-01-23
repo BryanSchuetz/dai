@@ -7,7 +7,7 @@ summary: The award-winning More Mobilising Access to Maternal Health Services in
   newborn health services.
 start: 2014
 end: 2016
-client: Transaid
+client: Comic Relief
 solutions:
 - Health
 regions: Sub-Saharan Africa
