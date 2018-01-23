@@ -174,7 +174,6 @@ whitelist:
 algolia:
   application_id: R7MRY12BR6
   index_name: dai
-  api_key: d1120adeb29325920bdc9208386228ba
   files_to_exclude:
   - view-more-articles.md
   - view-more-news.md
