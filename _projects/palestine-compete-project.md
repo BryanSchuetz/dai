@@ -25,29 +25,18 @@ DAI is helping key Palestinian sectors compete in regional and global markets. T
 ### Sample Activities
 
 * Develop new value chains for export by addressing key impediments and utilizing piloting, scalability programs, new technologies, and marketing.
-
 * Identify and access more water for irrigation, including treated wastewater and well water.
-
-* Increase capacity and production quality of onshore fish farms.
-
+* Increase capacity and production quality of [onshore fish farms](http://dai-global-developments.com/articles/dreams-come-true-as-onshore-fish-farms-emerge-in-gaza/).
 * Develop export markets for ICT firms with new products and enhanced business models.
-
 * Develop the decorative stone sector, including with environmentally friendly solutions.
-
 * Create youth apprenticeship and internship programs, including SAP consultant training.
-
 * Assist Gazan garment companies to relink with their historic markets.
 
 ### Select Results
 
 * [Improved the competitiveness](https://www.usaid.gov/node/173546) of more than 730 firms, co-ops, associations, and farms, nearly 200 of which are in Gaza.
-
 * Assisted firms to reach exports of $135 million.
-
 * Helped create 2,400 jobs.
-
 * Leveraged $81.1 million in private sector investments.
-
-* Facilitated new agricultural technologies now used in more than 2,300 hectares in the West Bank and Gaza.
-
+* Facilitated new [agricultural technologies](https://stories.usaid.gov/the-strawberry-king/) now used in more than 2,300 hectares in the West Bank and Gaza.
 * Assisted 16 historic sites to expand product offerings and enhance visitors' experience.
