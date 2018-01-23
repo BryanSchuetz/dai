@@ -22,6 +22,8 @@ Rural communities were empowered to increase maternal newborn health awareness, 
 
 Building on the successes of the predecessor programme, [Moblising Access to Maternal Health Services](https://www.dai.com/our-work/projects/zambia-moblising-access-to-maternal-health-services-mamaz), MORE MAMaZ increased the population coverage of community engagement activities to between 61 percent and 94 percent over the programme’s lifetime. A national scale-up component supported the roll-out of the MORE MAMaZ approach to a further 15 districts. 
 
+The programme was implemented in support of the Comic Relief Maanda Initiative theme of improved health for women aged 15-49 and children under 5. The programme was implemented by Transaid, Health Partners International, Development Data, and Disacare in partnership with the Ministry of Health and District Health Teams.
+
 ### Sample Activities
 
 * Increase population coverage from first programme.
