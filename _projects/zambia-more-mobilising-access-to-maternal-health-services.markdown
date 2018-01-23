@@ -7,7 +7,7 @@ summary: The award-winning More Mobilising Access to Maternal Health Services in
   newborn health services.
 start: 2014
 end: 2016
-client: Transaid
+client: Comic Relief
 solutions:
 - Health
 regions: Sub-Saharan Africa
@@ -21,6 +21,8 @@ The programme achieved transformational change for women and girls, particularly
 Rural communities were empowered to increase maternal newborn health awareness, address access and affordability barriers, and tackle underlying social problems that contribute to negative health outcomes, such as gender-based violence. The approach strengthened existing structures, namely community-based Safe Motherhood Action Groups (SMAGs). Complementary, targeted supply-side inputs were provided. 
 
 Building on the successes of the predecessor programme, [Moblising Access to Maternal Health Services](https://www.dai.com/our-work/projects/zambia-moblising-access-to-maternal-health-services-mamaz), MORE MAMaZ increased the population coverage of community engagement activities to between 61 percent and 94 percent over the programme’s lifetime. A national scale-up component supported the roll-out of the MORE MAMaZ approach to a further 15 districts. 
+
+The programme was implemented in support of the Comic Relief Maanda Initiative theme of improved health for women aged 15-49 and children under 5. The programme was implemented by Transaid, Health Partners International, Development Data, and Disacare in partnership with the Ministry of Health and District Health Teams.
 
 ### Sample Activities
 

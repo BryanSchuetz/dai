@@ -17,8 +17,8 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Security and Justice
 - Fragile States
-- Peace-Building and Political Transition
-- Stabilization
+- Health
+- 
 regions: Worldwide
 country: Worldwide
 promos:

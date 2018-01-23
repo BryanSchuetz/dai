@@ -1,11 +1,10 @@
 ---
 title: Honduras—Asegurando la Educación (Securing Education)
 date: 2017-04-20 18:11:00 Z
-summary: To address the complex nature of violence in and around schools in Honduras,Asegurando
-  la Educación  works across multiple levels; improving schools’ ability to prevent
-  violence; strengthening local networks that increase school safety; and building
-  the capacity of the Ministry of Education and social service agencies to respond
-  to school-based violence.
+summary: 'Asegurando la Educación works to improve schools’ ability to prevent violence,
+  strengthening local networks that increase school safety, and building the capacity
+  of the Ministry of Education and social service agencies to respond to school-based
+  violence in Honduras. '
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
@@ -24,14 +23,10 @@ The Asegurando la Educación (Securing Education) program, funded by the U.S. Ag
 
 To address the complex nature of violence in and around schools, Asegurando la Educación works across multiple levels: improving schools’ ability to prevent violence; strengthening local networks that increase school safety; and building the capacity of the Ministry of Education and social service agencies to respond to school-based violence. By taking a comprehensive, adaptive approach that involves teachers, students, administrators, community members, and policymakers, the program works to enhance education and job opportunities for youth, while increasing peace and security in communities.
 
-**Sample Activities**
+### Sample Activities
 
 * Assist teachers and administrators to integrate locally tailored violence-prevention techniques into curriculum development, teacher training, and after-school activities.
-
 * Provide grants and technical assistance to schools, community organizations, and social service partners to pilot customized prevention services.
-
 * Support the strengthening of referral mechanisms and integration of social services for child protection cases related to drug abuse, psychological support, and domestic violence.
-
 * Collaborate with the Ministry of Education to develop and implement protocols to help school staff address and mitigate violence.
-
 * Train schools and education centers on applying screening models to identify high-risk youth for early intervention and additional support.

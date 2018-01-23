@@ -4,12 +4,12 @@ date: 2018-01-18 18:40:00 Z
 summary: 'Montrose International and Health Partners International, a DAI Global Health
   firm, implemented multiple studies to assess the costs and benefits of Results-Based
   Financing relative to Input-Based Financing in Northern Uganda. '
-start: 2012
-end: 2014
+start: 2011
+end: 2015
 client: U.K. Department for International Development
 solutions:
 - Health
-- Health Governance
+- Nutrition and Food Security
 regions: Sub-Saharan Africa
 country: Uganda
 ---

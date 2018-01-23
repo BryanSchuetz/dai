@@ -9,7 +9,8 @@ summary: Covering a population of approximately 19 million in four states of Nor
   interventions.
 start: 2006
 end: 2014
-client: U.K. Department for International Development
+client: U.K. Department for International Development, State Department of the Norwegian
+  Government
 solutions:
 - Health Governance
 - Health
