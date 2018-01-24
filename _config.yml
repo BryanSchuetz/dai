@@ -92,6 +92,7 @@ defaults:
     summary: 
     layout: node
     social-image: 
+    secret: true
 - scope:
     path: ''
     type: members
