@@ -21,6 +21,8 @@ Agriculture is crucial to the economic and social development of Zimbabwe, provi
 
 The Technical Assistance to the Zimbabwe Agriculture Growth Programme (ZAGP), funded by the European Commission (EC), is working to address these weaknesses and gaps in livestock value chains. The programme takes innovative approaches to strengthening local institutions and building capacity across the livestock sector, specifically in the beef, dairy, and poultry value chains. In addition, the ZGAP technical assistance team promotes policies and regulations that improve the ability of Zimbabwe’s livestock sector to provide viable livelihoods to poor and vulnerable populations.
 
+![cow.jpg](/uploads/cow.jpg)
+
 ### Sample Activities
 * Provide training in environmentally sustainable agricultural practices to improve animal production and increase income for smallholder farmers.
 * Support public-private partnership engagement to promote regulatory reforms that increase agribusiness competitiveness.
