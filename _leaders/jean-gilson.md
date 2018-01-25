@@ -1,7 +1,7 @@
 ---
 title: Jean Gilson
 date: 2016-01-21 22:18:00 Z
-job-title: Senior Vice President, Strategy and Information Technology Group
+job-title: 'Senior Vice President, Global Strategy '
 summary: Jean leads the firm’s work on strategy, market analysis, external relations,
   and communications.
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
