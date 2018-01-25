@@ -1,7 +1,7 @@
 ---
 title: New Secret News Item
 date: 2018-01-25 15:13:00 Z
-permalink: '"/secret/news/new-secret-news-item"'
+permalink: '"secret/news/new-secret-news-item"'
 secret: true
 ---
 
