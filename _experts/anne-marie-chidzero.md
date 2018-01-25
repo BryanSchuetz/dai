@@ -1,20 +1,21 @@
 ---
 title: Anne-Marie Chidzero
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Chidzero
-regions:
-- Sub-Saharan Africa
-solutions:
-- Economic Growth
-- Financial Services
-layout: expert
-image: https://assetify-dai.com/experts/chidzero_inner.jpg
 summary: 'Anne-Marie Chidzero has more than 20 years of experience in private sector
   development, specifically in the financial sector, microfinance, and small and medium
   enterprise development throughout Africa.
 
 '
 job-title: Team Leader, Mozambique Financial Sector Deepening
+image: https://assetify-dai.com/experts/chidzero_inner.jpg
+solutions:
+- Economic Growth
+- Financial Services
+regions:
+- Sub-Saharan Africa
+layout: expert
 ---
 
 Anne-Marie Chidzero has more than 20 years of experience in private sector development, specifically in the financial sector, microfinance, and small and medium enterprise development throughout Africa. She is currently the Team Leader for FSDMoç, a $20 million financial sector inclusion project in Mozambique, and also CEO of AfriCap Microfinance Investment Company, a $42 million private equity fund for microfinance in Africa, which is concluding the final exits to close the fund at the end of the year. Additionally, she is an Advisor of Avanz Capital, as well as the Chair of the New Faces, New Voices network of African Women in Finance that is spearheading in collaboration with the African Development Bank, women's financial inclusion on the continent.
