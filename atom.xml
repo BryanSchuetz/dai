@@ -9,12 +9,14 @@
   <description>DAI News RSS Feed</description>
   <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
    {% for post in site.news %}
+   {% unless post.secret == true %}
    <item>
      <title>{{ post.title | xml_escape }}</title>
      <link>{{site.url}}{{post.url}}</link>
      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
      <description>{{ post.excerpt | xml_escape | strip_html }}</description>
    </item>
+   {% endunless %}
    {% endfor %}
 </channel>
 </rss>

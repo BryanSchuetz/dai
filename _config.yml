@@ -92,7 +92,7 @@ defaults:
     summary: 
     layout: node
     social-image: 
-    secret: true
+    secret: false
 - scope:
     path: ''
     type: members
@@ -188,6 +188,7 @@ algolia:
   - who-we-are/leadership.md
   - project-login.md
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
+  - secret/*
   settings:
     attributeForDistinct: url
     attributesToHighlight: 

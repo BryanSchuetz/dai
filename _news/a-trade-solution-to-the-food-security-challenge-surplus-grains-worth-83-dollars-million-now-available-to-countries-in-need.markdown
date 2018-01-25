@@ -12,6 +12,7 @@ clients: U.S. Agency for International Development
 summary: 'A food security milestone was achieved this month with the signing of contracts
   to sell 279,000 metric tons of food grains from areas of surplus in East Africa
   to areas of need. '
+secret: false
 ---
 
 A food security milestone was achieved this month with the signing of contracts to sell 279,000 metric tons of food grains from areas of surplus in East Africa to areas of need. The 58 contracts to sell staple crops from Ethiopia to its drought-stricken neighbors were executed at the first multilateral grain trade facilitation forum in Addis Ababa, Ethiopia. The sales totaled US$93.1 million and included deals for maize, beans, soya, chick pea, sorghum, millet, rice, and sesame.
