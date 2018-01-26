@@ -18,7 +18,7 @@ country:
 layout: project
 ---
 
-Utilizing the making markets work for the poor (M4P) approach, [FSDZ][1] works to affect systemic change and facilitate linkages and coordination among consumers, financial service providers, government, and other key market actors in Zambia. FSDZ will contribute to an increase in the expansion of income opportunities or a reduction in vulnerability of 138,750 poor households and micro, small, and medium-sized businesses. By 2018, it will enable access to financial services for 300,000 additional people and microenterprises, 50,000 smallholder farmers and 12,000 small enterprises.
+Utilizing the making markets work for the poor (M4P) approach, [FSDZ][1] worked to affect systemic change and facilitate linkages and coordination among consumers, financial service providers, government, and other key market actors in Zambia. FSDZ contributed to an increase in the expansion of income opportunities or a reduction in vulnerability of 138,750 poor households and micro, small, and medium-sized businesses. 
 
 ![][2]
 
