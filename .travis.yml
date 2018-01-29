@@ -16,7 +16,7 @@ script:
   - npm install --save-dev gulp
   - npm install
   - gulp aggregate
-  - bundle exec jekyll algolia
+  - bundle exec jekyll algolia --config _config_prod.yml
   - JEKYLL_ENV=prod bundle exec jekyll build --config _config_prod.yml
 
 before_deploy:
