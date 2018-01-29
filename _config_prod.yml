@@ -159,7 +159,6 @@ exclude:
 - Gemfile.lock
 - gulpfile.js
 - package.json
-unpublished: true
 sass:
   sass_dir: assets/_sass
   style: compressed

@@ -15,7 +15,6 @@
       {% assign featured_news = site.news | where:"is_featured","true" %}
       {% assign sorted_feature = featured_news | sort: 'date' | reverse %}
       {% for article in sorted_feature %}
-      {% unless article.secret == true %}
       <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
       {{ article.excerpt | markdownify}} 
       <!-- <h3>Women in Development: An Inside View</h3>
@@ -24,7 +23,6 @@
 
       <!-- <a href="{{ article.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>  -->
       {% break %}   
-      {% endunless %} 
       {% endfor %}
     </div>
   </div>

@@ -66,7 +66,6 @@
   {% endif %}
 {% comment %} Loop through all the items {% endcomment %}
   {% for article in shuffled_articles %}
-  {% unless article.secret == true %}
 {% comment %} Loop through all the solutions for each item {% endcomment %}
     {% for solution in article.solutions %}
 {% comment %} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {% endcomment %}
@@ -90,7 +89,6 @@
       {% endif %}
 
     {% endfor %}
-    {% endunless %}
   {% endfor %}
 
   {% unless found == 'found' %}
