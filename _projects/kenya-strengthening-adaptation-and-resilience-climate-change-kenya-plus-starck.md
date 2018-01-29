@@ -35,7 +35,7 @@ StARCK\+ follows on from the original StARCK programme (2011–2013), which supp
 ### Select Results
 
 * Helped draft Kenya’s Climate Change Act in 2016.
-* Supported 15,000 people to cope with climate change through the adoption of climate smart agricultural practices, with more than 20,000 farmers additionally supported through access to downscaled weather and climate information services.
+* Supported 15,000 people to cope with climate change through the adoption of [climate smart](https://www.dai.com/news/dais-starck-plus-holds-climate-resilient-agriculture-event-in-kenya) agricultural practices, with more than 20,000 farmers additionally supported through access to downscaled weather and climate information services.
 * Provided 66,655 people with access to cleaner energy through fuel efficient and cleaner fuel cookstoves, saving the equivalent of 40,000 tonnes of carbon dioxide.
 * Awarded FICCF grants to the UN, Kenya Association of Manufacturers, and the ClimateCare carbon offset company.
 * Facilitated innovative coordination between MFIs, climate specialists, and agricultural supply chain actors resulting in groundbreaking, systemic shifts in agriculture production. Examples include increased uptake of climate resilient crops such as [sorghum](https://www.dai.com/news/dfid-project-trials-sorghum-insurance-to-support-climate-resilient-farming-in-kenya) and cassava, diversified income generation such as utilizing indigenous chicken, and production improvements in dairy and crops that reduce net emissions whilst increasing productivity.
