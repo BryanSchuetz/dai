@@ -20,7 +20,7 @@ The FICCF is managed by the U.K. Department for International Development's [Str
 The FICCF insurance package includes:
 
 * Weather index coverage to pay out in the event of drought during the development of the sorghum plant or harmfully heavy rainfall as the harvest approaches; and 
-* Multi-peril" coverage to address the risk from birds, [armyworm](https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html), and other threats. 
+* "Multi-peril" coverage to address the risk from birds, [armyworm](https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html), and other threats. 
 
 Of the 2,000 or so sorghum farmers currently working with StARCK+, 156 were willing to take out the policy through APA insurance during their first season. They insured the crop for its full output value and paid a premium equivalent to 10 percent of that value. In the pilot, participating farmers paid 50 percent of the policy premium and FICCF paid the other 50 percent. Of the 156 participants, 55 received compensation for crop losses.
 
