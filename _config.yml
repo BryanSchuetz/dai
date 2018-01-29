@@ -159,7 +159,6 @@ exclude:
 - Gemfile.lock
 - gulpfile.js
 - package.json
-unpublished: true
 sass:
   sass_dir: assets/_sass
   style: compressed
@@ -188,7 +187,6 @@ algolia:
   - who-we-are/leadership.md
   - project-login.md
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
-  - news/secret-*.html
   settings:
     attributeForDistinct: url
     attributesToHighlight: 

@@ -17,7 +17,7 @@ script:
   - npm install
   - gulp aggregate
   - bundle exec jekyll algolia
-  - JEKYLL_ENV=prod bundle exec jekyll build --config _config_prod.yml
+  - JEKYLL_ENV=prod bundle exec jekyll build
 
 before_deploy:
   - chmod +x deploy.sh
