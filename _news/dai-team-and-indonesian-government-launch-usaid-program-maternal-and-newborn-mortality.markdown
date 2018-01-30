@@ -9,9 +9,10 @@ solutions:
 regions: Asia and the Pacific
 projects: Indonesia—Jalin
 clients: U.S. Agency for International Development
-summary: DAI, IntraHealth International, and our partners have launched a five-year
-  program bringing together Indonesia’s public and private sectors with local communities
-  to co-create strategies that will reduce death rates among mothers and their newborns.
+summary: 'DAI, IntraHealth International, and our partners have launched Jalin—a five-year
+  program that shifts USAID’s support as a development partner from funding the implementation
+  of interventions to facilitating and catalyzing improvements in maternal and newborn
+  health. '
 social-image: "/uploads/DAI-News----Jalin-pic.jpg"
 ---
 
@@ -45,4 +46,4 @@ DAI’s expatriate and local national staff—many of whom have worked in Indone
 
 In Indonesia DAI is also currently implementing [Adaptasi Perubahan Iklim dan Ketangguhan](https://www.dai.com/our-work/projects/indonesia-apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption) (or Climate Change Adaption and Resilience), the [Mitra Kunci Initiative](https://www.dai.com/our-work/projects/indonesia-mitra-kunci-initiative) workforce development program, the [ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable), and the [Preparedness and Response Project](https://www.dai.com/our-work/projects/worldwide-preparedness-and-response-pr).
 
-DAI’s interdisciplinary consortium brings to Jalin rich experience and fresh perspectives. IntraHealth will deliver technical health system and services leadership using data-driven approaches such as those it has applied to improve maternal and newborn health care by frontline health workers in India and strengthen the medical referral system in the West Bank. Vital Strategies will research vital statistics to inform Jalin activities, as it currently does with Indonesia's Ministry of Health through the Bloomberg Data for Health initiative. MarketShare Associates will ensure gender integration and provide additional assistance in targeting the most vulnerable populations.
+DAI’s interdisciplinary consortium brings to Jalin rich experience and fresh perspectives. IntraHealth will deliver technical health system and services leadership using data-driven approaches such as those it has applied to improve maternal and newborn health care by frontline health workers in [India](https://www.intrahealth.org/vital/walk-through-maternal-health-care-rural-india-msakhi#.V_UwHvkrKCi) and strengthen the medical referral system in the [West Bank](https://www.intrahealth.org/news/a-better-medical-referral-system-leads-to-huge-cost-savings-for-the-palestinian-people-). Vital Strategies will research vital statistics to inform Jalin activities, as it currently does with Indonesia’s Ministry of Health through the Bloomberg Data for Health initiative. MarketShare Associates will ensure gender integration and provide additional assistance in targeting the most vulnerable populations.
