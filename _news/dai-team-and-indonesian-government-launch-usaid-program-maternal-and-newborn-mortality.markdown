@@ -17,13 +17,13 @@ social-image: "/uploads/DAI-News----Jalin-pic.jpg"
 
 Indonesia’s maternal and newborn mortality rates remain stubbornly higher than in neighboring countries-this despite Indonesia’s fast-rising economic power and substantial development in the past 15 years, according to the World Health Organization and National Institutes of Health. Approximately 90,000 newborns or new mothers die each year in Indonesia. In response, DAI, IntraHealth International, and our partners have launched Jalin—a five-year program that shifts the U.S. Agency for International Development (USAID)’s support as a development partner from funding the implementation of interventions to facilitating and catalyzing improvements in maternal and newborn health. 
 
+![DAI-News----Jalin-pic.jpg](/uploads/DAI-News----Jalin-pic.jpg)`Bidan Tatik, a midwife in Donomulyo Village, East Java, Indonesia on a house call to check a newborn in her village. Photo: Syane Luntungan, USAID/Indonesia.`
+
 <!--more-->
 
 [The Jalin project](https://www.dai.com/our-work/projects/indonesia-jalin) will target West Java, Central Java, East Java, Banten, North Sumatra, and South Sulawesi-Indonesia’s most populous provinces-as well as communities in Eastern Indonesia. Led by Chief of Party Michelle Folsom, the Jalin team—in cooperation with Indonesia’s Ministry of Health-will facilitate and support partnerships across a variety of stakeholders to catalyze local solutions; leverage public and private financing; and increase the pace at which good quality local evidence is made widely available and utilized. Jalin will use co-creation processes to identify, incubate, and implement localized solutions to address barriers and enhance opportunities to improve maternal and newborn survival rates, and focus on strengthening domestic resource mobilization to direct funds toward locally developed solutions.  
 
 “This is a unique assistance program. Jalin, which means intertwined in Bahasa Indonesia, is all about partnerships and will bring together diverse public and private sector stakeholders to co-define, co-create, and co-finance sustainable and scalable local solutions to improve maternal and newborn health outcomes,” said Folsom.
-
-![DAI-News----Jalin-pic.jpg](/uploads/DAI-News----Jalin-pic.jpg)`Bidan Tatik, a midwife in Donomulyo Village, East Java, Indonesia on a house call to check a newborn in her village. Photo: Syane Luntungan, USAID/Indonesia.`
 
 DAI’s Jalin consortium, based in Jakarta, includes:
 
