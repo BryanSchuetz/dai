@@ -2,7 +2,6 @@
 title: DAI Team and Indonesian Government Launch USAID Program to Spur Reductions
   in Maternal and Newborn Mortality
 date: 2018-01-09 18:48:00 Z
-published: false
 is_featured: true
 solutions:
 - Health
