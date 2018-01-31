@@ -39,3 +39,7 @@ Nexos Locales will also increase the capacity of the National Association of Mun
 * Develop sound public financial systems to promote transparency and permit participation by citizens in decision-making.
 * Strengthen [civil society participation](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) in social accountability processes.
 * Establish and implement local development plans to improve food security and economic development.
+
+###  Select Results
+
+* 
