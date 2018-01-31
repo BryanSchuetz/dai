@@ -42,7 +42,7 @@ Nexos Locales will also increase the capacity of the National Association of Mun
 
 ###  Select Results
 
-* Supported the municipality of Chiantla, Huehuetenango, with the development, launch, and end-user evaluation of a new Smartphone Transparency Application named [#SomosChiantla](https://dai-global-digital.com/governance-app-guatemala.html) to provide citizens with a user-friendly interface for finding information about local government public expenditures.
+* Supported the municipality of Chiantla, Huehuetenango, with the development, launch, and end-user evaluation of a smartphone transparency app called [#SomosChiantla](https://dai-global-digital.com/governance-app-guatemala.html) to provide citizens with a user-friendly interface for finding information about local government public expenditures.
 * Assisted with the design and launch of two Citizen Charters, a social accountability tool which formalizes the mutual responsibilities between citizen end-users and the municipality in providing public services. This tool first debuted in the municipality of San Miguel Ixtahuacán, San Marcos, which organized the public water system and increased the collection of water fees by more than 100 percent.  
 * Improved water quality and service provision in the Western Highlands through the creation and establishment of 17 Municipal Water and Sanitation Offices.  
 * Worked with Municipal Administrative Financial Directorates to pass along valuable know-how on increasing own-source revenue. By the end of 2017, 76 percent of the project’s municipalities increased their average monthly own-source revenue by 19 percent. 
