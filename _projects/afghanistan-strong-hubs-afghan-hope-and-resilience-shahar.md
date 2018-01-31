@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities
   capable of meeting the needs of growing urban populations.
 start: 2014
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management
