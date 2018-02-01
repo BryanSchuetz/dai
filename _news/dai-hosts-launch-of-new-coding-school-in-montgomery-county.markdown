@@ -15,7 +15,7 @@ Code Partners, a new coding academy based in Montgomery County, Maryland, held i
 
 DAI and [United Solutions](http://www.unitedsolutions.biz/Portal/WebPage.html?objectID=27669&referenceID=27669&referenceType=Object) co-founded Code Partners to help develop the technical skills of the local workforce and make Maryland a new center of innovation in the country.
 
-“Code Partners will be a talent resource for the private sector and government in the county and the region,” said Doug McLean, Vice President for Partnerships at DAI. David Nguyen, founder and CEO of United Solutions added, “Our goal is to change the face of coding by building a diversified group of programmers committed to innovation.”
+“Code Partners will be a talent resource for the private sector and government in the county and the region,” said [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean), Vice President for Partnerships at DAI. David Nguyen, founder and CEO of United Solutions added, “Our goal is to change the face of coding by building a diversified group of programmers committed to innovation.”
 
 Mitch Robertson, Vice President of Code Fellows, traveled from Seattle for the event and provided the keynote address to the audience of local businesses and DAI leadership.
 
