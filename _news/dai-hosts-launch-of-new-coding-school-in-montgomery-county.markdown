@@ -17,9 +17,9 @@ DAI and [United Solutions](http://www.unitedsolutions.biz/Portal/WebPage.html?ob
 
 “Code Partners will be a talent resource for the private sector and government in the county and the region,” said [Doug McLean](https://www.dai.com/who-we-are/our-team/doug-mclean), Vice President for Partnerships at DAI. David Nguyen, founder and CEO of United Solutions added, “Our goal is to change the face of coding by building a diversified group of programmers committed to innovation.”
 
-Mitch Robertson, Vice President of Code Fellows, traveled from Seattle for the event and provided the keynote address to the audience of local businesses and DAI leadership.
+Mitch Robertson, Vice President of Code Fellows, traveled from Seattle for the event and provided the keynote address to the audience of local businesses and DAI and United leadership.
 
-“Never before in history have we had something like coding, where you can take advantage of quality job opportunities no matter where you live and no matter who you are, and Code Fellows is excited to be a part of that movement,” said Robertson. “When we first met, it was apparent how in line DAI and United Solutions were with what we do, their entrepreneurial spirit was a big part of making Code Partners happen.”
+"We stand at a revolutionary moment in time. Through the power of code education, we are able to offer the skills that allow anyone to find rewarding careers in technology regardless of race, gender, geography, or socioeconomic status, and Code Fellows is excited to be a part of this movement,” said Robertson. “When I first connected with the teams at DAI and United Solutions it was clear that our missions and visions were aligned. I knew we had to find a way to partner together and their entrepreneurial spirit was a big part of making Code Partners happen.”
 
 Robertson also highlighted Code Fellows’ success in linking graduates to jobs at Amazon in Seattle. Montgomery county recently made the shortlist for Amazon’s second headquarters.
 
