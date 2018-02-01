@@ -10,7 +10,7 @@ summary: Code Partners, a new coding academy based in Montgomery County, Marylan
 
 Code Partners, a new coding academy based in Montgomery County, Maryland, held its official launch event at DAI headquarters this week. The academy is designed to train the next generation of software and web developers to meet the hiring needs of local business and organizations. Based on the nationally recognized curriculum developed by [Code Fellows](https://www.codefellows.org/) in Seattle, Code Partners will teach motivated students to become full-stack web or software developers in 20 weeks. After completing the curriculum, 95 percent of students have been hired within six months.
 
-![Code_Partners_3.jpg](/uploads/Code_Partners_3.jpg)
+![Code_Partners_3.jpg](/uploads/Code_Partners_3.jpg)`Bobby Jefferson, from left, Vice President and Chief Technology Officer, DAI Global Health; David Nguyen, founder and CEO of United Solutions; Doug McLean, Vice President for Partnerships at DAI; and Jean Gilson, Senior Vice President of Marketing and IT, at the Code Partners launch event.`
 
 DAI and [United Solutions](http://www.unitedsolutions.biz/Portal/WebPage.html?objectID=27669&referenceID=27669&referenceType=Object) co-founded Code Partners to help develop the technical skills of the local workforce and make Maryland a new center of innovation in the country.
 
