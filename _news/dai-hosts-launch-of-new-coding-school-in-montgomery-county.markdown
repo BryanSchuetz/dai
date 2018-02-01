@@ -24,4 +24,4 @@ Robertson also highlighted Code Fellows’ success in linking graduates to jobs 
 
 Code Partners will offer classes for students with a range of coding experience, and accommodates both new entrants to the workforce as well as career changers. Initial courses cover HTML, CSS, and JavaScript, with advanced courses planned for Python and ASP.NET. Code Partners will hold its first Code 101: Intro to Software Development & Careers in Tech courses on [February 24](https://www.eventbrite.com/e/code-101-intro-to-software-development-careers-in-tech-tickets-42538303210?aff=dainews) and [March 10](https://www.eventbrite.com/e/code-101-intro-to-software-development-careers-in-tech-tickets-42718463073?aff=dainews) at DAI offices in Bethesda.
 
-![Code_Partners_4.jpg](/uploads/Code_Partners_4.jpg)
+![Code_Partners_4.jpg](/uploads/Code_Partners_4.jpg)`Bobby Jefferson, also a board member for Code Partners, speaking about the positive impact that learning to code has had on his career.`
