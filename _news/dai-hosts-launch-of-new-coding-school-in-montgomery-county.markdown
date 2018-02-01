@@ -1,7 +1,6 @@
 ---
 title: DAI Hosts Launch of New Coding School in Montgomery County
 date: 2018-02-01 16:17:00 Z
-published: false
 summary: Code Partners, a new coding academy based in Montgomery County, Maryland,
   held its official launch event at DAI headquarters. DAI and United Solutions co-founded
   Code Partners to help develop the technical skills of the local workforce and make
