@@ -19,7 +19,7 @@ DAI and [United Solutions](http://www.unitedsolutions.biz/Portal/WebPage.html?ob
 
 Mitch Robertson, Vice President of Code Fellows, traveled from Seattle for the event and provided the keynote address to the audience of local businesses and DAI leadership.
 
-“Never before in history have we had something like coding, where you can take advantage of quality job opportunities no matter where you live and no matter who you are, and Code Fellows is excited to be a part of that movement,” said Robertson. “When we first met, it was apparent how in line DAI was with what we do, their entrepreneurial spirit was a big part of making Code Partners happen.”
+“Never before in history have we had something like coding, where you can take advantage of quality job opportunities no matter where you live and no matter who you are, and Code Fellows is excited to be a part of that movement,” said Robertson. “When we first met, it was apparent how in line DAI and United Solutions were with what we do, their entrepreneurial spirit was a big part of making Code Partners happen.”
 
 Robertson also highlighted Code Fellows’ success in linking graduates to jobs at Amazon in Seattle. Montgomery county recently made the shortlist for Amazon’s second headquarters.
 
