@@ -17,7 +17,7 @@ social-image: "/uploads/DAI-News----Jalin-pic.jpg"
 
 Indonesia’s maternal and newborn mortality rates remain stubbornly higher than in neighboring countries-this despite Indonesia’s fast-rising economic power and substantial development in the past 15 years, according to the World Health Organization and National Institutes of Health. Approximately 90,000 newborns or new mothers die each year in Indonesia. In response, DAI, IntraHealth International, and our partners have launched Jalin—a five-year program that shifts the U.S. Agency for International Development (USAID)’s support as a development partner from funding the implementation of interventions to facilitating and catalyzing improvements in maternal and newborn health. 
 
-![DAI-News----Jalin-pic.jpg](/uploads/DAI-News----Jalin-pic.jpg)`Bidan Tatik, a midwife in Donomulyo Village, East Java, Indonesia on a house call to check a newborn in her village. Photo: Syane Lutgren, Jhpiego.`
+![DAI-News----Jalin-pic.jpg](/uploads/DAI-News----Jalin-pic.jpg)`Bidan Tatik, a midwife in Donomulyo Village, East Java, Indonesia on a house call to check a newborn in her village. Photo: Syane Luntungan, Jhpiego.`
 
 <!--more-->
 
