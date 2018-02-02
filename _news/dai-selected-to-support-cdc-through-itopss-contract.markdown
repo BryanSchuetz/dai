@@ -2,6 +2,10 @@
 title: DAI Selected to Support CDC Through ITOPSS Contract
 date: 2018-02-02 17:08:00 Z
 published: false
+solutions:
+- Health
+regions: Worldwide
+clients: 'Centers for Disease Control and Prevention '
 ---
 
 DAI has been selected as one of five holders of the U.S. Centers for Disease Control and Prevention (CDC)'s International Technical, Operational, and Professional Support Services (ITOPSS) III contract. ITOPSS is a five-year, indefinite delivery/indefinite quantity umbrella contract designed to help the CDC respond to unpredictable global health priorities across a wide range of countries through the rapid selection and deployment of qualified experts. 
