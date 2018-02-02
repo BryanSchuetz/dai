@@ -22,6 +22,9 @@
 /* gallery height */
 .gallery {
   height: 35rem;
+  @include responsive(extra-ultra-wide-screens){
+    height: 40rem;
+  }
 }
 
 /* cell inherit height from gallery */

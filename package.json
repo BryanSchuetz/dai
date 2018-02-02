@@ -1,7 +1,7 @@
 {
   "name": "dai",
-  "version": "3.0.0",
-  "description": "primary corporate website for dai, a global development company",
+  "version": "3.4.0",
+  "description": "Primary corporate website for DAI, a global development company.",
   "main": "gulpfile.js",
   "scripts": {
     "serve": "browser-sync start --config browser-sync.js",
