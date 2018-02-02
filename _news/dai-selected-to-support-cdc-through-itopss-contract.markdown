@@ -1,7 +1,6 @@
 ---
 title: DAI Selected to Support CDC Through ITOPSS Contract
 date: 2018-02-02 17:08:00 Z
-published: false
 solutions:
 - Health
 regions: Worldwide
