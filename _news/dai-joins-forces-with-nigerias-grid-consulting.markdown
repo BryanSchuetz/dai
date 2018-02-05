@@ -1,7 +1,6 @@
 ---
 title: DAI Joins Forces with Nigeria’s GRID Consulting
 date: 2018-02-05 16:56:00 Z
-published: false
 regions: Sub-Saharan Africa
 ---
 
