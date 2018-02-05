@@ -13,7 +13,7 @@ Operationally speaking, the combined entity-complementing DAI’s global resourc
 
 From this integrated platform, supported henceforth by GRID’s team in country, DAI will be better able to recruit, retain, support, and ensure the security of the people who deliver our work in Nigeria, in full compliance with local laws and regulations and with DAI’s global standards. And as we absorb and apply the lessons of our work across clients and sectors, we intend to develop this platform as a resource to our partners, customers, and beneficiaries beyond any specific project—thereby honing our collective ability to deliver development results.
 
-“Nigeria is Africa’s most populous nation and largest economy, a country of almost unimaginable promise,” said GRID Managing Director Ike Osakwe. “But like many emerging nations we face the development challenges that come with industrialization and growth, urbanization and technological change-compounded by problems such as poverty, terrorism, and corruption.” 
+“Nigeria is Africa’s most populous nation and largest economy, a country of almost unimaginable promise,” said GRID Managing Director [Ike Osakwe](http://www.gridconsulting.net/our-team.php). “But like many emerging nations we face the development challenges that come with industrialization and growth, urbanization and technological change-compounded by problems such as poverty, terrorism, and corruption.” 
 
 “As development professionals, we see in Nigeria a fertile opportunity to make an enormous difference in people’s lives,” he added. “We are better placed to seize that opportunity as a member of the DAI family.” 
 
@@ -21,11 +21,11 @@ DAI has a history of work in Nigeria going back to the 1970s, and is currently i
 
 ![Nigeria SPARC 1.jpg](/uploads/Nigeria%20SPARC%201.jpg)
 
-GRID is a partner in most of these initiatives, and all of GRID’s active projects will remain in place, as will existing reporting relationships and points of contact for clients. “Because GRID staff are intimately familiar with DAI’s operations, we anticipate a seamless transition,” said Judith Ogedegbe, GRID’s Executive Director and a human resources management specialist. “We all look forward to exploring the learning and professional development opportunities that come with joining a truly global team.” 
+GRID is a partner in most of these initiatives, and all of GRID’s active projects will remain in place, as will existing reporting relationships and points of contact for clients. “Because GRID staff are intimately familiar with DAI’s operations, we anticipate a seamless transition,” said [Judith Ogedegbe](http://www.gridconsulting.net/our-team.php), GRID’s Executive Director and a human resources management specialist. “We all look forward to exploring the learning and professional development opportunities that come with joining a truly global team.” 
 
 About GRID Consulting
 
-Established in 1986, GRID Consulting has focused for more than 20 years on promoting social and economic development in Nigeria and across Africa. Working with private corporations, national governments, international development agencies, academic institutions, and civil society, GRID has built a reputation for trustworthy stewardship of customer and taxpayer funds and a broad portfolio that now includes more than 800 assignments in Nigeria and beyond.
+Established in 1986, [GRID Consulting](http://www.gridconsulting.net/) has focused for more than 20 years on promoting social and economic development in Nigeria and across Africa. Working with private corporations, national governments, international development agencies, academic institutions, and civil society, GRID has built a reputation for trustworthy stewardship of customer and taxpayer funds and a broad portfolio that now includes more than 800 assignments in Nigeria and beyond.
 
 About DAI
 
