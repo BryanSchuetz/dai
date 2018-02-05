@@ -7,7 +7,7 @@ regions: Sub-Saharan Africa
 
 Bethesda, Md.-DAI and GRID Consulting today announced that GRID, Nigeria’s leading development consultancy, will join the DAI organization effective immediately. A long-time partner of DAI’s, Lagos-based GRID specializes in financial advisory services, human resource management, and development program implementation.
 
-“We are delighted to cement and extend a collaboration that goes back two decades,” said DAI’s Nigeria Country Director Joe Abah, who will lead the newly integrated team. “This investment in Nigeria reflects DAI’s commitment to the country and the region, and significantly enhances our ability to serve clients interested in promoting social and economic development, be they international donors, state and federal governments, or private companies investing in sustainable business.” 
+“We are delighted to cement and extend a collaboration that goes back two decades,” said DAI’s Nigeria Country Director [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), who will lead the newly integrated team. “This investment in Nigeria reflects DAI’s commitment to the country and the region, and significantly enhances our ability to serve clients interested in promoting social and economic development, be they international donors, state and federal governments, or private companies investing in sustainable business.” 
 
 Operationally speaking, the combined entity-complementing DAI’s global resources with GRID’s deep-rooted networks, local insights, and track record of delivery in Nigeria-will be able to more efficiently serve a growing, technically diverse, multiclient portfolio in Nigeria, and to reinvest operational savings in program work and the platform that supports it.
 
