@@ -23,10 +23,10 @@ DAI has a history of work in Nigeria going back to the 1970s, and is currently i
 
 GRID is a partner in most of these initiatives, and all of GRID’s active projects will remain in place, as will existing reporting relationships and points of contact for clients. “Because GRID staff are intimately familiar with DAI’s operations, we anticipate a seamless transition,” said [Judith Ogedegbe](http://www.gridconsulting.net/our-team.php), GRID’s Executive Director and a human resources management specialist. “We all look forward to exploring the learning and professional development opportunities that come with joining a truly global team.” 
 
-About GRID Consulting
+**About GRID Consulting**
 
 Established in 1986, [GRID Consulting](http://www.gridconsulting.net/) has focused for more than 20 years on promoting social and economic development in Nigeria and across Africa. Working with private corporations, national governments, international development agencies, academic institutions, and civil society, GRID has built a reputation for trustworthy stewardship of customer and taxpayer funds and a broad portfolio that now includes more than 800 assignments in Nigeria and beyond.
 
-About DAI
+**About DAI**
 
 Founded in 1970, DAI is a global development company with corporate offices in the United States, the United Kingdom, and Belgium. Named one of the world’s top 40 international development innovators, DAI works on the front lines of international development, tackling fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability. 
