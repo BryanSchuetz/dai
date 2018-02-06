@@ -31,7 +31,7 @@ The Secretariat's mandate includes strategic planning and management, implementi
 
 * Trained the Secretariat on revised procurement policies, supply chain management, and contract administration.
 * Prepared the SADC to work directly with international donors to manage projects.
-* Teamed with SADC directorates to improve evaluation guidelines and build capacity between personnel responsible for monitoring and planning.
+* Teamed with SADC directorates to improve evaluation guidelines and build capacity among personnel responsible for monitoring and planning.
 * Developed program dashboards to track projects and created statistical yearbooks to support data-driven planning.
-* Strengthened legitimacy by enabling the SADC to call out members not fulfilling their obligations.
-* Aligned human resources policies—including job descriptions, hiring standards, and performance reviews—to align them with SADC vision and values.
+* Enabled the SADC to enforce members' obligations.
+* Aligned human resources policies—including job descriptions, hiring standards, and performance reviews—to support the SADC vision and values.
