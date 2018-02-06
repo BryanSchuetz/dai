@@ -26,3 +26,12 @@ The Secretariat's mandate includes strategic planning and management, implementi
 * Implement and institutionalise executive-led change management of all directorates and units, including collecting baseline information/data on organisational health, and developing a roadmap for change management and dashboard for programme monitoring and decision making.
 * Strengthen capacity of the Secretariat to manage programmes and associated implementation instruments.
 * Assure compliance of structures and systems with internationally accepted practices in accounting, procurement, audit, and human resources management and administration.
+
+###  Select Results
+
+* Trained the Secretariat on revised procurement policies, supply chain management, and contract administration;
+* Prepared the SADC to work directly with international donors to manage projects;
+* Teamed with SADC directorates to improve evaluation guidelines and build capacity between personnel responsible for monitoring and planning;
+* Developed program dashboards to track projects and created statistical yearbooks to support data-driven planning;
+* Strengthened legitimacy by enabling the SADC to call out members not fulfilling their obligations;
+* Aligned human resources policies—including job descriptions, hiring standards, and performance reviews—to align them with SADC vision and values.
