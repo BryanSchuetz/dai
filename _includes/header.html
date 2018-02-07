@@ -28,7 +28,11 @@
           <li><a id="our-work-nav" href="/#our-work{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "our-work" %}{{"active"}}{% endif %}">Our Work</a></li>
           <li class="header-nav-li--tiered"><a id="publications-nav" href="/#publications{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "publications" %}{{"active"}}{% endif %}">Publications</a></li>
           <li><a id="news-nav" href="/#news{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "news" %}{{"active"}}{% endif %}">News</a></li>
-          <li><a id="working-with-dai-nav" href="/#working-with-dai{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "working-dai" %}{{"active"}}{% endif %}">Working with DAI</a></li>
+          <li class="has-dropdown"><a id="working-with-dai-nav" href="/#working-with-dai{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "working-dai" %}{{"active"}}{% endif %}">Working with DAI</a><ul>
+            <li><a href="">Why DAI?</a></li>
+            <li><a href="">The People</a></li>
+            <li><a href="">Career Areas</a></li>
+          </ul></li>
         </ul>
       </div>
     </div>

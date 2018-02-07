@@ -275,7 +275,12 @@ header{
     display: block;
   }
 }
-
+li.has-dropdown ul{
+  display:none;
+}
+li.has-dropdown:hover ul{
+  display: inherit
+}
 // 🎌 MAIN 🎌
 
 .container-section{
