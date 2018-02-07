@@ -18,7 +18,7 @@ Job losses during the worldwide economic slump continue to bedevil policy makers
 
 The magnitude of the employment challenge is enormous. In the Middle East and North Africa alone, anywhere from 55 to 85 million jobs are needed to employ youth. The economic, social, and political costs of inaction are staggering.
 
-Tackling these challenges requires new thinking—and the latest issue of DAI's journal _Developing Alternatives_, titled [_The Jobs Challenge_][1], sets out to provide that fresh perspective.
+Tackling these challenges requires new thinking—and the latest issue of DAI's journal _Developing Alternatives_, titled [_The Jobs Challenge_](/uploads/jobs-challenge.pdf, sets out to provide that fresh perspective.
 
 "We no longer live in a world where simple approaches yield simple solutions. It is high time to change the way we think about employment," write editors Ulrich Ernst and Lara Goldmark in their introduction to the volume. "The current global crisis may offer an opportunity to do just that—by providing a sense of urgency, highlighting the limitations of traditional policy instruments, and calling for creative new approaches."
 
@@ -37,6 +37,5 @@ Follow the conversation on Twitter using #wkforcedev.
 
 For a print copy of _The Jobs Challenge_ or to be added to the electronic or print mailing lists for this and other DAI publications, fill out our [sign-up form][3].
 
-[1]: /news-publications/publications/jobs-challenge-fresh-perspectives-global-employment-crisis
 [2]: /who-we-are/our-team/marina-krivoshlykova
 [3]: /sign-up
