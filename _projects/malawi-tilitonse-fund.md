@@ -1,22 +1,22 @@
 ---
 title: Malawi—Tilitonse Fund
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
-start: 2011
-end: 2018
-regions:
-- Sub-Saharan Africa
-country:
-- Malawi
-solutions:
-- Governance
-- Institutional and Policy Reform
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: Malawi is a largely rural country and, despite impressive recent progress,
   poverty rates and basic service delivery remain a challenge. Sixteen years since
   multi-party democracy replaced 30 years of single party rule, many people are still
   unused to holding government to account for services they provide, how they manage
   public money, or protection of basic rights.
+start: 2011
+end: 2017
+client: U.K. Department for International Development
+solutions:
+- Governance
+- Institutional and Policy Reform
+regions:
+- Sub-Saharan Africa
+country:
+- Malawi
+layout: project
 ---
 
 Malawi is a largely rural country and, despite impressive recent progress, poverty rates and basic service delivery remain a challenge. Sixteen years since multi-party democracy replaced 30 years of single party rule, many people are still unused to holding government to account for services they provide, how they manage public money, or protection of basic rights. This leaves communities, especially the poor, lacking the ability to address the problems that reduce their quality of life and their vulnerability to the impact of corruption.
