@@ -6,6 +6,7 @@ summary: Ike Osakwe has more than 30 years of management consulting experience a
   has carried out corporate and organizational reform assignments all over Nigeria
   and within the African sub-continent.
 image: "/uploads/Ike%20Members.jpg"
+sort-order: 6
 ---
 
 GRID Consulting Managing Director Ike Osakwe, an Oxford University graduate, is a Chartered Accountant registered in both the United Kingdom and Nigeria. Educated at Kings College Lagos, Marlborough College Wiltshire, and Balliol College Oxford, he has previously worked for KPMG and Deloitte.
