@@ -2,6 +2,9 @@
 title: Ike Osakwe
 date: 2018-02-08 18:54:00 Z
 published: false
+summary: Ike Osakwe has more than 30 years of management consulting experience and
+  has carried out corporate and organizational reform assignments all over Nigeria
+  and within the African sub-continent.
 image: "/uploads/Ike%20Members.jpg"
 ---
 
