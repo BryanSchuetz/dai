@@ -1,5 +1,5 @@
 ---
-title: Distinguished Nigerian Professional, Ike Osakwe Joins DAI Board
+title: Distinguished Nigerian Professional Ike Osakwe Joins DAI Board
 date: 2018-02-09 13:55:00 Z
 regions: Sub-Saharan Africa
 summary: "[Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most recently
