@@ -9,9 +9,9 @@ summary: "[Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most re
 social-image: "/uploads/Ike%20and%20Betsey%20news-8377e2.jpg"
 ---
 
-[Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most recently the Managing Director of GRID Consulting, has joined DAI's Board of Managers following the recent [successful acquisition](https://www.dai.com/news/dai-joins-forces-with-nigerias-grid-consulting) of GRID.
+[Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most recently the Managing Director of GRID Consulting, has joined DAI's Board following the recent [successful acquisition](https://www.dai.com/news/dai-joins-forces-with-nigerias-grid-consulting) of GRID.
 
-Ike comes to the Board with more than 40 years of management consulting experience. Acknowledged as an expert in strategic and corporate planning, financial management systems, and public sector structures and processes, he has led corporate and organizational reform assignments throughout Nigeria and Africa. 
+Ike comes to the [Board](https://www.dai.com/who-we-are/leadership/board.html) with more than 40 years of management consulting experience. Acknowledged as an expert in strategic and corporate planning, financial management systems, and public sector structures and processes, he has led corporate and organizational reform assignments throughout Nigeria and Africa.
 
 ![Ike and Betsey news.jpg](/uploads/Ike%20and%20Betsey%20news.jpg)`Ike Osakwe is welcomed by Betsey Nelson, DAI’s chair of the Board of Managers.`
 
