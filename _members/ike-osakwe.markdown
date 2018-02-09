@@ -1,10 +1,9 @@
 ---
 title: Ike Osakwe
 date: 2018-02-08 18:54:00 Z
-summary: Ike Osakwe has more than 40 years of management consulting experience. An
-  expert in strategic and corporate planning, financial management systems, and public
-  sector structures and processes, he has led corporate and organizational reform
-  assignments throughout Nigeria and Africa.
+summary: Ike Osakwe has more than 40 years of management consulting experience. He
+  is an expert in strategic and corporate planning, financial management systems,
+  and public sector structures and processes.
 image: "/uploads/Ike%20Members.jpg"
 sort-order: 6
 ---
