@@ -1,6 +1,7 @@
 ---
 title: Distinguished Nigerian Professional Ike Osakwe Joins DAI Board
 date: 2018-02-09 13:55:00 Z
+is_featured: true
 regions: Sub-Saharan Africa
 summary: "[Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most recently
   the Managing Director of GRID Consulting, has joined DAI's Board of Managers following
@@ -14,6 +15,8 @@ social-image: "/uploads/Ike%20and%20Betsey%20news-8377e2.jpg"
 Ike comes to the [Board](https://www.dai.com/who-we-are/leadership/board.html) with more than 40 years of management consulting experience. Acknowledged as an expert in strategic and corporate planning, financial management systems, and public sector structures and processes, he has led corporate and organizational reform assignments throughout Nigeria and Africa.
 
 ![Ike and Betsey news.jpg](/uploads/Ike%20and%20Betsey%20news.jpg)`Ike Osakwe is welcomed by Betsey Nelson, DAI’s chair of the Board of Managers.`
+
+<!--more-->
 
 "Ike is an important addition to the DAI Board," said DAI President and Chief Executive Officer [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). "As a global development company committed to serving a diverse array of clients all over the world, DAI will benefit from Ike's extensive board experience, his record of principled leadership, his intimate understanding of the public sector and commercial consulting field, and his strategic insights into Nigeria and the global trends driving development more broadly."
 
