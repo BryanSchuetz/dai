@@ -6,6 +6,7 @@ summary: "[Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most re
   the Managing Director of GRID Consulting, has joined DAI's Board of Managers following
   the recent [successful acquisition](https://www.dai.com/news/dai-joins-forces-with-nigerias-grid-consulting)
   of GRID."
+social-image: "/uploads/Ike%20and%20Betsey%20news-8377e2.jpg"
 ---
 
 [Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most recently the Managing Director of GRID Consulting, has joined DAI's Board of Managers following the recent [successful acquisition](https://www.dai.com/news/dai-joins-forces-with-nigerias-grid-consulting) of GRID.
