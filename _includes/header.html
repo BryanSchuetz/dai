@@ -24,14 +24,30 @@
       <div class="header-inner--wrap">
         <a class="header-inner--logo" href="/"><svg class="logo" viewBox="0 0 982 245" preserveAspectRatio="xMinYMax meet"><use xlink:href="#logo"></use></svg></a>
         <ul class="header-nav--main">
-          <li><a id="who-we-are-nav"href="/#who-we-are{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "who-we-are" %}{{"active"}}{% endif %}">Who We Are</a></li>
-          <li><a id="our-work-nav" href="/#our-work{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "our-work" %}{{"active"}}{% endif %}">Our Work</a></li>
-          <li class="header-nav-li--tiered"><a id="publications-nav" href="/#publications{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "publications" %}{{"active"}}{% endif %}">Publications</a></li>
-          <li><a id="news-nav" href="/#news{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "news" %}{{"active"}}{% endif %}">News</a></li>
-          <li class="has-dropdown"><a id="working-with-dai-nav" href="/#working-with-dai{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "working-dai" %}{{"active"}}{% endif %}">Working with DAI</a><ul>
-            <li><a href="">Why DAI?</a></li>
-            <li><a href="">The People</a></li>
-            <li><a href="">Career Areas</a></li>
+          <li class="has-dropdown"><a id="who-we-are-nav"href="/#who-we-are{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "who-we-are" %}{{"active"}}{% endif %}">Who We Are</a><ul class="dropdown">
+            {% for item in site.data.nav-main-who %}
+              <li {% assign strip_link = item.link | remove:".html" %} class="{% if page.url contains strip_link or page.url contains item.children %}{{ "active" }}{% endif %}"><a href="{{ item.link }}">{{ item.text }}</a></li>
+            {% endfor %}
+          </ul></li>
+          <li class="has-dropdown"><a id="our-work-nav" href="/#our-work{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "our-work" %}{{"active"}}{% endif %}">Our Work</a><ul class="dropdown">
+            {% for item in site.data.nav-main-our %}
+              <li {% assign strip_link = item.link | remove:".html" %} class="{% if page.url contains strip_link or page.url contains item.children %}{{ "active" }}{% endif %}"><a href="{{ item.link }}">{{ item.text }}</a></li>
+            {% endfor %}
+          </ul></li>
+          <li class="header-nav-li--tiered has-dropdown"><a id="publications-nav" href="/#publications{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "publications" %}{{"active"}}{% endif %}">Publications</a><ul class="dropdown">
+            {% for item in site.data.nav-main-publications %}
+              <li {% assign strip_link = item.link | remove:".html" %} class="{% if page.url contains strip_link or page.url contains item.children %}{{ "active" }}{% endif %}"><a href="{{ item.link }}">{{ item.text }}</a></li>
+            {% endfor %}
+          </ul></li>
+          <li class="has-dropdown"><a id="news-nav" href="/#news{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "news" %}{{"active"}}{% endif %}">News</a><ul class="dropdown">
+            {% for item in site.data.nav-main-news %}
+              <li {% assign strip_link = item.link | remove:".html" %} class="{% if page.url contains strip_link or page.url contains item.children %}{{ "active" }}{% endif %}"><a href="{{ item.link }}">{{ item.text }}</a></li>
+            {% endfor %}
+          </ul></li>
+          <li class="has-dropdown"><a id="working-with-dai-nav" href="/#working-with-dai{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "working-dai" %}{{"active"}}{% endif %}">Working With DAI</a><ul class="dropdown">
+            {% for item in site.data.nav-main-working %}
+              <li {% assign strip_link = item.link | remove:".html" %} class="{% if page.url contains strip_link or page.url contains item.children %}{{ "active" }}{% endif %}"><a href="{{ item.link }}">{{ item.text }}</a></li>
+            {% endfor %}
           </ul></li>
         </ul>
       </div>

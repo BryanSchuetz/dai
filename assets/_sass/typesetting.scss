@@ -109,6 +109,20 @@ h4, h5, h6 {
       font-size: 1rem;
     }
   }
+  .has-dropdown{
+    li{
+    font-size: .7rem;
+    @include responsive(small-screens){
+      font-size: .8rem;
+    }
+    @include responsive(medium-screens){
+      font-size: .9rem;
+    }
+    @include responsive(wide-screens){
+      font-size: .9rem;
+    }
+  }
+  }
 }
 
 // 🎌 MAIN 🎌
