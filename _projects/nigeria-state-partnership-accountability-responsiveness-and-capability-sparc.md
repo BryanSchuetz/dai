@@ -1,10 +1,9 @@
 ---
 title: Nigeria—Accountable, Responsive, and Capable Government (ARC)
 date: 2016-01-21 22:40:00 Z
-summary: Nigeria is Africa’s largest economy and one that continues to grows in size
-  and dynamism. However, inefficient resource management, corruption, and a lack of
-  accountability have undermined the government’s ability to translate this economic
-  progress into inclusive growth and improved public services for more Nigerians.
+summary: 'The Accountable, Responsive, and Capable Government (ARC) programme supports
+  the Nigerian government in more effectively managing resources and providing more
+  responsive and accountable services to its citizens. '
 start: 2016
 end: 2020
 client: U.K. Department for International Development
