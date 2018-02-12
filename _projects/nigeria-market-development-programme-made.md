@@ -33,3 +33,8 @@ Implementation continues with focus on consolidating and scaling up a series of 
 * Improve productivity and access to new markets for small-household poultry producers.
 * Improve quality, distribution and sales of finished leather goods.
 * Support all interventions with crosscutting initiatives such as access to finance, gender and advocacy, and communications.
+
+### Select Results
+* Trained 51,000 farmers in cassava good agronomic practices to improve productivity. 
+* Trained more than 16,000 smallholder farmers and entrepreneurs in harvesting and processing technologies.   
+* Trained at least 9,500 smallholder farmers and entrepreneurs in fish processing technology.  
