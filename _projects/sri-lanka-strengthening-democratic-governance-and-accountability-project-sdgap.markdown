@@ -19,7 +19,7 @@ regions: Asia and the Pacific
 country: Sri Lanka
 promos:
 - title: 'RFP-COL-18-0023: Document Archival System for The Parliament of Sri Lanka'
-  link: "/uploads/sdgap-rfp.pdf"
+  link: "/uploads/sdgap-rfp2.pdf"
 - title: 2017 Annual Program Statement
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.pdf
 - title: 2017 Annual Program Statement (Word File)
