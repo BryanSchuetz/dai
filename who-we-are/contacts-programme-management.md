@@ -11,7 +11,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 {% assign contacts = site.contacts | where: 'group', 'Programme Management' | sort: 'sort-order' %}
 {% for contact in contacts %}
 <div class="contact">
-  <p><strong>{{ contact.title }}</strong><br>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <h2>{{ contact.title }}</h2><p>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
   <div class="contact-image">
     <img src="{{ contact.image }}" alt="{{ contact.title }}" />
   </div>

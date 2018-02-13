@@ -197,10 +197,12 @@ algolia:
     - excerpt_text
     - title
     - url
+    - hierarchy
     searchableAttributes:
     - title
     - excerpt_text
     - tags
+    - hierarchy
     attributesForFaceting:
     - layout
     - solutions
