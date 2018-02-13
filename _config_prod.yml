@@ -194,6 +194,7 @@ algolia:
     - excerpt_text
     - title
     - url
+    - h2
     searchableAttributes:
     - title
     - h1
