@@ -198,11 +198,13 @@ algolia:
     - title
     - url
     - hierarchy
+    - summary
     searchableAttributes:
     - title
     - excerpt_text
     - tags
     - hierarchy
+    - summary
     attributesForFaceting:
     - layout
     - solutions
