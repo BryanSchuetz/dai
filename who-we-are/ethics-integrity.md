@@ -20,7 +20,12 @@ promos:
 - title: Modern Day Slavery and Anti-Human Trafficking
   link: "/uploads/Modern%20Day%20Slavery%20and%20Anti-Human%20Trafficking%20Statement.pdf"
 layout: node
-summary: At DAI, everyone is responsible for ethical behavior and compliance with all applicable laws and regulations. These responsibilities include being vigilant in mitigating the risk of ethical and compliance violations, and reporting any violations through proper channels. DAI maintains multiple offices and implements stringent policies and processes to ensure that our projects succeed in a compliant and ethical manner. DAI employees play a pivotal role in upholding DAI’s high standards. 
+summary: At DAI, everyone is responsible for ethical behavior and compliance with
+  all applicable laws and regulations. These responsibilities include being vigilant
+  in mitigating the risk of ethical and compliance violations, and reporting any violations
+  through proper channels. DAI maintains multiple offices and implements stringent
+  policies and processes to ensure that our projects succeed in a compliant and ethical
+  manner. DAI employees play a pivotal role in upholding DAI’s high standards.
 ---
 
 At DAI, everyone is responsible for ethical behavior and compliance with all applicable laws and regulations. These responsibilities include being vigilant in mitigating the risk of ethical and compliance violations, and reporting any violations through proper channels. DAI maintains multiple offices and implements stringent policies and processes to ensure that our projects succeed in a compliant and ethical manner. DAI employees play a pivotal role in upholding DAI’s high standards. 

@@ -2,7 +2,12 @@
 title: Local Content Optimization Model
 date: 2017-06-19 15:11:00 Z
 layout: default
-summary: DAI's Sustainable Business Group (SBG) developed LCOM as a custom tool to support data-driven decision making around local content procurement strategy. Using LCOM, we analyze the supply and demand for local goods, services, and labor and build strategies to tap into them. LCOM seamlessly integrates with our suite of services to provide comprehensive and fully functional solutions for our clients in the countries where they work.
+summary: DAI's Sustainable Business Group (SBG) developed LCOM as a custom tool to
+  support data-driven decision making around local content procurement strategy. Using
+  LCOM, we analyze the supply and demand for local goods, services, and labor and
+  build strategies to tap into them. LCOM seamlessly integrates with our suite of
+  services to provide comprehensive and fully functional solutions for our clients
+  in the countries where they work.
 ---
 
 # Local Content Optimization Model (LCOM)

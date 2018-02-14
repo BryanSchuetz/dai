@@ -1,7 +1,9 @@
 ---
 title: Current Procurements
 layout: node
-summary: In implementing its projects, DAI relies on services and equipment provided by subcontractors and suppliers. We use competitive procurement procedures to obtain the best value by negotiating price, terms, and other variables.
+summary: In implementing its projects, DAI relies on services and equipment provided
+  by subcontractors and suppliers. We use competitive procurement procedures to obtain
+  the best value by negotiating price, terms, and other variables.
 ---
 
 In implementing its projects, DAI relies on services and equipment provided by subcontractors and suppliers. We use competitive procurement procedures to obtain the best value by negotiating price, terms, and other variables.

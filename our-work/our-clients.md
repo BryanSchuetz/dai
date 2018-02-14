@@ -1,7 +1,10 @@
 ---
 title: Our Clients
 layout: node
-summary: National and local governments, bilateral and multilateral donors, private corporations and philanthropies—our clients have ambitious objectives in demanding environments. We work with change-agents all over the world to help turn their investments into impact.
+summary: National and local governments, bilateral and multilateral donors, private
+  corporations and philanthropies—our clients have ambitious objectives in demanding
+  environments. We work with change-agents all over the world to help turn their investments
+  into impact.
 ---
 
 National and local governments, bilateral and multilateral donors, private corporations and philanthropies—our clients have ambitious objectives in demanding environments. We work with change-agents all over the world to help turn their investments into impact. Some of our leading clients include:

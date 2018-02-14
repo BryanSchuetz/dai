@@ -2,7 +2,10 @@
 title: Learn More About DAI
 position: 6
 layout: default
-summary: Sign up below to receive news alerts from DAI. We'll send out word when we have new issues of our formal publications like Developing Alternatives, Developments, and DAIdeas. Occasionally, we'll also let you know about other important news, events, and job opportunities. You can unsubscribe at any time with a single click.
+summary: Sign up below to receive news alerts from DAI. We'll send out word when we
+  have new issues of our formal publications like Developing Alternatives, Developments,
+  and DAIdeas. Occasionally, we'll also let you know about other important news, events,
+  and job opportunities. You can unsubscribe at any time with a single click.
 ---
 
 # Learn More About DAI
