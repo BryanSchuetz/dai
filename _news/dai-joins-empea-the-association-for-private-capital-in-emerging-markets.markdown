@@ -14,6 +14,8 @@ DAI is pleased to announce it has joined the Emerging Markets Private Equity Ass
 
 EMPEA is a leading convener of private investors, fund managers, and service providers that focus on frontier and emerging markets in the conviction that private capital can be a vehicle for productive investment in such markets, delivering long-term returns while promoting the sustainable growth of local companies and emerging economies. 
 
+![Screen Shot 2018-02-14 at 10.13.35 AM-7adfc5.png](/uploads/Screen%20Shot%202018-02-14%20at%2010.13.35%20AM-7adfc5.png)
+
 “The landscape of development has been changing for some time,” said [John Maris](https://www.dai.com/who-we-are/our-team/john-maris), DAI's Director, Strategy. “As official development assistance continues to decline relative to other global capital flows, we see more emphasis on the mobilization of private capital to promote development and the Sustainable Development Goals. Investment stimulates enterprise-driven growth and vibrant market systems. Using direct and co-investment, as well as innovative models such as blended finance and public-private partnerships, DAI has an important role to play in leveraging the immense resources of the global capital markets for development purposes. EMPEA is an organization that can help us navigate and contribute to the array of investment options now gaining traction in the frontier economies where DAI does the bulk of its work.”
 
 EMPEA complements DAI’s membership in a [set of organizations](https://www.dai.com/news/dai-joins-investors-circle-ande-global-leaders-in-mobilizing-investment-and-capital-for-small-and-growing-businesses) that exist to support and invest in companies that drive growth in communities around the world:
