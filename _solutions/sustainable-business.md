@@ -4,8 +4,7 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/sustainable-business
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#corp-badge"></use></svg>
-summary: Helping our clients achieve significantly higher social and business returns
-  by merging business imperatives with development best practices.
+summary: DAI’s Sustainable Business Group (SBG) supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. Our experts help unlock the commercial potential in growth markets by advising companies on how to optimize their local supply base and labor force, **comply with local content requirements, demonstrate their long-term commitment to the country's development, and become a trusted partner for government.
 type: primary
 redirect_from:
 - "/erg"

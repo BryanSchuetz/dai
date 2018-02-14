@@ -1,6 +1,7 @@
 ---
 title: Contracting Vehicles
 layout: node
+summary: DAI holds umbrella contracts from various clients through which development programs can be funded and administered.
 ---
 
 DAI holds umbrella contracts from various clients through which development programs can be funded and administered. Our current portfolio includes:
