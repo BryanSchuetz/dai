@@ -64,13 +64,13 @@ SBG works across industries including oil and gas, metals and mining, capital pr
 
 <iframe src="https://www.dai.com/extras/maps/newsbg.html" frameborder="0"></iframe>
 
-## Technical Service Areas: 
+## Technical Service Areas:
 
 ## [Local Content Solutions](/our-work/solutions/corporate/local-content-and-supply-chain-management)
 
-Today’s global supply chain is comprised of millions of small firms. Cost savings often drive companies to seek local suppliers, but that cost advantage—and the company brand—will be at risk if suppliers cannot meet market expectations for quality and reliability. Compounding the challenge are the limited numbers of capable local suppliers, a likely lack of in-house expertise to assess or build suppliers’ capabilities, and inadequate collaboration among operators, contractors, communities, and governments. 
+Today’s global supply chain is comprised of millions of small firms. Cost savings often drive companies to seek local suppliers, but that cost advantage—and the company brand—will be at risk if suppliers cannot meet market expectations for quality and reliability. Compounding the challenge are the limited numbers of capable local suppliers, a likely lack of in-house expertise to assess or build suppliers’ capabilities, and inadequate collaboration among operators, contractors, communities, and governments.
 
-We help companies overcome these challenges and improve compliance with local content requirements in cost-effective ways, thereby supporting economic development, strengthening relationships with local communities and government, and—over time—lowering procurement costs. 
+We help companies overcome these challenges and improve compliance with local content requirements in cost-effective ways, thereby supporting economic development, strengthening relationships with local communities and government, and—over time—lowering procurement costs.
 
 ## Corporate Social Investment
 
@@ -83,27 +83,3 @@ We secure our clients’ social license to operate by assessing above-ground ris
 ## Performance Monitoring, Evaluation, and Reporting
 
 We work with clients to assess their impact and provide premium reporting to support performance improvement and transparency. This recounting is critical to ensuring responsible business practices in emerging markets.
-
-<!-- <hr>
-
-<iframe src="https://player.vimeo.com/video/210303653"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-`Now in its second year, KIC is supporting a group of 80 young entrepreneurs in developing innovative, technology-driven business concepts to address Ghana’s pressing development issues.` -->
-
-<!-- ## Featured Experts
-
-Global in outlook and approach, ERG’s staff are steeped in the challenges of delivering business solutions in the developing world.
-
-{% assign contacts = site.contacts | where: 'group', 'erg' | sort: 'sort-order' %}
-{% for contact in contacts %}
-<div class="contact">
-  <p><h3>{{ contact.title }}</h3>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
-  <div class="contact-image">
-    <img src="{{ contact.image }}" alt="{{ contact.title }}" />
-  </div>
-  <div class="contact-summary">
-    <p>{{ contact.summary }}</p>
-  </div>
-</div>
-<a href="/who-we-are/our-team/{{ contact.title | slugify }}" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-  {% unless forloop.last %}<hr>{% endunless %}
-{% endfor %} -->
