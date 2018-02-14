@@ -2,6 +2,11 @@
 title: Local Content Plan and Report Platform
 date: 2017-06-19 15:11:00 Z
 layout: default
+summary: The LCPR is an online software platform built by DAI's Sustainable Business
+  Group (SBG) to help companies meet their governmental obligations to comply with
+  local content, contract tendering, and reporting requirements. The platform covers
+  local content compliance, planning, and performance reporting—configured to any
+  domestic regulation.
 ---
 
 # Local Content Plan and Reporting Platform (LCPR)

@@ -14,6 +14,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Ethiopia
+promos:
+- title: 'Fast Facts: Ethiopia LIFT'
+  link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20120218%20v1-6b847a.pdf"
 layout: project
 ---
 

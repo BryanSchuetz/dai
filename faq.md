@@ -2,11 +2,13 @@
 title: Frequently Asked Questions
 position: 7
 layout: default
+summary: Don't see the answer you're looking for? Send us your question and we will
+  find an answer for you.
 ---
 
 # Frequently Asked Questions
 
-Don't see the answer you're looking for below? [Send us your question][1] and we'll find an answer for you.
+Don't see the answer you're looking for below? [Send us your question][1] and we will find an answer for you.
 
 ###  What do the letters DAI stand for?
 

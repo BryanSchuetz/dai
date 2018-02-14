@@ -176,6 +176,7 @@ whitelist:
 - github-pages
 - jekyll-algolia
 algolia:
+  nodes_to_index: p,h2
   application_id: R7MRY12BR6
   index_name: dai
   files_to_exclude:
@@ -196,13 +197,14 @@ algolia:
     - excerpt_text
     - title
     - url
+    - hierarchy
+    - summary
     searchableAttributes:
     - title
-    - h1
-    - h2
-    - h3
     - excerpt_text
     - tags
+    - hierarchy
+    - summary
     attributesForFaceting:
     - layout
     - solutions

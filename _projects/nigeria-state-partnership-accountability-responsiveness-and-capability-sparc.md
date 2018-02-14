@@ -1,11 +1,11 @@
 ---
-title: Nigeria—Accountable, Responsive, and Capable Government (ARC)
+title: Nigeria—State Partnership for Accountable, Responsive, and Capable Government
+  (SPARC); Accountable, Responsive, and Capable Government(ARC)
 date: 2016-01-21 22:40:00 Z
-summary: Nigeria is Africa’s largest economy and one that continues to grows in size
-  and dynamism. However, inefficient resource management, corruption, and a lack of
-  accountability have undermined the government’s ability to translate this economic
-  progress into inclusive growth and improved public services for more Nigerians.
-start: 2016
+summary: 'The Accountable, Responsive, and Capable Government (ARC) programme supports
+  the Nigerian government in more effectively managing resources and providing more
+  responsive and accountable services to its citizens. '
+start: 2008
 end: 2020
 client: U.K. Department for International Development
 solutions:
@@ -25,11 +25,11 @@ country:
 layout: project
 ---
 
-Nigeria is Africa’s largest economy and one that continues to grows in size and dynamism. However, inefficient resource management, corruption, and a lack of accountability have undermined the government’s ability to translate this economic progress into inclusive growth and improved public services for more Nigerians. Advancements in public administration, public financial management, and enhanced policy making will be crucial in helping the Nigerian government provide better services to its citizen and reduce high levels of poverty.
+Nigeria is Africa’s largest economy and one that continues to grows in size and dynamism. However, inefficient resource management, corruption, and a lack of accountability have undermined the government’s ability to translate this economic progress into inclusive growth and improved public services for more Nigerians. Advancements in public administration, public financial management, and enhanced policy are crucial in helping the Nigerian government provide better services to its citizen and reduce high levels of poverty.
 
-To promote progress in these key areas, the UK Department for International Development (DFID) launched the Accountable, Responsive, and Capable Government (ARC) programme to support the Nigerian government in more effectively managing resources and providing more responsive and accountable services to its citizens. ARC will work at both the state and national levels to build on the success of its predecessor program, the State Partnership for Accountability Responsiveness and Capability (SPARC). Over seven years, SPARC helped to support responsive policy formulation and encourage performance-focused public service in Nigeria by helping state governments to improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning.
+To promote progress in these key areas, the U.K. Department for International Development (DFID) launched the Accountable, Responsive, and Capable Government (ARC) programme to support the Nigerian government in more effectively managing resources and providing more responsive and accountable services to its citizens. ARC works at both the state and national levels to build on the success of its predecessor program, the State Partnership for Accountability Responsiveness and Capability (SPARC). Over seven years, SPARC helped to support responsive policy formulation and encourage performance-focused public service in Nigeria by helping state governments to improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning.
 
-In implementing ARC, DAI will take a collective action approach to reducing corruption and strengthening public accountability by working with stakeholders both inside and outside of government. ARC will also utilize Problem-Driven Iterative Adaptation methods to improve public services by involving community members in identifying and solving specific issues.
+In implementing ARC, DAI takes a collective action approach to reduce corruption and strengthen public accountability by working with stakeholders inside and outside of government. ARC also utilizes problem-driven iterative adaptation methods to improve public services by involving community members in identifying and solving specific issues.
 
 ![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
 

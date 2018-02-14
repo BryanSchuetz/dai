@@ -18,5 +18,4 @@ Kevin Casey is an applied researcher with experience bringing innovative methodo
 In his role as research director for the Center for Secure and Stable States (CS3), Kevin is bringing his expertise to CS3’s projects to increase the quality and impact of project research. Additionally, Kevin is directing CS3’s research agenda by developing new research to bring analysis and insight to the variety of problem sets confronting fragile states. Kevin speaks Arabic and just enough Italian to find his way around northern Italy, where he currently lives.
 
 * B.A., geology and religious studies, Earlham College
-
 * M.A., Middle Eastern and Islamic studies, University of Toronto

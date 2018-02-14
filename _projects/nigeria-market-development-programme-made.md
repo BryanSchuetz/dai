@@ -17,11 +17,11 @@ country:
 layout: project
 ---
 
-This 4½-year design and implement project in the Niger Delta seeks to [raise the incomes](https://www.thisdaylive.com/index.php/2017/11/30/fighting-hunger/) of at least 150,000 poor people—half of whom will be women—by at least 50 percent. MADE uses a market development approach to support growth in the region’s non-oil economy by (a) stimulating sustainable, pro-poor growth in selected agricultural and agricultural input markets, and (b) improving the position of the economically active poor and women in these markets by making them more inclusive.
+This design and implement project in the Niger Delta works to [raise the incomes](https://www.thisdaylive.com/index.php/2017/11/30/fighting-hunger/) of at least 150,000 poor people—half of whom are women—by at least 50 percent. MADE uses a market development approach to support growth in the region’s non-oil economy by (a) stimulating sustainable, pro-poor growth in selected agricultural and agricultural input markets, and (b) improving the position of the economically active poor and women in these markets by making them more inclusive.
 
 MADE has facilitated partnerships with the private sector in five market systems: agricultural inputs, palm oil, fisheries, micro- and small-scale poultry, and cassava. Activities were designed and managed from the programme’s operational bases in Port Harcourt, Rivers State, and Warri, Delta State—both of which are co-located with the [Partnership for the Niger Delta (PIND)](https://www.dai.com/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind) programme. 
 
-Implementation activities were supported by a dual-component grant strategy: private sector grants, structured to reduce the risk of lead private-sector actors; and facilitators grants, designed to fund facilitators to manage and monitor activities in conjunction with intervention managers. This approach enabled MADE to maintain a relatively lean structure while ensuring adequate oversight of activities taking place across the Delta.
+Implementation activities are supported by a dual-component grant strategy: private sector grants, structured to reduce the risk of lead private-sector actors; and facilitators grants, designed to fund facilitators to manage and monitor activities in conjunction with intervention managers. This approach enables MADE to maintain a relatively lean structure while ensuring adequate oversight of activities taking place across the Delta.
 
 Implementation continues with focus on consolidating and scaling up a series of initiatives with market actors in six value chains across all nine Delta states.
 
@@ -33,3 +33,8 @@ Implementation continues with focus on consolidating and scaling up a series of 
 * Improve productivity and access to new markets for small-household poultry producers.
 * Improve quality, distribution and sales of finished leather goods.
 * Support all interventions with crosscutting initiatives such as access to finance, gender and advocacy, and communications.
+
+### Select Results
+* Trained 51,000 farmers in cassava good agronomic practices to improve productivity. 
+* Trained more than 16,000 smallholder farmers and entrepreneurs in harvesting and processing technologies.   
+* Trained at least 9,500 smallholder farmers and entrepreneurs in fish processing technology.  

@@ -39,7 +39,7 @@ var keywords = getUrlParameter('keywords');
   apiKey: 'a773dcb4e565198a31f353490e3652d8',
   indexName: 'dai',
   searchParameters: {
-    attributesToSnippet: ["excerpt_text:30", "text:30", "url"],
+    attributesToSnippet: ["excerpt_text:30", "text:30", "url", "summary:30"],
      facetingAfterDistinct: true,
      query: keywords,
      snippetEllipsisText: '[&hellip;]'
@@ -81,7 +81,7 @@ search.addWidget(
       container: '#hits',
       templates: {
         empty: 'No results',
-        item: '<a class="alg-link" href="{{url}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{{_snippetResult.excerpt_text.value}}}</span><br><hr>'
+        item: '<a class="alg-link" href="{{url}}"><h3 class="alg-title">{{{_highlightResult.title.value}}}</h3></a><span class="alg-text">{{#excerpt_text}}{{{_snippetResult.excerpt_text.value}}}{{/excerpt_text}}{{^excerpt_text}}{{{_snippetResult.summary.value}}}{{/excerpt_text}}</span><br><hr>'
       }
     })
   );

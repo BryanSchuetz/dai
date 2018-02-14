@@ -1,12 +1,12 @@
 ---
 title: Maria Otero
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/maria-otero.jpg"
+date: 2016-01-21 22:18:00 Z
 summary: Maria joined the board from the U.S. Department of State, where from 2009
   until February 2013 she served as Under Secretary of State for Civilian Security,
   Democracy, and Human Rights.
-sort-order: 7
+image: "/assets/images/leaders/thumbnails/maria-otero.jpg"
+sort-order: 8
+layout: leaders
 ---
 
 Maria joined the board from the U.S. Department of State, where from 2009 until February 2013 she served as Under Secretary of State for Civilian Security, Democracy, and Human Rights, overseeing U.S. foreign relations on issues ranging from democracy and human rights to criminal justice and violent extremism. Born in Bolivia, Maria was—at the time of her departure—the State Department’s highest-ranking Hispanic official, and she was the first Latina Under Secretary in its history. Before joining State, Maria was President and CEO of ACCION International, a pioneer organization in the field of microfinance. She is steeped in the issues of gender and inclusive economic growth, having also served as the Economist for Latin America in the U.S. Agency for International Development (USAID)’s Women in Development office.
