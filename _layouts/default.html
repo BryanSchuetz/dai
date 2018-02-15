@@ -99,6 +99,26 @@
     </a> -->
   </div>
       {% endif %}
+{% if page.url contains "working-dai" %}
+  <div class="node-hero working-dai">
+
+  </div>
+{% elsif page.url contains "who-we-are" %}
+  <div class="node-hero-shade">
+    <div class="node-hero who-we-are">
+      <h1 class="hero-title">{{page.title}}</h1>
+      <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
+    </div>
+  </div>
+{% elsif page.url contains "our-work" %}
+  <div class="node-hero our-work">
+  
+  </div>
+{% elsif page.url contains "publications" %}
+
+{% elsif page.url contains "news" %}
+
+{% endif %}
       <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}">
         {{ content }}
         {% if  page.collection == 'news' or page.collection == 'projects' or page.collection == 'experts'%}

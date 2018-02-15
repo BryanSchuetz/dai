@@ -345,7 +345,7 @@ ul.dropdown{
   border-bottom: 0px;
 }
 .content{
-  padding-top: 9rem;
+  padding-top: 1rem;
   @include clearfix;
   padding-bottom: 9rem;
 }
@@ -809,41 +809,56 @@ tbody tr:nth-child(odd) th {
   border-radius: 5px;
 }
 // 🎌 NODE 🎌
-
-.node-nav{
+.node-hero-shade{
+background-image: url(/assets/images/node/people-header.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.node-hero{
   @include clearfix;
   margin-bottom: 2.5rem;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  margin-top: 91px;
+  @include responsive(medium-screens){
+    margin-top: 114px;
+  }
+  @include responsive(wide-screens){
+    margin-top: 127px;
+  }
+  height: 10rem;
+  @include responsive(medium-screens){
+    height: 14rem;
+  }
+  @include responsive(wide-screens){
+    height: 24rem;
+  }
+  padding-top: 2rem;
+  padding-left: 2rem;
+  h1{
+    color: white;
+    font-size: 5rem;
+    font-weight: black;
+  }
+  .hero-excerpt{
+    color: white;
+    width: 75%;
+    font-size: 1.3rem;
+  }
 }
-.node-nav.working-dai{
-  background-image: url(/assets/images/node/people-header.jpg);
+.node-hero.working-dai{
+  background: url(/assets/images/node/people-header.jpg);
 }
-.node-nav.who-we-are{
-  background-image: url(/assets/images/node/people-header.jpg);
-  background-position: center;
+.node-hero.who-we-are{
+  background: rgba($slate, 0.7);
 }
-.node-nav.our-work{
+.node-hero.our-work{
   background-image: url(/assets/images/node/map-header.jpg);
   background-position: center;
 }
 
-.node-nav--links{
-background: -webkit-linear-gradient(left, rgba(28,36,43,1) 0%,rgba(28,36,43,0.9) 4%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right, rgba(28,36,43,1) 0%,rgba(28,36,43,0.9) 4%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  padding: 1rem;
-  ul{
-    margin-bottom: 0;
-  }
-  @include responsive(small-screens){
-    @include width(3);
-    float: left;
-  }
-  @include responsive(medium-screens){
-    @include width(4);
-  }
-}
 .node-nav-banner{
   @include responsive(small-screens){
     @include full-width(3);
