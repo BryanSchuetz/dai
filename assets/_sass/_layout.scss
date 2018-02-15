@@ -275,17 +275,8 @@ header{
     display: block;
   }
 }
-li.has-dropdown ul{
-  display:none;
-}
-li.has-dropdown:hover > a{
-  color: $nav_black;
-}
-li.has-dropdown:hover ul{
-  display: inherit
-}
 ul.dropdown{
-  display: block;
+  display: none;
   list-style-type: none;
   position: absolute;
   margin-left: 0;
@@ -333,6 +324,13 @@ ul.dropdown{
       } 
     }
   }
+}
+
+li.has-dropdown:hover ul.dropdown{
+  display: block;
+}
+li.has-dropdown:hover > a{
+  color: $nav_black;
 }
 // 🎌 MAIN 🎌
 
