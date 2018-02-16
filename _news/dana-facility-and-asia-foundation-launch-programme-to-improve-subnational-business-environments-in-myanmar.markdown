@@ -20,7 +20,7 @@ Surveying businesses across the country’s states and regions, the Myanmar BEI 
 
 ![Da-Na----trainstation-burma-myanmar.jpg](/uploads/Da-Na----trainstation-burma-myanmar.jpg)
 
-The [DaNa Facility](https://www.dai.com/our-work/projects/burma-dana-facility) is funded by the U.K. Department for International Development and implemented by DAI to support inclusive economic growth in Myanmar, where the private sector is acknowledged as critical to long-term economic prosperity and stability.
+The [DaNa Facility](https://www.dai.com/our-work/projects/myanmar-dana-facility) is funded by the U.K. Department for International Development and implemented by DAI to support inclusive economic growth in Myanmar, where the private sector is acknowledged as critical to long-term economic prosperity and stability.
 
 “For many Myanmar micro, small, and medium enterprises, the first engagement with government is at the township level, whether this involves business registration, tax collection, or inspection of a business,” said Kim Ninh, Myanmar Country Representative for The Asia Foundation. “To improve the business environment, a better understanding is needed of the aspects of local economic governance that facilitate or restrain day-to-day business activity.”
 
