@@ -32,7 +32,7 @@ Enterprise Partners works through two major pillars:
 
 * Garments: Improve labour market systems and cotton production to create a sustainable industry with strong backward linkages. Support Government of Ethiopia’s flagship [Hawassa Industrial Park](https://www.dai.com/news/development-secretary-priti-patel-stresses-economic-growth-in-visit-to-ethiopia-industrial-park), which will create 60,000 jobs in the apparel sector.
 * Leather: Increase finishing capacity of tanneries and produce high-value leather products to increase export.
-* Horticulture: Promote production of high value crops for export and support processing industry.
+* Horticulture: Promote production of high-value crops for export and support the processing industry.
 * Financial Inclusion: Promote digital banking so poor people living in rural Ethiopia have increased access to formal financial services such as savings and loans.
 * SME Finance: Provide technical assistance and finance (World Bank credit line) to banks, microfinance institutions, leasing companies, and the Development Bank of Ethiopia to support small and medium-sized enterprises that are women-owned or contributing to industrial growth.
 * Investments: Promote foreign direct investment and private equity capital investment, especially in priority agro-industrial sectors.
