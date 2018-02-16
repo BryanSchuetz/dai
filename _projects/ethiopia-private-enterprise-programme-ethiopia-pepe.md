@@ -43,7 +43,7 @@ Enterprise Partners works through two major pillars:
 * Introduced 25 innovations through 158 public and private organizations.
 * Supported the Development Bank of Ethiopia and 12 microfinance institutions with technical assistance that contributed to £50 million in loan disbursements and enabled another £204 million credit line by World Bank to be disbursed by 2020.
 * Generated £43 million of additional investment into the economy.
-* Created more than 30,000 financial accounts for businesses.
+* Created more than 30,000 financial accounts.
 
 [1]: http://dai-global-developments.com/articles/serving-the-missing-middle-creating-access-to-finance-for-female-owned-small-businesses-in-ethiopia/?utm_source=daidotcom
 [2]: https://assetify-dai.com/projects/PEPE.jpg
