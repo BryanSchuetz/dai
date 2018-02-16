@@ -10,7 +10,7 @@ social-image: "/uploads/Code_Partners_3-756db6.jpg"
 
 Code Partners, a new coding academy based in Montgomery County, Maryland, held its official launch event at DAI headquarters this week. The academy is designed to train the next generation of software and web developers to meet the hiring needs of local business and organizations. Based on the nationally recognized curriculum developed by [Code Fellows](https://www.codefellows.org/) in Seattle, Code Partners will teach motivated students to become full-stack web or software developers in 20 weeks. After completing the curriculum, 95 percent of students have been hired within six months.
 
-![Code_Partners_3.jpg](/uploads/Code_Partners_3.jpg)`Bobby Jefferson, from left, Vice President and Chief Technology Officer for DAI Global Health; David Nguyen, founder and CEO of United Solutions; Doug McLean, Vice President for Partnerships at DAI; and Jean Gilson, Senior Vice President of Strategy and IT at DAI, at the Code Partners launch event.`
+<iframe src="https://player.vimeo.com/video/256115225" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 DAI and [United Solutions](http://www.unitedsolutions.biz/Portal/WebPage.html?objectID=27669&referenceID=27669&referenceType=Object) co-founded Code Partners to help develop the technical skills of the local workforce and make Maryland a new center of innovation in the country.
 
@@ -24,4 +24,4 @@ Robertson also highlighted Code Fellows’ success in linking graduates to jobs 
 
 Code Partners will offer classes for students with a range of coding experience, and accommodates both new entrants to the workforce as well as career changers. Initial courses cover HTML, CSS, and JavaScript, with advanced courses planned for Python and ASP.NET. Code Partners will hold its first Code 101: Intro to Software Development & Careers in Tech courses on [February 24](https://www.eventbrite.com/e/code-101-intro-to-software-development-careers-in-tech-tickets-42538303210?aff=dainews) and [March 10](https://www.eventbrite.com/e/code-101-intro-to-software-development-careers-in-tech-tickets-42718463073?aff=dainews) at DAI offices in Bethesda.
 
-![Code_Partners_4.jpg](/uploads/Code_Partners_4.jpg)`Bobby Jefferson, also a board member for Code Partners, speaking about the positive impact that learning to code has had on his career.`
+![Code_Partners_3.jpg](/uploads/Code_Partners_3.jpg)`Bobby Jefferson, from left, Vice President and Chief Technology Officer for DAI Global Health; David Nguyen, founder and CEO of United Solutions; Doug McLean, Vice President for Partnerships at DAI; and Jean Gilson, Senior Vice President of Strategy and IT at DAI, at the Code Partners launch event.`
