@@ -26,7 +26,7 @@ Enterprise Partners works through two major pillars:
 * **Agro-Industry:** Strengthening market systems in three priority sectors of the Government of Ethiopia—cotton, textile and apparel; leather and livestock; and fruits and vegetables.  
 * **Access to Finance:** Strengthening financial systems for increased financial inclusion of the poor into formal financial systems and enabling investments for small, medium, and large enterprises.
 
-![][2]
+![Ethiopia-PEPE-PIC-1.jpg](/uploads/Ethiopia-PEPE-PIC-1.jpg)
 
 ### Sample Activities
 
