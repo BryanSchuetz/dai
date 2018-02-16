@@ -2,6 +2,10 @@
 title: Chris MacDonald
 date: 2018-02-16 21:53:00 Z
 lastname: MacDonald
+summary: 'Chris MacDonald is a supply chain management and procurement and contracting
+  professional with 36 years of experience working for Shell International. He advises
+  private-sector clients on local content development strategies for DAI’s Sustainable
+  Business Group. '
 job-title: Principal Advisor, Sustainable Business Group
 image: "/uploads/Chris_photo_2.jpg"
 solutions:
