@@ -276,7 +276,10 @@ header{
   }
 }
 ul.dropdown{
-  display: none;
+  visibility: hidden;
+  opacity: 0;
+  margin-top: -3px;
+  transition: visibility 0s linear 0.3s, opacity 0.3s ease-in-out, margin-top 0.3s ease-in-out;
   list-style-type: none;
   position: absolute;
   margin-left: 0;
@@ -327,7 +330,10 @@ ul.dropdown{
 }
 
 li.has-dropdown:hover ul.dropdown{
-  display: block;
+  visibility: visible;
+  opacity: 1;
+  margin-top: 0;
+  transition: opacity 0.3s ease-in-out, margin-top 0.3s ease-in-out;
 }
 li.has-dropdown:hover > a{
   color: $nav_black;
