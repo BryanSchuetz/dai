@@ -14,3 +14,12 @@ As part of the Nigeria’s ongoing democratisation, the State and Local Governme
 
 The programme worked with six authorities (Lagos, Enugu, Jigawa, Kano, Kaduna, and the Federal Capital Territory) and placed a heavy emphasis on process and organisation development and the design and development of demand-driven pilot projects designed to promote best practices. Examples of other inputs provided under this programme are technical and institutional support aimed at improvements in Public Expenditure Management, including budget cycle processes, capacity building, training and sensitisation seminars, and design and installation of financial information systems and computerisation.
 
+### Sample Activities
+* Implement more efficient and effective service delivery in the states, especially to poor people.
+* Foster more democratic, accountable, transparent, and responsive state and local government. 
+* Disseminate lessons learned nationally and internationally through information networking. 
+
+### Select Results
+* Provided training to a number of elected members of the State Houses of Assembly to enable them to better scrutinise government budgets, and hold government and the civil service to account for expenditure. 
+* Trained civil service employees to carry out their roles more effectively. 
+* Established radio call-in programmes and town hall meetings to enable government to inform citizens of their actions and how budgets are being spent, allowing citizens to question government and hold them to account for their actions.
