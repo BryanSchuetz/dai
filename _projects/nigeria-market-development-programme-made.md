@@ -37,4 +37,5 @@ Implementation continues with focus on consolidating and scaling up a series of 
 ### Select Results
 * Trained 51,000 farmers in cassava good agronomic practices to improve productivity. 
 * Trained more than 16,000 smallholder farmers and entrepreneurs in harvesting and processing technologies.   
-* Trained at least 9,500 smallholder farmers and entrepreneurs in fish processing technology.  
+* Trained at least 9,500 smallholder farmers and entrepreneurs in fish processing technology. 
+* Produced [report](http://pindfoundation.org/report-on-the-effect-of-nairas-devaluation-on-the-agricultural-value-chains-in-the-niger-delta/), with PIND Foundation, on the effects of the Nigerian currency’s devaluation and related government trade restriction policies on four key agricultural value chains in the Niger Delta region. 
