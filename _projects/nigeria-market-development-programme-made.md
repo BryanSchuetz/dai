@@ -25,6 +25,8 @@ Implementation activities are supported by a dual-component grant strategy: priv
 
 Implementation continues with focus on consolidating and scaling up a series of initiatives with market actors in six value chains across all nine Delta states.
 
+![NigeriaPIND DeltaYouth018.jpg](/uploads/NigeriaPIND%20DeltaYouth018.jpg)
+
 ### Sample Activities
 * Improve fish farmers' knowledge and access to new markets.
 * Promote sustainable cassava production with bio-products as inputs.
