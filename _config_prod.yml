@@ -173,6 +173,7 @@ whitelist:
 - jekyll-sitemap
 - github-pages
 - jekyll-algolia
+- shuffle
 algolia:
   nodes_to_index: 'p,h2'
   application_id: R7MRY12BR6
