@@ -729,13 +729,16 @@ footer{
     position: relative;
     float: right;
     height: 50px;
+    width: 84px;
     top: -.5rem;
     @include responsive(medium-screens){
-      height: 95px;
+      height: 96px;
+      width: 159px;
       top: -.9rem;
     }
     @include responsive(wide-screens){
       height: 115px;
+      width: 192px;
     }
     margin-right: $gutter;
   }
