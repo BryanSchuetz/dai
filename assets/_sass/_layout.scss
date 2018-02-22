@@ -714,13 +714,28 @@ footer{
   .logo--footer{
     position: relative;
     top: 2px;
-    height: 10px;
+    height: 25px;
     float: left;
     overflow: hidden;
-    @include width(1);
+    margin-right: $gutter;
     @include responsive(medium-screens){
-      height: 20px;
-      @include width(2);
+      height: 55px;
+    }
+    @include responsive(wide-screens){
+      height: 60px;
+    }
+  }
+  .logo--footer--afiliate{
+    position: relative;
+    float: right;
+    height: 50px;
+    top: -.5rem;
+    @include responsive(medium-screens){
+      height: 95px;
+      top: -.9rem;
+    }
+    @include responsive(wide-screens){
+      height: 115px;
     }
     margin-right: $gutter;
   }
