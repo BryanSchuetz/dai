@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Market Development Programme (MADE)
+title: Nigeria—Market Development in the Niger Delta (MADE)
 date: 2016-01-21 22:40:00 Z
 summary: This project in the Niger Delta is applying a market systems approach to
   improve market access, increase economic activity, and raise the incomes of 150,000
