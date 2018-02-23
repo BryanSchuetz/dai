@@ -8,7 +8,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Institutional and Policy Reform
 regions: Eastern Europe and Central Asia
 country: Ukraine

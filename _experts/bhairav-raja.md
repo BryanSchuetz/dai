@@ -9,7 +9,7 @@ job-title: Global Practice Specialist, Private Sector Development and Financial 
 image: "/uploads/RajaInner.jpg.jpeg"
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean

@@ -10,7 +10,7 @@ country:
 - Bulgaria
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'Société Générale Expressbank (SGE), one of Bulgaria''s leading banks in
   the consumer finance market, as interested in expanding its small and medium enterprise

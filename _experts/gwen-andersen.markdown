@@ -8,7 +8,7 @@ job-title: Principal Global Practice Specialist, Energy
 image: "/uploads/Gwen%20Andersen%20casual.jpg"
 solutions:
 - Energy
-- Financial Services
+- Finance and Investment
 - Environment and Energy
 regions:
 - Latin America and the Caribbean

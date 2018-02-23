@@ -9,7 +9,7 @@ regions:
 country:
 - Hungary
 solutions:
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'Deutsche Leasing Hungary signed a €10 million facility with the European
   Bank for Reconstruction and Development (EBRD) in 2006 to develop its business of

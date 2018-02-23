@@ -11,7 +11,7 @@ country:
 - Ukraine
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 layout: project
 summary: 'Since its inception in 1992, Raiffeisenbank Aval (AVAL) has strengthened

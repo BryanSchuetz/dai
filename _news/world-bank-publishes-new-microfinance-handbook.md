@@ -33,6 +33,6 @@ The book is available [here][4].
 Ledgerwood will join DAI from the Aga Khan Foundation, where she leads access to finance activities. Prior to Aga Khan, she was based in Uganda working with nongovernmental organizations transforming to deposit-taking institutions and in the Philippines, working with rural banks to deepen their outreach to the poor. She has written numerous papers and books, including _Transforming MFIs_ with Victoria White (2006) and the _Microfinance Handbook_ (1998), both published by the World Bank.
 
 [1]: /who-we-are/our-team/joanna-ledgerwood
-[2]: /our-work/solutions/economic-growth/financial-services
+[2]: /our-work/solutions/economic-growth/finance-and-investment
 [3]: https://assetify-dai.com/news/mfHandbookCover.jpg
 [4]: http://publications.worldbank.org/index.php?main_page=product_info&cPath=0&products_id=24269&cid=EXT_WBPubsAlerts_P_EXT

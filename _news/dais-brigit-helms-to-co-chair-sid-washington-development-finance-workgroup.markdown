@@ -3,7 +3,7 @@ title: DAI’s Brigit Helms to Co-Chair SID-Washington Development Finance Workg
 date: 2018-01-25 17:14:00 Z
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 summary: 'Brigit Helms, DAI’s Senior Principal Strategic Advisor for Strategy and
   Marketing, will co-chair the Development Finance Workgroup for the Washington Chapter
   of the Society for International Development (SID-Washington) for the next two years.

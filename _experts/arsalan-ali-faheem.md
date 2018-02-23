@@ -12,7 +12,7 @@ image: https://assetify-dai.com/experts/ArsalanInner.jpg
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Value Chain Development for Agribusiness and Other Sectors
+- Value Chain and Market Systems Development
 regions:
 - Eastern Europe and Central Asia
 layout: expert

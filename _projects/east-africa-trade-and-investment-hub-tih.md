@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 - Trade
 regions:

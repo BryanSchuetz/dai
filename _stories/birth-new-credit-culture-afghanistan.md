@@ -6,7 +6,7 @@ regions:
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Gender
 - Stability
 projects:

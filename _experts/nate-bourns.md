@@ -8,7 +8,7 @@ job-title: Vice President, Operating Platforms
 image: https://assetify-dai.com/experts/nate_inner.jpg
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Governance
 regions:
 - Latin America and the Caribbean

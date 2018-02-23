@@ -12,7 +12,7 @@ country:
 - Vietnam
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'DAI was contracted to provide An Binh Commercial Joint Stock Bank (ABB)
   with a client-driven small and medium enterprise (SME) banking strategy, with a

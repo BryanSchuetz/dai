@@ -10,7 +10,7 @@ summary: 'The U.K. Department of International Development (DFID)-funded Ilm Ide
 
 '
 solutions:
-- Financial Services
+- Finance and Investment
 - Governance
 - Innovation and Entrepreneurship
 regions: Asia and the Pacific

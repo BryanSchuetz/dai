@@ -12,7 +12,7 @@ job-title: Team Leader, Mozambique Financial Sector Deepening
 image: https://assetify-dai.com/experts/chidzero_inner.jpg
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Sub-Saharan Africa
 layout: expert

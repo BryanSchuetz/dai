@@ -12,8 +12,8 @@ solutions:
 - Agriculture and Food Security
 - Business Environment Reform
 - Economic Growth
-- Financial Services
-- Value Chain Development for Agribusiness and Other Sectors
+- Finance and Investment
+- Value Chain and Market Systems Development
 layout: expert
 ---
 

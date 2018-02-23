@@ -11,7 +11,7 @@ solutions:
 - Business Environment Reform
 - Economic Growth
 - Innovation and Entrepreneurship
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 - Energy
 regions:

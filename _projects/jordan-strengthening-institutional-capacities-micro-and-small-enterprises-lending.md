@@ -11,7 +11,7 @@ country:
 - Jordan
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'With one of the smallest economies in the Middle East, Jordan depends heavily
   on micro, small, and medium enterprises (MSMEs) to drive growth and generate jobs.

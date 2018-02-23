@@ -9,7 +9,7 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
-- Value Chain Development for Agribusiness and Other Sectors
+- Value Chain and Market Systems Development
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Mozambique

@@ -10,7 +10,7 @@ client: U.K. Department for International Development
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Asia and the Pacific
 country:

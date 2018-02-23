@@ -10,7 +10,7 @@ country:
 - Macedonia
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'Ohridska Banka Société Générale (OBSG) became an affiliate of Société Générale
   in 2007. One of 10 companies in the Macedonian Stock Exchange Index, OBSG signed

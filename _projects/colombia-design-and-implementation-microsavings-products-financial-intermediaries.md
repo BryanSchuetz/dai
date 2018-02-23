@@ -11,7 +11,7 @@ country:
 - Colombia
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'While certain areas in Colombia have acceptable levels of banking, many
   Colombians are still excluded from basic services such as a savings account. In

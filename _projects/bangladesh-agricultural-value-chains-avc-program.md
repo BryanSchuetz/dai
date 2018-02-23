@@ -9,7 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Asia and the Pacific
 country:

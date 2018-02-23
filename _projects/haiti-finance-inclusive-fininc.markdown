@@ -10,7 +10,7 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions: Latin America and the Caribbean
 country: Haiti
 ---

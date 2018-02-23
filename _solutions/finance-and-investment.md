@@ -1,10 +1,12 @@
 ---
-title: Financial Services
+title: Finance and Investment
 date: 2016-01-22 00:11:00 Z
-permalink: "/our-work/solutions/economic-growth-solutions/financial-services"
+permalink: "/our-work/solutions/economic-growth-solutions/finance-and-investment"
 solutions:
 - Economic Growth
 layout: solution
+redirect_from:
+- "/our-work/solutions/economic-growth-solutions/financial-services
 ---
 
 Since 1985, DAI has been a leader in expanding [financial inclusion](http://dai-global-developments.com/developments/financial-inclusion/?utm_source=daidotcom), enterprise finance and mobilizing capital for development priorities around the world. Our proven track record extends across several clients—including the European Bank for Reconstruction and Development, the International Financial Corporation, the U.K. Department for International Development, World Bank, European Investment Bank, and the U.S. Agency for International Development—for whom we have led some of the most [innovative financial services](http://dai-global-developments.com/articles/unlocking-capital-across-kenya-how-usaid-firm-pushed-the-frontier-of-financial-services-and-built-a-foundation-for-economic-growth/?utm_source=daidotcom) programs. 

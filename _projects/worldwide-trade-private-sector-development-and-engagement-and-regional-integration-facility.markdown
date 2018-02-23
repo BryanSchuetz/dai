@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 - Business Environment Reform
 - Trade
-- Financial Services
+- Finance and Investment
 regions: Worldwide
 country: Worldwide
 Key: 

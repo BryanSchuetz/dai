@@ -9,7 +9,7 @@ job-title: Principal Global Practice Specialist, Financial Services
 image: https://assetify-dai.com/experts/Young_Inner.jpg
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Latin America and the Caribbean
 - Sub-Saharan Africa

@@ -10,7 +10,7 @@ country:
 - Russia
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'In the early 2000s, the Russian financial sector was overregulated and served
   primarily large enterprises. Financial sector deepening had only begun to take place

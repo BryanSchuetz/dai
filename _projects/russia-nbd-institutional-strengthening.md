@@ -10,7 +10,7 @@ country:
 - Russia
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'DAI was hired to assist Russia''s NBD, a bank focused on the micro, small,
   and medium enterprise sector, in its efforts to ensure that the appropriate institutional

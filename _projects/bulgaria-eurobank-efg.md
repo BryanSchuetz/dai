@@ -10,7 +10,7 @@ country:
 - Bulgaria
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'Eurobank EFG Bulgaria AD (EFGB) is the fifth-largest bank in Bulgaria, operating
   272 network locations and employing 2,649 staff. In 2008, the European Bank for
