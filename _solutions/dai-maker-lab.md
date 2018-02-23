@@ -1,14 +1,14 @@
 ---
 title: The DAI Maker Lab
-date: 2016-01-22 00:11:14.114000000 Z
+date: 2016-01-22 00:11:00 Z
 solutions:
 - Digital
-layout: solution
 redirect_from:
 - "/makerlab"
+layout: solution
 ---
 
-The manufactured world is so basic to modern life that we hardly stop to think about how its constraints affect us. Since the days of Henry Ford, we have been limited by the assumptions that substantial capital must be expended in order to produce a good, and that a good must be produced in large quantities in order to be economically feasible. These constraints disadvantage those without substantial resources for research, development, and fabrication; or whose needs do not represent a large enough market to make those investments worthwhile.
+Recent years have seen the emergence of tools and approaches that are radically lowering barriers to designing and fabricating sophisticated electronic and mechanical hardware. More accessible microcontrollers are democratizing the design and implementation of embedded electronics. The current generation of digital fabrication tools enables affordable desktop factories that can produce precision parts in a variety of materials, without an overwhelming training burden. Collaborative workspaces provide access to tools and training to people without major up-front costs. Open source cultural and legal frameworks mean that innovators have access to cutting-edge approaches and techniques without building mountains of intellectual property on their own. These are powerful new tools for applying hardware to problems. 
 
 <iframe src="https://player.vimeo.com/video/130582276" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
