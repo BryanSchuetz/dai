@@ -1,12 +1,11 @@
 ---
 title: Economic Growth
-date: 2016-01-21 18:23:00.492000000 Z
+date: 2016-01-21 18:23:00 Z
 permalink: "/our-work/solutions/economic-growth"
 icon: <svg class="econ-badge badge" viewBox="0 0 101 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#econ-badge"></use></svg>
 summary: Driving trade, technology, agriculture, business, and financial services
   to create jobs, reduce poverty, and enhance food security.
-layout: solution
 type: primary
 promos:
 - title: "**Our Team:** DAI Economic Growth Experts"
@@ -16,11 +15,12 @@ promos:
 - title: "**News:** Recent Economic Growth News"
   link: "/news/view-more-news?filter=economic-growth"
 related: false
+layout: solution
 ---
 
-**Driving trade, technology, agriculture, business environment, finance and investment to create jobs, reduce poverty, support livelihoods, and enhance food security in over 100 developing countries globally.**  
+**Driving trade, technology, agriculture, business environment, finance and investment to create jobs, reduce poverty, support livelihoods, and enhance food security in more than 100 developing countries globally.**
 
-Our economic growth work brings together a mix of industry dynamics to unleash broad and inclusive growth. Focusing on sustainability, and building on the belief that small businesses and farmers play vital roles in the value chains at the heart of developing economies, we work to improve domestic and global market access, forge links between companies, enhance workforce productivity, expand access to finance, and boost local value addition. As incomes rise, so do the structures—and the courage—to demand accountability from government officials, especially in the development of predictable, internationally competitive business environments.
+Our inclusive economic growth work focuses on sustainability, and builds on the belief that small businesses and farmers play vital roles in the value chains at the heart of developing economies. We work to improve domestic and global market access, forge links between companies, enhance workforce productivity, expand access to finance, and boost local value addition. As incomes rise, so do the structures—and the courage—to demand accountability from government officials, especially in the development of predictable, internationally competitive business environments.
 
 [Value Chain and Market Systems Development](/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development)—From input suppliers to end retailers, we strengthen the capabilities of all actors along a product line to meet market demand by alleviating constraints on productivity and growth, increasing access to quality inputs and working capital, improving quality, meeting international standards and market information.
 
