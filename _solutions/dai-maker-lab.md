@@ -12,9 +12,9 @@ Recent years have seen the emergence of tools and approaches that are radically 
 
 <iframe src="https://player.vimeo.com/video/130582276" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
-But a convergence of entrepreneurs, educators, scientists, hobbyists, and others known as the maker movement is working to lower the barriers to making, repairing, and extending our contemporary material culture. By making available tools and approaches that allow non-specialists to fabricate sophisticated goods and devices, the maker movement is democratizing manufacturing and disrupting those long-standing industrial constraints.
+For developing countries, distant in every way from the traditional ecosystems for producing hardware, this is potentially transformative. The DAI Maker Lab uses these new tools and [approaches](https://prezi.com/pxbdaizrkbrf/diy-development/) to build hardware and build capacities around hardware in support of the projects we implement around the world. Some representative examples include:
 
-The DAI Maker Lab is applying tools and approaches [from the maker movement][1] to DAI's global development work, enabling people in developing countries to leverage technology against local challenges in a new way.
+
 
 ##  Development Equipment
 
@@ -30,7 +30,6 @@ To keep in touch with the DAI Maker Lab, follow us here in this space, on Twitte
 
 ![][5]
 
-[1]: https://prezi.com/pxbdaizrkbrf/diy-development/
 [2]: http://dai-global-developments.com/articles/diy-development/?utm_source=daidotcom
 [3]: http://twitter.com/DAI_Maker_Lab
 [4]: mailto:robert_ryan-silva@dai.com
