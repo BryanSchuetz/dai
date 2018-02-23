@@ -14,6 +14,10 @@ Recent years have seen the emergence of tools and approaches that are radically 
 
 For developing countries, distant in every way from the traditional ecosystems for producing hardware, this is potentially transformative. The DAI Maker Lab uses these new tools and [approaches](https://prezi.com/pxbdaizrkbrf/diy-development/) to build hardware and build capacities around hardware in support of the projects we implement around the world. Some representative examples include:
 
+##  Flood Early Warning for Cambodia
+Working with a nongovernmental organization called People In Need under our [Cambodia Development Innovations](https://www.dai.com/our-work/projects/cambodia-development-innovations) project, the DAI Maker Lab designed a sonar stream gauge called [Tepmachcha](https://github.com/DAI-Maker-Lab/tepmachcha) for flood detection in vulnerable areas. This $300 device triggers People In Need's interactive voice response (IVR) system to send warning calls to thousands of downstream users within minutes of detecting a flood condition. Because few phones feature adequate Khmer language support, this audio warning call is effective where SMS warnings would fall short. This idiosyncratic local need was far too niche to be met by commercial manufacturers, but the DAI Maker Lab was able to work with People In Need to design a device that worked with the API of its RapidPro IVR system and to train its staff to build, maintain, and extend the design. With a further grant from the Development Innovations project, People In Need has since built nine more units to extend the flood warning network across the country.
+
+
 
 
 ##  Development Equipment
