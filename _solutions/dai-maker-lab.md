@@ -20,22 +20,12 @@ Working with a nongovernmental organization called People In Need under our [Cam
 ## Empowering Water Utilities—and Local Entrepreneurs—in Indonesia
 The [Indonesia Urban Water, Sanitation and Hygiene (IUWASH) Plus](https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash) project works with small water utilities to build their technical and administrative capacities to provide quality service. Real-time data about parameters such as water pressure can be a powerful tool for utilities to operate their distribution networks more effectively, but commercial hardware is too expensive for most Indonesian utilities, and local support is unavailable. With the support of IUWASH Plus and the DAI Maker Lab, Jakarta makerspace Makedonia is working with local innovators to engage utilities in a user-centered design process around water pressure telemetry hardware. Once testing and iterative prototyping yields a final design, IUWASH Plus will issue the first commercial contracts for deploying the units. Rather than procuring expensive and unsustainable commercial hardware, the project will create a local private sector ecosystem that can meet the need with locally appropriate devices.
 
-
-##  Development Equipment
-
-The conundrum is as old as development work: certain capacities cannot be built without access to specialized equipment. But because that equipment is rarely designed with developing country environments in mind, failures are more common than successes. Locally inappropriate design, electrical problems, lack of repair personnel, and other problems mean that success rates with these equipment installations are dispiritingly low.
-
-Thanks to tools and approaches developed within the maker movement, we now have an alternative. Stakeholders can be actively engaged in a user-centered design process for their own equipment. This equipment can be prototyped, tested, and iterated in the context that it will be used. And it can be built, repaired, and extended by beneficiaries who have been provided with the tools, open source hardware and software, and knowledge to do so. By pioneering this user-centered design paradigm, the DAI Maker Lab is [allowing development projects][2] to leave beneficiaries with truly appropriate equipment that can genuinely belong to them in a way never before possible.
-
-##  Maker Spaces
-
-DAI is integrating collaborative workshops, known as makerspaces, into its programming in key technical areas. By giving local populations access to the tools, knowledge, and opportunity to develop their own solutions to local problems, we create tremendous opportunities for economic, youth, and workforce development, and empower communities to apply a new kind of hyperlocal technology to the challenges they face.
+Building skills and industries in El Salvador. It is a familiar problem: graduates of vocational institutions struggle to find jobs, while industry has unfilled vacancies because the skills they need are in short supply in the local workforce. Part of the problem is that technology moves fast in a global marketplace, and what industry demands a year from now could be quite different from what it needs today. How can vocational institutions equip workforces with skills that industry does not even know it wants yet? The DAI Maker Lab is supporting an innovative initiative under the Puentes para el Empleo ("Bridges to Employment") project to address this need called the Puentes Makerspace Platform. Puentes is funding two makerspaces - collaborative workspaces where youth can access tools and training in an open-ended, youth-led environment - in vocational and community institutions. These makerspaces will serve as platforms for small teams of youth to participate in industry-sponsored competitions to demonstrate skills demanded by local enterprises. With their physical work product as credential, these teams will be able to build and demonstrate their technical skills in areas like 3D computer-aided design and digital manufacturing for rapid prototyping, as well as soft skills in areas like presentation and teamwork, directly to employers. This will enable youth to lead the introduction of new technologies into the workforce, even if economic and security considerations make it difficult for them to participate in traditional didactic vocational training.
 
 To keep in touch with the DAI Maker Lab, follow us here in this space, on Twitter at [@DAI_Maker_Lab][3], or by contacting us at [robert_ryan-silva@dai.com][4].
 
 ![][5]
 
-[2]: http://dai-global-developments.com/articles/diy-development/?utm_source=daidotcom
 [3]: http://twitter.com/DAI_Maker_Lab
 [4]: mailto:robert_ryan-silva@dai.com
 [5]: /uploads/rob.jpg
