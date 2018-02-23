@@ -22,16 +22,16 @@ layout: solution
 
 Our inclusive economic growth work focuses on sustainability, and builds on the belief that small businesses and farmers play vital roles in the value chains at the heart of developing economies. We work to improve domestic and global market access, forge links between companies, enhance workforce productivity, expand access to finance, and boost local value addition. As incomes rise, so do the structures—and the courage—to demand accountability from government officials, especially in the development of predictable, internationally competitive business environments.
 
-[Value Chain and Market Systems Development](/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development)—From input suppliers to end retailers, we strengthen the capabilities of all actors along a product line to meet market demand by alleviating constraints on productivity and growth, increasing access to quality inputs and working capital, improving quality, meeting international standards and market information.
+[Value Chain and Market Systems Development](/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development)—From input suppliers to end retailers, we strengthen the capabilities of all actors along a product line to meet market demand by alleviating constraints on productivity and growth, increasing access to quality inputs and working capital, improving quality, and meeting international standards.
 
 [Agriculture and Food Security](/our-work/solutions/economic-growth-solutions/agriculture-and-food-security)—We address food insecurity by championing sustainable solutions that lead to resilient and sustainable livelihoods.
 
-[Finance and Investment](/our-work/solutions/economic-growth-solutions/finance-and-investment)—We develop innovative, technology-driven finance and investment solutions that accelerate farming, enterprise and industry expansion.
+[Finance and Investment](/our-work/solutions/economic-growth-solutions/finance-and-investment)—We develop innovative, technology-driven finance and investment solutions that accelerate farming, enterprise, and industry expansion.
 
 [Business Environment Reform](/our-work/solutions/economic-growth-solutions/business-environment-reform)—We have long been a leader in reforming business environments, which improves the competitiveness of countries, industries, and companies in domestic and global markets.
 
 [Trade](/our-work/solutions/economic-growth-solutions/trade)—We work with countries and businesses to increase their participation in local, regional, and international markets.
 
-[Innovation and Entrepreneurship](/our-work/solutions/economic-growth-solutions/innovation-and-entrepreneurship)—A pioneer of developing and implementing innovative start-up, SME, and private sector growth strategies for national and international competitiveness.
+[Innovation and Entrepreneurship](/our-work/solutions/economic-growth-solutions/innovation-and-entrepreneurship)—We were a pioneer in developing and implementing innovative startup, small, and medium enterprises and private sector growth strategies for national and international competitiveness.
 
 [Gender](/our-work/solutions/economic-growth-solutions/gender)—DAI integrates gender equity and women’s empowerment programming across all our services: design, research, monitoring and evaluation, assessments, and implementation, as well as through our staffing.
