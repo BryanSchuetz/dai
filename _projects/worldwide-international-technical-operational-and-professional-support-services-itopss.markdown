@@ -16,7 +16,7 @@ regions: Worldwide
 
 In an increasingly interconnected world in which people and disease move quickly, the U.S. Centers for Disease Control and Prevention (CDC) is working to protect Americans at home and abroad by projecting its scientific expertise, partnerships, and knowledge base to more than 80 countries around the world. The CDC established the International Technical, Operational, and Professional Support Services (ITOPSS) contract to help achieve its goals of improving health and well-being of people worldwide by helping countries prepare for and respond to emerging health security threats.
 
-DAI supports ITOPSS by identifying and rapidly deploying qualified professionals to short- and long-term assignments in difficult country contexts. Working with consortium partners Emory University, Tulane University, and Columbia University, DAI’s ITOPSS team provides technical, operational, and professional support services to a wide range of health care professionals around the world.
+DAI supports ITOPSS by identifying and rapidly deploying qualified professionals to short- and long-term assignments in difficult country contexts. Working with consortium partners Karna, Emory University, Tulane University, and Columbia University's ICAP Program, DAI’s ITOPSS team provides technical, operational, and professional support services to a wide range of health care professionals around the world.
 
 ![ITOPSS_photo-39b77e.jpg](/uploads/ITOPSS_photo-39b77e.jpg)
 
