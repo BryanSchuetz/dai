@@ -1,6 +1,6 @@
 ---
 title: Nigeria—State Partnership for Accountable, Responsive, and Capable Government
-  (SPARC); Accountable, Responsive, and Capable Government(ARC)
+  (SPARC); Accountable, Responsive, and Capable Government (ARC)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Accountable, Responsive, and Capable Government (ARC) programme supports
   the Nigerian government in more effectively managing resources and providing more
