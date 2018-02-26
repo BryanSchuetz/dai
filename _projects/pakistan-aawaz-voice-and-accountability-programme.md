@@ -25,7 +25,7 @@ layout: project
 
 [AAWAZ](http://aawaz.org.pk/index.php?action=home) brings together some of the most important civil society development organizations in Pakistan: Aurat Foundation, Southeast Asia Partnership-Pakistan, Strengthening Participatory Organization, and Sungi Development Foundation. Together, they form an integrated network—managed by DAI—to strengthen Pakistani citizens' capacity to collectively voice their priorities, bring about reform, and hold the government accountable.
 
-<iframe src="https://player.vimeo.com/video/162528947" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/257543586" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [AAWAZ][1] works from the community to the national level to enhance women's safe political participation, strengthen community cohesion and nonviolent dispute resolution, and build citizens' capacity, particularly women and other disadvantaged groups, to influence the quality of government service delivery. It also has an investigative component, implemented by the Policy, Advocacy, Research and Results facility, that synthesizes information and findings from AAWAZ and similar programs to build a robust evidence base around community voice and empowerment with a view to initiating reform within Pakistan as well as contributing to global debates on the understanding of citizen empowerment and accountability.
 
