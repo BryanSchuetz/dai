@@ -6,7 +6,7 @@ summary: 'The Accountable, Responsive, and Capable Government (ARC) programme su
   the Nigerian government in more effectively managing resources and providing more
   responsive and accountable services to its citizens. '
 start: 2008
-end: 2020
+end: 2021
 client: U.K. Department for International Development
 solutions:
 - Governance
