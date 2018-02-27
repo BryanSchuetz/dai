@@ -20,8 +20,6 @@ PREIA works to increase Pakistan's access to regional and international markets 
 
 Additionally, PREIA's Activity Fund is helping local organizations build capacities to support trade reform and modernization and, subsequently, to utilize these capacities in support of local stakeholders.
 
-<iframe src="https://player.vimeo.com/video/257794900" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 ### Sample Activities
 
 * Increase capacity of Pakistani institutions and actors to assess policy, negotiate agreements, improve regulations, and engage with stakeholders on trade.
