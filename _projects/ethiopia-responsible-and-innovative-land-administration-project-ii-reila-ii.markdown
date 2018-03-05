@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Ethiopia
 ---
 
-Ethiopia’s national strategic investment framework seeks to address the interconnected problems of poverty, vulnerability, and land degradation in rural communities by enhancing the country’s land administration system. Reforming land management and certification practices will accelerate the registration of rural parcels and improve land tenure security, encouraging farmer to invest in their land and leading to increased agricultural productivity.
+Ethiopia’s national strategic investment framework seeks to address the interconnected problems of poverty, vulnerability, and land degradation in rural communities by enhancing the country’s land administration system. Reforming land management and certification practices will accelerate the registration of rural parcels and improve land tenure security, encouraging farmers to invest in their land and leading to increased agricultural productivity.
 
 To advance these critical improvements, DAI is supporting NIRAS in implementing the Responsible and Innovative Land Administration Project II (REILA II), funded by the Finnish Ministry of Foreign Affairs. The project supports Ethiopia’s Ministry of Agriculture and Natural Resources in increasing land tenure security for farmers, building the capacity of land management officials, and growing the number of skilled personnel working in land administration. By promoting sustainable land management policies and practices, REILA II is helping to improve the economic well-being of rural Ethiopians as well combating land degradation resulting from climate change.
 
