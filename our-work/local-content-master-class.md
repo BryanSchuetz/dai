@@ -13,6 +13,10 @@ The [Sustainable Business Group](/our-work/solutions/sustainable-business) offer
 
 > “Certainly the prime local content course in the market. Highly recommended.” — *Local Content Manager, International oil field services company*
 
+<a class="typeform-share button" href="https://dai-global.typeform.com/to/i0hR5P" data-mode="drawer_right" data-auto-open="true" data-hide-headers="true" data-hide-footer="true" data-submit-close-delay="0" target="_blank"> </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
+
+
 Since 2015, the topic of local content has taken center stage, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
 
 <script id="infogram_0__/a4OO6kty6VOVCplLgMBc" title="Master Class Evaluations" src="https://e.infogram.com/js/dist/embed.js?BHY" type="text/javascript"></script>
