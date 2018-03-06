@@ -4,9 +4,13 @@ date: 2018-03-06 16:39:00 Z
 published: false
 solutions:
 - Gender
+summary: 'This International Women''s Day, March 8, DAI will press for progress by
+  hosting an internal panel of DAI gender experts to debate future programming and
+  by externally highlighting women''s successes from our work around the globe. Read
+  our stories on Facebook and Twitter using the #PressforProgress hashtag.'
 ---
 
-This International Women's Day, March 8, DAI will press for further progress by hosting an internal panel of DAI gender experts to debate future programming and by externally highlighting women's successes from our work around the globe. Read our stories on Facebook and Twitter using the #PressforProgress hashtag. 
+This [International Women's Day](https://www.internationalwomensday.com/), March 8, DAI will press for progress by hosting an internal panel of DAI gender experts to debate future programming and by externally highlighting women's successes from our work around the globe. Read our stories on Facebook and Twitter using the [#PressforProgress](https://twitter.com/search?q=%23PressForProgress&src=tyah) hashtag.
 
 DAI integrates gender programming across all our services: design, research, monitoring and evaluation, assessments, and implementation, as well as through our staffing of projects. We draw not only on tool kits, research, and theory—valuable as those things are—but on more than 40 years of field experience of what works, what does not, and why. Our holistic approach is founded on culturally sensitive techniques that create real change for women and men.
 
