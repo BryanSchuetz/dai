@@ -2,7 +2,8 @@
 title: Ruth Sparrey
 date: 2016-01-21 22:18:00 Z
 lastname: Sparrey
-summary: Ruth Sparrey is Director of Managing for Development Results
+summary: 'Ruth Sparrey is Director of Managing for Development Results in our Europe
+  office. '
 job-title: Director, Managing for Development Results
 image: https://assetify-dai.com/experts/RuthInner.jpg
 solutions:
