@@ -1,7 +1,6 @@
 ---
 title: DAI Celebrates Projects Pressing for Progress in Gender Equality
 date: 2018-03-06 16:39:00 Z
-published: false
 solutions:
 - Gender
 summary: 'This International Women''s Day, March 8, DAI will press for progress by
