@@ -10,9 +10,9 @@ This International Women's Day, March 8, DAI will press for further progress by 
 
 DAI integrates gender programming across all our services: design, research, monitoring and evaluation, assessments, and implementation, as well as through our staffing of projects. We draw not only on tool kits, research, and theory—valuable as those things are—but on more than 40 years of field experience of what works, what does not, and why. Our holistic approach is founded on culturally sensitive techniques that create real change for women and men.
 
-We are currently implementing the single largest gender program for the U.S. Agency for International Development (USAID) in Afghanistan, called [Promote: Women in the Economy (WIE)](https://www.dai.com/our-work/projects/afghanistan-women-in-the-economy). Together, WIE and DAI-led [Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) represent the largest single effort under USAID's [Promote](https://www.usaid.gov/afghanistan/promote/) indefinite delivery/indefinite quantity contract. To learn more about WIE, watch the video:
+We are currently implementing the single largest gender program for the U.S. Agency for International Development (USAID) in Afghanistan, called [Promote: Women in the Economy (WIE)](https://www.dai.com/our-work/projects/afghanistan-women-in-the-economy). Together, WIE and DAI-led [Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) represent the largest single effort under USAID's [Promote](https://www.usaid.gov/afghanistan/promote/) indefinite delivery/indefinite quantity contract. To hear how WIE staff are pressing for progress, watch the video:
 
-
+<iframe src="https://player.vimeo.com/video/258827338" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 In the [Middle East](https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund), we are implementing a first-of-its-kind project to stimulate increased women's economic empowerment and agency through a market systems approach for the U.K. Department for International Development (DFID) and the Islamic Development Bank.
 
