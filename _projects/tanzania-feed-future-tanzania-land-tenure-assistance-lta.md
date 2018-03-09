@@ -2,8 +2,8 @@
 title: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 date: 2016-01-21 22:40:00 Z
 summary: The Land Tenure Assistance project is pioneering a low-cost, participatory
-  land registration system that enables smallholder landowners in Tanzania secure
-  their property rights.
+  land registration system that works at the local level to allow smallholder landowners
+  to secure their property rights.
 start: 2015
 end: 2019
 client: U.S. Agency for International Development
@@ -19,9 +19,9 @@ country:
 layout: project
 ---
 
-Smallholder land registrations under the Village Land Act in Tanzania are critical to protecting local land rights. However, since passing the Village Act in 1999, the process of registration has moved slowly, primarily due to operational capacity limitations. Procedures for bringing the law into effect need to be low-cost, simple, efficient, and equitable. In addition, the land registration system must support future transactions and allow registers to be maintained at village and district levels. 
+In Tanzania, smallholder land registrations are critical to protecting local land rights. However, since passing the Village Act in 1999 to provide for the management of village lands, the process of registration has moved slowly due to limited operational capacity. To bring the law into full effect, procedures for registration and administration need to be low-cost, simple, and equitable. In addition, the land registration system must support future transactions and allow registers to be maintained at village and district levels. 
 
-Under the Land Tenure Assistance (LTA) program, funded by the U.S. Agency for International Development (USAID), DAI is modifying an existing tool for mapping smallholdings and detailing ownership claims—Mobile Application to Secure Tenure (MAST)–which USAID first piloted in Tanzania. This tool will be linked to a low-cost land registry tool, the Technical Register Under Social Tenure (TRUST), that DAI is developing at the district level, with plans to scale up to other areas of the country. The outcome is a low-cost, participatory land registration process that is [transforming the way](https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future) land rights are managed in Tanzania, with the potential for adaptation elsewhere.
+Under the Land Tenure Assistance (LTA) program, funded by the U.S. Agency for International Development (USAID), DAI is modifying an existing tool for mapping smallholdings and detailing ownership claims—the Mobile Application to Secure Tenure (MAST)–which USAID first piloted in Tanzania. This tool will be linked to a low-cost land registry tool, the Technical Register Under Social Tenure (TRUST), which DAI is developing at the district level and plans to scale up to other areas of the country. The outcome is a low-cost, participatory land registration process that is [transforming the way](https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future) land rights are managed in Tanzania, with the potential for adaptation elsewhere.
 
 <iframe src="https://player.vimeo.com/video/206238160" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -29,9 +29,9 @@ Under the Land Tenure Assistance (LTA) program, funded by the U.S. Agency for In
 
 * Assist villages and district administration in understanding the Village Land Act, completing the land-use planning process, and delivering Certificates of Customary Right of Occupancy.
 
-* Build the capacity of village land and district-level land governance institutions.
+* Build the capacity of village and district-level land governance institutions.
 
-* Provide training on and expand the use of the MAST application throughout Tanzania.
+* Provide training on and expand the use of the MAST tool throughout Tanzania.
 
 ### Select Results
 
