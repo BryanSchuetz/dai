@@ -1,9 +1,9 @@
 ---
 title: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 date: 2016-01-21 22:40:00 Z
-summary: The outcome of the Land Tenure Assistance project—a low-cost, participatory
-  land registration process—will [transform the way](https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future)
-  land rights are managed in Tanzania, with the potential for adaptation and use elsewhere.
+summary: The Land Tenure Assistance project is pioneering a low-cost, participatory
+  land registration system that enables smallholder landowners in Tanzania secure
+  their property rights.
 start: 2015
 end: 2019
 client: U.S. Agency for International Development
@@ -29,16 +29,14 @@ Under the Land Tenure Assistance (LTA) program, funded by the U.S. Agency for In
 
 * Assist villages and district administration in understanding the Village Land Act, completing the land-use planning process, and delivering Certificates of Customary Right of Occupancy.
 
-* Support capacity building of village and district land governance institutions.
+* Build the capacity of village land and district-level land governance institutions.
 
-* Expand programs to educate and build capacity of village land governance institutions and of district-level land governance.
-
-* Building capacity to use the MAST application throughout Tanzania.
+* Provide training on and expand the use of the MAST application throughout Tanzania.
 
 ### Select Results
 
-* Designed and developed formal field and office operations and procedures for regularising land ownership, with a view to registering land in more than 40 villages by December 2019. This process is being implemented in the districts of Iringa and Mbeya.
+* Developed formal field and office procedures for regularizing land ownership.
 
-* Completed demarcation of 32,000 parcels in  in 22 villages and issued 22,000 Certificates of Customary Right of Occupancy.
+* Demarcated 32,000 parcels in 22 villages and issued 22,000 Certificates of Customary Right of Occupancy.
 
-* Nearly 50 percent of claimants are [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, [jointly](https://land-links.org/document/lta-success-story-land-registration-opens-economic-doors-women-kiponzelo/), or in common. Analysis of incoming data is ongoing to ensure rights of women and vulnerable groups are secured.
+* Nearly 50 percent of land claims are by [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, [jointly](https://land-links.org/document/lta-success-story-land-registration-opens-economic-doors-women-kiponzelo/), or in common. 
