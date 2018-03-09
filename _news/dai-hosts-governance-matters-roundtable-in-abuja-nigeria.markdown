@@ -14,6 +14,8 @@ Issued under the auspices of the United Nations, the [17 SDGs](http://www.un.org
 
 “The word *governance* does not appear anywhere in the titles of the 17 goals,” said DAI Country Director Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), who hosted the roundtable at the Transcorp Hilton in Abuja. “But the truth is that governance is everywhere in the SDGs—and without good governance, the goals will be very difficult to achieve.”
 
+![all panel.jpg](/uploads/all%20panel.jpg)
+
 Among the panelists who discussed the centrality of good governance and efficient administration to Nigeria’s development—including health, education, poverty reduction, economic growth, human capacity development, and devolution of powers—were Mallam Nasir El-Rufai, the Governor of Kaduna State; Dr. Abdullahi Umar Ganduje, the Governor of Kano State; Professor Isaac Adewole, the Honorable Minister of Health and Princess Adejoke Orelope-Adefulire, the Senior Special Assistant to the President on SDGs. Paul Arkwright, the British High Commissioner to Nigeria, also lent support to the event.
 
 “We intend that this roundtable will yield tangible, pragmatic, and achievable recommendations that governments at all levels—federal, state, and local—can advocate for and implement to improve governance and, ultimately, service delivery for the Nigerian people,” said Abah.
