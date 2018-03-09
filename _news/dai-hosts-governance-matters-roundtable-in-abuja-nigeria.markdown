@@ -16,7 +16,9 @@ Issued under the auspices of the United Nations, the [17 SDGs](http://www.un.org
 
 ![all panel.jpg](/uploads/all%20panel.jpg)
 
-Among the panelists who discussed the centrality of good governance and efficient administration to Nigeria’s development—including health, education, poverty reduction, economic growth, human capacity development, and devolution of powers—were Mallam Nasir El-Rufai, the Governor of Kaduna State; Dr. Abdullahi Umar Ganduje, the Governor of Kano State; Professor Isaac Adewole, the Honorable Minister of Health and Princess Adejoke Orelope-Adefulire, the Senior Special Assistant to the President on SDGs. Paul Arkwright, the British High Commissioner to Nigeria, also lent support to the event.
+`Panelists included, from left, DAI Country Director Dr. Joe Abah; Governor of Kaduna State Mallam Nasir El-Rufai; Governor of Kano State Dr. Abdullahi Umar Ganduje; and Professor Isaac Adewole.`
+
+Among the panelists who discussed the centrality of good governance and efficient administration to Nigeria’s development—including health, education, poverty reduction, economic growth, human capacity development, and devolution of powers—were Mallam Nasir El-Rufai, the Governor of Kaduna State; Dr. Abdullahi Umar Ganduje, the Governor of Kano State; Professor Isaac Adewole, and the Honorable Minister of Health and Princess Adejoke Orelope-Adefulire, the Senior Special Assistant to the President on SDGs. Paul Arkwright, the British High Commissioner to Nigeria, also lent support to the event.
 
 “We intend that this roundtable will yield tangible, pragmatic, and achievable recommendations that governments at all levels—federal, state, and local—can advocate for and implement to improve governance and, ultimately, service delivery for the Nigerian people,” said Abah.
 
