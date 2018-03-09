@@ -10,7 +10,7 @@ summary: DAI recently hosted leading figures from Nigeria’s government, civil 
 social-image: "/uploads/all%20panel-9fd385.jpg"
 ---
 
-Abuja, Nigeria—DAI recently hosted leading figures from Nigeria’s government, civil society, and the international community in a productive discussion of the role of governance in delivering the Sustainable Development Goals (SDGs).
+Abuja, Nigeria—DAI yesterday hosted leading figures from Nigeria’s government, civil society, and the international community in a productive discussion of the role of governance in delivering the Sustainable Development Goals (SDGs).
 
 Issued under the auspices of the United Nations, the [17 SDGs](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) are a call to action designed to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity.
 
@@ -24,6 +24,6 @@ Among the panelists who discussed the centrality of good governance and efficien
 
 “We intend that this roundtable will yield tangible, pragmatic, and achievable recommendations that governments at all levels—federal, state, and local—can advocate for and implement to improve governance and, ultimately, service delivery for the Nigerian people,” said Abah.
 
-In addition to the distinguished speakers, the discussions featured senior representatives from the international donor, civil society, and implementing partner community, including: Stephen Haykin, U.S. Agency for International Development (USAID) Mission Director; Debbie Palmer, Head of Office, U.K. Department for International Development (DFID) Nigeria; Jeremy Kanthor, Managing Director of DAI Governance Sector; and Asishana Okauru, Director-General of the Nigeria Governors Forum.
+In addition to the distinguished speakers, the discussions featured senior representatives from the international donor, civil society, and implementing partner community, including: Stephen Haykin, U.S. Agency for International Development Mission Director; Debbie Palmer, Head of Office, U.K. Department for International Development Nigeria; Jeremy Kanthor, Managing Director of DAI Governance Sector; and Asishana Okauru, Director-General of the Nigeria Governors Forum.
 
 Governance Matters is the first of a series of high-level events collectively known as the “DAI Development Matters” series, which will seek to strengthen the nexus between central governance institutions (such as planning, budgeting, and human resources) and service delivery performance in key sectors such as health, education, infrastructure, agriculture, and trade and investment.
