@@ -1,10 +1,13 @@
 ---
 title: DAI Hosts “Governance Matters” Roundtable in Abuja, Nigeria
 date: 2018-03-09 11:47:00 Z
+solutions:
+- Governance
 regions: Sub-Saharan Africa
 summary: DAI recently hosted leading figures from Nigeria’s government, civil society,
   and the international community in a productive discussion of the role of governance
   in delivering the Sustainable Development Goals.
+social-image: "/uploads/all%20panel-9fd385.jpg"
 ---
 
 Abuja, Nigeria—DAI recently hosted leading figures from Nigeria’s government, civil society, and the international community in a productive discussion of the role of governance in delivering the Sustainable Development Goals (SDGs).
