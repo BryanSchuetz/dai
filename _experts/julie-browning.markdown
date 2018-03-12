@@ -5,7 +5,7 @@ lastname: Browning
 summary: Julie Browning oversees projects in Cambodia, Indonesia, Krgyzstan, and Sri
   Lanka. She has expertise in elections, local governance and political transitions,
   and civil society.
-job-title: Director, Governance Projects, Asia
+job-title: Director, Governance, Asia
 image: "/uploads/Julie%20Browning%20Portal.jpg"
 solutions:
 - Governance
