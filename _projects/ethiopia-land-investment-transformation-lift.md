@@ -29,15 +29,23 @@ The Land Investment for Transformation programme (LIFT) is improving the incomes
 ### Sample Activities
 
 * Implement a second-level land certification process by which 14 million parcels of rural land will be certified, 70 percent of the holders of which will be, jointly or individually, women.
+
 * Set up a rural land administration system that will sustain the certification process and ensure [farmers' security](http://www.seepnetwork.org/blog/improved-land-security-promotes-financial-inclusion-ethiopian-farmers) of land holding.
+
 * [Increase access to credit](https://beamexchange.org/community/blogs/2017/11/13/land-tenure-security-financial-inclusion/), improve policies and institutions to enhance opportunities for rental lands and service providers.
+
 * Increase investment by farmers in planting trees, use of better seeds and agricultural practices, as well as increasing aggregations of cultivated lands through rental transactions, and facilitating a reduction in the cost of production.
 
 ### Select Results
 
-* Established a formal system for regularising land ownership and identified and registered more than 3 million land parcels as of January 2017, providing greater security of tenure, encouraging investment, and underpinning long-term social stability.
-* Ensured that early 90 percent of land certificates now include the name of a woman.
-* Enabled farmers to take advantage of individual loans as a result of holding their Second Level Land Certificate—a first for Ethiopia.
-* Introduced a network of commercially sustainable land rental service providers, facilitating land rental transactions in rural areas.
-* Started implementation of a new Rural Land Administration System to record subsequent land registration transactions.
+* Established a formal system for regularising land ownership and identified and registered 5.5 million land parcels, providing greater security of tenure, encouraging investment, and underpinning long-term social stability.
+
+* Ensured that nearly 90 percent of land certificates now include the name of a woman.
+
+* Enabled 5,000 farmers to take advantage of individual loans with a total value of $5 million as a result of holding their Second Level Land Certificate—a first for Ethiopia.
+
+* Introduced a network of 300 land rental service providers, who have already facilitated more than 7,000 formal land rental transactions in rural areas.
+
+* Progressed implementation of a new Rural Land Administration System to record subsequent land registration transactions.
+
 * Completed a number of research and evidence-based land policy reports, including gender and social inclusion research, to allow government to make informed decisions on land governance.
