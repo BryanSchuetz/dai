@@ -1,6 +1,6 @@
 ---
 title: Land Team to Present Case Studies from Africa at World Bank Conference
-date: 2018-03-12 12:55:00 Z
+date: 2018-03-12 12:53:00 Z
 solutions:
 - Land Tenure and Property Rights
 - Governance
