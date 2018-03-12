@@ -29,23 +29,15 @@ The Land Investment for Transformation (LIFT) programme, funded by the U.K. Depa
 ### Sample Activities
 
 * Implement a second-level land certification process to register 14 million parcels of rural land, with 70 percent of holders being women, either jointly or individually.
-
 * Establish a rural land administration system to sustain the certification process and ensure [security of land holdings for farmers.](http://www.seepnetwork.org/blog/improved-land-security-promotes-financial-inclusion-ethiopian-farmers)
-
 * [Increase access to credit](https://beamexchange.org/community/blogs/2017/11/13/land-tenure-security-financial-inclusion/) and improve policies and institutions to enhance opportunities for rental lands and land service providers.
-
 * Promote investment by farmers such as planting trees and using improved seeds and agricultural practices.
 
 ### Select Results
 
 * Established system for regularising land ownership and identified and registered 5.5 million land parcels, providing greater security of tenure and social stability, as well as encouraging investment.
-
 * Ensured that nearly 90 percent of land certificates now include the name of a woman.
-
 * Enabled 5,000 farmers to take advantage of individual loans, totaling $5 million, as a result of holding their second-level land certificate.
-
 * Introduced a network of 300 land rental service providers, who have facilitated more than 7,000 formal land rental transactions in rural areas.
-
 * Advanced implementation of the new Rural Land Administration System to record post-registration land transactions.
-
 * Produced land policy reports, including gender and social inclusion research, to allow government stakeholders to make evidence-based decisions on land governance.
