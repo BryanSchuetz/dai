@@ -1,10 +1,11 @@
 ---
 title: Local Content Master Class
 date: 2017-06-19 15:11:00 Z
-layout: default
+permalink: linkedin
 summary: The Sustainable Business Group offers the industry-leading Master Class enabling
   regulators, companies, and contractors to effectively design and manage local content
   to maximize benefits and minimize risk.
+layout: default
 ---
 
 # Local Content Master Class
