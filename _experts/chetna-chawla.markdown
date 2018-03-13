@@ -1,12 +1,12 @@
 ---
 title: Chetna Chawla
 date: 2018-03-13 16:43:00 Z
-published: false
 lastname: Chawla
 summary: 'Chetna Chawla is Technology Director of DAI Global Health and has more than
   20 years’ experience in technology consulting, delivering high-impact electronic
   governance programs. '
 job-title: Technology Director, DAI Global Health
+image: "/uploads/Chetna%20Chawla.jpg"
 solutions:
 - Health Governance
 - Digital
