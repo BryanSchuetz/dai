@@ -16,7 +16,7 @@ summary: "[Ian Rose](https://www.dai.com/who-we-are/our-team/ian-rose), DAI’s 
 
 [Ian Rose](https://www.dai.com/who-we-are/our-team/ian-rose), DAI’s Senior Principal Global Practice Specialist for Land Tenure and Property Rights presented Monday at the [CASP](https://www.cta.org.mz/index.php/novidades/cta/716-xv-casp) conference in Maputo, Mozambique. The annual conference highlights the country’s investment environment and is hosted by the [CTA](https://www.cta.org.mz/) (Confederação das Associações Económicas de Moçambique), the leading association of the private sector in Mozambique.
 
-Among the more than 1,000 people in attendance were President Filipe Jacinto Nyusi, Prime Minister Carlos Agostinho do Rosário, Minister of Land and Rural Development, and Minister of Industry and Commerce Ragendra Berta de Sousa.
+Among the more than 1,000 people in attendance were President Filipe Jacinto Nyusi, Prime Minister Carlos Agostinho do Rosário, Minister of Land and Rural Development Celso Correia, and Minister of Industry and Commerce Ragendra Berta de Sousa.
 
 ![PAINEL2(2).jpg](/uploads/PAINEL2(2).jpg)
 
