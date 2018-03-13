@@ -1,7 +1,6 @@
 ---
 title: DAI’s Ian Rose Presents in Mozambique on Legal Reform in the Land Sector
 date: 2018-03-12 16:22:00 Z
-published: false
 solutions:
 - Land Tenure and Property Rights
 regions: Sub-Saharan Africa
