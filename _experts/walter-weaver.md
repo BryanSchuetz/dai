@@ -12,15 +12,7 @@ solutions:
 layout: expert
 ---
 
-Walter Weaver has 18 years of experience working on diverse development projects worldwide. At 13, he moved to Alexandria, Egypt, where his father was working on a U.S. Agency for International Development (USAID) wastewater project.
-
-Inspired by the work his father did, he resolved to pursue a similar career in international development, driven by the conviction that the Earth is a closed loop system, and shaping a more livable world requires that we all contribute to keeping it healthy.
-
-> "Water is the ultimate cross-cutting theme; it impacts everyone and everything we do." — Walter Weaver
-
-Walter is a skilled project manager in environment and sustainable development and natural resource topics. He has experience conducting research and analysis, performing assessments, engaging stakeholders, developing strategies and workplans, conducting outreach, coordinating with donors and partners, and facilitating workshops and events. He has led policy development and innovative financing approaches, including public sector instruments and commercial bank loan guarantees in Central America and Peru. His most memorable experience was working with street youth in El Alto, Bolivia, on a recycling program, to which he contributed by developing economic alternatives that allowed participants to generate income.
-
-Walter has managed pollution prevention and environmental projects with the public and private sectors, supporting analytical, policy, and financing efforts, for clients including USAID, the Millennium Challenge Corporation, and the International Finance Corporation.
+As he spent time as a child in the United States, Mexico, and Egypt, Walter Weaver wondered why a wide income gulf existed between developed countries and developing countries. As an undergraduate, he found the opportunity to probe this question from a wide array of angles through the lens of political economy—history, city and regional planning, anthropology, sociology, economics, political science, and more. For the last 20 years, he has focused his broad interests in development on environment projects in Asia, Latin America, the Middle East, and parts of Africa. This has included support for projects focused on water, sanitation, and hygiene; urban water demand management; biodiversity conservation; energy efficiency; and waste recycling and industrial pollution prevention—including support for related policy reform and financing. Today, Walter manages a portfolio of some 15 environment, economic growth, and governance programs across Asia.
 
 * M.A., international relations, Johns Hopkins University
 * B.A., political economy, University of California, Berkeley
