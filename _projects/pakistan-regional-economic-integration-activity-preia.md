@@ -29,3 +29,11 @@ Additionally, PREIA's Activity Fund is helping local organizations build capacit
 * Strengthen dialogues among the business community, academia, media, government policymakers, and other stakeholders.
 * In coordination with other U.S. Government and donor-financed efforts, support the Federal Board of Revenue (FBR) with development and implementation of its Customs Reform Roadmap.
 * Strengthen capacity of FBR/Customs and other border control agencies to implement global best practices and improve compliance.
+
+### Select Results
+
+* Delivered national training on the WTO agreement on sanitary and phytosanitary measures to stakeholders from the Government of Pakistan, exporters, and agriculturalists.
+* Supported the Ministry of Commerce for the 7th Afghanistan Pakistan Transit Trade Coordination Authority (APPTA) meeting by organizing consultations with stakeholders and mapping the status of APTTA implementation.
+* Completed preliminary assessment of the Ministry of Commerce’s practices for evaluating the performance of commercial officers and made recommendations for improved monitoring and evaluation.
+* Organized working groups in Burban and Islamabad to finalize Pakistan’s Electronic Commerce Framework; sessions allowed stakeholders to assess draft policy, present and discuss findings, and recommend improvements of institutional, legal, and financial mechanisms for electronic commerce.
+* Collaborated with the International Trade Centre, United Nations Conference on Trade and Development, and the World Customs Organization to organize a three-day workshop in Islamabad on the implementation of the WTO Trade Facilitation Agreement.
