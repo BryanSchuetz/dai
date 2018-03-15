@@ -21,10 +21,8 @@ promos:
 - title: "**News:** Recent Fragile States News"
   link: "/news/view-more-news?filter=fragile-states"
 layout: solution
+hero: true
 ---
-
-DAI’s fragile states work, led by the Center for Secure and Stable States, builds on our global reputation for innovative post-crisis assistance to support political transition, ensure short-term stability operations, prevent and counter violent extremism (P/CVE), and lay the foundation for long-term development in fragile, crisis-stricken states. 
-
 Grounded in research and learning, we engage with local partners and our international counterparts in the development, research, diplomatic, and military communities to deliver locally-driven solutions to the economic, social, and political drivers of fragility, ideally before they manifest in conflict and instability. Our programs build resilient communities, empower moderate voices, rehabilitate and reintegrate ex-combatants, and support stable and responsive institutions.
 
 [Peace-Building and Political Transition](/our-work/solutions/fragile-states-solutions/peace-building-and-political-transition) — At critical moments in a country’s transition process, we facilitate the sustainable rebuilding of communities by their own members while supporting progress toward legitimate indigenous governments that are better able to respond to the needs of their populations. We identify key individuals and groups committed to peaceful, participatory reform; strengthen locally driven violence-mitigation efforts; and provide economic recovery opportunities to stricken communities.

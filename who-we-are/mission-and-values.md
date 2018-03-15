@@ -1,10 +1,10 @@
 ---
 title: Mission & Values
 layout: node
+summary: |
+  DAI’s mission is to make a lasting difference in the world by helping people improve their lives. We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable.
+hero: true
 ---
-
-DAI’s mission is to make a lasting difference in the world by helping people improve their lives. We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable.
-
 To achieve this mission, we must be a great place to work and we must be a successful business. We need to attract and retain extraordinary talent, and provide our team with professional opportunity, fair salary and benefits, and a healthy work-life balance. We also must perform as a business so that we can meet our obligations, invest in our future, and reward our employee owners. The more successful we are as a business, the greater development impact we can have.
 
 In everything we do, we live by four core values:

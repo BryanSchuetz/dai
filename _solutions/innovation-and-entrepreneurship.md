@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/economic-growth-solutions/innovation-and-entrepr
 solutions:
 - Economic Growth
 layout: solution
+hero: true
 ---
 
 A pioneer of developing and implementing strategies for national competitiveness, DAI now works at the forefront of development strategies around low-carbon growth.

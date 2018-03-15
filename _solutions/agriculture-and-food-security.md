@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/economic-growth-solutions/agriculture-and-food-s
 solutions:
 - Economic Growth
 layout: solution
+hero: true
 ---
 
 We help communities, nations, and regions address food insecurity by championing solutions that lead to resilient and sustainable livelihoods, including increasing agricultural productivity and production, expanding opportunities to increase and diversify incomes, and promoting socially and economically responsible safety nets.

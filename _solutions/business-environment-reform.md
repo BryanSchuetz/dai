@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/economic-growth-solutions/business-environment-r
 solutions:
 - Economic Growth
 layout: solution
+hero: true
 ---
 
 We have deep experience in reforming business environments to improve competitiveness of companies, industries, and countries in domestic and global markets.

@@ -1,13 +1,14 @@
 ---
-title: Brussels, Portfolio Coordinators
+title: Global Offices
 permalink: "/who-we-are/global-reach/brussels/contacts/coordinators"
 layout: node
 redirect_from: 
-summary: Multicultural, multilingual, and multidisciplinary to the core—global in
-  outlook and approach—DAI’s staff are steeped in the challenges of delivering development
-  solutions in the field. They are committed to sharing our innovation and experience
-  to inform international development practices worldwide.
+summary: |
+  Since 1970, we have worked in more than 150 countries, from stable societies and high-growtheconomies to challenging environments racked by political or military conflict. At any one time we are likely to have active projects in 90 or more countries. This worldwide portfolio is supported from corporate offices in Belgium, the United Kingdom, and the United States.
+hero: true
 ---
+
+# Brussels, Portfolio Coordinators
 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
 

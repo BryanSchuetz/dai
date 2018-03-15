@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/corporate/local-content-and-supply-chain-managem
 solutions:
 - Sustainable Business
 layout: solution
+hero: true
 ---
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) builds in-house programs or develops multistakeholder, industry-wide solutions that will create a sustainable industrial base without losing sight of immediate business needs. Our approach begins with a discussion of business objectives, procurement needs, and community expectations, and includes target-setting, stakeholder engagement, measurement and evaluation, and communications. We help clients determine if and how to engage other operators, contractors, governments, and communities in the program. We can focus our services to meet particular needs or build directories that broaden suppliers’ markets, thereby improving their abilities to thrive and to support procurement needs.

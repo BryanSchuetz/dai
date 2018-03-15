@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/environment-and-energy-solutions/water-and-sanit
 solutions:
 - Environment and Energy
 layout: solution
+hero: true
 ---
 
 Given the centrality of clean water and good sanitation to human development and prosperity, our specialists help national governments, local governments, and private companies devise and carry out plans to improve water security, water productivity, and expanded access to clean water and sanitation services. Our solutions are designed to:

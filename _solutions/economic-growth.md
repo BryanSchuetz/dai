@@ -16,10 +16,8 @@ promos:
 - title: "**News:** Recent Economic Growth News"
   link: "/news/view-more-news?filter=economic-growth"
 related: false
+hero: true
 ---
-
-**Driving trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, support livelihoods, and enhance food security.**  
-
 Our economic growth work brings together the right mix of industry dynamics to unleash broad and inclusive growth. Focusing on commercial sustainability, and building on the fundamental belief that small businesses and farmers play vital roles in the value chains at the heart of developing economies, we work to improve domestic and global market access, forge links between companies, enhance workforce productivity, expand access to finance, and boost local value. Our programs seek to leave behind adaptive commercial systems that provide ordinary citizens with concrete opportunities to build better lives for themselves, their communities, and their nations. As incomes rise, so do the structures—and the courage—to demand accountability from government officials, especially in the development of predictable, internationally competitive business environments.
 
 [Value Chain Development for Agribusiness and Other Sectors](/our-work/solutions/economic-growth-solutions/value-chain-development-agribusiness-and-other-sectors)—From input suppliers to end retailers, we strengthen the capabilities of all actors along a product line to meet market demand by alleviating constraints on productivity and growth, increasing access to quality inputs and working capital, and improving information flow.

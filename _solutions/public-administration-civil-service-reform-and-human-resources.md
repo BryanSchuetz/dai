@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/governance-solutions/public-administration-civil
 solutions:
 - governance
 layout: solution
+hero: true
 ---
 
 While well-governed institutions and a fair and just legal environment are the prerequisites for development, people are the drivers of development. We work with national and local governments to assist them in establishing the incentives and structures necessary for effective public administration and equitable civil service reform.

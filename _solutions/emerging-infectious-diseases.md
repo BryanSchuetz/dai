@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/health-solutions/emerging-infectious-diseases"
 solutions:
 - Health
 layout: solution
+hero: true
 ---
 
 Environmental changes, as well as economic and technological advancements, have changed how we interact with each other and our world, allowing infectious diseases to spread around the world at a much faster pace. As new diseases and disease variants capture headlines, we are increasingly aware of the risks created by the growing interconnectedness of the global health landscape.

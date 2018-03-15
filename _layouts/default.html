@@ -99,27 +99,44 @@
     </a> -->
   </div>
       {% endif %}
-{% if page.url contains "working-dai" %}
-  <div class="node-hero working-dai">
-
-  </div>
-{% elsif page.url contains "who-we-are" %}
-  <div class="node-hero-shade">
-    <div class="node-hero who-we-are">
-      <h1 class="hero-title">{{page.title}}</h1>
-      <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
+{% if page.hero and page.url contains "working-dai" %}
+  <div class="hero-wrap working-dai">
+    <div class="node-hero">
+        <h1 class="hero-title">{{page.title}}</h1>
+        <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
     </div>
   </div>
-{% elsif page.url contains "our-work" %}
-  <div class="node-hero our-work">
-  
+{% elsif page.hero and page.url contains "who-we-are" %}
+  <div class="hero-wrap who-we-are">
+    <div class="node-hero">
+        <h1 class="hero-title">{{page.title}}</h1>
+        <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
+    </div>
   </div>
-{% elsif page.url contains "publications" %}
-
-{% elsif page.url contains "news" %}
-
+{% elsif page.hero and page.url contains "our-work" %}
+  <div class="hero-wrap our-work">
+    <div class="node-hero">
+        <h1 class="hero-title">{% if page.icon %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }} {{ solution[0].title }} {% else %}{{page.title}}{% endif %}</h1>
+        <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}</p>
+    </div>
+  </div>
+{% elsif page.hero and page.url contains "publications" %}
+  <div class="hero-wrap publications">
+    <div class="node-hero">
+        <h1 class="hero-title">{{page.title}}</h1>
+        <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
+    </div>
+  </div>
+{% elsif page.hero and page.url contains "news" %}
+  <div class="hero-wrap news">
+    <div class="node-hero">
+        <h1 class="hero-title">{{page.title}}</h1>
+        <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
+    </div>
+  </div>
 {% endif %}
-      <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}">
+      <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}{% if page.hero %} hero{% endif %}">
+      {% if page.collection == 'news' %}<h1>{{ page.title }}</h1>{% endif %}
         {{ content }}
         {% if  page.collection == 'news' or page.collection == 'projects' or page.collection == 'experts'%}
           {% include  related.html %}

@@ -20,6 +20,7 @@ related: false
 redirect_from:
 - "/digital"
 layout: solution
+hero: true
 ---
 
 From climate-smart agricultural support systems to SMS outreach to mobile apps for budget transparency, Information Communication Technologies (ICTs) have played a central role in DAI’s approach to international development since our founding in 1970. Our approaches and activities evolve in tandem with the opportunities that new technologies present—from Palm Pilots in the early 2000’s to social media apps today—and are always integrated into project design and programmatic goals. Today, ICTs are fundamental to how our projects engage and empower populations, improve decision-making, and create efficiencies for the governments, civil society organizations, and businesses we support in communities around the world. 

@@ -345,9 +345,12 @@ ul.dropdown{
   border-bottom: 0px;
 }
 .content{
-  padding-top: 1rem;
+  padding-top:9rem;
   @include clearfix;
   padding-bottom: 9rem;
+}
+.content.hero{
+  padding-top: 1rem;
 }
 aside{
   padding: 1rem;
@@ -809,54 +812,75 @@ tbody tr:nth-child(odd) th {
   border-radius: 5px;
 }
 // 🎌 NODE 🎌
-.node-hero-shade{
-background-image: url(/assets/images/node/people-header.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.hero-wrap.working-dai{
+  background-image: url(/assets/images/node/people-header.jpg);
 }
-.node-hero{
-  @include clearfix;
-  margin-bottom: 2.5rem;
+.hero-wrap.who-we-are{
+  background-image: url(/assets/images/node/people-header.jpg);
+}
+.hero-wrap.our-work{
+  background-image: url(/assets/images/node/map-header.jpg);
+}
+.hero-wrap.publications{
+  background-image: url(/uploads/publications-hero.jpg);
+}
+.hero-wrap.news{
+  background-image: url(/uploads/news-hero.jpg);
+}
+.hero-wrap{
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
-  margin-top: 91px;
+  margin-bottom: 1.5rem;
+  margin-top: 65px;
+  @include responsive(small-screens){
+    margin-top: 92px;
+    
+  }
   @include responsive(medium-screens){
     margin-top: 114px;
   }
   @include responsive(wide-screens){
     margin-top: 127px;
+    
   }
-  height: 10rem;
-  @include responsive(medium-screens){
-    height: 14rem;
-  }
-  @include responsive(wide-screens){
-    height: 24rem;
-  }
+}
+.node-hero{ 
+  @include clearfix;
+  background-color: rgba($slate, 0.8);
+  padding-bottom: 1rem;
   padding-top: 2rem;
   padding-left: 2rem;
+  @include responsive(ultra-wide-screens){
+    padding-left: 4rem;
+  }
+  @include responsive(extra-ultra-wide-screens){
+    padding-left: 8rem;
+  }
   h1{
     color: white;
-    font-size: 5rem;
-    font-weight: black;
+    font-size: 4rem;
+    font-weight: 300;
+    svg{
+      height: 4rem;
+      width: 4rem;
+      top: .5rem;
+    }
   }
   .hero-excerpt{
     color: white;
     width: 75%;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    @include responsive(wide-screens){
+      width: 70%;
+    }
+    @include responsive(ultra-wide-screens){
+      width: 65%;
+    }
+    @include responsive(extra-ultra-wide-screens){
+      width: 60%;
+    }
   }
-}
-.node-hero.working-dai{
-  background: url(/assets/images/node/people-header.jpg);
-}
-.node-hero.who-we-are{
-  background: rgba($slate, 0.7);
-}
-.node-hero.our-work{
-  background-image: url(/assets/images/node/map-header.jpg);
-  background-position: center;
 }
 
 .node-nav-banner{

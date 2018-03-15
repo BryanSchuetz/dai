@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/environment-and-energy-solutions/land-tenure"
 solutions:
 - Environment and Energy
 layout: solution
+hero: true
 ---
 
 Secure property rights are a key to economic growth. Equitable access to land is the basis for pro-poor and socially inclusive economic growth, while competition for land often inflames tensions between different groups, resulting in conflict. In the context of climate change and population growth, with greater pressure on scarce resources, secure and equitable access to land is becoming increasingly important. As a result, the international development community is escalating its support for land-related programs around the world.

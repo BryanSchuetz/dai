@@ -17,6 +17,7 @@ promos:
   link: "/news/view-more-news?filter=health"
 related: false
 layout: solution
+hero: true
 ---
 
 **Innovating global health solutions to save lives.**

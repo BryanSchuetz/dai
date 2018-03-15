@@ -1,18 +1,21 @@
 ---
-title: United Kingdom
+title: Global Offices
 permalink: "/who-we-are/global-reach/the-united-kingdom"
 redirect_from:
 - who-we-are/global-reach/united-kingdom
 layout: node
-summary: With offices in Apsley, Hertfordshire and in London, our U.K.-based team
-  delivers results for bilateral and multilateral donors, governments, and private
-  sector clients worldwide, often in difficult environments racked by insecurity and
-  conflict. We work hand in hand with our counterparts in government and the private
-  sector to identify where international best practices can be usefully applied and
-  best tailored to the local context.
+summary: |
+  Since 1970, we have worked in more than 150 countries, from stable societies and high-growtheconomies to challenging environments racked by political or military conflict. At any one time we are likely to have active projects in 90 or more countries. This worldwide portfolio is supported from corporate offices in Belgium, the United Kingdom, and the United States.
+hero: true
 ---
+# United Kingdom
 
-With offices in Apsley, Hertfordshire and in London, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict. We work hand in hand with our counterparts in government and the private sector to identify where international best practices can be usefully applied and best tailored to the local context.
+With offices in Apsley, Hertfordshire and in London, our U.K.-based team
+delivers results for bilateral and multilateral donors, governments, and private
+sector clients worldwide, often in difficult environments racked by insecurity and
+conflict. We work hand in hand with our counterparts in government and the private
+sector to identify where international best practices can be usefully applied and
+best tailored to the local context.
 
 Our work is underpinned by decades of experience and proven methodologies in areas as diverse as public sector reform, trade and economic development, finance and microfinance, support to the land sector, food security and safety nets, climate change adaptation, crisis mitigation and recovery, and Making Markets Work for the Poor.
 

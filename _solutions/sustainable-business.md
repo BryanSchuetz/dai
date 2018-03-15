@@ -7,10 +7,6 @@ icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="x
 summary: DAI’s Sustainable Business Group (SBG) supports private companies to be smarter
   corporate citizens in their local business operations and assists public authorities
   to develop policy, regulation, and incentives that grow sustainable industries.
-  Our experts help unlock the commercial potential in growth markets by advising companies
-  on how to optimize their local supply base and labor force, comply with local content
-  requirements, demonstrate their long-term commitment to the country's development,
-  and become a trusted partner for government.
 type: primary
 redirect_from:
 - "/erg"
@@ -34,9 +30,9 @@ promos:
   link: http://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/
 related: false
 layout: solution
+hero: true
 ---
-
-DAI’s **Sustainable Business Group (SBG)** supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. Our experts help unlock the commercial potential in growth markets by advising companies on how to **optimize their local supply base** and labor force, **comply with local content requirements**, **demonstrate their long-term commitment** to the country's development, and become a **trusted partner for government.**
+Our experts help unlock the commercial potential in growth markets by advising companies on how to **optimize their local supply base** and labor force, **comply with local content requirements**, **demonstrate their long-term commitment** to the country's development, and become a **trusted partner for government.**
 
 <aside>
 <h2>Why SBG?</h2>

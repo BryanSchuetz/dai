@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/fragile-states-solutions/security-and-justice"
 solutions:
 - Fragile States
 layout: solution
+hero: true
 ---
 
 Our approach to enhancing security and justice focuses on the effectiveness, accountability, and responsiveness of security and justice institutions such as the police and the judiciary. We develop links among institutions, citizens, and communities. 

@@ -17,6 +17,7 @@ promos:
 - title: "**News:** Recent Governance News"
   link: "/news/view-more-news?filter=governance"
 related: false
+hero: true
 ---
 
 **Building effective economic and democratic governance**

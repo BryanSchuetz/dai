@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/health-solutions/nutrition-and-food-security"
 solutions:
 - Health
 layout: solution
+hero: true
 ---
 
 We build bridges between nutrition, agriculture, and food security. We are at the forefront of improving nutrition and food security outcomes through our integrated and diverse agriculture, agribusiness, and livelihoods programs. We are developing sustainable market- and community-based solutions for improving maternal and child nutrition.

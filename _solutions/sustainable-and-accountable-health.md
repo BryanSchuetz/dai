@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/health-solutions/sustainable-and-accountable-hea
 solutions:
 - Health
 layout: solution
+hero: true
 ---
 
 We engage citizens, communities, governments, and private organizations to expand access to sustainable health care. We are leaders in the development of innovative and sustainable financing approaches to expand individual and household access to health services and products, including clean water.

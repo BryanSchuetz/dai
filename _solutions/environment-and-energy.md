@@ -17,6 +17,7 @@ promos:
   link: "/news/view-more-news?filter=environment-and-energy"
 related: false
 layout: solution
+hero: true
 ---
 
 **Sound management of the earth’s ecosystems is fundamental for sustained economic growth, livelihoods, security, and human well-being. Natural resources such as clean water and air, forests, agricultural land, and coastal systems all provide the basis for lasting human development and resilience.**

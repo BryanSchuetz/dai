@@ -4,12 +4,11 @@ layout: node
 redirect_from:
 - "/smallbiz"
 related: false
-sumarry: We’re interested in you—DAI is looking to build partnerships with other development
+summary: We’re interested in you—DAI is looking to build partnerships with other development
   firms and organizations so that we can deliver the highest quality solutions to
   our clients and beneficiaries.
+hero: true
 ---
-
-<p>We&rsquo;re interested in you&mdash;DAI is looking to build partnerships with other development firms and organizations so that we can deliver the highest quality solutions to our clients and beneficiaries.</p>
 <h3>
 	Engaging Small Businesses</h3>
 <p>DAI is committed to using small and small disadvantaged businesses to provide technical assistance on our projects. We particularly welcome potential partners from any and all of the following categories:</p>

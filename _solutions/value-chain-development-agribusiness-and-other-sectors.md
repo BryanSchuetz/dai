@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/economic-growth-solutions/value-chain-developmen
 solutions:
 - Economic Growth
 layout: solution
+hero: true
 ---
 
 From input suppliers to end retailers, we strengthen the capabilities of all actors along a product line to meet market demand by alleviating constraints on productivity and growth, increasing access to high-quality inputs and working capital, and improving information flow.

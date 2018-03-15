@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/environment-and-energy-solutions/natural-resourc
 solutions:
 - Environment and Energy
 layout: solution
+hero: true
 ---
 
 Across the developing world, population growth and surging demand for agricultural land has put tremendous pressure on natural resources as people strive to meet their daily needs for food, shelter, and energy. Many governments face increasing pressure from communities and local and international businesses to exploit natural resources in the quest for economic growth. But DAI’s experience has shown that growth and conservation are not mutually exclusive—in fact, linking the two can have significant, mutually reinforcing benefits.

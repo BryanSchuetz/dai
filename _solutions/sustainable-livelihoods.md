@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/environment-and-energy-solutions/sustainable-liv
 solutions:
 - Environment and Energy
 layout: solution
+hero: true
 ---
 
 Environmental protection is no longer the exclusive domain of the public and nonprofit sectors. Operating on behalf of clients in developing countries throughout the globe, we are transforming former hindrances to growth into vehicles for sustainable development. Just as social entrepreneurs are flourishing in the developed world, we are building the capacity of developing-world businessmen and women to adopt triple-bottom-line business models that blend environmental, social, and economic returns.

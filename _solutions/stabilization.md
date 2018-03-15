@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/fragile-states-solutions/stabilization"
 solutions:
 - Fragile States
 layout: solution
+hero: true
 ---
 
 In transition environments, it’s critical that community revitalization efforts are driven by community members. We identify key groups committed to peaceful, participatory reform. We strengthen locally driven conflict mitigation efforts. And we help communities seize opportunities for economic recovery.

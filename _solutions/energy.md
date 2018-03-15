@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/environment-and-energy-solutions/energy"
 solutions:
 - Environment and Energy
 layout: solution
+hero: true
 ---
 
 Our work in renewable, locally available energy and energy-efficiency technology supports energy security, economic growth, environmental protection, and improved governance.

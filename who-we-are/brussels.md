@@ -1,8 +1,13 @@
 ---
-title: Brussels
+title: Global Offices
 permalink: "/who-we-are/global-reach/brussels"
 layout: node
+summary: |
+  Since 1970, we have worked in more than 150 countries, from stable societies and high-growtheconomies to challenging environments racked by political or military conflict. At any one time we are likely to have active projects in 90 or more countries. This worldwide portfolio is supported from corporate offices in Belgium, the United Kingdom, and the United States.
+hero: true
 ---
+
+# Brussels
 
 DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S. and U.K. operations.
 

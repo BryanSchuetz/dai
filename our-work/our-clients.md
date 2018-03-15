@@ -5,10 +5,8 @@ summary: National and local governments, bilateral and multilateral donors, priv
   corporations and philanthropies—our clients have ambitious objectives in demanding
   environments. We work with change-agents all over the world to help turn their investments
   into impact.
+hero: true
 ---
-
-National and local governments, bilateral and multilateral donors, private corporations and philanthropies—our clients have ambitious objectives in demanding environments. We work with change-agents all over the world to help turn their investments into impact. Some of our leading clients include:
-
 ## U.S. Agency for International Development
 
 In 1973, we won our first contract with USAID to analyze 36 projects in Latin America and Africa. Since then, our engagement with USAID has grown steadily to encompass multiple sectors and development disciplines in more than 100 countries worldwide.

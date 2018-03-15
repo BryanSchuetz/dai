@@ -6,10 +6,8 @@ summary: Since 1975, clients such as the U.S. Agency for International Developme
   on DAI to support sustainable economic growth, environmentally responsible agricultural
   development, and democratic processes in Latin America and the Caribbean.
 layout: node
+hero: true
 ---
-
-Since 1975, clients such as the U.S. Agency for International Development, Inter-American Development Bank, World Bank, and government of Mexico have called on DAI to support sustainable economic growth, environmentally responsible agricultural development, and democratic processes in Latin America and the Caribbean.
-
 In El Salvador:
 * We are helping the government increase tax revenues by more than $1.2 billion and tax-to-gross domestic product ratio by two percentage points from 13 to 15 percent, significantly improving government ability to invest in development objectives without raising tax rates.
 * We are working to build the job skills and employability of 20,000 at-risk youth from communities impacted by crime and violence, and connecting them with employment opportunities in the country’s highest growth economic sectors.
