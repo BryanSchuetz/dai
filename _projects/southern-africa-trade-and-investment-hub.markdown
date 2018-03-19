@@ -31,7 +31,7 @@ Building a vibrant, broad-based, and export-oriented private sector, encouraging
 
 The Southern Africa Trade and Investment Hub is based in Pretoria, South Africa, and Gaborone, Botswana, with resident advisors in Malawi and Zambia. The program works with eight Southern Africa Development Community member states: Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Swaziland, and Zambia. The Hub is also exploring potential activities in Angola, the Democratic Republic of the Congo, and Zimbabwe.
 
-![SATIH-ships.jpg](/uploads/SATIH-ships.jpg)
+![container-ships[2].jpg](/uploads/container-ships%5B2%5D.jpg)
 
 ### Sample Activities
 
