@@ -23,9 +23,9 @@ promos:
   link: "/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc"
 ---
 
-The United States Agency for International Development (USAID) Southern Africa Trade and Investment Hub (the Hub) engages with partners across Southern Africa to deepen regional economic integration, promote two-way trade with the United States under the African Growth and Opportunity Act (AGOA), and attract investment that drives commercial expansion within the region and to global markets.
+The United States Agency for International Development Southern Africa Trade and Investment Hub (the Hub) engages with partners across Southern Africa to deepen regional economic integration, promote two-way trade with the United States under the African Growth and Opportunity Act, and attract investment that drives commercial expansion within the region and to global markets.
 
-The Hub works closely with regional governments and the Southern African Development Community (SADC) on trade policy. It also engages with private and public sector organizations, business and industry associations, and international development agencies and financial institutions. A prominent feature of the current Southern African Trade and Investment Hub is its focus on finance and investment to increase U.S. business access and investment in the region.
+The Hub works closely with regional governments and the Southern African Development Community on trade policy. It also engages with private and public sector organizations, business and industry associations, and international development agencies and financial institutions. A prominent feature of the current Southern African Trade and Investment Hub is its focus on finance and investment to increase U.S. business access and investment in the region.
 
 Building a vibrant, broad-based, and export-oriented private sector, encouraging the diversification of exports beyond natural resources, and promoting a business environment that is conducive to trade fosters resilience among Southern African economies and fuels demand for U.S. goods and services. The Hub implements activities in four critical areas: finance and investment, enabling environment/trade facilitation, export competitiveness, and agribusiness.
 
@@ -44,7 +44,7 @@ The Southern Africa Trade and Investment Hub is based in Pretoria, South Africa,
 
 ### Sample Activities
 
-* Finalized a €30 million loan from the European Investment Bank (EIB) to the National Bank of Malawi (NBM) to build commodities warehouses.
+* Finalized a €30 million loan from the European Investment Bank to the National Bank of Malawi to build commodities warehouses.
 
 * Collaborated with Cargill to develop a market information system in Zambia conveying spot and future grain prices benchmarked against South Africa's Grain Information Service.
 
