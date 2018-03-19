@@ -8,7 +8,7 @@ layout: solution
 hero: true
 ---
 
-Our work in renewable, locally available energy and energy-efficiency technology supports energy security, economic growth, environmental protection, and improved governance.
+Our work in renewable, locally available energy and energy-efficiency technology supports energy security, economic growth, environmental protection, and improved governance. 
 
 With a focus on expanding cleaner energy access for the 2.4 billion people who rely on traditional biomass and expensive fuels, DAI supports governments at the national and regional levels in their design of energy, trade, and tax policies to build an environment to attract investment for wind, solar, geothermal, hydro, biomass, and efficient fossil-based energy for both grid and off-grid distributed electricity. 
 
