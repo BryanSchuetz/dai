@@ -1,10 +1,10 @@
 ---
 title: Southern Africa Trade and Investment Hub
 date: 2016-11-17 15:08:00 Z
-summary: The Southern Africa Trade and Investment Hub supports Southern Africa to
-  create a well-integrated regional economy that delivers tangible economic benefits
-  and improved food security for the people of the region through increased global
-  competitiveness, trade, and investment.
+summary: The USAID Southern Africa Trade and Investment Hub engages with partners
+  across Southern Africa to deepen regional economic integration, promote two-way
+  trade with the United States under the African Growth and Opportunity Act, and attract
+  investment that drives commercial expansion within the region and to global markets.
 start: 2016
 end: 2021
 client: U.S. Agency for International Development
