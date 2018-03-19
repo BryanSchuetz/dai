@@ -7,7 +7,7 @@ regions:
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Value Chain Development for Agribusiness and Other Sectors
+- Value Chain and Market Systems Development
 layout: expert
 image: https://assetify-dai.com/experts/Kongkona%20Sarma%20Inner.jpg
 summary: Kongkona Sarma is an experienced economic development specialist who started

@@ -13,7 +13,7 @@ country:
 - Regional
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Digital
 - Innovation and Entrepreneurship
 layout: project

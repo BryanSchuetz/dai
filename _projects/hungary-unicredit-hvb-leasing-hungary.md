@@ -10,7 +10,7 @@ country:
 - Hungary
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'DAI began supporting Unicredit Leasing Hungary (UCL) in May 2005 assisting
   the Hungarian bank to strengthen its small and medium enterprise (SME) leasing practices.

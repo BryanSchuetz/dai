@@ -275,17 +275,11 @@ header{
     display: block;
   }
 }
-li.has-dropdown ul{
-  display:none;
-}
-li.has-dropdown:hover > a{
-  color: $nav_black;
-}
-li.has-dropdown:hover ul{
-  display: inherit
-}
 ul.dropdown{
-  display: block;
+  visibility: hidden;
+  opacity: 0;
+  margin-top: -3px;
+  transition: visibility 0s linear 0.3s, opacity 0.3s ease-in-out, margin-top 0.3s ease-in-out;
   list-style-type: none;
   position: absolute;
   margin-left: 0;
@@ -333,6 +327,16 @@ ul.dropdown{
       } 
     }
   }
+}
+
+li.has-dropdown:hover ul.dropdown{
+  visibility: visible;
+  opacity: 1;
+  margin-top: 0;
+  transition: opacity 0.3s ease-in-out, margin-top 0.3s ease-in-out;
+}
+li.has-dropdown:hover > a{
+  color: $nav_black;
 }
 // 🎌 MAIN 🎌
 
@@ -713,13 +717,34 @@ footer{
   .logo--footer{
     position: relative;
     top: 2px;
-    height: 10px;
+    height: 25px;
+    width: 100px;
     float: left;
     overflow: hidden;
-    @include width(1);
+    margin-right: $gutter;
     @include responsive(medium-screens){
-      height: 20px;
-      @include width(2);
+      height: 55px;
+      width: 220px;
+    }
+    @include responsive(wide-screens){
+      height: 60px;
+      width: 240px;
+    }
+  }
+  .logo--footer--afiliate{
+    position: relative;
+    float: right;
+    height: 50px;
+    width: 84px;
+    top: -.5rem;
+    @include responsive(medium-screens){
+      height: 96px;
+      width: 159px;
+      top: -.9rem;
+    }
+    @include responsive(wide-screens){
+      height: 115px;
+      width: 192px;
     }
     margin-right: $gutter;
   }

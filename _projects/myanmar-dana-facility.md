@@ -1,5 +1,5 @@
 ---
-title: Burma—DaNa Facility
+title: Myanmar—DaNa Facility
 date: 2016-01-21 22:40:00 Z
 summary: The DaNa Facility seeks to reduce poverty and increase incomes by fostering
   a strong business environment conducive to the creation of jobs and economic opportunities
@@ -10,7 +10,7 @@ client: U.K. Department for International Development
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Asia and the Pacific
 country:
@@ -18,9 +18,9 @@ country:
 layout: project
 ---
 
-Notwithstanding growth of more than 8 percent in gross domestic product from 2014 to 2015, as well as increased foreign investment, Burma (also known as Myanmar) remains one of the poorest countries in Asia. The domestic private sector has experienced little residual benefit from outside investment, widespread underemployment remains an issue, and the majority of gains from growth are still concentrated among a few long-established business entities.
+Notwithstanding growth of more than 8 percent in gross domestic product from 2014 to 2015, as well as increased foreign investment, Myanmar remains one of the poorest countries in Asia. The domestic private sector has experienced little residual benefit from outside investment, widespread underemployment remains an issue, and the majority of gains from growth are still concentrated among a few long-established business entities.
 
-However, small and medium-sized enterprises (SMEs), including household businesses, account for more than 90 percent of all enterprises in the country. Many of these operate on an informal basis, particularly those run by women. And many thousands of potential Burmese entrepreneurs are prevented from seizing business opportunities by the lack of capital for investment and by an uncertain business environment.
+However, small and medium-sized enterprises (SMEs), including household businesses, account for more than 90 percent of all enterprises in the country. Many of these operate on an informal basis, particularly those run by women. AS a result, thousands of potential entrepreneurs are prevented from seizing business opportunities due to a lack of capital for investment and an uncertain business environment.
 
 The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperity"), a program funded by the U.K. Department for International Development, works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. DaNa works across multiple levels, including with government policy makers, business sectors leaders, and individual entrepreneurs, to address five key constraints to inclusive growth: infrastructure, regulatory environment, access to finance, exports, and inclusiveness of women and minority groups.
 

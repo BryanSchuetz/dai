@@ -1,7 +1,7 @@
 ---
-title: Value Chain Development for Agribusiness and Other Sectors
+title: Value Chain and Market Systems Development
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/economic-growth-solutions/value-chain-development-agribusiness-and-other-sectors"
+permalink: "/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development"
 solutions:
 - Economic Growth
 layout: solution

@@ -10,7 +10,7 @@ country:
 - Regional
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'For more than two decades, DAI has been the U.S. Agency for International
   Development (USAID)''s partner in microenterprise development and microenterprise

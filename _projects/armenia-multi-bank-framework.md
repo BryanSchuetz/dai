@@ -10,7 +10,7 @@ country:
 - Armenia
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'DAI was contracted by the European Bank for Reconstruction and Development
   (EBRD) to support to Armenian Partner Banks to implement small and medium enterprise

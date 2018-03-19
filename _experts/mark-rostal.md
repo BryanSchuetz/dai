@@ -9,7 +9,7 @@ job-title: Principal Advisor, Finance and Inclusive Growth
 image: "/uploads/Mark%20Rostal.jpg"
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa

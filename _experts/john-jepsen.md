@@ -9,7 +9,7 @@ job-title: Global Practice Leader, Financial Services
 image: "/uploads/New%20John%20Jepsen.jpg"
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Innovation and Entrepreneurship
 regions:
 - Latin America and the Caribbean

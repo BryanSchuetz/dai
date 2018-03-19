@@ -11,10 +11,10 @@ client: U.S. Agency for International Development
 solutions:
 - Trade
 - Business Environment Reform
-- Value Chain Development for Agribusiness and Other Sectors
+- Value Chain and Market Systems Development
 - Agriculture and Food Security
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 regions: Sub-Saharan Africa
 country: Regional

@@ -1,7 +1,7 @@
 ---
-title: Financial Services
+title: Finance and Investment
 date: 2016-01-22 00:11:00 Z
-permalink: "/our-work/solutions/economic-growth-solutions/financial-services"
+permalink: "/our-work/solutions/economic-growth-solutions/finance-and-investment"
 solutions:
 - Economic Growth
 layout: solution

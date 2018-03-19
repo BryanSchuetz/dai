@@ -1,0 +1,69 @@
+
+.form-wrapper{
+  width: 100%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: lighten($nav-gray, 2%);
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+.lead-generator{
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  
+  h3{
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .form-controls--wrap{
+    @include clearfix;
+    @include responsive(wide-screens){
+
+    }
+  }
+  input{
+    font-size: 1rem;
+    border-radius: 3px;
+    width: 100%;
+    @include responsive(wide-screens){
+      width: 60%;
+      float: left;
+      margin-right: $gutter;
+    }
+    border: 1px solid $nav_gray;
+    height: 2.25rem;
+    box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
+    margin-bottom: 1rem;
+    padding-left: .5rem;
+  }
+  
+  label{
+    display: block;
+    clear: right;
+    margin-bottom: .5rem;
+    font-weight: bold;
+  }
+
+  button{
+    display: block;
+    font-size: 1rem;
+    padding: .5rem;
+    border: transparent;
+    border-radius: 3px;
+    background-color: $link_green;
+    color: $text-white;
+    cursor: pointer;
+    @include responsive(wide-screens){
+      float: right;
+    }
+  }
+  button:hover{
+    background-color: darken($link_green, 5%);
+  }
+
+  #theForm-success{
+    display: none;
+    text-align: center;
+  }
+}

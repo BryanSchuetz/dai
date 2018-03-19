@@ -9,7 +9,7 @@ end: 2016
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Innovation and Entrepreneurship
 regions:
 - Sub-Saharan Africa

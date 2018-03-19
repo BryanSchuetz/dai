@@ -10,7 +10,7 @@ country:
 - Croatia
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'The overall objective of the European Union/European Bank for Reconstruction
   and Development SME Finance Facility for EU Accession countries was to deepen the

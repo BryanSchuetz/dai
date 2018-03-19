@@ -22,6 +22,8 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
+- title: "**Guidance Note**: _Education in Emergencies_"
+  link: "/uploads/EiE_Guidance_Note-8fc7f4.pdf"
 - title: "**Evidence Brief**: _Education in Emergencies - Political Settlements_"
   link: "/uploads/Theme%201%20-%20Political%20settlements%2008.01.18.pdf"
 - title: "**Evidence Brief**: _Education in Emergencies - Accountability_"

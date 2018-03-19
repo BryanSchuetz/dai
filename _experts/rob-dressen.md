@@ -9,7 +9,7 @@ summary: Rob Dressen is a banker with 25 years of experience in microfinance, co
 job-title: Advisor, Financial Services
 image: https://assetify-dai.com/experts/Dressen_Inner.jpg
 solutions:
-- Financial Services
+- Finance and Investment
 - Economic Growth
 regions:
 - Asia and the Pacific

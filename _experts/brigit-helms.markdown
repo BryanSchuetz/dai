@@ -8,7 +8,7 @@ job-title: Senior Principal Strategic Advisor, Strategy & Marketing
 image: "/uploads/NewBrigit.jpg"
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Sub-Saharan Africa
 articles:

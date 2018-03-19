@@ -14,7 +14,7 @@ client: U.K. Department for International Development, Swedish International Dev
   Cooperation Agency
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Sub-Saharan Africa
 country:

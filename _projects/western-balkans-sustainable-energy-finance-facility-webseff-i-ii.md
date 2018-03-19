@@ -11,7 +11,7 @@ country:
 solutions:
 - Economic Growth
 - Environment and Energy
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'Significant potential for sustainable energy investments remains untapped
   in the Western Balkans while improvement in sustainable energy still faces many

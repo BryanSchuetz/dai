@@ -10,7 +10,7 @@ summary: 'With millions of children out of school and those in school failing to
 '
 solutions:
 - Governance
-- Financial Services
+- Finance and Investment
 - Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific

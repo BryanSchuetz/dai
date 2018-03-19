@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 - Trade
 regions:
@@ -25,7 +25,7 @@ layout: project
 
 Growth in the five East African Community Partner States—Burundi, Kenya, Rwanda, Tanzania, and Uganda—has been robust but uneven, with millions of people left behind in poverty. Women, youth, smallholder farmers, and the poor are not fully represented in policy making or implementation nor integrated into the wider economic community.
 
-The [East Africa Trade and Investment Hub](https://eatradehub.nationbuilder.com/) is the U.S. Government's flagship project under the presidential Trade Africa initiative, which works to increase U.S.-Africa trade and investment, regional integration, and competitiveness. Managed by DAI, the Hub assists the region's private sector to engage with government in finding practical solutions to constraints to [trade](https://magic.piktochart.com/output/5281453-why-trade-shows-pvh) and investment. The team also builds awareness around opportunities for African and U.S. firms to increase trade, expand business partnerships, and invest in East Africa.
+The [East Africa Trade and Investment Hub](https://eatradehub.nationbuilder.com/) is the U.S. Government's flagship project under the presidential Trade Africa initiative, which works to increase U.S.-Africa trade and investment, regional integration, and competitiveness. Managed by DAI, the Hub assists the region's private sector to engage with government in finding practical solutions to constraints to [trade](https://magic.piktochart.com/output/5281453-why-trade-shows-pvh) and investment. The team also builds awareness around opportunities for African and [U.S. firms to increase trade](https://www.youtube.com/watch?v=ghZzsovQblU), expand business partnerships, and invest in East Africa.
 
 Watch this video of Kanini Mutooni, the director for investment at the East Africa Trade and Investment Hub, to see how the project works:
 <iframe src="https://player.vimeo.com/video/215195467" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -15,7 +15,7 @@ solutions:
 - Business Environment Reform
 - Economic Growth
 - Gender
-- Value Chain Development for Agribusiness and Other Sectors
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 country:

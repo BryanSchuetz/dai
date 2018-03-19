@@ -10,7 +10,7 @@ job-title: 'Chief of Party, Agricultural Credit Enhancement (ACE II) '
 image: https://assetify-dai.com/experts/GretaInner.jpg
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Digital
 - Innovation and Entrepreneurship
 regions:

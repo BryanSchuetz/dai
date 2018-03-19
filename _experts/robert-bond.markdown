@@ -7,7 +7,7 @@ summary: Robert Bond is Chief of Party for the Ukraine Financial Sector Transfor
 job-title: Chief of Party, Ukraine Financial Sector Transformation (FST) project
 image: "/uploads/BobBond.jpg"
 solutions:
-- Financial Services
+- Finance and Investment
 regions:
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean

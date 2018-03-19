@@ -9,7 +9,7 @@ regions:
 country:
 - Democratic Republic of Congo
 solutions:
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'Complementing other International Finance Corporation interventions to improve
   the enabling environment for private sector growth and investment, the capacity

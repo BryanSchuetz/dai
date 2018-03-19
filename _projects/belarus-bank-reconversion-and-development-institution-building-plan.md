@@ -9,7 +9,7 @@ regions:
 country:
 - Belarus
 solutions:
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'By March 2009, the Reconversion and Development Bank (RDB) had become the
   18th largest bank in Belarus in terms of total assets. With a focus on retail lending,

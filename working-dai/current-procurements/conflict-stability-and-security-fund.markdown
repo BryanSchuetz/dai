@@ -8,7 +8,7 @@ layout: default
 
 DAI has been awarded a place on the United Kingdom’s Conflict Stability and Security Fund (CSSF) Framework. The Framework is divided into three Lots, with four key areas in each Lot, as outlined below.
 
-<aside>As a lead contractor, DAI will provide timely access to high-quality, cost-effective, and professional technical consultancy services. We are therefore interested in identifying the right individuals and organisations that can play an important role in tender preparations, in addition to programme implementation. If you or your organisation are interested in joining DAI’s CSSF Framework network, please contact Mr. Kieran Griffin at <a href="mailto:kieran_griffin@dai.com">kieran_griffin@dai.com</a>.</aside>
+<aside>As a lead contractor, DAI will provide timely access to high-quality, cost-effective, and professional technical consultancy services. We are therefore interested in identifying the right individuals and organisations that can play an important role in tender preparations, in addition to programme implementation. If you or your organisation are interested in joining DAI’s CSSF Framework network, please contact Kieran Griffin at <a href="mailto:kieran_griffin@dai.com">kieran_griffin@dai.com</a>.</aside>
 
 
 ## Lot A: Governance, Security, and Justice

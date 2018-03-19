@@ -14,7 +14,7 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Gender
-- Value Chain Development for Agribusiness and Other Sectors
+- Value Chain and Market Systems Development
 regions:
 - Eastern Europe and Central Asia
 country:

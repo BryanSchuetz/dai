@@ -1,10 +1,10 @@
 ---
 title: Local Content Master Class
 date: 2017-06-19 15:11:00 Z
-layout: default
 summary: The Sustainable Business Group offers the industry-leading Master Class enabling
   regulators, companies, and contractors to effectively design and manage local content
   to maximize benefits and minimize risk.
+layout: default
 ---
 
 # Local Content Master Class
@@ -12,7 +12,53 @@ summary: The Sustainable Business Group offers the industry-leading Master Class
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure](/uploads/lcmc-final.pdf). 
 
 > “Certainly the prime local content course in the market. Highly recommended.” — *Local Content Manager, International oil field services company*
+<div class="form-wrapper">
+<div class="lead-generator">
+<h3>Learn About Dates, Locations, and Pricing</h3>
+<form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
+  <div class="form-controls--wrap">
+  <input type="hidden" name="utf8" value="✓">
+  <input type="hidden" name="source" id="source" value="">
+  <input type="hidden" name="campaign" id="campaign" value="">
+  {% comment %} <label for="name">Full Name</label> {% endcomment %}
+  {% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
+  {% comment %} <label for="email-address">Email Address</label> {% endcomment %}
+  <input type="email" id="email-address" name="email" placeholder="Email Address">
 
+  <button type="submit">Submit</button>
+  </div>
+</form>
+<p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
+<script>
+var queryValues = {};
+
+$.each(window.location.href.split('?').pop().split('&'), function (i, v)
+{
+    var v = v.split('=');
+    if(v.length > 1) // prevent v[1] from erroring if no querystring present
+      queryValues[ v[0].toLowerCase() ] = v[1].toLowerCase();
+});
+
+if ( queryValues.submit == 'success' )
+{
+    $('#theForm').css('display', 'none');
+    $('#theForm-success').css('display', 'block');
+}
+
+if (typeof queryValues.source != "undefined")
+{
+  var source = queryValues.source;
+  $('#source').prop("value", source);
+}
+if (typeof queryValues.campaign != "undefined")
+{
+  var campaign = queryValues.campaign;
+  $('#campaign').prop("value", campaign);
+}
+
+</script>
+</div>
+</div>
 Since 2015, the topic of local content has taken center stage, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
 
 <script id="infogram_0__/a4OO6kty6VOVCplLgMBc" title="Master Class Evaluations" src="https://e.infogram.com/js/dist/embed.js?BHY" type="text/javascript"></script>

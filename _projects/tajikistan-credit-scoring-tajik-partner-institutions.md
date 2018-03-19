@@ -10,7 +10,7 @@ country:
 - Tajikistan
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'This project''s main objective was to implement credit scoring in selected
   banks and non-bank microfinance institutions in Tajikistan. Credit scoring is a

@@ -9,7 +9,7 @@ regions:
 country:
 - Pakistan
 solutions:
-- Financial Services
+- Finance and Investment
 - Governance
 - Innovation and Entrepreneurship
 layout: project

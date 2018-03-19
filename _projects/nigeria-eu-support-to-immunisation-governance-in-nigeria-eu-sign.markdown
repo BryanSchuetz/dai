@@ -5,7 +5,7 @@ summary: 'The EU Support to Immunisation Governance in Nigeria (EU-SIGN) project
   improving maternal newborn and child health by protecting children and their mothers
   from preventable diseases. '
 start: 2014
-end: 2017
+end: 2018
 client: European Commission
 solutions:
 - Health Governance
@@ -15,9 +15,9 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The [EU Support to Immunisation Governance in Nigeria (EU-SIGN)](https://eu-sign.org/) project is improving maternal newborn and child health (MNCH) by protecting children and their mothers from preventable diseases. Focused on strengthening the governance of immunisation programming at State and Local Government Area levels, EU-SIGN works with stakeholders to shore up the systems and resource deployment necessary to improve routine immunization. It seeks to align governance and accountability in immunisation with stewardship transformation in the Nigerian health care sector.
+The [EU Support to Immunisation Governance in Nigeria (EU-SIGN)](https://eu-sign.org/) project is improving maternal newborn and child health (MNCH) by protecting children and their mothers from preventable diseases. Focused on strengthening the governance of immunisation programming at state and local levels, EU-SIGN works with stakeholders to shore up the systems and resource deployment necessary to improve routine immunization. It seeks to align governance and accountability in immunisation with stewardship transformation in the Nigerian health care sector.
 
-Funded by the European Union, the project strengthens the governance of routine immunisation at the Federal level and across 23 states.
+Funded by the European Union, the project strengthens the governance of routine immunisation at the federal level and across 23 states.
 
 The project works closely with the National Primary Health Care Development Agency (NPHCDA) and its counterparts to ensure sustainable quality routine immunisation services.
 

@@ -8,7 +8,7 @@ end: 2014
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Digital
 - Innovation and Entrepreneurship
 - 

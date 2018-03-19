@@ -11,7 +11,7 @@ country:
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'During the past decade, Mongolia has experienced strong economic growth
   supported almost single-handedly by its mining industry—primarily copper, coal,

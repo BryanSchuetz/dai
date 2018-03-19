@@ -4,9 +4,8 @@ date: 2017-06-09 16:39:00 Z
 lastname: Baldridge
 summary: Annie Baldridge has a background in law and public health and has been working
   in international development for the last eight years. She joined DAI after consulting
-  with the company for two years and is now is a senior global practice specialist
-  for the public financial management team.
-job-title: 'Senior Global Practice Specialist, Public Financial Management '
+  with the company for two years and is now is a senior global practice specialist.
+job-title: 'Senior Global Practice Specialist, Health '
 image: "/uploads/Annie%20Baldridge%20Portal.jpg"
 solutions:
 - Governance

@@ -5,7 +5,7 @@ summary: "[Ilm Ideas]() Communications Specialist Saad Hamid was one of 26 socia
   entrepreneurs selected globally to present at the inaugural Telenor Youth Summit
   on December 9–11 in Oslo, Norway.\n"
 solutions:
-- Financial Services
+- Finance and Investment
 - Economic Growth
 - Governance
 - Innovation and Entrepreneurship

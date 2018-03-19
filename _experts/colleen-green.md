@@ -8,7 +8,7 @@ summary: Since joining DAI in 2000, Colleen Green has served as a microfinance s
 job-title: Principal Global Practice Specialist, Financial Services
 image: https://assetify-dai.com/experts/innercoleen.jpg
 solutions:
-- Financial Services
+- Finance and Investment
 - Economic Growth
 regions:
 - Eastern Europe and Central Asia

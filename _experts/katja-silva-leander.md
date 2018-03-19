@@ -9,7 +9,7 @@ job-title: Director of Economic Growth, Technical Services
 image: https://assetify-dai.com/experts/SilvaLeander_Inner.jpg
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 regions:
 - Eastern Europe and Central Asia
 layout: expert

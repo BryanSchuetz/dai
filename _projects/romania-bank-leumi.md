@@ -10,7 +10,7 @@ country:
 - Romania
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 layout: project
 summary: 'Bank Leumi Romania (BLR) is a small bank that had a market share of just
   0.3 percent at the beginning of the project in 2008. It wants to increase this to

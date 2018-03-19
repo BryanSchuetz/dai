@@ -8,7 +8,7 @@ summary: 'Dr. Eduardo Fernandez, Colombia''s former vice minister of finance and
 '
 solutions:
 - Economic Growth
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 regions:
 - Latin America and the Caribbean

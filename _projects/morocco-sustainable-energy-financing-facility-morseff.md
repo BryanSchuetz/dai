@@ -14,7 +14,7 @@ client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
 - Environment and Energy
-- Financial Services
+- Finance and Investment
 - Energy
 regions:
 - Sub-Saharan Africa

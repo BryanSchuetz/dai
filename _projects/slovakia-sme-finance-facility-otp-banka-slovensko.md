@@ -9,7 +9,7 @@ regions:
 country:
 - Slovakia
 solutions:
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 layout: project
 summary: 'OTP Banka Slovensko is an institution that has historically focused on corporate

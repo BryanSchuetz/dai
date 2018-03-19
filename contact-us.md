@@ -22,7 +22,8 @@ summary: Contact details. United States, Europe, Asia and Pacific
     <a href="mailto:steven_o'connor@dai.com">Press Inquiries</a><br>
     <a href="mailto:procurement@dai.com">Small Business/Procurement</a><br>
     <a href="mailto:contracts@dai.com">Contracts/Proposals</a><br>
-    <a href="mailto:accountspayable@dai.com">Payment Inquiries</a></p>
+    <a href="mailto:accountspayable@dai.com">Payment Inquiries</a><br>
+    <a href="mailto:ethics@dai.com">Ethics Concerns</a></p>
     <p><strong>Social Networks</strong><br>
     <a href="http://twitter.com/daiglobal">Twitter</a><br>
     <a href="http://facebook.com/daiglobal">Facebook</a><br>

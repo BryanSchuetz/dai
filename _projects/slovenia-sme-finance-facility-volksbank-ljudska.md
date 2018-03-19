@@ -9,7 +9,7 @@ regions:
 country:
 - Slovenia
 solutions:
-- Financial Services
+- Finance and Investment
 - Public Financial Management
 - Economic Growth
 - Governance
