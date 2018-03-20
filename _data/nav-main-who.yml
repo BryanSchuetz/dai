@@ -4,6 +4,7 @@
   link: /who-we-are/history
 - text: Leadership
   link: /who-we-are/leaders
+  children: /who-we-are/board
 - text: Global Offices
   link: /who-we-are/global
 - text: Our Team

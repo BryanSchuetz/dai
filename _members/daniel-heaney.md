@@ -8,7 +8,7 @@ summary: Dan is a financial professional with more than 20 years of experience i
 sort-order: 2
 ---
 
-Dan is a financial professional with more than 20 years of experience in public and private companies. He has held senior financial management positions in operational and corporate finance, with responsibility for treasury management, international finance, mergers and acquisitions, control, and audit. He currently serves as Chief Financial Officer of the Public Consulting Group, Inc. (PCG), a privately held consulting firm based in Boston.
+Dan is a financial professional with more than 20 years of experience in public and private companies. He has held senior financial management positions in operational and corporate finance, with responsibility for treasury management, international finance, mergers and acquisitions, control, and audit. He currently serves as Chief Financial Officer of the Public Consulting Group, Inc. (PCG), a privately held consulting firm based in Boston. 
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
 

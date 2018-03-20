@@ -26,7 +26,7 @@
         <ul class="header-nav--main">
           <li class="has-dropdown"><a id="who-we-are-nav"href="/#who-we-are{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "who-we-are" %}{{"active"}}{% endif %}">Who We Are</a>{% unless page.title == "Home" %}<ul class="dropdown">
             {% for item in site.data.nav-main-who %}
-              <li {% assign strip_link = item.link | remove:".html" %} class="{% if page.url contains strip_link or page.url contains item.children %}{{ "active" }}{% endif %}"><a href="{{ item.link }}">{{ item.text }}</a></li>
+              <li {% assign strip_link = item.link | remove:".html" %} class="{% if page.url contains strip_link or page.url contains item.children %}{{ "active" }}{% endif %}"><a href="{{ item.link }}">{{ item.text }}</a></li> 
             {% endfor %}
           </ul>{% endunless %}</li>
           <li class="has-dropdown"><a id="our-work-nav" href="/#our-work{% if page.title == "Home" %}{{"_hash"}}{% endif %}" class="{% if page.url contains "our-work" %}{{"active"}}{% endif %}">Our Work</a>{% unless page.title == "Home" %}<ul class="dropdown">
