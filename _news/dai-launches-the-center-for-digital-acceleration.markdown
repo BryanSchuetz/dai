@@ -18,7 +18,7 @@ DAI today announced the launch of the Center for Digital Acceleration, a center 
 
 Building on DAI’s decade-long investments in [digital development](https://www.dai.com/our-work/solutions/digital) programming across the globe and across sectors, the Center will consolidate DAI’s technical expertise in conducting user-focused research, prototyping technology solutions, investing in promising technology startups, and defining best practices in this fast-growing field.
 
-![Screen Shot 2018-03-20 at 8.24.23 AM.png](/uploads/Screen%20Shot%202018-03-20%20at%208.24.23%20AM.png) `Center for Digital Acceleration team member Adam Fivenson surveys local communities in Guatemala about technology usage.`
+![Screen Shot 2018-03-20 at 8.24.23 AM.png](/uploads/Screen%20Shot%202018-03-20%20at%208.24.23%20AM.png) `Center for Digital Acceleration team member Adam Fivenson surveys local communities in Honduras about technology usage.`
 
 “DAI has a distinct approach to digital solutions—one that is focused on meeting the needs of people on the ground to help improve their lives, not on simply pursuing new technologies for their own sake,” said Senior Director [Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista), who will lead the Center. “So we’ve immersed ourselves in the [lean human-centered design](https://www.dai.com/hcd.pdf) process, learning from end users and making sure that they remain at the core of design and implementation.”
 
