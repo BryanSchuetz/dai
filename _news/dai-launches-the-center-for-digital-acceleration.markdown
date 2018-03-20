@@ -7,7 +7,7 @@ solutions:
 - Digital
 regions: Worldwide
 summary: 'DAI today announced the launch of the Center for Digital Acceleration, a
-  center dedicated to integrating cutting-edge digital tools into development practice. '
+  center dedicated to integrating cutting-edge digital tools into development practice.'
 social-image: "/uploads/DSCN0409.JPG"
 ---
 
