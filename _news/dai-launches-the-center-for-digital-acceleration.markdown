@@ -13,6 +13,8 @@ social-image: "/uploads/DSCN0409.JPG"
 
 DAI today announced the launch of the Center for Digital Acceleration, a center dedicated to integrating cutting-edge digital tools into development practice.
 
+<!--more-->
+
 “As our world grows more digitally connected, we have an opportunity to produce development results at a faster pace and on a greater scale than ever before,” said DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). “The Center for Digital Acceleration will seize that opportunity.”
 
 Building on DAI’s decade-long investments in [digital development](https://www.dai.com/our-work/solutions/digital) programming across the globe and across sectors, the Center will consolidate DAI’s technical expertise in conducting user-focused research, prototyping technology solutions, investing in promising technology startups, and defining best practices in this fast-growing field.
