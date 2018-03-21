@@ -160,12 +160,12 @@ sass:
   style: compressed
 baseurl: 
 url: https://www.dai.com
-plugins_dir: ./_plugins
 plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - github-pages
 - jekyll-algolia
+- shuffleit
 algolia:
   nodes_to_index: 'p,h2'
   application_id: R7MRY12BR6
