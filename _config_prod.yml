@@ -154,8 +154,6 @@ exclude:
 - node_modules
 - build
 - browser-sync.js
-- Gemfile
-- Gemfile.lock
 - gulpfile.js
 sass:
   sass_dir: assets/_sass

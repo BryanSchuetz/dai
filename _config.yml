@@ -155,8 +155,6 @@ exclude:
 - node_modules
 - build
 - browser-sync.js
-- Gemfile
-- Gemfile.lock
 - gulpfile.js
 unpublished: true
 sass:
