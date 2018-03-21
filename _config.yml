@@ -164,7 +164,7 @@ sass:
   style: compressed
 baseurl: 
 url: https://www.dai.com
-plugins_dir: _plugins
+plugins_dir: ./_plugins
 plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
