@@ -2,11 +2,10 @@
 title: Adam Fivenson
 date: 2016-01-21 22:18:00 Z
 lastname: Fivenson
-summary: Adam Fivenson works to make interventions more efficient and more effective
-  by introducing new technologies that help citizens report corruption, monitor biodiversity,
-  access markets, and adapt to climate change.
-job-title: New Business Specialist, ICT
-image: https://assetify-dai.com/experts/Adam%20inner.png
+summary: Adam Fivenson is a user research and digital design specialist at DAI’s Center
+  for Digital Acceleration.
+job-title: Senior ICT Specialist
+image: "/uploads/new%20Adam%20Fivenson.png"
 solutions:
 - Digital
 - Fragile States
@@ -18,15 +17,9 @@ regions:
 layout: expert
 ---
 
-Standing and staring as yet another flaming wall of tires blocked the only access road to the neighborhood, it finally dawned on Adam Fivenson why Dominicans in his Peace Corps neighborhood didn't relay their demands to their local government in a more constructive manner: burning tires got the government's attention; formal channels of citizen-government accountability did not. So they burned tires. This early lesson in citizen engagement (or the lack thereof) drove Adam's interest in how citizen accountability and government transparency and can work together to improve service delivery.
+Adam Fivenson is a user research and digital design specialist at DAI’s Center for Digital Acceleration. He uses human centered-design to create tools for transparency and accountability, citizen engagement, and youth empowerment. Most recently, he designed and launched an award-winning mobile app for municipal budget transparency and citizen engagement in Guatemala and carried out Frontier Insights rapid user research in Cambodia, El Salvador, Guatemala, Honduras, Indonesia, El Salvador, and Rwanda. Adam works with civil society organizations help them use technology and innovation processes to accelerate their impact. He also supports projects in designing social media outreach and engagement strategies. 
 
-Five years later, Adam remains focused on citizen-based solutions to poverty. At DAI, he works to make interventions more efficient and more effective by introducing new technologies that help citizens report corruption, monitor biodiversity, access markets, and adapt to climate change. Adam supports the Initiative for Innovation in Adaptation, which is working with young innovators in Colombia to find tech-enabled solutions to climate change in rural areas, launched [Nexos Locales][3], the U.S. Agency for International Development (USAID)'s local governance project in the Western Highlands of Guatemala, and supported the USAID [Fiscal Policy and Expenditure Management Program][4] in El Salvador.
-
-In his free time, Adam co-hosts the monthly Technology for Democracy ([#Tech4Dem][5]) Happy Hour, and is part of a team of innovators developing an early warning system for genocide, based on big data analytics of local news media reporting.
+Prior to joining DAI, Adam was a Peace Corps volunteer in the Dominican Republic, training young people in computer skills and improving organizational capacity to use technology, and worked as a social media and marketing specialist in New York City.
 
 * M.S., foreign service, Georgetown University
 * B.A., communications, University of Michigan
-
-[3]: our-work/projects/guatemala-nexos-locales
-[4]: /our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp
-[5]: http://eepurl.com/blF5Lf

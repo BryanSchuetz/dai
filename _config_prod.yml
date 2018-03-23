@@ -154,26 +154,20 @@ exclude:
 - node_modules
 - build
 - browser-sync.js
+- gulpfile.js
 - Gemfile
 - Gemfile.lock
-- gulpfile.js
 sass:
   sass_dir: assets/_sass
   style: compressed
 baseurl: 
 url: https://www.dai.com
-plugins_dir: _plugins
 plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - github-pages
 - jekyll-algolia
-whitelist:
-- jekyll-redirect-from
-- jekyll-sitemap
-- github-pages
-- jekyll-algolia
-- shuffle
+- shuffleit
 algolia:
   nodes_to_index: 'p,h2'
   application_id: R7MRY12BR6
