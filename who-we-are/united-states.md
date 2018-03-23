@@ -4,8 +4,13 @@ permalink: "/who-we-are/global-reach/the-united-states"
 redirect_from:
 - "/who-we-are/global-reach/united-states"
 layout: node
-summary: |
-  Since 1970, we have worked in more than 150 countries, from stable societies and high-growtheconomies to challenging environments racked by political or military conflict. At any one time we are likely to have active projects in 90 or more countries. This worldwide portfolio is supported from corporate offices in Belgium, the United Kingdom, and the United States.
+summary: 'Since 1970, we have worked in more than 150 countries, from stable societies
+  and high-growtheconomies to challenging environments racked by political or military
+  conflict. At any one time we are likely to have active projects in 90 or more countries.
+  This worldwide portfolio is supported from corporate offices in Belgium, the United
+  Kingdom, and the United States.
+
+'
 hero: true
 ---
 

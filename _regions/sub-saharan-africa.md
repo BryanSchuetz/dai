@@ -7,6 +7,7 @@ summary: DAI traces its corporate roots to Sub-Saharan Africa. Today, we help Af
   pressing challenges.
 hero: true
 ---
+
 Beginning in the late 1970s, we cut our teeth managing rural development projects in Niger, Sudan, Tanzania, and Zaire. We helped build roads, change cultivation practices, strengthen agricultural training institutes, and create funds for villagers to start small businesses.
 
 Since those early years, we have gone on to complete hundreds of projects in Africa. Our work has spanned the spectrum, from macro-policy analysis and in-depth field work with small farmers to agricultural value chain strengthening and security sector reform. We have worked from the grassroots all the way up to government ministries.

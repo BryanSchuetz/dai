@@ -9,6 +9,7 @@ summary: |
   of development challenges. Our development specialists reach across technical disciplines to shape the integrated development solutions that promise transformational development results.
 hero: true
 ---
+
 {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
 {% for solution in primary_solutions %}
 <div class="solution-block">

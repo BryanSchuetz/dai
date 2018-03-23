@@ -2,6 +2,7 @@
 title: Stability
 date: 2016-01-21 18:23:00.492000000 Z
 permalink: our-work/solutions/stability
+published: false
 icon: <svg class="stability-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#stability-badge"></use></svg>
 summary: Partnering with government, civil society, and private sector actors to provide
@@ -9,7 +10,6 @@ summary: Partnering with government, civil society, and private sector actors to
 layout: solution
 type: archived
 related: false
-published: false
 ---
 
 We establish partnerships with government, civil society, and private sector actors to provide short-term stability and build the foundation for long-term development. Building on our diverse experience and nuanced understanding of conflict dynamics in crisis environments, our work in crisis mitigation and stability has won DAI a global reputation for sure-footed and innovative post-crisis assistance.

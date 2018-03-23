@@ -9,6 +9,7 @@ summary: We’re interested in you—DAI is looking to build partnerships with o
   our clients and beneficiaries.
 hero: true
 ---
+
 <h3>
 	Engaging Small Businesses</h3>
 <p>DAI is committed to using small and small disadvantaged businesses to provide technical assistance on our projects. We particularly welcome potential partners from any and all of the following categories:</p>

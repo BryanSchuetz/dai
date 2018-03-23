@@ -5,7 +5,11 @@ related: false
 redirect_from:
 - "/who-we-are/leadership"
 layout: node
-summary: Our Global Executive Team ensures that DAI’s passion for development is delivered with the discipline of a business. Embracing the rigors of the marketplace—competition and innovation—they set the standards for a company dedicated to delivering both development results and development value. The team is led by Jim Boomgard, who reports to DAI’s [Board.](/who-we-are/leadership/board.html)
+summary: Our Global Executive Team ensures that DAI’s passion for development is delivered
+  with the discipline of a business. Embracing the rigors of the marketplace—competition
+  and innovation—they set the standards for a company dedicated to delivering both
+  development results and development value. The team is led by Jim Boomgard, who
+  reports to DAI’s [Board.](/who-we-are/leadership/board.html)
 hero: true
 ---
 

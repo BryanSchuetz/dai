@@ -2,11 +2,11 @@
 title: Transition and Stabilization Programming
 date: 2016-01-22 00:11:14.114000000 Z
 permalink: "/our-work/solutions/stability-solutions/transition-and-stabilization-programing"
+published: false
 solutions:
 - Fragile States
 - Stabilization
 layout: solution
-published: false
 ---
 
 In transition environments, it’s critical that community revitalization efforts are driven by their own members. We identify key groups committed to peaceful, participatory reform. We strengthen locally driven conflict mitigation efforts and help communities seize opportunities for economic recovery.

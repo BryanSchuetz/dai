@@ -8,6 +8,7 @@ summary: DAI first worked in Eastern Europe and Central Asia in 1976, and since 
   farming and business practices, and encourage responsible resource management.
 hero: true
 ---
+
 From legislative strengthening assistance in Ukraine and Armenia to governance reform in Serbia and Romania, we have led and supported good governance initiatives since 1996, helping numerous institutions across the region become effective public servants.
 
 We have helped privatize agribusiness, make it competitive, and reform business policy in countries such as Croatia, Armenia, and Georgia, to create environments where agriculture and other businesses can thrive. In Armenia, for example, we assisted more than 500 small and medium-sized enterprises to build market linkages that increased sales by more than $26 million and created almost 16,000 new jobs. We have also helped to modernize farming practices in Albania, Tajikistan, and Uzbekistan.

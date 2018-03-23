@@ -7,6 +7,7 @@ summary: National and local governments, bilateral and multilateral donors, priv
   into impact.
 hero: true
 ---
+
 ## U.S. Agency for International Development
 
 In 1973, we won our first contract with USAID to analyze 36 projects in Latin America and Africa. Since then, our engagement with USAID has grown steadily to encompass multiple sectors and development disciplines in more than 100 countries worldwide.
