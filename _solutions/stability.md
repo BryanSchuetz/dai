@@ -9,6 +9,7 @@ summary: Partnering with government, civil society, and private sector actors to
 layout: solution
 type: archived
 related: false
+published: false
 ---
 
 We establish partnerships with government, civil society, and private sector actors to provide short-term stability and build the foundation for long-term development. Building on our diverse experience and nuanced understanding of conflict dynamics in crisis environments, our work in crisis mitigation and stability has won DAI a global reputation for sure-footed and innovative post-crisis assistance.

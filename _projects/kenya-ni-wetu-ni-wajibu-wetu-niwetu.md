@@ -8,12 +8,8 @@ start: 2016
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Stability
 - Fragile States
 - Countering Extremism
-- 
-- 
-- 
 regions:
 - Sub-Saharan Africa
 country:

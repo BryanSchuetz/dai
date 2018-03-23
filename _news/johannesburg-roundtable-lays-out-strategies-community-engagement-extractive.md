@@ -35,7 +35,7 @@ DAI's "Resilience Framework" is an approach designed to strengthen communities' 
 
 Integral to the framework is a community-driven approach that requires both the community and the company to take ownership of the design, implementation, and evaluation of program activities and investment, thereby holding both parties responsible for achieving success.
 
-DAI's Ed Rackley, also a [stability][3] and resiliency practitioner, shared his experiences working in volatile communities. "Volatility is an absence of resiliency—it represents a break-down of relationships," he said. "Resiliency emerges from long-term planning and strategy. It supports community growth and ownership by investing in a community instead of infrastructure, and it supports an exit strategy so that post-extraction, the community is left on its feet, not on its knees."
+DAI's Ed Rackley, also a stability and resiliency practitioner, shared his experiences working in volatile communities. "Volatility is an absence of resiliency—it represents a break-down of relationships," he said. "Resiliency emerges from long-term planning and strategy. It supports community growth and ownership by investing in a community instead of infrastructure, and it supports an exit strategy so that post-extraction, the community is left on its feet, not on its knees."
 
 The event concluded with the following key recommendations for the extractive industry:
 
@@ -47,4 +47,3 @@ The event concluded with the following key recommendations for the extractive in
 
 [1]: /who-we-are/leadership/james-boomgard
 [2]: /who-we-are/global
-[3]: /our-work/solution/stability

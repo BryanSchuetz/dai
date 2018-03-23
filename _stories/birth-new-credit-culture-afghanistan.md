@@ -8,7 +8,7 @@ solutions:
 - Economic Growth
 - Finance and Investment
 - Gender
-- Stability
+- Fragile States
 projects:
 - Afghanistan—Agricultural Credit Enhancement Program I & II (ACE)
 summary: Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Agency
