@@ -13,7 +13,7 @@ DAI’s Land Tenure and Property Rights team will present four papers at the 201
 
 The [Land and Poverty Conference](http://www.worldbank.org/en/events/2017/08/07/land-and-poverty-conference-2018-land-governance-in-an-interconnected-world#1) is one of the largest international land and governance events, with more than 1,300 attendees representing government, universities, civil society organizations, and the private sector. The theme of this year’s event is “Governance in an Interconnected World,” with sessions covering current research, innovations, and practices in the land administration sector around the world.
 
-![WB_Image.jpg](/uploads/WB_Image.jpg)
+![Land Tenure group pic.jpg](/uploads/Land%20Tenure%20group%20pic.jpg)`Pictured, from left, Mustapha Issa, Field Team Manager for the Tanzania Land Tenure Assistance (LTA) program; Andy Smith, Programme Manager for Ethiopia Land Investment for Transformation (LIFT); Tressan Sullivan, LTA Chief of Party; Workwoha Mekonen, LIFT Gender and Social Inclusion Expert; John Leckie, DAI Principal Consultant; Malaki Msigwa, LTA Deputy Chief of Party; Felicity Buckle, DAI Senior Consultant; and Richard Baldwin, DAI Global Practice Leader for Land Tenure.
 
 “We look forward to presenting our work in Tanzania as an example of how digital technology, when applied in a participatory way, can enable rural people to strengthen their land rights,” said Tressan Sullivan, Chief of Party for the Tanzania Land Tenure Assistance project. “By using the Mobile Application for Secure Tenure tool, the project helped issue 20,000 land titles in 18 villages in a cost-effective manner that has prompted government and development actors to adopt this approach on a national scale.”
 
