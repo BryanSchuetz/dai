@@ -1,11 +1,10 @@
 ---
 title: El Salvador—Puentes para el Empleo (Bridges to Employment Project)
 date: 2016-01-21 22:40:00 Z
-summary: 'Many young people in El Salvador''s high-crime communities face impossible
-  choices for livelihoods among the gang coercion, underemployment, and expensive,
-  dangerous migration.
-
-'
+summary: 'Through *Puentes para el Empleo*, DAI is supporting USAID in El Salvador
+  to link youth—including young women and vulnerable populations—to basic social resources
+  of work, knowledge, security, and social capital in order to foster inclusion through
+  employment opportunities. '
 start: 2015
 end: 2020
 client: U.S. Agency for International Development
@@ -31,3 +30,10 @@ Through *Puentes para el Empleo*, DAI is supporting USAID in El Salvador to link
 * Improve the enabling environment for workforce development and employment.
 * Strengthen the system of training and employment services.
 * Enhance the workforce readiness of youth.
+
+### Select Results
+
+* Trained 600 staff members of training centers and civil society organizations—including instructors, administrators, job placement specialists, psychologists, and social workers—to improve the quality and relevance of services provided to youth.  
+* Introduced life skills curricula in 24 training centers.
+* Created the Fair Programming Initiative to ensure the inclusion and fair treatment of vulnerable youth who provide software development services as part of the global IT value chain.
+* Provided technical assistance to companies to modify hiring, selection, and employment practices to better support youth in the workplace.
