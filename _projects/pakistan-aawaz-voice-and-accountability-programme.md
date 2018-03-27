@@ -39,8 +39,8 @@ layout: project
 ### Select Results
 
 * Established the AAWAZ Steering Committee and Advisory Council to provide overall strategic direction and ensure coordination and agreement at the highest level of leadership of the partner organizations.
-* Registered 161,735 women as voters and helped another 2.65 million women receive national ID cards.
-* Engaged more than 198,000 members of organizations from the grassroots, district, provincial, and national levels, through AAWAZ forums.
+* Registered more than 300,000 women as voters and helped another 2.65 million women receive national ID cards.
+* Engaged more than 227,000 members of organizations from the grassroots, district, provincial, and national levels, through AAWAZ forums.
 * Established the Policy, Advocacy, Research and Results facility, which includes development of a monitoring and evaluation framework and structure and the development of the Respond Fund strategy.
 * Awarded eight research grants under the Response Fund. These studies complement the baseline study and provide more in-depth examination of issues such as barriers to women's political participation, roots of conflict, males' perceptions of violence against women and the importance of service delivery in political parties' platforms in the two target provinces of Punjab and KPK.
 * Instrumental in achieving three groundbreaking legislative changes in Punjab: Child Marriage Restraint Act 2014, Muslim Family Laws Ordinance 1961, and Punjab Protection of Women Against Violence Act 2016, in collaboration with civil society, legislators, and political parties.
