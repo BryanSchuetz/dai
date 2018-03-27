@@ -5,14 +5,14 @@ published: false
 regions: Worldwide
 summary: 'DAI is pleased to announce it has signed on as a participant in the United
   Nations Global Compact, the UN’s global sustainability initiative for corporations. '
-social-image: "/uploads/Screen%20Shot%202018-03-27%20at%2010.57.07%20AM-a18f92.png"
+social-image: "/uploads/E_SDG_logo_No%20UN%20Emblem_square_rgb.png"
 ---
 
 DAI is pleased to announce it has signed on as a participant in the [United Nations Global Compact](https://www.unglobalcompact.org/), the UN’s global sustainability initiative for corporations. 
 
 Created in 2000 with the idea that a business can be a force for social good, the Global Compact is the world’s largest network of organizations committed to sustainable business practices. Signatories commit to align their strategies and operations with [principles](https://www.unglobalcompact.org/what-is-gc/mission/principles) on human rights, labor, the environment, and anti-corruption, as well as work to advance the [Sustainable Development Goals (SDGs)](http://www.un.org/sustainabledevelopment/sustainable-development-goals/). 
 
-![Screen Shot 2018-03-27 at 10.57.07 AM.png](/uploads/Screen%20Shot%202018-03-27%20at%2010.57.07%20AM.png)
+![E_SDG_logo_No UN Emblem_horizontal_rgb.png](/uploads/E_SDG_logo_No%20UN%20Emblem_horizontal_rgb.png)
 
 As a participant, DAI’s membership goes beyond signatory status, signaling greater commitment and giving DAI the opportunity to pursue more meaningful collaborations with other Global Compact members. DAI’s work supports every SDG and through its participation in the Global Compact, it will focus on four:
 
