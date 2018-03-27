@@ -1,7 +1,6 @@
 ---
 title: DAI Joins United Nations Global Compact
 date: 2018-03-27 14:51:00 Z
-published: false
 regions: Worldwide
 summary: 'DAI is pleased to announce it has signed on as a participant in the United
   Nations Global Compact, the UN’s global sustainability initiative for corporations. '
