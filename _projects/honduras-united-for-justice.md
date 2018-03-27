@@ -36,3 +36,9 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
 * Provide training to civic and community groups on use of social accountability tools to monitor and advocate for improved government performance, including community scorecards, citizen charters, and social audit surveys.
 * Work with municipal-level judges, court staff, prosecutors, public defenders, and police to improve key services, such as victim and witness protection, evidence collection and management, timely court proceedings, and shorter pre-trial detention.
 * Engage law enforcement professionals on the importance of community policing and provide technical guidance and best practices, especially related to effective engagement with women, youth, and at-risk populations.
+
+### Select Results
+
+* Awarded seven grants to date to support civil society organizations’ (CSOs) efforts to improve access to justice for sectors of the population whose rights are prone to violation. The activities are benefitting women who suffer violence, people living with disabilities, Afro-Hondurans and members of the LGBTI community. 
+* Worked with the National Police to plan and implement a variety of community activities designed to improve the institution’s community relations and instill the principle of shared responsibility for safe neighborhoods. 
+* Partnered with Arizona State University to identify and promote best practices in community policing.   
