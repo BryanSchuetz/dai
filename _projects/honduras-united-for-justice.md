@@ -29,7 +29,7 @@ Coupled with more than a year of citizen demonstrations to demand accountability
 
 Building on 20 years of experience leading projects in Honduras, DAI combines best practices from previous rule-of-law programs along with a "place-based" systems approach. New initiatives are first tested at the neighborhood level in target communities with highly concentrated hotspots of crime, and resulting lessons and evidence then used to replicate successes in other municipalities and promote wider institutional reform.
 
-![JHRSS pic.jpg](/uploads/JHRSS%20pic.jpg)
+![unidos.jpg](/uploads/unidos.jpg)
 
 ### Sample Activities
 
