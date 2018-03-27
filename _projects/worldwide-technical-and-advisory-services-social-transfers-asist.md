@@ -14,6 +14,8 @@ regions:
 country:
 - Worldwide
 promos:
+- title: "**Report**: _Somalia—Paving the Way to Long-term Social Protection_"
+  link: "/uploads/ASiST%20Report_Somalia_Final-report_V1.pdf"
 - title: 'Documentary Film: Food Security in Madagascar'
   link: "/news/dais-asist-progamme-produces-documentary-on-food-security-in-madagascar"
 layout: project
