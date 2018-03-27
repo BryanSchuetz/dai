@@ -2,8 +2,10 @@
 title: DAI Joins United Nations Global Compact
 date: 2018-03-27 14:51:00 Z
 published: false
+regions: Worldwide
 summary: 'DAI is pleased to announce it has signed on as a participant in the United
   Nations Global Compact, the UN’s global sustainability initiative for corporations. '
+social-image: "/uploads/Screen%20Shot%202018-03-27%20at%2010.57.07%20AM-a18f92.png"
 ---
 
 DAI is pleased to announce it has signed on as a participant in the [United Nations Global Compact](https://www.unglobalcompact.org/), the UN’s global sustainability initiative for corporations. 
@@ -19,6 +21,6 @@ As a participant, DAI’s membership goes beyond signatory status, signaling gre
 * Goal 6: Ensure access to water and sanitation for all.
 * Goal 16: Promote just, peaceful, and inclusive societies.
 
-“DAI stands firmly behind the principles and goals of the Sustainable Development Goals,” said Kurt Olsson, vice president of global strategic marketing. “Participating in the Global Compact allows us to highlight our own innovative solutions while engaging with others working in this space. Through this initiative we can magnify our impact at a critical time of expansion in our organization.” 
+“DAI stands firmly behind the principles and goals of the Sustainable Development Goals,” said [Kurt Olsson](https://www.dai.com/who-we-are/our-team/kurt-olson), DAI vice president. “Participating in the Global Compact allows us to highlight our own innovative solutions while engaging with others working in this space. Through this initiative we can magnify our impact at a critical time of expansion in our organization.” 
 
 Global Compact members operate in various sectors in more than 160 countries worldwide. Nearly 13,000 organizations, including more than 9,500 companies of various sizes, have joined. Benefits of participation include opportunities to attend various UN and Global Compact events, facilitated partnerships and targeted advising and resources. 
