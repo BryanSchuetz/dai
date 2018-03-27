@@ -8,7 +8,7 @@ summary: 'Shanna Tova O''Reilly has more than 15 years of experience in stabiliz
   America, and the Middle East.
 
 '
-job-title: Chief of Party, Honduras School-Based Violence Prevention Activity
+job-title: Chief of Party, Honduras Asegurando la Educación (Securing Education)
 image: "/uploads/Shanna%20Meeting%201st%20Lady%20Honduras.jpg"
 solutions:
 - Governance
@@ -30,5 +30,4 @@ Shanna's current efforts focuses on new business and the technical oversight of 
 Shanna is fluent in Spanish, and has limited French skills as well. In her free time, she loves to read and write, and has become active in supporting asylum seekers with assistance in the Washington, D.C., area.
 
 * M.A., international development and economics, Johns Hopkins University, School of Advanced International Studies
-
 * B.S., natural resource management, Ohio State University
