@@ -3,6 +3,13 @@ title: Pakistan’s President Presents Award for Literary Achievement to DAI’s
   Khalique
 date: 2018-03-27 14:03:00 Z
 published: false
+regions: Asia and the Pacific
+projects: Pakistan—AAWAZ Voice and Accountability Programme
+clients: U.K. Department for International Development
+summary: 'DAI is pleased to announce that the President of Pakistan Mamnoon Hussain
+  has conferred upon Harris Khalique the President’s Award for Pride of Performance,
+  one of Pakistan’s most prestigious state-organized honors. Khalique was recognized
+  for distinguished contribution to the field of literature and poetry. '
 ---
 
 DAI is pleased to announce that the President of Pakistan Mamnoon Hussain has conferred upon [Harris Khalique](https://www.dai.com/who-we-are/our-team/harris-khalique) the President’s Award for Pride of Performance, one of Pakistan’s most prestigious state-organized honors. Khalique was recognized for distinguished contribution to the field of literature and poetry. His citation also mentioned his role as a writer and campaigner in social movements for labor, women, and minority rights. The investiture ceremony was performed in Islamabad on Pakistan Republic Day, March 23. Khalique was among 73 civil awardees recognized from literature, arts, sports, medicine, and science.
