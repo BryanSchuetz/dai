@@ -34,7 +34,5 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
 ### Sample Activities
 
 * Provide training to civic and community groups on use of social accountability tools to monitor and advocate for improved government performance, including community scorecards, citizen charters, and social audit surveys.
-
 * Work with municipal-level judges, court staff, prosecutors, public defenders, and police to improve key services, such as victim and witness protection, evidence collection and management, timely court proceedings, and shorter pre-trial detention.
-
 * Engage law enforcement professionals on the importance of community policing and provide technical guidance and best practices, especially related to effective engagement with women, youth, and at-risk populations.
