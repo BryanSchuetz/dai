@@ -11,7 +11,7 @@ summary: 'DAI is pleased to announce that the President of Pakistan Mamnoon Huss
   for distinguished contribution to the field of literature and poetry. '
 ---
 
-DAI is pleased to announce that the President of Pakistan Mamnoon Hussain has conferred upon [Harris Khalique](https://www.dai.com/who-we-are/our-team/harris-khalique) the President’s Award for Pride of Performance, one of Pakistan’s most prestigious state-organized honors. Khalique was recognized for distinguished contribution to the field of literature and poetry. His citation also mentioned his role as a writer and campaigner in social movements for labor, women, and minority rights. The investiture ceremony was performed in Islamabad on Pakistan Republic Day, March 23. Khalique was among 73 civil awardees recognized from literature, arts, sports, medicine, and science.
+DAI is pleased to announce that the President of Pakistan Mamnoon Hussain has conferred upon [Harris Khalique](https://www.dai.com/who-we-are/our-team/harris-khalique) the Presidential Pride of Performance award, one of Pakistan’s most prestigious state-organized honors. Khalique was recognized for distinguished contribution to the field of literature and poetry. His citation also mentioned his role as a writer and campaigner in social movements for labor, women, and minority rights. The investiture ceremony was performed in Islamabad on Pakistan Republic Day, March 23. Khalique was among 73 civil awardees recognized from literature, arts, sports, medicine, and science.
 
 ![DAI-News----Harris-Khalique.jpg](/uploads/DAI-News----Harris-Khalique.jpg)`Harris Khalique, Team Leader of the AAWAZ Voice and Accountability Programme. Photo: U.S. Bureau of Educational and Cultural Affairs.`
 
