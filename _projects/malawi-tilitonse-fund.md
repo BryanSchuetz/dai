@@ -25,11 +25,13 @@ To help address this situation, the [Tilitonse Fund](http://tilitonsefund.org/) 
 ![](https://assetify-dai.com/projects/MalawiHTSPE.jpg)
 
 ### Sample Activities
+
 * Established and managed a grant-making facility for civil society organizations.
 * Provided technical advice and training to grantees to improve their ability to manage grants and achieve intended results.
 * Conducted research and analysis to identify strategic opportunities for interventions and facilitated coalition-building among civil society groups.
 
 ### Select Results
+
 * Worked with the Malawi Police Service to revise policies and training manuals to improve responsiveness, public access to information, and gender inclusivity.
 * Supported the Malawi Human Rights commission to standardize sentencing for capital offences, leading to re-hearings of 140 cases with [acquittal and release of 107 wrongfully accused inmates](http://dai-global-developments.com/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held/?utm_source=daidotcom).
 * Empowered 900,000 citizens to hold government officials to account by providing information on rights, entitlements, and responsibilities via training manuals, posters, newsletters, documentaries, and nearly 2,000 instances of media coverage.
