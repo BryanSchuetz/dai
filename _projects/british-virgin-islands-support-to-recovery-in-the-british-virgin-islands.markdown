@@ -19,8 +19,12 @@ The hurricanes of 2017 devastated the infrastructure of the British Virgin Islan
 
 In response, the U.K. Foreign and Commonwealth Office (FCO) is building the capacity of the local workforce to participate in recovery efforts. DAI is leading this initiative by designing and implementing vocational training programs to help underemployed populations meet the rising demand for skilled labour in the construction and maritime industries. In addition, DAI’s team supports the government of the British Virgin Islands to develop labour policies that meet the needs of the current recovery process and create long-term employment opportunities.
 
+![BVI_CSSF_photo.jpg](/uploads/BVI_CSSF_photo.jpg)
+
 ### Sample Activities
 
 * Partner with local community college to develop training materials and provide external trainers for courses on electrical, plumbing, and project management skills.
-* Engage with private and public sector to secure commitments for apprenticeships and employment for trainees. 
+
+* Engage with private and public sector to secure commitments for apprenticeships and employment for trainees.
+
 * Advise on regulations to boost resilience in housing codes and on labour market policies to maximise the trickle-down effects of recovery efforts.
