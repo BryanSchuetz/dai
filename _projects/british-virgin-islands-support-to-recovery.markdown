@@ -1,7 +1,6 @@
 ---
 title: British Virgin Islands —Support to Recovery
 date: 2018-03-28 15:06:00 Z
-published: false
 summary: 'DAI is supporting labour policy reforms and providing vocational training
   to help the local workforce participate in reconstruction efforts following the
   hurricanes of 2017. '
