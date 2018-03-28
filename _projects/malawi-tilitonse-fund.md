@@ -1,9 +1,9 @@
 ---
 title: Malawi—Tilitonse Fund
 date: 2016-01-21 22:40:00 Z
-summary: The Tilitonse Fund was a multi-donor grants facility for Malawian-based civil
-  society organisations supporting projects that bolster accountable, inclusive, and
-  responsive governance in Malawi.
+summary: The Tilitonse Fund was a multi-donor grants facility that supported Malawian-based
+  civil society organisations in promoting accountable, inclusive, and responsive
+  governance.
 start: 2011
 end: 2017
 client: U.K. Department for International Development
@@ -17,18 +17,20 @@ country:
 layout: project
 ---
 
-Malawi is a largely rural country and, despite impressive recent progress, poverty rates and basic service delivery remain a challenge. Sixteen years since multi-party democracy replaced 30 years of single party rule, many people were still unused to holding government to account for services they provide, how they manage public money, or protection of basic rights. This left communities, especially the poor, lacking the ability to address the problems that reduce their quality of life and their vulnerability to the impact of corruption.
+Almost two decades since multi-party democracy replaced single party rule in Malawi, many people were still unused to holding government to account for providing public services or protecting their basic rights. The general public, and poor communities in particular, lacked the ability to effectively advocate to elected officials and fight back against the negative impacts of corruption.
 
-The [Tilitonse Fund](http://tilitonsefund.org/), was a grants facility for Malawian-based civil society organisations (CSOs) supporting projects that bolster accountable, inclusive, and responsive governance in Malawi. The Fund's approach was one of collaboration and coalition building, not confrontation, bringing groups in society together to advocate for and create positive change, including government, the private sector, faith groups, the media and others, to create increased responsiveness, accountability and the improved delivery of basic services.
-
-The multi-donor Tilitonse programme was implemented with our consortium partners, Bureau for Institutional Reform and Democracy, Catholic Commission for Justice and Peace Lilongwe, Matrix Development Consultants, and O&M Associates.
+To help address this situation, the [Tilitonse Fund](http://tilitonsefund.org/) was established as grants facility to help Malawian-based civil society organisations promote accountable, inclusive, and responsive governance. The Fund partnered with the private sector, faith-based organizations, the media, and others to form coalitions that advocated for increased government transparency and accountability and improved public services. The Tilitonse Fund was a multi-donor programme supported by the U.K. Department for International Development (DFID), Irish Aid, and the Royal Norwegian Embassy in Malawi.
 
 ![](https://assetify-dai.com/projects/MalawiHTSPE.jpg)
 
 ### Sample Activities
+* Established and managed a grant-making facility for civil society organizations.
+* Provided technical advice and training to grantees to improve their ability to manage grants and achieve intended results.
+* Conducted research and analysis to identify strategic opportunities for interventions and facilitated coalition-building among civil society groups.
 
-* Established and managed a grant-making facility for CSOs.
-
-* Provided technical advice and capacity-building support to CSOs to improve their ability to manage grants and achieve results.
-
-* Undertook research and analysis to identify strategic opportunities for interventions, facilitated coalition-building, and provided small [non-standard support grants](http://dai-global-developments.com/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held/?utm_source=daidotcom).
+### Select Results
+* Worked with the Malawi Police Service to revise policies and training manuals to improve responsiveness, public access to information, and gender inclusivity.
+* Supported the Malawi Human Rights commission to standardize sentencing for capital offences, leading to re-hearings of 140 cases with [acquittal and release of 107 wrongfully accused inmates](http://dai-global-developments.com/articles/spurring-the-malawi-judiciary-to-rehear-death-sentence-cases-free-prisoners-unjustly-held/?utm_source=daidotcom).
+* Empowered 900,000 citizens to hold government officials to account by providing information on rights, entitlements, and responsibilities via training manuals, posters, newsletters, documentaries, and nearly 2,000 instances of media coverage.
+* Supported the National Media Institute for Southern Africa Malawi Chapter to successfully advocate for passage of Malawi’s Access to Information Bill, enhancing governmental accountability and responsiveness.
+* Provided grants for 73 governance initiatives to groups including Water for People, Consumers Association of Malawi, and the Coalition of Women Living with HIV and AIDS.
