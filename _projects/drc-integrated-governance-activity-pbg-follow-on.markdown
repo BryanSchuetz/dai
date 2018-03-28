@@ -1,10 +1,9 @@
 ---
 title: Democratic Republic of the Congo—Integrated Governance Activity (IGA)
 date: 2017-02-23 21:19:00 Z
-summary: The Integrated Governance Activity supports the development of a good governance
-  framework in the Democratic Republic of the Congo and builds the local capacity
-  needed to improve public service delivery and establish the confidence of the public
-  in their government.
+summary: The Integrated Governance Activity is helping local governments to improve
+  public services and establish trust with their citizens, as well as training civil
+  society groups to better advocate their needs to elected officials.
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
@@ -18,23 +17,20 @@ regions: Sub-Saharan Africa
 country: Democratic Republic of the Congo
 ---
 
-While more than a decade has passed since the Democratic Republic of the Congo (DRC) adopted a new constitution and held its first free election in 40 years, the country has yet to achieve enduring stability and failed to provide the benefits of peace dividends to its citizens. The democratic system remains fragile, with highly limited or nonexistent basic public services in much of the country. Furthermore, a lack of government accountability and transparency, along with widespread corruption, has generated strong mistrust of politicians and government officials among the general public.
+More than a decade has passed since the Democratic Republic of the Congo (DRC) adopted a new constitution and began holding free elections, yet the democratic system remains fragile, with few or no basic public services in much of the country. A lack of government accountability and transparency, along with widespread corruption, has led to general public mistrust of politicians and government officials.
 
-However, a new generation of leaders is emerging in the DRC who are committed to greater transparency and inclusive institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), supports the development of a good governance framework and builds the local capacity needed to improve public service delivery and establish the confidence of the public in their government. Building on the successes of previous USAID governance programs in the DRC, such as the [Programme de Bonne Gouvernance](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), also implemented by DAI, the IGA team supports emerging leaders to improve a broad range of government services at the national, provincial, and local levels as well as empower civil society and private sector actors to effectively advocate their demands to their elected officials.
-
-DAI focuses on institutional interventions that can immediately enhance public services related to health, education, and economic development, while also remedying underlying governance issues that lead to corruption and mismanagement. By tying better government processes to improved outcomes for the general public, the work of IGA is helping to restore and strengthen the important social contract between citizens and the State in the DRC.
+However, an emerging generation of leaders in the DRC has shown a commitment to greater transparency and institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), is helping governments to improve public services and establish trust with their citizens. Building on the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supports new leaders to reform government services at the national, provincial, and local levels. The IGA team also trains civil society and private-sector groups to better advocate their needs to elected officials.
 
 ![DRC Good Governance teaching.JPG](/uploads/DRC%20Good%20Governance%20teaching.JPG)
 
 **Sample Activities**
 
-* Support the passage of key legislation regulating human resources management at the national and local levels.
+* Train government entities and civil society groups to improve their administration and financial management.
 
-* Facilitate the establishment of a National Policy Analysis Unit for Food Security and Nutrition.
+  Establish and train national and provincial Food Security and Nutrition Policy Analysis Units.
 
-* Support public hearings in provincial assemblies to ensure that citizen priorities are included in the budgeting process.
+  Advise local governments on raising and managing local tax revenues.
 
-* Improve the transparency and explanation of public education budgets and school fees.
-  Generate a small grants fund for non-governmental organizations to advance coordination and cross-sector work with civil society groups.
+  Establish platforms to improve citizen engagement and intra-governmental collaboration.
 
-* Strengthen the collaboration of provincial assemblies and civil society groups in oversight and management of natural resources through the Extractive Industries Transparency Initiative (EITI) framework.
+  Support provincial health divisions to participate in cross-sector coordination meetings, conduct participatory planning, and host annual public hearings.
