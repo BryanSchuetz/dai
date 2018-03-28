@@ -17,7 +17,7 @@ country: British Virgin Islands
 
 The hurricanes of 2017 devastated the infrastructure of the British Virgin Islands. More than one-third of residential buildings suffered significant damage while crippled maritime facilities hindered economic recovery. To achieve the government’s long-term plan of building back better, stronger, and greener, the local labour force requires new skills and building and labour regulations need revising.
 
-In response, the U.K. Foreign and Commonwealth Office (FCO) is building the capacity of the local workforce to participate in recovery efforts. DAI is leading this initiative by designing and implementing vocational training programs to help underemployed populations meet the rising demand for skilled labour in the construction and maritime industries. In addition, DAI’s team supports the government of the British Virgin Islands to develop labour policies that meet the immediate needs of the recovery process while also creating long-term employment opportunities.
+In response, the U.K. Foreign and Commonwealth Office (FCO) is training the local workforce to participate in recovery efforts. DAI is leading this initiative by designing and implementing vocational training programs to help underemployed populations meet the rising demand for skilled labour in the construction and maritime industries. In addition, DAI’s team supports the government of the British Virgin Islands to develop labour policies that meet the immediate needs of the recovery process while also creating long-term employment opportunities.
 
 ![BVI_CSSF_photo.jpg](/uploads/BVI_CSSF_photo.jpg)
 
