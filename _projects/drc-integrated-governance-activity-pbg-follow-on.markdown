@@ -26,7 +26,7 @@ However, an emerging generation of leaders in the DRC has shown a commitment to 
 ### Sample Activities
 
 * Train government entities and civil society groups to improve their administration and financial management.
-*Establish and train national and provincial Food Security and Nutrition Policy Analysis Units.
+* Establish and train national and provincial Food Security and Nutrition Policy Analysis Units.
 * Advise local governments on raising and managing local tax revenues.
 * Establish platforms to improve citizen engagement and intra-governmental collaboration.
 * Support provincial health divisions to participate in cross-sector coordination meetings, conduct participatory planning, and host annual public hearings.
