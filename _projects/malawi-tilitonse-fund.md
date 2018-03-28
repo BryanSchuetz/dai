@@ -10,6 +10,7 @@ client: U.K. Department for International Development
 solutions:
 - Governance
 - Institutional and Policy Reform
+- Voice and Accountability
 regions:
 - Sub-Saharan Africa
 country:
