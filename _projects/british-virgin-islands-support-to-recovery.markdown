@@ -24,7 +24,5 @@ In response, the U.K. Foreign and Commonwealth Office (FCO) is building the capa
 ### Sample Activities
 
 * Partner with local community college to develop training materials and provide external trainers for courses on electrical, plumbing, and project management skills.
-
 * Engage with private and public sector to secure commitments for apprenticeships and employment for trainees.
-
 * Advise on regulations to boost resilience in housing codes and on labour market policies to maximise the trickle-down effects of recovery efforts.
