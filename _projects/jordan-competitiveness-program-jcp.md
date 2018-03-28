@@ -1,5 +1,5 @@
 ---
-title: Jordan Competitiveness Program (JCP)
+title: Jordan—Competitiveness Program (JCP)
 date: 2016-01-21 22:40:00 Z
 summary: 'JCP activities align with the goals and opportunities of the Jordan Compact,
   which coordinates donor responses to the Syrian Refugee Crisis. The program’s three
@@ -51,6 +51,6 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 
 * Streamlined the Drug Registration Process to greatly reduce the time for private-sector pharmaceutical manufacturers to have a new drug approved for sale; each new drug creates 16 jobs and $1 million in sales revenue.
 
-* Supported region's First Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
+* Supported region's first Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
 
 [1]: http://www.jcp-jordan.org/
