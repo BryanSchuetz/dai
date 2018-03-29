@@ -10,7 +10,7 @@ summary: 'In 2014, the Government of Jordan responded to the King''s call for a 
 
 '
 start: 2014
-end: 2019
+end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Business Environment Reform
