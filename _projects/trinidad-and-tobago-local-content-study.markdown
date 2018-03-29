@@ -1,7 +1,6 @@
 ---
 title: Trinidad and Tobago—Local Content Study
 date: 2018-03-29 20:15:00 Z
-published: false
 summary: DAI’s Sustainable Business Group conducted a study to determine the economic
   value added by local content in Trinidad and Tobago’s energy sector. The study evaluated
   current local content value as well as projections of future value.
