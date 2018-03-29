@@ -4,8 +4,8 @@ date: 2018-03-28 15:06:00 Z
 summary: 'DAI is supporting labour policy reforms and providing vocational training
   to help the local workforce participate in reconstruction efforts following the
   hurricanes of 2017. '
-start: 2018
-end: 2019
+start: 2017
+end: 2018
 client: U.K. Foreign and Commonwealth Office
 solutions:
 - Economic Growth
