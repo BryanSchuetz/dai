@@ -14,7 +14,7 @@ summary: 'DAI’s latest white paper, “From Resilience to Growth: Realizing Jo
 
 DAI’s latest white paper, “[From Resilience to Growth: Realizing Jordan’s Development Vision](/uploads/Jordan%20White%20paper%20%E2%80%94%20From%20Resilience%20to%20Growth.pdf),” outlines a development path for the Kingdom designed to generate economic development in the context of the Syrian refugee crisis.
 
-The white paper “is intended as a survey of DAI’s learning and, more broadly, an invitation to draw from these experiences (link to Jordan timeline) to enrich the design of new [assistance] programs,” write its authors, who include leaders and advisors from DAI’s Jordan-based programs funded by the U.S. Agency for International Development (USAID) and other partners. 
+The white paper “is intended as a survey of DAI’s learning and, more broadly, an invitation to draw from these [experiences](/uploads/jordan%20timeline.pdf) to enrich the design of new [assistance] programs,” write its authors, who include leaders and advisors from DAI’s Jordan-based programs funded by the U.S. Agency for International Development (USAID) and other partners. 
 
 The document describes the challenges facing the Kingdom, chief among them an unprecedented influx of refugees from neighboring Syria that has increased Jordan’s population from 7.5 million in 2011 to 9.5 million today. It offers recommendations for turning the crisis—which is stressing Jordan’s ability to provide local services such as healthcare, education, and transport—into opportunities for sustainable economic growth.
 
