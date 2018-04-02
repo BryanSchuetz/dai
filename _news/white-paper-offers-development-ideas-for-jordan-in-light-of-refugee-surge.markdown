@@ -1,7 +1,6 @@
 ---
 title: White Paper Offers Development Ideas for Jordan in Light of Refugee Surge
 date: 2018-04-02 20:48:00 Z
-published: false
 solutions:
 - Economic Growth
 - Stability
