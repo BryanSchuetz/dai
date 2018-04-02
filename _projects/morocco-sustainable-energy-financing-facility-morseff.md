@@ -27,7 +27,7 @@ Like with its successful [PolSEFF](/our-work/projects/poland-polish-sustainable-
 
 The credit line for Morocco is currently €20million for Banque Marocaine du Commerce Extérieur, but more financial institutions are expected to join the facility soon. DAI is assisting the EBRD and partner financial institutions to develop loan products. This new demand will also spur the development of a local production base for energy efficiency and renewable energy technologies.
 
-<iframe width="703" height="394" src="https://www.youtube.com/embed/xPONeB1y1UQ" frameborder="0" allowfullscreen></iframe> 
+<iframe width="703" height="394" src="https://www.youtube.com/embed/xPONeB1y1UQ" frameborder="0" allowfullscreen></iframe>
 
 ### Sample Activities
 
