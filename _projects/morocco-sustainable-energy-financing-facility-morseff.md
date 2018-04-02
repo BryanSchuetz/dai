@@ -1,7 +1,7 @@
 ---
 title: Morocco—Sustainable Energy Financing Facility (MorSEFF)
 date: 2016-01-21 22:40:00 Z
-summary: Like with its successful [PjolSEFF](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)
+summary: Like with its successful [PolSEFF](/our-work/projects/poland-polish-sustainable-energy-financing-facility-polseff)
   and [WebSEFF](/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii)
   projects in Poland and the Western Balkans, the European Bank for Reconstruction
   and Development (EBRD), in cooperation with in cooperation with the French Agency

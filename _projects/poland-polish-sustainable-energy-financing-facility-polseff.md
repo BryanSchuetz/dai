@@ -1,7 +1,7 @@
 ---
 title: Poland—Polish Sustainable Energy Financing Facility (PolSEFF)
 date: 2016-01-21 22:40:00 Z
-summary: 'We are [creating a perpetual market][1] for investments in efficient energy
+summary: 'We are creating a perpetual market for investments in efficient energy
   by Poland''s local businesses by training financial institutions on how to appraise
   and finance sensible energy projects; detailing for small and medium-sized enterprises
   (SMEs) the competitive advantages of investing in energy-efficient materials and
