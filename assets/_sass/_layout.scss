@@ -721,31 +721,30 @@ footer{
     width: 100px;
     float: left;
     overflow: hidden;
-    margin-right: $gutter;
-    @include responsive(medium-screens){
-      height: 55px;
-      width: 220px;
-    }
-    @include responsive(wide-screens){
-      height: 60px;
-      width: 240px;
-    }
+   //  @include responsive(medium-screens){
+   //    height: 55px;
+   //    width: 220px;
+   //  }
+   //  @include responsive(wide-screens){
+   //    height: 60px;
+   //    width: 240px;
+   //  }
   }
   .logo--footer--afiliate{
     position: relative;
     float: right;
-    height: 50px;
-    width: 84px;
-    top: -.5rem;
+    height: 60px;
+    width: 94px;
+    top: -.9rem;
     @include responsive(medium-screens){
       height: 96px;
       width: 159px;
-      top: -.9rem;
+      top: -.8rem;
     }
-    @include responsive(wide-screens){
-      height: 115px;
-      width: 192px;
-    }
+    // @include responsive(wide-screens){
+    //   height: 115px;
+    //   width: 192px;
+    // }
     margin-right: $gutter;
   }
   .footer-bottom-links{
