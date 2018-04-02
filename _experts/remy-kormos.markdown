@@ -6,7 +6,7 @@ summary: Rémy Kormos has more than 22 years of experience in international busi
   law, implementing business environment reform, commercial law, and judicial reform
   in developing and transitioning countries.
 job-title: Principal Global Specialist, Private Sector Development
-image: "/uploads/Remy%20Kormos.JPG"
+image: "/uploads/Remy%20Kormos-cd2e82.JPG"
 solutions:
 - Economic Growth
 - Public-Private Partnerships
