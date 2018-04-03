@@ -16,7 +16,7 @@ DAI’s latest white paper, “[From Resilience to Growth: Realizing Jordan’s 
 
 The white paper “is intended as a survey of DAI’s learning and, more broadly, an invitation to draw from these [experiences](/uploads/jordan%20timeline.pdf) to enrich the design of new [assistance] programs,” write its authors, who include leaders and advisors from DAI’s Jordan-based programs funded by the U.S. Agency for International Development (USAID) and other partners. 
 
-The document describes the challenges facing the Kingdom, chief among them an unprecedented influx of refugees from neighboring Syria that has increased Jordan’s population from 7.5 million in 2011 to 9.5 million today. It offers recommendations for turning the crisis—which is stressing Jordan’s ability to provide local services such as healthcare, education, and transport—into opportunities for sustainable economic growth.
+The document describes the challenges facing the Kingdom, chief among them an unprecedented influx of refugees from neighboring Syria that has [increased](http://databank.worldbank.org/data/reports.aspx?source=2&series=SP.POP.TOTL&country=) Jordan’s population from 7.5 million in 2011 to 9.4 million in 2016. It offers recommendations for turning the crisis—which is stressing Jordan’s ability to provide local services such as healthcare, education, and transport—into opportunities for sustainable economic growth.
 
 DAI’s recommendations cover:
 
@@ -35,7 +35,7 @@ For example, recent DAI-led interventions include:
 
 * Developing three Employment Promotion Units (EPUs) that placed more than 5,000 new hires; German development agency GIZ has pledged to fund further assistance to the EPUs to become fee-based and self-sustaining;
 * Establishing 18 development zones to facilitate local business participation in the Jordan-European Union Trade Agreement in sectors such as garment manufacture and agriculture; and
-* Assisting in preparing three bond issuances of $3.75 billion that saved the Government of Jordan millions of dollars in interest while creating fiscal space for domestic expenditure.
+* Assisting in preparing three bond issuances totaling $3.75 billion that saved the Government of Jordan millions of dollars in interest while creating fiscal space for domestic expenditure.
 
 The document recommends that donors allocate funds to develop the EPUs and encourage them to seek further collaboration with government-subsidized programs that benefit citizens and cities, which bear the brunt of the refugee influx. Jordan, the authors note, could also benefit from “bootcamps” that sharpen the technical knowledge of fresh graduates and improve the “soft skills”—such as teamwork, punctuality, and communication—they need for employability.
 
