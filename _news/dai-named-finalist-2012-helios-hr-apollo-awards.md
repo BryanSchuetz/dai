@@ -15,9 +15,6 @@ layout: node
 
 DAI has been named a finalist in the 2012 Helios HR Apollo Awards, in the largest company category alongside Booz Allen Hamilton, Deltek, Ogilvy Washington, SRA International, Inc., and Washington Gas.
 
-![Daniel Shaul and Laura Viehmyer][1]
-`V.P., Human Resources Laura Viehmyer meets with her colleague Daniel Shaul`
-
 The awards go to companies that have "demonstrated a superior level of focus on employee development and engagement," according to the award's sponsor, Helios HR, a Washington, D.C.-based human resources management firm. "The finalists of Apollo represent how companies in the D.C. region invest tremendous energy into creating programs that value employees as a critical component to achieving their overall business goals."
 
 "DAI is passionate about employee development and engagement and is proud of its 40-year track record as an employer of choice in the global development community," said Laura Viehmyer, the company's Vice President of Human Resources.
@@ -28,5 +25,4 @@ In 2010, DAI was [named][3] the most exceptional company in Maryland by _The Gaz
 
 The finalists will be honored May 30 at an event—co-sponsored by Helios HR and Washington SmartCEO magazine—at the McLean Hilton.
 
-[1]: http://dai.com/sites/default/files/pictures/HRTeam.jpg
 [3]: ../../news-publications/news/dai-named-most-exceptional-company-maryland
