@@ -15,7 +15,7 @@ is_featured: true
 
 DAI was yesterday named an award winner at the [17th annual conference][1] of the Global Equity Organization (GEO), a professional membership organization dedicated to advancing understanding of employee share plans. DAI won in a new award category, _Best Use of a Share Plan in a Private Company._
 <!--more-->
-"We are delighted to receive this honor," said DAI Senior Vice President of Human Resources [Laura Viehmyer][2], who accepted the award on DAI's behalf at a gala event held at the Boston Marriott Copley Place hotel.
+"We are delighted to receive this honor," said DAI Senior Vice President of Human Resources Laura Viehmyer, who accepted the award on DAI's behalf at a gala event held at the Boston Marriott Copley Place hotel.
 
 ![][3]{:.float-left}"Many people worked hard to ensure that our employee ownership initiative is broad-based, global, and structured to drive DAI's performance for our clients and their beneficiaries," added Viehmyer. "It's gratifying to see those efforts come together and win recognition from the professionals who know the most about employee equity plans."
 
@@ -34,7 +34,6 @@ As DAI expanded its global footprint, the DAI Board and leadership team worked t
 DAI would like to acknowledge the professional contributions of [ButcherJoseph & Co.][5] and [Global Shares][6] to the creation and management of its new employee ownership program.
 
 [1]: http://www.globalequity.org/geo/Boston2016
-[2]: /who-we-are/leadership/laura-viehmyer
 [3]: https://assetify-dai.com/news/award.jpg
 [4]: /who-we-are/leadership/james-boomgard
 [5]: http://www.butcherjoseph.com/
