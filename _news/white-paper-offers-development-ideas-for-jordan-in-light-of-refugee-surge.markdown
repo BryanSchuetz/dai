@@ -39,7 +39,7 @@ For example, recent DAI-led interventions include:
 
 * [Developing](https://www.dai.com/our-work/projects/jordan-workforce-development-wfd-project) three Employment Promotion Units (EPUs) that placed more than 5,000 new hires; German development agency GIZ has pledged to fund further assistance to the EPUs to become fee-based and self-sustaining;
 * [Supporting 18 development zones](https://www.dai.com/our-work/projects/jordan-competitiveness-program-jcp) to facilitate local business participation in the Jordan-European Union Trade Agreement in sectors such as garment manufacture and agriculture; and
-* Assisting in [preparing three bond issuances](http://dai-global-developments.com/articles/fiscal-project-helps-jordan-issue-bond/) totaling $3.75 billion that saved the Government of Jordan millions of dollars in interest while creating fiscal space for domestic expenditure.
+* Assisting in [preparing bond issuances](http://dai-global-developments.com/articles/fiscal-project-helps-jordan-issue-bond/) totaling $3.75 billion that saved the Government of Jordan millions of dollars in interest while creating fiscal space for domestic expenditure.
 
 The document recommends that donors allocate funds to develop the EPUs and encourage them to seek further collaboration with government-subsidized programs that benefit citizens and cities, which bear the brunt of the refugee influx. Jordan, the authors note, could also benefit from “bootcamps” that sharpen the technical knowledge of fresh graduates and improve the “soft skills”—such as teamwork, punctuality, and communication—they need for employability.
 
