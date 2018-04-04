@@ -18,6 +18,8 @@ The white paper “is intended as a survey of DAI’s learning and, more broadly
 
 The document describes the challenges facing the Kingdom, chief among them an unprecedented influx of refugees from neighboring Syria that has [increased](http://databank.worldbank.org/data/reports.aspx?source=2&series=SP.POP.TOTL&country=) Jordan’s population from 7.5 million in 2011 to 9.4 million in 2016. It offers recommendations for turning the crisis—which is stressing Jordan’s ability to provide local services such as healthcare, education, and transport—into opportunities for sustainable economic growth.
 
+![DAI-News----Jordan-White-Paper-1.jpg](/uploads/DAI-News----Jordan-White-Paper-1.jpg)`USAID Jordan Workforce Development Project' 
+
 DAI’s recommendations cover:
 
 * The natural environment, including developing energy and managing scarce water resources;
@@ -30,6 +32,8 @@ DAI’s recommendations cover:
 Taken together, these interventions align with recent policy recommendations by the World Bank, which has worked with the Jordanian government to find practical ways for implementing the Kingdom’s new five-year economic growth plan. The wide-ranging strategy aims to ensure that international support allocated for the Syria crisis meets the immediate humanitarian needs of refugees and host communities as well as contributing to Jordan’s long-term economic stability.
 
 “From Resilience to Growth” argues that although the Syria crisis has galvanized the Jordanian government, private sector, and international donor community around common activities, “ensuring that these activities are part of a robust plan for economic growth will require specific development interventions.” 
+
+![DAI-News----Jordan-White-paper-2.jpg](/uploads/DAI-News----Jordan-White-paper-2.jpg)`USAID Jordan Competitiveness Program`
 
 For example, recent DAI-led interventions include:
 
