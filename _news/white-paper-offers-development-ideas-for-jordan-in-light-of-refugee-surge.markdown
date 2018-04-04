@@ -18,7 +18,7 @@ The white paper “is intended as a survey of DAI’s learning and, more broadly
 
 The document describes the challenges facing the Kingdom, chief among them an unprecedented influx of refugees from neighboring Syria that has [increased](http://databank.worldbank.org/data/reports.aspx?source=2&series=SP.POP.TOTL&country=) Jordan’s population from 7.5 million in 2011 to 9.4 million in 2016. It offers recommendations for turning the crisis—which is stressing Jordan’s ability to provide local services such as healthcare, education, and transport—into opportunities for sustainable economic growth.
 
-![DAI-News----Jordan-White-Paper-1.jpg](/uploads/DAI-News----Jordan-White-Paper-1.jpg)`USAID Jordan Workforce Development Project' 
+![DAI-News----Jordan-White-Paper-1.jpg](/uploads/DAI-News----Jordan-White-Paper-1.jpg)`USAID Jordan Workforce Development Project` 
 
 DAI’s recommendations cover:
 
