@@ -6,6 +6,7 @@ summary: Neil Browning supports the development of SBG’s economic modeling too
   conducts local content, supply chain, and market analysis for international business
   projects.
 job-title: Associate Analyst
+image: "/uploads/Neil_web.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
