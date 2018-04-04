@@ -50,7 +50,7 @@ The Jordan Workforce Development Project [directly addresses ][1]this objective.
 * Developed national occupational standards for career guidance counselors; established career guidance offices in six vocational training institutes; trained 40 career guidance counselors, and produced films highlighting career paths for heating, ventilation and air-conditioning; die cutting; and electrical maintenance technicians.
 * Submitted policy papers to Jordan’s cabinet, including to address flexible working hours needed for women, which was endorsed by a Royal Decree, and to incentivize employers to hire Jordanians in labor-intensive occupations. 
 * Submitted minimum-wage policy brief to the Ministry of Labor that provided guidelines for compensating entry-level workers with the goal of avoiding potential exploitation in the labor market.
-* Delivered the #PledgeForParity and “Blue Week” campaigns to advocate for blue collar jobs via social media platforms. WFD had 24,570 likes on its Facebook page (facebook.com/USAIDJWFD).
+* Delivered the #PledgeForParity and “Blue Week” campaigns to advocate for blue collar jobs via social media platforms. WFD had 24,570 likes on its [Facebook page](https://www.facebook.com/USAIDJWFD/).
 * Awarded $1.4 million in grants to eight organizations for projects in East Amman, Irbid, Zarqa, Ma’an, and Tafileh, including six “challenge grants” to advance innovative solutions to community-specific problems, and two fixed-amount grants to implement sustainability activities at the EPUs. 
 
 [1]: http://www.jordanwfd.org/Home-Video
