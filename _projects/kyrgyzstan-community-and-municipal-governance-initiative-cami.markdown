@@ -1,9 +1,9 @@
 ---
 title: Kyrgyzstan—Community and Municipal Governance Initiative (CAMI)
 date: 2016-12-21 15:55:00 Z
-summary: 'After emerging from ethnic conflict and political upheaval in 2010, the
-  Kyrgyz Republic has experienced a period of renewed political stability and strengthening
-  of public institutions. '
+summary: CAMI works with municipal governments to help them more effectively respond
+  to citizens’ needs and deliver services, thereby strengthening trust in government
+  institutions and fortifying the Kyrgyz Republic’s recent democratic gains.
 start: 2016
 end: 2021
 client: U.S. Agency for International Development
@@ -17,20 +17,26 @@ After emerging from ethnic conflict and political upheaval in 2010, the Kyrgyz R
 
 ![CAMI_photo.jpg](/uploads/CAMI_photo.jpg)
 
-The Community and Municipal Governance Initiative (CAMI) project, funded by the U.S. Agency for International Development, will support the Government of the Kyrgyz Republic to strengthen this vital relationship between local governing bodies and the public they serve. CAMI will work with up to 50 municipal governments to help them more effectively respond to citizens’ needs and deliver services, thereby strengthening trust in government institutions and fortifying the Kyrgyz Republic’s recent democratic gains. 
- 
+The Community and Municipal Governance Initiative (CAMI) project, funded by the U.S. Agency for International Development, will support the Government of the Kyrgyz Republic to strengthen this vital relationship between local governing bodies and the public they serve. CAMI works with municipal governments to help them more effectively respond to citizens’ needs and deliver services, thereby strengthening trust in government institutions and fortifying the Kyrgyz Republic’s recent democratic gains.
+
 DAI’s approach will focus first on service delivery improvements that are highly visible to the public with immediate positive impacts, such as solid waste management, water, lighting, transportation, and local economic development, while concurrently building the capacity of partner local governments across all service areas for which they are responsible.
 
 ### Sample Activities
 
-* Work with local governments to develop effective public outreach strategies that address key citizen grievances identified in an initial rapid survey. 
+* Work with local governments to develop effective public outreach strategies that address key citizen grievances identified in an initial rapid survey.
+
 * Support locally elected council members through trainings on topics such as conducting public hearings and budget and planning oversight.
-* Assist in developing and disseminating a local council member code of ethics. 
+
+* Assist in developing and disseminating a local council member code of ethics.
+
 * Utilize mobile phone-based surveys to help local governments monitor citizen feedback; address concerns in a timely manner; and foster greater public participation in the delivery of government services.
 
 ### Select Results
 
 * Established partnerships with 32 municipalities to help launch services in water supply, waste management, agriculture, and other areas.
+
 * Trained 1,126 municipality staff and technical experts.
+
 * Arranged 62 public hearings on local services, budget execution, and development of citizen charters and supported six municipalities in launching priority services.
+
 * Organized the Forum of Aimaks that brought together 133 representatives from state and municipal governments and community organizations to discuss strategies to enhance regional development within the country.
