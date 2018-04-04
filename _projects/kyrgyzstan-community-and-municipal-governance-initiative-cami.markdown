@@ -27,3 +27,10 @@ DAI’s approach will focus first on service delivery improvements that are high
 * Support locally elected council members through trainings on topics such as conducting public hearings and budget and planning oversight.
 * Assist in developing and disseminating a local council member code of ethics. 
 * Utilize mobile phone-based surveys to help local governments monitor citizen feedback; address concerns in a timely manner; and foster greater public participation in the delivery of government services.
+
+### Select Results
+
+* Established partnerships with 32 municipalities to help launch services in water supply, waste management, agriculture, and other areas.
+* Trained 1,126 municipality staff and technical experts.
+* Arranged 62 public hearings on local services, budget execution, and development of citizen charters and supported six municipalities in launching priority services.
+* Organized the Forum of Aimaks that brought together 133 representatives from state and municipal governments and community organizations to discuss strategies to enhance regional development within the country.
