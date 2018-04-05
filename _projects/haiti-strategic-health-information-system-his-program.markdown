@@ -9,6 +9,7 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Health
+- Digital
 regions: Latin America and the Caribbean
 country: Haiti
 ---
