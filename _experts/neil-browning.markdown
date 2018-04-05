@@ -1,7 +1,6 @@
 ---
 title: Neil Browning
 date: 2018-04-04 23:10:00 Z
-published: false
 lastname: Browning
 summary: Neil Browning supports the development of SBG’s economic modeling tools and
   conducts local content, supply chain, and market analysis for international business
