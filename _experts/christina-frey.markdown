@@ -3,13 +3,25 @@ title: Christina Frey
 date: 2018-04-05 17:07:00 Z
 published: false
 lastname: Frey
+summary: Christina brings 10 years of experience in sustainable development, anti-corruption
+  work, public sector governance, and political economy analysis across sub-Saharan
+  Africa and Asia.
+job-title: Principal Consultant, Governance
+solutions:
+- Governance
+- Institutional and Policy Reform
+- Voice and Accountability
+regions:
+- Sub-Saharan Africa
+- Asia and the Pacific
 ---
 
-Christina is a Principal Consultant for DAI’s Governance Team and brings 10 years of experience in sustainable development, anti-corruption work, public sector governance, and political economy analysis. Her work focuses on institutional reform and accountability in sub-Saharan Africa and Asia, including Kenya, Ethiopia, Nigeria, Ghana, and Pakistan.
+Christina brings 10 years of experience in sustainable development, anti-corruption work, public sector governance, and political economy analysis. Her work focuses on institutional reform and accountability in sub-Saharan Africa and Asia, including Kenya, Ethiopia, Nigeria, Ghana, and Pakistan.
 
 After starting her career in healthcare, as nursing support and a paramedic, Christina moved into international development to work in health sector governance programming for GIZ in Kenya. The position enabled her to combine her background in political science with her experience in direct healthcare delivery. In her role in DAI’s governance practice, she provides technical expertise to projects and new business efforts and shares learing from accountability and institutional strengthening programs with a variety of European clients.
 
 Christina specializes in innovation for public service delivery and problem-driven approaches to improving policy and accountability. She currently serves as Technical Lead on the Kenya Deepening Democracy Programme and as Technical Director of the Nigeria Accountable, Responsive, and Capable Government Programme, the U.K. Department for International Development’s flagship governance programme. In addition, Christina advises teams and clients in applying Political Economy Analysis and Adaptive Programming to DAI’s portfolio. She speaks English, French, German, Spanish, and Swahili.
 
 * B.A., international relations, United States International University, Kenya
+
 * M.Sc., development management, London School of Economics
