@@ -2,6 +2,9 @@
 {% for article in site.data.digital %}
   {% assign all_articles = all_articles | push: article %}
 {% endfor %}
+{% for article in site.data.cs3 %}
+  {% assign all_articles = all_articles | push: article %}
+{% endfor %}
 {% assign sorted_articles = all_articles | sort: 'date' %}
 
 <div class="stories-rail grid">{% for article in sorted_articles reversed %}

@@ -1,378 +1,220 @@
 
-- title: "Open Source Series Part 2: Spatial Analysis with QGIS (Article 1/2)"
+- title: "Putting Liberian Cities on the Map With OpenStreetMap"
   pub: "Digital"
-  date: 2017-08-23
-  link: "https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html?utm_source=daidotcom"
-  summary: "In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.
-
-
-
-There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the QGIS LinkedIn user group with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl."
+  date: 2018-03-27
+  link: "https://dai-global-digital.com/weve-got-to-map-our-city-putting-three-liberian-cities-on-the-map-using-openstreetmap.html?utm_source=daidotcom"
+  summary: "As the world becomes more urbanized, data on cities and the residents who inhabit them is key to building and governing sustainable communities. Yet this data is simply not available for many rural and urban areas around the world. Many cities lack base data sets—such as accurate maps of their cities that identify key infrastructure, services, and human settlements. In some cases, these maps exist on paper, but in other cases, are only available in closed, proprietary systems or not at all. This was the case in the Liberian cities of Ganta, Gbarnga, and Zwedru."
   tags:
     - digital 
-    - GIS 
-    - Data 
-    - Open Source Series 
-
-- title: "GeekFest 2017: Discussing Blockchain and Economic IDs with Shailee Adinolfi of BanQu"
-  pub: "Digital"
-  date: 2017-08-15
-  link: "https://dai-global-digital.com/geekfest-2017-discussing-blockchain-with-shailee-adinolfi-of-banqu.html?utm_source=daidotcom"
-  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
-
-This week I’m speaking with Shailee Adinolfi, Vice President, Account Management and Marketing at BanQu. We discuss blockchain technology and its application to finance and commerce. For an in-depth primer on blockchain technology, we encourage reading this article in the Harvard Business Review."
-  tags:
-    - digital 
-    - Geekfest 2017 
-    - Digital Financial Services 
-    - Innovation 
-
-- title: "Blockchain Summer News Round-Up:  A Big Splash Into the Pool or a Dip of the Toe?"
-  pub: "Digital"
-  date: 2017-08-14
-  link: "https://dai-global-digital.com/blockchain-summer-news-round-up-a-cannonball-into-the-pool-or-a-dip-of-the-toe.html?utm_source=daidotcom"
-  summary: "This is a guest post by Colleen Green, Senior Financial Sector Specialist at DAI and avid swimmer.
-
-Blockchain technology has been in the news a lot this summer, and like the child standing at the edge of a swimming pool, the news is equal parts enthusiastic, cautious, and speculative about what lurks beneath.
-
-Photo from the 2016 Blockchain Summit"
-  tags:
-    - digital 
-    - Innovation 
-    - Digital Financial Services 
-
-- title: "Lanzamos ‘Somos Chiantla’, App de Transparencia, en Guatemala"
-  pub: "Digital"
-  date: 2017-08-13
-  link: "https://dai-global-digital.com/app-de-transparencia-guatemala.html?utm_source=daidotcom"
-  summary: "Note: This post is also available in English.
-
-Nota: Esta entrada es la continuación de una publicación anterior que explica nuestra fase de diseño digital, que fue centrada en los ciudadanos de Chiantla.
-
-
-
-El 25 de mayo, el Alcalde Carlos Alvarado Figueroa anunció desde el Teatro Municipal de Chiantla el lanzamiento de Somos Chiantla, una aplicación móvil para la transparencia presupuestaria municipal y la participación ciudadana de Chiantla, uno de los municipios apoyados por Nexos Locales y ubicado en el Departamento de Huehuetenango."
-  tags:
-    - digital 
-    - Guatemala 
+    - Data Visualization 
+    - Sub-Saharan Africa 
     - Governance 
-    - Human-centered design 
 
-- title: "Results of HCD: Governance App Launches in Guatemala"
+- title: "How a Pilot Project in Haiti Brings Optimism for Digitally Enabled Health System"
   pub: "Digital"
-  date: 2017-08-08
-  link: "https://dai-global-digital.com/governance-app-guatemala.html?utm_source=daidotcom"
-  summary: "Nota: Esta publicación también está disponible en español
-
-Note: This blog post follows an earlier post which covers our pre-development human-centered design phase.
-
-
-
-On May 25, Mayor Carlos Alvarado Figueroa stood on stage at the local municipal theater and announced the launch of Somos Chiantla—a mobile app for municipal budget transparency and citizen engagement for the citizens of Chiantla, a town in the Western Highlands of Guatemala and one of Nexos Locales’s partner municipalities."
-  tags:
-    - digital 
-    - Governance 
-    - Guatemala 
-    - Human-centered design 
-
-- title: "Human-Centered Design for Behavior Change in Health"
-  pub: "Digital"
-  date: 2017-07-28
-  link: "https://dai-global-digital.com/human-centered-design-for-behavior-change-in-health.html?utm_source=daidotcom"
-  summary: "One of the largest barriers to improving health outcomes across the world is the difficulty of changing behaviors. Building a stable health system that provides quality products and services to its beneficiaries can only go as far as the patients’ willingness to trust that system. There may be clinical evidence that proves the health benefits of a given drug or device, but can that evidence compete with history, cultural norms, stigma, trust, and many more behavioral and societal pressures that often preclude widescale adoption?"
+  date: 2018-03-20
+  link: "https://dai-global-digital.com/haitis-digital-health-future-how-a-pilot-project-brings-optimism-for-a-digital-enabled-health-system.html?utm_source=daidotcom"
+  summary: "I recently presented during a TechChange course titled “The Future of Digital Health.” I was asked to discuss the implementation of the Haiti Strategic Health Information System (HIS) program, a five-year, U.S. Agency for International Development-funded initiative that is consolidating and integrating Haiti’s disconnected health information assets. Preparing for this presentation gave me a chance to reflect on the past year—the progress we have made, the challenges we have encountered, and the future of digital health in Haiti."
   tags:
     - digital 
     - Health 
-    - Human-centered design 
 
-- title: "Open Source Series Part 1: What is Open Source?"
+- title: "How to Engage and Support Local Innovators: 3 Takeaways from the Digital Development Forum"
   pub: "Digital"
-  date: 2017-07-26
-  link: "https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html?utm_source=daidotcom"
-  summary: "This article is the first in a series of posts about open source software and open data for development.
-
-Here at DAI we rely on software applications and data systems for our everyday work. From internal chat applications, to business intelligence software, to online data collection platforms, technology systems enable us to do our work more efficiently and effectively. But when working on international development projects, we must consider other factors such as access to desktop versus mobile devices, computer processing power and storage, levels of technical acumen, and maybe most importantly, cost."
+  date: 2018-03-13
+  link: "https://dai-global-digital.com/how-to-engage-and-support-local-innovators-three-take-aways-from-the-digital-development-forum.html?utm_source=daidotcom"
+  summary: "On March 9, I moderated a workshop called “How to Engage and Support Local Innovators” at the USAID Digital Development Forum. I was joined by three expert panelists: Danielle Dhillon from the Digital Impact Alliance (DIAL) at the UN Foundation; Toni Eliasz from the World Bank’s Digital Entrepreneurship Program; and Tyler Radford from the Humanitarian OpenStreetMap Team (HOT). All three are focused on nurturing local technologists and innovators. Toni and Danielle support local startup ecosystems and Tyler builds communities of volunteer mappers. What have they learned through these efforts?"
   tags:
     - digital 
-    - Data 
-    - Open Source Series 
-
-- title: "Refugee Co-Lab: Using Design Thinking to Integrate Refugees into Communities in Greece"
-  pub: "Digital"
-  date: 2017-07-18
-  link: "https://dai-global-digital.com/refugee-co-lab-using-design-thinking-to-integrate-refugees-into-communities-in-greece.html?utm_source=daidotcom"
-  summary: "This is a guest post by Ting Shih, CEO and Founder of ClickMedix
-
-More than 800,000 refugees came to the Island of Lesvos, Greece, to seek safety and a new life. Many of them came from Syria, Afghanistan, Iraq, and other conflict-ridden countries. As the refugee crisis in Greece subsided, there are about 3,000 refugees who now remain there, anxious to find ways to integrate and contribute to Greek society. The refugees I met are educated and skilled and some used to run their own businesses. They’re not helpless, but they are constrained and in a state of limbo as they await asylum. This state of uncertainty and despair is especially challenging for refugees who were, until recently, productive members of the workforce. Our role is to help them understand their new pathway, by leveraging what they already know to do as well as provide new skills.
-
-One of them is Jalal. He is just 22 and full of energy and aspirations. Jalal is building his own social enterprise to help fellow refugees and working as a translator at a local law firm. He even taught himself English during his stay in Greece by interacting with international volunteers and other aid workers. Is Jalal unique? Are there more budding entrepreneurs like him? Can we help them achieve their dreams?"
-  tags:
-    - digital 
-    - Human-centered design 
-    - Innovation 
-
-- title: "GeekFest 2017: Talking Open Source Design, Makerspaces, and Global Supply Chains with Jessica Berlin"
-  pub: "Digital"
-  date: 2017-07-12
-  link: "https://dai-global-digital.com/geekfest-2017-talking-open-source-design-makerspaces-and-global-supply-chains-with-jessica-berlin.html?utm_source=daidotcom"
-  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #GeekFest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
-
-This week I’m speaking to Jessica Berlin, the co-founder of the MakerNet Consortium and founder and Managing Director of CoStruct based in—you guessed it—Berlin, Germany. Before taking the leap as an entrepreneur, Jessica worked for a number of German and U.S. government organizations and development agencies as well as nonprofits in Africa, Asia, Europe, and North America—experiences that inspired her to start her own company to create new programs, provide innovation strategy consulting, and build public-private partnerships to advance business and tech innovation in emerging economies."
-  tags:
-    - digital 
-    - Geekfest 2017 
-    - Innovation 
-    - Human-centered design 
-
-- title: "5 Things to Consider When Doing Mobile Data Collection"
-  pub: "Digital"
-  date: 2017-07-06
-  link: "https://dai-global-digital.com/5-things-to-watch-out-for-in-mobile-data-collection.html?utm_source=daidotcom"
-  summary: "This is a guest post by Nafessa Kassim, Director of Business Development, and Al Ismaili, CEO and Co-Founder of Bamba, a mobile data collection company in Nairobi, Kenya.
-
-Development organizations now have a plethora of mobile data collection tools at their disposal, and choosing between the various options available can often seem like a daunting task. But even after finding the right tool, it is imperative to think through and address the most common challenges that arise in the mobile data collection process. In the last five years of helping development actors integrate mobile phones into their data collection processes, we’ve identified five challenges they run into most often.
-
-
-Photo credit: David Staten"
-  tags:
-    - digital 
-    - Data 
-
-- title: "HCD in the Field: Trading Counterfeit Rupees for Real Insights with Farmers in Nepal"
-  pub: "Digital"
-  date: 2017-07-03
-  link: "https://dai-global-digital.com/hcd-in-the-field-trading-counterfeit-rupees-for-real-insights.html?utm_source=daidotcom"
-  summary: "This is a guest post by Meredith Perry, Innovation Specialist with DAI’s Center for Development Innovation project.
-
-My colleague pressed $1,000 in visibly fake Nepali rupees into the hands of each farmer, inputs dealer, and agricultural entrepreneur.   Then, she grandly opened the doors to our ersatz haat bazaar (an outdoor, rural marketplace) and instructed them to, “Pay what you would be willing to spend on the products.”
-
- Inside the Data-Driven Farming Prize’s “haat bazaar.”  Yes, we know inside makes this an oxymoron. Photo by Kathaharu Studios.
-
-For two hours, the din associated with an actual marketplace poured out of a Kathmandu conference room. The Data-Driven Farming Prize’s 13 finalist teams became sellers straining to attract prospective buyers from among the invited participants. But how did data analysts, graduate students, and entrepreneurs transform into wily hawkers? Why was a simulated haat bazaar a Data-Driven Farming Prize activity?"
-  tags:
-    - digital 
-    - Human-centered design 
-    - Innovation 
-    - Data 
-
-- title: "Lean Design for Development: A Practical Approach to Human-Centered Design"
-  pub: "Digital"
-  date: 2017-06-27
-  link: "https://dai-global-digital.com/lean-design-for-development-a-practical-approach-to-human-centered-design.html?utm_source=daidotcom"
-  summary: "Bilateral donors and foundations continue to look to digital tools to innovate. Why innovate? Given the intractable nature of many development problems, innovation speaks to the desire for different results, to try something new, or to apply something old in a new context or in a new way. Digital tools hold the promise that a program can leapfrog traditional development pathways, amplify impact, and create real game-changers in people’s lives. One way to increase the possibility of success in deploying any digital tool is to follow the principles for digital design - particularly design with the user. Human-centered design (HCD), and its close cousins, co-creation, design thinking, and lean startup methods, can serve not just as an activity but as a process for effective creation, iteration, and implementation."
-  tags:
-    - digital 
-    - Human-centered design 
-    - Innovation 
-    - Think Piece 
-
-- title: "6 Things I Have Learned About Delivering an Introductory ICT4D Training"
-  pub: "Digital"
-  date: 2017-06-21
-  link: "https://dai-global-digital.com/6-things-i-have-learned-about-delivering-an-introductory-ict-training.html?utm_source=daidotcom"
-  summary: "On the ICT team we wear many hats and have many responsibilities. We are technical specialists who support our company’s global development projects in the design and use of digital solutions. We are evangelists who teach others about the potential of digital technologies to enhance and sustain the impact of development programming. We are thought leaders who answer strategic questions about where digital development is as a technical field and where it might be going. These are the aspects of our work that often appear in our blog posts.
-
-But another hat we wear is as trainers: It is our responsibility to familiarize our projects and clients with the fundamentals of digital design and to equip colleagues with practical knowledge on how to effectively integrate digital programming into their work so they can design and deliver their own digital programs. Since joining the team some 19 months ago, I have had the chance to train 100+ people in three countries on the fundamentals of digital development. Below are my biggest takeaways on how to ensure that participants get the most out of their training."
-  tags:
-    - digital 
-    - Think Piece 
-    - Innovation 
-
-- title: "Iterating Digital Insights with Cambodian Civil Society Groups"
-  pub: "Digital"
-  date: 2017-06-15
-  link: "https://dai-global-digital.com/cambodia-civil-society-facebook.html?utm_source=daidotcom"
-  summary: "Civil society organizations (CSOs) play a critical role in public life: understanding citizens’ daily challenges, providing services to address those challenges in the short-term, and pursuing long-term policy solutions. In Cambodia, there are hundreds of CSOs, but a wide variability in management capacity, technical capability, and staffing has given rise to domestic and international organizations that exist to help these CSOs carry out their important social role more effectively.
-
-
-Interviewing the director of a Cambodian CSO for Member Insights.
-
-Domestically, the Cooperation Committee for Cambodia (CCC) functions as a membership association for Cambodian civil society organizations, and provides training, research, and technical assistance to roughly 170 member organizations. From the international community, there is a wide range of donors, foundations, and nongovernmental organizations (NGOs) that support Cambodian CSOs, including USAID’s Development Innovations (DI) project. DI helps local CSOs, technology companies, and social enterprises design and use new technologies to address Cambodia’s development challenges."
-  tags:
-    - digital 
-    - Digital Insights 
-    - Cambodia 
-    - Ecosystem Insights 
-
-- title: "The Viral Success of Horticulturalist Chat Groups: An Uzbek ICT4Ag Case Study"
-  pub: "Digital"
-  date: 2017-06-05
-  link: "https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html?utm_source=daidotcom"
-  summary: "In the typical way things happen at large global firms with highly decentralized project management, I first learned about the exceptional digital work being done by DAI’s U.S. Agency for International Development-funded Agricultural Value Chain Activity in Uzbekistan project (AVC) through an email referenced in a meeting about something totally different. I took a photo of the email—true story, I even sent the shot to my colleagues I was so excited—followed up with the listed contacts, and two weeks later was  having a fascinating conversation with two dynamic Uzbek colleagues, Kamil Yakubov and Sardor Kadirov, who manage AVC’s digital initiatives."
-  tags:
-    - digital 
-    - Agriculture 
-    - Economic Growth 
-
-- title: "Women in Agritech: Profiles from Ghana"
-  pub: "Digital"
-  date: 2017-05-29
-  link: "https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html?utm_source=daidotcom"
-  summary: "This is our latest piece on Kosmos Innovation Center (KIC), a DAI-supported initiative that helps young entrepreneurs build tech startups that address challenges in Ghana’s agricultural industry. Find out more about this project in previous Digital@DAI posts here and here.
-
-The KIC works at the intersection of three fields traditionally dominated by men: agriculture, entrepreneurship, and technology. In response, the KIC is tapping into the potential of young female entrepreneurs. Below we profile some of the women co-founders playing a key role in developing business concepts, designing technology products, and pitching to potential investors."
-  tags:
-    - digital 
-    - Economic Growth 
     - Entrepreneurship 
-    - Sub-Saharan Africa 
-
-- title: "9 Lessons on Digital Design from ICT4D 2017 in Hyderabad"
-  pub: "Digital"
-  date: 2017-05-21
-  link: "https://dai-global-digital.com/9-lessons-ICT4D2017.html?utm_source=daidotcom"
-  summary: "I spent the last week at the 2017 ICT4D conference in Hyderabad, a four-day feast of presentations, discussions, and panels on how international development organizations are using new technologies in their work overseas."
-  tags:
-    - digital 
-    - Digital Principles 
-
-- title: "What Bike to Work Day Tells Us About Open Data"
-  pub: "Digital"
-  date: 2017-05-19
-  link: "https://dai-global-digital.com/what-bike-to-work-day-tell-us-about-open-data.html?utm_source=daidotcom"
-  summary: "More than 17,000 Washington, D.C.-area residents are commuting by bicycle today, as part of the 17th annual Bike to Work Day. The event’s rising popularity parallels the region’s growing investment in bicycle infrastructure and multimodal transportation. This is a positive trend, particularly for those of us who want cities and urban areas to provide safe, convenient, and diverse transportation options for all residents. But is there a larger message for international development? What can Bike to Work Day tell us about the importance of open data for civic engagement?"
-  tags:
-    - digital 
-    - Data 
-
-- title: "How to Run an Electronic Cash Transfer Program: A Kenyan Case Study"
-  pub: "Digital"
-  date: 2017-05-15
-  link: "https://dai-global-digital.com/how-to-run-an-electronic-cash-transfer-program-a-kenyan-case-study.html?utm_source=daidotcom"
-  summary: "Working on an ICT team can sometimes feel like being the Morpheus of the development world—all we want to do is show development project teams that digital tools can unleash immense potential. So we try our best to sneak ICT elements into projects in any way possible: short blurbs in project proposals, ICT strategy documents while on technical assignments in the field, or straight-up bribery. Whatever it takes to sugarcoat the red pill. So imagine our surprise when we were asked to meet with a DAI-led project that already has multiple ICT tools integrated into its workflow: the  Kenya Hunger Safety Net Programme Phase 2 (HSNP2), funded by the U.K. Department for International Development."
-  tags:
-    - digital 
-    - Kenya 
-    - Electronic Cash Transfer 
     - Economic Growth 
 
-- title: "GeekFest 2017: Exploring Mobile Money and Women’s Financial Inclusion with Yasmin Bin-Humam"
+- title: "Playing The Right Role In Haiti’s Growing Mobile Sector: 4 Key Principles"
   pub: "Digital"
-  date: 2017-05-10
-  link: "https://dai-global-digital.com/geekfest-2017-exploring-mobile-money-with-yasmin-bin-humam-financial-sector-specialist-at-cgap.html?utm_source=daidotcom"
-  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
+  date: 2018-03-12
+  link: "https://dai-global-digital.com/playing-the-right-role-in-haitis-growing-mobile-sector-4-key-principles.html?utm_source=daidotcom"
+  summary: "Digital financial services have been a robust part of the development sector for over a decade and their impact continues to grow. This blog post is part of a series produced by mStar that focuses on successful projects that achieve results-driven impact in people’s lives. This post was originally published on the mStar digital development blog.
 
-In this installment, I’m picking the brain of my own sister, Yasmin Bin-Humam, a Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is establishing a community of practice focusing on solutions to improve women’s access to financial services, such as mobile and digital services."
+
+
+It’s an exciting time for mobile money expansion in Haiti. Digicel’s MonCash—Haiti’s largest mobile money deployment—has reached nearly 1 million customers and $400 million in yearly transacted value in 2017. This customer base represents a +1500 percent increase from 2015, the same year Digicel rebooted its strategy, marketing approach, product offering, and sales and training force."
   tags:
     - digital 
-    - Geekfest 2017 
     - Digital Financial Services 
-    - Economic Growth 
 
-- title: "Takeaways From F8: It’s Zuckerberg’s World—We’re Just Living In It"
+- title: "Getting ICT Into the Hands of More Women"
   pub: "Digital"
-  date: 2017-05-03
-  link: "https://dai-global-digital.com/takeaways-from-f8-its-zuckerbergs-world-and-were-just-living-in-it.html?utm_source=daidotcom"
-  summary: "F8, Facebook’s annual conference, was my first trip to Silicon Valley—I’ve been to the Silicon Wadi in Israel and the Silicon Savannah in Kenya, but never had I stepped foot where it all began. It was the perfect sort of baptism by fire into the ethos of the place that brought us semiconductors, personal computing and smartphones: a gathering where the future is dreamed up by developers and defined by technology’s limitless potential. It was wild.
-
-I’ll outline below a few of the innovations that are particularly relevant to the work we do, and then make an argument for why the practice of ICT4D is more important than ever."
+  date: 2018-03-08
+  link: "https://dai-global-digital.com/getting-ICT-Into-the-hands-of-more-women.html?utm_source=daidotcom"
+  summary: "March 8 is International Women’s Day! To celebrate, we’ll look at a course on women and ICT inclusion developed by USAID Digital Inclusion, mSTAR, and Panoply Digital.  Click here to access the course."
   tags:
     - digital 
-    - Innovation 
+    - Digital Inclusion 
 
-- title: "First Contact with the Planet API and NodeJS"
+- title: "ICT for Citizen Engagement and Advocacy: Lessons Learned from Mozambique DIÁLOGO"
   pub: "Digital"
-  date: 2017-04-20
-  link: "https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html?utm_source=daidotcom"
-  summary: "We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is Planet, a small company with lofty service and product offerings for remote sensing. Planet builds and launches small satellites that image the entire world every day. It provides access to that imagery through a web platform, and it gives developers access to its data through a web API."
-  tags:
-    - digital 
-    - Remote Sensing Series 
-    - Data 
-
-- title: "Meet Honduras's Innovation Community"
-  pub: "Digital"
-  date: 2017-04-12
-  link: "https://dai-global-digital.com/honduras-innovation-community.html?utm_source=daidotcom"
-  summary: "Chronogram of the 2016 Honduras Startup accelerator from hondurastartup.com
-
-In December 2016, I spent a month in Honduras helping launch the new USAID Local Governance Activity and, replicating some work I did in El Salvador last year, I decided to get to know the innovation and technology community. Why?
-
-DAI is currently launching four new USAID-funded projects in Honduras: local governance, a justice &amp; human rights project, an environmental governance project, and the new school-based violence prevention project. My goal in writing this piece is the same as it was when I wrote Hey USAID, Want to Promote Innovation?: to get those new projects to think creatively about how to achieve their goals."
-  tags:
-    - digital 
-    - Innovation 
-    - Honduras 
-
-- title: "Digital Insights Rwanda: How Do Rural Youth Use New Technologies?"
-  pub: "Digital"
-  date: 2017-04-04
-  link: "https://dai-global-digital.com/rwanda-digital-insights.html?utm_source=daidotcom"
-  summary: "In early March, I spent a week in Rwanda building a profile of how young people in rural areas use media and technology and interact with rural financial institutions (RFIs). With the help of the Rural Youth Agribusiness Forum (RYAF), we interviewed 116 young people (aged 17 to 34) in a ring of towns and villages outside the capital, Kigali.
-
-
-A Digital Insights interview in a rural area outside Kigali."
-  tags:
-    - digital 
-    - Digital Insights 
-    - Rwanda 
-
-- title: "SXSW 2017: The More Trends Change, the More They Stay the Same"
-  pub: "Digital"
-  date: 2017-03-29
-  link: "https://dai-global-digital.com/sxsw-2017-the-more-trends-change-the-more-they-stay-the-same.html?utm_source=daidotcom"
-  summary: "The annual South by Southwest Interactive Music and Film Festival with all of its thought-provoking panels, workshops, keynote speakers, and booths demonstrating the latest gizmos, gadgets, applications, and trends has come and gone—and for the second year, I was in attendance to make some sense of it all."
-  tags:
-    - digital 
-    - Innovation 
-
-- title: "Jhatkaa: Tech-enabled Citizen Advocacy in India"
-  pub: "Digital"
-  date: 2017-03-15
-  link: "https://dai-global-digital.com/jhatkaa-tech-enabled-citizen-advocacy-in-india.html?utm_source=daidotcom"
-  summary: "Our top post of 2016 was my interview with Avijit Michael, the director of Indian citizen advocacy organization Jhatkaa. In his interview, Avijit mentioned they had created a tool for citizens to report local issues via WhatsApp. Needless to say, we were intrigued. So, in the spirit of investigative journalism, we sent one of our staff members to India to find out more."
+  date: 2018-03-01
+  link: "https://dai-global-digital.com/icts-for-citizen-engagement-and-advocacy-lessons-learned-from-mozambique-dialogo.html?utm_source=daidotcom"
+  summary: "The Mozambique Democratic Governance Programme, DIÁLOGO, funded by the U.K. Department for International Development, worked with citizens, civil society, local media, and municipal government to engage more effectively on local issues. DIÁLOGO supported innovative solutions, including mobile- and web-based technologies, to amplify the voices of citizens and help governments respond to their demands. The programme ran from 2012 in the five urban municipalities of Beira, Maputo, Nampula, Quelimane, and Tete, and ended last December."
   tags:
     - digital 
     - Governance 
-    - Innovation 
+    - ICT 
 
-- title: "Digital Insights Bangladesh: How Urban Youth Stay Connected"
+- title: "DFID’s Digital Strategy: What Does it Mean for DAI?"
   pub: "Digital"
-  date: 2017-03-08
-  link: "https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html?utm_source=daidotcom"
-  summary: "It’s late January in Dhaka, Bangladesh, which means I’ve managed to avoid the usual heat and humidity, but the bustle and throng are just what I’d expect of one of South Asia’s largest cities. Even though I grew up in India, I’ve never had the chance to travel to its sister republic to the east. And yet, all at once, everything seems familiar—the cars, the noise, the smells. My guide through the city is Ontiq Dey, an eager young graduate student of economics and a seasoned data collector. He and four of his classmates are DAI’s street team for our first-ever Digital Insights study in South Asia.
+  date: 2018-02-22
+  link: "https://dai-global-digital.com/dfids-digital-strategy-what-does-it-mean-for-dai.html?utm_source=daidotcom"
+  summary: "Last month, the U.K. Department for International Development (DFID) launched its much-anticipated Digital Strategy 2018-2020: Doing Development in a Digital World, outlining its vision and approach towards using technology to have a bigger, faster, and more cost-effective impact on the lives of poor people—particularly those who are marginalised."
+  tags:
+    - digital 
+    - Digital Principles 
+    - Think Piece 
 
+- title: "Getting Past the Blockchain Hype Cycle"
+  pub: "Digital"
+  date: 2018-02-15
+  link: "https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html?utm_source=daidotcom"
+  summary: "Distributed Ledger Technologies (DLTs), commonly referred to as blockchain applications, are possibly the most talked about innovation of the day. And the most commonly discussed DLT applications are those that involve financial transactions with cryptocurrencies. Fortune Magazine recently listed “The Fintech Renaissance” as the second-most important technology trend of 2018, and with good reason. Last month Bitcoin saw more than 400,000 transactions per day. Despite warnings of Bitcoin’s volatility, the increased investment in cryptocurrencies is hard to ignore.
 
-Digital Insights data collectors gathering information from students in Mymensingh."
+But what about all of the other promises of DLTs? There are no shortage of articles written about their impact on data security, the value of smart contracts to create efficient online transactions, and the value of data democratization and transparency through shared ledgers. While there are case studies for each of these promising areas, distributed application developers are in short supply, and active implementations for global development projects are rare. As a result, I get the sense that blockchain may be entering the peak if its hype cycle."
+  tags:
+    - digital 
+    - Innovation 
+    - Think Piece 
+
+- title: "Why is DAI Investing in a Coding School?"
+  pub: "Digital"
+  date: 2018-02-06
+  link: "https://dai-global-digital.com/why-is-dai-investing-in-a-coding-school.html?utm_source=daidotcom"
+  summary: "DAI and Rockville, Maryland-based United Solutions recently launched a business called Code Partners to provide classroom instruction in software development. Code Partners will rely on the proven curriculum and teaching methods of Seattle-based Code Fellows, starting with beginner-level courses in HTML, CSS, and JavaScript."
+  tags:
+    - digital 
+    - ICT 
+    - Coding 
+
+- title: "“S3” Site Selection System: A Data-Driven Decision-Making Tool for Effective Engagement"
+  pub: "Digital"
+  date: 2018-01-29
+  link: "https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html?utm_source=daidotcom"
+  summary: "Recently while on assignment in Haiti, a project manager for a local agricultural development project asked my team why we weren’t targeting certain rural communities. According to him, those communities are the ones that could really benefit from the type of work we were doing. While we had good reason to work where we were working, the question stuck: How can we be certain that we are targeting the right communities?"
+  tags:
+    - digital 
+    - Site Selection 
+
+- title: "We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways"
+  pub: "Digital"
+  date: 2018-01-24
+  link: "https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html?utm_source=daidotcom"
+  summary: "Here’s the good news: Over the past 10 years the digital health community has begun to heal from a severe case of pilotitis. As a community of innovators and health systems researchers, we increasingly recognize that creating and testing new digital health tools in the absence of investments in the enabling ecosystem is likely to produce limited, short-term, and small-scale impact. Without concerted efforts to fertilize the soil in which the seeds of innovation are planted, those seeds will never mature beyond a sapling. That is, unless we pay attention to the policy and regulatory environment, the telecommunications and electrical infrastructure, and most importantly, the availability of trained and appropriate human resources to facilitate scale-up and sustainability, we cannot expect national-scale digital health projects to thrive."
+  tags:
+    - digital 
+    - Health 
+    - Digital Principles 
+
+- title: "Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes"
+  pub: "Digital"
+  date: 2018-01-17
+  link: "https://dai-global-digital.com/facebook-messenger-chatbot-1.html?utm_source=daidotcom"
+  summary: "Last year I wrote a post called “I Made a Facebook Chatbot (And You Can, Too)” where I laid out the case for chatbots as an outreach and engagement tool in international development. To recap, here’s why:"
+  tags:
+    - digital 
+    - Innovation 
+    - Social Media 
+
+- title: "KIC Expands its Support of Tech-Driven Entrepreneurship to Mauritania"
+  pub: "Digital"
+  date: 2018-01-10
+  link: "https://dai-global-digital.com/kic-expands-its-support-of-tech-driven-entrepreneurship-to-mauritania.html?utm_source=daidotcom"
+  summary: "Regular readers of Digital@DAI will know that we’ve been supporting Kosmos Energy’s Innovation Center (KIC) in Ghana for the last two years. KIC’s work with young tech entrepreneurs in the agricultural sector has garnered awards and plenty of media attention, and Kosmos is now looking to apply what it has learned to a new country: Mauritania."
+  tags:
+    - digital 
+    - Entrepreneurship 
+    - Sub-Saharan Africa 
+
+- title: "Looking Ahead to 2018"
+  pub: "Digital"
+  date: 2018-01-04
+  link: "https://dai-global-digital.com/looking-ahead-to-2018.html?utm_source=daidotcom"
+  summary: "The new year provides a great opportunity to think about priorities for year ahead. Last week we wrote a post highlighting the top posts of 2017. The most-read articles covered a lot of ground—from reflections on specific projects, to advances in our thinking on best practices for human-centered design (HCD), to technology reviews. So, what’s on our minds for the year to come?"
+  tags:
+    - digital 
+    - Innovation 
+    - Think Piece 
+
+- title: "Digital@DAI Year in Review: Top 10 Posts of 2017"
+  pub: "Digital"
+  date: 2017-12-28
+  link: "https://dai-global-digital.com/digital-at-dai-year-in-review-top-ten-posts-of-2017.html?utm_source=daidotcom"
+  summary: "This year Digital@DAI published more than 120 posts, covering everything from our work in human-centered design (HCD) to advances in remote sensing.
+
+We featured digital experts from organizations such as Panoply, BanQu, Omelas, and Bamba, and had almost 40,000 page views. We continue to explore the potential of digital technology across sectors, geographies, clients, and constituents in the blog and in the work that we do.
+
+In our final blog of 2016 we reviewed the top five most read articles of the year. With our audience and total number of blog posts expanding, we’ll look at our top 10 of 2017, which showcase a broad range of topics, content, and writers."
   tags:
     - digital 
     - Digital Insights 
-
-- title: "Ecosystem Insights: How Trade Associations in Rural Afghanistan Use Mobile Tech"
-  pub: "Digital"
-  date: 2017-03-02
-  link: "https://dai-global-digital.com/ecosystem-insights-afghanistan.html?utm_source=daidotcom"
-  summary: "We’re pleased to launch a new research product on the blog today: Ecosystem Insights (EI). EI seeks to understand how key groups of stakeholders use digital tools to connect with each other and share information, pushing beyond the individual personas of our Digital Insights work to gain insights into how groups access and use ICT in both their personal and professional lives. We conducted this research alongside our partner CIPE’s star provincial teams in Herat, Kandahar, Balkh, and Nangarhar. Not surprisingly, even in rural Afghanistan, smartphone and social media penetration rates are much higher than currently published reports account for. These findings continue to prove that DAI’s investment in this research is worthwhile: Designing a sustainable and high-impact ICT intervention will always start with knowing the what, how, and why of users’ ICT habits."
-  tags:
-    - digital 
-    - Ecosystem Insights 
-    - Economic Growth 
-
-- title: "Top 5 Social Media Blogs: How & Why ICT4D Pros Should Think Like Digital Marketers"
-  pub: "Digital"
-  date: 2017-02-22
-  link: "https://dai-global-digital.com/on-digital-marketing-why-ict4d-professionals-should.html?utm_source=daidotcom"
-  summary: "Back in the day, when I was but a young ICT4D practitioner trying to figure out how to get hundreds of thousands of Somalis to open and read text messages about democracy and governance from a tiny startup’s office in Palestine, I developed a weird habit of obsessively reading fast-moving consumer good product mobile marketing blogs. Why? These commercially focused blogs had super insightful guidance on how to structure mobile campaigns and get users to open, read, and act upon messaging content—because at the end of the day, selling good governance isn’t that different from selling individual shampoo packets. Both take targeted, entertaining and value-added content, and timing to have the most impact, and because the advertising firms servicing large multinationals had a lot more money to invest in getting the art of the mobile campaign right, I figured, why not poach their best practices for the social sector? Fast forward seven years, and I’m doing the same thing but for Facebook."
-  tags:
-    - digital 
-    - Think Piece 
+    - Data 
+    - Agriculture 
     - Social Media 
+    - Innovation 
+    - Human-centered design 
+    - GIS 
 
-- title: "I Made a Facebook Chatbot (And You Can, Too)"
+- title: "Lean HCD: How to HCD When You Can’t Travel to the Field"
   pub: "Digital"
-  date: 2017-02-14
-  link: "https://dai-global-digital.com/facebook-chatbot.html?utm_source=daidotcom"
-  summary: "When I first heard that Facebook Messenger was introducing chatbots, I immediately thought back to junior high summers. Back then I was spending a lot of time in my parents’ basement on the computer–safe from harmful things like sunshine and other people–getting into flame wars with people on IRC that (more often than not) turned out to be chatbots. Not my greatest summer. Fast forward some 20 years, and chatbots are back with a vengence, this time with a significantly improved value proposition: (near) last mile access to native language information and services.
-
-
-
-
-  Primer: What is a Facebook chatbot?
-
-
-Our Digital Insights research in Indonesia, Honduras, and Palestine emphasized the popularity of Facebook and FB Messenger in the marginalized communities where DAI and other development implementers work. In Indonesia, 77 percent of the people we interviewed said they use Facebook on their phones; in Palestine that number was 95 percent. In Honduras, 80 percent of our respondents across urban and rural areas said they use Facebook. If development projects want to reach people with information and services, we must meet them on the platforms where they already spend time: in more and more cases, as access to the internet, smartphones, and social media grow, that means on Facebook. (No, not exclusively and not in all instances. read our Indonesia post, and see which social media messaging app is king there.)"
+  date: 2017-12-20
+  link: "https://dai-global-digital.com/lean-hcd.html?utm_source=daidotcom"
+  summary: "Back in late 2015, I landed a unique design gig. The job came via Nexos Locales, a USAID-funded, DAI-run project that works with municipalities around the Western Highlands of Guatemala to improve public financial management and citizen engagement. A newly elected mayor in the municipality of Chiantla wanted to open his finances to the public to close the space for corruption, and I was asked by the project to scope out the activity."
   tags:
     - digital 
-    - Innovation 
-    - Think Piece 
+    - Human-centered design 
+    - Digital Insights 
+
+- title: "Q&A Responses: Looking For a Partner to Fight Fall Armyworm"
+  pub: "Digital"
+  date: 2017-12-18
+  link: "https://dai-global-digital.com/q-and-a-responses-looking-for-a-partner-to-fight-fall-armyworm.html?utm_source=daidotcom"
+  summary: "On December 7, DAI released a request for proposals (RFP) for a prize implementation partner to confront fall armyworm. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa. Thank you to those who asked questions about the RFP. We have reviewed your questions, and provided answers to each below."
+  tags:
+    - digital 
+    - Agriculture 
+
+- title: "GeekFest 2017: Talking Gender-Disaggregated Data with Alex Tyers, Panoply Digital"
+  pub: "Digital"
+  date: 2017-12-14
+  link: "https://dai-global-digital.com/geekfest-2017-talking-gender-disaggregated-data-with-alex-tyers-panoply-digital.html?utm_source=daidotcom"
+  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.
+
+
+This week I chat with Alexandra “Alex” Tyers, Co-Founder and Director at Panoply Digital. Alex is a mobiles for development (M4D) professional, specializing in monitoring and evaluation for innovation, mobile learning in emerging markets, and women’s mobile and ICT access and use. Alex recently spoke at our Frontiers in Digital Inclusion Event in London on the importance of gender-disaggregated data for digital access and inclusion."
+  tags:
+    - digital 
+    - Geekfest 2017 
+    - Data 
+
+- title: "Apply Now: Looking For a Partner to Fight Fall Armyworm"
+  pub: "Digital"
+  date: 2017-12-07
+  link: "https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html?utm_source=daidotcom"
+  summary: "Today, DAI releases a request for proposals for a prize implementation partner to confront fall armyworm head on. This partner will join DAI and the U.S. Agency for International Development (USAID) in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa.
+
+
+A farmer in Ethiopia inspects his fall armyworm-infested maize. (Photo Credit: FAO/Tamiru Legesse)"
+  tags:
+    - digital 
+    - Agriculture 
+
+- title: "GeekFest2017: A Discussion with Cassandra Mickish Gross"
+  pub: "Digital"
+  date: 2017-12-04
+  link: "https://dai-global-digital.com/geekfest2017-a-discussion-with-cassandra-mickish-gross.html?utm_source=daidotcom"
+  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.
+
+
+This week I’m speaking with Cassandra Mickish Gross from the Johns Hopkins Center for Communication Programs to discuss the U.S. Agency for International Development (USAID)-funded Knowledge for Health Project. In this post Cassandra reflects on her experience developing a digital health platform. We explore the choice between an established solution with the potential to scale, versus one that has clear evidence of impact on health outcomes. During the interview, she reflects on the Faster to Zero Initiative, implemented in partnership with HealthEnabled, that aims to support the Ministries of Health of South Africa and Uganda in the scale-up of digital health tools and accelerate the elimination of mother-to-child transmission of HIV."
+  tags:
+    - digital 
+    - Geekfest 2017 
+    - Health 
 
