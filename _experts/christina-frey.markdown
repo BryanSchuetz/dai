@@ -23,5 +23,4 @@ After starting her career in healthcare, as nursing support and a paramedic, Chr
 Christina specializes in innovation for public service delivery and problem-driven approaches to improving policy and accountability. She currently serves as Technical Lead on the Kenya Deepening Democracy Programme and as Technical Director of the Nigeria Accountable, Responsive, and Capable Government Programme, the U.K. Department for International Development’s flagship governance programme. In addition, Christina advises teams and clients in applying Political Economy Analysis and Adaptive Programming to DAI’s portfolio. She speaks English, French, German, Spanish, and Swahili.
 
 * B.A., international relations, United States International University, Kenya
-
 * M.Sc., development management, London School of Economics
