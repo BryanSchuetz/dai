@@ -155,7 +155,6 @@ exclude:
 - node_modules
 - build
 - browser-sync.js
-- gulpfile.js
 unpublished: true
 sass:
   sass_dir: assets/_sass
