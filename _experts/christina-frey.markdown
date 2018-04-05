@@ -16,7 +16,7 @@ regions:
 - Asia and the Pacific
 ---
 
-Christina brings 10 years of experience in sustainable development, anti-corruption work, public sector governance, and political economy analysis. Her work focuses on institutional reform and accountability in sub-Saharan Africa and Asia, including Kenya, Ethiopia, Nigeria, Ghana, and Pakistan.
+Christina Frey brings 10 years of experience in sustainable development, anti-corruption work, public sector governance, and political economy analysis. Her work focuses on institutional reform and accountability in sub-Saharan Africa and Asia, including Kenya, Ethiopia, Nigeria, Ghana, and Pakistan.
 
 After starting her career in healthcare, as nursing support and a paramedic, Christina moved into international development to work in health sector governance programming for GIZ in Kenya. The position enabled her to combine her background in political science with her experience in direct healthcare delivery. In her role in DAI’s governance practice, she provides technical expertise to projects and new business efforts and shares learnings from accountability and institutional strengthening programs with a variety of European donor agencies.
 
