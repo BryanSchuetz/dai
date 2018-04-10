@@ -30,7 +30,7 @@ Enterprise Partners works through two major pillars:
 
 ### Sample Activities
 
-* Garments: Improve labour market systems and cotton production to create a sustainable industry with strong backward linkages. Support Government of Ethiopia’s flagship [Hawassa Industrial Park](https://www.dai.com/news/development-secretary-priti-patel-stresses-economic-growth-in-visit-to-ethiopia-industrial-park), which will create 60,000 jobs in the apparel sector.
+* Garments: [Improve labour market systems](http://dai-global-developments.com/articles/ethiopia-stands-poised-to-lead-an-african-industrial-revolution/) and cotton production to create a sustainable industry with strong backward linkages. Support Government of Ethiopia’s flagship [Hawassa Industrial Park](https://www.dai.com/news/development-secretary-priti-patel-stresses-economic-growth-in-visit-to-ethiopia-industrial-park), which will create 60,000 jobs in the apparel sector.
 * Leather: Increase finishing capacity of tanneries and produce high-value leather products to increase export.
 * Horticulture: Promote production of high-value crops for export and support the processing industry.
 * Financial Inclusion: Promote digital banking so poor people living in rural Ethiopia have increased access to formal financial services such as savings and loans.
