@@ -22,5 +22,6 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 		<div>
 			&nbsp;</div>
 		<div>
-			<input class="button" type="submit" value="Sign Up" /></div>
+			<input class="button" type="submit" value="Submit" /></div>
+			<p style="font-size: .8rem;">By submitting the above information you agree to receiving periodic updates from DAI via Email. You may unsubscribe from this list at any time and your information will be removed from our database. </p>
 	</form>
