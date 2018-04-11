@@ -12,6 +12,10 @@ solutions:
 - Economic Growth
 regions:
 - Sub-Saharan Africa
+articles:
+- name: In Nigeria, Governance Champions Can Transform Resource Wealth into Development
+    Results
+  article_file: http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/
 ---
 
 Originally trained as a barrister in Nigeria, Joe Abah gained extensive experience in the [governance sector](http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/), working on public sector reform programs for the U.K. Prime Minister’s Office. He has spent more than 10 years managing governance programs in Nigeria for the U.K. Department for International Development, including on the DAI-led [State Partnership for Accountability Responsiveness and Capability](https://www.dai.com/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc) project.
