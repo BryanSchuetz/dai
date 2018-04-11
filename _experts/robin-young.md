@@ -13,6 +13,10 @@ solutions:
 regions:
 - Latin America and the Caribbean
 - Sub-Saharan Africa
+articles:
+- name: Using Development Assistance to Catalyze Sound Investments in Emerging and
+    Developing Markets
+  article_file: http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/
 layout: expert
 ---
 
