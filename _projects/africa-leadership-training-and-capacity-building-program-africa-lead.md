@@ -1,27 +1,25 @@
 ---
 title: Africa—Leadership Training and Capacity Building Program (Africa Lead)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: Africa Lead built capacity among Africa's emerging food security leaders
+  to devise and manage their country investment plans.
 start: 2010
 end: 2013
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
 regions:
 - Sub-Saharan Africa
 country:
 - Regional
-solutions:
-- Economic Growth
 layout: project
-summary: The U.S. government's Feed the Future (FTF) initiative calls not simply for
-  host-country partnership but country leadership. Working across public and private
-  institutions, Africa Lead is building capacity among Africa's emerging food security
-  leaders to devise and manage their country investment plans.
 ---
 
-The U.S. government's Feed the Future (FTF) initiative calls not simply for host-country partnership but country leadership. Working across public and private institutions, Africa Lead is building capacity among Africa's emerging food security leaders to devise and manage their country investment plans. We operate across sub-Sahara Africa with hubs in Kenya and Ghana.
+The U.S. government's Feed the Future (FTF) initiative calls not simply for host-country partnership but country leadership. Working across public and private institutions, Africa Lead built capacity among Africa's emerging food security leaders to devise and manage their country investment plans. We operated across sub-Sahara Africa with hubs in Kenya and Ghana.
 
-This work is done within the framework of the New Economic Partnership for African Development's Comprehensive Africa Agriculture Development Program (CAADP), which requires countries to allocate 10 percent of their budgets to agriculture to raise productivity.
+This work was done within the framework of the New Economic Partnership for African Development's Comprehensive Africa Agriculture Development Program (CAADP), which requires countries to allocate 10 percent of their budgets to agriculture to raise productivity.
 
-Africa Lead is measured by its training, institutional strengthening, and leadership development, but another achievement is the changed perception on the part of host-country governments, in which the United States is seen as a true partner that responds to development priorities as directed by those governments and their food security leaders.
+Africa Lead was measured by its training, institutional strengthening, and leadership development, but another achievement is the changed perception on the part of host-country governments, in which the United States is seen as a true partner that responds to development priorities as directed by those governments and their food security leaders.
 
 ![][1]
 
