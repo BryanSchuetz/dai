@@ -29,7 +29,7 @@ hero: true
 <h3>
 	Tell Us About Your Organization</h3>
 <p><strong>Please take a few minutes to introduce us to your organization by filling out the form below:</strong></p>
-<p>If we need the type of services or supplies you provide, one of our business development or procurement specialists may contact you to explore opportunities. If there is no immediate opportunity, we will retain your information until a relevant opportunity arises. Please note that expressing interest in working with DAI does not automatically place your company on a &ldquo;bidder&rsquo;s list,&rdquo; nor does it constitute approval of your firm as a DAI supplier or obligate DAI to solicit requests for quotations.</p>
+<p>If we need the type of services or supplies you provide, one of our business development or procurement specialists may contact you to explore opportunities. If there is no immediate opportunity, we will retain your information until a relevant opportunity arises.</p>
 <form class="formkeep" accept-charset="UTF-8" action="https://formkeep.com/f/1e00a5a9a05a" method="POST">
   <input type="hidden" name="utf8" value="✓">
 <h3>Organizational Details</h3>
@@ -78,20 +78,5 @@ hero: true
 
   <button class="primary-block--button submit" type="submit">Submit</button>
 </form>
-<!-- <div id="wufoo-s1vodmba1438whk" class="wufoo-form">
-	<a href="https://ksdai.wufoo.com/forms/s1vodmba1438whk">Tell Us</a> About Your Organization.</div>
-<script type="text/javascript">var s1vodmba1438whk;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'ksdai',
-'formHash':'s1vodmba1438whk',
-'autoResize':true,
-'height':'1365',
-'async':true,
-'header':'hide',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { s1vodmba1438whk = new WufooForm();s1vodmba1438whk.initialize(options);s1vodmba1438whk.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script> -->
+<br>
+<p style="font-size: .8rem;">By submitting the above form you agree to have your information entered in our database. Please note that expressing interest in working with DAI does not automatically place your company on a “bidder’s list,” nor does it constitute approval of your firm as a DAI supplier or obligate DAI to solicit requests for quotations. If you would like your information to be deleted from our database, contact the <a href="mailto:bryan_schuetz@dai.com">administrator</a> and it will be promptly removed.</p>
