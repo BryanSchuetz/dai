@@ -37,3 +37,13 @@ The Revenue Generation for Governance and Growth (RG3) project supports the Gove
 * Facilitate the meeting of stakeholders from the private sector, civil society, and government to develop a "fiscal pact" that makes the social contract of taxation explicit and tangible.
 * Support the Government of Liberia in development and roll-out of education and awareness campaigns through outreach tools such as billboards, paintings, and radio ads.
 * Support the establishment and operationalization of a toll-free call center to handle taxpayer questions in a customer service-oriented manner and route complaints appropriately.
+
+### Select Results
+
+* Increased taxpayer inquiries to the LRA call center tenfold through aggressive mobile text-messaging outreach.
+* Conducted innovative text-based taxpayer perception survey and cost-of-compliance survey using computer-assisted telephone interviewing.
+* Assisted LRA to establish centralized data processing center that has improved transparency encompassing some 70 percent of revenues and is generating crucial information to inform audit selection and improve revenue forecasting.
+* Assisted establishment of Taxpayer Advocate’s Office, which is standing up for taxpayer’s rights in areas such as customs clearance and verification of tax compliance.
+* Helped LRA allow taxes to be paid through commercial banks and their branches—as much as $7.3 million in taxes was paid using this method though August 2017.
+* Increased tax payment transactions by 48 percent in March–August 2017 compared with the same period in 2016, which is expected to lead to increased revenues for the government.
+* In cooperation with the Ministry of Finance and Development Planning (MFDP), developed revised draft excise tax legislation that should help significantly increase revenue.
