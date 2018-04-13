@@ -28,17 +28,12 @@ These services assist countries and EU delegations to maximise the impact of foo
 ### Sample Activities
 
 * Support EU country delegations with programming, training courses, field visits, and participation in national seminars.
-
 * Convene regional meetings of EU delegations around topics related to social transfers and food security.
-
 * Develop a knowledge platform to promote collaboration and exchange lessons learned.
-
 * Communicate the importance of social transfers to a wider audience and build partnerships with institutions working on related issues.
 
 ### Select Results
 
 * Conducted more than 100 assignments and led missions to more than 30 countries in Africa, Asia, and Latin America.
-
 * Designed social transfer programmes for pregnant women and infants, resilience interventions, and nutrition workshops.
-
 * Advised on the use of cash-transfer safety net programmes as a means to bridge humanitarian interventions and development cooperation.
