@@ -25,6 +25,8 @@ The Advisory Service in Social Transfers phase III programme (ASiST III) provide
 
 These services assist countries and EU delegations to maximise the impact of food security and social transfer programmes and to develop a graduation plan to move from short-term, emergency social transfers to systemic national safety net programmes. For country-specific requests, ASiST provides guidance throughout the project cycle management, including programme design and monitoring and evaluation. ASiST also provides technical assistance on strategic issues, such as building partnerships with other donors and projects and offering feedback on policy documents.
 
+<iframe src="https://player.vimeo.com/video/264604855" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ### Sample Activities
 
 * Support EU country delegations with programming, training courses, field visits, and participation in national seminars.
