@@ -47,4 +47,4 @@ The Revenue Generation for Governance and Growth (RG3) project supports the Gove
 * Helped LRA allow taxes to be paid through commercial banks and their branches—as much as $7.3 million in taxes was paid using this method though August 2017.
 * Increased tax payment transactions by 48 percent in March–August 2017 compared with the same period in 2016, which is expected to lead to increased revenues for the government.
 * In cooperation with the Ministry of Finance and Development Planning (MFDP), developed revised draft excise tax legislation that should help significantly increase revenue.
-* Introduced mobile payments for all taxes and select non-tax fees to reduce cost of compliance for taxpayers and eliminate cash transactions.
+* Introduced mobile payments for all taxes and select non-tax fees to reduce time and cost for taxpayers and eliminate risky cash transactions.
