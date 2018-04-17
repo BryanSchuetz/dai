@@ -29,7 +29,7 @@ In 2014, the Government of Jordan responded to the King's call for a 10-year eco
 
 The Jordan Workforce Development Project directly addresses this objective. WFD works to create a competitive, demand-driven workforce development system that leads to increased private sector employment, especially for women, youth, and those living at or below the poverty line.
 
-
+![Jordan-WFD1-fff881.jpg](/uploads/Jordan-WFD1-fff881.jpg)
 
 ###  Sample Activities
 
