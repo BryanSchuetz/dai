@@ -4,7 +4,7 @@ date: 2017-06-09 13:12:00 Z
 lastname: Bergthold
 summary: Eric joined DAI in 2016 as the Director of Governance for Asia. He oversees
   a portfolio of projects in Cambodia, Indonesia, Kyrgyzstan, and Sri Lanka.
-job-title: Director, Governance, Asia Region
+job-title: Senior Advisor, Governance, Asia Region
 image: "/uploads/Eric%20Bergthold%20Portal.jpg"
 solutions:
 - Governance
