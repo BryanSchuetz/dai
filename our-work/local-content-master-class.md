@@ -72,8 +72,6 @@ Local content has the potential to provide significant contributions to the host
 
 DAI’s [Sustainable Business Group](/our-work/solutions/sustainable-business) tackles the growing challenges facing private sector companies (investors, operators, contractors) and public authorities in meeting local content regulations and supporting the sustainable industrial development of host economies through capital investments.
 
-> “Certainly the prime local content course in the market. Highly recommended.” — *Local Content Manager, International oil field services company*
->
 > "The course has given me great insight... and covered all the important areas of local content: policy, procurement and metrics". — *Project Co-ordinator for Local Content, Ministry of Energy, Ghana*
 
 These challenges include:
@@ -122,7 +120,9 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 * **Official development agencies and development finance institutions**: Personell who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
 
-> "The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights" *-Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board*
+> "The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights" — *Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board*
+>
+> “Certainly the prime local content course in the market. Highly recommended.” — *Local Content Manager, International oil field services company*
 
 <hr>
 
