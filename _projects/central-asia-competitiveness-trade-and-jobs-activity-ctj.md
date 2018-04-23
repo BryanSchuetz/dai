@@ -1,20 +1,21 @@
 ---
 title: Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: A quarter of a century after the disintegration of the Soviet Union, the
+  Central Asian Republics have yet to realize full regional integration or sustained
+  economic growth outside of the oil and gas industries.
 start: 2016
 end: 2021
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Sustainable Livelihoods
+- Value Chain and Market Systems Development
 regions:
 - Eastern Europe and Central Asia
 country:
 - Regional
-solutions:
-- Economic Growth
-- Sustainable Livelihoods
 layout: project
-summary: A quarter of a century after the disintegration of the Soviet Union, the
-  Central Asian Republics have yet to realize full regional integration or sustained
-  economic growth outside of the oil and gas industries.
 ---
 
 A quarter of a century after the disintegration of the Soviet Union, the Central Asian Republics have yet to realize full regional integration or sustained economic growth outside of the oil and gas industries. In addition, state control over business freedoms and rivalries among national governments have led to restrictive trade policies and stifled private sector investment, resulting in a stagnant economy and limited job opportunities. Large segments of the population remain mired in poverty, resulting in migration to find work and vulnerability to recruitment by violent extremist groups.
