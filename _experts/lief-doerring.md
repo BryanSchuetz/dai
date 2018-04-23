@@ -10,6 +10,7 @@ image: https://assetify-dai.com/experts/Doerring_Inner.jpg
 solutions:
 - Environment and Energy
 - Agriculture and Food Security
+- Value Chain and Market Systems Development
 layout: expert
 ---
 
