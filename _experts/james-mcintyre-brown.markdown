@@ -8,6 +8,7 @@ job-title: 'Health Practice Director, DAI Global Health '
 image: "/uploads/macfinal-8edcd2.jpg"
 solutions:
 - Health
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 ---
