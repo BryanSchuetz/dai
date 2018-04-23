@@ -14,6 +14,7 @@ solutions:
 - Economic Growth
 - Institutional and Policy Reform
 - Gender
+- Value Chain and Market Systems Development
 regions:
 - Middle East and North Africa
 country:
