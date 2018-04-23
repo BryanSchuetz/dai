@@ -10,6 +10,7 @@ image: "/uploads/RajaInner.jpg.jpeg"
 solutions:
 - Economic Growth
 - Finance and Investment
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean
