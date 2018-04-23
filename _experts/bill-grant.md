@@ -11,6 +11,7 @@ image: https://assetify-dai.com/experts/innerbill.jpg
 solutions:
 - Market Insight and Development
 - Economic Growth
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 articles:
