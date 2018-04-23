@@ -10,6 +10,7 @@ client: U.K. Department for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 country:
