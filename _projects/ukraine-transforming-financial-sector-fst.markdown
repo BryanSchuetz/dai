@@ -10,6 +10,7 @@ solutions:
 - Economic Growth
 - Finance and Investment
 - Institutional and Policy Reform
+- Value Chain and Market Systems Development
 regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
