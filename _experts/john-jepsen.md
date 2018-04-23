@@ -11,6 +11,7 @@ solutions:
 - Economic Growth
 - Finance and Investment
 - Innovation and Entrepreneurship
+- Value Chain and Market Systems Development
 regions:
 - Latin America and the Caribbean
 layout: expert
