@@ -10,6 +10,7 @@ client: U.K. Department for International Development
 solutions:
 - Decentralization and Local Government Management
 - Economic Growth
+- Value Chain and Market Systems Development
 regions:
 - Asia and the Pacific
 country:
