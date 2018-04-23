@@ -31,7 +31,7 @@ Building a vibrant, broad-based, and export-oriented private sector, encouraging
 
 The Southern Africa Trade and Investment Hub is based in Pretoria, South Africa, and Gaborone, Botswana, with resident advisors in Malawi and Zambia. The program works with eight Southern Africa Development Community member states: Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Swaziland, and Zambia. The Hub is also exploring potential activities in Angola, the Democratic Republic of the Congo, and Zimbabwe.
 
-![container-ships[2].jpg](/uploads/container-ships%5B2%5D.jpg)
+<iframe src="https://player.vimeo.com/video/266114693" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -45,9 +45,6 @@ The Southern Africa Trade and Investment Hub is based in Pretoria, South Africa,
 ### Sample Activities
 
 * Finalized a €30 million loan from the European Investment Bank to the National Bank of Malawi to build commodities warehouses.
-
 * Collaborated with Cargill to develop a market information system in Zambia conveying spot and future grain prices benchmarked against South Africa's Grain Information Service.
-
 * Partnered with the U.S. Produce Marketing Association to establish new buyer networks and identify investment opportunities in fresh produce markets in Swaziland and Zambia.
-
 * Linked more than 200 Southern African textile, apparel, accessory, and specialty food companies from Southern Africa to the United States and international markets via global trading platforms, including Fancy Food (New York), MAGIC (Las Vegas) and Gulf Foods (Dubai).
