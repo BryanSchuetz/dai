@@ -9,6 +9,7 @@ end: 2017
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 country:
