@@ -14,6 +14,7 @@ client:
 - European Commission
 solutions:
 - Economic Growth
+- Value Chain and Market Systems Development
 regions:
 - Middle East and North Africa
 country:
