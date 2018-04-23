@@ -10,6 +10,7 @@ image: https://assetify-dai.com/experts/SilvaLeander_Inner.jpg
 solutions:
 - Economic Growth
 - Finance and Investment
+- Value Chain and Market Systems Development
 regions:
 - Eastern Europe and Central Asia
 layout: expert
