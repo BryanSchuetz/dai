@@ -10,6 +10,7 @@ client: U.K. Department for International Development
 solutions:
 - Economic Growth
 - Gender
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 country:
