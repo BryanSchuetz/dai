@@ -3,6 +3,8 @@ title: DAI-Supported Event in Washington, D.C., to Discuss Applying Technology t
   Unite Haiti’s Disconnected Health Providers
 date: 2018-04-24 15:35:00 Z
 published: false
+tags:
+- health
 ---
 
 Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village, making the country highly vulnerable to health emergencies. On May 3, the Harvard Alumni for Global Development and Embassy of Haiti will host a discussion on how technology is being applied to link and unite health providers and facilities across Haiti. The event in Washington, D.C., will feature [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), [DAI Global Health](https://www.dai.com/our-work/solutions/health)’s Chief Technology Officer, and [Jeff Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey), DAI's technical lead for economics and financing, evidence and learning.
