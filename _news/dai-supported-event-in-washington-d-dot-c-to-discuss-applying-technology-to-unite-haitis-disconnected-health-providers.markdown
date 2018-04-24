@@ -26,7 +26,7 @@ Haiti’s digital and paper-based health reporting platforms vary greatly from c
 
 Jefferson will outline how technology innovation and training can eventually achieve real impact, and how the work being done in Haiti is replicable in other countries. Mecaskey, a graduate of the Harvard Chan School of Public Health, will highlight early evidence from Haiti’s health ministry in its use of SISNU, including the integration of health information across the range of digital and paper-based reporting platforms currently in place. They will also discuss Haiti’s emerging and largely self-sufficient tech sector and the June 21–23 [Haiti Tech Summit](http://haititechsummit.com/).
 
-The knowledge-sharing event will be held from 7–8:30 p.m. May 3 at the Embassy of Haiti. There is limited seating on a first-come registration basis. For more information or to register, [click here](https://docs.google.com/forms/d/e/1FAIpQLSee7AObxy2KrjqPk-PL-XIIeyu8zljV2K4tYNbzA_HLOj62Bw/viewform). Registration closes April 27. For questions, email [harvardalumniglobaldevelopment@gmail.com](mailto:harvardalumniglobaldevelopment@gmail.com). 
+The knowledge-sharing event will be held from 7–8:30 p.m. May 3 at the Embassy of Haiti. There is limited seating on a first-come registration basis. For more information or to register, [click here](https://docs.google.com/forms/d/e/1FAIpQLSee7AObxy2KrjqPk-PL-XIIeyu8zljV2K4tYNbzA_HLOj62Bw/viewform). **Registration closes April 27.** For questions, email [harvardalumniglobaldevelopment@gmail.com](mailto:harvardalumniglobaldevelopment@gmail.com). 
 
 ABOUT THE PANELISTS
 
