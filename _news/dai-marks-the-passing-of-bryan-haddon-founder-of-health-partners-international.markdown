@@ -7,7 +7,7 @@ summary: 'DAI is today mourning the passing of Bryan Haddon, the founder and for
   DAI Global Health team last year. He died on April 25 of mesothelioma. '
 ---
 
-DAI is today mourning the passing of Bryan Haddon, the founder and former Managing Partner of Health Partners International (HPI), which became part of the DAI Global Health team [last year](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment). He died on April 25 of mesothelioma. 
+![Bryan Haddon](/uploads/Bryan-Head%2006-05.jpg){:.float-left}DAI is today mourning the passing of Bryan Haddon, the founder and former Managing Partner of Health Partners International (HPI), which became part of the DAI Global Health team [last year](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment). He died on April 25 of mesothelioma. 
 
 Bryan Haddon leaves an immense legacy in the arena of public and global health, principally in the fields of health management and systems development, institutional strengthening, health sector governance, and hospital management and reform—with a focus on Sub-Saharan Africa. 
 
