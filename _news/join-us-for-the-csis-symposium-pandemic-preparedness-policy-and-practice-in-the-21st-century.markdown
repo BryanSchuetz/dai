@@ -11,7 +11,7 @@ summary: 'Please join the CSIS Global Health Policy Center, in collaboration wit
 social-image: "/uploads/CSIS%20event%20photo.jpg"
 ---
 
-Please join the CSIS Global Health Policy Center, in collaboration with DAI Global Health, Mérieux Foundation USA, and the USAID-funded Preparedness & Response project for a symposium addressing how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918.
+Please join the CSIS Global Health Policy Center, in collaboration with DAI Global Health, [Mérieux Foundation USA](https://www.fondation-merieux.org/en/), and the USAID-funded [Preparedness & Response](http://preparednessandresponse.org/) project for a symposium addressing how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918.
 
 ![CSIS event photo.jpg](/uploads/CSIS%20event%20photo.jpg)
 `Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015.`
@@ -27,12 +27,14 @@ This year marks the 100th anniversary of the most lethal pandemic in recent hist
 **Beth Cameron**, Vice President for Global Biological Policy and Programs at the Nuclear Threat Initiative, will moderate a panel focused on priorities and challenges in implementation. Featured panelists include:
 
 * **David Heymann**, Head and Senior Fellow, Centre on Global Health Security, Chatham House
+
 * **Andrew Kitua**, Regional Director, Africa, USAID-funded Preparedness & Response project
+
 * **Amadou Sall**, Professor and Director, Institut Pasteur, Dakar, Senegal
 
 **Sabrina Sholts**, Curator of *Outbreak: Epidemics in a Connected World* at the Smithsonian National Museum of Natural History, will close with a preview of the exhibit.
 
-A co-sponsor of the event, DAI Global Health builds on two decades of frontline experience tackling diseases such as avian influenza, SARS, MERS-Coronavirus, ZIKA, and Ebola. DAI is currently implementing the U.S. Government’s flagship [Preparedness & Response](http://preparednessandresponse.org/) program in partnership with [Fondation Merieux](https://www.fondation-merieux.org/en/), a distinguished independent foundation committed to fighting infectious diseases in developing countries.
+A co-sponsor of the event, DAI Global Health builds on two decades of frontline experience tackling diseases such as avian influenza, SARS, MERS-Coronavirus, ZIKA, and Ebola. DAI is currently implementing the U.S. Government’s flagship Preparedness & Response program in partnership with Fondation Merieux, a distinguished independent foundation committed to fighting infectious diseases in developing countries.
 
 Please join us for what promises to be an insightful and informative event.
 
