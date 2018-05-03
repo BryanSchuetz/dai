@@ -11,7 +11,7 @@ This privacy policy informs you of the types of information DAI may gather about
 
 ###  Personal Information
 
-DAI collects anonymized data about visitors to dai.com. Our primary goal in collecting this information is to provide the user with the most useful content and services. No personally identifiable information is collected.
+DAI collects anonymized data about visitors to dai.com. Our primary goal in collecting this information is to provide the user with the most useful content and services. No personally identifiable information is collected or maintained.
 
 If you apply for a job at DAI, you may be asked to provide details about yourself which typically includes your contact information and resume (CV). This information is only used for employment consideration.
 
