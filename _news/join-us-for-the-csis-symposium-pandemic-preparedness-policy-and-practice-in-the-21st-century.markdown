@@ -3,13 +3,17 @@ title: 'Join Us for the CSIS Symposium Pandemic Preparedness: Policy and Practic
   in the 21st Century'
 date: 2018-05-03 17:26:00 Z
 published: false
+summary: 'Please join the CSIS Global Health Policy Center, in collaboration with
+  DAI Global Health, Mérieux Foundation USA, and the USAID-funded Preparedness & Response
+  project, for a May 17 symposium addressing how U.S. and international policies aim
+  to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918. '
 social-image: "/uploads/CSIS%20event%20photo.jpg"
 ---
 
 Please join the CSIS Global Health Policy Center, in collaboration with DAI Global Health, Mérieux Foundation USA, and the USAID-funded Preparedness & Response project for a symposium addressing how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918.
 
 ![CSIS event photo.jpg](/uploads/CSIS%20event%20photo.jpg)
-``Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015.`
+`Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015.`
 
 The May 17 event will explore how current policies translate into practice in high-risk countries through collaboration between human and animal health professionals and institutions. Speakers include policymakers and implementers who will identify priorities and challenges facing the future of pandemic preparedness. An hour-long reception will follow.
 
