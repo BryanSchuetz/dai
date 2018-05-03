@@ -39,14 +39,12 @@ Please join us for what promises to be an insightful and informative event.
 
 *When:*
 
-Thursday, May 17, 2018
-
-Symposium: 3:00pm to 5:00pm
-
-Reception: 5:00pm to 6:00pm
+<aside>
+<p>Thursday, May 17, 2018<br>
+Symposium: 3:00pm to 5:00pm<br>
+Reception: 5:00pm to 6:00pm<br></p>
 
 *Where:*
 
-Center for Strategic & International Studies
-
-1616 Rhode Island Ave NW, Washington, D.C. 20036
+<aside><p>Center for Strategic & International Studies<br>
+1616 Rhode Island Ave NW, Washington, D.C. 20036<br></aside>
