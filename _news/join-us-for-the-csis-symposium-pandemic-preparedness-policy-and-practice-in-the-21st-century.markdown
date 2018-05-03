@@ -33,7 +33,7 @@ This year marks the 100th anniversary of the most lethal pandemic in recent hist
 
 **Sabrina Sholts**, Curator of *Outbreak: Epidemics in a Connected World* at the Smithsonian National Museum of Natural History, will close with a preview of the exhibit.
 
-A co-sponsor of the event DAI Global Health builds on two decades of frontline experience tackling diseases such as avian influenza, SARS, MERS-Coronavirus, ZIKA, and Ebola. DAI is currently implementing the U.S. Government’s flagship [Preparedness & Response](http://preparednessandresponse.org/) program in partnership with [Fondation Merieux](https://www.fondation-merieux.org/en/), a distinguished independent foundation committed to fighting infectious diseases in developing countries.
+A co-sponsor of the event, DAI Global Health builds on two decades of frontline experience tackling diseases such as avian influenza, SARS, MERS-Coronavirus, ZIKA, and Ebola. DAI is currently implementing the U.S. Government’s flagship [Preparedness & Response](http://preparednessandresponse.org/) program in partnership with [Fondation Merieux](https://www.fondation-merieux.org/en/), a distinguished independent foundation committed to fighting infectious diseases in developing countries.
 
 Please join us for what promises to be an insightful and informative event.
 
