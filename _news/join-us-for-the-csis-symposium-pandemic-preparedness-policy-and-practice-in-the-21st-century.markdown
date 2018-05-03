@@ -9,14 +9,15 @@ social-image: "/uploads/CSIS%20event%20photo.jpg"
 Please join the CSIS Global Health Policy Center, in collaboration with DAI Global Health, Mérieux Foundation USA, and the USAID-funded Preparedness & Response project for a symposium addressing how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918.
 
 ![CSIS event photo.jpg](/uploads/CSIS%20event%20photo.jpg)
+``Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015.`
 
 The May 17 event will explore how current policies translate into practice in high-risk countries through collaboration between human and animal health professionals and institutions. Speakers include policymakers and implementers who will identify priorities and challenges facing the future of pandemic preparedness. An hour-long reception will follow.
 
 To attend the event, register [here](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century). The event will also be webcast live from the registration page.
 
-This year marks the 100th anniversary of the most lethal pandemic in recent history, the “Great Influenza,” which killed at least 50 million people worldwide, including 670,000 in the United States. Recognizing this centenary is a major Smithsonian Institute exhibit titled *Outbreak: Epidemics in a Connected World, *opening May 18.
+This year marks the 100th anniversary of the most lethal pandemic in recent history, the “Great Influenza,” which killed at least 50 million people worldwide, including 670,000 in the United States. Recognizing this centenary is a major Smithsonian Institute exhibit titled \*Outbreak: Epidemics in a Connected World, \*opening May 18.
 
-**J. Stephen Morrison**,** **Senior Vice President and Director of the CSIS Global Health Policy Center, will provide opening remarks, and **Luciana Borio**,** **Director of Medical & Biodefense Preparedness Policy at the National Security Council will deliver the keynote address, focusing on the future of U.S. policy related to pandemic preparedness.
+**J. Stephen Morrison**,  Senior Vice President and Director of the CSIS Global Health Policy Center, will provide opening remarks, and **Luciana Borio**, Director of Medical & Biodefense Preparedness Policy at the National Security Council will deliver the keynote address, focusing on the future of U.S. policy related to pandemic preparedness.
 
 **Beth Cameron**, Vice President for Global Biological Policy and Programs at the Nuclear Threat Initiative, will moderate a panel focused on priorities and challenges in implementation. Featured panelists include:
 
@@ -24,7 +25,7 @@ This year marks the 100th anniversary of the most lethal pandemic in recent hist
 
 * **Andrew Kitua**, Regional Director, Africa, USAID-funded Preparedness & Response project
 
-* **Amadou Sall**,** **Professor and Director, Institut Pasteur, Dakar, Senegal
+* **Amadou Sall**, Professor and Director, Institut Pasteur, Dakar, Senegal
 
 **Sabrina Sholts**, Curator of *Outbreak: Epidemics in a Connected World* at the Smithsonian National Museum of Natural History, will close with a preview of the Smithsonian exhibit.
 
