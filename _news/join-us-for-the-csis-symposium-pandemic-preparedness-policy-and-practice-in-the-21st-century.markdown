@@ -36,16 +36,16 @@ A co-sponsor of the event, DAI Global Health builds on two decades of frontline 
 
 Please join us for what promises to be an insightful and informative event.
 
-When:
+*When:*
 
-Thursday, May 17, 2018
+<aside>
+<p>Thursday, May 17, 2018<br>
+Symposium: 3:00pm to 5:00pm<br>
+Reception: 5:00pm to 6:00pm<br></p>
+</aside>
 
-Symposium: 3:00pm to 5:00pm
+*Where:*
 
-Reception: 5:00pm to 6:00pm
-
-Where:
-
-Center for Strategic & International Studies
-
-1616 Rhode Island Ave NW, Washington, D.C. 20036
+<aside><p>Center for Strategic & International Studies<br>
+1616 Rhode Island Ave NW, Washington, D.C. 20036<br></p>
+</aside>
