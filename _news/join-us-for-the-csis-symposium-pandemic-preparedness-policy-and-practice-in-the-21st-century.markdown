@@ -25,9 +25,7 @@ This year marks the 100th anniversary of the most lethal pandemic in recent hist
 **Beth Cameron**, Vice President for Global Biological Policy and Programs at the Nuclear Threat Initiative, will moderate a panel focused on priorities and challenges in implementation. Featured panelists include:
 
 * **David Heymann**, Head and Senior Fellow, Centre on Global Health Security, Chatham House
-
 * **Andrew Kitua**, Regional Director, Africa, USAID-funded Preparedness & Response project
-
 * **Amadou Sall**, Professor and Director, Institut Pasteur, Dakar, Senegal
 
 **Sabrina Sholts**, Curator of *Outbreak: Epidemics in a Connected World* at the Smithsonian National Museum of Natural History, will close with a preview of the exhibit.
