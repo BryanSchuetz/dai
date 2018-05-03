@@ -19,11 +19,15 @@ None of the personal information collected is shared with any third parties; it 
 
 ###  Cookies
 
-DAI uses [HTTP cookies][2] to gather information about visitors to our site. This information is collected in aggregate form. Gathering this data enables us to improve the online experience for our users. We do not maintain or use personal information from these cookies, nor do we share this information with third parties.
+DAI uses [HTTP cookies][2] to improve the performance of our site. All retained data is anonymized—no personally identifiable information is collected, stored, or placed in cookies that can be accessed by third parties.
 
 ###  Newsletters
 
-At dai.com, you can [register][3] to receive DAI news via email. We will use your contact information to fulfill your request. All of our email newsletters provide access to subscription management features, and users can easily remove themselves from unwanted distribution lists. DAI's subscriber information is not shared with third parties.
+At dai.com, you can [register][3] to receive DAI news via email. We will use your contact information to fulfill your request. All of our email newsletters provide access to subscription management features, and users can easily remove themselves from unwanted distribution lists. DAI's subscriber information is not shared with third parties. You many unsubscribe at any time—and your data will be removed from our system.
+
+### Images
+
+If your likeness is reproduced in any of the images hosted on this website and you would like these images to be deleted, please contact the [administrator](mailto:bryan_schuetz@dai.com) and the images will be promptly removed.
 
 ###  Security
 
