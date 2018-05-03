@@ -1,9 +1,8 @@
 ---
-title: Rwanda—Human and Institutional Capacity Development Project (HICD)
+title: Rwanda—Human and Institutional Capacity Development Project (HICD/R)
 date: 2016-01-21 22:40:00 Z
-summary: DAI worked to strengthen institutional and human capacity in targeted Government
-  of Rwanda institutions, as well as in civil society organizations that work closely
-  with or support the objectives of USAID/Rwanda.
+summary: DAI worked to strengthen institutional and human capacity in targeted government
+  institutions and civil society organizations in Rwanda.
 start: 2012
 end: 2017
 client: U.S. Agency for International Development
@@ -17,23 +16,22 @@ country:
 layout: project
 ---
 
-Rwanda presents a compelling opportunity for Human and Institutional Capacity Development (HICD) implementation. As a regional leader in promoting aid effectiveness, Rwanda has received accolades for its clear and time-bound plans that define its development priorities. The Government of Rwanda (GOR) rightly recognizes that the country's capacity to implement these plans is pivotal to its ability to drive its own agenda.
+Rwanda has made considerable strides in recent years towards achieving middle-income status and becoming a knowledge-based economy. To bridge the gaps needed to achieve its ambitious development plans, the government of Rwanda prioritized capacity development and established a new institution responsible for managing public and private sector capacity building.
 
-To this end, DAI worked to strengthen institutional and human capacity in targeted GOR institutions, as well as in civil society organizations that work closely with or support the objectives of USAID/Rwanda. Our Performance for Development approach linked HICD outcomes directly to development impacts by: 1) advancing Rwandan Government development priorities, including stability, gender equity, and productive high-value and market-oriented agriculture; 2) supporting USAID/Rwanda development outcomes in technical sectors such as governance, food security, economic growth, health, and education; and 3) creating a demand for future HICD initiatives by linking HICD directly to results that matter to citizens.
-
-Over the life of the five-year project, HICD/R conducted more than 170 training sessions, and supported the foundation of a community of practice devoted to professionals interested in the field of performance improvement. HICD/R aided 11 civil society organizations working in the fields of agriculture, health, education, and reconciliation, and four Government of Rwanda institutions: the Ministry of Agriculture and Animal Resources, the Capacity Development and Employment Services Board, the Rwanda Management Institute, and the National Women’s Council.
+The Human and Institutional Capacity Development Project Rwanda (HICD/R), funded by the U.S. Agency for International Development (USAID), supported this initiative by strengthening institutional and human capacity in targeted government agencies and civil society organizations. HICD/R collaborated with partners to make public services more responsive to citizens’ needs and to improve the ability of civil society organizations to contribute to the country’s development agenda. By applying USAID’s human and institutional capacity development (HICD) methodology, the project assisted its partners to advance national priorities that included stability, gender equity, and market-oriented agriculture.
 
 Watch the video to learn more about the impact of HICD/R:
 
 <iframe src="https://player.vimeo.com/video/222202347" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-###  Sample Activities
+### Sample Activities
+* Supported government ministries to improve their financial management and procurement functions.
+* Assisted civil society organizations in improving their corporate governance.
+* Developed performance monitoring systems to measure impact of institutional development support on service delivery.
 
-* Support government ministries to improve their financial management and procurement functions.
-* Assist civil society organizations in improving their corporate governance.
-* Develop performance monitoring systems to measure impact of institutional development support on service delivery.
-
-###  Select Results
-
-* Assessed Rwandan Ministry of Agriculture and civil society organizations involved in agriculture; implemented for them a Performance Solutions Package.
-* Received and reviewed applications from consultants and consulting firms, which will form a community of practice dedicated to fostering effective social, economic, and environmental development.
+### Select Results
+* Mentored 1,747 Rwandan citizens on performance improvement and supported establishment a community of practice for professionals interested in the field of performance improvement.
+* Supported four government agencies to institutionalize performance improving systems for employees.
+* Provided HICD training to 11 civil society organizations working in the fields of agriculture, health, education, and reconciliation.
+* Partner institutions experienced 60 percent increase in the number of beneficiaries assisted after receiving training and mentorship.
+* A total of 589 performance improvement recommendations proposed by project team were implemented by government institutions and civil society organizations.
