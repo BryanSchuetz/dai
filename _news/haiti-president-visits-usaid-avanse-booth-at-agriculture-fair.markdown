@@ -1,6 +1,6 @@
 ---
 title: Haiti President Visits USAID AVANSE Booth at Agriculture Fair
-date: 2018-05-01 11:12:00 Z
+date: 2018-05-03 11:12:00 Z
 published: false
 solutions:
 - Agriculture and Food Security
@@ -14,7 +14,7 @@ summary: In honor of Agriculture and Labor Day, the President of the Republic of
 social-image: "/uploads/1%20President%20visits%20Cocoa%20Stand-9b2aff.jpg"
 ---
 
-In honor of Agriculture and Labor Day, the President of the Republic of Haiti, Jovenel Moïse, recently visited the [Appui a la Valorisation du potentiel Agricole du Nord, pour la Securite Economique et Environnementale (AVANSE)](https://www.dai.com/our-work/projects/haiti-appui-la-valorisation-du-potentiel-agricole-du-nord-la-securite-economique) exhibition at the Agricultural Fair held in northeast Haiti. He was accompanied by First Lady Martine Moïse, the President of the Superior Council of the Judiciary, Jules Cantave, the Minister of Agriculture, Natural Resources and Rural Development, Joubert C. Angrand, and other government officials. 
+In honor of Agriculture and Labor Day, the President of the Republic of Haiti, Jovenel Moïse, recently visited the [Appui a la Valorisation du potentiel Agricole du Nord, pour la Securite Economique et Environnementale (AVANSE)](https://www.dai.com/our-work/projects/haiti-appui-la-valorisation-du-potentiel-agricole-du-nord-la-securite-economique) exhibition at the Agricultural Fair held in northeast Haiti. He was accompanied by First Lady Martine Moïse, the President of the Superior Council of the Judiciary, Jules Cantave, the Minister of Agriculture, Natural Resources and Rural Development, Joubert C. Angrand, and other government officials.
 
 ![1 President visits Cocoa Stand.jpg](/uploads/1%20President%20visits%20Cocoa%20Stand.jpg)
 
@@ -27,3 +27,5 @@ While at the infrastructure stand, Moïse took a copy of the topographic studies
 Moïse visited the fair after officially commencing work at the hydroelectric dam on the Marion River, Terrier Rouge in the northeast.
 
 The May Fair was held under the theme "Manage our waters to increase national production," brought together various projects and partner institutions of the Ministry of Agriculture, including the United Nations Food Organization and Agriculture and the Strengthening Public Agricultural Services Project.
+
+AVANSE works with both farmers and the private sector to address key constraints within production and value chains, from improving watershed stability and irrigation infrastructure, to increasing direct access to produce buyers.
