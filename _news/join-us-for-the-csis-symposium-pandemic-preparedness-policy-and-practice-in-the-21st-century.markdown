@@ -8,9 +8,13 @@ summary: 'Please join the CSIS Global Health Policy Center, in collaboration wit
   project, for a May 17 symposium addressing how U.S. and international policies aim
   to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918. '
 social-image: "/uploads/CSIS%20event%20photo.jpg"
+solutions:
+- Health
 ---
 
 Please join the CSIS Global Health Policy Center, in collaboration with DAI Global Health, Mérieux Foundation USA, and the USAID-funded Preparedness & Response project for a symposium addressing how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918.
+
+<!--more-->
 
 ![CSIS event photo.jpg](/uploads/CSIS%20event%20photo.jpg)
 `Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015.`
@@ -43,8 +47,10 @@ Please join us for what promises to be an insightful and informative event.
 <p>Thursday, May 17, 2018<br>
 Symposium: 3:00pm to 5:00pm<br>
 Reception: 5:00pm to 6:00pm<br></p>
+</aside>
 
 *Where:*
 
 <aside><p>Center for Strategic & International Studies<br>
-1616 Rhode Island Ave NW, Washington, D.C. 20036<br></aside>
+1616 Rhode Island Ave NW, Washington, D.C. 20036<br></p>
+</aside>
