@@ -11,11 +11,11 @@ This privacy policy informs you of the types of information DAI may gather about
 
 ###  Personal Information
 
-DAI collects abstracted data about visitors to dai.com. Our primary goal in collecting personal information is to provide the user with the most useful content and services. The type of information collected can include information about other sites you visited, as well as information about the duration of your visit.
+DAI collects anonymized data about visitors to dai.com. Our primary goal in collecting this information is to provide the user with the most useful content and services. No personally identifiable information is collected.
 
 If you apply for a job at DAI, you may be asked to provide details about yourself which typically includes your contact information and resume (CV). This information is only used for employment consideration.
 
-None of the personal information collected is shared with any third parties; it is used solely for internal purposes to improve the user experience on dai.com.
+None of the personal information collected is shared with any third parties.
 
 ###  Cookies
 
@@ -31,7 +31,7 @@ If your likeness is reproduced in any of the images hosted on this website and y
 
 ###  Security
 
-We follow procedures to protect the confidentiality, security, and integrity of personal information collected on dai.com. We will only disclose personal information if required to do so by law.
+We follow procedures to protect the confidentiality, security, and integrity of personal information. We will only disclose personal information if required to do so by law.
 
 [2]: http://en.wikipedia.org/wiki/HTTP_cookie
 [3]: /sign-up
