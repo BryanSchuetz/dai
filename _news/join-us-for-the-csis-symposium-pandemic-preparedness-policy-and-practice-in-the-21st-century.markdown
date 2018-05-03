@@ -2,7 +2,6 @@
 title: 'Join Us for the CSIS Symposium Pandemic Preparedness: Policy and Practice
   in the 21st Century'
 date: 2018-05-03 17:26:00 Z
-published: false
 summary: 'Please join the CSIS Global Health Policy Center, in collaboration with
   DAI Global Health, Mérieux Foundation USA, and the USAID-funded Preparedness & Response
   project, for a May 17 symposium addressing how U.S. and international policies aim
