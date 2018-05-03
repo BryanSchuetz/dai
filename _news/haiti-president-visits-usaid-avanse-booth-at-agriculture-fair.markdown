@@ -1,7 +1,6 @@
 ---
 title: Haiti President Visits USAID AVANSE Booth at Agriculture Fair
 date: 2018-05-03 14:54:00 Z
-published: false
 solutions:
 - Agriculture and Food Security
 regions: Latin America and the Caribbean
