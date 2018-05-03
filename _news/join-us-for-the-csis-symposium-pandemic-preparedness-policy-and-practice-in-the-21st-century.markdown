@@ -8,13 +8,9 @@ summary: 'Please join the CSIS Global Health Policy Center, in collaboration wit
   project, for a May 17 symposium addressing how U.S. and international policies aim
   to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918. '
 social-image: "/uploads/CSIS%20event%20photo.jpg"
-solutions:
-- Health
 ---
 
 Please join the CSIS Global Health Policy Center, in collaboration with DAI Global Health, Mérieux Foundation USA, and the USAID-funded Preparedness & Response project for a symposium addressing how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the Influenza pandemic of 1918.
-
-<!--more-->
 
 ![CSIS event photo.jpg](/uploads/CSIS%20event%20photo.jpg)
 `Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015.`
@@ -23,7 +19,7 @@ The May 17 event will explore how current policies translate into practice in hi
 
 To attend the event, register [here](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century). The event will also be webcast live from the registration page.
 
-This year marks the 100th anniversary of the most lethal pandemic in recent history, the “Great Influenza,” which killed at least 50 million people worldwide, including 670,000 in the United States. Recognizing this centenary is a major Smithsonian Institute exhibit titled \*Outbreak: Epidemics in a Connected World, \*opening May 18.
+This year marks the 100th anniversary of the most lethal pandemic in recent history, the “Great Influenza,” which killed at least 50 million people worldwide, including 670,000 in the United States. Recognizing this centenary is a major Smithsonian Institute exhibit titled *Outbreak: Epidemics in a Connected World*, opening May 18.
 
 **J. Stephen Morrison**,  Senior Vice President and Director of the CSIS Global Health Policy Center, will provide opening remarks, and **Luciana Borio**, Director of Medical & Biodefense Preparedness Policy at the National Security Council will deliver the keynote address, focusing on the future of U.S. policy related to pandemic preparedness.
 
@@ -41,16 +37,16 @@ A co-sponsor of the event DAI Global Health builds on two decades of frontline e
 
 Please join us for what promises to be an insightful and informative event.
 
-*When:*
+When:
 
-<aside>
-<p>Thursday, May 17, 2018<br>
-Symposium: 3:00pm to 5:00pm<br>
-Reception: 5:00pm to 6:00pm<br></p>
-</aside>
+Thursday, May 17, 2018
 
-*Where:*
+Symposium: 3:00pm to 5:00pm
 
-<aside><p>Center for Strategic & International Studies<br>
-1616 Rhode Island Ave NW, Washington, D.C. 20036<br></p>
-</aside>
+Reception: 5:00pm to 6:00pm
+
+Where:
+
+Center for Strategic & International Studies
+
+1616 Rhode Island Ave NW, Washington, D.C. 20036
