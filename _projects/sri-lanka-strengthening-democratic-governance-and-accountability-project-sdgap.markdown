@@ -24,6 +24,20 @@ promos:
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.pdf
 - title: 2017 Annual Program Statement (Word File)
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.docx
+- title: RFP BPA 0001 Event Space Amentities Final
+  link: "/uploads/RFP%20BPA%200001%20Event%20Space%20Amentities%20Final.pdf"
+- title: RFP BPA 0002 Event Rapporteur Services
+  link: "/uploads/RFP%20BPA%200002%20Event%20Rapporteur%20Services.pdf"
+- title: RFP BPA 0003 Photographer Services
+  link: "/uploads/RFP%20BPA%200003%20Photographer%20Services.pdf"
+- title: RFP BPA 0004 Accommodations/Hotels
+  link: "/uploads/RFP%20BPA%200004%20Accomodations.Hotels.pdf"
+- title: RFP BPA 0005 Event Multi-media and Simultaneous Translator Services
+  link: "/uploads/RFP%20BPA%200005%20Event%20Multi-media%20and%20Simultaneous%20Translator%20Services.pdf"
+- title: RFP BPA 0006 Transportation Services
+  link: "/uploads/RFP%20BPA%200006%20Transportation%20Services.pdf"
+- title: RFP BPA 0007 Travel Agency
+  link: "/uploads/RFP%20BPA%200007%20Travel%20Agency.pdf"
 ---
 
 Sri Lanka's new government has taken bold steps toward political and social change, including reinforcing the central role of parliament, and has introduced and bolstered independent oversight commissions. With a Constitutional Assembly forming to debate a new constitution for further democratic consolidation, the opportunity exists for a renewed partnership between the United States and Sri Lanka. Within this setting, the U.S. Agency for International Development (USAID) has launched the Strengthening Democratic Governance and Accountability Project (SDGAP), a three-year program to strengthen public accountability systems; improve planning, communication, policy reform, and implementation; and increase the participation of women and under-represented groups in Sri Lanka. 
