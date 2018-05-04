@@ -1,5 +1,5 @@
 ---
-title: 'Join Us for the CSIS Symposium Pandemic Preparedness: Policy and Practice
+title: 'Join Us for the CSIS Symposium on Pandemic Preparedness: Policy and Practice
   in the 21st Century'
 date: 2018-05-03 17:26:00 Z
 solutions:
