@@ -29,23 +29,15 @@ Land administration in Mozambique has been seriously under-resourced, and needed
 ### Sample Activities
 
 * Support legal and land policy reform, including development of new regulations.
-
 * Assess and improve the cadastre in rural, urban and peri-urban settings, including capacity building that allow the systematic regularisation of land tenure in selected areas and improved, more flexible methods for delimitation and demarcation.
-
 * Carry out systematic registration and Land Tenure Regularization in both urban and rural areas.
-
 * Assess the best way to manage and facilitate the transfer of rights between third parties, and the registration of transfers in cadastral records.
-
 * Develop baseline information, including land resources, land use inventory, planning methodologies, and current spatial distribution of tenure and land occupation.
-
 * Develop land use plans as an outcome of improved delimitation and demarcation of existing rights; the identification of areas available for investment; and the effective registration and recording of a wide range of land and related information.
 
 ### Select Results
 
 * Registered 198,764 parcels and issued 157,167 full land titles (DUATs), between March 2011 and August 2013 in the four northern provinces of Mozambique.
-
 * Secured land rights for women—35 percent of all titles were issued to women as single title-holders and another 12 percent were co-titled.
-
 * Produced 20 land use and cover maps, covering eight municipalities (focused on land use) and 12 districts (focused on land cover).
-
 * Designed, produced, and implemented a new national information system to record land ownership and transactions, called LIMS (Land Information Management System) in English or SIGIT (Sistema de Gestão de Informação sobre a Terra) in Portuguese.
