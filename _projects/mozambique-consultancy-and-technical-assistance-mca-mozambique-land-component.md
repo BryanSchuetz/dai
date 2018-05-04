@@ -19,6 +19,8 @@ regions:
 - Sub-Saharan Africa
 country:
 - Mozambique
+promos:
+- Mozambique MCA Project Fast Facts: "/uploads/FF%20Moz%20Land_%20MCA_Final_2018.pdf"
 layout: project
 ---
 
@@ -40,4 +42,4 @@ Land administration in Mozambique has been seriously under-resourced, and needed
 * Registered 198,764 parcels and issued 157,167 full land titles (DUATs), between March 2011 and August 2013 in the four northern provinces of Mozambique.
 * Secured land rights for women—35 percent of all titles were issued to women as single title-holders and another 12 percent were co-titled.
 * Produced 20 land use and cover maps, covering eight municipalities (focused on land use) and 12 districts (focused on land cover).
-* Designed, produced, and implemented a new national information system to record land ownership and transactions, called LIMS (Land Information Management System) in English or SIGIT (Sistema de Gestão de Informação sobre a Terra) in Portuguese.
+* Designed, produced, and implemented a new national information system to record land ownership and transactions, called LIMS (Land Information Management System) in English or SIGIT (Sistema de Gestão de Informação sobre a Terra) in Portuguese. 
