@@ -20,7 +20,8 @@ regions:
 country:
 - Mozambique
 promos:
-- Mozambique MCA Project Fast Facts: "/uploads/FF%20Moz%20Land_%20MCA_Final_2018.pdf"
+- title: 'Fast Facts: Mozambique MCA '
+  link: "/uploads/FF%20Moz%20Land_%20MCA_Final_2018.pdf"
 layout: project
 ---
 
