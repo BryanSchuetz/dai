@@ -2,7 +2,6 @@
 title: DAI Board Member Marwan Juma to Headline Tent Foundation Panel on Jordan Refugee
   Response
 date: 2018-05-07 13:31:00 Z
-published: false
 solutions:
 - 
 - 
