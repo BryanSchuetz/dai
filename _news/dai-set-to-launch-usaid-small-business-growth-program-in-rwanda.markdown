@@ -2,6 +2,7 @@
 title: DAI Set to Launch USAID Small-Business Growth Program in Rwanda
 date: 2018-05-07 14:48:00 Z
 published: false
+regions: Sub-Saharan Africa
 summary: The U.S. Agency for International Development has selected DAI to lead the
   Nguriza Nshore program in Rwanda. Nguriza Nshore— Kinyarwanda for "lend so that
   I may invest"—is a five-year project to support small-business growth in rural areas
