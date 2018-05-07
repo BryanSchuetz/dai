@@ -13,6 +13,8 @@ The U.S. Agency for International Development (USAID) has selected DAI to lead t
 
 Rwanda’s economic gains of recent years have not translated to widespread job creation as a majority of its people still work as farmers or in agriculture-related businesses. A lack of access to finance—especially for women and young entrepreneurs—have constrained the ability of Rwanda’s small businesses to expand, provide new and better products and services, and employ more people, especially in rural areas. Rwanda Nguriza Nshore will work with the enabling environment to effectively support SMEs, both in terms of financial regulatory policies and business promotion policies.
 
+![Rwanda_NN_cover_web.jpg](/uploads/Rwanda_NN_cover_web.jpg)
+
 The Nguriza Nshore team will launch a Catalytic Growth Facility that will work with financial institutions, government ministries, business development service providers, and others to co-create and scale activities that strengthen Rwanda’s investment and entrepreneurship ecosystem. These may include de-risking new loan products for small businesses, analyzing market opportunities for rural businesses, and developing credit-scoring tools that target women and youth. The project team will also investigate creating a securitization market that would utilize assets from Rwanda’s $500 million public pension fund to invest in the private sector. In all, the team aims to bring $15
 
 million in debt financing and $30 million in investment to small and medium-sized non-farm agribusinesses while creating more than 30,000 jobs for rural Rwandans.
