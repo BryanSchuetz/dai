@@ -11,22 +11,21 @@ layout: default
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure](/uploads/lcmc-final.pdf).
 
-> “The masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”* *—  *Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
-
+> “The masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences” —  *Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
 <div class="form-wrapper">
 <div class="lead-generator">
-  <h3>Learn About Dates, Locations, and Pricing</h3>
-  <form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
-  <div class="form-controls--wrap">
-  <input type="hidden" name="utf8" value="✓">
-  <input type="hidden" name="source" id="source" value="">
-  <input type="hidden" name="campaign" id="campaign" value="">
-  {% comment %} <label for="name">Full Name</label> {% endcomment %}
-  {% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
-  {% comment %} <label for="email-address">Email Address</label> {% endcomment %}
-  <input type="email" id="email-address" name="email" placeholder="Email Address">
-  <button type="submit">Submit</button>
+<h3>Learn About Dates, Locations, and Pricing</h3>
+<form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
+<div class="form-controls--wrap">
+<input type="hidden" name="utf8" value="✓">
+<input type="hidden" name="source" id="source" value="">
+<input type="hidden" name="campaign" id="campaign" value="">
+{% comment %} <label for="name">Full Name</label> {% endcomment %}
+{% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
+{% comment %} <label for="email-address">Email Address</label> {% endcomment %}
+<input type="email" id="email-address" name="email" placeholder="Email Address">
+<button type="submit">Submit</button>
 </div>
 </form>
 <p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
