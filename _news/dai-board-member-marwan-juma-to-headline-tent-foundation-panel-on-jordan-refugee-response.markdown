@@ -12,7 +12,7 @@ summary: DAI Board Member Marwan Juma, Jordan’s former Minister of Information
 social-image: "/uploads/marwan-juma_web-6c63ec.jpg"
 ---
 
-![marwan-juma_web-e7b89b.jpg](/uploads/marwan-juma_web-e7b89b.jpg){:.float-left} DAI Board Member Marwan Juma, Jordan’s former Minister of Information and Communications Technology, will lead a [Tent Foundation](https://www.tent.org/) panel on May 11 showcasing Jordan’s innovative response to the Syrian refugee crisis. The panel, “Mobilizing Business on the Frontline: Jordan Case Study,” is part of a series hosted by the New York City-based foundation, which is led by Chobani CEO Hamdi Ulukaya.
+![marwan-juma_web-e7b89b.jpg](/uploads/marwan-juma_web-e7b89b.jpg){:.float-left} DAI Board Member [Marwan Juma](https://www.dai.com/who-we-are/board/marwan-juma), Jordan’s former Minister of Information and Communications Technology, will lead a [Tent Foundation](https://www.tent.org/) panel on May 11 showcasing Jordan’s innovative response to the Syrian refugee crisis. The panel, “Mobilizing Business on the Frontline: Jordan Case Study,” is part of a series hosted by the New York City-based foundation, which is led by Chobani CEO Hamdi Ulukaya.
 
 “I’m honored to be a part of this critical and timely discussion,” Juma said. “Through its many programs in Jordan, DAI has indeed been at the frontline of the Syria response, and we are eager to share what we’ve learned with our partners at Tent and beyond.”
 
