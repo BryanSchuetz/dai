@@ -1,7 +1,6 @@
 ---
 title: DAI Set to Launch USAID Small-Business Growth Program in Rwanda
 date: 2018-05-07 14:48:00 Z
-published: false
 solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
