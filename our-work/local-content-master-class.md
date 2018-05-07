@@ -92,7 +92,7 @@ These challenges include:
 
 ## What is the Master Class?
 
-* Offered as a **three or four-day** training covering the full landscape of local content.
+* A **three-day** training covering the full landscape of local content.
 
 * Framed by the **regional context** of local content regulation and sector development.
 
