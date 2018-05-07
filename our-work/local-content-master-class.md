@@ -163,7 +163,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 * Author of multiple books and papers on local content, including *[Local Content in Procurement](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf Publishing in 2012
 
-**Warwick Strong, Local Content Specialist**
+{% comment %} **Warwick Strong, Local Content Specialist**
 
 ![Warwick Strong Photo](https://assetify-dai.com/experts/Slice.jpg){:.float-right}
 
@@ -175,7 +175,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 * Helped shape Guinea's local content policy within the mining sector
 
-* Former Officer in the United Kingdom’s Royal Military, where he was deployed on peacekeeping missions to work with community leaders to achieve more transparent governance systems and build stronger communities
+* Former Officer in the United Kingdom’s Royal Military, where he was deployed on peacekeeping missions to work with community leaders to achieve more transparent governance systems and build stronger communities {% endcomment %}
 
 **Dorival Bettencourt, Senior Oil and Gas Advisor**
 
