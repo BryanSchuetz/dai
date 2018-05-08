@@ -15,6 +15,10 @@ solutions:
 - Finance and Investment
 regions: Worldwide
 country: Worldwide
+promos:
+- title: "**Report**: _Republic of Djibouti Recommendations for the establishment
+    of an SME incubator_"
+  link: "/uploads/SME%20incubator%20in%20Djibouti%20-%20TPSDE%20Facility%20-%20Final%2012092017-ENG.pdf"
 Key: 
 ---
 
