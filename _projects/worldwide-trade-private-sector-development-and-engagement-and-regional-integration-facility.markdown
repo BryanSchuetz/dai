@@ -24,7 +24,7 @@ The Trade, Private Sector Development and Engagement (TPSD/E) facility was estab
 
 ![TSPD_image_2.jpg](/uploads/TSPD_image_2.jpg)
 
-**Sample Activities**
+### Sample Activities
 
 * Support creation of an Access to Finance Window for micro, small, and medium-sized enterprises. 
 * Support creation of structured dialogue and sustainable EUBG to promote sustainable investments in partner countries. 
