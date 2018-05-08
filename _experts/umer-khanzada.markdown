@@ -1,7 +1,6 @@
 ---
 title: Umer Khanzada
 date: 2018-05-08 12:52:00 Z
-published: false
 lastname: Khanzada
 summary: As Project Director of Monitoring, Evaluation, and Learning, Umer Khanzada
   is providing technical leadership to DAI’s Europe approach to effective monitoring
