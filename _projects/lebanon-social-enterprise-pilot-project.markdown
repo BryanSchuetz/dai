@@ -19,7 +19,7 @@ Regional conflicts have adversely affected Lebanon’s economy and led to increa
 
 The Lebanon Social Enterprise Pilot Project (SEPP), funded by the U.K. Foreign and Commonwealth Office (FCO) (branded as [SoUK.LB](http://www.souklb.co/) – Social Enterprise Hub), uses an evidence-based approach to demonstrate the potential of the social enterprise model to deliver social and economic impact in Lebanon. DAI, along with its local consortium partners, will work with social enterprises from high-impact sectors to accelerate and strengthen their organisational capacity through training, mentoring, and financing.
 
-![SEPP----BALSAM-.jpg](/uploads/SEPP----BALSAM-.jpg)`SoUK.LB grantee Balsam—The Lebanese Center for Palliative Care provides care to patients and advocates for palliative care to be integrated into health insurance in Lebanon.`
+![SEPP----BALSAM-.jpg](/uploads/SEPP----BALSAM-.jpg)`SoUK.LB grantee Balsam provides palliative care to patients and advocates for palliative care to be integrated into health insurance in Lebanon.`
 
 ### Sample Activities
 
