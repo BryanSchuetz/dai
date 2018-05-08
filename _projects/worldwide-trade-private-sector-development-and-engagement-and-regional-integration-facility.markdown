@@ -30,10 +30,16 @@ The Trade, Private Sector Development and Engagement (TPSD/E) facility was estab
 
 ### Sample Activities
 
-* Support creation of an Access to Finance Window for micro, small, and medium-sized enterprises. 
-* Support creation of structured dialogue and sustainable EUBG to promote sustainable investments in partner countries. 
-* Design an Investment Climate Reform diagnostic reform toolkit. 
-* Design and implement online training modules on the EIP in Practice. 
+* Support creation of an Access to Finance Window for micro, small, and medium-sized enterprises.
+
+* Support creation of structured dialogue and sustainable EUBG to promote sustainable investments in partner countries.
+
+* Design an Investment Climate Reform diagnostic reform toolkit.
+
+* Design and implement online training modules on the EIP in Practice.
+
 * Knowledge management through development of TPSD and EIP Groups on the EU’s Capacity4Dev platform to showcase and disseminate new materials for the EU Headquarters and Delegations, including toolkits, lessons learned, case studies, and other relevant content.
+
 * Organise, conduct, and publicise regional seminars and training events on TPSD-related issues for EU Delegations in sub-Saharan Africa.
+
 * Write articles and blog posts; manage TPSD-related online content; and produce and disseminate multi-media products as part of communications strategy to share TPSD’s mission and showcase best practices.
