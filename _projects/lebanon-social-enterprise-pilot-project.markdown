@@ -26,3 +26,14 @@ The Lebanon Social Enterprise Pilot Project (SEPP), funded by the U.K. Foreign a
 * Support the development of a pipeline of high-impact social enterprises at the idea, early, and growth stages through seed funding, training, and mentorship. 
 * Increase the visibility of and awareness around the potential of the social enterprise sector in Lebanon. 
 * Engage existing ecosystem partners and key stakeholders to set the stage for the sustainable development and growth of the social enterprise sector.
+
+### Select Results
+
+* Completed recruitment campaign for social enterprises/innovators, resulting in 183 applicants for support in training, mentoring, and funding.
+* Out of 147 eligible applicants, 48 percent were led by women, and 50 percent were ages 18–30.
+* Awarded 19 grants to start-up and growth-stage organisations and provided training sessions to 52 of these grantees. Twelve of the grantees have begun generating sales.
+* Disbursed £405,000 in grants. Grantees increased beneficiaries served by 154 percent, and created 225 jobs covering full time, part time, and contractor.
+* Completed market study on the social enterprises operating environment, challenges, and opportunities and an overview of international best practices that can be adopted in Lebanon.
+* Facilitated seven outreach events, convening members of the social enterprise ecosystem and international experts.
+* Developed 26 social enterprise-focused printed and electronic communications materials–including 19 videos–and distributed them to 140 organisations.
+* Engaged policy makers in policy development discussions—including officials from the Ministry of Economy and Trade, Ministry of Finance, Banque du Liban, and Office of the President of the Council of Ministers.
