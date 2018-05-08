@@ -19,7 +19,7 @@ Regional conflicts have adversely affected Lebanon’s economy and led to increa
 
 The Lebanon Social Enterprise Pilot Project (SEPP), funded by the U.K. Foreign and Commonwealth Office (FCO) (branded as [SoUK.LB](http://www.souklb.co/) – Social Enterprise Hub), uses an evidence-based approach to demonstrate the potential of the social enterprise model to deliver social and economic impact in Lebanon. DAI, along with its local consortium partners, will work with social enterprises from high-impact sectors to accelerate and strengthen their organisational capacity through training, mentoring, and financing.
 
-![SEPP----FabricAID.jpg](/uploads/SEPP----FabricAID.jpg)`SoUK.LB grantee FabricAID Pop-Up Market in Haret Hriek, Lebanon. Photo: Facebook.`
+![SEPP----FabricAID.jpg](/uploads/SEPP----FabricAID.jpg)`SoUK.LB grantee FabricAID Pop-Up Market in Haret Hriek, Lebanon. Photo: Facebook.com/FabricAIDleb/`
 
 ### Sample Activities
 
