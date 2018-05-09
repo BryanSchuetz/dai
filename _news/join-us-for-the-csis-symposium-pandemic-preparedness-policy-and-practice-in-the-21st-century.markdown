@@ -16,7 +16,7 @@ Please join the CSIS Global Health Policy Center, in collaboration with DAI Glob
 To attend the May 17 event, register [here](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century). The event will also be webcast live from the registration page.
 
 ![CSIS event photo.jpg](/uploads/CSIS%20event%20photo.jpg)
-`Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015.`
+`Sierra Leone's health officials monitoring for Ebola cases at a border crossing in 2015. Photo Credit: USAID.`
 
 The symposium will explore how current policies translate into practice in high-risk countries through collaboration between human and animal health professionals and institutions. Speakers include policymakers and implementers who will identify priorities and challenges facing the future of pandemic preparedness. An hour-long reception will follow.
 
