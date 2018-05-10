@@ -21,7 +21,7 @@ DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one of severa
 
 Defining accountability as “a mutually reinforcing relationship between the donation of power and the responsibilities expected of the exercise of that power,” Abah examined how public accountability depends on the interplay between “three constituencies:” people, politicians, and public servants. A former head of Nigeria’s Bureau for Public Sector Reform, Abah explores the critical roles played by various groups in society, from citizens and civil society organizations to the media—with a particular focus on the promise of social media to hold those in power to account—politicians, and the civil service.
 
-<aside style="text-align:center;"><span style="text-align:center;"><a href="/uploads/National%20Accountability%20Stewardship%20and%20the%20Role%20of%20Public%20Servants.pdf">Read The Full Text</a></span></aside>
+<a href="/uploads/National%20Accountability%20Stewardship%20and%20the%20Role%20of%20Public%20Servants.pdf"><aside style="text-align:center;">Read The Full Text</aside></a>
 
 [OGP Week](https://www.opengovweek.org/) is a global event. Open government leaders, thinkers, and practitioners come together to network, share ideas and experiences, discuss lessons learned, and “commit to new levels of citizen participation in government.”
 
