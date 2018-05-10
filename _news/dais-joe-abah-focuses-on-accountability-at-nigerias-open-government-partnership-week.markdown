@@ -6,9 +6,16 @@ published: false
 solutions:
 - Governance
 regions: Sub-Saharan Africa
+summary: 'DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one of
+  several prominent speakers at Nigeria’s Open Government Partnership (OGP) Week.
+  Delivered today at the Barcelona Hotel in Abuja, Abah’s address was titled, “To
+  Whom Much Is Given: National Accountability Stewardship and the Role of Public Servants.”'
+social-image: "/uploads/Dc1UCSlWAAE2ax9.jpg-large.jpeg"
 ---
 
 DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one of several prominent speakers at Nigeria’s Open Government Partnership (OGP) Week. Delivered today at the Barcelona Hotel in Abuja, Abah’s address was titled, “To Whom Much Is Given: National Accountability Stewardship and the Role of Public Servants.”
+
+<!--more-->
 
 ![Dc1UCSlWAAE2ax9.jpg-large.jpeg](/uploads/Dc1UCSlWAAE2ax9.jpg-large.jpeg)`The panel on National Accountability Stewardship at OGP Week, photo courtesy of @ogpnigeria`
 
