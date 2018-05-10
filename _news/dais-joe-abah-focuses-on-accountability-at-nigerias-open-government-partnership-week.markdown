@@ -13,7 +13,7 @@ summary: 'DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one
 social-image: "/uploads/Dc1UCSlWAAE2ax9.jpg-large.jpeg"
 ---
 
-DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one of several prominent speakers at Nigeria’s Open Government Partnership (OGP) Week. Delivered today at the Barcelona Hotel in Abuja, Abah’s address was titled, “To Whom Much Is Given: National Accountability Stewardship and the Role of Public Servants.”
+DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one of several prominent speakers at Nigeria’s Open Government Partnership (OGP) Week. Delivered today at the Barcelona Hotel in Abuja, Abah’s address was titled, “[To Whom Much Is Given: National Accountability Stewardship and the Role of Public Servants](/uploads/National%20Accountability%20Stewardship%20and%20the%20Role%20of%20Public%20Servants.pdf).”
 
 <!--more-->
 
