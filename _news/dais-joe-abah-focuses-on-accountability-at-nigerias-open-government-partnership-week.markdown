@@ -19,7 +19,7 @@ DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one of severa
 
 ![Dc1UCSlWAAE2ax9.jpg-large.jpeg](/uploads/Dc1UCSlWAAE2ax9.jpg-large.jpeg)`The panel on National Accountability Stewardship at OGP Week, photo courtesy of @ogpnigeria`
 
-Defining accountability as “a mutually reinforcing relationship between the donation of power and the responsibilities expected of the exercise of that power,” Abah examined how public accountability depends on the interplay between “three constituencies:” people, politicians, and public servants. A former head of Nigeria’s Bureau for Public Sector Reform, he explores the critical roles played by various groups in society, from citizens and civil society organizations to the media—with a particular focus on the promise of social media to hold those in power to account—politicians, and the civil service.
+Defining accountability as “a mutually reinforcing relationship between the donation of power and the responsibilities expected of the exercise of that power,” Abah examined how public accountability depends on the interplay between “three constituencies:” people, politicians, and public servants. A former head of Nigeria’s Bureau for Public Sector Reform, Abah explores the critical roles played by various groups in society, from citizens and civil society organizations to the media—with a particular focus on the promise of social media to hold those in power to account—politicians, and the civil service.
 
 <aside><a href="/uploads/National%20Accountability%20Stewardship%20and%20the%20Role%20of%20Public%20Servants.pdf">Read the full text of the speech.</a></aside>
 
