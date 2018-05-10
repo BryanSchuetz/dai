@@ -2,7 +2,6 @@
 title: DAI’s Joe Abah Focuses on Accountability at Nigeria’s Open Government Partnership
   Week
 date: 2018-05-10 13:05:00 Z
-published: false
 solutions:
 - Governance
 regions: Sub-Saharan Africa
