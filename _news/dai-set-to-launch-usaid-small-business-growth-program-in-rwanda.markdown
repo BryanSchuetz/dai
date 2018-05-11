@@ -18,6 +18,8 @@ Rwanda’s economic gains of recent years have not translated to widespread job 
 
 ![Rwanda_NN_cover_web.jpg](/uploads/Rwanda_NN_cover_web.jpg)
 
+`Mobile phone vendors set up shop in a rural village outside of Kigali. Photo Credit: Adam Fivenson, DAI.`
+
 The Nguriza Nshore team will launch a Catalytic Growth Facility that will work with financial institutions, government ministries, business development service providers, and others to co-create and scale activities that strengthen Rwanda’s investment and entrepreneurship ecosystem. These may include de-risking new loan products for small businesses, analyzing market opportunities for rural businesses, and developing credit-scoring tools that target women and youth. The project team will also investigate creating a securitization market that would utilize assets from Rwanda’s $500 million public pension fund to invest in the private sector. In all, the team aims to bring $15 million in debt financing and $30 million in investment to small and medium-sized non-farm agribusinesses while creating more than 30,000 jobs for rural Rwandans.
 
 “Rwanda deserves much credit for its improved economic standing over the past 20 years,” said DAI’s [Mark Rostal](https://www.dai.com/who-we-are/our-team/mark-rostal), the project’s Chief of Party. Rwanda’s gross domestic product growth averaged approximately 6 to 8 percent between 2004 and 2017, contributing to a 20 percent reduction of poverty rates, while improving its [Doing Business ranking](http://www.doingbusiness.org/\~/media/WBG/DoingBusiness/Documents/Annual-Reports/English/DB2018-Full-Report.pdf) to 41st in 2018 from 158th in 2005.
