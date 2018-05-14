@@ -25,7 +25,5 @@ The village chief gave him the name Ibrahima Diene, and he went to work building
 After earning his doctorate, Chuck went on to lead some of the world’s most important food security programs, including the Washington, D.C.-based Famine Early Warning Systems Network (FEWS NET). He served long-term postings in Senegal and Zimbabwe and completed numerous assignments in African nations and Haiti. He now leads the DAI team implementing food security projects in Africa and Central Asia. 
 
 * President, Association for International Agriculture and Rural Development
-
 * Ph.D., agricultural economics, Michigan State University
-
 * B.S., biology, sociology, Tulane University
