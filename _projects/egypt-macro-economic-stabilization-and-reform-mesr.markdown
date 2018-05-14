@@ -1,7 +1,6 @@
 ---
 title: Egypt—Macro-Economic Stabilization and Reform (MESR)
 date: 2018-05-14 18:52:00 Z
-published: false
 summary: The Macro-Economic Stabilization and Reform (MESR) project is addressing
   Egypt’s macroeconomic challenges and assisting with implementing reforms expected
   by the International Monetary Fund.
