@@ -2,6 +2,11 @@
 title: Egypt—Macro-Economic Stabilization and Reform (MESR)
 date: 2018-05-14 18:52:00 Z
 published: false
+summary: The Macro-Economic Stabilization and Reform (MESR) project is addressing
+  Egypt’s macroeconomic challenges and assisting with implementing reforms expected
+  by the International Monetary Fund.
+start: 2018
+end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
@@ -17,4 +22,12 @@ The Macro-Economic Stabilization and Reform (MESR) project, funded by the U.S. A
 
 MESR will also work with the Government of Egypt to analyze, monitor, and evaluate the impact of public investments and economic policies on men and women, while ensuring that women are well represented in training and capacity development efforts, engaged in economic policy dialogue, and prepared for managerial and leadership opportunities. While ambitious in its expected results, MESR comes at a critical time for Egypt and will provide invaluable technical assistance to support macroeconomic stabilization.  
 
+![cairo.jpg](/uploads/cairo.jpg)
+
 ### Sample Activities
+
+* Review outstanding capital investment projects and incorporate lessons learned from this initiative into the development of a standardized appraisal methodology.
+* Develop cross-sector, spatial, and gender analysis tools to improve decision support for project appraisals.
+* Analyze and assess different forms of alternative financing schemes.
+* Conduct legal and regulatory review of the public investment landscape. 
+* Develop and conduct training to build capacity for planning and monitoring units in government entities.
