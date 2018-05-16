@@ -17,7 +17,8 @@ promos:
   link: "/news/view-more-news?filter=health"
 related: false
 hero: true
-redirect_from: "/health"
+redirect_from: "/global-health"
+Field name: 
 layout: solution
 ---
 
