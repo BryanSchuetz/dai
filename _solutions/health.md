@@ -18,7 +18,6 @@ promos:
 related: false
 hero: true
 redirect_from: "/global-health"
-Field name: 
 layout: solution
 ---
 
