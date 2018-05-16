@@ -16,8 +16,9 @@ promos:
 - title: "**News:** Recent Health News"
   link: "/news/view-more-news?filter=health"
 related: false
-layout: solution
 hero: true
+redirect_from: "/health"
+layout: solution
 ---
 
 **Innovating global health solutions to save lives.**
