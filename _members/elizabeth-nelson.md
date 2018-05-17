@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 summary: Betsey Nelson, the chair of DAI’s Board of Managers, is an advisor and corporate
   director for high-growth companies in the software, digital media, technology and
   Internet markets.
-image: "/assets/images/leaders/thumbnails/elizabeth-nelson.jpg"
+image: "/uploads/new%20betsey.jpg"
 sort-order: 5
 layout: leaders
 ---
