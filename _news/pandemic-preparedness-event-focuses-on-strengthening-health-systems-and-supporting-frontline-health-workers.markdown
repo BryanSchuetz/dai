@@ -15,10 +15,9 @@ summary: 'DAI’s Global Health team participated in a lively panel discussion o
 social-image: "/uploads/CSIS_1.jpg"
 ---
 
-DAI’s Global Health team participated in a lively panel discussion on the future of response to disease outbreaks for the CSIS symposium, [“Pandemic Preparedness: Policy and Practice in the 21st Century.”](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century) The symposium—hosted by the CSIS Global Health Policy Center in collaboration with DAI, [Mérieux Foundation USA](http://www.fondation-merieuxusa.org/), and the [USAID Preparedness & Response project](http://preparednessandresponse.org/)—explored how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the influenza pandemic of 1918, which caused the deaths of 50 million people worldwide.
+DAI’s Global Health team participated in a lively panel discussion on the future of response to disease outbreaks for the CSIS symposium, [“Pandemic Preparedness: Policy and Practice in the 21st Century.” ](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century)The symposium—hosted by the CSIS Global Health Policy Center in collaboration with DAI, [Mérieux Foundation USA](http://www.fondation-merieuxusa.org/), and the [USAID Preparedness & Response project](http://preparednessandresponse.org/)—explored how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the influenza pandemic of 1918, which caused the deaths of 50 million people worldwide.
 
-![CSIS_1.jpg](/uploads/CSIS_1.jpg)`Pictured, from left, Andrew Kitua, Regional Director, Africa, USAID-funded Preparedness & Response project; Beth Cameron, Vice President for Global Biological Policy and Programs, Nuclear Threat Initiative, and panel moderator; Amadou Sall, Professor and Director, Institut Pasteur, Dakar, Senegal.
-`
+![CSIS_1.jpg](/uploads/CSIS_1.jpg)`Pictured, from left, Andrew Kitua, Regional Director, Africa, USAID-funded Preparedness & Response project; Beth Cameron, Vice President for Global Biological Policy and Programs, Nuclear Threat Initiative, and panel moderator; Amadou Sall, Professor and Director, Institut Pasteur, Dakar, Senegal.`
 
 Luciana Borio, Director of Medical & Biodefense Preparedness Policy at the National Security Council, opened the event. Borio highlighted the need to take a global, collective responsibility for pandemic preparedness and the importance of training frontline health workers in communities that are most threatened by outbreaks.
 
