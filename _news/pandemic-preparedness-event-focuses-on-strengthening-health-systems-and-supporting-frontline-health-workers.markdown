@@ -3,6 +3,16 @@ title: Pandemic Preparedness Event Focuses on Strengthening Health Systems and S
   Frontline Health Workers
 date: 2018-05-18 19:44:00 Z
 published: false
+solutions:
+- Health
+- Emerging Infectious Diseases
+projects: Worldwide—Preparedness and Response (P&R)
+summary: 'DAI’s Global Health team participated in a lively panel discussion on the
+  future of response to disease outbreaks for the CSIS symposium, “Pandemic Preparedness:
+  Policy and Practice in the 21st Century,” which explored how U.S. and international
+  policies aim to reduce the risk of a 21st century equivalent of the deadly influenza
+  pandemic of 1918.'
+social-image: "/uploads/CSIS_1.jpg"
 ---
 
 DAI’s Global Health team participated in a lively panel discussion on the future of response to disease outbreaks for the CSIS symposium, [“Pandemic Preparedness: Policy and Practice in the 21st Century.”](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century) The symposium—hosted by the CSIS Global Health Policy Center in collaboration with DAI, [Mérieux Foundation USA](http://www.fondation-merieuxusa.org/), and the [USAID Preparedness & Response project](http://preparednessandresponse.org/)—explored how U.S. and international policies aim to reduce the risk of a 21st century equivalent of the influenza pandemic of 1918, which caused the deaths of 50 million people worldwide.
