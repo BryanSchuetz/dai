@@ -31,6 +31,6 @@ Kitua, who has worked directly with DRC neighbor countries on their preparedness
 
 Following the panel, Sabrina Sholts of the Smithsonian National Museum of Natural History previewed the institution’s major new exhibit, *[Outbreak: Epidemics in a Connected World](https://naturalhistory.si.edu/exhibits/outbreak/).* The exhibit opens May 18 and coincides with the 100th anniversary of the “Great Influenza” of 1918, the most lethal pandemic in recent history.
 
-“We’re looking at the next 100 years,” said DAI Global Health President Chris Legrand in his closing remarks, “being able to work at the governance level and systems level and—more importantly—at the human capacity level to prepare for the next pandemic outbreak.”
+“We’ve made great public health progress in the past 100 years since the 1918 outbreak," said DAI Global Health President Chris LeGrand in his closing remarks. "Now we look to the future where we must continue to improve global governance, health systems, and human capacity to ensure prepared and resilient societies in the face of future pandemics when–not if–they come.”
 
 DAI Global Health builds on two decades of frontline experience tackling diseases such as avian influenza and Ebola. DAI is currently implementing the U.S. Government’s flagship Preparedness & Response program.
