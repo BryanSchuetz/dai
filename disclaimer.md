@@ -1,8 +1,8 @@
 ---
 title: Email Disclaimer
+permalink: "/disclaimer"
 summary: 
 layout: default
-permalink: /disclaimer
 ---
 
 ## CONFIDENTIALITY NOTICE: 
