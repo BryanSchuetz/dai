@@ -2,7 +2,6 @@
 title: Pandemic Preparedness Event Focuses on Strengthening Health Systems and Supporting
   Frontline Health Workers
 date: 2018-05-18 19:44:00 Z
-published: false
 solutions:
 - Health
 - Emerging Infectious Diseases
