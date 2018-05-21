@@ -180,6 +180,7 @@ algolia:
   - who-we-are/leadership.md
   - project-login.md
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
+  - disclaimer.md
   settings:
     attributeForDistinct: url
     attributesToHighlight: 
