@@ -33,3 +33,5 @@ Following the panel, Sabrina Sholts of the Smithsonian National Museum of Natura
 “We’ve made great public health progress in the past 100 years since the 1918 outbreak,” said DAI Global Health President Chris LeGrand in his closing remarks. “Now we look to the future where we must continue to improve global governance, health systems, and human capacity to ensure prepared and resilient societies in the face of future pandemics when–not if–they come.”
 
 DAI Global Health builds on two decades of frontline experience tackling diseases such as avian influenza and Ebola. DAI is currently implementing the U.S. Government’s flagship Preparedness & Response program.
+
+[Watch a recording of the event.](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century)
