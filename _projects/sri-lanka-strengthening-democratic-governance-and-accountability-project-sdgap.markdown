@@ -40,6 +40,8 @@ promos:
   link: "/uploads/SDGAP%20EOI-0001_Graphic%20Design%20Services%20Final%205.7.18.pdf"
 - title: EOI 002  Event Organizers/Stakeholder Engagement Facilitation
   link: "/uploads/SDGAP%20EOI-0002_Event%20Organizers_Stakeholder%20Engagement.pdf"
+- title: RFP Colombo TM 0001 Diamond Leader Study
+  link: "/uploads/RFP-%20Colombo-TM-0001%20Diamond%20Leader%20Study-1.pdf"
 ---
 
 Sri Lanka's new government has taken bold steps toward political and social change, including reinforcing the central role of parliament, and has introduced and bolstered independent oversight commissions. With a Constitutional Assembly forming to debate a new constitution for further democratic consolidation, the opportunity exists for a renewed partnership between the United States and Sri Lanka. Within this setting, the U.S. Agency for International Development (USAID) has launched the Strengthening Democratic Governance and Accountability Project (SDGAP), a three-year program to strengthen public accountability systems; improve planning, communication, policy reform, and implementation; and increase the participation of women and under-represented groups in Sri Lanka. 
