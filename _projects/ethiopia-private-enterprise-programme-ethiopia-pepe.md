@@ -24,10 +24,10 @@ DAI is implementing this work with consortium partners First Consult/Ethiopia, I
 
 Enterprise Partners works through two major pillars:
 
-* **Agro-Industry:** Strengthening market systems in three priority sectors of the Government of Ethiopia—cotton, textile and apparel; leather and livestock; and fruits and vegetables.  
+* **Agro-Industry:** Strengthening market systems in three priority sectors of the Government of Ethiopia—cotton, textile and apparel; leather and livestock; and fruits and vegetables.
 * **Access to Finance:** Strengthening financial systems for increased financial inclusion of the poor into formal financial systems and enabling investments for small, medium, and large enterprises.
 
-![Ethiopia-PEPE-PIC-1.jpg](/uploads/Ethiopia-PEPE-PIC-1.jpg)
+<iframe src="https://player.vimeo.com/video/271093738" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -45,6 +45,3 @@ Enterprise Partners works through two major pillars:
 * Supported the Development Bank of Ethiopia and 12 microfinance institutions with technical assistance that contributed to £50 million in loan disbursements and enabled another £204 million credit line by World Bank to be disbursed by 2020.
 * Generated £43 million of additional investment into the economy.
 * Created more than 30,000 financial accounts.
-
-[1]: http://dai-global-developments.com/articles/serving-the-missing-middle-creating-access-to-finance-for-female-owned-small-businesses-in-ethiopia/?utm_source=daidotcom
-[2]: https://assetify-dai.com/projects/PEPE.jpg
