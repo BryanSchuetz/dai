@@ -23,7 +23,7 @@ The Malawi Land Governance programme, funded by the European Commission, is enha
 
 * Review existing and proposed land laws to identify inconsistencies.
 
-* Develop strategies to addresses key land governance constraints facing women and vulnerable groups and mainstream these issues into trainings and policy documents.
+* Develop strategies to address key land governance constraints facing women and vulnerable groups and mainstream these issues into trainings and policy documents.
 
 * Revise Malawi’s land governance framework using the Voluntary Guidelines for Responsible Governance of Land, Fisheries, and Forests, with a focus on women’s land rights.
 
