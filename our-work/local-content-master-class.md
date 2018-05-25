@@ -11,6 +11,8 @@ layout: default
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure.](/uploads/DAI%20Masterclass%20Brochure%20May%202018.pdf)
 
+  Upcoming UK Masterclass: November 7-9 at Henley-on-Thames Business School.
+
 > “The masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences” —  *Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
 <div class="form-wrapper">
