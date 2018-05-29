@@ -4,8 +4,8 @@ date: 2018-05-29 17:18:00 Z
 published: false
 clients: European Commission
 summary: DAI is pleased to take part in two panel discussions at European Development
-  Days, June 5-6 in Brussels, sharing our work on gender-responsive budgeting and
-  sustainble value chains in the garment industry.
+  Days, June 5and 6 in Brussels, sharing our work on gender-responsive budgeting and
+  sustainable value chains in the garment industry.
 social-image: "/uploads/EDD_news_image.jpg"
 ---
 
