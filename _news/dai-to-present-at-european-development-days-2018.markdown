@@ -1,7 +1,6 @@
 ---
 title: DAI to Present at European Development Days 2018
 date: 2018-05-29 14:27:00 Z
-published: false
 clients: European Commission
 summary: DAI is pleased to take part in two panel discussions at European Development
   Days, June 5 and 6 in Brussels, sharing our work on gender-responsive budgeting
