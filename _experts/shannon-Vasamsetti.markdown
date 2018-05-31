@@ -1,18 +1,19 @@
 ---
-title: Shannon Dugan
+title: Shannon Vasamsetti
 date: 2017-09-26 19:07:00 Z
-lastname: Dugan
-summary: 'Shannon Dugan’s work has focused on the nexis of climate change, rural livelihoods,
-  and natural resource management. '
+lastname: 'Vasamsetti '
+summary: 'Shannon Vasamsetti ’s work has focused on the nexis of climate change, rural
+  livelihoods, and natural resource management. '
 job-title: Global Practice Specialist, Environment
 image: "/uploads/DAI-Bio----Shannon-Dugan.jpg"
 solutions:
 - Environment and Energy
+- Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific
 ---
 
-Shannon Dugan’s work has focused on the nexus of climate change, rural livelihoods, and natural resource management. As Deputy Chief of Party for the [Mekong Adaptation and Resilience to Climate Change](https://www.dai.com/our-work/projects/southeast-asia-mekong-adaptation-and-resilience-climate-change-arcc) project, Shannon managed community and ecosystem-based agricultural adaptation and translated climate change projections and impacts for targeted users. Through an integrated framework for adaptation decision making, Shannon supported lower Mekong governments, nongovernmental and civil society organizations, and communities in developing and implementing adaptation strategies. She led the development, implementation, and oversight of the project’s data collection, monitoring, and evaluation—compiling first-generation results for the U.S. Agency for International Development’s climate portfolio for rural development in Asia.
+Shannon Vasamsetti’s work has focused on the nexus of climate change, rural livelihoods, and natural resource management. As Deputy Chief of Party for the [Mekong Adaptation and Resilience to Climate Change](https://www.dai.com/our-work/projects/southeast-asia-mekong-adaptation-and-resilience-climate-change-arcc) project, Shannon managed community and ecosystem-based agricultural adaptation and translated climate change projections and impacts for targeted users. Through an integrated framework for adaptation decision making, Shannon supported lower Mekong governments, nongovernmental and civil society organizations, and communities in developing and implementing adaptation strategies. She led the development, implementation, and oversight of the project’s data collection, monitoring, and evaluation—compiling first-generation results for the U.S. Agency for International Development’s climate portfolio for rural development in Asia.
 Shannon is fluent in Spanish. She has worked in Asia, Latin America, and Africa—merging technical and operational duties to improve project management and technical direction. In addition to climate change adaptation, her technical areas of experience include ecosystem valuation, biodiversity conservation, energy efficiency, climate finance, and natural resource management. Shannon leads the Green Climate Fund business initiative, which led to DAI’s becoming an Accredited Observer for the fund.
 
 * M.A., public policy, Lyndon B. Johnson School for Public Affairs, University of Texas at Austin
