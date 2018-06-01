@@ -11,6 +11,7 @@ job-title: Director, Preparedness and Response project
 image: https://assetify-dai.com/experts/Susan%20Inner.jpg
 solutions:
 - Health
+- Emerging Infectious Diseases
 - 
 regions:
 - Asia and the Pacific
