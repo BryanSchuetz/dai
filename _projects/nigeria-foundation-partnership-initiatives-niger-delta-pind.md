@@ -15,6 +15,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Nigeria
+promos:
+- title: "**Article**: _Chevron’s Corporate Social Enterprise in Nigeria​_"
+  link: "/uploads/Great_Insights_Kaplan_PIND.pdf"
 layout: project
 ---
 
