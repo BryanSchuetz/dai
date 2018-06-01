@@ -10,6 +10,7 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Health
+- Emerging Infectious Diseases
 regions:
 - Worldwide
 country:
