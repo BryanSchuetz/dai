@@ -30,9 +30,9 @@ DAI is taking an integrated systems approach that includes providing local gover
 
 View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and [here](https://player.vimeo.com/video/250615982) to learn more.
 
-**Sample Activities**
+### Sample Activities
 
 * Provide targeted capacity-building assistance specific to the roles and requirements of various public servants, with a focus on solving locally relevant problems rather than broad standardized training.
 * Identify performance gaps and work closely with embedded teams and local change agents to facilitate institutional reforms and improve organizational effectiveness.
-* Improve the government accountability system by strengthening existing mechanisms, such as community scorecards and service management committees, while introducing new accountability tools, including public service charters and social audits.
+* Improve the [government accountability system](https://medium.com/usaid-2030/democracy-delivers-in-malawi-c79cd4627af6) by strengthening existing mechanisms, such as community scorecards and service management committees, while introducing new accountability tools, including public service charters and social audits.
 * Create a dynamic space for collaboration with programs led by USAID and other donors also working in LGAP districts, integrating development activities at the community, district, and national levels.
