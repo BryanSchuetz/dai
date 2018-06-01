@@ -28,6 +28,8 @@ Kitua, who has worked directly with DRC neighbor countries on their preparedness
 
 “I would urge the global community to include funding for prevention so that countries can access those funds when there is no emergency,” he said. “We spend a lot of money to wait and respond to outbreaks; we need to invest in prevention and recognize the cost savings it provides.”
 
+Listen to a [podcast](https://soundcloud.com/csis-57169780/frontline-perspectives-on-pandemic-preparedness) and watch a [short video](https://www.facebook.com/DAIGlobal/videos/10156338078985797/) of Kitua. 
+
 Following the panel, Sabrina Sholts of the Smithsonian National Museum of Natural History previewed the institution’s major new exhibit, *[Outbreak: Epidemics in a Connected World](https://naturalhistory.si.edu/exhibits/outbreak/).* The exhibit opens May 18 and coincides with the 100th anniversary of the “Great Influenza” of 1918, the most lethal pandemic in recent history.
 
 ![Chris_LeGrand_CSIS.jpg](/uploads/Chris_LeGrand_CSIS.jpg)
@@ -38,4 +40,4 @@ Following the panel, Sabrina Sholts of the Smithsonian National Museum of Natura
 
 DAI Global Health builds on two decades of frontline experience tackling diseases such as avian influenza and Ebola. DAI is currently implementing the U.S. Government’s flagship Preparedness & Response program.
 
-[Watch a recording of the event.](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century)
+[Watch a full recording of the event.](https://www.csis.org/events/pandemic-preparedness-policy-and-practice-21st-century)
