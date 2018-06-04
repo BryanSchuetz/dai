@@ -5,7 +5,7 @@ published: false
 ---
 
 Universal electricity access requires an investment of $52 billion per year. In many parts of the world electrification is most realistically and efficiently provided with mini-grids. This money will need to come from the private sector as it swamps donors and governments’ resources. But investors will not invest unless they see return.
-Join DAI on June 14 at 10 AM EST for an online discussion about what is necessary for successful mini-electricity grid business models. Access the streamed panel at the URL listed below:
+Join DAI on June 14 at 10 AM EST for an online discussion about what is necessary for successful mini-electricity grid business models. [Register here](https://dail.webex.com/mw3300/mywebex/default.do?service=1&main_url=%2Fmc3300%2Fe.do%3Fsiteurl%3Ddail%26AT%3DMI%26EventID%3D645168162%26MTID%3Dm78754eb57676f1c5feb9b73d11cffe47%26RG%3D1%26Host%3DQUhTSwAAAAQGMYmsafdb-yfcfzwPC5QPYbKaraSpVGXGUXQzEC8bmfwN5hnHbX3XSnm8jubD2EQI7yPWcuBwe21yavM2PRFH0%26FrameSet%3D2&siteurl=dail&nomenu=true) for the streamed panel.
  
 Facilitator:
 Gwendolyn Andersen, DAI
