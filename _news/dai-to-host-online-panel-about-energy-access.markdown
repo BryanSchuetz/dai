@@ -1,7 +1,6 @@
 ---
 title: DAI to Host Online Panel About Energy Access
 date: 2018-06-04 17:14:00 Z
-published: false
 solutions:
 - Environment and Energy
 summary: 'Join DAI on June 14 at 10 AM EST for an online discussion about what is
