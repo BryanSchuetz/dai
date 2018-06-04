@@ -26,7 +26,7 @@ Trade and private sector engagement are recognized as key drivers for poverty re
 
 The Trade, Private Sector Development and Engagement (TPSD/E) facility was established by the European Commission to support its implementation of the 2014 Private Sector Communication, and shaping and implementing new policy orientations, in particular geared toward the European Union’s [External Investment Plan (EIP)](https://ec.europa.eu/commission/priorities/stronger-global-actor/external-investment-plan_en). By leveraging financial assistance, guarantees, and supporting improvements to the business environment, the EIP aims to [catalyse private sector investment in partner countries](http://dai-global-developments.com/articles/eu-launches-26-billion-fund-to-attract-investment-in-the-european-neighbourhood-and-africas-fragile-states/) in Africa and the European Neighbourhood and contribute to meeting Sustainable Development Goals. In supporting the TPSD/E Facility, DAI provides policy advice and knowledge management to the European Commission’s Directorate General for International Development Cooperation.
 
-![TSPD_image_2.jpg](/uploads/TSPD_image_2.jpg)
+<iframe src="https://player.vimeo.com/video/273339228" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -37,5 +37,3 @@ The Trade, Private Sector Development and Engagement (TPSD/E) facility was estab
 * Knowledge management through development of TPSD and EIP Groups on the EU’s Capacity4Dev platform to showcase and disseminate new materials for the EU Headquarters and Delegations, including toolkits, lessons learned, case studies, and other relevant content.
 * Organise, conduct, and publicise regional seminars and training events on TPSD-related issues for EU Delegations in sub-Saharan Africa.
 * Write articles and blog posts; manage TPSD-related online content; and produce and disseminate multi-media products as part of communications strategy to share TPSD’s mission and showcase best practices.
-
-<iframe src="https://player.vimeo.com/video/273339228" width="640" height="360" frameborder="0" allowfullscreen></iframe>
