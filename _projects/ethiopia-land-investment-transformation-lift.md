@@ -16,7 +16,7 @@ country:
 - Ethiopia
 promos:
 - title: 'Fast Facts: Ethiopia LIFT'
-  link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT.pdf"
+  link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618.pdf"
 layout: project
 ---
 
