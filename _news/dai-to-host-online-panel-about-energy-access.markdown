@@ -19,7 +19,7 @@ Gwen is a Principal Clean Energy Practice Specialist for DAI. She has managed re
 ### Panelists
 
 ![Peter panel.jpg](/uploads/Peter%20panel.jpg){:.float-left} Dr. Peter Lilienthal, HOMER, CEO
-Peter is the CEO of [HOMER Energy](https://www.homerenergy.com/). Peter was the Senior Economist with International Programs at NREL from 1990 to 2007. He helped create NREL’s Village Power Programs and developed the National Renewable Energy Laboratory’s HOMER hybrid microgrid power optimization software, which has been used by more than 160,000 energy practitioners in 193 countries. HOMER Energy continues to develop the software to optimize mini-grid and distributed energy resource designs and consults on renewable energy with utilities, governments, and technology developers. Peter is a global expert and pioneer in microgrid technology.
+Peter is the CEO of [HOMER Energy](https://www.homerenergy.com/). Since 1993, he has been the developer of the National Renewable Energy Laboratory’s HOMER hybrid power optimization software, which has been used by more than 190,000 energy practitioners in 193 countries. NREL has licensed HOMER Energy to be the sole worldwide commercialization licensee to distribute and enhance the HOMER model. Peter was the Senior Economist with International Programs at NREL from 1990 to 2007. He was the lead analyst and one of the creators of NREL’s Village Power Programs. He has been active in the field of renewable energy and energy efficiency since 1978.His expertise is in the economic and financial analysis of renewable and micro-grid projects.
 
 ![Pep panel.jpg](/uploads/Pep%20panel.jpg){:.float-left} 
 Dr. Pepukaye Bardouille, International Finance Corporation (IFC), Senior Operations Officer
