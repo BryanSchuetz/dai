@@ -1,9 +1,9 @@
 ---
 title: Ghana—Kosmos Innovation Center (KIC)
 date: 2017-05-19 17:58:00 Z
-summary: 'DAI helped to Kosmos Energy to design, launch, and implement the Kosmos
-  Innovation Center (KIC) program as part of the oil and gas company''s corporate
-  social investment strategy in Ghana. '
+summary: 'DAI helped Kosmos Energy to design, launch, and implement the Kosmos Innovation
+  Center (KIC) program as part of the oil and gas company''s corporate social investment
+  strategy in Ghana. '
 start: 2015
 end: 2018
 client: Kosmos Energy
@@ -32,19 +32,13 @@ The [KIC promotes innovation and youth employment](http://www.kosmosinnovationce
 ### Sample Activities
 
 * Collaborate with Kosmos Energy to design its flagship social investment program in Ghana, ensuring buy-in from internal stakeholders at the company as well as external stakeholders from the national government and other relevant institutions.
-
 * Provide seed funding, capacity building, and mentorship through innovation challenges to promote the development of promising local startup enterprises created by young entrepreneurs.
-
 * Provide technical support to an accelerator engaging small- and medium-sized enterprises in the agribusiness sector.
-
 * [Host collaborative workshops](https://dai-global-digital.com/ghana-agritech-exchange.html?utm_source=daidotcom) that bring together experts in business, technology, finance, academia, and other fields to develop practical solutions to pressing social problems.
 
 ### Select Results
 
 * Supported more than 100 young entrepreneurs in developing [innovative, technology-driven agribusiness concepts ](https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html?utm_source=daidotcom)for annual KIC challenge.
-
 * Improved confidence, teamwork, presentation abilities, critical thinking skills, and business acumen of more than 100 youth participants of innovation challenge workshops and mentorship program.
-
 * [Supported innovation challenge](https://www.dai.com/news/kosmos-innovation-center-develops-tech-startups-to-solve-agriculture-problems-in-ghana) that selected winners TroTro Tractor Limited and Ghalani Limited, each of which received $50,000 in seed funding and ongoing technical and mentoring assistance from the Meltwater Entrepreneurial School of Technology.
-
 * Contributed to Kosmos Energy being recognized as the CSR Extractive Company of the year for 2016 by the CSR Excellence Awards, and as Outstanding CSR company of 2016 by the Oil and Gas Awards.
