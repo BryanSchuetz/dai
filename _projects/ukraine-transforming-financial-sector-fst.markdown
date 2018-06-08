@@ -29,3 +29,9 @@ At the heart of FST is DAI’s market systems approach to inclusive financial se
 * Partner with local nongovernmental organizations and universities to expand financial literacy among marginalized and hard-to-reach populations by developing educational materials, tools, games, and apps that address new consumer rights and protection laws.
 * Collaborate with leasing and credit union associations to raise awareness of critical business constraints caused by policy and taxation issues, and put forth legislation to facilitate reforms.
 * Support the establishment of a diaspora fund to attract diaspora investment and facilitate access to financing ready SMEs.
+
+### Select Results
+
+* Conducted Financial Awareness Days with partners, the National Bank of Ukraine, VISA, the Deposit Guarantee Fund of Ukraine, Independent Association of Ukrainian Banks, the Banking University, and the Securities and Stock Market National Commission, featuring multiple workshops and lecture sessions for teachers and university professors, high school and university students, business people, vulnerable groups, and the general public. The event attracted more than 10,000 individuals. 
+* Developed a national Financial Empowerment training program for vulnerable populations (internally displaced persons, pensioners, orphans) implemented with partner, the Ukrainian Women's Fund.
+* Implemented a financial literacy course for schoolchildren that is now currently taught in more than 1,000 schools nationwide to 41,000 students.
