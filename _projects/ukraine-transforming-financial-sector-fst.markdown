@@ -23,12 +23,9 @@ At the heart of FST is DAI’s market systems approach to inclusive financial se
 
 ![FST_image.jpg](/uploads/FST_image.jpg)
 
-**Sample Activities**
+### Sample Activities
 
 * Support the development and passage of new legislation that addresses consumer protection and ensures that consumer rights are in place for non-bank financial services.
-
 * Partner with local non-governmental organizations and universities to expand financial literacy among marginalized and hard-to-reach populations by developing educational materials, tools, games, and apps that address new consumer rights and protection laws.
-
 * Collaborate with leasing and credit union associations to raise awareness of critical business constraints caused by policy and taxation issues, and put forth legislation to facilitate reforms.
-
 * Support the establishment of a diaspora fund to attract diaspora investment and facilitate access to financing ready SMEs.
