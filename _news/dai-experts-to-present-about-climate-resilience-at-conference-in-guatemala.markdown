@@ -5,6 +5,11 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - ICT
 regions: Latin America and the Caribbean
+summary: 'DAI has developed a panel for the upcoming Cracking the Nut conference in
+  Antigua, Guatemala, on June 12 and 13. DAI’s panel is about user-centered design
+  for climate resilience and includes the following experts: DAI’s Rob Ryan-Silva
+  and Jonathan Randall, MateoTech’s Norman Avila, and Anacafé’s Mario Choocoj.'
+social-image: "/uploads/Devs----Costenbader-Coffee-Cloud.jpg"
 ---
 
 DAI has developed a panel for the upcoming [Cracking the Nut](https://crackingthenutconference.com/) conference in Antigua, Guatemala, on June 12 and 13. DAI’s panel is about user-centered design for climate resilience and includes the following experts: DAI’s [Rob Ryan-Silva](https://www.dai.com/who-we-are/our-team/robert-ryan-silva) and [Jonathan Randall](https://www.dai.com/who-we-are/our-team/jonathan-randall), MateoTech’s [Norman Avila](https://www.linkedin.com/in/neavilag/), and [Anacafé](https://www.anacafe.org/glifos/index.php/P%C3%A1gina_principal)’s Mario Choocoj.  
