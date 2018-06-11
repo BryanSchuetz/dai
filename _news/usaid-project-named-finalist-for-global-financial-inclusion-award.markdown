@@ -13,11 +13,11 @@ summary: 'Child & Youth Finance International and Argentina''s G20 Presidency 
   Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. '
 ---
 
-Child & Youth Finance International and Argentina’s G20 Presidency have named the Ukraine Financial Sector Transformation (FST) project a finalist for an Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. 
+[Child & Youth Finance International](https://childfinanceinternational.org/initiatives/awards.html) and Argentina’s G20 Presidency have named the [Ukraine Financial Sector Transformation (FST)](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst) project a [finalist](http://childfinanceinternational.org/resources/global-inclusion-awards/2018/GIA_Finalists_2018.pdf) for an Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. 
 
-Winners will be announced in July at the Global Partnership for Financial Inclusion Forum in Riyadh, Saudi Arabia. 
+Winners will be announced in July at the [Global Partnership for Financial Inclusion](https://www.gpfi.org/about-gpfi) Forum in Riyadh, Saudi Arabia. 
 
-“FST has elevated financial awareness and inclusion to a new level in Ukraine,” said Chief of Party Robert Bond. “Our work on consumer lending rights, consumer protection, and personal finance with committed partners such as the National Bank of Ukraine is making a practical difference in the financial culture of Ukraine. It is great to have this recognition of our joint efforts to broaden participation in Ukraine’s financial system.”
+“FST has elevated financial awareness and inclusion to a new level in Ukraine,” said Chief of Party [Robert Bond](https://www.dai.com/who-we-are/our-team/robert-bond). “Our work on consumer lending rights, consumer protection, and personal finance with committed partners such as the National Bank of Ukraine is making a practical difference in the financial culture of Ukraine. It is great to have this recognition of our joint efforts to broaden participation in Ukraine’s financial system.”
 
 The Global Inclusion Awards honor initiatives that further the economic citizenship of children and youth. There are five other categories of awards besides Economic Citizenship: Outstanding Youth Economic Citizenship Award, Global Youth Entrepreneur Award, CYFI Country Award, Global Money Week Award, and Youth Entrepreneurship Country Pioneer Award.
 
