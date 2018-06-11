@@ -2,6 +2,15 @@
 title: USAID Project Named Finalist for Global Financial Inclusion Award
 date: 2018-06-11 13:34:00 Z
 published: false
+solutions:
+- Economic Growth
+- Finance and Investment
+regions: Eastern Europe and Central Asia
+projects: Ukraine—Financial Sector Transformation (FST)
+clients: U.S. Agency for International Development
+summary: 'Child & Youth Finance International and Argentina''s G20 Presidency have
+  named the Ukraine Financial Sector Transformation (FST) project a finalist for an
+  Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. '
 ---
 
 Child & Youth Finance International and Argentina's G20 Presidency have named the Ukraine Financial Sector Transformation (FST) project a finalist for an Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. 
