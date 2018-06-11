@@ -13,7 +13,7 @@ summary: 'Child & Youth Finance International and Argentina''s G20 Presidency 
   Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. '
 ---
 
-Child & Youth Finance International and Argentina's G20 Presidency have named the Ukraine Financial Sector Transformation (FST) project a finalist for an Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. 
+Child & Youth Finance International and Argentina’s G20 Presidency have named the Ukraine Financial Sector Transformation (FST) project a finalist for an Economic Citizenship Award in the G-20 Global Inclusion Awards 2018. 
 
 Winners will be announced in July at the Global Partnership for Financial Inclusion Forum in Riyadh, Saudi Arabia. 
 
