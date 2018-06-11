@@ -1,7 +1,6 @@
 ---
 title: USAID Project Named Finalist for Global Financial Inclusion Award
 date: 2018-06-11 13:34:00 Z
-published: false
 solutions:
 - Economic Growth
 - Finance and Investment
