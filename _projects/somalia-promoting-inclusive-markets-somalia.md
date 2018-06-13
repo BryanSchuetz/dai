@@ -1,5 +1,5 @@
 ---
-title: Somalia—Promoting Inclusive Markets in Somalia
+title: Somalia—Promoting Inclusive Markets in Somalia (PIMS)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market
   development approach, using the Making Markets Work for the Poor (M4P) methodology
