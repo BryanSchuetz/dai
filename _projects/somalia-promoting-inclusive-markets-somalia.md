@@ -1,12 +1,10 @@
 ---
 title: Somalia—Promoting Inclusive Markets in Somalia (PIMS)
 date: 2016-01-21 22:40:00 Z
-summary: 'The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market
-  development approach, using the Making Markets Work for the Poor (M4P) methodology
-  to stimulate inclusive economic growth. PIMS works through the private sector to
-  support the functioning of markets in key sectors by addressing weaknesses in small-scale
-  productive infrastructure, a chronic lack of market information, and limited access
-  to finance. '
+summary: 'The Promoting Inclusive Markets in Somalia (PIMS) programme addresses critical
+  market constraints in Somalia largely through co-investment with Somali firms, to
+  stimulate the creation of long-term jobs, increase smallholder incomes, and leverage
+  private sector investment. '
 start: 2015
 end: 2019
 client: U.K. Department for International Development
@@ -23,11 +21,13 @@ country:
 layout: project
 ---
 
-The Promoting Inclusive Markets in Somalia (PIMS) programme takes a market development approach, using the Making Markets Work for the Poor (M4P) methodology to stimulate inclusive economic growth. PIMS works through the private sector to support the functioning of markets in key sectors by [addressing](http://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia/?utm_source=daidotcom) weaknesses in small-scale productive infrastructure, a chronic lack of market information, and limited access to finance.
+The Promoting Inclusive Markets in Somalia (PIMS) programme addresses critical market constraints in Somalia largely through co-investment with Somali firms, to stimulate the creation of long-term jobs, increase smallholder incomes, and leverage private sector investment. PIMS applies Markets for the Poor (M4P) principles to address the binding constraints in the productive sectors in Somalia, focusing on fostering behaviour change among the smallholder producers, promoting new production technologies and practices. 
 
-The three-year programme will address market constraints to the development of the private sector by facilitating the strengthening of key value chains and focus investment towards these key value chains. PIMS works in Somaliland, Puntland, and Somalia.
+PIMS also builds resilience by creating markets that can withstand climate shocks and maintain livelihoods during cycles of drought and flooding.   
 
-PIMS aims to: generate net attributable income of £25.5 million for poor producers and entrepreneurs; leverage more than $10 million in additional private sector investment; and create 9,000 long-term jobs (4,400 for women in particular). In addition to strengthening value chains, PIMS will also integrate a cash-for-work element.
+The programme supports the development of input and product markets for small producers, entrepreneurs, and consumers in the value chains of livestock, including dairy; fisheries; and food crops such as sesame. PIMS supports lead firms in disseminating new and innovative market and production practices to smallholders and producers, better integrating market actors and systems within and across the targeted value chains. It reinforces success by facilitating knowledge and training opportunities, such as demonstration plots, for producers in adopting high-yielding inputs and more efficient production. In addition, PIMS supports the improvement of existing irrigation systems to provide access to small farmers for more reliable water supply at lower rates than commercial alternatives. PIMS also supports rehabilitation and improvement of poor quality market infrastructure, such as key roads which are critical supply routes for producers to consumers.
+
+PIMS aims to: generate net attributable income of £28,600,000 for poor producers and entrepreneurs; leverage £12.5 million in additional private sector investment; and create 10,500 long-term jobs—5,250 for women in particular. 
 
 ![][1]
 
