@@ -37,5 +37,9 @@ PIMS aims to: generate net attributable income of £28,600,000 for poor producer
 * Conduct M4P training workshops.
 * Engage in detailed value chain analysis in selected sub-sectors.
 
+### Select Results
+
+* Partnered with 25 lead firms that have engaged 335 service providers to support smallholders in the sesame, dairy, and fisheries sectors increase their productivity. To date, 45,775 smallholders (35% women) have benefitted from PIMS support (for example smallholder producers in the sesame sector have increased their productivity from 150-200 kgs/Ha to 450 kgs/Ha).
+
 
 [1]: https://assetify-dai.com/projects/PIMS.jpg
