@@ -8,7 +8,7 @@ summary: 'The Promoting Inclusive Markets in Somalia (PIMS) programme takes a ma
   productive infrastructure, a chronic lack of market information, and limited access
   to finance. '
 start: 2015
-end: 2018
+end: 2019
 client: U.K. Department for International Development
 solutions:
 - Agriculture and Food Security
@@ -31,7 +31,7 @@ PIMS aims to: generate net attributable income of £25.5 million for poor produc
 
 ![][1]
 
-###  Sample Inception Activities
+###  Sample Activities
 
 * Undertake sector selection workshops with engagement from a broad range of Somalian stakeholders.
 * Conduct M4P training workshops.
