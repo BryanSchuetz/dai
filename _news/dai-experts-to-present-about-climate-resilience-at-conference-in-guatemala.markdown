@@ -1,5 +1,5 @@
 ---
-title: DAI Experts to Present About Climate Resilience at Conference in Guatemala
+title: DAI Experts to Present on Climate Resilience at Conference in Guatemala
 date: 2018-06-11 18:49:00 Z
 solutions:
 - Climate Change Adaptation and Mitigation
