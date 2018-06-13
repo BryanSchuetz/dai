@@ -36,11 +36,12 @@ PIMS aims to: generate net attributable income of £28,600,000 for poor producer
 * Undertake sector selection workshops with engagement from a broad range of Somalian stakeholders.
 * Conduct M4P training workshops.
 * Engage in detailed value chain analysis in selected sub-sectors.
+* Assist the Ministry of Agriculture to draft an Irrigation Policy to guide the ministry on sustainable water management, a continued constraint to the growth of sectors in Somalia that are weather-dependent.  
 
 ### Select Results
 
 * Partnered with 25 firms that have engaged 335 service providers to support smallholders in the sesame, dairy, and fisheries sectors increase their productivity. To date, 45,775 smallholders (35 percent women) have benefitted from PIMS support. For example, smallholder producers in the sesame sector have increased their productivity from 150 to 200 kilograms per hectare to 450.
-* Trained 22 companies to meet end market requirements. Among the fish exporting companies that have embraced improved fish handling technologies and practices. This has subsequently contributed to a reduction in fish spoilage from 25% to 4%. PIMS has been monitoring the implementation of the recommended produce handling techniques among the trained lead firms to inform scale up. PIMS is now also in discussion with SGS (a leading certification and verification company with offices in Kenya) to further train more fish and sesame exporters on HACCP compliance and the minimum thresholds required to meet the export market requirements.  
-
+* Trained 22 companies to meet end market requirements. The fish-exporting companies that have embraced improved fish-handling technologies and practices have reduced fish spoilage from 25 percent to 4 percent.  
+* Nearly 59 percent of the supported smallholders have increased their incomes by £9,922,629 and 8,398 full-time jobs have been created. The programme coordinated 10 investment promotion events that contributed to the establishment of 45 business linkages. In total, £7,152,252 private sector investment finance has been leveraged across the target sectors.  
 
 [1]: https://assetify-dai.com/projects/PIMS.jpg
