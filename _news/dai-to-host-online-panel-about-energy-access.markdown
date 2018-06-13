@@ -1,5 +1,5 @@
 ---
-title: DAI to Host Online Panel On Energy Access
+title: DAI to Host Online Panel on Energy Access
 date: 2018-06-04 17:14:00 Z
 solutions:
 - Environment and Energy
