@@ -23,26 +23,8 @@ promos:
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.pdf
 - title: 2017 Annual Program Statement (Word File)
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.docx
-- title: RFP BPA 0001 Event Space Amentities Final
-  link: "/uploads/RFP%20BPA%200001%20Event%20Space%20Amentities%20Final.pdf"
 - title: RFP BPA 0002 Event Rapporteur Services
   link: "/uploads/RFP%20BPA%200002%20Event%20Rapporteur%20Services.pdf"
-- title: RFP BPA 0003 Photographer Services
-  link: "/uploads/RFP%20BPA%200003%20Photographer%20Services.pdf"
-- title: RFP BPA 0004 Accommodations/Hotels
-  link: "/uploads/RFP%20BPA%200004%20Accomodations.Hotels.pdf"
-- title: RFP BPA 0005 Event Multi-media and Simultaneous Translator Services
-  link: "/uploads/RFP%20BPA%200005%20Event%20Multi-media%20and%20Simultaneous%20Translator%20Services.pdf"
-- title: RFP BPA 0006 Transportation Services
-  link: "/uploads/RFP%20BPA%200006%20Transportation%20Services.pdf"
-- title: RFP BPA 0007 Travel Agency
-  link: "/uploads/RFP%20BPA%200007%20Travel%20Agency.pdf"
-- title: EOI 001 Graphic Design Services
-  link: "/uploads/SDGAP%20EOI-0001_Graphic%20Design%20Services%20Final%205.7.18.pdf"
-- title: EOI 002  Event Organizers/Stakeholder Engagement Facilitation
-  link: "/uploads/SDGAP%20EOI-0002_Event%20Organizers_Stakeholder%20Engagement.pdf"
-- title: RFP Colombo TM 0001 Diamond Leader Study
-  link: "/uploads/RFP-%20Colombo-TM-0001%20Diamond%20Leader%20Study-1.pdf"
 - title: RFP Activity Budget Template
   link: "/uploads/Attachment%20C.%20SDGAP%20RFP%20Activity%20Budget%20Template.xlsx"
 ---
