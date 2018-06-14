@@ -67,4 +67,3 @@ The USAID-funded [Sri Lankan Parliament Project][1] (SLPP), also implemented by 
 * Provide technical assistance and grants to support government and civil society stakeholders to address priority laws and policies identified as affecting the rights of women and under-represented groups.
 
 [1]: http://www.dai.com/our-work/projects/short-term-technical-assistance-sri-lankan-parliament-project-slpp
-[SDGAP EOI-0002_Event Organizers_Stakeholder Engagement EXTENSION.PDF](/uploads/SDGAP%20EOI-0002_Event%20Organizers_Stakeholder%20Engagement%20EXTENSION.PDF)
