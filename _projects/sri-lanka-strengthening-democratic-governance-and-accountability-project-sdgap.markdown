@@ -43,6 +43,8 @@ promos:
   link: "/uploads/RFP%20BPA%200008%20Local%20Law%20Advisory%20Services%20Final%20.pdf"
 - title: RFP Colombo TM 0001 Diamond Leader Study EXTENSION
   link: "/uploads/RFP-%20Colombo-TM-0001%20Diamond%20Leader%20Study%20EXTENSION.PDF"
+- title: RFP Colombo TM 0002 Public Awareness Campaign CEIBOC
+  link: "/uploads/RFP-%20Colombo-TM-0002%20Public%20Awareness%20Campaign%20CEIBOC.PDF"
 ---
 
 Sri Lanka's new government has taken bold steps toward political and social change, including reinforcing the central role of parliament, and has introduced and bolstered independent oversight commissions. With a Constitutional Assembly forming to debate a new constitution for further democratic consolidation, the opportunity exists for a renewed partnership between the United States and Sri Lanka. Within this setting, the U.S. Agency for International Development (USAID) launched the Strengthening Democratic Governance and Accountability Project (SDGAP), a three-year program to strengthen public accountability systems; improve planning, communication, policy reform, and implementation; and increase the participation of women and under-represented groups in Sri Lanka. 
@@ -59,4 +61,5 @@ The USAID-funded [Sri Lankan Parliament Project][1] (SLPP), also implemented by 
 * Provide technical assistance and grants to support government and civil society stakeholders to address priority laws and policies identified as affecting the rights of women and under-represented groups.
 
 [1]: http://www.dai.com/our-work/projects/short-term-technical-assistance-sri-lankan-parliament-project-slpp
-[RFP- Colombo-TM-0001 Diamond Leader Study EXTENSION.PDF](/uploads/RFP-%20Colombo-TM-0001%20Diamond%20Leader%20Study%20EXTENSION.PDF)
+
+[RFP- Colombo-TM-0002 Public Awareness Campaign CEIBOC.PDF](/uploads/RFP-%20Colombo-TM-0002%20Public%20Awareness%20Campaign%20CEIBOC.PDF)
