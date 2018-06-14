@@ -33,6 +33,8 @@ promos:
   link: "/uploads/RFP%20BPA%200003%20Photographer%20Services%20EXTENSION.PDF"
 - title: RFP BPA 0004 Accommodations Hotels EXTENSION
   link: "/uploads/RFP%20BPA%200004%20Accomodations.Hotels%20EXTENSION.PDF"
+- title: RFP BPA 0005 Event Multimedia and Simultaneous Translator Services EXTENSION
+  link: "/uploads/RFP%20BPA%200005%20Event%20Multi-media%20and%20Simultaneous%20Translator%20Services%20EXTE....pdf"
 ---
 
 Sri Lanka's new government has taken bold steps toward political and social change, including reinforcing the central role of parliament, and has introduced and bolstered independent oversight commissions. With a Constitutional Assembly forming to debate a new constitution for further democratic consolidation, the opportunity exists for a renewed partnership between the United States and Sri Lanka. Within this setting, the U.S. Agency for International Development (USAID) launched the Strengthening Democratic Governance and Accountability Project (SDGAP), a three-year program to strengthen public accountability systems; improve planning, communication, policy reform, and implementation; and increase the participation of women and under-represented groups in Sri Lanka. 
