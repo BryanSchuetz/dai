@@ -1,7 +1,6 @@
 ---
 title: DAI Health Expert Named Finalist in Global Challenge
 date: 2018-06-18 13:20:00 Z
-published: false
 solutions:
 - Gender
 regions: Sub-Saharan Africa
