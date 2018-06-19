@@ -1,5 +1,5 @@
 ---
-title: Haiti—USAID Water and Sanitation
+title: Haiti—USAID Water and Sanitation project
 date: 2018-01-01 20:11:00 Z
 summary: The USAID Water and Sanitation project works with private-sector partners
   and national and local government institutions in Haiti to help 250,000 people gain
