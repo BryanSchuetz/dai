@@ -21,6 +21,6 @@ regions: Middle East and North Africa
 country: Mauritania
 ---
 
-DAI's Sustainable Business Group (SBG) is reviewing a multinational mining company's plans for local business engagement and conducting a gap analysis to inform recommendations for optimizing supplier development. To provide a robust analysis of the client's operations data, SBG is taking a two-phased approach that reviews quantitative data and validates the results with field-level qualitative questionnaires. The merged data sets will provide an overview of how our client can focus investments to better support its local content strategy. 
- 
+DAI's Sustainable Business Group (SBG) is reviewing a multinational mining company's plans for local business engagement and conducting a gap analysis to inform recommendations for optimizing supplier development. To provide a robust analysis of the client's operations data, SBG is taking a two-phased approach that reviews quantitative data and validates the results with field-level qualitative questionnaires. The merged data sets will provide an overview of how our client can focus investments to better support its local content strategy.
+
 In addition, SBG will provide short- and long-term recommendations that align to the client’s guiding principles and to Mauritania’s national development plan. In doing so, our client will improve its relations with external stakeholders, reduce operational costs, and further establish the company as an outstanding corporate citizen.
