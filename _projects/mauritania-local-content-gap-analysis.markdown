@@ -1,5 +1,5 @@
 ---
-title: Mauritania—Local Content Gap Analysis
+title: Mauritania—Local Content Study
 date: 2018-06-21 21:04:00 Z
 published: false
 tags:
