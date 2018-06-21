@@ -7,6 +7,7 @@ tags:
 - Sustainble Business
 - Local Content
 - Mining
+- Gap Analysis
 summary: The Sustainable Business Group is reviewing a multinational mining company's
   plans for local business engagement and conducting a gap analysis to help optimize
   supplier development.
@@ -14,6 +15,7 @@ start: 2018
 end: 2018
 client: Multinational Corporation
 solutions:
+- Sustainable Business
 - Local Content and Supply Chain Management
 regions: Middle East and North Africa
 country: Mauritania
