@@ -4,15 +4,15 @@ date: 2018-06-25 17:42:00 Z
 published: false
 ---
 
-One year after the combination of DAI and U.K.-based Health Partners International (HPI), DAI today announced that the HPI brand will be retired and HPI will operate under the DAI Global Health banner.
+One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment) of DAI and U.K.-based Health Partners International (HPI), DAI today announced that the HPI brand will be retired and HPI will operate under the DAI Global Health banner.
 
-“Thanks to a close cultural affinity and a shared sense of the global health mission, we have come together quickly as a team and effectively as an organization,” said Chris LeGrand, President of DAI Global Health. “Our new branding will reflect this underlying unity and provide a single, clear market identity for our unified set of services.”
+“Thanks to a close cultural affinity and a shared sense of the global health mission, we have come together quickly as a team and effectively as an organization,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “Our new branding will reflect this underlying unity and provide a single, clear market identity for our unified set of services.”
 
 Founded in 1995, HPI joined with DAI in June 2017, adding to DAI’s portfolio a rich legacy of learning from more than 200 health projects in 40 countries, with an emphasis on strengthening country health systems. HPI’s distinguished network of technical experts is particularly strong in maternal, newborn, and child health, immunization, nutrition, and malaria, as well as in digital health, health economics, health systems management, and community engagement.
 
 “This infusion of HPI’s talent and capability is helping us to realize our vision of bringing 21st-century solutions to global health challenges,” said LeGrand. “With a full year of operational integration under our belt, we are delighted to see the mutual benefits of our combination coming to fruition.”
 
-“HPI’s guiding principle has always been its commitment to delivering high-quality, sustainable health care services accessible for all,” said Rodion Kraus, who served as HPI’s Managing Director and has joined the leadership team of DAI Global Health. “That commitment remains at the heart of the combined firm, but our ability to deliver on it has been amplified exponentially by the scale and reach of the DAI platform—of which we are now an integral part.” 
+“HPI’s guiding principle has always been its commitment to delivering high-quality, sustainable health care services accessible for all,” said [Rodion Kraus](https://www.dai.com/who-we-are/our-team/rodion-kraus), who served as HPI’s Managing Director and has joined the leadership team of DAI Global Health. “That commitment remains at the heart of the combined firm, but our ability to deliver on it has been amplified exponentially by the scale and reach of the DAI platform—of which we are now an integral part.” 
 
 DAI Global Health will maintain HPI’s current offices in Sussex, in the United Kingdom. In terms of day-to-day business relationships, the transition to the single brand will be seamless, with client contacts at the project and corporate level remaining unchanged. 
 
