@@ -6,8 +6,8 @@ summary: Sunil Mehra has 38 years of worldwide experience in health, covering a 
   and multi-disciplinary career which includes senior management positions for 30
   years in organisations and projects leading multi-disciplinary and cross-cultural
   teams at national and international levels.
-job-title: Technical Lead, Disease Control, Elimination, and Eradication, [Health
-  Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Lead, Disease Control, Elimination, and Eradication, [DAI Global
+  Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Sunil%20Mehra%20DAI%20site.jpg"
 solutions:
 - Health
