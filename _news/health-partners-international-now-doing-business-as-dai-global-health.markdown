@@ -2,9 +2,19 @@
 title: Health Partners International Now Doing Business as DAI Global Health
 date: 2018-06-25 17:42:00 Z
 published: false
+is_featured: true
+solutions:
+- Health
+summary: One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+  of DAI and U.K.-based Health Partners International (HPI), DAI today announced that
+  the HPI brand will be retired and HPI will operate under the DAI Global Health banner.
 ---
 
 One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment) of DAI and U.K.-based Health Partners International (HPI), DAI today announced that the HPI brand will be retired and HPI will operate under the DAI Global Health banner.
+
+
+
+
 
 “Thanks to a close cultural affinity and a shared sense of the global health mission, we have come together quickly as a team and effectively as an organization,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “Our new branding will reflect this underlying unity and provide a single, clear market identity for our unified set of services.”
 
