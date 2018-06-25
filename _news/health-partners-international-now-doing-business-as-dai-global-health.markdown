@@ -14,9 +14,7 @@ summary: One year after the [combination](https://www.dai.com/news/dai-acquires-
 
 One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment) of DAI and U.K.-based Health Partners International (HPI), DAI today announced that the HPI brand will be retired and HPI will operate under the DAI Global Health banner.
 
-
-
-
+<!--more-->
 
 “Thanks to a close cultural affinity and a shared sense of the global health mission, we have come together quickly as a team and effectively as an organization,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “Our new branding will reflect this underlying unity and provide a single, clear market identity for our unified set of services.”
 
@@ -28,5 +26,7 @@ Founded in 1995, HPI joined with DAI in June 2017, adding to DAI’s portfolio a
 
 DAI Global Health will maintain HPI’s current offices in Sussex, in the United Kingdom. In terms of day-to-day business relationships, the transition to the single brand will be seamless, with client contacts at the project and corporate level remaining unchanged. 
 
-About DAI
+<aside>
+<p><strong>About DAI</strong></p>
 Founded in 1970, DAI is an employee-owned global development company with corporate offices in the United States, the United Kingdom, and Belgium. Named one of the world’s top 40 international development innovators, DAI works on the front lines of international development, tackling fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability.
+</aside>
