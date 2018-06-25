@@ -26,6 +26,9 @@ Founded in 1995, HPI joined with DAI in June 2017, adding to DAI’s portfolio a
 
 DAI Global Health will maintain HPI’s current offices in Sussex, in the United Kingdom. In terms of day-to-day business relationships, the transition to the single brand will be seamless, with client contacts at the project and corporate level remaining unchanged. 
 
+<br>
+<hr>
+
 <aside>
 <p><strong>About DAI</strong></p>
 Founded in 1970, DAI is an employee-owned global development company with corporate offices in the United States, the United Kingdom, and Belgium. Named one of the world’s top 40 international development innovators, DAI works on the front lines of international development, tackling fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability.
