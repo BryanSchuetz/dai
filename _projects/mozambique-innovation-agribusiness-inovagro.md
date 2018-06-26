@@ -17,7 +17,7 @@ country:
 layout: project
 ---
 
-In Northern Mozambique, small-scale farmers dominate agricultural production but work at subsistence level. In alignment with priorities of the Mozambican government, the Swiss Agency for Development Cooperation is promoting development of inclusive market systems, also known as Making Markets Work for the Poor. InovAgro increases small farmers’ revenue by facilitating sustainable changes in the agricultural market.
+In Northern Mozambique, small-scale farmers dominate agricultural production but work at subsistence level. In alignment with priorities of the Mozambican government, the Swiss Agency for Development Cooperation is promoting development of inclusive market systems, also known as Making Markets Work for the Poor. InovAgro increases small farmers’ revenue by [facilitating sustainable changes](http://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree/) in the agricultural market.
 
 Launched in 2011, InovAgro was initially named the Private Sector Led Agricultural Growth program. The program facilitated the relationship between African Century Agriculture (ACA), one of the largest contract farming operators, and small and emerging farmers; developed activities that resulted in the increase of farmers’ net profit by 18.5 percent, thanks to the commercialization of improved seeds; helped foster the multiplication of new and cheaper varieties of soya bean seed; and created the National Platform for Seed Dialogue.
 
