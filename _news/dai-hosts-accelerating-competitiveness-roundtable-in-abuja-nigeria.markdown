@@ -11,13 +11,9 @@ solutions:
 regions: Sub-Saharan Africa
 projects: East Africa—Trade and Investment Hub
 clients: U.S. Agency for International Development
-summary: 'Abuja, Nigeria—DAI on June 25 hosted leaders from Nigeria business and government
-  for a roundtable to discuss ways to leverage the country’s increased competitiveness
-  for agricultural productivity and broad-based economic growth. The country’s improved
-  position stems from business-friendly reforms and a devalued and stabilized currency—which
-  makes investing inside Nigeria more affordable and exporting more profitable.
-
-'
+summary: 'DAI on June 25 hosted a roundtable in Nigeria to discuss ways to leverage
+  the country’s increased competitiveness for agricultural productivity and broad-based
+  economic growth. '
 ---
 
 Abuja, Nigeria—DAI yesterday hosted leaders from the Nigerian government and local business people for a roundtable on leveraging the country’s increased competitiveness for agricultural productivity and broad-based economic growth.
@@ -32,6 +28,6 @@ Panelists included [Juan Estrada-Valle](https://www.dai.com/who-we-are/our-team/
 
 “We are excited about Nigeria’s potential for economic growth, including in marginalized states that have millions of people who are [ready to step up](http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/),” Abah said. “This roundtable generated some strong recommendations for development. There is no doubt that Nigeria is ready to usher in great growth.”
 
-In addition to the distinguished speakers, the discussions featured senior representatives from international donors, civil society, and implementing partners, including: Dr. Aimiuwu Osagie and Jodi-Kaye Wade of USAID, Richard Ough of the U.K. Department for International Development, Yakasai Abba Bello of the World Bank Global Economic Monitor programme, Olumide Ibikunle of Corteva AgriScience, and Ekenem Isichei of the Corporate Council for Africa.
+In addition to the distinguished speakers, discussions featured senior representatives from international donors, civil society, and implementing partners, including: Dr. Aimiuwu Osagie and Jodi-Kaye Wade of USAID, Richard Ough of the U.K. Department for International Development, Yakasai Abba Bello of the World Bank Global Economic Monitor programme, Olumide Ibikunle of Corteva AgriScience, and Ekenem Isichei of the Corporate Council for Africa.
 
 “Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa,” is the second in a [series](https://www.dai.com/news/dai-hosts-governance-matters-roundtable-in-abuja-nigeria) of high-level events collectively known as the “DAI Development Matters” series, which will seek to strengthen the nexus between central governance institutions (such as planning, budgeting, and human resources) and service delivery performance in key sectors such as health, education, infrastructure, agriculture, and trade and investment.
