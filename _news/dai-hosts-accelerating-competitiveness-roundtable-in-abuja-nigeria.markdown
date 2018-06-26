@@ -22,7 +22,7 @@ The country’s improved position stems from business-friendly reforms and a dev
 
 “Nigeria has done a good job in recent years at chipping away at its bottlenecks for doing business; this resulted in [strong improvement](http://www.doingbusiness.org/reports/global-reports/doing-business-2018) to our World Bank rankings,” said DAI Country Director [Dr. Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), who hosted the roundtable at the Transcorp Hilton in Abuja. “With this improvement, combined with our more affordable investment climate, there has never been a better time to initiate business development in Nigeria.”
 
-![DAI-News----Nigeria-Competitiveness.jpg](/uploads/DAI-News----Nigeria-Competitiveness.jpg)`“Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa” DAI roundtable event in Abuja, Nigeria.`  
+![DAI-News----Nigeria-Competitiveness.jpg](/uploads/DAI-News----Nigeria-Competitiveness.jpg)`DAI roundtable event—“Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa—in Abuja, Nigeria.`  
 
 The roundtable, titled “Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa,” featured discussions on [successful donor-funded assistance](http://dai-global-developments.com/articles/how-can-nigeria-fulfill-its-broad-economic-potential/) in areas such as finance, investment, and trade that can be applied Nigerian agribusiness and beyond.
 
