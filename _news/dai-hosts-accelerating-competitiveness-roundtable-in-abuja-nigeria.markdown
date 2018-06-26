@@ -20,7 +20,7 @@ summary: 'Abuja, Nigeria—DAI on June 25 hosted leaders from Nigeria business a
 '
 ---
 
-Abuja, Nigeria—DAI yesterday hosted leaders from Nigeria business and government for a roundtable to discuss ways to leverage the country’s increased competitiveness for agricultural productivity and broad-based economic growth.
+Abuja, Nigeria—DAI yesterday hosted leaders from the Nigerian government and local business people for a roundtable on leveraging the country’s increased competitiveness for agricultural productivity and broad-based economic growth.
 
 The country’s improved position stems from business-friendly reforms and a devalued and stabilized currency—which makes investing inside Nigeria more affordable and exporting more profitable.
 
