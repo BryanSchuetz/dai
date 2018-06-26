@@ -15,7 +15,7 @@ social-image: "/uploads/lewes%201-7e6dd8.jpg"
 
 One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment) of DAI and U.K.-based Health Partners International (HPI), DAI today announced that the HPI brand will be retired and HPI will operate under the DAI Global Health banner.
 
-![lewes 1.jpg](/uploads/lewes%201.jpg)
+![lewes 1.jpg](/uploads/lewes%201.jpg)`DAI Global Health staff in Lewes, Sussex; Rodion Kraus, far right.`
 
 <!--more-->
 
