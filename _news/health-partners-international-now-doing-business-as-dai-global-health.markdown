@@ -1,6 +1,6 @@
 ---
 title: Health Partners International Now Doing Business as DAI Global Health
-date: 2018-07-01 17:00:00 Z
+date: 2018-07-02 17:00:00 Z
 published: false
 tags:
 - health
@@ -23,7 +23,7 @@ One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group
 
 Founded in 1995, HPI joined with DAI in June 2017, adding to DAI’s portfolio a rich legacy of learning from more than 200 health projects in 40 countries, with an emphasis on strengthening country health systems. HPI’s distinguished network of technical experts is particularly strong in maternal, newborn, and child health, immunization, nutrition, and malaria, as well as in digital health, health economics, health systems management, and community engagement.
 
-“This infusion of HPI’s talent and capability is helping us to realize our vision of bringing 21st-century solutions to global health challenges,” said LeGrand. “With a full year of operational integration under our belt, we are delighted to see the mutual benefits of our combination coming to fruition.”
+“This infusion of HPI’s talent and capability is helping us to realize our vision of bringing 21st Century solutions to global health challenges,” said LeGrand. “With a full year of operational integration under our belt, we are delighted to see the mutual benefits of our combination coming to fruition.”
 
 “HPI’s guiding principle has always been its commitment to delivering high-quality, sustainable health care services accessible for all,” said [Rodion Kraus](https://www.dai.com/who-we-are/our-team/rodion-kraus), who served as HPI’s Managing Director and has joined the leadership team of DAI Global Health. “That commitment remains at the heart of the combined firm, but our ability to deliver on it has been amplified exponentially by the scale and reach of the DAI platform—of which we are now an integral part.” 
 
