@@ -3,11 +3,9 @@ title: Bill Grant
 date: 2016-01-21 22:18:00 Z
 lastname: Grant
 summary: Bill Grant has played an important role in the development and application
-  of subsector and value chain approaches and is currently leading numerous programs
-  applying the [Making Markets Work for the Poor](http://dai-global-developments.com/articles/economic-resilience-among-the-poor-kenyan-dairy-farmers.html?utm_source=daidotcom)
-  approach for private and international donors.
+  of subsector and value chain approaches.
 job-title: Global Practice Lead, Market Systems Development
-image: https://assetify-dai.com/experts/innerbill.jpg
+image: "/uploads/Bill%20photo%203.jpg"
 solutions:
 - Market Insight and Development
 - Economic Growth
