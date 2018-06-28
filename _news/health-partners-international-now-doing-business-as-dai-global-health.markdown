@@ -1,6 +1,6 @@
 ---
 title: Health Partners International Now Doing Business as DAI Global Health
-date: 2018-06-29 17:00:00 Z
+date: 2018-06-28 17:00:00 Z
 published: false
 tags:
 - health
@@ -29,7 +29,7 @@ Founded in 1995, HPI joined with DAI in June 2017, adding to DAI’s portfolio a
 
 DAI Global Health will maintain HPI’s current offices in Sussex, in the United Kingdom. In terms of day-to-day business relationships, the transition to the single brand will be seamless, with client contacts at the project and corporate level remaining unchanged. 
 
-WISE Development will retain the WISE brand and will continue to operate as a DAI Global company, providing [cross-sectoral gender](https://www.dai.com/our-work/solutions/economic-growth-solutions/gender) and social inclusion expertise across the DAI portfolio.
+WISE Development will continue to operate as an important part of DAI Global, providing cross-sectoral gender and social inclusion [expertise](https://www.dai.com/our-work/solutions/economic-growth-solutions/gender) across the DAI portfolio.
 
 <br>
 <hr>
