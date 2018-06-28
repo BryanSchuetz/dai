@@ -29,7 +29,7 @@ Founded in 1995, HPI joined with DAI in June 2017, adding to DAI’s portfolio a
 
 DAI Global Health will maintain HPI’s current offices in Sussex, in the United Kingdom. In terms of day-to-day business relationships, the transition to the single brand will be seamless, with client contacts at the project and corporate level remaining unchanged. 
 
-WISE Development will continue to operate as an important part of DAI Global, providing cross-sectoral gender and social inclusion [expertise](https://www.dai.com/our-work/solutions/economic-growth-solutions/gender) across the DAI portfolio.
+WISE Development, part of the former HPI Group, will continue to operate as part of DAI Global, providing cross-sectoral gender and social inclusion [expertise](https://www.dai.com/our-work/solutions/economic-growth-solutions/gender) across the DAI portfolio.
 
 <br>
 <hr>
