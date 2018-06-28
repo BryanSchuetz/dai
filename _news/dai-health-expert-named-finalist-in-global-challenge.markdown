@@ -18,7 +18,7 @@ social-image: "/uploads/Fatima%20Adamu%20dai%20site-62c0f5.jpg"
 
 ![Fatima Adamu dai site-4a4687.jpg](/uploads/Fatima%20Adamu%20dai%20site-4a4687.jpg){:.float-left} DAI Global Health’s [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu) has been named a finalist in the “Challenging Norms, Powering Economies” Challenge, an initiative of Ashoka, Open Society Foundation, and UN Women.
 
-The [Challenge](https://womenschallenge.ashoka.org/) “seeks to connect women changemakers who are collaborating with unlikely partners—across businesses, governments, and many other sectors—while supporting their organizations’ efforts to promote gender equality and economic empowerment.
+The [Challenge](https://womenschallenge.ashoka.org/) “seeks to connect women changemakers who are collaborating with unlikely partners—across businesses, governments, and many other sectors—while supporting their organizations’ efforts to promote gender equality and economic empowerment."
 
 Adamu, a sociologist by training, has expertise in gender, poverty, and equity issues in northern Nigeria. She currently works on the [Women for Health (W4H)](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h) programme, funded by the U.K. Department for International Development.
 
