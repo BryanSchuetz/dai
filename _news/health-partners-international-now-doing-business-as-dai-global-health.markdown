@@ -1,7 +1,6 @@
 ---
 title: Health Partners International Now Doing Business as DAI Global Health
-date: 2018-06-28 17:00:00 Z
-published: false
+date: 2018-06-28 15:00:00 Z
 tags:
 - health
 is_featured: true
