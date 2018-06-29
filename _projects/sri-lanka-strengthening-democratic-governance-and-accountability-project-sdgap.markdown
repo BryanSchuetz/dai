@@ -51,6 +51,18 @@ promos:
   link: "/uploads/SDGAP%20EOI-0001_Graphic%20Design%20Services%20Final%20EXTENSION.PDF"
 - title: EOI 0002 Event Organizers Stakeholder Engagement EXTENSION
   link: "/uploads/SDGAP%20EOI-0002_Event%20Organizers_Stakeholder%20Engagement%20EXTENSION.PDF"
+- title: RFQ SDGAP BPA Colombo Office Stationery Supplies
+  link: "/uploads/RFQ-SDGAP-BPA-Colombo-009%20Office%20Stationery%20Supplies.doc"
+- title: RFQ SDGAP BPA Colombo 010 Office Stationery Supplies
+  link: "/uploads/RFQ-SDGAP-BPA-Colombo-010%20Office%20Stationery%20Supplies.doc"
+- title: RFQ SDGAP BPA Colombo 011 Printing Services
+  link: "/uploads/RFQ-SDGAP-BPA-Colombo-011%20Printing%20Services.doc"
+- title: RFQ SDGAP BPA Col 09 Stationery Price Schedule
+  link: "/uploads/RFQ-SDGAP-BPA-Col-09%20Stationary%20Price%20schedule.xlsx"
+- title: RFQ SDGAP BPA Col 0010 Office Supplies Price Schedule
+  link: "/uploads/RFQ-SDGAP-BPA-COL-0010%20Office%20Supplies%20Price%20schedule.xlsx"
+- title: RFQ SDGAP BPA Col 11 Printing Price Schedule
+  link: "/uploads/RFQ-SDGAP-BPA-COL-11%20Printing%20Price%20schedule.xlsx"
 ---
 
 Sri Lanka's new government has taken bold steps toward political and social change, including reinforcing the central role of parliament, and has introduced and bolstered independent oversight commissions. With a Constitutional Assembly forming to debate a new constitution for further democratic consolidation, the opportunity exists for a renewed partnership between the United States and Sri Lanka. Within this setting, the U.S. Agency for International Development (USAID) launched the Strengthening Democratic Governance and Accountability Project (SDGAP), a three-year program to strengthen public accountability systems; improve planning, communication, policy reform, and implementation; and increase the participation of women and under-represented groups in Sri Lanka. 
