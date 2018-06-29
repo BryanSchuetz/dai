@@ -4,6 +4,7 @@ date: 2018-06-26 14:07:00 Z
 tags:
 - economic growth
 - Nigeria
+is_featured: true
 solutions:
 - Economic Growth
 - Business Environment Reform
@@ -18,11 +19,13 @@ summary: 'DAI on June 25 hosted a roundtable in Nigeria to discuss ways to lever
 
 Abuja, Nigeria—DAI yesterday hosted leaders from the Nigerian government and local business people for a roundtable on leveraging the country’s increased competitiveness for agricultural productivity and broad-based economic growth.
 
+![DAI-News----Nigeria-Competitiveness.jpg](/uploads/DAI-News----Nigeria-Competitiveness.jpg)`DAI roundtable event—Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa—in Abuja, Nigeria.`  
+
+<!--more-->
+
 The country’s improved position stems from business-friendly reforms and a devalued and stabilized currency—which makes investing inside Nigeria more affordable and exporting more profitable.
 
 “Nigeria has done a good job in recent years at chipping away at its bottlenecks for doing business; this resulted in [strong improvement](http://www.doingbusiness.org/reports/global-reports/doing-business-2018) to our World Bank rankings,” said DAI Country Director [Dr. Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), who hosted the roundtable at the Transcorp Hilton in Abuja. “With this improvement, combined with our more affordable investment climate, there has never been a better time to initiate business development in Nigeria.”
-
-![DAI-News----Nigeria-Competitiveness.jpg](/uploads/DAI-News----Nigeria-Competitiveness.jpg)`DAI roundtable event—Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa—in Abuja, Nigeria.`  
 
 The roundtable, titled “Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa,” featured discussions on [successful donor-funded assistance](http://dai-global-developments.com/articles/how-can-nigeria-fulfill-its-broad-economic-potential/) in areas such as finance, investment, and trade that can be applied Nigerian agribusiness and beyond.
 
