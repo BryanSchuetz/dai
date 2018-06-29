@@ -1,0 +1,22 @@
+// Bootstrap v3.3.1 - Customize Bootstrap's components @ http://getbootstrap.com/customize/
+// @import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css';
+// Font Awesome v4.7.0
+// @import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+// Lity Lightbox
+// @import 'https://cdnjs.cloudflare.com/ajax/libs/lity/2.2.0/lity.min.css';
+
+@import 'mixins',
+        'colors',
+        'fonts',
+        'base',
+        'buttons',
+        'flexbox',
+        'hamburgers',
+        'slick';
+
+@import '../../components/**/*.scss';
+
+// IE 10+ 
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { }
+// Firefox
+@-moz-document url-prefix() { }

@@ -1,0 +1,61 @@
+$primary_font:    "proxima-nova", sans-serif;
+$secondary_font:  "acumin-pro", "Arial", "Helvetica", sans-serif;
+
+.main-title {
+  font-family: $primary_font;
+  position: relative;
+  font-size: 52px;
+  font-weight: 400;
+  line-height: 1;
+  @media (max-width: 1199px) {
+    font-size: 45px;
+  }
+  @media (max-width: 767px) {
+    font-size: 32px;
+    line-height: 1.2;
+    display: inline-block;
+    position: relative;
+    border-bottom: solid 1px lighten($main-body-color, 40%);
+    padding-bottom: 20px;
+  }
+  @media (max-width: 599px) {
+    font-size: 28px;
+  }
+  &.line {
+    padding-bottom: 35px;
+    @media (max-width: 767px) {
+      padding-bottom: 20px;
+    }
+    &:after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        max-width: 300px;
+        height: 1px;
+        bottom: 0;
+        left: 0;
+        background: lighten($main-body-color, 40%);
+        @media (max-width: 767px) {
+          max-width: 100%;
+          display: none;
+        }
+    }
+  }
+}
+
+.body-copy {
+  margin-top: 5px;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @extend .title;
+  font-weight: 600;
+}
+
+p {
+  font-family: $primary_font;
+  font-weight: 300;
+  font-size: 16px;
+}

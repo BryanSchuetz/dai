@@ -1,0 +1,83 @@
+/* ----------------------------------------------------------
+FLEXBOX
+---------------------------------------------------------- */
+
+// Breakpoints
+$desktop: 1200px;
+$tablet: 992px;
+$phone: 768px;
+
+/* -------------------------------------------------------- */
+
+.flex {
+  display: flex;
+}
+
+.flex--wrap {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.flex--no-wrap {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+
+.flex--center { // Center the item
+  margin: auto;
+}
+
+.flex--top { // Shift item to top
+  margin-bottom: auto;
+  width: 100%;
+}
+
+.flex--right { // Shift item to the right
+  margin-left: auto;
+}
+
+.flex--bottom { // Shift item to bottom
+  margin-top: auto;
+  width: 100%;
+}
+
+.flex--left { // Shift item to the left
+  margin-right: auto;
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default */
+@for $i from 1 through 100 {
+  .flex-xs-#{$i} {
+    flex: 1 round(percentage($i/100)); // flex-xs-1 ... flex-xs-100
+  }
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: ($phone)) {
+  @for $i from 1 through 100 { 
+    .flex-sm-#{$i} {
+      flex: 1 round(percentage($i/100)); // flex-sm-1 ... flex-sm-100
+    }
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: ($tablet)) {
+  @for $i from 1 through 100 {
+    .flex-md-#{$i} {
+      flex: 1 round(percentage($i/100)); // flex-md-1 ... flex-md-100
+    }
+  }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: ($desktop)) {
+  @for $i from 1 through 100 {
+    .flex-lg-#{$i} {
+      flex: 1 round(percentage($i/100)); // flex-lg-1 ... flex-lg-100
+    }
+  }
+}

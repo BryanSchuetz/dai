@@ -1,0 +1,65 @@
+$blue:      #499BD5;
+$blue-light:#8FC3EA; 
+$red:       #D90118;
+$orange:    #FE9D15;
+$green:     #5FB05F;
+$black:     #000000;
+$white:     #FFFFFF;
+$brown:     #65491D;
+$grey:      #B4B4B4;
+$grey-light:#EDEDED;
+
+$primary-color: $blue;
+$success-color: $green;
+$info-color: $blue-light;
+$warning-color: $brown;
+$danger-color:  $red;
+
+// Navbar
+$top-navbar-color: #313C40;
+$main-navbar-color: #F2F0ED;
+$navbar-link-color: #aaa7a2;
+$navbar-active-link-color: #1C242B;
+
+// Body
+$main-body-color: #575757;
+
+// Footer
+$footer-color: #313C40;
+
+
+.btn {
+  &-primary {
+    @include buttonColor($primary-color, white);
+  }
+  &-success {
+    @include buttonColor($success-color, white);
+  }
+  &-info {
+    @include buttonColor($info-color, white);
+  }
+  &-warning {
+    @include buttonColor($warning-color, white);
+  }
+  &-danger {
+    @include buttonColor($danger-color, white);
+  }
+}
+
+.text {
+  &-primary {
+    color: $primary-color;
+  }
+  &-success {
+    color: $success-color;
+  }
+  &-info {
+    color: $info-color;
+  }
+  &-warning {
+    color: $warning-color;
+  }
+  &-danger {
+    color: $danger-color;
+  }
+}

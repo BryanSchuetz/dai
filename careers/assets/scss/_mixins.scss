@@ -1,0 +1,75 @@
+.transition-basic {
+  transition: all 0.4s ease;
+}
+
+// media queries
+$breakpoints: ( 
+  'small': 480px, 
+  'medium': 768px, 
+  'large': 992px, 
+  'x-large': 1200px
+);
+
+@mixin respond-to($breakpoint, $min-max:min-width) {
+	@media ($min-max: map-get($breakpoints, $breakpoint)) {
+		@content;
+	}
+}
+
+// Back Image
+@mixin backImage($image, $opacity: 0) {
+  background-image: linear-gradient(rgba(0, 0, 0, $opacity), rgba(0, 0, 0, $opacity)), url($image);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+// Form Placeholder Color
+@mixin placeholderColor($color) { // use within form class
+	::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	  color: $color;
+	}
+	::-moz-placeholder { /* Firefox 19+ */
+	  color: $color;
+	}
+	:-ms-input-placeholder { /* IE 10+ */
+	  color: $color;
+	}
+	:-moz-placeholder { /* Firefox 18- */
+	  color: $color;
+	}
+}
+
+// Button Color
+@mixin buttonColor($bg-color, $text-color) {
+  background: $bg-color;
+  border-color: $bg-color;
+  color: $text-color;
+  &:hover,
+  &:active,
+  &:focus,
+  &:target {
+    background: darken($bg-color, 10%);
+    border-color: darken($bg-color, 10%);
+  }
+}
+
+// Button w/ Icon
+@mixin buttonAndIcon($bg-color, $color, $icon) {
+  max-width: 210px;
+  width: 100%;
+  text-align: left;
+  background: $bg-color url($icon) no-repeat 95% 50%; /* For more icons visit https://www.iconfinder.com/search/?q=arrow+down&price=free */
+  background-size: 25px 25px;
+  padding: 12px 15px;
+  color: $color;
+  &:hover,
+  &:active,
+  &:focus,
+  &:target {
+    color: $color;
+    background: darken($bg-color, 10%) url($icon) no-repeat 95% 50%; /* For more icons visit https://www.iconfinder.com/search/?q=arrow+down&price=free */
+    background-size: 25px 25px;
+    border-color: darken($bg-color, 10%);
+  }
+}
