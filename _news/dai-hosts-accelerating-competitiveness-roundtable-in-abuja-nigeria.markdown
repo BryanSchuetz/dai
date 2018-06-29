@@ -17,7 +17,7 @@ summary: 'DAI on June 25 hosted a roundtable in Nigeria to discuss ways to lever
   economic growth. '
 ---
 
-Abuja, Nigeria—DAI yesterday hosted leaders from the Nigerian government and local business people for a roundtable on leveraging the country’s increased competitiveness for agricultural productivity and broad-based economic growth.
+Abuja, Nigeria—DAI recently hosted leaders from the Nigerian government and local business people for a roundtable on leveraging the country’s increased competitiveness for agricultural productivity and broad-based economic growth.
 
 ![DAI-News----Nigeria-Competitiveness.jpg](/uploads/DAI-News----Nigeria-Competitiveness.jpg)`DAI roundtable event—Accelerating Nigeria’s Improving Agricultural Competitiveness: Lessons from East Africa—in Abuja, Nigeria.`  
 
