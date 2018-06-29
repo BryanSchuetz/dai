@@ -4,7 +4,7 @@ date: 2017-06-02 11:49:00 Z
 lastname: Adamu
 summary: 'Fatima Adamu is a sociologist by training with particular expertise in gender,
   poverty, and equity issues in northern Nigeria. '
-job-title: Technical Lead, Education for Women in Health, [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Lead, Education for Women in Health, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Fatima%20Adamu%20dai%20site.jpg"
 solutions:
 - Health

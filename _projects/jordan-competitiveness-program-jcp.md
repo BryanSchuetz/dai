@@ -5,7 +5,7 @@ summary: 'JCP activities align with the goals and opportunities of the Jordan Co
   which coordinates donor responses to the Syrian Refugee Crisis. The program’s three
   complementary work streams focus on investment, exports, and business enabling environment. '
 start: 2013
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Business Environment Reform
@@ -40,17 +40,11 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 ###  Select Results
 
 * Streamlined process for participating in the Jordan-EU Trade Agreement, which designated 18 development zones throughout the country to participate in the trade-facilitation program.
-
 * Published Arabic version of a comprehensive Export Guide aimed at Jordanian small- and medium-sized enterprises to encourage Jordanian exports to the European Union. 
-
 * Developed profiles of African markets—Ethiopia, the Ivory Coast, Kenya, South Africa, and Tanzania—to enhance new trade around the trade barriers resulting from regional conflicts.
-
 * Launched Jordanian Medical Tourism Initiative to boost Jordan’s competitiveness in the sector and increase investment and export opportunities—with an eye to creating jobs.
-
 * Launched National Home Care Initiative with the King Hussein Cancer Center to advance the home care services industry and create an expected 1,800 jobs beyond the life of JCP.
-
 * Streamlined the Drug Registration Process to greatly reduce the time for private-sector pharmaceutical manufacturers to have a new drug approved for sale; each new drug creates 16 jobs and $1 million in sales revenue.
-
 * Supported region's first Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
 
 [1]: http://www.jcp-jordan.org/

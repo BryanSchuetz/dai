@@ -5,7 +5,7 @@ lastname: Bettencourt
 summary: Dorival Bettencourt is a private sector development specialist with extensive
   policy and oil and gas industry experience.
 job-title: Oil and Gas Manager, Sustainable Business Group
-image: "/uploads/Dorival_Bettencourt_photo.jpg"
+image: "/uploads/Dorival%20web.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
