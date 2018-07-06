@@ -153,7 +153,7 @@ exclude:
 - ".DS_Store"
 - vendor
 - node_modules
-- build
+- /build
 - browser-sync.js
 unpublished: true
 sass:
