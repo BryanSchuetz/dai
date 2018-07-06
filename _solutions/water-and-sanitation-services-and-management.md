@@ -5,6 +5,8 @@ permalink: "/our-work/solutions/environment-and-energy-solutions/water-and-sanit
 solutions:
 - Environment and Energy
 layout: solution
+redirect_from: 
+  - "/wash"
 hero: true
 ---
 
