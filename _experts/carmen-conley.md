@@ -1,27 +1,27 @@
 ---
-title: Carmen Lane
-date: 2016-01-21 22:18:43.395000000 Z
+title: Carmen Conley
+date: 2016-01-21 22:18:00 Z
 lastname: Lane
-regions:
-- Eastern Europe and Central Asia
-- Middle East and North Africa
-solutions:
-- Institutional and Policy Reform
-- Governance
-layout: expert
-image: https://assetify-dai.com/experts/Lane_Inner.jpg
 summary: While in graduate school for international development, Carmen Lane was surprised
   to learn there was an emerging field of international democracy assistance, where
   she could apply her practical U.S. political experience in campaigns to her development
   studies.
 job-title: Global Practice Lead, Institutional Reform
+image: https://assetify-dai.com/experts/Lane_Inner.jpg
+solutions:
+- Institutional and Policy Reform
+- Governance
+regions:
+- Eastern Europe and Central Asia
+- Middle East and North Africa
 articles:
 - name: Parliamentary Strengthening through the Lens of a Decade of Assistance to
     Pakistan’s National and Provincial Parliaments, U.K. Parliament
   article_file: http://data.parliament.uk/WrittenEvidence/CommitteeEvidence.svc/EvidenceDocument/International%20Development/Parliamentary%20Strengthening/written/13624.html
+layout: expert
 ---
 
-While in graduate school for international development, Carmen Lane was surprised to learn there was an emerging field of international democracy assistance, where she could apply her practical U.S. political experience in campaigns to her development studies. Thus began her five-year career with the National Democratic Institute where she played a supporting role in historic democratic transitions in South Africa, Malawi, and Mozambique, and in the peace process in Angola.
+While in graduate school for international development, Carmen Conley was surprised to learn there was an emerging field of international democracy assistance, where she could apply her practical U.S. political experience in campaigns to her development studies. Thus began her five-year career with the National Democratic Institute where she played a supporting role in historic democratic transitions in South Africa, Malawi, and Mozambique, and in the peace process in Angola.
 
 > "Of the many great things about working for DAI is the great sense of team work, the ability to work across technical areas, and the opportunity to work long-term in the field and bring that knowledge and expertise back to the home office." — Carmen Lane
 
