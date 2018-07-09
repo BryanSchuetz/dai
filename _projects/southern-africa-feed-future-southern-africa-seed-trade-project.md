@@ -36,7 +36,7 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 
 * Synchronize assistance in Malawi, Zambia, and Zimbabwe with the Common Market for Eastern and Southern Africa Seed Harmonisation Implementation Plan.
 
-* Transfer technology and management practices that prioritize and scale up regional variety registration and seed certification models.
+* Transfer technology and management practices that [prioritize](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) and scale up regional variety registration and seed certification models.
 
 ### Select Results
 
