@@ -33,7 +33,7 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 
 ###  Sample Activities
 
-* Position Jordanian clusters within global value chains.
+* [Position Jordanian clusters](http://dai-global-developments.com/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan/) within global value chains.
 * Create jobs for young people and women, in and outside of Amman.
 * Lead the Project Management Unit of the Jordan Compact—see above.
 
