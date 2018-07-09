@@ -31,7 +31,7 @@ Since its inception, *Alif Ailaan* has embedded specific education issues into t
 * Make sure parents know and understand that a quality education free of cost is the Constitutional right of every child.
 * Lobby politicians and policy makers at the highest levels to make education a national priority.
 * Build alliances with grassroots organisations and civil society to campaign more effectively for education reform.
-* Support provincial education departments in carrying out activities that promote education for all.
+* Support provincial education departments in carrying out activities that promote [education for all](http://dai-global-developments.com/articles/new-dfid-guidance-aims-to-improve-emergency-schooling-for-millions-of-displaced-children/).
 * Provide financial support to partner organisations working to address education-related issues.
 * Conduct research to better understand the problems Pakistan faces in the field of education and to find solutions.
 
