@@ -2,13 +2,24 @@
 title: Evaluation Shares Lessons Learned from DAI-Led Water Project in Indonesia
 date: 2018-07-11 19:11:00 Z
 published: false
+solutions:
+- Environment and Energy
+- Water and Sanitation Services and Management
+- 
+regions: Asia and the Pacific
+projects: Indonesia—Environmental Services Program (ESP)
+clients: U.S. Agency for International Development
+summary: 'A recent report that evaluated the sustainability of a DAI-led water resources
+  and natural resource management program in Indonesia from 2004 to 2010 has shown
+  that the majority of the partner water utilities continued to experience success
+  after the donor-funded project ended. '
 ---
 
 A recent report that evaluated the sustainability of a DAI-led water resources and natural resource management program in Indonesia from 2004 to 2010 has shown that the majority of the partner water utilities continued to experience success after the donor-funded project ended. 
 
-The Environmental Services Program (ESP) worked closely with water utilities to help them expand and improve their services by connecting more people to high-quality, piped water in their homes, ultimately reaching 1.8 million people. While ESP was broader in scope than just providing access to water resources and services, the U.S. Agency for International Development commissioned the evaluation for the purpose of “understanding why the outcomes of its completed water, sanitation, and hygiene (WASH) activities have or have not been sustained.”
+The [Environmental Services Program (ESP)](https://www.dai.com/our-work/projects/indonesia-environmental-services-program-esp) worked closely with water utilities to help them expand and improve their services by connecting more people to high-quality, piped water in their homes, ultimately reaching 1.8 million people. While ESP was broader in scope than just providing access to water resources and services, the U.S. Agency for International Development commissioned the evaluation for the purpose of “understanding why the outcomes of its completed water, sanitation, and hygiene (WASH) activities have or have not been sustained.”
 
-The evaluation was restricted to utilities that had not benefitted from follow-on WASH interventions—such as the current Urban Water, Sanitation, and Hygiene (IUWASH PLUS) project—and had not been affected by tsunami disaster and relief efforts.
+The evaluation was restricted to utilities that had not benefitted from follow-on WASH interventions—such as the current [Urban Water, Sanitation, and Hygiene (IUWASH PLUS)](https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash) project—and had not been affected by tsunami disaster and relief efforts.
 
 ### Never Underestimate the Manual
 
@@ -38,4 +49,4 @@ The evaluation team recommended the following for future USAID water projects:
 * USAID should consider ways to facilitate coordination among various government water access efforts to avoid competing programs.
 * Annual performance monitoring, particularly when accompanied by incentives for good performance, can help motivate water utilities to continue improving their operating performance.
 
-See the entire report here.
+See the entire report [here](https://www.globalwaters.org/resources/assets/indonesia-environmental-service-program-esp-evaluation).
