@@ -27,7 +27,7 @@ The second phase of InovAgro started in January 2014 and aims to assist 15,000 p
 
 ## Sample Activities
 
-* Increase access to certified seeds and other inputs.
+* [Increase access](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) to certified seeds and other inputs.
 * Help suppliers and output buyers develop embedded extension services.
 * Strengthen farmers’ associations.
 * Facilitate increased mechanization services.

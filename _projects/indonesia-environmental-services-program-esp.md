@@ -1,25 +1,25 @@
 ---
 title: Indonesia—Environmental Services Program (ESP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2004
-end: 2010
-regions:
-- Asia and the Pacific
-country:
-- Indonesia
-solutions:
-- Environment and Energy
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'In Indonesia, 100 million people lack access to clean water, and many households
   in densely populated areas are not served by existing piped water. This project
   developed an innovative "ridge to reef" approach that leveraged the inextricable
   connection between health and the environment.
 
 '
+start: 2004
+end: 2010
+client: U.S. Agency for International Development
+solutions:
+- Environment and Energy
+regions:
+- Asia and the Pacific
+country:
+- Indonesia
+layout: project
 ---
 
-In Indonesia, 100 million people lack access to clean water, and many households in densely populated areas are not served by existing piped water. This project developed an innovative "ridge to reef" approach that leveraged the inextricable connection between health and the environment. It expanded access to clean water by protecting upland raw water sources while working with water providers and users in the lowlands to increase access to water and sanitation services.
+In Indonesia, 100 million people lack access to clean water, and many households in densely populated areas are not served by existing piped water. This project developed an innovative "ridge to reef" approach that leveraged the inextricable connection between health and the environment. It expanded access to clean water by protecting upland raw water sources while [working with water providers](https://www.globalwaters.org/resources/assets/indonesia-environmental-service-program-esp-evaluation) and users in the lowlands to increase access to water and sanitation services.
 
 ![][1]
 

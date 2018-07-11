@@ -31,7 +31,7 @@ The Land Investment for Transformation (LIFT) programme, funded by the U.K. Depa
 * Implement a second-level land certification process to register 14 million parcels of rural land, with 70 percent of holders being women, either jointly or individually.
 * Establish a rural land administration system to sustain the certification process and ensure [security of land holdings for farmers.](http://www.seepnetwork.org/blog/improved-land-security-promotes-financial-inclusion-ethiopian-farmers)
 * [Increase access to credit](https://beamexchange.org/community/blogs/2017/11/13/land-tenure-security-financial-inclusion/) and improve policies and institutions to enhance opportunities for rental lands and land service providers.
-* Promote investment by farmers such as planting trees and using improved seeds and agricultural practices.
+* Promote investment by farmers such as planting trees and using [improved seeds](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) and agricultural practices.
 
 ### Select Results
 

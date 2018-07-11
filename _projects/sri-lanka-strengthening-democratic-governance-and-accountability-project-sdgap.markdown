@@ -25,32 +25,18 @@ promos:
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.docx
 - title: RFP BPA 0002 Event Rapporteur Services
   link: "/uploads/RFP%20BPA%200002%20Event%20Rapporteur%20Services.pdf"
-- title: RFP Activity Budget Template
-  link: "/uploads/Attachment%20C.%20SDGAP%20RFP%20Activity%20Budget%20Template-bf25cc.xlsx"
-- title: RFP BPA 0001 Event Space Amenities Final EXTENSION
-  link: "/uploads/RFP%20BPA%200001%20Event%20Space%20Amentities%20Final%20EXTENSION.PDF"
-- title: RFP BPA 0003 Photographer Services EXTENSION
-  link: "/uploads/RFP%20BPA%200003%20Photographer%20Services%20EXTENSION.PDF"
-- title: RFP BPA 0004 Accommodations Hotels EXTENSION
-  link: "/uploads/RFP%20BPA%200004%20Accomodations.Hotels%20EXTENSION.PDF"
-- title: RFP BPA 0005 Event Multimedia and Simultaneous Translator Services EXTENSION
-  link: "/uploads/RFP%20BPA%200005%20Event%20Multi-media%20and%20Simultaneous%20Translator%20Services%20EXTE....pdf"
-- title: RFP BPA 0006 Transportation Services EXTENSION
-  link: "/uploads/RFP%20BPA%200006%20Transportation%20Services%20EXTENSION.PDF"
-- title: RFP BPA 0007 Travel Agency EXTENSION
-  link: "/uploads/RFP%20BPA%200007%20Travel%20Agency%20EXTENSION.PDF"
-- title: RFP BPA 0008 Local Law Advisory Services Final
-  link: "/uploads/RFP%20BPA%200008%20Local%20Law%20Advisory%20Services%20Final%20.pdf"
-- title: RFP Colombo TM 0001 Diamond Leader Study EXTENSION
-  link: "/uploads/RFP-%20Colombo-TM-0001%20Diamond%20Leader%20Study%20EXTENSION.PDF"
-- title: RFP Colombo TM 0002 Public Awareness Campaign CEIBOC
-  link: "/uploads/RFP-%20Colombo-TM-0002%20Public%20Awareness%20Campaign%20CEIBOC.PDF"
-- title: 'RFP Colombo TM 0003 Event Management '
-  link: "/uploads/RFP-%20Colombo-TM-0003%20Event%20Management%20.pdf"
-- title: EOI 0001 Graphic Design Services Final EXTENSION
-  link: "/uploads/SDGAP%20EOI-0001_Graphic%20Design%20Services%20Final%20EXTENSION.PDF"
-- title: EOI 0002 Event Organizers Stakeholder Engagement EXTENSION
-  link: "/uploads/SDGAP%20EOI-0002_Event%20Organizers_Stakeholder%20Engagement%20EXTENSION.PDF"
+- title: RFQ SDGAP BPA Colombo Office Stationery Supplies
+  link: "/uploads/RFQ-SDGAP-BPA-Colombo-009%20Office%20Stationery%20Supplies.doc"
+- title: RFQ SDGAP BPA Colombo 010 Office Stationery Supplies
+  link: "/uploads/RFQ-SDGAP-BPA-Colombo-010%20Office%20Stationery%20Supplies.doc"
+- title: RFQ SDGAP BPA Colombo 011 Printing Services
+  link: "/uploads/RFQ-SDGAP-BPA-Colombo-011%20Printing%20Services.doc"
+- title: RFQ SDGAP BPA Col 09 Stationery Price Schedule
+  link: "/uploads/RFQ-SDGAP-BPA-Col-09%20Stationary%20Price%20schedule.xlsx"
+- title: RFQ SDGAP BPA Col 0010 Office Supplies Price Schedule
+  link: "/uploads/RFQ-SDGAP-BPA-COL-0010%20Office%20Supplies%20Price%20schedule.xlsx"
+- title: RFQ SDGAP BPA Col 11 Printing Price Schedule
+  link: "/uploads/RFQ-SDGAP-BPA-COL-11%20Printing%20Price%20schedule.xlsx"
 ---
 
 Sri Lanka's new government has taken bold steps toward political and social change, including reinforcing the central role of parliament, and has introduced and bolstered independent oversight commissions. With a Constitutional Assembly forming to debate a new constitution for further democratic consolidation, the opportunity exists for a renewed partnership between the United States and Sri Lanka. Within this setting, the U.S. Agency for International Development (USAID) launched the Strengthening Democratic Governance and Accountability Project (SDGAP), a three-year program to strengthen public accountability systems; improve planning, communication, policy reform, and implementation; and increase the participation of women and under-represented groups in Sri Lanka. 

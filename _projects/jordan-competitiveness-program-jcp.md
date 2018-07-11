@@ -33,7 +33,7 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 
 ###  Sample Activities
 
-* Position Jordanian clusters within global value chains.
+* [Position Jordanian clusters](http://dai-global-developments.com/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan/) within global value chains.
 * Create jobs for young people and women, in and outside of Amman.
 * Lead the Project Management Unit of the Jordan Compact—see above.
 
@@ -46,5 +46,6 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 * Launched National Home Care Initiative with the King Hussein Cancer Center to advance the home care services industry and create an expected 1,800 jobs beyond the life of JCP.
 * Streamlined the Drug Registration Process to greatly reduce the time for private-sector pharmaceutical manufacturers to have a new drug approved for sale; each new drug creates 16 jobs and $1 million in sales revenue.
 * Supported region's first Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
+* Supported the [electric vehicle industry](https://www.youtube.com/watch?v=0DKmx1WV33o)—from drafting and helping pass the regulation needed to capture and sell solar-generated electricity at charging stations, to negotiating the partnerships that enabled private-sector investment in those stations. Jordan went from a country with no electric vehicles to a market that now includes Tesla, Nissan, BMW, Mercedes, among others.
 
 [1]: http://www.jcp-jordan.org/
