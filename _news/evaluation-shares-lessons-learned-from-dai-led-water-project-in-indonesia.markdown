@@ -13,11 +13,14 @@ summary: 'A recent report that evaluated the sustainability of a DAI-led water r
   and natural resource management program in Indonesia from 2004 to 2010 has shown
   that the majority of the partner water utilities continued to experience success
   after the donor-funded project ended. '
+social-image: "/uploads/anak%20EJ%202.tif"
 ---
 
 A recent report that evaluated the sustainability of a DAI-led water resources and natural resource management program in Indonesia from 2004 to 2010 has shown that the majority of the partner water utilities continued to experience success after the donor-funded project ended. 
 
 The [Environmental Services Program (ESP)](https://www.dai.com/our-work/projects/indonesia-environmental-services-program-esp) worked closely with water utilities to help them expand and improve their services by connecting more people to high-quality, piped water in their homes, ultimately reaching 1.8 million people. While ESP was broader in scope than just providing access to water resources and services, the U.S. Agency for International Development commissioned the evaluation for the purpose of “understanding why the outcomes of its completed water, sanitation, and hygiene (WASH) activities have or have not been sustained.”
+
+![esp.jpg](/uploads/esp.jpg)
 
 The evaluation was restricted to utilities that had not benefitted from follow-on WASH interventions—such as the current [Urban Water, Sanitation, and Hygiene (IUWASH PLUS)](https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash) project—and had not been affected by tsunami disaster and relief efforts.
 
