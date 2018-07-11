@@ -1,7 +1,6 @@
 ---
 title: Evaluation Shares Lessons Learned from DAI-Led Water Project in Indonesia
 date: 2018-07-11 19:11:00 Z
-published: false
 solutions:
 - Environment and Energy
 - Water and Sanitation Services and Management
