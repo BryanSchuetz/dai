@@ -15,6 +15,9 @@ USAID selected DAI based on its success in partnering with U.S. businesses as su
 
 ![DAI-News----Partner-Award-1.jpg](/uploads/DAI-News----Partner-Award-1.jpg)`DAI President and CEO James Boomgard shares news with staff of DAI's being named USAID Large Business Partner of the Year.`
 
+
+
+
 In making the award, USAID praised DAI’s “significant utilization of small business contractors in critical roles in the implementation of USAID programs. Your firm’s commitment serves as a great example in partnership and mentorship for the development and growth of small businesses.” 
 
 DAI received the award today at USAID's 11th Annual Small Business Conference in Washington, D.C. The conference enables small-businesses to meet with USAID and its implementing partners to learn about federal contracting and working with USAID and its Missions. USAID Acting Deputy Administrator David Moore made the presentation.
