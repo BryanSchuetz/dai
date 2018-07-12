@@ -2,6 +2,7 @@
 title: DAI Named USAID’s Large Business Partner of the Year
 date: 2018-07-12 16:46:00 Z
 published: false
+is_featured: true
 clients: U.S. Agency for International Development
 summary: 'The U.S. Agency for International Development (USAID) has named DAI its
   USAID Large Business Partner of the Year in recognition of the firm’s work with
