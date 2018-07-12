@@ -11,7 +11,9 @@ summary: 'The U.S. Agency for International Development (USAID) has named DAI it
 
 The U.S. Agency for International Development (USAID) has named DAI its USAID Large Business Partner of the Year in recognition of the firm’s work with small businesses in 2017.
 
-USAID selected DAI based on its success in partnering with U.S. businesses as subcontractors, both domestically and overseas. Specifically, in FY 2017 DAI awarded $12.5 million of its subcontract dollars on USAID projects to small and disadvantaged businesses. 
+USAID selected DAI based on its success in partnering with U.S. businesses as subcontractors, both domestically and overseas. Specifically, in FY 2017 DAI awarded $12.5 million of its subcontract dollars on USAID projects to small and disadvantaged businesses.
+
+![DAI-News----Partner-Award-1.jpg](/uploads/DAI-News----Partner-Award-1.jpg)`President and CEO James Boomgard shares news with staff of DAI's being named USAID Large Business Partner of the Year.`
 
 In making the award, USAID praised DAI’s “significant utilization of small business contractors in critical roles in the implementation of USAID programs. Your firm’s commitment serves as a great example in partnership and mentorship for the development and growth of small businesses.” 
 
