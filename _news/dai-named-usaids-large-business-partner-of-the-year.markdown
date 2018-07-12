@@ -22,7 +22,7 @@ USAID selected DAI based on its success in partnering with U.S. businesses as su
 
 In making the award, USAID praised DAI’s “significant utilization of small business contractors in critical roles in the implementation of USAID programs. Your firm’s commitment serves as a great example in partnership and mentorship for the development and growth of small businesses.” 
 
-DAI received the award today at USAID's 11th Annual Small Business Conference in Washington, D.C. The conference enables small-businesses to meet with USAID and its implementing partners to learn about federal contracting and working with USAID and its Missions. USAID Acting Deputy Administrator David Moore made the presentation.
+DAI received the award yesterday at USAID's 11th Annual Small Business Conference in Washington, D.C. The conference enables small-businesses to meet with USAID and its implementing partners to learn about federal contracting and working with USAID and its Missions. USAID Acting Deputy Administrator David Moore made the presentation.
 
 “We are honored to win this award,” said DAI President and CEO Jim Boomgard. “Partnering with the right small businesses enriches our proposals, strengthens our technical work, and introduces new ideas and approaches into the DAI bloodstream. We put a great deal of thought and effort into our small business engagement program, and it is gratifying to see it recognized in this fashion.”
 
