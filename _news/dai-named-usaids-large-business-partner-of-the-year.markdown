@@ -14,7 +14,7 @@ summary: 'The U.S. Agency for International Development (USAID) has named DAI it
 
 The U.S. Agency for International Development (USAID) has named DAI its USAID Large Business Partner of the Year in recognition of the firm’s work with small businesses in 2017.
 
-![DAI-News----Zan-USAID-Partner-Award.jpg](/uploads/DAI-News----Zan-USAID-Partner-Award.jpg)`From left, U.S. Agency for International Development (USAID) Acting Deputy Administrator David Moore, DAI Senior Vice President Zan Northrip, and USAID Office of Small and Disadvantaged Business Utilization Director Mauricio Vera after DAI was named USAID Large Business Partner of the Year. Photo: USAID.`
+![DAI-News----Zan-USAID-Partner-Award.jpg](/uploads/DAI-News----Zan-USAID-Partner-Award.jpg)`From left, USAID Acting Deputy Administrator David Moore, DAI Senior VP Zan Northrip, and USAID Office of Small and Disadvantaged Business Utilization Director Mauricio Vera. Photo: USAID.`
 
 <!--more-->
 
