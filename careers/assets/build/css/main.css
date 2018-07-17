@@ -3957,7 +3957,6 @@ section.banner--video {
 section.banner--video::-webkit-scrollbar {
   width: 0px;
 }
-
 section.banner--video .btn-container {
   position: absolute;
   z-index: 2;
