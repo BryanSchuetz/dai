@@ -4,7 +4,8 @@ date: 2017-06-02 12:19:00 Z
 lastname: Mecaskey
 summary: 'Jeffrey Mecaskey has more than 35 years of experience in health and political
   economics and health policy and management. '
-job-title: Technical Lead, Economics and Financing, Evidence and Learning, Global Health
+job-title: Technical Lead, Economics and Financing, Evidence and Learning, Global
+  Health
 image: "/uploads/Jeff%20Mecaskey%20DAI%20site.jpg"
 solutions:
 - Health Governance
