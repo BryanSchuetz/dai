@@ -4,8 +4,7 @@ date: 2017-06-02 12:50:00 Z
 lastname: Quigley
 summary: 'Dr. Paula Quigley is a medical doctor with more than 27 years of experience
   in programme management, monitoring and evaluation, and health systems strengthening. '
-job-title: Technical Lead, Reproductive, Maternal, Newborn, Child and Adolescent Health,
-  Evidence and Learning, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Lead, Reproductive, Maternal, Newborn, Child and Adolescent Health, Evidence and Learning, Global Health
 image: "/uploads/Paula%20Quigley%20DAI%20site.jpg"
 solutions:
 - Global Health

@@ -5,7 +5,7 @@ lastname: McKenzie
 summary: 'Dr. Andrew McKenzie has more than 30 years of experience in capacity building
   and management of health systems and services, working in the public sector, the
   private sector, in universities, and in nongovernmental organisations. '
-job-title: Technical Co-Lead, Governance, Policy and Planning, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Co-Lead, Governance, Policy and Planning, Global Health
 image: "/uploads/Andrew%20McKenzie%20DAI%20site.jpg"
 solutions:
 - Health Governance

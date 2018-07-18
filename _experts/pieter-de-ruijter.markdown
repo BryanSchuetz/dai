@@ -6,7 +6,7 @@ summary: Pieter de Ruijter has more than 30 years of experience in health care t
   systems development, specialising in the design and development of planning and
   management software, and the development of computerised management and planning
   tools.
-job-title: Technical Lead, Health Care Technology and ICT, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Lead, Health Care Technology and ICT, Global Health
 image: "/uploads/Pieter%20de%20Ruijter%20DAI%20site.jpg"
 solutions:
 - Global Health

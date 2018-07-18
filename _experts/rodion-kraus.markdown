@@ -4,7 +4,7 @@ date: 2017-06-02 12:38:00 Z
 lastname: Kraus
 summary: Dr. Rodion Kraus’ areas of expertise include programme management, policy
   development and reform, and human resources planning and management.
-job-title: Managing Director, Europe, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Managing Director, Europe, Global Health
 image: "/uploads/New%20Rodion%20dai%20site.jpg"
 solutions:
 - Global Health
