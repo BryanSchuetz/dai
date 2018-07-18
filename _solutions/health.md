@@ -10,11 +10,11 @@ summary: Providing the technical skills, expertise, and local knowledge to deliv
 type: primary
 promos:
 - title: "**Our Team:** DAI Global Health Experts"
-  link: "/who-we-are/the-team?filter=health"
+  link: "/who-we-are/the-team?filter=global-health"
 - title: "**Our Work:** DAI Global Health Projects"
-  link: "/our-work/the-projects?filter=health"
+  link: "/our-work/the-projects?filter=global-health"
 - title: "**News:** Recent Global Health News"
-  link: "/news/view-more-news?filter=health"
+  link: "/news/view-more-news?filter=global-health"
 related: false
 hero: true
 redirect_from: "/global-health"
