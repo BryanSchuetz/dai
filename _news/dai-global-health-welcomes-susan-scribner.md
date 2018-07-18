@@ -6,7 +6,7 @@ summary: DAI is delighted to announce that Susan Scribner has joined the firm as
   project, a U.S. Agency for International Development program that facilitates pandemic
   preparedness across three regions and 16 countries.
 solutions:
-- Health
+- Global Health
 - Digital
 regions: 
 projects: 

@@ -7,7 +7,7 @@ summary: 'James McIntyre Brown is the Health Practice Director for Europe and jo
 job-title: 'Health Practice Director, DAI Global Health '
 image: "/uploads/macfinal-8edcd2.jpg"
 solutions:
-- Health
+- Global Health
 - Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa

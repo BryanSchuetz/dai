@@ -11,7 +11,7 @@ summary: '[Jerry Martin](/who-we-are/our-team/jerry-martin), DAI''s Global Pract
 '
 solutions:
 - Governance
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Strategies Against Flu Emergence (SAFE)
@@ -32,4 +32,4 @@ The LCIRAH conference was attended by more than 150 participants from academia, 
 [1]: /who-we-are/our-team/jerry-martin
 [2]: /who-we-are/our-team/robert-salerno
 [4]: /our-work/projects/indonesia-strategies-against-flu-emergence-safe
-[5]: /our-work/solutions/health
+[5]: /our-work/solutions/global-health

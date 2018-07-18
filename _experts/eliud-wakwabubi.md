@@ -12,7 +12,7 @@ image: https://assetify-dai.com/experts/Eliud_Inner.jpg
 solutions:
 - Emerging Infectious Diseases
 - Health and Livelihoods
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 layout: expert

@@ -8,7 +8,7 @@ job-title: Technical Lead, Reproductive, Maternal, Newborn, Child and Adolescent
   Evidence and Learning, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Paula%20Quigley%20DAI%20site.jpg"
 solutions:
-- Health
+- Global Health
 - Health Governance
 regions:
 - Sub-Saharan Africa

@@ -10,7 +10,7 @@ summary: 'Susan Scribner leads the Preparedness and Response project (P&R). P&R 
 job-title: Director, Preparedness and Response project
 image: https://assetify-dai.com/experts/Susan%20Inner.jpg
 solutions:
-- Health
+- Global Health
 - Emerging Infectious Diseases
 - 
 regions:

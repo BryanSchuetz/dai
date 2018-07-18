@@ -8,7 +8,7 @@ start: 2017
 end: 2022
 client: U.S. Agency for International Development
 solutions:
-- Health
+- Global Health
 - Innovation and Entrepreneurship
 - 
 regions: Asia and the Pacific

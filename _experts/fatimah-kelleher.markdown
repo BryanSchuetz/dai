@@ -9,7 +9,7 @@ job-title: Technical Lead, Gender, Education and Women’s Economic Empowerment,
   Development](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Fatimah%20Kelleher%20DAI%20site.jpg"
 solutions:
-- Health
+- Global Health
 - gender
 regions:
 - Latin America and the Caribbean

@@ -3,7 +3,7 @@ title: DAI Acquires HPI Group, Adds Expertise in Global Health, Women’s Empowe
 date: 2017-06-01 12:17:00 Z
 is_featured: true
 solutions:
-- Health
+- Global Health
 clients: U.K. Department for International Development
 summary: DAI announces the acquisition of the HPI Group, which consists of Health
   Partners International (HPI) and WISE Development.

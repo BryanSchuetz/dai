@@ -9,7 +9,7 @@ end: 2017
 client: U.K. Department for International Development
 solutions:
 - Health Governance
-- Health
+- Global Health
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: 'Nigeria '

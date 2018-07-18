@@ -7,7 +7,7 @@ summary: Kurt Olsson has 30 years of experience in the public, private, and nonp
 job-title: Vice President and Chief Growth Officer, DAI Global Health
 image: "/uploads/kurt.jpg"
 solutions:
-- Health
+- Global Health
 - 
 ---
 

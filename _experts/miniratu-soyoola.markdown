@@ -7,7 +7,7 @@ summary: 'Miniratu Soyoola has more than 20 years of experience in health and so
 job-title: Technical Lead, Community Health Systems and Gender, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Miniratu%20Soyoola%20DAI%20site.jpg"
 solutions:
-- Health
+- Global Health
 - gender
 regions:
 - Sub-Saharan Africa

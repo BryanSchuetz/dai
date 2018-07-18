@@ -12,7 +12,7 @@ job-title: 'Global Practice Specialist, Governance, and Director, DAI Maker Lab
 '
 image: https://assetify-dai.com/experts/RyanSilvaInner.jpg
 solutions:
-- Health
+- Global Health
 - Digital
 regions:
 - Asia and the Pacific

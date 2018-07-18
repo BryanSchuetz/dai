@@ -3,7 +3,7 @@ title: Health and Livelihoods
 date: 2016-01-22 00:11:14.114000000 Z
 permalink: "/our-work/solutions/health-solutions/health-and-livelihoods"
 solutions:
-- Health
+- Global Health
 layout: solution
 hero: true
 ---

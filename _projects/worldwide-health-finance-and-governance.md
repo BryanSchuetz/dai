@@ -9,7 +9,7 @@ end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Governance
-- Health
+- Global Health
 regions:
 - Worldwide
 country:

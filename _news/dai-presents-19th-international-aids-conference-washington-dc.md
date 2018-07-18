@@ -7,7 +7,7 @@ summary: 'DAI''s Health Sector helped lead discussions at this year''s Internati
 
 '
 solutions:
-- Health
+- Global Health
 regions: 
 projects: 
 clients: 

@@ -4,7 +4,7 @@ date: 2016-11-03 18:05:00 Z
 summary: DAI Global Health celebrates globally the first annual One Health Day on
   November 3.
 solutions:
-- Health
+- Global Health
 regions: 
 projects: 
 clients: 

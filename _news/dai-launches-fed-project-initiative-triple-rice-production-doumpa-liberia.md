@@ -10,7 +10,7 @@ summary: 'DAI has begun its first major initiative under the Food and Enterprise
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 projects: Liberia—Food and Enterprise Development Program (FED)

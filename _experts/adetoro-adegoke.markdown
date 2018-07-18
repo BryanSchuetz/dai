@@ -8,7 +8,7 @@ summary: 'Dr. Adetoro Adeyemi Adegoke has more than 20 years of experience worki
 job-title: Technical Lead, Health Service Delivery, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Adetoro%20Adegoke%20DAI%20site-0ddbb5.jpg"
 solutions:
-- Health
+- Global Health
 - 
 regions:
 - Sub-Saharan Africa

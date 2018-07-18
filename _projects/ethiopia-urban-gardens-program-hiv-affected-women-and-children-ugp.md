@@ -11,7 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Gender
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 country:

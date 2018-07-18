@@ -10,7 +10,7 @@ job-title: Regional Coordinator & Communications Lead, Preparedness & Response P
 image: https://assetify-dai.com/experts/Boaz_Inner.jpg
 solutions:
 - Environment and Energy
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 layout: expert

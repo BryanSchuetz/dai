@@ -9,7 +9,7 @@ start: 2014
 end: 2016
 client: Comic Relief
 solutions:
-- Health
+- Global Health
 regions: Sub-Saharan Africa
 country: Zambia
 ---

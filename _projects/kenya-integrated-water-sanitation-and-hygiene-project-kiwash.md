@@ -8,7 +8,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Environment and Energy
-- Health
+- Global Health
 - Health and Livelihoods
 - Nutrition and Food Security
 - Water and Sanitation Services and Management

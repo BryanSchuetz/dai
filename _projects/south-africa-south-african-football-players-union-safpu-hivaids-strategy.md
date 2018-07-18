@@ -9,7 +9,7 @@ regions:
 country:
 - South Africa
 solutions:
-- Health
+- Global Health
 layout: project
 summary: 'During the 2010 World Cup, all eyes were on South African football—locally,
   regionally, and around the world. The South African Football Players Union (SAFPU)

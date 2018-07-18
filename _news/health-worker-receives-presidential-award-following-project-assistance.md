@@ -2,7 +2,7 @@
 title: Health Worker Receives Presidential Award Following Project Assistance
 date: 2014-10-13 18:05:00 Z
 solutions:
-- Health
+- Global Health
 - Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific

@@ -9,7 +9,7 @@ start: 2009
 end: 2014
 client: U.S. Agency for International Development
 solutions:
-- Health
+- Global Health
 regions:
 - Worldwide
 country:

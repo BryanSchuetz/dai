@@ -6,7 +6,7 @@ summary: 'Two DAI projects will be highlighted at the U.S. Agency for Internatio
 
 '
 solutions:
-- Health
+- Global Health
 - Agriculture and Food Security
 - Economic Growth
 regions:

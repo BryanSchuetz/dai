@@ -10,7 +10,7 @@ job-title: Technical Lead, Disease Control, Elimination, and Eradication, [DAI G
   Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Sunil%20Mehra%20DAI%20site.jpg"
 solutions:
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific

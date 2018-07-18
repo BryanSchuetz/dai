@@ -9,7 +9,7 @@ regions:
 country:
 - South Africa
 solutions:
-- Health
+- Global Health
 layout: project
 summary: 'Under a subcontract to an RTI International project funded by the U.S. Agency
   for International Development (USAID), DAI worked on the Women''s Justice and Empowerment

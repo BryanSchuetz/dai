@@ -8,7 +8,7 @@ job-title: Technical Co-Lead, Governance, Policy and Planning, [DAI Global Healt
 image: "/uploads/Emmanuel%20Sokpo%20DAI%20site.jpg"
 solutions:
 - Health Governance
-- Health
+- Global Health
 - Emerging Infectious Diseases
 regions:
 - Sub-Saharan Africa

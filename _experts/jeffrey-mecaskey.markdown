@@ -9,7 +9,7 @@ job-title: Technical Lead, Economics and Financing, Evidence and Learning, [DAI 
 image: "/uploads/Jeff%20Mecaskey%20DAI%20site.jpg"
 solutions:
 - Health Governance
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific

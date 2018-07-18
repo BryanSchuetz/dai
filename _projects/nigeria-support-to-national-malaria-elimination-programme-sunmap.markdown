@@ -7,7 +7,7 @@ start: 2008
 end: 2016
 client: U.K. Department for International Development
 solutions:
-- Health
+- Global Health
 - Health Governance
 regions: Sub-Saharan Africa
 country: Nigeria

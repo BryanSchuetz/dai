@@ -5,7 +5,7 @@ tags:
 - health
 is_featured: false
 solutions:
-- Health
+- Global Health
 summary: One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
   of DAI and U.K.-based Health Partners International (HPI), DAI today announced that
   the HPI brand will be retired and HPI will operate under the DAI Global Health banner.

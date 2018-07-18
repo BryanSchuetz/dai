@@ -9,7 +9,7 @@ job-title: Technical Co-Lead, Governance, Policy and Planning, [DAI Global Healt
 image: "/uploads/Andrew%20McKenzie%20DAI%20site.jpg"
 solutions:
 - Health Governance
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 articles:

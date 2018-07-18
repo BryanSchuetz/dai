@@ -10,7 +10,7 @@ country:
 - Indonesia
 solutions:
 - Governance
-- Health
+- Global Health
 layout: project
 summary: 'In recent years, the U.S. Agency for International Development (USAID) and
   DAI have helped Indonesia—the country that has suffered the most human deaths from

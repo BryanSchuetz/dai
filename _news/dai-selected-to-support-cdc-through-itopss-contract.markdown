@@ -2,7 +2,7 @@
 title: DAI Selected to Support CDC Through ITOPSS Contract
 date: 2018-02-02 17:08:00 Z
 solutions:
-- Health
+- Global Health
 regions: Worldwide
 clients: 'Centers for Disease Control and Prevention '
 summary: 'DAI has been selected as one of five holders of the U.S. Centers for Disease

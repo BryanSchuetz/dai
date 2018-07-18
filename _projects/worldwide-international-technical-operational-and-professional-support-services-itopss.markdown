@@ -9,7 +9,7 @@ start: 2018
 end: 2023
 client: U.S. Centers for Disease Control and Prevention
 solutions:
-- Health
+- Global Health
 - 
 regions: Worldwide
 ---

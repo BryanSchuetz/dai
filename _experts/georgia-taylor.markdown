@@ -8,7 +8,7 @@ job-title: Technical Director, [WISE Development](https://www.dai.com/news/dai-a
 image: "/uploads/Georgia%20Taylor%20DAI%20iste.jpg"
 solutions:
 - Gender
-- Health
+- Global Health
 - Economic Growth
 regions:
 - Latin America and the Caribbean

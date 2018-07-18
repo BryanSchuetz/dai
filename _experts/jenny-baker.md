@@ -7,7 +7,7 @@ summary: 'As Senior Director of Programmes for DAI Global Health, Jenny ensures 
 job-title: Senior Director of Programmes, DAI Global Health
 image: https://assetify-dai.com/experts/Baker_Inner.jpg
 solutions:
-- Health
+- Global Health
 - Economic Growth
 - Environment and Energy
 - Governance

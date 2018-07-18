@@ -7,7 +7,7 @@ summary: 'In recent years tens of thousands of people have died—including more
 
 '
 solutions:
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 projects: 

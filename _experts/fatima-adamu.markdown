@@ -7,7 +7,7 @@ summary: 'Fatima Adamu is a sociologist by training with particular expertise in
 job-title: Technical Lead, Education for Women in Health, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Fatima%20Adamu%20dai%20site.jpg"
 solutions:
-- Health
+- Global Health
 - Gender
 regions:
 - Sub-Saharan Africa

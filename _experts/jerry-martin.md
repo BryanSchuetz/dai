@@ -9,7 +9,7 @@ summary: Prior to leading the Preparedness and Response program for the U.S. Age
 job-title: Senior Director, Global Health Security
 image: https://assetify-dai.com/experts/Martin_Inner.jpg
 solutions:
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

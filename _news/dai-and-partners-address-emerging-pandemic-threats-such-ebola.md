@@ -8,7 +8,7 @@ summary: 'The U.S. Agency for International Development (USAID) has chosen DAI a
 
 '
 solutions:
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 projects: Worldwide—Preparedness and Response (P&R)

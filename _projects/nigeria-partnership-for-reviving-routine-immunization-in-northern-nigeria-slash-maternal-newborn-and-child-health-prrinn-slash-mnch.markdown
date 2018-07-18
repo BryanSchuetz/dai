@@ -13,7 +13,7 @@ client: U.K. Department for International Development, State Department of the N
   Government
 solutions:
 - Health Governance
-- Health
+- Global Health
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: Nigeria

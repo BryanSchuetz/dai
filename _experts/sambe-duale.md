@@ -12,7 +12,7 @@ summary: 'Dr. Sambe Duale serves as a Senior One Health Technical Advisor for th
 job-title: Senior One Health Technical Advisor
 image: https://assetify-dai.com/experts/SambeInner_0.jpg
 solutions:
-- Health
+- Global Health
 - Emerging Infectious Diseases
 - 
 regions:

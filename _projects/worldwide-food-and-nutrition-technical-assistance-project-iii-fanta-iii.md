@@ -9,7 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Health
+- Global Health
 - Nutrition and Food Security
 regions:
 - Worldwide

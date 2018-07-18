@@ -7,7 +7,7 @@ summary: Dr. Rodion Kraus’ areas of expertise include programme management, po
 job-title: Managing Director, Europe, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/New%20Rodion%20dai%20site.jpg"
 solutions:
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 ---

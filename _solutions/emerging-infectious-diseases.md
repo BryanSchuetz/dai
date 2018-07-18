@@ -3,7 +3,7 @@ title: Emerging Infectious Diseases
 date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/health-solutions/emerging-infectious-diseases"
 solutions:
-- Health
+- Global Health
 hero: true
 layout: solution
 ---

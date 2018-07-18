@@ -9,7 +9,7 @@ regions:
 country:
 - Regional
 solutions:
-- Health
+- Global Health
 layout: project
 summary: 'DAI helped Social & Scientific Systems (SSS) establish on-the-ground operations
   in Thailand, Indonesia, and Vietnam.

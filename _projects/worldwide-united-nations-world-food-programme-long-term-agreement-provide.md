@@ -11,7 +11,7 @@ client: United Nations World Food Programme
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Health
+- Global Health
 regions:
 - Worldwide
 country:

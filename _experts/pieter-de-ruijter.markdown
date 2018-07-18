@@ -9,7 +9,7 @@ summary: Pieter de Ruijter has more than 30 years of experience in health care t
 job-title: Technical Lead, Health Care Technology and ICT, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Pieter%20de%20Ruijter%20DAI%20site.jpg"
 solutions:
-- Health
+- Global Health
 - Digital
 regions:
 - Sub-Saharan Africa

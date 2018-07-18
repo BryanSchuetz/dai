@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:43.395000000 Z
 lastname: Elfman
 regions: 
 solutions:
-- Health
+- Global Health
 layout: expert
 image: https://assetify-dai.com/experts/Elizabeth%20Elfman%20inner.jpg
 summary: Elizabeth Elfman, a health specialist, began her career in Massachusetts

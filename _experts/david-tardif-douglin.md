@@ -9,7 +9,7 @@ summary: David Tardif-Douglin runs Africa Lead II, a project that builds the cap
 job-title: Principal Development Specialist
 image: https://assetify-dai.com/experts/innerdouglin.jpg
 solutions:
-- Health
+- Global Health
 - Economic Growth
 - Health and Livelihoods
 - Nutrition and Food Security

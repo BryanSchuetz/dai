@@ -9,7 +9,7 @@ job-title: Senior Technical and Management Advisor, Preparedness and Response
 image: https://assetify-dai.com/experts/Mark-Rasmuson-inner-new.jpg
 solutions:
 - Governance
-- Health
+- Global Health
 - Health Governance
 - Fragile States
 regions:
