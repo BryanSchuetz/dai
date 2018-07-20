@@ -2,6 +2,11 @@
 title: 'Now Available: The Summer 2018 Issue of DAI’s Developments Newsletter'
 date: 2018-07-20 19:22:00 Z
 published: false
+regions: Worldwide
+summary: The Summer 2018 issue of DAI’s *Developments* newsletter is now available
+  and includes stories on Nigeria's growing competitiveness, investors filling demand
+  in East Africa, an event combining experts in technology and global health, and
+  seven more articles.
 ---
 
 The [Summer 2018 issue](http://dai-global-developments.com/developments/summer-2018/) of DAI’s *Developments* newsletter is now available.
