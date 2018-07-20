@@ -20,7 +20,7 @@ Other stories include:
 * At first glance, natural resource conservation has little to do with [electronic hotel reservations][7]. Practitioners Lia Grigg and [Miguel Baca][8] write about a Honduran entrepreneur who helped marry the two ideas for the benefit of both local hotel operators and protected areas.
 * Fiscal reform means more than helping countries develop sound and accountable systems and policies; it can also mean assisting Jordan to issue a $1.25 billion bond, saving the country millions of dollars that it can now use locally. _Developments_ Editor Charles Coon writes about it [here][9].
 * What does a poor country do when it strikes it rich through discoveries of natural gas? [Zachary Kaplan][10], DAI's resident expert in public-private partnerships, [recommends][11] next steps toward a "local content" policy in Mozambique that could benefit communities across the country while improving the business environment for the extractives companies.
-* In the Philippines, the Pulilan Local Government recently went [cash-light][12], launching an electronic payroll system by which its 300 employees receive their salaries digitally. As a result, [John Jepsen][13] and Mamerto Tangonan write, more than 10,000 Pulilan households can now pay their utility bills via their mobile phones, a cheaper and less risky way to transfer money.
+* In the Philippines, the Pulilan Local Government recently went [cash-light][12], launching an electronic payroll system by which its 300 employees receive their salaries digitally. As a result, John Jepsen and Mamerto Tangonan write, more than 10,000 Pulilan households can now pay their utility bills via their mobile phones, a cheaper and less risky way to transfer money.
 * Finally, in the executive opinion section, [Del McCluskey][14], DAI's Global Practice Leader for Environment, Climate Change, and Urban Services, proposes a way for the Philippines to [build back better][15] after the horrific typhoon Haiyan, a road map that might also serve other nations vulnerable to catastrophic weather.
 
 Click [here][16] to view Developments on its web and mobile platform. If you prefer to order a paper copy of a specific issue, please send an email with your contact information to [publications@dai.com][17].
@@ -37,7 +37,6 @@ Click [here][16] to view Developments on its web and mobile platform. If you pre
 [10]: /who-we-are/our-team/zach-kaplan
 [11]: http://dai-global-developments.com/articles/mining-for-answers.html?utm_source=daidotcom
 [12]: http://dai-global-developments.com/articles/philippine-town.html?utm_source=daidotcom
-[13]: /who-we-are/our-team/john-jepsen
 [14]: /who-we-are/our-team/del-mccluskey
 [15]: http://dai-global-developments.com/articles/building-back-better.html?utm_source=daidotcom
 [16]: http://dai-global-developments.com/developments/winter-2013.html?utm_source=daidotcom
