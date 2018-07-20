@@ -1,7 +1,6 @@
 ---
 title: 'Now Available: The Summer 2018 Issue of DAI’s Developments Newsletter'
 date: 2018-07-20 19:22:00 Z
-published: false
 regions: Worldwide
 summary: The Summer 2018 issue of DAI’s *Developments* newsletter is now available
   and includes stories about Nigeria's growing competitiveness, investors filling
@@ -16,7 +15,9 @@ Our lead story looks at Nigeria—Africa’s most populous nation—and how the 
 
 Across the continent, a Kenya-based USAID program helped [leverage $100 million in commercial investment](http://dai-global-developments.com/articles/blended-finance-in-actionhow-usaid-leveraged-100-million-in-east-africa/) in sectors as diverse as agribusiness, mobile technology, and apparel. In addition to filling market needs in East Africa, the [USAID East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih) is demonstrating that private investors can invest and profit in developing nations when presented with sound, market-driven opportunities, and where risk is mitigated by means of carefully deployed donor capital. DAI’s [Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms) and [Kanini Mutooni](https://www.dai.com/news/dai-kanini-mutooni-appointed-global-innovation-fund-board) explain.
 
-In North Carolina, the 7th annual SwitchPoint conference brought together 400 technology and health experts to [brainstorm tech-fueled solutions in health care](http://dai-global-developments.com/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/). Attendees came away with new ideas for how applied technology can accelerate health results for the world’s suffering people, especially in marginalized locales, reports Developments Editor Charles Coon.
+![Devs----SwitchPoint-2.jpg](/uploads/Devs----SwitchPoint-2.jpg)`SwitchPoint conference breakout session that examined how health care entrepreneurs can improve their business proposals.`
+
+In North Carolina, the 7th annual SwitchPoint conference, photo above, brought together 400 technology and health experts to [brainstorm tech-fueled solutions in health care](http://dai-global-developments.com/articles/global-health-and-tech-thinkers-come-together-at-switchpoint/). Attendees came away with new ideas for how applied technology can accelerate health results for the world’s suffering people, especially in marginalized locales, reports Developments Editor Charles Coon.
 
 Other features:
 
