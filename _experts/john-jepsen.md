@@ -1,6 +1,7 @@
 ---
 title: John Jepsen
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Jepsen
 summary: John Jepsen has expertise in applying market systems approaches and making
   markets work for the poor (M4P) strategies to economic growth programming, as well
