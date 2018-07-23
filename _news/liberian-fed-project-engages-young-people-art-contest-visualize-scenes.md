@@ -12,7 +12,7 @@ summary: 'In celebration of World Food Day, held every year on October 16, in co
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 projects: Liberia—Food and Enterprise Development Program (FED)

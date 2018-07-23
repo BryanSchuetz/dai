@@ -10,7 +10,7 @@ start: 2006
 end: 2010
 client: U.S. Agency for International Development
 solutions:
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 country:

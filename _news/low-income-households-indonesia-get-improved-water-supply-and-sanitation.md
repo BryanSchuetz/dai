@@ -9,7 +9,7 @@ summary: 'U.S. Ambassador Robert O. Blake Jr. accompanied by the Mayor of Suraka
 '
 solutions:
 - Environment and Energy
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH)

@@ -14,7 +14,7 @@ solutions:
 - Economic Growth
 - Environment and Energy
 - Governance
-- Health
+- Global Health
 - Fragile States
 - Stabilization
 regions:

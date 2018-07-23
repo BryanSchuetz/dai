@@ -10,7 +10,7 @@ country:
 - Nepal
 solutions:
 - Agriculture and Food Security
-- Health
+- Global Health
 layout: project
 summary: 'Preparing food for children ages 6-24 months takes a lot of mothers'' time,
   which is often limited by other responsibilities. In low-income neighborhoods of

@@ -9,7 +9,7 @@ start: 2012
 end: 2022
 client: U.K. Department for International Development
 solutions:
-- health
+- Global Health
 - Health Governance
 regions: Worldwide
 ---

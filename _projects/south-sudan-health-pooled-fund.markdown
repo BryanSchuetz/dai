@@ -7,7 +7,7 @@ start: 2012
 end: 2018
 client: U.K. Department for International Development
 solutions:
-- Health
+- Global Health
 regions: Sub-Saharan Africa
 country: South Sudan
 ---

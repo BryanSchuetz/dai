@@ -17,7 +17,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Security and Justice
 - Fragile States
-- Health
+- Global Health
 - 
 regions: Worldwide
 country: Worldwide

@@ -9,7 +9,7 @@ job-title: Technical Lead, Gender, Sexual, Reproductive Health, and Rights, [WIS
 image: "/uploads/Seema%20Khan%20DAI%20site.jpg"
 solutions:
 - Gender
-- Health
+- Global Health
 - Sustainable and Accountable Health Services
 regions:
 - Asia and the Pacific

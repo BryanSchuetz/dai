@@ -4,11 +4,11 @@ date: 2017-06-02 11:42:00 Z
 lastname: Sokpo
 summary: 'Dr. Emmanuel Sokpo is a specialist clinician with extensive training in
   public health. '
-job-title: Technical Co-Lead, Governance, Policy and Planning, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Co-Lead, Governance, Policy and Planning, Global Health
 image: "/uploads/Emmanuel%20Sokpo%20DAI%20site.jpg"
 solutions:
 - Health Governance
-- Health
+- Global Health
 - Emerging Infectious Diseases
 regions:
 - Sub-Saharan Africa

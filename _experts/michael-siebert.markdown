@@ -5,10 +5,10 @@ lastname: Siebert
 summary: 'Michael Siebert is a management consultant with 20 years of experience in
   human resource management, service management and planning, organisational development,
   and information systems. '
-job-title: Technical Lead, HR Planning and Management, [DAI Global Health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
+job-title: Technical Lead, HR Planning and Management, Global Health
 image: "/uploads/Michael%20Siebert%20DAI%20site.jpg"
 solutions:
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 ---

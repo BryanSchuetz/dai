@@ -4,7 +4,7 @@ title: DAI Team and Indonesian Government Launch USAID Program to Spur Reduction
 date: 2018-01-30 08:00:00 Z
 is_featured: true
 solutions:
-- Health
+- Global Health
 regions: Asia and the Pacific
 projects: Indonesia—Jalin
 clients: U.S. Agency for International Development
@@ -33,7 +33,7 @@ DAI’s Jalin consortium, based in Jakarta, includes:
 
 * **MarketShare Associates**—a woman-owned business firm with expertise in integrating gender and pro-poor inclusion strategies.
 
-“DAI has a solid record of achievement across many sectors in Indonesia,” said [Christopher LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), president of [DAI Global Health](https://www.dai.com/our-work/solutions/health). “We have put together a really creative team for this forward-thinking initiative, and as a team we are eager to get to work with our government partners.”
+“DAI has a solid record of achievement across many sectors in Indonesia,” said [Christopher LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), president of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health). “We have put together a really creative team for this forward-thinking initiative, and as a team we are eager to get to work with our government partners.”
 
 ## Parlaying Indonesia’s Development Gains
 

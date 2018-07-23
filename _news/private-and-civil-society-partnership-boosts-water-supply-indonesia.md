@@ -8,7 +8,7 @@ summary: 'East Java''s dwindling supply of raw water is being replenished thanks
 '
 solutions:
 - Environment and Energy
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH)

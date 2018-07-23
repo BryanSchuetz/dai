@@ -7,7 +7,7 @@ start: 2017
 end: 2018
 client: Medicines for Malaria Venture
 solutions:
-- Health
+- Global Health
 regions: Sub-Saharan Africa
 country: 'Zambia '
 ---

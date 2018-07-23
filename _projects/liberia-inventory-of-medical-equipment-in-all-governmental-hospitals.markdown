@@ -9,7 +9,7 @@ start: 2009
 end: 2010
 client: Swiss Agency for Development and Cooperation
 solutions:
-- Health
+- Global Health
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: Liberia

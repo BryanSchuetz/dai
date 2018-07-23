@@ -9,7 +9,7 @@ summary: 'The Community Association of Drinking Water and Sanitation Users in th
 '
 solutions:
 - Environment and Energy
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 projects: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH)

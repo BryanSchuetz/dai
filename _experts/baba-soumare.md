@@ -12,7 +12,7 @@ job-title: Africa Regional Director, Preparedness & Response
 image: https://assetify-dai.com/experts/Baba.jpg
 solutions:
 - Emerging Infectious Diseases
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 articles:

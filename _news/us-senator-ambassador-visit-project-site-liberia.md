@@ -11,7 +11,7 @@ summary: 'The DAI-led [Food and Enterprise Development Program](/our-work/projec
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 projects: Liberia—Food and Enterprise Development Program (FED)

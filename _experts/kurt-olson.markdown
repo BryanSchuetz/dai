@@ -4,10 +4,10 @@ date: 2017-03-01 15:38:00 Z
 lastname: Olsson
 summary: Kurt Olsson has 30 years of experience in the public, private, and nonprofit
   sectors focused primarily on business development, marketing, and public relations.
-job-title: Vice President and Chief Growth Officer, DAI Global Health
+job-title: Vice President and Chief Growth Officer, Global Health
 image: "/uploads/kurt.jpg"
 solutions:
-- Health
+- Global Health
 - 
 ---
 

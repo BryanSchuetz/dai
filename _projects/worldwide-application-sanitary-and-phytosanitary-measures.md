@@ -11,7 +11,7 @@ country:
 solutions:
 - Economic Growth
 - Emerging Infectious Diseases
-- Health
+- Global Health
 layout: project
 summary: 'Agricultural health and food safety are important to developing countries
   for many reasons. Apart from their obvious health benefits, sanitary conditions

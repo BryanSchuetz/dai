@@ -9,7 +9,7 @@ image: "/uploads/greg.jpg"
 solutions:
 - Digital
 - Stabilization
-- Health
+- Global Health
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean

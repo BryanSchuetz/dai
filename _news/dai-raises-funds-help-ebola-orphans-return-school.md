@@ -8,7 +8,7 @@ summary: 'DAI''s UK offices recently held a fundraiser on behalf of Street Child
 
 '
 solutions:
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 projects: 

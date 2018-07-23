@@ -6,7 +6,7 @@ summary: DAI today announced that Bobby Jefferson has joined DAI as Vice Preside
   the field of information and communications technology for development (ICT4D),
   Jefferson will focus on expanding DAI's range of digital health services.
 solutions:
-- Health
+- Global Health
 regions: 
 projects: 
 clients: 

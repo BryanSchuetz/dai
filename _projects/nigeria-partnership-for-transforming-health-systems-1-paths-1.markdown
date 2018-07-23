@@ -8,7 +8,7 @@ start: 2002
 end: 2008
 client: U.K. Department for International Development
 solutions:
-- Health
+- Global Health
 - Health Governance
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa

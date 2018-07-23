@@ -9,7 +9,7 @@ start: 2010
 end: 2016
 client: U.S. Agency for International Development
 solutions:
-- Health
+- Global Health
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: Nigeria

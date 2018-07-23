@@ -11,7 +11,7 @@ job-title: 'Managing Director, Governance '
 image: https://assetify-dai.com/experts/KathorInner.jpg
 solutions:
 - Governance
-- Health
+- Global Health
 - Fragile States
 - Security and Justice
 regions:

@@ -9,7 +9,7 @@ regions:
 solutions:
 - Economic Growth
 - Emerging Infectious Diseases
-- Health
+- Global Health
 - Health and Livelihoods
 layout: expert
 image: https://assetify-dai.com/experts/Salerno_Inner.jpg

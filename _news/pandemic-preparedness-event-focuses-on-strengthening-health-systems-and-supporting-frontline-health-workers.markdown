@@ -3,7 +3,7 @@ title: Pandemic Preparedness Event Focuses on Strengthening Health Systems and S
   Frontline Health Workers
 date: 2018-05-18 19:44:00 Z
 solutions:
-- Health
+- Global Health
 - Emerging Infectious Diseases
 projects: Worldwide—Preparedness and Response (P&R)
 summary: 'DAI’s Global Health team participated in a lively panel discussion on the

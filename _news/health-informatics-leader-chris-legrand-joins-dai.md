@@ -7,7 +7,7 @@ summary: DAI today announced the appointment of [Christopher A. LeGrand](/who-we
   focus on advancing DAI's global health portfolio, with an emphasis on emerging health
   markets and services.
 solutions:
-- Health
+- Global Health
 regions: 
 projects: 
 clients: 

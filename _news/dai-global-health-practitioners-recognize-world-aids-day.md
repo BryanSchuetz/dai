@@ -7,7 +7,7 @@ summary: 'World AIDS Day is held every December 1 and is an opportunity for peop
 
 '
 solutions:
-- Health
+- Global Health
 regions: 
 projects: 
 clients: 

@@ -9,7 +9,7 @@ end: 2013
 client: South Africa National Treasury
 solutions:
 - Governance
-- Health
+- Global Health
 regions:
 - Sub-Saharan Africa
 country:

@@ -8,7 +8,7 @@ summary: 'Cathy Green has more than 20 years of experience of supporting health 
 job-title: Technical Lead, Community Health Systems and Gender, [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Cathy%20Green%20DAI%20site.jpg"
 solutions:
-- Health
+- Global Health
 - Sustainable and Accountable Health Services
 regions:
 - Sub-Saharan Africa

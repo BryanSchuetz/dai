@@ -8,7 +8,7 @@ start: 2010
 end: 2013
 client: U.K. Department for International Development
 solutions:
-- Health
+- Global Health
 regions: Sub-Saharan Africa
 country: Zambia
 ---

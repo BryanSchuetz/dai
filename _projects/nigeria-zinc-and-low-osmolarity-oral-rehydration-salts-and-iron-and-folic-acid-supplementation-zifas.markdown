@@ -9,7 +9,7 @@ start: 2013
 end: 2016
 client: Micronutrient Initiative
 solutions:
-- Health
+- Global Health
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

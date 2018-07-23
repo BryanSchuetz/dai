@@ -8,7 +8,7 @@ start: 2011
 end: 2015
 client: U.K. Department for International Development
 solutions:
-- Health
+- Global Health
 - Nutrition and Food Security
 regions: Sub-Saharan Africa
 country: Uganda

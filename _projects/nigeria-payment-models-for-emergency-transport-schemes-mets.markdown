@@ -8,7 +8,7 @@ start: 2010
 end: 2012
 client: MacArthur Foundation
 solutions:
-- Health
+- Global Health
 - Sustainable and Accountable Health Services
 regions: Sub-Saharan Africa
 country: Nigeria

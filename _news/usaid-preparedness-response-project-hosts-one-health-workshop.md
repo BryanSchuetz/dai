@@ -8,7 +8,7 @@ summary: 'The U.S. Agency for International Development (USAID)-funded Preparedn
 
 '
 solutions:
-- Health
+- Global Health
 regions: 
 projects: Worldwide—Preparedness and Response (P&R)
 clients: 

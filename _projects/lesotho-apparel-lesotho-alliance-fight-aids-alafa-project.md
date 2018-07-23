@@ -9,7 +9,7 @@ regions:
 country:
 - Lesotho
 solutions:
-- Health
+- Global Health
 - Economic Growth
 layout: project
 summary: 'The apparel industry is Lesotho''s largest private sector employer with

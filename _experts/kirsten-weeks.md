@@ -8,7 +8,7 @@ summary: Kirsten Weeks is the Global Practice Lead for Health, Nutrition, and Li
 job-title: Global Practice Lead, Health, Nutrition & Livelihoods
 image: "/uploads/Kirsten-Weeks-website.jpg"
 solutions:
-- Health
+- Global Health
 - Health and Livelihoods
 regions:
 - Latin America and the Caribbean

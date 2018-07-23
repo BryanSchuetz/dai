@@ -1,7 +1,7 @@
 ---
-title: Health
+title: Global Health
 date: 2016-01-21 18:23:00 Z
-permalink: our-work/solutions/health
+permalink: our-work/solutions/global-health
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
 summary: Providing the technical skills, expertise, and local knowledge to deliver
@@ -9,12 +9,12 @@ summary: Providing the technical skills, expertise, and local knowledge to deliv
   threats to HIV/AIDS to waterborne diseases.
 type: primary
 promos:
-- title: "**Our Team:** DAI Health Experts"
-  link: "/who-we-are/the-team?filter=health"
-- title: "**Our Work:** DAI Health Projects"
-  link: "/our-work/the-projects?filter=health"
-- title: "**News:** Recent Health News"
-  link: "/news/view-more-news?filter=health"
+- title: "**Our Team:** DAI Global Health Experts"
+  link: "/who-we-are/the-team?filter=global-health"
+- title: "**Our Work:** DAI Global Health Projects"
+  link: "/our-work/the-projects?filter=global-health"
+- title: "**News:** Recent Global Health News"
+  link: "/news/view-more-news?filter=global-health"
 related: false
 hero: true
 redirect_from: "/global-health"
