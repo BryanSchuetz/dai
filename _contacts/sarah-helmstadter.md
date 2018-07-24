@@ -1,6 +1,7 @@
 ---
 title: Sarah Helmstadter
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: 'Regional Managing Director, Africa '
 email: sarah_helmstadter@dai.com
 summary: Sarah manages the company’s Africa portfolio. Since joining DAI in 2007,
