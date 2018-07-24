@@ -13,6 +13,5 @@ summary: Sarah manages the company’s Africa portfolio. Since joining DAI in 20
   for International Development for 2017–2018.
 image: "/uploads/new%20Sarah.jpg"
 group: Business Management
-sort-order: 7
 ---
 
