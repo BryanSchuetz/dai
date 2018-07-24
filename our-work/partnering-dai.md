@@ -1,9 +1,9 @@
 ---
 title: Interested in Working with DAI?
+permalink: "/our-work/working-with-dai/partnering-dai"
 layout: node
 redirect_from:
 - "/smallbiz"
-permalink: /our-work/working-with-dai/partnering-dai
 related: false
 summary: We’re interested in you—DAI is looking to build partnerships with other development
   firms and organizations so that we can deliver the highest quality solutions to

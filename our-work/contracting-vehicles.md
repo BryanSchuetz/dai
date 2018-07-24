@@ -1,7 +1,7 @@
 ---
 title: Contracting Vehicles
+permalink: "/our-work/working-with-dai/contracting-vehicles"
 layout: node
-permalink: /our-work/working-with-dai/contracting-vehicles
 summary: DAI holds umbrella contracts from various clients through which development
   programs can be funded and administered.
 hero: true
