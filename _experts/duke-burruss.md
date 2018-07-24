@@ -7,16 +7,16 @@ summary: Duke Burruss has deep technical expertise in agricultural and rural dev
   partnerships, and has managed numerous complex regional projects in Sub-Saharan
   Africa.
 job-title: 'Regional Managing Director, Africa '
-image: https://assetify-dai.com/experts/Burruss_Inner.jpg
+image: "/uploads/Large%20duke.jpg"
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
-- 
-- Middle East and North Africa
 - Sub-Saharan Africa
+- 
+- 
+- 
+- 
 layout: expert
 ---
 
