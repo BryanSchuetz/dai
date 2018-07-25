@@ -2,10 +2,10 @@
 title: Talia Dweck
 date: 2018-07-25 20:20:00 Z
 lastname: Dweck
-summary: With a consistent focus on the integration of user-centered design in digital
+summary: 'With a consistent focus on the integration of user-centered design in digital
   development, Talia conducts digital strategic analyses, manages digital projects,
   and supports the Center for Digital Acceleration in its innovation work, for example
-  by managing the implementation of digital prizes and challenges.
+  by managing the implementation of digital prizes and challenges. '
 job-title: ICT Specialist, Center for Digital Acceleration
 image: "/uploads/Talia.jpg"
 solutions:
