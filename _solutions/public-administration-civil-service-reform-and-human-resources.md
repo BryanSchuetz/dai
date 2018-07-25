@@ -3,7 +3,7 @@ title: Public Administration, Civil Service Reform, and Human Resources Manageme
 date: 2016-01-22 00:11:14.114000000 Z
 permalink: "/our-work/solutions/governance-solutions/public-administration-civil-service-reform-and-human-resources"
 solutions:
-- governance
+- Governance
 layout: solution
 hero: true
 ---

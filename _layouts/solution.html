@@ -11,7 +11,7 @@ layout: default
     {% for solution in page.solutions %}
       {% for primary_solution in primary_solutions  %}
         {% if solution == primary_solution.title %}
-          <h1 class="solution-title">{{ page.title }}</h1>
+            <h1 class="solution-title">{{ page.title }}</h1>
         {% endif %}
       {% endfor %}
     {% endfor %}
