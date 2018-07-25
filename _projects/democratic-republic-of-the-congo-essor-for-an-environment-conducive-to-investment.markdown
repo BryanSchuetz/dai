@@ -14,11 +14,11 @@ regions: Sub-Saharan Africa
 country: Democratic Republic of the Congo
 ---
 
-The five-year Essor Programme was launched in 2015 under a consortium headed by Pricewaterhouse. Essor acts at meso (business associations) and macro (government) levels to improve the incomes of the poor through the development of micro, small, and medium-sized enterprises (MSMEs), including women- and youth-owned and ones in rural areas, through reforms to the country’s investment climate and policies.
+The five-year Essor Programme was launched by a consortium headed by Pricewaterhouse. Essor acts at meso (business associations) and macro (government) levels to improve the incomes of the poor through the development of micro, small, and medium-sized enterprises (MSMEs)—including women- and youth-owned and ones in rural areas—through reforms to the country’s investment climate and policies.
 
 Essor’s workstreams focus on:
 
-1. Implementing the Organisation of the Harmonisation of the Business Law in Africa (OHADA), an initiative that comprises 17 countries;
+1. Implementing the Organisation of the Harmonisation of the Business Law in Africa (OHADA), an initiative that comprises 17 countries, including the Democratic Republic of the Congo;
 2. Combatting corruption;
 3. Improving access to electricity at the provincial level; and
 4. Expanding access to finance (Essor A2F), the workstream implemented by DAI.
