@@ -7,7 +7,7 @@ summary: Adam Fivenson is a user research and digital design specialist at DAIâ€
 job-title: Senior ICT Specialist
 image: "/uploads/new%20Adam%20Fivenson.png"
 solutions:
-- Digital
+- Digital Acceleration
 - Fragile States
 - Peace-Building and Political Transition
 - Governance

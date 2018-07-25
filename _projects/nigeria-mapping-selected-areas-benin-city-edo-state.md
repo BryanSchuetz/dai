@@ -9,7 +9,7 @@ regions:
 country:
 - Nigeria
 solutions:
-- Digital
+- Digital Acceleration
 layout: project
 summary: 'We supported the establishment of a geographic information system (GIS)
   unit, then developed a system for improving the collection, management, and analysis

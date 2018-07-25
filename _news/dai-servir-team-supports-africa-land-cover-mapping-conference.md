@@ -12,7 +12,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 - Innovation and Entrepreneurship
-- Digital
+- Digital Acceleration
 regions:
 - Sub-Saharan Africa
 projects: Worldwide—SERVIR Program Demand Activity

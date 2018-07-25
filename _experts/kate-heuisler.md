@@ -7,7 +7,7 @@ summary: 'Kate Heuisler is a development practitioner with 15 years of experienc
 job-title: Chief of Party, Cambodia Development Innovations
 image: "/uploads/New%20Kate.jpg"
 solutions:
-- Digital
+- Digital Acceleration
 - Economic Growth
 - Innovation and Entrepreneurship
 regions:

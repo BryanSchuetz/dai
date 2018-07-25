@@ -9,7 +9,7 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Digital
+- Digital Acceleration
 regions: Latin America and the Caribbean
 country: Haiti
 ---

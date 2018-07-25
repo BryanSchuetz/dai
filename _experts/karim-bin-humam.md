@@ -7,7 +7,7 @@ summary: Karim Bin-Humam joined DAI in 2015 to help bridge the divide between cu
 job-title: Senior ICT Specialist
 image: https://assetify-dai.com/experts/Karim%20Inner.jpg
 solutions:
-- Digital
+- Digital Acceleration
 layout: expert
 ---
 

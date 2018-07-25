@@ -9,7 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Finance and Investment
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 - 
 regions:

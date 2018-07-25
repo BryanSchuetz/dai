@@ -8,7 +8,7 @@ summary: 'In low-income countries, good information about personal budgeting and
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 regions: 
 projects: 
 clients: 
@@ -41,4 +41,4 @@ MFO is the leading provider of global financial education content to governments
 [2]: https://www.microfinanceopportunities.org/
 [3]: http://www.internet.org/
 [4]: /who-we-are/our-team/larry-campbell
-[5]: /our-work/solutions/digital
+[5]: /our-work/solutions/digital-acceleration

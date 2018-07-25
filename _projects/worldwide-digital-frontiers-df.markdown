@@ -8,7 +8,7 @@ start: 2017
 end: 2022
 client: U.S. Agency for International Development
 solutions:
-- Digital
+- Digital Acceleration
 - 
 regions: Worldwide
 ---

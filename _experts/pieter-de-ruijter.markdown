@@ -10,7 +10,7 @@ job-title: Technical Lead, Health Care Technology and ICT, Global Health
 image: "/uploads/Pieter%20de%20Ruijter%20DAI%20site.jpg"
 solutions:
 - Global Health
-- Digital
+- Digital Acceleration
 regions:
 - Sub-Saharan Africa
 ---

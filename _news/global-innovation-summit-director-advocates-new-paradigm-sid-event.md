@@ -8,7 +8,7 @@ summary: 'Venture capitalist Victor Hwang, CEO of T2 Venture Creation and author
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 regions: 
 projects: 
 clients: 

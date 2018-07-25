@@ -6,7 +6,7 @@ summary: 'DAI was one of five winners of an Excellence in Evaluation award from 
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 regions: 
 projects: 

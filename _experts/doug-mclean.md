@@ -7,7 +7,7 @@ summary: Doug McLean is responsible for identifying and developing strategic par
 job-title: Vice President, Partnerships
 image: "/uploads/new%20Doug.jpg"
 solutions:
-- Digital
+- Digital Acceleration
 layout: expert
 ---
 

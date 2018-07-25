@@ -8,7 +8,7 @@ job-title: Chief Information Officer
 image: https://assetify-dai.com/experts/LarryInner2.jpg
 solutions:
 - Economic Growth
-- Digital
+- Digital Acceleration
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

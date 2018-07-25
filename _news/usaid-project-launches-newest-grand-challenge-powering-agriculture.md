@@ -9,7 +9,7 @@ summary: 'Today 1.4 billion people lack access to clean energy. The impact of th
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 regions: 
 projects: 

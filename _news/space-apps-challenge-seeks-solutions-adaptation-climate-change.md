@@ -7,7 +7,7 @@ summary: 'The Regional Climate Change Program (RCCP) recently supported the Inst
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 - Climate Change Adaptation and Mitigation
 regions: 
 projects: 

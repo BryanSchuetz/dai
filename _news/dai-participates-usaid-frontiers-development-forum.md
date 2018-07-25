@@ -8,7 +8,7 @@ summary: 'When the U.S. Agency for International Development''s Frontiers in Dev
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 regions: 
 projects: 

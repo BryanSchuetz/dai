@@ -8,7 +8,7 @@ job-title: Senior ICT Specialist
 image: https://assetify-dai.com/experts/anand%20inner.jpg
 solutions:
 - Governance
-- Digital
+- Digital Acceleration
 - Social Strategy
 - Sustainable Business
 regions:

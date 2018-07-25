@@ -11,7 +11,7 @@ image: https://assetify-dai.com/experts/GretaInner.jpg
 solutions:
 - Economic Growth
 - Finance and Investment
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific

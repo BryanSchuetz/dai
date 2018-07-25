@@ -7,7 +7,7 @@ summary: Greg Maly has spent his career working at the intersection of global de
 job-title: Data Scientist and Technical Solutions Engineer
 image: "/uploads/greg.jpg"
 solutions:
-- Digital
+- Digital Acceleration
 - Stabilization
 - Global Health
 regions:

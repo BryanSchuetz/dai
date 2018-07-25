@@ -2,7 +2,7 @@
 title: The DAI Maker Lab
 date: 2016-01-22 00:11:00 Z
 solutions:
-- Digital
+- Digital Acceleration
 redirect_from:
 - "/makerlab"
 layout: solution

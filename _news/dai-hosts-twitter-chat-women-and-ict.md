@@ -7,7 +7,7 @@ summary: 'As part of a month-long Devex campaign on the contributions of women a
 '
 solutions:
 - Gender
-- Digital
+- Digital Acceleration
 regions: 
 projects: 
 clients: 

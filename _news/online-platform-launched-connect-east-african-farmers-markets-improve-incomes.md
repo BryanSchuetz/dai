@@ -8,7 +8,7 @@ summary: 'The Eastern Africa Grain Council (EAGC) has launched an online trading
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 - Economic Growth
 regions:
 - Sub-Saharan Africa

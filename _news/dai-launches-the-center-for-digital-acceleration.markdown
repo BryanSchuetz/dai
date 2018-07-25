@@ -4,7 +4,7 @@ date: 2018-03-20 12:16:00 Z
 is_featured: true
 solutions:
 - Economic Growth
-- Digital
+- Digital Acceleration
 regions: Worldwide
 summary: DAI today announced the launch of the Center for Digital Acceleration, a
   center dedicated to integrating cutting-edge digital tools into development practice.
@@ -19,7 +19,7 @@ DAI today announced the launch of the Center for Digital Acceleration, a center 
 
 “As our world grows more digitally connected, we have an opportunity to produce development results at a faster pace and on a greater scale than ever before,” said DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). “The Center for Digital Acceleration will seize that opportunity.”
 
-Building on DAI’s decade-long investments in [digital development](https://www.dai.com/our-work/solutions/digital) programming across the globe and across sectors, the Center will consolidate DAI’s technical expertise in conducting user-focused research, prototyping technology solutions, investing in promising technology startups, and defining best practices in this fast-growing field.
+Building on DAI’s decade-long investments in [digital development](https://www.dai.com/our-work/solutions/digital-acceleration) programming across the globe and across sectors, the Center will consolidate DAI’s technical expertise in conducting user-focused research, prototyping technology solutions, investing in promising technology startups, and defining best practices in this fast-growing field.
 
 “DAI has a distinct approach to digital solutions—one that is focused on meeting the needs of people on the ground to help improve their lives, not on simply pursuing new technologies for their own sake,” said Senior Director [Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista), who will lead the Center. “So we have immersed ourselves in the [lean human-centered design](https://www.dai.com/hcd.pdf) process, learning from end users and making sure that they remain at the core of design and implementation.”
 

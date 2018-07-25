@@ -8,7 +8,7 @@ summary: 'There is no doubting the growth in popularity of mobile banking. Accor
 '
 solutions:
 - Economic Growth
-- Digital
+- Digital Acceleration
 regions:
 - Sub-Saharan Africa
 projects: Mozambique—Support Program for Economic and Enterprise Development (SPEED)

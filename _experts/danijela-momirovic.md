@@ -10,7 +10,7 @@ regions:
 - Sub-Saharan Africa
 solutions:
 - Economic Growth
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 layout: expert
 image: https://assetify-dai.com/experts/DanijelaMInner.jpg

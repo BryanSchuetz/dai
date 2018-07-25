@@ -7,7 +7,7 @@ summary: 'DAI''s Information and Communications Technology (ICT) team has launch
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 regions: 
 projects: 
 clients: 
@@ -35,4 +35,4 @@ Among the initial posts, you'll find [Anand Varghese][3] reflecting on new progr
 [3]: /who-we-are/our-team/anand-varghese
 [4]: /who-we-are/our-team/adam-fivenson
 [5]: /who-we-are/our-team/karim-bin-humam
-[6]: /our-work/solutions/digital
+[6]: /our-work/solutions/digital-acceleration

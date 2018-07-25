@@ -9,7 +9,7 @@ end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Digital
+- Digital Acceleration
 regions:
 - Asia and the Pacific
 country:

@@ -14,7 +14,7 @@ country:
 solutions:
 - Economic Growth
 - Finance and Investment
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 layout: project
 summary: 'The Tec-In project works to identify and develop innovations in the use

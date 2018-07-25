@@ -7,7 +7,7 @@ summary: 'DAI is delighted to announce that the [Transforming Education in Pakis
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 - Governance
 - Innovation and Entrepreneurship
 - Voice and Accountability

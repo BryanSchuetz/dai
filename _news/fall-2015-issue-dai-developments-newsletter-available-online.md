@@ -7,7 +7,7 @@ summary: The Fall 2015 issue of DAI's _Developments_ newsletter is now available
   of practitioners and stakeholders—including more than 2,400 microfinance institutions,
   3,000 staff, and 57 policy makers—across 32 countries.
 solutions:
-- Digital
+- Digital Acceleration
 - Agriculture and Food Security
 - Governance
 regions:

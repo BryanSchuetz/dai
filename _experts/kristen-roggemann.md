@@ -8,7 +8,7 @@ summary: Kristen Roggemann has extensive field experience in the Middle East and
 job-title: 'Digital Insights and ICT Products Manager '
 image: https://assetify-dai.com/experts/KristenInner.jpg
 solutions:
-- Digital
+- Digital Acceleration
 - Economic Growth
 regions:
 - Asia and the Pacific

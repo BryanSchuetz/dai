@@ -9,7 +9,7 @@ job-title: Technology Director, Global Health
 image: "/uploads/Chetna%20Chawla.jpg"
 solutions:
 - Health Governance
-- Digital
+- Digital Acceleration
 regions:
 - Worldwide
 ---

@@ -7,7 +7,7 @@ summary: Bobby Jefferson, a leader in the field of information and communication
 job-title: Vice President and Chief Technology Officer, DAI Global Health
 image: https://assetify-dai.com/experts/bobby%20jeffersonInner.jpg
 solutions:
-- Digital
+- Digital Acceleration
 - Global Health
 - Innovation and Entrepreneurship
 layout: expert

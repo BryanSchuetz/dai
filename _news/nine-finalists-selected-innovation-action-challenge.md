@@ -6,7 +6,7 @@ summary: Nine organizations have been chosen as finalists for the DAI _[Innovati
   a global competition designed to find and support products and services that will
   help people in developing nations tackle social and economic development problems.
 solutions:
-- Digital
+- Digital Acceleration
 regions: 
 projects: 
 clients:

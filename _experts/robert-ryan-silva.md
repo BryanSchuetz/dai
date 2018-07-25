@@ -13,7 +13,7 @@ job-title: 'Global Practice Specialist, Governance, and Director, DAI Maker Lab
 image: https://assetify-dai.com/experts/RyanSilvaInner.jpg
 solutions:
 - Global Health
-- Digital
+- Digital Acceleration
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

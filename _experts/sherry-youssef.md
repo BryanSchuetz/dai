@@ -12,7 +12,7 @@ image: https://assetify-dai.com/experts/SherryInner.jpg
 solutions:
 - Economic Growth
 - Gender
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 regions:
 - Middle East and North Africa

@@ -9,7 +9,7 @@ job-title: Director, ICT
 image: https://assetify-dai.com/experts/BaptistaInner1.jpg
 solutions:
 - Economic Growth
-- Digital
+- Digital Acceleration
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

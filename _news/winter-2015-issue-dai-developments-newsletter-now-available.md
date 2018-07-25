@@ -6,7 +6,7 @@ summary: The Winter 2015 issue of DAI’s Developments newsletter is now availab
   downloads and counting—that enables Cambodians to use smartphones more easily using
   their native Khmer alphabet.
 solutions:
-- Digital
+- Digital Acceleration
 - Agriculture and Food Security
 - Governance
 regions:

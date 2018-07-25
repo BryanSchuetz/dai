@@ -7,7 +7,7 @@ summary: 'The U.S. Embassy and the city of Valenzuela, Philippines, have partner
 '
 solutions:
 - Economic Growth
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 regions:
 - Asia and the Pacific

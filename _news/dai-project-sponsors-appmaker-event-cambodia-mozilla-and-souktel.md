@@ -8,7 +8,7 @@ summary: 'The Cambodia Development Innovations project, funded by the U.S. Agenc
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 regions:
 - Asia and the Pacific
 projects:

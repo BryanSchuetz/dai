@@ -8,7 +8,7 @@ job-title: Technology Manager, Managing for Development Results
 image: https://assetify-dai.com/experts/carmen_inner.jpg
 solutions:
 - Environment and Energy
-- Digital
+- Digital Acceleration
 layout: expert
 ---
 

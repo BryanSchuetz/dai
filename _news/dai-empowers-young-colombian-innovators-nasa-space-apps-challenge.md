@@ -6,7 +6,7 @@ summary: Colombia's 2015 floods affected some 18,000 people. They destroyed home
   at least 83. The loss of life and millions of dollars in damage have re-emphasized
   the importance of confronting the effects of climate change in Colombia.
 solutions:
-- Digital
+- Digital Acceleration
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 regions:

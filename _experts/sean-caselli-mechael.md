@@ -9,7 +9,7 @@ image: https://assetify-dai.com/experts/seanINNER_1.jpg
 solutions:
 - Fragile States
 - Countering Extremism
-- Digital
+- Digital Acceleration
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

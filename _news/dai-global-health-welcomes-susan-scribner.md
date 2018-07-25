@@ -7,7 +7,7 @@ summary: DAI is delighted to announce that Susan Scribner has joined the firm as
   preparedness across three regions and 16 countries.
 solutions:
 - Global Health
-- Digital
+- Digital Acceleration
 regions: 
 projects: 
 clients: 

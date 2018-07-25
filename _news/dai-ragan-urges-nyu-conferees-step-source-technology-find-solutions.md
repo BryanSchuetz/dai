@@ -8,7 +8,7 @@ summary: 'Technology and innovation ought to shape the work being done in develo
 
 '
 solutions:
-- Digital
+- Digital Acceleration
 - Innovation and Entrepreneurship
 regions: 
 projects: 
