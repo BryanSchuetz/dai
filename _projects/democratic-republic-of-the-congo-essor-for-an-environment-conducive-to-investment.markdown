@@ -24,6 +24,8 @@ Essor’s workstreams focus on:
 3. Improving access to electricity at the provincial level; and
 4. Expanding access to finance (Essor A2F), the workstream implemented by DAI.
 
+![DRC-Essor-web-page-1.jpg](/uploads/DRC-Essor-web-page-1.jpg)
+
 ### Essor A2F Sample Activities
 
 * Assist the Ministry of Finance to develop an MSME-specific chapter inside the first National Financial Inclusion Strategy;
