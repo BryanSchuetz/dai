@@ -8,11 +8,11 @@ summary: We combine our 40-plus years of experience in global development with t
   latest and most relevant information and communication technology (ICT) tools.
 type: primary
 promos:
-- title: "**Our Team:** DAI Digital Experts"
+- title: "**Our Team:** Digital Acceleration Experts"
   link: "/who-we-are/the-team?filter=digital-acceleration"
-- title: "**Our Work:** DAI Digital Projects"
+- title: "**Our Work:** Digital Acceleration Projects"
   link: "/our-work/the-projects?filter=digital-acceleration"
-- title: "**News:** Recent Digital News"
+- title: "**News:** Recent DigitalAcceleration  News"
   link: "/news/view-more-news?filter=digital-acceleration"
 - title: Digital Blog
   link: https://dai-global-digital.com?utm_source=daidotcom
