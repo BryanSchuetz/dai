@@ -1,0 +1,27 @@
+---
+title: 'Democratic Republic of the Congo—Essor: For an Environment Conducive to Investment'
+date: 2018-07-25 22:15:00 Z
+published: false
+---
+
+The five-year Essor Programme was launched in 2015 under a consortium headed by Pricewaterhouse. Essor acts at meso (business associations) and macro (government) levels to improve the incomes of the poor through the development of micro, small, and medium-sized enterprises (MSMEs), including women- and youth-owned and ones in rural areas, through reforms to the country’s investment climate and policies.
+
+Essor’s workstreams focus on:
+
+1. Implementing the Organisation of the Harmonisation of the Business Law in Africa (OHADA), an initiative that comprises 17 countries;
+2. Combatting corruption;
+3. Improving access to electricity at the provincial level; and
+4. Expanding access to finance (Essor A2F), the workstream implemented by DAI.
+
+Essor A2F Sample Activities
+
+* Assist the Ministry of Finance to develop an MSME-specific chapter inside the first National Financial Inclusion Strategy;
+* Support the National Financial Education Programme;
+* Provide exclusive technical assistance aimed at operationalising a leasing-enabling environment following the DRC’s adoption of its leasing law;
+* Provide exclusive technical assistance aimed at effective market liberalisation through an inclusive insurance enabling environment following DRC’s adoption of a new Insurance code.
+
+Essor A2F Select Results
+
+* Developed a Collateral Registry IT tool that allows data gathering, sharing and management of information on borrowers' collateral by financial institutions.
+* Designed financial literacy modules to train potential lessors and lessees in the DRC on how debt, credit, and leasing works.
+* Ongoing assistance to the Banque Centrale du Congo (BCC) led to the bank’s “Instruction,” or implementing measures, to financial institutions regarding leasing.
