@@ -5,7 +5,7 @@ lastname: Baptista
 summary: From her early research in cultural anthropology to subsequent work in management
   consulting, Krista Baptista has always been engaged around ways to do things better
   and empower entrepreneurs to use new skills and tools.
-job-title: Director, ICT
+job-title: Senior Director, Center for Digital Acceleration
 image: https://assetify-dai.com/experts/BaptistaInner1.jpg
 solutions:
 - Economic Growth
@@ -19,9 +19,7 @@ regions:
 layout: expert
 ---
 
-From her early research in cultural anthropology to subsequent work in management consulting, Krista Baptista has always been engaged around ways to do things better and empower entrepreneurs to use new skills and tools. Combining this background with an interest in international development led her to DAI and, specifically, to ways that information and communication technology (ICT) and geospatial tools can be integrated into development work.
-
-Krista leads the ICT/Geospatial Services team for DAI's Office of Information and Management Technology. She is responsible for designing, managing, and supporting ICT and geospatial deliverables for DAI projects and for overseeing the team. She is also responsible for DAI's ICT and geospatial strategy, identifying, and negotiating with key partners and consultants, and supporting related new business efforts. Previously at DAI, she worked in knowledge management, marketing, and business development. In 2006, Krista was Team Leader for the Microenterprise Results Reporting project, where she was responsible for managing a database-driven initiative that collected and reported on global microfinance data.
+From her early research in cultural anthropology to subsequent work in management consulting, Krista has always been engaged around ways to do things better and empower entrepreneurs to use new skills and tools. Combining this background with an interest in international development led her to DAI and, specifically, to the ways that information and communication technology (ICT) and digital can be integrated into development work to accelerate development impacts and make people’s lives better. As the leader of DAI’s Center for Digital Acceleration, Krista is responsible for leading the team, advancing the Center’s strategy, and delivering on project commitments to high-quality digital work. Krista works with the USAID Digital Frontiers Project and frequently speaks on the future of technology and digital jobs, the digital principles, women and digital, and other topics. She also lectures on Digital Innovations for Emerging Markets at the Johns Hopkins School for Advanced International Studies. 
 
 * M.A., Western hemisphere and international economics, Johns Hopkins School for Advanced International Studies
 * B.A., geography, Clark University
