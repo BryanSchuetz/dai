@@ -24,6 +24,8 @@ The project generated evidence showing that it is feasible to provide pre-referr
 
 MAM used a health systems and operational research approach to address the constraints that limit knowledge of severe malaria at community level and access to quality medical drugs which undermine effect case management.
 
+![ZAMBIA_page.jpg](/uploads/ZAMBIA_page.jpg)
+
 ### Sample Activities
 
 * Increase access to severe malaria commodities in remote areas.
