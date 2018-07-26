@@ -1,7 +1,7 @@
 ---
 title: Zambia—MAMaZ Against Malaria (MAM)
 date: 2018-01-16 17:45:00 Z
-summary: The MAMaZ Against Malaria project addresses the lack of access to quality
+summary: The MAMaZ Against Malaria project addressed the lack of access to quality
   commodities for case management of severe malaria in rural Zambia.
 start: 2017
 end: 2018
@@ -32,4 +32,5 @@ MAM used a health systems and operational research approach to address the const
 
 ### Select Results
 
+* Provided proof that rectal artesunate administered in rural communities is a highly effective intervention for severe malaria among young children (6 months to 6 years old). The severe malaria mortality rate in this age group fell by 94.6 percent.
 * 
