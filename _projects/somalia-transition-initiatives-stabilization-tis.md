@@ -13,6 +13,7 @@ solutions:
 - Countering Extremism
 - Peace-Building and Political Transition
 - Stabilization
+- Workforce Development
 regions:
 - Sub-Saharan Africa
 country:

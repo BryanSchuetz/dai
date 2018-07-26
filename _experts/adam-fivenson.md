@@ -11,6 +11,7 @@ solutions:
 - Fragile States
 - Peace-Building and Political Transition
 - Governance
+- Workforce Development
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean

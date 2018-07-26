@@ -16,6 +16,7 @@ solutions:
 - Legislative Strengthening
 - Security and Justice
 - Fragile States
+- Workforce Development
 regions:
 - Latin America and the Caribbean
 - Middle East and North Africa

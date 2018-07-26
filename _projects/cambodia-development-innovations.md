@@ -10,6 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Digital Acceleration
+- Workforce Development
 regions:
 - Asia and the Pacific
 country:

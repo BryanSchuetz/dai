@@ -33,4 +33,6 @@ Our economic growth work brings together the right mix of industry dynamics to u
 
 [Innovation and Entrepreneurship](/our-work/solutions/economic-growth-solutions/innovation-and-entrepreneurship)—We were a pioneer in developing and implementing innovative startup, small, and medium enterprises and private sector growth strategies for national and international competitiveness.
 
+[Workforce Development](/our-work/solutions/economic-growth-solutions/workforce-development)—The global financial crisis of 2007 left in its wake a population of young people pushed out of traditional economic, political, and social pathways. Without steady jobs, on top of limited access to quality educational opportunities, youth around the world reacted in powerful and noticeable ways.
+
 [Gender](/our-work/solutions/economic-growth-solutions/gender)—DAI integrates gender equity and women’s empowerment programming across all our services: design, research, monitoring and evaluation, assessments, and implementation, as well as through our staffing.

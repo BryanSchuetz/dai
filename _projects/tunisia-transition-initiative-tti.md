@@ -13,6 +13,7 @@ solutions:
 - Fragile States
 - Countering Extremism
 - Peace-Building and Political Transition
+- Workforce Developemnt
 layout: project
 summary: 'After a month of youth-led protests fueled by social and economic pressures,
   corruption, and political repression, the Tunisian president and several family

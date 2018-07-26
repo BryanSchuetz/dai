@@ -15,6 +15,7 @@ solutions:
 - Sustainable Livelihoods
 - Transition and Stabilization Programming
 - Voice and Accountability
+- Workforce Development
 regions:
 - Eastern Europe and Central Asia
 country:

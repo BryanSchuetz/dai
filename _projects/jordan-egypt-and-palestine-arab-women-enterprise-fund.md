@@ -15,6 +15,7 @@ solutions:
 - Institutional and Policy Reform
 - Gender
 - Value Chain and Market Systems Development
+- Workforce Development
 regions:
 - Middle East and North Africa
 country:

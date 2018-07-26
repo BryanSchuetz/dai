@@ -10,6 +10,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
+- Workforce Development
 regions:
 - Latin America and the Caribbean
 country:

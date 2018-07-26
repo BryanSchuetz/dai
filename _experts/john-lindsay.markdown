@@ -13,6 +13,7 @@ solutions:
 - Fragile States
 - Security and Justice
 - Public Financial Management
+- Workforce Development
 Lastname: Lindsay
 ---
 
