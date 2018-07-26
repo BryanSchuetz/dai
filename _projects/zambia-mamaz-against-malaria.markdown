@@ -14,18 +14,22 @@ country: 'Zambia '
 
 Malaria is a serious public health problem in rural Zambia, particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years.
 
-The MAMaZ Against Malaria (MAM) project addresses the lack of access to quality commodities for case management of severe malaria in rural Zambia.
+The MAMaZ Against Malaria (MAM) project addressed the lack of access to quality commodities for case management of severe malaria in rural Zambia.
 
-The project aims to [increase access](http://www.transaid.org/news/josephines-story/) to community-based pre-referral treatment for severe malaria for children from six months to under 6 years old, and to reduce referral delays from the community to health facilities that are equipped to treat severe malaria.
+The project [increased access](http://www.transaid.org/news/josephines-story/) to community-based pre-referral treatment for severe malaria for children from six months to under 6 years old, and to reduce referral delays from the community to health facilities that are equipped to treat severe malaria.
 
-The goal of the project is to devise an evidence-based and sustainable strategy for improving the access of hard-to-reach communities to effective treatment for severe malaria.
+The goal of the project was to devise an evidence-based and sustainable strategy for improving the access of hard-to-reach communities to effective treatment for severe malaria.
 
-The project is working to generate evidence to show that it is feasible to provide pre-referral treatment for severe malaria in the communities and improve case management of severe malaria at lower-level health facilities.
+The project generated evidence showing that it is feasible to provide pre-referral treatment for severe malaria in the communities and improve case management of severe malaria at lower-level health facilities.
 
-MAM uses a health systems and operational research approach to address the constraints that limit knowledge of severe malaria at community level and access to quality medical drugs which undermine effect case management.
+MAM used a health systems and operational research approach to address the constraints that limit knowledge of severe malaria at community level and access to quality medical drugs which undermine effect case management.
 
 ### Sample Activities
 
 * Increase access to severe malaria commodities in remote areas.
 * Intervene at the community level to reduce barriers and delays in treatment-seeking and increase patient completion of referral.
 * Intervene at the facility level to optimize case management for severe malaria.
+
+### Select Results
+
+* 
