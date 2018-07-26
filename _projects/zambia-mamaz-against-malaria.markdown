@@ -33,4 +33,4 @@ MAM used a health systems and operational research approach to address the const
 ### Select Results
 
 * Provided proof that rectal artesunate administered in rural communities is a highly effective intervention for severe malaria among young children (6 months to 6 years old). The severe malaria mortality rate in this age group fell by 94.6 percent.
-* 
+* Trained community health workers to mobilise their communities in support of a severe malaria agenda and to set up and manage systems to address the access and affordability barriers to use of services. 
