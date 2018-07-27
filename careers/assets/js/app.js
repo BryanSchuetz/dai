@@ -14,8 +14,8 @@ var vm = new Vue({
             page: 1,
             totalPages: 0,
             from: 0,
-            to: 20,
-            perPage: 20
+            to: 30,
+            perPage: 30
         }
     },
     methods: {
