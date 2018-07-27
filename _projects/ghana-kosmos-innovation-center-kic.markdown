@@ -11,7 +11,7 @@ solutions:
 - Sustainable Business
 - Innovation and Entrepreneurship
 - Local Content and Supply Chain Management
-- Workforce Development
+- Workforce Development and Youth
 regions: Sub-Saharan Africa
 country: Ghana
 promos:

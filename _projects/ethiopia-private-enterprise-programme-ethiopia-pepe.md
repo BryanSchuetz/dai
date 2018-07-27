@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 - Gender
 - Value Chain and Market Systems Development
-- Workforce Development
+- Workforce Development and Youth
 regions:
 - Sub-Saharan Africa
 country:

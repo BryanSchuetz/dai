@@ -1,7 +1,7 @@
 ---
-title: Workforce Development
+title: Workforce Development and Youth
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/economic-growth-solutions/workforce-development"
+permalink: "/our-work/solutions/economic-growth-solutions/workforce-development-and-youth"
 solutions:
 - Economic Growth
 layout: solution

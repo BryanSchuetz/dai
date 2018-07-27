@@ -10,7 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Health and Livelihoods
-- Workforce Development
+- Workforce Development and Youth
 regions: Sub-Saharan Africa
 country: Tanzania
 ---

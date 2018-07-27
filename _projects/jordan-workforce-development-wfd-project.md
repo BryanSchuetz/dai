@@ -18,7 +18,7 @@ solutions:
 - Gender
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
-- Workforce Development
+- Workforce Development and Youth
 regions:
 - Middle East and North Africa
 country:
