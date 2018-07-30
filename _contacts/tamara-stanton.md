@@ -1,7 +1,7 @@
 ---
 title: Tamara Stanton
 date: 2016-01-21 22:18:00 Z
-job-title: 'Managing Director, Business Development '
+job-title: 'Vice President, Business Development '
 email: tamara_stanton@dai.com
 summary: 'Tamara heads the company’s business development efforts with the U.S. Government.
   She has led teams throughout the company to support every aspect of new business
