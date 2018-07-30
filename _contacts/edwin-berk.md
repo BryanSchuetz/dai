@@ -1,7 +1,7 @@
 ---
 title: Edwin Berk
 date: 2016-01-21 22:18:00 Z
-job-title: Director, Business Development, Middle East, North Africa, and Afghanistan
+job-title: Vice President, Business Development, Middle East, North Africa, and Afghanistan
 email: edwin_berk@dai.com
 summary: Edwin heads business development efforts in the Middle East, North Africa,
   and Afghanistan. He has made a career of building the businesses of professional
