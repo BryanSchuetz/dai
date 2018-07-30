@@ -1,7 +1,7 @@
 ---
 title: Sani Daher
 date: 2016-01-21 22:18:00 Z
-job-title: Regional Managing Director, Global, LAC, Europe
+job-title: Vice President, Global, LAC, Europe Region
 email: sani_daher@dai.com
 summary: Sani leads delivery of DAI’s global projects, as well as those in Europe
   and Latin America. He rejoined DAI in 2005 after serving as CEO of the Palestine
