@@ -1,7 +1,7 @@
 ---
 title: Baigal Darambazar
 date: 2016-01-21 22:18:00 Z
-job-title: Senior Director, Contracts and Procurement
+job-title: Vice President, Contracts and Procurement
 email: baigal_darambazar@dai.com
 summary: 'Baigal leads the Contracts and Procurement office, which provides support
   in administering contracts, refining related policies, procedures and training,
