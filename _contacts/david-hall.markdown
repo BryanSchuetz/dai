@@ -1,7 +1,7 @@
 ---
 title: David Hall
 date: 2018-01-22 14:15:00 Z
-job-title: Vice President, Business Development, Africa
+job-title: Director, New Business Development, Africa Region
 email: david_hall@dai.com
 summary: David leads the company’s business development efforts in sub-Saharan Africa.
   David manages an eight-person team and oversees all business development functions
