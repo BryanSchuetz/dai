@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Daher
 summary: Sani Daher rejoined DAI in 2005 after serving as CEO of the Palestine Trade
   Center from September 2004 until October 2005.
-job-title: Regional Managing Director, Global, LAC, Europe
+job-title: Vice President, Global, LAC, and Europe Region
 image: https://assetify-dai.com/experts/Daher_Inner.jpg
 regions:
 - Eastern Europe and Central Asia
