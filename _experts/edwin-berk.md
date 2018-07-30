@@ -5,7 +5,8 @@ lastname: Berk
 summary: Edwin Berk has made a career of building the businesses of professional services
   companies where public and private sectors intersect. After a brief stint teaching
   at Yale University, he joined a public policy consulting firm.
-job-title: Director, Business Development, Middle East, North Africa, and Afghanistan
+job-title: 'Vice President, Business Development, Middle East, North Africa, and Afghanistan
+  Region '
 image: https://assetify-dai.com/experts/Berk_Inner_0.jpg
 solutions:
 - Agriculture and Food Security
