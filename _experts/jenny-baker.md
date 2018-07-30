@@ -2,9 +2,9 @@
 title: Jenny Baker
 date: 2016-01-21 22:18:00 Z
 lastname: Baker
-summary: 'As Senior Director of Programmes for Global Health, Jenny ensures that our
-  European health programmes are delivered on time, on budget, and with high quality. '
-job-title: Senior Director of Programmes, Global Health
+summary: 'As Vice President for Global Health, Jenny ensures that our European health
+  programmes are delivered on time, on budget, and with high quality. '
+job-title: Vice President, Global Health
 image: https://assetify-dai.com/experts/Baker_Inner.jpg
 solutions:
 - Global Health
