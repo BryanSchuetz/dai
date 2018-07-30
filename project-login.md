@@ -19,7 +19,7 @@ Our Technical and Administrative Management Information System (TAMIS) is a comp
 				<a href="https://aberdare.dai.com/DAI/Kenya_FIRM.nsf?OpenDatabase&amp;LOGIN=1">Financial Inclusion for Rural Microenterprise (FIRM)</a></li>
 		</ul><p><strong>Mozambique</strong></p>
 		<ul class="tamisLinks"><li>
-				<a href="https://kampfumo.dai.com/Projects/Mozambique/FSD/FSDMoz_TAMIS.nsf?OpenDatabase&amp;LOGIN=1">Financial Services Development Mozambique (FSDMoc)</a></li>
+				<a href="https://tamis.dai.com/Projects/Mozambique/FSD/FSDMoz_TAMIS.nsf?OpenDatabase&LOGIN=1">Financial Services Development Mozambique (FSDMoc)</a></li>
 		</ul><p><strong>Sierra Leone</strong></p>
 		<ul class="tamisLinks"><li>
 				<a href="https://freetown.dai.com/DAI/SierraLeoneASJP_TAMIS.nsf?OpenDatabase&amp;LOGIN=1">Security and Justice Programme (ASJP)</a></li>
