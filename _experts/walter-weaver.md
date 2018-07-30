@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Weaver
 summary: For the last 20 years, Walter Weaver has focused his broad interests in development
   on environment projects in Asia, Latin America, the Middle East, and parts of Africa.
-job-title: 'Regional Managing Director, Asia '
+job-title: Vice President, Asia Region
 image: https://assetify-dai.com/experts/innerweaver.jpg
 solutions:
 - Environment and Energy
