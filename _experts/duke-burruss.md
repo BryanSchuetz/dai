@@ -6,7 +6,7 @@ summary: Duke Burruss has deep technical expertise in agricultural and rural dev
   marketing and distribution, competitive value chains, international trade, and public-private
   partnerships, and has managed numerous complex regional projects in Sub-Saharan
   Africa.
-job-title: 'Regional Managing Director, Africa '
+job-title: Vice President, Africa Region
 image: "/uploads/Large%20duke.jpg"
 solutions:
 - Agriculture and Food Security
