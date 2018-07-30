@@ -1,7 +1,7 @@
 ---
 title: Duke Burruss
 date: 2018-07-24 18:12:00 Z
-job-title: 'Regional Managing Director, Africa '
+job-title: Vice President, Africa Region
 email: 'duke_burruss@dai.com '
 summary: 'Duke manages the company’s Africa portfolio. He joined DAI in 2010, bringing
   deep technical expertise in agricultural and rural development, marketing and distribution,
