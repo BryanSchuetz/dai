@@ -1,7 +1,7 @@
 ---
 title: Paola Lang
 date: 2017-10-06 15:47:00 Z
-job-title: Vice President, Business Development, Global Region
+job-title: Director, New Business Development, Global Region
 email: 'paola_lang@dai.com '
 summary: Paola heads new business development for Latin America, the Caribbean, and
   Eastern Europe. She joined DAI in 2004 as a member of DAI’s business development
