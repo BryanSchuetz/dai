@@ -5,11 +5,12 @@ published: false
 lastname: 'Hamid '
 summary: As part of DAI’s Sustainable Business Group (SBG), Haaniah Hamid provides
   technical and development support for SBG’s Local Content Plan and Reporting platform.
-job-title: Associate Analyst
+job-title: Associate Analyst, Sustainable Business Group
 image: "/uploads/20180713_163334.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
+- 
 ---
 
 As part of DAI’s Sustainable Business Group (SBG), Haaniah Hamid provides technical and development support for SBG’s Local Content Plan and Reporting platform. Haaniah’s interest in local content began while pursuing her master’s in engineering for international development, where she was exposed to the potential of the private sector to help develop local economies.
