@@ -1,5 +1,5 @@
 ---
-title: Felcity Buckle
+title: Felicity Buckle
 date: 2018-08-03 16:10:00 Z
 lastname: Buckle
 summary: Felicity Buckle coordinates DAI’s land portfolio across a variety of donors,
