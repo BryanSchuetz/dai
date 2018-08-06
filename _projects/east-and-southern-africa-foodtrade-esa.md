@@ -1,9 +1,10 @@
 ---
 title: East and Southern Africa—FoodTrade ESA
 date: 2016-01-21 22:40:00 Z
-summary: FoodTrade ESA works to systemically improve the national and regional staple
-  food market systems, directly impacting more than 400,000 households and consumers
-  through stable markets for staple food products.
+summary: From 2013 to 2018, FoodTrade worked at improving the functioning of national
+  and regional staple food market systems for beans, maize, rice, and soybeans—crops
+  that are critical for low-income consumers and smallholder farmers—across nine countries
+  in East Africa.
 start: 2013
 end: 2018
 client: U.K. Department for International Development
@@ -18,9 +19,11 @@ country:
 layout: project
 ---
 
-FoodTrade ESA works to systemically improve the national and regional staple food market systems, directly impacting more than 400,000 households and consumers through stable markets for staple food products. The program works to enable private sector to invest and develop regional staple markets, benefiting farmers and consumers.
+From 2013 to 2018, FoodTrade worked at improving the functioning of national and regional staple food market systems for beans, maize, rice, and soybeans—crops that are critical for low-income consumers and smallholder farmers—across nine countries in East Africa.
 
-Based in Dar es Salaam, the program works across nine countries: Burundi, Kenya, Malawi, Mozambique, Rwanda, Tanzania, Uganda, Zambia, and Zimbabwe. Through two facilitative tools—a Challenge Fund and Development Fund—the program will foster catalytic and innovative solutions. For more information and the latest updates, visit the [FoodTrade ESA website](http://foodtradeesa.com/).
+FoodTrade ESA improved the national and regional staple food market systems, directly impacting more than 400,000 households and consumers through stable markets for staple food products. The program worked to enable private sector to invest and develop regional staple markets, benefiting farmers and consumers.
+
+Through two facilitative tools—a Challenge Fund and Development Fund—the program fostered catalytic and innovative solutions. 
 
 ![](https://assetify-dai.com/projects/FoodTradeESA.jpg)
 
