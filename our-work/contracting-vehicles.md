@@ -1,10 +1,10 @@
 ---
 title: Contracting Vehicles
 permalink: "/our-work/working-with-dai/contracting-vehicles"
-layout: node
 summary: DAI holds umbrella contracts from various clients through which development
   programs can be funded and administered.
 hero: true
+layout: node
 ---
 
 # U.S. Agency for International Development
@@ -15,8 +15,6 @@ hero: true
 
 ### Economic Growth
 
-* Equatorial Guinea Liquid Natural Gas Operations, SA (2007–2017)
-
 * SEGIR Financial Sector II Blanket Purchasing Agreement (BPA) (SEGIR-FS II) (2004–2019)
 
 ### Environment and Energy
@@ -25,13 +23,11 @@ hero: true
 
 * Water and Development (WADI) (2015–2019)
 
-* Strengthening Tenure and Resource Rights (STARR) (2012–2017)
+* Strengthening Tenure and Resource Rights II (STARR II) (2018–2023)
 
 * Clean Energy for Non-Critical Priority Countries (2013–2018) (DAI sub)
 
 ### Governance
-
-* Public Financial Management (PFM) (2012-2017)
 
 * Programming Effectively Against Conflict and Extremism (PEACE) (2013-2018)
 
