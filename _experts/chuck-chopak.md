@@ -2,17 +2,18 @@
 title: Chuck Chopak
 date: 2016-01-21 22:18:00 Z
 lastname: Chopak
-summary: With more than 30 years of experience, Chuck Chopak heads our Technical Services
-  unit.
-job-title: Vice President, Technical Services
+summary: 'With more than 30 years of experience, Chuck Chopak is Vice President of
+  Development Results '
+job-title: Vice President, Development Results
 image: https://assetify-dai.com/experts/innerchopak.jpg
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Nutrition and Food Security
+- 
 regions:
-- Middle East and North Africa
-- Sub-Saharan Africa
+- Worldwide
+- 
+- Worldwide
 layout: expert
 ---
 
@@ -22,7 +23,7 @@ The village chief gave him the name Ibrahima Diene, and he went to work building
 
 > “Life was harsh—I used the same bathroom, got sick from the same water, saw kids dying at an early age, and saw the joy that a good harvest brought.” — Chuck Chopak
 
-After earning his doctorate, Chuck went on to lead some of the world’s most important food security programs, including the Washington, D.C.-based Famine Early Warning Systems Network (FEWS NET). He served long-term postings in Senegal and Zimbabwe and completed numerous assignments in African nations and Haiti. He now leads the DAI team implementing food security projects in Africa and Central Asia. 
+After earning his doctorate, Chuck went on to lead some of the world’s most important food security programs, including the Washington, D.C.-based Famine Early Warning Systems Network (FEWS NET). He served long-term postings in Senegal and Zimbabwe and completed numerous assignments in African nations and Haiti. Today, Chuck focuses on capturing the data from our projects, analyzing, and learning from those results.  
 
 * President, Association for International Agriculture and Rural Development
 * Ph.D., agricultural economics, Michigan State University
