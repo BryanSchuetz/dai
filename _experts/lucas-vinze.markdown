@@ -1,7 +1,6 @@
 ---
 title: Lucas Vinze
 date: 2018-08-03 17:30:00 Z
-published: false
 lastname: Vinze
 summary: As a Principal Analytics Specialist for DAI’s Sustainable Business Group,
   Lucas Vinze brings extensive experience working with international supply chains.
@@ -17,5 +16,4 @@ As a Principal Analytics Specialist for DAI’s Sustainable Business Group, Luca
 Prior to joining DAI, Lucas supported the design and implementation of information systems for large clients, including military organizations, mining companies, and transnational trading organizations. He speaks Italian, Spanish, Portuguese, French, and Mandarin Chinese.
 
 * M.A., international affairs and development economics, Texas A&M University
-
 * B.S., international business and economics, University of Arkansas
