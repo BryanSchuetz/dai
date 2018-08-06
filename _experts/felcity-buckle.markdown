@@ -8,6 +8,8 @@ job-title: Senior Consultant, Land Tenure and Property Rights
 image: "/uploads/Fbuckle.jpg"
 solutions:
 - Land Tenure and Property Rights
+- Governance
+- Gender and Social Inclusion
 regions:
 - Worldwide
 ---
