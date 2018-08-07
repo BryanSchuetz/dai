@@ -1,6 +1,7 @@
 ---
 title: Shanna Tova O’Reilly
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: O'Reilly
 summary: 'Shanna Tova O''Reilly has more than 15 years of experience in stabilization
   and citizen security, working with the U.S. Agency for International Development,
