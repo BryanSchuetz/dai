@@ -1,7 +1,6 @@
 ---
 title: DAI Hosts Third Mandela Washington Fellow
 date: 2018-08-08 14:40:00 Z
-published: false
 solutions:
 - Economic Growth
 - Workforce Development and Youth
@@ -15,9 +14,9 @@ DAI is delighted to welcome Soilihi Massoundi as part of the Mandela Washington 
 
 ![fellow.jpg](/uploads/fellow.jpg){:.float-left}
  
-The Mandela Washington Fellowship is part of the Young Africa Leadership Initiative established by former President Obama to support Africa’s young leaders in promoting good governance, spurring entrepreneurship, and engaging civil society. [Soulihi](https://www.youtube.com/watch?v=4QJdpS8S6Rc&feature=youtu.be)—who is from the East African island country of Comoros—works as a youth program manager at the Comorian Association for Family Well-being. He is interested in the links between public health, the marine environment, and sustainable livelihoods such as fishing and tourism.
+The Mandela Washington Fellowship is part of the Young Africa Leadership Initiative established by former President Obama to support Africa’s young leaders in promoting good governance, spurring entrepreneurship, and engaging civil society. [Soulihi](https://www.youtube.com/watch?v=4QJdpS8S6Rc&feature=youtu.be)—who is from the East African island country of Comoros—works as a youth program manager at the Comorian Association for Family Wellbeing. He is interested in the links between public health systems, the marine environment, and sustainable livelihoods such as fishing and tourism.
  
-In 2011, he founded the Youth Association of Bangoi Kouni for the Sustainable Development of the Marine Environment. Soilihi has also led trainings on human rights and HIV and is a member of the Francophone youth movement “Libre Ensemble.”
+In 2011, Soilihi founded the Youth Association of Bangoi Kouni for the Sustainable Development of the Marine Environment. He has also led trainings on human rights and HIV and is a member of the Francophone youth movement “Libre Ensemble.”
  
 “My personal goals are to enhance my leadership skills, make some connections, and learn about management from DAI,” says Soilihi. As an up-and-coming leader, Soilihi believes “it is our role to help people surpass the issues that hold them back.”
  
