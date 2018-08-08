@@ -20,4 +20,4 @@ In 2011, Soilihi founded the Youth Association of Bangoi Kouni for the Sustainab
  
 “My personal goals are to enhance my leadership skills, make some connections, and learn about management from DAI,” says Soilihi. As an up-and-coming leader, Soilihi believes “it is our role to help people surpass the issues that hold them back.”
  
-Soilihi is the third Mandela Fellow hosted by DAI. There are [100 Fellows](https://www.facebook.com/MandelaWashingtonFellowship/posts/852794611585785) spending six weeks in Washington, D.C., and around the country, as part of the program’s professional development initiative.
+Soilihi is the third Mandela Fellow hosted by DAI. There are [100 Fellows](https://www.facebook.com/MandelaWashingtonFellowship/posts/852794611585785) spending six weeks in Washington, D.C., and around the United States, as part of the program’s professional development initiative.
