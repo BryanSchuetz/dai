@@ -18,11 +18,11 @@ Our work in Nigeria has improved domestic resource mobilization at the state and
 
 The transcript of Dr. Fayemi’s speech follows:
 
-** “Short-Termism vs. Sustainable Development: My Ekiti experience—Implications for Democratic Development” **
+**Short-Termism vs. Sustainable Development: My Ekiti experience—Implications for Democratic Development**
 
-Excellencies, Distinguished ladies and gentlemen.
+*Excellencies, Distinguished ladies and gentlemen.*
 
-Let me express my gratitude for the privilege of addressing this audience. I would like to thank particularly the CEO of DAI [Jim Boomgard] and the Country Director, my brother and friend, Dr. Joe Abah, for asking me to do this. This is my first public engagement since the historic election in my state almost a month ago. It is understandable therefore if I use this occasion to share a few thoughts on the trajectory of politics, governance, and elections in my home state Ekiti, and its implications for democratic development in Nigeria.
+*Let me express my gratitude for the privilege of addressing this audience. I would like to thank particularly the CEO of DAI [Jim Boomgard] and the Country Director, my brother and friend, Dr. Joe Abah, for asking me to do this. This is my first public engagement since the historic election in my state almost a month ago. It is understandable therefore if I use this occasion to share a few thoughts on the trajectory of politics, governance, and elections in my home state Ekiti, and its implications for democratic development in Nigeria.*
 
 **The Myth of Stomach Infrastructure in Nigeria**
 
