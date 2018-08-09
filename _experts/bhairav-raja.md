@@ -22,7 +22,7 @@ articles:
 layout: expert
 ---
 
-Bhairav Raja serves clients in our Sustainable Business Group's (SBG) corporate social investment portfolio, including multinational corporations in retail and oil and gas. In addition to designing and managing private sector engagement programs, he has supported DAI’s government clients in a variety of capacities. Bhairav has worked in frontier and nascent markets in Africa and Latin America and brings expertise in financial sector development, including improving access to finance in agribusiness and renewable energy markets.
+Bhairav Raja serves clients in our Sustainable Business Group’s (SBG) corporate social investment portfolio, including multinational corporations in retail and oil and gas. In addition to designing and managing private sector engagement programs, he has supported DAI’s government clients in a variety of capacities. Bhairav has worked in frontier and nascent markets in Africa and Latin America and brings expertise in financial sector development, including improving access to finance in agribusiness and renewable energy markets.
 
 Prior to joining SBG, he served as Technical Director in DAI’s Economic Growth portfolio, where he oversaw financial sector deepening programs in Mozambique, Zambia, and the Democratic Republic of the Congo. Born in Kenya, Bhairav began his career working for major global media and investment banking corporations and has lived in Brazil, Colombia, and South Africa. He is fluent in English, Portuguese, Spanish, French, and Gujarati.
 
