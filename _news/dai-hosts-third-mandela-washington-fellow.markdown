@@ -16,10 +16,10 @@ DAI is delighted to welcome Soilihi Massoundi as part of the Mandela Washington 
 
 ![fellow.jpg](/uploads/fellow.jpg){:.float-left}
  
-The Mandela Washington Fellowship is part of the Young Africa Leadership Initiative established by former President Obama to support Africa’s young leaders in promoting good governance, spurring entrepreneurship, and engaging civil society. [Soulihi](https://www.youtube.com/watch?v=4QJdpS8S6Rc&feature=youtu.be)—who is from the East African island country of Comoros—works as a youth program manager at the Comorian Association for Family Well-being. He is interested in the links between public health systems, the marine environment, and sustainable livelihoods such as fishing and tourism.
+The Mandela Washington Fellowship is part of the Young Africa Leadership Initiative established by former President Obama to support Africa’s young leaders in promoting good governance, spurring entrepreneurship, and engaging civil society. [Soilihi](https://www.youtube.com/watch?v=4QJdpS8S6Rc&feature=youtu.be)—who is from the East African island country of Comoros—works as a youth program manager at the Comorian Association for Family Well-being. He is interested in the links between public health systems, the marine environment, and sustainable livelihoods such as fishing and tourism.
  
 In 2011, Soilihi founded the Youth Association of Bangoi Kouni for the Sustainable Development of the Marine Environment. He has also led trainings on human rights and HIV and is a member of the Francophone youth movement “Libre Ensemble.”
  
 “My personal goals are to enhance my leadership skills, make some connections, and learn about management from DAI,” says Soilihi. As an up-and-coming leader, Soilihi believes “it is our role to help people surpass the issues that hold them back.”
  
-Soilihi is the third Mandela Fellow hosted by DAI. There are [100 Fellows](https://www.facebook.com/MandelaWashingtonFellowship/posts/852794611585785) spending six weeks in Washington, D.C., and around the United States, as part of the program’s professional development initiative.
+Soilihi is the third Mandela Fellow hosted by DAI. There are [100 Fellows](https://www.facebook.com/MandelaWashingtonFellowship/posts/852794611585785) spending six weeks in Washington, D.C., and around the United States, as part of the program’s professional development experience.
