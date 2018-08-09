@@ -18,7 +18,7 @@ Our work in Nigeria has improved domestic resource mobilization at the state and
 
 The transcript of Dr. Fayemi’s speech follows:
 
-*“Short-Termism vs. Sustainable Development: My Ekiti experience—Implications for Democratic Development”
+** “Short-Termism vs. Sustainable Development: My Ekiti experience—Implications for Democratic Development” **
 
 Excellencies, Distinguished ladies and gentlemen.
 
