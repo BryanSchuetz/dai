@@ -14,6 +14,8 @@ DAI has made major commitments in Nigeria in the last few years, with the hiring
 
 Our work in Nigeria has improved domestic resource mobilization at the state and local government level, improved and increased access to maternal and child health services in northern Nigeria, laid the groundwork for systematic improvements in water resource management, enhanced the productivity of commercial food companies and distribution, and enacted the policy reforms needed to promote private sector growth, among other results. 
 
+![Nigeria board.jpg](/uploads/Nigeria%20board.jpg)
+
 The transcript of Dr. Fayemi’s speech follows:
 
 *“Short-Termism vs. Sustainable Development: My Ekiti experience—Implications for Democratic Development”
