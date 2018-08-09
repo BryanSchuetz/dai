@@ -12,6 +12,8 @@ social-image: "/uploads/fellow-948654.jpg"
 
 DAI is delighted to welcome Soilihi Massoundi as part of the Mandela Washington Fellowship for Young African Leaders. Soilihi will work through September with DAI’s [Youth and Workforce Development](https://www.dai.com/our-work/solutions/economic-growth-solutions/workforce-development-and-youth) global practice on knowledge management and business development initiatives.
 
+<!--more-->
+
 ![fellow.jpg](/uploads/fellow.jpg){:.float-left}
  
 The Mandela Washington Fellowship is part of the Young Africa Leadership Initiative established by former President Obama to support Africa’s young leaders in promoting good governance, spurring entrepreneurship, and engaging civil society. [Soulihi](https://www.youtube.com/watch?v=4QJdpS8S6Rc&feature=youtu.be)—who is from the East African island country of Comoros—works as a youth program manager at the Comorian Association for Family Well-being. He is interested in the links between public health systems, the marine environment, and sustainable livelihoods such as fishing and tourism.
