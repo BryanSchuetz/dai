@@ -15,7 +15,7 @@ Our work in Nigeria has improved domestic resource mobilization at the state and
 
 ![Nigeria board.jpg](/uploads/Nigeria%20board.jpg)`Dr. Fayemi, from left, with Dr. Joe Abah, Jim Boomgard, and DAI Board Chair Betsey Nelson, in Nigeria.` 
 
-This transcript of Dr. Fayemi’s speech follows:
+The transcript of Dr. Fayemi’s speech follows:
 
 **Short-Termism vs. Sustainable Development: My Ekiti experience—Implications for Democratic Development**
 
