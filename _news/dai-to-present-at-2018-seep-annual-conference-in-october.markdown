@@ -7,7 +7,7 @@ summary: 'DAI is delighted to be presenting three panels at the upcoming 2018 SE
 social-image: "/uploads/Screen%20Shot%202018-08-13%20at%2011.04.57%20AM.png"
 ---
 
-DAI is delighted to be presenting three panels at the upcoming 2018 SEEP Annual Conference, ["Collaboration for Impact"](https://seepnetwork.org/Theme-Technical-Tracks), taking place in Arlington, Virginia, October 1–3. The conference features plenaries with industry experts, 25 member-led [peer learning sessions](https://seepnetwork.org/Peer-Learning-Sessions), four donor-sponsored lunch dialogues and the third edition of the much-acclaimed SEEP Fail Fest. 
+DAI is delighted to be presenting three panels at the upcoming 2018 SEEP Annual Conference, ["Collaboration for Impact,"](https://seepnetwork.org/Theme-Technical-Tracks) taking place in Arlington, Virginia, October 1–3. The conference features plenaries with industry experts, 25 member-led [peer learning sessions](https://seepnetwork.org/Peer-Learning-Sessions), four donor-sponsored lunch dialogues and the third edition of the much-acclaimed SEEP Fail Fest. 
 
 The first panel, chaired by our Senior Agriculture Specialist [Don Humpal](https://www.dai.com/who-we-are/our-team/don-humpal), is called “Trading Up to Agricultural Transformation: Smallholder Crop Aggregation and Markets.” Panelists from DAI, the East Africa Grain Council, and Michigan State University will discuss how today’s African food systems shift to meet the needs of rapidly urbanizing populations. Trade between food-surplus and food-deficit nations in Africa is essential to improve regional food security and smallholder livelihoods. Participants will explore current and evolving models to deliver more benefits from trade. 
 
