@@ -21,6 +21,8 @@ For the U.S. Agency for International Development (USAID) in Jordan, he led the 
 
 Geoff’s work on trade-related issues in Central Asia includes serving as a Regulatory Advisor in Kazakhstan and Turkmenistan on the USAID Central Asia Republics Economic Reform and Competitiveness Project. He has reviewed existing and proposed commercial legislation to enhance the business enabling environment in Turkmenistan; prepared contract documentation for Kazakhstan’s first Public Private Partnership transaction; designed a detailed roadmap for Turkmenistan’s WTO accession; led a survey of 100 manufacturing companies in Kazakhstan to meet local content requirements; and analyzed trade flows and export opportunities throughout the Central Asia region.
 
+<iframe src="https://player.vimeo.com/video/282358195" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 * Master of Law, University of Auckland, New Zealand
 * Master of the Economics of Development, Australian National University
 * Bachelor of Laws, University of Otago, New Zealand
