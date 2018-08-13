@@ -2,7 +2,7 @@
 title: DAI to Present at 2018 SEEP Annual Conference in October
 date: 2018-08-13 15:00:00 Z
 summary: 'DAI is delighted to be presenting three panels at the upcoming 2018 SEEP
-  Annual Conference, "Collaboration for Impact", taking place in Arlington, Virginia,
+  Annual Conference, "Collaboration for Impact," taking place in Arlington, Virginia,
   October 1–3. '
 social-image: "/uploads/Screen%20Shot%202018-08-13%20at%2011.04.57%20AM.png"
 ---
