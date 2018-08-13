@@ -182,10 +182,7 @@ algolia:
   - project-login.md
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
   - _news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.markdown
-  - news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.html
-  - news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria
-  - /news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.html
-  - /news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria
+  
 
   settings:
     attributeForDistinct: url
