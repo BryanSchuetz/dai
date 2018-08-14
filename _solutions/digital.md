@@ -27,11 +27,11 @@ From climate-smart agricultural support systems to text message outreach and mob
 
 **DAI’s Digital Team:**
 
-1. Conducts face-to-face and desktop research on how digital technologies are adopted and used across the emerging markets where we operate;
-2. Employs user-centered design to develop localized strategies for deploying our products in support of the full cycle of project implementation, from design to deployment;
-3. And partners with global leaders in the technology space to bring the newest and most appropriate solutions to the people and organizations we support around the world.
+* Conducts face-to-face and desktop research on how digital technologies are adopted and used across the emerging markets where we operate.
+* Employs user-centered design to develop localized strategies for deploying our products in support of the full cycle of project implementation, from design to deployment.
+* Partners with global leaders in the technology space to bring the newest and most appropriate solutions to the people and organizations we support around the world.
 
-Our approach is centered on solving real problems, from poor market linkages to weak government service delivery.  Over the past 15 years, we have built data management and visualization tools, trained local businesses on how to create efficiencies by integrating digital technologies into their outreach strategies and operations, worked with local entrepreneurs to build tech-driven social enterprises, and designed apps that give citizens a view into how their governments spend money.  We share our experience on our blog, [Digital@DAI](https://dai-global-digital.com?utm_source=daidotcom), and by speaking in public, publishing original research, and working directly with teams at project sites around the globe.
+Our approach is centered on solving real problems, from poor market linkages to weak government service delivery. Over the past 15 years, we have built data management and visualization tools, trained local businesses on how to create efficiencies by integrating digital technologies into their outreach strategies and operations, worked with local entrepreneurs to build tech-driven social enterprises, and designed apps that give citizens a view into how their governments spend money.  We share our experience on our blog, [Digital@DAI](https://dai-global-digital.com?utm_source=daidotcom), and by speaking in public, publishing original research, and working directly with teams at project sites around the globe.
 
 ## Core Products
 
