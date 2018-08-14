@@ -1,9 +1,8 @@
 ---
 title: Central Asia—Competitiveness, Trade, and Jobs Activity (CTJ)
 date: 2016-01-21 22:40:00 Z
-summary: A quarter of a century after the disintegration of the Soviet Union, the
-  Central Asian Republics have yet to realize full regional integration or sustained
-  economic growth outside of the oil and gas industries.
+summary: 'DAI is working in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and
+  Uzbekistan to improve regional trade—which will grow exports and employment. '
 start: 2016
 end: 2021
 client: U.S. Agency for International Development
@@ -31,6 +30,8 @@ DAI's strategy will focus on facilitating the development of competitive, inclus
 * Collaborate with public- and private-sector partners to develop a plan to address regional trade facilitation opportunities and support businesses in complying with regulations and requirements.
 * Work with community influencers to draft local engagement plans to support initiatives related to building facilitation skills, job-readiness, and entrepreneurship.
 * Establish an innovation facility to motivate firms to design and implement solutions to overcome specific market failures related to horticulture, transportation, and border management.
+
+<iframe src="https://player.vimeo.com/video/282358195" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 [1]: /our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc
 [2]: /our-work/projects/pakistan-regional-economic-integration-activity-preia
