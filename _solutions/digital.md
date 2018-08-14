@@ -18,7 +18,6 @@ promos:
   link: https://dai-global-digital.com?utm_source=daidotcom
 related: false
 redirect_from:
-- "/digital"
 - our-work/solutions/digital-acceleration
 layout: solution
 hero: true
