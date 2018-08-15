@@ -8,9 +8,9 @@ summary: Robert Salerno a global health and development practitioner with 15 yea
 job-title: Global Health and Development Practitioner
 image: "/uploads/Rob-47f9d6.jpg"
 solutions:
+- Global Health
 - Economic Growth
 - Emerging Infectious Diseases
-- Global Health
 - Health and Livelihoods
 - Health Governance
 - Agriculture and Food Security
