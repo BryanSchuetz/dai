@@ -15,10 +15,10 @@ solutions:
 - Health Governance
 - Agriculture and Food Security
 regions:
-- Asia and the Pacific
+- Worldwide
 - 
-- Sub-Saharan Africa
-- Middle East and North Africa
+- 
+- 
 articles:
 - name: Improving Resilience of the HIV Affected, Developing Alternatives
   article_file: http://dai-global-developments.com/articles/improving-resilience-of-the-hiv-affected%E2%80%A8.html?utm_source=daidotcom
