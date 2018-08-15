@@ -16,7 +16,7 @@ solutions:
 - Agriculture and Food Security
 regions:
 - Asia and the Pacific
-- Latin America and the Caribbean
+- 
 - Sub-Saharan Africa
 - Middle East and North Africa
 articles:
