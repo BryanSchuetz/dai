@@ -1,7 +1,7 @@
 ---
-title: Trevor Oxley
+title: Trevor Olexy
 date: 2018-07-25 20:29:00 Z
-lastname: Oxley
+lastname: Olexy
 summary: Trevor’s eclectic professional background encompasses technology, electro-mechanical
   engineering, software development, data analytics, and musical performance.
 job-title: Software Developer, Center for Digital Acceleration
