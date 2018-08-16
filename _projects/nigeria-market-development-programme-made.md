@@ -4,8 +4,8 @@ date: 2016-01-21 22:40:00 Z
 summary: This project in the Niger Delta is applying a market systems approach to
   improve market access, increase economic activity, and raise the incomes of 150,000
   poor people, half of whom will be women.
-start: 2013
-end: 2018
+start: 2018
+end: 2020
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
