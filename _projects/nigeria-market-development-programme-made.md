@@ -1,9 +1,9 @@
 ---
 title: Nigeria—Market Development in the Niger Delta I&II (MADE I&II)
 date: 2016-01-21 22:40:00 Z
-summary: This project in the Niger Delta is applying a market systems approach to
-  improve market access, increase economic activity, and raise the incomes of 150,000
-  poor people, half of whom will be women.
+summary: The second phase of the Market Development in the Niger Delta project is
+  using a market systems approach to increase productivity and incomes for poor farmers
+  as well as addressing the root causes of migration and human trafficking from Nigeria.
 start: 2018
 end: 2020
 client: U.K. Department for International Development
