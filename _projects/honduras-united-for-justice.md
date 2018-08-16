@@ -16,6 +16,7 @@ solutions:
 - Security and Justice
 - Fragile States
 - Voice and Accountability
+- Human Centered Design
 regions:
 - Latin America and the Caribbean
 country:

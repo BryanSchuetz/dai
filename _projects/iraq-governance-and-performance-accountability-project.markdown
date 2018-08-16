@@ -9,6 +9,7 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Governance
+- Digital Strategy
 regions: Middle East and North Africa
 country: Iraq
 ---

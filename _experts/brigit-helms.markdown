@@ -9,6 +9,7 @@ image: "/uploads/NewBrigit.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
+- Digital Strategy
 regions:
 - Sub-Saharan Africa
 articles:

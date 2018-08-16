@@ -12,6 +12,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Local Content and Supply Chain Management
 - Workforce Development and Youth
+- Digital Strategy
 regions: Sub-Saharan Africa
 country: Ghana
 promos:

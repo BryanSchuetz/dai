@@ -18,6 +18,7 @@ solutions:
 - Public Financial Management
 - Fragile States
 - Stabilization
+- Human Centered Design
 regions:
 - Latin America and the Caribbean
 country:

@@ -10,6 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Global Health
 - Digital Acceleration
+- Data for Decisions
 regions: Latin America and the Caribbean
 country: Haiti
 ---

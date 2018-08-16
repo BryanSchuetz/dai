@@ -8,6 +8,7 @@ job-title: Vice President, Partnerships
 image: "/uploads/new%20Doug.jpg"
 solutions:
 - Digital Acceleration
+- Technology Research and Development
 layout: expert
 ---
 

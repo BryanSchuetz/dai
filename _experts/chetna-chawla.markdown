@@ -10,6 +10,7 @@ image: "/uploads/Chetna%20Chawla.jpg"
 solutions:
 - Health Governance
 - Digital Acceleration
+- Digital Strategy
 regions:
 - Worldwide
 ---

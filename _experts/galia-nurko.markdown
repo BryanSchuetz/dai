@@ -8,6 +8,10 @@ job-title: Associate Digital Specialist, Center for Digital Acceleration
 image: "/uploads/GaliaNurko%20copy.png"
 solutions:
 - Digital Acceleration
+- Digital Strategy
+- Insights for Emerging Markets
+- Human Centered Design
+- Digital Trainings
 regions:
 - Worldwide
 ---

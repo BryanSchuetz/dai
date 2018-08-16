@@ -14,6 +14,7 @@ image: https://assetify-dai.com/experts/RyanSilvaInner.jpg
 solutions:
 - Global Health
 - Digital Acceleration
+- Technology Research and Development
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

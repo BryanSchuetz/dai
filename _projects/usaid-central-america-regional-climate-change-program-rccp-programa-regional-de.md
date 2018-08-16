@@ -11,6 +11,8 @@ client: U.S. Agency for International Development
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
+- Human Centered Design
+- Data for Decisions
 regions:
 - Latin America and the Caribbean
 country:

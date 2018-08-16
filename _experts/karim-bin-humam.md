@@ -8,6 +8,11 @@ job-title: Principal ICT Specialist, Center for Digital Acceleration
 image: https://assetify-dai.com/experts/Karim%20Inner.jpg
 solutions:
 - Digital Acceleration
+- Digital Strategy
+- Insights for Emerging Markets
+- Human Centered Design
+- Data for Decisions
+- Digital Trainings
 layout: expert
 ---
 

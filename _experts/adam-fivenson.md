@@ -8,6 +8,10 @@ job-title: Senior ICT Specialist, Center for Digital Acceleration
 image: "/uploads/new%20Adam%20Fivenson.png"
 solutions:
 - Digital Acceleration
+- Digital Strategy
+- Insights for Emerging Markets
+- Human Centered Design
+- Digital Trainings
 - Fragile States
 - Peace-Building and Political Transition
 - Governance

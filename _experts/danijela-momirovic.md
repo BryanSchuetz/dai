@@ -12,6 +12,7 @@ solutions:
 - Economic Growth
 - Digital Acceleration
 - Innovation and Entrepreneurship
+- Technology Research and Development
 layout: expert
 image: https://assetify-dai.com/experts/DanijelaMInner.jpg
 summary: Danijela Kostic performs management, coordination, planning, and assessments

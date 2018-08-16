@@ -10,6 +10,7 @@ solutions:
 - Digital Acceleration
 - Economic Growth
 - Innovation and Entrepreneurship
+- Digital Strategy
 regions:
 - Asia and the Pacific
 layout: expert

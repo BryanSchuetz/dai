@@ -10,6 +10,7 @@ image: https://assetify-dai.com/experts/innercoleen.jpg
 solutions:
 - Finance and Investment
 - Economic Growth
+- Insights for Emerging Markets
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa

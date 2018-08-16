@@ -1,6 +1,6 @@
 {% assign experts = site.experts | where_exp: "expert", "expert.solutions contains page.title" | sort: "lastname"%}
 {% if experts.size > 0 %}
-    <div class="block-people">
+    <div class="block-people {% if page.type != "primary" and page.promos %}tighten{% endif %}">
       <h1>Our Experts</h1>
       <hr>
     {% for expert in experts %}
@@ -21,11 +21,11 @@
 {% assign current_year = site.time | date:"%Y" | times:1 %}
 {% assign projects = site.projects | where_exp: "project", "project.solutions contains page.title" %}
 {% if projects.size > 0 %}
-  <div class="block-project">
+  <div class="block-project {% if page.type != "primary" and page.promos %}tighten{% endif %}">
     <h1>Our Projects</h1>
     <hr>
     {% for project in projects %}
-      {% unless page.title == 'Energy' %}
+      {% unless page.title == 'Energy' or page.url contains "digital-acceleration-solutions" %}
         {% if project.end > current_year %}
     <div class="project-block grid-item {% for solution in project.solutions %} {{ solution | slugify }} {% endfor %}{% for region in project.regions %} {{ region | slugify}} {% endfor %} {% for client in project.client %} {{ client | slugify }} {% endfor %}{% if project.end < current_year %} closed {% else %} active{% endif %}">
     <h3>{{ project.title }}</h3>

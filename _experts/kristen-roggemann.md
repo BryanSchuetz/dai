@@ -10,6 +10,9 @@ image: https://assetify-dai.com/experts/KristenInner.jpg
 solutions:
 - Digital Acceleration
 - Economic Growth
+- Insights for Emerging Markets
+- Human Centered Design
+- Digital Trainings
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

@@ -11,6 +11,7 @@ image: "/uploads/Pieter%20de%20Ruijter%20DAI%20site.jpg"
 solutions:
 - Global Health
 - Digital Acceleration
+- Technology Research and Development
 regions:
 - Sub-Saharan Africa
 ---

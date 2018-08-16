@@ -10,6 +10,10 @@ image: https://assetify-dai.com/experts/BaptistaInner1.jpg
 solutions:
 - Economic Growth
 - Digital Acceleration
+- Digital Strategy
+- Insights for Emerging Markets
+- Human Centered Design
+- Digital Trainings
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

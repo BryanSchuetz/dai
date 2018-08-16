@@ -10,6 +10,10 @@ solutions:
 - Digital Acceleration
 - Stabilization
 - Global Health
+- Human Centered Design
+- Data for Decisions
+- Technology Research and Development
+- Digital Trainings
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean

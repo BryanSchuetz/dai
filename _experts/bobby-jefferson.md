@@ -10,6 +10,8 @@ solutions:
 - Digital Acceleration
 - Global Health
 - Innovation and Entrepreneurship
+- Digital Strategy
+- Data for Decisions
 layout: expert
 ---
 

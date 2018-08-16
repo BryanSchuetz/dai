@@ -9,6 +9,10 @@ image: https://assetify-dai.com/experts/anand%20inner.jpg
 solutions:
 - Governance
 - Digital Acceleration
+- Digital Strategy
+- Insights for Emerging Markets
+- Human Centered Design
+- Digital Trainings
 - Social Strategy
 - Sustainable Business
 regions:

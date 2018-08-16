@@ -9,7 +9,8 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Digital Acceleration
-- 
+- Insights for Emerging Markets
+- Digital Trainings
 regions: Worldwide
 ---
 
