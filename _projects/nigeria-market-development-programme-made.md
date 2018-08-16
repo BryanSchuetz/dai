@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Market Development in the Niger Delta (MADE)
+title: Nigeria—Market Development in the Niger Delta I&II (MADE I&II)
 date: 2016-01-21 22:40:00 Z
 summary: This project in the Niger Delta is applying a market systems approach to
   improve market access, increase economic activity, and raise the incomes of 150,000
@@ -17,27 +17,36 @@ country:
 layout: project
 ---
 
-This design and implement project in the Niger Delta works to [raise the incomes](https://www.thisdaylive.com/index.php/2017/11/30/fighting-hunger/) of at least 150,000 poor people—half of whom are women—by at least 50 percent. MADE uses a market development approach to support growth in the region’s non-oil economy by (a) stimulating sustainable, pro-poor growth in selected agricultural and agricultural input markets, and (b) improving the position of the economically active poor and women in these markets by making them more inclusive.
+Despite having the largest economy in Africa, vibrant commercial centers, and a sizable oil and gas industry, half of Nigeria’s population still lives below the poverty line. Nowhere is this contrast in living standards more apparent than in the country’s Niger Delta region, made up of nine coastal states in the south. Much of the Delta’s population are farmers in remote villages without access to modern agricultural equipment and supplies or markets in which to sell their harvests. The result has been a cycle of subsistence farming and poverty, despite the economic gains occuring elsewhere in the country.
 
-MADE has facilitated partnerships with the private sector in five market systems: agricultural inputs, palm oil, fisheries, micro- and small-scale poultry, and cassava. Activities were designed and managed from the programme’s operational bases in Port Harcourt, Rivers State, and Warri, Delta State—both of which are co-located with the [Partnership for the Niger Delta (PIND)](https://www.dai.com/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind) programme. 
+The Market Development in the Niger Delta Phase I (MADE I) project, funded by the U.K. Department for International Development, operated from 2013-3018 and took a market systems development approach that supporting economic growth in the region. MADE I worked with private sector partners in agricultural inputs, palm oil, fisheries, poultry, and cassava value chains to improve access to inputs and markets for small farmers. As a result, the project helped more than 150,000 people in the Niger Delta to raise their incomes, half of whom are women.
 
-Implementation activities are supported by a dual-component grant strategy: private sector grants, structured to reduce the risk of lead private-sector actors; and facilitators grants, designed to fund facilitators to manage and monitor activities in conjunction with intervention managers. This approach enables MADE to maintain a relatively lean structure while ensuring adequate oversight of activities taking place across the Delta.
-
-Implementation continues with focus on consolidating and scaling up a series of initiatives with market actors in six value chains across all nine Delta states.
+A second phase of the project, MADE II, continues working in four Niger Delta states to promote inclusive, pro-poor growth for farmers and entrepreneurs. In addition, the programme is utilizing a similar market systems approach to help address the root causes of outward migration that have led thousands to fall victim to human traffickers in Libya and Europe. By connecting vulnerable populations with desirable and well-paying jobs at home, MADE aims to reduce the number of Nigerians who attempt to migrate work abroad only to end up trapped in modern slavery.
 
 ![NigeriaPIND DeltaYouth018.jpg](/uploads/NigeriaPIND%20DeltaYouth018.jpg)
 
 ### Sample Activities
-* Improve fish farmers' knowledge and access to new markets.
-* Promote sustainable cassava production with bio-products as inputs.
-* Increase good agricultural practices and access to quality inputs for smallholder farmers.
-* Facilitate access to and use of improved small-scale processing equipment  by small and medium-scale millers and mill users.
-* Improve productivity and access to new markets for small-household poultry producers.
-* Improve quality, distribution and sales of finished leather goods.
-* Support all interventions with crosscutting initiatives such as access to finance, gender and advocacy, and communications.
+
+* Partner with nongovernmental organizations (NGOs) and education centers to tailor job training to market demands and connect with populations susceptible to trafficking in Edo state, the largest contributor of human trafficking victims from Nigeria.
+
+* Work with companies and professional associations across six target sectors–including information and communication technology, renewable energy, and the entertainment industry­–to present value propositions for investing in job creation in Edo.
+
+* Introduce new technologies and scale successful innovations from MADE, such as the App for GAP, which provides farmers with information on weather and good agriculture practices.
+
+* Link women involved in poultry keeping and fish smoking with opportunities to increase production and access new markets.
+
+* Continue to scale successful market interventions from programme’s first phase and establish sustainable exit plans with local partners.
 
 ### Select Results
-* Trained 51,000 farmers in cassava good agronomic practices to improve productivity. 
-* Trained more than 16,000 smallholder farmers and entrepreneurs in harvesting and processing technologies.   
-* Trained at least 9,500 smallholder farmers and entrepreneurs in fish processing technology. 
-* Produced [report](http://pindfoundation.org/report-on-the-effect-of-nairas-devaluation-on-the-agricultural-value-chains-in-the-niger-delta/), with PIND Foundation, on the effects of the Nigerian currency’s devaluation and related government trade restriction policies on four key agricultural value chains in the Niger Delta region. 
+
+* MADE I helped 155,000 Nigerians living in poverty to increase their incomes by an average of 15 percent.
+
+* Helped generate an additional £14 million in income for farmers and small businesses across five agricultural value chains.
+
+* Trained 66,000 farmers in practices to improve cassava productivity and connected small cassava processors to large buyers.
+
+* Established self-sustaining network of private trainers for aquaculture, leading to 10,000 fish farmers purchasing training and increasing their productivity by 65 percent.
+
+* Partnered with 25 lead agribusinesses and 488 service providers and entrepreneurs to help them target rural farmers with affordable products and services.
+
+* Assisted companies and NGOs to hold product demonstrations and develop 700 trial plots to show farmers how to use new products and improved methods.
