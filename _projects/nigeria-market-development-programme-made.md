@@ -28,25 +28,16 @@ A second phase of the project, MADE II, continues working in four Niger Delta st
 ### Sample Activities
 
 * Partner with nongovernmental organizations (NGOs) and education centers to tailor job training to market demands and connect with populations susceptible to trafficking in Edo state, the largest contributor of human trafficking victims from Nigeria.
-
 * Work with companies and professional associations across six target sectors–including information and communication technology, renewable energy, and the entertainment industry­–to present value propositions for investing in job creation in Edo.
-
 * Introduce new technologies and scale successful innovations from MADE, such as the App for GAP, which provides farmers with information on weather and good agriculture practices.
-
 * Link women involved in poultry keeping and fish smoking with opportunities to increase production and access new markets.
-
 * Continue to scale successful market interventions from programme’s first phase and establish sustainable exit plans with local partners.
 
 ### Select Results
 
 * MADE I helped 155,000 Nigerians living in poverty to increase their incomes by an average of 15 percent.
-
 * Helped generate an additional £14 million in income for farmers and small businesses across five agricultural value chains.
-
 * Trained 66,000 farmers in practices to improve cassava productivity and connected small cassava processors to large buyers.
-
 * Established self-sustaining network of private trainers for aquaculture, leading to 10,000 fish farmers purchasing training and increasing their productivity by 65 percent.
-
 * Partnered with 25 lead agribusinesses and 488 service providers and entrepreneurs to help them target rural farmers with affordable products and services.
-
 * Assisted companies and NGOs to hold product demonstrations and develop 700 trial plots to show farmers how to use new products and improved methods.
