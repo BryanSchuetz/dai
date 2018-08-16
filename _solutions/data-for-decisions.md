@@ -5,8 +5,8 @@ permalink: "/our-work/solutions/digital-acceleration-solutions/data-for-decision
 solutions:
 - Digital Acceleration
 promos:
-- title: "DAI Presentation on Climate Change"
-  link: "https://www.dai.com/news/dai-experts-to-present-about-climate-resilience-at-conference-in-guatemala"
+- title: DAI Presentation on Climate Change
+  link: https://www.dai.com/news/dai-experts-to-present-about-climate-resilience-at-conference-in-guatemala
 layout: solution
 hero: true
 ---

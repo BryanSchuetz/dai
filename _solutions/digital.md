@@ -4,7 +4,9 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/digital-acceleration
 icon: <svg class="ict-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#ict-badge"></use></svg>
-summary: DAI’s Center for Digital Acceleration builds on DAI’s decades of experience to design and deploy innovative, user-centered digital tools that drive change across emerging markets.
+summary: DAI’s Center for Digital Acceleration builds on DAI’s decades of experience
+  to design and deploy innovative, user-centered digital tools that drive change across
+  emerging markets.
 type: primary
 promos:
 - title: "**Our Team:** Digital Acceleration Experts"

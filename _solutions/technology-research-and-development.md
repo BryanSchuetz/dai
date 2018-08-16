@@ -5,12 +5,12 @@ permalink: "/our-work/solutions/digital-acceleration-solutions/technology-resear
 solutions:
 - Digital Acceleration
 promos:
-- title: "Blockchain for Development Part 1: Understanding the Tech"
-  link: "https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html"
-- title: "Blockchain for Development Part 2: Implementation Considerations"
-  link: "https://dai-global-digital.com/blockchain-for-development.html"
-- title: "Machine Learning Will Help Development Projects Achieve Scale"
-  link: "https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html"
+- title: 'Blockchain for Development Part 1: Understanding the Tech'
+  link: https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html
+- title: 'Blockchain for Development Part 2: Implementation Considerations'
+  link: https://dai-global-digital.com/blockchain-for-development.html
+- title: Machine Learning Will Help Development Projects Achieve Scale
+  link: https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html
 layout: solution
 hero: true
 ---

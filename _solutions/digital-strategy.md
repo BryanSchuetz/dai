@@ -5,10 +5,10 @@ permalink: "/our-work/solutions/digital-acceleration-solutions/digital-strategy"
 solutions:
 - Digital Acceleration
 promos:
-- title: "Climate Change in Columbia: Hack the problem"
-  link: "https://dai-global-digital.com/climate-change-and-technology-preparing-to-hack-the-problem.html"
-- title: "Supporting Local Innovators"
-  link: "https://dai-global-digital.com/how-to-engage-and-support-local-innovators-three-take-aways-from-the-digital-development-forum.html"
+- title: 'Climate Change in Columbia: Hack the problem'
+  link: https://dai-global-digital.com/climate-change-and-technology-preparing-to-hack-the-problem.html
+- title: Supporting Local Innovators
+  link: https://dai-global-digital.com/how-to-engage-and-support-local-innovators-three-take-aways-from-the-digital-development-forum.html
 layout: solution
 hero: true
 ---

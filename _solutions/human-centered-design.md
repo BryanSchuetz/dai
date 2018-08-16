@@ -5,12 +5,12 @@ permalink: "/our-work/solutions/digital-acceleration-solutions/human-centered-de
 solutions:
 - Digital Acceleration
 promos:
-- title: "Lean HCD White Paper"
-  link: "https://www.dai.com/hcd.pdf"
-- title: "USAID Nexos Locales Partner Municipality Wins Technology Award"
-  link: "https://www.dai.com/news/usaid-nexos-locales-partner-municipality-wins-technology-award"
-- title: "Coffee Cloud: The digital project for Central American coffee growers"
-  link: "https://dai-global-digital.com/coffee-cloud-the-digital-project-for-central-american-coffee-growers.html"
+- title: Lean HCD White Paper
+  link: https://www.dai.com/hcd.pdf
+- title: USAID Nexos Locales Partner Municipality Wins Technology Award
+  link: https://www.dai.com/news/usaid-nexos-locales-partner-municipality-wins-technology-award
+- title: 'Coffee Cloud: The digital project for Central American coffee growers'
+  link: https://dai-global-digital.com/coffee-cloud-the-digital-project-for-central-american-coffee-growers.html
 layout: solution
 hero: true
 ---

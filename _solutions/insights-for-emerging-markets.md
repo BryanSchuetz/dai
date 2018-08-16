@@ -6,15 +6,15 @@ solutions:
 - Digital Acceleration
 promos:
 - title: "**Digital Insights:** Haiti"
-  link: "https://dai-global-digital.com/digital-insights-would-haitians-use-mobile-money-for-banking.html"
+  link: https://dai-global-digital.com/digital-insights-would-haitians-use-mobile-money-for-banking.html
 - title: "**Digital Insights:** Rwanda"
-  link: "https://dai-global-digital.com/rwanda-digital-insights.html"
+  link: https://dai-global-digital.com/rwanda-digital-insights.html
 - title: "**Digital Insights:** Bangladesh"
-  link: "https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html"
+  link: https://dai-global-digital.com/digital-insights-bangladesh-how-urban-youth-stay-connected.html
 - title: "**Digital Insights:** Cambodia"
-  link: "https://dai-global-digital.com/cambodia-civil-society-facebook.html"
+  link: https://dai-global-digital.com/cambodia-civil-society-facebook.html
 - title: "**Digital Insights:** Palestine"
-  link: "https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html"
+  link: https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html
 layout: solution
 hero: true
 ---
