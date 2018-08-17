@@ -2,9 +2,9 @@
 title: Robin Young
 date: 2016-01-21 22:18:00 Z
 lastname: Young
-summary: Robin Young brings together two decades of experience in micro and small
-  enterprise finance with value chain and enterprise development to design and implement
-  innovative and effect private sector approaches to address development challenges.
+summary: Robin Young is Principal Global Practice Specialist for DAI with 25 years
+  of experience as technical advisor and team leader on investment and financial services
+  projects and engagements in developing and frontier markets.
 job-title: Principal Global Practice Specialist, Financial Services
 image: https://assetify-dai.com/experts/Young_Inner.jpg
 solutions:
@@ -20,14 +20,9 @@ articles:
 layout: expert
 ---
 
-Robin Young brings together two decades of experience in micro and small enterprise finance with value chain and enterprise development to design and implement innovative and effect private sector approaches to address development challenges.
+Robin Young is Principal Global Practice Specialist for DAI with 25 years of experience as technical advisor and team leader on investment and financial services projects and engagements in developing and frontier markets. In 2017, she led development of the [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) project with the U.S. Agency for International Development (USAID) and specialized investment partners, to create the platform for mobilizing investment for development impact, and serves as the project’s Strategic Technical Adviser working with partners to mobilize private capital for health, clean energy, water and sanitation, agriculture, and small and growing businesses in Asia, Africa, Latin America, and the Caribbean. She engages directly in work to identify and develop innovative financing solutions for clients in developing and frontier markets and recently prepared a Catalytic Funding Guide for maternal and neonatal health in Indonesia, conducted a banking and investment sectoral analysis in Rwanda and a scoping study for an innovative river basin conservation fund in Nepal. 
 
-Her career has included advising multi-lateral development finance institutions on regional strategies to advance access to finance, consulting with large and small retail financial institutions on MSE business lines, and implementing capital raising strategies for microfinance institutions. Her recent research and advisory services on innovations in rural and agricultural finance builds on almost two decades of work that started with groundbreaking commercialization of microfinance and credit guarantee research begun in the 1990s. She is frequently invited to speak at international events and run workshops on topics including impact investing, rural, agricultural, micro and small enterprise finance. Currently she is exploring innovative and effective ways to leverage investment, business development and market access for rural enterprises, value chains and sustainable landscapes.
+Robin has led advisory and research projects for the Inter-American Development Bank and Multi-Lateral Investment Fund, International Finance Corporation, U.K. Department for International Development, USAID, World Bank, and private sector financial institutions and investment funds. Based in Central America, she has worked in more than 25 countries. 
 
-Robin works as a technical advisor, team leader, and new business champion on DAI’s economic growth portfolio. She has led advisory and research projects for the Consultative Group to Assist the Poor, the U.K. Department for International Development, Inter-American Development Bank, International Finance Corporation, World Bank, the U.S. Agency for International Development and private sector financial institutions and investment funds.
-
-Based in Central America, she has worked in more than 20 developing countries.
-
-* M.B.A., Georgetown University
-
+* M.B.A., Georgetown University McDonough School of Business
 * B.A., economics, Tufts University
