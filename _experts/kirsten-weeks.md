@@ -2,9 +2,7 @@
 title: Kirsten Weeks
 date: 2016-01-21 22:18:00 Z
 lastname: Weeks
-summary: Kirsten Weeks is the Global Practice Lead for Health, Nutrition, and Livelihoods
-  within Solutions. She provides technical support to DAI's IMARISHA project in Tanzania,
-  which works to improve livelihoods for HIV-affected populations and communities.
+summary: Kirsten Weeks is the Global Practice Lead for Health, Nutrition, and Livelihoods.
 job-title: Global Practice Lead, Health, Nutrition & Livelihoods
 image: "/uploads/Kirsten-Weeks-website.jpg"
 solutions:
