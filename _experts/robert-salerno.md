@@ -21,7 +21,7 @@ regions:
 - 
 articles:
 - name: Improving Resilience of the HIV Affected, Developing Alternatives
-  article_file: http://dai-global-developments.com/articles/improving-resilience-of-the-hiv-affected%E2%80%A8.html?utm_source=daidotcom
+  article_file: http://dai-global-developments.com/articles/improving-resilience-of-the-hiv-affectede280a8/
 layout: expert
 ---
 
