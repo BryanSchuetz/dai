@@ -1,7 +1,6 @@
 ---
 title: Afghanistan Value Chains (AVC)–Livestock
 date: 2018-08-15 18:30:00 Z
-published: false
 summary: The Afghanistan Value Chains–Livestock project helps livestock farmers and
   related agribusinesses to increase productivity and create jobs by expanding into
   new markets, attracting investors, and improving efficiency.
@@ -16,9 +15,9 @@ regions: Eastern Europe and Central Asia
 country: Afghanistan
 ---
 
-Over the past 15 years, Afghanistan has developed a countrywide network of agricultural input suppliers, farmers have embraced improved technologies, and a cadre of agricultural produce retailers and exporters has begun to emerge. However, high transaction costs, limited access to finance, and a poor enabling environment have created excessive market risks for agribusinesses. These challenges deter private investment in livestock-related enterprises and hinder growth in the agriculture sector overall.
+Over the past 15 years, DAI has witnessed how Afghan agribusinesses have matured, moving steadily toward sustainability on market principles. We know Afghan livestock enterprises—farmers and herders, processors, distributors, marketers, and exporters in the poultry, sheep, dairy, and related value chains—want to be self-sufficient and commercially viable. However, high transaction costs, limited access to finance, and a poor enabling environment continue to deter private investment in livestock-related enterprises and hinder growth in Afghanistan’s agriculture sector overall.
 
-The Afghanistan Value Chains–Livestock (AVC-Livestock) project, funded by the U.S. Agency for International Development, takes a [market systems](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/) approach to identifying and removing constraints to growth in the livestock sector. The project offers management consulting to promising anchor firms to help them expand into domestic and international markets, attract private investment, and improve the business-enabling environment. By increasing productivity for farmers and businesses working in poultry, sheep, dairy, and other value chains, AVC-Livestock helps raise incomes for thousands of households and create jobs for men, women, and young people.
+The Afghanistan Value Chains–Livestock (AVC-Livestock) project, funded by the U.S. Agency for International Development, takes a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/) by working with promising Afghan livestock enterprises to stimulate demand and catalyze growth throughout targeted value chains. The project offers management consulting to these anchor firms to help them expand into domestic and international markets and attract private investment. By increasing productivity for farmers and downstream businesses in livestock value chains, AVC-Livestock helps raise incomes for thousands of households and create jobs for men, women, and young people.
 
 ![AVC - Livestock web.jpg](/uploads/AVC%20-%20Livestock%20web.jpg)
 
