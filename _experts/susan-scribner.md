@@ -26,7 +26,5 @@ Susan also oversees [Jalin](https://www.dai.com/our-work/projects/indonesia-jali
 
 Finally, Susan leads DAI’s pioneering [partnership with IntraHealth](https://www.dai.com/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact). This groundbreaking affiliation between for-profit and nonprofit organizations is modeling new modes of partnership for the development community.  
 
-Prior to joining DAI, Susan worked for 17 years for Abt Associates where she supported a wide range of projects and provided technical support and leadership in health policy, financing and governance, infectious diseases, and private sector health. From 2007 to 2009, she was Chief of Party for a project in Vietnam and Laos that built capacity to prevent, detect, and respond to Avian Influenza. She also led a health systems strengthening project in Uganda in 2004-2005.
-
 * M.P.P., international development, Kennedy School of Government, Harvard University
 * B.S., finance and marketing, McIntire School of Commerce, University of Virginia
