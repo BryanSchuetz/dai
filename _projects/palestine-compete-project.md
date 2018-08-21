@@ -40,5 +40,6 @@ DAI is helping key Palestinian sectors compete in regional and global markets. T
 * Leveraged $81.1 million in private sector investments.
 * Facilitated new [agricultural technologies](https://stories.usaid.gov/the-strawberry-king/) now used in more than 2,300 hectares in the West Bank and Gaza.
 * Assisted 16 historic sites to expand product offerings and enhance visitors' experience.
+* Supported the rapid growth of the fresh herbs, potato, and strawberry value chains in Gaza, providing assistance that led to more than $45 million in sales, of which $22 million was in exports.
 
 <iframe src="https://player.vimeo.com/video/255580893" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
