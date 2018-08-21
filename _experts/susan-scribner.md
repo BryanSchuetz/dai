@@ -2,12 +2,10 @@
 title: Susan Scribner
 date: 2016-01-21 22:18:00 Z
 lastname: Scribner
-summary: 'Susan Scribner leads the Preparedness and Response project (P&R). P&R works
-  in 16 countries in East Africa, West Africa, and Southeast Asia to support multisectoral
-  collaboration through National One Health Platforms.
-
-'
-job-title: Director, Preparedness and Response project
+summary: 'Susan Scribner is DAI’s Vice President for Health Systems Solutions, with
+  responsibility for health systems strengthening and global health security.  '
+job-title: Vice President, Health Systems Solutions, and Director, Preparedness &
+  Response project
 image: https://assetify-dai.com/experts/Susan%20Inner.jpg
 solutions:
 - Global Health
