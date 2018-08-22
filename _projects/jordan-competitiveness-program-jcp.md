@@ -3,7 +3,7 @@ title: Jordan—Competitiveness Program (JCP)
 date: 2016-01-21 22:40:00 Z
 summary: 'JCP activities align with the goals and opportunities of the Jordan Compact,
   which coordinates donor responses to the Syrian Refugee Crisis. The program’s three
-  complementary work streams focus on investment, exports, and business enabling environment. '
+  complementary work streams focus on investment, exports, and business-enabling environment. '
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
@@ -41,11 +41,12 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 
 * Streamlined process for participating in the Jordan-EU Trade Agreement, which designated 18 development zones throughout the country to participate in the trade-facilitation program.
 * Published Arabic version of a comprehensive Export Guide aimed at Jordanian small- and medium-sized enterprises to encourage Jordanian exports to the European Union. 
-* Developed profiles of African markets—Ethiopia, the Ivory Coast, Kenya, South Africa, and Tanzania—to enhance new trade around the trade barriers resulting from regional conflicts.
+* Supported iPARK in creating a national network of incubators in Amman, Irbid. and Aqaba, incubating 77 new companies and creating 327 new jobs. 
 * Launched Jordanian Medical Tourism Initiative to boost Jordan’s competitiveness in the sector and increase investment and export opportunities—with an eye to creating jobs.
 * Launched National Home Care Initiative with the King Hussein Cancer Center to advance the home care services industry and create an expected 1,800 jobs beyond the life of JCP.
 * Streamlined the Drug Registration Process to greatly reduce the time for private-sector pharmaceutical manufacturers to have a new drug approved for sale; each new drug creates 16 jobs and $1 million in sales revenue.
 * Supported region's first Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
 * Supported the [electric vehicle industry](https://www.youtube.com/watch?v=0DKmx1WV33o)—from drafting and helping pass the regulation needed to capture and sell solar-generated electricity at charging stations, to negotiating the partnerships that enabled private-sector investment in those stations. Jordan went from a country with no electric vehicles to a market that now includes Tesla, Nissan, BMW, Mercedes, among others.
+* Supporting Jordan Education for Employment to place 750 college graduates, 53 percent of whom were women.
 
 [1]: http://www.jcp-jordan.org/
