@@ -8,7 +8,7 @@ job-title: Technical Lead, Education for Women in Health, Global Health
 image: "/uploads/Fatima%20Adamu%20dai%20site.jpg"
 solutions:
 - Global Health
-- Gender
+- Gender and Social Inclusion
 regions:
 - Sub-Saharan Africa
 articles:
