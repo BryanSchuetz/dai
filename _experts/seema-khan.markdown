@@ -1,7 +1,6 @@
 ---
 title: Seema Khan
 date: 2017-06-02 13:16:00 Z
-published: false
 lastname: Khan
 summary: 'Seema Khan has more than 12 years of experience in gender, social inclusion,
   sexual and reproductive health, and voice and accountability issues. '
@@ -9,7 +8,7 @@ job-title: Technical Lead, Gender, Sexual, Reproductive Health, and Rights, [WIS
   Development](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Seema%20Khan%20DAI%20site.jpg"
 solutions:
-- Gender
+- Gender and Social Inclusion
 - Global Health
 - Sustainable and Accountable Health Services
 regions:
