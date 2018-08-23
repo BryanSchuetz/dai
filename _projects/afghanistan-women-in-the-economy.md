@@ -9,7 +9,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Gender
+- Gender and Social Inclusion
 - Governance
 - Innovation and Entrepreneurship
 - Sustainable Livelihoods
