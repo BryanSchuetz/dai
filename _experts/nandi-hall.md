@@ -11,6 +11,7 @@ solutions:
 - Economic Growth
 - Fragile States
 - Sustainable and Accountable Health Services
+- Gender and Social Inclusion
 regions:
 - Middle East and North Africa
 - Sub-Saharan Africa

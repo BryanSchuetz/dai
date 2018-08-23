@@ -8,7 +8,7 @@ start: 2012
 end: 2018
 client: U.K. Department for International Development
 solutions:
-- Gender
+- Gender and Social Inclusion
 - Governance
 - Voice and Accountability
 - Fragile States
