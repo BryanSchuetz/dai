@@ -14,6 +14,7 @@ solutions:
 - Environment and Energy
 - Land Tenure and Property Rights
 - Law and Justice
+- Gender and Social Inclusion
 regions:
 - Sub-Saharan Africa
 layout: expert
