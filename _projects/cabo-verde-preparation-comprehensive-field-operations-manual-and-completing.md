@@ -10,7 +10,7 @@ client: Millennium Challenge Corporation
 solutions:
 - Economic Growth
 - Governance
-- Environment and Energy
+- Gender and Social Inclusion
 - Land Tenure
 regions:
 - Sub-Saharan Africa
