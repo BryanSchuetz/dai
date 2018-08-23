@@ -1,22 +1,23 @@
 ---
 title: Worldwide—Walmart Women 360 Training Evaluation
-date: 2016-01-21 22:40:52.765000000 Z
-client: Walmart Foundation
-start: 2012
-end: 2014
-regions:
-- Worldwide
-country:
-- Regional
-solutions:
-- Sustainable Business
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'DAI was part of a team working with the Walmart Foundation to evaluate the
   Women in Factories program, part of Walmart''s Global Women''s Economic Empowerment
   Initiative.
 
 '
+start: 2012
+end: 2014
+client: Walmart Foundation
+solutions:
+- Sustainable Business
+- Economic Growth
+- Gender and Social Inclusion
+regions:
+- Worldwide
+country:
+- Regional
+layout: project
 ---
 
 DAI was part of a team working with the Walmart Foundation to evaluate the Women in Factories program, part of Walmart's Global Women's Economic Empowerment Initiative.
