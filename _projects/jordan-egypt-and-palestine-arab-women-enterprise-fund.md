@@ -3,17 +3,15 @@ title: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund (AWEF)
 date: 2016-01-21 22:40:00 Z
 summary: 'Funded by the U.K. Department for International Development and the Islamic
   Development Bank and working in Jordan, Egypt, and Palestine, Arab Women''s Enterprise
-  Fund (AWEF) is the first project of its kind. AWEF will stimulate increased women''s
-  economic empowerment and agency through a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom).
-  This partnership will address gaps in women''s economic empowerment in the region,
-  which has one of the lowest rates of female labour force participation in the world. '
+  Fund (AWEF) stimulates increased women''s economic empowerment and agency through
+  a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom). '
 start: 2015
 end: 2020
 client: U.K. Department for International Development, Islamic Development Bank
 solutions:
 - Economic Growth
 - Institutional and Policy Reform
-- Gender
+- Gender and Social Inclusion
 - Value Chain and Market Systems Development
 - Workforce Development and Youth
 regions:
