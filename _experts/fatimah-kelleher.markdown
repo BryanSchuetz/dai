@@ -10,7 +10,7 @@ job-title: Technical Lead, Gender, Education and Women’s Economic Empowerment,
 image: "/uploads/Fatimah%20Kelleher%20DAI%20site.jpg"
 solutions:
 - Global Health
-- gender
+- Gender and Social Inclusion
 regions:
 - Latin America and the Caribbean
 - Asia and the Pacific
