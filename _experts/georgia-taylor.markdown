@@ -7,7 +7,7 @@ summary: 'Georgia Taylor has been working on gender, women’s economic empowerm
 job-title: Technical Director, [WISE Development](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment)
 image: "/uploads/Georgia%20Taylor%20DAI%20iste.jpg"
 solutions:
-- Gender
+- Gender and Social Inclusion
 - Global Health
 - Economic Growth
 regions:
