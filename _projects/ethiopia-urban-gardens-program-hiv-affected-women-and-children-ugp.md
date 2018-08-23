@@ -10,7 +10,7 @@ end: 2012
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Gender
+- Gender and Social Inclusion
 - Global Health
 regions:
 - Sub-Saharan Africa
