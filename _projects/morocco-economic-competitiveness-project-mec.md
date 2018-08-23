@@ -4,14 +4,13 @@ date: 2016-01-21 22:40:00 Z
 summary: 'Our goals for this project in water-constrained Morocco were simple: reduce
   poverty, create jobs, and upgrade the workforce. Cutting across the project''s three
   main components were gender and youth considerations—an effort to mainstream citizens
-  marginalized despite Morocco''s economic growth.
-
-'
+  marginalized despite Morocco''s economic growth.'
 start: 2009
 end: 2013
 client: U.S. Agency for International Development
 solutions:
 - Governance
+- Gender and Social Inclusion
 regions:
 - Middle East and North Africa
 country:
