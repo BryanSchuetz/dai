@@ -9,6 +9,7 @@ end: 2020
 client: U.K. Department for International Development
 solutions:
 - Global Health
+- Gender and Social Inclusion
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
