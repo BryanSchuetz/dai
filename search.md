@@ -107,14 +107,14 @@ search.addWidget(
         item.icon = "env-badge"
       }else if(item.label == "Energy"){
         item.icon = "env-badge"
-      }else if(item.label == "Health"){
+      }else if(item.label == "Global Health"){
         item.icon = "health-badge"
-      }else if(item.label == "health"){
+      }else if(item.label == "global health"){
         item.icon = "health-badge"
         item.label = "Health"
       }else if(item.label == "Fragile States"){
         item.icon = "stability-badge"
-      }else if(item.label == "Digital"){
+      }else if(item.label == "Digital Acceleration"){
         item.icon = "ict-badge"
       }else if(item.label == "Sustainable Business"){
         item.icon = "corp-badge"
