@@ -1,7 +1,6 @@
 ---
 title: DAI and Corteva Agriscience Form Partnership
 date: 2018-08-29 15:01:00 Z
-published: false
 solutions:
 - Economic Growth
 - Trade
