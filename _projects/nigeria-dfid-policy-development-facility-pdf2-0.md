@@ -1,20 +1,32 @@
 ---
 title: Nigeria—DFID Policy Development Facility (PDF2)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+date: 2016-01-21 22:40:00 Z
+summary: To develop a competitive and dynamic non-oil economy, particularly one based
+  on pro-poor growth, Nigeria needs to pursue innovation and reform in its policy
+  and public investment framework.
 start: 2015
 end: 2020
+client: U.K. Department for International Development
+solutions:
+- Economic Growth
+- Governance
 regions:
 - Sub-Saharan Africa
 country:
 - Nigeria
-solutions:
-- Economic Growth
-- Governance
+promos:
+- title: "**Stories of Change**: _Improving the Audit Function_"
+  link: "/uploads/Improving-the-Audit-Function-of-the-OAuGF.pdf"
+- title: "**Stories of Change**: _Job Creation and Youth_"
+  link: "/uploads/Job-Creation-and-Youth-Empowernment-in-Nigeria.pdf"
+- title: "**Stories of Change**: _Diversifying the Nigerian Economy_"
+  link: "/uploads/Diversifying-the-Nigerian-Economy-Reviving-the-Mines-and-Steel-Industry.pdf"
+- title: "**Stories of Change**: _Efficiency in the Use of Government Resources_"
+  link: "/uploads/Efficiency-in-the-use-of-Government-Resources.pdf"
+- title: "**Stories of Change**: _Improving Communications of the Nigerian Sovereign
+    Investment Authority_"
+  link: "/uploads/Improving-Communications-of-the-Nigeria-Sovereign-Investment-Authority-NSIA.pdf"
 layout: project
-summary: To develop a competitive and dynamic non-oil economy, particularly one based
-  on pro-poor growth, Nigeria needs to pursue innovation and reform in its policy
-  and public investment framework.
 ---
 
 To develop a competitive and dynamic non-oil economy, particularly one based on pro-poor growth, Nigeria needs to pursue innovation and reform in its policy and public investment framework.
