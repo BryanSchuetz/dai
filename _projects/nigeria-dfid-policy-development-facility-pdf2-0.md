@@ -15,7 +15,8 @@ regions:
 country:
 - Nigeria
 promos:
-- title: "**Stories of Change**: _Improving the Audit Function_"
+- title: "**Stories of Change**: _Improving the Audit Function of the Office of the
+    Auditor General_"
   link: "/uploads/Improving-the-Audit-Function-of-the-OAuGF.pdf"
 - title: "**Stories of Change**: _Job Creation and Youth_"
   link: "/uploads/Job-Creation-and-Youth-Empowernment-in-Nigeria.pdf"
