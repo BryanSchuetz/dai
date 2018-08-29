@@ -1,5 +1,5 @@
 ---
-title: Tanzania—Advancing Youth Activity
+title: Tanzania—Feed the Future Tanzania Advancing Youth Activity
 date: 2017-09-07 21:28:00 Z
 summary: 'The Advancing Youth Activity project helps young people ages 15 to 29 in
   Tanzania to enhance their employability, business savvy, leadership skills, and
@@ -17,7 +17,7 @@ country: Tanzania
 
 In the past decade, Tanzania experienced significant improvements—both economically and socially. The country’s gross domestic product has seen above-average growth; the mortality for children under age 5 has dropped substantially; more households have electricity; and more young people have completed primary school. However, economic growth has benefited cities more than rural areas, leading to increased rural to urban migration by youth who see farming as a dead-end occupation. With approximately 800,000 young people entering the workforce each year, providing youth with vocational skills and connecting them to employment opportunities has become an increasingly important and urgent need.
 
-To help empower young people in Tanzania, the Advancing Youth Activity, funded by the U.S. Agency for International Development (USAID), helps young people ages 15 to 29 to enhance their employability, business savvy, leadership skills, and participation in civic life. The program encourages young people to use health data and services to make better personal choices. The Advancing Youth Activity collaborates with young people in program design and implementation and builds public-private partnerships to bolster job opportunities for them.
+To help empower young people in Tanzania, the Advancing Youth Activity, funded by Feed the Future and the U.S. Agency for International Development (USAID), helps young people ages 15 to 29 to enhance their employability, business savvy, leadership skills, and participation in civic life. The program encourages young people to use health data and services to make better personal choices. The Advancing Youth Activity collaborates with young people in program design and implementation and builds public-private partnerships to bolster job opportunities for them.
 
 ![Tanzania_FuEL_image.jpg](/uploads/Tanzania_FuEL_image.jpg)
 
