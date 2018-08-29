@@ -1,7 +1,6 @@
 ---
 title: Kosmos Innovation Center Named Finalist for the Concordia P3 Impact Award
 date: 2018-08-29 19:23:00 Z
-published: false
 solutions:
 - Local Content and Supply Chain Management
 - Sustainable Business
