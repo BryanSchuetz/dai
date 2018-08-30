@@ -33,6 +33,8 @@ A second phase of the project, MADE II, [continues working](http://dai-global-de
 * Link women involved in poultry keeping and fish smoking with opportunities to increase productivity and access new markets.
 * Continue to scale successful market interventions from programme’s first phase and establish sustainable exit plans with local partners.
 
+[![made-infographic.jpg](/uploads/made-infographic.jpg)](/uploads/Achievements%20of%20MADE%201-a44a95.jpg)
+
 ### Select Results
 
 * MADE I helped 155,000 Nigerians living in poverty to increase their incomes by an average of 15 percent.
@@ -41,5 +43,3 @@ A second phase of the project, MADE II, [continues working](http://dai-global-de
 * Established self-sustaining network of private trainers for aquaculture, leading to 10,000 fish farmers purchasing training and increasing their productivity by 65 percent.
 * Partnered with 25 lead agribusinesses and 488 service providers and entrepreneurs to improve distribution networks and help them target rural farmers with affordable products and services.
 * Assisted companies to hold product demonstrations and develop 700 trial plots to show farmers how to use new products and improved methods.
-
-[![made-infographic.jpg](/uploads/made-infographic.jpg)](/uploads/Achievements%20of%20MADE%201-a44a95.jpg)
