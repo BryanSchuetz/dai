@@ -41,3 +41,6 @@ A second phase of the project, MADE II, [continues working](http://dai-global-de
 * Established self-sustaining network of private trainers for aquaculture, leading to 10,000 fish farmers purchasing training and increasing their productivity by 65 percent.
 * Partnered with 25 lead agribusinesses and 488 service providers and entrepreneurs to improve distribution networks and help them target rural farmers with affordable products and services.
 * Assisted companies to hold product demonstrations and develop 700 trial plots to show farmers how to use new products and improved methods.
+
+![cropped image.jpg](/uploads/cropped%20image.jpg)
+[Click to view full graphic](/uploads/Achievements%20of%20MADE%201-a44a95.jpg).
