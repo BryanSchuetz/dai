@@ -44,3 +44,6 @@ A second phase of the project, MADE II, [continues working](http://dai-global-de
 
 ![cropped image.jpg](/uploads/cropped%20image.jpg)
 [Click to view full graphic](/uploads/Achievements%20of%20MADE%201-a44a95.jpg).
+
+![cropped graphic 2.jpg](/uploads/cropped%20graphic%202.jpg)
+[Click to view full graphic.](/uploads/Achievements%20of%20MADE%201a-cc8159.jpg)
