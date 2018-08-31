@@ -9,7 +9,7 @@ summary: Like with its successful [PolSEFF](/our-work/projects/poland-polish-sus
   credit lines to local partner financial institutions in Morocco that then on-lend
   to their clients.
 start: 2013
-end: 2018
+end: 2020
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
@@ -32,7 +32,5 @@ The credit line for Morocco is currently €20million for Banque Marocaine du Co
 ### Sample Activities
 
 * Provide partner financial institutions with technical assistance in developing marketing strategies and activities to build customer awareness and fill the pipeline with clean-energy projects.
-
 * Work with other agencies—including government, business associations, and development finance institutions—to promote the facility.
-
 * Train local engineers, energy auditors, architects, and designers to identify and prepare bankable sustainable energy projects.
