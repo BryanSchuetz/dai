@@ -565,6 +565,14 @@ textarea{
   padding: .5rem;
   margin-bottom: 1rem;
 }
+.toc-right{
+  @include responsive(wide-screens){
+    width: 30%; 
+    float: right; 
+    margin-left: 2rem;
+    font-size: .9rem;
+  }
+}
 // 🎌 Related 🎌
 #last{
   clear:both;
