@@ -20,6 +20,9 @@ articles:
 - name: Zambia Pilot Demonstrates How to Save Lives, Scale Relief for Children Suffering
     from Malaria
   article_file: http://dai-global-developments.com/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/
+- name: Empowering Women and Communities to Promote Universal Health Coverage in Rural
+    Zambia
+  article_file: https://www.tandfonline.com/doi/full/10.1080/09614524.2018.1508421
 ---
 
 Dr. Paula Quigley is a medical doctor with more than 27 years of experience in programme management, monitoring and evaluation, and health systems strengthening. She specialises in reproductive, maternal, newborn, child, and adolescent health. She has worked in South and Southeast Asia, Sub-Saharan Africa and Europe, and speaks English, French, and German. Currently, she is the Deputy Team Leader for a global formative evaluation of UNICEF’s health systems strengthening approach, conducting country and thematic case studies. From 2014 to 2015, she was the Health Expert on the African Development Bank’s Ethiopia Flagship Study, where she reviewed innovations in Ethiopia and globally to inform potential scale-up of effective interventions across multiple sectors. As the Senior Technical Advisor to the Mobilising Access to Maternal Health Services, Zambia (MAMaZ) programme, she worked to address social exclusion and tackle barriers around access to maternal, newborn, and reproductive health services. She played a similar role in the follow-up programme, MORE MAMaZ, providing guidance on national integration and scaling up. Additionally, Paula provided oversight and technical support to the Northern Uganda programme on Improving Access to Health Care for the Poor, designing and supporting implementation of a results-based financing model to strengthen mechanisms for improving access to, and quality of, maternal care. 
