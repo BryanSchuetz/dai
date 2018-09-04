@@ -1,6 +1,6 @@
 ---
 title: Land Tenure and Property Rights
-date: 2016-01-22 00:11:00 Z
+date: 2018-09-03 10:55:00 Z
 permalink: "/our-work/solutions/environment-and-energy-solutions/land-tenure"
 solutions:
 - Environment and Energy
