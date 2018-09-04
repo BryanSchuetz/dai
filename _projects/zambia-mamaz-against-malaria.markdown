@@ -10,6 +10,14 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 country: 'Zambia '
+promos:
+- title: Moving the Needle on Malaria
+  link: http://dai-global-developments.com/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/?utm_source=daidotcom
+- title: Bicycles Revealed as Secret Weapon in Fight Against Malaria
+  link: https://www.telegraph.co.uk/news/0/bicycles-revealed-secret-weapon-reduce-deaths-malaria-children/
+- title: Empowering Women and Communities to Promote Universal Health Coverage in
+    Rural Zambia
+  link: https://www.tandfonline.com/doi/full/10.1080/09614524.2018.1508421
 ---
 
 Malaria is a serious public health problem in rural Zambia, particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years.
