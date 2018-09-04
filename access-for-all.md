@@ -3,6 +3,7 @@ title: Access for All
 summary: Comming Soon
 layout: default
 ---
+
 # _Access for All: Building Inclusive Economic Systems_
 
 <aside> A new book by Brigit Helms, coming soon.</aside>
