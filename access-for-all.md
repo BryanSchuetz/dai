@@ -7,9 +7,7 @@ layout: default
 
 # _Access for All: Building Inclusive Economic Systems_
 
-<aside> A new book by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, coming soon.</aside>
-
-## Executive Summary 
+<aside> A new book by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, coming soon</aside>
 
 <img src="/uploads/access-for-all-cover.jpg" class="float-left">
 
@@ -38,11 +36,11 @@ Read the Executive Summary<svg class="redirect" viewBox="0 0 36 70" preserveAspe
 
 ## Praise for the Book
 
-> Great economic progress has been made over the past thirty years, lifting millions our of poverty. Delivering inclusive growth that sustains these gains and continues progress requires more than business as usual. This book sets out a fresh, clear vision for the partnerships, financial innovation and new approaches we need to deliver quality public services, productive jobs, and gender quality, and do development differently. – **Alix Peterson Zwane, Chief Executive Officer, Global Innovation Fund.**
+> Great economic progress has been made over the past 30 years, lifting millions our of poverty. Delivering inclusive growth that sustains these gains and continues progress requires more than business as usual. This book sets out a fresh, clear vision for the partnerships, financial innovation, and new approaches we need to deliver quality public services, productive jobs, and gender quality, and do development differently.—**Alix Peterson Zwane, Chief Executive Officer, Global Innovation Fund**
 
-> In _Access for All_, Brigit Helms lays out both a call to action and a playbook for building inclusive economies. She explores the why and the how in layperson's terms -- offering a way forward to help millions build a pathway out of poverty. Here's hoping that policy makers, international development experts, and, frankly, anyone who cares about building a more equitable global economy, read this book. – **Randall Kemper, Executive Director, Aspen Network of Development Entrepreneurs (ANDE)**
+> In _Access for All_, Brigit Helms lays out both a call to action and a playbook for building inclusive economies. She explores the why and the how in layperson’s terms—offering a way forward to help millions build a pathway out of poverty. Here’s hoping that policy makers, international development experts, and, frankly, anyone who cares about building a more equitable global economy, read this book.—**Randall Kemper, Executive Director, Aspen Network of Development Entrepreneurs**
 
-> Brigit Helms has done it again.  At a time when clear, compelling and practical know-how is urgently needed to show that "leave no one behind" is not just a slogan but an attainable goal, this book emerges.  It puts the individual and communities at the center of economic development, using the original and still relevant framework presented in the original _Access for All_ book back in 2006.  By tracing two pathways out of poverty – access to services and jobs –  this new book offers a snapshot of cutting edge knowledge of how to build inclusive economic systems. And three years after the Addis Ababa Action Agenda, it unequivocally demonstrates how the private sector can be, must be, and is indeed often a force for good. – **Alexia Latortue, Managing Director of Corporate Strategy, EBRD**
+> Brigit Helms has done it again. At a time when clear, compelling, and practical know-how is urgently needed to show that “leave no one behind” is not just a slogan but an attainable goal, this book emerges. It puts the individual and communities at the center of economic development, using the original and still relevant framework presented in the original _Access for All_ book back in 2006. By tracing two pathways out of poverty—access to services and jobs—this new book offers a snapshot of cutting-edge knowledge of how to build inclusive economic systems. And three years after the Addis Ababa Action Agenda, it unequivocally demonstrates how the private sector can be, must be, and is indeed often a force for good.—**Alexia Latortue, Managing Director of Corporate Strategy, European Bank for Reconstruction and Development**
 
 <a href="/more-praise-for-access-for-all" class="primary-block--button contacts-button">
 More Praise for <em>Access for All</em> ...<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
