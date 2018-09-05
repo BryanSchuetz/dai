@@ -2,10 +2,10 @@
 title: Kenya—Strengthening Adaptation and Resilience to Climate Change in Kenya Plus
   (StARCK+)
 date: 2016-01-21 22:40:00 Z
-summary: StARCK+ is designed to achieve transformational change by helping Kenya to
-  scale up private sector innovation and investment in low carbon and adaptation products,
-  services, and assets such as clean energy, sustainable agriculture, water management,
-  and weather forecasting.
+summary: StARCK+ achieved transformational change by helping Kenya to scale up private
+  sector innovation and investment in low carbon and adaptation products, services,
+  and assets such as clean energy, sustainable agriculture, water management, and
+  weather forecasting.
 start: 2013
 end: 2018
 client: U.K. Department for International Development
@@ -20,9 +20,9 @@ layout: project
 
 Much of Kenya's economy is based around sectors that are highly climate vulnerable, particularly tourism, arable agriculture, horticulture, floriculture, and livestock. Minor industries that employ significant numbers, such as forestry and coastal and freshwater fisheries, are also sensitive to climate change. Kenya's energy sector is highly dependent on hydropower, and therefore it—along with the industry and manufacturing that it powers—is also climate vulnerable.
 
-StARCK\+ is designed to achieve transformational change by helping Kenya to scale up private sector innovation and investment in low carbon and adaptation products, services, and assets such as clean energy, sustainable agriculture, water management, and weather forecasting. We target support to critical aspects of climate change governance and the stimulation of civil society demand.
+StARCK\+ was designed to achieve transformational change by helping Kenya to scale up private sector innovation and investment in low carbon and adaptation products, services, and assets such as clean energy, sustainable agriculture, water management, and weather forecasting. We targeted support to critical aspects of climate change governance and the stimulation of civil society demand.
 
-StARCK\+ follows on from the original StARCK programme (2011–2013), which supported a range of activities to assist in Kenya's approach to climate change. It consists of five components—the fifth component, for which DAI and partners have main responsibility, is the [Finance for Innovation and Climate Change Fund (FICCF)](http://ficcf.com/).
+StARCK\+ followed the original StARCK programme (2011–2013), which supported a range of activities to assist in Kenya's approach to climate change. It consisted of five components—the fifth component, [for which DAI and partners were responsible](http://dai-global-developments.com/articles/agriculture-finance-with-a-climate-lens-takes-off-in-kenya), was the [Finance for Innovation and Climate Change Fund (FICCF)](http://ficcf.com/).
 
 ### ![StARK_image.jpg](/uploads/StARK_image.jpg)
 
