@@ -7,9 +7,9 @@ layout: default
 
 # _Access for All: Building Inclusive Economic Systems_
 
-<aside> A new book by Brigit Helms, coming soon.</aside>
+<aside> A new book by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, coming soon.</aside>
 
-## Executive Summary
+## Executive Summary 
 
 <img src="/uploads/access-for-all-cover.jpg" class="float-left">
 
@@ -45,4 +45,4 @@ Read the Executive Summary<svg class="redirect" viewBox="0 0 36 70" preserveAspe
 > Brigit Helms has done it again.  At a time when clear, compelling and practical know-how is urgently needed to show that "leave no one behind" is not just a slogan but an attainable goal, this book emerges.  It puts the individual and communities at the center of economic development, using the original and still relevant framework presented in the original _Access for All_ book back in 2006.  By tracing two pathways out of poverty – access to services and jobs –  this new book offers a snapshot of cutting edge knowledge of how to build inclusive economic systems. And three years after the Addis Ababa Action Agenda, it unequivocally demonstrates how the private sector can be, must be, and is indeed often a force for good. – **Alexia Latortue, Managing Director of Corporate Strategy, EBRD**
 
 <a href="/more-praise-for-access-for-all" class="primary-block--button contacts-button">
-More Praise for <em>Access for All</em>...<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+More Praise for <em>Access for All</em> ...<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
