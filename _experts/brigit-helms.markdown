@@ -15,6 +15,8 @@ regions:
 articles:
 - name: "“Benefits of Bringing Mobile Banking to the Unbanked,” *Developments*"
   article_file: http://dai-global-developments.com/articles/benefits-of-bringing-mobile-banking-to-the-unbanked/
+- name: "“Access for All: Building Inclusive Economic Systems”"
+  article_file: https://www.dai.com/access-for-all
 ---
 
 Brigit Helms has nearly 30 years of experience pioneering innovative approaches to financial inclusion and seeking enterprise and market-based solutions to poverty. She came to DAI after leading the Multilateral Investment Fund, an innovation lab of the Inter-American Development Bank making investments equaling $85 million a year. Prior to this, she was Chief of Party of the SPEED program in Mozambique, leading DAI’s work to improve the business environment and competitiveness of the economy there. Brigit originally came to DAI from McKinsey & Company in Seattle. Drawing on her deep expertise in market-based solutions to global development problems, Brigit has supported and helped lead projects focused on expanding private sector involvement in extending financial services to poor households and small businesses that are underbanked.
