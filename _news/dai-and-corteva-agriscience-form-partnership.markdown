@@ -15,6 +15,8 @@ DAI and Corteva Agriscience, Agriculture Division of DowDuPont, announced a memo
 
 [Corteva Agriscience](https://www.corteva.com/), a global producer of seeds, crop protection products, and digital tools for growers, is active in 130 countries. 
 
+<!--more-->
+
 “Corteva Agriscience offers a wealth of technical insight and market knowledge to DAI, and is therefore a natural partner in our work to drive sustainable agricultural development,” said [Jim Winkler](https://www.dai.com/who-we-are/our-team/jim-packard-winkler), DAI senior trade and investment advisor. 
 
 DAI works in the agriculture sector to increase productivity, strengthen markets, facilitate trade and investment, and raise household incomes to achieve sustainable impact. The firm is currently working on agriculture, agribusiness, and food security programs in developing countries for international donors such as the U.S. Agency for International Development, the U.K. Department for International Development, the Swiss Agency for Development and Cooperation and the European Commission, in addition to agriculture-related projects for commercial clients.
