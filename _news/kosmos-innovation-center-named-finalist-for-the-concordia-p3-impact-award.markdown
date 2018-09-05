@@ -15,6 +15,8 @@ summary: 'The Kosmos Innovation Center  in Ghana has been named one of five fina
 
 The [Kosmos Innovation Center (KIC)](http://www.kosmosinnovationcenter.com/) in Ghana has been named one of five finalists for the [P3 Impact Award](https://p3impact.secure-platform.com/a). The annual award, created by Concordia in partnership with the U.S. State Department and the University of Virginia, recognizes public-private partnerships that support economic development. 
 
+<!--more-->
+
 Led by [Kosmos Energy](http://www.kosmosenergy.com/index.php), the KIC facilitates the development of entrepreneurs and businesses, with a focus on the agribusiness sector. DAI [supports](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic) the design and delivery of the entrepreneurship and leadership program, providing capacity building support, personnel recruitment and management, stakeholder engagement, investment due diligence, and ongoing technical assistance. Ghana’s [Meltwater Entrepreneurship School of Technology (MEST)](https://meltwater.org/) also provides technical training to KIC entrepreneurs and incubation services to winners of KIC seed funding. 
 
 The prestigious award is presented to the winning partnership during the Concordia Annual Summit that takes place alongside the UN General Assembly in New York on September 24–25.
