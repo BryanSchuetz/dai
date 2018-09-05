@@ -11,6 +11,10 @@ summary: DAI today announced that [Brigit Helms](https://www.dai.com/who-we-are/
 
 DAI today announced that [Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms) has been appointed Vice President for Technical Services. An authority in the fields of financial inclusion, development finance, and economic growth, Helms will lead the multisectoral Technical Services team and ensure its continued commitment to technical excellence and innovation globally.
 
+<!--more-->
+
+![Brigit Helms v2.jpg](/uploads/Brigit%20Helms%20v2.jpg){:.float-left}
+
 Helms has 30 years of experience in international development, with a focus on delivering innovative, market-based solutions to complex development problems. She has worked and lived in more than 35 countries in Africa, Asia, and Latin America. She is known as a skilled facilitator and avid student of the latest thinking on teamwork and organizational transformation.
 
 “This is a critical leadership position for DAI,” said company President and Chief Executive Officer [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). “Brigit has a compelling vision for a Technical Services team aligned around the biggest strategic challenges facing the world today—many of which cross development disciplines and all of which require new and creative thinking if we are to make headway on a global scale.”
