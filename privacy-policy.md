@@ -38,7 +38,7 @@ DAI collects personal information in a lawful and fair manner and will only be o
 * Applications by you to attend events such as conferences, meetings, and trainings;
 * Photos and videos of your attendance at training or similar sessions (you will be given a chance at the session to ask not to be videoed or photographed);
 * Details of any disabilities and any accommodations we may need to make for you in the workplace; and
-* We may also collect sensitive personal information where we are permitted to do so by law (e.g. criminal record activity following stringent vetting processes) and information related to heath. 
+* We may also collect sensitive personal information where we are permitted to do so by law (e.g. criminal record activity following stringent vetting processes) and information related to health. 
 * Through direct communication between you and DAI personnel, such as email, mail, by telephone and direct meetings.
 
 DAI primarily relies on the consent of individuals to collect, process, and hold their data. You may opt not to provide consent or not provide certain personal information requested; however, doing so may result in DAI not able to provide you with services or contract with you.
