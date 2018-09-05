@@ -1,6 +1,7 @@
 ---
 title: Rebecca Lawrence
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Lawrence
 summary: Since 1996, Rebecca Lawrence has planned and implemented more than a dozen
   large-scale development programs, and contributed to the design or management of
