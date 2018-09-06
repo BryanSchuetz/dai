@@ -2,6 +2,18 @@
 title: Afghanistan Value Chains–High Value Crops (AVC–High Value Crops)
 date: 2018-09-06 18:50:00 Z
 published: false
+summary: Afghanistan Value Chains–High Value Crops works with leading Afghan firms
+  in select agriculture value chains to improve efficiency and profitability, driving
+  rapid growth and creating jobs for men, women, and youth.
+start: 2018
+end: 2023
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Value Chain and Market Systems Development
+- Agriculture and Food Security
+regions: Middle East and North Africa
+country: Afghanistan
 ---
 
 Afghanistan’s agriculture sector has emerged as a powerful driver of the national economy. With steady growth over the past 15 years, farmers, input suppliers, processors, and traders are now prepared to transform loosely organized agricultural value chains into efficient and competitive value-creating systems. However, challenges such as high transaction costs, limited access to finance, and insufficient coordination constrain the Afghan agriculture sector from reaching its full potential.
