@@ -5,7 +5,7 @@ summary: The Integrated Approach to Neglected Tropical Diseases in Northern Nige
   programme (UNITED) supports the Nigerian government in controlling seven Neglected
   Tropical Diseases.
 start: 2013
-end: 2017
+end: 2019
 client: U.K. Department for International Development
 solutions:
 - Health Governance
