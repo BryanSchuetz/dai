@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: The Transforming Education in Pakistan (TEP) programme managed a public advocacy
   campaign in Pakistan to ensure that parents and civil society groups support quality
   education.
-start: 2012
+start: 2013
 end: 2018
 client: U.K. Department for International Development
 solutions:
