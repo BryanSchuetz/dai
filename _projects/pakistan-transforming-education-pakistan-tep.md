@@ -1,7 +1,7 @@
 ---
 title: Pakistan—Transforming Education in Pakistan (TEP)
 date: 2016-01-21 22:40:00 Z
-summary: The Transforming Education in Pakistan (TEP) programme manages a public advocacy
+summary: The Transforming Education in Pakistan (TEP) programme managed a public advocacy
   campaign in Pakistan to ensure that parents and civil society groups support quality
   education.
 start: 2012
@@ -19,9 +19,9 @@ country:
 layout: project
 ---
 
-The Transforming Education in Pakistan (TEP) programme manages a political advocacy and media campaign in Pakistan to ensure that parents and communities demand quality education and that the government takes tangible steps to provide [free quality education](https://www.youtube.com/watch?v=6nciO3A-MhI) to all children between the ages of 5 and 16. The campaign, *Alif Ailaan*, works through six core strands—political and government, media, research, digital/social media, civil society and alliances. 
+The Transforming Education in Pakistan (TEP) programme managed a political advocacy and media campaign in Pakistan to ensure that parents and communities demand quality education and that the government takes tangible steps to provide [free quality education](https://www.youtube.com/watch?v=6nciO3A-MhI) to all children between the ages of 5 and 16. The campaign, *Alif Ailaan*, worked through six core strands—political and government, media, research, digital/social media, civil society and alliances. 
 
-Since its inception, *Alif Ailaan* has embedded specific education issues into the discourse, set a precedent of data-informed journalism and reporting on education, pioneered a series of ground-breaking publications, and successfully lobbied for the government to research, calculate, and publish a nationally accepted number for out-of-school children between the ages of 5 and 16. In its current phase, the campaign is focused on lobbying for and getting key stakeholders to demand quality learning available in the classrooms of government schools, which are the only schools available to the poorest children. The campaign is now geared towards the next Pakistani general election, in May 2018. The team intends for the provision for quality education for all provided by the government to be a top priority agenda item in manifestos and political party campaigns.  
+*Alif Ailaan* embedded specific education issues into the discourse, set a precedent of data-informed journalism and reporting on education, pioneered a series of ground-breaking publications, and successfully lobbied for the government to research, calculate, and publish a nationally accepted number for out-of-school children between the ages of 5 and 16. The campaign also focused on lobbying for and getting key stakeholders to demand quality learning available in the classrooms of government schools, which are the only schools available to the poorest children. 
 
 <iframe src="//player.vimeo.com/video/104423898" width="703" height="394" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
