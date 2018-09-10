@@ -19,7 +19,7 @@ layout: project
 
 Poland is one of the most energy-intensive economies in Europe and the Polish government identified increased energy efficiency as one of its top priorities when developing the country's long-term energy policy. The European Bank for Reconstruction and Development (ERBD) [Polish Residential Energy Efficiency Financing Facility](http://www.polreff.org/?sLanguage=en) (Poland REFF) addressed this goal through a program of targeted loans to incentivize borrowing for household improvements that increase efficiency and reduce energy consumption.
 
-Over the course of the project, the ERBD will disperse €200 million through local banks in Poland to borrowers ranging from single family households to commercial residential developers and property owners. DAI, as a subcontractor to the Polish Foundation for Energy Efficiency (FEWE), provided technical assistance to support the implementation of the facility.
+Over the course of the project, the ERBD will disperse €200 million through local banks in Poland to borrowers ranging from single family households to commercial residential developers and property owners. DAI, as a subcontractor to the Polish Foundation for Energy Efficiency, provided technical assistance to support the implementation of the facility.
 
 Poland REFF built on the success of the DAI-led Polish Sustainable Energy Financing Facility (PolSEFF), which provided similar energy efficiency financing to small and medium enterprises.
 
@@ -30,7 +30,7 @@ Poland REFF built on the success of the DAI-led Polish Sustainable Energy Financ
 * Promote the facility and support participating banks in their marketing efforts.
 * Develop tools to help prospective borrowers choose appropriate equipment and materials to purchase, such as a List of Recommended Sustainable Energy Technologies (LEME) and an energy savings calculator.
 * Maintain an advisory helpline for borrowers.
-* Provide capacity building on energy efficiency financing to participating banks.
+* Provide capacity building on energy-efficiency financing to participating banks.
 
 ### Select Results
 
