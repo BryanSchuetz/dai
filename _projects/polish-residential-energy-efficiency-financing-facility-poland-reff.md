@@ -28,7 +28,7 @@ Poland REFF built on the success of the DAI-led Polish Sustainable Energy Financ
 ### Sample Activities
 
 * Promote the facility and support participating banks in their marketing efforts.
-* Develop tools to help prospective borrowers choose appropriate equipment and materials to purchase, such as a List of Recommended Sustainable Energy Technologies (LEME) and an energy savings calculator.
+* Develop tools to help prospective borrowers choose appropriate equipment and materials to purchase, such as a List of Recommended Sustainable Energy Technologies and an energy savings calculator.
 * Maintain an advisory helpline for borrowers.
 * Provide capacity building on energy-efficiency financing to participating banks.
 
