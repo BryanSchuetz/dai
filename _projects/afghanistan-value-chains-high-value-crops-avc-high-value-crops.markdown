@@ -19,7 +19,7 @@ Afghanistan’s agriculture sector has emerged as a powerful driver of the natio
 
 The Afghanistan Value Chains–High Value Crops (AVC–High Value Crops) project, funded by the U.S. Agency for International Development, takes a market systems approach to improving productivity and profitability in select agriculture value chains by working with leading Afghan firms. DAI provides management consulting services to such anchor firms in fruit and nuts, high-value horticulture, and spices and medicinal crops value chains to address market failures, strengthen linkages, drive growth, and create jobs for men, women, and youth.
 
-![VC_crops_photo.jpg](/uploads/VC_crops_photo.jpg)
+![VC_crops_photo_2.jpg](/uploads/VC_crops_photo_2.jpg)
 
 ### Sample Activities
 
