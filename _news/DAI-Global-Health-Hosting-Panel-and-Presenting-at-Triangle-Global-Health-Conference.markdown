@@ -6,8 +6,9 @@ solutions:
 - Global Health
 - Gender and Social Inclusion
 projects: Nigeria—Women for Health (W4H)
-summary: DAI Global Health is hosting a plenary panel session at the Triangle Global
-  Health Consortium Annual Conference in Raleigh, North Carolina, on September 27.
+summary: DAI Global Health is hosting a panel and presenting at sessions at the Triangle
+  Global Health Consortium Annual Conference in Raleigh, North Carolina, on September
+  27.
 social-image: "/uploads/logo.jpg"
 ---
 
