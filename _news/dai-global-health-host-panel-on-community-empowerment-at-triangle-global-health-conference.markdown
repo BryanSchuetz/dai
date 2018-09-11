@@ -14,7 +14,7 @@ summary: 'DAI Global Health is hosting a plenary panel session—"​Embedding s
 social-image: "/uploads/logo.jpg"
 ---
 
-DAI Global Health is hosting a plenary [panel](http://www.triangleglobalhealth.org/2018-plenary-panels) session—"Embedding social innovation: expanding and adapting community empowerment models to drive gender equality"—at the Triangle Global Health Consortium Annual Conference in Raleigh, North Carolina, on September 27.
+DAI Global Health is hosting a plenary [panel](http://www.triangleglobalhealth.org/2018-plenary-panels) session—“Embedding social innovation: expanding and adapting community empowerment models to drive gender equality”—at the Triangle Global Health Consortium Annual Conference in Raleigh, North Carolina, on September 27.
 
 The session will be moderated by WISE Development’s Technical Director, [Georgia Taylor](https://www.dai.com/who-we-are/our-team/georgia-taylor), who specializes in women’s economic empowerment, tackling violence against women and girls, improving women’s access to maternal, newborn and child health, and sexual and reproductive health.
 
