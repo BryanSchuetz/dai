@@ -20,8 +20,11 @@ promos:
   link: "/our-work/the-projects?filter=fragile-states"
 - title: "**News:** Recent Fragile States News"
   link: "/news/view-more-news?filter=fragile-states"
-layout: solution
+- title: 'Youth and Violent Extremism in Mindanao, Philippines: A mixed-methods design
+    for testing assumptions about drivers of extremism '
+  link: "/uploads/Youth%20and%20Violent%20Extremism%20in%20Mindanao,%20Philippines.pdf"
 hero: true
+layout: solution
 ---
 
 Grounded in research and learning, we engage with local partners and our international counterparts in the development, research, diplomatic, and military communities to deliver locally-driven solutions to the economic, social, and political drivers of fragility, ideally before they manifest in conflict and instability. Our programs build resilient communities, empower moderate voices, rehabilitate and reintegrate ex-combatants, and support stable and responsive institutions.
