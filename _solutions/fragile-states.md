@@ -20,8 +20,8 @@ promos:
   link: "/our-work/the-projects?filter=fragile-states"
 - title: "**News:** Recent Fragile States News"
   link: "/news/view-more-news?filter=fragile-states"
-- title: 'Youth and Violent Extremism in Mindanao, Philippines: A mixed-methods design
-    for testing assumptions about drivers of extremism '
+- title: "**Report:** Youth and Violent Extremism in Mindanao, Philippines: A mixed-methods
+    design for testing assumptions about drivers of extremism "
   link: "/uploads/Youth%20and%20Violent%20Extremism%20in%20Mindanao,%20Philippines.pdf"
 hero: true
 layout: solution
