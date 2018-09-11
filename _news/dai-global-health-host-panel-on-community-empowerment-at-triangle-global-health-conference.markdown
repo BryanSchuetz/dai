@@ -1,7 +1,7 @@
 ---
 title: DAI Global Health to Host Panel on Community Empowerment at Triangle Global
   Health Conference
-date: 2018-09-11 11:24:00 Z
+date: 2018-09-11 07:54:00 Z
 solutions:
 - Health Governance
 - Global Health
