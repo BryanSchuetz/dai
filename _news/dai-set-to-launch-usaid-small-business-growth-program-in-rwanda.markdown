@@ -12,7 +12,7 @@ summary: The U.S. Agency for International Development has selected DAI to lead 
 social-image: "/uploads/Rwanda_NN_cover_web-342e4b.jpg"
 ---
 
-The U.S. Agency for International Development (USAID) has selected DAI to lead the Nguriza Nshore program in Rwanda. Nguriza Nshore— Kinyarwanda for "lend so that I may invest"—is a five-year project to support small-business growth in rural areas and create long-term jobs outside of farming.
+The U.S. Agency for International Development (USAID) has selected DAI to lead the [Nguriza Nshore](https://www.dai.com/our-work/projects/rwanda-nguriza-nshore) program in Rwanda. Nguriza Nshore—Kinyarwanda for "lend so that I may invest"—is a five-year project to support small-business growth in rural areas and create long-term jobs outside of farming.
 
 Rwanda’s economic gains of recent years have not translated to widespread job creation as a majority of its people still work as farmers or in agriculture-related businesses. A lack of access to finance—especially for women and young entrepreneurs—has constrained the ability of small businesses to expand, provide new and better products and services, and employ more people, especially in rural areas. Rwanda Nguriza Nshore will work on the enabling environment to effectively support small and medium enterprises, both in terms of financial regulatory and business promotion policies.
 
