@@ -4,10 +4,11 @@ date: 2018-05-07 14:48:00 Z
 solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
+projects: Rwanda—Nguriza Nshore
 clients: U.S. Agency for International Development
 summary: The U.S. Agency for International Development has selected DAI to lead the
-  Nguriza Nshore program in Rwanda. Nguriza Nshore— Kinyarwanda for "lend so that
-  I may invest"—is a five-year project to support small-business growth in rural areas
+  Nguriza Nshore program in Rwanda. Nguriza Nshore—Kinyarwanda for "lend so that I
+  may invest"—is a five-year project to support small-business growth in rural areas
   and create long-term jobs outside of farming.
 social-image: "/uploads/Rwanda_NN_cover_web-342e4b.jpg"
 ---
@@ -16,9 +17,7 @@ The U.S. Agency for International Development (USAID) has selected DAI to lead t
 
 Rwanda’s economic gains of recent years have not translated to widespread job creation as a majority of its people still work as farmers or in agriculture-related businesses. A lack of access to finance—especially for women and young entrepreneurs—has constrained the ability of small businesses to expand, provide new and better products and services, and employ more people, especially in rural areas. Rwanda Nguriza Nshore will work on the enabling environment to effectively support small and medium enterprises, both in terms of financial regulatory and business promotion policies.
 
-![Rwanda_NN_cover_web.jpg](/uploads/Rwanda_NN_cover_web.jpg)
-
-`Mobile phone vendors set up shop in a rural village outside of Kigali. Photo Credit: Adam Fivenson, DAI.`
+![Rwanda_NN_cover_web.jpg](/uploads/Rwanda_NN_cover_web.jpg)`Mobile phone vendors set up shop in a rural village outside of Kigali. Photo Credit: Adam Fivenson, DAI.`
 
 The Nguriza Nshore team will launch a Catalytic Growth Facility that will work with financial institutions, government ministries, business development service providers, and others to co-create and scale activities that strengthen Rwanda’s investment and entrepreneurship ecosystem. These may include de-risking new loan products for small businesses, analyzing market opportunities for rural businesses, and developing credit-scoring tools that target women and youth. The project team will also investigate creating a securitization market that would utilize assets from Rwanda’s $500 million public pension fund to invest in the private sector. In all, the team aims to bring $15 million in debt financing and $30 million in investment to small and medium-sized non-farm agribusinesses while creating more than 30,000 jobs for rural Rwandans.
 
