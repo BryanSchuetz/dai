@@ -11,6 +11,7 @@ solutions:
 - Sustainable Business
 regions:
 - Sub-Saharan Africa
+country: Nigeria
 projects: Nigeria—Foundation for Partnership Initiatives in the Niger Delta (PIND)
 clients: 
 layout: node

@@ -2,6 +2,7 @@
 title: DAI Joins Forces with Nigeria’s GRID Consulting
 date: 2018-02-05 16:56:00 Z
 regions: Sub-Saharan Africa
+country: Nigeria
 summary: GRID, Nigeria’s leading development consultancy, will join DAI effective
   immediately. A long-time partner of DAI’s, Lagos-based GRID specializes in financial
   advisory services, human resource management, and development program implementation.

@@ -13,6 +13,8 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific
+- Sub-Saharan Africa
+country: Nigeria
 projects: Worldwide—SERVIR Program Demand Activity
 clients: 
 layout: node

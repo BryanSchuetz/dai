@@ -5,6 +5,7 @@ date: 2018-05-10 13:05:00 Z
 solutions:
 - Governance
 regions: Sub-Saharan Africa
+country: Nigeria
 summary: 'DAI Country Director [Joe Abah](/who-we-are/our-team/joe-abah) was one of
   several prominent speakers at Nigeria’s Open Government Partnership (OGP) Week.
   Delivered today at the Barcelona Hotel in Abuja, Abah’s address was titled, “To

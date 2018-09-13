@@ -3,6 +3,7 @@ title: Distinguished Nigerian Professional Ike Osakwe Joins DAI Board
 date: 2018-02-09 13:55:00 Z
 is_featured: true
 regions: Sub-Saharan Africa
+country: Nigeria
 summary: "[Ike Osakwe](https://www.dai.com/who-we-are/board/ike-osakwe), most recently
   the Managing Director of GRID Consulting, has joined DAI's Board of Managers following
   the recent [successful acquisition](https://www.dai.com/news/dai-joins-forces-with-nigerias-grid-consulting)

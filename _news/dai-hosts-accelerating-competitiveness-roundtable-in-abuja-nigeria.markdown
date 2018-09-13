@@ -10,6 +10,7 @@ solutions:
 - Business Environment Reform
 - Agriculture and Food Security
 regions: Sub-Saharan Africa
+country: Nigeria
 projects: East Africa—Trade and Investment Hub
 clients: U.S. Agency for International Development
 summary: 'DAI on June 25 hosted a roundtable in Nigeria to discuss ways to leverage

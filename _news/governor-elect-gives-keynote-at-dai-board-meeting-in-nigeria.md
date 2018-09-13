@@ -2,6 +2,7 @@
 title: Governor-Elect Gives Keynote at DAI Board Meeting in Nigeria
 date: 2018-08-09 17:15:00 Z
 regions: Sub-Saharan Africa
+country: Nigeria
 summary: 'DAI’s Board was treated to a keynote speech by Dr. Kayode Fayemi, Governor-Elect
   or Ekiti State, in Nigeria as part of its quarterly meeting, which is held once
   per year in a country where DAI works. '
