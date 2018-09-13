@@ -16,9 +16,9 @@ Northern Nigeria suffers from critical health sector human resource challenges. 
 
 <script id="infogram_0_90f68290-7bc4-43d7-a3d8-702791e146a5" title="Distribution of Healthcare Workers in Nigeria" src="https://e.infogram.com/js/dist/embed.js?Rsd" type="text/javascript"></script>
 
-We're helping the U.K. Department for International Development tackle this problem by empowering women as service providers in five states in northern Nigeria.
+We're helping the U.K. Department for International Development [tackle this problem](http://dai-global-developments.com/articles/young-rural-women-are-crucial-to-advancing-universal-health-coverage-in-northern-nigeria/) by empowering women as service providers in five states in northern Nigeria.
 
-<a href="/our-work/projects/nigeria-women-for-health-w4h" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="http://dai-global-developments.com/articles/young-rural-women-are-crucial-to-advancing-universal-health-coverage-in-northern-nigeria/?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <br>
 <br>
@@ -29,9 +29,9 @@ Inefficient resource management, corruption, and a lack of accountability have u
 
 <script id="infogram_0_a72fe19a-ad10-4eaa-ae8f-636b35a5903f" title="Nigerian Poverty Rate" src="https://e.infogram.com/js/dist/embed.js?tge" type="text/javascript"></script>
 
-To promote progress in these key areas, we're helping the Nigerian government to more effectively manage resources and provide more responsive and accountable services to its citizens.
+To promote progress in these key areas, we're [helping the Nigerian government](/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc) to more effectively manage resources and provide more responsive and accountable services to its citizens.
 
-<a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <br>
 <br>
