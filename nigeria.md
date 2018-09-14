@@ -1,11 +1,15 @@
 ---
 title: DAI in Nigeria
-layout: node
-summary: Nigeria is Africa’s most populous nation and largest economy, a country of almost unimaginable promise, but like many emerging nations they face the development challenges that come with industrialization and growth. As development professionals, we see in Nigeria a fertile opportunity to make an enormous difference in people’s lives.
 permalink: "/our-work/the-regions/sub-saharan-africa/nigeria"
+published: false
+layout: node
+summary: Nigeria is Africa’s most populous nation and largest economy, a country of
+  almost unimaginable promise, but like many emerging nations they face the development
+  challenges that come with industrialization and growth. As development professionals,
+  we see in Nigeria a fertile opportunity to make an enormous difference in people’s
+  lives.
 hero: true
 regions: Sub-Saharan Africa
-published: false
 ---
 
 <aside><p><a href="/uploads/nigeria-timeline.pdf" class="float-left"><img src="/uploads/nigeria-timeline-thumb-two.jpg" alt="DAI in Nigeria Timeline"></a>DAI has a history of work in Nigeria going back to the 1970s, and is currently implementing half a dozen major projects for clients including the U.K. Department for International Development, the U.S. Agency for International Development, and the Chevron-funded Partnership Initiatives for the Niger Delta. The projects are <a href="/our-work/projects/nigeria-water-sanitation-and-hygiene-coordination-project-wcp">coordinating water, sanitation, and hygiene initiatives</a>; empowering women to serve as <a href="/our-work/projects/nigeria-women-for-health-w4h">nurses and midwives in Northern Nigeria</a>; promoting more <a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">accountable, responsive, and capable state and federal governments</a>; and boosting incomes through <a href="/our-work/projects/nigeria-market-development-programme-made">investment and market systems in the Niger Delta</a>.</p></aside>

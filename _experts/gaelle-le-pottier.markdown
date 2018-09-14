@@ -1,6 +1,7 @@
 ---
 title: Gaelle Le Pottier
 date: 2017-04-26 19:06:00 Z
+published: false
 lastname: Le Pottier
 summary: After joining the corporate banking world for a couple years, Gaelle Le Pottier
   delved back into governance-related development going from Iraq, to South Sudan,
