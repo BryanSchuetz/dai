@@ -37,8 +37,8 @@ var queryValues = {};
 $.each(window.location.href.split('?').pop().split('&'), function (i, v)
 {
 var v = v.split('=');
-if(v.length > 1) // prevent v\[1\] from erroring if no querystring present
-queryValues\[ v\[0\].toLowerCase() \] = v\[1\].toLowerCase();
+if(v.length > 1) // prevent v[1] from erroring if no querystring present
+queryValues[ v[0].toLowerCase() ] = v[1].toLowerCase();
 });
 
 if ( queryValues.submit == 'success' )
