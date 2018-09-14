@@ -34,7 +34,7 @@ The [Sustainable Business Group](/our-work/solutions/sustainable-business) offer
 <script>
 var queryValues = {};
 
-\$.each(window.location.href.split('?').pop().split('&'), function (i, v)
+$.each(window.location.href.split('?').pop().split('&'), function (i, v)
 {
 var v = v.split('=');
 if(v.length > 1) // prevent v\[1\] from erroring if no querystring present
@@ -43,19 +43,19 @@ queryValues\[ v\[0\].toLowerCase() \] = v\[1\].toLowerCase();
 
 if ( queryValues.submit == 'success' )
 {
-\$('#theForm').css('display', 'none');
-\$('#theForm-success').css('display', 'block');
+$('#theForm').css('display', 'none');
+$('#theForm-success').css('display', 'block');
 }
 
 if (typeof queryValues.source != "undefined")
 {
 var source = queryValues.source;
-\$('#source').prop("value", source);
+$('#source').prop("value", source);
 }
 if (typeof queryValues.campaign != "undefined")
 {
 var campaign = queryValues.campaign;
-\$('#campaign').prop("value", campaign);
+$('#campaign').prop("value", campaign);
 }
 
 </script>
