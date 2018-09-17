@@ -22,6 +22,7 @@ MQSUN\+ builds on the successes of the previous MQSUN Framework Agreement of whi
 
 ### Sample Activities
 
+* Work through the MQSUN+ framework to transform the multi-sectoral response to malnutrition in conflict-affected Karamoja, Uganda. The aim is to shift from a humanitarian response to an approach focused on strengthening the institutions and systems necessary for the Government of Uganda to effectively manage and be accountable for delivering health and relief services, including the multi-sectoral response necessary to address malnutrition.  
 * Provide policy and budget cycle management assistance to governments in the SUN Movement and to the SUN Movement Secretariat to catalyse country efforts to scale up nutrition impact.
 * Assist the U.K. Department for International Development (DFID) to maximise the quality and effectiveness of its nutrition-related programmes.
 * Support evidence generation and lesson learning around the global targets to reduce malnutrition.
