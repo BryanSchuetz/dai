@@ -1,9 +1,9 @@
 ---
 title: Uganda—Improving Access to Health Care for the Poor
 date: 2018-01-18 18:40:00 Z
-summary: 'Montrose International and Health Partners International, a DAI Global Health
-  firm, implemented multiple studies to assess the costs and benefits of Results-Based
-  Financing relative to Input-Based Financing in Northern Uganda. '
+summary: 'Montrose International and DAI Global Health implemented multiple studies
+  to assess the costs and benefits of Results-Based Financing relative to Input-Based
+  Financing in Northern Uganda. '
 start: 2011
 end: 2015
 client: U.K. Department for International Development
@@ -14,7 +14,7 @@ regions: Sub-Saharan Africa
 country: Uganda
 ---
 
-Montrose International and Health Partners International, a DAI Global Health firm, implemented multiple studies to assess the costs and benefits of Results-Based Financing relative to Input-Based Financing in Northern Uganda. The studies aimed to isolate the main effect of the financing modality in terms of quality and quantity of health service provision. 
+DAI Global Health and Montrose International implemented multiple studies to assess the costs and benefits of Results-Based Financing relative to Input-Based Financing in Northern Uganda. The studies aimed to isolate the main effect of the financing modality in terms of quality and quantity of health service provision. 
 
 This project aimed to provide evidence including how cost-effective programme approaches can be adapted to circumstances of fragility, poor governance and weak systems, where unmet need in reproductive, maternal, newborn, and child health is often greatest.
 
