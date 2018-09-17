@@ -14,19 +14,34 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-Northern Nigeria suffers from critical health sector human resource challenges. Up to 90 percent of women deliver their babies without a skilled birth attendant present in northern Nigeria, compared to 35 percent of women in the southern region of the country. And in Jigawa state, there are only five nurses per 100,000 people, compared to Enugu state in the Southeast with 59 per 100,000 people. These are just a few examples. The U.K. Department for International Development (DFID) is tackling this problem by empowering women as service providers in five states in northern Nigeria through its Women for Health (W4H) programme.
+When the Women for Health (W4H) programme began in 2012, women faced a one in nine lifetime risk of maternal death; 19.5 percent and 12.3 percent of deliveries in the North East and North West were attended by a skilled provider, compared to 82 percent in the southeast and southwest. Rural deliveries in the northern part of the country were three times less likely than those in urban areas to be attended by a skilled provider. 
 
-[W4H](http://www.women4healthnigeria.org/) works closely with other existing health and education programmes in the states as well as with government partners and other organisations including Save the Children, GRID Consulting Ltd., the Clinton Health Access Initiative, Mailman School of Public Health, Heilbrunn Department of Population and Family Health, Columbia University, Royal College of Midwives, Usmanu Danfodiyo University Sokoto, Bayero University Kano, and Advocacy Nigeria.
+The U.K. Department for International Development (DFID) is tackling this problem by empowering women as service providers in six states in northern Nigeria through its [Women for Health (W4H)](http://www.women4healthnigeria.org/) programme.
 
-Collaborating with 20 Midwifery, Nursing and Community Health Extension Worker Training Institutions and state ministries of health, W4H aims to support the training of more than 6,000 female health workers and support their deployment to rural health facilities where they can have the greatest impact on maternal, infant, and child mortality.
+Since November 2012, W4H has increased the number and capacity of female health workers in Jigawa, Kano, Katsina, Yobe, and Zamfara, while at the same time contributed to women’s empowerment and gender equality in communities and institutions in the northern region.
+
+This responds to a severe shortage of female health workers in a region where there are social and cultural barriers to women being seen by male health workers.
+
+It is expected that the increased numbers of female health workers will lead to an improvement in women’s access to and use of health services in northern Nigeria and improve Universal Health Coverage (UHC). 
+
+Working closely with, W4H has expanded operations into Borno State as part of the new phase of the program (April 2018-2020).
+
+W4H works closely with other existing health and education programs in the states to use a “building back better” approach in the conflict- and humanitarian emergency- affected areas in Borno and Yobe states, and ensure sustainability of the progress achieved over the last five years in Jigawa, Kano, Katsina, and Zamfara.
+
+A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group.
+
+The Women for Health programme is funded with UK aid from the UK Government. The programme is led by DAI Global Health (incorporating  Health Partners International and GRID), in partnership with Save the Children.
 
 ![women4health.jpg](/uploads/women4health.jpg)
 
 ###  Sample Activities
 
-* Improve the training of female health workers.
+* Introduce a Foundation Year Programme, or access course, for rural women to improve their academic credentials, study skills, and confidence to enter health worker training.
 * Strengthen the recruitment and retention of female health workers in rural health facilities.
-* Engage with community and religious institutions to create a gender-friendly environment for women to pursue health careers.
+* Engage with community, religious, and training institutions to create a gender-friendly environment for women to pursue health careers.
+* Improve the quality of teaching and supporting health training institutions to transition to a student-centred learning approach.
+* Facilitate locally led scale-up of the W4H approach in additional states.
+* Facilitate institutionalisation of commitment by federal agencies.
 
 ###  Select Results
 
