@@ -29,4 +29,5 @@ As part of the consortium, DAI Global Health leads the Health Systems Strengthen
 * Immunised hundreds of thousands of children against preventable childhood illnesses including vaccinating 258,000 children under 1 year of age against measles from 2017 to 2018.
 * Provided family planning for the first time to more than 1 million women of reproductive age, reinforcing their right to determine how many children they have and, by preventing unintended pregnancy, reducing number of maternal deaths and infant mortality.
 * Provided a skilled birth attendant to nearly 50,000 baby deliveries in the last year, resulting in more women getting access to clean, safe, and reliable treatment.
-* Trained and deployed specialists and officers to be embedded in the national and state Ministry of Health.
+* Helped 92 percent of health facilities to create committees for communities to give feedback regarding health services.
+* Improved availability of drugs, with timely deliveries every four months and stock levels of tracer drugs over 80 percent throughout the year; 90 percent of facilities provide monthly drug consumption reports, enabling better analysis of drug consumption.
