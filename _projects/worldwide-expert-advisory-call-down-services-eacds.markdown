@@ -1,14 +1,8 @@
 ---
 title: Worldwide—Expert Advisory Call Down Services (EACDS) Lots B, C, and D
 date: 2017-03-04 02:41:00 Z
-summary: 'Crises such as natural disasters, violent conflicts, and disease outbreaks
-  continue to affect large numbers of people across the world, with long-term stresses
-  such as climate change making extreme weather events more common and sapping the
-  reserves of disaster-affected communities. To better assist the world’s poorest
-  and most vulnerable people to deal with shocks, adapt to change, and mitigate risk,
-  the U.K. Department for International Development (DFID) has designed the Expert
-  Advisory Call Down Services (EACDS) Lot B: Strengthening Resilience and Response
-  to Crises. '
+summary: EACDS is a technical advisory call-down service which provides rapid-response,
+  expert support to DFID and other U.K. Government agencies and other donors.
 start: 2016
 end: 2018
 client: U.K. Department for International Development
@@ -39,22 +33,28 @@ promos:
   link: "/uploads/EiE_Evidence_Briefs_Introduction.pdf"
 ---
 
+### Lot B: Strengthening Resilience and Response to Crises
+
 Crises such as natural disasters, violent conflicts, and disease outbreaks continue to affect large numbers of people across the world, with long-term stresses such as climate change making extreme weather events more common and sapping the reserves of disaster-affected communities. Such strains have resulted in increased migration, unstable states, protracted humanitarian interventions, and expensive rebuilding efforts. In addition to the toll of human suffering, the costs associated with responding to such crises can strain the entire humanitarian response system, while subsequent regional instability can develop into security threats with far-reaching consequences.
 
 To better assist the world’s poorest and most vulnerable people to deal with shocks, adapt to change, and mitigate risk, the U.K. Department for International Development (DFID) has designed the Expert Advisory Call Down Services (EACDS) Lot B: Strengthening Resilience and Response to Crises. EACDS is a technical advisory call down service which provides rapid-response, expert support to DFID and other U.K. Government agencies and other donors. In managing Lot B, DAI will lead a 63-member consortium to respond to the varied requirements of service users-both to help them make risk-aware investments that take into account relevant future hazards, and to provide analysis and practical expertise to respond to crises where they occur. The service will also focus on sharing lessons learned in cross-sectoral resilience building and crisis mitigation with U.K. Government stakeholders and the wider donor community. A strong emphasis will be placed on bridging the divide between humanitarian action and development by planning for shocks and stresses and ensuring that emergency responses do not ignore or disrupt development paths.
 
-To learn more about how the DAI EACDS team can help your department or organisation, contact [info@lotb-resilience.org ](mailto:info@lotb-resilience.org)or visit [http://daiknowhowlab-resilience.org/](http://daiknowhowlab-resilience.org/).
-
 ![EACDS_Image.jpg](/uploads/EACDS_Image.jpg)
 
-**Sample Activities**
+### Sample Activities
 
-* Respond  to on-demand requests for support and work with users to precisely define scopes of assistance from first idea to full terms of reference.
-
+* Respond to on-demand requests for support and work with users to precisely define scopes of assistance from first idea to full terms of reference.
 * Assist in identifying learning and communication opportunities and promoting gender inclusion standards across all work.
-
 * Rapidly source expertise from across a consortium of more than 60 partners or other specialist suppliers, often within a 10-day period.
-
 * Manage all commissioned assignments on behalf of DFID, including contract placement and management, financial management, delivery and quality control, and duty of care.
-
 * [Promote](https://www.dai.com/news/dai-and-ucl-host-panel-on-risk-financing-for-disaster-preparedness) learning materials for a wider audience through digital communications and social media.
+
+## Lot C
+
+The scope of work under Lot C covers promoting global prosperity, prioritising approaches to improving the business climate, competitiveness and operation of markets, energy and financial sector reform, and increasing the ability of governments to tackle corruption. The aim is to drive higher sustained inclusive growth and encourage longer term economic transformation in pursuit of the first Global Goal—eradicating poverty everywhere. This requires expertise in applied economics, trade and foreign direct investment, private sector development instruments and approaches, inclusive growth and harnessing the private sector, infrastructure for growth and prosperity, and agriculture.
+
+### Lot D
+
+Wise Development, a DAI Global company, is a core consortium partner on Lot D (HEART http://www.heart-resources.org/) which provides technical assistance in international development, health, nutrition, water and sanitation, education, social protection and gender. The consortium works to support the use of evidence and expert advice in policy-making 
+
+To learn more about how the DAI EACDS team can help your department or organisation, contact info@lotb-resilience.org or visit http://daiknowhowlab-resilience.org/.
