@@ -24,4 +24,3 @@ Under the framework’s first phase, we:
 * Provided niche technical expertise in health and social development as a prime contractor on the Global Evaluation Framework Agreement.
 * Provided technical support in the following thematic areas: health, governance, capacity building, social development, and aid instruments.
 * Conducted an overall evaluation of Maternal Newborn and Child Health Programme in Zimbabwe.
-* With Triple Line, conducted the end of project evaluation DFID-funded Health Partnership Scheme programme, culminating in a presentation of the final report at the October 2016 THET Conference.
