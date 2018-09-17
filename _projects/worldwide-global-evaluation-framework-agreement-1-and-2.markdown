@@ -9,9 +9,9 @@ client: U.K. Department for International Development
 regions: Worldwide
 ---
 
-Health Partners International and WISE Development, both DAI Global Health firms, have been named to the Global Evaluation Framework Agreement 2 (GEFA 2) for Lot 1 covering Impact Evaluation. GEFA 2 ensures the provision of efficient and effective expert services for the design and implementation of evaluations delivered by the U.K. Department for International Development and other government departments.
+DAI Global Health is a prime contractor for the Global Evaluation Framework Agreement 2 (GEFA 2) for Lot 1, covering Impact Evaluation. GEFA 2 ensures the provision of efficient and effective expert services for the design and implementation of evaluations delivered by the U.K. Department for International Development (DFID) and other government departments. With Triple Line, DAI Global Health conducted the project evaluation of the DFID-funded Health Partnership Scheme Programme, culminating in a presentation of the final report at the October 2016 Tropical Health and Education Trust (THET) [Conference](http://globalhealth.org/event/thet-annual-conference-2016/).
 
-All consortium partners provide technical assistance to support human development in the following areas: health, water supply, sanitation, social protection, and education.
+All consortium partners provided technical assistance to support human development in the following areas: health, water supply, sanitation, social protection, and education. WISE Development, a DAI Global firm, provided technical assistance in gender and social inclusion.
 
 This framework builds on its predecessor GEFA, through which Health Partners International supported the implementation of the Evaluation of Maternal Newborn and Child Health Programme in Zimbabwe and the Evaluation of the Health Partnership Scheme.
 
