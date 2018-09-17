@@ -14,9 +14,9 @@ end: 2018
 client: U.K. Department for International Development
 solutions:
 - Climate Change Adaptation and Mitigation
-- Security and Justice
-- Fragile States
 - Global Health
+- Fragile States
+- 
 - 
 regions: Worldwide
 country: Worldwide
