@@ -1,10 +1,10 @@
 ---
-title: Liberia—Inventory of Medical Equipment in all Governmental Hospitals
+title: Liberia—Inventory of Medical Equipment in All Governmental Hospitals
 date: 2017-09-01 17:29:00 Z
-summary: 'Health Partners International (HPI) implemented a countrywide inventory
-  of medical equipment in 20 hospitals, funded by the Swiss Agency for Development
-  and Cooperation, to assess the health care technology management and maintenance
-  requirements of the Ministry of Health and Social Welfare in Liberia. '
+summary: 'DAI Global Health implemented a countrywide inventory of medical equipment
+  in 20 hospitals, funded by the Swiss Agency for Development and Cooperation, to
+  assess the health care technology management and maintenance requirements of the
+  Ministry of Health and Social Welfare in Liberia. '
 start: 2009
 end: 2010
 client: Swiss Agency for Development and Cooperation
@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Liberia
 ---
 
-Years of civil war left Liberia’s health care infrastructure in need of rebuilding. A key part of this involved ensuring all hospitals had essential medical equipment. Health Partners International (HPI) implemented a countrywide inventory of medical equipment in 20 hospitals, funded by the Swiss Agency for Development and Cooperation, to assess the health care technology management and maintenance requirements of the Ministry of Health and Social Welfare in Liberia. 
+Years of civil war left Liberia’s health care infrastructure in need of rebuilding. A key part of this involved ensuring all hospitals had essential medical equipment. DAI Global Health implemented a countrywide inventory of medical equipment in 20 hospitals, funded by the Swiss Agency for Development and Cooperation, to assess the health care technology management and maintenance requirements of the Ministry of Health and Social Welfare in Liberia. 
 
 The inventory also provided information on the availability of infrastructure such as power, water, and waste management. The project built capacity for the effective planning and management of procurement and maintenance of medical equipment at national level, by providing training on health care technology management software and on developing a maintenance plan. 
 
