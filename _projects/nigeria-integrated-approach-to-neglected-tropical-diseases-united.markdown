@@ -15,22 +15,24 @@ regions: Sub-Saharan Africa
 country: 'Nigeria '
 ---
 
-UNITED supports the Nigerian government in controlling seven neglected tropical diseases (NTD)—blinding trachoma, bilharzia, elephantiasis, river blindness, hookworm, whipworm, and roundworm.
+The Integrated Approach to Neglected Tropical Diseases (UNITED) programme supports the Nigerian government in controlling seven neglected tropical diseases (NTD)—blinding trachoma, bilharzia, elephantiasis, river blindness, hookworm, whipworm, and roundworm.
 
-The targeted NTDs are preventable with proven, cost-effective interventions such as mass drug administration, which involves distributing four drugs once or twice a year to everyone in a community to prevent the seven diseases.
+The targeted NTDs are preventable with proven, cost-effective interventions, such as mass drug administration, which involves distributing four drugs once or twice a year to everyone in a community to prevent the seven diseases.
 
-DAI Global Health is responsible for UNITED's health system strengthening work stream. This involves working with the Ministry of Health and other key stakeholders at the federal and state levels to ensure that the national NTD control programme has the most appropriate structure, resources, capacity, plans, and budgets, as well as effective coordination mechanisms. A robust health system will contribute to improving the provision of sustainable mass drug distribution, broad-based communication and coordination, and more effective health care at all levels.
+As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach is used, in which drugs for different diseases are administered at the same time.
 
-Led by Sightsavers, the consortium also comprises Helen Keller International, CBM, MITOSATH, Carter Centre, the Liverpool School of Tropical Medicine—Centre for Neglected Tropical Diseases, London Centre for NTD Research, Partnership for Child Development and the Schistosomiasis Control Initiative, Imperial College, London School of Hygiene and Tropical Medicine, Natural History Museum, Accenture Development Partnerships, and Crown Agents. 
+Led by Sightsavers, the consortium also comprises Helen Keller International, CBM, MITOSATH, Carter Centre, the Liverpool School of Tropical Medicine – Centre for Neglected Tropical Diseases, the London Centre for NTD Research, the Partnership for Child Development and the Schistosomiasis Control Initiative, Imperial College, the London School of Hygiene and Tropical Medicine, the Natural History Museum, Accenture Development Partnerships, and Crown Agents.
 
-## DAI Sample Activities
+DAI Global Health is responsible for the health systems strengthening workstream, which involves budget advocacy to ensure political commitment and spending for NTDs. UNITED has successfully built capacities at national and sub-national levels on resource mobilization for NTDs programmes and, in collaboration with partners, contributed to the government allocating budget lines for NTDs in the UNITED-supported states. The programme has also led to the integration of some NTDs intervention areas into the overall health sector agenda to maximize available resources from other disease interventions for NTDs programme.
+
+## Sample Activities
 
 * Strengthen health system coordination structures.
 * Integrate NTDs into overall health sector agenda.
 * Build capacity for coordination, leadership, and management of NTDs programmes at national and subnational levels.
 * Support policy development for NTDs programming.
 
-## DAI Select Results
+## Select Results
 
 * Established functional NTDs technical advisory committees in the UNITED-supported states and provided technical leadership to state NTDs teams for improved service delivery.
 * Developed NTDs-civil society engagement framework which provides strategies for collaborating toward budget advocacy for NTDs.
