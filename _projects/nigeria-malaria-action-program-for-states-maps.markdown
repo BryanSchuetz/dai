@@ -17,7 +17,7 @@ country: Nigeria
 
 The Malaria Action Program for States (MAPS) was a comprehensive five-year program that increased coverage and use of life-saving malaria interventions in support of the Nigeria National Malaria Strategic Plan and the National Malaria Elimination Program.
 
-The MAPS consortium was led by FHI 360 in partnership with Health Partners International (HPI) and Malaria Consortium. HPI was responsible for strengthening the management capacity of the State Ministry of Health and local government area health personnel to provide oversight of malaria interventions. HPI provided on-the-job capacity building through a long-term team based at the federal and state levels supporting training, supervision, and financial management with intermittent external consultancy expertise.
+The MAPS consortium was led by FHI 360 in partnership with DAI Global Health and Malaria Consortium. DAI Global Health was responsible for strengthening the management capacity of the State Ministry of Health and local government area health personnel to provide oversight of malaria interventions. DAI Global Health provided on-the-job capacity building through a long-term team based at the federal and state levels supporting training, supervision, and financial management with intermittent external consultancy expertise.
 
 ###  Sample Activities
 
