@@ -17,7 +17,7 @@ The Support to the National Malaria programme (SuNMaP) worked in close cooperati
 
 SuNMaP worked to improve capacity for national, state and local government area policy development; planning and coordination; harmonisation; prevention of malaria; treatment of malaria; awareness and demand creation; and operations research, monitoring and evaluation.
 
-Health Partners International (HPI) provided technical assistance in health systems strengthening for national and state-level capacity for policy development, planning, and coordination of malaria control activities. HPI’s key focus included providing technical and operational support in building local on-the-job capacity for management at all levels of the national malaria elimination programme.
+DAI Global Health’s Health Partners International (HPI) provided technical assistance in health systems strengthening for national and state-level capacity for policy development, planning, and coordination of malaria control activities. HPI’s key focus included providing technical and operational support in building local on-the-job capacity for management at all levels of the national malaria elimination programme.
 
 ## Sample Activities
 
@@ -38,4 +38,4 @@ Health Partners International (HPI) provided technical assistance in health syst
 * Strengthened monitoring and evaluation, data collection and analysis of the malaria eradication elimination programme.
 * Increased coverage of the population by malaria prevention and control interventions and increased access to malaria treatment.
 
-The programme was led by the Malaria Consortium, other core consortium members included HPI and GRID consulting. Other partners included Federation of Muslim Women Association in Nigeria, Health Reform Foundation of Nigeria, Pharmaceutical Manufacturers Group, and Christian Health Association of Nigeria.
+The programme was led by the Malaria Consortium, other core consortium members included DAI Global companies HPI and GRID Consulting. Other partners included Federation of Muslim Women Association in Nigeria, Health Reform Foundation of Nigeria, Pharmaceutical Manufacturers Group, and Christian Health Association of Nigeria.
