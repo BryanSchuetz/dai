@@ -45,8 +45,9 @@ The Women for Health programme is funded with UK aid from the UK Government. The
 
 ###  Select Results
 
-* Increased by more than 4,000 the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation. [Watch these videos ](https://www.youtube.com/watch?v=L5C4HPhIrc8&list=PLNh1_9YTHaV3d3oB3ZR7luGxPW6R6A_NG&index=1)to learn more. 
-* Strengthened management systems and structures of training institutions to provide an appropriate environment for high-quality professional training.
+* Engaged with government to ensure commitment, legislation, and budgeted funding to sustain health training institutions and the continuation of the Foundation Year Programme.
+* Increased by more than 6,000 the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation. [Watch these videos ](https://www.youtube.com/watch?v=L5C4HPhIrc8&list=PLNh1_9YTHaV3d3oB3ZR7luGxPW6R6A_NG&index=1)to learn more. 
+* Strengthened management systems and structures of 20 training institutions to provide an appropriate environment for high-quality professional training.
 * Improved female-friendliness of health training institutions by increasing gender sensitivity of staff, constructing female-friendly accommodation, improving security, providing counseling, child care facilities, and increasing the proportion of female tutors and managers.
 * Helped nine schools receive full accreditation and 11 to achieve provisional accreditation.
 * Constructed 35 houses to accommodate midwives.
