@@ -6,14 +6,16 @@ summary: The Global Evaluation Framework Agreement 2 ensures the provision of ef
 start: 2012
 end: 2018
 client: U.K. Department for International Development
+solutions:
+- Global Health
 regions: Worldwide
 ---
 
-Health Partners International and WISE Development, both DAI Global Health firms, have been named to the Global Evaluation Framework Agreement 2 (GEFA 2) for Lot 1 covering Impact Evaluation. GEFA 2 ensures the provision of efficient and effective expert services for the design and implementation of evaluations delivered by the U.K. Department for International Development and other government departments.
+DAI Global Health is a prime contractor for the Global Evaluation Framework Agreement 2 (GEFA 2) for Lot 1, covering Impact Evaluation. GEFA 2 ensures the provision of efficient and effective expert services for the design and implementation of evaluations delivered by the U.K. Department for International Development (DFID) and other government departments. With Triple Line, DAI Global Health conducted the project evaluation of the DFID-funded Health Partnership Scheme Programme, culminating in a presentation of the final report at the October 2016 Tropical Health and Education Trust (THET) [Conference](http://globalhealth.org/event/thet-annual-conference-2016/).
 
-All consortium partners provide technical assistance to support human development in the following areas: health, water supply, sanitation, social protection, and education.
+All consortium partners provided technical assistance to support human development in the following areas: health, water supply, sanitation, social protection, and education. WISE Development, a DAI Global company, provided technical assistance in gender and social inclusion.
 
-This framework builds on its predecessor GEFA, through which Health Partners International supported the implementation of the Evaluation of Maternal Newborn and Child Health Programme in Zimbabwe and the Evaluation of the Health Partnership Scheme.
+This framework built upon its predecessor GEFA 1, through which Health Partners International supported the implementation of the Evaluation of Maternal Newborn and Child Health Programme in Zimbabwe and the Evaluation of the Health Partnership Scheme.
 
 GEFA 2 covers a range of geographic locations including fragile and conflicted-affected states.
 
@@ -24,4 +26,3 @@ Under the framework’s first phase, we:
 * Provided niche technical expertise in health and social development as a prime contractor on the Global Evaluation Framework Agreement.
 * Provided technical support in the following thematic areas: health, governance, capacity building, social development, and aid instruments.
 * Conducted an overall evaluation of Maternal Newborn and Child Health Programme in Zimbabwe.
-* With Triple Line, conducted the end of project evaluation DFID-funded Health Partnership Scheme programme, culminating in a presentation of the final report at the October 2016 THET Conference.
