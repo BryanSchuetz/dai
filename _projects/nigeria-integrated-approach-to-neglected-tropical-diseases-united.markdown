@@ -25,22 +25,17 @@ Led by Sightsavers, the consortium also comprises Helen Keller International, CB
 
 DAI Global Health is responsible for the health systems strengthening workstream, which involves budget advocacy to ensure political commitment and spending for NTDs. UNITED has successfully built capacities at national and sub-national levels on resource mobilization for NTDs programmes and, in collaboration with partners, contributed to the government allocating budget lines for NTDs in the UNITED-supported states. The programme has also led to the integration of some NTDs intervention areas into the overall health sector agenda to maximize available resources from other disease interventions for NTDs programme.
 
-## Sample Activities
+### Sample Activities
 
 * Strengthen health system coordination structures.
 * Integrate NTDs into overall health sector agenda.
 * Build capacity for coordination, leadership, and management of NTDs programmes at national and subnational levels.
 * Support policy development for NTDs programming.
 
-## Select Results
+### Select Results
 
 * Established functional NTDs technical advisory committees in the UNITED-supported states and provided technical leadership to state NTDs teams for improved service delivery.
-* Developed NTDs-civil society engagement framework which provides strategies for collaborating toward budget advocacy for NTDs.
-* Facilitated endorsement of NTDs strategic plans 2015–2020 by state governments.
-* Supported development of national NTDs-WASH engagement framework for strengthened collaboration.
+* Developed NTDs-civil society engagement framework that provides strategies for collaborating toward budget advocacy for NTDs.
+* Facilitated the endorsement of NTDs strategic plans 2015–2020 by various state governments.
+* Supported development of national NTDs-water, sanitation and hygiene (WASH) engagement framework for strengthened collaboration.
 * Implemented capacity building plans at national and subnational levels.
-
-## UNITED Programme Focus
-
-* Reached 13.8 million people with annual mass treatment to reduce illness.
-* Distributed more than 110 million treatments in northern states of Kano, Katsina, Zamfara, Kaduna, and Niger.
