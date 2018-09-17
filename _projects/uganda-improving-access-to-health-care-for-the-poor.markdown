@@ -16,7 +16,7 @@ country: Uganda
 
 DAI Global Health and Montrose International implemented multiple studies to assess the costs and benefits of Results-Based Financing relative to Input-Based Financing in Northern Uganda. The studies aimed to isolate the main effect of the financing modality in terms of quality and quantity of health service provision. 
 
-This project aimed to provide evidence including how cost-effective programme approaches can be adapted to circumstances of fragility, poor governance and weak systems, where unmet need in reproductive, maternal, newborn, and child health is often greatest.
+This project provided evidence—including how cost-effective programme approaches can be adapted to circumstances of fragility, poor governance, and weak systems—where unmet need in reproductive, maternal, newborn, and child health is often greatest.
 
 The resulting “NU Health Policy Brief” was aimed at decision-makers and provided a concise outline of the implications and for policy and programme arising from NU Health.
 
