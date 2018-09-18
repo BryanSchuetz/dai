@@ -29,13 +29,15 @@ We're helping the U.K. Department for International Development [tackle this pro
 
 # Accountable, Responsive, and Capable Government
 
+<div class="infogrphic" style="width: 40%; float: left; margin-right: 2rem;">
+<script id="infogram_0_a72fe19a-ad10-4eaa-ae8f-636b35a5903f" title="Nigerian Poverty Rate" src="https://e.infogram.com/js/dist/embed.js?tge" type="text/javascript"></script>
+</div>
+
 Inefficient resource management, corruption, and a lack of accountability have undermined Nigeria's ability to translate economic progress into inclusive growth and improved public services for more Nigerians. Advancements in public administration, public financial management, and enhanced policy are crucial in helping the Nigerian government provide better services to its citizens and reduce high levels of poverty.
 
-<script id="infogram_0_a72fe19a-ad10-4eaa-ae8f-636b35a5903f" title="Nigerian Poverty Rate" src="https://e.infogram.com/js/dist/embed.js?tge" type="text/javascript"></script>
+To promote progress in these key areas, we're [helping the Nigerian government](/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc) to more effectively manage resources and provide more responsive and accountable services to its citizens. ARC works at both the state and national levels to build on the success of its predecessor program, the State Partnership for Accountability Responsiveness and Capability (SPARC). Over seven years, SPARC helped to support responsive policy formulation and encourage performance-focused public service in Nigeria by helping state governments to improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning.
 
-To promote progress in these key areas, we're [helping the Nigerian government](/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc) to more effectively manage resources and provide more responsive and accountable services to its citizens.
-
-<a href="http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a style="display: block; clear: left;" href="http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <br>
 <br>
