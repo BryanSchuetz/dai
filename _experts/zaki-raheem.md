@@ -19,6 +19,8 @@ articles:
 - name: Why more diaspora investors are exploring business opportunities in Somaliland,
     _The Guardian_
   article_file: http://www.theguardian.com/global-development-professionals-network/dai-partner-zone/bringing-it-home
+- name: Capturing Systemic Change in Bangladesh
+  article_file: https://www.marketlinks.org/post/capturing-systemic-change-bangladesh
 layout: expert
 ---
 
