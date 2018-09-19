@@ -1,17 +1,21 @@
 ---
 title: Gustavo Payan
 date: 2018-09-19 12:52:00 Z
-published: false
 lastname: Payan
 summary: 'Gustavo Payan is an international development specialist with experience
   in conflict-affected and fragile environments. '
 job-title: 'Development Specialist, Education and Fragile States '
+image: "/uploads/Gustavo%20Payen.jpg"
 solutions:
 - Governance
 - Education
 - Fragile States
 regions:
 - Latin America and the Caribbean
+articles:
+- name: '"Peer Violence and Bullying Are a Barrier to Learning in Crisis and Conflict
+    Settings," EECN'
+  article_file: https://eccnetwork.net/peer-violence-bullying/
 ---
 
 Gustavo Payan is an international development specialist with experience in conflict-affected and fragile environments. An impassioned advocate education in crisis and conflict and school-based violence prevention, he builds programs and influences policy to foster peace and security through promoting access to learning and livelihoods. Gustavo is currently the senior technical advisor and Deputy Chief of Party of the [Asegurando la Educacion](https://www.dai.com/our-work/projects/honduras-securing-education) project in Honduras. He also serves as a co-chair of the Advocacy Working Group from the Inter-Agency Network for Education in Emergencies (INEE).  
