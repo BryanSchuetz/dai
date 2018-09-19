@@ -16,6 +16,8 @@ articles:
 - name: '"Peer Violence and Bullying Are a Barrier to Learning in Crisis and Conflict
     Settings," EECN'
   article_file: https://eccnetwork.net/peer-violence-bullying/
+- name: '"Education Sensitive to Conflict: One Reason to be Hopeful," INEE'
+  article_file: http://www.ineesite.org/en/blog/education-sensitive-to-conflict-one-reason-to-be-hopeful
 ---
 
 Gustavo Payan is an international development specialist with experience in conflict-affected and fragile environments. An impassioned advocate education in crisis and conflict and school-based violence prevention, he builds programs and influences policy to foster peace and security through promoting access to learning and livelihoods. Gustavo is currently the senior technical advisor and Deputy Chief of Party of the [Asegurando la Educacion](https://www.dai.com/our-work/projects/honduras-securing-education) project in Honduras. He also serves as a co-chair of the Advocacy Working Group from the Inter-Agency Network for Education in Emergencies (INEE).  
