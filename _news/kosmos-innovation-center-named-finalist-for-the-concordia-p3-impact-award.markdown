@@ -13,7 +13,7 @@ summary: 'The Kosmos Innovation Center  in Ghana has been named one of five fina
   partnerships that support economic development. '
 ---
 
-The [Kosmos Innovation Center (KIC)](http://www.kosmosinnovationcenter.com/) in Ghana has been named one of five finalists for the [P3 Impact Award](https://p3impact.secure-platform.com/a). The annual award, created by Concordia in partnership with the U.S. State Department and the University of Virginia, recognizes public-private partnerships that support economic development. 
+The [Kosmos Innovation Center (KIC)](http://www.kosmosinnovationcenter.com/) in Ghana has been named one of five finalists for the [P3 Impact Award](https://p3impact.secure-platform.com/a). The annual award, created by Concordia in partnership with the U.S. State Department and the [University of Virginia](https://ideas.darden.virginia.edu/2018/09/kosmos-innovation-center-a-p3-partnership/), recognizes public-private partnerships that support economic development. 
 
 <!--more-->
 
