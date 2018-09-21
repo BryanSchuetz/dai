@@ -100,7 +100,7 @@ body.st-ui-overlay-active{
     @include width(12);
   }
 }
-.promos .container, .promos .header-inner, .promos .footer-inner{
+.promos .container, .promos .header-inner, .promos .footer-inner, .country .container, .country .header-inner, .country .footer-inner{
     @include responsive(extra-ultra-wide-screens){
       @include width(14)
     }
@@ -1145,6 +1145,54 @@ iframe{
   padding: 1rem;
   background-color: $nav-gray;
 }
+
+// 🎌 Country Pages  🎌
+
+.country{
+  aside{
+    margin-bottom: 2rem;
+    overflow: hidden;
+    clear: left;
+  }
+  .infographic{
+    @include responsive(wide-screens){
+      width: 40%; 
+      float: left; 
+      margin-right: 2rem; 
+      margin-top: 1rem;
+    }
+  }
+  .country-people{
+    @include responsive(wide-screens){
+      width: 20%;
+      float: right;
+      margin-left: $gutter;
+    } 
+  .country-people--block{
+    width: 45%;
+    float: left;
+    &.first{
+      margin-right: 10%;
+    }
+    margin-bottom: 1rem;
+    @include responsive(wide-screens){
+      width: 100%;
+    }
+  }
+    margin-bottom: 2rem;
+    .block{
+      margin-bottom: 2rem;
+    }
+    img{
+      margin-bottom: .5rem;
+    }
+    .name{
+      line-height: 1.2em;
+      margin-top: 0;
+    }
+  }
+}
+
 
 // 🎌 Search Styles  🎌
 #sbx-icon-search-13{
