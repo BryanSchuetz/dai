@@ -1169,10 +1169,10 @@ iframe{
       margin-left: $gutter;
     } 
   .country-people--block{
-    width: 45%;
+    width: 30%;
     float: left;
-    &.first{
-      margin-right: 10%;
+    &.first, &.second{
+      margin-right: 5%;
     }
     margin-bottom: 1rem;
     @include responsive(wide-screens){
