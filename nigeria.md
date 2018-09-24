@@ -12,8 +12,8 @@ hero: true
 regions: Sub-Saharan Africa
 related: true
 country: true
-
 ---
+
 <div class="country-people">
   <div class="country-people--block first">
     <div class="countryRep">
