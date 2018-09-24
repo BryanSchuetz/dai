@@ -48,5 +48,6 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 * Supported region's first Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
 * Supported the [electric vehicle industry](https://www.youtube.com/watch?v=0DKmx1WV33o)—from drafting and helping pass the regulation needed to capture and sell solar-generated electricity at charging stations, to negotiating the partnerships that enabled private-sector investment in those stations. Jordan went from a country with no electric vehicles to a market that now includes Tesla, Nissan, BMW, Mercedes, among others.
 * Supporting Jordan Education for Employment to place 750 college graduates, 53 percent of whom were women.
+* Struck [groundbreaking partnerships](https://www.youtube.com/watch?v=PkX9Olh6d2A&feature=youtu.be) with ICT firms such as Microsoft and Intel, to expand within the country.
 
 [1]: http://www.jcp-jordan.org/
