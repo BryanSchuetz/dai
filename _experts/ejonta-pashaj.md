@@ -29,3 +29,5 @@ Recalling some of the highlights of her work, Ejonta harks back to her native Al
 
 * M.P.P., public management and nonprofit studies, Georgetown University
 * B.A., business administration, Tirana University, Albania
+
+<iframe src="https://player.vimeo.com/video/291539929" width="640" height="345" frameborder="0" allowfullscreen></iframe>
