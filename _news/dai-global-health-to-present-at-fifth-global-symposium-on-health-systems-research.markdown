@@ -21,7 +21,7 @@ The Global Symposium on Health Systems Research is organized every two years by 
 
 DAI Global Health is hosting a One Health simulation to build skills in multisectoral coordination for preparedness and response to public health threats. Facilitated by DAI’s [Jeff Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey), [Susan Scribner](https://www.dai.com/who-we-are/our-team/susan-scribner), [Miniratu Soyoola](https://www.dai.com/who-we-are/our-team/miniratu-soyoola), and [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley), this session provides a practical opportunity for participation and learning on evidence related to advancing One Health and sustainable multisectoral coordination in practice.
 
-Quigley and Eva Rahman will support the facilitation of an IntraHealth International-hosted skills-building session, "How to Translate Health Systems Research into Powerful Advocacy Messages, Op-Eds, and Thought Leadership."
+Quigley and Eva Rahman will support the facilitation of an IntraHealth-hosted skills-building session, "How to Translate Health Systems Research into Powerful Advocacy Messages, Op-Eds, and Thought Leadership."
 
 **Wednesday, October 10**
 
@@ -29,7 +29,7 @@ DAI and IntraHealth are co-hosting a reception, "Future-Ready Health Systems: An
 
 **Thursday, October 11**
 
-The panel, "Leaving no one behind; how can evidence-based approaches support progress towards universal health coverage and global health goals during conflict and protracted crises?" is aimed at those working in both humanitarian and development roles. DAI’s [Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), National Programme Manager for the [Women for Health programme](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h), funded by the U.K. Department for International Development (DFID), and Campbell Katito, Health Systems Adviser for the DFID-funded [South Sudan Health Pooled Fund](https://www.dai.com/our-work/projects/south-sudan-health-pooled-fund) will present case studies, highlighting insights and recommendations for better evidence use for longer-term systems strengthening in conflict-affected settings.
+The panel, "Leaving no one behind: how can evidence-based approaches support progress towards universal health coverage and global health goals during conflict and protracted crises?" is aimed at those working in both humanitarian and development roles. DAI’s [Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), National Programme Manager for the [Women for Health programme](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h), funded by the U.K. Department for International Development (DFID), and Campbell Katito, Health Systems Adviser for the DFID-funded [South Sudan Health Pooled Fund](https://www.dai.com/our-work/projects/south-sudan-health-pooled-fund) will present case studies, highlighting insights and recommendations for better evidence use for longer-term systems strengthening in conflict-affected settings.
 
 Mecaskey will deliver opening remarks for the panel, "Of carts and horses: synergising universal health coverage with global health security." His global and local experience will provide evidence of good practice in leveraging investment in global health security and international health regulation capacity strengthening and advancing efforts toward universal health coverage.
 
