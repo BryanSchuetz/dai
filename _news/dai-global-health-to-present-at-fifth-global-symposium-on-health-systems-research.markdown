@@ -1,0 +1,20 @@
+---
+title: DAI Global Health to Present at  Fifth Global Symposium on Health Systems Research
+date: 2018-09-26 14:36:00 Z
+published: false
+---
+
+DAI Global Health will have a big presence at this year’s [5th Global Symposium on Health Systems Research](http://healthsystemsresearch.org/hsr2018/) in Liverpool, United Kingdom, by participating in three panels, co-hosting a reception with affiliate IntraHealth International, hosting a skills-building satellite session, presenting two posters, and hosting an exhibition booth. 
+
+The Global Symposium on Health Systems Research is organized every two years by Health Systems Global to bring together the full range of actors involved in health systems and policy research and practice, all dedicated to strengthening health systems and building the field of health systems research. This year’s theme is focused on advancing health systems for all in the SDG era. 
+
+Monday, October 8
+DAI Global Health is hosting a One Health simulation to build skills in multisectoral coordination for preparedness and response to public health threats. Facilitated by DAI’s Jeff Mecaskey, Susan Scribner, Miniratu Soyoola and Paula Quigley, this session provides a practical opportunity for participation and learning on evidence related to advancing One Health and sustainable multisectoral coordination in practice.
+DAI’s Paula Quigley and Eva Rahman will support the facilitation of an IntraHealth International hosted skills-building session on How to Translate Health Systems Research into Powerful Advocacy Messages, Op-Eds, and Thought Leadership. 
+Wednesday, 10 October
+DAI and IntraHealth are co-hosting a reception Future-Ready Health Systems: An Interactive Networking Event at 6pm at the Pullman Liverpool Hotel. The event will be attended by key donor representatives, notable academics and representatives from civil society and private sector organisations. The reception is organised around informal roundtable conversations highlighting innovative solutions in areas such as preparedness and response, domestic resource mobilization, gender and the workforce, community health systems, and data for decision-making.  
+Thursday, 11 October
+The panel Leaving no one behind; how can evidence-based approaches support progress towards Universal Health Coverage and global health goals during conflict and protracted crises? is aimed at those working in both humanitarian and development roles. DAI’s Fatima Adamu,  National Programme Manager for the UK aid-funded Women for Health programme, and Campbell Katito, Health Systems Adviser for the UK aid-funded South Sudan Health Pooled Fund will present case studies, highlighting insights and recommendations for better evidence-use for longer-term systems strengthening in conflict- and humanitarian-affected settings.
+Jeff Mecaskey will deliver opening remarks for the panel on Of carts and horses: synergising Universal Health Coverage with global health security. Global and country-level experience will provide evidence of good practice in leveraging investment in Global Health Security and International Health Regulation capacity strengthening and advancing efforts toward Universal Health Coverage.
+DAI’s Andrew McKenzie is chairing a panel on Primary health care systems that advance the sustainable development goals: key lessons from 20 country PHC case studies in LMICs on Friday 12th October. Panelists will discuss and learn from the rich findings of the 20 Primary Health Care country case studies commissioned by the Alliance for Health Policy and Systems Research, focusing on using a Complex Adaptive Systems lens for systems strengthening, non-communicable diseases, participatory governance and private sector engagement. He will also present a poster on Community-led advocacy and innovation to strengthen pharmaceutical policy and distribution systems for better drug delivery to people with chronic illnesses in South Africa.
+Miniratu Soyoola will present a poster session on Building blocks from below: community engagement, social change, health systems and the Sustainable Development Goals – moving from evidence to scale.
