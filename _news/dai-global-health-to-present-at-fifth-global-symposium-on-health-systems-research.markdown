@@ -1,7 +1,6 @@
 ---
 title: DAI Global Health to Present at  Fifth Global Symposium on Health Systems Research
 date: 2018-09-26 14:36:00 Z
-published: false
 solutions:
 - Global Health
 summary: 'DAI Global Health will have a big presence at this year’s [5th Global Symposium
