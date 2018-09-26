@@ -17,7 +17,7 @@ summary: The Kosmos Innovation Center in Ghana has been named winner of the pres
 
 The Kosmos Innovation Center in Ghana has been named winner of the prestigious P3 Impact Award for 2018, which was announced September 25 at the Concordia Summit in New York City. The annual award was created by Concordia in partnership with the U.S. State Department’s [Office of Global Partnerships](https://www.state.gov/s/partnerships/) and University of Virginia’s [Darden School of Business](https://ideas.darden.virginia.edu/2018/09/kosmos-innovation-center-a-p3-partnership/) to recognize excellence in public-private partnerships that supports economic growth and other needs in developing countries.
 
-![DAI-News----Kosmos-pic.jpg](/uploads/DAI-News----Kosmos-pic.jpg)
+![DAI-News----Kosmos-pic.jpg](/uploads/DAI-News----Kosmos-pic.jpg)`Kosmos Energy Ghana's George Sarpong, third from right, holding the 2018 P3 Impact Award trophy after the announcement at the Concordia Summit in New York City. Photo: @ConcordiaSummit` 
 
 The [Kosmos Innovation Center (KIC)](http://www.kosmosinnovationcenter.com/) was established in 2016 by [Kosmos Energy](http://www.kosmosenergy.com/index.php) in cooperation with the Ghanaian government and assistance from DAI’s Sustainable Business Group. The KIC assists young entrepreneurs and small businesses from across Ghana to develop their ideas and business plans for improving Ghana’s agribusiness sector, including by leveraging information and communications technology. The project proved an immediate success, with the number of applicants for the program increasing from 100 in 2016 to 576 this year.
 
