@@ -785,6 +785,16 @@ footer{
   left: -.7rem;
   top: -.3rem;
 }
+.legaleeze{
+  font-size: .7rem;
+  color: #c8c6c2;
+  a{
+    color: white;
+    &:hover{
+      color: darken(white, 10%);
+    }
+  }
+}
 // 🎌 MISC 🎌
 
 hr {
