@@ -37,6 +37,6 @@ Mecaskey will deliver opening remarks for the panel, "Of carts and horses: syner
 
 DAI’s [Andrew McKenzie](https://www.dai.com/who-we-are/our-team/andrew-mckenzie) is chairing the panel, "Primary health care systems that advance the sustainable development goals: Key lessons from 20 country PHC case studies in LMICs." Panelists will discuss and learn from the findings of the 20 primary health care country case studies commissioned by the Alliance for Health Policy and Systems Research, focusing on using a complex adaptive systems lens for systems strengthening, noncommunicable diseases, participatory governance, and private sector engagement. He will also present a poster on community-led advocacy and innovation to strengthen pharmaceutical policy and distribution systems for better drug delivery to people with chronic illnesses in South Africa.
 
-Soyoola will present a poster session, "Building blocks from below: community engagement, social change, health systems, and the Sustainable Development Goals – moving from evidence to scale."
+Soyoola will present a poster session, "Building blocks from below: community engagement, social change, health systems, and the Sustainable Development Goals—moving from evidence to scale."
 
 Follow us on Twitter at [#DAIGlobalHealth](https://twitter.com/search?src=typd&q=%23DAIGlobalHealth) for more updates. 
