@@ -1,11 +1,7 @@
 ---
 title: Kosmos Innovation Center Wins Prestigious 2018 P3 Impact Award
 date: 2018-09-26 18:30:00 Z
-<<<<<<< HEAD
 is_featured: false
-=======
-is_featured: true
->>>>>>> 0c9c310c6509c444f5731af655a197853fc166c9
 solutions:
 - Sustainable Business
 - Economic Growth
