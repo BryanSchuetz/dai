@@ -24,8 +24,6 @@ This responds to a severe shortage of female health workers in a region where th
 
 It is expected that the increased numbers of female health workers will lead to an improvement in women’s access to and use of health services in northern Nigeria and improve Universal Health Coverage (UHC). 
 
-Working closely with, W4H has expanded operations into Borno State as part of the new phase of the program (April 2018-2020).
-
 W4H works closely with other existing health and education programs in the states to use a “building back better” approach in the conflict- and humanitarian emergency- affected areas in Borno and Yobe states, and ensure sustainability of the progress achieved over the last five years in Jigawa, Kano, Katsina, and Zamfara.
 
 A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group.
