@@ -19,6 +19,8 @@ The Kosmos Innovation Center in Ghana has been named winner of the prestigious P
 
 ![DAI-News----Kosmos-pic.jpg](/uploads/DAI-News----Kosmos-pic.jpg)`Kosmos Energy Ghana's George Sarpong, third from right, holding the 2018 P3 Impact Award trophy after the announcement at the Concordia Summit in New York City. Alongside are DAI's Dipika Chawla, second from right, and Thomas Debass, far right, of the U.S. Department of State. Photo: @ConcordiaSummit` 
 
+<!--more-->
+
 The [Kosmos Innovation Center (KIC)](http://www.kosmosinnovationcenter.com/) was established in 2016 by [Kosmos Energy](http://www.kosmosenergy.com/index.php) with assistance from [DAI’s Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business). The KIC assists young entrepreneurs and small businesses from across Ghana to develop their ideas and business plans for improving Ghana’s agribusiness sector, including by leveraging information and communications technology. The project proved an immediate success, with the number of applicants for the program increasing from 100 in 2016 to 576 this year.
 
 To date, the KIC team has provided business training and technical assistance for more than 280 young innovators, who then compete for seed funding in KIC’s AgriTech Challenge. KIC has also helped launch nine startups, sending the most promising companies each year to the Meltwater Entrepreneurial School of Technology, a Ghana-based business incubator. Kosmos has invested $200,000 in seed funding and leveraged an additional $1 million in seed funding and growth capital from external funders. Some of the startups that received funding include:
