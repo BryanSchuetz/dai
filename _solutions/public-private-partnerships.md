@@ -5,6 +5,7 @@ permalink: "/our-work/solutions/corporate/public-private-partnerships"
 solutions:
 - Corporate Sustainability
 layout: solution
+published: false
 ---
 
 Addressing social and environmental challenges in developing countries is a tough job for any single organization. As a recognized leader in developing and managing successful public-private partnerships, we help our clients establish partnerships that directly support their own business and social responsibility challenges.
