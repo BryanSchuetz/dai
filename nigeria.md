@@ -54,7 +54,7 @@ W4H works closely with other existing health and education programs in the state
 # Accountable, Responsive, and Capable Government
 
 <div class="infographic">
-<script id="infogram_0_a72fe19a-ad10-4eaa-ae8f-636b35a5903f" title="Nigerian Poverty Rate" src="https://e.infogram.com/js/dist/embed.js?tge" type="text/javascript"></script>
+<script id="infogram_0_3eb8d5f0-c8d3-49e4-a678-40b1eff61a62" title="SPARC Work" src="https://e.infogram.com/js/dist/embed.js?1LG" type="text/javascript"></script>
 </div>
 
 Inefficient resource management, corruption, and a lack of accountability have undermined Nigeria's ability to translate economic progress into inclusive growth and improved public services. Advancements in public administration, public financial management, and enhanced policy are crucial in helping the Nigerian government provide better services to its citizens and reduce poverty.
@@ -69,7 +69,7 @@ DAI is assisting [the Nigerian government](/our-work/projects/nigeria-state-part
 # Supporting Market Systems to Reduce Poverty and Human Trafficking
 
 <div class="infographic">
-  <a href="https://www.dai.com/uploads/Achievements%20of%20MADE%201-a44a95.jpg"><img src="/uploads/made-thumbnail-nigeria.jpg" alt=""></a>
+<script id="infogram_0_a72fe19a-ad10-4eaa-ae8f-636b35a5903f" title="Nigerian Poverty Rate" src="https://e.infogram.com/js/dist/embed.js?tge" type="text/javascript"></script>
 </div>
 
 Despite having the largest economy in Africa, around half of Nigeria’s population still lives in poverty. The [Market Development in the Niger Delta Project (MADE)](/our-work/projects/nigeria-market-development-programme-made) is promoting inclusive, pro-poor growth for farmers and entrepreneurs. At the same time, this market systems development approach will help address the root causes of outward migration that have led thousands to fall victim to human traffickers in Libya and Europe. By connecting vulnerable populations with desirable jobs at home, MADE aims to reduce the number of Nigerians who attempt to migrate work abroad only to end up trapped in modern slavery.
