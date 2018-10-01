@@ -26,8 +26,8 @@ Based in Washington, D.C., the INVEST project includes DAI subcontractors CrossB
 
 ### Sample Activities
 
-* Assessments and pipeline development. For example, INVEST completed a rapid assessment of Gender Lens Investing opportunities in five countries in sub-Saharan Africa, identifying 25 opportunities and recommendations for [USAID’s GenDev programming](https://www.usaid.gov/what-we-do/gender-equality-and-womens-empowerment).
-* Design and structuring support (such as funds and risk-mitigation instruments). For example, INVEST conducted a market assessment and designed a blended finance funding platform for USAID/India to mobilize resources and invest in the tuberculosis, water, sanitation, and hygiene (WASH), environmental, energy, and health sectors.
-* Transaction advisory services. For example, INVEST mobilized advisors to conduct rapid assessments of sectors to encourage investment in Afghanistan, with a focus on deal-making for investment and trade partnerships between Afghanistan and India.
+* **Assessments and pipeline development.** For example, INVEST completed a rapid assessment of Gender Lens Investing opportunities in five countries in sub-Saharan Africa, identifying 25 opportunities and recommendations for [USAID’s GenDev programming](https://www.usaid.gov/what-we-do/gender-equality-and-womens-empowerment).
+* **Design and structuring support (such as for funds and risk-mitigation instruments).** For example, INVEST conducted a market assessment and designed a blended finance funding platform for USAID/India to mobilize resources and invest in the tuberculosis, water, sanitation, and hygiene (WASH), environmental, energy, and health sectors.
+* **Transaction advisory services.** For example, INVEST mobilized advisors to conduct rapid assessments of sectors to encourage investment in Afghanistan, with a focus on deal-making for investment and trade partnerships between Afghanistan and India.
 
-Read more about INVEST [here](applewebdata://5FCC4D5A-0FC3-45DF-8649-3EB2D986A08F/dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/). 
+Read more about INVEST [here](http://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/). 
