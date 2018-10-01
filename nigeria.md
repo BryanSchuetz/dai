@@ -51,7 +51,6 @@ W4H works closely with other existing health and education programs in the state
 <a style="display: block; clear: left;" href="http://dai-global-developments.com/articles/young-rural-women-are-crucial-to-advancing-universal-health-coverage-in-northern-nigeria/?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <br>
-<br>
 
 # Accountable, Responsive, and Capable Government
 
@@ -65,7 +64,6 @@ DAI is assisting [the Nigerian government](/our-work/projects/nigeria-state-part
 
 <a style="display: block; clear: left;" href="http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-<br>
 <br>
 
 # Supporting Market Systems to Reduce Poverty and Human Trafficking
