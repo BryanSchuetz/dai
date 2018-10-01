@@ -1,5 +1,5 @@
 ---
-title: Worldwide—The INVEST Project
+title: Worldwide—INVEST
 date: 2017-10-06 19:20:00 Z
 summary: INVEST is a flexible, efficient buy-in mechanism that helps U.S. Agency for
   International Development (USAID) operating units mobilize private capital to achieve
