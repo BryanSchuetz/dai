@@ -2,7 +2,6 @@
 title: DAI in Nigeria
 permalink: "/our-work/the-regions/sub-saharan-africa/nigeria"
 published: false
-layout: node
 summary: Nigeria is Africa’s most populous nation and largest economy, a country of
   almost unimaginable promise. But like many emerging nations it faces the development
   challenges that come with industrialization and growth. With offices in Lagos and
@@ -12,6 +11,7 @@ hero: true
 regions: Sub-Saharan Africa
 related: true
 country: true
+layout: node
 ---
 
 <div class="country-people">
@@ -30,8 +30,8 @@ country: true
   <div class="country-people--block last">
     <div class="countryRep">
     <img src="/uploads/nigeria-judith.jpg" alt="Judith Ogedegbe">
-    <p class="name"><strong><a href="">Judith Ogedegbe, Executive Director</a></strong></p>
-    </div>  
+    <p class="name"><strong><a href="/who-we-are/our-team/judith-ogedegbe">Judith Ogedegbe, Executive Director</a></strong></p>
+    </div>   
   </div>
 </div> 
 <aside><p><a href="/uploads/nigeria-timeline.pdf" class="float-left"><img src="/uploads/nigeria-timeline-thumb-two.jpg" alt="DAI in Nigeria Timeline"></a>DAI's work in Nigeria goes back to the 1970s. We are implementing major projects for clients including the U.K. Department for International Development, the U.S. Agency for International Development, and the Chevron-funded Partnership Initiatives for the Niger Delta. From <a href="/our-work/projects/nigeria-water-sanitation-and-hygiene-coordination-project-wcp">coordinating water, sanitation, and hygiene initiatives</a>, and empowering women to serve as <a href="/our-work/projects/nigeria-women-for-health-w4h">nurses and midwives in Northern Nigeria</a> to promoting more <a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">accountable, responsive, and capable state and federal governments</a> and boosting incomes through <a href="/our-work/projects/nigeria-market-development-programme-made">investment and market systems in the Niger Delta</a>.</p></aside>

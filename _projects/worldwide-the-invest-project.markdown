@@ -30,4 +30,4 @@ Based in Washington, D.C., the INVEST project includes DAI subcontractors CrossB
 * **Design and structuring support (such as for funds and risk-mitigation instruments).** For example, INVEST conducted a market assessment and designed a blended finance funding platform for USAID/India to mobilize resources and invest in the tuberculosis, water, sanitation, and hygiene (WASH), environmental, energy, and health sectors.
 * **Transaction advisory services.** For example, INVEST mobilized advisors to conduct rapid assessments of sectors to encourage investment in Afghanistan, with a focus on deal-making for investment and trade partnerships between Afghanistan and India.
 
-Read more about INVEST [here](http://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/). 
+To read more about INVEST, [click here](http://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/). 
