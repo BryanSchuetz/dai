@@ -30,7 +30,7 @@ country: true
   <div class="country-people--block last">
     <div class="countryRep">
     <img src="/uploads/nigeria-judith.jpg" alt="Judith Ogedegbe">
-    <p class="name"><strong><a href="">Judith Ogedegbe, Technical Director</a></strong></p>
+    <p class="name"><strong><a href="">Judith Ogedegbe, Executive Director</a></strong></p>
     </div>  
   </div>
 </div> 
