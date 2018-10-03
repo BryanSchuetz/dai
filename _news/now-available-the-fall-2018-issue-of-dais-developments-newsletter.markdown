@@ -4,15 +4,15 @@ date: 2018-10-03 13:08:00 Z
 published: false
 ---
 
-The Fall 2018 issue of DAI’s Developments newsletter is now available.
+The [Fall 2018 issue](http://dai-global-developments.com/developments/fall-2018/) of DAI’s Developments newsletter is now available.
 
-Our lead story describes how DAI is utilizing market-driven strategies in Nigeria to address rural poverty and alleviate human slavery. DAI’s Nigeria Country Director, Joe Abah, reviews the U.K. Department for International Development (DFID)-funded Market Development in the Niger Delta project and looks ahead to its next phase.
+Our lead story describes how DAI is [utilizing market-driven strategies](http://dai-global-developments.com/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/) in Nigeria to address rural poverty and alleviate human slavery. DAI’s Nigeria Country Director, [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), reviews the U.K. Department for International Development (DFID)-funded [Market Development in the Niger Delta](https://www.dai.com/our-work/projects/nigeria-market-development-programme-made) project and looks ahead to its next phase.
 
-In Haiti, the country’s health information system marked a key step forward with the launch of its national tuberculosis tracker. Atwood Raphael, Deputy Chief of Party of the Haiti Strategic Health Information System Program, describes how the tracker will capture, monitor, and report all patient-level TB data across the country, which suffers a high incidence of the contagious disease.
+In Haiti, the country’s health information system marked a key step forward with the [launch of its national tuberculosis tracker](http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/). Atwood Raphael, Deputy Chief of Party of the [Haiti Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program), describes how the tracker will capture, monitor, and report all patient-level TB data across the country, which suffers a high incidence of the contagious disease.
 
 Other features:
 
-* Liberians’ ability to pay taxes and fees has improved dramatically with the launch of the country’s mobile payment system and recently developed payment options at select bank branches, improvements assisted by USAID’s Revenue Generation for Governance and Growth (RG3) team. Story by Alexander Kitain and Umar Shavurov.
+* Liberians’ ability to pay taxes and fees has [improved dramatically](http://dai-global-developments.com/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/) with the launch of the country’s mobile payment system and recently developed payment options at select bank branches, improvements assisted by USAID’s [Revenue Generation for Governance and Growth (RG3)](https://www.dai.com/our-work/projects/liberia-revenue-generation-governance-and-growth-rg3) team. Story by [Alexander Kitain](https://www.dai.com/who-we-are/our-team/alexander-kitain) and Umar Shavurov.
 * USAID units are increasingly looking into mobilizing private capital to meet demand around the world for energy, food, health care, water, and other needs; these initiatives are now being assisted by the agency’s new INVEST program, writes Robin Young.
 * Indonesia plans to increase access to high-quality health services across the sprawling country to reduce the maternal and neonatal mortality. DAI’s Kirsten Weeks, Chief of Party of USAID’s Jalin project, explains how.
 
