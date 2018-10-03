@@ -15,7 +15,6 @@ DAI hosted a number of fundraising events throughout September to support the [L
 The events—a Cocktail Hour, Yoga Workout, Penny Wars Competition, and our annual 5k Run/Walk—raised a total of $5,754. This year, we are grateful to local race sponsors Yoga District, La Madeleine, Honest Tea, Bethesda Chocolates, Bethesda Smiles, Bethesda Bagels, 3BMC Brookfield, and Greek Café.
 
 ![LNF_News_1.jpg](/uploads/LNF_News_1.jpg)
-![](https://assetify-dai.com/news/DAI-News----Norgrove-Fundraiser.jpg)
 `Participants at the starting line for the annual DAI 5-kilometer Fun Run/Walk to benefit the Linda Norgrove Foundation.`
 
 The foundation was established in honor of Linda Norgorve, a DAI employee who was kidnapped September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt by U.S. forces. She was working on [a program funded by the U.S. Agency for International Development](https://www.dai.com/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new) to create jobs and strengthen local economies.
