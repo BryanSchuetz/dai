@@ -29,10 +29,10 @@ As county governments take on responsibility for investment in and oversight of 
 
 * Assist water service providers (WSPs) to improve service delivery and business operations.
 * Facilitate access to financing for WSPs and WASH enterprises.
+* [Ensure women have equal access](http://dai-global-developments.com/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/) to the opportunities created by KIWASH activities.
 * Support achievement of the Government of Kenya's Community-Led Total Sanitation targets.
 * Incubate private sector WASH enterprises to develop innovative products and approaches.
-* Integrate WASH and nutrition best practices into Kenyan health services delivery.
-* [Ensure women have equal access](http://dai-global-developments.com/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/) to the opportunities created by KIWASH activities. 
+* Integrate WASH and nutrition best practices into Kenyan health services delivery. 
 
 ### Select Results
 
