@@ -13,7 +13,7 @@ Our lead story describes how DAI is [utilizing market-driven strategies](http://
 
 In Haiti, the country’s health information system marked a key step forward with the [launch of its national tuberculosis tracker](http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/). Atwood Raphael, Deputy Chief of Party of the [Haiti Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program), describes how the tracker will capture, monitor, and report all patient-level TB data across the country, which suffers a high incidence of the contagious disease.
 
-![Devs----WIE-2018-3.jpg](/uploads/Devs----WIE-2018-3.jpg)`Dr. Abdullah Abdullah, Chief Executive of the Islamic Republic of Afghanistan, after speaking in Kabul at the National Business Women’s Summit, organized by the Promote: Women in the Economy program.`
+![Devs----WIE-2018-3.jpg](/uploads/Devs----WIE-2018-3.jpg)`Dr. Abdullah Abdullah, Chief Executive of the Islamic Republic of Afghanistan, after speaking in Kabul at the National Business Women’s Summit, facilitated by the Promote: Women in the Economy program.`
 
 Other features:
 
