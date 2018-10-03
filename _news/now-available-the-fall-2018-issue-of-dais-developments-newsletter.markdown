@@ -1,7 +1,7 @@
 ---
 title: 'Now Available: The Fall 2018 Issue of DAI’s Developments Newsletter'
 date: 2018-10-03 13:08:00 Z
-summary: The [Fall 2018 issue](http://dai-global-developments.com/developments/fall-2018/)
+summary: The [fall 2018 issue](http://dai-global-developments.com/developments/fall-2018/)
   of DAI’s Developments newsletter features 12 articles, including on DAI's work on
   health systems in Haiti, market-driven development in Nigeria, country self-reliance
   in Liberia, and more.
