@@ -13,6 +13,7 @@ social-image: "/uploads/LNF_News_1-7633d5.jpg"
 DAI hosted a number of fundraising events throughout September to support the [Linda Norgrove Foundation](http://www.lindanorgrovefoundation.org/), which provides grants to organizations in Afghanistan that support healthcare and education for women and children.
 
 The events—a Cocktail Hour, Yoga Workout, Penny Wars Competition, and our annual 5k Run/Walk—raised a total of $5,754. This year, we are grateful to local race sponsors Yoga District, La Madeleine, Honest Tea, Bethesda Chocolates, Bethesda Smiles, Bethesda Bagels, 3BMC Brookfield, and Greek Café.
+
 ![LNF_News_1.jpg](/uploads/LNF_News_1.jpg)
 ![](https://assetify-dai.com/news/DAI-News----Norgrove-Fundraiser.jpg)
 `Participants at the starting line for the annual DAI 5-kilometer Fun Run/Walk to benefit the Linda Norgrove Foundation.`
