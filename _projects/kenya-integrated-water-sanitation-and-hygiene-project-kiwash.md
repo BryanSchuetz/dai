@@ -32,6 +32,7 @@ As county governments take on responsibility for investment in and oversight of 
 * Support achievement of the Government of Kenya's Community-Led Total Sanitation targets.
 * Incubate private sector WASH enterprises to develop innovative products and approaches.
 * Integrate WASH and nutrition best practices into Kenyan health services delivery.
+* [Ensure women have equal access](http://dai-global-developments.com/articles/placing-women-at-the-center-of-water-supply-management-in-kenya/) to the opportunities created by KIWASH activities. 
 
 ### Select Results
 
