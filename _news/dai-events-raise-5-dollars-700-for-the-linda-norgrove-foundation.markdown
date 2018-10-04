@@ -16,7 +16,7 @@ The events—a Cocktail Hour, Yoga Workout, Penny Wars Competition, and our annu
 ![LNF_News_1.jpg](/uploads/LNF_News_1.jpg)
 `Participants at the starting line for the annual DAI 5-kilometer Fun Run/Walk to benefit the Linda Norgrove Foundation.`
 
-The foundation was established in honor of Linda Norgrove, a DAI employee who was kidnapped September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt by U.S. forces. She was working on [a program funded by the U.S. Agency for International Development](https://www.dai.com/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new) to create jobs and strengthen local economies.
+The foundation was established in honor of Linda Norgrove, a DAI employee who was kidnapped September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt. She was working on [a program funded by the U.S. Agency for International Development](https://www.dai.com/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new) to create jobs and strengthen local economies.
 
 Operated by Linda’s parents, a small team of volunteers, and one part-time employee in Afghanistan, the foundation has distributed £1.1 million to help women and children affected by decades of conflict in Afghanistan. Its grants have supported more than 100 projects, including orphanages for disabled children, homes for widows, education for girls, emergency medical care for abused women, local water projects, and scholarships for female medical students.
 
