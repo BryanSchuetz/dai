@@ -3,6 +3,7 @@ title: DAI Events Raise $5,700 for the Linda Norgrove Foundation
 date: 2018-10-03 20:08:00 Z
 projects: Afghanistan—Incentives Driving Economic Alternatives for the North, East
   and West (IDEA-NEW)
+clients: U.S. Agency for International Development
 summary: DAI hosted a number of fundraising events throughout September to raise $5,754
   for the Linda Norgrove Foundation, which provides grants to organizations in Afghanistan
   that support health care and education for women and children.
