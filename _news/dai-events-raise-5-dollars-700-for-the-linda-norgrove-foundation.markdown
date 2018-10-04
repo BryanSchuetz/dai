@@ -21,8 +21,6 @@ The foundation was established in honor of Linda Norgrove, a DAI employee who wa
 
 Operated by Linda’s parents, a small team of volunteers, and one part-time employee in Afghanistan, the foundation has distributed £1.1 million to help women and children affected by decades of conflict in Afghanistan. Its grants have supported more than 100 projects, including orphanages for disabled children, homes for widows, education for girls, emergency medical care for abused women, local water projects, and scholarships for female medical students.
 
-![LNF_News_2.jpg](/uploads/LNF_News_2.jpg)
-
 This year, DAI’s donation will help cover the cost of surgeries and recovery care for eight disadvantaged girls and five women suffering from chronic medical issues, including cardiac, orthopedic, and gynecological disorders. The foundation will pay for the operations as well as transport, accommodation, food, and follow-up appointments, as all of the women and girls will travel from remote provinces to the hospital of the [French Medical Institute for Mothers and Children](https://www.fmic.org.af/Pages/Home.aspx) in Kabul.
 
 Every year in late September and early October, [run/walks](http://www.lindanorgrovefoundation.org/run) and other commemorative events are held in various countries to honor Linda and raise money for the foundation.
