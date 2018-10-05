@@ -4,7 +4,7 @@ date: 2017-05-09 16:37:00 Z
 lastname: 'Warner '
 summary: 'Michael Warner is one of the world’s leading authorities on local content
   in the context of the oil and gas, mining, and infrastructure sectors. '
-job-title: Senior Technical Advisor, Sustainable Business Group
+job-title: Director, Local Content Performance and Reporting
 image: "/uploads/warner.jpg"
 solutions:
 - Sustainable Business
