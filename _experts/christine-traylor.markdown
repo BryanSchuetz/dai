@@ -5,7 +5,7 @@ lastname: Traylor
 summary: As Operations Manager for DAI’s Sustainable Business Group, Christine Traylor
   develops and implements new processes that help the group streamline key business
   functions.
-job-title: Operations Manager, Sustainable Business Group
+job-title: Manager, Finance and Operations
 image: "/uploads/traylor.jpg"
 solutions:
 - Sustainable Business
