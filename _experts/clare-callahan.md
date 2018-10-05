@@ -6,7 +6,7 @@ summary: 'Clare Callahan provides project management, financial management, busi
   development, and technical support to the Sustainable Business Group.
 
 '
-job-title: Analyst, Sustainable Business Group
+job-title: Lead Analyst, Sustainable Business Group
 image: https://assetify-dai.com/experts/clare.jpg
 solutions:
 - Sustainable Business
