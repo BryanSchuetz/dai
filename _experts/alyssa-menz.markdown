@@ -4,7 +4,7 @@ date: 2017-03-30 18:05:00 Z
 lastname: Menz
 summary: 'Alyssa Menz provides technical support on business development, market intelligence,
   and communications strategies for private-sector oil, gas, mining, and energy clients. '
-job-title: Analyst
+job-title: Analyst, Sustainable Business Group
 image: "/uploads/Alyssa%20Menz.jpg"
 solutions:
 - Sustainable Business
