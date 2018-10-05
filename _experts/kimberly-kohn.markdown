@@ -5,7 +5,7 @@ lastname: Kohn
 summary: Kimberly Kohn provides development support to DAI’s economic tool, supports
   new business efforts, and delivers technical projects to clients in the mining and
   oil and gas sectors.
-job-title: Associate Analyst
+job-title: Analyst, Sustainable Business Group
 image: "/uploads/Kimberly%20Kohn%20portal.jpg"
 solutions:
 - Sustainable Business
