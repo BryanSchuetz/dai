@@ -5,7 +5,7 @@ lastname: Aguila
 summary: Christina Aguila focuses on corporate social investment projects for DAI’s
   Sustainable Business Group and provides project management, business development,
   and technical support for market and supplier analysis.
-job-title: Associate Analyst
+job-title: Analyst, Sustainable Business Group
 image: "/uploads/caguila_photo_web.jpg"
 solutions:
 - Sustainable Business
