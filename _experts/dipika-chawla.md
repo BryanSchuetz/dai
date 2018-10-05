@@ -1,24 +1,24 @@
 ---
 title: Dipika Chawla
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Chawla
-regions:
-- Sub-Saharan Africa
-solutions:
-- Sustainable Business
-- Social Strategy
-layout: expert
-image: https://assetify-dai.com/experts/dipika.jpg
 summary: 'As part of the Sustainable Business Group, Dipika Chawla leads the communications
   strategy, designs technical service offerings, performs market intelligence on extractive
   industries in developing countries, and conducts new business efforts.
 
 '
-job-title: Senior Analyst, Sustainable Business Group
+job-title: Principal Specialist, Corporate Social Investment
+image: https://assetify-dai.com/experts/dipika.jpg
+solutions:
+- Sustainable Business
+- Social Strategy
+regions:
+- Sub-Saharan Africa
 articles:
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”
     _DAIdeas_"
   article_file: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making/?utm_source=daidotcom
+layout: expert
 ---
 
 As part of the Sustainable Business Group, Dipika Chawla leads the communications strategy, designs technical service offerings, performs market intelligence on extractive industries in developing countries, and conducts new business efforts. She specializes in optimizing local content strategies and maximizing ROI of corporate social investment programs for private sector clients.
