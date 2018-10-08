@@ -5,7 +5,7 @@ lastname: Browning
 summary: Neil Browning supports the development of SBG’s economic modeling tools and
   conducts local content, supply chain, and market analysis for international business
   projects.
-job-title: Analyst, Sustainable Business Group
+job-title: Analyst
 image: "/uploads/Neil_web.jpg"
 solutions:
 - Sustainable Business
