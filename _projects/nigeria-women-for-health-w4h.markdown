@@ -24,7 +24,7 @@ It is expected that the increased numbers of female health workers will lead to 
 
 W4H works closely with other existing health and education programs in the states to use a “building back better” approach in the conflict- and humanitarian emergency-affected areas in Borno and Yobe states, and ensure sustainability of the progress achieved over the last five years in Jigawa, Kano, Katsina, and Zamfara.
 
-A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group. The programme is led by DAI Global Health (incorporating  Health Partners International and GRID), in partnership with Save the Children.
+A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group. The programme is led by DAI Global Health (incorporating  Health Partners International and GRID), in partnership with Save the Children. W4H works closely with 22 midwifery, nursing, and community health extension worker training institutions and state ministries of health to support the training of female health workers and their deployment to rural health facilities. 
 
 ![women4health.jpg](/uploads/women4health.jpg)
 
@@ -43,6 +43,7 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 * Increased by more than 6,000 the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation. [Watch these videos ](https://www.youtube.com/watch?v=L5C4HPhIrc8&list=PLNh1_9YTHaV3d3oB3ZR7luGxPW6R6A_NG&index=1)to learn more. 
 * Strengthened management systems and structures of 20 training institutions to provide an appropriate environment for high-quality professional training.
 * Improved female-friendliness of health training institutions by increasing gender sensitivity of staff, constructing female-friendly accommodation, improving security, providing counseling, child care facilities, and increasing the proportion of female tutors and managers.
-* Helped nine schools receive full accreditation and 11 to achieve provisional accreditation.
+* Helped 14 schools receive full accreditation and 11 to achieve provisional accreditation.
 * Constructed 35 houses to accommodate midwives.
-* Helped elevate women to the role of principal at seven of 20 institutions. 
+* Helped elevate women to the role of principal at seven of 20 institutions.
+* Trained 1,074 midwives who are now working in rural areas—a 62 percent increase compared to the start of the program in 2012.  
