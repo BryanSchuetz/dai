@@ -18,8 +18,8 @@ promos:
 - title: 'GUIDELINES: Seeking Expressions of Interest (EOIs) for gender-focused countering
     violent extremism (CVE) grants'
   link: "/uploads/NIWETU%20-%20Gender%20EOI%20Guidelines%20READ%20THIS%20FIRST.pdf"
-- title: 
-  link: 
+- title: Gender EOI Budget Template
+  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Budget%20Template%20FINAL.xls"
 layout: project
 ---
 
