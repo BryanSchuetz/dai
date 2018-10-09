@@ -20,6 +20,8 @@ promos:
   link: "/uploads/NIWETU%20-%20Gender%20EOI%20Guidelines%20READ%20THIS%20FIRST.pdf"
 - title: Gender EOI Budget Template
   link: "/uploads/NIWETU%20-%20Gender%20EOI%20Budget%20Template%20FINAL.xls"
+- title: Gender EOI Technical Template
+  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Technical%20Template.docx"
 layout: project
 ---
 
