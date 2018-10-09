@@ -15,8 +15,11 @@ regions:
 country:
 - Kenya
 promos:
-- title: Seeking Expressions of Interest (EOIs) for gender-focused countering violent
-    extremism (CVE) grants
+- title: 'GUIDELINES: Seeking Expressions of Interest (EOIs) for gender-focused countering
+    violent extremism (CVE) grants'
+  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Guidelines%20READ%20THIS%20FIRST.pdf"
+- title: 
+  link: 
 layout: project
 ---
 
@@ -34,4 +37,3 @@ In response, the Kenya NiWajibu Wetu (NIWETU) activity was launched by the U.S. 
 * Help local community organizations to detect early signs of radicalization and address them before they escalate to recruitment.
 * Support government officials at the national and local level with P/CVE capacity building.
 * Partner with national government stakeholders, such as the National Counter-Terrorism Centre and the Directorate for Peacebuilding and Conflict Management, to build better relationships and trust between communities and the government.
-
