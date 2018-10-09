@@ -21,7 +21,7 @@ redirect_from: "/global-health"
 layout: solution
 ---
 
-**Innovating global health solutions to save lives.**
+**Innovating global health solutions to save lives.** 
 
 Our global health team and its regional and local partners have the technical skills and local knowledge to deliver comprehensive health solutions while responding to issues ranging from emerging pandemic threats to HIV/AIDS to waterborne diseases. Our approach leverages nonhealth resources in DAI’s environment, economic growth, governance, and post-conflict stabilization sectors to save lives and achieve health improvements all over the world. In June 2017, DAI joined forces with [Health Partners International (HPI)](http://healthpartners-int.co.uk), adding a wealth of expertise in health systems strengthening. HPI, which has delivered more than 200 health projects in 40 countries over the past two decades, offers particular strengths in immunization, nutrition, malaria and other communicable diseases, sexual and reproductive health, family planning, and maternal, newborn, and child health.
 
