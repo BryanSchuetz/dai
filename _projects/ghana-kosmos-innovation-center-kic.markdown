@@ -22,6 +22,8 @@ promos:
   link: https://dai-global-digital.com/ghana-agritech-exchange.html?utm_source=daidotcom
 - title: 'ICT in the Agricultural Sector: Business Concepts from Ghanaian Youth'
   link: https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html?utm_source=daidotcom
+- title: Kosmos Innovation Center Wins Prestigious 2018 P3Impact Award
+  link: https://www.dai.com/news/kosmos-innovation-center-wins-prestigious-2018-p3-impact-award
 End: 
 ---
 
