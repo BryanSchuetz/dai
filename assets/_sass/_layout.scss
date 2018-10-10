@@ -525,6 +525,17 @@ aside{
 }
 // 🎌 FORMS 🎌
 
+.campaign-monitor .topic-checks{
+  display: block;
+  float: left;
+  width: 30px;
+  position: relative;
+  top: 2px;
+  @include responsive(medium-screens){
+    top: 5px;
+  }
+  clear: left;
+}
 .campaign-monitor, .formkeep{
   input{
     width: 100%;

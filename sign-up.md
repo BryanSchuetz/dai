@@ -18,7 +18,32 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 			<input id="name" name="cm-name" size="25" type="text" /></div>
 		<div>
 			<label for="sikkud-sikkud">Email Address:</label><br />
-			<input id="sikkud-sikkud" name="cm-sikkud-sikkud" size="25" type="text" /></div>
+			<input id="sikkud-sikkud" name="cm-sikkud-sikkud" size="25" type="text" />
+			<p>
+				<label><strong>Topics</strong></label>
+				<br />
+				<div>
+					<p><input class="topic-checks" id="fielddjnwuu-0" name="cm-fo-djnwuu" type="checkbox" value="12358953"
+						/>
+						<label for="fielddjnwuu-0">DAI Global Health</label></p>
+				</div>
+				<div>
+					<p><input class="topic-checks" id="fielddjnwuu-1" name="cm-fo-djnwuu" type="checkbox" value="12359018"
+						/>
+						<label for="fielddjnwuu-1">Center for Digital Acceleration</label></p>
+				</div>
+				<div>
+					<p><input class="topic-checks" id="fielddjnwuu-2" name="cm-fo-djnwuu" type="checkbox" value="12359019"
+						/>
+						<label for="fielddjnwuu-2">Center for Secure and Stable States</label></p>
+				</div>
+				<div>
+					<p><input class="topic-checks" id="fielddjnwuu-3" name="cm-fo-djnwuu" type="checkbox" value="12359020"
+						/>
+						<label for="fielddjnwuu-3">Sustainable Business Group</label></p>
+				</div>
+			</p>
+		</div>
 		<div>
 			&nbsp;</div>
 		<div>
