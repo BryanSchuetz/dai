@@ -6,11 +6,14 @@ solutions:
 projects: Worldwide—Preparedness and Response (P&R)
 summary: 'Two DAI Global Health experts will present next week at the 4th Annual Pandemic
   Policy Summit, at the Annenberg Presidential Conference Center at Texas A&M University. '
+social-image: "/uploads/liberia_ebola-c6c555.jpg"
 ---
 
 Two [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) experts will present next week at the [4th Annual Pandemic Policy Summit](http://bush.tamu.edu/2018-pandemic/), at the Annenberg Presidential Conference Center at Texas A&M University. The summit is focused on the importance of One Health—the nexus of human, animal, and environmental sciences—100 years on from the 1918 influenza outbreak that swept the globe, with the theme, “Looking back to look forward: Are we prepared for the next pandemic?”
 
 The summit, organized by the [Snowcroft Institute of International Affairs](http://bush.tamu.edu/scowcroft/), is held to engage government officials, donors, the private sector, academic and research organizations, implementing partners and bilateral and multilateral leaders in simulation and discussion to prompt decision-making and inspire leadership in approaches to global health security and management and response to the emergence of pandemic diseases.
+
+![liberia_ebola.jpg](/uploads/liberia_ebola.jpg)  In Liberia, a health care worker screens patients at a clinic. In West Africa, the devastating 2014 Ebola Virus Disease outbreak highlighted the urgent need for many countries to strengthen prevention, detection, and response to pandemic threats. The USAID-funded Preparedness & Response project works with 15 countries to update the systems, policies, and practices – including the preparedness and response plans that can outline better screening procedures – that contribute to improved global health security.
 
 DAI’s [Susan Scribner](https://www.dai.com/who-we-are/our-team/susan-scribner), Director of the U.S. Agency for International Development’s global [Preparedness & Response (P&R)](https://www.dai.com/our-work/projects/worldwide-preparedness-and-response-pr) project, will present a keynote speech on October 15, during a Chatham House-style session titled, “Building more effective mechanisms for multisector collaboration/coordination,” and will also be on a One Health panel with [Jay Maddock](https://sph.tamhsc.edu/dean/biography.html), Dean of Public Health at Texas A&M University; [Christine Kreuder Johnson](https://www2.vetmed.ucdavis.edu/faculty2/results.cfm?fid=17867) of the University of California at Davis; [Kristian G. Andersen](https://www.scripps.edu/faculty/andersen/) of the Scripps Research Institute; and Dr. [Lei Zhou](https://www.linkedin.com/in/zhou-lei-a00ab2a5/) from the Chinese Center For Disease Control And Prevention.
 
