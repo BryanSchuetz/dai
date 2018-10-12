@@ -23,6 +23,14 @@
   </title>
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css?v=17">
+
+{%- comment -%} Add in bullshit framework stylesheets for this awfull careers area  {%- endcomment -%}
+  {% if page.careers == true %}
+    <link rel="stylesheet" href="/careers/assets/build/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.2.0/lity.min.css">
+    <link rel="stylesheet" href="/careers/assets/build/css/main.min.css">
+  {% endif %}
+
   <!-- Icons -->
   <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.png">
   <!-- Javascript -->
