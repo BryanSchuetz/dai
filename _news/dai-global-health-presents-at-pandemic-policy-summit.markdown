@@ -1,7 +1,6 @@
 ---
 title: DAI Global Health Presents at Pandemic Policy Summit
 date: 2018-10-12 15:44:00 Z
-published: false
 solutions:
 - Global Health
 projects: Worldwide—Preparedness and Response (P&R)
