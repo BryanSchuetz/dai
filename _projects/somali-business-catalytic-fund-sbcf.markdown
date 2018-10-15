@@ -5,7 +5,7 @@ summary: 'To help address barriers and boost economic growth, the World Bank has
   the [Somali Business Catalytic Fund (SBCF)](http://www.somalibcf.com/) to invest
   in the establishment and expansion of profitable small and medium enterprises. '
 start: 2016
-end: 2018
+end: 2019
 client: World Bank
 solutions:
 - Innovation and Entrepreneurship
