@@ -1,7 +1,6 @@
 ---
 title: DAI and EPHI to Collaborate on Health Data Management Center in Ethiopia
 date: 2018-10-16 12:21:00 Z
-published: false
 solutions:
 - Global Health
 regions: Sub-Saharan Africa
