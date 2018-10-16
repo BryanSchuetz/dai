@@ -13,7 +13,7 @@ social-image: "/uploads/chris-2f3703.jpg"
 
 DAI Global Health and the Ethiopian Public Health Institute (EPHI) have signed a memorandum of understanding under which the parties will collaborate to establish a secure, reliable, and technologically advanced National Data Management Center for Health.
 
-The EPHI is an autonomous federal government office accountable to Ethiopia’s Federal Minister of Health. The MoU was signed in Addis Ababa on October 12 by EPHI Deputy Director General Dr. Tsigereda Kifle and DAI Global Health President [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand).
+The EPHI is an autonomous federal government office accountable to Ethiopia’s Federal Minister of Health. The MoU was signed in Addis Ababa on October 12 by EPHI Deputy Director General Dr. Tsigereda Kifle (pictured below at left) and DAI Global Health President [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand).
 “We are honored to partner with EPHI on this important project,” said LeGrand. “Both parties recognize that good data, sound data management, and insightful data analytics are central to modern health systems and positive health outcomes. We have much to learn from EPHI and we’re looking forward to sharing what we have learned from our experience in this arena.” 
 
 ![chris.jpg](/uploads/chris.jpg)
