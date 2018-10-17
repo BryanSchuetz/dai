@@ -5,14 +5,14 @@ permalink: "/careers/working-at-dai"
 careers: true
 ---
 <section class="hero--home">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<h1 class="title line">Shaping a more <br class="hidden-sm">livable world.</h1>
-<p class="sub--title">DAI works on the frontlines of international development. Global in reach and outlook, our 3,000 employees are committed to delivering development results in more than 100 countries worldwide. Join us in shaping a more livable world.</p>
-</div>
-</div>
-</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+            <h1 class="title line">Shaping a more <br class="hidden-sm">livable world.</h1>
+            <p class="sub--title">DAI works on the frontlines of international development. Global in reach and outlook, our 3,000 employees are committed to delivering development results in more than 100 countries worldwide. Join us in shaping a more livable world.</p>
+            </div>
+        </div>
+    </div>
 <div class="visible-lg visible-md visible-sm visible-xs">
     {%- include _careers/searchbox.html -%}
 </div>
