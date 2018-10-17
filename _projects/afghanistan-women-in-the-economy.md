@@ -46,6 +46,6 @@ Consortium partners include Afghan firms Afghanistan Holding Group, Afghanistan 
 ### Select Results 
 * [Placed close to 7,000](http://dai-global-developments.com/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/) women in internships or apprenticeships, many within the health care industry. 
 * Placed 70 young women into [microfinance trainee](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) programs within six different microfinance institutions, located in three urban regional centers.
-* Awarded \ 1,300 women scholarships to train in areas such as finance and banking, information technology, and retail sales.
+* Awarded 1,300 women scholarships to train in areas such as finance and banking, information technology, and retail sales.
 * Provided 25,000 hours of job readiness training nationwide for 1,600 young women.
 * Facilitated 157 small loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000. 
