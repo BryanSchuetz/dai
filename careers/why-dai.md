@@ -22,44 +22,9 @@ At the vanguard of international development, DAI combines visionary thinking, t
 Advanced <br>Search <img class="icon" src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
 </button> 
 
-<div class="visible-lg visible-md">
-<div class="form" id="careerSearchForm">
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-12" id="app">
-<form action="search.html" method="GET">
-<div class="form-group">
-    <label for="keywords">Keywords</label>
-    <input type="text" name="keywords" id="keywords" v-model="searchKeyword" placeholder="Keywords" class="form-control">
-</div>
-<div class="form-group">
-    <label for="location">Location</label>
-    <select v-model="searchLocation" :title="getLocations" id="location" name="location" class="form-control">
-        <option value="" selected>Select a Location</option>
-        <option v-for="location in locations" :value="location"> {{ location }} </option>
-    </select>
-</div>
-<div class="form-group">
-    <label for="searchFunctionalArea">Functional Area</label>
-    <select v-model="searchFunctionalArea" :title="getFunctionalAreas" id="searchFunctionalArea" name="functional_area" class="form-control">
-        <option value="" selected>Select a Functional Area</option>
-        <option v-for="area in functionalAreas" :value="area"> {{ area }} </option>
-    </select>
-</div> 
-<div class="form-group">
-    <button type="submit" class="btn btn-success btn-block">
-        Start Your Search <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-    </button>
-</div>
-</form>
-</div>
-</div>
-</div>
-<button id="close-form" class="close">
-<div class="sr-only">Close</div>
-&times;
-</button>
-</div>    </div>
+    <div class="visible-lg visible-md">
+        {%- include _careers/searchbox.html -%}
+    </div>
 
 </section><section class="split-three">
 <div class="container ">

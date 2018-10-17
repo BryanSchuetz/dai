@@ -1,7 +1,7 @@
 ---
 title: Working at DAI
 layout: default
-permalink: "/careers/"
+permalink: "/careers/working-at-dai"
 careers: true
 ---
 <section class="hero--home">
@@ -13,45 +13,9 @@ careers: true
 </div>
 </div>
 </div>
-
 <div class="visible-lg visible-md visible-sm visible-xs">
-<div class="form" id="careerSearchForm">
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-12" id="app">
-<form action="search.html" method="GET">
-<div class="form-group">
-<label for="keywords">Keywords</label>
-<input type="text" name="keywords" id="keywords" v-model="searchKeyword" placeholder="Keywords" class="form-control">
+    {%- include _careers/searchbox.html -%}
 </div>
-<div class="form-group">
-<label for="location">Location</label>
-<select v-model="searchLocation" :title="getLocations" id="location" name="location" class="form-control">
-<option value="" selected>Select a Location</option>
-<option v-for="location in locations" :value="location"> {{ location }} </option>
-</select>
-</div>
-<div class="form-group">
-<label for="searchFunctionalArea">Functional Area</label>
-<select v-model="searchFunctionalArea" :title="getFunctionalAreas" id="searchFunctionalArea" name="functional_area" class="form-control">
-<option value="" selected>Select a Functional Area</option>
-<option v-for="area in functionalAreas" :value="area"> {{ area }} </option>
-</select>
-</div> 
-<div class="form-group">
-<button type="submit" class="btn btn-success btn-block">
-Start Your Search <img src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-</button>
-</div>
-</form>
-</div>
-</div>
-</div>
-<button id="close-form" class="close">
-<div class="sr-only">Close</div>
-&times;
-</button>
-</div>    </div>
 
 <video autoplay="autoplay" loop="loop" id="bgvid" class="hidden-sm hidden-xs" muted>
 <source src="https://s3.amazonaws.com/dai-assets/videos/hero/home.mp4" type="video/mp4" /> 
