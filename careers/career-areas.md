@@ -1,7 +1,7 @@
 ---
 title: Career Areas
 layout: default
-permalink: "/careers/new-career-areas"
+permalink: "/careers/career-areas"
 careers: true
 ---
   <section class="hero career-areas">

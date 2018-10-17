@@ -1,7 +1,7 @@
 ---
 title: Working at DAI
 layout: default
-permalink: "/careers/new-index"
+permalink: "/careers/"
 careers: true
 ---
 <section class="hero--home">

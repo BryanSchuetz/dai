@@ -1,7 +1,7 @@
 ---
 title: Why DAI
 layout: default
-permalink: "/careers/new-why-dai"
+permalink: "/careers/why-dai"
 careers: true
 ---
 <section class="hero why-dai">

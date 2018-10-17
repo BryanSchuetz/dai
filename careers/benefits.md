@@ -1,7 +1,7 @@
 ---
 title: Benefits
 layout: default
-permalink: "/careers/new-benefits"
+permalink: "/careers/benefits"
 careers: true
 ---
 <section class="hero benefits">

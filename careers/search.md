@@ -1,7 +1,7 @@
 ---
 title: Search
 layout: default
-permalink: "/careers/new-search"
+permalink: "/careers/search"
 careers: true
 ---
 <section class="hero--search">
@@ -65,12 +65,23 @@ careers: true
     </div>
   </div>
 <div class="col-md-12">
-<nav aria-label="Page navigation" v-if="!searchKeyword && !searchLocation && !searchFunctionalArea">
-<ul class="pagination"><li v-if="pagination.page !== 1"><a href="javascript:void(0);" aria-label="Previous" @click="goToPage(pagination.page - 1)"><span aria-hidden="true">&laquo;</span></a></li><li v-for="index in pagination.totalPages" @click="goToPage(index)" :title="index" :class="{'active': pagination.page == index }"><a href="javascript:void(0);"> {{ index }} </a></li>
-<li v-if="pagination.page < pagination.totalPages">
-<a href="javascript:void(0);" aria-label="Next" @click="goToPage(pagination.page + 1)"><span aria-hidden="true">&raquo;</span></a></li>
-</ul>
-</nav>
+  <nav aria-label="Page navigation" v-if="!searchKeyword && !searchLocation && !searchFunctionalArea">
+    <ul class="pagination">
+      <li v-if="pagination.page !== 1">
+        <a href="javascript:void(0);" aria-label="Previous" {%raw%}v-on:click="goToPage(pagination.page - 1)"{%endraw%}>
+        <span aria-hidden="true">&laquo;</span>
+        </a>
+      </li>
+      <li v-for="index in pagination.totalPages" v-on:click="goToPage(index)" :title="index" :class="{'active': pagination.page == index }">
+        <a href="javascript:void(0);"> {%raw%}{{ index }}{%endraw%} </a>
+      </li>
+      <li v-if="pagination.page < pagination.totalPages">
+        <a href="javascript:void(0);" aria-label="Next" v-on:click="goToPage(pagination.page + 1)">
+        <span aria-hidden="true">&raquo;</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
 </div>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: DAI People
 layout: default
-permalink: "/careers/new-dai-people"
+permalink: "/careers/dai-people"
 careers: true
 ---
 <section class="hero dai-people">
