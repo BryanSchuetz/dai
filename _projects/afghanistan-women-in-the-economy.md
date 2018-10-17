@@ -36,7 +36,7 @@ Consortium partners include Afghan firms Afghanistan Holding Group, Afghanistan 
 ![project image](/assets/images/our-work/awle.jpg)
 
 ### Sample Activities
-* Strengthen career counselling and job placement services.
+* Strengthen career counseling and job placement services.
 * Facilitate access to market-oriented education, skills training, and work experience for women.
 * Assist businesses that employ women to access market information, finance, and form commercial relationships.
 * Support increased women’s opportunities for leadership career paths.
@@ -44,9 +44,7 @@ Consortium partners include Afghan firms Afghanistan Holding Group, Afghanistan 
 * Mentor program beneficiaries through job readiness preparation, through internships or apprenticeships, on to eventual full-time job placement
 
 ### Select Results 
-* Placed close to 4,000 interns in more than 400 companies in 30 Afghan provinces.
-* 556 of these interns with a medical background are placed within 138 hospitals and clinics.
-* 1,023 of these interns are placed within 164 schools and 32 universities throughout the country.
+* [Placed close to 7,000](http://dai-global-developments.com/articles/afghan-women-re-enter-the-economy-as-workers-business-owners/) women in internships or apprenticeships, many within the health care industry. 
 * Placed 70 young women into [microfinance trainee](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) programs within six different microfinance institutions, located in three urban regional centers.
 * Provided 25,000 hours of job readiness training nationwide for 1,600 young women.
 * Facilitated nine small business loans to women-owned companies totaling more than US$20,000.
