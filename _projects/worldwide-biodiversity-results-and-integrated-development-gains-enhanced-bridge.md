@@ -37,6 +37,6 @@ Integrating biodiversity conservation in development initiatives such as climate
 * Developed series of evidence summaries and case studies highlighting the use of [ecosystem-based adaptation](https://rmportal.net/biodiversityconservation-gateway/conservation-development/global-climate-change/what-is-ecosystem-based-adaptation) to address climate vulnerability.
 * Produced evidence briefer on the contributions of wild fisheries to food security, nutrition, and economic growth in Africa.
 * Generated case studies on institutional enabling conditions for integration in Mozambique and Honduras.
-* Produced groundbreaking research on the intersections of forest cover conservation and human health with the Gund Institute, published in Science Advances.
+* Produced g[roundbreaking research](http://advances.sciencemag.org/content/4/8/eaat2853) on the intersections of forest cover conservation and human health with the Gund Institute, published in Science Advances.
 
 [1]: https://assetify-dai.com/projects/BRIDGE%20New.jpg
