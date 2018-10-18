@@ -17,7 +17,7 @@ The summit was convened by International Development Secretary Penny Mordaunt fo
 
 Dr. Adamu (pictured) appeared on a panel discussing “Survivor support: what does a survivor-centred approach look like?” She drew on her experience leading W4H, a U.K. Department for International Development programme managed by [DAI Global Health](https://www.dai.com/our-work/solutions/global-health). W4H works to increase the number of female health workers and deploy them in rural areas to reduce maternal and child mortality in Northern Nigeria. The first phase of the programme was implemented in five states; in March 2018, it was expanded to address the deepening humanitarian crisis in Borno state.
 
-[safeguarding.JPG](/uploads/safeguarding.JPG)
+![safeguarding.JPG](/uploads/safeguarding.JPG)
 
 In her remarks, Adamu noted that the sexual abuse and exploitation of women and girls by Boko Haram insurgents and military, security, and camp personnel in Nigeria is well documented. “The situation is made worse by the transactional nature of these abuses and exploitation where women were not only raped but also forced to sell their body for food and other essential commodities,” she said. 
 
