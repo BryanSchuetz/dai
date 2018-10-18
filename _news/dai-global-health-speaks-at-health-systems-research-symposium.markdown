@@ -1,7 +1,6 @@
 ---
 title: DAI Global Health Speaks at Health Systems Research Symposium
 date: 2018-10-18 16:51:00 Z
-published: false
 solutions:
 - Global Health
 summary: Last week, several members of the DAI Global Health team were panelists,
