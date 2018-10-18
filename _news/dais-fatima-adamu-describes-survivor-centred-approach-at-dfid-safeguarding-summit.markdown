@@ -2,7 +2,6 @@
 title: DAI’s Fatima Adamu Describes Survivor-Centred Approach at DFID Safeguarding
   Summit
 date: 2018-10-18 15:36:00 Z
-published: false
 regions: Worldwide
 projects: Nigeria—Women for Health (W4H)
 clients: U.K. Department for International Development
