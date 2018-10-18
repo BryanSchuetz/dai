@@ -1,11 +1,10 @@
 ---
 title: Worldwide—Biodiversity Results and Integrated Development Gains Enhanced (BRIDGE)
 date: 2016-01-21 22:40:00 Z
-summary: 'Integrating biodiversity conservation in development initiatives such as
-  climate change adaptation and mitigation, democracy and governance, inclusive economic
-  growth, food security, health, and trade, can create significant benefits for beneficiaries.
-
-'
+summary: The BRIDGE team is Integrating biodiversity conservation in development initiatives
+  such as climate change adaptation and mitigation, democracy and governance, inclusive
+  economic growth, food security, health, and trade, can create significant benefits
+  for beneficiaries.
 start: 2015
 end: 2020
 client: U.S. Agency for International Development
@@ -23,7 +22,7 @@ Integrating biodiversity conservation in development initiatives such as climate
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Facilitate cross-sectoral planning.
 * Identify, assess, and apply effective tools, systems, and processes for cross-sectoral integration.
@@ -31,5 +30,13 @@ Integrating biodiversity conservation in development initiatives such as climate
 * Improve the evidence base for biodiversity and development integration.
 * Package knowledge to align with demonstrated needs.
 * Collaborate with other partners, donors, nongovernmental organizations, and the private sector to improve outcomes through strategic partnerships and knowledge sharing.
+
+### Select Results
+
+* Updated and revised Foreign Assistance Act sections 118/119 Tropical Forest and Biodiversity Analysis Best Practices Guide.
+* Developed series of evidence summaries and case studies highlighting the use of [ecosystem-based adaptation](https://rmportal.net/biodiversityconservation-gateway/conservation-development/global-climate-change/what-is-ecosystem-based-adaptation) to address climate vulnerability.
+* Produced evidence briefer on the contributions of wild fisheries to food security, nutrition, and economic growth in Africa.
+* Generated case studies on institutional enabling conditions for integration in Mozambique and Honduras.
+* Produced groundbreaking research on the intersections of forest cover conservation and human health with the Gund Institute, published in Science Advances.
 
 [1]: https://assetify-dai.com/projects/BRIDGE%20New.jpg
