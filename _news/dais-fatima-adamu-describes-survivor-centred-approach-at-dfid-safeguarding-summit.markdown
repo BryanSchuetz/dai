@@ -6,13 +6,19 @@ published: false
 regions: Worldwide
 projects: Nigeria—Women for Health (W4H)
 clients: U.K. Department for International Development
+summary: 'DAI Global Health’s Dr. Fatima Adamu, National Programme Manager for the
+  Women for Health (W4H) programme in Nigeria, spoke today at the U.K. Department
+  for International Development (DFID) Safeguarding Summit at the QEII Centre in London. '
+social-image: "/uploads/safeguarding-c0d328.JPG"
 ---
 
-DAI Global Health’s [Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), National Programme Manager for the [Women for Health (W4H) programme](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h) in Nigeria, spoke today at the U.K. Department for International Development (DFID) [Safeguarding Summit](https://www.gov.uk/government/news/safeguarding-summit-statements-by-the-international-development-secretary-and-dfids-permanent-secretary) at the QEII Centre in London. 
+DAI Global Health’s Dr. [Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), National Programme Manager for the [Women for Health (W4H) programme](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h) in Nigeria, spoke today at the U.K. Department for International Development (DFID) [Safeguarding Summit](https://www.gov.uk/government/news/safeguarding-summit-statements-by-the-international-development-secretary-and-dfids-permanent-secretary) at the QEII Centre in London. 
 
-The summit was convened by International Development Secretary Penny Mordaunt following  the U.K. International Development Committee’s July report, Sexual exploitation and abuse in the aid sector. The theme of the summit is “Putting people first: Tackling sexual exploitation, abuse and sexual harassment in the aid sector.” Its goal is to agree on actions and guidelines to ensure that everyone engaged in the aid and development sectors takes all responsible steps to prevent sexual exploitation, abuse, and harassment and to respond appropriately when it does occur.
+The summit was convened by International Development Secretary Penny Mordaunt following  the U.K. International Development Committee’s July report, *[Sexual exploitation and abuse in the aid sector](https://publications.parliament.uk/pa/cm201719/cmselect/cmintdev/840/840.pdf)*. The theme of the summit is “Putting people first: Tackling sexual exploitation, abuse and sexual harassment in the aid sector.” Its goal is to agree on actions and guidelines to ensure that everyone engaged in the aid and development sectors takes all responsible steps to prevent sexual exploitation, abuse, and harassment and to respond appropriately when it does occur.
 
-Dr. Adamu appeared on a panel discussing “Survivor support: what does a survivor-centred approach look like?” She drew on her experience leading W4H, a U.K. Department for International Development programme managed by DAI Global Health. W4H works to increase the number of female health workers and deploy them in rural areas to reduce maternal and child mortality in Northern Nigeria. The first phase of the programme was implemented in five states; in March 2018, it was expanded to address the deepening humanitarian crisis in Borno state.
+Dr. Adamu (pictured) appeared on a panel discussing “Survivor support: what does a survivor-centred approach look like?” She drew on her experience leading W4H, a U.K. Department for International Development programme managed by [DAI Global Health](https://www.dai.com/our-work/solutions/global-health). W4H works to increase the number of female health workers and deploy them in rural areas to reduce maternal and child mortality in Northern Nigeria. The first phase of the programme was implemented in five states; in March 2018, it was expanded to address the deepening humanitarian crisis in Borno state.
+
+[safeguarding.JPG](/uploads/safeguarding.JPG)
 
 In her remarks, Adamu noted that the sexual abuse and exploitation of women and girls by Boko Haram insurgents and military, security, and camp personnel in Nigeria is well documented. “The situation is made worse by the transactional nature of these abuses and exploitation where women were not only raped but also forced to sell their body for food and other essential commodities,” she said. 
 
