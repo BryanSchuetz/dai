@@ -1,6 +1,6 @@
 ---
 title: DAI Global Health Presents at Pandemic Policy Summit
-date: 2018-10-12 15:44:00 Z
+date: 2018-10-18 12:00:00 Z
 solutions:
 - Global Health
 projects: Worldwide—Preparedness and Response (P&R)
@@ -9,7 +9,7 @@ summary: 'Two DAI Global Health experts will present next week at the 4th Annual
 social-image: "/uploads/liberia_ebola-c6c555.jpg"
 ---
 
-Two [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) experts will present next week at the [4th Annual Pandemic Policy Summit](http://bush.tamu.edu/2018-pandemic/), at the Annenberg Presidential Conference Center at Texas A&M University. The summit is focused on the importance of One Health—the nexus of human, animal, and environmental sciences—100 years on from the 1918 influenza outbreak that swept the globe, with the theme, “Looking back to look forward: Are we prepared for the next pandemic?”
+Two [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) experts presented this week at the [4th Annual Pandemic Policy Summit](http://bush.tamu.edu/2018-pandemic/), at the Annenberg Presidential Conference Center at Texas A&M University. The summit is focused on the importance of One Health—the nexus of human, animal, and environmental sciences—100 years on from the 1918 influenza outbreak that swept the globe, with the theme, “Looking back to look forward: Are we prepared for the next pandemic?”
 
 The summit, organized by the [Scowcroft Institute of International Affairs](http://bush.tamu.edu/scowcroft/), is held to engage government officials, donors, the private sector, academic and research organizations, implementing partners and bilateral and multilateral leaders in simulation and discussion to prompt decision-making and inspire leadership in approaches to global health security and management and response to the emergence of pandemic diseases.
 
