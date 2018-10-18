@@ -2,9 +2,11 @@
 title: DAI Global Health Speaks at Health Systems Research Symposium
 date: 2018-10-18 16:51:00 Z
 published: false
+solutions:
+- Global Health
 ---
 
-Last week, several members of the DAI Global Health team were panelists, hosted skills-building sessions, presented posters and held a co-hosted a reception with affiliate [IntraHealth International](https://www.intrahealth.org/) at the 5th Global Symposium on Health Systems Research in Liverpool, United Kingdom. 
+Last week, several members of the DAI Global Health team were panelists, hosted skills-building sessions, presented posters and held a co-hosted a reception with affiliate [IntraHealth International](https://www.intrahealth.org/) at the [5th Global Symposium](http://healthsystemsresearch.org/hsr2018/) on Health Systems Research in Liverpool, United Kingdom. 
 
 Organised biennially by Health Systems Global, the conference celebrates a global community of researchers, policy-makers and practitioners dedicated to strengthening health systems. Co-sponsored by U.K. Department for International Development (DFID), the Bill and Melinda Gates Foundation, the World Health Organisation (WHO), and the Liverpool School of Tropical Medicine amongst others, this year’s theme was ‘Advancing health systems for all in the era of the Sustainable Development Goals’ with an emphasis on multi-sectoral action and engaging the private sector in moving towards universal health coverage, while leaving no one behind and recognizing the role community health systems.
 This year is significant in that it marks the 40th anniversary of the Alma Ata declaration of ‘Health for All’ in 1978 and the 70th anniversary of the UK’s National Health System. The world has changed since these visions for universal health coverage were launched. Despite improvements global health outcomes since the implementation of the SDGs, there remain extraordinary challenges in achieving the health equity and social inclusion necessary to achieve universal health care, such as demographic and disease transitions, conflicts and the mass migration of people, pluralistic health systems and markets, and climate change.
