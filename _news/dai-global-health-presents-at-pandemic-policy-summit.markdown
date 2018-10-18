@@ -4,8 +4,8 @@ date: 2018-10-18 12:00:00 Z
 solutions:
 - Global Health
 projects: Worldwide—Preparedness and Response (P&R)
-summary: 'Two DAI Global Health experts will present next week at the 4th Annual Pandemic
-  Policy Summit, at the Annenberg Presidential Conference Center at Texas A&M University. '
+summary: 'Two DAI Global Health experts presented at the 4th Annual Pandemic Policy
+  Summit, at the Annenberg Presidential Conference Center at Texas A&M University. '
 social-image: "/uploads/liberia_ebola-c6c555.jpg"
 ---
 
