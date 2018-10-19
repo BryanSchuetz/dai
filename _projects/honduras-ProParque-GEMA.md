@@ -27,7 +27,7 @@ To help the Honduran government [confront these pressing issues](http://dai-glob
 
 To build upon these accomplishments, USAID has designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua, or Governance in Ecosystems, Livelihoods, and Water (GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA is working in western Honduras to further improve natural conservation policies; develop opportunities for inclusive, environmentally sustainable economic growth; and promote a more climate-informed and resilient civil society in Honduras.
 
-![GEMA_photo.jpg](/uploads/GEMA_photo.jpg)
+<iframe src="https://player.vimeo.com/video/296073378" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
