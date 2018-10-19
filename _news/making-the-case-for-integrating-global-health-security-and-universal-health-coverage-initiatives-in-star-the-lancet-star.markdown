@@ -1,6 +1,6 @@
 ---
 title: Making the Case for Integrating Global Health Security and Universal Health
-  Coverage Initiatives—in *The Lancet*
+  Coverage Initiatives—in The Lancet
 date: 2018-10-19 12:33:00 Z
 solutions:
 - Global Health
