@@ -2,7 +2,6 @@
 title: Making the Case for Integrating Global Health Security and Universal Health
   Coverage Initiatives—in *The Lancet*
 date: 2018-10-19 12:33:00 Z
-published: false
 solutions:
 - Global Health
 regions: Worldwide
@@ -11,6 +10,7 @@ summary: 'Jerry Martin, DAI’s Senior Director for Global Health Security, co-a
   a *Lancet* article, “Building the Case for Embedding Global Health Security into
   Universal Health Coverage: A Proposal for a Unified Health System That Includes
   Public Health.” '
+social-image: "/uploads/P&R%203-18c4c8.jpg"
 ---
 
 Historically speaking—and perhaps surprisingly—the field of global health security has been distinct from the discipline of health system strengthening and the goal of universal health coverage. International assistance for global health security tends to focus on building country capacity to contain infectious diseases before they become national, cross-border, and global threats. This approach includes convening leaders in human and animal health, laboratory science, and emergency response who then create and execute plans to predict, prepare for, detect, and respond to disease outbreaks. 
