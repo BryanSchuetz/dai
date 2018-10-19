@@ -15,6 +15,10 @@ regions:
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
 - Sub-Saharan Africa
+articles:
+- name: '"Making the Case for Integrating Global Health Security and Universal Health
+    Coverage Initiatives," The Lancet'
+  article_file: https://www.dai.com/news/making-the-case-for-integrating-global-health-security-and-universal-health-coverage-initiatives-in-the-lancet
 layout: expert
 ---
 
