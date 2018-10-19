@@ -2,6 +2,8 @@
 title: DAI’s Fatima Adamu Describes Survivor-Centred Approach at DFID Safeguarding
   Summit
 date: 2018-10-18 15:36:00 Z
+solutions:
+- Global Health
 regions: Worldwide
 projects: Nigeria—Women for Health (W4H)
 clients: U.K. Department for International Development
@@ -29,4 +31,4 @@ Despite this evidence, limited support systems exist for survivors. W4H offers a
 
 Among the key components of this approach, W4H is putting in place robust safeguarding mechanisms to mitigate the high risk of sexual harassment, exploitation, and abuse. It is also integrating a whole-programme approach to gender equality and women’s empowerment: this includes supporting health training institutions in Borno to encourage a gender-equal culture and social norms, ensuring female tutors and female leadership come to the fore in these institutions, and upholding student voice and female participation in the student union.
 
-Adamu joined 500 delegates at the summit, alongside representatives of NGOs, multilateral organisations, private sector suppliers, donors, governments, beneficiaries, survivors, parliamentarians, independent experts, law enforcement agencies, and the media. Also attending from DAI were Christopher Lockett, Managing Director of DAI Europe; Sarah Maguire, Director, Governance, who testified at the International Development Committee’s original inquiry into sexual exploitation and abuse in the aid sector; and Jeremy Finch, Director, Internal Audit, Ethics, and Compliance.
+Adamu joined 500 delegates at the summit, alongside representatives of NGOs, multilateral organisations, private sector suppliers, donors, governments, beneficiaries, survivors, parliamentarians, independent experts, law enforcement agencies, and the media. Also attending from DAI were Christopher Lockett, Managing Director of DAI Europe; Sarah Maguire, Director, Governance, who testified at the International Development Committee’s original inquiry into sexual exploitation and abuse in the aid sector; and Jeremy Finch, Director, Internal Audit, Ethics, and Compliance. 
