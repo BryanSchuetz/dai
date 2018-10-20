@@ -1,39 +1,18 @@
 ---
 title: Why DAI
-layout: default
+layout: careers
 permalink: "/careers/why-dai"
 careers: true
+feature-title: Creating a better future for all. 
+feature-text: At the vanguard of international development, DAI combines visionary thinking, technical expertise and superior project management to help make the world a better place.
 ---
-<section class="hero why-dai">
-<div class="container">
-<div class="row">
-<div class="col-md-11">
-<h1 class="title line">
-Creating a better future for all. 
-</h1>
-<p class="sub--title"> 
-At the vanguard of international development, DAI combines visionary thinking, technical expertise and superior project management to help make the world a better place. 
-</p>
-</div>
-</div>
-</div>
-
-<button id="advancedSearchBtn" class="btn btn-success btn-search">
-Advanced <br>Search <img class="icon" src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-</button> 
-
-    <div class="visible-lg visible-md">
-        {%- include _careers/searchbox.html -%}
-    </div>
-
-</section><section class="split-three">
+<section class="split-three">
 <div class="container ">
 <div class="row">
-
-        <h1 class="title line"> Mission </h1>
-    
-        <div class="content">
-<p>DAI’s mission is to make a lasting difference in the world by helping people improve their lives. We envision a world in which communities and societies become more prosperous and fair, better governed, safer, healthier, and environmentally sustainable.</p>                </div>
+  <h1 class="title line"> Mission </h1>  
+  <div class="content">
+  <p>DAI’s mission is to make a lasting difference in the world by helping people improve their lives. We envision a world in which communities and societies become more prosperous and fair, better governed, safer, healthier, and environmentally sustainable.</p>                
+</div>
     
 
 <!-- Image & Video -->
