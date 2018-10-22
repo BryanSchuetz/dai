@@ -1,6 +1,6 @@
 ---
 title: Chantal Agarwal
-date: 2018-10-22 18:42:00 Z
+date: 2018-10-22 14:42:00 Z
 lastname: Agarwal
 summary: Chantal Agarwal is a Senior Governance Specialist, focused on strengthening
   crime and violence prevention, promoting accountability and oversight, increasing
