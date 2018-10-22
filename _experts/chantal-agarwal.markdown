@@ -1,5 +1,5 @@
 ---
-title: Chantal C. Agarwal
+title: Chantal Agarwal
 date: 2018-10-22 18:42:00 Z
 lastname: Agarwal
 summary: Chantal Agarwal is a Senior Governance Specialist, focused on strengthening
