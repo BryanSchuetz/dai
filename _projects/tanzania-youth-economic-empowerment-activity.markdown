@@ -11,6 +11,7 @@ solutions:
 - Economic Growth
 - Health and Livelihoods
 - Workforce Development and Youth
+- Education
 regions: Sub-Saharan Africa
 country: Tanzania
 ---

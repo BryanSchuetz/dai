@@ -12,6 +12,7 @@ solutions:
 - Finance and Investment
 - Governance
 - Innovation and Entrepreneurship
+- Education
 layout: project
 summary: We are supporting organizations and individuals who are working to demand
   accountability and promote innovation in Pakistan's education sector.

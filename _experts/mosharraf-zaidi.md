@@ -8,6 +8,7 @@ solutions:
 - Governance
 - Fragile States
 - Peace-Building and Political Transition
+- Education
 layout: expert
 image: https://assetify-dai.com/experts/Mosharraf-Inner.jpg
 summary: Mosharraf Zaidi is the Team Leader for the Transforming Education in Pakistan

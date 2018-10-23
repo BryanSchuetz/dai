@@ -12,6 +12,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
 - Voice and Accountability
+- Education
 regions:
 - Asia and the Pacific
 country:

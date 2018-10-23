@@ -13,6 +13,7 @@ solutions:
 - Insights for Emerging Markets
 - Human Centered Design
 - Digital Trainings
+- Education
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

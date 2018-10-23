@@ -12,7 +12,7 @@ solutions:
 - Fragile States
 - Governance
 - Security and Justice
-- 
+- Education
 regions: Latin America and the Caribbean
 country: Honduras
 ---

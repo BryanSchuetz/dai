@@ -84,7 +84,7 @@
 {% elsif page.hero and page.url contains "our-work" %}
   <div class="hero-wrap our-work">
     <div class="node-hero">
-        <h1 class="hero-title">{% if page.icon %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }} {% if page.url contains "digital-acceleration" %}Center for Digital Acceleration {% else %}{{ solution[0].title }}{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
+        <h1 class="hero-title">{% if page.icon and page.title != "Education" %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }}  {% if page.url contains "digital-acceleration" %}Center for Digital Acceleration {% else %}{{ solution[0].title }}{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
         <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}{%if page.title == 'Global Health'%} <br><span style="font-size: .8rem;"><a href="/sign-up">Subscribe</a> to our newsletter for periodic updates from DAI Global Health.</span> {% endif %}</p>
     </div>
   </div>

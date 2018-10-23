@@ -9,6 +9,7 @@ image: "/uploads/Angie%20Quintela%20Portal.jpg"
 solutions:
 - Governance
 - Gender and Social Inclusion
+- Education
 regions:
 - Sub-Saharan Africa
 - Middle East and North Africa

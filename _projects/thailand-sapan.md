@@ -13,6 +13,7 @@ solutions:
 - Countering Extremism
 - Peace-Building and Political Transition
 - Stabilization
+- Education
 regions:
 - Asia and the Pacific
 country:
