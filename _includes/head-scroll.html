@@ -13,15 +13,15 @@
       else if ($("header").height() < 66 ){
           offsetf = -80;
       }
-      console.log(offsetf);
+      {%- comment -%} console.log(offsetf); {%- endcomment -%}
       $('.header-nav--main a').smoothScroll({
         offset: offsetf
       });
     }
     var offsetf = -80;
-    console.log(offsetf);
+    {%- comment -%} console.log(offsetf); {%- endcomment -%}
     checkSize();
-    console.log(offsetf);
+    {%- comment -%} console.log(offsetf); {%- endcomment -%}
     $(window).resize(checkSize);
 //Smooth-scroll to the on-page section//
     $('.header-nav--main a').smoothScroll({
