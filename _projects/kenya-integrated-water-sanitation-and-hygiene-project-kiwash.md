@@ -25,7 +25,7 @@ As county governments take on responsibility for investment in and oversight of 
 
 <iframe src="https://player.vimeo.com/video/226759747" width="640" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### Select Activities
+### Sample Activities
 
 * Assist water service providers (WSPs) to improve service delivery and business operations.
 * Facilitate access to financing for WSPs and WASH enterprises.
