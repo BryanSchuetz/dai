@@ -1,31 +1,14 @@
 ---
 title: Career Areas
-layout: default
+layout: careers
 permalink: "/careers/career-areas"
 careers: true
+feature-title: Whatever your role at DAI, your work will make a difference
+feature-text: We invite you to explore our job opportunities
+hero-package: career-areas
 ---
-<section class="hero career-areas">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-11">
-        <h1 class="title line">
-            Whatever your role at DAI, your <br class="hidden-xs">work will make a difference. 
-        </h1>
-        <p class="sub--title"> 
-            We invite you to explore our job opportunities.   
-        </p>
-      </div>
-    </div>
-  </div>
-    <button id="advancedSearchBtn" class="btn btn-success btn-search">
-    Advanced <br>Search <img class="icon" src="/careers/assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-    </button> 
 
-    <div class="visible-lg visible-md">
-    {%- include _careers/searchbox.html -%}
-    </div>
-
-</section><section class="career-area">
+<section class="career-area">
 <div class="container">
 
 <div class="row">

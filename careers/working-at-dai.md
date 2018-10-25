@@ -183,7 +183,7 @@ DAI is an employee-owned company. Team members with long-term employment relatio
 </div>
 <div class="content--box">
 <p>       
-DAI delivers development solutions for a wide range of clients, <br class="visible-lg">across a broad range of disciplines. Over the years, our core business has grown. Today our operations include DAI’s US Government business unit, DAI Europe, DAI Global Health, and the Sustainable Business Group.
+DAI delivers development solutions for a wide range of clients, across a broad range of disciplines. Over the years, our core business has grown. Today our operations include DAI’s US Government business unit, DAI Europe, DAI Global Health, and the Sustainable Business Group.
 </p>
 <p>
 Truly global, DAI has offices in the United States, the United Kingdom, Belgium, and in projects all over the world. But no matter where we work, or what we do, DAI employees have one thing in common: we are passionate about the work we do.

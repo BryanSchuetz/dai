@@ -1,32 +1,13 @@
 ---
 title: DAI People
-layout: default
+layout: careers
 permalink: "/careers/dai-people"
 careers: true
+feature-title: DAI employs talented professionals all over the world in support of our mission.
+feature-text: In DAI’s corporate offices and on our projects across the globe, DAI staff work in technical roles, project management and implementation, contracts management, business development, finance, human resources, IT, procurement, monitoring and evaluation, and communications. 
+hero-package: dai-people
 ---
-<section class="hero dai-people">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-11">
-                <h1 class="title line">
-                    DAI employs talented professionals all over the world in support of our mission. 
-                </h1>
-                <p class="sub--title"> 
-                    In DAI’s corporate offices and on our projects across the globe, DAI staff work in technical roles, project management and implementation, contracts management, business development, finance, human resources, IT, procurement, monitoring and evaluation, and communications. 
-                </p>
-            </div>
-        </div>
-    </div>
-
-    <button id="advancedSearchBtn" class="btn btn-success btn-search">
-        Advanced <br>Search <img class="icon" src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-    </button> 
-
-    <div class="visible-lg visible-md">
-    {%- include _careers/searchbox.html -%}
-    </div>
-
-</section><section class="people" id="technical">
+<section class="people" id="technical">
     <div class="container">
 
         <div class="row">

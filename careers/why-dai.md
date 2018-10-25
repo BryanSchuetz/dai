@@ -5,13 +5,14 @@ permalink: "/careers/why-dai"
 careers: true
 feature-title: Creating a better future for all. 
 feature-text: At the vanguard of international development, DAI combines visionary thinking, technical expertise and superior project management to help make the world a better place.
+hero-package: why-dai
 ---
 <section class="split-three">
 <div class="container ">
 <div class="row">
   <h1 class="title line"> Mission </h1>  
   <div class="content">
-  <p>DAI’s mission is to make a lasting difference in the world by helping people improve their lives. We envision a world in which communities and societies become more prosperous and fair, better governed, safer, healthier, and environmentally sustainable.</p>                
+  <p>DAI’s mission is to make a lasting difference in the world by helping people improve their lives. We envision a world in which communities and societies become more prosperous and fair, better governed, safer, healthier, and environmentally sustainable. </p>                
 </div>
     
 

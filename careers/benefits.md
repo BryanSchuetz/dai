@@ -1,30 +1,13 @@
 ---
 title: Benefits
-layout: default
+layout: careers
 permalink: "/careers/benefits"
 careers: true
+feature-title: Caring for DAI Families
+feature-text: Shaping a more livable world begins at hoem
+hero-package: benefits
 ---
-<section class="hero benefits">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-11">
-                <h1 class="title line">
-                    Caring for DAI Families 
-                </h1>
-                <p class="sub--title"> 
-                    Shaping a more livable world begins at home. 
-                </p>
-            </div>
-        </div>
-    </div>
-    <button id="advancedSearchBtn" class="btn btn-success btn-search">
-        Advanced <br>Search <img class="icon" src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-    </button> 
-    <div class="visible-lg visible-md">
-    {%- include _careers/searchbox.html -%}
-    </div>
-
-</section><section class="split-three">
+<section class="split-three"> 
     <div class="container with-quote">
         <div class="row">
 
