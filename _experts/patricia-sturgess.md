@@ -8,8 +8,8 @@ summary: Patricia Sturgess has a unique background that combines more than 13 ye
 job-title: Principal Consultant, Governance
 image: https://assetify-dai.com/experts/Sturgess%20INNER.jpg
 solutions:
-- Economic Growth
-- Sustainable Livelihoods
+- Governance
+- 
 - Fragile States
 - Countering Extremism
 regions:
