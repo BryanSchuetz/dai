@@ -19,7 +19,7 @@ The Integrated Approach to Neglected Tropical Diseases (UNITED) programme suppor
 
 The targeted NTDs are preventable with proven, cost-effective interventions, such as mass drug administration, which involves distributing four drugs once or twice a year to everyone in a community to prevent the seven diseases.
 
-As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach is used, in which drugs for different diseases are administered at the same time.
+As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach is used, in which drugs for different diseases are administered at the same time. The UNITED programme has reached 13.8 million people with annual mass treatment to reduce illness, and distributed more than 110 million treatments in northern states of Kano, Katsina, Zamfara, Kaduna, and Niger.
 
 Led by Sightsavers, the consortium also comprises Helen Keller International, CBM, MITOSATH, Carter Centre, the Liverpool School of Tropical Medicine – Centre for Neglected Tropical Diseases, the London Centre for NTD Research, the Partnership for Child Development and the Schistosomiasis Control Initiative, Imperial College, the London School of Hygiene and Tropical Medicine, the Natural History Museum, Accenture Development Partnerships, and Crown Agents.
 
