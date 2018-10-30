@@ -22,6 +22,6 @@ The Salzburg programs facilitate dialogue across development sectors, bringing e
 
 This session will focus on advancing a common framework for monitoring progress toward pandemic preparedness, in line with the Global Health Security Agenda and the International Health Regulations. Participants include field epidemiologists, such as Kitua, government officials, and nongovernmental organization leaders. 
 
-The [P&R](http://preparednessandresponse.org/) team helped design and implement national plans for how to respond to public health events and unknown diseases across 15 countries globally, and has also worked to establish and strengthen National One Health Platforms.
+The [P&R](http://preparednessandresponse.org/) team helped design and implement national plans for how to respond to public health events and unknown diseases across 15 countries, and has also worked to establish and strengthen National One Health Platforms.
 
-Listen to a [podcast](https://soundcloud.com/csis-57169780/frontline-perspectives-on-pandemic-preparedness) and watch a [short video](https://www.facebook.com/DAIGlobal/videos/10156338078985797/) of Kitua discussing pandemic preparedness and the necessity for in-country mechanisms to prevent, detect, and control disease outbreaks at source to achieve global health security and to mitigate the impacts and incidence of pandemic disease.
+Listen to a [podcast](https://soundcloud.com/csis-57169780/frontline-perspectives-on-pandemic-preparedness) and watch a [short video](https://www.facebook.com/DAIGlobal/videos/10156338078985797/) of Kitua discussing pandemic preparedness and the necessity for in-country mechanisms to prevent, detect, and control disease outbreaks at their source.
