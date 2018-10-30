@@ -13,7 +13,7 @@ promos:
   link: "/who-we-are/the-team?filter=digital-acceleration"
 - title: "**Our Work:** Digital Acceleration Projects"
   link: "/our-work/the-projects?filter=digital-acceleration"
-- title: "**News:** Recent DigitalAcceleration  News"
+- title: "**News:** Recent DigitalAcceleration News"
   link: "/news/view-more-news?filter=digital-acceleration"
 - title: Digital Blog
   link: https://dai-global-digital.com?utm_source=daidotcom
