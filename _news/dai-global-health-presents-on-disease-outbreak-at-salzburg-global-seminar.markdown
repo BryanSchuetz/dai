@@ -2,7 +2,6 @@
 title: "“Finding Outbreaks Faster”: DAI Global Health Presents at Salzburg Global
   Seminar"
 date: 2018-10-29 16:27:00 Z
-published: false
 solutions:
 - Global Health
 - Emerging Infectious Diseases
