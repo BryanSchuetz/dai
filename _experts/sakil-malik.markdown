@@ -1,6 +1,6 @@
 ---
 title: Sakil Malik
-date: 2018-11-01 13:51:00 Z
+date: 2018-11-01 10:01:00 Z
 lastname: Malik
 summary: Sakil Malik is DAI’s Senior Global Practice Leader for Education. He has
   more than 23 years of experience working in international development and international
