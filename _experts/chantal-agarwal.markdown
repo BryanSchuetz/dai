@@ -2,11 +2,11 @@
 title: Chantal Agarwal
 date: 2018-10-22 14:42:00 Z
 lastname: Agarwal
-summary: Chantal Agarwal is a Senior Governance Specialist, focused on strengthening
-  crime and violence prevention, promoting accountability and oversight, increasing
-  access to justice and human rights, and supporting institutions to provide equal
-  application of the law for all.
-job-title: Senior Governance Specialist
+summary: Chantal Agarwal is a Senior Development Specialist in our Governance Practice,
+  focused on strengthening crime and violence prevention, promoting accountability
+  and oversight, increasing access to justice and human rights, and supporting institutions
+  to provide equal application of the law for all.
+job-title: Senior Development Specialist, Governance
 image: "/uploads/Chantal%20Agarwal.JPG"
 solutions:
 - Governance
