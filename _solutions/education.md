@@ -9,14 +9,16 @@ summary: Strengthening the provision of high-quality, inclusive education for ch
   and youth around the world.
 related: false
 hero: true
-layout: solution
 solutions:
 - Education
+layout: solution
 ---
 
 **Improving learning outcomes for all by strengthening education systems, forging cross-sectoral linkages, and engaging stakeholders.**
 
 DAI’s Education Practice strengthens the provision of high-quality, inclusive education for children and youth around the world. We work hand-in-hand with educators, policy makers, communities, and stakeholders to implement local solutions, borrowing and building on ideas and innovations from across sectors and working to understand education systems as a whole. 
+
+![Horadeclase_LaCeiba.jpg](/uploads/Horadeclase_LaCeiba.jpg)
 
 DAI supports partner countries to create safe learning environments for students of all ages to help them acquire 21st-century skills—literacy, STEM, vocational skills, and critical thinking—and promote their self-reliance. We work within global education frameworks—from the Sustainable Development Goals to bilateral donor agencies’ strategies—to connect our initiatives to the broader development agenda, focusing on core areas including:
 
