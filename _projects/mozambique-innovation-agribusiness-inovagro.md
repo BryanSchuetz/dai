@@ -1,9 +1,9 @@
 ---
 title: Mozambique—Innovation for Agribusiness (InovAgro I, II, III)
 date: 2016-01-21 22:40:00 Z
-summary: In Northern Mozambique, small-scale farmers dominate agricultural production
-  but work at subsistence level. InovAgro increases small farmers’ revenue by facilitating
-  sustainable changes in the agricultural market.
+summary: Innovation for Agribusiness works to increase revenue for small farmers in
+  northern Mozambique by promoting the development of inclusive and sustainable market
+  systems.
 start: 2010
 end: 2017
 client: Swiss Agency for Development and Cooperation
@@ -17,36 +17,24 @@ country:
 layout: project
 ---
 
-In Northern Mozambique, small-scale farmers dominate agricultural production but work at subsistence level. In alignment with priorities of the Mozambican government, the Swiss Agency for Development Cooperation is promoting development of inclusive market systems, also known as Making Markets Work for the Poor. InovAgro increases small farmers’ revenue by [facilitating sustainable changes](http://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree/) in the agricultural market.
+Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. The Swiss Agency for Development Cooperation is working with Mozambique’s government to increase farmers’ incomes in this region through the Innovation for Agribusiness (InovAgro) project. Launched in 2011, InovAgro promotes the development of inclusive and sustainable market systems, also known as Making Markets Work for the Poor.
 
-Launched in 2011, InovAgro was initially named the Private Sector Led Agricultural Growth program. The program facilitated the relationship between African Century Agriculture (ACA), one of the largest contract farming operators, and small and emerging farmers; developed activities that resulted in the increase of farmers’ net profit by 18.5 percent, thanks to the commercialization of improved seeds; helped foster the multiplication of new and cheaper varieties of soya bean seed; and created the National Platform for Seed Dialogue.
-
-The second phase of InovAgro started in January 2014 and aims to assist 15,000 poor farmers—including 6,000 women—living in the provinces of Cabo Delgado, Nampula, and Zambezia. On, average, these target beneficiaries have six members in the households, grow at least three food crops, and have no land titles. InovAgro is building up the capacity of seed companies and input suppliers to drive extension services to these and other smallholders. The project works with five value chains: soya beans, pigeon peas, groundnuts, sesame, and maize.
+InovAgro III builds on the program’s previous phases by further strengthening the capacity of seed companies and input suppliers to provide extension services to small farmers across five target value chains. The project also works with rural communities to [improve their access to credit](http://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree/) and their land tenure security as a means to increasing agricultural productivity. In addition, InovAgro collaborates with local and national government stakeholders to promote agricultural and economic reforms.
 
 <iframe src="https://DAIGlobal.exposure.co/the-seeds-of-transformation/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/the-seeds-of-transformation">The Seeds of Change</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a>
 
 ## Sample Activities
 
-* [Increase access](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) to certified seeds and other inputs.
-* Help suppliers and output buyers develop embedded extension services.
-* Strengthen farmers’ associations.
-* Facilitate increased mechanization services.
-* Support establishment of agrodealer network.
-* Facilitate linkages between private sector seed companies and Government Seed Multiplication Agency.
-* Link formal financial institutions with targeted farmers.
-* Support community delimitation and formation of community land management committees.
+* · [Increase farmers’ access](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) to certified seeds and quality inputs.
 
-### Select Results (InovAgro I)
+  · Strengthen village savings and loan groups.
 
-* Facilitated linkages between ACA and small and emerging farmers in Gurue district of Zambezia province, including development of an extension services program managed by ACA.
-* Working with local and regional research institutions, InovAgro facilitated the multiplication of new varieties of soya bean seed, which led to 175 tons of cheaper certified seed being sold to small farmers in the 2013-2014 season; assisted the seed company to engage directly with the farmers.
-* Hosted a national seminar on the seed sector in April 2014, leading to creation of the National Platform for Seed Dialogue, which comprises  stakeholders in the Government of Mozambique,  private seed multiplication and distribution industry, international donors, and research services.
+  · Partner with agrodealers to develop new products and services targeted at small farmers.
 
-### Select Results (InovAgro II)
+  · Link financial institutions with farmers to improve access to credit.
 
-* Assisted more than 8,000 direct beneficiaries, with 6,000 smallholder farmers purchasing and using certified seeds.
-* Established 38 community-based retail outlets for certified seed.
-* Formed partnership between 10 input and output companies to help 2,000 farmers find new markets.
-* Assisted 2,900 small-scale farmers to participate in Village Savings and Loans Associations.
-* Ten mechanization service providers provided services to more than 250 smallholder farmers and organized extension visits to 2,400 farmers.
-* Facilitated improved business environment for the seed sector.
+  · Support community land demarcation and formation of community land management committees.
+
+### Select Results
+
+* · InovaAgro I linked a major contract farming operator with small farmers and improved access to quality seeds, resulting in an 18 percent increase in farmers’ incomes.
