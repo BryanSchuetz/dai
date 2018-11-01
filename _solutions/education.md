@@ -5,7 +5,8 @@ permalink: our-work/solutions/education
 redirect_from: "/education"
 icon: <svg class="gov-badge badge" viewBox="0 0 116 115" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#gov-badge"></use></svg>
-summary: Improving learning outcomes for all by strengthening education systems, forging cross-sectoral linkages, and engaging stakeholders.
+summary: Improving learning outcomes for all by strengthening education systems, forging
+  cross-sectoral linkages, and engaging stakeholders.
 related: false
 hero: true
 solutions:
