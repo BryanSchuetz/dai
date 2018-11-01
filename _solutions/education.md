@@ -14,12 +14,7 @@ solutions:
 - Education
 ---
 
-<<<<<<< HEAD
 **Improving learning outcomes for all by strengthening education systems, forging cross-sectoral linkages, and engaging stakeholders.**
-=======
-
-**Improving learning outcomes for all by strengthening education systems, forging cross-sectoral linkages, and engaging stakeholders**
->>>>>>> e2b04cd99cb79c74a21b4eaecd51efa279958c2f
 
 DAI’s Education Practice strengthens the provision of high-quality, inclusive education for children and youth around the world. We work hand-in-hand with educators, policy makers, communities, and stakeholders to implement local solutions, borrowing and building on ideas and innovations from across sectors and working to understand education systems as a whole. 
 
@@ -37,5 +32,7 @@ DAI supports partner countries to create safe learning environments for students
 
 **Technology and Innovation**—Technology is re-shaping the way we live, but not all technology is equal or applicable to the needs of educators. DAI is committed to testing and understanding the innovative use of technology in improving learning outcomes—and finding ways to scale the solutions that are proven to work.
 
-**Cross-Sectoral Programming**—Children and young people need books and teachers to learn; they also need to feel safe and healthy. As a cross-sectoral implementer, DAI is committed to making linkages between programs, avoiding siloes, and applying learning and innovation across sectors. 
+**Cross-Sectoral Programming**—Children and young people need books and teachers to learn; they also need to feel safe and healthy. As a cross-sectoral implementer, DAI is committed to making linkages between programs, avoiding siloes, and applying learning and innovation across sectors.
+
+<br>
 
