@@ -14,7 +14,7 @@ solutions:
 
 Sakil Malik’s interest in education started while growing up in Bangladesh in the 1970s and 80s when he witnessed firsthand the marginalization, inequity, and inequality in education. He was volunteering for national newspapers and community-based libraries while in high school to raise awareness of the issues and look for solution for the most vulnerable, particularly street children.
 
-Today, Malik is DAI’s Senior Global Practice Leader for Education. He has more than 23 years of experience working in international development and project management, focused on education and education in conflict-affected areas. 
+Today, Sakil is DAI’s Senior Global Practice Leader for Education. He has more than 23 years of experience working in international development and project management, focused on education and education in conflict-affected areas. 
 
 Most recently, he was World Learning’s Vice President for Global Development. Sakil served as Director for the Reading within Reach Project, funded by the U.S. Agency for International Development, and Global Reading Network Community of Practice, which works to improve the literacy of primary school children around the world. He has also served as a Project Director for Creative Associates International, managing literacy and education programs in Cambodia, India, Tajikistan, Tanzania, and Timor-Leste, in addition to Arabic literacy programs throughout the Middle East and North Africa.
 
