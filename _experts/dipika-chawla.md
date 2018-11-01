@@ -2,11 +2,11 @@
 title: Dipika Chawla
 date: 2016-01-21 22:18:00 Z
 lastname: Chawla
-summary: 'As part of the Sustainable Business Group, Dipika Chawla leads the communications
-  strategy, designs technical service offerings, performs market intelligence on extractive
-  industries in developing countries, and conducts new business efforts.
-
-'
+summary: "Dipika Chawla is a Principal Specialist with DAI’s Sustainable Business
+  Group, where she provides technical advisory services to multinational corporations
+  regarding corporate social responsibility strategies; corporate foundation strategies;
+  social investment program design and implementation; and monitoring, evaluation,
+  and reporting. \n"
 job-title: Principal Specialist, Corporate Social Investment
 image: https://assetify-dai.com/experts/dipika.jpg
 solutions:
@@ -21,9 +21,8 @@ articles:
 layout: expert
 ---
 
-As part of the Sustainable Business Group, Dipika Chawla leads the communications strategy, designs technical service offerings, performs market intelligence on extractive industries in developing countries, and conducts new business efforts. She specializes in optimizing local content strategies and maximizing ROI of corporate social investment programs for private sector clients.
-
-Before joining DAI, Dipika worked in the World Bank's Trade and Competitiveness practice, researching public policy tools for fostering innovation in East Asia. She has also worked for the Rainforest Alliance, an NGO that works with agricultural, forestry, and tourism companies to promote sustainable livelihoods worldwide. She speaks French in addition to her native English and is working on Spanish in her spare time.
-
+Dipika Chawla is a Principal Specialist with DAI’s Sustainable Business Group, where she provides technical advisory services to multinational corporations regarding corporate social responsibility strategies; corporate foundation strategies; social investment program design and implementation; and monitoring, evaluation, and reporting. She has focused in particular on programs that promote entrepreneurship and innovation to drive economic growth, including business plan and innovation competitions, incubation of African tech startups, and acceleration of small firms. She has developed and delivered training materials for entrepreneurs in areas such as product design and pitching to investors.
+ 
+Before joining DAI, Dipika worked for the World Bank researching public policy tools for fostering innovation in Asia. Prior to that, she worked for the Rainforest Alliance, a nongovernmental organization that works with agricultural, forestry, and tourism companies to promote sustainable business worldwide.
+ 
 * M.S., foreign service, Georgetown University
-* B.S., foreign service, Georgetown University
