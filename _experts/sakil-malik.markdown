@@ -1,7 +1,6 @@
 ---
 title: Sakil Malik
 date: 2018-11-01 13:51:00 Z
-published: false
 lastname: Malik
 summary: Sakil Malik is DAI’s Senior Global Practice Leader for Education. He has
   more than 23 years of experience working in international development and international
@@ -17,10 +16,11 @@ Sakil Malik’s interest in education started while growing up in Bangladesh in 
 
 Today, Malik is DAI’s Senior Global Practice Leader for Education. He has more than 23 years of experience working in international development and project management, focused on education and education in conflict-affected areas. 
 
-Most recently, he was World Learning’s Vice President for Global Development. Sakil served as Director for the Reading within Reach Project, funded by the U.S. Agency for International Development, and Global Reading Network Community of Practice, which works to improve the literacy of primary school children around the world. He has also served as a Project Director for Creative Associates International, managing literacy and education programs in Cambodia, India, Timor-Leste, Tajikistan, Tanzania, and Timor-Leste, in addition to Arabic literacy programs throughout the Middle East and North Africa.
+Most recently, he was World Learning’s Vice President for Global Development. Sakil served as Director for the Reading within Reach Project, funded by the U.S. Agency for International Development, and Global Reading Network Community of Practice, which works to improve the literacy of primary school children around the world. He has also served as a Project Director for Creative Associates International, managing literacy and education programs in Cambodia, India, Tajikistan, Tanzania, and Timor-Leste, in addition to Arabic literacy programs throughout the Middle East and North Africa.
 
-Sakil’s career also includes time as Director of Global Operations at the International Literacy Association, Program Coordinator for the Child Welfare League of America, and Technical Officer for CARE’s office in Bangladesh. Sakil was the Academic Coordinator for Global Partnership Program at BRAC Bangladesh and a Faculty Member of BRAC Training Division where he started his career.
+Sakil’s career also includes time as Director of Global Operations at the International Literacy Association, Program Coordinator for the Child Welfare League of America, and Technical Officer for CARE’s office in Bangladesh. Sakil was the Academic Coordinator for Global Partnership Program at BRAC Bangladesh and a Faculty Member of BRAC Training Division where he started his career. He received a UNESCO Scholarship to study peace and conflict studies at the European Peace University in Austria. 
 
-Sakil earned an MA in Educational Leadership and Policy from the University of Maryland, College Park and an MA in economics from Aligarh University in India. He received a BA in Commerce from Dhaka University in Bangladesh and a 2nd BA in Economics from Aligarh University in India. He received UNESCO Scholarship to study Peace and Conflict Studies at European Peace University in Austria. He is also a certified project manager with CIPM, CMMP and MPM certifications.
-
-**Expertise:** Global Education/Literacy Program, Education in Pre and Post Conflict Environment, Global Program Management, Human Resource Development & Management, Global Program Development & Implementation, Democracy & Human/Child Rights Issues
+* M.A., educational leadership and policy, University of Maryland
+* M.A., economics, Aligarh University, India
+* B.A., commerce, Dhaka University, Bangladesh
+* B.A., economics, Aligarh University, India
