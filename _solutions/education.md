@@ -5,14 +5,20 @@ permalink: our-work/solutions/education
 redirect_from: "/education"
 icon: <svg class="gov-badge badge" viewBox="0 0 116 115" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#gov-badge"></use></svg>
-summary: Strengthening the provision of high-quality, inclusive education for children and youth around the world.
+summary: Strengthening the provision of high-quality, inclusive education for children
+  and youth around the world.
 related: false
 hero: true
 layout: solution
 solutions:
 - Education
 ---
+<<<<<<< HEAD
 **Improving learning outcomes for all by strengthening education systems, forging cross-sectoral linkages, and engaging stakeholders.**
+=======
+
+**Improving learning outcomes for all by strengthening education systems, forging cross-sectoral linkages, and engaging stakeholders**
+>>>>>>> e2b04cd99cb79c74a21b4eaecd51efa279958c2f
 
 DAI’s Education Practice strengthens the provision of high-quality, inclusive education for children and youth around the world. We work hand-in-hand with educators, policy makers, communities, and stakeholders to implement local solutions, borrowing and building on ideas and innovations from across sectors and working to understand education systems as a whole. 
 
