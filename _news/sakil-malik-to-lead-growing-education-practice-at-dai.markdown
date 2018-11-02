@@ -1,6 +1,6 @@
 ---
 title: Sakil Malik to Lead Growing Education Practice at DAI
-date: 2018-11-02 17:44:00 Z
+date: 2018-11-02 13:44:00 Z
 solutions:
 - Education
 summary: Sakil Malik has been named DAI’s Senior Global Practice Lead for Education.
