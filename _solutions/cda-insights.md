@@ -9,6 +9,7 @@ promos:
 layout: solution
 hero: true
 ---
+
 <br>
 <div class="insights">
   <div>
