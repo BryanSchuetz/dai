@@ -11,7 +11,11 @@ social-image: "/uploads/Sakil%20Malik-b1952f.png"
 
 [Sakil Malik](https://www.dai.com/who-we-are/our-team/sakil-malik) has been named DAI’s Senior Global Practice Lead for Education. He comes to DAI with more than 20 years of experience working on education initiatives, including in Cambodia, India, Tajikistan, Tanzania, and Timor-Leste.
 
+<!--more-->
+
 Malik most recently served as World Learning’s Vice President for Global Development. He served as Director for the Reading within Reach Project, funded by the U.S. Agency for International Development, and led the Global Reading Network Community of Practice to improve the literacy of primary school children around the world. He has also served as a Project Director for Creative Associates, managing literacy and education programs.
+
+![Horadeclase_LaCeiba-1.jpg](/uploads/Horadeclase_LaCeiba-1.jpg)
 
 A native of Bangladesh, Malik began his career in international development with BRAC, one of the largest nongovernmental organizations in the world.
 
