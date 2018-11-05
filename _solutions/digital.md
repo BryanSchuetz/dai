@@ -27,7 +27,26 @@ layout: solution
 The Center for Digital Acceleration helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results. We use this foundation to support client decision-making and to build customized digital tools and solutions, from custom web and data applications to technology-driven projects around the globe. Our work covers a cross section of sectors including health, governance, agriculture, and economic growth. 
 
 <br />
-<aside><p style="text-align: center;"><strong>To find our latest insights, stories, and data analysis visit our blog:</strong></p><p><a href="https://dai-global-digital.com?utm_source=daidotcom"> <img src="/uploads/digital-banner.jpg" alt=""></a></p></aside><br />
+<aside class="insights">
+  <h2>CDA White Papers and Publications</h2>
+  <div>
+    <a href="/hcd.pdf">
+      <img src="/uploads/lean-hcd-thumb.png" alt="">
+      <h3>LEAN HCD</h3>
+      <p>A case study in human-centered design in the highlands of Guatemala.</p>
+    </a>
+    <a href="/hcd.pdf" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+  <div style="clear: left;">
+    <a href="/cda-cybersecurity.pdf">
+      <img src="/uploads/cybersecurity-thumb.png" alt="">
+      <h3>Digital Inclusion and a Trusted Interenet</h3>
+      <p>The Role of the international development community in balancing internet access and cybersecurity.</p>
+    </a>
+    <a href="/cda-cybersecurity.pdf" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+</aside>
+<br />
  
 
 ## Our Solutions
@@ -43,3 +62,6 @@ The Center for Digital Acceleration helps our clients—businesses, governments,
 **[Technology Research and Development](/our-work/solutions/digital-acceleration-solutions/technology-research-and-development)**—From distributed ledger applications to machine learning models, our team stays at the cutting edge of technology to support our clients as they drive sustainable social, economic, and political impact. 
 
 **[Digital Trainings](/our-work/solutions/digital-acceleration-solutions/trainings)**—New digital tools and approaches are entering the market every day. CDA helps keep teams up to date, tailoring our digital workshops to client objectives. 
+
+<br>
+<aside><p style="text-align: center;"><strong>To find our latest insights, stories, and data analysis visit our blog:</strong></p><p><a href="https://dai-global-digital.com?utm_source=daidotcom"> <img src="/uploads/digital-banner.jpg" alt=""></a></p></aside>

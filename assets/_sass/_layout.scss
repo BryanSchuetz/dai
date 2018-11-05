@@ -523,6 +523,27 @@ aside{
 .project-detail--solution-link:not(:last-child)::after{
   content: ",";
 }
+
+// CDA Insights
+.insights{
+  @include clearfix;
+  h2{
+    margin-bottom: 1.5rem;
+  }
+  p{
+    color: $emphasis;
+  }
+  div{
+    @include clearfix;
+    img{
+      width: 150px; 
+      float: left; 
+      margin-right: 1rem; 
+      border: 0px;
+    }
+  }
+}
+
 // 🎌 FORMS 🎌
 
 .campaign-monitor .topic-checks{
