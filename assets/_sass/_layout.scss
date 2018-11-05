@@ -534,12 +534,19 @@ aside{
     color: $emphasis;
   }
   div{
+    margin-bottom: 1.5rem;
     @include clearfix;
     img{
       width: 150px; 
       float: left; 
       margin-right: 1rem; 
       border: 0px;
+    }
+  }
+  &.promo{
+    padding-bottom: .5rem;
+    div{
+      margin-bottom: 0px;
     }
   }
 }
