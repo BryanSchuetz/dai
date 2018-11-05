@@ -22,5 +22,5 @@ Sakil’s career also includes serving as Director of Global Operations for the 
 
 * M.A., educational leadership and policy, University of Maryland
 * M.A., economics, Aligarh University, India
-* B.A., commerce, Dhaka University, Bangladesh
+* B.Com., commerce, Dhaka University, Bangladesh 
 * B.A., economics, Aligarh University, India

@@ -8,7 +8,6 @@ solutions:
 promos: 
 layout: solution
 hero: true
-published: false
 ---
 <br>
 <div class="insights">
