@@ -20,7 +20,7 @@ hero: true
     <a href="/hcd.pdf" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
   <div style="clear: left;"> 
-    <a href="/cda-cybersecurity.pdf">
+    <a href="">
       <img src="/uploads/cybersecurity-thumb.png" alt="">
       <h3>Digital Inclusion and a Trusted Interenet</h3>
       <p>The Role of the international development community in balancing internet access and cybersecurity.</p>
