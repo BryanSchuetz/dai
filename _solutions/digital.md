@@ -53,7 +53,3 @@ We use this foundation to support client decision-making and to build customized
 **[Technology Research and Development](/our-work/solutions/digital-acceleration-solutions/technology-research-and-development)**—From distributed ledger applications to machine learning models, our team stays at the cutting edge of technology to support our clients as they drive sustainable social, economic, and political impact. 
 
 **[Digital Trainings](/our-work/solutions/digital-acceleration-solutions/trainings)**—New digital tools and approaches are entering the market every day. CDA helps keep teams up to date, tailoring our digital workshops to client objectives. 
-
-<br />
-<aside><p style="text-align: center;"><strong>To find our latest ideas, stories, and data analysis visit our blog:</strong></p><p><a href="https://dai-global-digital.com?utm_source=daidotcom"> <img src="/uploads/digital-banner.jpg" alt=""></a></p></aside>
-<br />

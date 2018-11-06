@@ -28,3 +28,6 @@ hero: true
     <a href="/cda-cybersecurity.pdf" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
 </div>
+<br />
+<aside><p style="text-align: center;"><strong>To find our latest ideas, stories, and data analysis visit our blog:</strong></p><p><a href="https://dai-global-digital.com?utm_source=daidotcom"> <img src="/uploads/digital-banner.jpg" alt=""></a></p></aside>
+<br />
