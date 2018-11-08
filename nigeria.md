@@ -11,7 +11,7 @@ hero: true
 regions: Sub-Saharan Africa
 related: true
 country: true
-redirect_from: /nigeria
+redirect_from: "/nigeria"
 layout: node
 ---
 
