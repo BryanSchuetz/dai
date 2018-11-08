@@ -27,7 +27,7 @@ To address the complex nature of violence in and around schools, Asegurando la E
 
 ### Sample Activities
 
-* Assist teachers and administrators to integrate locally tailored violence-prevention techniques into curriculum development, teacher training, and after-school activities.
+* [Assist teachers and administrators](http://dai-global-developments.com/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/) to integrate locally tailored violence-prevention techniques into curriculum development, teacher training, and after-school activities.
 * Provide grants and technical assistance to schools, community organizations, and social service partners to pilot customized prevention services.
 * Support the strengthening of referral mechanisms and integration of social services for child protection cases related to drug abuse, psychological support, and domestic violence.
 * Collaborate with the Ministry of Education to develop and implement protocols to help school staff address and mitigate violence.
