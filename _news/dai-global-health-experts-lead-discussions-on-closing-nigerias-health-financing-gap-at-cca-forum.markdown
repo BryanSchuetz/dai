@@ -3,6 +3,13 @@ title: DAI Global Health Experts Lead Discussions on Closing Nigeria’s Health 
   Gap at CCA Forum
 date: 2018-11-08 19:23:00 Z
 published: false
+solutions:
+- Global Health
+- Health Governance
+regions: Sub-Saharan Africa
+summary: Annie Baldridge and James McIntyre-Brown of the DAI Global Health team led
+  discussions on addressing Nigeria’s health financing gap at the Corporate Council
+  on Africa Health Forum in Abuja, Nigeria.
 ---
 
 [Annie Baldridge](https://www.dai.com/who-we-are/our-team/annie-baldridge) and [James McIntyre-Brown](https://www.dai.com/who-we-are/our-team/james-mcintyre-brown) of the [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) team led discussions on addressing Nigeria’s health financing gap at the Corporate Council on Africa Health Forum in Abuja, Nigeria.
