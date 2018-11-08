@@ -15,9 +15,9 @@ summary: Annie Baldridge and James McIntyre-Brown of the DAI Global Health team 
 
 <!--more-->
 
-![DAI-News----Annie-pic.jpg](/uploads/DAI-News----Annie-pic.jpg)`DAI's Annie Baldridge at the Corporate Council of Africa Health Forum in Abuja, Nigeria.` 
-
 At the November 7 forum, titled *Bridging the Gap in Nigeria’s Healthcare System*, Baldridge presented on how primary health care can be improved through private investment. She also reviewed DAI’s experience in [public financial management](https://www.dai.com/our-work/solutions/governance-solutions/public-financial-management) for health in Nigeria, including DAI’s management of the Accountable, Responsive, and Capable Government project and its predecessor [programs](https://www.dai.com/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc).
+
+![DAI-News----Annie-pic.jpg](/uploads/DAI-News----Annie-pic.jpg)`DAI's Annie Baldridge at the Corporate Council of Africa Health Forum in Abuja, Nigeria.` 
 
 McIntyre-Brown, Health Practice Director for DAI Global Health, presented an analysis of the health sector investment environment and identified areas for investment and innovation, including private franchising of primary health care facilities. Noted Dr. Ogbe Oritsewegimi, Head of Health Financing for Nigeria’s National Primary Health Care Development Agency: “The private sector is driven by the bottom line, but in health there has to be two bottom lines—one for profit and one for the community.”
 
