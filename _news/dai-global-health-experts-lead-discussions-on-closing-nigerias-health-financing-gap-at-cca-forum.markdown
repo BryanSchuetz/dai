@@ -2,7 +2,6 @@
 title: DAI Global Health Experts Lead Discussions on Closing Nigeria’s Health Financing
   Gap at CCA Forum
 date: 2018-11-08 19:23:00 Z
-published: false
 solutions:
 - Global Health
 - Health Governance
