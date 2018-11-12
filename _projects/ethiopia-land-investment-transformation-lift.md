@@ -21,6 +21,10 @@ promos:
   link: "/uploads/Ethiopia_LIFT_Land_Rental.pdf"
 - title: "**Brief**:_ Promoting Financial Inclusion_"
   link: "/uploads/Ethiopia_LIFT_Financial_Inclusion.pdf"
+- title: |-
+    **Brief**:_ Enabling Access to Clean Agricultural
+    Inputs and Technologies_
+  link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
 layout: project
 ---
 
