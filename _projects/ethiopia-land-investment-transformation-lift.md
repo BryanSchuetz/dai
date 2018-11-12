@@ -15,7 +15,7 @@ regions:
 country:
 - Ethiopia
 promos:
-- title: 'Fast Facts: Ethiopia LIFT'
+- title: "**Fast Facts**:_ Ethiopia LIFT_"
   link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618.pdf"
 layout: project
 ---
