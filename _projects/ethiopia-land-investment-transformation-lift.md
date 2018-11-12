@@ -17,6 +17,10 @@ country:
 promos:
 - title: "**Fast Facts**:_ Ethiopia LIFT_"
   link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618.pdf"
+- title: "**Brief**:_ Formalising Land Rental Transactions_"
+  link: "/uploads/Ethiopia_LIFT_Land_Rental.pdf"
+- title: "**Brief**:_ Promoting Financial Inclusion_"
+  link: "/uploads/Ethiopia_LIFT_Financial_Inclusion.pdf"
 layout: project
 ---
 
