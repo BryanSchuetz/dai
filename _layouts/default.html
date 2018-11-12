@@ -78,13 +78,24 @@
 {% elsif page.hero and page.url contains "our-work" %}
   <div class="hero-wrap our-work">
     <div class="node-hero">
-    {%- comment -%} Calling out special cases here
+    {%- comment -%} This spaggetti of logic is HORRIBLE. Find a way to reduce the complexity here 
     
-    - is the page NOT the Education page?
-    - is the page a solution layout and page type of primary?
-      - IF so, assing "solution" to the solution from site.solutions that matches the first solution
+    - if the page a primary solution?
+      |> then show the page icon
+    - if the page is a Solution page AND is NOT a primary Solution page
+      |> then assign to SOLUTION the first site.solution with a title that matches the pages first Solution
+      |> print SOLUTION's icon
+      - if the page is a sub-solution of Digital-Acceleration 
+        |> print 'Center for Digital Acceleration' (this is a workaround that lets us keep the solution title solution like, but still lets their page have the more nuanced name)
+      - else
+        |> print the solutions title 
+    - if the page is Digital-Acceleration
+      |> print 'Center for Digital Acceleration' (we do this again here because the Digital Acceleration solution has a primary page as well as non-primary pages)
+    - if SOLUTION has been populate above
+      |> print the SOLUTION's summary—pull out p tags etc.
+    - if we're on the Global Health primary solution, print a call out to sign up to the newsletter
      {%- endcomment -%}
-        <h1 class="hero-title">{% if page.icon and page.title != "Education" %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }}  {% if page.url contains "digital-acceleration" %}Center for Digital Acceleration {% else %}{{ solution[0].title }}{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
+        <h1 class="hero-title">{% if page.type == "primary" %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }}  {% if page.url contains "digital-acceleration" %}Center for Digital Acceleration {% else %}{{ solution[0].title }}{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
         <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}{%if page.title == 'Global Health'%} <br><span style="font-size: .8rem;"><a href="/sign-up">Subscribe</a> to our newsletter for periodic updates from DAI Global Health.</span> {% endif %}</p>
     </div>
   </div>
