@@ -6,7 +6,7 @@ layout: default
 
 # _Access for All: Building Inclusive Economic Systems_
 
-<aside> A new book by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, now available at Amazon</aside>
+<aside> A <a href="https://www.amazon.com/dp/1732704007/ref=sr_1_5?s=books&ie=UTF8&qid=1542119152&sr=1-5">new book</a> by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, now available at Amazon</aside>
 
 <img src="/uploads/access-for-all-cover.jpg" class="float-left">
 
