@@ -2,6 +2,8 @@
 title: DAI Bids Fond Farewell to Board Member Marwan Juma
 date: 2018-11-13 13:51:00 Z
 published: false
+summary: DAI Board Member Marwan Juma will be leaving DAI’s Board next month at the
+  end of his term and was bid a fond farewell at the November Board meeting.
 ---
 
 DAI Board Member [Marwan Juma](https://www.linkedin.com/in/marwan-juma-909b5816/) will be leaving DAI’s Board next month at the end of his term and was bid a fond farewell at the November Board meeting.
