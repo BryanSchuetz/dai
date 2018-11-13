@@ -1,12 +1,12 @@
 ---
 title: Access for All
-summary: Comming Soon
+summary: 'Now Available: Access for All'
 layout: default
 ---
 
 # _Access for All: Building Inclusive Economic Systems_
 
-<aside> A new book by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, coming soon</aside>
+<aside> A [new book](https://www.amazon.com/dp/1732704007/ref=sr_1_5?s=books&ie=UTF8&qid=1542119152&sr=1-5) by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, coming soon</aside>
 
 <img src="/uploads/access-for-all-cover.jpg" class="float-left">
 
