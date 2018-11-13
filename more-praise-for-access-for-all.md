@@ -6,7 +6,7 @@ layout: default
 
 # More Praise for _[Access for All: Building Inclusive Economic Systems](https://www.amazon.com/dp/1732704007/ref=sr_1_5?s=books&ie=UTF8&qid=1542119152&sr=1-5)_
 
-<aside> A new book by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, <a href="/access-for-all">coming soon</a>.</aside> 
+<aside> A new book by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, <a href="/access-for-all">now available at Amazon</a>.</aside> 
 
 > This book is essential reading for anyone interested in shaping a more livable world, from entrepreneurs to investors, corporates, nonprofits, and governments. Dr. Helms brings together the latest economic research and her own insights from 30 years in the field to show how market-based solutions are critical to pulling people out of poverty in the developing markets. _Access for All_ lights the way to a future of economic inclusion and challenges us to collaborate across private and public sectors to create a more prosperous and sustainable world. If you want to make the world a better place, read this book!
 —**Elizabeth Nelson, chair of the Board of Managers, DAI**
