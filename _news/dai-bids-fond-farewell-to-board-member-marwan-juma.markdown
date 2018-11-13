@@ -12,7 +12,7 @@ DAI Board Member [Marwan Juma](https://www.linkedin.com/in/marwan-juma-909b5816/
 
 During Marwan’s term, DAI achieved significant growth and diversification, including expanding in the [United Kingdom](https://www.dai.com/news/dai-joins-forces-international-development-consultancy-htspe-ltd) and [Nigeria](https://www.dai.com/news/dai-joins-forces-with-nigerias-grid-consulting), investing in [global health](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment) and other sectors, launching initiatives such as a [coding school](https://www.dai.com/news/dai-hosts-launch-of-new-coding-school-in-montgomery-county), and broadening DAI’s [employee ownership](https://www.dai.com/news/dai-employee-ownership-initiative-wins-prestigious-award).
 
-![marwan jim.png](/uploads/marwan%20jim.png)`President and CEO Jim Boomgard, right, celebrates the tenure of Board Member Marwan Juma, left.`
+![Marwan.JPEG](/uploads/Marwan.JPEG)`President and CEO Jim Boomgard, right, celebrates the tenure of Board Member Marwan Juma, left.`
 
 Speaking at the November Board meeting, Marwan said of DAI: “Meeting [contractor performance assessment report] and donor scores is very important but, at the risk of uttering a cliché, this isn't why we come to work: it is indeed about making lives better.”
 
