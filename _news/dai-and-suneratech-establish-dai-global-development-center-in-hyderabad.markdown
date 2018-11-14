@@ -10,9 +10,9 @@ summary: 'DAI Global, LLC, a worldwide leader in international development, with
 social-image: "/uploads/sunera%20social.jpg"
 ---
 
-### Global Development Pioneer Partners with Cloud Technology Leader to Accelerate Innovation in Integrated Development Solutions
+*Global Development Pioneer Partners with Cloud Technology Leader to Accelerate Innovation in Integrated Development Solutions*
 
-*Hyderabad, India and Bethesda, Md., November 14, 2018*—DAI Global, LLC, a worldwide leader in international development headquartered in Bethesda, Maryland (USA), with operations in more than 100 countries, and Sunera Technologies, Inc. (Suneratech), a leading innovative technology solutions company with offices in Chicago, Illinois (USA), and Hyderabad, India, today announced they have agreed to leverage their long-term strategic partnership to launch DAI’s Global Services Platform in Hyderabad. This platform is a cornerstone of DAI’s global development company vision and will focus on people, process, and innovation, creating value for DAI’s and Suneratech’s current and future customers. 
+*Hyderabad, India and Bethesda, Md., November 14, 2018*—DAI Global, LLC, a worldwide leader in international development headquartered in Bethesda, Maryland (USA), with operations in more than 100 countries, and Sunera Technologies, Inc. (Suneratech), a leading innovative technology solutions company with offices in Chicago, Illinois (USA), and Hyderabad, India, today announced they have agreed to leverage their long-term strategic partnership to launch DAI’s Global Services Platform in Hyderabad. This platform is a cornerstone of DAI’s global development company vision and will focus on people, process, and innovation, creating value for DAI’s and Suneratech’s current and future customers.
 
 The agreement between DAI and Suneratech was finalized during a visit to Hyderabad by [James Boomgard](https://www.dai.com/who-we-are/board/james-boomgard), President and CEO of DAI, and a delegation of executive and senior leaders from DAI.
 
@@ -24,18 +24,18 @@ The Hyderabad platform is a significant step in the globalization of DAI’s ope
 
 “This partnership with DAI really gets to the heart of Suneratech’s core competency of leveraging the brightest talent to bring innovation and creativity to solve complex challenges,” said [Ravi Reddy](https://www.linkedin.com/in/ravireddy1/), President and CEO of Sunera Technologies. “Now, by working with a global leader like DAI, we are extending our expertise to the area of economic and social development that will help serve our corporate and government customers. This is very exciting for us and is certainly an evolutionary next step for Suneratech!”
 
-The expansion of the DAI-Suneratech partnership extends the reach of both companies and enhances their combined capability to shape a more livable world. 
+The expansion of the DAI-Suneratech partnership extends the reach of both companies and enhances their combined capability to shape a more livable world.
 
-###
+### 
 
 For media and analyst queries, please contact:
 
-**DAI Global:** Steven O’Connor, steven_oconnor@dai.com, +1.301.771.7834
-**Sunera Technologies:** Saurabh Bhatt, saurabh.bhatt@suneratech.com, +91 7020701239
+**DAI Global:** Steven O’Connor, steven_oconnor@dai.com, \+1.301.771.7834
+**Sunera Technologies:** Saurabh Bhatt, saurabh.bhatt@suneratech.com, \+91 7020701239
 
-**About DAI Global** 
+**About DAI Global**
 
-DAI is an employee-owned global development company with a record of delivering results in 160 countries. The company’s mission is to help people improve their lives by making communities and societies more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable. DAI specializes in designing and deploying integrated development solutions that promise transformational results in the areas of digital acceleration, economic growth, environment and energy, fragile states, global health, governance, and sustainable business. DAI has active projects in more than 100 countries. The company is headquartered in Bethesda, Maryland (USA), with additional corporate offices in Belgium, the United Kingdom, and Nigeria. 
+DAI is an employee-owned global development company with a record of delivering results in 160 countries. The company’s mission is to help people improve their lives by making communities and societies more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable. DAI specializes in designing and deploying integrated development solutions that promise transformational results in the areas of digital acceleration, economic growth, environment and energy, fragile states, global health, governance, and sustainable business. DAI has active projects in more than 100 countries. The company is headquartered in Bethesda, Maryland (USA), with additional corporate offices in Belgium, the United Kingdom, and Nigeria.
 
 **About Sunera Technologies**
 
