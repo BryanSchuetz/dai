@@ -1,7 +1,6 @@
 ---
 title: DAI and Suneratech Establish DAI Global Development Center in Hyderabad
 date: 2018-11-14 13:44:00 Z
-published: false
 summary: 'DAI Global, LLC, a worldwide leader in international development, with operations
   in more than 100 countries, and Sunera Technologies, Inc., a leading innovative
   technology solutions company with offices in Chicago, Illinois, and Hyderabad, India,
