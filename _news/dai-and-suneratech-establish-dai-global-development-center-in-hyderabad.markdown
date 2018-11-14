@@ -25,8 +25,6 @@ The Hyderabad platform is a significant step in the globalization of DAI’s ope
 
 The expansion of the DAI-Suneratech partnership extends the reach of both companies and enhances their combined capability to shape a more livable world.
 
-### 
-
 For media and analyst queries, please contact:
 
 **DAI Global:** Steven O’Connor, steven_oconnor@dai.com, +1.301.771.7834
