@@ -14,11 +14,11 @@ social-image: "/uploads/sunera%20social.jpg"
 
 *Hyderabad, India and Bethesda, Md., November 14, 2018*—DAI Global, LLC, a worldwide leader in international development headquartered in Bethesda, Maryland (USA), with operations in more than 100 countries, and Sunera Technologies, Inc. (Suneratech), a leading innovative technology solutions company with offices in Chicago, Illinois (USA), and Hyderabad, India, today announced they have agreed to leverage their long-term strategic partnership to launch DAI’s Global Services Platform in Hyderabad. This platform is a cornerstone of DAI’s global development company vision and will focus on people, process, and innovation, creating value for DAI’s and Suneratech’s current and future customers.
 
+![sunera.jpg](/uploads/sunera.jpg)`DAI President and CEO Jim Boomgard and Sunera President and CEO Ravi Reddy announce the new Hyderabad center.`
+
 <!--more-->
 
 The agreement between DAI and Suneratech was finalized during a visit to Hyderabad by [James Boomgard](https://www.dai.com/who-we-are/board/james-boomgard), President and CEO of DAI, and a delegation of executive and senior leaders from DAI.
-
-![sunera.jpg](/uploads/sunera.jpg)`DAI President and CEO Jim Boomgard and Sunera President and CEO Ravi Reddy announce the new Hyderabad center.`
 
 The Hyderabad platform is a significant step in the globalization of DAI’s operations, technology, and talent, providing a vibrant additional source of innovation for development impact. The platform will leverage Suneratech’s deep expertise in cloud technologies, artificial intelligence, and state-of-the-art capabilities in IoT, digital transformation, mobility solutions, and custom application development. Suneratech and DAI will continue to build and deepen DAI’s global talent pool and strengthen DAI’s corporate presence in India.
 
