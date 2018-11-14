@@ -15,6 +15,8 @@ summary: 'DAI Global, LLC, a worldwide leader in international development, with
 
 The agreement between DAI and Suneratech was finalized during a visit to Hyderabad by [James Boomgard](https://www.dai.com/who-we-are/board/james-boomgard), President and CEO of DAI, and a delegation of executive and senior leaders from DAI.
 
+![sunera.jpg](/uploads/sunera.jpg)`DAI President and CEO Jim Boomgard and Sunera President and CEO Ravi Reddy announce the new Hyderabad center.`
+
 The Hyderabad platform is a significant step in the globalization of DAI’s operations, technology, and talent, providing a vibrant additional source of innovation for development impact. The platform will leverage Suneratech’s deep expertise in cloud technologies, artificial intelligence, and state-of-the-art capabilities in IoT, digital transformation, mobility solutions, and custom application development. Suneratech and DAI will continue to build and deepen DAI’s global talent pool and strengthen DAI’s corporate presence in India.
 
 “We are thrilled to expand our partnership with Suneratech,” said Boomgard. “This platform will help keep DAI on the leading edge of developing and deploying solutions to tackle fundamental social and economic development problems. This partnership will allow us to continue our process of business transformation, and better achieve our long-term mission and strategic vision, and do so at scale.”
