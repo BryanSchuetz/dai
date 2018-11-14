@@ -7,6 +7,7 @@ summary: 'DAI Global, LLC, a worldwide leader in international development, with
   technology solutions company with offices in Chicago, Illinois, and Hyderabad, India,
   today announced they have agreed to leverage their long-term strategic partnership
   to launch DAI’s Global Services Platform in Hyderabad. '
+social-image: "/uploads/sunera%20social.jpg"
 ---
 
 ## Global Development Pioneer Partners with Cloud Technology Leader to Accelerate Innovation in Integrated Development Solutions
