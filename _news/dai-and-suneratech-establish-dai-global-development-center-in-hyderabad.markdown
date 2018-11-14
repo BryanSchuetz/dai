@@ -30,8 +30,9 @@ The expansion of the DAI-Suneratech partnership extends the reach of both compan
 
 For media and analyst queries, please contact:
 
-**DAI Global:** Steven O’Connor, steven_oconnor@dai.com, \+1.301.771.7834
-**Sunera Technologies:** Saurabh Bhatt, saurabh.bhatt@suneratech.com, \+91 7020701239
+**DAI Global:** Steven O’Connor, steven_oconnor@dai.com, +1.301.771.7834
+
+**Sunera Technologies:** Saurabh Bhatt, saurabh.bhatt@suneratech.com, +91 7020701239
 
 **About DAI Global**
 
