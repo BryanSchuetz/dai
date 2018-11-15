@@ -15,6 +15,8 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
+- title: "**Report**:_El Niño 2018-19: Historical Impact Analysis_"
+  link: "/uploads/DFID_El%20Nino_2018_Historical%20Impact%20Analysis%20(University%20of%20Reading).pdf"
 - title: "**Guidance Note**: _Education in Emergencies_"
   link: "/uploads/EiE_Guidance_Note-8fc7f4.pdf"
 - title: "**Evidence Brief**: _Education in Emergencies - Political Settlements_"
