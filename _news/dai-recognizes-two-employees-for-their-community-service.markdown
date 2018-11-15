@@ -18,6 +18,8 @@ Today, the organization exists to provide nursing care, physiotherapy, and rehab
 
 Modeline Acréus is a member of the New Vibration Foundation, an organization founded in 2015 to provide food and education support for children in northern Haiti whose parents can’t afford to send them to school or feed them sufficiently. Modeline contributes financially and helps to recruit children whose parents lack the means to fund the education they need. Every year, the Foundation delivers school supplies to 60 kids, distributes food—rice, beans, and oil—to their families, and pays the annual tuition for five students who achieve the highest grade over the school year. The members meet the children every three months to talk to them, mentor them, and eat together.
 
+![Modeline1.jpg](/uploads/Modeline1.jpg)`Modeline passes out patties to the kids at meeting to prepare a christmas event 
+
 “If the prize is awarded to New Vibration Foundation, we will have the opportunity to pay tuition for more children and the food support which is very low can be reinforced,” wrote Modeline in her application.
 
 The Gunning Award was [created in 2013](https://www.dai.com/news/dai-recognizes-two-employees-their-community-service) to honor retiring DAI Board Director David Gunning, who was a continuous presence on DAI’s Board from its inception in 1970 and a steady advocate of the company’s social mission. This year, the service award attracted 23 applications from the United States and 10 other countries—Afghanistan, El Salvador, Haiti, Kazakhstan, Kenya, Kosovo, Nepal, Pakistan, Somalia, and Uganda—bringing the total number of applications since the awards were inaugurated to an even 100.
