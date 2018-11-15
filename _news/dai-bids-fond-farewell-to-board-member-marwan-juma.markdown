@@ -1,7 +1,6 @@
 ---
 title: DAI Bids Fond Farewell to Board Member Marwan Juma
-date: 2018-11-13 13:51:00 Z
-published: false
+date: 2018-11-15 07:51:00 Z
 summary: DAI Board Member Marwan Juma will be leaving DAI’s Board next month at the
   end of his term and was bid a fond farewell at the November Board meeting.
 ---
@@ -22,6 +21,6 @@ Marwan served as the Jordanian Minister of Information and Communications Techno
 
 In addition, Marwan is the founder and Chairman of Oasis 500, the region’s leading IT fund and accelerator. He chaired the local chapter of the Young Arab Leaders Organization, the region’s leading nongovernmental organization focused on youth.
 
-“Marwan brought a unique perspective to the DAI Board because he knows firsthand the challenged and immense promise of working in emerging markets,” said Board Chair [Betsey Nelson](https://www.dai.com/who-we-are/board/elizabeth-nelson). “It has been an honor and a pleasure to work with him, and we know he will remain a friend of DAI’s and a ceaseless advocate for investment in Jordan and the MENA region.”
+“Marwan brought a unique perspective to the DAI Board because he knows firsthand the challenges and immense promise of working in emerging markets,” said Board Chair [Betsey Nelson](https://www.dai.com/who-we-are/board/elizabeth-nelson). “It has been an honor and a pleasure to work with him, and we know he will remain a friend of DAI’s and a ceaseless advocate for investment in Jordan and the MENA region.”
 
 Marwan will continue to advise DAI informally, especially on our work in Jordan and the Middle East.
