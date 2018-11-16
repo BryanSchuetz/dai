@@ -14,7 +14,7 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-Nigeria has the highest number of maternal deaths in Sub-Saharan Africa and high rates of under-5 child mortality. These indicators are even more severe in northern Nigeria, where up to 90 percent of pregnant women deliver their babies without a skilled birth attendant. Female health workers are particularly important in the north of the country because social norms in rural communities can prohibit women from receiving care from male health workers.
+Nigeria has the [highest number of maternal deaths](https://devex.shorthandstories.com/care-amid-conflict/index.html) in Sub-Saharan Africa and high rates of under-5 child mortality. These indicators are even more severe in northern Nigeria, where up to 90 percent of pregnant women deliver their babies without a skilled birth attendant. Female health workers are particularly important in the north of the country because social norms in rural communities can prohibit women from receiving care from male health workers.
 
 The U.K. Department for International Development (DFID) is tackling this problem by training women to be service providers in six states in northern Nigeria through its [Women for Health (W4H)](http://www.women4healthnigeria.org/) programme.
 
@@ -24,7 +24,7 @@ It is expected that the increased numbers of female health workers will lead to 
 
 W4H works closely with other existing health and education programs in the states to use a “building back better” approach in the conflict- and humanitarian emergency-affected areas in Borno and Yobe states, and ensure sustainability of the progress achieved over the last five years in Jigawa, Kano, Katsina, and Zamfara.
 
-A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group. The programme is led by DAI Global Health (incorporating  Health Partners International and GRID), in partnership with Save the Children. W4H works closely with 22 midwifery, nursing, and community health extension worker training institutions and state ministries of health to support the training of female health workers and their deployment to rural health facilities. 
+A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group. The programme is led by DAI Global Health, in partnership with Save the Children. W4H works closely with 22 midwifery, nursing, and community health extension worker training institutions and state ministries of health to support the training of female health workers and their deployment to rural health facilities. 
 
 ![women4health.jpg](/uploads/women4health.jpg)
 

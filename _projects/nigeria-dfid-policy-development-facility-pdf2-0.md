@@ -32,9 +32,9 @@ layout: project
 
 To develop a competitive and dynamic non-oil economy, particularly one based on pro-poor growth, Nigeria needs to pursue innovation and reform in its policy and public investment framework.
 
-Funded by the U.K. Department for International Development (DFID), this Abuja-based facility is increasing capacity throughout Nigeria to craft and implement evidence-based policies and initiatives. These may be in: economics (macro, fiscal, industry), trade and trade relations, private sector development, public expenditure management, tax policy and regulation, fiscal decentralisation, social development, poverty analysis, and social impact assessment.
+Funded by the U.K. Department for International Development (DFID), this Abuja-based facility is increasing capacity throughout Nigeria to craft and implement evidence-based policies and initiatives. These may be in: [economics](https://www.pdfnigeria.org/nigeria-diaspora-study/) (macro, fiscal, industry), trade and trade relations, private sector development, public expenditure management, tax policy and regulation, fiscal decentralisation, social development, poverty analysis, and social impact assessment.
 
-The first phase (PDF1) operated from 2010 to 2015. Our approach for PDF2 will continue to be both responsive and proactive, so that DFID can offer information, organizational support, and initiatives useful to stakeholders that may not otherwise have been requested.
+The first phase (PDF1) operated from 2010 to 2015.
 
 ![][1]
 
