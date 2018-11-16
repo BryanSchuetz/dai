@@ -18,6 +18,8 @@ Following the turmoil of a contested presidential election in 2016, The Gambia f
 
 To support these democratic reforms, The State Building Contract 1 Complementary Support (SBC1 CS) programme, funded by the European Commission, fosters inclusive growth and improves political and economic governance in The Gambia. DAI provides expert coaches to train government staff on leading reforms within key institutions. The SBC1 CS technical assistance focuses on human rights, rule of law, and security sector reform; public financial management and procurement; statistical data collection and management; and business environment reform.
 
+![Gambia SBC Photo.jpg](/uploads/Gambia%20SBC%20Photo.jpg)
+
 ### Sample Activities
 
 * Provide coaching to the Office of the President to lead security sector reform.
