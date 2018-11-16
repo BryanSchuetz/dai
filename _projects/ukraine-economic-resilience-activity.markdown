@@ -19,6 +19,8 @@ Even before the onset of regional instability, eastern Ukraine was saddled with 
 
 The Economic Resilience Activity, funded by the U.S. Agency for International Development (USAID) is working to strengthen the economy of eastern Ukraine in response to these setbacks. The program is designed to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents to gain locally needed job skills. The Activity focuses on three objectives: stabilizing the economy; supporting small business development; and building confidence in the region’s economic potential.
 
+![ERA_image.jpg](/uploads/ERA_image.jpg)
+
 ### Sample Activities
 * Provide technical assistance and cost-share grants to conflict-affected businesses.
 * Work with partner institutions to adapt workforce training curricula to reflect in-demand skills. 
