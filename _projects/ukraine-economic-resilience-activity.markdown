@@ -1,7 +1,6 @@
 ---
 title: Ukraine—Economic Resilience Activity
 date: 2018-11-16 19:43:00 Z
-published: false
 summary: The Economic Resilience Activity is working to strengthen the economy of
   eastern Ukraine in the response to recent regional instability.
 start: 2018
@@ -26,6 +25,6 @@ The Economic Resilience Activity, funded by the U.S. Agency for International De
 * Provide technical assistance and cost-share grants to conflict-affected businesses.
 * Work with partner institutions to adapt workforce training curricula to reflect in-demand skills. 
 * Advance policy changes to increase the business competitiveness of municipalities.
-* Promote regional exports to the EU and other international markets.
+* Promote regional exports to the European Union and other international markets.
 * Improve access to finance for entrepreneurs and small businesses.
 * Raise awareness of the importance of emerging industries for the region’s economic future.
