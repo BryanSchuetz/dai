@@ -1,7 +1,7 @@
 ---
 title: Career Areas
-layout: careers
 permalink: "/careers/career-areas"
+layout: careers
 careers: true
 feature-title: Whatever your role at DAI, your work will make a difference
 feature-text: We invite you to explore our job opportunities

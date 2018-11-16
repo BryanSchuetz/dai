@@ -1,12 +1,15 @@
 ---
 title: Why DAI
-layout: careers
 permalink: "/careers/why-dai"
+layout: careers
 careers: true
-feature-title: Creating a better future for all. 
-feature-text: At the vanguard of international development, DAI combines visionary thinking, technical expertise and superior project management to help make the world a better place.
+feature-title: Creating a better future for all.
+feature-text: At the vanguard of international development, DAI combines visionary
+  thinking, technical expertise and superior project management to help make the world
+  a better place.
 hero-package: why-dai
 ---
+
 <section class="split-three">
 <div class="container ">
 <div class="row">
