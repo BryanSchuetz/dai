@@ -36,6 +36,7 @@ Consortium partners include Afghan firms Afghanistan Holding Group, Afghanistan 
 ![project image](/assets/images/our-work/awle.jpg)
 
 ### Sample Activities
+
 * Strengthen career counseling and job placement services.
 * Facilitate access to market-oriented education, skills training, and work experience for women.
 * Assist businesses that employ women to access market information, finance, and form commercial relationships.
