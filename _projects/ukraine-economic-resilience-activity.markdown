@@ -1,6 +1,6 @@
 ---
 title: Ukraine—Economic Resilience Activity
-date: 2018-11-16 19:43:00 Z
+date: 2018-11-16 14:43:00 Z
 summary: The Economic Resilience Activity is working to strengthen the economy of
   eastern Ukraine in the response to recent regional instability.
 start: 2018
