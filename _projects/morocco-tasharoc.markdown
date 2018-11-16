@@ -1,7 +1,6 @@
 ---
-title: Morocco–TASHAROC
+title: Morocco—TASHAROC
 date: 2018-11-16 20:03:00 Z
-published: false
 summary: TASHAROC works with government and civil society actors in northern Morocco
   to promote inclusive development and reduce political marginalisation and economic
   disenfranchisement.
@@ -23,6 +22,7 @@ Following recent constitutional reforms and a renewed regionalisation agenda in 
 ![TASHAROC.jpg](/uploads/TASHAROC.jpg)
 
 ### Sample Activities
+
 * Build the capacity of TTAH Regional Council and civil society organisations in project management, organisational development, and communications.
 * Support implementation and monitoring of the Regional Development Plan.
 * Facilitate dialogue and collaboration between regional stakeholders, including government institutions, civil society, media outlets, and the private sector. 
