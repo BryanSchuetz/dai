@@ -7,7 +7,7 @@ summary: 'Chris MacDonald is a supply chain management and procurement and contr
   private-sector clients on local content development strategies for DAI’s Sustainable
   Business Group. '
 job-title: Principal Advisor, Sustainable Business Group
-image: "/uploads/Chris_photo_2.jpg"
+image: "/uploads/Chris_MacDonald_Photo.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
