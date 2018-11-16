@@ -1,6 +1,6 @@
 ---
 title: Morocco—TASHAROC
-date: 2018-11-16 20:03:00 Z
+date: 2018-11-16 15:03:00 Z
 summary: TASHAROC works with government and civil society actors in northern Morocco
   to promote inclusive development and reduce political marginalisation and economic
   disenfranchisement.
