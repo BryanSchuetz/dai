@@ -20,6 +20,8 @@ Morocco’s northern region of Tangier-Tétouan-Al Hoceima (TTAH) has been histo
 
 Following recent constitutional reforms and a renewed regionalisation agenda in Morocco, the UK Foreign and Commonwealth Office (FCO) launched the TASHAROC project to strengthen political representation and citizen engagement in the TTAH region. The project provides technical assistance to regional government and civil society actors to promote inclusive development and reduce political marginalisation and economic disenfranchisement in the region.
 
+![TASHAROC.jpg](/uploads/TASHAROC.jpg)
+
 ### Sample Activities
 * Build the capacity of TTAH Regional Council and civil society organisations in project management, organisational development, and communications.
 * Support implementation and monitoring of the Regional Development Plan.
