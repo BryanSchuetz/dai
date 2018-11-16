@@ -10,6 +10,7 @@ solutions:
 - Governance
 - Education
 - Fragile States
+- Education
 regions:
 - Latin America and the Caribbean
 articles:

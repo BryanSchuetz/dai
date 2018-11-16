@@ -10,6 +10,7 @@ solutions:
 - Gender and Social Inclusion
 - Global Health
 - Economic Growth
+- Education
 regions:
 - Latin America and the Caribbean
 - Sub-Saharan Africa

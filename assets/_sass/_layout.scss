@@ -523,8 +523,47 @@ aside{
 .project-detail--solution-link:not(:last-child)::after{
   content: ",";
 }
+
+// CDA Insights
+.insights{
+  @include clearfix;
+  h2{
+    margin-bottom: 1.5rem;
+  }
+  p{
+    color: $emphasis;
+  }
+  div{
+    margin-bottom: 1.5rem;
+    @include clearfix;
+    img{
+      width: 150px; 
+      float: left; 
+      margin-right: 1rem; 
+      border: 0px;
+    }
+  }
+  &.promo{
+    padding-bottom: .5rem;
+    div{
+      margin-bottom: 0px;
+    }
+  }
+}
+
 // 🎌 FORMS 🎌
 
+.campaign-monitor .topic-checks{
+  display: block;
+  float: left;
+  width: 30px;
+  position: relative;
+  top: 2px;
+  @include responsive(medium-screens){
+    top: 5px;
+  }
+  clear: left;
+}
 .campaign-monitor, .formkeep{
   input{
     width: 100%;

@@ -16,6 +16,7 @@ solutions:
 - Governance
 - Decentralization and Local Government Management
 - Voice and Accountability
+- Education
 regions: Sub-Saharan Africa
 country: Malawi
 ---

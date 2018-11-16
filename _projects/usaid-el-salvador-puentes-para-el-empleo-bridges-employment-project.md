@@ -11,6 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Workforce Development and Youth
+- Education
 regions:
 - Latin America and the Caribbean
 country:

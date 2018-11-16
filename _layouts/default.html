@@ -6,14 +6,30 @@
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}
-  <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": true, "setGallerySize": false }'>
+  <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": 5000, "setGallerySize": false }'>
 {% comment %}  <a class="gallery-cell" style="background: url(/uploads/mobilize.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://americaleads.us/action/?p2asource=daiglobal">
   </a>{% endcomment %}
-  <a class="gallery-cell" style="background: url(/uploads/wie-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/afghan-women-re-enter-the-economy-as-workers-business-owners?utm_source=daidotcom">
+  <a class="gallery-cell" style="background: url(/uploads/land-hero-moz.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="https://dai-global-developments.com/articles/beyond-boundaries-how-secure-land-tenure-is-improving-lives-in-rural-tanzania?utm_source=daidotcom">
     <div class="shader">
       <div class="gallery-cell--text">
-        <h2>Afghan Women in the Workplace</h2>
-        <p class="gallery-subhead">USAID supports thousands of female workers and business-owners</p>
+        <h2>Beyond Boundaries</h2>
+        <p class="gallery-subhead">How secure land tenure is improving lives in rural Tanzania</p>
+      </div>
+    </div>
+  </a>
+  <a class="gallery-cell" style="background: url(/uploads/hero-musharikat.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="http://dai-global-developments.com/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream?utm_source=daidotcom">
+    <div class="shader">
+      <div class="gallery-cell--text">
+        <h2>Bands of Sisters</h2>
+        <p class="gallery-subhead">Afghan women take on the issues that matter</p>
+      </div>
+    </div>
+  </a>
+  <a class="gallery-cell" style="background: url(/uploads/kosmos-hero-award.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="https://www.dai.com/news/kosmos-innovation-center-wins-prestigious-2018-p3-impact-award">
+    <div class="shader">
+      <div class="gallery-cell--text">
+        <h2>P3 Impact Award for 2018</h2>
+        <p class="gallery-subhead">Kosmos Innovation Center wins prestigious award</p>
       </div>
     </div>
   </a>
@@ -30,22 +46,6 @@
       <div class="gallery-cell--text">
         <h2>Moving the Needle on Malaria</h2>
         <p class="gallery-subhead">Saving lives and scaling relief for children in Zambia</p>
-      </div>
-    </div>
-  </a>
-  <a class="gallery-cell" style="background: url(/uploads/hpi.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="https://www.dai.com/news/health-partners-international-now-doing-business-as-dai-global-health">
-    <div class="shader">
-      <div class="gallery-cell--text">
-        <h2>DAI Global Health</h2>
-        <p class="gallery-subhead">Health Partners International to operate under the DAI Global Health banner</p>
-      </div>
-    </div>
-  </a>
-  <a class="gallery-cell" style="background: url(/uploads/intrahealth1.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact">
-    <div class="shader">
-      <div class="gallery-cell--text">
-        <h2>DAI and IntraHealth</h2>
-        <p class="gallery-subhead">Joining forces to build a healthier, more livable world</p>
       </div>
     </div>
   </a>
@@ -66,15 +66,9 @@
             </div>
     </a>{% endcomment %}
   </div>
-      {% endif %}
-{% if page.hero and page.url contains "working-dai" %}
-  <div class="hero-wrap working-dai">
-    <div class="node-hero">
-        <h1 class="hero-title">{{page.title}}</h1>
-        <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
-    </div>
-  </div>
-{% elsif page.hero and page.url contains "who-we-are" %}
+  {% endif %}
+{%- comment -%} Check for which section we're in and build the right mini-hero for each one — We don't build one for the Careers section because that happens in the careers layout {%- endcomment -%}
+{% if page.hero and page.url contains "who-we-are" %}
   <div class="hero-wrap who-we-are">
     <div class="node-hero">
         <h1 class="hero-title">{{page.title}}</h1>
@@ -84,8 +78,25 @@
 {% elsif page.hero and page.url contains "our-work" %}
   <div class="hero-wrap our-work">
     <div class="node-hero">
-        <h1 class="hero-title">{% if page.icon %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }} {% if page.url contains "digital-acceleration" %}Center for Digital Acceleration {% else %}{{ solution[0].title }}{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
-        <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}</p>
+    {%- comment -%} This spaggetti of logic is HORRIBLE. Find a way to reduce the complexity here 
+    
+    - if the page a primary solution?
+      |> then show the page icon
+    - if the page is a Solution page AND is NOT a primary Solution page
+      |> then assign to SOLUTION the first site.solution with a title that matches the pages first Solution
+      |> print SOLUTION's icon
+      - if the page is a sub-solution of Digital-Acceleration 
+        |> print 'Center for Digital Acceleration' (this is a workaround that lets us keep the solution title solution like, but still lets their page have the more nuanced name)
+      - else
+        |> print the solutions title 
+    - if the page is Digital-Acceleration
+      |> print 'Center for Digital Acceleration' (we do this again here because the Digital Acceleration solution has a primary page as well as non-primary pages)
+    - if SOLUTION has been populate above
+      |> print the SOLUTION's summary—pull out p tags etc.
+    - if we're on the Global Health primary solution, print a call out to sign up to the newsletter
+     {%- endcomment -%}
+        <h1 class="hero-title">{% if page.type == "primary" %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }}  {% if page.url contains "digital-acceleration" %}Center for Digital Acceleration {% else %}{{ solution[0].title }}{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}</h1>
+        <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}{%if page.title == 'Global Health'%} <br><span style="font-size: .8rem;"><a href="/sign-up">Subscribe</a> to our newsletter for periodic updates from DAI Global Health.</span> {% endif %}</p>
     </div>
   </div>
 {% elsif page.hero and page.url contains "publications" %}

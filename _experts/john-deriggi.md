@@ -5,7 +5,7 @@ lastname: DeRiggi
 summary: 'John DeRiggi is a spatial products developer with 10 years of experience
   in software and data engineering that includes working with Booz Allen, the RAND
   Corporation, and the World Bank. '
-job-title: Principal Software Developer
+job-title: Principal Specialist, Product Development
 image: https://assetify-dai.com/experts/DeRiggiInner.jpg
 solutions:
 - Sustainable Business

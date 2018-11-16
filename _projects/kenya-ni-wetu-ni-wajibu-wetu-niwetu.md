@@ -1,8 +1,8 @@
 ---
 title: Kenya—NiWajibu Wetu (NIWETU)
 date: 2016-01-21 22:40:00 Z
-summary: 'The Kenya Ni Wajibu Wetu (NIWETU) program was launched by the U.S. Agency
-  for International Development to reduce violent extremism among at-risk individuals
+summary: 'The Kenya Ni Wajibu Wetu (NIWETU) program, funded by the U.S. Agency for
+  International Development, works to reduce violent extremism among at-risk individuals
   and communities in hotspots in Kenya. '
 start: 2016
 end: 2020
@@ -14,6 +14,14 @@ regions:
 - Sub-Saharan Africa
 country:
 - Kenya
+promos:
+- title: 'GUIDELINES: Seeking Expressions of Interest (EOIs) for gender-focused countering
+    violent extremism (CVE) grants'
+  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Guidelines%20READ%20THIS%20FIRST.pdf"
+- title: Gender EOI Budget Template
+  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Budget%20Template%20FINAL.xls"
+- title: Gender EOI Technical Template
+  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Technical%20Template.docx"
 layout: project
 ---
 
@@ -28,9 +36,6 @@ In response, the Kenya NiWajibu Wetu (NIWETU) activity was launched by the U.S. 
 ## Sample Activities
 
 * Enhance the capacity of community leaders and groups to work effectively with one another across ethnic and religious lines.
-
 * Help local community organizations to detect early signs of radicalization and address them before they escalate to recruitment.
-
 * Support government officials at the national and local level with P/CVE capacity building.
-
 * Partner with national government stakeholders, such as the National Counter-Terrorism Centre and the Directorate for Peacebuilding and Conflict Management, to build better relationships and trust between communities and the government.

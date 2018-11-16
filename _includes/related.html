@@ -1,191 +1,191 @@
-{% comment %} 🎌 PROJECTS 🎌 {% endcomment %}
+{%- comment -%} 🎌 PROJECTS 🎌 {%- endcomment -%}
 
-{% comment %} Check for the page type, and start the right loop {% endcomment %}
-{% if page.collection == 'projects' %}
-{% comment %} Grab an array of all found_item items—projects for projects, etc. {% endcomment %}
-  {% assign projects = site.projects | where_exp: "project","project.end > 2016"%}
-{% comment %} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {% endcomment %}
-  {% if jekyll.environment == 'prod' %}
-    {% assign shuffled_projects = projects | shuffle %}
-  {% else %}
-    {% assign shuffled_projects = projects %}
-  {% endif %}
-{% comment %} Loop through all the items {% endcomment %}
-  {% for project in shuffled_projects %}
-{% comment %} Loop through all the solutions for each item {% endcomment %}
-    {% for solution in project.solutions %}
-{% comment %} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {% endcomment %}
-      {% if  page.solutions contains solution %}
-{% comment %} Prevent it from picking itself {% endcomment %}
+{%- comment -%} Check for the page type, and start the right loop {%- endcomment -%}
+{%- if page.collection == 'projects' -%}
+{%- comment -%} Grab an array of all found_item items—projects for projects, etc. {%- endcomment -%}
+  {%- assign projects = site.projects | where_exp: "project","project.end > 2016" -%}
+{%- comment -%} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {%- endcomment -%}
+  {%- if jekyll.environment == 'prod' -%}
+    {%- assign shuffled_projects = projects | shuffle -%}
+  {%- else -%}
+    {%- assign shuffled_projects = projects -%}
+  {%- endif -%}
+{%- comment -%} Loop through all the items {%- endcomment -%}
+  {%- for project in shuffled_projects -%}
+{%- comment -%} Loop through all the solutions for each item {%- endcomment -%}
+    {%- for solution in project.solutions -%}
+{%- comment -%} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {%- endcomment -%}
+      {%- if  page.solutions contains solution -%}
+{%- comment -%} Prevent it from picking itself {%- endcomment -%}
 
-        {% if project.url == page.url %}
-          {% break %}
-        {% endif %}
+        {%- if project.url == page.url -%}
+          {%- break -%}
+        {%- endif -%}
 
-        {% assign found_item = project %}
-        {% assign found = 'found' %}
-        {% break %}
-      {% else %}
+        {%- assign found_item = project -%}
+        {%- assign found = 'found' -%}
+        {%- break -%}
+      {%- else -%}
 
-  {% comment %} Once we have one, stop this craziness {% endcomment %}
-        {% if found == 'found' %}
-          {% break %}
-        {% endif %}
+  {%- comment -%} Once we have one, stop this craziness {%- endcomment -%}
+        {%- if found == 'found' -%}
+          {%- break -%}
+        {%- endif -%}
 
-      {% endif %}
+      {%- endif -%}
 
-    {% endfor %}
-  {% endfor %}
+    {%- endfor -%}
+  {%- endfor -%}
 
-  {% unless found == 'found' %}
-{% comment %} If no matching items are found {% endcomment %}
+  {%- unless found == 'found' -%}
+{%- comment -%} If no matching items are found {%- endcomment -%}
 
-    {% if jekyll.environment == 'prod' %}
-      {% assign shuffled_related = site.related | shuffle %}
-    {% else %}
-      {% assign shuffled_related = site.related %}
-    {% endif %}
-    {% for related in shuffled_related limit: 1 %}
-      {% assign found_item = related %}
-    {% endfor %}
-  {% endunless %}
-{% endif %}
+    {%- if jekyll.environment == 'prod' -%}
+      {%- assign shuffled_related = site.related | shuffle -%}
+    {%- else -%}
+      {%- assign shuffled_related = site.related -%}
+    {%- endif -%}
+    {%- for related in shuffled_related limit: 1 -%}
+      {%- assign found_item = related -%}
+    {%- endfor -%}
+  {%- endunless -%}
+{%- endif -%}
 
-{% comment %} 🎌  NEWS 🎌 {% endcomment %}
+{%- comment -%} 🎌  NEWS 🎌 {%- endcomment -%}
 
-{% comment %} Check for the page type, and start the right loop {% endcomment %}
-{% if page.collection == 'news' %}
-{% comment %} Grab an array of all found_item items—projects for projects, etc. {% endcomment %}
-{% assign articles = site.news | reverse %}
-  {% comment %} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {% endcomment %}
-  {% if jekyll.environment == 'prod' %}
-    {% assign articles = site.news | reverse | where_exp: "article", "article.date > site.date "%}
-    {% assign shuffled_articles = articles | shuffle %}
-  {% else %}
-    {% assign shuffled_articles = articles %}
-  {% endif %}
-{% comment %} Loop through all the items {% endcomment %}
-  {% for article in shuffled_articles %}
-{% comment %} Loop through all the solutions for each item {% endcomment %}
-    {% for solution in article.solutions %}
-{% comment %} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {% endcomment %}
-      {% if  page.solutions contains solution %}
-{% comment %} Prevent it from picking itself {% endcomment %}
+{%- comment -%} Check for the page type, and start the right loop {%- endcomment -%}
+{%- if page.collection == 'news' -%}
+{%- comment -%} Grab an array of all found_item items—projects for projects, etc. {%- endcomment -%}
+{%- assign articles = site.news | reverse -%}
+  {%- comment -%} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {%- endcomment -%}
+  {%- if jekyll.environment == 'prod' -%}
+    {%- assign articles = site.news | reverse | where_exp: "article", "article.date > site.date "-%}
+    {%- assign shuffled_articles = articles | shuffle -%}
+  {%- else -%}
+    {%- assign shuffled_articles = articles -%}
+  {%- endif -%}
+{%- comment -%} Loop through all the items {%- endcomment -%}
+  {%- for article in shuffled_articles -%}
+{%- comment -%} Loop through all the solutions for each item {%- endcomment -%}
+    {%- for solution in article.solutions -%}
+{%- comment -%} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {%- endcomment -%}
+      {%- if  page.solutions contains solution -%}
+{%- comment -%} Prevent it from picking itself {%- endcomment -%}
 
-        {% if article.url == page.url %}
-          {% break %}
-        {% endif %}
+        {%- if article.url == page.url -%}
+          {%- break -%}
+        {%- endif -%}
 
-        {% assign found_item = article %}
-        {% assign found = 'found' %}
-        {% break %}
-      {% else %}
+        {%- assign found_item = article -%}
+        {%- assign found = 'found' -%}
+        {%- break -%}
+      {%- else -%}
 
-  {% comment %} Once we have one, stop this craziness {% endcomment %}
-        {% if found == 'found' %}
-          {% break %}
-        {% endif %}
+  {%- comment -%} Once we have one, stop this craziness {%- endcomment -%}
+        {%- if found == 'found' -%}
+          {%- break -%}
+        {%- endif -%}
 
-      {% endif %}
+      {%- endif -%}
 
-    {% endfor %}
-  {% endfor %}
+    {%- endfor -%}
+  {%- endfor -%}
 
-  {% unless found == 'found' %}
-{% comment %} If no matching items are found {% endcomment %}
+  {%- unless found == 'found' -%}
+{%- comment -%} If no matching items are found {%- endcomment -%}
 
-    {% if jekyll.environment == 'prod' %}
-      {% assign shuffled_related = site.related | shuffle %}
-    {% else %}
-      {% assign shuffled_related = site.related %}
-    {% endif %}
-    {% for related in shuffled_related limit: 1 %}
-      {% assign found_item = related %}
-    {% endfor %}
-  {% endunless %}
-{% endif %}
+    {%- if jekyll.environment == 'prod' -%}
+      {%- assign shuffled_related = site.related | shuffle -%}
+    {%- else -%}
+      {%- assign shuffled_related = site.related -%}
+    {%- endif -%}
+    {%- for related in shuffled_related limit: 1 -%}
+      {%- assign found_item = related -%}
+    {%- endfor -%}
+  {%- endunless -%}
+{%- endif -%}
 
-{% comment %} 🎌  Experts 🎌 {% endcomment %}
+{%- comment -%} 🎌  Experts 🎌 {%- endcomment -%}
 
-{% comment %} Check for the page type, and start the right loop {% endcomment %}
-{% if page.collection == 'experts' %}
-{% comment %} Grab an array of all found_item items—projects for projects, etc. {% endcomment %}
-  {% assign experts = site.experts %}
-{% comment %} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {% endcomment %}
-  {% if jekyll.environment == 'prod' %}
-    {% assign shuffled_experts = experts | shuffle %}
-  {% else %}
-    {% assign shuffled_experts = experts %}
-  {% endif %}
-{% comment %} Loop through all the items {% endcomment %}
-  {% for expert in shuffled_experts %}
-{% comment %} Loop through all the solutions for each item {% endcomment %}
-    {% for solution in expert.solutions %}
-{% comment %} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {% endcomment %}
-      {% if  page.solutions contains solution %}
-{% comment %} Prevent it from picking itself {% endcomment %}
+{%- comment -%} Check for the page type, and start the right loop {%- endcomment -%}
+{%- if page.collection == 'experts' -%}
+{%- comment -%} Grab an array of all found_item items—projects for projects, etc. {%- endcomment -%}
+  {%- assign experts = site.experts -%}
+{%- comment -%} Check to see if we are in a production environment, so we can use our shuffle plugin, if not fake shuffle {%- endcomment -%}
+  {%- if jekyll.environment == 'prod' -%}
+    {%- assign shuffled_experts = experts | shuffle -%}
+  {%- else -%}
+    {%- assign shuffled_experts = experts -%}
+  {%- endif -%}
+{%- comment -%} Loop through all the items {%- endcomment -%}
+  {%- for expert in shuffled_experts -%}
+{%- comment -%} Loop through all the solutions for each item {%- endcomment -%}
+    {%- for solution in expert.solutions -%}
+{%- comment -%} Check to see if the current items array of solutions contains the current solution of the current item being looped through from the array of all possible found_item items {%- endcomment -%}
+      {%- if  page.solutions contains solution -%}
+{%- comment -%} Prevent it from picking itself {%- endcomment -%}
 
-        {% if expert.url == page.url %}
-          {% break %}
-        {% endif %}
+        {%- if expert.url == page.url -%}
+          {%- break -%}
+        {%- endif -%}
 
-        {% assign found_item = expert %}
-        {% assign found = 'found' %}
-        {% break %}
-      {% else %}
+        {%- assign found_item = expert -%}
+        {%- assign found = 'found' -%}
+        {%- break -%}
+      {%- else -%}
 
-  {% comment %} Once we have one, stop this craziness {% endcomment %}
-        {% if found == 'found' %}
-          {% break %}
-        {% endif %}
+  {%- comment -%} Once we have one, stop this craziness {%- endcomment -%}
+        {%- if found == 'found' -%}
+          {%- break -%}
+        {%- endif -%}
 
-      {% endif %}
+      {%- endif -%}
 
-    {% endfor %}
-  {% endfor %}
+    {%- endfor -%}
+  {%- endfor -%}
 
-  {% unless found == 'found' %}
-{% comment %} If no matching items are found {% endcomment %}
+  {%- unless found == 'found' -%}
+{%- comment -%} If no matching items are found {%- endcomment -%}
 
-    {% if jekyll.environment == 'prod' %}
-      {% assign shuffled_related = site.related | shuffle %}
-    {% else %}
-      {% assign shuffled_related = site.related %}
-    {% endif %}
-    {% for related in shuffled_related limit: 1 %}
-      {% assign found_item = related %}
-    {% endfor %}
-  {% endunless %}
-{% endif %}
+    {%- if jekyll.environment == 'prod' -%}
+      {%- assign shuffled_related = site.related | shuffle -%}
+    {%- else -%}
+      {%- assign shuffled_related = site.related -%}
+    {%- endif -%}
+    {%- for related in shuffled_related limit: 1 -%}
+      {%- assign found_item = related -%}
+    {%- endfor -%}
+  {%- endunless -%}
+{%- endif -%}
 
-{% unless found == 'found' %}
-{% comment %} If no matching items are found {% endcomment %}
+{%- unless found == 'found' -%}
+{%- comment -%} If no matching items are found {%- endcomment -%}
 
-  {% if jekyll.environment == 'prod' %}
-    {% assign shuffled_related = site.related | shuffle %}
-  {% else %}
-    {% assign shuffled_related = site.related %}
-  {% endif %}
-  {% for related in shuffled_related limit: 1 %}
-    {% assign found_item = related %}
-  {% endfor %}
-{% endunless %}
+  {%- if jekyll.environment == 'prod' -%}
+    {%- assign shuffled_related = site.related | shuffle -%}
+  {%- else -%}
+    {%- assign shuffled_related = site.related -%}
+  {%- endif -%}
+  {%- for related in shuffled_related limit: 1 -%}
+    {%- assign found_item = related -%}
+  {%- endfor -%}
+{%- endunless -%}
 
-{% comment %} found_item box markup {% endcomment %}
+{%- comment -%} found_item box markup {%- endcomment -%}
 <div id="slidebox">
   <a class="close">x</a>
   <p class="title">RELATED CONTENT:</p>
-  {% comment %} show found_item item {% endcomment %}
-  {% if found_item.title %}
+  {%- comment -%} show found_item item {%- endcomment -%}
+  {%- if found_item.title -%}
     <h2><a href="{{ found_item.relatedlink | default: found_item.url}}?related-box">{{ found_item.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
     {{ found_item.summary | markdownify }}
     <a href="{{ found_item.relatedlink | default: found_item.url}}?related-box" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-  {% endif %}
+  {%- endif -%}
 </div>
 
-{% comment %} TODO: prevent pages from linking to themeselves, and account for pages which will find no match {% endcomment %}
+{%- comment -%} TODO: prevent pages from linking to themeselves, and account for pages which will find no match {%- endcomment -%}
 
-{% comment %} found_item box animation  {% endcomment %}
+{%- comment -%} found_item box animation  {%- endcomment -%}
 <script type="text/javascript">
   $(function() {
   	$(window).scroll(function(){

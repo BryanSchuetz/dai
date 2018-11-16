@@ -14,6 +14,7 @@ solutions:
 - Security and Justice
 - Public Financial Management
 - Workforce Development and Youth
+- Education
 Lastname: Lindsay
 ---
 

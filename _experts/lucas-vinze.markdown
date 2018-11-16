@@ -4,7 +4,7 @@ date: 2018-08-03 17:30:00 Z
 lastname: Vinze
 summary: As a Principal Analytics Specialist for DAI’s Sustainable Business Group,
   Lucas Vinze brings extensive experience working with international supply chains.
-job-title: Principal Analytics Specialist, Sustainable Business Group
+job-title: Principal Specialist, Analytics
 image: "/uploads/Vinze_web.jpg"
 solutions:
 - Sustainable Business

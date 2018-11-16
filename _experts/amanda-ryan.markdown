@@ -5,7 +5,7 @@ lastname: Ryan
 summary: Amanda Ryan specializes in local content for the mining and oil and gas industries
   and supports data and policy analysis, project management, and business development
   for DAI’s Sustainable Business Group.
-job-title: Associate Analyst, Sustainable Business Group
+job-title: Analyst
 image: "/uploads/Amanda%20Leigh%20Ryan.jpg"
 solutions:
 - Sustainable Business

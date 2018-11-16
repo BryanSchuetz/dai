@@ -10,6 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Sustainable Livelihoods
+- Education
 regions: Asia and the Pacific
 country: Indonesia
 ---

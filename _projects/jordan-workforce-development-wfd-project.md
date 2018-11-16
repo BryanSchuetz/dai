@@ -19,6 +19,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Institutional and Policy Reform
 - Workforce Development and Youth
+- Education
 regions:
 - Middle East and North Africa
 country:

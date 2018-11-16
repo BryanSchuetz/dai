@@ -2,9 +2,8 @@
 title: Dan Martinko
 date: 2016-01-21 22:18:00 Z
 lastname: Martinko
-summary: Dan Martinko is a Senior Governance Specialist in DAI’s Technical Services
-  Department, providing thought leadership and technical assistance to DAI’s overseas
-  projects and business development efforts.
+summary: Dan Martinko is a Senior Governance Specialist, providing thought leadership
+  and technical assistance to DAI’s overseas projects and business development efforts.
 job-title: Senior Governance Specialist
 image: "/uploads/New%20dan.jpg"
 regions:
@@ -13,6 +12,9 @@ regions:
 - Latin America and the Caribbean
 - Middle East and North Africa
 - Sub-Saharan Africa
+articles:
+- name: The Use of Political Economy Analysis in Health System Strengthening
+  article_file: https://www.hfgproject.org/the-use-of-political-economy-analysis-in-health-system-strengthening/
 layout: expert
 ---
 

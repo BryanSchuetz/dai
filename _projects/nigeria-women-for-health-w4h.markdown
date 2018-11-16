@@ -14,23 +14,17 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-When the Women for Health (W4H) programme began in 2012, women faced a one in nine lifetime risk of maternal death; 19.5 percent and 12.3 percent of deliveries in the North East and North West were attended by a skilled provider, compared to 82 percent in the southeast and southwest. Rural deliveries in the northern part of the country were three times less likely than those in urban areas to be attended by a skilled provider. 
+Nigeria has the highest number of maternal deaths in Sub-Saharan Africa and high rates of under-5 child mortality. These indicators are even more severe in northern Nigeria, where up to 90 percent of pregnant women deliver their babies without a skilled birth attendant. Female health workers are particularly important in the north of the country because social norms in rural communities can prohibit women from receiving care from male health workers.
 
-The U.K. Department for International Development (DFID) is tackling this problem by empowering women as service providers in six states in northern Nigeria through its [Women for Health (W4H)](http://www.women4healthnigeria.org/) programme.
+The U.K. Department for International Development (DFID) is tackling this problem by training women to be service providers in six states in northern Nigeria through its [Women for Health (W4H)](http://www.women4healthnigeria.org/) programme.
 
 Since November 2012, W4H has increased the number and capacity of female health workers in Jigawa, Kano, Katsina, Yobe, and Zamfara, while at the same time contributed to women’s empowerment and gender equality in communities and institutions in the northern region.
 
-This responds to a severe shortage of female health workers in a region where there are social and cultural barriers to women being seen by male health workers.
-
 It is expected that the increased numbers of female health workers will lead to an improvement in women’s access to and use of health services in northern Nigeria and improve Universal Health Coverage (UHC). 
 
-Working closely with, W4H has expanded operations into Borno State as part of the new phase of the program (April 2018-2020).
+W4H works closely with other existing health and education programs in the states to use a “building back better” approach in the conflict- and humanitarian emergency-affected areas in Borno and Yobe states, and ensure sustainability of the progress achieved over the last five years in Jigawa, Kano, Katsina, and Zamfara.
 
-W4H works closely with other existing health and education programs in the states to use a “building back better” approach in the conflict- and humanitarian emergency- affected areas in Borno and Yobe states, and ensure sustainability of the progress achieved over the last five years in Jigawa, Kano, Katsina, and Zamfara.
-
-A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group.
-
-The Women for Health programme is funded with UK aid from the UK Government. The programme is led by DAI Global Health (incorporating  Health Partners International and GRID), in partnership with Save the Children.
+A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), provides technical support to state-level teams, backed by a senior technical advisory group. The programme is led by DAI Global Health (incorporating  Health Partners International and GRID), in partnership with Save the Children. W4H works closely with 22 midwifery, nursing, and community health extension worker training institutions and state ministries of health to support the training of female health workers and their deployment to rural health facilities. 
 
 ![women4health.jpg](/uploads/women4health.jpg)
 
@@ -49,6 +43,7 @@ The Women for Health programme is funded with UK aid from the UK Government. The
 * Increased by more than 6,000 the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation. [Watch these videos ](https://www.youtube.com/watch?v=L5C4HPhIrc8&list=PLNh1_9YTHaV3d3oB3ZR7luGxPW6R6A_NG&index=1)to learn more. 
 * Strengthened management systems and structures of 20 training institutions to provide an appropriate environment for high-quality professional training.
 * Improved female-friendliness of health training institutions by increasing gender sensitivity of staff, constructing female-friendly accommodation, improving security, providing counseling, child care facilities, and increasing the proportion of female tutors and managers.
-* Helped nine schools receive full accreditation and 11 to achieve provisional accreditation.
+* Helped 14 schools receive full accreditation and 11 to achieve provisional accreditation.
 * Constructed 35 houses to accommodate midwives.
-* Helped elevate women to the role of principal at seven of 20 institutions. 
+* Helped elevate women to the role of principal at seven of 20 institutions.
+* Trained 1,074 midwives who are now working in rural areas—a 62 percent increase compared to the start of the program in 2012.  

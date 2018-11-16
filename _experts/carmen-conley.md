@@ -18,10 +18,12 @@ articles:
 - name: Parliamentary Strengthening through the Lens of a Decade of Assistance to
     Pakistan’s National and Provincial Parliaments, U.K. Parliament
   article_file: http://data.parliament.uk/WrittenEvidence/CommitteeEvidence.svc/EvidenceDocument/International%20Development/Parliamentary%20Strengthening/written/13624.html
+- name: The Use of Political Economy Analysis in Health System Strengthening
+  article_file: https://www.hfgproject.org/the-use-of-political-economy-analysis-in-health-system-strengthening/
 layout: expert
 ---
 
-While in graduate school for international development, Carmen Conley was surprised to learn there was an emerging field of international democracy assistance, where she could apply her practical U.S. political experience in campaigns to her development studies. Thus began her five-year career with the National Democratic Institute where she played a supporting role in historic democratic transitions in South Africa, Malawi, and Mozambique, and in the peace process in Angola.
+While in graduate school for international development, Carmen Lane Conley was surprised to learn there was an emerging field of international democracy assistance, where she could apply her practical U.S. political experience in campaigns to her development studies. Thus began her five-year career with the National Democratic Institute where she played a supporting role in historic democratic transitions in South Africa, Malawi, and Mozambique, and in the peace process in Angola.
 
 > "Of the many great things about working for DAI is the great sense of team work, the ability to work across technical areas, and the opportunity to work long-term in the field and bring that knowledge and expertise back to the home office." — Carmen Conley
 

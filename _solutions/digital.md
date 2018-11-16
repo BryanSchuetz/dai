@@ -13,7 +13,7 @@ promos:
   link: "/who-we-are/the-team?filter=digital-acceleration"
 - title: "**Our Work:** Digital Acceleration Projects"
   link: "/our-work/the-projects?filter=digital-acceleration"
-- title: "**News:** Recent DigitalAcceleration  News"
+- title: "**News:** Recent DigitalAcceleration News"
   link: "/news/view-more-news?filter=digital-acceleration"
 - title: Digital Blog
   link: https://dai-global-digital.com?utm_source=daidotcom
@@ -24,11 +24,21 @@ layout: solution
 
 ## About the CDA
 
-The Center for Digital Acceleration helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results. We use this foundation to support client decision-making and to build customized digital tools and solutions, from custom web and data applications to technology-driven projects around the globe. Our work covers a cross section of sectors including health, governance, agriculture, and economic growth. 
+The Center for Digital Acceleration helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results. 
 
-<br />
-<aside><p style="text-align: center;"><strong>To find our latest insights, stories, and data analysis visit our blog:</strong></p><p><a href="https://dai-global-digital.com?utm_source=daidotcom"> <img src="/uploads/digital-banner.jpg" alt=""></a></p></aside><br />
- 
+<br>
+<aside class="insights promo">
+  <div>
+    <a href="/hcd.pdf">
+      <img src="/uploads/cybersecurity-thumb.png" alt="">
+      <h3>CDA Insights</h3>
+    </a>
+    <a href="/our-work/solutions/digital-acceleration-solutions/cda-insights" target="blank" class="primary-block--button expert-button">White Papers & Publications <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+</aside>
+<br>
+
+We use this foundation to support client decision-making and to build customized digital tools and solutions, from custom web and data applications to technology-driven projects around the globe. Our work covers a cross section of sectors including health, governance, agriculture, and economic growth. 
 
 ## Our Solutions
 

@@ -4,7 +4,7 @@ date: 2018-08-03 17:25:00 Z
 lastname: 'Hamid '
 summary: As part of DAI’s Sustainable Business Group, Haaniah Hamid provides technical
   and development support for the Local Content Plan and Reporting platform.
-job-title: Associate Analyst, Sustainable Business Group
+job-title: Associate Analyst
 image: "/uploads/20180713_163334.jpg"
 solutions:
 - Sustainable Business

@@ -14,6 +14,7 @@ solutions:
 - Data for Decisions
 - Technology Research and Development
 - Digital Trainings
+- Education
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean

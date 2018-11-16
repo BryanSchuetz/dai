@@ -13,6 +13,7 @@ solutions:
 - Security and Justice
 - Peace-Building and Political Transition
 - Stabilization
+- Education
 regions:
 - Sub-Saharan Africa
 country:

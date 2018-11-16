@@ -1,6 +1,7 @@
 ---
 title: Olga Dzharimbetova
 date: 2017-03-30 12:37:00 Z
+published: false
 lastname: Dzharimbetova
 summary: 'Olga Dzharimbetova brings strong analytical skills and sector knowledge
   to support the build out of sustainability and local content solutions for partners
@@ -8,9 +9,9 @@ summary: 'Olga Dzharimbetova brings strong analytical skills and sector knowledg
 job-title: Senior Analyst
 image: "/uploads/Olga%20mug.jpg"
 solutions:
-- Sustainable Business
-- Local Content and Supply Chain Management
-- Social Strategy
+- Include Primary and/or Secondary Solutions
+- 
+- 
 - 
 ---
 
