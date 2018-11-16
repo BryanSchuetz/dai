@@ -49,3 +49,4 @@ Consortium partners include Afghan firms Afghanistan Holding Group, Afghanistan 
 * Awarded 1,300 women scholarships to train in areas such as finance and banking, information technology, and retail sales.
 * Provided 25,000 hours of job readiness training nationwide for 1,600 young women.
 * Facilitated 157 small loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000. 
+* Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue.
