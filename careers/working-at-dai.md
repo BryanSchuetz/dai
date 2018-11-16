@@ -1,9 +1,10 @@
 ---
 title: Working at DAI
-layout: default
 permalink: "/careers/working-at-dai"
+layout: default
 careers: true
 ---
+
 <section class="hero--home">
     <div class="container">
         <div class="row">

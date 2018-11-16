@@ -1,12 +1,17 @@
 ---
 title: DAI People
-layout: careers
 permalink: "/careers/dai-people"
+layout: careers
 careers: true
-feature-title: DAI employs talented professionals all over the world in support of our mission.
-feature-text: In DAI’s corporate offices and on our projects across the globe, DAI staff work in technical roles, project management and implementation, contracts management, business development, finance, human resources, IT, procurement, monitoring and evaluation, and communications. 
+feature-title: DAI employs talented professionals all over the world in support of
+  our mission.
+feature-text: In DAI’s corporate offices and on our projects across the globe, DAI
+  staff work in technical roles, project management and implementation, contracts
+  management, business development, finance, human resources, IT, procurement, monitoring
+  and evaluation, and communications.
 hero-package: dai-people
 ---
+
 <section class="people" id="technical">
     <div class="container">
 

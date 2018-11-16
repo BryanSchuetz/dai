@@ -1,12 +1,13 @@
 ---
 title: Benefits
-layout: careers
 permalink: "/careers/benefits"
+layout: careers
 careers: true
 feature-title: Caring for DAI Families
 feature-text: Shaping a more livable world begins at hoem
 hero-package: benefits
 ---
+
 <section class="split-three"> 
     <div class="container with-quote">
         <div class="row">

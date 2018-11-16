@@ -1,9 +1,10 @@
 ---
 title: Search
-layout: default
 permalink: "/careers/search"
+layout: default
 careers: true
 ---
+
 <section class="hero--search">
   <div class="container">
     <div class="row">
