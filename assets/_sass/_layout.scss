@@ -752,22 +752,18 @@ footer{
     padding-left: none;
   }
 }
-.footer-nav:nth-child(5){
+.footer-nav.working{
   margin-right: 0px;
 }
-.footer-nav:nth-child(3){
+.footer-nav.stories{
   display: none;
   @include responsive(wide-screens){
     margin-right: $gutter;
     display: block;
   }
 }
-.footer-nav.working{
-  margin-right: 0;
-  float: right;
-}
 .footer-nav.news{
-  margin-left: $gutter;
+  text-align: right;
 }
 // 🎌 FOOTER: BOTTOM 🎌
 
@@ -806,7 +802,6 @@ footer{
     //   height: 115px;
     //   width: 192px;
     // }
-    margin-right: $gutter;
   }
   .footer-bottom-links{
     float: right;
