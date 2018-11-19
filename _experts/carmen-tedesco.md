@@ -5,7 +5,7 @@ lastname: Tedesco
 summary: Carmen Tedesco is the Technology Manager for DAI’s Managing for Development
   Results team, focusing on developing data systems.
 job-title: Technology Manager and GIS Specialist, Managing for Development Results
-image: https://assetify-dai.com/experts/carmen_inner.jpg
+image: "/uploads/Carmen%20Tedesco.jpg"
 solutions:
 - Environment and Energy
 - Digital Acceleration
