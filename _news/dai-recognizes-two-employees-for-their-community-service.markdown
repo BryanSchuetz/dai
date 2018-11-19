@@ -1,7 +1,6 @@
 ---
 title: DAI Recognizes Two Employees for Their Community Service
 date: 2018-11-16 07:46:00 Z
-published: false
 summary: 'DAI is delighted to announce this year’s winners of the David H. Gunning
   Award for Community Service: Sajina Thapa, a Human Resources Officer on the Paani
   program in Nepal, and Modeline Acréus, an Infrastructure Program Coordinator for
