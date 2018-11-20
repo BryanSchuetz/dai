@@ -253,6 +253,12 @@ h2.solution-title svg{
   width: 1.3rem;
   top: .12rem;
 }
+.hero-title--link{
+  color: $text-white;
+  &:hover{
+    color: darken($text-white, 20%);
+  }
+}
 
 // 🎌 LEADERS 🎌
 .leaders-details p{
