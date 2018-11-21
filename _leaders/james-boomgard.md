@@ -13,7 +13,7 @@ Jim Boomgard has worked at the forefront of economic development issues for more
 
 ![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
 
-Beginning in the early 1990s, Jim assumed progressively responsible roles at DAI, including serving as Senior Vice President of Business Development, Chief Operating Officer, and President. When he was unanimously elected Chief Executive Officer in 2009, he became only the fourth CEO in DAI’s 41-year history.
+Beginning in the early 1990s, Jim assumed progressively responsible roles at DAI, including serving as Senior Vice President of Business Development, Chief Operating Officer, and President. When he was elected Chief Executive Officer in 2009, he became only the fourth CEO in DAI’s 41-year history.
 
 An economist by training, Jim is a leading development thinker in the areas of private sector, enterprise, and financial sector development; microfinance; and agriculture and agribusiness.
 
