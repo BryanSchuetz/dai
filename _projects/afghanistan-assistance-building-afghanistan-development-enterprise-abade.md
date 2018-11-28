@@ -18,9 +18,9 @@ country:
 layout: project
 ---
 
-ABADE aims to increase domestic and foreign investment, stimulate employment, and improve sales of Afghan products. By funding Afghan businesses that have viable plans and matching funds, ABADE helps these businesses mitigate the financial risk inherent to investing, expanding, and innovating.
+ABADE worked to increase domestic and foreign investment, stimulate employment, and improve sales of Afghan products. By funding Afghan businesses that have viable plans and matching funds, ABADE helped these businesses mitigate the financial risk inherent to investing, expanding, and innovating.
 
-[ABADE][1] has three components: 1) awarding and managing grants to small and medium businesses and business alliances to support effective planning and innovative ideas, 2) providing technical assistance and business advice, and 3) improving the business enabling environment. Working under a subcontract to IESC, DAI leads the[ third component ][2]by addressing regulatory and procedural barriers, particularly those identified by our partner businesses and alliances.
+[ABADE][1] had three components: 1) awarding and managing grants to small and medium businesses and business alliances to support effective planning and innovative ideas, 2) providing technical assistance and business advice, and 3) improving the business enabling environment. Working under a subcontract to IESC, DAI lead the[ third component ][2]by addressing regulatory and procedural barriers, particularly those identified by our partner businesses and alliances.
 
 ###  Sample Activities
 
