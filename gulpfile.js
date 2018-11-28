@@ -36,5 +36,5 @@ gulp.task('compress', function(){
 
 // grab new content from the pubs and digital sites
 gulp.task('aggregate', shell.task([
-  'curl http://dai-global-developments.com/pubs.yml --output _data/pubs.yml && curl https://dai-global-digital.com/digital.yml --output _data/digital.yml'
+  'curl https://dai-global-developments.com/pubs.yml --output _data/pubs.yml && curl https://dai-global-digital.com/digital.yml --output _data/digital.yml'
 ]))
