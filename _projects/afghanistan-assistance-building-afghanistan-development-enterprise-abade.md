@@ -30,7 +30,7 @@ ABADE worked to increase domestic and foreign investment, stimulate employment, 
 ### Select Results
 
 * Worked with Ministry of Commerce and Industry and private sector stakeholders to create action plans in six priority sectors, including marble product production, carpet production, women-owned small firms, gemstones and jewelry, construction materials production, and agribusiness.
-* ABADE alliance partners created 17,777 full-time equivalent jobs. In addition, 268 firms improved their management practices as a result of the program. 
+* Helped design and develop a web-based information system for communicating with stakeholders and reporting on the status of action plan implementation. 
 
 [1]: http://www.abade.org/
 [2]: http://www.usaid.gov/results-data/success-stories/afghan-carpets-brush-sales
