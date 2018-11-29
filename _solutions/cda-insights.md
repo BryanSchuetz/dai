@@ -17,15 +17,15 @@ hero: true
       <h3>LEAN HCD</h3>
       <p>A case study in human-centered design in the highlands of Guatemala.</p>
     </a>
-    <a href="/hcd.pdf" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+    <a href="/hcd.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
   <div style="clear: left;"> 
     <a href="/cda-cybersecurity.pdf">
       <img src="/uploads/cybersecurity-thumb.png" alt="">
       <h3>Digital Inclusion and a Trusted Interenet</h3>
-      <p>The Role of the international development community in balancing internet access and cybersecurity.</p>
+      <p>The role of the international development community in balancing internet access and cybersecurity.</p>
     </a>
-    <a href="/cda-cybersecurity.pdf" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+    <a href="/cda-cybersecurity.pdf" target="blank" class="primary-block--button expert-button" style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
 </div>
 <br />

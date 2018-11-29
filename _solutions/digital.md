@@ -32,8 +32,9 @@ The Center for Digital Acceleration helps our clients—businesses, governments,
     <a href="/hcd.pdf">
       <img src="/uploads/cybersecurity-thumb.png" alt="">
       <h3>CDA Insights</h3>
+      <p>Read white papers and reports published by the CDA—including <em>Digital Inclusion and a Trusted Internet</em> and <em>Lean HCD</em>.</p>
     </a>
-    <a href="/our-work/solutions/digital-acceleration-solutions/cda-insights" target="blank" class="primary-block--button expert-button">White Papers & Publications <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+    <a href="/our-work/solutions/digital-acceleration-solutions/cda-insights" target="blank" class="primary-block--button expert-button" style="clear: left;margin-bottom: 1rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
 </aside>
 <br>
