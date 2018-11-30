@@ -1,11 +1,9 @@
 ---
 title: Honduras—ProParque; Gobernanza en Ecosistemas, Medios de Vida, y Agua (GEMA)
 date: 2016-01-21 22:40:00 Z
-summary: Honduras and its Bay Islands offer unparalleled natural wonders—stunning
-  coral reefs, mangroves, rainforests, cloud forests, mountain ranges, and an abundance
-  of endemic plant and animal species. However, insufficient environmental protection
-  and unchecked deterioration of natural resources threatens the future of these important
-  and fragile ecosystems.
+summary: GEMA is working in western Honduras to further improve natural conservation
+  policies; develop opportunities for inclusive, environmentally sustainable economic
+  growth; and promote a more climate-informed and resilient civil society in Honduras.
 start: 2016
 end: 2021
 client: U.S. Agency for International Development
