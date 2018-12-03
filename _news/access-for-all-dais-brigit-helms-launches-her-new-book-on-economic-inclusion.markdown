@@ -11,7 +11,7 @@ social-image: "/uploads/Screen%20Shot%202018-12-03%20at%203.03.58%20PM.png"
 
 Despite declining global poverty levels in recent decades, persistent extreme poverty in certain regions and glaring inequality between and within countries means that inclusive economic development remains a critical priority worldwide. Traditionally, this task has been the domain of governments, international donor agencies, philanthropists, and the development community, but the landscape is changing rapidly.
 
-![Screen Shot 2018-12-03 at 3.03.58 PM-5479a1.png](/uploads/Screen%20Shot%202018-12-03%20at%203.03.58%20PM-5479a1.png) 
+![Screen Shot 2018-12-03 at 3.03.58 PM-5479a1.png](/uploads/Screen%20Shot%202018-12-03%20at%203.03.58%20PM-5479a1.png){:.float-left style="width: 35%;"} 
 
 Today, a wider range of players—millennials, institutional investors, corporates, and others—are seeking to promote more inclusive economic growth, in part by pursuing profit with purpose. The Sustainable Development Goals offer a focal point and an ambitious timeline—eradicating extreme poverty by 2030—for these new actors to get involved and for existing donors to revise their frameworks. 
 
