@@ -1,5 +1,5 @@
 ---
-title: Journal Article by DAI Global Health, EcoHealth Alliance Describes Global Agreement
+title: Journal Article by DAI Global Health, EcoHealth Alliance Describes New Consensus
   to Pursue One Health Approaches
 date: 2018-12-04 15:01:00 Z
 solutions:
