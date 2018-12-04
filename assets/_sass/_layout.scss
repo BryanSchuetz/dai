@@ -739,9 +739,6 @@ footer{
   @include responsive(ultra-wide-screens){
     @include width(2.4);
   }
-  @include responsive(extra-ultra-wide-screens){
-    @include width(2.8);
-  }
   float: left;
   margin-right: $gutter;
   ul{
@@ -750,6 +747,11 @@ footer{
   li{
     list-style-type: none;
     padding-left: none;
+  }
+}
+.country .footer-nav, .promos .footer-nav{
+  @include responsive(extra-ultra-wide-screens){
+    @include width(2.8);
   }
 }
 .footer-nav.working{

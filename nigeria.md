@@ -10,7 +10,7 @@ summary: Nigeria is Africa’s most populous nation and largest economy, a count
 hero: true
 regions: Sub-Saharan Africa
 related: true
-country: true
+country-page: true
 redirect_from: "/nigeria"
 layout: node
 ---
