@@ -13,7 +13,7 @@ DAI today announced that [Brigit Helms](https://www.dai.com/who-we-are/our-team/
 
 <!--more-->
 
-![Brigit-Helms-v2.jpg](/uploads/Brigit-Helms-v2.jpg)
+![Brigit-Helms-v2.jpg](/uploads/Brigit-Helms-v2.jpg){:.float-left}
 
 Helms has 30 years of experience in international development, with a focus on delivering innovative, market-based solutions to complex development problems. She has worked and lived in more than 35 countries in Africa, Asia, and Latin America. She is known as a skilled facilitator and avid student of the latest thinking on teamwork and organizational transformation.
 
