@@ -5,6 +5,8 @@ date: 2018-12-04 15:01:00 Z
 solutions:
 - Global Health
 - Governance
+regions: Worldwide
+projects: Worldwide—Preparedness and Response (P&R)
 clients: U.S. Agency for International Development
 summary: A new article in the peer-reviewed journal *Health Security*  describes ways
   the World Health Organization, Food and Agriculture Organization, World Organisation
