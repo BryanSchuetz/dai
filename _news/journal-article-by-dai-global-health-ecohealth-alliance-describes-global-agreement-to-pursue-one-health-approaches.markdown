@@ -16,8 +16,8 @@ Leading development organizations and donors have agreed to collectively pursue 
 
 <!--more-->
 
-![Robert-Salerno-a4cb08.jpg](/uploads/Robert-Salerno-a4cb08.jpg){:.float-left}
-
+![Robert-Salerno-a4cb08.jpg](/uploads/Robert-Salerno-a4cb08.jpg)
+{:.float-left}
 
 Catherine C. Machalaba of New York-based EcoHealth Alliance and [Robert Salerno](https://www.dai.com/who-we-are/our-team/robert-salerno) of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) co-authored “[Institutionalizing One Health: From Assessment to Action](https://www.liebertpub.com/doi/abs/10.1089/hs.2018.0064),” which points to 22 examples of separate frameworks and planning and assessment tools, each to help countries improve their One Health-related institutions but which have experienced limited uptake. “We all want deadly diseases to be quickly identified and contained and while we have made good progress, we need to continue to share knowledge and work together,” said Salerno, photo left, who chaired the session at the [2018 Prince Mahidol Award Conference](http://pmac2018.com/site/home) in Bangkok where the One Health consensus was reached. “Collectively, we know a lot about how diseases such as Ebola and avian influenza originate, how they are spread, and how to build the capacity of countries to prepare for such outbreaks. This article advocates sharing and leveraging our collective knowledge and also describes some of our experiences and recommendations.”
 
