@@ -2,7 +2,14 @@
 title: Journal Article by DAI Global Health, EcoHealth Alliance Describes Global Agreement
   to Pursue One Health Approaches
 date: 2018-12-04 15:01:00 Z
-published: false
+solutions:
+- Global Health
+- Governance
+clients: U.S. Agency for International Development
+summary: A new article in the peer-reviewed journal *Health Security*  describes ways
+  the World Health Organization, Food and Agriculture Organization, World Organisation
+  for Animal Health, and others can work in synergy toward the containment of emerging
+  and endemic diseases.
 ---
 
 Leading development organizations and donors have agreed to collectively pursue One Health approaches deemed essential to increasing health security at country, regional, and global levels. These approaches call for coordination of experts in human and animal health, the environment, and disaster risk-reduction working together to prevent, detect, and respond to deadly diseases. A new article in the peer-reviewed journal *Health Security* further describes ways the World Health Organization, Food and Agriculture Organization, World Organisation for Animal Health, and others can work in synergy and share information, lessons learned, and opportunities toward the containment of emerging and endemic diseases.
@@ -20,4 +27,4 @@ Global actions envisioned and described in the article include:
 * Investment in and promotion of ‘‘whole of society’’ approaches by establishing and strengthening relationships between health and non-health sectors.
 * Building workforce in relevant fields, including in health, agriculture, food production, and environment sectors, that demonstrates the core competencies necessary to meet the future challenges posed by these emerging threats.
 
-To read the entire article, which was endorsed by 15 contributing authors representing 12 organizations, click here.
+To read the entire article, which was endorsed by 15 contributing authors representing 12 organizations, [click here](https://www.liebertpub.com/doi/full/10.1089/hs.2018.0064).
