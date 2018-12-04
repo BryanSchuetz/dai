@@ -1,6 +1,6 @@
 ---
-title: Journal Article Co-Authored by DAI Global Health Describes New Consensus to
-  Pursue One Health Approaches
+title: 'Institutionalizing One Health: DAI Global Health''s Rob Salerno on Turning
+  Consensus into Action'
 date: 2018-12-04 15:01:00 Z
 solutions:
 - Global Health
