@@ -17,7 +17,7 @@ country: 'Nigeria '
 
 The Integrated Approach to Neglected Tropical Diseases (UNITED) programme supports the Nigerian government in controlling seven neglected tropical diseases (NTD)—blinding trachoma, bilharzia, elephantiasis, river blindness, hookworm, whipworm, and roundworm.
 
-The targeted NTDs are preventable with proven, cost-effective interventions, such as mass drug administration, which involves distributing four drugs once or twice a year to everyone in a community to prevent the seven diseases. As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach is used, in which drugs for different diseases are administered at the same time. The UNITED programme has reached 13.8 million people with annual mass treatment to reduce illness, and distributed more than 110 million treatments in northern states of Kano, Katsina, Zamfara, Kaduna, and Niger.
+The targeted NTDs are preventable with proven, cost-effective interventions, such as mass drug administration, which involves distributing four drugs once or twice a year to everyone in a community to prevent the seven diseases. As many of the NTDs are tackled using similar community mechanisms, an integrated programme implementation approach is used, in which drugs for different diseases are administered at the same time. The UNITED programme has reached 39 million people with annual mass treatment to reduce illness, and distributed more than 110 million treatments in northern states of Kano, Katsina, Zamfara, Kaduna, and Niger.
 
 ![Devs----Nigeria-UNITED-5.jpg](/uploads/Devs----Nigeria-UNITED-5.jpg)`Presenting the master plan for Kaduna State, Nigeria, to address neglected tropical diseases.` 
 
