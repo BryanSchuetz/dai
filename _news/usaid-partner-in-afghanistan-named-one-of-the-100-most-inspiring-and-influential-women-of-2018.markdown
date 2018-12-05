@@ -3,9 +3,24 @@ title: USAID Partner in Afghanistan Named One of the 100 Most Inspiring and Infl
   Women of 2018
 date: 2018-12-05 17:53:00 Z
 published: false
+solutions:
+- Stability
+- Gender and Social Inclusion
+regions: Middle East and North Africa
+projects: Afghanistan—Musharikat
+clients: U.S. Agency for International Development
+summary: Nargis Taraki of Afghanistan gained wide recognition for her recent speech
+  at Kabul University, proclaiming “No man has the right to take away your identity
+  as a woman.” The 21-year-old, a member of Afghanistan’s Musharikat civil society
+  network for women’s rights and inclusion, was recently named one of the BBC’s “[100
+  Most Inspiring and Influential Women of 2018](https://www.bbc.com/news/world-46225037).”
+  The BBC published an [article](https://www.bbc.com/news/world-asia-46370981) about
+  Taraki on December 1.
 ---
 
 Nargis Taraki of Afghanistan gained wide recognition for her recent speech at Kabul University, proclaiming “No man has the right to take away your identity as a woman.” The 21-year-old, a member of Afghanistan’s Musharikat civil society network for women’s rights and inclusion, was recently named one of the BBC’s “[100 Most Inspiring and Influential Women of 2018](https://www.bbc.com/news/world-46225037).” The BBC published an [article](https://www.bbc.com/news/world-asia-46370981) about Taraki on December 1.
+
+![DAI-News----Musharikat-Nargis.jpg](/uploads/DAI-News----Musharikat-Nargis.jpg)`Nargis Taraki presenting at the Forward Together Shaping Lives event at Kabul University. Photo: Forward Together Afghanistan Facebook 
 
 Taraki is active in the Access to the Economy Coalition, one of eight coalitions supported by [Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat), an assistance program funded by the U.S. Agency for International Development and implemented by DAI. When she was born the fifth daughter to her parents, “My parents were told to swap me for a boy,” said Taraki, noting a male baby’s higher value in the eyes of many Afghan parents. But Taraki was encouraged by her father’s support and grew up to become an advocate for women in Afghanistan.
 
