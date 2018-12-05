@@ -26,7 +26,7 @@ Taraki is active in the Access to the Economy Coalition, one of eight coalitions
 
 <!--more-->
 
-![DAI-News----Nargis-2.jpg](/uploads/DAI-News----Nargis-2.jpg)`Photo: @TarakiNargis`
+![DAI-News----Nargis-2.jpg](/uploads/DAI-News----Nargis-2.jpg)`Nargis Taraki`
 {:.float-left}
 
 As a member of the Access to the Economy Coalition, Taraki advocates for better working conditions for women in government buildings. She earlier worked for an organization that coordinated with the Ghazni governor’s office to develop supportive guidelines for women’s employment. On November 7, Musharikat’s partner program in USAID/Afghanistan’s [Promote](https://www.usaid.gov/afghanistan/promote/) portfolio, [Women in the Economy](https://www.dai.com/our-work/projects/afghanistan-women-in-the-economy), together with subcontractor Rumi Consultancy supported the Forward Together Shaping Lives TEDx style talk show at Kabul University, where 11 women, including Taraki, presented their stories and explained how their inclusion into civil society and the economy shaped their lives for the better.
