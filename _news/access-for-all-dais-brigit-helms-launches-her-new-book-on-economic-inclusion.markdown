@@ -11,7 +11,7 @@ summary: 'Brigit Helms'' latest book, *Access for All: Building Inclusive Econom
 social-image: "/uploads/Screen%20Shot%202018-12-03%20at%203.03.58%20PM.png"
 ---
 
-![Screen Shot 2018-12-03 at 3.03.58 PM-5479a1.png](/uploads/Screen%20Shot%202018-12-03%20at%203.03.58%20PM-5479a1.png){:.float-left} Despite declining global poverty levels in recent decades, persistent extreme poverty in certain regions and glaring inequality between and within countries means that inclusive economic development remains a critical priority worldwide. Traditionally, this task has been the domain of governments, international donor agencies, philanthropists, and the development community, but the landscape is changing rapidly.
+Despite declining global poverty levels in recent decades, persistent extreme poverty in certain regions and glaring inequality between and within countries means that inclusive economic development remains a critical priority worldwide. Traditionally, this task has been the domain of governments, international donor agencies, philanthropists, and the development community, but the landscape is changing rapidly.
 
 <!--more-->
 
