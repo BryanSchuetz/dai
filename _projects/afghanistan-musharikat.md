@@ -36,9 +36,9 @@ Musharikat supports USAID Afghanistan's investments in women's rights groups and
 
 ### Select Results
 
-* Established six issue-based coalitions: Violence Against Women, Access to Education, Access to Economic Opportunities, Women’s Political Participation, Access to Justice, and Access to Healthcare.
-* Recruited 207 civil society organization (CSO) members and 1,897 individual members to join the coalitions.
-* Launched advocacy campaigns for the six Musharikat coalitions at national and regional levels.
+* Established eight issue-based coalitions: Violence Against Women, Access to Education, Access to Economic Opportunities, Women’s Political Participation, Access to Justice, Access to Healthcare, Women in the Peace Process, and Anti-Harassment of Women and Girls.
+* Recruited 330 civil society organization (CSO) members and 2,200 individual members to join the coalitions.
+* Launched advocacy campaigns for the eight Musharikat coalitions at national and regional levels.
 * Conducted two national summits where key Afghan government officials and civil society stakeholders confirmed commitment to work with Musharikat coalitions on policies identified in the advocacy campaign plans.
 * Established a virtual information exchange and communications platform—the Musharikat Knowledge Management Platform—for coalition members.
 * Awarded and successfully completed 31 advocacy grants to Afghan CSOs—many of which operate in remote and marginalized communities—to raise awareness about women’s rights and advocate for change at the sub-national level.
