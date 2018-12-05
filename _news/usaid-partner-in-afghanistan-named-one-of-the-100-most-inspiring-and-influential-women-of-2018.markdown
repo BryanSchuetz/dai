@@ -2,7 +2,6 @@
 title: USAID Partner in Afghanistan Named One of the 100 Most Inspiring and Influential
   Women of 2018
 date: 2018-12-05 17:53:00 Z
-published: false
 solutions:
 - Stability
 - Gender and Social Inclusion
