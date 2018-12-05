@@ -7,9 +7,9 @@ start: 2015
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Gender
-- Governance
-- Fragile States
+- Include Primary and/or Secondary Solutions
+- 
+- Gender and Social Inclusion
 - Transition and Stabilization Programming
 - Voice and Accountability
 - Security and Justice
