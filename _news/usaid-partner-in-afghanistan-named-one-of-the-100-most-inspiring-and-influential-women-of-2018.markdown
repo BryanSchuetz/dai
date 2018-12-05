@@ -18,7 +18,7 @@ summary: Nargis Taraki of Afghanistan gained wide recognition for her recent spe
   Taraki on December 1.
 ---
 
-Nargis Taraki of Afghanistan gained wide recognition for her recent speech at Kabul University, proclaiming “No man has the right to take away your identity as a woman.” The 21-year-old, a member of Afghanistan’s Musharikat civil society network for women’s rights and inclusion, was recently named one of the BBC’s “[100 Most Inspiring and Influential Women of 2018](https://www.bbc.com/news/world-46225037).” The BBC published an [article](https://www.bbc.com/news/world-asia-46370981) about Taraki on December 1.
+Nargis Taraki of Afghanistan gained wide recognition for her recent speech at Kabul University, proclaiming “no man has the right to take away your identity as a woman.” The 21-year-old, a member of Afghanistan’s Musharikat civil society network for women’s rights and inclusion, was recently named one of the BBC’s “[100 Most Inspiring and Influential Women of 2018](https://www.bbc.com/news/world-46225037).” The BBC published an [article](https://www.bbc.com/news/world-asia-46370981) about Taraki on December 1.
 
 ![DAI-News----Musharikat-Nargis.jpg](/uploads/DAI-News----Musharikat-Nargis.jpg)`Nargis Taraki presenting at the Forward Together event at Kabul University. Photo: USAID/Afghanistan Promote: Women in the Economy`
 
