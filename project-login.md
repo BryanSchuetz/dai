@@ -58,7 +58,7 @@ Our Technical and Administrative Management Information System (TAMIS) is a comp
 			
 		</ul><p><strong>Palestine</strong></p>
 		<ul class="tamisLinks"><li>
-				<a href="https://ramallah.dai.com/dai/palestinecompetitivenesstamis.nsf">The Compete Project</a></li>
+				<a href="https://apps1.dai.com/projects/palestine/palestinecompetitivenesstamis.nsf">The Compete Project</a></li>
 		</ul><hr style="border-bottom: 1px solid #CFD0D0; border-top:none;"></div>
 	<h3>
 		Worldwide/Regional</h3>
