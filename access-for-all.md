@@ -8,13 +8,13 @@ layout: default
 
 <aside> A <a href="https://www.amazon.com/dp/1732704007/ref=sr_1_5?s=books&ie=UTF8&qid=1542119152&sr=1-5">new book</a> by <a href="/who-we-are/our-team/brigit-helms">Brigit Helms</a>, now available at Amazon</aside>
 
-<img src="/uploads/access-for-all-cover.jpg" class="float-left">
-
 Promoting inclusive economic development has become a top priority worldwide. This goal remains the domain of governments, international donor agencies, and philanthropists. But the landscape is changing rapidly. Today, a wider range of players seek profit with purpose, including millennials, institutional investors, and corporates. The Sustainable Development Goals (SDGs), designed to end poverty, save the planet, and ensure prosperity by 2030, offer a focal point for new players to get involved and for existing donors to revise their frameworks. None of these actors, traditional or new, can achieve truly inclusive economic systems on their own. Success will demand collaboration, often among uneasy bedfellows. It cannot be business as usual.
 
 The good news is that the past quarter century has ushered more than a billion people out of poverty. This achievement—the result of human ingenuity, resilience, and enterprise—gives reason for optimism. 
 
 The bad news is that too many people remain excluded. When women, youth, small farmers, urban slum dwellers, refugees, indigenous peoples, and others are left out of the economy, everybody loses. The excluded cannot contribute to the economy as consumers nor as workers. 
+
+<iframe src="https://player.vimeo.com/video/304715051" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <a href="/uploads/access-for-all-summary.pdf" class="primary-block--button contacts-button">
 Read the Executive Summary<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
