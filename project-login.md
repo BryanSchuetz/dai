@@ -50,14 +50,12 @@ Our Technical and Administrative Management Information System (TAMIS) is a comp
 			<li>
 				<a href="https://apps1.dai.com/projects/morocco/MorSEFF.nsf/">Morocco Sustainable Energy Financing Facility Project (MorSEFF)</a></li>
 		</ul><p><strong>Jordan</strong></p>
-		<ul class="tamisLinks"><li>
-				<a href="https://petra.dai.com/DAI/JordanFRP_TAMIS.nsf">Jordan FRP II</a></li>
+		<ul class="tamisLinks">
 			<li>
 				<a href="https://naour.dai.com/dai/JordanComp_TAMIS.nsf/">Jordan Competitiveness Program</a></li>
 			<li>
 				<a href="https://apps1.dai.com/projects/Jordan/JWFD/JWFD_TAMIS.nsf">Jordan Workforce Development (WFD)</a></li>
-			<li>
-				<a href="https://petra.dai.com/Projects/Jordan/BRIDGE/JordanBRIDGE_TAMIS.nsf">Jordan BRIDGE</a></li>
+			
 		</ul><p><strong>Palestine</strong></p>
 		<ul class="tamisLinks"><li>
 				<a href="https://ramallah.dai.com/dai/palestinecompetitivenesstamis.nsf">The Compete Project</a></li>
