@@ -3,6 +3,17 @@ title: ExxonMobil Supplier Forum in Georgetown, Guyana, Attracts More than 1,200
   Businesspersons
 date: 2018-12-07 17:51:00 Z
 published: false
+solutions:
+- Sustainable Livelihoods
+- Local Content and Supply Chain Management
+- Sustainable Business
+regions: Latin America and the Caribbean
+projects: Guyana—Centre for Local Business Development
+summary: More than 1,200 people representing local businesses attended the Liza Phase
+  I Supplier Development Forum December 3–4 at the Marriott Hotel in Georgetown, Guyana.
+  Hosted by the [Centre for Local Business Development](https://clbdguyana.com/) and
+  ExxonMobil, the forum discussed the scopes of work of prime contractors and provided
+  2019 procurement opportunities.
 ---
 
 More than 1,200 people representing local businesses attended the Liza Phase I Supplier Development Forum December 3–4 at the Marriott Hotel in Georgetown, Guyana. Hosted by the [Centre for Local Business Development](https://clbdguyana.com/) and ExxonMobil, the forum discussed the scopes of work of prime contractors and provided 2019 procurement opportunities. ExxonMobil and its prime contractors are currently constructing onshore and offshore facilities to accommodate long-term oil and gas extraction and processing, which is expected to begin in 2020.
