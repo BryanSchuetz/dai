@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: Funded under the Feed the Future initiative, this project works to improve
   food security by strengthening agricultural value chains.
 start: 2013
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
