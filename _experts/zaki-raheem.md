@@ -6,7 +6,7 @@ summary: 'Zaki Raheem is private sector development specialist, where he engages
   market assessments that look to link micro, small, and medium-sized enterprises
   and producers to growing markets. '
 job-title: Global Practice Specialist, Private Sector Development
-image: https://assetify-dai.com/experts/RaheemInner.jpg
+image: "/uploads/RaheemInner.jpg"
 solutions:
 - Economic Growth
 regions:
