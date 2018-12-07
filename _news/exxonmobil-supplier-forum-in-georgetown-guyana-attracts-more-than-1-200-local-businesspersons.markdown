@@ -22,7 +22,7 @@ More than 1,200 people representing local businesses attended the Liza Phase I S
 
 The forum provided an opportunity for Guyanese suppliers to ask questions and get information directly from ExxonMobil and its prime contractors. The December 3 activities—attended by more than 190 companies and 300 guests—featured remarks from the ExxonMobil Guyana’s country manager and prime contractors, as well as panels moderated by DAI’s [Dorival Bettencourt](https://www.dai.com/who-we-are/our-team/dorival-bettencourt) and [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan). The December 4 business expo—which attracted 1,200 participants representing 570 businesses—enabled Guyanese suppliers to pitch their goods and services to Exxon and its contractors. To help prepare the businesses for the event, DAI’s [Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem) and [Christina Aguila](https://www.dai.com/who-we-are/our-team/christina-aguila) since September have been leading “pitch courses” at the Centre.
 
-![Guyana Forum 3.jpg](/uploads/Guyana%20Forum%203.jpg)
+![Guyana Forum 3.jpg](/uploads/Guyana%20Forum%203.jpg)`Representatives from Guyanese businesses at the ExxonMobil Liza Phase I Supplier Development Forum December 4 in Georgetown, Guyana.` 
 
 ExxonMobil Guyana has prioritized using local content for its operations. The company is sponsoring the Local Business Development Centre in Georgetown to assist Guyanese businesses to become more competitive, earn more business, and create jobs as a result of increasing demand for goods and services both by ExxonMobil and the Guyanese economy. The Centre is operated by DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business).
 
