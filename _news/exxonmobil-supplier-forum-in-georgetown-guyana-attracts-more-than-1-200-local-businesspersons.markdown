@@ -2,7 +2,6 @@
 title: ExxonMobil Supplier Forum in Georgetown, Guyana, Attracts More than 1,200 Local
   Businesspeople
 date: 2018-12-07 17:51:00 Z
-published: false
 solutions:
 - Sustainable Livelihoods
 - Local Content and Supply Chain Management
