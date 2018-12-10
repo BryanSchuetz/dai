@@ -15,7 +15,7 @@ summary: More than 1,200 people representing local businesses attended the Liza 
   2019 procurement opportunities.
 ---
 
-More than 1,200 people representing local businesses attended the Liza Phase I Supplier Development Forum December 3–4 at the Marriott Hotel in Georgetown, Guyana. Hosted by the [Centre for Local Business Development](https://clbdguyana.com/) and ExxonMobil, the forum discussed the scopes of work of prime contractors and provided 2019 procurement opportunities. ExxonMobil and its prime contractors are currently constructing onshore and offshore facilities to accommodate long-term oil and gas extraction and processing, which is expected to begin in 2020.
+More than 1,200 people representing local businesses attended the Liza Phase I Supplier Development Forum December 3–4 at the Marriott Hotel in Georgetown, Guyana. Hosted by the [Centre for Local Business Development](https://clbdguyana.com/) and ExxonMobil, the forum discussed the scopes of work of prime contractors and provided 2019 procurement opportunities. ExxonMobil and its prime contractors are currently building infrastructure to support a floating production, storage, and offloading vessel with first oil expected in early 2020.
 
 ![Guyana Forum 1.jpg](/uploads/Guyana%20Forum%201.jpg)`Guests and hosts meet and greet at the ExxonMobil Liza Phase I Supplier Development Forum December 4 in Georgetown, Guyana.`
 
