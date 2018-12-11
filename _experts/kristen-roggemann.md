@@ -5,7 +5,7 @@ lastname: Roggemann
 summary: Kristen Roggemann has extensive field experience in the Middle East and Africa
   working on mobile-for-development initiatives in both public and private sector
   contexts.
-job-title: Digital Insights and ICT Products Manager, Center for Digital Acceleration
+job-title: Partnerships and Insights Senior Manager, Center for Digital Acceleration
 image: https://assetify-dai.com/experts/KristenInner.jpg
 solutions:
 - Digital Acceleration
