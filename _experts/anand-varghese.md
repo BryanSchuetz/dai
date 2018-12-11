@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Varghese
 summary: Anand Varghese helps DAI's projects integrate ICT into their activities and
   build partnerships with local technology companies.
-job-title: Principal ICT Specialist, Center for Digital Acceleration
+job-title: Digital Advisory Manager, Center for Digital Acceleration
 image: https://assetify-dai.com/experts/anand%20inner.jpg
 solutions:
 - Governance
@@ -31,7 +31,6 @@ layout: expert
 ---
 
 During his decade-long career in international development and conflict management, Anand has managed complex operations with a commitment to using information and communication technology (ICT) to create peaceful social change around the world. Anand helps DAI’s projects integrate ICT into their activities and build partnerships with local technology companies. Prior to joining DAI, he served as Senior Manager at the PeaceTech Lab at the U.S. Institute of Peace. Anand played an integral role in creating and launching the Lab, the Institute’s first nonprofit spin-off in its 30-year history. Anand guided elements of strategic planning for the transition of the Lab, including its conceptual foundation, business development, space design, and collaboration with the private sector. Anand has managed various technology-related development projects, including the first nationwide mobile phone-based survey in Afghanistan, workshops for youth activists on crowdsourced mapping tools, and partnerships with universities to integrate young engineers into conflict management. Anand has authored studies on topics such as new media, online discourse, and science diplomacy. His research interests include nationalism, ethnic conflict, and political development, especially in South Asia. He hails from Bangalore, India, where he worked in advertising and journalism.
-
 
 * M.A., democracy and governance, Georgetown University
 * B.A., journalism and mass communication, Arizona State University
