@@ -10,8 +10,8 @@ projects: Morocco—TASHAROC
 clients: U.K. Foreign and Commonwealth Office
 summary: A delegation from Northern Morocco is visiting England this week to draw
   lessons from government devolution practices in two distinct parts of the country—Greater
-  Manchester and Cornwall. The delegation represents the Mediterranean region of Tangiers/Tetuan/Al-Hoceïma
-  (TTAH). The group will conclude its visit December 14 in London.
+  Manchester and Cornwall. The delegation represents the Mediterranean region of Tangier-Tetouan-Al
+  Hoceïma (TTAH). The group will conclude its visit December 14 in London.
 ---
 
 A delegation from Northern Morocco is visiting England this week to draw lessons from government devolution practices in two distinct parts of the country—Greater Manchester and Cornwall. The delegation represents the Mediterranean region of Tangier-Tetouan-Al Hoceïma (TTAH). The group will conclude its visit December 14 in London.
