@@ -1,7 +1,6 @@
 ---
 title: Tanzania Land Tenure Project Wins USAID Digital Development Award
 date: 2018-12-13 17:50:00 Z
-published: false
 is_featured: true
 solutions:
 - Land Tenure and Property Rights
@@ -27,10 +26,7 @@ The Digi award also recognizes LTA’s work building a digital land registry sys
 
 The Digis are awarded by the U.S. Global Development Lab to recognize USAID projects for their innovative use of digital technologies and data to advance international development goals and support partner countries in their journey to self-reliance. This year, more than 140 projects applied, from which [five winners](https://www.usaid.gov/digital-development/digis/2018) were chosen. DAI is proud to be a 2018 awardee alongside four distinguished digital innovators:
 
-Digital Inclusion in the Peruvian Amazon, implemented by Centro de Información y Educación para la Prevención del Abuso de Drogas; USAID Peru.
-
-FlaveDor and the Moldova Competitiveness Project, implemented by Chemonics; USAID Moldova.
-
-Jamii Africa and SHOPS Plus Program, implemented by Abt Associates in partnership with Edgepoint Digital; USAD Tanzania.
-
-WeMUNIZE and the Maternal and Child Survival Program, implemented by Black Swan Tech Ltd.; USAID Nigeria.
+* Digital Inclusion in the Peruvian Amazon, implemented by Centro de Información y Educación para la Prevención del Abuso de Drogas; USAID Peru.
+* FlaveDor and the Moldova Competitiveness Project, implemented by Chemonics; USAID Moldova.
+* Jamii Africa and SHOPS Plus Program, implemented by Abt Associates in partnership with Edgepoint Digital; USAD Tanzania.
+* WeMUNIZE and the Maternal and Child Survival Program, implemented by Black Swan Tech Ltd.; USAID Nigeria.
