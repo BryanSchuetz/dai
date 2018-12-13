@@ -15,7 +15,7 @@ country: Kosovo
 
 The landlocked country of Kosovo—smaller than the U.S. state of Connecticut—runs on an annual budget of only €1.7 billion. Its cities are also small and depend largely on block grants from the national coffers to fund their municipal budgets. The country’s Law on Local Self-Government requires these cities to provide public services for its citizens. Unfortunately, misuse of funds and a lack of municipal fiscal systems and diligence have for years bled away precious resources to the detriment of public services and the citizens they serve.
 
-TEAM assists municipalities in Kosovo to institute systems and training that will improve how cities account for public funds and expenditures. TEAM works with Kosovo-based partners, CiviKos and KPMG Kosovo/Albania Branch.
+TEAM assists municipalities in Kosovo to institute systems and training that will [improve how cities](https://www.facebook.com/usaidkosovo/videos/527441967721553/) account for public funds and expenditures. TEAM works with Kosovo-based partners, CiviKos and KPMG Kosovo/Albania Branch.
 
 ![TEAM.jpg](/uploads/TEAM.jpg)
 
