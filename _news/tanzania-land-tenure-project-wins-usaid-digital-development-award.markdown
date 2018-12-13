@@ -1,7 +1,6 @@
 ---
 title: Tanzania Land Tenure Project Wins USAID Digital Development Award
 date: 2018-12-13 17:50:00 Z
-published: false
 is_featured: true
 solutions:
 - Land Tenure and Property Rights
@@ -17,7 +16,7 @@ social-image: "/uploads/land-hero-moz.jpg"
 
 The U.S. Agency for International Development (USAID) has announced the Feed the Future Tanzania Land Tenure Assistance (LTA) project as one of the [2018 Digital Development Award winners](http://www.digitaldevelopment.org/digis), also known as the “Digis.” LTA was awarded for its [innovative use of GPS technology](http://www.digitaldevelopment.org/feed-future-tanzania-land-tenure-assistance) to survey and register land in rural communities and for its development of a digital registry to document property transfers. These improvements in secure land tenure have led to increased access to inputs and financing for small farmers, reduced property disputes, and a new market for buying and selling land.
 
-![land-hero-moz-f82b63.jpg](/uploads/land-hero-moz-f82b63.jpg)`A parasurveyor trained by LTA walks property lines with a land owner and marks boundaries on a GPS-enabled tablet, creating a digital map of land ownership in the community.`
+![parasurveyor.jpg](/uploads/parasurveyor.jpg)`A parasurveyor trained by LTA walks property lines with a land owner and marks boundaries on a GPS-enabled tablet, creating a digital map of land ownership in the community.`
 
 <!--more-->
 
