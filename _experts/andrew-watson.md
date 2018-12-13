@@ -17,8 +17,9 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 articles:
-- name: 
-  article_file: 
+- name: '"Seeing the Forest for More Than the Trees: Adding Conservation into Holistic
+    Development"'
+  article_file: https://blogs.ei.columbia.edu/2018/11/20/seeing-the-forest-for-more-than-the-trees/
 - article_file: 
 layout: expert
 ---
