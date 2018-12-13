@@ -39,3 +39,4 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 * Drafted the Protocol for the Protection of New Varieties of Plants and the SADC Seed Centre Charter approved by the SADC Ministers of Agriculture.
 * Launched the Seed Control and Certification Institute Online Seed Lab in Zambia.
 * Completed the Regional Seed Supply and Demand Study.
+* [Launched grant](https://clubofmozambique.com/news/the-u-s-government-through-the-feed-the-future-southern-africa-seed-trade-project-launches-grant-to-the-association-for-the-promotion-of-the-seed-sector-in-mozambique/) to the Association for the Promotion of the Seed Sector (APROSE), for the implementation of the Southern African Development Community (SADC) Harmonised Seed Regulatory System in Mozambique.
