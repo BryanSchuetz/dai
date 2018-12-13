@@ -27,23 +27,15 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 ### Sample Activities
 
 * Promote SADC ownership of the harmonized seed regulations (HSR) process by strengthening national and regional institutions.
-
 * Build the capacity of the SADC Seed Centre to provide technical assistance to national agencies and engage the private sector.
-
 * Assist the SADC Seed Centre to develop a sustainable business model for HSR.
-
 * Support the development of SADC regional seed catalog, seed lot certification and SADC package labeling.
-
 * Synchronize assistance in Malawi, Zambia, and Zimbabwe with the Common Market for Eastern and Southern Africa Seed Harmonisation Implementation Plan.
-
 * Transfer technology and management practices that [prioritize](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) and scale up regional variety registration and seed certification models.
 
 ### Select Results
 
 * Established the Southern African Development Community (SADC) Seed Committee.
-
 * Drafted the Protocol for the Protection of New Varieties of Plants and the SADC Seed Centre Charter approved by the SADC Ministers of Agriculture.
-
 * Launched the Seed Control and Certification Institute Online Seed Lab in Zambia.
-
 * Completed the Regional Seed Supply and Demand Study.
