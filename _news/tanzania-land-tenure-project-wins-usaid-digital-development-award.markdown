@@ -8,11 +8,9 @@ solutions:
 regions: Sub-Saharan Africa
 projects: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 clients: U.S. Agency for International Development
-summary: 'The U.S. Agency for International Development (USAID) has announced the
-  Feed the Future Tanzania Land Tenure Assistance (LTA) project as one of the 2018
-  Digital Development Award winners, also known as the “Digis.” LTA was awarded for
-  its innovative use of GPS technology to survey and register land in rural communities
-  and for its development of a digital registry to document property transfers. '
+summary: The U.S. Agency for International Development (USAID) has announced the Feed
+  the Future Tanzania Land Tenure Assistance (LTA) project as one of the 2018 Digital
+  Development Award winners, also known as the “Digis.”
 social-image: "/uploads/land-hero-moz.jpg"
 ---
 
