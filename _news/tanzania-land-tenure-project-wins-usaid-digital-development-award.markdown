@@ -1,6 +1,7 @@
 ---
 title: Tanzania Land Tenure Project Wins USAID Digital Development Award
 date: 2018-12-13 17:50:00 Z
+published: false
 is_featured: true
 solutions:
 - Land Tenure and Property Rights
