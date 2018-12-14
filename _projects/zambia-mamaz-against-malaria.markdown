@@ -22,7 +22,7 @@ promos:
 
 Malaria is a serious public health problem in rural Zambia, particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years.
 
-The MAMaZ Against Malaria (MAM) project addressed the lack of access to quality commodities for case management of severe malaria in rural Zambia.
+The [MAMaZ Against Malaria (MAM)](https://www.nytimes.com/2018/12/10/health/malaria-children-zambia.html) project addressed the lack of access to quality commodities for case management of severe malaria in rural Zambia.
 
 The project [increased access](http://www.transaid.org/news/josephines-story/) to community-based pre-referral treatment for severe malaria for children from six months to under 6 years old, and to reduce referral delays from the community to health facilities that are equipped to treat severe malaria.
 
