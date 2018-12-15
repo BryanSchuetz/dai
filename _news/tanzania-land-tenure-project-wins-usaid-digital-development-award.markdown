@@ -32,5 +32,5 @@ The Digis are awarded by the U.S. Global Development Lab to recognize USAID proj
 
 * Digital Inclusion in the Peruvian Amazon, implemented by Centro de Información y Educación para la Prevención del Abuso de Drogas; USAID Peru.
 * FlaveDor and the Moldova Competitiveness Project, implemented by Chemonics; USAID Moldova.
-* Jamii Africa and SHOPS Plus Program, implemented by Abt Associates in partnership with Edgepoint Digital; USAD Tanzania.
+* Jamii Africa and SHOPS Plus Program, implemented by Abt Associates in partnership with Edgepoint Digital; USAID Tanzania.
 * WeMUNIZE and the Maternal and Child Survival Program, implemented by Black Swan Tech Ltd.; USAID Nigeria.
