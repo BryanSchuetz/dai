@@ -5,7 +5,7 @@ summary: Kosovo is a poor country where cities need to make the most of their fu
   TEAM helps these cities improve accountability and optimize their expenditures transparently
   and for the public good.
 start: 2016
-end: 2021
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Governance
