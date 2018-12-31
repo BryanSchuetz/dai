@@ -23,7 +23,7 @@ Households receiving the regular bi-monthly cash transfers have been selected fr
 
 The goal of [HSNP2](http://www.hsnp.or.ke/) is to continue to reduce poverty, hunger, and vulnerability in the focus counties, resulting in better and more sustainable [safety nets](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/) for poor and [vulnerable households](https://www.youtube.com/watch?v=ObSi7IXcYeU).
 
-Through HSNP, more than 600,000 of Kenya’s most vulnerable people have access to cash transfers on a regular basis and up to 2,100,000 people reached with emergency cash transfers in times of drought or flood. 
+Through HSNP, more than 600,000 of Kenya’s most vulnerable people have access to cash transfers on a regular basis and up to 2.1 million people reached with emergency cash transfers in times of drought or flood. 
 
 <iframe src="https://player.vimeo.com/video/207471099" width="703" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
