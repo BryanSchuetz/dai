@@ -7,7 +7,7 @@ summary: Feed the Future AVANSE works with both farmers and vendors to address k
   and irrigation infrastructure, to increasing access to financial products and produce
   buyers.
 start: 2013
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
