@@ -27,3 +27,9 @@ TEAM assists municipalities in Kosovo to institute systems and training that wil
 * Create custom work plans for the five partner municipalities.
 * Establish the Support Fund to build capacity among local and national civil society organizations to enhance citizen oversight.
 * Initiate coordination and outreach with donors in Kosovo working in complement with TEAM.
+
+### Select Results
+
+* Assisted Kosovo municipalities to voluntarily publish public procurement contracts online. Starting with Gjakova, 16 municipalities now publish all current procurement contracts on their respective municipal websites for a total of 581 contracts disclosed. 
+* Helped TEAM grantee, Levizja FOL, launch its Open Procurement Transparency Portal, enabling citizens to sift through huge amounts of data from the e-Procurement platform via a user-friendly interface. The Portal, available at www.prokurimihapur.org, allows civil society organizations, investigative journalists, businesses, anti-corruption investigators, and citizens to explore linkages between public agencies, public contracts, and private sector companies and identify unusual patterns that may be indicative of corruption. 
+* Expanded project support from five focus municipalities to six second-tier municipalities. USAID TEAM Municipal Implementation Advisors have shared templates, manuals, guides, and best practices developed in the five focus municipalities.
