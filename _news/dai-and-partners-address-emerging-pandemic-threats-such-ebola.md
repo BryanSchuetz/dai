@@ -1,18 +1,17 @@
 ---
 title: DAI and Partners to Address Emerging Pandemic Threats such as Ebola
 date: 2014-12-11 18:05:00 Z
+solutions:
+- Global Health
+regions:
+- Sub-Saharan Africa
+projects: Worldwide—Preparedness and Response (P&R)
 summary: 'The U.S. Agency for International Development (USAID) has chosen DAI and
   three partners—Training Resources Group, The Futures Group, and the African Field
   Epidemiology Network—to implement a five-year program to help countries prepare
   for and respond to disease outbreaks.
 
 '
-solutions:
-- Global Health
-regions:
-- Sub-Saharan Africa
-projects: Worldwide—Preparedness and Response (P&R)
-clients: 
 layout: node
 ---
 
@@ -34,8 +33,6 @@ DAI brings to P&R a wealth of experience in zoonotic disease control, prevention
 * [The Futures Group][7] is a leader in the field of health policy development, with particular skills in policy advocacy and cost analysis; and
 * [African Field Epidemiology Network][8], a network of public health training institutions in Africa, works with national governments to strengthen field epidemiology on the continent.
 
-For more information on the P&R program, contact [Jerry Martin][9].
-
 [1]: /our-work/projects/worldwide-preparedness-and-response-pr
 [2]: /our-work/projects/worldwide-respond
 [3]: /our-work/projects/worldwide-stamping-out-pandemic-and-avian-influenza-stop-ai
@@ -44,4 +41,3 @@ For more information on the P&R program, contact [Jerry Martin][9].
 [6]: http://www.trg-inc.com/
 [7]: http://www.futuresgroup.com/
 [8]: http://www.afenet.net/new/
-[9]: /who-we-are/our-team/jerry-martin
