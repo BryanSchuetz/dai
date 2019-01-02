@@ -1,6 +1,7 @@
 ---
 title: Jerry Martin
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Martin
 summary: Prior to leading the Preparedness and Response program for the U.S. Agency
   for International Development, Jerry Martin was the Global Lead for the One Health
