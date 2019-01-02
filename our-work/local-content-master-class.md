@@ -11,7 +11,7 @@ layout: default
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure.](/uploads/DAI%20Masterclass%20Brochure%20May%202018.pdf)
 
-  Upcoming Masterclass: April 2019, Houston, Texas, United States.
+Upcoming Masterclass: April 2019, Houston, Texas, United States.
 
 > “The masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences” —  *Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
@@ -34,28 +34,28 @@ The [Sustainable Business Group](/our-work/solutions/sustainable-business) offer
 <script>
 var queryValues = {};
 
-$.each(window.location.href.split('?').pop().split('&'), function (i, v)
+\$.each(window.location.href.split('?').pop().split('&'), function (i, v)
 {
 var v = v.split('=');
-if(v.length > 1) // prevent v[1] from erroring if no querystring present
-queryValues[ v[0].toLowerCase() ] = v[1].toLowerCase();
+if(v.length > 1) // prevent v\[1\] from erroring if no querystring present
+queryValues\[ v\[0\].toLowerCase() \] = v\[1\].toLowerCase();
 });
 
 if ( queryValues.submit == 'success' )
 {
-$('#theForm').css('display', 'none');
-$('#theForm-success').css('display', 'block');
+\$('#theForm').css('display', 'none');
+\$('#theForm-success').css('display', 'block');
 }
 
 if (typeof queryValues.source != "undefined")
 {
 var source = queryValues.source;
-$('#source').prop("value", source);
+\$('#source').prop("value", source);
 }
 if (typeof queryValues.campaign != "undefined")
 {
 var campaign = queryValues.campaign;
-$('#campaign').prop("value", campaign);
+\$('#campaign').prop("value", campaign);
 }
 
 </script>
@@ -128,15 +128,11 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 <hr>
 
-## Regional Master Class Locations, 2017–2018
+## Regional Master Class Locations
 
-* North America: **Houston**
+* North America: **Houston, April 2019**
 
-* Europe: **London**
-
-* West Africa: **Ghana**
-
-* East Africa: **Tanzania**
+* Europe: **London, November 2019**
 
   * [Brochure](/uploads/lcmc-tanzania-final.pdf)
 
@@ -144,7 +140,9 @@ To stimulate engagement and cross-learning between participants, we make every e
 
   * [Pre-course Reading](/uploads/tanzania-reading.pdf)
 
-* South America: **Guyana**
+  Customized Courses
+
+  DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Guyana, Ghana, Sierra Leone, Tanzania, Canada, and Oman.
 
 <hr>
 
