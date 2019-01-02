@@ -17,7 +17,7 @@ Historically speaking—and perhaps surprisingly—the field of global health se
 
 But this high-level collaboration typically does not address countries’ day-to-day health needs—for funding, clinics and hospitals, human resources, medicine, medical supplies, health data, and so on—even though these elements play key roles in identifying and mitigating outbreaks.
 
-In its October 20 issue, *The Lancet* publishes an article that reflects on this traditional separation of interests and proposes a more integrated approach that advances global health security and systemic public health needs under one umbrella. [Jerry Martin](https://www.dai.com/who-we-are/our-team/jerry-martin), DAI’s Senior Director for Global Health Security, co-authored the article, “Building the Case for Embedding Global Health Security into Universal Health Coverage: A Proposal for a Unified Health System That Includes Public Health.” 
+In its October 20 issue, *The Lancet* publishes an article that reflects on this traditional separation of interests and proposes a more integrated approach that advances global health security and systemic public health needs under one umbrella. Jerry Martin, DAI’s Senior Director for Global Health Security, co-authored the article, “Building the Case for Embedding Global Health Security into Universal Health Coverage: A Proposal for a Unified Health System That Includes Public Health.” 
 
 The article lists five recommendations as next steps in the effort to deliver health security and health systems assistance in a mutually reinforcing way. *The Lancet* has established a commission to review the feasibility of these recommendations.
 
