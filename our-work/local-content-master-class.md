@@ -130,9 +130,9 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 ## Regional Master Class Locations
 
-* North America: **Houston, April 2019**
+* North America: Houston, April 2019
 
-* Europe: **London, November 2019**
+* Europe: London, November 2019
 
   * [Brochure](/uploads/lcmc-tanzania-final.pdf)
 
@@ -140,9 +140,9 @@ To stimulate engagement and cross-learning between participants, we make every e
 
   * [Pre-course Reading](/uploads/tanzania-reading.pdf)
 
-  Customized Courses
+## Customized Courses
 
-  DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Guyana, Ghana, Sierra Leone, Tanzania, Canada, and Oman.
+DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Guyana, Ghana, Sierra Leone, Tanzania, Canada, and Oman.
 
 <hr>
 
