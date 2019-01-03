@@ -148,7 +148,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 ## Meet Our Trainers
 
-**Dr. Michael Warner, Senior Technical Advisor**
+**Dr. Michael Warner – Director, Local Content Performance and Reporting**
 
 ![Michael Warner Photo](/uploads/warner.jpg){:.float-right}
 
@@ -162,21 +162,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 * Author of multiple books and papers on local content, including *[Local Content in Procurement](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf Publishing in 2012
 
-{% comment %} **Warwick Strong, Local Content Specialist**
-
-![Warwick Strong Photo](https://assetify-dai.com/experts/Slice.jpg){:.float-right}
-
-* More than 10 years experience as a social-economic development manager in Ethiopia, Kenya, Madagascar, and Mauritania
-
-* Developed local content policies for the extractives industries in Madagascar and Mauritania
-
-* Led a World Bank study to determine optimum levels of foreign direct investment in Guinean supply chains to maximize actual value contributed to the local economy
-
-* Helped shape Guinea's local content policy within the mining sector
-
-* Former Officer in the United Kingdom’s Royal Military, where he was deployed on peacekeeping missions to work with community leaders to achieve more transparent governance systems and build stronger communities {% endcomment %}
-
-**Dorival Bettencourt, Senior Oil and Gas Advisor**
+**Dorival Bettencourt – Manager, Oil and Gas**
 
 ![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-right}
 
@@ -190,7 +176,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 * Led workshops covering the fundamentals of oil and gas and local content, aimed at providing the Senegalese media with the foundational knowledge to effectively report on developments within the sector
 
-**Zachary Kaplan, Director, Sustainable Buisness Group**
+**Zachary Kaplan –  Senior Director, Sustainable Business Group**
 
 ![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
 
