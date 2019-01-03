@@ -4,9 +4,7 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/global-health
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
-summary: Providing the technical skills, expertise, and local knowledge to deliver
-  global health solutions while responding to issues ranging from emerging pandemic
-  threats to HIV/AIDS to waterborne diseases.
+summary: DAI Global Health delivers holistic, tech-enabled solutions to save lives and improve wellbeing worldwide.
 type: primary
 promos:
 - title: "**Our Team:** DAI Global Health Experts"
