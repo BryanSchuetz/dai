@@ -50,12 +50,12 @@ layout: node
 
 ### Wealth Creation Framework
 
-* Lot A–Economic Policy, Trade and Regional Integration (sub to Nathan) (2013–2018)
-* Lot B–Rural Economic Development, Livelihoods, and Natural Resource Management (2013–2018)
-* Lot C–Infrastructure (sub to Nathan) (2013–2018)
-* Lot D–Financial Sector Development (2013–2018)
-* Lot E–Private Sector Development and Market Development (2013–2018)
-* Lot F-Investment Climate Reform (2013-2018)
+* Lot A–Economic Policy, Trade and Regional Integration (sub to Nathan) (2013–2019)
+* Lot B–Rural Economic Development, Livelihoods, and Natural Resource Management (2013–2019)
+* Lot C–Infrastructure (sub to Nathan) (2013–2019)
+* Lot D–Financial Sector Development (2013–2019)
+* Lot E–Private Sector Development and Market Development (2013–2019)
+* Lot F-Investment Climate Reform (2013-2019)
 
 ### Expert Advisory Call Down Services
 
@@ -64,7 +64,7 @@ layout: node
 
 # European Commission
 
-### Framework Contract Beneficiaries 2018
+### Framework Contract Beneficiaries
 
 * [Lot 1: ustainable Management of Natural Resources and Resilience](http://frameworkcontracts.com/lots/siea-1/)
 * [Lot 2: Infrastructure, Sustainable Growth and Jobs](http://frameworkcontracts.com/lots/siea-2/)
@@ -73,7 +73,7 @@ layout: node
 * [Lot 5: Budget Support](http://frameworkcontracts.com/lots/siea-5/)
 * [Lot 6: Innovative Financing for Development](http://frameworkcontracts.com/lots/siea-6/)
 
-### Framework Contract Commission 2015
+### Framework Contract Commission
 
 * [Lot 1: Evaluation](http://frameworkcontracts.com/lots/ec-com-2015-1/)
 
