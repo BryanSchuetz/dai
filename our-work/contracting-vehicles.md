@@ -45,9 +45,8 @@ layout: node
 
 # U.K. Department for International Development
 
-### Stability
-
-* [Conflict Stability and Security Fund (CSSF) (2016-2018)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
+* [Conflict Stability and Security Fund (CSSF) (2018-2020)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
+* FCO: Prosperity Fund Framework (2017-2019)
 
 ### Wealth Creation Framework
 
@@ -61,15 +60,18 @@ layout: node
 ### Expert Advisory Call Down Services
 
 * [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
+* Lot C: Promoting Global Prosperity (Partner to IMC Worldwide)
 
 # European Commission
 
-### Framework Contract Beneficiaries 2013-2018
+### Framework Contract Beneficiaries 2018
 
-* [Lot 1: Rural Development and Food Security](http://frameworkcontracts.com/lots/benef-1/)
-* [Lot 6: Environment](http://frameworkcontracts.com/lots/benef-6/)
-* [Lot 7: Governance and Home Affairs](http://frameworkcontracts.com/lots/benef-7/)
-* [Lot 10: Trade and Private Sector](http://frameworkcontracts.com/lots/benef-10/)
+* [Lot 1: ustainable Management of Natural Resources and Resilience](http://frameworkcontracts.com/lots/siea-1/)
+* [Lot 2: Infrastructure, Sustainable Growth and Jobs](http://frameworkcontracts.com/lots/siea-2/)
+* [Lot 3: Human Rights, Democracy and Peace](http://frameworkcontracts.com/lots/siea-3/)
+* [Lot 4: Human Development and Safety Net](http://frameworkcontracts.com/lots/siea-4/)
+* [Lot 5: Budget Support](http://frameworkcontracts.com/lots/siea-5/)
+* [Lot 6: Innovative Financing for Development](http://frameworkcontracts.com/lots/siea-6/)
 
 ### Framework Contract Commission 2015
 
