@@ -36,4 +36,4 @@ Originally from North Carolina, Zachary Kaplan never planned to become a develop
 His in-country experience includes Brazil, Ghana, Honduras, Kenya, Liberia, Mozambique, Nigeria, the Philippines, Rwanda, Sierra Leone, Tanzania, and Vietnam. With these experiences, Zach has authored works on developing long-term infrastructure finance in sub-Saharan Africa; overcoming constraints to the legal and regulatory challenges for public-private partnerships; strengthening private sector investment in fragile states; and applying innovative financing mechanisms for PPP transactions in emerging sectors. Zach has deep experience working in the extractive industry advising on local content development, supply chain strengthening and enterprise development. Zach has advised governments on issues around leveraging investment in natural resource production for local economic development in Ghana, Mozambique, and Nigeria.
 
 * M.P.P., international policy and development, Georgetown University   
-* B.A., History and Spanish literature, Cornell University
+* B.A., history and Spanish literature, Cornell University
