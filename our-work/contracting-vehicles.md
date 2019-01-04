@@ -48,15 +48,6 @@ layout: node
 * [Conflict Stability and Security Fund (CSSF) (2018-2020)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
 * FCO: Prosperity Fund Framework (2017-2019)
 
-### Wealth Creation Framework
-
-* Lot A–Economic Policy, Trade and Regional Integration (sub to Nathan) (2013–2018)
-* Lot B–Rural Economic Development, Livelihoods, and Natural Resource Management (2013–2018)
-* Lot C–Infrastructure (sub to Nathan) (2013–2018)
-* Lot D–Financial Sector Development (2013–2018)
-* Lot E–Private Sector Development and Market Development (2013–2018)
-* Lot F-Investment Climate Reform (2013-2018)
-
 ### Expert Advisory Call Down Services
 
 * [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
