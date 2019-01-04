@@ -66,7 +66,7 @@ layout: node
 
 ### Framework Contract Beneficiaries
 
-* [Lot 1: ustainable Management of Natural Resources and Resilience](http://frameworkcontracts.com/lots/siea-1/)
+* [Lot 1: Sustainable Management of Natural Resources and Resilience](http://frameworkcontracts.com/lots/siea-1/)
 * [Lot 2: Infrastructure, Sustainable Growth and Jobs](http://frameworkcontracts.com/lots/siea-2/)
 * [Lot 3: Human Rights, Democracy and Peace](http://frameworkcontracts.com/lots/siea-3/)
 * [Lot 4: Human Development and Safety Net](http://frameworkcontracts.com/lots/siea-4/)
