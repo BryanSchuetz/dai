@@ -2,9 +2,10 @@
 title: Nate Bourns
 date: 2016-01-21 22:18:00 Z
 lastname: Bourns
-summary: 'Nate Bourns began learning the value of language as a 12-year-old while
-  on a trip to Mexico with his Spanish class—and the lesson stuck. '
-job-title: Vice President, Operating Platforms
+summary: 'Nate Bourns works across all DAI business units and corporate offices to
+  build a next-generation operating model, beginning with key geographies such as
+  India and Nigeria. '
+job-title: Vice President, Global Operations
 image: https://assetify-dai.com/experts/nate_inner.jpg
 solutions:
 - Economic Growth
@@ -15,14 +16,13 @@ regions:
 layout: expert
 ---
 
-Nate Bourns began learning the value of language as a 12-year-old while on a trip to Mexico with his Spanish class—and the lesson stuck. "Language opens up all sorts of windows to the world, and lets you think the way other people think," Nate says. "Being able to see things from the local people's perspective is essential when working in development." This is certainly true in microfinance, which provides basic financial services—borrowing, saving, insurance, and so on—for people traditionally seen as too poor or isolated to appear as potential consumers for conventional banks.
+Nate Bourns works across all DAI business units and corporate offices to build a next-generation operating model, beginning with key geographies such as India and Nigeria. 
 
->"What really inspires me is the notion of business helping society. That is what interests me about microfinance—in microfinance you must think about the real needs of the poor and innovate around that." — Nate Bourns
+Previously, Nate served as Vice President of Technical Services for DAI Europe, with overall responsibility for DAI’s Europe-based technical practices and for business development with U.K. Government customers including the Department for International Development and Foreign and Commonwealth Office. 
 
-Nate helped develop and implement our portfolio of microfinance and enterprise development projects in Latin America for seven years, work that reinforced his commitment to view project beneficiaries first and foremost as clients.
+An avid student of digital technology and strategy execution, currently based in London, Nate has set up and led field projects, operating groups, and technical teams across all of DAI’s major market segments, and he has played key leadership roles in establishing in-country offices, integrating acquired companies, and executing corporate-wide strategic initiatives.
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/35148948" webkitallowfullscreen="" width="703"></iframe>
+Nate—who is fluent in Spanish and Portuguese—helped develop and implement DAI’s portfolio of microfinance and enterprise development projects with the U.S. Agency for International Development and public and private sector clients in Brazil, Colombia, Mexico, and elsewhere in Latin America, including leading early work DAI delivered in digital finance in the region.
 
-Before his current job, he was deputy director of the U.S. Agency for International Development Access to Rural Finance for Microenterprises project that helped 20,000 of Mexico's underserved rural and urban people, particularly women, access financial services. His responsibilities included managing the project, coordinating and delivering training and technical assistance to leading Mexican microfinance institutions, and analyzing the microfinance sector in Mexico. He also led the design of the project's fund for innovation in rural and agricultural finance.
-
-* M.A., international policy (Certification in Trade and Commercial Diplomacy), Monterey Institute of International Studies
+* M.A., international policy (certification in trade), Middlebury Institute of International Studies at Monterey
+* Post-graduate diploma in innovation management, Tecnológico de Monterrey, Mexico 
