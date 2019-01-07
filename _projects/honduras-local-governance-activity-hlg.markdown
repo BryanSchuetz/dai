@@ -30,3 +30,8 @@ HLG engages multiple governance stakeholders, including municipal and state agen
 * Improve engagement and advocacy processes to better empower and involve vulnerable populations, including [women](https://www.youtube.com/watch?v=dwvx1dGYzHU), [youth](https://urban-links.org/helping-vulnerable-young-hondurans-gain-job-skills-self-confidence-hope-future/), and indigenous persons.
 * Assist municipalities in creating user-friendly tools to increase transparency and accountability, such as a Citizens’ Guide to the Budget and an annual Budget in Brief.
 * Utilize community planning processes to identify priority small infrastructure projects and provide technical assistance and funding to support construction.
+
+### Select Results
+
+* Issued an Annual Program Statement to 18 *mancomunidades* (association of municipalities) in the six departments to solicit expressions of interest and grant applications from the *mancomunidades* to fund innovative approaches to address core challenges in Western Honduras. 
+* Provided a grant to the Association of Municipalities of Honduras (AMHON) to support the Technical Secretariat for the Administrative Career Law (SETCAM). Through this support, the grantee will help municipalities generate the knowledge, skills, and technical capabilities needed to contribute to the modernization and transparency of local public management in Western Honduras.
