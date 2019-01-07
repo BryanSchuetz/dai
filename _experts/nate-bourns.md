@@ -6,7 +6,7 @@ summary: 'Nate Bourns works across all DAI business units and corporate offices 
   build a next-generation operating model, beginning with key geographies such as
   India and Nigeria. '
 job-title: Vice President, Global Operations
-image: https://assetify-dai.com/experts/nate_inner.jpg
+image: "/uploads/New%20nate.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
