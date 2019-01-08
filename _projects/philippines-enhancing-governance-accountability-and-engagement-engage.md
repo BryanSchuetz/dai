@@ -1,26 +1,26 @@
 ---
 title: Philippines—Enhancing Governance, Accountability, and Engagement (ENGAGE)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: 'This project assists six conflict-affected areas in Mindanao, Philippines:
+  Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo,
+  and its surrounding environs.'
 start: 2013
 end: 2018
-regions:
-- Asia and the Pacific
-country:
-- Philippines
+client: U.S. Agency for International Development
 solutions:
 - Governance
 - Fragile States
 - Countering Extremism
 - Peace-Building and Political Transition
 - Stabilization
+regions:
+- Asia and the Pacific
+country:
+- Philippines
 layout: project
-summary: 'This project assists six conflict-affected areas in Mindanao, Philippines:
-  Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo,
-  and its surrounding environs.'
 ---
 
- This project assists six conflict-affected areas in Mindanao, Philippines: Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo, and its surrounding environs. Through the promotion of good governance, ENGAGE will improve peace and stability by:
+This project assists six conflict-affected areas in Mindanao, Philippines: Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo, and its surrounding environs. Through the promotion of good governance, ENGAGE will improve peace and stability by:
 
 * Strengthening the capacity, legitimacy, transparency, and accountability of local government; and
 * Increasing the involvement of citizens in governance through civic education, civil society strengthening, and the promotion of participatory mechanisms.
@@ -38,5 +38,11 @@ ENGAGE will ultimately support at least 24 local government units (LGUs) and 48 
 * Improve transparency to ensure activities, policies, and decisions reflect community needs and are communicated effectively.
 * Assist LGUs to increase the locally generated revenues available for high-priority development and service needs.
 
+### Select Results
+
+* Produced the “Youth and Violent Extremism in Mindanao” research initiative that accessed difficult-to-reach groups, tested assumptions about the drivers of extremism, and identified risk factors.
+* Conducted 41 events in the past year with local government, civil society organizations, and schools and universities, attracting nearly 5,000 participants to discuss violent extremism and stimulate positive community-wide engagement.
+* Led 21 community scorecard exercises across 19 locations to grade interaction between local government and community covering themes such as public safety, disaster risk management, and solid waste management.
+* After the siege of Marawi City in 2018, assisted the mayor on recovery coordination, planning, and communications to promote social cohesion and restoring of basic services.
 
 [1]: https://assetify-dai.com/projects/ENGAGE.jpg
