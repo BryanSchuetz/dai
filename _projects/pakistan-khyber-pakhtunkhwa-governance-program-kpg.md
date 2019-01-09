@@ -5,7 +5,7 @@ summary: 'The Khyber Pakhtunkhwa Governance Program (KPG) assists the provincial
   and civil society organizations to improve local government service and better serve
   citizens. '
 start: 2015
-end: 2019
+end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Governance
