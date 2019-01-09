@@ -7,7 +7,7 @@ summary: For more than 25 years, Afghan farmers did not have access to agricultu
   Irrigation and Livestock to provide credit to farmers, who repay their loans after
   their harvests.
 start: 2015
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
