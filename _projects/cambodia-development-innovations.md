@@ -5,7 +5,7 @@ summary: Technologyâ€”when carefully adapted to the context and users it servesâ
   the potential to empower civil society organizations (CSOs) to tackle development
   challenges in innovative ways with increased reach and results.
 start: 2013
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
