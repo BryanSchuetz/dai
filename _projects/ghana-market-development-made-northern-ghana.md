@@ -1,22 +1,22 @@
 ---
 title: Ghana—Market Development (MADE) in Northern Ghana
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+date: 2016-01-21 22:40:00 Z
+summary: 'This project is part of DAI''s framework contract with the U.K. Department
+  for International Development and is being implemented by Nathan Associates UK.
+  DAI is consulting the project on aspects of climate resilience. '
 start: 2013
-end: 2018
-regions:
-- Sub-Saharan Africa
-country:
-- Ghana
+end: 2020
+client: U.K. Department for International Development
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Gender
 - Climate Change Adaptation and Mitigation
+regions:
+- Sub-Saharan Africa
+country:
+- Ghana
 layout: project
-summary: 'This project is part of DAI''s framework contract with the U.K. Department
-  for International Development and is being implemented by Nathan Associates UK.
-  DAI is consulting the project on aspects of climate resilience. '
 ---
 
 This project is part of DAI's framework contract with the U.K. Department for International Development and is being implemented by Nathan Associates UK. DAI is consulting the project on aspects of climate resilience.
