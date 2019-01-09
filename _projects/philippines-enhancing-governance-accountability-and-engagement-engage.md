@@ -5,7 +5,7 @@ summary: 'This project assists six conflict-affected areas in Mindanao, Philippi
   Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo,
   and its surrounding environs.'
 start: 2013
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Governance
