@@ -5,7 +5,7 @@ summary: 'Trade Ready Georgia is strengthening the capacity of small businesses 
   access trade finance and stimulating local banks to offer trade finance products
   that will help support economic growth and job creation. '
 start: 2017
-end: 2018
+end: 2020
 client: European Bank for Reconstruction and Development
 solutions:
 - Trade
