@@ -7,7 +7,7 @@ summary: 'DAI is supporting the Millennium Challenge Corporation in Mongolia by 
 
 '
 start: 2017
-end: 2020
+end: 2019
 client: Millennium Challenge Corporation
 solutions:
 - Water and Sanitation Services and Management
