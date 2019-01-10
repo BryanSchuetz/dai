@@ -1,6 +1,6 @@
 ---
 title: Working with DAI
-permalink: "/our-work/working-with-dai"
+permalink: "/our-work/working-with-us"
 layout: node
 related: false
 summary: DAI is looking to build partnerships with other development firms and organizations
