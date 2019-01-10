@@ -9,38 +9,31 @@ layout: node
 
 # U.S. Agency for International Development
 
-### Capacity Building
-
-* Human and Institutional Capacity Development for Critical Priority Countries (HICDPro for CPCs) (2013–2018)
-
 ### Economic Growth
 
 * SEGIR Financial Sector II Blanket Purchasing Agreement (BPA) (SEGIR-FS II) (2004–2019)
 
 ### Environment and Energy
 
-* Restoring the Environment through Prosperity, Livelihoods, and Conserving Ecosystems (REPLACE) (2013–2018)
 * Water and Development (WADI) (2015–2019)
-* Strengthening Tenure and Resource Rights II (STARR II) (2018–2023)
-* Clean Energy for Non-Critical Priority Countries (2013–2018) (DAI sub)
+* Strengthening Tenure and Resource Rights II (STARR II) (2018–2025)
 
 ### Governance
 
-* Programming Effectively Against Conflict and Extremism (PEACE) (2013-2018)
+* Programming Effectively Against Conflict and Extremism (PEACE) (2013-2020)
 * Making Cities Work (MCW) (2014–2019)
-* Rule of Law Technical Assistance Services (ROL) (2013–2018)
+* Rule of Law Technical Assistance Services (ROL) (2013–2019)
 * YouthPower (2015–2020)
-* Public Financial Management II (PFM II) (2018–2023)
+* Public Financial Management II (PFM II) (2018–2025)
 
 ### Stability
 
-* Support Which Implements Fast Transitions IV (SWIFT IV) (2013-2018)
+* Support Which Implements Fast Transitions IV (SWIFT IV) (2013-2019)
 * Promoting Gender Equality in National Priority Programs ([Promote](http://www.usaid.gov/afghanistan/promote)) (2014–2019)
-* Resilient Cities Asia Activity (RCA) (2017-2022)
+* Resilient Cities Asia Activity (RCA) (2017-2024)
 
 # General Services Administration Schedules
 
-* Federal Supply Schedule for Financial and Business Solutions (FABS) (2003-2018)
 * Professional Services Schedule (PSS) (2016-2021)
 
 # U.K. Department for International Development
