@@ -13,7 +13,7 @@ layout: node
 
 * SEGIR Financial Sector II Blanket Purchasing Agreement (BPA) (SEGIR-FS II) (2004–2019)
 
-### Environment and Energy
+### Environment & Energy
 
 * Water and Development (WADI) (2015–2019)
 * Strengthening Tenure and Resource Rights II (STARR II) (2018–2025)
