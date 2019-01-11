@@ -1,6 +1,7 @@
 ---
 title: Marwan Juma
 date: 2016-01-21 22:18:00 Z
+published: false
 summary: Marwan was the Jordanian Minister of Information and Communications Technology
   and, previously, Chief Executive Officer of Xpress Telecommunications.
 image: "/assets/images/leaders/thumbnails/marwan-juma.jpg"
