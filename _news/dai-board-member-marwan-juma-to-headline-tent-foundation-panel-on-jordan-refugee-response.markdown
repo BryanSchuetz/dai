@@ -7,8 +7,8 @@ solutions:
 - 
 regions: Middle East and North Africa
 summary: DAI Board Member Marwan Juma, Jordan’s former Minister of Information and
-  Communications Technology, will lead a Tent Foundation panel in New York City on
-  May 11 showcasing Jordan’s innovative response to the Syrian refugee crisis.
+  Communications Technology, will lead a Tent Foundation panel in New York City showcasing
+  Jordan’s innovative response to the Syrian refugee crisis.
 social-image: "/uploads/marwan-juma_web-6c63ec.jpg"
 ---
 
