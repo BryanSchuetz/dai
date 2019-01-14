@@ -11,7 +11,7 @@ layout: default
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. [Read the brochure.](/uploads/DAI%20Masterclass%20Brochure%20May%202018.pdf)
 
-Upcoming Masterclass: April 2019, Houston, Texas, United States.
+Upcoming Masterclass: April 17-19, 2019, Woodlands, Texas, United States.
 
 > “The masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences” —  *Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
