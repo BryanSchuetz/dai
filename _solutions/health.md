@@ -22,10 +22,6 @@ redirect_from: "/global-health"
 layout: solution
 ---
 
-<p><strong>Expertise</strong> - Building partnerships around the world using our local knowledge.<br>
-<strong>Innovation</strong> – Investing in ideas, scaling up, and doing development differently.<br>
-<strong>Results</strong> – Transforming ideas into action to delivering projects with impact.<br></p>
-
 DAI leverages what we have learned in other sectors since 1970, providing technical assistance to hundreds of long-term development projects worldwide in agriculture, environment, economic growth, governance, and post-conflict stabilization, and applies it to global health.
 
 With more than 20 years of health experience, we apply a proven ‘whole-of-systems’ approach to strengthen health systems, global health security, and digital health to take solutions to scale and achieve impact.
