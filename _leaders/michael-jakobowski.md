@@ -1,14 +1,14 @@
 ---
 title: Michael Jakobowski
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/michael-jakobowski.jpg"
+date: 2016-01-21 22:18:00 Z
+job-title: Chief Financial Officer
 summary: Michael has more than 20 years of management and consulting experience, including
   in strategic planning, mergers and acquisitions, business process integration, and
   11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson
   Lambert.
-job-title: Chief Financial Officer
-sort-order: 2
+image: "/assets/images/leaders/thumbnails/michael-jakobowski.jpg"
+sort-order: 3
+layout: leaders
 ---
 
 Michael Jakobowski has more than 20 years of management and consulting experience, including in strategic planning, mergers and acquisitions, business process integration, and 11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson Lambert.
