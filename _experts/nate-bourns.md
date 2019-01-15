@@ -1,6 +1,7 @@
 ---
 title: Nate Bourns
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Bourns
 summary: 'Nate Bourns works across all DAI business units and corporate offices to
   build a next-generation operating model, beginning with key geographies such as
