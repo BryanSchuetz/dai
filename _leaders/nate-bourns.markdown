@@ -11,7 +11,7 @@ sort-order: 1
 
 Nate Bourns works across all DAI business units and corporate offices to build a next-generation operating model, beginning with key geographies such as India and Nigeria.
 
-![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
+![Nate new.jpg](/uploads/Nate%20new.jpg)
 
 Previously, Nate served as Vice President of Technical Services for DAI Europe, with overall responsibility for DAI’s Europe-based technical practices and for business development with U.K. Government customers including the Department for International Development and Foreign and Commonwealth Office.
 
