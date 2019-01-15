@@ -6,7 +6,7 @@ summary: Christopher LeGrand joined DAI in the fall of 2015 with a mandate to ad
   DAI’s global health portfolio, focusing on emerging health markets and the next
   generation of health solutions.
 image: "/uploads/christ_thumb.jpeg"
-sort-order: 3
+sort-order: 4
 ---
 
 Christopher LeGrand joined DAI in the fall of 2015 with a mandate to advance DAI’s global health portfolio, focusing on emerging health markets and the next generation of health solutions.

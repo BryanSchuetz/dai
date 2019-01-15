@@ -1,12 +1,12 @@
 ---
 title: Helle Weeke
-date: 2016-01-21 22:18:43.395000000 Z
-layout: leaders
-image: "/assets/images/leaders/thumbnails/helle-weeke.jpg"
+date: 2016-01-21 22:18:00 Z
+job-title: Senior Vice President and General Counsel
 summary: Helle is DAI’s principal legal advisor, responsible for managing all of the
   firm’s legal affairs.
-job-title: Senior Vice President and General Counsel
-sort-order: 6
+image: "/assets/images/leaders/thumbnails/helle-weeke.jpg"
+sort-order: 7
+layout: leaders
 ---
 
 Helle Weeke is DAI’s principal legal advisor, responsible for managing all of the firm’s legal affairs. She provides legal support to DAI’s technical sectors and support departments, as well as DAI’s international offices and projects. She previously led DAI’s economic policy team, managing a portfolio of projects addressing economic governance, labor standards, and trade and investment issues.

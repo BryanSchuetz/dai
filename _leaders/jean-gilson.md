@@ -5,7 +5,7 @@ job-title: 'Senior Vice President, Global Strategy '
 summary: Jean leads the firm’s work on strategy, market analysis, external relations,
   and communications.
 image: "/assets/images/leaders/thumbnails/jean-gilson.jpg"
-sort-order: 1
+sort-order: 2
 layout: leaders
 ---
 
