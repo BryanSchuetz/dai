@@ -4,8 +4,7 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/global-health
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
-summary: DAI Global Health delivers holistic, tech-enabled solutions to save lives
-  and improve wellbeing worldwide.
+summary: With more than 20 years of experience and technical ‘know-how’ in health systems strengthening, global health security, and human-centered digital design, our global health team delivers holistic, tech-enabled solutions to save lives and improve well-being worldwide.
 type: primary
 promos:
 - title: "**Our Team:** DAI Global Health Experts"
@@ -19,17 +18,36 @@ hero: true
 redirect_from: "/global-health"
 layout: solution
 ---
+<p><strong>Expertise</strong> - Building partnerships around the world using our local knowledge.<br>
+<strong>Innovation</strong> – Investing in ideas, scaling up, and doing development differently.<br>
+<strong>Results</strong> – Transforming ideas into action to delivering projects with impact.<br></p>
 
-**Innovating global health solutions to save lives.** 
+DAI leverages what we have learned in other sectors since 1970, providing technical assistance to hundreds of long-term development projects worldwide in agriculture, environment, economic growth, governance, and post-conflict stabilization, and applies it to global health.
 
-Our global health team and its regional and local partners have the technical skills and local knowledge to deliver comprehensive health solutions while responding to issues ranging from emerging pandemic threats to HIV/AIDS to waterborne diseases. Our approach leverages nonhealth resources in DAI’s environment, economic growth, governance, and post-conflict stabilization sectors to save lives and achieve health improvements all over the world. In June 2017, DAI joined forces with [Health Partners International (HPI)](/news/health-partners-international-now-doing-business-as-dai-global-health), adding a wealth of expertise in health systems strengthening. HPI, which has delivered more than 200 health projects in 40 countries over the past two decades, offers particular strengths in immunization, nutrition, malaria and other communicable diseases, sexual and reproductive health, family planning, and maternal, newborn, and child health.
+With more than 20 years of health experience, we apply a proven ‘whole-of-systems’ approach to strengthen health systems, global health security, and digital health to take solutions to scale and achieve impact.
 
-[Emerging Infectious Diseases](/our-work/solutions/health-solutions/emerging-infectious-diseases)—We coordinate responses across sectors for a holistic approach to disease management. A strong response starts with capacity building for governments, communities, universities, and regional professional networks.
+DAI Global Health’s capacity was augmented by the June 2017 acquisition of [Health Partners International (HPI)](http://healthpartners-int.co.uk/), adding a wealth of technical ‘know-how’ in health systems strengthening. HPI delivered more than 200 health projects in 40 countries over the past two decades in reproductive, maternal, newborn, child, and adolescent health including immunization, nutrition, malaria, and other communicable diseases.
 
-[Health and Livelihoods](/our-work/solutions/health-solutions/health-and-livelihoods)—Our global health and livelihoods work spans all sectors and engages families, community leaders, nongovernmental groups, schools, governments, health and agriculture workers, and the private sector to foster resilience, expand economic opportunity, and improve health outcomes.
+## Doing Development Differently
 
-[Nutrition and Food Security](/our-work/solutions/health-solutions/nutrition-and-food-security)—We build bridges between nutrition, agriculture, and food security. We are at the forefront of improving nutrition and food security outcomes through our integrated agriculture, agribusiness, and livelihoods programs.
+In September 2017, DAI and [IntraHealth International](https://www.intrahealth.org/) joined forces to amplify development impact. IntraHealth is a nonprofit with notable expertise in health workforce development, digital innovation, and reproductive, maternal, and child health, including HIV/AIDS. IntraHealth is now a strategic affiliate of DAI Global Health. United, we offer a broad spectrum of integrated, holistic services to address the evolving global health and development challenges of the 21st century, with an emphasis on people-centered, tech-enabled, and data-centric solutions focused primarily on the poor and underserved. 
 
-[Sustainable and Accountable Health Services](/our-work/solutions/health-solutions/sustainable-and-accountable-health)—We develop innovative and sustainable financing approaches to expand individual and household access to health services and products, including clean water.
+[Global Health Security and Pandemic Preparedness ](/our-work/solutions/health-solutions/global-health-security-and-pandemic-preparedness)—We coordinate responses across sectors for a holistic approach to emerging infectious diseases and disease management. A strong response starts with capacity building for governments, communities, universities, and regional professional networks.
 
-[Health Governance](/our-work/solutions/governance-solutions/health-governance)—We help countries advance health outcomes through improved accountability, resource allocation, policy development, and administration of health services.
+**Health systems strengthening**—We unlock governance, financial, and market potential to tackle health systems failures, improve accountability, and resource allocation to expand equitable access to quality health services and products in support of universal health coverage. 
+
+We work across priority health areas including reproductive, maternal, newborn, child, and adolescent health; nutrition; clean water; malaria; neglected tropical diseases; and other communicable and noncommunicable diseases. 
+
+We build bridges between agriculture, nutrition, and food security sectors, engaging community leaders, nongovernmental groups, governments, and the private sector to foster resilience, expand economic opportunity, and improve health outcomes through our integrated agriculture, agribusiness, and livelihoods programs.
+
+**Digital health solutions**—We specialize in electronic health information systems (eHIS) and the use of strategic information for decision-making in emerging markets and fragile states.
+
+We work with governments to develop interoperability between eHIS and other public health informatics systems, including PEPFAR Data for Accountability, Transparency, and Impact Monitoring (DATIM), and Laboratory Information Systems. Our health informatics experience spans DHIS2, SmartCare, OpenMRS, CommCare, MESI, and IQCare. 
+
+<aside style="width: 33%; float: left; border-top: 2px solid #54aa4f; height: 250px; font-size: .9rem; "><strong>ClickMedix</strong> has introduced its mobile health platform to the health insurance industry in the Middle East and expanded into Sub-Saharan Africa.</aside>
+<aside style="width: 33%; float: left; border-top: 2px solid #54aa4f; height: 250px; font-size: .9rem; "><strong>ThinkMD</strong> is reverse-innovating and bringing low-cost, high-quality healthcare services from emerging markets back to the United States.</aside>
+<aside style="width: 33%; float: left; border-top: 2px solid #54aa4f; height: 250px; font-size: .9rem; "><strong>MobileODT</strong> is a clinical technology making it easier for health professionals to remotely provide visual assessments.</aside>
+
+Building on strategic partnerships with and investments in a range of next-generation health technology innovators that lie along the health value chain– including ClickMedix, MobileODT, Laboratoria, and ThinkMD. Our future involves creating the “connective tissue” that allows disparate tools to come together into a fully integrated system that spans from the patient all the way up and across the national health system. 
+
+

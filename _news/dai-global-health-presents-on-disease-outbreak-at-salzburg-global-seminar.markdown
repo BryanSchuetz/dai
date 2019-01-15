@@ -4,7 +4,7 @@ title: "“Finding Outbreaks Faster”: DAI Global Health Presents at Salzburg G
 date: 2018-10-29 16:27:00 Z
 solutions:
 - Global Health
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 projects: Worldwide—Preparedness and Response (P&R)
 clients: U.S. Agency for International Development
 summary: 'Dr. Andrew Kitua, DAI Global Health’s Director for the East and Central

@@ -13,7 +13,7 @@ job-title: Senior One Health Technical Advisor
 image: https://assetify-dai.com/experts/SambeInner_0.jpg
 solutions:
 - Global Health
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 - 
 regions:
 - Asia and the Pacific

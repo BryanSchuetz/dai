@@ -10,7 +10,7 @@ image: "/uploads/Rob-47f9d6.jpg"
 solutions:
 - Global Health
 - Economic Growth
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 - Health and Livelihoods
 - Health Governance
 - Agriculture and Food Security

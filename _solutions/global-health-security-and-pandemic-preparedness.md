@@ -1,7 +1,7 @@
 ---
-title: Emerging Infectious Diseases
+title: Global Health Security and Pandemic Preparedness
 date: 2016-01-22 00:11:00 Z
-permalink: "/our-work/solutions/health-solutions/emerging-infectious-diseases"
+permalink: "/our-work/solutions/health-solutions/global-health-security-and-pandemic-preparedness"
 solutions:
 - Global Health
 hero: true

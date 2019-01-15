@@ -9,7 +9,7 @@ image: "/uploads/Emmanuel%20Sokpo%20DAI%20site.jpg"
 solutions:
 - Health Governance
 - Global Health
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 regions:
 - Sub-Saharan Africa
 articles:

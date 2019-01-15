@@ -10,7 +10,7 @@ summary: Eliud Wakwabubi provides technical and strategic oversight for integrat
 job-title: Livelihoods Advisor
 image: https://assetify-dai.com/experts/Eliud_Inner.jpg
 solutions:
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 - Health and Livelihoods
 - Global Health
 regions:

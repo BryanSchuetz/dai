@@ -9,7 +9,7 @@ job-title: Vice President, Health Systems Solutions, and Director, Preparedness 
 image: https://assetify-dai.com/experts/Susan%20Inner.jpg
 solutions:
 - Global Health
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 - 
 regions:
 - Asia and the Pacific

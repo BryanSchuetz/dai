@@ -11,7 +11,7 @@ summary: Dr. Baba Soumare is a veterinary epidemiologist with a Ph.D in animal h
 job-title: Africa Regional Director, Preparedness & Response
 image: https://assetify-dai.com/experts/Baba.jpg
 solutions:
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 - Global Health
 regions:
 - Sub-Saharan Africa

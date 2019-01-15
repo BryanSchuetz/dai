@@ -10,7 +10,7 @@ country:
 - Regional
 solutions:
 - Economic Growth
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 - Global Health
 layout: project
 summary: 'Agricultural health and food safety are important to developing countries

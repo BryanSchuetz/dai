@@ -10,7 +10,7 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Global Health
-- Emerging Infectious Diseases
+- Global Health Security and Pandemic Preparedness
 - Data for Decisions
 regions:
 - Worldwide
