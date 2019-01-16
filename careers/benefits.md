@@ -4,7 +4,7 @@ permalink: "/careers/benefits"
 layout: careers
 careers: true
 feature-title: Caring for DAI Families
-feature-text: Shaping a more livable world begins at hoem
+feature-text: Shaping a more livable world begins at home
 hero-package: benefits
 ---
 
