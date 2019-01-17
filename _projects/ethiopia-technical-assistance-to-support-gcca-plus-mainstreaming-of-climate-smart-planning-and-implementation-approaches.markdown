@@ -13,6 +13,8 @@ client: European Commission
 solutions:
 - Environment and Energy
 - Climate Change Adaptation and Mitigation
+regions: Sub-Saharan Africa
+country: Ethiopia
 ---
 
 The Government of Ethiopia has placed addressing the challenges of climate change and environmental degradation high on its development agenda, endorsing relevant policies, strategies, and guidelines with the potential to bring about integrated rural development. 
