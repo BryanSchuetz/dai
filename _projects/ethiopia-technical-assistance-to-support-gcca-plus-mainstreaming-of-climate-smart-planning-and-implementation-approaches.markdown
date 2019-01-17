@@ -26,7 +26,7 @@ The project team uses modern instruments such as GIS and remote sensing for moni
 * Enhance institutional and technical capacity in planning, management, and monitoring of PSNP4's public works component to improve coordination with the Sustainable Land Management Program.
 * Help the ministry generate evidences to promote dialogue on climate-sensitive development programming and for future climate financing.
 
-![2-db353c.jpg](/uploads/2-db353c.jpg)
+![2-0a212b.jpg](/uploads/2-0a212b.jpg)
 
 ## Sample Activities
 
