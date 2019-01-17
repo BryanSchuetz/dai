@@ -1,23 +1,16 @@
 [
     {
         "docTitle": "Prioritization: Reducing the Threat Posed by Zoonotic Diseases",
+        "docSummary": "Zoonotic diseases, which are transmitted between humans and animals, take an enormous toll on lives and economies. They account for nearly two-thirds of infectious diseases in humans and 60 percent of emerging threats.",
+        "organization": "Preparedness and Response",
         "docType": [
           "Technical Brief"
         ],
         "solutions": [
-            "Global Health Security and Pandemic Preparedness"
+            "Global Health Security and Pandemic Preparedness",
+            "Global Health"
         ],
-        "filename": "pandr_disease_prioritization.pdf",
-        "organization": "Preparedness and Response",
-        "candidateSearchLocation": [
-            "Asia",
-            "Australia / Oceania",
-            "Central America / Caribbean",
-            "Europe",
-            "Middle East / North Africa",
-            "North America",
-            "South America",
-            "Sub-Saharan Africa"
-        ]
+        "docFilename": "pandr_disease_prioritization.pdf",
+        "docThumbnail": "pandr_disease_prioritization.jpg"
     }
 ]
