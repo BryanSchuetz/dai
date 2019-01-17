@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Partnership Initiatives in the Niger Deltas
+title: Nigeria—Partnership Initiatives in the Niger Delta
 date: 2016-01-21 22:40:00 Z
 summary: DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of
   this Nigerian-registered [foundation](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220
