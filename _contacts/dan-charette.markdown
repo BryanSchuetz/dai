@@ -1,6 +1,7 @@
 ---
 title: Dan Charette
 date: 2017-09-20 18:22:00 Z
+published: false
 job-title: Director, New Business Development, Asia
 email: dan_charette@dai.com
 summary: Dan manages a seven-person team and oversees all business development functions

@@ -1,9 +1,10 @@
 ---
 title: Resource Library
+published: false
 summary: A growing collection of print publications focused on Health.
 layout: default
-published: false
 ---
+
 <h1 style="margin-bottom: 2.5rem;">Health Resrouce Library</h1>
 {%- for resource in site.data.resources -%}
   <div class="resource" style="margin-bottom: 2rem;">
