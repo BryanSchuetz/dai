@@ -1487,3 +1487,8 @@ clear: right;
     transform: scale(1.0);
   }
 }
+.paola-block{
+  @include responsive(ultra-wide-screens){
+    width: 75%;
+  }
+}

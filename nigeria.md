@@ -1,7 +1,7 @@
 ---
 title: DAI in Nigeria
-permalink: "/our-work/the-regions/sub-saharan-africa/nigeria"
-published: false
+permalink: "/who-we-are/global-reach/nigeria"
+
 summary: Nigeria is Africa’s most populous nation and largest economy, a country of
   almost unimaginable promise. But like many emerging nations it faces the development
   challenges that come with industrialization and growth. With offices in Lagos and
@@ -13,6 +13,7 @@ related: true
 country-page: true
 redirect_from: "/nigeria"
 layout: node
+published: false
 ---
 
 <div class="country-people">
@@ -34,46 +35,97 @@ layout: node
     <p class="name"><strong><a href="/who-we-are/our-team/judith-ogedegbe">Judith Ogedegbe, Executive Director</a></strong></p>
     </div>   
   </div>
+  <div class="country-people--block last">
+    <div class="countryRep">
+    <img src="/uploads/Lang,%20Paola%20--%2050--jpg.jpg" alt="Paola Lang">
+    <p class="name"><strong><a href="/who-we-are/our-team/paola-lang">Paola Lang, Director, New Business Development, Global Region</a></strong></p>
+    </div>   
+  </div>
 </div> 
-<aside><p><a href="/uploads/nigeria-timeline.pdf" class="float-left"><img src="/uploads/nigeria-timeline-thumb-two.jpg" alt="DAI in Nigeria Timeline"></a>DAI's work in Nigeria goes back to the 1970s. We are implementing major projects for clients including the U.K. Department for International Development, the U.S. Agency for International Development, and the Chevron-funded Partnership Initiatives for the Niger Delta. From <a href="/our-work/projects/nigeria-water-sanitation-and-hygiene-coordination-project-wcp">coordinating water, sanitation, and hygiene initiatives</a>, and empowering women to serve as <a href="/our-work/projects/nigeria-women-for-health-w4h">nurses and midwives in Northern Nigeria</a> to promoting more <a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">accountable, responsive, and capable state and federal governments</a> and boosting incomes through <a href="/our-work/projects/nigeria-market-development-programme-made">investment and market systems in the Niger Delta</a>.</p></aside>
+<aside><p><a href="/uploads/nigeria-timeline.pdf" class="float-left"><img src="/uploads/nigeria-timeline-thumb-two.jpg" alt="DAI in Nigeria Timeline"></a>DAI has a history of work in Nigeria going back to the 1970s, implementing dozens of major projects for clients including the U.K. Department for International Development, the U.S. Agency for International Development, the European Union, and the Chevron-funded Partnership Initiatives for the Niger Delta. Ongoing projects in Nigeria include <a href="/our-work/projects/nigeria-water-sanitation-and-hygiene-coordination-project-wcp">conducting water, sanitation, and hygiene initiatives</a>; empowering women to serve as <a href="/our-work/projects/nigeria-women-for-health-w4h">nurses and midwives in Northern Nigeria</a>; promoting more <a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">accountable, responsive, and capable state and federal governments</a>, while building the government’s capacity to develop pro-poor public policy; and boosting incomes through <a href="/our-work/projects/nigeria-market-development-programme-made">investment and market systems in the Niger Delta</a>.</p></aside>
 
-# Empowering Women to Serve as Nurses and Midwives
+DAI joined forces with GRID Consulting in 2018. The combined entity—complementing DAI’s global resources with GRID’s deep-rooted networks, insights, and track record of delivery in Nigeria—enables DAI to serve more efficiently a growing, technically diverse, multiclient portfolio in Nigeria, and to reinvest operational savings in our work and the operating platform that supports it.
 
-<div class="infographic">
-  <script id="infogram_0_90f68290-7bc4-43d7-a3d8-702791e146a5" title="Distribution of Healthcare Workers in Nigeria" src="https://e.infogram.com/js/dist/embed.js?Rsd" type="text/javascript"></script>
-</div>
+From this integrated platform, DAI is able to recruit, retain, support, and ensure the security of the people who deliver our work in Nigeria and the region, in full compliance with local laws and regulations and with DAI’s global standards. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and supports to partners, customers, and beneficiaries. 
 
-Northern Nigeria suffers from critical human resource challenges in the health sector. Up to 90 percent of women deliver their babies without a skilled birth attendant present, compared to 35 percent of women in the southern region of the country. Jigawa state, for example, has only five nurses per 100,000 people, compared to Enugu state in the Southeast with 59 per 100,000 women. 
+## Our Services
 
-The [Women for Health (W4H) project](/our-work/projects/nigeria-women-for-health-w4h) is working to tackle this problem by empowering women as service providers in five states in northern Nigeria. Since November 2012, W4H has increased the number and capacity of female health workers in Jigawa, Kano, Katsina, Yobe, and Zamfara, while at the same time contributing to women’s empowerment and gender equality in communities and institutions in the region. W4H is working with other health and education programs on a “building back better” approach in the conflict- and humanitarian emergency-affected areas of Borno and Yobe states, and to ensure the sustainability of the progress achieved over the past five years in Jigawa, Kano, Katsina, and Zamfara.
+### Digital Acceleration
 
-<a style="display: block; clear: left;" href="http://dai-global-developments.com/articles/young-rural-women-are-crucial-to-advancing-universal-health-coverage-in-northern-nigeria/?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+DAI has decades of expertise accelerating digital platforms for growth. We leverage DAI’s industry-leading Centre for Digital Acceleration and its work in digital strategy, insights for emerging markets, human-centred design, data-driven decision making technology R&D, and training. 
 
-<br>
+<a style="display: block; clear: left; display: block; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/digital-acceleration" target="blank" class="primary-block--button expert-button paola-block">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-# Accountable, Responsive, and Capable Government
+### Economic Growth
 
-<div class="infographic">
-<script id="infogram_0_3eb8d5f0-c8d3-49e4-a678-40b1eff61a62" title="SPARC Work" src="https://e.infogram.com/js/dist/embed.js?1LG" type="text/javascript"></script>
-</div>
+DAI drives trade, technology, agriculture, business, and financial services to create jobs, reduce poverty, and enhance food security. <strong>The State Partnership for Accountability Responsiveness and Capability</strong> and the <strong>Accountable, Responsive, and Capable Government Programme</strong> have improved Nigeria’s business enabling environment and enabled the government to raise revenue in a fairer, more efficient way. The <strong>Market Development in the Niger Delta I</strong> and <strong>Market Development in the Niger Delta II</strong> projects have catalysed market systems and spurred the creation of jobs and enterprises in the Delta. Girl Effect has connected adolescent girls to economic opportunities. Our <strong>Policy Development Facility I</strong> and <strong>Policy Development Facility II</strong> projects have deployed on-demand, rapid-response capabilities in support of the champions of change who are driving economic growth in Nigeria.
 
-Inefficient resource management, corruption, and a lack of accountability have undermined Nigeria's ability to translate economic progress into inclusive growth and improved public services. Advancements in public administration, public financial management, and enhanced policy are crucial in helping the Nigerian government provide better services to its citizens and reduce poverty.
+<a style="display: block; clear: left;  margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/economic-growth" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-DAI is assisting [the Nigerian government](/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc) to more effectively manage resources and provide more responsive and accountable services. The Accountable, Responsive, and Capable Government project works at both the state and national levels to build on the success of its predecessor program, the State Partnership for Accountability Responsiveness and Capability (SPARC). Over seven years, SPARC supported responsive policy formulation and performance-focused public service in Nigeria by helping state governments to improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning.
+### Environment and Energy
 
-<a style="display: block; clear: left;" href="http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results?utm_source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+DAI has global experience improving the management of natural resources and protecting important ecosystems while supporting economic growth. Our approach strengthens resilience to climate change, for example, while providing the foundation for sustainable development. DAI in Nigeria has expertise and experience supporting environmentally responsible policies and strategies through a good governance lens, notably through the <strong>State Partnership for Accountability Responsiveness and Capability</strong> and the <strong>Accountable, Responsive, and Capable Government programmes</strong>.
 
-<br>
+<a style="display: block; clear: left; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/environment-and-energy" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-# Supporting Market Systems to Reduce Poverty and Human Trafficking
+### Fragile States
 
-<div class="infographic">
-<script id="infogram_0_a72fe19a-ad10-4eaa-ae8f-636b35a5903f" title="Nigerian Poverty Rate" src="https://e.infogram.com/js/dist/embed.js?tge" type="text/javascript"></script>
-</div>
+Led by its Centre for Secure and Stable States, DAI provides innovative assistance to support political transition, ensure short-term stability, prevent and counter violent extremism, and lay the foundation for long-term development in fragile environments. DAI in Nigeria has provided an array of support for such environments in Adamawa, Borno, Yobe, and Zamfara States through the <strong>State Partnership for Accountability Responsiveness and Capability</strong>, the <strong>Accountable, Responsive, and Capable Government</strong>, and the <strong>Women for Health</strong> programmes. The <strong>Market Development in the Niger Delta I</strong> and <strong>Market Development in the Niger Delta II</strong> projects have both worked to foster economic stability in the volatile Delta region.
 
-Despite having the largest economy in Africa, around half of Nigeria’s population still lives in poverty. The [Market Development in the Niger Delta Project (MADE)](/our-work/projects/nigeria-market-development-programme-made) is promoting inclusive, pro-poor growth for farmers and entrepreneurs. At the same time, this market systems development approach will help address the root causes of outward migration that have led thousands to fall victim to human traffickers in Libya and Europe. By connecting vulnerable populations with desirable jobs at home, MADE aims to reduce the number of Nigerians who attempt to migrate abroad only to end up trapped in modern slavery.
+<a style="display: block; clear: left; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/fragile-states" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-<a style="display: block; clear: left;" href="http://dai-global-developments.com/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/?source=daidotcom" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+### Global Health
+
+DAI delivers holistic, tech-enabled solutions to save lives and improve wellbeing worldwide. With an emphasis on strengthening health systems, DAI in Nigeria has implemented a wealth of projects including the <strong>Partnership for Transforming Health Systems</strong>, <strong>Supporting the National Malaria Programme in Nigeria</strong>, the <strong>Partnership for Reviving Routine Immunisation in Northern Nigeria</strong>, <strong>Malaria Action Programme for States</strong>, <strong>Maternal and New-born Child Health</strong>, and <strong>Women for Health</strong>. 
+
+<a style="display: block; clear: left; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/global-health" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+
+### Governance
+
+DAI strengthens and improves government performance by providing technical advice, strategic guidance, and support to public institutions, elected bodies, and citizens. For more than two decades, DAI in Nigeria has been a pre-eminent partner for international donors and Nigeria’s national and local governments through the <strong>State and Local Government Programme</strong>, the <strong>State Partnership for Accountability Responsiveness and Capability</strong>, and the <strong>Accountable, Responsive, and Capable Government</strong> programmes. <strong>Girl Effect</strong> has been working to ensure governance addresses marginalised adolescent girls. 
+
+<a style="display: block; clear: left; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/governance" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+
+### Sustainable Business
+
+DAI’s Sustainable Business Group supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries. For example, DAI assisted Chevron’s <strong>Partnership Initiatives in the Niger Delta</strong> in developing its economic development strategy.
+
+<a style="display: block; clear: left; margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/sustainable-business" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+
+## Our Services
+
+DAI in Nigeria provides support to a growing portfolio of projects and clients in the country and the region. We tailor our services to the distinct needs of those projects, and we are always open to new partnerships. For information on new partnerships—see [Paola Lang](/who-we-are/our-team/paola-lang).
+
+### Human Resource Management
+
+We provide comprehensive HR management services to ensure consistent and compliant human resources standards for operations in Nigeria. Our services include:
+
+* HR policy development, customisation, and implementation
+* Management of staff benefits
+* Performance management 
+* Staff onboarding
+* Payroll management
+* Local labour and legal guidance
+* Programme and proposal recruitment
+* Mandatory training
+
+### Short-Term Technical Assistance Management
+
+We provide contract and consultancy management support for programmes, establishing standards and processes to ensure the consistent delivery of high-quality, compliant contracts and consultancy services. Our services include:
+
+* Identification and management of consultants
+* Management of service level agreements
+
+### Integrated Support Services – Administration and Operations Management 
+
+We provide integrated support services to optimize operating efficiencies and effectiveness and obtain economies of scale. Our services include:
+
+* Project start-up 
+* Support for visa/work permit processing 
+* Information technology management 
+* Local procurement 
+* Management of office space 
+* Coordination of security plans and development of corporate security procedures 
 
 <br>
 
