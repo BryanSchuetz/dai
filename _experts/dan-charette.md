@@ -1,6 +1,7 @@
 ---
 title: Dan Charette
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Charette
 summary: As the Director for New Business of the Asia portfolio, Dan Charette manages
   a seven-person team and oversees all business development functions for the Asia
