@@ -17,6 +17,8 @@ promos:
   link: "/news/view-more-news?filter=digital-acceleration"
 - title: Digital Blog
   link: https://dai-global-digital.com?utm_source=daidotcom
+- title: "**Learn More**: Digital Services"
+  link: "/uploads/cda_brochure.pdf"
 related: false
 hero: true
 layout: solution
