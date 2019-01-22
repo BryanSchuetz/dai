@@ -19,7 +19,7 @@ Along with key partner Winrock International, DAI will build the capacity of the
 
 Nepal’s clean energy sector faces complex and interrelated challenges and uncertainties. These include sector-specific issues such as a lack of sustainable financing mechanisms and an over-reliance on subsidies, in addition to wider contextual challenges such as the decentralization of authority to new provincial and local government units under Nepal’s federal transition. These challenges must be overcome if the sector is to achieve its potential in terms of improving access to clean energy and driving increased productivity in the rural economy.
 
-![Nepal-Renewable.jpg](/uploads/Nepal-Renewable.jpg)`Photo by Rob Goodier/Engineering for Change`
+![Nepal-Renewable.jpg](/uploads/Nepal-Renewable.jpg "Photo by Rob Goodier/Engineering for Change")
 
 ### Sample Activities 
 
