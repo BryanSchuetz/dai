@@ -1,6 +1,6 @@
 ---
 title: Digital Strategy
-date: 2016-01-22 00:11:14.114000000 Z
+date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/digital-acceleration-solutions/digital-strategy"
 solutions:
 - Digital Acceleration
@@ -9,8 +9,10 @@ promos:
   link: https://dai-global-digital.com/climate-change-and-technology-preparing-to-hack-the-problem.html
 - title: Supporting Local Innovators
   link: https://dai-global-digital.com/how-to-engage-and-support-local-innovators-three-take-aways-from-the-digital-development-forum.html
-layout: solution
+- title: "**Learn More**: Digital Services"
+  link: "/uploads/cda_brochure.pdf"
 hero: true
+layout: solution
 ---
 
 CDA builds digital strategies that help clients understand and integrate new opportunities, technology partners, and emerging digital tools. We provide advisory services to build digital strategies, by combining DAI’s more than 20 years of experience implementing new technology in emerging markets with real-time data and analysis of broader political, economic, and social trends.
