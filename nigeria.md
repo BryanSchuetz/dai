@@ -34,7 +34,7 @@ layout: node
     <p class="name"><strong><a href="/who-we-are/our-team/judith-ogedegbe">Judith Ogedegbe, Executive Director</a></strong></p>
     </div>   
   </div>
-  <div class="country-people--block last">
+  <div class="country-people--block last" style="clear: right;">
     <div class="countryRep">
     <img src="/uploads/Lang,%20Paola%20--%2050--jpg.jpg" alt="Paola Lang">
     <p class="name"><strong><a href="/who-we-are/our-team/paola-lang">Paola Lang, Business and Program Development Advisor</a></strong></p>

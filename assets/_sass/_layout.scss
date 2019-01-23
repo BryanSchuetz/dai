@@ -1215,10 +1215,12 @@ iframe{
     }
   }
   .country-people{
+    @include clearfix;
     @include responsive(wide-screens){
       width: 20%;
       float: right;
       margin-left: $gutter;
+
     } 
   .country-people--block{
     width: 30%;
