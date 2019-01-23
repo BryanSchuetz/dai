@@ -13,6 +13,7 @@ related: true
 country-page: true
 layout: node
 ---
+
 <div class="block-project">
   <h1>Projects</h1>
   <hr>
