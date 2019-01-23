@@ -1,12 +1,9 @@
 ---
-title: Nigeria—State Partnership for Accountable, Responsive, and Capable Government
-  (SPARC); Accountable, Responsive, and Capable Government (ARC)
+title: Nigeria—Accountable, Responsive, and Capable Government
 date: 2016-01-21 22:40:00 Z
-summary: 'The Accountable, Responsive, and Capable Government (ARC) programme supports
-  the Nigerian government in more effectively managing resources and providing more
-  responsive and accountable services to its citizens. '
-start: 2008
-end: 2021
+summary: 'The U.K. Department for International Development Partnership to Engage, Reform and Learn is a five-year programme that supports governments, citizens, and evidence-based advocacy. PERL helps governments develop and implement policy by assisting them in tracking and accounting for how policies, plans, and budgets are used in delivering public goods and services to promote growth and reduce poverty. It supports citizens to engage with these processes.'
+start: 2016
+end: 2020
 client: U.K. Department for International Development
 solutions:
 - Governance
@@ -25,23 +22,34 @@ country:
 layout: project
 ---
 
-Nigeria is Africa’s largest economy and one that continues to grows in size and dynamism. However, inefficient resource management, corruption, and a lack of accountability have undermined the government’s ability to translate this economic progress into inclusive growth and improved public services for more Nigerians. Advancements in public administration, public financial management, and enhanced policy are crucial in helping the Nigerian government provide better services to its citizen and reduce high levels of poverty.
-
-To promote progress in these key areas, the U.K. Department for International Development (DFID) launched the Accountable, Responsive, and Capable Government (ARC) programme to support the Nigerian government in more effectively managing resources and providing more responsive and accountable services to its citizens. ARC works at both the state and national levels to build on the success of its predecessor program, the State Partnership for Accountability Responsiveness and Capability (SPARC). Over seven years, SPARC helped to support responsive policy formulation and encourage performance-focused public service in Nigeria by helping state governments to improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning.
-
-In implementing ARC, formerly known as the Partnership to Engage, Reform and Learn Pillar 1: Accountable, Responsive and Capable Government (ARC), DAI takes a collective action approach to reduce corruption and strengthen public accountability by working with stakeholders inside and outside of government. ARC also utilizes problem-driven iterative adaptation methods to improve public services by involving community members in identifying and solving specific issues.
+The U.K. Department for International Development (DFID) Partnership to Engage, Reform and Learn (PERL) is a five-year programme that supports governments, citizens, and evidence-based advocacy. PERL helps governments develop and implement policy by assisting them in tracking and accounting for how policies, plans, and budgets are used in delivering public goods and services to promote growth and reduce poverty. It supports citizens to engage with these processes.
 
 ![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
 
+PERL is being delivered through coordinated “pillars” that together support sustainable service delivery reforms: Pillar 1 is Accountable, Responsive, and Capable Government (ARC), delivered by DAI; Pillar 2, Engaged Citizens, is delivered by Palladium. Through PERL, DAI and Palladium work collaboratively at the federal level; in the partner states of Kano, Kaduna, and Jigawa; and through regional learning and reform hubs in the southwest, southeast, and northeast areas of Nigeria. PERL builds on the experiences of SPARC and applies a problem-driven, iterative adaptation approach (PDIA). DFID's largest adaptive management in governance programme, it received an A+ in its most recent evaluation.
+
 ### Sample Activities
 
-* Support state partners in moving to e-government services that create more secure, paperless platforms, and enhance service delivery while reducing costs.
-* Strengthen capacity of Nigerian think tanks to deliver high-quality research and use results for advocacy and to contribute to the country’s current policy debates.
-* Improve delivery of government services for marginalised groups, such as women living in poverty and people with disabilities, by collaborating with the State Accountability and Voice Initiative.
+* Embedding, deepening, and broadening reform through connected work in three partner states, three regional hubs, and the Federal Republic to influence change throughout all 36 states.
+* Establishing communities of practice for Commissioners of Planning and Budget from all 36 states and for senior women who serve as civil or public servants in strategic sectors.
+* Connecting governance reform with improved service delivery covering agriculture and primary health in Kaduna, education in Jigawa and Kano, and Ease of Doing Business across the southwest and southeast regions of Nigeria.
+
 
 ### Select Results
 
-* SPARC helped state governments collect an additional £600 million in funds to support public services by improving domestic revenue mobilization, reclaiming funds from dormant bank accounts, reducing procurement costs, and recovering outstanding debts.
-* SPARC supported the development of 10 [State Development Plans](http://www.eldis.org/go/latest-news/news/five-key-lessons-on-effective-governance-reform-from-sparc-nigeria) and strengthened linkage to budgets.
-* SPARC advocated for increased state spending on health and education, contributing to an additional £329 million in these sectors, which resulted in 2.1 million additional children enrolling in school and an additional 300,000 children receiving basic vaccinations.
-* SPARC set up an online resource center with more than 600 documents, resources, and reports that shared best practices, lessons learned, and data from SPARC activities.
+**Governance:**
+
+* More transparent government, improved budget processes, and better service delivery at the federal level, with evidence of significant changes including the Open Government Partnership, a public budget portal, and the first public budget hearings in Nigeria's history. 
+* In partner states, significant changes including primary health service improvement in Kaduna, public budget hearings, and state-level adoption of the Open Government Partnership. The regional hubs are connected to knowledge hubs that generate evidence-based peer-learning, replicate good practices, and improve service delivery.
+
+**Fragile States:** 
+
+Delivered learning for locally led development across Borno, Adamawa, and Yobe States. Yobe was able to qualify for the World Bank Multi Sector Crisis Recovery Plan and saved £200,000 by adopting better procurement methods. 
+
+**Economic Growth:**
+
+Improving the business enabling environment by removing obstacles for businesses, supporting tax and internal revenue reforms, and mobilising reform through the Nigeria Governors Forum, the Presidential Committee on Ease of Doing Business, the South East Governors Forum, and the Development Agenda for Western Nigeria. 
+
+### Resources, Publications, and Toolkits
+
+ARC’s fully searchable [Public Financial Management Database](http://www.perlnigeria.net/new-version/resources-for-partners/perl-arc-public-financial-management-(pfm)-database) contains the budgets and accounts of State Governments and the Federal Republic over the past 10 years, complemented by toolkits on Ease of Doing Business, Local Government Planning, Gender Conflict, and Social Inclusion. 
