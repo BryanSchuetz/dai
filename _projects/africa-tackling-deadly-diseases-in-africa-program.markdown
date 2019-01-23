@@ -25,8 +25,6 @@ TDDAP will strengthen health systems and institutions, including the World Healt
 
 Core partners include ICI-Santé, Liverpool School of Tropical Medicine, Fondation Mérieux, Operations Partnership and UK-Med in addition to resource partners, Institute of Development Studies, EHealth Nigeria, and [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) affiliate IntraHealth.
 
-![tddap-temp-pic.jpg](/uploads/tddap-temp-pic.jpg)
-
 ### Select Activities
 
 * Leverage in-country networks in government and civil society and those experienced with infectious disease surveillance and outbreak response. 
