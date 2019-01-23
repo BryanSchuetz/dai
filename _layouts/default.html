@@ -69,9 +69,9 @@
   {% endif %}
 {%- comment -%} Check for which section we're in and build the right mini-hero for each one — We don't build one for the Careers section because that happens in the careers layout {%- endcomment -%}
 {% if page.hero and page.url contains "who-we-are" %}
-  <div class="hero-wrap who-we-are">
+  <div class="hero-wrap {% if page.url contains "global-reach/dai-nigeria" or page.url contains "global-reach/nigeria"%}our-work{% else %}who-we-are{%endif%}">
     <div class="node-hero">
-        <h1 class="hero-title">{{page.title}}</h1>
+        <h1 class="hero-title"> {% if page.url contains "global-reach/dai-nigeria" or page.url contains "global-reach/nigeria"%}<a class="hero-title--link" href="/who-we-are/global-reach/dai-nigeria">{{page.title}}</a>{% else %}{{page.title}}{% endif %}</h1>
         <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
     </div>
   </div>
