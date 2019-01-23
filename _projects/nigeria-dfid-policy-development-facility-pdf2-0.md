@@ -1,7 +1,10 @@
 ---
 title: Nigeria—Policy Development Facility Phase II
 date: 2016-01-21 22:40:00 Z
-summary: The Policy Development Facility II is a flexible, rapid-response facility that supports “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further reduce poverty in Nigeria.
+summary: The Policy Development Facility II is a flexible, rapid-response facility
+  that supports “champions of change”—primarily federal ministers, but also other
+  high-level government officials such as the Office of the Vice President—to implement
+  economic and social policies that further reduce poverty in Nigeria.
 start: 2015
 end: 2020
 client: U.K. Department for International Development

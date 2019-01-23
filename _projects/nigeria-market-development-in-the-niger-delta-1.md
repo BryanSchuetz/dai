@@ -1,7 +1,10 @@
 ---
 title: Nigeria—Market Development in the Niger Delta I (MADE)
 date: 2016-01-21 22:40:00 Z
-summary: Despite having the largest economy in Africa, vibrant commercial centres, and a sizable oil and gas industry, half of Nigeria’s population still lives below the poverty line. Nowhere is this contrast in living standards more apparent than in the Niger Delta region, made up of nine oil-producing southern states.
+summary: Despite having the largest economy in Africa, vibrant commercial centres,
+  and a sizable oil and gas industry, half of Nigeria’s population still lives below
+  the poverty line. Nowhere is this contrast in living standards more apparent than
+  in the Niger Delta region, made up of nine oil-producing southern states.
 start: 2014
 end: 2018
 client: U.K. Department for International Development

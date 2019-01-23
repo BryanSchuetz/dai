@@ -1,7 +1,11 @@
 ---
 title: Nigeria—Policy Development Facility I
 date: 2016-01-21 22:40:00 Z
-summary: The Policy Development Facility was a flexible, rapid-response facility designed to support those “champions of change” who are driving economic and social policies that reduce poverty in Nigeria, primarily ministers at the federal level. The Facility helped to build their capacity and provide a more robust evidence base to pursue vital pro-poor economic and social reforms. 
+summary: The Policy Development Facility was a flexible, rapid-response facility designed
+  to support those “champions of change” who are driving economic and social policies
+  that reduce poverty in Nigeria, primarily ministers at the federal level. The Facility
+  helped to build their capacity and provide a more robust evidence base to pursue
+  vital pro-poor economic and social reforms.
 start: 2010
 end: 2015
 client: U.K. Department for International Development
@@ -12,7 +16,7 @@ regions:
 - Sub-Saharan Africa
 country:
 - Nigeria
-promos:
+promos: 
 layout: project
 ---
 

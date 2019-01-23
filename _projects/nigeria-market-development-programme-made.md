@@ -17,6 +17,7 @@ country:
 - Nigeria
 layout: project
 ---
+
 The Market Development in the Niger Delta II (MADE II) project [continues working](http://dai-global-developments.com/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/) in the Niger Delta states to promote inclusive, pro-poor growth for farmers and entrepreneurs. The programme is scaling up successful market interventions from the first phase and establishing exit plans with local partners. In addition, the programme is utilizing a similar [market systems development approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/) to help address the root causes of outward migration that have led thousands to fall victim to human traffickers in Libya and Europe. 
 
 By connecting vulnerable populations with desirable jobs at home, MADE II aims to reduce the number of Nigerians who attempt to migrate work abroad only to end up trapped in modern slavery. Efforts focus on Edo State, the largest contributor of human trafficking victims from Nigeria. MADE II identified six sectors well positioned to create appealing job opportunities in Edo: high-end agribusiness, information and communication technology, renewable energy, wholesale and retail, cosmetics, and the entertainment industry. 
