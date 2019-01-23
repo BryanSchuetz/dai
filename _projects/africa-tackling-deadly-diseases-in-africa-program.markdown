@@ -2,7 +2,7 @@
 title: Africa—Tackling Deadly Diseases in Africa Program
 date: 2019-01-23 15:27:00 Z
 summary: The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives
-  and reduce the impact of disease outbreaks and epidemics on African populations.
+  and reduce the impact of disease outbreaks and epidemics.
 start: 2019
 end: 2024
 client: U.K. Department for International Development
