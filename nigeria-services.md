@@ -13,6 +13,7 @@ related: true
 country-page: true
 layout: node
 ---
+
 # Our Services
 
 DAI in Nigeria provides support to a growing portfolio of projects and clients in the country and the region. We tailor our services to the distinct needs of those projects, and we are always open to new partnerships. **For information on new partnerships—see [Paola Lang](/who-we-are/our-team/paola-lang).**
