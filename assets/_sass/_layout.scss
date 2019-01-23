@@ -1488,7 +1488,7 @@ clear: right;
   }
 }
 .paola-block{
-  @include responsive(ultra-wide-screens){
+  @include responsive(wide-screens){
     width: 75%;
   }
 }
