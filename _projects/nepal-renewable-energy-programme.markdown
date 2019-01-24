@@ -1,5 +1,5 @@
 ---
-title: Nepal Renewable Energy Programme
+title: Nepal—Renewable Energy Programme
 date: 2019-01-22 21:16:00 Z
 summary: 'Along with key partner Winrock International, DAI will build the capacity
   of the Government of Nepal to lead and manage the National Small-Scale Renewable
