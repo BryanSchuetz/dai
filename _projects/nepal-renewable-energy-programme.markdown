@@ -1,10 +1,10 @@
 ---
 title: Nepal—Renewable Energy Programme
 date: 2019-01-22 21:16:00 Z
-summary: 'Along with key partner Winrock International, DAI will build the capacity
+summary: Along with key partner Winrock International, DAI is building the capacity
   of the Government of Nepal to lead and manage the National Small-Scale Renewable
   Energy Framework—an overarching vision for the off-grid electricity and clean cooking
-  sector—and deliver a programme of activities in line with the framework. '
+  sector.
 start: 2019
 end: 2023
 client: U.K. Department for International Development
@@ -24,9 +24,6 @@ Nepal’s clean energy sector faces complex and interrelated challenges and unce
 ### Sample Activities 
 
 * Build the government’s capacity to lead and manage the National Small-Scale Renewable Energy Framework through the Alternative Energy Promotion Centre and other relevant institutions.
-
 * Strengthen the capacity of Nepal’s Central Renewable Energy Fund to manage and spend climate finance.
-
 * Deliver activities related to increasing the demand for renewable energy, the supply of renewable energy technologies, and finance for renewable energy.
-
 * Generate and share knowledge related to Nepal’s renewable energy sector and develop networks of partners working in the sector.
