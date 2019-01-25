@@ -26,6 +26,8 @@ DAI leverages what we have learned in other sectors since 1970, providing techni
 
 With more than 20 years of health experience, we apply a proven ‘whole-of-systems’ approach to strengthen health systems, global health security, and digital health to take solutions to scale and achieve impact.
 
+[IntraHealth (1).JPG](/uploads/IntraHealth%20(1).JPG)
+
 DAI Global Health’s capacity was augmented by the June 2017 acquisition of [Health Partners International (HPI)](http://healthpartners-int.co.uk/), adding a wealth of technical ‘know-how’ in health systems strengthening. HPI delivered more than 200 health projects in 40 countries over the past two decades in reproductive, maternal, newborn, child, and adolescent health including immunization, nutrition, malaria, and other communicable diseases.
 
 ## Doing Development Differently
