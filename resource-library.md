@@ -16,6 +16,9 @@ layout: default
   <hr>
 {%- endfor -%} -->
 
+# DAI Health Resrouces Library
+
+By freely sharing what we learn, we have built a reputation as thought leaders who translate ideas into action and action into results. You can search through our collection of stand alone resources below.
 
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.1/dist/instantsearch.min.js"></script>
 
@@ -29,9 +32,15 @@ layout: default
   </div>
 </div>
 
+<hr class="break">
+
+<div id="refine"></div>
+
+<div id="hits"></div>  
+
 {%- raw -%}
 
-script type="text/javascript">
+<script type="text/javascript">
 function getUrlParameter(name) {
     name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
     var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
@@ -46,7 +55,7 @@ var keywords = getUrlParameter('keywords');
   apiKey: '2eb09d538a98a073da44848ed195c79d',
   indexName: 'resource-library',
   searchParameters: {
-    attributesToSnippet: ["docTitle", "docSummary", "organization", "solutions", "docType"],
+    attributesToSnippet: ["docTitle", "docSummary:60", "organization", "solutions", "docType"],
      facetingAfterDistinct: true,
      query: keywords,
      snippetEllipsisText: '[&hellip;]'
@@ -64,7 +73,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.menu({
     container: '#rev-box',
-    attributeName: 'layout',
+    attributeName: 'docType',
     operator: 'or',
     limit: 3,
     sortBy: ["count:desc","name:asc"],
@@ -80,13 +89,26 @@ search.addWidget(
       container: '#hits',
       templates: {
         empty: 'No results',
-        item: '<a class="alg-link" href="{{url}}"><h3 class="alg-title">{{{_highlightResult.docTitle.value}}}</h3></a><span class="alg-text">{{#docSummary}}{{{_snippetResult.docSummary.value}}}{{/docSummary}}{{^doc_Summary}}{{{_snippetResult.summary.value}}}{{/docSummary}}</span><br><hr>'
-      }
-    })
-  );
-
-search.start();
-
+        item: '<a class="alg-link" href="https://assetify-dai.com/resource-library/{{docFilename}}"><h3 class="alg-title">{{{_highlightResult.docTitle.value}}}</h3></a><p style="font-size: .8rem; margin-bottom: .1rem;"><strong>{{organization}}</strong></p><img class="docThumbnail" style="width: 15%; margin-top: .5rem; margin-bottom: 0px; float: left; margin-right: 1rem;" src="https://assetify-dai.com/resource-library/thumbnail/{{docThumbnail}}"/><span class="alg-text">{{#docSummary}}{{{_snippetResult.docSummary.value}}}{{/docSummary}}{{^docSummary}}{{{_snippetResult.summary.value}}}{{/docSummary}}</span><br><hr>'
+          }
+        })
+      );
+    
+search.addWidget(
+  instantsearch.widgets.refinementList({
+                container: '#refine',
+              attributeName: 'solutions',
+              operator: 'or',
+              limit: 10,
+    templates: {
+                header: 'Further Refine Results by Solution:',
+      item: '{{^ hide}}<span class="refine-button">{{ label }}</span>{{/ hide}}'
+            }
+          })
+        );
+        
+        search.start();
+        
 </script>
 
 {% endraw %}
