@@ -14,7 +14,7 @@ Sakil Malik, DAI’s Senior Global Practice Lead for Education, has urged leader
 
 “Few Omani students today pursue expertise in STEM fields, even though the [Oman 2040 Vision](https://www.2040.om/en/) calls for the country to become a regional and global leader,” said [Malik](https://www.dai.com/news/sakil-malik-to-lead-growing-education-practice-at-dai), who addressed this week’s [International Conference of the Fourth Industrial Revolution](http://conference.n-batna.com/index.php) in Suhar, Oman. “It is crucial for youth to be equipped with the knowledge and skills to solve tough problems, gather and evaluate evidence, and make sense of information. These are skills that students learn by studying the subjects collectively known as STEM.”
 
-![DAI-News----Sakil-Malik-pic.jpg](/uploads/DAI-News----Sakil-Malik-pic.jpg)`DAI's Sakil Malik, third from right, with members of Oman's Supreme Education Council.`
+![DAI-News----Sakil-Malik-pic.jpg](/uploads/DAI-News----Sakil-Malik-pic.jpg)`DAI's Sakil Malik, third from right, with members of Oman's Supreme Education Council and senior staff.`
 
 Malik has led [education](https://www.dai.com/our-work/solutions/education) initiatives for 20 years in countries such as Cambodia, India, Tajikistan, Tanzania, and Timor-Leste. To improve STEM education in Oman, Malik recommended:
 
