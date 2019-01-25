@@ -16,11 +16,11 @@ layout: node
 
 # Our Services
 
-DAI in Nigeria provides support to a growing portfolio of projects and clients in the country and the region. We tailor our services to the distinct needs of those projects, and we are always open to new partnerships. **For information on new partnerships—see [Paola Lang](/who-we-are/our-team/paola-lang).**
+DAI in Nigeria provides support to a growing portfolio of projects and clients in the country and the region. We tailor our services to the distinct needs of those projects, and we are always open to new **opportunities to work together**. **[Please contact Paola Lang](mailto:paola_lang@dai.com)**.
 
 ### Human Resource Management
 
-We provide comprehensive HR management services to ensure consistent and compliant human resources standards for operations in Nigeria. Our services include:
+We provide comprehensive services to ensure consistent and compliant standards for human resource management in Nigeria. Our services include:
 
 * HR policy development, customisation, and implementation
 * Management of staff benefits
@@ -28,15 +28,18 @@ We provide comprehensive HR management services to ensure consistent and complia
 * Staff onboarding
 * Payroll management
 * Local labour and legal guidance
-* Programme and proposal recruitment
-* Mandatory training
+* Programme recruitment
+* Related training
 
-### Short-Term Technical Assistance Management
+### Contact Support and Management
 
-We provide contract and consultancy management support for programmes, establishing standards and processes to ensure the consistent delivery of high-quality, compliant contracts and consultancy services. Our services include:
+We provide management support for programmes, establishing standards and processes to ensure the consistent delivery of high-quality, compliant contracts and consultancy services. Our services include:
 
-* Identification and management of consultants
-* Management of service level agreements
+* Service contract management and oversight
+* Program management and oversight
+* Institutional and organizational assessments
+* Grant management systems design and oversight
+* Audit and financial compliance reviews
 
 ### Integrated Support Services – Administration and Operations Management 
 
@@ -47,6 +50,6 @@ We provide integrated support services to optimize operating efficiencies and ef
 * Information technology management 
 * Local procurement 
 * Management of office space 
-* Coordination of security plans and development of corporate security procedures 
+* Security plan and security procedures development 
 
 {% include help-desk.html %}
