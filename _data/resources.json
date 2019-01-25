@@ -10,7 +10,8 @@
             "Global Health Security and Pandemic Preparedness"
         ],
         "docFilename": "pandr_disease_prioritizations.pdf",
-        "docThumbnail": "pandr_disease_prioritizations_page1.jpeg"
+        "docThumbnail": "pandr_disease_prioritizations_page1.jpeg",
+        "year": 2018
     },
     {
       "docTitle": "The Business Case for Prevention, Preparedness & Response to Pandemics, Epidemics & Outbreaks",
@@ -23,26 +24,28 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "pandr_business_case_brief.pdf",
-      "docThumbnail": "pandr_business_case_brief_page1.jpeg"
+      "docThumbnail": "pandr_business_case_brief_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "Preparedness and Response: One Health in Action",
       "docSummary": "Increasing numbers and severity of infectious disease outbreaks over the last two decades, such as Ebola virus disease, Highly Pathogenic Avian Influenza, and Zika, have had profound impacts on human health, caused severe burdens on human livelihoods and economies, and posed global security threats. These major disease outbreaks have galvanized support to build national and global capacities in order to meet the requirements of the International Health Regulations (IHR-2005) and advance the Global Health Security Agenda.",
       "organization": "Preparedness and Response",
       "docType": [
-        "Brochure",
-        "Project Report"
+        "Brochure"
       ],
       "solutions": [
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "pandr_one_health_in_action.pdf",
-      "docThumbnail": "pandr_one_health_in_action_page1.jpeg"
+      "docThumbnail": "pandr_one_health_in_action_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "One Health Economics to Confront Disease Threats",
       "docSummary": "Recent outbreaks of emerging infectious disease resulted not only in high health impacts, but also substantial economic costs locally, regionally and globally. Most emerging diseases are zoonotic, and many are driven by agricultural intensifica- tion and changes in land use, demographics and behavior.",
       "organization": "Preparedness and Response",
+      "source": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
       "docType": [
         "Journal Article"
       ],
@@ -50,10 +53,11 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "one_health_economics_to_confront_disease_threats.pdf",
-      "docThumbnail": "one_health_economics_to_confront_disease_threats_page1.jpeg"
+      "docThumbnail": "one_health_economics_to_confront_disease_threats_page1.jpeg",
+      "year": 2017
     },
     {
-      "docTitle": "Advancing Global Partnerships",
+      "docTitle": "Advancing Global Partnerships: The Essential Role of Multisectoral Coordination",
       "docSummary": "Responding to the emerging zoonotic and other infectious disease threats requires the collective and coordinated efforts of multiple technical sectors and disciplines – an approach known as One Health multisectoral coordination.",
       "organization": "Preparedness and Response",
       "docType": [
@@ -63,7 +67,8 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "ghsa_poster_multisectoral_coordination.pdf",
-      "docThumbnail": "ghsa_poster_multisectoral_coordination_page1.jpeg"
+      "docThumbnail": "ghsa_poster_multisectoral_coordination_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "Role of Private Sector Companies during the Ebola Virus Disease Crisis in West Africa",
@@ -76,12 +81,14 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "iceid_poster_final.pdf",
-      "docThumbnail": "iceid_poster_final_page1.jpeg"
+      "docThumbnail": "iceid_poster_final_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "Multisectoral Prioritization of Zoonotic Diseases in Uganda, 2017: A One Health Perspective",
       "docSummary": "Zoonotic diseases continue to be a public health burden globally. Uganda is especially vulnerable due to its location, biodiversity, and population. Given these concerns, the Ugandan government in collaboration with the Global Health Security Agenda conducted a One Health Zoonotic Disease Prioritization Workshop to identify zoonotic diseases of greatest national concern to the Ugandan government.",
       "organization": "Preparedness and Response",
+      "source": "PLOS One",
       "docType": [
         "Journal Article"
       ],
@@ -89,7 +96,8 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "multisectoral_prioritization_of_zoonotic_diseases_in_uganda.pdf",
-      "docThumbnail": "multisectoral_prioritization_of_zoonotic_diseases_in_uganda_page1.jpeg"
+      "docThumbnail": "multisectoral_prioritization_of_zoonotic_diseases_in_uganda_page1.jpeg",
+      "year": 2017
     },
     {
       "docTitle": "Role of Environment in One Health and National Health Security",
@@ -102,7 +110,8 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "role_of_environment_national_health_security_planning.pdf",
-      "docThumbnail": "role_of_environment_national_health_security_planning_page1.jpeg"
+      "docThumbnail": "role_of_environment_national_health_security_planning_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "Tackling a Wicked Problem",
@@ -115,12 +124,14 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "iohc_poster_final.pdf",
-      "docThumbnail": "iohc_poster_final_page1.jpeg"
+      "docThumbnail": "iohc_poster_final_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "Institutionalizing One Health: From Assessment to Action",
       "docSummary": "A One Health approach is critical to strengthening health security at country, regional, and global levels. However, operationally its uptake remains limited. Recent momentum in assessing capacity to effectively prevent, detect, and respond to disease threats has resulted in identification of gaps that require dedicated action. This article highlights relevant tools, standards, and guidance to assist countries and institutions in meeting the collective vision articulated at the 2018 Prince Mahidol Award Conference on ‘Making the World Safe from the Threats of Emerging Infectious Diseases.’",
       "organization": "Preparedness and Response",
+      "source": "Health Security",
       "docType": [
         "Journal Article"
       ],
@@ -128,7 +139,8 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "institutionalizing_one_health_from_assessment_to_action.pdf",
-      "docThumbnail": "institutionalizing_one_health_from_assessment_to_action_page1.jpeg"
+      "docThumbnail": "institutionalizing_one_health_from_assessment_to_action_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "One Health Uganda",
@@ -141,12 +153,14 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "uganda_brief_final.pdf",
-      "docThumbnail": "uganda_brief_final_page1.jpeg"
+      "docThumbnail": "uganda_brief_final_page1.jpeg",
+      "year": 2018
     },
     {
       "docTitle": "Frontline Health Workers’ Nobel Role in Disease Prevention for Achieving Global Health Security: Why are we not Learning the Lessons?",
       "docSummary": "Frontline health workers are trusted, knowledgeable health personnel, who belong to the communities they serve. They are well accepted and relied on by the communities and form the central pillar of the effective health systems key to reducing preventable deaths and achieving universal health coverage. They are the foundation of disease intelligence essential to efforts to eliminate diseases and prevent disease outbreak.",
       "organization": "Preparedness and Response",
+      "source": "Journal of Healthcare Communications",
       "docType": [
         "Journal Article"
       ],
@@ -154,7 +168,8 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "frontline_health_workers_nobel_role_in_disease_prevention.pdf",
-      "docThumbnail": "frontline_health_workers_nobel_role_in_disease_prevention_page1.jpeg"
+      "docThumbnail": "frontline_health_workers_nobel_role_in_disease_prevention_page1.jpeg",
+      "year": 2017
     },
     {
       "docTitle": "Advancing Global Partnerships: The Essential Role of Indonesia",
@@ -167,6 +182,7 @@
         "Global Health Security and Pandemic Preparedness"
       ],
       "docFilename": "ghsa_poster_indonesia.pdf",
-      "docThumbnail": "ghsa_poster_indonesia_page1.jpeg"
+      "docThumbnail": "ghsa_poster_indonesia_page1.jpeg",
+      "year": 2018
     }
 ]
