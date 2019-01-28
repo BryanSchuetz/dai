@@ -73,12 +73,12 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.menu({
     container: '#rev-box',
-    attributeName: 'docType',
+    attributeName: 'solution',
     operator: 'or',
     limit: 3,
     sortBy: ["count:desc","name:asc"],
     templates: {
-      header: 'Filter Results by Document Type:',
+      header: 'Filter Results by Solution:',
       item: '<div class="menu-item"><span class="menu-item--label">{{ label }} ({{ count }} items)</h3></span>'
     }
   })
@@ -101,11 +101,11 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
                 container: '#refine',
-              attributeName: 'solutions',
+              attributeName: 'docType',
               operator: 'or',
               limit: 10,
     templates: {
-                header: 'Further Refine Results by Solution:',
+                header: 'Further Refine Results by Document Type:',
       item: '{{^ hide}}<span class="refine-button">{{ label }}</span>{{/ hide}}'
             }
           })
