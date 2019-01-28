@@ -17,15 +17,15 @@ Combining multiyear activity with short-term interventions and access to crisis 
 The framework provides access to effective and cost-efficient services to help deliver UK Government objectives contained within the NSC strategies and to support UK Government’s work responding to crises, instability, and insecurity in fragile and conflict-affected states in an integrated manner.
 
 The framework covers a broad range of thematic areas, including: 
-* Understanding and Strengthening inclusive politics, political processes, and accountability.
+* Understanding and strengthening inclusive politics, political processes, and accountability.
 * Public sector reform and public financial management.
 * Security sector reform and security sector capacity building.
-* Justice sector reform and Rule of Law.
-* Counter Violence Extremism/Counter Terrorism.
+* Justice sector reform and rule of law.
+* Counter violence extremism/counter terrorism.
 * Peace-building, stabilisation, and conflict sensitivity.
 * State/civil society engagement.
-* Inclusive Conflict prevention and Peacebuilding.
-* Strategic Communication and Outreach.
-* Defence Training and Advice.
-* Provision of non-lethal equipment.
+* Inclusive conflict prevention and peacebuilding.
+* Strategic communication and outreach.
+* Defence training and advice.
+* Provision of nonlethal equipment.
 * Defence services.
