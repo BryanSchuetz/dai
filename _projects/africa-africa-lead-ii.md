@@ -5,7 +5,7 @@ summary: Following on the original Africa Lead project, Africa Lead II is buildi
   the capacity of local leaders to develop, manage, and lead programs aimed at increasing
   agricultural productivity and food security.
 start: 2013
-end: 2018
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
