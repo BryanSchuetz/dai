@@ -71,20 +71,6 @@ search.addWidget(
   ); 
 
 search.addWidget(
-  instantsearch.widgets.menu({
-    container: '#rev-box',
-    attributeName: 'solution',
-    operator: 'or',
-    limit: 3,
-    sortBy: ["count:desc","name:asc"],
-    templates: {
-      header: 'Filter Results by Solution:',
-      item: '<div class="menu-item"><span class="menu-item--label">{{ label }} ({{ count }} items)</h3></span>'
-    }
-  })
-);
-
-search.addWidget(
     instantsearch.widgets.infiniteHits({
       container: '#hits',
     //   transformData: function(item){
@@ -97,7 +83,20 @@ search.addWidget(
           }
         })
       );
-    
+search.addWidget(
+  instantsearch.widgets.menu({
+    container: '#rev-box',
+    attributeName: 'solutions',
+    operator: 'or',
+    limit: 3,
+    sortBy: ["count:desc","name:asc"],
+    templates: {
+      header: 'Filter Results by Technical Area:',
+      item: '<div class="menu-item"><span class="menu-item--label">{{ label }}({{ count }} items)</h3></span>'
+    }
+  })
+);
+
 search.addWidget(
   instantsearch.widgets.refinementList({
                 container: '#refine',
