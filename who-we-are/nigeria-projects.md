@@ -39,5 +39,5 @@ layout: node
       <hr>
     </div>
   {% endfor %}
+  {% include help-desk.html %}
 </div>
-{% include help-desk.html %}

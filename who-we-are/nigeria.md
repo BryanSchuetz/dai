@@ -47,10 +47,10 @@ DAI joined forces with GRID Consulting in 2018. The combined entity—complement
 
 From this integrated platform, DAI is able to recruit, retain, support, and ensure the security of the people who deliver our work in Nigeria and the region, in full compliance with local laws and regulations and with DAI’s global standards. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and supports to partners, customers, and beneficiaries. 
 
-<a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/solutions" target="blank" class="primary-block--button expert-button paola-block">Our Solutions <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<!-- <a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/solutions" target="blank" class="primary-block--button expert-button paola-block">Our Solutions <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/services" target="blank" class="primary-block--button expert-button paola-block">Our Services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-<a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/projects" target="blank" class="primary-block--button expert-button paola-block">Projects and News <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/projects" target="blank" class="primary-block--button expert-button paola-block">Projects and News <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
 
 {% include help-desk.html %}

@@ -550,6 +550,27 @@ aside{
     }
   }
 }
+// 🎌 Section Nav 🎌
+
+.section-nav .section-nav--link{
+  font-size: .8rem;
+  color: $link-green;
+  &:hover{
+    color: #e0dfdd;
+  }
+  &.active{
+    color: #e0dfdd;
+  }
+}
+.hero-title--link{
+  color: $text-white;
+  &:hover{
+    color: darken($text-white, 8%);
+  }
+  &.active{
+    color: darken($text-white, 8%);
+  }
+}
 
 // 🎌 FORMS 🎌
 
