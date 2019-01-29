@@ -1,6 +1,17 @@
 ---
 title: DAI’s Margie Cook Named Officer of the Order of Australia
 date: 2019-01-29 15:43:00 Z
+solutions:
+- Governance
+regions: Sub-Saharan Africa
+projects: Zimbabwe—Transparency, Responsiveness, Accountability, and Citizen Engagement
+  (TRACE) Fund
+clients: U.K. Department for International Development
+summary: DAI’s Margie Cook has been named an Officer of the Order of Australia. Cook
+  was recognized on January 26, Australia Day, for her “service to the international
+  community through the promotion of democratic electoral systems, and to human rights,”
+  in a distinguished career that includes work in Afghanistan, Kenya, Nigeria, and
+  Zimbabwe.
 ---
 
 DAI’s Margie Cook has been named an Officer of the Order of Australia. Cook was recognized on January 26, Australia Day, for her “service to the international community through the promotion of democratic electoral systems, and to human rights,” in a distinguished career that includes work in Afghanistan, Kenya, Nigeria, and Zimbabwe.
