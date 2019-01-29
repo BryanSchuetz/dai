@@ -22,7 +22,7 @@ In this climate, the U.S. Agency for International Development has designed the 
 
 HLG engages multiple governance stakeholders, including municipal and state agencies, mayors, city council members, civil society organizations, and national-level institutions, to develop better service delivery policies. The program also ensures that citizens see the tangible benefits of democratic engagement by first working to understand the unique needs and priorities of local populations in each partner municipality, and then supporting local governments to effectively respond through targeted training and grant assistance.
 
-![Woman conducting governance workshop](/uploads/Honduras_LGA)
+<iframe src="https://player.vimeo.com/video/314131855" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
