@@ -17,7 +17,6 @@ summary: A new article in the peer-reviewed journal *Health Security*  describes
 Leading development organizations and donors have agreed to collectively pursue One Health approaches deemed essential to improving health security at country, regional, and global levels. These approaches call for coordination between experts in human and animal health, environmental issues, and disaster risk-reduction as they work to prevent, detect, and respond to deadly diseases. A new article in the peer-reviewed journal *Health Security* further describes ways the World Health Organization, Food and Agriculture Organization, World Organisation for Animal Health, and other stakeholders can collaborate to share information, exchange lessons learned, and seize opportunities to contain emerging and endemic diseases.
 
 <!--more-->
-
 ![Robert-Salerno-a4cb08.jpg](/uploads/Robert-Salerno-a4cb08.jpg)
 {:.float-left}
 
