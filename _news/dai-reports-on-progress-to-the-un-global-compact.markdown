@@ -2,6 +2,8 @@
 title: DAI Reports on Progress to the UN Global Compact
 date: 2019-01-29 19:11:00 Z
 is_featured: true
+summary: DAI is delighted to make its first [Communication on Progress](https://www.unglobalcompact.org/system/attachments/cop_2019/471353/original/DAI_Global_UNGC_COP_Final.pdf?1548772536)
+  to the United Nations Global Compact.
 social-image: "/uploads/Screenshot%202019-01-29%20at%202.07.59%20PM-b3e4d7.png"
 ---
 
