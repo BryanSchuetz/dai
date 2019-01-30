@@ -8,6 +8,7 @@ end: 2024
 client: U.K. Department for International Development
 solutions:
 - Global Health
+- Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 country: Cameroon, Uganda, Côte D’Ivoire, Niger, Mali, Chad
 ---

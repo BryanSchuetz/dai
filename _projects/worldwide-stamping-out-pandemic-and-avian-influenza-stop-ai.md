@@ -10,6 +10,7 @@ country:
 - Regional
 solutions:
 - Global Health
+- Global Health Security and Pandemic Preparedness
 layout: project
 summary: 'Highly pathogenic avian influenza (HPAI) is economically devastating for
   commercial and backyard producers alike, especially in developing countries where
