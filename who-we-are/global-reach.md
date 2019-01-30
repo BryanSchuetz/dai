@@ -19,6 +19,14 @@ DAI has long had a project presence in the European capital and in 2016 we estab
 <a href="/who-we-are/global-reach/brussels" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 <hr>
 
+## Nigeria
+
+Nigeria is Africa’s most populous nation and largest economy, a country of almost unimaginable promise. But like many emerging nations it faces the development challenges that come with industrialization and growth. With offices in Lagos and Abuja, our extensive in-country team works with public and private sector clients to realize Nigeria's extrordinary potential.
+
+<a href="/who-we-are/global-reach/dai-nigeria" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+
+<hr>
+
 ## United Kingdom
 
 With offices in Apsley, Hertfordshire, and Lewes, Sussex, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict.
