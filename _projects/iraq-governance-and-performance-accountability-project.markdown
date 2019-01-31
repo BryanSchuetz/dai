@@ -16,8 +16,6 @@ country: Iraq
 
 The Iraq Governance and Performance Accountability (IGPA) project, known locally as "Takamul" or "Integration" [supports](http://dai-global-developments.com/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq/?utm_source=daidotcom) the Iraqi Government to shore up fiscal stability while rapidly and visibly improving service delivery. The project aims to build capacity for Iraqi government service delivery, improve governorate and national government public financial management, and strengthen monitoring and oversight of service delivery and public expenditure.
 
-<iframe src="https://player.vimeo.com/video/313806556" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 ### Sample Activities
 
 * Engage key Iraqi Government stakeholders to share information, coordinate activities, and introduce IGPA/Takamul and its technical approach at the national level; at the governorate level, regional managers engage local counterparts.
