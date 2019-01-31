@@ -24,3 +24,4 @@ John now leads DAI’s Global Practice for Public Financial Management covering 
 * M.A., international economic management, University of Birmingham, United Kingdom
 * M.S., computer systems management, University of Maryland University College
 * B.A., economics, Indiana University 
+* Vice President of Partnerships and Alliances, International Consortium on Governmental Financial Management
