@@ -4,7 +4,7 @@ date: 2017-03-04 02:41:00 Z
 summary: EACDS is a technical advisory call-down service which provides rapid-response,
   expert support to DFID and other U.K. Government agencies and other donors.
 start: 2016
-end: 2018
+end: 2019
 client: U.K. Department for International Development
 solutions:
 - Climate Change Adaptation and Mitigation
