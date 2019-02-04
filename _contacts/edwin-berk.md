@@ -10,7 +10,6 @@ summary: Edwin heads business development efforts in the Middle East, North Afri
   Africa region. In 2014 he returned to DAI’s U.S. headquarters to continue unearthing
   and structuring project opportunities while adding Afghanistan to his portfolio.
 image: https://assetify-dai.com/contacts/edwin-berk.jpg
-group: Business Management
 sort-order: 2
 ---
 
