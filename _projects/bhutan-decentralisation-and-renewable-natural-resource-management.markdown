@@ -1,0 +1,22 @@
+---
+title: Bhutan—Decentralisation and Renewable Natural Resource Management
+date: 2019-02-04 17:39:00 Z
+start: 2019
+end: 2021
+client: European Commission
+solutions:
+- Governance
+- Environment and Energy
+regions: Asia and the Pacific
+country: Bhutan
+---
+
+Bhutan is a small country wedged between India and China with 60 percent of its population relying on agriculture-based livelihoods such as subsistence farming and animal husbandry. Most industrial sectors are cottage industry. Rugged mountainous terrain makes it difficult and expensive to build and maintain transport, energy, and other infrastructure, so Bhutan’s long-term self-reliance will rely upon effectively managed local natural resources. Twelve percent of the country’s population lives in poverty.
+
+Activities under this project will support implementation of the European Union-bilateral development cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget support programmes: 1) Rural Development and Climate Change and 2) Local Governance and Fiscal Decentralisation. 
+
+Sample activities:
+
+* Provide technical assistance and capacity building to improve implementation of the programmes financed by the EU.
+* Facilitate related policy dialogue and engagement between the EU and Royal Government of Bhutan. 
+* Strengthen the capacity of the National Statistical Bureau and improve the statistical system at central and local levels to support effective renewable natural resources management and local governance of sustainable development.
