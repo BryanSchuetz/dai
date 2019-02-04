@@ -10,7 +10,6 @@ summary: Nate helped develop and implement our portfolio of microfinance and ent
   Access to Rural Finance for Microenterprises project that helped 20,000 of Mexico’s
   underserved rural and urban people, particularly women, access financial services.
 image: https://assetify-dai.com/contacts/nate-bourns.jpg
-group: Management
 sort-order: 2
 ---
 
