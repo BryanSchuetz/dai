@@ -15,7 +15,7 @@ layout: node
 
 # Our Services
 
-DAI in Nigeria supports a growing portfolio of projects and clients in the country and the region. We tailor our services to meet the need of each project and client, and we are always open to new **opportunities to work together. Please contact [Please contact Paola Lang](mailto:paola_lang@dai.com)**.
+DAI in Nigeria supports a growing portfolio of projects and clients in the country and the region. We tailor our services to meet the need of each project and client, and we are always open to new **opportunities to work together. Please contact [Paola Lang](mailto:paola_lang@dai.com)**.
 
 ### Human Resource Management
 
