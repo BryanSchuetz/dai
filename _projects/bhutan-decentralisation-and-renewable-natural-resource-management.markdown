@@ -1,6 +1,10 @@
 ---
 title: Bhutan—Decentralisation and Renewable Natural Resource Management
 date: 2019-02-04 17:39:00 Z
+summary: 'This work supports implementation of the European Union-bilateral development
+  cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget
+  support programmes: 1) Rural Development and Climate Change and 2) Local Governance
+  and Fiscal Decentralisation. '
 start: 2019
 end: 2021
 client: European Commission
