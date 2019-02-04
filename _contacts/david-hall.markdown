@@ -10,7 +10,6 @@ summary: David leads the company’s business development efforts in sub-Saharan
   to starting in this role, David led program development in the social entrepreneurship
   space, and held technical and project management positions in DAI’s Governance sector.
 image: "/uploads/Hall,%20David%20(2%20x%202%20in.%20300%20dpi).jpg"
-group: Business Management
 sort-order: 6
 ---
 

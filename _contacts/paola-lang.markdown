@@ -16,7 +16,6 @@ summary: Paola Lang, Business and Program Development Advisor, joined DAI in 200
   sector projects, and public-private alliances focused on supply chain, resource
   management, and quality-of-life improvements.
 image: "/uploads/Lang,%20Paola%20--%2050--jpg.jpg"
-group: Business Management
 sort-order: 8
 ---
 
