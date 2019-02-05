@@ -1,9 +1,10 @@
 ---
 title: Palestine—The Compete Project
 date: 2016-01-21 22:40:00 Z
-summary: We are helping key Palestinian sectors compete in regional and global markets.
-  Targeted sectors in the West Bank and Gaza include agribusiness, tourism, information
-  and communications technology, stone and marble, fishing, and garments.
+summary: DAI worked with key Palestinian sectors  to better compete in regional and
+  global markets. Targeted sectors in the West Bank and Gaza included agribusiness,
+  tourism, information and communications technology, stone and marble, fishing, and
+  garments.
 start: 2011
 end: 2019
 client: U.S. Agency for International Development
@@ -18,7 +19,9 @@ country:
 layout: project
 ---
 
-DAI is helping key Palestinian sectors compete in regional and global markets. Targeted sectors in the West Bank and Gaza include agribusiness, tourism, information and communications technology, stone and marble, [fishing](http://dai-global-developments.com/articles/dreams-come-true-as-onshore-fish-farms-emerge-in-gaza/?utm_source=daidotcom), and garments. To facilitate their expansion, we provide companies with technical assistance and expertise to maximize the value of their products. We are connecting smaller businesses with larger producers and exporters that have direct and more efficient access to markets. Our industry-wide approach leverages the U.S. Agency for International Development’s past investments and helps these smaller businesses link into, actively participate in, and benefit from sector-wide economic growth and development activities. By increasing the flow of information, products, and technology throughout these sectors, [The Compete Project](http://www.competeproject.ps/index.php) is empowering firms to perceive and take hold of the opportunities around them. Through the innovative Firm Level Assistance Program, Compete shares the cost and risk, encouraging investment and sustainability.
+DAI worked with key Palestinian sectors to help them better compete in regional and global markets. Targeted sectors in the West Bank and Gaza included agribusiness, tourism, information and communications technology, stone and marble, [fishing](http://dai-global-developments.com/articles/dreams-come-true-as-onshore-fish-farms-emerge-in-gaza/?utm_source=daidotcom), and garments. To facilitate their expansion, we provided companies with technical assistance and expertise to maximize the value of their products. We connected smaller businesses with larger producers and exporters that have direct and more efficient access to markets. Our industry-wide approach leveraged the U.S. Agency for International Development’s past investments and helped smaller businesses link into, actively participate in, and benefit from sector-wide economic growth and development activities. By increasing the flow of information, products, and technology throughout these sectors, [The Compete Project](http://www.competeproject.ps/index.php) empowered firms to perceive and take hold of the opportunities around them. 
+
+After seven years, Compete assisted 1,797 firms in the West Bank and Gaza, increased their sales by $383 million and exports by $254 million, created more than 6,900 jobs, and leveraged $105 million in private-sector investment.
 
 ![](https://assetify-dai.com/projects/COMPETE.jpg)
 
