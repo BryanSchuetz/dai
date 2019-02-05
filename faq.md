@@ -34,7 +34,7 @@ DAI is wholly owned by its employees. All global corporate employees may invest 
 
 ##  How many people work for DAI?
 
-Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of November 2017, we employ approximately 3,300 people worldwide, more than 75 percent of them local staff.
+Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of February 2019, we employ approximately 3,400 people worldwide, more than 80 percent of them local staff.
 
 ##  Who are your partners?
 
