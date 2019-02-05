@@ -1,8 +1,8 @@
 ---
-title: Ukraine—Economic Resilience Activity
+title: 'Ukraine—Economic Opportunities: East'
 date: 2018-11-16 14:43:00 Z
-summary: The Economic Resilience Activity is working to strengthen the economy of
-  eastern Ukraine in the response to recent regional instability.
+summary: 'The Economic Opportunities: East Activity is working to strengthen the economy
+  of eastern Ukraine in the response to recent regional instability.'
 start: 2018
 end: 2023
 client: U.S. Agency for International Development
@@ -14,7 +14,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The Economic Resilience Activity, funded by the U.S. Agency for International Development (USAID), aims to boost the economic resilience of eastern Ukraine in the face of the conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents to gain locally needed job skills. 
+Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The Economic Opportunities: East Activity, funded by the U.S. Agency for International Development (USAID), aims to boost the economic resilience of eastern Ukraine in the face of the conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents to gain locally needed job skills. 
 
 ![ERA_image.jpg](/uploads/ERA_image.jpg)
 
