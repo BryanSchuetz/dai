@@ -1,26 +1,24 @@
 ---
 title: Harris Khalique
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Khalique
-regions:
-- Asia and the Pacific
-solutions:
-- Governance
-- Institutional and Policy Reform
-- Voice and Accountability
-- Fragile States
-- Peace-Building and Political Transition
-layout: expert
-image: https://assetify-dai.com/experts/HarrisInner.jpg
 summary: Harris Khalique is an internationally recognized civil society leader with
   more than 20 years of professional and voluntary work with civil society organizations
   with a focus on human rights and community development. He has held senior management
   and advisory positions with national and international nongovernmental organizations
   and civil society networks.
 job-title: Team Leader, Pakistan—AAWAZ Voice and Accountability Programme
-articles:
-- name: 
-  article_file: 
+image: https://assetify-dai.com/experts/HarrisInner.jpg
+solutions:
+- Governance
+- Institutional and Policy Reform
+- Voice and Accountability
+- Fragile States
+- Peace-Building and Political Transition
+regions:
+- Asia and the Pacific
+layout: expert
 ---
 
 Harris Khalique is an internationally recognized civil society leader with more than 20 years of professional and voluntary work with civil society organizations with a focus on human rights and community development. He has held senior management and advisory positions with national and international nongovernmental organizations and civil society networks. He has work experience across Pakistan and has consulted, worked full time and advised in the U.K., India, Afghanistan, Eastern Europe, and throughout South Asia. His experience also includes working on gender issues, specifically around women's political rights and gender-based violence. He served on the research advisory committee of the National Commission on the Status of Women in Pakistan.
