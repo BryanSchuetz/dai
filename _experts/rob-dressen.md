@@ -1,6 +1,7 @@
 ---
 title: Rob Dressen
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Dressen
 summary: Rob Dressen is a banker with 25 years of experience in microfinance, commercial
   banking, and financial advisory services. He worked for Meridien BIAO S.A. for three
