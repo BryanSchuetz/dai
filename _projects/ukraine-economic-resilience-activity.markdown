@@ -14,9 +14,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. With a shrinking working-age population, anemic economic growth, and high unemployment, the region has struggled to rebound.
-
-The Economic Resilience Activity, funded by the U.S. Agency for International Development (USAID) is working to strengthen the economy of eastern Ukraine in response to these setbacks. The program is working to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents to gain locally needed job skills. 
+Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The Economic Resilience Activity, funded by the U.S. Agency for International Development (USAID), aims to boost the economic resilience of eastern Ukraine in the face of the conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents to gain locally needed job skills. 
 
 ![ERA_image.jpg](/uploads/ERA_image.jpg)
 
