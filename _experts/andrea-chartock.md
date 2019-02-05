@@ -8,6 +8,7 @@ job-title: Senior Development Specialist
 image: https://assetify-dai.com/experts/Chartock_Inner.jpg
 solutions:
 - Economic Growth
+- 
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
@@ -23,7 +24,7 @@ Andrea Chartock’s work focuses on promoting economic growth and designing and 
 
 Andrea has served as Project Team Lead and Project Quality Manager for seven DAI projects: two in Africa, four in Asia, and one Washington, D.C.-based global project. In these roles, she has supervised project leaders, monitored budgets, problem solved, engaged technically, and managed teams and deliverables for high-quality results. She has carried out extensive enterprise development consultancies in Eastern Europe, Asia, and Africa, as well as monitoring and evaluation, value chain analysis, gap analysis, and competitiveness analysis in multiple countries on three continents.
 
-> "I love working at DAI because of the interesting challenges we tackle and the stellar colleagues. After 14 years here, I still feel I am constantly learning something new, which is both humbling and exciting."
+> "I love working at DAI because of the interesting challenges we tackle and the stellar colleagues. I still feel I am constantly learning something new, which is both humbling and exciting."
 
 Andrea joined DAI in April 2004 after spending five years managing and implementing economic development programs for Citizens Developments Corps, and serving as Project Director of the Trading Regionally and Developing Expertise project in Croatia, Romania, Bulgaria, and Hungary. She spent two years as a Peace Corps volunteer teaching at a university in Russia.
 
