@@ -6,7 +6,7 @@ summary: 'Ben Mann is the Global Practice Lead for Development Results,  oversee
   efforts to improve project results through better monitoring and evaluation, knowledge
   management, and learning, and the systems that support them. '
 job-title: 'Global Practice Lead, Development Results '
-image: https://assetify-dai.com/experts/MannInner.jpg
+image: "/uploads/New%20Ben.png"
 solutions:
 - Economic Growth
 - 
