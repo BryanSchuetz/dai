@@ -1,6 +1,7 @@
 ---
 title: Dan Martinko
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Martinko
 summary: Dan Martinko is a Senior Governance Specialist, providing thought leadership
   and technical assistance to DAI’s overseas projects and business development efforts.
