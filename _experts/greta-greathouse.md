@@ -1,6 +1,7 @@
 ---
 title: Greta Greathouse
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Greathouse
 summary: 'Greta Greathouse has more than 35 years of experience innovating emerging
   markets and coupling the private and public sector for technology development.
