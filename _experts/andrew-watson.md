@@ -24,7 +24,7 @@ articles:
 layout: expert
 ---
 
-As a graduate student in geomorphology, Andrew Watson worked on desert soils in Tunisia and Namibia. Over the past 30 years, his technical focus has shifted from the earth sciences and remote sensing to environment policy and impact assessment, natural resource management, and biodiversity conservation, and, most recently, to climate change adaptation, with an emphasis on the sustainable use of water resources. Andrew has worked in diverse natural environments, from the tropical rain forests of Indonesia, Madagascar, Bolivia, and Brazil, to the deserts of Namibia and Saudi Arabia.
+As a graduate student in geomorphology, Andrew Watson worked on desert soils in Tunisia and Namibia. Over the past 30 years, his technical focus has covered the earth sciences and remote sensing as well as environmental policy and impact assessment, natural resource management, and biodiversity conservation. Most recently, Andrew’s work has extended to climate change adaptation, with an emphasis on the sustainable use of water resources, and land tenure. Andrew has worked in diverse natural environments, from the tropical rain forests of Indonesia, Madagascar, Bolivia, and Brazil, to the deserts of Namibia and Saudi Arabia.
 
 > "Initiatives that focus on fixing problems rather than building on existing assets rarely succeed. For me, good development is about helping people realize the full value of their own resources—knowledge and natural capital, as well as the will and commitment to strive for a better life."
 
