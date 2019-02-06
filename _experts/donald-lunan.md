@@ -2,9 +2,10 @@
 title: Donald Lunan
 date: 2016-01-21 22:18:00 Z
 lastname: Lunan
-summary: 'Donald Lunan has worked at the company since 2005 and has been instrumental
-  in building its portfolio of environment and climate change work. '
-job-title: Knowledge Management, Energy and Environment
+summary: 'Donald Lunan is the Director of the Delivery Unit in DAI’s Europe office,
+  overseeing the implementation of DAI’s portfolio of programmes with multilateral
+  and UK bilateral donors. '
+job-title: Director, Delivery Unit, Europe
 image: https://assetify-dai.com/experts/DonaldLunanINNER.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
@@ -16,10 +17,9 @@ regions:
 layout: expert
 ---
 
-Donald Lunan has worked at the company since 2005 and has been instrumental in building our portfolio of environment and climate change work. He is involved in a range of activities, from business development and bid management to project implementation and technical inputs on programmes. He is currently the Technical Advisor on the Liberia FLEGT programme, and on the Kenya StARCK+ programme. He continues to provide technical monitoring and evaluation support on biodiversity, conservation, and environmental technology for the European Union LIFE programme. Alongside these long-term assignments, Donald continues to provide short-term technical assistance to a range of donors in the fields of climate change and natural resource management in Europe, Africa, and South Asia. His overseas experience includes work in Afghanistan, Liberia, Kenya, and Tanzania.
-
+Donald Lunan is the Director of the Delivery Unit in DAI’s Europe office, overseeing the implementation of DAI’s portfolio of programmes with multilateral and UK bilateral donors. Donald has more than 17 years international development experience, working across rural development, natural resource management, and climate change policy. Since joining DAI in 2005, Donald has been involved in some of Europe’s most high-profile programmes in this sector, most recently acting as technical director on the [VPA Support Unit programme in Liberia](https://www.dai.com/our-work/projects/liberia-support-unit-liberia-flegt-voluntary-partnership-agreement-vpa), and on the [StARCK+ programme](https://www.dai.com/our-work/projects/kenya-strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck) in Kenya.
+ 
+Prior to joining DAI, Donald was Regional Representative and Dryland Forestry Research Coordinator for Sunseed Desert Technology. Based in Tanzania, he was responsible for an innovative programme of community tree planting trials in degraded arid soils, using mycorrhizal fungi to enhance tree survival and growth. 
 
 * B.Sc., ecological science, University of Edinburgh
 * M.Sc., sustainable agriculture and rural development, Imperial College at Wye
-
-[1]: http://www.evidenceondemand.info/homepage.aspx
