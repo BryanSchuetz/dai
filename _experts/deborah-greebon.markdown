@@ -20,7 +20,7 @@ As Executive Director for Program Development with the World Refugee School, Deb
 
 With expertise in monitoring and evaluation (M&E) of education and training initiatives, Deborah led an external evaluation of CARE International’s Child Friendly Schools program in Cambodia, reviewed education sector programming for Save the Children in Jordan, and managed M&E for the Africa Lead management training program. She also developed an M&E framework for the Ministry of Education in Punjab, Pakistan, and conducted an evaluation of bilingual primary schools in conjunction with Guatemala’s Education Ministry.
 
-Currently based in the Middle East as the Deputy Chief of Party for the U.S. Agency for International Development (USAID)-funded Jordan Competitiveness Program, Deborah oversees technical assistance and capacity building to the Government of Jordan promoting economic development and reform.
+Currently based in the Middle East as the Deputy Chief of Party for the U.S. Agency for International Development (USAID)-funded [Jordan Competitiveness Program](https://www.dai.com/our-work/projects/jordan-competitiveness-program-jcp), Deborah oversees technical assistance and capacity building to the Government of Jordan promoting economic development and reform.
 
 * B.A., psychology, Wheaton College
 * Ed.M, international education policy, Harvard Graduate School of Education
