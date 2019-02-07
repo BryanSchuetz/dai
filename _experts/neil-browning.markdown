@@ -19,5 +19,5 @@ Neil Browning started his development career as a community health adviser with 
 
 With DAI's Sustainable Business Group (SBG), Neil specializes in the economic analysis of emerging and frontier markets. This analysis includes forecasting the financial and labor market impacts of policies and capital projects using statistical models; managing national surveys to assess supply chain competitiveness; and conducting qualitative interviews with local industry experts to determine knowledge and sentiment on the ground. Neil also supports the development of SBG's economic modeling software, and engages in new business development.
 
-* M.A., public policy, Duke University
+* M.P.P., Duke University
 * B.A., international development, University of Oregon
