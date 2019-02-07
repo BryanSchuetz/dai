@@ -15,9 +15,9 @@ regions:
 - Worldwide
 ---
 
-Neil Browning started his development career as a community health adviser with the Peace Corps in rural Malawi. He quickly found that private sector engagement was critical to enhancing the scope and sustainability of his work. He started several health product businesses with Malawian entrepreneurs and community groups, one of which became successful nationally. This experience inspired him to pursue a master’s degree in public policy, with a focus on econometrics and international development.
+Neil Browning started his development career as a community health adviser with the Peace Corps in rural Malawi, starting nationally successful health product businesses with Malawian entrepreneurs and community groups. This experience inspired him to pursue a master’s degree in public policy, with a focus on econometrics and international development. Prior to joining DAI, he worked at the United Nations Development Program in Geneva on its public-private partnership with DHL, and as a consultant for RTI International on a project to provide labor market information in developing countries via mobile phones. 
 
-Prior to joining DAI, Neil worked at the United Nations Development Program in Geneva on its public-private partnership with DHL and as a consultant for RTI International on a project to provide labor market information in developing countries via mobile phones. With the Sustainable Business Group, he supports the development of economic modeling tools, conducts local content, supply chain, and market analysis for international business efforts, and engages in new business development.
+With DAI's Sustainable Business Group, Neil specializes in the economic analysis of emerging and frontier markets. This analysis includes forecasting the financial and labor market impacts of policies and capital projects using statistical models; managing national surveys to assess supply chain competitiveness; and conducting qualitative interviews with local industry experts to determine knowledge and sentiment on the ground. Neil also supports the development of SBG's economic modeling software, and engages in new business development.
 
 * M.A., public policy, Duke University
 * B.A., international development, University of Oregon
