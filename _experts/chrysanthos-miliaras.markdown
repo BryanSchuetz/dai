@@ -2,8 +2,9 @@
 title: Chrysanthos Miliaras
 date: 2019-02-08 20:12:00 Z
 lastname: Miliaras
-summary: Chrys Miliaras helps build sound and inclusive financial systems that promote
-  economic growth and reduce poverty.
+summary: For more than 25 years, Chrys Miliaras has helped build sound and inclusive
+  financial systems in more than 20 countries that promote economic growth and reduce
+  poverty.
 job-title: 'Director, Project Delivery Team, Asia '
 image: "/uploads/Chrys-Miliaras-mug-be86aa.jpg"
 solutions:
