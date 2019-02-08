@@ -10,6 +10,7 @@ image: "/uploads/Chrys-Miliaras-mug-be86aa.jpg"
 solutions:
 - Economic Growth
 - Governance
+- Finance and Investment
 regions:
 - Asia and the Pacific
 ---
