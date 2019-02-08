@@ -1,7 +1,7 @@
 ---
 title: WomenConnect Proud to Join White House Launch of Women’s Global Development
   Initiative
-date: 2019-02-08 12:28:00 Z
+date: 2019-02-08 07:28:00 Z
 summary: On February 7, the Women’s Global Development and Prosperity Initiative,
   or W-GDP—a whole-of-government effort to help 50 million women in developing countries
   realize their economic potential by 2025, was launched.
