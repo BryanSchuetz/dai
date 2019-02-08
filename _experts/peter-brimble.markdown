@@ -5,7 +5,7 @@ lastname: 'Brimble '
 summary: Peter Brimble has worked extensively in Central, Southeast, and North Asia
   on industrial efficiency, investment promotion, foreign direct investment, private
   sector development, and public policy issues.
-job-title: Team Leader, DaNa Facility
+job-title: Senior Technical Advisor, Private Sector Development, DaNa Facility
 image: "/uploads/Peter%20Brimble.jpg"
 solutions:
 - Economic Growth
