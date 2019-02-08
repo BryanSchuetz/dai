@@ -18,6 +18,9 @@ regions:
 articles:
 - name: '"Pro-Poor Business Law and Regulatory Reform," Developing Alternatives'
   article_file: https://dai-global-developments.com/articles/pro-poor-business-law-and-regulatory-reform/
+- name: '"Vers l’unification de la culture juridique dans les pays balkaniques : L’acculturation
+    du droit des affaires," Etudes Balkaniques '
+  article_file: https://www.cairn.info/revue-etudes-balkaniques-cahiers-pierre-belon-2013-1-page-15.htm
 ---
 
 Rémy Kormos has more than 25 years of experience practicing international business law and implementing economic growth and governance initiatives in developing and transitioning countries. He is a leading expert improving the business enabling environment and legal and judicial reform.  
