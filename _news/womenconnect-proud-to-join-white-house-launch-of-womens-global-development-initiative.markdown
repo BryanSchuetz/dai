@@ -12,6 +12,8 @@ On February 7, President Trump signed a [National Security Presidential Memorand
 
 Honored to participate in the signing ceremony was Lillian Achomo (pictured between Ivanka Trump and USAID's Mark Green), Project Manager at AFCHIX. AFCHIX is a grantee of the [WomenConnect Challenge](https://dai-global-digital.com/meet-the-womenconnect-challenge-winners.html), a global call for solutions to improve women’s participation in economic and social life by changing the ways women and girls access and use technology.
 
+<!--more-->
+
 ![trump.jpg](/uploads/trump.jpg)`photo: C-SPAN`
 
 The new W-GDP initiative establishes a fund at the U.S. Agency for International Development (USAID) to support projects that help women succeed in the economy, with an initial allocation of $50 million and an initial focus on workforce development, entrepreneurship and access to capital, and policies, laws, and social norms that promote women’s economic participation.
