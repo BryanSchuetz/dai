@@ -15,14 +15,18 @@ regions:
 - Sub-Saharan Africa
 - Asia and the Pacific
 - Middle East and North Africa
+articles:
+- name: '"Pro-Poor Business Law and Regulatory Reform," Developing Alternatives'
+  article_file: https://dai-global-developments.com/articles/pro-poor-business-law-and-regulatory-reform/
 ---
 
 Rémy Kormos has more than 25 years of experience practicing international business law and implementing economic growth and governance initiatives in developing and transitioning countries. He is a leading expert improving the business enabling environment and legal and judicial reform.  
 
-A member of DAI’s Economic Growth team, he is a senior consultant on the European Union-funded [Trade and Private Sector Development Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility) and the United Kingdom-funded funded Business Environment Reform Facility.  He has held a long-term position on a USAID-funded project in Morocco and has completed assignments in Burkina Faso, Democratic Republic of Congo, Haiti, Jordan, Kosovo, Kyrgyzstan, Mali, Mexico, Myanmar, Papua New Guinea, Serbia, Sri Lanka, Tajikistan, Vietnam and Zimbabwe.  
-Prior to joining DAI in 2009, Rémy supported USAID-funded justice and commercial law reform projects in the Dominican Republic, Serbia and Bulgaria and served as Commercial Law Liaison with the American Bar Association’s Central European and Eurasian Law Initiative in Bulgaria. 
+A member of DAI’s Economic Growth team, he is a senior consultant on the European Union-funded [Trade and Private Sector Development Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility) and the U.K. Department for International Development-funded [Business Environment Reform Facility](https://www.dai.com/our-work/projects/worldwide-business-environment-reform-facility-berf). He has held a long-term position on a U.S. Agency for International Development (USAID)-funded project in Morocco and has completed assignments in Burkina Faso, Democratic Republic of Congo, Haiti, Jordan, Kosovo, Kyrgyzstan, Mali, Mexico, Myanmar, Papua New Guinea, Serbia, Sri Lanka, Tajikistan, Vietnam, and Zimbabwe.  
 
-From 1993 to 2001 Rémy practiced business law with leading global law firms, representing multinational corporations on foreign direct investment and mergers and acquisitions transactions in Europe, North America, and Sub-Saharan Africa, financial sector clients on regulatory compliance and early-stage technology companies on a variety of corporate law matters.
+Prior to joining DAI in 2009, Rémy supported USAID-funded justice and commercial law reform projects in the Dominican Republic, Serbia, and Bulgaria and served as Commercial Law Liaison with the American Bar Association’s Central European and Eurasian Law Initiative in Bulgaria. 
+
+From 1993 to 2001 Rémy practiced business law with leading global law firms, representing multinational corporations on foreign direct investment and mergers and acquisitions transactions in Europe, North America, and Sub-Saharan Africa, financial sector clients on regulatory compliance, and early-stage technology companies on a variety of corporate law matters.
 
 Rémy has taught comparative law and commercial mediation as an adjunct professor and has published several articles on legal and regulatory reform and international development issues.  
  
