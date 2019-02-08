@@ -5,7 +5,7 @@ lastname: Miliaras
 summary: Chrys Miliaras helps build sound and inclusive financial systems that promote
   economic growth and reduce poverty.
 job-title: 'Director, Project Delivery Team, Asia '
-image: "/uploads/Chrys-Miliaras-mug.jpg"
+image: "/uploads/Chrys-Miliaras-mug-00a209.jpg"
 solutions:
 - Economic Growth
 - Governance
