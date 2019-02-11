@@ -17,12 +17,10 @@ solutions:
 - Sustainable Business
 regions:
 - Asia and the Pacific
-- Middle East and North Africa
+- Sub-Saharan Africa
 articles:
 - name: Peace Inc. *Foreign Policy*, 2015
   article_file: http://foreignpolicy.com/2015/01/27/peace-inc-tech-government-industry-defense-funding/
-- name: The Parochial Web *The Olive Branch*, United States Institute of Peace, 2014
-  article_file: http://www.usip.org/olivebranch/the-parochial-web
 - name: 'New Media and Peacebuilding: Framing the Discussion *Preparing for Peace:
     Communications in Conflict Resolution*, Organization for Security and Cooperation
     in Europe, 2012'
@@ -30,7 +28,7 @@ articles:
 layout: expert
 ---
 
-During his decade-long career in international development and conflict management, Anand has managed complex operations with a commitment to using information and communication technology (ICT) to create peaceful social change around the world. Anand helps DAI’s projects integrate ICT into their activities and build partnerships with local technology companies. Prior to joining DAI, he served as Senior Manager at the PeaceTech Lab at the U.S. Institute of Peace. Anand played an integral role in creating and launching the Lab, the Institute’s first nonprofit spin-off in its 30-year history. Anand guided elements of strategic planning for the transition of the Lab, including its conceptual foundation, business development, space design, and collaboration with the private sector. Anand has managed various technology-related development projects, including the first nationwide mobile phone-based survey in Afghanistan, workshops for youth activists on crowdsourced mapping tools, and partnerships with universities to integrate young engineers into conflict management. Anand has authored studies on topics such as new media, online discourse, and science diplomacy. His research interests include nationalism, ethnic conflict, and political development, especially in South Asia. He hails from Bangalore, India, where he worked in advertising and journalism.
+As manager of the Digital Advisory portfolio within DAI’s Center for Digital Acceleration, [Anand Varghese](https://dai-global-digital.com/authors/anand-varghese/) works with clients to develop digital strategies, design and implement digital-focused activities, train staff on the use of digital platforms for development, and identify local partners. Since 2016, he has served as a technical advisor to the Kosmos Innovation Center (KIC) in Accra, Ghana, where he helps young technology entrepreneurs develop digital solutions for the local agricultural sector. He also teaches a course on ‘Digital Development: Innovative Use of Technology in Emerging Markets’ at the Johns Hopkins School for Advanced International Studies. Prior to joining DAI, he served as Senior Manager at the PeaceTech Lab at the U.S. Institute of Peace. Anand played an integral role in creating and launching the Lab, the Institute’s first nonprofit spin-off in its 30-year history. Anand has managed various technology-related development projects, including the first nationwide mobile phone-based survey in Afghanistan, workshops for youth activists on crowdsourced mapping tools, and partnerships with universities to integrate young engineers into conflict management. Anand speaks regularly at international conferences and has authored studies on topics at the intersection of digital technology and international development. He hails from Bangalore, India.
 
 * M.A., democracy and governance, Georgetown University
 * B.A., journalism and mass communication, Arizona State University
