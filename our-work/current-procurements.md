@@ -10,4 +10,4 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [Invitation For Bids_BPA Bid Development Services.pdf](/uploads/Invitation%20For%20Bids_BPA%20Bid%20Development%20Services.pdf)
+* [RFP_IQC_Regional Analytical & Strategic Services in Southeast Asia](/uploads/RFP_IQC_Regional%20Analytical%20&%20Strategic%20Services%20in%20Southeast%20Asia.pdf)
