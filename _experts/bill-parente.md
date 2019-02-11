@@ -8,7 +8,7 @@ summary: 'A professional engineer by training, Bill has led numerous infrastruct
   Services team.
 
 '
-job-title: " Senior Principal Global Practice Specialist"
+job-title: 'Chief of Party, USAID IUWASH PLUS, Indonesia '
 image: "/uploads/PersonImage.jpeg"
 solutions:
 - Environment and Energy
@@ -24,7 +24,7 @@ Nearly 40 years ago, Bill Parente completed degrees in civil engineering with no
 
 After working as a highway engineer, rail engineer, drainage and hydrological engineer, and cost engineer, Bill transitioned to the role of project manager for the World Bank's national roads programs in Thailand, the first of numerous assignments as a project manager and chief of party on World Bank, Asian Development Bank, U.S. Army Corps of Engineers, and U.S. Agency for International Development projects. Feeling the need to diversify his skills, Bill developed competencies in municipal engineering, engineering economics, water supply, and public-private partnerships in infrastructure.
 
-In recent years, Bill has managed projects for DAI in Indonesia, Afghanistan, and Lebanon, as well as led a rural roads program in Liberia for CDM Smith. As Senior Principal Global Practice Specialist, he contributes to DAI’s portfolio of water, environment, and infrastructure programs.
+In recent years, Bill has managed projects for DAI in Indonesia, Afghanistan, and Lebanon, as well as led a rural roads program in Liberia for CDM Smith. As Senior Principal Global Practice Specialist, he contributes to DAI’s portfolio of water, environment, and infrastructure programs. Currently, Bill is serving as the Chief of Party on USAID’s [Indonesia Urban Water, Sanitation and Hygiene – Penyehatan Lingkungan Untuk Semua (IUWASH PLUS) Project](https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash), in Jakarta, Indonesia.
 
 * M.S., transportation engineering and construction management, Drexel University
 * B.S., civil engineering, Rutgers University
