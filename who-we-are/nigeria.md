@@ -21,22 +21,10 @@ layout: node
     <p class="name"><strong><a href="https://www.dai.com/who-we-are/our-team/joe-abah">Joe Abah, Nigeria Country Director</a></strong></p>
     </div>  
   </div>
-  <div class="country-people--block second">
-    <div class="countryRep">
-    <img src="/uploads/nigeria-ike.jpg" alt="Ike Osakwe">
-    <p class="name"><strong><a href="/who-we-are/board/ike-osakwe">Ike Osakwe, Member, DAI Board</a></strong></p>
-    </div>  
-  </div>
   <div class="country-people--block last">
     <div class="countryRep">
     <img src="/uploads/nigeria-judith.jpg" alt="Judith Ogedegbe">
     <p class="name"><strong><a href="/who-we-are/our-team/judith-ogedegbe">Judith Ogedegbe, Executive Director</a></strong></p>
-    </div>   
-  </div>
-  <div class="country-people--block last" style="clear: right;">
-    <div class="countryRep">
-    <img src="/uploads/Lang,%20Paola%20--%2050--jpg.jpg" alt="Paola Lang">
-    <p class="name"><strong><a href="/who-we-are/our-team/paola-lang">Paola Lang, Business and Program Development Advisor</a></strong></p>
     </div>   
   </div>
 </div> 

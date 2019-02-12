@@ -29,7 +29,7 @@ We provide comprehensive services to ensure consistent and compliant standards f
 * Programme recruitment
 * Support for visa/work permit processing
 
-### Contact Support and Management
+### Contract Support and Management
 
 We provide management support for programmes, establishing standards and processes to ensure the consistent delivery of high-quality, compliant contracts and consultancy services. Our services include:
 

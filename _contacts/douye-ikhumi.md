@@ -4,7 +4,8 @@ group: Nigeria
 image: "/uploads/douye-ikhumi.jpg"
 job-title: Manager, Contracts and Consultancy Management
 email: douye_ikhumi@dai.com
-summary: 'Douye Ikhumi manages the consultancy, contracting, and negotiation aspects
+summary: |
+  Douye Ikhumi manages the consultancy, contracting, and negotiation aspects
   of DAI’s work in Nigeria. Additionally, she provides technical services in programme
   design and institutional capacity building to private clients and donor-funded projects.
   She currently serves as the Capacity Building and Resource Mobilization Advisor
@@ -15,7 +16,11 @@ summary: 'Douye Ikhumi manages the consultancy, contracting, and negotiation asp
   and the Oxfam Work-In-Progress project—she assists organizations to strengthen their
   board governance structures and establish process flows for optimal productivity.
   With extensive experience in coaching, Douye has served as a Mentor for the Young
-  African Leaders Initiative, organized by the West Africa Regional Leadership Centre. '
+  African Leaders Initiative, organized by the West Africa Regional Leadership Centre.
+
+  * B.A., French
+  * Master’s degree, international law and diplomacy
+
 sort-order: 2
 ---
 
