@@ -14,7 +14,6 @@ summary: |
   Management of Nigeria and a Licensed Human Resource Practitioner.
 
   * Bachelor’s degree, political science, Babcock University
-  
 sort-order: 4
 ---
 

@@ -13,7 +13,6 @@ summary: |
   worked in the private sector as an accounts and new business specialist.
 
   * B.Sc., economics, Obafemi Awolowo University
-
 sort-order: 5
 ---
 

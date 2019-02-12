@@ -20,7 +20,6 @@ summary: |
 
   * B.A., French
   * Master’s degree, international law and diplomacy
-
 sort-order: 2
 ---
 

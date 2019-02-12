@@ -14,7 +14,6 @@ summary: |
   * B.Sc., industrial mathematics, University of Benin
   * Fellow, Institute of Chartered Accountants of Nigeria
   * Associate, Chartered Institute of Taxation of Nigeria
-
 sort-order: 8
 ---
 

@@ -18,7 +18,6 @@ summary: |
 
   * B.A., English literature, University of Jos
   * M.Litt., English studies, University of Dundee
-
 sort-order: 7
 ---
 

@@ -15,7 +15,6 @@ summary: |
 
   * M.Sc., agricultural extension, University of Reading
   * B.Sc., environmental science, University of London
-
 sort-order: 1
 ---
 

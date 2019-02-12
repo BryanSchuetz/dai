@@ -17,7 +17,6 @@ summary: |
   * B.Sc., economics, University of Lagos
   * M.Sc., business analytics and consulting, Warwick Business School
   * Chartered Management Accountant (ACMA, CGMA)
-
 sort-order: 6
 ---
 
