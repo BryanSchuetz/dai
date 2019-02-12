@@ -265,38 +265,38 @@
       "year": 2017
     },
     {
-      "docTitle": "",
-      "docSummary": "",
-      "organization": "",
+      "docTitle": "E-Learning System Technical Brief",
+      "docSummary": "E-Learning System (ELS) is a low-cost software and hardware solution that enhances access to a quality online e-learning environment. It combines an open-source software platform with HPI’s innovative integrated hardware solution. This enables functionality in the most resource-constraint environments. ELS benefits students by providing interactive online learning materials via desktop or mobile phone. Students can self-direct their learning and gain support from the best-in-class remote tutors or trainers. ELS benefits training institutions as its novel infrastructure reduces data costs threefold per student. Power consumption is reduced eleven-fold as compared to conventional e-learning systems. Since it is solar-powered, it remains functional despite power outages. To gain a more comprehensive overview of our E-learning system, download our Technical Brochure.",
+      "organization": "Health Partners International",
       "docType": [
-        ""
+        "Technical Brief"
       ],
       "solutions": [
-        ""
+        "Digital Health Solutions"
       ],
       "technicalTerms": [
-        ""
+        "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition", "Education for Women in Health", "Health Service Delivery", "Human Resources for Health", "Health information"
       ],
-      "docFilename": ".pdf",
-      "docThumbnail": "_page1.jpeg",
-      "year": 2018
+      "docFilename": "hpi-e-learning-system.pdf",
+      "docThumbnail": "hpi-e-learning-system_page1.jpeg",
+      "year": 2017
     },
     {
-      "docTitle": "",
-      "docSummary": "",
-      "organization": "",
+      "docTitle": "Strengthening Institutional Capacity to Fight Malaria",
+      "docSummary": "This technical brief discusses the contribution of the Malaria Action Program for States (MAPS) in strengthening institutional capacity to fight malaria in Nigeria across nine states. It describes the basic rationale, processes and tools employed in supporting states to undertake holistic approaches to strengthening complex health systems, integration of malaria programming into core health services, program management support initiatives, and institutional strengthening initiatives of the State Malaria Elimination Programs (SMEPs).",
+      "organization": "Health Partners International",
       "docType": [
-        ""
+        "Technical Brief"
       ],
       "solutions": [
-        ""
+        "Health Systems Strengthening", "Global Health Security and Pandemic Preparedness"
       ],
       "technicalTerms": [
-        ""
+        "Disease Control Elimination & Eradication "
       ],
-      "docFilename": ".pdf",
-      "docThumbnail": "_page1.jpeg",
-      "year": 2018
+      "docFilename": "hpi-cpacity-to-fight-malaria.pdf",
+      "docThumbnail": "hpi-cpacity-to-fight-malaria_page1.jpeg",
+      "year": 2016
     },
     {
       "docTitle": "",
