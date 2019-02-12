@@ -184,5 +184,101 @@
       "docFilename": "ghsa_poster_indonesia.pdf",
       "docThumbnail": "ghsa_poster_indonesia_page1.jpeg",
       "year": 2018
+    },
+    {
+      "docTitle": "One Health Interventions: An Assessment of Outcomes",
+      "docSummary": "One Health is an interdisciplinary, collaborative effort to attain optimal health for people, animals, and the environment. Although the expected benefits of One Health are significant and the costs of poor coordination potentially high, solid evidence of One Health outcomes remains scarce. Because of the “limited application of One Health in practice”, many of the approach’s benefits have been based on modeled projections rather than outcomes of actual interventions. These predicted benefits may not be compelling enough to justify country-level investments in One Health",
+      "organization": "Preparedness and Response",
+      "docType": [
+        "Technical Brief"
+      ],
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness, Health Systems Strengthening, Disease Control Elimination & Eradication"
+      ],
+      "docFilename": "pandr-one-health-interventions.pdf",
+      "docThumbnail": "pandr-one-health-interventions_page1.jpeg",
+      "year": 2018
+    },
+    {
+      "docTitle": "Multisectoral Coordination That Works: Building Effective Mechanisms to Prevent, Detect and Respond to Public Health Threats",
+      "docSummary": "Responding to emerging zoonotic and other infectious disease threats requires the collective and coordinated efforts of multiple technical sectors and disciplines—an approach known as One Health multisectoral coordination. Effective multisectoral coordination is not easy to accomplish, much less easy to sustain at the national level. But without it, national governments will continue to work without strategic alignment among the sectors, and sometimes at cross-purposes, during the critical early moments of an outbreak and potentially beyond.",
+      "organization": "Preparedness and Response",
+      "docType": [
+        "Technical Brief"
+      ],
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness, Health Systems Strengthening"
+      ],
+      "technicalTerms": [
+        "Disease Control Elimination & Eradication"
+      ],
+      "docFilename": "pandr-one-health-interventions.pdf",
+      "docThumbnail": "pandr-one-health-interventions_page1.jpeg",
+      "year": 2018
+    },
+    {
+      "docTitle": "Key results from MORE MAMaZ: A successful community empowerment initiative",
+      "docSummary": "Rural communities in Zambia face enormous challenges in terms of access to maternal and newborn health (MNH) care. Only ﬁve in ten rural births are attended to by a skilled provider, compared to almost nine in ten urban births – a striking rural-urban divide. The More Mobilising Access to Maternal Health Services in Zambia programme (MORE MAMaZ) programme worked with the Zambian government to scale up a community-based intervention that addressed MNH barriers and delays originating at household and community levels. The programme strengthened and broadened the focus of the national Safe Motherhood Action Group (SMAG) initiative, a key part of the government’s safe motherhood policy response. An empowerment approach mobilised communities around a MNH agenda and built local capacity to take action. The results from MORE MAMaZ provide robust evidence of the effectiveness of the approach.",
+      "organization": "More MAMaZ",
+      "docType": [
+        "Technical Brief"
+      ],
+      "solutions": [
+        "Health Systems Strengthening"
+      ],
+      "technicalTerms": [
+        "Community Health Systems and Gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+      ],
+      "docFilename": "mamaz-key-results.pdf",
+      "docThumbnail": "mamaz-key-results_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Gender in Preparedness and Response",
+      "docSummary": "It is critical to plan for addressing the needs of those who are most vulnerable before outbreaks occur, both to save lives and to reduce economic harm.The HIV pandemic was a sobering lesson, as the response did not include a gendered perspective until many lives were lost and HIV became a global security issue. Key stakeholders are now beginning to understand some of the gender issues that have affected other emerging infectious diseases, such as Ebola and avian flu. It is logical to expect that whatever pandemic will arise next will have a gendered component, so all countries should be prepared to address gender as a key issue for multisectoral coordination and collaboration, as well as policies and programs. Gender considerations can be directly incorporated into preparedness and response planning but can also be part of a government’s existing framework to address gender inequality and women’s empowerment and in various sectoral strategies for human health, water management, markets, agriculture, and animal care.",
+      "organization": "Preparedness and Response",
+      "docType": [
+        "Technical Brief"
+      ],
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness, Health Systems Strengthening, Disease Control Elimination & Eradication"
+      ],
+      "docFilename": "pandr-gender.pdf",
+      "docThumbnail": "pandr-gender_page1.jpeg",
+      "year": 2018
+    },
+    {
+      "docTitle": "ICT for Human Resources",
+      "docSummary": "Health Partners International (HPI) has developed a sophisticated suite of software that equips government departments and facilities with data and information to make operational and strategic decisions concerning human resources. The suite comprises of three tools. These tools (HR Admin, HR Skills Surveyor, HR Planner) improve human resource administration, management and planning. They can be used independently or together. The tools are complemented by more than 20 years of practical expertise of HPI’s technical leads and together these help to build sustainable capacity of country leaders.",
+      "organization": "Health Partners International",
+      "docType": [
+        "Technical Brief"
+      ],
+      "solutions": [
+        "Digital Health Solutions, "
+      ],
+      "technicalTerms": [
+        "Disease Control Elimination & Eradication", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition", "Leadership and Governance", "Health Service Delivery", "Human Resources for Health", "Health Information"
+      ],
+      "docFilename": "",
+      "docThumbnail": "",
+      "year": 2018
+    },
+    {
+      "docTitle": "",
+      "docSummary": "",
+      "organization": "",
+      "docType": [
+        ""
+      ],
+      "solutions": [
+        ""
+      ],
+      "technicalTerms": [
+        ""
+      ],
+      "docFilename": "",
+      "docThumbnail": "",
+      "year": 2018
     }
 ]
