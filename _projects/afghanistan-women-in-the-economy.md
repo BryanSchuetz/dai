@@ -29,7 +29,7 @@ The U.S Agency for International Development (USAID)’s Promote: Women in the E
 
 WIE is based in four economic zones across and works across 30 Afghan provinces. WIE [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY)—and businesses that employ at least 30 percent women—to perform better, grow, and sustain.
 
-WIE supports women ages 18 and above to find new or better jobs through career counseling, workplace skills development, and job skills training based on market demand.Consortium partners include Afghan firms Founder Institute, Afghanistan Institute for Banking and Finance, Rumi Consultancy, and RSI Consulting (M&E), as well as the Thunderbird School of Global Management at Arizona State University.
+WIE supports women ages 18 and above to find new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. Consortium partners include Afghan firms Founder Institute, Afghanistan Institute for Banking and Finance, Rumi Consultancy, and RSI Consulting (M&E), as well as the Thunderbird School of Global Management at Arizona State University.
 
 ![project image](/assets/images/our-work/awle.jpg)
 
