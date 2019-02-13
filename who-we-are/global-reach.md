@@ -29,7 +29,7 @@ Nigeria is Africa’s most populous nation and largest economy, a country of alm
 
 ## United Kingdom
 
-With offices in Apsley, Hertfordshire, and Lewes, Sussex, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict.
+With offices in Apsley, Hertfordshire, and in London, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict.
 
 <a href="/who-we-are/global-reach/the-united-kingdom" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 <hr>
