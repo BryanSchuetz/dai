@@ -40,7 +40,7 @@ RG3 assists the Liberia Revenue Authority (LRA) to improve its tax collection sy
 
 ### Select Results
 
-* Facilitated a tenfold increase—from $1.2 million in Q3 2018 to $12.5 million in Q4 2018—in reported taxes due via e-filing.
+* Facilitated a [tenfold increase](https://www.dai.com/news/tenfold-increase-in-reported-tax-obligations-via-e-filing-marks-improved-transparency-governance-for-liberia)—from $1.2 million in Q3 2018 to $12.5 million in Q4 2018—in reported taxes due via e-filing.
 * Increased taxpayer inquiries to the LRA call center tenfold through aggressive mobile text-messaging outreach.
 * Conducted innovative text-based taxpayer perception survey and cost-of-compliance survey using computer-assisted telephone interviewing.
 * Assisted LRA to establish a data processing center that improved transparency encompassing 70 percent of revenues and generates information to inform audit selection and improve revenue forecasting.
