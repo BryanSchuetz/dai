@@ -17,15 +17,17 @@ Liberian taxpayers reported $12.5 million through e-filing platform in taxes due
 
 The increase was spurred primarily by improved e-filing compliance by large taxpayers, which came among an 11-percent increase in the number of taxpayers enrolled electronically and 353-percent increase in the number of returns submitted, primarily withholding tax returns filed by large taxpayers. Data from the returns have been entered into the government’s new tax databases.
 
+![DAI-News----RG3-tax-reporting.jpg](/uploads/DAI-News----RG3-tax-reporting.jpg)`Liberia President George Weah demonstrates mobile tax filing during the platform's launch event in April 2018.` 
+
 The increases are being attributed to reforms implemented by the Liberian Revenue Authority (LRA) with assistance from the U.S. Agency for International Development’s Revenue Generation for Governance and Growth (RG3) program. Reforms included a requirement that—beginning in October—large taxpayers e-file tax returns. To support the reforms, LRA and RG3 established tax clinics to promote taxpayer filing and enrollment, conducted joint educational visits to taxpayers’ premises, and conducted SMS and social media outreach via Facebook.
 
 While the impact on actual tax revenues is still to be determined, Liberians are already benefitting from filing and paying taxes electronically through:
 
-•	Reduced time spent by taxpayers going to tax offices and standing in lines while away from their businesses, with e-filing and e-payment options available around the clock;
-•	Reduced costs for printing and processing paper returns and decongested tax offices;
-•	Improved reconciliation between taxes owed and paid with faster tax credits/refunds;
-•	Increased transparency and data, improving the efficiency of risk management and audits; and 
-•	Reduced opportunities for corruption between tax officers and taxpayers, especially in cash payments to tax officers in rural areas.
+* Reduced time spent by taxpayers going to tax offices and standing in lines while away from their businesses, with e-filing and e-payment options available around the clock;
+* Reduced costs for printing and processing paper returns and decongested tax offices;
+* Improved reconciliation between taxes owed and paid with faster tax credits/refunds;
+* Increased transparency and data, improving the efficiency of risk management and audits; and 
+* Reduced opportunities for corruption between tax officers and taxpayers, especially in cash payments to tax officers in rural areas.
 
 In 2018, Liberia [launched](https://dai-global-developments.com/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/) electronic and mobile options for filing and paying taxes.
 
