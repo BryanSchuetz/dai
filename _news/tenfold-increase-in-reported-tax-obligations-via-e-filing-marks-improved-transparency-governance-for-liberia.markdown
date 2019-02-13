@@ -1,6 +1,5 @@
 ---
-title: Tenfold Increase in Taxes Due Reported Via E-Filing Marks Improved Transparency,
-  Governance for Liberia
+title: 'Liberia Tax Reform Result: Tenfold Increase in Reported Taxes Due Via E-Filing'
 date: 2019-02-13 15:21:00 Z
 solutions:
 - Governance
@@ -13,13 +12,13 @@ summary: 'Liberian taxpayers reported $12.5 million  in taxes due through e-fili
   its drive for more transparent and robust tax collection and administration. '
 ---
 
-Liberian taxpayers reported $12.5 million in taxes due through e-filing during the fourth quarter of 2018, a tenfold increase over the $1.2 million in obligations reported via e-filing in Q3 of 2018. The increased reporting marked an important milestone for Liberia in its drive for more transparent and robust tax collection and administration. 
+Liberian taxpayers reported $12.5 million in taxes due through e-filing during the fourth quarter of 2018, a tenfold increase over the $1.2 million in obligations reported via e-filing from the previous quarter. The dramatic increase marked an important milestone for Liberia in its drive for more transparent and robust tax collection and administration. 
 
-The increase was spurred primarily by improved e-filing compliance by large taxpayers, which came among an 11-percent increase in the number of taxpayers enrolled electronically and 353-percent increase in the number of returns submitted, primarily withholding tax returns filed by large taxpayers. Data from the returns have been entered into the government’s new tax databases.
+The increase was spurred primarily by improved e-filing compliance by large taxpayers, which came as part of an 11-percent increase in the number of taxpayers enrolled electronically and 353-percent increase in the number of returns submitted, primarily withholding tax returns filed by large taxpayers. Data from the returns have been entered into the government’s new tax databases.
 
 ![DAI-News----RG3-tax-reporting.jpg](/uploads/DAI-News----RG3-tax-reporting.jpg)`Liberia President George Weah demonstrates mobile tax filing during the platform's launch event in April 2018.` 
 
-The increases are being attributed to reforms implemented by the Liberian Revenue Authority (LRA) with assistance from the U.S. Agency for International Development’s Revenue Generation for Governance and Growth (RG3) program. Reforms included a requirement that—beginning in October—large taxpayers e-file tax returns. To support the reforms, LRA and RG3 established tax clinics to promote taxpayer filing and enrollment, conducted joint educational visits to taxpayers’ premises, and conducted SMS and social media outreach via Facebook.
+The increases are being attributed to reforms implemented by the Liberian Revenue Authority (LRA) with assistance from the U.S. Agency for International Development’s [Revenue Generation for Governance and Growth (RG3)](http://preview-dai.com/our-work/projects/liberia-revenue-generation-governance-and-growth-rg3) program. Reforms included a requirement beginning in October for large taxpayers to e-file tax returns. To support the reforms, LRA and RG3 established tax clinics to promote taxpayer filing and enrollment, conducted joint educational visits to taxpayers’ premises, and conducted SMS and [social media]((https://web.facebook.com/LiberiaRevenueAuthority/?_rdc=1&_rdr)), and other outreach.
 
 While the impact on actual tax revenues is still to be determined, Liberians are already benefitting from filing and paying taxes electronically through:
 
