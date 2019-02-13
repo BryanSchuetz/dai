@@ -29,9 +29,7 @@ The U.S Agency for International Development (USAID)’s Promote: Women in the E
 
 WIE is based in four economic zones across and works across 30 Afghan provinces. WIE [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY)—and businesses that employ at least 30 percent women—to perform better, grow, and sustain.
 
-WIE supports women ages 18 and above in finding new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. This is done by partnering with local educational, vocational, and technical training providers to deliver services, and by funding scholarships for training and certification programs. The project also supports internships, apprenticeships, and job placement services that give women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions. WIE also incentivizes companies to improve workplace environments for women.
-
-Consortium partners include Afghan firms Founder Institute, Afghanistan Institute for Banking and Finance, Rumi Consultancy, and RSI Consulting (M&E), as well as the Thunderbird School of Global Management at Arizona State University.
+WIE supports women ages 18 and above to find new or better jobs through career counseling, workplace skills development, and job skills training based on market demand.Consortium partners include Afghan firms Founder Institute, Afghanistan Institute for Banking and Finance, Rumi Consultancy, and RSI Consulting (M&E), as well as the Thunderbird School of Global Management at Arizona State University.
 
 ![project image](/assets/images/our-work/awle.jpg)
 
@@ -44,6 +42,7 @@ Consortium partners include Afghan firms Founder Institute, Afghanistan Institut
 * Assist businesses employing women to develop their financial literacy. 
 * Mentor program beneficiaries through job readiness preparation, through internships or apprenticeships, on to eventual full time job placement.
 * Assist women’s businesses in product quality development, quality improvement, packaging, regulatory compliance, and participation in trade fairs.
+* WIE also incentivizes companies to improve workplace environments for women.
 
 ### Select Results 
 
