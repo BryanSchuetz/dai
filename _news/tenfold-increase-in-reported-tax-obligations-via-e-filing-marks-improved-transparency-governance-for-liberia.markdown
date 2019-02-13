@@ -12,7 +12,7 @@ summary: 'Liberian taxpayers reported $12.5 million  in taxes due through e-fili
   its drive for more transparent and robust tax collection and administration. '
 ---
 
-Liberian taxpayers reported $12.5 million in taxes due through e-filing during the fourth quarter of 2018, a tenfold increase over the $1.2 million in obligations reported via e-filing from the previous quarter. The dramatic increase marked an important milestone for Liberia in its drive for more transparent and robust tax collection and administration. 
+Liberian taxpayers reported $12.5 million in taxes due through e-filing during the fourth quarter of 2018, a tenfold increase over the $1.2 million in obligations reported via e-filing from the previous quarter. The dramatic increase marked a milestone for Liberia in its drive for more transparent and robust tax collection and administration. 
 
 The increase was spurred primarily by improved e-filing compliance by large taxpayers, which came as part of an 11-percent increase in the number of taxpayers enrolled electronically and 353-percent increase in the number of returns submitted, primarily withholding tax returns filed by large taxpayers. Data from the returns have been entered into the government’s new tax databases.
 
