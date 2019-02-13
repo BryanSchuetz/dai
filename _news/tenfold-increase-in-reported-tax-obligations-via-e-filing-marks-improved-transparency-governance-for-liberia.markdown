@@ -22,7 +22,7 @@ The increases are being attributed to reforms implemented by the Liberian Revenu
 
 In 2018, Liberia [launched](https://dai-global-developments.com/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development/) electronic and mobile options for filing and paying taxes.
 
-“By strengthening systems for reporting and collecting taxes, the Liberian government will eventually possess much more ability to implement needed development,” said DAI’s [Alexander Kitain](https://www.dai.com/who-we-are/our-team/alexander-kitain), RG3’s Chief of Party. “Liberia has real needs in energy, roads, and schools, to name a few areas. By implementing permanent improvements to revenue collection, the country will ultimately be able to increase its domestic expenditure on these and other needs.”
+> “By strengthening systems for reporting and collecting taxes, the Liberian government will eventually possess much more ability to implement needed development,” said DAI’s [Alexander Kitain](https://www.dai.com/who-we-are/our-team/alexander-kitain), RG3’s Chief of Party. “Liberia has real needs in energy, roads, and schools, to name a few areas. By implementing permanent improvements to revenue collection, the country will ultimately be able to increase its domestic expenditure on these and other needs.”
 
 While the impact of increased tax filings on actual revenues is still to be determined, Liberians are already benefitting from filing and paying taxes electronically through:
 
