@@ -1,6 +1,7 @@
 ---
 title: 'Afghanistan—Promote: Women in the Economy (WIE)'
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: 'The U.S Agency for International Development’s Promote: Women in the Economy
   (WIE) program is bolstering women’s inclusion in Afghanistan’s economy and working
   to ensure that progress made by Afghan women over the past decade endures and advances.'
