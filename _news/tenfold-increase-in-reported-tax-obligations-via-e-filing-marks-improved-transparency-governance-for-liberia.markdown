@@ -1,5 +1,5 @@
 ---
-title: Tenfold Increase in Reported Tax Obligations Via E-Filing Marks Improved Transparency,
+title: Tenfold Increase in Taxes Due Reported Via E-Filing Marks Improved Transparency,
   Governance for Liberia
 date: 2019-02-13 15:21:00 Z
 solutions:
@@ -8,12 +8,12 @@ solutions:
 regions: Sub-Saharan Africa
 projects: Liberia—Revenue Generation for Governance and Growth (RG3)
 clients: U.S. Agency for International Development
-summary: 'Liberian taxpayers reported $12.5 million through e-filing platform in taxes
-  due during the fourth quarter of 2018, marking an important milestone for Liberia
-  in its drive for more transparent and robust tax collection and administration. '
+summary: 'Liberian taxpayers reported $12.5 million  in taxes due through e-filing
+  during the fourth quarter of 2018, marking an important milestone for Liberia in
+  its drive for more transparent and robust tax collection and administration. '
 ---
 
-Liberian taxpayers reported $12.5 million through e-filing platform in taxes due during the fourth quarter of 2018, a tenfold increase over the $1.2 million e-filed in obligations reported in Q3 of 2018. The increased reporting of tax obligations marked an important milestone for Liberia in its drive for more transparent and robust tax collection and administration. 
+Liberian taxpayers reported $12.5 million in taxes due through e-filing during the fourth quarter of 2018, a tenfold increase over the $1.2 million in obligations reported via e-filing in Q3 of 2018. The increased reporting marked an important milestone for Liberia in its drive for more transparent and robust tax collection and administration. 
 
 The increase was spurred primarily by improved e-filing compliance by large taxpayers, which came among an 11-percent increase in the number of taxpayers enrolled electronically and 353-percent increase in the number of returns submitted, primarily withholding tax returns filed by large taxpayers. Data from the returns have been entered into the government’s new tax databases.
 
