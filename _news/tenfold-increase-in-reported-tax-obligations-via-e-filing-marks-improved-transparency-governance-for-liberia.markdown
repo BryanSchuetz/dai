@@ -1,5 +1,5 @@
 ---
-title: 'Liberia Tax Reform Update: Tenfold Increase in Reported Taxes Due Via E-Filing'
+title: 'Liberia Tax Reform Update: Tenfold Increase in Taxes Due Reported Via E-Filing'
 date: 2019-02-13 15:21:00 Z
 solutions:
 - Governance
