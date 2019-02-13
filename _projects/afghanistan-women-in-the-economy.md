@@ -1,7 +1,6 @@
 ---
 title: 'Afghanistan—Promote: Women in the Economy (WIE)'
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: 'The U.S Agency for International Development’s Promote: Women in the Economy
   (WIE) program is bolstering women’s inclusion in Afghanistan’s economy and working
   to ensure that progress made by Afghan women over the past decade endures and advances.'
@@ -28,9 +27,9 @@ layout: project
 
 The U.S Agency for International Development (USAID)’s Promote: Women in the Economy (WIE) program is [bolstering women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce/?utm_source=daidotcom) in Afghanistan’s economy and working to ensure that progress made by Afghan women over the past decade endures and advances.
 
-With its focus on both private sector and workforce development, WIE is based in four economic zones across the country and works across 30 Afghan provinces. WIE [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY) and businesses that employ at least 30 percent women to perform better, increasing the income growth and sustainability of these businesses. The program provides technical assistance, industry-specific business skills training, and improved access to finance and markets to leverage growth in the private sector.
+WIE is based in four economic zones across and works across 30 Afghan provinces. WIE [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY)—and businesses that employ at least 30 percent women—to perform better, grow, and sustain.
 
-To help female jobseekers, WIE supports women ages 18 and above in finding new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. This is done by partnering with local educational, vocational, and technical training providers to deliver services, and by funding scholarships for training and certification programs. The project also supports internships, apprenticeships, and job placement services that give women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions. WIE also incentivizes companies to improve workplace environments for women.
+WIE supports women ages 18 and above in finding new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. This is done by partnering with local educational, vocational, and technical training providers to deliver services, and by funding scholarships for training and certification programs. The project also supports internships, apprenticeships, and job placement services that give women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions. WIE also incentivizes companies to improve workplace environments for women.
 
 Consortium partners include Afghan firms Founder Institute, Afghanistan Institute for Banking and Finance, Rumi Consultancy, and RSI Consulting (M&E), as well as the Thunderbird School of Global Management at Arizona State University.
 
