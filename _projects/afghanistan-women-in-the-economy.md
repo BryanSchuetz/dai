@@ -41,9 +41,9 @@ Consortium partners include Afghan firms Founder Institute, Afghanistan Institut
 * Assist businesses that employ women to access market information, access finance, and form commercial relationships.
 * Support increased women’s opportunities for leadership career paths.
 * Support businesses employing women with the development of industry-specific skills-based business plans.
-* Assist businesses employing women to develop their financial literacy 
-* Mentor program beneficiaries through job readiness preparation, through internships or apprenticeships, on to eventual full time job placement
-* Assisting women’s businesses in product quality development, quality improvement, packaging, regulatory compliance, and participation in trade fairs
+* Assist businesses employing women to develop their financial literacy. 
+* Mentor program beneficiaries through job readiness preparation, through internships or apprenticeships, on to eventual full time job placement.
+* Assist women’s businesses in product quality development, quality improvement, packaging, regulatory compliance, and participation in trade fairs.
 
 ### Select Results 
 
