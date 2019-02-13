@@ -43,7 +43,7 @@ WIE supports women ages 18 and above to find new or better jobs through career c
 
 ### Select Results 
 
-* [Placed almost 8,000 interns] in 1,600 companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education, sectors critical to Afghans' wellbeing.
+* Placed almost 8,000 interns in 1,600 companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education, sectors critical to Afghans' wellbeing.
 * Facilitated entry by almost 7,000 women into full-time jobs.
 * Placed nearly 300 young women into microfinance and commercial banking [trainee programs](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) within six financial institutions in urban regional centers.
 * Provided more than 1,000 Job Readiness Training courses to 15,500 young women seeking to enter the workforce.
