@@ -43,6 +43,7 @@ Consortium partners include Afghan firms Founder Institute, Afghanistan Institut
 •	Support businesses employing women with the development of industry-specific skills-based business plans.
 •	Assist businesses employing women to develop their financial literacy 
 •	Mentor program beneficiaries through job readiness preparation, through internships or apprenticeships, on to eventual full time job placement
+•	Assisting women’s businesses in product quality development, quality improvement, packaging, regulatory compliance, and participation in trade fairs
 
 ### Select Results 
 
@@ -50,7 +51,10 @@ Consortium partners include Afghan firms Founder Institute, Afghanistan Institut
 * Facilitated entry by almost 7,000 women into full-time jobs throughout Afghanistan.
 * Placed nearly 300 young women into microfinance and commercial banking [trainee programs](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) within six financial institutions in urban regional centers.
 * Provided more than 1,000 Job Readiness Training courses to 15,500 young women seeking to enter the workforce.
- * Awarded 1,300 women scholarships to train in areas such as finance and banking, information technology, and retail sales.
+ * Awarded more than 5,000 scholarships for job skills development courses based on demand in areas such as finance and banking, information technology, and retail sales.
+* Assisted more than 150 women-owned businesses by providing professionally trained advisors and mentors through the MBA Corps and Finance Corps programs.
+* Provided business incubation support for more than 50 women-led startups.
+
 * Provided 25,000 hours of job readiness training nationwide for 1,600 young women.
 * Facilitated 157 small loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000. 
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue.
