@@ -1,12 +1,12 @@
 ---
 title: Local Content Plan and Report Platform
 date: 2017-06-19 15:11:00 Z
-layout: default
 summary: The LCPR is an online software platform built by DAI's Sustainable Business
   Group (SBG) to help companies meet their governmental obligations to comply with
   local content, contract tendering, and reporting requirements. The platform covers
   local content compliance, planning, and performance reporting—configured to any
   domestic regulation.
+layout: default
 ---
 
 # Local Content Plan and Reporting Platform (LCPR)
@@ -53,4 +53,4 @@ Forecasts of local content are uploaded as targets—part of building a Local Co
 
 ## Arrange a demonstration
 
-Please contact [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Advisor in Local Content, or [Warwick Strong](mailto:Warwick_Strong@dai.com), Manager of Mining, for a demonstration of the software.
+Please contact [Dr. Michael Warner](mailto:Michael_Warner@dai.com), Senior Technical Advisor in Local Content, for a demonstration of the software.
