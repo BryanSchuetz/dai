@@ -193,7 +193,7 @@
         "Technical Brief"
       ],
       "solutions": [
-        "Global Health Security and Pandemic Preparedness, Health Systems Strengthening, Disease Control Elimination & Eradication"
+        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening", "Disease Control Elimination & Eradication"
       ],
       "docFilename": "pandr-one-health-interventions.pdf",
       "docThumbnail": "pandr-one-health-interventions_page1.jpeg",
@@ -207,7 +207,7 @@
         "Technical Brief"
       ],
       "solutions": [
-        "Global Health Security and Pandemic Preparedness, Health Systems Strengthening"
+        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"
       ],
       "technicalTerms": [
         "Disease Control Elimination & Eradication"
@@ -241,7 +241,7 @@
         "Technical Brief"
       ],
       "solutions": [
-        "Global Health Security and Pandemic Preparedness, Health Systems Strengthening, Disease Control Elimination & Eradication"
+        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening", "Disease Control Elimination & Eradication"
       ],
       "docFilename": "pandr-gender.pdf",
       "docThumbnail": "pandr-gender_page1.jpeg",
@@ -255,7 +255,7 @@
         "Technical Brief"
       ],
       "solutions": [
-        "Digital Health Solutions, "
+        "Digital Health Solutions"
       ],
       "technicalTerms": [
         "Disease Control Elimination & Eradication", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition", "Leadership and Governance", "Health Service Delivery", "Human Resources for Health", "Health Information"
@@ -297,39 +297,5 @@
       "docFilename": "hpi-cpacity-to-fight-malaria.pdf",
       "docThumbnail": "hpi-cpacity-to-fight-malaria_page1.jpeg",
       "year": 2016
-    },
-    {
-      "docTitle": "",
-      "docSummary": "",
-      "organization": "",
-      "docType": [
-        ""
-      ],
-      "solutions": [
-        ""
-      ],
-      "technicalTerms": [
-        ""
-      ],
-      "docFilename": ".pdf",
-      "docThumbnail": "_page1.jpeg",
-      "year": 2018
-    },
-    {
-      "docTitle": "",
-      "docSummary": "",
-      "organization": "",
-      "docType": [
-        ""
-      ],
-      "solutions": [
-        ""
-      ],
-      "technicalTerms": [
-        ""
-      ],
-      "docFilename": ".pdf",
-      "docThumbnail": "_page1.jpeg",
-      "year": 2018
     }
 ]

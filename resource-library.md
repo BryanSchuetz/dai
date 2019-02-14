@@ -92,7 +92,7 @@ search.addWidget(
     sortBy: ["count:desc","name:asc"],
     templates: {
       header: 'Filter Results by Document Type:',
-      item: '<div class="menu-item"><span class="menu-item--label">{{ label }}({{ count }} items)</h3></span>'
+      item: '<div class="menu-item"><span class="menu-item--label">{{ label }} ({{ count }} items)</h3></span>'
     }
   })
 );
