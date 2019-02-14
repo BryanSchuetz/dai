@@ -27,7 +27,8 @@ In 2018, Liberia [launched](https://dai-global-developments.com/articles/liberia
 While the impact of increased tax filings on actual revenues is still to be determined, Liberians are already benefitting from filing and paying taxes electronically through:
 
 * Reduced time spent by taxpayers going to tax offices and standing in lines while away from their businesses, with e-filing and e-payment options available around the clock;
-* Reduced costs for printing and processing paper returns and decongested tax offices;
+* Reduced costs for printing and processing paper returns;
+* Decongested tax offices; 
 * Improved reconciliation between taxes owed and paid with faster tax credits/refunds;
 * Increased transparency and data, improving the efficiency of risk management and audits; and 
 * Reduced opportunities for corruption between tax officers and taxpayers, especially in cash payments to tax officers in rural areas.

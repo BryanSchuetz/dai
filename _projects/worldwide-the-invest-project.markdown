@@ -14,10 +14,6 @@ solutions:
 - Economic Growth
 regions: Worldwide
 country: Worldwide
-promos:
-- title: "**2018 Annual Report**: _INVEST Project: Mobilizing Private Investment for
-    Development_"
-  link: "/uploads/INVEST_Annual_Report-2018-DEC.PDF"
 ---
 
 INVEST is a flexible, efficient buy-in mechanism that helps USAID operating units mobilize private capital to achieve their goals. Through INVEST, USAID accesses the expertise it needs to evaluate and execute [blended finance](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) approaches. This supports USAID’s focus on enterprise-led development, unlocking the potential of the private sector to move countries beyond the need for assistance.
