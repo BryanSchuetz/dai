@@ -5,9 +5,9 @@ published: false
 is_featured: true
 solutions: 
 clients: 
-summary: DAI is honored to welcome to its Board one of the development community’s most distinguished leaders, Elizabeth L. Littlefield.
+summary: DAI is honored to welcome to its Board one of the development community’s
+  most distinguished leaders, Elizabeth L. Littlefield.
 social-image: "/uploads/littlefield-featured-news.jpeg"
-published:  false
 ---
 
 ![Elizabeth Littlefield](/uploads/littlefield-featured-news.jpeg){:.float-left} DAI is honored to welcome to its Board one of the development community’s most distinguished leaders, Elizabeth L. Littlefield. 
