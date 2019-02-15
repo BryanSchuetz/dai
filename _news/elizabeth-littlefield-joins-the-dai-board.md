@@ -1,10 +1,7 @@
 ---
 title: Elizabeth Littlefield Joins the DAI Board
 date: 2019-02-15 01:17:00 Z
-published: false
 is_featured: true
-solutions: 
-clients: 
 summary: DAI is honored to welcome to its Board one of the development community’s
   most distinguished leaders, Elizabeth L. Littlefield.
 social-image: "/uploads/littlefield-featured-news.jpeg"
