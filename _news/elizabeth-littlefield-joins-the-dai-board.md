@@ -7,7 +7,7 @@ summary: DAI is honored to welcome to its Board one of the development community
 social-image: "/uploads/littlefield-featured-news.jpeg"
 ---
 
-![Elizabeth Littlefield](/uploads/littlefield-featured-news.jpeg){:.float-left} DAI is honored to welcome to its Board one of the development community’s most distinguished leaders, Elizabeth L. Littlefield. 
+![Elizabeth Littlefield](/uploads/littlefield-featured-news.jpg){:.float-left} DAI is honored to welcome to its Board one of the development community’s most distinguished leaders, Elizabeth L. Littlefield. 
 
 Ms. Littlefield—who most recently served as President and Chief Executive Officer of the Overseas Private Investment Corporation (OPIC)—brings to DAI more than 30 years of expertise in development finance, economic development, conservation, and poverty reduction. 
 
