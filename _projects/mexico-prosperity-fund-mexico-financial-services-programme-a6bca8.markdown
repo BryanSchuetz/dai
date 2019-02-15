@@ -13,9 +13,9 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-There is considerable appetite in Mexico to modernise the country’s financial sector and develop its economic potential. This program aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants. Expanding and opening this sector will help to reduce poverty, increase productivity, and promote inclusive social and economic development.
+There is considerable appetite in Mexico to modernise the country’s financial sector and develop its economic potential. This programme aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants. Expanding and opening this sector will help to reduce poverty, increase productivity, and promote inclusive social and economic development.
 
-DAI is joined in this programme by subcontractors Open Vector, Hogan Lovells, Women’s World Banking, TESOBE, and Centro de Investigación y Docencia Económicas (CIDE).
+DAI is joined by subcontractors Open Vector, Hogan Lovells, Women’s World Banking, TESOBE, and Centro de Investigación y Docencia Económicas (CIDE).
 
 ![Mexico----Prosperity-Fund-Finance-1abd5b.jpg](/uploads/Mexico----Prosperity-Fund-Finance-1abd5b.jpg)
 
