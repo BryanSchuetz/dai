@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Littlefield Joins the DAI Board
-date: 2019-02-14 12:17:00 Z
+date: 2019-02-15 01:17:00 Z
 published: false
 is_featured: true
 solutions: 
