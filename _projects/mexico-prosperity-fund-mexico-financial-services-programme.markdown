@@ -18,6 +18,8 @@ There is considerable appetite in Mexico to modernise the country’s financial 
 
 DAI is joined in this programme by subcontractors Open Vector, Hogan Lovells, Women’s World Banking, TESOBE, and Centro de Investigación y Docencia Económicas (CIDE). 
 
+![Mexico----Prosperity-Fund-Finance.jpg](/uploads/Mexico----Prosperity-Fund-Finance.jpg)
+
 ### Sample Activities
 
 * Increase bank usage by beneficiaries of Prospera, Mexico’s largest conditional cash transfer programme, which caters to approximately 7 million people (mostly women) and their families.
