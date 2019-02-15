@@ -24,7 +24,7 @@ The project team collaborates with Zambia’s National Food and Nutrition Counci
 
 ![Zambia-SUN-TA.jpg](/uploads/Zambia-SUN-TA.jpg)
 
-Sample Activities
+### Sample Activities
 
 * Review districts to identify areas of common need and create economies of scale for capacity building, behavior change, and improved service delivery;
 * Deploy teams to provide demand-driven assistance to capacity gaps at all levels;
