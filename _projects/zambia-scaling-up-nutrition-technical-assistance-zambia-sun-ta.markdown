@@ -1,7 +1,6 @@
 ---
 title: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 date: 2019-02-15 18:02:00 Z
-published: false
 summary: Zambia SUN TA will support the Government of Zambia in its efforts to reduce
   stunting among children under two years of age by layering interventions in nutrition,
   health, water, sanitation, and agriculture, and building the capacity of Zambian
@@ -22,6 +21,8 @@ Zambia SUN TA will support the Government of Zambia in its efforts to reduce stu
 The Zambian government is committed to high-impact, nutrition-specific, and nutrition-sensitive interventions. By decreasing stunting, Zambia SUN TA will help assure that more of Zambia’s children grow up healthy, strong, and productive. 
 
 The project team collaborates with Zambia’s National Food and Nutrition Council, ministry representatives, donors, district health workers, and sanitation service providers, among others. The DAI-led consortium includes TechnoServe, EXP Zambia, Toilet Yanga, and Viamo.
+
+![Zambia-SUN-TA.jpg](/uploads/Zambia-SUN-TA.jpg)
 
 Sample Activities
 
