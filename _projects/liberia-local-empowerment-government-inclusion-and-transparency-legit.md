@@ -6,7 +6,7 @@ summary: 'The Local Empowerment for Government Inclusion and Transparency (LEGIT
   of authority from the national government to counties and cities, enhancing citizen
   participation in governance, and building capacity for government officials. '
 start: 2016
-end: 2019
+end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management
