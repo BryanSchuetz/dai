@@ -29,7 +29,7 @@ AWEF is the only market systems-based development programme in the region that a
 
 ![][2]
 
-###  Sample Activities
+### Sample Activities
 
 * Support businesses to increase focus on women’s working conditions in Egypt’s food retail, citrus, and ready-made garment sectors, and on gender-sensitive recruitment, human resource management and training policies. 
 * Assist home-based female producers in Jordan’s dairy sector to raise awareness of the value of testing and certification of products to [increase their competitiveness](http://jordantimes.com/news/local/uk-project-helps-jerash-women-sell-dairy-products-national-market) and value.
@@ -42,7 +42,7 @@ AWEF is the only market systems-based development programme in the region that a
 * Designed and developed a customised AWEF [Disadvantage Assessment Tool](http://www.seepnetwork.org/empowerment-forward-poverty-measurement--real-time-learning-from-the-arab-women---s-enterprise-fund---s-disadvantage-assessment-resources-1778.php), now in use in all three countries. 
 * Started training at least 30 women in Palestine to become paraveterinarians and work with female sheepherders in rural areas. 
 * Set up a milk supply network of 189 to 250 women with a dairy processing company; will be scaled to 500 women in the following year. 
-* Engaged with major Egyptian retailers to increase the hiring of women. 
+* Engaged with major Egyptian retailers to [increase the hiring](https://beamexchange.org/community/blogs/9999/1/1/fintech-for-women-egypt/) of women. 
 
 [1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom
 [2]: https://assetify-dai.com/projects/AWEF-web-page.jpg
