@@ -1,16 +1,15 @@
 ---
 title: DAI to Launch USAID Zambia Program to Reduce Stunting in Young Children
 date: 2019-02-19 18:22:00 Z
-published: false
 ---
 
-DAI is set to begin implementation of the Scaling Up Nutrition Technical Assistance in Zambia program (Zambia SUN TA). Funded by the U.S. Agency for International Development, the four-year project will support the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s Scaling Up Nutrition program launched in 2011 and covered 14 districts; this phase will expand activities to 30 districts covering 7.1 million people, including 850,000 children under 2 and their mothers.
+DAI is set to begin implementation of the Scaling Up Nutrition Technical Assistance in Zambia program (Zambia SUN TA). Funded by the U.S. Agency for International Development, the four-year project will support the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; this phase will expand activities to 30 districts covering 7.1 million people, including 850,000 children under 2 and their mothers.
 
 Zambia SUN TA will layer interventions in nutrition, health, agriculture, and water, sanitation, and hygiene (WASH), building the capacity of Zambian counterparts at all levels to take these interventions forward. The DAI-led team will collaborate with Zambia’s National Food and Nutrition Council (NFNC), ministry representatives, donors, district health workers, and sanitation service providers, among others. DAI’s consortium includes TechnoServe, EXP Zambia, Toilet Yanga, and Viamo.
 
-Stunting is the impaired growth and development that children experience as a result of poor nutrition, repeated infection, and inadequate psychosocial stimulation. Affecting 40 percent of Zambian children under age 5, stunting can cause poor cognition and educational performance and other harmful lifelong effects.
+[Stunting](https://www.who.int/nutrition/healthygrowthproj_stunted_videos/en/) is the impaired growth and development that children experience as a result of poor nutrition, repeated infection, and inadequate psychosocial stimulation. Affecting 40 percent of Zambian children under age 5, stunting can cause poor cognition and educational performance and other harmful lifelong effects.
 
-“DAI looks forward to working with our Zambian counterparts to ensure that more of Zambia’s children grow up healthy, strong, and productive,” said Susan Scribner, Vice President of DAI Global Health. “It will take teamwork and a systemic approach to help Zambia improve the nutrition of its children at scale. The Zambian government is committed to high-impact, nutrition-specific, and nutrition-sensitive interventions.”
+“DAI looks forward to working with our Zambian counterparts to ensure that more of Zambia’s children grow up healthy, strong, and productive,” said [Susan Scribner](https://www.dai.com/who-we-are/our-team/susan-scribner), Vice President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health). “It will take teamwork and a systemic approach to help Zambia improve the nutrition of its children at scale. The Zambian government is committed to high-impact, nutrition-specific, and nutrition-sensitive interventions.”
  
 Initial Zambia SUN TA activities will include:
 
