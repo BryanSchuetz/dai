@@ -1,7 +1,6 @@
 ---
 title: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 date: 2019-02-15 18:02:00 Z
-published: false
 summary: Zambia SUN TA will support the Government of Zambia to reduce stunting among
   children under two years of age by layering interventions in nutrition, health,
   water, sanitation, and agriculture, and building the capacity of Zambian counterparts
