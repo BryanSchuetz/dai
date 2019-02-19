@@ -23,7 +23,7 @@ Zambia SUN TA will layer interventions in nutrition, health, agriculture, and wa
  
 Initial Zambia SUN TA activities will include:
 
-* Training and guidance to build the capacity of Zambia’s NFNC and line ministries in providing nutrition-specific and nutrition-sensitive services.
+* Providing training and guidance to build the capacity of Zambia’s NFNC and line ministries in delivering nutrition-specific and nutrition-sensitive services.
 * Building capacity of district- and ward-level staff to plan and coordinate demand-driven interventions in nutrition, health, agriculture, and WASH.
 * Collaborating with partners to assess local barriers and opportunities in areas such as WASH and food value chains, communications and messaging strategies, and uses of digital technology.
 * Capturing knowledge from across districts and developing constituencies for sharing lessons learned and best practices to increase uptake of successes and decrease use of less-effective efforts.
