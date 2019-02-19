@@ -22,7 +22,7 @@ Zambia SUN TA will layer interventions in nutrition, health, agriculture, and wa
 
 The Zambian government is committed to high-impact, nutrition-specific, and nutrition-sensitive interventions. The Zambia SUN TA team is collaborating with Zambia’s National Food and Nutrition Council (NFNC), ministry representatives, donors, district health workers, and sanitation service providers, among others. DAI’s consortium includes TechnoServe, EXP Zambia, Toilet Yanga, and Viamo.
 
-[Stunting](https://www.who.int/nutrition/healthygrowthproj_stunted_videos/en/) is impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Affecting 40 percent of Zambian children under age five, stunting can cause poor cognition and educational performance and other harmful lifelong effects. Zambia SUN TA will ensure that more of Zambia’s children grow up healthy, strong, and productive.
+[Stunting](https://www.who.int/nutrition/healthygrowthproj_stunted_videos/en/) is impaired growth and development that children experience as a result of poor nutrition, repeated infection, and inadequate psychosocial stimulation. Affecting 40 percent of Zambian children under age 5, stunting can cause poor cognition and educational performance and other harmful lifelong effects. Zambia SUN TA will ensure that more of Zambia’s children grow up healthy, strong, and productive.
 
 ![Zambia-SUN-TA.jpg](/uploads/Zambia-SUN-TA.jpg)
 
