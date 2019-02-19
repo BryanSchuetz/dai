@@ -13,7 +13,7 @@ summary: DAI is set to begin implementation of the Scaling Up Nutrition Technica
   children under 2 years of age.
 ---
 
-DAI is set to begin implementation of the Scaling Up Nutrition Technical Assistance in Zambia program (Zambia SUN TA). Funded by the U.S. Agency for International Development, the four-year project will support the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; this phase will expand activities to 30 districts covering 7.1 million people, including 850,000 children under 2 and their mothers.
+DAI is set to begin implementation of the [Scaling Up Nutrition Technical Assistance in Zambia](https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta) program (Zambia SUN TA). Funded by the U.S. Agency for International Development, the four-year project will support the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; this phase will expand activities to 30 districts covering 7.1 million people, including 850,000 children under 2 and their mothers.
 
 ![Zambia-SUN-TA-2f00ca.jpg](/uploads/Zambia-SUN-TA-2f00ca.jpg)`Doctor treating a child in Zambia under the MAMaZ Against Malaria program, for which DAI provided technical assistance.`  
 
