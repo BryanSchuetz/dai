@@ -26,7 +26,7 @@ The Zambian government is committed to high-impact, nutrition-specific, and nutr
 
 ![Zambia-SUN-TA.jpg](/uploads/Zambia-SUN-TA.jpg)
 
-### Sample Initial Activities
+### Sample Activities
 
 * Provide training and guidance to build the capacity of Zambia’s NFNC and line ministries to deliver nutrition-specific and nutrition-sensitive services.
 * Build capacity of district- and ward-level staff to plan and coordinate demand-driven interventions in nutrition, health, agriculture, and WASH.
