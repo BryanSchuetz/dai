@@ -1,6 +1,16 @@
 ---
 title: DAI to Launch USAID Zambia Program to Reduce Stunting in Young Children
 date: 2019-02-19 18:22:00 Z
+solutions:
+- Global Health
+- Water and Sanitation Services and Management
+regions: Sub-Saharan Africa
+projects: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
+clients: U.S. Agency for International Development
+summary: DAI is set to begin implementation of the Scaling Up Nutrition Technical
+  Assistance in Zambia program. Funded by the U.S. Agency for International Development,
+  the four-year project will support the Government of Zambia to reduce stunting among
+  children under 2 years of age.
 ---
 
 DAI is set to begin implementation of the Scaling Up Nutrition Technical Assistance in Zambia program (Zambia SUN TA). Funded by the U.S. Agency for International Development, the four-year project will support the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; this phase will expand activities to 30 districts covering 7.1 million people, including 850,000 children under 2 and their mothers.
