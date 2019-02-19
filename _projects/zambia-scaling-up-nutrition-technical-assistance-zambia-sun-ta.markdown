@@ -17,7 +17,9 @@ regions: Sub-Saharan Africa
 country: Zambia
 ---
 
-Zambia SUN TA will support the Government of Zambia to reduce stunting among children under two years of age. Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) planning and activities launched in 2011 and covered 14 districts; this phase will expand coverage to 30 districts, layering interventions in nutrition, health, water, sanitation, and agriculture, and building the capacity of Zambian counterparts at all levels to take these interventions forward.
+Zambia SUN TA will support the Government of Zambia to reduce stunting among children under two years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; this phase will expand coverage to 30 districts, 
+
+layering interventions in nutrition, health, water, sanitation, and agriculture, and building the capacity of Zambian counterparts at all levels to take these interventions forward.
 
 The Zambian government is committed to high-impact, nutrition-specific, and nutrition-sensitive interventions. The DAI-led team is collaborating with Zambia’s National Food and Nutrition Council (NFNC), ministry representatives, donors, district health workers, and sanitation service providers, among others. DAI’s consortium includes TechnoServe, EXP Zambia, Toilet Yanga, and Viamo.
 
