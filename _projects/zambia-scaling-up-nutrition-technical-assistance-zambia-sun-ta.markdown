@@ -1,10 +1,10 @@
 ---
 title: Zambia—Scaling Up Nutrition Technical Assistance (Zambia SUN TA)
 date: 2019-02-15 18:02:00 Z
-summary: Zambia SUN TA will support the Government of Zambia to reduce stunting among
-  children under two years of age by layering interventions in nutrition, health,
-  water, sanitation, and agriculture, and building the capacity of Zambian counterparts
-  at all levels to take these interventions forward.
+summary: DAI is supporting the Government of Zambia to reduce stunting among children
+  under 2 years of age. The first phase of Zambia’s Scaling Up Nutrition program launched
+  in 2011 and covered 14 districts; this phase will expand activities to 30 districts
+  covering 7.1 million people, including 850,000 children under 2 and their mothers.
 start: 2019
 end: 2023
 client: U.S. Agency for International Development
