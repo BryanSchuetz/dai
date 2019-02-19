@@ -1,9 +1,10 @@
 ---
 title: Cambodia—Development Innovations
 date: 2016-01-21 22:40:00 Z
-summary: Technology—when carefully adapted to the context and users it serves—has
-  the potential to empower civil society organizations (CSOs) to tackle development
-  challenges in innovative ways with increased reach and results.
+summary: The U.S. Agency for International Development-funded Development Innovations
+  project helps connect Cambodia's civil society and technology communities to design
+  and use information and communication technology solutions to address Cambodia's
+  development challenges.
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
