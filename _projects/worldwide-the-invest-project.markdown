@@ -16,7 +16,7 @@ regions: Worldwide
 country: Worldwide
 ---
 
-INVEST is a flexible, efficient buy-in mechanism that helps USAID operating units mobilize private capital to achieve their goals. Through INVEST, USAID accesses the expertise it needs to evaluate and execute [blended finance](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) approaches. This supports USAID’s focus on enterprise-led development, unlocking the potential of the private sector to move countries beyond the need for assistance.
+INVEST is a flexible, efficient buy-in mechanism that helps the U.S. Agency for International Development (USAID) operating units mobilize private capital to achieve their goals. Through INVEST, USAID accesses the expertise it needs to evaluate and execute [blended finance](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) approaches. This supports USAID’s focus on enterprise-led development, unlocking the potential of the private sector to move countries beyond the need for assistance.
 
 INVEST was designed to directly address operational challenges that usually inhibit USAID from working alongside the investment community. It ensures rapid procurement—within four to six weeks—so USAID can act within investors’ short timelines. It enables flexible, specialized project design and implementation. It provides access to partners with localized expertise in investment and development. And, it focuses on learning and adaptation to drive innovation in blended finance.
 
