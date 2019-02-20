@@ -17,6 +17,8 @@ country: Worldwide
 promos:
 - title: Latest INVEST report
   link: https://dai0.sharepoint.com/Projects/ProjectDocuments/Invest%20Document%20Set/INVEST%20Quarterly%20Report_FY2Q1_Jan2019%20(External).pdf
+- title: INVEST 2018 Annual Report
+  link: "/uploads/INVEST%20Annual%20Report%20-%202018%20-%20DEC.pdf"
 ---
 
 INVEST is a flexible, [efficient](https://www.devex.com/news/opinion-5-hacks-for-a-better-request-for-proposals-process-94249) buy-in mechanism that helps the U.S. Agency for International Development (USAID) operating units mobilize private capital. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an opportunity for USAID, but it requires [new forms of collaboration](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) with the private sector.
