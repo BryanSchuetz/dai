@@ -14,6 +14,9 @@ solutions:
 - Economic Growth
 regions: Worldwide
 country: Worldwide
+promos:
+- title: Latest INVEST report
+  link: https://dai0.sharepoint.com/Projects/ProjectDocuments/Invest%20Document%20Set/INVEST%20Quarterly%20Report_FY2Q1_Jan2019%20(External).pdf
 ---
 
 INVEST is a flexible, efficient buy-in mechanism that helps the U.S. Agency for International Development (USAID) operating units mobilize private capital to achieve their goals. Through INVEST, USAID accesses the expertise it needs to evaluate and execute [blended finance](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/) approaches. This supports USAID’s focus on enterprise-led development, unlocking the potential of the private sector to move countries beyond the need for assistance.
