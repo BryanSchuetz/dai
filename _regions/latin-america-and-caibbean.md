@@ -5,8 +5,8 @@ summary: Since 1975, clients such as the U.S. Agency for International Developme
   Inter-American Development Bank, World Bank, and government of Mexico have called
   on DAI to support sustainable economic growth, environmentally responsible agricultural
   development, and democratic processes in Latin America and the Caribbean.
-layout: node
 hero: true
+layout: node
 ---
 
 In El Salvador:
@@ -14,7 +14,7 @@ In El Salvador:
 * We are working to build the job skills and employability of 20,000 at-risk youth from communities impacted by crime and violence, and connecting them with employment opportunities in the country’s highest growth economic sectors.
 
 In Guatemala:
-* We are building the capacity of 30 municipal governments in the Western Highlands region to address local challenges in crime and violence prevention, climate change adaptation, and food security.
+* We are building the capacity of 44 municipal governments in the Western Highlands region to address local challenges in government transparency and citizen participation, climate change adaptation, and food security.
 * We are supporting the national government to collect and spend revenue with greater efficiency, effectiveness, and accountability, ultimately increasing its ability to invest in public services and improve outcomes for citizens in health, education, and economic growth.
 
 In Honduras:
