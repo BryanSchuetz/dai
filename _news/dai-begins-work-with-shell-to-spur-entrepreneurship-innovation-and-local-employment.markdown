@@ -16,7 +16,7 @@ DAI’s Sustainable Business Group has been awarded the [Shell LiveWIRE](https:/
 
 DAI will help Shell strengthen the program in the 18 countries where LiveWIRE currently operates by developing training programs for early-stage entrepreneurs and identifying opportunities for successful small and medium-sized enterprises to connect with Shell’s local value chain and relevant local markets.
 
-![shell Brazil_6.jpg](/uploads/shell%20Brazil_6.jpg)`Shell LiveWIRE in Brazil. Photo: Shell.`
+![shell Brazil_6.jpg](/uploads/shell%20Brazil_6.jpg)`Shell LiveWIRE entrepreneur-graduates in Brazil. Photo: Shell.`
 
 In addition, DAI will work with the [LiveWIRE](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy) team to expand the program’s reach, by designing programs for new LiveWIRE countries, for example, and providing strategic communications support to the LiveWIRE global team and country offices.
 
