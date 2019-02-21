@@ -9,8 +9,8 @@ summary: "Eyitayo Akanfe is a financial management expert with 10 years of profe
   review and evaluation. In his current role for DAI in Nigeria, Eitayo designs and
   implements financial management systems and performs financial, operational, and
   compliance audits for projects and for DAI’s operation in Nigeria. He also provides
-  advisory services and training. \n\n•\tBachelor’s degree, agriculture, University
-  of Ilorin\n•\tMember, Association of Chartered Certified Accountants\n"
+  advisory services and training. \n\n* Bachelor’s degree, agriculture, University
+  of Ilorin\n* Member, Association of Chartered Certified Accountants\n"
 image: "/uploads/Eyitayo.jpg"
 group: Nigeria
 ---
