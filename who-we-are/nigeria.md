@@ -23,7 +23,7 @@ layout: node
   </div>
   <div class="country-people--block last">
     <div class="countryRep">
-    <img src="/uploads/nigeria-judith.jpg" alt="Judith Ogedegbe">
+    <img src="/uploads/Judith%20Ogedegbe.jpg" alt="Judith Ogedegbe">
     <p class="name"><strong><a href="/who-we-are/our-team/judith-ogedegbe">Judith Ogedegbe, Executive Director</a></strong></p>
     </div>   
   </div>
