@@ -1,7 +1,7 @@
 ---
 title: DAI Begins Work with Shell to Spur Entrepreneurship, Innovation, and Local
   Employment
-date: 2019-02-21 21:14:00 Z
+date: 2019-02-21 16:21:00 Z
 solutions:
 - Sustainable Business
 projects: Worldwide—Shell LiveWIRE Global Consultancy
