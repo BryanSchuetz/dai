@@ -1,11 +1,11 @@
 ---
 title: The DAI Board
 permalink: "/who-we-are/leadership/board.html"
-layout: node
 related: false
+layout: node
 ---
 
-Our Board—comprising internal and external directors—ensures that DAI is serving the interests of its employee owners and fulfilling its mission to make a difference in the world. 
+Our Board ensures that DAI is serving the interests of its employee owners and fulfilling its mission to make a difference in the world. 
 
 <hr>
 {% assign members = site.members | sort: 'sort-order' %}
