@@ -1,9 +1,7 @@
 ---
-title: Sadiat Giwa-Osagi
-group: Nigeria
-image: "/uploads/sadiat-giwa-osagi.jpg"
+title: Sadiat Giwa-Osagie
 job-title: Manager, Human Resources
-email: sadiat_giwa-osagi@dai.com
+email: sadiat_giwa-osagie@dai.com
 summary: |
   Sadiat Giwa-Osagie is in charge of Human Resources for DAI in Nigeria. With
   an HR career spanning 10 years with consulting and development companies, she is
@@ -17,6 +15,8 @@ summary: |
 
   * Associate, Nigerian Chartered Institute of Personnel Management
   * Certified Professional in Human Resources Management, HR Certificate Institute
+image: "/uploads/sadiat-giwa-osagi.jpg"
+group: Nigeria
 sort-order: 3
 ---
 
