@@ -55,7 +55,7 @@ var keywords = getUrlParameter('keywords');
   apiKey: '2eb09d538a98a073da44848ed195c79d',
   indexName: 'resource-library',
   searchParameters: {
-    attributesToSnippet: ["docTitle", "docSummary:60", "organization", "solutions", "docType", "source", "year"],
+    attributesToSnippet: ["docSummary:60", "organization", "solutions", "docType", "source", "year"],
      facetingAfterDistinct: true,
      query: keywords,
      snippetEllipsisText: '[&hellip;]'
@@ -79,7 +79,7 @@ search.addWidget(
     //  },
       templates: {
         empty: 'No results',
-        item: '<a class="alg-link" href="https://assetify-dai.com/resource-library/{{docFilename}}"><h3 class="alg-title">{{{_highlightResult.docTitle.value}}}</h3></a><p style="font-size: .8rem; margin-bottom: .1rem;">{{#year}}{{year}} | {{/year}}<strong>{{organization}}</strong>{{#source}} | {{source}} {{/source}}</p><img class="docThumbnail" style="width: 15%; margin-top: .5rem; margin-bottom: 0px; float: left; margin-right: 1rem;" src="https://assetify-dai.com/resource-library/thumbnail/{{docThumbnail}}"/><span class="alg-text">{{#docSummary}}{{{_snippetResult.docSummary.value}}}{{/docSummary}}{{^docSummary}}{{{_snippetResult.summary.value}}}{{/docSummary}}</span><br><hr>'
+        item: '<a class="alg-link" href="https://assetify-dai.com/resource-library/{{docFilename}}"><h3 class="alg-title">{{{docTitle}}}</h3></a><p style="font-size: .8rem; margin-bottom: .1rem;">{{#year}}{{year}} | {{/year}}<strong>{{organization}}</strong>{{#source}} | {{source}} {{/source}}</p><img class="docThumbnail" style="width: 15%; margin-top: .5rem; margin-bottom: 0px; float: left; margin-right: 1rem;" src="https://assetify-dai.com/resource-library/thumbnail/{{docThumbnail}}"/><span class="alg-text">{{#docSummary}}{{{_snippetResult.docSummary.value}}}{{/docSummary}}{{^docSummary}}{{{_snippetResult.summary.value}}}{{/docSummary}}</span><br><hr>'
           }
         })
       );
