@@ -16,7 +16,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 
 <!--more-->
 
-{% assign contacts = site.contacts | where: 'group', 'Nigeria' | sort: 'sort-order' %}
+{% assign contacts = site.contacts | where: 'group', 'Nigeria' | sort: 'title' %}
 {% for contact in contacts %}
 <div class="contact">
   <h2>{{ contact.title }}</h2><p>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
