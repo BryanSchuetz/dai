@@ -5,6 +5,11 @@ date: 2019-02-21 21:14:00 Z
 solutions:
 - Sustainable Business
 projects: Worldwide—Shell LiveWIRE Global Consultancy
+summary: 'DAI will serve as Shell''s global advisor on the strategy and implementation
+  of LiveWIRE, its flagship enterprise development program focused on stimulating
+  entrepreneurship, driving innovation, and generating meaningful employment in host
+  countries. '
+social-image: "/uploads/shell%20Brazil_social.jpg"
 ---
 
 DAI’s Sustainable Business Group has been awarded the [Shell LiveWIRE](https://www.livewire.shell/) Global Consultancy. In this three-year corporate social investment project, DAI will serve as Shell's global advisor on the strategy and implementation of LiveWIRE, its flagship enterprise development program focused on stimulating entrepreneurship, driving innovation, and generating meaningful employment in host countries. 
