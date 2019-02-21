@@ -20,7 +20,7 @@ DAI will help Shell strengthen the program in the 18 countries where LiveWIRE cu
 
 In addition, DAI will work with the [LiveWIRE](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy) team to expand the program’s reach, by designing programs for new LiveWIRE countries, for example, and providing strategic communications support to the LiveWIRE global team and country offices.
 
-“We are excited and humbled at the prospect of advising the LiveWIRE program,” said Kyle Gunther, who will serve as DAI’s executive director on the Shell LiveWIRE project. “We look forwarding to building on the thousands of successes LiveWIRE has enabled since its inception in the early 1980s.”
+“We are excited and humbled at the prospect of advising the LiveWIRE program,” said Kyle Gunther, who will serve as DAI’s executive director on the Shell LiveWIRE project. “We look forward to building on the thousands of successes LiveWIRE has enabled since its inception in the early 1980s.”
 
 “This partnership with Shell LiveWIRE is a testament to our long history in youth entrepreneurship, digital innovation, and enterprise development, as well as our deep expertise in helping companies optimize local content,” said [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Vice President of the Sustainable Business Group. “We’re thrilled to join with Shell in its work to support entrepreneurs in sustainable, innovative ways.”
 
