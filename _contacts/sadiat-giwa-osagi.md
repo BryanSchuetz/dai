@@ -15,7 +15,7 @@ summary: |
 
   * Associate, Nigerian Chartered Institute of Personnel Management
   * Certified Professional in Human Resources Management, HR Certificate Institute
-image: "/uploads/sadiat-giwa-osagi.jpg"
+image: "/uploads/sadiat-bd6ef1.jpg"
 group: Nigeria
 sort-order: 3
 ---
