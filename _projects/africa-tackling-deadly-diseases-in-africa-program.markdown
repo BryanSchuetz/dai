@@ -1,5 +1,5 @@
 ---
-title: Africa—Tackling Deadly Diseases in Africa Program
+title: Africa—Tackling Deadly Diseases in Africa Program (TDDAP)
 date: 2019-01-23 15:27:00 Z
 published: false
 summary: The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives
