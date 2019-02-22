@@ -30,10 +30,9 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 
 ### Sample Activities
 
-* Support creation of an Access to Finance Window for micro, small, and medium-sized enterprises.
-* Support creation of structured dialogue and sustainable EUBG to promote sustainable investments in partner countries.
-* Design an Investment Climate Reform diagnostic reform toolkit.
-* Design and implement online training modules on the EIP in Practice.
-* Knowledge management through development of TPSD and EIP Groups on the EU’s Capacity4Dev platform to showcase and disseminate new materials for the EU Headquarters and Delegations, including toolkits, lessons learned, case studies, and other relevant content.
-* Organise, conduct, and publicise regional seminars and training events on TPSD-related issues for EU Delegations in sub-Saharan Africa.
-* Write articles and blog posts; manage TPSD-related online content; and produce and disseminate multi-media products as part of communications strategy to share TPSD’s mission and showcase best practices.
+* Design and support the implementation of a Private Sector Action Plan for DEVCO.
+* Mobilize and manage short-term technical expertise for in-country assignments leading to improved investment climate and increased investment in Africa. 
+* Develop and facilitate training sessions for EU staff on investment climate, supporting micro and small enterprises, private sector and trade or the External Investment Plan.
+* Design a business environment reform diagnostic toolkit.
+* Produce online training modules on the External Investment Plan.
+* Showcase EU projects and explain the External Investment Plan to a wider audience.
