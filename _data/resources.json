@@ -193,7 +193,7 @@
         "Technical Brief"
       ],
       "solutions": [
-        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening", "Disease Control Elimination & Eradication"
+        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"
       ],
       "docFilename": "pandr-one-health-interventions.pdf",
       "docThumbnail": "pandr-one-health-interventions_page1.jpeg",
@@ -241,8 +241,9 @@
         "Technical Brief"
       ],
       "solutions": [
-        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening", "Disease Control Elimination & Eradication"
+        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening",
       ],
+      "technicalTerms": ["Disease Control Elimination & Eradication"],
       "docFilename": "pandr-gender.pdf",
       "docThumbnail": "pandr-gender_page1.jpeg",
       "year": 2018
@@ -292,10 +293,105 @@
         "Health Systems Strengthening", "Global Health Security and Pandemic Preparedness"
       ],
       "technicalTerms": [
-        "Disease Control Elimination & Eradication "
+        "Disease Control Elimination & Eradication"
       ],
       "docFilename": "hpi-cpacity-to-fight-malaria.pdf",
       "docThumbnail": "hpi-cpacity-to-fight-malaria_page1.jpeg",
       "year": 2016
+    },
+    {
+      "docTitle": "How a Communication Intervention in Zambia Re-Oriented Health Services to the Needs of the Least-Supported",
+      "docSummary": "Despite decades of training health workers in communication, complaints from clients and communities about poor health worker attitudes abound. This was found to be so in Zambia where the More Mobilizing Access to Maternal Health Services in Zambia (MORE MAMaZ) program was trying to ensure the inclusion of under-supported women in a community-based maternal and newborn health program in five intervention districts. Under-supported women suffer a disproportionate burden of child mortality and are poor users of health services. An exploratory small-scale qualitative survey involving nurses from training schools and health facilities found that nurses knew how to communicate well, but were selective with whom and in what circumstances they did this.",
+      "organization": "Health Partners International",
+      "docType": [
+        "Journal Article"
+      ],
+      "source": "Healthcare",
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"
+      ],
+      "technicalTerms": [
+        "Community health systems and gender", "Disease Control Elimination & Eradication ", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+      ],
+      "docFilename": "hpi-how-a-communication-intervention-in-zambia-re-orientated-health-services-to-the-needs-of-the-least-supported.pdf",
+      "docThumbnail": "hpi-how-a-communication-intervention-in-zambia-re-orientated-health-services-to-the-needs-of-the-least-supported_page1.jpeg",
+      "year": 2018
+    },
+    {
+      "docTitle": "Building the ‘enabling environment’ via a multi-sector nutrition platform to scale up micronutrient supplementation",
+      "docSummary": "This article examines a multi-sectoral approach used by HPI to implement the ZIFAS project to scale up micronutrient supplementation in northern Nigeria. ZIFAS began as a collaboration between the Micronutrient Initiative and the Partnership for Reviving Routine Immunisation in Northern Nigeria/Maternal Newborn Child Health (PRRINN/MNCH). ZIFAS built on the platform of PRRINN/MNCH, supporting efforts in women’s empowerment, governance and health system strengthening and working in the same states, to develop and implement integrated strategies to improve quality and use of Zinc, low-osmolality oral rehydration salts (Lo-ORS) for diarrhoea in children and low dose and iron and folic acid supplements for pregnant women. An innovative policy framework coupled with demand and supply side interventions was introduced to scale up coverage and use of Zinc/Lo-ORS and IFAS. As well as managing the ZIFAS programme, HPI also enhanced the enabling environment for nutrition action through improving service delivery systems, governance and community engagement in health and financing. By adopting a health system strengthening approach and building on initiatives implemented by PRRINN/MNCH, ZIFAS was able to promote the long-term sustainable supply of essential commodities in the public health system. ZIFAS used an innovative integrated extensive community-engagement approach which facilitated a significant scale up of nutrition interventions.",
+      "organization": "Health Partners International",
+      "docType": [
+        "Journal Article"
+      ],
+      "source": "Field Exchange"
+      "solutions": [
+        "Health Systems Strengthening"
+      ],
+      "technicalTerms": [
+        "Leadership and governance", "Health service delivery", "Community health systems and gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+      ],
+      "docFilename": "hpi-building-the-enabling-environment.pdf",
+      "docThumbnail": "hpi-building-the-enabling-environment_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Community Engagement, Routine Immunization, and the Polio Legacy in Northern Nigeria",
+      "docSummary": "Northern Nigeria has a history of low use of health services, resistance to immunization programs, and high maternal and child mortality rates. Cultural, physical, and financial barriers prevent many families from accessing health care. The Partnership for Reviving Routine Immunization in Northern Nigeria; Maternal, Newborn, and Child Health Initiative (PRRINN-MNCH) was a project funded by the UK Department of International Development and the Norwegian government that used an integrated approach to strengthen health services and increase community demand for and access to quality health care. The project’s community engagement approach aimed to empower communities, work with volunteers, and develop solutions to overcome barriers to health. Simultaneously, PRRINN-MNCH was building primary health care systems, including immunization, and strengthening governance to increase the availability and quality of services. Baseline and endline population-based random household surveys conducted in 2009 and 2013 showed improved community knowledge, increased use of antenatal care and immunization services, and a decrease in maternal, infant, and under-5 mortality.",
+      "organization": "Health Partners International" ,
+      "docType": [
+        "Journal Article"
+      ],
+      "source": "Global Health Communication",
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness"
+      ],
+      "technicalTerms": [
+        "Disease Control Elimination & Eradication"
+      ],
+      "docFilename": "hpi-community-engagement-nigeria.pdf",
+      "docThumbnail": "hpi-community-engagement-nigeria_page1.jpeg",
+      "year": 2016
+    },
+              {
+      "docTitle": "Creating the Foundation for Health Systems Resilience in Northern Nigeria",
+      "docSummary": "The experience of a donor-supported Reproductive, Maternal, Newborn, and Child Health (RMNCH) program in four states of Northern Nigeria illustrates how a Complex Adaptive System (CAS) approach to health system strengthening can lead to health systems becoming more resilient. The programme worked with the array of political, cultural and social determinants which interact to shape the health system and its functionality. It worked in an environment marked by weak governance with little public accountability and by very limited management capability in inadequately regulated markets. To these conditions of fragility was added the shock from the rapidly deteriorating security situation caused from 2011 by the Boko Haram insurgency and the government’s ensuing response. A CAS theory of change provided the basis for the multi-faceted approach that identified critical points of leverage among institutions in social as well as professional systems and helped achieve significant improvements in health service delivery in the RMNCH continuum of care. It also established the foundation for Primary Health Care Under One Roof (PHCUOR), which has emerged as a central national strategy in Nigeria for strengthening health sector governance and services under the 2014 Health Act.",
+      "organization": "Health Partners International",
+      "docType": [
+        "Journal Article"
+      ],
+      "solutions": [
+        "Health Systems Strengthening"
+      ],
+      "technicalTerms": [
+        "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition", "Leadership and governance"
+      ],
+      "docFilename": "hpi-foundation-health-system-nigeria.pdf",
+      "docThumbnail": "hpi-foundation-health-system-nigeria_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Implications of the SURE-P MCH National Village Health Worker Experience in Northern Nigeria for the Road Map for Village Health Workers in Nigeria",
+      "docSummary": "This study examines how Nigeria’s Subsidy Reinvestment and Empowerment Program on Maternal and Child Health (SURE-P MCH) Village Health Worker (VHW) programme provides a model for the Nigerian Road Map for VHWs. Community Health Workers (CHWs) can facilitate access to primary health care services among isolated rural communities. The study used pre-post with comparison model design, comparing two successive VHW cohorts recruited in 2013  and in 2014 in Jigawa, Katsina and Zamfara states. The study collected performance statistics and conducted interviews with the VHWs, and focus group discussions with the VHWs, their CHEW mentors, the in-charges at the facilities, and the village health/ward development committees overseeing the recruitment and support of the VHWs. Significant differences between the 2013 and 2014 cohort were assessed using bi-variate statistics. All VHWs were female. VHWs worked 20.8 hours/week, and averaged 34.3 home visits/month. Results show that after their training, 90% were comfortable with their primary tasks of encouraging antenatal care (ANC) visits and teaching about a healthy pregnancy.",
+      "organization": "Health Partners International",
+      "docType": ["Journal Article"],
+      "source": "Journal of Community Medicine & Health Education",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Community Health Systems and Gender",
+        "Health Service Delivery", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"],
+      "docFilename": "hpi-sure-implications.pdf",
+      "docThumbnail": "hpi-sure-implications_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "How to Establish a Foundation Year Programme",
+      "docSummary": "The experience of a donor-supported Reproductive, Maternal, Newborn, and Child Health (RMNCH) program in four states of Northern Nigeria illustrates how a Complex Adaptive System (CAS) approach to health system strengthening can lead to health systems becoming more resilient. The programme worked with the array of political, cultural and social determinants which interact to shape the health system and its functionality. It worked in an environment marked by weak governance with little public accountability and by very limited management capability in inadequately regulated markets. To these conditions of fragility was added the shock from the rapidly deteriorating security situation caused from 2011 by the Boko Haram insurgency and the government’s ensuing response. A CAS theory of change provided the basis for the multi-faceted approach that identified critical points of leverage among institutions in social as well as professional systems and helped achieve significant improvements in health service delivery in the RMNCH continuum of care. It also established the foundation for Primary Health Care Under One Roof (PHCUOR), which has emerged as a central national strategy in Nigeria for strengthening health sector governance and services under the 2014 Health Act.",
+      "organization": "Health Partners International",
+      "docType": ["Guides"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Education for Women in Health", "Human resources for health", "Community health systems and gender"],
+      "docFilename": "hpi-establish-a-foundation-year-program.pdf",
+      "docThumbnail": "hpi-establish-a-foundation-year-program_page1.jpeg",
+      "year": 2018
     }
 ]
