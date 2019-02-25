@@ -4,8 +4,8 @@ date: 2018-09-26 18:12:00 Z
 lastname: Quintela
 summary: 'Angie Quintela is an education and governance specialist with a cross-cutting
   focus on gender and inclusion, and is a founding member of DAI’s education practice. '
-job-title: Development Practitioner
-image: "/uploads/Angie%20Quintela%20Portal.jpg"
+job-title: 'Development Practitioner, Education and Governance '
+image: "/uploads/Angie%20Quintela%20copy.png"
 solutions:
 - Governance
 - Gender and Social Inclusion

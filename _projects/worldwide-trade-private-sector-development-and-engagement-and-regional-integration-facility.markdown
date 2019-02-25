@@ -26,7 +26,7 @@ The Trade, Private Sector Development, and Engagement (TPSD/E) facility was esta
 
 With the TPSD Facility, DAI provides technical expertise to EU staff working on private sector and trade in Brussels and worldwide, creates and shares knowledge inside the institution, and supports the visibility of the European Commissions’ Directorate General for International Development Cooperation (DEVCO). 
 
-<iframe src="https://player.vimeo.com/video/273339228" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/319475541" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -36,3 +36,14 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 * Design a business environment reform diagnostic toolkit.
 * Produce online training modules on the External Investment Plan.
 * Showcase EU projects and explain the External Investment Plan to a wider audience.
+
+### Select Results
+
+* Organised in-country [short-term assignments](http://ec.europa.eu/europeaid/files/tpsd-infographic/) for EU Delegations on the investment climate and the identification of potential investment opportunities.
+* Conducted a survey of the state of the structured dialogue with the private sector in Sub-Saharan Africa.
+* Designed Business Environment Reform Guidelines for EU staff.
+* Provide regular training of EU staff on private sector and trade and the External Investment Plan through classroom, remote, or recorded training sessions.
+* Developed the EIP in Practice e-learning modules
+* Produced “EIP Stories” short videos. Watch sample below: 
+
+<iframe src="https://player.vimeo.com/video/273339228" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -15,15 +15,15 @@ regions:
 country:
 - Ethiopia
 promos:
-- title: "**Fast Facts**:_ Ethiopia LIFT_"
+- title: "**Fast Facts**: Ethiopia LIFT"
   link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618.pdf"
-- title: "**Brief**:_ Formalising Land Rental Transactions_"
+- title: "**Brief**: Formalising Land Rental Transactions"
   link: "/uploads/Ethiopia_LIFT_Land_Rental.pdf"
-- title: "**Brief**:_ Promoting Financial Inclusion_"
+- title: "**Brief**: Promoting Financial Inclusion"
   link: "/uploads/Ethiopia_LIFT_Financial_Inclusion.pdf"
 - title: |-
-    **Brief**:_ Enabling Access to Clean Agricultural
-    Inputs and Technologies_
+    **Brief**:  Enabling Access to Clean Agricultural
+    Inputs and Technologies
   link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
 layout: project
 ---
