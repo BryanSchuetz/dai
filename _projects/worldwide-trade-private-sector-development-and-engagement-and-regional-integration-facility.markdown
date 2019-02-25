@@ -31,10 +31,10 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 ### Sample Activities
 
 * Design and support the implementation of a Private Sector Action Plan for DEVCO.
-* Mobilize and manage short-term technical expertise for in-country assignments leading to improved investment climate and increased investment in Africa. 
-* Develop and facilitate training sessions for EU staff on investment climate, supporting micro and small enterprises, private sector and trade or the External Investment Plan.
+* Mobilize and manage short-term technical expertise for in-country assignments. 
+* Build the capacity of EU staff on investment climate, supporting micro and small enterprises, private sector and trade or the External Investment Plan.
 * Design a business environment reform diagnostic toolkit.
-* Produce online training modules on the External Investment Plan.
+* Deliver technical expertise to DEVCO on private sector development and engagement, using DAI’s in-house global expertise.
 * Showcase EU projects and explain the External Investment Plan to a wider audience.
 
 ### Select Results
@@ -42,8 +42,6 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 * Organised in-country [short-term assignments](http://ec.europa.eu/europeaid/files/tpsd-infographic/) for EU Delegations on the investment climate and the identification of potential investment opportunities.
 * Conducted a survey of the state of the structured dialogue with the private sector in Sub-Saharan Africa.
 * Designed Business Environment Reform Guidelines for EU staff.
-* Provide regular training of EU staff on private sector and trade and the External Investment Plan through classroom, remote, or recorded training sessions.
+* Provide regular training on private sector and trade and the External Investment Plan through classroom, remote, or recorded training sessions.
 * Developed the EIP in Practice e-learning modules
-* Produced “EIP Stories” short videos. Watch sample below: 
-
-<iframe src="https://player.vimeo.com/video/273339228" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+* Produced “EIP Stories” short videos. 
