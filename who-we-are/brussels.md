@@ -26,7 +26,7 @@ The [Technical and Advisory Services for Social Transfers for Food Security and 
 
 ## Framework Contracts 
 
-DAI has a [long history](https://dai-global-developments.com/articles/new-generation-of-ec-framework-contracts-offers-agile-programming-for-european-development-aid/) of supporting the EC’s framework contracts, with the first contract dating back more than 20 years. DAI Brussels is currently leading the COM 2015 lot 1 (Evaluation) and is present on all six lots of the SIEA Framework contracts (2018 to 2022), leading on lots 1 (Sustainable Management of Natural Resources and Resilience) and 3 (Human Rights, Democracy and Peace) and partnering with renown consulting firms on the other four lots. 
+DAI has a [long history](https://dai-global-developments.com/articles/new-generation-of-ec-framework-contracts-offers-agile-programming-for-european-development-aid/) of supporting the EC’s framework contracts, with the first contract dating back more than 20 years. DAI Brussels is currently leading the COM 2015 lot 1 (Evaluation) and is present on all six lots of the SIEA Framework contracts (2018 to 2022), leading on lots 1 (Sustainable Management of Natural Resources and Resilience) and 3 (Human Rights, Democracy. and Peace) and partnering with renown consulting firms on the other four lots. 
 
 DAI Brussels was officially registered as a separate Belgian legal entity in July 2016. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Association and a partner of ECDPM.
 
