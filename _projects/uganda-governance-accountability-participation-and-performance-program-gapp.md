@@ -22,7 +22,7 @@ Funded by the U.S. Agency for International Development and the U.K. Department 
 
 Under a subcontract to RTI International, DAI helps to strengthen processes and policies for local governance accountability and conducts national-level advocacy for improved local governance financing, participation, and service delivery.
 
-![GAPP_image.jpg](/uploads/GAPP_image.jpg)
+![gapp-6.jpg](/uploads/gapp-6.jpg)
 
 ### Sample Activities
 
