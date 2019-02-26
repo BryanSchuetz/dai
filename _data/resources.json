@@ -241,7 +241,7 @@
         "Technical Brief"
       ],
       "solutions": [
-        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening",
+        "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"
       ],
       "technicalTerms": ["Disease Control Elimination & Eradication"],
       "docFilename": "pandr-gender.pdf",
@@ -324,7 +324,7 @@
       "docType": [
         "Journal Article"
       ],
-      "source": "Field Exchange"
+      "source": "Field Exchange",
       "solutions": [
         "Health Systems Strengthening"
       ],
@@ -415,7 +415,7 @@
       "solutions": ["Global Health Security and Pandemic Preparedness"],
       "technicalTerms": ["Education for Women in Health", "Leadership and Governance", "Health Service Delivery"],
       "docFilename": "hpi-supporting-health-training-institutions.pdf",
-      "docThumbnail": "hpi-supporting-health-training-institutio7s_page1.jpeg",
+      "docThumbnail": "hpi-supporting-health-training-institutions_page1.jpeg",
       "year": 2018
     },
     {
@@ -476,6 +476,42 @@
       "technicalTerms": [],
       "docFilename": "hpi-planning-and-management-health-services.pdf",
       "docThumbnail": "hpi-planning-and-management-health-services_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Programme Results: MORE MAMaZ",
+      "docSummary": "Presented at the End of Programme Dissemination event in Zambia on 8th September 2016. This infographic presents a summary of programme results. MORE Mobilising Access to Maternal Health in Zambia (MORE MAMaZ) was funded by Comic Relief. The programme was implemented by Transaid, Health Partners International, Development Data and Disacare in partnership with the Ministry of Community Development, Mother and Child Health and District Community Health Teams.",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Service Delivery", "Community Health Systems and Gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"],
+      "docFilename": "hpi-mamaz-programe-results.pdf",
+      "docThumbnail": "hpi-mamaz-programe-results_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Promoting Positive Social Norms in Support for Zero Tolerance for Gender-Based Violence in Rural Zambia",
+      "docSummary": "The More Mobilising Access to Maternal Services in Zambia (MORE MAMaZ) poster draws on the programme’s response to Gender-Based Violence (GBV) which integrated focus on GBV into a broad-based demand-side maternal and newborn health interventions. The approach used: Community discussion groups Focus on peer education Use of song Training of health providers Emphasis on community-wide responsibility for GBV This e -poster was presented at the 2016 Global Symposium on Health Systems Research in Vancouver, the focus of the symposium was resilient and responsive health systems for a changing world. The symposium runs every two years and brings together researchers, policy-makers, funders, implementers, civil society and other stakeholders from relevant national and regional associations and professional networks",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Service Delivery", "Community Health Systems and Gender","Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"],
+      "docFilename": "hpi-promoting-positive-social-norms.pdf",
+      "docThumbnail": "hpi-promoting-positive-social-nors_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Results Based Financing and Universal Health Coverage: Evidence from Northern Uganda",
+      "docSummary": "This Results Based Financing and Universal Health Coverage poster draws on the experience of implementing a controlled trial in northern Uganda designed to assess the costs and benefits of RBF versus conventional input based financing. NU Health generated rich, multi-dimensional data related to innovative practice in health systems development. In particular, there were significant improvements in a range of key indicators in the RBF facilities relative to the IBF facilities. Overall, in RBF versus IBF, a child was: Three times more likely to be treated correctly for malaria Over six times more likely to be treated correctly for pneumonia Over eight times more likely to be treated correctly for diarrhoea The main effect in terms of quality of care was differentiated by level of institution. The strongest improvements were observed in lower level facilities. Indicators related to both utilisation and supply of essential medicines similarly showed the most improvement in the lower level facilities in the RBF arm relative to the IBF arm. ",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Disease Control Elimination & Eradication"],
+      "docFilename": "hpi-results-based-financing.pdf",
+      "docThumbnail": "hpi-results-based-financing_page1.jpeg",
       "year": 2016
     }
 ]
