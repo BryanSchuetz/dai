@@ -311,7 +311,7 @@
         "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"
       ],
       "technicalTerms": [
-        "Community health systems and gender", "Disease Control Elimination & Eradication ", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+        "Community Health Systems and Gender", "Disease Control Elimination & Eradication ", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
       ],
       "docFilename": "hpi-how-a-communication-intervention-in-zambia-re-orientated-health-services-to-the-needs-of-the-least-supported.pdf",
       "docThumbnail": "hpi-how-a-communication-intervention-in-zambia-re-orientated-health-services-to-the-needs-of-the-least-supported_page1.jpeg",
@@ -329,7 +329,7 @@
         "Health Systems Strengthening"
       ],
       "technicalTerms": [
-        "Leadership and governance", "Health service delivery", "Community health systems and gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+        "Leadership and Governance", "Health Service Delivery", "Community Health Systems and Gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
       ],
       "docFilename": "hpi-building-the-enabling-environment.pdf",
       "docThumbnail": "hpi-building-the-enabling-environment_page1.jpeg",
@@ -364,7 +364,7 @@
         "Health Systems Strengthening"
       ],
       "technicalTerms": [
-        "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition", "Leadership and governance"
+        "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition", "Leadership and Governance"
       ],
       "docFilename": "hpi-foundation-health-system-nigeria.pdf",
       "docThumbnail": "hpi-foundation-health-system-nigeria_page1.jpeg",
@@ -389,9 +389,93 @@
       "organization": "Health Partners International",
       "docType": ["Guides"],
       "solutions": ["Health Systems Strengthening"],
-      "technicalTerms": ["Education for Women in Health", "Human resources for health", "Community health systems and gender"],
+      "technicalTerms": ["Education for Women in Health", "Human Resources for Health", "Community Health Systems and Gender"],
       "docFilename": "hpi-establish-a-foundation-year-program.pdf",
       "docThumbnail": "hpi-establish-a-foundation-year-program_page1.jpeg",
       "year": 2018
+    },
+    {
+      "docTitle": "How to Establish and Support the Training of Community Midwives",
+      "docSummary": "Since it began in 2012, the Women for Health (W4H) programme has successfully addressed many of the practical and strategic challenges associated with its goal of increasing the number of female health workers, especially midwives, in rural areas of northern Nigeria. By the end of March 2018, 6,257 women received training as health workers because of the programme. Many are developing careers as rural health workers in their local communities—where they can have the greatest impact on maternal, newborn, infant and child mortality and act as role models and champions.",
+      "organization": "Health Partners International",
+      "docType": ["Guides"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Education for Women in Health", "Leadership and Governance", "Health Service Delivery","Human Resources for Health"],
+      "docFilename": "hpi-training-community-midwives.pdf",
+      "docThumbnail": "hpi-training-community-midwives_page1.jpeg",
+      "year": 2018
+    },
+    {
+      "docTitle": "Supporting Health Training Institutions to Regain, Maintain and Upgrade Accreditation",
+      "docSummary": "This ‘How-To’ guide sets out an effective approach to supporting health training institutions through the process of gaining – or regaining –accreditation status for their health training programmes, and in establishing processes to ensure that accreditation is maintained. The guide also looks at how to help these institutions get funding for and carry out improvements in their physical infrastructure to meet accreditation requirements and provide suitable accommodation for female students. The W4H programme worked with some 20 health training institutions in five northern Nigerian states – as well as regulatory and state bodies, and a wide range of other important stakeholders. This guide translates the lessons learned from the programme into a series of practical, inter-connected steps to guide similar projects and government initiatives in comparably challenging locations. Its flexibility recognizes that states or countries are at different stages of development and should adapt the guide to its own needs.",
+      "organization": "Health Partners International",
+      "docType": ["Guides"],
+      "source": "",
+      "solutions": ["Global Health Security and Pandemic Preparedness"],
+      "technicalTerms": ["Education for Women in Health", "Leadership and Governance", "Health Service Delivery"],
+      "docFilename": "hpi-supporting-health-training-institutions.pdf",
+      "docThumbnail": "hpi-supporting-health-training-institutio7s_page1.jpeg",
+      "year": 2018
+    },
+    {
+      "docTitle": "Empowering Young Women from Rural Areas to Become Health Workers",
+      "docSummary": "This How-To guide is about the process of addressing barriers to the education and recruitment of young women from rural areas of Northern Nigeria and empowering them to enter training to become health workers. It translates the lessons learned from the programme into a series of practical, inter-connected steps to guide similar projects and government initiatives in comparably challenging locations. This guide is for anyone aiming to close a gender gap in service provision and empower women through the process, while also contributing to progress on the Sustainable Development Goals. It is suitable for project and programme staff, development partners and non-governmental organisations.",
+      "organization": "Health Partners International",
+      "docType": ["Guides"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Education for Women in Health", "Human Resources for Health", "Community Health Systems and Gender"],
+      "docFilename": "hpi-empowering-young-women-to-become-healthcare-workers.pdf",
+      "docThumbnail": "hpi-empowering-young-women-to-become-healthcare-workers_page1.jpeg",
+      "year": 2017
+    },
+    {
+      "docTitle": "Guidance on Procuring Ox Carts to Improve Maternal Health Access in Mongu, Zambia",
+      "docSummary": "The programme procured and deployed over a hundred Bicycle Ambulances (BAs) but in Mongu, deep sand and the frequency of flooding meant that ox carts were a more appropriate emergency transport solution. Eighteen ox carts were constructed by a local supplier and design was adapted to suit the vehicles purpose. These guidelines share tips for procurement and deployment for oxen and ox carts. MORE Mobilising Access to Maternal Health in Zambia (MORE MAMaZ) was funded by Comic Relief. The programme was implemented by Transaid, Health Partners International, Development Data and Disacare in partnership with the Ministry of Community Development, Mother and Child Health and District Community Health Teams. MORE MAMaZ was established to support the government’s efforts to improve maternal and newborn health access and outcomes.",
+      "organization": "Health Partners International",
+      "docType": ["Guides"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Community Health Systems and Gender", "Health Service Delivery"],
+      "docFilename": "hpi-guidance-ox-carts.pdf",
+      "docThumbnail": "hpi-guidance-ox-carts_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "The Women for Health Programme: A Sustainable Model",
+      "docSummary": "The Women for Health Theory of Change Tree infographic establishes how the strategies, and approaches of the Women for Health programme translate into improved outcomes and beneficial wider impacts. Rooted in sound strategies such as improved teacher training, gender management planning, advocacy to decision makers and legislators, midwife retention schemes and the Foundation Year Programme, the Women for Health programme establishes good governance and infrastructure. This feeds in to improved outcomes, such as increased training capacity for female health workers, improved quality of education, and transformation of the health training institutions.",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Education for Women in Health", "Health Service Delivery", "Human Resources for Health", "Community Health Systems and Gender"],
+      "docFilename": "hpi-w4h-model.jpg",
+      "docThumbnail": "hpi-w4h-model_page1.jpg",
+      "year": 2017
+    },
+    {
+      "docTitle": "Health Partners International in Zambia",
+      "docSummary": "This poster was presented at the Zambia UK Health Workforce Alliance (ZUKHWA) Autumn Conference. Health Partners International has been working in Zambia for over 15 years and we recently registered our wholly-owned subsidiary, Health Partners Zambia, in the country. This poster presents our partnership approach to working in Zambia on our recent Mobilising Access to Maternal Health Services in Zambia (MAMaZ) and MORE MAMaZ programmes.",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Community Health Systems and Gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"],
+      "docFilename": "hpi-in-zambia.pdf",
+      "docThumbnail": "hpi-in-zambia_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "PLAMAHS: Planning and Management of Assets in Health Services",
+      "docSummary": "HPI presented this poster at the Mechanical Bioengineering Conference under the Appropriate Healthcare Technologies for Low Resource Settings track, held by the Institution of Engineering and Technology. The AHT Conference brought together healthcare technologists, clinicians, researchers and public bodies from around the world to explore effective engineering solutions to meet the healthcare problems in low resource settings. PLAMAHS reports on a wide range of elements, making it an important tool for management, budgeting, planning and prioritising at any level. For example, the stage of a piece of medical equipment’s life cycle can be calculated, and reports on the condition of the running water, power and waste management can be generated to calculate the total ownership and maintenance.",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Digital Health Solutions", "Health Systems Strengthening"],
+      "technicalTerms": [],
+      "docFilename": "hpi-planning-and-management-health-services.pdf",
+      "docThumbnail": "hpi-planning-and-management-health-services_page1.jpeg",
+      "year": 2016
     }
 ]
