@@ -18,7 +18,7 @@ country:
 layout: project
 ---
 
-Funded by the U.S. Agency for International Development and the U.K. Department for International Development, GAPP works to improve the legal, policy, regulatory, and institutional environment in Uganda to enhance democratic governance and the engagement of citizens with their local governments.
+Funded by the U.S. Agency for International Development and the U.K. Department for International Development, GAPP works to improve the legal, policy, regulatory, and institutional environment in Uganda to [enhance democratic governance](https://dai-global-developments.com/articles/in-uganda-local-hearings-show-accountability-in-action/) and the engagement of citizens with their local governments.
 
 Under a subcontract to RTI International, DAI helps to strengthen processes and policies for local governance accountability and conducts national-level advocacy for improved local governance financing, participation, and service delivery.
 
