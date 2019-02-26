@@ -1,17 +1,16 @@
 ---
 title: Uganda—Governance, Accountability, Participation, and Performance Program (GAPP)
 date: 2016-01-21 22:40:00 Z
-summary: The Governance, Accountability, Participation, and Performance Program (GAPP)
-  works to improve the legal, policy, regulatory, and institutional environment in
-  Uganda to enhance democratic governance and the engagement of citizens with their
+summary: GAPP works to improve the legal, policy, regulatory, and institutional environment
+  in Uganda to enhance democratic governance and the engagement of citizens with their
   local governments.
-start: 2013
-end: 2020
+start: 2012
+end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Governance
 - Fragile States
-- Stabilization
+- 
 regions:
 - Sub-Saharan Africa
 country:
@@ -19,21 +18,23 @@ country:
 layout: project
 ---
 
-The Governance, Accountability, Participation, and Performance Program (GAPP), funded by the U.S. Agency for International Development (USAID), works to improve the legal, policy, regulatory, and institutional environment in Uganda to enhance democratic governance and the engagement of citizens with their local governments.
+Funded by the U.S. Agency for International Development and the U.K. Department for International Development, GAPP works to improve the legal, policy, regulatory, and institutional environment in Uganda to enhance democratic governance and the engagement of citizens with their local governments.
 
-Under a subcontract to RTI International, DAI helps to strengthen processes and policies for local governance accountability in addition to conducting national-level advocacy for improved local governance financing, participation, and service delivery.
+Under a subcontract to RTI International, DAI helps to strengthen processes and policies for local governance accountability and conducts national-level advocacy for improved local governance financing, participation, and service delivery.
 
 ![GAPP_image.jpg](/uploads/GAPP_image.jpg)
 
 ### Sample Activities
 
 * Provide technical assistance to parliamentary oversight committees and national-level auditing and procurement agencies to conduct outreach meetings with district governments.
-* Assist institutions to advocate for the improvement of local governments’ tax systems, budgeting, spending, and accounting.
-* Support the Uganda Local Government Association to champion local governance policy dialogue and reform.
+* Assist institutions to advocate for the improvement of local governments' revenue systems, budgeting, spending, and accounting.
+* Assist Parliament’s Public Accounts Committee to hold hearings across Uganda on audits of local government accounts.
 
 ### Select Results
 
-* Supported civil society organizations to successfully engage with lawmakers on health, education, and agriculture budget allocations, leading to 29 pro-poor and gender-sensitive budget proposals being adopted.
-* Facilitated a district council meeting that led to the creation of a Local Government Public Accounts Committee.
-* Provided training to the Public Procurement and Disposal of Assets Authority (PPDA) to audit local governments and advise on procurement processes, resulting in the number of local governments receiving a PPDA rating of “satisfactory” or “highly satisfactory” increasing from four to 23 within one year.
+* Trained the Public Procurement and Disposal of Public Assets Authority (PPDA) to audit local governments and advise on procurement processes, increasing from four to 23 the number of local governments receiving a PPDA rating of “satisfactory” or “highly satisfactory”  within one year.
 * Supported the validation of a local governance policy study report by the Minister of State for Local Governments and disseminated 600 copies of the report to national and local government stakeholders.
+* Worked with grantee Centre for Policy Analysis to draft and promote debate in Parliament on refugee and extractive industry policies.
+* Supported Uganda’s Office of the Auditor General to clear a backlog of local government account audits going back to 2013, and facilitated their review and approval by Parliament’s Public Accounts Committee.
+* Drafted a handbook and revised rules of procedure with Parliament’s Public Accounts Committee, resulting in greater efficiency and deeper expertise among MPs.
+* With the PPDA, enhanced institutional focus on gender and social inclusion in public procurement and audits.
