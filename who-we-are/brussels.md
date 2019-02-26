@@ -1,13 +1,11 @@
 ---
 title: Global Offices
 permalink: "/who-we-are/global-reach/brussels"
-summary: 'Since 1970, we have worked in more than 150 countries, from stable societies
-  and high-growtheconomies to challenging environments racked by political or military
+summary: Since 1970, we have worked in more than 150 countries, from stable societies
+  and high-growth economies to challenging environments racked by political or military
   conflict. At any one time we are likely to have active projects in 90 or more countries.
   This worldwide portfolio is supported from corporate offices in Belgium, Nigeria,
   the United Kingdom, and the United States.
-
-'
 hero: true
 layout: node
 ---
@@ -18,13 +16,19 @@ DAI has long had a project presence in the European capital and in 2016 we estab
 
 The team designs and implements a wide range of development solutions for European Union (EU) institutions in priority areas such as food security, resilience, private sector development and trade, energy and climate change, governance, and communications and knowledge management.
 
-Currently, the Brussels office oversees numerous projects, ranging from EC training and technical assistance to demand-driven advisory services. Since January 2017, DAI Brussels has been managing an EU-funded [Trade, Private Sector Development and Engagement, and Regional Integration Facility (TPSD)](/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). Through this programme, our Brussels-based team provides policy advice, knowledge management, and communications expertise to DEVCO C4.
+## Our Projects in EU Partner Countries
 
-DAI Brussels also provides management support on the [Technical Assistance Programme to Food Security Nutrition and Climate Resilience in the Dry Corridor (EUROSAN)](/our-work/projects/honduras-technical-assistance-food-security-nutrition-and-climate-resilience-dry) Honduras. The project is aiming to improve food and nutritional security of 15,000 rural families through the creation of sustainable agricultural systems, providing advice to safeguard against climate change, supporting nutritional education, and strengthening national and local institutions in the poorest regions of the country.
+DAI Brussels is supporting the implementation of the [EU Budget Support State-building Programme in the Gambia](https://www.dai.com/our-work/projects/the-gambia-state-building-contract-1-complementary-support-sbc1-cs), with a local team of experts working closely with government stakeholders through advice, coaching, and capacity building. Other projects include the [Technical Assistance to the Zimbabwe Agriculture Growth Programme](https://www.dai.com/our-work/projects/zimbabwe-technical-assistance-to-the-zimbabwe-agricultural-growth-programme-zagp) that is strengthening local institutions and building capacity across Zimbabwe’s livestock sector and the [Ethiopia Technical Assistance to Support GCCA\+/Mainstreaming Climate-Smart Approaches into the Productive Safety Net Programme](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) supporting the Ministry of Agriculture to mainstream climate-smart initiatives and produce evidence to promote dialogue on climate-sensitive programming and climate financing.
 
-The [Technical and Advisory Services for Social Transfers for Food Security and Nutrition (ASiST III) Programme](/our-work/projects/worldwide-technical-and-advisory-services-social-transfers-asist) also has a strong base in Brussels. Our Brussels Liaison Officer is working closely with DEVCO C1, serving as the coordination bridge to facilitate technical and thematic collaboration with relevant DEVCO Units and supporting knowledge management, communication, and activity coordination. Through this demand-driven service, DAI is helping the European Commission and the EU Delegations to increase the impact, quality, coverage, and sustainability of social transfer schemes that target food and nutrition security, resilience, and sustainable agriculture.
+## Demand-Driven Services, Global Facilities
 
-DAI Brussels was officially registered as a separate Belgian legal entity in July 2016. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Association and a partner of ECDPM. 
+The [Technical and Advisory Services for Social Transfers for Food Security and Nutrition (ASiST III) Programme](https://www.dai.com/our-work/projects/worldwide-technical-and-advisory-services-social-transfers-asist) and the [Trade, Private Sector Development, and Engagement (TPSD/E) Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility) have very strong bases in Brussels. Through these demand-driven services, DAI provides technical expertise, knowledge management, and communications expertise to thematic units in rural development, food security, and nutrition (DEVCO C1) and private sector and trade (DEVCO C4) and to EU Delegations worldwide. 
+
+## Framework Contracts 
+
+DAI has a [long history](https://dai-global-developments.com/articles/new-generation-of-ec-framework-contracts-offers-agile-programming-for-european-development-aid/) of supporting the EC’s framework contracts, with the first contract dating back more than 20 years. DAI Brussels is currently leading the COM 2015 lot 1 (Evaluation) and is present on all six lots of the SIEA Framework contracts (2018 to 2022), leading on lots 1 (Sustainable Management of Natural Resources and Resilience) and 3 (Human Rights, Democracy. and Peace) and partnering with renown consulting firms on the other four lots. 
+
+DAI Brussels was officially registered as a separate Belgian legal entity in July 2016. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Association and a partner of ECDPM.
 
 <a href="/who-we-are/global-reach/brussels/contacts/management" class="primary-block--button contacts-button">
 Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
