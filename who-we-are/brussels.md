@@ -1,7 +1,6 @@
 ---
 title: Global Offices
 permalink: "/who-we-are/global-reach/brussels"
-layout: node
 summary: 'Since 1970, we have worked in more than 150 countries, from stable societies
   and high-growtheconomies to challenging environments racked by political or military
   conflict. At any one time we are likely to have active projects in 90 or more countries.
@@ -10,11 +9,14 @@ summary: 'Since 1970, we have worked in more than 150 countries, from stable soc
 
 '
 hero: true
+layout: node
 ---
 
 # Brussels
 
-DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S. and U.K. operations.
+DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, technical support, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S. and U.K. operations.
+
+The team designs and implements a wide range of development solutions for European Union (EU) institutions in priority areas such as food security, resilience, private sector development and trade, energy and climate change, governance, and communications and knowledge management.
 
 Currently, the Brussels office oversees numerous projects, ranging from EC training and technical assistance to demand-driven advisory services. Since January 2017, DAI Brussels has been managing an EU-funded [Trade, Private Sector Development and Engagement, and Regional Integration Facility (TPSD)](/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). Through this programme, our Brussels-based team provides policy advice, knowledge management, and communications expertise to DEVCO C4.
 
@@ -22,9 +24,7 @@ DAI Brussels also provides management support on the [Technical Assistance Progr
 
 The [Technical and Advisory Services for Social Transfers for Food Security and Nutrition (ASiST III) Programme](/our-work/projects/worldwide-technical-and-advisory-services-social-transfers-asist) also has a strong base in Brussels. Our Brussels Liaison Officer is working closely with DEVCO C1, serving as the coordination bridge to facilitate technical and thematic collaboration with relevant DEVCO Units and supporting knowledge management, communication, and activity coordination. Through this demand-driven service, DAI is helping the European Commission and the EU Delegations to increase the impact, quality, coverage, and sustainability of social transfer schemes that target food and nutrition security, resilience, and sustainable agriculture.
 
-The Brussels office will be a key venue for engaging with the European and wider development community. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Associations.
-
-DAI Brussels was officially registered as a separate Belgian legal entity in July 2016.
+DAI Brussels was officially registered as a separate Belgian legal entity in July 2016. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Association and a partner of ECDPM. 
 
 <a href="/who-we-are/global-reach/brussels/contacts/management" class="primary-block--button contacts-button">
 Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
