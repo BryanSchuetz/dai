@@ -23,9 +23,9 @@ promos:
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.pdf
 - title: 2017 Annual Program Statement (Word File)
   link: https://assetify-dai.com/pdfs/sdgap-annual-program-statement.docx
-- title: Establishment of Parliament Media Center | RFP-COL-19-0008 & 0039
+- title: 'Establishment of Parliament Media Center : RFP-COL-19-0008 & 0039'
   link: "/uploads/RFP%20-Establishment%20of%20Parliament%20Media%20Center.pdf"
-- title: Establishment of Parliament Media Center | Cost Sheet
+- title: 'Establishment of Parliament Media Center : Cost Sheet'
   link: "/uploads/Final%20ToR_Specs%20for%20Tender%20with%20price%20shedule.xlsx"
 ---
 
