@@ -3,7 +3,7 @@ title: Kari Busman
 date: 2019-02-27 16:40:00 Z
 job-title: 'Senior Consultant '
 email: kari_busman@dai.com
-summary: As part of the Business Development unit, Kari Busman brings more than 10
+summary: As part of the Business Development Unit, Kari Busman brings more than 10
   years of experience in tendering and implementing EU-funded service contacts. Technical
   areas include trade, private sector development, business facilitation, budget support
   and climate change. She has implemented projects in Africa, Latin America, South-
@@ -14,6 +14,6 @@ summary: As part of the Business Development unit, Kari Busman brings more than 
   holds a bachelor’s degree in European studies and a masters degree in contemporary
   Chinese political science.
 image: "/uploads/Kari%20Busman.jpg"
-group: Programme Management
+group: Brussels Management
 ---
 
