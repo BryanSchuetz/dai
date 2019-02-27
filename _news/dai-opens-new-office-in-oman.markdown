@@ -3,6 +3,14 @@ title: DAI Opens New Office in Oman
 date: 2019-02-27 15:33:00 Z
 published: false
 is_featured: true
+solutions:
+- Sustainable Business
+regions: Middle East and North Africa
+summary: DAI today launched a new corporate office in Muscat, Oman. DAI Oman will
+  initially focus on DAI’s sustainable business practice, working with commercial
+  and government clients to ensure that their economic investments yield sustainable
+  and mutually beneficial “in-country value” by better incorporating local content,
+  local labor, local services, and local enterprises.
 ---
 
 DAI today launched a new corporate office in Muscat, Oman. DAI Oman will initially focus on DAI’s sustainable business practice, working with commercial and government clients to ensure that their economic investments yield sustainable and mutually beneficial “in-country value” by better incorporating local content, local labor, local services, and local enterprises. 
