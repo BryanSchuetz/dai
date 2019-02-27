@@ -7,6 +7,8 @@ is_featured: true
 
 DAI today launched a new corporate office in Muscat, Oman. DAI Oman will initially focus on DAI’s sustainable business practice, working with commercial and government clients to ensure that their economic investments yield sustainable and mutually beneficial “in-country value” by better incorporating local content, local labor, local services, and local enterprises. 
 
+<!--more-->
+
 The Oman office will quickly expand to offer the full range of DAI’s global development services in the Gulf region and beyond.
 
 “We are absolutely thrilled to expand DAI’s global footprint here in the Sultanate,” said DAI Oman Managing Director Chris MacDonald, a five-year resident of Muscat and a 30-year veteran of the oil and gas industry. “Oman is a global leader in the field of in-country value and an ideal location from which to deliver services that directly benefit the citizens of emerging market economies.”
