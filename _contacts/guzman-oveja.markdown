@@ -1,7 +1,7 @@
 ---
 title: Guzmán Oveja
 date: 2017-12-11 12:56:00 Z
-job-title: Senior Consultant, Business Development
+job-title: Senior Consultant, Business Development Unit
 email: Guzman_Oveja@dai.com
 summary: Guzmán Oveja works as bid manager in the Business Development Unit, mainly
   with EU-funded opportunities. He is charge of identifying and monitoring new business
