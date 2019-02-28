@@ -12,7 +12,7 @@ summary: As part of the Delivery Team, Anne-Sofia Holmberg is responsible for th
   Unit, where she managed short-term technical assistance contracts across five thematic
   lots.
 image: https://assetify-dai.com/contacts/anne-sofia-holmberg.jpg
-group: Programme Management
-sort-order: 0
+group: Brussels Management
+sort-order: 1
 ---
 
