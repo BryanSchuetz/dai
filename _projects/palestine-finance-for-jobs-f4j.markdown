@@ -16,7 +16,7 @@ regions: Middle East and North Africa
 country: Palestine
 ---
 
-Palestine lacks sustainable and productive employment opportunities for the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s insecure business environment with high costs and risks has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and Palestinian Authority has undermined innovation and growth.
+Palestine lacks enough sustainable and productive employment opportunities to supply the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s insecure business environment with high costs and risks has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and Palestinian Authority has undermined innovation and growth.
 
 Implemented by DAI on behalf of the Palestinian Ministry of Finance and Planning (MOFP), the Finance for Jobs project (F4J) addresses constraints to job growth in the West Bank and Gaza by developing innovative financing instruments to promote business investment.
 
