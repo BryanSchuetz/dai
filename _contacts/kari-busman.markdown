@@ -15,5 +15,6 @@ summary: As part of the Business Development Unit, Kari Busman brings more than 
   Chinese political science.
 image: "/uploads/Kari%20Busman.jpg"
 group: Brussels Management
+sort-order: 5
 ---
 

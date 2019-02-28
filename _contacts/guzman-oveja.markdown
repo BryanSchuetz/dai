@@ -15,6 +15,6 @@ summary: Guzmán Oveja works as bid manager in the Business Development Unit, ma
   and employment, among others.
 image: "/uploads/Guzman%20Oveja%20final.jpg"
 group: Brussels Management
-sort-order: 4
+sort-order: 6
 ---
 
