@@ -13,7 +13,7 @@ summary: 'Isaline Ameryckx joined DAI’s Brussels office in September 2018 as a
   and public finance management. Isaline holds a bachelor''s degree in political studies
   and a master''s in international relations. '
 image: "/uploads/Isaline%20Ameryckx.jpg"
-group: 'Brussels Coordinators '
+group: Brussels Coordinators
 sort-order: 4
 ---
 
