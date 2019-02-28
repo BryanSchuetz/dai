@@ -1,7 +1,6 @@
 ---
 title: DAI Global Health Presents at Africa Health 2019
 date: 2019-02-28 16:57:00 Z
-published: false
 solutions:
 - Global Health
 summary: 'Andrew Kitua, Africa Regional Director for the Preparedness and Response
