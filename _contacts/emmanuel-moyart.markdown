@@ -13,5 +13,6 @@ summary: 'Emmanuel Moyart is the Team Leader of the Facility that supports EC DE
   access to basic services—including financial services—for all. '
 image: "/uploads/emanuel.jpg"
 group: Brussels Management
+sort-order: 3
 ---
 
