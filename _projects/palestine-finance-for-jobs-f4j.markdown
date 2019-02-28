@@ -20,7 +20,7 @@ Palestine lacks sustainable and productive employment opportunities for the stat
 
 Implemented by DAI on behalf of the Palestinian Ministry of Finance and Planning (MOFP), the Finance for Jobs project (F4J) addresses constraints to job growth in the West Bank and Gaza by developing innovative financing instruments to promote business investment.
 
-![F4J_photo.jpg](/uploads/F4J_photo.jpg)
+![W4J-pic.jpg](/uploads/W4J-pic.jpg)
 
 ### Sample Activities
 
