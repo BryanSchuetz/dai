@@ -17,11 +17,9 @@ regions: Middle East and North Africa
 country: Palestine
 ---
 
-One of the most important political, social, and economic challenges facing Palestine today is the lack of sustainable and productive employment opportunities for the state’s growing population. Creating more jobs for women, youth, and marginalized people in particular is seen as the most effective path towards reducing overall poverty in Palestine. However, many companies have been cut off from direct market contact and cannot find financing, leading them to rely on outdated business models that limit their ability to compete, grow, and add new jobs. In addition, Palestine’s insecure business environment with high risks and high costs has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and the Palestinian Authority has undermined innovation and growth.
+Palestine lacks sustainable and productive employment opportunities for the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s insecure business environment with high costs and risks has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and Palestinian Authority has undermined innovation and growth.
 
-The Finance for Jobs (F4J) project, implemented by DAI on behalf of the Ministry of Finance and Planning (MOFP), is an economic development program designed to address these key constraints to increased job growth. F4J is the first in an anticipated series of projects with the overarching objective of mobilizing private investment and creating employment opportunities in the West Bank and Gaza by deploying innovative financing instruments that crowd in private investment.
-
-Our approach to F4J will promote cross-sector employment by providing coordinated matching grants that allow entire vertical pipelines of companies to grow together and create jobs. F4J will also work closely with investment funds, businesses, and government agencies to generate proof-of-concept results in the first year and use lessons learned in scaling up early successes for wider implementation.
+Implemented by DAI on behalf of the Palestinian Ministry of Finance and Planning, the Finance for Jobs project (F4J) addresses constraints to job growth. F4J is the first in an anticipated series of projects to mobilize private investment and create jobs in the West Bank and Gaza by deploying innovative financing instruments.
 
 ![F4J_photo.jpg](/uploads/F4J_photo.jpg)
 
