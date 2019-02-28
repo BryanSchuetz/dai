@@ -1,7 +1,6 @@
 ---
 title: Elizabeth L. Littlefield
 date: 2019-02-28 17:53:00 Z
-published: false
 summary: Elizabeth Littlefield is one of the development community’s most distinguished
   leaders. A former President and Chief Executive Officer of the Overseas Private
   Investment Corporation (OPIC), she brings to DAI more than 30 years of expertise
