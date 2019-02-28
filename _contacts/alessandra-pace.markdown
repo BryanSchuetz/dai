@@ -10,5 +10,6 @@ summary: Alessandra Pace is Office Administrator, dealing with logistics, purcha
   projects for entrepreneurs and business development.
 image: "/uploads/Alessandra%20Pace.jpg"
 group: Brussels Coordinators
+sort-order: 5
 ---
 
