@@ -3,10 +3,13 @@ title: DAI Global Health Presents at Africa Health 2019
 date: 2019-02-28 16:57:00 Z
 solutions:
 - Global Health
+regions: Sub-Saharan Africa
+projects: Worldwide—Preparedness and Response (P&R)
 summary: 'Andrew Kitua, Africa Regional Director for the Preparedness and Response
   (P&R) project, will participate in Africa Health Agenda International Conference
   (AHAIC) in Kigali, Rwanda, March 5–7, to make the case for integrating global health
   security with Universal Health Coverage (UHC). '
+social-image: "/uploads/Kitua%20Salzburg%20Global%20Seminar%202-b08118.jpg"
 ---
 
 [Andrew Kitua](https://www.facebook.com/watch/?v=10156338078985797), Africa Regional Director for the [Preparedness and Response (P&R) project](https://www.dai.com/our-work/projects/worldwide-preparedness-and-response-pr), will participate in [Africa Health Agenda International Conference (AHAIC)](https://ahaic.org/) in Kigali, Rwanda, March 5–7, to make the case for integrating global health security with Universal Health Coverage (UHC).
