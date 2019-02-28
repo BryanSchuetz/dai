@@ -19,14 +19,14 @@ country: Palestine
 
 Palestine lacks sustainable and productive employment opportunities for the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s insecure business environment with high costs and risks has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and Palestinian Authority has undermined innovation and growth.
 
-Implemented by DAI on behalf of the Palestinian Ministry of Finance and Planning, the Finance for Jobs project (F4J) addresses constraints to job growth. F4J is the first in an anticipated series of projects to mobilize private investment and create jobs in the West Bank and Gaza by deploying innovative financing instruments.
+Implemented by DAI on behalf of the Palestinian Ministry of Finance and Planning (MOFP), the Finance for Jobs project (F4J) addresses constraints to job growth. F4J is the first in an anticipated series of projects to mobilize private investment and create jobs in the West Bank and Gaza by deploying innovative financing instruments.
 
 ![F4J_photo.jpg](/uploads/F4J_photo.jpg)
 
 ### Sample Activities
 
-* Solicit proposals from investment funds for cost-shared financing to improve performance of their enterprises and assist selected funds in enhancing their overall pipeline of invested businesses.
+* Solicit proposals from investment funds for cost-shared financing to improve performance of their enterprises, and assist selected funds in enhancing their overall pipeline of invested businesses.
 
-* Work with development impact bond (DIB) advising partner, Social Finance, to build a financial model for the bond that most efficiently meets the needs of the Palestinian Authority, service providers, employers, and investors, as well identify potential DIB investors.
+* With partner Social Finance, build a financial model for a development impact bond (DIB) that meets the needs of the Palestinian Authority, service providers, employers, and investors, and identify DIB investors.
 
-* Develop a social cost-benefit analysis tool to assist the MOFP and private-sector stakeholders in identifying industries and business with high job creation potential for investment.
+* Develop a social cost-benefit analysis tool to assist the MOFP and private-sector stakeholders in identifying industries and businesses with high job-creation potential for investment.
