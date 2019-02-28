@@ -10,5 +10,6 @@ summary: Gustavo Porres Izquierdo’s background is in agricultural engineering 
   Brussels, working closely with DG DEVCO C1.
 image: "/uploads/gustavo.jpg"
 group: Brussels Coordinators
+sort-order: 2
 ---
 

@@ -17,5 +17,6 @@ summary: 'Rossana Gresia joined DAI Brussels in January 2017 to strengthen the E
   relations. '
 image: "/uploads/Rossana%20Gresia%20final.jpg"
 group: 'Brussels Coordinators '
+sort-order: 3
 ---
 
