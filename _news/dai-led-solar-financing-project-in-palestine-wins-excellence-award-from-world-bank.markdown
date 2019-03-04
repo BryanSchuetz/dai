@@ -18,7 +18,7 @@ Solar-generated electricity produced by PRICO will power 32 factories and wareho
 
 ![DAI-NEWS----F4J-GAZA-SOLAR-b41f8c.jpg](/uploads/DAI-NEWS----F4J-GAZA-SOLAR-b41f8c.jpg)`The Gaza Industrial Estate will soon be powered by Palestine's largest solar array. Photo: International Finance Corporation`
 
-PRICO is financing the 7-megawatt, 57,000 square-meter rooftop photovoltaic system. Loans and guarantees were collectively arranged by the International Finance Corporation, International Bank for Reconstruction and Development, Multilateral Investment Guarantee Agency, and loan guarantor Palestine Development and Investment Company, the majority owner of PRICO.
+PRICO is financing the 7-megawatt, 57,000-square-meter rooftop photovoltaic system. Loans and guarantees were collectively arranged by the International Finance Corporation, International Bank for Reconstruction and Development, Multilateral Investment Guarantee Agency, and loan guarantor Palestine Development and Investment Company, the majority owner of PRICO.
 
 Funded by the World Bank, the DAI-led [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program conducted the financing due diligence on PRICO—including on its implementation capacity, procurement processes, and financial system—in accordance with the World Bank’s Maximizing Finance for Development approach of leveraging private sector funding and optimizing the use of scarce public resources. Additionally, the F4J team:
 
