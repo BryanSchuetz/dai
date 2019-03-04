@@ -3,6 +3,14 @@ title: DAI-Led Solar Financing Project in Palestine Wins Excellence Award from W
   Bank
 date: 2019-03-04 16:10:00 Z
 published: false
+solutions:
+- Environment and Energy
+- Economic Growth
+regions: Middle East and North Africa
+projects: Palestine Finance for Jobs (F4J)
+clients: World Bank
+summary: 'A DAI-led project to finance a solar energy facility for a Gaza industrial
+  park was selected for the 2019 World Bank President’s Award for Excellence. '
 ---
 
 A DAI-led project to finance a solar energy facility for a Gaza industrial park was selected for the 2019 World Bank President’s Award for Excellence. The $11.2 million financing package for the [PRICO Solar Gaza Project](https://www.worldbank.org/en/about/partners/brief/west-bank-and-gaza-securing-energy-for-growth-and-development) was honored for overcoming risks presented by Gaza’s legal and operating environment to ensure the project’s financial sustainability. Once built, the facility will mark the largest solar array in the West Bank and Gaza and first privately-financed infrastructure project in a decade in Gaza.
