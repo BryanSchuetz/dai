@@ -21,15 +21,15 @@ Solar-generated electricity produced by PRICO will power 32 factories and wareho
 
 PRICO is financing the 7-megawatt, 57,000-square-meter rooftop photovoltaic system. Loans and guarantees were collectively arranged by the International Finance Corporation, International Bank for Reconstruction and Development, Multilateral Investment Guarantee Agency, and loan guarantor Palestine Development and Investment Company, the majority owner of PRICO.
 
-Funded by the World Bank, the DAI-led [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program conducted the financing due diligence on PRICO—including on its implementation capacity, procurement processes, and financial system—in accordance with the World Bank’s Maximizing Finance for Development approach of leveraging private sector funding and optimizing the use of scarce public resources. Additionally, the F4J team:
+DAI implements the [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program for the Palestinian Authority's Ministry of Finance and Planning (MOFP). Funded by the World Bank, F4J conducted the financing due diligence on PRICO—including on its implementation capacity, procurement processes, and financial system—in accordance with the World Bank’s Maximizing Finance for Development approach of leveraging private sector funding and optimizing the use of scarce public resources. Additionally, the F4J team:
 
 * Prepared the case for public financing, including an assessment of market failures and rational for funding, and social-, economic-, and cost-benefit analyses by measuring the economic and social rates of return for the first time ever in the West Bank and Gaza Strip;
 * Updated the labor survey at the Gaza Industrial Estate; and
 * Prepared the investment proposal and $2 million equity grant for the investor.
 
-F4J will monitor the project implementation, including procurement compliance, technical oversight, financial audits, and environmental impact monitoring, and report to the World Bank and Palestinian Ministry of Finance and Planning. F4J will also monitor and report on the impact on employment. The PRICO solar project has mobilized with completion expected by the end of year.
+F4J will monitor the project implementation, including procurement compliance, technical oversight, financial audits, and environmental impact monitoring, and report to the MOFP and World Bank. F4J will also monitor and report on the impact on employment. The PRICO solar project has mobilized with completion expected by the end of year.
 
-F4J is a four-year series of projects implemented on behalf of the Palestinian Ministry of Finance and Planning to mobilize private investment in high potential sectors and generate job opportunities across the West Bank and Gaza. Led by Project Manager Mazen Asad, the F4J team designs, tests, and implements three innovative financial instruments in Palestine:
+F4J is a four-year series of projects to mobilize private investment in high potential sectors and generate job opportunities across the West Bank and Gaza. Led by Project Manager Mazen Asad, the F4J team designs, tests, and implements three innovative financial instruments in Palestine:
 
 **Entrepreneurship Ecosystem Matching Grant (EE-MG):** This cost-sharing mechanism targets early stage investment funds seeking to build a portfolio of startup and early stage enterprises. So far, the EE-MG has helped mobilize private capital of $2,780,000 by supporting 13 Palestinian startups, creating 80 jobs. 
 
