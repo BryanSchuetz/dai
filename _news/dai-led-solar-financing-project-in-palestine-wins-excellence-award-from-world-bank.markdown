@@ -1,6 +1,6 @@
 ---
-title: DAI-Led Solar Financing Project in Palestine Wins Excellence Award from World
-  Bank
+title: DAI-Led Solar Energy Financing Project in Palestine Wins Excellence Award from
+  World Bank
 date: 2019-03-04 16:10:00 Z
 solutions:
 - Environment and Energy
