@@ -1,7 +1,6 @@
 ---
 title: Africa—Tackling Deadly Diseases in Africa Program (TDDAP)
 date: 2019-01-23 15:27:00 Z
-published: false
 summary: The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives
   and reduce the impact of disease outbreaks and epidemics.
 start: 2019
@@ -14,7 +13,7 @@ regions: Sub-Saharan Africa
 country: Cameroon, Uganda, Côte D’Ivoire, Niger, Mali, Chad
 ---
 
-The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives and reduce the impact of disease outbreaks and epidemics. The five-year TDDAP project will address:
+The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives and reduce the impact of disease outbreaks and epidemics. The five-year TDDAP project addresses:
 
 * Poor disease surveillance and communication from remote locations to national authorities;
 * Weak public health services and infrastructure;
