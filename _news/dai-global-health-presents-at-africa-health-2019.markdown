@@ -1,18 +1,22 @@
 ---
 title: DAI Global Health Presents at Africa Health 2019
 date: 2019-02-28 16:57:00 Z
-published: false
 solutions:
 - Global Health
+regions: Sub-Saharan Africa
+projects: Worldwide—Preparedness and Response (P&R)
 summary: 'Andrew Kitua, Africa Regional Director for the Preparedness and Response
   (P&R) project, will participate in Africa Health Agenda International Conference
   (AHAIC) in Kigali, Rwanda, March 5–7, to make the case for integrating global health
   security with Universal Health Coverage (UHC). '
+social-image: "/uploads/Kitua%20Salzburg%20Global%20Seminar%202-b08118.jpg"
 ---
 
 [Andrew Kitua](https://www.facebook.com/watch/?v=10156338078985797), Africa Regional Director for the [Preparedness and Response (P&R) project](https://www.dai.com/our-work/projects/worldwide-preparedness-and-response-pr), will participate in [Africa Health Agenda International Conference (AHAIC)](https://ahaic.org/) in Kigali, Rwanda, March 5–7, to make the case for integrating global health security with Universal Health Coverage (UHC).
 
 Set to be one of the largest health convenings in Africa in 2019, with more than 1,500 participants expected, AHAIC will serve as a platform to foster homegrown solutions to the continent’s most pressing health challenges. The focus will be on mapping a pathway from commitment to action on UHC, and building momentum among diverse stakeholders including public, private, and civil society sectors.
+
+![Kitua Salzburg Global Seminar 2.jpg](/uploads/Kitua%20Salzburg%20Global%20Seminar%202.jpg)`Andrew Kitua presenting at the Salzburg Global Seminar last year. Photo courtesy of Salzburg Global Seminar.`
 
 It is a key moment as momentum for UHC in Africa is at an all-time high and most countries have already integrated UHC into their national health strategies. But many countries in Africa still have the highest rates of maternal and child mortality in the world, with HIV/AIDS the leading cause of death for adults in Africa and over 90 percent of all malaria deaths occurring on the continent.
 

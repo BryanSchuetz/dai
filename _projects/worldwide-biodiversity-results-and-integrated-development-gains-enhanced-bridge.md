@@ -20,7 +20,7 @@ layout: project
 
 Integrating biodiversity conservation in development initiatives such as climate change adaptation and mitigation, democracy and governance, inclusive economic growth, food security, health, and trade, can create significant benefits for beneficiaries. There is, however, a widely held perception that successful conservation initiatives often only have local impact and are typically limited in their impact. Scaling up these benefits requires new approaches to programming that recognize not only how development projects can drive sound conservation, but also how conservation initiatives can improve development impact. The DAI team is pursuing three main objectives on the [BRIDGE project](https://rmportal.net/biodiversityconservation-gateway/resources/projects/bridge). First, the project is building and expanding on the U.S. Agency for International Development (USAID)'s successful biodiversity integration efforts, as well identifying and addressing gaps in USAID staff's ability to design and carry out programs that integrate biodiversity conservation into other sector initiatives. Second, BRIDGE will design and maintain knowledge management systems that enhance access to sound, compelling, and useful data and evidence that supports the drive for greater integration. Third, the project will build a constituency of informed and committed staff "champions" who will embrace and advance biodiversity conservation into other sectors because they understand how these efforts reduce the risk of failure and enhance impact.
 
-![][1]
+![](https://assetify-dai.com/projects/BRIDGE%20New.jpg)
 
 ### Sample Activities
 
@@ -36,7 +36,5 @@ Integrating biodiversity conservation in development initiatives such as climate
 * Updated and revised Foreign Assistance Act sections 118/119 Tropical Forest and Biodiversity Analysis Best Practices Guide.
 * Developed series of evidence summaries and case studies highlighting the use of [ecosystem-based adaptation](https://rmportal.net/biodiversityconservation-gateway/conservation-development/global-climate-change/what-is-ecosystem-based-adaptation) to address climate vulnerability.
 * Produced evidence briefer on the contributions of wild fisheries to food security, nutrition, and economic growth in Africa.
-* Generated case studies on institutional enabling conditions for integration in Mozambique and Honduras.
-* Produced g[roundbreaking research](http://advances.sciencemag.org/content/4/8/eaat2853) on the intersections of forest cover conservation and human health with the Gund Institute, published in Science Advances.
-
-[1]: https://assetify-dai.com/projects/BRIDGE%20New.jpg
+* Generated case studies on institutional enabling conditions for integration in [Mozambique](https://www.climatelinks.org/blog/better-climate-financing-through-cost-benefit-analysis) and Honduras.
+* Produced [groundbreaking research](http://advances.sciencemag.org/content/4/8/eaat2853) on the intersections of forest cover conservation and human health with the Gund Institute, published in Science Advances.

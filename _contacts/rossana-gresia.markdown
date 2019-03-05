@@ -16,7 +16,7 @@ summary: 'Rossana Gresia joined DAI Brussels in January 2017 to strengthen the E
   a B.Sc. in political studies, an M.Sc. in European studies, and an M.Sc. in international
   relations. '
 image: "/uploads/Rossana%20Gresia%20final.jpg"
-group: 'Brussels Coordinators '
+group: Brussels Coordinators
 sort-order: 3
 ---
 
