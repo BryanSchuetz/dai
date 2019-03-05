@@ -311,7 +311,7 @@
         "Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"
       ],
       "technicalTerms": [
-        "Community Health Systems and Gender", "Disease Control Elimination & Eradication ", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+        "Community Health Systems and Gender", "Disease Control Elimination & Eradication", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
       ],
       "docFilename": "hpi-how-a-communication-intervention-in-zambia-re-orientated-health-services-to-the-needs-of-the-least-supported.pdf",
       "docThumbnail": "hpi-how-a-communication-intervention-in-zambia-re-orientated-health-services-to-the-needs-of-the-least-supported_page1.jpeg",
@@ -512,6 +512,54 @@
       "technicalTerms": ["Health Care Financing", "Disease Control Elimination & Eradication"],
       "docFilename": "hpi-results-based-financing.pdf",
       "docThumbnail": "hpi-results-based-financing_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Results from Chama District",
+      "docSummary": "Presented at the End of Programme Dissemination event in Zambia on 8th September 2016. This infographic shares results from the Chitambo District in Zambia. MORE Mobilising Access to Maternal Health in Zambia (MORE MAMaZ) was funded by Comic Relief. The programme was implemented by Transaid, Health Partners International, Development Data and Disacare in partnership with the Ministry of Community Development, Mother and Child Health and District Community Health Teams. Results included: 11,923 door- to door visits by Safe Mother Hood Action Group (SMAG) volunteers 556 Emergency Transport Scheme (ETS) transfers 358 saving schemes and food bank beneficiaries The event was attended by staff of the Ministry of Health, representatives of District Health Management Teams, and a wide range of development partners.",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Service Delivery", "Community Health Systems and Gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"],
+      "docFilename": "hpi-results-chama-district.pdf",
+      "docThumbnail": "hpi-results-chama-district_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Results from Chitambo District",
+      "docSummary": "Presented at the End of Programme Dissemination event in Zambia on 8th September 2016. This infographic shares results from the Chitambo District in Zambia. MORE Mobilising Access to Maternal Health in Zambia (MORE MAMaZ) was funded by Comic Relief. The programme was implemented by Transaid, Health Partners International Development Data and Disacare in partnership with the Ministry of Community Development, Mother and Child Health and District Community Health Teams. Results included: 11,923 door- to door visits by Safe Mother Hood Action Group (SMAG) volunteers 556 Emergency Transport Scheme (ETS) transfers 358 saving schemes and food bank beneficiaries",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Service Delivery", "Community Health Systems and Gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"],
+      "docFilename": "hpi-results-chitambo.pdf",
+      "docThumbnail": "hpi-results-chitambo_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Results from Mkushi District",
+      "docSummary": "Presented at the End of Programme Dissemination event in Zambia on 8th September 2016. This infographic shares results from the Mkushi District in Zambia. MORE Mobilising Access to Maternal Health in Zambia (MORE MAMaZ) was funded by Comic Relief. The programme was implemented by Transaid, Health Partners International, Development Data and Disacare in partnership with the Ministry of Community Development, Mother and Child Health and District Community Health Teams. Results included: 19,316 door- to door visits by Safe Mother Hood Action Group (SMAG) volunteers 892 Emergency Transport Scheme (ETS) transfers 2,287 saving schemes and food bank beneficiaries.",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Global Health Security and Pandemic Preparedness", "Health Systems Strengthening"],
+      "technicalTerms": ["Disease Control Elimination & Eradication"],
+      "docFilename": "hpi-results-mkushi.pdf",
+      "docThumbnail": "hpi-results-mkushi_page1.jpeg",
+      "year": 2016
+    },
+    {
+      "docTitle": "Safe Motherhood Community Volunteers",
+      "docSummary": "Presented at the End of Programme Dissemination event in Zambia on 8th September 2016. This infographic presents the safe motherhood community volunteers’ results and success factors. MORE Mobilising Access to Maternal Health in Zambia (MORE MAMaZ) was funded by Comic Relief. The programme was implemented by Transaid, Health Partners International, Development Data and Disacare in partnership with the Ministry of Community Development, Mother and Child Health and District Community Health Teams.",
+      "organization": "Health Partners International",
+      "docType": ["Infographics"],
+      "source": "",
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Community Health Systems and Gender", "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"],
+      "docFilename": "hpi-safe-motherhood.pdf",
+      "docThumbnail": "hpi-safe-motherhood_page1.jpeg",
       "year": 2016
     }
 ]
