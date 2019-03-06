@@ -28,16 +28,12 @@ Nine years later, PIND has grown into a leading catalyst for economic and social
 Chevron [hired DAI](https://www.dai.com/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind) in 2010 to help guide PIND and assist the organization as it matured. Headquartered in Abuja with offices in Warri and Port Harcourt, PIND has helped:
 
 * 560,000 farmers improve their farming and business skills.
-
 * 300,000 farmers and small and medium-sized enterprises increase their incomes by a cumulative $56.5 million.
-
 * Create more than 12,000 jobs.
-
 * Produce more than 50 [research articles](https://pindfoundation.org/research/page/5/) on equitable socioeconomic programs, gender inclusion, infrastructure needs, and other areas that underpin development assistance in Nigeria by PIND and others.
-
 * Leverage $100 million in development assistance by donors such as the U.S. Agency for International Development, [U.K. Department for International Development](https://www.dai.com/our-work/projects/nigeria-market-development-programme-made), and Ford Foundation.
 
-Operating in nine southern states that comprise the oil and gas producing region, PIND employs 40+ development professionals who currently oversee 10 programs in economic development, capacity building, regional advocacy, and peace-building.
+Operating in nine southern states that comprise the oil and gas producing region, PIND employs more than 40 development professionals who currently oversee 10 programs in economic development, capacity building, regional advocacy, and peace-building.
 
 Akala said PIND’s establishment and growth developed in complement with Chevron’s Global Memorandum of Understanding (GMOU) to promote economic and social stability. PIND aims to build positive relationships among Chevron’s fence-line communities and across the broader Niger Delta, including through programs to assist business service providers, local governance, and civil society.
 
