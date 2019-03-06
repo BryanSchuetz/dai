@@ -10,12 +10,12 @@ projects: Nigeria—Partnership Initiatives in the Niger Delta
 summary: 'Chevron took a bold step in 2010 by launching the Foundation for Partnership
   Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth
   across the Niger Delta where Chevron operates so local businesses could benefit
-  over the long term from more robust markets and workforces and reduced conflict.
-  Nine years later, PIND has grown into a leading catalyst for economic and social
-  growth'
+  over the long term from more robust markets, better prepared workforces, and reduced
+  conflict. Nine years later, PIND has grown into a leading catalyst for economic
+  and social growth.'
 ---
 
-Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses could benefit over the long term from more robust markets, better trained workforces, and reduced conflict.
+Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses could benefit over the long term from more robust markets, better prepared workforces, and reduced conflict.
 
 <!--more-->
 
@@ -41,4 +41,4 @@ PIND’s Partners for Peace network counts more than 8,000 members contributing 
 
 “Our goal is to deepen PIND’s foothold as the region’s go-to implementer of local development assistance programs,” said DAI’s [Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant), who helped design PIND’s original strategy and has since led DAI’s assistance to the organization. “Thirty million people live in the Niger Delta, and while there is great opportunity thanks to oil and gas production, the region needs to work together so businesses and communities can benefit.”
 
-PIND has spurred innovative thinking about [new ways](https://www.dai.com/our-work/solutions/sustainable-business) for corporate social responsibility programming, inspiring other companies in Nigeria and with PIND components introduced in Angola, Venezuela, and other countries where Chevron operates that have similar underlying challenges.
+PIND has spurred [innovative thinking about](https://www.dai.com/our-work/solutions/sustainable-business) corporate social responsibility programming, inspiring other companies in Nigeria and with PIND components introduced in Angola, Venezuela, and other countries where Chevron operates that have similar underlying challenges.
