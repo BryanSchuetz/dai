@@ -27,7 +27,7 @@ promos:
 End: 
 ---
 
-To more sustainably invest in the social and economic development of the communities where it operates in Ghana, Kosmos Energy sought the expertise of DAI to offer new approaches to local engagement beyond tradition models of corporate social responsibility (CSR). DAI helped to [design, launch, and implement ](https://www.dai.com/news/kosmos-energy-launches-groundbreaking-social-investment-initiative-ghana)the Kosmos Innovation Center (KIC) program to advance locally led, market-driven solutions to some of the country’s key challenges.
+To more sustainably invest in the social and economic development of the communities where it operates in Ghana, Kosmos Energy sought the expertise of DAI to offer new approaches to local engagement beyond traditional models of corporate social responsibility (CSR). DAI helped to [design, launch, and implement ](https://www.dai.com/news/kosmos-energy-launches-groundbreaking-social-investment-initiative-ghana)the Kosmos Innovation Center (KIC) program to advance locally led, market-driven solutions to some of the country’s key challenges.
 
 The [KIC promotes innovation and youth employment](http://www.kosmosinnovationcenter.com/) by investing in, and facilitating the development of Ghanaian entrepreneurs and businesses, with a current focus on the agribusiness sector. The DAI team provides capacity building support, personnel recruitment and management, stakeholder engagement, investment due diligence, and ongoing technical assistance to the [Kosmos Innovation Center](https://thebftonline.com/2018/features/kosmos-energy-agrics-new-ally/).
 
