@@ -2,10 +2,12 @@
 title: Jeffrey Mecaskey
 date: 2017-06-02 12:19:00 Z
 lastname: Mecaskey
-summary: 'Jeffrey Mecaskey has more than 35 years of experience in health and political
-  economics and health policy and management. '
-job-title: Technical Lead, Economics and Financing, Evidence and Learning, Global
-  Health
+summary: Jeffrey Mecaskey has more than 35 years of experience in health and political
+  economics and health policy and management. He is the Team Leader for the Tackling
+  Deadly Diseases in Africa Program (TDDAP), which works in six countries to strengthen
+  health systems and institutions to deliver better health security and improve disease
+  preparedness and response.
+job-title: Team Leader, Tackling Deadly Diseases in Africa Program (TDDAP)
 image: "/uploads/Jeff%20Mecaskey%20DAI%20site.jpg"
 solutions:
 - Health Governance
@@ -18,7 +20,7 @@ articles:
   article_file: http://www.tandfonline.com/doi/full/10.1080/23288604.2016.1242453
 ---
 
-Jeffrey Mecaskey has more than 35 years of experience in health and political economics and health policy and management. As the Co-Technical Lead for Evidence and Learning, Jeff has expertise in research portfolio development and delivery. Jeff was the Senior Advisor to [EU-SIGN](https://www.dai.com/our-work/projects/nigeria-eu-support-to-immunisation-governance-in-nigeria-eu-sign), strengthening health sector governance in Nigeria, and a Senior Advisor to a programme developing costed national nutrition strategies across a range of countries. He has led a range of major research initiatives and programmes related to results-based financing, global health security, and the role of non-state actors in global health. From 2009 to 2013, Jeff was the Managing Director of Health Partners International, and before this he served as the Head of Health for Save the Children UK, where he oversaw the organisation’s health and HIV portfolios. He was also the Vice President of Axios International and from 1998 to 2004 and founding Vice President of the International Trachoma Initiative. Jeff has consulted and worked in Asia, Africa, Europe, and North America. 
+Jeffrey Mecaskey has more than 35 years of experience in health and political economics, and health policy, and management. He is the Team Leader for the [Tackling Deadly Diseases in Africa Program (TDDAP)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program), which works in six countries to strengthen health systems and institutions to deliver better health security and improve disease preparedness and response. Jeff was perviously the Senior Advisor to [EU-SIGN](https://www.dai.com/our-work/projects/nigeria-eu-support-to-immunisation-governance-in-nigeria-eu-sign), strengthening health sector governance in Nigeria, and a Senior Advisor to a programme developing costed national nutrition strategies across a range of countries. He has led a range of major research initiatives and programmes related to results-based financing, global health security, and the role of non-state actors in global health. From 2009 to 2013, Jeff was the Managing Director of Health Partners International, and before this he served as the Head of Health for Save the Children UK, where he oversaw the organisation’s health and HIV portfolios. He was also the Vice President of Axios International and from 1998 to 2004 and founding Vice President of the International Trachoma Initiative. Jeff has consulted and worked in Asia, Africa, Europe, and North America. 
 
 * Fellow, Faculty of Public Health, Royal College of Physicians & Surgeons
 * D.S., health economics, Harvard School of Public Health
