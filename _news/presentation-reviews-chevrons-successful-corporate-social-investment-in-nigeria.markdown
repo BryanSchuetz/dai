@@ -35,9 +35,9 @@ Chevron [hired DAI](https://www.dai.com/our-work/projects/nigeria-foundation-par
 
 Operating in nine southern states that comprise the oil and gas producing region, PIND employs more than 40 development professionals who currently oversee 10 programs in economic development, capacity building, regional advocacy, and peace-building.
 
-Akala said PIND’s establishment and growth developed in complement with Chevron’s Global Memorandum of Understanding (GMOU) to promote economic and social stability. PIND aims to build positive relationships among Chevron’s fence-line communities and across the broader Niger Delta, including through programs to assist business service providers, local governance, and civil society.
+Akala said PIND’s establishment and growth developed in complement with Chevron’s Global Memorandum of Understanding to promote economic and social stability. PIND aims to build positive relationships among communities across the broader Niger Delta, including through programs to assist business service providers, local governance, and civil society.
 
-PIND’s Partners for Peace network counts more than 8,000 members contributing to the region’s improved social and business environment by establishing state chapters, intervening and mitigating local conflicts, creating an SMS early warning/response infrastructure, and making itself a recognizable brand for peace. 
+PIND’s Partners for Peace network counts more than 8,000 members contributing to the region’s improved social and business environment by establishing state chapters, intervening and mitigating local conflicts, creating a text-based early warning/response infrastructure, and making itself a recognizable brand for peace. 
 
 “Our goal is to deepen PIND’s foothold as the region’s go-to implementer of local development assistance programs,” said DAI’s [Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant), who helped design PIND’s original strategy and has since led DAI’s assistance to the organization. “Thirty million people live in the Niger Delta, and while there is great opportunity thanks to oil and gas production, the region needs to work together so businesses and communities can benefit.”
 
