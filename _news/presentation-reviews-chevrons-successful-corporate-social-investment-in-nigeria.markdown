@@ -2,6 +2,17 @@
 title: Presentation Reviews Chevron’s Successful Corporate Social Investment in Nigeria
 date: 2019-03-06 18:33:00 Z
 published: false
+solutions:
+- Sustainable Business
+- Economic Growth
+regions: Sub-Saharan Africa
+projects: Nigeria—Partnership Initiatives in the Niger Delta
+summary: 'Chevron took a bold step in 2010 by launching the Foundation for Partnership
+  Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth
+  across the Niger Delta where Chevron operates so local businesses could benefit
+  over the long term from more robust markets and workforces and reduced conflict.
+  Nine years later, PIND has grown into a leading catalyst for economic and social
+  growth'
 ---
 
 Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses could benefit over the long term from more robust markets and workforces and reduced conflict.
