@@ -15,7 +15,7 @@ summary: 'Chevron took a bold step in 2010 by launching the Foundation for Partn
   growth'
 ---
 
-Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses could benefit over the long term from more robust markets and workforces and reduced conflict.
+Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses could benefit over the long term from more robust markets, better trained workforces, and reduced conflict.
 
 <!--more-->
 
