@@ -22,7 +22,7 @@ Nine years later, PIND has grown into a leading catalyst for economic and social
 <!--more-->
 ![DAi-News----PIND-2.jpg](/uploads/DAi-News----PIND-2.jpg){:.float-left} 
 
-“We are striving to create [transformational change](https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/) in the region,” said Akala, recounting the Niger Delta’s history of civil conflict and economic malaise. “We are getting different parts of society to work together. We have cultivated a network that is doing the work and making it happen.”
+“We are striving to create [transformational change](https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/) in the region,” said Akala, photo left, recounting the Niger Delta’s history of civil conflict and economic malaise. “We are getting different parts of society to work together. We have cultivated a network that is doing the work and making it happen.”
 
 Chevron [hired DAI](https://www.dai.com/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind) in 2010 to help guide PIND and assist the organization as it matured. Headquartered in Abuja with offices in Warri and Port Harcourt, PIND has helped:
 
