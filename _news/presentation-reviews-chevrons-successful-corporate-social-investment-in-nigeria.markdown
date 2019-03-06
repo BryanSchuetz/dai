@@ -18,11 +18,12 @@ summary: 'Chevron took a bold step in 2010 by launching the Foundation for Partn
 Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses could benefit over the long term from more robust markets and workforces and reduced conflict.
 
 <!--more-->
+
 ![DAi-News----PIND-2.jpg](/uploads/DAi-News----PIND-2.jpg){:.float-left} 
  
 Nine years later, PIND has grown into a leading catalyst for economic and social growth, according to PIND Executive Director Dr. Dara Akala, who reviewed PIND’s results at a presentation March 5 at DAI’s office in Bethesda, Maryland.
 
-“We are striving to create [transformational change](https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/) in the region,” said Akala, photo left, recounting the Niger Delta’s history of civil conflict and economic malaise. “We are getting different parts of society to work together. We have cultivated a network that is doing the work and making it happen.”
+“We are striving to create [transformational change](https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/) in the region,” said Akala, pictured at left, recounting the Niger Delta’s history of civil conflict and economic malaise. “We are getting different parts of society to work together. We have cultivated a network that is doing the work and making it happen.”
 
 Chevron [hired DAI](https://www.dai.com/our-work/projects/nigeria-foundation-partnership-initiatives-niger-delta-pind) in 2010 to help guide PIND and assist the organization as it matured. Headquartered in Abuja with offices in Warri and Port Harcourt, PIND has helped:
 
