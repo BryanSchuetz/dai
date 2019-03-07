@@ -43,6 +43,6 @@ Akala said PIND has grown in complement with Chevron’s Global Memorandum of Un
 
 PIND’s Partners for Peace network counts more than 8,000 members contributing to the region’s improved business and social environment by establishing state chapters, intervening and mitigating local conflicts, creating an SMS early warning/response infrastructure, and making itself a recognizable brand for peace.
 
-PIND has spurred innovative thinking about [new ways](https://www.dai.com/our-work/solutions/sustainable-business) for corporate social responsibility programming, inspiring other companies in Nigeria and with PIND components introduced in Angola, Venezuela, and other countries where Chevron operates that have similar underlying challenges.
-
 “Our goal is to deepen PIND’s foothold as the delta’s go-to designer and implementer of local development assistance programs,” said DAI’s [Bill Grant](https://www.dai.com/who-we-are/our-team/bill-grant), who helped design PIND’s original strategy and has since led DAI’s assistance to the organization. “Thirty million people live in the Niger Delta, and while there is great opportunity thanks to oil and gas production, the region needs to work together so businesses and communities can benefit.”
+
+PIND has spurred innovative thinking about [new ways](https://www.dai.com/our-work/solutions/sustainable-business) for corporate social responsibility programming, inspiring other companies in Nigeria and with PIND components introduced in Angola, Venezuela, and other countries where Chevron operates that have similar underlying challenges.
