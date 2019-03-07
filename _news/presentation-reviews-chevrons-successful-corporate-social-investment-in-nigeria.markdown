@@ -10,13 +10,13 @@ projects: Nigeria—Partnership Initiatives in the Niger Delta
 summary: 'Chevron took a bold step in 2010 by launching the Foundation for Partnership
   Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth
   across the Niger Delta where Chevron operates so local businesses and communities
-  could benefit over the long term from more robust markets and reduced conflict.
-  Nine years later, PIND has grown into a leading catalyst for economic and social
-  growth.'
+  could benefit over the long term from more robust markets, better prepared workforces,
+  and reduced conflict. Nine years later, PIND has grown into a leading catalyst for
+  economic and social growth.'
 social-image: "/uploads/NigeriaPIND%20EDC001.jpg"
 ---
 
-Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses and communities could benefit over the long term from more robust markets and reduced conflict.
+Chevron took a bold step in 2010 by launching the Foundation for Partnership Initiatives in the Niger Delta (PIND). Its goal: support inclusive economic growth across the Niger Delta where Chevron operates so local businesses and communities could benefit over the long term from more robust markets, better prepared workforces, and reduced conflict.
 
 <!--more-->
 ![DAi-News----PIND-2.jpg](/uploads/DAi-News----PIND-2.jpg){:.float-left} 
