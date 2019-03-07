@@ -21,7 +21,7 @@ Chevron took a bold step in 2010 by launching the Foundation for Partnership Ini
 <!--more-->
 ![DAi-News----PIND-2.jpg](/uploads/DAi-News----PIND-2.jpg){:.float-left} 
  
-Nine years later, PIND has grown into a leading catalyst for economic and social growth in the Niger Delta, according to PIND Executive Director Dr. Dara Akala, who reviewed PIND’s results at a presentation March 5 at DAI’s office in Bethesda, Maryland.
+Nine years later, PIND has grown into a leading catalyst for economic and social growth in the Niger Delta, according to PIND Executive Director Dr. Dara Akala, photo left, who reviewed PIND’s results at a presentation March 5 at DAI’s office in Bethesda, Maryland.
  
 “We are striving to create [transformational change](https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/) in the region,” said Akala, recounting the Niger Delta’s history of civil conflict and economic malaise. “We are getting different parts of society to work together. We have cultivated a network that is doing the work and making it happen.”
 
