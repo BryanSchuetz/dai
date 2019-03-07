@@ -5,7 +5,7 @@ lastname: Menz
 summary: Alyssa Menz is a Senior Analyst in DAI’s Sustainable Business Group (SBG)
   specializing in local content and global supply chain development.
 job-title: Senior Analyst
-image: "/uploads/Alyssa%20Menz.jpg"
+image: "/uploads/Menz.JPG"
 solutions:
 - Sustainable Business
 - energy
