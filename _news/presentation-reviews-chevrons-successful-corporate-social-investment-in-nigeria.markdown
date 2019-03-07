@@ -33,7 +33,7 @@ Chevron’s foundation [hired DAI](https://www.dai.com/our-work/projects/nigeria
 
 * Leverage $100 million in development assistance by donors such as the U.S. Agency for International Development, [U.K. Department for International Development](https://www.dai.com/our-work/projects/nigeria-market-development-programme-made), UNICEF, and the Ford Foundation.
 
-Operating in the nine southern states that comprise the oil and gas producing region, PIND employs 40+ development professionals who currently oversee 10 programs in economic development, capacity building, regional advocacy, and peace-building.
+Operating in nine southern states that comprise the oil and gas producing region, PIND employs 40+ development professionals who currently oversee 10 programs in economic development, capacity building, regional advocacy, and peace-building.
 
 Akala said PIND has grown in complement with Chevron’s Global Memorandum of Understanding to build positive relationships among its fence-line communities—those adjacent to Chevron operations—by promoting economic and social stability across the Niger Delta through programs to assist investors, business service providers, local governance, and civil society.
 
