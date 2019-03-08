@@ -16,7 +16,7 @@ DAI will work with the Government of Mauritius to improve capacity and coordinat
 
 The assignment will utilize international and local experts and include specialists in climate change, economics, hydrology, hydraulics, urban planning, and coastal resilience.
 
-![Mauritius-Climate.jpg](/uploads/Mauritius-Climate.jpg "Photo: Ludovic Lubeigt.")
+![Mauritius-Climate.jpg](/uploads/Mauritius-Climate.jpg "Photo: Ludovic Lubeigt")
 
 ### Sample Activities 
 
