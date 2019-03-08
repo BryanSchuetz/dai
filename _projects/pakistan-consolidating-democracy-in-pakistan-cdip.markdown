@@ -29,3 +29,6 @@ The U.K. Department for International Development (DFID)-funded Consolidating De
 
 * Held an event with 150 participants to observe 2017 International People With Disabilities Day. The event served as a platform for the Election Commission of Pakistan to inform the PWD community about steps taken to accommodate voters with disabilities.  
 * Organised a National Dialogue about closing the gender gap in Pakistan’s Electoral Rolls. The dialogue opened with an expert briefing on the current situation, followed by a moderated roundtable by on key challenges and barriers to women’s voter registration, and a dialogue on policy recommendations to close the gender gap in electoral rolls.
+* Helped register more than 184,000+ women as voters.
+* Reached 9.7 million citizens through a radio campaign stressing women’s electoral participation.
+* Ran a media campaign to inform citizens about the process required to check and update their details in the national electoral rolls. Some 1.5 million people visited electoral roll display centres and almost 900,000 applied for changes.
