@@ -16,7 +16,7 @@ Prepared by KOIS Invest, USAID’s Global Health Bureau’s Center for Innovatio
 
 2. **Identify project champions and key expert resources:** To support design and implementation of the transaction. 
 
-3. **Leverage non-financial possibilities:** Other instruments, such as convening power, may be needed to achieve the desired impact from the blended finance transaction.
+3. **Leverage the broader USAID toolkit:** Grant capital and credit guarantees, technical expertise in global health, convening power and credibility, country presence and relationships, and policy influence.
 
 4. **Engage stakeholders:** Involve all key stakeholders at all stages of the transaction and ensure objectives are aligned.
 
