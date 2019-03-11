@@ -1,7 +1,6 @@
 ---
 title: USAID Launches Roadmap for Attracting Investments in Global Health
 date: 2019-03-11 18:39:00 Z
-published: false
 summary: 'The U.S. Agency for International Development recently launched the *Blended
   Finance Roadmap for Global Health* to help agency units and other donors and partners
   attract investors for public health initiatives. '
