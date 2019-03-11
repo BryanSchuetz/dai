@@ -18,10 +18,10 @@ Prepared by KOIS Invest, USAID’s Global Health Bureau’s Center for Innovatio
 
 3. **Leverage non-financial possibilities:** Other instruments, such as convening power, may be needed to achieve the desired impact from the blended finance transaction.
 
-4. **Engage stakeholders:** Actively involve all key stakeholders at all stages of the transaction and ensure objectives are aligned.
+4. **Engage stakeholders:** Involve all key stakeholders at all stages of the transaction and ensure objectives are aligned.
 
 5. **Attract/encourage new businesses and actors** into public health.
 
-“The private sector has recently emerged as a critical player in development with increasing investments in low- and middle-income countries … partnership opportunities have led to new ways of working toward a healthier world free of poverty,” write USAID’s Amy Lin and Priya Sharma of USAID’s Center for Innovation and Impact in the roadmap’s foreword.
+“The private sector has recently emerged as a critical player in development with increasing investments in low- and middle-income countries … and partnership opportunities have led to new ways of working toward a healthier world free of poverty,” write USAID’s Amy Lin and Priya Sharma of USAID’s Center for Innovation and Impact in the roadmap’s foreword.
 
 The roadmap was developed as a practical resource to help close a funding gap that hinders progress on neo-natal and maternal health, nutrition, disease mitigation, and other health challenges. USAID is encouraging blended finance approaches as part of its [Private Sector Engagement Policy](https://www.usaid.gov/work-usaid/private-sector-engagement/policy), released in December. KOIS, USAID, and DAI will be reviewing the roadmap for USAID units and others at upcoming events.
