@@ -8,7 +8,7 @@ summary: The four-year, DFID-funded, Tackling Deadly Diseases Programme (TDDAP) 
   infectious diseases as an entry point for improved adherence to International Health
   Regulation standards at the national, district, sub-district, and community levels.
 start: 2019
-end: 2024
+end: 2022
 client: U.K. Department for International Development
 solutions:
 - Global Health
