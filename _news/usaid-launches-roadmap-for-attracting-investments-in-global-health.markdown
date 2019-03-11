@@ -5,6 +5,7 @@ published: false
 summary: 'The U.S. Agency for International Development recently launched the *Blended
   Finance Roadmap for Global Health* to help agency units and other donors and partners
   attract investors for public health initiatives. '
+social-image: "/uploads/DAI-News----Health-Finance-Roadmap.jpg"
 ---
 
 The U.S. Agency for International Development (USAID) recently launched the *[Blended Finance Roadmap for Global Health](https://www.usaid.gov/cii/blended-finance)* to help agency units and other donors and partners attract investors for public health initiatives. The 32-page guide includes steps to analyze investment opportunities as well as analyses from India and Tanzania on public-private avenues for financing.
@@ -15,9 +16,9 @@ Prepared by KOIS Invest, USAID’s Global Health Bureau’s Center for Innovatio
 
 2. **Identify project champions and key expert resources:** To support design and implementation of the transaction. 
 
-**3. Leverage broader possibilities:** Other instruments, including non-financial tools such as convening power, may be needed to achieve the desired impact from the blended finance transaction.
+3. **Leverage broader possibilities:** Other instruments, including non-financial tools such as convening power, may be needed to achieve the desired impact from the blended finance transaction.
 
-**4. Engage stakeholders:** Actively involve all key stakeholders at all stages of the transaction and ensure objectives are aligned.
+4. **Engage stakeholders:** Actively involve all key stakeholders at all stages of the transaction and ensure objectives are aligned.
 
 5. **Attract/encourage new businesses and actors** into public health.
 
