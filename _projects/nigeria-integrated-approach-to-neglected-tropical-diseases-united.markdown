@@ -1,9 +1,10 @@
 ---
 title: Nigeria—Integrated Approach to Neglected Tropical Diseases (UNITED)
 date: 2017-08-24 14:39:00 Z
-summary: UNITED supports the Nigerian government in controlling seven neglected tropical
-  diseases, which are preventable with proven, cost-effective interventions such as
-  mass drug administration through efficient health systems.
+summary: The Integrated Approach to Neglected Tropical Diseases Programme (UNITED)  supports
+  the Nigerian government in controlling seven neglected tropical diseases—blinding
+  trachoma, bilharzia, elephantiasis, river blindness, hookworm, whipworm, and roundworm.
+  DAI Global Health is responsible for the health systems strengthening workstream.
 start: 2013
 end: 2019
 client: U.K. Department for International Development

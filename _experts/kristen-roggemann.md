@@ -6,7 +6,7 @@ summary: Kristen Roggemann has extensive field experience in the Middle East and
   working on mobile-for-development initiatives in both public and private sector
   contexts.
 job-title: Partnerships and Insights Senior Manager, Center for Digital Acceleration
-image: https://assetify-dai.com/experts/KristenInner.jpg
+image: "/uploads/Kristen%20Roggeman.jpg"
 solutions:
 - Digital Acceleration
 - Economic Growth

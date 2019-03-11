@@ -21,9 +21,9 @@ promos:
 layout: project
 ---
 
-DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of the Foundation for Partnership Initiatives in the Niger Delta (PIND), a Nigerian-registered [foundation,](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220) by helping outline a strategy for its economic development program, specifically orienting its activities around a Making Markets Work for the Poor (M4P) approach and developing monitoring and evaluating mechanisms to document their impact. Collectively, these recommendations informed the principles of intervention, program areas, sustainable outcomes, and intermediate and final impacts of the Foundations 2011–2014 Strategic Plan. We also identified resources to execute the economic development component of the plan, and established criteria for prioritizing projects and selecting implementing partners.
+DAI assisted the Chevron Corporation with the [strategic design ](https://www.devex.com/en/news/chevron/81078)of the Foundation for Partnership Initiatives in the Niger Delta (PIND), a Nigerian-registered [foundation,](https://www.devex.com/en/news/beyond-philanthropy-what-happens-when-a/82220) by helping outline a strategy for its economic development program, specifically orienting its activities around a market systems approach and developing monitoring and evaluating mechanisms to document their impact. Collectively, these recommendations informed the principles of intervention, program areas, sustainable outcomes, and intermediate and final impacts of the Foundation's 2011–2014 Strategic Plan. DAI also identified resources to execute the economic development component of the plan, and established criteria for prioritizing projects and selecting implementing partners.
 
-![](https://assetify-dai.com/projects/PIND.jpg)
+![PIND-3.jpg](/uploads/PIND-3.jpg)
 
 ### Sample Activities
 
@@ -35,10 +35,12 @@ DAI assisted the Chevron Corporation with the [strategic design ](https://www.de
 
 ### Select Results
 
-* Identified key economic sector opportunities in the Delta Region through industry studies and value chain analyses to determine the optimum point of leverage for market strengthening interventions and focusing on broader value chains for which Chevron's significant spend represents a strong growth market.
-* Identified and addressed underlying causes of weak market performance and the exclusion of the poor by facilitating changes in market systems to improve incomes.
-* Designed Chevron's Economic Development Program, which informs interventions, program areas, sustainable outcomes, and intermediate and final impacts of PIND's Strategic Plan 2011–2014, and developed monitoring and evaluating mechanisms to document impact.
+* Identified economic sector opportunities in the Delta Region through industry studies and value chain analyses to determine the optimum point of leverage for market strengthening interventions and focusing on broader value chains for which Chevron's significant spend represents a strong growth market.
 * Operating an Economic Development Center in Warri, Nigeria, to allow communities to take advantage of opportunities in Chevron and surrounding supply chains.
-* Decreased violent social disruptions and reduced social risks due to higher levels of inclusive growth.
-* Lowered costs for goods and services sourced locally due to more competitive business practices.
 * [Increased the quality](http://www.usglc.org/global-impact-project/stories/championing-peace-stability-niger-delta/) of local goods and services from better production techniques.
+* Helped 560,000 farmers improve their farming and business skills.
+* 300,000 PIND-assisted farmers and small and medium-sized enterprises have increased their incomes by a cumulative $56.5 million.
+* Created more than 12,000 jobs.
+* Produced more than 50 research articles on equitable socioeconomic programs, gender inclusion, infrastructure needs, and other areas that underpin development assistance in Nigeria by PIND and others.
+* Leveraged $100 million in development assistance by donors such as the U.S. Agency for International Development, U.K. Department for International Development, UNICEF, and the Ford Foundation.
+

@@ -25,7 +25,7 @@ DAI applied a [market systems approach](http://dai.com/news-publications/news/ne
 
 Funded under the Feed the Future initiative, this project worked to strengthen 10 agricultural value chains through a [range](http://dai-global-developments.com/articles/market-systems-development-boosts-farming-nutrition-in-bangladeshs-southern-delta/?utm_source=daidotcom) of tools, platforms, and agreements to implement large-scale, systemic interventions. We forged agreements with 25 of the most influential private sector firms and organizations in the agricultural sector; through these agreements, [AVC](http://avcbd.net/) leveraged private sector interests and investment opportunities to drive more inclusive growth.
 
-AVC’s wok resulted in increased access to and availability of diverse and nutritious fruits, vegetables, and pulses in local, regional, and national markets and contributed significantly to improving food security in the Southern Delta. The project helped facilitate US$19.4 million in new private sector investment and ultimately benefitted 307,419 rural households.
+[AVC’s work resulted in](https://www.marketlinks.org/sites/marketlinks.org/files/resources/bavc_systemic_change_cla_case_study_july_2018_3.pdf) increased access to and availability of diverse and nutritious fruits, vegetables, and pulses in local, regional, and national markets and contributed significantly to improving food security in the Southern Delta. The project helped facilitate $19.4 million in new private sector investment and ultimately benefitted 307,419 rural households.
 
 Read more from the project on lessons learned from the [project’s blog](http://avcbd.net/blog/).
 ![](https://assetify-dai.com/projects/Bangladesh-AVC-photo.jpg)

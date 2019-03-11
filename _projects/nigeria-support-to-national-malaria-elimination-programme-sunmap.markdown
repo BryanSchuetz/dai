@@ -1,8 +1,9 @@
 ---
 title: Nigeria—Support to National Malaria Elimination Programme (SuNMaP)
 date: 2017-08-29 17:59:00 Z
-summary: 'The Support to the National Malaria programme worked in close cooperation
-  with Nigeria’s National Malaria Control Elimination Programme in 10 states. '
+summary: 'The Support to the Nigeria Malaria Elimination Program (SUNMAP) strengthened
+  Nigerian government management capacity by streamlining policy development, planning
+  and coordination of malaria control activities in 10 states. '
 start: 2008
 end: 2016
 client: U.K. Department for International Development

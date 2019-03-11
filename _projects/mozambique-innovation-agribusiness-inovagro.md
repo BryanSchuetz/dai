@@ -20,13 +20,13 @@ layout: project
 
 Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. The Swiss Agency for Development Cooperation is working with Mozambique’s government to increase farmers’ incomes in this region through the Innovation for Agribusiness (InovAgro) project. Launched in 2011, InovAgro promotes the development of inclusive and sustainable market systems, also known as Making Markets Work for the Poor.
 
-InovAgro III builds on the program’s previous phases by further strengthening the capacity of seed companies and input suppliers to provide extension services to small farmers across five target value chains. The project also works with rural communities to [improve their access to credit](http://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree/) and their land tenure security as a means to increasing agricultural productivity. In addition, InovAgro collaborates with local and national government stakeholders to promote agricultural and economic reforms.
+InovAgro III builds on the program’s previous phases by further strengthening the capacity of seed companies and input suppliers to provide extension services to small farmers across five target value chains. The project also works with rural communities to [improve their access to credit](http://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree/) and their land tenure security as a means to increasing agricultural productivity. In addition, [InovAgro](https://www.eda.admin.ch/deza/en/home/countries/mozambique.par2_projectfilter_page1.html/content/dezaprojects/SDC/en/2011/7F06353/phase3) collaborates with local and national government stakeholders to promote agricultural and economic reforms.
 
 <iframe src="https://DAIGlobal.exposure.co/the-seeds-of-transformation/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/the-seeds-of-transformation">The Seeds of Change</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a>
 
 ### Sample Activities
 
-* [Increase farmers’ access](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) to certified seeds and quality inputs.
+* [Increase farmers’ access](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) to certified seeds and quality inputs, with a special focus on including [female farmers](https://www.shareweb.ch/site/Gender/Pages/About/International%20Women%20Day.aspx). 
 * Strengthen village savings and loan groups.
 * Partner with agrodealers to develop new products and services targeted at small farmers.
 * Link financial institutions with farmers to improve access to credit.

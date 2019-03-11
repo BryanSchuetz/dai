@@ -1,10 +1,10 @@
 ---
 title: Nigeria—Malaria Action Program for States (MAPS)
 date: 2017-08-21 18:13:00 Z
-summary: The Malaria Action Program for States was a comprehensive five-year program
-  that increased coverage and use of life-saving malaria interventions in support
-  of the Nigeria National Malaria Strategic Plan and the National Malaria Elimination
-  Program.
+summary: 'The Malaria Action Program for States (MAPS) program in Nigeria, was a comprehensive
+  five-year program that increased coverage and use of life-saving malaria interventions
+  in support of the Nigeria National Malaria Strategic Plan and the National Malaria
+  Elimination Program. '
 start: 2010
 end: 2016
 client: U.S. Agency for International Development
