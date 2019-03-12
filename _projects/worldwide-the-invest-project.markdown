@@ -16,7 +16,7 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: Latest Quarterly Report
-  link: https://dai0.sharepoint.com/Projects/ProjectDocuments/Invest%20Document%20Set/INVEST%20Quarterly%20Report_FY2Q1_Jan2019%20(External).pdf
+  link: "/uploads/INVEST%20Quarterly%20Report_FY2Q1_Jan2019%20(External).pdf"
 - title: INVEST 2018 Annual Report
   link: "/uploads/INVEST%20Annual%20Report%20-%202018%20-%20DEC.pdf"
 ---
