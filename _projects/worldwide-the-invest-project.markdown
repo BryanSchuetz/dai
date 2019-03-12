@@ -42,3 +42,4 @@ Based in Washington, D.C., the INVEST project includes subcontractors CrossBound
 * Completed a rapid assessment of Gender Lens Investing opportunities in five countries in sub-Saharan Africa, identifying 25 opportunities and recommendations for [USAID’s GenDev programming](https://www.usaid.gov/what-we-do/gender-equality-and-womens-empowerment).
 * Conducted a market assessment and designed a blended finance funding platform for USAID India to mobilize resources and invest in the tuberculosis, water, sanitation, and hygiene (WASH), environmental, energy, and health sectors.
 * Mobilized advisors to conduct rapid assessments of sectors to encourage investment in Afghanistan, with a focus on deal-making for investment and trade partnerships between Afghanistan and India.
+* Assisted in development of the "[Blended Finance Roadmap for Global Health](https://www.dai.com/news/usaid-launches-roadmap-for-attracting-investments-in-global-health)."
