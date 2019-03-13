@@ -1345,6 +1345,10 @@ iframe{
 .refine-button{
 
 }
+#rev-box{
+  width: 30%;
+  float: left;
+}
 #refine{
   display: none;
   @include responsive(medium-screens){
@@ -1352,6 +1356,7 @@ iframe{
   }
   width: 30%;
   float: left;
+  clear: left;
 }
 .ais-refinement-list--item{
   margin-bottom: .5rem;
@@ -1403,7 +1408,7 @@ h3.alg-title:hover{
   cursor: pointer;
 }
 .menu-item--label{
-  text-transform: capitalize;
+  
 }
 .ais-menu--header, .ais-refinement-list--header{
   margin-bottom: 1rem;
