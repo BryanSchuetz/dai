@@ -1,6 +1,5 @@
 ---
 title: Resource Library
-published: false
 summary: A growing collection of print publications focused on Health.
 layout: default
 ---

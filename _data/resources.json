@@ -561,5 +561,40 @@
       "docFilename": "hpi-safe-motherhood.pdf",
       "docThumbnail": "hpi-safe-motherhood_page1.jpeg",
       "year": 2016
+    },
+    {
+      "docTitle": "One Health Assessment for Planning and Performance",
+      "docSummary": "The Preparedness & Response project developed the One Health Assessment for Planning and Performance (OH-APP) tool for countries to self-assess, using a participatory and evidence-based process, their capacity and performance to prevent, detect, and respond to public health threats.",
+      "organization": "Preparedness and Response",
+      "docType": [
+        "Infographics"
+      ],
+      "source": "",
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness"
+      ],
+      "technicalTerms": [
+      ],
+      "docFilename": "pandr-one-health-assessment-infographic.pdf",
+      "docThumbnail": "pandr-one-health-assessment-infographic_page1.jpeg",
+      "year": 2019
+    },
+    {
+      "docTitle": "Promoting Respectful Maternal Health Services in rural Zambia",
+      "docSummary": "The publication covers the impact of the MORE MAMaZ project between 2014-2016 and shares how interventions on social inclusion and orientation of health care providers on essential preventive and curative maternal and newborn health services led to reaching most vulnerable individuals and families in rural Zambian communities.",
+      "organization": "Health Partners International",
+      "docType": [
+        "Technical Brief"
+      ],
+      "source": "",
+      "solutions": [
+        "Health Systems Strengthening"
+      ],
+      "technicalTerms": [
+        "Human Resources for Health","Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+      ],
+      "docFilename": "promoting-respectful-maternal-health-services-in-rural-zambia.pdf",
+      "docThumbnail": "promoting-respectful-maternal-health-services-in-rural-zambia_page1.jpeg",
+      "year": 2019
     }
 ]
