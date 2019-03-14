@@ -19,7 +19,7 @@ country: Mexico
 
 The U.K. Foreign and Commonwealth Office aims to promote energy-driven low-carbon growth, reducing poverty, and generating new market opportunities for symbiotic U.K. partnerships and investments. DAI's core partners on the project include Wood PLC, OPITO, and Ogilvy.
 
-DAI will implement its local business development center model at scale, drawing from similar SBG initiatives in Canada, [Ghana](https://www.dai.com/our-work/projects/ghana-local-content-training), [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), Mozambique, Oman, Suriname, and [Trinidad and Tobago](https://www.dai.com/our-work/projects/trinidad-and-tobago-local-content-study).
+DAI will implement its local business development center model at scale, drawing from similar initiatives in Canada, [Ghana](https://www.dai.com/our-work/projects/ghana-local-content-training), [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), Mozambique, Oman, Suriname, and [Trinidad and Tobago](https://www.dai.com/our-work/projects/trinidad-and-tobago-local-content-study).
 
 Kicking off at a time of immense change in the Mexican energy sector, the Energy Services Programme will focus on gender-inclusive interventions to support Mexico’s transition to a low-carbon economy.
 
