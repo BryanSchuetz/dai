@@ -89,7 +89,7 @@ search.addWidget(
     sortBy: ["name:asc"],
     templates: {
       header: 'Filter Results by Solution:',
-      item: '<div class="menu-item"><span class="menu-item--label">{{ label }} </h3></span>'
+      item: '<div class="menu-item"><span class="menu-item--label {{label | slugify }}">{{ label }} </h3></span>'
     }
   })
 );
