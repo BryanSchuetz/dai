@@ -68,8 +68,20 @@ Tel: +44 (0) 203 943 3216<br>
     Canberra, Australia<br>
     Tel: +61 2 6162 1621</p>
 
-    <p><strong>Additional Email Contacts</strong><br>
-    <a href="mailto:steven_o'connor@dai.com">Press Inquiries</a></p>
-
+<h2 id="uk">Africa</h2>
+  <p>
+    <strong>Abuja, Nigeria</strong><br>
+    13b Ontario Crescent<br>
+    Maitama, Abuja 900271<br>
+    Tel: +234 818 800 5248<br>
+    <a href="mailto:dainigeria@dai.com">Email</a>
+  </p>
+  <p>
+    <strong>Lagos, Nigeria</strong><br>
+    3a Eko Akete Close<br>
+    Off St Gregory’s College Road<br>
+    Ikoyi, Lagos<br>
+    +234.1 291.8657<br>
+  </p>
   </div>
 </div>

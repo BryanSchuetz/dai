@@ -34,10 +34,33 @@ DAI joined forces with GRID Consulting in 2018. The combined entity—complement
 
 From this integrated platform, DAI is able to recruit, retain, support, and ensure the security of the people who deliver our work in Nigeria and the region, in full compliance with local laws and regulations and with DAI’s global standards. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and supports to partners, customers, and beneficiaries. 
 
+{% include help-desk.html %}
+
+--- 
+
+## Contact DAI in Nigeria
+<a href="mailto:dainigeria@dai.com">Email</a>
+<div style="width: 45%; float: left; margin-right: 10%;">
+  <p>
+    <strong>Abuja Office</strong><br>
+    13b Ontario Crescent<br>
+    Maitama, Abuja 900271<br>
+    Tel: +234 818 800 5248<br>
+  </p>
+</div>
+ 
+<div style="width: 45%; float: left;">
+  <p>
+    <strong>Lagos Office</strong><br>
+    3a Eko Akete Close<br>
+    Off St Gregory’s College Road<br>
+    Ikoyi, Lagos<br>
+    +234.1 291.8657<br>
+  </p>
+</div>
+
 <!-- <a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/solutions" target="blank" class="primary-block--button expert-button paola-block">Our Solutions <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/services" target="blank" class="primary-block--button expert-button paola-block">Our Services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <a style="display: block; clear: left; display: block; margin-bottom: .5rem;" href="/who-we-are/global-reach/nigeria/projects" target="blank" class="primary-block--button expert-button paola-block">Projects and News <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
-
-{% include help-desk.html %}
