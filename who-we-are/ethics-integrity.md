@@ -18,14 +18,14 @@ promos:
 - title: Code of Business Conduct and Ethics - Bahasa Indonesia
   link: http://dai-global-conduct.com/assets/Bahasa%20Indonesia%20Pedoman%20Bisnis%20dan%20Etika%20DAI.pdf
 - title: Modern Day Slavery and Anti-Human Trafficking
-  link: "/uploads/Modern%20Day%20Slavery%20and%20Anti-Human%20Trafficking%20Statement.pdf"
-layout: node
+  link: "/uploads/Modern%20Slavery%20Statement%202019%20.pdf"
 summary: 'DAI implements stringent policies and processes to ensure that our projects
   succeed in a compliant and ethical manner, and DAI employees play a pivotal role
   in upholding DAI’s high standards.
 
 '
 hero: true
+layout: node
 ---
 
 Ethics, integrity, and compliance are fundamental DAI values at the core of how DAI interacts with clients, partners, employees, and vendors across the globe. These values are embodied in DAI’s Global Ethics and Compliance Program, which is affirmed by DAI’s Board of Directors, and applied across the entire company and all entities in which DAI has an ownership position.
