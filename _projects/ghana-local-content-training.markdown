@@ -17,4 +17,4 @@ The Sustainable Business Group (SBG) delivered training to officials from the Gh
 
 Attended by 24 officials, the course included models and software to optimize local content against targets and facilitate the verification of company local content plans and performance reports. 
 
-![Ghana oil.jpg](/uploads/Ghana%20oil.jpg)
+![Ghana-oil.jpg](/uploads/Ghana-oil.jpg)
