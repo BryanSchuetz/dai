@@ -15,7 +15,7 @@ layout: default
   <hr>
 {%- endfor -%} -->
 
-# DAI Global Health Resources Library
+# DAI Global Health Resource Library
 
 By freely sharing what we learn, we have built a reputation as thought leaders who translate ideas into action and action into results. You can search through our collection of standalone resources below.
 
