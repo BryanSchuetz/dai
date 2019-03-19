@@ -10,6 +10,7 @@ image: "/uploads/Andrew%20McKenzie%20DAI%20site.jpg"
 solutions:
 - Health Governance
 - Global Health
+- Global Health Security and Pandemic Preparedness
 regions:
 - Sub-Saharan Africa
 articles:

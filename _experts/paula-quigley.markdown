@@ -10,6 +10,7 @@ image: "/uploads/Paula%20Quigley%20DAI%20site.jpg"
 solutions:
 - Global Health
 - Health Governance
+- Global Health Security and Pandemic Preparedness
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific

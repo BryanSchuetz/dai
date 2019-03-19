@@ -14,7 +14,6 @@ image: https://assetify-dai.com/experts/SambeInner_0.jpg
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
-- 
 regions:
 - Asia and the Pacific
 - Middle East and North Africa

@@ -10,6 +10,7 @@ client: U.K. Department for International Development
 solutions:
 - Global Health
 - Health Governance
+- Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

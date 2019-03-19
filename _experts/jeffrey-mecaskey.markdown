@@ -12,6 +12,7 @@ image: "/uploads/Jeff%20Mecaskey%20DAI%20site.jpg"
 solutions:
 - Health Governance
 - Global Health
+- Global Health Security and Pandemic Preparedness
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific
