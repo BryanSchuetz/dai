@@ -166,7 +166,7 @@ DAI leads customized courses upon request for private sector or government clien
 * Spearheaded a Local Content Regime Analysis in seven countries including Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania, Papua New Guinea, and Uganda, to provide a comparative analysis of the impacts of various local content regimes
 * Recently led the Local Content Strategy Project for ExxonMobil Ghana, which included both an industrial baseline analysis of the Ghanaian offshore petroleum industry to assess the ability of local suppliers, as well as an analysis of the Ghanaian regulatory requirements
 * Summer guest lecturer on social change at Georgetown University
-* Guest panelist and keynote speaker at events such as the Lebanon Oil and Gas Summit 2017 and Mozambique Local Content Policy Options Forum, 2015, on topics including local content, supplier development, PPPs and inclusive economic growth in extractive industries
+* Guest panelist and keynote speaker at events such as the Lebanon Oil and Gas Summit and Mozambique Local Content Policy Options Forum, on topics including local content, supplier development, PPPs, and inclusive economic growth in extractive industries
 
 <hr>
 
