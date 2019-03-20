@@ -16,7 +16,7 @@ promos:
   link: "/our-work/the-projects?filter=global-health"
 - title: "**News:** Recent Global Health News"
   link: "/news/view-more-news?filter=global-health"
-- title: "DAI Global Health Resource Library"
+- title: DAI Global Health Resource Library
   link: "/resource-library"
 related: false
 hero: true
