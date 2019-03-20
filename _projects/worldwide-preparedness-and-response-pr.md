@@ -3,9 +3,9 @@ title: Worldwide—Preparedness and Response (P&R)
 date: 2016-01-21 22:40:00 Z
 summary: 'The P&R project helps address the practical issues confronting national
   governments as they strive to cope with the human, financial, and logistical constraints
-  associated with pandemic threats. The objectives are: 1. national One Health platforms
-  established and strengthened; and 2. national preparedness and response plans developed,
-  tested, implemented, and evaluated. '
+  associated with pandemic threats. The objectives are: 1) national One Health platforms
+  established and strengthened; and 2) national preparedness and response plans developed,
+  tested, implemented, and evaluated.'
 start: 2014
 end: 2019
 client: U.S. Agency for International Development
