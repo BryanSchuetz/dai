@@ -2,10 +2,11 @@
 title: Worldwide—Preparedness and Response (P&R)
 date: 2016-01-21 22:40:00 Z
 published: false
-summary: The Preparedness and Response (P&R) project is one component of the U.S.
-  Agency for International Development's Emerging Pandemic Threats (EPT 2) program.
-  The EPT initiative detects and responds to viruses such as Ebola, avian influenza,
-  and MERS that move between animal and human populations.
+summary: 'The P&R project helps address the practical issues confronting national
+  governments as they strive to cope with the human, financial, and logistical constraints
+  associated with pandemic threats. The objectives are: 1. national One Health platforms
+  established and strengthened; and 2. national preparedness and response plans developed,
+  tested, implemented, and evaluated. '
 start: 2014
 end: 2019
 client: U.S. Agency for International Development
