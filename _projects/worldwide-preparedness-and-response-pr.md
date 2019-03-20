@@ -1,6 +1,7 @@
 ---
 title: Worldwide—Preparedness and Response (P&R)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: The Preparedness and Response (P&R) project is one component of the U.S.
   Agency for International Development's Emerging Pandemic Threats (EPT 2) program.
   The EPT initiative detects and responds to viruses such as Ebola, avian influenza,
@@ -19,24 +20,30 @@ country:
 layout: project
 ---
 
-The Preparedness and Response (P&R) project is one component of the U.S. Agency for International Development's[ Emerging Pandemic Threats (EPT 2)][1] program. The EPT initiative detects and responds to viruses such as Ebola, avian influenza, and MERS that move between animal and human populations. EPT is, in turn, part of the U.S. Global Health Security Agenda, which brings together U.S. Government agencies and other national governments to address natural and manmade disease threats worldwide.
+The Preparedness and Response (P&R) project is one component of the U.S. Agency for International Development’s [Emerging Pandemic Threats (EPT 2)](http://www.usaid.gov/sites/default/files/documents/1864/preparedness-response-factsheet %281%29.pdf) program. The EPT initiative prepares for, detects, and responds to outbreaks such as Ebola, avian influenza, and MERS that move between animal and human populations. EPT is, in turn, part of the U.S. Global Health Security Agenda, which brings together U.S. Government agencies and other national governments to address natural and manmade disease threats worldwide.
 
-[P&R](http://preparednessandresponse.org/) has a dual mandate to help countries design and implement national preparedness and response plans for public health events of unknown etiology and to establish and strengthen National One Health Platforms. Our goal is to help address the practical issues confronting national governments as they strive to cope with the human, financial, and logistical constraints associated pandemic threats. The P&R project provides technical assistance and training services to build national and regional capacity in a sustainable manner.
+[P&R](http://preparednessandresponse.org/) has a dual mandate to help countries design and implement national preparedness and response plans for public health events of unknown etiology and to establish and strengthen national One Health platforms. Our goal is to help address the practical issues confronting national governments as they strive to cope with the human, financial, and logistical constraints associated with pandemic threats. The objectives are:
 
-[Listen to a podcast](https://soundcloud.com/csis-57169780/frontline-perspectives-on-pandemic-preparedness) about the global threat of pandemics with experts from P&R. 
+1. National One Health platforms established and strengthened;
+2. National preparedness and response plans developed, tested, implemented, and evaluated. 
+
+The P&R project provides technical assistance to strengthen countries’ multisectoral preparedness efforts. Over the past four years, the project has worked directly in 16 countries: Bangladesh, Cameroon, Cote D’ Ivoire, Ethiopia, Guinea, Indonesia, Kenya, Laos, Liberia, Mali, Rwanda, Sierra Leone, Tanzania, Thailand, Uganda, and Vietnam.
+[Listen to a podcast](https://soundcloud.com/csis-57169780/frontline-perspectives-on-pandemic-preparedness) about the global threat of pandemics with experts from P&R.
 
 <iframe src="https://player.vimeo.com/video/271122811" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-###  Sample Activities
+### Sample Activities
+* Organize One Health sensitization to assist stakeholders in advocating for a One Health approach;
+* Conduct leadership trainings to strengthen One Health platform operations;
+* Facilitate One Health for Planning and Performance (OH-APP) workshops to help countries self-assess the capacity and performance of their multisectoral One Health platforms;
+* Provide technical assistance for outbreak response;
+* Facilitate disease outbreak after action reviews to identify strengths and weaknesses and agree on necessary action to improve response. 
 
-* Facilitate workshops to strengthen national capacities to identify and respond to Ebola and other significant public health events.
-* Design outbreak scenarios to evaluate countries' national Ebola preparedness plans, identify gaps, and develop plans to address the gaps.
-* Work with governments to improve incident command systems, contact tracing, and risk communications.
+### Select Results
+* Launched or reinvigorated national One Health platforms in 15 countries, and strengthened the preparedness and response planning capabilities in 15 countries.
+* Provided technical assistance for outbreak response in seven countries.
+* Conducted 12 preparedness and response simulations in seven countries.
 
-###  Select Results
-
-* Creating One Health platforms in 15 countries to act as networks to stop the spread of pandemic diseases: Bangladesh, Cameroon, Cote D' Ivoire, Ethiopia, Guinea, Indonesia, Kenya, Laos, Liberia, Mali, Sierra Leone, Tanzania, Thailand, Uganda, and Vietnam. 
-* Supported platform response to avian influenza and anthrax outbreaks in nine countries. 
-* Helped Liberia respond quickly to quell a meningitis outbreak.
+For more information about the Preparedness and Response global impact, click here.
 
 [1]: http://www.usaid.gov/sites/default/files/documents/1864/preparedness-response-factsheet%20%281%29.pdf
