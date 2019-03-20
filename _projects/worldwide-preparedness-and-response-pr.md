@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Preparedness and Response (P&R)
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: 'The P&R project helps address the practical issues confronting national
   governments as they strive to cope with the human, financial, and logistical constraints
   associated with pandemic threats. The objectives are: 1. national One Health platforms
