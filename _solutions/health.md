@@ -4,10 +4,10 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/global-health
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
-summary: With more than 20 years of experience and technical know-how in health
-  systems strengthening, global health security, and human-centered digital design,
-  our global health team delivers holistic, tech-enabled solutions to save lives and
-  improve well-being worldwide.
+summary: With more than 20 years of experience and technical know-how in health systems
+  strengthening, global health security, and human-centered digital design, our global
+  health team delivers holistic, tech-enabled solutions to save lives and improve
+  well-being worldwide.
 type: primary
 promos:
 - title: "**Our Team:** DAI Global Health Experts"
