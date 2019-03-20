@@ -33,6 +33,7 @@ The P&R project provides technical assistance to strengthen countries’ multise
 <iframe src="https://player.vimeo.com/video/271122811" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ### Sample Activities
+
 * Organize One Health sensitization to assist stakeholders in advocating for a One Health approach;
 * Conduct leadership trainings to strengthen One Health platform operations;
 * Facilitate One Health for Planning and Performance (OH-APP) workshops to help countries self-assess the capacity and performance of their multisectoral One Health platforms;
@@ -40,10 +41,9 @@ The P&R project provides technical assistance to strengthen countries’ multise
 * Facilitate disease outbreak after action reviews to identify strengths and weaknesses and agree on necessary action to improve response. 
 
 ### Select Results
+
 * Launched or reinvigorated national One Health platforms in 15 countries, and strengthened the preparedness and response planning capabilities in 15 countries.
 * Provided technical assistance for outbreak response in seven countries.
 * Conducted 12 preparedness and response simulations in seven countries.
 
-For more information about the Preparedness and Response global impact, click here.
-
-[1]: http://www.usaid.gov/sites/default/files/documents/1864/preparedness-response-factsheet%20%281%29.pdf
+For more information about the Preparedness and Response global impact, [click here](/uploads/Global%20EOP%20Flyer_Final.pdf).
