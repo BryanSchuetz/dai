@@ -10,7 +10,7 @@ summary: 'Jerry Martin, DAI’s Senior Director for Global Health Security, co-a
   a *Lancet* article, “Building the Case for Embedding Global Health Security into
   Universal Health Coverage: A Proposal for a Unified Health System That Includes
   Public Health.” '
-social-image: "/uploads/P&R%203-18c4c8.jpg"
+social-image: "/uploads/66cea5d4-4580-49ad-8eb9-e8c335db3185.jpg"
 ---
 
 Historically speaking—and perhaps surprisingly—the field of global health security has been distinct from the discipline of health system strengthening and the goal of universal health coverage. International assistance for global health security tends to focus on building country capacity to contain infectious diseases before they become national, cross-border, and global threats. This approach includes convening leaders in human and animal health, laboratory science, and emergency response who then create and execute plans to predict, prepare for, detect, and respond to disease outbreaks. 
