@@ -3,6 +3,18 @@ title: 'DAI Global Health Event Showcases the USAID P&R Legacy: Governments Bett
   Equipped to Control Infectious Disease'
 date: 2019-03-21 18:19:00 Z
 published: false
+solutions:
+- Global Health
+- Governance
+regions: Worldwide
+projects: Worldwide—Preparedness and Response (P&R)
+clients: U.S. Agency for International Development
+summary: The U.S. Agency for International Development (USAID) launched its Preparedness
+  and Response P&R project five years ago to help select countries tackle deadly infectious
+  diseases. In part because six in 10 infectious diseases in humans are spread from
+  animals, P&R brought together country leaders in the human, animal, and environmental
+  health sectors so they could build national One Health platforms to prepare, detect,
+  and respond to disease outbreaks using a multisectoral approach.
 ---
 
 The U.S. Agency for International Development (USAID) launched its [Preparedness and Response (P&R)](http://preparednessandresponse.org/) project five years ago to help select countries tackle deadly infectious diseases. In part because [six in 10](https://www.cdc.gov/onehealth/index.html) infectious diseases in humans are spread from animals, P&R brought together country leaders in the human, animal, and environmental health sectors so they could build national [One Health](https://www.onehealthapp.org/about) platforms to prepare, detect, and respond to disease outbreaks using a multisectoral approach.
