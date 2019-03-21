@@ -46,4 +46,4 @@ The P&R project provides technical assistance to strengthen countries’ multise
 * Provided technical assistance for outbreak response in seven countries.
 * Conducted 12 preparedness and response simulations in seven countries.
 
-For more information about the Preparedness and Response global impact, [click here](/uploads/Global%20EOP%20Flyer_Final.pdf).
+For more information about the Preparedness and Response global impact, click here.
