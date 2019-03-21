@@ -29,8 +29,8 @@ Presentations at the event included: USAID’s Investments in Emerging Pandemic 
 The P&R project set out in 2014 with a goal to catalyze country-led processes to build coordination between human, animal, and environmental health sectors. P&R designed and implemented its activities to be country-led, country-owned and sustainable, balancing diverse country needs, each with different risk profiles and governance structures.
 
 > **USAID P&R-Client Countries:** 
-**East Africa—**Ethiopia, Kenya, Rwanda, Tanzania, Uganda
-**West Africa—**Cameroon, Cote D' Ivoire, Guinea, Liberia, Mali, Sierra Leone
+**East Africa—**Ethiopia, Kenya, Rwanda, Tanzania, Uganda;
+**West Africa—**Cameroon, Cote D' Ivoire, Guinea, Liberia, Mali, Sierra Leone;
 **Southeast Asia—**Bangladesh, Indonesia, Laos, Thailand, Vietnam
 
 For each country, P&R organized its work around: 1) creating national structures that facilitated coordination and broad collaboration, and 2) supporting the growth of national platforms that would develop, test, and implement homegrown National Preparedness and Response Plans.
