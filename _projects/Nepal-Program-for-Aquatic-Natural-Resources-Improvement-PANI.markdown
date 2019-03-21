@@ -17,7 +17,7 @@ country: Nepal
 
 The water that courses through Nepal’s great Karnali, Mahakali, and Rapti river basins irrigates the region’s farmland and sustains the health of its people, while also providing a critical habitat for diverse freshwater species, and propelling the hydroelectric dams that help to power the country. However, important water resources such as these are increasingly strained by population growth, climate change, and indiscriminate use—stressors that will become more severe if left unchecked.
 
-The Paani (meaning “water” in Nepali) program, funded by the U.S. Agency for International Development, plays a pivotal role in protecting these critical water resources by working with local and national counterparts to conserve freshwater biodiversity and implement sustainable water management practices.
+The Paani (meaning “water” in Nepali) program, funded by the U.S. Agency for International Development, [plays a pivotal role](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e) in protecting these critical water resources by working with local and national counterparts to conserve freshwater biodiversity and implement sustainable water management practices.
 
 Paani works to raise the profile of freshwater issues through policy engagement, academic research, curriculum development, and sponsorship of international forums. The project emphasizes user-centered design to analyze how various stakeholders, including fishermen, government officials, and hydropower developers, use water resources to better incentivize their engagement in water conservation and management activities.
 
