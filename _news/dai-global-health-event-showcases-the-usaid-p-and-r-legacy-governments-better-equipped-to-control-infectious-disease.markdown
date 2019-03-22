@@ -46,7 +46,7 @@ In most countries, P&R supported one local technical advisor to act as a One Hea
 
 “Coordination among different sectors, levels of government, and technical dimensions doesn’t ‘just happen’—it’s a practice that requires intentional effort,” said DAI’s [Katie Taratus](https://www.dai.com/who-we-are/our-team/katie-taratus), P&R’s project director. “We designed and implemented a cohesive approach to what makes [multisectoral coordination work](/uploads/Conceptual%20Framework%208-17.jpg).”
 
-USAID Senior Public Health Advisor Ricardo Echalar said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multi-sectoral coordination and response within countries.
+USAID Senior Public Health Advisor Ricardo Echalar said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multisectoral coordination and response within countries.
 
 > “It is crucial to see how we can assist these countries to maximize and utilize external resources as well as their own resources—including the private sector and other nontraditional partners—to strengthen their systems for preventing, detecting, and responding to public health threats."—Ricardo Echalar, USAID Senior Public Health Advisor
 
