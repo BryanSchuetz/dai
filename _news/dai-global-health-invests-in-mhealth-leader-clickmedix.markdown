@@ -15,9 +15,9 @@ social-image: "/uploads/Unknown.jpeg"
 
 *Bethesda, Md.*—DAI Global Health and ClickMedix today announced a partnership under which DAI will make a strategic investment in ClickMedix, a leading provider of mobile health and technology services. In turn, ClickMedix will deepen its existing relationship with DAI Global Health to enrich the DAI service offering and take advantage of DAI’s extensive international network and growing portfolio of projects in global health and digital acceleration. 
 
-<!--more--> 
-
 ![ClickMedix](/uploads/Unknown.jpeg)`Health practitioner using ClickMedix’s mHealth kiosk to manage patient care in rural Kenya.`
+
+<!--more--> 
 
 [ClickMedix](https://clickmedix.com/) is a social enterprise dedicated to bringing affordable, high-quality health services to under-served populations. Using a mobile platform that integrates artificial intelligence, point-of-care devices, and data analytics to facilitate diagnosis, predict disease pathways, and tailor ongoing patient care, the company enables health organizations and their frontline health workers to reach more patients while guiding patients to find and afford optimal treatment options—making the goal of universal healthcare steadily more feasible. 
 
