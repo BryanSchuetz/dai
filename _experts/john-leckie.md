@@ -2,7 +2,7 @@
 title: John Leckie
 date: 2016-01-21 22:18:00 Z
 lastname: Leckie
-summary: John Leckie has 17 years of international project experience in the land,
+summary: John Leckie has 19 years of international project experience in the land,
   natural resources, and environment sectors in Europe, Africa, Central and Southeast
   Asia, and South America.
 job-title: Knowledge Management, Land
@@ -22,7 +22,7 @@ John Leckie is a land rights and natural resource governance professional with 1
  
 His training in land use planning and extensive experience in land registration projects give John a sound understanding of land governance issues. John has expertise in land tenure regularisation, land administration, geographic information systems (GIS), and participatory tenure and resource mapping, including the use of “crowd-sourcing” techniques.
  
-John worked as the Senior Registration Advisor in Rwanda on the award-winning Land Tenure Regularisation Support Programme, where he established a large GIS and map production department, systematically processing over 10 million unique parcel maps. He is currently the Registration Advisor to the DFID-funded Land Investment for Transformation programme in Ethiopia, and is Technical Director to two of DAI’s EC-funded land and resource governance projects in Malawi and Liberia.
+John worked as the Senior Registration Advisor in Rwanda on the award-winning [Land Tenure Regularisation Support Programme](https://www.dai.com/our-work/projects/rwanda-support-land-tenure-regularisation), where he established a large GIS and map production department, systematically processing more than 10 million unique parcel maps. He is currently the Registration Advisor to the DFID-funded [Land Investment for Transformation programme](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) in Ethiopia, and is Technical Director to two of DAI’s EC-funded land and resource governance projects in [Malawi](https://www.dai.com/our-work/projects/malawi-technical-cooperation-to-strengthen-national-capacity-in-implementing-land-policies-and-laws-efficiently-and-effectively-land-governance) and Liberia.
  
 * M.Sc., planning sustainable environments, University of Salford
 * B.Sc., development studies, University of East Anglia
