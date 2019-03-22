@@ -14,6 +14,7 @@ summary: The U.S. Agency for International Development (USAID) launched its Prep
   animals, P&R brought together country leaders in the human, animal, and environmental
   health sectors so they could build national One Health platforms to prepare, detect,
   and respond to disease outbreaks using a multisectoral approach.
+social-image: "/uploads/Screen%20Shot%202019-03-22%20at%201.40.56%20PM.png"
 ---
 
 The U.S. Agency for International Development (USAID) launched its [Preparedness and Response (P&R)](http://preparednessandresponse.org/) project five years ago to help select countries tackle deadly infectious diseases. In part because [six in 10](https://www.cdc.gov/onehealth/index.html) infectious diseases in humans are spread from animals, P&R brought together country leaders in the human, animal, and environmental health sectors so they could build national [One Health](https://www.onehealthapp.org/about) platforms to prepare, detect, and respond to disease outbreaks using a multisectoral approach.
