@@ -29,6 +29,8 @@ One Health Lead for the National Public Health Institute of Liberia. Photo: Tina
 
 Presentations at the event included: USAID’s Investments in Emerging Pandemic Threats, the Global Health Security Agenda, Working in Partnership for Improved Global Health Security, and Framing the Way Forward. Focus discussions covered P&R’s work in Indonesia and Liberia and on promoting country ownership of One Health platforms, as well as how these platforms can help create broader multisectoral coordination within countries.
 
+![DAI-News----P&R-event-2-b00ab8.jpg](/uploads/DAI-News----P&R-event-2-b00ab8.jpg)`Asfri Rangkuti, left, USAID P&R One Health Technical Advisor for Indonesia, and DAI's Mark Rasmuson, Mark Rasmuson, USAID P&R Regional Manager for Southeast Asia. Photo: Tina dela Rosa.`
+
 The P&R project set out in 2014 with a goal to catalyze country-led processes to build coordination between human, animal, and environmental health sectors. P&R designed and implemented its activities to be country-led, country-owned and sustainable, balancing diverse country needs, each with different risk profiles and governance structures.
 
 > **USAID P&R-Client Countries:** 
