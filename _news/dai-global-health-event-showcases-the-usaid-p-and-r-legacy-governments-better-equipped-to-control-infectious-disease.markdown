@@ -1,7 +1,7 @@
 ---
 title: 'DAI Global Health Event Showcases the USAID P&R Legacy: Governments Better
   Equipped to Control Infectious Disease'
-date: 2019-03-21 18:19:00 Z
+date: 2019-03-22 11:00:00 Z
 published: false
 solutions:
 - Global Health
@@ -17,9 +17,10 @@ summary: The U.S. Agency for International Development (USAID) launched its Prep
   and respond to disease outbreaks using a multisectoral approach.
 ---
 
-The U.S. Agency for International Development (USAID) launched its [Preparedness and Response (P&R)](http://preparednessandresponse.org/) project 4½ years ago to help select countries tackle deadly infectious diseases. In part because [six in 10](https://www.cdc.gov/onehealth/index.html) infectious diseases in humans are spread from animals, P&R brought together country leaders in the human, animal, and environmental health sectors so they could build national [One Health](https://www.onehealthapp.org/about) platforms to prepare, detect, and respond to disease outbreaks using a multisectoral approach.
+The U.S. Agency for International Development (USAID) launched its [Preparedness and Response (P&R)](http://preparednessandresponse.org/) project five years ago to help select countries tackle deadly infectious diseases. In part because [six in 10](https://www.cdc.gov/onehealth/index.html) infectious diseases in humans are spread from animals, P&R brought together country leaders in the human, animal, and environmental health sectors so they could build national [One Health](https://www.onehealthapp.org/about) platforms to prepare, detect, and respond to disease outbreaks using a multisectoral approach.
 
-Today, these 16 countries—among the world’s most vulnerable to disease—are better prepared to respond to outbreaks like avian influenza, rabies, Ebola, and other diseases emerging within their borders capable of infecting human and animal populations, claiming lives, and costing millions of dollars in domestic and international emergency resources.
+Today, these 16 countries—among the world’s most vulnerable to disease—are better prepared to respond to outbreaks of avian influenza, rabies, Ebola, and other diseases emerging within their borders capable of infecting human and animal populations, claiming lives, and costing millions of dollars in domestic and international emergency resources.
+
 The P&R project’s results and lessons were presented March 21 at [Improving Global Health Security Through One Health Platforms: The Journey to Self-Reliance](http://preparednessandresponse.org/events/improving-global-health-security/), an event at the National Press Club in Washington, D.C., hosted by USAID health experts and DAI Global Health. The event featured representatives from Indonesia, Liberia, and the West Africa and East Africa regions, who shared how USAID assistance helped create or strengthen their national One Health platforms.
 
 ![DAI-News----P&R-1.jpg](/uploads/DAI-News----P&R-1.jpg)`P&R Africa Regional Director Andrew Kitua at the March 21, 2019 event; in the background is Sonpon Sieh,
@@ -27,7 +28,7 @@ One Health Lead for the National Public Health Institute of Liberia. Photo: Tina
 
 [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health), in closing remarks said institutional-level progress can seem slow but eventually becomes tangible, especially to the individuals in P&R’s 16 client countries now working together. LeGrand thanked those local and government officials, P&R partners Palladium and TRG, regional partners Fondation Merieux and AFENET, and USAID colleagues.
 
-“These 16 countries represent a diverse group, each with their own unique circumstances and needs. But each government recognized the need to prepare for, detect and respond to disease outbreaks, and each took the lead in building its national One Health platform,” said LeGrand. “Put simply, those countries are now better equipped to keep their citizens safe and play their part in maintaining global health security.”
+“These 16 countries represent a diverse group with their own unique circumstances and needs. But each government recognized the need to prepare for, detect, and respond to disease outbreaks, and each took the lead in building its national One Health platform,” said LeGrand. “Put simply, those countries are now better equipped to keep their citizens safe and play their part in maintaining global health security.”
 
 Presentations at the event included: USAID’s Investments in Emerging Pandemic Threats, the Global Health Security Agenda, Working in Partnership for Improved Global Health Security, and Framing the Way Forward. Focus discussions covered P&R’s work in Indonesia and Liberia and on promoting country ownership of One Health platforms, as well as how these platforms can help create broader multisectoral coordination within countries.
 
