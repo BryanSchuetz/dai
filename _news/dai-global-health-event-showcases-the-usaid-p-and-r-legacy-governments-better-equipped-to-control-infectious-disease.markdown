@@ -39,8 +39,8 @@ In most countries, P&R supported one local technical advisor to act as a One Hea
 
 “Coordination among different sectors, levels of government, and technical dimensions doesn’t ‘just happen,’—it’s a practice that requires intentional effort,” said DAI’s Katie Taratus, P&R’s project director. “We designed and implemented a cohesive approach to what makes [multisectoral coordination work](/uploads/Conceptual%20Framework%208-17.jpg).”
 
-Ricardo Echalar, a USAID Senior Public Health Adviser who oversaw the P&R project, said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multisectoral coordination and response within countries.
+USAID Senior Public Health Adviser Ricardo Echalar said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multi-sectoral coordination and response within countries.
 
-“It is crucial to see how we can assist countries to maximize and utilize external resources as well as their own resources, including the private sector and other nontraditional partners, to strengthen their systems for preventing, detecting, and responding to public health threats,” Echalar said. “We need to not respond to the past but prepare for the future.
+“It is crucial to see how we can assist these countries to maximize and utilize external resources as well as their own resources—including the private sector and other nontraditional partners—to strengthen their systems for preventing, detecting, and responding to public health threats,” Echalar said. “We need to not respond to the past but prepare for the future.
 
-“‘What worked last time’ is easier to think about, but what catches us off-guard are those unknowable public health events. [USAID and partners] need to be more agile, help countries think ahead, and, importantly, listen to countries for what they can contribute toward their own local health security.”
+“It’s easier to think about ‘what worked last time,’ but what catches us off-guard are those unknowable public health events. [USAID and partners] need to be more agile, help countries think ahead, and, importantly, listen to countries for what they can contribute toward their own local health security.”
