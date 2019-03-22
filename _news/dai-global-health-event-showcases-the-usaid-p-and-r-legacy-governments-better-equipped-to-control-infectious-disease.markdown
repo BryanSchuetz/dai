@@ -44,7 +44,7 @@ For each country, P&R organized its work around: 1) creating national structures
 
 In most countries, P&R supported one local technical advisor to act as a One Health champion. These local experts—adept at navigating complex local political dynamics—catalyzed change by bringing together key decision-makers from diverse sectors and stakeholder groups to take action. Additionally, P&R engaged neutral facilitators from the country or region to facilitate meetings and ensure participatory decision-making and buy-in that promoted lasting institutional change. P&R empowered its country advisors with [training, support, and knowledge sharing](http://preparednessandresponse.org/publications/).
 
-“Coordination among different sectors, levels of government, and technical dimensions doesn’t ‘just happen,’—it’s a practice that requires intentional effort,” said DAI’s Katie Taratus, P&R’s project director. “We designed and implemented a cohesive approach to what makes [multisectoral coordination work](/uploads/Conceptual%20Framework%208-17.jpg).”
+“Coordination among different sectors, levels of government, and technical dimensions doesn’t ‘just happen,’—it’s a practice that requires intentional effort,” said DAI’s [Katie Taratus](https://www.dai.com/who-we-are/our-team/katie-taratus), P&R’s project director. “We designed and implemented a cohesive approach to what makes [multisectoral coordination work](/uploads/Conceptual%20Framework%208-17.jpg).”
 
 USAID Senior Public Health Adviser Ricardo Echalar said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multi-sectoral coordination and response within countries.
 
