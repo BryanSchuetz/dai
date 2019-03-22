@@ -25,7 +25,9 @@ The P&R project’s results and lessons were presented March 21 at [Improving Gl
 ![DAI-News----P&R-1.jpg](/uploads/DAI-News----P&R-1.jpg)`P&R Africa Regional Director Andrew Kitua at the March 21, 2019 event; in the background is Sonpon Sieh,
 One Health Lead for the National Public Health Institute of Liberia. Photo: Tina dela Rosa.`
 
-“These 16 countries represent a diverse group, each with their own unique circumstances and needs. But each government recognized the need to prepare for, detect and respond to disease outbreaks, and each took the lead in building its national One Health platform,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health). “Put simply, those countries are now better equipped to keep their citizens safe and play their part in maintaining global health security.”
+[Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) in closing remarks said progress, partnership, people. .
+
+“These 16 countries represent a diverse group, each with their own unique circumstances and needs. But each government recognized the need to prepare for, detect and respond to disease outbreaks, and each took the lead in building its national One Health platform,” said LeGrand. “Put simply, those countries are now better equipped to keep their citizens safe and play their part in maintaining global health security.”
 
 Presentations at the event included: USAID’s Investments in Emerging Pandemic Threats, the Global Health Security Agenda, Working in Partnership for Improved Global Health Security, and Framing the Way Forward. Focus discussions covered P&R’s work in Indonesia and Liberia and on promoting country ownership of One Health platforms, as well as how these platforms can help create broader multisectoral coordination within countries.
 
