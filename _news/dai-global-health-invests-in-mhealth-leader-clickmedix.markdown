@@ -1,7 +1,6 @@
 ---
 title: DAI Global Health Invests in mHealth Leader ClickMedix
 date: 2019-03-22 17:42:00 Z
-published: false
 is_featured: true
 solutions:
 - Global Health
@@ -27,7 +26,7 @@ ClickMedix has directly benefitted 500,000+ people in 21 countries to date, and 
 
 DAI Global Health and ClickMedix first connected through the [Innovation into Action Challenge](https://www.dai.com/news/innovation-action-challenge-winners-chosen), a competition designed to surface innovative, high-impact ideas, products, and services in the field of international health and development. As a Challenge winner, ClickMedix worked with DAI on [field tests in Jordan](https://www.dai.com/news/innovation-action-challenge-winners-begin-implement-their-solutions-field), subsequently introduced its mHealth platform to the health insurance industry in the Middle East and North America, and is expanding into Sub-Saharan Africa and Latin America.
 
-“We are seeking to create holistic, tech-enabled solutions that save lives and improve well-being on a global scale,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “ClickMedix’s technology—in particular its mHealth marketplace capability, which extends the reach of both public- and private-sector healthcare services while helping patients find affordable and effective health services—offers game-changing possibilities for integrated health programming in emerging and developed nations, as well as market-driven, patient-centered solutions around the world. In strengthening the bond between our two organizations, we are raising the bar for what both can achieve in terms of global health outcomes and the path toward universal health coverage.”
+“We are seeking to create holistic, tech-enabled solutions that save lives and improve well-being on a global scale,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “ClickMedix’s technology—in particular its mHealth marketplace capability, which extends the reach of both public- and private-sector healthcare services while helping patients find affordable and effective healthcare—offers game-changing possibilities for integrated health programming in emerging and developed nations, as well as market-driven, patient-centered solutions around the world. In strengthening the bond between our two organizations, we are raising the bar for what both can achieve in terms of global health outcomes and the path toward universal health coverage.”
 
 <aside>
 <h2><em>About DAI</em></h2>
