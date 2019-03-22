@@ -2,7 +2,6 @@
 title: 'DAI Global Health Event Showcases the USAID P&R Legacy: Governments Better
   Equipped to Control Infectious Disease'
 date: 2019-03-22 11:00:00 Z
-published: false
 solutions:
 - Global Health
 - Governance
@@ -41,14 +40,14 @@ The P&R project set out in 2014 with a goal to catalyze country-led processes to
 **West Africa—**Cameroon, Cote D' Ivoire, Guinea, Liberia, Mali, Sierra Leone;
 **Southeast Asia—**Bangladesh, Indonesia, Laos, Thailand, Vietnam
 
-For each country, P&R organized its work around: 1) creating national structures that facilitated coordination and broad collaboration, and 2) supporting the growth of national platforms that would develop, test, and implement homegrown National Preparedness and Response Plans.
+For each country, P&R organized its work around: 1) creating national structures that facilitate coordination and broad collaboration, and 2) supporting the growth of national platforms that develop, test, and implement homegrown National Preparedness and Response Plans.
 
-In most countries, P&R supported one local technical advisor to act as a One Health champion. These local experts—adept at navigating complex local political dynamics—catalyzed change by bringing together key decision-makers from diverse sectors and stakeholder groups to take action. Additionally, P&R engaged neutral facilitators from the country or region to facilitate meetings and ensure participatory decision-making and buy-in that promoted lasting institutional change. P&R empowered its country advisors with [training, support, and knowledge sharing](http://preparednessandresponse.org/publications/).
+In most countries, P&R supported one local technical advisor to act as a One Health champion. These local experts—adept at navigating complex local political dynamics—catalyzed change by bringing together key decision makers from diverse sectors and stakeholder groups to take action. Additionally, P&R engaged neutral facilitators from the country or region to facilitate meetings and ensure participatory decision making and buy-in that promoted lasting institutional change. P&R empowered its country advisors with [training, support, and knowledge sharing](http://preparednessandresponse.org/publications/).
 
-“Coordination among different sectors, levels of government, and technical dimensions doesn’t ‘just happen,’—it’s a practice that requires intentional effort,” said DAI’s [Katie Taratus](https://www.dai.com/who-we-are/our-team/katie-taratus), P&R’s project director. “We designed and implemented a cohesive approach to what makes [multisectoral coordination work](/uploads/Conceptual%20Framework%208-17.jpg).”
+“Coordination among different sectors, levels of government, and technical dimensions doesn’t ‘just happen’—it’s a practice that requires intentional effort,” said DAI’s [Katie Taratus](https://www.dai.com/who-we-are/our-team/katie-taratus), P&R’s project director. “We designed and implemented a cohesive approach to what makes [multisectoral coordination work](/uploads/Conceptual%20Framework%208-17.jpg).”
 
-USAID Senior Public Health Adviser Ricardo Echalar said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multi-sectoral coordination and response within countries.
+USAID Senior Public Health Advisor Ricardo Echalar said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multi-sectoral coordination and response within countries.
 
-> “It is crucial to see how we can assist these countries to maximize and utilize external resources as well as their own resources—including the private sector and other nontraditional partners—to strengthen their systems for preventing, detecting, and responding to public health threats."—Ricardo Echalar, USAID Senior Public Health Adviser
+> “It is crucial to see how we can assist these countries to maximize and utilize external resources as well as their own resources—including the private sector and other nontraditional partners—to strengthen their systems for preventing, detecting, and responding to public health threats."—Ricardo Echalar, USAID Senior Public Health Advisor
 
 “We need to not respond to the past but prepare for the future,” Echalar added. “It’s easier to think about ‘what worked last time,’ but what catches us off-guard are those unknowable public health events. [USAID and partners] need to be more agile, help countries think ahead, and, importantly, listen to countries for what they can contribute toward their own local health security.”
