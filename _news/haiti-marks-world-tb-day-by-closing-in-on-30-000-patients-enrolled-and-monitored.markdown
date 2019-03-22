@@ -2,11 +2,22 @@
 title: Haiti Marks World TB Day by Closing in on 30,000 Patients Enrolled and Monitored
 date: 2019-03-22 21:53:00 Z
 published: false
+solutions:
+- Global Health
+- Governance
+regions: Latin America and the Caribbean
+projects: Haiti—Strategic Health Information System Program (HIS)
+clients: U.S. Agency for International Development
+summary: 'The Haiti government’s tuberculosis (TB) tracker marked World Tuberculosis
+  Day March 24 with 29,900 patients enrolled and monitored less than one year after
+  its launch. '
 ---
 
 The Haiti government’s tuberculosis (TB) tracker marked World Tuberculosis Day March 24 with 29,900 patients enrolled and monitored less than one year after its launch. Haiti’s TB tracker digitizes previously paperbound patient details registered by health care providers at local facilities across Haiti. The TB and future trackers will improve data quality and inform decision making—for instance, helping the Haitian government decide where to invest in clinics and staff.
 
 Development of the TB tracker and related work is being led by the [Haiti Strategic Health Information System (HIS) Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program). [Launched](https://www.dai.com/news/dai-to-launch-usaid-health-information-system-program-in-haiti) in 2017, HIS is funded by the U.S. Agency for International Development and implemented by DAI in partnership with Haiti’s Ministry of Health. Data on TB cases and treatment regimens is being captured electronically—and soon through a mobile application now being implemented that will better serve remote locales.
+
+![devs-haiti-tb-2.jpg](/uploads/devs-haiti-tb-2.jpg)`Haiti HIS field officer Pouchy Dacière trains Northeastern Health Directorate representatives to enter data.`
 
 By consolidating and integrating Haiti’s disconnected health information assets, the HIS program team is empowering the country’s national health database—the System d’Information Sanitaire Nationale Unique, which uses the DHIS2 open-source software platform for reporting, analyzing, and disseminating national health data. 
 
