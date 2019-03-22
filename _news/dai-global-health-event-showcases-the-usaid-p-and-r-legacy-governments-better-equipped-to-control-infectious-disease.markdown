@@ -48,6 +48,6 @@ In most countries, P&R supported one local technical advisor to act as a One Hea
 
 USAID Senior Public Health Adviser Ricardo Echalar said the agency has seen increasing infectious disease outbreaks and other public health events worldwide that require multi-sectoral coordination and response within countries.
 
-“It is crucial to see how we can assist these countries to maximize and utilize external resources as well as their own resources—including the private sector and other nontraditional partners—to strengthen their systems for preventing, detecting, and responding to public health threats,” Echalar said. “We need to not respond to the past but prepare for the future.
+> “It is crucial to see how we can assist these countries to maximize and utilize external resources as well as their own resources—including the private sector and other nontraditional partners—to strengthen their systems for preventing, detecting, and responding to public health threats."—Ricardo Echalar, USAID Senior Public Health Adviser
 
-“It’s easier to think about ‘what worked last time,’ but what catches us off-guard are those unknowable public health events. [USAID and partners] need to be more agile, help countries think ahead, and, importantly, listen to countries for what they can contribute toward their own local health security.”
+“We need to not respond to the past but prepare for the future,” Echalar added. “It’s easier to think about ‘what worked last time,’ but what catches us off-guard are those unknowable public health events. [USAID and partners] need to be more agile, help countries think ahead, and, importantly, listen to countries for what they can contribute toward their own local health security.”
