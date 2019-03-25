@@ -43,4 +43,4 @@ Core partners include ICI-Santé, Liverpool School of Tropical Medicine, Fondati
 * Develop emergency response mechanisms that fill a critical gap at the sub-national level related to community engagement for preparedness and response.
 * Build on digital platforms such as IntraHealth’s [mHero technology](https://www.mhero.org/about) to connect data from existing health information systems to allow for real-time communication during crises.
 * Provide global stakeholders, such as the U.K. Department for International Development, with prompt, evidence-based information to support resource allocation decisions, with flexible standby teams of emergency response specialists mobilizing in-country in the event of a pre-crisis outbreak.
-* Access pre-approved suppliers to mobilise quickly where needed; DAI disaster response services have included direct grant financing of local organisations.
+* Access pre-approved suppliers to mobilise quickly where needed.
