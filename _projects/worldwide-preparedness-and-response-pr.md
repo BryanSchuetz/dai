@@ -38,12 +38,20 @@ The P&R project provides technical assistance to strengthen countries’ multise
 * Conduct leadership trainings to strengthen One Health platform operations;
 * Facilitate One Health for Planning and Performance (OH-APP) workshops to help countries self-assess the capacity and performance of their multisectoral One Health platforms;
 * Provide technical assistance for outbreak response;
-* Facilitate disease outbreak after action reviews to identify strengths and weaknesses and agree on necessary action to improve response. 
+* Facilitate disease outbreak after-action reviews to identify strengths and weaknesses and agree on necessary action to improve response. 
 
 ### Select Results
 
-* Launched or reinvigorated national One Health platforms in 15 countries, and strengthened the preparedness and response planning capabilities in 15 countries.
+* Helped launch national One Health platforms in eight countries.
+
+* Reinvigorated existing platforms in seven countries.
+
+* Strengthened preparedness and response planning in 15 countries.
+
+* Developed or updated One Health strategic plans in 13 countries.
+
+* Conducted 12 preparedness and response simulations across seven countries.
+
 * Provided technical assistance for outbreak response in seven countries.
-* Conducted 12 preparedness and response simulations in seven countries.
 
 For more information about the Preparedness and Response global impact, [click here](/uploads/Global%20EOP%20Flyer_Final_final-56f274.pdf).
