@@ -35,9 +35,9 @@ Core partners include ICI-Santé, Liverpool School of Tropical Medicine, Fondati
 
 ### Select Activities
 
-* Engage in strengthening in-country networks of government and civil society with respect to International Health Regulation (IHR) compliance, infectious disease surveillance and outbreak response. 
-* Use WHO tools such as Joint External Evaluations and tabletop simulations that DAI helped develop and pilot, with country coordinators adapting approaches to local circumstances.
-* Utilize information management and transparency at national and subnational levels to inform decision makers, prioritise prevention actions, and activate emergency and other responses.
+* Engage in strengthening in-country networks of government and civil society with respect to International Health Regulation (IHR) compliance, infectious disease surveillance, and outbreak response. 
+* Employ WHO tools such as Joint External Evaluations and One Health tabletop simulations that DAI helped develop and pilot, in setting priorities for National Action Plans for health security linked to UHC.
+* Strengthen information management and evidence uptake mechanisms at national and subnational levels to enable  decision makers to prioritise prevention actions, and activate emergency and other responses.
 * Create a monitoring and evaluation framework that captures cause-and-effect relationships among inputs, outputs, outcomes and impact.
 * Capture Gender Equality and Social Inclusion (GESI)/disability sensitive information, such as the number of facilities where GESI data has been collected.
 * Develop emergency response mechanisms with strong capacity in community engagement and behaviour change communication.
