@@ -24,7 +24,7 @@ Delivered by World Health Organisation Africa Regional Office (WHO/AFRO), DAI, a
 The four-year TDDAP project is a segment of the broader programme, and focuses on Cameroon, Chad, Côte D’Ivoire, Mali, Niger, and Uganda. The TDDAP project will strengthen country leadership and accountability for population health by:
 
 * addressing fragmentation in global health security and universal health coverage;
-* addressing inadequate surveillance, evidence-based decision making and cross-border coordination; and
+* addressing inadequate surveillance, evidence-based decision making, and cross-border coordination; and
 * improving the poor communications that contributes local outbreaks becoming international epidemics.
 
 The TDDAP Project will support country leadership and accountability for integrated health security planning using infectious diseases as an entry point for strengthening International Health Regulation compliance. The project also supports an Emergency Response Mechanism for strengthening capacity to manage preparedness and response to pre-crisis situations at the sub-national level across sub-Saharan Africa.
