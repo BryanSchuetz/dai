@@ -1,7 +1,7 @@
 ---
 title: Africa—Tackling Deadly Diseases in Africa Program (TDDAP)
 date: 2019-01-23 15:27:00 Z
-summary: The four-year, DFID-funded, Tackling Deadly Diseases Programme (TDDAP) Project
+summary: The four-year, DFID-funded Tackling Deadly Diseases Programme (TDDAP) Project
   works across six countries to strengthen health systems and institutions to deliver
   better health security and improve disease preparedness and response. TDDAP supports
   country leadership and accountability for integrated health security planning using
@@ -19,7 +19,7 @@ country: Cameroon, Uganda, Côte D’Ivoire, Niger, Mali, Chad
 
 The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives and reduce the impact of disease outbreaks and epidemics. 
 
-Delivered by World Health Organisation Africa Regional Office (WHO/AFRO), DAI and a third-party monitoring supplier, TDDAP will strengthen health systems and institutions to deliver better health security and improve disease preparedness and response and accelerate Universal Health Coverage (UHC).
+Delivered by World Health Organisation Africa Regional Office (WHO/AFRO), DAI, and a third-party monitoring supplier, TDDAP will strengthen health systems and institutions to deliver better health security and improve disease preparedness and response and accelerate Universal Health Coverage (UHC).
 
 The four-year TDDAP project is a segment of the broader programme, and focuses on Cameroon, Chad, Côte D’Ivoire, Mali, Niger, and Uganda. The TDDAP project will strengthen country leadership and accountability for population health by:
 
