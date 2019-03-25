@@ -11,5 +11,6 @@ summary: Jenny Baker’s more than 25 years of international development experie
   capacity development.
 image: https://assetify-dai.com/experts/Baker_Inner.jpg
 group: Management
+sort-order: 8
 ---
 
