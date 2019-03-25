@@ -9,7 +9,7 @@ projects: Haiti—Strategic Health Information System Program (HIS)
 clients: U.S. Agency for International Development
 summary: 'The Haiti government’s tuberculosis (TB) tracker marked World Tuberculosis
   Day with 29,900 patients enrolled and monitored less than one year after its launch. '
-social-image: "/uploads/55764307_10157067798430797_8335890570681516032_n.jpg"
+social-image: "/uploads/stop%20tb.jpg"
 ---
 
 The Haiti government’s tuberculosis (TB) tracker marked World Tuberculosis Day with 29,900 patients enrolled and monitored—less than one year after its launch. Haiti’s TB tracker digitizes previously paperbound patient details registered by healthcare providers at local facilities across Haiti. The TB and future trackers will improve data quality and inform decision making such as helping the Haitian government decide where to invest in additional clinics and staff.
