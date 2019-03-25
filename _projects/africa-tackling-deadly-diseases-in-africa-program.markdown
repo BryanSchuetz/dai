@@ -17,16 +17,17 @@ regions: Sub-Saharan Africa
 country: Cameroon, Uganda, Côte D’Ivoire, Niger, Mali, Chad
 ---
 
-The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives and reduce the impact of disease outbreaks and epidemics. The five-year TDDAP project addresses:
+The Tackling Deadly Diseases in Africa Program (TDDAP) aims to save lives and reduce the impact of disease outbreaks and epidemics. 
 
-* Poor disease surveillance and communication from remote locations to national authorities;
-* Weak public health services and infrastructure;
-* Rumours and poor information affecting behaviours that then spread disease;
-* Poorly equipped—though dedicated—doctors, nurses and public health staff;
-* Poor cross-border coordination that leads to the spread of disease to large cities; and
-* Weak national government presence and fragile economic conditions in outbreak areas.
+Delivered by World Health Organisation Africa Regional Office (WHO/AFRO), DAI and a third-party monitoring supplier, TDDAP will strengthen health systems and institutions to deliver better health security and improve disease preparedness and response and accelerate Universal Health Coverage (UHC).
 
-TDDAP will strengthen health systems and institutions, including the World Health Organisation Africa Regional Office (WHO AFRO), to deliver better health security, improve disease preparedness and response in six countries (Cameroon, Uganda, Côte D’Ivoire, Niger, Mali, Chad), and provide an emergency response contingency mechanism should a pre-crisis situation arise across sub-Saharan Africa.
+The four-year TDDAP project is a segment of the broader programme, and focuses on Cameroon, Chad, Côte D’Ivoire, Mali, Niger, and Uganda. The TDDAP project will strengthen country leadership and accountability for population health by:
+
+* addressing fragmentation in global health security and universal health coverage;
+* addressing inadequate surveillance, evidence-based decision making and cross-border coordination; and
+* improving the poor communications that contributes local outbreaks becoming international epidemics.
+
+The TDDAP Project will support country leadership and accountability for integrated health security planning using infectious diseases as an entry point for strengthening International Health Regulation compliance. The project also supports an Emergency Response Mechanism for strengthening capacity to manage preparedness and response to pre-crisis situations at the sub-national level across sub-Saharan Africa.
 
 Core partners include ICI-Santé, Liverpool School of Tropical Medicine, Fondation Mérieux, Operations Partnership and UK-Med in addition to resource partners, Institute of Development Studies, EHealth Nigeria, and [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) affiliate IntraHealth.
 
@@ -34,7 +35,7 @@ Core partners include ICI-Santé, Liverpool School of Tropical Medicine, Fondati
 
 ### Select Activities
 
-* Leverage in-country networks in government and civil society and those experienced with infectious disease surveillance and outbreak response. 
+* Engage in strengthening in-country networks in government and civil society with respect to International Health Regulation (IHR) compliance, infectious disease surveillance and outbreak response. 
 * Use WHO tools such as Joint External Evaluations and tabletop simulations that DAI helped develop and pilot, with country coordinators adapting approaches to local circumstances.
 * Utilize information management and transparency at national and subnational levels to inform decision makers, prioritise prevention actions, and activate emergency and other responses.
 * Create a monitoring and evaluation framework that captures cause-and-effect relationships among inputs, outputs, outcomes and impact.
