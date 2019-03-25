@@ -11,5 +11,6 @@ summary: Dr. Rodion Kraus’ areas of expertise include programme management, po
   preparedness and response.
 image: "/uploads/New%20Rodion%20dai%20site.jpg"
 group: Management
+sort-order: 9
 ---
 

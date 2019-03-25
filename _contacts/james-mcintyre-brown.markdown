@@ -13,5 +13,6 @@ summary: James McIntyre Brown has more than 17 years’ experience at a senior m
   and monitoring and evaluation in Africa, Asia, and Latin America.
 image: "/uploads/macfinal-8edcd2.jpg"
 group: Management
+sort-order: 10
 ---
 
