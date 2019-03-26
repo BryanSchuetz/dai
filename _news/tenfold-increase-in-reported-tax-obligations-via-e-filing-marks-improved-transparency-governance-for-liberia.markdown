@@ -10,6 +10,7 @@ clients: U.S. Agency for International Development
 summary: 'Liberian taxpayers reported $12.5 million  in taxes due through e-filing
   during the fourth quarter of 2018, marking an important milestone for Liberia in
   its drive for more transparent and robust tax collection and administration. '
+social-image: "/uploads/DSC02623.jpg"
 ---
 
 Liberian taxpayers reported $12.5 million in taxes due through e-filing during the fourth quarter of 2018, a tenfold increase over the $1.2 million in obligations reported via e-filing from the previous quarter. The dramatic increase marked a milestone for Liberia in its drive for more transparent and robust tax collection and administration. 
