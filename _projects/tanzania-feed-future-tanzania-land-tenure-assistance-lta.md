@@ -1,7 +1,7 @@
 ---
 title: Tanzania—Feed the Future Tanzania Land Tenure Assistance (LTA)
 date: 2016-01-21 22:40:00 Z
-summary: The Land Tenure Assistance project is pioneering a low-cost, participatory
+summary: The Land Tenure Assistance activity is pioneering a low-cost, participatory
   land registration system that works at the local level to enable smallholder landowners
   to secure their property rights.
 start: 2015
@@ -23,7 +23,7 @@ In Tanzania, smallholder land registrations are critical to protecting local lan
 
 Under the Land Tenure Assistance (LTA) activity, funded by the U.S. Agency for International Development (USAID), DAI is modifying an existing tool for mapping smallholdings and detailing ownership claims—the Mobile Application to Secure Tenure (MAST)—which USAID first piloted in Tanzania. This tool will be linked to a low-cost land registry tool, the Technical Register Under Social Tenure (TRUST), which DAI is developing at the district level and plans to scale up to other areas of the country. The outcome is a low-cost, participatory land registration process that is [transforming the way](https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future) land rights are managed in Tanzania, with the potential for adaptation elsewhere.
 
-<iframe src="https://player.vimeo.com/video/206238160" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/326565759" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -37,3 +37,5 @@ Under the Land Tenure Assistance (LTA) activity, funded by the U.S. Agency for I
 * Demarcated 32,000 parcels in 22 villages and issued 22,000 Certificates of Customary Right of Occupancy.
 * Nearly 50 percent of land claims are by [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, [jointly](https://land-links.org/document/lta-success-story-land-registration-opens-economic-doors-women-kiponzelo/), or in common. 
 * [Won award](https://www.dai.com/news/tanzania-land-tenure-project-wins-usaid-digital-development-award) from U.S. Global Development Lab for its innovative use of GPS technology to survey and register land in rural communities and for its development of a [digital registry](http://www.digitaldevelopment.org/feed-future-tanzania-land-tenure-assistance) to document property transfers. 
+
+<iframe src="https://player.vimeo.com/video/206238160" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

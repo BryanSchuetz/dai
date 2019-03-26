@@ -17,7 +17,7 @@ country: Pakistan
 
 The U.K. Department for International Development (DFID)-funded Consolidating Democracy in Pakistan (CDIP) programme, also called *Tabeer*, works to increase the capacity, accountability, and responsiveness of Pakistan’s political institutions. The team provides technical assistance to the Election Commission of Pakistan to improve its oversight of elections and helps members of parliament and political parties to better represent and respond to the needs of their constituents. In addition, the program works with civil society groups to increase the participation of Pakistani citizens in the policy-making process, with a particular focus on [engaging women](https://tribune.com.pk/story/1585244/1-meeting-calls-simplify-process-get-cnic/), youth, people with disabilities, and ethnic and religious minorities.
 
-![CDIP_Image.jpg](/uploads/CDIP_Image.jpg)
+<iframe src="https://player.vimeo.com/video/326629182" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
