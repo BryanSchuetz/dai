@@ -18,7 +18,7 @@ Development of the TB tracker and related work is being led by the [Haiti Strate
 
 ![devs-haiti-tb-2.jpg](/uploads/devs-haiti-tb-2.jpg)`Haiti HIS field officer Pouchy Dacière trains Northeastern Health Directorate representatives to enter data.`
 
-By consolidating and integrating Haiti’s disconnected health information assets, HIS is empowering the country’s national health database—the System d’Information Sanitaire Nationale Unique, which uses the [DHIS2](https://www.dhis2.org/overview) open-source software platform for reporting, analyzing, and disseminating national health data. 
+By consolidating and integrating Haiti’s disconnected health information assets, HIS is empowering the country’s national health database—the System d’Information Sanitaire Nationale Unique, which uses the [DHIS2](https://www.dhis2.org/overview) open-source software platform for reporting, analyzing, and disseminating national [health](https://www.dai.com/our-work/solutions/global-health) data. 
 
 “Thanks to the tracker, the government holds information not only on sites receiving TB patients in excess but also on the geographic background of these patients,” said DAI’s Atwood Raphael, HIS Chief of Party. “This makes it easier for the government to identify health service gaps. The tracker also helps identify data quality problems quickly and hence training needs, prompting the government to respond through capacity building and changes in personnel.”
 
