@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Chopak
 summary: 'With more than 30 years of experience, Chuck Chopak leads the Resilience
   cross-cutting practice.  '
-job-title: 'Senior Principle Global Practice Lead, Resilience '
+job-title: 'Senior Principal Global Practice Lead, Resilience '
 image: https://assetify-dai.com/experts/innerchopak.jpg
 solutions:
 - Agriculture and Food Security
