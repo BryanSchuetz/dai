@@ -12,7 +12,7 @@ summary: The U.S. Agency for International Development (USAID) launched its Prep
   and Response P&R project five years ago to help select countries tackle deadly infectious
   diseases. In part because six in 10 infectious diseases in humans are spread from
   animals, P&R brought together country leaders in the human, animal, and environmental
-  health sectors so they could build national One Health platforms to prepare, detect,
+  health sectors. Together, they built national One Health platforms to prepare, detect,
   and respond to disease outbreaks using a multisectoral approach.
 social-image: "/uploads/Screen%20Shot%202019-03-22%20at%201.40.56%20PM.png"
 ---
