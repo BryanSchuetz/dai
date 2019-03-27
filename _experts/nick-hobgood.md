@@ -12,7 +12,9 @@ solutions:
 - Natural Resource Management
 layout: expert
 image: https://assetify-dai.com/experts/HobgoodInner.jpg
-summary: Nick Hobgood has 30 years of experience leading complex, multisector development projects in humanitarian response, democratic initiatives, community-based natural resource management, agriculture, and small business development.
+summary: Nick Hobgood has 30 years of experience leading complex, multisector development
+  projects in humanitarian response, democratic initiatives, community-based natural
+  resource management, agriculture, and small business development.
 job-title: Director, MENA/Afghanistan
 articles:
 - name: 
