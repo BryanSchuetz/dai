@@ -13,7 +13,7 @@ The [Sustainable Business Group](/our-work/solutions/sustainable-business) offer
 
 Upcoming Masterclass: May 15-17, 2019, Houston, Texas, United States.
 
-[Read the brochure.](/uploads/DAI%20Houston%20Masterclass%20Brochure_May%202019_final.pdf)
+[Read the brochure.](/uploads/DAI%20Houston%20Masterclass%20Brochure_May2019_final-481b3b.pdf)
 
 > “The masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences” —  *Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
