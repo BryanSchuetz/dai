@@ -8,8 +8,9 @@ solutions:
 regions: Middle East and North Africa
 projects: Palestine Finance for Jobs (F4J)
 clients: World Bank
-summary: 'A DAI-led project to finance a solar energy facility for a Gaza industrial
-  park was selected for the 2019 World Bank President’s Award for Excellence. '
+summary: 'A DAI-implemented project with the International Finance Corporation and
+  Multilateral Investment Guarantee Agency to co-finance a solar energy facility was
+  selected for the 2019 World Bank President’s Award for Excellence. '
 social-image: "/uploads/DAI-NEWS----F4J-GAZA-SOLAR-160c8f.jpg"
 ---
 
