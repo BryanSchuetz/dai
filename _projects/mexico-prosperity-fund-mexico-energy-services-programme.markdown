@@ -2,10 +2,9 @@
 title: Mexico—Prosperity Fund Mexico Energy Services Programme
 date: 2019-03-14 20:59:00 Z
 summary: The U.K. Foreign and Commonwealth Office aims to promote energy-driven low-carbon
-  growth, reducing poverty, and generating new market opportunities for symbiotic
-  U.K. partnerships and investments. The programme will focus on gender-inclusive
-  interventions in workforce development, supply chain integration, and capacity building
-  of regulators.
+  growth, reducing poverty and generating new market opportunities for symbiotic U.K.
+  partnerships and investments. The programme will focus on gender-inclusive interventions
+  in workforce development, supply chain integration, and capacity building of regulators.
 start: 2019
 end: 2023
 client: U.K. Foreign and Commonwealth Office
@@ -17,7 +16,7 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The U.K. Foreign and Commonwealth Office aims to promote energy-driven low-carbon growth, reducing poverty, and generating new market opportunities for symbiotic U.K. partnerships and investments. DAI's core partners on the project include Wood PLC, OPITO, and Ogilvy.
+The U.K. Foreign and Commonwealth Office aims to promote energy-driven low-carbon growth, reducing poverty and generating new market opportunities for symbiotic U.K. partnerships and investments. DAI's core partners on the project include Wood PLC, OPITO, and Ogilvy.
 
 DAI will implement its local business development center model at scale, drawing from similar initiatives in Canada, [Ghana](https://www.dai.com/our-work/projects/ghana-local-content-training), [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), Mozambique, Oman, Suriname, and [Trinidad and Tobago](https://www.dai.com/our-work/projects/trinidad-and-tobago-local-content-study).
 
