@@ -18,7 +18,7 @@ country: Mexico
 
 The U.K. Foreign and Commonwealth Office (FCO) aims to promote energy-driven low-carbon growth, reducing poverty and generating new market opportunities for symbiotic U.K. partnerships and investments.
 
-DAI will help the FCO achieve its vision by designing and implementing three enterprise development centres, drawing from similar projects in Canada, [Ghana](https://www.dai.com/our-work/projects/ghana-local-content-training), [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), Mozambique, Oman, Suriname, and [Trinidad and Tobago](https://www.dai.com/our-work/projects/trinidad-and-tobago-local-content-study). The locally run and sustainable centres will leverage local content in the Mexican energy sector to create sustainable energy practices and foster cross-sectoral socioeconomic development. Gender inclusion and sustainability will inform all programme activities.
+DAI will help the FCO achieve its vision by designing and implementing three enterprise development centres, drawing from similar projects in Canada, [Ghana](https://www.dai.com/our-work/projects/ghana-local-content-training), [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), Mozambique, Oman, Suriname, and [Trinidad and Tobago](https://www.dai.com/our-work/projects/trinidad-and-tobago-local-content-study). The locally run centres will leverage local content in the Mexican energy sector to create sustainable energy practices and foster cross-sectoral socioeconomic development. Gender inclusion and sustainability will inform all programme activities.
 
 DAI's core partners on the project include Wood PLC, OPITO, and Ogilvy.
 
