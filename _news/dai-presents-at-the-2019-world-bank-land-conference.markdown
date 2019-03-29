@@ -1,7 +1,6 @@
 ---
 title: DAI Presents at the 2019 World Bank Land Conference
 date: 2019-03-29 15:16:00 Z
-published: false
 solutions:
 - Land Tenure and Property Rights
 - Environment and Energy
