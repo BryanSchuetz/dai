@@ -3,7 +3,10 @@ title: Global Offices
 permalink: "/who-we-are/global-reach/united-kingdom/contacts/management"
 redirect_from:
 - "/who-we-are/global-reach/dai-europe/contacts/management-team"
-summary: Since 1970, we have worked in more than 150 countries, at any one time we are likely to have active projects in 90 or more countries. This worldwide portfolio is supported from corporate offices in Belgium, Nigeria, the United Kingdom, and the United States.
+summary: Since 1970, we have worked in more than 150 countries, at any one time we
+  are likely to have active projects in 90 or more countries. This worldwide portfolio
+  is supported from corporate offices in Belgium, Nigeria, the United Kingdom, and
+  the United States.
 hero: true
 layout: node
 ---
