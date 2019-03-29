@@ -10,7 +10,7 @@ hero: true
 
 ## Brussels
 
-DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S. and U.K. operations.
+DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S., U.K., and other operations.
 
 <a href="/who-we-are/global-reach/brussels" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 <hr>
