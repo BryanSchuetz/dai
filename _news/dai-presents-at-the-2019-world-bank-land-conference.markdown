@@ -6,6 +6,8 @@ solutions:
 - Land Tenure and Property Rights
 - Environment and Energy
 - Governance
+summary: DAI land tenure experts attended this year’s World Bank Conference on Land
+  and Poverty and presented recent work in Ethiopia, Ghana, Malawi, and Tanzania.
 ---
 
 DAI land tenure experts attended this year’s World Bank Conference on Land and Poverty and presented recent work in Ethiopia, Ghana, Malawi, and Tanzania.
