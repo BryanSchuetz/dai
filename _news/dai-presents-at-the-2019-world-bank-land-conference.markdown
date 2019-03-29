@@ -8,6 +8,7 @@ solutions:
 - Governance
 summary: DAI land tenure experts attended this year’s World Bank Conference on Land
   and Poverty and presented recent work in Ethiopia, Ghana, Malawi, and Tanzania.
+social-image: "/uploads/land%20social.jpg"
 ---
 
 DAI land tenure experts attended this year’s World Bank Conference on Land and Poverty and presented recent work in Ethiopia, Ghana, Malawi, and Tanzania.
