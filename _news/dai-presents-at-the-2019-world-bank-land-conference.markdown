@@ -14,6 +14,8 @@ DAI land tenure experts attended this year’s World Bank Conference on Land and
 
 The [conference](https://blogs.worldbank.org/developmenttalk/bank-s-land-and-poverty-conference-20-years) brought together 1,500 participants from government, academia, civil society, and the private sector to discuss the latest theories, best practices, and innovations for land tenure reform from around the world. 
 
+![land team 2019.png](/uploads/land%20team%202019.png `The DAI Land team: John Leckie, from left, Felicity Buckle, Tressan Sullivan, Clive English, Andy Smith, and Ian Rose.`)
+
 <!--more-->
 
 Secure property rights [are fundamental](https://blogs.worldbank.org/voices/7-reasons-land-and-property-rights-be-top-global-agenda) to any modern economy—yet only 30 percent of the global population has legally registered rights to their land. DAI’s land team works to increase that number by enabling people to secure their property rights; reforming policy and legal environments; developing cadasters; rehabilitating and managing land records, and developing land information systems; building land institutions; promoting participatory land use and resource planning; supporting dispute resolution and mitigation; and providing training, research, and communications.
