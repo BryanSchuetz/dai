@@ -1,9 +1,9 @@
 ---
-title: Recent Projects 
+title: Recent Projects
 summary: A list of active projects, sorted by end date in reverse chronological order
 layout: default
-published: flase
 ---
+
 <h1>Recent Projects</h1>
 
 <p>
