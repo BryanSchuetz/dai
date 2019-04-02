@@ -1,6 +1,7 @@
 ---
 title: Alessandra Pace
 date: 2019-02-27 18:28:00 Z
+published: false
 job-title: 'Office Manager '
 email: alessandra_pace@dai.com
 summary: Alessandra Pace is Office Administrator, dealing with logistics, purchases,
