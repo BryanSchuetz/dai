@@ -1,6 +1,7 @@
 ---
 title: Isaline Ameryckx
 date: 2019-02-27 16:57:00 Z
+published: false
 job-title: Project Recruiter, Business Development Unit
 email: isaline_ameryckx@dai.com
 summary: 'Isaline Ameryckx joined DAI’s Brussels office in September 2018 as a Recruiter
