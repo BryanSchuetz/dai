@@ -13,7 +13,7 @@ summary: Gianfabrizio Ladini works in the EC Programme Management Unit, where he
   in peace studies and European affairs, and his academic publications cover peacebuilding,
   human security, and the political economy of contemporary armed conflicts.
 image: "/uploads/Gian_photo.jpg"
-group: Brussels Coordinators
+group: Archive
 sort-order: 1
 ---
 
