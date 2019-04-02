@@ -1,6 +1,7 @@
 ---
 title: Rossana Gresia
 date: 2017-12-11 13:15:00 Z
+published: false
 job-title: Associate Project Manager
 email: rossana_gresia@dai.com
 summary: 'Rossana Gresia joined DAI Brussels in January 2017 to strengthen the European
