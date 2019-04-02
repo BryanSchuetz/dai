@@ -1,6 +1,6 @@
 ---
 title: Inez Couzinet
-date: 2019-04-02 16:38:00 Z
+date: 2019-04-02 12:50:00 Z
 job-title: 'EU Business Development Director '
 email: inez_couzinet@dai.com
 summary: Inez Couzinet has more than 17 years of experience as a business development
