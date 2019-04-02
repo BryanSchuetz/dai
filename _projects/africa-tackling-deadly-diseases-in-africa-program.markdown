@@ -35,13 +35,13 @@ Core partners include ICI-Santé, the Liverpool School of Tropical Medicine, Fon
 
 ![TDDAP.jpg](/uploads/TDDAP.jpg)
 
-### Select Activities
+### Sample Activities
 
 * Engage in strengthening in-country networks of government and civil society with respect to International Health Regulation compliance, infectious disease surveillance, and outbreak response.
 
-* Employ WHO tools such as Joint External Evaluations and One Health tabletop simulations that DAI helped develop and pilot, in setting priorities for National Action Plans for health security linked to UHC.
+* Employ WHO tools such as Joint External Evaluations and One Health tabletop simulations, that DAI helped develop and pilot, in setting priorities for National Action Plans for health security linked to UHC.
 
-* Strengthen information management and evidence uptake mechanisms at national and subnational levels to enable  decision makers to prioritise prevention actions, and activate emergency and other responses.
+* Strengthen information management and evidence uptake mechanisms at national and subnational levels to enable  decision makers to prioritise prevention actions and activate emergency and other responses.
 
 * Co-create a monitoring and evaluation framework that captures relationships among inputs, outputs, outcomes, and impact in using health security investment to improve UHC.
 
