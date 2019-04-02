@@ -1,7 +1,6 @@
 ---
 title: Zeno Falezza
 date: 2019-04-02 12:49:00 Z
-published: false
 job-title: Director, EU Framework Unit
 email: zeno_falezza@dai.com
 summary: 'Zeno Falezza is the Director of the European Union (EU) Framework Unit and
