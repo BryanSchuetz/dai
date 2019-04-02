@@ -10,7 +10,7 @@ summary: Mathilde Gaston-Mathe is a communications and knowledge management cons
   DEVCO’s Trade and Private Sector Development Unit. Mathilde is also responsible
   for the communication and visibility of DAI Brussels.
 image: "/uploads/mathilde.jpg"
-group: Brussels Management
+group: Archive
 sort-order: 4
 ---
 
