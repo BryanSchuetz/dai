@@ -12,7 +12,7 @@ summary: 'Mónica Peiró Vallejo, as a member of the Business Development Unit, 
   range of institutional strengthening, budget support, private sector and trade projects
   in Latin America, Africa, Caribbean, and EU Neighbourhood countries. '
 image: "/uploads/Monica%20Peiro.jpg"
-group: Brussels Management
-sort-order: 2
+group: Brussels Coordinators
+sort-order: 1
 ---
 
