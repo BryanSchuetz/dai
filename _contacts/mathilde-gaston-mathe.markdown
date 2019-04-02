@@ -1,6 +1,7 @@
 ---
 title: Mathilde Gaston-Mathe
 date: 2017-03-07 16:29:00 Z
+published: false
 job-title: Senior Consultant, Communications and Knowledge Management
 email: Mathilde_Gaston-Mathe@dai.com
 summary: Mathilde Gaston-Mathe is a communications and knowledge management consultant.
