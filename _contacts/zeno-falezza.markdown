@@ -11,6 +11,7 @@ summary: 'Zeno Falezza is the Director of the European Union (EU) Framework Unit
   projects. Zeno is fluent in English, French, Italian, and Spanish and has a strong
   education background with a degree in international law and a specialization in
   human resources management. '
+image: "/uploads/zeno.png"
 group: Brussels Management
 sort-order: 5
 ---
