@@ -2,10 +2,10 @@
 title: Sarah Maguire
 date: 2016-01-21 22:18:00 Z
 lastname: Maguire
-summary: Sarah Maguire joined DAI's London office as a Director of Technical Services,
-  Governance, in March 2015. She has extensive experience in promoting human rights
-  in fragile and conflict-affected countries, and at the policy level with donors,
-  United Nations entities, and nongovernmental organizations.
+summary: Sarah Maguire is the Director of the Governance team at DAI Europe. Sarah
+  practiced at the Bar of England and Wales in criminal defence, immigration, asylum,
+  and family law before joining the U.K. Department for International Development
+  as Senior Human Rights Adviser.
 job-title: Director, Technical Services, Governance
 image: https://assetify-dai.com/experts/SarahMaguireInner.jpg
 solutions:
