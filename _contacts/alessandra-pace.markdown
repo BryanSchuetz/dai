@@ -10,7 +10,7 @@ summary: Alessandra Pace is Office Administrator, dealing with logistics, purcha
   Programmes and in the Italian Public Administration as Project Manager of EU-funded
   projects for entrepreneurs and business development.
 image: "/uploads/Alessandra%20Pace.jpg"
-group: Brussels Coordinators
+group: archive
 sort-order: 5
 ---
 
