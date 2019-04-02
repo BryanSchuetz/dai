@@ -1,6 +1,7 @@
 ---
 title: Gianfabrizio Ladini
 date: 2017-03-07 16:38:00 Z
+published: false
 job-title: Project Manager
 email: Gianfabrizio_Ladini@dai.com
 summary: Gianfabrizio Ladini works in the EC Programme Management Unit, where he is
