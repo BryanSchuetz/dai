@@ -1,6 +1,7 @@
 ---
 title: Emmanuel Moyart
 date: 2017-03-07 16:37:00 Z
+published: false
 job-title: Project Lead, Trade, Private Sector Development, and Engagement (TSPD/E)
   Facility
 email: Emmanuel_Moyart@dai.com
