@@ -23,8 +23,9 @@ DAI will help the FCO achieve its vision by designing and implementing three ent
 DAI's core partners on the project include Wood PLC, OPITO, and Ogilvy.
 
 ### Sample Activities
-  
-* Develop a local workforce that has the transferable energy sector skills and international certifications necessary to meet industry demand;
-* Build the capacity of Mexico’s small and medium-sized enterprises to better support supply chain integration; and
-* Build the capacity of energy regulators and officials to promote international best practices in accountability and transparency and ensure compliance with local content regulations.
 
+* Develop a local workforce that has the transferable energy sector skills and international certifications necessary to meet industry demand.
+
+* Build the capacity of Mexico’s small and medium-sized enterprises to better support supply chain integration.
+
+* Build the capacity of energy regulators and officials to promote international best practices in accountability and transparency and ensure compliance with local content regulations.
