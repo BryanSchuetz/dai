@@ -15,7 +15,7 @@ summary: As part of the Business Development Unit, Kari Busman brings more than 
   holds a bachelor’s degree in European studies and a masters degree in contemporary
   Chinese political science.
 image: "/uploads/Kari%20Busman.jpg"
-group: Brussels Management
+group: archive
 sort-order: 5
 ---
 
