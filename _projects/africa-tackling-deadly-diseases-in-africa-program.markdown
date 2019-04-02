@@ -31,7 +31,7 @@ The four-year TDDAP project is a segment of the broader programme, and focuses o
 
 The TDDAP Project will support country leadership and accountability for integrated health security planning using infectious diseases as an entry point for strengthening International Health Regulation compliance. The project also supports an Emergency Response Mechanism for strengthening capacity to manage preparedness and response to pre-crisis situations at the sub-national level across sub-Saharan Africa.
 
-Core partners include ICI-Santé, the Liverpool School of Tropical Medicine, Fondation Mérieux, the Operations Partnership, and UK-Med, in addition to resource partners Institute of Development Studies, EHealth Nigeria, and [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) affiliate IntraHealth.
+Core partners include ICI-Santé, the Liverpool School of Tropical Medicine, Fondation Mérieux, The Operations Partnership, and UK-Med, in addition to resource partners Institute of Development Studies, EHealth Nigeria, and [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) affiliate IntraHealth.
 
 ![TDDAP.jpg](/uploads/TDDAP.jpg)
 
