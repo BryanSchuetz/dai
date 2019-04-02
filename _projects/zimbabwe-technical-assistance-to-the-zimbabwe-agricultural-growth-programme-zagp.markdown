@@ -23,7 +23,11 @@ The Technical Assistance to the Zimbabwe Agriculture Growth Programme (ZAGP), fu
 ![cow.jpg](/uploads/cow.jpg)
 
 ### Sample Activities
+
 * Provide training in environmentally sustainable agricultural practices to improve animal production and increase income for smallholder farmers.
+
 * Support public-private partnership engagement to promote regulatory reforms that increase agribusiness competitiveness.
+
 * Facilitate access to credit for livestock value chain actors, enabling them to invest in and improve their businesses.
-* Offer policy analysis to and enhance change management capacity of institutions implementing agricultural reforms.
+
+* Offer policy analysis to, and enhance change management capacity of, institutions implementing agricultural reforms.
