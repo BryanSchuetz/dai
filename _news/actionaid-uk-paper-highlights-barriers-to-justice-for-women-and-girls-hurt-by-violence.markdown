@@ -9,7 +9,8 @@ ActionAid UK today released a global positioning paper on violence against women
 
 Violence against women and girls is severe and widespread, and it prevents women across the globe from reaching their full potential. An estimated one in three women is subjected to violence, with 35 percent having experienced either physical and/or sexual violence by an intimate partner, or sexual violence at the hands of someone else. In many countries, survivors lack any effective means of justice, and are left without remedy or safety. 
 
-![Cover.png](/uploads/Cover.png)
+![Cover.png](/uploads/Cover.png) {:.float-left}
+
 To address this issue, ActionAid UK is launching a three-year “Justice Deficit” campaign, which includes research to influence policy change in key partner countries and in the United Kingdom to make justice for survivors of violence accessible.* The Justice Deficit: A Global Overview* aims to deepen and develop global positions, policy, and advocacy work on violence against women and girls, and offers policy recommendations for national governments and international donors. It focuses specifically on the role played by the justice system (or the lack thereof) in preventing and responding to this prevalent form of human rights abuse.
 
 DAI’s Sarah Maguire led the drafting of the paper. A globally recognized expert on human rights law and violence against women and girls, Maguire has practiced at the Bar of England and Wales in criminal defense, immigration, asylum, and family law, and has served as a Senior Human Rights Adviser for the U.K. Department for International Development. At DAI, she has led human rights and justice sector programs in Pakistan, Kenya, and Sierra Leone.
