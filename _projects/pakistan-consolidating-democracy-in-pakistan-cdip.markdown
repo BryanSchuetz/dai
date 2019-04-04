@@ -22,13 +22,19 @@ The U.K. Department for International Development (DFID)-funded Consolidating De
 ### Sample Activities
 
 * Support civil society groups to expand voter registration, electoral participation, and election observation.
+
 * Build the communication and legislative drafting skills of key parliamentarians to help them more effectively represent their constituents.
+
 * Engage with groups representing women, youth, and other marginalized populations to encourage their participation in policy debates and advocacy efforts.
 
 ### Select Results
 
-* Held an event with 150 participants to observe 2017 International People With Disabilities Day. The event served as a platform for the Election Commission of Pakistan to inform the PWD community about steps taken to accommodate voters with disabilities.  
+* Held an event with 150 participants to observe 2017 International People With Disabilities (PWD) Day. The event served as a platform for the Election Commission of Pakistan to inform the PWD community about steps taken to accommodate voters with disabilities.
+
 * Organised a National Dialogue about closing the gender gap in Pakistan’s Electoral Rolls. The dialogue opened with an expert briefing on the current situation, followed by a moderated roundtable by on key challenges and barriers to women’s voter registration, and a dialogue on policy recommendations to close the gender gap in electoral rolls.
+
 * Helped register more than 184,000 [women as voters](/uploads/DAI-Tabeer's%20contribution%20to%20increase%20women's%20political%20participation.pdf).
+
 * Reached 9.7 million citizens through a radio campaign stressing women’s electoral participation.
+
 * Ran a media campaign to inform citizens about the process required to check and update their details in the national electoral rolls. Some 1.5 million people visited electoral roll display centres and almost 900,000 applied for changes.
