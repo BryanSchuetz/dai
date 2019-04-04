@@ -35,7 +35,7 @@ At the heart of FST is DAI’s market systems approach to inclusive financial se
 
 ### Select Results
 
-* Conducted Financial Awareness Days with partners, the National Bank of Ukraine, VISA, the Deposit Guarantee Fund of Ukraine, Independent Association of Ukrainian Banks, the Banking University, and the Securities and Stock Market National Commission, featuring multiple workshops and lecture sessions for teachers and university professors, high school and university students, business people, vulnerable groups, and the general public. The event attracted more than 10,000 individuals.
+* Conducted Financial Awareness Days with partners–including the National Bank of Ukraine, VISA, the Deposit Guarantee Fund of Ukraine, Independent Association of Ukrainian Banks, the Banking University, and the Securities and Stock Market National Commission–featuring multiple workshops and lecture sessions for teachers and university professors, high school and university students, business people, vulnerable groups, and the general public. The event attracted more than 10,000 individuals.
 
 * Developed a national Financial Empowerment training program for vulnerable populations (internally displaced persons, pensioners, orphans) implemented with partner, the Ukrainian Women's Fund.
 
