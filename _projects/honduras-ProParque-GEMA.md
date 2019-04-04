@@ -23,7 +23,7 @@ Honduras and its Bay Islands offer unparalleled natural wonders—stunning coral
 
 To help the Honduran government [confront these pressing issues](http://dai-global-developments.com/articles/mitigating-instability-in-central-america/), the U.S. Agency for International Development (USAID) launched [ProParque ](http://en.usaid-proparque.org/)in 2011, also implemented by DAI. Over six years, ProParque worked with government stakeholders to strengthen the nation’s protected area management system and promote [rural enterprise growth](https://www.youtube.com/watch?v=Lwy0yHaAMRE&feature=youtu.be), climate change adaptation, disaster risk reduction, and clean energy development.
 
-To build upon these accomplishments, USAID designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua, or Governance in Ecosystems, Livelihoods, and Water (GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA is working in western Honduras to further improve natural conservation policies; develop opportunities for inclusive, environmentally sustainable economic growth; and promote a more climate-informed and resilient civil society in Honduras.
+To build upon these accomplishments, USAID designed the Gobernanza en Ecosistemas, Medios de Vida, y Agua—or Governance in Ecosystems, Livelihoods, and Water—(GEMA) project as a follow-on program to scale up and replicate the successes of ProParque. GEMA is working in western Honduras to further improve natural conservation policies; develop opportunities for inclusive, environmentally sustainable economic growth; and promote a more climate-informed and resilient civil society in Honduras.
 
 <iframe src="https://player.vimeo.com/video/296073378" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -31,7 +31,7 @@ To build upon these accomplishments, USAID designed the Gobernanza en Ecosistema
 
 * Strengthen local institutions for natural resource management and water governance through capacity building and formation of collaborative alliances.
 
-* Educate Hondurans about the ability of hydropower to increase their ability to advocate and negotiate. Prepare “Good Practices Guide” and “Lessons Learned in the Socialization Process,” on hydropower projects working with local communities.
+* Educate Hondurans about how hydropower can increase their ability to advocate and negotiate. Prepare “Good Practices Guide” and “Lessons Learned in the Socialization Process” materials on hydropower projects working with local communities.
 
 * Promote education and awareness about renewable energy technologies, such as solar panels and improved cook stoves, and provide support to renewable energy microenterprises.
 
