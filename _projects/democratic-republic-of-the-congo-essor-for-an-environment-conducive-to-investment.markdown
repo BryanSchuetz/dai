@@ -36,7 +36,7 @@ Essor’s workstreams focus on:
 
 * Provide exclusive technical assistance aimed at [operationalising a leasing-enabling environment](http://dai-global-developments.com/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/) following the DRC’s adoption of its leasing law.
 
-* Provide exclusive technical assistance aimed at effective market liberalisation through an inclusive insurance enabling environment following the DRC’s adoption of a new Insurance code.
+* Provide exclusive technical assistance aimed at effective market liberalisation through an inclusive insurance-enabling environment following the DRC’s adoption of a new insurance code.
 
 ### Essor A2F Select Results
 
