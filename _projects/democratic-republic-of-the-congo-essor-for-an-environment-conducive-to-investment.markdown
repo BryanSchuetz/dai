@@ -40,7 +40,7 @@ Essor’s workstreams focus on:
 
 ### Essor A2F Select Results
 
-* Developed a Collateral Registry IT tool that allows data gathering, sharing and management of information on borrowers' collateral by financial institutions.
+* Developed a Collateral Registry IT tool that allows data gathering, sharing, and management of information on borrowers' collateral by financial institutions.
 
 * Designed financial literacy modules to train potential lessors and lessees in the DRC on how debt, credit, and leasing works.
 
