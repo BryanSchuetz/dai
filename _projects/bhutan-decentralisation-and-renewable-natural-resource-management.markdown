@@ -3,7 +3,7 @@ title: Bhutan—Decentralisation and Renewable Natural Resource Management
 date: 2019-02-04 17:39:00 Z
 summary: 'This work supports implementation of the European Union-bilateral development
   cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget
-  support programmes: 1) Rural Development and Climate Change and 2) Local Governance
+  support programmes: 1), Rural Development and Climate Change and 2), Local Governance
   and Fiscal Decentralisation. '
 start: 2019
 end: 2021
@@ -17,12 +17,14 @@ country: Bhutan
 
 Bhutan is a small country wedged between India and China with 60 percent of its population relying on agriculture-based livelihoods such as subsistence farming and animal husbandry. Twelve percent of the country’s people lives in poverty. Most industrial sectors are cottage industry. Rugged mountainous terrain makes it difficult and expensive to build and maintain roads, transport, energy, and other infrastructure, so Bhutan’s long-term self-reliance will rely upon effectively managed local natural resources.
 
-This project supports implementation of the European Union (EU)-bilateral development cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget support programmes: 1) Rural Development and Climate Change and 2) Local Governance and Fiscal Decentralisation. 
+This project supports implementation of the European Union (EU)-bilateral development cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget support programmes: 1), Rural Development and Climate Change and 2), Local Governance and Fiscal Decentralisation.
 
-![Bhutan-NRM-new.jpg](/uploads/Bhutan-NRM-new.jpg "Photo: Richard Mortel")  
+![Bhutan-NRM-new.jpg](/api/v2/sites/564c9dd83aaede7e1b000039/source/_uploads/Bhutan-NRM-new.jpg?download "Photo: Richard Mortel")
 
 ## Sample Activities
 
 * Provide technical assistance and capacity building to improve implementation of the programmes financed by the EU.
-* Facilitate related policy dialogue and engagement between the EU and Royal Government of Bhutan. 
+
+* Facilitate related policy dialogue and engagement between the EU and Royal Government of Bhutan.
+
 * Strengthen the capacity of the National Statistical Bureau and improve the statistical system at central and local levels to support effective renewable natural resources management and local governance of sustainable development.

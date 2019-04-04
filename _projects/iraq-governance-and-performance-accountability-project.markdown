@@ -14,10 +14,12 @@ regions: Middle East and North Africa
 country: Iraq
 ---
 
-The Iraq Governance and Performance Accountability (IGPA) project, known locally as "Takamul" or "Integration" [supports](http://dai-global-developments.com/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq/?utm_source=daidotcom) the Iraqi Government to shore up fiscal stability while rapidly and visibly improving service delivery. The project aims to build capacity for Iraqi government service delivery, improve governorate and national government public financial management, and strengthen monitoring and oversight of service delivery and public expenditure.
+The Iraq Governance and Performance Accountability (IGPA) project, known locally as "Takamul" or "Integration" [supports](http://dai-global-developments.com/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq/?utm_source=daidotcom) the Iraqi Government shore up fiscal stability while rapidly and visibly improving service delivery. The project aims to build capacity for Iraqi government service delivery, improve governorate and national government public financial management, and strengthen monitoring and oversight of service delivery and public expenditure.
 
 ### Sample Activities
 
 * Engage key Iraqi Government stakeholders to share information, coordinate activities, and introduce IGPA/Takamul and its technical approach at the national level; at the governorate level, regional managers engage local counterparts.
+
 * Conduct political economy analyses and related assessments to identify constraints in specific service delivery sectors; design and implement appropriate interventions.
-* Establish rapid response and high impact priority activities so the Iraqi government and governorates can implement flexible and accountable capital projects—with local counterpart contributions—especially in provinces with disadvantaged and vulnerable populations.
+
+* Establish rapid response and high-impact priority activities so the Iraqi government and governorates can implement flexible and accountable capital projects—with local counterpart contributions—especially in provinces with disadvantaged and vulnerable populations.

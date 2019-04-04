@@ -1,5 +1,5 @@
 ---
-title: Afghanistan Value Chains–High Value Crops (AVC–High Value Crops)
+title: Afghanistan Value Chains (AVC)—High Value Crops
 date: 2018-09-06 18:50:00 Z
 summary: Afghanistan Value Chains–High Value Crops works with leading Afghan firms
   in select agriculture value chains to improve efficiency and profitability, driving

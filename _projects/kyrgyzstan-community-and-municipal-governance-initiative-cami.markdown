@@ -13,7 +13,7 @@ regions: Asia and the Pacific
 country: Kyrgyzstan
 ---
 
-After emerging from ethnic conflict and political upheaval in 2010, the Kyrgyz Republic has experienced a period of renewed political stability and strengthening public institutions. At the national level, the separation of powers between the executive and legislative branches is now firmly established in a new constitution, and a competitive democratic system is taking root. However, weak accountability and pervasive corruption continue to detract from citizen confidence in government institutions and inhibit the successful movement toward decentralization of government services. Ultimately, the country’s democratic reforms will not be sustainable until its citizens begin to experience them in their daily lives though an increased voice, improved services, and a stronger feeling of connectedness with their government.
+After emerging from ethnic conflict and political upheaval in 2010, the Kyrgyz Republic has experienced a period of renewed political stability and stronger public institutions. At the national level, the separation of powers between the executive and legislative branches is now firmly established in a new constitution, and a competitive democratic system is taking root. However, weak accountability and pervasive corruption continue to detract from citizen confidence in government institutions and inhibit the successful movement toward decentralization of government services. Ultimately, the country’s democratic reforms will not be sustainable until its citizens begin to experience them in their daily lives though an increased voice, improved services, and a stronger feeling of connectedness with their government.
 
 ![CAMI_photo_2_web.jpg](/uploads/CAMI_photo_2_web.jpg)
 
@@ -24,14 +24,21 @@ DAI’s approach will focus first on service delivery improvements that are high
 ### Sample Activities
 
 * Work with local governments to develop effective public outreach strategies that address key citizen grievances identified in an initial rapid survey.
-* Support locally elected council members through trainings on topics such as conducting public hearings and budget and planning oversight.
+
+* Support locally elected council members through training on topics such as conducting public hearings and budget and planning oversight.
+
 * Assist in developing and disseminating a local council member code of ethics.
-* Utilize mobile phone-based surveys to help local governments monitor citizen feedback; address concerns in a timely manner; and foster greater public participation in the delivery of government services.
+
+* Utilize mobile phone-based surveys to help local governments monitor citizen feedback, address concerns in a timely manner, and foster greater public participation in the delivery of government services.
 
 ### Select Results
 
 * Established partnerships with 32 municipalities to help launch services in water supply, waste management, agriculture, and other areas.
+
 * Trained 1,126 municipality staff and technical experts.
+
 * Arranged 62 public hearings on local services, budget execution, and development of citizen charters and supported six municipalities in launching priority services.
+
 * Organized the Forum of Aimaks that brought together 133 representatives from state and municipal governments and community organizations to discuss strategies to enhance regional development within the country.
+
 * Helped the village of Kok-Jar find a [durable solution for clean water](https://usaidkg.exposure.co/water-in-kokjar?fbclid=IwAR0g-gfZ9XzIK4EIuc3UpuWTTBrEMJf5o__HPko0cVG5zrOCvEnTmzy3x9g).

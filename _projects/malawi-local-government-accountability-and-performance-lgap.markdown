@@ -21,7 +21,7 @@ regions: Sub-Saharan Africa
 country: Malawi
 ---
 
-More than 20 years have passed since Malawi held its first multi-party elections. The government is now renewing its efforts to decentralize—based on the principle that sustainable socioeconomic development is best achieved when decisions are made locally. Institutional tensions and confusion over responsibilities between government units continues to hinder successful decentralization, despite having a strong governance framework in place. District budgets are still allocated by the central government with little local input; political patronage and lack of supervision have led to a cycle of poor performance by public servants; and crucial information is not shared between levels of government. Pervasive constraints such as these contribute to the failure of local governments to deliver basic services to citizens, which serves to undermine government credibility and public faith in the system.
+More than 20 years have passed since Malawi held its first multi-party elections. The government is now renewing its efforts to decentralize—based on the principle that sustainable socioeconomic development is best achieved when decisions are made locally. Institutional tensions and confusion over responsibilities between government units continue to hinder successful decentralization, despite having a strong governance framework in place. District budgets are still allocated by the central government with little local input, political patronage and lack of supervision have led to a cycle of poor performance by public servants, and crucial information is not shared between levels of government. Pervasive constraints such as these contribute to the failure of local governments to deliver basic services to citizens, which undermines government credibility and public faith in the system.
 
 To ensure more citizens benefit from the effects of decentralization, the U.S. Agency for International Development (USAID) has designed the Local Government Accountability and Performance (LGAP) activity. LGAP will work across eight districts to improve local government performance and transparency, increase citizen engagement, and strengthen the enabling environment for decentralization in Malawi.
 
@@ -34,8 +34,11 @@ View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and
 ### Sample Activities
 
 * Provide targeted capacity-building assistance specific to the roles and requirements of various public servants, with a focus on solving locally relevant problems rather than broad standardized training.
+
 * Identify performance gaps and work closely with embedded teams and local change agents to facilitate institutional reforms and improve organizational effectiveness.
+
 * Improve the [government accountability system](https://medium.com/usaid-2030/democracy-delivers-in-malawi-c79cd4627af6) by strengthening existing mechanisms, such as community scorecards and service management committees, while introducing new accountability tools, including public service charters and social audits.
+
 * Create a dynamic space for collaboration with programs led by USAID and other donors also working in LGAP districts, integrating development activities at the community, district, and national levels.
 
 <iframe src="https://player.vimeo.com/video/273965892" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -33,19 +33,30 @@ RG3 [assists](https://www.liberianobserver.com/news/usaid-liberia-rg3-project-do
 
 ### Sample Activities
 
-* Work with staff across the Ministry of Finance and Development Planning to build tax-related institutional capacity in policy design, organizational structure, and drafting of legislation.
+* Work with staff across the Ministry of Finance and Development Planning (MFDP) to build tax-related institutional capacity in policy design, organizational structure, and drafting of legislation.
+
 * Facilitate meetings of stakeholders from the private sector, civil society, and government to develop a "fiscal pact" that makes the social contract of taxation explicit and tangible.
+
 * Support the Government of Liberia to develop and roll out awareness campaigns through outreach tools such as billboards, social media, and radio ads.
+
 * Establish and operationalize a toll-free call center to receive, route, and resolve taxpayers' questions in a customer service-oriented manner.
 
 ### Select Results
 
 * Facilitated a [tenfold increase](https://www.dai.com/news/tenfold-increase-in-reported-tax-obligations-via-e-filing-marks-improved-transparency-governance-for-liberia)—from $1.2 million in Q3 2018 to $12.5 million in Q4 2018—in reported taxes due via e-filing.
+
 * Increased taxpayer inquiries to the LRA call center tenfold through aggressive mobile text-messaging outreach.
-* Conducted innovative text-based taxpayer perception survey and cost-of-compliance survey using computer-assisted telephone interviewing.
+
+* Conducted an innovative text-based taxpayer perception survey and a cost-of-compliance survey using computer-assisted telephone interviewing.
+
 * Assisted LRA to establish a data processing center that improved transparency encompassing 70 percent of revenues and generates information to inform audit selection and improve revenue forecasting.
-* Assisted establishment of Taxpayer Advocate’s Office that supports taxpayer’s rights in areas such as customs clearance and verification of tax compliance.
+
+* Assisted in the establishment of the Taxpayer Advocate’s Office that supports taxpayers' rights in areas such as customs clearance and verification of tax compliance.
+
 * Helped LRA allow taxes to be paid through commercial banks and their branches—as much as $7.3 million in taxes was paid using this method though August 2017.
-* Increased tax payment transactions by 48 percent in March–August 2017 compared with the same period in 2016, which is expected to lead to increased revenues for the government.
-* In cooperation with the Ministry of Finance and Development Planning (MFDP), developed revised draft excise tax legislation that should help significantly increase revenue.
+
+* Increased tax payment transactions by 48 percent between March and August 2017, compared with the same period in 2016; this is expected to lead to increased revenues for the government.
+
+* Developed, in cooperation with the MFDP, revised draft excise tax legislation that should help significantly increase revenue.
+
 * Introduced mobile payments for all taxes and select non-tax fees to reduce time and cost for taxpayers and eliminate risky cash transactions.

@@ -26,7 +26,7 @@ country:
 layout: project
 ---
 
-Nexos Locales is working with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socio-economic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
+Nexos Locales is working with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socioeconomic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
 
 [Nexos Locales ](http://www.nexoslocales.com/)aims to increase the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and global climate change; and improve public financial management. The team will work with the municipalities to improve basic services delivery and security plans, as well as [increase civil society participation](http://dai-global-developments.com/articles/mitigating-instability-in-central-america/?utm_source=daidotcom) in decision-making.
 
@@ -34,18 +34,26 @@ Nexos Locales will also increase the capacity of the National Association of Mun
 
 <iframe src="https://player.vimeo.com/video/252925588" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-###  Sample Activities
+### Sample Activities
 
 * Improve municipal provision of potable water in municipalities.
+
 * Develop sound public financial systems to promote transparency and permit participation by citizens in decision-making.
+
 * Strengthen [civil society participation](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) in social accountability processes.
+
 * Establish and implement local development plans to improve food security and economic development.
 
-###  Select Results
+### Select Results
 
-* Supported the municipality of Chiantla, Huehuetenango, with the development, launch, and end-user evaluation of a smartphone transparency app called [#SomosChiantla](https://dai-global-digital.com/governance-app-guatemala.html) to provide citizens with a user-friendly interface for finding information about local government public expenditures. In 2018, the project replicated the app in San Rafael Pie de la Cuesta, San Marcos, and Sacapulas, Quiché.  
-* Provided assistance and disseminated easy-to-use tools developed by the project for municipal governments’ to expand their revenue sources, and as a result, 37 municipalities increased their revenues by an average of 53 percent in 2018.
-* Strengthened municipal water and sanitation offices, resulting in a tripling of the number of municipalities providing safe water to citizens.  
+* Supported the municipality of Chiantla, Huehuetenango, with the development, launch, and end-user evaluation of a smartphone transparency app called [#SomosChiantla](https://dai-global-digital.com/governance-app-guatemala.html) to provide citizens with a user-friendly interface for finding information about local government public expenditures. In 2018, the project replicated the app in San Rafael Pie de la Cuesta, San Marcos, and Sacapulas, Quiché.
+
+* Provided assistance and disseminated easy-to-use tools developed by the project for municipal governments’ to expand their revenue sources; as a result, 37 municipalities increased their revenues by an average of 53 percent in 2018.
+
+* Strengthened municipal water and sanitation offices, resulting in a tripling of the number of municipalities providing safe water to citizens.
+
 * Created three public-private partnerships in the municipalities of Uspantán, Nebaj, and Cunén.
-* Assisted with the design and launch of three Citizen Charters, a social accountability tool that formalizes the mutual responsibilities between citizens and the municipality in providing public services. 
+
+* Assisted with the design and launch of three Citizen Charters, a social accountability tool that formalizes the mutual responsibilities between citizens and the municipality in providing public services.
+
 * Advocated through the National Association of Municipalities for the passage of the first reading of the municipal career civil service bill in the plenary of the Guatemalan Congress in late 2018.
