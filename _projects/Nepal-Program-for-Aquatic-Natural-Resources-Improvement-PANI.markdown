@@ -39,6 +39,6 @@ Paani works to raise the profile of freshwater issues through policy engagement,
 
 * Developed an Aquatic Animals and Biodiversity Conservation Bill, which was endorsed by three municipalities.
 
-* Launched an Integrated Water Resources Management course and scholarship program at Mid-Western University. The scholarship program expands the reach of the program to humanities and social science students, as well as those from marginalized backgrounds.
+* Launched an Integrated Water Resources Management course and scholarship program at Mid-Western University. The scholarship program expanded the reach of the program to humanities and social science students, as well as those from marginalized backgrounds.
 
-* Through engaging hundreds of citizen scientists, completed comprehensive watershed profiles and watershed health reports for eight priority watersheds. These reports, and the consultative process that was used to create them, narrow the knowledge gap and create a shared understanding of ecosystem health.
+* Completed, by engaging hundreds of citizen scientists, comprehensive watershed profiles and watershed health reports for eight priority watersheds. These reports, and the consultative process used to create them, narrowed the knowledge gap and create a shared understanding of ecosystem health.
