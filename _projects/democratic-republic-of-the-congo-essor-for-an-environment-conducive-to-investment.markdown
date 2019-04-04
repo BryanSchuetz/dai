@@ -18,7 +18,7 @@ The five-year Essor Programme was launched by a consortium headed by Pricewaterh
 
 Essor’s workstreams focus on:
 
-1. Implementing the Organisation of the Harmonisation of the Business Law in Africa (OHADA), an initiative that comprises 17 countries, including the Democratic Republic of the Congo;
+1. Implementing the Organisation of the Harmonisation of the Business Law in Africa (OHADA), an initiative that comprises 17 countries, including the Democratic Republic of the Congo (DRC);
 
 2. Combatting corruption;
 
@@ -36,7 +36,7 @@ Essor’s workstreams focus on:
 
 * Provide exclusive technical assistance aimed at [operationalising a leasing-enabling environment](http://dai-global-developments.com/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/) following the DRC’s adoption of its leasing law.
 
-* Provide exclusive technical assistance aimed at effective market liberalisation through an inclusive insurance enabling environment following DRC’s adoption of a new Insurance code.
+* Provide exclusive technical assistance aimed at effective market liberalisation through an inclusive insurance enabling environment following the DRC’s adoption of a new Insurance code.
 
 ### Essor A2F Select Results
 
