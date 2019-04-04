@@ -30,11 +30,11 @@ Essor’s workstreams focus on:
 
 ### Essor A2F Sample Activities
 
-* Assist the Ministry of Finance to develop an MSME-specific chapter inside the first National Financial Inclusion Strategy;
+* Assist the Ministry of Finance to develop an MSME-specific chapter inside the first National Financial Inclusion Strategy.
 
-* Support the National Financial Education Programme;
+* Support the National Financial Education Programme.
 
-* Provide exclusive technical assistance aimed at [operationalising a leasing-enabling environment](http://dai-global-developments.com/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/) following the DRC’s adoption of its leasing law;
+* Provide exclusive technical assistance aimed at [operationalising a leasing-enabling environment](http://dai-global-developments.com/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/) following the DRC’s adoption of its leasing law.
 
 * Provide exclusive technical assistance aimed at effective market liberalisation through an inclusive insurance enabling environment following DRC’s adoption of a new Insurance code.
 
