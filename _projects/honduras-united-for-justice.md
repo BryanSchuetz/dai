@@ -28,7 +28,7 @@ In the wake of the 2009 removal of President Manual Zelaya, a weak state respons
 
 Coupled with more than a year of citizen demonstrations to demand accountability, the Unidos por la Justicia (United for Justice) program, funded by the U.S. Agency for International Development (USAID), was launched to help [address the underlying systemic failings that perpetuate high levels of crime and impunity.](http://dai-global-developments.com/articles/mitigating-instability-in-central-america/?utm_source=daidotcom) Unidos por la Justicia works with local partners to improve citizen engagement with the security and justice sectors, enhance the efficiency of the judicial system, and increase the effectiveness of community police.
 
-Building on 20 years of experience leading projects in Honduras, DAI combines best practices from previous rule-of-law programs along with a "place-based" systems approach. New initiatives are first tested at the neighborhood level in target communities with highly concentrated hotspots of crime, and resulting lessons and evidence then used to replicate successes in other municipalities and promote wider institutional reform.
+Building on 20 years of experience leading projects in Honduras, DAI combines best practices from previous rule-of-law programs along with a "place-based" systems approach. New initiatives are first tested at the neighborhood level in target communities with highly concentrated hotspots of crime, and resulting lessons and evidence are then used to replicate successes in other municipalities and promote wider institutional reform.
 
 ![unidos.jpg](/uploads/unidos.jpg)
 
