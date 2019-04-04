@@ -24,7 +24,7 @@ Implemented by DAI on behalf of the Palestinian Ministry of Finance and Planning
 
 ### Sample Activities
 
-* Design, test, and implement three innovative financial instruments (see Select Results). 
+* Design, test, and implement three innovative financial instruments (see Select Results).
 
 * Solicit proposals from investment funds for cost-shared financing to improve performance of their enterprises, and assist selected funds in enhancing their overall pipeline of invested businesses.
 
@@ -34,7 +34,7 @@ Implemented by DAI on behalf of the Palestinian Ministry of Finance and Planning
 
 ### Select Results
 
-* **Entrepreneurship Ecosystem Matching Grant (EE-MG):** This cost-sharing mechanism targets early stage investment funds seeking to build a portfolio of startup and early stage enterprises. So far, the EE-MG has helped mobilize private capital of $2,780,000 by supporting 13 startups, creating 80 jobs. 
+* **Entrepreneurship Ecosystem Matching Grant (EE-MG):** This cost-sharing mechanism targets early stage investment funds seeking to build a portfolio of startup and early stage enterprises. So far, the EE-MG has helped mobilize private capital of $2.78 million by supporting 13 startups—creating 80 jobs.
 
 * **Investment Co-Financing Facility (ICF):** This risk-sharing grant mechanism provides commercially sound, job-creating, private sector investments that may otherwise not be considered viable due to market and institutional failures. The PRICO Gaza Solar Project is the first ICF project, and five shortlisted projects similar in size are now being assessed.
 
