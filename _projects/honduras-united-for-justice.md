@@ -42,7 +42,7 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
 
 ### Select Results
 
-* Awarded seven grants to date to support civil society organizations’ (CSOs) efforts to improve access to justice for sectors of the population whose rights are prone to violation. The activities are benefitting women who suffer violence, people living with disabilities, Afro-Hondurans and members of the LGBTI community.
+* Awarded seven grants to date to support civil society organizations’ (CSOs) efforts to improve access to justice for sectors of the population whose rights are prone to violation. These activities benefit women who suffer violence, people living with disabilities, Afro-Hondurans, and members of the LGBTI community.
 
 * Worked with the National Police to plan and implement a variety of community activities designed to improve the institution’s community relations and instill the principle of shared responsibility for safe neighborhoods.
 
