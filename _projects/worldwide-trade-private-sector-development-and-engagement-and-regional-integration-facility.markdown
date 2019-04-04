@@ -34,7 +34,7 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 
 * Mobilize and manage short-term technical expertise for in-country assignments.
 
-* Build the capacity of EU staff on investment climate, supporting micro and small enterprises, private sector and trade or the External Investment Plan.
+* Build the capacity of EU staff on investment climate, supporting micro and small enterprises, the private sector and trade. or the External Investment Plan.
 
 * Design a business environment reform diagnostic toolkit.
 
