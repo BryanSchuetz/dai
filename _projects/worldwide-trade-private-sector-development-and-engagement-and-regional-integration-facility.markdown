@@ -50,8 +50,8 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 
 * Designed Business Environment Reform Guidelines for EU staff.
 
-* Provide regular training on private sector and trade and the External Investment Plan through classroom, remote, or recorded training sessions.
+* Provided regular training on the private sector and trade and the External Investment Plan through classroom, remote, or recorded training sessions.
 
-* Developed the EIP in Practice e-learning modules
+* Developed the EIP in Practice e-learning modules.
 
 * Produced “EIP Stories” short videos.
