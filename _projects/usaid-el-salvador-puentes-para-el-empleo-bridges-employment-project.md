@@ -23,7 +23,7 @@ Many young people in El Salvador's high-crime communities face impossible choice
 
 These champions face epidemic violence, challenges in institutional capacity, a complex political and policy environment, and disjointed coordination at local and national levels. The result is a system that struggles to offer all Salvadoran youth positive pathways to meaningful social inclusion offered by economic stability and rewarding work.
 
-Through Puentes para el Empleo, DAI is supporting USAID in El Salvador to link youth—including young women and vulnerable populations—to basic social resources of work, knowledge, security, and social capital in order to foster inclusion through employment opportunities. By identifying and building on existing knowledge and networks, Puentes para el Empleo will convene Salvadoran champions for youth inclusion, optimize their performance, link them to one another, and link youth to them in order to facilitate pathways toward employment.
+Through Puentes para el Empleo, DAI supports USAID in El Salvador to link youth—including young women and vulnerable populations—to basic social resources of work, knowledge, security, and social capital in order to foster inclusion through employment opportunities. By identifying and building on existing knowledge and networks, Puentes para el Empleo will convene Salvadoran champions for youth inclusion, optimize their performance, link them to one another, and link youth to them in order to facilitate pathways toward employment.
 
 <iframe src="https://player.vimeo.com/video/206426070" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
