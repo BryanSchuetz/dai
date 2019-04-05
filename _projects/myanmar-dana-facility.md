@@ -18,7 +18,7 @@ country:
 layout: project
 ---
 
-Notwithstanding growth of more than 8 percent in gross domestic product from 2014 to 2015, as well as increased foreign investment, Myanmar remains one of the poorest countries in Asia. The domestic private sector has experienced little residual benefit from outside investment, widespread underemployment remains an issue, and the majority of gains from growth are still concentrated among a few long-established business entities.
+Despite growth of more than 8 percent in gross domestic product from 2014 to 2015, as well as increased foreign investment, Myanmar remains one of the poorest countries in Asia. The domestic private sector has experienced little residual benefit from outside investment, widespread underemployment remains an issue, and the majority of gains from growth are still concentrated among a few long-established business entities.
 
 However, small and medium-sized enterprises (SMEs), including household businesses, account for more than 90 percent of all enterprises in the country. Many of these operate on an informal basis, particularly those run by women. AS a result, thousands of potential entrepreneurs are prevented from seizing business opportunities due to a lack of capital for investment and an uncertain business environment.
 
@@ -29,7 +29,11 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 ### Sample Activities
 
 * Strengthen the skills of, and [create significant business and employment opportunities](http://www.mmtimes.com/index.php/business/26753-dfid-funded-grant-program-to-target-businesses-in-four-sectors.html) for, poor women and marginalised groups.
+
 * Hold innovation challenges to identify and provide funding support for ideas that have the potential to deliver positive and impactful change in the business sector.
+
 * Provide rapid technical assistance in response to requests of the recently elected national government in regard to inclusive economic growth and private sector development.
+
 * Promote inclusive, evidence-based economic decision making at both the national and sub-national levels.
+
 * Facilitate increased trade and exports, particularly in non-extractive and job-creating sectors such as textiles, bamboo, and agribusiness.
