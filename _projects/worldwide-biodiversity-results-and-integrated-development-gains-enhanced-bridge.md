@@ -40,7 +40,7 @@ Integrating biodiversity conservation in development initiatives such as climate
 
 * Updated and revised Foreign Assistance Act sections 118/119 Tropical Forest and Biodiversity Analysis Best Practices Guide.
 
-* Developed series of evidence summaries and case studies highlighting the use of [ecosystem-based adaptation](https://rmportal.net/biodiversityconservation-gateway/conservation-development/global-climate-change/what-is-ecosystem-based-adaptation) to address climate vulnerability.
+* Developed a series of evidence summaries and case studies highlighting the use of [ecosystem-based adaptation](https://rmportal.net/biodiversityconservation-gateway/conservation-development/global-climate-change/what-is-ecosystem-based-adaptation) to address climate vulnerability.
 
 * Produced evidence briefer on the contributions of wild fisheries to food security, nutrition, and economic growth in Africa.
 
