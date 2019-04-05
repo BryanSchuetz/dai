@@ -34,7 +34,7 @@ To build upon this momentum, the USAID-funded Supporting the Policy Environment 
 
 * Work with local partners to build awareness and public support for policy reforms using traditional and social media.
 
-* Build capacity to enforce conservation laws and support ecotourism activities that help to incentivize biodiversity conservation.
+* Build capacity to enforce conservation laws and support ecotourism activities that help incentivize biodiversity conservation.
 
 * Develop scorecards to monitor reforms, using online tools to survey experts and rate progress on policy recommendations.
 
