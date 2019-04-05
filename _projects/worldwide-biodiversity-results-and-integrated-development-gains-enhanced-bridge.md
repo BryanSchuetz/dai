@@ -42,7 +42,7 @@ Integrating biodiversity conservation in development initiatives such as climate
 
 * Developed a series of evidence summaries and case studies highlighting the use of [ecosystem-based adaptation](https://rmportal.net/biodiversityconservation-gateway/conservation-development/global-climate-change/what-is-ecosystem-based-adaptation) to address climate vulnerability.
 
-* Produced evidence briefer on the contributions of wild fisheries to food security, nutrition, and economic growth in Africa.
+* Produced an evidence briefer on the contributions of wild fisheries to food security, nutrition, and economic growth in Africa.
 
 * Generated case studies on institutional enabling conditions for integration in [Mozambique](https://www.climatelinks.org/blog/better-climate-financing-through-cost-benefit-analysis) and Honduras.
 
