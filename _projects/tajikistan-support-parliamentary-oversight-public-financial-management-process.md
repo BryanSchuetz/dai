@@ -18,10 +18,12 @@ country:
 layout: project
 ---
 
-DAI will manage a local team partly comprised of the Parliament's Economics and Finance Committee Secretariat, and will be based in Dushanbe. DAI's project is a component of a wider programme of support by the U.K. Department for International Development (DFID) and the World Bank to the Government of Tajikistan for improved public financial management (PFM), which includes technical assistance to ministries, the Parliament, and civil society. Our team will focus on strengthening Parliament's analysis and review of budgetary information, the availability of high quality, evidence-based research on PFM, and engagement between Parliament and its constituents.
+DAI will manage a local team partly comprised of the Parliament's Economics and Finance Committee Secretariat, and will be based in Dushanbe. DAI's project is a component of a wider programme of support by the U.K. Department for International Development (DFID) and the World Bank to the Government of Tajikistan for improved public financial management (PFM), which includes technical assistance to ministries, the Parliament, and civil society. Our team will focus on strengthening Parliament's analysis and review of budgetary information; the availability of high quality, evidence-based research on PFM; and engagement between Parliament and its constituents.
 
-###  Sample Activities
+### Sample Activities
 
 * Support access by parliamentarians and their staff to high-quality training and evidence-based research.
+
 * Raise awareness on public finance management and develop mechanisms for parliamentary outreach.
+
 * Support broader engagement by DFID and the World Bank with the Tajik government on financial oversight and revenue management.
