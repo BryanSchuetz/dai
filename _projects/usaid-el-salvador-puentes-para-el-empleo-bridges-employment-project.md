@@ -1,8 +1,8 @@
 ---
 title: El Salvador—Puentes para el Empleo (Bridges to Employment Project)
 date: 2016-01-21 22:40:00 Z
-summary: 'Through *Puentes para el Empleo*, DAI is supporting USAID in El Salvador
-  to link youth—including young women and vulnerable populations—to basic social resources
+summary: 'Through Puentes para el Empleo, DAI is supporting USAID in El Salvador to
+  link youth—including young women and vulnerable populations—to basic social resources
   of work, knowledge, security, and social capital in order to foster inclusion through
   employment opportunities. '
 start: 2015
