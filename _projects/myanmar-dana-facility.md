@@ -34,6 +34,6 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 
 * Provide rapid technical assistance in response to requests of the recently elected national government in regard to inclusive economic growth and private sector development.
 
-* Promote inclusive, evidence-based economic decision making at both the national and sub-national levels.
+* Promote inclusive, evidence-based economic decision-making at both the national and sub-national levels.
 
 * Facilitate increased trade and exports, particularly in non-extractive and job-creating sectors such as textiles, bamboo, and agribusiness.
