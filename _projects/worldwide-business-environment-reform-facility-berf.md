@@ -20,11 +20,13 @@ country:
 layout: project
 ---
 
-The U.K. Department for International Development (DFID) leads a growing number of business environment reform programmes around the world to help small firms start, grow, and create jobs in their communities. As DFID expands this work as part of its Business Environment for Economic Development program, it has set up the [Business Environment Reform Facility](http://www.businessenvironmentreform.co.uk) (BERF) to provide its country offices with access to expert advice on program design, implementation, and monitoring and evaluation.
+The U.K. Department for International Development (DFID) leads a growing number of business environment reform programmes around the world to help small firms start, grow, and create jobs in their communities. As DFID expands this work as part of its Business Environment for Economic Development program, it created the [Business Environment Reform Facility](https://www.r4d.org/) (BERF) to provide its country offices with access to expert advice on program design, implementation, and monitoring and evaluation.
 
-BERF will also help DFID collect and disseminate lessons learned from the programme and other DFID business environment programmes more systematically, carry out policy research, and develop innovative approaches for involving stakeholders in reform programmes.
+BERF helped DFID collect and disseminate lessons learned from programmes more systematically, carry out policy research, and develop innovative approaches for involving stakeholders in reform programmes.
 
-DAI will work in consortium on the project under KPMG International, along with partners including, Itad, Social Development Direct, Law and Development Partnership, Triple Line, McKinsey, The Policy Practice, Restless Development and a range of academic institutions and independent consultants.
+DAI worked in consortium on the project under KPMG International, along with partners including, Itad, Social Development Direct, Law and Development Partnership, Triple Line, McKinsey, The Policy Practice, Restless Development and a range of academic institutions and independent consultants.
+
+DAI conducted 24 studies, supporting DFID country offices to design more effective reform programmes. 
 
 ![][1]
 
