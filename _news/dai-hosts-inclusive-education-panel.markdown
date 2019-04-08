@@ -1,6 +1,6 @@
 ---
 title: DAI Hosts Inclusive Education Panel
-date: 2019-04-08 14:03:00 Z
+date: 2019-04-08 10:28:00 Z
 solutions:
 - Education
 summary: DAI’s [education](https://www.dai.com/our-work/solutions/education) practice
