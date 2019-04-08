@@ -14,10 +14,10 @@ solutions:
 - Innovation and Entrepreneurship
 - Sustainable Livelihoods
 - Transition and Stabilization Programming
-- Voice and Accountability
+- 
 - Workforce Development and Youth
-- Data for Decisions
-- Technology Research and Development
+- 
+- 
 regions:
 - Eastern Europe and Central Asia
 country:
