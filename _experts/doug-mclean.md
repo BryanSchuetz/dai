@@ -4,11 +4,11 @@ date: 2016-01-21 22:18:00 Z
 lastname: McLean
 summary: Doug McLean is responsible for identifying and developing strategic partnerships
   that support the growth of DAI’s global business.
-job-title: Vice President, Partnerships
+job-title: Vice President of Strategic Operations, Sustainable Business Group
 image: "/uploads/new%20Doug.jpg"
 solutions:
-- Digital Acceleration
-- Technology Research and Development
+- Include Primary and/or Secondary Solutions
+- Sustainable Business
 layout: expert
 ---
 
