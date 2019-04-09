@@ -42,16 +42,14 @@ The P&R project provides technical assistance to strengthen countries’ multise
 
 ### Select Results
 
-* Helped launch national One Health platforms in eight countries.
-
-* Reinvigorated existing platforms in seven countries.
+* Helped launch or strengthen national One Health platforms in 16 countries.
 
 * Strengthened preparedness and response planning in 15 countries.
 
 * Developed or updated One Health strategic plans in 13 countries.
 
-* Conducted 12 preparedness and response simulations across seven countries.
+* Conducted 11 preparedness and response simulations across six countries.
 
-* Provided technical assistance for outbreak response in seven countries.
+* Provided technical assistance for outbreak response in five countries.
 
 For more information about the Preparedness and Response global impact, [click here](/uploads/Global%20EOP%20Flyer_Final_final-56f274.pdf).
