@@ -1,6 +1,6 @@
 ---
 title: Charlotte Mitchell
-date: 2019-04-09 15:14:00 Z
+date: 2019-04-09 11:14:00 Z
 lastname: Mitchell
 summary: Charlotte Mitchell is a public health specialist with more than nine years
   of wide-ranging United Kingdom and international experience.
