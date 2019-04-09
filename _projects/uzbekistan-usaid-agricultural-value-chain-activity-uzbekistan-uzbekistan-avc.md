@@ -19,7 +19,7 @@ layout: project
 
 Uzbekistan AVC capitalizes on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We are scaling up support to post-harvest handling and fostering new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC is co-investing with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and [cold chain operators](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/)—to ensure scalability and sustainability.
 
-We aim to [improve the quality](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/) and volume of agricultural production and post-harvest handling and production, facilitate market linkages, and link educational institutions with private sector demand.
+We aim to [improve the quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1) and volume of agricultural production and post-harvest handling and production, facilitate market linkages, and link educational institutions with private sector demand.
 
 <iframe src="https://player.vimeo.com/video/210491523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
