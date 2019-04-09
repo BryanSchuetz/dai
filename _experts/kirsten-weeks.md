@@ -3,7 +3,7 @@ title: Kirsten Weeks
 date: 2016-01-21 22:18:00 Z
 lastname: Weeks
 summary: 'Kirsten Weeks is the Chief of Party for the Jalin project in Indonesia. '
-job-title: Chief of Party, Indonesia Jalin
+job-title: 'Senior Director, Strategic Growth, Global Health '
 image: "/uploads/Kirsten-Weeks-website.jpg"
 solutions:
 - Global Health
@@ -17,7 +17,7 @@ articles:
 layout: expert
 ---
 
-Kirsten Weeks has more than 15 years of experience in designing, implementing, and managing donor-funded health projects, specializing since 2001 in helping those affected by HIV/AIDS. She joined DAI in April 2011 after six years with the Academy for Educational Development, where she served as Chief of Party on U.S. Agency for International Development and Centers for Disease Control & Prevention-funded HIV/AIDS programs in Botswana and the Dominican Republic, among other leadership roles. Prior to that, Kirsten served for two years at Family Health International, supporting a global HIV program. Over her career, she has supported a broad spectrum of innovative and evidence-based activities for livelihood strengthening and the prevention, care, support, treatment, and mitigation of HIV/AIDS through systems development, workplace programming, public-private partnerships, civil society strengthening, and improved health management information systems.
+Kirsten Weeks has more than 15 years of experience in designing, implementing, and managing donor-funded global health projects, specializing since 2001 in helping those affected by HIV/AIDS. She joined DAI in April 2011 after six years with the Academy for Educational Development, where she served as Chief of Party on U.S. Agency for International Development and Centers for Disease Control & Prevention-funded HIV/AIDS programs in Botswana and the Dominican Republic, among other leadership roles. Prior to that, Kirsten served for two years at Family Health International, supporting a global HIV program. Over her career, she has supported a broad spectrum of innovative and evidence-based activities for livelihood strengthening and the prevention, care, support, treatment, and mitigation of HIV/AIDS through systems development, workplace programming, public-private partnerships, civil society strengthening, and improved health management information systems.
 
 * M.S., public health, Emory University
 * B.A., University of North Carolina
