@@ -38,5 +38,5 @@ As county governments take on responsibility for investment in and oversight of 
 
 * Provided training to 82 WASH enterprises on water sector reforms and rights to water access, basic computer skills, business planning, and strategic marketing, accompanied by on-the-job coaching and mentoring to help enterprises improve access to WASH services for targeted communities.
 * Extended basic drinking water services to 430,000 people. Another 57,000 gained access to  basic sanitation services with 669 villages verified open-defecation free with monitoring plans in place through 2018.
-* Trained 78 public health officers to initiate Community Led Total Sanitation programs in their respective areas.
+* Trained 78 public health officers to initiate Community-Led Total Sanitation programs in their respective areas.
 * Facilitated the establishment of 12 farming demonstration sites to showcase low-cost methods for producing nutritious food and improved irrigation technologies that can significantly increase crop yields and raise incomes. 
