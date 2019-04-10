@@ -41,7 +41,7 @@ AWEF is the only market systems-based development programme in the region that a
 * Launched a Women’s Economic Empowerment Unit in Jordan.
 * Designed and developed a customised AWEF [Disadvantage Assessment Tool](http://www.seepnetwork.org/empowerment-forward-poverty-measurement--real-time-learning-from-the-arab-women---s-enterprise-fund---s-disadvantage-assessment-resources-1778.php), now in use in all three countries. 
 * Started training at least 30 women in Palestine to become paraveterinarians and work with female sheepherders in rural areas. 
-* Set up a milk supply network of 189 to 250 women with a dairy processing company; will be scaled to 500 women in the following year. 
+* Set up a milk supply network of 189 to 250 women with a dairy processing company; it will be scaled to 500 women in the following year. 
 * Engaged with major Egyptian retailers to [increase the hiring](https://beamexchange.org/community/blogs/9999/1/1/fintech-for-women-egypt/) of women. 
 
 [1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom
