@@ -27,7 +27,7 @@ Under the Land Tenure Assistance (LTA) activity, funded by the U.S. Agency for I
 
 ### Sample Activities
 
-* Assist villages and district administration in understanding the Village Land Act, completing the land-use planning process, and delivering Certificates of Customary Right of Occupancy.
+* Assist villages and district administration in understanding the Village Land Act, completing the land-use planning process, and delivering [Certificates of Customary Right of Occupancy](https://www.usaid.gov/tanzania/news/strengthening-women%E2%80%99s-land-tenure-rights-matembo).
 * Build the capacity of village and district-level land governance institutions.
 * Provide training on and expand the use of the MAST tool throughout Tanzania.
 
