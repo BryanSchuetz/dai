@@ -31,17 +31,17 @@ AWEF is the only market systems-based development programme in the region that a
 
 ### Sample Activities
 
-* Support businesses to increase focus on women’s working conditions in Egypt’s food retail, citrus, and ready-made garment sectors, and on gender-sensitive recruitment, human resource management and training policies. 
+* Support businesses to increase the focus on women’s working conditions in Egypt’s food retail, citrus, and ready-made garment sectors, and on gender-sensitive recruitment, human resource management, and training policies. 
 * Assist home-based female producers in Jordan’s dairy sector to raise awareness of the value of testing and certification of products to [increase their competitiveness](http://jordantimes.com/news/local/uk-project-helps-jerash-women-sell-dairy-products-national-market) and value.
 * Work with government standards institutes, the private sector, and women producers of food products such as maftoul, cheese, and yoghurt to streamline certification processes and services and better enable women to move up the value chain.
-* Support introduction of fee-based, [female para-veterinary services](http://dai-global-developments.com/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/) to make basic animal health care services more available locally, particularly to home-based production run by women.
+* Support introduction of fee-based, [female paraveterinary services](http://dai-global-developments.com/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women/) to make basic animal health care services more available locally, particularly to home-based production run by women.
 
 ###  Select Results
 
 * Launched a Women’s Economic Empowerment Unit in Jordan.
 * Designed and developed a customised AWEF [Disadvantage Assessment Tool](http://www.seepnetwork.org/empowerment-forward-poverty-measurement--real-time-learning-from-the-arab-women---s-enterprise-fund---s-disadvantage-assessment-resources-1778.php), now in use in all three countries. 
 * Started training at least 30 women in Palestine to become paraveterinarians and work with female sheepherders in rural areas. 
-* Set up a milk supply network of 189 to 250 women with a dairy processing company; will be scaled to 500 women in the following year. 
+* Set up a milk supply network of 189 to 250 women with a dairy processing company; it will be scaled to 500 women in the following year. 
 * Engaged with major Egyptian retailers to [increase the hiring](https://beamexchange.org/community/blogs/9999/1/1/fintech-for-women-egypt/) of women. 
 
 [1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom
