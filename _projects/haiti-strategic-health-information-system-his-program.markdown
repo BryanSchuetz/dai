@@ -37,7 +37,7 @@ At present, Haiti’s digital and paper-based health reporting platforms vary gr
 
 ### Select Results
 
-* Enrolled and are monitoring 29,900 tuberculosis patients less than one year after its launch of the Haiti government’s tuberculosis tracker.
+* Assisted Government of Haiti to enroll and monitor 29,900 tuberculosis patients less than one year after it launched the country's tuberculosis tracker.
 
 * Digitized previously paperbound patient details registered by healthcare providers at local facilities across Haiti.
 
