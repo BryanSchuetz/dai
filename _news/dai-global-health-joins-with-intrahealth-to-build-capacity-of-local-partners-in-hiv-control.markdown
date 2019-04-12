@@ -5,6 +5,11 @@ date: 2019-04-12 20:25:00 Z
 published: false
 solutions:
 - Global Health
+summary: DAI Global Health is set to help implement the new Accelerating Support to
+  Advance Local Partners (ASAP) project, a U.S. Agency for International Development
+  (USAID) initiative to prepare Sub-Saharan organizations and governments to serve
+  as prime partners for USAID and U.S. President’s Emergency Plan for AIDS Relief
+  (PEPFAR) programming.
 ---
 
 DAI Global Health is set to help implement the new Accelerating Support to Advance Local Partners (ASAP) project, a U.S. Agency for International Development (USAID) initiative to prepare Sub-Saharan organizations and governments to serve as prime partners for USAID and U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) programming.
