@@ -41,4 +41,4 @@ At present, Haiti’s digital and paper-based health reporting platforms vary gr
 
 * Digitized previously paperbound patient details registered by healthcare providers at local facilities across Haiti.
 
-* Created a mobile application to improve data collection from rural locales.
+* Created a mobile application to facilitate increased data collection, including from rural locales.
