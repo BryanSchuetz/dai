@@ -6,7 +6,7 @@ summary: With a background in conflict management, political science, and govern
   Aaron Sheldon brings more than 10 years of experience to technical and operational
   assignments.
 job-title: 'Project Manager, Stable and Effective Governance '
-image: "/uploads/Sheldon.jpg"
+image: "/uploads/Aaron%20Sheldon.jpg"
 solutions:
 - Stabilization
 regions:
