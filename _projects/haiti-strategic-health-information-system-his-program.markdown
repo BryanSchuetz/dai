@@ -34,3 +34,11 @@ At present, Haiti’s digital and paper-based health reporting platforms vary gr
 * Establish technical working groups.
 
 * Work with the health ministry to update policy and framework for data standardization, exchange, privacy, and security; interoperability of systems; and unique patient identifiers across health systems.
+
+### Select Results
+
+* Enrolled and are monitoring 29,900 tuberculosis patients less than one year after its launch of the Haiti government’s tuberculosis tracker.
+
+* Digitized previously paperbound patient details registered by healthcare providers at local facilities across Haiti.
+
+* Created a mobile application to improve data collection from rural locales.
