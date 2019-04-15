@@ -18,7 +18,7 @@ During Gaye’s tenure, IntraHealth has led flagship human resources for health 
 
 > “Pape is both a personal friend and a professional inspiration,” said **Chris LeGrand, President of DAI Global Health**. “Professionally, I’m proud to work alongside Pape as leaders of our respective organizations. Personally, I’m delighted to see his principled leadership and lifelong contributions recognized in this way.”
 
-IntraHealth and DAI Global Health announced in 2017 an affiliation that has enabled the two organizations to amplify their collective impact. Their most recent collaboration is the U.S. Agency for International Development’s [Accelerating Support to Advanced Local Partners project](https://www.intrahealth.org/news/intrahealth-work-local-african-partners-road-self-reliance-and-hiv-epidemic-control)
+IntraHealth and DAI Global Health announced in 2017 an affiliation that has enabled the two organizations to amplify their collective impact. Their most recent collaboration is the U.S. Agency for International Development’s [Accelerating Support to Advanced Local Partners project](https://www.intrahealth.org/news/intrahealth-work-local-african-partners-road-self-reliance-and-hiv-epidemic-control).
 
 The Triangle Global Health Consortium, which confers the Global Health Champion award each April, is a nonprofit membership organization working to consolidate North Carolina’s standing as an international center for global health research, advocacy, and business. The annual Triangle Global Health Awards recognize area  leaders “who improve the lives of people around the world.” 
 
