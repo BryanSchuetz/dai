@@ -7,7 +7,7 @@ solutions:
 - Global Health
 ---
 
-![pgaye2.jpg](/uploads/pgaye2.jpg){:.class="float-right"}Pape Gaye, the CEO of DAI Global Health affiliate IntraHealth International, has been named winner of the Global Health Champion award by the Triangle Global Health Consortium. Gaye will receive the honor at the Consortium’s annual awards gala on May 7, in recognition of his lifelong commitment to advancing global health.
+![pgaye2.jpg](/uploads/pgaye2.jpg){:.float-left}Pape Gaye, the CEO of DAI Global Health affiliate IntraHealth International, has been named winner of the Global Health Champion award by the Triangle Global Health Consortium. Gaye will receive the honor at the Consortium’s annual awards gala on May 7, in recognition of his lifelong commitment to advancing global health.
  
 Gaye is a native of Senegal and an unstinting advocate for health workers, strong health systems, and healthcare access for all. Under his guidance, IntraHealth has made human resources for health a crucial part of the worldwide health conversation. Headquartered in North Carolina, IntraHealth has worked in more than 100 countries to improve the performance of health workers and strengthen the systems in which they work.
 
