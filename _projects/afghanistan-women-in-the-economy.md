@@ -31,7 +31,7 @@ WIE is based in five economic zones across and works in 30 Afghan provinces. WIE
 
 WIE supports women ages 18 and above to find new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. This is done in partnership with training providers to deliver services, and by funding scholarships for training and certification programs. These activities give Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions. 
 
-Consortium partners include the Afghanistan Microfinance Association, Rumi Consultancy, and RSI Consulting (M&E), as well as the Thunderbird School of Global Management at Arizona State University.
+Consortium partners include Rumi Consultancy, RSI Consulting (M&E), and the Thunderbird School of Global Management at Arizona State University.
 
 ![WIE-project-page.jpg](/uploads/WIE-project-page.jpg)
 
@@ -41,7 +41,7 @@ Consortium partners include the Afghanistan Microfinance Association, Rumi Consu
 * Assist women’s businesses in product quality development, quality improvement, packaging, regulatory compliance, and participation in trade fairs.
 * Incentivize companies and advocate for improved workplace environments for women.
 * Support leadership career paths for women. 
-* Mentor women through job readiness preparation,  internships, apprenticeships, and job placement.
+* Support women through job readiness preparation,  internships, apprenticeships, and job placement.
 
 ### Select Results 
 
