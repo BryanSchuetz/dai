@@ -4,6 +4,10 @@ title: Pape Gaye, CEO of DAI Affiliate IntraHealth International, Wins Prestigio
 date: 2019-04-15 14:46:00 Z
 solutions:
 - Global Health
+summary: Pape Gaye, the CEO of DAI Global Health affiliate IntraHealth International,
+  has been named winner of the Global Health Champion award by the Triangle Global
+  Health Consortium. Gaye will receive the honor at the Consortium’s annual awards
+  gala on May 7, in recognition of his lifelong commitment to advancing global health.
 ---
 
 ![pgaye2.jpg](/uploads/pgaye2.jpg){:.float-left}Pape Gaye, the CEO of DAI Global Health affiliate IntraHealth International, has been named winner of the Global Health Champion award by the Triangle Global Health Consortium. Gaye will receive the honor at the Consortium’s annual awards gala on May 7, in recognition of his lifelong commitment to advancing global health.
