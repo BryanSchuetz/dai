@@ -2,7 +2,6 @@
 title: Pape Gaye, CEO of DAI Affiliate IntraHealth International, Wins Prestigious
   Global Health Award
 date: 2019-04-15 14:46:00 Z
-published: false
 solutions:
 - Global Health
 ---
