@@ -2,7 +2,7 @@
 title: ActionAid UK Paper Highlights Barriers to Justice for Women and Girls Hurt
   by Violence
 date: 2019-04-15 10:00:00 Z
-summary: ActionAid UK today released a [global positioning paper](https://www.actionaid.org.uk/sites/default/files/actionaid-gpp-final.pdf)
+summary: ActionAid UK this week released a [global positioning paper](https://www.actionaid.org.uk/sites/default/files/actionaid-gpp-final.pdf)
   on violence against women and girls around the world—and the barriers to justice
   they face. To author this work, the international human rights organization turned
   to DAI’s [Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire),
