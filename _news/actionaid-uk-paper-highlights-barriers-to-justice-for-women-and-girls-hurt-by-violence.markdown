@@ -1,8 +1,8 @@
 ---
 title: ActionAid UK Paper Highlights Barriers to Justice for Women and Girls Hurt
   by Violence
-date: 2019-04-12 10:00:00 Z
-summary: ActionAid UK today released a [global positioning paper](https://www.actionaid.org.uk/sites/default/files/actionaid-gpp-final.pdf)
+date: 2019-04-15 10:00:00 Z
+summary: ActionAid UK this week released a [global positioning paper](https://www.actionaid.org.uk/sites/default/files/actionaid-gpp-final.pdf)
   on violence against women and girls around the world—and the barriers to justice
   they face. To author this work, the international human rights organization turned
   to DAI’s [Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire),
@@ -10,7 +10,7 @@ summary: ActionAid UK today released a [global positioning paper](https://www.ac
 social-image: "/uploads/Cover-f7c646.png"
 ---
 
-ActionAid UK today released a [global positioning paper](https://www.actionaid.org.uk/sites/default/files/actionaid-gpp-final.pdf) on violence against women and girls around the world—and the barriers to justice they face. To author this work, the international human rights organization turned to DAI’s [Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire), Director of the company’s Governance team at DAI Europe.
+ActionAid UK this week released a [global positioning paper](https://www.actionaid.org.uk/sites/default/files/actionaid-gpp-final.pdf) on violence against women and girls around the world—and the barriers to justice they face. To author this work, the international human rights organization turned to DAI’s [Sarah Maguire](https://www.dai.com/who-we-are/our-team/sarah-maguire), Director of the company’s Governance team at DAI Europe.
 
 Violence against women and girls is severe and widespread, and it prevents women across the globe from reaching their full potential. An estimated one in three women is subjected to violence, with 35 percent having experienced either physical and/or sexual violence by an intimate partner, or sexual violence at the hands of someone else. In many countries, survivors lack any effective means of justice, and are left without remedy or safety.
 
