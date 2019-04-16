@@ -596,5 +596,41 @@
       "docFilename": "promoting-respectful-maternal-health-services-in-rural-zambia.pdf",
       "docThumbnail": "promoting-respectful-maternal-health-services-in-rural-zambia_page1.jpeg",
       "year": 2019
+    },
+    {
+      "docTitle": "Evaluating One Health: Are we demonstrating effectiveness?",
+      "docSummary": "The perceived benefits of a One Health approach are largely hinged on increasing public health efficiency and cost effectiveness through a better understanding of disease risk–through shared control and detection efforts, and results that benefit human, animal and ecosystem health. However, there have been few efforts to identify and systematize One Health metrics to assess these perceived efficiencies. Though emphasis on the evaluation of One Health has increased, widely cited benefits of One Health approaches have mainly been based on modeled projections, rather than outcomes of implemented interventions. We conducted a review of One Health literature to determine the current status of One Health frameworks and case studies reporting One Health metrics. Of 1839 unique papers, only 7 reported quantitative outcomes; these assessments did not follow shared methodology and several reviewed only intermediate outcomes. For others, the effectiveness of One Health approaches was often assumed without supporting evidence or determined subjectively. The absence of a standardized frame- work to capture metrics across disciplines, even in a generic format, may hinder the more widespread adoption of One Health among stakeholders. We review possible outcome metrics suitable for the future evaluation of One Health, noting the relevance of cost outcomes to the three main disciplines associated with One Health.",
+      "organization": "Preparedness and Response",
+      "docType": [
+        "Journal Article"
+      ],
+      "source": "One Health",
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness"
+      ],
+      "technicalTerms": [
+        "Disease Control Elimination & Eradication"
+      ],
+      "docFilename": "pandr-evaluating-one-health-demonstrating-effectiveness.pdf",
+      "docThumbnail": "pandr-evaluating-one-health-demonstrating-effectiveness_page1.jpeg",
+      "year": 2019
+    },
+    {
+      "docTitle": "Building the Case for Embedding Global Health Security Into Universal Health Coverage: A proposal for a unified health system that includes public health",
+      "docSummary": "TIn the wake of the recent west African Ebola epidemic, there is global consensus on the need for strong health systems; however, agreement is less apparent on effective mechanisms for establishing and maintaining these systems, particularly in resource-constrained settings and in the presence of multiple and sustained stresses (eg, conflict, famine, climate change, and globalisation). The construction of the International Health Regulations (2005) guidelines and the WHO health systems framework, has resulted in the separation of public health functions and health-care services, which are interdependent in actuality and must be integrated to ensure a continuous, unbroken national health system. By analysing efforts to strengthen health systems towards attaining universal health coverage and investments to improve global health security, we examine areas of overlap and offer recommendations for construction of a unified national health system that includes public health. One way towards achieving universal health coverage is to broaden the definition of a health system.",
+      "organization": "Preparedness and Response",
+      "docType": [
+        "Journal Article"
+      ],
+      "source": "The Lancet",
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness"
+      ],
+      "technicalTerms": [
+        "Disease Control Elimination & Eradication"
+      ],
+      "docFilename": "pandr-building-the-case-for-embedding-global-health-security.pdf",
+      "docThumbnail": "pandr-building-the-case-for-embedding-global-health-security_page1.jpeg",
+      "year": 2019
     }
 ]
