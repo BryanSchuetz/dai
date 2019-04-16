@@ -19,7 +19,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 
 
 <div class="contact">
-  <h2>Joe Abah</h2><p>Nigeria Country Director | <a href="mailto:joe_abah@dai.com">joe_abah@dai.com</a></p>
+  <h2>Joe Abah</h2><p>Nigeria Country Director</p>
   <div class="contact-image">
     <img src="https://www.dai.com/uploads/Dr.-Joe-Abah.jpg" alt="Joe Abah" />
   </div>
@@ -36,7 +36,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 </div>
 <hr>
 <div class="contact">
-  <h2>Judith Ogedegbe</h2><p>Nigeria Executive Director | <a href="mailto:judith_ogedegbe@dai.com">judith_ogedegbe@dai.com</a></p>
+  <h2>Judith Ogedegbe</h2><p>Nigeria Executive Director</p>
   <div class="contact-image">
     <img src="/uploads/Judith%20Ogedegbe.jpg" alt="Judith Ogedegbe" />
   </div>
@@ -51,7 +51,7 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 {% assign contacts = site.contacts | where: 'group', 'Nigeria' | sort: 'title' %}
 {% for contact in contacts %}
 <div class="contact">
-  <h2>{{ contact.title }}</h2><p>{{ contact.job-title }} | <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+  <h2>{{ contact.title }}</h2><p>{{ contact.job-title }}</p>
   <div class="contact-image">
     <img src="{{ contact.image }}" alt="{{ contact.title }}" />
   </div>
