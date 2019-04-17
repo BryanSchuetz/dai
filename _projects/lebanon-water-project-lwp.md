@@ -6,7 +6,7 @@ summary: The Lebanon Water Project (LWP) is increasing reliable and sustainable 
   the efficiency and sustainability of the public water utilities, and responding
   to water issues arising from the influx of Syrian refugees.
 start: 2015
-end: 2020
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Environment and Energy
