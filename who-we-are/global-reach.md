@@ -38,7 +38,3 @@ With offices in Apsley, Hertfordshire, and in London, our U.K.-based team delive
 From its earliest days as a start-up in 1970, DAI has maintained a presence in or near Washington, D.C. The three founders’ office was a tiny establishment in Georgetown. Today, our office in Bethesda, Maryland, just outside Washington, is home to some 350 employees.
 
 <a href="/who-we-are/global-reach/the-united-states" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-
-<br>
-
-[![DAI Project Map](https://api.mapbox.com/styles/v1/dai/cixhnt69a005c2qqor8eedw42/static/47.993681,25.311611,2.03,0.00,0.00/900x500?access_token=pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA&attribution=false)](/extras/maps/){:target="blank"}
