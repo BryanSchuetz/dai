@@ -9,7 +9,7 @@ summary: Doug McLean provides strategic management and operational support to pr
 job-title: Vice President of Strategic Operations, Sustainable Business Group
 image: "/uploads/new%20Doug.jpg"
 solutions:
-- Include Primary and/or Secondary Solutions
+- Economic Growth
 - Sustainable Business
 layout: expert
 ---
