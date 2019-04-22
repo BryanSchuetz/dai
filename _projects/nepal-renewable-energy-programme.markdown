@@ -10,7 +10,7 @@ end: 2023
 client: U.K. Department for International Development
 solutions:
 - Environment and Energy
-- Governance
+- Energy
 regions: Asia and the Pacific
 country: Nepal
 ---
