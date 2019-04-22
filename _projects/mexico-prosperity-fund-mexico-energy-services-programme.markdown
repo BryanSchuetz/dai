@@ -10,8 +10,9 @@ end: 2023
 client: U.K. Foreign and Commonwealth Office
 solutions:
 - Sustainable Business
-- Economic Growth
-- Governance
+- 
+- Environment and Energy
+- Energy
 regions: Latin America and the Caribbean
 country: Mexico
 ---
