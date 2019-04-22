@@ -12,10 +12,10 @@ start: 2013
 end: 2020
 client: European Bank for Reconstruction and Development
 solutions:
-- Economic Growth
+- Energy
 - Environment and Energy
 - Finance and Investment
-- Energy
+- 
 regions:
 - Sub-Saharan Africa
 country:
