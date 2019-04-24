@@ -9,7 +9,7 @@ job-title: 'Chief of Party, Liberia—Revenue Generation for Governance and Grow
 image: "/uploads/Kitain-expert-pic.jpg"
 solutions:
 - Economic Growth
-- Environment and Energy
+- 
 - Institutional and Policy Reform
 - Public Administration, Civil Service Reform, and Human Resources Management
 - Public Financial Management

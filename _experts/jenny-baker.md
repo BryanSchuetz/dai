@@ -8,10 +8,10 @@ job-title: Vice President, Global Health
 image: https://assetify-dai.com/experts/Baker_Inner.jpg
 solutions:
 - Global Health
-- Economic Growth
-- Environment and Energy
-- Governance
-- Natural Resource Management
+- 
+- 
+- 
+- 
 layout: expert
 ---
 
