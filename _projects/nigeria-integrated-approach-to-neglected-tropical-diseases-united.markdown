@@ -47,4 +47,4 @@ DAI Global Health is responsible for the health systems strengthening work strea
 
 * Supported development of a national NTDs and water, sanitation, and hygiene (WASH) engagement framework for strengthened collaboration.
 
-* Implemented capacity building plans at national and subnational levels.
+* Implemented capacity building plans at national and sub-national levels.
