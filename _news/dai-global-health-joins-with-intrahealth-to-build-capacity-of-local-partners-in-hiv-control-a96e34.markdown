@@ -3,6 +3,17 @@ title: DAI Global Health Joins with IntraHealth to Build Capacity of Local Partn
   in HIV Control
 date: 2019-04-25 17:13:00 Z
 published: false
+solutions:
+- Global Health
+- Global Health Security and Pandemic Preparedness
+regions: Sub-Saharan Africa
+clients: U.S. Agency for International Development
+summary: DAI Global Health is set to help implement the new [Accelerating Support
+  to Advance Local Partners (ASAP) project](https://www.intrahealth.org/news/intrahealth-work-local-african-partners-road-self-reliance-and-hiv-epidemic-control),
+  a U.S. Agency for International Development (USAID) initiative to prepare Sub-Saharan
+  organizations and governments to serve as prime partners for USAID and U.S. President’s
+  Emergency Plan for AIDS Relief (PEPFAR) programming.
+social-image: "/uploads/asap-4ef157.jpg"
 ---
 
 DAI Global Health is set to help implement the new [Accelerating Support to Advance Local Partners (ASAP) project](https://www.intrahealth.org/news/intrahealth-work-local-african-partners-road-self-reliance-and-hiv-epidemic-control), a U.S. Agency for International Development (USAID) initiative to prepare Sub-Saharan organizations and governments to serve as prime partners for USAID and U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) programming.
