@@ -18,6 +18,8 @@ The new project—MAMaZ against Malaria at Scale—follows a 12-month pilot from
 
 Caroline Barber, CEO of Transaid, says, “Together with our partners, this new 18-month project will see us supporting a four-fold increase in population coverage with the potential to reach five districts, 200 communities, and 38 health facilities, saving hundreds more lives. The consortium will provide strategic and technical support to NMEC as Zambia transitions to scale.”
 
+![highlights_ZAMBIA_050.jpg](/uploads/highlights_ZAMBIA_050.jpg)
+
 The project will continue to see the MAM at Scale consortium in collaboration with NMEC procure WHO quality assured Rectal Artesunate (100mg), used to help manage severe malaria in children under 6 years at a community level before they are referred to a healthcare facility to receive injectable artesunate.
 
 “Malaria can become deadly all too quickly, especially for children under 5 living far from health facilities,” says George Jagoe, Head of Access & Product Management, MMV. “The dramatic 96 percent reduction in case fatality achieved by the pilot project demonstrates not only the undeniable benefit of using RAS and emergency transport in tandem but also the incredible life-saving impact this project could have at full scale in Zambia as well as other high-burden malaria countries.”
