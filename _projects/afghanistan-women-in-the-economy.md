@@ -25,7 +25,7 @@ country:
 layout: project
 ---
 
-The U.S. Agency for International Development’s Promote: Women in the Economy (WIE) program is [bolstering women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce/?utm_source=daidotcom) in Afghanistan’s economy and working to ensure that progress made by Afghan women over the past decade endures and advances.
+The U.S. Agency for International Development’s Promote: Women in the Economy (WIE) program is [bolstering women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce?utm_source=daidotcom) in Afghanistan’s economy and working to ensure that progress made by Afghan women over the past decade endures and advances.
 
 WIE is based in five economic zones across and works in 30 Afghan provinces. WIE [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY) and businesses that employ at least 30 percent women to improve performance, income growth, and sustainability. The program provides technical assistance and industry-specific business skills training and facilitates access to finance and markets to leverage growth in the private sector.
 

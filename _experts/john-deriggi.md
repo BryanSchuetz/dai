@@ -19,9 +19,9 @@ regions:
 - Sub-Saharan Africa
 articles:
 - name: _Drones for Development_
-  article_file: http://dai-global-developments.com/articles/drones-for-development/?utm_source=daidotcom
+  article_file: http://dai-global-developments.com/articles/drones-for-development?utm_source=daidotcom
 - name: Digital@DAI Blog
-  article_file: https://dai-global-digital.com/authors/john-deriggi/?utm_source=daidotcom
+  article_file: https://dai-global-digital.com/authors/john-deriggi?utm_source=daidotcom
 layout: expert
 ---
 

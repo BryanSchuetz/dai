@@ -12,7 +12,7 @@ regions: Sub-Saharan Africa
 country: 'Zambia '
 promos:
 - title: Moving the Needle on Malaria
-  link: http://dai-global-developments.com/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/?utm_source=daidotcom
+  link: http://dai-global-developments.com/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria?utm_source=daidotcom
 - title: Bicycles Revealed as Secret Weapon in Fight Against Malaria
   link: https://www.telegraph.co.uk/news/0/bicycles-revealed-secret-weapon-reduce-deaths-malaria-children/
 - title: Empowering Women and Communities to Promote Universal Health Coverage in

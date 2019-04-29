@@ -35,7 +35,7 @@ Through HSNP, more than 600,000 of Kenya’s most vulnerable people have access 
 
 ### Select Results
 
-* Activated the [HSNP Dashboard](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe/?utm_source=daidotcom), allowing real time data about cash transfers and the process to be transferred online to and from field-level staff, improving service.
+* Activated the [HSNP Dashboard](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe?utm_source=daidotcom), allowing real time data about cash transfers and the process to be transferred online to and from field-level staff, improving service.
 * Reached 69,000 households in four northern counties with a cash transfer payment every two months in the first phase of HSNP in Kenya—from 2009 to 2012.
 * Transitioned HSNP2 to be a Government of Kenya flagship programme. It expanded to register 374,000 households (more than 2.1 million people) across four most arid and vulnerable counties.
 * Close to 100,000 households are paid a regular transfer. HSNP has paid transfers to nearly 90,000 households from an early stage of the current extreme drought cycle, helping avoid damaging impact and losses occurring.

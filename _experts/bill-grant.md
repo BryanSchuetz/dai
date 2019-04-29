@@ -17,7 +17,7 @@ articles:
     *DAIdeas*
   article_file: http://dai-global-developments.com/articles/daideas-innovation-in-action-chevron?utm_source=daidotcom
 - name: 'Market Systems Development: A Primer on Pro-Poor Programming, _DAIdeas_'
-  article_file: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/?utm_source=daidotcom
+  article_file: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming?utm_source=daidotcom
 layout: expert
 ---
 

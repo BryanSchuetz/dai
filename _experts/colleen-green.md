@@ -16,7 +16,7 @@ regions:
 - Sub-Saharan Africa
 articles:
 - name: Improving Resilience of the HIV Affected, _Developing Alternatives_
-  article_file: http://dai-global-developments.com/articles/improving-resilience-of-the-hiv-affectede280a8/?utm_source=daidotcom
+  article_file: http://dai-global-developments.com/articles/improving-resilience-of-the-hiv-affectede280a8?utm_source=daidotcom
 layout: expert
 ---
 
