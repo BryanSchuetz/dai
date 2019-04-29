@@ -5,9 +5,10 @@ solutions:
 - Global Health
 regions: Sub-Saharan Africa
 projects: Zambia—MAMaZ Against Malaria (MAM)
-summary: A consortium of partners comprising Development Data, DAI Global Health,
+summary: 'A consortium of partners comprising Development Data, DAI Global Health,
   Disacare, Transaid, and Medicines for Malaria Venture are working with the National
-  Malaria Elimination Centre in Zambia to scale up the highly successful .
+  Malaria Elimination Centre in Zambia to scale up the highly successful MAMaZ against
+  Malaria (MAM) pilot project. '
 social-image: "/uploads/Screen%20Shot%202019-04-29%20at%208.16.19%20AM.png"
 ---
 
