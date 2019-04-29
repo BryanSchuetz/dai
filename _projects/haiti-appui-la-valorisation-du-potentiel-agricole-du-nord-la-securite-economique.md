@@ -38,7 +38,7 @@ AVANSE works with both farmers and the private sector to address key constraints
 
 ### Select Results
 
-* In 2016, organized smallholder cacao farmers into vendor groups to combine and manage stocks and sell directly to Haiti’s largest cacao exporter, Novella, leading to an almost 100 percent increase in the price per pound sold by farmers.
+* In 2016, organized [smallholder cacao farmers](https://www.youtube.com/watch?v=BLBl11fRj9o) into vendor groups to combine and manage stocks and sell directly to Haiti’s largest cacao exporter, Novella, leading to an almost 100 percent increase in the price per pound sold by farmers.
 * Collaborated with local nongovernmental organization Collectifs de Lutte Contre  l’Exclusion Sociale to sign an agreement to purchase high-quality rice seeds produced by AVANSE farmers, resulting in five tons of seed sold by farmers at 68 Haitian Gourde (HTG) per kilo, compared to 35 HTG per kilo that most farmers previously earned selling rice seed on the local market.
 * Implemented improved technologies to help increase crop yields in more than 4,790 hectares of farmland in 2016, including fertilizers, plowing services, irrigation systems, and grafting and pruning tools.
 * Signed 16 grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 1,435.4 hectares of hillside land from soil erosion and prevent flooding and landslides.

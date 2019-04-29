@@ -10,7 +10,7 @@ job-title: Global Practice Lead, Local Governance
 image: https://assetify-dai.com/experts/Pashaj_Inner.jpg
 solutions:
 - Economic Growth
-- Environment and Energy
+- 
 - Governance
 - 
 regions:

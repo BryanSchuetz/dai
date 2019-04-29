@@ -1,6 +1,7 @@
 ---
 title: Andrew Watson
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Watson
 summary: Over the past 30 years, Andrew Watson’s technical focus has covered the earth
   sciences and remote sensing as well as environmental policy and impact assessment,
