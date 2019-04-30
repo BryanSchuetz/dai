@@ -32,3 +32,12 @@ To address the complex nature of violence in and around schools, Asegurando la E
 * Support the strengthening of referral mechanisms and integration of social services for child protection cases related to drug abuse, psychological support, and domestic violence.
 * Collaborate with the Ministry of Education to develop and implement protocols to help school staff address and mitigate violence.
 * Train schools and education centers on applying screening models to identify high-risk youth for early intervention and additional support.
+
+### Select Results
+
+* Assisted the Ministry of Education in developing the comprehensive National Strategy for Prevention and School Safety launched nationwide in February 2019.
+* Trained school principals nationwide in leadership, conflict resolution, and migration prevention. 
+* Designed and delivered “Educators for Peace” professional development for more than 3,000 teachers from 115 schools working in contexts of crisis. Partnered with National Pedagogical University to work on incorporating “Educators for Peace” into pre-service training.
+* Designed and implemented a sports-based, social-emotional learning program, training physical education teachers to deliver it in 80 schools. The Ministry of Education is adopting the program that can easily be expanded into hundreds of additional schools.  
+* Facilitated field visits for 262 at-risk students from disadvantaged communities to local businesses, showcasing potential career paths in “Day of Dreams” initiative to encourage young people to stay in school and graduate.
+* Recruited and trained 120 university students to serve as Fellows and conduct violence prevention activities in 115 target schools.
