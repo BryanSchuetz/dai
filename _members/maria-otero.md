@@ -1,8 +1,8 @@
 ---
 title: Maria Otero
 date: 2016-01-21 22:18:00 Z
-summary: Maria joined the board from the U.S. Department of State, where from 2009
-  until February 2013 she served as Under Secretary of State for Civilian Security,
+summary: Maria Otero joined the board from the U.S. Department of State, where from
+  2009 until February 2013 she served as Under Secretary of State for Civilian Security,
   Democracy, and Human Rights.
 image: "/assets/images/leaders/thumbnails/maria-otero.jpg"
 sort-order: 8

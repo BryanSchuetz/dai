@@ -1,8 +1,8 @@
 ---
 title: Daniel Heaney
 date: 2016-01-21 22:18:00 Z
-summary: Dan is a financial professional with more than 20 years of experience in
-  public and private companies.
+summary: Dan Heaney is a financial professional with more than 20 years of experience
+  in public and private companies.
 image: "/assets/images/leaders/thumbnails/daniel-heaney.jpg"
 sort-order: 2
 layout: leaders
