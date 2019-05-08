@@ -617,7 +617,7 @@
     },
     {
       "docTitle": "Building the Case for Embedding Global Health Security Into Universal Health Coverage: A proposal for a unified health system that includes public health",
-      "docSummary": "TIn the wake of the recent west African Ebola epidemic, there is global consensus on the need for strong health systems; however, agreement is less apparent on effective mechanisms for establishing and maintaining these systems, particularly in resource-constrained settings and in the presence of multiple and sustained stresses (eg, conflict, famine, climate change, and globalisation). The construction of the International Health Regulations (2005) guidelines and the WHO health systems framework, has resulted in the separation of public health functions and health-care services, which are interdependent in actuality and must be integrated to ensure a continuous, unbroken national health system. By analysing efforts to strengthen health systems towards attaining universal health coverage and investments to improve global health security, we examine areas of overlap and offer recommendations for construction of a unified national health system that includes public health. One way towards achieving universal health coverage is to broaden the definition of a health system.",
+      "docSummary": "In the wake of the recent west African Ebola epidemic, there is global consensus on the need for strong health systems; however, agreement is less apparent on effective mechanisms for establishing and maintaining these systems, particularly in resource-constrained settings and in the presence of multiple and sustained stresses (eg, conflict, famine, climate change, and globalisation). The construction of the International Health Regulations (2005) guidelines and the WHO health systems framework, has resulted in the separation of public health functions and health-care services, which are interdependent in actuality and must be integrated to ensure a continuous, unbroken national health system. By analysing efforts to strengthen health systems towards attaining universal health coverage and investments to improve global health security, we examine areas of overlap and offer recommendations for construction of a unified national health system that includes public health. One way towards achieving universal health coverage is to broaden the definition of a health system.",
       "organization": "Preparedness and Response",
       "docType": [
         "Journal Article"
@@ -632,5 +632,146 @@
       "docFilename": "pandr-building-the-case-for-embedding-global-health-security.pdf",
       "docThumbnail": "pandr-building-the-case-for-embedding-global-health-security_page1.jpeg",
       "year": 2019
+    },
+    {
+      "docTitle": "A Toolkit for Ministries of Health to Work More Effectively with Ministries of Finance",
+      "docSummary": "In countries around the world, Ministries of Health (MOHs) and Ministries of Finance (MOFs) play essential roles in how health systems function and when and to whom health services are delivered. While MOHs are responsible for defining the overall direction of national health policy and the day-to-day delivery of public health services, they are dependent upon MOFs that establish overall annual funding levels and release funds necessary to finance MOH operations. As a result, MOFs wield significant control over the funding and budget flexibility of MOHs. The HFG toolkit presents a set of strategies, self-assessment methodologies, and performance management processes to help MOHs better manage their own resources and effectively communicate with MOFs. The initial version of the HFG toolkit focuses specifically on the MOH / MOF dynamic. Over time it will expand to address collaboration between MOHs and a broader set of stakeholders in the health system, including Ministries of Planning, Ministries of Social Welfare, Ministries of Labor, Parliamentary Standing Committees on Health, civil society organizations, parastatals, and regulatory bodies.",
+      "organization": "Health Finance and Governance",
+      "docType": [ 
+        "Guides"
+      ],
+      "solutions": [
+        "Health Systems Strengthening"
+      ],
+      "technicalTerms": [
+        "Health Care Financing",
+        "Leadership and Governance"
+      ],
+      "docFilename": "hfg-toolkit-ministries-of-health.pdf",
+      "docThumbnail": "hfg-toolkit-ministries-of-health_page1.jpeg",
+      "year": 2013
+    },
+    {
+      "docTitle": "Self-Assessment of Internal Control Helath Sector",
+      "docSummary": "For low-income countries striving to achieve sustainable development and poverty reduction, there is growing acceptance that sound and effective financial management is a paramount concern not only for finance ministers and their staff, but also for policymakers and managers in key sectors, such as public health. With growing demands to improve health care quality, access, and outcomes, health sector decision makers face the challenge  of putting the resources allocated to them to good use, while also ensuring that those resources are properly accounted for and appropriately safeguarded. Internal control is central to this agenda. Moreover, because of its importance to both fiscal and health sector management, internal control also represents a key intersection point between ministries of finance (MOFs) and ministries of health (MOHs).",
+      "organization": "Health Finance and Governance",
+      "docType": ["Guides"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-self-assessment-of-internal-control-health-sector.pdf",
+      "docThumbnail": "hfg-self-assessment-of-internal-control-health-sector_page1.jpeg",
+      "year": 2013
+    },
+    {
+      "docTitle": "Developing Key Performance Indicators",
+      "docSummary": "Over the last several decades, governments worldwide have introduced budgetary and reporting mechanisms designed to demystify government operations and illuminate how public funds are being used to achieve policy goals. Whether dubbed “program” budgeting, “performance” budgeting, or “results-based” budgeting, the trend has seen a conceptual shift from an approach that was heavily oriented to inputs, to models designed to provide government decision makers, parliaments, and citizens with a clearer picture of what governments achieve for the public funds they spend. Performance measurement, and the use of key performance indicators (KPIs), is an integral part of any of these models, providing feedback to inform and improve public service delivery and promoting accountability by demonstrating to key stakeholders the results that government is achieving. Few economic sectors depend on performance information as intensively as does public health, where safety, speed, access, and cost can literally be “life or death” matters. With growing demands to improve health care quality, coverage, and outcomes, health sector decision makers not only face the challenge of allocating resources to the highest priorities, but also of ensuring that those resources are put to good use, deliver “value for money,” and achieve the intended outcomes or impact. KPIs are central to this agenda. Moreover, because of their importance to both budget management and accountability, KPIs also represent a key point of convergence between ministries of health (MOHs) and ministries of finance (MOFs) or, where separate from the MOF, the central budget authority.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Guides"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-developing-key-performance-indicators.pdf",
+      "docThumbnail": "hfg-developing-key-performance-indicators_page1.jpeg",
+      "year": 2013
+    },
+    {
+      "docTitle": "Data for Efficiency: A Tool for Assessing Health Systems' Resource Use Efficiency",
+      "docSummary": "The health sector accounts for a sizeable proportion of national expenditures in most countries. The pursuit of efficiency in health systems should, therefore, be a central objective of decision makers and health managers. Often, Ministries of Health do not have access to the data to properly assess internal efficiency across their operations—including physician utilization, deployment of health technologies and pharmaceuticals, and use of health facilities and hospital care. Measuring efficiency across institutions and across time is a critical element for improving the performance of health systems. The data for efficiency tool outlines key data categories and indicators necessary for assessing efficiency in the use of resource inputs, provides guidance on sources for these data, and calculation of indicators. Applying this tool, managers within Ministries of Health will be better prepared to defend their budget requests—providing evidence of internal efficiency—while ensuring effective and efficient spending of monies that are allocated.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Guides"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-data-for-efficiency.pdf",
+      "docThumbnail": "hfg-data-for-efficiency_page1.jpeg",
+      "year": 2013
+    },
+    {
+      "docTitle": "Engaging Civil Society in Health Finance and Governance: A Guide for Practitioners",
+      "docSummary": "Governments and international donor organizations increasingly acknowledge the role of civil society organizations (CSOs) in strengthening health systems. By facilitatingdialogue between government and citizens on issues of health sector priorities, performance, and accountability, CSOs can help to improve health service delivery and contribute to evidence-based policy. Often, however, CSOs lack the skills and tools needed to engage other stakeholdersin issues of health finance and governance. This guide provides practical advice on the range of tools available to CSOs in the health sector, with a specific focus on social accountability tools to help gain access to information, mobilize collective action and advocacy, and support sanctions. The guide also describes how effective civil society engagement, including efforts using social accountability tools, has resulted in important reforms to improve health service delivery performance and inform evidence-based policy. Designing programs that include the use of mechanisms and tools to engage both civil society and government counterparts that are guided by an understanding of the country context, and that recognize and mitigate potential risks are significant factors in productive civil society engagement. Intended for both governments and donors, this guide details several specific and tested practices to promote effective use of these tools.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Guides"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-engaging-civil-society-in -health-finance.pdf",
+      "docThumbnail": "hfg-engaging-civil-society-in -health-finance_page1.jpeg",
+      "year": 2014
+    },
+    {
+      "docTitle": "Entry Point Mapping: A Tool to Promote Civil Society Engagement on Health Finance and Governance",
+      "docSummary": "Civil society organizations (CSOs), particularly those working in the health sector, frequently seek opportunities to influence public health policy or share feedback on the quality or accessibility of health services. While these organizations may have important contributions to make, they often are not aware of the most effective and accessible entry points to use. Entry Point Mapping provides a methodology for systemic review and identification of mechanisms, forums and public platforms by which civil society organizations can participate in health sector policy formulation, program implementation, and oversight. This paper presents an Entry Point Mapping Tool designed for CSOs with advocacy experience and public health officials seeking to expand civil society participation and contain a step-by-step guide for researching and analyzing legal entry points for civil society participation in governance of public health care facilities.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Guides"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-entry-point-mapping.pdf",
+      "docThumbnail": "hfg-entry-point-mapping_page1.jpeg",
+      "year": 2014
+    },
+    {
+      "docTitle": "Guidelines for Parliamentary Standing Committees on Oversight of Programming to Reduce Child and Maternal Mortality",
+      "docSummary": "Public health responses to priority health for Parliamentarians”1 and the Inter-Parliamentary challenges are complex, technical, and involve numerous institutions, funding sources, and commitments to international strategies. Efforts to end preventable child and maternal deaths, for example, may include initiatives targeting both child and maternal health, malaria, immunizations and nutrition, among others. This guide will use maternal health and child health as themes to illustrate the challenges that face MPs and parliamentary committees while addressing these complex issues, however the approaches described here can be employed in a variety of contexts within the health field as well as other public policy areas. In addition, for the purposes of this guide, it is important to note how efforts to reduce child and maternal mortality differ and converge with the broader effort to improve maternal and child health. While these two are closely related, they are not identical. Improving child and maternal health is an umbrella term that addresses a full range of efforts to help pregnant women and children thrive. Programming to reduce child and maternal mortality seeks to target the key causes of preventable deaths of pregnant women and children under 5 years of age. The approaches and techniques discussed here can apply to variety of situations facing standing health committees as they seek to develop their objectives and action plans.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Guides"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-guidelines-for-parliamentary-standing-committees.pdf",
+      "docThumbnail": "hfg-guidelines-for-parliamentary-standing-committees_page1.jpeg",
+      "year": 2017
+    },
+    {
+      "docTitle": "Public Financial Management, Health Governance, and Health Systems",
+      "docSummary": "While the importance of governance in a health system is well recognized, there is an overall lack of evidence and understanding of the dynamics of how improved governance can influence health system performance and health outcomes. There is still considerable debate on which governance interventions are appropriate for different contexts. This lack of evidence can result in avoidance of health governance efforts or an over-reliance on a limited set of governance interventions. As development partners and governments are increasing their emphasis on improving accountability and transparency of health systems and strengthening country policies and institutions to move towards  universal health coverage (UHC), the need of this evidence is ever rising.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Technical Brief"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-public-financial-management.pdf",
+      "docThumbnail": "hfg-public-financial-management_page1.jpeg",
+      "year": 2017
+    },
+    {
+      "docTitle": "Accountability, Health Governance, and Health Systems: Uncovering the Linkages",
+      "docSummary": "This report presents findings and analysis related to accountability, its connections to health governance, and links to health system performance. As part of a series on governance interventions that contribute to health system performance, this report aims to increase awareness and understanding of the evidence of what works and why. The report categorizes and reviews evidence from the literature, further informed by several technical experts across a several types of accountability interventions. The extent and strength of evidence varies considerably by category and intervention type. Nevertheless, some clear patterns and findings emerge. A major implication of this evidence review is that accountability interventions matter considerably to health governance. However, the extent and nature of their impacts depend greatly on how interventions are carried out. Numerous studies confirm that increased access to information, social accountability efforts (e.g. citizen scorecards, user committees), increased effective health reporting, pay-for-performance financing, and financial audits, and others are associated with improved accountability and health system performance. This is more often true when multiple techniques are used together and when the overall effort is tailored (through dialogue created by the interventions) to fit the social and institutional context and is sustained over a long enough time period to move from answerability to sanctions.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Technical Brief"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-accountabily-health-governance.pdf",
+      "docThumbnail": "hfg-accountabily-health-governance_page1.jpeg",
+      "year": 2017
+    },
+    {
+      "docTitle": "The Use of Political Economy Analysis in Health Systems Strengthening",
+      "docSummary": " There is a growing recognition that political economy analysis is an essential aspect of external donor assistance to complex health reform processes. The United States Agency for International Development (USAID)’s Vision for Health Systems Strengthening (2015–2019), for example, recognizes that “broad political economy issues often drive health systems organization, priorities, and performance” and that “health system strengthening challenges are intertwined with political and economic considerations.” This information brief is for those designing and implementing health system programs to support in-country champions of health systems reforms. This brief provides a short synthesis of findings from selected project documentation, key informant interviews (KIIs), and case studies of how PEA has been used to inform donor programming in the field of health system strengthening—from project design to implementation and adaptive management from regular monitoring and evaluation. It also summarizes how PEA can help projects be more effective by being more aware of and responsive to local political realities or thinking and working politically (TWP). The brief includes findings based on a review of 40 There is a growing recognition that political economy analysis (PEA) is an essential aspect of external donor assitance to complex health reform processes.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Technical Brief"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-use-of-political-economy-analysis.pdf",
+      "docThumbnail": "hfg-use-of-political-economy-analysis_page1.jpeg",
+      "year": 2015
+    },
+    {
+      "docTitle": "Finacial Management Mechanisms to Support increased Government Spending on Health",
+      "docSummary": "Many low- and middle-income country (LMIC) governments have made political commitments to move toward universal health coverage (UHC) to provide affordable and quality health services to all, including the poor and vulnerable. To make progress toward UHC, however, LMIC governments need more money for health and to spend it more efficiently. This policy paper explains how public financial management (PFM) mechanisms can be used to help countries achieve the goal of UHC. Health system stakeholders in LMICs should learn how PFM works because PFM mechanisms can be used to help advocate for additional spending. PFM reforms are often in the interest of health system stakeholders, since they help improve efficiency of PFM, advocate for health sector spending priorities, and promote budget transparency. While LMIC governments have increased funding for the health sector over the past decade, more public resources will be required to reach any reasonable definition of UHC. To put the situation into perspective, government spending on health for select low-income countries (LICs) ranged from $2 to $41 per capita in 2015, while total spending on health per capita ranged from $17 to $107, with much of it coming from donor assistance and out-of-pocket payments (WHO 2018). While funding UHC in these countries remains a daunting task, PFM mechanisms can support efforts to increase this funding. This paper seeks to answer questions governments and donors are asking, including: What PFM mechanisms should be used to improve the chances that the health sector benefits and realizes the sustained investments over time necessary to pursue UHC?",
+      "organization": "Health Finance and Governance",
+      "docType": ["Technical Brief"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-finacial-management-mechanisms.pdf",
+      "docThumbnail": "hfg-finacial-management-mechanisms_page1.jpeg",
+      "year": 2018
+    },
+    {
+      "docTitle": "Strengthening Governance for Improved Health Sector Performance",
+      "docSummary": "While the importance of governance in health systems is recognized, its contribution to improving health sector performance and outcomes is still under debate. USAID’s Health Finance and Governance (HFG) project supported country governments to both integrate governance in their health sector reform activities and improve specific aspects of health governance. This brief focuses on the lessons learned by HFG from implementation of health governance interventions for better health sector performance.",
+      "organization": "Health Finance and Governance",
+      "docType": ["Technical Brief"],
+      "solutions": ["Health Systems Strengthening"],
+      "technicalTerms": ["Health Care Financing", "Leadership and Governance"],
+      "docFilename": "hfg-strengthening-governance.pdf",
+      "docThumbnail": "hfg-strengthening-governance_page1.jpeg",
+      "year": 2018
     }
 ]
+
+
