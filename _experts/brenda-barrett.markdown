@@ -5,7 +5,7 @@ lastname: 'Barrett '
 summary: Brenda Barrett has supported political stabilization and peace-building programs
   in more than 20 countries, and brings 25 years of experience.
 job-title: Chief of Party
-image: "/uploads/PortalBarrett.jpg"
+image: "/uploads/Brenda%20Barrett%20DAI%20COP%202019%202.jpg"
 solutions:
 - Fragile States
 - Peace-Building and Political Transition
