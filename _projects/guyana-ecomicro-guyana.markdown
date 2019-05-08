@@ -12,6 +12,7 @@ client: Inter-American Development Bank
 solutions:
 - Environment and Energy
 - Finance and Investment
+- Economic Growth
 regions: Latin America and the Caribbean
 country: Guyana
 ---
