@@ -24,6 +24,6 @@ Headquartered in Georgetown, IPED is a microfinance bank with a national presenc
 ### Sample Activities
  
 * Assist IPED and its regional branch offices to develop green loan products.
-* Design survey and train IPED loan staff to survey a range of businesses, including agri-processors, retail shops, hostelry and catering businesses.
+* Design survey and train IPED loan staff to survey a range of businesses, including agri-processors, retail shops, hostelry, and catering businesses.
 * Assist businesses to responsibly finance the purchase of renewable energy generation and energy-efficient technologies, including new or upgraded refrigeration units, solar panels, and optimal insulation materials.
 * Design a digital tool for IPED’s loan officers to screen climate risk as part of their loan underwriting process and assist IPED in developing an institutional greening policy.
