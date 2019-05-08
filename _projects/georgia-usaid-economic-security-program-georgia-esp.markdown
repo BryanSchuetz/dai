@@ -2,6 +2,17 @@
 title: Georgia — USAID Economic Security Program (Georgia ESP)
 date: 2019-05-08 12:09:00 Z
 published: false
+summary: The USAID Economic Security Program aims to assist Georgian firms to take
+  advantage of the country’s market access and location to exploit regional economic
+  opportunities and compete with international competitors for Georgia's domestic
+  market.
+start: 2019
+end: 2024
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+regions: Eastern Europe and Central Asia
+country: Georgia
 ---
 
 Georgia is a small country located at the crossroads of Asia and Europe on a vital trading and transit route for goods and services. In recent years, Georgia signed free trade agreements that greatly expand Georgia's market access. The USAID Economic Security Program aims to assist Georgian firms to take advantage of the country’s market access and location to exploit regional economic opportunities and compete with international competitors for Georgia's domestic market.
