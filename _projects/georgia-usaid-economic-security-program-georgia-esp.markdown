@@ -8,9 +8,11 @@ Georgia is a small country located at the crossroads of Asia and Europe on a vit
 
 Georgia ESP will focus on enterprises outside of agriculture that show strong potential to create jobs, increase incomes, and increase revenues, as well as support diversification to more productive economic activities, including the tourism sector and up to three additional sectors. DAI will apply a facilitative value chain development approach that places market actors and other value chain stakeholders (public and private) at the center of the change process, inviting them to define problems and co-create solutions. Using timebound “smart incentives,” Georgia ESP will then co-invest with market actors in their own pro-growth solutions.
 
+![Batumi_port_Barry_Kent.jpg](/uploads/Batumi_port_Barry_Kent.jpg "Photo by Barry Kent.")
+
 ### Sample Activities
 
 * Strengthen cooperation in targeted sectors.
 * Support micro, small, and medium-sized enterprises to improve productivity, sales, and quality, and to develop new products and services.
-•	Develop industry-led workforce.
-•	Build public-private partnerships.
+* Develop industry-led workforce.
+* Build public-private partnerships.
