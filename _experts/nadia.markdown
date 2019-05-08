@@ -9,7 +9,7 @@ job-title: Senior Principal Global Practice Specialist
 image: "/uploads/nadia2.jpg"
 solutions:
 - Energy
-- Environment and Energy
+- Economic Growth
 ---
 
 Nadia Scharen-Guivel designs and implements energy and infrastructure projects and programs to private and public entities for donors in Latin America, Southeast Asia, and Africa. Through her extensive experience, Nadia has developed a deep understanding of working with the public sector, the private sector, and civil society on creating an enabling environment; providing financial advisory services to municipalities, states, and private entities; structuring equity and debt for clean energy and infrastructure project; and building public-private partnerships.
