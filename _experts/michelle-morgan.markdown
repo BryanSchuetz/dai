@@ -6,6 +6,7 @@ lastname: Morgan
 summary: 'Michelle Morgan has dedicated her 25-year career to private sector development—and
   improving local knowledge, skills, and processes for sustained economic growth. '
 job-title: 'Chief of Party, Promote: Women in the Economy'
+image: "/uploads/michelle.jpg"
 solutions:
 - Economic Growth
 - Gender and Social Inclusion
