@@ -21,3 +21,5 @@ Michelle started her career in international development at Nathan Associates, w
 * M.S., foreign service, Georgetown University
 * B.S., international economics, Georgetown University
 * B.A., international affairs, American University of Paris
+
+<iframe src="https://player.vimeo.com/video/297173022" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
