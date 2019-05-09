@@ -1,7 +1,6 @@
 ---
 title: Michelle Morgan
-date: 2019-05-09 08:59:00 Z
-published: false
+date: 2019-05-09 07:59:00 Z
 lastname: Morgan
 summary: 'Michelle Morgan has dedicated her 25-year career to private sector development—and
   improving local knowledge, skills, and processes for sustained economic growth. '
