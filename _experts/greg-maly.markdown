@@ -20,7 +20,9 @@ regions:
 - Latin America and the Caribbean
 ---
 
-Greg Maly has spent his career working at the intersection of global development and diplomacy, technology, and the arts. In previous roles, he conducted data-driven conflict analysis research at the U.S. Department of State’s Bureau of Conflict and Stabilization Operations, designed data collection and analysis tools for the University of Denver’s Global Health Affairs Program, and developed some of the first distance learning courses at the U.S. Institute of Peace’s Academy for Conflict Management and Peacebuilding.
-
+Greg Maly has spent his career working at the intersection of global development and diplomacy, technology, and the arts. Starting out in the field of conflict resolution, Greg earned a degree from St. Mary’s College of Maryland in policy, ethics, and conflict, and multiple mediation certifications from the Northern Virginia Mediation Center. From there, he went on to work at the U.S. Institute of Peace, supporting conflict analysis research, monitoring and evaluation, and education and training development for domestic, overseas, and online classroom delivery. After gaining his master’s degree at the Josef Korbel School of International Studies, he joined the Bureau of Conflict and Stabilization Operations at the U.S. Department of State, where he worked as an education and training specialist, and conducted data-driven conflict analysis research. He is also a regular course instructor at the Institute for Technology and Social Change.
+ 
+Greg joined DAI’s Center for Digital Acceleration in 2017, and now leads the team’s product development portfolio. A believer in lifelong learning, Greg stays active on multiple online learning platforms to continue study of computer programming and data analysis. 
+ 
 * M.A., international studies, Josef Korbel School of International Studies at the University of Denver
 * B.A.. policy, ethics, and conflict, St. Mary’s College of Maryland
