@@ -22,7 +22,7 @@ The Government of Morocco is investing in the improvement of its social protecti
 
 The project is being implemented in consortium with IBF and Vayans Consulting, two consulting firms based in Belgium and Morocco, respectively.
 
-![MorocPhoto 7.JPG](/uploads/MorocPhoto%207.JPG)
+![MorocPhoto 7-ceef73.jpg](/uploads/MorocPhoto%207-ceef73.jpg)
 
 ## Sample Activities
 
