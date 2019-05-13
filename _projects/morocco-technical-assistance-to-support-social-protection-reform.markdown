@@ -23,6 +23,7 @@ The project is being implemented in consortium with IBF and Vayans Consulting, t
 ## Sample Activities
 
 * Advise on project coordination, systems, and social policies financing.
-* Identify and analyze existing constraints to boosting the implementation of social protection reforms.
+* Identify and ana
+lyze existing constraints to boosting the implementation of social protection reforms.
 * Promote institutional communication, increase EU visibility; and collaborate with other technical and financial partners.
 * Conduct short-term missions, studies, interviews, evaluations, trainings on social protection and related issues.
