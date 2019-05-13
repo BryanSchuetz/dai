@@ -1,7 +1,6 @@
 ---
 title: Morocco—Technical Assistance to Support Social Protection Reform
 date: 2019-05-13 10:00:00 Z
-published: false
 summary: 'The Technical Assistance to Support Social Protection Reform programme works
   to: coordinate and monitor social protection reforms; strengthen capacity in social
   assistance, social insurance, social protection, and health; produce studies to
