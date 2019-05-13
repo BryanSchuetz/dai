@@ -10,6 +10,10 @@ summary: 'The Technical Assistance to Support Social Protection Reform programme
 start: 2019
 end: 2021
 client: European Commission
+solutions:
+- Economic Growth
+- Health Governance
+- Public Administration, Civil Service Reform, and Human Resources Management
 regions: Middle East and North Africa
 country: Morocco
 ---
