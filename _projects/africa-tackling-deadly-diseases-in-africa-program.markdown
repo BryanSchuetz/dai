@@ -14,6 +14,11 @@ solutions:
 - Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
 country: Cameroon, Uganda, Côte D’Ivoire, Niger, Mali, Chad
+promos:
+- title: Tackling Deadly Diseases in Africa
+  link: "/uploads/TDDAP_2-pager_ENG_May19.pdf"
+- title: La Lutte Contre les Maladies Mortelles en Afrique
+  link: "/uploads/TDDAP_2-pager_FRENCH_May19.pdf"
 ---
 
 Funded with UK aid from the UK government, the Department for International Development flagship (DFID) programme, Tackling Deadly Diseases in Africa (TDDAP) aims to save lives and improve global health security by reducing the impact of disease outbreaks, epidemics, and other public health threats across sub-Saharan Africa. 
