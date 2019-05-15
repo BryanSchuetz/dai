@@ -10,6 +10,10 @@ image: "/uploads/Remy%20Kormos-cd2e82.JPG"
 solutions:
 - Economic Growth
 - Public-Private Partnerships
+- Governance
+- Business Environment Reform
+- Law and Justice
+- 
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
