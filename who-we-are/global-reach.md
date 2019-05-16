@@ -1,6 +1,6 @@
 ---
 title: Global Offices
-permalink: "/who-we-are/global"
+permalink: "/who-we-are/global/"
 redirect_from:
 - "/who-we-are/global-reach"
 layout: node
