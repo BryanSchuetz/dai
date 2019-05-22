@@ -20,5 +20,5 @@ Funded by the U.K. Prosperity Fund, the Global Trade Programme will provide tech
 ### Select Activities
 
 * **Management Services**—research and analysis across multiple regions and countries.
-* **Advisory Services**—design and development of sub-programmes; DAI's work will focus mostly on this component.
+* **Advisory Services**—design and development of sub-programmes; DAI's work focuses on this component.
 * **Delivery Services**—delivery of interventions that have been scoped and contracted from the Management and Advisory Services.
