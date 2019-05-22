@@ -6,7 +6,7 @@ summary: 'The Global Trade Programme will provide technical assistance and suppo
   Mexico, South Africa, Indonesia, Vietnam, Nigeria, Turkey, China, and India.'
 start: 2019
 end: 2022
-client: U.K. Foreign and Commonwealth Office
+client: U.K. Foreign and Commonwealth Office (DAI is a subcontractor to EY)
 solutions:
 - Economic Growth
 regions: Worldwide
