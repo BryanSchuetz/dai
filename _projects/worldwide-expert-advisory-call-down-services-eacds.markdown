@@ -61,6 +61,6 @@ The scope of work under Lot C covers promoting global prosperity, prioritising a
 
 ### Lot D: High-Quality Technical Assistance for Results (HEART)
 
-WISE Development, a DAI Global company, is a core consortium partner on Lot D: [HEART](http://www.heart-resources.org/), which provides technical assistance in international development, health, nutrition, water and sanitation, education, social protection and gender. The consortium supports the use of evidence and expert advice in policy-making.
+WISE Development, a DAI Global company, is a core consortium partner on Lot D: [HEART](http://www.heart-resources.org/), which provides technical assistance in international development, health, nutrition, water and sanitation, education, social protection, and gender. The consortium supports the use of evidence and expert advice in policy-making.
 
 To learn more about how the DAI EACDS team can help your department or organisation, contact info@lotb-resilience.org or click [here](http://daiknowhowlab-resilience.org/).
