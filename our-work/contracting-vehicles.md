@@ -9,10 +9,6 @@ layout: node
 
 # U.S. Agency for International Development
 
-### Economic Growth
-
-* SEGIR Financial Sector II Blanket Purchasing Agreement (BPA) (SEGIR-FS II) (2004–2019)
-
 ### Environment & Energy
 
 * Water and Development (WADI) (2015–2019)
@@ -31,24 +27,33 @@ layout: node
 * Support Which Implements Fast Transitions IV (SWIFT IV) (2013-2019)
 * Promoting Gender Equality in National Priority Programs ([Promote](http://www.usaid.gov/afghanistan/promote)) (2014–2019)
 * Resilient Cities Asia Activity (RCA) (2017-2024)
+* Famine Early Warning Systems Network (FEWS NET 7) (2019–2024)
 
 # General Services Administration Schedules
 
 * Professional Services Schedule (PSS) (2016-2021)
 
+# Centers for Disease Control and Prevention (CDC)
+
+* International, Technical, Operational, Professional Support Services (ITOPSS) (2018–2023)
+
+# UK Foreign and Commonwealth Office (FCO)
+
+* [Conflict Stability and Security Fund Framework  (CSSF) (2018-2020)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
+* Prosperity Fund Framework (2017-2019)
+
 # U.K. Department for International Development
 
-* [Conflict Stability and Security Fund (CSSF) (2018-2020)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
-* FCO: Prosperity Fund Framework (2017-2019)
-
-### Wealth Creation Framework
-
-* Lot A–Economic Policy, Trade and Regional Integration (sub to Nathan) (2013–2019)
-* Lot B–Rural Economic Development, Livelihoods, and Natural Resource Management (2013–2019)
-* Lot C–Infrastructure (sub to Nathan) (2013–2019)
-* Lot D–Financial Sector Development (2013–2019)
-* Lot E–Private Sector Development and Market Development (2013–2019)
-* Lot F-Investment Climate Reform (2013-2019)
+* General Economic Development Framework (GEDF) (2019–2021)
+* International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–2021): 
+o Lot 5 – Humanitarian—Low Value
+o Lot 10 – Research—Low Value
+o Lot 11 – Climate Change and Environment—High Value
+o Lot 12 – Conflict and Governance—High Value
+o Lot 13 – Education—High Value
+o Lot 16 – Infrastructure—High Value
+o Lot 17 – Livelihoods—High Value
+o Lot 22 – Statistics and Data—High Value
 
 ### Expert Advisory Call Down Services
 
