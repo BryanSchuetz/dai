@@ -90,3 +90,7 @@ o Lot 22 – Statistics and Data—High Value
 * [Agricultural Services Panel ](http://frameworkcontracts.com/lots/mfat)
 
 To review consultant opportunities for EC, DFAT, and MFAT lots, visit our [Framework Contracts site](http://frameworkcontracts.com).
+
+# French Development Agency (AFD)
+
+* Framework contract Lot 1: Studies and Technical assistance for the implementation of the ‘Adapt’ Action’ Facility (2018—2022)
