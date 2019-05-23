@@ -12,23 +12,27 @@
   <div class="section-primary">
     <h1 class="section-header">Publications</h1>
     <div class="primary-block split left">
+    {%- comment -%} Create an array of pubs posts {%- endcomment -%}
       {% assign all_articles = site.data.pubs %}
-      {% for article in site.data.digital %}
-        {% assign all_articles = all_articles | push: article %}
-      {% endfor %}
-      {% for article in site.data.cs3 %}
-        {% assign all_articles = all_articles | push: article %}
-      {% endfor %}
       {% assign sorted_articles = all_articles | sort: 'date' %}
-
+      {%- comment -%} Sort in reverse cronological order {%- endcomment -%}
       {% assign reversed_articles = sorted_articles | reverse %}
+      {%- comment -%} grab the first article {%- endcomment -%}
       {% assign first = reversed_articles[0] %}
       <h3><a href="{{ first.link }}">{{ first.title }}</a></h3>
       {{ first.summary | truncatewords:40 }}
       <!-- <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->
     </div>
     <div class="primary-block split right">
-      {% assign second = reversed_articles[1] %}
+      {% assign second = site.data.digital  %}
+      {%- comment -%} Add CS3 posts to the array {%- endcomment -%}
+      {% for article in site.data.cs3 %}
+        {% assign second = second | push: article %}
+      {% endfor %}
+      {% assign sorted_second = second | sort: 'date' %}
+      {%- comment -%} Sort in reverse cronological order {%- endcomment -%}
+      {% assign reversed_second = sorted_second | reverse %}
+      {%- assign second = reversed_second[0] -%}
       <h3><a href="{{ second.link }}">{{ second.title }}</a></h3>
       {{ second.summary | truncatewords:40 }}
       <!-- <a href="{{ story.url }}" class="primary-block--button">Continue Reading <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a> -->

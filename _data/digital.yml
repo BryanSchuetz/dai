@@ -1,226 +1,235 @@
 
-- title: "5 Top Resources for Digital Access Data"
+- title: "Longing for my SuperApp: Where’s the American Go-Jek?"
   pub: "Digital"
-  date: 2018-08-20
-  link: "https://dai-global-digital.com/5-top-resources-for-digital-access-data.html?utm_source=daidotcom"
-  summary: "The global community has recognized the importance of digital equality—affordable, universal internet access as one of the Sustainable Development Goals. When we are implementing digital programs, access and inclusion are key concerns: We don’t want to leave anyone behind."
+  date: 2019-05-23
+  link: "https://dai-global-digital.com/longing-for-my-superapp-wheres-the-american-go-jek.html?utm_source=daidotcom"
+  summary: "Earlier this year I underwent a major life transition. After over four years living in Southeast Asia while supporting DAI’s ASEAN-U.S. PROGRESS project, I packed up my Jakarta apartment, shipped my belongings, and said farewell to the people and place that had become my home. The year 2019 was certain to be one of adjustment and inescapable reverse culture shock as I transitioned to life in America and a new position at DAI’s Bethesda, Maryland, office."
+  tags:
+    - digital acceleration 
+    - Innovation 
+
+- title: "5 Takeaways From ICT4D 2019"
+  pub: "Digital"
+  date: 2019-05-16
+  link: "https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html?utm_source=daidotcom"
+  summary: "This year’s ICT4D Conference took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new) and marvel at how much bigger the ICT4D sector is since I first joined it in late 2010 and Ken Banks and I been invited to speak on the one mobile for social good panel (true story!) at a telecoms event."
+  tags:
+    - digital acceleration 
+    - Think Piece 
+    - Data 
+
+- title: "GIS Toolkit Overview Part I: Remote Sensing"
+  pub: "Digital"
+  date: 2019-05-09
+  link: "https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html?utm_source=daidotcom"
+  summary: "Geographic information systems (GIS) are often misunderstood, or unknown to many. Even in the development community, we often have a shallow understanding of the technology once we delve into methodologies or use cases—particularly with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand the strengths and shortcomings of the available tools.
+
+GIS image developed by the author when he was working for the Amazon Conservation Association."
+  tags:
+    - digital acceleration 
+    - GIS 
+    - Imagery Analysis 
+    - Remote Sensing Series 
+
+- title: "Designing A Wildlife Identification Tool in the Philippines"
+  pub: "Digital"
+  date: 2019-04-30
+  link: "https://dai-global-digital.com/designing-a-wildlife-identification-tool-in-philippines.html?utm_source=daidotcom"
+  summary: "Human-centered design (HCD)—the design and management framework pioneered by greats like IDEO.org and taught in countless design and business schools—is taking the development world by storm. And rightly so, in our opinion. HCD’s focus on empathy and creativity helps us design better, more sustainable solutions to some of the most difficult development challenges. We won’t go into too much detail on the broader HCD process or its application in digital development; my colleagues have written extensively on the excellent design work they’ve facilitated in places like Cambodia, Nepal, and Guatemala. What we’d like to do today, rather, is tell you about the time we almost perished while shadowing rangers in the forests of the Philippines, and what we learned in the process.
+
+It is possible there is a bit of hyperbole inserted here. Possibly."
+  tags:
+    - digital acceleration 
+    - Human-centered design 
+    - Digital Insights 
+
+- title: "Apply Now to Redesign the USAID Center for Digital Development’s mAccess Online Platform"
+  pub: "Digital"
+  date: 2019-04-26
+  link: "https://dai-global-digital.com/apply-now-to-redesign-the-usaid-center-for-digital-developments-maccess-online-platform.html?utm_source=daidotcom"
+  summary: "A digital ecosystem is the how and why users interact with government services, digital financial tools, and each other using mobile devices. A single data point alone may not tell the whole story for digital inclusion and how to best reach those in low-connectivity settings globally. To help address this challenge, the U.S. Agency for International Development (USAID)’s Center for Digital Development (CDD) developed the mAccess diagnostic site, an online tool for global decision makers to analyze the availability, cost of connectivity, and number of users for more than 100 countries. The mAccess tool was launched in early 2016 and has been shared across USAID."
+  tags:
+    - digital acceleration 
+    - RFP 
+    - USAID 
+    - Digital 
+
+- title: "Digital Identity Series Part 2: Digital Identity and Politics"
+  pub: "Digital"
+  date: 2019-04-25
+  link: "https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=daidotcom"
+  summary: "Welcome back to the Digital Identity series. This week we continue the discussion of digital identity, with a focus on the politics of digital identification.
+
+Let’s start with the recognition that a formal identity is often a starting point for inclusion—without it, a person may not be able to access services such as health care, banking, or education. In humanitarian emergencies, a digital identity may be required to receive vital provisions such as food, water, and medicine."
+  tags:
+    - digital acceleration 
+    - Digital Identity Series 
+    - Data 
+    - Cybersecurity 
+
+- title: "What Makes This Wireless Technology (5G) Different From All Other Wireless Technologies?"
+  pub: "Digital"
+  date: 2019-04-18
+  link: "https://dai-global-digital.com/what-makes-this-wireless-technology-5g-different-than-all-other-wireless-technologies.html?utm_source=daidotcom"
+  summary: "When thinking about the internet in an ideal world, I often think of an independent platform that provides a mechanism for free expression, commerce, and the exchange of ideas. Yet, as more and more of the global population comes online, the internet has become a reflection of global dynamics and geopolitical undercurrents. Today, this reality is manifesting itself around the impending roll out of 5G."
+  tags:
+    - digital acceleration 
+    - Think Piece 
+    - Innovation 
+
+- title: "5 Tips for Doing International Design Research"
+  pub: "Digital"
+  date: 2019-04-11
+  link: "https://dai-global-digital.com/5-tips-for-doing-international-design-research.html?utm_source=daidotcom"
+  summary: "DAI’s Center for Digital Acceleration (CDA) relies heavily on ethnographic design research in our work. By focusing our efforts on people and the institutions around them, we:
+
+
+  Define the problem in their terms, not ours;
+  Learn of, and about, previous attempts to solve the problem;
+  Develop our understanding of local culture and history, as well as how people seek and share information and use mobile technology so we can meet them where they are;
+  Mitigate the risks inherent to spending limited resources developing software or building digital tools, given the costs of doing so;
+  Build ownership of the solution among the population; and…
+  Enlist those who participate as promoters of the solution among their personal and professional networks.
+
+
+The author teaching design research in Phnom Penh with the USAID Cambodia Development Innovations project."
+  tags:
+    - digital acceleration 
+    - Human-centered design 
+    - Digital Insights 
+
+- title: "From One Qualie to Another: Insights from Qual360 2019"
+  pub: "Digital"
+  date: 2019-04-04
+  link: "https://dai-global-digital.com/from-one-qualie-to-another-insights-from-qual360-2019.html?utm_source=daidotcom"
+  summary: "I have a confession to make: I am a bonafide, card-carrying qualie. For those of you who aren’t familiar with this term, it’s a (nerdy) colloquialism to define people who are really into qualitative research. I swear, it’s a thing.
+
+So yes, I am a qualie. I have been involved in conducting qualitative, ethnographic research in some way or another throughout the course of my sinuous career. I get jazzed by learning about people’s lived experiences—the barriers they encounter when attempting to improve their health and well being; the things that make changing behavior a snap; all of it. Throw some neuroscience in there to understand what’s happening in the brain and the ways in which emotional responses catalyze behavior change? Yes. Yes, please. I am in heaven."
+  tags:
+    - digital acceleration 
+    - Think Piece 
+    - Data 
+
+- title: "Game Mechanics—Great Tool for Designing Digital Development Services"
+  pub: "Digital"
+  date: 2019-03-28
+  link: "https://dai-global-digital.com/game-mechanics-maize-pests-and-prize-inspiration.html?utm_source=daidotcom"
+  summary: "📱 Smartphone connections continue to rise and people, globally, love to game. The Global Systems for Mobile Communications Association (GSMA) estimates that by 2025 78 percent of all developing market mobile connections will be smart. By that time GSMA predicts that India will be the second-largest smartphone market by adoption globally (ahead of the United States), with 1 billion smartphone connections. Interestingly, India is already among the top five mobile gaming countries globally, expected to surge to 368 million gamers in 2022. If this is a bellwether for developing markets, we can expect gaming to be a significant force across the global south."
+  tags:
+    - digital acceleration 
+    - Innovation 
+
+- title: "Digital Identity Series Part 1: Digital Identity and Informed Consent"
+  pub: "Digital"
+  date: 2019-03-18
+  link: "https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html?utm_source=daidotcom"
+  summary: "This post marks the launch of a Digital Identity series here on Digital@DAI. It is a pivotal topic to many of our technical areas: from health service provision, to cash transfers, and voter registration. It is also a topic garnering increased attention with the debate over privacy and data security—and the global refugee crisis reinforcing the opinion that there is “no single factor that affects a person’s ability to share in the gains of global development as much as having an official identity.”
+
+Over the next few months, we will look at some of the issues and opportunities around Digital ID in the development space. Today, we look at informed consent: what it means to the development sector, the difficulty of getting it, and what we can do to make sure we aren’t leaving people behind, while respecting their privacy and the security of their data."
   tags:
     - digital acceleration 
     - Digital Inclusion 
-    - Digital Principles 
+    - Data 
+    - Digital Identity Series 
 
-- title: "The Rising Tide of ICTs for Accountability"
+- title: "Nobody Cares What Tech You Use"
   pub: "Digital"
-  date: 2018-08-13
-  link: "https://dai-global-digital.com/rising-tide-icts-for-accountability.html?utm_source=daidotcom"
-  summary: "A tectonic shift is taking place in commerce, and we’re all a part of it. At its core, it boils down to one concept: accountability. The accelerating movement toward web-based management tools, data analytics, and automation among businesses—coupled with the rapid growth in mobile phone technology—has reduced the cost of doing business, slashed barriers to entry, and reduced the time elapsed from concept to market-ready solution. The result is increased competition, more customer choice, greater accountability to the customer, and the sound of the sledgehammer falling upon formerly protected industries. Customers in the many business-to-consumer verticals (admittedly not all) have more bargaining power than ever before, and can hold businesses accountable for poor performance by downloading a competitor’s solution with a few simple clicks."
+  date: 2019-03-14
+  link: "https://dai-global-digital.com/nobody-cares-what-tech-you-use.html?utm_source=daidotcom"
+  summary: "Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs. object-oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the goal."
   tags:
     - digital acceleration 
-    - Governance 
-    - Think Piece 
+    - Human-centered design 
 
-- title: "Getting Started with RStudio, Part 2"
+- title: "Is Your Data in a Lake or Water Treatment Plant?"
   pub: "Digital"
-  date: 2018-08-06
-  link: "https://dai-global-digital.com/getting-started-with-rstudio-part-2.html?utm_source=daidotcom"
-  summary: "This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.
-
-In a previous post we introduced the R programming language, RStudio as a development environment, and examined rainfall data for May. The data we analyzed was stored in Google Docs. We used some functions to pull the data into our work environment, and displayed the data over time using a line graph. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way we access weather data."
-  tags:
-    - digital acceleration 
-    - Open Source Series 
-    - Coding 
-
-- title: "Essential Actions: A Human-Centred, Global Approach to Privacy Rights"
-  pub: "Digital"
-  date: 2018-07-31
-  link: "https://dai-global-digital.com/beyond-good-intentions-a-human-centred-approach-to-privacy-rights.html?utm_source=daidotcom"
-  summary: "We’ve read the headlines: large-scale breaches of highly sensitive information in the United States, in the Philippines, in Nigeria, in India … the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the General Data Protection Regulations (GDPR), the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start. (We’re in the age of blockchain and AI; you tell me how to exercise right to erasure here.) Either way, GDPR concepts are useful to international development contexts."
+  date: 2019-03-07
+  link: "https://dai-global-digital.com/is-your-data-in-a-lake-or-water-treatment-plant.html?utm_source=daidotcom"
+  summary: "They say to write about what you know. For the first part of my career and through my formal education, my work was all based in the world of water and sanitation. Glamorous stuff—pipes and pumps, fecal coli-forms and treatment options, toilets and activated sludge. It made for great dinner conversation (or so says my wife). At some point, I made the transition from a water guy who worked with a lot of data to a data scientist who knows about water. And as I dive deeper into the analogies and lingo of modern data systems and tools, I lean on my engineering training to make sense of it all."
   tags:
     - digital acceleration 
     - Data 
-    - Human-centered design 
 
-- title: "Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation"
+- title: "Apply Now to Support Digital Tools and Approaches for USAID’s Bureau for Food Security"
   pub: "Digital"
-  date: 2018-07-16
-  link: "https://dai-global-digital.com/take-it-to-the-farmer-behind-the-scenes-of-the-fall-armyworm-tech-prize-co-creation.html?utm_source=daidotcom"
-  summary: "Along with human-centered design and lean startup, co-creation is an approach arising to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without  understanding what it means, simply assuming it was an event that brings together a variety of partners to brainstorm ideas to solve a problem. Only when I attended the Fall Armyworm Tech Prize co-creation workshop from June 26 to 29 in Kampala, Uganda, did I grasp the nuances of co-creation and realize the significant benefits it holds for the end users of co-created products."
+  date: 2019-03-06
+  link: "https://dai-global-digital.com/apply-now-to-support-digital-tools-and-approaches-for-usaids-bureau-for-food-security.html?utm_source=daidotcom"
+  summary: "Rapidly changing access to digital tools such as basic mobile phones is changing the landscape for how we can address the challenges to ending global hunger, undernutrition, and extreme poverty. “Despite our collective progress in global food security and nutrition over recent years, a projected 702 million people still live in extreme poverty; nearly 800 million people around the world are chronically undernourished; and 159 million children under five are stunted. Food security is not just an economic and humanitarian issue; it is also a matter of security, as growing concentrations of poverty and hunger leave countries and communities vulnerable to increased instability, conflict, and violence.” (U.S. Government Global Food Security Strategy 2017-2021)."
   tags:
     - digital acceleration 
-    - Co-creation 
-    - Fall Armyworm 
-    - Innovation 
     - Agriculture 
 
-- title: "A Time of Change. And Reflection."
+- title: "KIC Mauritania: Winners Announced!"
   pub: "Digital"
-  date: 2018-07-11
-  link: "https://dai-global-digital.com/a-time-of-change-and-reflection.html?utm_source=daidotcom"
-  summary: "I can’t remember exactly what I was doing when the grenade went off up the street—probably brushing my teeth or something mundane like that. I was halfway through my two-week visit to Ethiopia and looking forward to getting out in the field. I was also completely unaware of what had just happened. It was a sobering day. I spent all afternoon watching the news. First one person confirmed dead, then two. One-hundred and fifty or so wounded. Fear on the faces of a populace that had recently been so full of hope.
+  date: 2019-02-28
+  link: "https://dai-global-digital.com/kic-mauritania-winners-announced.html?utm_source=daidotcom"
+  summary: "Since 2016, DAI has provided support to the Kosmos Innovation Center (KIC), which got its start in Ghana and expanded its work Mauritania in 2018. Last week, KIC Mauritania’s 2018 cohort of young entrepreneurs pitched concepts to a panel of judges, competing for more than $85,000 in total seed funding. Unlike KIC Ghana, which focuses solely on support to agritech startups, KIC’s Mauritanian startups have built a wide range of solutions across various sectors, from waste recycling to healthcare. Here’s an overview of this year’s finalists, their business concepts, and the final winners of the competition."
+  tags:
+    - digital acceleration 
+    - Innovation 
+    - Entrepreneurship 
 
-Image credit: AddisBiz.com"
+- title: "Building a Culture of Innovation in Cambodia"
+  pub: "Digital"
+  date: 2019-02-26
+  link: "https://dai-global-digital.com/cambodia.html?utm_source=daidotcom"
+  summary: "Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would require new ways of thinking to create new ways for solving problems."
+  tags:
+    - digital acceleration 
+    - Innovation 
+
+- title: "Machine Learning Changes the Business Case for Automated Phishing Attacks"
+  pub: "Digital"
+  date: 2019-02-21
+  link: "https://dai-global-digital.com/machine-learning-changes-the-business-case-for-automated-phishing-attacks.html?utm_source=daidotcom"
+  summary: "Researchers have demonstrated the capability of machine learning to help with everything from saving honeybees and tracking flu vaccine uptake, to aiding in the fight against bioterrorism, and plenty in between.
+
+But machine learning can also be put to less-scrupulous uses just as easily. Social engineering is a type of cyber attack that deceives users into creating security breaches, typically through emails and phone calls (often called ‘phishing’), and the marriage of machine learning with social engineering is poised to be a burgeoning issue in the near future. This issue is a global problem, but developing markets are often at the highest risk for cyberattacks due to the lack of capacity to defend against and track such attacks. As such, they often find themselves as the testing grounds for novel attack methods before they reach more developed markets."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+    - Machine Learning 
+
+- title: "Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Goals Align"
+  pub: "Digital"
+  date: 2019-02-19
+  link: "https://dai-global-digital.com/lessons-from-the-fall-armyworm-tech-prize-the-importance-of-ensuring-goals-align.html?utm_source=daidotcom"
+  summary: "One of the attractions of awarding prizes in global development is that the prize sponsor shifts the responsibility of achieving results onto competitors. While this approach can inspire a range of creative solutions and spur a nascent market, it also means many finalists will develop something valuable whether they win the award or not. For a prize to be valuable to both sponsors and competitors, sponsors must clearly communicate prize objectives so that competitors have the best chance at success and can assess whether devoting resources to achieve those objectives makes sense for them, win or lose."
+  tags:
+    - digital acceleration 
+    - Innovation 
+    - Think Piece 
+
+- title: "The (Missing) Digital Principle: Educate the User"
+  pub: "Digital"
+  date: 2019-02-14
+  link: "https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html?utm_source=daidotcom"
+  summary: "We in the international development community talk a lot about privacy and security in digital development. We try to think through privacy and security in terms of the data we collect, what we do with it, and even how we address issues of consent around data collection. There’s an entire digital principle about it.
+
+In discussions like these, privacy and security are framed entirely in terms of the paradigm of extraction—collecting and gathering data from end users to organizations. This is an entirely valid and important discussion to continue having. However, there’s a discussion we’re not having that’s arguably even more important, and that’s around the privacy and security of users."
   tags:
     - digital acceleration 
     - Think Piece 
-    - Digital Inclusion 
-
-- title: "DAI’s Center for Digital Acceleration Featured on Podcast"
-  pub: "Digital"
-  date: 2018-07-06
-  link: "https://dai-global-digital.com/dai-featured-on-this-is-hcd-podcast.html?utm_source=daidotcom"
-  summary: "This is HCD—a podcast that explores what human-centered design (HCD) looks like in practice—featured DAI’s Center for Digital Acceleration work in Guatemala on its most recent episode."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - Think Piece 
-
-- title: "Digital Health in International Development: Using Tried & Tested Technology Innovatively"
-  pub: "Digital"
-  date: 2018-07-05
-  link: "https://dai-global-digital.com/digital-health-in-international-development-using-tried-and-tested-technology-innovatively.html?utm_source=daidotcom"
-  summary: "I recently took part in the DAI panel discussion on “Digital Health in International Development: Current Realities and Future Trends” in London. It delivered fascinating perspectives from across the health, tech, and development sectors. Here’s a few key points I shared during the discussion and hope to stimulate a continued conversation."
-  tags:
-    - digital acceleration 
-    - Health 
-    - Innovation 
-    - Human-centered design 
-
-- title: "Deadline Extended! Apply Now: Support USAID Missions to Improve Broadband Connectivity"
-  pub: "Digital"
-  date: 2018-06-26
-  link: "https://dai-global-digital.com/deadline-extended-apply-now-support-usaid-missions-to-improve-broadband-connectivity.html?utm_source=daidotcom"
-  summary: "DAI’s Digital Frontiers project has extended the deadline to July 3 for proposals from interested organizations to help the U.S. Agency for International Development implement the Better Connectivity, Better Programs: How to Implement a Demand Aggregation Program (How-to Guide). The initial Request for Proposals (RFP) and related information can be found here.
-
-Answers to RFP questions were emailed to interested offerors and can be found here.
-
-Have questions? Email DigitalFrontiers@dai.com."
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-
-- title: "Catching Up with the Winners of MIT’s Grand Hack for Health"
-  pub: "Digital"
-  date: 2018-06-26
-  link: "https://dai-global-digital.com/MIT-hacking-health-winners.html?utm_source=daidotcom"
-  summary: "Let me start by saying that the Massachusetts Institute of Technology’s (MIT) Grand Hack is kind of a big deal. I don’t make the point as an affront to other hackathons—certainly not DAI’s own—but not many other hackathons can claim to have generated more than $150 million in venture capital and spawned more than 40 viable companies. Those two facts qualify the Grand Hack for royalty status among hackathons, which makes it even more surprising that the event is run entirely by students, MIT’s Hacking Health group. It’s also the reason why I was so excited to get a taste of MIT’s secret innovation sauce from the inside—as a mentor, alongside my colleague Kristen Roggemann."
-  tags:
-    - digital acceleration 
-    - Health 
-    - Innovation 
-
-- title: "Coffee Cloud: The Digital Project for  Central American Coffee Growers"
-  pub: "Digital"
-  date: 2018-06-12
-  link: "https://dai-global-digital.com/coffee-cloud-the-digital-project-for-central-american-coffee-growers.html?utm_source=daidotcom"
-  summary: "From 2010 to 2014, the Central American coffee bean suffered from a disease that rocked the economies of the region. Exports declined by 55 percent. From 2012 to 2013 some 374,000 jobs were lost—17 percent of the labor force. Roya, or coffee rust threatened the livelihoods of nearly 2 million.
-
-Coffee rust is a fungal disease that covers the leaves and prevents photosynthesis, slowly constricting plants’ ability to process sunlight, reducing bean yield and eventually starving the plant to death. The warmer, wetter conditions wrought by climate change creates a better ecosystem for the fungus to grow. Its impact on Central American economies is significant as coffee exports are the region’s largest source of foreign income and coffee supports a vast supply chain, in turn supporting dozens of adjacent industries."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - Agriculture 
-
-- title: "Trends in Digital Health: 4 Takeaways From Our UK Event"
-  pub: "Digital"
-  date: 2018-06-11
-  link: "https://dai-global-digital.com/trends-in-digital-health-four-take-aways-from-our-second-uk-event.html?utm_source=daidotcom"
-  summary: "In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last 10 years, and where are we heading? How can we build systems that integrate data from independent actors across the health ecosystem? How can we use lessons learned to support innovation? How can we adapt to expanding digital access and support the growth of local capacity?"
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-    - Health 
-    - Human-centered design 
-
-- title: "Apply Now: Support USAID Missions to Improve Broadband Connectivity"
-  pub: "Digital"
-  date: 2018-06-07
-  link: "https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html?utm_source=daidotcom"
-  summary: "The rapid expansion of mobile and internet access in the developing world holds the promise of catalyzing resilient economic and social growth. However, the availability and cost of connectivity is a significant barrier to fully realizing that vision.
-
-To help address this challenge, the U.S. Agency for International Development (USAID)’s Center for Digital Development developed the Better Connectivity, Better Programs: How to Implement a Demand Aggregation Program (How-to Guide)."
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-
-- title: "Working With Tech Service Providers: It’s About More Than Tech"
-  pub: "Digital"
-  date: 2018-06-04
-  link: "https://dai-global-digital.com/working-with-tech-service-providers-its-about-more-than-tech.html?utm_source=daidotcom"
-  summary: "Are you a nonprofit focused on improving maternal health outcomes? Or maybe you’re a civic engagement organization that encourages young people to become more involved with their local governments. No matter the objective, technology can both help you be more efficient internally and more impactful externally. The idea of tech is often easy: “Oh, we’ll just build an app for that!” But relationships with technical service providers are fraught with pitfalls that can jeopardize outcomes and derail even the best intentions."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
     - Digital Principles 
 
-- title: "5 Recent Reads We Loved (And You May Have Missed!)"
+- title: "Working in Agriculture? Using Digital Ag Tools? Please Fill Out This Survey!"
   pub: "Digital"
-  date: 2018-05-30
-  link: "https://dai-global-digital.com/recent-reads-we-loved-and-you-may-have-missed.html?utm_source=daidotcom"
-  summary: "As our Center for Digital Acceleration team grows, we are finding new ways to share knowledge beyond our epic WhatsApp group chat that grows more ridiculous and off-topic by the day. We have some voracious readers on the team, so in prep for this post I took a minute to poll them to find out which recent articles they found fascinating—and I had missed them all! Since I can’t be the only one, I am sharing them with you to ensure these gems get as wide a readership as possible."
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-    - Human-centered design 
-    - Digital Financial Services 
+  date: 2019-02-07
+  link: "https://dai-global-digital.com/working-in-digital-agriculture-please-full-out-this-survey.html?utm_source=daidotcom"
+  summary: "The U.S. Agency for International Development (USAID) has worked with Missions to integrate digital tools and technologies into Feed the Future activities since 2015, first through the U.S. Global Development Lab-led Digital Development for Feed the Future(D2FTF) initiative and now through the Bureau for Food Security (BFS) (BFS). BFS works with DAI’s Digital Frontiers project, a buy-in mechanism that allows Missions to receive digital solutions for resilience and food security assessments as well as program, project, activity design, and implementation support.
 
-- title: "Replicando la App de Transparencia en Guatemala"
-  pub: "Digital"
-  date: 2018-05-25
-  link: "https://dai-global-digital.com/replicando-app-transparencia-guatemala.html?utm_source=daidotcom"
-  summary: "Note this post is also available in English
+Photo credit: CABI
 
-El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada Somos Chiantla, que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango. De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar esta herramienta en estos dos municipios, con un enfoque eminentemente participativo y colaborativo, considerando propuestas de autoridades de gobierno local y representantes de la sociedad civil para personalizar la aplicación atendiendo a sus gustos y preferencias.
+As part of this work, DAI-led Digital Frontiers is conducting a survey of agriculture projects to understand their experiences using digital tools in their work. These findings will be used to inform BFS’s digital strategy. If you are working on an agriculture project, we are very interested in hearing from you.
 
 
-Un participante en Sacapulas vota por las mejores formas de actualizar Somos Chiantla."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - Guatemala 
-    - Governance 
+  Please take 10 minutes to fill out our survey.
 
-- title: "Getting Started With RStudio, Part 1"
-  pub: "Digital"
-  date: 2018-05-24
-  link: "https://dai-global-digital.com/getting-started-with-rstudio.html?utm_source=daidotcom"
-  summary: "This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.
 
-As a data scientist, I spend a lot of my time working in a programming language called R. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R."
-  tags:
-    - digital acceleration 
-    - Coding 
-    - Open Source Series 
+We thank you in advance for taking the time to complete this survey.
 
-- title: "ICT4D Conference: Unpacking the Complexities of Integrated Health Data and Data Ownership"
-  pub: "Digital"
-  date: 2018-05-15
-  link: "https://dai-global-digital.com/ict4d-conference-unpacking-the-complexities-of-integrated-health-data-and-data-ownership.html?utm_source=daidotcom"
-  summary: "“We are at an inflection point in digital development!” Lauren Woodman, CEO of NetHope, boomed over the crowd of 750-plus participants the first day of the recent ICT4D Conference in Lusaka, Zambia. It may indeed be a critical time for technology, but the means of reaching our collective goals can create healthy disagreements, ones that should be unpacked in exactly the kind of setting the ICT4D Conference creates."
-  tags:
-    - digital acceleration 
-    - Think Piece 
-    - Health 
-
-- title: "A Do No Harm Framework for ICT4D: Inspiration from SwitchPoint 2018"
-  pub: "Digital"
-  date: 2018-05-08
-  link: "https://dai-global-digital.com/a-do-no-harm-framework-for-ict4d-inspiration-from-switchpoint-2018.html?utm_source=daidotcom"
-  summary: "SwitchPoint 2018 was an inspiring, passionate, and delightful indulgence: Spending two days in lush Saxapahaw, North Carolina, thinking about big ideas and learning from leading experts in small group sessions in between performance art and live music shows felt like such a departure from Conference As Usual. I felt space opening up in my brain to start really processing what the speakers were saying—the real act and action of listening versus the usual ruse of secretly responding to emails on my phone while half paying attention and nodding at key pauses."
-  tags:
-    - digital acceleration 
-    - Data 
-    - Think Piece 
-
-- title: "Digital Insights Malawi: Information and Communication in Rural Communities"
-  pub: "Digital"
-  date: 2018-05-02
-  link: "https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html?utm_source=daidotcom"
-  summary: "Last month, I spent two weeks in Malawi trying to gain a real understanding of technology use and media consumption habits of people in rural and marginalised communities. Along with a team of enumerators, I spoke to 183 women, men, girls and boys (ages 14 to 80) in different traditional authorities (TAs) in Northern, Central and Southern Malawi.
-
- Alice talking tech in Mponda, Mangochi, Southern Malawi."
+Questions? Please email DigitalFrontiers@dai.com."
   tags:
     - digital acceleration 
     - Digital Insights 
-    - Digital Inclusion 
 
