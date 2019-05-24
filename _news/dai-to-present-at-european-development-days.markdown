@@ -21,4 +21,4 @@ Our report lab, “Let’s Talk! Public-private dialogue: a booster for inclusiv
 
 ![Screen Shot 2019-05-24 at 12.07.28 PM.png](/uploads/Screen%20Shot%202019-05-24%20at%2012.07.28%20PM.png)
 
-Follow along on Twitter at [#EDD19](https://twitter.com/search?q=%23EDD19&src=typd) and [#ThinkTwice](https://twitter.com/hashtag/ThinkTwice?src=hash).
+Follow along on Twitter at [#EDD19](https://twitter.com/search?q=%23EDD19&src=typd) and [#ThinkTwice](https://twitter.com/search?q=%23ThinkTwice&src=tyah), the EDD digital campaign uses everyday objects to highlight the often life-threatening inequalities which persist all over the world.
