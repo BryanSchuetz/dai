@@ -2,9 +2,8 @@
 title: Cambodia—Development Innovations
 date: 2016-01-21 22:40:00 Z
 summary: The U.S. Agency for International Development-funded Development Innovations
-  project helps connect Cambodia's civil society and technology communities to design
-  and use information and communication technology solutions to address Cambodia's
-  development challenges.
+  project connects Cambodia's civil society and technology communities to design and
+  use information and communication technology solutions to address development challenges.
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
@@ -19,9 +18,9 @@ country:
 layout: project
 ---
 
-Technology—when carefully adapted to the context and users it serves—has the potential to empower civil society organizations (CSOs) to tackle development challenges in innovative ways with increased reach and results. The U.S. Agency for International Development (USAID)-funded [Development Innovations][1] project helps connect Cambodia's civil society and technology communities to design and use information and communication technology (ICT) solutions to address Cambodia's development challenges. The project toolkit includes public-private sector partnerships, ICT4D advisory and match-making services, training activities and technology expositions, small grants, and the 5D Lab co-working space (also known as the Innovation Lab).
+Technology—when carefully adapted to the context and users it serves—has the potential to empower civil society organizations (CSOs) and citizens to tackle development challenges in innovative ways with increased reach and results. The U.S. Agency for International Development (USAID)-funded [Development Innovations](http://www.development-innovations.org/) project helps connect Cambodia’s civil society and technology communities to design and use information and communication technology (ICT) solutions, and innovative methods, to address Cambodia’s development challenges. The project toolkit includes public-private sector partnerships, ICT4D advisory and match-making services, technology expositions, small grants, the 5D Lab co-working space, and the Lab@DI, a service-centered space that provides customized tech training services, and access to equipment and tech coaches. 
 
-This program enables Cambodian-led technology products to be designed and built to meet CSO and user demands and trigger changes in the ways CSOs conduct programs, largely through small grants and public-private partnerships. This strengthened and more informed civil society community will result in CSOs' increased ability to access and [use tools such as mobile technologies][2], the Internet, and social media. Ultimately, this will help the CSOs take steps to make their own programs more efficient, amplify their programmatic results, and support civic change.
+This program enables Cambodian-led technology products to be designed and built to meet civil society and user demands and trigger changes in the ways civil society conducts programs and design solutions. DI is dedicated to services that are tailored to the needs of civil society actors, and help improve access to and use of tools such as mobile technologies, the Internet, and social media. Ultimately, this access and knowledge will help civil society take steps to make their own programs more sustainable and efficient, amplify their programmatic results and support citizen-centered civic engagement.
 
 <iframe src="https://player.vimeo.com/video/318202536" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -34,17 +33,17 @@ This program enables Cambodian-led technology products to be designed and built 
 
 ###  Select Results
 
-* Established a consulting and advisory service built on principles of human-centered design that has supported more than 50 CSOs to refine their development-focused ICT ideas and will produce more than 24 technology-enabled solutions for CSOs.
-* Educated 13,000 civil society members, students, and technologists (including 10,000 youth) through 230 events featuring Cambodian and international experts on topics including ICT innovation strategies, information security, and social networking.
-* Established the 5D Lab, a co-working and technology resource center designed to spur social innovation by providing training, access to state-of-the art audio/video equipment, and collaborative working space for its 550 members.
-* Funded development of [Khmer Smart Keyboard App][5] that improves ease of typing in Khmer and has regularly been the No. 1 Cambodian productivity app download since it launched in early 2015.
-* Built capacity of staff from 18 CSOs to script, shoot, and edit videos that promote storytelling and advocacy about key civil society issues.
-* Built partnerships with private sector companies to support technology projects with companies such as EZECOM, MyTEB, Cellcard, Facebook, and Mozilla.
-* Developed more than 100 new CSO partnerships, resulting in the development of 257 percent more ICT solutions designed by CSOs in two years.
+* Provided hands-on consultations focused on video, applications, websites, social media, and how to plan effective tech-enabled projects to more than 300 people from CSOs, private companies, and startups.
+* Awarded more than $2 million in small grants to CSOs and companies to develop, test, and implement their tech solutions. Through these grants and technical assistance, 80 ICT solutions were developed and implemented, reaching approximately 1.5 million direct beneficiaries. 
+* Built public-private partnerships and secured sponsorships to leverage USAID’s investments and fund ICT solutions and tech community events.
+* At the Lab@DI, developed and delivered fee-based training courses on video production and social media management to more than 500 trainees. From 2018 to 2019, DI transferred the courses to four local nongovernmental partners that now provide public-facing trainings and use the curriculums within their networks.
+* Through the Technovation tech entrepreneurship education program, supported more than 600 young girls to develop tech business skills and essential soft skills through mobile app projects. Participants learn business, coding, prototyping, communication, and teamwork skills to develop a mobile application to address social problems.
+* Supported SHE Investments’ incubator and accelerator programs to equip women with startups and micro, small, and growing enterprises with business management, digital literacy, and leadership skills.   
+* Co-designed Cambodia’s first formal social startup incubator run by Impact Hub Phnom Penh, which built the capacity of 11 ventures. As of 2019, Impact Hub now runs dozens of entrepreneurship support programs across Cambodia. 
+* In partnership with leading telco Smart Axiata, supported Mekong Strategic Partners to run SmartScale powered by Seedstars, an investor-led business accelerator for 12 growth-stage enterprises to improve investment readiness and business sustainability.  
 
 <iframe src="https://player.vimeo.com/video/179469768" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[1]: http://www.development-innovations.org/
 [2]: http://www.forbes.com/sites/joshuawilwohl/2016/02/14/new-app-to-help-cambodians-track-complaints-made-with-local-govt/#58a2a8f47c8e
 [3]: https://assetify-dai.com/projects/DI-pic.jpg
 [4]: https://blog.usaid.gov/2015/09/empowering-voters-one-mobile-phone-at-a-time/
