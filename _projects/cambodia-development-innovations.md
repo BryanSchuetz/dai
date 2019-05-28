@@ -26,10 +26,10 @@ This program enables Cambodian-led technology products to be designed and built 
 
 ###  Sample Activities
 
-*  Establish a Social Innovation Lab as a gathering place for the community to learn, meet, hold learning events, work collaboratively, and access resources.
-* Build capacity through group training curriculum and one-on-one guidance on human-centered design, ICT4D proposal writing, social media, and developing information security.
-* Provide financial and technical assistance through a grant fund to support the development of content, technology, and implementation of ICT-enabled projects that support civil society objectives.
-* Develop a sustainable market for social innovation in Cambodia by educating civil society on the potential of technology to improve scale and impact of programming, and developing the technical skills of [local technology](https://blog.usaid.gov/2015/09/empowering-voters-one-mobile-phone-at-a-time/) and service providers to support cutting-edge programming.
+* Establish a gathering place for the community to learn, meet, hold learning events, work collaboratively, and access in-demand resources.
+* Build capacity through group training curriculums and one-on-one guidance on human-centered design, ICT4D proposal writing, social media, and developing information security.
+* Provide financial and technical assistance through a grant fund to support the development of content, technology, and implementation of ICT-enabled projects that support civil society objectives and support locally driven solutions and programs.
+* Develop a sustainable market for social innovation by ensuring local services providers—both enterprises and nongovernmental groups—have the practical experience and technical skills to support adaptable, cutting-edge programming after the project ends.
 
 ###  Select Results
 
