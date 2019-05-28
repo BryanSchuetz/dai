@@ -2,13 +2,13 @@
 title: DAI Global Health, IntraHealth Return from WHA72 That Spotlighted Primary Healthcare,
   Community Health Workers
 date: 2019-05-28 09:54:00 Z
-published: false
 solutions:
 - Global Health
 summary: Teams from DAI Global Health and its affiliate, IntraHealth International,
   returned from the 72nd World Health Assembly (WHA72) in Geneva, Switzerland, praising
   the body’s resolutions to broaden access to primary healthcare and strengthen support
   for the local health workers—frequently women—who deliver that care.
+social-image: "/uploads/Screen%20Shot%202019-05-28%20at%209.59.21%20AM-8a7e6b.png"
 ---
 
 Teams from DAI Global Health and its affiliate, IntraHealth International, returned from the 72nd World Health Assembly (WHA72) in Geneva, Switzerland, praising the body’s resolutions to broaden access to primary healthcare and strengthen support for the local health workers—frequently women—who deliver that care.
@@ -18,6 +18,8 @@ The World Health Organization issued a [press release](https://www.who.int/news-
 [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) President [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), who attended the assembly with IntraHealth CEO Pape Gaye and a significant contingent of DAI and IntraHealth staff, welcomed the WHO’s emphasis on cross-sectoral engagement and the paramount importance of frontline health workers.
 
 “Community health workers have a key role to play in delivering primary health care—they speak local languages and have the trust of local people,” the WHO statement affirmed. “They need to be well trained, effectively supervised, and properly recognized for the work they do, as part of multi-disciplinary teams.”
+
+![Screen Shot 2019-05-28 at 9.59.21 AM.png](/uploads/Screen%20Shot%202019-05-28%20at%209.59.21%20AM.png)`Photo courtesy of IntraHealth.`
 
 That message was echoed by the Frontline Health Workers Coalition, for which IntraHealth leads the secretariat. As an organization in official relations with the WHO, IntraHealth submitted a total of [nine statements](https://www.intrahealth.org/events/72nd-world-health-assembly) to the Assembly—advocating for the investments needed to ensure high-quality health services in underserved communities—and took an active role in the event, leading or participating in five side-events, including the UHC Town Hall on May 21.
 
