@@ -33,7 +33,7 @@ This program enables Cambodian-led technology products to be designed and built 
 
 ###  Select Results
 
-* Provided hands-on consultations focused on video, [applications](https://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app?utm_source=daidotcom), websites, social media, and how to plan effective tech-enabled projects to more than 300 people from CSOs, private companies, and startups.
+* Provided hands-on consultations focused on video, [applications](https://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app?utm_source=daidotcom), websites, social media, and how to plan effective [tech-enabled](https://blog.usaid.gov/2015/09/empowering-voters-one-mobile-phone-at-a-time/) projects to more than 300 people from CSOs, private companies, and startups.
 * Awarded more than $2 million in small grants to CSOs and companies to develop, test, and implement their tech solutions. Through these grants and technical assistance, 80 ICT solutions were developed and implemented, reaching approximately 1.5 million direct beneficiaries. 
 * Built public-private partnerships and secured sponsorships to leverage USAID’s investments and fund ICT solutions and tech community events.
 * At the Lab@DI, developed and delivered fee-based training courses on video production and social media management to more than 500 trainees. From 2018 to 2019, DI transferred the courses to four local nongovernmental partners that now provide public-facing trainings and use the curriculums within their networks.
