@@ -21,8 +21,7 @@ social-image: "/uploads/asap-4ef157.jpg"
 DAI Global Health is set to help implement the new Accelerating Support to Advance Local Partners (ASAP) project, a U.S. Agency for International Development (USAID) initiative to prepare Sub-Saharan organizations and governments to serve as prime partners for USAID and U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) programming.
 
 ![asap](/uploads/asap-4ef157.jpg)
-
- 
+<!--more-->
 
 Led by IntraHealth International, a DAI affiliate, ASAP is one of four new projects focused on ensuring that by 2020, 70 percent of PEPFAR funding is implemented through capable local partners. DAI Global Health will support the project in capacity building, project management, and the adaptation of tools and dashboards, building on our long record of success in improving the efficiency and efficacy of local organizations. 
 
