@@ -15,6 +15,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
 regions: Sub-Saharan Africa
+country: Comoros, Madagascar, Mauritius, and Seychelles
 ---
 
 DAI is providing technical expertise to design the “Building Regional Resilience through Strengthened Meteorological, Hydrological, and Climate Services in the Indian Ocean Commission Member Countries” project for consideration to the Green Climate Fund (GCF) as part of the [Adapt’Action](https://www.afd.fr/en/adaptaction) framework contract. 
