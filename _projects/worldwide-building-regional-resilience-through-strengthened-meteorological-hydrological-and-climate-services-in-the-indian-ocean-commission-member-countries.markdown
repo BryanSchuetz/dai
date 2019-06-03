@@ -2,7 +2,6 @@
 title: Africa—Building Regional Resilience through Strengthened Meteorological, Hydrological,
   and Climate Services in the Indian Ocean Commission Member Countries
 date: 2019-05-31 17:59:00 Z
-published: false
 summary: 'DAI is providing technical expertise to design the “Building Regional Resilience
   through Strengthened Meteorological, Hydrological, and Climate Services in the Indian
   Ocean Commission Member Countries” project for consideration to the Green Climate
