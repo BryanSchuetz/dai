@@ -19,7 +19,7 @@ The World Health Organization issued a [press release](https://www.who.int/news-
 
 “Community health workers have a key role to play in delivering primary health care—they speak local languages and have the trust of local people,” the WHO statement affirmed. “They need to be well trained, effectively supervised, and properly recognized for the work they do, as part of multi-disciplinary teams.”
 
-![Screen Shot 2019-05-28 at 9.59.21 AM.png](/uploads/Screen%20Shot%202019-05-28%20at%209.59.21%20AM.png)`Photo courtesy of IntraHealth.`
+![Paula at PMNCH WHA 2019.jpg](/uploads/Paula%20at%20PMNCH%20WHA%202019.jpg)`DAI’s Paula Quigley asks a question at WHA. Photo courtesy of the WHO’s Partnership for Maternal, Newborn and Child Health.`
 
 That message was echoed by the Frontline Health Workers Coalition, for which IntraHealth leads the secretariat. As an organization in official relations with the WHO, IntraHealth submitted a total of [nine statements](https://www.intrahealth.org/events/72nd-world-health-assembly) to the Assembly—advocating for the investments needed to ensure high-quality health services in underserved communities—and took an active role in the event, leading or participating in five side-events, including the UHC Town Hall on May 21.
 
@@ -32,3 +32,5 @@ Quigley drew attention to two recurring themes at the Assembly: gender equity an
 “Achieving gender equity is not simple,” she said. “But we should remember the five Rs—recruitment, remuneration, respect, reporting, re-enforcement—and, as the International Labour Organization reminded us at the Assembly, we need more men engaged in this effort!” 
 
 Notably, Women in Global Health honored IntraHealth’s [Jeanne Tessougué](https://www.intrahealth.org/people/jeanne-amadiguin-tessougu%C3%A9) at the WHA event as one of seven “Heroines of Health” recognized for their leadership in improving healthcare and advancing gender equality. 
+
+![Screen Shot 2019-05-28 at 9.59.21 AM.png](/uploads/Screen%20Shot%202019-05-28%20at%209.59.21%20AM.png)`Photo courtesy of IntraHealth.`
