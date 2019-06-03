@@ -24,6 +24,8 @@ Our team assesses country contexts and reviews and analyses relevant documents a
   
 Working with World Meteorological Organisation staff, this assignment is closely aligned with our [work in Mauritius](https://www.dai.com/our-work/projects/mauritius-enhancing-resilience-to-climate-change).
 
+![WMO-SIDS Caribbean Project.jpg](/uploads/WMO-SIDS%20Caribbean%20Project.jpg)
+
 ## Sample Activities
 
 * Establish a ‘vulnerability profile’ for each target country, based on an analysis of hydrological and climate-related hazards, communities and livelihoods, and existing meteorological infrastructure.
