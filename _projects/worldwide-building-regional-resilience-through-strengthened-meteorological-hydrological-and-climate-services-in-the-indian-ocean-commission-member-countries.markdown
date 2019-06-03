@@ -29,6 +29,5 @@ Working with World Meteorological Organisation staff, this assignment is closely
 
 * Establish a ‘vulnerability profile’ for each target country, based on an analysis of hydrological and climate-related hazards, communities and livelihoods, and existing meteorological infrastructure.
 * Identify gaps and capacity building needs among the national hydrological, meteorological, agrometeorological, and marine services of each beneficiary country and at the regional level.
-* Develop the project regional inclusion and sustainability, overall design, costing and implementation arrangements and justifications.
-* Develop complementary studies for the Regional Hydromet Project, namely environmental and social impact assessment, economic and finance feasibility study, gender assessment plan and action plan.
+* Develop complementary studies for the Regional Hydromet Project, namely environmental and social impact assessment, economic and finance feasibility study, gender assessment plan, and action plan.
 * Develop a full-scale funding proposal for the Regional Hydromet Project.
