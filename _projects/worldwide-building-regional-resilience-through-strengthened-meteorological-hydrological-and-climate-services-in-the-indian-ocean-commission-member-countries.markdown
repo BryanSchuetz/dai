@@ -23,3 +23,11 @@ DAI is providing technical expertise to design the “Building Regional Resilien
 Our team assesses country contexts and reviews and analyses relevant documents and data. We will conduct fact-finding missions in Comoros, Madagascar, Mauritius, and Seychelles, working closely with relevant stakeholders. The information identified and collected during the project feasibility stage will then lead to the development of a full funding proposal as well as relevant annexes for submission to the Global Climate Fund.
   
 Working with World Meteorological Organisation staff, this assignment is closely aligned with our [work in Mauritius](https://www.dai.com/our-work/projects/mauritius-enhancing-resilience-to-climate-change).
+
+## Sample Activities
+
+* Establish a ‘vulnerability profile’ for each target country, based on an analysis of hydrological and climate-related hazards, communities and livelihoods, and existing meteorological infrastructure.
+* Identify gaps and capacity building needs among the national hydrological, meteorological, agrometeorological, and marine services of each beneficiary country and at the regional level.
+* Develop the project regional inclusion and sustainability, overall design, costing and implementation arrangements and justifications.
+* Develop complementary studies for the Regional Hydromet Project, namely environmental and social impact assessment, economic and finance feasibility study, gender assessment plan and action plan.
+* Develop a full-scale funding proposal for the Regional Hydromet Project.
