@@ -11,16 +11,18 @@ solutions:
 - Economic Growth
 - Finance and Investment
 regions:
-- Latin America and the Caribbean
-- Sub-Saharan Africa
+- 
+- 
 articles:
 - name: Using Development Assistance to Catalyze Sound Investments in Emerging and
     Developing Markets
-  article_file: http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets/
+  article_file: http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets
 - name: Demand for Private Capital Draws USAID Units to INVEST Program
-  article_file: http://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/
+  article_file: http://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program
 - name: Six Ways to Mitigate Instability in Central America
-  article_file: http://dai-global-developments.com/articles/mitigating-instability-in-central-america/
+  article_file: http://dai-global-developments.com/articles/mitigating-instability-in-central-america
+- name: 'Opinion: A fresh take on the global health financing gap'
+  article_file: https://www.devex.com/news/opinion-a-fresh-take-on-the-global-health-financing-gap-94880
 layout: expert
 ---
 
