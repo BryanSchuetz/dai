@@ -8,7 +8,7 @@ summary: 'Zaki Raheem is private sector development specialist, where he engages
 job-title: Global Practice Specialist, Private Sector Development
 image: "/uploads/new_Zaki%20Raheem%20(in%20Quito).jpg"
 solutions:
-- Economic Growth
+- Sustainable Business
 regions:
 - Sub-Saharan Africa
 - 
