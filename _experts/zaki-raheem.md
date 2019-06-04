@@ -5,7 +5,7 @@ lastname: Raheem
 summary: 'Zaki Raheem is private sector development specialist, where he engages in
   market assessments that look to link micro, small, and medium-sized enterprises
   and producers to growing markets. '
-job-title: Global Practice Specialist, Private Sector Development
+job-title: 'Senior Specialist, Enterprise Development and Entrepreneurship '
 image: "/uploads/new_Zaki%20Raheem%20(in%20Quito).jpg"
 solutions:
 - Sustainable Business
@@ -34,7 +34,7 @@ He has had the opportunity to conduct feasibility studies and value chain assess
 
 His field work includes short- and long-term assignments in Afghanistan, Bangladesh, Côte d’Ivoire, Ethiopia, Ghana, Guatemala, Guyana, Kazakhstan, Kenya, Malawi, Mozambique, Myanmar, Nicaragua, Panama, Philippines, Rwanda, Somalia/Somaliland, South Africa, Tanzania, Timor-Leste, Uganda, Uzbekistan, Zambia, and Zimbabwe.
 
-After a two-year field assignment as the Private Sector Specialist/Deputy Chief of Party for the USAID Partnership for Economic Growth program in Somalia, he is now a Technical Advisor for the USAID Feed the Future program in [Mozambique](https://www.dai.com/our-work/projects/mozambique-feed-the-future-agricultural-innovations-inova-project-description) and [Bangladesh](https://www.dai.com/our-work/projects/bangladesh-agricultural-value-chains-avc-program), the World Bank-funded [Somali Business Catalytic Fund](https://www.dai.com/our-work/projects/somali-business-catalytic-fund-sbcf), and the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic) in Ghana that works with young entrepreneurs, local business incubators, and impact investors. 
+After a two-year field assignment as the Private Sector Specialist/Deputy Chief of Party for the USAID Partnership for Economic Growth program in Somalia, he was a Technical Advisor for the USAID Feed the Future program in [Mozambique](https://www.dai.com/our-work/projects/mozambique-feed-the-future-agricultural-innovations-inova-project-description) and [Bangladesh](https://www.dai.com/our-work/projects/bangladesh-agricultural-value-chains-avc-program), the World Bank-funded [Somali Business Catalytic Fund](https://www.dai.com/our-work/projects/somali-business-catalytic-fund-sbcf), and the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic) in Ghana that works with young entrepreneurs, local business incubators, and impact investors. 
 
 In addition to his full-time position with DAI, Zaki works part-time as an adjunct associate professor at Columbia University’s Graduate School of International Public Affairs (SIPA), teaching a micro and small enterprise development course.
 
