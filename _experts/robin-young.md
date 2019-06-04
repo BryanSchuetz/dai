@@ -10,9 +10,6 @@ image: https://assetify-dai.com/experts/Young_Inner.jpg
 solutions:
 - Economic Growth
 - Finance and Investment
-regions:
-- 
-- 
 articles:
 - name: Using Development Assistance to Catalyze Sound Investments in Emerging and
     Developing Markets
