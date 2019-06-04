@@ -1,6 +1,7 @@
 ---
 title: DAI Research Cited in UN Gender Declaration
 date: 2019-06-03 13:28:00 Z
+published: false
 solutions:
 - Gender and Social Inclusion
 summary: Research conducted by DAI on how [voluntary sustainability standards](https://dai-global-developments.com/articles/how-to-ensure-voluntary-sustainability-standards-are-more-effective-in-promoting-gender-equality-in-global-value-chains)
