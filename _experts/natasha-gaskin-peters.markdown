@@ -6,6 +6,7 @@ lastname: Gaskin-Peters
 summary: Natasha Gaskin-Peters is an economist with experience in both micro- and
   macroeconomics with DAI's Sustainable Business Group.
 job-title: Deputy Director, Centre for Local Business Development, Guyana
+image: "/uploads/natasha_pic%20(002).jpg"
 solutions:
 - Sustainable Business
 - 
