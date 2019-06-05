@@ -26,7 +26,7 @@ The Asegurando la Educación (Securing Education) program, funded by the U.S. Ag
 
 To address the complex nature of violence in and around schools, Asegurando la Educación works across multiple levels: improving schools’ ability to prevent violence; [strengthening local networks](https://eccnetwork.net/peer-violence-bullying/) that increase school safety; and building the capacity of the Ministry of Education and social service agencies to respond to school-based violence. By taking a comprehensive, adaptive approach that involves teachers, students, administrators, community members, and policymakers, the program works to enhance education and job opportunities for youth, while [increasing peace and security](https://www.baselgovernance.org/blog/el-salvadors-rule-law-election-deserves-our-support-heres-how) in communities.
 
-![Securing.jpg](/uploads/Securing.jpg)
+<iframe src="https://player.vimeo.com/video/340415699" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
 
