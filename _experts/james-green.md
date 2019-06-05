@@ -1,6 +1,7 @@
 ---
 title: James Green
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Green
 summary: For more than 30 years, Jim Green has worked widely in South Asia, Southeast
   Asia, and China as a project director and rural development specialist.
