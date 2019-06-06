@@ -14,6 +14,9 @@ solutions:
 regions:
 - Latin America and the Caribbean
 - Sub-Saharan Africa
+articles:
+- name: Jobs in Agriculture? Young Bangladeshis Have Options
+  article_file: https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options
 ---
 
 Estera Barbarasa specializes in designing and implementing programs in workforce development, economic growth, market-driven skills development, youth, and gender and social inclusion. She designs new programs, provides technical assistance to projects, and manages knowledge generated from innovative field implementation. 
