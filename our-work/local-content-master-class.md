@@ -108,7 +108,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 * **Host-country regulatory agencies**: Officials responsible for setting local content targets, compiling aggregate demand, assessing local market capability, managing registers of domestic suppliers, and engaging in tendering processes.
 * **International and larger-scale domestic contractor suppliers**: Those who manage local supply chains, source globally, and/or have business development interests in emerging economies. Relevant departments include business development, account management, marketing, service delivery, production, human resources, social performance, and sustainable development.
 * **Local supplier business and trade associations**
-* **Official development agencies and development finance institutions**: Personell who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
+* **Official development agencies and development finance institutions**: Personel who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
 
 > "The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights" — *Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board*
 >
@@ -118,13 +118,11 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 ## Regional Master Class Locations
 
-* North America: Houston, May 2019
-
 * Europe: London, November 2019
 
   * [Brochure](/uploads/lcmc-tanzania-final.pdf)
 
-  * [Agenda](/uploads/tanzania-agenda.pdf)
+  * [Agenda](/uploads/0%20-%203%20-%20UK%202019%20Masterclass%20Program.pdf)
 
   * [Pre-course Reading](/uploads/tanzania-reading.pdf)
 
