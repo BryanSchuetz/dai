@@ -11,11 +11,11 @@ layout: default
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. 
 
-Upcoming Masterclass: November 20–22, 2019, Henley-on-Thames, United Kingdom.
+Upcoming Master Class: November 20–22, 2019, Henley-on-Thames, United Kingdom.
 
 [Read the brochure](/uploads/DAI%20UK%20Masterclass%20Brochure_Nov%202019.pdf).
 
-> “The masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences” —  *Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
+> “The Master Class has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
 <div class="form-wrapper">
 <div class="lead-generator">
@@ -76,7 +76,7 @@ Local content has the potential to provide significant contributions to the host
 
 DAI’s [Sustainable Business Group](/our-work/solutions/sustainable-business) tackles the growing challenges facing private sector companies (investors, operators, contractors) and public authorities in meeting local content regulations and supporting the sustainable industrial development of host economies through capital investments.
 
-> "The course has given me great insight... and covered all the important areas of local content: policy, procurement and metrics". — *Project Co-ordinator for Local Content, Ministry of Energy, Ghana*
+> "The course has given me great insight... and covered all the important areas of local content: policy, procurement and metrics."—*Project Co-ordinator for Local Content, Ministry of Energy, Ghana*
 
 These challenges include:
 
@@ -108,11 +108,11 @@ To stimulate engagement and cross-learning between participants, we make every e
 * **Host-country regulatory agencies**: Officials responsible for setting local content targets, compiling aggregate demand, assessing local market capability, managing registers of domestic suppliers, and engaging in tendering processes.
 * **International and larger-scale domestic contractor suppliers**: Those who manage local supply chains, source globally, and/or have business development interests in emerging economies. Relevant departments include business development, account management, marketing, service delivery, production, human resources, social performance, and sustainable development.
 * **Local supplier business and trade associations**
-* **Official development agencies and development finance institutions**: Personel who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
+* **Official development agencies and development finance institutions**: Personnel who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
 
-> "The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights" — *Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board*
+> "The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights"—*Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board*
 >
-> “Certainly the prime local content course in the market. Highly recommended.” — *Local Content Manager, International oil field services company*
+> “Certainly the prime local content course in the market. Highly recommended.”—*Local Content Manager, International oil field services company*
 
 <hr>
 
@@ -126,7 +126,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 ## Customized Courses
 
-DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Guyana, Ghana, Sierra Leone, Tanzania, Canada, and Oman.
+DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Canada, Ghana, Guyana, Oman, Sierra Leone, and Tanzania.
 
 <hr>
 
@@ -159,7 +159,7 @@ DAI leads customized courses upon request for private sector or government clien
 * As Director of the Sustainable Business Group, Zach leads activities related to local content, corporate social investment and supplier development
 * More than 10 years experience within the extractives industry, focusing on extensive local content and policy work
 * Served as a Technical Advisor to local content supplier development programs linked to the extractive industries in Angola, Ghana, Mozambique, Nigeria, and Zambia. Much of this work included assessing local supplier capacity, helping local suppliers upgrade to enter global supply chains, and facilitating foreign direct investment vis-à-vis joint-ventures and business-to-business relationships between international and local companies
-* Spearheaded a Local Content Regime Analysis in seven countries including Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania, Papua New Guinea, and Uganda, to provide a comparative analysis of the impacts of various local content regimes
+* Spearheaded a Local Content Regime Analysis in seven countries including Brazil, Ghana, Nigeria, Papua New Guinea, Tanzania, Trinidad and Tobago, and Uganda, to provide a comparative analysis of the impacts of various local content regimes
 * Recently led the Local Content Strategy Project for ExxonMobil Ghana, which included both an industrial baseline analysis of the Ghanaian offshore petroleum industry to assess the ability of local suppliers, as well as an analysis of the Ghanaian regulatory requirements
 * Summer guest lecturer on social change at Georgetown University
 * Guest panelist and keynote speaker at events such as the Lebanon Oil and Gas Summit and Mozambique Local Content Policy Options Forum, on topics including local content, supplier development, PPPs, and inclusive economic growth in extractive industries
