@@ -12,6 +12,6 @@ summary: Donald Lunan is the Director of the Delivery Unit in DAI’s Europe off
   on the VPA Support Unit programme in Liberia, and on the StARCK+ programme in Kenya.
 image: https://assetify-dai.com/contacts/donald-lunan.jpg
 group: Management
-sort-order: 3
+sort-order: 2
 ---
 
