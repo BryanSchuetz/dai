@@ -23,7 +23,7 @@ country:
 layout: project
 ---
 
-Growth in Burundi, Kenya, Madagascar, Mauritius, Rwanda, Tanzania, and Uganda—has been robust but uneven, with millions of people left behind in poverty. Women, youth, smallholder farmers, and the poor are not fully represented in policy making or implementation nor integrated into the wider economic community.
+Growth in Burundi, Ethiopia, Kenya, Madagascar, Mauritius, Rwanda, Tanzania, and Uganda has been robust but uneven, with millions of people left behind in poverty. Women, youth, smallholder farmers, and the poor are not fully represented in policy making or implementation nor integrated into the wider economic community.
 
 The [East Africa Trade and Investment Hub](https://eatradehub.nationbuilder.com/) is the U.S. Government's flagship project under the presidential Trade Africa initiative, which works to increase U.S.-Africa trade and investment, regional integration, and competitiveness. The Hub assists the region's private sector to engage with government in finding [practical solutions](https://blog.usaid.gov/2018/04/generating-trade-with-and-within-east-africa/) to constraints to [trade](https://magic.piktochart.com/output/5281453-why-trade-shows-pvh) and investment. The team also builds awareness around opportunities for African and [U.S. firms to increase trade](https://www.youtube.com/watch?v=ghZzsovQblU), expand business partnerships, and invest in East Africa.
 
