@@ -120,10 +120,8 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 * Europe: London, November 2019
 
-  * [Brochure](/uploads/lcmc-tanzania-final.pdf)
-
+  * [Brochure](/uploads/DAI%20UK%20Masterclass%20Brochure_Nov%202019-de2c0e.pdf)
   * [Agenda](/uploads/0%20-%203%20-%20UK%202019%20Masterclass%20Program.pdf)
-
   * [Pre-course Reading](/uploads/tanzania-reading.pdf)
 
 ## Customized Courses
@@ -134,7 +132,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 ## Meet Our Trainers
 
-**Dr. Michael Warner – Director, Local Content Performance and Reporting**
+**Dr. Michael Warner—Director, Local Content Performance and Reporting**
 
 ![Michael Warner Photo](/uploads/warner.jpg){:.float-right}
 
@@ -144,23 +142,23 @@ DAI leads customized courses upon request for private sector or government clien
 * Media appearances to discuss business and international development on BBC *Newsnight*, BBC Radio 4, BBC World Service, and CNBC, and has authored articles in *Newsweek* and *The Guardian*
 * Author of multiple books and papers on local content, including *[Local Content in Procurement](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf Publishing in 2012
 
-**Dorival Bettencourt – Manager, Oil and Gas**
+**Dorival Bettencourt—Manager, Oil and Gas**
 
 ![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-right}
 
-* Over ten years experience within the extractives industry, focusing on extensive local content and policy work
+* More than 10 years experience within the extractives industry, focusing on extensive local content and policy work
 * Supported development of a proprietary SBG tool that forecasts local content supply and demand
-* Spearheaded the Tanzania Local Content Benchmarking Study and Exchanges, which included designing and implementing a local content stakeholder engagement process for The Oil and Gas Association of Tanzania (OGAT). Dorival was the lead author of the first Local Content Benchmarking Study for Tanzania.  Then, drawing on key conclusions from this study, he led a series of Local Content Exchanges to promote open dialogue on priority local content topics with stakeholders
+* Spearheaded the Tanzania Local Content Benchmarking Study and Exchanges, which included designing and implementing a local content stakeholder engagement process for The Oil and Gas Association of Tanzania (OGAT). Dorival was the lead author of the first Local Content Benchmarking Study for Tanzania. Then, drawing on key conclusions from this study, he led a series of Local Content Exchanges to promote open dialogue on priority local content topics with stakeholders
 * Led and facilitated the first Kenya Local Content Exchange, one of a three-part series that brings together public, private, and civil stakeholders from Kenya's petroleum sector to facilitate discussion and create a deeper understanding of local content issues in the country
 * Led workshops covering the fundamentals of oil and gas and local content, aimed at providing the Senegalese media with the foundational knowledge to effectively report on developments within the sector
 
-**Zachary Kaplan –  Senior Director, Sustainable Business Group**
+**Zachary Kaplan—Senior Director, Sustainable Business Group**
 
 ![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
 
-* As Director of the Sustainable Business Unit, Zach leads activities related to local content, corporate social investment and supplier development
+* As Director of the Sustainable Business Group, Zach leads activities related to local content, corporate social investment and supplier development
 * More than 10 years experience within the extractives industry, focusing on extensive local content and policy work
-* Served as a Technical Advisor to local content supplier development programs linked to the extractive industries in Zambia, Mozambique, Nigeria, Ghana and Angola. Much of this work included assessing local supplier capacity, helping local suppliers upgrade to enter global supply chains, and facilitating foreign direct investment vis-à-vis joint-ventures and business-to-business relationships between international and local companies
+* Served as a Technical Advisor to local content supplier development programs linked to the extractive industries in Angola, Ghana, Mozambique, Nigeria, and Zambia. Much of this work included assessing local supplier capacity, helping local suppliers upgrade to enter global supply chains, and facilitating foreign direct investment vis-à-vis joint-ventures and business-to-business relationships between international and local companies
 * Spearheaded a Local Content Regime Analysis in seven countries including Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania, Papua New Guinea, and Uganda, to provide a comparative analysis of the impacts of various local content regimes
 * Recently led the Local Content Strategy Project for ExxonMobil Ghana, which included both an industrial baseline analysis of the Ghanaian offshore petroleum industry to assess the ability of local suppliers, as well as an analysis of the Ghanaian regulatory requirements
 * Summer guest lecturer on social change at Georgetown University
