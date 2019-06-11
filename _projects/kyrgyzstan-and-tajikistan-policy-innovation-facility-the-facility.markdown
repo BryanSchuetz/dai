@@ -1,0 +1,18 @@
+---
+title: Kyrgyzstan and Tajikistan—Policy Innovation Facility (the Facility)
+date: 2019-06-11 19:20:00 Z
+published: false
+client: U.K. Department for International Development
+---
+
+Kyrgyzstan and Tajikistan face similar economic challenges in a fragile region. Both countries are seeking to develop policies to diversify their economies into higher value products, improve microeconomic stability, and reduce their vulnerability to external shocks. The governments of both countries have set out high-level economic strategies that will require realistic policies, strategies, and plans to improve their economies, governance, resilience, and delivery capabilities.
+ 
+The Facility is a 4-year technical assistance facility that provides flexible, short-term, demand-driven support for policy development and capacity building to the governments of Tajikistan and Kyrgyzstan. The Facility works with executive offices, ministries, state agencies, and local government (MDAs) to help formulate policies that contribute to the economic development and prosperity of both countries. The facility will provide opportunities for synergies with another DAI-implemented project, the Kyrgyzstan and Tajikistan Enterprise Innovation Programme (EIP). 
+ 
+While Technical Assistance (TA) projects will help unlock better use of public, private, and development partner finance for downstream implementation, the Facility will not support the implementation of policies, strategies, or programmes
+
+**Sample activities: **
+
+* The Facility will deliver short-term TA projects, including technical advice from local and international experts, training, coaching mentoring and/or new tools and guidance in response to requests from MDAs. 
+* A TA Project might include embedding an expert within a partner MDA to support the development of a policy and to provide mentoring. 
+
