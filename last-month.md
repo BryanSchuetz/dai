@@ -6,4 +6,4 @@ social-image: "/uploads/last-month-social-image.jpg"
 layout: default
 ---
 
-<iframe src="//my.visme.co/embed/8r97rn8e-may-last-month-at-dai" height="5026" width="800" style="border: 0px; height: 6000px !important;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+<iframe src="//my.visme.co/embed/8r97rn8e-may-last-month-at-dai" height="5026" width="800" style="border: 0px; height: 5026px !important;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
