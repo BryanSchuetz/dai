@@ -45,7 +45,7 @@ Kitain and Rosen were joined on the panel by moderator Daniel Runde of CSIS; Geo
 
 “Aid cannot be a long-term development strategy,” said Muyangwa, adding that countries must develop their own capacity to deliver what development plans they have. “That is what this report is talking about—how we deliver transformational DRM capabilities in low-income countries.”
 
-Authored by CSIS’ Runde, Christopher Metzger, Conor Savoy, and Erol Yayboke, the report makes three broad recommendations: to create an Agency-wide USAID DRM strategy, identify and seize political opportunities at home and abroad, and incorporate DRM into policy dialogues. To read the full report and more details on its recommendations, click here.
+Authored by CSIS’ Runde, Christopher Metzger, Conor Savoy, and Erol Yayboke, the report makes three broad recommendations: to create an Agency-wide USAID DRM strategy, identify and seize political opportunities at home and abroad, and incorporate DRM into policy dialogues.
 
 
 
