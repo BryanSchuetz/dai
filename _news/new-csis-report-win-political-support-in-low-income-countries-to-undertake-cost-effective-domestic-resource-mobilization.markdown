@@ -6,6 +6,7 @@ published: false
 solutions:
 - Economic Growth
 - Public Financial Management
+regions: Latin America and the Caribbean
 projects: El Salvador—Domestic Resource Mobilization Program
 clients: U.S. Agency for International Development
 summary: Helping developing countries put their finances in order has shown to be
