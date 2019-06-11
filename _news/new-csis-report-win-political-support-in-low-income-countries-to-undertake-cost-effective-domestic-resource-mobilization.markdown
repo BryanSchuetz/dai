@@ -39,7 +39,7 @@ Panelists cited the example of Liberia in 2016, before the launch of USAID’s R
 <a href="https://www.csis.org/analysis/rethinking-taxes-and-development-incorporating-political-economy-considerations-drm" target="blank" class="primary-block--button">Read The Full Report<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 </aside>
 
-“We were able to engage the government and build consensus on the most important reforms,” said DAI’s Alexander Kitain, the RG3 Chief of Party. “In the end, what was important was that [Liberia’s leaders] were prepared for the change, and they knew what they signed up for.” 
+“We were able to engage the government and build consensus on the most important reforms,” said DAI’s [Alexander Kitain](https://www.dai.com/who-we-are/our-team/alexander-kitain), the RG3 Chief of Party. “In the end, what was important was that [Liberia’s leaders] were prepared for the change, and they knew what they signed up for.” 
 
 Liberia’s government, supported by RG3, passed an excise tax bill and implemented e-tax filing, mobile tax payments, tax payments through commercial banks, and a data processing center to gather and collate the incoming tax information electronically. After three years of reforms, the Liberian government is realizing greater revenues and seeing improved taxpayer compliance.
 
