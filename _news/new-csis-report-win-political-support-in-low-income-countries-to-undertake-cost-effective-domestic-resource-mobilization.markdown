@@ -1,6 +1,6 @@
 ---
-title: 'New CSIS Report: Win Political Support in Low-Income Countries to Undertake
-  Cost-Effective Domestic Resource Mobilization'
+title: New CSIS Report Looks at Incorporating Political Economy Considerations into
+  DRM Strategies
 date: 2019-06-11 12:54:00 Z
 published: false
 solutions:
