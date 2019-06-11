@@ -15,7 +15,7 @@ summary: Helping developing countries put their finances in order has shown to b
 social-image: "/uploads/Screen%20Shot%202019-06-11%20at%209.15.04%20AM.png"
 ---
 
-Helping developing countries put their finances in order has shown to be cost-effective development assistance. For example, the government of El Salvador has generated $2.4 billion of additional state revenue through a decade of tax system reform assistance by the U.S. Agency for International Development (USAID).
+Helping developing countries put their finances in order has shown to be cost-effective development assistance. For example, the government of [El Salvador has generated $2.4 billion](https://www.dai.com/our-work/projects/el-salvador-domestic-resource-mobilization-program) of additional state revenue through a decade of tax system reform assistance by the U.S. Agency for International Development (USAID).
 
 Speaking at a recent Center for Strategic and International Studies panel on the connections between political economy analysis and domestic resource mobilization, (DRM), USID’s Kimberly Rosen—Deputy Assistant Administrator, Bureau for Economic Growth, Education, and Environment—said USAID DRM programs stress six tenets: local leadership and ownership; benchmarking against international standards; flexibility to country needs; inclusion of the private sector and civil society; long-term commitment to DRM processes; and integrity of expenditures once governments realize increased revenues.
 
