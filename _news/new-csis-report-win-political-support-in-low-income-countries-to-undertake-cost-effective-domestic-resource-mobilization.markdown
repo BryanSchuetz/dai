@@ -33,11 +33,11 @@ USAID considers DRM central to governments’ journeys from aid dependence to gr
 
 The research for the report was conducted by CSIS, in partnership with DAI, in Uganda and Liberia—low-income countries aiming to expand their tax bases—to assess the political and economic conditions affecting DRM reform efforts.
 
+Panelists cited the example of Liberia in 2016, before the launch of USAID’s Revenue Generation for Governance and Growth (RG3) project, where political and economic leaders acknowledged that the government needed more revenues to pay for services such as clinics and schools. The RG3 team worked with Liberia’s civil society and others to keep the tax-paying populace educated and informed. 
+
 <aside>
 <a href="https://www.csis.org/analysis/rethinking-taxes-and-development-incorporating-political-economy-considerations-drm" target="blank" class="primary-block--button">Read The Full Report<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 </aside>
-
-Panelists cited the example of Liberia in 2016, before the launch of USAID’s Revenue Generation for Governance and Growth (RG3) project, where political and economic leaders acknowledged that the government needed more revenues to pay for services such as clinics and schools. The RG3 team worked with Liberia’s civil society and others to keep the tax-paying populace educated and informed. 
 
 “We were able to engage the government and build consensus on the most important reforms,” said DAI’s Alexander Kitain, the RG3 Chief of Party. “In the end, what was important was that [Liberia’s leaders] were prepared for the change, and they knew what they signed up for.” 
 
