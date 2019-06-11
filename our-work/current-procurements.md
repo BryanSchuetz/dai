@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [No. EOI-SATIH-PRE-001 Increasing Investment through Capital Advisory and Investment Facilitation](/uploads/Co-creation%20Req%20for%20EOIsCapital%20Advisory%20Services.pdf)
 * [RFP No. CTJ-US-001 Workplan Facilitator](/uploads/CTJ%20RFP-%20Workshop%20Facilitation%20and%20Workplan%20Support%20GW%20edits.pdf)
 * [RFP_IQC_Regional Analytical & Strategic Services in Southeast Asia](/uploads/RFP_IQC_Regional%20Analytical%20&%20Strategic%20Services%20in%20Southeast%20Asia.pdf)
 * [Q&A_RFP_IQC_Regional Analytical & Strategic Services in Southeast Asia](/uploads/Q&A_RFP-PROS-JKT-19-0001.pdf)
