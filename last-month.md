@@ -6,4 +6,4 @@ social-image: "/uploads/last-month-social-image.jpg"
 layout: default
 ---
 
-<script id="infogram_0_44c84b63-6c64-426e-abb8-c5aef6ef2c77" title="April2019-last month" src="https://e.infogram.com/js/dist/embed.js?poh" type="text/javascript"></script>
+<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="8r97rn8e-may-last-month-at-dai" data-w="800" data-h="5026" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" >
