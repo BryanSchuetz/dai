@@ -6,4 +6,4 @@ social-image: "/uploads/last-month-social-image.jpg"
 layout: default
 ---
 
-<script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="8r97rn8e-may-last-month-at-dai" data-w="800" data-h="5026" data-domain="my"></div><p style="width: 220px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152" >
+<iframe src="//my.visme.co/embed/8r97rn8e-may-last-month-at-dai" height="5026" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
