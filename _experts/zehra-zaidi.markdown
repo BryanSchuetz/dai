@@ -2,6 +2,14 @@
 title: Zehra Zaidi
 date: 2019-06-12 12:23:00 Z
 published: false
+lastname: Zaidi
+summary: Zehra Zaidi is the Director for Education in DAI’s Europe office and has
+  designed and led programmes focused on education, innovation, governance, and social
+  entrepreneurship.
+job-title: 'Director, Education '
+solutions:
+- Governance
+- Education
 ---
 
 Zehra Zaidi is the Director for Education in DAI’s Europe office and has designed and led programmes focused on education, innovation, governance, and social entrepreneurship. She has worked in challenging political and operational environments including South and Central Asia, East Africa, and the Middle East on programmes supported by multiple donors. 
