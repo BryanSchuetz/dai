@@ -20,5 +20,5 @@ Yasmine previously served as a communications specialist for DAI’s Center for 
 
 Before joining DAI, Yasmine was a communications specialist at the World Resources Institute (WRI) and played a key role in launching its Gender Initiative. She also worked a research assistant for a small defense contractor, assessing the feasibility of business opportunities in the aerospace and defense sectors. 
 
-M.A. international affairs, American University
+* M.A. international affairs, American University
 B.A. political science (honors) and history, University of Tennessee
