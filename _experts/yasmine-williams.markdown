@@ -5,7 +5,7 @@ lastname: Williams
 summary: Yasmine Williams is the enterprise development and communications specialist
   for the Shell LiveWIRE global consultancy, DAI’s project supporting Shell’s flagship
   enterprise development program.
-job-title: Lead Analyst
+job-title: Enterprise Development and Communications Specialist
 image: "/uploads/Yasmine%20Williams%20headshot.jpg"
 solutions:
 - Sustainable Business
