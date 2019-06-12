@@ -1,7 +1,6 @@
 ---
 title: Yasmine Williams
 date: 2019-06-12 18:07:00 Z
-published: false
 lastname: Williams
 summary: Yasmine Williams is the enterprise development and communications specialist
   for the Shell LiveWIRE global consultancy, DAI’s project supporting Shell’s flagship
