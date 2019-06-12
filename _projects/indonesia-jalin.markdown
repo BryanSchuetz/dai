@@ -1,9 +1,9 @@
 ---
 title: Indonesia—Jalin
 date: 2017-09-14 21:31:00 Z
-summary: The Jalin program, meaning "intertwined or interwoven" in Indonesian, promotes
-  locally developed solutions to reduce maternal and child mortality in Indonesia
-  by working with diverse partners to co-create and co-invest in new life-saving ideas.
+summary: The U.S. Agency for International Development’s Jalin program assists the
+  Indonesian government as it promotes locally led solutions for preventing maternal
+  and newborn deaths and extending health services.
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
