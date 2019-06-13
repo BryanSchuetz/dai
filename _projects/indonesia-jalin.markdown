@@ -21,7 +21,7 @@ The U.S. Agency for International Development (USAID)’s Jalin program assists 
 
 The Jalin program operates under six core principles: establish co-creation platforms; use a whole-of-market, systemic approach; support systems operating at scale; ensure sustainable results; generate and disseminate useful information and evidence; and reach the poorest and most vulnerable people.
 
-![MNH_cover_image.jpg](/uploads/MNH_cover_image.jpg)
+![Jalin-web-page.jpg](/uploads/Jalin-web-page.jpg)
 
 ### Sample Activities
 
@@ -29,7 +29,7 @@ The Jalin program operates under six core principles: establish co-creation plat
 * Bring solutions under the Indonesian government’s high-level strategic framework, complementing them with national-level actions to ensure wider learning, broader ownership, national replication or adaptation where feasible for further scaling-up, and potential private sector investment.
 * Spotlight potential solutions in the Indonesian government’s strategic intervention areas, including community engagement and empowerment, increased access to antenatal care, improved facility readiness for maternal and newborn healthcare, and strengthened monitoring, evaluation, and accountability mechanisms.
 
-Select Results (Year One)
+### Select Results (Year One)
 
 * Gathered and synthesized local data on maternal and newborn mortality.
 * Disseminated evidence synthesis to major stakeholders—notably the Indonesian government’s transfer of evidence across local, provincial, and national health practitioners and officials.
