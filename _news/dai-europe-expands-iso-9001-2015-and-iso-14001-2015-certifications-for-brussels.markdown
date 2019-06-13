@@ -6,6 +6,7 @@ summary: DAI’s Brussels office has earned the right to display the ISO 9001 an
   14001 certification marks to demonstrate its conformance to these international
   standards. At the same time, DAI Europe’s headquarters in Apsley, United Kingdom,
   achieved recertification in both ISO standards.
+social-image: "/uploads/Plaques.jpg"
 ---
 
 DAI’s Brussels office has earned the right to display the ISO 9001 and ISO 14001 certification marks to demonstrate its conformance to these international standards. At the same time, DAI Europe’s headquarters in Apsley, United Kingdom, achieved recertification in both ISO standards.
