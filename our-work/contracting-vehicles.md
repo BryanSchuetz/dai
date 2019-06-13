@@ -46,14 +46,14 @@ layout: node
 
 * General Economic Development Framework (GEDF) (2019–2021)
 * International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–2021): 
-o Lot 5 – Humanitarian—Low Value
-o Lot 10 – Research—Low Value
-o Lot 11 – Climate Change and Environment—High Value
-o Lot 12 – Conflict and Governance—High Value
-o Lot 13 – Education—High Value
-o Lot 16 – Infrastructure—High Value
-o Lot 17 – Livelihoods—High Value
-o Lot 22 – Statistics and Data—High Value
+Lot 5 – Humanitarian—Low Value
+Lot 10 – Research—Low Value
+Lot 11 – Climate Change and Environment—High Value
+Lot 12 – Conflict and Governance—High Value
+Lot 13 – Education—High Value
+Lot 16 – Infrastructure—High Value
+Lot 17 – Livelihoods—High Value
+Lot 22 – Statistics and Data—High Value
 
 ### Expert Advisory Call Down Services
 
