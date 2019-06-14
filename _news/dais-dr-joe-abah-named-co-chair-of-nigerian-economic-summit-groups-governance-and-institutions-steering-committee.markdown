@@ -3,6 +3,9 @@ title: DAI’s Dr. Joe Abah Named Co-Chair of Nigerian Economic Summit Group’s
   and Institutions Steering Committee
 date: 2019-06-14 14:26:00 Z
 published: false
+solutions:
+- Governance
+regions: Sub-Saharan Africa
 summary: 'DAI Nigeria Country Director Dr. Joe Abah was recently named as Co-Chair
   of the Nigerian Economic Summit Group and will serve on its Steering Committee on
   Governance and Institutions. '
