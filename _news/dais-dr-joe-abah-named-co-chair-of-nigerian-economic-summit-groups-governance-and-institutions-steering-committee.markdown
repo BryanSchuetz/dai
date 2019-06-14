@@ -2,7 +2,6 @@
 title: Joe Abah to Co-Chair Nigerian Economic Summit Group’s Governance and Institutions
   Steering Committee
 date: 2019-06-14 14:26:00 Z
-published: false
 solutions:
 - Governance
 regions: Sub-Saharan Africa
