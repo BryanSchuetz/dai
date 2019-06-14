@@ -20,6 +20,6 @@ Each year the group hosts the Nigerian Economic Summit, a platform for public-pr
 
 ![rtable joe.jpg](/uploads/rtable%20joe.jpg)`Dr. Joe Abah, center, leads a panel at a recent roundtable in Nigeria, with DAI colleagues Juan Estrada-Valle and Bill Grant.`
 
-[Dr. Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), has lead DAI’s 1st Country operating platform since its incorporation in March 2018 and prior to that he served as Director General of the Nigeria Bureau of Public Service Reform. He has experience in governance reform and institutional strengthening, as well as a practical grounding in development management and a professional commitment to creating public value in dysfunctional environments. 
+[Dr. Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), has lead DAI’s first country operating platform since the Nigeria office incorporation in March 2018 and prior to that he served as Director General of the Nigeria Bureau of Public Service Reform. He has experience in governance reform and institutional strengthening, as well as a practical grounding in development management and a professional commitment to creating public value in dysfunctional environments. 
 
 QUOTE HERE 
