@@ -56,7 +56,7 @@ layout: solution
     <a href="https://assetify-dai.com/pdfs/kic.pdf">
       <img src="/uploads/kic-thumb.jpg" alt="">
       <h3>Building the Future of Tech-Enabled Agriculture</h3>
-      <p>Countries across Africa can boast of making impressive strides, especially in the past decade, toward becoming vibrant economies that attract foreign investment and increase opportunities for their citizens. An exciting facet of this growth is the burgeoning technology entrepreneurship sector that has taken root in urban centers across the continent. In addition to creating jobs and wealth, technology-driven startups are building solutions that tackle barriers to growth and economic opportunity, from financial access to healthcare.</p>
+      <p>Countries across Africa can boast of making impressive strides, especially in the past decade, toward becoming vibrant economies that attract foreign investment and increase opportunities for their citizens.</p>
     </a>
     <a href="https://assetify-dai.com/pdfs/kic.pdf" target="blank"
       class="primary-block--button expert-button" style="clear: left; margin-bottom: 2rem;">Read More <svg
