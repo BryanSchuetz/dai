@@ -53,12 +53,12 @@ layout: solution
   </div>
 
   <div style="clear: left;">
-    <a href="/uploads/kic.pdf">
+    <a href="/uploads/kic-27672d.pdf">
       <img src="/uploads/kic-thumb.jpg" alt="">
       <h3>Building the Future of Tech-Enabled Agriculture</h3>
       <p>Countries across Africa can boast of making impressive strides, especially in the past decade, toward becoming vibrant economies that attract foreign investment and increase opportunities for their citizens.</p>
     </a>
-    <a href="/uploads/kic.pdf" target="blank"
+    <a href="/uploads/kic-27672d.pdf" target="blank"
       class="primary-block--button expert-button" style="clear: left; margin-bottom: 2rem;">Read More <svg
         class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet">
         <use xlink:href="#redirect"></use>
