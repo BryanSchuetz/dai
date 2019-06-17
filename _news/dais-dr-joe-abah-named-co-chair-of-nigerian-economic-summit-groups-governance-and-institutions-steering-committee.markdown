@@ -19,4 +19,8 @@ Each year the group hosts the Nigerian Economic Summit, a platform for public-pr
 
 ![rtable joe.jpg](/uploads/rtable%20joe.jpg)`Dr. Joe Abah, center, leads a panel at a recent roundtable in Nigeria, with DAI colleagues Juan Estrada-Valle, left, and Bill Grant, right.`
 
+This appointment consolidates DAI’s 49-year experience in Nigeria’s development and corporate commitment to partner with the Nigerian government and private sector. 
+
+“I am honored to have been nominated into these important roles,” said Abah. “My career-long interest has been about how to harness diverse capabilities and opportunities to deliver results even in the most challenging environments—and collaboration between the public and private sector is one of the ways to do that.”
+
 [Abah](https://www.dai.com/who-we-are/our-team/joe-abah), has served as DAI’s Country Director in Nigeria since March 2018 and prior to that he served as Director General of the Nigeria Bureau of Public Service Reform. He has experience in governance reform and institutional strengthening, as well as a practical grounding in development management and a professional commitment to creating public value in dysfunctional environments. 
