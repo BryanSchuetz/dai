@@ -11,7 +11,7 @@ summary: 'DAI Nigeria Country Director Dr. Joe Abah was recently named as Co-Cha
 social-image: "/uploads/Dr.-Joe-Abah-dd178b.jpg"
 ---
 
-DAI’s Country Director in Nigeria, Dr. Joe Abah, was recently nominated to serve as Co-Chair of the Nigerian Economic Summit Group (NESG) Governance and Institutions Steering Committee.
+Country Director of DAI’s Nigeria office, Joe Abah, was recently nominated to serve as Co-Chair of the Nigerian Economic Summit Group (NESG) Governance and Institutions Steering Committee.
 
 The [NESG](https://nesgroup.org/) is a private sector-led organization promoting free market principles, ethical business practices, and good governance. The group supports the formulation and implementation of social and economic reform programmes for the transformation of the Nigerian economy and leads research, drives advocacy, implements programmes, and hosts policy discourse events. 
 
