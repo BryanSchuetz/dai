@@ -1,7 +1,7 @@
 ---
 title: Nigeria—Fleming Fund
 date: 2019-06-21 13:05:00 Z
-summary: 'DAI’s Fleming Fund program in Nigeria is a collaboration with the Nigerian
+summary: 'DAI’s Fleming Fund programme in Nigeria is a collaboration with the Nigerian
   government to strengthen systems for AMR and Antimicrobial Use (AMR/AMU) using a
   “One Health” approach—a multisectoral approach to complex health problems that reaches
   across human health, animal health, and environment sectors. '
@@ -16,7 +16,7 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The Fleming Fund is a U.K. Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s Fleming Fund program in Nigeria is a collaboration with the Nigerian government to strengthen systems for AMR and Antimicrobial Use (AMR/AMU) using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team will help incorporate One Health across programme interventions. DAI will work with the Nigerian government to become a leader in combating antimicrobial resistance.
+The Fleming Fund is a U.K. Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s [Fleming Fund](Flemingfund.org) programme in Nigeria is a collaboration with the Nigerian government to strengthen systems for AMR and Antimicrobial Use (AMR/AMU) using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team will help incorporate One Health across programme interventions. DAI will work with the Nigerian government to become a leader in combating antimicrobial resistance.
 
 ## Sample Activities
 
