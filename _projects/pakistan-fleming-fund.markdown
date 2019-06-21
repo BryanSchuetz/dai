@@ -20,7 +20,7 @@ The Fleming Fund is a U.K. Department of Health and Social Care programme to hel
 
 ## Sample Activities
 
-* Use an evidence-to-action approach that builds on existing assessments to enable a nuanced understanding of antimicrobial resistance, challenges and opportunities, entry points and policy constraints.
+* Usie an evidence-to-action approach that builds on existing assessments to enable a nuanced understanding of the antimicrobial resistance and use (AMR/AMU) challenges and opportunities, entry points, and policy constraints.
 * Foster a data for decision-making mindset, where decision-makers demand evidence for policy and stakeholders are empowered to hold those decision-makers accountable.
 * Build a national-level multisectoral coordination mechanisms to effectively address the complexities of AMR/AMU, strengthening information-sharing and coordination across public and private sectors and catalysing political commitment and leadership to drive the AMR agenda.
 
