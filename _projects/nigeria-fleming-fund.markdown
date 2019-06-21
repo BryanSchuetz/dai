@@ -26,6 +26,6 @@ The Fleming Fund is a U.K. Department of Health and Social Care programme to hel
 * Establish a foundation for AMR surveillance in aquatic animals.
 * Conduct a situational analysis of environmental laboratory stakeholders to assess requirements for an AMR bacteriology sentinel site for environmental health.
 
-The DAI team will initially focus on convening and supporting a National AMR Symposium, a series of consultative meetings, workshops and one-on-one meetings to launch the OHNSC with the AMRCC Secretariat and associated technical working groups. The National AMR Symposium set the stage for ongoing state-level AMR engagement.
+The DAI team will initially focus on convening and supporting a National AMR Symposium, a series of consultative meetings, workshops and one-on-one meetings to launch the OHNSC with the AMRCC Secretariat and associated technical working groups. The National AMR Symposium will set the stage for ongoing state-level AMR engagement.
 
 Fleming Fund Nigeria partners include the Institute for Human Virology Nigeria, the International Foundation Against Infectious Disease in Nigeria, the Liverpool School of Tropical Medicine, and Life Stock Management Services.
