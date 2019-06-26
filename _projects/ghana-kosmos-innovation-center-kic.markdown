@@ -13,6 +13,7 @@ solutions:
 - Local Content and Supply Chain Management
 - Workforce Development and Youth
 - Digital Strategy
+- 
 regions: Sub-Saharan Africa
 country: Ghana
 promos:
@@ -24,6 +25,8 @@ promos:
   link: https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html?utm_source=daidotcom
 - title: Kosmos Innovation Center Wins Prestigious 2018 P3Impact Award
   link: https://www.dai.com/news/kosmos-innovation-center-wins-prestigious-2018-p3-impact-award
+- title: Building the Future of TechEnabled Agriculture
+  link: https://www.dai.com/uploads/kic-27672d.pdf
 End: 
 ---
 
