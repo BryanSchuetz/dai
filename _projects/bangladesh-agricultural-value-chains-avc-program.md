@@ -1,8 +1,9 @@
 ---
 title: Bangladesh—Agricultural Value Chains (AVC) Program
 date: 2016-01-21 22:40:00 Z
-summary: Funded under the Feed the Future initiative, this project improved food security
-  by strengthening agricultural value chains.
+summary: 'Funded under the Feed the Future initiative, this project improved food
+  security by strengthening agricultural value chains and ultimately benefitted 307,
+  419 households. '
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
