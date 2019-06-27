@@ -132,7 +132,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 ## Meet Our Trainers
 
-**Dr. Michael Warner—Director, Local Content Performance and Reporting**
+**Dr. Michael Warner—Senior Advisor, Local Content Performance and Reporting**
 
 ![Michael Warner Photo](/uploads/warner.jpg){:.float-right}
 
