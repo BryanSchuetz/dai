@@ -26,6 +26,6 @@ Code Partners Marketing Director Mei Miles helped spearhead the collaboration af
 
 “We think there’s an untapped well of knowledge in getting underrepresented kids into coding,” says Miles. “Who better to help solve issues of inequality in tech?”
 
-Ten-year old Ruby, a student in the course, said she learned in the first session how to be a better communicator—evidence of the wide range of skills children can develop through technology education. 
+Ten-year-old Ruby, a student in the course, said she learned in the first session how to be a better communicator—evidence of the wide range of skills children can develop through technology education. 
 
 While the program is full for the July session, the city may offer an August course pending additional interest. 
