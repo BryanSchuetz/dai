@@ -1,7 +1,6 @@
 ---
 title: Code Partners Launches Summer Course with City of Takoma Park, Maryland
 date: 2019-07-01 18:51:00 Z
-published: false
 ---
 
 Summer is when many kids enroll in educational camps and programs, especially to learn in-demand skills such as computer coding. But the cost of these experiences makes them out of reach for many families.
