@@ -19,7 +19,7 @@ Lockett was appointed Managing Director of HTSPE in 2007, in which position he w
 
 "Christopher is a proven leader and manager," said DAI President and CEO [James Boomgard][2], who announced the appointment at staff meetings in the United Kingdom. "At a time when clients all over the world are calling on DAI to drive impact, innovation, and value for money, Christopher's combination of international development and management consulting experience positions him well to craft the creative, competitive solutions that will really make a difference in our marketplace."
 
-DAI [joined forces][3] with Hemel Hempstead-based HTSPE on December 31, 2013, adding to its portfolio more than 100 short- and long-term projects for clients such as the U.K. Department for International Development, EuropeAid, and the World Bank, in technical areas including climate change, land tenure, governance, education, and monitoring & evaluation.
+DAI [joined forces][3] with Hemel Hempstead-based HTSPE on December 31, 2013, adding to its portfolio more than 100 short- and long-term projects for clients such as the U.K. Department for International Development, the European Union, and the World Bank, in technical areas including climate change, land tenure, governance, education, and monitoring and evaluation.
 
 [2]: /who-we-are/leadership/james-boomgard
 [3]: /news/dai-joins-forces-international-development-consultancy-htspe-ltd
