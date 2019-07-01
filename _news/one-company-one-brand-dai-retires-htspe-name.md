@@ -21,7 +21,6 @@ DAI joined forces with Hemel Hempstead-based HTSPE on December 31, 2013, adding 
 
 "With half a year of team-building under our belts and operational integration well advanced, we have decided to adopt a single brand that reflects our underlying unity," said Lockett. "In DAI, we have allied with a company founded on the same qualities that have defined HTSPE for decades: professional excellence, responsibility, and integrity. Regardless of the name we use, these will continue to be our watchwords in the years to come."
 
-In terms of day-to-day business relationships, the transition to the single DAI brand will be seamless, with client contacts at the project and corporate level remaining unchanged. HTSPE's strong roster of consultants can continue to access opportunities with the firm though the [frameworkcontracts.com][3] website, through their personal contacts, and through DAI's [online careers page][4].
+In terms of day-to-day business relationships, the transition to the single DAI brand will be seamless, with client contacts at the project and corporate level remaining unchanged. HTSPE's strong roster of consultants can continue to access opportunities with the firm though the [frameworkcontracts.com][3] website, through their personal contacts, and through DAI's [online careers page](https://www.dai.com/careers/working-at-dai).
 
 [3]: http://frameworkcontracts.com
-[4]: /working-dai/job-opportunities
