@@ -20,7 +20,7 @@ Joachim Knoth from the EC’s Directorate-General for International Cooperation 
 
 Lastly, the EC’s Camilla Hagstroem spoke about the European Agenda on Migration, outlining the key work of the EC on migration and challenges ahead.
 
-“Our staff appreciated the event as a valuable insight into the EU’s work, which was followed by a useful exchange of ideas between speakers and staff,” said [Christopher Lockett](https://www.dai.com/who-we-are/leadership/christopher-lockett), Senior Vice President and Managing Director, DAI Europe. “Many thanks to Infopoint for hosting us!”
+“Our staff appreciated the event as a valuable insight into the EU’s work, which was followed by a useful exchange of ideas between speakers and staff,” said Christopher Lockett, Senior Vice President and Managing Director, DAI Europe. “Many thanks to Infopoint for hosting us!”
 
 DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the EC. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S. and U.K. operations.
 
