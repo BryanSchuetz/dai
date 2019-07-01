@@ -1,6 +1,9 @@
 ---
 title: Code Partners Launches Summer Course with City of Takoma Park, Maryland
 date: 2019-07-01 18:51:00 Z
+summary: Preteens in Takoma Park, Maryland, now have access to a new, free course
+  to learn coding skills this summer, thanks to a partnership between Code Partners
+  and the City of Takoma Park’s Housing and Economic Development Office.
 ---
 
 Summer is when many kids enroll in educational camps and programs, especially to learn in-demand skills such as computer coding. But the cost of these experiences makes them out of reach for many families.
