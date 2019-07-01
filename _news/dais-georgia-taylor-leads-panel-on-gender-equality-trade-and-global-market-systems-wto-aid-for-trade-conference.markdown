@@ -21,6 +21,6 @@ Women play a key role in market systems in low- and middle- income economies, as
 
 Our panel, session 76, asks, “How can we protect the economic rights of women globally and overcome these gendered socioeconomic barriers?” 
 
-DAI has a corporate commitment to systematically challenge and transform damaging power relations and gendered practices that perpetuate discrimination, violence, and drive poverty and instability. For example, DAI and the European Commission’s [DEVCO](https://ec.europa.eu/europeaid/general_en)’s C4 unit have co-created an Innovation Lab focused on gender mainstreaming and WEEJ and DAI is currently implementing [50 projects globally](https://www.dai.com/our-work/solutions/economic-growth-solutions/gender) with a WEEJ component. 
+DAI has a corporate commitment to systematically challenge and transform damaging power relations and gendered practices that perpetuate discrimination, violence, and drive poverty and instability. For example, DAI and the European Commission’s [DEVCO](https://ec.europa.eu/europeaid/general_en) C4 unit have co-created an Innovation Lab focused on gender mainstreaming and WEEJ and DAI is currently implementing [50 projects globally](https://www.dai.com/our-work/solutions/economic-growth-solutions/gender) with a WEEJ component. 
 
 The event is led by DAI’s WISE Development, specialists who support international agencies, governments, and nongovernmental organisations to drive gender equality and sustainable change in the lives of women and girls globally.
