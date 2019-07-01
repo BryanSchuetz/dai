@@ -10,7 +10,7 @@ Preteens in Takoma Park, Maryland, now have access to a new, free course to lear
 
 The STEM pilot program, running June 22 to July 20, offers a four-session coding camp, where young participants learn to use [Scratch ](https://scratch.mit.edu/)to create projects like arcade games and motorized robots. The curriculum is based on Carnegie Learning’s [Zulama](https://www.carnegielearning.com/products/software-platform/computer-science-learning-software/), which uses project-based learning to make computer science accessible to everyone.  
 
-![coding partners takoma.jpg](/uploads/coding%20partners%20takoma.jpg)
+![takoma park.jpg](/uploads/takoma%20park.jpg)
 
 Code Partners is a coding academy based in Montgomery County, Maryland, [co-founded by DAI](https://www.dai.com/news/dai-hosts-launch-of-new-coding-school-in-montgomery-county) and United Solutions in 2018. The academy aims to develop the technical skills of the local workforce—especially for those historically underrepresented in tech—and make Maryland a center of innovation.
  
