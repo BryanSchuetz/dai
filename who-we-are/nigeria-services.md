@@ -15,27 +15,38 @@ layout: node
 
 # Our Services
 
-DAI in Nigeria supports a growing portfolio of projects and clients in the country and the region. We tailor our services to meet the need of each project and client, and we are always open to new **opportunities to work together. Please contact [Paola Lang](mailto:paola_lang@dai.com)**.
+DAI in Nigeria supports a growing portfolio of projects and clients in the country and the region. We tailor our services to meet the need of each project and client, and we are always open to new **opportunities to work together. Please contact [Paola Lang](mailto:daiservices@dai.com)**.
 
-### Human Resource Management
+### Programme Management
 
-We provide comprehensive services to ensure consistent and compliant standards for human resource management in Nigeria. Our services include:
+Our programme management experts help organisations deliver quality results. We work closely with the client and partners to manage risk throughout the project cycle, while we communicate, engage, and manage stakeholders.
 
-* Human resource policy development or customization
-* Staff benefits management
-* Staff onboarding
-* Payroll management
-* Local labour and legal guidance
-* Programme recruitment
-* Support for visa/work permit processing
+### Policy and Strategy Development
 
-### Contract Support and Management
+Our team utilizes multi-disciplinary capabilities to generate ideas, anticipate the future, and design strategies to overcome sectoral, market, or operational challenges. We conduct research, analyze data, and generate evidence to support decision-making.
 
-We provide management support for programmes, establishing standards and processes to ensure the consistent delivery of high-quality, compliant contracts and consultancy services. Our services include:
+### Institutional Strengthening
 
-* Service contract management and oversight  
-* Institutional and organizational assessments
-* Grant management systems design and oversight
-* Audit and financial compliance reviews
+Our experts work with public and private entities on organisational development and change management. Our inputs range from capacity assessments to systems strength- ening to human resource management.
+
+### Capacity Building
+
+We enable employees to learn, develop skills, competencies, and behaviours that make them more productive and build high-performing teams. Alongside employers, we organise workshops, lectures, training programs, and internships.
+
+### Knowledge Management and Strategic Communication
+
+Our specialists help organisations to create tangible value from their knowledge, through lesson learning, innovation, and communities of practice. 
+
+### Human Resources
+
+We offer expertise in process audits, competency mapping, and job analysis. We help organisations to operationalize performance manage- ment frameworks to assure delivery of organizational goals.
+
+### Monitoring and Evaluation
+
+Our experts design and identify metrics to properly track and measure organiza- tional or program performance. In creating effective M&E systems, we help organisations to generate evidence for decision-making, as well as new approachs and strategies.
+
+### Startup Services
+
+DAI offers bespoke expertise that enables clients to launch project operations quickly and compliantly—allowing them to focus on delivering results and development impact.
 
 {% include help-desk.html %}

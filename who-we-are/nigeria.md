@@ -39,7 +39,7 @@ From this integrated platform, DAI is able to recruit, retain, support, and ensu
 --- 
 
 ## Contact DAI in Nigeria
-<a href="mailto:dainigeria@dai.com">Email</a>
+<a href="mailto:daiservices@dai.com">Email</a>
 <div style="width: 45%; float: left; margin-right: 10%;">
   <p>
     <strong>Abuja Office</strong><br>
