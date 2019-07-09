@@ -13,7 +13,7 @@ country-page: true
 layout: node
 ---
 
-# Our Services
+# [Our Services](/uploads/dai-nigeria-technical-services.pdf)
 
 DAI in Nigeria supports a growing portfolio of projects and clients in the country and the region. We tailor our services to meet the need of each project and client, and we are always open to new **opportunities to work together. Please contact [Paola Lang](mailto:daiservices@dai.com)**.
 
@@ -37,7 +37,7 @@ We enable employees to learn, develop skills, competencies, and behaviours that 
 
 Our specialists help organisations to create tangible value from their knowledge, through lesson learning, innovation, and communities of practice. 
 
-### Human Resources
+### [Human Resources](/uploads/dai-nigeria-human-resources.pdf)
 
 We offer expertise in process audits, competency mapping, and job analysis. We help organisations to operationalize performance manage- ment frameworks to assure delivery of organizational goals.
 
@@ -45,7 +45,7 @@ We offer expertise in process audits, competency mapping, and job analysis. We h
 
 Our experts design and identify metrics to properly track and measure organiza- tional or program performance. In creating effective M&E systems, we help organisations to generate evidence for decision-making, as well as new approachs and strategies.
 
-### Startup Services
+### [Startup Services](/uploads/dai-nigeria-startup-services.pdf)
 
 DAI offers bespoke expertise that enables clients to launch project operations quickly and compliantly—allowing them to focus on delivering results and development impact.
 
