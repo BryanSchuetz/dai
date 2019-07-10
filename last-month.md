@@ -2,7 +2,7 @@
 title: Last Month at DAI
 position: 12
 summary: Some project highlights from last month at DAI.
-social-image: "/uploads/last-month-social-image.jpg"
+social-image: "/uploads/Lastmonth__06june.png"
 layout: default
 ---
 
