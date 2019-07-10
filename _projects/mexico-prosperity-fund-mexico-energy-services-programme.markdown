@@ -1,5 +1,5 @@
 ---
-title: Mexico—Prosperity Fund Mexico Energy Strand Programme
+title: Mexico—Prosperity Fund Mexico Energy Programme
 date: 2019-03-14 20:59:00 Z
 summary: The U.K. Foreign and Commonwealth Office aims to promote energy-driven low-carbon
   growth, reducing poverty and generating new market opportunities for symbiotic U.K.
