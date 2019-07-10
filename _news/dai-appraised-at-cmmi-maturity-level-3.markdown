@@ -1,7 +1,6 @@
 ---
 title: DAI Appraised at CMMI Maturity Level 3
 date: 2019-07-09 15:00:00 Z
-published: false
 summary: 'DAI is delighted to announce that an internal unit has been appraised at
   CMMI Maturity Level 3. Capability Maturity Model Integration (CMMI) is a capability
   improvement framework that provides organizations with the essential elements of
