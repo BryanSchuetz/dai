@@ -1532,16 +1532,19 @@ clear: right;
   }
 }
 iframe.last-month{
-  height: 2550px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 2900px;
   width: 400px;
 
   @include responsive(wide-screens){
     width: 700px;
-    height: 4400px;
+    height: 5000px;
   }
 
   @include responsive(ultra-wide-screens){
     width: 800px;
-    height: 5100px
+    height: 5705px
   }
 }
