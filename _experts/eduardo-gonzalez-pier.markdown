@@ -1,6 +1,6 @@
 ---
 title: Eduardo González-Pier
-date: 2019-07-10 11:46:00 Z
+date: 2019-07-10 07:46:00 Z
 published: false
 lastname: González-Pier
 summary: Eduardo Gonzalez-Pier is an economist with more than 20 years of experience
