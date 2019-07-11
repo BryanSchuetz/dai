@@ -35,7 +35,7 @@ Based in Washington, D.C., the INVEST project includes subcontractors CrossBound
 
 * Produce assessments.
 * Design and structure support, such as for funds and risk-mitigation instruments.
-* Provide transaction advisory services that encourage investment.
+* Provide [transaction advisory services](https://www.convergence.finance/news-and-events/news/7fbPxahzIE6Zn05ZSPQkZr/view) that encourage investment.
 
 ### Select Results
 
