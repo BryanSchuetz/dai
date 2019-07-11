@@ -21,8 +21,8 @@ Tunisia GEFF, similar to [other such facilities](https://www.dai.com/our-work/pr
 
 ### Sample Activities
 
-* Build the capacity of partner banks to develop loan products and assess applications for financing energy-efficient projects.
-* Assist small and medium businesses to identify cost-efficient energy upgrades and prepare plans for financing.
-* Implement strategic marketing to promote Tunisia GEFF to key ministries, banks, business associations, and others.
-* Promote availability of green financing solutions with suppliers of energy-efficient equipment so they can sell them to potential customers.
-* Ensure transfer of skills to financial institutions, local engineers, and businesses to sustain Tunisia’s efficient energy market.
+* Build the capacity of partner banks to develop loan products and assess applications for financing efficient energy projects.
+* Assist small and medium businesses to identify cost-efficient energy upgrades.
+* Implement strategic marketing to promote Tunisia GEFF to banks, businesses, and business associations.
+* Work with suppliers of energy-efficient equipment and maintain a mechanism to promote uptake of energy-efficient technology in Tunisia.
+* Ensure transfer of skills to financial institutions, local engineers, and businesses to sustain Tunisia’s efficient energy market. 
