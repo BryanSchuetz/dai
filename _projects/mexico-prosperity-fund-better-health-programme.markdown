@@ -1,7 +1,6 @@
 ---
 title: Mexico—Prosperity Fund Better Health Programme
 date: 2019-07-10 08:17:00 Z
-published: false
 summary: The Mexico Better Health Programme addresses the growing threat of noncommunicable
   diseases—especially obesity and diabetes—with a focus on realizing the economic
   and social benefits associated with improved health.
