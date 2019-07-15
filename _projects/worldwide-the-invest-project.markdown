@@ -25,7 +25,7 @@ INVEST is a flexible, [efficient](https://www.devex.com/news/opinion-5-hacks-for
 
 Through the large and growing INVEST partner network, USAID can access the localized expertise it needs, including support for assessments, structuring funds, and providing transaction advisory services.
 
-[INVEST](https://www.usaid.gov/INVEST) is designed to address challenges that make it harder for USAID to work alongside the investment community. It ensures rapid procurement—within four to six weeks—so USAID can act within investors’ timelines. It enables flexible, specialized project design and implementation. And, it focuses on learning and adaptation to drive innovation in [mobilizing private capital](http://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/).
+[INVEST](https://www.usaid.gov/INVEST) is designed to [address challenges](https://www.convergence.finance/news-and-events/news/7fbPxahzIE6Zn05ZSPQkZr/view) that make it harder for USAID to work alongside the investment community. It ensures rapid procurement—within four to six weeks—so USAID can act within investors’ timelines. It enables flexible, specialized project design and implementation. And, it focuses on learning and adaptation to drive innovation in [mobilizing private capital](http://dai-global-developments.com/articles/demand-for-private-capital-draws-usaid-units-to-invest-program/).
 
 Based in Washington, D.C., the INVEST project includes subcontractors CrossBoundary, Tideline, and Convergence, as well as a [growing network](https://www.devex.com/news/opinion-can-blended-finance-close-the-generational-gap-of-aid-workers-91466) of 150 partners.
 
@@ -35,7 +35,7 @@ Based in Washington, D.C., the INVEST project includes subcontractors CrossBound
 
 * Produce assessments.
 * Design and structure support, such as for funds and risk-mitigation instruments.
-* Provide [transaction advisory services](https://www.convergence.finance/news-and-events/news/7fbPxahzIE6Zn05ZSPQkZr/view) that encourage investment.
+* Provide transaction advisory services that encourage investment.
 
 ### Select Results
 
