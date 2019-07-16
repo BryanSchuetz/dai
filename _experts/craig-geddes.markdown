@@ -2,6 +2,12 @@
 title: Craig Geddes
 date: 2019-07-16 14:33:00 Z
 published: false
+lastname: Geddes
+job-title: 'Senior Global Specialist, Inclusive Education '
+image: "/uploads/Geddes.jpg"
+solutions:
+- Governance
+- Education
 ---
 
 Craig Geddes is the Senior Global Specialist for Education at DAI. Craig brings over 16 years’ experience working in both domestic and international markets focusing on government relations initiatives and development programs in education, protection, youth, gender and citizen advocacy.
