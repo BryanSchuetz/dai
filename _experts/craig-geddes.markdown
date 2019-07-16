@@ -6,7 +6,7 @@ summary: Craig Geddes brings more than 16 years of experience working in both do
   and international markets focusing on government relations initiatives and development
   programs in education, protection, youth, gender and citizen advocacy.
 job-title: 'Senior Global Specialist, Inclusive Education '
-image: "/uploads/Geddes.jpg"
+image: "/uploads/Geddes-67a04c.jpg"
 solutions:
 - Governance
 - Education
