@@ -22,4 +22,4 @@ Craig was born in Zimbabwe to Scottish parents and emigrated to the United State
 
 Currently, Craig is the Co-Chair for the Global Literacy Special Interest Group for the Comparative International Education Society Conference, a trained Court Appointed Special Advocate for Children (CASA)/Guardian Ad Litem and has been a member of the USAID READ Act Consultative Working Group and the World Bank’s Literacy Inclusion Working Group. 
 
-B.A., international relations and government, The College of William and Mary
+* B.A., international relations and government, The College of William and Mary
