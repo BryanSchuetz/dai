@@ -30,11 +30,11 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 
 ### Sample Activities
 
-* Design and support the implementation of a Private Sector Action Plan for DEVCO.
+* Design and support the implementation of a Private Sector Engagement Action Plan for DEVCO.
 
 * Mobilize and manage short-term technical expertise for in-country assignments.
 
-* Build the capacity of EU staff on investment climate, supporting micro and small enterprises, the private sector and trade, or the External Investment Plan.
+* Build the capacity of EU staff on investment climate, supporting micro and small enterprises, the private sector and trade, and the External Investment Plan.
 
 * Design a business environment reform diagnostic toolkit.
 
