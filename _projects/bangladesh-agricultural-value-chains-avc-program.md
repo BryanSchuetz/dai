@@ -28,6 +28,8 @@ Funded under the Feed the Future initiative, this project worked to strengthen 1
 
 [AVC’s work resulted in](https://www.marketlinks.org/sites/marketlinks.org/files/resources/bavc_systemic_change_cla_case_study_july_2018_3.pdf) increased access to and availability of diverse and nutritious fruits, vegetables, and pulses in local, regional, and national markets and contributed significantly to improving food security in the Southern Delta. The project helped facilitate $19.4 million in new private sector investment and [ultimately benefitted](https://www.marketlinks.org/post/final-report-bangladesh-usaid-agricultural-value-chains-avc-project) 307,419 rural households.
 
+![Groundnut 08_Md Rashedur Rahman_01720041552.jpg](/uploads/Groundnut%2008_Md%20Rashedur%20Rahman_01720041552.jpg)
+
 ### Sample Activities
 
 * Hold competitions for value chain co-investment/innovation grants as well as capacity building and training grants.
