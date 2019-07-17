@@ -33,9 +33,9 @@ Based in Washington, D.C., INVEST is USAID’s flagship blended finance initiati
 
 ### Sample Activities
 
-* Produce assessments.
-* Design and structure support, such as for funds and risk-mitigation instruments.
-* Provide transaction advisory services that encourage investment.
+* Assess market conditions and investment opportunities.
+* Support design and structure of financial entities such as blended finance funds, investment platforms, and risk-mitigation instruments.
+* Provide transaction and investment advisory services.
 
 ### Select Results
 
