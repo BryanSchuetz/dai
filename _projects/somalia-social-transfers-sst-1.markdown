@@ -21,6 +21,8 @@ The project is a component of the wider [Inclusive Local Economic Development pr
 
 SST-1 provides a technical assistance facility to the Donor Working Group, supporting the dialogue around a social safety net system between donors and Somali institutions. It furthermore supports the government in Somalia in its efforts to set up and implement a forthcoming Social Protection Policy.
 
+![Pic-Somalia-P.Crook.jpg](/uploads/Pic-Somalia-P.Crook.jpg)
+
 ### Sample Activities
 
 * Maintain and deepen inter-donor and donor-government institutional relationships.
