@@ -1,6 +1,7 @@
 ---
 title: Adam Fivenson
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Fivenson
 summary: Adam Fivenson is a human-centered design specialist and innovation strategist
   at DAI’s Center for Digital Acceleration.
