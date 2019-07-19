@@ -1,8 +1,9 @@
 ---
 title: Somalia—Technical Assistance Facility
 date: 2019-07-17 08:16:00 Z
-summary: The Somalia Technical Assistance Facility supports the development and implementation
-  of a social assistance strategy as part of a long-term social protection system.
+summary: The Technical Assistance Facility supports the development and implementation
+  of a long-term strategy to build up a sustainable national system of social protection
+  in Somalia.
 start: 2019
 end: 2020
 client: European Commission
@@ -16,7 +17,7 @@ country: Somalia
 
 Somalia shows signs of slow recovery from 25 years of state collapse, civil war, and political unrest. The country remains highly exposed to poverty, vulnerability, and food insecurity, however. Humanitarian crises have been particularly severe in 2008, 2011, and 2017, with a major famine taking place in 2011, another narrowly averted in 2017. Following the 2017 droughts, 3 million people received direct humanitarian assistance for their survival and international donors began to review their approaches in a new perspective, aiming to transition from humanitarian aid to long-term development approaches.
 
-The Somalia Technical Assistance Facility supports the development and implementation of a social assistance strategy as part of a long-term social protection system.
+The Technical Assistance Facility supports the development and implementation of a long-term strategy to build up a sustainable national system of social protection in Somalia.
 
 The project is a component of the wider European Union Devco [Inclusive Local Economic Development programme](https://ec.europa.eu/trustfundforafrica/region/horn-africa/somalia/inclusive-local-and-economic-development-iled_en) that promotes stability in the country by “extending state authority and services, promoting local reconciliation and peacebuilding, creating inclusive economic opportunities, and protecting the most vulnerable.”
 
