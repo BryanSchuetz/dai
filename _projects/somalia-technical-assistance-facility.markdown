@@ -1,9 +1,8 @@
 ---
 title: Somalia—Technical Assistance Facility
 date: 2019-07-17 08:16:00 Z
-summary: The Somalia Social Transfers Phase 1 (SST-1) programme supports the development
-  and implementation of a strategy on social safety net or social transfer system
-  as part of a long-term social protection system.
+summary: The Somalia Technical Assistance Facility supports the development and implementation
+  of a social assistance strategy as part of a long-term social protection system.
 start: 2019
 end: 2020
 client: European Commission
@@ -17,22 +16,22 @@ country: Somalia
 
 Somalia shows signs of slow recovery from 25 years of state collapse, civil war, and political unrest. The country remains highly exposed to poverty, vulnerability, and food insecurity, however. Humanitarian crises have been particularly severe in 2008, 2011, and 2017, with a major famine taking place in 2011, another narrowly averted in 2017. Following the 2017 droughts, 3 million people received direct humanitarian assistance for their survival and international donors began to review their approaches in a new perspective, aiming to transition from humanitarian aid to long-term development approaches.
 
-The Somalia Technical Assistance Facility supports the development and implementation of a strategy on social assistance strategy safety net or social transfer system as part of a long-term social protection system.
+The Somalia Technical Assistance Facility supports the development and implementation of a social assistance strategy as part of a long-term social protection system.
 
-The project is a component of the wider [Inclusive Local Economic Development programme](https://ec.europa.eu/trustfundforafrica/region/horn-africa/somalia/inclusive-local-and-economic-development-iled_en) that promotes stability in the country by “extending state authority and services, promoting local reconciliation and peacebuilding, creating inclusive economic opportunities, and protecting the most vulnerable.”
+The project is a component of the wider European Union Devco [Inclusive Local Economic Development programme](https://ec.europa.eu/trustfundforafrica/region/horn-africa/somalia/inclusive-local-and-economic-development-iled_en) that promotes stability in the country by “extending state authority and services, promoting local reconciliation and peacebuilding, creating inclusive economic opportunities, and protecting the most vulnerable.”
 
-SST-1 provides a technical assistance facility to the Donor Working Group, supporting the dialogue around a social safety net system between donors and Somali institutions. It furthermore supports the government in Somalia in its efforts to set up and implement a forthcoming Social Protection Policy.
+The Technical Assistance Facility supports the Donor Working Group and facilitates policy dialogue between donors and Somali institutions. It furthermore supports the government of Somalia in its efforts to set up and implement its Social Protection Policy.
 
 ![Pic-Somalia-P.Crook.jpg](/uploads/Pic-Somalia-P.Crook.jpg)
 
 ### Sample Activities
 
+* Advise on institutional systems, policies, and overarching principles international aid for social assistance, promoting a transition towards a government-led social assistance approach.
 * Maintain and deepen inter-donor and donor-government institutional relationships.
-* Support the institutional systems, policies, and technical processes agreed upon.
-* Commission research, policy support, conduct consultation, communications, events, and seminars, and other work upon request of the Donor Working Group and approved by European Union.
-* Facilitate and identify policy options on further range of topics, including vulnerability, poverty, instability triggers, early warning systems, integrated programming, community perceptions, monitoring, public financial management, and governance.
-* Harness and enable contributions—namely financial and intellectual resources—from a range of stakeholders.
+* Facilitate and identify policy options on a further range of topics, including: vulnerability; poverty; early warning systems and response triggers; integrated programming; community perceptions; monitoring; public financial management; and governance.
+* Commission and advise on research and policy support.
+* Conduct consultation, communications, events, and seminars.
+* Harness and enable collaboration of financial and intellectual resources from a range of stakeholders.
 * Assess pilot projects and other donor-funded initiatives.
-* Identify fiscal space for various options of social transfer models.
-* Invest in ongoing, existing information systems to generate data.
+* Identify fiscal space for identified options of social transfer models.
 * Develop a shared learning agenda, including data requirements and knowledge gaps.
