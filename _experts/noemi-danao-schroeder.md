@@ -5,7 +5,7 @@ lastname: Danao-Schroeder
 summary: Noemi Danao-Schroeder most recently served as Chief of Party for the United
   for Justice project in Honduras, a position to which she brought over 30 years of
   international development experience.
-job-title: Development Advisor, Blended Finance
+job-title: Strategic Investment Advisor, INVEST
 image: "/uploads/Noemi%20Headshot%20May2019.jpg"
 solutions:
 - Finance and Investment
