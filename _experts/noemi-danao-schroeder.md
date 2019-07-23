@@ -6,7 +6,7 @@ summary: Noemi Danao-Schroeder most recently served as Chief of Party for the Un
   for Justice project in Honduras, a position to which she brought over 30 years of
   international development experience.
 job-title: Development Practitioner
-image: https://assetify-dai.com/experts/NoemiInner.jpg
+image: "/uploads/Noemi%20Headshot%20May2019.jpg"
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
