@@ -10,6 +10,7 @@ image: "/uploads/Noemi%20Headshot%20May2019.jpg"
 solutions:
 - Climate Change Adaptation and Mitigation
 - Environment and Energy
+- Governance
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
