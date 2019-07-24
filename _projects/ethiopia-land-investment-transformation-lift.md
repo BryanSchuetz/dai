@@ -30,7 +30,7 @@ layout: project
 
 While still one of the poorest countries in the world, Ethiopia has made major advances in reducing poverty levels and increasing agricultural production in recent years. However, the pace of progress is constrained by inefficiencies in the rural land sector, including weak documentation and management of land rights.
 
-The Land Investment for Transformation (LIFT) programme, funded by the U.K. Department for International Development (DFID), is raising incomes for rural poor and vulnerable populations in Ethiopia and enhancing economic growth through second-level land certification and improved rural land administration. The programme team works with the government of Ethiopia to improve land tenure security for farmers and boost their productivity, [especially among women](http://dai-global-developments.com/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia/).
+The Land Investment for Transformation (LIFT) programme, funded by the U.K. Department for International Development (DFID), is raising incomes for rural poor and vulnerable populations in Ethiopia and enhancing economic growth through second-level land certification and improved rural land administration. The programme team works with the government of Ethiopia to improve land tenure security for farmers and boost their productivity, [especially among women](http://dai-global-developments.com/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia).
 
 ![](https://assetify-dai.com/projects/Liftnew.jpg)
 
