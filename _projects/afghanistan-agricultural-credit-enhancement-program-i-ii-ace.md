@@ -23,7 +23,7 @@ For more than 25 years, Afghan farmers did not have access to [agricultural cred
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/130361148" webkitallowfullscreen="" width="703"></iframe>
 
-Islamic Finance and Conventional Loans are available to many Afghans who participate in farming, such as [small commercial farmers][1], agriculture-related businesses, producers of high-value crops, and processors and exporters of agricultural products. The success and future sustainability of the fund rests on three fundamental pillars: solid governance; airtight policies and procedures; and human capital. Investing in people will undoubtedly contribute to the permanence and integrity of the fund, which is why capacity development is at the [core][2] of its business strategy.
+Islamic Finance and Conventional Loans are available to many Afghans who participate in farming, such as [small commercial farmers][1], agriculture-related businesses, producers of high-value crops, and processors and exporters of agricultural products. The success and future sustainability of the fund rests on three fundamental pillars: solid governance; airtight policies and procedures; and human capital. Investing in people will undoubtedly contribute to the permanence and integrity of the fund, which is why [capacity development is at the core](https://dai-global-developments.com/articles/agricultural-credit-delivering-the-development-promise-in-afghanistan) of its business strategy.
 
 ###  Sample Activities
 
@@ -43,5 +43,4 @@ Islamic Finance and Conventional Loans are available to many Afghans who partici
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/104419931" webkitallowfullscreen="" width="703"></iframe>
 
 [1]: https://www.youtube.com/user/agricultureDF
-[2]: /news/agricultural-credit-delivering-development-promise-afghanistan
 [3]: http://www.usaid.gov/news-information/frontlines/afghanistan/sowing-seeds-empowerment-small-loans-afghan-women-growers
