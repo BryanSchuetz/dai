@@ -28,7 +28,7 @@ country:
 - Vietnam
 ---
 
-ASEAN is the Association of Southeast Asian Nations, an organization of 10 Southeast Asian countries that promotes intergovernmental cooperation and regional integration. PROSPECT is a follow-on to the successful [ASEAN PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable) project. PROSPECT will further help ASEAN define joint measures to address transnational challenges, strengthen ASEAN’s people-to-people engagement, and elevate rights and opportunities for women and other vulnerable groups. PROSPECT is based in Jakarta, near the ASEAN Secretariat.
+ASEAN is the Association of Southeast Asian Nations, an organization of 10 Southeast Asian countries that promotes intergovernmental cooperation and regional integration. PROSPECT is a follow-on to the successful [ASEAN PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable) project. PROSPECT will build on PROGRESS' work to help ASEAN define joint measures to address transnational challenges, strengthen ASEAN’s people-to-people engagement, and elevate rights and opportunities for women and other vulnerable groups. PROSPECT is based in Jakarta, near the ASEAN Secretariat.
 
 ### Sample Activities
 
