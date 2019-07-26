@@ -30,9 +30,10 @@ RADP-North worked in the provinces of Badakhshan, Baghlan, Balkh, Jawzjan, Kundu
 ![RADP-North-web-page.jpg](/uploads/RADP-North-web-page.jpg)`Two-wheel tractor reaping demonstration in Balkh district.`
 
 ### Sample Activities
-* Improve market linkages among farmers, agribusinesses, and consumers.
-* Support development of a policy/action plan for establishing a railway transit agreement with Uzbekistan.
-* Develop public and private sector systems for input and technology supply.
+* Introduce laser land-leveling, certified seed, and mechanized seeding, fertilizing, and harvesting where farmland was being used inefficiently.
+* Introduce diverse, high-value crops for increased sales, exports, and improved nutrition.
+* Assist women to establish kitchen gardens to improve household nutrition and provide income.
+* Train para-veterinarians and assist butcheries to address the underperforming livestock sector.
 
 ### Select Results
 
