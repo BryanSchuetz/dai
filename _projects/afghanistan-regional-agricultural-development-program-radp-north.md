@@ -1,7 +1,6 @@
 ---
 title: Afghanistan—Regional Agricultural Development Program (RADP–North)
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: Through partnerships with USAID, Afghan Government agencies, and myriad development
   projects focused on stability, infrastructure, and agriculture, RADP-North leverages
   investments in agricultural value chains to optimize cost-effectiveness and incorporate
