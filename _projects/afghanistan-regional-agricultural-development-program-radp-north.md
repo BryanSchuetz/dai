@@ -32,10 +32,9 @@ Through partnerships with USAID, Afghan Government agencies such as the Ministry
 * Develop public and private sector systems for input and technology supply.
 
 ### Select Results
-* Helped 2,000 high-value crop farmers to increase productivity by 35 percent or more.
-* Improved sales of target commodities by $22 million for beneficiary farmers and agribusinesses.
-* Assisted 400 agribusinesses to improve management practices and apply new technologies.
-* Helped input suppliers reach farmers through text messaging and live radio shows, leading to an average 20 percent sales increase.
-* Sponsored four agribusinesses to attend the 2017 Gulfoods exhibition, where they made connections to sell $1.2 million in raisins, pistachios, and almonds to international buyers.
-* Project activities benefitted 56,700 individuals across Northern Afghanistan and created 215 new jobs for assisted agribusinesses.
-* Assisted 579 agriculture-related businesses to improve management practices and business profitability.
+
+* $256 million in additional sales in wheat and other RADP-North targeted commodities.
+* $28 million of confirmed sales and $20 million in follow-up orders for dried fruit and nuts through beneficiaries’ attendance at trade shows.
+* $8.3 million in increased profits by partner agribusinesses.
+* $10.7 million in increased value of livestock through reduced mortality, increased reproduction, and increased sale of animal by-products.
+* Nearly 20,000 women trained in nutrition and more than 7,700 kitchen gardens supported, empowering women to improve household nutrition, disseminate nutrition principles, reduce child diarrhea, and prevent anemia.
