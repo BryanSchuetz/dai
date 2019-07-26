@@ -25,6 +25,8 @@ Despite these prospects, farmers and agribusinesses in northern Afghanistan face
 
 Through partnerships with USAID, Afghan Government agencies such as the Ministry of Agriculture, Irrigation, and Livestock (MAIL) and the Directorate of Women’s Affairs (DOWA), and myriad development projects focused on stability, infrastructure, and agriculture, RADP-North leveraged investments in agricultural value chains to optimize cost-effectiveness and incorporate lessons learned.
 
+RADP-North worked in the provinces of Badakhshan, Baghlan, Balkh, Jawzjan, Kunduz, and Samangan, home to 5 million people.
+
 ![RADP-North-web-page.jpg](/uploads/RADP-North-web-page.jpg)`Two-wheel tractor reaping demonstration in Balkh district.`
 
 ### Sample Activities
