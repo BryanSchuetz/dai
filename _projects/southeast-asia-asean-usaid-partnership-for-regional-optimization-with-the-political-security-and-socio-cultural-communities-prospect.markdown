@@ -27,9 +27,9 @@ country:
 - Vietnam
 ---
 
-ASEAN is the Association of Southeast Asian Nations, an organization of 10 Southeast Asian countries that promotes intergovernmental cooperation and regional integration. PROSPECT will build on the achievements of its predecessor—[ASEAN PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable)—to help ASEAN define joint measures to address transnational challenges, strengthen ASEAN’s people-to-people engagement, and elevate rights and opportunities for women and other vulnerable groups. PROSPECT is based in Jakarta, near the ASEAN Secretariat.
+ASEAN, or the Association of Southeast Asian Nations, is a regional intergovernmental organization comprising 10 southeast Asian countries. Since 1977, the United States has partnered with ASEAN to promote regional cooperation on pressing issues of joint interest. ASEAN-USAID PROSPECT will build on the achievements of its predecessor project, ASEAN-U.S. PROGRESS, to continue to support ASEAN to address transnational challenges, promote transparent and effective governance, and to elevate the rights and opportunities for women and other vulnerable groups. PROSPECT is based in Jakarta, near the ASEAN Secretariat.
 
-![ASEAN-project-page.jpg](/uploads/ASEAN-project-page.jpg)
+![ASEAN-Youth-Video-Contest-Participants-from-AMS.jpg](/uploads/ASEAN-Youth-Video-Contest-Participants-from-AMS.jpg)
 
 ### Sample Activities
 
