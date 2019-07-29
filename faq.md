@@ -28,7 +28,7 @@ We are skilled technical specialists and project managers, trained in the discip
 
 DAI is a company, wholly owned by its employees. Our founders created a business model that would embrace the rigors of the marketplace—competition and innovation—and plough its returns back into the organization and its people so that DAI can serve as an engine for progress in emerging and developing nations. Competition is at the heart of this vision. We compete for 99 percent of our projects. For DAI, open competition keeps us sharp and tests our claims to quality and value. For our clients, for taxpayers, and for development as a whole, competition yields lower costs, better value, superior technical innovation, and more diverse technical choices. DAI is a proud member of the Council for International Development Companies, but we also believe that the enterprise of development is best served by a diverse ecosystem of service providers including private firms large and small, local and international NGOs, multilateral organizations, academic institutions, think tanks, and so on. In 2017, DAI entered into a formal strategic affiliation with the distinguished North Carolina-based NGO, IntraHealth International.
 
-## Who Owns DAI?
+## Who owns DAI?
  
 DAI is wholly owned by its employees. All global corporate employees may invest in the firm, and more than 80 percent have done so. In 2016, at the annual conference of the Global Equity Organization (GEO), an organization dedicated to advancing understanding of employee share plans, DAI’s plan won the award for Best Use of a Share Plan in a Private Company. “DAI has raised the bar in achieving its corporate objectives and inclusively engaging its workforce as owners,” wrote GEO.
 
