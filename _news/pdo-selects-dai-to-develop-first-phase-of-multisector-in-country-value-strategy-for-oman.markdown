@@ -6,6 +6,8 @@ published: false
 ---
 
 DAI and [Petroleum Development Oman](https://www.pdo.co.om/en/Pages/Home.aspx) (PDO) are delighted to announce that PDO has awarded a contract to [DAI](https://www.dai.com/) to conduct the first phase of a study that will establish a comprehensive “in-country value” (ICV) strategy for Oman, encompassing sectors beyond the traditional ICV arena of oil and gas.
+
+[7F5A0320.JPG](/uploads/7F5A0320.JPG)`Pictured at the signing ceremony in Muscat, Oman, are Abdul Amir al Ajmi, PDO’s Director for External Affairs and Value Creation (right) and Eng. Sami Salim al Sahib, Director General of Industry in the Ministry of Commerce and Industry (left), on either side of DAI’s Jean Gilson, Senior Vice President for Global Strategy (center). Also attending (left to right): Amer al Sinani, Ministry of Oil and Gas ICV Programme Management Office, ICV Strategy Lead; Salim al Hatmi, Ministry of Commerce and Industry ICV Programme Management Office, ICV Strategy Lead; Badar al Abri, PDO ICV Manager; DAI’s Chris MacDonald, Managing Director, Oman; Zachary Kaplan, Vice President, DAI Sustainable Business Group; Steven O’Connor, DAI Communications Director; and Sulaiman al Ruqaishi, PDO ICV Strategy Lead.`
  
 Majority-owned by the Government of Oman, PDO is the leading exploration and production company in the Sultanate, delivering most of the country's oil and natural gas. But the company is committed to supporting growth and creating sustainable value well beyond the oil and gas industry.
 
