@@ -6,6 +6,10 @@ published: false
 solutions:
 - Sustainable Business
 regions: Middle East and North Africa
+summary: DAI and Petroleum Development Oman (PDO) are delighted to announce that PDO
+  has awarded a contract to DAI to conduct the first phase of a study that will establish
+  a comprehensive “in-country value” (ICV) strategy for Oman, encompassing sectors
+  beyond the traditional ICV arena of oil and gas.
 social-image: "/uploads/7F5A0320-8fb7e0.JPG"
 ---
 
