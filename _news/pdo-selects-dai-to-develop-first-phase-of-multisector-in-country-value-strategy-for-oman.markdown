@@ -1,7 +1,7 @@
 ---
 title: PDO Selects DAI to Develop First Phase of Multisector In-Country Value Strategy
   for Oman
-date: 2019-07-29 15:50:00 Z
+date: 2019-07-29 01:00:00 Z
 published: false
 is_featured: true
 solutions:
