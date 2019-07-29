@@ -6,7 +6,7 @@ summary: 'Chris MacDonald is a supply chain management and procurement and contr
   professional with 36 years of experience working for Shell International. He advises
   private-sector clients on local content development strategies for DAI’s Sustainable
   Business Group. '
-job-title: Principal Advisor, Sustainable Business Group
+job-title: Managing Director, Oman and GCC Countries
 image: "/uploads/Chris_MacDonald_Photo.jpg"
 solutions:
 - Sustainable Business
