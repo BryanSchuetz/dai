@@ -13,6 +13,7 @@ solutions:
 - Environment and Energy
 - Governance
 regions: Sub-Saharan Africa
+country: Liberia
 ---
 
 This three-year project intends to increase the value of traded timber products, strengthen forest law enforcement and governance, and share forest benefits more equitably through implementation of the Forest Law Enforcement, Governance, and Trade Voluntary Partnership Agreement (FLEGT-VPA) between Liberia and the EU. 
