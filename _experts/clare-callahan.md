@@ -1,6 +1,7 @@
 ---
 title: Clare Callahan
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Callahan
 summary: 'Clare Callahan provides project management, financial management, business
   development, and technical support to the Sustainable Business Group.
