@@ -20,4 +20,4 @@ Our land tenure and property rights work includes securing property rights, poli
 
 DAI holds an indefinite quantity contract with the U.S. Agency for International Development—[Strengthening Tenure and Resource Rights (STARR)](http://usaidlandtenure.net/)—through which DAI and specialist partners provide land tenure and property rights services to USAID and its government, private sector, and nonprofit partners around the world. DAI tenure specialists carry out cutting-edge research on the impacts of tenure interventions on economic development, equity, and social stability. We are also a leading provider of land services to the U.K. Department for International Development, with a successful portfolio of work in Africa and the Caribbean.
 
-For more about our work in this field, see the [Land Rights issue](http://dai-global-developments.com/developing-alternatives/land-rights/) of *Developing Alternatives*. 
+For more about our work in this field, see the [Land Rights issue](http://dai-global-developments.com/developing-alternatives/land-rights) of *Developing Alternatives*. 
