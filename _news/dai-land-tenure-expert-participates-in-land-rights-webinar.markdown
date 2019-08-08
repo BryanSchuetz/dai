@@ -1,5 +1,6 @@
 ---
-title: DAI Land Tenure Expert Participates in Land Rights Webinar
+title: DAI’s Mustapha Issa Emphasizes Transparency and Security in Land Rights Tech
+  Webinar
 date: 2019-08-08 08:12:00 Z
 tags:
 - land
