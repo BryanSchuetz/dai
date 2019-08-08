@@ -22,7 +22,7 @@ summary: DAI recently collaborated with [New America](https://www.newamerica.org
 social-image: "/uploads/Screen%20Shot%202019-08-08%20at%208.23.03%20AM.png"
 ---
 
-DAI recently collaborated with [New America](https://www.newamerica.org/)’s Future of Property Rights program and [Esri](https://www.esri.com/en-us/home) to provide insight into the implementation experience of the [Feed the Future Tanzania Land Tenure Assistance (LTA)](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) project, funded by the U.S. Agency for International Development (USAID).
+DAI recently collaborated with [New America](https://www.newamerica.org/)’s Future of Property Rights program and [Esri](https://www.esri.com/en-us/home) to provide insight and learning from the [Feed the Future Tanzania Land Tenure Assistance (LTA)](https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta) project, funded by the U.S. Agency for International Development (USAID).
 
 The webinar, [part of a tech and transparency series](https://landportal.org/event/2019/07/webinar-tech-and-transparency-democratizing-data-and-empowering-communities-cutting), explored how better and more prolific technologies can increase transparency and empower communities to map and register their property—a critical enabling factor for better land tenure security and administration by responsible government counterparts.
 
