@@ -1535,16 +1535,16 @@ iframe.last-month{
   display: block;
   margin-right: auto;
   margin-left: auto;
-  height: 2900px;
+  height: 3100px;
   width: 400px;
 
   @include responsive(wide-screens){
     width: 700px;
-    height: 5000px;
+    height: 5500px;
   }
 
   @include responsive(ultra-wide-screens){
     width: 800px;
-    height: 5705px
+    height: 6132px
   }
 }
