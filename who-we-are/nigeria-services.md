@@ -21,7 +21,7 @@ DAI in Nigeria supports a growing portfolio of projects and clients in the count
   <div class="nigeria-service--block">
     <div class="text">
       <h3><a href="/uploads/nigeria-technical-solutions.pdf">Technical Solutions</a></h3>
-      <p>DAI provides specialized consulting services to individuals, teams, and organisations in various sectors: international development, public sector, and private firms. We draw on the diverse expertise of more than 3,000 employees and consultants in our global network as a collaborative team to design, manage, and  deliver projects, initiatives, and technical solutions for our clients</p>
+      <p>DAI provides specialized consulting services to individuals, teams, and organisations in various sectors: international development, public sector, and private firms. We draw on the diverse expertise of more than 3,000 employees and consultants in our global network as a collaborative team to design, manage, and  deliver projects, initiatives, and technical solutions for our clients.</p>
     </div>
     <div class="image"><a href="/uploads/nigeria-technical-solutions.pdf"><img src="/uploads/nigeria-technical-thumb.png" alt=""></a></div>
   </div>
