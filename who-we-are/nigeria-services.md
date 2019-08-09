@@ -15,38 +15,30 @@ layout: node
 
 # [Our Services](/uploads/dai-nigeria-technical-services.pdf)
 
-DAI in Nigeria supports a growing portfolio of projects and clients in the country and the region. We tailor our services to meet the need of each project and client, and we are always open to new **opportunities to work together. Please contact [Paola Lang](mailto:daiservices@dai.com)**.
+DAI in Nigeria supports a growing portfolio of projects and clients in the country and the region. We tailor our services to meet the need of each project and client, and we are always open to new **opportunities to work together. Please contact [DAIservices@dai.com](mailto:daiservices@dai.com)**.
 
-### Programme Management
-
-Our programme management experts help organisations deliver quality results. We work closely with the client and partners to manage risk throughout the project cycle, while we communicate, engage, and manage stakeholders.
-
-### Policy and Strategy Development
-
-Our team utilizes multi-disciplinary capabilities to generate ideas, anticipate the future, and design strategies to overcome sectoral, market, or operational challenges. We conduct research, analyze data, and generate evidence to support decision-making.
-
-### Institutional Strengthening
-
-Our experts work with public and private entities on organisational development and change management. Our inputs range from capacity assessments to systems strength- ening to human resource management.
-
-### Capacity Building
-
-We enable employees to learn, develop skills, competencies, and behaviours that make them more productive and build high-performing teams. Alongside employers, we organise workshops, lectures, training programs, and internships.
-
-### Knowledge Management and Strategic Communication
-
-Our specialists help organisations to create tangible value from their knowledge, through lesson learning, innovation, and communities of practice. 
-
-### [Human Resources](/uploads/dai-nigeria-human-resources.pdf)
-
-We offer expertise in process audits, competency mapping, and job analysis. We help organisations to operationalize performance manage- ment frameworks to assure delivery of organizational goals.
-
-### Monitoring and Evaluation
-
-Our experts design and identify metrics to properly track and measure organiza- tional or program performance. In creating effective M&E systems, we help organisations to generate evidence for decision-making, as well as new approachs and strategies.
-
-### [Startup Services](/uploads/dai-nigeria-startup-services.pdf)
-
-DAI offers bespoke expertise that enables clients to launch project operations quickly and compliantly—allowing them to focus on delivering results and development impact.
+<div class="nigeria-service--wrap">
+  <div class="nigeria-service--block">
+    <div class="text">
+      <h3><a href="/uploads/nigeria-technical-solutions.pdf">Technical Solutions</a></h3>
+      <p>DAI provides specialized consulting services to individuals, teams, and organisations in various sectors: international development, public sector, and private firms. We draw on the diverse expertise of more than 3,000 employees and consultants in our global network as a collaborative team to design, manage, and  deliver projects, initiatives, and technical solutions for our clients</p>
+    </div>
+    <div class="image"><a href="/uploads/nigeria-technical-solutions.pdf"><img src="/uploads/nigeria-technical-thumb.png" alt=""></a></div>
+  </div>
+  <div class="nigeria-service--block">
+    <div class="text">
+      <h3><a href="/uploads/nigeria-human-resource.pdf">Human Resource Outsourcing Services</a></h3>
+      <p>DAI offers end-to-end employment and advisory services to companies on how to optimize and manage an engaged and efficient professional staff.</p>
+    </div>
+    <div class="image"><a href="/uploads/nigeria-human-resource.pdf"><img src="/uploads/nigeria-human-thumb.png" alt=""></a></div>
+  </div>
+  <div class="nigeria-service--block">
+    <div class="text">
+      <h3><a href="/uploads/nigeria-startup-services.pdf">Startup Services</a></h3>
+      <p>DAI offers bespoke expertise that enables clients to launch project operations quickly and compliantly—allowing them to focus on delivering results and development impact.</p>
+    </div>
+    <div class="image"><a href="/uploads/nigeria-startup-services.pdf"><img src="/uploads/nigeria-startup-thumb.png" alt=""></a></div>
+  </div>
+</div>
 
 {% include help-desk.html %}

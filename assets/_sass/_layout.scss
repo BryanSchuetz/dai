@@ -388,6 +388,23 @@ aside{
     float: right;
   }
 }
+.nigeria-service--wrap{
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+.nigeria-service--block{
+  @include  clearfix;
+  margin-bottom: 1rem;
+  .text{
+    width: 70%;
+    float: left;
+    margin-right: 10%;
+  }
+  .image{
+    width: 20%;
+    float: right;
+  }
+}
 // 🎌 MAIN: RAIL  🎌
 
 .section-rail{
