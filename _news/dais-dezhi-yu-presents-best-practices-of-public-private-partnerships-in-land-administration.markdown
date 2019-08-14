@@ -23,10 +23,10 @@ One of two major gatherings of the global [cadastre](https://en.wikipedia.org/wi
 Yu made the case for land administration PPPs, drawing from [DAI’s experience](https://dai-global-developments.com/land-rights) in managing large-scale land projects in developing countries:
 
 * PPPs have a long history of being used effectively for infrastructure projects and more recently are being used to provide public services.
-* Despite a few notable successes in developed economies, PPPs for land administration services have not yet been widely adopted in developing countries.
-* In development contexts, the PPP approach provides a sustainable model for completing land tenure reforms nationwide.
+* Despite a few notable successes in developed economies, developing countries have not widely adopted PPPs for land administration services.
+* In development contexts, the PPP approach provides a sustainable model for completing nationwide land tenure reforms.
  
-A taskforce within DAI has been exploring business and financial feasibility for operating land administration PPPs in developing countries, combining expertise and knowledge in land and investment management. Yu shared some key findings in building a robust financial model that would not only generate reasonable returns for private investors but also deliver high-quality services to the general public:
+A taskforce within DAI is exploring business and financial feasibility for operating land administration PPPs in developing countries, drawing upon the company’s expertise and knowledge in land and investment management. Yu shared recommendations for building a robust financial model that would not only generate reasonable returns for private investors but also deliver high-quality services to the general public:
 
 * A government’s choice of technical specifications and scope of work are key to estimating the true cost of first-time registration.
 * It is beneficial to identify where the most profitable markets exist and divide the registration process into stages. For example, revenue generated from properties in urban areas can finance subsequent registration in rural areas.
