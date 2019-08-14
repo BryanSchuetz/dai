@@ -2,9 +2,10 @@
 title: Sani Daher
 date: 2016-01-21 22:18:00 Z
 lastname: Daher
-summary: Sani Daher rejoined DAI in 2005 after serving as CEO of the Palestine Trade
-  Center from September 2004 until October 2005.
-job-title: Vice President, Global, LAC, and Europe Region
+summary: 'Sani Daher has more than 20 years of experience in trade competitiveness,
+  regulated industries, executive management consulting for associations and businesses,
+  and medical device design, manufacturing, and marketing. '
+job-title: Chief Operating Officer, USG Business Unit
 image: https://assetify-dai.com/experts/Daher_Inner.jpg
 regions:
 - Eastern Europe and Central Asia
