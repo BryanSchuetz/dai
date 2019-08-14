@@ -14,9 +14,9 @@ summary: 'In August 2019, DAI Strategy Analyst Dezhi Yu attended the [Annual Mee
 social-image: "/uploads/dezhi.jpg"
 ---
 
-DAI Strategy Analyst Dezhi Yu recently attended the [Annual Meeting](https://www.com7figseoul.com/) of International Federation of Surveyors (FIG) Commission 7, to present his modeling experience in land administration public-private partnerships (PPPs). 
+DAI Strategy Analyst Dezhi Yu recently attended the [Annual Meeting](https://www.com7figseoul.com/) of International Federation of Surveyors (FIG) Commission 7, where he presented his modeling experience in land administration public-private partnerships (PPPs). 
 
-As one of two major gatherings of the global cadastre and land management community, the 2019 Annual Meeting took place in Seoul, South Korea, attracting around 100 delegates from government land ministries, cadastre and mapping agencies, multilateral organizations, and private sector companies. 
+One of two major gatherings of the global [cadastre](https://en.wikipedia.org/wiki/Cadastre) and land management community, the 2019 Annual Meeting took place in Seoul, South Korea. The event attracted around 100 delegates from government land ministries, cadastre and mapping agencies, multilateral organizations, and private sector companies. 
 
 ![BG1A0771.JPG](/uploads/BG1A0771.JPG)`The annual meeting drew more than 100 attendees.`
 
