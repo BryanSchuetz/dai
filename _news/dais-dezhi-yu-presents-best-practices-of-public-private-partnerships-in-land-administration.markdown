@@ -15,15 +15,15 @@ summary: 'In August 2019, DAI Strategy Analyst Dezhi Yu attended the [Annual Mee
 social-image: "/uploads/dezhi.jpg"
 ---
 
-In August 2019, DAI Strategy Analyst Dezhi Yu attended the [Annual Meeting](https://www.com7figseoul.com/) of International Federation of Surveyors (FIG) Commission 7, to present his modeling experience in land administration public-private partnerships (PPPs). 
+DAI Strategy Analyst Dezhi Yu recently attended the [Annual Meeting](https://www.com7figseoul.com/) of International Federation of Surveyors (FIG) Commission 7, to present his modeling experience in land administration public-private partnerships (PPPs). 
 
-As one of two major gatherings of the global cadastre and land management community, the 2019 Annual Meeting took place in Seoul, South Korea, attracting around 100 delegates from government land ministries, cadastre and mapping agencies, multilateral organizations and private sector companies. 
+As one of two major gatherings of the global cadastre and land management community, the 2019 Annual Meeting took place in Seoul, South Korea, attracting around 100 delegates from government land ministries, cadastre and mapping agencies, multilateral organizations, and private sector companies. 
 
-![BG1A0771.JPG](/uploads/BG1A0771.JPG)`The Annual Meeting drew more than 100 attendees.`
+![BG1A0771.JPG](/uploads/BG1A0771.JPG)`The annual meeting drew more than 100 attendees.`
 
 Yu made the case for land administration PPPs, drawing from [DAI’s experience](https://dai-global-developments.com/land-rights) in managing large-scale land projects in developing countries:
 
-* PPPs have a long history of being used effectively for infrastructure projects and more recently are being used in the context of public services.
+* PPPs have a long history of being used effectively for infrastructure projects and more recently are being used to provide public services.
 * Despite a few notable successes in developed economies, PPPs for land administration services have not yet been widely adopted in developing countries.
 * In development contexts, the PPP approach provides a sustainable model for completing land tenure reforms nationwide.
  
