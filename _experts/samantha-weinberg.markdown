@@ -2,6 +2,17 @@
 title: Samantha Weinberg
 date: 2019-08-15 18:21:00 Z
 published: false
+lastname: Weinberg
+summary: Samantha Weinberg is an international development professional with a background
+  in corporate social responsibility, business and human rights, and corruption. She
+  is currently a Lead Analyst for the Sustainable Business Group supporting the group’s
+  software products, Corporate Social Investment portfolio, and Industrial Baseline
+  Studies.
+job-title: Lead Analyst
+image: "/uploads/Samantha%20Weinberg%20(002).png"
+solutions:
+- Sustainable Business
+- 
 ---
 
 Samantha Weinberg is an international development professional with a background in corporate social responsibility, business and human rights, and corruption. She is currently a Lead Analyst for the Sustainable Business Group supporting the group’s software products, Corporate Social Investment portfolio, and Industrial Baseline Studies.
