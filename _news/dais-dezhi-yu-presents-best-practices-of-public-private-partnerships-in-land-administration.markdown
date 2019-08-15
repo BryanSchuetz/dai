@@ -28,7 +28,7 @@ Yu made the case for land administration PPPs, drawing from [DAI’s experience]
  
 A taskforce within DAI is exploring business and financial feasibility for operating land administration PPPs in developing countries, drawing upon the company’s expertise and knowledge in land and investment management. Yu shared recommendations for building a robust financial model that would not only generate reasonable returns for private investors but also deliver high-quality services to the general public:
 
-* Governments must be involved partners in defining the technical specifications and scope of work to accurately estimate the true cost of first-time registration.
+* When pricing the cost of first-time registration, governments must account for the spectrum of technical specifications—the higher the technological requirements, the higher the cost borne by users.
 * It is beneficial to identify where the most profitable markets exist and divide the registration process into stages. For example, revenue generated from properties in urban areas can finance subsequent registration in rural areas.
 * In countries where property markets are less developed, the private sector will need extra incentives (such as tax revenue sharing) to compensate upfront costs and risks. This could still be a win-win situation for the public and private sectors:
 1. A robust land administration system has various beneficiaries and far-reaching impact, especially for the public sector. Effective coordination and communication among government ministries is crucial.
