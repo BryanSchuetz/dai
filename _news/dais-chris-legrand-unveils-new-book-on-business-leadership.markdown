@@ -26,4 +26,4 @@ LeGrand has more than 30 years of business experience, mostly in and around the 
 
 “The framework Chris lays out offers a vital roadmap for social enterprises of the future in helping us all achieve the sustainable development goals,” said Ambassador Mark Dybul, former executive director of The Global Fund to Fight AIDS, TB, and Malaria.
 
-Among various launch events planned for the book, LeGrand will host a September 5 celebration at The University Club in Washington, D.C. For more on the Complete Business Leader concept and the inspiration behind it, read this [Q&A with Chris LeGrand](dai-global-developments.com/articles/q-and-a-dai-global-healths-chris-legrand-on-the-launch-of-his-new-book). 
+Among various launch events planned for the book, LeGrand will host a September 5 celebration at The University Club in Washington, D.C. For more on the Complete Business Leader concept and the inspiration behind it, read this [Q&A with Chris LeGrand](https://dai-global-developments.com/articles/q-and-a-dai-global-healths-chris-legrand-on-the-launch-of-his-new-book). 
