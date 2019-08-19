@@ -1,7 +1,6 @@
 ---
 title: DAI’s Chris LeGrand Unveils New Book on Business Leadership
 date: 2019-08-19 15:16:00 Z
-published: false
 solutions:
 - Global Health
 ---
