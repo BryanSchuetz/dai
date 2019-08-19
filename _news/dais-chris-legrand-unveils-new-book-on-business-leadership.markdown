@@ -10,6 +10,8 @@ solutions:
 
 “Organizations of any size and focus will have bigger impact and be more successful by any measure when their leaders are well rounded and grounded, can integrate across disciplines, and can inspire diverse followers to produce results,” said LeGrand, who developed the framework in the course of his own leadership journey, which is marked by a passion for combining business acumen and positive social impact. 
 
+![Chris1.jpg](/uploads/Chris1.jpg)`LeGrand speaks at the annual awards gala for the Triangle Global Health Consortium, where he was Board Chair for four years.`
+
 LeGrand has more than 30 years of business experience, mostly in and around the healthcare, public health, and life sciences sectors in the United States and internationally. His leadership experience includes running global mission-driven businesses—he is the former CEO of Futures Group—where he focuses on the convergence of positive social impact and sustainable business results. 
 
 “The Complete Business Leader is a must-read for those who are striving throughout their careers for expanded awareness and leadership skills development that enhances personal and organizational satisfaction and success,” said Dr. Wayne Holden, CEO of RTI International.
