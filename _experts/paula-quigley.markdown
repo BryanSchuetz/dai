@@ -31,3 +31,4 @@ Dr. Paula Quigley is a medical doctor with more than 27 years of experience in p
 * Distance learning Diploma, health systems management, University of London
 * Master’s with Distinction, mother and child health, The Institute of Child Health, University of London
 * MB BCh, medicine, Trinity College, Ireland
+* Board Member, International Stillbirth Alliance
