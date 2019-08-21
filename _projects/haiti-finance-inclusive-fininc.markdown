@@ -1,10 +1,10 @@
 ---
 title: Haiti—Finance Inclusive
 date: 2017-06-26 16:18:00 Z
-summary: The Haiti Finance Inclusive (FinInc) project supports the development of
-  the enabling environment to increase the usage of basic financial services by undeserved
-  and unserved households and micro, small, and medium-sized enterprises in rural
-  and agricultural areas in Haiti.
+summary: The Haiti Finance Inclusive project supported the development of the enabling
+  environment to increase the usage of basic financial services by undeserved and
+  unserved households and micro, small, and medium enterprises in rural and agricultural
+  areas in Haiti.
 start: 2017
 end: 2019
 client: U.S. Agency for International Development
