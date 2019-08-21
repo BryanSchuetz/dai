@@ -17,9 +17,9 @@ country: Haiti
 
 Initiatives to increase financial inclusion have yet to translate into significant expansion of relevant services in Haiti. Only 19 percent of Haitian adults have an account with a financial institution, while only 9 percent of adults save and 5 percent borrow from a financial institution. These figures are among the lowest not only in the Latin American and Caribbean region, but globally.
 
-The Haiti Finance Inclusive project tackles enabling environment and market coordination issues to increase financial inclusion in a way that creates lasting benefits for low-income people across Haiti. By accessing basic, more formal financial services, low-income people are able to accumulate assets, withstand financial shocks, invest in businesses, and more conveniently receive and send money and make payments.
+The Haiti Finance Inclusive project worked to improve the enabling environment to increase financial inclusion to create lasting benefits for low-income people across Haiti. By accessing basic, more formal financial services, low-income people are able to accumulate assets, withstand financial shocks, invest in businesses, and more conveniently receive and send money and make payments.
 
-FinInc facilitates a two-level change in the market system. First, through the behavior of market actors through better information availability and increased orientation around low-income market segments. Second, via deeper collaboration in the broader financial ecosystem and enabling environment.
+The project facilitated a two-level change in the market system. First, through the behavior of market actors through better information availability and increased orientation around low-income market segments. Second, via deeper collaboration in the broader financial ecosystem and enabling environment.
 
 <iframe src="https://player.vimeo.com/video/355104018" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
