@@ -39,7 +39,7 @@ Funded under the Feed the Future initiative, this project worked to strengthen 1
 
 ### Select Results
 
-* Forged partnerships with 25 private sector companies and cooperatives to ensure sustainable supply of inputs and transfer of appropriate technologies and management practices to farmers and market linkage of farmers produce.
+* Forged partnerships with 42 private sector companies and cooperatives to ensure sustainable supply of inputs and transfer of appropriate technologies and management practices to farmers and market linkage of farmers produce.
 * Created 111,662 [full-time equivalent jobs](https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options).
 * Reached 305,408 farmers and others with new technologies or management practices. 
 * Introduced high-yielding and disease-resistant variety of nutritious mung bean, leading to a 4 percent yield increase per hectare, reduction of post-harvest loss by 6 percent, and increase in average net income per farmer by $64, or 78 percent per hectare.
