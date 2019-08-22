@@ -49,17 +49,19 @@ Consortium partners include RSI Consulting (M&E) and the Thunderbird School of G
 
 ### Select Results
 
+* Registered 76,700 women for WIE services. 
+
 * Placed more than 9,600 interns and apprentices in 2,100 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
 
-* Placed more than 13,000 women into new or better jobs.
+* Assisted more than 13,000 women into new or better jobs; 34 percent of women who receive WIE assistance find employment.
 
 * Placed nearly 300 young women into microfinance and commercial banking [trainee programs](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) within six financial institutions in urban regional centers.
 
-* Trained more than 13,200 young women nationally through the 20-hour Job Readiness Training (JRT) course.
+* Trained more than 13,200 young women nationally through WIE's 20-hour Job Readiness Training (JRT) course.
 
 * Awarded scholarships to more than 5,000 women to train in information technology, healthcare, retail sales, customer service, and other areas.
 
-* Facilitated access to finance and new markets to nearly 400 women-owned or women-managed businesses and businesses employing at least 30 percent women.
+* Facilitated access to finance and new markets to more than 400 women-owned or women-managed businesses and businesses employing at least 30 percent women.
 
 * Provided business incubation support for more than 50 women-led startups.
 
