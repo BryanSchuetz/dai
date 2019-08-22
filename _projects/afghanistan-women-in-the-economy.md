@@ -63,6 +63,8 @@ Consortium partners include RSI Consulting (M&E) and the Thunderbird School of G
 
 * Facilitated access to finance and new markets to more than 400 women-owned or women-managed businesses and businesses employing at least 30 percent women.
 
+* 22 percent of WIE-assisted businesses moved from small enterprise to medium-sized (more than 50 employees); for businesses completing two years of WIE assistance, the top half have achieved an average 179-percent revenue growth and the bottom half 35 percent.
+
 * Provided business incubation support for more than 50 women-led startups.
 
 * Facilitated 157 small business loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000.
