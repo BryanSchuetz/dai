@@ -65,10 +65,10 @@ Consortium partners include RSI Consulting (M&E) and the Thunderbird School of G
 
 * 22 percent of WIE-assisted businesses moved from small enterprise to medium-sized (more than 50 employees); for businesses completing two years of WIE assistance, the top half have achieved an average 179-percent revenue growth and the bottom half 35 percent.
 
-* Provided business incubation support for more than 50 women-led startups.
+* Graduated 54 women-led startups—which have since created 200-plus new jobs—from business incubation support; another 60 women-led start-ups were in incubation as of July 2019.
 
 * Facilitated 157 small business loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000.
 
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue in support of women's inclusion.
 
-* Delivered gender sensitivity training to more than 5,000 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
+* Delivered gender sensitivity training to more than 5,800 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
