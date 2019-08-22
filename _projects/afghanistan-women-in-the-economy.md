@@ -67,6 +67,10 @@ Consortium partners include RSI Consulting (M&E) and the Thunderbird School of G
 
 * Graduated 54 women-led startups—which have since created 200-plus new jobs—from business incubation support; another 60 women-led start-ups were in incubation as of July 2019.
 
+* Nearly all 109 businesses assisted through WIE’s MBA Corps activity have reported increased sales, streamlined operations, and expansion.
+
+* All 54 companies assisted by WIE’s Finance Corps report improved financial management, decision making, and operational savings.
+
 * Facilitated 157 small business loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000.
 
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue in support of women's inclusion.
