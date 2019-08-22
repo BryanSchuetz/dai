@@ -31,7 +31,7 @@ WIE is based in five economic zones and works across 30 Afghan provinces. WIE [a
 
 WIE supports women ages 18 and above to find new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. These activities take place in partnership with training providers to deliver services and fund scholarships for training and certification programs. The program gives Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
 
-Consortium partners include Rumi Consultancy, RSI Consulting (M&E), and the Thunderbird School of Global Management at Arizona State University.
+Consortium partners include RSI Consulting (M&E) and the Thunderbird School of Global Management at Arizona State University.
 
 ![WIE-project-page.jpg](/uploads/WIE-project-page.jpg)
 
@@ -49,13 +49,13 @@ Consortium partners include Rumi Consultancy, RSI Consulting (M&E), and the Thun
 
 ### Select Results
 
-* Placed more than 8,000 interns and apprentices in 1,600 companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
+* Placed more than 9,600 interns and apprentices in 2,100 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
 
-* Placed more than 9,000 women into new or better jobs.
+* Placed more than 13,000 women into new or better jobs.
 
 * Placed nearly 300 young women into microfinance and commercial banking [trainee programs](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) within six financial institutions in urban regional centers.
 
-* Trained more than 16,000 young women in basic job readiness skills.
+* Trained more than 13,200 young women nationally through the 20-hour Job Readiness Training (JRT) course.
 
 * Awarded scholarships to more than 5,000 women to train in information technology, healthcare, retail sales, customer service, and other areas.
 
