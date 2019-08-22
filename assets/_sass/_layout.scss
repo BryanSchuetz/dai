@@ -1565,3 +1565,8 @@ iframe.last-month{
     height: 6132px
   }
 }
+.aside-quote{
+  @include clearfix;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
