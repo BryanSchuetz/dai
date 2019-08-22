@@ -4,9 +4,11 @@ permalink: "/who-we-are/employee-owners"
 related: false
 layout: node
 hero: true
-summary: "To achieve our [mission](https://www.dai.com/who-we-are/mission-and-values), we must succeed as a business. That means delivering outstanding results for our customers and
-providing a great place to work for employees, which in turn means we need a globally integrated workforce actively
-engaged as stakeholders around a common purpose."
+summary: To achieve our [mission](https://www.dai.com/who-we-are/mission-and-values),
+  we must succeed as a business. That means delivering outstanding results for our
+  customers and providing a great place to work for employees, which in turn means
+  we need a globally integrated workforce actively engaged as stakeholders around
+  a common purpose.
 ---
 
 # Global Employee Owners
