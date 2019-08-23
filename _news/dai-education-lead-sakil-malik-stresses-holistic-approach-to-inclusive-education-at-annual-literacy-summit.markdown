@@ -16,9 +16,7 @@ DAI’s Senior Global Practice Leader for Education, [Sakil Malik](https://www.d
 
 The three-day summit, organized by the Reading Association of Uganda and the Education Ministry, brought together researchers, policy makers, sociologists, multilateral partners, curriculum specialists, and literacy educators to share evidence-based findings, practices, and policies that address the role of literacy in bridging the equity gap. 
 
-At least 500 delegates from more than 40 countries, mainly from Africa, attended. The summit was opened by Minister of State for Primary Education Rosemary Seninde and Minister for Education and Sports Janet Museveni. An evening discussion with Uganda’s President Yoweri Museveni (pictured below) was a conference highlight. 
-
-![Image30.jpg](/uploads/Image30.jpg)
+At least 500 delegates from more than 40 countries, mainly from Africa, attended. The summit was opened by Minister of State for Primary Education Rosemary Seninde and Minister for Education and Sports Janet Museveni. An evening discussion with Uganda’s President Yoweri Museveni was a conference highlight. 
 
 In his speech, Malik acknowledged that while there is broad support for the idea of inclusive education, we’re still far from achieving these goals in most countries and communities around the globe. He recommended that in its efforts to improve inclusivity in the education sector, the global development community focus on:
 
