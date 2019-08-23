@@ -2,10 +2,10 @@
 title: DAI Education Lead Sakil Malik Stresses Holistic Approach to Inclusive Education
   at Annual Literacy Summit
 date: 2019-08-23 14:17:00 Z
-published: false
 solutions:
 - Governance
 - Education
+regions: Sub-Saharan Africa
 summary: 'DAI’s Senior Global Practice Leader for Education, Sakil Malik, was a keynote
   speaker at the recent 11th Pan-African Literacy for All summit in Kampala, Uganda,
   where he emphasized the importance of inclusive education. '
