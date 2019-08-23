@@ -18,6 +18,8 @@ DAI today announced the appointment of [Zan Northrip](https://www.dai.com/who-we
 
 “I’m excited to be taking on this far-reaching challenge,” said Northrip, who will be based in DAI’s office in Brussels, Belgium. “Global development increasingly demands solutions that transcend national boundaries, technical disciplines, and organizational silos. This new role embraces that reality.”
 
+![Zan Northrip](https://www.dai.com/assets/images/leaders/zan-northrip.jpg)`Zan Northrip`
+
 “Needless to say, our three customer-facing teams in the donor partners group will remain focused intently on their American, British, and European clients,” he added. “But we believe there is tremendous value for those clients in a complementary, unified view that simplifies and harmonizes processes where possible, while raising standards to the highest common denominator.”
 
 Effective September 1, Northrip will oversee the HMG Business Unit, which supports the bilateral development investments of the U.K. Government, principally through the Department for International Development and the Foreign and Commonwealth Office; the USG Business Unit, which works primarily for the U.S. Agency for International Development (USAID); and the EC Business Unit, which focuses on the European Commission, European Bank for Reconstruction and Development, and European bilateral donors.
