@@ -31,7 +31,7 @@ WIE is based in five economic zones and works across 30 Afghan provinces. WIE [a
 
 WIE supports women ages 18 and above to find new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. These activities take place in partnership with training providers to deliver services and fund scholarships for training and certification programs. The program gives Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
 
-Consortium partners include Rumi Consultancy, RSI Consulting (M&E), and the Thunderbird School of Global Management at Arizona State University.
+Consortium partners include RSI Consulting (M&E) and the Thunderbird School of Global Management at Arizona State University.
 
 ![WIE-project-page.jpg](/uploads/WIE-project-page.jpg)
 
@@ -49,22 +49,30 @@ Consortium partners include Rumi Consultancy, RSI Consulting (M&E), and the Thun
 
 ### Select Results
 
-* Placed more than 8,000 interns and apprentices in 1,600 companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
+* Registered 76,700 women for WIE services. 
 
-* Placed more than 9,000 women into new or better jobs.
+* Placed more than 9,600 interns and apprentices in 2,100 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
+
+* Assisted more than 13,000 women into new or better jobs; 34 percent of women who receive WIE assistance find employment.
 
 * Placed nearly 300 young women into microfinance and commercial banking [trainee programs](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) within six financial institutions in urban regional centers.
 
-* Trained more than 16,000 young women in basic job readiness skills.
+* Trained more than 13,200 young women nationally through WIE's 20-hour Job Readiness Training (JRT) course.
 
 * Awarded scholarships to more than 5,000 women to train in information technology, healthcare, retail sales, customer service, and other areas.
 
-* Facilitated access to finance and new markets to nearly 400 women-owned or women-managed businesses and businesses employing at least 30 percent women.
+* Facilitated access to finance and new markets to more than 400 women-owned or women-managed businesses and businesses employing at least 30 percent women.
 
-* Provided business incubation support for more than 50 women-led startups.
+* 22 percent of WIE-assisted businesses moved from small enterprise to medium-sized (more than 50 employees); for businesses completing two years of WIE assistance, the top half have achieved an average 179-percent revenue growth and the bottom half 35 percent.
+
+* Graduated 54 women-led startups—which have since created 200-plus new jobs—from business incubation support; another 60 women-led start-ups were in incubation as of July 2019.
+
+* Nearly all 109 businesses assisted through WIE’s MBA Corps activity have reported increased sales, streamlined operations, and expansion.
+
+* All 54 companies assisted by WIE’s Finance Corps report improved financial management, decision making, and operational savings.
 
 * Facilitated 157 small business loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000.
 
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue in support of women's inclusion.
 
-* Delivered gender sensitivity training to more than 5,000 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
+* Delivered gender sensitivity training to more than 5,800 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
