@@ -18,6 +18,8 @@ The three-day summit, organized by the Reading Association of Uganda and the Edu
 
 At least 500 delegates from more than 40 countries, mainly from Africa, attended. The summit was opened by Minister of State for Primary Education Rosemary Seninde and Minister for Education and Sports Janet Museveni. An evening discussion with Uganda’s President Yoweri Museveni was a conference highlight. 
 
+![1-a2efb9.jpg](/uploads/1-a2efb9.jpg)
+
 In his speech, Malik acknowledged that while there is broad support for the idea of inclusive education, we’re still far from achieving these goals in most countries and communities around the globe. He recommended that in its efforts to improve inclusivity in the education sector, the global development community focus on:
 
 * Health and psychosocial interventions that identify students who need additional support; 
@@ -28,5 +30,3 @@ In his speech, Malik acknowledged that while there is broad support for the idea
 “We need to understand and lean into the idea that all of these recommendations are interrelated and have an impact on each other,” Malik said. “Implementers and policy makers need to continue to contribute to this conversation as we move the discussion forward.”
 
 Conference discussions revolved around sub-themes including literacy teaching and coaching across the curriculum, early childhood teaching and learning, gender and sustainable literacy equity, and literacy curricula for equitable student achievement.
-
-![1-a2efb9.jpg](/uploads/1-a2efb9.jpg)
