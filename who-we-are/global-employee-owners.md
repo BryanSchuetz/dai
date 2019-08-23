@@ -31,8 +31,8 @@ In 2017, DAI’s model was recognized with the National Center for Employee Owne
       class="highlighter-rouge">Joy White</code>
   </div>
   <blockquote>“Broad-based ownership makes us a better company and better exponents of the global development
-    mission.”—Joy White,
-    Director, Global Employee Ownership</blockquote>
+    mission.”—<a href="https://www.dai.com/who-we-are/our-team/joy-white">Joy White,
+    Director, Global Employee Ownership</a></blockquote>
 </aside>
 
 
