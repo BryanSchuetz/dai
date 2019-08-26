@@ -1,7 +1,6 @@
 ---
 title: DAI Names Zan Northrip to Lead Donor-Focused Business Group
 date: 2019-08-23 13:44:00 Z
-published: false
 is_featured: true
 summary: DAI today announced the appointment of [Zan Northrip](https://www.dai.com/who-we-are/leadership/zan-northrip)
   to lead three business units that focus on serving international development donors.
