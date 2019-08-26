@@ -1,6 +1,7 @@
 ---
 title: John Costenbader
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Costenbader
 summary: Twenty years ago, John Costenbader graduated from a small New England college
   and felt a need to see how the rest of the world lived. Joining the Peace Corps,
