@@ -24,6 +24,13 @@ Digital Frontiers helps USAID have greater impact across its development portfol
 
 ### Sample Activities
 
-* Support the Center for Digital Development in identifying gaps and challenges in the global digital development ecosystem.
-* Establish strategic partnerships with private, public, and nongovernmental organizations that complement the Center for Digital Development’s activities.
-* Utilize rapid learning, iteration, and adaptation strategies to keep pace with changes in digital access, products, and platforms.
+* Assess a USAID Mission or Bureau’s current programs and make recommendations for how they can better leverage digital tools or approaches to improve development impact.
+* Design and implement digital programs, including anything from providing strategic support on a Country Development Cooperation Strategy to implementing a smallholder farmer targeted mobile money project. 
+* Promote best practices in the digital development field and help build the capacity of USAID staff to leverage digital approaches for development.
+
+### Select Results
+
+* Conducted digital agriculture assessments in Burkina Faso and Niger and developed recommendations for how USAID can take advantage of digital tools and services to increase the reach and impact of their food security and resilience activities.
+* Implemented the Feed the Future [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/), supporting the development of digital tools to combat the spread of the fall armyworm agricultural pest in sub-Saharan Africa. Digital Frontiers received 283 applications of which 88 percent were from African applicants and awarded $450,000 to six winners working with smallholder farmers in Ghana, Kenya, Malawi, Nigeria, Tanzania, and Uganda.
+* Assisted in development of USAID’s “[How To: Create Digital ID for Inclusive Development](https://www.usaid.gov/digital-development/digital-id/how-to-guide)” guide.
+* Provided strategic support to USAID in Cambodia in creating a real-time data for adaptive management platform to improve the use of data to make evidence-based, timely, and inclusive programmatic decisions.
