@@ -20,7 +20,7 @@ Digital Frontiers is a $74.4 million buy-in mechanism available to bureaus and m
 
 Digital Frontiers helps USAID have greater impact across its development portfolio by advancing digital tools and approaches in the areas of digital finance, digital inclusion, ICT for development, geospatial, and digital knowledge and insights. 
 
-![DF_image.jpg](/uploads/DF_image.jpg)
+![CABI photo 2.JPG](/uploads/CABI%20photo%202.JPG)
 
 ### Sample Activities
 
