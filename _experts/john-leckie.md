@@ -5,7 +5,7 @@ lastname: Leckie
 summary: John Leckie has 19 years of international project experience in the land,
   natural resources, and environment sectors in Europe, Africa, Central and Southeast
   Asia, and South America.
-job-title: Knowledge Management, Land
+job-title: 'Global Practice Lead, Land Tenure and Property Rights '
 image: https://assetify-dai.com/experts/jLeckie-INNER.jpg
 solutions:
 - Environment and Energy
@@ -18,7 +18,7 @@ regions:
 layout: expert
 ---
 
-John Leckie is a land rights and natural resource governance professional with 19 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. He has worked for a diverse range of clients, including the U.K. Department for International Development (DFID), the Millennium Challenge Corporation, the U.S. Agency for International Development, the European Commission (EC), the Pan American Health Organization, the Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food and Rural Affairs, and various nonprofits.
+John Leckie is a land rights and natural resource governance professional with more than 19 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. He has worked for a diverse range of clients, including the U.K. Department for International Development (DFID), the Millennium Challenge Corporation, the U.S. Agency for International Development, the European Commission (EC), the Pan American Health Organization, the Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food and Rural Affairs, and various nonprofits.
  
 His training in land use planning and extensive experience in land registration projects give John a sound understanding of land governance issues. John has expertise in land tenure regularisation, land administration, geographic information systems (GIS), and participatory tenure and resource mapping, including the use of “crowd-sourcing” techniques.
  
