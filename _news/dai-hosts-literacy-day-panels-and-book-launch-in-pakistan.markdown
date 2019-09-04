@@ -1,7 +1,6 @@
 ---
 title: DAI Hosts Literacy Day Panels and Book Launch in Pakistan
 date: 2019-09-04 13:31:00 Z
-published: false
 solutions:
 - Education
 - Governance
@@ -27,6 +26,7 @@ The education event convenes education experts, practitioners, policy makers, re
 After the education event, Brigit Helms will discuss how her recent book traces two pathways out of poverty: access to services and access to jobs. “Access for All explores how countries can leverage market forces to ensure a more inclusive economy, leaving no one behind,” says Helms. 
 
 Helms has 30 years of experience pioneering innovative approaches to financial inclusion and market-based solutions to poverty. She has worked in the public and private sectors, including with McKinsey & Company and the World Bank Group, and holds a Ph.D. in development and agricultural economics from Stanford University.
-In a panel discussion focused on the inclusiveness of the Pakistani economy, Helms will be joined by Robina Ather, National Tariff Commission; Ali Sarfraz Hussain, Karandaaz Pakistan; Syed Mohsin Ahmad, Pakistan Microfinance Network; and Roshaneh Zafar, Kashf Foundation. 
+
+In a panel discussion focused on the inclusiveness of the Pakistani economy, Helms will be joined by [Robina Ather](https://ntc.gov.pk/), National Tariff Commission; [Ali Sarfraz Hussain](https://www.linkedin.com/in/ali-sarfraz-hussain-a77b5/), Karandaaz Pakistan; [Syed Mohsin Ahmad](https://blogs.worldbank.org/team/syed-mohsin-ahmed), Pakistan Microfinance Network; and [Roshaneh Zafar](https://en.wikipedia.org/wiki/Roshaneh_Zafar), Kashf Foundation. 
 
 ![Helms in Nigeria.jpg](/uploads/Helms%20in%20Nigeria.jpg)`Helms presents in DAI's Nigeria's office.`
