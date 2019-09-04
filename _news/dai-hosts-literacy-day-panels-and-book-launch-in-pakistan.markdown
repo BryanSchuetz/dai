@@ -29,4 +29,4 @@ Helms has 30 years of experience pioneering innovative approaches to financial i
 
 In a panel discussion focused on the inclusiveness of the Pakistani economy, Helms will be joined by [Robina Ather](https://ntc.gov.pk/), National Tariff Commission; [Ali Sarfraz Hussain](https://www.linkedin.com/in/ali-sarfraz-hussain-a77b5/), Karandaaz Pakistan; [Syed Mohsin Ahmad](https://blogs.worldbank.org/team/syed-mohsin-ahmed), Pakistan Microfinance Network; and [Roshaneh Zafar](https://en.wikipedia.org/wiki/Roshaneh_Zafar), Kashf Foundation. 
 
-![Helms in Nigeria.jpg](/uploads/Helms%20in%20Nigeria.jpg)`Helms presents in DAI's Nigeria's office.`
+![Helms in Nigeria.jpg](/uploads/Helms%20in%20Nigeria.jpg)`Helms presents in DAI's Nigeria office.`
