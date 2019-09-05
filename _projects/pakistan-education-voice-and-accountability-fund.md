@@ -1,8 +1,9 @@
 ---
 title: Pakistan—Education Voice and Accountability Fund (Ilm Ideas)
 date: 2016-01-21 22:40:00 Z
-summary: We are supporting organizations and individuals who are working to demand
-  accountability and promote innovation in Pakistan's education sector.
+summary: 'Ilm Ideas in Pakistan contributed to increased enrollment rates and retention,
+  improved learning outcomes, enhanced parent and student satisfaction, and better
+  education governance.  '
 start: 2012
 end: 2015
 client: U.K. Department for International Development
