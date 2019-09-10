@@ -2,7 +2,7 @@
 title: DAI Names Tine Knott to Lead U.S. Government Business Unit
 date: 2019-09-09 12:52:00 Z
 published: false
-featured: yes
+featured: true
 clients: U.S. Agency for International Development
 summary: DAI today announced the appointment of [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott)
   to lead its U.S. Government Business Unit. As Senior Vice President, Knott will
