@@ -8,6 +8,7 @@ summary: DAI today announced the appointment of [Tine Knott](https://www.dai.com
   oversee DAI’s largest business unit, which is responsible for designing, marketing,
   and delivering DAI’s development solutions for the U.S. Agency for International
   Development (USAID), the State Department, and other U.S. agencies.
+social-image: "/uploads/TineKnott%20New.jpg"
 ---
 
 DAI today announced the appointment of [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott) to lead its U.S. Government Business Unit. As Senior Vice President, Knott will oversee DAI’s largest business unit, which is responsible for designing, marketing, and delivering DAI’s development solutions for the U.S. Agency for International Development (USAID), the State Department, and other U.S. agencies.
