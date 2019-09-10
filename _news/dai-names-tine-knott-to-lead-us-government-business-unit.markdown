@@ -2,11 +2,24 @@
 title: DAI Names Tine Knott to Lead U.S. Government Business Unit
 date: 2019-09-12 12:52:00 Z
 published: false
+clients: U.S. Agency for International Development
+summary: DAI today announced the appointment of [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott)
+  to lead its U.S. Government Business Unit. As Senior Vice President, Knott will
+  oversee DAI’s largest business unit, which is responsible for designing, marketing,
+  and delivering DAI’s development solutions for the U.S. Agency for International
+  Development (USAID), the State Department, and other U.S. agencies.
 ---
 
 DAI today announced the appointment of [Tine Knott](https://www.dai.com/who-we-are/our-team/tine-knott) to lead its U.S. Government Business Unit. As Senior Vice President, Knott will oversee DAI’s largest business unit, which is responsible for designing, marketing, and delivering DAI’s development solutions for the U.S. Agency for International Development (USAID), the State Department, and other U.S. agencies.
 
-> “Our clients have challenged us to do more to help emerging countries along the path to self-reliance,” **said Knott**. “I am personally committed to following through on this vision by providing the technically advanced, well implemented, locally driven programming that makes a meaningful difference in the communities where we work.”
+<!--more-->
+
+<hr>
+<br>
+<img src="/uploads/TineKnott%20New.jpg" alt="Tine Knott" class="float-left">
+<blockquote style="margin-bottom: 3rem; border-left: 0px;">“Our clients have challenged us to do more to help emerging countries along the path to self-reliance,” said Knott. “I am personally committed to following through on this vision by providing the technically advanced, well implemented, locally driven programming that makes a meaningful difference in the communities where we work.”
+<br>
+<hr>
 
 Knott previously served as Vice President of DAI’s [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states), which she launched in 2017 with a mission to raise the bar for development and security programming in fragile environments.
 
