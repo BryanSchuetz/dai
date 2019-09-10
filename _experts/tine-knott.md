@@ -2,7 +2,9 @@
 title: Tine Knott
 date: 2016-01-21 22:18:00 Z
 lastname: Knott
-summary: 'Tine oversees the development, marketing, and delivery of DAI’s development solutions for the U.S. Agency for International Development (USAID), the State Department, and other U.S. Government clients.'
+summary: Tine oversees the development, marketing, and delivery of DAI’s development
+  solutions for the U.S. Agency for International Development (USAID), the State Department,
+  and other U.S. Government clients.
 job-title: Senior Vice President, U.S. Government Business Unit
 image: "/uploads/Tine-close.jpg"
 solutions:
