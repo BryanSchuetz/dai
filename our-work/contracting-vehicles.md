@@ -24,7 +24,7 @@ layout: node
 
 ### Stability
 
-* Support Which Implements Fast Transitions IV (SWIFT IV) (2013-2019)
+* Support Which Implements Fast Transitions V (SWIFT V) (2019-2024)
 * Promoting Gender Equality in National Priority Programs ([Promote](http://www.usaid.gov/afghanistan/promote)) (2014–2019)
 * Resilient Cities Asia Activity (RCA) (2017-2024)
 * Famine Early Warning Systems Network (FEWS NET 7) (2019–2024)
