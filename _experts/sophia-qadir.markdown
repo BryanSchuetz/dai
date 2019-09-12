@@ -18,6 +18,8 @@ Prior to working at DAI, Sophia worked at General Electric, where she managed la
 
 Sophia has lived in four countries and speaks English, French, Spanish, Greek, and Arabic. She is interested in the interface between human and computer languages and has experience with HTML, CSS, SQL, and Python.
 
-B.A., international relations, Boston University; B.A., linguistics, Boston University
-M.A., French language and civilization, New York University
-M.A., international development, Sciences Po Paris
+* B.A., international relations, Boston University; B.A., linguistics, Boston University
+
+* M.A., French language and civilization, New York University
+
+* M.A., international development, Sciences Po Paris
