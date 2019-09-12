@@ -29,6 +29,8 @@ The delegation and study tour are being assisted by the U.S. Agency for Internat
 * Daniel Runde, Senior Vice President at the Center for Strategic and International Studies and chair of its Project on Prosperity and Development; and
 * Mitch Mokhtari, MESR Senior Economic Advisor and professor at the University of Maryland’s School of Public Policy.
 
+![DAI-News-1.jpg](/uploads/DAI-News-1.jpg)
+
 The roundtable also featured discussion led by Dr. Rasha Abdel-Hakim of USAID/Egypt and remarks by DAI President and CEO [James Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). “These are critical issues and they are fundamentally important to sustainable development,” said Boomgard. “DAI is proud to advance the work being done in this important area.”
 
 “Governance and public financial management are the nuts and bolts of development,” said Jessica Zaman, Director of Middle East Affairs at the USAID Bureau for the Middle East. “These building blocks must be in place for sustainable development to take place.” 
