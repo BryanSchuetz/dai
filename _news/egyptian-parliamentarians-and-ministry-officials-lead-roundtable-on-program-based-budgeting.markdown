@@ -17,15 +17,16 @@ summary: |-
 social-image: "/uploads/67a154b2-15b1-4506-9665-8575c40946aa%202.jpg"
 ---
 
-On September 10, DAI hosted a 16-person delegation from the Parliament of Egypt and Egypt’s Ministry of Finance and Ministry of Planning, Monitoring, and Administrative Reform for a roundtable on program-based budgeting.
-The roundtable was part of a study tour by the group, which is leading fiscal reforms in Egypt that will benefit greatly by applying program-based budgeting, a tool for focusing the government’s attention on achieving results, especially in areas such as healthcare, education, and infrastructure.
+DAI recently hosted a 16-person delegation from the Parliament of Egypt and Egypt’s Ministry of Finance and Ministry of Planning, Monitoring, and Administrative Reform for a roundtable on program-based budgeting.
+The roundtable was part of a study tour by the group, which is leading fiscal reforms in Egypt that will benefit greatly by applying program-based budgeting, a tool for achieving results, especially in areas such as healthcare, education, and infrastructure.
 
-“We achieved great success the past two years, but the most important thing is to build on it,” said Prof. Dr. Hussein Mohamed Ahmed Eissa, MP, the Head of Parliament’s Planning and Budgeting Committee.
-The delegation and study tour are being assisted by the U.S. Agency for International Development (USAID) [Egypt Macro-Economic Stabilization and Reform Activity (MESR)](https://www.dai.com/our-work/projects/egypt-macro-economic-stabilization-and-reform-mesr). In addition to Dr. Eissa’s presentation, the roundtable, held at DAI’s offices in Bethesda, Maryland, featured presentations and Q&As led by:
+“We achieved great success the past two years, but the most important thing is to build on it,” said Prof. Dr. Hussein Mohamed Ahmed Eissa, the Member of Parliament who heads the Planning and Budgeting Committee.
+
+The delegation and study tour are being assisted by the U.S. Agency for International Development (USAID) [Egypt Macro-Economic Stabilization and Reform Activity (MESR)](https://www.dai.com/our-work/projects/egypt-macro-economic-stabilization-and-reform-mesr). In addition to Dr. Eissa’s presentation, the roundtable, held at DAI’s offices in Bethesda, Maryland, featured presentations and a question-and-answer session led by:
 
 * Steven Rozner, USAID Senior Fiscal Advisor; 
 * Keith Hall, former director of the U.S. Congressional Budget Office (U.S. CBO);
-* Daniel Runde, Senior Vice President at the Center for Strategic and International Studies and chair of its Project on Prosperity and Development; and
+* Dan Runde, Senior Vice President at the Center for Strategic and International Studies and chair of its Project on Prosperity and Development; and
 * Mitch Mokhtari, MESR Senior Economic Advisor and professor at the University of Maryland’s School of Public Policy.
 
 ![DAI-News-1.jpg](/uploads/DAI-News-1.jpg)`Mervat Asaad, left, a Member of the Planning and Budget Committee in the Egyptian House of Parliament, discussing revenue resources at the roundtable hosted by DAI.` 
