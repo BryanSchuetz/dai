@@ -2,6 +2,14 @@
 title: Sophia Qadir
 date: 2019-09-12 14:38:00 Z
 published: false
+lastname: Qadir
+summary: 'Sophia Qadir is an international development professional with interests
+  spanning private sector development, sustainability, and digital transformation. '
+job-title: Analyst, Sustainable Business Group
+solutions:
+- Sustainable Business
+regions:
+- Worldwide
 ---
 
 Sophia Qadir is an international development professional with interests spanning private sector development, sustainability, and digital transformation. She is currently an Analyst in DAI’s Sustainable Business Group, where she provides project management, business development, and technical support for corporate social investment projects and local content strategies.
