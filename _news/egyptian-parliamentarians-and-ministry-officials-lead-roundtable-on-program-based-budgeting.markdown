@@ -37,6 +37,8 @@ The roundtable also featured discussion led by Dr. Rasha Abdel-Hakim of USAID/Eg
 
 The roundtable generated robust input from the parliamentarians and ministry officials. The most discussed topics included USAID’s evolving approach to reforms in public financial management, domestic resource mobilization, and the journey to self-reliance in partner countries; the U.S. CBO’s workings and how it guards against political bias and special interests; and generating the political will and cooperation of elites needed to achieve equitable tax and fiscal reforms.
 
+![DAI-News-2.jpg](/uploads/DAI-News-2.jpg)`Daniel Runde of the Center for Strategic and International Studies leads a discussion at DAI with Egyptian parliamentarians and ministry officials.` 
+
 “When the elites feel it, that’s when countries make change,” Runde said. “Ultimately, [equitable fiscal reform] is about political will. People will pay taxes if there is a social contract, while not paying taxes is a silent form of political protest.” To encourage reform and tax compliance, Runde said, governments need to link the broadening of the tax base to improved schools, better water and power services, infrastructure provision, and public safety.
 
 “As MPs we are on the ground and we know the problems of the people, and I believe we are in a transition period in Egypt,” said Sylvia Louis, a member of Parliament’s Sub-Committee for Monitoring the Implementation of Program-Based Budgeting to Support the Sustainable Development Strategy: Egypt Vision 2030. “The political will is there. Everything is new and moving; that’s why we need examples to look at.”
