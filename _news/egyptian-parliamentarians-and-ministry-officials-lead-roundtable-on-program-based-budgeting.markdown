@@ -11,9 +11,9 @@ solutions:
 regions: Middle East and North Africa
 projects: Egypt—Macro-Economic Stabilization and Reform (MESR)
 clients: U.S. Agency for International Development
-summary: |-
-  On September 10, DAI hosted a 16-person delegation from the Parliament of Egypt and Egypt’s Ministry of Finance and Ministry of Planning, Monitoring, and Administrative Reform for a roundtable on program-based budgeting.
-  The roundtable was part of a study tour by the group, which is leading fiscal reforms in Egypt.
+summary: DAI hosted a 16-person delegation from the Parliament of Egypt and Egypt’s
+  Ministry of Finance and Ministry of Planning, Monitoring, and Administrative Reform
+  for a roundtable on program-based budgeting.
 social-image: "/uploads/67a154b2-15b1-4506-9665-8575c40946aa%202.jpg"
 ---
 
@@ -37,10 +37,10 @@ The roundtable also featured discussion led by Dr. Rasha Abdel-Hakim of USAID Eg
 
 The roundtable generated robust input from the parliamentarians and ministry officials. The most discussed topics included USAID’s evolving approach to reforms in public financial management, [domestic resource mobilization](https://www.usaid.gov/what-we-do/economic-growth-and-trade/domestic-resource-mobilization), and the journey to self-reliance in partner countries; the U.S. CBO’s workings and how it guards against political bias and special interests; and generating the political will and cooperation of elites needed to achieve equitable tax and fiscal reforms.
 
-![DAI-News-2.jpg](/uploads/DAI-News-2.jpg)`Daniel Runde of the Center for Strategic and International Studies facilitates a discussion with Egyptian parliamentarians and ministry officials.` 
+![DAI-News-2.jpg](/uploads/DAI-News-2.jpg)`Dan Runde  facilitates a discussion with Egyptian parliamentarians and ministry officials.` 
 
 “When the elites feel it, that’s when countries make change,” Runde said. “Ultimately, [equitable fiscal reform] is about political will. People will pay taxes if there is a social contract, while not paying taxes is a silent form of political protest.” To encourage reform and tax compliance, Runde said, governments need to link the broadening of the tax base to improved schools, better water and power services, infrastructure provision, and public safety.
 
-“As MPs we are on the ground and we know the problems of the people, and I believe we are in a transition period in Egypt,” said Sylvia Louis, a member of Parliament’s Sub-Committee for Monitoring the Implementation of Program-Based Budgeting to Support the Sustainable Development Strategy: Egypt Vision 2030. “The political will is there. Everything is new and moving; that’s why we need examples to look at.”
+“As MPs we are on the ground and we know the problems of the people, and I believe we are in a transition period in Egypt,” said Sylvia Louis, a member of Parliament’s Sub-Committee for Monitoring the Implementation of Program-Based Budgeting to Support the Sustainable Development Strategy: [Egypt Vision 2030](http://sdsegypt2030.com/?lang=en). “The political will is there. Everything is new and moving; that’s why we need examples to look at.”
 
-The delegation’s study tour began September 9 with discussions at the International Monetary Fund and will include meetings at the World Bank, International Budget Partnership, Fiscal Policy Institute, U.S. CBO, and Office of Management and Budget, plus trips to the Maryland and Pennsylvania statehouses. Its objectives include enhancing interaction between Parliament and key Government of Egypt ministries throughout the budget process; identifying the steps needed to develop a program-based budget that emphasizes key performance indicators, outputs, and outcomes; recognizing the challenges and lessons learned in implementing a program-based budget; identifying avenues for citizen engagement and transparency; learning about fiscal risk in the budget process; and enhancing the capacity of the Parliament of Egypt to evaluate and analyze proposed budgets.
+The delegation’s study tour began September 9 with discussions at the International Monetary Fund and includes meetings at the World Bank, International Budget Partnership, Fiscal Policy Institute, U.S. CBO, and Office of Management and Budget, plus trips to the Maryland and Pennsylvania statehouses. Its objectives include enhancing interaction between Parliament and key Government of Egypt ministries throughout the budget process; identifying the steps needed to develop a program-based budget that emphasizes key performance indicators, outputs, and outcomes; recognizing the challenges and lessons learned in implementing a program-based budget; identifying avenues for citizen engagement and transparency; learning about fiscal risk in the budget process; and enhancing the capacity of the Parliament of Egypt to evaluate and analyze proposed budgets.
