@@ -31,11 +31,11 @@ The delegation and study tour are being assisted by the U.S. Agency for Internat
 
 ![DAI-News-1.jpg](/uploads/DAI-News-1.jpg)`Mervat Asaad, left, a Member of the Planning and Budget Committee in the Egyptian House of Parliament, discussing revenue resources at the roundtable hosted by DAI.` 
 
-The roundtable also featured discussion led by Dr. Rasha Abdel-Hakim of USAID/Egypt and remarks by DAI President and CEO [James Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). “These are critical issues and they are fundamentally important to sustainable development,” said Boomgard. “DAI is proud to advance the work being done in this important area.”
+The roundtable also featured discussion led by Dr. Rasha Abdel-Hakim of USAID Egypt and remarks by DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). “These are critical issues and they are fundamentally important to sustainable development,” said Boomgard. “DAI is proud to advance the work being done in this important area.”
 
 > “Governance and public financial management are the nuts and bolts of development,” said Jessica Zaman, Director of Middle East Affairs at the USAID Bureau for the Middle East. “These building blocks must be in place for sustainable development to take place.” 
 
-The roundtable generated robust input from the parliamentarians and ministry officials. The most discussed topics included USAID’s evolving approach to reforms in public financial management, domestic resource mobilization, and the journey to self-reliance in partner countries; the U.S. CBO’s workings and how it guards against political bias and special interests; and generating the political will and cooperation of elites needed to achieve equitable tax and fiscal reforms.
+The roundtable generated robust input from the parliamentarians and ministry officials. The most discussed topics included USAID’s evolving approach to reforms in public financial management, [domestic resource mobilization](https://www.usaid.gov/what-we-do/economic-growth-and-trade/domestic-resource-mobilization), and the journey to self-reliance in partner countries; the U.S. CBO’s workings and how it guards against political bias and special interests; and generating the political will and cooperation of elites needed to achieve equitable tax and fiscal reforms.
 
 ![DAI-News-2.jpg](/uploads/DAI-News-2.jpg)`Daniel Runde of the Center for Strategic and International Studies facilitates a discussion with Egyptian parliamentarians and ministry officials.` 
 
