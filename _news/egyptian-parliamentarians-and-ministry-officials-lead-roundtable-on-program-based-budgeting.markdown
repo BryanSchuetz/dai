@@ -2,7 +2,6 @@
 title: Egyptian Parliamentarians and Ministry Officials Lead Roundtable on Program-Based
   Budgeting
 date: 2019-09-12 13:38:00 Z
-published: false
 tags:
 - governance
 solutions:
