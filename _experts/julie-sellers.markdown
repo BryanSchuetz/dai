@@ -9,6 +9,7 @@ image: "/uploads/Julie%20Sellers%20Portal.jpg"
 solutions:
 - Workforce Development and Youth
 - Education
+- Economic Growth
 regions:
 - Worldwide
 ---
