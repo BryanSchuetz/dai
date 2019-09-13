@@ -8,4 +8,5 @@
 {% for expert in site.experts %}- name: "{{ expert.title }}"
   image: "{%- if expert.image contains "uploads" -%}https://www.dai.com{{ expert.image }}{%- else -%}{{ expert.image }}{%- endif -%}"
   title: "{{ expert.job-title}}"
+  link: "https://www.dai.com{{expert.url}}"
 {% endfor %}
