@@ -9,7 +9,6 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 solutions:
-- Economic Growth
 - Digital Acceleration
 - Innovation and Entrepreneurship
 - Technology Research and Development

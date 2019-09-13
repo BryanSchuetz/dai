@@ -9,7 +9,6 @@ job-title: Global Health and Development Practitioner
 image: "/uploads/Rob-47f9d6.jpg"
 solutions:
 - Global Health
-- Economic Growth
 - Global Health Security and Pandemic Preparedness
 - Health and Livelihoods
 - Health Governance

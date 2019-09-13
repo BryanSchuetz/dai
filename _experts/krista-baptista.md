@@ -8,7 +8,6 @@ summary: From her early research in cultural anthropology to subsequent work in 
 job-title: Senior Director, Center for Digital Acceleration
 image: https://assetify-dai.com/experts/BaptistaInner1.jpg
 solutions:
-- Economic Growth
 - Digital Acceleration
 - Digital Strategy
 - Insights for Emerging Markets
