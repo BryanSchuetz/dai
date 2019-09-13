@@ -16,7 +16,7 @@ regions:
 - Middle East and North Africa
 ---
 
-Elodie Brandamir has more than 15 years of experience managing public health programs in challenging environments. Elodie brings in-depth knowledge of the implementation of complex multi-donor consortia programs involving a range of northern and southern, private, nongovernmental, and government stakeholders and in working in fragile and conflict-affected states. A trained economist, Elodie is conversant in the value for money approach and bring strong capabilities in strategic planning, budgeting, and operations.
+Elodie Brandamir has 15 years of experience managing public health programs in challenging environments. Elodie has extensive experience implementing complex, multidonor consortia programs involving a range of northern and southern, private, nongovernmental, and government stakeholders, and in working in fragile and conflict-affected states. A economist by training, she is well versed in value-for-money principles and in strategic planning, budgeting, and operations.
 
 Over the last 10 years Elodie managed several multi-country projects, such as U.K. Department for International Development (DFID)-funded Medicines Transparency Alliance (seven countries across all continents), DFID-funded Mining Foundation multi-county research project, and the Gates Foundation-funded North African HIV/AIDS regional program in Algeria, Morocco, Tunisia, and Lebanon. Most recently Elodie provided management, technical support, and monitoring of the [South Sudan Health Pooled Fund](https://www.dai.com/our-work/projects/south-sudan-health-pooled-fund) and [Nigeria Malaria Action Program for States (MAPS)](https://www.dai.com/our-work/projects/nigeria-malaria-action-program-for-states-maps).
 
