@@ -6,5 +6,5 @@
 {% endcapture %}
 
 {% for expert in site.experts %}- name: "{{ expert.title }}"
-  image: "{{ expert.image }}"
+  image: "{%- if expert.image contains "uploads" -%}https://www.dai.com{{ expert.image }}{%- else -%}{{ expert.image }}{%- endif -%}"
 {% endfor %}
