@@ -52,6 +52,6 @@ Musharikat supports USAID Afghanistan's investments in women's rights groups and
 
 * Awarded and successfully completed 31 advocacy grants to Afghan CSOs—many of which operate in remote and marginalized communities—to raise awareness about women’s rights and advocate for change at the sub-national level.
 
-* Delivered advocacy and women’s rights training for more than 4,900 people.
+* Delivered advocacy and women’s rights training for more than 5,900 people.
 
 * Conducted sessions on raising awareness on coalition issues with more than 9,300 individuals, including youth, community leaders, religious leaders, students and teachers, government officials, and civil society activists.
