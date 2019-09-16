@@ -34,7 +34,7 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 
 **Global Health:**
 
-* Strengthened management systems and structures of 20 training institutions.
+* Strengthened management systems and structures of 25 training institutions.
 * Helped 14 schools receive full accreditation and 11 to achieve provisional accreditation. 
 * Constructed 35 houses to accommodate midwives. 
 * Trained 1,074 midwives who are now working in rural areas, a 62 percent increase compared to the start of the program in 2012. 
