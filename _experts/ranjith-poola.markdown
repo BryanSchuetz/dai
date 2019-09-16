@@ -21,5 +21,5 @@ Ranjith specializes in data analysis and statistical modelling and has a backgro
 
 Before joining DAI, Ranjith worked with Equifax Analytics as a business analyst with the advanced analytics team. At Equifax—a global data, analytics, and technology company—he worked on portfolios such as retail banking, credit cards, and loans. Ranjith has also worked with global healthcare company Novartis as a data analyst. 
 
-* M.Sc., Applied statistics, Osmania University.
-* B.Sc., Mathematics, Statistics and Computers, Osmania University. 
+* M.Sc., applied statistics, Osmania University
+* B.Sc., mathematics, statistics, and computers, Osmania University
