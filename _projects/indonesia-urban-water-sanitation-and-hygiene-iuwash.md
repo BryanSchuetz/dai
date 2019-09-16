@@ -23,7 +23,7 @@ layout: project
 
 Better management of urban growth will be crucial to guarantee sustainable cities. It is not uncommon for citizens in and around Indonesia’s major cities for residents to spend up to two hours a day transporting expensive water to their homes for drinking and cooking. In addition, a lack of sewage and wastewater infrastructure in many densely populated, low-income areas leads to tainted ground and surface water, creating serious health risks from waterborne diseases.
 
-USAID’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan untuk Semua, or Environmental Health for All, (IUWASH PLUS) project and its predecessor, IUWASH, have brought reliable water supply to more than 3 million people and safely managed sanitation services to more 230,000 city dwellers. The IUWASH PLUS team works with civil society groups and local governments to mobilize demand for improved drinking water and sanitation services, as well as to build the capacity of private businesses, utilities, and national-level programs to provide these services in a fair and sustainable fashion.![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
+USAID’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUWASH PLUS) project and its predecessor, IUWASH, have brought reliable water supply to more than 3 million people and safely managed sanitation services to more 230,000 city dwellers. The IUWASH PLUS team works with civil society groups and local governments to mobilize demand for improved drinking water and sanitation services, as well as to build the capacity of private businesses, utilities, and national-level programs to provide these services in a fair and sustainable fashion.![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
 
 ### Sample Activities
 
@@ -37,7 +37,7 @@ USAID’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan 
 
 * Support citizen engagement in the WASH sector through radio programming, civic forums, text message gateways, complaint hotlines, and social media, as well as designing a crowdsourcing platform to collect and display citizen feedback.
 
-### Select Results
+### Select Results (IUWASH and IUWASH PLUS)
 
 * Brought [reliable water supply](https://medium.com/usaid-global-waters/making-sanitation-services-affordable-in-indonesia-s-cities-5a2621014c1f#.s3v3zp1xo) to more than 3 million people and safely managed sanitation services to more 230,000 city dwellers.
 
