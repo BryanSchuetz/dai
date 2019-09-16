@@ -6,7 +6,7 @@ summary: Christy Martins has 15 years of international development experience, f
   on community development in transition, post-conflict, and post-disaster situations
   in Asia, Latin America and the Caribbean, and Africa.
 job-title: Project Team Director, Center for Secure and Stable States
-image: "/uploads/Martins%20copy.png"
+image: "/uploads/Christy%20Martins%20profile%20picture.jpg"
 solutions:
 - Include Primary and/or Secondary Solutions
 - Countering Extremism
