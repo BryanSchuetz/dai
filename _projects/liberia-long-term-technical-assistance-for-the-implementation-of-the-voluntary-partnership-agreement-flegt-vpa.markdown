@@ -28,7 +28,7 @@ The forest sector plays a key role in Liberia’s sustainable socioeconomic deve
 
 * Support use and development of the Forward Planner, which details the actions required to raise capacity and achieve compliance with the 11 principles in the VPA.
 
-### Select Results
+### Select Results (since 2013)
 
 * Supported Liberia’s Forestry Development Authority in coordination and cooperation between support projects, stakeholders, and funders, notably DFID and the EU. 
 
