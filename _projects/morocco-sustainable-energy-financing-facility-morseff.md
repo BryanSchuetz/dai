@@ -40,3 +40,4 @@ The credit line for Morocco is currently €20million for Banque Marocaine du Co
 * Supported two financial institutions to on-lend €106 million to 260 energy efficiency projects.
 * Trained 278 credit officers in the financial institutions and 50 local engineers in energy efficiency financing.
 * Raised awareness of energy efficiency in the small and midsize business sector by supporting the financial institutions in marketing through industry workshops and events.
+* Spurred development of a local production base for energy efficiency and renewable energy technologies.
