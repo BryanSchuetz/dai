@@ -46,7 +46,7 @@ Funded under the Feed the Future initiative, this project worked to strengthen 1
 
 * Created 111,662 [full-time equivalent jobs](https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options).
 
-* Reached 305,408 farmers and others with new technologies or management practices.
+* Reached 305,408 farmers and others with new technologies or management practices that increased crop yields by 131 percent.
 
 * Introduced high-yielding and disease-resistant variety of nutritious mung bean, leading to a 4 percent yield increase per hectare, reduction of post-harvest loss by 6 percent, and increase in average net income per farmer by $64, or 78 percent per hectare.
 
