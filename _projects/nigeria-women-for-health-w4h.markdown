@@ -38,14 +38,15 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 
 * Strengthened management systems and structures of 25 training institutions.
 * Helped 14 schools receive full accreditation and 11 to achieve provisional accreditation. 
-* Constructed 35 houses to accommodate midwives. 
-* Trained 1,074 midwives who are now working in rural areas, a 62 percent increase compared to the start of the program in 2012. 
-* Increased by more than 6,000 the number of students in training by supporting health training institutions to gain, regain, maintain, and increase accreditation. 
+* Constructed 35 houses to accommodate midwives to support retention in rural areas. 
+* Enabling 7,500 female students to enroll in midwifery, nursing, and community health extension worker training, with 38 percent of the 1,551 graduates to date employed and working in rural facilities, a 134-percent increase compared to the start of the program in 2012. 
+* Increased by more than 6,000 the number of students in training . 
 * Increased female friendliness of health training institutions. Watch these [videos](http://women4healthnigeria.org/index.php/videos) to learn more. 
   
 **Fragile States:**
 
 * Strengthened the capacity of State Ministry of Health and Health Training Institutions in Borno and Yobe to respond and deliver in a humanitarian setting. 
-* Trained 60 tutors on a humanitarian curriculum and 350 students using that curriculum. 
+* Trained 70 tutors on a humanitarian curriculum and 350 students using that curriculum.
+* Established a Foundation Year Programme in Borno to build the academic, personal, and social capital of young rural women so they can access professional education.
 * Supported a memorandum of understanding for recruitment of graduates. 
 * Supported trauma assessment for those affected by trauma to become midwives and nurses with the World Health Organisation.
