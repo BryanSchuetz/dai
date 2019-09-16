@@ -56,4 +56,4 @@ Funded under the Feed the Future initiative, this project worked to strengthen 1
 
 * Won a [CLA Case Competition](https://usaidlearninglab.org/library/integrating-cla-organizational-structure-partner-management-and-project-culture) from the U.S. Agency for International Development for transforming its own internal structure to reflect the more complex market system it was trying to change.
 
-* Worked closely with the [floriculture industry](https://www.youtube.com/watch?v=qVAqDjkamsM) to raise standards and [increase marketing](https://www.facebook.com/watch/?v=10154929405978955), with an eye toward [increasing exports](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh).
+* Helped establish the [cut flower sector](https://www.youtube.com/watch?v=qVAqDjkamsM) as a formalized industry in Bangladesh, [growing the market](https://www.facebook.com/watch/?v=10154929405978955) from $67 million in 2013 to $150 million in 2018, with an eye toward [increasing exports](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh).
