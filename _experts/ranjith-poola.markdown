@@ -8,6 +8,11 @@ summary: Ranjith Poola is an analyst with DAI’s Sustainable Business Group, wh
   data science to reveal relationships and discover patterns to inform business decision
   making.
 job-title: Analyst
+image: "/uploads/Ranjith_photo.jpg"
+solutions:
+- Sustainable Business
+regions:
+- Worldwide
 ---
 
 Ranjith Poola is an analyst with DAI’s Sustainable Business Group, where he provides technical and data analysis support. He has a passion for using data science to reveal relationships and discover patterns to inform business decision making.
