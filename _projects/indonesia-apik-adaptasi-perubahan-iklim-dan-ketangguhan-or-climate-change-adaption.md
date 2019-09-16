@@ -34,8 +34,12 @@ APIK integrates climate change adaptation (CCA) and disaster risk reduction (DDR
 
 ### Select Results
 
-* Trained 2,200 individuals in CCA or DDR strategies.
-* Improved the capacity of 15 national and local government institutions to assess or address climate change and natural disaster risks.
-* Supported the proposal or revision of 11 policies addressing CCA and DDR at the national or subnational level.
-* Assisted Indonesia’s National Disaster Management Agency in developing its new urban resilience scorecard system to index CCA/DRR capacity levels of local governments.
-* Redesigned [Climate Field Schools](https://www.climatelinks.org/blog/climate-field-schools-transforming-agricultural-risk-resilience) with the Meteorology, Climatology, and Geophysics Agency (BMKG). Climate Field Schools, which last for three months, expose participants to every step of the climate and weather information value chain, from the accurate measurement of rainfall to the application of different BMKG forecast products, all to improve crop yield.
+* **Improved integration of Climate Change Adaptation and Disaster Risk Reduction into national and subnational governance frameworks.** APIK has helped usher more than 100 laws, policies, regulations, or standards addressing climate change adaptation formally proposed, adopted, or implemented; more than 110 institutions improved capacity to assess or address climate change risks.
+
+* **Strengthened capacity of local communities and the private sector to address climate change weather-related natural hazards.** More than 16,000 people [trained](https://www.climatelinks.org/blog/climate-field-schools-transforming-agricultural-risk-resilience) in climate change adaptation or disaster risk reduction and water resource management, with 5,500-plus demonstrating increased capacity; more than US$3.6 million investment mobilized for climate change or disaster risk reduction as supported by APIK activities.
+
+* **Improved utilization of information for climate and disaster risk management among key stakeholders.** More than 36,100 people supported by the USG to adapt to the effects of climate change or be more resilient to natural disasters, including 13,400 women); 2,700 people using climate information or implementing risk-reducing actions to improve resilience to climate change.
+
+* **Supported increased local administrations’ allocations toward climate resilience.** Leveraging national government resources, local administrations are investing in coastal protection activities (seawalls and mangrove reforestation), flood early warning systems; improved mapping and use of drone technology, and training and disaster simulations.
+
+* **Promoted climate resilience as a national priority.** The Indonesian Government National Mid-Term Development Plan (2020-2024) allocates $2.4 billion over five years for climate resilience work in agriculture, water, coastal/marine, and health.
