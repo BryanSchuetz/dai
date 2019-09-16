@@ -8,9 +8,10 @@ summary: Christy Martins has 15 years of international development experience, f
 job-title: Project Team Director, Center for Secure and Stable States
 image: "/uploads/Martins%20copy.png"
 solutions:
-- Stabilization
+- Include Primary and/or Secondary Solutions
 - Countering Extremism
 - Peace-building and State-building
+- Stability
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa
