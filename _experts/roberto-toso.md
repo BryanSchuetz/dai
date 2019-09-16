@@ -9,8 +9,9 @@ job-title: Chief of Party, Philippines Facilitating Public Investment (FPI) Proj
 image: https://assetify-dai.com/experts/TosoInner.jpg
 solutions:
 - Economic Growth
-- Legislative Strengthening
+- Governance
 - Public Financial Management
+- 
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
