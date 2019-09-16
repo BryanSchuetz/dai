@@ -6,6 +6,8 @@ summary: Dan Martinko is a Senior Governance Specialist, providing thought leade
   and technical assistance to DAI’s overseas projects and business development efforts.
 job-title: Senior Governance Specialist
 image: "/uploads/New%20dan.jpg"
+solutions:
+- Governance
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
