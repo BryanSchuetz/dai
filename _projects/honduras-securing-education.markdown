@@ -40,7 +40,10 @@ Asegurando la Educación works across multiple levels: improving schools’ abil
 
 * Assisted the Ministry of Education in developing the comprehensive National Strategy for Prevention and School Safety launched nationwide in February 2019.
 * Trained school principals nationwide in leadership, conflict resolution, and migration prevention. 
-* Designed and delivered “Educators for Peace” professional development for more than 3,000 teachers from 115 schools working in contexts of crisis. Partnered with National Pedagogical University to work on incorporating “Educators for Peace” into pre-service training.
+* Designed and delivered “Educators for Peace” professional development for more than 3,000 teachers from 115 target schools working in contexts of crisis. Partnered with National Pedagogical University to work on incorporating “Educators for Peace” into pre-service training.
 * Designed and implemented a sports-based, social-emotional learning program, training physical education teachers to deliver it in 80 schools. The Ministry of Education is adopting the program that can easily be expanded into hundreds of additional schools.  
-* Facilitated field visits for 262 at-risk students from disadvantaged communities to local businesses, showcasing potential career paths in “Day of Dreams” initiative to encourage young people to stay in school and graduate.
-* Recruited and trained 120 university students to serve as Fellows and conduct violence prevention activities in 115 target schools.
+* Recruited and trained 120 university students to serve as Fellows and conduct violence prevention activities.
+* “Safe Learning Spaces” initiative increased the percentage of schools that retain full (initial to final) enrollment from 35 to 52 percent in just one year.
+* 47 percent of teachers report a new understanding, interpretation, and approach to addressing conflict with students; 16 percent expressed improved relations with parents regarding conflict.
+* Local businesses have contributed cash, refreshments, student desks, and even medical screenings to schools, while others have hosted 1,500 students from high-risk neighborhoods to learn about jobs available to graduates.
+* 87.5 percent of high-risk students completed the pilot cognitive behavioral therapy program, with teachers, parents, and the students themselves reporting improved behaviors and academic performance.
