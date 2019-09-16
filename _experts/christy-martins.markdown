@@ -21,6 +21,8 @@ articles:
   article_file: https://dai-global-developments.com/articles/supporting-the-transition-to-peace-in-sri-lanka
 - name: Evidence Kits Turning the Tide on Sexual Violence
   article_file: https://dai-global-developments.com/articles/evidence-kits-turning-the-tide-on-sexual-violence.html
+- name: 'Q&A: Complexity-Aware Planning for Stabilization Programming'
+  article_file: https://dai-global-checkpoint.com/q-and-a-complexity-aware-planning-for-stabilization-programming.html
 ---
 
 Christy Martins has 15 years of international development experience, focused on community development in transition, post-conflict, and post-disaster situations in Asia, Latin America and the Caribbean, and Africa. As Project Team Director for DAI’s Center for Secure and Stable States, Christy manages a portfolio of transition, stabilization, and countering violent extremism (CVE) projects, ensuring quality programming, contractual compliance, and effective lines of communication between DAI, project teams, and donors. 
