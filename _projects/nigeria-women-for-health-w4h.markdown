@@ -39,7 +39,7 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 * Strengthened management systems and structures of 25 training institutions.
 * Helped 14 schools receive full accreditation and 11 to achieve provisional accreditation. 
 * Constructed 35 houses to accommodate midwives to support retention in rural areas. 
-* Enabling 7,500 female students to enroll in midwifery, nursing, and community health extension worker training, with 38 percent of the 1,551 graduates to date employed and working in rural facilities, a 134-percent increase compared to the start of the program in 2012. 
+* Enabled 7,500 female students to enroll in midwifery, nursing, and community health extension worker training, with 38 percent of the 1,551 graduates to date employed and working in rural facilities, a 134-percent increase compared to the start of the program in 2012. 
 * Increased by more than 6,000 the number of students in training . 
 * Increased female friendliness of health training institutions. Watch these [videos](http://women4healthnigeria.org/index.php/videos) to learn more. 
   
