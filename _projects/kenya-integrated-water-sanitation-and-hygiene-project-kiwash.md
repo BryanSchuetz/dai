@@ -36,11 +36,12 @@ As county governments take on responsibility for investment in and oversight of 
 
 ### Select Results
 
-* Provided training to 231 WASH enterprises on water sector reforms and rights to water access, basic computer skills, business planning, and strategic marketing, accompanied by on-the-job coaching and mentoring to help enterprises improve access to WASH services for targeted communities.
-* Provided training and technical assistance to 13 partner WSPs to improve their performance and ability to qualify for financing that can expand and improve water services; the focus is to achieve greater cost recovery from users, increased efficiency in service, improved governance, and access to financing.
-* Extended basic drinking water services to 554,000 people. Another 94,000 gained access to basic sanitation services with 1,147 villages verified open-defecation free with monitoring plans in place.
-* Trained 78 public health officers to initiate Community-Led Total Sanitation programs in their respective areas.
+
+* Extended basic drinking water services to 554,000 people; another 94,000 gained access to basic sanitation services with 1,147 villages verified open-defecation free with monitoring plans in place.
 * Mobilized US$17.4 million in new sector funding to expand the services or increase the efficiency of water service providers.
+* Provided training and technical assistance to 13 partner WSPs to improve their performance and ability to qualify for financing that can expand and improve water services; the focus is to achieve greater cost recovery from users, increased efficiency in service, improved governance, and access to financing.
+* Provided training to 231 WASH enterprises on water sector reforms and rights to water access, basic computer skills, business planning, and strategic marketing, accompanied by on-the-job coaching and mentoring to help enterprises improve access to WASH services for targeted communities.
+* Trained 78 public health officers to initiate Community-Led Total Sanitation programs in their respective areas.
 * Facilitated the establishment of 12 farming demonstration sites to showcase low-cost methods for producing nutritious food and improved irrigation technologies that can significantly increase crop yields and raise incomes.
 * Trained 24 Water Resource Users Association (WRUAs) to understand and plan for effective conservation; protected 68 springs and planted 153,400 indigenous trees around water sources.
-* Established 234 demonstration farms at farmer’s homesteads to showcase various technologies for adoption by community members. Trained more than 4,400 farmers on establishing kitchen gardens, with 5,949 kitchen gardens established in eight counties.
+* Established 234 demonstration farms at farmer’s homesteads to showcase various technologies for adoption by community members; trained more than 4,400 farmers on establishing kitchen gardens, with 5,949 kitchen gardens established in eight counties.
