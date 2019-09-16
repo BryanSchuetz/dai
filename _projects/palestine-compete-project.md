@@ -40,7 +40,7 @@ After seven years, Compete assisted 1,797 firms in the West Bank and Gaza, incre
 * [Improved the competitiveness](https://www.usaid.gov/node/173546) of more than 1,797  firms, co-ops, associations, and farms.
 * Assisted firms to reach exports of $254 million.
 * Helped create 6,900 jobs.
-* Leveraged $81.1 million in private sector investments.
+* Leveraged $105 million in private sector investments.
 * Facilitated new [agricultural technologies](https://stories.usaid.gov/the-strawberry-king/) now used in more than 2,300 hectares in the West Bank and Gaza.
 * Assisted 16 historic sites to expand product offerings and enhance visitors' experience.
 * Supported the rapid growth of the fresh herbs, potato, and strawberry value chains in Gaza, providing assistance that led to more than $45 million in sales, of which $22 million was in exports.
