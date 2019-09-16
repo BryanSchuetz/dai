@@ -1,12 +1,8 @@
 ---
 title: Palestinian Market Development Programme (PMDP)
 date: 2016-01-21 22:40:00 Z
-summary: PMDP is improving market systems and the competitiveness of the Palestinian
-  private sector. The project works to improve private sector skills and innovation
-  through technical assistance and matching grants; address market system failures
-  in specific sectors through market analysis and facilitation; and strengthen trade
-  and investment linkages with international markets in collaboration with key commercial
-  representatives.
+summary: PMDP improved market systems and the competitiveness of the Palestinian private
+  sector.
 start: 2013
 end: 2019
 client:
@@ -27,9 +23,9 @@ promos:
 layout: project
 ---
 
-PMDP works to improve market systems and improve the competitiveness of the Palestinian private sector. We do so by improving private sector skills and innovation through technical assistance and matching grants; addressing market system failures in specific sectors through market analysis and facilitation; and strengthening trade and investment linkages with international markets in collaboration with key commercial representatives. DAI is mobilizing Palestinian diaspora to explore opportunities to transfer knowledge and improve linkages on trade and investment.
+PMDP worked to improve market systems and improve the competitiveness of the Palestinian private sector. We did so by improving private sector skills and innovation through technical assistance and matching grants; addressing market system failures in specific sectors through market analysis and facilitation; and strengthening trade and investment linkages with international markets in collaboration with key commercial representatives. DAI mobilized Palestinian diaspora to explore opportunities to transfer knowledge and improve linkages on trade and investment.
 
-PMDP is a follow-on to the [Facility for New Market Development](/our-work/projects/palestine%E2%80%94facility-new-market-development-fnmd) project (2008–2012) implemented by DAI, which built a portfolio of 603 client-companies in the West Bank and Gaza from sectors including manufacturing, agribusiness, stone and marble, ICT, services, tourism, pharmaceuticals, media, and handicrafts. During the project, these client-companies increased their sales by $118 million and created more than 3,400 permanent jobs.
+PMDP was a follow-on to the [Facility for New Market Development](/our-work/projects/palestine%E2%80%94facility-new-market-development-fnmd) project (2008–2012) implemented by DAI, which built a portfolio of 603 client-companies in the West Bank and Gaza from sectors including manufacturing, agribusiness, stone and marble, ICT, services, tourism, pharmaceuticals, media, and handicrafts. During the project, these client-companies increased their sales by $118 million and created more than 3,400 permanent jobs.
 
 ![PMDP-new-pic-9e2af3.jpg](/uploads/PMDP-new-pic-9e2af3.jpg)
 
@@ -43,19 +39,14 @@ PMDP is a follow-on to the [Facility for New Market Development](/our-work/proje
 
 * Create linkages to mobilize potential diaspora investment, knowledge and technological transfer to the Palestinian private sector.
 
-### Select Results (through June 2017)
+### Select Results
 
-**Open Matching Grants:**
+* Supported 884 enterprises in the West Bank (431) and Gaza (453) from a pool of nearly 2,000 grant applications, injecting £7.5 million worth of grants assistance that leveraged more than £5 million in private investment.
 
-* 364 businesses  assisted under open grants (98 are women-owned or -managed). 
-* 461 new products developed or enhanced (135 by women owned/managed businesses).
-* 198 enterprises reported improved annual performance (46 by women owned/managed businesses). 
-* £33 million increase of sales due to programme assistance.
-* 833 jobs created (248 for women).
+* The programme’s 884 grantees increased revenues by £131.26 million and created nearly 3,000 net jobs.
 
-**Gaza Back to Business/Market Window** 
+* This assistance helped 264 firms to get back to business after the 2014 war, resume their operations, employ, and sustain a net 1,201 workers even though the general economic environment continued to deteriorate.
 
-* 264 businesses assisted. 
-* 136 new products developed or enhanced. 
-* £55.7 million increase of sales due to programme assistance
-* 1,617 jobs created (44 for women).
+* Grantees introduced 838 new or enhanced products which, along with other market entry activities, helped them enter or expand into new domestic and export markets where they generated £74 million of attributed sales.
+
+* One-third of grantees received £ 1.97 million in grants to export for the first time or increase exports; this investment resulted in £26.9 million in additional export sales in 52 countries.
