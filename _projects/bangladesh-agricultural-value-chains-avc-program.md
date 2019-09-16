@@ -42,7 +42,7 @@ Funded under the Feed the Future initiative, this project worked to strengthen 1
 
 ### Select Results
 
-* Forged partnerships with 42 private sector companies and cooperatives to ensure sustainable supply of inputs and transfer of appropriate technologies and management practices to farmers and market linkage of farmers produce.
+* Forged partnerships with 42 private sector companies and cooperatives to ensure sustainable supply of inputs and transfer of appropriate technologies and management practices to farmers and market linkage of farmers produce; AVC partner firms increased sales by up to 60 percent while at the same time learning about sustainable market strategy.
 
 * Created 111,662 [full-time equivalent jobs](https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options).
 
