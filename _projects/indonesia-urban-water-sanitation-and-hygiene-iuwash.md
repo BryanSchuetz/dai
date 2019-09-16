@@ -21,13 +21,9 @@ country:
 layout: project
 ---
 
-Despite positive economic growth in recent years, urban Indonesia still suffers from poor access to safe water and sanitation. It’s not uncommon for citizens in and around Indonesia’s major cities to spend up to two hours every day transporting expensive water to their homes for drinking and cooking. In addition, a lack of sewage and wastewater infrastructure in many densely populated, low-income areas creates serious health risks from waterborne diseases.
+Better management of urban growth will be crucial to guarantee sustainable cities. It is not uncommon for citizens in and around Indonesia’s major cities for residents to spend up to two hours a day transporting expensive water to their homes for drinking and cooking. In addition, a lack of sewage and wastewater infrastructure in many densely populated, low-income areas leads to tainted ground and surface water, creating serious health risks from waterborne diseases.
 
-Over the past five years, the [Indonesia Urban Water, Sanitation, and Hygiene](http://iuwash.or.id/) (IUWASH) program, funded by the U.S. Agency for International Development (USAID) and implemented by DAI, made notable progress in addressing these deficiencies at many levels. IUWASH collaborated with public and private sector partners to bring a reliable water supply to more than 2.2 million people. USAID’s IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health for All (IUWASH PLUS), will build upon this momentum by working to expand access to water and sanitation services to hundreds of thousands of low-income urban households.
-
-DAI’s approach involves strengthening the urban WASH ecosystem at all levels—from basic infrastructure to public policy. The IUWASH PLUS team will work with civil society groups and local governments to mobilize demand for improved drinking water and [sanitation services](https://www.globalwaters.org/resources/blogs/professionalizing-septic-tank-and-latrine-desludging-indonesia) as well as to build capacity of private businesses, utilities, and national-level programs to provide these vital services in a fair and sustainable fashion.
-
-![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
+USAID’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan untuk Semua, or Environmental Health for All, (IUWASH PLUS) project and its predecessor, IUWASH, have brought reliable water supply to more than 3 million people and safely managed sanitation services to more 230,000 city dwellers. The IUWASH PLUS team works with civil society groups and local governments to mobilize demand for improved drinking water and sanitation services, as well as to build the capacity of private businesses, utilities, and national-level programs to provide these services in a fair and sustainable fashion.![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
 
 ### Sample Activities
 
@@ -43,18 +39,20 @@ DAI’s approach involves strengthening the urban WASH ecosystem at all levels�
 
 ### Select Results
 
-* Provided access to [safe water supplies](https://medium.com/usaid-global-waters/making-sanitation-services-affordable-in-indonesia-s-cities-5a2621014c1f#.s3v3zp1xo) to more than 2.5 million people and provided improved sanitation facilities to more than 300,000 people.
+* Brought [reliable water supply](https://medium.com/usaid-global-waters/making-sanitation-services-affordable-in-indonesia-s-cities-5a2621014c1f#.s3v3zp1xo) to more than 3 million people and safely managed sanitation services to more 230,000 city dwellers.
 
-* Helped reduce water costs for low-income households by 57 percent.
+* Improved sanitation facilities for more than 360,000 people.
 
-* Sponsored training sessions that were attended by 105,537 participants (33.8 percent of whom were women).
+* Provided basic sanitation facilities to 27,500 poor people.
 
-* Constructed 3,700 [infiltration ponds](https://www.usaid.gov/news-information/frontlines/climate-change-2015/bringing-back-water) throughout the country to retain groundwater supply during dry periods and help mitigate effects of climate change.
+* Reduced water costs for low-income households by 57 percent.
 
-* Ensured that more than 45,000 people—33.5 percent of whom were women—have benefited from participation in project activities.
+* Built 3,700 infiltration ponds to recharge groundwater supply and mitigate the effects of climate change.
 
-* Installed [infiltration ponds](https://www.usaid.gov/news-information/frontlines/climate-change-2015/bringing-back-water) all over country, bringing clean water to home taps and farms.
+* Strengthened the capacity of more than 60 local government institutions (water supply and wastewater operators) to serve vulnerable populations in 66 cities.
 
-* Brought together 261 government agencies and civil society organizations to provide sustainable water and sanitation services to vulnerable populations in more than 50 cities across Indonesia.
+* More than 183,000 people (37 percent of them women) have benefited from project training and capacity building activities.
+
+* More than $100 million funding has been leveraged from public budgets and private partnership investment to support water supply and sanitation services.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/105875924" webkitallowfullscreen="" width="703"></iframe>
