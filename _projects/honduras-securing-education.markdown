@@ -40,8 +40,8 @@ Asegurando la Educación works across multiple levels: improving schools’ abil
 
 * Assisted the Ministry of Education in developing the comprehensive National Strategy for Prevention and School Safety launched nationwide in February 2019.
 * Trained school principals nationwide in leadership, conflict resolution, and migration prevention. 
-* Designed and delivered “Educators for Peace” professional development for more than 3,000 teachers from 115 target schools working in contexts of crisis. Partnered with National Pedagogical University to work on incorporating “Educators for Peace” into pre-service training.
-* Designed and implemented a sports-based, social-emotional learning program, training physical education teachers to deliver it in 80 schools. The Ministry of Education is adopting the program that can easily be expanded into hundreds of additional schools.  
+* Designed and delivered “Educators for Peace” professional development for more than 3,000 teachers from 115 target schools working in contexts of crisis; partnered with National Pedagogical University to work on incorporating “Educators for Peace” into pre-service training.
+* Designed and implemented a sports-based, social-emotional learning program, training physical education teachers to deliver it in 80 schools; the Ministry of Education is adopting the program that can easily be expanded into hundreds of schools.  
 * Recruited and trained 120 university students to serve as Fellows and conduct violence prevention activities.
 * “Safe Learning Spaces” initiative increased the percentage of schools that retain full (initial to final) enrollment from 35 to 52 percent in just one year.
 * 47 percent of teachers report a new understanding, interpretation, and approach to addressing conflict with students; 16 percent expressed improved relations with parents regarding conflict.
