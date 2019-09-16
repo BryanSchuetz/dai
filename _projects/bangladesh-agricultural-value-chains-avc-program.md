@@ -48,6 +48,8 @@ Funded under the Feed the Future initiative, this project worked to strengthen 1
 
 * Reached 305,408 farmers and others with new technologies or management practices that increased crop yields by 131 percent.
 
+* Helped establish the [cut flower sector](https://www.youtube.com/watch?v=qVAqDjkamsM) as a formalized industry in Bangladesh, [growing the market](https://www.facebook.com/watch/?v=10154929405978955) from $67 million in 2013 to $150 million in 2018, with an eye toward [increasing exports](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh).
+
 * Introduced high-yielding and disease-resistant variety of nutritious mung bean, leading to a 4 percent yield increase per hectare, reduction of post-harvest loss by 6 percent, and increase in average net income per farmer by $64, or 78 percent per hectare.
 
 * Linked safe mango growers to two private sector enterprises; assisted those enterprises to develop a sustainable supply and marketing channel for safe mango through a local supermarket and local e-commerce platform, availing urban consumers of 500 metrics tons of graded premium quality mangoes.
@@ -55,5 +57,3 @@ Funded under the Feed the Future initiative, this project worked to strengthen 1
 * Introduced improved marketing and customer targeting to integrated pest management firms to accelerate smallholder adoption of bio pesticides and pheromone traps, reducing chemical and fertilizer spray by 70 to 75 percent, reducing environmental impact, improving food quality and safety, and reducing smallholder seasonal input costs by as much as $750 per hectare.
 
 * Won a [CLA Case Competition](https://usaidlearninglab.org/library/integrating-cla-organizational-structure-partner-management-and-project-culture) from the U.S. Agency for International Development for transforming its own internal structure to reflect the more complex market system it was trying to change.
-
-* Helped establish the [cut flower sector](https://www.youtube.com/watch?v=qVAqDjkamsM) as a formalized industry in Bangladesh, [growing the market](https://www.facebook.com/watch/?v=10154929405978955) from $67 million in 2013 to $150 million in 2018, with an eye toward [increasing exports](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh).
