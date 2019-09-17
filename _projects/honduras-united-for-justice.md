@@ -40,6 +40,26 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
 
 ### Select Results
 
+**Institutional Reform supporting:** 
+ 
+* Reorganization of Integrated Justice Centers in the northern cities of San Pedro Sula (pop. 720,000) and La Ceiba (pop. 198,000) using a replicable model, and building capacity in the cities’ regional Inter-Institutional Criminal Justice Sub Commissions, where police, prosecutors, and judges convene to improve local administration of justice, especially for vulnerable groups. 
+* Adoption of digital case files, projected to increase efficiency and transparency in a national criminal justice system that handles 125,000 cases annually. 
+* System upgrades at the Ministry of Human Rights, Attorney General’s and Public Defender’s Offices, and Judicial School. 
+* Installation of facial recognition and fingerprint processing systems to speed up positive identification, which will be connected with mobile crime scene units, the National Persons Registry, and National Migration Institute. 
+ 
+**Access to Justice and Civil Society:** 
+ 
+* Provided 625 vulnerable individuals with psychological support and legal counsel via civil society organizations (CSOs) empowered by Unidos; 
+* Launched training in social auditing for 23 CSOs to detect corruption; 48 CSOs to conduct oversight in security, justice and human rights; and 38 CSOs in crime data analysis and citizen security.  
+ 
+**Community Policing:** 
+* Supported 270 National Police community relations activities that attracted 44,760 residents of 29 high-crime barrios, with double these activities planned through 2020; supported 25 trainings for 570 people, mostly police officers, on human rights and community policing issues, and produced curriculum to be instituted by the National Police Academy. 
+ 
+**Protecting Women:** 
+* Designed training to support female survivors of violence now incorporated into National Police Academy coursework. 
+* Fostered National Police initiative to develop a Gender Policy. 
+Supported National Police Mother’s Day-themed information fairs that provided gender-based violence information to 800 people, mostly women, in Tegucigalpa, San Pedro Sula, and La Ceiba. 
+* Facilitated network of 215 volunteers in four cities to advise female victims of violence and steer them to legal and psychological services.  
 * Awarded seven grants to date to support civil society organizations’ (CSOs) efforts to improve access to justice for sectors of the population whose rights are prone to violation. These activities benefit women who suffer violence, people living with disabilities, Afro-Hondurans, and members of the LGBTI community.
 * Worked with the National Police to plan and implement a variety of community activities designed to improve the institution’s community relations and instill the principle of shared responsibility for safe neighborhoods.
 * Partnered with Arizona State University to identify and promote [best practices in community policing](http://).
