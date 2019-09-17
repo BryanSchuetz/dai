@@ -8,7 +8,7 @@ summary: John Leckie has 19 years of international project experience in the lan
 job-title: 'Global Practice Lead, Land Tenure and Property Rights '
 image: https://assetify-dai.com/experts/jLeckie-INNER.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Land Tenure and Property Rights
 - Natural Resource Management
 regions:

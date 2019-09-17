@@ -7,7 +7,7 @@ summary: 'Ruth Sparrey is Director of Managing for Development Results in our Eu
 job-title: Director, Managing for Development Results
 image: https://assetify-dai.com/experts/RuthInner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Health and Livelihoods
 - Sustainable and Accountable Health Services
 - Sustainable and Accountable Health Services

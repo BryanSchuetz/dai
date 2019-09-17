@@ -9,7 +9,7 @@ job-title: 'Senior Principal Global Practice Manager, Water Services '
 image: "/uploads/Darren_Saywell.jpg"
 solutions:
 - Water and Sanitation Services and Management
-- Environment and Energy
+- Environment
 - Natural Resource Management
 regions:
 - Worldwide

@@ -9,7 +9,7 @@ summary: 'World-renowned primatologist Jane Goodall recently visited the Nyungwe
 
 '
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Sub-Saharan Africa
 projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National

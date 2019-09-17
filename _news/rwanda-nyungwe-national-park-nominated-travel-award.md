@@ -6,7 +6,7 @@ summary: 'Rwanda''s Nyungwe National Park has been nominated by the British Guil
 
 '
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Sub-Saharan Africa
 projects: Rwanda—Strengthening Sustainable Ecotourism in and around Nyungwe National

@@ -11,7 +11,7 @@ job-title: Principal Global Practice Specialist, Water and Sanitation
 image: https://assetify-dai.com/experts/Skilling%20Portal.jpg
 solutions:
 - Governance
-- Environment and Energy
+- Environment
 - Fragile States
 - Stabilization
 regions:

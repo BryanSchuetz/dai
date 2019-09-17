@@ -10,7 +10,7 @@ regions:
 country:
 - Malawi
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'Malawi''s soils, waters, forests, wildlife, fisheries, and other natural
   resources are being harvested and degraded at rates exceeding their ability to regenerate

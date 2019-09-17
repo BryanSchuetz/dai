@@ -7,7 +7,7 @@ summary: Christopher Seeley is an expert in sustainable livelihoods, alternative
 job-title: Vice President, Environment Sector
 image: https://assetify-dai.com/experts/Seeley_Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Latin America and the Caribbean
 - Middle East and North Africa

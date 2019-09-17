@@ -7,7 +7,7 @@ summary: Miguel Baca is a development specialist with extensive experience in th
 job-title: Director, Environment, Latin America & Caribbean
 image: https://assetify-dai.com/experts/Baca_Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Water and Sanitation Services and Management
 regions:
 - Asia and the Pacific

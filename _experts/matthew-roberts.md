@@ -10,7 +10,7 @@ image: https://assetify-dai.com/experts/Matt%20Roberts%20INNER.jpg
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Environment and Energy
+- Environment
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa

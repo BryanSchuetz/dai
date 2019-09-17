@@ -9,7 +9,7 @@ start: 2018
 end: 2021
 client: Inter-American Development Bank
 solutions:
-- Environment and Energy
+- Environment
 - Finance and Investment
 - Economic Growth
 regions: Latin America and the Caribbean

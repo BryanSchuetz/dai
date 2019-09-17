@@ -9,7 +9,7 @@ summary: Boaz Tumwesigye joined DAI in 2010 as a member of the project managemen
 job-title: Regional Coordinator & Communications Lead, Preparedness & Response Project
 image: https://assetify-dai.com/experts/Boaz_Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Global Health
 regions:
 - Sub-Saharan Africa

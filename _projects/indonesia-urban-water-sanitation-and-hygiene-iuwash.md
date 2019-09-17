@@ -10,7 +10,7 @@ start: 2016
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Environment and Energy
+- Environment
 - Global Health
 - Water and Sanitation Services and Management
 - 

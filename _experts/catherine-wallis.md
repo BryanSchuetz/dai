@@ -11,7 +11,7 @@ solutions:
 - Energy
 - Climate Change Adaptation and Mitigation
 - Economic Growth
-- Environment and Energy
+- Environment
 - Natural Resource Management
 - Sustainable and Accountable Health Services
 layout: expert

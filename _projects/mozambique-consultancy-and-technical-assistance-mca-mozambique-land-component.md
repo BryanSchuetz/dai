@@ -13,7 +13,7 @@ end: 2013
 client: Millennium Challenge Account
 solutions:
 - Economic Growth
-- Environment and Energy
+- Environment
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa

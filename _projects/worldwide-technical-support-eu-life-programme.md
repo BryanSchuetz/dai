@@ -11,7 +11,7 @@ country:
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Environment and Energy
+- Environment
 layout: project
 summary: 'LIFE, the Financial Instrument for the Environment, is one of the spearheads
   of the European Union''s environmental policy.

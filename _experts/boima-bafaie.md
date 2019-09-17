@@ -12,7 +12,7 @@ image: https://assetify-dai.com/experts/BoimaInner.jpg
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Environment and Energy
+- Environment
 regions:
 - Sub-Saharan Africa
 layout: expert

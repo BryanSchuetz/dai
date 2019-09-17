@@ -8,7 +8,7 @@ summary: 'Lief Doerring is a senior international development expert, leader, an
 job-title: Senior Principal Development Specialist, Economic Growth
 image: https://assetify-dai.com/experts/Doerring_Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Agriculture and Food Security
 - Value Chain and Market Systems Development
 - Economic Growth

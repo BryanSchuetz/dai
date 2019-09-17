@@ -10,7 +10,7 @@ end: 2021
 client: European Commission
 solutions:
 - Energy
-- Environment and Energy
+- Environment
 regions: Asia and the Pacific
 country: Bhutan
 ---

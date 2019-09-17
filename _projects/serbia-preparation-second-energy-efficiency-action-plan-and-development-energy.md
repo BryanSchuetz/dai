@@ -11,7 +11,7 @@ country:
 - Serbia
 solutions:
 - Energy
-- Environment and Energy
+- Environment
 layout: project
 summary: 'The Preparation of Second Energy Efficiency Action Plan and Development
   of Energy Indicators project will assist the Serbian Ministry of Energy, Development,

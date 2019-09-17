@@ -12,7 +12,7 @@ end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Water and Sanitation Services and Management
-- Environment and Energy
+- Environment
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

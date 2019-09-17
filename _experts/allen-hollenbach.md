@@ -9,7 +9,7 @@ summary: Allen Hollenbach is a Senior Project Manager in the Environment and Hea
 job-title: Development Specialist, Environment and Energy
 image: https://assetify-dai.com/experts/Hollenbach_Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 layout: expert

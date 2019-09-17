@@ -11,7 +11,7 @@ job-title: Senior Development Specialist, Climate Change & Natural Resource Mana
 image: https://assetify-dai.com/experts/John%20Costenbader%20Inner.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Governance
 - Energy
 - Institutional and Policy Reform

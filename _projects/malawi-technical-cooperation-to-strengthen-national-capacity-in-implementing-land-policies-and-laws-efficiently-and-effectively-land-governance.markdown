@@ -9,7 +9,7 @@ start: 2016
 end: 2019
 client: European Commission
 solutions:
-- Environment and Energy
+- Environment
 - Land Tenure and Property Rights
 - 
 regions: Sub-Saharan Africa

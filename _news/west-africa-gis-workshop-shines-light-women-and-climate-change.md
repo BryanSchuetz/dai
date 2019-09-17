@@ -9,7 +9,7 @@ summary: 'University students from Benin, Cameroon, Cote d''Ivoire, Ghana, and N
 
 '
 solutions:
-- Environment and Energy
+- Environment
 - Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific

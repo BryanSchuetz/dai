@@ -9,7 +9,7 @@ regions:
 country:
 - Jordan
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'One of the 10 most water-deprived countries in the world, Jordan is making
   every effort to cooperate with neighboring countries that control or share much

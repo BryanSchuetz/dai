@@ -3,7 +3,7 @@ title: ProParque Promotes Use of Renewable Energy Products in Honduras
 date: 2012-12-10 18:05:00 Z
 solutions:
 - Energy
-- Environment and Energy
+- Environment
 - Climate Change Adaptation and Mitigation
 regions:
 - Latin America and the Caribbean

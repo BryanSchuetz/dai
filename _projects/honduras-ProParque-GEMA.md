@@ -9,7 +9,7 @@ end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Sustainable Livelihoods
 - Natural Resource Management
 regions:

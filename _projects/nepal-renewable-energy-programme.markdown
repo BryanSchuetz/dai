@@ -9,7 +9,7 @@ start: 2019
 end: 2023
 client: U.K. Department for International Development
 solutions:
-- Environment and Energy
+- Environment
 - Energy
 regions: Asia and the Pacific
 country: Nepal

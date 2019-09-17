@@ -9,7 +9,7 @@ start: 2019
 end: 2023
 client: European Bank for Reconstruction and Development
 solutions:
-- Environment and Energy
+- Environment
 - Energy
 regions: Middle East and North Africa
 country: Tunisia

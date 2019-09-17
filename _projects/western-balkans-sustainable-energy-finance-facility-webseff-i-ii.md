@@ -10,7 +10,7 @@ country:
 - Regional
 solutions:
 - Economic Growth
-- Environment and Energy
+- Environment
 - Finance and Investment
 layout: project
 summary: 'Significant potential for sustainable energy investments remains untapped

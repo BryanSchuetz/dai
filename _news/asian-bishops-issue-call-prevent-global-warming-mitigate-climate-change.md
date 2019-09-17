@@ -8,7 +8,7 @@ summary: 'Calling it their spiritual obligation to "safeguard the integrity of c
 '
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 projects:

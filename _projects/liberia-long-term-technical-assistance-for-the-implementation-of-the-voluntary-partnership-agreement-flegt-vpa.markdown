@@ -10,7 +10,7 @@ start: 2019
 end: 2022
 client: European Commission
 solutions:
-- Environment and Energy
+- Environment
 - Governance
 regions: Sub-Saharan Africa
 country: Liberia

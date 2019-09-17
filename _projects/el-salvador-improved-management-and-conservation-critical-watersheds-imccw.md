@@ -9,7 +9,7 @@ regions:
 country:
 - El Salvador
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'Many inhabitants of the ecological corridors and watersheds of western El
   Salvador employ farming and other practices that contribute to environmental degradation—trends

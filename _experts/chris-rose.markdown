@@ -7,7 +7,7 @@ summary: 'Chris Rose is a Senior Development Specialist with DAI Europe’s Ener
 job-title: 'Senior Development Specialist, Energy and Environment '
 image: "/uploads/ChrisRose-Inner.jpg"
 solutions:
-- Environment and Energy
+- Environment
 - Energy
 ---
 

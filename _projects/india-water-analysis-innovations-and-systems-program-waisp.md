@@ -9,7 +9,7 @@ regions:
 country:
 - India
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'Food, health, and the environment are inextricably linked to the supply
   of water. In India, a country of 1.2 billion people, the water supply is being squeezed

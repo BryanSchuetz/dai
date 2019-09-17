@@ -11,7 +11,7 @@ image: https://assetify-dai.com/experts/Kevin%20inner.jpg
 solutions:
 - Energy
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Natural Resource Management
 - Water and Sanitation Services and Management
 - Land Tenure and Property Rights

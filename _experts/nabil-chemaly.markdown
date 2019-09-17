@@ -7,7 +7,7 @@ summary: 'Nabil Chemaly is a senior water, sanitation, and hygiene (WASH) develo
 job-title: Senior Global Practice Specialist,  Water, Sanitation, and Hygiene
 image: "/uploads/Nabil%20Portal.jpg"
 solutions:
-- Environment and Energy
+- Environment
 - Water and Sanitation Services and Management
 regions:
 - Sub-Saharan Africa

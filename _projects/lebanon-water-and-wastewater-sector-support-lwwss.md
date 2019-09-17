@@ -10,7 +10,7 @@ start: 2009
 end: 2015
 client: U.S. Agency for International Development
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Middle East and North Africa
 country:

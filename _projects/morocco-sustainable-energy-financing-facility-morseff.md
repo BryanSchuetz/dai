@@ -13,7 +13,7 @@ end: 2020
 client: European Bank for Reconstruction and Development
 solutions:
 - Energy
-- Environment and Energy
+- Environment
 - Finance and Investment
 - 
 regions:

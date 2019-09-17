@@ -5,7 +5,7 @@ lastname: Erdmann
 regions:
 - Sub-Saharan Africa
 solutions:
-- Environment and Energy
+- Environment
 layout: expert
 image: https://assetify-dai.com/experts/ErdmannInner.jpg
 summary: Thomas Erdmann specializes in natural resources management. A trained forester,

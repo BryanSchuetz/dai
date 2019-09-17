@@ -8,7 +8,7 @@ summary: "Jim Tarrant leads the Biodiversity Results and Integrated Biodiversity
 job-title: Chief of Party, BRIDGE
 image: https://assetify-dai.com/experts/Tarrant%20inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Natural Resource Management
 regions:
 - Asia and the Pacific

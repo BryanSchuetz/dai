@@ -8,7 +8,7 @@ summary: Joe Sanders has 18 years of experience, including more than 10 years of
 job-title: Chief of Party, Kenya Integrated Water Sanitation and Hygiene (KIWASH)
 image: https://assetify-dai.com/experts/Joe%20Sanders%20Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Water and Sanitation Services and Management
 - Agriculture and Food Security
 - Economic Growth

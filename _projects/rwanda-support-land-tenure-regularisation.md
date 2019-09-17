@@ -13,7 +13,7 @@ end: 2013
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
-- Environment and Energy
+- Environment
 - Gender
 - Governance
 - Land Tenure and Property Rights

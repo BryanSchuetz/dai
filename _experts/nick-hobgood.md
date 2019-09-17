@@ -8,7 +8,7 @@ regions:
 solutions:
 - Climate Change Adaptation and Mitigation
 - Economic Growth
-- Environment and Energy
+- Environment
 - Natural Resource Management
 layout: expert
 image: https://assetify-dai.com/experts/HobgoodInner.jpg

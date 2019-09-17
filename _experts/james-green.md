@@ -8,7 +8,7 @@ summary: For more than 30 years, Jim Green has worked widely in South Asia, Sout
 job-title: Project Management Adviser, Director
 image: https://assetify-dai.com/experts/JamesGreenInner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Governance
 - Land Tenure and Property Rights
 - Natural Resource Management

@@ -10,7 +10,7 @@ end: 2018
 client: U.S. Agency for International Development
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Human Centered Design
 - Data for Decisions
 regions:

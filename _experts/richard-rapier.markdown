@@ -9,7 +9,7 @@ job-title: Chief of Party, USAID Water for Africa through Leadership and Institu
   Support
 image: "/uploads/rich-rapier-bio.jpg"
 solutions:
-- Environment and Energy
+- Environment
 - Water and Sanitation Services and Management
 regions: Sub-Saharan Africa
 ---

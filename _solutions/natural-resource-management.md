@@ -1,9 +1,9 @@
 ---
 title: Natural Resource Management
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/environment-and-energy-solutions/natural-resource-management"
+permalink: "/our-work/solutions/environment-solutions/natural-resource-management"
 solutions:
-- Environment and Energy
+- Environment
 layout: solution
 hero: true
 ---

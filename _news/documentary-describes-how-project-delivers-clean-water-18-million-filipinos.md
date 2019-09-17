@@ -7,7 +7,7 @@ summary: 'A recently released 15-minute documentary describes how a DAI-led proj
 
 '
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 projects: 

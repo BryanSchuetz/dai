@@ -11,7 +11,7 @@ summary: 'A professional engineer by training, Bill has led numerous infrastruct
 job-title: 'Chief of Party, USAID IUWASH PLUS, Indonesia '
 image: "/uploads/PersonImage.jpeg"
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

@@ -11,7 +11,7 @@ summary: Del McCluskey was introduced to international development in 1963 when 
 job-title: Global Practice Lead, Environment, Climate Change & Urban Services
 image: https://assetify-dai.com/experts/Del_Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

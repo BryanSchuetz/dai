@@ -9,7 +9,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Natural Resource Management
-- Environment and Energy
+- Environment
 - Water and Sanitation Services and Management
 regions: Asia and the Pacific
 country: Nepal

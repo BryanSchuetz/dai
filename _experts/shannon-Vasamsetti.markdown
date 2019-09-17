@@ -7,7 +7,7 @@ summary: 'Shannon Vasamsetti ’s work has focused on the nexis of climate chang
 job-title: Global Practice Specialist, Environment
 image: "/uploads/DAI-Bio----Shannon-Dugan.jpg"
 solutions:
-- Environment and Energy
+- Environment
 - Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific

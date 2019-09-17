@@ -9,7 +9,7 @@ start: 2017
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Environment and Energy
+- Environment
 - Water and Sanitation Services and Management
 regions: Latin America and the Caribbean
 country: Haiti

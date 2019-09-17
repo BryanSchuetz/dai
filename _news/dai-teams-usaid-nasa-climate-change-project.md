@@ -9,7 +9,7 @@ summary: 'DAI is delighted to announce that we are collaborating with the U.S. A
 '
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 regions: 
 projects: Worldwide—SERVIR Program Demand Activity
 clients: 

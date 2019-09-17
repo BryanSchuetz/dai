@@ -11,7 +11,7 @@ job-title: 'Senior Principal Global Practice Specialist, Land Tenure and Propert
   Rights '
 image: https://assetify-dai.com/experts/IanInner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Land Tenure and Property Rights
 - Law and Justice
 - Gender and Social Inclusion

@@ -11,7 +11,7 @@ start: 2018
 end: 2022
 client: European Commission
 solutions:
-- Environment and Energy
+- Environment
 - Climate Change Adaptation and Mitigation
 regions: Sub-Saharan Africa
 country: Ethiopia

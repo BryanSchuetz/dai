@@ -11,7 +11,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 country:

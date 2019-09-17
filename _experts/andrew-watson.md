@@ -11,7 +11,7 @@ summary: Over the past 30 years, Andrew Watson’s technical focus has covered t
 job-title: 'Vice President, Environment '
 image: https://assetify-dai.com/experts/innerwatson.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Governance
 - Land Tenure
 regions:

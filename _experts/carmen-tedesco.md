@@ -7,7 +7,7 @@ summary: Carmen Tedesco is the Technology Manager for DAI’s Managing for Devel
 job-title: Data and Technology Lead, Managing for Development Results
 image: "/uploads/Carmen%20Tedesco.jpg"
 solutions:
-- Environment and Energy
+- Environment
 - Digital Acceleration
 layout: expert
 ---

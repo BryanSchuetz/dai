@@ -10,7 +10,7 @@ regions:
 country:
 - Madagascar
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'As a tropical island nation, Madagascar has a rich and diverse foundation
   of plants, trees, and animals. However, the natural environment has been depleted

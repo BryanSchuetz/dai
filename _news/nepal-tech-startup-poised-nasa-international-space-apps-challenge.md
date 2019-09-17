@@ -9,7 +9,7 @@ summary: 'Space enthusiasts, tech wizards, and citizen scientists the world over
 
 '
 solutions:
-- Environment and Energy
+- Environment
 - Climate Change Adaptation and Mitigation
 regions:
 - Asia and the Pacific

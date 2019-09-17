@@ -10,7 +10,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Natural Resource Management
-- Environment and Energy
+- Environment
 regions:
 - Worldwide
 country:

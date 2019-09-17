@@ -10,7 +10,7 @@ regions:
 country:
 - Regional
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: We work closely with USAID to launch and strengthen the Middle East and North
   Africa Network of Water Centers of Excellence (MENA NWC), a regional association

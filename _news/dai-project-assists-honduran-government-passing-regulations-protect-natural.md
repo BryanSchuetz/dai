@@ -9,7 +9,7 @@ summary: 'The government of Honduras has passed laws that will allow the private
 
 '
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Latin America and the Caribbean
 projects: Honduras—ProParque

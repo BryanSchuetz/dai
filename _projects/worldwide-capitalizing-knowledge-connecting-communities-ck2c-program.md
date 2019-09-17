@@ -9,7 +9,7 @@ regions:
 country:
 - Regional
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'Through this project, DAI facilitated the exchange of knowledge across natural
   resource management (NRM) communities worldwide.

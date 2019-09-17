@@ -1,9 +1,9 @@
 ---
 title: Energy
 date: 2016-01-22 00:11:00 Z
-permalink: "/our-work/solutions/environment-and-energy-solutions/energy"
+permalink: "/our-work/solutions/environment-solutions/energy"
 solutions:
-- Environment and Energy
+- Environment
 layout: solution
 hero: true
 ---

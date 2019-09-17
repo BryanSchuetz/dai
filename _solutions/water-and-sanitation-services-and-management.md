@@ -1,9 +1,9 @@
 ---
 title: Water and Sanitation Services and Management
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/environment-and-energy-solutions/water-and-sanitation-services-and-resource-management"
+permalink: "/our-work/solutions/environment-solutions/water-and-sanitation-services-and-resource-management"
 solutions:
-- Environment and Energy
+- Environment
 layout: solution
 redirect_from:
 - "/wash"

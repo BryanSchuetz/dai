@@ -10,7 +10,7 @@ regions:
 country:
 - Zambia
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'DAI is supporting a World Bank pilot program by assessing and making recommendations
   for investment and design of a mobile platform for disseminating market and climate

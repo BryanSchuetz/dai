@@ -20,6 +20,6 @@ APEC commissioned two case studies on green building through the U.S. Agency for
 
 The DAI/Nathan Group prepared the studies, one by Kenney titled "[Multi-Attribute LCA-Based Certification Programs in APEC Economies: Focus on Flooring and Plumbing Products][2]," and one by independent consultant Dr. Cynthia A. Lowry titled "[Green Commercial Building Rating Systems in the APEC Region][3]."
 
-[1]: /our-work/solutions/environment-and-energy
+[1]: /our-work/solutions/environment
 [2]: http://aimp.apec.org/Documents/2011/SCSC/WKSP2/11_scsc_wksp2_008.pdf
 [3]: http://aimp.apec.org/Documents/2011/SCSC/WKSP2/11_scsc_wksp2_009.pdf

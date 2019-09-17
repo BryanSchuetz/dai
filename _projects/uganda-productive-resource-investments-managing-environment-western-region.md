@@ -10,7 +10,7 @@ regions:
 country:
 - Uganada
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'The Albertine Rift is a vital region for global conservation, harboring
   more species of vertebrates than any other region on the African continent. It shelters

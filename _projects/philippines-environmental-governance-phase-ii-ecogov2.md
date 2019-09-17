@@ -12,7 +12,7 @@ start: 2004
 end: 2011
 client: U.S. Agency for International Development
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 country:

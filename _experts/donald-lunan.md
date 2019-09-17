@@ -9,7 +9,7 @@ job-title: Director, Delivery Unit, Europe
 image: https://assetify-dai.com/experts/DonaldLunanINNER.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

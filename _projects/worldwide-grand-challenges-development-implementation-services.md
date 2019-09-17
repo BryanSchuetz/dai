@@ -12,7 +12,7 @@ client: U.S. Agency for International Development
 solutions:
 - Include Primary and/or Secondary Solutions
 - Economic Growth
-- Environment and Energy
+- Environment
 - Governance
 - Global Health
 - Fragile States

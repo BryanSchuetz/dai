@@ -7,7 +7,7 @@ start: 2015
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Environment and Energy
+- Environment
 - Global Health
 - Health and Livelihoods
 - Nutrition and Food Security

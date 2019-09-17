@@ -2,7 +2,7 @@
 title: DAI Granted Accredited Observer Status by the Green Climate Fund
 date: 2017-06-06 17:11:00 Z
 solutions:
-- Environment and Energy
+- Environment
 - Climate Change Adaptation and Mitigation
 summary: DAI was recently granted Accredited Observer status by the [Green Climate
   Fund](http://www.greenclimate.fund/home) (GCF), a body set up in 2010 through the

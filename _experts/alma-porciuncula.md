@@ -5,7 +5,7 @@ lastname: Porciuncula
 regions:
 - Asia and the Pacific
 solutions:
-- Environment and Energy
+- Environment
 - Natural Resource Management
 layout: expert
 image: https://assetify-dai.com/experts/Alma_Inner.jpg

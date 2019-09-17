@@ -1,7 +1,7 @@
 ---
 title: DAI Presents Four Papers at 2016 World Bank Conference
 date: 2016-03-18 18:05:00 Z
-summary: DAI's [Land Tenure and Property Rights team](/our-work/solutions/environment-and-energy/land-tenure)
+summary: DAI's [Land Tenure and Property Rights team](/our-work/solutions/environment-solutions/land-tenure)
   presented four papers at the Annual World Bank Conference on Land and Poverty 2016,
   on March 14–18, in Washington, D.C.
 solutions:
@@ -25,7 +25,7 @@ DAI's papers covered topics including ensuring [women are not overlooked][3] in 
 
 Our land work includes securing property rights, supporting policy and legal reforms and regularization, cadaster development, land record rehabilitation and management, land information systems, institution building and information dissemination, participatory land use and resource planning, dispute resolution and mitigation, training, research and communications, and grants management. DAI currently works on the land issues for the U.K. Department for International Development, the Millennium Challenge Corporation, the European Union, and the U.S. Agency for International Development, for which it holds an indefinite quantity contract, [Strengthening Tenure and Resource Rights (STARR)][10].
 
-[1]: /our-work/solutions/environment-and-energy/land-tenure
+[1]: /our-work/solutions/environment-solutions/land-tenure
 [2]: https://assetify-dai.com/news/LandsTeam.jpg
 [3]: https://www.conftool.com/landandpoverty2016/index.php?page=browseSessions&presentations=show&search=Ian+Rose
 [4]: https://www.conftool.com/landandpoverty2016/index.php?page=browseSessions&presentations=show&search=Baldwin%2C+Richard

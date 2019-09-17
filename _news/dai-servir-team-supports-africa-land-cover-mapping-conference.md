@@ -10,7 +10,7 @@ summary: 'The International Symposium on Land Cover Mapping for the African Cont
 '
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Innovation and Entrepreneurship
 - Digital Acceleration
 regions:

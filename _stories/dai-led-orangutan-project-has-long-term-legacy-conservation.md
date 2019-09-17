@@ -4,7 +4,7 @@ date: 2016-02-03 14:42:05.262000000 Z
 regions:
 - Asia and the Pacific
 solutions:
-- Environment and Energy
+- Environment
 projects:
 - Indonesia—Orangutan Conservation Services Program (OCSP)
 summary: Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Agency

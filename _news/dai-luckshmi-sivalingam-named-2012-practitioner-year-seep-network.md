@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 - Natural Resource Management
 - Nutrition and Food Security
-- Environment and Energy
+- Environment
 regions:
 - Sub-Saharan Africa
 projects: Malawi—Integrating Nutrition into Value Chains

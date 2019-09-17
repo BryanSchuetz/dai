@@ -7,7 +7,7 @@ summary: 'According to Dr. Steven Lawry, DAI''s Global Practice Lead for Land Te
 
 '
 solutions:
-- Environment and Energy
+- Environment
 - Land Tenure and Property Rights
 regions:
 - Sub-Saharan Africa

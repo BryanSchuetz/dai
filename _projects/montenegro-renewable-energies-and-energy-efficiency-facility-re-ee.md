@@ -9,7 +9,7 @@ regions:
 country:
 - Montenegro
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'A high degree of inefficiency and pollution are major challenges facing
   the Montenegrin energy sector, besides the necessity of general rehabilitation measures.

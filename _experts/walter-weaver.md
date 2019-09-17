@@ -7,7 +7,7 @@ summary: For the last 20 years, Walter Weaver has focused his broad interests in
 job-title: Vice President, Asia Region
 image: https://assetify-dai.com/experts/innerweaver.jpg
 solutions:
-- Environment and Energy
+- Environment
 - 
 regions:
 - Asia and the Pacific

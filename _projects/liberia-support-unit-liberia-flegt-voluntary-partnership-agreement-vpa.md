@@ -11,7 +11,7 @@ end: 2018
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
-- Environment and Energy
+- Environment
 - Governance
 - Natural Resource Management
 regions:

@@ -8,7 +8,7 @@ summary: 'An HTSPE-led project is one of three shortlisted by the London-based t
 '
 solutions:
 - Land Tenure and Property Rights
-- Environment and Energy
+- Environment
 regions: 
 projects: 
 clients: 

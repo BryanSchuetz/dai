@@ -9,7 +9,7 @@ summary: Cathy Shaw is a Principal Project Manager at DAI Europe, having joined 
 job-title: Principal Project Manager
 image: https://assetify-dai.com/experts/CathyShawInner.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Fragile States
 regions:
 - Eastern Europe and Central Asia

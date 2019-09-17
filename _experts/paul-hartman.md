@@ -10,7 +10,7 @@ job-title: Chief of Party, Mekong ARCC
 image: https://assetify-dai.com/experts/innerpaul.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 regions:
 - Asia and the Pacific
 layout: expert

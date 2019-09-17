@@ -8,7 +8,7 @@ summary: 'U.S. Ambassador Robert O. Blake Jr. accompanied by the Mayor of Suraka
 
 '
 solutions:
-- Environment and Energy
+- Environment
 - Global Health
 regions:
 - Asia and the Pacific

@@ -11,7 +11,7 @@ summary: 'Doreen Erfe joined the U.S. Agency for International Development (USAI
 job-title: Senior Policy Development Specialist
 image: https://assetify-dai.com/experts/doreen-erfe.jpg
 solutions:
-- Environment and Energy
+- Environment
 - Natural Resource Management
 regions:
 - Asia and the Pacific

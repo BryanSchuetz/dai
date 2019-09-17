@@ -8,7 +8,7 @@ end: 2020
 client: European Bank for Reconstruction and Development
 solutions:
 - Energy
-- Environment and Energy
+- Environment
 - Climate Change Adaptation and Mitigation
 regions:
 - Eastern Europe and Central Asia

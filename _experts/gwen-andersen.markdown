@@ -9,7 +9,7 @@ image: "/uploads/Gwen%20Andersen%20casual.jpg"
 solutions:
 - Energy
 - Finance and Investment
-- Environment and Energy
+- Environment
 regions:
 - Latin America and the Caribbean
 - Middle East and North Africa

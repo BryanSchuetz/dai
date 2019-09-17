@@ -11,7 +11,7 @@ country:
 - Regional
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 layout: project
 summary: 'This regional initiative is identifying solutions and action plans to permit
   the countries and territories of Central America and the Dominican Republic to respond

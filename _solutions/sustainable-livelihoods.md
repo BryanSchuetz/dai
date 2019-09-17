@@ -1,9 +1,9 @@
 ---
 title: Sustainable Livelihoods
 date: 2016-01-22 00:11:14.114000000 Z
-permalink: "/our-work/solutions/environment-and-energy-solutions/sustainable-livelihoods"
+permalink: "/our-work/solutions/environment-solutions/sustainable-livelihoods"
 solutions:
-- Environment and Energy
+- Environment
 layout: solution
 hero: true
 ---

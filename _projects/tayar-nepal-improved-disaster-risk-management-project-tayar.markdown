@@ -8,7 +8,7 @@ start: 2019
 end: 2024
 client: U.S. Agency for International Development
 solutions:
-- Environment and Energy
+- Environment
 regions: Asia and the Pacific
 country: Nepal
 ---

@@ -12,7 +12,7 @@ end: 2020
 client: French Development Agency
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 regions: Sub-Saharan Africa
 country: Comoros, Madagascar, Mauritius, and Seychelles
 ---

@@ -11,7 +11,7 @@ summary: Jimmy Zammar, the Program Manager for the Lebanon Water and Wastewater 
 job-title: Program Manager, Lebanon Water and Wastewater Sector Support Program
 image: https://assetify-dai.com/experts/Zammar_Inner.jpg
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Middle East and North Africa
 layout: expert

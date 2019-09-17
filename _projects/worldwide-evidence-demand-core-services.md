@@ -11,7 +11,7 @@ client: U.K. Department for International Development
 solutions:
 - Climate Change Adaptation and Mitigation
 - Economic Growth
-- Environment and Energy
+- Environment
 - Land Tenure and Property Rights
 - Natural Resource Management
 - Sustainable and Accountable Health Services

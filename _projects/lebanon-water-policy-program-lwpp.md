@@ -10,7 +10,7 @@ country:
 - Lebanon
 solutions:
 - Economic Growth
-- Environment and Energy
+- Environment
 layout: project
 summary: 'Under the LWPP, DAI supported the Ministry of Energy and Water and the Water
   Establishments in Lebanon, guiding Lebanese ministry and water establishments''

@@ -8,7 +8,7 @@ summary: Colombia's 2015 floods affected some 18,000 people. They destroyed home
 solutions:
 - Digital Acceleration
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 regions:
 - Latin America and the Caribbean
 projects:

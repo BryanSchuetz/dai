@@ -9,7 +9,7 @@ regions:
 country:
 - Haiti
 solutions:
-- Environment and Energy
+- Environment
 layout: project
 summary: 'Environmental degradation in Haiti is the worst in the Western Hemisphere—a
   cause and result of the country''s economic decline. DEED focused on promoting environmentally

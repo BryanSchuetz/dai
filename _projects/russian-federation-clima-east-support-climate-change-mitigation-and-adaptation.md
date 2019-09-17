@@ -12,7 +12,7 @@ client: European Commission
 solutions:
 - Energy
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Governance
 regions:
 - Eastern Europe and Central Asia

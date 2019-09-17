@@ -10,7 +10,7 @@ start: 2013
 end: 2018
 client: U.K. Department for International Development
 solutions:
-- Environment and Energy
+- Environment
 regions:
 - Sub-Saharan Africa
 country:

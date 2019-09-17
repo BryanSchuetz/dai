@@ -10,7 +10,7 @@ job-title: Renewable Energy Specialist, Honduras Gobernanza en Ecosistemas, Medi
 image: "/uploads/Mily.jpg"
 solutions:
 - Energy
-- Environment and Energy
+- Environment
 regions:
 - Latin America and the Caribbean
 ---

@@ -9,7 +9,7 @@ end: 2019
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Environment and Energy
+- Environment
 - Governance
 - Land Tenure and Property Rights
 regions:

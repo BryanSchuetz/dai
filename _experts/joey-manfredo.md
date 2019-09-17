@@ -11,7 +11,7 @@ job-title: Deputy Chief of Party, Coastal Community Adaptation Project (C-CAP)
 image: https://assetify-dai.com/experts/Joey%20inner.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Natural Resource Management
 regions:
 - Asia and the Pacific

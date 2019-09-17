@@ -9,7 +9,7 @@ image: "/uploads/Jon%20Randall%20Casual.jpg"
 solutions:
 - Energy
 - Climate Change Adaptation and Mitigation
-- Environment and Energy
+- Environment
 - Natural Resource Management
 regions:
 - Asia and the Pacific
