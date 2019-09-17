@@ -36,6 +36,10 @@ DAI provides professional management services to the CDI, supporting the utiliza
 
 ### Select Results
 
+* Assisted 24 USAID operating units worldwide to create more inclusive workstreams, including by recruiting new partners into these workstreams.
+* Supported 63 firms to engage with USAID—many for the first time—and contribute to the agency’s programming and scaling opportunities.
+* Supported 12 challenge initiatives, which attracted thousands of entrants globally with proposals to address literacy, maternal health, off-grid energy, and other needs.
+* Assisted the U.S. Global Development Lab to accelerate the work of 26 innovators whose products and services were identified by USAID as promising.
 * Designed and implemented the Family Care First co-creation workshop, which brought together more than 30 organizations in Cambodia to generate 800 initial ideas and nine finalist concepts for collaborative approaches to preventing child-family separation.
 * Used design-thinking principles to capture lessons learned by the Civil Society Innovation Initiative (CSİI), a global network for civil society organizations, and build an [interactive learning module](http://csiilearn.org/#/?_k=dsl6fp) that helped CSİI to become a model for collaboration between donors and partner organizations.
 * Supported the design and implementation of the [Data-Driven Farming Prize](http://datadrivenfarming.challenges.org/) in Nepal, which seeks to collect and communicate insights from data to help smallholder farmers improve their productivity, bringing in 143 submissions from 29 countries.
