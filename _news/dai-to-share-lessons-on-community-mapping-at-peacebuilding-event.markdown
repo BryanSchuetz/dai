@@ -1,7 +1,11 @@
 ---
 title: DAI to Share Lessons on Community Mapping at Peacebuilding Event
 date: 2019-09-17 10:30:00 Z
-published: false
+solutions:
+- Stability
+- Peace-Building and Political Transition
+- Peace-building and State-building
+clients: U.S. Agency for International Development
 summary: Leaders from DAI’s Center for Secure and Stables States will participate
   in technical sessions and will hold a panel discussion at the annual PeaceCon event
   October 3–4 in Washington, D.C. PeaceCon is hosted by the Alliance for Peacebuilding,
