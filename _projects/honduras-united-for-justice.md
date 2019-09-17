@@ -49,11 +49,12 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
  
 **Access to Justice and Civil Society:** 
  
-* Provided 625 vulnerable individuals with psychological support and legal counsel via civil society organizations (CSOs) empowered by Unidos; 
+* Provided 625 vulnerable individuals with psychological support and legal counsel via civil society organizations (CSOs) empowered by Unidos. 
 * Launched training in social auditing for 23 CSOs to detect corruption; 48 CSOs to conduct oversight in security, justice and human rights; and 38 CSOs in crime data analysis and citizen security.  
  
 **Community Policing:** 
-* Supported 270 National Police community relations activities that attracted 44,760 residents of 29 high-crime barrios, with double these activities planned through 2020; supported 25 trainings for 570 people, mostly police officers, on human rights and community policing issues, and produced curriculum to be instituted by the National Police Academy. 
+* Supported 270 National Police community relations activities that attracted 44,760 residents of 29 high-crime barrios, with double these activities planned through 2020;
+* Supported 25 trainings for 570 people, mostly police officers, on human rights and community policing issues, and produced curriculum to be instituted by the National Police Academy. 
  
 **Protecting Women:** 
 * Designed training to support female survivors of violence now incorporated into National Police Academy coursework. 
