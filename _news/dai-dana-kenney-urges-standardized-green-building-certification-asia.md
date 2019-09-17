@@ -3,14 +3,14 @@ title: DAI’s Dana Kenney Urges Standardized Green Building Certification at As
   Event
 date: 2012-09-21 18:05:00 Z
 summary: 
-solutions: 
+solutions: Environment
 regions: 
 projects: 
 clients: 
 layout: node
 ---
 
-Environmentally safe building materials are widely available and can significantly reduce pollution over their life cycles. But green-certification for these materials should be standardized to facilitate their trade between countries and promote their increased use, according to Dana Kenney, a senior consultant with DAI's [Environment and Energy Sector][1].
+Environmentally safe building materials are widely available and can significantly reduce pollution over their life cycles. But green-certification for these materials should be standardized to facilitate their trade between countries and promote their increased use, according to Dana Kenney, a senior consultant with DAI's [Environment Sector][1].
 
 In a presentation last week to the Asia-Pacific Economic Cooperation (APEC) Green Buildings Conference in Singapore, Kenney outlined the tools available to conduct Life-Cycle Assessments (LCA) of the environmental impact of building materials. She also reviewed which nations require procurement of certified products, discussed market drivers for certified products, and explained the potential impact of certification programs on trade.
 

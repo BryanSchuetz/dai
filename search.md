@@ -96,7 +96,7 @@ search.addWidget(
         item.icon = "econ-badge"
       }else if(item.label == "Governance"){
         item.icon = "gov-badge"
-      }else if(item.label == "Environment and Energy"){
+      }else if(item.label == "Environment"){
         item.icon = "env-badge"
       }else if(item.label == "Energy"){
         item.icon = "env-badge"

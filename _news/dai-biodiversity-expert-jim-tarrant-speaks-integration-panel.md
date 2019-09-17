@@ -6,7 +6,7 @@ summary: 'Jim Tarrant, Chief of Party of the Biodiversity Results and Integrated
   on the need for integrated development approaches.
 
 '
-solutions: Environment and Energy
+solutions: Environment
 regions: 
 projects: 
 clients: 

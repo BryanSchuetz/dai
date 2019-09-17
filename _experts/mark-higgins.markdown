@@ -7,7 +7,7 @@ summary: Mark Higgins serves as a Principal Development Specialist with the USAI
 job-title: Principal Development Specialist, Biodiversity Conservation
 image: "/uploads/Higgins%20portal.jpg"
 solutions:
-- Environment and Energy
+- Environment
 - Natural Resource Management
 - 
 regions:

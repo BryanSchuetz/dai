@@ -27,7 +27,7 @@ DAI drives trade, technology, agriculture, business, and financial services to c
 
 <a style="display: block; clear: left;  margin-bottom: 2rem;" href="https://www.dai.com/our-work/solutions/economic-growth" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-### Environment and Energy
+### Environment
 
 DAI has global experience improving the management of natural resources and protecting important ecosystems while supporting economic growth. Our approach strengthens resilience to climate change, for example, while providing the foundation for sustainable development. DAI in Nigeria has expertise and experience supporting environmentally responsible policies and strategies through a good governance lens, notably through the <strong><a href="/our-work/projects/nigeria-state-partnership-for-accountability-responsiveness-and-capability">State Partnership for Accountability Responsiveness and Capability</a></strong> and the <strong><a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">Accountable, Responsive, and Capable Government Programme</a></strong>.
 

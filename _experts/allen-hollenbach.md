@@ -6,7 +6,7 @@ lastname: Hollenbach
 summary: Allen Hollenbach is a Senior Project Manager in the Environment and Health
   Team, Asia region. He specializes in governance and the environment, with an emphasis
   on environmental services finance and local government administration.
-job-title: Development Specialist, Environment and Energy
+job-title: Development Specialist, Environment
 image: https://assetify-dai.com/experts/Hollenbach_Inner.jpg
 solutions:
 - Environment
