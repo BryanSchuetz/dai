@@ -1,10 +1,10 @@
 ---
 title: Tom Lenaghan
 date: 2019-09-19 12:47:00 Z
-published: false
 lastname: Lenaghan
 summary: 'Tom Lenaghan is a specialist in agricultural value chain and market systems
   approaches to development. '
+job-title: 'Principal Global Practice Specialist  '
 image: "/uploads/Tom%20Lenaghan.jpg"
 solutions:
 - Economic Growth
