@@ -50,4 +50,4 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 * Provided regular training on the private sector and trade and the External Investment Plan through classroom, remote, or recorded training sessions.
 * Developed the EIP in Practice e-learning modules.
 * Produced “EIP Stories” short videos.
-* Published a [FINAL Annex B European Investment in Ghana brochure.pdf](/uploads/FINAL%20Annex%20B%20European%20Investment%20in%20Ghana%20brochure.pdf) on the scope of European investment in Ghana. 
+* Published a [report](/uploads/FINAL%20Annex%20B%20European%20Investment%20in%20Ghana%20brochure.pdf) on the scope of European investment in Ghana. 
