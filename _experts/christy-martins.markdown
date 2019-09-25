@@ -8,7 +8,7 @@ summary: Christy Martins has 15 years of international development experience, f
 job-title: Project Team Director, Center for Secure and Stable States
 image: "/uploads/Christy%20Martins%20profile%20picture.jpg"
 solutions:
-- Include Primary and/or Secondary Solutions
+- Fragile States
 - Countering Extremism
 - Peace-building and State-building
 - Stability
