@@ -5,6 +5,8 @@ published: false
 summary: As USAID's flagship disaster preparedness and response program for Nepal,
   the Tayar project strengthens the capacity of Nepal’s disaster risk management and
   preparedness institutions.
+start: 2019
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Environment
