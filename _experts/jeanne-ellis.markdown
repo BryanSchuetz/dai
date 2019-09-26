@@ -1,7 +1,6 @@
 ---
 title: Jeanne Ellis
 date: 2019-09-26 20:01:00 Z
-published: false
 lastname: Ellis
 summary: Jeanne Ellis is a Director for DAI's Sustainable Business Group, where she
   manages a portfolio of projects in social impact management, local content development,
