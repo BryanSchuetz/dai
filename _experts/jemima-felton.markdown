@@ -20,7 +20,7 @@ Early in her career, Jemima worked in Caracas, Venezuela, setting up a language 
 
 Prior to joining DAI, Jemima was Director of International Training at a company that provided parliamentarians, civil servants, and regulators from around the world with off-the-shelf and tailored professional training. Leading a team of program development, commercial, and facilitation professionals, she built up the business to organize and deliver more than 50 distinct training programs in a variety of public policy fields in the United Kingdom and internationally. 
 
-Jemima has worked on exciting projects with a range of organizations, including a partnership with the United Nations Environment Programme to develop a professional training program on climate change and security designed to influence the policy-making process.
+Jemima has worked on exciting projects with a range of organizations, including in a partnership with the United Nations Environment Programme to develop a professional training program on climate change and security designed to influence the policy-making process.
 
 * M.A., international relations, Queen Mary, University of London
 * B.A., Spanish and Italian BA, University of Bristol
