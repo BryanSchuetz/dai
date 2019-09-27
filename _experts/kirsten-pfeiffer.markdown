@@ -1,7 +1,6 @@
 ---
 title: Kirsten Pfeiffer
 date: 2019-09-27 13:21:00 Z
-published: false
 lastname: Pfeiffer
 summary: Kirsten Pfeiffer leads the design and implementation of complex agriculture
   market systems and investment facilitation projects.
