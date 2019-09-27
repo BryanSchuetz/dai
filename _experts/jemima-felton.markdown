@@ -14,7 +14,7 @@ regions:
 - Worldwide
 ---
 
-Jemima is an international training professional with a strong track record of building relationships with clients from all over the world to develop learning solutions that meet their needs. At DAI’s Sustainable Business Group, she is responsible for all activities relating to capacity building and expanding the group’s training offerings.
+Jemima is an international training professional with a strong track record of building relationships with clients from all over the world to develop learning solutions that meet their needs. At DAI’s Sustainable Business Group, she is responsible for capacity building and expanding the group’s training offerings.
 
 Early in her career, Jemima worked in Caracas, Venezuela, setting up a language services business to provide translation, interpreting, and teaching services to a range of customers and gaining knowledge of how to build a business in another country.
 
