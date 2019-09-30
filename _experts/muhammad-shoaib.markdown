@@ -18,5 +18,5 @@ Muhammad Shoaib has more than 15 years of experience managing and implementing c
 
 Muhammad has served in leadership roles on programs with significant countering violent extremism and resilience components for 10 years. He led a team of more than 120 staff with two regional offices in Lahore and Karachi and main office in Islamabad.
 
-* M.A., development studies, University of Manchester* 
+* M.A., development studies, University of Manchester 
 * M.A., political science, University of Peshawar
