@@ -15,11 +15,7 @@ regions:
 
 Muhammad Shoaib has more than 15 years of experience managing and implementing complex programs in difficult operating environments across Pakistan, including seven years on small grants programs along the border areas with Afghanistan and three years of small grants program in Southern Punjab and Sindh, all funded by the U.S. Agency for International Development's Office of Transition Initiatives. 
 
-Muhammad has served in leadership roles on programs with significant CVE and resilience components for 10 years. He led a team of more than 120 staff with two regional offices in Lahore and Karachi and main office in Islamabad and a total value of USD 52 million as Acting Chief of Party on the Pakistan Expanded Regional Stabilization Initiative.
-
-Mr. Shoaib is currently leading USAID’s funded USD 42 million CVE program Community Resilience Activity with a staff of more than 130 in Southern Punjab, Karachi and Northern Sindh.
-
-Mr. Shoaib’s experience of implementing CVE, Stabilization, and conflict mitigation programming across CRA focus provinces enables him to be an effective advisor to USAID
+Muhammad has served in leadership roles on programs with significant countering violent extremism and resilience components for 10 years. He led a team of more than 120 staff with two regional offices in Lahore and Karachi and main office in Islamabad.
 
 * M.A., development studies, University of Manchester* 
 * M.A., political science, University of Peshawar
