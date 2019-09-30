@@ -12,7 +12,7 @@ Don't see the answer you're looking for below? [Send us your question][1] and we
 
 ##  What do the letters DAI stand for?
 
-DAI was incorporated in 1970 as Development Alternatives, Inc. The founders, all of whom had worked overseas in the 1960s, chose that name because they thought they could bring fresh alternatives and innovations to the way development was being done. That spirit remains essential to DAI, but over the decades we have come to be known just as often by the acronym, and in recent years for the sake of brevity and consistency we have opted to present ourselves simply as DAI.
+It is no longer correct to refer to DAI as “Development Alternatives, Inc.” When the founders incorporated the company in 1970, they chose that name because they thought they could bring fresh alternatives and innovations to the way development was being done. And that spirit remains essential to the firm. But over the decades we have come to be known by the acronym, and in recent years we have opted to present ourselves as DAI, no spelling out required. As of 2016, the formal legal name of the company is DAI Global, LLC and the correct way to refer to the company is simply as DAI.
 
 ##  What does DAI do?
 
