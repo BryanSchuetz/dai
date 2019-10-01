@@ -25,9 +25,12 @@ promos:
     **Brief**:  Enabling Access to Clean Agricultural
     Inputs and Technologies
   link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
-- title: 'Research: Increasing productivity through an innovative, individual-based
-    agricultural loan'
+- title: "**Research**: Increasing productivity through an innovative, individual-based
+    agricultural loan"
   link: "/uploads/P3634_IMPACT_survey_FINANCE_v2.pdf"
+- title: "**Research**: Formalising land rental improves productivity and benefits
+    vulnerable farmers"
+  link: "/uploads/P3634_IMPACT_survey_LAND_RENTAL_v2%5B1%5D-cefa06.pdf"
 layout: project
 ---
 
