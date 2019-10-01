@@ -17,6 +17,12 @@ country:
 promos:
 - title: "**Fast Facts**: Ethiopia LIFT"
   link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618.pdf"
+- title: "**Research**: Increasing Productivity Through an Innovative, Individual-based
+    Agricultural Loan"
+  link: "/uploads/P3634_IMPACT_survey_FINANCE_v2.pdf"
+- title: "**Research**: Formalising Land Rental Improves Productivity and Benefits
+    Vulnerable Farmers"
+  link: "/uploads/P3634_IMPACT_survey_LAND_RENTAL_v2%5B1%5D-cefa06.pdf"
 - title: "**Brief**: Formalising Land Rental Transactions"
   link: "/uploads/Ethiopia_LIFT_Land_Rental.pdf"
 - title: "**Brief**: Promoting Financial Inclusion"
@@ -25,12 +31,6 @@ promos:
     **Brief**:  Enabling Access to Clean Agricultural
     Inputs and Technologies
   link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
-- title: "**Research**: Increasing productivity through an innovative, individual-based
-    agricultural loan"
-  link: "/uploads/P3634_IMPACT_survey_FINANCE_v2.pdf"
-- title: "**Research**: Formalising land rental improves productivity and benefits
-    vulnerable farmers"
-  link: "/uploads/P3634_IMPACT_survey_LAND_RENTAL_v2%5B1%5D-cefa06.pdf"
 layout: project
 ---
 
