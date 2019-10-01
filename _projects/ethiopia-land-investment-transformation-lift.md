@@ -25,6 +25,9 @@ promos:
     **Brief**:  Enabling Access to Clean Agricultural
     Inputs and Technologies
   link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
+- title: 'Research: Increasing productivity through an innovative, individual-based
+    agricultural loan'
+  link: "/uploads/P3634_IMPACT_survey_FINANCE_v2.pdf"
 layout: project
 ---
 
