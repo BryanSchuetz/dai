@@ -1,7 +1,6 @@
 ---
 title: Luke Ryba
 date: 2019-10-02 07:40:00 Z
-published: false
 lastname: Ryba
 summary: 'Luke Ryba provides programmatic and partnership development work across
   a variety of economic growth areas. '
@@ -13,4 +12,4 @@ solutions:
 
 Luke Ryba is a Global Sector Specialist for the Economic Growth team, providing programmatic and partnership development work across a variety of economic growth areas. He has supported successful project design in array of countries, including Georgia, Kenya, Liberia, Malawi, Nigeria, Rwanda, Zambia, and Zimbabwe. He joined DAI’s Economic Growth team after nearly a year of business development work. He brings more than six years of experience working on program design primarily focused on international economic growth initiatives. Luke has a strong interest in international development finance and investment work. 
 
-* M.A., international studies, 
+* M.A., international studies, North Carolina State University
