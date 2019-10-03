@@ -2,9 +2,16 @@
 title: Ethiopia—Strengthening Host and Refugee Populations (SHARPE)
 date: 2019-10-03 11:20:00 Z
 published: false
+summary: 'SHARPE works to bring about systemic improvements in the protracted refugee
+  situation affecting three regions in Ethiopia, enabling refugees and their host
+  communities to become more economically resilient. '
 start: 2019
 end: 2022
 client: U.K. Department for International Development
+solutions:
+- Fragile States
+- Stabilization
+- Value Chain and Market Systems Development
 regions: Sub-Saharan Africa
 country: Ethiopia
 ---
