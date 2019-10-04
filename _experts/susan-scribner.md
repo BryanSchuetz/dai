@@ -4,8 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Scribner
 summary: 'Susan Scribner is DAI’s Vice President for Health Systems Solutions, with
   responsibility for health systems strengthening and global health security.  '
-job-title: Vice President, Health Systems Solutions, and Director, Preparedness &
-  Response project
+job-title: Vice President, Health Systems Solutions
 image: https://assetify-dai.com/experts/Susan%20Inner.jpg
 solutions:
 - Global Health
