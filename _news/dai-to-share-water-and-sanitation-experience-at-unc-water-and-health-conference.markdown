@@ -1,7 +1,6 @@
 ---
 title: DAI to Share Water and Sanitation Experience at UNC Water and Health Conference
 date: 2019-10-04 09:24:00 Z
-published: false
 solutions:
 - Environment
 - Water and Sanitation Services and Management
@@ -11,7 +10,7 @@ summary: 'Members of DAI’s Water, Sanitation, and Hygiene (WASH) team will par
 social-image: "/uploads/WHConference-noyear-01-e1488910497389.png"
 ---
 
-Members of DAI’s [Water, Sanitation, and Hygiene (WASH](https://www.dai.com/our-work/solutions/environment-solutions/water-and-sanitation-services-and-resource-management)) team will participate in the University of North Carolina (UNC), Chapel Hill's 2019 [Water and Health Conference: Where Science Meets Policy](https://waterinstitute.unc.edu/conferences/waterandhealth2019/) on October 7–11. DAI experts will share learning from our global work to engage with sector partners in the provision of equitable and sustainable water and sanitation services to all segments of society.
+Members of DAI’s [Water, Sanitation, and Hygiene (WASH)](https://www.dai.com/our-work/solutions/environment-solutions/water-and-sanitation-services-and-resource-management) team will participate in the University of North Carolina (UNC), Chapel Hill's 2019 [Water and Health Conference: Where Science Meets Policy](https://waterinstitute.unc.edu/conferences/waterandhealth2019/) on October 7–11. DAI experts will share learning from our global work to engage with sector partners in the provision of equitable and sustainable water and sanitation services to all segments of society.
 
 ![unc-water-health-Conference-noyear.jpg](/uploads/unc-water-health-Conference-noyear.jpg)
 
