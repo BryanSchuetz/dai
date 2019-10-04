@@ -18,15 +18,15 @@ promos:
 - title: Digital Blog
   link: https://dai-global-digital.com?utm_source=daidotcom
 - title: "**Learn More**: Digital Services"
-  link: "/uploads/cda_brochure.pdf"
+  link: "/uploads/CDA%202-pager_REV1910_10012019.pdf"
 related: false
 hero: true
 layout: solution
 ---
 
-## About the CDA
+## About the Center for Digital Acceleration (CDA)
 
-The Center for Digital Acceleration helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results. 
+The CDA helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results. 
 
 <br>
 <aside class="insights promo">
@@ -53,8 +53,8 @@ We use this foundation to support client decision-making and to build customized
 
 **[Data for Decisions](/our-work/solutions/digital-acceleration-solutions/data-for-decisions)**—CDA helps our clients transform their work through data-driven decisions, helping them identify critical data sources, and building custom spatial and statistical analysis tools. 
 
-**[Technology Research and Development](/our-work/solutions/digital-acceleration-solutions/technology-research-and-development)**—From distributed ledger applications to machine learning models, our team stays at the cutting edge of technology to support our clients as they drive sustainable social, economic, and political impact. 
+**[Technology Research and Development](/our-work/solutions/digital-acceleration-solutions/technology-research-and-development)**—From distributed ledger applications to machine-learning models, our team stays at the cutting edge of technology to support our clients as they drive sustainable social, economic, and political impact. 
 
 **[Digital Trainings](/our-work/solutions/digital-acceleration-solutions/trainings)**—New digital tools and approaches are entering the market every day. CDA helps keep teams up to date, tailoring our digital workshops to client objectives. 
 
-To learn more, download our [services overview](/uploads/cda_brochure.pdf).
+To learn more, download our [Services Overview](/uploads/CDA%202-pager_REV1910_10012019.pdf).
