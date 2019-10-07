@@ -18,6 +18,10 @@ regions:
 - Latin America and the Caribbean
 - Middle East and North Africa
 - Sub-Saharan Africa
+articles:
+- name: Philippines Increases Tax Collections by $1.1 Billion Year Over Year—Without
+    Raising Rates
+  article_file: https://dai-global-developments.com/articles/philippines-increases-tax-collections-by-11-billion-year-over-yearwithout-raising-rates
 layout: expert
 ---
 
