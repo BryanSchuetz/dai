@@ -13,11 +13,11 @@ solutions:
 - Public Financial Management
 - 
 regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
-- Middle East and North Africa
-- Sub-Saharan Africa
+- 
+- 
+- 
+- 
+- 
 articles:
 - name: Philippines Increases Tax Collections by $1.1 Billion Year Over Year—Without
     Raising Rates
