@@ -56,7 +56,7 @@ Tel: +44 (0) 203 943 3216<br>
 </p>
     <p><strong>Brussels, Belgium</strong>
     <br>
-    Avenue d'Yser, 4<br>
+    Avenue de l'Yser, 4<br>
     1040 Brussels<br>
     Tel: 0032 2 7420290<br>
     <a href="mailto:brusselsinfo@dai.com">Email</a></p>

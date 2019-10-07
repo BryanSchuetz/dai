@@ -1,9 +1,9 @@
 ---
 title: Tayar Nepal—Improved Disaster Risk Management Project (Tayar)
-date: 2019-08-26 18:32:00 Z
-published: false
-summary: Tayar—which means “prepare”—strengthens the capacity of Nepal’s disaster
-  risk management and preparedness institutions.
+date: 2019-09-25 13:47:00 Z
+summary: As USAID's flagship disaster preparedness and response program for Nepal,
+  the Tayar project strengthens the capacity of Nepal’s disaster risk management and
+  preparedness institutions.
 start: 2019
 end: 2024
 client: U.S. Agency for International Development
@@ -19,14 +19,11 @@ Tayar—which means “prepare”—strengthens the capacity of Nepal’s disast
 
 In the event of a disaster during the course of the project, Tayar will engage the program’s rapid emergency response mechanism. The team will work closely with the Government of Nepal and Nepali emergency responders to mobilize technical assistance, commodity support, small-scale infrastructure, and information management support. Through its Stronger Systems + Safer Settlements Approach, Tayar will apply lessons learned from disaster response efforts to improve national systems and municipal risk-reduction activities.
 
-![Tayar Nepal.jpg](/uploads/Tayar%20Nepal.jpg)
+![Tayar Nepal-bc5c3d.jpg](/uploads/Tayar%20Nepal-bc5c3d.jpg)
 
 **Sample Activities:**
 
 * Support NDMA to become a fully functioning government entity with the necessary policies and procedures, staff capacity, and resources to achieve its mandate for national disaster risk management (DRM).
-
 * Help at least 10 provincial and municipal government entities adopt DRM policies and procedures based on newly developed national-level models for DRM coordination mechanisms and policies.
-
 * Increase the capacity of more than 1,000 people responsible for DRM through Tayar training sessions, simulations, certificate programs, study tours, and mentorship opportunities—50 percent of them women and/or members of socially excluded groups. 
-
 * Work with at least 10 municipal government or private sector entities to invest in disaster mitigation and recovery actions to match Tayar interventions, with a target total of $2 million. 

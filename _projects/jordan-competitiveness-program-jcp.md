@@ -33,7 +33,7 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 
 ###  Sample Activities
 
-* [Position Jordanian clusters](http://dai-global-developments.com/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan/) within global value chains.
+* [Position Jordanian clusters](http://dai-global-developments.com/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan) within global value chains.
 * Create [jobs for young people](https://www.jordancompetitiveness.org/stories/2018/5/13/video-with-usaid-support-oasis500-a-homegrown-seed-investor-looks-for-the-next-big-idea) and women, in and outside of Amman.
 * Lead the Project Management Unit of the Jordan Compact—see above.
 
@@ -46,7 +46,7 @@ In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact
 * Launched National Home Care Initiative with the King Hussein Cancer Center to advance the home care services industry and create an expected 1,800 jobs beyond the life of JCP.
 * Streamlined the Drug Registration Process to greatly reduce the time for private-sector [pharmaceutical manufacturers](https://www.youtube.com/watch?v=uOibo0juvbA&feature=youtu.be) to have a new drug approved for sale; each new drug creates 16 jobs and $1 million in sales revenue.
 * Supported region's first Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
-* Supported the [electric vehicle industry](https://www.youtube.com/watch?v=0DKmx1WV33o)—from drafting and helping pass the regulation needed to [capture and sell solar-generated electricity](http://dai-global-developments.com/articles/jordan-embraces-renewables-to-fuel-its-economy/) at charging stations, to negotiating the partnerships that enabled private-sector investment in those stations. Jordan went from a country with no electric vehicles to a market that now includes Tesla, Nissan, BMW, Mercedes, among others.
+* Supported the [electric vehicle industry](https://www.youtube.com/watch?v=0DKmx1WV33o)—from drafting and helping pass the regulation needed to [capture and sell solar-generated electricity](http://dai-global-developments.com/articles/jordan-embraces-renewables-to-fuel-its-economy) at charging stations, to negotiating the partnerships that enabled private-sector investment in those stations. Jordan went from a country with no electric vehicles to a market that now includes Tesla, Nissan, BMW, Mercedes, among others.
 * Supporting Jordan Education for Employment to place 750 college graduates, 53 percent of whom were women.
 * Struck [groundbreaking partnerships](https://www.youtube.com/watch?v=PkX9Olh6d2A&feature=youtu.be) with ICT firms such as Microsoft and Intel, to expand within the country.
 

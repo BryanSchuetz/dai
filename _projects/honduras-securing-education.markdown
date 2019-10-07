@@ -20,7 +20,7 @@ promos:
   link: "/uploads/honduras-abreviated.pdf"
 ---
 
-A major impediment to Honduran students’ success is violence in and around schools, which can lead to life-long negative behavior that impacts Honduran society and beyond. Preventing SBV is critical to enabling at-risk youth to stay in school, contributing to better academic outcomes, improved lives, reduced crime, and stronger communities.
+A major impediment to Honduran students’ success is violence in and around schools, which can lead to life-long negative behavior that impacts Honduran society and beyond. Preventing that violence is critical to enabling at-risk youth to [stay in school](https://dai-global-developments.com/articles/safe-learning-spaces-in-honduras-curb-undocumented-migration), contributing to better academic outcomes, improved lives, reduced crime, and stronger communities.
 
 The Asegurando la Educación (Securing Education) program, funded by the U.S. Agency for International Development (USAID), is helping 115 schools establish cultures of nonviolence, inclusion, and respect. The project [partners]((https://eccnetwork.net/peer-violence-bullying/)) with education systems and communities in target municipalities to make schools safer for students and teachers while empowering schools to play a larger role in [decreasing community violence](https://www.baselgovernance.org/blog/el-salvadors-rule-law-election-deserves-our-support-heres-how).
 
@@ -40,7 +40,7 @@ The Asegurando la Educación (Securing Education) program, funded by the U.S. Ag
 * Designed and delivered “Educators for Peace” professional development for more than 3,000 teachers from 115 target schools working in contexts of crisis; partnered with National Pedagogical University to work on incorporating “Educators for Peace” into pre-service training.
 * Designed and implemented a sports-based, social-emotional learning program, training physical education teachers to deliver it in 80 schools; the Ministry of Education is adopting the program for potential expansion into hundreds of schools.  
 * Recruited and trained 120 university students to serve as Fellows and conduct violence prevention activities.
-* “Safe Learning Spaces” initiative in just one year increased the percentage of schools that retain full (initial to final) enrollment from 35 to 52 percent.
+* “[Safe Learning Spaces](https://dai-global-developments.com/articles/safe-learning-spaces-in-honduras-curb-undocumented-migration)” initiative in just one year increased the percentage of schools that retain full (initial to final) enrollment from 35 to 52 percent.
 * 47 percent of teachers report a new understanding, interpretation, and approach to addressing conflict with students; 16 percent expressed improved relations with parents regarding conflict.
 * Local businesses have contributed cash, refreshments, student desks, and even medical screenings to schools, while other businesses have hosted 1,500 students from high-risk neighborhoods to learn about jobs available to graduates.
 * 87.5 percent of high-risk students completed the pilot cognitive behavioral therapy program, with teachers, parents, and the students themselves reporting improved behaviors and academic performance.

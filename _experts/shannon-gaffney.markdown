@@ -1,6 +1,7 @@
 ---
 title: Shannon Gaffney
 date: 2019-09-13 14:48:00 Z
+published: false
 lastname: Gaffney
 summary: 'Shannon Gaffney is a trade expert with 15 years of experience, specializing
   in trade data analysis; enterprise and value chain development; trade promotion;

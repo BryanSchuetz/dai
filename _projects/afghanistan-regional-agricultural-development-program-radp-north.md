@@ -2,7 +2,7 @@
 title: Afghanistan—Regional Agricultural Development Program (RADP–North)
 date: 2016-01-21 22:40:00 Z
 summary: Through partnerships with USAID, Afghan Government agencies, and myriad development
-  projects focused on stability, infrastructure, and agriculture, RADP-North leverages
+  projects focused on stability, infrastructure, and agriculture, RADP-North leveraged
   investments in agricultural value chains to optimize cost-effectiveness and incorporate
   lessons learned.
 start: 2014
@@ -29,6 +29,7 @@ RADP-North worked in the provinces of Badakhshan, Baghlan, Balkh, Jawzjan, Kundu
 ![RADP-North-web-page.jpg](/uploads/RADP-North-web-page.jpg)`Two-wheel tractor reaping demonstration in Balkh district.`
 
 ### Sample Activities
+
 * Introduce laser land-leveling, certified seed, and mechanized seeding, fertilizing, and harvesting where farmland was being used inefficiently.
 * Introduce diverse, high-value crops for increased sales, exports, and improved nutrition.
 * Assist women to establish kitchen gardens to improve household nutrition and provide income.
@@ -40,4 +41,4 @@ RADP-North worked in the provinces of Badakhshan, Baghlan, Balkh, Jawzjan, Kundu
 * $28 million of confirmed sales and $20 million in follow-up orders for dried fruit and nuts through beneficiaries’ attendance at trade shows.
 * $8.3 million in increased profits by partner agribusinesses.
 * $10.7 million in increased value of livestock through reduced mortality, increased reproduction, and increased sale of animal by-products.
-* Nearly 20,000 women trained in nutrition and more than 7,700 kitchen gardens supported, empowering women to improve household nutrition, disseminate nutrition principles, reduce child diarrhea, and prevent anemia.
+* Nearly 20,000 women trained in nutrition and more than 7,700 kitchen gardens supported, empowering women to [improve household nutrition](https://www.agrilinks.org/post/local-flavors-kitchen-gardens-reduce-malnutrition-local-ownership-makes-them-sustainable), disseminate nutrition principles, reduce child diarrhea, and prevent anemia.

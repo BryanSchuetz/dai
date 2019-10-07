@@ -152,7 +152,7 @@ DAI leads customized courses upon request for private sector or government clien
 * Led and facilitated the first Kenya Local Content Exchange, one of a three-part series that brings together public, private, and civil stakeholders from Kenya's petroleum sector to facilitate discussion and create a deeper understanding of local content issues in the country
 * Led workshops covering the fundamentals of oil and gas and local content, aimed at providing the Senegalese media with the foundational knowledge to effectively report on developments within the sector
 
-**Zachary Kaplan—Senior Director, Sustainable Business Group**
+**Zachary Kaplan—Vice President, Sustainable Business Group**
 
 ![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
 

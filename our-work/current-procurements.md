@@ -12,7 +12,6 @@ Listed below are current solicitations. To view additional information regarding
 
 * [RFP-CTJ-ALA-19-0007: Geographic Information System (GIS) portal development](/uploads/RFP-CTJ-ALA-19-0007%20-%20GIS%20portal%20development.pdf)
 * [RFP-CTJ-UZB-19-0001: Procurement of hot air convectional drying chambers and fruit/vegetable cutting equipment](/uploads/Eng-Rus%20Fruit%20Drying%20Equipment%20RFP.pdf)
-* [No. EOI-SATIH-PRE-001 Increasing Investment through Capital Advisory and Investment Facilitation](/uploads/Co-creation%20Req%20for%20EOIsCapital%20Advisory%20Services.pdf)
-* [RFP No. CTJ-US-001 Workplan Facilitator](/uploads/CTJ%20RFP-%20Workshop%20Facilitation%20and%20Workplan%20Support%20GW%20edits.pdf)
-* [RFP_IQC_Regional Analytical & Strategic Services in Southeast Asia](/uploads/RFP_IQC_Regional%20Analytical%20&%20Strategic%20Services%20in%20Southeast%20Asia.pdf)
-* [Q&A_RFP_IQC_Regional Analytical & Strategic Services in Southeast Asia](/uploads/Q&A_RFP-PROS-JKT-19-0001.pdf)
+* [2019-09-14 RFP-DAI-IGPA-19-0136 Water Directorate Asset Documentation and Customer Survey](/uploads/2019-09-14%20RFP-DAI-IGPA-19-0136%20Water%20Directorate%20Asset%20Documentation%20and%20Customer%20Survey%20updated.pdf)
+* [RFP-DAI-IGPA-19-0132 - Tender for Landfill Rehabilitation](/uploads/RFP-DAI-IGPA-19-0132%20-%20Tender%20for%20Landfill%20Rehabilitation.pdf)
+* [RFP-DAI-IGPA-19-0135 - Tender for Mega Water Plants Rehabilitation & SoPs](/uploads/RFP-DAI-IGPA-19-0135%20-%20Tender%20for%20Mega%20Water%20Plants%20Rehabilitation%20&%20SoPs.pdf)
