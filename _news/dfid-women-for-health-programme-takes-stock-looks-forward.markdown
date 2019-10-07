@@ -10,7 +10,7 @@ summary: 'The U.K. Department for International Development’s Women for Health
   (W4H) has published a new report reflecting on the progress and lessons learned
   over seven years of improving women’s health and supporting women health workers
   in northern parts of Nigeria where female nurses and midwives are desperately needed. '
-social-image: "/uploads/COVER-9e7dac.jpg"
+social-image: "/uploads/social-f52577.jpg"
 ---
 
 The U.K. Department for International Development’s [Women for Health Programme (W4H)](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h) has published a new report reflecting on the progress and lessons learned over seven years of improving women’s health and supporting women health workers in northern parts of Nigeria where female nurses and midwives are desperately needed. 
