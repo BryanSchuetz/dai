@@ -1,7 +1,6 @@
 ---
 title: DFID Women for Health Programme Takes Stock, Looks Forward
 date: 2019-10-07 10:12:00 Z
-published: false
 solutions:
 - Global Health
 regions: Sub-Saharan Africa
@@ -11,11 +10,14 @@ summary: 'The U.K. Department for International Development’s Women for Health
   (W4H) has published a new report reflecting on the progress and lessons learned
   over seven years of improving women’s health and supporting women health workers
   in northern parts of Nigeria where female nurses and midwives are desperately needed. '
+social-image: "/uploads/COVER-9e7dac.jpg"
 ---
 
 The U.K. Department for International Development’s [Women for Health Programme (W4H)](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h) has published a new report reflecting on the progress and lessons learned over seven years of improving women’s health and supporting women health workers in northern parts of Nigeria where female nurses and midwives are desperately needed. 
 
 *[Women for Health: The Journey](https://www.dai.com/resource-library?keywords=Women%20for%20Health)* charts the evolution of the W4H programme in six states of Northern Nigeria, including the transformation of health training schools and the expansion of access to education for rural women who dream of becoming nurses and midwives to support their communities. 
+
+![COVER.jpg](/uploads/COVER.jpg){:.float-left}
 
 “This report focuses on W4H’s concrete achievements with an emphasis on the factors critical to success,” said Team Lead [Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu). “It builds on the lessons learned over many years of implementation to lay out the next steps in our journey as we look to scale future initiatives in this important area.”
 
