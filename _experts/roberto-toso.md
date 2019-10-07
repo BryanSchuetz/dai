@@ -8,16 +8,8 @@ summary: Roberto Toso is a senior economist with more than 25 years of internati
 job-title: Senior Economist, Public Financial Management
 image: https://assetify-dai.com/experts/TosoInner.jpg
 solutions:
-- Economic Growth
 - Governance
 - Public Financial Management
-- 
-regions:
-- 
-- 
-- 
-- 
-- 
 articles:
 - name: Philippines Increases Tax Collections by $1.1 Billion Year Over Year—Without
     Raising Rates
