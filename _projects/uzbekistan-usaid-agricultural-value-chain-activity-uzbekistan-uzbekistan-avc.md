@@ -1,6 +1,5 @@
 ---
-title: Uzbekistan—USAID Agricultural Value Chain Activity in Uzbekistan (Uzbekistan
-  AVC)
+title: Uzbekistan—USAID Agricultural Value Chain Activity (Uzbekistan AVC)
 date: 2016-01-21 22:40:00 Z
 summary: Uzbekistan AVC works to [improve the quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1)
   and volume of agricultural production and post-harvest handling and production,
