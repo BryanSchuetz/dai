@@ -99,7 +99,7 @@
   <p><span style='background:#ACD7A6;'></span><label>Countries with previous DAI projects</label></p>
   <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to list all active projects</label></p>
   <hr>
-  <nav id="menu"><p><strong>Toggle Layers</strong></p></nav>
+  <nav id="menu"><p><strong>Toggle Layer</strong></p></nav>
 </div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
@@ -122,9 +122,6 @@ map.on('load', function(){
   // map.setLayoutProperty(['EC'], 'visibility', 'visible');
 });
 toggleLayer(['HCD'], 'HCD');
-toggleLayer(['USAID'], 'USAID');
-toggleLayer(['DFID'], 'DFID');
-toggleLayer(['EU Donors'], 'European');
 
 function toggleLayer(ids, name) {
     var link = document.createElement('a');
@@ -143,9 +140,6 @@ function toggleLayer(ids, name) {
                 this.className = '';
             } else {
                 map.setLayoutProperty(['HCD'], 'visibility', 'none');
-                map.setLayoutProperty(['USAID'], 'visibility', 'none');
-                map.setLayoutProperty(['DFID'], 'visibility', 'none');
-                map.setLayoutProperty(['EU Donors'], 'visibility', 'none');
                 this.className = 'active';
                 map.setLayoutProperty(ids[layers], 'visibility', 'visible');
             }
