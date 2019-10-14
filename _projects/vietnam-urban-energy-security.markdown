@@ -16,3 +16,7 @@ country: Vietnam
 ---
 
 The Vietnam Urban Energy Security project promotes the deployment in urban centers of 400 megawatts worth of advanced distributed energy technologies, ranging from solar panels and storage batteries to energy-efficient vehicles. DAI will be raising at least $600 million, from private and public sources to meet the project’s energy goals.
+
+![vietnam.jpg](/uploads/vietnam.jpg)
+
+### Sample Activities 
