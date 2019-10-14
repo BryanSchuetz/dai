@@ -7,7 +7,7 @@ summary: 'An innovation and investment specialist, Nora is an expert in designin
   a variety of clients, notably the U.S. Agency for International Development (USAID)
   and the International Finance Corporation (IFC). '
 job-title: Chief of Party, Vietnam Urban Energy Security
-image: "/uploads/Nora%20Brown%202019.jpg"
+image: "/uploads/Nora%20Brown%202019-766c5d.jpg"
 solutions:
 - Environment
 - Energy
