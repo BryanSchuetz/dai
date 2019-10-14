@@ -21,4 +21,3 @@ The U.K. Department for International Development is keen to advance thinking in
 Through the innovative use of the market systems development process, SHARPE works to bring about systemic improvements in the protracted refugee situation affecting three regions in Ethiopia, enabling refugees and their host communities to become more economically resilient. 
 
 DAI’s consortium partners include International Rescue Committee, First Consult, and Market Share Associates.
-  
