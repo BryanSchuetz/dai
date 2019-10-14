@@ -26,5 +26,11 @@ CEC supports Peru's problem-solvers to work more effectively as catalysts, conve
 
 Taking a local systems approach, DAI will ensure that CEC leaves behind strong environmental monitoring and enforcement capabilities; better, more widespread understanding of the shared value of natural resources and the extensive costs—economic, ecological, cultural, and security-related—of their degradation; clearer, reinforced linkages demonstrating that effective environmental justice leads to tangible economic and social benefits for all Peruvians; and an environmental justice system that more fully engages and represents the interests, capabilities, and contributions of women and indigenous communities.
 
+![ABCLA Photo large.JPG](/uploads/ABCLA%20Photo%20large.JPG)
+
 ### Sample Activities
 
+* Develop and promote a national framework on environmental crimes.
+* Implement capacity-building plan for justice sector operators and collaborating administrative agencies.
+* Build monitoring and reporting capabilities in and around protected areas.
+* Leverage private sector resources to support artisanal and small-scale gold mining formalization efforts and timber traceability.
