@@ -24,4 +24,5 @@ An accomplished project manager, Nora previously served as a Strategic Investmen
  
 Prior to working in the international development sector, Nora worked in finance managing investment portfolios of private clients for UBS.
  
-* B.A., international studies, Johns Hopkins University * M.A., international relations and economics, Johns Hopkins School of Advanced International Studies
+* B.A., international studies, Johns Hopkins University
+* M.A., international relations and economics, Johns Hopkins School of Advanced International Studies
