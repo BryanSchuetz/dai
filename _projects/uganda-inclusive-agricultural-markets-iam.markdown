@@ -1,7 +1,6 @@
 ---
 title: Uganda—Inclusive Agricultural Markets (IAM)
 date: 2019-10-15 07:27:00 Z
-published: false
 summary: The Uganda Inclusive Agricultural Markets Activity works to increase incomes
   and improve livelihoods by promoting agriculture-led economic growth.
 start: 2019
