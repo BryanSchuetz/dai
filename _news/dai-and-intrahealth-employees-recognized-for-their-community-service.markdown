@@ -1,7 +1,6 @@
 ---
 title: DAI and IntraHealth Employees Recognized for Their Community Service
 date: 2019-10-14 08:02:00 Z
-published: false
 summary: DAI is delighted to announce the winners of this year’s David H. Gunning
   Award for Community Service. They are Joanne Symons, who works on the Strengthening
   Democratic Governance and Accountability Project in Sri Lanka, and Najalynn Caraway,
