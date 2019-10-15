@@ -28,4 +28,4 @@ Inclusivity lies at the heart of the Activity. IAM focuses on strengthening the 
 * Engage rural communities to adopt tech-based initiatives and support Uganda’s digital transformation through challenge-driven accelerators.
 * Support firms to commercialize new varieties, especially climate-smart varieties.
 * Strengthen advocacy of private firms in engaging with local government by improving enforcement of ordinances, improving budgeting for vital government activities, and providing input on district and regional development plans.
-* Identify private partners that are willing and able to invest in changing behavior, in increasing competitiveness, and in testing innovative business DSM, strategies to increase inclusiveness of marginalized groups.
+* Identify private partners that are willing and able to invest in changing behavior, in increasing competitiveness, and in testing innovative business strategies to increase inclusiveness of marginalized groups.
