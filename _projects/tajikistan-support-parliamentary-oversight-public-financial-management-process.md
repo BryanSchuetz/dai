@@ -24,6 +24,10 @@ DAI manages a local team partly comprised of the Parliament's Economics and Fina
 
 ### Sample Activities
 
-* Support access by parliamentarians and their staff to high-quality training and evidence-based research.
-* Raise awareness on public finance management and develop mechanisms for parliamentary outreach.
-* Support broader engagement by DFID and the World Bank with the Tajik government on financial oversight and revenue management.
+* Support the institutionalization of a committee hearings process, both on the national budget and on specific sectoral priorities and their financing requirements.
+* Help establish constituency outreach meetings and public field hearings in various regions of Tajikistan, linking service delivery needs to the national budget.
+* Provide technical assistance to develop parliamentary questions to enhance the legislature’s function in holding government to account on these issues.
+
+### Select Results
+
+* Contributed to amendments made in February 2018 to Tajikistan’s Tax Code that will improve the tax administration processes, leading to a more equitable treatment of individual taxpayers, and reduce corruption.
