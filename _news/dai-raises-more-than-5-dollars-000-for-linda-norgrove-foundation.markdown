@@ -1,7 +1,6 @@
 ---
 title: DAI Raises $5,000 for Linda Norgrove Foundation
 date: 2019-10-17 14:34:00 Z
-published: false
 summary: DAI hosted four fundraising events this month for the Linda Norgrove Foundation,
   a grant-giving trust that provides funding for women, families, and children in
   Afghanistan, focusing on education, health, childcare, and scholarships to help
