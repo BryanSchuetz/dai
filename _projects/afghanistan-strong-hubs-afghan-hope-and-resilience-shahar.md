@@ -37,7 +37,8 @@ Afghanistan's municipal governments are not performing at the level they must to
 * Municipalities successfully bid out and completed 14 projects worth $1.25 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
 * Operationalized Citizen Service Centers in 10 municipalities, which provide one-stop service for paying taxes and fees, registering properties and businesses, and asking questions.
 * Instituted Integrated Financial Management Systems in 13 municipalities.
-* Established Municipal Advisory Boards of citizens in 19 of 20 partner municipalities.         
+* Established Municipal Advisory Boards of citizens in 19 of 20 partner municipalities. 
+* Piloted a street addressing and [house-numbering project](https://www.usaid.gov/news-information/news/street-addressing-saves-business-herat) in district four of the city of Herat, making neighborhoods safer and more professional.        
 
 [1]: https://assetify-dai.com/projects/SHAHAR.jpg
 
