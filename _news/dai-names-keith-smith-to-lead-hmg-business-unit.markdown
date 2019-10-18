@@ -8,7 +8,7 @@ DAI has named Keith Smith to lead its HMG Business Unit, which focuses on delive
 
 Smith, who currently serves as the unit’s Commercial Director, will assume his new role as Senior Vice President effective October 21. 
 
-![KeithSmith1Inner.jpg](/uploads/KeithSmith1Inner.jpg)
+![KeithSmith1Inner.jpg](/uploads/KeithSmith1Inner.jpg){:.float-left} 
 
 “I’m very proud to take on this leadership position in service of our British government clients,” said Smith. “DAI has a long and distinguished history of supplying technically innovative and cost-competitive project management solutions for HMG customers, and doing so in an ethically rigorous way that keeps our development mission front and center. My goal is to build on that record and usher in the next phase of growth for DAI here in the United Kingdom.”
 
