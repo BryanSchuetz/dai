@@ -6,7 +6,7 @@ summary: 'DAI has named Keith Smith to lead its HMG Business Unit, which focuses
   delivering UKAID and implementing bilateral development investments for Her Majesty’s
   Government, principally the U.K. Department for International Development (DFID)
   and the Foreign and Commonwealth Office. '
-social-image: "/uploads/KeithSmith1Inner-25962c.jpg"
+social-image: "/uploads/KeithSmith%20sm.jpg"
 ---
 
 DAI has named [Keith Smith](https://www.dai.com/who-we-are/our-team/keith-smith) to lead its HMG Business Unit, which focuses on delivering UKAID and implementing bilateral development investments for Her Majesty’s Government, principally the U.K. Department for International Development (DFID) and the Foreign and Commonwealth Office. 
