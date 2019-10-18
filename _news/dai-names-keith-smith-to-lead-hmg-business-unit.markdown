@@ -5,6 +5,8 @@ date: 2019-10-18 12:00:00 Z
 
 DAI has named Keith Smith to lead its HMG Business Unit, which focuses on delivering UKAID and implementing bilateral development investments for Her Majesty’s Government, principally the U.K. Department for International Development (DFID) and the Foreign and Commonwealth Office. 
 
+<!--more-->
+
 Smith, who currently serves as the unit’s Commercial Director, will assume his new role as Senior Vice President effective October 21. 
 
 ![KeithSmith1Inner.jpg](/uploads/KeithSmith1Inner.jpg){:.float-left} 
