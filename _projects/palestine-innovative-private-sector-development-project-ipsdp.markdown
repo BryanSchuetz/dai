@@ -1,7 +1,6 @@
 ---
 title: Palestine—Innovative Private Sector Development Project (IPSDP)
 date: 2019-10-14 07:56:00 Z
-published: false
 summary: The Innovative Private Sector Development Project (IPSDP) develops entrepreneurship
   and expands economic opportunity in the Palestinian Territories.
 start: 2019
