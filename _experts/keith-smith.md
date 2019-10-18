@@ -1,10 +1,11 @@
 ---
 title: Keith Smith
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Smith
-summary: Keith Smith has managed a range of development programmes focused on infrastructure,
-  agriculture, health, reintegration of ex-combatants, grants management, and governance.
+summary: 'Keith Smith leads HMG Business Unit, which focuses on delivering UKAID and
+  implementing bilateral development investments for Her Majesty’s Government, principally
+  the U.K. Department for International Development (DFID) and the Foreign and Commonwealth
+  Office.  '
 job-title: Senior Vice President, HMG Business Unit
 image: https://assetify-dai.com/experts/KeithSmith1Inner.jpg
 solutions:
@@ -18,6 +19,12 @@ regions:
 layout: expert
 ---
 
-A former aircraft engineer, Keith Smith is an experienced development professional who has worked over the past 15 years in Africa, Asia, and Europe. He has managed a range of development programmes focused on infrastructure, agriculture, health, reintegration of ex-combatants, grants management, and governance. His strengths are in team leadership and programme management, both at the field and corporate level. Within DAI he initially worked as Economic Integration Manager on the U.S. Agency for International Development (USAID)-funded Liberia Community Infrastructure Programme, where he eventually served as Deputy Chief of Party and acting Chief of Party. From there he moved to be Regional Programme Manager for a USAID Sri Lankan community infrastructure programme, supporting the peace process and tsunami recovery. In 2008, he became Chief of Party on USAID's Federally Administered Tribal Areas Capacity Building Programme before, in 2010, moving back to the United Kingdom to be DAI's technical advisor in the areas of post conflict and project management. Building on his field experience in challenging environments, Keith currently has overall responsibility for the U.K. Department for International Development-funded Transforming Education project in Pakistan; Support to FLEGT Voluntary Partnership Agreement in Liberia; Land Investment Transformation Programme in Ethiopia; and the M&E, Environmental and Social Management/Maintenance of Roads in DRC Phase II.
+Keith Smith leads HMG Business Unit, which focuses on delivering UKAID and implementing bilateral development investments for Her Majesty’s Government, principally the U.K. Department for International Development (DFID) and the Foreign and Commonwealth Office.  
+
+Keith began his 20-year career in international development with assignments in Kosovo, Liberia, Macedonia, and Sierra Leone. He has managed programmes focused on infrastructure, agriculture, health, the reintegration of ex-combatants, grants management, and governance. 
+
+Keith took on his first project leadership position with the DFID- and U.S. Agency for International Development (USAID)-funded Liberia Community Infrastructure Project. He went on to lead successful USAID programming in challenging, fragile contexts in Sri Lanka and Pakistan, including from 2008 managing 150 local and expat professionals focused on building governance capacity in what was then Pakistan’s Federally Administered Tribal Areas.
+
+Returning to DAI’s U.K. headquarters in 2010, Keith worked extensively in DFID programme management and took on the mandate to strengthen DAI’s project delivery across the board. In 2016, he was appointed DAI’s first Commercial Director for its U.K. and European Commission businesses, professionalizing a broad range of pricing, contractual, and legal functions, and playing a central role in consolidating the firm’s supplier relationship with DFID, in particular.
 
 * B.Sc., international disaster engineering and management, University of Coventry
