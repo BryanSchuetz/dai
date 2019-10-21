@@ -18,8 +18,6 @@ The Innovative Private Sector Development Project (IPSDP) develops entrepreneurs
 
 The project team works closely with the Ministry of National Economy.
  
-![ispd.jpg](/uploads/ispd.jpg)
-
 ### Sample Activities
 
 * Improve market linkages to Arab communities in regional entrepreneurship ecosystems. 
