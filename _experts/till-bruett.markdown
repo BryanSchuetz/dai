@@ -5,6 +5,7 @@ published: false
 lastname: Bruett
 summary: Till Bruett has more than 25 years of experience in the financial sector
   including commercial banking, microfinance, and digital finance.
+job-title: Senior Principal Global Practice Leader
 image: "/uploads/Till%20Bruett%20headshot.jpg"
 ---
 
