@@ -1,7 +1,6 @@
 ---
 title: Till Bruett
 date: 2019-10-23 13:51:00 Z
-published: false
 lastname: Bruett
 summary: Till Bruett has more than 25 years of experience in the financial sector
   including commercial banking, microfinance, and digital finance.
