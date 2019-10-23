@@ -20,7 +20,7 @@ social-image: "/uploads/zambia2.png"
 
 Research from a project in Zambia supported by DAI Global Health along with consortium partners Development Data, Disacare, and Transaid International has confirmed that a pre-referral treatment by community health volunteers can increase survival rates for children with severe malaria. 
 
-The World Health Organization (WHO) published in September [findings](https://www.who.int/bulletin/online_first/BLT.19.231506.pdf)from a 12-month pilot study funded by the [Medicines for Malaria](https://www.mmv.org/) (MMV) in Zambia: the [MAMaZ Against Malaria](https://www.dai.com/our-work/projects/zambia-mamaz-against-malaria) (MAM) initiative. Results show that the intervention helped reduce mortality rates for children under five with severe malaria by more than 90 percent. 
+The World Health Organization (WHO) published in September [findings](https://www.who.int/bulletin/online_first/BLT.19.231506.pdf) from a 12-month pilot study funded by the [Medicines for Malaria](https://www.mmv.org/) (MMV) in Zambia: the [MAMaZ Against Malaria](https://www.dai.com/our-work/projects/zambia-mamaz-against-malaria) (MAM) initiative. Results show that the intervention helped reduce mortality rates for children under five with severe malaria by more than 90 percent. 
 
 ![Zambia1.png](/uploads/Zambia1.png)
 
