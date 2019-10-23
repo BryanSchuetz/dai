@@ -36,7 +36,7 @@ While the WHO has encouraged use of RAS for more than 10 years, countries like Z
 
 MAM tested these interventions with a pilot project in Sereneje District between 2017 and 2018. The study surveyed health facilities, volunteers, and bicycle ambulance riders at the beginning and end of this period. Researchers also collected data on severe malaria cases and deaths from participating health facilities and a community monitoring system. 
 
-![zambia2.png](/uploads/zambia2.png)
+![zambia2.png](/uploads/zambia2.png)`Rabbecca Chisenga, an emergency transport rider and community health volunteer.` 
 
 The results were clear: in the previous year, 18 out of 224 children under five identified with severe malaria had died in the district (an 8 percent mortality rate). In the first year of the MAM pilot, only 3 of 618 comparable children with malaria passed away (0.5 percent mortality). 
 
