@@ -22,7 +22,7 @@ Research from a project in Zambia supported by DAI Global Health along with cons
 
 The World Health Organization (WHO) published in September [findings](https://www.who.int/bulletin/online_first/BLT.19.231506.pdf) from a 12-month pilot study funded by the [Medicines for Malaria](https://www.mmv.org/) (MMV) in Zambia: the [MAMaZ Against Malaria](https://www.dai.com/our-work/projects/zambia-mamaz-against-malaria) (MAM) initiative. Results show that the intervention helped reduce mortality rates for children under five with severe malaria by more than 90 percent. 
 
-![Zambia1.png](/uploads/Zambia1.png)
+![Zambia1.png](/uploads/Zambia1.png)`Photo: MAMaZ Against Malaria`
 
 Worldwide, malaria deaths are down 60 percent over recent decades, but progress has stalled in some countries. Children under five now account for most deaths. The fates of severe malaria patients who don’t make it to a healthcare facility are especially dire—90 percent do not survive. 
 
@@ -36,7 +36,7 @@ While the WHO has encouraged use of RAS for more than 10 years, countries like Z
 
 MAM tested these interventions with a pilot project in Sereneje District between 2017 and 2018. The study surveyed health facilities, volunteers, and bicycle ambulance riders at the beginning and end of this period. Researchers also collected data on severe malaria cases and deaths from participating health facilities and a community monitoring system. 
 
-![zambia2.png](/uploads/zambia2.png)`Rabbecca Chisenga, an emergency transport rider and community health volunteer.` 
+![zambia2.png](/uploads/zambia2.png)`Rabbecca Chisenga, an emergency transport rider and community health volunteer. Photo via MAMaZ Against Malaria.` 
 
 The results were clear: in the previous year, 18 out of 224 children under five identified with severe malaria had died in the district (an 8 percent mortality rate). In the first year of the MAM pilot, only 3 of 618 comparable children with malaria passed away (0.5 percent mortality). 
 
@@ -44,7 +44,7 @@ Critical to these lifesaving efforts were 543 community health volunteers traine
 
 The total number of malaria cases in adults and children recorded by Zambia’s Health Management Information System during peak malaria season was 16 percent lower than the preceding year. At the same time, the number of cases reported for children under age five increased by 15 percent, suggesting better identification and treatment of the disease.
 
-![zambia3.png](/uploads/zambia3.png)
+![zambia3.png](/uploads/zambia3.png)`Photo: MAMaZ Against Malaria`
 
 “These promising results show that providing pre-referral RAS to children with severe malaria can prevent deaths—and that, with adequate training, community health volunteers are capable providers of this service in a rural, under-resourced context,” said DAI’s [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley), one of the study’s co-authors.
   
