@@ -22,5 +22,5 @@ Till started and led the digital finance work at the United Nations Capital Deve
 
 Till was a banker in the early 1990s, working as a credit analyst and client manager with Chemical Bank’s international division in New York. In 1996 he crossed over to development when he joined FINCA International helping to set up and fund microfinance institutions. Till taught regularly at Georgetown University and was an adjunct professor at Johns Hopkins School of Advanced International Studies (SAIS) from 2005 to 2008.
 
-* B.A., Duke University
+* B.A., political science, Duke University
 * M.A., SAIS 
