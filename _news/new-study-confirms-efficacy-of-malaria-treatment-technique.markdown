@@ -1,7 +1,6 @@
 ---
 title: New Study Confirms Efficacy of Malaria Treatment Technique
 date: 2019-10-23 16:59:00 Z
-published: false
 tags:
 - health
 - Zambia
