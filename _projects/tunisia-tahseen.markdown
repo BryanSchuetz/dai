@@ -1,7 +1,7 @@
 ---
-title: Tunisia—Tahseen
+title: Tunisia—TAHSEEN
 date: 2019-10-22 11:47:00 Z
-summary: Tahseen supports the systems and procedures necessary to operationalize and
+summary: TAHSEEN supports the systems and procedures necessary to operationalize and
   accelerate Government of Tunisia reforms that are modernizing the system for managing
   public revenues and expenditures.
 start: 2019
@@ -17,11 +17,11 @@ country: Tunisia
 
 While the Tunisian economy remains fragile in the aftermath of the 2010 revolution and the global financial crisis, improving security conditions over the last two years are leading to a more attractive climate for business and investment. Despite these improvements, Tunisians remain eager for tangible benefits of the revolution—in both government effectiveness and sound public investments, and equitable economic opportunities in the private sector. 
 
-Tahseen, which means “improvement” in Arabic, supports the systems and procedures necessary to operationalize and accelerate Government of Tunisia reforms that are modernizing the system for managing public revenues and expenditures.
+TAHSEEN, which means “improvement” in Arabic, supports the systems and procedures necessary to operationalize and accelerate Government of Tunisia reforms that are modernizing the system for managing public revenues and expenditures.
 
-Tahseen complements other activities by the U.S. Agency for International Development and other international donors in Tunisia to support the Government of Tunisia and the Ministry of Finance’s plan for improving  public financial management. Tahseen focuses specifically on enhancing and upgrading the government’s integrated public financial management information system (PFMIS) to increase the efficiency, transparency, and predictability of public finances. The project strengthens the government’s capacity to carry out fiscal, budgetary, and revenue collection mandates. The project also advances electronic services to optimize regulations, procedures, and authorizations that reduce the cost and time burden on businesses, facilitate investment and trade, and promote innovation. 
+TAHSEEN complements other activities by the U.S. Agency for International Development and other international donors in Tunisia to support the Government of Tunisia and the Ministry of Finance’s plan for improving  public financial management. TAHSEEN focuses specifically on enhancing and upgrading the government’s integrated public financial management information system (PFMIS) to increase the efficiency, transparency, and predictability of public finances. The project strengthens the government’s capacity to carry out fiscal, budgetary, and revenue collection mandates. The project also advances electronic services to optimize regulations, procedures, and authorizations that reduce the cost and time burden on businesses, facilitate investment and trade, and promote innovation. 
 
-Finally, Tahseen works to strengthen communication between policy makers and the public to build a common understanding of the constraints to—and opportunities for—economic expansion. Combining key public financial management reforms with associated e-service platforms that spur equitable economic growth, Tahseen represents an important opportunity to assist Tunisia in financing its journey to self-reliance.
+Finally, TAHSEEN works to strengthen communication between policy makers and the public to build a common understanding of the constraints to—and opportunities for—economic expansion. Combining key public financial management reforms with associated e-service platforms that spur equitable economic growth, TAHSEEN represents an important opportunity to assist Tunisia in financing its journey to self-reliance.
 
 ![Ministere_finances_Tunisie.jpg](/uploads/Ministere_finances_Tunisie.jpg)
 
