@@ -24,6 +24,8 @@ Tahseen complements other activities by the U.S. Agency for International Develo
 
 Finally, Tahseen works to strengthen communication between policy makers and the public to build a common understanding of the constraints to—and opportunities for—economic expansion. Combining key public financial management reforms with associated e-service platforms that spur equitable economic growth, Tahseen represents an important opportunity to assist Tunisia in financing its journey to self-reliance.
 
+![Ministere_finances_Tunisie.jpg](/uploads/Ministere_finances_Tunisie.jpg)
+
 ## Select Activities
 
 * Design PFMIS in a collaboratively drafted conceptual framework, including core functional and technical requirements and an outline of the system development approach.
