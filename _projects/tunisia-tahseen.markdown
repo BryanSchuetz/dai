@@ -16,18 +16,18 @@ regions: Middle East and North Africa
 country: Tunisia
 ---
 
-While the Tunisian economy remains fragile in the aftermath of the 2010 revolution and the 
-global financial crisis, improving security conditions over the last two years are leading to a more attractive climate for business and investment. Despite these improvements, Tunisians remain eager for tangible benefits of the revolution—in both government effectiveness and sound public investments, and equitable economic opportunities in the private sector. 
+While the Tunisian economy remains fragile in the aftermath of the 2010 revolution and the global financial crisis, improving security conditions over the last two years are leading to a more attractive climate for business and investment. Despite these improvements, Tunisians remain eager for tangible benefits of the revolution—in both government effectiveness and sound public investments, and equitable economic opportunities in the private sector. 
 
 Tahseen, which means “improvement” in Arabic, supports the systems and procedures necessary to operationalize and accelerate Government of Tunisia reforms that are modernizing the system for managing public revenues and expenditures.
 
-Tahseen complements other activities by the U.S. Agency for International Development in Tunisia by supporting the Ministry of Finance’s plan for an enhanced public financial management information system (PFMIS) that increases the efficiency, transparency, and predictability of public finances, and strengthens the ministry’s capacity to carry out fiscal, budgetary, and revenue collection mandates. The project is also advancing digital solutions to optimize regulations, procedures, and authorizations that reduce the cost and time burden on businesses, facilitate investment and trade, and promote innovation. 
+Tahseen complements other activities by the U.S. Agency for International Development and other international donors in Tunisia to support the Government of Tunisia and the Ministry of Finance’s plan for improving  public financial management. Tahseen focuses specifically on enhancing and upgrading the government’s integrated public financial management information system (PFMIS) to increase the efficiency, transparency, and predictability of public finances. The project strengthens the government’s capacity to carry out fiscal, budgetary, and revenue collection mandates. The project also advances electronic services to optimize regulations, procedures, and authorizations that reduce the cost and time burden on businesses, facilitate investment and trade, and promote innovation. 
 
-Finally, Tahseen works to strengthen communications between policy makers and the public to build a common understanding of the constraints to—and opportunities for—economic expansion. Combining key investment and business reforms with associated e-service platforms that spur equitable economic growth, Tahseen represents an important opportunity to assist the Government of Tunisia in financing its journey to self-reliance.
+Finally, Tahseen works to strengthen communication between policy makers and the public to build a common understanding of the constraints to—and opportunities for—economic expansion. Combining key public financial management reforms with associated e-service platforms that spur equitable economic growth, Tahseen represents an important opportunity to assist Tunisia in financing its journey to self-reliance.
 
 ## Select Activities
 
-* Establish a PFMIS steering committee that will oversee the design and implementation of the new system.
-* Collaborate with partner institutions to develop tailored capacity-building approaches, including a combination of mentoring, embedded advisors, and training of trainers, for the Ministry of Finance.
-* Support the Ministry of Finance to document PFMIS policies and procedures that ensure alignment to the legal and regulatory framework of the Tunisian public financial management system. 
-*  Identify and simplify procedures for obtaining authorizations, permits, licenses, and technical standards for investment.
+* Design PFMIS in a collaboratively drafted conceptual framework, including core functional and technical requirements and an outline of the system development approach.
+* Implement PFMIS modules using an “agile with discipline” approach that includes accounting, budgeting, cash management, debt management, treasury systems, payroll, and asset management modules.
+* Train Ministry of Finance staff by reinforcing training-on-job functions, system operability and security, and using PFMIS data to improve reporting on budget and expenditure management.
+* Simplify business processes by detailing the new streamlined process, including the rules, regulations, roles and responsibilities, key performance indicators, and flow diagrams for new processes.
+* Foster public-private dialogue to help the government engage with the public and private sectors about key economic and fiscal policies through institutionalized mechanisms.
