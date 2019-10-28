@@ -1,7 +1,6 @@
 ---
 title: Joey Manfredo
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Manfredo
 summary: 'Joey Manfredo specializes in environment program management, communications,
   and training design and facilitation, with a focus on climate change adaptation
