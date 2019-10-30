@@ -28,3 +28,7 @@ The Afghanistan Value Chains–High Value Crops (AVC–High Value Crops) project
 * Support producers, anchor firms, and other actors in target value chains to improve efficiency and competitiveness.
 * Introduce agribusinesses to new technologies and global best practices to increase productivity and sales.
 * Facilitate linkages between agribusinesses and financial institutions to improve access to credit.
+
+Select Results
+
+* Sponsored the first [Afghanistan National Young Innovators in Agriculture Competition](https://www.usaid.gov/afghanistan/news-information/press-releases/Oct-29-2019-USAID-Supports-Young-Innovators-Tackling-Agriculture-Problems).
