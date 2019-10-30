@@ -32,3 +32,5 @@ The Afghanistan Value Chains–High Value Crops (AVC–High Value Crops) project
 Select Results
 
 * Sponsored the first [Afghanistan National Young Innovators in Agriculture Competition](https://www.usaid.gov/afghanistan/news-information/press-releases/Oct-29-2019-USAID-Supports-Young-Innovators-Tackling-Agriculture-Problems).
+* Assisted firms to export $4.6 million agricultural commodities.
+* Supported firms to access $1.4 million in loans.
