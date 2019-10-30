@@ -16,3 +16,5 @@ John joined DAI from Relief International, where he was Senior Vice President fo
 
 * M.B.A., University of Oxford
 * B.A., public and international affairs, Princeton University
+
+<iframe src="https://player.vimeo.com/video/369894308" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`Devex interviews John Maris in October 2019 about DAI Capital.`
