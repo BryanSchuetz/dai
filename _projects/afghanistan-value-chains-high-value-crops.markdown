@@ -15,9 +15,9 @@ regions: Middle East and North Africa
 country: Afghanistan
 ---
 
-The Afghanistan Value Chains–High Value Crops project exemplifies USAID’s new approach to promoting rapid, inclusive and lasting growth in the agriculture sector. This approach combines Market Systems Development, which seeks to address market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners.  This combined approach promotes behavior change, drives innovation, and accelerates economic growth in a way that ensures lasting and large-scale transformational market system change.
+The Afghanistan Value Chains–High Value Crops project exemplifies USAID’s new approach to promoting rapid, inclusive and lasting growth in the agriculture sector. This approach combines market systems development, which seeks to address market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners. This combined approach promotes behavior change, drives innovation, and accelerates economic growth in a way that ensures lasting and large-scale transformational market system change.
  
-During its first year of implementation, the Afghanistan Value Chains-High Value Crops (AVC-HVC) project initiated the process of transforming Afghanistan’s agriculture sector, moving away from supply-side activities to demand side and transformational interventions based on organizational and institutional arrangements to enable market actors to perceive and react to market incentives, upgrade their operations and drive systemic growth. 
+During its first year, the project initiated the process of transforming Afghanistan’s agriculture sector, moving away from supply-side activities to demand side and transformational interventions based on organizational and institutional arrangements to enable market actors to perceive and react to market incentives, upgrade their operations and drive systemic growth. 
 
 ![FOX46770.jpg](/uploads/FOX46770.jpg)
 
