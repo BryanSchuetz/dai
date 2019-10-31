@@ -15,11 +15,11 @@ regions: Middle East and North Africa
 country: Afghanistan
 ---
 
-Afghanistan’s agriculture sector has emerged as a powerful driver of the national economy. With steady growth over the past 15 years, farmers, input suppliers, processors, and traders are now prepared to transform loosely organized agricultural value chains into efficient and competitive value-creating systems. However, challenges such as high transaction costs, limited access to finance, and insufficient coordination constrain the Afghan agriculture sector from reaching its full potential.
+The Afghanistan Value Chains–High Value Crops project exemplifies USAID’s new approach to promoting rapid, inclusive and lasting growth in the agriculture sector. This approach combines Market Systems Development, which seeks to address market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners.  This combined approach promotes behavior change, drives innovation, and accelerates economic growth in a way that ensures lasting and large-scale transformational market system change.
+ 
+During its first year of implementation, the Afghanistan Value Chains-High Value Crops (AVC-HVC) project initiated the process of transforming Afghanistan’s agriculture sector, moving away from supply-side activities to demand side and transformational interventions based on organizational and institutional arrangements to enable market actors to perceive and react to market incentives, upgrade their operations and drive systemic growth. 
 
-The Afghanistan Value Chains–High Value Crops (AVC–High Value Crops) project, funded by the U.S. Agency for International Development, takes a market systems approach to improving productivity and profitability in select agriculture value chains by working with leading Afghan firms. DAI provides management consulting services to such anchor firms in fruit and nuts, high-value horticulture, and spices and medicinal crops value chains to address market failures, strengthen linkages, drive growth, and create jobs for men, women, and youth.
-
-![VC_crops_photo_2.jpg](/uploads/VC_crops_photo_2.jpg)
+![FOX46770.jpg](/uploads/FOX46770.jpg)
 
 ### Sample Activities
 
