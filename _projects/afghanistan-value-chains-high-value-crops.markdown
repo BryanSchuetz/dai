@@ -23,11 +23,11 @@ During its first year, the project initiated the process of transforming Afghani
 
 ### Sample Activities
 
-* Support anchor firms to produce rapid growth strategies that lead to increased sales.
-* Enable anchor firms to expand their producer networks, resulting in job opportunities for men, women, and youth.
-* Support producers, anchor firms, and other actors in target value chains to improve efficiency and competitiveness.
-* Introduce agribusinesses to new technologies and global best practices to increase productivity and sales.
-* Facilitate linkages between agribusinesses and financial institutions to improve access to credit.
+* Support anchor firms to co-create upgrading strategies, so that they can exert a pull factor that would result in the systemic growth of the value chains.
+* Enable anchor firms to penetrate new markets by facilitating their participation in international trade events.
+* Provide technical services, including food safety training and certifications, packaging design and optimization of agro-processing lines.
+* Facilitate access to finance, both debt and equity, establishing partnerships to reduce the cost and time of transport.
+* Promote the delivery of private sector agricultural extension services.
 
 ### Select Results
 
