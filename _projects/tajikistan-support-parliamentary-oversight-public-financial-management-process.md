@@ -35,7 +35,8 @@ The SPFM programme therefore came at a crucial time in supporting the national p
 
 ### Select Results
 
-* Contributed to amendments made in February 2018 to Tajikistan’s Tax Code that will improve the tax administration processes, leading to a more equitable treatment of individual taxpayers, and reduce corruption.
-* Institutionalized a committee hearings process, both on the national budget and on specific sectoral priorities and their financing requirements.
-* Established constituency outreach meetings and public field hearings in various regions of Tajikistan, linking service delivery needs to the national budget.
-* Provide technical assistance to develop parliamentary questions to enhance the legislature’s function in holding government to account on these issues.
+* Introduced key parliamentary oversight and outreach practices including: parliamentary committee hearings, parliamentary questions, constituency meetings, and public field hearings.
+* Conducted extensive analysis on the execution of the 2016–2019 national budgets, with recommendations being taken on board by the Ministry of Finance.
+* Contributed legislative amendments to Tajikistan’s Tax Code, the reform of which was approved by the President of the Republic of Tajikistan in February 2018.
+* Established a formal peer-to-peer partnership between the Latvian Supreme Audit Office and the Tajik Chamber of Accounts for exchange of best practices.
+* Facilitated a mentoring secondment between the U.K. Office for Budget Responsibility and the EFC Secretariat.
