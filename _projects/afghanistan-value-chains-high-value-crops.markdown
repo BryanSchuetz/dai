@@ -35,5 +35,5 @@ During its first year, the project initiated the process of transforming Afghani
 * Established partnerships with 83 agribusinesses.
 * Facilitated $6 million in exports.
 * Assisted in the investment of $7 million.
-* Enabled firms to access finance for $4.5 million
-17,500 farmers (30 percent women and 35 percent young people) benefited through market linkages, access to modern production and quality enhancing technologies, and jobs.
+* Enabled firms in accessing $4.5 million finance.
+* Assisted 17,500 farmers (30 percent women and 35 percent young people) to access modern production and quality-enhancing technologies.
