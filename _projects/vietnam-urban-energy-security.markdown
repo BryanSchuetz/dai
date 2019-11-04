@@ -1,7 +1,6 @@
 ---
 title: Vietnam—Urban Energy Security (VUES)
 date: 2019-10-07 17:10:00 Z
-published: false
 summary: The Vietnam Urban Energy Security project promotes the deployment in urban
   centers of 400 megawatts worth of advanced distributed energy technologies, ranging
   from solar panels and storage batteries to energy-efficient vehicles.
@@ -19,9 +18,9 @@ The Vietnam Urban Energy Security activity (VUES) comes as Vietnam stands on the
 
 In tandem with these national-level considerations, VUES supports the U.S. Agency for International Development’s investments in Vietnam’s energy sector by driving engagement down to the city level, complementing existing programming such as the Vietnam Low Emission Energy Program in alignment with USAID/Vietnam Country Development Cooperation Strategy, the USAID Private Sector Engagement Strategy, and Vietnam’s Journey to Self-Reliance.  
 
-VUES promotes the deployment in urban centers of 400 megawatts worth of advanced distributed energy technologies, ranging from solar panels and storage batteries to energy-efficient vehicles. DAI will be raising at least $600 million, from private and public sources to meet the project’s energy goals.
+VUES promotes the deployment of 400 megawatts of advanced and distributed energy solutions in urban centers, ranging from solar panels and storage batteries to energy-efficient vehicles. DAI will be raising at least $600 million, from private and public sources to meet the project’s energy goals.
 
-![vietnam.jpg](/uploads/vietnam.jpg)
+![VUES.jpg](/uploads/VUES.jpg)
 
 ### Sample Activities 
 
