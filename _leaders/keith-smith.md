@@ -1,25 +1,20 @@
 ---
 title: Keith Smith
 date: 2016-01-21 22:18:00 Z
-lastname: Smith
+published: false
+job-title: Senior Vice President, HMG Business Unit
 summary: 'Keith Smith leads HMG Business Unit, which focuses on delivering UKAID and
   implementing bilateral development investments for Her Majesty’s Government, principally
   the U.K. Department for International Development (DFID) and the Foreign and Commonwealth
   Office.  '
-job-title: Senior Vice President, HMG Business Unit
-image: https://assetify-dai.com/experts/KeithSmith1Inner.jpg
-solutions:
-- Include Primary and/or Secondary Solutions
-- 
-- 
-regions:
-- 
-- 
-- 
-layout: expert
+image: "/uploads/KeithSmith1Inner-783d05.jpg"
+sort-order: 4
+layout: leaders
 ---
 
 Keith Smith leads HMG Business Unit, which focuses on delivering UKAID and implementing bilateral development investments for Her Majesty’s Government, principally the U.K. Department for International Development (DFID) and the Foreign and Commonwealth Office.  
+
+![{{ page.title }}](/assets/images/leaders/{{ page.title | split: " " | join: "-" | downcase }}.jpg)
 
 Keith began his 20-year career in international development with assignments in Kosovo, Liberia, Macedonia, and Sierra Leone. He has managed programmes focused on infrastructure, agriculture, health, the reintegration of ex-combatants, grants management, and governance. 
 

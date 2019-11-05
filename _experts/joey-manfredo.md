@@ -2,12 +2,10 @@
 title: Joey Manfredo
 date: 2016-01-21 22:18:00 Z
 lastname: Manfredo
-summary: 'Joey Manfredo specializes in environment program management, communications,
+summary: Joey Manfredo specializes in environment program management, communications,
   and training design and facilitation, with a focus on climate change adaptation
   in small island states.
-
-'
-job-title: Deputy Chief of Party, Coastal Community Adaptation Project (C-CAP)
+job-title: Deputy Chief of Party, Philippines Protect Wildlife
 image: https://assetify-dai.com/experts/Joey%20inner.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
