@@ -23,4 +23,4 @@ SHARPE will pilot and scale interventions across seven sectors: crops, livestock
 
 SHARPE will serve as a learning platform to the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit 200,000 people in the target populations, helping them realise increases in incomes, employment, or expand access to assets through private sector-driven changes. 
 
-Our consortium includes the International Rescue Committee, First Consult, and MarketShare Associates 
+![SHARPE.jpg](/uploads/SHARPE.jpg)
