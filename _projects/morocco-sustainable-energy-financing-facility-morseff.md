@@ -37,7 +37,8 @@ The €110 million allocated to MorSEFF includes financial contributions from EB
 
 ### Select Results
 
-* Supported two financial institutions to on-lend €106 million to 260 energy efficiency projects.
-* Trained 278 credit officers in the financial institutions and 50 local engineers in energy efficiency financing.
+* Supported two financial institutions to on-lend €109.5 million to 260 energy efficiency projects.
+* Trained 278 credit officers in the financial institutions and 40 local engineers in energy efficiency financing.
 * Raised awareness of energy efficiency in the small and midsize business sector by supporting the financial institutions in marketing through industry workshops and events.
 * Spurred development of a local production base for energy efficiency and renewable energy technologies.
+* In 2018, the EBRD injected an extra €40 million into the facility and admitted Banque Marocaine pour le Commerce et l’Industrie—BNP Paribas Group—as a third partner. 
