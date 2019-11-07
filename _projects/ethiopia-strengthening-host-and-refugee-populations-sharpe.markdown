@@ -19,8 +19,12 @@ The U.K. Department for International Development (DFID) is providing funding to
 
 Through the innovative use of an adapted market systems development approach, SHARPE works to inclusively and sustainably empower refugees and host communities to become more economically resilient.
 
-SHARPE will pilot and scale interventions across seven sectors: crops, livestock, fish, wood, labour, aid, and access to finance. This approach is based upon understanding the economic barriers that refugee and host communities face, and working with key stakeholders—including businesses, government, and service providers—to make markets work for SHARPE’s target communities. 
+SHARPE promote increased refugee self-reliance and generate economic opportunities for host communities through the piloting and scaling of interventions across seven sectors: crops, livestock, fish, wood, labour, aid, and access to finance. This approach is based upon understanding the economic barriers that refugee and host communities face, and working with key stakeholders—including businesses, government, and service providers—to make markets work for SHARPE’s target communities. 
 
 SHARPE will serve as a learning platform to the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit 200,000 people in the target populations, helping them realise increases in incomes, employment, or expand access to assets through private sector-driven changes. 
 
 ![SHARPE.jpg](/uploads/SHARPE.jpg)
+
+### Sample Activities
+
+* 
