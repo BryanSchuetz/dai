@@ -30,3 +30,4 @@ SHARPE will serve as a learning platform to the wider international and Ethiopia
 * Test agricultural input supplier interest in expanding distribution to target areas, including a mapping of market areas and field visits. 
 * Explore supply of input, cultivation technology, and markets for backyard gardening.
 * Expand access to good quality seedlings to increase farmers' yields and incomes. 
+* Develop joint village savings and loans associations to improve access to finance for both refugees and host communities.
