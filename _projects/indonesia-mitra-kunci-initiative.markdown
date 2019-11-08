@@ -17,7 +17,7 @@ country: Indonesia
 
 Indonesia is a growing regional and global player, having experienced a remarkable democratic and economic transformation over the last two decades. However, the country remains at a development crossroads, with 40 percent of the population earning less than $2 a day.
 
-The U.S. Agency for International Development (USAID)’s Mitra Kunci Initiative is providing Indonesia’s poorest and most vulnerable with skills needed to be productive members of Indonesia’s workforce. Young people, women, and people with disabilities will receive training, information, and resources to prepare them to meet the needs of the private sector.
+The U.S. Agency for International Development (USAID)’s Mitra Kunci Initiative is providing Indonesia’s poorest and most vulnerable with skills needed to be productive members of Indonesia’s workforce. [Young people](https://www.youtube.com/watch?v=AoItcAx_xnY&feature=youtu.be), women, and people with disabilities will receive training, information, and resources to prepare them to meet the needs of the private sector.
 
 By assisting Indonesia’s efforts to improve the skills needed to work in the local market, more Indonesians can break the cycle of extreme poverty, have the opportunity to reach their full potential, and contribute to global prosperity and self-reliance.
 
