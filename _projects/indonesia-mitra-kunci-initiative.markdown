@@ -22,6 +22,7 @@ The U.S. Agency for International Development (USAID)’s Mitra Kunci Initiative
 By assisting Indonesia’s efforts to improve the skills needed to work in the local market, more Indonesians can break the cycle of extreme poverty, have the opportunity to reach their full potential, and contribute to global prosperity and self-reliance.
 
 ### Sample Activities
+
 * Improve the quality of workforce development programs through targeted grant programs and gender and social inclusion training.
 * Implement innovative workforce development models, such as community engagement workshops and a youth internship program.
 * Increase collaboration between key workforce development stakeholders through a series of learning workshops and establishment of a coordination hub to share good practices.
