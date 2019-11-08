@@ -153,6 +153,8 @@ function toggleLayer(ids, name) {
     var blocker = document.createElement('span');
     link.appendChild(blocker);
 }
+
+
 map.on('click', function (e) {
     var features = map.queryRenderedFeatures(e.point, { layers: ['update-pins'] });
 
@@ -169,6 +171,7 @@ map.on('click', function (e) {
         .setHTML("<strong>"+feature.properties.title+"</strong><br>"+feature.properties.description)
         .addTo(map);
 });
+
 map.on('mousemove', function (e) {
     var features = map.queryRenderedFeatures(e.point, { layers: ['update-pins'] });
     map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
