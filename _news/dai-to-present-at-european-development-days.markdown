@@ -24,4 +24,4 @@ Also on June 18, from 16:30, DAI will host a “meet & greet” moment in Room L
 
 Follow along on Twitter at [#EDD19](https://twitter.com/search?q=%23EDD19&src=typd) and [#ThinkTwice](https://twitter.com/search?q=%23ThinkTwice&src=tyah), the EDD digital campaign that uses everyday objects to highlight the often life-threatening inequalities which persist all over the world.
 
-In case you missed it, here's a [wrap-up podcast ](https://www.buzzsprout.com/380881/1678276-eudevdays-19-wrap-up-podcast)from EDD19. 
+*In case you missed it, here's a [wrap-up podcast ](https://www.buzzsprout.com/380881/1678276-eudevdays-19-wrap-up-podcast)from EDD19.* 
