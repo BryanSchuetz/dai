@@ -23,3 +23,5 @@ Our [report lab](https://eudevdays.eu/community/sessions/2510/lets-talk-public-p
 Also on June 18, from 16:30, DAI will host a “meet & greet” moment in Room L2 with current and potential partners, clients, experts, and other EDD participants interested in finding out more about our work.
 
 Follow along on Twitter at [#EDD19](https://twitter.com/search?q=%23EDD19&src=typd) and [#ThinkTwice](https://twitter.com/search?q=%23ThinkTwice&src=tyah), the EDD digital campaign that uses everyday objects to highlight the often life-threatening inequalities which persist all over the world.
+
+In case you missed it, here's a [wrap-up podcast ](https://www.buzzsprout.com/380881/1678276-eudevdays-19-wrap-up-podcast)from EDD19. 
