@@ -19,8 +19,6 @@ Bhutan is a small country wedged between India and China with 60 percent of its 
 
 This project supports implementation of the European Union (EU)-bilateral development cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget support programmes: 1), Rural Development and Climate Change and 2), Local Governance and Fiscal Decentralisation.
 
-![Bhutan-NRM-new.jpg](/api/v2/sites/564c9dd83aaede7e1b000039/source/_uploads/Bhutan-NRM-new.jpg?download "Photo: Richard Mortel")
-
 ## Sample Activities
 
 * Provide technical assistance and capacity building to improve implementation of the programmes financed by the EU.
