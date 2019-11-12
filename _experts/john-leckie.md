@@ -15,6 +15,9 @@ regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
+articles:
+- name: 'Protecting the Land Tenure Security of Women in Ethiopia '
+  article_file: https://resourceequity.org/2019/11/06/protecting-the-land-tenure-security-of-women-in-ethiopia/
 layout: expert
 ---
 
