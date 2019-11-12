@@ -1,9 +1,9 @@
 ---
 title: Africa—Africa Lead II
 date: 2016-01-21 22:40:00 Z
-summary: Following on the original Africa Lead project, Africa Lead II is building
-  the capacity of local leaders to develop, manage, and lead programs aimed at increasing
-  agricultural productivity and food security.
+summary: Following on the original Africa Lead project, Africa Lead II built the capacity
+  of local leaders to develop, manage, and lead programs aimed at increasing agricultural
+  productivity and food security.
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
