@@ -1,9 +1,9 @@
 ---
-title: Mozambique—Feed the Future Agricultural Innovations (INOVA)
+title: Mozambique—Feed the Future Agricultural Innovations (FTF Inova)
 date: 2017-04-27 18:11:00 Z
-summary: The Feed the Future Agricultural Innovations (INOVA) project partners with
-  farmers, businesses, and policymakers to explore ways to improve production and
-  increase sales of key cash crops vital to Mozambique’s economy.
+summary: The Feed the Future Agricultural Innovations (FTF Inova) project partners
+  with farmers, businesses, and policymakers to explore ways to improve production
+  and increase sales of key cash crops vital to Mozambique’s economy.
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
@@ -17,9 +17,9 @@ country: Mozambique
 
 Mozambique has one of the best records of sustained economic growth in Africa, averaging a 7 percent increase in GDP per year for the last decade. However, poverty and malnutrition rates remain high while food availability is limited by low yields and inadequate access to markets. To address these issues, the government of Mozambique has launched an ambitious plan to grow its agricultural sector in an inclusive manner to reduce poverty and alleviate hunger throughout the country.
 
-In support of this goal, the U.S. Agency for International Development (USAID) has launched the Feed the Future Agricultural Innovations (INOVA) project to partner with farmers, businesses, and policymakers to explore ways to improve production and increase sales of key cash crops vital to Mozambique’s economy. In addition to providing technical assistance and training, INOVA leverages project funds to strategically buy down risk and co-finance with farmers and agribusiness to promote investments in equipment upgrades, climate-smart agriculture, and [women’s empowerment](https://www.agrilinks.org/post/leveraging-gender-norms-and-private-sector-partnerships-increase-womens-use-agricultural-inputs).
+In support of this goal, the U.S. Agency for International Development (USAID) has launched the Feed the Future Agricultural Innovations (FTF Inova) project to partner with farmers, businesses, and policymakers to explore ways to improve production and increase sales of key cash crops vital to Mozambique’s economy. In addition to providing technical assistance and training, FTF Inova leverages project funds to strategically buy down risk and co-finance with farmers and agribusiness to promote investments in equipment upgrades, climate-smart agriculture, and [women’s empowerment](https://www.agrilinks.org/post/leveraging-gender-norms-and-private-sector-partnerships-increase-womens-use-agricultural-inputs).
 
-In developing value chains, INOVA takes a portfolio approach adapted from the finance industry, relying on diversified assets, [active monitoring](https://www.marketlinks.org/post/prove-and-improve-adapting-monitoring-evaluation-and-learning-mel-better-support-business) of performance, and the flexibility to rebalance investments based on changing market dynamics. Also central to INOVA’s work is the co-creation of pilot interventions, which involves partnering with local private-sector firms to develop innovative and inclusive agribusiness models and demonstrating their viability to potential stakeholders.
+In developing value chains, FTF Inova takes a portfolio approach adapted from the finance industry, relying on diversified assets, [active monitoring](https://www.marketlinks.org/post/prove-and-improve-adapting-monitoring-evaluation-and-learning-mel-better-support-business) of performance, and the flexibility to rebalance investments based on changing market dynamics. Also central to FTF Inova’s work is the co-creation of pilot interventions, which involves partnering with local private-sector firms to develop innovative and inclusive agribusiness models and demonstrating their viability to potential stakeholders.
 
 <iframe src="https://player.vimeo.com/video/293339688" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
