@@ -32,6 +32,6 @@ In developing value chains, FTF Inova takes a portfolio approach adapted from th
 ### Select Results
 
 * Partners and beneficiaries reported $29 million in sales in fiscal year 2019.
-* Established 28 new or improved relationships among private firms. For example, community radio stations established new commercial relationships with private firms such as Bayer, Syngenta, and Macs in Moz to replicate radio programs that were piloted with Phoenix seeds in collaboration with the project.
+* Established 28 new or improved relationships among private firms. For example, community radio stations established new commercial relationships with private firms such as Bayer and Syngenta to replicate radio programs that were piloted with Phoenix seeds in collaboration with the project.
 * Assisted 13,713 women to apply new technologies and business models. 
 * Enabled 16,867 hectares of land to be under improved technologies and management practices.
