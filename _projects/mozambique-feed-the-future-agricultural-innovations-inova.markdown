@@ -28,3 +28,11 @@ In developing value chains, FTF Inova takes a portfolio approach adapted from th
 * Conduct comprehensive, gender-responsive value chain analyses for key crops, such as sesame, soybeans, and cowpeas, to better understand market inefficiencies and address root causes of underperformance.
 * Promote the adoption of improved seed varieties and fertilizers to increase crop yields through use of demonstration plots, agricultural extension trainings, and [radio and text messaging campaigns](https://medium.com/@FeedtheFuture/radios-help-businesses-reach-smallholder-farmers-ad64dd560625).
 * Collaborate with financial institutions and village savings and loan associations to provide credit lines targeted at enabling smallholder farmers to invest in improved seeds, fertilizer, and other agricultural inputs.
+
+### Select Results
+
+In FY 2019, FTF Inova delivered on 12 innovations with 45 partners which contributed to the following achievements:
+* Partners and beneficiaries reported $29 million in sales in fiscal year 2019.
+* Established 28 new or improved relationships among private firms. For example, community radio stations established new commercial relationships with private firms such as Bayer, Syngenta, and Macs in Moz to replicate radio programs that were piloted with Phoenix seeds in collaboration with the project.
+* Assisted 13,713 women to apply new technologies and business models. 
+* Enabled 16,867 hectares of land to be under improved technologies and management practices.
