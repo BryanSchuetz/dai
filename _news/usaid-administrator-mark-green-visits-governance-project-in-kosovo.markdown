@@ -11,7 +11,7 @@ summary: 'USAID Administrator Mark Green recently visited the Municipality of Pr
 social-image: "/uploads/Administrators%20Visit%207-0115c8.jpg"
 ---
 
-U.S. Agency for International Development (USAID) Administrator Mark Green recently visited the Municipality of Pristina Procurement Office in Kosovo, to discuss developments in procurement and transparency. Green learned about recent reforms in local governance and improvements that have made procurement systems more transparent and increased accountability. Among these reforms: Opening up public contracts, the increased use of electronic procurement, and more cooperation with civil society. 
+U.S. Agency for International Development (USAID) Administrator Mark Green recently visited the Municipality of Pristina Procurement Office in Kosovo, to discuss developments in procurement and transparency. Green learned about recent reforms in local governance and improvements that have made procurement systems more transparent and increased accountability. Among these reforms: opening up public contracts, the full adoption of electronic procurement, and more cooperation with civil society. 
 
 All these achievements were supported by a DAI-implemented project, the [Transparent, Effective, and Accountable Municipalities (TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) activity. [Green](https://twitter.com/USAIDMarkGreen/status/1194357002962710529) particularly appreciated the municipality’s commitment and the project’s work to improve processes safeguarding public funds.
 
