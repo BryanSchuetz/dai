@@ -26,8 +26,8 @@ SHAHAR is helping create well-governed, fiscally sustainable Afghan municipaliti
 
 ###  Sample Activities
 
-* Assist municipalities in organizing national, regional, and district municipal conferences for sharing best practices and lessons learned.
-* Provide technical assistance to each municipality to develop a public-private partnership unit to fill public resource gaps.
+* Assist the DMM in organizing national, regional, and district municipal conferences for sharing best practices and lessons learned.
+* Provide technical assistance to each municipality to increase revenue and manage expenses so that they can maintain a healthy, balanced budget. 
 * Prepare and implement capacity building plans for municipal officials.
 
 ### Select Results
