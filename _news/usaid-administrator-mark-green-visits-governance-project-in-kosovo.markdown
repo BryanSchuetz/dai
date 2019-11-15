@@ -1,6 +1,7 @@
 ---
 title: USAID Administrator Mark Green Visits Kosovo Governance Project
 date: 2019-11-14 12:33:00 Z
+is_featured: true
 solutions:
 - Governance
 regions: Eastern Europe and Central Asia
@@ -13,9 +14,11 @@ social-image: "/uploads/Administrators%20Visit%207-0115c8.jpg"
 
 U.S. Agency for International Development (USAID) Administrator Mark Green recently visited the Municipality of Pristina Procurement Office in Kosovo, to discuss developments in procurement and transparency. Green learned about recent reforms in local governance and improvements that have made procurement systems more transparent and increased accountability. Among these reforms: opening up public contracts, the full adoption of electronic procurement, and more cooperation with civil society. 
 
-All these achievements were supported by a DAI-implemented project, the [Transparent, Effective, and Accountable Municipalities (TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) activity. [Green](https://twitter.com/USAIDMarkGreen/status/1194357002962710529) particularly appreciated the municipality’s commitment and the project’s work to improve processes safeguarding public funds.
-
 ![Administrators Visit 6.jpg](/uploads/Administrators%20Visit%206.jpg)`Touring the office are, from left, Zekë Bardhaj, Procurement Director, Municipality of Pristina; Shpend Ahmeti, Mayor, Municipality of Pristina; and Mark Green, Administrator, USAID. Photo courtesy: USAID.`
+
+<!--more-->
+
+All these achievements were supported by a DAI-implemented project, the [Transparent, Effective, and Accountable Municipalities (TEAM)](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) activity. [Green](https://twitter.com/USAIDMarkGreen/status/1194357002962710529) particularly appreciated the municipality’s commitment and the project’s work to improve processes safeguarding public funds.
 
 At the meeting, the Mayor of Pristina, Shpend Ahmeti, highlighted the impact and the support of USAID-funded TEAM. “We thank once again the TEAM project with whom we are working on a daily basis to establish systems to protect public money,” he wrote on social media.
 
