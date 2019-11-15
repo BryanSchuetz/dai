@@ -33,7 +33,6 @@ SHAHAR is helping create well-governed, fiscally sustainable Afghan municipaliti
 ### Select Results
 
 * With SHAHAR assistance, four regional hub municipalities increased their fixed [revenue](http://dai-global-developments.com/articles/afghan-municipalities-raise-more-revenues-deliver-better-services-enhance-stability) between 17 percent and 137 percent—the key to budget stability.
-* Partner municipalities improved their governance scores by an average of 239 percent between July 2015 (baseline) and August 2016 (midline); areas included revenue and finances, planning, service delivery, administrative reform, and community outreach.
 * Municipalities successfully bid out and completed 39 projects worth more than $2 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
 * Operationalized Citizen Service Centers in 10 municipalities, which provide one-stop service for paying taxes and fees, registering properties and businesses, and asking questions.
 * Instituted Integrated Financial Management Systems in 20 municipalities.
