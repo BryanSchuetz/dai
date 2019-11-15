@@ -38,6 +38,6 @@ SHAHAR is helping create well-governed, fiscally sustainable Afghan municipaliti
 * Instituted Integrated Financial Management Systems in 20 municipalities.
 * Employed nearly 450 interns in the municipalities, in DMM and in the SHAHAR offices to train the next cadre of municipal officials and provide necessary employment opportunities for recent graduates.  
 * Established Municipal Advisory Boards of citizens in 20 partner municipalities. 
-* Piloted a street addressing and [house-numbering project](https://www.usaid.gov/news-information/news/street-addressing-saves-business-herat) in district four of the city of Herat, making neighborhoods safer and more professional.        
+* Piloted a street addressing and [house-numbering project](https://www.usaid.gov/news-information/news/street-addressing-saves-business-herat) in district four of the city of Herat Herat and district six of the city of Mazar-e-Sharif, making neighborhoods safer and more professional.        
 
 <iframe src="https://player.vimeo.com/video/204593033" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
