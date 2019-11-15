@@ -20,13 +20,13 @@ country:
 layout: project
 ---
 
-SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM)  and Municipal Advisory Boards, will aim to improve municipal financial management, [urban service delivery](http://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/), and citizen consultation.
+SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, will aim to improve municipal financial management, [urban service delivery](http://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/), and citizen consultation.
 
 <iframe src="https://player.vimeo.com/video/370977918" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###  Sample Activities
 
-* Assist the GDMA in organizing national, regional, and district municipal conferences for sharing best practices and lessons learned.
+* Assist municipalities in organizing national, regional, and district municipal conferences for sharing best practices and lessons learned.
 * Provide technical assistance to each municipality to develop a public-private partnership unit to fill public resource gaps.
 * Prepare and implement capacity building plans for municipal officials.
 
