@@ -32,14 +32,13 @@ SHAHAR is helping create well-governed, fiscally sustainable Afghan municipaliti
 
 ### Select Results
 
-* Twenty SHAHAR-assisted communities [increased revenues by 38 percent](http://dai-global-developments.com/articles/afghan-municipalities-raise-more-revenues-deliver-better-services-enhance-stability?utm_source=daidotcom) over the most recent fiscal year, including by 26 percent in the fixed revenues that are key to budget stability.
+* With SHAHAR assistance, four regional hub municipalities increased their fixed [revenue](http://dai-global-developments.com/articles/afghan-municipalities-raise-more-revenues-deliver-better-services-enhance-stability) between 17 percent and 137 percent—the key to budget stability.
 * Partner municipalities improved their governance scores by an average of 239 percent between July 2015 (baseline) and August 2016 (midline); areas included revenue and finances, planning, service delivery, administrative reform, and community outreach.
-* Municipalities successfully bid out and completed 14 projects worth $1.25 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
+* Municipalities successfully bid out and completed 39 projects worth more than $2 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
 * Operationalized Citizen Service Centers in 10 municipalities, which provide one-stop service for paying taxes and fees, registering properties and businesses, and asking questions.
-* Instituted Integrated Financial Management Systems in 13 municipalities.
-* Established Municipal Advisory Boards of citizens in 19 of 20 partner municipalities. 
+* Instituted Integrated Financial Management Systems in 20 municipalities.
+* Employed nearly 450 interns in the municipalities, in DMM and in the SHAHAR offices to train the next cadre of municipal officials and provide necessary employment opportunities for recent graduates.  
+* Established Municipal Advisory Boards of citizens in 20 partner municipalities. 
 * Piloted a street addressing and [house-numbering project](https://www.usaid.gov/news-information/news/street-addressing-saves-business-herat) in district four of the city of Herat, making neighborhoods safer and more professional.        
-
-[1]: https://assetify-dai.com/projects/SHAHAR.jpg
 
 <iframe src="https://player.vimeo.com/video/204593033" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
