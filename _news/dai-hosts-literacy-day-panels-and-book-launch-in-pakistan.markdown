@@ -13,7 +13,7 @@ summary: 'On September 12, DAI will host a panel event to commemorate Internatio
 social-image: "/uploads/ILD%20graphic%20(horizontal)-9c6563.jpg"
 ---
 
-On September 12, DAI will host a panel event to commemorate International Literacy Day in Islamabad, Pakistan. Later the same day, DAI’s Vice President for Technical Services [Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms) will discuss her recent book—“[*Access for All: Building Inclusive Economic Systems*](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion).”
+On September 12, DAI will host a panel event to commemorate International Literacy Day in Islamabad, Pakistan. Later the same day, DAI’s Vice President for Technical Services Brigit Helms will discuss her recent book—“[*Access for All: Building Inclusive Economic Systems*](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion).”
 
 The education event convenes education experts, practitioners, policy makers, researchers, and students to discuss learning approaches in Pakistan—with a focus on identifying locally led solutions to support the most marginalized children. The discussion will encompass public-private partnerships, inclusionary approaches, and teacher facilitation and support. 
 

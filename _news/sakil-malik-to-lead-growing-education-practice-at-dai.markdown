@@ -20,7 +20,7 @@ Malik most recently served as World Learning’s Vice President for Global Devel
 
 A native of Bangladesh, Malik began his career in international development with BRAC, one of the largest nongovernmental organizations in the world.
 
-“Sakil is both an ideas guy and a hands-on project manager,” said [Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms), DAI’s Vice President of Technical Services. “He’s known for his expertise both in conceptualizing education programs and delivering those programs on the ground. Given DAI’s cross-sectoral approach to education challenges and our resistance to orthodoxy when it comes to the ‘siloes’ that too often inhibit education innovation, Sakil’s breadth of experience and nose for innovation will be a real asset to our education and youth development work.”
+“Sakil is both an ideas guy and a hands-on project manager,” said Brigit Helms, DAI’s Vice President of Technical Services. “He’s known for his expertise both in conceptualizing education programs and delivering those programs on the ground. Given DAI’s cross-sectoral approach to education challenges and our resistance to orthodoxy when it comes to the ‘siloes’ that too often inhibit education innovation, Sakil’s breadth of experience and nose for innovation will be a real asset to our education and youth development work.”
 
 DAI’s [Education Practice](https://www.dai.com/our-work/solutions/education) strengthens the provision of high-quality, inclusive education for children and youth around the world. We work hand-in-hand with educators, policy makers, communities, and stakeholders to implement local solutions, borrowing and building on ideas and innovations from across sectors and working to understand education systems as a whole.
 

@@ -1,7 +1,7 @@
 ---
 title: Brigit Helms Named Vice President for Technical Services
 date: 2018-09-05 12:33:00 Z
-summary: DAI today announced that [Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms)
+summary: DAI today announced that Brigit Helms
   has been appointed Vice President for Technical Services. An authority in the fields
   of financial inclusion, development finance, and economic growth, Helms will lead
   the multisectoral Technical Services team and ensure its continued commitment to
@@ -9,7 +9,7 @@ summary: DAI today announced that [Brigit Helms](https://www.dai.com/who-we-are/
 social-image: "/uploads/Brigit%20Helms%20v2-de4b3f.jpg"
 ---
 
-DAI today announced that [Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms) has been appointed Vice President for Technical Services. An authority in the fields of financial inclusion, development finance, and economic growth, Helms will lead the multisectoral Technical Services team and ensure its continued commitment to technical excellence and innovation globally.
+DAI today announced that Brigit Helms has been appointed Vice President for Technical Services. An authority in the fields of financial inclusion, development finance, and economic growth, Helms will lead the multisectoral Technical Services team and ensure its continued commitment to technical excellence and innovation globally.
 
 <!--more-->
 

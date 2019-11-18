@@ -17,7 +17,7 @@ Despite declining global poverty levels in recent decades, persistent extreme po
 
 Today, a wider range of players—millennials, institutional investors, corporates, and others—are seeking to promote more inclusive economic growth, in part by pursuing profit with purpose. The Sustainable Development Goals offer a focal point and an ambitious timeline—eradicating extreme poverty by 2030—for these new actors to get involved and for existing donors to revise their frameworks.
 
-“None of these actors, traditional or new, can achieve truly inclusive economic systems on their own,” says DAI’s Vice President of Technical Services [Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms). “Success will demand collaboration, often among uneasy bedfellows. It cannot be business as usual.”
+“None of these actors, traditional or new, can achieve truly inclusive economic systems on their own,” says DAI’s Vice President of Technical Services Brigit Helms. “Success will demand collaboration, often among uneasy bedfellows. It cannot be business as usual.”
 
 <iframe src="https://player.vimeo.com/video/304715051" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

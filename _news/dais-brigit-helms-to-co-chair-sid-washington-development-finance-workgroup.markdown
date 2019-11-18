@@ -11,7 +11,7 @@ summary: 'Brigit Helms, DAI’s Senior Principal Strategic Advisor for Strategy 
 '
 ---
 
-[Brigit Helms](https://www.dai.com/who-we-are/our-team/brigit-helms), DAI’s Senior Principal Strategic Advisor for Strategy and Marketing, will co-chair the Development Finance Workgroup for the Washington Chapter of the Society for International Development (SID-Washington) for the next two years.
+Brigit Helms, DAI’s Senior Principal Strategic Advisor for Strategy and Marketing, will co-chair the Development Finance Workgroup for the Washington Chapter of the Society for International Development (SID-Washington) for the next two years.
 
 The Development Finance Workgroup is a group of individuals actively engaged in finance architecture and the monetary tools of development. With events ranging from the involvement of international lending to the relevance and strength of microfinance, this workgroup aims to inform and educate on any and all development issues that relate to finance.
 
