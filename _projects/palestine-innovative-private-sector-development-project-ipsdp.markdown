@@ -17,6 +17,8 @@ country: Palestine
 The Innovative Private Sector Development Project (IPSDP) develops entrepreneurship and expands economic opportunity in the Palestinian Territories. IPSDP falls under the World Bank’s overarching objective to alleviate market failures related to gaps and binding constraints in Palestine’s digital entrepreneurship ecosystem—including those related to human capital, financing, product markets, enabling policies, institutional support, and connectivity.
 
 The project team works closely with the Ministry of National Economy.
+
+![ramallah.jpg](/uploads/ramallah.jpg)`Ramallah from on high. Photo courtesy: Flickr.`
  
 ### Sample Activities
 
