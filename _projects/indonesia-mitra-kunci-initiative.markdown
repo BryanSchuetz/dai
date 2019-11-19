@@ -26,3 +26,9 @@ By assisting Indonesia’s efforts to improve the skills needed to work in the l
 * Improve the quality of workforce development programs through targeted grant programs and gender and social inclusion training.
 * Implement innovative workforce development models, such as community engagement workshops and a youth internship program.
 * Increase collaboration between key workforce development stakeholders through a series of learning workshops and establishment of a coordination hub to share good practices.
+
+### Select Results
+
+* Engaged 25,270 people—more than half of whom were women—in youth festivals, a Student Services Entrepreneurship Program, youth camps, workshops, and more activities.
+* Provided USG Assistance Workforce Development programs to 13,333 (5,617 male and 7,716 female) individuals, of which 12,595 (5,193 male and 7,402 female) individuals have improved skills, and 212 (130 male and 82 female) youth have new or better employment, following the completion of the development programs.
+Trained 1,030 service providers (578 male and 452 female) who serve vulnerable persons.
