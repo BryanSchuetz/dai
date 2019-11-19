@@ -30,5 +30,5 @@ By assisting Indonesia’s efforts to improve the skills needed to work in the l
 ### Select Results
 
 * Engaged 25,270 people—more than half of whom were women—in youth festivals, a Student Services Entrepreneurship Program, youth camps, workshops, and more activities.
-* Provided USG Assistance Workforce Development programs to 13,333 (5,617 male and 7,716 female) individuals, of which 12,595 (5,193 male and 7,402 female) individuals have improved skills, and 212 (130 male and 82 female) youth have new or better employment, following the completion of the development programs.
-Trained 1,030 service providers (578 male and 452 female) who serve vulnerable persons.
+* Provided workforce development programs to 13,333 people, more than half of whom were women. The participants have improved job skills and 212 of them have new or better employment.
+* Trained 1,030 service providers (578 male and 452 female) who serve vulnerable persons.
