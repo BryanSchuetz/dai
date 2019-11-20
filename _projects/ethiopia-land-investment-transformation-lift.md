@@ -36,7 +36,7 @@ layout: project
 
 While still one of the poorest countries in the world, Ethiopia has made major advances in reducing poverty levels and increasing agricultural production in recent years. However, the pace of progress is constrained by inefficiencies in the rural land sector, including weak documentation and management of land rights.
 
-The Land Investment for Transformation (LIFT) programme, funded by the U.K. Department for International Development (DFID), is raising incomes for rural poor and vulnerable populations in Ethiopia and enhancing economic growth through second-level land certification and improved rural land administration. The programme team works with the government of Ethiopia to improve land tenure security for farmers and boost their productivity, [especially among women](http://dai-global-developments.com/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia).
+The [Land Investment for Transformation (LIFT) programme](https://liftethiopia.com/), funded by the U.K. Department for International Development (DFID), is raising incomes for rural poor and vulnerable populations in Ethiopia and enhancing economic growth through second-level land certification and improved rural land administration. The team works with the government of Ethiopia to improve land tenure security for farmers and boost their productivity, [especially among women](http://dai-global-developments.com/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia).
 
 ![](https://assetify-dai.com/projects/Liftnew.jpg)
 
@@ -50,7 +50,7 @@ The Land Investment for Transformation (LIFT) programme, funded by the U.K. Depa
 ### Select Results
 
 * Established and system for regularising land ownership and demarcated 9.2 million parcels.
-* Ensured that nearly 90 percent of land certificates include women.
+* Ensured that nearly 90 percent of land certificates [include women](https://dai-global-developments.com/articles/lift-ensuring-women-and-vulnerable-groups-reap-full-benefits-of-land-certification-in-ethiopia).
 * Enabled 7,300 farmers to take out loans using their second-level land certificates, totaling $7.6 million.
 * Introduced a network of 400 land rental service providers, who facilitated 10,800 formal land rental transactions in rural areas.
 * Advanced implementation of the new Rural Land Administration System to record post-registration land transactions.
