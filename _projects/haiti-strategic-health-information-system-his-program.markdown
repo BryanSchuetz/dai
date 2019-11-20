@@ -19,6 +19,8 @@ The Haiti Strategic Health Information System (HIS) Program team is consolidatin
 
 At present, Haiti’s digital and paper-based health reporting platforms vary greatly from city to city and village to village. This makes Haiti highly vulnerable from a health security standpoint, especially considering its challenging history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak. By creating a single, comprehensive health information system, Haiti will be [better prepared to address its inevitable health crises as well as the daily needs](http://dai-global-developments.com/articles/health-system-in-haiti-takes-key-step-by-launching-national-tuberculosis-tracker/) of its 11 million people. This will benefit not just Haiti but its donor partners and the entire Caribbean region.
 
+![DAI-HIS Data visualizer from HAITI.jpg](/uploads/DAI-HIS%20Data%20visualizer%20from%20HAITI.jpg)
+
 ### Sample Activities
 
 * Enhance departmental coordination for data collection, consolidation, and reporting.
