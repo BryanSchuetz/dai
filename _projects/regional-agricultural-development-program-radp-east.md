@@ -38,4 +38,5 @@ DAI takes a flexible and gender-sensitive approach in implementing the program, 
 
 ### Select Results
 
-*  Engaged 72 people in an agricultural internship program to date and will add 32 more in 2020.
+* Engaged 72 people in an agricultural internship program to date and will add 32 more in 2020.
+* Referred 58 agribusinesses to various lending institutions for credit. Thus far, five loans have been successfully disbursed to the referred agribusinesses, for a total value of more than $250,000—enabling the companies to expand operations, upgrade facilities and equipment, and expand their market.
