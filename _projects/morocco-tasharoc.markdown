@@ -24,9 +24,6 @@ Following recent constitutional reforms and a renewed regionalisation agenda in 
 ### Sample Activities
 
 * Build the capacity of TTAH Regional Council and civil society organisations in project management, organisational development, and communications.
-
 * Support implementation and monitoring of the Regional Development Plan.
-
-* Facilitate dialogue and collaboration between regional stakeholders, including government institutions, civil society, media outlets, and the private sector.
-
+* [Facilitate dialogue and collaboration](https://www.youtube.com/watch?v=TwBh4_epkqU) between regional stakeholders, including government institutions, civil society, media outlets, and the private sector.
 * Support needs assessments for marginalised groups in the TTAH region and the development of a gender and social inclusion strategy for the Regional Council.
