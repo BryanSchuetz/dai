@@ -9,7 +9,7 @@ clients: U.S. Agency for International Development
 summary: DAI is supporting the U.S. Agency for International Development (USAID) to
   bring together international and diaspora investors with local businesses to showcase
   the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference)
-  December 3-5 in Erbil, Iraq.
+  on December 3-5 in Erbil, Iraq.
 social-image: "/uploads/Screen%20Shot%202019-11-22%20at%209.28.48%20AM.png"
 ---
 
