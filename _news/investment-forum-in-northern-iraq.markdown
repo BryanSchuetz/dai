@@ -19,7 +19,7 @@ The event, sponsored by the DAI-led and USAID-funded [Iraq Governance and Perfor
 
 Ninewa province is home to Mosul, Iraq’s third largest city, and has historically been a hub of agricultural production and commerce. The ISIS occupation led to the destruction of infrastructure and businesses, as well as causing massive internal displacement, especially among Ninewa’s Christian, Yazidi, and Turkman communities. Bringing private investment to the region is critical to driving economic growth, creating jobs, and supporting the return of displaced populations.
 
-![Screen Shot 2019-11-22 at 9.29.48 AM.png](/uploads/Screen%20Shot%202019-11-22%20at%209.29.48%20AM.png)`Photo courtesy: IGPA/Takamul project.`
+![Screen Shot 2019-11-22 at 9.29.48 AM.png](/uploads/Screen%20Shot%202019-11-22%20at%209.29.48%20AM.png)` Tahini factory in norther Iraq, one of the more than 20 businesses that will meet with potential investors at the Ninewa Investment Forum. Photo courtesy: IGPA/Takamul project.`
 
 The Ninewa Investment Forum will showcase more than 20 established companies and entrepreneurs seeking funds to expand their operations or launch new businesses. Featured enterprises come from rural and urban areas and include agricultural, food processing, manufacturing, pharmaceutical, tech, and hospitality businesses, representing $130 million in investment opportunities. Business owners range from family-owned tahini factories needing new equipment to expand distribution to a real estate developer seeking funding for a residential project in Mosul. Over the past months, IGPA/Takamul has helped business owners to develop investment plans and prepare to pitch their new ventures.
 
