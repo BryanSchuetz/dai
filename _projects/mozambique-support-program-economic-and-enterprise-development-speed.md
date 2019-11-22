@@ -17,6 +17,10 @@ regions:
 - Sub-Saharan Africa
 country:
 - Mozambique
+promos:
+- title: 'Mozambique: Even a Progressive Land Law Needs Revision After a Generation
+    of Experience'
+  link: https://dai-global-developments.com/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience
 layout: project
 ---
 
@@ -29,23 +33,16 @@ To build upon this momentum, the USAID-funded Supporting the Policy Environment 
 ### Sample Activities
 
 * Provide independent and high-quality analysis and policy options from economic specialists and work with policy influencers to promote informed decisions.
-
 * Improve public-private dialogues through targeted conferences and meetings,  supporting local think tanks, and engaging new voices such as youth organizations.
-
 * Work with local partners to build awareness and public support for policy reforms using traditional and social media.
-
 * Build capacity to enforce conservation laws and support ecotourism activities that help incentivize biodiversity conservation.
-
 * Develop scorecards to monitor reforms, using online tools to survey experts and rate progress on policy recommendations.
 
 ### Select Results
 
 * Assisted in reviewing the National Commercial Code for the Mozambique Council of Ministers, which will simplify the process of registering and starting a business in Mozambique.
-
 * Developed a decree to establish the National Trade Facilitation Committee, which coordinates, supervises, and monitors implementation of the World Trade Organization Trade Facilitation Agreement.
-
 * Supported industry associations to successfully advocate for removal of the Nacala Special Import Tax, which increases the competitiveness of Mozambique’s exports by reducing the cost of outbound shipping containers by $400 each.
-
-* Created a comprehensive guide for implementing Mozambique’s land legislation and trained Ministry of Agriculture staff in its use.
-
+* Created a comprehensive guide for implementing Mozambique’s [land legislation](https://dai-global-developments.com/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience) and trained Ministry of Agriculture staff in its use.
 * Collaborated with USAID’s Power Africa initiative help Mozambique create a [new independent energy regulator](https://medium.com/power-africa/mozambique-gets-new-energy-regulator-c67b8b95d516), the Energy Regulatory Authority.
+* [Supported counterparts](https://www.land-links.org/project/mozambique-support-program-for-economic-and-enterprise-development-plus-speed/) at the Ministry of Land, Environment, and Rural Development to complete a package of four priority land law and administration reforms that will enhance accessibility and security of formal land tenure, and stimulate an increase in land-based investment by clarifying, simplifying, and providing more certainty on land use titles. 
