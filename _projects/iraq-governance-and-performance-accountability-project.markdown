@@ -35,4 +35,4 @@ The Iraq Governance and Performance Accountability (IGPA) project, known locally
 * Revitalized 13 Provincial Planning and Development Councils, which now hold public forums to gather feedback from women and vulnerable populations on improving service delivery.
 * Supported two provinces to meet Ministry of Finance requirements for local revenue generation, paving the way for provinces to use domestic resource mobilization to improve public services without relying solely on federal funding.
 * Re-engineered 50 business processes at service delivery departments, resulting in improved water services, trash collection, and government administrative services for citizens.
-* Supporting small and medium enterprises in areas recovering from ISIS occupation to network with domestic and international investors to grow their businesses and revitalize the local economy.
+* Supporting small and medium enterprises in areas recovering from ISIS occupation to network with [domestic and international investors](https://www.dai.com/news/investment-forum-in-northern-iraq) to grow their businesses and revitalize the local economy.
