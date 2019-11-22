@@ -28,7 +28,7 @@ From its impact on key sectors of the economy to its work strengthening Jordanâ€
 
 ![Devs -- JCP Pharma 1.jpg](/uploads/Devs%20--%20JCP%20Pharma%201.jpg)
 
-In 2016, DAI was additionally hired to lead the Project Management Unit of the Jordan Compact, which helped create jobs for Jordanians and Syrians by developing exports to the European Union. This Compact between countries supported Jordan to mitigate the impact of hosting more than 700,000 registered Syrian refugees. The Compact aimed to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
+In 2016, DAI was additionally hired to lead the Project Management Unit of the Jordan Compact, which helped create jobs for Jordanians and Syrians by developing exports to the European Union. [This Compact](https://www.odi.org/sites/odi.org.uk/files/resource-documents/12058.pdf) between countries supported Jordan to mitigate the impact of hosting more than 700,000 registered Syrian refugees. The Compact aimed to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
 
 ###  Sample Activities
 
