@@ -13,7 +13,7 @@ summary: DAI is supporting the U.S. Agency for International Development (USAID)
 social-image: "/uploads/Screen%20Shot%202019-11-22%20at%209.28.48%20AM.png"
 ---
 
-DAI is supporting the U.S. Agency for International Development (USAID) to bring together international and diaspora investors with local businesses to showcase the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference) December 3-5 in Erbil, Iraq.
+DAI is supporting the U.S. Agency for International Development (USAID) to bring together international and diaspora investors with local businesses to showcase the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference) on December 3-5 in Erbil, Iraq.
 
 The event, sponsored by the DAI-led and USAID-funded [Iraq Governance and Performance Accountability Project (IGPA)/Takamul](https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project) project, is part of an initiative to revitalize the region’s economy.
 
