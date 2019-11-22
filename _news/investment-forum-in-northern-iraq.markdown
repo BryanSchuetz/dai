@@ -15,7 +15,7 @@ social-image: "/uploads/Screen%20Shot%202019-11-22%20at%209.28.48%20AM.png"
 
 DAI is supporting the U.S. Agency for International Development (USAID) to bring together international and diaspora investors with local businesses to showcase the investment potential of northern Iraq at the [Ninewa Investment Forum](https://www.invest-in-ninewa.com/conference) on December 3-5 in Erbil, Iraq.
 
-The event, sponsored by the DAI-led and USAID-funded [Iraq Governance and Performance Accountability Project (IGPA)/Takamul](https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project) project, is part of an initiative to revitalize the region’s economy.
+The event, sponsored by the DAI-led and USAID-funded [Iraq Governance and Performance Accountability project (IGPA)/Takamul](https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project), is part of an initiative to revitalize the region’s economy.
 
 Ninewa province is home to Mosul, Iraq’s third largest city, and has historically been a hub of agricultural production and commerce. The ISIS occupation led to the destruction of infrastructure and businesses, as well as causing massive internal displacement, especially among Ninewa’s Christian, Yazidi, and Turkman communities. Bringing private investment to the region is critical to driving economic growth, creating jobs, and supporting the return of displaced populations.
 
