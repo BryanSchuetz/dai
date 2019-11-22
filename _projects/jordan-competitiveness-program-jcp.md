@@ -21,33 +21,29 @@ country:
 layout: project
 ---
 
-JCP activities align with the goals and opportunities of the Jordan Compact, which coordinates donor responses to the Syrian Refugee Crisis. The program’s three complementary work streams:
+The Jordan Competitiveness Program (JCP) operated from 2013 to 2019 to boost the competitiveness of the Jordanian economy by working with policymakers, business associations, and the private sector to: 1) draft and advocate for business-enabling legislation and regulation; 2) support firms and intermediaries in the private sector to stimulate exports and attract foreign direct investment (FDI); and 3) ensure that these investments result in employment opportunities for Jordanians and, where appropriate, other residents of the Kingdom. 
 
-* **Investment**, including through a partnership with the Jordan Investment Commission that aims to strengthen the capacity of its Investment Promotion Department and identify and facilitate specific investment opportunities worth at least $75 million. 
-* **Export**, including by providing firm-level assistance to at least 40 Jordanian manufacturers with the capacity and interest to export to the European Union under a Simplified Rules of Origin arrangement.
-* **Business Enabling Environment**, including enabling Jordan’s accession to the Patent Cooperation Treaty to register and protect patents and encourage innovation and development of home-grown intellectual property. 
+From its impact on key sectors of the economy to its work strengthening Jordan’s business-enabling policy environment, JCP worked at all levels of the economy, training hundreds of young professionals, building the capacity of local firms, strengthening sector associations, and assisting in the enactment of dozens of forward-thinking laws and regulations that made possible tens of millions of dollars in new investment and exports while creating thousands of jobs. All told, JCP had an outsized impact on Jordan’s economy—stimulating about $70 million in new Jordanian exports, facilitating more than $100 million in investment opportunities, contributing to the creation of nearly 1,000 jobs, and assisting in securing new or better work opportunities for nearly 30,000 individuals. 
 
-<iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/79677732" webkitallowfullscreen="" width="703"></iframe>
+![Devs -- JCP Pharma 1.jpg](/uploads/Devs%20--%20JCP%20Pharma%201.jpg)
 
-In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact, which aims to help create jobs for Jordanians and Syrians by developing exports to the European Union. This Compact between countries is supporting Jordan to mitigate the impact of hosting more than 700,000 registered Syrian refugees. The Compact aims to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
+In 2016, DAI was hired to lead the Project Management Unit of the Jordan Compact, which helped create jobs for Jordanians and Syrians by developing exports to the European Union. This Compact between countries supported Jordan to mitigate the impact of hosting more than 700,000 registered Syrian refugees. The Compact aimed to deliver a measure of stability by leveraging donor and technical assistance to support the Jordanian private sector in industries such as garment manufacture, plastics, and agriculture.
 
 ###  Sample Activities
 
 * [Position Jordanian clusters](http://dai-global-developments.com/articles/can-we-keep-the-promisemobilizing-business-on-the-refugee-frontline-in-jordan) within global value chains.
 * Create [jobs for young people](https://www.jordancompetitiveness.org/stories/2018/5/13/video-with-usaid-support-oasis500-a-homegrown-seed-investor-looks-for-the-next-big-idea) and women, in and outside of Amman.
-* Lead the Project Management Unit of the Jordan Compact—see above.
+* Lead the Project Management Unit of the Jordan Compact.
 
 ###  Select Results
 
 * Streamlined process for participating in the Jordan-EU Trade Agreement, which designated 18 development zones throughout the country to participate in the trade-facilitation program.
 * Published Arabic version of a comprehensive Export Guide aimed at Jordanian small- and medium-sized enterprises to encourage Jordanian exports to the European Union. 
-* Supported iPARK in creating a national network of incubators in Amman, Irbid. and Aqaba, incubating 77 new companies and creating 327 new jobs. 
+* Supported iPARK in creating a national network of incubators in Amman, Irbid, and Aqaba, incubating 77 new companies and creating 327 new jobs. 
 * Launched Jordanian Medical Tourism Initiative to boost Jordan’s competitiveness in the sector and increase investment and export opportunities—with an eye to creating jobs.
-* Launched National Home Care Initiative with the King Hussein Cancer Center to advance the home care services industry and create an expected 1,800 jobs beyond the life of JCP.
+* Launched [National Home Care Initiative](https://dai-global-developments.com/articles/supporting-a-human-centered-home-health-system-in-jordan) with the King Hussein Cancer Center to advance the home care services industry and create an expected 1,800 jobs beyond the life of JCP.
 * Streamlined the Drug Registration Process to greatly reduce the time for private-sector [pharmaceutical manufacturers](https://www.youtube.com/watch?v=uOibo0juvbA&feature=youtu.be) to have a new drug approved for sale; each new drug creates 16 jobs and $1 million in sales revenue.
 * Supported region's first Cardiac Center of Excellence, the eighth hospital in the world to earn Joint Commission International accreditation in the treatment of heart disease.
 * Supported the [electric vehicle industry](https://www.youtube.com/watch?v=0DKmx1WV33o)—from drafting and helping pass the regulation needed to [capture and sell solar-generated electricity](http://dai-global-developments.com/articles/jordan-embraces-renewables-to-fuel-its-economy) at charging stations, to negotiating the partnerships that enabled private-sector investment in those stations. Jordan went from a country with no electric vehicles to a market that now includes Tesla, Nissan, BMW, Mercedes, among others.
 * Supporting Jordan Education for Employment to place 750 college graduates, 53 percent of whom were women.
 * Struck [groundbreaking partnerships](https://www.youtube.com/watch?v=PkX9Olh6d2A&feature=youtu.be) with ICT firms such as Microsoft and Intel, to expand within the country.
-
-[1]: http://www.jcp-jordan.org/
