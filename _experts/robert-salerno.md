@@ -5,14 +5,14 @@ lastname: Salerno
 summary: Robert Salerno a global health and development practitioner with 15 years
   of experience working on complex development projects for a variety of donor and
   private sector clients.
-job-title: Global Health and Development Practitioner
+job-title: 'Director, Global Health Security '
 image: "/uploads/Rob-47f9d6.jpg"
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
 - Health and Livelihoods
 - Health Governance
-- Agriculture and Food Security
+- 
 regions:
 - Worldwide
 - 
