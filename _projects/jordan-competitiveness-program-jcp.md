@@ -1,9 +1,10 @@
 ---
 title: Jordan—Competitiveness Program (JCP)
 date: 2016-01-21 22:40:00 Z
-summary: 'JCP activities align with the goals and opportunities of the Jordan Compact,
-  which coordinates donor responses to the Syrian Refugee Crisis. The program’s three
-  complementary work streams focus on investment, exports, and business-enabling environment. '
+summary: 'JCP stimulated about $70 million in new Jordanian exports, facilitated more
+  than $100 million in investment opportunities, contributed to the creation of nearly
+  1,000 jobs, and assisted in securing new or better work opportunities for nearly
+  30,000 individuals. '
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
