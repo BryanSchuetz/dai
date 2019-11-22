@@ -1,5 +1,5 @@
 ---
-title: Iraq Governance and Performance Accountability (IGPA)/Takamul
+title: Iraq—Governance and Performance Accountability (IGPA)/Takamul
 date: 2017-06-29 19:58:00 Z
 summary: 'The Iraq Governance and Performance Accountability (IGPA)/Takamul porject
   supports the Iraqi Government to shore up fiscal stability while rapidly and visibly
@@ -19,6 +19,8 @@ promos:
 ---
 
 The Iraq Governance and Performance Accountability (IGPA) project, known locally as "Takamul" or "Integration" [supports](http://dai-global-developments.com/articles/new-possibilities-the-role-of-governance-in-countering-violent-extremism-in-iraq?utm_source=daidotcom) the Iraqi Government shore up fiscal stability while rapidly and visibly improving service delivery. The project aims to build capacity for Iraqi government service delivery, improve governorate and national government public financial management, and strengthen monitoring and oversight of service delivery and public expenditure.
+
+![IGPA photo 2.jpg](/uploads/IGPA%20photo%202.jpg)
 
 ### Sample Activities
 
