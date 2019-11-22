@@ -1,7 +1,6 @@
 ---
-title: DAI Project to Hold Investment Forum in Northern Iraq
+title: DAI Project Supports Key Investment Forum in Northern Iraq
 date: 2019-11-22 09:25:00 Z
-published: false
 solutions:
 - Governance
 regions: Middle East and North Africa
