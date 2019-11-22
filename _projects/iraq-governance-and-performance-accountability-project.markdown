@@ -25,7 +25,7 @@ The Iraq Governance and Performance Accountability (IGPA) project, known locally
 ### Select Results
 
 * Engaged 274 civil society organizations in planning, oversight, and accountability for public service delivery through holding public forums, surveys, and other feedback activities.
-* Established Social Accountability Groups in four provinces made up of civil society volunteers, which have helped resolve 42 water cases and 82 trash collection cases, benefiting 85,000 Iraqis.
+* Established social accountability groups in four provinces made up of civil society volunteers. The groups have helped resolve 42 water cases and 82 trash collection cases, benefiting 85,000 Iraqis.
 * Revitalized 13 Provincial Planning and Development Councils, which now hold public forums to gather feedback from women and vulnerable populations on improving service delivery.
 * Supported two provinces to meet Ministry of Finance requirements for local revenue generation, paving the way for provinces to use domestic resource mobilization to improve public services without relying solely on federal funding.
 * Re-engineered 50 business processes at service delivery departments, resulting in improved water services, trash collection, and government administrative services for citizens.
