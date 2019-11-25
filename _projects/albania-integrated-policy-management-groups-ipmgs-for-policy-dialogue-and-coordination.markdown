@@ -2,7 +2,6 @@
 title: Albania—Integrated Policy Management Groups (IPMGs) for Policy Dialogue and
   Coordination
 date: 2019-11-18 13:30:00 Z
-published: false
 summary: DAI is providing technical assistance to the Integrated Policy Management
   Groups (IPMGs) for policy dialogue and coordination in Albania to improve institutional
   mechanisms, capacities, and procedures for strategic and integrated planning at
