@@ -23,6 +23,8 @@ Each IMPG/SSC has a technical secretariat. The Department for Development and Go
 
 DAI is providing technical assistance to the Integrated Policy Management Groups (IPMGs) for policy dialogue and coordination in Albania to improve institutional mechanisms, capacities, and procedures for strategic and integrated planning at central and sector levels.
 
+![albania.jpg](/uploads/albania.jpg)
+
 ### Sample Activities
 
 * Establish a process to coordinate the full national sector reform implementation cycle.
