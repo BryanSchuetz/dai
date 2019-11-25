@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Leadership, Interactions, Networks, and Knowledge (LINK)
 date: 2019-11-25 08:44:00 Z
-published: false
 summary: The LINK project plays an integral role in transforming agricultural policy
   systems worldwide, thereby improving food security outcomes in line with the U.S.
   Global Food Security Strategy and advancing countries on their journeys to self-reliance.
