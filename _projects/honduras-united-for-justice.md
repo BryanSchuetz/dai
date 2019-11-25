@@ -51,12 +51,16 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
  
 * Provided 625 vulnerable individuals with psychological support and legal counsel via civil society organizations (CSOs) empowered by Unidos. 
 * Launched training in social auditing for 23 CSOs to detect corruption; 48 CSOs to conduct oversight in security, justice and human rights; and 38 CSOs in crime data analysis and citizen security.  
+* Provided support to human rights defenders to improve reporting and investigation of human rights violations, as well as institutional strengthening to the Public Prosecutor’s office and the Office of the Special Prosecutor for Human Rights to streamline the handling of human rights cases.
+* Provided training on human rights and the private sector to 90 business leaders in key urban centers and worked on the development of a human rights police for businesses.
  
 **Community Policing:** 
+
 * Supported 270 National Police community relations activities that attracted 44,760 residents of 29 high-crime barrios, with double these activities planned through 2020;
 * Supported 25 trainings for 570 people, mostly police officers, on human rights and community policing issues, and produced curriculum to be instituted by the National Police Academy. 
  
 **Protecting Women:** 
+
 * Designed training to support female survivors of violence now incorporated into National Police Academy coursework. 
 * Fostered National Police initiative to develop a Gender Policy. 
 Supported National Police Mother’s Day-themed information fairs that provided gender-based violence information to 800 people, mostly women, in Tegucigalpa, San Pedro Sula, and La Ceiba. 
