@@ -17,7 +17,7 @@ The Government of Guatemala’s anemic ratio of tax revenue-to-gross domestic pr
 
 Through FPRP, DAI works with Guatemala’s Tax and Customs Administration and Ministry of Finance to collect and spend revenue with greater efficiency, effectiveness, and accountability, ultimately increasing its ability to invest in public services and improve outcomes for citizens in health, education, and economic growth.
 
-The project draws from similar fiscal reform successes by DAI on behalf the U.S. Agency for International Development (USAID) in El Salvador, Jordan, and the Philippines. 
+The project draws from similar fiscal reform successes by DAI on behalf the U.S. Agency for International Development (USAID) in [El Salvador](https://www.dai.com/our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp), [Jordan](https://www.dai.com/our-work/projects/jordan-fiscal-reform-project-ii-and-bridge-activity-frp-ii-frp-bridge), and the [Philippines](https://www.dai.com/our-work/projects/philippines-facilitating-public-investment-fpi). 
 
 ![FPRP.jpg](/uploads/FPRP.jpg)
 
