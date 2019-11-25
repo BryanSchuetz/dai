@@ -20,14 +20,14 @@ country:
 layout: project
 ---
 
-This project assists six conflict-affected areas in Mindanao, Philippines: Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo, and its surrounding environs. Through the promotion of good governance, ENGAGE will improve peace and stability by:
+This project assists six conflict-affected areas in Mindanao, Philippines: Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo, and its surrounding environs. Through the promotion of good governance, ENGAGE works to improve peace and stability by:
 
 * Strengthening the capacity, legitimacy, transparency, and accountability of local government; and
 * Increasing the involvement of citizens in governance through civic education, civil society strengthening, and the promotion of participatory mechanisms.
 
-In collaboration with local subcontractors Lumaenis Development Assistance, Inc. and Orient Integrated Development Consultants, Inc., DAI will operate from two main offices in Davao and Zamboanga City and employ Municipal and Community Engagement Officers based throughout the target areas to engage communities and local governments.
+In collaboration with local subcontractors Lumaenis Development Assistance, Inc. and Orient Integrated Development Consultants, Inc., DAI operates from two main offices in Davao and Zamboanga City and employs Municipal and Community Engagement Officers in the target areas to engage communities and local governments.
 
-ENGAGE will ultimately support at least 24 local government units (LGUs) and 48 civil society organizations. Activities will focus on improving the capacity of LGUs and civil society actors to work together to resolve conflict and address community priorities. ENGAGE will work with select LGUs to promote stronger management, simultaneously stimulating community leadership—religious and traditional, youth and women, and the academic community—to encourage participation in decision making, strengthening the partnership between local governments and their constituencies.
+ENGAGE will ultimately support at least 24 local government units (LGUs) and 48 civil society organizations. Activities focus on improving the capacity of LGUs and civil society actors to work together to resolve conflict and address community priorities. ENGAGE works with select LGUs to promote stronger management, simultaneously stimulating community leadership—religious and traditional, youth and women, and the academic community—to encourage participation in decision making, strengthening the partnership between local governments and their constituencies.
 
 ![][1]
 
