@@ -63,5 +63,5 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
 
 * Designed training to support female survivors of violence now incorporated into National Police Academy coursework. 
 * Fostered National Police initiative to develop a Gender Policy. 
-Supported National Police Mother’s Day-themed information fairs that provided gender-based violence information to 800 people, mostly women, in Tegucigalpa, San Pedro Sula, and La Ceiba. 
+* Supported National Police Mother’s Day-themed information fairs that provided gender-based violence information to 800 people, mostly women, in Tegucigalpa, San Pedro Sula, and La Ceiba. 
 * Facilitated network of 215 volunteers in four cities to advise female victims of violence and steer them to legal and psychological services.
