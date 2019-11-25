@@ -47,6 +47,6 @@ The USAID-funded [Sri Lankan Parliament Project][1] (SLPP), also implemented by 
 * Provided support to strengthen the laws in relation to corruption by drafting a consolidated law addressing, bribery, corruption and asset declaration.
 * Supported the Commission to Investigate Bribery or Corruption to develop a National Action Plan for Combating Bribery and Corruption in Sri Lanka with four pillars: prevention; value-based education; institutional strengthening; and policy and legal reform. The consultative process spanned nine months across the nine provinces of the country with multi-party and multi-disciplinary stakeholder engagement.
 * Facilitated Sri Lanka's participation in the Open Government Partnership (OGP) for the last three years, including the development of Sri Lanka's national action plans.
-
+* Created a Gender Mainstreaming and Gender Responsive Budgeting manual in partnership with the Ministry of Women and Child Affairs.
 
 [1]: http://www.dai.com/our-work/projects/short-term-technical-assistance-sri-lankan-parliament-project-slpp
