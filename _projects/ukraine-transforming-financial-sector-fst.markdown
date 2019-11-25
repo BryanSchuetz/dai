@@ -26,17 +26,13 @@ At the heart of FST is DAI’s market systems approach to inclusive financial se
 ### Sample Activities
 
 * Support the development and passage of new legislation that addresses consumer protection and ensures that consumer rights are in place for nonbank financial services.
-
 * Partner with local nongovernmental organizations and universities to expand financial literacy among marginalized and hard-to-reach populations by developing educational materials, tools, games, and apps that address new consumer rights and protection laws.
-
 * Collaborate with leasing and credit union associations to raise awareness of critical business constraints caused by policy and taxation issues, and put forth legislation to facilitate reforms.
-
 * Support the establishment of a diaspora fund to attract diaspora investment and facilitate access to financing ready SMEs.
 
 ### Select Results
 
-* Conducted Financial Awareness Days with partners–including the National Bank of Ukraine, VISA, the Deposit Guarantee Fund of Ukraine, Independent Association of Ukrainian Banks, the Banking University, and the Securities and Stock Market National Commission–featuring multiple workshops and lecture sessions for teachers and university professors, high school and university students, business people, vulnerable groups, and the general public. The event attracted more than 10,000 individuals.
-
+* Conducted Financial Awareness Days with partners—including the National Bank of Ukraine, VISA, the Deposit Guarantee Fund of Ukraine, Independent Association of Ukrainian Banks, the Banking University, and the Securities and Stock Market National Commission—featuring multiple workshops and lecture sessions for teachers and university professors, high school and university students, business people, vulnerable groups, and the general public. The event attracted more than 10,000 individuals.
 * Developed a national Financial Empowerment training program for vulnerable populations (internally displaced persons, pensioners, orphans) implemented in partnership with the Ukrainian Women's Fund.
-
 * Implemented a financial literacy course for schoolchildren that is now taught in more than 1,000 schools nationwide to 41,000 students.
+* Supported creation of the Base Erosion and Profit Shifting (BEPS law), which removes gaps in international tax regulation that allow companies to “conceal” their profits and avoid or minimize taxation through moving them into low-tax countries, and the Anti-Money Laundering law, which introduces a new risk-based approach to combat money laundering, increases penalties and executive discretion to level fines and open investigations.
