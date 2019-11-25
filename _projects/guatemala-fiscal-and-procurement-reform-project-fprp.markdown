@@ -17,7 +17,9 @@ The Government of Guatemala’s anemic ratio of tax revenue-to-gross domestic pr
 
 Through FPRP, DAI works with Guatemala’s Tax and Customs Administration and Ministry of Finance to collect and spend revenue with greater efficiency, effectiveness, and accountability, ultimately increasing its ability to invest in public services and improve outcomes for citizens in health, education, and economic growth.
 
-The project draws from similar fiscal reform successes by DAI on behalf the U.S. Agency for International Development (USAID) in El Salvador, Jordan, and the Philippines.    
+The project draws from similar fiscal reform successes by DAI on behalf the U.S. Agency for International Development (USAID) in El Salvador, Jordan, and the Philippines. 
+
+![FPRP.jpg](/uploads/FPRP.jpg)
 
 ## Sample Activities
 
@@ -28,4 +30,4 @@ The project draws from similar fiscal reform successes by DAI on behalf the U.S.
 
 ## Select Results
 
-* Launched 
+* Launched [GUATECOMPRAS](http://www.guatecompras.gt/) mobile app, an innovative technological solution accessible through mobile devices for public procurements in Guatemala. The app revolutionizes the direct purchase modality in public procurements less than $12,000 at all levels of government, allowing transactions to take place at minimum administrative costs, through a transactional and transparent process.
