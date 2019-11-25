@@ -23,6 +23,10 @@ By applying a systems approach that strengthens linkages between upstream and do
  
 The project is expected to strengthen services for some 1.1 million Filipinos.
 
-## Sample Activities
-  
 ![LUCAB PWS (4).jpg](/uploads/LUCAB%20PWS%20(4).jpg) 
+
+## Sample Activities
+
+* Improve the quality of, and access to, water supply and sanitation services by building the technical and managerial capacities of service providers, emphasizing the application of water data and information to design, operate, and maintain resilient natural and built assets. 
+* Increase planning and coordination among local, regional, and watershed stakeholders. 
+* Improve the resilience of upstream water supplies through integrated water resources management and reduce the volume of downstream demand by building a constituency of water-wise households and businesses. 
