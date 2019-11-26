@@ -1,9 +1,9 @@
 ---
 title: Cambodia—Development Innovations
 date: 2016-01-21 22:40:00 Z
-summary: The U.S. Agency for International Development-funded Development Innovations
-  project connects Cambodia's civil society and technology communities to design and
-  use information and communication technology solutions to address development challenges.
+summary: The Development Innovations project connected Cambodia's civil society and
+  technology communities to design and use information and communication technology
+  solutions to address development challenges.
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
@@ -22,7 +22,7 @@ Technology—when carefully adapted to the context and users it serves—has the
 
 This program enables Cambodian-led technology products to be designed and built to meet civil society and user demands and trigger changes in the ways civil society conducts programs and design solutions. DI is dedicated to services that are tailored to the needs of civil society actors, and help improve access to and use of tools [such as mobile technologies](https://www.forbes.com/sites/joshuawilwohl/2016/02/14/new-app-to-help-cambodians-track-complaints-made-with-local-govt/#32e8d1ee156f), the Internet, and social media. Ultimately, this access and knowledge will help civil society take steps to make their own programs more sustainable and efficient, amplify their programmatic results and support citizen-centered civic engagement.
 
-<iframe src="https://player.vimeo.com/video/318202536" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/375672295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###  Sample Activities
 
@@ -43,3 +43,5 @@ This program enables Cambodian-led technology products to be designed and built 
 * In partnership with leading telco Smart Axiata, supported Mekong Strategic Partners to run [SmartScale](https://www.smartscalekh.com/) powered by Seedstars, an investor-led business accelerator for 12 growth-stage enterprises to improve investment readiness and business sustainability.  
 
 <iframe src="https://player.vimeo.com/video/179469768" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/318202536" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
