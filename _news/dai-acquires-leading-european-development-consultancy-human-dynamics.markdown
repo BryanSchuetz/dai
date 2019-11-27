@@ -8,11 +8,12 @@ published: false
 
 *Bethesda, Maryland*—DAI today announced the acquisition of Human Dynamics, a pre-eminent supplier of international development services in the European market.
   
-> “We are thrilled to be joining forces with Human Dynamics,” said DAI President and CEO ?**Jim Boomgard**. “In combination, we are a stronger, more diverse, more vibrant organization, and our scale and technical breadth will enable us to offer richer services and better value to our customers, particularly but not exclusively our clients in the European Union.”
+> “We are thrilled to be joining forces with Human Dynamics,” said DAI President and CEO **Jim Boomgard**. “In combination, we are a stronger, more diverse, more vibrant organization, and our scale and technical breadth will enable us to offer richer services and better value to our customers, particularly but not exclusively our clients in the European Union.”
  
 Founded in 1993 in Vienna, Austria—but now operating also out of Bulgaria, Serbia, Turkey, the United Kingdom, and elsewhere—Human Dynamics brings to DAI a team of development professionals with a record of delivering outstanding technical assistance and project management services.
 
-![IMG_1457.jpeg](/uploads/IMG_1457.jpeg)`Human Dynamics founder and Executive Partner Bernhard Hulla, with DAI CFO Mike Jakobowski (left) and DAI Executive Vice President, Zan Northrip.`
+![IMG_1457.jpeg](/uploads/IMG_1457.jpeg)
+`Human Dynamics founder and Executive Partner Bernhard Hulla, with DAI CFO Mike Jakobowski (left) and DAI Executive Vice President, Zan Northrip.`
 
 “I am immensely proud of the organization we have built and the development impact it has delivered,” said Bernhard Hulla, the founder and sole-owner of Human Dynamics, who will join the DAI Board. “In DAI, we have found not only the best partner to sustain that legacy of professional excellence, uncompromising integrity, and commitment to global citizenship, but to usher in the next phase of Human Dynamics’ growth.”
 
