@@ -26,7 +26,7 @@ Human Dynamics’ 25-year history of service to the EC and its ongoing projects 
 * Environment (Turkey, Turkmenistan, and the Western Balkans); and 
 * Energy and transportation (Algeria, Egypt, and the Maghreb).
 
-DAI was advised in this transaction by ButcherJoseph & Co.
+DAI was advised in this transaction by ButcherJoseph & Co. Human Dynamics was advised by Equiteq in this transaction. 
 
 <aside>
 <h3><em>About Human Dynamics</em></h3>
