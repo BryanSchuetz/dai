@@ -29,9 +29,9 @@ layout: project
 
 The U.K. Department for International Development (DFID) Partnership to Engage, Reform and Learn (PERL) is a five-year programme that supports governments, citizens, and evidence-based advocacy. PERL helps governments develop and implement policy by assisting them in tracking and accounting for how policies, plans, and budgets are used in delivering public goods and services to promote growth and reduce poverty. It supports citizens to engage with these processes.
 
-![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
+PERL is implemented through coordinated “pillars” that together support sustainable service delivery reforms: Pillar 1 is Accountable, Responsive, and Capable Government (ARC), led by DAI; Pillar 2, Engaged Citizens, is delivered by Palladium. Through PERL, DAI and Palladium work collaboratively at the federal level; in the partner states of Borno, Jigawa, Kaduna, Kano, and Yobe; and through regional learning and reform hubs in the southwest, southeast, and northeast areas of Nigeria. PERL builds on the experiences of SPARC and applies a problem-driven, iterative adaptation approach (PDIA). DFID's largest adaptive management in governance programme, it received an A+ in its most recent evaluation.
 
-PERL is being delivered through coordinated “pillars” that together support sustainable service delivery reforms: Pillar 1 is Accountable, Responsive, and Capable Government (ARC), delivered by DAI; Pillar 2, Engaged Citizens, is delivered by Palladium. Through PERL, DAI and Palladium work collaboratively at the federal level; in the partner states of Kano, Kaduna, and Jigawa; and through regional learning and reform hubs in the southwest, southeast, and northeast areas of Nigeria. PERL builds on the experiences of SPARC and applies a problem-driven, iterative adaptation approach (PDIA). DFID's largest adaptive management in governance programme, it received an A+ in its most recent evaluation.
+![Paying taxes in Nigeria](/uploads/SPARCtax.jpg)
 
 ### Sample Activities
 
