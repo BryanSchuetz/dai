@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Accountable, Responsive, and Capable Government
+title: Nigeria—Accountable, Responsive, and Capable Government (ARC)
 date: 2016-01-21 22:40:00 Z
 summary: The U.K. Department for International Development Partnership to Engage,
   Reform and Learn is a five-year programme that supports governments, citizens, and
