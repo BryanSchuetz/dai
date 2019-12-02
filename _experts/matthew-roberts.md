@@ -17,6 +17,6 @@ layout: expert
 
 Matthew Roberts is Principal, Delivery. Matthew’s previous position was as Framework Manager of the [Evidence on Demand (EoD)](https://www.dai.com/our-work/projects/worldwide-evidence-demand-core-services) programme, where he built strong relationships with DFID advisors. EoD, an international development information hub, provided access to high-quality resources, sourcing individual consultants or putting together bespoke teams to match specific needs relating to climate and environment, infrastructure, and livelihoods. Since joining the company in 2005, his work has also included managing the Livelihoods Resource Centre, a programme of support services for DFID staff, a role as Deputy Programme Manager on a U.K. Department for Environment, Food, and Rural Affairs contract to provide an emergency vaccination response in the event of an outbreak of foot-and-mouth disease, and three years in the European Commission Framework Unit.
 
-* Masters, advanced international studies, Diplomatische Akademie, Vienna
+* M.A., advanced international studies, Diplomatische Akademie, Vienna
 * Diploma, international studies, John Hopkins University School for Advanced International Studies, Bologna
-* MA (Hons), Italian with European history, University of Edinburgh
+* M.A. (Hons), Italian with European history, University of Edinburgh
