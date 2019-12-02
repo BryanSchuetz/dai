@@ -16,7 +16,7 @@ social-image: "/uploads/IMG_1457-630b25.jpeg"
 Founded in 1993 in Vienna, Austria—but now operating also out of Bulgaria, Serbia, Turkey, the United Kingdom, and elsewhere—Human Dynamics brings to DAI a team of development professionals with a record of delivering outstanding technical assistance and project management services.
 
 ![IMG_9069-2.jpg](/uploads/IMG_9069-2.jpg)
-`Human Dynamics founder and Executive Partner Bernhard Hulla, with DAI Executive Vice President Zan Northrip, and DAI President and CEO James Boomgard.`
+`Human Dynamics founder and Executive Partner Bernhard Hulla with DAI Executive Vice President Zan Northrip and DAI President and CEO James Boomgard.`
 
 “I am immensely proud of the organization we have built and the development impact it has delivered,” said Bernhard Hulla, the founder and sole-owner of Human Dynamics, who will join the DAI Board. “In DAI, we have found not only the best partner to sustain that legacy of professional excellence, uncompromising integrity, and commitment to global citizenship, but to usher in the next phase of Human Dynamics’ growth.”
 
