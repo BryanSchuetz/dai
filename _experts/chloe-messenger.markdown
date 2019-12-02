@@ -2,10 +2,10 @@
 title: Chloe Messenger
 date: 2018-07-25 20:11:00 Z
 lastname: Messenger
-summary: 'Chloe Messenger is a Consultant within DAI’s dedicated Center for Digital
-  Acceleration, working across business units and donors to help integrate new technologies
-  into development work. '
-job-title: Consultant, Center for Digital Acceleration
+summary: 'Chloe Messenger is a Senior Consultant within DAI’s dedicated Center for
+  Digital Acceleration, working across business units and donors to help integrate
+  new technologies into development work. '
+job-title: Senior Consultant, Center for Digital Acceleration
 image: "/uploads/chloe.jpg"
 solutions:
 - Digital Acceleration
@@ -15,7 +15,7 @@ solutions:
 - Digital Trainings
 ---
 
-Chloe Messenger is a Consultant within DAI’s dedicated Center for Digital Acceleration, working across business units and donors to help integrate new technologies into development work. She has four years of experience in the international development and nongovernmental sectors.
+Chloe Messenger is a Senior Consultant within DAI’s dedicated Center for Digital Acceleration, working across business units and donors to help integrate new technologies into development work. She has four years of experience in the international development and nongovernmental sectors.
  
 Chloe has hands-on experience of research into digital technologies and innovation, and recently conducted “Frontier Insights” research in Malawi, focused on mapping the technology use and media consumption habits of marginalised communities living in rural areas. For the U.K. Department for International Development (DFID) in Malawi, Chloe conducted a review of the Malawian technology landscape to identify opportunities for collaboration between technology entrepreneurs and development implementers.
  
