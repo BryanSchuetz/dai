@@ -1,12 +1,10 @@
 ---
 title: Nigeria—Accountable, Responsive, and Capable Government (ARC)
 date: 2016-01-21 22:40:00 Z
-summary: The U.K. Department for International Development Partnership to Engage,
-  Reform and Learn is a five-year programme that supports governments, citizens, and
-  evidence-based advocacy. PERL helps governments develop and implement policy by
-  assisting them in tracking and accounting for how policies, plans, and budgets are
-  used in delivering public goods and services to promote growth and reduce poverty.
-  It supports citizens to engage with these processes.
+summary: " The programme helps local governments in Nigeria develop and implement
+  policy by assisting them in tracking and accounting for how policies, plans, and
+  budgets are used in delivering public goods and services to promote growth and reduce
+  poverty."
 start: 2016
 end: 2020
 client: U.K. Department for International Development
