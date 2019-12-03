@@ -16,6 +16,9 @@ regions:
 - Latin America and the Caribbean
 country:
 - Haiti
+promos:
+- title: Political Economy Analysis Sheds Light on Farmer Behavior in Northern Haiti
+  link: https://www.marketlinks.org/post/political-economy-analysis-sheds-light-farmer-behavior-northern-haiti
 layout: project
 ---
 
