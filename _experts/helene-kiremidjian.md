@@ -16,6 +16,9 @@ regions:
 - Latin America and the Caribbean
 - Middle East and North Africa
 - Sub-Saharan Africa
+articles:
+- name: Political Economy Analysis Sheds Light on Farmer Behavior in Northern Haiti
+  article_file: https://www.marketlinks.org/post/political-economy-analysis-sheds-light-farmer-behavior-northern-haiti
 layout: expert
 ---
 
