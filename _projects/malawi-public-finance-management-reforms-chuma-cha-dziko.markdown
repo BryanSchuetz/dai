@@ -1,7 +1,10 @@
 ---
 title: Malawi—Public Finance Management Reforms (Chuma Cha Dziko)
 date: 2019-12-05 08:05:00 Z
-published: false
+summary: DAI works with the Government of Malawi, the Ministry of Finance, Economic
+  Planning, and Development, and other stakeholders to achieve efficient and effective
+  use of public resources and support the growth of the economy and development of
+  Malawi.
 start: 2019
 end: 2024
 client: European Commission
@@ -27,7 +30,7 @@ Since 2014, the Government of Malawi has continuously reiterated its commitment 
 * Work with Ministry of Finance, Economic Planning, and Development's Public Finance Management Support Unit to oversee and deliver public finance reforms, support broader change management and work with all relevant counterparts across the projects components to embed innovative approach to tackle complex delivery bottlenecks.
 * Apply behaviour change and problem-driven approaches to drive forward tangible and relevant results.
 * Work with stakeholders in the Malawi public procurement system to improve transparency and accountability of public procurement.
-* Work with the Department of Human Resource Management and Development to increase control over payroll, enhance pension and payroll processing and Transferring Pension Payments to Terminal Benefits Module of HRMIS.
-* Support commitment control to reduce arrears and better manage debt, by reviewing the IFMIS-based expenditure commitment control system.
+* Work with the Department of Human Resource Management and Development to increase control over payroll, enhance pension and payroll processing, and transferring pension payments to the terminal benefits module of the human resources management information system.
+* Support commitment control to reduce arrears and better manage debt.
 * Develop a policy and governance framework for monitoring of parastatals and other government investments.
-* Support GoM in strengthening its tax policy framework and improving internal tax and non-tax policy and planning capabilities. This will contribute to more effective revenue mobilisation and stimulate economic productivity and investment.
+* Strengthen Malawi's tax policy framework and improve internal tax and non-tax policy and planning capabilities.
