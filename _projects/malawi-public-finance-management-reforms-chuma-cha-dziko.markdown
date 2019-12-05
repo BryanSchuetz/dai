@@ -24,10 +24,10 @@ Since 2014, the Government of Malawi has continuously reiterated its commitment 
 
 ### Sample Activities
 
-* Work with Ministry of Finance, Economic Planning, and Development (MoFEPD) PFM Support Unit to oversee and deliver the PFM Reform package, support broader change management and work with all relevant counterparts across the projects components to embed innovative approach to tackle complex delivery bottlenecks.
-* Apply behaviour change and problem driven approaches to drive forward tangible and relevant PFM results.
-* Work with stakeholders in the Malawi public procurement system to improve transparency and accountability of Public Procurement.
-* Work with the Department of Human Resource Management and Development (DHRMD) to increase control over payroll, enhance pension and payroll processing and Transferring Pension Payments to Terminal Benefits Module of HRMIS.
+* Work with Ministry of Finance, Economic Planning, and Development's Public Finance Management Support Unit to oversee and deliver public finance reforms, support broader change management and work with all relevant counterparts across the projects components to embed innovative approach to tackle complex delivery bottlenecks.
+* Apply behaviour change and problem-driven approaches to drive forward tangible and relevant results.
+* Work with stakeholders in the Malawi public procurement system to improve transparency and accountability of public procurement.
+* Work with the Department of Human Resource Management and Development to increase control over payroll, enhance pension and payroll processing and Transferring Pension Payments to Terminal Benefits Module of HRMIS.
 * Support commitment control to reduce arrears and better manage debt, by reviewing the IFMIS-based expenditure commitment control system.
 * Develop a policy and governance framework for monitoring of parastatals and other government investments.
 * Support GoM in strengthening its tax policy framework and improving internal tax and non-tax policy and planning capabilities. This will contribute to more effective revenue mobilisation and stimulate economic productivity and investment.
