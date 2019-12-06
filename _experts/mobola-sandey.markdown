@@ -22,6 +22,6 @@ Mobola has also worked within a Centre of Excellence team in support of BP’s g
 Mobola is from Lagos, Nigeria and has lived in the U.K., France, and Cote D’Ivoire. 
 
 * B.Eng., materials science and engineering with management, Imperial College London 
-Master’s, international business, Grenoble Ecole de Management 
-Member, Chartered Institute of Procurement and Supply (MCIPS)
-APM Project Management Qualification (PMQ)
+* Master’s, international business, Grenoble Ecole de Management 
+* Member, Chartered Institute of Procurement and Supply (MCIPS)
+* APM Project Management Qualification (PMQ)
