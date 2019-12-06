@@ -13,7 +13,7 @@ regions:
 - Worldwide
 ---
 
-Mobola Sandey is a Principal Specialist with DAI’s Sustainable Business Group (SBG), where she specializes in local content and supplier development. Mobola has supported SBG projects on related to reporting, tracking, and analyzing local content and supporting SBG’s Local Content Plan and Reporting Platform (LCPR), an online tool for local content  procurement, workforce, and capacity development. 
+Mobola Sandey is a Principal Specialist with DAI’s Sustainable Business Group (SBG), where she specializes in local content and supplier development. Mobola has supported SBG projects related to reporting, tracking, and analyzing local content and supporting SBG’s Local Content Plan and Reporting Platform (LCPR)—an online tool for local content  procurement, workforce, and capacity development. 
 
 Before joining DAI, Mobola spent six years with BP working on the upstream procurement and supply chain function. She carried out sourcing and supply chain management activities for large engineering services and equipment contracts to support operations for the supergiant Rumalia oilfield in Iraq. In this role, she coordinated international and local suppliers and internal stakeholders within a complex tripartite JV structure. 
 
