@@ -26,3 +26,11 @@ Even before the onset of regional instability, eastern Ukraine was saddled with 
 * Promote regional exports to the European Union and other international markets.
 * Improve access to finance for entrepreneurs and small businesses.
 * Raise awareness of the importance of emerging industries for the region’s economic future.
+
+### Select Results
+
+* Facilitated inward investment of Danish engineering firm [BIIR](http://euromaidanpress.com/2015/06/04/danish-entrepreneur-now-is-the-time-to-invest-in-ukraine/) in Rubizhne. To date, BIIR has procured $25,000 worth of computers and software and weighed in on curriculum requirements to launch the Rubizhne training of trainers’ program at Dahl University with the plan to hire the trained graduates. 
+* Assisted 935 vulnerable and hard-to-reach beneficiaries with various training.
+* Worked with a small group of “pathfinder farmers” to help them to grow cherry tomatoes that are in high demand by national retail stores that resulted in a contract to regularly ship the tomatoes to Fozzy Group, which owns more than 500 supermarkets throughout Ukraine. The cooperative is now in sales negotiations for sale of new products next year and ERA is scaling up the pilot to farming communities. Watch the video below to learn more: 
+
+<iframe src="https://player.vimeo.com/video/377616243" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
