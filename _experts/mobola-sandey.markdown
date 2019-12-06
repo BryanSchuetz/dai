@@ -1,7 +1,6 @@
 ---
 title: Mobola Sandey
 date: 2019-12-06 19:42:00 Z
-published: false
 lastname: Sandey
 summary: Mobola Sandey is a Principal Specialist with DAI’s Sustainable Business Group
   (SBG), where she specializes in local content and supplier development.
