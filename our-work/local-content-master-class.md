@@ -13,7 +13,7 @@ The [Sustainable Business Group](/our-work/solutions/sustainable-business) offer
 
 Upcoming Master Class: May 6–8, 2020, Houston, Texas, USA
 
-[Read the brochure here](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)].
+[Read the brochure here.](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)
 
 > “The Master Class has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
@@ -120,8 +120,8 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 * Europe: London, November 2019
 
-  * [Brochure](/uploads/DAI%20UK%20Masterclass%20Brochure_Nov%202019-62cc47.pdf)
-  * [Agenda](/uploads/0%20-%203%20-%20UK%202019%20Masterclass%20Program.pdf)
+  * [Brochure](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)
+  * [Agenda](/uploads/0%20-%203%20-%20Houston%202020%20Masterclass%20Program.pdf)
   * [Pre-course Reading](/uploads/tanzania-reading.pdf)
 
 ## Customized Courses
