@@ -11,7 +11,7 @@ layout: default
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. 
 
-Upcoming Master Class: November 20–22, 2019, Henley-on-Thames, United Kingdom.
+Upcoming Master Class: May 6–8, 2020, Houston, Texas, USA
 
 [Read the Brochure](/uploads/DAI%20UK%20Masterclass%20Brochure_Nov%202019-d9dd98.pdf).
 
