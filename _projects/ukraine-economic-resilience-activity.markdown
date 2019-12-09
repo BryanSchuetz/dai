@@ -22,14 +22,13 @@ Even before the onset of regional instability, eastern Ukraine was saddled with 
 
 * Provide technical assistance and cost-share grants to conflict-affected businesses.
 * Work with partner institutions to adapt workforce training curricula to reflect in-demand skills.
-* Advance policy changes to increase the business competitiveness of municipalities.
 * Promote regional exports to the European Union and other international markets.
 * Improve access to finance for entrepreneurs and small businesses.
 * Raise awareness of the importance of emerging industries for the region’s economic future.
 
 ### Select Results
 
-* Facilitated inward investment of Danish engineering firm [BIIR](http://euromaidanpress.com/2015/06/04/danish-entrepreneur-now-is-the-time-to-invest-in-ukraine/) in Rubizhne. To date, BIIR has procured $25,000 worth of computers and software and weighed in on curriculum requirements to launch the Rubizhne training of trainers’ program at Dahl University with the plan to hire the trained graduates. 
+* Facilitated inward investment of Danish engineering firm [BIIR](http://euromaidanpress.com/2015/06/04/danish-entrepreneur-now-is-the-time-to-invest-in-ukraine/) in Rubizhne, a city in the Luhansk Oblast in eastern Ukraine. To date, BIIR has procured $25,000 worth of computers and software and weighed in on curriculum requirements to launch the Rubizhne training of trainers’ program at Dahl University with the plan to hire the trained graduates. 
 * Assisted 935 vulnerable and hard-to-reach beneficiaries—of whom 61 percent were female—in the first year with training and technical assistance.
 * Supported grantee Ukrainian Leadership Academy to host a youth forum called
 “[Every Tomorrow Starts Today](https://www.facebook.com/watch/?v=528382821056937).” More than 400 young leaders from all 24 oblasts of Ukraine helped develop a vision for “Ukraine 2030.” 
