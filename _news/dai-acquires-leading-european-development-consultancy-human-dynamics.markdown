@@ -1,6 +1,7 @@
 ---
 title: DAI Acquires Leading European Development Consultancy, Human Dynamics
 date: 2019-11-27 01:00:00 Z
+is_featured: true
 clients: European Commission
 summary: DAI today announced the acquisition of Human Dynamics, a pre-eminent supplier
   of international development services in the European market.
