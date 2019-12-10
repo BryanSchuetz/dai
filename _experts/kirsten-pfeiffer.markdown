@@ -11,8 +11,8 @@ solutions:
 - Agriculture and Food Security
 - Value Chain and Market Systems Development
 articles:
-- name: New Research Offers Alternatives for Frontier Market Venture Capital and Private
-    Equity
+- name: '"New Research Offers Alternatives for Frontier Market Venture Capital and
+    Private Equity"'
   article_file: https://dai-global-developments.com/articles/new-research-offers-alternatives-for-frontier-markets
 ---
 
