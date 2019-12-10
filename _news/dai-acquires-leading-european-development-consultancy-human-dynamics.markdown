@@ -10,6 +10,8 @@ social-image: "/uploads/IMG_1457-630b25.jpeg"
 *Combined entity offers enhanced capabilities and greater value to European development clients*
 
 *Bethesda, Maryland*—DAI today announced the acquisition of Human Dynamics, a pre-eminent supplier of international development services in the European market.
+
+<!--more-->
   
 > “We are thrilled to be joining forces with Human Dynamics,” said DAI President and CEO **Jim Boomgard**. “In combination, we are a stronger, more diverse, more vibrant organization, and our scale and technical breadth will enable us to offer richer services and better value to our customers, particularly but not exclusively our clients in the European Union.”
  
