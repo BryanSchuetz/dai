@@ -4,15 +4,15 @@ date: 2016-01-21 22:18:00 Z
 lastname: Chartock
 summary: 'Andrea Chartock’s work focuses on promoting economic growth and designing
   and managing monitoring and evaluation of projects. '
-job-title: Senior Development Specialist
-image: https://assetify-dai.com/experts/Chartock_Inner.jpg
+job-title: Senior  Global Practice Specialist
+image: "/uploads/new%20Andrea%20Chartock.jpg"
 solutions:
 - Economic Growth
-- 
+- Governance
 regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
 - Sub-Saharan Africa
+- Eastern Europe and Central Asia
+- 
 articles:
 - name: 
   article_file: 
@@ -20,9 +20,9 @@ articles:
 layout: expert
 ---
 
-Andrea Chartock’s work focuses on promoting economic growth and designing and managing monitoring, evaluation, and learning (MEL) for projects. She has been serving as Activity Manager for Institutional Architecture for Food Security Policy Reform, Market Systems Resilience Measurement, and the Policy Reform for Private Investment Mobilization under the Africa Lead II program. She is also the Collaborating, Learning, and Adapting (CLA) technical backstop to the Ukraine Economic Opportunities: East Activity. Prior to this, she was the Monitoring and Evaluation Director for the Feed the Future Liberia Food and Enterprise Development project, managing a staff of eight, and 66 enumerators carrying out three large-scale surveys. Before this, she was the Chief of Party for the Agricultural Competitiveness and Enterprise Development project in Moldova during the closedown phase.
+Andrea Chartock’s work focuses on promoting economic growth and designing and managing monitoring, evaluation, and learning (MEL) for projects. In consultation with local teams, Andrea has produced MEL plans in diverse contexts such as Egypt, Moldova, Nepal, Tanzania, and Ukraine. Most recently, she served as Activity Manager for Institutional Architecture for Food Security Policy Reform, Market Systems Resilience Measurement, and the Policy Reform for Private Investment Mobilization under the [Africa Lead II ](https://www.dai.com/our-work/projects/africa-africa-lead-ii)program. She is also the Collaborating, Learning, and Adapting (CLA) technical backstop to the USAID [Ukraine Economic Resilience Activity](https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity). Prior to that, she was the Monitoring and Evaluation Director for the [Feed the Future Liberia Food and Enterprise Development](https://www.dai.com/our-work/projects/liberia-food-and-enterprise-development-program-fed) project, managing a staff of eight, and 66 enumerators carrying out three large-scale surveys. Before this, she was the Chief of Party for the[ Agricultural Competitiveness and Enterprise Development](https://www.dai.com/our-work/projects/moldova-agricultural-competitiveness-and-enterprise-development-project-aced) project in Moldova during the closedown phase.
 
-Andrea has served as Project Team Lead and Project Quality Manager for seven DAI projects: two in Africa, four in Asia, and one Washington, D.C.-based global project. In these roles, she has supervised project leaders, monitored budgets, problem solved, engaged technically, and managed teams and deliverables for high-quality results. She has carried out extensive enterprise development consultancies in Eastern Europe, Asia, and Africa, as well as monitoring and evaluation, value chain analysis, gap analysis, and competitiveness analysis in multiple countries on three continents.
+Andrea has served as Project Team Lead and Project Quality Manager for seven DAI projects: two in Africa, four in Asia, and one Washington, D.C.-based global project. In these roles, she has supervised project leaders, monitored budgets, problem solved, engaged technically, and managed teams and deliverables for high-quality results. She has carried out extensive enterprise development consultancies in Eastern Europe, Asia, and Africa, as well as monitoring and evaluation, value chain analysis, gap analysis, and competitiveness analysis in multiple countries on three continents. 
 
 > "I love working at DAI because of the interesting challenges we tackle and the stellar colleagues. I still feel I am constantly learning something new, which is both humbling and exciting."
 

@@ -14,15 +14,18 @@ solutions:
 regions: Sub-Saharan Africa
 country: Mozambique
 promos:
-- title: 'Working with the Private Sector for Systemic Change: What Has (and Hasn’t)
-    Our Partnership Facility Done for Us?'
+- title: 'Part 1. Working with the Private Sector for Systemic Change: What Has (and
+    Hasn’t) Our Partnership Facility Done for Us?'
   link: https://www.marketlinks.org/post/working-private-sector-systemic-change-what-has-and-hasnt-our-partnership-facility-done-us-1
-- title: 'Working with the Private Sector for Systemic Change: Why Build a Partnership
-    Facility in the First Place?'
+- title: 'Part 2. Working with the Private Sector for Systemic Change: Why Build a
+    Partnership Facility in the First Place?'
   link: https://www.marketlinks.org/post/working-private-sector-systemic-change-why-build-partnership-facility-first-place
-- title: 'Working with the Private Sector for Systemic Change: How Do We Do Partnerships
-    in Practice?'
+- title: 'Part 3. Working with the Private Sector for Systemic Change: How Do We Do
+    Partnerships in Practice?'
   link: https://www.marketlinks.org/post/working-private-sector-systemic-change-how-do-we-do-partnerships-practice
+- title: 'Part 4. Working with the Private Sector for Systemic Change: What Can a
+    Good Partnership Facility Do for an MSD Program?'
+  link: https://www.marketlinks.org/post/working-private-sector-systemic-change-what-can-good-partnership-facility-do-msd-program
 ---
 
 Mozambique has one of the best records of sustained economic growth in Africa, averaging a 7 percent increase in GDP per year for the last decade. However, poverty and malnutrition rates remain high while food availability is limited by low yields and inadequate access to markets. To address these issues, the government of Mozambique has launched an ambitious plan to grow its agricultural sector in an inclusive manner to reduce poverty and alleviate hunger throughout the country.

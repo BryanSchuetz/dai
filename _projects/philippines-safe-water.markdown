@@ -1,7 +1,6 @@
 ---
 title: Philippines—Safe Water
 date: 2019-11-25 09:15:00 Z
-published: false
 summary: 'The Philippines Safe Water project provides local government units, water
   service providers, and watershed councils with the information, incentives, and
   partnerships they require to identify and address barriers to a water-secure future. '

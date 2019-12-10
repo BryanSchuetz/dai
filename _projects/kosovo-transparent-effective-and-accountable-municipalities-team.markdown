@@ -19,7 +19,7 @@ However, in Kosovo, citizens, civil society organizations, and private sector ec
 
 To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the five-year Transparent, Effective and Accountable Municipalities (USAID TEAM) activity. The project supports Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM works with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations. In addition, USAID TEAM builds the capacity of civil society organizations to exercise citizen oversight municipal procurement in a watchdog role and to provide checks and balances by exposing corrupt practices and [working with citizens](https://www.facebook.com/usaidkosovo/videos/527441967721553/) and local governments as a partner in the process of procurement modernization.
 
-![TEAM.jpg](/uploads/TEAM.jpg)
+<iframe src="https://player.vimeo.com/video/377382167" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -30,7 +30,7 @@ To assist the Government of Kosovo in strengthening systems and limit opportunit
 
 ### Select Results
 
-* The Public Procurement Regulatory Commission (PPRC) fully adopted electronic procurement and expanded the functionality of the e-Procurement platform. Now, procurement tenders for all government agencies must be issued through the e-Procurement platform and private sector economic operators must submit their bids online. All contracting authorities must now publish procurement contract data on the electronic platform. Currently there are 12,282 public contracts available to citizens on the e-Procurement platform. In 2018 and 2019, government agencies initiated 12,237 procurement activities valued at €740 million through e-Procurement.
+* The Public Procurement Regulatory Commission (PPRC) fully adopted electronic procurement and expanded the functionality of the e-Procurement platform. Now, procurement tenders for all government agencies must be issued through the e-Procurement platform and private sector economic operators must submit their bids online (SEE VIDEO ABOVE). All contracting authorities must now publish procurement contract data on the electronic platform. Currently there are 12,282 public contracts available to citizens on the e-Procurement platform. In 2018 and 2019, government agencies initiated 12,237 procurement activities valued at €740 million through e-Procurement.
 * 24 Kosovo municipalities voluntarily published 2,895 procurement contracts on their municipal websites.
 * The Procurement Review Body (PRB) now requires all bid protests be submitted through an e-Appeals module on the e-Procurement platform. In addition, the PRB recently began live-streaming their board hearings on their website.
 * The National Audit Office launched an Anti-Fraud Unit to handle procurement cases with suspected fraud elements and forwards them to the State Prosecutor’s Office for further investigation. In 2018 and 2019, its first two year of operation, the unit identified 87 public procurement cases containing suspected fraud elements and sent them to the State Prosecutor.
