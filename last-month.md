@@ -5,4 +5,4 @@ summary: Some project highlights from last month at DAI.
 layout: default
 ---
 
-<iframe class="last-month" src="//my.visme.co/embed/mxrdd7jn-october-2019-last-month-at-dai" height="5473" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe class="last-month" src="//my.visme.co/embed/rxyxe8z0-november-2019-last-month-at-dai" height="6786" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
