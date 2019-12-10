@@ -10,6 +10,10 @@ solutions:
 - Economic Growth
 - Agriculture and Food Security
 - Value Chain and Market Systems Development
+articles:
+- name: New Research Offers Alternatives for Frontier Market Venture Capital and Private
+    Equity
+  article_file: https://dai-global-developments.com/articles/new-research-offers-alternatives-for-frontier-markets
 ---
 
 Kirsten Pfeiffer leads the design and implementation of complex agriculture market systems and investment facilitation projects. She specializes in development approaches that facilitate behavior change through market actors, including farmer groups, processors, traders, exporters, agro-input suppliers and service providers, financial institutions, business support and advisory services firms. 
