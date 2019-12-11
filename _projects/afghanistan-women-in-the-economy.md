@@ -27,52 +27,29 @@ layout: project
 
 The U.S. Agency for International Development’s Promote: Women in the Economy (WIE) program is [bolstering women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce?utm_source=daidotcom) in Afghanistan’s economy and working to ensure that progress made by Afghan women over the past decade endures and advances.
 
-WIE is based in five economic zones and works across 30 Afghan provinces. WIE [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY) and businesses that employ at least 30 percent women to improve performance, income growth, and sustainability. The program provides technical assistance, industry-specific business skills training, and access to finance and markets to leverage growth in the private sector.
+WIE works across 30 Afghan provinces from its offices based in five economic zones. The program [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY) and businesses that employ at least 30 percent women to improve performance, income growth, and sustainability. To this end, WIE delivers technical assistance, industry-specific business skills training, and access to finance and markets to leverage growth in the private sector.
 
-WIE supports women ages 18 and above to find new or better jobs through career counseling, workplace skills development, and job skills training based on market demand. These activities take place in partnership with training providers to deliver services and fund scholarships for training and certification programs. The program gives Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
+WIE supports women ages 18 and above to find new or better jobs through job skills training based on market demand, and work experience placements in internships, apprenticeships, and on the job training activities. The program gives Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
 
-Consortium partners include RSI Consulting (M&E) and the Thunderbird School of Global Management at Arizona State University.
+Consortium partners include RSI Consulting (monitoring and evaluaiton) and the Thunderbird School of Global Management at Arizona State University.
 
-![WIE-project-page.jpg](/uploads/WIE-project-page.jpg)
+![WIe.jpg](/uploads/WIe.jpg)
 
 ### Sample Activities
 
-* Assist women-friendly businesses with financial and strategic planning, access to market information and financing, and commercial relationships.
-
-* Assist women’s businesses in product quality development, quality improvement, packaging, regulatory compliance, and participation in trade fairs.
-
-* Incentivize companies and advocate for improved workplace environments for women.
-
-* Support leadership career paths for women.
-
-* Support women through job readiness preparation,  internships, apprenticeships, and job placement.
+* Assist women-owned, or women employing, businesses with financial and strategic planning, access to market information and financing, and commercial relationships.
+* Assist women’s businesses in product quality development, quality improvement, packaging, regulatory compliance, and participation in local and national trade venues.
+* Support women through job readiness preparation, internships, apprenticeships, and job placement.
 
 ### Select Results
 
-* Registered 76,700 women for WIE services. 
-
-* Placed more than 9,600 interns and apprentices in 2,100 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
-
-* Assisted more than 13,000 women into new or better jobs; 34 percent of women who receive WIE assistance find employment.
-
-* Placed nearly 300 young women into microfinance and commercial banking [trainee programs](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) within six financial institutions in urban regional centers.
-
-* Trained more than 13,200 young women nationally through WIE's 20-hour Job Readiness Training (JRT) course.
-
-* Awarded scholarships to more than 5,000 women to train in information technology, healthcare, retail sales, customer service, and other areas.
-
-* Facilitated access to finance and new markets to more than 400 women-owned or women-managed businesses and businesses employing at least 30 percent women.
-
-* 22 percent of WIE-assisted businesses moved from small enterprise to medium-sized (more than 50 employees); for businesses completing two years of WIE assistance, the top half have achieved an average 179-percent revenue growth and the bottom half 35 percent.
-
-* Graduated 54 women-led startups—which have since created 200-plus new jobs—from business incubation support; another 60 women-led start-ups were in incubation as of July 2019.
-
-* Nearly all 109 businesses assisted through WIE’s MBA Corps activity have reported increased sales, streamlined operations, and expansion.
-
-* All 54 companies assisted by WIE’s Finance Corps report improved financial management, decision making, and operational savings.
-
-* Facilitated 157 small business loans, which combined with WIE’s direct-loan facilitation services are worth approximately US$170,000.
-
+* Awarded scholarships to more than 14,733 women to train in information technology, healthcare, retail sales, customer service, and other areas. 
+* Placed 11,588 interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
+* Helped more than 17,700 women get new or better jobs; 44 percent of women who receive WIE assistance find employment.
+* Assisted nearly 330 young women to enter the banking sector by providing them on-the-job training and [internships](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) in microfinance institutions and commercial banks in major regional urban centers.
+* Facilitated access to finance and new markets to more than 400 women-owned businesses and businesses employing at least 30 percent women.
+* Twenty-five percent of WIE-assisted businesses moved to next level of enterprise size; and of the targeted 400 businesses assisted, 63 percent, or 252 businesses, achieved 40 percent or more revenue growth within two years of assistance.
+* Graduated 75 women-led startups—which have since created 200-plus new jobs—from business incubation support.
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue in support of women's inclusion.
-
 * Delivered gender sensitivity training to more than 5,800 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
+* Completed three policy reform initiatives addressing women’s inheritance rights, developing a roadmap to assist women’s businesses for government, the financial sector, and donors, and supporting the registration and licensing of female medical professionals. 
