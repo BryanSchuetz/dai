@@ -31,7 +31,7 @@ WIE works across 30 Afghan provinces from its offices based in five economic zon
 
 WIE supports women ages 18 and above to find new or better jobs through job skills training based on market demand, and work experience placements in internships, apprenticeships, and on the job training activities. The program gives Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
 
-Consortium partners include RSI Consulting (monitoring and evaluaiton) and the Thunderbird School of Global Management at Arizona State University.
+Consortium partners include RSI Consulting (monitoring and evaluation) and the Thunderbird School of Global Management at Arizona State University.
 
 ![WIe.jpg](/uploads/WIe.jpg)
 
