@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Malawi
 ---
 
-Reforming public financial management in Malawi is a complex process that requires keen understanding of how change happens within this context—the political economy, key stakeholders and their priorities, and the interrelated and systemic technical bottlenecks. 
+Advancing public financial management in Malawi is a complex process that requires keen understanding of how change happens within this context—the political economy, key stakeholders and their priorities, and the interrelated and systemic technical bottlenecks. 
 
 Under “Chuma Cha Dziko,” or “National Economy,” DAI works with the Government of Malawi, the Ministry of Finance, Economic Planning, and Development, and other stakeholders to achieve efficient and effective use of public resources and support the growth of the economy and development of Malawi.
 
@@ -27,7 +27,7 @@ Since 2014, the Government of Malawi has continuously reiterated its commitment 
 
 ### Sample Activities
 
-* Work with Ministry of Finance, Economic Planning, and Development's Public Finance Management Support Unit to oversee and deliver public finance reforms, support broader change management and work with all relevant counterparts across the projects components to embed innovative approach to tackle complex delivery bottlenecks.
+* Work with Ministry of Finance, Economic Planning, and Development’s Public Finance Management System Division to oversee and deliver public finance reforms, support broader change management and work with all relevant counterparts across the projects components to embed innovative approach to tackle complex delivery bottlenecks.
 * Apply behaviour change and problem-driven approaches to drive forward tangible and relevant results.
 * Work with stakeholders in the Malawi public procurement system to improve transparency and accountability of public procurement.
 * Work with the Department of Human Resource Management and Development to increase control over payroll, enhance pension and payroll processing, and transferring pension payments to the terminal benefits module of the human resources management information system.
