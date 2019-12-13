@@ -6,6 +6,7 @@ lastname: Qadir
 summary: 'Sophia Qadir is an international development professional with interests
   spanning private sector development, sustainability, and digital transformation. '
 job-title: Analyst, Sustainable Business Group
+image: "/uploads/cdai-11.jpg"
 solutions:
 - Sustainable Business
 regions:
