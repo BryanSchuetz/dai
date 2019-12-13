@@ -1,7 +1,6 @@
 ---
 title: Sophia Qadir
 date: 2019-09-12 14:38:00 Z
-published: false
 lastname: Qadir
 summary: 'Sophia Qadir is an international development professional with interests
   spanning private sector development, sustainability, and digital transformation. '
