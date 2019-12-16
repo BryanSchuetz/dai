@@ -24,7 +24,7 @@ In partnership with the TTAH Regional Council and working closely with the regio
 
 TASHAROC works to support inclusive development and reduce political and economic disenfranchisement in the Northern Moroccan region. 
 
-![Recent Photo TASHAROC.JPG](/uploads/Recent%20Photo%20TASHAROC.JPG)`The project team provided training for the Regional Council on social inclusion to inform a regional strategy for the Tangier-Tetouan-Al Houceima area to be more inclusive of marginalised groups.` 
+![Recent Photo TASHAROC.JPG](/uploads/Recent%20Photo%20TASHAROC.JPG)`The project team provided training for the Regional Council on social inclusion to inform a regional strategy for the Tangier-Tetouan-Al Houceima area to be more inclusive of marginalised groups.`
 
 ### Sample Activities
 
