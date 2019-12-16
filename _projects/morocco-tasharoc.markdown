@@ -34,3 +34,11 @@ TASHAROC works to support inclusive development and reduce political and economi
 * Build the capacity of Consultative Bodies and civl society groups, enabling them to better fulfill their participatory democracy role.
 * Support the Regional Council in its bid to join the Open Government Partnership Local Programme.
 * Provide opportunities for government and civil society stakeholders to share lessons and experiences with their counterparts across the Middle East and North Africa region, the United Kingdom, and Europe, through study visits, peer-to-peer exchange, conferences and seminars.
+
+### Select Results
+
+* Held 62 capacity building workshops with key government officials from the region in core technical areas and soft skills.
+* Developed a communications strategy, gender equality and social inclusion strategy, guidelines, job descriptions, and standard operating procedure manuals for the Regional Council.
+* Organised a study visit for the Regional Council’s elected and staff to local government institutions in Cornwall, Manchester, and London, with a partnership with Cornwall Council underway.
+* Established a monitoring, evaluation, and learning system for the Regional Council to better manage and monitor implementation of the Regional Development Plan.
+* Trained more than 270 civil society groups in key technical areas such as the petition process, project cycle management, public policy, and proposal writing. 
