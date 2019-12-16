@@ -30,18 +30,18 @@ In July 2017, [FSDMoç](http://fsdmoc.com/) received additional 39 million Swedi
 
 ###  Sample Activities
 
-* Provide technical expertise and targeted funding to help key stakeholders innovate and expand financial services;
-* Develop financial infrastructure that broadens and deepens service offerings;
-* Work with Mozambique’s government to create policies and regulations that support improvements to savings, credit, insurance, and payments;
-* Foster public-private dialogue by creating and disseminating information, research, and data about inclusive finance;
-* Enlist private sector partners to creatively address financial issues in the rural economy, particularly in agriculture;
-* Partner with the Digital Frontiers Institute on meso-level activities such as payment systems, inter-operability, and development of technology solutions;
+* Provide technical expertise and targeted funding to help key stakeholders innovate and expand financial services.
+* Develop financial infrastructure that broadens and deepens service offerings.
+* Work with Mozambique’s government to create policies and regulations that support improvements to savings, credit, insurance, and payments.
+* Foster public-private dialogue by creating and disseminating information, research, and data about inclusive finance.
+* Enlist private sector partners to creatively address financial issues in the rural economy, particularly in agriculture.
+* Partner with the Digital Frontiers Institute on meso-level activities such as payment systems, inter-operability, and development of technology solutions.
 * Partner with the Consultative Group to Assist the Poor and others in applying Human-Centered Design to develop rural safety nets such as insurance and housing finance.
 
-###  Select Results (Through September 2017)
+###  Select Results 
 
-* Partnered to implement saving groups models with the Aga Khan Foundation and CARE, creating 66 saving groups totaling more than 1,700 members, including 900+ women;
-* Enabled more than 130,000 financially underserved people (two-thirds women) to access and utilize at least one new financial service such as saving, borrowing, and e-payments—nearly 87,000 used more than one new service;
-* Recorded 232 small and growing businesses newly receiving financial services or products;
-* Launched the Fintech Innovation Fund, which selected seven grantees for funding and technical support to refine their proposals in financial technology; 
+* Partnered to implement saving groups models with the Aga Khan Foundation and CARE, creating 66 saving groups totaling more than 1,700 members, including move than 900 women.
+* Enabled more than 130,000 financially underserved people (two-thirds women) to access and utilize at least one new financial service such as saving, borrowing, and e-payments—nearly 87,000 used more than one new service.
+* Recorded 232 small and growing businesses newly receiving financial services or products.
+* Launched the Fintech Innovation Fund, which selected seven grantees for funding and technical support to refine their proposals in financial technology.
 * Built capacity within the Ministry of Economy and Finance, Central Bank, and Ministry of Industry and Commerce to make policy—notably on issues of private equity and investment that support financial inclusion.

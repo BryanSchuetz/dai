@@ -1,7 +1,6 @@
 ---
 title: Alice Rossignol
 date: 2019-12-13 18:50:00 Z
-published: false
 lastname: Rossignol
 summary: Alice Rossignol is an Analyst for DAI's Sustainable Business Group. She focuses
   on local content analysis and corporate social investment design for oil and gas
