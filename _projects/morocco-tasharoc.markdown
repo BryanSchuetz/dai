@@ -28,7 +28,9 @@ TASHAROC works to support inclusive development and reduce political and economi
 
 ### Sample Activities
 
-* Build the capacity of TTAH Regional Council and civil society organisations in project management, organisational development, and communications.
-* Support implementation and monitoring of the Regional Development Plan.
-* [Facilitate dialogue and collaboration](https://www.youtube.com/watch?v=TwBh4_epkqU) between regional stakeholders, including government institutions, civil society, media outlets, and the private sector.
-* Support needs assessments for marginalised groups in the TTAH region and the development of a gender and social inclusion strategy for the Regional Council.
+* Build the capacity of elected officials and staff of TTAH’s Regional Council, AREP, and selected local government institutions 
+* Provide assistance to strengthen the Regional Council’s .internal institutional processes and procedural frameworks.
+* Assist the Regional Council to build more efficient and effective [communications and outreach tools](https://www.youtube.com/watch?v=TwBh4_epkqU) to increase visibility and information flow in the region.
+* Build the capacity of Consultative Bodies and civl society groups, enabling them to better fulfill their participatory democracy role.
+* Support the Regional Council in its bid to join the Open Government Partnership Local Programme.
+* Provide opportunities for government and civil society stakeholders to share lessons and experiences with their counterparts across the Middle East and North Africa region, the United Kingdom, and Europe, through study visits, peer-to-peer exchange, conferences and seminars.
