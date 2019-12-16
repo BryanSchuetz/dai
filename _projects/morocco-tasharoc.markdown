@@ -24,7 +24,7 @@ In partnership with the TTAH Regional Council and working closely with the regio
 
 TASHAROC works to support inclusive development and reduce political and economic disenfranchisement in the Northern Moroccan region. 
 
-![TASHAROC.jpg](/uploads/TASHAROC.jpg)
+![Recent Photo TASHAROC.JPG](/uploads/Recent%20Photo%20TASHAROC.JPG)`The project team provided training for the Regional Council on social inclusion to inform a regional strategy for the Tangier-Tetouan-Al Houceima area to be more inclusive of marginalised groups. 
 
 ### Sample Activities
 
@@ -38,7 +38,7 @@ TASHAROC works to support inclusive development and reduce political and economi
 ### Select Results
 
 * Held 62 capacity building workshops with key government officials from the region in core technical areas and soft skills.
-* Developed a communications strategy, gender equality and social inclusion strategy, guidelines, job descriptions, and standard operating procedure manuals for the Regional Council.
+* Developed a communications strategy, [gender equality and social inclusion strategy](https://www.youtube.com/watch?v=2qy073tKPsc&t=302s), guidelines, job descriptions, and standard operating procedure manuals for the Regional Council.
 * Organised a study visit for the Regional Council’s elected and staff to local government institutions in Cornwall, Manchester, and London, with a partnership with Cornwall Council underway.
 * Established a monitoring, evaluation, and learning system for the Regional Council to better manage and monitor implementation of the Regional Development Plan.
 * Trained more than 270 civil society groups in key technical areas such as the petition process, project cycle management, public policy, and proposal writing. 
