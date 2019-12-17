@@ -20,7 +20,7 @@ In the years leading up to and following King Mohammed IV’s constitutional ref
 
 The United Kingdom is supporting this ongoing reform process; the U.K. Foreign and Commonwealth Office (FCO) launched the TASHAROC project to strengthen political representation and citizen engagement in the TTAH region. 
 
-In partnership with the TTAH Regional Council and working closely with the regional development agency AREP, other regional stakeholders, and civil society actors, TASHAROC works to build the capability, accountability, and responsiveness of the council and development agency. The TASHAROC team has additionally provided support to the region’s legally mandated Consultative Bodies and a range of civil society organisations. Much of this work is done through support to the design, implementation, monitoring, and evaluation of regional development projects as defined by TTAH’s Plan de Développement Regional unit. 
+In partnership with the TTAH Regional Council and working closely with the regional development agency AREP, other regional stakeholders, and civil society actors, TASHAROC works to build the capability, accountability, and responsiveness of the council and development agency. The TASHAROC team has additionally provided support to the region’s legally mandated Consultative Bodies and a range of civil society organisations. Much of this work is done through support to the design, implementation, monitoring, and evaluation of regional development projects as defined by TTAH’s Plan de Développement Regional. 
 
 TASHAROC works to support inclusive development and reduce political and economic disenfranchisement in the Northern Moroccan region. 
 
