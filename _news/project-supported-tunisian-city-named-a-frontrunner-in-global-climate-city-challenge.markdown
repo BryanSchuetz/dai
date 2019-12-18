@@ -2,7 +2,6 @@
 title: Project-Supported Tunisian City Named a Frontrunner in Global Climate City
   Challenge
 date: 2019-12-18 09:10:00 Z
-published: false
 solutions:
 - Environment
 regions: Middle East and North Africa
