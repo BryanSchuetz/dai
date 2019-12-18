@@ -6,6 +6,7 @@ lastname: Giganti
 summary: Andrew Giganti joined DAI’s Sustainable Business Group as the Assistant for
   its Finance and Operations team.
 job-title: 'Operations Assistant '
+image: "/uploads/Andrew_Giganti%20(002).jpg"
 solutions:
 - Sustainable Business
 regions:
