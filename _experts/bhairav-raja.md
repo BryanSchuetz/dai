@@ -6,7 +6,7 @@ summary: Bhairav Raja serves clients in our Sustainable Business Group's corpora
   social investment portfolio, including multinational corporations in retail and
   oil and gas.
 job-title: Senior Principal Specialist, Corporate Social Investment
-image: "/uploads/RajaInner.jpg.jpeg"
+image: "/uploads/cdai-22.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
