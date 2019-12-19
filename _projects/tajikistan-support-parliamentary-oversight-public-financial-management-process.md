@@ -30,10 +30,10 @@ SPFM is strengthening the Tajikistan Parliament’s ability to fulfil its oversi
 
 ### Sample Activities
 
-* Train and support the EFC and other parliamentary committees to improve their capacity to conduct financial oversight. 
-* Mentor the Secretariat to produce quality evidence-based research and analysis to support the EFC in carrying out its functions.
+* Training and advisory support to the EFC and other parliamentary committees to improve their capacity to conduct financial oversight. 
+* Mentor the Secretariat to produce high-quality evidence-based research and analysis to support the EFC in carrying out its functions.
 * Work with civil society and media partners to implement citizen engagement mechanisms to improve parliamentary transparency and responsiveness.
-* Support broader engagement by DFID and the World Bank with the Tajik government on financial oversight and revenue management.
+* Support broader engagement by the U.K. Department for International Development and the World Bank with the Tajik government on financial oversight and revenue management.
 
 ### Select Results
 
