@@ -37,8 +37,10 @@ SPFM is strengthening the Tajikistan Parliament’s ability to fulfil its oversi
 
 ### Select Results
 
-* Introduced key parliamentary oversight and outreach practices including: parliamentary committee hearings, parliamentary questions, constituency meetings, and public field hearings.
-* Conducted extensive analysis on the execution of the 2016–2019 national budgets, with recommendations being taken on board by the Ministry of Finance.
-* Contributed legislative amendments to Tajikistan’s Tax Code, the reform of which was approved by the President of the Republic of Tajikistan in February 2018.
-* Established a formal peer-to-peer partnership between the Latvian Supreme Audit Office and the Tajik Chamber of Accounts for exchange of best practices.
-* Facilitated a mentoring secondment between the U.K. Office for Budget Responsibility and the EFC Secretariat.
+* Conducted training for 1,020 members of parliament, parliamentary staff, and representatives of local government, civil society groups, and the media on: the budget process, parliamentary oversight, pre-budget review, budget execution analysis, regulatory impact assessment, and budgetary impact assessment.
+* Held a successful conference on parliamentary financial oversight in 2017, a crucial step in obtaining buy-in.
+* Conducted a study tour to the United Kingdom on parliamentary financial oversight. 
+* Contributed legislative amendments to Tajikistan’s Tax Code, the reform of which was approved by the President of the Republic of Tajikistan in February 2018. The amended legislation will improve tax administration processes, leading to a more equitable treatment of individual taxpayers, and support efforts to reduce corruption.
+* Developed a parliamentary oversight guide with Open Society Institute Tajikistan. 
+* Developed a parliamentary handbook on the selection of budget projects.
+* Developed three methodological guides on regulatory impact assessment, budgetary impact assessment, and budget execution analysis.
