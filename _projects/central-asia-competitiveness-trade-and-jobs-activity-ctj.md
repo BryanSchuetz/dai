@@ -19,13 +19,13 @@ layout: project
 
 A quarter of a century after the disintegration of the Soviet Union, the Central Asian Republics have yet to realize full regional integration or sustained economic growth outside of the oil and gas industries. In addition, state control over business freedoms and rivalries among national governments have led to restrictive trade policies and stifled private sector investment, resulting in a stagnant economy and limited job opportunities. Large segments of the population remain mired in poverty, resulting in migration to find work and vulnerability to recruitment by violent extremist groups.
 
-The U.S. Government's New Silk Road Initiative is supporting Central Asia to regain its place at the center of renewed trade between the East and West. An integral part of the initiative is the Competitiveness, Trade, and Jobs (CTJ) Activity, funded by the U.S. Agency for International Development (USAID), which will work in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to improve the region's trade environment, resulting in growth for exports and increased employment.
+The U.S. Government's New Silk Road Initiative is supporting Central Asia to regain its place at the center of renewed trade between the East and West. An integral part of the initiative is the Competitiveness, Trade, and Jobs (CTJ) Activity, funded by the U.S. Agency for International Development (USAID), works in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to improve the region's trade environment, resulting in growth for exports and increased employment.
 
-DAI's strategy will focus on facilitating the development of competitive, inclusive market systems in the region while ensuring that activities are demand-driven and locally led to increase sustainability. CTJ is uniquely positioned to promote growth in the agricultural, transport, and logistics sectors by leveraging other USAID investments in the region, including two DAI-managed activities: [Uzbekistan Agricultural Value Chains][1] and [Pakistan Regional Economic Integration Activity][2].
+DAI's strategy focuses on facilitating the development of competitive, inclusive market systems in the region while ensuring that activities are demand-driven and locally led to increase sustainability. CTJ promotes growth in the agricultural, transport, and logistics sectors by leveraging other USAID investments in the region, including two DAI-managed activities: [Uzbekistan Agricultural Value Chains][1] and [Pakistan Regional Economic Integration Activity][2].
 
 ![][3]
 
-###  Sample Activities
+### Sample Activities
 
 * Collaborate with public- and private-sector partners to develop a plan to address regional trade facilitation opportunities and support businesses in complying with regulations and requirements.
 * Work with community influencers to draft local engagement plans to support initiatives related to building facilitation skills, job-readiness, and entrepreneurship.
