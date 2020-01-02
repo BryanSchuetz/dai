@@ -1,6 +1,7 @@
 ---
 title: Karim Bin-Humam
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Bin-Humam
 summary: Karim Bin-Humam joined DAI in 2015 to help bridge the divide between cutting-edge
   technology and the needs of poor and vulnerable communities globally.
