@@ -3,8 +3,8 @@ title: Mexico—Skills for Prosperity Mexico (S4PM)
 date: 2019-12-18 15:14:00 Z
 summary: The Skills for Prosperity Mexico (S4PM) project works to prepare learners
   to go from the classroom to the workforce with the right skills for the marketplace.
-start: 2019
-end: 2022
+start: 2020
+end: 2023
 client: U.K. Department for International Development
 solutions:
 - Education
@@ -14,13 +14,11 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The Skills for Prosperity Mexico (S4PM) project works to prepare learners to go from the classroom to the workforce with the right skills for the marketplace.
+The Skills for Prosperity Mexico (S4PM) Programme aims to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
  
-S4PM is increasing Mexico’s capacity to build an inclusive education-to-employment ecosystem that generates more productive and equitable skills sectors improving employability, employment opportunities, and earning potential of youth beneficiaries including the most marginalised populations.  
-
-Achieving inclusive economic growth and poverty reduction will require changing the way government, private sector, and education and training providers work together to make skills investments up and down the talent pipeline, enabling all young Mexicans to benefit from shared prosperity. If relevance is increased and quality is enhanced, and equity is strengthened, then marginalised youth will have access to higher-quality and market-aligned vocational training and higher education that will put them on pathways to better quality jobs and increased incomes.  
+Achieving inclusive economic growth and poverty reduction will require changing the way government, private sector and training providers work together. The United Kingdom is a leader in these kinds of Education-to-Employment (E2E) partnerships. Through S4PM, DAI will draw on best practices both from Britain’s experience and from promising Mexican models of public-private collaboration to strengthen E2E partnerships nationwide.
  
-DAI's team includes International Youth Foundation, Pearson, and U.K. Skills Federation.
+S4PM will work to increase market relevance of technical and vocational qualifications, as well as the quality of those qualifications in the classroom. Even more important is increasing equity. Marginalised youth will have access to higher-quality and market-aligned vocational training and higher education that will put them on pathways to better quality jobs and increased incomes.
 
 ![Mexico Skills.jpg](/uploads/Mexico%20Skills.jpg)`Photo courtesy: International Youth Foundation.`
 
