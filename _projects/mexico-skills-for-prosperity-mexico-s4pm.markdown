@@ -20,3 +20,5 @@ The Skills for Prosperity Mexico (S4PM) project works to prepare learners to go 
 The United Kingdom is a leader in education-to-employment (E2E) partnerships. Through S4PM, we are drawing on best practices both from Britain’s experience and from promising Mexican models of public-private collaboration—in states such as Chihuahua, Guanajuato, Jalisco, Nuevo Leon, and Queretaro—to strengthen E2E partnerships nationwide. Bringing the industrial and education sectors together, S4PM enables the E2E system to equip the Mexican workforce for the jobs of today, tomorrow, and 10 years’ time, enhancing value up and down the talent pipeline for all segments of society.
  
 DAI's team includes International Youth Foundation, Pearson, and U.K. Skills Federation.
+
+![Mexico Skills.jpg](/uploads/Mexico%20Skills.jpg)`Photo courtesy: International Youth Foundation.`
