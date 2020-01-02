@@ -1,6 +1,7 @@
 ---
 title: Rich Magnani
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Magnani
 summary: 'Rich Magnani has worked in agriculture and agribusiness for more than 30
   years—first in commercial consulting and the past 25 years at DAI with a continuing
