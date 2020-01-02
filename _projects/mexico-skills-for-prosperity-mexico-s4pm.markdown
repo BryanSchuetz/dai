@@ -22,3 +22,6 @@ The United Kingdom is a leader in education-to-employment (E2E) partnerships. Th
 DAI's team includes International Youth Foundation, Pearson, and U.K. Skills Federation.
 
 ![Mexico Skills.jpg](/uploads/Mexico%20Skills.jpg)`Photo courtesy: International Youth Foundation.`
+
+### Sample Activities
+
