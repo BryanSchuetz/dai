@@ -1,6 +1,7 @@
 ---
 title: Jim Packard Winkler
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Winkler
 summary: After graduating from Georgetown University's McDonough Business School,
   Jim Winkler accepted a two-year assignment in Costa Rica as a small business advisor
