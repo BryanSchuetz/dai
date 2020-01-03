@@ -1,11 +1,11 @@
 ---
 title: Health Informatics Leader Chris LeGrand Joins DAI
 date: 2015-11-16 18:05:00 Z
-summary: DAI today announced the appointment of Christopher A. LeGrand
-  to its global leadership team. LeGrand, the former CEO of Futures Group, will assume
-  the role of President, DAI Global Health. In this newly created position, he will
-  focus on advancing DAI's global health portfolio, with an emphasis on emerging health
-  markets and services.
+summary: DAI today announced the appointment of Christopher A. LeGrand to its global
+  leadership team. LeGrand, the former CEO of Futures Group, will assume the role
+  of President, DAI Global Health. In this newly created position, he will focus on
+  advancing DAI's global health portfolio, with an emphasis on emerging health markets
+  and services.
 solutions:
 - Global Health
 regions: 
