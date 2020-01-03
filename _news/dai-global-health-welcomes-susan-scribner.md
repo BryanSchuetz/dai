@@ -21,9 +21,8 @@ DAI is delighted to announce that [Susan Scribner][1] has joined the firm as Vic
 
 Susan led Abt's integration of its acquired Australian subsidiary, JTA, and played a significant role in developing corporate strategy and leading business development.
 
-"We are excited to continue building our DAI Global Health team with a senior technical leader like Susan," said [Chris LeGrand][4], President of DAI Global Health. "With her combination of technical, management, and field expertise, we will be able to offer new solutions and approaches to the global health challenges of today and tomorrow."
+"We are excited to continue building our DAI Global Health team with a senior technical leader like Susan," said Chris LeGrand, President of DAI Global Health. "With her combination of technical, management, and field expertise, we will be able to offer new solutions and approaches to the global health challenges of today and tomorrow."
 
 [1]: /who-we-are/our-team/susan-scribner
 [2]: /our-work/projects/worldwide%E2%80%94preparedness-and-response-pr
 [3]: https://assetify-dai.com/news/Susan%20Inner_0.jpg
-[4]: /who-we-are/leadership/christopher-legrand

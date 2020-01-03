@@ -15,7 +15,7 @@ Teams from DAI Global Health and its affiliate, IntraHealth International, retur
 
 The World Health Organization issued a [press release](https://www.who.int/news-room/detail/22-05-2019-world-health-assembly-72-update) emphasizing the critical role of primary healthcare—including disease prevention and treatment, rehabilitation, and palliative care—in achieving universal health coverage (UHC) and the need for a holistic approach: “Primary health care means countries must have quality, integrated health systems, empowered individuals and communities, and they must involve a wide range of sectors in addressing [the] social, economic, and environmental determinants of health.”
 
-[DAI Global Health](https://www.dai.com/our-work/solutions/global-health) President [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), who attended the assembly with IntraHealth CEO Pape Gaye and a significant contingent of DAI and IntraHealth staff, welcomed the WHO’s emphasis on cross-sectoral engagement and the paramount importance of frontline health workers.
+[DAI Global Health](https://www.dai.com/our-work/solutions/global-health) President Chris LeGrand, who attended the assembly with IntraHealth CEO Pape Gaye and a significant contingent of DAI and IntraHealth staff, welcomed the WHO’s emphasis on cross-sectoral engagement and the paramount importance of frontline health workers.
 
 “Community health workers have a key role to play in delivering primary health care—they speak local languages and have the trust of local people,” the WHO statement affirmed. “They need to be well trained, effectively supervised, and properly recognized for the work they do, as part of multi-disciplinary teams.”
 

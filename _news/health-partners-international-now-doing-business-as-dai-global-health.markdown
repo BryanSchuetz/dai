@@ -16,7 +16,7 @@ One year after the [combination](https://www.dai.com/news/dai-acquires-hpi-group
 
 ![lewes 1.jpg](/uploads/lewes%201.jpg)`DAI Global Health staff in Lewes, Sussex: from left, Danielle Boulton, Janine Shaw, Jacqui Henderson, Jack Miller, Chris Eckert, Naoko Tohari, Yelda Lockwood, Jenny Baker, John Lush, Jody Williams, Lora Cracknell, and Rodion Kraus. Photo by Eva Rahman.`
 
-“Thanks to a close cultural affinity and a shared sense of the global health mission, we have come together quickly as a team and effectively as an organization,” said [Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “Our new branding will reflect this underlying unity and provide a single, clear market identity for our unified set of services.”
+“Thanks to a close cultural affinity and a shared sense of the global health mission, we have come together quickly as a team and effectively as an organization,” said Chris LeGrand, President of DAI Global Health. “Our new branding will reflect this underlying unity and provide a single, clear market identity for our unified set of services.”
 
 Founded in 1995, HPI joined with DAI in June 2017, adding to DAI’s portfolio a rich legacy of learning from more than 200 health projects in 40 countries, with an emphasis on strengthening country health systems. HPI’s distinguished network of technical experts is particularly strong in maternal, newborn, and child health, immunization, nutrition, and malaria, as well as in digital health, health economics, health systems management, and community engagement.
 

@@ -15,7 +15,7 @@ layout: node
 
 ![Bobby](https://assetify-dai.com/news/bobby%20photoInner.jpg){: .float-left}DAI today announced that [Bobby Jefferson][1] has joined DAI as Vice President and Chief Technology Officer for DAI Global Health, effective May 1. A leader in the field of information and communications technology for development (ICT4D), Jefferson will focus on expanding DAI's range of digital health services.
 
-"DAI is committed to delivering the next generation of tech-enabled health solutions," said [Chris LeGrand][3], President, DAI Global Health. "Bobby brings to our team a wealth of knowledge and connections in the health informatics and technology sectors. A proven developer of IT talent in both developed and emerging markets, he has a record of building and leading innovative teams that make a real difference in the health sector and beyond."
+"DAI is committed to delivering the next generation of tech-enabled health solutions," said Chris LeGrand, President, DAI Global Health. "Bobby brings to our team a wealth of knowledge and connections in the health informatics and technology sectors. A proven developer of IT talent in both developed and emerging markets, he has a record of building and leading innovative teams that make a real difference in the health sector and beyond."
 
 Jefferson most recently served as VP and Director of the Center for Development Informatics at Palladium (formerly Futures Group), where he built a practice focused on ICT for global health programs and adjacent sectors such as agriculture, supply chains, and education.
 
@@ -24,4 +24,3 @@ Before joining Futures Group in 2006, Jefferson led a group at CTIS, Inc., that 
 Jefferson is a member of the Drug Information Association and the Global Health Council, and serves on the board of the Prostate Cancer Network. He sits on various industry panels in the m-health and digital development spaces, and serves as a competition judge and mentor with tech innovation hubs at Yale University, Duke University, and elsewhere.
 
 [1]: /who-we-are/our-team/bobby-jefferson
-[3]: /who-we-are/leadership/christopher-legrand

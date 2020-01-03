@@ -12,7 +12,7 @@ summary: 'Chris LeGrand, President of DAI Global Health, last week published a b
 social-image: "/uploads/social-c20444.jpg"
 ---
 
-[Chris LeGrand](https://www.dai.com/who-we-are/leadership/christopher-legrand), President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health), last week published *[The Complete Business Leader: A Framework for Impact in Work and Life](https://www.amazon.com/gp/product/1733224602?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=Q8GEJPV280Q2J0WHG44G)*, a book that lays out the seven essential dimensions needed to develop a “Complete Business Leader.” 
+Chris LeGrand, President of [DAI Global Health](https://www.dai.com/our-work/solutions/global-health), last week published *[The Complete Business Leader: A Framework for Impact in Work and Life](https://www.amazon.com/gp/product/1733224602?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=Q8GEJPV280Q2J0WHG44G)*, a book that lays out the seven essential dimensions needed to develop a “Complete Business Leader.” 
 
 <!--more-->
 

@@ -22,7 +22,7 @@ As an affiliate of DAI, IntraHealth will retain its name and distinct identity, 
 ![Chris and Pape](/uploads/intrahealth-release.jpg)
 `Christopher LeGrand, President, DAI Global Health, and Pape Amadou Gaye, President and CEO, IntraHealth International.`
 
-“For DAI, aligning with IntraHealth offers a powerful infusion of technical resources in health and health informatics, in line with our data-centric, tech-enabled approach to the health challenges of the 21st century,” said [Chris LeGrand](/who-we-are/leadership/christopher-legrand), President of DAI Global Health. “We look forward as partners to expanding DAI’s and IntraHealth’s reach in the domestic and international market, and to offering new combinations of integrated health and development services for public and private sector clients.”
+“For DAI, aligning with IntraHealth offers a powerful infusion of technical resources in health and health informatics, in line with our data-centric, tech-enabled approach to the health challenges of the 21st century,” said Chris LeGrand, President of DAI Global Health. “We look forward as partners to expanding DAI’s and IntraHealth’s reach in the domestic and international market, and to offering new combinations of integrated health and development services for public and private sector clients.”
 
 Looking forward to what she called “this bold next phase in IntraHealth’s evolution,” IntraHealth Board Chair Louise Winstanly described the affiliation with DAI as “a transformative alliance and an opportunity to accelerate our work toward a world where everyone has access to high-quality health care.”   
 
