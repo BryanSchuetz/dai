@@ -13,7 +13,7 @@ Join DAI on June 14 at 10 a.m. EST for an online discussion about what is necess
 
 ### Facilitator
 
-![Gwen panel.jpg](/uploads/Gwen%20panel.jpg){:.float-left} [Gwendolyn Andersen](https://www.dai.com/who-we-are/our-team/gwen-andersen), DAI
+![Gwen panel.jpg](/uploads/Gwen%20panel.jpg){:.float-left} Gwen Andersen, DAI
 
 Gwen is a Principal Clean Energy Practice Specialist for DAI. She has managed renewable energy projects, designed new institutional means of sustainable rural electrification, developed guidelines for retrofitting diesel gensets with renewable energy technologies, and taught policy, finance, and institutional aspects of renewable energy. DAI develops clean energy solutions that meet local power needs, have community buy-in, and bring co-benefits that lead to responsible, sustainable economic development.
 
