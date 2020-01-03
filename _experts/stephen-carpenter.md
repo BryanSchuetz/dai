@@ -5,7 +5,7 @@ lastname: Carpenter
 summary: 'Stephen Carpenter is a governance specialist with 15 years of experience
   whose field-based work has focused on anticorruption, public financial management,
   customs modernization, and institutional strengthening. '
-job-title: 'Chief of Party, Kosovo TEAM Project '
+job-title: 'Vice President, Governance and Education '
 image: "/uploads/Carpenter.jpg"
 solutions:
 - Economic Growth
