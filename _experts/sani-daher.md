@@ -2,9 +2,9 @@
 title: Sani Daher
 date: 2016-01-21 22:18:00 Z
 lastname: Daher
-summary: Sani Daher, Chief Operating Officer for the USG Business Unit, overseas all
-  regions of the unit, contracts, and operations.
-job-title: Chief Operating Officer, USG Business Unit
+summary: Sani Daher, Chief Operating Officer for the USG programs, overseas all regions
+  of the unit, contracts, and operations.
+job-title: 'Chief Operating Officer, USG programs '
 image: https://assetify-dai.com/experts/Daher_Inner.jpg
 regions:
 - Eastern Europe and Central Asia
