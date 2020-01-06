@@ -1,7 +1,6 @@
 ---
 title: Eric Postel Joins DAI as Principal Development Advisor
 date: 2020-01-06 09:33:00 Z
-published: false
 social-image: "/uploads/Postel%202011%20SpeechV1.jpg"
 ---
 
