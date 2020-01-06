@@ -13,6 +13,7 @@ layout: node
 
 * Water and Development (WADI) (2015–2019)
 * Strengthening Tenure and Resource Rights II (STARR II) (2018–2025)
+* REPLACE: Restoring the Environment through Prosperity, Livelihoods and Conserving Ecosystems (2013-2020)
 
 ### Governance
 
@@ -21,6 +22,8 @@ layout: node
 * Rule of Law Technical Assistance Services (ROL) (2013–2019)
 * YouthPower (2015–2020)
 * Public Financial Management II (PFM II) (2018–2025)
+* HICD for CPCs: Human and Institutional Capacity Development Program (2013-2020)
+* LS: Legislative Strengthening (Deliberative Bodies) (2011-2020)
 
 ### Stability
 
