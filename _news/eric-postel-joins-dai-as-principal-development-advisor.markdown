@@ -1,6 +1,9 @@
 ---
 title: Eric Postel Joins DAI as Principal Development Advisor
 date: 2020-01-06 09:33:00 Z
+summary: 'DAI is pleased to welcome to the firm Eric G. Postel, a development industry
+  leader with a distinguished record as a public servant and as a private sector executive
+  focused on emerging and frontier markets. '
 social-image: "/uploads/Postel%202011%20SpeechV1.jpg"
 ---
 
