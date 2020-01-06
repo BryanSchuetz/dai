@@ -37,6 +37,7 @@ DAI's strategy focuses on facilitating the development of competitive, inclusive
 
 * Organized the [Central Asia Trade Forum](https://www.facebook.com/watch/?v=1291034371097076), an annual event that promotes regional connectivity within Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. The 2019 forum brought together more than 800 government and business leaders from countries across Asia, Europe, and the United States in Shymkent, Kazakstan to discuss and share ideas on horticultural innovation and trade investment.
 * Supported seven companies from Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan to attended the Anuga trade fair in Germany, the largest food and beverage trade fair in the world. The Central Asian companies exhibited their horticultural products together under the "Taste of Central Asia" stand. 
+* Conducted a Regional Trade and Transport Forum in Termez, Uzbekistan—co-hosted with the Uzbekistan Ministry of Transport and the Termez City Government and jointly funded with the U.S. Department of Commerce Commercial Law Development Program—where delegates agreed to cooperate by signing over $600,000 worth of business deals among counterparts from Central Asia, Afghanistan, India, Pakistan, and beyond.  
 
 [1]: /our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc
 [2]: /our-work/projects/pakistan-regional-economic-integration-activity-preia
