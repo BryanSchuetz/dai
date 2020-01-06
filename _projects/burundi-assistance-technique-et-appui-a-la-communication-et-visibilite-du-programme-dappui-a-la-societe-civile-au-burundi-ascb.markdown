@@ -15,6 +15,14 @@ regions: Sub-Saharan Africa
 country: Burundi
 ---
 
-After 2005, Burundi’s government began to assert stronger control over civil society organizations. 
+Since 2005, Burundi’s public policies around decentralization have called for civil society to participate in local governance—particularly in the preparation, implementation, and monitoring of municipal community development five-year plans (PCDCs). 
 
-The Assistance Technique et Appui à la Communication et Visibilité du Programme d'Appui à la Société Civile au Burundi (ASCB) project works specifically to support the participation of civil society groups in development and local governance issues. DAI will advise and support ASBC’s implementing partners—Oxfam and Cordaid—through technical assistance focused on methodology, tools for monitoring and evaluation, capitalization, and capacity building for grassroots organisations. 
+The Assistance Technique et Appui à la Communication et Visibilité du Programme d'Appui à la Société Civile au Burundi (ASCB) project supports civil organisations’ (CSOs) participation in development and local governance issues. The project is implemented through grants (call for proposals) and procurement of services. 
+
+DAI’s team advises and supports ASBC’s implementing partners through technical assistance focused on methodology, tools for monitoring and evaluation, capitalization, and capacity building for grassroots organisations. 
+
+### Sample Activities
+
+* Build the capacity of ASCB grantees to help them manage grants, ensure monitoring and evaluation, and capitalization of activities and communication.
+* Implement a communications strategy for better visibility of the programme, by developing a global communications plan in a participatory manner.
+* Perform the research needed to identify ways of improving the implementation of the ASCB and the kind of support needed by partners.
