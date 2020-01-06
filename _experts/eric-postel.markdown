@@ -17,7 +17,7 @@ Eric Postel is a development industry leader with a distinguished record both as
 
 At DAI, Eric works with DAI’s clients and stakeholders at the highest level, develops and supports the execution of our strategy in particular countries and technical areas, and works on development projects around the world.
 
-After working in the private sector for more than 25 years, Eric was asked to serve in senior leadership positions with the U.S. Agency for International Development (USAID) from 2011 to 2017 in order to help improve development effectiveness. In the final two years of his tenure, as Associate Administrator, he took on the interim role of Acting Deputy Administrator. 
+After working in the private sector for more than 25 years, Eric was asked to serve in senior leadership positions with the U.S. Agency for International Development (USAID) from 2011 to 2017 to help improve development effectiveness. In the final two years of his tenure, as Associate Administrator, he took on the interim role of Acting Deputy Administrator. 
 
 As Assistant Administrator for the Africa Bureau (2014–2015), he led agency operations in Africa, notably including creation of the Bureau’s Ebola Unit, which managed USAID recovery efforts in Liberia, Guinea, and Sierra Leone, and supervision of Power Africa—the U.S. Government’s initiative, of which he was one of the designers, to support private sector clean energy projects that expand access to electricity on the continent.  
 
