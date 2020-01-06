@@ -1,6 +1,7 @@
 ---
 title: Jemima Felton
 date: 2019-09-26 20:29:00 Z
+published: false
 lastname: Felton
 summary: Jemima is an international training professional with a strong track record
   of building relationships with clients from all over the world to develop the learning
