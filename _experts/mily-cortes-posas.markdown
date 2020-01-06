@@ -5,8 +5,7 @@ lastname: Cortés-Posas
 summary: Mily Cortés-Posas has more than 15 years of experience in renewable energy
   and cleaner production, working for the last six years for DAI in Honduras as a
   renewable energy and cleaner production specialist.
-job-title: Renewable Energy Specialist, Honduras Gobernanza en Ecosistemas, Medios
-  de Vida, y Agua (GEMA)
+job-title: Renewable Energy Specialist
 image: "/uploads/Mily.jpg"
 solutions:
 - Energy
