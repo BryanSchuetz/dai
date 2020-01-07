@@ -5,7 +5,7 @@ lastname: Ogedegbe
 summary: 'Judith Ogedegbe serves as Executive Director for DAI in Nigeria, responsible
   for all of DAI’s operations in Nigeria. '
 job-title: Nigeria Executive Director
-image: "/uploads/Judith%20Ogedegbe.jpg"
+image: "/uploads/judith%20new%20portal.jpg"
 regions:
 - Sub-Saharan Africa
 ---
