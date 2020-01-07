@@ -16,7 +16,7 @@ country: Morocco
 
 The Tangier-Tétouan-Al Hoceima (TTAH) in Northern Morocco has historically been a marginalised region, not benefitting from the nationwide growth Morocco has experienced over the past two decades. As a result, a burgeoning sense of disenchantment with political processes and heightened social tensions have developed throughout the region.
 
-In the years leading up to and following King Mohammed IV’s constitutional reforms in 2011, the Kingdom of Morocco has demonstrated a commitment to decentralisation, local participation, and enhanced service delivery. Under Morocco’s Advanced Regionalisation agenda, the government aims to decentralise administrative structures, devolve policy making to locally elected governments, and incentivise active civic participation. 
+In the years leading up to and following King Mohammed VI’s constitutional reforms in 2011, the Kingdom of Morocco has demonstrated a commitment to decentralisation, local participation, and enhanced service delivery. Under Morocco’s Advanced Regionalisation agenda, the government aims to decentralise administrative structures, devolve policy making to locally elected governments, and incentivise active civic participation. 
 
 The United Kingdom is supporting this ongoing reform process; the U.K. Foreign and Commonwealth Office (FCO) launched the TASHAROC project to strengthen political representation and citizen engagement in the TTAH region. 
 
