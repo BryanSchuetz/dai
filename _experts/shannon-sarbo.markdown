@@ -3,9 +3,10 @@ title: Shannon Sarbo
 date: 2019-12-10 12:57:00 Z
 lastname: Sarbo
 summary: 'Shannon Sarbo is Deputy Chief of Party for the Policy Leadership, Interactions,
-  Networks and Knowledge (LINK) project, driving efforts to transform agricultural
+  Networks, and Knowledge (LINK) project, driving efforts to transform agricultural
   policy systems worldwide. '
-job-title: Deputy Chief of Party
+job-title: Deputy Chief of Party, Policy Leadership, Interactions, Networks, and Knowledge
+  (LINK) project
 image: "/uploads/shannon%20sarbo.jpg"
 solutions:
 - Agriculture and Food Security
