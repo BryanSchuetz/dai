@@ -6,7 +6,7 @@ summary: Gregg Ravenscroft, DAI's Commercial Director in our Europe office, has 
   track record improving operational capacity and profitability across multiple project
   environments.
 job-title: Commercial Director
-image: https://assetify-dai.com/experts/Greg-1%20INNER.jpg
+image: "/uploads/Profile%20Picture%20-%20Cropped%20(5).jpg"
 solutions:
 - Include Primary and/or Secondary Solutions
 - 
