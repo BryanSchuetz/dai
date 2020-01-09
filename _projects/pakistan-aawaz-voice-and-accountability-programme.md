@@ -1,9 +1,10 @@
 ---
 title: Pakistan—AAWAZ Voice and Accountability Programme
 date: 2016-01-21 22:40:00 Z
-summary: AAWAZ brings together civil society development organizations to strengthen
-  Pakistani citizens' capacity to collectively voice their priorities, bring about
-  reform, and hold the government accountable.
+summary: 'AAWAZ operated in 4,500 villages and settlements in 45 Districts across
+  Punjab and Khyber Pakhtunkhwa, reaching more than 10 million citizens, of which
+  8 million benefited directly from improved services, reduced violence, and increased
+  political participation. '
 start: 2012
 end: 2018
 client: U.K. Department for International Development
