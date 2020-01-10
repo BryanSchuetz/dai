@@ -1,7 +1,6 @@
 ---
 title: Guyana Trade Mission
 date: 2020-01-10 18:42:00 Z
-published: false
 summary: DAI’s Sustainable Business Group (SBG) designed and facilitated a 2019 trade
   mission to Guyana. The mission, for Atlantic Canadian oil and gas suppliers, allowed
   firms to identify potential local partners and contracting opportunities in the
