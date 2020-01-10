@@ -22,7 +22,7 @@ The project supported the Rwanda Development Board’s (RDB) efforts to improve 
 
 ![](https://assetify-dai.com/projects/RwandaSSENNP.jpg)
 
-### Sample Activities
+### Select Results
 
 * Created 25,000 days-worth of paid employment for local population, working at cooperatives, renovating park infrastructure, and improving trails.
 * Supported five local cooperatives which helped to generate an 846 percent increase in income to target rural population over the life of the project.
