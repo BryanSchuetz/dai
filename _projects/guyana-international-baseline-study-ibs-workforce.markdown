@@ -1,7 +1,6 @@
 ---
 title: Guyana—International Baseline Study (IBS) Workforce
 date: 2020-01-10 18:14:00 Z
-published: false
 summary: 'DAI’s Sustainable Business Group (SBG) is conducting an assessment and orchestrating
   a nationwide economic survey to establish a new baseline against which the future
   development Guyana can be measured. '
@@ -14,7 +13,7 @@ regions: Latin America and the Caribbean
 country: Guyana
 ---
 
-Building on a 2017 industrial baseline exercise, DAI’s Sustainable Business Group (SBG) is conducting an assessment and orchestrating a nationwide economic survey to establish a new baseline against which the future development Guyana can be measured. 
+Building on a 2017 industrial baseline exercise, DAI’s Sustainable Business Group (SBG) is conducting an assessment and orchestrating a nationwide economic survey to establish a new baseline against which the future development of Guyana can be measured. 
 
 An industrial baseline study (IBS) will identify opportunities to increase local content—the social and economic benefits Guyana derives from oil and gas industry activities. The IBS will also forecast local content metrics to predict the future impacts the industry may have on labor wages, prices of local goods, and local firms’ profits. These efforts will assist a multinational corporation to increase and make more sustainable local content investments and provide data to understand the development of the Guyanese economy over time. 
 
