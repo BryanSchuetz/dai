@@ -1,5 +1,5 @@
 ---
-title: Guyana—International Baseline Study (IBS) Workforce
+title: Guyana International Baseline Study (IBS) Workforce
 date: 2020-01-10 18:14:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) is conducting an assessment and orchestrating
   a nationwide economic survey to establish a new baseline against which the future
