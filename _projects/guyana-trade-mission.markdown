@@ -14,6 +14,6 @@ regions: Latin America and the Caribbean
 country: Guyana
 ---
 
-DAI’s Sustainable Business Group (SBG) designed and facilitated a 2019 trade mission to Guyana. The mission, for Atlantic Canadian oil and gas suppliers, allowed firms to identify potential local partners and contracting opportunities. SBG leveraged the Centre for Local Business Development, another SBG project in Guyana, to support the mission. The Centre provided Canadian firms with a list of business from its Supplier Registration Portal (SRP), which contains more than 1,400 registered Guyanese businesses. 
+DAI’s Sustainable Business Group (SBG) designed and facilitated a 2019 trade mission to Guyana. The mission, for Atlantic Canadian oil and gas suppliers, allowed firms to identify potential local partners and contracting opportunities. SBG leveraged the [Centre for Local Business Development](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), another SBG project in Guyana, to support the mission. The Centre provided Canadian firms with a list of business from its Supplier Registration Portal (SRP), which contains more than 1,400 registered Guyanese businesses. 
 
 The project also included a market study of Guyana and a tax regime report. The tax report outlined Guyana’s taxation policies, the Canada-Guyana double tax treaty, Canadian policies affecting repatriation of funds, and additional tax treatments that affect potential investment. The market and tax reports aided in preparing the participating firms for the mission trip.
