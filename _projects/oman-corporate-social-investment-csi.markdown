@@ -5,6 +5,7 @@ published: false
 summary: DAI’s Sustainable Business Group (SBG) conducted a social investment benchmarking
   study for a multinational corporation in Oman.
 start: 2019
+end: 2019
 client: Multinational corporation
 solutions:
 - Sustainable Business
