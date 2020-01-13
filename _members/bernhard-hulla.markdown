@@ -1,7 +1,6 @@
 ---
 title: Bernhard Hulla
 date: 2020-01-13 14:25:00 Z
-published: false
 summary: Bernhard Hulla has more than 25 years of experience in the international
   development field, with a focus on public sector reform.
 image: "/uploads/hulla%20small.jpg"
