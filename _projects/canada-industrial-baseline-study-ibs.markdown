@@ -1,7 +1,6 @@
 ---
 title: Canada—Industrial Baseline Study (IBS)
 date: 2020-01-16 17:20:00 Z
-published: false
 summary: DAI’s Sustainable Business Group (SBG) delivered an industrial baseline study
   (IBS) to assess the offshore oil and gas industry in Newfoundland and Labrador,
   Canada.
