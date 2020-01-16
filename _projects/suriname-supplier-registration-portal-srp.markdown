@@ -1,7 +1,6 @@
 ---
 title: Suriname—Supplier Registration Portal (SRP)
 date: 2020-01-16 16:51:00 Z
-published: false
 summary: DAI’s Supplier Registration Portal (SRP) matches local suppliers with buyers
   (such as operators and primary contractors) and helps foreign suppliers form alliances
   with local vendors to access protected local markets.
