@@ -15,10 +15,13 @@ solutions:
 - Value Chain and Market Systems Development
 regions:
 - Eastern Europe and Central Asia
+articles:
+- name: The Prospects for Economic Inclusion in Pakistan
+  article_file: http://www.technologyreview.pk/the-prospects-for-economic-inclusion-in-pakistan/
 layout: expert
 ---
 
-Arsalan Faheem works with our London-based Private Sector Development practice, where he is responsible for advising DAI's portfolio of economic development programmes, as well as growing the practice through client development. Arsalan's advisory work consists of economic sector appraisal, value chain analysis, market development, enterprise financial analysis, and project evaluation.
+Arsalan Faheem works with our U.K.-based Private Sector Development practice, where he is responsible for advising DAI's portfolio of economic development programmes, as well as growing the practice through client development. Arsalan's advisory work consists of economic sector appraisal, value chain analysis, market development, enterprise financial analysis, and project evaluation.
 
 His client engagements have included the U.K. Department for International Development, the World Bank, the U.S. Agency for International Development, AusAID, the European Bank for Reconstruction and Development, and Chevron. He has conducted assignments in multiple countries, including Jordan, Nigeria, Pakistan, Tanzania, and Thailand.
 
