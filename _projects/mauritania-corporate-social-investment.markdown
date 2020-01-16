@@ -1,7 +1,6 @@
 ---
 title: Mauritania—Corporate Social Investment
 date: 2020-01-16 16:12:00 Z
-published: false
 summary: DAI’s Sustainable Business Group (SBG) worked with a multinational corporation
   to create a lasting, positive impact in the region surrounding its impending liquefied
   natural gas (LNG) offshore platform.
