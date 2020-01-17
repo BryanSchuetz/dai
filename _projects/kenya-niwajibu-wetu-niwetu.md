@@ -15,13 +15,10 @@ regions:
 country:
 - Kenya
 promos:
-- title: 'GUIDELINES: Seeking Expressions of Interest (EOIs) for gender-focused countering
-    violent extremism (CVE) grants'
-  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Guidelines%20READ%20THIS%20FIRST.pdf"
-- title: Gender EOI Budget Template
-  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Budget%20Template%20FINAL.xls"
-- title: Gender EOI Technical Template
-  link: "/uploads/NIWETU%20-%20Gender%20EOI%20Technical%20Template.docx"
+- title: 'CVE and the Journey to Self-Reliance in Kenya '
+  link: "/uploads/NIWETU%20-%20J2SR%20and%20CVE_FINAL.pdf"
+- title: NIWETU and the Systems-based Approach
+  link: "/uploads/NIWETU%20-%20Systems-Based%20Approach_Final.pdf"
 layout: project
 ---
 
@@ -49,3 +46,5 @@ USAID recently drafted a new CVE policy, with significant portions drawn from NI
 * Utilized a robust Complexity Aware Planning Cycle Framework, which aids strategic and implementation decision making. For example, NIWETU completed research on the “10 Essential Ingredients” for successful development and implementation of a CVE County Action Plan and shared its findings with Kenya’s National Counter Terrorism Center (NCTC). NCTC has since incorporated these recommendations into its CAP implementation efforts across Kenya. 
 
 ![Garissa3 page.jpg](/uploads/Garissa3%20page.jpg)`A chief from Garissa Township, at right, dances with community members at the launch of the Garissa County Action Plan to Counter Violent Extremism.`
+
+[NIWETU - Systems-Based Approach_Final.pdf](/uploads/NIWETU%20-%20Systems-Based%20Approach_Final.pdf)
