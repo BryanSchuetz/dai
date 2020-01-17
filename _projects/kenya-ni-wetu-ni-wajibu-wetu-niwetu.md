@@ -35,10 +35,10 @@ USAID recently drafted a new CVE policy, with significant portions drawn from NI
 
 ## Sample Activities
 
-* Enhance the capacity of community leaders and groups to work effectively with one another across ethnic and religious lines.
+* Enhance the capacity of community members and security officials to work effectively with one another to counter violent extremism.
 * Help local community organizations detect early signs of radicalization and address them before they escalate to recruitment.
-* Support government officials at the national and local levels with P/CVE capacity building.
-* Partner with national government stakeholders, such as the National Counter-Terrorism Centre and the Directorate for Peacebuilding and Conflict Management, to build better relationships and trust between communities and the government.
+* Support government officials at the national and local levels with CVE capacity building.
+* Partner with national government stakeholders, such as the National Counter-Terrorism Centre and the Kenya School of Government, to build better relationships and trust between communities and the government.
 
 ### Select Results
 
