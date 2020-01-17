@@ -14,6 +14,7 @@ solutions:
 - Environment
 - Fragile States
 - Stabilization
+- Water and Sanitation Services and Management
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa
