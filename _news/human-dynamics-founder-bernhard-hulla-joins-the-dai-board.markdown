@@ -10,7 +10,7 @@ DAI is delighted to welcome Bernhard Hulla to the [DAI Board](https://www.dai.co
 
 ![B.Hulla_5inner-93c06f.jpg](/uploads/B.Hulla_5inner-93c06f.jpg)
 
-Before launching Human Dynamics in 1993, Bernhard (pictured above) was International Programme Director of a think tank affiliated with the Club of Rome. He then worked for one of the leading Austrian consulting firms on its expansion into emerging and mature markets.
+Before launching [Human Dynamics](https://www.humandynamics.org/) in 1993, Bernhard (pictured above) was International Programme Director of a think tank affiliated with the Club of Rome. He then worked for one of the leading Austrian consulting firms on its expansion into emerging and mature markets.
 
 “Bernhard is a tremendous addition to our team,” said Board Chair [Betsey Nelson](https://www.dai.com/who-we-are/board/elizabeth-nelson). “He has deep knowledge of the EU market and the trends driving global development, and a resolute commitment to make a difference in the world. Importantly, he built a successful and sustainable business by insisting on high standards, which is exactly what we’ll be asking him to do as a member of the DAI Board.”
 
