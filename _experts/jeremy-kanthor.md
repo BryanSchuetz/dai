@@ -2,12 +2,10 @@
 title: Jeremy Kanthor
 date: 2016-01-21 22:18:00 Z
 lastname: Kanthor
-summary: Jeremy Kanthor's interest in governance started during a high school trip
-  to Dakar, Senegal, that coincided with presidential elections. After observing an
-  opposition rally and getting caught between opposition supporters hurling rocks
-  and police using tear gas, he was quickly ushered into the home of the leading opposition
-  candidate, Abdoulaye Wade.
-job-title: 'Vice President, Governance '
+summary: 'Jeremy Kanthor oversees DAI’s technical sectors and business development
+  for our work with the U.S. Agency for International Development (USAID), the State
+  Department, and other U.S. Government clients. '
+job-title: Vice President, Development Innovations
 image: https://assetify-dai.com/experts/KathorInner.jpg
 solutions:
 - Governance
@@ -29,11 +27,13 @@ articles:
 layout: expert
 ---
 
-Jeremy Kanthor's interest in governance started during a high school trip to Dakar, Senegal, that coincided with presidential elections. After observing an opposition rally and getting caught between opposition supporters hurling rocks and police using tear gas, he was quickly ushered into the home of the leading opposition candidate, Abdoulaye Wade. Meeting Wade, who lost that election, but later went on to become Senegal's president, was "a thrill and sparked an interest in how other political systems work," Jeremy says. Later that night at the hotel, he met people working on a U.S. government-funded project to support the electoral process. "I knew then that was the career I wanted."
+Jeremy Kanthor oversees DAI’s technical sectors and business development for our work with the U.S. Agency for International Development (USAID), the State Department, and other U.S. Government clients. Jeremy previously served as the Vice President for DAI’s Governance Sector where he was responsible for the company’s work in local governance, public financial management, citizen security, institutional reform and education. 
 
-Since joining DAI in 2002, he has participated in the design and implementation of numerous governance projects, from local government reform in Romania to legislative strengthening in Armenia, Pakistan, Palestine, Azerbaijan, and Afghanistan, and ministerial reform in Palestine. Early in his career, he was awarded a yearlong fellowship to develop a system for monitoring activity impact in post-conflict environments. More recently, he worked in Bangladesh on the Promoting Governance, Accountability, Transparency and Integrity (PROGATI) Project, a major U.S. Agency for International Development (USAID)-funded anti-corruption initiative focused on strengthening investigative journalism, civil society monitoring of public services, government oversight, and parliamentary budget analysis.
+Jeremy’s interest in development started during a high school trip to Dakar, Senegal, that coincided with presidential elections. After observing an opposition rally and getting caught between opposition supporters hurling rocks and police using tear gas, he was quickly ushered into the home of the leading opposition candidate, Abdoulaye Wade. Meeting Wade, who lost that election, but later went on to become Senegal’s president, was “a thrill and sparked an interest in how other political systems work,” Jeremy says. Later that night at the hotel, he met people working on a U.S. government-funded project to support the electoral process. “I knew then that was the career I wanted.”
 
-Jeremy serves as the Governance Lead on USAID's flagship health system strengthening program, The Health Finance and Governance Project, where he provides technical direction and ensures the technical quality of all governance activities. He also directs the project's Angola team.
+Since joining DAI in 2002, he has participated in the design and implementation of numerous governance projects, from local government reform in Romania to legislative strengthening in Armenia, Pakistan, Palestine, Azerbaijan, and Afghanistan, and ministerial reform in Palestine. Early in his career, he was awarded a yearlong fellowship to develop a system for monitoring activity impact in post-conflict environments. He worked in Bangladesh on the [Promoting Governance, Accountability, Transparency and Integrity (PROGATI)](https://www.dai.com/our-work/projects/bangladesh-promoting-governance-accountability-transparency-and-integrity-progati) project, a major USAID-funded anti-corruption initiative focused on strengthening investigative journalism, civil society monitoring of public services, government oversight, and parliamentary budget analysis. 
+
+Jeremy also served as the Governance lead on USAID’s flagship health system strengthening program, the Health Finance and Governance Project, where he provided technical direction and ensures the technical quality of all health governance activities.
 
 * B.A., political science, Haverford College
 * M.Phil, development studies, Institute for Development Studies, Sussex University
