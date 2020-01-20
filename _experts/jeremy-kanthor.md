@@ -24,6 +24,13 @@ articles:
   article_file: https://www.hfgproject.org/?download=11524
 - name: Self-Assessment of Internal Control Health Sector
   article_file: https://www.hfgproject.org/?download=11526
+- name: 'Engaging Civil Society in Health Finance and Governance: A Guide for Practitioners'
+  article_file: https://www.hfgproject.org/engaging-civil-society-in-health-finance-and-governance-a-guide-for-practitioners/
+- name: 'Entry Point Mapping: A Tool to Promote Civil Society Engagement on Health
+    Finance and Governance'
+  article_file: https://www.hfgproject.org/entry-point-mapping-a-tool-to-promote-civil-society-engagement-on-health-finance-and-governance/
+- name: 'Accountability, Health Governance, and Health Systems: Uncovering the Linkages'
+  article_file: https://www.hfgproject.org/accountability-health-governance-health-systems-uncovering-linkages/
 layout: expert
 ---
 
