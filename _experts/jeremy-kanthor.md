@@ -27,7 +27,7 @@ articles:
 layout: expert
 ---
 
-Jeremy Kanthor oversees DAI’s technical sectors and business development for our work with the U.S. Agency for International Development (USAID), the State Department, and other U.S. Government clients. Jeremy previously served as the Vice President for DAI’s Governance Sector where he was responsible for the company’s work in local governance, public financial management, citizen security, institutional reform and education. 
+Jeremy Kanthor oversees DAI’s technical sectors and business development for our work with the U.S. Agency for International Development (USAID), the State Department, and other U.S. Government clients. Jeremy previously served as the Vice President for DAI’s Governance Sector where he was responsible for the company’s work in local governance, public financial management, citizen security, institutional reform, and education. 
 
 Jeremy’s interest in development started during a high school trip to Dakar, Senegal, that coincided with presidential elections. After observing an opposition rally and getting caught between opposition supporters hurling rocks and police using tear gas, he was quickly ushered into the home of the leading opposition candidate, Abdoulaye Wade. Meeting Wade, who lost that election, but later went on to become Senegal’s president, was “a thrill and sparked an interest in how other political systems work,” Jeremy says. Later that night at the hotel, he met people working on a U.S. government-funded project to support the electoral process. “I knew then that was the career I wanted.”
 
