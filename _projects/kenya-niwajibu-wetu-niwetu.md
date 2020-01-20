@@ -17,7 +17,7 @@ country:
 promos:
 - title: 'CVE and the Journey to Self-Reliance in Kenya '
   link: "/uploads/NIWETU%20-%20J2SR%20and%20CVE_FINAL.pdf"
-- title: NIWETU and the Systems-based Approach
+- title: A Systems-based Approach to CVE
   link: "/uploads/NIWETU%20-%20Systems-Based%20Approach_Final.pdf"
 layout: project
 ---
