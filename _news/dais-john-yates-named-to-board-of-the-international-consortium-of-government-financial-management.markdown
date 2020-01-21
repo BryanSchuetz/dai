@@ -11,7 +11,7 @@ summary: John Yates, who leads DAI’s public financial management practice, was
   DAI is a sustaining member of the ICGFM.
 ---
 
-[John Yates](https://www.dai.com/who-we-are/our-team/john-yates), who leads DAI’s public financial management [practice](https://www.dai.com/our-work/solutions/governance-solutions/public-financial-management), was named to the board of directors of the [International Consortium of Government Financial Management](http://www.icgfm.org/). Established in 1978, ICGFM promotes learning across government and multilateral institutions around public financial management (PFM) and domestic resource mobilization. DAI is a sustaining member of the ICGFM.
+John Yates, who leads DAI’s public financial management [practice](https://www.dai.com/our-work/solutions/governance-solutions/public-financial-management), was named to the board of directors of the [International Consortium of Government Financial Management](http://www.icgfm.org/). Established in 1978, ICGFM promotes learning across government and multilateral institutions around public financial management (PFM) and domestic resource mobilization. DAI is a sustaining member of the ICGFM.
 
 ![DAI-News----Yates-mug.jpg](/uploads/DAI-News----Yates-mug.jpg){:.float-left} At DAI, Yates leads a team of practitioners who deliver technical assistance around macroeconomic policy, domestic resource mobilization, budget planning and execution, debt management, central banking, public investment, private-public partnerships, and tax and customs administration. He has worked on donor-funded public finance programming in Armenia, Bosnia-Herzegovina, Egypt, Georgia, and Serbia, including as IT Advisor, Component Lead, Deputy Chief of Party, and Chief of Party.
 
