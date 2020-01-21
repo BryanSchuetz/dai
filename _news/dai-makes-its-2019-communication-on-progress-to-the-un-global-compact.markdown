@@ -1,6 +1,6 @@
 ---
 title: DAI Makes Its 2019 Communication on Progress to the UN Global Compact
-date: 2020-01-21 17:00:00 Z
+date: 2020-01-21 01:00:00 Z
 is_featured: true
 clients: U.K. Department for International Development
 summary: DAI is delighted to make its latest [Communication on Progress](https://s3-us-west-2.amazonaws.com/ungc-production/attachments/cop_2020/482447/original/DAI_UNGC_Communication_on_Progress_2019.pdf?1579620304)
