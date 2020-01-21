@@ -1,6 +1,7 @@
 ---
 title: Carmen Tedesco
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Tedesco
 summary: Carmen Tedesco is the Technology Manager for DAI’s Managing for Development
   Results team, focusing on developing data systems.
