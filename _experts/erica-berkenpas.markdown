@@ -1,6 +1,7 @@
 ---
 title: Erica Berkenpas
 date: 2017-04-18 11:56:00 Z
+published: false
 lastname: Berkenpas
 summary: Erica Berkenpas has spent the past 10 plus years working at the intersection
   of transition, stabilization, resilience, countering violent extremism, and governance.
