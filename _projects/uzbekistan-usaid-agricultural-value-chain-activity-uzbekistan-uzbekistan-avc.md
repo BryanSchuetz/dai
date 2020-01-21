@@ -33,3 +33,9 @@ We work to [improve the quality](https://stories.usaid.gov/trade-for-tomorrow/#p
 * Build linkages between producers and local supermarkets, take advantage of local trade events, and develop relationships with buyers in new markets.
 * Conduct AVC horticulture assessment and mapping with agrarian university professors and students, and develop hands-on production and post-harvest learning at universities.
 * [Introduce new ICT tools](https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html?utm_source=daidotcom) to help facilitate learning.
+
+### Select Results
+
+* Incentivized more than 10,000 horticultural producers and processors to adopt new technologies and practices, improving agricultural practices on 15,600 hectares of horticultural farms. 
+* Leveraged $7.9 million in private sector investment in the establishment of new orchards, installation of water saving technologies, expansion of the cold chain network, and upgrades in product packaging, marketing, and branding to meet international standards. This brings the project's cumulative private sector investment leveraged to $14.3 million, which has resulted in a 213 percent increase in the value of exported goods. 
+* Provided 67,700 hours of training and facilitated the emergence of 51 new consulting service providers, contributing to a 67 percent increase in farm yields, increasing income among targeted farmers by 107 percent. 

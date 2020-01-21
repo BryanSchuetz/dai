@@ -1,6 +1,7 @@
 ---
 title: John Yates
 date: 2017-09-22 14:10:00 Z
+published: false
 lastname: 'Yates '
 summary: John Yates leads DAI’s Global Practice for Public Financial Management covering
   macroeconomic policy, domestic resource mobilization, budget planning and execution,
