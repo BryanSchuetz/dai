@@ -1,24 +1,21 @@
 ---
 title: Nick Hobgood
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Hobgood
-regions:
-- Asia and the Pacific
-- Sub-Saharan Africa
+summary: Nick Hobgood has 30 years of experience leading complex, multisector development
+  projects in humanitarian response, democratic initiatives, community-based natural
+  resource management, agriculture, and small business development.
+job-title: 'Director, Project Delivery, Middle East and North Africa '
+image: https://assetify-dai.com/experts/HobgoodInner.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
 - Economic Growth
 - Environment
 - Natural Resource Management
+regions:
+- Asia and the Pacific
+- Sub-Saharan Africa
 layout: expert
-image: https://assetify-dai.com/experts/HobgoodInner.jpg
-summary: Nick Hobgood has 30 years of experience leading complex, multisector development
-  projects in humanitarian response, democratic initiatives, community-based natural
-  resource management, agriculture, and small business development.
-job-title: Director, MENA/Afghanistan
-articles:
-- name: 
-  article_file: 
 ---
 
 Nick Hobgood has 30 years of experience leading complex, multisector development projects in humanitarian response, democratic initiatives, community-based natural resource management, agriculture, and small business development.
