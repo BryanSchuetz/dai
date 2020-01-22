@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Grant
 summary: Bill Grant has played an important role in the development and application
   of subsector and value chain approaches.
-job-title: Global Practice Lead, Market Systems Development
+job-title: 'Global Practice Specialist, Agriculture and Market Systems '
 image: "/uploads/Bill%20photo%203.jpg"
 solutions:
 - Market Insight and Development
