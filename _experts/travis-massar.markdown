@@ -4,7 +4,7 @@ date: 2019-09-20 13:55:00 Z
 lastname: 'Massar '
 summary: 'Travis Massar has more than 10 years of experience designing, implementing,
   and managing economic growth programs across the relief to development continuum. '
-job-title: 'Senior Global Sector Specialist '
+job-title: Senior Global Sector Specialist, Financial Services and Investment
 image: "/uploads/travismassarportal.jpg"
 solutions:
 - Economic Growth
