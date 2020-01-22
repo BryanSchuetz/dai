@@ -1,6 +1,7 @@
 ---
 title: Tim Bergstrom
 date: 2017-05-05 15:30:00 Z
+published: false
 lastname: Bergstrom
 summary: Tim Bergstrom leads the Strengthening Host and Refugee Populations in Ethiopia
   (SHARPE) programme.
