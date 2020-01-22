@@ -5,7 +5,7 @@ lastname: Irwin
 summary: 'Bronwyn Irwin is an agricultural economist who specializes in strengthening
   agricultural market systems to increase competitiveness while preserving natural
   resources, increasing food security, and integrating gender. '
-job-title: Global Practice Lead, Agriculture, Agribusiness, and Food Security
+job-title: Global Practice Lead, Agriculture and Market Systems
 image: "/uploads/Bronwyn%20Irwin%20headshot-a12ed8.png"
 solutions:
 - Agriculture and Food Security
