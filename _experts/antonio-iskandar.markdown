@@ -5,7 +5,7 @@ lastname: Iskandar
 summary: Antonio Iskandar is leading DAI’s efforts in the Citizen Security area by
   supporting business development efforts, the generation of knowledge and technical
   products, and the successful implementation of projects within that practice.
-job-title: Senior Global Practice Leader, Citizen Security
+job-title: Global Practice Lead, Citizen Security
 image: "/uploads/New%20Antonio.jpg"
 solutions:
 - Fragile States
