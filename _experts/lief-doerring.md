@@ -5,7 +5,8 @@ lastname: Doerring
 summary: 'Lief Doerring is a senior international development expert, leader, and
   portfolio manager with more than 20 years of experience working in Africa, Asia,
   the Middle East, and the Pacific. '
-job-title: Senior Principal Development Specialist, Economic Growth
+job-title: Senior Principal Development Specialist, Private Sector Development and
+  Investment
 image: https://assetify-dai.com/experts/Doerring_Inner.jpg
 solutions:
 - Environment
