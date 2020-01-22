@@ -4,7 +4,7 @@ date: 2019-10-02 07:40:00 Z
 lastname: Ryba
 summary: 'Luke Ryba provides programmatic and partnership development work across
   a variety of economic growth areas. '
-job-title: Global Sector Specialist
+job-title: Global Sector Specialist, Financial Services and Investment
 image: "/uploads/Luke%20Ryba.png"
 solutions:
 - Economic Growth
