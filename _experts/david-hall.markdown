@@ -4,7 +4,7 @@ date: 2020-01-22 13:59:00 Z
 lastname: Hall
 summary: 'David Hall is a Global Practice Specialist in DAI''s Governance sector. '
 job-title: Global Practice Specialist, Public Financial Management
-image: "/uploads/Hall,%20David%20(2%20x%202%20in.%20300%20dpi).jpg"
+image: "/uploads/Hall,%20David%20--%2057--jpg.jpg"
 solutions:
 - Governance
 - Public Financial Management
