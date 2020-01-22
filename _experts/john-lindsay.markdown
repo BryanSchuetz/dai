@@ -1,7 +1,6 @@
 ---
 title: John Lindsay
 date: 2017-03-10 20:09:00 Z
-published: false
 lastname: Lindsay
 summary: John Lindsay leads DAI’s Workforce Development and Youth practice, specializing
   in developing market-driven products and services that improve competitiveness for
