@@ -5,7 +5,7 @@ lastname: Gutzwiller
 summary: Jay Gutzwiller manages DAI’s portfolio in Eastern Europe and Latin America
   and the Caribbean, as well as Washington, D.C.-based global programs.
 job-title: Vice President, Global Region
-image: "/uploads/Jay%20Gutzwiller.jpg"
+image: "/uploads/Jay.jpg"
 regions:
 - Worldwide
 ---
