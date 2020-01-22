@@ -5,7 +5,7 @@ lastname: Tardif-Douglin
 summary: David Tardif-Douglin is an agricultural economist with expertise in capacity
   building, training, and managing and overseeing multiple technical teams operating
   in multiple project sites.
-job-title: Principal Development Specialist
+job-title: Principal Development Specialist, Agriculture and Market Systems
 image: https://assetify-dai.com/experts/innerdouglin.jpg
 solutions:
 - Global Health
