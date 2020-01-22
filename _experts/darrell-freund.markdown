@@ -5,7 +5,7 @@ lastname: Freund
 summary: Darrell Freund has advised clients and governments in more than 20 countries
   in economic development, social development and protection, infrastructure, and
   government administration and civil service.
-job-title: Senior Principal Global Practice Specialist, Governance
+job-title: Senior Principal Global Practice Specialist, Public Financial Management
 image: "/uploads/Darrell-Freund-DAI-bio.jpg"
 solutions:
 - Governance
