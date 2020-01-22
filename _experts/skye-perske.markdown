@@ -4,7 +4,7 @@ date: 2017-04-14 12:33:00 Z
 lastname: Perske
 summary: Skye Perske is focused on ensuring excellence in DAI programming, thought
   leadership in countering violent extremism (CVE), and new business activities.
-job-title: 'Business Development Management, Asia '
+job-title: 'Business Development Director, Asia '
 image: "/uploads/Perske,%20Skyelar%E2%80%9414--jpg--use%20this%20one.jpg"
 solutions:
 - Fragile States

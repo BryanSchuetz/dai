@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Berk
 summary: 'Edwin Berk has made a career of building the businesses of professional
   services companies where public and private sectors intersect. '
-job-title: 'Business Development Management, Middle East, North Africa, and Afghanistan
+job-title: 'Business Development Director, Middle East, North Africa, and Afghanistan
   Region '
 image: https://assetify-dai.com/experts/Berk_Inner_0.jpg
 solutions:
