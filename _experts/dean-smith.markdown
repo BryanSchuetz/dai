@@ -4,7 +4,7 @@ date: 2019-09-18 07:44:00 Z
 lastname: Smith
 summary: Dean Smith has more than 20 years of experience designing and managing donor-funded
   projects in agriculture, value chain development, and enterprise competitiveness.
-job-title: Senior Global Sector Specialist
+job-title: Senior Global Sector Specialist, Private Sector Development and Investment
 image: "/uploads/dean%20smith.jpg"
 solutions:
 - Economic Growth
