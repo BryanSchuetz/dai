@@ -5,7 +5,7 @@ lastname: Afshar-Gandhi
 summary: Alia Afshar-Gandhi is responsible for overseeing a portfolio of economic
   growth, workforce development, and competitiveness projects in the Middle East and
   Afghanistan.
-job-title: 'Director, Economic Growth, Middle East and North Africa '
+job-title: 'Director, Project Delivery, Middle East and North Africa '
 image: "/uploads/Alia.jpg"
 solutions:
 - Economic Growth
