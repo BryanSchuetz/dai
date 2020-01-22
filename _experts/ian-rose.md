@@ -2,11 +2,9 @@
 title: Ian Rose
 date: 2016-01-21 22:18:00 Z
 lastname: Rose
-summary: 'Ian Rose, a lawyer specializing in land tenure, property rights, and access
+summary: Ian Rose, a lawyer specializing in land tenure, property rights, and access
   to justice, has led long-term projects in Colombia, Lebanon, Mozambique, and Cabo
   Verde.
-
-'
 job-title: 'Senior Principal Global Practice Specialist, Land Tenure and Property
   Rights '
 image: https://assetify-dai.com/experts/IanInner.jpg
