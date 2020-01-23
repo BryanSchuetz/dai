@@ -11,6 +11,7 @@ client: U.K. Department for International Development
 solutions:
 - Economic Growth
 - Business Environment Reform
+- Governance
 regions: Middle East and North Africa
 country: Lebanon
 ---
