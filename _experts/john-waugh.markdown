@@ -5,7 +5,7 @@ lastname: Waugh
 summary: 'John Waugh is a specialist in ecosystem management at landscape scales,
   working on complex problems in development and environment involving multiple systems,
   organizations, and cultures. '
-job-title: Senior Global Development Specialist, Biodiversity
+job-title: Principal Global Practice Specialist, Biodiversity
 image: "/uploads/Waugh%20passport%20photo.jpg"
 solutions:
 - Environment
@@ -24,3 +24,8 @@ He currently serves as the Chair for North America of the IUCN Commission on Eco
 He is a successful new business developer, having written winning proposals to major foundations like the Packard Foundation and the John D. and Catherine T. MacArthur Foundation, the Asia Development Bank, the World Bank, the Global Environment Facility, U.S. Agency for International Development, and the Millennium Challenge Corporation. 
  
 John takes pride in a record of service with organizations recognized as “best in class”—in wildland firefighting, law enforcement, volunteer service, nature conservation, and in leading teams of highly qualified experts—and in the establishment of effective, lasting institutions and a new generation of conservation leaders.
+
+* Intensive Humanities Program, University of Montana
+* Invasive Species Control, Southeastern Comm College
+* Law Enforcement (Park Ranger) Academy, Santa Rosa College
+* Member, Conservation Coaches Network, trained in Open Standards for the Practice of Conservation
