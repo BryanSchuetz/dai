@@ -6,7 +6,7 @@ summary: 'John Waugh is a specialist in ecosystem management at landscape scales
   working on complex problems in development and environment involving multiple systems,
   organizations, and cultures. '
 job-title: Global Practice Lead, Biodiversity
-image: "/uploads/John%20Waugh.jpg"
+image: "/uploads/Waugh%20passport%20photo.jpg"
 solutions:
 - Environment
 - Natural Resource Management
