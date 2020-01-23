@@ -2,8 +2,8 @@
 title: Skye Perske
 date: 2017-04-14 12:33:00 Z
 lastname: Perske
-summary: Skye Perske is focused on ensuring excellence in DAI programming, thought
-  leadership in countering violent extremism (CVE), and new business activities.
+summary: 'In her role as Business Development Director for the Asia Region, Skye Perske
+  is focused on ensuring strong links between business development and project management. '
 job-title: 'Business Development Director, Asia '
 image: "/uploads/Perske,%20Skyelar%E2%80%9414--jpg--use%20this%20one.jpg"
 solutions:
@@ -14,7 +14,9 @@ regions:
 - Middle East and North Africa
 ---
 
-Skye Perske is focused on ensuring excellence in DAI programming, thought leadership in countering violent extremism (CVE), and new business activities. She oversees DAI’s CVE project portfolio, including programs in Kenya and the Philippines. Skye brings to the Center deep experience designing, implementing, monitoring, and leading development programs for DAI. Her work for the past 10 years has focused on security issues in Afghanistan, the Middle East, and North, Central, and West Africa. She served as the Chief of Party on the AFRICOM-funded [Trans-Sahara Security Symposium](https://www.dai.com/our-work/projects/africa-trans-sahara-security-symposium-tss), a civil-military operations/relations training program in North, West, and Central Africa. Her professional background also includes political risk analysis for Fortune 500 companies and other private sector clients. Skye’s particular area of technical interest is incorporating innovation in security sector reform training and curriculum development. She speaks Arabic, French, and Italian.
+Skye Perske is focused on ensuring strong links between business development and project management. Specifically, based on eight years of managing proposals across sectors and regions for DAI, she is training, mentoring, and coaching staff on how to do new business.
+
+In her past 10 years at DAI, Skye has contributed to winning, managing, and delivering projects. She served as the Chief of Party on the AFRICOM-funded [Trans-Sahara Security Symposium](https://www.dai.com/our-work/projects/africa-trans-sahara-security-symposium-tss), a civil-military operations/relations training program in North, West, and Central Africa. She then spent eight years supporting new business functions across technical areas—with a focus on governance and countering violent extremism. Skye has also managed a series of stabilization and countering violent extremism projects, including in Afghanistan, Central Asia, Kenya, the Philippines, Syria, and West Africa. Skye’s particular areas of interest include new business training and curriculum development, proposal management, and governance and stabilization programming. She speaks Arabic, French, and Italian.
 
 * M.A., Near Eastern studies, University of Arizona
 * B.A., politics and language studies, University of California, Santa Cruz
