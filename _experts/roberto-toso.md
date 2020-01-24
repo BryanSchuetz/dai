@@ -5,7 +5,7 @@ lastname: Toso
 summary: Roberto Toso is a senior economist with more than 25 years of international
   development experience working on financial sector reform, economic policy, public
   financial management, international trade, and competitiveness strategy.
-job-title: Senior Economist, Public Financial Management
+job-title: 'Team Leader, Lebanon Economic Reform and Infrastructure Investment Programme '
 image: https://assetify-dai.com/experts/TosoInner.jpg
 solutions:
 - Governance
