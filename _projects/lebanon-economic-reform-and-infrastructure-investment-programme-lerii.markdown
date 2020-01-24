@@ -1,7 +1,6 @@
 ---
 title: Lebanon—Economic Reform and Infrastructure Investment Programme (LERII)
 date: 2020-01-23 10:06:00 Z
-published: false
 summary: 'LERII assists the Lebanese government in implementing key economic reforms,
   reaches agreement on the construction of key donor-financed infrastructure projects,
   and ensures that such projects are successfully built and operated. '
