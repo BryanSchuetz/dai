@@ -30,3 +30,4 @@ With our partners, the Lebanese Economic Association, Economic Consulting Associ
 
 * Employ a problem-driven and strategic approach to identify reform priorities where genuine traction for reform lies and in response to specific government requests.
 * Ensure national ownership and alignment with partners and the Government of Lebanon’s national reform agenda.
+* Facilitate linkages between relevant stakeholders and create buy-in and support to deliver the reform interventions, giving due consideration to political complexities.
