@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 - Value Chain and Market Systems Development
 - Agriculture and Food Security
-regions: Middle East and North Africa
+regions: Eastern Europe and Central Asia
 country: Afghanistan
 ---
 
