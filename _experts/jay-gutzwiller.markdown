@@ -2,12 +2,15 @@
 title: Jay Gutzwiller
 date: 2020-01-22 13:56:00 Z
 lastname: Gutzwiller
-summary: Jay Gutzwiller manages DAI’s portfolio in Eastern Europe and Latin America
-  and the Caribbean, as well as Washington, D.C.-based global programs.
+summary: Jay Gutzwiller manages DAI’s portfolio of USAID-funded projects in Eastern
+  Europe, Latin America, and the Caribbean, as well as Washington, D.C.-based global
+  programs.
 job-title: Vice President, Global Region
 image: "/uploads/Jay.jpg"
 regions:
 - Worldwide
 ---
 
-Jay Gutzwiller manages DAI’s portfolio in Eastern Europe and Latin America and the Caribbean, as well as Washington, D.C.-based global programs. He brings more than 17 years of international and management experience, including home office and field-based management roles. He has managed contracts funded by the U.S. Agency for International Development and/or new business efforts in Latin America, Afghanistan, and Africa. Jay speaks fluent Spanish and has lived in El Salvador, Nicaragua, and Peru, and has supported projects throughout Central and South America. 
+Jay Gutzwiller joined DAI in 2018. A service learning semester in Nicaragua in the 1990s sparked his interest in international development. For the past 18 years, he has managed economic growth and local governance projects focused on job creation, investment and export promotion, infrastructure finance, financial sector strengthening, digital financial inclusion, public financial management, and municipal service delivery. Today, Jay manages DAI’s portfolio of U.S. Agency for International Development (USAID)-funded projects in Eastern Europe, Latin America, and the Caribbean, as well as Washington, D.C.-based global programs. Jay speaks Spanish fluently and has lived in El Salvador, Nicaragua, and Peru.
+
+* B.A., international affairs, Spanish, and Latin American Studies, Xavier University
