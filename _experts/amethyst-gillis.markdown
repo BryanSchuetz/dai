@@ -10,6 +10,7 @@ job-title: Senior Advisor and Laboratory Capacity Expert
 image: "/uploads/Unknown-b2855d.jpeg"
 solutions:
 - Global Health Security and Pandemic Preparedness
+- Global Health
 ---
 
 Drawing on a professional background that combines laboratory-based research and global health, Amethyst supports DAI’s Fleming Fund grant activities, which build the institutional and diagnostic capacity of laboratories and other organizations to perform surveillance of antimicrobial resistance (AMR).  
