@@ -1,6 +1,7 @@
 ---
 title: Georgia—Trade Ready
 date: 2017-11-30 21:50:00 Z
+published: false
 summary: 'Trade Ready Georgia is strengthening the capacity of small businesses to
   access trade finance and stimulating local banks to offer trade finance products
   that will help support economic growth and job creation. '
