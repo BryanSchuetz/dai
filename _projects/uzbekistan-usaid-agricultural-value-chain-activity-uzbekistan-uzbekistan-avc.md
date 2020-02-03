@@ -22,7 +22,7 @@ Uzbekistan AVC capitalizes on the achievements of USAID's Uzbekistan AgLinks (20
 
 We work to [improve the quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1) and volume of agricultural production and post-harvest handling and production, facilitate market linkages, and link educational institutions with private sector demand.
 
-<iframe src="https://player.vimeo.com/video/210491523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/387504205" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -39,3 +39,5 @@ We work to [improve the quality](https://stories.usaid.gov/trade-for-tomorrow/#p
 * Incentivized more than 10,000 horticultural producers and processors to adopt new technologies and practices, [improving agricultural practices](https://www.youtube.com/watch?v=utcQNbBd_2g) on 15,600 hectares of horticultural farms. 
 * Leveraged $7.9 million in private sector investment in the establishment of new orchards, installation of water saving technologies, expansion of the cold chain network, and upgrades in product packaging, marketing, and branding to meet international standards. This brings the project's cumulative private sector investment leveraged to $14.3 million, which has resulted in a 213 percent increase in the value of exported goods. 
 * Provided 67,700 hours of training and facilitated the emergence of 51 new consulting service providers, contributing to a 67 percent increase in farm yields, increasing income among targeted farmers by 107 percent. 
+
+<iframe src="https://player.vimeo.com/video/210491523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
