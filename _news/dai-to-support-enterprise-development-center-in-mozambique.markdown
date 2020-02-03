@@ -9,6 +9,7 @@ summary: 'DAI has won a contract award from ExxonMobil to establish an Enterpris
   Development Center (EDC) in Mozambique. The Center will provide small- and medium-sized
   Mozambican enterprises with skills to participate in a variety of growth industries
   in the country. '
+social-image: "/uploads/trainingMozambique.png"
 ---
 
 DAI has won a contract award from ExxonMobil, on behalf of Mozambique Rovuma Venture and the Area 4 partners, to establish an Enterprise Development Center (EDC) in Mozambique. With offices in Maputo, Pemba, and Palma, the Center will collaborate with the government of Mozambique and the private sector to provide small- and medium-sized Mozambican enterprises with skills to participate in a variety of growth industries in the country. 
@@ -17,7 +18,7 @@ The EDC will serve as a platform to develop qualified, competitive Mozambican bu
  
 “We are excited to bring our global expertise to Mozambique in partnership with TPLA, a Mozambican woman-owned business,” said Zachary Kaplan, director of DAI’s Sustainable Business Group. “Together, we intend to support the local content goals of Rovuma LNG and the government of Mozambique.”
 
-The Center’s first office is expected open in Maputo in the first half of 2020, with offices in Pemba and Palma to follow.
+![trainingMozambique.png](/uploads/trainingMozambique.png)`The Center’s first office is expected open in Maputo in the first half of 2020, with offices in Pemba and Palma to follow.`
 
 Mozambican companies will receive personalized feedback to highlight strengths, identify opportunity areas, and receive practical recommendations for overall capacity development. The EDC will also host seminars, business training sessions, and information on project and contractor procurement procedures. 
 
