@@ -16,7 +16,7 @@ DAI has won a contract award from ExxonMobil, on behalf of Mozambique Rovuma Ven
 
 The EDC will serve as a platform to develop qualified, competitive Mozambican businesses. Mozambique Enterprise Solutions—a joint venture between DAI and local partner TPLA—will design the Center, providing business assessments, consulting and advisory services, training services, assistance with quality and safety certification requirements, and information on accessing capital.
  
-“We are excited to bring our global expertise to Mozambique in partnership with TPLA, a Mozambican woman-owned business,” said Zachary Kaplan, director of DAI’s Sustainable Business Group. “Together, we intend to support the local content goals of Rovuma LNG and the government of Mozambique.”
+“We are excited to bring our global expertise to Mozambique in partnership with TPLA, a Mozambican woman-owned business,” said Zachary Kaplan, director of DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business). “Together, we intend to support the local content goals of Rovuma LNG and the government of Mozambique.”
 
 ![trainingMozambique.png](/uploads/trainingMozambique.png)`The Center’s first office is expected open in Maputo in the first half of 2020, with offices in Pemba and Palma to follow.`
 
@@ -28,4 +28,4 @@ The partners of Area 4—a deepwater block containing 85 trillion cubic feet of 
 
 DAI is a global leader in developing local content (the added economic and social value brought to a host nation through the activities of the oil and gas industry). Since 2017, DAI has operated a similar center in [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), which has linked local providers to supply chain opportunities and provides business training, mentorship, and industry analysis.
 
-DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries.
+DAI’s Sustainable Business Group supports private companies to be smarter corporate citizens in their local business operations and assists public authorities to develop policy, regulation, and incentives that grow sustainable industries.
