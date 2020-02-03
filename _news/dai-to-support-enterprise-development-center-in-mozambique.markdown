@@ -1,7 +1,6 @@
 ---
 title: DAI to Support Enterprise Development Center in Mozambique
 date: 2020-01-29 20:48:00 Z
-published: false
 solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
@@ -18,7 +17,7 @@ The EDC will serve as a platform to develop qualified, competitive Mozambican bu
  
 “We are excited to bring our global expertise to Mozambique in partnership with TPLA, a Mozambican woman-owned business,” said Zachary Kaplan, director of DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business). “Together, we intend to support the local content goals of Rovuma LNG and the government of Mozambique.”
 
-![trainingMozambique.png](/uploads/trainingMozambique.png)`The Center’s first office is expected open in Maputo in the first half of 2020, with offices in Pemba and Palma to follow.`
+![trainingMozambique.png](/uploads/trainingMozambique.png)`The Center’s first office is expected to open in Maputo in the first half of 2020, with offices in Pemba and Palma to follow.`
 
 Mozambican companies will receive personalized feedback to highlight strengths, identify opportunity areas, and receive practical recommendations for overall capacity development. The EDC will also host seminars, business training sessions, and information on project and contractor procurement procedures. 
 
