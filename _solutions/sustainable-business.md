@@ -27,10 +27,10 @@ promos:
   link: https://www.dai.com/news/kosmos-innovation-center-develops-tech-startups-to-solve-agriculture-problems-in-ghana
 - title: "**News**: _Chevron’s Nigerian Initiative Decreases Business Risk and Attracts
     Investment_"
-  link: http://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope/
+  link: https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope
 related: false
-layout: solution
 hero: true
+layout: solution
 ---
 
 Our experts help unlock the commercial potential in growth markets by advising companies on how to **optimize their local supply base** and labor force, **comply with local content requirements**, **demonstrate their long-term commitment** to the country's development, and become a **trusted partner for government.**
