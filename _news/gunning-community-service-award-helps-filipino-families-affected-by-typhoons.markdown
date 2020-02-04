@@ -2,6 +2,9 @@
 title: Gunning Community Service Award Helps Filipino Families Affected by Typhoons
 date: 2020-02-04 13:50:00 Z
 published: false
+summary: 'A 2019 recipient of DAI''s community service award is helping marginalized
+  people in the Philippines become more self-sufficient. '
+social-image: "/uploads/teresa-bc9c5c.jpg"
 ---
 
 A 2019 recipient of DAI's community service award is helping marginalized people in the Philippines become more self-sufficient. Last year, two DAI employees [received](https://www.dai.com/news/dai-and-intrahealth-employees-recognized-for-their-community-service) the company’s David H. Gunning Award for Community Service. Each awardee received $5,000 for donation to a social service organization of their choice. 
