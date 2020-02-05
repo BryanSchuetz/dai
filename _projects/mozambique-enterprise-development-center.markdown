@@ -1,7 +1,6 @@
 ---
 title: Mozambique—Enterprise Development Center
 date: 2020-02-05 16:09:00 Z
-published: false
 summary: 'DAI will establish and operate an Enterprise Development Center (EDC) in
   Mozambique. The Center will collaborate with the government of Mozambique and the
   private sector to provide Mozambican enterprises with skills to participate in a
