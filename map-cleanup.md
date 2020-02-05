@@ -1,8 +1,8 @@
 ---
 title: Projects Closed in 2019 by Country
+published: false
 summary: A list of all projects that closed in 2019, grouped by country
 layout: default
-published: false
 ---
 
 {% assign these_projects = site.projects  %}
