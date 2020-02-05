@@ -1,11 +1,14 @@
 ---
 title: Afghanistan—Competitiveness of Export-Oriented Businesses (ACEBA)
 date: 2020-01-31 10:34:00 Z
-summary: ACEBA works to increase the competitiveness of export-oriented businesses
-  in Afghanistan, promoting sustainable nationwide economic growth.
+summary: The Afghanistan—Competitiveness of Export-Oriented Businesses project works
+  to increase the competitiveness of export-oriented businesses in Afghanistan, promoting
+  sustainable nationwide economic growth.
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+solutions:
+- Economic Growth
 regions: Eastern Europe and Central Asia
 country: Afghanistan
 ---
