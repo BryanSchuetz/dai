@@ -15,6 +15,8 @@ The constraint on the growth of Afghanistan’s economy that matters most for su
  
 DAI’s market-oriented approach helps Afghan businesses increase the sales-worthiness of their products in international markets. We work with businesses from the inside to help fix their production processes, increase their productivity, and export products that meet international demand at competitive prices. The targeted product value chains are: marble and granite, precious stones, jewelry, carpets, cashmere, and saffron. ACEBA will operate through “regional export accelerators” in the country’s five main urban economic centers.
 
+![AVC_3868.jpg](/uploads/AVC_3868.jpg)
+
 ### Sample Activities
 
 * Diversify and expand exporters’ network of international buyers—supporting exporters in trade event participation, engagement of sales agents in export markets, participation in site visits to importers, development of effective presence on e-commerce platforms, and the hosting of importer site visits to Afghanistan. 
