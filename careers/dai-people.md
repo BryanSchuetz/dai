@@ -39,9 +39,11 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Jeremy Kanthor </h2>
-                            <h3 class="item--title"> Managing Director </h3>
+                            <h3 class="item--title"> Vice President, Development Innovations </h3>
                             <div class="line"></div>
-                            <p> Since joining DAI in 2002, Jeremy <br class="visible-lg">has worked on the design and implementation of numerous governance projects, from local government improvements in <br class="visible-lg">Romania and legislative strengthening in Armenia to ministerial reform in Palestine. Jeremy now oversees DAI’s governance portfolio, including initiatives focused on citizen <br class="visible-lg">security, rule of law, public financial management, and voice <br class="visible-lg">and accountability. </p>
+                            <p>
+                              Since joining DAI in 2002, Jeremy <br class="visible-lg">has worked on the design and implementation of numerous governance projects, from local government improvements in <br class="visible-lg">Romania and legislative strengthening in Armenia to ministerial reform in Palestine. Jeremy now oversees DAI’s broader technical portfolio.<br class="visible-lg">
+                            </p>
                         </div>
                     </div>
                 </div>
