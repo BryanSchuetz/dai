@@ -15,6 +15,9 @@ regions:
 - Worldwide
 country:
 - Regional
+promos:
+- title: '"Integrating Biodiversity and Sustainable Landscapes in USAID Programming"'
+  link: https://www.climatelinks.org/sites/default/files/asset/document/2019_USAID-BRIDGE-Project_Integrating_Biodiversity_and_Sustainable_Landscapes_in_USAID_Programming.pdf
 layout: project
 ---
 
