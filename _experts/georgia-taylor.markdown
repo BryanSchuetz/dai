@@ -1,6 +1,7 @@
 ---
 title: Georgia Taylor
 date: 2017-06-02 13:11:00 Z
+published: false
 lastname: Taylor
 summary: 'Georgia Taylor has been working on gender, women’s economic empowerment,
   private sector development and sexual and reproductive health for more than 20 years. '
