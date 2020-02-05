@@ -1,7 +1,6 @@
 ---
 title: Gunning Community Service Award Helps Filipino Families Affected by Typhoons
 date: 2020-02-04 13:50:00 Z
-published: false
 summary: 'A 2019 recipient of DAI''s community service award is helping marginalized
   people in the Philippines become more self-sufficient. '
 social-image: "/uploads/teresa-bc9c5c.jpg"
