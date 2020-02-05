@@ -33,6 +33,6 @@ At present, Haiti’s digital and paper-based health reporting platforms vary gr
 
 ### Select Results
 
-* Assisted Government of Haiti to enroll and monitor [37,491 tuberculosis patients](https://www.dai.com/news/haiti-marks-world-tb-day-by-closing-in-on-30-000-patients-enrolled-and-monitored) less than one year after it launched the country's tuberculosis tracker.
+* Assisted Government of Haiti to enroll and monitor [37,491 tuberculosis patients](https://www.dai.com/news/haiti-marks-world-tb-day-by-closing-in-on-30-000-patients-enrolled-and-monitored) less than one year after it launched the country's tuberculosis tracker. As of January 2020, the number enrolled is more than 41,000.
 * Digitized previously paperbound patient details registered by healthcare providers at local facilities across Haiti.
 * Created a mobile application to facilitate increased data collection, including from rural locales.
