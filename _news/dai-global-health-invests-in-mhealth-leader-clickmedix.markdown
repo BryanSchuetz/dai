@@ -4,6 +4,7 @@ date: 2019-03-22 17:42:00 Z
 is_featured: true
 solutions:
 - Global Health
+- DAI Capital
 summary: DAI Global Health and ClickMedix today announced a partnership under which
   DAI will make a strategic investment in ClickMedix, a leading provider of mobile
   health and technology services. In turn, ClickMedix will deepen its existing relationship

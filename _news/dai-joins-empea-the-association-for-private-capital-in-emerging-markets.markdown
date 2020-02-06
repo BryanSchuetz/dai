@@ -3,6 +3,7 @@ title: DAI Joins EMPEA, the Association for Private Capital in Emerging Markets
 date: 2018-02-14 15:07:00 Z
 solutions:
 - Economic Growth
+- DAI Capital
 summary: 'DAI is pleased to announce it has joined the Emerging Markets Private Equity
   Association (EMPEA), the global industry association for private capital in emerging
   markets. '

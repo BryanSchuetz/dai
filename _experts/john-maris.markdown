@@ -6,6 +6,7 @@ summary: 'John Maris is Managing Director of DAI Capital, our investment arm. '
 job-title: Managing Director, DAI Capital
 image: "/uploads/Maris.jpg"
 solutions:
+- DAI Capital
 - Economic Growth
 ---
 
