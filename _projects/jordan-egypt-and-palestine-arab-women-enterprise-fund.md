@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: 'Funded by the U.K. Department for International Development and the Islamic
   Development Bank and working in Jordan, Egypt, and Palestine, Arab Women''s Enterprise
   Fund (AWEF) stimulates increased women''s economic empowerment and agency through
-  a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming?utm_source=daidotcom). '
+  a market systems approach. '
 start: 2015
 end: 2020
 client: U.K. Department for International Development, Islamic Development Bank
