@@ -4,7 +4,8 @@ date: 2019-01-21 18:23:00 Z
 permalink: our-work/solutions/dai-capital
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#capital-badge"></use></svg>
-summary: DAI Capital is a boutique investment house focused on frontier and emerging markets.
+summary: DAI Capital is a boutique investment house focused on frontier and emerging
+  markets.
 type: primary
 promos:
 - title: "**News:** DAI Invests in ThinkMD"
@@ -13,13 +14,14 @@ promos:
   link: "/news/dai-global-health-invests-in-mhealth-leader-clickmedix"
 - title: "**News:** DAI Invests in MobileODT"
   link: "/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech"
-- title: "**Blog:** New Research Offers Alternatives for Frontier Market Venture Capital and Private Equity"
-  link: "https://dai-global-developments.com/articles/new-research-offers-alternatives-for-frontier-markets"
+- title: "**Blog:** New Research Offers Alternatives for Frontier Market Venture Capital
+    and Private Equity"
+  link: https://dai-global-developments.com/articles/new-research-offers-alternatives-for-frontier-markets
 related: false
 hero: true
 layout: solution
---- 
- 
+---
+
 DAI Capital builds on DAI's global platform, strong local partnerships, and in-depth market knowledge to act as a conduit for commercial capital. DAI’s sterling brand and reputation enable us to serve as credible financial intermediaries in emerging and frontier markets, while our technical expertise allows us to manage risk effectively and add value to promising but constrained businesses. 
 
 Our team has deep professional experience in corporate finance, investment banking, private equity, venture capital, and venture building.
