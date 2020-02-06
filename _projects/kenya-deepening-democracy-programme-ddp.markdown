@@ -1,7 +1,7 @@
 ---
 title: Kenya—Deepening Democracy Programme (DDP)
 date: 2017-05-03 18:52:00 Z
-summary: 'The Kenya Deepening Democracy Programme addresses recurring political instability
+summary: 'The Kenya Deepening Democracy Programme addressed recurring political instability
   and non-inclusive institutions in Kenya by improving electoral processes and government
   accountability. '
 start: 2016
@@ -29,5 +29,12 @@ The Kenya Deepening Democracy Programme (DDP), funded by the U.K. Department for
 
 ### Select Results
 
-* Reached 6.5 million Kenyans through mass and sustained civic and voter education.
+* Developed and disseminated 363,500 educational products, reaching a total of 11.6 million Kenyans through mass and sustained civic and voter education and contributing to a substantial increase in voter registration from 14.35 million (2013) to 19.61 million citizens (2017), representing an increase of the total voter population by 36.6 percent. 
+* Increased the use by civil society groups of social accountability tools and collective action as the basis of more effective citizen-led advocacy.
+* Facilitated 144 instances of state responsiveness to citizen engagement and/or institutional strengthening, leading to improvements in service delivery across water, health care, agriculture, education, and infrastructure.  
+* Supported the timely settlement of all 288 appeals related to 2017 election petitions, significantly improving the handling and resolution of electoral disputes in the context of the 2017 elections.
+* Enhanced political party adherence to gender requirements, leading to marked improvements in the 2017 Kenya General Elections as compared to 2013.
+* Improved the enabling environment for women and people with disabilities to participate in the 2017 elections, with 17 documented improvements. 
+* Increased the integration of climate change in county planning and policy documents in 13 out of 18 (72 percent) counties targeted by DDP, signifying improved counties’ climate change integration scores by more than 5 percent.
 * Trained 235 people, including 19 local leaders, in three counties on climate change planning and budgeting processes.
+* Facilitated and institutionalised dialogue among a range of electoral stakeholders, providing a basis for strengthening electoral institutions and processes ahead of the 2022 elections. 
