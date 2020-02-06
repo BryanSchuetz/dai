@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: 'Funded by the U.K. Department for International Development and the Islamic
   Development Bank and working in Jordan, Egypt, and Palestine, Arab Women''s Enterprise
   Fund (AWEF) stimulates increased women''s economic empowerment and agency through
-  a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming?utm_source=daidotcom). '
+  a market systems approach. '
 start: 2015
 end: 2020
 client: U.K. Department for International Development, Islamic Development Bank
@@ -27,6 +27,8 @@ Funded by the U.K. Department for International Development and the Islamic Deve
 
 AWEF is the only market systems-based development programme in the region that also puts women’s economic empowerment at the core of its objectives and impacts. DAI is joined by subcontractors Market Share Associates, a global social enterprise focused on collaborative approaches to international development, and Education for Employment, a nongovernmental organization working throughout the Middle East and North Africa.
 
+To date, AWEF has reached 423,345 poor women across Egypt, the Occupied Palestinian Territories and Jordan, facilitated the generation of £840,000 in additional income to women in Jordan, and supported 30,019 market linkages with micro enterprises in Egypt.
+
 ![][2]
 
 ### Sample Activities
@@ -38,10 +40,12 @@ AWEF is the only market systems-based development programme in the region that a
 
 ###  Select Results
 
-* Launched a Women’s Economic Empowerment Unit in Jordan.
+* Launched a female agent network for digital financial services in Egypt and Jordan, leading to more than 34,000 additional female e-wallet users. Mobile money is a critical way for women to have greater control over their finances and be able to expand their businesses.
 * Designed and developed a customised AWEF [Disadvantage Assessment Tool](http://www.seepnetwork.org/empowerment-forward-poverty-measurement--real-time-learning-from-the-arab-women---s-enterprise-fund---s-disadvantage-assessment-resources-1778.php), now in use in all three countries. 
 * Started training at least 30 women in Palestine to become paraveterinarians and work with female sheepherders in rural areas. 
 * Set up a milk supply network of 189 to 250 women with a dairy processing company; it will be scaled to 500 women in the following year. 
+* Supported 331 home-based dairy entrepreneurs in Jordan, generating higher incomes and contributing to positive perceptions of female-owned, home-based businesses.  
+* Supported, in conjunction with 14 Jordanian Municipalities, the creation of Women’s Economic Empowerment Units, creating spaces within the local administration for women to learn about business registration, small business requirements, and to create linkages with other businesses for sale of products.
 * Engaged with major Egyptian retailers to [increase the hiring](https://beamexchange.org/community/blogs/9999/1/1/fintech-for-women-egypt/) of women. 
 
 [1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming?utm_source=daidotcom

@@ -26,3 +26,11 @@ The [Nguriza Nshore](http://www.ngurizanshore.rw/) (“Lend so that I may invest
 * Improve the risk/return equation for financial institutions and investors with smart incentives and de-risking instruments that move with the market.
 * Mentor local private and public organizations within the broader investment and finance ecosystem to effect systemic change, share new approaches and global best practices, and build enduring relationships.
 * Improve the capacity of small and medium enterprises to access finance, improving their understanding of both financial products and services and how best to utilize finance to maximize profitability and create jobs over the long term.
+
+### Select Results
+
+* Established partnerships with 33 financial institutions and 117 small to medium sized enterprises.
+* Facilitated more than $1.2 million in agriculture-related financing.
+* Facilitated the creation of 1,927 jobs.
+* Leveraged more than $1.6 million in private and U.S. Government investment.
+* Assisted the Government of Rwanda in developing an Entrepreneurship Development Policy.

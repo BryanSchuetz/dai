@@ -23,6 +23,9 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 
 ### Sample Activities
 
+* Build the capacity of local water utilities to improve their management strategy, reduce non-revenue water losses, and attract new customers. 
+* Strengthen the capacity of small and medium enterprises to market sanitation products. 
+* Help the government to reopen two of the fecal sludge management facilities. 
 * Establish an Enterprise Acceleration Fund to support private-sector WASH service providers with seed funding and technical mentorship.
 * Support high-impact and financially self-sustaining water supply and sanitation infrastructure projects, including pump repair, leak reduction, and new water kiosks.
 * Strengthen the enabling environment for sustainable WASH services by working with private-sector and government partners to develop regulations in key areas, such as safe disposal of septic waste.
