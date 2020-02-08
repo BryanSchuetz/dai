@@ -20,6 +20,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Morocco
+promos:
+- title: Paving the Way for Green Energy Financing in the Mediterranean
+  link: https://dai-global-developments.com/articles/paving-the-way-for-green-energy-financing-in-the-mediterranean?utm_source=daidotcom
 layout: project
 ---
 
