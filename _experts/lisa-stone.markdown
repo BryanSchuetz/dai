@@ -21,4 +21,4 @@ As the medical director and statewide hospital preparedness director for public 
 Her international work has focused on emergency preparedness and response, epidemic outbreak response, and the [One Health approach](https://www.who.int/features/qa/one-health/en/) to [preparedness and response](https://www.dai.com/our-work/projects/worldwide-preparedness-and-response-pr) in resource-poor environments. She has developed curricula and toolkits, and conducted numerous workshops to promote One Health country preparedness and response for outbreaks, including avian influenza, ebola, and outbreaks of unknown etiology. Her work has supported the development of multisectoral, operational, national, and sub-national preparedness and response plans in developing countries. 
 
 * M.D., George Washington University
-* Master’s, public health, Harvard University
+* MPH, Harvard University
