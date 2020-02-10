@@ -13,15 +13,16 @@ regions: Eastern Europe and Central Asia
 country: Afghanistan
 ---
 
-The low productivity of Afghan businesses is one of the biggest constraints to the country’s economic growth and sustainability. Many Afghan firms lack the competitive strength to maintain commercial viability in a distortion-free market, let alone to capture opportunities in export markets. The flagship economic growth project in USAID/Afghanistan’s portfolio, the Afghanistan Competitiveness of Export-Oriented Businesses Activity (ACEBA) project works to increase the competitiveness of export-oriented businesses, promoting sustainable nationwide economic growth.
+Many Afghan firms lack the competitive strength to maintain commercial viability in a distortion-free market, let alone to capture opportunities in export markets. The flagship economic growth project in USAID/Afghanistan’s portfolio, the Afghanistan Competitiveness of Export-Oriented Businesses Activity (ACEBA) project works to increase the competitiveness of export-oriented businesses, through a combination of key value chain support activities and export acceleration facilities designed to promote sustainable nationwide economic growth.
  
-DAI’s market-oriented approach helps Afghan businesses increase the sales-worthiness of their products in international markets. We work with businesses from the inside to help fix their production processes, increase their productivity, and export products that meet international demand at competitive prices. The targeted product value chains are: marble and granite, precious stones, jewelry, carpets, cashmere, and saffron. ACEBA will operate through “regional export accelerators” in the country’s five main urban economic centers.
+DAI’s market-oriented approach helps Afghan businesses increase the sales-worthiness of their products in international markets. We work with businesses from the inside to help fix their production processes, increase their productivity, and export products that meet international demand at competitive prices. The targeted product value chains are: marble and granite, gemstones and jewelry, carpets, cashmere, and saffron. ACEBA operates through “regional export accelerators” in the country’s main urban economic centers.
 
-![AVC_3868.jpg](/uploads/AVC_3868.jpg)
+![Marble Photo (8).JPG](/uploads/Marble%20Photo%20(8).JPG)
 
 ### Sample Activities
 
-* Diversify and expand exporters’ network of international buyers—supporting exporters in trade event participation, engagement of sales agents in export markets, participation in site visits to importers, development of effective presence on e-commerce platforms, and the hosting of importer site visits to Afghanistan. 
-* Utilize collaborating, learning, and adapting (CLA) methods to manage and optimize performance. 
-* Set up a Product Development and Marketing Service to train in-country business development services providers. 
-* Improve exporter access to credit from local and/or international financial institutions. 
+* Provide support to the implementation of key value chain interventions that will improve inputs, quality, and product development by exporters. 
+* Diversify and expand exporters’ network of international buyers—supporting exporters in engagement of sales agents in export markets, hosting buyer-agent site visits to Afghanistan, participation in business visits to importers and industry trade events abroad, and the development of effective presence on e-commerce platforms.
+* Improve exporter access to credit and investment from local and/or international financial institutions and investors.
+* Implement tailored firm-level export strategies.
+* Identify and mitigate major constraints within targeted exporters’ supply chains.
