@@ -26,3 +26,24 @@ To support these democratic reforms, The State Building Contract 1 Complementary
 * Support the Public Procurement Authority to develop a consumer price database of frequently purchased goods and services for use by procurement officers.
 * Strengthen the capacity of the Bureau of Statistics to develop and disseminate quality statistical information required to formulate and monitor policies.
 * Conduct public-private dialogues on key issues related to business environment reform under the banner of the Ministry of Trade, Industry, Regional Integration, and Employment.
+
+### Select Results
+
+**Public Finance Management**
+* Supported The Gambia Public Procurement Authority (GPPA)’s campaign against corruption.
+* Supported the drafting of an internal audit manual being used by all ministries and government agencies, including GPPA.
+
+**Security Sector Reform** 
+* Provided advice leading to a Police Reform Bill submitted to the Parliament.
+* Drafted comprehensive security sector reform plan known as ‘Project Trust’ focusing on security vetting and counter terrorism.
+* Facilitated workshop on “Excellence in Security Intelligence” for directors and senior managers of the Gambian intelligence.
+
+**Reliable Statistics Systems**
+* Supported The Gambia Bureau of Statistics through coaching and advice.
+* Reviewed the Draft Statistics Act to ensure a strong and reliable statistics system.
+* Organised a series of workshops for the Gambia Data Quality Assessment Framework.
+
+**Business Environment & Private Sector Development**
+* Drafted recommendations on ‘Ease of Doing Business’ endorsed at Ministry level.
+* Provided policy advice to the National Business Council.
+* Advised on the setup of a national Women Entreprise Fund and supported the establishment of The Gambia Women Chamber of Commerce.
