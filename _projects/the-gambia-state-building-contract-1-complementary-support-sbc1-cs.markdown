@@ -35,7 +35,7 @@ To support these democratic reforms, The State Building Contract 1 Complementary
 
 **Security Sector Reform** 
 * Provided advice leading to a Police Reform Bill submitted to the Parliament.
-* Drafted comprehensive security sector reform plan known as ‘Project Trust’ focusing on security vetting and counter terrorism.
+* Drafted comprehensive security sector reform plan known as ‘Project Trust’ focusing on [security vetting](https://www.facebook.com/DAIGlobal/posts/10157542002145797) and counterterrorism.
 * Facilitated workshop on “Excellence in Security Intelligence” for directors and senior managers of the Gambian intelligence.
 
 **Reliable Statistics Systems**
