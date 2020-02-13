@@ -17,7 +17,7 @@ The Expanding Social Protection Programme Phase II (ESP II) delivers uncondition
  
 Under ESP II, DAI manages a Fund Management Team, hosted by the ESP Programme Management Unit of the Ministry of Gender Labour and Social Development. DAI manages donor partner funds and provides technical and capacity development assistance to Government of Uganda to enable effective implementation of the programme nationally. DAI is also tasked with catalysing formation of a coherent and comprehensive social protection system in Uganda beyond the grant programme.
 
-![Uganda-c98946.jpg](/uploads/Uganda-c98946.jpg)
+![ESPII.jpg](/uploads/ESPII.jpg)
  
 ### Sample Activities
 
