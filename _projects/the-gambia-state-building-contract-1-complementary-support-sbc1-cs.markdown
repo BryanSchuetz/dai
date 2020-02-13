@@ -12,6 +12,9 @@ solutions:
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: The Gambia
+promos:
+- title: 'Restoring Trust: Toward a People-Centric Security Sector in The Gambia'
+  link: https://dai-global-developments.com/articles/restoring-trust-toward-a-people-centric-security-sector-in-the-gambia
 ---
 
 Following the turmoil of a contested presidential election in 2016, The Gambia faced an uncertain future. While the population had high expectations for the political transition, an economic crisis along with the state's inability to provide basic public services threatened the country’s stability. Fortunately, peaceful parliamentary elections in 2017 paved the way for policymakers to restore fiscal sustainability and lay the groundwork for the country’s economic recovery.
