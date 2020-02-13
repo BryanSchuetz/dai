@@ -21,7 +21,7 @@ Following the turmoil of a contested presidential election in 2016, The Gambia f
  
 The State Building Contract 1 Complementary Support (SBC1 CS) programme, funded by the European Commission and managed by DAI, aims at fostering inclusive growth and improving political and economic governance by focusing on four key areas: Public Finance Management and Procurement, Security Sector Reform, Reliable Statistics Systems, Business Environment and Private Sector Development. Our technical assistance is facilitating policy dialogue within and across institutions, and is proactively engaged in capacity building and institutional strengthening with the overarching goal of promoting human rights, the rule of law, informed democratic processes, effective and accountable public structures, an inclusive economy. 
 
-![Gambia SBC Photo.jpg](/uploads/Gambia%20SBC%20Photo.jpg)
+![gambia.jpg](/uploads/gambia.jpg)`Workshop with police force in The Gambia. Photo courtesy: Zikodev Multimedia.`
 
 ### Sample Activities
 
