@@ -26,7 +26,7 @@ The State Building Contract 1 Complementary Support (SBC1 CS) programme, funded 
 ### Sample Activities
 
 * Provide coaching to the Office of the President to lead security sector reform.
-* Support the Public Procurement Authority to develop a consumer price database of frequently purchased goods and services for use by procurement officers.
+* Offer technical advice on the Draft Procurement Act to be submitted to the Ministry of Finance and the Parliament, with previous study trips to Senegal, Nigeria, Kenya, and Ghana to benchmark public procurement frameworks and learn from reform processes undertaken abroad.
 * Strengthen the capacity of the Bureau of Statistics to develop and disseminate quality statistical information required to formulate and monitor policies.
 * Conduct public-private dialogues on key issues related to business environment reform under the banner of the Ministry of Trade, Industry, Regional Integration, and Employment.
 
