@@ -46,4 +46,4 @@ To support these democratic reforms, The State Building Contract 1 Complementary
 **Business Environment & Private Sector Development**
 * Drafted recommendations on ‘Ease of Doing Business’ endorsed at Ministry level.
 * Provided policy advice to the National Business Council.
-* Advised on the setup of a national Women Entreprise Fund and supported the establishment of The Gambia Women Chamber of Commerce.
+* Advised on the setup of a national [Women's Entreprise Fund](https://www.facebook.com/DAIGlobal/photos/a.10150997581205797/10157308667625797/?type=3&theater) and supported the establishment of The Gambia Women Chamber of Commerce.
