@@ -17,9 +17,9 @@ promos:
   link: https://dai-global-developments.com/articles/restoring-trust-toward-a-people-centric-security-sector-in-the-gambia
 ---
 
-Following the turmoil of a contested presidential election in 2016, The Gambia faced an uncertain future. While the population had high expectations for the political transition, an economic crisis along with the state's inability to provide basic public services threatened the country’s stability. Fortunately, peaceful parliamentary elections in 2017 paved the way for policymakers to restore fiscal sustainability and lay the groundwork for the country’s economic recovery.
-
-To support these democratic reforms, The State Building Contract 1 Complementary Support (SBC1 CS) programme, funded by the European Commission, fosters inclusive growth and improves political and economic governance in The Gambia. DAI provides expert coaches to train government staff on leading reforms within key institutions. The SBC1 CS technical assistance focuses on human rights, rule of law, and security sector reform; public financial management and procurement; statistical data collection and management; and business environment reform.
+Following the turmoil of a contested presidential election in 2016, The Gambia faced an uncertain future. While the population had high expectations for the political transition, a fragile economy along with the state’s poor record in providing basic public services threatened the country’s stability. Peaceful parliamentary elections in 2017 paved the way for policymakers to restore fiscal sustainability and lay the groundwork for the country’s economic recovery. The European Union has supported the democratic transition from the outset with an ambitious budget support programme that includes complementary support measures implemented by a technical assistance team. 
+ 
+The State Building Contract 1 Complementary Support (SBC1 CS) programme, funded by the European Commission and managed by DAI, aims at fostering inclusive growth and improving political and economic governance by focusing on four key areas: Public Finance Management and Procurement, Security Sector Reform, Reliable Statistics Systems, Business Environment and Private Sector Development. Our technical assistance is facilitating policy dialogue within and across institutions, and is proactively engaged in capacity building and institutional strengthening with the overarching goal of promoting human rights, the rule of law, informed democratic processes, effective and accountable public structures, an inclusive economy. 
 
 ![Gambia SBC Photo.jpg](/uploads/Gambia%20SBC%20Photo.jpg)
 
@@ -38,7 +38,7 @@ To support these democratic reforms, The State Building Contract 1 Complementary
 
 **Security Sector Reform** 
 * Provided advice leading to a Police Reform Bill submitted to the Parliament.
-* Drafted comprehensive security sector reform plan known as ‘Project Trust’ focusing on [security vetting](https://www.facebook.com/DAIGlobal/posts/10157542002145797) and counterterrorism.
+* Drafted comprehensive [security sector reform plan](https://dai-global-developments.com/articles/restoring-trust-toward-a-people-centric-security-sector-in-the-gambia) known as ‘Project Trust’ focusing on [security vetting](https://www.facebook.com/DAIGlobal/posts/10157542002145797) and counterterrorism.
 * Facilitated a [workshop](https://www.facebook.com/DAIGlobal/photos/a.10150997581205797/10157428032080797/?type=1&theater) on “Excellence in Security Intelligence” for directors and senior managers of the Gambian intelligence.
 
 **Reliable Statistics Systems**
