@@ -15,6 +15,10 @@ layout: node
 * Strengthening Tenure and Resource Rights II (STARR II) (2018–2025)
 * REPLACE: Restoring the Environment through Prosperity, Livelihoods and Conserving Ecosystems (2013-2020)
 
+### Economic Growth
+
+* Regional Integration and Stronger Economies (RISE) (2020-2027)
+
 ### Governance
 
 * Programming Effectively Against Conflict and Extremism (PEACE) (2013-2020)
