@@ -22,7 +22,7 @@ The United Kingdom is supporting this ongoing reform process; the U.K. Foreign a
 
 In partnership with the TTAH Regional Council and working closely with the regional development agency AREP, other regional stakeholders, and civil society actors, TASHAROC works to build the capability, accountability, and responsiveness of the council and development agency. The TASHAROC team has additionally provided support to the region’s legally mandated Consultative Bodies and a range of civil society organisations. Much of this work is done through support to the design, implementation, monitoring, and evaluation of regional development projects as defined by TTAH’s Plan de Développement Regional. 
 
-TASHAROC works to support inclusive development and reduce political and economic disenfranchisement in the Northern Moroccan region. 
+TASHAROC supports inclusive development and reduces political and economic disenfranchisement in the Northern Moroccan region. 
 
 ![Recent Photo TASHAROC.JPG](/uploads/Recent%20Photo%20TASHAROC.JPG)`The project team provided training for the Regional Council on social inclusion to inform a regional strategy for the Tangier-Tetouan-Al Houceima area to be more inclusive of marginalised groups.`
 
