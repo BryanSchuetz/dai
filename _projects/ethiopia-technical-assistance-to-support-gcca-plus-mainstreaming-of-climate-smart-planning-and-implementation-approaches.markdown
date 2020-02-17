@@ -2,11 +2,10 @@
 title: Ethiopia—Technical Assistance to Support GCCA+/Mainstreaming Climate-Smart
   Approaches into the Productive Safety Net Programme (Climate-Smart PSNP)
 date: 2019-01-17 13:10:00 Z
-summary: Our project, “Technical Assistance to support GCCA+ Mainstreaming of Climate-Smart
+summary: The Technical Assistance to support GCCA+ Mainstreaming of Climate-Smart
   Planning and Implementation Approaches into the Productive Safety Net Program IV
-  (PSNP4) in Ethiopia,” works to enhance the capacities of the Public Works Coordination
-  Unit (PWCU) and of the Food Security Coordination Directorate (FSCD) in activities
-  planning and design.
+  (PSNP4) in Ethiopia team is enhancing the capacity of the Public Works Coordination
+  Unit and of the Food Security Coordination Directorate.
 start: 2018
 end: 2022
 client: European Commission
@@ -19,24 +18,19 @@ country: Ethiopia
 
 The Government of Ethiopia has placed addressing the challenges of climate change and environmental degradation high on its development agenda, endorsing relevant policies, strategies, and guidelines with the potential to bring about integrated rural development.
 
-The project, “Technical Assistance to support GCCA\+/Mainstreaming of Climate-Smart Planning and Implementation Approaches into the Productive Safety Net Program IV (PSNP4) in Ethiopia,” works to enhance the capacities of the Public Works Coordination Unit (PWCU) and of the Food Security Coordination Directorate (FSCD) in activities planning and design.
+The Technical Assistance to support GCCA+/Mainstreaming of Climate-Smart Planning and Implementation Approaches into the Productive Safety Net Program IV (PSNP4) project in Ethiopia is enhancing the capacities of the Public Works Coordination Unit (PWCU) and of the Food Security Coordination Directorate (FSCD) in activities planning and design.
 
 The project team uses modern instruments such as GIS and remote sensing for monitoring and evaluation and is developing a national protocol of climate-smart procedures. The project is providing technical assistance to enable the Ministry of Agriculture to:
 
 * Mainstream climate-smart initiatives in the watershed and rangeland activities planning, and implement the Productive Safety Net Program IV.
-
-* Enhance institutional and technical capacity in the planning, management, and monitoring of PSNP4's public works component to improve coordination with the Sustainable Land Management Program.
-
-* Help the ministry generate evidence to promote dialogue on climate-sensitive development programming and for future climate financing.
+* Enhance institutional and technical capacity in planning, implementation, and monitoring for climate smart outcomes in PSNP4’s public works and livelihoods components.
+* Generate evidence to promote dialogue on climate-sensitive development programming and for future climate financing.
 
 ![2-0a212b.jpg](/uploads/2-0a212b.jpg)
 
 ## Sample Activities
 
-* Review climate-smart social protection programmes and local adaptation planning.
-
-* Design and roll out a national protocol of climate smart procedures, tools, and processes.
-
-* Strengthen monitoring and evaluation.
-
-* Support linkages with climate and disaster risk reporting and early warning systems.
+* Map climate hazard and vulnerability together with current use of  climate-smart practices and technologies, to use in planning.
+* Design and roll out a national roadmap for mainstreaming of climate smart procedures, tools, and processes.
+* Strengthen monitoring and evaluation of adaptation, resilience and carbon sequestration.
+* Support linkages of PSNP planning processes with climate and disaster risk reduction and early warning systems.
