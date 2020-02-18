@@ -25,3 +25,9 @@ To help address these gaps, the European Bank for Reconstruction and Development
 * Provide technical assistance to partner banks to introduce new trade finance products and services or optimise existing ones to better meet the needs of SMEs.
 * Build the capacity of SMEs and local consultants to assess businesses’ trade readiness and better understand trade financing products.
 * Facilitate policy dialogues on reforms to improve SME access to trade finance.
+
+### Select Results
+
+* Provided diagnostic services to more than 30 companies in clinics for SMEs. 
+* Trained 12 SMEs and 19 local consultants in international trade and trade finance.
+* Organised 10 awareness seminars in different regions of the country targeted at SMEs involved in international trade.
