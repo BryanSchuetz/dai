@@ -15,7 +15,7 @@ Joshua Moraczewski leads DAI Capital’s alternative asset management practice c
  
 Before joining DAI, Joshua was a Partner at Kew Capital where he structured, executed, and managed equity investments in a global, industry agnostic, private equity portfolio. Investments at Kew covered a broad range of sectors including real estate, natural resources, technology, and healthcare.   
  
-Prior to Kew Capital, Joshua was at Credit Suisse in the Fixed Income Global Structuring Group in London covering the Central and Eastern Europe and Middle East and Africa regions, where he structured debt financings across a diverse range of industries including telecom, oil and gas, natural resources, and real estate. 
+Prior to Kew Capital, Joshua was at Credit Suisse in the Fixed Income Global Structuring Group in London covering the Central and Eastern Europe and Middle East and Africa region, where he structured debt financings across a diverse range of industries including telecom, oil and gas, natural resources, and real estate. 
 
 Prior to that, Joshua was in the Investment Banking Division of Credit Suisse in New York, where he was a member of the Structured Products Group with a focus on domestic and cross-border sale-leaseback transactions in the transportation, real estate, and energy sectors, and the Energy Group, where he structured and executed U.S. and international project financings primarily in the power sector. 
  
