@@ -2,14 +2,15 @@
 title: Dezhi Yu
 date: 2020-02-19 13:32:00 Z
 lastname: Yu
-summary: Dezhi Yu previously spent more than a year on corporate development and venture
-  building work with DAI’s corporate strategy team.
+summary: Dezhi Yu joined DAI’s corporate strategy team in 2018, developing corporate
+  venturing initiatives and examining strategic merger and acquisition opportunities
+  for the firm.
 job-title: Analyst, DAI Capital
 image: "/uploads/Dezhi%20Yu.jpg"
 solutions:
 - DAI Capital
 ---
 
-Dezhi Yu previously spent more than a year on corporate development and venture building work with [DAI’s corporate strategy team](https://www.dai.com/news/dais-dezhi-yu-presents-best-practices-of-public-private-partnerships-in-land-administration). He started his career at Morgan Stanley, first on the Technology Equity Capital Markets team in the Silicon Valley and subsequently on the German Equity Capital Markets team in London.
+Dezhi Yu joined DAI’s corporate strategy team in 2018, developing corporate venturing initiatives and examining strategic merger and acquisition opportunities for the firm. He started his career at Morgan Stanley in Silicon Valley and subsequently in London, where he executed a dozen of equity capital markets transactions totaling more than $10 billion across regions and sectors. He is a Mandarin Chinese and German speaker.
 
 * B.A., international relations and economics, Colgate University
