@@ -20,5 +20,5 @@ Prior to Kew Capital, Joshua was at Credit Suisse in the Fixed Income Global Str
 Prior to that, Joshua was in the Investment Banking Division of Credit Suisse in New York, where he was a member of the Structured Products Group with a focus on domestic and cross-border sale-leaseback transactions in the transportation, real estate, and energy sectors, and the Energy Group, where he structured and executed U.S. and international project financings primarily in the power sector. 
  
 * MBA, Columbia Business School
-* M.A., international public policy, Johns Hopkins University School of Advance International Studies
+* M.A., international public policy, Johns Hopkins University School of Advanced International Studies
 * B.A., economics and political-economy, Tulane University  
