@@ -7,7 +7,7 @@ summary: DAI’s Fleming Fund program in Pakistan is a collaboration with the Pa
   environment sectors.
 start: 2019
 end: 2020
-client: U.K. Department for International Development
+client: U.K. Department of Health and Social Care
 solutions:
 - Global Health
 - Health Governance
