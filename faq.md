@@ -40,10 +40,6 @@ Given the churn of projects and the mix of long- and short-term assignments, thi
 
 In terms of consultants, we tap an in-house database of more than 60,000 highly qualified individuals. Organizational partners vary from country to country, assignment to assignment, but all told we work with more than 200 institutional collaborators.
 
-##  What do the DAI colors and the DAI flag stand for?
-
-Our visual identity is built around our colors—brown, green, and blue—and the DAI logo, a flag. Brown stands for foundations and speaks to the fact that we try to strengthen the social, political, and economic roots from which stability, equity, and prosperity can grow. Green stands for results—the fruit of the work we deliver. Blue stands for aspirations, both our goals as a company and the vision our clients and beneficiaries hold for their own future. We chose the flag because we wanted an emblem we could put on any DAI deliverable anywhere in the world that would say we stand by this and take ownership of it.
-
 ##  Does DAI offer funding for development programs?
 
 As a rule, no. Typically we implement programs funded by international donors, national governments, private corporations, or major philanthropies. As part of those programs, we very often are charged with overseeing and disbursing program funds in support of civil society organizations, local institutions, or programs with development-oriented goals, but those disbursements are invariably on a local, program-by-program basis. That said, we do sponsor a [service award][3] for DAI employees who volunteer in their communities.
