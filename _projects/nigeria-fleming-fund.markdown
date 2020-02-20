@@ -7,7 +7,7 @@ summary: 'DAI’s Fleming Fund programme in Nigeria is a collaboration with the 
   across human health, animal health, and environment sectors. '
 start: 2019
 end: 2021
-client: U.K. Department for International Development
+client: U.K. Department of Health and Social Care
 solutions:
 - Health Governance
 - Global Health
