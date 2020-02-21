@@ -16,6 +16,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Kenya
+promos:
+- title: '"Clean Water = Education, Access, Opportunity"'
+  link: https://www.usglc.org/blog/clean-water-education-access-opportunity/
 layout: project
 ---
 
