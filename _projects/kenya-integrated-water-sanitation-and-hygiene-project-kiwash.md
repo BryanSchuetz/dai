@@ -23,6 +23,8 @@ By [combining nutrition programming ](https://medium.com/usaid-global-waters/tac
 
 As county governments take on responsibility for investment in and oversight of service delivery to keep their constituents healthy—and their economies thriving—there is great opportunity to expand service delivery through public-private partnerships that bring new actors into the WASH sector. [KIWASH](https://www.kiwash.org/) will partner with water and sanitation service providers to develop bankable business plans, improve operations, and facilitate access to financing. In parallel, behavior change communication activities linked to Community-Led Total Sanitation and hygiene will stimulate demand for improved household sanitation, hygiene, and nutrition. Our target counties are Busia, Kakamega, Kisumu, Kitui, Makueni, Migori, Nairobi, Nyamira, and Siaya.
 
+By the end of 2019, the program had [helped more than 800,000](https://www.usglc.org/blog/clean-water-education-access-opportunity/) Kenyans gain access to basic drinking water.
+
 <iframe src="https://player.vimeo.com/video/226759747" width="640" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
@@ -36,9 +38,8 @@ As county governments take on responsibility for investment in and oversight of 
 
 ### Select Results
 
-
-* Extended basic drinking water services to 554,000 people; another 94,000 gained access to basic sanitation services with 1,147 villages verified open-defecation free with monitoring plans in place.
-* Mobilized US$17.4 million in new sector funding to expand the services or increase the efficiency of water service providers.
+* Extended basic drinking water services to more than 800,000; another 94,000 gained access to basic sanitation services with 1,147 villages verified open-defecation free with monitoring plans in place.
+* Mobilized $17.4 million in new sector funding to expand the services or increase the efficiency of water service providers.
 * Provided training and technical assistance to 13 partner WSPs to improve their performance and ability to qualify for financing that can expand and improve water services; the focus is to achieve greater cost recovery from users, increased efficiency in service, improved governance, and access to financing.
 * Provided training to 231 WASH enterprises on water sector reforms and rights to water access, basic computer skills, business planning, and strategic marketing, accompanied by on-the-job coaching and mentoring to help enterprises improve access to WASH services for targeted communities.
 * Trained 78 public health officers to initiate Community-Led Total Sanitation programs in their respective areas.
