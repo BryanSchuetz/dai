@@ -25,6 +25,6 @@ By the end of the program, Maldives will have the fiscal space and management ca
 
 ## Sample Activities
 
-* Strengthen local systems by empowering local champions and cultivating vertical, horizontal, and diagonal networks between the state, private sector, and civil society that mutually reinforce change.
-* Increase transparency and bottom-up accountability by incorporating public engagement, including by Atoll Councils, women’s development committees, and private contractor associations. 
 * Support the Ministry of Finance with a comprehensive roll-out of performance-based budgeting to all ministries.
+* Evaluate procurement processes for capital projects and re-engineer processes to align public contracting with current law and international open contracting standards.
+* Increase transparency and bottom-up accountability by incorporating public engagement, including by Atoll Councils, women’s development committees, and private contractor associations. 
