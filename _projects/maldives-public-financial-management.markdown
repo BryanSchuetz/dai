@@ -19,5 +19,9 @@ country: Maldives
 The Public Financial Management activity assists the Government of Maldives to prioritize infrastructure projects with the highest returns to the economy, enhance domestic resource mobilization, and realize “win-win” public-private partnerships in infrastructure to reduce dependence on high-risk debt financing.
  
 The project supports ministries to adopt performance-based budgeting, engage the private sector and civil society to promote transparency and accountability in public contracting, and integrate gender into public finance reform. 
+
+## Sample Activities
+
+* Strengthen local systems by empowering local champions and cultivating vertical, horizontal, and diagonal networks between the state, private sector, and civil society that mutually reinforce change.
+* Increase transparency and bottom-up accountability by incorporating public engagement, including by Atoll Councils, women’s development committees, and private contractor associations. 
  
-Our team in Maldives includes FJS Consulting, a local audit and advisory firm; Transparency Maldives, a leading civil society organization; and Policy Management Consulting Group, a U.S. small business.
