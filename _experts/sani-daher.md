@@ -7,10 +7,10 @@ summary: Sani Daher, Chief Operating Officer for the USG programs, overseas all 
 job-title: 'Chief Operating Officer, USG programs '
 image: https://assetify-dai.com/experts/Daher_Inner.jpg
 regions:
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
-- Middle East and North Africa
-- Sub-Saharan Africa
+- Worldwide
+- 
+- 
+- 
 layout: expert
 ---
 
