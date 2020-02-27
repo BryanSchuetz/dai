@@ -16,7 +16,7 @@ solutions:
 regions:
 - Eastern Europe and Central Asia
 country:
-- Regional
+- Afghanistan
 layout: project
 ---
 
@@ -24,7 +24,9 @@ With plans for key infrastructure investments such as electrification and region
 
 The Regional Agricultural Development Program-East (RADP-East), funded by the U.S. Agency for International Development, addresses these issues by using a value chain facilitation strategy to improve crop yields and find new outlets for rural Afghan farmers to sell their harvests, thereby increasing the food and economic security of the region.
 
-DAI takes a flexible and gender-sensitive approach in implementing the program, emphasizing collaboration with local Afghan partners in analyzing existing value chains and training farmers, agribusinesses, and financial partners on methods to increase production and revenue.
+DAI takes a flexible and [gender-sensitive approach](https://www.facebook.com/USAIDAfghanistan/photos/a.116712911689783/3202176806476696/?type=3&theater) in implementing the program, emphasizing collaboration with local Afghan partners in analyzing existing value chains and training farmers, agribusinesses, and financial partners on methods to increase production and revenue.
+
+So far, more than 13,300 households have benefited from agriculture and alternative development interventions; more than 6,500 individuals have been trained on food security or agriculture sector productivity; and more than 6,800 farmers have applied new technologies or management practices.
 
 ![Regional Agricultural Development Program (RADP-East)](https://assetify-dai.com/projects/RADP-East.jpg)
 
@@ -38,9 +40,10 @@ DAI takes a flexible and gender-sensitive approach in implementing the program, 
 
 ### Select Results
 
-* Engaged 72 people in an agricultural internship program to date and will add 32 more in 2020.
 * Co-financed grants to improve business processes at selected firms, awards for which have amounted to $3.7 million since the beginning of the project in 2016. By the end of 2019, those firms that received co-financing grants were producing a total of $33.4 million in sales. 
+* Created more than 1,600 full-time jobs.
 * Referred 58 agribusinesses to various lending institutions for credit. Thus far, five loans have been successfully disbursed to the referred agribusinesses, for a total value of more than $250,000—enabling the companies to expand operations, upgrade facilities and equipment, and expand their market.
 * Facilitated 20 business-to-business matchmaking meetings, recording $241,200 worth of potential deals for supported entrepreneurs who also earned $3,000 from on-the-spot sales of their agricultural products at an October 2019 tradeshow. 
 * Conceptualized an awareness program focusing on how to recognize hemorrhagic fever, what to do during livestock farming and slaughtering to reduce the risk of human infection, and how to limit the viral spread and impact on the people dealing with livestock. By mid-October 2019, awareness training was delivered to 800 dairy farmers and butchers, of whom 160 were women. 
 * Supported the 2018 production, via a grant to the Afghanistan Institute of Banking and Finance (AIBF), for Borrower's Guide to provide potential borrowers information on financial products and services available in financial institutions in Afghanistan. The Guide has been a popular success; AIBF has attracted sufficient funding from financial institutions to publish a third edition in 2020 without external funding.
+* Exported about $2.1 million of processed and fresh apricots.
