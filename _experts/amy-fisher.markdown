@@ -1,7 +1,6 @@
 ---
 title: Amy Fisher
 date: 2020-02-28 17:37:00 Z
-published: false
 lastname: Fisher
 summary: As Lead Operations Analyst for DAI’s Sustainable Business Group (SBG), Amy
   supports the financial and operational structures of SBG’s business unit, in addition
