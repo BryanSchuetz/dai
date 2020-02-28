@@ -34,9 +34,12 @@ The project supports activities in 120 of the Government of Indonesia’s priori
 * Strengthen referral systems in priority districts through development of interoperable ICT platform.
 * Facilitate, learn from, and scale local solutions focused on improving access to emergency transportation from community clinic to referral facility.
 
-### Select Results (Year One)
+### Select Results
 
-* Gathered and synthesized local data on maternal and newborn mortality.
-* Disseminated evidence synthesis to major stakeholders—notably the Indonesian government’s transfer of evidence across local, provincial, and national health practitioners and officials.
-* Established the Multi-Stakeholder Advisory Body and Provincial Steering Committees to provide advice, support, and guidance to the project’s implementation. 
-* Engaged stakeholders in the co-creation process to define problems and develop solutions that have the potential to be scaled and sustained in six provinces and at the national level.
+* Supported development of the Maternal and Perinatal Death Notification (MPDN) application to improve real-time reporting, notification, and verification of maternal and newborn deaths.
+* Developed a web-based Minimum Service Standards budgeting tool to support annual budget forecasting for maternal and newborn health services.  
+* Completed the Every Mother and Newborn Counts (EMNC) study to understand the circumstances and causes of maternal and newborn deaths and strengthen the surveillance and response system.
+* Conducted a study on Mapping of Insurance Payments against Quality of Care for maternal and newborn health to analyze claim data and recommend improvements to strengthen service delivery. 
+* Collaborated with private sector partners to secure co-financing, facilitate implementation and replication of activities, and promote sustainability and local ownership.
+* Implementing more than 20 local solutions focused on: clinical competency, antenatal care provision, policy and funding advocacy, referral systems, and transportation. 
+* Strengthened sustainability and scalability of local solutions through: mobilization of local funding, issuance of government regulations, replication of successful activities, improvements to existing referral systems and health service delivery. 
