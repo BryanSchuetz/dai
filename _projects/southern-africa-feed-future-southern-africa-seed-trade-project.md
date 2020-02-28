@@ -36,8 +36,10 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 ### Select Results
 
 * Established the Southern African Development Community (SADC) Seed Committee.
-* Drafted the Protocol for the Protection of New Varieties of Plants and the SADC Seed Centre Charter approved by the SADC Ministers of Agriculture.
 * Launched the Seed Control and Certification Institute Online Seed Lab in Zambia.
-* Completed the Regional Seed Supply and Demand Study.
 * [Launched grant](https://clubofmozambique.com/news/the-u-s-government-through-the-feed-the-future-southern-africa-seed-trade-project-launches-grant-to-the-association-for-the-promotion-of-the-seed-sector-in-mozambique/) to the Association for the Promotion of the Seed Sector (APROSE), for the implementation of the Southern African Development Community (SADC) Harmonised Seed Regulatory System in Mozambique.
 * Facilitated inaugural Hybrid Maize Seed produced under the Harmonized Seed Regulatory Systems, the [first export](https://www.usaid.gov/southern-africa-regional/news/seed-zambia-fields-democratic-republic-congo) of a nongenetically modified organism hybrid maize seed easily produced in Zambia, but not in the mineral-rich the Democratic Republic of Congo. 
+* Facilitated review of the SADC Seed Centre Sustainability Business Model and its Implementation Plan along with approval of both. The plan focuses on activities with potential to trigger multiple streams of revenue for the SADC Seed Centre, laying the groundwork for self-reliance and long-term sustainability.
+* Trained more than 1,500 individuals on SADC Harmonized Seed Regulatory Systems’ seed variety release, seed certification and quality assurance, quarantine and phytosanitary measures for seed, and improved business management practices.
+* Engaged with 13 seed companies and now have 55 seed varieties registered on the SADC Variety Catalogue—Maize, Irish Potato, Sorghum, Soybean, Beans, Wheat, Ground Nuts, and Cotton—and they are all eligible for regional trade.
+* Transferred a total of six technologies to SADC Member States, including three online seed certification systems, new management practice/laboratory technology, and new seed varieties.
