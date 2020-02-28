@@ -28,9 +28,11 @@ The project supports activities in 120 of the Government of Indonesia’s priori
 
 ### Sample Activities
 
-* Map and group locally-supported solutions and screen for plausibility, scalability, and sustainability, including for delivery through both market and public systems.
-* Bring solutions under the Indonesian government’s high-level strategic framework, complementing them with national-level actions to ensure wider learning, broader ownership, national replication or adaptation where feasible for further scaling-up, and potential private sector investment.
-* Spotlight potential solutions in the Indonesian government’s strategic intervention areas, including community engagement and empowerment, increased access to antenatal care, improved facility readiness for maternal and newborn healthcare, and strengthened monitoring, evaluation, and accountability mechanisms.
+* Support development and implementation of maternal and newborn health mentoring program in hospitals in 120 districts.
+* Strengthen systems for reporting maternal and newborn deaths in all hospitals. 
+* Support access to microfinance by private midwives for continuing education and training and to purchase clinical equipment.
+* Strengthen referral systems in priority districts through development of interoperable ICT platform.
+* Facilitate, learn from, and scale local solutions focused on improving access to emergency transportation from community clinic to referral facility.
 
 ### Select Results (Year One)
 
