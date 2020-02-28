@@ -13,13 +13,16 @@ solutions:
 - Health Governance
 regions: Asia and the Pacific
 country: Indonesia
+promos:
+- title: Collaboration is Essential to Improving Maternal and Newborn Health in Indonesia
+  link: https://dai-global-developments.com/articles/lets-work-together-to-improve-maternal-and-newborn-health
 ---
 
-While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations. Among the reasons: insufficient policy and budgeting for reproductive health, an over-concentration of health workers in urban areas, and poor road access to rural health clinics.
+While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations. 
 
-The U.S. Agency for International Development (USAID)’s Jalin program assists the Indonesian government as it [promotes locally led solutions](https://dai-global-developments.com/articles/lets-work-together-to-improve-maternal-and-newborn-health) for preventing maternal and newborn deaths and extending health services. The program’s name—Jalin is Indonesian for “intertwined”—reflects its mandate to support Indonesian government solutions in partnership with local communities and government units. Jalin’s approach brings together diverse stakeholders to co-create solutions, followed by technical assistance and seed funding to scale up promising new ideas and activities.
-
-The Jalin program operates under six core principles: establish co-creation platforms; use a whole-of-market, systemic approach; support systems operating at scale; ensure sustainable results; generate and disseminate useful information and evidence; and reach the poorest and most vulnerable people.
+The U.S. Agency for International Development (USAID) Jalin project partners with the Indonesian Ministry of Health to reduce maternal and newborn deaths. USAID Jalin uses a whole-of-market approach to improve: 1) maternal and newborn health quality of care in public and private, primary and secondary facilities, and 2) the efficiency and effectiveness of the emergency referral system at community and facility levels. The project works to: sustain improvements in clinical hospital teams’ treatment of obstetric and newborn complications; focus stakeholder strategies on the main causes of maternal and newborn death; sustain improvements to quality of care provided by private midwives; and scale improved referral networks and integrated ICT platforms to support those referrals.  
+ 
+The project supports activities in 120 of the Government of Indonesia’s priority districts for maternal and newborn health nationally and has a presence in 65 of these districts, across six provinces: Banten, Central Java, East Java, North Sumatra, South Sulawesi, and West Java.
 
 ![Jalin-web-page.jpg](/uploads/Jalin-web-page.jpg)
 
