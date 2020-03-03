@@ -1,13 +1,12 @@
 ---
 title: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund (AWEF)
 date: 2016-01-21 22:40:00 Z
-summary: 'Funded by the U.K. Department for International Development and the Islamic
-  Development Bank and working in Jordan, Egypt, and Palestine, Arab Women''s Enterprise
-  Fund (AWEF) stimulates increased women''s economic empowerment and agency through
-  a market systems approach. '
+summary: 'Funded by the U.K. Department for International Development and working
+  in Jordan, Egypt, and Palestine, Arab Women''s Enterprise Fund (AWEF) stimulates
+  increased women''s economic empowerment and agency through a market systems approach. '
 start: 2015
 end: 2020
-client: U.K. Department for International Development, Islamic Development Bank
+client: U.K. Department for International Development
 solutions:
 - Economic Growth
 - Institutional and Policy Reform
@@ -23,9 +22,9 @@ country:
 layout: project
 ---
 
-Funded by the U.K. Department for International Development and the Islamic Development Bank and working in Jordan, Egypt, and Palestine, Arab Women’s Enterprise Fund (AWEF) is the first project of its kind. AWEF stimulates increased women’s economic empowerment and agency through a [market systems approach][1]. This partnership addresses gaps in women’s economic empowerment in the region, which has one of the lowest rates of female labour force participation in the world. AWEF aims to improve gender awareness and sensitivity across target companies’ human resources policies, increase employment and retention of women in the labour force, and raise awareness and uptake of standards and certification of products made by women working at home.
+Funded by the U.K. Department for International Development and working in Jordan, Egypt, and Palestine, Arab Women’s Enterprise Fund (AWEF) is the first project of its kind. AWEF stimulates increased women’s economic empowerment and agency through a [market systems approach][1]. This partnership addresses gaps in women’s economic empowerment in the region, which has one of the lowest rates of female labour force participation in the world. AWEF aims to improve gender awareness and sensitivity across target companies’ human resources policies, increase employment and retention of women in the labour force, and raise awareness and uptake of standards and certification of products made by women working at home.
 
-AWEF is the only market systems-based development programme in the region that also puts women’s economic empowerment at the core of its objectives and impacts. DAI is joined by subcontractors Market Share Associates, a global social enterprise focused on collaborative approaches to international development, and Education for Employment, a nongovernmental organization working throughout the Middle East and North Africa.
+AWEF is the only market systems-based development programme in the region that also puts women’s economic empowerment at the core of its objectives and impacts. DAI is joined by subcontractors Market Share Associates, a global social enterprise focused on collaborative approaches to international development; Education for Employment, a nongovernmental organization working throughout the Middle East and North Africa; and Positive Planet International, a nongovernmental organization working to create the conditions for resilience and professional, cultural, and social sustainable development. 
 
 To date, AWEF has reached 423,345 poor women across Egypt, the Occupied Palestinian Territories and Jordan, facilitated the generation of £840,000 in additional income to women in Jordan, and supported 30,019 market linkages with micro enterprises in Egypt.
 
