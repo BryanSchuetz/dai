@@ -1,6 +1,5 @@
 ---
-title: Mozambique—Consultancy and Technical Assistance to the MCA (Mozambique) Land
-  Component
+title: Mozambique—Consultancy and Technical Assistance to the MCA Land Component
 date: 2016-01-21 22:40:00 Z
 summary: 'Land administration in Mozambique has been seriously under-resourced, and
   needed new, modern systems in place to be able to deal with the increasing demands
