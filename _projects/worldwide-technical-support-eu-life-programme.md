@@ -1,6 +1,6 @@
 ---
 title: Worldwide—Technical Support to the EU LIFE Programme
-date: 2016-01-21 22:40:52.765000000 Z
+date: 2016-01-21 22:40:52 Z
 client: European Union
 start: 2009
 end: 2014

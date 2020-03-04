@@ -1,6 +1,6 @@
 ---
 title: Kazakhstan—Development of Standards for the Civil Service Provision (KCSP)
-date: 2016-01-21 22:40:52.765000000 Z
+date: 2016-01-21 22:40:52 Z
 client: European Union
 start: 2005
 end: 2007
