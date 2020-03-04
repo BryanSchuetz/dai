@@ -6,7 +6,7 @@ summary: DAI and lead partner Everis will provide European Union negotiators wit
   China, India, Indonesia, New Zealand, and Thailand.
 start: 2015
 end: 2019
-client: European Commission
+client: European Union
 solutions:
 - Economic Growth
 regions:

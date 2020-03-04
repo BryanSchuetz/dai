@@ -5,7 +5,7 @@ summary: DAI is helping the European Commission to increase the impact, quality,
   and sustainability of social transfer schemes that target food and nutrition security.
 start: 2015
 end: 2019
-client: European Commission
+client: European Union
 solutions:
 - Agriculture and Food Security
 - Governance

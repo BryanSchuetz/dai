@@ -8,7 +8,7 @@ summary: The Clima East programme helped integrate the countries' climate change
   approaches to climate change.
 start: 2012
 end: 2017
-client: European Commission
+client: European Union
 solutions:
 - Energy
 - Climate Change Adaptation and Mitigation

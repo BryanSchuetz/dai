@@ -8,7 +8,7 @@ summary: The Technical Assistance to support GCCA+ Mainstreaming of Climate-Smar
   Unit and of the Food Security Coordination Directorate.
 start: 2018
 end: 2022
-client: European Commission
+client: European Union
 solutions:
 - Environment
 - Climate Change Adaptation and Mitigation

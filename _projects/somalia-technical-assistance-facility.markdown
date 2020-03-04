@@ -6,7 +6,7 @@ summary: The Technical Assistance Facility supports the development and implemen
   in Somalia.
 start: 2019
 end: 2020
-client: European Commission
+client: European Union
 solutions:
 - Governance
 - Fragile States

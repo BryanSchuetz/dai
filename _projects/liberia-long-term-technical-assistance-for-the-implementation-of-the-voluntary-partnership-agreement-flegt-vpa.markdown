@@ -8,7 +8,7 @@ summary: 'This work is to increase the value of traded timber products, strength
   Partnership Agreement between Liberia and the EU. '
 start: 2019
 end: 2022
-client: European Commission
+client: European Union
 solutions:
 - Environment
 - Governance

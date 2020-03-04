@@ -5,7 +5,7 @@ summary: Through the State Building Contract 1 Complementary Support programme, 
   is promoting inclusive growth and improved governance in The Gambia.
 start: 2018
 end: 2020
-client: European Commission
+client: European Union
 solutions:
 - Governance
 - Business Environment Reform

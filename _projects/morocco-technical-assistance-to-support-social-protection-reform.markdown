@@ -8,7 +8,7 @@ summary: 'The Technical Assistance to Support Social Protection Reform programme
   and visibility activities.'
 start: 2019
 end: 2021
-client: European Commission
+client: European Union
 solutions:
 - Economic Growth
 - Health Governance

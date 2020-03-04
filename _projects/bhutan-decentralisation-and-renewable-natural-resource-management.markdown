@@ -7,7 +7,7 @@ summary: 'This work supports implementation of the European Union-bilateral deve
   and Fiscal Decentralisation. '
 start: 2019
 end: 2021
-client: European Commission
+client: European Union
 solutions:
 - Energy
 - Environment

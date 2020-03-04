@@ -2,7 +2,7 @@
 title: 'Russia—Administrative Reform: Improving Public Sector Finance, Expenditure,
   and Delivery of Services'
 date: 2016-01-21 22:40:52.765000000 Z
-client: European Commission
+client: European Union
 start: 2005
 end: 2007
 regions:

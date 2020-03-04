@@ -7,7 +7,7 @@ summary: The Assistance Technique et Appui à la Communication et Visibilité du
   Burundi.
 start: 2019
 end: 2022
-client: European Commission
+client: European Union
 solutions:
 - Governance
 regions: Sub-Saharan Africa

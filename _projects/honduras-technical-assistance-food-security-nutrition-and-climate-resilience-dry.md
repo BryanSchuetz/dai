@@ -10,7 +10,7 @@ summary: 'The work of EUROSAN is focused on the dry corridor in Honduras, home t
 '
 start: 2015
 end: 2020
-client: European Commission
+client: European Union
 solutions:
 - Agriculture and Food Security
 regions:

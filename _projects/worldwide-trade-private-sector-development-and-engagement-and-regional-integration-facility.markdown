@@ -5,7 +5,7 @@ summary: The Trade, Private Sector Development, and Engagement Facility helps sh
   and implement new policies related to Aid for Trade and regional integration programmes.
 start: 2017
 end: 2021
-client: European Commission
+client: European Union
 solutions:
 - Economic Growth
 - Business Environment Reform

@@ -7,7 +7,7 @@ summary: DAI provided technical assistance to build the institutional capacity o
   its internal administrative and management processes.
 start: 2013
 end: 2017
-client: European Commission
+client: European Union
 solutions:
 - Economic Growth
 regions:

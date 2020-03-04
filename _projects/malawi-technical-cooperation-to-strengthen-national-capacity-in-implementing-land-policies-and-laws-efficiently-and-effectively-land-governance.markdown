@@ -7,7 +7,7 @@ summary: The Malawi Land Governance programme is enhancing people’s livelihood
   reaching remote rural areas and vulnerable populations.
 start: 2016
 end: 2019
-client: European Commission
+client: European Union
 solutions:
 - Environment
 - Land Tenure and Property Rights

@@ -8,7 +8,7 @@ summary: There is a long history of engagement, and a great interest in taking f
   Maldives, Nepal, Pakistan, and Sri Lanka.
 start: 2013
 end: 2017
-client: European Commission
+client: European Union
 solutions:
 - Governance
 - Institutional and Policy Reform

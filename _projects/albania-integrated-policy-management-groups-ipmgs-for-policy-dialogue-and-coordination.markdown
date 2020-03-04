@@ -8,7 +8,7 @@ summary: DAI is providing technical assistance to the Integrated Policy Manageme
   central and sector levels.
 start: 2019
 end: 2021
-client: European Commission
+client: European Union
 solutions:
 - Governance
 regions: Eastern Europe and Central Asia

@@ -2,7 +2,7 @@
 title: Serbia—Preparation of Second Energy Efficiency Action Plan and Development
   of Energy Indicators
 date: 2016-01-21 22:40:52.765000000 Z
-client: European Commission
+client: European Union
 start: 2014
 end: 2015
 regions:
