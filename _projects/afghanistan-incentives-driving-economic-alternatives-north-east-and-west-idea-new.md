@@ -1,21 +1,24 @@
 ---
 title: Afghanistan—Incentives Driving Economic Alternatives for the North, East and
   West (IDEA-NEW)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2009
-end: 2015
-regions:
-- Eastern Europe and Central Asia
-country:
-- Afghanistan
-solutions:
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: Afghan farmers cultivate opium poppy because they need to feed their families—and
   for many poor rural Afghans, poppy growing is the only reliable source of cash,
   credit, and access to cropland. IDEA-NEW is dissuading Afghans from growing poppy
   by increasing access to licit, commercially viable, alternative sources of income.
+start: 2009
+end: 2015
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+regions:
+- Eastern Europe and Central Asia
+country:
+- Afghanistan
+promos:
+- title: '"Successful model for foreign aid is IDEA-NEW"'
+  link: https://www.inquirer.com/philly/columnists/trudy_rubin/Trudy_Rubin_Successful_model_for_foreign_aid_is_IDEA-NEW_.html
+layout: project
 ---
 
 Afghan farmers cultivate opium poppy because they need to feed their families—and for many poor rural Afghans, poppy growing is the only reliable source of cash, credit, and access to cropland. IDEA-NEW is dissuading Afghans from growing poppy by increasing access to licit, commercially viable, alternative sources of income.
