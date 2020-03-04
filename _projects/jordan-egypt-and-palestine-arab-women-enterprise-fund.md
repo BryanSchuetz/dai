@@ -26,7 +26,7 @@ Funded by the U.K. Department for International Development and working in Jorda
 
 AWEF is the only market systems-based development programme in the region that also puts women’s economic empowerment at the core of its objectives and impacts. DAI is joined by subcontractors Market Share Associates, a global social enterprise focused on collaborative approaches to international development; Education for Employment, a nongovernmental organization working throughout the Middle East and North Africa; and Positive Planet International, a nongovernmental organization working to create the conditions for resilience and professional, cultural, and social sustainable development. 
 
-To date, AWEF has reached 423,345 poor women across Egypt, the Occupied Palestinian Territories and Jordan, facilitated the generation of £840,000 in additional income to women in Jordan, and supported 30,019 market linkages with micro enterprises in Egypt.
+To date, AWEF has reached 423,345 poor women across Egypt, the Occupied Palestinian Territories and Jordan, facilitated the generation of £840,000 in additional income to women in Jordan, and supported 30,019 market linkages with micro enterprises in Egypt. For more lessons learned, see our [AWEF Learning Series](https://seepnetwork.org/AWEF-Learning-Series). 
 
 ![][2]
 
