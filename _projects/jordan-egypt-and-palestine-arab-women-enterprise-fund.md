@@ -39,7 +39,7 @@ To date, AWEF has reached 423,345 poor women across Egypt, the Occupied Palestin
 
 ###  Select Results
 
-* Launched a female agent network for digital financial services in Egypt and Jordan, leading to more than 34,000 additional female e-wallet users. Mobile money is a critical way for women to have greater control over their finances and be able to expand their businesses.
+* [Launched a female agent network](https://seepnetwork.org/Resource-Post/Dinarak-Jordan-How-Mobile-Money-Can-Empower-Female-Agents-and-Clients) for digital financial services in Egypt and Jordan, leading to more than 34,000 additional female e-wallet users. Mobile money is a critical way for women to have greater control over their finances and be able to expand their businesses.
 * Designed and developed a customised AWEF [Disadvantage Assessment Tool](https://seepnetwork.org/files/galleries/Disadvantage_Assessment_Brief_Revised_(Nov_2017).pdf), now in use in all three countries. 
 * Set up a milk supply network of 189 to 250 women with a dairy processing company; it will be scaled to 500 women in the following year. 
 * Supported 331 home-based dairy entrepreneurs in Jordan, generating higher incomes and contributing to positive perceptions of female-owned, home-based businesses.  
