@@ -16,7 +16,7 @@ country:
 - Ethiopia
 promos:
 - title: "**Fast Facts**: Ethiopia LIFT"
-  link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618.pdf"
+  link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618v2.pdf"
 - title: "**Research**: Increasing Productivity Through an Innovative, Individual-based
     Agricultural Loan"
   link: "/uploads/P3634_IMPACT_survey_FINANCE_v2.pdf"
