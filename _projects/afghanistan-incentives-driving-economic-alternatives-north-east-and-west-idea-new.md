@@ -15,9 +15,6 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
-promos:
-- title: '"Successful model for foreign aid is IDEA-NEW"'
-  link: https://www.inquirer.com/philly/columnists/trudy_rubin/Trudy_Rubin_Successful_model_for_foreign_aid_is_IDEA-NEW_.html
 layout: project
 ---
 
