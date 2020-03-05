@@ -12,3 +12,4 @@ Listed below are current solicitations. To view additional information regarding
 
 * [RFP-DAI-IGPA-20-001 Iraqi Water Resources Planning Decision Support Tool](/uploads/RFP-DAI-IGPA-BAG-20-001%20Iraqi%20Water%20Resources%20Planning%20Decision%20Support%20Tool-combined.pdf)
 * [RFP-CTJ-UZB-20-0001 Sorting and packing line equipment for sweet cherries with electronic sorter](/uploads/RFP-CTJ-UZB-20-0001_equipment_cherry.pdf)
+* [RFP-CTJ-DSH-20-0001 Supply of Heat Treatment Equipment](/uploads/RFP_Supply%20of%20Heat%20Treatment%20Equipment.pdf)
