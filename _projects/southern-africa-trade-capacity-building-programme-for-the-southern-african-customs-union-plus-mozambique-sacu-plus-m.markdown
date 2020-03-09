@@ -2,7 +2,6 @@
 title: Southern Africa—Trade Capacity Building Programme for the Southern African
   Customs Union + Mozambique (SACU+M)
 date: 2020-02-21 11:49:00 Z
-published: false
 summary: The Trade Capacity Building Programme for the Southern African Customs Union
   + Mozambique (SACU+M) provides technical assistance to support growth in trade,
   improve gender equality in the trade arena, and alleviate poverty across Botswana,
