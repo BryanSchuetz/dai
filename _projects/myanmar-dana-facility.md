@@ -1,9 +1,8 @@
 ---
 title: Myanmar—DaNa Facility
 date: 2016-01-21 22:40:00 Z
-summary: The DaNa Facility seeks to reduce poverty and increase incomes by fostering
-  a strong business environment conducive to the creation of jobs and economic opportunities
-  for SMEs and poor people.
+summary: The DaNa Facility works to reduce poverty and increase incomes by fostering
+  a strong business environment conducive to the creation of jobs and economic opportunities.
 start: 2016
 end: 2020
 client: U.K. Department for International Development
@@ -33,3 +32,8 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 * Provide rapid technical assistance in response to requests of the recently elected national government in regard to inclusive economic growth and private sector development.
 * Promote inclusive, evidence-based economic decision-making at both the national and sub-national levels.
 * Facilitate increased trade and exports, particularly in non-extractive and job-creating sectors such as textiles, bamboo, and agribusiness.
+
+### Select Results
+
+* Produced report on ‘Respectful Workplaces’ with the IFC, a culmination of a research process into people’s experiences of sexual harassment and bullying at work in Myanmar.
+
