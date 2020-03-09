@@ -39,4 +39,3 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 * Supported nearly 1,000 people with disabilities to access to employment and improved incomes.
 * Since the project began in 2017, 490 participating farmer households have seen their incomes rise by an average of 67 percent, with increased yields and higher quality of ginger
 generating profits of up £569 per acre. Women’s participation in Farmer Field Schools increased every month and currently totals 260 women, 55 percent of all trainees. 
-
