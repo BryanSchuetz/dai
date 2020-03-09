@@ -36,4 +36,7 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 ### Select Results
 
 * Produced report on ‘Respectful Workplaces’ with the IFC, a culmination of a research process into people’s experiences of sexual harassment and bullying at work in Myanmar.
+* Supported nearly 1,000 people with disabilities to access to employment and improved incomes.
+* Since the project began in 2017, 490 participating farmer households have seen their incomes rise by an average of 67 percent, with increased yields and higher quality of ginger
+generating profits of up £569 per acre. 
 
