@@ -1570,3 +1570,20 @@ iframe.last-month{
   margin-top: 3rem;
   margin-bottom: 3rem;
 } 
+.accordion{
+  .faq{
+    a{
+      cursor: pointer;
+      display: block;
+      padding: 15px;
+      text-decoration: none;
+      background-color:#455560;
+      color: white;
+    }
+    .faq-answer{
+      padding: 1rem;
+      margin: 0;
+      background-color: #e4e5e6;
+    }
+  }
+}
