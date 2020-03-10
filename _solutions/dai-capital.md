@@ -51,6 +51,9 @@ We invest directly in early-stage companies and create greenfield businesses in 
 
 DAI Capital’s existing portfolio includes several healthcare assets—[THINKMD](/news/dai-invests-in-thinkmds-clinical-assessment-technology), [ClickMedix](/news/dai-global-health-invests-in-mhealth-leader-clickmedix), and [MobileODT](/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech)—as well as greenfield startups at an earlier stage.
 
+<iframe src="https://player.vimeo.com/video/369894308" width="640" height="360" frameborder="0"
+  allow="autoplay; fullscreen" allowfullscreen></iframe>`Devex interviews John Maris in October 2019 about DAI Capital.`
+
 ## DAI Capital FAQs
 
 <div class="faq-wrap accordion">
