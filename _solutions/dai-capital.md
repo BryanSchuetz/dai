@@ -4,7 +4,8 @@ date: 2019-01-21 18:23:00 Z
 permalink: our-work/solutions/dai-capital
 icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#capital-badge"></use></svg>
-summary: Dedicated to mobilizing private capital in frontier and emerging markets, DAI Capital is the advisory and investment arm of DAI.
+summary: Dedicated to mobilizing private capital in frontier and emerging markets,
+  DAI Capital is the advisory and investment arm of DAI.
 type: primary
 promos:
 - title: "**News:** DAI Invests in ThinkMD"
