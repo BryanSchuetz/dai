@@ -15,9 +15,8 @@ solutions:
 layout: expert
 ---
 
-Jenny Baker's more than 25 years of international development experience includes long-term field assignments in Morocco, Egypt, Palestine, and South Africa. Prior to joining DAI in 2008 as Principal Development Specialist in the Governance Sector, Jenny was Senior Vice President for Europe and Eurasia at Chemonics. Her technical specialization and interests include civil society strengthening and human and institutional capacity development. Earlier in her career she worked on Capitol Hill as a legislative specialist, and later as a paralegal in an international law firm.
-
-As Senior Vice President of DAI Global Health, Jenny ensures that our global health programs are delivered on time, on budget, and with high quality. 
+As Senior Vice President of DAI Global Health, Jenny Baker ensures that global health programs are delivered on time and on budget, with a focus on technical quality. For the past two years, Jenny served as DAI’s Global Health VP for Europe, overseeing an expanding portfolio of health programs funded by the U.K. Department for International Development (DFID), the U.K. Foreign and Commonwealth Office, the European Union, and other international partners. She also served as Project Director for the DFID-funded Tackling Deadly Diseases in Africa Project, directing the technical delivery of a health security project with operations in six African countries as well as the United Kingdom.
+ 
+Jenny brings to DAI 25 years of international development experience. Prior to joining DAI in 2008, she was Director of International Health at Chemonics, helping to establish its health practice by developing and leading projects for the U.S. Agency for International Development and the Global Fund. Later, she served as Chemonics’ Senior VP for Europe and Eurasia. Her technical specialization in health has focused on governance, policy reform, and human and institutional capacity development.
 
 * B.S., international relations, Georgetown University
-* Fluent in French
