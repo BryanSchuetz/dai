@@ -11,9 +11,7 @@ layout: node
 
 ### Environment & Energy
 
-* Water and Development (WADI) (2015–2019)
 * Strengthening Tenure and Resource Rights II (STARR II) (2018–2025)
-* REPLACE: Restoring the Environment through Prosperity, Livelihoods and Conserving Ecosystems (2013-2020)
 
 ### Economic Growth
 
@@ -22,17 +20,12 @@ layout: node
 ### Governance
 
 * Programming Effectively Against Conflict and Extremism (PEACE) (2013-2020)
-* Making Cities Work (MCW) (2014–2019)
-* Rule of Law Technical Assistance Services (ROL) (2013–2019)
-* YouthPower (2015–2020)
+* Rule of Law Technical Assistance Services (ROL) (2013–2023)
 * Public Financial Management II (PFM II) (2018–2025)
-* HICD for CPCs: Human and Institutional Capacity Development Program (2013-2020)
-* LS: Legislative Strengthening (Deliberative Bodies) (2011-2020)
 
 ### Stability
 
 * Support Which Implements Fast Transitions V (SWIFT V) (2019-2024)
-* Promoting Gender Equality in National Priority Programs ([Promote](http://www.usaid.gov/afghanistan/promote)) (2014–2019)
 * Resilient Cities Asia Activity (RCA) (2017-2024)
 * Famine Early Warning Systems Network (FEWS NET 7) (2019–2024)
 
