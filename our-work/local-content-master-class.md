@@ -11,7 +11,9 @@ layout: default
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. 
 
-Upcoming Master Class: May 6–8, 2020, Houston, Texas, USA
+Upcoming Master Class: Postponed, New 2020 Date TBD, Houston, Texas, USA
+
+Contact: Tate Crowards, tate_crowards@dai.com, with any questions.
 
 [Read the brochure here.](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)
 
