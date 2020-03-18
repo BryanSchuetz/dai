@@ -11,6 +11,12 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 regions: Worldwide
+promos:
+- title: Lessons Learned from Engaging Local, Non-State Actors through Data and Inclusive
+    Dialogue for CAADP Implementation
+  link: https://www.agrilinks.org/post/lessons-learned-engaging-local-non-state-actors-through-data-and-inclusive-dialogue-caadp
+- title: 
+  link: 
 ---
 
 The Leadership, Interactions, Networks, and Knowledge (LINK) project plays an integral role in transforming agricultural policy systems worldwide, thereby improving food security outcomes in line with the [U.S. Global Food Security Strategy](https://www.usaid.gov/what-we-do/agriculture-and-food-security/us-government-global-food-security-strategy) and advancing countries on their journeys to self-reliance.
