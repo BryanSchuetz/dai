@@ -32,3 +32,10 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 * Establish an Enterprise Acceleration Fund to support private-sector WASH service providers with seed funding and technical mentorship.
 * Support high-impact and financially self-sustaining water supply and sanitation infrastructure projects, including pump repair, leak reduction, and new water kiosks.
 * Strengthen the enabling environment for sustainable WASH services by working with private-sector and government partners to develop regulations in key areas, such as safe disposal of septic waste.
+
+## Select Results
+
+* Provided 19,380 people with improved service quality from an existing basic or safely managed drinking water service.
+* Assisted 18 entrepreneurs and small enterprises.
+* Facilitated increased sales of sanitation products and services for 11 small firms.
+* Built capacity of nine water and sanitation national and sub-national institutions through training in sector planning, investment, monitoring, or regulation.
