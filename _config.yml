@@ -92,7 +92,7 @@ defaults:
     summary: 
     layout: node
     social-image: 
-    country:
+    country: 
 - scope:
     path: ''
     type: members
