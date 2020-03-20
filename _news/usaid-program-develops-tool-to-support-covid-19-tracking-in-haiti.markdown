@@ -25,6 +25,8 @@ One of those measures is actively tracking the disease, with the support of the 
 
 “The best way to prepare for the possible spread of COVID-19,” said DAI’s Atwood Raphael, HIS Program Chief of Party, “is by improving surveillance and ensuring systems can effectively monitor disease events and share information.”
 
+![DAI_HIS-CHIS Plaisance du Sud_40.jpg](/uploads/DAI_HIS-CHIS%20Plaisance%20du%20Sud_40.jpg)`A community health worker trained on data entry on SISNU. The HIS program develops modules for the system, like the COVID-19 tracker, that make it easier for community health workers to collect data.`
+
 The HIS program has developed the COVID-19 tracker as a mobile application with two modules—one to enroll and monitor confirmed cases, another for contact tracing. The tracker has also been built so its data will be shared on the HIS national dashboard, and to allow for cross-border interoperability with other countries.
 
 “It’s so important to Haiti that we have as full a picture as possible of the potential spread of the disease, including from cross-border sources,” said Raphael. “I’m very proud that we can work with the government to make this information more widely available.”
