@@ -15,6 +15,8 @@ summary: The Haiti Strategic Health Information Systems (HIS) program has develo
   confirmed cases, another for contact tracing. The tracker has also been built so
   its data will be shared on the HIS national dashboard, and to allow for cross-border
   interoperability with other countries.
+social-image: "/uploads/covid-hero-tech.jpg"
+country: Haiti
 ---
 
 Upon landing at Touusaint Louverture International Airport in Port-Au-Prince, you will be tested for COVID-19. Haiti currently has very few active cases of COVID-19—two at the time of writing, March 20—but the Ministère de la Santé Publique et de la Population (MSPP), Haiti’s Ministry of Health, is taking many such measures to prevent the spread of the virus. 
