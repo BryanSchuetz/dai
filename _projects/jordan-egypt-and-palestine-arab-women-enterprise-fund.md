@@ -19,6 +19,9 @@ country:
 - Egypt
 - Jordan
 - Palestine
+promos:
+- title: Discovering A Route to Formalize Women-Owned Businesses in Jordan
+  link: https://seepnetwork.org/Blog-Post/Discovering-A-Route-to-Formalize-Women-Owned-Businesses-in-Jordan
 layout: project
 ---
 
