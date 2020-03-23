@@ -21,6 +21,8 @@ promos:
 - title: 'Mozambique: Even a Progressive Land Law Needs Revision After a Generation
     of Experience'
   link: https://dai-global-developments.com/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience
+- title: How one geologist built a business and brought water to thousands
+  link: https://usaidpubs.exposure.co/more-water-for-everyone
 layout: project
 ---
 
