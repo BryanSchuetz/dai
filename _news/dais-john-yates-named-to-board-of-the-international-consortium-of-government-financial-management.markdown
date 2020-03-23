@@ -9,7 +9,7 @@ summary: John Yates, who leads DAI’s public financial management practice, was
   Management. Established in 1978, ICGFM promotes learning across government and multilateral
   institutions around public financial management (PFM) and domestic resource mobilization.
   DAI is a sustaining member of the ICGFM.
-  Country: Nigeria
+Country: Nigeria
 ---
 
 John Yates, who leads DAI’s public financial management [practice](https://www.dai.com/our-work/solutions/governance-solutions/public-financial-management), was named to the board of directors of the [International Consortium of Government Financial Management](http://www.icgfm.org/). Established in 1978, ICGFM promotes learning across government and multilateral institutions around public financial management (PFM) and domestic resource mobilization. DAI is a sustaining member of the ICGFM.
