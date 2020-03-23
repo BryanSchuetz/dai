@@ -13,6 +13,9 @@ solutions:
 - Data for Decisions
 regions: Latin America and the Caribbean
 country: Haiti
+promos:
+- title: USAID Program Develops Tool to Support COVID-19 Tracking in Haiti
+  link: https://www.dai.com/news/usaid-program-develops-tool-to-support-covid-19-tracking-in-haiti
 ---
 
 The Haiti Strategic Health Information System (HIS) Program team is consolidating and integrating Haiti’s disconnected health information assets to [empower](https://www.dai.com/news/dai-to-launch-usaid-health-information-system-program-in-haiti) the national *System d’Information Sanitaire Nationale Unique* (SISNU).

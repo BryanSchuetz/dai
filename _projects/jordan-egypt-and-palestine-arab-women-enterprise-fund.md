@@ -19,6 +19,9 @@ country:
 - Egypt
 - Jordan
 - Palestine
+promos:
+- title: Discovering A Route to Formalize Women-Owned Businesses in Jordan
+  link: https://seepnetwork.org/Blog-Post/Discovering-A-Route-to-Formalize-Women-Owned-Businesses-in-Jordan
 layout: project
 ---
 
@@ -35,7 +38,7 @@ For more lessons learned, see our [AWEF Learning Series](https://seepnetwork.org
 ### Sample Activities
 
 * Support businesses to increase the focus on women’s working conditions, including gender-sensitive recruitment, human resource management and training policies in Egypt’s food retail, citrus, and ready-made garment sectors. 
-* Assist home-based female producers in Jordan’s dairy sector to raise awareness of the value of testing and certification of products to [increase their competitiveness](http://jordantimes.com/news/local/uk-project-helps-jerash-women-sell-dairy-products-national-market) and value.
+* Assist[ home-based female producers](https://seepnetwork.org/Blog-Post/Discovering-A-Route-to-Formalize-Women-Owned-Businesses-in-Jordan) in Jordan’s dairy sector to raise awareness of the value of testing and certification of products to [increase their competitiveness](http://jordantimes.com/news/local/uk-project-helps-jerash-women-sell-dairy-products-national-market) and value.
 * Work with government standards institutes, the private sector, and women producers of food products such as maftoul, cheese, and yoghurt to streamline certification processes and services and better enable women to move up the value chain.
 * Support introduction of fee-based, [female paraveterinary services](https://dai-global-developments.com/articles/turning-social-norms-in-the-middle-east-into-job-opportunities-for-women) to make basic animal health care services more available locally, particularly to home-based production run by women.
 
