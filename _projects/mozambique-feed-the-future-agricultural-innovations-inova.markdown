@@ -48,3 +48,4 @@ In developing value chains, FTF Inova takes a portfolio approach adapted from th
 * Established 28 new or improved relationships among private firms. For example, community radio stations established new commercial relationships with private firms such as Bayer and Syngenta to replicate radio programs that were piloted with Phoenix seeds in collaboration with the project.
 * Enabled 16,867 hectares of land to be under improved technologies and management practices.
 * Assisted—through our partners—13,713 people, of whom 37 percent are women, with improved management practices and technologies on their farms.
+* Published a 2019 ["Stocktaking Report"](/uploads/FTF%20Inova%20Stock-Taking%20Report%20Part%20I_Marshall%20Bear_Final.pdf) with case studies on the market systems approach.
