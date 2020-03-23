@@ -14,6 +14,7 @@ summary: Our own [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fati
   has been named a finalist in the “Challenging Norms, Powering Economies” Challenge,
   an initiative of Ashoka, Open Society Foundation, and UN Women.
 social-image: "/uploads/Fatima%20Adamu%20dai%20site-62c0f5.jpg"
+Country: Nigeria
 ---
 
 ![Fatima Adamu dai site-4a4687.jpg](/uploads/Fatima%20Adamu%20dai%20site-4a4687.jpg){:.float-left} DAI Global Health’s [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu) has been named a finalist in the “Challenging Norms, Powering Economies” Challenge, an initiative of Ashoka, Open Society Foundation, and UN Women.

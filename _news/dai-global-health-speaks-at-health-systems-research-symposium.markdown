@@ -8,6 +8,7 @@ summary: Last week, several members of the DAI Global Health team were panelists
   affiliate IntraHealth International at the 5th Global Symposium on Health Systems
   Research in Liverpool, United Kingdom.
 social-image: "/uploads/AHUQ4973%20(1).JPG"
+Country: Nigeria
 ---
 
 Last week, several members of the DAI Global Health team were panelists, hosted skills-building sessions, presented posters, and co-hosted a reception with affiliate [IntraHealth International](https://www.intrahealth.org/) at the [5th Global Symposium](http://healthsystemsresearch.org/hsr2018/) on Health Systems Research in Liverpool, United Kingdom.

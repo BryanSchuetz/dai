@@ -11,6 +11,7 @@ summary: 'DAI Global Health’s Dr. Fatima Adamu, National Programme Manager for
   Women for Health (W4H) programme in Nigeria, spoke today at the U.K. Department
   for International Development (DFID) Safeguarding Summit at the QEII Centre in London. '
 social-image: "/uploads/safeguarding-c0d328.JPG"
+Country: Nigeria
 ---
 
 DAI Global Health’s Dr. [Fatima Adamu](https://www.dai.com/who-we-are/our-team/fatima-adamu), National Programme Manager for the [Women for Health (W4H) programme](https://www.dai.com/our-work/projects/nigeria-women-for-health-w4h) in Nigeria, spoke today at the U.K. Department for International Development (DFID) [Safeguarding Summit](https://www.gov.uk/government/news/safeguarding-summit-statements-by-the-international-development-secretary-and-dfids-permanent-secretary) at the QEII Centre in London. 

@@ -10,6 +10,7 @@ summary: DAI Global Health is hosting a panel and presenting at sessions at the 
   Global Health Consortium Annual Conference in Raleigh, North Carolina, on September
   27.
 social-image: "/uploads/logo.jpg"
+Country: Nigeria
 ---
 
 DAI Global Health is hosting a plenary [panel](http://www.triangleglobalhealth.org/2018-plenary-panels) session, “Embedding social innovation: expanding and adapting community empowerment models to drive gender equality,” at the Triangle Global Health Consortium Annual Conference in Raleigh, North Carolina, on September 27.
