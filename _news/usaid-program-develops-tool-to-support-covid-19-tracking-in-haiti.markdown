@@ -19,7 +19,7 @@ social-image: "/uploads/covid-hero-tech.jpg"
 country: Haiti
 ---
 
-Upon landing at Touusaint Louverture International Airport in Port-Au-Prince, you will be tested for COVID-19. Haiti currently has very few active cases of COVID-19—two at the time of writing, March 20—but the Ministère de la Santé Publique et de la Population (MSPP), Haiti’s Ministry of Health, is taking many such measures to prevent the spread of the virus. 
+Upon landing at Toussaint Louverture International Airport in Port-Au-Prince, you will be tested for COVID-19. Haiti currently has very few active cases of COVID-19—two at the time of writing, March 20—but the Ministère de la Santé Publique et de la Population (MSPP), Haiti’s Ministry of Health, is taking many such measures to prevent the spread of the virus. 
 
 One of those measures is actively tracking the disease, with the support of the U.S. Agency for International Development-funded [Haiti Strategic Health Information Systems (HIS)](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) program. The HIS program has developed a COVID-19 tracker application for Haiti’s health information systems to enroll and monitor future COVID-19 patients throughout the country.
 
