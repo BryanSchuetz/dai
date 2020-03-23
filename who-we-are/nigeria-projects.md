@@ -17,16 +17,13 @@ layout: node
   <h1>Projects</h1>
   <hr>
   {% assign nigeria-projects = site.projects | where:'country','Nigeria' | sort:'end' | reverse%}
-  {% assign current_year = site.time | date:"%Y" | times:1 %}
   {% for project in nigeria-projects %}
-  {%- unless project.end < current_year -%}
   <div class="project-block">
       <h3>{{ project.title }}</h3>
       {% if project.summary %}<p>{{ project.summary | markdownify }}</p>{% endif %}
       <a href="{{ project.url }}" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
       <hr>
     </div>
-  {%- endunless -%}
   {% endfor %}
 </div>
 <div class="block-people">
