@@ -42,11 +42,10 @@ AVANSE worked with farmers and the private sector to address key constraints wit
 
 * Provided equipment subsidies and training on [improved plantain agricultural practices](https://www.youtube.com/watch?v=wMbhMX4hltY&t=) and technologies applied on 4,774 hectares, which helped 6,221 plantain farmers in the North of Haiti triple their yields, from baseline average of six metric tons per hectare to 18 and also considerably increased their agricultural income.
 * Facilitated a 700 percent rise in export sales of cacao. AVANSE’s efforts to intensify production and to assist growers and exporters to expand into premium markets for fermented, organic, and fair-trade cacao made a significant contribution to this positive trend.
+* Disseminated 32 different techniques across the northern corridor that were applied by 51,455 farmers on 27,930 hectares of land, leading to increased yields. 
 
 
 
-* Collaborated with local nongovernmental organization Collectifs de Lutte Contre  l’Exclusion Sociale to sign an agreement to purchase high-quality rice seeds produced by AVANSE farmers, resulting in five tons of seed sold by farmers at 68 Haitian Gourde (HTG) per kilo, compared to 35 HTG per kilo that most farmers previously earned selling rice seed on the local market.
-* Implemented improved technologies to help increase crop yields in more than 4,790 hectares of farmland in 2016, including fertilizers, plowing services, irrigation systems, and grafting and pruning tools.
 * Signed 16 grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 1,435.4 hectares of hillside land from soil erosion and prevent flooding and landslides.
 * Provided support to ongoing grant programs/public-private partnerships to improve local livelihoods; one grant for Haitian Banana Producers Union to develop a 50-hectare commercial farm for the production and export of bananas, and another with cacao processor PISA S.A. to expand cacao fermentation facilities and improve the quality and value of cacao producers’ output.
 * Supported rice producers to improve cultivation practices leading to increased average of yields from 3.5 tons per hectare to 5.8 tons per hectare.
