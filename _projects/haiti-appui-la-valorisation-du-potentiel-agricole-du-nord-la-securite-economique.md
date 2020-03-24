@@ -43,11 +43,9 @@ AVANSE worked with farmers and the private sector to address key constraints wit
 * Provided equipment subsidies and training on [improved plantain agricultural practices](https://www.youtube.com/watch?v=wMbhMX4hltY&t=) and technologies applied on 4,774 hectares, which helped 6,221 plantain farmers in the North of Haiti triple their yields, from baseline average of six metric tons per hectare to 18 and also considerably increased their agricultural income.
 * Facilitated a 700 percent rise in export sales of cacao. AVANSE’s efforts to intensify production and to assist growers and exporters to expand into premium markets for fermented, organic, and fair-trade cacao made a significant contribution to this positive trend.
 * Disseminated 32 different techniques across the northern corridor that were applied by 51,455 farmers on 27,930 hectares of land, leading to increased yields. 
-
-
-
-* Signed 16 grant agreements to support community-based organizations in promoting community-led soil conservation efforts, including construction of more than 600 miles of contour structures to protect 1,435.4 hectares of hillside land from soil erosion and prevent flooding and landslides.
-* Provided support to ongoing grant programs/public-private partnerships to improve local livelihoods; one grant for Haitian Banana Producers Union to develop a 50-hectare commercial farm for the production and export of bananas, and another with cacao processor PISA S.A. to expand cacao fermentation facilities and improve the quality and value of cacao producers’ output.
-* Supported rice producers to improve cultivation practices leading to increased average of yields from 3.5 tons per hectare to 5.8 tons per hectare.
+*  Increased annual plantain yields from a baseline value of 6 metric tons (MT) in 2013 to 18 MT in 2019. Single-crop rice yields increased from 2.5 MT in 2013 to 6 MT in 2018, and annual cacao yields increased from 319 kilograms per hectare in 2013 to 455 in 2019.
+* Distributed more than 6 million trees and crop plants, contributing not only to soil conservation and erosion prevention by stabilizing slopes above selected plains, but also contributing to household food security and increased income for farmers.
 * Established, with Auburn University, the first soil lab in the region which provides modern soil and water testing services to farmers using atomic absorption and other analytical instruments currently unavailable in the region.
+* Upgraded 22 enterprises, 13 of which are female-owned, through investment in value-added processing that transforms unprocessed commodities into market goods with higher value, boosting job creation, and generating greater revenues for local enterprises.
+* Assisted 1,207 formerly unemployed or underemployed young people and 22 female-led agribusinesses to generate income from their agriculture activities.
 * In 2016, organized [smallholder cacao farmers](https://www.youtube.com/watch?v=BLBl11fRj9o) into vendor groups to combine and manage stocks and sell directly to Haiti’s largest cacao exporter, Novella, leading to an almost 100 percent increase in the price per pound sold by farmers.
