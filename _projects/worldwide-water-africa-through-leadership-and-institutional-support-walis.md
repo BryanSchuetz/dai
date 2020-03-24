@@ -34,6 +34,6 @@ Despite significant progress made through donor and nongovernmental organization
 
 * Improving national water and sanitation data quality in four provinces of Mozambique by providing 75 tablets to the National Water and Sanitation Information System.
  * Through the [Improving WASH Evidence-Based Decision-Making Program](https://www.youtube.com/playlist?list=PL6ps-GXU9LQpxzSHNREGMfoE8WOPU4Zp6), WALIS is working across six African countries on country-led initiatives to improve knowledge management and develop National Sanitation Information Systems in the ministries.  
-* Working to [bolster gender equality](https://www.globalwaters.org/resources/blogs/women-wash-leaders-achieving-equitable-access-wash-services-ghana) and social inclusion in the WASH sector in Ghana by working with Water & Sanitation for the Urban Poor to support two utility partners in the development of gender-sensitive policies guidelines and provide gender mainstreaming training for staff. 
+* Working to [bolster gender equality](https://www.globalwaters.org/resources/blogs/women-wash-leaders-achieving-equitable-access-wash-services-ghana) and social inclusion in the WASH sector in Ghana by working with Water & Sanitation for the Urban Poor to support two utility partners in the development of gender-sensitive guidelines and provide gender mainstreaming training for staff. 
 
 <iframe src="https://player.vimeo.com/video/234027383" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
