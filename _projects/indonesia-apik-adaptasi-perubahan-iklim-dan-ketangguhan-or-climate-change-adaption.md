@@ -15,6 +15,9 @@ regions:
 - Asia and the Pacific
 country:
 - Indonesia
+promos:
+- title: Improving Community Preparedness through Flood Early Warning Systems
+  link: https://www.climatelinks.org/blog/improving-community-preparedness-through-flood-early-warning-systems
 layout: project
 ---
 
