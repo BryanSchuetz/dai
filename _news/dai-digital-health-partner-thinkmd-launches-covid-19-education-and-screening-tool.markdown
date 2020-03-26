@@ -11,6 +11,7 @@ solutions:
 summary: "[THINKMD](https://thinkmd.org/), a DAI Global Health digital partner, launched
   its free COVID-19 education and health screening tool this week through the THINKMD
   website. "
+social-image: "/uploads/thinkmd-covid.png"
 ---
 
 [THINKMD](https://thinkmd.org/), a DAI Global Health digital partner, launched its free COVID-19 education and health screening tool this week through the THINKMD website. In the coming week, THINKMD will release the tool in targeted launches with telecommunications partners in Africa and South Asia. The initial launch will be in Egypt, with multiple geographies to follow.
