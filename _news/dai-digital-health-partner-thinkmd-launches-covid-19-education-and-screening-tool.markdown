@@ -2,7 +2,6 @@
 title: DAI Digital Health Partner THINKMD Launches COVID-19 Education and Screening
   Tool
 date: 2020-03-25 16:44:00 Z
-published: false
 tags:
 - health
 - digital
