@@ -16,7 +16,9 @@ summary: "[THINKMD](https://thinkmd.org/), a DAI Global Health digital partner, 
 
 [THINKMD](https://thinkmd.org/), a DAI Global Health digital partner, launched its free COVID-19 education and health screening tool this week through the THINKMD website. In the coming week, THINKMD will release the tool in targeted launches with telecommunications partners in Africa and South Asia. The initial launch will be in Egypt, with multiple geographies to follow.
 
-“Globally, and specifically in resource-limited settings, the most pressing need is real-time epidemiologic health data to identify populations where COVID-19 is emerging and expanding,” said Dr. [Barry Finette](https://thinkmd.org/team/barry-finette/), THINKMD’s Founder and CEO. “Our tool can help capture that critical health data and inform responses to this pandemic—that’s why we’re working to distribute it as widely and as rapidly as we can.” 
+“Globally, and specifically in resource-limited settings, the most pressing need is real-time epidemiologic health data to identify populations where COVID-19 is emerging and expanding,” said Dr. [Barry Finette](https://thinkmd.org/team/barry-finette/), THINKMD’s Founder and CEO. “Our tool can help capture that critical health data and inform responses to this pandemic—that’s why we’re working to distribute it as widely and as rapidly as we can.”
+
+![thinkmd-covid.png](/uploads/thinkmd-covid.png) 
 
 Designed to generate actionable epidemiological health data in the absence of widespread testing facilities, THINKMD’s COVID-19 screening tool guides users through a self-assessment that determines if an individual has none, some, or many of the clinical symptoms and presenting features associated with COVID-19. 
 
