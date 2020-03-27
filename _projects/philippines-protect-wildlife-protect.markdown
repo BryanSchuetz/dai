@@ -37,4 +37,4 @@ Recognizing that the solutions to combating wildlife trafficking and biodiversit
 * Developed a syllabus for environmental law and protection that universities may integrate into their criminology programs.
 * Facilitated advancement of one national and three local policy initiatives related to wildlife and environmental crime prevention and trained 368 government staff in combating wildlife and environmental crime.
 * Placed 141,296 hectares of biologically significant areas under improved natural resource management.
-* Helped develop mobile app called WildAlert to identify wildlife species and report illicit activities.
+* Helped develop a [mobile app called WildAlert](https://technology.inquirer.net/97103/app-to-help-curb-wildlife-trafficking) to identify wildlife species and report illicit activities.
