@@ -25,23 +25,16 @@ Recognizing that the solutions to combating wildlife trafficking and biodiversit
 ### Sample Activities
 
 * Broker partnerships that provide financial support to local conservation efforts through direct investment in ecologically sound commercial ventures.
-
 * Support targeted behavior change campaigns to improve attitudes toward biodiversity and increase participation in conservation.
-
 * Coordinate with local and national partners to design and deliver training in community-based natural resource management and deputize a cadre of local wildlife protection officers.
-
 * Help leading Philippine universities establish centers of excellence in conservation to produce research, support evidence-based policy making, and train next generation of conservation scientists.
-
 * Develop and disseminate mobile application that enables community members to upload GPS-registered photos and anonymously report illegal activity.
 
 ### Select Results
 
 * Assisted local governments in southern Palawan and in Zamboanga City to develop and operationalize governance schemes such as ring-fencing, business planning, and re-investment planning.
-
 * Supported Western Philippines University’s field research on sea cucumber growth and survival with the release of hatchery-produced juveniles into ocean nursery systems.
-
 * Developed a syllabus for environmental law and protection that universities may integrate into their criminology programs.
-
 * Facilitated advancement of one national and three local policy initiatives related to wildlife and environmental crime prevention and trained 368 government staff in combating wildlife and environmental crime.
-
 * Placed 141,296 hectares of biologically significant areas under improved natural resource management.
+* Helped develop mobile app called WildAlert to identify wildlife species and report illicit activities.
