@@ -1,6 +1,7 @@
 ---
 title: Nick Hobgood
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Hobgood
 summary: Nick Hobgood has 30 years of experience leading complex, multisector development
   projects in humanitarian response, democratic initiatives, community-based natural
