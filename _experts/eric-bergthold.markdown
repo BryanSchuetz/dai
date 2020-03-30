@@ -2,9 +2,9 @@
 title: Eric Bergthold
 date: 2017-06-09 13:12:00 Z
 lastname: Bergthold
-summary: Eric joined DAI in 2016 as the Director of Governance for Asia. He oversees
-  a portfolio of projects in Cambodia, Indonesia, Kyrgyzstan, and Sri Lanka.
-job-title: Senior Advisor, Governance, Asia Region
+summary: Eric Bergthold is a Senior Technical Advisor on the USAID Mitra Kunci Project
+  in Indonesia.
+job-title: Senior Technical Advisor
 image: "/uploads/Eric%20Bergthold%20Portal.jpg"
 solutions:
 - Governance
@@ -21,7 +21,7 @@ Eric proceeded to teach English in a rural village in Fukushima, Japan, serve in
 
 “I’ve had incredibly diverse and rich life and work experience, but my passion is working in Asia and supporting the improvement of governance.”
 
-Eric joined DAI in 2016 as the Director of Governance for Asia. He oversees a portfolio of projects in Cambodia, Indonesia, Kyrgyzstan, and Sri Lanka.
+Eric joined DAI in 2016 as the Director of Governance for Asia. From July 2018 to April 2020, he was Chief of Party of Party of the USAID [Mitra Kunci](https://www.dai.com/our-work/projects/indonesia-mitra-kunci-initiative) project in Indonesia. Currently he is a Senior Technical Advisor for the project based in Tucson, Arizona.
  
 * M.A., applied anthropology, University of Maryland, College Park
 * B.A., international relations, University of California, Davis
