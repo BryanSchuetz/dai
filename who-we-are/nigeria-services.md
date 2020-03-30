@@ -39,6 +39,13 @@ DAI in Nigeria supports a growing portfolio of projects and clients in the count
     </div>
     <div class="image"><a href="/uploads/nigeria-startup-services.pdf"><img src="/uploads/nigeria-startup-thumb.png" alt=""></a></div>
   </div>
+  <div class="nigeria-service--block">
+    <div class="text">
+      <h3><a href="/uploads/.pdf">Startup Services</a></h3>
+      <p>The Nigeria office is a locally registered entity supporting a portfolio of more than $100 million that works to meet the critical service delivery needs of the Nigerian populace. Our work has improved domestic resource mobilization at the state and local government levels, boosted access to maternal and child health services in northern Nigeria, laid the groundwork for systemic improvements in water resource management, enhanced productivity and distribu- tion for commercial food companies, and facilitated policy reforms to promote private sector growth.</p>
+    </div>
+    <div class="image"><a href=".pdf"><img src="png" alt=""></a></div>
+  </div>
 </div>
 
 {% include help-desk.html %}
