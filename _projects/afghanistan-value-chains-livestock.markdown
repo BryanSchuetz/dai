@@ -27,3 +27,14 @@ The Afghanistan Value Chains–Livestock (AVC-Livestock) project, funded by the 
 * Increase productivity of firms through co-investments to procure veterinary services, upgrade processing capacity, and improve branding and packaging.
 * Support advocacy to government officials to reduce policy constraints to productivity and investment in the livestock sector.
 * Assist firms in accessing credit by providing advisory services and linking them to lending institutions.
+
+### Select Results
+
+* Contacted more than 250 stakeholders for information that would help to direct the assistance the project is providing to the sector
+* Completed a gender and youth analysis report that is guiding program intervention. Over 40 women attend a business-to- business women only meetings and twenty microfinance institutions conducted “Women’s Access to Finance Shura” with 34 women business owners
+* Established a Women’s Entrepreneurship Development program to increase business development services provision
+* Revised two policies (Afghanistan Slaughterhouses and Animal markets Regulation and the Private Veterinary Diagnostic Laboratories and Risk Compensation/Indemnification Regulation) to enhance private sector participation in food safety, animal health services provision.
+* Trained 14 Agribusinesses in Hazard Analysis and Critical Control Point Certification and on the International Organization for Standardization accreditation
+* Facilitated linkages between agribusinesses and Financial Institutions, resulting in the preparation of bankable proposals worth $1,874 million
+* Facilitated two Afghan agribusinesses to attend the Gulfood Expo in Dubai, resulting in over
+$950,000 potential and business-to-business deals; and nine businesses at the Kabul Agricultural Fair with over $110, 500 in sales and signed deals
