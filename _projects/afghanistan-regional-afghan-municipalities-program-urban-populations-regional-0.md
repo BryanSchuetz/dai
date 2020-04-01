@@ -1,28 +1,30 @@
 ---
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command North (RAMP UP North)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2011
-end: 2014
-regions:
-- Eastern Europe and Central Asia
-country:
-- Afghanistan
-solutions:
-- Governance
-- Fragile States
-- Peace-Building and Political Transition
-- Stabilization
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'Afghan municipalities have long suffered from underinvestment, limited support,
   low revenues, and weak institutional capacity. As a result, services and infrastructure
   in municipalities are minimal.
 
 '
+start: 2011
+end: 2014
+client: U.S. Agency for International Development
+solutions:
+- Governance
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
+regions:
+- Eastern Europe and Central Asia
+country:
+- Afghanistan
+layout: project
 ---
 
-Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Only 10 percent of urban dwellers have piped water systems; 20 percent have consistent city power, and 14 percent lack any access to electricity. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent. This project addressed these challenges and helps the Government of the Islamic Republic of Afghanistan (GIRoA) establish capable, legitimate governance at the municipal level in nine provincial capitals. Its primary customers were municipal officials (mayors, revenue officers, engineers, etc.) and the citizens who benefit from municipal services. The small-scale and sustainable service delivery improvement projects that we helped municipalities implement improved their capacity to deliver services and increasing citizen satisfaction with, trust in, and support for the municipal government.
+Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Only 10 percent of urban dwellers have piped water systems; 20 percent have consistent city power, and 14 percent lack any access to electricity. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent. 
+
+This project addressed these challenges and helped the Government of the Islamic Republic of Afghanistan (GIRoA) establish capable, legitimate governance at the municipal level in nine provincial capitals. Its primary customers were municipal officials (mayors, revenue officers, engineers, etc.) and the citizens who benefit from municipal services. The small-scale and sustainable service delivery improvement projects that we helped municipalities implement improved their capacity to deliver services and increasing citizen satisfaction with, trust in, and support for the municipal government.
 
 ![][1]
 
