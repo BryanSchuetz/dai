@@ -37,7 +37,15 @@ This project addressed these challenges and helped the Government of the Islamic
 
 ###  Select Results
 
-* Five municipalities started the business registration and licensing process that will generate additional revenues to these municipalities.
 * All nine municipalities formed Service Delivery Advisory Groups that serve as the key interface between citizens and municipal officials.
+* Implemented 18 municipal infrastructure projects in cooperation with local communities and municipal governments.
+* Created seven local mechanisms help citizens engage their sub-national government.
+* Trained 845 individuals on ways to strengthen local government and the role of decentralized government.
+* Trained 407 government officials on anticorruption efforts.
+* Conducted 113 meetings between community councils and government entities.
+* Helped 4,038 citizens in using local mechanisms to engage their sub-national governments.
+* Issued 7,280 business licenses in five municipalities, which represents a 66.6 percent increase over the previous year.
+* Increased municipal revenue by 37.6 percent over the previous year.
+* Conducted budget hearings and help prepare budgets for nine municipalities.
 
 [1]: https://assetify-dai.com/projects/RUN.jpg
