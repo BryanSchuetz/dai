@@ -1,30 +1,30 @@
 ---
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command West (RAMP UP West)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2011
-end: 2014
-regions:
-- Eastern Europe and Central Asia
-country:
-- Afghanistan
-solutions:
-- Governance
-- Fragile States
-- Peace-Building and Political Transition
-- Stabilization
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'Afghan municipalities have long suffered from underinvestment, limited support,
   low revenues, and weak institutional capacity. As a result, services and infrastructure
   in municipalities are minimal.
 
 '
+start: 2011
+end: 2014
+client: U.S. Agency for International Development
+solutions:
+- Governance
+- Fragile States
+- Peace-Building and Political Transition
+- Stabilization
+regions:
+- Eastern Europe and Central Asia
+country:
+- Afghanistan
+layout: project
 ---
 
 Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Of the total population of urban households, only 10 percent have piped water systems; only 20 percent of households have consistent city power—and 14 percent lack any access to electricity. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent.
 
-The Regional Afghan Municipalities Program for Urban Populations, Regional Command West (RAMP UP West) project helps the Government of the Islamic Republic of Afghanistan (GIRoA) establish capable, legitimate governance at the municipal level in all four provincial capitals under ISAF Regional Command West, Herat, Farah, Chagcharan, and Qala-e-Naw. Its primary customers are municipal officials—mayors, revenue officers, engineers—and the citizens that benefit from municipal services.
+The Regional Afghan Municipalities Program for Urban Populations, Regional Command West (RAMP UP West) project helped the Government of the Islamic Republic of Afghanistan (GIRoA) establish capable, legitimate governance at the municipal level in all four provincial capitals under ISAF Regional Command West, Herat, Farah, Chagcharan, and Qala-e-Naw. Its primary customers were municipal officials—mayors, revenue officers, engineers—and the citizens who benefit from municipal services.
 
 RAMP UP West takes a "learning by doing," approach by helping municipalities implement visible service delivery improvement projects. Through these projects, municipal officials will not only improve their capacity to deliver services themselves, but will increase citizen satisfaction with, trust in, and support for the municipal government. The embedded technical advisors with municipal staff provide necessary resources and build the capacity of municipal staff to better perform their core management responsibilities, such as improving service delivery, supporting economic development, ensuring sound financial management, expanding revenues, and enhancing transparency and accountability. All programming puts municipal officials in front of their citizenry, demonstrably in charge of projects and activities made possible with RAMP UP funding. Municipal officials lead, directing participatory planning processes and overseeing implementation.
 
