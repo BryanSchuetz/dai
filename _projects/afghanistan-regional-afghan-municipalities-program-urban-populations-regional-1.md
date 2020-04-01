@@ -39,11 +39,12 @@ RAMP UP West used a "learning by doing," approach by helping municipalities impl
 
 ###  Select Results
 
-* Assisted municipalities to implement 16 key infrastructure and service delivery projects previously identified by citizens as urgent needs, including construction of sidewalks, rehabilitation of roads, bridges and drainage canals, building of Boulevards, parking lots, garbage bins and public green spaces.
+* Assisted municipalities to implement 17 key infrastructure and service delivery projects previously identified by citizens as urgent needs, including construction of sidewalks, rehabilitation of roads, bridges and drainage canals, building of Boulevards, parking lots, garbage bins and public green spaces.
 * Developed Municipal Management and Capacity Building Plans for each municipality and trained so far more than 200 municipal officials in municipal finance, public administration, revenue enhancement, business registration, public relations and outreach, construction management, and public works maintenance.
 * Supported municipal officials in all four partner municipalities to hold two budget hearings each that allowed for citizen input into the budget preparation process.
 * Supported three partner municipalities to hold Youth and the Municipality Seminars bringing together 145 young people together with their government to discuss city planning and touch on key issues such as cleanliness of the city and the role youth can play in keeping the city clean.
-* Produced Service Delivery Improvement Plans that involved citizens expressing their service needs/priorities and identifying specific projects during 44 sessions at the district level (2,650 residents).  Municipalities used these plans in their budget commissions to guide preparation of their next year budgets.
+* Increased municipal revenues between 21 and 264 percent by identifying new resources and registering 6,790 properties and businesses.
+* Produced Service Delivery Improvement Plans that involved citizens expressing their service needs/priorities and identifying specific projects during 44 sessions at the district level (2,650 residents). Municipalities used these plans in their budget commissions to guide preparation of their next year budgets.
 * Established multistakeholder Economic Development Steering Committees in each partner municipality to facilitate the inclusive development of Strategic Economic Development Plans.
 
 [1]: https://assetify-dai.com/projects/RampUpWest_0.jpg
