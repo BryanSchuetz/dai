@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: The DaNa Facility works to reduce poverty and increase incomes by fostering
   a strong business environment conducive to the creation of jobs and economic opportunities.
 start: 2016
-end: 2020
+end: 2022
 client: U.K. Department for International Development
 solutions:
 - Business Environment Reform
