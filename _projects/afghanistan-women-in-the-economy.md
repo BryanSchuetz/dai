@@ -44,7 +44,7 @@ Consortium partners include RSI Consulting (monitoring and evaluation) and the T
 ### Select Results
 
 * Awarded scholarships to more than 14,733 women to train in information technology, healthcare, retail sales, customer service, and other areas. 
-* Placed 11,588 interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers/) and education—sectors critical to Afghans' well-being.
+* Placed 11,588 interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers) and education—sectors critical to Afghans' well-being.
 * Helped more than 17,880 women get new or better jobs; 44 percent of women who receive WIE assistance find employment.
 * Assisted 330 young women to enter the banking sector by providing them on-the-job training and [internships](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) in microfinance institutions and commercial banks in major regional urban centers.
 * Facilitated access to finance and new markets to more than 400 women-owned businesses and businesses employing at least 30 percent women.
