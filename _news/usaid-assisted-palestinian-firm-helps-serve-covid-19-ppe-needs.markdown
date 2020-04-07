@@ -12,6 +12,10 @@ solutions:
 regions: Middle East and North Africa
 projects: Palestine—The Compete Project
 clients: U.S. Agency for International Development
+summary: 'A Palestinian clothing maker assisted by USAID has pivoted to producing
+  critically needed face masks and other personal and protective equipment in the
+  wake of the COVID-19 pandemic. '
+social-image: "/uploads/social%20mask.jpg"
 country: Palestine
 ---
 
