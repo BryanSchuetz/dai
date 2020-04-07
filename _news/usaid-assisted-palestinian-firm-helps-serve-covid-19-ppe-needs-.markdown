@@ -19,6 +19,8 @@ A Palestinian clothing maker assisted by the U.S. Agency for International Devel
 
 [UniPal 2000](https://www.timesofisrael.com/palestinians-transform-factories-into-mask-manufacturing-plants-as-virus-spreads/)'s factory in the Beit Hanon Industrial Zone in Gaza City has set a goal of producing 25,000 masks per day. According to the [Middle East Monitor](https://www.middleeastmonitor.com/20200327-palestinians-manufacturing-masks-for-israel-instead-of-clothing-as-coronavirus-spreads/?fbclid=IwAR32G-aTRD7QHURKVtve6VKUK5xVb9KUL4I-TZW4Nohv6zJC1Vft9luVdz8), UniPal Chairman Nabil Bawwab said the company made the transition at the beginning of March and has been producing thousands of masks and protective suits daily. He said he has already signed contracts with buyers in Israel to provide 1 million masks and 50,000 protective suits by the end of April. The company is also in talks to supply local and international medical organizations in Gaza.
 
+<iframe src="https://player.vimeo.com/video/405028823" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 The firm, which employs around 250 employees in its factory and has an additional 600 employees in 20 subcontracting factories in Gaza, is producing disposable clothing for doctors and nurses and vests for emergency responders in addition to the masks.
 
 In 2018, DAI worked with UniPal as a grantee of the USAID-funded [Compete](https://www.dai.com/our-work/projects/palestine-compete-project) project. Compete worked with key Palestinian sectors to help them better compete in regional and global markets. Targeted sectors in the West Bank and Gaza included agribusiness, tourism, information and communications technology, stone and marble, fishing, and garments. 
