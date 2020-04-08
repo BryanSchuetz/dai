@@ -13,6 +13,10 @@ solutions:
 - Water and Sanitation Services and Management
 regions: Asia and the Pacific
 country: Nepal
+promos:
+- title: 'Enhancing Watershed Management: Integrated Water Resources Management in
+    Nepal'
+  link: https://medium.com/@bridgebiointegration/investing-in-prosperity-5c1e8622df4b
 ---
 
 The water that courses through Nepal’s great Karnali, Mahakali, and [Rapti river](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e?fbclid=IwAR1Sn6NagFFnLHUHi48zZFs93-zO0lzB1GbhF3zK537USnhWPFheNRgG_Ik) basins irrigates the region’s farmland and sustains the health of its people, while also providing a critical habitat for diverse freshwater species and propelling the hydroelectric dams that help to power the country. However, important water resources such as these are increasingly strained by population growth, climate change, and indiscriminate use—stressors that will become more severe if left unchecked.

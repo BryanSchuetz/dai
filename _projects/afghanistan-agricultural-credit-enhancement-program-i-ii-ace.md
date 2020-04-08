@@ -34,6 +34,13 @@ Islamic Finance and Conventional Loans are available to many Afghans who partici
 
 ###  Select Results
 
+* ACE II supported the ADF in the disbursements of more than $50 million in lending to the agricultural sector.
+* ACE II assisted 11,026 beneficiaries to gain access to agricultural lending products.
+* ACE II contributed to creation of 1,877 full-time equivalent jobs.
+* Under ACE II, the ADF portfolio, under ADF internal metrics, demonstrated 0 percent loan losses as of end of March 2019.
+* ACE II finalized the ADF Growth Plan, a strategy to ensure the expansion of the ADF’s lending portfolio to achieve sustainable growth and utilization of surplus capital, and presented it to ADF High Council.
+* ACE II began the development of a new ADF website, utilizing a modern layout to raise awareness, and demonstrate professionalism of the institution.
+* ACE II initiated exploration of a long-term lending facility through a potential partner, Afghan Growth Finance, to provide access to ADF capital for productive agricultural enterprises.
 * ACE I developed an Islamic finance toolbox to facilitate credit to farmers using culturally acceptable lending mechanisms.
 * ACE I established the Agricultural Development Fund (ADF), a nonbank stand-alone financial institution owned by the Government of the Islamic Republic of Afghanistan and governed by a Board of Directors. The ADF operates from a main office in Kabul and regional offices in Nangarhar, Balkh, Bamyan, Herat, and Kandahar, employing more than 100 young professionals.
 * ACE I processed loans worth $104 million and disbursed $60 million to financial and nonfinancial intermediaries that are directly benefiting 31,000 small commercial farmers in 33 provinces. Indirect beneficiaries exceed 150,000 rural households.
