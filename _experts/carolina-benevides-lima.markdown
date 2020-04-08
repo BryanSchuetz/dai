@@ -1,6 +1,6 @@
 ---
 title: Carolina Benevides Lima
-date: 2020-04-08 15:29:00 Z
+date: 2020-04-08 11:29:00 Z
 lastname: Benevides Lima
 summary: Carolina Benevides Lima was formerly an investment banker at Nomura in New
   York, where she covered the consumer and retail sector and later, Latin America.
