@@ -16,7 +16,6 @@ regions:
 - Sub-Saharan Africa
 country:
 - Nigeria
-promos: 
 layout: project
 ---
 
@@ -30,7 +29,6 @@ The Policy Development Facility was a flexible, rapid-response facility designed
 * Promoting evidence-based, pro-poor policy dialogue to strengthen institutional linkages between the suppliers and consumers of information.
 * Undertaking economic data collection, research, and analysis to inform the dialogue between the Government of Nigeria and other stakeholders.
 
-
 ###  Select Results (from PDF1)
 
 **Economic Growth:**
@@ -40,10 +38,8 @@ The Policy Development Facility was a flexible, rapid-response facility designed
 * Assisted in operationalising the Nigeria Sovereign Wealth Fund. 
 * Helped develop national policies for rice, cement, textiles, and trade.
 
-
 [1]: https://assetify-dai.com/projects/Nigeria-PDF-pumping-station.jpg
 
 ### Resources, Publications, and Toolkits
 
 * Policy Development Facility research—such as studies in the rice and textile sectors—is available on the [PDF II website](https://www.pdfnigeria.org/). 
-
