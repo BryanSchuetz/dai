@@ -1,8 +1,8 @@
 ---
-title: Nigeria—Policy Development Facility Bridge
+title: Nigeria—Policy Development Facility Bridge (PDF Bridge)
 date: 2020-03-04 10:26:00 Z
 published: false
-summary: The Champions of Change Programme (CofC) in Nigeria provides near-term technical
+summary: The Policy Development Facility Bridge programme  provides near-term technical
   assistance to champions of reform in Nigeria’s government—supporting accelerated
   economic reforms, a more modern and efficient public sector, and better delivery
   of policy, public goods, and services, and ultimately contributing to inclusive
