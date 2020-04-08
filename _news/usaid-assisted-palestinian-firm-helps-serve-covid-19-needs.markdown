@@ -1,5 +1,5 @@
 ---
-title: USAID-Assisted Palestinian Firm Helps Meet COVID-19 PPE Needs
+title: USAID-Assisted Palestinian Firm Pivots to Meet Critical COVID-19 Needs
 date: 2020-04-06 16:35:00 Z
 published: false
 tags:
