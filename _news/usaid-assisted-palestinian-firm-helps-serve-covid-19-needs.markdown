@@ -1,6 +1,6 @@
 ---
 title: USAID-Assisted Palestinian Firm Pivots to Meet Critical COVID-19 Needs
-date: 2020-04-06 16:35:00 Z
+date: 2020-04-08 04:35:00 Z
 published: false
 tags:
 - USAID
@@ -25,12 +25,12 @@ A Palestinian clothing maker that was assisted in 2018 by the U.S. Agency for In
 
 <iframe src="https://player.vimeo.com/video/405028823" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-The firm, which employs around 250 employees in its factory and has an additional 600 employees in 20 subcontracting factories in Gaza, is producing disposable clothing for doctors and nurses and vests for emergency responders in addition to the masks.
-
 In 2018, DAI worked with UniPal as a grantee of the USAID-funded [Compete](https://www.dai.com/our-work/projects/palestine-compete-project) project. Compete worked with key Palestinian sectors to help them better compete in regional and global markets. Targeted sectors in the West Bank and Gaza included agribusiness, tourism, information and communications technology, stone and marble, fishing, and garments. 
 
 UniPal was one of 20 garment companies from Gaza that DAI helped to recapture market share in Israel after 10 years of being out of the market, said [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Country Director in Palestine. “We provided UniPal with a grant to upgrade and maintain their old machinery, which had been idle for 10 years. We also provided them with a power generator to enable production in Gaza.
 
 “The company quickly became one of the largest exporters,” added Abu Hiljeh. “By the end of 2018, they constituted 27 percent of total exports to the Israeli market out of the 20 firms we assisted in the garment sector. They employed an additional 34 employees—and they have grown since then to the point where they are now able to adjust production to meet COVID-19 needs.”
+
+Today, UniPal employs roughly 250 people, in addition to supporting 600 employees in 20 subcontracting factories in Gaza. Specialized in women’s apparel and fashionwear, the company has shifted its production to disposable outerwear for doctors and nurses, full surgical gowns for surgical teams, vests for emergency response personnel, and medical masks.
 
 Compete [came to an end in 2019](https://dai-global-developments.com/articles/hard-fought-wins-reaffirm-the-value-of-working-with-palestines-private-sector). In its seven years of operation, the program assisted 1,797 firms in the West Bank and Gaza, increased their sales by $383 million, boosted exports by $254 million, created more than 6,900 jobs, and leveraged $105 million in private-sector investment.
