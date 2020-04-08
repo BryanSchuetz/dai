@@ -31,16 +31,15 @@ promos:
 layout: project
 ---
 
-The Policy Development Facility II is a flexible, rapid-response facility that supports “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further reduce poverty in Nigeria.
+The Policy Development Facility II was a flexible, rapid-response facility that supported “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further reduce poverty in Nigeria.
 
-![][1]
+<iframe src="https://player.vimeo.com/video/405449610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ###  Sample Activities
 
 * Supporting key economic reformers and organisations through qualified embedded advisers using sustainable knowledge management systems.
 * Promoting evidence-based, pro-poor policy dialogue to strengthen the institutional linkages between the suppliers and consumers of information.
 * Using highly innovative “anecdote circles” to engage groups in experiential sharing, conflict resolution, team building, and sustainable action for reform.
-
 
 ###  Select Results (from PDF1)
 
@@ -56,6 +55,3 @@ The Policy Development Facility II is a flexible, rapid-response facility that s
 ### Resources, Publications, and Toolkits
 
 The Policy Development Facility II’s “Stories for Change,” available on the [PDF II website](https://www.pdfnigeria.org/), show the impact of the project’s work with the Nigerian Sovereign Investment Authority, in the mining and steel sector, and on job creation and youth empowerment initiatives.
-
-
-[1]: /uploads/kiwash.jpg
