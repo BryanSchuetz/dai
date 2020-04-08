@@ -8,6 +8,7 @@ job-title: Associate, DAI Capital
 image: "/uploads/Carolina%20Benevides%20Lima%20small.jpg"
 solutions:
 - Economic Growth
+- DAI Capital
 ---
 
 Carolina Benevides Lima was formerly an investment banker at Nomura in New York, where she covered the consumer and retail sector and later, Latin America. She started her career as a credit risk analyst at Citi in Brazil, working with Latin American companies in power and telecommunications.
