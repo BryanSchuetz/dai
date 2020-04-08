@@ -12,14 +12,14 @@ solutions:
 regions: Middle East and North Africa
 projects: Palestine—The Compete Project
 clients: U.S. Agency for International Development
-summary: 'A Palestinian clothing maker assisted by USAID has pivoted to producing
-  critically needed face masks and other personal and protective equipment in the
-  wake of the COVID-19 pandemic. '
+summary: 'A Palestinian clothing maker that was assisted in 2018 by the U.S. Agency
+  for International Development (USAID) has pivoted to producing face masks and other
+  critically needed equipment in the wake of the COVID-19 pandemic. '
 social-image: "/uploads/social%20mask.jpg"
 country: Palestine
 ---
 
-A Palestinian clothing maker assisted by the U.S. Agency for International Development (USAID) has pivoted to producing critically needed face masks and other personal and protective equipment (PPE) in the wake of the COVID-19 pandemic. 
+A Palestinian clothing maker that was assisted in 2018 by the U.S. Agency for International Development (USAID) has pivoted to producing face masks and other critically needed equipment in the wake of the COVID-19 pandemic. 
 
 [UniPal 2000](https://www.timesofisrael.com/palestinians-transform-factories-into-mask-manufacturing-plants-as-virus-spreads/)'s factory in the Beit Hanon Industrial Zone in Gaza City has set a goal of producing 25,000 masks per day. According to the [Middle East Monitor](https://www.middleeastmonitor.com/20200327-palestinians-manufacturing-masks-for-israel-instead-of-clothing-as-coronavirus-spreads/?fbclid=IwAR32G-aTRD7QHURKVtve6VKUK5xVb9KUL4I-TZW4Nohv6zJC1Vft9luVdz8), UniPal Chairman Nabil Bawwab said the company made the transition at the beginning of March and has been producing thousands of masks and protective suits daily. He said he has already signed contracts with buyers in Israel to provide 1 million masks and 50,000 protective suits by the end of April. The company is also in talks to supply local and international medical organizations in Gaza.
 
