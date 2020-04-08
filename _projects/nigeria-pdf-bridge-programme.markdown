@@ -23,4 +23,5 @@ The programme identifies and works with champions of change in the Nigerian publ
 ## Sample Activities
 
 * Provide assistance toward creating a more transparent and  competitive  tax  system.
-* Produce research on policy priorities of reformers; gleaning on what works and using this information to inform reform on key policy issues. 
+* Produce research on policy priorities of reformers, using this information to inform reform on key policy issues. 
+* Identify gaps in technical expertise in the beneficiary organisations and design interventions for tackling the needs in the most efficient and cost‐effective way.
