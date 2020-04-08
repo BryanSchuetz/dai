@@ -1,7 +1,6 @@
 ---
 title: USAID-Assisted Palestinian Firm Pivots to Meet Critical COVID-19 Needs
 date: 2020-04-08 04:35:00 Z
-published: false
 tags:
 - USAID
 - COVID-19
