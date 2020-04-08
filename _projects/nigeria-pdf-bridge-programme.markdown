@@ -20,4 +20,7 @@ The Policy Development Facility Bridge programme in Nigeria provides near-term t
 
 The programme identifies and works with champions of change in the Nigerian public sector and supports them in conceptualising, designing, and driving important policy and  regulatory  reforms  necessary  for  strengthened  public  planning,  budgeting,  and  policies  for  better delivery of public goods and services to citizens.
 
-# 
+## Sample Activities
+
+* Provide assistance toward creating a more transparent and  competitive  tax  system.
+* Produce research on policy priorities of reformers; gleaning on what works and using this information to inform reform on key policy issues. 
