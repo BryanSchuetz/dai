@@ -17,3 +17,7 @@ country: Nigeria
 ---
 
 The Policy Development Facility Bridge programme in Nigeria provides near-term technical assistance to champions of reform in Nigeria’s government—supporting accelerated economic reforms, a more modern and efficient public sector, and better delivery of policy, public goods, and services, and ultimately contributing to inclusive growth and poverty reduction.
+
+The programme identifies and works with champions of change in the Nigerian public sector and supports them in conceptualising, designing, and driving important policy and  regulatory  reforms  necessary  for  strengthened  public  planning,  budgeting,  and  policies  for  better delivery of public goods and services to citizens.
+
+# 
