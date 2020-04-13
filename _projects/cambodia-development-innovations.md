@@ -15,10 +15,13 @@ regions:
 - Asia and the Pacific
 country:
 - Cambodia
+promos:
+- title: How Learning and Adapting Enabled Civil Society Innovations in Cambodia
+  link: https://usaidlearninglab.org/sites/default/files/resource/files/031820_annotated_evidence_summary_e.pdf
 layout: project
 ---
 
-Technology—when carefully adapted to the context and users it serves—has the potential to empower civil society organizations (CSOs) and citizens to tackle development challenges in innovative ways with increased reach and results. The U.S. Agency for International Development (USAID)-funded [Development Innovations](http://www.development-innovations.org/) project helped connect Cambodia’s civil society and technology communities to design and use information and communication technology (ICT) solutions, and innovative methods, to address Cambodia’s development challenges. The project toolkit included public-private sector partnerships, ICT4D advisory and match-making services, technology expositions, small grants, the 5D Lab co-working space, and the Lab@DI, a service-centered space that provides customized tech training services, and access to equipment and tech coaches. 
+Technology—when carefully adapted to the context and users it serves—has the potential to empower civil society organizations (CSOs) and citizens to tackle development challenges in innovative ways with increased reach and results. The U.S. Agency for International Development (USAID)-funded [Development Innovations](http://www.development-innovations.org/) project connected Cambodia’s civil society and technology communities to design and use information and communication technology (ICT) solutions, and innovative methods, to address Cambodia’s development challenges. The project toolkit included public-private sector partnerships, ICT4D advisory and match-making services, technology expositions, small grants, the 5D Lab co-working space, and the Lab@DI, a service-centered space that provides customized tech training services, and access to equipment and tech coaches. 
 
 This program enabled Cambodian-led technology products to be designed and built to meet civil society and user demands and trigger changes in the ways civil society conducts programs and design solutions. DI was dedicated to services tailored to the needs of civil society actors, and helped improve access to and use of tools [such as mobile technologies](https://www.forbes.com/sites/joshuawilwohl/2016/02/14/new-app-to-help-cambodians-track-complaints-made-with-local-govt/#32e8d1ee156f), the Internet, and social media. Ultimately, DI delivered 91 technology solutions that reached 1.6 million Cambodians. Watch the video to learn more about the project's impact over six years:
 
