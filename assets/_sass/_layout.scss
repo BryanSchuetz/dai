@@ -1598,17 +1598,38 @@ iframe.last-month{
 
 .covid-carousel{
   margin-top: 2rem;
-  .carousel-cell{
+  .flickity-prev-next-button.previous{
+    left: 0px;
+  }
+  .flickity-prev-next-button.next{
+    right: 14px;
+  }
+  .carousel-cell{ 
+    a{
+      display: block;
+      width: 100%;
+    }
+    width: 100%;
     background-color: #e4e5e6;
-    margin-right: 1%;
     min-height: 600px;
     @include responsive(wide-screens){
       width: 324px;
       margin-right: 48px;
     }
+    @include responsive(ultra-wide-screens){
+      width: 265px;
+      margin-right: 16px;
+    }
+    img{
+      margin-bottom: 0px;
+    }
+    a:hover{
+      text-decoration: none;
+    }
     .year{
       padding: .5rem;
       background-color: #455560;
+      margin-bottom: 1rem;
       h3{
         display: block;
         color: white;
@@ -1619,7 +1640,14 @@ iframe.last-month{
       }
     }
     .title,.text{
-      padding: 1rem;
+      padding: 0 1rem;
+      color: #515151;
+    }
+    .title{
+      hr.bar{
+        border-bottom: 5px solid #455560;
+        width: 15%;
+      }
     } 
   }
 }
