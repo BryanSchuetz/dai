@@ -7,6 +7,7 @@ tags:
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
+- COVID-19
 regions: Latin America and the Caribbean
 projects: Haiti—Strategic Health Information System Program (HIS)
 clients: U.S. Agency for International Development
