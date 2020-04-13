@@ -17,6 +17,14 @@
     </div>
   </div>  
 </a>  {%- endcomment -%}
+<a class="gallery-cell" style="background: url(/uploads/ sbg-hero-3.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="https://dai-global-developments.com/articles/covid-19-demands-new-thinking-on-local-content-in-oil-gas-and-mining?utm_souce=daidotcom">
+  <div class="shader">
+    <div class="gallery-cell--text">
+      <h2>COVID-19</h2>
+      <p class="gallery-subhead">Pandemic demands new thinking on local content</p>
+    </div>
+  </div>  
+</a> 
 <a class="gallery-cell" style="background: url(/uploads/sbg-hero-2.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;" href="https://player.vimeo.com/external/405997298.hd.mp4?s=ef7b38299595e87f517fc295919144a0f3f15a71&profile_id=174">
   <div class="shader">
     <div class="gallery-cell--text">
@@ -186,7 +194,8 @@
 {% elsif page.hero and page.url contains "covid-19" %}
 <div class="hero-wrap covid">
   <div class="node-hero">
-      <h1 class="hero-title">{{page.title}}...stuff</h1>
+      <h1 class="hero-title"><svg class="covid-badge badge" viewBox="0 0 60 60" preserveAspectRatio="xMinYMax
+  meet"><use xlink:href="#covid"></use></svg> {{page.title}}</h1>
       <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
   </div>
 </div>
