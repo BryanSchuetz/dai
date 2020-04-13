@@ -1,5 +1,5 @@
 ---
-title:  COVID-19
+title: COVID-19
 date: 2016-01-22 00:11:00 Z
 permalink: "/covid-19"
 published: false
@@ -7,7 +7,13 @@ solutions:
 - COVID-19
 hero: true
 layout: node
-summary: 'There is no ignornace, and no end to ignorance. There is no old age and death, and no end to old age and death. There is no suffering, no end to suffering, no cause of suffering, no path to follow. There is no attainment of wisdom, and no wisdom to attain. There is no ignornace, and no end to ignorance. There is no old age and death, and no end to old age and death. There is no suffering, no end to suffering, no cause of suffering, no path to follow. There is no attainment of wisdom, and no wisdom to attain.'
+summary: There is no ignornace, and no end to ignorance. There is no old age and death,
+  and no end to old age and death. There is no suffering, no end to suffering, no
+  cause of suffering, no path to follow. There is no attainment of wisdom, and no
+  wisdom to attain. There is no ignornace, and no end to ignorance. There is no old
+  age and death, and no end to old age and death. There is no suffering, no end to
+  suffering, no cause of suffering, no path to follow. There is no attainment of wisdom,
+  and no wisdom to attain.
 ---
 
 <h1>DAI has designed solutions and implemented projects for every global outbreak of the last 20 years</h1>
