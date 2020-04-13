@@ -35,6 +35,8 @@ layout: solution
 
 Our experts help unlock the commercial potential in growth markets by advising companies on how to **optimize their local supply base** and labor force, **comply with local content requirements**, **demonstrate their long-term commitment** to the country's development, and become a **trusted partner for government.**
 
+## Listen to the Tips for SMEs to during Covid 19 Crisis here
+
 <iframe src="https://player.vimeo.com/video/405997298" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <aside>

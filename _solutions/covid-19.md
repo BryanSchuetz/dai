@@ -1,5 +1,5 @@
 ---
-title:  COVID-19
+title: COVID-19
 date: 2016-01-22 00:11:00 Z
 permalink: "/covid-19"
 published: false
@@ -7,7 +7,17 @@ solutions:
 - COVID-19
 hero: true
 layout: node
+<<<<<<< HEAD
 summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+=======
+summary: There is no ignornace, and no end to ignorance. There is no old age and death,
+  and no end to old age and death. There is no suffering, no end to suffering, no
+  cause of suffering, no path to follow. There is no attainment of wisdom, and no
+  wisdom to attain. There is no ignornace, and no end to ignorance. There is no old
+  age and death, and no end to old age and death. There is no suffering, no end to
+  suffering, no cause of suffering, no path to follow. There is no attainment of wisdom,
+  and no wisdom to attain.
+>>>>>>> 5942dc01ab8d530d6b5bc4a7b074836d95f42ac6
 ---
 
 <p>As pandemics strike, DAI with our partners are at the forefront of helping countries and communities prevent, detect, and respond to outbreaks and their impacts. Our work includes a range of tools and approaches including: advocacy, governance, and public financial management approaches to better allocation of government resources for prevention; planning, surveillance, rapid response, and risk communications tools to reduce transmission; municipal planning tools to support sub-national capacity; regional planning tools with WHO and FAO; and recovery tools to help countries and communities reduce the longer-term impacts of pandemics.
