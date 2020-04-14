@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Policy Development Facility Phase II
+title: Nigeria—Policy Development Facility Phase II (PDF II)
 date: 2016-01-21 22:40:00 Z
 summary: The Policy Development Facility II is a flexible, rapid-response facility
   that supports “champions of change”—primarily federal ministers, but also other
@@ -33,6 +33,8 @@ layout: project
 
 The Policy Development Facility II was a flexible, rapid-response facility that supported “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further reduce poverty in Nigeria.
 
+PDF II supported the Nigerian government in making its ministries, departments, and agencies more efficient, leading to substantial financial savings and increased transparency. The programme promoted clean energy generation through its role in the implementation of Nigeria’s electrification strategy and the creation of green bonds. Finally, PDF II enhanced trade and investment through its advisory role to the Nigeria Sovereign Investment Authority and its work establishing a non-oil export community of practice.
+
 <iframe src="https://player.vimeo.com/video/405449610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
@@ -41,7 +43,9 @@ The Policy Development Facility II was a flexible, rapid-response facility that 
 * Promote evidence-based, pro-poor policy dialogue to strengthen the institutional linkages between the suppliers and consumers of information.
 * Use highly innovative “anecdote circles” to engage groups in experiential sharing, conflict resolution, team building, and sustainable action for reform.
 
-###  Select Results (from PDF1)
+### Select Results
+
+
 
 **Economic Growth:**
 
