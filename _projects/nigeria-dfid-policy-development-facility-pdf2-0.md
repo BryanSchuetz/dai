@@ -31,7 +31,7 @@ promos:
 layout: project
 ---
 
-The [Policy Development Facility II](https://www.pdfnigeria.org/) was a flexible, rapid-response facility that supported “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further reduce poverty in Nigeria.
+The [Policy Development Facility II](https://www.pdfnigeria.org/) was a flexible, rapid-response facility that supported “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further [reduce poverty](https://www.pdfnigeria.org/rc/reducing-poverty-sustainably-boosting-economic-activities-selected-achievements-from-pdf-ii/) in Nigeria.
 
 PDF II supported the Nigerian government in making its ministries, departments, and agencies more efficient, leading to substantial financial savings and increased transparency. The programme promoted clean energy generation through its role in the implementation of Nigeria’s electrification strategy and the creation of green bonds. Finally, PDF II enhanced trade and investment through its advisory role to the Nigeria Sovereign Investment Authority and its work establishing a non-oil export community of practice.
 
