@@ -46,4 +46,5 @@ PDF II supported the Nigerian government in making its ministries, departments, 
 ### Select Results
 
 * Created 27,765 direct, indirect, and induced jobs as a result of support across a number of initiatives, including energising economies, green bonds, innovation hubs, and fertiliser initiatives.
-* 
+* Deployed 116 embedded advisers across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth. 
+
