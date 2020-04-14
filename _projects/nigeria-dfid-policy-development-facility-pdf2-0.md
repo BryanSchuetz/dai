@@ -31,7 +31,7 @@ promos:
 layout: project
 ---
 
-The Policy Development Facility II was a flexible, rapid-response facility that supported “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further reduce poverty in Nigeria.
+The [Policy Development Facility II](https://www.pdfnigeria.org/) was a flexible, rapid-response facility that supported “champions of change”—primarily federal ministers, but also other high-level government officials such as the Office of the Vice President—to implement economic and social policies that further reduce poverty in Nigeria.
 
 PDF II supported the Nigerian government in making its ministries, departments, and agencies more efficient, leading to substantial financial savings and increased transparency. The programme promoted clean energy generation through its role in the implementation of Nigeria’s electrification strategy and the creation of green bonds. Finally, PDF II enhanced trade and investment through its advisory role to the Nigeria Sovereign Investment Authority and its work establishing a non-oil export community of practice.
 
@@ -45,17 +45,5 @@ PDF II supported the Nigerian government in making its ministries, departments, 
 
 ### Select Results
 
-
-
-**Economic Growth:**
-
-* Facilitated reform of the mining and steel industry, which tripled the Ministry’s contribution to the federation account, rising to 2 billion naira in 2016—up from 700 million in 2015—with a further 3.5 billion naira in 2017. Helped develop national policies for solid minerals and mining.
-* Assisted the Nigerian Sovereign Investment Authority to make its first investments in the health and agriculture sectors. 
-* Enabled the Efficiency Unit in the Federal Ministry of Finance to save 184.24 billion naira on overhead expenditure alone in 2016–2018. 
-* Supported the first sovereign green bond, issued in 2017 to fund the Energising Education Project, which provides solar power to nine universities in Nigeria. 
-* Transformed the approach and culture of the Office of the Auditor General regarding conducting audits, introducing global best practices and delivering high-quality audit reports. 
-* Supported the provision of 500,000 direct jobs through N-Power for youth between the ages of 18 and 35, and facilitated other jobs programmes executed by the Ministry of Mines and Steel and the Ministry of Agriculture.
-
-### Resources, Publications, and Toolkits
-
-The Policy Development Facility II’s “Stories for Change,” available on the [PDF II website](https://www.pdfnigeria.org/), show the impact of the project’s work with the Nigerian Sovereign Investment Authority, in the mining and steel sector, and on job creation and youth empowerment initiatives.
+* Created 27,765 direct, indirect, and induced jobs as a result of support across a number of initiatives, including energising economies, green bonds, innovation hubs, and fertiliser initiatives.
+* 
