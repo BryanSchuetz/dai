@@ -48,4 +48,6 @@ PDF II supported the Nigerian government in making its ministries, departments, 
 * Created 27,765 direct, indirect, and induced jobs as a result of support across a number of initiatives, including energising economies, green bonds, innovation hubs, and fertiliser initiatives.
 * Deployed 116 embedded advisers across 155 projects to support Nigeria’s reforms for poverty reduction and economic growth. 
 *  Helped the Ministry of Finance in 2015 save 184.2 billion naira on the government’s top five expenditure items between 2014 and 2017 with a thorough review of work processes and practices, and improving government procurement to enhance value for money, leading to a shift in institutional culture.
+* Helped the Development Bank of Nigeria to disburse 619 million naira to more than 300 micro-, small- and medium-sized enterprises, and another 1.5 billion naira has been made available for those small firms.
+
 
