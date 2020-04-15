@@ -1598,6 +1598,7 @@ iframe.last-month{
 
 .covid-carousel{
   margin-top: 2rem;
+  margin-bottom: 3rem;
   .flickity-prev-next-button.previous{
     left: 0px;
   }
@@ -1621,7 +1622,7 @@ iframe.last-month{
       margin-right: 16px;
     }
     img{
-      margin-bottom: 0px;
+      margin-bottom: 1rem;
     }
     a:hover{
       text-decoration: none;
@@ -1629,7 +1630,6 @@ iframe.last-month{
     .year{
       padding: .5rem;
       background-color: #455560;
-      margin-bottom: 1rem;
       h3{
         display: block;
         color: white;
