@@ -21,6 +21,8 @@ Given that Turkey has a growing interest to control and prevent industrial pollu
 
 The EuropeAid project is led by DAI’s Human Dynamics.
 
+![Istanbul_stock(15896336632).jpg](/uploads/Istanbul_stock(15896336632).jpg)`Istanbul cityscape. Photo courtesy of Karsten Wentink from Leiden, The Netherlands / CC BY-SA.`
+
 ### Sample Activities
 
 * Protect human health and environment by integrated management of industrial pollution through implementation of the IED.
