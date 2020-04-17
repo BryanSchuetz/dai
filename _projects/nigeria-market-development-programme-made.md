@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Market Development in the Niger Delta II (MADE)
+title: Nigeria—Market Development in the Niger Delta II (MADE II)
 date: 2016-01-21 22:40:00 Z
 summary: The second phase of the Market Development in the Niger Delta project is
   using a market systems approach to increase productivity and incomes for poor farmers
