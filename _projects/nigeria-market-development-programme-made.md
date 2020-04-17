@@ -1,9 +1,9 @@
 ---
-title: Nigeria—Market Development in the Niger Delta II (MADE)
+title: Nigeria—Market Development in the Niger Delta II (MADE II)
 date: 2016-01-21 22:40:00 Z
-summary: The second phase of the Market Development in the Niger Delta project is
-  using a market systems approach to increase productivity and incomes for poor farmers
-  as well as addressing the root causes of migration and human trafficking from Nigeria.
+summary: The second phase of the Market Development (MADE II) in the Niger Delta project
+  accelerated the outreach and outcomes from MADE I by doubling the results in half
+  the time and half the budget.
 start: 2018
 end: 2020
 client: U.K. Department for International Development
@@ -18,27 +18,26 @@ country:
 layout: project
 ---
 
-The Market Development in the Niger Delta II (MADE II) project [continues working](http://dai-global-developments.com/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/) in the Niger Delta states to promote inclusive, pro-poor growth for farmers and entrepreneurs. The programme is scaling up successful market interventions from the first phase and establishing exit plans with local partners. In addition, the programme is utilizing a similar [market systems development approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/) to help address the root causes of outward migration that have led thousands to fall victim to human traffickers in Libya and Europe.
+The Market Development in the Niger Delta II (MADE II) project [worked](http://dai-global-developments.com/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/) in the Niger Delta states to promote inclusive, pro-poor growth for farmers and entrepreneurs. The[ programme scaled up](https://beamexchange.org/practice/programme-index/279/) successful market interventions from the first phase and established exit plans with local partners. In addition, the programme utilized a similar [market systems development approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/) to help address the root causes of outward migration that have led thousands to fall victim to human traffickers in Libya and Europe.
 
-By connecting vulnerable populations with desirable jobs at home, MADE II aims to reduce the number of Nigerians who attempt to migrate to work abroad only to end up trapped in modern slavery. Efforts focus on Edo State, the largest contributor of human trafficking victims from Nigeria. MADE II identified six sectors well positioned to create appealing job opportunities in Edo: high-end agribusiness, information and communication technology, renewable energy, wholesale and retail, cosmetics, and the entertainment industry.
-Nigeria’s television and film industry, for example, known as “Nollywood,” is the third largest in the world. The industry generates US$800 million a year in revenue while employing more than 1 million people. Nollywood movies and TV shows are popular around the African continent and are increasing in demand due to new satellite and streaming services. In the coming years, the industry is forecasted to hire many skilled workers, such as set designers, production assistants, lighting and sound technicians, and make-up artists. To connect job seekers in Edo with opportunities in Nollywood, MADE II will work with industry professionals and associations, such as the Nollywood Association of Hair and Makeup Artists, to create online and in-person training courses for in-demand production skills, as well as establishing internship programs.
+MADE II accelerated the outreach and outcomes from MADE I by doubling the results in half the time and half the budget.
+
+By connecting vulnerable populations with desirable jobs at home, MADE II reduced the number of Nigerians attempting to migrate to work abroad only to end up trapped in modern slavery. Efforts focused on Edo State, the largest contributor of human trafficking victims from Nigeria. MADE II identified six sectors well positioned to create appealing job opportunities: high-end agribusiness, information and communication technology, renewable energy, wholesale and retail, cosmetics, and the entertainment industry.
+
+Nigeria’s television and film industry, for example, known as “Nollywood,” is the third largest in the world. The industry generates $800 million a year in revenue while employing more than 1 million people. Nollywood movies and TV shows are popular around the African continent and are increasing in demand due to new satellite and streaming services. In the coming years, the industry is forecasted to hire many skilled workers, such as set designers, production assistants, lighting and sound technicians, and make-up artists. To connect job seekers in Edo with opportunities in Nollywood, MADE II worked with industry professionals and associations, such as the Nollywood Association of Hair and Makeup Artists, to create online and in-person training courses for in-demand production skills, as well as established internship programs.
 
 ![MADE_web.jpg](https://assetify-dai.com/projects/made-nigeria-2.jpg)
 
 ### Sample Activities
 
-* Working with companies and professional associations across six target sectors—including ICT, renewable energy, and entertainment—to present value propositions for investing in job creation.
-
-* Partnering with nongovernmental organizations and education centres to tailor job training to market demands and connect with populations susceptible to trafficking.
-
-* Scaling successful market interventions and establishing sustainable exit plans with local partners.
+* Work with companies and professional associations across six target sectors—including ICT, renewable energy, and entertainment—to present value propositions for investing in job creation.
+* Partner with nongovernmental organizations and education centres to tailor job training to market demands and connect with populations susceptible to trafficking.
+* Scale successful market interventions and establishing sustainable exit plans with local partners.
 
 ### Select Results
 
-**Economic Growth:**
-
-It is expected that at least 155,000 Nigerians living in poverty will experience increase in their incomes by an average of 15 percent, and the programme will help generate an additional £14.5 million in income for farmers and small businesses through market development interventions.
-
-**Fragile States:**
-
-MADE II is applying its market systems approach in conflict-affected areas of the Niger Delta including Edo, Akwa Ibom, Bayelsa, Delta, and Rivers.
+* Reached 551,521 smallholder farmers through commercially driven initiatives (direct and indirect), with 389,441 farmers showing increased productivity, of whom 307,722 experienced at least 15 percent increase in incomes over their baseline situation, with a net attributable income of £46 million (£18 million from MADE I).
+* Assisted 36 lead firms across five sectors with changing their approaches to engaging with smallholder farmers, working through 1,982 extension service providers investing in cassava, agricultural inputs, fisheries, poultry and palm oil.
+* Created a market for commercially driven extension provision. More than 50 private training companies have changed their training and service delivery approaches from targeting donors and government to targeting smallholder farmers as prime clients. Service providers are naturally moving into new sectors, applying the same skills to new product markets. They are now selling an ever-widening basket of services to more than 100,000 smallholder farmers. 
+* Helped nine lead firms invest £8,546,000 in aspirational sectors targeting returnees, potential victims of human trafficking and vulnerable households in Edo State, Nigeria, reaching 33,000 target beneficiaries.
+* Influenced 24 additional investors and 20 development agencies to change their approach of engaging the poor by adopting market systems approaches. Ten nongovernmental groups are now providing co-facilitation services as part of their core offerings. They are submitting proposals and getting funded to deliver market systems development-based projects on their own.
