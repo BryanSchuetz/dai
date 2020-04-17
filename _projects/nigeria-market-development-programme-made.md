@@ -37,14 +37,7 @@ Nigeria’s television and film industry, for example, known as “Nollywood,”
 ### Select Results
 
 * Reached 551,521 smallholder farmers through commercially driven initiatives (direct and indirect), with 389,441 farmers showing increased productivity, of whom 307,722 experienced at least 15 percent increase in incomes over their baseline situation, with a net attributable income of £46 million (£18 million from MADE I).
-* Assisted 36 lead firms across five sectors with changing their approaches to engaging with smallholder farmers (SHF), working through 1,982 extension service providers investing in select value chains across cassava, agricultural inputs, fisheries, poultry and palm oil:
-- Seven crop protection companies increased their sales of inputs by £9 million per annum. CPP sponsored trainings helped 106,000 SHF (46 per cent women) to increase their incomes, with NAIC of £15,790,000
-
-- In cassava, 1,043 village stem entrepreneurs have assisted 141,000 SHF to adopt new practices and record increased incomes with NAIC of £19,766,000
-
-- In poultry, three VPCs greatly expanded their market reach, adding more than 37,000 regular clients for their services, who have benefited with increased NAIC of £2,800,000
-
-The markets for the fabrication and sale of small-scale palm oil processing equipment and for smoking kilns are now well established and sales are growing year on year (post project support).
-Creation of a market for commercially driven extension provision. More than 50 private training companies have changed their training and service delivery approaches from targeting donors and government to targeting SHF as prime clients. Service providers are naturally moving into new sectors, applying the same skills to new product markets. They are now selling an ever-widening basket of services to more than 100,000 SHF (as of February 28, 2020).
+* Assisted 36 lead firms across five sectors with changing their approaches to engaging with smallholder farmers, working through 1,982 extension service providers investing in cassava, agricultural inputs, fisheries, poultry and palm oil.
+* Created a market for commercially driven extension provision. More than 50 private training companies have changed their training and service delivery approaches from targeting donors and government to targeting SHF as prime clients. Service providers are naturally moving into new sectors, applying the same skills to new product markets. They are now selling an ever-widening basket of services to more than 100,000 SHF (as of February 28, 2020).
 Nine lead firms invested £8,546,000 in aspirational sectors targeting returnees, potential victims of human trafficking and vulnerable households in Edo State, Nigeria, reaching 33,000 target beneficiaries.
 Influenced 24 additional investors and 20 development agencies to change their approach of engaging the poor by adopting market systems approaches. Ten NGOs are now providing cofacilitation services as part of their core offering; they are submitting proposals and getting funded to deliver MSD based projects on their own.
