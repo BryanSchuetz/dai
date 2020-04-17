@@ -10,8 +10,7 @@ published: false
 permalink: "/covid-19-economic-and-social-recovery-services"
 related: false
 ---
-
-## Economic and Social Recovery
+# Economic and Social Recovery
 
 DAI offers a comprehensive suite of economic and social recovery services to support our partners in the fight against COVID-19.
 

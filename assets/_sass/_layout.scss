@@ -1598,8 +1598,39 @@ iframe.last-month{
 
 // Covid
 
+.covid-aside{
+  padding: 2rem;
+  margin-bottom: 2rem;
+  @include clearfix;
+  .covid-contacts{
+    @include clearfix;
+    margin-bottom: 1rem;;
+    .covid-contact.one{
+      float: left;
+      margin-right:  1rem;
+      width: 40%;
+      line-height: 20px;
+      @include responsive(wide-screens){
+        width: 30%;
+      }
+      text-align: center;
+    }
+    .covid-contact.two{
+      float: right;
+      width: 40%;
+      line-height: 20px;
+      @include responsive(wide-screens){
+        width: 30%;
+      }
+      margin-left: 1rem;
+      text-align: center;
+    }
+  }
+}
+
 .covid-button{
-  margin-bottom: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 .covid-carousel{
   margin-top: 2rem;

@@ -11,8 +11,6 @@ related: false
 summary: |
   The novel coronavirus has had a profound public health impact in the developed world and is poised to have an equally if not more devastating effect on developing nations. As travel bans, lockdowns, and stalled trade take an increasing toll, economic spillover effects—and associated social instability—threaten to compound the crisis, especially in some of the world’s more vulnerable and fragile states.
 ---
-
-
 # Integrated Solutions for Immediate Response and Long-Term Recovery
 
 After decades progress in the areas of inclusive economic growth and poverty reduction, the advent of COVID-19 threatens to reduce world trade by <a href="https://www.wto.org/english/news_e/pres20_e/pr855_e.htm">as much as 32 percent</a>, according to the World Trade Organization, and could drive <a href="https://www.kcl.ac.uk/news/half-a-billion-people-could-be-pushed-into-poverty-by-COVID-19">500 million people</a> into poverty.
@@ -80,10 +78,18 @@ Today, DAI is ready to provide technical assistance across projects and directly
 
 On projects such as Women for Health in Nigeria (W4H), the Tackling Deadly Diseases in Africa Programme, and Better Health in Mexico, we are pivoting activities to address COVID-19. In Nigeria, for example, we are adding components on community awareness raising, e-training for midwives and health workers, and psychosocial counseling for medical personnel on the frontline. In Indonesia, the USAID Jalin maternal health program is preparing to help health facilities treat pregnant women and newborns with COVID-19 and to educate health workers on the virus.
 
-Across the entire DAI Global Health portfolio, we are mobilizing to offer comprehensive <a href="/covid-19-global-health-solutions-services">COVID-19 services</a>. For information on how DAI can support your COVID-19 health response, contact <a href="/who-we-are/our-team/robert-salerno">Robert Salerno</a>, U.S. Health Security Lead, or <a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey</a>, U.K. Health Security Lead.
+<aside class="covid-aside">
+<p>
+  Across the entire DAI Global Health portfolio, we are mobilizing to offer comprehensive <a href="/covid-19-global-health-solutions-services">COVID-19 services</a>. For information on how DAI can support your COVID-19 health response, contact <a href="/who-we-are/our-team/robert-salerno">Robert Salerno</a>, U.S. Health Security Lead, or <a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey</a>, U.K. Health Security Lead.
+</p>
 
 <a href="/covid-19-global-health-solutions-services" target="blank" class="primary-block--button covid-button">Learn more about these services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
+<div class="covid-contacts">
+<div class="covid-contact one"><img src="/uploads/Rob-47f9d6.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/robert-salerno">Robert Salerno Director, Global Health Security</a></span></div>
+<div class="covid-contact two"><img src="/uploads/Jeff%20Mecaskey%20DAI%20site.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey Team Leader, Tackling Deadly Diseases in Africa Program (TDDAP)</a></span></div>
+</div>
+</aside>
 ## Economic and Social Recovery
 {:#economic-social-recovery_hash}
 
@@ -95,24 +101,44 @@ Across DAI, we are pivoting our teams and re-aligning resources to take on the C
 
 In Egypt, for example, DAI is working through the USAID Macro-Economic Stabilization and Reform Project to help relevant ministries address the economic impact of COVID-19—by assessing the outbreak’s effect on key sectors, forecasting revenue and expenditure to estimate the repercussions of COVID-19 under different scenarios, and refining the government’s fiscal risk management plan.
 
+![A photograph of a street in Cairo](/uploads/covid-cairo.jpg)
+
 In Somalia, DAI’s EU Somalia Technical Assistance Facility is advising the European Union and other donors on practical responses to COVID-19 through a shock-responsive social assistance system, while analyzing global social assistance responses to extract a contextually appropriate approach for Somalia.
 
 DAI has also been selected by the U.K. Department for International Development to implement its Social Protection Approaches to COVID-19: Expert Advice Helpline (SPACE), which supports DFID’s Social Protection Team. Without safety nets, poor people are not able to stay at home: they have no sick leave and little cash with which to stockpile food or buy medicine. Poverty fuels the contagion, which in turn deepens poverty. DAI brings to bear years of experience designing cash transfer programs for target groups to maintain living standards and spur demand-led recovery—with a focus in this case on delaying the spread of the virus and supporting a quicker rebound post-pandemic.
 
-In addition to its frontline work on global health and safety net responses, DAI is deploying a <a href="/covid-19-economic-and-social-recovery-services">range of development services</a> to assist governments and international donors in the fight against COVID-19. For information on how DAI can support your COVID-19 response, contact [ XXXX ].
+
+<aside class="covid-aside">
+<p>
+  In addition to its frontline work on global health and safety net responses, DAI is deploying a <a href="/covid-19-economic-and-social-recovery-services">range of development services</a> to assist governments and international donors in the fight against COVID-19. For information on how DAI can support your COVID-19 response, contact <strong>[ XXXX ]</strong>.
+</p>
 
 <a href="/covid-19-economic-and-social-recovery-services" target="blank" class="primary-block--button covid-button">Learn more about these services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+
+{%- comment -%} <div class="covid-contacts">
+<div class="covid-contact one"><img src="/uploads/Rob-47f9d6.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/robert-salerno">Robert Salerno Director, Global Health Security</a></span></div>
+<div class="covid-contact two"><img src="/uploads/Jeff%20Mecaskey%20DAI%20site.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey Team Leader, Tackling Deadly Diseases in Africa Program (TDDAP)</a></span></div>
+</div> {%- endcomment -%}
+</aside>
 
 ## Digital Resilience
 {:#digital-resilience_hash}
 
 Digital technology is increasingly central to economic development and social life across the world, a fact thrown into relief by the COVID-19 pandemic, as governments and organizations turn to physical distancing, impose remote work rules, and leverage data to monitor, adapt, and respond to the crisis.  
 
-But while digital tools offer enormous utility, they also present risks. As government and private sector functions move online, cyber criminals and malicious state actors see opportunity. These challenges are not new, yet their threat is amplified in a crisis environment where individuals and institutions must rely on digital connections to access critical services and information. Disinformation, for example, is a growing threat to trust in government systems and processes, as well as to the social fabric modern societies rely on. 
+But while digital tools offer enormous utility, they also present risks. As government and private sector functions move online, cyber criminals and malicious state actors see opportunity. These challenges are not new, yet their threat is amplified in a crisis environment where individuals and institutions must rely on digital connections to access critical services and information. Disinformation, for example, is a growing threat to trust in government systems and processes, as well as to the social fabric modern societies rely on.
+
+![Covid Communications](/uploads/digital-covid.jpg)
 
 DAI is well positioned to tackle these challenges given our expertise in digital development and cybersecurity, public and private sector development work, and health systems strengthening and pandemic response. Our holistic approach builds resilience in vital systems in the short term, while developing capacity to sustainably address connectivity, cybersecurity, disinformation, and data voids in the long term. These solutions follow a structured path (diagnose-develop-deploy) that can be adapted and scaled to a variety of applications, from public institutions such as ministries, central banks, and state-owned enterprises to smaller organizations such as municipalities, businesses, and NGOs.
 
-For more on DAI’s digital work on COVID-19, contact <a href="/who-we-are/our-team/krista-baptista">Krista Baptista</a>, Senior Director of DAI’s Centre for Digital Acceleration.  
+<aside class="covid-aside">
+<p>For more on DAI’s digital work on COVID-19, contact <a href="/who-we-are/our-team/krista-baptista">Krista Baptista</a>, Senior Director of DAI’s Centre for Digital Acceleration.</p>
+
+<div class="covid-contacts">
+<div class="covid-contact one"><img src="https://assetify-dai.com/experts/BaptistaInner1.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/krista-baptista">Krista Baptista Senior Director, Center for Digital Acceleration</a></span></div>
+</div>
+</aside>
 
 <script>
   $('.covid-carousel').flickity({

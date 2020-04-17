@@ -10,8 +10,7 @@ published: false
 permalink: "/covid-19-global-health-solutions-services"
 related: false
 ---
-
-## Global Health COVID-19 Services
+# Global Health COVID-19 Services
 
 As pandemics strike, DAI with our partners are at the forefront of helping countries and communities prevent, detect, and respond to outbreaks and their impacts. Our work includes a range of tools and approaches including: advocacy, governance, and public financial management approaches to better allocation of government resources for prevention;  planning, surveillance, rapid response, and risk communications tools to reduce transmission; municipal planning tools to support sub-national capacity; regional planning tools with WHO and FAO; and recovery tools to help countries and communities reduce the longer-term impacts of pandemics
 
