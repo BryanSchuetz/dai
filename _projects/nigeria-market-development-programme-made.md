@@ -36,9 +36,8 @@ Nigeria’s television and film industry, for example, known as “Nollywood,”
 
 ### Select Results
 
-
-551,521 smallholder farmers were reached through commercially driven initiatives (direct and indirect), with 389,441 showing increased productivity, of whom 307,722 experienced at least 15 per cent increase in incomes over their baseline situation, with a net attributable income of £46 million (£18 million from Phase I)
-36 lead firms across five sectors have changed their approaches to engaging with smallholder farmers (SHF), working through 1,982 extension service providers investing in select value chains across cassava, agricultural inputs, fisheries, poultry and palm oil:
+* Reached 551,521 smallholder farmers through commercially driven initiatives (direct and indirect), with 389,441 farmers showing increased productivity, of whom 307,722 experienced at least 15 percent increase in incomes over their baseline situation, with a net attributable income of £46 million (£18 million from MADE I).
+* Assisted 36 lead firms across five sectors with changing their approaches to engaging with smallholder farmers (SHF), working through 1,982 extension service providers investing in select value chains across cassava, agricultural inputs, fisheries, poultry and palm oil:
 - Seven crop protection companies increased their sales of inputs by £9 million per annum. CPP sponsored trainings helped 106,000 SHF (46 per cent women) to increase their incomes, with NAIC of £15,790,000
 
 - In cassava, 1,043 village stem entrepreneurs have assisted 141,000 SHF to adopt new practices and record increased incomes with NAIC of £19,766,000
