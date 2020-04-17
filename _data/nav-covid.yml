@@ -1,0 +1,11 @@
+- text: News & Insights
+  link: /publications/view-more-articles?filter=covid-19
+- text: Global Health Solutions
+  link: /covid-19#global-health-solutions_hash
+  parent: global-health-solutions
+- text: Economic and Social Recovery
+  link: /covid-19#economic-social-recovery_hash
+  parent: economic-and-social-recovery
+- text: Digital Resilience
+  link: /covid-19#digital-resilience_hash
+  parent: digital-resilience

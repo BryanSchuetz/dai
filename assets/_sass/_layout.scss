@@ -578,7 +578,9 @@ aside{
   }
 }
 // 🎌 Section Nav 🎌
-
+.section-nav{
+  color: white;
+}
 .section-nav .section-nav--link{
   font-size: .8rem;
   font-weight: 700;
@@ -954,7 +956,7 @@ tbody tr:nth-child(odd) th {
 }
 // 🎌 NODE 🎌
 .hero-wrap.covid{
-  background-image: url(/uploads/covid-hero-background.jpg);
+  background-image: url(/uploads/covid-background-header.jpg);
 }
 .hero-wrap.working-dai{
   background-image: url(/assets/images/node/people-header.jpg);
@@ -1596,6 +1598,9 @@ iframe.last-month{
 
 // Covid
 
+.covid-button{
+  margin-bottom: 3rem;
+}
 .covid-carousel{
   margin-top: 2rem;
   margin-bottom: 3rem;

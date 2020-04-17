@@ -27,12 +27,17 @@
     $('.header-nav--main a').smoothScroll({
       offset: offsetf
     });
+    var covsetf = offsetf+12;
+    $('.covid-nav').smoothScroll({
+      offset: covsetf
+    });
 // Watch for hash links being loaded externally to smooth-scroll to them
 
     /* Take over default page anchor functionality */
 
     // Store hash location
     var hashLocation = false;
+    var winLocation = window.location.pathname;
     if (location.hash) {
         hashLocation = window.location.hash;
         setTimeout(function() {
@@ -50,6 +55,11 @@
             if( hashLocation.indexOf('_hash') < 0 ) {
                 hashLocation = hashLocation + "_hash";
             };
+
+            // Set diff offset for Covid page
+            if( winLocation.indexOf('covid-19') > 0){
+              offsetf = offsetf+12;
+            }
 
             // Scroll to target
             $.smoothScroll({

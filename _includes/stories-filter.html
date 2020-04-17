@@ -13,6 +13,7 @@
     <h3>Filter by Solution</h3>
     {% assign primary_solutions = site.solutions | where:"type","primary" | sort: "title" %}
     {% for solution in primary_solutions %}{%- unless solution.title == "DAI Capital" -%}<button class="filter--solution button" data-filter=".{{ solution.title | slugify }}"> {{ solution.icon }} {{ solution.title }} </button>{%- endunless -%}{% endfor %}
+    <button class="filter--solution button" data-filter=".covid-19" style="display:none;"></button>
   </div>
   <hr>
   <h4><em><a href="http://dai-global-developments.com/developments?utm_source=daidotcom">Developments</a></em></h4>
@@ -65,6 +66,22 @@ function concatValues( obj ) {
   }
   return value;
 }
+//Let's grab a data-filter paramater from the URL so we can link to prefiltered lists
+  function getParameterByName(name) {
+    if (name !== "" && name !== null && name != undefined) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    } else {
+        var arr = location.href.split("/");
+        return arr[arr.length - 1];
+    }
+
+}
+  var filterFromQuerystring = getParameterByName('filter');
+  $('button[data-filter=".' + filterFromQuerystring  + '"]').click();
+
   // var $grid = $('.grid').isotope({
   // itemSelector: '.grid-item',
   // layoutMode: 'vertical'

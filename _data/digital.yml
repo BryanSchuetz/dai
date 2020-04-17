@@ -1,235 +1,225 @@
 
-- title: "Longing for my SuperApp: Where’s the American Go-Jek?"
+- title: "COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index"
   pub: "Digital"
-  date: 2019-05-23
-  link: "https://dai-global-digital.com/longing-for-my-superapp-wheres-the-american-go-jek.html?utm_source=daidotcom"
-  summary: "Earlier this year I underwent a major life transition. After over four years living in Southeast Asia while supporting DAI’s ASEAN-U.S. PROGRESS project, I packed up my Jakarta apartment, shipped my belongings, and said farewell to the people and place that had become my home. The year 2019 was certain to be one of adjustment and inescapable reverse culture shock as I transitioned to life in America and a new position at DAI’s Bethesda, Maryland, office."
+  date: 2020-04-16
+  link: "https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html?utm_source=daidotcom"
+  summary: "The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the Nuclear Threat Initiative (NTI)’s Global Health Security Index and levels of response by country governments measured using the Oxford COVID-19 Government Response Tracker. You can read more about our initial exploratory analysis of the Global Health Security Index here in our previous blog post. Oxford University has provided an initial report of its data on its website."
   tags:
     - digital acceleration 
+    - COVID-19 
+    - Data Visualization 
+    - Digital Health 
+
+- title: "Approaching Digital Behavior Change Communications in the COVID-19 Era"
+  pub: "Digital"
+  date: 2020-04-15
+  link: "https://dai-global-digital.com/approaching-digital-behavior-change-communications-in-the-covid-19-era.html?utm_source=daidotcom"
+  summary: "While tackling the spread of the COVID-19 disease takes a multi-faceted approach, behavior change—especially around personal and respiratory hygiene, proper handwashing, social distancing, and so on—remains a critical need across countries where DAI and our clients operate. Further, as organizations and individuals increasingly embrace digital-based approaches to collaboration, communication, and information gathering, we are presented with an opportunity to incorporate these technologies across behavior change communication strategies. However, as many organizations have experienced since the start of near-global lockdowns, this transition to an all-digital way of working comes with unique roadblocks.
+
+Over the last few weeks, the DAI Center for Digital Acceleration has been exploring how digital communication tools can be used to build communications campaigns aimed at stemming the COVID-19 tide and spreading accurate information about targeted behaviors. We’ve pulled together some quick thoughts on the topic, but frankly, these are principles that apply in most any effort of this sort."
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Digital Transformation 
+
+- title: "Promoting Resilient Ecosystems: How Cambodians are Adapting in the Face of COVID-19"
+  pub: "Digital"
+  date: 2020-04-09
+  link: "https://dai-global-digital.com/promoting-resilient-ecosystems-how-cambodians-are-adapting-in-the-face-of-covid-19.html?utm_source=daidotcom"
+  summary: "Five years in Cambodia leading the U.S. Agency for International Development (USAID)-funded Development Innovations project taught me a lot about innovation. I saw innovators employ entrepreneurial thinking to develop out-of-the-box, creative solutions to problems, helping hundreds of thousands of Cambodians—automated phone calls warning people of coming floods comes to mind, as does a mobile test prep application to help high school students prepare for national exams. It’s this entrepreneurial thinking that the world desperately needs in this time of hardship, where livelihoods, the economy, and social cohesion are being challenged in unprecedented ways. Which naturally begs the question: In the face of COVID-19, what happens next in Cambodia’s innovation community?"
+  tags:
+    - digital acceleration 
+    - COVID-19 
     - Innovation 
 
-- title: "5 Takeaways From ICT4D 2019"
+- title: "COVID-19 Data Analysis, Part 2: Health Capacity and Preparedness"
   pub: "Digital"
-  date: 2019-05-16
-  link: "https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html?utm_source=daidotcom"
-  summary: "This year’s ICT4D Conference took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new) and marvel at how much bigger the ICT4D sector is since I first joined it in late 2010 and Ken Banks and I been invited to speak on the one mobile for social good panel (true story!) at a telecoms event."
+  date: 2020-04-02
+  link: "https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html?utm_source=daidotcom"
+  summary: "This article was written by DAI’s Jamie Parr, with contributions from Greg Maly and Gratiana Fu. This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data."
   tags:
     - digital acceleration 
-    - Think Piece 
-    - Data 
+    - Digital Health 
+    - Data Visualization 
+    - COVID-19 
 
-- title: "GIS Toolkit Overview Part I: Remote Sensing"
+- title: "Plan C: How Makerspaces are Providing a Stopgap for COVID-19 Supply Shortages"
   pub: "Digital"
-  date: 2019-05-09
-  link: "https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html?utm_source=daidotcom"
-  summary: "Geographic information systems (GIS) are often misunderstood, or unknown to many. Even in the development community, we often have a shallow understanding of the technology once we delve into methodologies or use cases—particularly with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand the strengths and shortcomings of the available tools.
+  date: 2020-03-30
+  link: "https://dai-global-digital.com/plan-c-how-makerspaces-are-providing-a-stopgap-for-covid-19-supply-shortages.html?utm_source=daidotcom"
+  summary: "One of the participants in the Think Global Make Local product development workshop, sponsored by our Cambodia Development Innovations project in 2016, created a design for a toy called Doy Doy. With Doy Doy’s silicone straws and plastic connectors, kids can build complex structures. The product has gone on to achieve modest commercial success locally. I found Doy Doy instructive because of the way its creator, Em Chanrithykol, ended up manufacturing the toy’s plastic connectors. Because of a lack of local injection-molding capacity and administrative barriers to importing parts made by contract manufacturers outside of Cambodia, Chanrithykol turned to a less traditional method: He contracted a local firm to churn out the parts on a battery of 3D printers.
 
-GIS image developed by the author when he was working for the Amazon Conservation Association."
+3D printing is slow, expensive, and inefficient. It is great for small runs of one-off items or prototypes, but it is a terrible way to mass manufacture a product. But the lesson of Doy Doy is that a bad way to mass manufacture a product can still be better than having no way to mass manufacture a product. This is why I am currently manufacturing personal protective face shields for Baltimore-area hospitals in my basement."
   tags:
     - digital acceleration 
-    - GIS 
-    - Imagery Analysis 
-    - Remote Sensing Series 
+    - Hardware 
+    - COVID-19 
 
-- title: "Designing A Wildlife Identification Tool in the Philippines"
+- title: "The Importance of Understanding Digital Divides During the COVID-19 Response"
   pub: "Digital"
-  date: 2019-04-30
-  link: "https://dai-global-digital.com/designing-a-wildlife-identification-tool-in-philippines.html?utm_source=daidotcom"
-  summary: "Human-centered design (HCD)—the design and management framework pioneered by greats like IDEO.org and taught in countless design and business schools—is taking the development world by storm. And rightly so, in our opinion. HCD’s focus on empathy and creativity helps us design better, more sustainable solutions to some of the most difficult development challenges. We won’t go into too much detail on the broader HCD process or its application in digital development; my colleagues have written extensively on the excellent design work they’ve facilitated in places like Cambodia, Nepal, and Guatemala. What we’d like to do today, rather, is tell you about the time we almost perished while shadowing rangers in the forests of the Philippines, and what we learned in the process.
-
-It is possible there is a bit of hyperbole inserted here. Possibly."
+  date: 2020-03-26
+  link: "https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html?utm_source=daidotcom"
+  summary: "Our work at DAI’s Center for Digital Acceleration intersects with global COVID-19 responses in many ways. Earlier this week, our data scientists presented an analysis of risk factors and last week we got a glimpse at the hardware community’s approach to the crisis. There is another element to our work that I think is critical to highlight—digital ecosystem assessments."
   tags:
     - digital acceleration 
-    - Human-centered design 
-    - Digital Insights 
+    - Digital Ecosystems 
+    - COVID-19 
+    - Digital Divide 
 
-- title: "Apply Now to Redesign the USAID Center for Digital Development’s mAccess Online Platform"
+- title: "COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment"
   pub: "Digital"
-  date: 2019-04-26
-  link: "https://dai-global-digital.com/apply-now-to-redesign-the-usaid-center-for-digital-developments-maccess-online-platform.html?utm_source=daidotcom"
-  summary: "A digital ecosystem is the how and why users interact with government services, digital financial tools, and each other using mobile devices. A single data point alone may not tell the whole story for digital inclusion and how to best reach those in low-connectivity settings globally. To help address this challenge, the U.S. Agency for International Development (USAID)’s Center for Digital Development (CDD) developed the mAccess diagnostic site, an online tool for global decision makers to analyze the availability, cost of connectivity, and number of users for more than 100 countries. The mAccess tool was launched in early 2016 and has been shared across USAID."
+  date: 2020-03-23
+  link: "https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html?utm_source=daidotcom"
+  summary: "This article was written by DAI’s Gratiana Fu, with contributions from Greg Maly, and Jamie Parr. This analysis is Part 1 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data."
   tags:
     - digital acceleration 
-    - RFP 
-    - USAID 
-    - Digital 
+    - Data Visualization 
+    - Digital Health 
+    - COVID-19 
 
-- title: "Digital Identity Series Part 2: Digital Identity and Politics"
+- title: "COVID-19: Looking for Helpers in the Hardware Community"
   pub: "Digital"
-  date: 2019-04-25
-  link: "https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=daidotcom"
-  summary: "Welcome back to the Digital Identity series. This week we continue the discussion of digital identity, with a focus on the politics of digital identification.
-
-Let’s start with the recognition that a formal identity is often a starting point for inclusion—without it, a person may not be able to access services such as health care, banking, or education. In humanitarian emergencies, a digital identity may be required to receive vital provisions such as food, water, and medicine."
+  date: 2020-03-18
+  link: "https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html?utm_source=daidotcom"
+  summary: "As the COVID-19 pandemic makes its way across the globe, and even well-resourced health systems struggle with the availability of critical supplies needed to treat patients, initiatives have emerged in the hardware community looking to help solve the shortage of physical supplies."
   tags:
     - digital acceleration 
-    - Digital Identity Series 
-    - Data 
-    - Cybersecurity 
+    - Hardware 
+    - Digital Health 
+    - COVID-19 
 
-- title: "What Makes This Wireless Technology (5G) Different From All Other Wireless Technologies?"
+- title: "Unlocking the Value of Digital Transformation in the Social Sector"
   pub: "Digital"
-  date: 2019-04-18
-  link: "https://dai-global-digital.com/what-makes-this-wireless-technology-5g-different-than-all-other-wireless-technologies.html?utm_source=daidotcom"
-  summary: "When thinking about the internet in an ideal world, I often think of an independent platform that provides a mechanism for free expression, commerce, and the exchange of ideas. Yet, as more and more of the global population comes online, the internet has become a reflection of global dynamics and geopolitical undercurrents. Today, this reality is manifesting itself around the impending roll out of 5G."
+  date: 2020-03-12
+  link: "https://dai-global-digital.com/unlocking-the-value-of-digital-transformation-in-the-social-sector.html?utm_source=daidotcom"
+  summary: "For many years, the support of international donors to civil society organizations and private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. As researchers wrote in 2013, these investments quickly became obsolete or abandoned. Since then, we in the digital development community have supported international donors and international programming to better integrate technology into our work."
   tags:
     - digital acceleration 
-    - Think Piece 
+    - Digital Transformation 
     - Innovation 
 
-- title: "5 Tips for Doing International Design Research"
+- title: "Closing the Gender Digital Divide: What We’re Doing to Bring Women Online"
   pub: "Digital"
-  date: 2019-04-11
-  link: "https://dai-global-digital.com/5-tips-for-doing-international-design-research.html?utm_source=daidotcom"
-  summary: "DAI’s Center for Digital Acceleration (CDA) relies heavily on ethnographic design research in our work. By focusing our efforts on people and the institutions around them, we:
-
-
-  Define the problem in their terms, not ours;
-  Learn of, and about, previous attempts to solve the problem;
-  Develop our understanding of local culture and history, as well as how people seek and share information and use mobile technology so we can meet them where they are;
-  Mitigate the risks inherent to spending limited resources developing software or building digital tools, given the costs of doing so;
-  Build ownership of the solution among the population; and…
-  Enlist those who participate as promoters of the solution among their personal and professional networks.
-
-
-The author teaching design research in Phnom Penh with the USAID Cambodia Development Innovations project."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - Digital Insights 
-
-- title: "From One Qualie to Another: Insights from Qual360 2019"
-  pub: "Digital"
-  date: 2019-04-04
-  link: "https://dai-global-digital.com/from-one-qualie-to-another-insights-from-qual360-2019.html?utm_source=daidotcom"
-  summary: "I have a confession to make: I am a bonafide, card-carrying qualie. For those of you who aren’t familiar with this term, it’s a (nerdy) colloquialism to define people who are really into qualitative research. I swear, it’s a thing.
-
-So yes, I am a qualie. I have been involved in conducting qualitative, ethnographic research in some way or another throughout the course of my sinuous career. I get jazzed by learning about people’s lived experiences—the barriers they encounter when attempting to improve their health and well being; the things that make changing behavior a snap; all of it. Throw some neuroscience in there to understand what’s happening in the brain and the ways in which emotional responses catalyze behavior change? Yes. Yes, please. I am in heaven."
-  tags:
-    - digital acceleration 
-    - Think Piece 
-    - Data 
-
-- title: "Game Mechanics—Great Tool for Designing Digital Development Services"
-  pub: "Digital"
-  date: 2019-03-28
-  link: "https://dai-global-digital.com/game-mechanics-maize-pests-and-prize-inspiration.html?utm_source=daidotcom"
-  summary: "📱 Smartphone connections continue to rise and people, globally, love to game. The Global Systems for Mobile Communications Association (GSMA) estimates that by 2025 78 percent of all developing market mobile connections will be smart. By that time GSMA predicts that India will be the second-largest smartphone market by adoption globally (ahead of the United States), with 1 billion smartphone connections. Interestingly, India is already among the top five mobile gaming countries globally, expected to surge to 368 million gamers in 2022. If this is a bellwether for developing markets, we can expect gaming to be a significant force across the global south."
-  tags:
-    - digital acceleration 
-    - Innovation 
-
-- title: "Digital Identity Series Part 1: Digital Identity and Informed Consent"
-  pub: "Digital"
-  date: 2019-03-18
-  link: "https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html?utm_source=daidotcom"
-  summary: "This post marks the launch of a Digital Identity series here on Digital@DAI. It is a pivotal topic to many of our technical areas: from health service provision, to cash transfers, and voter registration. It is also a topic garnering increased attention with the debate over privacy and data security—and the global refugee crisis reinforcing the opinion that there is “no single factor that affects a person’s ability to share in the gains of global development as much as having an official identity.”
-
-Over the next few months, we will look at some of the issues and opportunities around Digital ID in the development space. Today, we look at informed consent: what it means to the development sector, the difficulty of getting it, and what we can do to make sure we aren’t leaving people behind, while respecting their privacy and the security of their data."
+  date: 2020-03-10
+  link: "https://dai-global-digital.com/closing-the-gender-digital-divide-what-were-doing-to-bring-women-online.html?utm_source=daidotcom"
+  summary: "Digital technologies are revolutionizing the way we access information, financing, and networks—all critical tools for fully participating in the global economy. Yet, these technologies, most notably internet connectivity and mobile phones, are not reaching all people equally. In recognition of International Women’s Day, we are looking at one of the most pressing barriers women face to their economic advancement—the gender digital divide—and how DAI is addressing this problem through the U.S. Agency for International Development’s W-GDP WomenConnect Challenge, implemented by DAI’s Digital Frontiers project. (For the latest information, please read our most recent newsletter)."
   tags:
     - digital acceleration 
     - Digital Inclusion 
-    - Data 
-    - Digital Identity Series 
 
-- title: "Nobody Cares What Tech You Use"
+- title: "What are Cyber Harms and Why Are They Important for Digital Development?"
   pub: "Digital"
-  date: 2019-03-14
-  link: "https://dai-global-digital.com/nobody-cares-what-tech-you-use.html?utm_source=daidotcom"
-  summary: "Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs. object-oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the goal."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-
-- title: "Is Your Data in a Lake or Water Treatment Plant?"
-  pub: "Digital"
-  date: 2019-03-07
-  link: "https://dai-global-digital.com/is-your-data-in-a-lake-or-water-treatment-plant.html?utm_source=daidotcom"
-  summary: "They say to write about what you know. For the first part of my career and through my formal education, my work was all based in the world of water and sanitation. Glamorous stuff—pipes and pumps, fecal coli-forms and treatment options, toilets and activated sludge. It made for great dinner conversation (or so says my wife). At some point, I made the transition from a water guy who worked with a lot of data to a data scientist who knows about water. And as I dive deeper into the analogies and lingo of modern data systems and tools, I lean on my engineering training to make sense of it all."
-  tags:
-    - digital acceleration 
-    - Data 
-
-- title: "Apply Now to Support Digital Tools and Approaches for USAID’s Bureau for Food Security"
-  pub: "Digital"
-  date: 2019-03-06
-  link: "https://dai-global-digital.com/apply-now-to-support-digital-tools-and-approaches-for-usaids-bureau-for-food-security.html?utm_source=daidotcom"
-  summary: "Rapidly changing access to digital tools such as basic mobile phones is changing the landscape for how we can address the challenges to ending global hunger, undernutrition, and extreme poverty. “Despite our collective progress in global food security and nutrition over recent years, a projected 702 million people still live in extreme poverty; nearly 800 million people around the world are chronically undernourished; and 159 million children under five are stunted. Food security is not just an economic and humanitarian issue; it is also a matter of security, as growing concentrations of poverty and hunger leave countries and communities vulnerable to increased instability, conflict, and violence.” (U.S. Government Global Food Security Strategy 2017-2021)."
-  tags:
-    - digital acceleration 
-    - Agriculture 
-
-- title: "KIC Mauritania: Winners Announced!"
-  pub: "Digital"
-  date: 2019-02-28
-  link: "https://dai-global-digital.com/kic-mauritania-winners-announced.html?utm_source=daidotcom"
-  summary: "Since 2016, DAI has provided support to the Kosmos Innovation Center (KIC), which got its start in Ghana and expanded its work Mauritania in 2018. Last week, KIC Mauritania’s 2018 cohort of young entrepreneurs pitched concepts to a panel of judges, competing for more than $85,000 in total seed funding. Unlike KIC Ghana, which focuses solely on support to agritech startups, KIC’s Mauritanian startups have built a wide range of solutions across various sectors, from waste recycling to healthcare. Here’s an overview of this year’s finalists, their business concepts, and the final winners of the competition."
-  tags:
-    - digital acceleration 
-    - Innovation 
-    - Entrepreneurship 
-
-- title: "Building a Culture of Innovation in Cambodia"
-  pub: "Digital"
-  date: 2019-02-26
-  link: "https://dai-global-digital.com/cambodia.html?utm_source=daidotcom"
-  summary: "Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would require new ways of thinking to create new ways for solving problems."
-  tags:
-    - digital acceleration 
-    - Innovation 
-
-- title: "Machine Learning Changes the Business Case for Automated Phishing Attacks"
-  pub: "Digital"
-  date: 2019-02-21
-  link: "https://dai-global-digital.com/machine-learning-changes-the-business-case-for-automated-phishing-attacks.html?utm_source=daidotcom"
-  summary: "Researchers have demonstrated the capability of machine learning to help with everything from saving honeybees and tracking flu vaccine uptake, to aiding in the fight against bioterrorism, and plenty in between.
-
-But machine learning can also be put to less-scrupulous uses just as easily. Social engineering is a type of cyber attack that deceives users into creating security breaches, typically through emails and phone calls (often called ‘phishing’), and the marriage of machine learning with social engineering is poised to be a burgeoning issue in the near future. This issue is a global problem, but developing markets are often at the highest risk for cyberattacks due to the lack of capacity to defend against and track such attacks. As such, they often find themselves as the testing grounds for novel attack methods before they reach more developed markets."
+  date: 2020-03-05
+  link: "https://dai-global-digital.com/cyber-harm.html?utm_source=daidotcom"
+  summary: "Since 2014, the digital landscape has significantly changed globally. First, and most obvious, the number of internet users has nearly doubled from 2.8 billion to more than 4 billion in the last six years. Second, and perhaps a bit less obvious, the number of cyber incidents, such as data breaches or cybercrimes, impacting the average internet user, has grown exponentially. For a while now, I’ve been thinking about what these cybersecurity trends mean for our work in digital development. I recently read an article that helped frame the challenge in a way that is easily digestible, even by the least digitally focused development expert."
   tags:
     - digital acceleration 
     - Cybersecurity 
-    - Machine Learning 
+    - Digital Inclusion 
 
-- title: "Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Goals Align"
+- title: "Using Social Media to Build Community (and Advance Project Goals)—Tips and Tricks from Development Innovations"
   pub: "Digital"
-  date: 2019-02-19
-  link: "https://dai-global-digital.com/lessons-from-the-fall-armyworm-tech-prize-the-importance-of-ensuring-goals-align.html?utm_source=daidotcom"
-  summary: "One of the attractions of awarding prizes in global development is that the prize sponsor shifts the responsibility of achieving results onto competitors. While this approach can inspire a range of creative solutions and spur a nascent market, it also means many finalists will develop something valuable whether they win the award or not. For a prize to be valuable to both sponsors and competitors, sponsors must clearly communicate prize objectives so that competitors have the best chance at success and can assess whether devoting resources to achieve those objectives makes sense for them, win or lose."
+  date: 2020-03-03
+  link: "https://dai-global-digital.com/using-social-media-to-build-community-and-advance-your-projects-goals-tips-and-tricks-from-development-innovations.html?utm_source=daidotcom"
+  summary: "For those of us who follow the tech world, big tech has suffered in the press lately. Even development practitioners have been getting in on the game. However, I like to keep things interesting—so here is a positive story about Facebook helping catalyze a community of innovators in Cambodia on the U.S. Agency for International Development (USAID)-funded Development Innovations (DI) program."
   tags:
     - digital acceleration 
-    - Innovation 
-    - Think Piece 
+    - Human-centered design 
+    - Social Media 
 
-- title: "The (Missing) Digital Principle: Educate the User"
+- title: "What's the Best Architecture for a Management Information System?"
   pub: "Digital"
-  date: 2019-02-14
-  link: "https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html?utm_source=daidotcom"
-  summary: "We in the international development community talk a lot about privacy and security in digital development. We try to think through privacy and security in terms of the data we collect, what we do with it, and even how we address issues of consent around data collection. There’s an entire digital principle about it.
+  date: 2020-02-26
+  link: "https://dai-global-digital.com/the-back-end-of-management-information-systems.html?utm_source=daidotcom"
+  summary: "I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use cases.
 
-In discussions like these, privacy and security are framed entirely in terms of the paradigm of extraction—collecting and gathering data from end users to organizations. This is an entirely valid and important discussion to continue having. However, there’s a discussion we’re not having that’s arguably even more important, and that’s around the privacy and security of users."
+At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this translating: taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is a management information system (MIS) in disparate and un-harmonized contexts."
   tags:
     - digital acceleration 
-    - Think Piece 
-    - Digital Principles 
+    - Data 
+    - Interoperability 
 
-- title: "Working in Agriculture? Using Digital Ag Tools? Please Fill Out This Survey!"
+- title: "What the Food Systems Dashboard Taught Me About Data for Decision Making"
   pub: "Digital"
-  date: 2019-02-07
-  link: "https://dai-global-digital.com/working-in-digital-agriculture-please-full-out-this-survey.html?utm_source=daidotcom"
-  summary: "The U.S. Agency for International Development (USAID) has worked with Missions to integrate digital tools and technologies into Feed the Future activities since 2015, first through the U.S. Global Development Lab-led Digital Development for Feed the Future(D2FTF) initiative and now through the Bureau for Food Security (BFS) (BFS). BFS works with DAI’s Digital Frontiers project, a buy-in mechanism that allows Missions to receive digital solutions for resilience and food security assessments as well as program, project, activity design, and implementation support.
+  date: 2020-02-20
+  link: "https://dai-global-digital.com/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html?utm_source=daidotcom"
+  summary: "Since I began working with DAI’s Center for Digital Acceleration, I have had the chance to explore many of the exciting opportunities presented by our quickly digitizing world. Though I spend most of my time researching how digital tools and service platforms impact economic empowerment and productivity in the agriculture sector, an area that I am eager to explore further is the role of data in policy and decision making."
+  tags:
+    - digital acceleration 
+    - Data 
+    - Data Visualization 
 
-Photo credit: CABI
+- title: "Digital Development in the Western Balkans: Kosovo"
+  pub: "Digital"
+  date: 2020-02-13
+  link: "https://dai-global-digital.com/digital-development-in-the-western-balkans-kosovo.html?utm_source=daidotcom"
+  summary: "Last month, the talented, globe-trotting Chloe Messenger posted the first blog on DAI’s activities in Bosnia and Herzegovina in our six-part series about digital development in the Western Balkans. If you haven’t read it, you should. If you did, you’ll know that the United Kingdom’s Foreign Commonwealth Office (FCO) funded DAI to map digital ecosystems across the Western Balkans, with a focus on identifying areas where the FCO can support the technology sector in closing the digital skill supply-demand gap.
 
-As part of this work, DAI-led Digital Frontiers is conducting a survey of agriculture projects to understand their experiences using digital tools in their work. These findings will be used to inform BFS’s digital strategy. If you are working on an agriculture project, we are very interested in hearing from you.
-
-
-  Please take 10 minutes to fill out our survey.
-
-
-We thank you in advance for taking the time to complete this survey.
-
-Questions? Please email DigitalFrontiers@dai.com."
+Bosnia and Herzegovina, check. Next up—Kosovo!"
   tags:
     - digital acceleration 
     - Digital Insights 
+    - Ecosystem Insights 
+
+- title: "Citizen-Centered Governance App Launches in Kabul"
+  pub: "Digital"
+  date: 2020-02-06
+  link: "https://dai-global-digital.com/citizen-centered-governance-app-launches-in-kabul.html?utm_source=daidotcom"
+  summary: "Note: This follows an earlier post that covers our pre-development human-centered design (HCD) phase.
+
+In recent years, Kabul residents have lamented the hours-long queue to access services at their municipal office. Several weeks ago, Kabul Municipality’s solution was hard to ignore. News of a new citizen engagement app was seen displayed on 21 billboards throughout the city, broadcast on local television and online sites, shared on social media, and proudly showcased by the Mayor of Kabul at a launch event that drew 250 attendees and local media.
+
+Advertisement for the Kabul Municipality mobile app."
+  tags:
+    - digital acceleration 
+    - Human-centered design 
+    - Governance 
+    - Mobile 
+
+- title: "6 Ways Innovation and Entrepreneurship Promote Prosperity"
+  pub: "Digital"
+  date: 2020-01-30
+  link: "https://dai-global-digital.com/6-ways-innovation-and-entrepreneurship-promote-prosperity.html?utm_source=daidotcom"
+  summary: "It is not a coincidence that the most developed nations are also the ones with the highest levels of entrepreneurial activity and innovation. While starting from a minimal level of development helps the latter two, for example, through basic access to capital and institutional stability, the impact of innovation and entrepreneurship on the economy and society more broadly cannot be overstated. In fact, the impact goes beyond usual suspects such as increased productivity, competitiveness, and job creation, and spills over into areas as diverse as regulation, infrastructure, the environment, and social inclusion. Below I provide a (certainly nonexhaustive) list of six such effects. While every issue deserves an article (or even a book!) of its own, these are brief overviews of each point."
+  tags:
+    - digital acceleration 
+    - Innovation 
+
+- title: "Five Trends in Hardware to Watch"
+  pub: "Digital"
+  date: 2020-01-23
+  link: "https://dai-global-digital.com/five-trends-in-hardware-to-watch.html?utm_source=daidotcom"
+  summary: "With the fast pace of technological change, it can be difficult for development practitioners to keep up with tomorrow’s opportunities and risks. Even for more technologically sophisticated members of the community, the focus on technology often overlooks hardware and exclusively focuses on software. As we begin 2020, I wanted to share the five trends in hardware that I think international development stakeholders—implementers, policymakers, civil society, the private sector, and others—should be watching for changes in the near term."
+  tags:
+    - digital acceleration 
+    - Hardware 
+    - Innovation 
+
+- title: "How the Digital Marketplace is Changing the Way We Eat"
+  pub: "Digital"
+  date: 2020-01-16
+  link: "https://dai-global-digital.com/food-and-health-in-a-digital-world.html?utm_source=daidotcom"
+  summary: "It’s the new year and you know what that means…New Year’s resolutions! If you’ve ever uttered the words “New year, new me,” you are far from alone. In 2019, approximately 60 percent of Americans set resolutions and according to a recent survey, the top three were all related to diet and exercise: eating better, exercising more, and losing weight. Sound familiar?
+
+While self-help gurus and exercise enthusiasts may tell us that a little self-discipline is all it takes to achieve these goals, research in the field of health and nutrition has shown that one’s food environment—the physical, social, economic, cultural, and political factors that impact the accessibility, availability, and adequacy of food within a community—can have a larger impact on our health outcomes than we think."
+  tags:
+    - digital acceleration 
+    - digital agriculture 
+    - Innovation 
+
+- title: "Digital Development in the Western Balkans: Bosnia and Herzegovina"
+  pub: "Digital"
+  date: 2020-01-09
+  link: "https://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html?utm_source=daidotcom"
+  summary: "For the past few months, DAI has been working closely with the United Kingdom’s Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, and to identify areas where the FCO can support the technology sector in closing the digital skill supply-demand gap.
+
+Through our research, we found a region that is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities, but that in many cases need investment and support to do so. With each country having its own specific trajectory and different operating environment, we have created a series of blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo, and North Macedonia.
+
+First up, beautiful Bosnia and Herzegovina.
+
+Baščaršija square."
+  tags:
+    - digital acceleration 
+    - Digital Insights 
+    - Ecosystem Insights 
 
