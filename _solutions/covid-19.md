@@ -8,9 +8,15 @@ solutions:
 hero: true
 layout: node
 related: false
-summary: |
-  The novel coronavirus has had a profound public health impact in the developed world and is poised to have an equally if not more devastating effect on developing nations. As travel bans, lockdowns, and stalled trade take an increasing toll, economic spillover effects—and associated social instability—threaten to compound the crisis, especially in some of the world’s more vulnerable and fragile states.
+summary: 'The novel coronavirus has had a profound public health impact in the developed
+  world and is poised to have an equally if not more devastating effect on developing
+  nations. As travel bans, lockdowns, and stalled trade take an increasing toll, economic
+  spillover effects—and associated social instability—threaten to compound the crisis,
+  especially in some of the world’s more vulnerable and fragile states.
+
+'
 ---
+
 # Integrated Solutions for Immediate Response and Long-Term Recovery
 
 After decades progress in the areas of inclusive economic growth and poverty reduction, the advent of COVID-19 threatens to reduce world trade by <a href="https://www.wto.org/english/news_e/pres20_e/pr855_e.htm">as much as 32 percent</a>, according to the World Trade Organization, and could drive <a href="https://www.kcl.ac.uk/news/half-a-billion-people-could-be-pushed-into-poverty-by-COVID-19">500 million people</a> into poverty.
