@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Market Development in the Niger Delta I (MADE)
+title: Nigeria—Market Development in the Niger Delta I (MADE I)
 date: 2016-01-21 22:40:00 Z
 summary: The Nigeria MADE project, in its first phase, supported 150,000 Nigerians
   living in poverty to increase their incomes by an average of 15 percent.
