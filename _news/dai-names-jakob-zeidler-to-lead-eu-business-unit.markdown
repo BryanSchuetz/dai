@@ -3,6 +3,7 @@ title: DAI Names Jakob Zeidler to Lead EU Business Unit
 date: 2020-04-20 09:04:00 Z
 tags:
 - European Union
+is_featured: true
 clients: European Union
 summary: DAI has named Jakob Zeidler to lead its European Union (EU) Business Unit,
   which focuses on delivering development programs for the EU.
@@ -10,6 +11,8 @@ social-image: "/uploads/Photo%20Jakob%20Zeidler-4f0ce9.jpg"
 ---
 
 DAI has named [Jakob Zeidler](https://www.dai.com/who-we-are/our-team/jakob-zeidler) to lead its European Union (EU) Business Unit, which focuses on delivering development programs for the EU.
+
+
 
 Zeidler was previously Head of Implementation at Human Dynamics, the distinguished European development consultancy [acquired last year](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) by DAI. He was instrumental in leading Human Dynamics to its position as the single largest EuropeAid contractor. The integrated DAI and Human Dynamics team now implements a portfolio of more than 50 [EU-funded projects](https://www.dai.com/our-work/the-projects) in 75 countries.
 
