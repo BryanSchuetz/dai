@@ -20,6 +20,8 @@ The main potential of the Lebanese private sector lies in innovative entrepreneu
 
 The EuropeAid project Technical Assistance Facility for the Lebanese private sector, led by DAI’s Human Dynamics, contributes to the expansion and diversification of Lebanon's economy through the modernisation of the private sector and the promotion of trade, entrepreneurship, and innovation by fostering growth and job.
 
+![Devs -- LIVCD Honey pic 2.jpg](/uploads/Devs%20--%20LIVCD%20Honey%20pic%202.jpg)
+
 ### Sample Activities
 
 * Improve entrepreneurs' skills, innovation and ensuring linkages between companies.
