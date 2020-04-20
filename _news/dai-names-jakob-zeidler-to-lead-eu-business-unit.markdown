@@ -12,13 +12,13 @@ social-image: "/uploads/Photo%20Jakob%20Zeidler-4f0ce9.jpg"
 
 DAI has named [Jakob Zeidler](https://www.dai.com/who-we-are/our-team/jakob-zeidler) to lead its European Union (EU) Business Unit, which focuses on delivering development programs for the EU.
 
-
-
 Zeidler was previously Head of Implementation at Human Dynamics, the distinguished European development consultancy [acquired last year](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) by DAI. He was instrumental in leading Human Dynamics to its position as the single largest EuropeAid contractor. The integrated DAI and Human Dynamics team now implements a portfolio of more than 50 [EU-funded projects](https://www.dai.com/our-work/the-projects) in 75 countries.
 
-“Our partners around the world face enormous challenges—from climate change and sustainable energy to democratic governance, poverty reduction, and inclusive economic development,” said Zeidler. “And now they confront additional challenges posed by the COVID-19 crisis. Alongside my colleagues in DAI Global Health and the rest of our unified global development company, I’m committed to mobilizing all our resources in a concerted recovery effort.”  
-
 ![hd team.jpg](/uploads/hd%20team.jpg)`From left, Jakob Zeidler with EU Business Unit colleagues Eric Heldring and Hipolit Gabalda, and Executive Vice President Zan Northrip.`
+
+
+
+“Our partners around the world face enormous challenges—from climate change and sustainable energy to democratic governance, poverty reduction, and inclusive economic development,” said Zeidler. “And now they confront additional challenges posed by the COVID-19 crisis. Alongside my colleagues in DAI Global Health and the rest of our unified global development company, I’m committed to mobilizing all our resources in a concerted recovery effort.”  
 
 As Vice President of the EU Business Unit, Zeidler will oversee roughly 100 staff in DAI’s corporate offices in Austria, Belgium, Bulgaria, Germany, Serbia, Turkey, and the United Kingdom.
 
