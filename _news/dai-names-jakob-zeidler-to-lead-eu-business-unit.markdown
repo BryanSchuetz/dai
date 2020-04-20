@@ -1,6 +1,6 @@
 ---
 title: DAI Names Jakob Zeidler to Lead EU Business Unit
-date: 2020-04-20 13:04:00 Z
+date: 2020-04-20 09:04:00 Z
 tags:
 - European Union
 clients: European Union
