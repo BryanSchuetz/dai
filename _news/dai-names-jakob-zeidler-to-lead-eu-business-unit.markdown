@@ -16,7 +16,7 @@ Zeidler was previously Head of Implementation at Human Dynamics, the distinguish
 
 ![hd team.jpg](/uploads/hd%20team.jpg)`From left, Jakob Zeidler with EU Business Unit colleagues Eric Heldring and Hipolit Gabalda, and Executive Vice President Zan Northrip.`
 
-
+<!--more-->
 
 “Our partners around the world face enormous challenges—from climate change and sustainable energy to democratic governance, poverty reduction, and inclusive economic development,” said Zeidler. “And now they confront additional challenges posed by the COVID-19 crisis. Alongside my colleagues in DAI Global Health and the rest of our unified global development company, I’m committed to mobilizing all our resources in a concerted recovery effort.”  
 
