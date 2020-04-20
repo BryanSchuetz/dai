@@ -1,6 +1,10 @@
 ---
 title: Lebanon—Technical Assistance Facility for the Lebanese Private Sector
 date: 2020-04-20 10:42:00 Z
+summary: The Technical Assistance Facility for the Lebanese private sector, led by
+  DAI’s Human Dynamics, contributes to the expansion and diversification of Lebanon's
+  economy through the modernisation of the private sector and the promotion of trade,
+  entrepreneurship, and innovation by fostering growth and job.
 start: 2020
 end: 2022
 client: European Union
