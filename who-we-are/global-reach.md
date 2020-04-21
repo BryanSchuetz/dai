@@ -11,11 +11,11 @@ hero: true
 layout: node
 ---
 
-## Brussels
+## European Union
 
-DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S., U.K., and other operations.
+DAI has long had a presence in continental Europe. With the [acquisition](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) of the distinguished European development consultancy [Human Dynamics](https://www.humandynamics.org/) in 2019, we achieved the scale and technical breadth that enables us to offer richer services and better value to our customers in the European Union. We also became the largest single provider of development services to the European Commission.
 
-<a href="/who-we-are/global-reach/brussels" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+<a href="/who-we-are/global-reach/europe" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 <hr>
 
 ## Nigeria

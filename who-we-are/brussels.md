@@ -1,6 +1,8 @@
 ---
 title: Global Offices
-permalink: "/who-we-are/global-reach/brussels"
+redirect_from:
+- "/who-we-are/global-reach/brussels"
+permalink: "/who-we-are/global-reach/europe"
 summary: Since 1970, we have worked in more than 150 countries, at any one time we
   are likely to have active projects in 90 or more countries. This worldwide portfolio
   is supported from corporate offices in Belgium, Nigeria, the United Kingdom, and
@@ -9,28 +11,16 @@ hero: true
 layout: node
 ---
 
-# Brussels
+# European Union
 
-DAI has long had a project presence in the European capital and in 2016 we established a formal corporate office, bringing us closer to our clients in the European Commission and elsewhere on the continent. The Brussels team of programme managers and technical staff focuses on business development, project management, technical support, and client relations, and is tightly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S., U.K., and other operations.
+DAI has long had a presence in continental Europe. With the [acquisition](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) of the distinguished European development consultancy [Human Dynamics](https://www.humandynamics.org/) in 2019, we achieved the scale and technical breadth that enables us to offer richer services and better value to our customers in the European Union. We also became the largest single provider of development services to the European Commission. 
 
-The team designs and implements a wide range of development solutions for European Union (EU) institutions in high-priority areas such as food security, resilience, private sector development and trade, energy and climate change, governance, and communications and knowledge management.
+From corporate locations in Ankara (Turkey), Belgrade (Serbia), Brussels (Belgium), Cologne (Germany), London (United Kingdom), Sofia (Bulgaria), and Vienna (Austria), our team of 100+ employees oversees a portfolio of more than 50 EU projects in 75 countries.
 
-In Brussels, we work with the Directorate General for Development Cooperation (DG DEVCO), the Directorate General for European Neighbourhood and Enlargement (DG NEAR), EU Delegations, and the European External Affairs Service to implement long-term projects in the Caribbean and Latin America, Africa, and Asia—ranging from technical assistance to demand-driven advisory services and a wide range of short-term framework contract projects, particularly in EU Neighbourhood and Enlargement countries. 
+Our EU Business Unit covers the whole spectrum of DAI operations, from project delivery, framework contract implementation, and global facilities management to business development, communications, and knowledge management. The EU team is seamlessly integrated into DAI’s global organization, tapping the full range of technical specialists and support staff from our U.S., U.K., and other business units. 
 
-## Our Projects in EU Partner Countries
+This team orchestrates a network of some 800 in-house and external experts currently engaged on short- and long-terms assignments encompassing all EU technical areas, including sustainable economic growth and agriculture, resilience, gender, infrastructure, digitalisation, global health, governance and public administration, social protection, education, climate change, and green energy. 
 
-DAI Brussels is supporting implementation of the [EU Budget Support State-building Programme in the Gambia](https://www.dai.com/our-work/projects/the-gambia-state-building-contract-1-complementary-support-sbc1-cs), with a local team of experts supporting government stakeholders through advice, coaching, and capacity building. Other projects include the [Technical Assistance to the Zimbabwe Agriculture Growth Programme](https://www.dai.com/our-work/projects/zimbabwe-technical-assistance-to-the-zimbabwe-agricultural-growth-programme-zagp), which is strengthening local institutions and building capacity across Zimbabwe’s livestock sector,  and the [Ethiopia Technical Assistance to Support GCCA\+/Mainstreaming Climate-Smart Approaches into the Productive Safety Net Programme](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches), which is supporting the Ministry of Agriculture to mainstream climate-smart initiatives and produce evidence to promote dialogue on climate-sensitive programming and climate financing.
+DAI has extensive experience working with DG DEVCO and NEAR, EEAS, and European development finance institutions such as the European Bank for Reconstruction and Development and the European Investment Bank. 
 
-## Demand-Driven Services, Global Facilities
-
-The [Technical and Advisory Services for Social Transfers for Food Security and Nutrition (ASiST III) Programme](https://www.dai.com/our-work/projects/worldwide-technical-and-advisory-services-social-transfers-asist) and the [Trade, Private Sector Development, and Engagement (TPSD/E) Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility) have very strong bases in Brussels. Through these demand-driven services, DAI provides technical expertise, knowledge management, and communications expertise to thematic units in rural development, food security, and nutrition (DEVCO C1); in private sector and trade (DEVCO C4); and to EU Delegations worldwide. 
-
-## Framework Contracts 
-
-DAI has a [long history](https://dai-global-developments.com/articles/new-generation-of-ec-framework-contracts-offers-agile-programming-for-european-development-aid/) of supporting the EC’s framework contracts, with the first contract dating back more than 20 years. DAI Brussels is currently leading the COM 2015 lot 1 (Evaluation) and is present on all six lots of the SIEA Framework contracts (2018 to 2022), leading on lots 1 (Sustainable Management of Natural Resources and Resilience) and 3 (Human Rights, Democracy, and Peace) and partnering with renowned consulting firms on the other four lots. 
-
-DAI Brussels was officially registered as a separate Belgian legal entity in July 2016. As a global organization, DAI Brussels is a member of Friends of Europe and the European Federation of Management Consultancies Association and a partner of ECDPM.
-
-<a href="/who-we-are/global-reach/brussels/contacts/management" class="primary-block--button contacts-button">
-Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-<a href="/who-we-are/global-reach/brussels/contacts/coordinators" class="primary-block--button contacts-button">Portfolio Coordinator Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+We partner with these and other clients to support the [European Consensus on Development](https://ec.europa.eu/international-partnerships/european-consensus-development_en) and achieve the United Nations Sustainable Development Goals. As a signatory of the UN Global Compact, we report on our contributions to achieving the SDGs in our annual [Communication on Progress](https://www.dai.com/news/dai-makes-its-2019-communication-on-progress-to-the-un-global-compact). As an [employee-owned](https://www.dai.com/who-we-are/employee-owners) and [mission-oriented](https://www.dai.com/who-we-are/mission-and-values) enterprise, we are wholly committed to upholding the highest standard of responsible and sustainable business. 
