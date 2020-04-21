@@ -13,13 +13,13 @@ regions: Middle East and North Africa
 country: Egypt
 ---
 
-As Egypt continues to rebuild its economy it faces many challenges, including regional unrest and a slowdown in exports due to muted global growth. National security remains a concern. Nevertheless, Egypt’s economy has continued to expand, with the World Bank forecasting that Egypt's economy would grow by 5.8 percent this fiscal year. It grew by 5.6 percent in 2018/2019.
+As Egypt continues to rebuild its economy it faces many challenges, including regional unrest and a slowdown in exports due to muted global growth. National security remains a concern. Nevertheless, Egypt’s economy has continued to expand, with the World Bank forecasting that Egypt’s economy would grow by 5.8 percent this fiscal year. It grew by 5.6 percent in 2018–2019.
 
-Up to June 2019, the country has an estimated electricity shortage of 30.4GW, according to the Ministry of Electricity and Renewable Energy. The gap between supply and demand will worsen with the expected increase in GDP in the coming years based on economic growth. Egypt is now searching for solutions. DAI’s Human Dynamics team is creating the Cairo Energy Efficiency Centre to promote the use of renewable energy and spread awareness of energy saving. The team also supports the ongoing reform process of the energy sector by assisting Egypt to achieve sustainable energy and security of supplies.
+Up to June 2019, the country had an estimated electricity shortage of 30.4GW, according to the Ministry of Electricity and Renewable Energy. The gap between supply and demand will worsen with the expected increase in gross domestic product in the coming years based on economic growth. Egypt is now searching for solutions. DAI’s Human Dynamics team is creating the Cairo Energy Efficiency Centre to promote the use of renewable energy and spread awareness of energy saving. The team also supports the ongoing reform process of the energy sector by assisting Egypt to achieve sustainable energy and security of supplies.
 
-Sample Activities
+## Sample Activities
 
-• Reorganise the core functions of the New and Renewable Energy Authority.
+* Re-organise the core functions of the New and Renewable Energy Authority.
 • Modernise the Renewables Energy Framework and strengthen energy modelling.
 • Strengthen the institutional sustainability of the Energy System Model.
 • Contribute to the role of standards and measurements.
