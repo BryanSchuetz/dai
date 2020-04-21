@@ -1,7 +1,6 @@
 ---
 title: Malawi—Justice and Accountability Programme (Chilungamo)
-date: 2020-04-21 18:52:00 Z
-published: false
+date: 2020-04-21 14:52:00 Z
 summary: The EuropeAid-funded Chilungamo programme contributes to increased levels
   of governance, accountability, compliance with the rule of law, and respect, promotion,
   and protection of human rights in Malawi.
