@@ -35,6 +35,7 @@
     font-family: 'Helvetica', arial, sans-serif;
     border: 1px solid #515151;
     border-radius: 3px;
+    width: 400px;
   }
   .legend label{
     font-size: 13px;
@@ -88,16 +89,18 @@
   hr{
     border-bottom: 0px;
   }
+  #explanation{
+    font-size: .8rem;
+    line-height: 1rem;
+  }
 </style>
 <div id='map'></div>
 <div id='legend' style='display:block;'>
-  <strong>DAI Activity Worldwide</strong>
+  <strong>COVID-19: Select DAI Project Activity Worldwide</strong>
   <nav class='legend clearfix'>
-  <p><span style='background:#4B8E2F'></span><label>Countries with active projects</label></p>
-  <p><span style='background:#ACD7A6;'></span><label>Countries with previous projects</label></p>
-  <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to see COVID-19 related project activity</label></p>
+  <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to see related project activity</label></p>
   <hr>
-  <nav id="menu"><p><strong>Toggle Client Layers</strong></p></nav>
+  <p id="explanation">DAI is working for the U.S. Agency for International Development, the U.K. Department for International Development, the European Union, and other donors to support their COVID-19 response strategies by reorienting existing projects and launching new activities from existing programs. </p>
 </div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
@@ -119,9 +122,9 @@ map.on('load', function(){
   // map.setLayoutProperty(['DFID'], 'visibility', 'visible');
   // map.setLayoutProperty(['EC'], 'visibility', 'visible');
 });
-toggleLayer(['USAID'], 'USAID');
-toggleLayer(['DFID'], 'DFID');
-toggleLayer(['EU Donors'], 'European');
+// toggleLayer(['USAID'], 'USAID');
+// toggleLayer(['DFID'], 'DFID');
+// toggleLayer(['EU Donors'], 'European');
 
 function toggleLayer(ids, name) {
     var link = document.createElement('a');
