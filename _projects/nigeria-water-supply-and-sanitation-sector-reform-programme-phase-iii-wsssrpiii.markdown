@@ -2,6 +2,10 @@
 title: Nigeria—Water Supply and Sanitation Sector Reform Programme Phase III (WSSSRPIII)
 date: 2020-04-21 10:48:00 Z
 published: false
+summary: The Water Supply and Sanitation Sector Reform Programme Phase III in Nigeria,
+  led by DAI's Human Dynamics, contributed to poverty reduction, sustainable development,
+  and to the achievement of the water and sanitation-related Millennium Development
+  Goals.
 start: 2014
 end: 2020
 client: European Union
@@ -14,7 +18,7 @@ country: Nigeria
 
 Nigeria is the largest country in Africa, where 2,100 children under the age of 5 die every day from diseases easily preventable with better hygiene, improved sanitation, and access to clean drinking water. It is a paradox that even in states with abundance of water resources, and access to water and sanitation remains very poor. The average water service delivery is only 32 litres per capita per day in urban areas and 10 litres in small towns and rural areas, while the quality is in most cases suspect.
 
-The EuropeAid project Water Supply and Sanitation Sector Reform Programme Phase III (WSSSRPIII), led by DAI's Human Dynamics, worked to solve this problem by contributing to poverty reduction, sustainable development, and to the achievement of the water and sanitation related Millennium Development Goals (MDGS), in the three states covered by the project -Adamawa, Ekiti, and Plateau. Our team provides technical assistance to improve water governance and institutional capacity for increased access to safe, adequate and sustainable water, sanitation and hygiene services in the three Nigerian states. 
+The EuropeAid project Water Supply and Sanitation Sector Reform Programme Phase III (WSSSRPIII), led by DAI's Human Dynamics, worked to solve this problem by contributing to poverty reduction, sustainable development, and to the achievement of the water and sanitation-related Millennium Development Goals, in the three states covered by the project -Adamawa, Ekiti, and Plateau. Our team provides technical assistance to improve water governance and institutional capacity for increased access to safe, adequate and sustainable water, sanitation and hygiene services in the three Nigerian states. 
 
 The territory covered by the project is home to over 10 million people who stand to benefit from this project. The main beneficiaries will be the poor living in densely populated areas, peri-urban areas, small towns and villages with no sustainable access to safe drinking water and basic sanitation.
 
