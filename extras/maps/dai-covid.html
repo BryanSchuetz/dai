@@ -10,9 +10,7 @@
     <style>
     .mapboxgl-popup-content{
       padding-top: 20px;
-    }
-    .mapboxgl-popup{
-      width: 2rem;
+      width: 20rem;
     }
     body { margin:0; padding:0; color: #515151;}
     #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -97,7 +95,7 @@
   <nav class='legend clearfix'>
   <p><span style='background:#4B8E2F'></span><label>Countries with active projects</label></p>
   <p><span style='background:#ACD7A6;'></span><label>Countries with previous projects</label></p>
-  <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to list all active projects</label></p>
+  <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to see COVID-19 related project activity</label></p>
   <hr>
   <nav id="menu"><p><strong>Toggle Client Layers</strong></p></nav>
 </div>
@@ -105,7 +103,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
 var map = new mapboxgl.Map({
     container: 'map', // container id
-    style: 'mapbox://styles/dai/cixhnt69a005c2qqor8eedw42', //stylesheet location
+    style: 'mapbox://styles/dai/ck98uupj009or1ipbpx21cgid', //stylesheet location
     center: [14.50, 20], // starting position
     minZoom: 2,
     maxZoom: 9,
@@ -159,7 +157,7 @@ function toggleLayer(ids, name) {
 
 
 map.on('click', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['update-pins'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['covid-activities'] });
 
     if (features.length) {
         map.flyTo({center: features[0].geometry.coordinates});
@@ -176,7 +174,7 @@ map.on('click', function (e) {
 });
 
 map.on('mousemove', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['update-pins'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['covid-activities'] });
     map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 });
 </script>
