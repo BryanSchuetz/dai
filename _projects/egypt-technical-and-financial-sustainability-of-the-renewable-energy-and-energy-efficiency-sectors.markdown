@@ -20,7 +20,7 @@ As Egypt continues to rebuild its economy it faces many challenges, including re
 
 Up to June 2019, the country had an estimated electricity shortage of 30.4GW, according to the Ministry of Electricity and Renewable Energy. The gap between supply and demand will worsen with the expected increase in gross domestic product in the coming years based on economic growth. Egypt is now searching for solutions. DAI’s Human Dynamics team is creating the Cairo Energy Efficiency Centre to promote the use of renewable energy and spread awareness of energy saving. The team also supports the ongoing reform process of the energy sector by assisting Egypt to achieve sustainable energy and security of supplies.
 
-![egypt.jpg](/uploads/egypt.jpg)`A monitoring devise that measures carbon emissions.`
+![egypt.jpg](/uploads/egypt.jpg)`A monitoring device that measures carbon emissions.`
 
 ## Sample Activities
 
