@@ -19,6 +19,8 @@ country: Malawi
 The Government of Malawi has stated its commitment to contributing to dignified lives for its citizens through an accountable government, informed democratic choice, and the humane and effective delivery of justice.
 
 The EuropeAid-funded Chilungamo (means justice) programme contributes to increased levels of governance, accountability, compliance with the rule of law, and respect, promotion, and protection of human rights in Malawi. The team works to reduce the burden on the criminal justice system; emphasise the need for coordination in the criminal justice system as a whole; reduces prison overcrowding; and increase access to justice for both victims and offenders. 
+
+![Malawi Prisons Office Nov 17.jpg](/uploads/Malawi%20Prisons%20Office%20Nov%2017.jpg)
  
 ## Sample Activities
 
