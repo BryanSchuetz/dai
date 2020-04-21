@@ -17,7 +17,9 @@ One of the key policies which our team will contribute to the delivery of is the
 
 In addition to working with the Academy of Civil Servants, our team also engages the Institute for State and Law, the Institute of Democracy and Human Rights, Turkmen State University, and the Institute of International Relations of the Ministry of Foreign Affairs of Turkmenistan. 
 
-Sample Activities
+![turkmenistan TQA 3.jpg](/uploads/turkmenistan%20TQA%203.jpg)
+
+## Sample Activities
 
 •	Facilitate provision of knowledge of the best European practices in public administration reform and professional training of civil servants 
 •	Train members of the Academy of Civil Servants, including heads of local self-government and heads of ministries and departments to improve their educational programmes and teaching, as well as their administrative policies and processes.
