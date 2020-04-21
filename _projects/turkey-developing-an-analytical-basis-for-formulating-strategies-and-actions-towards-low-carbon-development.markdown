@@ -36,6 +36,6 @@ The European Union (EU)-funded Developing an Analytical Basis for Formulating St
 * Performed legislative and institutional gap analysis to improve low carbon development and climate change mitigation performance.
 * Prepared a barrier and opportunities report identifying financial, institutional, and technological barriers and opportunities for low carbon development.
 * Developed web-based inventory on climate change. 
-* Completed a review of the actions determined in the NCCAP and assessment of the greenhouse gas emission mitigation potentials of NCCAP activities and other plans relating to four sectors in focus. 
+* Completed a review of the actions determined in the NCAAP and assessment of the greenhouse gas emission mitigation potentials of NCAAP activities and other plans relating to four sectors in focus. 
 * Prepared four regulatory impact assessments for the EU climate acquis to be transposed into national legislation. 
 * Organised study visits to Finland and Sweden to showcase examples and highlight the potential of technological innovations on energy, transport, waste, buildings, and agriculture sectors to reduce greenhouse gas emissions. 
