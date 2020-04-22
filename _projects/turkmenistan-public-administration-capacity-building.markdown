@@ -4,7 +4,7 @@ date: 2020-04-21 13:08:00 Z
 summary: 'The Public Administration Capacity Building programme in Turkmenistan supported
   the modernisation of the Turkmen Public Administration in line with European standards. '
 start: 2016
-end: 2020
+end: 2021
 client: European Union
 solutions:
 - Governance
