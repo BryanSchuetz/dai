@@ -30,7 +30,7 @@ The project team uses modern instruments such as GIS and remote sensing for moni
 
 ## Sample Activities
 
-* Map climate hazard and vulnerability together with current use of  climate-smart practices and technologies, to use in planning.
+* Map climate hazard and vulnerability together with current use of climate-smart practices and technologies, to use in planning.
 * Design and roll out a national roadmap for mainstreaming of climate smart procedures, tools, and processes.
 * Strengthen monitoring and evaluation of adaptation, resilience and carbon sequestration.
 * Support linkages of PSNP planning processes with climate and disaster risk reduction and early warning systems.
