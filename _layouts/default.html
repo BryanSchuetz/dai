@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   {% include iehacks.html %}
   {% include head.html %}
-  <body class="{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}" >
+  <body class="{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}" >
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}
@@ -229,7 +229,7 @@
   </div>
 {% endif %}
   {% unless page.careers == true %}
-      <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' %} container-node {% endif %}{% if page.hero %} hero{% endif %}">
+      <div class="container content {% if page.title == 'Home' %} home {% endif %}{% if page.url contains 'news/' or page.url contains 'projects/' or page.url contains 'our-team/' or page.url contains 'leadership/' or page.url contains 'solutions/' or page.url contains 'covid-19' %} container-node {% endif %}{% if page.hero %} hero{% endif %}">
   {% endunless %}
       {% if page.collection == 'news' %}<h1>{{ page.title }}</h1>{% endif %}
         {{ content }}

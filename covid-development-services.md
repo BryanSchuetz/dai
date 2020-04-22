@@ -14,6 +14,7 @@ solutions:
 - COVID-19
 layout: node
 related: false
+featuresection: covid
 ---
 
 # Economic and Social Recovery

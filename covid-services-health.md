@@ -14,6 +14,7 @@ solutions:
 - COVID-19
 layout: node
 related: false
+featuresection: covid
 ---
 
 # Global Health COVID-19 Services
