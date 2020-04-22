@@ -11,6 +11,10 @@ solutions:
 - Environment
 - Natural Resource Management
 - 
+articles:
+- name: Rebuilding Global Nature-based Tourism will Protect Fragile Environments and
+    Economies
+  article_file: https://planet-tracker.org/rebuilding-global-nature-based-tourism-will-protect-fragile-environments-and-economies/
 ---
 
 John Waugh is a specialist in ecosystem management at landscape scales, working on complex problems in development and environment involving multiple systems, organizations, and cultures. He also has extensive experience in protected area management, ocean and marine policy, sustainable finance, benefit sharing mechanisms, and environmental governance. 
