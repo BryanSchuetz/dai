@@ -28,6 +28,7 @@ The European Union (EU)-funded Developing an Analytical Basis for Formulating St
 * Review existing climate change strategies.
 * Prepare regulatory and sectoral impact assessments for the Handbook on the Implementation of EU Climate Change Legislation.
 * Develop analytical basis for possible strategies and actions ensuring low-carbon development in the long term.
+* Assessment of cost and potential of greenhouse gas mitigation actions as well as nonfinancial gains and losses of actions.
 
 ## Select Results
  
@@ -35,7 +36,12 @@ The European Union (EU)-funded Developing an Analytical Basis for Formulating St
 * Completed a demand status report, identifying the sectoral development policies intended to meet the greenhouse gas emissions reduction targets. 
 * Performed legislative and institutional gap analysis to improve low carbon development and climate change mitigation performance.
 * Prepared a barrier and opportunities report identifying financial, institutional, and technological barriers and opportunities for low carbon development.
-* Developed web-based inventory on climate change. 
+* Developed online climate change knowledge portal.
 * Completed a review of the actions determined in the NCAAP and assessment of the greenhouse gas emission mitigation potentials of NCAAP activities and other plans relating to four sectors in focus. 
+* Created assessment of nonfinancial societal gain and loses of greenhouse gas mitigation actions for four sectors.
 * Prepared four regulatory impact assessments for the EU climate acquis to be transposed into national legislation. 
-* Organised study visits to Finland and Sweden to showcase examples and highlight the potential of technological innovations on energy, transport, waste, buildings, and agriculture sectors to reduce greenhouse gas emissions. 
+* Prepared sectoral impact assessments for four sectors.
+* Developed low-medium-high greenhouse gas mitigation scenarios for four sectors.
+* Provided recommendation on long-term greenhouse gas mitigation options in four sectors.
+* Completed training activities to enhance capacity of related institutions.
+* Organised study visits to Finland, Ireland, and Sweden to showcase examples and highlight the potential of technological innovations on energy, transport, waste, buildings, and agriculture sectors to reduce greenhouse gas emissions. 
