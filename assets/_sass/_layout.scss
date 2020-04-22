@@ -106,13 +106,13 @@ body.st-ui-overlay-active{
     }
 }
 .covid .container, .covid .header-inner, .covid .footer-inner, .country .container, .country .header-inner, .country .footer-inner{
-    @include responsive(extra-ultra-wide-screens){
-      @include width(16)
-    }
+  @include responsive(covid-screens){
+    @include width(16)
+  }
 }
 
 .covid .node-inner{
-  @include responsive(ultra-wide-screens){
+  @include responsive(covid-screens){
     @include width(12);
     float: left;
     margin-right: $gutter;
@@ -1613,7 +1613,7 @@ iframe.last-month{
   display: none;
   @include width(4);
   float: right;
-  @include responsive(extra-ultra-wide-screens){
+  @include responsive(covid-screens){
     display: block;
   }
   .covid-list-item{
