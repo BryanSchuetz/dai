@@ -34,3 +34,14 @@ DAI Global Health offers a comprehensive suite of pandemic preparedness and resp
 * **WORKPLACE PROGRAMS**: Leading policy and hygiene interventions to reduce transmission and mitigate impact.
 * **BUSINESS CONTINUITY**: Evaluating risks and vulnerabilities to business operations and supporting contingency planning and mitigation efforts.
 * **GENDER AND SOCIAL INCLUSION**: Addressing gender norms, roles, and other social factors influencing vulnerability to infection, exposure to pathogens, and treatments received, and how these may differ among women and men and other vulnerable populations.
+
+<aside class="covid-aside">
+<p>
+  Across the entire DAI Global Health portfolio, we are mobilizing to offer comprehensive <a href="/covid-19-global-health-solutions-services">COVID-19 services</a>. For information on how DAI can support your COVID-19 health response, contact <a href="/who-we-are/our-team/robert-salerno">Robert Salerno</a>, U.S. Health Security Lead, or <a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey</a>, U.K. Health Security Lead.
+</p>
+
+<div class="covid-contacts">
+<div class="covid-contact one"><img src="/uploads/Rob-47f9d6.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/robert-salerno">Robert Salerno Director, Global Health Security</a></span></div>
+<div class="covid-contact two"><img src="/uploads/Jeff%20Mecaskey%20DAI%20site.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey Team Leader, Tackling Deadly Diseases in Africa Program (TDDAP)</a></span></div>
+</div> 
+</aside>

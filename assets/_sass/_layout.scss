@@ -1597,9 +1597,12 @@ iframe.last-month{
 }
 
 // Covid
-
+.covid-title{
+  margin-top: 2rem;
+}
 .covid-aside{
   padding: 2rem;
+  margin-top:3rem;
   margin-bottom: 2rem;
   @include clearfix;
   .covid-contacts{
@@ -1630,7 +1633,7 @@ iframe.last-month{
 
 .covid-button{
   margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0px;
 }
 .covid-carousel{
   margin-top: 2rem;

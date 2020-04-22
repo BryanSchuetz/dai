@@ -35,8 +35,31 @@
     font-family: 'Helvetica', arial, sans-serif;
     border: 1px solid #515151;
     border-radius: 3px;
-    width: 400px;
+    width: 80%;
   }
+  @media (min-width: 768px){
+    
+    #legend{
+      width: 40%;
+    }
+  
+  }
+
+  @media (min-width: 1025px){
+    
+    #legend{
+      width: 30%;
+    }
+  
+  }
+  @media (min-width: 1280px){
+    
+    #legend{
+      width: 20%;
+    }
+  
+  }
+
   .legend label{
     font-size: 13px;
     color:#808080;
@@ -100,20 +123,20 @@
   <nav class='legend clearfix'>
   <p><img class="legend-marker" src="http://ksdai.org/at-a-glance/pin.png" alt=""><label>Click to see related project activity</label></p>
   <hr>
-  <p id="explanation">DAI is working for the U.S. Agency for International Development, the U.K. Department for International Development, the European Union, and other donors to support their COVID-19 response strategies by reorienting existing projects and launching new activities from existing programs. </p>
+  <p id="explanation">DAI is working for USAID, the U.K. Department for International Development, the EU, and other donors to support their COVID-19 response strategies by reorienting existing projects and launching new activities from existing programs.</p>
 </div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZGFpIiwiYSI6IkZsZ0hqcDAifQ.xT3JeLA3cXqgN3HBwoxgAA';
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/dai/ck98uupj009or1ipbpx21cgid', //stylesheet location
-    center: [14.50, 20], // starting position
+    center: [40.50, 20], // starting position
     minZoom: 2,
     maxZoom: 9,
     zoom: 3, // starting zoom
     pitch: 40,
 });
-// map.scrollZoom.disable();
+map.scrollZoom.disable();
 var nav = new mapboxgl.NavigationControl();
 map.addControl(nav, 'top-left');
 map.on('load', function(){

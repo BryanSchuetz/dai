@@ -23,8 +23,10 @@ After decades progress in the areas of inclusive economic growth and poverty red
 
 DAI is particularly well positioned to meet the demands of this multidimensional crisis. Global in reach—with projects on the ground in almost 100 countries—DAI offers a rare combination of world class expertise in pandemic preparedness and response plus decades of experience in crisis mitigation, economic recovery, and government capacity building and support. Our local platforms in key geographies and our global network of projects are primed to implement rapid-response and longer-term interventions in support of our clients and local partners. 
 
+<iframe src="/extras/maps/dai-covid" frameborder="0" style="width: 114%; position:relative; left: -7%;"></iframe>
+
 ## Global Health Solutions
-{:#global-health-solutions_hash}
+{:#global-health-solutions_hash.covid-title}
 
 For 20 years, DAI has been at the forefront of global efforts to prepare for, respond to, and mitigate pandemic threats. 
 
@@ -91,13 +93,13 @@ On projects such as Women for Health in Nigeria (W4H), the Tackling Deadly Disea
 
 <a href="/covid-19-global-health-solutions-services" target="blank" class="primary-block--button covid-button">Learn more about these services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-<div class="covid-contacts">
+{%- comment -%} <div class="covid-contacts">
 <div class="covid-contact one"><img src="/uploads/Rob-47f9d6.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/robert-salerno">Robert Salerno Director, Global Health Security</a></span></div>
 <div class="covid-contact two"><img src="/uploads/Jeff%20Mecaskey%20DAI%20site.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey Team Leader, Tackling Deadly Diseases in Africa Program (TDDAP)</a></span></div>
-</div>
+</div> {%- endcomment -%}
 </aside>
 ## Economic and Social Recovery
-{:#economic-social-recovery_hash}
+{:#economic-social-recovery_hash.covid-title}
 
 The advent of COVID-19 presents developing countries with daunting challenges—all interconnected—from economic, financial, and fiscal shocks to supply chain, agriculture, and food system disruption, to educational paralysis, challenges in the water and sanitation sector, and so on. 
 
@@ -128,7 +130,7 @@ DAI has also been selected by the U.K. Department for International Development 
 </aside>
 
 ## Digital Resilience
-{:#digital-resilience_hash}
+{:#digital-resilience_hash.covid-title}
 
 Digital technology is increasingly central to economic development and social life across the world, a fact thrown into relief by the COVID-19 pandemic, as governments and organizations turn to physical distancing, impose remote work rules, and leverage data to monitor, adapt, and respond to the crisis.  
 
@@ -139,11 +141,11 @@ But while digital tools offer enormous utility, they also present risks. As gove
 DAI is well positioned to tackle these challenges given our expertise in digital development and cybersecurity, public and private sector development work, and health systems strengthening and pandemic response. Our holistic approach builds resilience in vital systems in the short term, while developing capacity to sustainably address connectivity, cybersecurity, disinformation, and data voids in the long term. These solutions follow a structured path (diagnose-develop-deploy) that can be adapted and scaled to a variety of applications, from public institutions such as ministries, central banks, and state-owned enterprises to smaller organizations such as municipalities, businesses, and NGOs.
 
 <aside class="covid-aside">
-<p>For more on DAI’s digital work on COVID-19, contact <a href="/who-we-are/our-team/krista-baptista">Krista Baptista</a>, Senior Director of DAI’s Centre for Digital Acceleration.</p>
+<p style="margin-bottom: 0px;">For more on DAI’s digital work on COVID-19, contact <a href="/who-we-are/our-team/krista-baptista">Krista Baptista</a>, Senior Director of DAI’s Centre for Digital Acceleration.</p>
 
-<div class="covid-contacts">
+{%- comment -%} <div class="covid-contacts">
 <div class="covid-contact one"><img src="https://assetify-dai.com/experts/BaptistaInner1.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/krista-baptista">Krista Baptista Senior Director, Center for Digital Acceleration</a></span></div>
-</div>
+</div> {%- endcomment -%}
 </aside>
 
 <script>
