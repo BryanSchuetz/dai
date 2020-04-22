@@ -23,7 +23,7 @@ In addition to working with the Academy of Civil Servants, our team also engaged
 ## Sample Activities
 
 * Raise awareness of best European practices in public administration reform and professional training of civil servants. 
-* Train members of the Academy of Civil Servants, including heads of local self-government and heads of ministries and departments, to improve their educational programmes and teaching, as well as their administrative policies and processes.
+* Train members of the Academy of Civil Servants, including heads of local self-government and heads of departments in different ministries and training institutions, to improve their educational programmes and teaching, as well as their administrative policies and processes.
 * Partner with stakeholders to develop new curricula, materials, and train staff in different techniques to implement and embed a demand-driven approach.
 
 ## Select Results
