@@ -86,7 +86,7 @@ For 20 years, DAI has been at the forefront of global efforts to prepare for, re
 
 Today, DAI is ready to provide technical assistance across projects and directly with governments and the private sector to help our clients prepare for, detect, and respond to disease threats; build International Health Regulation capacities; and work at national and subnational levels to ensure governments, civil society, and the private sector can reduce the impact of COVID-19.
 
-On projects such as Women for Health in Nigeria (W4H), the Tackling Deadly Diseases in Africa Programme, and Better Health in Mexico, we are pivoting activities to address COVID-19. In Nigeria, for example, we are adding components on community awareness raising, e-training for midwives and health workers, and psychosocial counseling for medical personnel on the frontline. In Indonesia, the USAID Jalin maternal health program is preparing to help health facilities treat pregnant women and newborns with COVID-19 and to educate health workers on the virus.
+On projects such as [Women for Health in Nigeria](/our-work/projects/nigeria-women-for-health-w4h) (W4H), the [Tackling Deadly Diseases in Africa Programme](/our-work/projects/africa-tackling-deadly-diseases-in-africa-program), and [Better Health in Mexico](/our-work/projects/mexico-prosperity-fund-better-health-programme), we are pivoting activities to address COVID-19. In Nigeria, for example, we are adding components on community awareness raising, e-training for midwives and health workers, and psychosocial counseling for medical personnel on the frontline. In Indonesia, the [USAID Jalin](/our-work/projects/indonesia-jalin) maternal health program is preparing to help health facilities treat pregnant women and newborns with COVID-19 and to educate health workers on the virus.
 
 <aside class="covid-aside">
 <p>
@@ -109,11 +109,11 @@ Because many countries in the developing world lack the social safety nets neces
 
 Across DAI, we are pivoting our teams and re-aligning resources to take on the COVID-19 pandemic, working across all of DAI’s business units to ensure that our response is globally coordinated and informed by the full range of DAI’s technical specialists.
 
-In Egypt, for example, DAI is working through the USAID Macro-Economic Stabilization and Reform Project to help relevant ministries address the economic impact of COVID-19—by assessing the outbreak’s effect on key sectors, forecasting revenue and expenditure to estimate the repercussions of COVID-19 under different scenarios, and refining the government’s fiscal risk management plan.
+In Egypt, for example, DAI is working through the [USAID Macro-Economic Stabilization and Reform Project](/our-work/projects/egypt-macro-economic-stabilization-and-reform-mesr) to help relevant ministries address the economic impact of COVID-19—by assessing the outbreak’s effect on key sectors, forecasting revenue and expenditure to estimate the repercussions of COVID-19 under different scenarios, and refining the government’s fiscal risk management plan.
 
 ![A photograph of a street in Cairo](/uploads/covid-cairo.jpg)
 
-In Somalia, DAI’s EU Somalia Technical Assistance Facility is advising the European Union and other donors on practical responses to COVID-19 through a shock-responsive social assistance system, while analyzing global social assistance responses to extract a contextually appropriate approach for Somalia.
+In Somalia, DAI’s EU [Somalia Technical Assistance Facility](/our-work/projects/somalia-technical-assistance-facility) is advising the European Union and other donors on practical responses to COVID-19 through a shock-responsive social assistance system, while analyzing global social assistance responses to extract a contextually appropriate approach for Somalia.
 
 DAI has also been selected by the U.K. Department for International Development to implement its Social Protection Approaches to COVID-19: Expert Advice Helpline (SPACE), which supports DFID’s Social Protection Team. Without safety nets, poor people are not able to stay at home: they have no sick leave and little cash with which to stockpile food or buy medicine. Poverty fuels the contagion, which in turn deepens poverty. DAI brings to bear years of experience designing cash transfer programs for target groups to maintain living standards and spur demand-led recovery—with a focus in this case on delaying the spread of the virus and supporting a quicker rebound post-pandemic.
 
