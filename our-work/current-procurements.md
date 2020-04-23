@@ -10,7 +10,9 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [RFP-DAI-IGPA-20-001 Iraqi Water Resources Planning Decision Support Tool](/uploads/RFP-DAI-IGPA-BAG-20-001%20Iraqi%20Water%20Resources%20Planning%20Decision%20Support%20Tool-combined.pdf)
+* [RFP-DAI-IGPA-BAG-20-003 Develop preventive maintenance methods for water treatment plant generators and stand by equipment](/uploads/RFP-DAI-IGPA-BAG-20-003%20Develop%20preventive%20maintenance%20methods-Amended%20Readvertised.pdf) 
+* [RFP-DAI-IGPA-20-001 Iraqi Water Resources 
+Planning Decision Support Tool](/uploads/RFP-DAI-IGPA-BAG-20-001%20Iraqi%20Water%20Resources%20Planning%20Decision%20Support%20Tool-combined.pdf)
 * [RFP-CTJ-UZB-20-0001 Sorting and packing line equipment for sweet cherries with electronic sorter](/uploads/RFP-CTJ-UZB-20-0001_equipment_cherry.pdf)
 * [RFP-CTJ-DSH-20-0001 Supply of Heat Treatment Equipment](/uploads/RFP_Supply%20of%20Heat%20Treatment%20Equipment.pdf)
 * [RFP-DAI-IGPA-BAG-20-003 Develop Preventive Maintenance Methods](/uploads/RFP-DAI-IGPA-BAG-20-003%20Develop%20preventive%20maintenance%20methods-combined.pdf)
