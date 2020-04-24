@@ -185,6 +185,7 @@ algolia:
   - _news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.markdown
   - covid-19.md
   - covid-19.html
+  - "/covid-19"
   settings:
     attributeForDistinct: url
     attributesToHighlight: 
