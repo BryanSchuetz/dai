@@ -2,7 +2,6 @@
 title: DAI and COVID-19
 date: 2016-01-22 00:11:00 Z
 permalink: "/covid-19"
-published: false
 social-image: "/uploads/covid-social.png"
 solutions:
 - COVID-19
@@ -120,7 +119,7 @@ DAI has also been selected by the U.K. Department for International Development 
 
 <aside class="covid-aside">
 <p>
-  In addition to its frontline work on global health and safety net responses, DAI is deploying a <a href="/covid-19-economic-and-social-recovery-services">range of development services</a> to assist governments and international donors in the fight against COVID-19. For information on how DAI can support your COVID-19 response, contact <strong>[ XXXX ]</strong>.
+  In addition to its frontline work on global health and safety net responses, DAI is deploying a <a href="/covid-19-economic-and-social-recovery-services">range of development services</a> to assist governments and international donors in the fight against COVID-19.
 </p>
 
 <a href="/covid-19-economic-and-social-recovery-services" target="blank" class="primary-block--button covid-button">Learn more about these services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

@@ -1,7 +1,6 @@
 ---
 title: DAI and COVID-19
 permalink: "/covid-19-global-health-solutions-services"
-published: false
 summary: 'The novel coronavirus has had a profound public health impact in the developed
   world and is poised to have an equally if not more devastating effect on developing
   nations. As travel bans, lockdowns, and stalled trade take an increasing toll, economic
@@ -38,7 +37,7 @@ DAI Global Health offers a comprehensive suite of pandemic preparedness and resp
 
 <aside class="covid-aside">
 <p>
-  Across the entire DAI Global Health portfolio, we are mobilizing to offer comprehensive <a href="/covid-19-global-health-solutions-services">COVID-19 services</a>. For information on how DAI can support your COVID-19 health response, contact <a href="/who-we-are/our-team/robert-salerno">Robert Salerno</a>, U.S. Health Security Lead, or <a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey</a>, U.K. Health Security Lead.
+  Across the entire DAI Global Health portfolio, we are mobilizing to offer comprehensive COVID-19 services. For information on how DAI can support your COVID-19 health response, contact <a href="/who-we-are/our-team/robert-salerno">Robert Salerno</a>, U.S. Health Security Lead, or <a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey</a>, U.K. Health Security Lead.
 </p>
 
 <div class="covid-contacts">
