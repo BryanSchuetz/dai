@@ -142,7 +142,7 @@ But while digital tools offer enormous utility, they also present risks. As gove
 DAI is well positioned to tackle these challenges given our expertise in digital development and cybersecurity, public and private sector development work, and health systems strengthening and pandemic response. Our holistic approach builds resilience in vital systems in the short term, while developing capacity to sustainably address connectivity, cybersecurity, disinformation, and data voids in the long term. These solutions follow a structured path (diagnose-develop-deploy) that can be adapted and scaled to a variety of applications, from public institutions such as ministries, central banks, and state-owned enterprises to smaller organizations such as municipalities, businesses, and NGOs.
 
 <aside class="covid-aside">
-<p style="margin-bottom: 0px;">For more on DAI’s digital work on COVID-19, contact <a href="/who-we-are/our-team/krista-baptista">Krista Baptista</a>, Senior Director of DAI’s Centre for Digital Acceleration.</p>
+<p style="margin-bottom: 0px;">For more on DAI’s digital work on COVID-19, contact <a href="/who-we-are/our-team/krista-baptista">Krista Baptista</a>, Senior Director of DAI’s Center for Digital Acceleration.</p>
 
 {%- comment -%} <div class="covid-contacts">
 <div class="covid-contact one"><img src="https://assetify-dai.com/experts/BaptistaInner1.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/krista-baptista">Krista Baptista Senior Director, Center for Digital Acceleration</a></span></div>
