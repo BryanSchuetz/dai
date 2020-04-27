@@ -11,6 +11,8 @@ client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management
 - Governance
+- Public Financial Management
+- Public Administration, Civil Service Reform, and Human Resources Management
 regions: Middle East and North Africa
 country: Libya
 ---
