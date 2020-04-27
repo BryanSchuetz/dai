@@ -22,7 +22,7 @@ Taqarib strengthens the foundation of a more unified Libyan state by empowering 
 
 ## Sample Activities
 
-* Designs and executes strategies for service delivery at the municipal level. 
+* Design and execute strategies for service delivery at the municipal level. 
 * Use a Municipal Performance Index to gauge the administrative capacity of local governments, quantify their delivery of essential services and infrastructure, as well as monitor the corresponding public perceptions of governments’ effectiveness and legitimacy.
 * Engage local communities and community organizations to ensure that citizens have a voice in prioritizing and monitoring the expenditure of public resources.
 * Partner with community organizations to generate public support local revenue generation, public-private partnerships, city-to-city collaboration, and other tools that are important for achieving long-term, sustainable development.
