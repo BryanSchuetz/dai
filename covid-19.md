@@ -119,15 +119,11 @@ DAI has also been selected by the U.K. Department for International Development 
 
 <aside class="covid-aside">
 <p>
-  In addition to its frontline work on global health and safety net responses, DAI is deploying a <a href="/covid-19-economic-and-social-recovery-services">range of development services</a> to assist governments and international donors in the fight against COVID-19. For information on how DAI can support your COVID-19 response, contact <a href="https://www.dai.com/who-we-are/our-team/till-bruett">Till Bruett, Global Practice Lead, Financial Services and Investment</a>
+  In addition to its frontline work on global health and safety net responses, DAI is deploying a <a href="/covid-19-economic-and-social-recovery-services">range of development services</a> to assist governments and international donors in the fight against COVID-19. For information on how DAI can support your COVID-19 response, contact <a href="/who-we-are/our-team/till-bruett">Till Bruett</a>, Global Practice Lead, Financial Services and Investment.
 </p>
 
 <a href="/covid-19-economic-and-social-recovery-services" target="blank" class="primary-block--button covid-button">Learn more about these services <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
-{%- comment -%} <div class="covid-contacts">
-<div class="covid-contact one"><img src="/uploads/Rob-47f9d6.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/robert-salerno">Robert Salerno Director, Global Health Security</a></span></div>
-<div class="covid-contact two"><img src="/uploads/Jeff%20Mecaskey%20DAI%20site.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey Team Leader, Tackling Deadly Diseases in Africa Program (TDDAP)</a></span></div>
-</div> {%- endcomment -%}
 </aside>
 
 ## Digital Resilience

@@ -30,3 +30,11 @@ DAI offers a comprehensive suite of economic and social recovery services to sup
 * **GENDER AND SOCIAL INCLUSION**: Addressing gender norms, roles, and other social factors influencing vulnerability to infection, exposure to pathogens, and treatments received, and how these may differ among women and men and other vulnerable populations.
 
 
+<aside class="covid-aside">
+  <p>In addition to its frontline work on global health and safety net responses, DAI is deploying a range of development services to assist governments and international donors in the fight against COVID-19. For information on how DAI can support your COVID-19 response, contact <a href="/who-we-are/our-team/till-bruett">Till Bruett</a>, Global Practice Lead, Financial Services and Investment.</p>
+  <div class="covid-contacts">
+    <div class="covid-contact one">
+      <img src="/uploads/Till%20Bruett%20headshot.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/till-bruett">Till Bruett, Global Practice Lead, Financial Services and Investment</a></span>
+    </div>
+  </div>
+</aside>
