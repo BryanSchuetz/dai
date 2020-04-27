@@ -1,0 +1,16 @@
+---
+title: Ayesha Rasheed
+date: 2020-04-27 17:10:00 Z
+published: false
+lastname: Rasheed
+summary: 'Dr. Ayesha Rasheed is a public health physician with more than 20 years
+  of donor-funded, health program management experience, including oversight of field
+  epidemiology and laboratory training programs. '
+solutions:
+- Global Health
+- Global Health Security and Pandemic Preparedness
+---
+
+Dr. Ayesha Rasheed is a public health physician with more than 20 years of donor-funded, health program management experience, including oversight of field epidemiology and laboratory training programs. She is an expert facilitator and collaborates with stakeholders and governments on program development and technical support, and she exemplifies a long history of convening and leading committees and ministries, such as the Global Alliance for Vaccines and Immunization Interagency Coordinating Committee and the Pakistan Country Coordinating Mechanism. She has worked closely with health, finance, and planning sectors to define strategic priorities and sector plans, and to assess the impact of interventions in real time as well as building strong partnerships with government counterparts and key stakeholders at the national and provincial levels. 
+
+Dr. Rasheed has extensive experience in programmatic and organizational risk management for bilateral and multilateral donors including the U.K.Department for International Development, the U.S. Agency for International Development, and the United Nations. She is well versed in government regulations and requirements for acquisition and assistance agreements, in addition to contractual and grant agreements with other donors, including World Bank and Global Fund.
