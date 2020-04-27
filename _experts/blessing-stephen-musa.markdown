@@ -7,6 +7,11 @@ summary: Blessing Stephen Musa brings vast experience in program management, hea
   systems, strategic leadership, and people management. Her breadth of knowledge includes
   pharmacy, public administration, management, and health economics.
 job-title: Deputy Team Leader, Fleming Fund Project, Nigeria
+solutions:
+- Global Health
+- Global Health Security and Pandemic Preparedness
+regions:
+- Sub-Saharan Africa
 ---
 
 Blessing Stephen Musa brings vast experience in program management, health systems, strategic leadership, and people management. Her breadth of knowledge includes pharmacy, public administration, management, and health economics, which coupled with her 10 years in the health development sector in Nigeria, has equipped her with skills and relevant experiences needed for her current position.
