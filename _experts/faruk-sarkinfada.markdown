@@ -3,12 +3,22 @@ title: Faruk Sarkinfada
 date: 2020-04-27 17:14:00 Z
 published: false
 lastname: Sarkinfada
+summary: 'A public health laboratory and quality assurance specialist with 25 years’
+  experience on teaching, research, administrative, and personnel management, Faruk
+  Sarkinfada has an in-depth knowledge of laboratory and health care systems as well
+  as the policies and regulations that govern their operation in low- and middle-income
+  countries. '
 job-title: 'Team Leader, Fleming Fund, Nigeria '
+solutions:
+- Global Health
+- Global Health Security and Pandemic Preparedness
+regions:
+- Sub-Saharan Africa
 ---
 
-A public health laboratory and quality assurance specialist with 25 years’ experience on teaching, research, administrative, and personnel management. Faruk Sarkinfada has an in-depth knowledge of laboratory and health care system as well as the policies and regulations that govern their operation in Low- and Middle-Income Countries (LMIC). He has a vast experience in modeling of quality assurance systems and setting standards for national health surveillance systems and laboratory services. He was a contributing author on the Liverpool School of Tropical Medicine (LSTM) led Fleming Fund report assessing surveillance capacity for antimicrobial resistance (AMR) in Nigeria, Ghana, Malawi and Nepal (2016). 
+A public health laboratory and quality assurance specialist with 25 years’ experience on teaching, research, administrative, and personnel management, Faruk Sarkinfada has an in-depth knowledge of laboratory and health care systems as well as the policies and regulations that govern their operation in low- and middle-income countries. He has a vast experience in modeling of quality assurance systems and setting standards for national health surveillance systems and laboratory services. He was a contributing author on the Liverpool School of Tropical Medicine-led Fleming Fund 2016 report assessing surveillance capacity for antimicrobial resistance in Nigeria, Ghana, Malawi, and Nepal. 
 
-A Professor of medical microbiology, Faruk served as the national laboratory consultant to Nigeria’s Tuberculosis Control Programme in the Global Fund TB project and to Malaria Control in the SuNMaP’s strengthening capacity of laboratory networks for quality-assured case detection. He contributed to the design and implementation of the national Drug Resistant Tuberculosis (DR-TB) prevalence survey in Nigeria.  He is a frequent adviser to federal and state level health managers on laboratory capacity strengthening and quality assurance projects. He participated in the development of Nigeria’s National Medical Laboratory Strategic Plan (NMLSt). His experience in laboratory and community-based projects has focused on tuberculosis, malaria, and other infectious diseases. Faruk leads our Fleming Fund Country Grant to fight antimicrobial resistance in Nigeria. 
+A professor of medical microbiology, Faruk served as the national laboratory consultant to Nigeria’s Tuberculosis Control Programme in the Global Fund TB project and to Malaria Control in the [Support to National Malaria Elimination Programme](https://www.dai.com/our-work/projects/nigeria-support-to-national-malaria-elimination-programme-sunmap) (SuNMaP)’s strengthening capacity of laboratory networks for quality-assured case detection. He contributed to the design and implementation of the national Drug Resistant Tuberculosis prevalence survey in Nigeria. He is a frequent adviser to federal and state level health managers on laboratory capacity strengthening and quality assurance projects. He participated in the development of Nigeria’s National Medical Laboratory Strategic Plan (NMLSt). His experience in laboratory and community-based projects has focused on tuberculosis, malaria, and other infectious diseases. Faruk leads our Fleming Fund Country Grant to fight antimicrobial resistance in Nigeria. 
 
 * Ph.D., international public health, Liverpool School of Tropical Medicine, United Kingdom.
 * AMLCN Bacteriology, University of Calabar, Nigeria
