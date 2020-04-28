@@ -20,6 +20,8 @@ Among the first acts of Libya’s revolutionary government in November 2011 was 
 
 Taqarib strengthens the foundation of a more unified Libyan state by empowering local governments, reinforcing community bonds, and improving people’s standard of living. Taqarib helps citizens engage in public dialogue, prioritize public resource allocations, and understand the roles and responsibilities of local government. The project links enhancements to service delivery at the municipal level with national efforts to improve the execution of decentralization policy, and with efforts to undertake evidence-based reform. 
 
+![Libya.jpg](/uploads/Libya.jpg)
+
 ## Sample Activities
 
 * Design and execute strategies for service delivery at the municipal level. 
