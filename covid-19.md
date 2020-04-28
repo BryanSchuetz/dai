@@ -6,7 +6,6 @@ social-image: "/uploads/covid-social.png"
 solutions:
 - COVID-19
 hero: true
-layout: node
 related: false
 featuresection: covid
 summary: 'The novel coronavirus has had a profound public health impact in the developed
@@ -16,6 +15,7 @@ summary: 'The novel coronavirus has had a profound public health impact in the d
   especially in some of the world’s more vulnerable and fragile states.
 
 '
+layout: node
 ---
 
 # Integrated Solutions for Immediate Response and Long-Term Recovery
@@ -83,7 +83,7 @@ For 20 years, DAI has been at the forefront of global efforts to prepare for, re
     </div>
 </div>
 
-Today, DAI is ready to provide technical assistance across projects and directly with governments and the private sector to help our clients prepare for, detect, and respond to disease threats; build International Health Regulation capacities; and work at national and subnational levels to ensure governments, civil society, and the private sector can reduce the impact of COVID-19.
+Today, DAI's [global health team](/who-we-are/the-team?filter=global-health ) is ready to provide technical assistance across projects and directly with governments and the private sector to help our clients prepare for, detect, and respond to disease threats; build International Health Regulation capacities; and work at national and subnational levels to ensure governments, civil society, and the private sector can reduce the impact of COVID-19.
 
 On projects such as [Women for Health in Nigeria](/our-work/projects/nigeria-women-for-health-w4h) (W4H), the [Tackling Deadly Diseases in Africa Programme](/our-work/projects/africa-tackling-deadly-diseases-in-africa-program), and [Better Health in Mexico](/our-work/projects/mexico-prosperity-fund-better-health-programme), we are pivoting activities to address COVID-19. In Nigeria, for example, we are adding components on community awareness raising, e-training for midwives and health workers, and psychosocial counseling for medical personnel on the frontline. In Indonesia, the [USAID Jalin](/our-work/projects/indonesia-jalin) maternal health program is preparing to help health facilities treat pregnant women and newborns with COVID-19 and to educate health workers on the virus.
 
