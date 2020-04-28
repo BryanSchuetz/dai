@@ -1,12 +1,12 @@
 ---
 title: Nitish Debnath
 date: 2020-04-27 13:44:00 Z
-published: false
 lastname: Debnath
 summary: Dr. Nitish C. Debnath  pioneered the One Health movement in Bangladesh in
   2007 jointly with veterinarians, physicians and environmental scientists, and launched
   a new professional organization called One Health Bangladesh.
 job-title: 'Team Leader, Fleming Fund Project, Bangladesh '
+image: "/uploads/NitishDebnath%20pic.jpg"
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
