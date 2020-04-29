@@ -34,3 +34,4 @@ The project team uses modern instruments such as GIS and remote sensing for moni
 * Design and roll out a national roadmap for mainstreaming of climate smart procedures, tools, and processes.
 * Strengthen monitoring and evaluation of adaptation, resilience and carbon sequestration.
 * Support linkages of PSNP planning processes with climate and disaster risk reduction and early warning systems.
+* Perform GIS mapping and codification of watersheds and micro watersheds in 22 focus districts.
