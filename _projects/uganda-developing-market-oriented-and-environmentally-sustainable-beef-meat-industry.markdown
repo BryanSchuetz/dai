@@ -17,6 +17,8 @@ country: Uganda
 This European Union (EU)-funded programme, led by DAI’s Human Dynamics, contributes to a competitive, profitable, job-intensive, gender-responsive, and environmentally sustainable agricultural sector in Uganda. Our team uses a value chain approach in targeted areas to boost the overall performance—such as production volume, quality, value addition, increased employment, and environmental sustainability—of the meat sector.
 
 We bring together public and private players with smallholder farmers and beef-related agriculture firms to promote an environmentally sustainable, climate-resilient, low-emission, local, and regional meat industry. 
+
+![1Uganda Beef- Field Visit at Kisombwa Dairy Farm (9).jpg](/uploads/1Uganda%20Beef-%20Field%20Visit%20at%20Kisombwa%20Dairy%20Farm%20(9).jpg)
  
 ## Sample Activities
 
