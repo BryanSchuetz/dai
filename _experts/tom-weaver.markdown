@@ -4,7 +4,8 @@ date: 2020-04-27 16:47:00 Z
 lastname: Weaver
 summary: Tom Weaver has worked on livestock development and One Health projects in
   the Asia-Pacific region for more than 12 years.
-job-title: Deputy Team Leader, Fleming Fund Country Grant to Indonesia
+job-title: Deputy Team Leader, Fleming Fund, Indonesia
+image: "/uploads/Tom%20Weaver%20copy.png"
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
