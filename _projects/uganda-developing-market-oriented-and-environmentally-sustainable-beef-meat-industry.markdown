@@ -19,15 +19,14 @@ We bring together public and private players with smallholder farmers and beef-r
 ## Sample Activities
 
 * Review and update all policy, legal, regulatory, and institutional frameworks, including standards, guidelines, and best practices along the beef value chain, with a particular focus on including women and mitigating environmental impact.
-• Help formulate producer groups that can work closely to raise standards of beef production that is environmentally sustainable.
-• Improve marketing and transportation of beef.
+* Help formulate producer groups that can work closely to raise standards of beef production that is environmentally sustainable.
+* Improve marketing and transportation of beef.
 
-Select Results
+## Select Results
 
-•	Delivered six Regulatory Impact Assessments with suggested actions and amendments in national regulations on Animal feeds, Veterinary Practioners, Meat sector development, Livestock Identification and traceability, Animal breeding and Animal Disease control. The assessments are presented to the Cabinet Secretariat and the
-Ministry of Agriculture, Animal Industry and Fisheries for feedback and confirmation
-•	Took an active part in the review of the Agricultural Sector Support Plan (ASSP) and the development of a sectorial Plan for the beef industry in Uganda.
-•	Benchmarking trip to Botswana conducted with government representatives and participants from the beef industry in Uganda to learn about sustainable business planning, vet services, vaccine production and commercial farm operations provided by local Meat Commission and Community livestock holdings 
+* Delivered six Regulatory Impact Assessments with suggested actions and amendments in national regulations on animal feeds, veterinary practitioners, meat sector development, livestock identification and traceability, animal breeding, and animal disease control. 
+* Took an active part in the review of the Agricultural Sector Support Plan and the development of a sectorial plan for the beef industry in Uganda.
+* Benchmarking trip to Botswana conducted with government representatives and participants from the beef industry in Uganda to learn about sustainable business planning, vet services, vaccine production and commercial farm operations provided by local Meat Commission and Community livestock holdings 
 •	Provided technical assistance for the evaluation of bidders of the Sanga slaughterhouse in Uganda. The new facility, compatible with sustainable farming standards was launched, and the tender awarded by NAO to the selected contractor (Rhino United Agencies Limited)  
 •	Service contract for the development of a Residual Monitoring Plan for beef, goat and sheep meat completed and presented at a stakeholder workshop with beneficiaries from Ugandan Government 
 •	Technical support provided in developing environmentally sustainable criteria and specifications for the purchase of bulls in Kenya for breeding purposes
