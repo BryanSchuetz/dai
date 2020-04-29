@@ -1,7 +1,6 @@
 ---
 title: Tom Weaver
 date: 2020-04-27 16:47:00 Z
-published: false
 lastname: Weaver
 summary: Tom Weaver has worked on livestock development and One Health projects in
   the Asia-Pacific region for more than 12 years.
