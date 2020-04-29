@@ -19,6 +19,8 @@ Ukraine’s financial sector is bank-centric, highly fragmented, and largely non
 
 Through EU-FINREG, DAI’s Human Dynamics is assisting the Ukrainian authorities in strengthening the regulatory framework and supervision practices for securities and investment business, insurance, pensions, nonbank credit institutions, nonbank payment institutions, and other nonbank financial services to help build up a sound regulatory environment for nonbank financial services. Regulation of nonbank financial services, such as mobilization of capital for small and medium enterprises, corporate finance, vehicle and home loans, insurance, or wealth management, is a prerequisite for fair and efficient markets, protect consumers, and promote market development, thereby contributing to sustained economic growth.
 
+![Ukraine-FINREG-events and trainings (4).JPG](/uploads/Ukraine-FINREG-events%20and%20trainings%20(4).JPG)
+
 ## Sample Activities
 
 * Enable the approximation of Ukraine to European Union standards and best practices in a broad range of financial services, including securities and investment business, fund management, insurance and nonstate pension funds provision, leasing and factoring services, nonbank credit institutions, and payment services.
