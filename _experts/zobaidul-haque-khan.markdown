@@ -1,11 +1,11 @@
 ---
 title: Zobaidul Haque Khan
 date: 2020-04-27 17:05:00 Z
-published: false
 lastname: Khan
 summary: 'Zobaidul Haque Khan is a medical doctor turned epidemiologist with 39 years
   of professional experience, including more than 21 years in the public health sector. '
-job-title: Deputy Team Leader, Fleming Fund Bangladesh Project
+job-title: Deputy Team Leader, Fleming Fund, Bangladesh
+image: "/uploads/Zobaidul%20Haque%20Khan.jpg"
 solutions:
 - Global Health Security and Pandemic Preparedness
 - Global Health
