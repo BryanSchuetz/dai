@@ -23,10 +23,10 @@ Following on the original [Africa Lead project](/our-work/projects/africa-leader
 
 From 2010 to 2013, Africa Lead trained more than 1,800 food security leaders, conducted instructive assessments of many of the continent's agriculture institutions, and curated hundreds of short courses from 192 colleges and institutions into a single database, among other achievements. Africa Lead II worked with individual countries, regions, and many of these same "Champions for Change" to develop long-term, African-led activities to increase agricultural productivity and food security. 
 
-By 2019, the project reached 26,000 emerging African agriculture leaders and supported 6,000 institutions from 42 countries.
+[By 2019](https://www.africaleadftf.org/africa-lead-final-report/), the project reached 26,000 emerging African agriculture leaders and supported 6,000 institutions from 42 countries. [Click here](https://www.africaleadftf.org/africa-lead-final-report/) for more results.
 
 ![Africa-Lead-project-page.jpg](/uploads/Africa-Lead-project-page.jpg)
-`Closing ceremony for Champions for Change short course for university students, January 2017 in Accra, Ghana.`
+`Closing ceremony for Champions for Change short course for university students in Accra, Ghana, January 2017.`
 
 ### Sample Activities
 
