@@ -32,8 +32,13 @@ During its first year, the project initiated the process of transforming Afghani
 ### Select Results
 
 * Sponsored the first [Afghanistan National Young Innovators in Agriculture Competition](https://www.usaid.gov/afghanistan/news-information/press-releases/Oct-29-2019-USAID-Supports-Young-Innovators-Tackling-Agriculture-Problems).
-* Established partnerships with 83 agribusinesses.
-* Facilitated $6 million in exports.
-* Assisted in the investment of $7 million.
-* Enabled firms in accessing $4.5 million finance.
-* Assisted 17,500 farmers (30 percent women and 35 percent young people) to access modern production and quality-enhancing technologies.
+* Established partnerships with 99 agribusinesses.
+* Facilitated $6.5 million in exports.
+* Assisted in the investment of $7.5 million.
+* Enabled firms in accessing $5 million in finance.
+* Assisted 19,500 farmers (30 percent women and 35 percent young people) to access modern production and quality-enhancing technologies.
+* Facilitated an 18 percent increase in household income.
+* Facilitated a 24 percent increase in production of key products.
+* Trained 6,322 individuals.
+* Helped 96 firms to benefit directly from project activities.
+* Helped create 1,075 new full-time employment jobs.
