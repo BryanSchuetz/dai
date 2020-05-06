@@ -2,14 +2,12 @@
 title: Vietnam—Technical Assistance for the ARISE+ Programme
 date: 2020-05-06 13:32:00 Z
 published: false
+start: 2019
+end: 2023
+client: European Union
+regions: Asia and the Pacific
+country: Vietnam
 ---
-
- 
-Client: European Union
-Duration: 2019-2023
-Region: XXXX
-Country: Vietnam
-Solutions: XXXX
 
 In the context of global economic uncertainties, Vietnam has firmly maintained its position among the fastest-growing countries in the world. In 2018, Vietnam recorded a growth of 7.1%; the country’s highest growth rate in 10 years since the world economic crisis in 2008. In 2019, WEF’s Global Competitiveness Index (GCI), Vietnam ranked 67th out of 141 countries, moving up 10 places in one year. At the same time, the country ranks 68th among 190 economies in the World Bank’s Ease of Doing Business, moving up 14 places in two years.
 The EuropeAid project Technical Assistance for the ARISE+ Programme in Vietnam, led by DAI’s Human Dynamics, aims to provide technical assistance to the Vietnamese Government to maximise Vietnam’s benefits from preferential trade regimes, with a focus on regional agreements and the EU-Vietnam Free Trade Agreement (FTA) and Investment Protection Agreement (IPA). We are working to enhance compliance with the Agreement on Sanitary and Phytosanitary Measures to improve the safety of Vietnam agro-food products and facilitate exports to the EU; put in place a National Quality Infrastructure program that boosts competitiveness and addresses technical barriers to trade; and comprehensively prepare the country for the implementation of the EU-Vietnam FTA (EVFTA) and Investment Protection Agreement (IPA) through a rapid response facility.
