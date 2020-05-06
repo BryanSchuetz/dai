@@ -1,7 +1,6 @@
 ---
 title: Ukraine—Support in Approximation of the EU Environmental Acquis
 date: 2020-05-06 13:05:00 Z
-published: false
 summary: 'Implementation of EU legislation in Ukraine environmental protection occurs
   within eight sectors and is governed by 29 sources of law establishing common rules
   and standards to be reflected in domestic law. This project addresses the relevant
@@ -22,14 +21,15 @@ On the other hand, the environmental policy of Ukraine aims at stabilizing and i
 
 Hence, Ukraine’s ongoing reform agenda is fully aligned with and facilitated by the Association Agreement, which provides for gradual approximation of Ukrainian legislation in accordance with European Union (EU) environmental rules, policies, standards, and development of sector strategies on air, water quality, waste management, and industrial pollution. 
 
-The signing of the Association Agreement between Ukraine and the European Union and its Member States opened up new implementation opportunities to environmental standards. Implementation of EU legislation in Ukraine environmental protection occurs within eight sectors and is governed by 29 sources of law (Directives and the EU Regulations) establishing common rules and standards to be reflected in domestic law.
+The signing of the Association Agreement between Ukraine and the European Union and its member states opened up new implementation opportunities to environmental standards. Implementation of EU legislation in Ukraine environmental protection occurs within eight sectors and is governed by 29 sources of law (Directives and the EU Regulations) establishing common rules and standards to be reflected in domestic law.
 
-The EuropeAid project, Support to Ukraine in Approximation of the EU Environmental Acquis (air quality and waste management), led by DAI’s Human Dynamics, aims to effectively raise Ukrainian public authorities' capacities in designing and implementing key reforms stemming from the Association Agreement and DCFTA, including the capacity to carry out legal approximation process with the EU.
+The EuropeAid project, Support to Ukraine in Approximation of the EU Environmental Acquis (air quality and waste management), led by DAI’s Human Dynamics, aims to effectively raise Ukrainian public authorities' capacities in designing and implementing key reforms stemming from the Association Agreement and the Deep and Comprehensive Free Trade Area, including the capacity to carry out legal approximation process with the EU.
 
 ![140198 Ukraine Environmental Acquis Website Project Profile PICTURE.jpg](/uploads/140198%20Ukraine%20Environmental%20Acquis%20Website%20Project%20Profile%20PICTURE.jpg)
 
 ## Sample Activities
 
-* Further assist in the transposition and implementation of Annex XXX to Chapter 6 (Air Quality, Waste management) of the EU-Ukraine Association Agreement
-•	Further raise the institutional capacity of authorities in charge (the Ministry of Ecology and Natural Resources; Ministry for Regional Development, Building and Housing of Ukraine) and public awareness on environment issues
-•	Support implementation of the National Waste Management Strategy
+* Assist in the transposition and implementation of air quality and waste management mandates of the EU-Ukraine Association Agreement.
+* Improve the institutional capacity of authorities at the Ministry of Ecology and Natural Resources, the Ministry for Regional Development, Building, and Housing of Ukraine.
+* Raise public awareness of environmental issues.
+* Support implementation of the National Waste Management Strategy.
