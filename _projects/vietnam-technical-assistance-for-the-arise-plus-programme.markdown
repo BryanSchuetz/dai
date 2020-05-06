@@ -9,6 +9,9 @@ summary: 'The EuropeAid project Technical Assistance for the ARISE+ Programme, l
 start: 2019
 end: 2023
 client: European Union
+solutions:
+- Economic Growth
+- Trade
 regions: Asia and the Pacific
 country: Vietnam
 ---
