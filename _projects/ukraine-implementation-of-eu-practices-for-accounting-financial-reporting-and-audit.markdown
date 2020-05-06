@@ -2,13 +2,16 @@
 title: Ukraine—Implementation of EU practices for Accounting, Financial Reporting,
   and Audit
 date: 2020-05-06 13:08:00 Z
-published: false
 summary: This EuropeAid project aims to enhance transparency and business climate,
   thus facilitating domestic and foreign direct investment in the private sector,
   as well as to closer integrate Ukraine into the European and global economies.
 start: 2019
 end: 2022
 client: European Union
+solutions:
+- Institutional and Policy Reform
+- Legislative Strengthening
+- Governance
 regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
