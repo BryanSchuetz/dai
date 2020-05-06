@@ -21,6 +21,8 @@ Ukraine has great potential in almost all sectors of the economy; its infrastruc
 
 The EuropeAid project Implementation of EU practices for accounting, financial reporting and audit in Ukraine, led by DAI’s Human Dynamics, aims to enhance transparency and business climate, thus facilitating domestic and foreign direct investment in the private sector, as well as to closer integrate Ukraine into the European and global economies.
 
+![Rome12.jpg](/uploads/Rome12.jpg)
+
 ## Sample Activities
 
 * Harmonize legislation to remove the outstanding discrepancies between the updated Accounting Law and other legislation.
