@@ -16,8 +16,6 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-Ukraine—Support to Ukraine in approximation of the EU environmental acquis (air quality, waste management)
- 
 Ukraine faces a number of environmental challenges, including air pollution, lack of water resources, land degradation, solid waste management, biodiversity loss, human health issues associated with environmental risk factors, along with climate change. The economic development of the country has been accompanied by unbalanced exploitation of natural resources and low priority of environmental issues, which has made it extremely challenging to achieve sustainable development. 
 
 On the other hand, the environmental policy of Ukraine aims at stabilizing and improving the environment through the integration of environmental policy in economic and social development to ensure environmental safety for people, the introduction of an environmentally balanced system of resource use, and conservation of natural ecosystems. 
@@ -26,7 +24,7 @@ Hence, Ukraine’s ongoing reform agenda is fully aligned with and facilitated b
 
 The signing of the Association Agreement between Ukraine and the European Union and its Member States opened up new implementation opportunities to environmental standards. Implementation of EU legislation in Ukraine environmental protection occurs within eight sectors and is governed by 29 sources of law (Directives and the EU Regulations) establishing common rules and standards to be reflected in domestic law.
 
-The EuropeAid project Support to Ukraine in approximation of the EU environmental acquis (air quality, waste management), led by DAI’s Human Dynamics, aims to effectively raise Ukrainian public authorities' capacities in designing and implementing key reforms stemming from the Association Agreement and DCFTA, including the capacity to carry out legal approximation process with the EU.
+The EuropeAid project, Support to Ukraine in Approximation of the EU Environmental Acquis (air quality and waste management), led by DAI’s Human Dynamics, aims to effectively raise Ukrainian public authorities' capacities in designing and implementing key reforms stemming from the Association Agreement and DCFTA, including the capacity to carry out legal approximation process with the EU.
 
 ![140198 Ukraine Environmental Acquis Website Project Profile PICTURE.jpg](/uploads/140198%20Ukraine%20Environmental%20Acquis%20Website%20Project%20Profile%20PICTURE.jpg)
 
