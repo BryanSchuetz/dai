@@ -3,15 +3,15 @@ title: Ukraine—Implementation of EU practices for Accounting, Financial Report
   and Audit
 date: 2020-05-06 13:08:00 Z
 published: false
+summary: This EuropeAid project aims to enhance transparency and business climate,
+  thus facilitating domestic and foreign direct investment in the private sector,
+  as well as to closer integrate Ukraine into the European and global economies.
+start: 2019
+end: 2022
+client: European Union
+regions: Eastern Europe and Central Asia
+country: Ukraine
 ---
-
-Ukraine—Implementation of EU practices for accounting, financial reporting and audit in Ukraine
- 
-Client: European Union
-Duration: 2019-2022
-Region: XXXX
-Country: Ukraine
-Solutions: XXXX
 
 Ukraine’s recent past has been marked by economic and political turbulence that have resulted in a challenging environment on many fronts. Not only did the turbulence in recent years cause dislocations in macroeconomic and financial stability, but it adversely impacted Ukraine’s business climate for investment, access to financial services for citizens and businesses of all size, trade, job creation, thereby creating hardships and/or adverse conditions affecting many segments of the population and for the business community. While the overall economic and financial environment have generally stabilized and positive economic trends have been emerging, challenges ahead remain.
 
@@ -21,7 +21,7 @@ Ukraine has great potential in almost all sectors of the economy; its infrastruc
 
 The EuropeAid project Implementation of EU practices for accounting, financial reporting and audit in Ukraine, led by DAI’s Human Dynamics, aims to enhance transparency and business climate, thus facilitating domestic and foreign direct investment in the private sector, as well as to closer integrate Ukraine into the European and global economies.
 
-Sample Activities
+## Sample Activities
 
-•	Harmonize legislation (to remove the outstanding discrepancies between the updated Accounting Law and other legislation)
-•	Implement regulations (by-laws, instructions, manuals) developed for the amended Law of Ukraine on Accounting and Financial Reporting
+* Harmonize legislation to remove the outstanding discrepancies between the updated Accounting Law and other legislation.
+* Implement regulations (bylaws, instructions, manuals) developed for the amended Law of Ukraine on Accounting and Financial Reporting.
