@@ -23,3 +23,5 @@ Our Nigerian partner firms are Yellow Brick Road, the Youth Empowerment and Deve
 
 ### Sample Activities
 
+* Establish youth-friendly sexual and reproductive health and rights services, other social support, and job training and opportunities. We will integrate youth-led, human-centered design to ensure that project interventions meet adolescents’ needs. 
+* Implement social and behavior change activities combined with youth engagement with local policy makers and private sector partners.
