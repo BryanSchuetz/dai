@@ -2,9 +2,15 @@
 title: Nigeria—Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
 date: 2020-05-08 14:13:00 Z
 published: false
+summary: 'The Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
+  program empowers young Nigerians to think about their futures differently and access
+  the skills, social capital, and resources needed to realize their aspirations. '
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Workforce Development and Youth
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
