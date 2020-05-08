@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Improving Adolescent Health and Well-Being in Urban Areas
+title: Nigeria—Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
 date: 2020-05-08 14:13:00 Z
 published: false
 start: 2020
