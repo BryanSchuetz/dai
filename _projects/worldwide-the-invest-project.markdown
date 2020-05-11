@@ -12,7 +12,7 @@ regions: Worldwide
 country: Worldwide
 promos:
 - title: Latest Quarterly Report
-  link: "/uploads/INVEST%20Quarterly%20Report_FY3Q1_Jan2020_External.pdf"
+  link: "[INVEST Quarterly Report_FY3Q2_External.pdf](/uploads/INVEST%20Quarterly%20Report_FY3Q2_External.pdf)"
 - title: INVEST Year Two Annual Report
   link: "/uploads/INVEST%20Y2%20Annual%20Report_External.pdf"
 - title: Corporate Investment Partnerships Report
