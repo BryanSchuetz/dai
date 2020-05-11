@@ -15,6 +15,9 @@ regions:
 country:
 - Ethiopia
 promos:
+- title: "**GUIDE**: Inclusive Land Registration and Critical Role of Social Development
+    Officers "
+  link: "[DAI SDO Guide.pdf](/uploads/DAI%20SDO%20Guide.pdf)"
 - title: "**Fast Facts**: Ethiopia LIFT"
   link: "/uploads/Fast%20Facts%20Ethiopia%20LIFT%20Final%20040618v2.pdf"
 - title: "**Research**: Increasing Productivity Through an Innovative, Individual-based
@@ -31,9 +34,6 @@ promos:
     **Brief**:  Enabling Access to Clean Agricultural
     Inputs and Technologies
   link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
-- title: "**GUIDE**: Inclusive Land Registration and Critical Role of Social Development
-    Officers "
-  link: "[DAI SDO Guide.pdf](/uploads/DAI%20SDO%20Guide.pdf)"
 layout: project
 ---
 
