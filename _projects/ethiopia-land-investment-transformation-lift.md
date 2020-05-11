@@ -31,6 +31,9 @@ promos:
     **Brief**:  Enabling Access to Clean Agricultural
     Inputs and Technologies
   link: "/uploads/Ethiopia_LIFT_Agricultural_Inputs.pdf"
+- title: "**GUIDE**: Inclusive Land Registration and Critical Role of Social Development
+    Officers "
+  link: "[DAI SDO Guide.pdf](/uploads/DAI%20SDO%20Guide.pdf)"
 layout: project
 ---
 
@@ -55,3 +58,4 @@ The [Land Investment for Transformation (LIFT) programme](https://liftethiopia.c
 * Introduced a network of 400 land rental service providers, who facilitated 10,800 formal land rental transactions in rural areas.
 * Advanced implementation of the new Rural Land Administration System to record post-registration land transactions.
 * Produced land policy reports, including gender and social inclusion research, to allow government stakeholders to make evidence-based decisions.
+* Published the [Inclusive Land Registration and Critical Role of Social Development Officers] (/uploads/DAI%20SDO%20Guide.pdf)
