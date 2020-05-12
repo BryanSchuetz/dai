@@ -14,6 +14,9 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Regional
+promos:
+- title: Tajikistan’s Apricot Exports Speak for Themselves
+  link: https://medium.com/usaid-2030/tajikistans-apricot-exports-speak-for-themselves-8fdbbb2d1b84
 layout: project
 ---
 
