@@ -16,11 +16,11 @@ Kyrgyzstan and Tajikistan face similar economic challenges in a fragile region. 
  
 The technical assistance facility provides flexible, short-term, demand-driven support for policy development and capacity building to the governments of Tajikistan and Kyrgyzstan. The Facility works with executive offices, ministries, state agencies, and local government (MDAs) to help formulate policies that contribute to the economic development and prosperity of both countries. The facility will provide opportunities for synergies with another DAI-implemented project, the [Kyrgyzstan and Tajikistan Enterprise Innovation Programme (EIP)](https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme). 
  
-While technical assistance (TA) projects will help unlock better use of public, private and development partner finance for downstream implementation, the Facility will not support the implementation of policies, strategies, or programmes.
+While technical assistance projects will help unlock better use of public, private and development partner finance for downstream implementation, the Facility will not support the implementation of policies, strategies, or programmes.
 
 ![Tajikistan National Development Council 2-beda01.jpg](/uploads/Tajikistan%20National%20Development%20Council%202-beda01.jpg)
 
 ### Sample Activities
 
-* The Facility will deliver short-term TA projects, including technical advice from local and international experts, training, coaching mentoring and/or new tools and guidance in response to requests from MDAs. 
-* A TA Project might include embedding an expert within a partner MDA to support the development of a policy and to provide mentoring. 
+* The Facility will deliver short-term technical assistance projects, including advice from local and international experts, training, coaching mentoring and/or new tools and guidance in response to requests from MDAs. 
+* A technical assistance project might include embedding an expert within a partner MDA to support the development of a policy and to provide mentoring. 
