@@ -1,6 +1,7 @@
 ---
 title: Nepal—Rural Access Programme (RAP)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: 'The Rural Access Programme addresses lack of access and social exclusion
   through rural road construction that targets the poorest and most disadvantaged
   groups in Nepal. '
