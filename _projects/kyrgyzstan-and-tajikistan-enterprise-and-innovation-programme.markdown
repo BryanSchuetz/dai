@@ -11,7 +11,7 @@ solutions:
 - Economic Growth
 - Innovation and Entrepreneurship
 regions: Eastern Europe and Central Asia
-country: Kyrgyzstan and Tajikistan
+country: Kyrgyzstan, Tajikistan
 ---
 
 Kyrgyzstan and Tajikistan have a relatively short history of “restrained capitalism” and budding entrepreneurial culture. Shadows of the former Communist system are still evident in many areas and frail rule of law gives way to corruption and weak property rights, undermining private sector investment and business growth. As of 2018, 27 percent of Kyrgyzstan’s population and 30 percent of Tajikistan’s population still live below the national poverty line. Both countries’ economies have been adversely affected by internal and external shocks, including the economic downturn in Russia. Excessive reliance on remittances, lack of economic diversity and the slow pace of reform threaten growth. It is in the United Kingdom’s interests that these fragile states and region are supported to be successful, prosperous and stable.
