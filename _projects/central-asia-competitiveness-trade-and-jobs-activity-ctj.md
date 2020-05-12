@@ -27,7 +27,7 @@ DAI's strategy focuses on facilitating the development of competitive, inclusive
 
 ### Sample Activities
 
-* Collaborate with public- and private-sector partners to develop a plan to address regional trade facilitation opportunities and support businesses in complying with regulations and requirements.
+* Collaborate with public- and private-sector partners to develop a plan to address regional trade facilitation opportunities and [support businesses](https://medium.com/usaid-2030/tajikistans-apricot-exports-speak-for-themselves-8fdbbb2d1b84) in complying with regulations and requirements.
 * Work with community influencers to draft local engagement plans to support initiatives related to building facilitation skills, job-readiness, and entrepreneurship.
 * Establish an innovation facility to motivate firms to design and implement solutions to overcome specific market failures related to horticulture, transportation, and border management.
 
