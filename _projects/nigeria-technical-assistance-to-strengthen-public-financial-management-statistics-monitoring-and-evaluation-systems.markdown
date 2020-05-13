@@ -19,6 +19,8 @@ The European Union’s (EU) Technical Assistance to Strengthen Public Financial 
 
 The project falls under the EU’s support for early recovery from conflict and resilience building in Yobe State. DAI’s technical assistance team works with key local government officials, civil servants and the civil society to support PFM reform, improve statistics, monitoring, accountability, and reporting, including legislative scrutiny, third-party monitoring, and budget tracking by citizens. The team works to strengthen the state’s aggregate fiscal discipline and ensure more efficient allocation and use of resources.
 
+![nigeria ADEM7835.jpg](/uploads/nigeria%20ADEM7835.jpg)
+
 ### Sample Activities
 
 * Identify areas where transformative and sustainable reforms are possible and require further support based on experiences to date and needs of the government.
