@@ -3,6 +3,10 @@ title: Nigeria—Technical Assistance to Strengthen Public Financial Management,
   Monitoring, and Evaluation Systems
 date: 2020-05-13 12:11:00 Z
 published: false
+summary: This EuropeAid programme assists Yobe state in Nigeria to build upon the
+  significant progress made so far in fiscal transparency and discipline, by finding
+  ways to broaden the fiscal space in a sustainable manner, while ensuring improved
+  delivery of citizen demanded public goods and services.
 start: 2020
 end: 2023
 client: European Union
