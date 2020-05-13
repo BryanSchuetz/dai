@@ -10,7 +10,7 @@ start: 2020
 end: 2023
 client: European Union
 solutions:
-- Global Health
+- Governance
 - Fragile States
 regions: Sub-Saharan Africa
 country: Nigeria
