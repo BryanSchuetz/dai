@@ -14,6 +14,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Worldwide
+promos:
+- title: Remote Sensing to Power Senegal’s Water Use
+  link: https://www.globalwaters.org/resources/blogs/walis/remote-sensing-power-senegals-water-use
 redirect_from:
 - "/walis"
 layout: project
