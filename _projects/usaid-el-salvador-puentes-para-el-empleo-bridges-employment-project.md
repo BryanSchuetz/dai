@@ -16,6 +16,10 @@ regions:
 - Latin America and the Caribbean
 country:
 - El Salvador
+promos:
+- title: Providing Key Stakeholders with the Tools and Know-How to Assist Vulnerable
+    Populations
+  link: https://www.youthpower.org/news/providing-key-stakeholders-tools-and-know-how-assist-vulnerable-populations
 layout: project
 ---
 
