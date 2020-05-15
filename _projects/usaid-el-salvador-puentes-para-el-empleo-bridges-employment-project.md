@@ -20,6 +20,9 @@ promos:
 - title: Providing Key Stakeholders with the Tools and Know-How to Assist Vulnerable
     Populations
   link: https://www.youthpower.org/news/providing-key-stakeholders-tools-and-know-how-assist-vulnerable-populations
+- title: Using Skills Learned through USAID Bridges to Employment to Respond to the
+    Pandemic
+  link: https://www.youthpower.org/news/using-skills-learned-through-usaid-bridges-employment-respond-pandemic
 layout: project
 ---
 
