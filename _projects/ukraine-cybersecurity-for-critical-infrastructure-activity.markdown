@@ -8,7 +8,7 @@ start: 2020
 end: 2024
 client: U.S. Agency for International Development
 solutions:
-- Governance
+- Economic Growth
 - Digital Strategy
 - 
 regions: Eastern Europe and Central Asia
