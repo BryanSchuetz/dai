@@ -13,8 +13,8 @@ solutions:
 - Insights for Emerging Markets
 - Human Centered Design
 - Digital Trainings
-- Social Strategy
-- Sustainable Business
+- 
+- 
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa
