@@ -17,6 +17,8 @@ country: Ukraine
 
 Ukraine is engaged in an ongoing hybrid, asymmetric, and kinetic struggle against cyberattacks on its critical infrastructure. Ukraine’s energy sectors—oil and gas, nuclear, electricity, and hydroelectric systems—are a particular target of cyber-aggression, as evidenced by the [2014 Sandworm attacks](https://www.wired.com/2014/10/russian-sandworm-hack-isight/). These attacks, and others, pose complex and novel challenges that require Ukraine to respond rapidly, deploy effective countermeasures, and build new defenses against future attacks from a range of potential internal and external malicious actors. The goal of this activity is to rapidly mature Ukraine’s cybersecurity posture, and enable it to be a trusted source for solutions, services, and talent.  
 
+![ukraine cyber.jpg](/uploads/ukraine%20cyber.jpg)
+
 ### Sample Activities
 
 * Create a cybersecurity research and training lab and support the ecosystem needed to provide and develop solutions that meet Ukrainian demand for cybersecurity products and services that also have global market potential.
