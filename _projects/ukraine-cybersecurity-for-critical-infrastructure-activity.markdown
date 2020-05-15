@@ -23,4 +23,5 @@ Ukraine is engaged in an ongoing hybrid, asymmetric, and kinetic struggle agains
 * Work with the government to review existing or drafted cybersecurity legislation, policies, and strategies, and develop an approach for the legal, regulatory, and institutional frameworks to create a national Cybersecurity Roadmap.
 * Establish a communications and liaison office to increase stakeholder engagement and coordination.
 * Perform large-scale tabletop exercises to test and reinforce developed response procedures to cyberattacks against critical infrastructure.
+* Build the capacity of security operations center analysts, system designers, risk managers, and auditors on topics that are relevant to their responsibilities.
  
