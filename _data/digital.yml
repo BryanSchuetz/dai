@@ -1,9 +1,92 @@
 
+- title: "Privacy: How COVID-19 Has Sped Up the Debate"
+  pub: "Digital"
+  date: 2020-05-11
+  link: "https://dai-global-digital.com/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html?utm_source=daidotcom"
+  summary: "As many countries struggle to manage the COVID-19 crisis, governments globally are looking to data-driven technologies to minimize cases or to help facilitate a transition out of lockdown. The technologies being claimed to protect, prevent, and track include symptom tracking apps that help us understand the disease, digital contact tracing apps that alert us to our interaction with the virus, quarantine enforcement apps that monitor people’s compliance (such as those in Hong Kong, Poland, and Kazakhstan; proposed in Russia and Egypt), and immunity certification that identify individuals who have had COVID-19.
+
+In more developed nations such as the United Kingdom and United States, conversations around data privacy are rife. For example, the UK National Health Service (NHS) is negotiating with Google and Apple about the efficacy of its proposed contact-tracing app in light of the two tech giants’ stringent adherence to privacy.
+
+In the face of serious threats, many of us might say we have a reasonable expectation that our government will use technology to track and pre-empt risks. In the same way we might expect protection from terrorist attacks, we may also accept such measures to be employed during a public health crisis like the current pandemic.
+
+But the vital question is: how can we ensure that the deployment of these digital tools are effective and do not set a dangerous precedent of digital surveillance?"
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Cybersecurity 
+    - Digital Health 
+
+- title: "COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us"
+  pub: "Digital"
+  date: 2020-05-05
+  link: "https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html?utm_source=daidotcom"
+  summary: "The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low- and middle-income countries have begun to see increases in reported cases.
+
+In Mexico, the number of cases has slowly risen. Public health experts have urgently suggested that testing needs to be dramatically increased to appropriately track the spread of the COVID-19 pandemic. As the graph below shows, the numbers reported from Worldometer corroborate this testing deficit, as Mexico has one of the lowest rates of testing per 1 million people in the region, even among countries of similar size and income per capita."
+  tags:
+    - digital acceleration 
+    - Digital Health 
+    - COVID-19 
+    - Data 
+
+- title: "5 Ways Entrepreneurship Ecosystems are Using Technology to Adapt to the COVID-19 Crisis"
+  pub: "Digital"
+  date: 2020-05-05
+  link: "https://dai-global-digital.com/5-ways-entrepreneurship-ecosystems-are-using-technology-to-adapt-to-the-covid-19-crisis.html?utm_source=daidotcom"
+  summary: "During this unprecedented global economic downturn caused by COVID-19, accelerators, incubators, and other entrepreneurship support organizations have a valuable role to play in helping entrepreneurs and small and medium-sized enterprises (SMEs) in emerging and frontier markets. Over the past two months supporting the Shell LiveWIRE global entrepreneurship program and the Kosmos Innovation Center, DAI’s Sustainable Business Group has worked closely with the Global Accelerator Network (GAN) and the Aspen Network of Development Entrepreneurs (ANDE) to leverage technology in support of global entrepreneurship in emerging economies. For corporates, foundations, donors, and development banks that support similar entrepreneurship ecosystems, we offer some learning here from our projects and global networks.
+
+Photo by Oscar Nilsson on Unsplash."
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Entrepreneurship 
+
+- title: "COVID-19 Data Analysis, Part 4: Forecasting Hospital Capacity in Mexico"
+  pub: "Digital"
+  date: 2020-05-01
+  link: "https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html?utm_source=daidotcom"
+  summary: "This post was written by DAI Data Scientist Jamie Parr, with contributions from Greg Maly, Gratiana Fu, Eduardo González-Pier, Susan Scribner, and Kirsten Weeks. This analysis is Part 4 of a series on known risk factors associated with COVID-19, with a specific focus on Mexico. It is the first of several posts that will provide an analytical overview of different aspects of COVID-19 in Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly."
+  tags:
+    - digital acceleration 
+    - Data Visualization 
+    - COVID-19 
+    - Digital Health 
+
+- title: "Information Liberation: What is Open Data, and Why Does it Matter?"
+  pub: "Digital"
+  date: 2020-04-30
+  link: "https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html?utm_source=daidotcom"
+  summary: "Less than two weeks ago, on April 21, 2020, Microsoft announced its support for the growing open data movement through the launch of an “Open Data Campaign.” Having recently spent several days researching successful open data initiatives, the statement caught my attention. The World Bank uses the Open Knowledge Foundation’s definition for open data. According to it, open data means data “can be freely used, modified, and shared by anyone for any purpose.” In practical terms, this means data that is both legally open, publicly accessible or with minimal restrictions, and technically open, published in electronic formats that are computer readable and nonproprietary. This type of data is not to be confused with “big data.” As I recently learned, there are differences. For instance, open data derives its value from the sharing of the data and its widespread availability, rather than the volume (as big data does). I won’t be spending more time on this particular topic, but if you’re interested in learning more, I highly recommend reading a guest post we published on the subject in 2016."
+  tags:
+    - digital acceleration 
+    - Data 
+
+- title: "Everything Old is New Again: Remembering the Lessons of Early ICT4D in the COVID-19 Era"
+  pub: "Digital"
+  date: 2020-04-22
+  link: "https://dai-global-digital.com/everything-old-is-new-again-remembering-the-lessons-of-early-ict4d-in-the-covid-era.html?utm_source=daidotcom"
+  summary: "Often in the early days of digital development, it felt like there was a small group of big, innovative brains in one room all working on similar visions of how best to leverage the growing presence of the iconic Nokia 3310 across the developing world. Frontline SMS, Ushahidi, Souktel, and other groups were leading the charge from various corners of the earth, and design luminaries such as Jan Chipchase were interviewed in New York Times think pieces on how cellphones could end global poverty. When I moved to Palestine to work for Souktel at the end of 2010, I was often in the same room as ICT4D “godparents” Ken Banks, Adele Waugaman, and Erik Hersman, pleading our case to skeptical mobile network operators and Silicon Valley types who found our little ventures thrilling in a slightly Orientalist way. With texting as the tech du jour, everyone codified similar lessons in real time around the successful design of, for example, mobile awareness campaigns. The ICT4D sector grew rapidly across markets, simultaneously building strong use cases for users and development practitioners alike. I do have some hilarious stories of mobile campaign lessons learned from the Somali piracy crisis, but I will save those for another post.
+
+Now, all these lessons are relevant again as we globally try to tackle the COVID-19 pandemic."
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Digital Inclusion 
+
+- title: "New RFA Calls for Innovative Solutions to Advance Digital Skills for Small Firms"
+  pub: "Digital"
+  date: 2020-04-21
+  link: "https://dai-global-digital.com/new-rfa-calls-for-innovative-solutions-to-advance-digital-skills-for-smes.html?utm_source=daidotcom"
+  summary: "Everyone is talking about digital transformation—especially now that digital processes and tools are a mandatory part of daily activities for most businesses, schools, and citizens across the world in response to the global COVID-19 outbreak. The U.S. Agency for International Development (USAID) and DAI have been working to enhance digital skills, improve connectivity, and enable locally led innovation for years. Today, we are all confronted with a new set of urgent challenges. How do we ensure that citizens can safely and effectively use digital technologies to advance their own economic livelihoods and those of their countries?"
+  tags:
+    - digital acceleration 
+    - Digital Inclusion 
+
 - title: "COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index"
   pub: "Digital"
   date: 2020-04-16
   link: "https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html?utm_source=daidotcom"
-  summary: "The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the Nuclear Threat Initiative (NTI)’s Global Health Security Index and levels of response by country governments measured using the Oxford COVID-19 Government Response Tracker. You can read more about our initial exploratory analysis of the Global Health Security Index here in our previous blog post. Oxford University has provided an initial report of its data on its website."
+  summary: "The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the Nuclear Threat Initiative (NTI)’s Global Health Security Index and levels of response by country governments measured using the Oxford COVID-19 Government Response Tracker. You can read more about our initial exploratory analysis of the Global Health Security Index here in our previous blog post. Oxford University has provided an initial report of its data on its website."
   tags:
     - digital acceleration 
     - COVID-19 
@@ -138,88 +221,4 @@ At first glance, you might think our products team only builds full-stack web ap
     - digital acceleration 
     - Data 
     - Interoperability 
-
-- title: "What the Food Systems Dashboard Taught Me About Data for Decision Making"
-  pub: "Digital"
-  date: 2020-02-20
-  link: "https://dai-global-digital.com/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html?utm_source=daidotcom"
-  summary: "Since I began working with DAI’s Center for Digital Acceleration, I have had the chance to explore many of the exciting opportunities presented by our quickly digitizing world. Though I spend most of my time researching how digital tools and service platforms impact economic empowerment and productivity in the agriculture sector, an area that I am eager to explore further is the role of data in policy and decision making."
-  tags:
-    - digital acceleration 
-    - Data 
-    - Data Visualization 
-
-- title: "Digital Development in the Western Balkans: Kosovo"
-  pub: "Digital"
-  date: 2020-02-13
-  link: "https://dai-global-digital.com/digital-development-in-the-western-balkans-kosovo.html?utm_source=daidotcom"
-  summary: "Last month, the talented, globe-trotting Chloe Messenger posted the first blog on DAI’s activities in Bosnia and Herzegovina in our six-part series about digital development in the Western Balkans. If you haven’t read it, you should. If you did, you’ll know that the United Kingdom’s Foreign Commonwealth Office (FCO) funded DAI to map digital ecosystems across the Western Balkans, with a focus on identifying areas where the FCO can support the technology sector in closing the digital skill supply-demand gap.
-
-Bosnia and Herzegovina, check. Next up—Kosovo!"
-  tags:
-    - digital acceleration 
-    - Digital Insights 
-    - Ecosystem Insights 
-
-- title: "Citizen-Centered Governance App Launches in Kabul"
-  pub: "Digital"
-  date: 2020-02-06
-  link: "https://dai-global-digital.com/citizen-centered-governance-app-launches-in-kabul.html?utm_source=daidotcom"
-  summary: "Note: This follows an earlier post that covers our pre-development human-centered design (HCD) phase.
-
-In recent years, Kabul residents have lamented the hours-long queue to access services at their municipal office. Several weeks ago, Kabul Municipality’s solution was hard to ignore. News of a new citizen engagement app was seen displayed on 21 billboards throughout the city, broadcast on local television and online sites, shared on social media, and proudly showcased by the Mayor of Kabul at a launch event that drew 250 attendees and local media.
-
-Advertisement for the Kabul Municipality mobile app."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - Governance 
-    - Mobile 
-
-- title: "6 Ways Innovation and Entrepreneurship Promote Prosperity"
-  pub: "Digital"
-  date: 2020-01-30
-  link: "https://dai-global-digital.com/6-ways-innovation-and-entrepreneurship-promote-prosperity.html?utm_source=daidotcom"
-  summary: "It is not a coincidence that the most developed nations are also the ones with the highest levels of entrepreneurial activity and innovation. While starting from a minimal level of development helps the latter two, for example, through basic access to capital and institutional stability, the impact of innovation and entrepreneurship on the economy and society more broadly cannot be overstated. In fact, the impact goes beyond usual suspects such as increased productivity, competitiveness, and job creation, and spills over into areas as diverse as regulation, infrastructure, the environment, and social inclusion. Below I provide a (certainly nonexhaustive) list of six such effects. While every issue deserves an article (or even a book!) of its own, these are brief overviews of each point."
-  tags:
-    - digital acceleration 
-    - Innovation 
-
-- title: "Five Trends in Hardware to Watch"
-  pub: "Digital"
-  date: 2020-01-23
-  link: "https://dai-global-digital.com/five-trends-in-hardware-to-watch.html?utm_source=daidotcom"
-  summary: "With the fast pace of technological change, it can be difficult for development practitioners to keep up with tomorrow’s opportunities and risks. Even for more technologically sophisticated members of the community, the focus on technology often overlooks hardware and exclusively focuses on software. As we begin 2020, I wanted to share the five trends in hardware that I think international development stakeholders—implementers, policymakers, civil society, the private sector, and others—should be watching for changes in the near term."
-  tags:
-    - digital acceleration 
-    - Hardware 
-    - Innovation 
-
-- title: "How the Digital Marketplace is Changing the Way We Eat"
-  pub: "Digital"
-  date: 2020-01-16
-  link: "https://dai-global-digital.com/food-and-health-in-a-digital-world.html?utm_source=daidotcom"
-  summary: "It’s the new year and you know what that means…New Year’s resolutions! If you’ve ever uttered the words “New year, new me,” you are far from alone. In 2019, approximately 60 percent of Americans set resolutions and according to a recent survey, the top three were all related to diet and exercise: eating better, exercising more, and losing weight. Sound familiar?
-
-While self-help gurus and exercise enthusiasts may tell us that a little self-discipline is all it takes to achieve these goals, research in the field of health and nutrition has shown that one’s food environment—the physical, social, economic, cultural, and political factors that impact the accessibility, availability, and adequacy of food within a community—can have a larger impact on our health outcomes than we think."
-  tags:
-    - digital acceleration 
-    - digital agriculture 
-    - Innovation 
-
-- title: "Digital Development in the Western Balkans: Bosnia and Herzegovina"
-  pub: "Digital"
-  date: 2020-01-09
-  link: "https://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html?utm_source=daidotcom"
-  summary: "For the past few months, DAI has been working closely with the United Kingdom’s Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, and to identify areas where the FCO can support the technology sector in closing the digital skill supply-demand gap.
-
-Through our research, we found a region that is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities, but that in many cases need investment and support to do so. With each country having its own specific trajectory and different operating environment, we have created a series of blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo, and North Macedonia.
-
-First up, beautiful Bosnia and Herzegovina.
-
-Baščaršija square."
-  tags:
-    - digital acceleration 
-    - Digital Insights 
-    - Ecosystem Insights 
 
