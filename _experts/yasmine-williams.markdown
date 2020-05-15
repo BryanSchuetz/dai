@@ -8,7 +8,8 @@ summary: Yasmine Williams is the enterprise development and communications speci
 job-title: Enterprise Development and Communications Specialist
 image: "/uploads/Yasmine%20Williams%20headshot.jpg"
 solutions:
-- Sustainable Business
+- Economic Growth
+- Finance and Investment
 regions:
 - Worldwide
 ---
