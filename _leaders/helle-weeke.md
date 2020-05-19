@@ -5,7 +5,7 @@ job-title: Senior Vice President and General Counsel
 summary: Helle is DAI’s principal legal advisor, responsible for managing all of the
   firm’s legal affairs.
 image: "/assets/images/leaders/thumbnails/helle-weeke.jpg"
-sort-order: 7
+sort-order: 6
 layout: leaders
 ---
 

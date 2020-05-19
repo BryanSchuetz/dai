@@ -7,7 +7,7 @@ summary: Michael has more than 20 years of management and consulting experience,
   11 years in public accounting with Price Waterhouse, Coopers & Lybrand, and Johnson
   Lambert.
 image: "/assets/images/leaders/thumbnails/michael-jakobowski.jpg"
-sort-order: 3
+sort-order: 4
 layout: leaders
 ---
 
