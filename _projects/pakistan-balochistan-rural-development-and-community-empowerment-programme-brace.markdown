@@ -38,3 +38,5 @@ The approach of the programme builds on the lessons from various EU-funded actio
 * Conducted a three-day enterprise development training for women to facilitate them in applying for income-generating grants. These micro-credit instruments disbursed by BRACE help rural women become economically independent by setting up small enterprises, enabling women’s access to markets, and boosting their competitiveness. 
 * Initiated COVID-19 awareness sessions for community members in all target districts. 
 * Distributed community awareness toolkits to 9,417 households and communities in the beneficiary districts with basic information on nutrition, health and hygiene, WASH, disaster risk reduction, and other selected areas.
+
+<iframe src="https://player.vimeo.com/video/420402158" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
