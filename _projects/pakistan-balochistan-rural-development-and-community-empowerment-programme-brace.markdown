@@ -28,6 +28,8 @@ The approach of the programme builds on the lessons from various EU-funded actio
 * Link communities with local authorities for quality, inclusive, and equitable service delivery, and build community capacity to influence public policy decisions.
 * Foster an enabling environment for strengthening the capacities of local governments and authorities to manage and involve communities in the statutory processes of the local public sector planning, financing, and implementation process.
 
+
+
 ### Select Results
 
 * Organized 163,892 households into 15,683 community organizations, 3,088 into village organizations, and into 137 local support organizations at the Union Council level in nine districts of Balochistan.
