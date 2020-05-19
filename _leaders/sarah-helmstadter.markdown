@@ -5,7 +5,7 @@ job-title: Senior Vice President, Global Workforce
 summary: 'Sarah Helmstadter leads all aspects of talent acquisition, retention, development,
   and management; and ensures the quality and efficiency of company-wide human resource
   operations. '
-image: "/uploads/sm%20sarah%20leadership-4b23dc.jpg"
+image: "/uploads/Sarah-thumbnail.jpg"
 sort-order: 3
 ---
 
