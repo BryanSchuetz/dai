@@ -14,6 +14,9 @@ solutions:
 - 
 regions: Sub-Saharan Africa
 country: Malawi
+promos:
+- title: Opportunities and Challenges of Land Reform Implementation in Malawi
+  link: https://dai-global-developments.com/articles/opportunities-and-challenges-of-land-reform-implementation-in-malawi
 ---
 
 The Malawi Land Governance programme, funded by the European Union, enhances people’s livelihoods and food security through sustainable agricultural development, with an emphasis on reaching remote rural areas. To better align the country’s land governance framework, DAI works with government counterparts to develop and implement land policy reforms. Our team serves in both advisory and capacity-building roles, providing government officials with skills to create and review effective land policy, as well as helping design procedures to carry out reforms at the national level.
