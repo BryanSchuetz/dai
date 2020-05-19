@@ -23,12 +23,12 @@ The programme, implemented with grant component partners from Rural Support Netw
 
 The approach of the programme builds on the lessons from various EU-funded actions in Pakistan, including the Community Driven Local Development Programme implemented by DAI’s Human Dynamics in the Khyber Pakhtunkhwa province. 
 
+<iframe src="https://player.vimeo.com/video/420402037" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### Sample Activities
 
 * Link communities with local authorities for quality, inclusive, and equitable service delivery, and build community capacity to influence public policy decisions.
 * Foster an enabling environment for strengthening the capacities of local governments and authorities to manage and involve communities in the statutory processes of the local public sector planning, financing, and implementation process.
-
-<iframe src="https://player.vimeo.com/video/420402037" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Select Results
 
