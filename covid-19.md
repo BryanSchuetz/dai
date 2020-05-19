@@ -8,13 +8,12 @@ solutions:
 hero: true
 related: false
 featuresection: covid
-summary: 'The novel coronavirus has had a profound public health impact in the developed
+summary: |
+  The novel coronavirus has had a profound public health impact in the developed
   world and is poised to have an equally if not more devastating effect on developing
   nations. As travel bans, lockdowns, and stalled trade take an increasing toll, economic
   spillover effects—and associated social instability—threaten to compound the crisis,
   especially in some of the world’s more vulnerable and fragile states.
-
-'
 layout: node
 ---
 
@@ -22,7 +21,7 @@ layout: node
 
 After decades progress in the areas of inclusive economic growth and poverty reduction, the advent of COVID-19 threatens to reduce world trade by <a href="https://www.wto.org/english/news_e/pres20_e/pr855_e.htm">as much as 32 percent</a>, according to the World Trade Organization, and could drive <a href="https://www.kcl.ac.uk/news/half-a-billion-people-could-be-pushed-into-poverty-by-COVID-19">500 million people</a> into poverty. 
 
-DAI is particularly well positioned to meet the demands of this multidimensional crisis. Global in reach—with projects on the ground in almost 100 countries—DAI offers a rare combination of world class expertise in pandemic preparedness and response plus decades of experience in crisis mitigation, economic recovery, and government capacity building and support. Our local platforms in key geographies and our global network of projects are primed to implement rapid-response and longer-term interventions in support of our clients and local partners.  
+DAI is particularly well positioned to meet the demands of this multidimensional crisis. Global in reach—with projects on the ground in almost 100 countries—DAI offers a rare combination of world class expertise in pandemic preparedness and response plus decades of experience in crisis mitigation, economic recovery, and government capacity building and support. Our local platforms in key geographies and our global network of projects are primed to implement rapid-response and longer-term interventions in support of our clients and local partners.
 
 <iframe src="/extras/maps/dai-covid" frameborder="0"></iframe>
 
