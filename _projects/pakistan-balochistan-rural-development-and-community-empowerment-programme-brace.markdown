@@ -15,7 +15,7 @@ country: Pakistan
 
 DAI’s Human Dynamics supports the Government of Balochistan  with the implementation of the Rural Development and Community Empowerment Programme (BRACE). The project supports the federal government in reducing the negative impact of poverty and social inequality, and to turn this into opportunities to build and empower resilient communities participating actively in implementing socio-economic development activities in partnership with local authorities.
 
-The programme, implemented with grant component partners from Rural Support Networks and the Government of Balochistan, will ultimately benefit 1.9 million citizens in nine districts in the province—Dukki, Jhal Magsi, Kech, Killa Abdullah, Khuzdar, Loralai, Pishin, Washuk, and Zhob. The population of 300,000 poor rural households are to be mobilized and organized into community, village and local support organizations. 
+The programme, implemented with grant component partners from Rural Support Networks and the Government of Balochistan, will ultimately benefit 1.9 million citizens in nine districts in the province—Dukki, Jhal Magsi, Kech, Killa Abdullah, Khuzdar, Loralai, Pishin, Washuk, and Zhob. The population of 300,000 low-income rural households are to be mobilized and organized into community, village, and local support organizations. 
 
 The approach of the programme builds on the lessons learnt from various EU-funded actions in Pakistan, including the Community Driven Local Development (CDLD) Programme implemented by DAI’s Human Dynamics in the Khyber Pakhtunkhwa province. 
 
