@@ -98,6 +98,7 @@ On projects such as [Women for Health in Nigeria](/our-work/projects/nigeria-wom
 <div class="covid-contact two"><img src="/uploads/Jeff%20Mecaskey%20DAI%20site.jpg" alt=""><span class="title"><a href="/who-we-are/our-team/jeffrey-mecaskey">Jeff Mecaskey Team Leader, Tackling Deadly Diseases in Africa Program (TDDAP)</a></span></div>
 </div> {%- endcomment -%}
 </aside>
+
 ## Economic and Social Recovery
 {:#economic-social-recovery_hash.covid-title}
 
