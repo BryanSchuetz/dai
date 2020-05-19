@@ -7,6 +7,7 @@ summary: 'Sarah Helmstadter leads all aspects of talent acquisition, retention, 
   and management; and ensures the quality and efficiency of company-wide human resource
   operations. '
 image: "/uploads/sm%20sarah%20leadership.jpg"
+sort-order: 3
 ---
 
 Sarah Helmstadter leads all aspects of talent acquisition, retention, development, and management; and ensures the quality and efficiency of company-wide human resource operations for DAI. 
