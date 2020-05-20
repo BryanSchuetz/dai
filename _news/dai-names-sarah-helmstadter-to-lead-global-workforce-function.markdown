@@ -2,9 +2,12 @@
 title: DAI Names Sarah Helmstadter to Lead Global Workforce Function
 date: 2020-05-20 08:07:00 Z
 published: false
+summary: 'DAI is pleased to announce the appointment of Sarah Helmstadter to lead
+  its company-wide commitment to nurture people and talent. '
+social-image: "/uploads/new%20Sarah-2d0907.jpg"
 ---
 
-DAI is pleased to announce the appointment of [Sarah Helmstadter](https://www.dai.com/who-we-are/leadership/sarah-helmstadter) to lead its company-wide commitment to nurture people and talent. As Senior Vice President, Global Workforce, Helmstadter will report to the CEO and serve on DAI’s seven-member Global Executive Team.
+DAI is pleased to announce the appointment of [Sarah Helmstadter](https://www.dai.com/who-we-are/leadership/sarah-helmstadter) to lead its company-wide commitment to nurture people and talent. As Senior Vice President, Global Workforce, Helmstadter will report to the CEO and serve on DAI’s seven-member [Global Executive Team](https://www.dai.com/who-we-are/leaders).
 
 Helmstadter will have executive responsibility for maintaining and enhancing DAI’s corporate culture; leading all aspects of talent acquisition, retention, development, and management; and ensuring the quality and efficiency of company-wide human resource operations. 
 
