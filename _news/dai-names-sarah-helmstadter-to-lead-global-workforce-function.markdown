@@ -1,7 +1,6 @@
 ---
 title: DAI Names Sarah Helmstadter to Lead Global Workforce Function
 date: 2020-05-20 08:07:00 Z
-published: false
 summary: 'DAI is pleased to announce the appointment of Sarah Helmstadter to lead
   its company-wide commitment to nurture people and talent. '
 social-image: "/uploads/new%20Sarah-2d0907.jpg"
