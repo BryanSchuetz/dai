@@ -20,12 +20,12 @@ layout: node
 
 <h1>Global Voices</h1>
 
-<p>Our staff & advisors around the world have been sharing their perspectives on the COVID19 pandemic in their countries.</p>
+<p>Our staff and advisors around the world have been sharing their perspectives on the COVID-19 pandemic in their countries.</p>
 <div class="grid-wrap">
   <div class="video-wrap">
     <iframe src="https://player.vimeo.com/video/418566628" width="640" height="360" frameborder="0"
       allow="autoplay; fullscreen" allowfullscreen></iframe>
-      <p class="caption">This report comes from the Team Leader of the European Commission - Development & Cooperation - EuropeAid-funded Civil Service Reform, Parliament, and the Electoral Cycle programme, Orison Chaponda.</p>
+      <p class="caption">This report comes from the Team Leader of the EuropeAid-funded Civil Service Reform, Parliament, and the Electoral Cycle programme, Orison Chaponda.</p>
   </div>
 </div>
 <div class="grid-wrap">
