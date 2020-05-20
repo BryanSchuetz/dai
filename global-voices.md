@@ -39,13 +39,13 @@ layout: node
   <div class="video-wrap">
     <iframe src="https://player.vimeo.com/video/417336681" width="640" height="360" frameborder="0"
       allow="autoplay; fullscreen" allowfullscreen></iframe>
-      <p class="caption">This report comes from our European Commission - Development & Cooperation - EuropeAid-funded Clima-Med - Acting for Climate in South Mediterranean Team Leader Naguib Amin.</p>
+      <p class="caption">This report comes from our EuropeAid-funded Clima-Med - Acting for Climate in South Mediterranean Team Leader Naguib Amin.</p>
   </div>
 </div>
 <div class="grid-wrap">
   <div class="video-wrap">
       <iframe src="https://player.vimeo.com/video/416067413" width="640" height="360" frameborder="0"
         allow="autoplay; fullscreen" allowfullscreen></iframe>
-        <p class="caption">This report comes from Research Analyts Imge Izler in Turkey.</p>
+        <p class="caption">This report comes from Research Analyst Imge Izler in Turkey.</p>
   </div>
 </div>
