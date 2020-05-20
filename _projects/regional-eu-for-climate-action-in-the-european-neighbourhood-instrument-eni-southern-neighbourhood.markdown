@@ -24,6 +24,8 @@ Identified as a [climate change hotspot region](https://www.iucn.org/regions/med
  
 DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) is supporting a regional approach to support the transition towards sustainable, low-carbon, and climate-resilient development. The ultimate objective of the Clima-Med [project](https://www.climamed.eu) is to enhance the energy security and adaptive capacity of the partner countries, leading to more stable, efficient, competitive, and climate-resilient socioeconomic contexts, while increasing energy sovereignty and reducing emissions.
 
+![climamed.jpg](/uploads/climamed.jpg)
+
 ### Sample Activities 
 
 * Support sustainable climate and energy policies and strategies both at national and local levels.
