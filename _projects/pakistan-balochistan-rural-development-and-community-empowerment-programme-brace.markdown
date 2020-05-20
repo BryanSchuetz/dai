@@ -32,7 +32,7 @@ The approach of the [programme](https://www.facebook.com/BRACEProgramme) builds 
 
 ### Select Results
 
-* Organized 163,892 households into 15,683 community organizations, 3,088 into village organizations, and into 137 local support organizations at the Union Council level in nine districts of Balochistan.
+* Engaged 163,892 households in community organization activities in nine districts of Balochistan.
 * Deployed Technical Assistance District Coordinators and Assistant District Coordinators in nine districts, to facilitate engagement with local officials and the new community institutions. 
 * Organized a [community management skills training](https://www.facebook.com/BRACEProgramme/posts/2595615900682563) in Pishin, Killa Abdullah, Khuzdar, and Jhal Magsi with women from community organizations.
 * Conducted a three-day enterprise development training for women to facilitate them in applying for income-generating grants. These micro-credit instruments disbursed by BRACE help rural women become economically independent by setting up small enterprises, enabling women’s access to markets, and boosting their competitiveness. 
