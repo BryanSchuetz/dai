@@ -17,7 +17,7 @@ summary: |
 layout: node
 ---
 
-# Integrated Solutions for Immediate Response and Long-Term Recovery
+# Integrated Solutions for Immediate Response and Long-Term Recovery 
 
 After decades progress in the areas of inclusive economic growth and poverty reduction, the advent of COVID-19 threatens to reduce world trade by <a href="https://www.wto.org/english/news_e/pres20_e/pr855_e.htm">as much as 32 percent</a>, according to the World Trade Organization, and could drive <a href="https://www.kcl.ac.uk/news/half-a-billion-people-could-be-pushed-into-poverty-by-COVID-19">500 million people</a> into poverty. 
 
@@ -135,7 +135,7 @@ But while digital tools offer enormous utility, they also present risks. As gove
 
 ![Covid Communications](/uploads/digital-covid.jpg)
 
-DAI is well positioned to tackle these challenges given our expertise in digital development and cybersecurity, public and private sector development work, and health systems strengthening and pandemic response. Our holistic approach builds resilience in vital systems in the short term, while developing capacity to sustainably address connectivity, cybersecurity, disinformation, and data voids in the long term. These solutions follow a structured path (diagnose-develop-deploy) that can be adapted and scaled to a variety of applications, from public institutions such as ministries, central banks, and state-owned enterprises to smaller organizations such as municipalities, businesses, and NGOs.
+DAI is well positioned to tackle these challenges given our expertise in digital development and cybersecurity, public and private sector development work, and health systems strengthening and pandemic response. Our holistic approach builds resiliyence in vital systems in the short term, while developing capacity to sustainably address connectivity, cybersecurity, disinformation, and data voids in the long term. These solutions follow a structured path (diagnose-develop-deploy) that can be adapted and scaled to a variety of applications, from public institutions such as ministries, central banks, and state-owned enterprises to smaller organizations such as municipalities, businesses, and NGOs.
 
 <aside class="covid-aside">
 <p style="margin-bottom: 0px;">For more on DAI’s digital work on COVID-19, contact <a href="/who-we-are/our-team/krista-baptista">Krista Baptista</a>, Senior Director of DAI’s Center for Digital Acceleration.</p>

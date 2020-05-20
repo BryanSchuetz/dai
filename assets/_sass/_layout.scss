@@ -1733,3 +1733,16 @@ iframe.last-month{
     } 
   }
 }
+
+div.video-wrap{
+  iframe{
+    margin-bottom: 0px;
+  }
+  p.caption{
+    padding: 1rem;
+    background-color: rgba($slate, 0.05);
+    font-size: .8rem;
+    margin-top: 0px;
+    margin-bottom: 2rem;
+  }
+}
