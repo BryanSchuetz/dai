@@ -16,4 +16,4 @@ Helmstadter joined DAI 13 years ago and has held leadership positions across the
 
 All told, she has worked in international development for more than 30 years, with her first field assignment in Kazakhstan. She currently serves on the Board of the Society for International Development-Washington, D.C. Chapter, and participates in the Women Innovators & Leaders Network. She represents DAI at numerous industry and leadership events. 
  
-“Sarah is a trusted advisor and partner to leaders across DAI, and we are relying on her to excel in what is a critical function for our global development company,” said DAI President and CEO Jim Boomgard. 
+“Sarah is a trusted advisor and partner to leaders across DAI, and we are relying on her to excel in what is a critical function for our global development company,” said DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard). 
