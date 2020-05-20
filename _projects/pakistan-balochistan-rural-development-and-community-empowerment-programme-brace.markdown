@@ -21,7 +21,7 @@ DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-
 
 The programme, implemented with grant component partners from Rural Support Networks and the Government of Balochistan, will ultimately benefit 1.9 million citizens in nine districts in the province—Dukki, Jhal Magsi, Kech, Killa Abdullah, Khuzdar, Loralai, Pishin, Washuk, and Zhob. The population of 300,000 low-income rural households are to be mobilized and organized into community, village, and local support organizations. 
 
-The approach of the [programme](https://www.facebook.com/BRACEProgramme) builds on the lessons from various EU-funded actions in Pakistan, including the Community Driven Local Development Programme implemented by DAI’s Human Dynamics in the Khyber Pakhtunkhwa province. 
+The approach of the [programme](https://www.facebook.com/BRACEProgramme) builds on the lessons from various EU-funded actions in Pakistan, including the [Community Driven Local Development Programme](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-district-governance-and-community-development-programme-kp-cdld) implemented by DAI’s Human Dynamics in the Khyber Pakhtunkhwa province. 
 
 <iframe src="https://player.vimeo.com/video/420402037" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
