@@ -2,6 +2,7 @@
 title: DAI and COVID-19
 date: 2016-01-22 00:11:00 Z
 permalink: "/covid-19-voices"
+published: false
 social-image: "/uploads/covid-social.png"
 solutions:
 - COVID-19
@@ -15,7 +16,6 @@ summary: |
   spillover effects—and associated social instability—threaten to compound the crisis,
   especially in some of the world’s more vulnerable and fragile states.
 layout: node
-published: false
 ---
 
 <h1>Global Voices</h1>
