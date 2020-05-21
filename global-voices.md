@@ -2,7 +2,6 @@
 title: DAI and COVID-19
 date: 2016-01-22 00:11:00 Z
 permalink: "/covid-19-voices"
-published: false
 social-image: "/uploads/covid-social.png"
 solutions:
 - COVID-19
