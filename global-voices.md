@@ -27,25 +27,25 @@ layout: node
       allow="autoplay; fullscreen" allowfullscreen></iframe>
       <p class="caption">This report comes from the Team Leader of the EuropeAid-funded Civil Service Reform, Parliament, and the Electoral Cycle programme, Orison Chaponda.</p>
   </div>
-</div>
-<div class="grid-wrap">
   <div class="video-wrap">
     <iframe src="https://player.vimeo.com/video/417727297" width="640" height="360" frameborder="0"
       allow="autoplay; fullscreen" allowfullscreen></iframe>
       <p class="caption">This report comes from our advisor and former Board Member Marwan Juma in Jordan.</p>
   </div>
-</div>
-<div class="grid-wrap">
   <div class="video-wrap">
     <iframe src="https://player.vimeo.com/video/417336681" width="640" height="360" frameborder="0"
       allow="autoplay; fullscreen" allowfullscreen></iframe>
       <p class="caption">This report comes from our EuropeAid-funded Clima-Med - Acting for Climate in South Mediterranean Team Leader Naguib Amin.</p>
   </div>
-</div>
-<div class="grid-wrap">
   <div class="video-wrap">
       <iframe src="https://player.vimeo.com/video/416067413" width="640" height="360" frameborder="0"
         allow="autoplay; fullscreen" allowfullscreen></iframe>
         <p class="caption">This report comes from Research Analyst Imge Izler in Turkey.</p>
+  </div>
+  <div class="video-wrap">
+    <iframe src="https://player.vimeo.com/video/420806884" width="640" height="360" frameborder="0"
+      allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <p class="caption">This report comes from the Team Leader of the EuropeAid-funded Support to Civil Society
+    & Local Authorities for Local Development in Sierra Leone, Julius Munthali.</p>
   </div>
 </div>
