@@ -23,6 +23,12 @@ layout: node
 <p>Our staff and advisors around the world have been sharing their perspectives on the COVID-19 pandemic in their countries.</p>
 <div class="grid-wrap">
   <div class="video-wrap">
+    <iframe src="https://player.vimeo.com/video/420806884" width="640" height="360" frameborder="0"
+      allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <p class="caption">This report comes from the Team Leader of the EuropeAid-funded Support to Civil Society
+      & Local Authorities for Local Development in Sierra Leone, Julius Munthali.</p>
+  </div>
+  <div class="video-wrap">
     <iframe src="https://player.vimeo.com/video/418566628" width="640" height="360" frameborder="0"
       allow="autoplay; fullscreen" allowfullscreen></iframe>
       <p class="caption">This report comes from the Team Leader of the EuropeAid-funded Civil Service Reform, Parliament, and the Electoral Cycle programme, Orison Chaponda.</p>
@@ -41,11 +47,5 @@ layout: node
       <iframe src="https://player.vimeo.com/video/416067413" width="640" height="360" frameborder="0"
         allow="autoplay; fullscreen" allowfullscreen></iframe>
         <p class="caption">This report comes from Research Analyst Imge Izler in Turkey.</p>
-  </div>
-  <div class="video-wrap">
-    <iframe src="https://player.vimeo.com/video/420806884" width="640" height="360" frameborder="0"
-      allow="autoplay; fullscreen" allowfullscreen></iframe>
-    <p class="caption">This report comes from the Team Leader of the EuropeAid-funded Support to Civil Society
-    & Local Authorities for Local Development in Sierra Leone, Julius Munthali.</p>
   </div>
 </div>
