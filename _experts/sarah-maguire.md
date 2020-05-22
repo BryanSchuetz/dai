@@ -18,6 +18,9 @@ solutions:
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
+articles:
+- name: Solutions to combat sexual exploitation in the aid sector examined
+  article_file: https://parliamentlive.tv/Event/Index/620bcf77-ad6f-4607-8b3f-bcdb85edd613
 layout: expert
 ---
 
