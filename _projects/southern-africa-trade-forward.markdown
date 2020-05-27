@@ -1,6 +1,7 @@
 ---
 title: Southern Africa—Trade Forward Southern Africa
 date: 2020-02-21 11:49:00 Z
+published: false
 summary: The Trade Forward Southern Africa programme supports growth in trade, improves
   gender equality in the trade arena, and alleviates poverty across Botswana, Eswatini,
   Lesotho, Mozambique, Namibia, and South Africa.
