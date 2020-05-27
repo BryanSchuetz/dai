@@ -1,12 +1,12 @@
 ---
 title: Arthur Carlson
 date: 2020-05-27 19:26:00 Z
-published: false
 lastname: Carlson
 summary: 'Arthur Carlson is an international development practitioner with 25 years
   of experience leading complex projects in emergency response, community development,
   refugee assistance, infrastructure, and institutional system strengthening. '
 job-title: Director, Project Delivery Team, Center for Secure and Stable States (CS3)
+image: "/uploads/Arthur%20Carlson%201.jpg"
 solutions:
 - Stability
 - Fragile States
