@@ -15,6 +15,10 @@ regions:
 - Sub-Saharan Africa
 country:
 - Regional
+promos:
+- title: USAID’s Seed Trade Project Supports SADC’s Commitment to Plant Health in
+    2020 and Beyond
+  link: https://www.usaid.gov/southern-africa-regional/news/usai-seed-trade-project-support-sadcs-commitment-plant-health-2020
 layout: project
 ---
 
