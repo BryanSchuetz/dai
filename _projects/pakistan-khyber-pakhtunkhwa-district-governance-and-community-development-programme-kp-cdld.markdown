@@ -22,8 +22,9 @@ By following a decentralized and bottom-up approach, the province aims to achiev
 
 ### Sample Activities
 
-* Ensure effective disbursement of European Union budget support of community physical infrastructure such as building or renovating facilities related to sanitation, drinking water, roads and bridges, irrigation, schools, and more.
-* Ensure appropriate engineering standards are maintained in local ‪projects‬.‬‬‬‬‬‬‬
+* Support the provincial government in putting in place a fiscal and regulatory framework for CDLD where local communities are in charge of executing local development and service delivery initiatives.
+* Support district administrations in the organization and implementation of calls for proposals for communities’ small infrastructure and livelihood projects.
+* Develop capacity to operate a comprehensive monitoring and evaluation system including a tailored management information system to ensure evidence-based policy formulation and strategic planning for local development.
 
 ### Select Results
 
