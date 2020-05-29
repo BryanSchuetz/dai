@@ -14,17 +14,7 @@ solutions:
 - Governance
 - Fragile States
 regions: Asia and the Pacific
-country:
-- Brunei
-- Cambodia
-- Indonesia
-- Laos
-- Malaysia
-- Myanmar
-- Philippines
-- Singapore
-- Thailand
-- Vietnam
+country: Regional
 ---
 
 ASEAN, or the Association of Southeast Asian Nations, is a regional intergovernmental organization comprising 10 southeast Asian countries. Since 1977, the United States has partnered with ASEAN to promote regional cooperation on pressing issues of joint interest. ASEAN-USAID PROSPECT will build on the achievements of its predecessor project, [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable), to continue to support ASEAN to address transnational challenges, promote transparent and effective governance, and to elevate the rights and opportunities for women and other vulnerable groups. PROSPECT is based in Jakarta, near the ASEAN Secretariat.

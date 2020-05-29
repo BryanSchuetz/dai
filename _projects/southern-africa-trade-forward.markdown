@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 - Trade
 regions: Sub-Saharan Africa
-country: Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa
+country: Regional
 ---
 
 The Trade Forward Southern Africa programme supports growth in trade, improves gender equality in the trade arena, and alleviates poverty across Botswana, Eswatini, Lesotho, Mozambique, Namibia, and South Africa, with a focus on increasing access to information and promoting trade; supporting compliance with market standards and better integrating value chains; providing and improving access to training in trade and customs; and promoting equality for women in trade.

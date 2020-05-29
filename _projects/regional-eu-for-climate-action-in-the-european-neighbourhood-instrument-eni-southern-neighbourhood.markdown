@@ -12,8 +12,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment
 regions: Middle East and North Africa
-country: Algeria, Egypt, Jordan, Israel, Lebanon, Libya, Morocco, Palestine, Tunisia,
-  Syria
+country: Regional
 promos:
 - title: Project-Supported Tunisian City Named a Frontrunner in Global Climate City
     Challenge

@@ -21,9 +21,9 @@ layout: default
 </thead>
 
 <tbody>
-
-{% for project in these_projects %}
-  {% if project.end == 2019 %}
+{%- assign sorted_projects = these_projects -%}
+{% for project in sorted_projects %}
+  {% if project.end > 2019 %}
 <tr>
 <td style="text-align:left;">{{project.country}}</td>
 <td style="text-align:left;"><a href="{{project.url}}">{{project.title}}</a></td>

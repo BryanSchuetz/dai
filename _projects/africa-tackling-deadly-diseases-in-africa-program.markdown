@@ -13,7 +13,7 @@ solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
 regions: Sub-Saharan Africa
-country: Cameroon, Uganda, Côte D’Ivoire, Niger, Mali, Chad
+country: Regional
 promos:
 - title: Tackling Deadly Diseases in Africa
   link: "/uploads/TDDAP_2-pager_ENG_May19.pdf"
