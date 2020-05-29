@@ -28,23 +28,8 @@ By following a decentralized and bottom-up approach, the province aims to achiev
 
 ### Select Results
 
-•	Advised and supported District Administrations in the selection of 4320 Community projects (on road access, agriculture, irrigation services & water supply) which have been approved and found eligible for funding and implementation under the CDLD Programme. 826 of the approved projects were prepared by women, such as e.g.
-o	Upgrade of the primary school infrastructure in Kaskoroona village (district Malakand), which improved the basic service delivery in the education sector. Currently, the school has 284 students, with adequate space for classrooms and playground;
-o	Investments in the water supply infrastructure for the remote community of village Maira Shaplin in district Swat. The project is benefitting all the 150 households in the village.
-o	Re-construction of a bridge in District Dir Upper, which collapsed during the 2010 flood.
-o	Establishment of a women’ entrepreneur center in district Chitral where women are trained in tailoring and selling cloths.
-      
-
-•	Revised the 2019 CDLD Policy Implementation Procedures. 1500 color printed hard copies of the document have been distributed among all stakeholders including provincial and district offices for future use.
-•	Conducted a high-level EU mission conducted in Chitral, Dir Lower, Haripur, Nowshera and Swabi. The mission, led by EU Task Manager and Engineering Advisor, inspected small infrastructure facilities related to water supply, road construction and irrigation, and assessed the quality of local projects, implemented under the CDLD programme. 
-•	Facilitated a "CDLD Experience Sharing Workshop” in Swat with programme stakeholders and partners to exchange experiences and build connections for increased collaboration and continuous learning.
-•	Supported the Government of Khyber Pakhtunkhwa with implementation of COVID-19 response actions – prepared needs assessment of health facilities in the districts covered by the Programme and helped the COVID-19 response of the Gov. of KP in identifying poor and/or vulnerable families, who are eligible for Government’s cash assistance programme.
-
-
-
-* Supported the organization of a high-level EU mission conducted in Chitral, Dir Lower, Haripur, Nowshera, and Swabi. The mission visited small infrastructure facilities related to water supply, road construction and irrigation, and assessed the quality of projects implemented by KP-CDLD. 
-* Revised the 2019 CDLD Policy Implementation Procedures and distributed 1,500 hard copies of the document to all stakeholders, including provincial and district offices for future use.
-* Approved 4,320 community projects—road access, agriculture, irrigation services, and water supply—of which 826 were prepared by women. 
-* Improved basic service delivery in the education sector in Kaskoroona village, following the upgrade of the primary school infrastructure with funding from KP-CDLD. Currently, the school has 284 students, with adequate space for classrooms and playground.
-* Funded a water supply project for the remote community of village Maira Shaplin in district Swat to help 150 households in the village. 
-* Supported the Government of Khyber Pakhtunkhwa with implementation of COVID-19 response actions by preparing a needs assessment of health facilities; identifying vulnerable families eligible for cash assistance; and developing an awareness video shared on social media. 
+* Advised and supported district administrations in the selection of 4,320 community projects (on road access, agriculture, irrigation services and water supply) that have been approved and found eligible for funding and implementation. Of the approved projects, 826 were prepared by women.
+* Revised the 2019 CDLD Policy Implementation Procedures and printed and distributed 1,500 copies of the document among all stakeholders including provincial and district offices.
+* Conducted high-level EU missions in Chitral, Dir Lower, Haripur, Nowshera and Swabi to inspect small infrastructure facilities related to water supply, road construction and irrigation, and assessed the quality of local projects. 
+* Facilitated a "CDLD Experience Sharing Workshop” in Swat with stakeholders and partners to exchange experiences and build connections for increased collaboration and continuous learning.
+* Supported the Government of Khyber Pakhtunkhwa with implementation of COVID-19 response actions—prepared needs assessment of health facilities in the districts covered by the programme and helped the COVID-19 response of the government, identifying poor and  vulnerable families eligible for cash assistance.
