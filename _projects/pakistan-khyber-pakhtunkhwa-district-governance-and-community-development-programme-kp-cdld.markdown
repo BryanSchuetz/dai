@@ -14,11 +14,9 @@ regions: Eastern Europe and Central Asia
 country: Pakistan
 ---
 
-DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) supports the Government of Khyber Pakhtunkhwa in implementing the Community Driven Local Development (KP-CDLD) Programme in the 12 districts of the province of Pakistan. The programme aims to restore community trust in the local government and build government responsiveness. 
+DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) supports the Government of Khyber Pakhtunkhwa in implementing the Community Driven Local Development (KP-CDLD) Programme in the 13 districts of the province of Pakistan. The programme works to build the responsiveness and effectiveness of the province’s administration to restore citizen trust; stimulate employment and livelihood opportunities; and ensure delivery of basic services. 
 
-[KP-CDLD](http://www.cdldta.pk/) was first initiated in six districts of Malakand Division, engaging with community-based organisations to multiply impact. In 2017 and 2018 the geographic coverage was extended to other six districts in Khyber Pakhtunkhwa: Battagram, Buner, Haripur, Nowshera, Swabi, and Torghar. The project seeks to ensure that local authorities achieve targets; build capacity in public financial management, procurement, and other areas; and develop appropriate mechanisms for management information and policy feedback. 
-
-Given the wide geographical distribution of trainees and their different roles—civil servants of line departments, elected council members, appointed local government officers, and members of community organisations—our approach demands effective coordination, marshaling of resources, and the ability to conceive solutions across varied socio-geographic areas.
+By following a decentralized and bottom-up approach, the province aims to achieve sustainable improvement in the coverage and quality of frontline service delivery through actively involving local communities. The European Union supports the government by providing budget support and funding this [technical assistance project](http://www.cdldta.pk/) as a complementary measure to build capacities on provincial, district, and town levels with regard to policy review and feedback, public financial management, procurement and contract management, communication and visibility, engineering standards, and monitoring and evaluation.
 
 <iframe src="https://player.vimeo.com/video/420759424" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
