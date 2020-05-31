@@ -22,6 +22,10 @@ layout: node
 <p>Our staff and advisors around the world have been sharing their perspectives on the COVID-19 pandemic in their countries.</p>
 <div class="grid-wrap">
   <div class="video-wrap">
+    <iframe src="https://player.vimeo.com/video/423348398" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <p class="caption">This report comes from Bill Parente, Chief of Party of our USAID Indonesia USAID Iuwash Penyehatan Lingkungan untuk Semua project in Indonesia.</p>
+  </div>
+  <div class="video-wrap">
     <iframe src="https://player.vimeo.com/video/420806884" width="640" height="360" frameborder="0"
       allow="autoplay; fullscreen" allowfullscreen></iframe>
     <p class="caption">This report comes from the Team Leader of the EuropeAid-funded Support to Civil Society
