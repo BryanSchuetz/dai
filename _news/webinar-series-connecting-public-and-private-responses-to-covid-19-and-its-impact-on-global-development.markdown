@@ -2,7 +2,6 @@
 title: 'Webinar Series: Connecting Public and Private Responses to COVID-19 and its
   Impact on Global Development'
 date: 2020-06-02 13:12:00 Z
-published: false
 tags:
 - COVID-19
 - health
@@ -20,13 +19,11 @@ The COVID-19 pandemic poses an increasingly severe challenge to developing count
 
 As a global company implementing development programming in more than 100 countries—including many of the world’s most challenging environments—DAI is building on its in-house expertise and multiclient experience to share knowledge and identify innovative solutions applicable to the COVID-19 crisis. DAI’s teams are in close communication with donors and partner country stakeholders to coordinate an effective response to the pandemic. Our in-house technical staff are developing toolkits, response strategies, digital approaches and solutions, and ways of [adapting to COVID-19](https://www.dai.com/covid-19) by project, context, and sector.
 
-As a leading think-and-do tank on sustainable development policies and practices, ECDPM has mobilised its expertise and key network—from policy makers and knowledge institutions to business associations and development financiers—to reflect on how best to address the challenges of the pandemic, and how COVID-19 may affect EU-Africa relations and the prospects for development and international cooperation more broadly.
+As a leading think-and-do tank on sustainable development policies and practices, ECDPM has mobilised its expertise and key network—from policy makers and knowledge institutions to business associations and development financiers—to reflect on how best to address the [challenges of the pandemic](https://ecdpm.org/dossiers/covid-19-international-cooperation/), and how COVID-19 may affect EU-Africa relations and the prospects for development and international cooperation more broadly.
 
 ## Practical Webinars 
 
-One of the outcomes of this global effort is to share this knowledge and engage with our partners and clients in online discussions targeting  European and international audience of global development stakeholders, through [practical webinars](https://ecdpm.org/events/connecting-public-private-responses-to-covid-19-and-impact-global-development/) addressing their main priorities. 
-
-DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the European Union (EU), as per its recent [Communication](https://ec.europa.eu/international-partnerships/system/files/joint-comm-2020-eu-global-response_en.pdf). 
+DAI and ECDPM are collaborating to share this growing body of knowledge and engage with our partners and clients through [practical webinars](https://ecdpm.org/events/connecting-public-private-responses-to-covid-19-and-impact-global-development/) addressing their main priorities. DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the EU, in line with its recent [Communication](https://ec.europa.eu/international-partnerships/system/files/joint-comm-2020-eu-global-response_en.pdf).
 
 The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform).
 
@@ -50,9 +47,9 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
 **Speakers:**
 
 * Facilitator: [Jeske van Seters](https://ecdpm.org/people/jeskevanseters/), Head of Programme Private Sector Engagement, ECDPM 
-* [Emmanuel Moyart](https://www.linkedin.com/in/emmanuel-moyart-7305aa27/?locale=en_US), Team Leader, DEVCO C4 [Trade and Private Sector Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). How can the EU support the private sector and in particular SMEs, the question of the informal sector, with examples from EU Delegations’ work in Uganda and Tunisia. 
-* [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories. On the World Bank’s [Innovative Private Sector Development Project](https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp) (IPSDP)'s Rapid COVID-19 Response Intervention that enables business survival and continuity and supports startups and MSMEs. 
-* [Carole Kariuki](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA. How the public-private dialogue in Kenya led to the design of a strategic recommendations matrix that was presented and discussed with the government, and the measures to support MSMEs. 
+* [Emmanuel Moyart](https://www.linkedin.com/in/emmanuel-moyart-7305aa27/?locale=en_US), Team Leader, DEVCO C4 [Trade and Private Sector Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility)
+* [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories
+* [Carole Kariuki](https://kepsa.or.ke/team/carole-kariuki/), (tbc) CEO of the Kenyan Private Sector Organisation KEPSA 
 
 **Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’ economies**
 
@@ -66,10 +63,10 @@ How can the EU best support countries that sometimes still lack the necessary in
 **Speakers:**
 
 * Facilitator: [Chloe Teevan](https://ecdpm.org/people/chloe-teevan/), Policy officer, ECDPM
-* [Krista Baptista,](https://www.dai.com/who-we-are/our-team/krista-baptista) DAI’s Center for Digital Acceleration. *How to support donors, governments and private partners integrate sustainable digital tools and approaches. Recent examples of COVID-19 responses that integrate the digital tool and how they make a difference. *
-* [Sandro Bazzanella](https://www.linkedin.com/in/bazzanella/?originalSubdomain=be), EU Digital Cooperation expert (tbc). *On the EU’s digital policy framework and how it adapts to the current context.* 
-* [Jonathan Donner](https://www.cariboudigital.net/advisor/jonathan-donner/), Senior Director for Research, Caribou Digital. *On data and research and in particular the “Digital After Covid” research project that tracks efforts for an inclusive digital society after the pandemic.*  
-* [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab. *On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth.*
+* [Krista Baptista,](https://www.dai.com/who-we-are/our-team/krista-baptista) DAI’s Center for Digital Acceleration
+* [Sandro Bazzanella](https://www.linkedin.com/in/bazzanella/?originalSubdomain=be), EU Digital Cooperation expert (tbc)
+* [Jonathan Donner](https://www.cariboudigital.net/advisor/jonathan-donner/), Senior Director for Research, Caribou Digital 
+* [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab
 
 **Webinar 3: How Covid-19 calls for an alliance for financing**
 
@@ -81,10 +78,10 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 
 **Speakers:**
 
-* Facilitator: [San Bilal](https://ecdpm.org/people/sanbilal/), Head of Programme Trade, Investment and Finance, ECDPM. *On Team Europe’s response, the EU blending and guarantee mechanisms and the critical role DFIs can play. Importance to mobilise at scale and de-risk financing. *
-* [Catherine Collin](https://www.linkedin.com/in/catherine-collin-9a2a361a/?originalSubdomain=ke), Head of Regional Representation, East Africa, EIB. *On how the EIB response to COVID-19 is operationalised with local partners.*
-* [Soren Andreasen](https://www.linkedin.com/in/s%C3%B8ren-peter-andreasen-86b153/), General Manager, European Development Finance Institutions (EDFI), *On DFI Alliance, and collaboration among DFIs on COVID-19 response*.
-* [Tillman Bruett](https://www.dai.com/who-we-are/our-team/till-bruett), Global Practice Lead, Financial Services and Investment, DAI. *On how the U.S. Agency for International Development-funded [INVEST](http://) project is adapting and supporting investment work including the health sector.*
+* Facilitator: [San Bilal](https://ecdpm.org/people/sanbilal/), Head of Programme Trade, Investment and Finance, ECDPM
+* [Catherine Collin](https://www.linkedin.com/in/catherine-collin-9a2a361a/?originalSubdomain=ke), Head of Regional Representation, East Africa, EIB
+* [Soren Andreasen](https://www.linkedin.com/in/s%C3%B8ren-peter-andreasen-86b153/), General Manager, European Development Finance Institutions (EDFI)
+* [Tillman Bruett](https://www.dai.com/who-we-are/our-team/till-bruett), Global Practice Lead, Financial Services and Investment, DAI
 
 **Webinar 4: Building stronger health systems going forward**
 
@@ -95,7 +92,7 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 **Speakers (tbc):**
 
 * Facilitator: [Mariella Di Ciommo](https://ecdpm.org/people/mariella-di-ciommo/), Policy officer, ECDPM 
-* Mar Martinez, Policy Officer, Health Policy and Programmes, Culture Education and Health Unit, DEVCO (DEVCO B4). *The EU’s actions to strengthen public health systems in and with partner countries, main challenges and opportunities ahead.*
-* [Dr. Paulin Basinga](https://www.gatesfoundation.org/Who-We-Are/General-Information/Leadership/Global-Development/Paulin-Basinga), Gates Foundation Country Director, Nigeria. *The innovative approaches of the Technical Assistance Hub to strengthen community health systems in Nigeria. How the Gates Foundation is operationalising its commitment to protect the most vulnerable, accelerate containment of the virus, develop treatments and a vaccine, and minimize societal and economic impact of the pandemic.* 
-* Winyi Kaboyo, Country Coordinator, U.K. Department for International Development-funded [Tackling Deadly Diseases in Africa Programme](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program). 
-* [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), Chief Technology Officer, DAI Global Health. *On the effect of technology and digital tools in health services, and the design of a [COVID-19 tracker application for Haiti](https://www.dai.com/news/usaid-program-develops-tool-to-support-covid-19-tracking-in-haiti)’s health information systems developed to enroll and monitor future patients throughout the country.*
+* Mar Martinez, Policy Officer, Health Policy and Programmes, Culture Education and Health Unit, DEVCO (DEVCO B4)
+* [Dr. Paulin Basinga](https://www.gatesfoundation.org/Who-We-Are/General-Information/Leadership/Global-Development/Paulin-Basinga), Gates Foundation Country Director, Nigeria
+* Winyi Kaboyo, Country Coordinator, U.K. Department for International Development-funded [Tackling Deadly Diseases in Africa Programme](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program)
+* [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), Chief Technology Officer, DAI Global Health
