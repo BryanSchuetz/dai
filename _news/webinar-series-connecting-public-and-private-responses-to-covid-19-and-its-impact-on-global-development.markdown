@@ -39,7 +39,7 @@ The webinars, using Webex, will be recorded and remain available on DAI’s and 
 
 [![DAI ECDPM postcard.png](/uploads/DAI%20ECDPM%20postcard.png)](https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform)
 
-**Strengthening MSMEs for economic resilience and sustainable development**
+**Webinar 1: Strengthening MSMEs for economic resilience and sustainable development**
 
 **Date:** Monday, June 15, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) 
 
@@ -54,7 +54,7 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
 * [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories. On the World Bank’s [Innovative Private Sector Development Project](https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp) (IPSDP)'s Rapid COVID-19 Response Intervention that enables business survival and continuity and supports startups and MSMEs. 
 * [Carole Kariuki](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA. How the public-private dialogue in Kenya led to the design of a strategic recommendations matrix that was presented and discussed with the government, and the measures to support MSMEs. 
 
-**COVID-19 and the accelerated digitalisation of developing countries’ economies**
+**Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’ economies**
 
 **Date:** Monday, June 22, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) 
 
@@ -71,7 +71,7 @@ How can the EU best support countries that sometimes still lack the necessary in
 * [Jonathan Donner](https://www.cariboudigital.net/advisor/jonathan-donner/), Senior Director for Research, Caribou Digital. *On data and research and in particular the “Digital After Covid” research project that tracks efforts for an inclusive digital society after the pandemic.*  
 * [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab. *On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth.*
 
-**How Covid-19 calls for an alliance for financing**
+**Webinar 3: How Covid-19 calls for an alliance for financing**
 
 **Date:** Monday, June 29, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time)  
 
@@ -86,7 +86,7 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 * [Soren Andreasen](https://www.linkedin.com/in/s%C3%B8ren-peter-andreasen-86b153/), General Manager, European Development Finance Institutions (EDFI), *On DFI Alliance, and collaboration among DFIs on COVID-19 response*.
 * [Tillman Bruett](https://www.dai.com/who-we-are/our-team/till-bruett), Global Practice Lead, Financial Services and Investment, DAI. *On how the U.S. Agency for International Development-funded [INVEST](http://) project is adapting and supporting investment work including the health sector.*
 
-**Building stronger health systems going forward**
+**Webinar 4: Building stronger health systems going forward**
 
 **Date:** Monday, July 6, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) 
 
