@@ -2,20 +2,23 @@
 title: Christina Aguila
 date: 2018-06-06 17:13:00 Z
 lastname: Aguila
-summary: Christina Aguila focuses on corporate social investment projects for DAI’s
-  Sustainable Business Group and provides project management, business development,
-  and technical support for market and supplier analysis.
-job-title: Analyst
+summary: 'Christina Aguila provides program design services, technical analysis and
+  implementation, and project management for multinational energy companies, trade
+  associations, and government clients engaged in corporate social responsibility
+  and local content strategies. '
+job-title: Senior Analyst
 image: "/uploads/caguila_photo_web.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
 - 
+regions:
+- Worldwide
 ---
 
-After beginning her career in international education and exchange, Christina Aguila returned to graduate school where she became interested in economic development. Her focus on private sector engagement and environmental and social sustainability led her to work with DAI’s Sustainable Business Group, where she supports project management, business development, and technical analysis for corporate social investment projects and local content strategies.
+Christina Aguila is an international development professional with a background in enterprise development and economic growth. As a Senior Analyst with DAI’s private sector practice, she provides program design services, technical analysis and implementation, and project management for multinational energy companies, trade associations, and government clients engaged in corporate social responsibility and local content strategies. Her work has involved launching new training products and designing programs for supplier development and entrepreneurship initiatives, organizing trade missions, and conducting competitiveness assessments for small and medium businesses.
 
-Prior to joining DAI, Christina worked at the Economic Growth Institute at the University of Michigan, where she researched industry trends and economic growth opportunities for public- and private-sector audiences engaged in manufacturing. She also served as a Fulbright teaching fellow in Indonesia and worked on development projects and strategic partnerships for agencies of the United Nations, the U.S. Department of State, and various nongovernmental organizations.
+Prior to joining DAI, Christina researched industry trends and supported a program on business improvement opportunities for small and mid-size manufacturers at the University of Michigan. She has lived in Indonesia while serving as a Fulbright teaching fellow and has worked with United Nations agencies, the U.S. Department of State, and various nongovernmental groups on strategic initiatives and partnerships.
 
 * M.P.A., New York University
-* B.A., international studies, University of California San Diego
+* B.A., international studies, University of California, San Diego
