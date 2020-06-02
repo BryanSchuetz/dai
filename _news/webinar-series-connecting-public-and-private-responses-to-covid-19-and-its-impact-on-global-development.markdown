@@ -6,7 +6,14 @@ published: false
 tags:
 - COVID-19
 - health
+solutions:
+- Global Health
+- Global Health Security and Pandemic Preparedness
 clients: European Union
+summary: DAI and ECDPM have team up to offer a summer webinar series to reflect on
+  the immediate reaction of the development community and support the post-pandemic
+  global response of the European Union (EU).
+social-image: "/uploads/sm%20DAI%20ECDPM%20postcard.png"
 ---
 
 The COVID-19 pandemic is increasingly challenging developing countries, particularly the least developed, as per a recent estimate from UNDP that sees their income loss exceeding $220 billion.
