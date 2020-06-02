@@ -1,13 +1,13 @@
 ---
 title: Adi Subramanian-Montgomery
 date: 2020-06-02 09:06:00 Z
-published: false
 lastname: 'Subramanian-Montgomery '
 summary: Adi Subramanian-Montgomery is an engineer and sustainable development professional,
   conducting data-rich analysis, providing strategic advisory, and developing products,
   services, and methodologies for SBG’s international portfolio of clients on climate
   change, infrastructure, and private sector energy projects.
 job-title: 'Senior Research Analyst '
+image: "/uploads/Adi_SM_Photo_Cropped.jpg"
 solutions:
 - Sustainable Business
 regions:
