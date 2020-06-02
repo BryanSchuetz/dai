@@ -60,8 +60,8 @@ How can the EU best support countries that sometimes still lack the necessary in
 * [Krista Baptista,](https://www.dai.com/who-we-are/our-team/krista-baptista) DAI’s Center for Digital Acceleration. *How to support donors, governments and private partners integrate sustainable digital tools and approaches. Recent examples of COVID-19 responses that integrate the digital tool and how they make a difference. *
 * [Sandro Bazzanella](https://www.linkedin.com/in/bazzanella/?originalSubdomain=be), EU Digital Cooperation expert (tbc). *On the EU’s digital policy framework and how it adapts to the current context.* 
 * [Jonathan Donner](https://www.cariboudigital.net/advisor/jonathan-donner/), Senior Director for Research, Caribou Digital. *On data and research and in particular the “Digital After Covid” research project that tracks efforts for an inclusive digital society after the pandemic.*  
-* [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab. *On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth.* 
- 
+* [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab. *On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth.*
+
 **How Covid-19 calls for an alliance for financing**
 
 **Date:** Monday, June 29, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time)  
@@ -75,8 +75,8 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 * Facilitator: [San Bilal](https://ecdpm.org/people/sanbilal/), Head of Programme Trade, Investment and Finance, ECDPM. *On Team Europe’s response, the EU blending and guarantee mechanisms and the critical role DFIs can play. Importance to mobilise at scale and de-risk financing. *
 * [Catherine Collin](https://www.linkedin.com/in/catherine-collin-9a2a361a/?originalSubdomain=ke), Head of Regional Representation, East Africa, EIB. *On how the EIB response to COVID-19 is operationalised with local partners.*
 * [Soren Andreasen](https://www.linkedin.com/in/s%C3%B8ren-peter-andreasen-86b153/), General Manager, European Development Finance Institutions (EDFI), *On DFI Alliance, and collaboration among DFIs on COVID-19 response*.
-* [Tillman Bruett](https://www.dai.com/who-we-are/our-team/till-bruett), Global Practice Lead, Financial Services and Investment, DAI. *On how the U.S. Agency for International Development-funded [INVEST](http://) project is adapting and supporting investment work including the health sector.* 
- 
+* [Tillman Bruett](https://www.dai.com/who-we-are/our-team/till-bruett), Global Practice Lead, Financial Services and Investment, DAI. *On how the U.S. Agency for International Development-funded [INVEST](http://) project is adapting and supporting investment work including the health sector.*
+
 **Building stronger health systems going forward**
 
 **Date:** Monday, July 6, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) 
