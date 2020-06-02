@@ -173,6 +173,8 @@ algolia:
   application_id: R7MRY12BR6
   index_name: dai
   files_to_exclude:
+- news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
+- _news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
   - view-more-articles.md
   - view-more-news.md
   - our-work/projects.md
