@@ -82,11 +82,9 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 
 **Speakers (tbc):**
 
-* Facilitator: Mariella Di Ciommo, Policy officer, ECDPM 
-* Mar Martinez, Policy Officer, Health Policy and Programmes, Culture Education and Health Unit, DEVCO (DEVCO B4) 
-The EU’s actions to strengthen public health systems in and with partner countries, main challenges and opportunities ahead.
-* Dr Paulin Basinga, Gates Foundation Country Director, Nigeria  
-The innovative approaches of the Technical Assistance Hub to strengthen community health systems in Nigeria. How the Gates Foundation is operationalising its commitment to protect the most vulnerable, accelerate containment of the virus, develop treatments and a vaccine, and minimize societal and economic impact of the pandemic. 
-•	Winyi Kaboyo - Country Coordinator, DFID funded “Tackling Deadly Diseases in Africa Programme” (TDDAP) project. 
+* Facilitator: [Mariella Di Ciommo](https://ecdpm.org/people/mariella-di-ciommo/), Policy officer, ECDPM 
+* Mar Martinez, Policy Officer, Health Policy and Programmes, Culture Education and Health Unit, DEVCO (DEVCO B4). *The EU’s actions to strengthen public health systems in and with partner countries, main challenges and opportunities ahead.*
+* [Dr. Paulin Basinga](https://www.gatesfoundation.org/Who-We-Are/General-Information/Leadership/Global-Development/Paulin-Basinga), Gates Foundation Country Director, Nigeria. *The innovative approaches of the Technical Assistance Hub to strengthen community health systems in Nigeria. How the Gates Foundation is operationalising its commitment to protect the most vulnerable, accelerate containment of the virus, develop treatments and a vaccine, and minimize societal and economic impact of the pandemic.* 
+* Winyi Kaboyo, Country Coordinator, U.K. Department for International Development-funded [Tackling Deadly Diseases in Africa Programme](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program). 
 •	Bobby Jeffersen, Chief Technology Officer, DAI Global Health 
-On the effect of technology and digital tools in health services, and the design of a COVID-19 tracker application for Haiti’s health information systems developed to enrol and monitor future patients throughout the country.
+On the effect of technology and digital tools in health services, and the design of a COVID-19 tracker application for Haiti’s health information systems developed to enroll and monitor future patients throughout the country.
