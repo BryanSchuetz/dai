@@ -20,7 +20,7 @@ DAI-ECDPM webinars bring together public and private practitioners to reflect on
 
 The webinars, using Webex, will be recorded and remain available on DAI’s and ECDPM’s websites. 
 
-### Weekly Webinars
+### Weekly Calendar
  
 * June 15: “Strengthening MSMEs for economic resilience and sustainable development” (details below) 
 * June 22: “COVID-19 and the accelerated digitalisation of developing countries’ economies” (details below) 
@@ -29,70 +29,62 @@ The webinars, using Webex, will be recorded and remain available on DAI’s and 
 
 **Strengthening MSMEs for economic resilience and sustainable development**
 
-Date: Monday, June 15, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
+**Date:** Monday, June 15, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
 
-Micro, small-, and medium-sized enterprises (MSMEs) are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that more than 50 percent of them will not survive the next few months. 
+**Description:** Micro, small-, and medium-sized enterprises (MSMEs) are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that more than 50 percent of them will not survive the next few months. 
 
 In low-income countries, formal and informal MSMEs are significant engines of growth, employment, innovation, and social development. This webinar will showcase public and private sector initiatives to support MSMEs in the wake of the coronavirus outbreak, and discuss how governments and development partners could further engage with the private sector to pave the way to a quicker and environmentally sustainable economy recovery in developing countries. 
 
-Speakers:
-
-* Introduction and facilitation: [Jeske van Seters](https://ecdpm.org/people/jeskevanseters/), Head of Programme Private Sector Engagement, ECDPM 
+**Speakers:**
+* Facilitator: [Jeske van Seters](https://ecdpm.org/people/jeskevanseters/), Head of Programme Private Sector Engagement, ECDPM 
 * [Emmanuel Moyart](https://www.linkedin.com/in/emmanuel-moyart-7305aa27/?locale=en_US), Team Leader, DEVCO C4 [Trade and Private Sector Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). How can the EU support the private sector and in particular SMEs, the question of the informal sector, with examples from EU Delegations’ work in Uganda and Tunisia. 
 * [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories. On the World Bank’s [Innovative Private Sector Development Project](https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp) (IPSDP)'s Rapid COVID-19 Response Intervention that enables business survival and continuity and supports startups and MSMEs. 
 * [Carole Kariuki](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA. How the public-private dialogue in Kenya led to the design of a strategic recommendations matrix that was presented and discussed with the government, and the measures to support MSMEs. 
  
 **COVID-19 and the accelerated digitalisation of developing countries’ economies**
 
-Date: Monday, June 22, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time
+**Date:** Monday, June 22, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time
 
-Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, and helped young people keep learning and studying. 
+**Description:** Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, and helped young people keep learning and studying. 
 
 The EU has been supporting and advocating an inclusive digital transformation inside and outside its borders for many years. But the coronavirus pandemic is fast forwarding us into the fourth industrial revolution and calls for rapid actions to support this transition. 
 How can the EU best support countries that sometimes still lack the necessary infrastructure and equipment to deploy e-solutions, or where people’s livelihood rely on informal day-by-day income generating activities? This webinar brings together specialists to discuss this accelerated digitalisation of developing countries’ economies, and how can the EU support this transition to ensure no one is left behind. 
 
-Speakers:
+**Speakers:**
 
-* Facilitation: Chloe Teevan, Policy officer, ECDPM
-* Krista Baptista, DAI’s Center for Digital Acceleration  
-How to support donors, governments and private partners integrate sustainable digital tools and approaches. Recent examples of COVID-19 responses that integrate the digital tool and how they make a difference. 
-* Sandro Bazzanella,  EU Digital Cooperation expert (tbc)
-On the EU’s digital policy framework and how it adapts to the current context. 
-* Jonathan Donner, Senior Director for Research, Caribou Digital. On data and research and in particular the “Digital After Covid” research project that tracks efforts for an inclusive digital society after the pandemic.  
-*Karim Bin Humam, Director of Operations Skilllab. On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth. 
+* Facilitator: [Chloe Teevan](https://ecdpm.org/people/chloe-teevan/), Policy officer, ECDPM
+* [Krista Baptista,](https://www.dai.com/who-we-are/our-team/krista-baptista) DAI’s Center for Digital Acceleration. *How to support donors, governments and private partners integrate sustainable digital tools and approaches. Recent examples of COVID-19 responses that integrate the digital tool and how they make a difference. *
+* [Sandro Bazzanella](https://www.linkedin.com/in/bazzanella/?originalSubdomain=be), EU Digital Cooperation expert (tbc). *On the EU’s digital policy framework and how it adapts to the current context.* 
+* [Jonathan Donner](https://www.cariboudigital.net/advisor/jonathan-donner/), Senior Director for Research, Caribou Digital. *On data and research and in particular the “Digital After Covid” research project that tracks efforts for an inclusive digital society after the pandemic.*  
+* [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab. *On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth.* 
  
 **How Covid-19 calls for an alliance for financing**
 
-Date: Monday, June 29, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
+**Date:** Monday, June 29, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
 
-In its Communication on the global response the pandemic, the EU announces that the mobilisation of EUR 15.6 billion from existing external actions will allow its action to be “fast, adapted and operational”. Blended finance and guarantee funds (and in particular the EFSD) should play a significant role in the Team Europe response, as they will allow to leverage new financial resources. The EIB will contribute €5.2 billion to the EU response to Covid-19 outside the EU.
+**Description:** In its Communication on the global response the pandemic, the EU announces that the mobilisation of €15.6 billion from existing external actions will allow its action to be “fast, adapted and operational”. Blended finance and guarantee funds (and in particular the EFSD) should play a significant role in the Team Europe response, as they will allow to leverage new financial resources. The EIB will contribute €5.2 billion to the EU response to Covid-19 outside the EU.
+
 The DFI Alliance (US, Canada and European DFIs) announced their joint efforts to mobilize financial resources and bring technical expertise to private sector enterprises in emerging and frontier markets. 
 The webinar will bring together Development specialists, DFIs and FinTechs, to explore and compare various instruments and mechanisms implemented by EU Member states and international donors.
 
+**Speakers:**
 
-Speakers:
-
-•	Intro and facilitation: San Bilal, Head of Programme Trade, Investment and Finance, ECDPM 
-On Team Europe’s response, the EU blending and guarantee mechanisms and the critical role DFIs can play. Importance to mobilise at scale and de-risk financing. 
-•	Catherine Collin, Head of Regional Representation, East Africa, European Investment Bank (EIB)
-On how the EIB response to Covid-19 is operationalised with local partners.
-•	Soren Andreasen, General Manager, European Development Finance Institutions (EDFI)
-On DFI Alliance, and collaboration among DFIs on Covid-response.
-•	Tillman Bruett, Global practice lead, Financial Services and Investment, DAI 
-On how the USAID funded INVEST programme is adapting and supporting investment work including the health sector. 
-
+* Facilitator: San Bilal, Head of Programme Trade, Investment and Finance, ECDPM. On Team Europe’s response, the EU blending and guarantee mechanisms and the critical role DFIs can play. Importance to mobilise at scale and de-risk financing. 
+* Catherine Collin, Head of Regional Representation, East Africa, European Investment Bank (EIB). On how the EIB response to Covid-19 is operationalised with local partners.
+* Soren Andreasen, General Manager, European Development Finance Institutions (EDFI), On DFI Alliance, and collaboration among DFIs on Covid-response.
+* Tillman Bruett, Global Practice Lead, Financial Services and Investment, DAI. On how the USAID-funded INVEST project is adapting and supporting investment work including the health sector. 
  
-Building stronger health systems going forward
+**Building stronger health systems going forward**
 
 Date: Monday, July 6th
 Time: 3 pm to 4:15 pm CEST
 
-The COVID-19 pandemic is propelling global health as a major priority of the EU’s development aid agenda.  This webinar will showcase various health projects and their different reactions to the pandemic: from traditional awareness raising campaigns to high tech digital tools, the covid-19 pandemic is forcing creativity and innovation. Panelists will reflect on how the emergency reaction and global creativity can help build stronger health systems, in partnership with governments, communities, and regional professional networks. 
+**Description:** The COVID-19 pandemic is propelling global health as a major priority of the EU’s development aid agenda. This webinar showcases various health projects and their different reactions to the pandemic: from traditional awareness raising campaigns to high-tech digital tools, the covid-19 pandemic is forcing creativity and innovation. Panelists will reflect on how the emergency reaction and global creativity can help build stronger health systems, in partnership with governments, communities, and regional professional networks. 
 
-Speakers (tbc):
+**Speakers (tbc):**
 
-•	Facilitator: Mariella Di Ciommo, Policy officer, ECDPM 
-•	Mar Martinez, Policy Officer, Health Policy and Programmes, Culture Education and Health Unit, DEVCO (DEVCO B4) 
+* Facilitator: Mariella Di Ciommo, Policy officer, ECDPM 
+* Mar Martinez, Policy Officer, Health Policy and Programmes, Culture Education and Health Unit, DEVCO (DEVCO B4) 
 The EU’s actions to strengthen public health systems in and with partner countries, main challenges and opportunities ahead.
 •	Dr Paulin Basinga, Gates Foundation Country Director, Nigeria  
 The innovative approaches of the Technical Assistance Hub to strengthen community health systems in Nigeria. How the Gates Foundation is operationalising its commitment to protect the most vulnerable, accelerate containment of the virus, develop treatments and a vaccine, and minimize societal and economic impact of the pandemic. 
