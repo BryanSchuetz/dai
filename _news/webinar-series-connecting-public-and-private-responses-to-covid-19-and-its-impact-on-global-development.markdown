@@ -44,7 +44,7 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
 * [Emmanuel Moyart](https://www.linkedin.com/in/emmanuel-moyart-7305aa27/?locale=en_US), Team Leader, DEVCO C4 [Trade and Private Sector Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). How can the EU support the private sector and in particular SMEs, the question of the informal sector, with examples from EU Delegations’ work in Uganda and Tunisia. 
 * [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories. On the World Bank’s [Innovative Private Sector Development Project](https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp) (IPSDP)'s Rapid COVID-19 Response Intervention that enables business survival and continuity and supports startups and MSMEs. 
 * [Carole Kariuki](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA. How the public-private dialogue in Kenya led to the design of a strategic recommendations matrix that was presented and discussed with the government, and the measures to support MSMEs. 
- 
+
 **COVID-19 and the accelerated digitalisation of developing countries’ economies**
 
 **Date:** Monday, June 22, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) 
