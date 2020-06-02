@@ -20,12 +20,12 @@ DAI-ECDPM webinars bring together public and private practitioners to reflect on
 
 The webinars, using Webex, will be recorded and remain available on DAI’s and ECDPM’s websites. 
 
-### Calendar Weekly Webinars
+### Weekly Webinars
  
-* June 15: “Strengthening MSMEs for economic resilience and sustainable development” (all details below) 
-* June 22: “COVID-19 and the accelerated digitalisation of developing countries’ economies” (all details below) 
-* June 29: “How COVID-19 calls for an alliance for financing” (all details below) 
-* July 6: “Building stronger health systems going forward” (all details below) 
+* June 15: “Strengthening MSMEs for economic resilience and sustainable development” (details below) 
+* June 22: “COVID-19 and the accelerated digitalisation of developing countries’ economies” (details below) 
+* June 29: “How COVID-19 calls for an alliance for financing” (details below) 
+* July 6: “Building stronger health systems going forward” (details below) 
 
 **Strengthening MSMEs for economic resilience and sustainable development**
 
