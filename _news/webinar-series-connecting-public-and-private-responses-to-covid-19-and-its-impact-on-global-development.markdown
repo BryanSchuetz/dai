@@ -58,6 +58,7 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
 **Description:** Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, and helped young people keep learning and studying. 
 
 The EU has been supporting and advocating an inclusive digital transformation inside and outside its borders for many years. But the coronavirus pandemic is fast forwarding us into the fourth industrial revolution and calls for rapid actions to support this transition. 
+
 How can the EU best support countries that sometimes still lack the necessary infrastructure and equipment to deploy e-solutions, or where people’s livelihood rely on informal day-by-day income generating activities? This webinar brings together specialists to discuss this accelerated digitalisation of developing countries’ economies, and how can the EU support this transition to ensure no one is left behind. 
 
 **Speakers:**
