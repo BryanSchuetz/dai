@@ -49,31 +49,21 @@ Date: Monday, June 22, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Cen
 Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, and helped young people keep learning and studying. 
 
 The EU has been supporting and advocating an inclusive digital transformation inside and outside its borders for many years. But the coronavirus pandemic is fast forwarding us into the fourth industrial revolution and calls for rapid actions to support this transition. 
-How can the EU best support countries that sometimes still lack the necessary infrastructure and equipment to deploy e-solutions, or where people’s livelihood rely on informal day-by-day income generating activities? This webinar will bring together a panel of specialists to discuss this accelerated digitalisation of developing countries’ economies, and how can the EU support this transition to ensure no one is left behind. 
+How can the EU best support countries that sometimes still lack the necessary infrastructure and equipment to deploy e-solutions, or where people’s livelihood rely on informal day-by-day income generating activities? This webinar brings together specialists to discuss this accelerated digitalisation of developing countries’ economies, and how can the EU support this transition to ensure no one is left behind. 
 
 Speakers:
 
 * Facilitation: Chloe Teevan, Policy officer, ECDPM
-
-•	Krista Baptista, DAI’s Center for Digital Acceleration  
+* Krista Baptista, DAI’s Center for Digital Acceleration  
 How to support donors, governments and private partners integrate sustainable digital tools and approaches. Recent examples of COVID-19 responses that integrate the digital tool and how they make a difference. 
-
-•	Sandro Bazzanella,  EU Digital Cooperation expert (tbc)
+* Sandro Bazzanella,  EU Digital Cooperation expert (tbc)
 On the EU’s digital policy framework and how it adapts to the current context. 
-
-•	Jonathan Donner, Senior Director for Research, Caribou Digital
-
-On data and research and in particular the “Digital After Covid” research project that tracks efforts for an inclusive digital society after the pandemic.  
-
-•	Karim Bin Humam,  Director of Operations Skilllab
-On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth. 
-
-
+* Jonathan Donner, Senior Director for Research, Caribou Digital. On data and research and in particular the “Digital After Covid” research project that tracks efforts for an inclusive digital society after the pandemic.  
+*Karim Bin Humam, Director of Operations Skilllab. On the social impact and technology nexus, and in particular skills matching for post-COVID employment and growth. 
  
-How Covid-19 calls for an alliance for financing
+**How Covid-19 calls for an alliance for financing**
 
-Date: Monday, June 29th 
-Time: 3 pm to 4:15 pm CEST
+Date: Monday, June 29, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
 
 In its Communication on the global response the pandemic, the EU announces that the mobilisation of EUR 15.6 billion from existing external actions will allow its action to be “fast, adapted and operational”. Blended finance and guarantee funds (and in particular the EFSD) should play a significant role in the Team Europe response, as they will allow to leverage new financial resources. The EIB will contribute €5.2 billion to the EU response to Covid-19 outside the EU.
 The DFI Alliance (US, Canada and European DFIs) announced their joint efforts to mobilize financial resources and bring technical expertise to private sector enterprises in emerging and frontier markets. 
