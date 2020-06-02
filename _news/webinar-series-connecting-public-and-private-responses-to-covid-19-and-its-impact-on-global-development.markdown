@@ -19,7 +19,7 @@ As a leading think-and-do tank on sustainable development policies and practices
 
 One of the outcomes of this global effort is to share this knowledge and engage with our partners and clients in online discussions targeting a European and international audience of global development stakeholders, through practical webinars addressing their main priorities. 
 
-DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the European Union, as per its recent [Communication](https://ec.europa.eu/international-partnerships/system/files/joint-comm-2020-eu-global-response_en.pdf). 
+DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the European Union (EU), as per its recent [Communication](https://ec.europa.eu/international-partnerships/system/files/joint-comm-2020-eu-global-response_en.pdf). 
 
 The webinars, using Webex, will be recorded and remain available on DAI’s and ECDPM’s websites. 
 
@@ -34,7 +34,7 @@ The webinars, using Webex, will be recorded and remain available on DAI’s and 
 
 **Date:** Monday, June 15, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) 
 
-**Description:** Micro, small-, and medium-sized enterprises (MSMEs) are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that more than 50 percent of them will not survive the next few months. 
+**Description:** Micro-, small-, and medium-sized enterprises (MSMEs) are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that more than 50 percent of them will not survive the next few months. 
 
 In low-income countries, formal and informal MSMEs are significant engines of growth, employment, innovation, and social development. This webinar will showcase public and private sector initiatives to support MSMEs in the wake of the coronavirus outbreak, and discuss how governments and development partners could further engage with the private sector to pave the way to a quicker and environmentally sustainable economy recovery in developing countries. 
 
