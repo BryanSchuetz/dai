@@ -3,6 +3,9 @@ title: 'Webinar Series: Connecting Public and Private Responses to COVID-19 and 
   Impact on Global Development'
 date: 2020-06-02 13:12:00 Z
 published: false
+tags:
+- COVID-19
+- health
 clients: European Union
 ---
 
