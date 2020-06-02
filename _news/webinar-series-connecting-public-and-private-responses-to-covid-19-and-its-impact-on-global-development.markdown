@@ -8,34 +8,28 @@ clients: European Union
 
 The COVID-19 pandemic is increasingly challenging developing countries, particularly the least developed, as per a recent estimate from UNDP that sees their income loss exceeding $220 billion.
 
-As a global company implementing development aid in challenging environments and a long-term presence in more than 100 countries, DAI is currently leveraging its in-house expertise and multiclient experience to create synergies, share knowledge and identify innovative solutions to the global covid-19 crisis. DAI’s teams around the world are in close communication with donors and partner countries stakeholders to coordinate an effective response to the pandemic. In-house technical staff are developing toolkits, including organisation-wide response strategies, project/context/sectoral approaches to adaptation, as well as developing digital approaches and solutions.
+As a global company implementing development aid in challenging environments and a long-term presence in more than 100 countries, we are leveraging our in-house expertise and multiclient experience to create synergies, share knowledge, and identify innovative solutions to the global COVID-19 crisis. DAI’s teams around the world are in close communication with donors and partner countries stakeholders to coordinate an effective response to the pandemic. In-house technical staff are developing toolkits, including organisation-wide response strategies, project/context/sectoral approaches to adaptation, as well as developing digital approaches and solutions.
 
-As a leading think-and-do tank on sustainable development policies and practices, the European Centre for Development Policy Management (ECDPM) has mobilised its expertise and key network, from policy-makers, knowledge institutions to business associations and development financiers, in an effort to reflect on how best to address the challenges of the Covid-19 pandemic, and how this may affect EU-Africa relations, and development and international cooperation more broadly. 
+As a leading think-and-do tank on sustainable development policies and practices, the [European Centre for Development Policy Management](https://ecdpm.org/) (ECDPM) has mobilised its expertise and key network, from policy makers and knowledge institutions, to business associations and development financiers, in an effort to reflect on how best to address the [challenges of the pandemic](https://ecdpm.org/dossiers/covid-19-international-cooperation/), and how this may affect EU-Africa relations, and development and international cooperation more broadly. 
 
 ## Practical Webinars 
 
 One of the outcomes of this global effort is to share this knowledge and engage with our partners and clients in online discussions targeting a European and international audience of global development stakeholders, through practical webinars addressing their main priorities. 
 
-DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the European Union, as per its recent Communication. 
-
-Four webinar sessions of 75 minutes will be organised in June 2020. Depending on the interest in the webinar sessions and evolution of the COVID-19 situation, the series might be expanded. 
-
-DAI and ECDPM will invite a balanced range of speakers and target relevant audiences, promoting the webinars through their online channels (newsletters, social media, websites…).
+DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the European Union, as per its recent [Communication](https://ec.europa.eu/international-partnerships/system/files/joint-comm-2020-eu-global-response_en.pdf). 
 
 The webinars, using Webex, will be recorded and remain available on DAI’s and ECDPM’s websites. 
 
 ### Calendar Weekly Webinars
  
-* June 15: “Strengthening MSMEs for economic resilience and sustainable development”
-* June 22: “COVID-19 and the accelerated digitalisation of developing countries’ economies”
-* June 29: “How COVID-19 calls for an alliance for financing”
-* July 6: “Building stronger health systems going forward”
+* June 15: “Strengthening MSMEs for economic resilience and sustainable development” (all details below) 
+* June 22: “COVID-19 and the accelerated digitalisation of developing countries’ economies” (all details below) 
+* June 29: “How COVID-19 calls for an alliance for financing” (all details below) 
+* July 6: “Building stronger health systems going forward” (all details below) 
 
+**Strengthening MSMEs for economic resilience and sustainable development**
 
-Strengthening MSMEs for economic resilience and sustainable development
-
-Date: Monday, June 15th 
-Time: 3 pm to 4:15 pm CEST
+Date: Monday, June 15, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
 
 Micro, small and medium sized enterprises are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that over 50% of them will not survive the next few months. 
 In low income countries, formal and informal Micro, Small and Medium Enterprises (MSMEs) are significant engines of growth, employment, innovation and social development. This webinar will showcase public and private sector initiatives to support MSMEs in the wake of the coronavirus outbreak, and discuss how governments and development partners could look for ways to further engage with the private sector to pave the way to a quicker and socially and environmentally sustainable economy recovery in developing countries. 
