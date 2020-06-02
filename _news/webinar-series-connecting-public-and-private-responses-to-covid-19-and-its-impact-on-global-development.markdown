@@ -31,35 +31,29 @@ The webinars, using Webex, will be recorded and remain available on DAI’s and 
 
 Date: Monday, June 15, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
 
-Micro, small and medium sized enterprises are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that over 50% of them will not survive the next few months. 
-In low income countries, formal and informal Micro, Small and Medium Enterprises (MSMEs) are significant engines of growth, employment, innovation and social development. This webinar will showcase public and private sector initiatives to support MSMEs in the wake of the coronavirus outbreak, and discuss how governments and development partners could look for ways to further engage with the private sector to pave the way to a quicker and socially and environmentally sustainable economy recovery in developing countries. 
+Micro, small-, and medium-sized enterprises (MSMEs) are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that more than 50 percent of them will not survive the next few months. 
+
+In low-income countries, formal and informal MSMEs are significant engines of growth, employment, innovation, and social development. This webinar will showcase public and private sector initiatives to support MSMEs in the wake of the coronavirus outbreak, and discuss how governments and development partners could further engage with the private sector to pave the way to a quicker and environmentally sustainable economy recovery in developing countries. 
 
 Speakers:
 
-•	Introduction and facilitation: Jeske van Seters, Head of Programme Private Sector Engagement, ECDPM 
-•	Emmanuel Moyart, Team Leader, DEVCO C4 Trade and Private Sector Facility   
-How can the EU support the private sector and in particular SMEs, the question of the informal sector. Examples from EU Delegations’ work in Uganda and Tunisia. 
-
-•	Said Abu Hijleh, DAI Country Director, Palestinian Territories
-On the World Bank’s Innovative Private Sector Development Project (IPSDP) “Rapid COVID-19 Response Intervention that enables business survival and continuity and supports startups/SMEs in the Palestinian territories. 
-
-•	Carole Kariuki, CEO of the Kenyan Private Sector Organisation KEPSA (tbc)
-How the Public-Private dialogue in Kenya, led to the design of a strategic recommendations matrix that was presented and discussed with the Government, and the measures in place to support MSMEs. 
-
+* Introduction and facilitation: [Jeske van Seters](https://ecdpm.org/people/jeskevanseters/), Head of Programme Private Sector Engagement, ECDPM 
+* [Emmanuel Moyart](https://www.linkedin.com/in/emmanuel-moyart-7305aa27/?locale=en_US), Team Leader, DEVCO C4 [Trade and Private Sector Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). How can the EU support the private sector and in particular SMEs, the question of the informal sector, with examples from EU Delegations’ work in Uganda and Tunisia. 
+* [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories. On the World Bank’s [Innovative Private Sector Development Project](https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp) (IPSDP)'s Rapid COVID-19 Response Intervention that enables business survival and continuity and supports startups and MSMEs. 
+* [Carole Kariuki](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA. How the public-private dialogue in Kenya led to the design of a strategic recommendations matrix that was presented and discussed with the government, and the measures to support MSMEs. 
  
-COVID-19 and the accelerated digitalisation of developing countries’ economies
+**COVID-19 and the accelerated digitalisation of developing countries’ economies**
 
-Date: Monday, June 22nd  
-Time: 3 pm to 4:15 pm CEST
+Date: Monday, June 22, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time
 
-Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, helped the youth to keep learning and studying. 
+Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, and helped young people keep learning and studying. 
+
 The EU has been supporting and advocating an inclusive digital transformation inside and outside its borders for many years. But the coronavirus pandemic is fast forwarding us into the fourth industrial revolution and calls for rapid actions to support this transition. 
-How can the EU best support countries that sometimes still lack the necessary infrastructure and equipement to deploy e-solutions, or where people’s livelihood rely on informal day-by-day income generating activities? This webinar will bring together a panel of specialists to discuss this accelerated digitalisation of developing countries’ economies, and how can the EU support this transition to ensure no one is left behind. 
-
+How can the EU best support countries that sometimes still lack the necessary infrastructure and equipment to deploy e-solutions, or where people’s livelihood rely on informal day-by-day income generating activities? This webinar will bring together a panel of specialists to discuss this accelerated digitalisation of developing countries’ economies, and how can the EU support this transition to ensure no one is left behind. 
 
 Speakers:
 
-•	Facilitation: Chloe Teevan, Policy officer, ECDPM
+* Facilitation: Chloe Teevan, Policy officer, ECDPM
 
 •	Krista Baptista, DAI’s Center for Digital Acceleration  
 How to support donors, governments and private partners integrate sustainable digital tools and approaches. Recent examples of COVID-19 responses that integrate the digital tool and how they make a difference. 
