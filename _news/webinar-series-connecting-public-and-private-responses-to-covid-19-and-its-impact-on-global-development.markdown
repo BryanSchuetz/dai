@@ -29,13 +29,14 @@ The webinars, using Webex, will be recorded and remain available on DAI’s and 
 
 **Strengthening MSMEs for economic resilience and sustainable development**
 
-**Date:** Monday, June 15, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
+**Date:** Monday, June 15, 9am–10:15am, Eastern Daylight Time; 3pm–4:15pm Central European Summer Time 
 
 **Description:** Micro, small-, and medium-sized enterprises (MSMEs) are dramatically affected by the coronavirus pandemic all over the world. The crisis has revealed their vulnerability to the supply and demand side, and as per a recent OECD paper, there is a serious risk that more than 50 percent of them will not survive the next few months. 
 
 In low-income countries, formal and informal MSMEs are significant engines of growth, employment, innovation, and social development. This webinar will showcase public and private sector initiatives to support MSMEs in the wake of the coronavirus outbreak, and discuss how governments and development partners could further engage with the private sector to pave the way to a quicker and environmentally sustainable economy recovery in developing countries. 
 
 **Speakers:**
+
 * Facilitator: [Jeske van Seters](https://ecdpm.org/people/jeskevanseters/), Head of Programme Private Sector Engagement, ECDPM 
 * [Emmanuel Moyart](https://www.linkedin.com/in/emmanuel-moyart-7305aa27/?locale=en_US), Team Leader, DEVCO C4 [Trade and Private Sector Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility). How can the EU support the private sector and in particular SMEs, the question of the informal sector, with examples from EU Delegations’ work in Uganda and Tunisia. 
 * [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories. On the World Bank’s [Innovative Private Sector Development Project](https://www.dai.com/our-work/projects/palestine-innovative-private-sector-development-project-ipsdp) (IPSDP)'s Rapid COVID-19 Response Intervention that enables business survival and continuity and supports startups and MSMEs. 
@@ -43,7 +44,7 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
  
 **COVID-19 and the accelerated digitalisation of developing countries’ economies**
 
-**Date:** Monday, June 22, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time
+**Date:** Monday, June 22, 9 am–10:15am, Eastern Daylight Time; 3pm–4:15pm Central European Summer Time
 
 **Description:** Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, and helped young people keep learning and studying. 
 
@@ -60,7 +61,7 @@ How can the EU best support countries that sometimes still lack the necessary in
  
 **How Covid-19 calls for an alliance for financing**
 
-**Date:** Monday, June 29, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
+**Date:** Monday, June 29, 9 am–10:15am, Eastern Daylight Time; 3pm–4:15pm Central European Summer Time 
 
 **Description:** In its Communication on the global response the pandemic, the EU announces that the mobilisation of €15.6 billion from existing external actions will allow its action to be “fast, adapted and operational.” Blended finance and guarantee funds should play a significant role in the Team Europe response, as they will allow to leverage new financial resources. The European Investment Bank will contribute €5.2 billion to the EU response to Covid-19 outside the EU.
 
@@ -68,15 +69,14 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 
 **Speakers:**
 
-* Facilitator: San Bilal, Head of Programme Trade, Investment and Finance, ECDPM. On Team Europe’s response, the EU blending and guarantee mechanisms and the critical role DFIs can play. Importance to mobilise at scale and de-risk financing. 
-* Catherine Collin, Head of Regional Representation, East Africa, European Investment Bank (EIB). On how the EIB response to Covid-19 is operationalised with local partners.
-* Soren Andreasen, General Manager, European Development Finance Institutions (EDFI), On DFI Alliance, and collaboration among DFIs on Covid-response.
-* Tillman Bruett, Global Practice Lead, Financial Services and Investment, DAI. On how the USAID-funded INVEST project is adapting and supporting investment work including the health sector. 
+* Facilitator: [San Bilal](https://ecdpm.org/people/sanbilal/), Head of Programme Trade, Investment and Finance, ECDPM. *On Team Europe’s response, the EU blending and guarantee mechanisms and the critical role DFIs can play. Importance to mobilise at scale and de-risk financing. *
+* [Catherine Collin](https://www.linkedin.com/in/catherine-collin-9a2a361a/?originalSubdomain=ke), Head of Regional Representation, East Africa, EIB. *On how the EIB response to COVID-19 is operationalised with local partners.*
+* [Soren Andreasen](https://www.linkedin.com/in/s%C3%B8ren-peter-andreasen-86b153/), General Manager, European Development Finance Institutions (EDFI), *On DFI Alliance, and collaboration among DFIs on COVID-19 response*.
+* [Tillman Bruett](https://www.dai.com/who-we-are/our-team/till-bruett), Global Practice Lead, Financial Services and Investment, DAI. *On how the U.S. Agency for International Development-funded [INVEST](http://) project is adapting and supporting investment work including the health sector.* 
  
 **Building stronger health systems going forward**
 
-Date: Monday, July 6th
-Time: 3 pm to 4:15 pm CEST
+**Date:** Monday, July 6, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15pm Central European Summer Time 
 
 **Description:** The COVID-19 pandemic is propelling global health as a major priority of the EU’s development aid agenda. This webinar showcases various health projects and their different reactions to the pandemic: from traditional awareness raising campaigns to high-tech digital tools, the covid-19 pandemic is forcing creativity and innovation. Panelists will reflect on how the emergency reaction and global creativity can help build stronger health systems, in partnership with governments, communities, and regional professional networks. 
 
@@ -85,7 +85,7 @@ Time: 3 pm to 4:15 pm CEST
 * Facilitator: Mariella Di Ciommo, Policy officer, ECDPM 
 * Mar Martinez, Policy Officer, Health Policy and Programmes, Culture Education and Health Unit, DEVCO (DEVCO B4) 
 The EU’s actions to strengthen public health systems in and with partner countries, main challenges and opportunities ahead.
-•	Dr Paulin Basinga, Gates Foundation Country Director, Nigeria  
+* Dr Paulin Basinga, Gates Foundation Country Director, Nigeria  
 The innovative approaches of the Technical Assistance Hub to strengthen community health systems in Nigeria. How the Gates Foundation is operationalising its commitment to protect the most vulnerable, accelerate containment of the virus, develop treatments and a vaccine, and minimize societal and economic impact of the pandemic. 
 •	Winyi Kaboyo - Country Coordinator, DFID funded “Tackling Deadly Diseases in Africa Programme” (TDDAP) project. 
 •	Bobby Jeffersen, Chief Technology Officer, DAI Global Health 
