@@ -10,17 +10,17 @@ solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
 clients: European Union
-summary: DAI and ECDPM have team up to offer a summer webinar series to reflect on
-  the immediate reaction of the development community and support the post-pandemic
-  global response of the European Union (EU).
+summary: DAI and the European Centre for Development Policy Management announced a
+  series of webinars designed to engage and inform global development stakeholders
+  seeking to mount an effective response to the COVID-19 crisis.
 social-image: "/uploads/sm%20DAI%20ECDPM%20postcard.png"
 ---
 
-The COVID-19 pandemic is increasingly challenging developing countries, particularly the least developed, as per a recent estimate from UNDP that sees their income loss exceeding $220 billion.
+The COVID-19 pandemic poses an increasingly severe challenge to developing countries, particularly the least developed. A [recent estimate](https://www.undp.org/content/undp/en/home/news-centre/news/2020/COVID19_Crisis_in_developing_countries_threatens_devastate_economies.html) from UNDP sees their income loss exceeding $220 billion. DAI and the [European Centre for Development Policy Management](https://ecdpm.org/) (ECDPM) today announced a [series of webinars](https://ecdpm.org/events/connecting-public-private-responses-to-covid-19-and-impact-global-development/) designed to engage and inform global development stakeholders seeking to mount an effective response to the COVID-19 crisis.
 
-As a global company implementing development aid in challenging environments and a long-term presence in more than 100 countries, we are leveraging our in-house expertise and multiclient experience to create synergies, share knowledge, and identify innovative solutions to the global COVID-19 crisis. DAI’s teams around the world are in close communication with donors and partner countries stakeholders to coordinate an effective response to the pandemic. In-house technical staff are developing toolkits, including organisation-wide response strategies, project/context/sectoral approaches to adaptation, as well as developing digital approaches and solutions.
+As a global company implementing development programming in more than 100 countries—including many of the world’s most challenging environments—DAI is building on its in-house expertise and multiclient experience to share knowledge and identify innovative solutions applicable to the COVID-19 crisis. DAI’s teams are in close communication with donors and partner country stakeholders to coordinate an effective response to the pandemic. Our in-house technical staff are developing toolkits, response strategies, digital approaches and solutions, and ways of [adapting to COVID-19](https://www.dai.com/covid-19) by project, context, and sector.
 
-As a leading think-and-do tank on sustainable development policies and practices, the [European Centre for Development Policy Management](https://ecdpm.org/) (ECDPM) has mobilised its expertise and key network, from policy makers and knowledge institutions, to business associations and development financiers, in an effort to reflect on how best to address the [challenges of the pandemic](https://ecdpm.org/dossiers/covid-19-international-cooperation/), and how this may affect EU-Africa relations, and development and international cooperation more broadly. 
+As a leading think-and-do tank on sustainable development policies and practices, ECDPM has mobilised its expertise and key network—from policy makers and knowledge institutions to business associations and development financiers—to reflect on how best to address the challenges of the pandemic, and how COVID-19 may affect EU-Africa relations and the prospects for development and international cooperation more broadly.
 
 ## Practical Webinars 
 
@@ -28,7 +28,7 @@ One of the outcomes of this global effort is to share this knowledge and engage 
 
 DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the European Union (EU), as per its recent [Communication](https://ec.europa.eu/international-partnerships/system/files/joint-comm-2020-eu-global-response_en.pdf). 
 
-The webinars, using Webex, will be recorded and remain available on DAI’s and ECDPM’s websites. [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform).
+The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform).
 
 ### Weekly Calendar
  
