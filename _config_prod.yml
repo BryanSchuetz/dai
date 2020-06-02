@@ -182,7 +182,7 @@ algolia:
   - project-login.md
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
   - news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.md
-  - **/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
+  - "**/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md"
   - covid-19.md
 
   settings:
