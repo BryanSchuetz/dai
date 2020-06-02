@@ -37,6 +37,8 @@ The webinars, using Webex, will be recorded and remain available on DAI’s and 
 * June 29: “How COVID-19 calls for an alliance for financing” (details below) 
 * July 6: “Building stronger health systems going forward” (details below) 
 
+[![DAI ECDPM postcard.png](/uploads/DAI%20ECDPM%20postcard.png)](https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform)
+
 **Strengthening MSMEs for economic resilience and sustainable development**
 
 **Date:** Monday, June 15, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) 
