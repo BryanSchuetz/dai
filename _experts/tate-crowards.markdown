@@ -1,12 +1,12 @@
 ---
 title: Tate Crowards
 date: 2020-06-02 09:51:00 Z
-published: false
 lastname: Crowards
 summary: Tate Crowards is an Associate Analyst with the Sustainable Business Group
   (SBG) with a background in research synthesis and both qualitative and quantitative
   analysis.
 job-title: Associate Analyst
+image: "/uploads/portal%20Tate%20Crowards_DAI%20(2).jpg"
 solutions:
 - Sustainable Business
 regions:
