@@ -62,10 +62,9 @@ How can the EU best support countries that sometimes still lack the necessary in
 
 **Date:** Monday, June 29, 9 am–10:15am, Eastern Daylight Time; 3 pm–4:15 pm Central European Summer Time 
 
-**Description:** In its Communication on the global response the pandemic, the EU announces that the mobilisation of €15.6 billion from existing external actions will allow its action to be “fast, adapted and operational”. Blended finance and guarantee funds (and in particular the EFSD) should play a significant role in the Team Europe response, as they will allow to leverage new financial resources. The EIB will contribute €5.2 billion to the EU response to Covid-19 outside the EU.
+**Description:** In its Communication on the global response the pandemic, the EU announces that the mobilisation of €15.6 billion from existing external actions will allow its action to be “fast, adapted and operational.” Blended finance and guarantee funds should play a significant role in the Team Europe response, as they will allow to leverage new financial resources. The European Investment Bank will contribute €5.2 billion to the EU response to Covid-19 outside the EU.
 
-The DFI Alliance (US, Canada and European DFIs) announced their joint efforts to mobilize financial resources and bring technical expertise to private sector enterprises in emerging and frontier markets. 
-The webinar will bring together Development specialists, DFIs and FinTechs, to explore and compare various instruments and mechanisms implemented by EU Member states and international donors.
+The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media/opic-press-releases/opic-signs-mou-establishing-dfi-alliance-key-allies) announced efforts to mobilize financial resources and bring technical expertise to private sector enterprises in emerging and frontier markets. This webinar will bring together development specialists, DFIs, and financial tech firms, to explore and compare instruments and mechanisms implemented by EU Member states and international donors.
 
 **Speakers:**
 
