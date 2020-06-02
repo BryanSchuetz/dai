@@ -12,7 +12,11 @@ image: "/uploads/Dipika%20Chawla%20headshot%202019.jpg"
 solutions:
 - Sustainable Business
 - Social Strategy
+regions:
+- Worldwide
 articles:
+- name: Corporate Partnerships and Building the Future of Tech-Enabled Agriculture
+  article_file: https://www.dai.com/uploads/kic-27672d.pdf
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”
     _DAIdeas_"
   article_file: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making?utm_source=daidotcom
