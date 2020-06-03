@@ -173,9 +173,6 @@ algolia:
   application_id: R7MRY12BR6
   index_name: dai
   files_to_exclude:
-  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
-  - '_news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md'
-  - '_news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development'
   - view-more-articles.md
   - view-more-news.md
   - our-work/projects.md
@@ -185,7 +182,6 @@ algolia:
   - project-login.md
   - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
   - news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.md
-  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
   - covid-19.md
 
   settings:
