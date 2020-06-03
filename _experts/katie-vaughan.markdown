@@ -5,7 +5,7 @@ lastname: Vaughan
 summary: 'Katie Vaughan is an international development and project management professional
   supporting the finance and operations team in the Sustainable Business Group. '
 job-title: Project Management Analyst
-image: "/uploads/Katie%20Vaughan.jpg"
+image: "/uploads/katie%20prof.jpeg"
 solutions:
 - Sustainable Business
 regions:
