@@ -2,6 +2,8 @@
 title: 'Webinar Series: Connecting Public and Private Responses to COVID-19 and its
   Impact on Global Development'
 date: 2020-06-02 13:12:00 Z
+tags:
+- COVID-19
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
