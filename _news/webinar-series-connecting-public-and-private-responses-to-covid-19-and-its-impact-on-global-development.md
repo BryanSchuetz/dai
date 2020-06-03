@@ -6,11 +6,10 @@ solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
 clients: European Union
-summary: |
-  DAI and the European Centre for Development Policy Management announced a
+summary: DAI and the European Centre for Development Policy Management announced a
   series of webinars designed to engage and inform global development stakeholders
   seeking to mount an effective response to the COVID-19 crisis.
-social-image: "/uploads/sm%20DAI%20ECDPM%20postcard.png"
+social-image: "/uploads/Webinar%20Postcard.jpg"
 ---
 
 The COVID-19 pandemic poses an increasingly severe challenge to developing countries, particularly the least developed. A [recent estimate](https://www.undp.org/content/undp/en/home/news-centre/news/2020/COVID19_Crisis_in_developing_countries_threatens_devastate_economies.html) from UNDP sees their income loss exceeding $220 billion. DAI and the [European Centre for Development Policy Management](https://ecdpm.org/) (ECDPM) today announced a [series of webinars](https://ecdpm.org/events/connecting-public-private-responses-to-covid-19-and-impact-global-development/) designed to engage and inform global development stakeholders seeking to mount an effective response to the COVID-19 crisis.
