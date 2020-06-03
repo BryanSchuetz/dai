@@ -19,7 +19,7 @@ As a global company implementing development programming in more than 100 countr
 
 As a leading think-and-do tank on sustainable development policies and practices, ECDPM has mobilised its expertise and key network—from policy makers and knowledge institutions to business associations and development financiers—to reflect on how best to address the [challenges of the pandemic](https://ecdpm.org/dossiers/covid-19-international-cooperation/), and how COVID-19 may affect EU-Africa relations and the prospects for development and international cooperation more broadly.
 
-## Practical Webinars 
+### Practical Webinars 
 
 DAI and ECDPM are collaborating to share this growing body of knowledge and engage with our partners and clients through [practical webinars](https://ecdpm.org/events/connecting-public-private-responses-to-covid-19-and-impact-global-development/) addressing their main priorities. DAI-ECDPM webinars bring together public and private practitioners to reflect on the immediate reaction of the development community and support the post-pandemic global response of the EU, in line with its recent [Communication](https://ec.europa.eu/international-partnerships/system/files/joint-comm-2020-eu-global-response_en.pdf).
 
@@ -32,3 +32,10 @@ The webinars will be recorded and remain available on DAI’s and ECDPM’s webs
 * June 29: “How COVID-19 calls for an alliance for financing” (details below) 
 * July 6: “Building stronger health systems going forward” (details below) 
 
+<div>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">
+    <img src="/uploads/DAI%20ECDPM%20postcard.png" alt="">
+  </a>
+</div>
+
+<hr>
