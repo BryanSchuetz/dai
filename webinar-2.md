@@ -1,8 +1,10 @@
 ---
-title: 'Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’ economies '
+title: 'Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’
+  economies '
+permalink: "/webinar-2"
 layout: default
-permalink: /webinar-2
 ---
+
 # Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’ economies 
 
 <div><span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 22, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) </span></div>

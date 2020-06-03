@@ -1,8 +1,9 @@
 ---
 title: 'Webinar 1: Strengthening MSMEs for economic resilience and sustainable development'
+permalink: "/webinar-1"
 layout: default
-permalink: /webinar-1
 ---
+
 # Webinar 1: Strengthening MSMEs for economic resilience and sustainable development
 
 <div>

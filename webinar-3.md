@@ -1,8 +1,9 @@
 ---
 title: 'Webinar 3: How Covid-19 calls for an alliance for financing'
+permalink: "/webinar-3"
 layout: default
-permalink: /webinar-3
 ---
+
 # Webinar 3: How Covid-19 calls for an alliance for financing
 
 <div><span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 29, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time)  </span></div>
