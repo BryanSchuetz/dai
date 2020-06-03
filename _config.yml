@@ -186,6 +186,10 @@ algolia:
   - covid-19.markdown
   - covid-19.html
   - "/covid-19"
+  - '_news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development'
+  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
+  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.html
+  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development
   settings:
     attributeForDistinct: url
     attributesToHighlight: 

@@ -25,7 +25,7 @@ DAI and ECDPM are collaborating to share this growing body of knowledge and enga
 The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform).
 
 ### Weekly Calendar
- 
+
 * June 15: “Strengthening MSMEs for economic resilience and sustainable development” (details below) 
 * June 22: “COVID-19 and the accelerated digitalisation of developing countries’ economies” (details below) 
 * June 29: “How COVID-19 calls for an alliance for financing” (details below) 
