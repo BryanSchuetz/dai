@@ -173,20 +173,20 @@ algolia:
   application_id: R7MRY12BR6
   index_name: dai
   files_to_exclude:
-  - view-more-articles.md
-  - view-more-news.md
-  - our-work/projects.md
-  - who-we-are/our-team.md
-  - who-we-are/board.md
-  - who-we-are/leadership.md
-  - project-login.md
-  - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
-  - news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.md
-  - covid-19.md
-  - '_news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development'
-  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
-  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.html
-  - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development
+    - view-more-articles.md
+    - view-more-news.md
+    - our-work/projects.md
+    - who-we-are/our-team.md
+    - who-we-are/board.md
+    - who-we-are/leadership.md
+    - project-login.md
+    - news/ten-years-later-steven-rosenberg-creative-father-serbia-association-local.html
+    - news/governor-elect-gives-keynote-at-dai-board-meeting-in-nigeria.md
+    - covid-19.md
+    - '_news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development'
+    - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.md
+    - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development.html
+    - news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development
 
   settings:
     attributeForDistinct: url
