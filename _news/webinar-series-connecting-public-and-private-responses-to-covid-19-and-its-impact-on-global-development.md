@@ -31,7 +31,11 @@ The webinars will be recorded and remain available on DAI’s and ECDPM’s webs
 * June 29: “How COVID-19 calls for an alliance for financing” (details below) 
 * July 6: “Building stronger health systems going forward” (details below) 
 
-[![DAI ECDPM postcard.png](/uploads/DAI%20ECDPM%20postcard.png)](https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform)
+<div>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">
+    <img src="/uploads/DAI%20ECDPM%20postcard.png" alt="">
+  </a>
+</div>
 
 **Webinar 1: Strengthening MSMEs for economic resilience and sustainable development**
 
