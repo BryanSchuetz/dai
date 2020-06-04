@@ -16,6 +16,9 @@ solutions:
 regions: Latin America and the Caribbean
 country: Honduras
 promos:
+- title: 'Curbing Irregular Migration: Shifting Focus from the American Dream to the
+    Honduran Reality'
+  link: https://dai-global-developments.com/articles/curbing-irregular-migration-shifting-focus-from-the-american-dream-to-the-honduran-reality
 - title: Evidence-based Programming
   link: "/uploads/honduras-abreviated.pdf"
 ---
