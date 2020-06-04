@@ -20,7 +20,7 @@ layout: project
 
 The Market Development in the Niger Delta (MADE) project, phases I and II, worked in all nine Niger Delta states to promote inclusive, pro-poor growth for farmers and entrepreneurs. Under MADE I, DAI carried out a six-month design, followed by a first phase of implementation. MADE II [scaled up successful](http://dai-global-developments.com/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria/) market interventions from the first phase and [established exit plans](https://beamexchange.org/practice/programme-index/279/) with local partners. In addition, the programme utilized a similar [market systems development approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/) to help address the root causes of outward migration that have led thousands to fall victim to human traffickers in Libya and Europe.
 
-MADE II accelerated the outreach and outcomes from MADE I by doubling the results in half the time and half the budget.
+MADE II [accelerated the outreach and outcomes](https://beamexchange.org/practice/programme-index/279/) from MADE I by doubling the results in half the time and half the budget.
 
 By connecting vulnerable populations with desirable jobs at home, MADE II reduced the number of Nigerians attempting to migrate to work abroad only to end up trapped in modern slavery. Efforts focused on Edo State, the largest contributor of human trafficking victims from Nigeria. MADE II identified six sectors well positioned to create appealing job opportunities: high-end agribusiness, information and communication technology, renewable energy, wholesale and retail, cosmetics, and the entertainment industry.
 
