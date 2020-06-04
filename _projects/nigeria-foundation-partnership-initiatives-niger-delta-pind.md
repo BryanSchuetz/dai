@@ -31,7 +31,7 @@ DAI assisted the Chevron Corporation with the [strategic design ](https://www.de
 * Provide long-term technical assistance and capacity building expertise to help implement the strategic plan and operationalize the Economic Development Centre into a sustainable local institution.
 * Train foundation and centre staff and implementing partners in the M4P approach and techniques of value chain analysis.
 * Supervise implementation of five value chain studies by local partners.
-* Help PIND plan and refine program activities targeting systemic value chain development programs, infrastructure projects designed to create sustainable employment through building the capacity of local firms to provide high labor intensity contracting, and business linkage programs to enhance the ability of local firms to supply goods and services to international oil companies.
+* Help [PIND](https://beamexchange.org/practice/programme-index/237/) plan and refine program activities targeting systemic value chain development programs, infrastructure projects designed to create sustainable employment through building the capacity of local firms to provide high labor intensity contracting, and business linkage programs to enhance the ability of local firms to supply goods and services to international oil companies.
 
 ### Select Results
 
@@ -43,4 +43,3 @@ DAI assisted the Chevron Corporation with the [strategic design ](https://www.de
 * Created more than 12,000 jobs.
 * Produced more than 50 research articles on equitable socioeconomic programs, gender inclusion, infrastructure needs, and other areas that underpin development assistance in Nigeria by PIND and others.
 * Leveraged $100 million in development assistance by donors such as the U.S. Agency for International Development, U.K. Department for International Development, UNICEF, and the Ford Foundation.
-
