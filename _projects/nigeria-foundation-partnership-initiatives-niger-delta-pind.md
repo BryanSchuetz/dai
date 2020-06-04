@@ -18,6 +18,9 @@ country:
 promos:
 - title: "**Article**: _Chevron’s Corporate Social Enterprise in Nigeria​_"
   link: "/uploads/Great_Insights_Kaplan_PIND.pdf"
+- title: Chevron’s Nigerian Initiative Found to Decrease Business Risk, Attract Local
+    Investment, and "Bring Hope"
+  link: https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope
 layout: project
 ---
 
