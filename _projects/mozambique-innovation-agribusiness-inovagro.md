@@ -15,6 +15,10 @@ regions:
 - Sub-Saharan Africa
 country:
 - Mozambique
+promos:
+- title: 'The Complexity of Building a Market for Certified Seeds: A Case Study from
+    Mozambique'
+  link: https://dai-global-developments.com/articles/the-complexity-of-building-a-market-for-certified-seeds-a-case-study-from-mozambique
 layout: project
 ---
 
