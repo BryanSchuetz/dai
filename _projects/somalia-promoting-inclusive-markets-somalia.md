@@ -18,6 +18,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Somalia
+promos:
+- title: Discovering Pathways to Economic Growth in Somalia, Discreetly
+  link: https://dai-global-developments.com/articles/discreetly-discovering-pathways-to-economic-growth-in-somalia
 layout: project
 ---
 
