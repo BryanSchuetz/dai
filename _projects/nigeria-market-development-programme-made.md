@@ -1,9 +1,9 @@
 ---
 title: Nigeria—Market Development in the Niger Delta (MADE I and II)
 date: 2016-01-21 22:40:00 Z
-summary: The second phase of the Market Development (MADE II) in the Niger Delta project
-  accelerated the outreach and outcomes from MADE I by doubling the results in half
-  the time and half the budget.
+summary: 'The Market Development in the Niger Delta (MADE) project, phases I and II,
+  worked in all nine Niger Delta states to promote inclusive, pro-poor growth for
+  farmers and entrepreneurs. '
 start: 2013
 end: 2020
 client: U.K. Department for International Development
