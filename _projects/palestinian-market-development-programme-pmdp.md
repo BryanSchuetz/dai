@@ -1,5 +1,5 @@
 ---
-title: Palestinian Market Development Programme (PMDP)
+title: Palestine—Palestinian Market Development Programme (PMDP)
 date: 2016-01-21 22:40:00 Z
 summary: PMDP improved market systems and the competitiveness of the Palestinian private
   sector.
@@ -42,4 +42,4 @@ PMDP worked to improve market systems and improve the competitiveness of the Pal
 * The programme’s 884 grantees increased revenues by £131.26 million and created nearly 3,000 net jobs.
 * This assistance helped 264 firms to get back to business after the 2014 war, resume their operations, employ, and sustain a net 1,201 workers even though the general economic environment continued to deteriorate.
 * Grantees introduced 838 new or enhanced products which, along with other market entry activities, helped them enter or expand into new domestic and export markets where they generated £74 million of attributed sales.
-* One-third of grantees received £ 1.97 million in grants to export for the first time or increase exports; this investment resulted in £26.9 million in additional export sales in 52 countries.
+* One-third of grantees received £1.97 million in grants to export for the first time or increase exports; this investment resulted in £26.9 million in additional export sales in 52 countries.
