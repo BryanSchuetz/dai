@@ -41,7 +41,7 @@ Funded under the Feed the Future initiative, this project strengthened 10 agricu
 
 ### Select Results
 
-* Forged partnerships with 42 private sector companies and cooperatives to ensure sustainable supply of inputs and transfer of appropriate technologies and management practices to farmers and market linkage of farmers produce; AVC partner firms increased sales by up to 60 percent while at the same time learning about sustainable market strategy.
+* Forged [partnerships](https://beamexchange.org/resources/1233/) with 42 private sector companies and cooperatives to ensure sustainable supply of inputs and transfer of appropriate technologies and management practices to farmers and market linkage of farmers produce; AVC partner firms increased sales by up to 60 percent while at the same time learning about sustainable market strategy.
 * Created 111,662 [full-time equivalent jobs](https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options).
 * Reached 305,408 farmers and others with new technologies or management practices that increased crop yields by 131 percent.
 * Helped establish the [cut flower sector](https://www.youtube.com/watch?v=qVAqDjkamsM) as a formalized industry in Bangladesh, [growing the market](https://www.facebook.com/watch/?v=10154929405978955) from $67 million in 2013 to $150 million in 2018, with an eye toward [increasing exports](https://www.dhakatribune.com/business/2018/04/05/make-farmers-interested-farming-exotic-foreign-flowers-bangladesh).
