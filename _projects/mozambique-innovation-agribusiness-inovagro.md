@@ -19,6 +19,9 @@ promos:
 - title: 'The Complexity of Building a Market for Certified Seeds: A Case Study from
     Mozambique'
   link: https://dai-global-developments.com/articles/the-complexity-of-building-a-market-for-certified-seeds-a-case-study-from-mozambique
+- title: Savings Groups Enabling Hundreds of Smallholders in Mozambique to Buy Certified
+    Seed
+  link: https://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree
 layout: project
 ---
 
