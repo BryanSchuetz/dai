@@ -1,9 +1,9 @@
 ---
 title: Worldwide—Global Trade Programme (GTP)
 date: 2019-05-22 12:16:00 Z
-summary: 'The Global Trade Programme will provide technical assistance and support
-  to facilitate free trade and open markets for target Middle Income Countries: Brazil,
-  Mexico, South Africa, Indonesia, Vietnam, Nigeria, Turkey, China, and India.'
+summary: 'The Global Trade Programme provides technical assistance and support to
+  facilitate free trade and open markets for target middle-income countries: Brazil,
+  China, India, Indonesia, Mexico, Nigeria, South Africa, Turkey, and Vietnam.'
 start: 2019
 end: 2022
 client: U.K. Foreign and Commonwealth Office (DAI is a subcontractor to EY)
