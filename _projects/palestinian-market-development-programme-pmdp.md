@@ -16,10 +16,10 @@ regions:
 country:
 - Palestine
 promos:
-- title: 
-  link: 
-- title: 
-  link: 
+- title: Getting Back to Business in Post-Conflict Gaza
+  link: https://dai-global-developments.com/articles/getting-back-to-business-in-post-conflict-gaza
+- title: 'Video: Longtime DAI Employee Offers Perspective on Development in Gaza'
+  link: https://www.dai.com/news/video-longtime-dai-employee-offers-perspective-development-gaza
 layout: project
 ---
 
