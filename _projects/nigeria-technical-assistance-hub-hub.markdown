@@ -4,7 +4,7 @@ date: 2020-06-05 08:33:00 Z
 summary: 'The Technical Assistance Hub (Hub) is an independent nonprofit organization
   that coordinates the delivery of comprehensive technical assistance and institutional
   strengthening support to state governments in Nigeria. '
-start: 2020
+start: 2019
 end: 2021
 client: Bill and Melinda Gates Foundation
 solutions:
