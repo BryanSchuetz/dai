@@ -1,6 +1,6 @@
 ---
 title: 'Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’
-  economies '
+  economies'
 permalink: "/webinar-2"
 layout: default
 ---
@@ -19,6 +19,6 @@ How can the EU best support countries that sometimes still lack the necessary in
 
 * Facilitator: [Chloe Teevan](https://ecdpm.org/people/chloe-teevan/), Policy officer, ECDPM
 * [Krista Baptista,](https://www.dai.com/who-we-are/our-team/krista-baptista) DAI’s Center for Digital Acceleration
-* [Sandro Bazzanella](https://www.linkedin.com/in/bazzanella/?originalSubdomain=be), EU Digital Cooperation expert (tbc)
+* [Sandro Bazzanella](https://www.linkedin.com/in/bazzanella/?originalSubdomain=be), Team Leader, Technical Assistance to Policy & Regulation Initiative for Digital Africa (PRIDA)
 * [Jonathan Donner](https://www.cariboudigital.net/advisor/jonathan-donner/), Senior Director for Research, Caribou Digital 
 * [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab
