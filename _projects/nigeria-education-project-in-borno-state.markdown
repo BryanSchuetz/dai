@@ -1,7 +1,6 @@
 ---
 title: Nigeria—Education Project in Borno State
 date: 2020-06-05 13:31:00 Z
-published: false
 summary: 'The Education Project in Borno State supports the state government’s recovery
   in the wake of insurgency and provides targeted relief to vulnerable and displaced
   populations. '
