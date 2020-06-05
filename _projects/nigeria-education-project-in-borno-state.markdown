@@ -19,7 +19,7 @@ The Education Project in Borno State supports the state government’s recovery 
 
 The project builds the capacity of teachers, increases access to learning aids, and renovates damaged school infrastructure. The team is implementing a cascade approach to training teachers and administrators, maximizing program funding available for the provision of educational materials. 
 
-It is anticipated that the active participation of local communities and government officials in the intervention supports continued maintenance and use of the schools—and pave the way for joint public-private initiatives in Borno’s education sector.
+It is anticipated that the active participation of local communities and government officials in the intervention supports continued maintenance and use of the schools—and paves the way for joint public-private initiatives in Borno’s education sector.
 
 ![shell.jpg](/uploads/shell.jpg)
 
