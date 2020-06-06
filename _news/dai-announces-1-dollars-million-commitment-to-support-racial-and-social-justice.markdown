@@ -1,7 +1,6 @@
 ---
 title: DAI Announces $1 Million Commitment to Support Racial and Social Justice
 date: 2020-06-06 00:00:00 Z
-published: false
 is_featured: true
 summary: DAI condemns the murder of George Floyd, stands alongside the black community
   and all those who resist injustice, and avows that Black Lives Matter. And although
