@@ -16,7 +16,7 @@ In response to recent incidents that reflect deep-seated injustice in the United
 
 The company will invest $1 million in the effort.
 
-
+<!--more-->
 
 > “The killing of George Floyd is the immediate occasion for [taking on] this challenge,” wrote Boomgard in a June 2 email to DAI staff. “But as the global reaction to his death makes clear, injustice, impunity, and inhumanity strike a visceral chord around the world, and in our response we will strive to support the enduring global values of justice, accountability, and humanity.”
 
