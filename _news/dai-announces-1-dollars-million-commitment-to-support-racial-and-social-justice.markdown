@@ -16,6 +16,8 @@ In response to recent incidents that reflect deep-seated injustice in the United
 
 The company will invest $1 million in the effort.
 
+
+
 > “The killing of George Floyd is the immediate occasion for [taking on] this challenge,” wrote Boomgard in a June 2 email to DAI staff. “But as the global reaction to his death makes clear, injustice, impunity, and inhumanity strike a visceral chord around the world, and in our response we will strive to support the enduring global values of justice, accountability, and humanity.”
 
 For too many people, especially people of color, the “more livable world” at the heart of DAI’s development mission still remains out of reach, Boomgard reflected. That is why DAI must seize the opportunity to improve racial inclusiveness within the company, address inequalities of power and access that still plague the places where we live and work, and aim still higher in our programs around the world.
