@@ -20,6 +20,8 @@ The EuropeAid project Support to the Independence, Accountability, and Efficienc
 
 Our team consolidates planning and strategies of the judicial administration, strengthens the capacity of judges and other judicial personnel, rationalizes the selection and promotion procedures for judges, streamlines the judicial case flow, enhances empowerment and integrity of judges, improves courts’ communication practices, and consolidates the position and efficiency of the Constitutional Court.
 
+<iframe src="https://player.vimeo.com/video/427057644" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### Sample Activities
 
 * Consolidate judicial strategies to provide an overarching framework to unify judicial institutions in the implementation of key reforms.
