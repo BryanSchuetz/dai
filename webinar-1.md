@@ -19,5 +19,5 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
 * Facilitator: [Jeske van Seters](https://ecdpm.org/people/jeskevanseters/), Head of Programme Private Sector Engagement, ECDPM 
 * [Emmanuel Moyart](https://www.linkedin.com/in/emmanuel-moyart-7305aa27/?locale=en_US), Team Leader, DEVCO C4 [Trade and Private Sector Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility)
 * [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh), DAI Director, Palestinian Territories
-* [Carole Kariuki](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA
+* [Carole Karuga](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA
 * [Eric Eloundou Ngah](https://cm.linkedin.com/in/eric-eloundou-ngah-0955a820), Board member, Cameroon Business Patronage Movement (E.CAM) 
