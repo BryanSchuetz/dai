@@ -9,6 +9,8 @@ layout: default
 
 <div><span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 22, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) </span></div>
 
+![2. Digital.png](/uploads/2.%20Digital.png)
+
 **Description:** Since the coronavirus outbreak, notwithstanding national strategies to cope with the pandemic, digital tools have globally kept us at work, allowed families and friends to meet virtually, and helped young people keep learning and studying. 
 
 The EU has been supporting and advocating an inclusive digital transformation inside and outside its borders for many years. But the coronavirus pandemic is fast forwarding us into the fourth industrial revolution and calls for rapid actions to support this transition. 
