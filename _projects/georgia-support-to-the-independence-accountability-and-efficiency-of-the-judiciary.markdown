@@ -24,3 +24,13 @@ Our team consolidates planning and strategies of the judicial administration, st
 
 * Consolidate judicial strategies to provide an overarching framework to unify judicial institutions in the implementation of key reforms.
 * Strengthen the capacity of judges, recognizing the need to provide extensive support to judges and their assistants as the forefront of the implementation of reform efforts. 
+
+### Select Results
+
+* Drafted the Action Plan for the Supreme Court in line with the Judiciary Strategy, Georgia’s international commitments with time-bound indicators, and budget allocations.
+* Co-drafted the Charter on Coordination and Monitoring Mechanisms for the High-Court of Justice in Georgia.
+* Drafted and published the 2019 State of Justice Report of the Supreme Court of Georgia and the 2019 Report of the Independent Inspector of Georgia.
+* Held biannual justice schools for judicial assistants, employees of analytical units, and law students with intense trainings, discussions, workshops, and small grant competitions for judicial practitioners to grow their skills. 
+* Finalized user-friendly, informative, and efficient web portal for the Tbilisi City Court.
+* Elaborated a manual on human resource management standards, including personal data protection issues, within judiciary with increased capacities of respective staff.
+* Finalized and institutionalized manual on the application and reasoning of preventive measures and in cooperation with the High-School of Justice in Georgia.
