@@ -20,7 +20,7 @@ regions: Sub-Saharan Africa
 country: Regional
 ---
 
-The U.S. Agency for International Development-funded Southern Africa Trade and Investment Hub (the Hub) engages with partners across Southern Africa to deepen regional economic integration, promote two-way trade with the United States under the African Growth and Opportunity Act, and attract investment that drives commercial expansion within the region and to global markets.
+The U.S. Agency for International Development-funded Southern Africa Trade and Investment Hub (the Hub) engages with partners across Southern Africa to deepen regional economic integration, promote two-way trade with the United States under the African Growth and Opportunity Act (AGOA), and attract investment that drives commercial expansion within the region and to global markets.
 
 The Hub works closely with regional governments and the Southern African Development Community on trade policy. It also engages with private and public sector organizations, business and industry associations, and international development agencies and financial institutions. A prominent feature of the current Southern African Trade and Investment Hub is its focus on finance and investment to increase U.S. business access and investment in the region.
 
@@ -45,3 +45,8 @@ The Hub is based in Pretoria, South Africa, and Gaborone, Botswana, with residen
 * Collaborated with Cargill to develop a market information system in Zambia conveying spot and future grain prices benchmarked against South Africa's Grain Information Service.
 * Partnered with the U.S. Produce Marketing Association to establish new buyer networks and identify investment opportunities in fresh produce markets in Swaziland and Zambia.
 * Linked more than 200 Southern African textile, apparel, accessory, and specialty food companies from Southern Africa to the United States and international markets via global trading platforms, including Fancy Food (New York), MAGIC (Las Vegas), and Gulf Foods (Dubai).
+* Facilitated more than $59 million in African intra-regional trade and exports to the United States, including through AGOA.
+* Facilitated $153.2 million in private-sector investment ($94.2 million in agriculture and$59 million in non-agriculture sectors).
+* Facilitated $16 million in agriculture-related finance.
+* Formed 30 public-private partnerships.
+* Created 1,448 new jobs.
