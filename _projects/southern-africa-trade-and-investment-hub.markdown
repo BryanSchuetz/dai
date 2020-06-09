@@ -18,9 +18,6 @@ solutions:
 - Public Financial Management
 regions: Sub-Saharan Africa
 country: Regional
-promos:
-- title: Uzbekistan Agricultural Value Chain
-  link: "/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc"
 ---
 
 The U.S. Agency for International Development-funded Southern Africa Trade and Investment Hub (the Hub) engages with partners across Southern Africa to deepen regional economic integration, promote two-way trade with the United States under the African Growth and Opportunity Act, and attract investment that drives commercial expansion within the region and to global markets.
