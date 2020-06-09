@@ -14,7 +14,7 @@ solutions:
 layout: solution
 ---
 
-DAI’s Education Practice strengthens the provision of high-quality, inclusive education for children and youth around the world. We work hand-in-hand with educators, policy makers, communities, and stakeholders to implement local solutions, borrowing and building on ideas and innovations from across sectors and working to understand education systems as a whole. 
+DAI’s Education Practice strengthens the provision of high-quality, inclusive education for children and youth around the world. We work hand-in-hand with educators, policy makers, communities, and stakeholders to implement local solutions, borrowing and building on [ideas and innovations](https://dai-global-developments.com/uploads/WhitePaper_InclusiveEducation.pdf) from across sectors and working to understand education systems as a whole. 
 
 ![Horadeclase_LaCeiba.jpg](/uploads/Horadeclase_LaCeiba.jpg)
 
@@ -35,4 +35,3 @@ DAI supports partner countries to create safe learning environments for students
 **Cross-Sectoral Programming**—Children and young people need books and teachers to learn; they also need to feel safe and healthy. As a cross-sectoral implementer, DAI is committed to making linkages between programs, avoiding siloes, and applying learning and innovation across sectors.
 
 <br>
-
