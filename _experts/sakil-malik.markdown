@@ -10,6 +10,9 @@ image: "/uploads/Sakil%20Malik.png"
 solutions:
 - Education
 - Governance
+articles:
+- name: Here’s How We Push Ahead with Inclusive Education
+  article_file: https://dai-global-developments.com/articles/heres-how-we-push-ahead-with-inclusive-education
 ---
 
 Sakil Malik grew up in Bangladesh in the 1970s and 80s, where he witnessed firsthand the marginalization, inequity, and inequality in that country’s education system. In high school, he volunteered for national newspapers and community-based libraries to raise awareness of the education issues in Bangladesh and look for solutions to the education challenges confronting the most vulnerable Bangladeshis, particularly street children.

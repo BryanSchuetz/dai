@@ -10,6 +10,11 @@ image: "/uploads/Geddes-67a04c.jpg"
 solutions:
 - Governance
 - Education
+articles:
+- name: Here’s How We Push Ahead with Inclusive Education
+  article_file: https://dai-global-developments.com/articles/heres-how-we-push-ahead-with-inclusive-education
+- name: Extending Education Access to Vulnerable Young Salvadorans
+  article_file: https://dai-global-developments.com/articles/extending-education-access-to-vulnerable-young-salvadorans
 ---
 
 Craig Geddes brings more than 16 years of experience working in both domestic and international markets focusing on government relations initiatives and development programs in education, protection, youth, gender and citizen advocacy.

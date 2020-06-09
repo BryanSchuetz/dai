@@ -5,10 +5,11 @@ date: 2019-06-14 14:26:00 Z
 solutions:
 - Governance
 regions: Sub-Saharan Africa
-summary: 'DAI Nigeria Country Director Dr. Joe Abah was recently named as Co-Chair
-  of the Nigerian Economic Summit Group and will serve on its Steering Committee on
-  Governance and Institutions. '
+summary: 'Nigeria Country Director Dr. Joe Abah was recently named as Co-Chair of
+  the Nigerian Economic Summit Group and will serve on its Steering Committee on Governance
+  and Institutions. '
 social-image: "/uploads/Dr.-Joe-Abah-dd178b.jpg"
+country: Nigeria
 ---
 
 Country Director of DAI’s Nigeria office, Joe Abah, was recently nominated to serve as Co-Chair of the Nigerian Economic Summit Group (NESG) Governance and Institutions Steering Committee.
