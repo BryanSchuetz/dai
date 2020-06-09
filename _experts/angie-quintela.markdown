@@ -13,6 +13,9 @@ solutions:
 regions:
 - Sub-Saharan Africa
 - Middle East and North Africa
+articles:
+- name: Here’s How We Push Ahead with Inclusive Education
+  article_file: https://dai-global-developments.com/articles/heres-how-we-push-ahead-with-inclusive-education
 ---
 
 Angie Quintela is an education and governance specialist with a cross-cutting focus on gender and inclusion, and is a founding member of DAI’s education practice. Angie has helped to design and lead a wide range of activities, including supporting youth training and exchange programs, youth leadership development and citizen engagement programs, with a particular focus in working in complex and politically sensitive contexts in Africa, Asia, and the Middle East. 
