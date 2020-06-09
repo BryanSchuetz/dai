@@ -20,13 +20,13 @@ regions: Sub-Saharan Africa
 country: Regional
 ---
 
-The U.S. Agency for International Development-funded Southern Africa Trade and Investment Hub (the Hub) engages with partners across Southern Africa to deepen regional economic integration, promote two-way trade with the United States under the African Growth and Opportunity Act (AGOA), and attract investment that drives commercial expansion within the region and to global markets.
+The  U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (Hub) engages with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supports these objectives by increasing exports from southern African countries to South Africa and the United States (under the African Growth and Opportunity Act [AGOA]), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The Hub works with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
 
-The Hub works closely with regional governments and the Southern African Development Community on trade policy. It also engages with private and public sector organizations, business and industry associations, and international development agencies and financial institutions. A prominent feature of the current Southern African Trade and Investment Hub is its focus on finance and investment to increase U.S. business access and investment in the region.
+The Hub works closely with regional governments and the Southern African Development Community on trade policy. It also engages with private and public sector organizations, business and industry associations, and international development agencies and financial institutions. 
 
 Building a vibrant, broad-based, and export-oriented private sector; encouraging the diversification of exports beyond natural resources; and promoting a business environment that is conducive to trade fosters resilience among Southern African economies and fuels demand for U.S. goods and services. The Hub implements activities in four critical areas: finance and investment, enabling environment/trade facilitation, export competitiveness, and agribusiness.
 
-The Hub is based in Pretoria, South Africa, and Gaborone, Botswana, with resident advisors in Malawi and Zambia. The program works with eight Southern Africa Development Community member states: Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Swaziland, and Zambia. The Hub is also exploring potential activities in Angola, the Democratic Republic of the Congo, and Zimbabwe.
+The Hub is based in Pretoria, South Africa, with resident representatives in Eswatini, Lesotho, Malawi, Mozambique, and Zambia. The program works with Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Eswatini, and Zambia. The Hub is also exploring potential activities in Angola.
 
 <iframe src="https://player.vimeo.com/video/266114693" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
