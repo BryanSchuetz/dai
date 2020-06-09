@@ -5,4 +5,4 @@ summary: Some project highlights from last month at DAI.
 layout: default
 ---
 
-<iframe class="last-month" src="//my.visme.co/_embed/dmpv8epv-april-2020-milestones-last-month-at-dai" width="800" height="7377" style="border:0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+<iframe class="last-month" src="//my.visme.co/embed/dmpdqwyk-may-2020-milestones-last-month-at-dai" height="7566" width="800" style="border: 0px;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
