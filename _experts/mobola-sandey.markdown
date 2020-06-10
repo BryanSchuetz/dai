@@ -15,7 +15,7 @@ regions:
 
 Mobola Sandey is a Principal Specialist with DAI's Sustainable Business Group (SBG), where she focuses on sustainable supply chain, supplier development, and local content issues. She uses her expertise in global sourcing, supplier management, project management, and the energy sector to deliver value to government, donor, and private sector clients. Mobola leads teams to deliver supply chain advisory services, market studies, and software solutions that benefit clients as well as the societies they operate in. Recently, she has delivered on projects in Guyana, Kazakhstan, Mauritania, Senegal, and Sierra Leone.  
 
-Before joining DAI, Mobola spent six years with British Petroleum in the upstream procurement and supply chain function on major projects and operations in Azerbaijan, Iraq, Mauritania, Senegal, and Scotland. Her prior professional experience includes placements at the Coca Cola Company and at UNESCO. 
+Before joining DAI, Mobola spent six years with BP in the upstream procurement and supply chain function on major projects and operations in Azerbaijan, Iraq, Mauritania, Senegal, and Scotland. Her prior professional experience includes placements at the Coca Cola Company and at UNESCO. 
 
 Mobola is from Lagos, Nigeria, and has lived in Cote D’Ivoire, France, and the United Kingdom.
 
