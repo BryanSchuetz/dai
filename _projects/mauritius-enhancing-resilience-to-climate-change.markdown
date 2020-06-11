@@ -12,9 +12,9 @@ regions: Sub-Saharan Africa
 country: Mauritius
 ---
 
-DAI will work with the Government of Mauritius to improve capacity and coordination across key institutions dealing with climate change, including the Ministry of Environment and Sustainable Development, Land Drainage Authority, and National Disaster Risk Reduction and Management Centre. 
+DAI works with the Government of Mauritius to improve capacity and coordination across key institutions dealing with climate change, including the Ministry of Environment and Sustainable Development, Land Drainage Authority, and National Disaster Risk Reduction and Management Centre. 
 
-The assignment will utilize international and local experts and include specialists in climate change, economics, hydrology, hydraulics, urban planning, and coastal resilience.
+The team fosters the mainstreaming of climate change adaptation in the government’s public policies and is preparing transformational climate programmes to be financed by the French Development Agency and international climate funds, such as the Green Climate Fund.
 
 ![Mauritius-Climate.jpg](/uploads/Mauritius-Climate.jpg "Photo: Ludovic Lubeigt")
 
@@ -23,3 +23,7 @@ The assignment will utilize international and local experts and include speciali
 * Assess climate change vulnerability for five high-priority sites.
 * Draft preparatory studies for the Land Drainage Master Plan.
 * Formulate disaster risk reduction plans for mainland Mauritius and its outer islands.
+
+### Select Results
+
+* Produced a climate change and vulnerability assessment report. 
