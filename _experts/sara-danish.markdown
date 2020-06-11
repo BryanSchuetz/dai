@@ -5,6 +5,7 @@ published: false
 lastname: Danish
 summary: Sara Danish is a Latin-Americanist with a background in democratic governance
   and violence prevention. She designs and implements global development projects.
+job-title: 'Senior Global Practice Specialist '
 image: "/uploads/Sara%20Danish.png"
 solutions:
 - Governance
