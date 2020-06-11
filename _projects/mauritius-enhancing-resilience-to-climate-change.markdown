@@ -27,3 +27,5 @@ The team fosters the mainstreaming of climate change adaptation in the governmen
 ### Select Results
 
 * Produced a climate change and vulnerability assessment report. 
+* Organised national and local workshops and roundtables for more than 100 government and private sector participants to build their understanding of integrated flood risk management, best practices for integrated coastal management, and to contribute ideas towards a climate change resilience strategy.
+* Carried out an initial gap analysis of disaster risk reduction institutions and mechanisms.
