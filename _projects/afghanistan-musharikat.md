@@ -1,5 +1,5 @@
 ---
-title: Afghanistan—Musharikat
+title: 'Afghanistan—Promote: Musharikat'
 date: 2016-01-21 22:40:00 Z
 summary: "Musharikat supports USAID Afghanistan's investments in women's rights groups
   and activists. \n"
