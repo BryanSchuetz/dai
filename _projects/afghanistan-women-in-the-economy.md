@@ -48,7 +48,7 @@ Consortium partners include RSI Consulting (monitoring and evaluation) and the T
 * Helped more than 23,000 women get new or better jobs; 44 percent of women who receive WIE assistance find employment.
 * Assisted 330 young women to enter the banking sector by providing them on-the-job training and [internships](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) in microfinance institutions and commercial banks in major regional urban centers.
 * Facilitated access to finance and new markets to more than 400 women-owned businesses and businesses employing at least 30 percent women.
-* Twenty-five percent of WIE-assisted businesses moved to next level of enterprise size; and of the targeted 400 businesses assisted, 63 percent, or 252 businesses, achieved 40 percent or more revenue growth within two years of assistance.
+* Twenty-five percent of WIE-assisted businesses moved to next level of enterprise size; and of the targeted 500 businesses assisted, 63 percent, or 252 businesses, achieved 40 percent or more revenue growth within two years of assistance.
 * Graduated 75 women-led startups—which have since created 200-plus new jobs—from business incubation support.
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue in support of women's inclusion.
 * Delivered gender sensitivity training to more than 5,800 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
