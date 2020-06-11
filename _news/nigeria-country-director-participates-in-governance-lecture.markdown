@@ -1,6 +1,6 @@
 ---
 title: Nigeria Country Director Participates in Governance Lecture
-date: 2020-06-11 19:15:00 Z
+date: 2019-07-01 19:15:00 Z
 regions: Sub-Saharan Africa
 summary: At the 13th Annual [ǼLEX Lecture](https://www.aelex.com/annual-lecture/),
   held in Lagos in July, DAI was represented by Nigeria Country Director [Dr. Joe
