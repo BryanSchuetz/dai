@@ -27,6 +27,9 @@ The team fosters the integration of climate change adaptation and risks in the g
 
 ### Select Results
 
-* Produced a climate change and vulnerability assessment report. 
+* Produced a climate change and vulnerability assessment report including an atlas of marine submersion and inland flooding risks based on climate projections.
 * Organised national and local workshops and roundtables for more than 100 government and private sector participants to build their understanding of integrated flood risk management, best practices for integrated coastal management, and to contribute ideas towards a climate change resilience strategy.
+* Formulated a comprehensive integrated coastal zone resilience strategy based on the vulnerability assessment.
 * Carried out an initial gap analysis of disaster risk reduction institutions and mechanisms.
+* Set up the GIS database for the Land Drainage Authorities.
+* Assessed the functionality of current drainage infrastructure and designed a rehabilitation programme.
