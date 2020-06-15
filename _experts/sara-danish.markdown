@@ -1,7 +1,6 @@
 ---
 title: Sara Danish
 date: 2020-06-11 15:53:00 Z
-published: false
 lastname: Danish
 summary: Sara Danish is a Latin-Americanist with a background in democratic governance
   and violence prevention. She designs and implements global development projects.
