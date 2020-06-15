@@ -21,8 +21,9 @@ The team fosters the integration of climate change adaptation and risks in the g
 ### Sample Activities 
 
 * Assess climate change vulnerability for five high-priority sites.
-* Draft preparatory studies for the Land Drainage Master Plan.
-* Formulate disaster risk reduction plans for mainland Mauritius and its outer islands.
+* Draft preparatory studies and terms of reference for the Land Drainage Master Plan.
+* Provide technical assistance, training, and institutional development support to the Land Drainage Authority staff.
+* Formulate the national disaster risk reduction policy and action plan for mainland Mauritius and its outer islands.
 
 ### Select Results
 
