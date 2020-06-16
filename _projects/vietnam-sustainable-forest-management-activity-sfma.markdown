@@ -17,7 +17,7 @@ country: Vietnam
 
 The Vietnam Sustainable Forest Management Activity (SFMA) helps the Government of Vietnam reduce carbon emissions associated with deforestation, the degradation of natural forests, and poor plantation management. SFMA implements a “Green Prosperity” approach that strengthens local communities’ ability to protect their natural resource base and reduce emissions while building a strong foundation for sustainable livelihoods and equitable economic growth.
  
-In six provinces, SFMA will strengthen community co-management through community forest management models that address organizational capacity, livelihoods, finance, enforcement, and equitable benefit sharing. Our partners—including subcontractors The Center for People and Forests (RECOFTC) and Nature, Economy and People Connected (NEPCon)—bring to SFMA local talent and international best practices that will help us build in-country technical and operational skills and strengthen community forest management well beyond the life of the program.
+In six provinces, SFMA will strengthen community forest management models to address organizational capacity, livelihoods, finance, enforcement, and equitable benefit sharing. 
 
 ### Sample Activities
  
