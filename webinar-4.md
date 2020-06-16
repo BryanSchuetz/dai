@@ -19,3 +19,5 @@ layout: default
 * [Dr. Paulin Basinga](https://www.gatesfoundation.org/Who-We-Are/General-Information/Leadership/Global-Development/Paulin-Basinga), Gates Foundation Country Director, Nigeria
 * Winyi Kaboyo, Country Coordinator Uganda, U.K. Department for International Development-funded [Tackling Deadly Diseases in Africa Programme](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program)
 * [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), Chief Technology Officer, DAI Global Health
+
+<strong>The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">REGISTER HERE</a></strong>

@@ -24,3 +24,5 @@ How can the EU best support countries that sometimes still lack the necessary in
 * [Sandro Bazzanella](https://www.linkedin.com/in/bazzanella/?originalSubdomain=be), Team Leader, Technical Assistance to Policy & Regulation Initiative for Digital Africa (PRIDA)
 * [Jonathan Donner](https://www.cariboudigital.net/advisor/jonathan-donner/), Senior Director for Research, Caribou Digital 
 * [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab
+
+<strong>The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">REGISTER HERE</a></strong>
