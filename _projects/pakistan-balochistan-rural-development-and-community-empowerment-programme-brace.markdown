@@ -39,4 +39,4 @@ The approach of the [programme](https://www.facebook.com/BRACEProgramme) builds 
 * RSPs conducted a three-day enterprise development training for women to facilitate them in applying for income-generating grants. These micro-credit instruments disbursed by BRACE help rural women become economically independent by setting up small enterprises, enabling women’s access to markets, and boosting their competitiveness. 
 * Supported the Deputy Commissioners with COVID-19 [awareness sessions](https://www.facebook.com/BRACEProgramme/posts/2551282891782531) for community members in all target districts. 
 
-<iframe src="https://player.vimeo.com/video/420402158" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/420402158" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`Video courtesy of Rural Support Programmes Network.`
