@@ -24,7 +24,7 @@ The technical assistance for the BRACE programme is complementary to the grant c
 
 The approach of the [programme](https://www.facebook.com/BRACEProgramme) builds on the lessons from various EU-funded actions in Pakistan, including the technical assistance for the [Community Driven Local Development Programme](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-district-governance-and-community-development-programme-kp-cdld) implemented by DAI’s Human Dynamics in the Khyber Pakhtunkhwa province. 
 
-<iframe src="https://player.vimeo.com/video/420402037" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/420402037" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`Video courtesy of Rural Support Programmes Network.`
 
 ### Sample Activities
 
