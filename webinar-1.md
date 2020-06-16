@@ -24,4 +24,7 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
 * [Carole Karuga](https://kepsa.or.ke/team/carole-kariuki/), CEO of the Kenyan Private Sector Organisation KEPSA
 * [Eric Eloundou Ngah](https://cm.linkedin.com/in/eric-eloundou-ngah-0955a820), Board member, Cameroon Business Patronage Movement (E.CAM) 
 
-<strong>The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">REGISTER HERE</a></strong>
+<h3>Recording:</h3>
+
+<iframe src="https://player.vimeo.com/video/429733041" width="640" height="360" frameborder="0"
+  allow="autoplay; fullscreen" allowfullscreen></iframe>
