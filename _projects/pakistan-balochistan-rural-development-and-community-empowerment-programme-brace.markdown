@@ -1,6 +1,6 @@
 ---
-title: Pakistan—Balochistan Rural Development and Community Empowerment Programme
-  (BRACE)
+title: Pakistan—Pakistan—Technical Assistance for the Balochistan Community-led Development
+  Policy Framework (BRACE) Programme
 date: 2020-05-19 13:45:00 Z
 published: false
 summary: The Rural Development and Community Empowerment Programme  in Balochistan,
@@ -18,7 +18,7 @@ regions: Eastern Europe and Central Asia
 country: Pakistan
 ---
 
-DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) supports the Government of Balochistan with the implementation of the Rural Development and Community Empowerment Programme (BRACE). The project supports the federal government in reducing the negative impact of poverty and social inequality, and to turn this into opportunities to build and empower resilient communities participating actively in implementing socio-economic development activities in partnership with local authorities.
+DAI’s Human Dynamics supports the Government of Balochistan with the implementation of the Rural Development and Community Empowerment (BRACE) Programme. Within the BRACE Programme, the EU-funded BRACE TA Project supports the Government of Balochistan in reducing the negative impact of poverty and social inequality, and to turn this into opportunities to build and empower resilient communities participating actively in implementing socio-economic development activities in partnership with local authorities. The technical assistance focuses developing a Provincial Policy and Fiscal Framework to better facilitate community-driven socioeconomic development interventions with empowered citizens and communities.
 
 The programme, implemented with grant component partners from Rural Support Networks and the Government of Balochistan, will ultimately benefit 1.9 million citizens in nine districts in the province—Dukki, Jhal Magsi, Kech, Killa Abdullah, Khuzdar, Loralai, Pishin, Washuk, and Zhob. The population of 300,000 low-income rural households are to be mobilized and organized into community, village, and local support organizations. 
 
