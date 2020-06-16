@@ -19,6 +19,8 @@ The Vietnam Sustainable Forest Management Activity (SFMA) helps the Government o
  
 In six provinces, SFMA will strengthen community forest management models to address organizational capacity, livelihoods, finance, enforcement, and equitable benefit sharing. 
 
+![vietnam_country.jpg](/uploads/vietnam_country.jpg)
+
 ### Sample Activities
  
 * Strengthen community forest management.
