@@ -1,6 +1,7 @@
 ---
 title: Eric Bergthold
 date: 2017-06-09 13:12:00 Z
+published: false
 lastname: Bergthold
 summary: Eric Bergthold is a Senior Technical Advisor on the USAID Mitra Kunci Project
   in Indonesia.
