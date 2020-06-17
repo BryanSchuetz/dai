@@ -1,8 +1,7 @@
 ---
 title: James Green
-date: 2016-01-21 22:18:43.395000000 Z
-group: Management
-image: https://assetify-dai.com/contacts/james-green.jpg
+date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Project Management Advisor
 email: james_green@dai.com
 summary: For more than 30 years, Jim has worked widely in South Asia, Southeast Asia,
@@ -13,6 +12,8 @@ summary: For more than 30 years, Jim has worked widely in South Asia, Southeast 
   land programmes in Mozambique and Rwanda, and the Global DFID Livelihoods Resource
   Programme. He also coordinates DAI’s Land Governance Team for business development
   and technical inputs on projects.
+image: https://assetify-dai.com/contacts/james-green.jpg
+group: Management
 sort-order: 4
 ---
 
