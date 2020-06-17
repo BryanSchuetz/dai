@@ -12,6 +12,10 @@ solutions:
 - Workforce Development and Youth
 regions: Eastern Europe and Central Asia
 country: Ukraine
+promos:
+- title: USAID-Supported Enterprise in Ukraine Repairs Lung Ventilators for Use in
+    COVID-19 Crisis
+  link: https://dai-global-developments.com/articles/usaid-supported-enterprise-in-ukraine-repairs-lung-ventilators-for-use-in-covid-19-crisis
 ---
 
 Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The USAID Economic Resilience Activity (ERA) aims to boost the economic resilience of eastern Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents gain locally needed job skills.
