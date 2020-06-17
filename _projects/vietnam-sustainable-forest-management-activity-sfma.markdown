@@ -24,7 +24,7 @@ In six provinces, SFM will strengthen community forest management models to addr
 
 ### Sample Activities
  
-* Strengthen community forest management.
+* Provide technical assistance to our government counterparts at the central and provincial levels to improve planning, establish procedures for forest management, and support efforts to scale these procedures and models to new sites. 
 * Promote conservation-friendly enterprises.
 * Improve law enforcement to tackle environmental crimes.
 * Enhance the management of production forests.
