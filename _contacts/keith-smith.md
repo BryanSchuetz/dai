@@ -1,7 +1,7 @@
 ---
 title: Keith Smith
 date: 2016-01-21 22:18:00 Z
-job-title: Commercial Director
+job-title: Senior Vice President, HMG Business Unit
 email: keith_smith@dai.com
 summary: 'Keith is an experienced development professional who has worked over the
   past 15 years in Africa, Asia, and Europe. He has managed a range of development
