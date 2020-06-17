@@ -1,6 +1,6 @@
 ---
-title: Pakistan—Technical Assistance for the Balochistan Community-led Development
-  Policy Framework (BRACE) Programme
+title: Pakistan—Technical Assistance for the Balochistan Community-led Rural Development
+  and Community Empowerment (BRACE) Programme
 date: 2020-05-19 13:45:00 Z
 published: false
 summary: The Rural Development and Community Empowerment Programme  in Balochistan,
