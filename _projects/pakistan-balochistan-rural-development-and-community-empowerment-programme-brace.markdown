@@ -24,7 +24,7 @@ The technical assistance for the BRACE programme is complementary to the grant c
 
 The approach of the [programme](https://www.facebook.com/BRACEProgramme) builds on the lessons from various EU-funded actions in Pakistan, including the technical assistance for the [Community Driven Local Development Programme](https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-district-governance-and-community-development-programme-kp-cdld) implemented by DAI’s Human Dynamics in the Khyber Pakhtunkhwa province. 
 
-<iframe src="https://player.vimeo.com/video/420402037" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`Video courtesy of Rural Support Programmes Network.`
+<iframe src="https://player.vimeo.com/video/420402158" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`Video courtesy of Rural Support Programmes Network.`
 
 ### Sample Activities
 
@@ -38,5 +38,3 @@ The approach of the [programme](https://www.facebook.com/BRACEProgramme) builds 
 * RSPs organized a [community management skills training](https://www.facebook.com/BRACEProgramme/posts/2595615900682563) in Pishin, Killa Abdullah, Khuzdar, and Jhal Magsi with women from community organizations.
 * RSPs conducted a three-day enterprise development training for women to facilitate them in applying for income-generating grants. These micro-credit instruments disbursed by BRACE help rural women become economically independent by setting up small enterprises, enabling women’s access to markets, and boosting their competitiveness. 
 * The Technical Assistance District Coordinators and Assistant Deputy Coordinators supported their respective Deputy Commissioners’ offices to conduct a series of  with COVID-19 [awareness sessions](https://www.facebook.com/BRACEProgramme/posts/2551282891782531) for community members in all target districts. 
-
-<iframe src="https://player.vimeo.com/video/420402158" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>`Video courtesy of Rural Support Programmes Network.`
