@@ -26,6 +26,6 @@ In six provinces, SFM will strengthen community forest management models to addr
  
 * Provide technical assistance to our government counterparts at the central and provincial levels to improve planning, establish procedures for forest management, and support efforts to scale these procedures and models to new sites. 
 * Provide technical assistance and tools to communities to help them participate as effective government counterparts in improved natural production forest management. 
-* Improve law enforcement to tackle environmental crimes.
+* Strengthen conservation enterprises in key value chains and develop value chain action plans. 
 * Enhance the management of production forests.
 * Mobilize domestic resources.
