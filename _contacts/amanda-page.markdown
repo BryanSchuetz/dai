@@ -1,7 +1,7 @@
 ---
 title: Amanda Page
 date: 2017-01-05 21:25:00 Z
-job-title: Director, HR, Europe
+job-title: Director, Human Resources, Europe
 email: amanda_page@dai.com
 summary: Amanda leads human resources (HR) management for DAI’s Europe business. Prior
   to joining DAI in January 2015, she spent 12 years working in the United Kingdom,
