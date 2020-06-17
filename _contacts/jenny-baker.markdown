@@ -1,7 +1,7 @@
 ---
 title: Jenny Baker
 date: 2019-03-25 19:31:00 Z
-job-title: Senior Vice President, Global Health
+job-title: "[Senior Vice President, Global Health ](https://www.dai.com/who-we-are/our-team/jenny-baker)"
 email: jenny_baker@dai.com
 summary: Jenny Baker’s more than 25 years of international development experience
   includes long-term field assignments in Morocco, Egypt, Palestine, and South Africa.
@@ -14,4 +14,3 @@ group: Management
 sort-order: 8
 ---
 
-[](https://www.dai.com/who-we-are/our-team/jenny-baker)
