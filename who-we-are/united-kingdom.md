@@ -21,7 +21,6 @@ Leveraging the resources of a global organization, DAI employs superior technica
 
 For more than 50 years, the true measure of our success has been the success of others and the continued benefit resulting from our work long after project completion. We design and implement every project with this result as our goal.
 
-
 ## Office Contacts
 
 Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—DAI’s staff are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices worldwide.
