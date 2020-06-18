@@ -13,18 +13,14 @@ layout: node
 
 # United Kingdom
 
-With offices in London and Apsley, Hertfordshire, our U.K.-based team
-delivers results for bilateral and multilateral donors, governments, and private
-sector clients worldwide, often in difficult environments racked by insecurity and
-conflict. We work hand in hand with our counterparts in government and the private
-sector to identify where international best practices can be usefully applied and
-best tailored to the local context.
+With offices in London and Apsley, Hertfordshire, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector customers worldwide, with a focus on clients in the British government. We work hand in hand with our counterparts in government, civil society, and the private sector to identify where international best practices can be most usefully applied and best tailored to the local context.
 
 Our work is underpinned by decades of experience and proven methodologies in areas as diverse as public sector reform, trade and economic development, global health, finance and microfinance, support to the land sector, food security and safety nets, climate change adaptation, crisis mitigation and recovery, and Making Markets Work for the Poor.
 
-DAI employs superior technical and managerial practitioners and consultants worldwide. Our project management systems have demonstrated their effectiveness in the world’s largest development projects, so we can manage complex risks and mobilise a wide range of resources quickly, reliably, and cost-effectively. Working closely together, the Europe and DAI Global Health teams operate in tandem with our Brussels office, integrating a broad range of development and post-overseas development assistance transition consulting expertise.
+Leveraging the resources of a global organization, DAI employs superior technical and managerial practitioners and consultants worldwide. Our project management systems have demonstrated their effectiveness in the world’s largest development projects—often in highly challenging or unstable environments—so we can manage complex risks and mobilise a wide range of resources quickly, reliably, and cost-effectively.
 
 For more than 50 years, the true measure of our success has been the success of others and the continued benefit resulting from our work long after project completion. We design and implement every project with this result as our goal.
+
 
 ## Office Contacts
 
