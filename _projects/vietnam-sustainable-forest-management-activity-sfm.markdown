@@ -25,7 +25,7 @@ In six provinces, SFM will strengthen community forest management models to addr
 ### Sample Activities
  
 * Develop inclusive forest co-management models with community forest management groups and our subnational partner agencies to improve forest governance and provide technical assistance to co-management plan implementation in areas such as technical [silviculture](https://en.wikipedia.org/wiki/Silviculture), integrated pest management, rights to resource access, financial management tools, or sustainable forestry techniques and technologies. 
-* Pilot and roll out the national carbon payment for forest ecosystem services program—an innovative initiative to generate revenue for forest management through industrial carbon emitters.
+* Pilot and roll out the national carbon payment for forest environmental services program—an innovative initiative to generate revenue for forest management through industrial carbon emitters.
 * Provide technical assistance and tools to communities to help them participate as effective government counterparts in improved natural production forest management. 
 * Strengthen conservation enterprises in key value chains and develop value chain action plans. 
 * Support law enforcement to maintain forest integrity through analysis and action planning.
