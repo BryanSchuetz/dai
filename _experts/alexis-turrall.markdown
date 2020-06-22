@@ -1,6 +1,7 @@
 ---
 title: Alexis Turrall
 date: 2017-01-11 18:27:00 Z
+published: false
 lastname: Turrall
 summary: Alexis Turrall is the Deputy Director of the Delivery Unit in our Europe
   office and leads the Project Support and Systems (PSS) Team, supporting quality
