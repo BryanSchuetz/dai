@@ -10,6 +10,6 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [RFP-DAI-IGPA-BAG-20-015 Improve planning, monitoring of service provision, and private sector engagement](/uploads/RFP-DAI-IGPA-BAG-20-015.pdf)
+* [RFP-DAI-IGPA-BAG-20-015 Improve planning, monitoring of service provision, and private sector engagement](/uploads/bag-20015revised.pdf)
 * [RFP-DAI-IGPA-BAG-20-003 Develop preventive maintenance methods for water treatment plant generators and stand by equipment](/uploads/revised-IGPA.pdf) 
 * [RFP-DAI-IGPA-BAG-20-013 Design Government Fixed Assets Registry - Extended](/uploads/RFP-DAI-IGPA-BAG-20-013%20Design%20Government%20Fixed%20Assets%20Registry%20-%20Extended.pdf)
