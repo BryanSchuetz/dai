@@ -24,9 +24,7 @@ layout: project
 From the burgeoning population centers of Java to the small island communities of Maluku, the Indonesian people face increasing risk from droughts, floods, and landslides. To support the government of Indonesia in improving local resilience to these climate and disaster threats, the U.S. Agency for International Development (USAID) launched Adaptasi Perubahan Iklim dan Ketangguhan (APIK), or [Climate Change Adaption and Resilience](http://apikindonesia.or.id/en), USAID’s first project focusing exclusively on climate change adaptation in Indonesia.
 
 APIK integrated climate change adaptation (CCA) and disaster risk reduction (DDR) into national and subnational governance frameworks, built the capacity of local communities and the private sector to address climate change and weather-related hazards, and supported information for climate and disaster risk management. By its end, APIK helped 8,000 community members and 334 government staff prepare for risks associated with climate change.
-
-![APIK_image_web.jpg](/uploads/APIK_image_web.jpg)
-
+<iframe src="https://player.vimeo.com/video/430386281" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ### Sample Activities
 
 * Build local leadership and capacity through working groups that address climate and disaster risk in the context of their own development objectives.
