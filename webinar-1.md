@@ -28,3 +28,10 @@ In low-income countries, formal and informal MSMEs are significant engines of gr
 
 <iframe src="https://player.vimeo.com/video/429733041" width="640" height="360" frameborder="0"
   allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Supporting Documents and Links:
+
+* [Powerpoint slides](/uploads/DAI-ECDP%20webinar%201%20-%20slides.pptx)
+* Palestian Territories - The Innovative Private Sector Development (IPSD) project’s [COVID-19 Rapid Response Programme](http://www.ipsd.ps/).
+* Cameroon – E.CAM’s proposal for responses measures to COVID-19 and impact on the Cameroonian economy
+* Kenya - KEPSA business survey on the effects of COVID-19 and the Economic Management Framework developed by KEPSA are both available on the [KEPSA downloads page](https://kepsa.or.ke/downloads/). 
