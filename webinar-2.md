@@ -26,3 +26,10 @@ How can the EU best support countries that sometimes still lack the necessary in
 * [Karim Bin Humam](https://www.linkedin.com/in/karim-bin-humam-05b23b61/), Director of Operations Skilllab
 
 <strong>The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">REGISTER HERE</a></strong>
+
+### Supporting Documents and Links:
+
+* [How are platform workers in Kenya and Ghana responding to the COVID-19 crisis?](https://medium.com/caribou-digital/how-are-digital-platforms-platform-workers-in-kenya-ghana-nigeria-responding-to-the-323f3d31a4c4)
+* Caribou Digital and MicroSave Consulting [analysis](https://www.cariboudigital.net/wp-content/uploads/2020/04/Agent-Networks-and-COVID-19-MSC-and-Caribou-Data.pdf) of impact of COVID-19 Lockdowns on mobile money agents.
+* [Digital After COVDI19 Platform](https://dac.cariboudigital.net/)
+* [Policy and Regulation Initative for Digital Africa (PRIDA)](https://africa-eu-partnership.org/en/projects/policy-and-regulation-initiative-digital-africa-prida)
