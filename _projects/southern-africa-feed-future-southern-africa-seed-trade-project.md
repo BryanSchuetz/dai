@@ -19,6 +19,8 @@ promos:
 - title: USAID’s Seed Trade Project Supports SADC’s Commitment to Plant Health in
     2020 and Beyond
   link: https://www.usaid.gov/southern-africa-regional/news/usai-seed-trade-project-support-sadcs-commitment-plant-health-2020
+- title: With USAID Support, SADC Countries with Seed Deficit Could Find Relief Soon
+  link: https://www.usaid.gov/southern-africa-regional/news/usaid-support-sadc-countries-seed-deficits-could-find-relief-soon
 layout: project
 ---
 
