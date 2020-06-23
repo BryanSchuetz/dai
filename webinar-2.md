@@ -27,6 +27,11 @@ How can the EU best support countries that sometimes still lack the necessary in
 
 <strong>The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">REGISTER HERE</a></strong>
 
+### Recording:
+
+<iframe src="https://player.vimeo.com/video/431830452" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Supporting Documents and Links:
 
 * [How are platform workers in Kenya and Ghana responding to the COVID-19 crisis?](https://medium.com/caribou-digital/how-are-digital-platforms-platform-workers-in-kenya-ghana-nigeria-responding-to-the-323f3d31a4c4)
