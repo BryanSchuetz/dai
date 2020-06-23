@@ -8,7 +8,7 @@ layout: default
 
 <div><span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 29, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time)  </span></div>
 
-![3. Alliance for Financing.png](/uploads/3.%20Alliance%20for%20Financing.png)
+![3. Alliance for Financing.png](/uploads/Alliance%20for%20Financing%20light.png)
 
 **Description:** In its Communication on the global response the pandemic, the EU announces that the mobilisation of €15.6 billion from existing external actions will allow its action to be “fast, adapted and operational.” Blended finance and guarantee funds should play a significant role in the Team Europe response, as they will allow to leverage new financial resources. The European Investment Bank will contribute €5.2 billion to the EU response to Covid-19 outside the EU.
 
