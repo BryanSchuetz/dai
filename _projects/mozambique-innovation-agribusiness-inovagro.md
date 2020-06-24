@@ -49,4 +49,5 @@ InovAgro III builds on the program’s previous phases by further strengthening 
 * InovAgro II supported four villages with 17,000 residents to demarcate community boundaries and worked with seed companies to respond to increased demands for inputs stimulated by the new secure land tenure.
 * InovAgro III assisted 5,000 new farmers to increase their incomes, bringing the program’s total to 20,000 farmers helped.
 * InvoAgro III helped local traders further improve efficiency of transactions, leading to a 100 percent increase in purchases from farmers compared to phase II levels, valued at $3.8 million.
-* InovAgro III added 8,000 new members to village saving groups and promoted a 500 percent increase in total savings for seeds and inputs from 2017 to 2018.
+* InovAgro III added 8,000 new members to village saving groups and promoted a 500 percent increase in total savings for seeds and inputs from 2017 to 2018. 
+* Grew the [network of Fundo Agricola members](https://www.shareweb.ch/site/EI/Pages/Content/newsdetail.aspx?ItemID=1665) in 2019 by 44 percent to 17,445 members (55.3 percent women), who saved $257,800 specifically for purchase of agricultural inputs. 
