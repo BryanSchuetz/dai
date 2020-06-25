@@ -16,10 +16,10 @@ regions:
 country:
 - Indonesia
 promos:
+- title: How a Place-based Approach Built Climate Resilience in Indonesia
+  link: https://dai-global-developments.com/articles/how-a-place-based-approach-built-climate-resilience-in-indonesia
 - title: Improving Community Preparedness through Flood Early Warning Systems
   link: https://www.climatelinks.org/blog/improving-community-preparedness-through-flood-early-warning-systems
-- title: How a Place-based Approach Built Climate Resilience in Indonesia
-  link: 
 layout: project
 ---
 
