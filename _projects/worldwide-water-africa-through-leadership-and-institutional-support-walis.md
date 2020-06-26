@@ -17,6 +17,8 @@ country:
 promos:
 - title: Remote Sensing to Power Senegal’s Water Use
   link: https://www.globalwaters.org/resources/blogs/walis/remote-sensing-power-senegals-water-use
+- title: Addressing Human Resource Gaps in the Sanitation Sector
+  link: https://www.globalwaters.org/resources/assets/walis/addressing-human-resource-gaps-sanitation-sector
 redirect_from:
 - "/walis"
 layout: project
