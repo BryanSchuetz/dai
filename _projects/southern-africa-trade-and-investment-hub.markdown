@@ -1,5 +1,5 @@
 ---
-title: Southern Africa—Trade and Investment Hub
+title: Southern Africa—Trade and Investment Hub (USAID TradeHub)
 date: 2016-11-17 15:08:00 Z
 summary: The USAID Southern Africa Trade and Investment Hub engages with partners
   across Southern Africa to deepen regional economic integration, promote two-way
@@ -20,11 +20,11 @@ regions: Sub-Saharan Africa
 country: Regional
 ---
 
-The  U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (Hub) engages with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supports these objectives by increasing exports from southern African countries to South Africa and the United States (under the African Growth and Opportunity Act [AGOA]), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The Hub works with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
+The  U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (USAID TradeHub) engages with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supports these objectives by increasing exports from southern African countries to South Africa and the United States (under the African Growth and Opportunity Act [AGOA]), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The USAID TradeHub works with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
 
-The Hub works closely with regional governments and the Southern African Development Community on trade policy. The Hub’s strategy reflects an increased focus on its exit strategy and reorientation from a direct delivery model to a market systems approach. This involves strengthening the ability of market actors with which the Hub has been working to date—trade promotion service providers, investment firms, and other financial service providers—to continue to promote trade and investment beyond the life of the Hub. 
+The USAID TradeHub works closely with regional governments and the Southern African Development Community on trade policy. The USAID TradeHub’s strategy reflects an increased focus on its exit strategy and reorientation from a direct delivery model to a market systems approach. This involves strengthening the ability of market actors with which the Hub has been working to date—trade promotion service providers, investment firms, and other financial service providers—to continue to promote trade and investment beyond the life of the Hub. 
 
-The Hub is based in Pretoria, South Africa, with resident representatives in Eswatini, Lesotho, Malawi, Mozambique, and Zambia. The program works with Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Eswatini, and Zambia. The Hub is also exploring potential activities in Angola.
+The USAID TradeHub is based in Pretoria, South Africa, with resident representatives in Eswatini, Lesotho, Malawi, Mozambique, and Zambia. The program works with Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Eswatini, and Zambia. The Hub is also exploring potential activities in Angola.
 
 <iframe src="https://player.vimeo.com/video/266114693" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
