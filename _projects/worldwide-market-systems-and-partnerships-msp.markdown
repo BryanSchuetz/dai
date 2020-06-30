@@ -13,6 +13,7 @@ solutions:
 - Value Chain and Market Systems Development
 - Finance and Investment
 regions: Worldwide
+country: Worldwide
 ---
 
 The Feed the Future Market Systems and Partnerships activity (MSP) helps the U.S. Agency for International Development (USAID) integrate private sector engagement across all its activities, while at the same time deepening market systems development and other facilitative approaches across the Feed the Future program cycle.
