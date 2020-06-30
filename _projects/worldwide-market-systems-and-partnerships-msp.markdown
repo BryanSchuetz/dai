@@ -1,11 +1,10 @@
 ---
 title: Worldwide—Feed the Future Market Systems and Partnerships (MSP)
 date: 2020-06-30 10:48:00 Z
-published: false
-summary: The Market Systems and Partnerships project helps the U.S. Agency for International
-  Development integrate private sector engagement across all its activities, while
-  at the same time deepening market systems development and other facilitative approaches
-  across the Feed the Future program cycle.
+summary: The Feed the Future Market Systems and Partnerships activity helps the U.S.
+  Agency for International Development integrate private sector engagement across
+  all its activities, while at the same time deepening market systems development
+  and other facilitative approaches across the Feed the Future program cycle.
 start: 2020
 end: 2023
 client: U.S. Agency for International Development
