@@ -1,5 +1,5 @@
 ---
-title: Worldwide—Market Systems and Partnerships (MSP)
+title: Worldwide—Feed the Future Market Systems and Partnerships (MSP)
 date: 2020-06-30 10:48:00 Z
 published: false
 summary: The Market Systems and Partnerships project helps the U.S. Agency for International
@@ -16,7 +16,7 @@ solutions:
 regions: Worldwide
 ---
 
-The Market Systems and Partnerships project (MSP), a Washington, D.C.-based buy-in contract helps the U.S. Agency for International Development (USAID) integrate private sector engagement across all its activities, while at the same time deepening market systems development and other facilitative approaches across the Feed the Future program cycle.
+The Feed the Future Market Systems and Partnerships project (MSP), a Washington, D.C.-based buy-in contract helps the U.S. Agency for International Development (USAID) integrate private sector engagement across all its activities, while at the same time deepening market systems development and other facilitative approaches across the Feed the Future program cycle.
  
 MSP advances learning and good practice in private sector engagement and market systems development, ultimately resulting in stronger and more sustainable agriculture-led economic growth in partner countries, improved food security and nutrition, and strengthened resilience.
  
