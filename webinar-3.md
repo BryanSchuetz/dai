@@ -33,7 +33,7 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 * [Saving Africa’s private sector jobs during the coronavirus pandemic](https://ecdpm.org/wp-content/uploads/Saving-Jobs-During-Pandemic_te-Velde-et-al_15-April-2020.pdf), ECDPM, ODI, Re-Define, UNECA paper, April 2020
 * [A call for action to European governments and their Development Finance Institutions - Saving jobs in Africa](https://www.edfi.eu/news/callforaction/), by leading personalities, EDFI May 2020
 * [ECDPM](https://ecdpm.org/talking-points/following-money-why-covid-19-marker-might-not-help/), June 2020
-DAI and Investment (flier attached)
+* [DAI and Investment](/uploads/dai-and-investment.pdf) 
 * [UNCTAD report](http://sdg.iisd.org/news/unctad-report-details-covid-19-impacts-on-investment-flows/), May 2020
 * [Center for Global Development](https://www.cgdev.org/publication/covid-19-development-innovation-agenda-economic-and-financial-lens), May 2020
 * [DEVEX](https://www.devex.com/news/how-dfis-are-responding-to-the-covid-19-crisis-97081), June 2020
