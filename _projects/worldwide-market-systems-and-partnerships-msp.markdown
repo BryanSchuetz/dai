@@ -16,14 +16,15 @@ solutions:
 regions: Worldwide
 ---
 
-The Feed the Future Market Systems and Partnerships project (MSP), a Washington, D.C.-based buy-in contract helps the U.S. Agency for International Development (USAID) integrate private sector engagement across all its activities, while at the same time deepening market systems development and other facilitative approaches across the Feed the Future program cycle.
+The Feed the Future Market Systems and Partnerships activity (MSP) helps the U.S. Agency for International Development (USAID) integrate private sector engagement across all its activities, while at the same time deepening market systems development and other facilitative approaches across the Feed the Future program cycle.
  
 MSP advances learning and good practice in private sector engagement and market systems development, ultimately resulting in stronger and more sustainable agriculture-led economic growth in partner countries, improved food security and nutrition, and strengthened resilience.
- 
-MSP activities are demand-driven. These activities include facilitating private sector partnerships, such as helping USAID establish new blended finance mechanisms or forge partnerships that create shared value by aligning business objectives and development goals; supporting USAID in the design, implementation, monitoring, and evaluation of market systems and private sector engagement activities; advancing learning on private sector engagement and market systems development by developing theoretical frameworks and practical implementation tools; and building the capacity of USAID and its implementing partners to design, implement, monitor, evaluate, and learn from market systems and private sector engagement activities.
- 
+
+MSP delivers durable, systemic, and inclusive agriculture-led growth that results in more dynamic agriculture and food market systems, improved food security and nutrition, and sustained poverty reduction. MSP supports the transition from a value chain approach to a programming approach that leverages market systems and private sector engagement to accelerate prosperity, using an operational approach that captures and communicates innovation, builds broad internal and external stakeholder capacity, and nurtures transformational—and not—transactional partnerships between USAID and the private sector. 
+  
 ### Sample Activities
 
 * Facilitate private sector partnerships.
 * Develop frameworks and tools to advance learning on private sector engagement.
 * Establish new blended finance mechanisms.
+* Support USAID in the design, implementation, monitoring, and evaluation of market systems and private sector engagement activities.
