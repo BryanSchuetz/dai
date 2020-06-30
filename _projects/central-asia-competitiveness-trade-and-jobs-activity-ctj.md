@@ -17,6 +17,9 @@ country:
 promos:
 - title: Tajikistan’s Apricot Exports Speak for Themselves
   link: https://medium.com/usaid-2030/tajikistans-apricot-exports-speak-for-themselves-8fdbbb2d1b84
+- title: A Transport and Logistics Partnership enhances food security and ensures
+    the supply of essential products in Central Asia through the Pandemic
+  link: https://usaidcentralasia.exposure.co/delivering-essentials
 layout: project
 ---
 
