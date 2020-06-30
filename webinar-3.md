@@ -22,3 +22,18 @@ The [Development Finance Institutions (DFI) Alliance ](https://www.dfc.gov/media
 * [Tillman Bruett](https://www.dai.com/who-we-are/our-team/till-bruett), Global Practice Lead, Financial Services and Investment, DAI
 
 <strong>The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">REGISTER HERE</a></strong>
+
+### Recording:
+
+<iframe src="https://player.vimeo.com/video/434024074" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Supporting Documents and Links:
+
+* [Towards an EU global COVID-19 response 2.0: Boosting smarter finance](https://ecdpm.org/publications/towards-eu-global-covid-19-response-2-0-boosting-smarter-finance/) , ECDPM Discussion Paper, June 2020
+* [Saving Africa’s private sector jobs during the coronavirus pandemic](https://ecdpm.org/wp-content/uploads/Saving-Jobs-During-Pandemic_te-Velde-et-al_15-April-2020.pdf), ECDPM, ODI, Re-Define, UNECA paper, April 2020
+* [A call for action to European governments and their Development Finance Institutions - Saving jobs in Africa](https://www.edfi.eu/news/callforaction/), by leading personalities, EDFI May 2020
+* [ECDPM](https://ecdpm.org/talking-points/following-money-why-covid-19-marker-might-not-help/), June 2020
+DAI and Investment (flier attached)
+* [UNCTAD report](http://sdg.iisd.org/news/unctad-report-details-covid-19-impacts-on-investment-flows/), May 2020
+* [Center for Global Development](https://www.cgdev.org/publication/covid-19-development-innovation-agenda-economic-and-financial-lens), May 2020
+* [DEVEX](https://www.devex.com/news/how-dfis-are-responding-to-the-covid-19-crisis-97081), June 2020
