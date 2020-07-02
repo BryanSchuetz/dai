@@ -21,7 +21,7 @@ The Feed the Future Market Systems and Partnerships activity (MSP) helps the U.S
  
 MSP supports USAID and its implementers to deliver durable, systemic, and inclusive agriculture-led growth that results in more dynamic agriculture and food market systems, improved food security and nutrition, and sustained poverty reduction. MSP strengthens practical guidance for market systems development including how to translate theory into practice, builds the evidence base on market systems development impact, and strengthens the tools for measuring systemic change. MSP uses an agile operational approach that captures and communicates innovation, builds broad internal and external stakeholder capacity, and nurtures transformational—and not—transactional partnerships between USAID and the private sector.
 
-![AVANSE- Farmer at his soil conserving hillside garden in Grison Garde.png](/uploads/AVANSE-%20Farmer%20at%20his%20soil%20conserving%20hillside%20garden%20in%20Grison%20Garde.png)
+![MSP.jpg](/uploads/MSP.jpg)
   
 ### Sample Activities
 
