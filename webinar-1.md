@@ -1,10 +1,10 @@
 ---
-title: 'Webinar 1: Strengthening MSMEs for economic resilience and sustainable development'
+title: 'Webinar 1: Strengthening MSMEs for Economic Resilience and Sustainable Development'
 permalink: "/webinar-1"
 layout: default
 ---
 
-# Webinar 1: Strengthening MSMEs for economic resilience and sustainable development
+# Webinar 1: Strengthening MSMEs for Economic Resilience and Sustainable Development
 
 <div>
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 15, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) </span>
