@@ -1,5 +1,5 @@
 ---
-title: 'Webinar 4: Building stronger health systems going forward'
+title: 'Webinar 4: Building Stronger Health Systems Going Forward'
 permalink: "/webinar-4"
 layout: default
 ---
