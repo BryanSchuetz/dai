@@ -4,7 +4,7 @@ permalink: "/webinar-4"
 layout: default
 ---
 
-# Webinar 4: Building stronger health systems going forward
+# Webinar 4: Building Stronger Health Systems Going Forward
 
 <div><span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, July 6, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) </span></div>
 
