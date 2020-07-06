@@ -1,7 +1,6 @@
 ---
 title: Bosnia and Herzegovina—Education for Employment
 date: 2020-07-01 10:45:00 Z
-published: false
 summary: 'The Education for Employment  supports the Government of Bosnia and Herzegovina
   to increase the responsiveness of its education sector to labour market needs alongside
   efforts to increase institutional capacities and coordination within the education
