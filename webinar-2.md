@@ -1,11 +1,11 @@
 ---
-title: 'Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’
-  economies'
+title: 'Webinar 2: COVID-19 and the Accelerated Digitalisation of Developing Countries’
+  Economies'
 permalink: "/webinar-2"
 layout: default
 ---
 
-# Webinar 2: COVID-19 and the accelerated digitalisation of developing countries’ economies 
+# Webinar 2: COVID-19 and the Accelerated Digitalisation of Developing Countries’ Economies 
 
 <div><span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 22, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) </span></div>
 
@@ -31,10 +31,9 @@ How can the EU best support countries that sometimes still lack the necessary in
 
 <iframe src="https://player.vimeo.com/video/431830452" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
 ### Supporting Documents and Links:
 
 * [How are platform workers in Kenya and Ghana responding to the COVID-19 crisis?](https://medium.com/caribou-digital/how-are-digital-platforms-platform-workers-in-kenya-ghana-nigeria-responding-to-the-323f3d31a4c4)
 * Caribou Digital and MicroSave Consulting [analysis](https://www.cariboudigital.net/wp-content/uploads/2020/04/Agent-Networks-and-COVID-19-MSC-and-Caribou-Data.pdf) of impact of COVID-19 Lockdowns on mobile money agents.
-* [Digital After COVDI19 Platform](https://dac.cariboudigital.net/)
+* [Digital After COVID-19 Platform](https://dac.cariboudigital.net/)
 * [Policy and Regulation Initative for Digital Africa (PRIDA)](https://africa-eu-partnership.org/en/projects/policy-and-regulation-initiative-digital-africa-prida)
