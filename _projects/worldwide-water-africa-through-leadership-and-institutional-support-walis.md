@@ -4,7 +4,7 @@ date: 2016-01-21 22:40:00 Z
 summary: 'The WALIS program provides technical, programmatic, administrative, and
   logistical support to USAID in improving the capacity of African water sectors. '
 start: 2015
-end: 2020
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Environment
