@@ -21,3 +21,7 @@ layout: default
 * [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson), Chief Technology Officer, DAI Global Health
 
 <strong>The webinars will be recorded and remain available on DAI’s and ECDPM’s websites. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOdqi6h0aCwizEHZdZIVIOX_JsVFS0pzJjbTj8E5982rjJNw/viewform">REGISTER HERE</a></strong>
+
+### Recording:
+
+<iframe src="https://player.vimeo.com/video/436128576" width="640" height="268" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
