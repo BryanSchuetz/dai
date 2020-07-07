@@ -8,7 +8,7 @@ layout: default
 
 <div><span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, July 6, 9am–10:15am (Eastern Daylight Time); 3pm–4:15pm (Central European Summer Time) </span></div>
 
-![4. Health.png](/uploads/4.%20Health.png)
+![Health light.png](/uploads/Health%20light.png)
 
 **Description:** The COVID-19 pandemic is propelling global health as a major priority of the EU’s development aid agenda. This webinar showcases the importance of a coordinated public and private response through various health projects and their different reactions to the pandemic: from traditional awareness raising campaigns to high-tech digital tools, the COVID-19 pandemic is forcing creativity and innovation. Panelists will reflect on how the emergency reaction and global creativity can help build stronger health systems, in partnership with governments, the private sector, communities, and regional professional networks. 
 
