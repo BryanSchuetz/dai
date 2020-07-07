@@ -1,6 +1,7 @@
 ---
 title: Michael Jakobowski
 date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Chief Financial Officer
 summary: Michael has more than 20 years of management and consulting experience, including
   in strategic planning, mergers and acquisitions, business process integration, and
