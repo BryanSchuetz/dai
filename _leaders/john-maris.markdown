@@ -3,10 +3,8 @@ title: John Maris
 date: 2020-07-08 14:12:00 Z
 job-title: Acting Chief Financial Officer; Managing Director, DAI Capital
 summary: John maintains the integrity of the company’s financial statements, ensures
-  compliance with all financial regulators and tax authorities, leads our business
-  forecasting and modelling work to inform strategic and operational decisions, and
-  ensures that the company is appropriately capitalized to achieve its development
-  mission.
+  compliance with all financial regulators and tax authorities, and leads our business
+  forecasting and modelling work to inform strategic and operational decisions.
 image: "/uploads/maris-15fd6b.jpg"
 sort-order: 4
 ---
