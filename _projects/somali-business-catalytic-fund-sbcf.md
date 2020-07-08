@@ -1,4 +1,4 @@
- ---
+---
 title: Somalia—Somali Business Catalytic Fund (SBCF)
 date: 2016-11-18 19:02:00 Z
 summary: |
