@@ -32,5 +32,5 @@ layout: default
 * [EU external response to COVID-19 factsheet](https://ec.europa.eu/international-partnerships/system/files/coronavirus-global-response-summit-external-response-factsheet_en.pdf)
 * EU [Coronavirus global response pledging conference](https://global-response.europa.eu/index_en)
 * EU’s work on health systems strengthening and universal health coverage
-* “[COVID-19: This pandemic offers a lesson we must learn before the next,](https://sciencespeaksblog.org/2020/04/14/covid-19-this-pandemic-offers-a-lesson-we-must-learn-before-the-next/)” Science Speaks, By Manish Kumar, Jim Thomas, and Bobby Jefferson
+* “[COVID-19: This pandemic offers a lesson we must learn before the next,](https://sciencespeaksblog.org/2020/04/14/covid-19-this-pandemic-offers-a-lesson-we-must-learn-before-the-next/)” Science Speaks, by Manish Kumar, Jim Thomas, and Bobby Jefferson
 * [Principles for Digital Development](https://digitalprinciples.org/)
