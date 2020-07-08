@@ -25,3 +25,12 @@ layout: default
 ### Recording:
 
 <iframe src="https://player.vimeo.com/video/436128576" width="640" height="268" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### Documents and Links:
+
+Team Europe response to COVID-19
+EU external response to COVID-19 factsheet,
+EU Coronavirus global response pledging conference
+EU’s work on health systems strengthening and universal health coverage
+“COVID-19: This pandemic offers a lesson we must learn before the next”, Science Speaks – By Manish Kumar, Jim Thomas and Bobby Jefferson: https://sciencespeaksblog.org/2020/04/14/covid-19-this-pandemic-offers-a-lesson-we-must-learn-before-the-next/
+Principles for Digital Development: https://digitalprinciples.org/
