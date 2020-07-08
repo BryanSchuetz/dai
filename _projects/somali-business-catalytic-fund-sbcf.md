@@ -1,11 +1,12 @@
  ---
 title: Somalia—Somali Business Catalytic Fund (SBCF)
 date: 2016-11-18 19:02:00 Z
-summary: 'To help address barriers and boost economic growth, the World Bank launched
+summary: |
+  To help address barriers and boost economic growth, the World Bank launched
   the Somali Business Catalytic Fund (SBCF) to invest
   in the establishment and expansion of profitable small and medium enterprises. Over
   its life, the SBCF disbursed more than $5.2 million in grant funding in the Somaliland,
-  Puntland, and Mogadishu regions.  '
+  Puntland, and Mogadishu regions.
 start: 2016
 end: 2019
 client: World Bank
@@ -13,7 +14,6 @@ solutions:
 - Innovation and Entrepreneurship
 - Sustainable Livelihoods
 - Economic Growth
-- 
 regions: Sub-Saharan Africa
 country: Somalia
 ---
