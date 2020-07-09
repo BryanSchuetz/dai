@@ -1,0 +1,14 @@
+name: Search and Proof
+
+on: [push]
+
+jobs:
+  search_and_proof:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Update Algolia & Proof
+        env:
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+              YML_CONFIG: "_config_prod.yml"
+        uses: BryanSchuetz/jekyll-search-and-proof@master
