@@ -10,7 +10,7 @@ summary: 'We are creating a perpetual market for investments in efficient energy
 
 '
 start: 2010
-end: 2017
+end: 2018
 client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
