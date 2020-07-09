@@ -10,5 +10,5 @@ jobs:
       - name: Update Algolia & Proof
         env:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-              YML_CONFIG: "_config_prod.yml"
+          YML_CONFIG: "_config_prod.yml"
         uses: BryanSchuetz/jekyll-search-and-proof@master
