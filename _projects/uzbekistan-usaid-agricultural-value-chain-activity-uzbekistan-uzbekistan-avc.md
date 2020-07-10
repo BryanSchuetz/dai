@@ -15,6 +15,9 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Uzbekistan
+promos:
+- title: How USAID helps exporters bring Uzbekistan’s fruits to the world
+  link: https://medium.com/usaid-2030/uzbek-melons-reach-new-markets-8383480d4f2d
 layout: project
 ---
 
