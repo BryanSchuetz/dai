@@ -43,3 +43,4 @@ node_modules/
 .sass-cache/
 /build/
 assets/files/
+/.github/

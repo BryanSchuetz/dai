@@ -156,6 +156,7 @@ exclude:
 - node_modules
 - "/build"
 - browser-sync.js
+- "/.github"
 unpublished: true
 sass:
   sass_dir: assets/_sass
