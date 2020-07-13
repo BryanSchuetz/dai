@@ -8,9 +8,7 @@ social-image: "/uploads/james-boomgard.jpg"
 ---
 
 ![Jim Boomgard](/uploads/james-boomgard-ccf327.jpg){:.float-left}
-*Last month, DAI announced a significant [commitment](https://www.dai.com/news/dai-announces-1-dollars-million-commitment-to-support-racial-and-social-justice) to combat racism and social injustice. Yesterday, in a communication to staff, President and CEO Jim Boomgard spelled out the vision and principles—developed by the Racism and Social Justice Initiative team—that will guide the company’s anti-racism initiative, which is “not only aligned with DAI’s long-standing values,” he said, “but also extends those [values](https://www.dai.com/who-we-are/mission-and-values) in important and highly relevant ways.”*
-
-*The full text of the Vision and Guiding Principles document follows.* 
+*Last month, DAI announced a significant [commitment](https://www.dai.com/news/dai-announces-1-dollars-million-commitment-to-support-racial-and-social-justice) to combat racism and social injustice. Yesterday, in a communication to staff, President and CEO Jim Boomgard spelled out the vision and principles—developed by the Racism and Social Justice Initiative team—that will guide the company’s anti-racism initiative, which is “not only aligned with DAI’s long-standing values,” he said, “but also extends those [values](https://www.dai.com/who-we-are/mission-and-values) in important and highly relevant ways.” The full text of the Vision and Guiding Principles document follows.* 
 
 <!--more-->
 
