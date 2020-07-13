@@ -11,6 +11,8 @@ social-image: "/uploads/james-boomgard.jpg"
 
 *The full text of the Vision and Guiding Principles document follows.*
 
+<!--more-->
+
 ## DAI’s Racial and Social Justice Initiative 
 
 The recent murders of George Floyd, Breonna Taylor, and Ahmaud Arbery have refocused the world’s attention on racial inequity and injustice. These instances, hideous enough on their own, are an external, violent expression of the pervasive racism and discrimination that is seared into our societies. This racism—structural in nature—segregates communities of color from access to opportunity and upward mobility and results in pernicious conscious and unconscious biases. 
