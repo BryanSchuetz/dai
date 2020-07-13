@@ -5,7 +5,7 @@ summary: The Land Investment for Transformation programme is raising incomes for
   rural poor and vulnerable populations in Ethiopia and enhancing economic growth
   through second-level land certification and improved rural land administration.
 start: 2013
-end: 2020
+end: 2021
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
