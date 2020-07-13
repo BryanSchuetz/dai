@@ -41,4 +41,11 @@ View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and
 * Improve the [government accountability system](https://medium.com/usaid-2030/democracy-delivers-in-malawi-c79cd4627af6) by strengthening existing mechanisms, such as community scorecards and service management committees, while introducing new accountability tools, including public service charters and social audits.
 * Create a dynamic space for collaboration with programs led by USAID and other donors also working in LGAP districts, integrating development activities at the community, district, and national levels.
 
+### Select Results
+
+* Provided integrated financial management information system training to every single finance staff and non-finance manager responsible for approving spending in all 28 districts of Malawi. 
+* Improved government human resources function by aligning payroll with an accurate headcount; conducting vacancy analysis; updating staff returns; review of personal emoluments; clarifying terms and conditions of service, and working conditions; and supporting recruitment.
+* Developed a Teacher-Performance Assessment System, revamped the school inspection system to uphold national standards, and developed professional certification for teachers.
+* Developed public expenditure tracking tools.  
+
 <iframe src="https://player.vimeo.com/video/273965892" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
