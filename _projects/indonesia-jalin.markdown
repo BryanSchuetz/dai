@@ -16,6 +16,9 @@ country: Indonesia
 promos:
 - title: Collaboration is Essential to Improving Maternal and Newborn Health in Indonesia
   link: https://dai-global-developments.com/articles/lets-work-together-to-improve-maternal-and-newborn-health
+- title: 'Partnering with Convenience Stores to Bring Health Services Closer to Home
+    in Indonesia '
+  link: https://www.usaid.gov/actingonthecall/stories/partnering-convenience-stores-bring-health-services-closer-home-indonesia
 ---
 
 While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations. 
