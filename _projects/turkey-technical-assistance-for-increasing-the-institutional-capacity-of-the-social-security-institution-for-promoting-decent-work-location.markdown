@@ -2,6 +2,7 @@
 title: Turkey—Technical Assistance for Increasing the Institutional Capacity of the
   Social Security Institution for Promoting Decent Work Location
 date: 2020-04-21 09:30:00 Z
+published: false
 summary: Technical Assistance for Increasing the Institutional Capacity of the Social
   Security Institution for Promoting Decent Work Location, led by DAI’s Human Dynamics,
   improves the legal and institutional framework to enhance work culture in the labor
