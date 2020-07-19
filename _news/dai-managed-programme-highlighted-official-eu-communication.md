@@ -14,7 +14,7 @@ regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean
 projects: African, Caribbean and Pacific–European Union Microfinance Programme
-clients: 
+clients: European Union
 layout: node
 ---
 

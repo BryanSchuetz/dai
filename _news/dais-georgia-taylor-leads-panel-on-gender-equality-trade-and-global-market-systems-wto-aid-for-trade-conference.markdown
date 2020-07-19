@@ -9,6 +9,7 @@ summary: 'Georgia Taylor, Technical Director at DAI Global Health, will lead a d
   on promoting women’s economic empowerment and justice in global market systems at
   the Aid for Trade Global Review 2019 in Geneva on July 4. '
 social-image: "/uploads/Screen%20Shot%202019-07-01%20at%2012.31.41%20PM.png"
+clients: European Union
 ---
 
 [Georgia Taylor](https://www.dai.com/who-we-are/our-team/georgia-taylor), Technical Director at DAI Global Health, will lead a discussion on promoting women’s economic empowerment and justice in global market systems at the [Aid for Trade Global Review 2019](https://www.wto.org/english/tratop_e/devel_e/a4t_e/gr19_e/gr19programme_e.htm) in Geneva on July 4. 

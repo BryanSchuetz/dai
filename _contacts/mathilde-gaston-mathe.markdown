@@ -1,17 +1,14 @@
 ---
 title: Mathilde Gaston-Mathe
 date: 2017-03-07 16:29:00 Z
-published: false
-job-title: Senior Consultant, Communications and Knowledge Management
-email: Mathilde_Gaston-Mathe@dai.com
-summary: Mathilde Gaston-Mathe is a communications and knowledge management consultant.
-  She was the communications expert on the EC-funded ACP/EU MICROFINANCE programme
-  for five years and is now one of three key experts on the TPSD Facility, supporting
-  DEVCO’s Trade and Private Sector Development Unit. Mathilde is also responsible
-  for the communication and visibility of DAI Brussels.
-image: "/uploads/mathilde.jpg"
-group: Archive
-sort-order: 4
----
+job-title: Director of Communications and Outreach 
+summary: |
+  Mathilde Gaston-Mathé is the Director of Communications and Outreach for DAI’s EU Business Unit. Mathilde joined DAI in 2011 as a communications expert on the EU-funded ACP Microfinance programme. Since then, she has been combining corporate communication responsibilties with project assignments. She is one of three key experts on the EU Trade and Private Sector Development and Engagement (TPSD/E) Facility. 
 
-Mathilde Gaston-Mathe is a communications and knowledge management consultant with 15 years of experience mostly in the fields of microfinance and financial inclusion. She was the communications expert on the European Commission-funded ACP/EU MICROFINANCE programme for five years and is now one of three key experts on the TPSD Facility, supporting DEVCO’s Trade and Private Sector Development Unit. Mathilde also works in DAI’s EC business development unit.
+  Prior to joining DAI, Mathilde spent most of her career working as communications specialist in nonprofit organisations active in financial inclusion and women's economic empowerment. 
+
+  •	Master’s, marketing and communications, CELSA school, Paris
+image: "/uploads/mathilde.jpg"
+group: Europe
+sort-order: 6
+---

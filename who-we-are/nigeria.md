@@ -13,7 +13,7 @@ country-page: true
 redirect_from: "/nigeria"
 layout: node
 ---
-
+ 
 <div class="country-people">
   <div class="country-people--block first">
     <div class="countryRep">

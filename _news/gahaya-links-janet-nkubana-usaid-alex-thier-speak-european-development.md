@@ -12,7 +12,7 @@ summary: 'Janet Nkubana, the co-founder of Rwanda-based Gahaya Links, will be on
 solutions: 
 regions: 
 projects: 
-clients: 
+clients: European Union
 layout: node
 ---
 

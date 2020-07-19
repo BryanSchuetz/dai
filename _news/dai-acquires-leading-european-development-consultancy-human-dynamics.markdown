@@ -2,7 +2,7 @@
 title: DAI Acquires Leading European Development Consultancy, Human Dynamics
 date: 2019-11-27 01:00:00 Z
 is_featured: true
-clients: European Commission
+clients: European Union
 summary: DAI today announced the acquisition of Human Dynamics, a pre-eminent supplier
   of international development services in the European market.
 social-image: "/uploads/IMG_1457-630b25.jpeg"
@@ -14,7 +14,7 @@ social-image: "/uploads/IMG_1457-630b25.jpeg"
 
 <!--more-->
   
-> “We are thrilled to be joining forces with Human Dynamics,” said DAI President and CEO **Jim Boomgard**. “In combination, we are a stronger, more diverse, more vibrant organization, and our scale and technical breadth will enable us to offer richer services and better value to our customers, particularly but not exclusively our clients in the European Union.”
+> “We are thrilled to be joining forces with Human Dynamics,” said DAI President and CEO **Jim Boomgard**. “In combination, we are a stronger, more diverse, more vibrant organization, and our scale and technical breadth will enable us to offer richer services and better value to our customers, particularly but not exclusively  our clients in the European Union.”
  
 Founded in 1993 in Vienna, Austria—but now operating also out of Bulgaria, Serbia, Turkey, the United Kingdom, and elsewhere—Human Dynamics brings to DAI a team of development professionals with a record of delivering outstanding technical assistance and project management services.
 

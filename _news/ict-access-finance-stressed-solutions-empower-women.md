@@ -10,7 +10,7 @@ solutions:
 - Economic Growth
 regions: 
 projects: 
-clients: 
+clients: European Union
 layout: node
 is_featured: true
 ---

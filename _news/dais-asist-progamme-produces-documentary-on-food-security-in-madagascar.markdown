@@ -6,7 +6,7 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 projects: Worldwide—Advisory Service Social Transfers (ASiST III) Programme
-clients: European Commission
+clients: European Union
 summary: The Advisory Service Social Transfers (ASiST III) Programme, funded by the
   European Commission, recently premiered a documentary video it produced to highlight
   the work done by European Union projects in Madagascar to assist smallholder farmers

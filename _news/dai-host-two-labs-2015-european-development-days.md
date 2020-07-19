@@ -9,7 +9,7 @@ solutions:
 regions: 
 projects: 
 clients:
-- European Commission
+- European Union
 - U.K. Department for International Development
 layout: node
 ---

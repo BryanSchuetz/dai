@@ -5,7 +5,7 @@ date: 2019-12-18 09:10:00 Z
 solutions:
 - Environment
 regions: Middle East and North Africa
-clients: European Commission
+clients: European Union
 summary: The city of Monastir, Tunisia—supported by a European Commission project—was
   recently named at a special event at the UN Climate Change Conference as one of
   the five frontrunners and role models for climate action.
