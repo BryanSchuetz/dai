@@ -1,17 +1,22 @@
 ---
 title: DAI and the European Union
-permalink: "who-we-are/global-reach/european-union"
-summary: The European Union (EU) is the world’s largest development donor. DAI, with its long-term presence on the European continent and the recent acquisition of Human Dynamics, is a key partner in the implementation of the EU global strategy for international development and cooperation. As the leading EU contractor, we seek to build synergies between EU policies to the benefit of partner countries.
+permalink: who-we-are/global-reach/european-union
+published: false
+summary: The European Union (EU) is the world’s largest development donor. DAI, with
+  its long-term presence on the European continent and the recent acquisition of Human
+  Dynamics, is a key partner in the implementation of the EU global strategy for international
+  development and cooperation. As the leading EU contractor, we seek to build synergies
+  between EU policies to the benefit of partner countries.
 hero: true
 regions: Eastern Europe and Central Asia
 related: true
 country-page: true
 layout: node
-published: false
 redirect_from:
 - "/who-we-are/global-reach/brussels"
-- "who-we-are/global-reach/europe"
+- who-we-are/global-reach/europe
 ---
+
 DAI has long had a presence in continental Europe. With the [acquisition](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) of the distinguished European development consultancy [Human Dynamics](https://www.humandynamics.org/) in 2019, we achieved the scale and technical breadth that enables us to offer richer services and better value to our customers in the EU. We are now the largest single provider of development services to the European Commission.
 
 From corporate locations in Ankara (Turkey), Belgrade (Serbia), Brussels (Belgium), Cologne (Germany), London (United Kingdom), Sofia (Bulgaria), and Vienna (Austria), our team of 100+ employees oversees a portfolio of more than 60 EU projects in 75 countries.
