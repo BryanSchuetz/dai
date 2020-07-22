@@ -2,6 +2,16 @@
 title: DAI to Implement USAID Market Systems and Partnerships Program
 date: 2020-07-22 12:01:00 Z
 published: false
+solutions:
+- Public-Private Partnerships
+- Value Chain and Market Systems Development
+regions: Worldwide
+projects: Worldwide—Feed the Future Market Systems and Partnerships (MSP)
+clients: U.S. Agency for International Development
+summary: DAI will implement the Feed the Future Market Systems and Partnerships (MSP)
+  program, a flexible buy-in mechanism that will support the U.S. Agency for International
+  Development (USAID) in actively integrating private sector engagement and market
+  systems development approaches into its programming across the globe.
 ---
 
 DAI will implement the Feed the Future Market Systems and Partnerships (MSP) program, a flexible buy-in mechanism that will support the U.S. Agency for International Development (USAID) in actively integrating private sector engagement and market systems development approaches into its programming across the globe. These two approaches to development interventions will help deepen and accelerate the Agency’s top-level goals of inclusive and resilient agricultural-led economic growth, improved food security and nutrition, and increased incomes for the poor.
@@ -13,5 +23,3 @@ The Agency will draw upon MSP as a central tool to implement its cultural and op
 A key focus of the project will be to strengthen learning and capacity in private sector engagement and in market systems development within USAID and beyond. MSP will also build an evidence base to confirm underlying assumptions on theories of change for these two approaches to development programming and will develop tools that translate theory into practice.  
  
 MSP will develop activities with an orientation toward supporting and co-creating market-based solutions with the private sector, host-country governments, civil society, and implementers with an emphasis on working with new and underutilized partners. The project prioritizes Feed the Future target      and aligned countries. Its consortium members include MarketShare Associates, Global Knowledge Initiative, TechChange, TechnoServe, EcoVentures International and ISF Advisors.
- 
-
