@@ -5,7 +5,7 @@ summary: The EuropeAid-funded Chilungamo programme contributes to increased leve
   of governance, accountability, compliance with the rule of law, and respect, promotion,
   and protection of human rights in Malawi.
 start: 2017
-end: 2021
+end: 2022
 client: European Union
 solutions:
 - Governance
