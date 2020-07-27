@@ -1,6 +1,10 @@
 ---
 title: DAI to Implement USAID Market Systems and Partnerships Program
 date: 2020-07-22 10:00:00 Z
+tags:
+- economic growth
+- Feed the Future
+- USAID
 solutions:
 - Public-Private Partnerships
 - Value Chain and Market Systems Development
@@ -11,6 +15,7 @@ summary: DAI will implement the Feed the Future Market Systems and Partnerships 
   program, a flexible buy-in mechanism that will support the U.S. Agency for International
   Development (USAID) in actively integrating private sector engagement and market
   systems development approaches into its programming across the globe.
+social-image: "/uploads/Screen%20Shot%202020-07-27%20at%201.36.13%20PM.png"
 ---
 
 DAI will implement the [Feed the Future Market Systems and Partnerships](https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp) (MSP) program, a flexible buy-in mechanism that will support the U.S. Agency for International Development (USAID) in actively integrating private sector engagement and market systems development approaches into its programming across the globe. These two approaches to development interventions will help deepen and accelerate the Agency’s top-level goals of inclusive and resilient agricultural-led economic growth, improved food security and nutrition, and increased incomes for the poor. The base period runs until June 2023, with a two-year option.
