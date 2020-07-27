@@ -16,8 +16,8 @@ promos:
   link: "/who-we-are/the-team?filter=fragile-states"
 - title: "**Our Work:** DAI Fragile States Projects"
   link: "/our-work/the-projects?filter=fragile-states"
-- title: "**News:** Recent Fragile States News"
-  link: "/news/view-more-news?filter=fragile-states"
+- title: ADAPTATION AND LEARNING DURING COVID-19
+  link: "/uploads/DAI%20-adaptation%20and%20learning%20during%20COVID-19.pdf"
 - title: "**Report:** Youth and Violent Extremism in Mindanao, Philippines: A mixed-methods
     design for testing assumptions about drivers of extremism "
   link: "/uploads/Youth%20and%20Violent%20Extremism%20in%20Mindanao,%20Philippines.pdf"
