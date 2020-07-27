@@ -1,4 +1,4 @@
----
+ ---
 title: Governance
 date: 2016-01-21 18:23:00.492000000 Z
 permalink: our-work/solutions/governance
@@ -39,3 +39,6 @@ DAI’s Governance Sector strengthens accountability and improves government per
 [Public Financial Management](/our-work/solutions/governance-solutions/public-financial-management)—We help countries improve public financial management and advance thought leadership on approaches to overcoming policy and institutional constraints to economic competitiveness, socioeconomic development, and poverty reduction.
 
 [Health Governance](/our-work/solutions/governance-solutions/health-governance)—We help countries advance health outcomes through improved accountability, resource allocation, policy development, and administration of health services.
+
+[Helping Finance Self-Reliance](/our-work/solutions/governance-solutions/helping-finance-self-reliance)—DAI advises national economic authorities to implement a holistic approach to financing their development priorities, including helping them boost domestically generated tax revenue, maximize the efficiency and transparency of public spending, and partner with the private sector to stimulate investment and inclusive growth.
+
