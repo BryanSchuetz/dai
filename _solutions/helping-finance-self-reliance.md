@@ -1,6 +1,6 @@
 ---
 title: Helping Finance Self-Reliance
-date: 2016-01-22 00:11:14.114000000 Z
+date: 2016-01-22 00:11:14 Z
 permalink: "/our-work/solutions/governance-solutions/helping-finance-self-reliance"
 solutions:
 - Governance
