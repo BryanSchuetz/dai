@@ -1,7 +1,6 @@
 ---
 title: Burma—Responsible Investment and Trade Activity (RITA)
 date: 2020-07-09 13:22:00 Z
-published: false
 summary: The Burma Responsible Investment and Trade Activity increases responsible
   trade and private sector investment by improving corporate governance, business
   transparency, and competitiveness in Myanmar.
