@@ -1,4 +1,4 @@
- ---
+---
 title: Governance
 date: 2016-01-21 18:23:00.492000000 Z
 permalink: our-work/solutions/governance
