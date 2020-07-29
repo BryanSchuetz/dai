@@ -13,7 +13,7 @@ regions: Asia and the Pacific
 country: Nepal
 ---
 
-Nepal is prone to a range of natural disasters, including floods, landslides, fires, earthquakes, and disease outbreaks. In the wake of recent tragedies in the country, including the massive 2015 Ghorka earthquake, the U.S. Agency for International Development (USAID) has established a flagship disaster preparedness and response program for Nepal.  
+Nepal is prone to a range of natural disasters, including floods, landslides, fires, earthquakes, and disease outbreaks. In the wake of recent tragedies in the country, including the massive 2015 Gorkha earthquake, the U.S. Agency for International Development (USAID) has established a flagship disaster preparedness and response program for Nepal.  
 
 Tayar—which means “prepare”—strengthens the capacity of Nepal’s disaster risk management and preparedness institutions. At the national level, the project supports national agencies, including the newly created National Disaster Management Agency (NDMA), to conduct national disaster simulations, improve disaster response technologies, and establish a National Disaster Training Academy. Locally, Tayar works with urban municipalities to develop risk-sensitive land use plans that increase disaster resilience. This local support includes technical assistance activities such as slope stabilization, [humanitarian open spaces](https://www.iom.int/news/iom-urges-kathmandu-residents-preserve-humanitarian-open-spaces), and building retrofitting to reduce disaster risk.
 
