@@ -1,7 +1,7 @@
 ---
 title: DAI’s Nigeria Country Director, Joe Abah, Joins the Nigeria Digital Identity
   for Development Project Steering Committee
-date: 2020-07-29 17:50:00 Z
+date: 2020-01-29 17:50:00 Z
 summary: The government of Nigeria has inaugurated a steering committee to drive the
   country’s  digital identity programme. President Muhammadu Buhari appointed Dr.
   Joe Abah, DAI’s Country Director for Nigeria, as a member of the committee, which
