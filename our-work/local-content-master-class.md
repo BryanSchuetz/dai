@@ -17,6 +17,21 @@ Contact: Tate Crowards, tate_crowards@dai.com, with any questions.
 
 [Read the brochure here.](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)
 
+### Online Training
+
+We are now offering tailored online training to bring you insight from our industry-leading experience working at the forefront of international development. The full-day training modules, developed from the Local Content Master Class, involve interactive workshop activities, networking opportunities, and local content skills building.
+
+Contact training@dai.com for pricing and registration.
+ 
+Upcoming Sessions:
+
+* **Module 1:** Local Content Strategy and Policy Training–September 8 (EST) / September 22 (GMT)
+* **Module 2:** Local Content Forecasting, Plans and Procurement Tactics–September 9 (EST) / September 23 (GMT)
+* **Module 3:** Local Content Reporting, Impact Measurement, and Communications—September 10 (EST) / September 23 (GMT)
+* **Module 4:** Local Content Investments: Supplier and Workforce Development—September 11 (EST) / September 24 (GMT)
+
+[DAI E-learning Catalogue 2020](/uploads/DAIE-learningCatalogue2020.pdf).
+
 > “The Master Class has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
 <div class="form-wrapper">
