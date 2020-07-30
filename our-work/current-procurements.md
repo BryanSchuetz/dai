@@ -10,8 +10,9 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [RFP-CTJ-UZB-20-0006 Hospitality Training for key staff](/uploads/RFP-CTJ-UZB-20-0006%20-%20Hospitality%20training_Final.pdf)
+* [Amendment No 1-RFP-DAI-002_2020_Contact Tracing.pdf](/uploads/Amendment%20No%201_RFP-DAI-002_2020_Conact%20Tracing.pdf)
 * [RFP-DAI-002_2020 Contact Tracing](/uploads/RFP-DAI-002_2020%20_Contact%20Tracing.pdf)
+* [RFP-CTJ-UZB-20-0006 Hospitality Training for key staff](/uploads/RFP-CTJ-UZB-20-0006%20-%20Hospitality%20training_Final.pdf)
 * [RFP-DAI-IGPA-BAG-20-017 Mega Water Plants Rehabilitation Assessment & SoPs for Ministry of Water and Resources – Basrah Assistance Package](/uploads/RFP-DAI-IGPA-BAG-20-017.pdf)
 * [RFP-DAI-IGPA-BAG-20-016 Iraqi Water Resources Planning Decision Support Tool](/uploads/RFP-DAI-IGPA-BAG-20-016,%20combined%20with%20Q-A.pdf)
 * [REQ-PRE-20-0011 Development of Institutional Strategy and Implementation Plan](/uploads/RFP%20No%20REQ-PRE-20-0011%20-%20Trade%20Off%20-%20Development%20of%20Institutional%20Strategy%20and%20Implementation%20Plan%20for%20TDAP_%20Revised%20due%20date.pdf)
