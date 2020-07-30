@@ -1,15 +1,21 @@
 ---
 title: Mónica Peiró Vallejo
 date: 2019-02-27 16:34:00 Z
-job-title: 'EU Technical Director, Business Development Unit '
+job-title: Director of Strategy and Innovation
 email: monica_peiro@dai.com
-summary: 'Mónica Peiró Vallejo provides technical leadership of our portfolio of European
-  Union (EU) projects and manages our relationship with the European Commission. Monica
-  is a development practitioner with more than 20 years of experience in sustainable
-  economic growth. Before joining DAI in 2018, Monica spent 17 years with the European
-  Commission at headquarters and in EU Delegations managing a wide range of institutional
-  strengthening, budget support, private sector and trade projects in Latin America,
-  Africa, Caribbean, and EU Neighbourhood countries. '
+summary: "Mónica is the Director of Strategy and Innovation in our EU Business Unit.
+  \ Based in DAI Brussels’ office, she provides strategic leadership for EU work and
+  leads our communication agenda, innovative solutions and knowledge to better serve
+  DAI EU donors.  She also coordinates the work with in-house technical teams in the
+  US, UK, Nigeria, Palestine and Pakistan. \n\nMónica is a senior development aid
+  specialist, with more than 23 years of experience in international cooperation and
+  external relations. She spent most of her professional career in the field and has
+  in-depth knowledge and experience of EU funded programmes and policies. \n\nBefore
+  joining DAI in 2018, she spent over 17 years with the European Commission, both
+  at Headquarters and in EU Delegations, managing institutional strengthening, private
+  sector, trade and financial inclusion projects as well as policy dialogue and budget
+  support interventions in Latin America, Africa, the Caribbean, and Neighbourhood
+  countries.\n"
 image: "/uploads/Monica%20Peiro.jpg"
 group: Brussels Coordinators
 sort-order: 1
