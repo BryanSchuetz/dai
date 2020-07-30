@@ -25,7 +25,7 @@ The Improving Effectiveness of State-Level Justice Institutions in Mexico (IESJI
  
 Alongside our subcontractors and partners, DAI is ensuring that IESJI works with engaged, committed local partners, adapting our assistance to their particular needs as those needs change over time. In consultation with these state-level justice actors and community stakeholders, we will define project interventions that are responsive to their level of capacity and in line with their political will so that IESJI’s activities are more likely to be viable, locally owned, and sustainable. 
 
-![mex.jpg](/uploads/mex.jpg)
+![mex-9c6557.jpg](/uploads/mex-9c6557.jpg)
 
 ### Sample Activities
 
