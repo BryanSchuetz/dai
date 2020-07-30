@@ -4,8 +4,7 @@ permalink: "/who-we-are/global-reach/european-union-office/solutions"
 summary: The European Union (EU) is the world’s largest development donor. DAI, with
   its long-term presence on the European continent and the recent acquisition of Human
   Dynamics, is a key partner in the implementation of the EU global strategy for international
-  development and cooperation. As the leading EU contractor, we seek to build synergies
-  between EU policies to the benefit of partner countries.
+  development and cooperation.
 hero: true
 regions: Eastern Europe and Central Asia
 related: true
@@ -60,7 +59,7 @@ We help communities, nations, and regions address food insecurity by championing
  
 **Trade and Private Sector Engagement**
 
-DAI works in line with the External Investment Plan for private sector engagement and investment and has an inclusive approach to development, working with donors, businesses, and governments. 
+DAI works in line with the External Investment Plan for private sector engagement and investment and has an inclusive approach to development, working with donors, businesses, investors, and governments. 
 Our company has a longstanding commitment to responsible and sustainable business and is a signatory of the UN Global Compact. Dedicated teams and business units support private sector engagement and investment in EU partner countries. 
 
 <a href="/our-work/solutions/economic-growth" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
@@ -105,7 +104,7 @@ DAI delivers holistic, tech-enabled solutions to save lives and improve well-bei
   <p><strong>Sustainable Energy and Transport</strong></p>
   
   <p>Effective and renewable energy systems and sustainable infrastructure are essential for economic growth and rising
-    standards of living. DAI works to enable the delivery of energy policies and their effective implementation at
+    standards of living. DAI works to enable the delivery of sustainable energy policies and their effective implementation at
     international, national, and local levels.</p>
   
   <p><a href="/our-work/solutions/environment" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"> <use xlink:href="#redirect"></use></svg></a></p>
@@ -127,6 +126,6 @@ DAI’s work is in line with the European Consensus for Development and the EU�
  
 **Digital for Development**
 
-DAI’s Center for Digital Acceleration (CDA) is driving positive change across emerging markets through the design and deployment of innovative, user-centered digital tools. Since 2000, DAI’s digital team has worked in 70 countries, providing advisory services, product development, insights, and research to public and private sector clients including DEVCO, GIZ, the U.K Department for International Development (DFID), the U.S. Agency for International Development (USAID), and GSMA.  
+DAI’s Center for Digital Acceleration (CDA) is driving positive change across emerging markets through the design and deployment of innovative, user-centered digital tools. Since 2000, DAI’s digital team has worked in 70 countries, providing advisory services, product development, insights, and research to public and private sector clients including DEVCO, NEAR, GIZ, the U.K Department for International Development (DFID), the U.S. Agency for International Development (USAID), and GSMA.  
  
 <a href="/our-work/solutions/digital-acceleration" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>

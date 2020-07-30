@@ -5,8 +5,7 @@ layout: node
 summary: The European Union (EU) is the world’s largest development donor. DAI, with
   its long-term presence on the European continent and the recent acquisition of Human
   Dynamics, is a key partner in the implementation of the EU global strategy for international
-  development and cooperation. As the leading EU contractor, we seek to build synergies
-  between EU policies to the benefit of partner countries.
+  development and cooperation.
 hero: true
 ---
 
