@@ -1,7 +1,5 @@
 ---
 title: Hipolit Gabalda
-group: Europe
-image: "/uploads/europe-hipolit.jpg"
 job-title: Director of Business Development
 summary: "Hipolit Gabalda has more than 30 years of professional experience providing
   support to the public and private sector. Hipolit has extensive and in-depth understanding
@@ -16,15 +14,9 @@ summary: "Hipolit Gabalda has more than 30 years of professional experience prov
   competitiveness and access to finance, then evolved into the identification of societal
   challenges and designing solutions to strengthen public sector delivery ecosystems.
   His experience in the public sector ranges from financial sector development to
-  climate change.\n\nHe began his international development career in 1999 as a financial
-  analyst, analysing venture capital investments in a €400 million facility to support
-  joint ventures between businesses in the EU and Latin America, Asia, the Mediterranean,
-  and South Africa. His first assignment overseas was in Mali, where he worked to
-  improve the business-enabling environment. In 2002, he become associate director
-  at IMC (formerly WYG). Since then, he has been leading teams within European-leading
-  companies in international cooperation and global development.\n\n•\tMaster’s in
-  economics, University of Barcelona\n•\tDiploma in business administration, University
-  of Barcelona  \n"
+  climate change.\n"
+image: "/uploads/europe-hipolit.jpg"
+group: Europe
 sort-order: 3
 ---
 
