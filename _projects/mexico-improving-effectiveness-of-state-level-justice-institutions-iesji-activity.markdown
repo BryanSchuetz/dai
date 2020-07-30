@@ -31,3 +31,4 @@ Alongside our subcontractors and partners, DAI is ensuring that IESJI works with
 * Engage private sector organizations to identify problems and results together with justice system stakeholders and promote strengthened mechanisms for inter-institutional collaboration.
 * Utilize grant mechanisms to co-finance justice sector solutions.
 * Strengthen internal processes and management of attorneys general offices and courts.
+* Support prosecutors to utilize tools for information management and sharing. 
