@@ -23,6 +23,8 @@ With about 50 participants in attendance, the panel addressed questions around w
 
 Florey and Irby described the problem of “wanels” and “manels,” for example, the phenomenon whereby panels at conferences and industry events tend to be populated by white people, particularly men. Florey said more male leaders need to step aside and propose women or people of color to represent their organizations. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvSiwa3LKJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 When it comes to rising in those organizations, YPN Workgroup Co-Chair [Jamila White](https://www.linkedin.com/in/jamilawhitedc/), Senior Africa Representative, Mercy Corps, said she often advises young people of color to consider that the [development professional of the future](https://www.devex.com/news/what-it-will-take-to-be-a-next-generation-development-professional-92764) will specialize in tech, big data, and monitoring and evaluation. 
 
 All panelists agreed that pandemic conditions may actually be favoring inclusivity in some ways. “Webinars are allowing for more people to engage,” said Jhpiego’s Irby. “We are also relying more on our counterparts in-country, which empowers them.”
