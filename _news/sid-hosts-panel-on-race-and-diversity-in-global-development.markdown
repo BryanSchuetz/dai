@@ -30,3 +30,11 @@ All panelists agreed that pandemic conditions may actually be favoring inclusivi
 Regarding some inherently biased tech terminology, such as [master/slave databases](https://en.wikipedia.org/wiki/Master/slave_%28technology%29), panelists agreed that while it should be changed, forcing it was unwise. VIA’s Street said: “We can’t dictate people’s morality. We can nudge and lead, but we can’t force it.”
 
 “My generation is demanding accountability and action from leadership,” said Bowen, the panel’s youngest participant. “Companies are under more pressure to reflect on hiring practices and other areas of discrimination. I have hope on this—we will see more diversity in leadership and ensure that more voices are being heard.”
+
+**Further Resources:**
+
+* "[Race After Technology](https://www.ruhabenjamin.com/race-after-technology)," by Ruha Benjamin
+* "[Algorithms of Oppression](https://en.wikipedia.org/wiki/Algorithms_of_Oppression)," by Safiya Umoja Noble
+* “[How to banish manels and manferences from scientific meetings](https://www.nature.com/articles/d41586-019-02658-6),” by Holly Else, *Nature*
+* "[Opinion: Let’s have an uncomfortable conversation](https://www-devex-com.cdn.ampproject.org/c/s/www.devex.com/news/opinion-let-s-have-an-uncomfortable-conversation-97810/amp),” by Paul Weisenfeld,  July 29, 2020, *Devex*
+* "[Beyond lip service: Tackling racism in your development organization](https://www.thenewhumanitarian.org/opinion/2020/06/17/diversity-inclusion-aid-agency-reform-black-lives-matter)," by Lauren Reese, *The New Humanitarian*
