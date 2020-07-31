@@ -27,6 +27,6 @@ When it comes to rising in those organizations, YPN Workgroup Co-Chair [Jamila W
 
 All panelists agreed that pandemic conditions may actually be favoring inclusivity in some ways. “Webinars are allowing for more people to engage,” said Jhpiego’s Irby. “We are also relying more on our counterparts in-country, which empowers them.”
 
-Regarding some inherently biased tech terminology, such as [master/slave databases](https://en.wikipedia.org/wiki/Master/slave_(technology)), panelists agreed that while it should be changed, forcing it was unwise. VIA’s Street said: “We can’t dictate people’s morality. We can nudge and lead, but we can’t force it.”
+Regarding some inherently biased tech terminology, such as [master/slave databases](https://en.wikipedia.org/wiki/Master/slave_%28technology%29), panelists agreed that while it should be changed, forcing it was unwise. VIA’s Street said: “We can’t dictate people’s morality. We can nudge and lead, but we can’t force it.”
 
 “My generation is demanding accountability and action from leadership,” said Bowen, the panel’s youngest participant. “Companies are under more pressure to reflect on hiring practices and other areas of discrimination. I have hope on this—we will see more diversity in leadership and ensure that more voices are being heard.”
