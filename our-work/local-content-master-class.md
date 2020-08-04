@@ -27,8 +27,8 @@ Upcoming Sessions:
 
 * **Module 1:** Local Content Strategy and Policy Training–September 8 (EST) / September 22 (GMT)
 * **Module 2:** Local Content Forecasting, Plans and Procurement Tactics–September 9 (EST) / September 23 (GMT)
-* **Module 3:** Local Content Reporting, Impact Measurement, and Communications—September 10 (EST) / September 23 (GMT)
-* **Module 4:** Local Content Investments: Supplier and Workforce Development—September 11 (EST) / September 24 (GMT)
+* **Module 3:** Local Content Reporting, Impact Measurement, and Communications—September 10 (EST) / September 24 (GMT)
+* **Module 4:** Local Content Investments: Supplier and Workforce Development—September 11 (EST) / September 25 (GMT)
 
 View the [DAI E-learning Catalogue 2020](/uploads/DAIE-learningCatalogue2020.pdf) here.
 
