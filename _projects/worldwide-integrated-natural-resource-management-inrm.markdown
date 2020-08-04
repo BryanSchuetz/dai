@@ -11,6 +11,7 @@ solutions:
 - Environment
 - Natural Resource Management
 regions: Worldwide
+country: Worldwide
 ---
 
 Coordinating and integrating biodiversity conservation with other development efforts, where appropriate, can provide a powerful opportunity to address the multifaceted challenges people face to add value and produce longer-lasting development outcomes. 
