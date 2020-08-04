@@ -9,17 +9,13 @@ layout: default
 
 # Local Content Master Class
 
-The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. 
-
-Upcoming Master Class: Postponed, New 2020 Date TBD, Houston, Texas, USA
-
-Contact: Tate Crowards, tate_crowards@dai.com, with any questions.
-
-[Read the brochure here.](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)
-
+The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
+ 
+In light of current circumstances, DAI will not be holding in-person Master Class courses this year, however, we are offering four full-day online Local Content modules derived from the Master Class.
+ 
 ### Online Training
 
-We are now offering tailored online training to bring you insight from our industry-leading experience working at the forefront of international development. The full-day training modules, developed from the Local Content Master Class, involve interactive workshop activities, networking opportunities, and local content skills building.
+Our tailored online training brings you insight from our expert trainers working at the forefront of international development and local content policy. The full-day training modules involve interactive workshop activities, networking opportunities, and local content skills building.
 
 Contact training@dai.com for pricing and registration.
  
