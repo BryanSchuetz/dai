@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Integrated Natural Resource Management (INRM) activity
 date: 2020-08-03 17:10:00 Z
-published: false
 summary: The Integrated Natural Resource Management (INRM) program is designed to
   drive the uptake and operationalization of the U.S. Agency for International Development’s
   new Environment and Natural Resource Management Framework.
@@ -31,4 +30,6 @@ Partner subcontractors include Social Impact, New America, The Center for Biodiv
 ### Sample Activities
 
 * Assist Missions with analysis and development of an evidence base to support integrated ENRM programming.
-* 
+* Provide Missions with direct and indirect support in integrated program design, the adaptive management of those programs, and the optimization of cross-sectoral programming to meet the mandates of the Journey to Self-Reliance, the New Partnerships Initiative, and the Private Sector Engagement Policy. 
+* Help USAID identify new ideas and opportunities to pilot approaches in ways that allow for continuous learning and build the capacity of USAID to test innovation. 
+* Develop an ENRM Advisors Program to drive ownership and enthusiasm of the Framework across USAID missions. 
