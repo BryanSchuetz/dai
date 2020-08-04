@@ -25,3 +25,8 @@ We will provide USAID with on-demand technical assistance, facilitation, adaptiv
 * Supporting communications and knowledge management initiatives for integrated programming.
  
 Partner subcontractors include Social Impact, New America, The Center for Biodiversity and Conservation at the American Museum of Natural History, the University of Rhode Island Coastal Resource Centre, Resource Equity, Conservation Strategy Fund, and Stantec.
+
+![aerial helka in circle - edited.jpg](/uploads/aerial%20helka%20in%20circle%20-%20edited.jpg)
+
+### Sample Activities
+
