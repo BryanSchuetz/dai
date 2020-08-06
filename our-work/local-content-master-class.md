@@ -9,17 +9,13 @@ layout: default
 
 # Local Content Master Class
 
-The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. 
-
-Upcoming Master Class: Postponed, New 2020 Date TBD, Houston, Texas, USA
-
-Contact: Tate Crowards, tate_crowards@dai.com, with any questions.
-
-[Read the brochure here.](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)
-
+The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
+ 
+In light of current circumstances, DAI will not be holding in-person Master Class courses this year, however, we are offering four full-day online Local Content modules derived from the Master Class.
+ 
 ### Online Training
 
-We are now offering tailored online training to bring you insight from our industry-leading experience working at the forefront of international development. The full-day training modules, developed from the Local Content Master Class, involve interactive workshop activities, networking opportunities, and local content skills building.
+Our tailored online training brings you insight from our expert trainers working at the forefront of international development and local content policy. The full-day training modules involve interactive workshop activities, networking opportunities, and local content skills building.
 
 Contact training@dai.com for pricing and registration.
  
@@ -27,8 +23,8 @@ Upcoming Sessions:
 
 * **Module 1:** Local Content Strategy and Policy Training–September 8 (EST) / September 22 (GMT)
 * **Module 2:** Local Content Forecasting, Plans and Procurement Tactics–September 9 (EST) / September 23 (GMT)
-* **Module 3:** Local Content Reporting, Impact Measurement, and Communications—September 10 (EST) / September 23 (GMT)
-* **Module 4:** Local Content Investments: Supplier and Workforce Development—September 11 (EST) / September 24 (GMT)
+* **Module 3:** Local Content Reporting, Impact Measurement, and Communications—September 10 (EST) / September 24 (GMT)
+* **Module 4:** Local Content Investments: Supplier and Workforce Development—September 11 (EST) / September 25 (GMT)
 
 View the [DAI E-learning Catalogue 2020](/uploads/DAIE-learningCatalogue2020.pdf) here.
 

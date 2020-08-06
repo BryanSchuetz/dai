@@ -1,7 +1,6 @@
 ---
 title: Lebanon—Trade and Investment Facilitation (TIF) Activity
 date: 2020-07-01 09:15:00 Z
-published: false
 summary: The Trade and Investment Facilitation Activity works to boost the exports
   of Lebanese goods and services, facilitate investment in Lebanese enterprises, and
   improve the business and investment enabling environment in Lebanon.

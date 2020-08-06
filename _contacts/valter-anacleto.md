@@ -9,7 +9,7 @@ summary: Valter Anacleto is the Director of Innovation and Knowledge for DAI’s
   and national and regional entity capacity building—including in Angola, Jamaica,
   Portugal, Sierra Leone, and Timor-Leste. Valter has worked for EuropeAid, USAID,
   The World Bank, the Australian Department of Foreign Affairs and Trade, and the
-  Government of Portugal, in addition to various NGO and international law firms.
+  Government of Portugal.
 image: "/uploads/europe-avacleto.jpg"
 group: Europe
 sort-order: 7

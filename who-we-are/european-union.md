@@ -9,10 +9,10 @@ hero: true
 regions: Eastern Europe and Central Asia
 related: true
 country-page: true
-layout: node
 redirect_from:
 - "/who-we-are/global-reach/brussels"
 - who-we-are/global-reach/europe
+layout: node
 ---
 
 DAI has long had a presence in continental Europe. With the [acquisition](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) of the distinguished European development consultancy [Human Dynamics](https://www.humandynamics.org/) in 2019, we achieved the scale and technical breadth that enables us to offer richer services and better value to our customers in the EU. We are now the largest single provider of development services to the European Commission.
@@ -21,7 +21,7 @@ From corporate locations in Ankara (Turkey), Belgrade (Serbia), Brussels (Belgiu
 
 ![Dai and Europe Map](/uploads/europe-map.png)
 
-Our EU Business Unit covers the whole spectrum of DAI operations, from project delivery, framework contract implementation, and global facilities management to business development, communications, and knowledge management. The EU team is seamlessly integrated into DAI’s global organisation, tapping the full range of technical specialists and support staff from our U.S., U.K., Nigeria, Pakistan, Palestine, and other locations. 
+Our EU Business Unit covers the whole spectrum of DAI operations, from project delivery, framework contract implementation, and global facilities management to business development, communications, and knowledge management. The EU team is seamlessly integrated into DAI’s global organisation, tapping the full range of technical specialists and support staff from our United States, United Kingdom, Nigeria, Pakistan, Palestine, and other locations. 
 
 This team orchestrates a network of some 800 in-house and external experts currently engaged on short- and long-term assignments encompassing all EU technical areas, including governance and public administration reforms, sustainable economic growth and agriculture, resilience, conflict and security, gender and social inclusion, climate change and green growth, digitalisation, global health, education, and social protection.
 
