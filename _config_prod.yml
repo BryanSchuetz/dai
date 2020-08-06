@@ -173,7 +173,7 @@ algolia:
   application_id: R7MRY12BR6
   index_name: dai
   files_to_exclude:
-    - solutions/helping-finance-self-reliance.md
+    - our-work/helping-finance-self-reliance.md
     - view-more-articles.md
     - view-more-news.md
     - our-work/projects.md
