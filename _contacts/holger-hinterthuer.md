@@ -9,7 +9,7 @@ summary: Holger Hinterthuer has 20 years of experience in the acquisition and de
   Dynamics (now DAI) in 2014, for which he worked in senior management positions both
   in business development and project delivery. His technical focus is private sector
   development, agriculture, and rural, local, and infrastructure development.
-image: "/uploads/europe-hinterthuer.jpg"
+image: "/uploads/Holger%20Hinterthuer2.jpg"
 group: Europe
 sort-order: 8
 ---
