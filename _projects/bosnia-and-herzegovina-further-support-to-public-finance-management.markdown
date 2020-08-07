@@ -1,7 +1,6 @@
 ---
 title: Bosnia and Herzegovina—Further Support to Public Finance Management
 date: 2020-08-07 09:27:00 Z
-published: false
 summary: This project enables authorities in Bosnia and Herzegovina to improve its
   public finance management by increasing expenditure effectiveness and the budget
   planning process.
