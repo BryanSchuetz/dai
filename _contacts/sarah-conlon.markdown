@@ -9,7 +9,7 @@ summary: 'Sarah Conlon is the Director of DAI’s European Commission Framework 
   Europe for the EC, DFID, EBRD, and other clients. Sarah’s background is in accountancy,
   having trained early on in her career with EY, and she joined DAI’s finance team
   in 2015, where she managed the Project Finance team for four years.  '
-image: "/uploads/sarah.jpg"
+image: "/uploads/sarah-1a2a23.jpg"
 group: Europe
 sort-order: 4
 ---
