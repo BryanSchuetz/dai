@@ -1,6 +1,7 @@
 ---
 title: Asha Harrison
 date: 2018-02-27 18:20:00 Z
+published: false
 lastname: 'Harrison '
 summary: Asha Harrison is a project manager with experience bringing innovative project
   design and management approaches to conflict, transitional, and stabilization contexts.
