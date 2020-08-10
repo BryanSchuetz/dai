@@ -15,8 +15,6 @@ country: Colombia
 
 The Partners for Transparency (PfT) program supports locally driven solutions that increase transparency and accountability and reduce corruption in Colombia. This activity strengthens citizen-responsive governance and increases citizen trust by leveraging targeted stakeholders’ expertise, engagement, and unique positions of influence.
 
-
-
 ### Sample Activities
  
 * Advance national-level government transparency and accountability initiatives.
