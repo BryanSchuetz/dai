@@ -1,5 +1,5 @@
 ---
-title: Colombia—Partners for Transparency
+title: Colombia—Partners for Transparency (PfT)
 date: 2020-08-10 10:28:00 Z
 published: false
 summary: The Partners for Transparency program supports locally driven solutions that
@@ -13,7 +13,7 @@ regions: Latin America and the Caribbean
 country: Colombia
 ---
 
-The Partners for Transparency program supports locally driven solutions that increase transparency and accountability and reduce corruption in Colombia. This activity strengthens citizen-responsive governance and increases citizen trust by leveraging targeted stakeholders’ expertise, engagement, and unique positions of influence.
+The Partners for Transparency (PfT) program supports locally driven solutions that increase transparency and accountability and reduce corruption in Colombia. This activity strengthens citizen-responsive governance and increases citizen trust by leveraging targeted stakeholders’ expertise, engagement, and unique positions of influence.
 
 
 
