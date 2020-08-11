@@ -6,7 +6,7 @@ summary: Sarah Maguire is the Director of the Governance team at DAI Europe. Sar
   practiced at the Bar of England and Wales in criminal defence, immigration, asylum,
   and family law before joining the U.K. Department for International Development
   as Senior Human Rights Adviser.
-job-title: Director, Technical Services, Governance
+job-title: Global Director of Safeguarding
 image: "/uploads/new%20Sarah%20Maguire.jpg"
 solutions:
 - Gender and Social Inclusion
