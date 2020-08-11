@@ -2,6 +2,8 @@
 title: DAI Staff in the U.S. Office Raise More Than $23,000 for Local Charities
 date: 2020-08-10 15:13:00 Z
 published: false
+tags:
+- COVID-19
 summary: 'DAI staff in the U.S office have raised more than $23,000 for 15 local charities
   and businesses suffering from the effects of the COVID-19 pandemic. '
 ---
