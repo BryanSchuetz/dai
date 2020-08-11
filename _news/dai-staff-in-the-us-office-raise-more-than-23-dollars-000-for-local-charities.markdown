@@ -12,6 +12,8 @@ Heading up that meeting was [Tine Knott](https://www.dai.com/who-we-are/our-team
 
 Just one month later, more than $23,000 has been raised for 15 local charities and businesses, over and above the original $1,500. 
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.10158608682495797%26type%3D3&width=500" width="500" height="669" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 Each of 10 teams was given $150 and asked to at least double that money—preferably more—and use the funds generated to support a Washington, D.C.-area charity or business that is suffering due to the pandemic. The idea had to be implementable by the team within two weeks, and the winner would be the team that leveraged its seed capital the most. 
 
 Some of the creative fundraising events included online cooking classes; sales of succulent plants; sponsored bike rides; donations to a bail revolving fund; refurbishing and donating bicycles to people in need; distributing vegetable seed packets; and purchasing and delivering face masks.
