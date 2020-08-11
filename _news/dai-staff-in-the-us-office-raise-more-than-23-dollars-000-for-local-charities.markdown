@@ -5,6 +5,7 @@ tags:
 - COVID-19
 summary: 'DAI staff in the U.S office have raised more than $23,000 for 15 local charities
   and businesses suffering from the effects of the COVID-19 pandemic. '
+social-image: "/uploads/Picture1.png"
 ---
 
 It started with a question during a virtual meeting from DAI Finance staffer [Ina Nasution](https://www.dai.com/news/two-dai-employees-named-2017-gunning-award-winners-for-their-community-service): “What are we doing to help our local community get though the pandemic?” That was in April, in the early days of the lockdown, when DAI’s Bethesda, Md., office had been closed for nearly a month in response to COVID-19. 
@@ -13,7 +14,7 @@ Heading up that meeting was [Tine Knott](https://www.dai.com/who-we-are/our-team
 
 Just one month later, more than $23,000 has been raised for 15 local charities and businesses, over and above the original $1,500. 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.10158608682495797%26type%3D3&width=500" width="500" height="669" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+![Untitled-1.jpg](/uploads/Untitled-1.jpg)
 
 Each of 10 teams was given $150 and asked to at least double that money—preferably more—and use the funds generated to support a Washington, D.C.-area charity or business that is suffering due to the pandemic. The idea had to be implementable by the team within two weeks, and the winner would be the team that leveraged its seed capital the most. 
 
