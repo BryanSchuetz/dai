@@ -16,6 +16,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Sierra Leone
+promos:
+- title: 'In Sierra Leone: Enhancing Traditional Law and Justice Services'
+  link: https://dai-global-developments.com/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people
 layout: project
 ---
 
