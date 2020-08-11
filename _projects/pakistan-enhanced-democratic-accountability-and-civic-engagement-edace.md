@@ -28,6 +28,8 @@ The Enhanced Democratic Accountability and Civic Engagement (EDACE) programme ma
 
 EDACE worked with the [AAWAZ project][1] in Pakistan, which also worked to raise citizens' awareness and participation. EDACE  strengthened constructive citizen-state relations by empowering citizens to know and exercise their rights through democratic processes and fostering state capacity to use democratic processes to respond to citizens' priorities in a timely, transparent, and accountable manner.
 
+![001.jpg](/uploads/001.jpg)
+
 ### Sample Activities
 
 * Encourage collaborative public-private partnerships to improve education services in marginalized and underserved communities.
