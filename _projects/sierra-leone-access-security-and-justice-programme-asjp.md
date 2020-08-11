@@ -31,12 +31,15 @@ Security and justice are essential to countries in sub-Saharan Africa. They crea
 * Support cross-sector coordination, monitoring, and evaluation of justice sector institutions and stakeholders.
 * Assist justice and security sector ministries in developing strategic policy making and service provision.
 * Strengthen family support units in local police stations to deal more effectively with sexual- and gender-based violence.
-* [Strengthen security and justice provision][3] at the community level.
-* Support the Sierra Leonean police to ensure effective security management arrangements are in place for the 2012 elections.
-* Improve case management and reduce case backlog.
-* Streamline management of prisons, linking safety, security, and justice service delivery mechanisms, particularly reducing backlog due to the increasing number of remand prisoners.
-* Support the government of Sierra Leone strategy for national provision of accessible legal aid, paralegal services, and mediator dispute resolution.
-* Develop systems to improve effectiveness, efficiency, accountability, and oversight across the justice and security sector.
+
+### Select Results
+
+* [Strengthened security and justice provision][3] at the community level.
+* Supported the Sierra Leonean police to ensure effective security management arrangements are in place for the 2012 elections.
+* Improved case management and reduced case backlog.
+* Streamlined management of prisons, linking safety, security, and justice service delivery mechanisms, particularly reduced backlog due to the increasing number of remand prisoners.
+* Supported the government of Sierra Leone strategy for national provision of accessible legal aid, paralegal services, and mediator dispute resolution.
+* Developed systems to improve effectiveness, efficiency, accountability, and oversight across the justice and security sector.
 
 [1]: http://dai-global-developments.com/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people?utm_source=daidotcom
 [2]: https://assetify-dai.com/projects/SecurityJustice.jpg
