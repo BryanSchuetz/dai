@@ -9,6 +9,8 @@ end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Governance
+- Public Administration, Civil Service Reform, and Human Resources Management
+- Decentralization and Local Government Management
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
