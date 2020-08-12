@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Nigeria State Accountability, Transparency, and Effectiveness (State2State)
+title: Nigeria—State Accountability, Transparency, and Effectiveness (State2State)
   Activity
 date: 2020-08-11 10:43:00 Z
 summary: The Nigeria State Accountability, Transparency, and Effectiveness (State2State)
