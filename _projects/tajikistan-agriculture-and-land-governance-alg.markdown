@@ -28,5 +28,8 @@ ALG assists the Government of Tajikistan to sustainably reduce hunger, undernutr
 ### Sample Activities
 
 * Design an Inclusive Partnership Facility to provide competitive performance-based grants, subcontracts, and technical assistance. 
-* 
+* Increase productivity, post-harvest handling, and storage, and expand access to markets of existing and newly organized value chains.
+* Increase availability and consumption of diverse and nutritious foods.
+* Improve adaptation to and recovery from shocks and stresses through diversification of livelihoods.
+* Support extension services that address natural resource constraints.  
  
