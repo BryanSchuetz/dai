@@ -2,7 +2,6 @@
 title: Nigeria—Nigeria State Accountability, Transparency, and Effectiveness (State2State)
   Activity
 date: 2020-08-11 10:43:00 Z
-published: false
 summary: The Nigeria State Accountability, Transparency, and Effectiveness (State2State)
   Activity supports strengthened governance structures in six states.
 start: 2020
@@ -26,4 +25,5 @@ We partner with key Nigerian organizations to capture, document, and share best 
 
 * Harness the rapid expansion of technology to foster networks and connectivity, improve access to government services, and enhance administrative systems. 
 * Cultivate a culture of learning across our networked staffing structure and use tested monitoring and evaluation tools—political economy analysis and thinking and working politically to track political will, and capacity assessments—to inform implementation.
-* 
+* Strengthen the governance structures and capacity necessary to improve service delivery performance.
+* Strengthen partnerships among independent state bureaus of procurement or due process offices, agencies, state ministries of finance, SHoAs, auditors, civil society actors, and the private sector.  
