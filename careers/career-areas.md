@@ -18,7 +18,7 @@ hero-package: career-areas
 </div>
 <div class="content--box">
 <p> Our technical teams reach across disciplines to shape integrated solutions to the most challenging issues in global development. We seek corporate office-based technical experts to serve as thought leaders, enhancing DAI’s leadership in the technical sectors in which we work, as well as technical advisors to design, support, and implement activities in both long-term and short-term assignments on projects in the field. </p>
-<a href="search.html?functional_area=Technical" class="btn btn-primary">
+<a href="search.html?functional_area=Technical%2FConsulting" class="btn btn-primary">
     View Opportunities For <br class="visible-xs">This Position Area
     <img class="icon" src="/careers/assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
 </a>
