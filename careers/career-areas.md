@@ -40,7 +40,7 @@ hero-package: career-areas
 </div>
 <div class="content--box">
 <p> Our projects span the full spectrum of development disciplines, including crisis mitigation and stability, governance and public sector management, agriculture and agribusiness, private sector development and financial services, economics and trade, women’s economic empowerment, public health, water and natural resources management, and energy and climate change. </p>
-<a href="search.html?functional_area=Project+Management" class="btn btn-primary">
+<a href="search.html?functional_area=Project" class="btn btn-primary">
     View Opportunities For <br class="visible-xs">This Position Area
     <img class="icon" src="/careers/assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
 </a>
@@ -84,7 +84,7 @@ hero-package: career-areas
 </div>
 <div class="content--box">
 <p> In our offices in the United States and in Europe, our corporate staff in finance, IT, communications, legal, human resources, administration, and security positions work closely and collaboratively with our technical, project, and field staff in support of DAI’s global efforts to shape a more livable world. </p>
-<a href="search.html?functional_area=Corporate+Services" class="btn btn-primary">
+<a href="search.html?functional_area=Corporate" class="btn btn-primary">
     View Opportunities For <br class="visible-xs">This Position Area
     <img class="icon" src="/careers/assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
 </a>
