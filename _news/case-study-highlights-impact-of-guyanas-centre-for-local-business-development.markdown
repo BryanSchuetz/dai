@@ -2,6 +2,16 @@
 title: Case Study Highlights Impact of Guyana’s Centre for Local Business Development
 date: 2020-08-14 20:16:00 Z
 published: false
+solutions:
+- Sustainable Business
+regions: Latin America and the Caribbean
+projects: Guyana—Centre for Local Business Development
+summary: 'A new case study, presented at last month’s Society of Petroleum Engineers’
+  virtual International Conference on Health, Safety, Environment, and Sustainability,
+  outlines the strategies that helped the Centre for Local Business Development support
+  economic inclusion in Guyana. '
+social-image: "/uploads/44929544_483475548724886_388141185291517952_o.jpg"
+country: Guyana
 ---
 
 The [Centre for Local Business Development](https://centreguyana.com/), launched by ExxonMobil and managed by [DAI](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), has assisted Guyanese businesses to benefit from the country’s newly developed oil and gas resources since 2017. A new [case study](https://www.onepetro.org/conference-paper/SPE-199517-MS), presented at last month’s Society of Petroleum Engineers’ virtual International Conference on Health, Safety, Environment, and Sustainability, outlines the strategies behind the Centre’s success supporting economic inclusion in Guyana. 
