@@ -10,7 +10,7 @@ Authors Treacy Roberts (Esso Exploration and Production Guyana Limited) and [Pat
 
 “The Centre for Local Business Development is working to ensure that Guyanese firms and its economy broadly can grow along with the country’s oil and gas sector,” says Henry, Senior Director of Supplier Development for DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business). “We hope the lessons shared in this case study can inform other projects seeking to implement sustainable local content strategies that deliver real development impact.” 
 
-The 2015 discovery of offshore oil and gas reserves had the potential to transform the country and its economy, but most Guyanese companies had limited exposure to international standards for business processes, quality assurance, and safety culture. ExxonMobil partnered with DAI to establish the Centre to spur development of small and medium-sized enterprises and drive inclusive economic growth in Guyana.
+The 2015 discovery of offshore oil and gas reserves had the potential to transform the country and its economy, but most Guyanese companies had limited exposure to international standards for business processes, quality assurance, and safety culture. ExxonMobil [partnered with DAI](https://www.dai.com/news/dai-to-collaborate-with-exxonmobil-on-centre-for-local-business-development-in-guyana) to establish the Centre to spur development of small and medium-sized enterprises and drive inclusive economic growth in Guyana.
 
 DAI manages the Centre—located in Georgetown, Guyana—and focuses on three areas: supplier engagement and registration, general business support, and supplier development. The Centre has grown to offer a supplier registration portal, business courses, computer-based training, networking and mentoring opportunities, and a health, safety, security, and environmental (HSSE) management program.
 
@@ -19,5 +19,5 @@ The case study points out that in countries like Guyana, where industrial develo
 The Centre also benefited from testing initiatives and adapting to the needs of local suppliers, operators, and primate contractors. Future programs, motivated by feedback from participants, include working with banks on access to financing and launching an accelerator program for historically disadvantaged businesses.
 
 To date, more than 600 businesses have a contract or purchase order from ExxonMobil and its prime contractors. The Centre is poised to evolve with the local economy and industry to help sustain Guyana’s economic growth. 
-The full case study is available here. 
 
+The full case study is available [here](https://www.onepetro.org/conference-paper/SPE-199517-MS). 
