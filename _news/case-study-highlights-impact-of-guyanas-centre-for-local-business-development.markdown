@@ -1,7 +1,6 @@
 ---
 title: Case Study Highlights Impact of Guyana’s Centre for Local Business Development
 date: 2020-08-14 20:16:00 Z
-published: false
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
