@@ -2,7 +2,6 @@
 title: Turkey—Technical Assistance for Strengthening Training and Research Capacity
   of the Centre for Labour and Social Training and Research (ÇASGEM)
 date: 2020-08-14 11:26:00 Z
-published: false
 summary: This project supports the Training and Research Centre for Labour and Social
   Security, medical, and rehabilitation professionals by developing new learning modules
   targeting to raise their capacity.
