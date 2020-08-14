@@ -2,6 +2,9 @@
 title: Egypt—Economic Governance Activity (EGA)
 date: 2020-08-14 15:34:00 Z
 published: false
+summary: The Egypt Economic Governance Activity (EGA) works with the Government of
+  Egypt to support the country’s investment climate by strengthening inclusive governance
+  and supporting the Government’s structural reform program.
 start: 2020
 end: 2025
 client: U.S. Agency for International Development
