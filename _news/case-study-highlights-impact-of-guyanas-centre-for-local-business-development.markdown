@@ -10,6 +10,8 @@ Authors Treacy Roberts (Esso Exploration and Production Guyana Limited) and [Pat
 
 “The Centre for Local Business Development is working to ensure that Guyanese firms and its economy broadly can grow along with the country’s oil and gas sector,” says Henry, Senior Director of Supplier Development for DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business). “We hope the lessons shared in this case study can inform other projects seeking to implement sustainable local content strategies that deliver real development impact.” 
 
+![44929544_483475548724886_388141185291517952_o.jpg](/uploads/44929544_483475548724886_388141185291517952_o.jpg)`Since 2017, the Centre has provided services such as mentoring and networking opportunities for Guyanese businesses.` 
+
 The 2015 discovery of offshore oil and gas reserves had the potential to transform the country and its economy, but most Guyanese companies had limited exposure to international standards for business processes, quality assurance, and safety culture. ExxonMobil [partnered with DAI](https://www.dai.com/news/dai-to-collaborate-with-exxonmobil-on-centre-for-local-business-development-in-guyana) to establish the Centre to spur development of small and medium-sized enterprises and drive inclusive economic growth in Guyana.
 
 DAI manages the Centre—located in Georgetown, Guyana—and focuses on three areas: supplier engagement and registration, general business support, and supplier development. The Centre has grown to offer a supplier registration portal, business courses, computer-based training, networking and mentoring opportunities, and a health, safety, security, and environmental (HSSE) management program.
