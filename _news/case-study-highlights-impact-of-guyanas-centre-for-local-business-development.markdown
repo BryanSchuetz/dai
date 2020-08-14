@@ -4,7 +4,7 @@ date: 2020-08-14 20:16:00 Z
 published: false
 ---
 
-The [Centre for Local Business Development](https://centreguyana.com/), launched by ExxonMobil and managed by DAI, has assisted Guyanese businesses to benefit from the country’s newly developed oil and gas resources since 2017. A new case study, presented at last month’s Society of Petroleum Engineers’ virtual International Conference on Health, Safety, Environment, and Sustainability, outlines the strategies behind the Centre’s success supporting economic inclusion in Guyana. 
+The [Centre for Local Business Development](https://centreguyana.com/), launched by ExxonMobil and managed by [DAI](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), has assisted Guyanese businesses to benefit from the country’s newly developed oil and gas resources since 2017. A new case study, presented at last month’s Society of Petroleum Engineers’ virtual International Conference on Health, Safety, Environment, and Sustainability, outlines the strategies behind the Centre’s success supporting economic inclusion in Guyana. 
 
 Authors Treacy Roberts (Esso Exploration and Production Guyana Limited) and Patrick Henry (DAI) discuss how collaborative, adaptive partnerships helped the Centre foster local content—the added economic and social value the oil and gas industry can bring to a host community. Early intervention in local capacity building enabled local companies in Guyana, a developing market with little business infrastructure, to enter the industry’s value chain.
 
