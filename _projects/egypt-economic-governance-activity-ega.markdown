@@ -19,7 +19,7 @@ The Government of Egypt has achieved an encouraging degree of macroeconomic stab
 
 The Egypt Economic Governance Activity (EGA) works with the Government of Egypt to support the country’s investment climate by strengthening inclusive governance and supporting the Government’s structural reform program.
  
-EGA supports Egypt’s economic and good governance reforms by:
+EGA assists with Egypt’s economic and good governance reforms by:
  
 * Supporting the reform process.
 * Building capacity in public administration, including rolling out anticorruption training across the government at all levels of the civil service.
