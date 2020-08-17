@@ -1,8 +1,7 @@
 ---
 title: Moldova—Support for Structured Policy Dialogue, Coordination of the Implementation
-  of the Association Agreement and Enhancement of the Legal Approximation Process
+  of the Association Agreement, and Enhancement of the Legal Approximation Process
 date: 2020-08-17 14:30:00 Z
-published: false
 summary: The DAI-led technical assistance project works to increase the capacity of
   the Government of the Republic of Moldova and other key national institutions in
   implementing the European Union-Republic of Moldova Association Agenda.
