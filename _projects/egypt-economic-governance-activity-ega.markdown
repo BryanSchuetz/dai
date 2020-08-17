@@ -30,5 +30,7 @@ Together, these efforts should increase participation and inclusion in Egypt’s
 ### Sample Activities
 
 * Support the government’s performance management database through the development of a data collection and verification system. 
+* Identify, develop, and implement assistance for reforms. 
+* Support government entities responsible for components of the Anti-Corruption Strategy to complete results-monitoring implementation plans.
 
 
