@@ -20,6 +20,9 @@ promos:
 - title: Transport and Logistics Partnership Enhances Food Security and Ensures Supply
     of Essential Products in Central Asia through Pandemic
   link: https://usaidcentralasia.exposure.co/delivering-essentials
+- title: 'Making their Mark on Central Asia''s Business Landscape: Three female entrepreneurs
+    from Kazakhstan, Tajikistan, and the Kyrgyz Republic share their stories'
+  link: https://usaidcentralasia.exposure.co/cawomenstory?fbclid=IwAR3o1bZFEw4mE0vpnuj1-dU2HXf-CqMSIIsrZoQ-HxkhfjvWV7ENUcEVDSk
 layout: project
 ---
 
