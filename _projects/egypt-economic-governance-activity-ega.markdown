@@ -15,6 +15,8 @@ regions: Middle East and North Africa
 country: Egypt
 ---
 
+The Government of Egypt has achieved an encouraging degree of macroeconomic stabilization in the past several years, coupled with regulatory, policy, and civil service reforms to create space for private sector growth. Yet, Egypt’s economic governance reforms must be broader and deeper if it is to achieve its development vision of improving public welfare by creating enough quality jobs to meet the massive demographic challenge it now faces. The reforms must strengthen a weak institutional framework and begin to reverse socioeconomic inequities.
+
 The Egypt Economic Governance Activity (EGA) works with the Government of Egypt to support the country’s investment climate by strengthening inclusive governance and supporting the Government’s structural reform program.
  
 EGA supports Egypt’s economic and good governance reforms by:
@@ -26,4 +28,7 @@ EGA supports Egypt’s economic and good governance reforms by:
 Together, these efforts should increase participation and inclusion in Egypt’s governance reforms, enhance the transparency and accountability of government services, improve government effectiveness, and combat corruption—all of which will boost Egypt’s attractiveness as a destination for foreign investment. DAI’s “sustainable reform” approach to EGA promotes multilevel sustainability by applying a nuanced understanding of the political economy and a management stance that supports government actors from behind the scenes.
   
 ### Sample Activities
+
+* Support the government’s performance management database through the development of a data collection and verification system. 
+
 
