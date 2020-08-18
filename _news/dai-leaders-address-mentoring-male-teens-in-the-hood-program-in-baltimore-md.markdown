@@ -2,7 +2,6 @@
 title: DAI Leaders Address “Mentoring Male Teens in the Hood” Program in Baltimore,
   Md.
 date: 2020-08-18 17:05:00 Z
-published: false
 summary: On August 15, DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard)
   joined [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah)—DAI’s Country
   Director for Nigeria—in addressing a small group of young men and their parents
