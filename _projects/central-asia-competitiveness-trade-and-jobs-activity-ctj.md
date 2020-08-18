@@ -23,6 +23,9 @@ promos:
 - title: 'Making their Mark on Central Asia''s Business Landscape: Three female entrepreneurs
     from Kazakhstan, Tajikistan, and the Kyrgyz Republic share their stories'
   link: https://usaidcentralasia.exposure.co/cawomenstory?fbclid=IwAR3o1bZFEw4mE0vpnuj1-dU2HXf-CqMSIIsrZoQ-HxkhfjvWV7ENUcEVDSk
+- title: 'Opening a Gateway to Tajik Watermelons:  Leveraging New Markets to Support
+    Smallholder Farmers in Tajikistan'
+  link: https://usaidcentralasia.exposure.co/opening-a-gateway-for-tajik-watermelons?fbclid=IwAR3Sx4h7W6G0LHJHeterz6Cp2H0nKbizcqcB3gJCw2ahvwSM80Wa0tG4f4c
 layout: project
 ---
 
