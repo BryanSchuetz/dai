@@ -25,12 +25,10 @@ Miles established MMTH in 1996 with only five boys in attendance. Today, more th
 
 Previous speakers have included the late Congressman Elijah E. Cummings, from Baltimore’s 7th District, and Marilyn Mosby, State’s Attorney for Baltimore City; previous trips have taken the boys to Morehouse and Harvard universities, the Apollo Theatre, the New York Stock Exchange, the Maryland Shock Trauma Center, CNN, and The White House.
 
-The August 15 discussion—just the second since the pandemic halted operations in March—was organized by Imhotep Simba, DAI’s Community Outreach, Engagement, & Workforce Diversity Analyst, a proud MMTH alumnus who continues to support the organization a decade after graduating from it. 
+The August 15 discussion—just the second since the pandemic halted operations in March—was organized by Imhotep Simba, DAI’s Community Outreach, Engagement, and Workforce Diversity Analyst, a proud MMTH alumnus who continues to support the organization a decade after graduating from it. 
 
 > “It’s not common for African American boys to hear from the CEO of an international development firm,” said **Simba**. “It’s not common for them to receive a Teams video call from a professional who looks like them, living and working on the continent of Africa. The beauty is that today, these young men had that opportunity despite the challenges COVID has presented, and experienced something that had never occurred in the history of the program: interfacing with someone on another continent. I’m almost certain that experience planted a seed that will come up over dinner, on social media, the block, or maybe in an academic setting.” 
 
 “Having the opportunity to hear from someone in another country was awesome,” agreed Miles.
 
 For Boomgard, the session was a welcome chance to discuss DAI’s work with teens for whom international development is unlikely to be top of mind, and to reflect on how some of the work DAI does overseas may shed light on challenges closer to home. “It was a real privilege for Joe and me to meet Cameron and the boys in this program,” he said. “The journey we have embarked on as a company is very much about learning, and I’m grateful to Cameron, Imhotep, and the MMTH family for sharing their perspectives with us.” 
-
-
