@@ -15,7 +15,7 @@ On August 15, DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-ar
 
 <!--more-->
 
-Boomgard and Abah—the latter joining virtually from Abuja, Nigeria—spoke mostly about the work DAI does in the international development arena, in Africa and elsewhere. But they also touched on the company’s recent commitment to take a more actively anti-racist stance through its Racial and Social Justice Initiative.
+Boomgard and Abah—the latter joining virtually from Abuja, Nigeria—spoke mostly about the work DAI does in the international development arena, in Africa and elsewhere. But they also touched on the company’s recent commitment to take a more actively [anti-racist stance](https://www.dai.com/news/an-anti-racist-company-ceo-jim-boomgard-lays-out-vision-for-dais-racial-and-social-justice-initiative) through its Racial and Social Justice Initiative.
 
 ![Boomgard](/uploads/Screen%20Shot%202020-08-18%20at%208.35.24%20AM.png)`Jim Boomgard, speaking in Baltimore, Md.`
 
