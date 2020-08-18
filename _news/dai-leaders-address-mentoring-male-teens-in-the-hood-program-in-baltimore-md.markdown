@@ -19,12 +19,11 @@ Boomgard and Abah—the latter joining virtually from Abuja, Nigeria—spoke mos
 
 ![Boomgard](/uploads/Screen%20Shot%202020-08-18%20at%208.35.24%20AM.png)`Jim Boomgard, speaking in Baltimore, Md.`
 
-“The significance of programs like these is that they bring exposure to male youth, they teach them to respect one another, they teach life skills and help them learn the importance of a firm handshake and eye contact, and they help them to meet people from all kinds of ethnicities and occupations that they would not have met otherwise,” said Cameron 
+“The significance of programs like these is that they bring exposure to male youth, they teach them to respect one another, they teach life skills and help them learn the importance of a firm handshake and eye contact, and they help them to meet people from all kinds of ethnicities and occupations that they would not have met otherwise,” said Cameron Miles, the Founder & Director of MMTH.
 
-Miles, the Founder & Director of MMTH.
 Miles established MMTH in 1996 with only five boys in attendance. Today, more than 3,000 boys have come through the program, which meets the first and third Saturday of each month. The first Saturday focuses on assisting with academic work, the third on group mentoring activities such as physical education, discussions of current events, hosting guest speakers, enrichment trips—and lunch. 
 
-Previous speakers have included the late Congressman Elijah E. Cummings, from Baltimore’s 7th District, and Marilyn Mosby, State's Attorney for Baltimore City; previous trips have taken the boys to Morehouse and Harvard universities, the Apollo Theatre, the New York Stock Exchange, the Maryland Shock Trauma Center, CNN, and The White House.
+Previous speakers have included the late Congressman Elijah E. Cummings, from Baltimore’s 7th District, and Marilyn Mosby, State’s Attorney for Baltimore City; previous trips have taken the boys to Morehouse and Harvard universities, the Apollo Theatre, the New York Stock Exchange, the Maryland Shock Trauma Center, CNN, and The White House.
 
 The August 15 discussion—just the second since the pandemic halted operations in March—was organized by Imhotep Simba, DAI’s Community Outreach, Engagement, & Workforce Diversity Analyst, a proud MMTH alumnus who continues to support the organization a decade after graduating from it. 
 
