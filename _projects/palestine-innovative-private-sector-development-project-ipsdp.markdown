@@ -1,7 +1,7 @@
 ---
-title: Palestine—Innovative Private Sector Development Project (IPSDP)
+title: Palestine—Innovative Private Sector Development (IPSD) project
 date: 2019-10-14 07:56:00 Z
-summary: The Innovative Private Sector Development Project (IPSDP) develops entrepreneurship
+summary: The Innovative Private Sector Development (IPSD) project develops entrepreneurship
   and expands economic opportunity in the Palestinian Territories.
 start: 2019
 end: 2023
@@ -14,7 +14,7 @@ regions: Middle East and North Africa
 country: Palestine
 ---
 
-The Innovative Private Sector Development Project (IPSDP) develops entrepreneurship and expands economic opportunity in the Palestinian Territories. IPSDP falls under the World Bank’s overarching objective to alleviate market failures related to gaps and binding constraints in Palestine’s digital entrepreneurship ecosystem—including those related to human capital, financing, product markets, enabling policies, institutional support, and connectivity.
+The Innovative Private Sector Development project (IPSD) develops entrepreneurship and expands economic opportunity in the Palestinian Territories. IPSD falls under the World Bank’s overarching objective to alleviate market failures related to gaps and binding constraints in Palestine’s digital entrepreneurship ecosystem—including those related to human capital, financing, product markets, enabling policies, institutional support, and connectivity.
 
 The project team works closely with the Ministry of National Economy.
 
