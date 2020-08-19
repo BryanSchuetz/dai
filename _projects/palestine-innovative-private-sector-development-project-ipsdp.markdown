@@ -14,7 +14,7 @@ regions: Middle East and North Africa
 country: Palestine
 ---
 
-The Innovative Private Sector Development project (IPSD) develops entrepreneurship and expands economic opportunity in the Palestinian Territories. IPSD falls under the World Bank’s overarching objective to alleviate market failures related to gaps and binding constraints in Palestine’s digital entrepreneurship ecosystem—including those related to human capital, financing, product markets, enabling policies, institutional support, and connectivity.
+The [Innovative Private Sector Development project](https://www.ipsd.ps/) (IPSD) develops entrepreneurship and expands economic opportunity in the Palestinian Territories. IPSD falls under the World Bank’s overarching objective to alleviate market failures related to gaps and binding constraints in Palestine’s digital entrepreneurship ecosystem—including those related to human capital, financing, product markets, enabling policies, institutional support, and connectivity.
 
 The project team works closely with the Ministry of National Economy.
 
