@@ -13,7 +13,7 @@ summary: 'Inez Couzinet has more than 20 years of experience in international de
   to ensuring technical rigour.  Inez has a solid experience managing remote teams
   implementing complex donor-funded projects in Africa, Asia, and the Middle East. '
 image: "/uploads/InezCouzinetPortal.jpg"
-group: Brussels Management
+group: Europe
 sort-order: 4
 ---
 
