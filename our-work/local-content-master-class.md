@@ -26,7 +26,7 @@ Upcoming Sessions:
 * **Module 3:** Local Content Reporting, Impact Measurement, and Communications—September 10 (EST) / September 24 (GMT)
 * **Module 4:** Local Content Investments: Supplier and Workforce Development—September 11 (EST) / September 25 (GMT)
 
-View the [DAI E-learning Catalogue 2020](/uploads/DAIE-learningCatalogue2020.pdf) here.
+View the [DAI E-training Catalogue 2020 ](/uploads/DAI_E-TrainingCatalogue_2020.pdf).
 
 > “The Master Class has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
