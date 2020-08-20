@@ -50,3 +50,6 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 * Established a Foundation Year Programme in Borno to build the academic, personal, and social capital of young rural women so they can access professional education.
 * Supported a memorandum of understanding for recruitment of graduates. 
 * Supported trauma assessment for those affected by trauma to become midwives and nurses with the World Health Organisation.
+
+*Find open and [free access to the W4H materials](https://learninghub4hrh.org/) on Human Resources for Health, hosted by the Center for Gender Studies of Bayero University in Kano.*
+ 
