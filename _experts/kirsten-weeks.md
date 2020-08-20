@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Weeks
 summary: Kirsten Weeks has more than 17 years of experience in designing, implementing,
   and managing donor-funded global health projects.
-job-title: 'Senior Director, Strategic Growth, Global Health '
+job-title: 'Vice President, Global Health '
 image: "/uploads/Kirsten-Weeks-website.jpg"
 solutions:
 - Global Health
