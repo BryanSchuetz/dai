@@ -30,11 +30,11 @@ promos:
 layout: project
 ---
 
-Nexos Locales is working with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socioeconomic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
+Nexos Locales works with 44 Feed the Future municipalities in Guatemala's Western Highlands to foster more responsive, inclusive, and effective socioeconomic development while reducing local vulnerabilities such as food insecurity and natural disasters. To achieve this goal, the project works at the intersection—or nexos—of good governance.
 
-[Nexos Locales ](http://www.nexoslocales.com/)aims to increase the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and global climate change; and improve public financial management. The team will work with the municipalities to improve basic services delivery and security plans, as well as [increase civil society participation](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) in decision-making.
+[Nexos Locales ](http://www.nexoslocales.com/) increases the capacity of municipal governments to raise revenue; respond to citizen concerns about violence and security, food insecurity, and global climate change; and improve public financial management. The team works with municipalities to improve basic services delivery and security plans, as well as [increase civil society participation](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom) in decision-making.
 
-Nexos Locales will also increase the capacity of the National Association of Municipalities and the Guatemalan Association of Indigenous Mayors and Authorities to support municipal development and replicate successful models nationwide, including municipal [crime prevention](https://medium.com/usaid-2030/providing-hope-for-a-violence-free-future-609ead1771ad) plans.
+Nexos Locales also increases the capacity of the National Association of Municipalities and the Guatemalan Association of Indigenous Mayors and Authorities to support municipal development and replicate successful models nationwide, including municipal [crime prevention](https://medium.com/usaid-2030/providing-hope-for-a-violence-free-future-609ead1771ad) plans.
 
 <iframe src="https://player.vimeo.com/video/252925588" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
