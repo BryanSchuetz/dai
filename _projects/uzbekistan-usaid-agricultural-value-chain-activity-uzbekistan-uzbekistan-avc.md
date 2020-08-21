@@ -18,6 +18,9 @@ country:
 promos:
 - title: How USAID helps exporters bring Uzbekistan’s fruits to the world
   link: https://medium.com/usaid-2030/uzbek-melons-reach-new-markets-8383480d4f2d
+- title: 'Ending the Wait for Water: USAID supports farmers to install climate-smart
+    drip irrigation systems in Uzbekistan'
+  link: https://usaidpubs.exposure.co/ending-the-wait-for-water
 layout: project
 ---
 
