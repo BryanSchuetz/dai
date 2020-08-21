@@ -5,7 +5,7 @@ summary: This program helps generate access to finance, good quality jobs, and i
   incomes for Ethiopia's poor. DAI works with consortium partners First Consult (Ethiopia),
   Itad (United Kingdom), Enclude (Netherlands), and BCaD.
 start: 2013
-end: 2020
+end: 2021
 client: U.K. Department for International Development
 solutions:
 - Economic Growth
