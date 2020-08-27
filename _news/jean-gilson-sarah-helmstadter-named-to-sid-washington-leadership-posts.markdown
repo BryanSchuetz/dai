@@ -8,11 +8,7 @@ summary: Jean Gilson has been appointed to serve as the SID-International Govern
 
 [Jean Gilson](https://www.dai.com/who-we-are/leadership/jean-gilson), DAI’s Senior Vice President for Strategy and Information Technology, has been appointed to serve as the SID-International Governing Council Liaison to the Society for International Development, Washington, D.C. Chapter Board. Jean also currently serves on the Governing Council of SID-International.
 
-<<<<<<< HEAD
 In addition, DAI’s Managing Director for Africa, Sarah Helmstadter, has been elected as a Board Director at [SID-Washington](https://sidw.org/2017-18-board-directors-press-release).
-=======
-In addition, DAI’s Managing Director for Africa, [Sarah Helmstadter](https://www.dai.com/who-we-are/leadership/sarah-helmstadter), has been elected as a Board Director at [SID-Washington](https://sidw.org/2017-18-board-directors-press-release).
->>>>>>> 6c8ecde609176ff587045c1acaddc9c2a254af1b
 
 For [SID-International](https://www.sidint.net/content/sid-welcomes-jean-gilson-new-vice-president), Jean is working to revitalize the relationship between SID chapters and the umbrella organization. As the liaison to the SID-Washington board, she aims to reaffirm the roles that the Washington, D.C., and other chapters can play as thought leaders and conveners in the global development arena.
 
