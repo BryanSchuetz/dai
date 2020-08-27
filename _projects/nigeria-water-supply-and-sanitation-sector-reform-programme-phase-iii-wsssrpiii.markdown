@@ -6,7 +6,7 @@ summary: The Water Supply and Sanitation Sector Reform Programme Phase III in Ni
   and to the achievement of the water and sanitation-related Millennium Development
   Goals.
 start: 2014
-end: 2020
+end: 2021
 client: European Union
 solutions:
 - Environment
