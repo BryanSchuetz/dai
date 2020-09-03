@@ -14,6 +14,9 @@ solutions:
 - 
 regions: Asia and the Pacific
 country: Philippines
+promos:
+- title: Philippine Wildlife Reporting App Promises to Upgrade Fight Against Trafficking
+  link: https://news.mongabay.com/2020/09/philippine-wildlife-reporting-app-promises-to-upgrade-fight-against-trafficking/
 ---
 
 Environmental degradation and habitat destruction throughout the Philippines are not only harming wildlife but also undermining people’s livelihoods and creating social instability. In addition, wildlife poaching and trade continues to be a growing problem in the country, driven by poverty, porous borders, and weak law enforcement. It is within this context that the U.S. Agency for International Development (USAID) launched Protect, a multi-pronged program that worked to conserve biodiversity, protect wildlife, and sustain ecosystem services in ways that also improved the local population’s livelihoods and long-term well-being.
