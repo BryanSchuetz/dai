@@ -20,6 +20,8 @@ promos:
   link: https://dai-global-developments.com/articles/how-a-place-based-approach-built-climate-resilience-in-indonesia
 - title: Improving Community Preparedness through Flood Early Warning Systems
   link: https://www.climatelinks.org/blog/improving-community-preparedness-through-flood-early-warning-systems
+- title: Education for Disaster Preparedness
+  link: https://www.climatelinks.org/blog/education-disaster-preparedness
 layout: project
 ---
 
