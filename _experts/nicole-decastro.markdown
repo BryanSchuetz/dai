@@ -16,4 +16,4 @@ Nicole DeCastro began her career in humanitarian and disaster response working w
 
 Prior to joining DAI, Nicole supported projects with Plan International in areas around health systems strengthening, WASH social and behavior change communication, women’s empowerment, and disaster risk reduction. Her work prioritized engaging communities at the local level and adapting program activities to the populations’ ever-changing needs. Nicole also focused her graduate coursework on epidemiology, health systems, and health security. 
 
-* Master degree, public health, Johns Hopkins Bloomberg School of Public Health 
+* Master's degree, public health, Johns Hopkins Bloomberg School of Public Health 
