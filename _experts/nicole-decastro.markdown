@@ -6,6 +6,7 @@ summary: 'Nicole DeCastro began her career in humanitarian and disaster response
   with the U.S. Agency for International Development to address crises including Ebola
   in West Africa and the humanitarian emergency in Syria. '
 job-title: Global Practice Specialist, Health Security
+image: "/uploads/NicoleDeCastro_photo%20portal.jpg"
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
