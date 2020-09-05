@@ -14,6 +14,9 @@ solutions:
 - 
 regions: Asia and the Pacific
 country: Philippines
+promos:
+- title: Philippine Wildlife Reporting App Promises to Upgrade Fight Against Trafficking
+  link: https://news.mongabay.com/2020/09/philippine-wildlife-reporting-app-promises-to-upgrade-fight-against-trafficking/
 ---
 
 Environmental degradation and habitat destruction throughout the Philippines are not only harming wildlife but also undermining people’s livelihoods and creating social instability. In addition, wildlife poaching and trade continues to be a growing problem in the country, driven by poverty, porous borders, and weak law enforcement. It is within this context that the U.S. Agency for International Development (USAID) launched Protect, a multi-pronged program that worked to conserve biodiversity, protect wildlife, and sustain ecosystem services in ways that also improved the local population’s livelihoods and long-term well-being.
@@ -39,5 +42,5 @@ By 2020, Protect had improved the conservation of more than 200,000 hectares of 
 * Developed a syllabus for environmental law and protection that universities may integrate into their criminology programs.
 * Facilitated advancement of one national and three local policy initiatives related to wildlife and environmental crime prevention and trained 368 government staff in combating wildlife and environmental crime.
 * Placed 141,296 hectares of biologically significant areas under improved natural resource management.
-* Helped develop a [mobile app called WildAlert](https://technology.inquirer.net/97103/app-to-help-curb-wildlife-trafficking) to identify wildlife species and report illicit activities.
+* Helped develop a [mobile app called WildAlert](https://technology.inquirer.net/97103/app-to-help-curb-wildlife-trafficking) to identify wildlife species and [report illicit activities](https://news.mongabay.com/2020/09/philippine-wildlife-reporting-app-promises-to-upgrade-fight-against-trafficking/).
 * Rolled out [first-ever field study](https://environews.ph/biodiversity/partnership-for-research-and-conservation-gives-hope-for-the-philippine-eagle-to-thrive/) to survey Philippine eagles.

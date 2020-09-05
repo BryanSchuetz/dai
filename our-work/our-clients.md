@@ -1,11 +1,11 @@
 ---
 title: Our Clients
-layout: node
 summary: National and local governments, bilateral and multilateral donors, private
   corporations and philanthropies—our clients have ambitious objectives in demanding
   environments. We work with change-agents all over the world to help turn their investments
   into impact.
 hero: true
+layout: node
 ---
 
 ## U.S. Agency for International Development
@@ -14,9 +14,9 @@ In 1973, we won our first contract with USAID to analyze 36 projects in Latin Am
 
 <iframe src="/extras/maps/usaid" frameborder="0"></iframe>
 
-## U.K. Department for International Development
+## Foreign, Commonwealth and Development Office (FCDO)
 
-Since 2000, DAI has worked with DFID in scores of countries on three continents. As one of DFID’s Key Suppliers, DAI is committed to achieving outstanding development results that represent demonstrable value for our client.
+Since 2000, DAI has worked with FCDO in scores of countries on three continents. As one of FCDO’s Key Suppliers, DAI is committed to achieving outstanding development results that represent demonstrable value for our client.
 
 <iframe src="/extras/maps/dfid" frameborder="0"></iframe>
 

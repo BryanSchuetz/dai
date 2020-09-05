@@ -21,7 +21,7 @@ Despite growth of more than 8 percent in gross domestic product from 2014 to 201
 
 However, small and medium-sized enterprises (SMEs), including household businesses, account for more than 90 percent of all enterprises in the country. Many of these operate on an informal basis, particularly those run by women. As a result, thousands of potential entrepreneurs are unable to seize business opportunities due to a lack of capital for investment and an uncertain business environment.
 
-The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperity"), a program funded by the U.K. Department for International Development, works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. DaNa works across multiple levels, including with government policy makers, business sectors leaders, and individual entrepreneurs, to address five key constraints to inclusive growth: infrastructure, regulatory environment, access to finance, exports, and inclusiveness of women and minority groups.
+The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperity"), a program funded by the Foreign, Commonwealth and Development Office (FCDO), works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. DaNa works across multiple levels, including with government policymakers, business sector leaders, and individual entrepreneurs, to address five key constraints to inclusive growth: infrastructure, regulatory environment, access to finance, exports, and inclusiveness of women and minority groups.
 
 ![DFID DaNa Facility in Burma](https://assetify-dai.com/projects/DaNa_Image.jpg)
 
@@ -35,7 +35,6 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 
 ### Select Results
 
-* Produced report on ‘Respectful Workplaces’ with the IFC, a culmination of a research process into people’s experiences of sexual harassment and bullying at work in Myanmar.
+* Produced report on "Respectful Workplaces" with the IFC, a culmination of a research process into people’s experiences of sexual harassment and bullying at work in Myanmar.
 * Supported nearly 1,000 people with disabilities to access to employment and improved incomes.
-* Since the project began in 2017, 490 participating farmer households have seen their incomes rise by an average of 67 percent, with increased yields and higher quality of ginger
-generating profits of up £569 per acre. Women’s participation in Farmer Field Schools increased every month and currently totals 260 women, 55 percent of all trainees. 
+* Since the project began in 2017, 490 participating farmer households have seen their incomes rise by an average of 67 percent, with increased yields and higher quality of ginger, generating profits of up £569 per acre. Women’s participation in Farmer Field Schools increased every month and currently totals 260 women, 55 percent of all trainees. 

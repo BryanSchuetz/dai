@@ -11,10 +11,10 @@ solutions:
 - Energy
 ---
 
-Chris Rose is a Senior Development Specialist with our Europe office’s Energy, Environment, and Climate Change practice. He has experience providing technical expertise on programmes funded by the U.K. Department for International Development (DFID) and the European Commission, and supports business development and programme management across all donors in the fields of climate change, environment, and renewable energy.
+Chris Rose is a Senior Development Specialist with our Europe office’s Energy, Environment, and Climate Change practice. He has experience providing technical expertise on programmes funded by the Foreign, Commonwealth and Development Office (FCDO) and the European Commission, and supports business development and programme management across all donors in the fields of climate change, environment, and renewable energy.
 
-Having cut his teeth as a project manager in the DFID Livelihoods Resource Centre in 2007, managing a number of projects, Chris now focuses on one access to energy, most notably playing a key role in the implementation of the first stage of DFID’s flagship off-grid solar focussed Energy Africa Campaign.
+Having cut his teeth as a project manager in the Livelihoods Resource Centre in 2007, managing a number of projects, Chris now focuses on one access to energy, most notably playing a key role in the implementation of the first stage of the UKaid off-grid solar focussed Energy Africa Campaign.
 
-Chris shares his time between providing technical advice and support on the LIFE Programme—the European Union’s fund for nature, environment, and climate change—and short-term inputs on DFID and EU technical assistance projects covering areas such as emissions trading, water governance, and hydropower.
+Chris shares his time between providing technical advice and support on the LIFE Programme—the European Union’s fund for nature, environment, and climate change—and short-term inputs on FCDO and EU technical assistance projects covering areas such as emissions trading, water governance, and hydropower.
 
 * Masters, mechanical engineering, University of Birmingham

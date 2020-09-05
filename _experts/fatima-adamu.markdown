@@ -17,7 +17,7 @@ articles:
   article_file: http://resources.healthpartners-int.co.uk/resource/1196/
 ---
 
-Fatima Adamu is a sociologist by training with particular expertise in gender, poverty, and equity issues in northern Nigeria. Fatima is also an expert in qualitative research and coordinated many qualitative studies, for example, she was the coordinator of one component of a multi-country research project that studied the interaction between religion and development, funded by the U.K. Department for International Development. 
+Fatima Adamu is a sociologist by training with particular expertise in gender, poverty, and equity issues in northern Nigeria. Fatima is also an expert in qualitative research and coordinated many qualitative studies, for example, she was the coordinator of one component of a multi-country research project that studied the interaction between religion and development, funded by the Foreign, Commonwealth and Development Office (FCDO). 
 
 She has worked extensively in Nigeria, most recently with the Women for Health programme, which aims to train 6,000 new female health workers in five northern states. As the National Programme Manager for Women for Health since 2012, she has worked to establish and maintain effective working relationships with key stakeholders from the Ministry of Health, parastatals, regulatory training bodies, midwifery training institutions, and donors. She has overseen inception plans, budgets, and reports, and led advocacy work to ensure the promotion of women’s empowerment issues. 
 

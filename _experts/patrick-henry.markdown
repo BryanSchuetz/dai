@@ -2,18 +2,18 @@
 title: Patrick Henry
 date: 2017-08-29 11:44:00 Z
 lastname: Henry
-summary: Patrick Henry leads the Centre for Local Business Development in Guyana.
-job-title: Director, Supplier Development
-image: "/uploads/Patrick%20Henry%20Portal.jpg"
+summary: 'Patrick Henry is a Senior Director in DAI Global’s Sustainable Business
+  Group who leads supplier development initiatives globally and manages DAI’s work
+  with ExxonMobil. '
+job-title: Senior Director, Sustainable Business Group
+image: "/uploads/new%20Patrick%20Henry.jpg"
 solutions:
 - Sustainable Business
 regions:
 - Sub-Saharan Africa
 ---
 
-Patrick Henry is Director of Supplier Development for DAI's Sustainable Business Group and leads the [Centre for Local Business Development in Guyana ](http://corporate.exxonmobil.com/en/company/worldwide-operations/locations/guyana/news-releases/20170626-centre-for-local-business-development-in-georgetown)that DAI manages on behalf of ExxonMobil. The Centre was launched in 2017 and to date has led efforts to build local content and industry understanding in Guyana. 
-
-Patrick previously served as a senior executive and entrepreneur who succeeded in bringing an agricultural investment from conception to capital raise and into production, while simultaneously building long-term supply chains, buyer relationships, and corporate systems. His expertise extends over a broad spectrum of technical areas including global logistics and supply chains, investor relations, corporate social responsibility, communications campaigns, and national-level policy development. He has lived in five countries on four continents and worked in an additional 14-plus countries.
+Patrick Henry is a Senior Director in DAI Global’s Sustainable Business Group who leads supplier development initiatives globally and manages DAI’s work with ExxonMobil. In Guyana for Exxon, Patrick led the [Centre for Local Business Development](http://corporate.exxonmobil.com/en/company/worldwide-operations/locations/guyana/news-releases/20170626-centre-for-local-business-development-in-georgetown) from inception to sustained results in moving hundreds of suppliers through a pioneering program that resulted in them winning work and building long-term capacity to support the nascent sector. In Mozambique, Patrick conceptualized a novel model of blending international best practice with local expertise for supplier development through a newly created local enterprise. Patrick previously served as a senior executive and entrepreneur who succeeded in bringing an agricultural investment from conception to capital raise and into production while simultaneously building long-term supply chains, buyer relationships, and corporate systems. He has lived in five countries on four continents and worked in an additional 20-plus countries worldwide. 
 
 * M.A., international politics, American University
 * B.A., political science, University of Dayton

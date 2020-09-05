@@ -17,6 +17,8 @@ The Expanding Social Protection Programme Phase II (ESP II) delivers uncondition
  
 Under ESP II, DAI manages a Fund Management Team, hosted by the ESP Programme Management Unit of the Ministry of Gender Labour and Social Development. DAI manages donor partner funds and provides technical and capacity development assistance to Government of Uganda to enable effective implementation of the programme nationally. DAI is also tasked with catalysing formation of a coherent and comprehensive social protection system in Uganda beyond the grant programme.
 
+Nine years after the first pilot payment, ESP has officially reached all eligible beneficiaries in Uganda’s 135 districts. With the donor and DAI’s support, 379,801 people—218,205 women and 161,596 men—now receive their entitlement of UGX 25,000 every month. 
+
 ![ESPII.jpg](/uploads/ESPII.jpg)
  
 ### Sample Activities
