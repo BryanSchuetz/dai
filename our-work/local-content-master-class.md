@@ -129,14 +129,6 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 <hr>
 
-## Regional Master Class Locations
-
-* Europe: London, November 2019
-
-  * [Brochure](/uploads/DAI%20Masterclass%20Brochure%20Houston%202020.pdf)
-  * [Agenda](/uploads/0%20-%203%20-%20Houston%202020%20Masterclass%20Program.pdf)
-  * [Pre-course Reading](/uploads/tanzania-reading.pdf)
-
 ## Customized Courses
 
 DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Canada, Ghana, Guyana, Oman, Sierra Leone, and Tanzania.
