@@ -25,11 +25,16 @@ promos:
 layout: project
 ---
 
-Funded by the U.K. Department for International Development and working in Jordan, Egypt, and Palestine, Arab Women’s Enterprise Fund (AWEF) was the first project of its kind. AWEF stimulated increased women’s economic empowerment through a [market systems approach][1]. This partnership addressed gaps in women’s economic empowerment in the region, which has one of the lowest rates of female labour force participation in the world. AWEF improved gender awareness and sensitivity across target companies’ human resources policies, increased employment and retention of women in the labour force, and raised awareness and uptake of standards and certification of products made by women working at home. AWEF tested innovative ways of working with the public and private sector to empower women and encourage them to more actively participate in markets and to support businesses be more inclusive of women. 
+The Arab Women’s Enterprise Fund (AWEF) focused on market-system change and women’s economic empowerment in Egypt, Jordan, and until March 2018, the Occupied Palestinian Territories. AWEF developed an innovative and path-breaking approach to market systems to encourage the adoption of new practices and approaches to empower women. 
 
-DAI was joined by subcontractors Market Share Associates, a global social enterprise focused on collaborative approaches to international development; Education for Employment, a nongovernmental organization working throughout the Middle East and North Africa; and Positive Planet International, a nongovernmental organization working to create the conditions for resilience and professional, cultural, and social sustainable development. 
+Women in the Middle East have untapped potential, they have the interest, skills, and ability to play a significantly more active role in the economy. It is only through long-term inclusion of women that these countries will be able to witness sustainable growth, security, and stability. AWEF aimed to change the way markets work by tackling critical underlying constraints that limited whether and how women participated in markets.
 
-AWEF reached 578,241 women across Egypt, the Occupied Palestinian Territories and Jordan through its interventions, facilitated the generation of £840,000 in additional income to women in Jordan, and helped 1,142 market actors adopt AWEF-supported practices.
+AWEF focused on catalysing change in the ready-made garments, citrus, public awareness, financial inclusion, dairy, market linkages, local government, and ICT/flexible work strategic areas, reaching 578,241 women through its interventions. More than 1,140 market actors and institutions adopted AWEF supported practices and 54 market actors and institutions demonstrated commitment to reform rules or internal policies that enabled and empowered women. AWEF helped to directly or indirectly facilitate 2,231 market linkages across Jordan, Egypt, and the Occupied Palestinian Territories, generating increased income opportunities for women.  
+
+AWEF has generated additional income for 30,725 women and aggregated net additional income generated for poor women across Egypt and Jordan amounted to £4,630,204. 
+
+Around 116,169 women have benefited from increased productivity and/or skills. AWEF is a unique programme in that it has worked to jointly improve women’s access to opportunities, but also empowered them to take hold of these opportunities by supporting their agency- their voice, choice and decision making in economic spaces. AWEF interventions helped to strengthen voice, choice and control for 75,107 women. 
+
 
 For more lessons learned, see our [AWEF Learning Series](https://seepnetwork.org/AWEF-Learning-Series). 
 
