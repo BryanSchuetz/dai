@@ -1,9 +1,11 @@
 ---
 title: Jordan, Egypt, and Palestine—Arab Women’s Enterprise Fund (AWEF)
 date: 2016-01-21 22:40:00 Z
-summary: 'Funded by the U.K. Department for International Development and working
-  in Jordan, Egypt, and Palestine, Arab Women''s Enterprise Fund (AWEF) stimulates
-  increased women''s economic empowerment and agency through a market systems approach. '
+summary: The Arab Women's Enterprise Fund (AWEF) worked to jointly improve women’s
+  access to opportunities, but also empowered them to take hold of these opportunities
+  by supporting their agency—their voice, choice, and decision making in economic
+  spaces. AWEF interventions helped to strengthen voice, choice, and control for 75,107
+  women in Egypt, Jordan, and Palestine.
 start: 2015
 end: 2020
 client: U.K. Department for International Development
@@ -54,19 +56,9 @@ AWEF [established a learning hub](https://seepnetwork.org/AWEF-Learning-Series) 
 * Worked with municipalities in Jordan to introduce a platform within the municipality through which women have access to services that enable them to become more entrepreneurial and establish or formalise their businesses, such as training, information, networks, and linkages to potential markets. 
 * Developed a suite of interventions supporting the growth of women-owned home-based businesses including establishing systems to generate market linkages between large retailers and women producers. 
 * Influenced the development of guidelines on licensing of home-based businesses that was adopted by the Jordanian Ministry of Local Administration. Licensing processes were institutionalised and implemented across 17 municipalities and had a significant impact on women’s sense of agency and engagement in local government, as well as increasing their ability to generate incomes. 
-* Worked with clothing factories in Egypt to develop and institutionalise gender-sensitive worker training to influence how businesses work with and perceive women in the workforce. 
+* Worked with clothing factories in Egypt to develop and institutionalise gender-sensitive worker training to influence how businesses work with and perceive women in the workforce. We also engaged with major Egyptian retailers to [increase the hiring](https://beamexchange.org/community/blogs/9999/1/1/fintech-for-women-egypt/) of women. 
 * Worked with partners to develop and test new recruitment processes for women in the readymade garment sector. These new approaches included running women-only job fairs, creating mixed-gender outreach teams as part of recruitment drives, and the adoption of gender-sensitive promotional materials. As a result of this intervention 4,028 women were reached through recruitment events and AWEF’s partner and lead firm, Arafa, established a reputation as a credible employer within targeted communities. 
 * Helped change the mindset of large businesses to facilitate the reform of human resource practises and the introduction of technology to allow women to work from home more flexibly. Lessons learnt from this were subsequently deployed by the business to facilitate a smooth transition to working from home during COVID-19 restrictions in Jordan. 
-
-
-
-
-
-* Designed and developed a customised AWEF [Disadvantage Assessment Tool](https://seepnetwork.org/files/galleries/Disadvantage_Assessment_Brief_Revised_(Nov_2017).pdf), now in use in all three countries. 
-* Set up a milk supply network of 189 to 250 women with a dairy processing company; it will be scaled to 500 women in the following year. 
-* Supported 331 home-based dairy entrepreneurs in Jordan, generating higher incomes and contributing to positive perceptions of female-owned, home-based businesses.  
-* Supported, in conjunction with 14 Jordanian Municipalities, the creation of Women’s Economic Empowerment Units, creating spaces within the local administration for women to learn about business registration, small business requirements, and to create linkages with other businesses for sale of products.
-* Engaged with major Egyptian retailers to [increase the hiring](https://beamexchange.org/community/blogs/9999/1/1/fintech-for-women-egypt/) of women. 
 
 [1]: http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming?utm_source=daidotcom
 [2]: https://assetify-dai.com/projects/AWEF-web-page.jpg
