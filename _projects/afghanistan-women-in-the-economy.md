@@ -43,6 +43,7 @@ Consortium partners include RSI Consulting (monitoring and evaluation) and the T
 
 ### Select Results
 
+* Supported partner [AlemHealth](https://www.alemhealth.com/) to provide e-learning training on COVID-19 testing and care to 582 health workers (of which 314 women completed a post-test to qualify to diagnose COVID-19). AlemHealth also developed a triage phone center and app; 4,100 citizens registered their symptoms.
 * Awarded scholarships to more than 14,733 women to train in information technology, healthcare, retail sales, customer service, and other areas. 
 * Placed 12,000 interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers) and education—sectors critical to Afghans' well-being.
 * Helped more than 23,000 women get new or better jobs; 44 percent of women who receive WIE assistance find employment.
