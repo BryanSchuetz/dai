@@ -20,4 +20,6 @@ The key recommendation from the report is that learner diversity is a strength t
 
 The GEM Report provides policymakers with 10 recommendations for the 10 years left before the 2030 deadline of the Agenda for Sustainable Development Goals. These recommendations provide governments with a roadmap and an opportunity for the international community to shift the needle on the discourse around inclusion and education.
  
-“It is a commitment that we cannot afford to lose sight of. It is about adapting to learners and making a commitment, not about learners adapting to the system,” said [Anna D’Addio](https://en.unesco.org/gem-report/anna-cristina-daddio), Senior Policy Analyst for the GEM Report team at UNESCO.
+“It is a commitment that we cannot afford to lose sight of. It is about adapting to learners and making a commitment, not about learners adapting to the system,” said [Anna D’Addio](https://en.unesco.org/gem-report/anna-cristina-daddio), Senior Policy Analyst for the GEM Report team at UNESCO and panelist.
+
+Other webinar panelists included UNESCO GEM Report's [Bilal Barakat](https://en.unesco.org/gem-report/bilal-barakat), the U.S. Agency for International Development's [Joshua Josa](https://www.linkedin.com/in/josh-josa-b857112a/), Leonard Cheshire International's [Marie Schoeman](https://www.linkedin.com/in/marie-schoeman-903ab144/), and Inclusion International's [Sue Swenson](https://inclusion-international.org/sue-swenson/).
