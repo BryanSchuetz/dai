@@ -18,6 +18,9 @@ country:
 promos:
 - title: Political Economy Analysis Sheds Light on Farmer Behavior in Northern Haiti
   link: https://www.marketlinks.org/post/political-economy-analysis-sheds-light-farmer-behavior-northern-haiti
+- title: Investing in Underemployed Youth in Haiti Produces Agropreneurs — and Great
+    Results
+  link: https://medium.com/usaid-2030/i-am-proof-e7f891454a7f
 layout: project
 ---
 
