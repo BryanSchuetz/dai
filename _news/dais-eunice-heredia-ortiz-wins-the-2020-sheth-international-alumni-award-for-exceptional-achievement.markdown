@@ -3,6 +3,12 @@ title: DAI’s Eunice Heredia-Ortiz Wins the 2020 Sheth International Alumni Awa
   Exceptional Achievement
 date: 2020-09-15 14:47:00 Z
 published: false
+summary: DAI’s Eunice Heredia-Ortiz, a senior governance specialist in public finance
+  and fiscal transparency, this week won the [2020 Sheth International Alumni Award
+  for Exceptional Achievement](https://iew.gsu.edu/current-winners/#1541086786783-2b14513c-09a8)
+  from her alma mater, Georgia State University (GSU) for “garner[ing] an exemplary
+  and longstanding professional reputation of achievement worldwide.”
+social-image: "/uploads/Eunice-d5e082.jpg"
 ---
 
 DAI’s Eunice Heredia-Ortiz, a senior governance specialist in public finance and fiscal transparency, this week won the [2020 Sheth International Alumni Award for Exceptional Achievement](https://iew.gsu.edu/current-winners/#1541086786783-2b14513c-09a8) from her alma mater, Georgia State University (GSU) for “garner[ing] an exemplary and longstanding professional reputation of achievement worldwide.”
