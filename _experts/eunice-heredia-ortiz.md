@@ -36,3 +36,4 @@ At DAI, Eunice has helped lead U.S. Agency for International Development-funded 
 
 * Adjunct professor, Georgia State University
 * Ph.D., economics, Georgia State University
+* [2020 Sheth International Alumni Award For Exceptional Achievement](https://iew.gsu.edu/current-winners/#1541086786783-2b14513c-09a8)
