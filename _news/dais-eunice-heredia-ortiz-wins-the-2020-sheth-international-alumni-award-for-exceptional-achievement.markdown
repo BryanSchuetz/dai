@@ -9,7 +9,7 @@ DAI’s Eunice Heredia-Ortiz, a senior governance specialist in public finance a
  
 The award, granted once a year, was established in 2018 and named after Professor Jagdish Sheth, a professor of marketing at Emory University Goizueta Business School, internationally known for his scholarly contributions in consumer behavior, relationship marketing, competitive strategy, and geopolitical analysis. Sheth has more 50 years of combined experience in teaching and research at the University of Southern California, the University of Illinois, Columbia University, MIT, and Emory University.
 
-![Eunice.jpg](/uploads/Eunice.jpg)`Eunice Heredia-Ortiz in Bangladesh in 
+![Eunice.jpg](/uploads/Eunice.jpg)`Eunice Heredia-Ortiz in Bangladesh in 2006.` 
 
 [Heredia-Ortiz](https://www.dai.com/who-we-are/our-team/eunice-heredia-ortiz), originally from Bolivia, learned English when she was 12 years old. After graduating high school, she was granted an international student scholarship to study at East Stroudsburg University in Pennsylvania. She then pursued a master’s degree and Ph.D. at GSU. While at GSU, she served in various roles, such as teaching assistant, research associate, and adjunct professor. 
  
