@@ -5,7 +5,7 @@ date: 2020-09-15 14:47:00 Z
 published: false
 ---
 
-DAI’s Eunice Heredia-Ortiz, a senior governance specialist in public finance and fiscal transparency, recently won the [2020 Sheth International Alumni Award for Exceptional Achievement](https://iew.gsu.edu/current-winners/#1541086786783-2b14513c-09a8) from her alma mater, Georgia State University (GSU) for “garner[ing] an exemplary and longstanding professional reputation of achievement worldwide.”
+DAI’s Eunice Heredia-Ortiz, a senior governance specialist in public finance and fiscal transparency, this week won the [2020 Sheth International Alumni Award for Exceptional Achievement](https://iew.gsu.edu/current-winners/#1541086786783-2b14513c-09a8) from her alma mater, Georgia State University (GSU) for “garner[ing] an exemplary and longstanding professional reputation of achievement worldwide.”
  
 The award, granted once a year, was established in 2018 and named after Professor Jagdish Sheth, a professor of marketing at Emory University Goizueta Business School, internationally known for his scholarly contributions in consumer behavior, relationship marketing, competitive strategy, and geopolitical analysis. Sheth has more 50 years of combined experience in teaching and research at the University of Southern California, the University of Illinois, Columbia University, MIT, and Emory University.
 
