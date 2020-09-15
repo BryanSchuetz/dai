@@ -2,7 +2,6 @@
 title: DAI’s Eunice Heredia-Ortiz Wins the 2020 Sheth International Alumni Award for
   Exceptional Achievement
 date: 2020-09-15 14:47:00 Z
-published: false
 solutions:
 - Governance
 - Public Financial Management
@@ -24,7 +23,7 @@ The award, granted once a year, was established in 2018 and named after Professo
  
 In 2005 she met two DAI colleagues through a fiscal policy and management training program funded by a U.S. Agency for International Development (USAID) project. In 2010, she was hired by DAI and moved to Maryland. “This was life-changing as I got an opportunity to expand my knowledge, experience, coming closer to field implementation through the governance portfolio at DAI,” she said. 
 
-While at DAI, she has worked on numerous high-profile projects that enhanced tax administration, public expenditure management, and results-orientation in public spending in [El Salvador](https://www.hfgproject.org/tax-reform-resource-mobilization/); identified tax expenditures and advanced capacities for tax policy analysis in [Jordan](https://dai-global-developments.com/articles/fiscal-reform-and-the-struggle-for-stability-in-jordan-1); and supported the [Guatemalan](https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp) Government to increase domestic resource mobilization, enhance transparency, and support public procurement reform.
+While at DAI, she has worked on numerous high-profile projects, including enhancing tax administration, public expenditure management, and results-orientation in public spending in [El Salvador](https://www.hfgproject.org/tax-reform-resource-mobilization/); analyzing tax expenditures and advancing capacities for tax policy analysis in [Jordan](https://dai-global-developments.com/articles/fiscal-reform-and-the-struggle-for-stability-in-jordan-1); and assisting the [Guatemalan](https://www.dai.com/our-work/projects/guatemala-fiscal-and-procurement-reform-project-fprp) government to mobilize domestic resources, enhance transparency, and reform public procurement.
 
 “I am humbled and honored to receive this award for doing what I love to do, which is to shape a more livable world in the countries where we work,” said Heredia-Ortiz. “I hope it can be of inspiration to the many international students seeking to further their education and experience in the United States, especially the Latino community and women.”
 
