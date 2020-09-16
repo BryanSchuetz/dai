@@ -1,5 +1,5 @@
 ---
-title: Mexico—Prosperity Fund Better Health Programme
+title: Mexico—Prosperity Fund Better Health Programme (BHPMx)
 date: 2019-07-10 08:17:00 Z
 summary: The Mexico Better Health Programme addresses the growing threat of noncommunicable
   diseases—especially obesity and diabetes—with a focus on realizing the economic
@@ -13,7 +13,7 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The Better Health Programme in Mexico is part of the U.K. Global Prosperity Fund Better Health Programme that covers eight countries. The DAI-managed programme addresses the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health. 
+The Better Health Programme Mexico (BHPMx) is part of the U.K. Global Prosperity Fund Better Health Programme that covers eight countries. The DAI-managed programme addresses the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health. 
 
 The programme fosters long-term links between Mexican institutions and the National Health Service, other U.K. institutions, and networks of researchers and service providers. U.K. and Mexican partners will together build an understanding of the gendered nature of the NCD epidemic and of the severe exclusion of some groups based on ethnicity, disability, or geographical location, as well as high levels of gender-based violence across the country and inequality within the health system.
 
