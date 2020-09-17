@@ -6,7 +6,7 @@ summary: 'Nova Scotia Department of Energy and Mines and the Offshore Energy Res
   offshore energy and technology sector supply chain assessment. '
 start: 2019
 end: 2019
-client: Canadian association
+client: Nova Scotia Department of Energy and Mines
 solutions:
 - Sustainable Business
 regions: Worldwide
