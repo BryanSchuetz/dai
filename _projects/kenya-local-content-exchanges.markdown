@@ -1,9 +1,9 @@
 ---
 title: Kenya—Local Content Exchanges
 date: 2017-08-24 17:01:00 Z
-summary: 'The Sustainable Business Group (SBG) is organizing a three-part series event,
-  the Kenya Local Content Exchanges, to bring together public, private, and civil
-  stakeholders from Kenya’s petroleum sector. '
+summary: 'DAI’s Sustainable Business Group was contracted by the World Bank to develop,
+  plan, and deliver The Kenya Local Content Exchanges project, an initiative of the
+  Petroleum Business Opportunities project. '
 start: 2017
 end: 2018
 client: World Bank
@@ -14,6 +14,6 @@ regions: Sub-Saharan Africa
 country: Kenya
 ---
 
-The Sustainable Business Group (SBG) is organizing a three-part series event, the Kenya Local Content Exchanges, to bring together public, private, and civil stakeholders from Kenya’s petroleum sector. 
+DAI’s Sustainable Business Group was contracted by the World Bank to develop, plan, and deliver The Kenya Local Content Exchanges project, an initiative of the Petroleum Business Opportunities (PBO) project. The objective of PBO was to build the capacity of high-priority Kenyan sectors and firms to ensure that they successfully engage in business with Kenya’s nascent oil and gas sector. PBO was implemented by the World Bank Group, funded by the former U.K. Department for International Development (now called Foreign, Commonwealth and Development Office). The Kenya Local Content Exchanges project was comprised of three sessions: Local Content: Vision to Implementation, Approaches, and Mechanisms to Drive Local Participation in the Oil and Gas Supply Chain, and Real-world Approaches and Strategies for Private Sector-led Enterprise Development.
 
-The need for an open local content discussion was initiated by a commercial oil discovery of nearly 750 million barrels, which generated significant expectations across various stakeholder groups. The exchanges will help to identify and assemble key stakeholders in an accommodating environment to facilitate the discussion around single local content topic, produce the material from the outcomes of the events that could reach a wider readership, and create an understanding of the issue through provision of relevant examples of other nascent oil and gas economies provided by industry experts. 
+The Exchanges served to create common understanding around the complex and multi-faceted concept of local content and outlined the requirements for successful local content implementation. To inform the discussion, the event organizers invited world-renowned experts in local content development to provide specific insights in their years of experience in the petroleum sector and local content development.
