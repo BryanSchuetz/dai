@@ -1,10 +1,9 @@
 ---
 title: Guyana—EcoMicro Guyana
 date: 2019-05-08 13:11:00 Z
-summary: The Institute of Private Enterprise Development (IPED)’s Green Finance for
-  Renewable Energy and Energy Efficiency for Micro, Small, and Medium-Sized Enterprises
-  (EcoMicro Guyana) project is part of the Inter-American Development Bank (IDB)’s
-  green energy portfolio in Latin America and the Caribbean.
+summary: DAI’s Sustainable Business Group is working with the Guyana Institute for
+  Private Enterprise Development to help Guyanese small and medium enterprises grow
+  through innovative green finance products.
 start: 2018
 end: 2021
 client: Inter-American Development Bank
