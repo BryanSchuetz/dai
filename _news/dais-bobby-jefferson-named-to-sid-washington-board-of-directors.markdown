@@ -11,7 +11,7 @@ summary: The Society for International Development-Washington, D.C. Chapter has 
 social-image: "/uploads/SM%20bobby%20jefferson.jpg"
 ---
 
-The Society for International Development-Washington, D.C. Chapter has named DAI Vice President [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) to its Board of Directors. Jefferson is DAI’s lead development technologist and serves as Chief Technology Officer for DAI Global Health.
+The Society for International Development-Washington, D.C. Chapter has named DAI Vice President [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) to its [Board of Directors](https://sidw.org/board-directors). Jefferson is DAI’s lead development technologist and serves as Chief Technology Officer for DAI Global Health.
 
 “SID-Washington is a respected convening force across all sectors of the development community and I am delighted to continue DAI’s long tradition of support as the Chapter charts its course for the upcoming decade,” said Jefferson. “As an expert in digital health, I hope I can bring that expertise to the organization; as a Black American, I hope I can bring some of my personal insights to what I’m sure will be a renewed emphasis on racial and other equity issues in the coming years.”
 
