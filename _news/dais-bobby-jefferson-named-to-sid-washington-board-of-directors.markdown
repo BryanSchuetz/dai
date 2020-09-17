@@ -17,11 +17,11 @@ Jefferson sits on the Steering Committee for DAI’s recently announced [Racial 
 
 ![full bobby jefferson.jpg](/uploads/full%20bobby%20jefferson.jpg)
 
-“Bobby is an asset in any leadership team,” said DAI Senior Vice President for Strategy Jean Gilson, a long-time SID-Washington Board member who currently serves as SID-International’s liaison to the D.C. Chapter. “He’s uncompromising but pragmatic, sees the big picture but focuses on how we can bring our ideals and objectives to life in the real world.”
+“Bobby is an asset in any leadership team,” said DAI Senior Vice President for Strategy Jean Gilson, a long-time SID-Washington Board member who currently serves as [SID-International’s liaison](https://www.sidint.net/content/sid-welcomes-jean-gilson-new-vice-president) to the D.C. Chapter. “He’s uncompromising but pragmatic, sees the big picture but focuses on how we can bring our ideals and objectives to life in the real world.”
 
 Jefferson serves as a board advisor for numerous enterprises, including the health technology startups THINKMD, ClickMedix, CodePartners, DataElevates, Covelocity.Health, and SimPrints. At DAI, he has taken a particular interest in sourcing, evaluating, and implementing technology startup investment opportunities.
 
-Before joining DAI in 2016, Jefferson was VP and Director of the Center for Development Informatics at Palladium (formerly Futures Group), where he built a practice focused on ICT for global health programs and adjacent sectors such as supply chains and education. Prior to his 10-year stint at Futures Group, Jefferson led a group at CTIS, Inc., that developed systems for managing clinical trials and data management.  
+Before [joining DAI](https://www.dai.com/news/ict4d-leader-bobby-jefferson-joins-dai-global-health-team) in 2016, Jefferson was VP and Director of the Center for Development Informatics at Palladium (formerly Futures Group), where he built a practice focused on ICT for global health programs and adjacent sectors such as supply chains and education. Prior to his 10-year stint at Futures Group, Jefferson led a group at CTIS, Inc., that developed systems for managing clinical trials and data management.  
 
 “I am absolutely delighted to welcome Bobby to the SID-Washington Board,” said incoming Board Chair Wade Warren, Deloitte Consulting’s Chief Strategy Officer for International Development. “We have many challenges before us, not the least of which is the imperative to promote diversity and inclusion in development. I’m confident that Bobby will help us rise to these challenges and seize the opportunities in them.”
 
