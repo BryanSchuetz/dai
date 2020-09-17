@@ -2,6 +2,9 @@
 title: DAI’s Bobby Jefferson Named to SID-Washington Board of Directors
 date: 2020-09-17 13:45:00 Z
 published: false
+tags:
+- digital
+- health
 summary: The Society for International Development-Washington, D.C. Chapter has named
   DAI Vice President Bobby Jefferson to its Board of Directors. Jefferson is DAI’s
   lead development technologist and serves as Chief Technology Officer for DAI Global
