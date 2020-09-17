@@ -5,8 +5,8 @@ summary: The Sustainable Business Group designed a methodology to help the World
   and International Finance Corporation provide investors with the data necessary
   to better understand the market for off-grid energy, and made that data accessible
   through a web-based, geo-analytical application.
-start: 2017
-end: 2017
+start: 2016
+end: 2016
 client: World Bank
 solutions:
 - Sustainable Business
@@ -17,12 +17,8 @@ country: Regional
 
 With more than one billion people around the world living without reliable and affordable electricity, an increasing number of off-grid energy technologies and business models are emerging in an effort to close this global energy access gap. While companies offering off-grid solutions are interested in the world’s most under-electrified areas, they often lack the critical information on market potential, electrical infrastructure, socioeconomic contexts, and energy demand required to make prudent investment decisions.
 
-The Sustainable Business Group designed a methodology to help the World Bank and International Finance Corporation provide investors with the data necessary to better understand the market for off-grid energy, and made that data accessible through a web-based, geo-analytical application. The resulting[ Off-Grid Market Opportunity Tool](http://offgrid.energydata.info/), built by project partner [Development Seed](https://developmentseed.org/), maps potential hot spots for investment across Sub-Saharan Africa, with additional in-depth, highly localized data for Nigeria, Tanzania, and Zambia.
-
-![tool_image_2.jpg](/uploads/tool_image_2.jpg)
-
-**Select Results**
-
-* Leveraged our experience assessing consumers’ electricity access and ability to pay for electricity services to develop a data framework for characterizing off-grid markets based on demographics, energy access, energy demand, financing and payments, productive uses, land use, and renewable potential.
-* Utilized open source data sets to advise on strategies for identifying areas without electrical grid service and calculating basic energy expenditure at a subnational level.
-* Combined datasets with solar irradiance data to provide investors with a decision-making tool to analyze and visualize market potential throughout Sub-Saharan Africa.
+DAI’s Sustainable Business Group (SBG) was sub-contracted by Development Seed to support this project by providing guidance and expertise on energy demand and access in Sub-Saharan Africa, along with support for data needs. SBG designed a methodology to address these data needs and to ensure that investors on the ground could access relevant information and analyze potential opportunities. The data was integrated into a web-based geo-analytical tool that maps potential hot spots for investment across Sub-Saharan Africa, with more granular focus on regions in Nigeria, Tanzania, and Zambia. 
+ 
+SBG identified a potential data framework for identifying off-grid or inadequately served market opportunities based on demographics, energy access, energy expenditure, available financing, and payment methods, productive uses, land use, and renewables potential.  By identifying indicator data from World Bank household surveys, the U.S. Agency for International Development’s Demographic and Health Surveys, and financial inclusion surveys, SBG was able to determine areas of unserved and underserved electrification, where fuel payments for self-generation were high, and basic energy expenditure was at a subnational level. Combining those datasets with data on wealth, solar irradiance, and mobile access provided investors with data to better understand the market opportunities.  
+ 
+In total, SBG researched 54 datasets. The research was critical to determining what landscape of data and indicators would be readily available in the short time frame of the project. As part of this research, SBG also provided guidance and support to Development Seed on energy access and demand issues. This guided the indicators we chose to include, the datasets we selected, and the models we recommended for quantifiably estimating the size of the potential off-grid market. 
