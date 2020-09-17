@@ -1,7 +1,6 @@
 ---
 title: DAI’s Bobby Jefferson Named to SID-Washington Board of Directors
 date: 2020-09-17 13:45:00 Z
-published: false
 tags:
 - digital
 - health
