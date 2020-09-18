@@ -1,6 +1,10 @@
 ---
 title: Mongolia—Corporate Social Investment Strategy Study
 date: 2020-09-18 13:31:00 Z
+summary: DAI’s Sustainable Business Group (SBG) was selected in 2019 by an international
+  mining company to conduct a study of innovative development models being implemented
+  by corporations interested in having a real impact on socioeconomic and development
+  outcomes of the countries in which they operate.
 start: 2019
 end: 2020
 client: Multinational corporation
