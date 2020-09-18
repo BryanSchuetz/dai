@@ -7,9 +7,9 @@ tags:
 - Local Content
 - Mining
 - Gap Analysis
-summary: The Sustainable Business Group is reviewing a multinational mining company’s
-  plans for local business engagement and conducting a gap analysis to help optimize
-  supplier development.
+summary: 'DAI’s Sustainable Business Group (SBG) worked with a multinational mining
+  company to assess the company’s Local Business Integration (LBI) program and conducted
+  a gap analysis to inform recommendations for optimizing supplier development. '
 start: 2018
 end: 2018
 client: Multinational Corporation
@@ -20,6 +20,6 @@ regions: Sub-Saharan Africa
 country: Mauritania
 ---
 
-DAI’s Sustainable Business Group (SBG) is reviewing a multinational mining company’s plans for local business engagement and conducting a gap analysis to inform recommendations for optimizing supplier development. To provide a robust analysis of the client’s operations data, SBG is taking a two-phased approach that reviews quantitative data and validates the results with field-level qualitative questionnaires. The merged data sets will provide an overview of how the client can focus investments to better support its local content strategy.
+DAI’s Sustainable Business Group (SBG) worked with a multinational mining company to assess the company’s Local Business Integration (LBI) program and conducted a gap analysis to inform recommendations for optimizing supplier development. We conducted a two-phase analysis which was comprised of a comprehensive review of all LBI documentation, policies, and procedures, followed by in-person interviews with staff, local companies, and local stakeholders.  
 
-In addition, SBG will provide short- and long-term recommendations that align to the client’s guiding principles and to Mauritania’s national development plan. In doing so, the client will improve its relations with external stakeholders, reduce operational costs, and further establish the company as an outstanding corporate citizen.
+The findings from each phase were used to highlight the gaps between documented LBI commitments and on-the-ground implementation of the program. Based on these findings, SBG provided a detailed action plan to help the client develop its LBI technical capacity and implement a robust supplier development program.  
