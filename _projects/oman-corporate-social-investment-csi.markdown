@@ -1,8 +1,9 @@
 ---
-title: Oman Corporate Social Investment (CSI)
+title: Oman Corporate Social Investment Benchmarking Study
 date: 2020-01-10 18:54:00 Z
-summary: DAI’s Sustainable Business Group (SBG) conducted a social investment benchmarking
-  study for a multinational corporation in Oman.
+summary: DAI’s Sustainable Business Group (SBG) completed a rapid desktop benchmarking
+  study comparing social investment spend and initiatives across seven major oil and
+  gas companies in Oman.
 start: 2019
 end: 2019
 client: Multinational corporation
@@ -12,4 +13,4 @@ regions: Middle East and North Africa
 country: Oman
 ---
 
-DAI’s Sustainable Business Group (SBG) conducted a social investment benchmarking study for a multinational corporation in Oman, in two phases. Phase 1 was a two-week desktop benchmarking study of seven companies in Oman to provide insights into corporate social investment (CSI) trends. Phase 2 focused on in-country data collection and analysis. The findings will inform a short-term CSI “bridging” strategy and provide foundational data for a multiyear strategy.
+DAI’s Sustainable Business Group (SBG) completed a rapid desktop benchmarking study comparing social investment spend and initiatives across seven major oil and gas companies in Oman. The study was completed on behalf of an international oil and gas company looking to inform its five-year social investment strategy planning process. The study looked at corporate social investment terminology, structure of funds, level of spend globally and nationally, number of initiatives, and initiative themes. The team differentiated between social investment spend, sponsorship spend, and foundation spend to accurately compare investments. 
