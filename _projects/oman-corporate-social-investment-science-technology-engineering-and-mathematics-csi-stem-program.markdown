@@ -2,8 +2,8 @@
 title: Oman Corporate Social Investment Science, Technology, Engineering, and Mathematics
   (CSI STEM) Program
 date: 2020-01-10 19:25:00 Z
-summary: DAI’s Sustainable Business Group (SBG) is designing and implementing a flagship
-  social investment initiative for a large Omani conglomerate.
+summary: 'DAI’s Sustainable Business Group (SBG) is designing and implementing a flagship
+  social investment initiative for a large Omani conglomerate. '
 start: 2019
 end: 2020
 client: Omani conglomerate
@@ -13,8 +13,6 @@ regions: Middle East and North Africa
 country: Oman
 ---
 
-DAI’s Sustainable Business Group (SBG) is designing and implementing a flagship social investment initiative for a large Omani conglomerate. The project will provide services to young people in multiple cities across Oman. 
+DAI’s Sustainable Business Group (SBG) is designing and implementing a flagship social investment initiative for a large Omani conglomerate. The project will provide services to children across Oman. The STEMAzone Initiative will inspire young Omanis to enter STEAM (science, technology, engineering, art, and mathematics) fields and set them on the STEMA pathway from an early age, which studies show is critical to building a skilled workforce. 
 
-The 2020 Science, Technology, Engineering, and Mathematics (STEM) Initiative has two components: the anchor Muscat STEM Center that provides programming to schools and families in the city of Muscat, and the Traveling STEM Festival to reach communities outside of Muscat. 
-
-DAI uses proven materials and curricula that have been used extensively in the United States and internationally, in countries such as Lebanon and South Korea. To reach the largest number of young Omanis, the 2020 STEM Initiative will include a range of programming with various levels of intensity. On one end, the Initiative will go wide, providing short STEM experiences and digital and analog resources for participants to use on their own. At the same time, the Initiative will go deep, creating STEM programs that require a higher time commitment from fewer participants who will develop deeper skills. In accordance with global best practices in STEM learning, all programs will focus on experiential, hands-on learning.
+The STEMAzone will be national in scope and implemented in partnership with the Oman Children’s Museum. Under this partnership, Oman’s Children Museum would serve as the anchor location in Muscat for the initiative, hosting visitors from the public and schools interested in engaging in STEAM-related activities, including coding, robotics, 3D printing, and more. Due to the COVID-19 pandemic, the project pivoted to a hybrid model combining in-person and virtual activities. The Virtual STEMAzone will feature online webinars and courses on a range of topics, accessible for free to students across Oman.
