@@ -1,9 +1,9 @@
 ---
 title: Trinidad and Tobago—Local Content Study
 date: 2018-03-29 20:15:00 Z
-summary: DAI’s Sustainable Business Group conducted a study to determine the economic
-  value added by local content in Trinidad and Tobago’s energy sector. The study evaluated
-  current local content value as well as projections of future value.
+summary: 'DAI’s Sustainable Business Group (SBG) was contracted by the Energy Chamber
+  of Trinidad and Tobago to conduct a quantitative study to measure the value addition
+  of the country’s energy sector beyond tax revenues and royalties paid to the government. '
 start: 2017
 end: 2018
 client: National Government
@@ -14,8 +14,8 @@ regions: Latin America and the Caribbean
 country: Trinidad and Tobago
 ---
 
-DAI’s Sustainable Business Group (SBG) conducted a study to determine the economic value added by local content in Trinidad and Tobago’s energy sector. The study evaluated current local content value as well as projections of future value.
+DAI’s Sustainable Business Group (SBG) was contracted by the Energy Chamber of Trinidad and Tobago to conduct a quantitative study to measure the value addition of the country’s energy sector beyond tax revenues and royalties paid to the government. The approach broadened the definition of value addition to include local content value, the value from the sector’s employment of nationals and procurement of local goods and services, allowing decision-makers to make evidence-based choices for future investments.  
 
-The SBG team collected data from operators in the natural gas and petrochemical industries, as well as from energy sector suppliers in Trinidad across 38 supply chain categories. This data was used to quantify the 2016 value of employment and training of nationals, employment of non-nationals, and the procurement of local goods and services. To assess gaps, the team projected the likely value of local employment, training, and procurement based on forecasted energy sector demand for the next 10 years in Trinidad.
-
-Opportunities for growth of local content were identified in professional and energy specific services. SBG provided recommendations for closing the gap between the current value of local content and the potential value that could be contributed.
+The SBG team collected data from operators in the natural gas and petrochemical industries, as well as from energy sector suppliers in Trinidad across 38 supply chain categories. This data was used in SBG’s proprietary economic models to quantify the 2016 economic value of local employment, foreign employment, and local procurement of goods and services. SBG forecasted energy sector demand for employment and procurement over a 10-year period and highlighted gaps between what the local supply base could provide and what, given the current market, could be provided locally. In the final report, opportunities for the growth of local content were identified in a variety of services and goods categories. SBG provided recommendations for closing the gap between the current value of local content and the potential value that could be contributed.  
+ 
+The study findings were presented at the Energy Chamber’s annual conference in January 2018.  
