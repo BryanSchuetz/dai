@@ -1,6 +1,7 @@
 ---
 title: Senegal—Local Content Workshop
 date: 2020-01-16 15:04:00 Z
+published: false
 summary: DAI’s Sustainable Business Group (SBG) hosted a local content workshop in
   Senegal for a range of internal stakeholders.
 start: 2019
