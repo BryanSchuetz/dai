@@ -26,7 +26,7 @@ However, before these national content requirements could catalyze economic grow
 
 In response to these obstacles, the Mexican Association of Hydrocarbon Organizations (AMEXHI) commissioned the DAI Sustainable Business Group (SBG) to conduct a multiphase study consisting of policy analysis and benchmarking, national content methodology simplification, and supply-demand gap analysis. 
 
-## Select Results 
+### Select Results 
 
 * Completed a policy analysis of the existing Mexican national content methodology and benchmarked it against other global regulations including those of Australia, Brazil, Canada, Nigeria, and Oman. The results of this policy analysis and benchmarking report were then used to design a few national content methodology simplification options, with the intent to facilitate simpler and more accurate data calculation, reporting, and verification.  
 * Organized workshops with AMEXHI and the Ministry of Economy to present the national content simplification options and gauge both industry and government interest. Following four workshops, a new alternative method that remained compliant with existing law was selected. This simplified methodology included: use of national content percentage coefficients and flowcharts; additional metrics (person-hours); more accurate metric definitions; creation and use of supplier balanced scorecards; design of an iterative methodology streamlining process; and creation of a joint public-private sector national content taskforce1. 
