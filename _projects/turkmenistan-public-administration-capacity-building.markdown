@@ -12,7 +12,7 @@ regions: Eastern Europe and Central Asia
 country: Turkmenistan
 ---
 
-Turkmenistan’s growth and economic development has been hampered by a shortage of well-educated and skilled officials to run the state bodies and to elaborate and implement new policies. To develop the necessary skills within Turkmenistan’s civil service to support civil servants crucial to delivering the governmental reforms underway throughout the country, the European Union funded the Support to the Public Administration Capacity Building programme. DAI’s Human Dynamics team supported the modernisation of the Turkmen Public Administration in line with European standards. 
+Turkmenistan’s growth and economic development has been hampered by a shortage of well-educated and skilled officials to run the state bodies and to elaborate and implement new policies. To develop the necessary skills within Turkmenistan’s civil service to support civil servants crucial to delivering the governmental reforms underway throughout the country, the European Union-funded the Support to the Public Administration Capacity Building programme. DAI’s team supported the modernisation of the Turkmen Public Administration in line with European standards. 
 
 One of the key policies our team contributed to was the delivery of the main national framework and the public administration reform agenda outlined in the National Programme for Socio-Economic Development of Turkmenistan for 2011–2030. This policy outlines a path forward for Turkmenistan including diversification of the economy, increased competition, and further market and institutional reform. 
 
