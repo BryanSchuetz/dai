@@ -2,9 +2,8 @@
 title: Regional—EU for Climate Action in the European Neighbourhood Instrument, Southern
   Neighbourhood (Clima-Med)
 date: 2020-05-20 13:02:00 Z
-summary: DAI’s Human Dynamics is supporting a regional approach to support the transition
-  towards sustainable, low-carbon, and climate-resilient development in the Southern
-  Mediterranean.
+summary: DAI is supporting a regional approach to support the transition towards sustainable,
+  low-carbon, and climate-resilient development in the Southern Mediterranean.
 start: 2018
 end: 2022
 client: European Union
@@ -21,7 +20,7 @@ promos:
 
 Identified as a [climate change hotspot region](https://www.iucn.org/regions/mediterranean/our-work/climate-change-mediterranean), the Southern Mediterranean region is seeing increasing water scarcity, rising temperatures, and growing rates of desertification. The increasing frequency of climate change impacts affects both socio-economic development and the geopolitical environment. The multidimensional nature of climate change calls for a coherent and coordinated multi-sectoral response.
  
-DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) is supporting a regional approach to support the transition towards sustainable, low-carbon, and climate-resilient development. The ultimate objective of the Clima-Med [project](https://www.climamed.eu) is to enhance the energy security and adaptive capacity of the partner countries, leading to more stable, efficient, competitive, and climate-resilient socioeconomic contexts, while increasing energy sovereignty and reducing emissions.
+DAI is supporting a regional approach to support the transition towards sustainable, low-carbon, and climate-resilient development. The ultimate objective of the Clima-Med [project](https://www.climamed.eu) is to enhance the energy security and adaptive capacity of the partner countries, leading to more stable, efficient, competitive, and climate-resilient socioeconomic contexts, while increasing energy sovereignty and reducing emissions.
 
 ![climamed.jpg](/uploads/climamed.jpg)
 
@@ -34,7 +33,7 @@ DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-
 ### Select Results
 
 * Conducted training in three municipalities in Palestine on measurement, reporting, and verification of greenhouse gas mitigation, with the support of the Government of Sweden.  
-* Helped create a Donors Coordination Group to create synergy with international finance institutions and donors’ initiatives in the Middle East and North Africa, that have potential to support finance of projects identified in municipal Sustainable Energy Access and Climate Action Plans.
+* Helped create a Donors Coordination Group to create synergy with international finance institutions and donors’ initiatives in the Middle East and North Africa, that have the potential to support finance of projects identified in municipal Sustainable Energy Access and Climate Action Plans.
 * Approximately 70 municipalities from all seven countries covered by the project, have been supported in preparing their plans. Technical materials (i.e. manuals, e-learning tools, etc.) are being developed by the team. 
-* Provided Help Desk Services on regular basis to local authorities from the Maghreb and Mashreq project offices, to respond the demand for coaching cities along the preparation of their climate plans. 
-* Engaged more than 20 municipalities from in a tree planting awareness campaign.
+* Provided Help Desk Services on a regular basis to local authorities from the Maghreb and Mashreq project offices, to respond to the demand for coaching cities along with the preparation of their climate plans. 
+* Engaged more than 20 municipalities in a tree planting awareness campaign.
