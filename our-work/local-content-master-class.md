@@ -15,16 +15,22 @@ In light of current circumstances, DAI will not be holding in-person Master Clas
  
 ### Online Training
 
-Our tailored online training brings you insight from our expert trainers working at the forefront of international development and local content policy. The full-day training modules involve interactive workshop activities, networking opportunities, and local content skills building.
+Our tailored online training brings you insight from our expert trainers working at the forefront of international development and local content policy. The full-day modules involve interactive workshop activities, networking opportunities, and local content skills building.
 
 Contact training@dai.com for pricing and registration.
  
 Upcoming Sessions:
 
-* **Module 1:** Local Content Strategy and Policy Training–September 22 (GMT)
-* **Module 2:** Local Content Forecasting, Plans and Procurement Tactics–September 23 (GMT)
-* **Module 3:** Local Content Reporting, Impact Measurement, and Communications—September 24 (GMT)
-* **Module 4:** Local Content Investments: Supplier and Workforce Development—September 25 (GMT)
+**Local Content** (Central African Time)
+* Date and Time: October 6–9, (9am-5pm Monday–Wednesday and 9am-3pm Thursday), presented in Portuguese
+ 
+**Persian Gulf and Middle East** (Gulf Standard Time)
+* Date and Time: October 26-29, (9am-5pm Monday-Wednesday and 9am–3pm Thursday)
+
+* **Module 1:** Local Content Strategy and Policy Training.
+* **Module 2:** Local Content  Forecasting, Plans, and Procurement Tactics. 
+* **Module 3:** Local Content Reporting, Impact Measurement, and Communications.
+* **Module 4:** Local Content Investments: Supplier and Workforce Development.
 
 View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-TrainingCatalogue_2020.pdf)
 
