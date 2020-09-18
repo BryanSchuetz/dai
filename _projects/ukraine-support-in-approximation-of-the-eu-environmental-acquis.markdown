@@ -23,7 +23,7 @@ Hence, Ukraine’s ongoing reform agenda is fully aligned with and facilitated b
 
 The signing of the Association Agreement between Ukraine and the European Union and its member states opened up new implementation opportunities to environmental standards. Implementation of EU legislation in Ukraine environmental protection occurs within eight sectors and is governed by 29 sources of law (Directives and the EU Regulations) establishing common rules and standards to be reflected in domestic law.
 
-The EuropeAid project, Support to Ukraine in Approximation of the EU Environmental Acquis (air quality and waste management), led by DAI’s Human Dynamics, aims to effectively raise Ukrainian public authorities' capacities in designing and implementing key reforms stemming from the Association Agreement and the Deep and Comprehensive Free Trade Area, including the capacity to carry out legal approximation process with the EU.
+The EuropeAid project, Support to Ukraine in Approximation of the EU Environmental Acquis (air quality and waste management) aims to effectively raise Ukrainian public authorities' capacities in designing and implementing key reforms stemming from the Association Agreement and the Deep and Comprehensive Free Trade Area, including the capacity to carry out legal approximation process with the EU.
 
 ![140198 Ukraine Environmental Acquis Website Project Profile PICTURE.jpg](/uploads/140198%20Ukraine%20Environmental%20Acquis%20Website%20Project%20Profile%20PICTURE.jpg)
 
