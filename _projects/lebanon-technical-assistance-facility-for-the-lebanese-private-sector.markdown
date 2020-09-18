@@ -1,10 +1,10 @@
 ---
 title: Lebanon—Technical Assistance Facility for the Lebanese Private Sector
 date: 2020-04-20 10:42:00 Z
-summary: The Technical Assistance Facility for the Lebanese private sector, led by
-  DAI’s Human Dynamics, contributes to the expansion and diversification of Lebanon's
-  economy through the modernisation of the private sector and the promotion of trade,
-  entrepreneurship, and innovation by fostering growth and job.
+summary: The Technical Assistance Facility for the Lebanese private sector contributes
+  to the expansion and diversification of Lebanon's economy through the modernisation
+  of the private sector and the promotion of trade, entrepreneurship, and innovation
+  by fostering growth and job.
 start: 2020
 end: 2022
 client: European Union
@@ -18,11 +18,11 @@ Lebanon has the opportunity to unlock the potential of its private sector, as th
 
 The main potential of the Lebanese private sector lies in innovative entrepreneurship that has started to be unlocked as a pillar of growth and development. 
 
-The EuropeAid project Technical Assistance Facility for the Lebanese private sector, led by DAI’s Human Dynamics, contributes to the expansion and diversification of Lebanon's economy through the modernisation of the private sector and the promotion of trade, entrepreneurship, and innovation by fostering growth and job.
+The EuropeAid project Technical Assistance Facility for the Lebanese private sector contributes to the expansion and diversification of Lebanon's economy through the modernisation of the private sector and the promotion of trade, entrepreneurship, and innovation by fostering growth and job.
 
 ![Devs -- LIVCD Honey pic 2.jpg](/uploads/Devs%20--%20LIVCD%20Honey%20pic%202.jpg)
 
 ### Sample Activities
 
-* Improve entrepreneurs' skills, innovation and ensuring linkages between companies.
-* Increase Lebanon's compliance with international requirements and standards, with a special focus on areas of interest such as Sanitary and Phytosanitary Standards (SPS) and other technical standards as well as access of pharmaceutical products to the EU market.
+* Improve entrepreneurs' skills, innovation, and ensuring linkages between companies.
+* Increase Lebanon's compliance with international requirements and standards, with a special focus on areas of interest such as sanitary and phytosanitary standards and other technical standards as well as access of pharmaceutical products to the EU market.
