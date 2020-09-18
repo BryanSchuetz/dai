@@ -1,9 +1,9 @@
 ---
 title: Nigeria—Value Chain Analysis of Energy Sector
 date: 2017-08-24 16:14:00 Z
-summary: The Sustainable Business Group provided technical and project advisory support
-  to NDPI’s initiative to attract investment in small-scale power generation and energy
-  access solutions.
+summary: The Niger Delta Partnership Initiative Foundation (NDPI)’s 2016 Electricity
+  Value Chain Study is the culmination of three years of work between DAI and NDPI/Foundation
+  for Partnership Initiatives in the Niger Delta (PIND)
 start: 2014
 end: 2016
 client: Niger Delta Partnership Initiative Foundation
@@ -14,6 +14,8 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The Sustainable Business Group provided technical and project advisory support to the Niger Delta Partnership Initiative Foundation (NDPI)’s initiative to attract investment in small-scale power generation and energy access solutions. 
+The Niger Delta Partnership Initiative Foundation (NDPI)’s 2016 Electricity Value Chain Study is the culmination of three years of work between DAI and NDPI/Foundation for Partnership Initiatives in the Niger Delta (PIND). In 2016 DAI’s Sustainable Business Group (SBG) took charge of leading the value chain study. The previous work done with NDPI in 2014-2016 sought to determine the existence and then identify areas of opportunities in the Niger Delta Power sector for NDPI/PIND interventions. 
 
-Working closely with NDPI and Chevron staff, the SBG team conducted a value chain analysis of the Nigerian electricity sector to understand the potential for electricity distribution projects in underserved and off-grid areas. The analysis identified three sites for prospective investment using political economy, cost, and economic analyses, and developed detailed investor briefings for each of the three identified sites. The report provided detailed financial modeling of recommended project types; analyzed peak and potential loads; described consumers’ willingness and ability to pay; and explained the relevant policy, regulatory, and financing requirements. These documents outlined the business case for well-defined, small-scale projects, as well as helped investors understand the current landscape in Nigeria for distributed power investments.
+Beginning in 2015 SBG began analyzing constraints within the sector, mapping solutions, and packaging targeting investment opportunities in the Niger Delta that could catalyze broad-based economic growth. The 2016 study contained three key aspects, cluster power demand analysis, creation of Investor Pitch Books, and key recommendations on outreach initiatives. The cluster power demand analysis consists of micro and macroeconomic components that look to assess the viability of clusters shortlisted in the previous studies. The microeconomic assessment consisted of household and enterprise surveys to understand access, provision cost, consumption, and demand for electricity usage. The microeconomic assessments also consisted of an analysis of business activity in each cluster, including profitability, linkages, ownership structure, and firm size. The macroeconomic assessment required an analysis of national and international data to garner whether macroeconomic conditions would strengthen or weaken the argument for investment in the selected areas.
+
+A synthesis of these assessments was used to create a Demand Diagnostic Analysis. This analysis considered the willingness to pay for electrical power, projections of future demand, and viability of investment for each cluster. Taking the information garnered from the demand analysis, SBG developed pitch books for investors, which included an analysis of financing mechanisms, lists of potential partners, and generation options (diesel, liquified natural gas, alternative energy such as solar), and provided a breakdown of the clusters political and regulatory framework. For the outreach initiatives, SBG engaged a variety of external organizations and individuals to pitch prospective investment opportunities.  
