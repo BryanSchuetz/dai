@@ -14,7 +14,7 @@ regions: Eastern Europe and Central Asia
 country: Pakistan
 ---
 
-DAI’s [Human Dynamics](https://www.dai.com/news/dai-acquires-leading-european-development-consultancy-human-dynamics) supports the Government of Khyber Pakhtunkhwa in implementing the Community Driven Local Development (KP-CDLD) Programme in the 13 districts of the province of Pakistan. The programme works to build the responsiveness and effectiveness of the province’s administration to restore citizen trust; stimulate employment and livelihood opportunities; and ensure delivery of basic services. 
+DAI supports the Government of Khyber Pakhtunkhwa in implementing the Community Driven Local Development (KP-CDLD) Programme in the 13 districts of the province of Pakistan. The programme works to build the responsiveness and effectiveness of the province’s administration to restore citizen trust; stimulate employment and livelihood opportunities; and ensure delivery of basic services. 
 
 By following a decentralized and bottom-up approach, the province aims to achieve sustainable improvement in the coverage and quality of frontline service delivery through actively involving local communities. The European Union supports the government by providing budget support and funding this [technical assistance project](http://www.cdldta.pk/) as a complementary measure to build capacities on provincial, district, and town levels with regard to policy review and feedback, public financial management, procurement and contract management, communication and visibility, engineering standards, and monitoring and evaluation.
 
@@ -28,8 +28,8 @@ By following a decentralized and bottom-up approach, the province aims to achiev
 
 ### Select Results
 
-* Advised and supported district administrations in the selection of 4,320 community projects (on road access, agriculture, irrigation services and water supply) that have been approved and found eligible for funding and implementation. Of the approved projects, 826 were prepared by women.
+* Advised and supported district administrations in the selection of 4,320 community projects (on-road access, agriculture, irrigation services and water supply) that have been approved and found eligible for funding and implementation. Of the approved projects, 826 were prepared by women.
 * Revised the 2019 CDLD Policy Implementation Procedures and printed and distributed 1,500 copies of the document among all stakeholders including provincial and district offices.
 * Conducted high-level EU missions in Chitral, Dir Lower, Haripur, Nowshera and Swabi to inspect small infrastructure facilities related to water supply, road construction and irrigation, and assessed the quality of local projects. 
 * Facilitated a “CDLD Experience Sharing Workshop” in Swat with stakeholders and partners to exchange experiences and build connections for increased collaboration and continuous learning.
-* Supported the Government of Khyber Pakhtunkhwa with implementation of COVID-19 response actions—prepared needs assessment of health facilities in the districts covered by the programme and helped the COVID-19 response of the government, identifying poor and  vulnerable families eligible for cash assistance.
+* Supported the Government of Khyber Pakhtunkhwa with the implementation of COVID-19 response actions—prepared needs assessment of health facilities in the districts covered by the programme and helped the COVID-19 response of the government, identifying poor and vulnerable families eligible for cash assistance.
