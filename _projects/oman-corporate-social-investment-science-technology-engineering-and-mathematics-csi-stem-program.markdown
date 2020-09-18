@@ -17,7 +17,7 @@ DAI’s Sustainable Business Group (SBG) is designing and implementing a flagshi
 
 The STEMAzone will be national in scope and implemented in partnership with the Oman Children’s Museum. Under this partnership, Oman’s Children Museum would serve as the anchor location in Muscat for the initiative, hosting visitors from the public and schools interested in engaging in STEAM-related activities, including coding, robotics, 3D printing, and more. Due to the COVID-19 pandemic, the project pivoted to a hybrid model combining in-person and virtual activities. The Virtual STEMAzone will feature online webinars and courses on a range of topics, accessible for free to students across Oman.
 
-## Sample Activities
+### Sample Activities
 
 * Spark interest in and passion for STEAM fields within Omani youth.
 * Equip Omani youth with the skills they need to engage in and benefit from the modern economy.
