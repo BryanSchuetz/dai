@@ -1,6 +1,7 @@
 ---
 title: Mauritania—Oil and Gas 101
 date: 2020-01-16 16:42:00 Z
+published: false
 summary: 'DAI’s Sustainable Business Group (SBG) provided oil and gas awareness training
   in Mauritania. '
 start: 2018
