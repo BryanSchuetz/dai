@@ -2,9 +2,9 @@
 title: Uganda—Developing Market-Oriented and Environmentally Sustainable Beef Meat
   Industry
 date: 2020-04-29 10:40:00 Z
-summary: This European Union (EU)-funded programme, led by DAI’s Human Dynamics, contributes
-  to a competitive, profitable, job-intensive, gender-responsive, and environmentally
-  sustainable agricultural sector in Uganda.
+summary: This European Union (EU)-funded programme contributes to a competitive, profitable,
+  job-intensive, gender-responsive, and environmentally sustainable agricultural sector
+  in Uganda.
 start: 2017
 end: 2021
 client: European Union
@@ -14,7 +14,7 @@ regions: Sub-Saharan Africa
 country: Uganda
 ---
 
-This European Union (EU)-funded programme, led by DAI’s Human Dynamics, contributes to a competitive, profitable, job-intensive, gender-responsive, and environmentally sustainable agricultural sector in Uganda. Our team uses a value chain approach in targeted areas to boost the overall performance—such as production volume, quality, value addition, increased employment, and environmental sustainability—of the meat sector.
+This European Union (EU)-funded programme contributes to a competitive, profitable, job-intensive, gender-responsive, and environmentally sustainable agricultural sector in Uganda. Our team uses a value chain approach in targeted areas to boost the overall performance—such as production volume, quality, value addition, increased employment, and environmental sustainability—of the meat sector.
 
 We bring together public and private players with smallholder farmers and beef-related agriculture firms to promote an environmentally sustainable, climate-resilient, low-emission, local, and regional meat industry. 
 
@@ -30,8 +30,8 @@ We bring together public and private players with smallholder farmers and beef-r
 
 * Delivered six Regulatory Impact Assessments with suggested actions and amendments in national regulations on animal feeds, veterinary practitioners, meat sector development, livestock identification and traceability, animal breeding, and animal disease control. 
 * Took an active part in the review of the Agricultural Sector Support Plan and the development of a sectorial plan for the beef industry in Uganda.
-* Benchmarking trip to Botswana conducted with government representatives and participants from the beef industry in Uganda to learn about sustainable business planning, vet services, vaccine production and commercial farm operations provided by local meat commission and community livestock holdings. 
+* Benchmarking trip to Botswana conducted with government representatives and participants from the beef industry in Uganda to learn about sustainable business planning, vet services, vaccine production, and commercial farm operations provided by local meat commission and community livestock holdings. 
 * Provided technical assistance for the evaluation of bidders of the Sanga slaughterhouse in Uganda. The new facility is compatible with sustainable farming standards.
-* Service contract for the development of a Residual Monitoring Plan for beef, goat, and sheep meat completed and presented at a stakeholder workshop with beneficiaries from Ugandan Government. 
+* Service contract for the development of a Residual Monitoring Plan for beef, goat, and sheep meat completed and presented at a stakeholder workshop with beneficiaries from the Ugandan Government. 
 * Provided technical support in developing environmentally sustainable criteria and specifications for the purchase of bulls in Kenya for breeding purposes.
 * Participated in an EU beach clean-up event at the Masese Landing Site in Jinja, Uganda.
