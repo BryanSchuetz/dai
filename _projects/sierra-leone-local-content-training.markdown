@@ -4,7 +4,7 @@ date: 2017-08-24 15:56:00 Z
 summary: For nearly two years, the Sustainable Business Group’s Local Content Plan
   and Reporting online platform has been in operation in Sierra Leone. 
 start: 2016
-end: 2018
+end: 2020
 client: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 solutions:
 - Sustainable Business
@@ -16,6 +16,8 @@ promos:
   link: http://awoko.org/2017/07/11/sierra-leone-news-companies-trained-to-report-on-local-content-compliance/
 ---
 
-For nearly two years, the Sustainable Business Group’s Local Content Plan and Reporting online platform has been in operation in Sierra Leone. The government’s local content regulator uses the platform to meet its obligations under the Local Content Agency Act (LCAA 2016) to track local content performance in the mining, manufacturing, ICT, agriculture, banking, and hospitality sectors. 
+In accordance with the provisions of the Sierra Leone Local Content Agency Act of 2016, the Sierra Leone Local Content Agency (LCA) uses the Sustainable Business Group (SBG)’s Local Content Plan and Reporting online platform to enable Sierra Leonean companies to report their local content performance data. DAI configured the software, then trained 50 companies and the regulator in the use of the portal. 
 
-Company scorecards, rating their progress in meeting targets, for 2016 have been generated the first wave of 12 companies, and the inaugural annual local content performance report was delivered to the Ministry of Trade and Industry. With technical assistance from GIZ, the German aid agency, more than 50 companies and the regulatory authority have now been trained by SBG in use of the platform. The platform is now also used by the private companies in Sierra Leone that aim to fully comply with the requirements of LCAA 2016.
+In November 2019, GIZ and the LCA engaged SBG for a second contract, to improve the reporting compliance and quality of the companies covered by the LCA’s mandate. In addition to the software subscription, SBG provides user support, training, and guidance to 36 companies operating in a wide variety of sectors: agriculture, banking, hospitality, ICT, insurance, logistics and transport, manufacturing, mining, oil, gas, and services. 
+
+Thorough SBG’s efforts, compliance and data reporting have increased through 2020, enabling the generation of insightful semi-annual analytical local content reports for the LCA. 
