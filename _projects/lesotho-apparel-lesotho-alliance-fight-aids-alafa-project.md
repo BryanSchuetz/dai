@@ -1,11 +1,9 @@
 ---
 title: Lesotho—Apparel Lesotho Alliance to Fight Aids (ALAFA) Project
 date: 2016-01-21 22:40:00 Z
-summary: 'The apparel industry is Lesotho''s largest private sector employer with
-  approximately 46,000 people employed. In 2005, it was estimated that one third,
-  or 15,000, of these workers were HIV positive.
-
-'
+summary: The apparel industry is Lesotho's largest private sector employer with approximately
+  46,000 people employed. In 2005, it was estimated that one third, or 15,000, of
+  these workers were HIV positive.
 start: 2005
 end: 2007
 client: U.K. Department for International Development
