@@ -43,6 +43,16 @@ Watch the video to learn more about the project's impact: <iframe src="https://p
 
 ### Select Results
 
+* Provided 461 businesses with assistance, compared to a target of 400.
+* Helped 24 percent of supported businesses move to the next level of enterprise size (for example to advance from small- to medium- size business).
+* Assisted 50 percent of all supported businesses to increase their revenues by 338 percent on average within two years assistance.
+* Facilitated new or better employment for 19,869 women.
+•	13,525 women received a 10 percent or greater improvement in wages or income compared to a target of 12,600 women.
+•	10,775 women participated in activity-supported apprenticeships or internships compared to a target of 9,500 women.
+•	3 gender-sensitive policies, regulations, or reforms developed to assist women in the economy.
+•	5,882 men and women received gender-sensitivity training compared to a target of 5,000 beneficiaries.
+
+
 * Supported partner [AlemHealth](https://www.alemhealth.com/) to provide e-learning training on COVID-19 testing and care to 582 health workers (of which 314 women completed a post-test to qualify to diagnose COVID-19). AlemHealth also developed a triage phone center and app; 4,100 citizens registered their symptoms.
 * Awarded scholarships to more than 14,733 women to train in information technology, healthcare, retail sales, customer service, and other areas. 
 * Placed 12,000 interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers) and education—sectors critical to Afghans' well-being.
