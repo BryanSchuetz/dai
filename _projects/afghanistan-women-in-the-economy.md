@@ -33,7 +33,8 @@ WIE supported women ages 18 and above to find new or better jobs through job ski
 
 Consortium partners included RSI Consulting (monitoring and evaluation) and the Thunderbird School of Global Management at Arizona State University.
 
-Watch the video to learn more about the project's impact: <iframe src="https://player.vimeo.com/video/460701114" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Watch the video to learn more about the project's impact: 
+<iframe src="https://player.vimeo.com/video/460701114" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
 
