@@ -1,7 +1,7 @@
 ---
 title: Mexico—Prosperity Fund Mexico Energy Programme
 date: 2019-03-14 20:59:00 Z
-summary: The U.K. Foreign, Commonwealth and Development Office (FCDO) aims to promote
+summary: The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote
   energy-driven low-carbon growth, reducing poverty and generating new market opportunities
   for symbiotic U.K. partnerships and investments. The Mexico Energy programme focuses
   on gender-inclusive interventions in workforce development, supply chain integration,
@@ -17,7 +17,7 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The U.K. Foreign, Commonwealth and Development Office (FCDO) aims to promote energy-driven low-carbon growth, reducing poverty and generating new market opportunities for symbiotic U.K. partnerships and investments.
+The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reducing poverty and generating new market opportunities for symbiotic U.K. partnerships and investments.
 
 DAI will help the FCDO achieve its vision by designing and implementing three enterprise development centres, drawing from similar projects in Canada, [Ghana](https://www.dai.com/our-work/projects/ghana-local-content-training), [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), Mozambique, Oman, Suriname, and [Trinidad and Tobago](https://www.dai.com/our-work/projects/trinidad-and-tobago-local-content-study). The locally run centres will leverage local content in the Mexican energy sector to create sustainable energy practices and foster cross-sectoral socioeconomic development. Gender inclusion and sustainability will inform all programme activities.
 

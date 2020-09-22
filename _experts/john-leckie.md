@@ -21,7 +21,7 @@ articles:
 layout: expert
 ---
 
-John Leckie is a land rights and natural resource governance professional with more than 19 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. He has worked for a diverse range of clients, including the Foreign, Commonwealth and Development Office (FCDO), the Millennium Challenge Corporation, the U.S. Agency for International Development, the European Commission (EC), the Pan American Health Organization, the Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food and Rural Affairs, and various nonprofits.
+John Leckie is a land rights and natural resource governance professional with more than 19 years of international project experience in Europe, Africa, Central and Southeast Asia, and South America. He has worked for a diverse range of clients, including the Foreign, Commonwealth & Development Office (FCDO), the Millennium Challenge Corporation, the U.S. Agency for International Development, the European Commission (EC), the Pan American Health Organization, the Food and Agriculture Organization, UNHCR, the U.K. Department for Environment, Food and Rural Affairs, and various nonprofits.
  
 His training in land use planning and extensive experience in land registration projects give John a sound understanding of land governance issues. John has expertise in land tenure regularisation, land administration, geographic information systems (GIS), and participatory tenure and resource mapping, including the use of “crowd-sourcing” techniques.
  

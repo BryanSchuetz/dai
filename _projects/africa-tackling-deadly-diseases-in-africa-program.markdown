@@ -19,7 +19,7 @@ promos:
   link: "/uploads/TDDAP_2-pager_FRENCH_May19.pdf"
 ---
 
-Funded with UK aid from the UK government, the Foreign, Commonwealth and Development Office (FCDO) flagship  programme, Tackling Deadly Diseases in Africa (TDDAP) aims to save lives and improve global health security by reducing the impact of disease outbreaks, epidemics, and other public health threats across sub-Saharan Africa. 
+Funded with UK aid from the UK government, the Foreign, Commonwealth & Development Office (FCDO) flagship  programme, Tackling Deadly Diseases in Africa (TDDAP) aims to save lives and improve global health security by reducing the impact of disease outbreaks, epidemics, and other public health threats across sub-Saharan Africa. 
 
 TDDAP includes three components: 
 
@@ -47,5 +47,5 @@ The DAI-led component also includes an Emergency Response Mechanism for strength
 * Capture Gender Equality and Social Inclusion (GESI)/disability sensitive information, such as the number of facilities where GESI data has been collected.
 * Develop emergency response mechanisms that fill a critical gap at the sub-national level related to community engagement for preparedness and response.
 * Build on digital platforms such as IntraHealth’s [mHero technology](https://www.mhero.org/about) to connect data from existing health information systems to allow for real-time communication during crises.
-* Provide global stakeholders, such as the Foreign, Commonwealth and Development Office (FCDO), with prompt, evidence-based information to support resource allocation decisions, with flexible standby teams of emergency response specialists mobilizing in-country in the event of a pre-crisis outbreak.
+* Provide global stakeholders, such as the Foreign, Commonwealth & Development Office (FCDO), with prompt, evidence-based information to support resource allocation decisions, with flexible standby teams of emergency response specialists mobilizing in-country in the event of a pre-crisis outbreak.
 * Access pre-approved suppliers to mobilise quickly where needed.

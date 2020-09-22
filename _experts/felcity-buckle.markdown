@@ -16,7 +16,7 @@ regions:
 
 Felicity Buckle coordinates DAI’s land portfolio across a variety of donors, supporting business development and programme management teams. She has technical expertise in women’s land rights and land governance.
 
-Felicity’s geographical focus is Eastern and Southern Africa, where she has provided technical input on programmes funded by the European Union and the former U.K. Department for International Development (now Foreign, Commonwealth and Development Office) in Ethiopia and Malawi. She also supports research on land tenure reform, social protection, and resilience.
+Felicity’s geographical focus is Eastern and Southern Africa, where she has provided technical input on programmes funded by the European Union and the former U.K. Department for International Development (now Foreign, Commonwealth & Development Office) in Ethiopia and Malawi. She also supports research on land tenure reform, social protection, and resilience.
 
 * M.Sc., managing rural development, University of London
 * B.A., philosophy, University of Birmingham

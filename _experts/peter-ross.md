@@ -16,7 +16,7 @@ regions:
 layout: expert
 ---
 
-Peter Ross has been a permanent member of staff for 25 years. A member of the project management team, he is responsible for planning and managing our current long-term Foreign, Commonwealth and Development Office (FCDO)-funded programmes in Malawi, Nigeria, and Zimbabwe. Peter has 35 years of experience planning, managing, monitoring, and evaluating rural development programmes in Europe, Central and South Asia, the Horn of Africa, and West and Southern Africa.
+Peter Ross has been a permanent member of staff for 25 years. A member of the project management team, he is responsible for planning and managing our current long-term Foreign, Commonwealth & Development Office (FCDO)-funded programmes in Malawi, Nigeria, and Zimbabwe. Peter has 35 years of experience planning, managing, monitoring, and evaluating rural development programmes in Europe, Central and South Asia, the Horn of Africa, and West and Southern Africa.
 
 These projects have included work in agricultural extension, small-scale irrigation development, governance, and institutional change.
 

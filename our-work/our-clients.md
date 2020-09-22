@@ -14,7 +14,7 @@ In 1973, we won our first contract with USAID to analyze 36 projects in Latin Am
 
 <iframe src="/extras/maps/usaid" frameborder="0"></iframe>
 
-## Foreign, Commonwealth and Development Office (FCDO)
+## Foreign, Commonwealth & Development Office (FCDO)
 
 Since 2000, DAI has worked with FCDO in scores of countries on three continents. As one of FCDO’s Key Suppliers, DAI is committed to achieving outstanding development results that represent demonstrable value for our client.
 

@@ -19,7 +19,7 @@ country:
 layout: project
 ---
 
-Enterprise Partners is the major component of the Foreign, Commonwealth and Development Office (FCDO)'s Private Enterprise Programme Ethiopia (PEPE). Enterprise Partners facilitates agro-industrial growth and enables access to finance. Our work will result in job and income opportunities and increased stability for poor people, particularly women. The planned impact is to create 45,000 jobs (75 percent for women) and increase incomes for 65,000 poor households.
+Enterprise Partners is the major component of the Foreign, Commonwealth & Development Office (FCDO)'s Private Enterprise Programme Ethiopia (PEPE). Enterprise Partners facilitates agro-industrial growth and enables access to finance. Our work will result in job and income opportunities and increased stability for poor people, particularly women. The planned impact is to create 45,000 jobs (75 percent for women) and increase incomes for 65,000 poor households.
 
 DAI implements this work with consortium partners First Consult (Ethiopia), Itad (United Kingdom), Enclude (Netherlands), and BCaD. We utilize the [market systems approach](https://www.dai.com/news/new-primer-market-systems-development-available) to achieve the impact. Enterprise Partners identifies key constraints and develops socially and environmentally responsible strategies, working with industry actors to introduce new business models. This is leading to a better business enabling environment and investment generation in Ethiopia.
 

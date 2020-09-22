@@ -19,7 +19,7 @@ country:
 layout: project
 ---
 
-This project is part of DAI's framework contract with the Foreign, Commonwealth and Development Office (FCDO) and is being implemented by Nathan Associates UK. DAI is consulting with the project on aspects of climate resilience.
+This project is part of DAI's framework contract with the Foreign, Commonwealth & Development Office (FCDO) and is being implemented by Nathan Associates UK. DAI is consulting with the project on aspects of climate resilience.
 
 FCDO Ghana's Operational Plan proposes a focus on the North of Ghana to help bridge the development gap between the south and north of the country. As a Making Markets Work for the Poor (M4P) program, [MADE](https://beamexchange.org/practice/programme-index/1/) is expected to improve the incomes and resilience of poor farmers and small-scale rural entrepreneurs in the Northern Savannah, with a particular focus on agricultural value chains (the full range of activities that bring a crop to the consumer).
 

@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Ethiopia
 ---
 
-The Foreign, Commonwealth and Development Office (FCDO) is providing funding to strengthen the economies of host and refugee populations in three regions in Ethiopia; Dolo, Gambella, and Jijiga. The SHARPE programme aims to increase economic opportunities and support livelihoods in these regions.
+The Foreign, Commonwealth & Development Office (FCDO) is providing funding to strengthen the economies of host and refugee populations in three regions in Ethiopia; Dolo, Gambella, and Jijiga. The SHARPE programme aims to increase economic opportunities and support livelihoods in these regions.
 
 Through the innovative use of an adapted market systems development approach, SHARPE works to inclusively and sustainably empower refugees and host communities to become more economically resilient.
 

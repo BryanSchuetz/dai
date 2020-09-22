@@ -11,7 +11,7 @@ solutions:
 - Energy
 ---
 
-Chris Rose is a Senior Development Specialist with our Europe office’s Energy, Environment, and Climate Change practice. He has experience providing technical expertise on programmes funded by the Foreign, Commonwealth and Development Office (FCDO) and the European Commission, and supports business development and programme management across all donors in the fields of climate change, environment, and renewable energy.
+Chris Rose is a Senior Development Specialist with our Europe office’s Energy, Environment, and Climate Change practice. He has experience providing technical expertise on programmes funded by the Foreign, Commonwealth & Development Office (FCDO) and the European Commission, and supports business development and programme management across all donors in the fields of climate change, environment, and renewable energy.
 
 Having cut his teeth as a project manager in the Livelihoods Resource Centre in 2007, managing a number of projects, Chris now focuses on one access to energy, most notably playing a key role in the implementation of the first stage of the UKaid off-grid solar focussed Energy Africa Campaign.
 

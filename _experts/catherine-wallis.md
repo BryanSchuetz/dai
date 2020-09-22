@@ -21,7 +21,7 @@ Catherine Wallis has worked in international development for 14 years  with publ
 
 She has experience in working with smallholder farmers and communities in fragile environments in Africa and Asia. Her expertise lies in climate resilience and risk management, climate smart agriculture, ecosystem-based approaches, and adaptive social protection.
 
-Catherine is involved in multiple aspects of proposal development efforts including technical content, team set up, and financial offers. She also provides peer review guidance to the in-house framework and call-down contracts with the Foreign, Commonwealth and Development Office (FCDO) and the European Union relating to climate adaptation and resilience building.
+Catherine is involved in multiple aspects of proposal development efforts including technical content, team set up, and financial offers. She also provides peer review guidance to the in-house framework and call-down contracts with the Foreign, Commonwealth & Development Office (FCDO) and the European Union relating to climate adaptation and resilience building.
 
 Catherine has authored business case appraisals for UKaid, World Bank, and bilateral donors on agricultural livelihoods (Bangladesh, Haiti), forest resources management (Tanzania, Malawi), social protection (Uganda), and climate adaptation (New Caledonia, Vietnam). She has led or contributed to evaluation assessments of biodiversity conservation (Ivory Coast, the Mediterranean region) and disaster rehabilitation programmes (India).
 

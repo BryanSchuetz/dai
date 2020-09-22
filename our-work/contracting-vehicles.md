@@ -37,7 +37,7 @@ layout: node
 
 * International, Technical, Operational, Professional Support Services (ITOPSS) (2018–2023)
 
-# U.K. Foreign, Commonwealth and Development Office (FCDO)
+# U.K. Foreign, Commonwealth & Development Office (FCDO)
 
 * [Conflict Stability and Security Fund Framework  (CSSF) (2018-2020)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
 * Prosperity Fund Framework (2017-2019)
