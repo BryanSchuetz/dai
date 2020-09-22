@@ -1,9 +1,9 @@
 ---
 title: 'Afghanistan—Promote: Women in the Economy (WIE)'
 date: 2016-01-21 22:40:00 Z
-summary: 'The USAID Promote: Women in the Economy program is bolstering women’s inclusion
-  in Afghanistan’s mainstream economy and reinforcing and advancing progress made
-  by Afghan women over the past decade.'
+summary: 'The USAID Promote: Women in the Economy program bolstered women’s inclusion
+  in Afghanistan’s mainstream economy and reinforced and advanced progress made by
+  Afghan women over the past decade.'
 start: 2015
 end: 2020
 client: U.S. Agency for International Development
@@ -25,15 +25,15 @@ country:
 layout: project
 ---
 
-The U.S. Agency for International Development’s Promote: Women in the Economy (WIE) program is [bolstering women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce?utm_source=daidotcom) in Afghanistan’s economy and working to ensure that progress made by Afghan women over the past decade endures and advances.
+The U.S. Agency for International Development’s Promote: Women in the Economy (WIE) program [bolstered women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce?utm_source=daidotcom) in Afghanistan’s economy and worked to ensure that progress made by Afghan women over the past decade endures and advances.
 
-WIE works across 30 Afghan provinces from its offices based in five economic zones. The program [assists women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY) and businesses that employ at least 30 percent women to improve performance, income growth, and sustainability. To this end, WIE delivers technical assistance, industry-specific business skills training, and access to finance and markets to leverage growth in the private sector.
+WIE worked across 30 Afghan provinces from its offices based in five economic zones. The program [assisted women-owned businesses](https://www.youtube.com/watch?v=vERAa1RX3cY) and businesses that employ at least 30 percent women to improve performance, income growth, and sustainability. To this end, WIE delivered technical assistance, industry-specific business skills training, and access to finance and markets to leverage growth in the private sector.
 
-WIE supports women ages 18 and above to find new or better jobs through job skills training based on market demand, and work experience placements in internships, apprenticeships, and on the job training activities. The program gives Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
+WIE supported women ages 18 and above to find new or better jobs through job skills training based on market demand, and work experience placements in internships, apprenticeships, and on-the-job training activities. The program gave Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
 
-Consortium partners include RSI Consulting (monitoring and evaluation) and the Thunderbird School of Global Management at Arizona State University.
+Consortium partners included RSI Consulting (monitoring and evaluation) and the Thunderbird School of Global Management at Arizona State University.
 
-![WIe.jpg](/uploads/WIe.jpg)
+Watch the video to learn more about the project's impact: <iframe src="https://player.vimeo.com/video/460701114" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -54,3 +54,5 @@ Consortium partners include RSI Consulting (monitoring and evaluation) and the T
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue in support of women's inclusion.
 * Delivered gender sensitivity training to more than 5,800 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
 * Completed three policy reform initiatives addressing women’s inheritance rights, developing a roadmap to assist women’s businesses for government, the financial sector, and donors, and supporting the registration and licensing of female medical professionals. 
+
+![WIe.jpg](/uploads/WIe.jpg)
