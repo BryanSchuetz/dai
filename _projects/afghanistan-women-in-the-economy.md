@@ -44,25 +44,18 @@ Watch the video to learn more about the project's impact: <iframe src="https://p
 ### Select Results
 
 * Provided 461 businesses with assistance, compared to a target of 400.
-* Helped 24 percent of supported businesses move to the next level of enterprise size (for example to advance from small- to medium- size business).
 * Assisted 50 percent of all supported businesses to increase their revenues by 338 percent on average within two years assistance.
 * Facilitated new or better employment for 19,869 women.
-•	13,525 women received a 10 percent or greater improvement in wages or income compared to a target of 12,600 women.
-•	10,775 women participated in activity-supported apprenticeships or internships compared to a target of 9,500 women.
-•	3 gender-sensitive policies, regulations, or reforms developed to assist women in the economy.
-•	5,882 men and women received gender-sensitivity training compared to a target of 5,000 beneficiaries.
-
-
+* Supported apprenticeships or internships for 10,775 women.
+* Trained 5,882 men and women in gender-sensitivity skills.
 * Supported partner [AlemHealth](https://www.alemhealth.com/) to provide e-learning training on COVID-19 testing and care to 582 health workers (of which 314 women completed a post-test to qualify to diagnose COVID-19). AlemHealth also developed a triage phone center and app; 4,100 citizens registered their symptoms.
 * Awarded scholarships to more than 14,733 women to train in information technology, healthcare, retail sales, customer service, and other areas. 
-* Placed 12,000 interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers) and education—sectors critical to Afghans' well-being.
-* Helped more than 23,000 women get new or better jobs; 44 percent of women who receive WIE assistance find employment.
+* Placed interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers) and education—sectors critical to Afghans' well-being.
 * Assisted 330 young women to enter the banking sector by providing them on-the-job training and [internships](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) in microfinance institutions and commercial banks in major regional urban centers.
 * Facilitated access to finance and new markets to more than 400 women-owned businesses and businesses employing at least 30 percent women.
 * Twenty-five percent of WIE-assisted businesses moved to next level of enterprise size; and of the targeted 500 businesses assisted, 63 percent, or 252 businesses, achieved 40 percent or more revenue growth within two years of assistance.
 * Graduated 75 women-led startups—which have since created 200-plus new jobs—from business incubation support.
 * Worked with a media firm to [create a TV show](https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy?fbclid=IwAR0wOMiPzFr6P7AeDYqgvp_LY9pl8GGm2qpLkS-gSAWxaTBQAt3IGpZ58tU) designed to take on cultural norms and create dialogue in support of women's inclusion.
-* Delivered gender sensitivity training to more than 5,800 men and women in five regional hubs—Kabul, Jalalabad, Kandahar, Herat, and Mazar-i-Sharif.
 * Completed three policy reform initiatives addressing women’s inheritance rights, developing a roadmap to assist women’s businesses for government, the financial sector, and donors, and supporting the registration and licensing of female medical professionals. 
 
 ![WIe.jpg](/uploads/WIe.jpg)
