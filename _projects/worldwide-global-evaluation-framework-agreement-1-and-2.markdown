@@ -11,13 +11,13 @@ solutions:
 regions: Worldwide
 ---
 
-DAI Global Health is a prime contractor for the Global Evaluation Framework Agreement 2 (GEFA 2) for Lot 1, covering Impact Evaluation. GEFA 2 ensures the provision of efficient and effective expert services for the design and implementation of evaluations delivered by the former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office) and other government departments. With Triple Line, DAI Global Health conducted the project evaluation of the FCDO-funded Health Partnership Scheme Programme, culminating in a presentation of the final report at the October 2016 Tropical Health and Education Trust (THET) [Conference](http://globalhealth.org/event/thet-annual-conference-2016/).
+DAI Global Health was a prime contractor for the Global Evaluation Framework Agreement 2 (GEFA 2) for Lot 1, covering Impact Evaluation. GEFA 2 ensures the provision of efficient and effective expert services for the design and implementation of evaluations delivered by the former U.K. Department for International Development (now called Foreign, Commonwealth & Development Office) and other government departments. With Triple Line, DAI Global Health conducted the project evaluation of the FCDO-funded Health Partnership Scheme Programme, culminating in a presentation of the final report at the October 2016 Tropical Health and Education Trust (THET) [Conference](http://globalhealth.org/event/thet-annual-conference-2016/).
 
 All consortium partners provided technical assistance to support human development in the following areas: health, water supply, sanitation, social protection, and education. 
 
 This framework built upon its predecessor GEFA 1, through which Health Partners International supported the implementation of the Evaluation of Maternal Newborn and Child Health Programme in Zimbabwe and the Evaluation of the Health Partnership Scheme.
 
-GEFA 2 covers a range of geographic locations including fragile and conflicted-affected states.
+GEFA 2 covered a range of geographic locations including fragile and conflicted-affected states.
 
 ### Select Results
 
