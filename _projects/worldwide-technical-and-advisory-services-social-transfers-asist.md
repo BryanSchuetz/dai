@@ -21,7 +21,7 @@ promos:
 layout: project
 ---
 
-The Advisory Service in Social Transfers phase III programme (ASiST III) provides on-demand support to partner countries and European Union (EU) delegations in [addressing food security](https://www.dai.com/news/dais-asist-progamme-produces-documentary-on-food-security-in-madagascar) through national social transfer schemes. Funded by the European Commission’s Directorate General for Development and Cooperation and led by DAI, ASiST III has completed more than 100 assignments since 2015, examining the roles of public financial management, sustainable agriculture, rural development, and other factors in social transfer programmes and resilience to food crises.
+The Advisory Service in Social Transfers phase III programme (ASiST III) provides on-demand support to partner countries and European Union (EU) delegations in [addressing food security](https://www.dai.com/news/dais-asist-progamme-produces-documentary-on-food-security-in-madagascar) through national social transfer schemes. Funded by the European Commission’s Directorate General for Development and Cooperation and led by DAI, ASiST III has completed more than 170 assignments since 2015, examining the roles of public financial management, sustainable agriculture, rural development, and other factors in social transfer programmes and resilience to food crises.
 
 These services assist countries and EU delegations to maximise the impact of food security and social transfer programmes and to develop a graduation plan to move from short-term, emergency social transfers to systemic national safety net programmes. For country-specific requests, ASiST provides guidance throughout the project cycle management, including programme design and monitoring and evaluation. ASiST also provides technical assistance on strategic issues, such as building partnerships with other donors and projects and offering feedback on policy documents.
 
@@ -36,6 +36,7 @@ These services assist countries and EU delegations to maximise the impact of foo
 
 ### Select Results
 
-* Conducted more than 100 assignments and led missions to more than 30 countries in Africa, Asia, and Latin America.
+* Conducted more than 170 assignments and led missions to more than 30 countries in Africa, Asia, and Latin America.
 * Designed social transfer programmes for pregnant women and infants, resilience interventions, and nutrition workshops.
 * Advised on the use of cash-transfer safety net programmes as a means to bridge humanitarian interventions and development cooperation.
+* Advised extensively on budget support operations targeting food and nutrition security and sustainable agriculture.
