@@ -1,7 +1,6 @@
 ---
 title: Palestine—Technology for Youth and Jobs Project (TechStart)
 date: 2020-09-21 08:54:00 Z
-published: false
 summary: TechStart builds the capacity of Palestinian firms, strengthens demand from
   international buyers and investors, and stimulates the absorption of high-tech knowledge
   in the ecosystem.
