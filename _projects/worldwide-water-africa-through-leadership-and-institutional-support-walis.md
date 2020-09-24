@@ -19,6 +19,8 @@ promos:
   link: https://www.globalwaters.org/resources/blogs/walis/remote-sensing-power-senegals-water-use
 - title: Addressing Human Resource Gaps in the Sanitation Sector
   link: https://www.globalwaters.org/resources/assets/walis/addressing-human-resource-gaps-sanitation-sector
+- title: Strengthening Africa’s WASH Sector Capacity for Data-Driven Decision-Making
+  link: https://medium.com/usaid-global-waters/strengthening-africas-wash-sector-capacity-for-data-driven-decision-making-99c0c8caf6b
 redirect_from:
 - "/walis"
 layout: project
