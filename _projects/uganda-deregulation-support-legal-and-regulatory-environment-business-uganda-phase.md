@@ -1,19 +1,10 @@
 ---
 title: Uganda—Deregulation—Support to the Legal and Regulatory Environment for Business
   in Uganda (Phase I, II)
-<<<<<<< HEAD
 date: 2016-01-21 22:40:52.765000000 Z
 client: Foreign, Commonwealth & Development Office
-=======
-date: 2016-01-21 22:40:00 Z
-summary: Significant achievements have been made in the past decade in revitalizing
-  the Ugandan economy, but poverty levels remain high. The formal private sector has
-  grown, but still comprises a low proportion of the total economy, and its capacity
-  to grow further and faster is held back by weaknesses in the regulatory environment.
->>>>>>> 2533c509ca4114f3aaa5f1143fd02b8f8d3bdc71
 start: 2000
 end: 2007
-client: U.K. Department for International Development
 solutions:
 - Economic Growth
 - Institutional and Policy Reform
