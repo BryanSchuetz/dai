@@ -119,7 +119,7 @@ map.on('load', function(){
   // map.setLayoutProperty(['EC'], 'visibility', 'visible');
 });
 toggleLayer(['USAID'], 'USAID');
-toggleLayer(['DFID'], 'DFID');
+toggleLayer(['DFID'], 'FCDO');
 toggleLayer(['EU Donors'], 'European');
 
 function toggleLayer(ids, name) {
@@ -156,7 +156,7 @@ function toggleLayer(ids, name) {
 
 
 map.on('click', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['update-pins'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['json-pins'] });
 
     if (features.length) {
         map.flyTo({center: features[0].geometry.coordinates});
@@ -173,7 +173,7 @@ map.on('click', function (e) {
 });
 
 map.on('mousemove', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['update-pins'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['json-pins'] });
     map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 });
 </script>
