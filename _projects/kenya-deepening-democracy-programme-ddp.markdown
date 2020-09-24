@@ -6,7 +6,7 @@ summary: 'The Kenya Deepening Democracy Programme addressed recurring political 
   accountability. '
 start: 2016
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Institutional and Policy Reform

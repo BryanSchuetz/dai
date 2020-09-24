@@ -5,7 +5,7 @@ summary: 'The Health Pooled Fund, supported by multiple donors, focuses on succe
   strengthening health systems and delivering essential health services in South Sudan. '
 start: 2012
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 - Fragile States

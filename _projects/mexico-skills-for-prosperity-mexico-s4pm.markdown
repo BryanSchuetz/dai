@@ -5,7 +5,7 @@ summary: The Skills for Prosperity Mexico (S4PM) project works to prepare learne
   to go from the classroom to the workforce with the right skills for the marketplace.
 start: 2020
 end: 2023
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Education
 - Economic Growth

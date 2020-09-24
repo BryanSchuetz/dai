@@ -8,7 +8,7 @@ summary: 'The U.K. Department for International Development (DFID) leads a growi
 '
 start: 2016
 end: 2019
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Business Environment Reform
 - Economic Growth

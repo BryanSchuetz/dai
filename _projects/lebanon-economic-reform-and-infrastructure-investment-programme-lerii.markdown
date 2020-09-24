@@ -6,7 +6,7 @@ summary: 'LERII assists the Lebanese government in implementing key economic ref
   and ensures that such projects are successfully built and operated. '
 start: 2020
 end: 2024
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Business Environment Reform

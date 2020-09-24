@@ -6,7 +6,7 @@ summary: PMDP improved market systems and the competitiveness of the Palestinian
 start: 2013
 end: 2019
 client:
-- U.K. Department for International Development
+- Foreign, Commonwealth & Development Office
 - European Commission
 solutions:
 - Economic Growth

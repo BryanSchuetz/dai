@@ -6,7 +6,7 @@ summary: The Driver’s of Accountability Programme worked to address the issues
   2007–2008 in Kenya.
 start: 2010
 end: 2015
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States
 - Security and Justice

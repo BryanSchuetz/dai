@@ -5,7 +5,7 @@ summary: The Facility provides flexible, short-term, demand-driven support for p
   development and capacity building to the governments of Tajikistan and Kyrgyzstan.
 start: 2019
 end: 2023
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 regions: Eastern Europe and Central Asia

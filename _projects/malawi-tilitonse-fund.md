@@ -6,7 +6,7 @@ summary: The Tilitonse Fund was a multi-donor grants facility that supported Ma
   governance.
 start: 2011
 end: 2017
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Institutional and Policy Reform

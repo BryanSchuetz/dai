@@ -6,7 +6,7 @@ summary: Financial Sector Deepening Mozambique (FSDMoç) is a financial inclusio
   for 2 million individuals and 650 businesses in Mozambique by 2019.
 start: 2014
 end: 2021
-client: U.K. Department for International Development, Swedish International Development
+client: Foreign, Commonwealth & Development Office, Swedish International Development
   Cooperation Agency
 solutions:
 - Economic Growth

@@ -7,7 +7,7 @@ summary: Essor acts at meso (business associations) and macro (government) level
   areas, through reforms to the country’s investment climate and policies.
 start: 2015
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 regions: Sub-Saharan Africa

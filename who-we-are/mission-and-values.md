@@ -17,6 +17,6 @@ In everything we do, we live by four core values:
 * **Integrity**: we have an uncompromising commitment to civility and ethical behavior. We play by the rules and do the right thing.
 * **Responsibility**: we are accountable to our clients, our colleagues, and the communities where we work. If we fall short, we own up, fix the problem, and get it right the next time.
 * **Excellence**: we demand of ourselves the highest technical and professional standards. We celebrate innovation, learning, and service. We have an unwavering desire to “stretch,” as individuals and as an organization.
-* **Global Citizenship**: we are a global company with a global outlook. We depend on our diversity, respect the cultures in which we work, and treat everyone, everywhere with professionalism and dignity. We thrive on collaboration with our partners around the world, and share with them the hope that our work will leave the world a better place.
+* **Global Citizenship**: we are a global company with a global outlook. We depend on our diversity and inclusiveness, respect the cultures in which we work, and treat everyone, everywhere with professionalism and dignity. We thrive on collaboration with our partners around the world, and share with them the hope that our work will leave the world a better place.
 
 **DAI**  Shaping a more livable world.

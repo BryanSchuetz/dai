@@ -7,7 +7,7 @@ summary: Along with key partner Winrock International, DAI is building the capac
   sector.
 start: 2019
 end: 2023
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment
 - Energy

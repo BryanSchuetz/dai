@@ -5,7 +5,7 @@ summary: The Expanding Social Protection Programme Phase II (ESP II) delivers un
   monthly cash transfers to people over the age of 80 across Uganda.
 start: 2019
 end: 2022
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Social Strategy
 - Governance

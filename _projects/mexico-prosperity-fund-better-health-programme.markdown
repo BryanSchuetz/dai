@@ -6,7 +6,7 @@ summary: The Mexico Better Health Programme addresses the growing threat of nonc
   and social benefits associated with improved health.
 start: 2019
 end: 2021
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 regions: Latin America and the Caribbean

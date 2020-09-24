@@ -8,7 +8,7 @@ summary: StARCK+ achieved transformational change by helping Kenya to scale up p
   weather forecasting.
 start: 2013
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment
 regions:

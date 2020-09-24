@@ -7,7 +7,7 @@ summary: The Trade Forward Southern Africa programme supports growth in trade, i
   Lesotho, Mozambique, Namibia, and South Africa.
 start: 2020
 end: 2023
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Trade

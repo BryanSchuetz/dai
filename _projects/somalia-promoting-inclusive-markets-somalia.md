@@ -7,7 +7,7 @@ summary: 'The Promoting Inclusive Markets in Somalia programme addressed critica
   sector investment. '
 start: 2015
 end: 2019
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security
 - Business Environment Reform

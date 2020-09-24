@@ -9,7 +9,7 @@ start: 2013
 end: 2018
 client:
 - U.S. Agency for International Development
-- U.K. Foreign and Commonwealth Office
+- Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Institutional and Policy Reform

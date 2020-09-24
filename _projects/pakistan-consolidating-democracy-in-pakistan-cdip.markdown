@@ -7,7 +7,7 @@ summary: The Consolidating Democracy in Pakistan programme works to increase the
   and religious minorities.
 start: 2016
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Legislative Strengthening

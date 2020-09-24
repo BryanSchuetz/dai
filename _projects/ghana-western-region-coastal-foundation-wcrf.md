@@ -8,7 +8,7 @@ summary: The Western Region Coastal Foundation promotes inclusive economic growt
   share challenges and solutions.
 start: 2014
 end: 2019
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business
 - Economic Growth

@@ -6,7 +6,7 @@ summary: 'Funded with UK aid, Tackling Deadly Diseases in Africa (TDDAP) aims to
   epidemics, and other public health threats across sub-Saharan Africa. '
 start: 2019
 end: 2022
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness

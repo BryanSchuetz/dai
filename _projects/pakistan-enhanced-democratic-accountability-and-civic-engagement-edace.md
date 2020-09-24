@@ -7,7 +7,7 @@ summary: The Enhanced Democratic Accountability and Civic Engagement (EDACE) pro
   rights and democratic processes are strengthened at provincial and local levels.
 start: 2013
 end: 2016
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Gender
 - Governance

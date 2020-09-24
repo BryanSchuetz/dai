@@ -6,7 +6,7 @@ summary: 'DAI supported labour policy reforms and providing vocational training 
   of 2017. '
 start: 2017
 end: 2018
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Sustainable Livelihoods

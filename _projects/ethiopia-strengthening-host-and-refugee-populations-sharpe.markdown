@@ -6,7 +6,7 @@ summary: 'SHARPE works to bring about systemic improvements in the protracted re
   communities to become more economically resilient. '
 start: 2019
 end: 2022
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States
 - Stabilization

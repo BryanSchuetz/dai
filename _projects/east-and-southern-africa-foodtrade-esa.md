@@ -7,7 +7,7 @@ summary: From 2013 to 2018, FoodTrade worked at improving the functioning of nat
   in East Africa.
 start: 2013
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security
 - Economic Growth

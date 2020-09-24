@@ -6,7 +6,7 @@ summary: The Partnership for Transforming Health Systems 1 in Nigeria supported 
   financing to improve management in public health.
 start: 2002
 end: 2008
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 - Health Governance

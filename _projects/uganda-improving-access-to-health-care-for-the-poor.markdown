@@ -6,7 +6,7 @@ summary: 'DAI Global Health and Montrose International implemented multiple stud
   Financing in Northern Uganda. '
 start: 2011
 end: 2015
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 - Nutrition and Food Security

@@ -6,7 +6,7 @@ summary: Zambia is a middle-income country but poverty is still widespread and s
   of Zambia (GRZ) to improve the delivery of public goods and services.
 start: 2014
 end: 2016
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 regions:

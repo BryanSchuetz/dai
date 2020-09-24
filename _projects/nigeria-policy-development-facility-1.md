@@ -8,7 +8,7 @@ summary: The Policy Development Facility was a flexible, rapid-response facility
   vital pro-poor economic and social reforms.
 start: 2010
 end: 2015
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Governance

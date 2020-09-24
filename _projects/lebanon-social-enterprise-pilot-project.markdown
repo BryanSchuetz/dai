@@ -7,7 +7,7 @@ summary: The Lebanon Social Enterprise Pilot Project (SEPP), funded by the U.K. 
   growth and improve social cohesion in Lebanon.
 start: 2017
 end: 2018
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Innovation and Entrepreneurship
 - Economic Growth

@@ -10,7 +10,7 @@ summary: 'The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal
 '
 start: 2010
 end: 2013
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Environment

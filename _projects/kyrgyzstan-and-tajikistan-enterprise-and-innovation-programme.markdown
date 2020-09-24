@@ -6,7 +6,7 @@ summary: The Enterprise and Innovation Programme increases innovation and growth
   of business innovation centres in Tajikistan and Kyrgyzstan.
 start: 2019
 end: 2023
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Innovation and Entrepreneurship

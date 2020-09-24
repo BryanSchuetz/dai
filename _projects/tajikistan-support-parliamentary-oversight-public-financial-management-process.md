@@ -7,7 +7,7 @@ summary: 'SPFM is strengthening the Tajikistan Parliament’s ability to fulfil 
   to the management of public finances. '
 start: 2015
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Public Financial Management

@@ -6,7 +6,7 @@ summary: 'This project is part of DAI''s framework contract with the Foreign, Co
   DAI is consulting the project on aspects of climate resilience. '
 start: 2013
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security
 - Economic Growth

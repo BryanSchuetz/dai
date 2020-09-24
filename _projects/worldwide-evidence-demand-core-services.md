@@ -7,7 +7,7 @@ summary: "[Evidence on Demand](http://www.evidenceondemand.info/homepage.aspx) i
   to a broad range of documents, learning resources and technical expertise."
 start: 2012
 end: 2016
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate Change Adaptation and Mitigation
 - Economic Growth

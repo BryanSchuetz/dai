@@ -6,7 +6,7 @@ summary: The Land Investment for Transformation programme is raising incomes for
   through second-level land certification and improved rural land administration.
 start: 2013
 end: 2021
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Land Tenure and Property Rights

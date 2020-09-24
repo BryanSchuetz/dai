@@ -8,7 +8,7 @@ summary: The Arab Women's Enterprise Fund (AWEF) worked to jointly improve women
   women in Egypt, Jordan, and Palestine.
 start: 2015
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Institutional and Policy Reform

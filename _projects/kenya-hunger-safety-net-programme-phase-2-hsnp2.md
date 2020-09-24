@@ -6,7 +6,7 @@ summary: 'Through the Hunger Safety Net Programme (HSNP), more than 600,000 of K
   2,100,000 people reached with emergency cash transfers in times of drought or flood. '
 start: 2014
 end: 2019
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Agriculture and Food Security
 - Economic Growth

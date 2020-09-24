@@ -8,7 +8,7 @@ summary: Though Ethiopia has achieved dramatic increases in economic growth and 
   growth are limited.
 start: 2015
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Public Financial Management

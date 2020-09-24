@@ -7,7 +7,7 @@ summary: The Policy Development Facility II was a flexible, rapid-response facil
   economic and social policies that further reduce poverty in Nigeria.
 start: 2015
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Governance

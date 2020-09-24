@@ -7,7 +7,7 @@ summary: 'AAWAZ operated in 4,500 villages and settlements in 45 Districts acros
   political participation. '
 start: 2012
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Gender and Social Inclusion
 - Governance

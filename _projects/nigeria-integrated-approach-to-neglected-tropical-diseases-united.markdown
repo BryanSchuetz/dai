@@ -7,7 +7,7 @@ summary: The Integrated Approach to Neglected Tropical Diseases Programme suppor
   DAI Global Health was responsible for the health systems strengthening workstream.
 start: 2013
 end: 2019
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Health Governance
 - Global Health

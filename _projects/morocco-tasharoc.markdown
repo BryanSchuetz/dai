@@ -5,7 +5,7 @@ summary: 'TASHAROC works to support inclusive development and reduce political a
   economic disenfranchisement in the Northern Moroccan region. '
 start: 2017
 end: 2021
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Economic Growth

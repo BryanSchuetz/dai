@@ -8,7 +8,7 @@ summary: In 2011, the European Union and the Government of Liberia concluded a V
   Union come from legal sources.
 start: 2013
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Environment

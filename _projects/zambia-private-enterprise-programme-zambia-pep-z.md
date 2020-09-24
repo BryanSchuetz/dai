@@ -1,7 +1,7 @@
 ---
 title: Zambia—Private Enterprise Programme–Zambia (PEP-Z)
 date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 start: 2014
 end: 2019
 regions:

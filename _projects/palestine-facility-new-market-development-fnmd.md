@@ -2,7 +2,7 @@
 title: Palestine—Facility for New Market Development (FNMD)
 date: 2016-01-21 22:40:52.765000000 Z
 client:
-- U.K. Department for International Development
+- Foreign, Commonwealth & Development Office
 - World Bank
 start: 2008
 end: 2012

@@ -7,7 +7,7 @@ summary: The Democratic Governance Support Programme, or DIÁLOGO—Diálogo Loc
   and youth—know more, engage more, and vote with confidence in their cities.
 start: 2012
 end: 2017
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 regions:

@@ -8,7 +8,7 @@ summary: Nigeria is Africa’s largest economy. However, despite its economic dy
   progress into inclusive growth and improved public services.
 start: 2008
 end: 2016
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Decentralization and Local Government Management

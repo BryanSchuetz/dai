@@ -8,7 +8,7 @@ summary: The Policy Development Facility Bridge programme  provides near-term te
   growth and poverty reduction.
 start: 2020
 end: 2022
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 regions: Sub-Saharan Africa

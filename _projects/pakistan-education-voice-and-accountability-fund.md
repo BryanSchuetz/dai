@@ -6,7 +6,7 @@ summary: 'Ilm Ideas in Pakistan contributed to increased enrollment rates and re
   education governance.  '
 start: 2012
 end: 2015
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Finance and Investment
 - Governance

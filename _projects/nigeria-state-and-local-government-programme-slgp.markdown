@@ -6,7 +6,7 @@ summary: As part of the Nigeria’s ongoing democratisation, the State and Local
   state governments.
 start: 2000
 end: 2008
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Public Financial Management

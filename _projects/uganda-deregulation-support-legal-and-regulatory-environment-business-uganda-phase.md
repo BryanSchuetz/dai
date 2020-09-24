@@ -2,7 +2,7 @@
 title: Uganda—Deregulation—Support to the Legal and Regulatory Environment for Business
   in Uganda (Phase I, II)
 date: 2016-01-21 22:40:52.765000000 Z
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 start: 2000
 end: 2007
 regions:

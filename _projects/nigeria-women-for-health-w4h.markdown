@@ -5,7 +5,7 @@ summary: The Women for Health (W4H) programme empowered women as service provide
   in five states in northern Nigeria.
 start: 2012
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 - Gender and Social Inclusion

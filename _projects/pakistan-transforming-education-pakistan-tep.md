@@ -6,7 +6,7 @@ summary: The Transforming Education in Pakistan (TEP) programme managed a public
   education.
 start: 2013
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Innovation and Entrepreneurship

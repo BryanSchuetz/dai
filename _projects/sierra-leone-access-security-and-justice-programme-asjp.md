@@ -6,7 +6,7 @@ summary: Security and justice are essential to countries in sub-Saharan Africa. 
   the incidence of violent conflict.
 start: 2011
 end: 2016
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Fragile States

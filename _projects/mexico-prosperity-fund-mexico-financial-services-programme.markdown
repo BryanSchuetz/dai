@@ -5,7 +5,7 @@ summary: 'This program aims to create a more inclusive and competitive financial
   sector accessible to all segments of Mexican society and new market entrants. '
 start: 2019
 end: 2023
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Finance and Investment

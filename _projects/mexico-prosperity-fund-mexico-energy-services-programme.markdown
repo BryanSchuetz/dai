@@ -8,7 +8,7 @@ summary: The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to prom
   and capacity building of regulators.
 start: 2019
 end: 2023
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business
 - Environment

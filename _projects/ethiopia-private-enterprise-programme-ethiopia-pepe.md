@@ -6,7 +6,7 @@ summary: This program helps generate access to finance, good quality jobs, and i
   Itad (United Kingdom), Enclude (Netherlands), and BCaD.
 start: 2013
 end: 2021
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Gender

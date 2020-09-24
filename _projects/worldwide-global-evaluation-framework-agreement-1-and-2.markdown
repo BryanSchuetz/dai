@@ -5,7 +5,7 @@ summary: The Global Evaluation Framework Agreement 2 ensures the provision of ef
   and effective expert services for the design and implementation of evaluations.
 start: 2012
 end: 2018
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 regions: Worldwide

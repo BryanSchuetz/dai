@@ -8,7 +8,7 @@ summary: While quality economic policy research exists within Zambia, the countr
   and used for advocacy.
 start: 2013
 end: 2016
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Decentralization and Local Government Management
 - Economic Growth

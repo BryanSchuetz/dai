@@ -7,7 +7,7 @@ summary: " The programme helps local governments in Nigeria develop and implemen
   poverty."
 start: 2016
 end: 2020
-client: U.K. Department for International Development
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Decentralization and Local Government Management
