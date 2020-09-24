@@ -1,6 +1,6 @@
 ---
 title: Lesotho—Apparel Lesotho Alliance to Fight Aids (ALAFA) Project
-date: 2016-01-21 22:40:52.765000000 Z
+date: 2016-01-21 22:40:52 Z
 client: Foreign, Commonwealth & Development Office
 start: 2005
 end: 2007

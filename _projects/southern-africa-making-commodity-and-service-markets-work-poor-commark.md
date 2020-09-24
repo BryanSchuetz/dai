@@ -1,6 +1,6 @@
 ---
 title: Southern Africa—Making Commodity and Service Markets Work for the Poor (ComMark)
-date: 2016-01-21 22:40:52.765000000 Z
+date: 2016-01-21 22:40:52 Z
 client:
 - Foreign, Commonwealth & Development Office
 - ComMark Trust
