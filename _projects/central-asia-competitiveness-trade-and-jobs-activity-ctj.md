@@ -8,8 +8,9 @@ end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Sustainable Livelihoods
-- Value Chain and Market Systems Development
+- Trade
+- Business Environment Reform
+- 
 regions:
 - Eastern Europe and Central Asia
 country:
