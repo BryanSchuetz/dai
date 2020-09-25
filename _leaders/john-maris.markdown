@@ -11,7 +11,7 @@ sort-order: 4
 
 John Maris is DAI’s Acting Chief Financial Officer. As the head of DAI’s Finance team, John maintains the integrity of the company’s financial statements, ensures compliance with all financial regulators and tax authorities, leads our business forecasting and modelling work to inform strategic and operational decisions, and ensures that the company is appropriately capitalized to achieve its development mission.
 
-![Maris leader.jpg](/uploads/Maris%20leader.jpg)
+![Maris leader2.jpg](/uploads/Maris%20leader2.jpg)
 
 Based in London, John simultaneously oversees DAI Capital, a business unit created and developed under his direction. DAI Capital builds on DAI’s in-depth market knowledge to catalyze private investment within and into frontier and emerging markets.
 
