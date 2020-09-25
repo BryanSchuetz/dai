@@ -1,9 +1,10 @@
 ---
-title: Market Systems and Value Chain Development
+title: Value Chain and Market Systems Development
 date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/economic-growth-solutions/value-chain-and-market-systems-development"
 solutions:
 - Economic Growth
+- 
 hero: true
 layout: solution
 ---
