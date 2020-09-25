@@ -11,6 +11,7 @@ solutions:
 - Economic Growth
 - Finance and Investment
 - Innovation and Entrepreneurship
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 country:
@@ -22,7 +23,7 @@ Utilizing the making markets work for the poor (M4P) approach, [FSDZ][1] worked 
 
 ![][2]
 
-###  **Sample Activities**
+### Sample Activities
 
 * Partner with financial service providers to innovate and increase outreach and delivery channels.
 * Support market information initiatives to build a deeper understanding of the diversity of consumers, their needs, the wide range of financial services they demand, and the variety of financial service providers they access.
