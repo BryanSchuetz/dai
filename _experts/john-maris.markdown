@@ -4,7 +4,7 @@ date: 2018-02-14 14:53:00 Z
 lastname: Maris
 summary: 'John Maris is DAI’s Acting Chief Financial Officer. '
 job-title: Acting Chief Financial Officer; Managing Director, DAI Capital
-image: "/uploads/Maris.jpg"
+image: "/uploads/Maris%20expert.jpg"
 solutions:
 - DAI Capital
 - Economic Growth
