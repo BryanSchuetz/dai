@@ -12,7 +12,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Sustainable Business
 - Economic Growth
-- Local Content and Supply Chain Management
+- Value Chain and Market Systems Development
 - 
 regions:
 - Sub-Saharan Africa
