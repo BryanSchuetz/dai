@@ -32,7 +32,7 @@ layout: default
   {% endfor %}</p>
   </div>
   {{ content }}
-  <aside class="fcdo-aside">{%- if page.client contains 'Foreign, Commonwealth & Development Office' -%}<p>Effective September 2020, the U.K. Department for International Development and the U.K. Foreign & Commonwealth Office merged to form the Foreign, Commonwealth & Development Office (FCDO). DAI projects conducted on behalf of those clients are now presented under the combined FCDO banner.</p>{%- endif -%}</aside>
+  {%- if page.client contains 'Foreign, Commonwealth & Development Office' -%}<aside class="fcdo-aside"><p>Effective September 2020, the U.K. Department for International Development and the U.K. Foreign & Commonwealth Office merged to form the Foreign, Commonwealth & Development Office (FCDO). DAI projects conducted on behalf of those clients are now presented under the combined FCDO banner.</p></aside>{%- endif -%}
 </div>
 {% if page.promos %}
   {% if page.promos[0].title.size >1 %}
