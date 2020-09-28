@@ -21,6 +21,8 @@ The West Bank and Gaza faces major threats to its economic growth and the result
 The TechStart program is designed to assist the Palestinian IT ecosystem to upgrade firm capabilities and spur employment growth. TechStart builds the capacity of Palestinian firms, strengthens demand from international buyers and investors, and stimulates the absorption of high-tech knowledge in the ecosystem.
 
 The project also includes special activities to address COVID-19 by ensuring that the IT services sector is positioned to contribute to Palestine’s economic recovery. For example, it assists sound firms to weather the liquidity shock through wage support for companies undertaking virtual training and process or systems upgrades; helps firms facing demand shocks to reposition themselves, through advisory and market linkage services; and provides grants or early-stage business advisory services to existing or newly launched firms with the potential to reconstitute the industry.
+
+![A female participant presenting her project ideas during the Hi Tech Hub-Optimized.jpg](/uploads/A%20female%20participant%20presenting%20her%20project%20ideas%20during%20the%20Hi%20Tech%20Hub-Optimized.jpg)
   
 ### Sample Activities
 
