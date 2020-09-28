@@ -23,7 +23,7 @@ DAI worked with key Palestinian sectors to help them better compete in regional 
 
 After seven years, Compete assisted 1,797 firms in the West Bank and Gaza, increased their sales by $383 million and exports by $254 million, created more than 6,900 jobs, and leveraged $105 million in private-sector investment.
 
-[compete.JPG](/uploads/compete.JPG)
+![compete.JPG](/uploads/compete.JPG)
 
 ### Sample Activities
 
