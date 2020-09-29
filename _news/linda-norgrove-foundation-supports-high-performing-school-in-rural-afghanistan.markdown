@@ -1,7 +1,9 @@
 ---
 title: Linda Norgrove Foundation Supports High-Performing School in Rural Afghanistan
 date: 2020-09-29 13:29:00 Z
-published: false
+summary: 'DAI employees fundraised $5,153 through company activities in 2019 for the
+  Linda Norgrove Foundation to support a school in Afghanistan’s Bamyan province.
+  This year''s fundraising will be done primarily through online classes. '
 social-image: "/uploads/LNF.png"
 ---
 
@@ -17,6 +19,6 @@ DAI’s $5,153 provided the school with a water supply and classroom essentials 
 
 DAI employees raised funds through company events, including an Executive Happy Hour (where DAI executives created their own cocktails), Tone-Up Tuesday dance lessons, Penny Wars, and its annual 5K run/walk. 
 
-The Linda Norgrove Foundation was established after the death of Linda Norgrove, a DAI employee who was kidnapped on September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt by U.S. forces. Norgrove was working on the Incentives Driving Economic Alternatives for the North, East, and West Program. The organization has distributed more than £1 million to projects that support education, health, and childcare to women and children affected by the war in Afghanistan. 
+The Linda Norgrove Foundation was established after the death of Linda Norgrove, a DAI employee who was kidnapped on September 26, 2010, in Kunar Province, Afghanistan, and died October 8 during a rescue attempt by U.S. forces. Norgrove was working on the [Incentives Driving Economic Alternatives for the North, East, and West Program](https://www.dai.com/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new). The organization has distributed [more than £1 million](https://lindanorgrovefoundation.org/what-we-do/where-your-money-goes/) to projects that support education, health, and childcare to women and children affected by the war in Afghanistan. 
 
 In light of COVID-19, this year DAI will fundraise through virtual classes on a variety of topics such as conversational Spanish, cooking Indian dishes, yoga, and photo editing. Proceeds from the 2020 fundraiser will provide scholarships for young Afghan women to study midwifery. The foundation has already received 70 applications; selected students will study at Resalat Noor Institute of Health Science for two years to qualify as midwives.
