@@ -5,13 +5,13 @@ published: false
 social-image: "/uploads/LNF.png"
 ---
 
-DAI employees fundraised $5,153 through company activities [in 2019](https://www.dai.com/news/dai-raises-more-than-5-dollars-000-for-linda-norgrove-foundation) for the Linda Norgrove Foundation to support a school in Afghanistan’s Bamyan province. The foundation—a trust that gives grants to support women and children in Afghanistan—provided the rural Rustam School with a reliable water supply and basic educational necessities. 
+DAI employees fundraised $5,153 through company activities [in 2019](https://www.dai.com/news/dai-raises-more-than-5-dollars-000-for-linda-norgrove-foundation) for the [Linda Norgrove Foundation](https://lindanorgrovefoundation.org/) to support a school in Afghanistan’s Bamyan province. The foundation—a trust that gives grants to support women and children in Afghanistan—provided the rural Rustam School with a reliable water supply and basic educational necessities. 
 
 Rustam School is an outliner among schools in Afghanistan, where only one in four of girls attend secondary school (versus two in four boys). At Rustam, 330 of the 476 students are girls. More than 90 percent of the school’s graduates go on to college, despite most coming from families with illiterate parents. 
 
 ![Rustam.jpg](/uploads/Rustam.jpg)`Rustam School is in the Yakawlang district of Bamyan province, home to the Hazara ethnic minority.`
 
-In 2019, the *New York Times* profiled the school’s success despite its low resources: seven unheated classrooms and six tents, where students sit directly on concrete floors. Many children walk more than an hour to school over harsh terrain. U.K. charity Action Aid supported Rustam School for four years, with strong results, but the Linda Norgrove Foundation team determined that the school could benefit from further support. 
+In 2019, the *New York Times* [profiled the school’s success](https://www.nytimes.com/2019/06/27/world/asia/afghanistan-education-girls.html) despite its low resources: seven unheated classrooms and six tents, where students sit directly on concrete floors. Many children walk more than an hour to school over harsh terrain. U.K. charity Action Aid supported Rustam School for four years, with strong results, but the Linda Norgrove Foundation team determined that the school could benefit from further support. 
   
 DAI’s $5,153 provided the school with a water supply and classroom essentials such as a printer, panel batteries, stationery, and rugs for students to sit on. Local community members volunteered to dig trenches for the donated water pipe, connecting a mountain spring to the school. Now, students have access to safe water for handwashing and drinking—especially important to maintain good sanitation during the COVID-19 pandemic. 
 
