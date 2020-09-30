@@ -2,7 +2,7 @@
 title: Tajikistan—Feed the Future Agriculture and Land Governance (ALG)
 date: 2020-08-12 15:00:00 Z
 summary: Feed the Future Tajikistan Agriculture and Land Governance (ALG) Activity
-  assists the Government to sustainably reduce hunger, undernutrition, and poverty
+  assists the government to sustainably reduce hunger, undernutrition, and poverty
   among smallholder farmers by developing more productive and efficient agriculture
   systems, building the resilience of smallholders, and improving the enabling environment
   to facilitate sustainable and long-term, ag-led growth.
@@ -30,5 +30,4 @@ ALG assists the Government of Tajikistan to sustainably reduce hunger, undernutr
 * Increase productivity, post-harvest handling, and storage, and expand access to markets of existing and newly organized value chains.
 * Increase availability and consumption of diverse and nutritious foods.
 * Improve adaptation to and recovery from shocks and stresses through diversification of livelihoods.
-* Support extension services that address natural resource constraints.  
- 
+* Support extension services that address natural resource constraints. 
