@@ -1,6 +1,7 @@
 ---
 title: Craig Geddes
 date: 2019-07-16 14:33:00 Z
+published: false
 lastname: Geddes
 summary: Craig Geddes brings more than 16 years of experience working in both domestic
   and international markets focusing on government relations initiatives and development
