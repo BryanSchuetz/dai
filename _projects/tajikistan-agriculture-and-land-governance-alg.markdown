@@ -2,7 +2,7 @@
 title: Tajikistan—Feed the Future Agriculture and Land Governance (ALG)
 date: 2020-08-12 15:00:00 Z
 summary: Feed the Future Tajikistan Agriculture and Land Governance (ALG) Activity
-  assists the Government to sustainably reduce hunger, undernutrition, and poverty
+  assists the government to sustainably reduce hunger, undernutrition, and poverty
   among smallholder farmers by developing more productive and efficient agriculture
   systems, building the resilience of smallholders, and improving the enabling environment
   to facilitate sustainable and long-term, ag-led growth.
@@ -18,7 +18,7 @@ regions: Eastern Europe and Central Asia
 country: Tajikistan
 ---
 
-For more than a decade, the U.S. Agency for International Development (USAID) has supported Tajikistan’s agriculture-led economic growth and improved nutrition outcomes in Khatlon. Now the Feed the Future Tajikistan Agriculture and Land Governance (ALG) Activity moves beyond these previous investments to catalyze growth by enabling the local private sector to develop and expand market opportunities and work with government and civil society to drive systemic reforms in the enabling environment for agriculture that allow smallholders and private sector firms to invest and upgrade land through improved registration and administration. Of equal importance, ALG ensures that women, youth, and vulnerable groups in remote areas in Khatlon are not left behind in the climb, integrating them into market-led opportunities in processing, value addition, and livelihood diversification while deepening their resilience through nutrition-sensitive crop adoption and behavior change. Combined, these efforts will enable Tajikistan to strengthen its journey to self-reliance and reduce its over-reliance on remittances from neighboring Russia. 
+For more than a decade, the U.S. Agency for International Development (USAID) has supported Tajikistan’s agriculture-led economic growth and improved nutrition outcomes in Khatlon. Now the Feed the Future Tajikistan Agriculture and Land Governance (ALG) Activity [moves beyond](https://www.usaid.gov/tajikistan/press-releases/sep-18-2020-usaid-launches-36-million-program) these previous investments to catalyze growth by enabling the local private sector to develop and expand market opportunities and work with government and civil society to drive systemic reforms in the enabling environment for agriculture that allow smallholders and private sector firms to invest and upgrade land through improved registration and administration. Of equal importance, ALG ensures that women, youth, and vulnerable groups in remote areas in Khatlon are not left behind in the climb, integrating them into market-led opportunities in processing, value addition, and livelihood diversification while deepening their resilience through nutrition-sensitive crop adoption and behavior change. Combined, these efforts will enable Tajikistan to strengthen its journey to self-reliance and reduce its over-reliance on remittances from neighboring Russia. 
 
 ALG assists the Government of Tajikistan to sustainably reduce hunger, undernutrition, and poverty among smallholder farmers by developing more productive and efficient agriculture systems, building the resilience of smallholders, and improving the enabling environment to facilitate sustainable and long-term, ag-led growth. It supports the USAID Global Food Security Strategy’s top-line goals of accelerated agriculture-led growth, better nutritional outcomes, improved food security, land tenure security, greater resilience, and better water security.
 
@@ -30,5 +30,4 @@ ALG assists the Government of Tajikistan to sustainably reduce hunger, undernutr
 * Increase productivity, post-harvest handling, and storage, and expand access to markets of existing and newly organized value chains.
 * Increase availability and consumption of diverse and nutritious foods.
 * Improve adaptation to and recovery from shocks and stresses through diversification of livelihoods.
-* Support extension services that address natural resource constraints.  
- 
+* Support extension services that address natural resource constraints. 
