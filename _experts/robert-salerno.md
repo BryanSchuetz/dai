@@ -32,3 +32,4 @@ Since 2008, Robert has provided expert technical assistance to more than a dozen
 
 * B.A., psychology and health policy, Providence College 
 * M.Sc., global health and population medicine with a focus in social epidemiology, University of California, San Francisco
+* Co-chair, Core Group’s One Health Technical Working Group
