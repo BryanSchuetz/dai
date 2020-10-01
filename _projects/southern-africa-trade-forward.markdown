@@ -27,3 +27,4 @@ Trade Forward Southern Africa works to increase opportunities to trade, overcome
 * Provide increased access to information and trade promotion.
 * Offer support in compliance with market standards and integration in supply chains and value chains.
 * Train relevant stakeholders in trade and customs best practices.
+* Support fuller participation of women in trade.
