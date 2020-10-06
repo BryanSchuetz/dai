@@ -21,6 +21,10 @@ promos:
   link: https://www.usaid.gov/southern-africa-regional/news/usai-seed-trade-project-support-sadcs-commitment-plant-health-2020
 - title: With USAID Support, SADC Countries with Seed Deficit Could Find Relief Soon
   link: https://www.usaid.gov/southern-africa-regional/news/usaid-support-sadc-countries-seed-deficits-could-find-relief-soon
+- title: Zambia First SADC Nation to Domesticate SADC HSRS
+  link: "/uploads/FINAL%20Zambia%20First%20SADC%20Nation%20to%20Domesticate%20SADC%20HSRS.pdf"
+- title: SADC Seed Variety Catalogue Additions
+  link: "/uploads/FINAL%20SADC%20Seed%20Variety%20Catalogue%20Additions%2009%2011%2020.pdf"
 layout: project
 ---
 
@@ -49,3 +53,5 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 * Trained more than 1,500 individuals on SADC Harmonized Seed Regulatory Systems’ seed variety release, seed certification and quality assurance, quarantine and phytosanitary measures for seed, and improved business management practices.
 * Engaged with 13 seed companies and now have 55 seed varieties registered on the SADC Variety Catalogue—Maize, Irish Potato, Sorghum, Soybean, Beans, Wheat, Ground Nuts, and Cotton—and they are all eligible for regional trade.
 * Transferred a total of six technologies to SADC Member States, including three online seed certification systems, new management practice/laboratory technology, and new seed varieties.
+
+[FINAL SADC Seed Variety Catalogue Additions 09 11 20.pdf](/uploads/FINAL%20SADC%20Seed%20Variety%20Catalogue%20Additions%2009%2011%2020.pdf)
