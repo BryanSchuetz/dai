@@ -53,5 +53,3 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 * Trained more than 1,500 individuals on SADC Harmonized Seed Regulatory Systems’ seed variety release, seed certification and quality assurance, quarantine and phytosanitary measures for seed, and improved business management practices.
 * Engaged with 13 seed companies and now have 55 seed varieties registered on the SADC Variety Catalogue—Maize, Irish Potato, Sorghum, Soybean, Beans, Wheat, Ground Nuts, and Cotton—and they are all eligible for regional trade.
 * Transferred a total of six technologies to SADC Member States, including three online seed certification systems, new management practice/laboratory technology, and new seed varieties.
-
-[FINAL SADC Seed Variety Catalogue Additions 09 11 20.pdf](/uploads/FINAL%20SADC%20Seed%20Variety%20Catalogue%20Additions%2009%2011%2020.pdf)
