@@ -21,6 +21,12 @@ promos:
   link: https://www.usaid.gov/southern-africa-regional/news/usai-seed-trade-project-support-sadcs-commitment-plant-health-2020
 - title: With USAID Support, SADC Countries with Seed Deficit Could Find Relief Soon
   link: https://www.usaid.gov/southern-africa-regional/news/usaid-support-sadc-countries-seed-deficits-could-find-relief-soon
+- title: Zambia First SADC Nation to Domesticate SADC HSRS
+  link: "/uploads/FINAL%20Zambia%20First%20SADC%20Nation%20to%20Domesticate%20SADC%20HSRS.pdf"
+- title: SADC Seed Variety Catalogue Additions
+  link: "/uploads/FINAL%20SADC%20Seed%20Variety%20Catalogue%20Additions%2009%2011%2020.pdf"
+- title: Improving Seed Trade in Southern Africa
+  link: https://www.usglc.org/global-impact-project/stories/seeding-food-security
 layout: project
 ---
 

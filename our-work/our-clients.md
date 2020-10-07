@@ -22,8 +22,7 @@ Since 2000, DAI has worked with FCDO in scores of countries on three continents.
 
 ## European Donors 
 
-Our work with European Donors is currently managed from our offices in the United Kingdom and Belgium. DAI supports the vision of the Europe 2020 strategy, and is well placed to assist the European Union’s efforts to build a smart, sustainable, and inclusive economy that delivers high levels of employment, productivity, and social cohesion.
-
+DAI was awarded with its first European Union (EU)-funded project in 1995. Technical excellence, innovation, and quality of services delivered from our 100-plus staff now make DAI the [largest single provider](https://www.dai.com/who-we-are/global-reach/european-union) of development services for the European Commission.
 <iframe src="/extras/maps/ec" frameborder="0"></iframe>
 
 ## Sustainable Business
