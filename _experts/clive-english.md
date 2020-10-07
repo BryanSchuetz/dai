@@ -1,6 +1,7 @@
 ---
 title: Clive English
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: English
 summary: Clive English is a highly experienced project manager and adviser with more
   than 35 years of project experience in Africa, the Caribbean, the Middle East, and
