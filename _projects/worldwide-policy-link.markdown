@@ -1,5 +1,5 @@
 ---
-title: Worldwide—Policy LINK
+title: Worldwide—USAID Policy LINK
 date: 2019-11-25 08:44:00 Z
 summary: 'Policy LINK strengthens the leadership capacity of public, private, and
   civil society actors and fosters collective action among them to transform policy
