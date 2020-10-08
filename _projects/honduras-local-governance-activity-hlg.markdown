@@ -6,7 +6,7 @@ summary: HLG works in 80 municipalities in six departments in western Honduras t
   vulnerability, gender disparity, and local governance to sustainably improve the
   lives of the Honduran people.
 start: 2016
-end: 2021
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management
