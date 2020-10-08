@@ -1,5 +1,5 @@
 ---
-title: Local Content Master Class
+title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
 summary: The Sustainable Business Group offers the industry-leading Master Class enabling
   regulators, companies, and contractors to effectively design and manage local content
@@ -7,7 +7,7 @@ summary: The Sustainable Business Group offers the industry-leading Master Class
 layout: default
 ---
 
-# Local Content Master Class
+# Sustainable Business Training
 
 The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
  
