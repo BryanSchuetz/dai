@@ -10,7 +10,7 @@ image: "/uploads/Bronwyn%20Irwin%20headshot-a12ed8.png"
 solutions:
 - Agriculture and Food Security
 - Economic Growth
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 ---

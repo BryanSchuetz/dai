@@ -13,7 +13,7 @@ solutions:
 - Business Environment Reform
 - Economic Growth
 - Gender
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 country:

@@ -9,7 +9,7 @@ image: "/uploads/Bill%20photo%203.jpg"
 solutions:
 - Market Insight and Development
 - Economic Growth
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 articles:

@@ -10,7 +10,7 @@ image: https://assetify-dai.com/experts/ArsalanInner.jpg
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Eastern Europe and Central Asia
 articles:

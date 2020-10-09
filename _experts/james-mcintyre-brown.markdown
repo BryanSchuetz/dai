@@ -8,7 +8,7 @@ job-title: 'Health Practice Director, Global Health '
 image: "/uploads/macfinal-8edcd2.jpg"
 solutions:
 - Global Health
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 ---

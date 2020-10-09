@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 - Gender
 - Climate Change Adaptation and Mitigation
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 country:

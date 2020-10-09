@@ -9,7 +9,7 @@ end: 2020
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 - Agriculture and Food Security
 regions:
 - Sub-Saharan Africa

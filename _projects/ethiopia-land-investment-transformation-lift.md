@@ -10,7 +10,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Land Tenure and Property Rights
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 country:

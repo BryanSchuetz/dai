@@ -14,7 +14,7 @@ solutions:
 - Gender
 - Innovation and Entrepreneurship
 - Sustainable and Accountable Health Services
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Middle East and North Africa
 country:

@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 - Institutional and Policy Reform
 - Gender and Social Inclusion
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 - Workforce Development and Youth
 regions:
 - Middle East and North Africa

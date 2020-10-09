@@ -11,7 +11,7 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Finance and Investment
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Asia and the Pacific
 country:

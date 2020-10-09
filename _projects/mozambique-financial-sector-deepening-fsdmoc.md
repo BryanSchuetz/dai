@@ -11,7 +11,7 @@ client: Foreign, Commonwealth & Development Office, Swedish International Develo
 solutions:
 - Economic Growth
 - Finance and Investment
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 country:

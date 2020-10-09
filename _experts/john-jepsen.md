@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 - Finance and Investment
 - Innovation and Entrepreneurship
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Latin America and the Caribbean
 layout: expert

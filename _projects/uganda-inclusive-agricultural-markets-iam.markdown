@@ -10,7 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Agriculture and Food Security
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions: Sub-Saharan Africa
 country: Uganda
 ---

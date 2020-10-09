@@ -9,7 +9,7 @@ image: "/uploads/Kirsten%20Pfeiffer.png"
 solutions:
 - Economic Growth
 - Agriculture and Food Security
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 articles:
 - name: '"New Research Offers Alternatives for Frontier Market Venture Capital and
     Private Equity"'

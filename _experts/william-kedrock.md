@@ -13,7 +13,7 @@ solutions:
 - Business Environment Reform
 - Economic Growth
 - Finance and Investment
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 layout: expert
 ---
 

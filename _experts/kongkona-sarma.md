@@ -10,7 +10,7 @@ image: https://assetify-dai.com/experts/Kongkona%20Sarma%20Inner.jpg
 solutions:
 - Business Environment Reform
 - Economic Growth
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Asia and the Pacific
 layout: expert

@@ -10,7 +10,7 @@ end: 2020
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Eastern Europe and Central Asia
 country:

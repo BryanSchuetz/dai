@@ -11,7 +11,7 @@ image: https://assetify-dai.com/experts/Doerring_Inner.jpg
 solutions:
 - Environment
 - Agriculture and Food Security
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 - Economic Growth
 layout: expert
 ---

@@ -12,7 +12,7 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Gender
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Eastern Europe and Central Asia
 country:

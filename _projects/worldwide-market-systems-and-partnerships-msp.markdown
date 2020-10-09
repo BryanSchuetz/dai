@@ -11,7 +11,7 @@ end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 - Finance and Investment
 regions: Worldwide
 country: Worldwide

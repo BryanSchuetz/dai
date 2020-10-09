@@ -13,7 +13,7 @@ solutions:
 - Health and Livelihoods
 - Nutrition and Food Security
 - Sustainable and Accountable Health Services
-- Value Chain and Market Systems Development
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 layout: expert
