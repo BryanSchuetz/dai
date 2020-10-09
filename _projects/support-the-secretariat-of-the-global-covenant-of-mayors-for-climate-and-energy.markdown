@@ -1,5 +1,6 @@
 ---
-title: Support the Secretariat of the Global Covenant of Mayors for Climate and Energy
+title: Worldwide—Support the Secretariat of the Global Covenant of Mayors for Climate
+  and Energy
 date: 2020-10-09 09:26:00 Z
 published: false
 start: 2020
