@@ -13,10 +13,6 @@ solutions:
 - Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
-- 
-- 
-- 
-- 
 articles:
 - name: Capturing Systemic Change in Bangladesh
   article_file: https://www.marketlinks.org/post/capturing-systemic-change-bangladesh
