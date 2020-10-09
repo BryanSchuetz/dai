@@ -2,9 +2,10 @@
 title: Bill Grant
 date: 2016-01-21 22:18:00 Z
 lastname: Grant
-summary: Bill Grant has played an important role in the development and application
-  of subsector and value chain approaches.
-job-title: 'Global Practice Specialist, Agriculture and Market Systems '
+summary: Bill Grant is a pioneer in developing market systems development approaches
+  through his work on developing and applying value chain and Making Markets Work
+  for the Poor (M4P) approaches on 25 long-term projects in more than 30 countries.
+job-title: Senior Principal Global Practice Specialist, Agriculture and Market Systems
 image: "/uploads/Bill%20photo%203.jpg"
 solutions:
 - Market Insight and Development
