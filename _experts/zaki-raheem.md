@@ -10,6 +10,7 @@ image: "/uploads/new_Zaki%20Raheem%20(in%20Quito).jpg"
 solutions:
 - Sustainable Business
 - Economic Growth
+- Value Chain and Market Systems Development
 regions:
 - Sub-Saharan Africa
 - 
