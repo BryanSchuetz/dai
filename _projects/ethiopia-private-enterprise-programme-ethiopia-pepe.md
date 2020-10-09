@@ -10,8 +10,8 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Gender
-- Market Systems and Value Chain
 - Workforce Development and Youth
+- Market Systems and Value Chain
 regions:
 - Sub-Saharan Africa
 country:

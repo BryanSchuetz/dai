@@ -11,7 +11,6 @@ client: U.S. Agency for International Development
 solutions:
 - Trade
 - Business Environment Reform
-- Market Systems and Value Chain
 - Agriculture and Food Security
 - Economic Growth
 - Finance and Investment

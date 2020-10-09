@@ -11,7 +11,6 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Decentralization and Local Government Management
 - Economic Growth
-- Market Systems and Value Chain
 regions:
 - Asia and the Pacific
 country:

@@ -9,7 +9,6 @@ end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-- Market Systems and Value Chain
 - Fragile States
 regions:
 - Sub-Saharan Africa

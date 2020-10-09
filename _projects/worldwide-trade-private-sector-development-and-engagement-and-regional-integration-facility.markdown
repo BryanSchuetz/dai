@@ -11,7 +11,6 @@ solutions:
 - Business Environment Reform
 - Trade
 - Finance and Investment
-- Market Systems and Value Chain
 regions: Worldwide
 country: Worldwide
 Key: 

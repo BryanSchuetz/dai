@@ -11,7 +11,6 @@ solutions:
 - Workforce Development and Youth
 - Economic Growth
 - Innovation and Entrepreneurship
-- Market Systems and Value Chain
 regions: Middle East and North Africa
 country: Palestine
 ---
