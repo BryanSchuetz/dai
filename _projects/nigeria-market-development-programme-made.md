@@ -14,6 +14,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Nigeria
+promos:
+- title: Market Development in the Niger Delta (MADE) Learning Review
+  link: https://beamexchange.org/resources/1320/
 layout: project
 ---
 
