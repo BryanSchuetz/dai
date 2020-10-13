@@ -1,5 +1,6 @@
 ---
-title: 'Cybersecurity Frontier Insights launch: Perceptions of Trust and Privacy on the Internet'
+title: 'Cybersecurity Frontier Insights launch: Perceptions of Trust and Privacy on
+  the Internet'
 layout: default
 ---
 
