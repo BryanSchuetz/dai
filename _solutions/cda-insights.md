@@ -12,6 +12,14 @@ layout: solution
 <br>
 <div class="insights">
   <div>
+    <a href="/fi-cyber-user-trust.pdf">
+      <img src="/uploads/fi-cyber-thumb.jpg" alt="">
+      <h3>User Perceptions of Trust and Privacy on the Internet</h3>
+      <p>Frontier Insights research into user perceptions of trust and privacy on the internet in India and Ghana.</p>
+    </a>
+    <a href="/fi-cyber-user-trust.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+  <div>
     <a href="/hcd.pdf">
       <img src="/uploads/lean-hcd-thumb.png" alt="">
       <h3>LEAN HCD</h3>
