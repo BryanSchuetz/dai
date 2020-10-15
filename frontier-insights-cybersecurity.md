@@ -56,7 +56,7 @@ Join us to learn more about what we found and to discuss how stakeholders can su
     <li><strong>Sara Chamberlain</strong>, Digital Director, BBC Media Action</li>
     <li><strong>Krista Baptista</strong>, Senior Director & <strong>Julia Burchell</strong>, Senior Consultant, both at
       DAI Center for Digital Acceleration;
-      <strong>Alexandra Tyers-Chowdry</strong>, Independent Consultant</li>
+      <strong>Alexandra Tyers-Chowdhury</strong>, Independent Consultant</li>
   </ul>
   <p><a href="https://us02web.zoom.us/meeting/register/tZwvf-CqrDMsEtWzzH-HXP3XHz57_D6CSS-d"
       class="primary-block--button">Register<svg class="redirect" viewBox="0 0 36 70"
