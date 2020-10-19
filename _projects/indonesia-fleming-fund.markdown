@@ -2,6 +2,10 @@
 title: Indonesia—Fleming Fund
 date: 2020-10-19 09:50:00 Z
 published: false
+summary: DAI’s Fleming Fund programme in Indonesia is a collaboration with the Indonesian
+  government to strengthen systems using a “One Health” approach—a multisectoral approach
+  to complex health problems that reaches across human health, animal health, and
+  environment sectors.
 start: 2019
 end: 2021
 client: U.K Department of Health and Social Care
