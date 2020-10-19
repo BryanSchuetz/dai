@@ -21,13 +21,10 @@ Contact training@dai.com for pricing and registration.
  
 Upcoming Sessions:
 
-**Local Content** (Central African Time)
-* Date and Time: October 6–9, (9am-5pm Monday–Wednesday and 9am-3pm Thursday), presented in Portuguese
- 
 **Persian Gulf and Middle East** (Gulf Standard Time)
 * Date and Time: October 26-29, (9am-5pm Monday-Wednesday and 9am–3pm Thursday)
 
-* **Module 1:** Local Content Strategy and Policy Training.
+* **Module 1:** Local Content Strategy and Policy Training.
 * **Module 2:** Local Content  Forecasting, Plans, and Procurement Tactics. 
 * **Module 3:** Local Content Reporting, Impact Measurement, and Communications.
 * **Module 4:** Local Content Investments: Supplier and Workforce Development.
