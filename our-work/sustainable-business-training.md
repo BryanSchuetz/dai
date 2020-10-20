@@ -221,6 +221,21 @@ DAI leads customized courses upon request for private sector or government clien
 * Media appearances to discuss business and international development on BBC *Newsnight*, BBC Radio 4, BBC World Service, and CNBC, and has authored articles in *Newsweek* and *The Guardian*
 * Author of multiple books and papers on local content, including *[Local Content in Procurement](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf Publishing in 2012
 
+**Zaki Raheem—Senior Specialist, Sustainable Business Group**
+  
+Zaki Raheem has more than 18 years’ experience as an MSME development specialist designing, advising, mentoring, and managing entrepreneurship, enterprise development, value chain development, and financial inclusion programs. 
+•	Facilitates in-person and virtual workshops for entrepreneurs and small businesses; hosts business plan competitions, startup boot camps, innovation challenges and pitch events; designs and facilitates training-of-trainers for incubators 
+•	Technical Director for the global advisory team with Shell LiveWIRE, a flagship entrepreneurship program supporting a global network of accelerator and pre-accelerator programs 
+•	Adjunct Professor at Columbia University’s School of International and Public Affairs, where he teaches a graduate-level MSME development class
+Dipika Chawla  
+Principal Specialist, Sustainable Business Group 
+Dipika Chawla is an entrepreneurship specialist with more than 10 years’ experience in sustainable economic growth and MSME development.  
+•	Leads international and interdisciplinary teams to design and deliver entrepreneurship and MSME development programs
+•	Experienced trainer in product design, business model development, pivoting, organizational management, and pitching to investors 
+•	Designs and manages programs for business plan and innovation competitions; technology incubators and business accelerators; and entrepreneurship ecosystem strengthening 
+•	Presently serving as Team Lead of the technical team supporting implementation of Kosmos Innovation Center, a regional entrepreneurship program in West Africa  
+
+
 <hr>
 
 ## Contact Us
