@@ -13,6 +13,10 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Senegal
+promos:
+- title: New U.S. Government Activity to Boost Sustainable Private Investment and
+    Domestic Resource Mobilization in Senegal’s Agriculture Sector
+  link: https://www.dai.com/news/new-us-government-activity-to-boost-sustainable-private-investment-and-domestic-resource-mobilization-in-senegals-agriculture-sector
 ---
 
 Since the spike in world food prices in 2008, a widespread consensus has emerged that the historical model of Senegalese agricultural development—one based on large-scale public investments and market interventions concentrated in the groundnut and irrigated rice value chains—is outmoded and needs to be replaced by a more dynamic, private sector-led model focused on a broader range of value chains, such as dry cereals, horticulture, and livestock. Under the Feed the Future Senegal Policy Systems Services (PSS) Activity, we collaborate with the U.S. Agency for International Development and Senegalese actors to strengthen the country's agricultural and food policy system.
