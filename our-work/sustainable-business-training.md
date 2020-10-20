@@ -17,6 +17,13 @@ Our featured training includes:
 * Small Business Recovery and Resilience
 
 View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-TrainingCatalogue_2020.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
+
+Local Content Master Class
+The Sustainable Business Group offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
+In light of current circumstances, DAI will not be holding in-person Master Class courses this year, however, we are offering four full-day online Local Content modules derived from the Master Class. 
+
+
+
  
 ### Online Training
 
