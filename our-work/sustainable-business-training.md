@@ -202,15 +202,14 @@ DAI leads customized courses upon request for private sector or government clien
 * Key architect behind the development of a suite of DAI’s proprietary local content methodologies and tools currently deployed across the globe
 * Spearheaded a Local Content Regime Analysis in Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania, Papua New Guinea, and Uganda, to provide an assessment of impacts of local content regimes
 
-**Dorival Bettencourt—Manager, Oil and Gas**
+**Dorival Bettencourt—Director, Sustainable Business Group**
 
 ![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-right}
 
-* More than 10 years experience within the extractives industry, focusing on extensive local content and policy work
-* Supported development of a proprietary SBG tool that forecasts local content supply and demand
-* Spearheaded the Tanzania Local Content Benchmarking Study and Exchanges, which included designing and implementing a local content stakeholder engagement process for The Oil and Gas Association of Tanzania (OGAT). Dorival was the lead author of the first Local Content Benchmarking Study for Tanzania. Then, drawing on key conclusions from this study, he led a series of Local Content Exchanges to promote open dialogue on priority local content topics with stakeholders
-* Led and facilitated the first Kenya Local Content Exchange, one of a three-part series that brings together public, private, and civil stakeholders from Kenya's petroleum sector to facilitate discussion and create a deeper understanding of local content issues in the country
-* Led workshops covering the fundamentals of oil and gas and local content, aimed at providing the Senegalese media with the foundational knowledge to effectively report on developments within the sector
+[Dorival Bettencourt](https://www.dai.com/who-we-are/our-team/dorival-bettencourt) has more than 10 years’ experience in oil and gas investment, focusing on local content policy and implementation, and leads activities related to local content, corporate social investment, and supplier development for oil and gas clients around the world. 
+* Leads and oversees industrial baseline assessments for major oil and gas investments globally 
+* Designs and implements local content stakeholder engagement strategies across DAI’s portfolio
+* Extractive Industry Lead for U.S. Agency for International Development-funded private sector development and competitiveness program in Mozambique
 
 **Dr. Michael Warner—Senior Advisor, Local Content Performance and Reporting**
 
