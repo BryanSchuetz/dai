@@ -143,7 +143,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 <hr>
 
-### Oil and Gas 101 Training
+## Oil and Gas 101 Training
 
 SBG has been a capacity-building and stakeholder engagement partner for international oil and gas companies around the world for the last half-decade. During this period SBG has conducted dozens of Oil & Gas 101 workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the oil and gas industry and develop the industry knowledge of various stakeholders. 
 
@@ -163,7 +163,7 @@ The sessions cover a range of topics including:
 
 In addition to general capacity-building and awareness programs, SBG also delivers training focused on specific project phases or event. An example is the training workshop on the fundamentals of the oil & gas industry delivered to Senegal’s ESIA Technical Committee in July 2018. The workshop, held in Dakar, was organized by the Directorate of the Environment under the Ministry of Environment and Sustainable Development in coordination with the operator BP. The objective of the workshop was to give participants a deeper technical understanding of the oil and gas industry to enhance their ability to assess the Tortue-1 ESIA document. The sessions covered the industry value chain; the process by which hydrocarbons are formed; technical aspects of the upstream segment, technologies used at different phases; gas composition, process processing and the LNG market; detailed breakdowns of different production facilities; and operational aspects of oil spill response.  
  
-### Small Business Recovery and Resilience Training
+## Small Business Recovery and Resilience Training
 
 Micro, small, and medium enterprises (MSMEs) comprise up to 95 percent of the world’s businesses and employ up to 60 percent of the workforce. However, MSMEs are more vulnerable to shocks than their larger counterparts, whether those shocks are economic, health-related, climatic, political, or otherwise. DAI’s small business recovery and resilience training takes businesses and startups through critical business tools and techniques to help stabilize, strengthen, and pivot their companies.
 
