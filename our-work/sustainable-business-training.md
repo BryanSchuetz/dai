@@ -145,7 +145,7 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 ## Oil and Gas 101 Training
 
-SBG has been a capacity-building and stakeholder engagement partner for international oil and gas companies around the world for the last half-decade. During this period SBG has conducted dozens of Oil & Gas 101 workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the oil and gas industry and develop the industry knowledge of various stakeholders. 
+SBG has been a capacity-building and stakeholder engagement partner for international oil and gas companies around the world for the last half-decade. During this period SBG has conducted dozens of Oil and Gas 101 workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the oil and gas industry and develop the industry knowledge of various stakeholders. 
 
 ## Who Can Participate?
 
