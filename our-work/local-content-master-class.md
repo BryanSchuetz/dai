@@ -1,17 +1,22 @@
 ---
 title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
-summary: The Sustainable Business Group offers the industry-leading Master Class enabling
-  regulators, companies, and contractors to effectively design and manage local content
-  to maximize benefits and minimize risk.
+summary: 'Building off 50 years of international development experience, DAI offers
+  a comprehensive catalogue of online training. '
 layout: default
 ---
 
 # Sustainable Business Training
 
-The [Sustainable Business Group](/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
- 
-In light of current circumstances, DAI will not be holding in-person Master Class courses this year, however, we are offering four full-day online Local Content modules derived from the Master Class.
+Building off 50 years of international development experience, DAI offers a comprehensive catalogue of online training. Our training sessions are distinguished by the quality of the content that is steeped in practical applications of development practices and topics. We draw on more than 2,000 long-term projects and development assignments completed across 150 countries to advance trainees’ understanding. Our expert trainers are development practitioners themselves and rely on data and analytics to craft the course material using real case studies to apply theory to practice. Our courses can be customized to specific languages, countries (specific geographies within a country), and development context to maximize the application of the material to current challenges.
+
+Our featured training includes:
+
+* Local Content Master Class
+* Oil and Gas 101
+* Small Business Recovery and Resilience
+
+View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-TrainingCatalogue_2020.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
  
 ### Online Training
 
@@ -164,7 +169,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 ![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
 
-* As Director of the Sustainable Business Group, Zach leads activities related to local content, corporate social investment and supplier development
+* As Director of the Sustainable Business Group, Zach leads activities related to local content, corporate social investment, and supplier development
 * More than 10 years experience within the extractives industry, focusing on extensive local content and policy work
 * Served as a Technical Advisor to local content supplier development programs linked to the extractive industries in Angola, Ghana, Mozambique, Nigeria, and Zambia. Much of this work included assessing local supplier capacity, helping local suppliers upgrade to enter global supply chains, and facilitating foreign direct investment vis-à-vis joint-ventures and business-to-business relationships between international and local companies
 * Spearheaded a Local Content Regime Analysis in seven countries including Brazil, Ghana, Nigeria, Papua New Guinea, Tanzania, Trinidad and Tobago, and Uganda, to provide a comparative analysis of the impacts of various local content regimes
