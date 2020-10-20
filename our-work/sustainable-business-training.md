@@ -18,18 +18,17 @@ Our featured training includes:
 
 View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-TrainingCatalogue_2020.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
 
-Local Content Master Class
-The Sustainable Business Group offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
+### Local Content Master Class
+
+The [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
+
 In light of current circumstances, DAI will not be holding in-person Master Class courses this year, however, we are offering four full-day online Local Content modules derived from the Master Class. 
-
-
-
  
 ### Online Training
 
 Our tailored online training brings you insight from our expert trainers working at the forefront of international development and local content policy. The full-day modules involve interactive workshop activities, networking opportunities, and local content skills building.
 
-Contact training@dai.com for pricing and registration.
+Contact [training@dai.com](mailto:training@dai.com) for pricing and registration.
  
 Upcoming Sessions:
 
@@ -144,6 +143,48 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 <hr>
 
+### Oil and Gas 101 Training
+
+SBG has been a capacity-building and stakeholder engagement partner for international oil and gas companies around the world for the last half-decade. During this period SBG has conducted dozens of Oil & Gas 101 workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the oil and gas industry and develop the industry knowledge of various stakeholders. 
+
+## Who Can Participate?
+
+So far, we have trained more than 400 individuals from the media, government, blogger activists, civil society, nongovernmental organizations, environmental specialists, community leaders, mayor’s offices, governor’s offices, religious leaders, security forces, businesses, business associations, and several other stakeholder groups. 
+
+The sessions cover a range of topics including:
+
+* Oil and gas fundamentals (industry characteristics, structure, players, value chain)
+* Oil and gas project lifecycle
+* Political economy dynamics in oil and gas
+* Development opportunities and challenges
+* Local content
+* Introduction to fiscals for oil and gas
+* Introduction to gas and LNG
+
+In addition to general capacity-building and awareness programs, SBG also delivers training focused on specific project phases or event. An example is the training workshop on the fundamentals of the oil & gas industry delivered to Senegal’s ESIA Technical Committee in July 2018. The workshop, held in Dakar, was organized by the Directorate of the Environment under the Ministry of Environment and Sustainable Development in coordination with the operator BP. The objective of the workshop was to give participants a deeper technical understanding of the oil and gas industry to enhance their ability to assess the Tortue-1 ESIA document. The sessions covered the industry value chain; the process by which hydrocarbons are formed; technical aspects of the upstream segment, technologies used at different phases; gas composition, process processing and the LNG market; detailed breakdowns of different production facilities; and operational aspects of oil spill response.  
+ 
+### Small Business Recovery and Resilience Training
+
+Micro, small, and medium enterprises (MSMEs) comprise up to 95 percent of the world’s businesses and employ up to 60 percent of the workforce. However, MSMEs are more vulnerable to shocks than their larger counterparts, whether those shocks are economic, health-related, climatic, political, or otherwise. DAI’s small business recovery and resilience training takes businesses and startups through critical business tools and techniques to help stabilize, strengthen, and pivot their companies.
+
+The modules are designed to: 
+
+* Develop stabilization plans for business continuity related to operations and workforce
+* Manage cash flow, calculate runway, and develop a short-term financial strategy 
+* Analyze customer demand and pivot business model to seize current opportunities 
+* Adjust sales approach to current environment (such as leveraging e-commerce) 
+* Shore up supply chain to mitigate further risk
+
+DAI’s small business recovery and resilience training can be delivered either as individual, targeted modules or as the holistic two-day MSME Resilience System.
+
+## Who Can Participate?
+
+* **Companies**: Support local suppliers, redirect corporate social responsibility (CSR) funds to effective training for sustainable growth
+* **Governments**: Accelerate MSME sector resilience as part of larger economic recovery efforts 
+* **Donors**: Adapt economic growth projects to current needs and realities 
+* **Financial institutions**: Reduce MSME portfolio risk and nonperforming loans 
+* **Industry associations**: Develop the resilience of member companies and support them as they adjust to a COVID-19 environment
+
 ## Customized Courses
 
 DAI leads customized courses upon request for private sector or government clients. Previous customized course locations include Canada, Ghana, Guyana, Oman, Sierra Leone, and Tanzania.
@@ -152,15 +193,14 @@ DAI leads customized courses upon request for private sector or government clien
 
 ## Meet Our Trainers
 
-**Dr. Michael Warner—Senior Advisor, Local Content Performance and Reporting**
+**Zachary Kaplan—Vice President, Sustainable Business Group**
 
-![Michael Warner Photo](/uploads/warner.jpg){:.float-right}
+![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
 
-* One of the world’s leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors
-* Founder and lead trainer of the BAC-accredited Local Content Master Class, where he trained more than 400 professionals in local content
-* Former Managing Director of Local Content Solutions Ltd., an advisory and training company acquired by DAI in 2017
-* Media appearances to discuss business and international development on BBC *Newsnight*, BBC Radio 4, BBC World Service, and CNBC, and has authored articles in *Newsweek* and *The Guardian*
-* Author of multiple books and papers on local content, including *[Local Content in Procurement](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf Publishing in 2012
+[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan) has more than 10 years’ experience within the extractives industry, focusing on extensive local content and policy, and leads activities related to local content, corporate social investment, and supplier development. 
+* Technical Advisor to local content supplier development programs worldwide. Assessed local supplier capacity for upgrade to enter global supply chains and facilitated foreign direct investments via joint ventures
+* Key architect behind the development of a suite of DAI’s proprietary local content methodologies and tools currently deployed across the globe
+* Spearheaded a Local Content Regime Analysis in Ghana, Nigeria, Brazil, Trinidad and Tobago, Tanzania, Papua New Guinea, and Uganda, to provide an assessment of impacts of local content regimes
 
 **Dorival Bettencourt—Manager, Oil and Gas**
 
@@ -172,17 +212,15 @@ DAI leads customized courses upon request for private sector or government clien
 * Led and facilitated the first Kenya Local Content Exchange, one of a three-part series that brings together public, private, and civil stakeholders from Kenya's petroleum sector to facilitate discussion and create a deeper understanding of local content issues in the country
 * Led workshops covering the fundamentals of oil and gas and local content, aimed at providing the Senegalese media with the foundational knowledge to effectively report on developments within the sector
 
-**Zachary Kaplan—Vice President, Sustainable Business Group**
+**Dr. Michael Warner—Senior Advisor, Local Content Performance and Reporting**
 
-![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
+![Michael Warner Photo](/uploads/warner.jpg){:.float-right}
 
-* As Director of the Sustainable Business Group, Zach leads activities related to local content, corporate social investment, and supplier development
-* More than 10 years experience within the extractives industry, focusing on extensive local content and policy work
-* Served as a Technical Advisor to local content supplier development programs linked to the extractive industries in Angola, Ghana, Mozambique, Nigeria, and Zambia. Much of this work included assessing local supplier capacity, helping local suppliers upgrade to enter global supply chains, and facilitating foreign direct investment vis-à-vis joint-ventures and business-to-business relationships between international and local companies
-* Spearheaded a Local Content Regime Analysis in seven countries including Brazil, Ghana, Nigeria, Papua New Guinea, Tanzania, Trinidad and Tobago, and Uganda, to provide a comparative analysis of the impacts of various local content regimes
-* Recently led the Local Content Strategy Project for ExxonMobil Ghana, which included both an industrial baseline analysis of the Ghanaian offshore petroleum industry to assess the ability of local suppliers, as well as an analysis of the Ghanaian regulatory requirements
-* Summer guest lecturer on social change at Georgetown University
-* Guest panelist and keynote speaker at events such as the Lebanon Oil and Gas Summit and Mozambique Local Content Policy Options Forum, on topics including local content, supplier development, PPPs, and inclusive economic growth in extractive industries
+* One of the world’s leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors
+* Founder and lead trainer of the BAC-accredited Local Content Master Class, where he trained more than 400 professionals in local content
+* Former Managing Director of Local Content Solutions Ltd., an advisory and training company acquired by DAI in 2017
+* Media appearances to discuss business and international development on BBC *Newsnight*, BBC Radio 4, BBC World Service, and CNBC, and has authored articles in *Newsweek* and *The Guardian*
+* Author of multiple books and papers on local content, including *[Local Content in Procurement](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf Publishing in 2012
 
 <hr>
 
