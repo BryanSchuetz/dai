@@ -22,6 +22,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Nigeria
+promos:
+- title: Effect of COVID-19 on Gender-Based Violence
+  link: http://www.perlnigeria.net/new-version/resources-for-partners/effect-of-covid-19-on-gender-based-violence
 layout: project
 ---
 
