@@ -1,8 +1,9 @@
 ---
 title: Worldwide—Expert Advisory Call Down Services (EACDS) Lots B, C, and D
 date: 2017-03-04 02:41:00 Z
-summary: EACDS was a technical advisory call-down service which provides rapid-response,
-  expert support to FCDO and other U.K. Government agencies and other donors.
+summary: EACDS is a technical advisory call-down service which provides rapid-response,
+  expert support to the Foreign, Commonwealth & Development Office and other U.K.
+  Government agencies and other donors.
 start: 2016
 end: 2021
 client: Foreign, Commonwealth & Development Office
