@@ -2,7 +2,6 @@
 title: Democratic Republic of the Congo (DRC)—Strengthening Livelihoods and Resilience
   (SLR) Activity
 date: 2020-10-02 13:42:00 Z
-published: false
 summary: The DRC Strengthening Livelihoods and Resilience Activity assists the Government
   of the DRC to improve the resilience capacities in vulnerable households and communities
   and support the Congolese people, households, and communities in their efforts to
@@ -28,7 +27,7 @@ and transformative capacities of households, communities, institutions, and syst
 
 ### Sample Activities
 
-* Increase security of tenure and improving land-based conflict resolution and social cohesion.
+* Improve land-based conflict resolution and social cohesion.
 * Increase access to financial services.
 * Diversify productive activities through increased private sector participation.
 * Boost access to and availability of nutrient-dense foods and good nutrition and hygiene behaviors.
