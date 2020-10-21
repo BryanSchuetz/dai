@@ -4,7 +4,7 @@ date: 2017-03-04 02:41:00 Z
 summary: EACDS was a technical advisory call-down service which provides rapid-response,
   expert support to FCDO and other U.K. Government agencies and other donors.
 start: 2016
-end: 2019
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate Change Adaptation and Mitigation
