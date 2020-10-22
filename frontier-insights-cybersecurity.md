@@ -18,52 +18,7 @@ But trust underpins digital adoption.  Therefore, a decline in trust poses a sta
 
 Therefore, DAI interviewed urban youth in Accra, Ghana and Chennai and Delhi, India about this issue and by doing so DAI hopes to advance the conversation beyond supply-side solutions to encompass demand-side insights that deepen our understanding of whether and why users trust, or don’t trust, the digital information and platforms they encounter, and what tactics they use to protect themselves online. 
 
-Join us to learn more about what we found and to discuss how stakeholders can support users round the world to stay safe and secure online and to maintain and build trust in digital tools.
-
-<aside>
-  <h3>Africa Time Zone:</h3>
-  <ul style="list-style-type: none;">
-    <li><strong>Date:</strong> October 20 2020</li>
-    <li><strong>Time:</strong> 16:00 UTC/GMT / 12:00 EST UTC - 4</li>
-  </ul>
-  <ul style="list-style-type: none;">
-    <li><strong>Speakers:</strong></li>
-    <li><strong>Eleanor Sarpong</strong>, Deputy Director & Policy Lead, A4AI</li>
-    <li><strong>Meghan Lefeber</strong>, Senior Economic and Private Capital Advisor, USAID</li>
-    <li><strong>Derek B Laryea</strong>, Head of Research and Communications, The Ghana Chamber of Telecommunications
-    </li>
-    <li><strong>Krista Baptista</strong>, Senior Director, <strong>Julia Burchell</strong>, Senior Consultant and
-      <strong>Galia Nurko</strong>, Digital Specialist, all at DAI
-      Center for Digital Acceleration</li>
-  </ul>
-  <p><a href="https://us02web.zoom.us/meeting/register/tZwoc-uhpz4qEty-30MRyun_6LTOzNl8hASL"
-      class="primary-block--button">Register<svg class="redirect" viewBox="0 0 36 70"
-        preserveAspectRatio="xMinYMax meet">
-        <use xlink:href="#redirect"></use>
-      </svg></a></p>
-</aside>
-
-<aside>
-  <h3>Asia Time Zone:</h3>
-  <ul style="list-style-type: none;">
-    <li><strong>Date:</strong> October 21 2020</li>
-    <li><strong>Time:</strong> 11:00 UTC / 12:00 BST / 16:30 IST (UTC + 5:30)</li>
-  </ul>
-  <ul style="list-style-type: none;">
-    <li><strong>Speakers:</strong></li>
-    <li><strong>Andrew Toft</strong>, Senior Digital Adviser, Foreign, Commonwealth & Development Office</li>
-    <li><strong>Rahul Shah</strong>, Mobile for Development Director, APAC, GSMA</li>
-    <li><strong>Sara Chamberlain</strong>, Digital Director, BBC Media Action</li>
-    <li><strong>Krista Baptista</strong>, Senior Director & <strong>Julia Burchell</strong>, Senior Consultant, both at
-      DAI Center for Digital Acceleration;
-      <strong>Alexandra Tyers-Chowdhury</strong>, Independent Consultant</li>
-  </ul>
-  <p><a href="https://us02web.zoom.us/meeting/register/tZwvf-CqrDMsEtWzzH-HXP3XHz57_D6CSS-d"
-      class="primary-block--button">Register<svg class="redirect" viewBox="0 0 36 70"
-        preserveAspectRatio="xMinYMax meet">
-        <use xlink:href="#redirect"></use>
-      </svg></a></p>
-</aside>
+See the recordings from our launch events below to learn more about what we found and hear  stakeholders discuss how we can support users around the world to stay safe and secure online and to maintain and build trust in digital tools
 
 ### Event Video
 
