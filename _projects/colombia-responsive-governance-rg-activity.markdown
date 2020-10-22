@@ -1,7 +1,6 @@
 ---
 title: Colombia—Responsive Governance (RG) Activity
 date: 2020-10-20 15:33:00 Z
-published: false
 summary: With Colombian partner organizations Transparencia por Colombia, Pastoral
   Social, and Corpovisionarios, the Responsive Governance Activity will build on the
   decentralization efforts supported by the U.S. Agency for International Development
@@ -23,7 +22,7 @@ Working at the intersection of public financial management (PFM), local governan
  
 RG will work in 27 conflict-affected municipalities.
 
-![RGA.jpg](/uploads/RGA.jpg)
+![RGA.jpg](/uploads/RGA.jpg)`Hanz Ripper for DAI.`
 
 ### Sample Activities
 
