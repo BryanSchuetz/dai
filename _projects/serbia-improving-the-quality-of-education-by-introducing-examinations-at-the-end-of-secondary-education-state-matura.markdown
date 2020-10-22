@@ -21,16 +21,18 @@ The introduction of the new final examination system should resolve the existing
 
 DAI’s European Union-funded State Matura Project aims to prepare the education system and the Ministry of Education, Science and Technological Development (MoESTD) to implement the final examinations at the end of secondary education in the Republic of Serbia.
 
+![Serbia_Matura (1).jpg](/uploads/Serbia_Matura%20(1).jpg)
+
 ### Sample Activities
 
-* Identify The organizational model for setting up the system of final examinations at the end of secondary education (state matura) are identified and institutional and legal frameworks are harmonized 
--	Higher education institutions are prepared for a new way of enrolment of students. 
--	Strengthening and building capacities and professional competencies of all relevant stakeholders to participate in the process of preparation, implementation and evaluation of final examinations at the end of secondary education
--	Increased understanding of the public about the relevance of introducing final examinations in secondary education and its benefits for society. 
-Selected results: 
--	First pilot matura exam planned and agreed with MoESTD for October 2020 in 100 schools in Serbia
--	The methodology for the state matura is approved, the legislative framework is under consideration and shared for approval with MoESTD
--	Framework for institutional development prepared and discussed with representatives of the Institute for the Improvement of Education and he Institute for Education Quality and Evaluation in Serbia. 
--	Prepared training/workshop programmes for Higher-Education Institutions to support them in integrating the state matura into admission procedures. 
--	Fully developed, attractive, user friendly and sophisticated state matura website (https://matura.edu.rs/ ). The final version is the result of the detailed comments and inputs received by the EU Delegation in Serbia and the MoESTD. 
--	With the COVID-19 pandemic outbreak, TAT quickly switched to online meetings, by sourcing online trainings, evaluating online tools and considering options for a full migration from off to online.
+* Identify an organizational model for setting up the system of final examinations at the end of secondary education (state matura) and harmonize the legal framework. 
+* Prepare higher education institutions for a new way of enrolment of students. 
+* Strengthen and build capacities and professional competencies of all relevant stakeholders to participate in the process of preparation, implementation, and evaluation of final examinations at the end of secondary education.
+* Increase understanding of the public about the relevance of introducing final examinations in secondary education and its benefits for society. 
+
+### Select Results
+ 
+* Implemented first pilot matura exam in October 2020 in 100 schools in Serbia.
+* Prepared framework for institutional development and discussed with representatives of the Institute for the Improvement of Education and the Institute for Education Quality and Evaluation in Serbia. 
+* Prepared training and workshop programmes for higher education institutions to support them in integrating the state *matura* into admission procedures.
+* Developed user-friendly and sophisticated state *matura* [website.](https://matura.edu.rs/)
