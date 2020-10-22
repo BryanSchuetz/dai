@@ -20,6 +20,9 @@ Therefore, DAI interviewed urban youth in Accra, Ghana and Chennai and Delhi, In
 
 See the recordings from our launch events below to learn more about what we found and hear  stakeholders discuss how we can support users around the world to stay safe and secure online and to maintain and build trust in digital tools
 
-### Event Video
+### Event Videos
 
 <iframe src="https://player.vimeo.com/video/470421424" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+<iframe src="https://player.vimeo.com/video/471066195" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
