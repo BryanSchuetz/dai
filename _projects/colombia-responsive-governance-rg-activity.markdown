@@ -23,6 +23,8 @@ Working at the intersection of public financial management (PFM), local governan
  
 RG will work in 27 conflict-affected municipalities.
 
+![RGA.jpg](/uploads/RGA.jpg)
+
 ### Sample Activities
 
 * Improve local government service delivery and implementation of the Peace Accords.
