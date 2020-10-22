@@ -19,7 +19,7 @@ Analyses of the Serbian education system carried out in recent years have shown 
 
 The introduction of the new final examination system should resolve the existing problems and establish a coherent system linking educational goals, education standards, various forms of assessment, and evaluation. The standardized state-administered matura, at the end of secondary education across Serbia, will enable the evaluation of the quality of education to become objective and build a knowledge-based society.
 
-DAI’s European Union-funded State Matura Project aims to prepare the education system and the Ministry of Education, Science and Technological Development (MoESTD) to implement the final examinations at the end of secondary education in the Republic of Serbia.
+DAI’s European Union-funded State Matura Project aims to prepare the education system and the Ministry of Education, Science, and Technological Development (MoESTD) to implement the final examinations at the end of secondary education in the Republic of Serbia.
 
 ![Serbia_Matura (1).jpg](/uploads/Serbia_Matura%20(1).jpg)
 
@@ -35,4 +35,4 @@ DAI’s European Union-funded State Matura Project aims to prepare the education
 * Implemented first pilot matura exam in October 2020 in 100 schools in Serbia.
 * Prepared framework for institutional development and discussed with representatives of the Institute for the Improvement of Education and the Institute for Education Quality and Evaluation in Serbia. 
 * Prepared training and workshop programmes for higher education institutions to support them in integrating the state matura into admission procedures.
-* Developed user-friendly and sophisticated state *matura* [website.](https://matura.edu.rs/)
+* Developed user-friendly and sophisticated state matura [website.](https://matura.edu.rs/)
