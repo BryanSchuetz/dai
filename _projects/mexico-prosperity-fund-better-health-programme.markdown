@@ -17,6 +17,8 @@ The Better Health Programme Mexico (BHPMx) is part of the U.K. Global Prosperity
 
 The programme fosters long-term links between Mexican institutions and the National Health Service, other U.K. institutions, and networks of researchers and service providers. U.K. and Mexican partners will together build an understanding of the gendered nature of the NCD epidemic and of the severe exclusion of some groups based on ethnicity, disability, or geographical location, as well as high levels of gender-based violence across the country and inequality within the health system.
 
+<iframe src="https://player.vimeo.com/video/471017654" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### Sample Activities
 
 * Create a mechanism for long-term, mutually beneficial collaboration between the United Kingdom and Mexico by developing frameworks for knowledge exchange and relationships between a range of institutions.
