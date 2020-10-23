@@ -49,6 +49,7 @@ Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the S
 
 * Established the Southern African Development Community (SADC) Seed Committee.
 * Launched the Seed Control and Certification Institute Online Seed Lab in Zambia.
+* Supported [Zambia’s accession](https://www.usaid.gov/southern-africa-regional/news/zambia-first-nation-domesticate-regional-seed-trade-policy) to the SADC Harmonized Seed Regulatory System.
 * [Launched grant](https://clubofmozambique.com/news/the-u-s-government-through-the-feed-the-future-southern-africa-seed-trade-project-launches-grant-to-the-association-for-the-promotion-of-the-seed-sector-in-mozambique/) to the Association for the Promotion of the Seed Sector (APROSE), for the implementation of the Southern African Development Community (SADC) Harmonised Seed Regulatory System in Mozambique.
 * Facilitated inaugural Hybrid Maize Seed produced under the Harmonized Seed Regulatory Systems, the [first export](https://www.usaid.gov/southern-africa-regional/news/seed-zambia-fields-democratic-republic-congo) of a nongenetically modified organism hybrid maize seed easily produced in Zambia, but not in the mineral-rich the Democratic Republic of Congo. 
 * Facilitated review of the SADC Seed Centre Sustainability Business Model and its Implementation Plan along with approval of both. The plan focuses on activities with potential to trigger multiple streams of revenue for the SADC Seed Centre, laying the groundwork for self-reliance and long-term sustainability.
