@@ -41,7 +41,7 @@ InovAgro III builds on the program’s previous phases by further strengthening 
 
 ### Select Results
 
-* InovaAgro I linked a major contract farming operator with small farmers and improved access to quality seeds, resulting in an 18 percent increase in farmers’ incomes.
+* InovAgro I linked a major contract farming operator with small farmers and improved access to quality seeds, resulting in an 18 percent increase in farmers’ incomes.
 * InovAgro I facilitated the multiplication of new varieties of soya bean seed, leading to 175 tons of cheaper certified seed being sold to small farmers in the 2013-2014 season.
 * InovAgro II formed partnerships between 10 agricultural input and output companies to help 2,000 farmers find new markets.
 * InovAgro II worked with 19 local traders to purchase 5,500 metric tonnes of produce from smallholder farmers for a total value of $1.5 million.
