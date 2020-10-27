@@ -20,7 +20,7 @@
 {% endif %}
 {% assign current_year = site.time | date:"%Y" | times:1 %}
 {% assign projects = site.projects | where_exp: "project", "project.solutions contains page.title" %}
-{%- assign projects = projects | sort:"start" -%}
+{%- assign projects = projects | sort:"start" | reverse -%}
 {% if projects.size > 0 %}
   <div class="block-project {% if page.type != "primary" and page.promos %}tighten{% endif %}">
     <h1>Our Projects</h1>
