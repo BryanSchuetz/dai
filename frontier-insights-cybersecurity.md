@@ -6,7 +6,7 @@ layout: default
 
 # Cybersecurity Frontier Insights launch: Perceptions of Trust and Privacy on the Internet
 
-DAI’s Center for Digital Acceleration cordially invites you an online event to share the findings of its latest Cybersecurity Frontier Insights research into user perceptions of trust and privacy on the internet in India and Ghana and to discuss these with a panel of distinguished speakers. 
+DAI’s Center for Digital Acceleration cordially invites you an online event to share the findings of its latest [Cybersecurity Frontier Insights research into user perceptions of trust and privacy on the internet](https://www.dai.com/fi-cyber-user-trust.pdf) in India and Ghana and to discuss these with a panel of distinguished speakers. 
 
 ![picture](/uploads/insights-pic-1.jpg)
 
