@@ -1,10 +1,14 @@
 ---
 title: The Supplier Registration Portal
 date: 2017-06-19 15:11:00 Z
-summary: |
-  The Supplier Registration Portal is proprietary software delivered by DAI’s Sustainable Business Group (SBG) to operators of large-scale capital projects in order to more effectively manage their supply chains.
+summary: 'The Supplier Registration Portal is proprietary software delivered by DAI’s
+  Sustainable Business Group (SBG) to operators of large-scale capital projects in
+  order to more effectively manage their supply chains.
+
+'
 layout: default
 ---
+
 # Supplier Registration Portal 
 
 Our portal is proprietary software delivered by DAI’s [Sustainable Business Group](/our-work/solutions/sustainable-business) (SBG) to operators of large-scale capital projects in order to more effectively manage their supply chains. It leverages technology to build and strengthen networks in supplier management globally. 
