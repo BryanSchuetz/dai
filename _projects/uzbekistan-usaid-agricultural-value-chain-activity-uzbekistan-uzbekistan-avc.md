@@ -21,6 +21,9 @@ promos:
 - title: 'Ending the Wait for Water: USAID supports farmers to install climate-smart
     drip irrigation systems in Uzbekistan'
   link: https://usaidpubs.exposure.co/ending-the-wait-for-water
+- title: USAID Celebrates the Achievements of Its Five-year Agriculture Program in
+    Uzbekistan
+  link: https://uz.usembassy.gov/usaid-celebrates-the-achievements-of-its-five-year-agriculture-program-in-uzbekistan/
 layout: project
 ---
 
