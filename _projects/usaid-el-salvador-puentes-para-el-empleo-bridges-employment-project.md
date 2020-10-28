@@ -23,6 +23,9 @@ promos:
 - title: Using Skills Learned through USAID Bridges to Employment to Respond to the
     Pandemic
   link: https://www.youthpower.org/news/using-skills-learned-through-usaid-bridges-employment-respond-pandemic
+- title: 'Pivoting in a Pandemic: Youth in USAID’s Bridges to Employment Project Create
+    Essential Supplies for Healthcare Workers'
+  link: https://www.edu-links.org/learning/youth-usaids-bridges-employment-project-create-essential-supplies-healthcare-workers#.X5nNanxUqHw.twitter
 layout: project
 ---
 
