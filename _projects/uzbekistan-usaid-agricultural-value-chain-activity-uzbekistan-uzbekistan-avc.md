@@ -51,7 +51,7 @@ Uzbekistan AVC provided more than 100,000 training hours to its partners. These 
 
 * Incentivized more than 10,000 horticultural producers and processors to adopt new technologies and practices, [improving agricultural practices](https://www.youtube.com/watch?v=utcQNbBd_2g) on 15,600 hectares of horticultural farms. 
 * Published studies in the *International Journal of Advanced Science and Technology* on the "[Qualitative Organizing of Storage Process of Table Grape Varieties by Using Grape Guard Sheets in Cold Storage](http://sersc.org/journals/index.php/IJAST/article/view/21857)" and the *Journal of Advanced Research in Dynamical and Control Systems* on the "[Effect of Different Grape Guard Sheets for the Storage of 'Toyfi' Variety of Grape](https://www.jardcs.org/abstract.php?id=5769)."
-* Leveraged $23 million in private sector investment in the establishment of new orchards, installation of water-saving technologies, expansion of the cold chain network, and upgrades in product packaging, marketing, and branding to meet international standards. 
+* Leveraged $23 million in private sector investment in the establishment of new orchards, installation of water-saving technologies, expansion of the cold chain network, and upgrades in product packaging, marketing, and branding to meet international standards.
 * Provided 100,000 hours of training and facilitated the emergence of 75 new consulting service providers, contributing to a 67 percent increase in farm yields, increasing income among targeted farmers by 107 percent. 
 
 <iframe src="https://player.vimeo.com/video/210491523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
