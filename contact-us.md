@@ -81,7 +81,7 @@ Tel: +44 (0) 203 943 3216<br>
     3a Eko Akete Close<br>
     Off St Gregory’s College Road<br>
     Ikoyi, Lagos<br>
-    +234.1 291.8657<br>
+    +234 1 291 8657<br>
   </p>
   </div>
 </div>
