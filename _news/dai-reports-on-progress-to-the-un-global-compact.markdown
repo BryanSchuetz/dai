@@ -7,7 +7,7 @@ summary: DAI is delighted to make its first [Communication on Progress](https://
 social-image: "/uploads/Screenshot%202019-01-29%20at%202.07.59%20PM-b3e4d7.png"
 ---
 
-DAI is delighted to make its first [Communication on Progress](https://s3-us-west-2.amazonaws.com/ungc-production/attachments/cop_2019/471353/original/DAI_Global_UNGC_COP_Final.pdf?1548772536) to the United Nations Global Compact.
+DAI is delighted to make its first [Communication on Progress](/uploads/DAI%20Global%20UNGC%20COP%20Final.pdf) to the United Nations Global Compact.
 
 ![Screenshot 2019-01-29 at 2.07.59 PM-b3e4d7.png](/uploads/Screenshot%202019-01-29%20at%202.07.59%20PM-b3e4d7.png)
 
