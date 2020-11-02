@@ -1,13 +1,14 @@
 ---
 title: DAI Raises $7,500 for the Linda Norgrove Foundation
 date: 2020-11-02 17:34:00 Z
+social-image: "/uploads/linda%20sm.png"
 ---
 
 DAI’s annual fundraising events for the [Linda Norgrove Foundation](https://lindanorgrovefoundation.org/), a grant-giving trust that provides funding for women, families, and children in Afghanistan, got creative this year in the face of restrictions necessitated by the COVID-19 pandemic. Typical events—such as our traditional 5k walk/run, happy hour, and so on—could not be held. Not to be deterred, DAI’s committee came up with clever—and safely distanced—alternatives to raise the final amount, which was up by more than $2,000 compared to 2019.
 
 Events included a virtual 5k run, in which employees donated a fee and then ran on their own; an online trivia contest involving staff from around the globe; and various employee-taught online courses, in which employees with unique skills or knowledge hosted classes in return for a donation. 
 
-
+![ejonta cooking snip.PNG](/uploads/ejonta%20cooking%20snip.PNG)`Screenshot from an employee-led online cooking class that raised funds for the foundation.`
 
 Proceeds from the 2020 fundraiser will provide scholarships for young Afghan women to study midwifery. The foundation has already received 70 applications; selected students will study at Resalat Noor Institute of Health Science for two years to qualify as midwives.
 
