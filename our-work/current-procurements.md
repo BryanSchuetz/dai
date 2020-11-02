@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [State2State Best Fit Innovation RFP](/uploads/S2S%20Best%20Fit%20Inventory%20RFP%20-%20FINAL%203Nov2020.pdf)
 * [EOI-ACEBA-KBL-002 AGRI-Genomic Study of Cashmere Goats](/uploads/EOI-ACEBA-KBL-002.pdf)
 * [RFP-CTJ-TUR-20-0001 Procurement of fruit/vegetable peeling, coring and cutting equipment](/uploads/RFP-CTJ-TUR-20-0001_equipment.pdf)
 * [RFP-KBL-006-ACEBA Gem Lab Technical Assistance ](/uploads/RFP-KBL-006-ACEBA%20Gem%20Lab%20Technical%20Assistance.pdf)
