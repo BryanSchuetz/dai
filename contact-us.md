@@ -61,13 +61,6 @@ Tel: +44 (0) 203 943 3216<br>
     Tel: 0032 2 7420290<br>
     <a href="mailto:brusselsinfo@dai.com">Email</a></p>
 
-    <p><strong>Asia and Pacific Region Representative</strong><br>
-    Inovact Consulting Pty. Ltd.<br>
-    Level 7, Hobart Place<br>
-    AMP Building<br>
-    Canberra, Australia<br>
-    Tel: +61 2 6162 1621</p>
-
 <h2 id="uk">Africa</h2>
   <p>
     <strong>Abuja, Nigeria</strong><br>
