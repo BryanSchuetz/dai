@@ -31,6 +31,7 @@ During its first year, the project initiated the process of transforming Afghani
 
 ### Select Results
 
+* As part of its COVID-19 response, the project invested $77,000 to incentivize exports through new routes and transport means, resulting in 92 shipments to Canada, the United States, Australia, Germany, Saudi Arabia, and Japan worth $4.5 million (a 58:1 return on investment). These and other pre-COVID activities resulted in $6.4 million in additional investment in agriculture and $10.6 million in incremental exports.
 * Sponsored the first [Afghanistan National Young Innovators in Agriculture Competition](https://www.usaid.gov/afghanistan/news-information/press-releases/Oct-29-2019-USAID-Supports-Young-Innovators-Tackling-Agriculture-Problems).
 * Established partnerships with 99 agribusinesses.
 * Facilitated $6.5 million in exports.
