@@ -39,6 +39,7 @@ The Asegurando la Educación (Securing Education) program, funded by the U.S. Ag
 
 ### Select Results
 
+* Hosted its sixth Teacher Wellbeing session; 4,591 educators connected live—a 5,000 percent increase from the first session in April 2020. The six events have amassed 5,669 educators from 156 cities and 17 departments. The sessions provide strategies to reduce stress and strengthen social-emotional skills.
 * Assisted the Ministry of Education in developing the comprehensive National Strategy for Prevention and School Safety launched nationwide in February 2019.
 * Designed and delivered “Educators for Peace” professional development for more than 3,000 teachers from 115 target schools working in contexts of crisis; partnered with National Pedagogical University to work on incorporating “Educators for Peace” into pre-service training.
 * Designed and implemented a sports-based, social-emotional learning program, training physical education teachers to deliver it in 80 schools; the Ministry of Education is adopting the program for potential expansion into hundreds of schools.  
