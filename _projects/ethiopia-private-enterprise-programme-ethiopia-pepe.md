@@ -16,6 +16,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Ethiopia
+promos:
+- title: 'Webinar: Market Systems Development in Ethiopia'
+  link: https://www.youtube.com/watch?v=lnXWzARh8iE
 layout: project
 ---
 
