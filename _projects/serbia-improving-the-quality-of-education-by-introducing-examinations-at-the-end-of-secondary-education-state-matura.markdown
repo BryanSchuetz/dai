@@ -34,6 +34,7 @@ DAI’s European Union-funded State Matura Project aims to prepare the education
  
 * Implemented first pilot matura exam in October 2020 in 100 schools in Serbia.
 * Prepared framework for institutional development and discussed with representatives of the Institute for the Improvement of Education and the Institute for Education Quality and Evaluation in Serbia. 
+* Prepared instruments for facilitating the second piloting planned for May 2021, encompassing 65,000 students, more than 550 secondary schools, more than 50 different types of exams, available in nine languages.
 * Developed instructions for the administration of the state matura for candidates with special educational needs providing detailed guidance on administration, adaptations of examination materials, and assessment per disability. 
-* Prepared training and workshop programmes for higher education institutions to support them in integrating the state matura into admission procedures.
+* Prepared training and workshops for higher education institutions to support them in integrating the state matura into admission procedures.
 * Developed user-friendly and sophisticated state matura [website.](https://matura.edu.rs/)
