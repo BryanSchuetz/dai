@@ -1,10 +1,10 @@
 ---
-title: Uzbekistan—USAID Agricultural Value Chain Activity (Uzbekistan AVC)
+title: Uzbekistan—USAID Agricultural Value Chains Activity (Uzbekistan AVC)
 date: 2016-01-21 22:40:00 Z
-summary: The USAID Agricultural Value Chain Activity in Uzbekistan [improved the quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1)
-  and volume of agricultural production and post-harvest handling and production,
-  facilitated market linkages, and linked educational institutions with private sector
-  demand.
+summary: The USAID Agricultural Value Chains Activity in Uzbekistan [improved the
+  quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1) and volume of agricultural
+  production and post-harvest handling and production, facilitated market linkages,
+  and linked educational institutions with private sector demand.
 start: 2015
 end: 2020
 client: U.S. Agency for International Development
@@ -27,7 +27,7 @@ promos:
 layout: project
 ---
 
-Uzbekistan AVC capitalizesd on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We scaled up support to post-harvest handling and fostering new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC co-invested with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and [cold chain operators](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/)—to ensure scalability and sustainability.
+The USAID Agricultural Value Chains Activity in Uzbekistan (Uzbekistan AVC) capitalized on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We scaled up support to post-harvest handling and fostering new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC co-invested with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and [cold chain operators](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/)—to ensure scalability and sustainability.
 
 We [improved the quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1) and volume of agricultural production and post-harvest handling and production, facilitated market linkages, and linked educational institutions with private sector demand.
 
