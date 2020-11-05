@@ -3,6 +3,13 @@ title: DAI’s Zaki Raheem on Global Entrepreneurship Ecosystem Leadership in a 
   Economy
 date: 2020-11-05 14:59:00 Z
 published: false
+solutions:
+- Sustainable Business
+summary: At the Global Accelerator Network (GAN) November Roundtable, GAN CEO Patrick
+  Riley hosted a timely discussion on “How to Become a Global Ecosystem Leader to
+  Accelerators in a Post-Crisis Economy” with panelists JF Gauthier, Founder & CEO
+  of Startup Genome, and DAI’s Zaki Raheem, Senior Specialist for Enterprise Development
+  and Entrepreneurship.
 ---
 
 At the [Global Accelerator Network (GAN)](https://www.gan.co/) November Roundtable, GAN CEO Patrick Riley hosted a timely discussion on “How to Become a Global Ecosystem Leader to Accelerators in a Post-Crisis Economy” with panelists [JF Gauthier](https://www.linkedin.com/in/jfgauthier/), Founder & CEO of Startup Genome, and DAI’s [Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem), Senior Specialist for Enterprise Development and Entrepreneurship.
