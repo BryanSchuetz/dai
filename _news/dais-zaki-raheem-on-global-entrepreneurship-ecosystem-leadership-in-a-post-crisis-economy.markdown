@@ -2,7 +2,6 @@
 title: DAI’s Zaki Raheem on Global Entrepreneurship Ecosystem Leadership in a Post-Crisis
   Economy
 date: 2020-11-05 14:59:00 Z
-published: false
 solutions:
 - Sustainable Business
 summary: At the Global Accelerator Network (GAN) November Roundtable, GAN CEO Patrick
