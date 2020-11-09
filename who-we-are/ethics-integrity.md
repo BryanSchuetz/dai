@@ -18,7 +18,7 @@ promos:
 - title: Code of Business Conduct and Ethics - Bahasa Indonesia
   link: http://dai-global-conduct.com/assets/Bahasa%20Indonesia%20Pedoman%20Bisnis%20dan%20Etika%20DAI.pdf
 - title: Modern Day Slavery and Anti-Human Trafficking
-  link: "/uploads/Modern%20Slavery%20Statement%202019%20.pdf"
+  link: "/uploads/modern-day-slavery-statement.pdf"
 - title: DAI Europe Commitment Statement
   link: "/uploads/DAI-Europe%20Commitment%20Statement%20to%20DFID%20Signed%20June%202019.pdf"
 summary: 'DAI implements stringent policies and processes to ensure that our projects
