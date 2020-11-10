@@ -17,8 +17,6 @@ DAI is delighted to announce that the [Board of DAI Global, LLC](https://www.dai
 
 “Our Board members are true partners,” said DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard), who sits on the Board. “They embody the values of a company devoted to shaping a more livable world, they hold us to those values, and they help us bring those values to life in the form of a viable and vibrant business.”
 
-![2019-Private-Boards-of-the-Year_01.jpg](/uploads/2019-Private-Boards-of-the-Year_01.jpg)`From left: Daniel Heaney, Betsey Nelson, Maria Otero, Jim Boomgard, Elizabeth Littlefield, Ike Osakwe, and Gail Steinel.`
-
 This year’s awards will be presented at a gala dinner on the evening of June 6 at the [Private Company Governance Summit](https://pcgs.privatecompanydirector.com/), held June 5-7 at the Fairmont Washington in Washington, D.C.
 
 The Private Board of the Year awards recognize excellence in a maximum of six private company boards each year. This year, the [judges selected](http://privatecompanydirector.com/features/2019-private-boards-year-announced) 18 semi-finalists and 10 finalists. [DAI was recognized](https://finance.yahoo.com/news/2019-private-boards-award-winners-180700458.html) in the category for fiduciary boards of closely held or employee-owned companies with revenues between $350 million and $1 billion.
