@@ -16,10 +16,15 @@ regions: Sub-Saharan Africa
 country: Zambia
 ---
 
-The Local Impact Governance Activity (Local Impact) capitalizes on the momentum of recent policy initiatives and builds a sustainable foundation for devolved service delivery in Zambia. By supporting the transformation of subnational governance to be more responsive to citizen needs, Local Impact will leverage the U.S. Agency for International Development’s previous gains in transparency and accountability, health, education, and economic growth to help the Government of the Republic of Zambia (GRZ) improve both the enabling environment and development outcomes critical to advancing self-reliance. With national and local elections in August 2021, Local Impact will ensure that decentralization delivers on its promise.
- 
-The challenges to fulfilling the vision of decentralization include misalignment between national and local authorities, uneven capacity and characteristics of subnational actors, a constrained fiscal environment, and limited government-citizen collaboration. Although Zambia began devolving functions and administrative powers to districts in 2015, five years later, councils have yet to be empowered to deliver health, education, and economic development: funding for the devolved sectors remain with sector line ministries. Likewise, the natural resource management sector requires harmonization of policies (on forests, urban planning, water, wildlife) before councils can take on these responsibilities.
+Advancing decentralization is critical to Zambia achieving its vision of greater self-reliance and middle-income status by 2030. Recent Government of Zambia (GRZ) advances in the legal and administrative framework are encouraging, but decentralization implementation has been historically slow and uneven. The country struggles to transfer powers, functions, and resources to elected local authorities—the result of a combination of low capacity, misaligned political and bureaucratic incentives, and lack of full engagement of civil society and the private sector.
 
+The Local Impact Governance Activity (Local Impact) capitalizes on the momentum of recent policy initiatives and builds a sustainable foundation for devolved service delivery in Zambia. By supporting the transformation of subnational governance to be more responsive to citizen needs, Local Impact will leverage the U.S. Agency for International Development’s previous gains in transparency and accountability, health, education, and economic growth to help the GRZ improve both the enabling environment and development outcomes critical to advancing self-reliance. 
+ 
 ![highlights_ZAMBIA_122.jpg](/uploads/highlights_ZAMBIA_122.jpg)
  
 ### Sample Activities
+
+* Engage emerging leaders and change agents—particularly women and youth—through our Champions for Change leadership training methodology.
+* Shore up domestic resource mobilization (DRM) through own-source revenue benchmarking, local government resource estimation and enhancement tools, and public-private dialogue. 
+* Build core functions (budgeting, planning, management, and oversight) of district councils and deconcentrated sectors around a specific service that is prioritized by citizens and can have an immediate positive impact on their daily lives, such as reduced waiting time in health clinics, better lighting, or improved solid waste management. 
+* Design a Learning Lab to serve as a knowledge hub, connect networks of actors through social media, knowledge diffusion, and exchanges. The Learning Lab will help assess interventions across districts; document what is working, what is not, and why; and accelerate replication and scaling. 
