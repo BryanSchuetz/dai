@@ -1,7 +1,6 @@
 ---
 title: Zambia—Local Impact Governance Activity (Local Impact)
 date: 2020-11-11 09:24:00 Z
-published: false
 summary: 'The Local Impact Governance Activity supports the transformation of subnational
   governance to be more responsive to citizens'' needs to help the Government of the
   Republic of Zambia improve both the enabling environment and development outcomes
