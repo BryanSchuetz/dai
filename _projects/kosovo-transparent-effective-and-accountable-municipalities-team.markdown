@@ -1,9 +1,9 @@
 ---
 title: Kosovo—Transparent, Effective, and Accountable Municipalities (TEAM)
 date: 2017-02-06 22:20:00 Z
-summary: 'To assist the Government of Kosovo in strengthening systems and limit opportunities
-  for fraud, waste, or abuse in public procurement, USAID launched the five-year Transparent,
-  Effective and Accountable Municipalities (USAID TEAM) activity. '
+summary: The Transparent, Effective and Accountable Municipalities (USAID TEAM) activity
+  assists the Government of Kosovo in strengthening systems and limiting opportunities
+  for fraud, waste, or abuse in public procurement.
 start: 2016
 end: 2022
 client: U.S. Agency for International Development
@@ -11,6 +11,10 @@ solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Kosovo
+promos:
+- title: E-procurement Platform Enables Purchase of Life-saving Supplies During COVID-19
+    Pandemic
+  link: https://www.usaid.gov/kosovo/news-information/news/e-procurement-platform-enables-purchase-life-saving-supplies-during-pandemic
 ---
 
 Public procurement is a government tool used to deliver goods and services such as fixing roads, building schools, or buying medical equipment for citizens. Fair competition, a level playing field, and transparency are essential to ensuring public money is spent responsibly and leads to the best value for citizens in terms of high quality goods and services.
