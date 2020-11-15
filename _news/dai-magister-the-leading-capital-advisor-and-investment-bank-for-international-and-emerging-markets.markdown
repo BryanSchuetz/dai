@@ -2,8 +2,8 @@
 title: 'DAI Magister: The Leading Capital Advisor and Investment Bank for International
   and Emerging Markets'
 date: 2020-11-16 01:00:00 Z
-published: false
 is_featured: true
+published: false
 solutions:
 - DAI Capital
 summary: A strategic partnership between DAI and Magister will help Magister accelerate
@@ -13,6 +13,8 @@ summary: A strategic partnership between DAI and Magister will help Magister acc
 ---
 
 A strategic partnership between DAI and Magister will help Magister accelerate its growth in frontier and emerging markets, in addition to its European tech franchise, and support DAI’s efforts to mobilize commercial capital in the places that need it most.
+
+![DAI Magister](/uploads/magister.png)
 
 <!--more-->
 
