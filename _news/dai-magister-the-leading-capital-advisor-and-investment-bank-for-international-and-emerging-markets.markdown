@@ -2,8 +2,8 @@
 title: 'DAI Magister: The Leading Capital Advisor and Investment Bank for International
   and Emerging Markets'
 date: 2020-11-16 01:00:00 Z
-is_featured: true
 published: false
+is_featured: true
 solutions:
 - DAI Capital
 summary: A strategic partnership between DAI and Magister will help Magister accelerate
