@@ -2,7 +2,6 @@
 title: 'DAI Magister: The Leading Capital Advisor and Investment Bank for International
   and Emerging Markets'
 date: 2020-11-16 01:00:00 Z
-published: false
 is_featured: true
 solutions:
 - DAI Capital
