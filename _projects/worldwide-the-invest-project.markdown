@@ -11,10 +11,8 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: Latest Quarterly Report
-  link: "/uploads/INVEST%20Quarterly%20Report_FY3Q3_External.pdf"
-- title: INVEST Year Two Annual Report
-  link: "/uploads/INVEST%20Y2%20Annual%20Report_External.pdf"
+- title: INVEST Year Three Annual Report
+  link: "/uploads/invest_y3_annual_report.pdf"
 - title: Corporate Investment Partnerships Report
   link: https://www.usaid.gov/INVEST/corporate-investment-partnerships-growth-sustainability
 - title: Blended Finance Starter Kit
