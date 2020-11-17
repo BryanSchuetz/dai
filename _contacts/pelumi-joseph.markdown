@@ -15,5 +15,6 @@ summary: "Equipped with a background in economics, Pelumi Joseph has built compe
   College London \n* BSc, economics, University of Lagos \n* Member, Association of
   Certified Chartered Accountants \n"
 image: "/uploads/pelumi-portrait.jpg"
+group: Nigeria
 ---
 
