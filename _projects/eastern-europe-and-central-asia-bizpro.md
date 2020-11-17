@@ -1,22 +1,20 @@
 ---
 title: Eastern Europe and Central Asia—BIZPRO
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: BIZPRO supported businesses in the contiguous countries of Belarus, Ukraine,
+  and Moldova. In Belarus, we organized professional accounting programs and engaged
+  a local think tank to provide economic analysis.
 start: 2000
-end: 2016
+end: 2006
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Governance
 regions:
 - Eastern Europe and Central Asia
 country:
 - Regional
-solutions:
-- Economic Growth
-- Governance
 layout: project
-summary: 'BIZPRO supported businesses in the contiguous countries of Belarus, Ukraine,
-  and Moldova. In Belarus, we organized professional accounting programs and engaged
-  a local think tank to provide economic analysis.
-
-'
 ---
 
 BIZPRO supported businesses in the contiguous countries of Belarus, Ukraine, and Moldova. In Belarus, we organized professional accounting programs and engaged a local think tank to provide economic analysis. In Ukraine we helped enterprises compete in foreign and domestic markets by working at the enterprise, sector, and policy/legal levels. We contributed to the economic development of Moldova by providing assistance that improved the ability of small businesses to operate and compete.
