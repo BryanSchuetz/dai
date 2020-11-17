@@ -36,7 +36,7 @@ The DAI-led component of TDDAP will strengthen health systems and institutions i
 
 The DAI-led component also includes an Emergency Response Mechanism for strengthening capacity to manage preparedness and response in pre-crisis situations at the sub-national level across sub-Saharan Africa.
 
-![TDDAP.jpg](/uploads/TDDAP.jpg)
+![tdaap.jpg](/uploads/tdaap.jpg)
 
 ### Sample Activities
 
