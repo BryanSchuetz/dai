@@ -27,6 +27,7 @@ The team fosters the integration of climate change adaptation and risks in the g
 
 ### Select Results
 
+* Held a workshop for 60 government officials to provide final comments before the validation of the National Disaster Risk Reduction and Management Policy, Strategic Framework, and Action Plan, all drafted by the DAI team. The documents will be revised for eventual adoption as official policy.
 * Produced a climate change and vulnerability assessment report including an atlas of marine submersion and inland flooding risks based on climate projections.
 * Organised national and local workshops and roundtables for more than 100 government and private sector participants to build their understanding of integrated flood risk management, best practices for integrated coastal management, and to contribute ideas towards a climate change resilience strategy.
 * Formulated a comprehensive integrated coastal zone resilience strategy based on the vulnerability assessment.
