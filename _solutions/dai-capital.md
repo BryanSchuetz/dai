@@ -32,7 +32,7 @@ Our team has deep professional experience in corporate finance, investment banki
 
 ### Capital Advisory
 
-In November 2020, DAI concluded a  [majority investment](/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets) in Magister Advisors to form DAI Magister, a strategic partnership enabling DAI to directly connect businesses in emerging and frontier markets with equity investors through Magister’s advisory business. DAI Magister advises businesses on raising capital from local and international investors:
+In November 2020, DAI concluded a  [majority investment](/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets) in Magister Advisors to form [DAI Magister](https://www.daimagister.com/), a strategic partnership enabling DAI to directly connect businesses in emerging and frontier markets with equity investors through Magister’s advisory business. DAI Magister advises businesses on raising capital from local and international investors:
 
 * Developing tailored capital structures that balance the short- and long-term capital needs of their business
 * Structuring, negotiating, and executing transactions to raise capital

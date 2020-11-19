@@ -17,7 +17,7 @@ summary: A strategic partnership between DAI and Magister will help Magister acc
 
 <!--more-->
 
-DAI today announced that it has formed a partnership with Magister Advisors, a specialist investment bank, to create DAI Magister.
+DAI today announced that it has formed a partnership with Magister Advisors, a specialist investment bank, to create [DAI Magister](https://www.daimagister.com/).
  
 DAI’s majority investment expands the array of tools at DAI’s disposal to support development in emerging and frontier markets, enabling DAI to directly connect growing, equity-hungry businesses with investors through Magister’s advisory business. DAI Magister will build on DAI’s global platform, local partnerships, experience operating across 150 countries, and in-depth market knowledge.
 
