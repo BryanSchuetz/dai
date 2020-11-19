@@ -23,7 +23,7 @@ The programme falls within the Global Trade Programme (GTP) of the UK Prosperity
  
 Trade Forward Southern Africa works to increase opportunities to trade, overcome nontechnical barriers to trade in goods, and improve export performance in the region, while facilitating trade with the United Kingdom as it exits the European Union.
 
-![10.jpg](/uploads/10.jpg)
+<iframe src="https://player.vimeo.com/video/481288886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
 
