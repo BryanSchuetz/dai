@@ -21,7 +21,7 @@ The [Trade Forward Southern Africa programme](www.tfsouthernafrica.org) supports
 
 The programme falls within the Global Trade Programme (GTP) of the UK Prosperity Fund, a cross-government development assistance fund with the primary objective of reducing poverty in developing middle-income countries and creating opportunities for international business, including U.K. companies. 
  
-Trade Forward Southern Africa works to increase opportunities to trade, overcome nontechnical barriers to trade in goods, and improve export performance in the region, while facilitating trade with the United Kingdom as it exits the European Union.
+Trade Forward Southern Africa works to increase opportunities to trade, overcome nontechnical barriers to trade in goods, and improve export performance in the region while facilitating trade with the United Kingdom as it exits the European Union.
 
 <iframe src="https://player.vimeo.com/video/481288886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
