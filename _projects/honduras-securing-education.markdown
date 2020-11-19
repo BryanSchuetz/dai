@@ -16,6 +16,9 @@ solutions:
 regions: Latin America and the Caribbean
 country: Honduras
 promos:
+- title: 'A Shift in Mindset: Distance Learning during COVID-19 Boosts Participation
+    in Honduras'
+  link: https://dai-global-developments.com/articles/a-shift-in-mindset-distance-learning-during-covid-19-boosts-participation-in-honduras
 - title: 'Curbing Irregular Migration: Shifting Focus from the American Dream to the
     Honduran Reality'
   link: https://dai-global-developments.com/articles/curbing-irregular-migration-shifting-focus-from-the-american-dream-to-the-honduran-reality
