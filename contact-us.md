@@ -35,7 +35,23 @@ layout: default
 </div>
 
 <div class="contact-us uk">
-<h2 id="uk">Europe</h2>
+<h2 style="margin-bottom: 0px;">European Union</h2>
+<p><a href="mailto:euinfo@dai.com">Email</a></p>
+<p><strong>Brussels, Belgium</strong>
+  <br>
+  Avenue de l'Yser, 4<br>
+  1040 Brussels<br>
+  Tel: 0032 2 7420290<br></p>
+
+<p><strong>Vienna, Austria</strong>
+  <br>
+  Lothringer Strasse 16,<br>
+  1030 Vienna<br>
+  Austria<br>
+  Tel: +43 (0)1 402 5020<br></p>
+
+
+<h2 id="uk">UK</h2>
 
     <p>Tel: +44 (0)1442 202400<br>
     <a href="mailto:daieurope@dai.com">Email</a></p>
@@ -54,12 +70,6 @@ layout: default
 Tel: +44 (0) 203 943 3216<br>
 <a href="mailto:GH_UKinfo@dai.com">Email</a>    
 </p>
-    <p><strong>Brussels, Belgium</strong>
-    <br>
-    Avenue de l'Yser, 4<br>
-    1040 Brussels<br>
-    Tel: 0032 2 7420290<br>
-    <a href="mailto:brusselsinfo@dai.com">Email</a></p>
 
 <h2 id="uk">Africa</h2>
   <p>

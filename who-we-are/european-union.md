@@ -33,7 +33,7 @@ We partner with these and other clients to support the [European Consensus on De
 
 ## Contact DAI in EU
 
-<a href="mailto:brusselsinfo@dai.com">Email</a>
+<a href="mailto:euinfo@dai.com">Email</a>
 <div style="width: 45%; float: left; margin-right: 10%;">
   <p>
     <strong>Belgium</strong><br>
