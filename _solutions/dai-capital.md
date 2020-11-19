@@ -42,6 +42,8 @@ In November 2020, DAI concluded a  [majority investment](/news/dai-magister-the-
 
 Further, we advise asset managers and other investors seeking to deploy capital in frontier and emerging markets. We advise them in identifying investment opportunities, executing investments, and exiting their investments.
 
+For more information, please visit [www.daimagister.com](https://www.daimagister.com/)
+
 ### Asset Management
 
 DAI’s longstanding local presence and extensive networks across frontier and emerging markets provide an ideal platform for identifying promising investment opportunities, performing due diligence on these investment opportunities, and providing management support for the investee management teams once an investment is made.  
