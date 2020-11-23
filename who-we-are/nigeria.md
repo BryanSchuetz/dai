@@ -55,7 +55,7 @@ From this integrated platform, DAI is able to recruit, retain, support, and ensu
     3a Eko Akete Close<br>
     Off St Gregory’s College Road<br>
     Ikoyi, Lagos<br>
-    +234.1 291.8657<br>
+    +234 1 291 8657<br>
   </p>
 </div>
 
