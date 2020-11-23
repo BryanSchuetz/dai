@@ -1,10 +1,10 @@
 ---
 title: 'Afghanistan—Promote: Musharikat'
 date: 2016-01-21 22:40:00 Z
-summary: "Musharikat supports USAID Afghanistan's investments in women's rights groups
-  and activists. \n"
+summary: 'Musharikat supports USAID Afghanistan''s investments in women''s rights
+  groups and activists. '
 start: 2015
-end: 2020
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Include Primary and/or Secondary Solutions
