@@ -26,17 +26,17 @@ promos:
 layout: project
 ---
 
-The Arab Women’s Enterprise Fund (AWEF) focuses on market-system change and women’s economic empowerment in Egypt, Jordan, and until March 2018, the Occupied Palestinian Territories. AWEF developed an innovative and path-breaking approach to market systems to encourage the adoption of new practices and approaches to empower women. 
+The Arab Women’s Enterprise Fund (AWEF) was a five-year programme that focused on market system change and women’s economic empowerment (WEE) in Egypt, Jordan, and until March 2018, the occupied Palestinian Territories. AWEF developed an innovative and path-breaking approach to market systems to encourage the adoption of new practices and approaches to support WEE. AWEF operated in consortia with MarketShare Associates, Education for Employment Jordan, and Positive Planet International. 
 
-Women in the Middle East have untapped potential, they have the interest, skills, and ability to play a significantly more active role in the economy. It is only through long-term inclusion of women that these countries will be able to witness sustainable growth, security, and stability. AWEF changes the way markets work by tackling critical underlying constraints that limit whether and how women participate in markets.
+Women in the Middle East have untapped potential. They have the interest, skills, and ability to play a significantly more active role in the economy. It is only through long-term inclusion of women that these countries will be able to witness sustainable growth, security, and stability. AWEF worked to change the way markets work by tackling critical underlying constraints that limited whether and how women participated in markets.
 
-AWEF focuses on catalysing change in the ready-made garments, citrus, public awareness, financial inclusion, dairy, market linkages, local government, and ICT/flexible work strategic areas, reaching 578,241 women through its interventions. More than 1,140 market actors and institutions have adopted AWEF-supported practices and 54 market actors and institutions have demonstrated commitment to reform rules or internal policies that enabled and empowered women. AWEF has helped to directly or indirectly facilitate 2,231 market linkages across Jordan, Egypt, and the Occupied Palestinian Territories, generating increased income opportunities for women.  
+AWEF focused on catalysing change in the ready-made garments, citrus, public awareness, financial inclusion, dairy, market linkages, local government, and ICT/flexible work strategic areas, reaching 578,241 women through its interventions. Nearly 1,150 market actors and institutions adopted AWEF-supported practices and 54 market actors and institutions demonstrated commitment to reform rules or internal policies that enabled and empowered women. AWEF helped to directly or indirectly facilitate 2,231 market linkages across Jordan, Egypt, and the Occupied Territories, generating increased income opportunities for women.  
 
-AWEF has generated additional income for 30,725 women and aggregated net additional income generated for poor women across Egypt and Jordan amounting to £4,630,204. 
+AWEF generated additional income for 30,725 women and aggregated net additional income generated for poor women across Egypt and Jordan amounted to £4,630,204. 
 
-Since 2020, 116,169 women have benefited from increased productivity and/or skills. AWEF is a unique programme in that it works to jointly improve women’s access to opportunities but also empowers them to take hold of these opportunities by supporting their agency—their voice, choice, and decision making in economic spaces. AWEF interventions have helped to strengthen voice, choice, and control for 75,107 women. 
+Since 2015, 116,169 women have benefited from increased productivity and/or skills. AWEF is a unique programme in that it has worked to jointly improve women’s access to opportunities, but also empowered them to take hold of these opportunities by supporting their agency- their voice, choice, and decision making in economic spaces. AWEF interventions helped to strengthen voice, choice, and control for 75,107 women. 
 
-Read more about women’s economic empowerment on AWEF's [learning hub.](https://seepnetwork.org/AWEF-Learning-Series) 
+Read more about women’s economic empowerment on AWEF’s [learning hub.](https://seepnetwork.org/AWEF-Learning-Series) 
 
 ![][2]
 
