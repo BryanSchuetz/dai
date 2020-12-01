@@ -1,7 +1,7 @@
 ---
-title: Africa—Tackling Deadly Diseases in Africa Program (TDDAP)
+title: Africa—Tackling Deadly Diseases in Africa (TDDA) programme
 date: 2019-01-23 15:27:00 Z
-summary: 'The Tackling Deadly Diseases in Africa Programme (TDDAP) aims to save lives
+summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme aims to save lives
   and improve global health security by reducing the impact of disease outbreaks,
   epidemics, and other public health threats across sub-Saharan Africa. '
 start: 2019
@@ -19,18 +19,18 @@ promos:
   link: "/uploads/TDDAP_2-pager_FRENCH_May19.pdf"
 ---
 
-The Foreign, Commonwealth & Development Office (FCDO) flagship programme, Tackling Deadly Diseases in Africa (TDDAP) aims to save lives and improve global health security by reducing the impact of disease outbreaks, epidemics, and other public health threats across sub-Saharan Africa. 
+The Foreign, Commonwealth & Development Office (FCDO) flagship programme, Tackling Deadly Diseases in Africa (TDDA) aims to save lives and improve global health security by reducing the impact of disease outbreaks, epidemics, and other public health threats across sub-Saharan Africa. 
 
-TDDAP includes three components: 
+TDDA includes three components: 
 
 * Leadership from World Health Organisation Africa Regional Office (WHO/AFRO), in strengthening capacity for International Health Regulation adherence across the 47 states of the WHO African region.  
-* A third-party monitoring component is focused on ensuring the integrity and uptake of TDDAP-generated evidence and insight and is led by Oxford Policy Management with London School of Hygiene and Tropical Medicine, Oxford University, and the British Medical Journal.   
+* A third-party monitoring component is focused on ensuring the integrity and uptake of TDDA-generated evidence and insight and is led by Oxford Policy Management with London School of Hygiene and Tropical Medicine, Oxford University, and the British Medical Journal.   
 * Provision of technical assistance and capacity building support in six priority countries: Cameroon, Chad, Côte D’Ivoire, Mali, Niger, and Uganda, is led by the DAI team with Fondation Mérieux, ICI-Santé, Liverpool School of Tropical Medicine, the Operations Partnership, and UK-Med, along with Institute of Development Studies, EHealth Nigeria, and DAI Global Health strategic affiliate IntraHealth.
 
-The DAI-led component of TDDAP will strengthen health systems and institutions in the six countries to deliver better health security, improve disease preparedness and response, and strengthen country leadership and accountability for population health by:  
+The DAI-led component of TDDA will strengthen health systems and institutions in the six countries to deliver better health security, improve disease preparedness and response, and strengthen country leadership and accountability for population health by:  
 
 * Strengthening country leadership and accountability for integrated health planning.
-* Improving coordination between global health security and Universal Health Coverage.
+* Improving coordination between global health security and Universal Health Coverage (UHC).
 * Enhancing surveillance, evidence-based decision-making, and cross-border coordination. 
 * Improving communications and coordination so local outbreaks avoid becoming international epidemics.
 
