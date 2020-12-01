@@ -17,6 +17,9 @@ promos:
   link: "/uploads/TDDAP_2-pager_ENG_May19.pdf"
 - title: La Lutte Contre les Maladies Mortelles en Afrique
   link: "/uploads/TDDAP_2-pager_FRENCH_May19.pdf"
+- title: 'Q&A with Jeffrey Mecaskey: How Community Engagement, Regulations, and Incentives
+    Build a Path to Improved Healthcare'
+  link: https://dai-global-developments.com/articles/q-and-a-with-jeffery-mecaskey
 ---
 
 The Foreign, Commonwealth & Development Office (FCDO) flagship programme, Tackling Deadly Diseases in Africa (TDDA) aims to save lives and improve global health security by reducing the impact of disease outbreaks, epidemics, and other public health threats across sub-Saharan Africa. 
