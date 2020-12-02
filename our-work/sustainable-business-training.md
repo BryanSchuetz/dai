@@ -32,8 +32,8 @@ Contact [training@dai.com](mailto:training@dai.com) for pricing and registration
  
 Upcoming Sessions:
 
-**Persian Gulf and Middle East** (Gulf Standard Time)
-* Date and Time: October 26-29, (9am-5pm Monday-Wednesday and 9am–3pm Thursday)
+**Persian Gulf and Middle East** (Greenwich Mean Time)
+* Date and Time: March 1 - 4, 2021 (9am-5pm Monday-Wednesday and 9am–4pm Thursday)
 
 * **Module 1:** Local Content Strategy and Policy Training.
 * **Module 2:** Local Content  Forecasting, Plans, and Procurement Tactics. 
