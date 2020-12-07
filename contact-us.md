@@ -63,14 +63,6 @@ layout: default
     Hertfordshire, HP3 9TD<br>
     <a href="https://www.google.com/maps/place/DAI+Europe/@51.7295892,-0.4582898,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7c0d368c0749a3fb!8m2!3d51.7295892!4d-0.4561011?hl=en-US">Map this location</a></p>
 
-    <p><strong>London, United Kingdom</strong><br>
-    DAI Global Health<br>
-    63 Gee Street<br>
-    London, EC1V 3RS<br>
-Tel: +44 (0) 203 943 3216<br>
-<a href="mailto:GH_UKinfo@dai.com">Email</a>    
-</p>
-
 <h2 id="uk">Africa</h2>
   <p>
     <strong>Abuja, Nigeria</strong><br>
