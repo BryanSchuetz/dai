@@ -1,12 +1,12 @@
 ---
 title: Worldwide—Maximising the Quality of Scaling Up Nutrition (MQSUN, MQSUN+) Framework
 date: 2018-01-16 19:15:00 Z
-summary: MQSUN+ provides multi-disciplinary, highly qualified expert teams, including
+summary: MQSUN+ provided multi-disciplinary, highly qualified expert teams, including
   nutritionists, economists, statisticians, social economists, and other specialists
   in key areas such as public health, agriculture and food security, law, social protection,
   water, sanitation, and hygiene (WASH), education, governance, and gender.
 start: 2012
-end: 2022
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
@@ -14,15 +14,15 @@ solutions:
 regions: Worldwide
 ---
 
-DAI Global Health is part of a consortium led by PATH that works to increase coverage of effective multi-sectoral programmes to reduce undernutrition in countries that have signed on to the [Scaling Up Nutrition](http://scalingupnutrition.org), or SUN, movement.
+DAI Global Health was part of a consortium led by PATH that worked to increase coverage of effective multi-sectoral programmes to reduce undernutrition in countries that have signed on to the [Scaling Up Nutrition](http://scalingupnutrition.org), or SUN, movement.
 
-MQSUN+ is a five-year programme that provides multi-disciplinary, highly qualified expert teams, including nutritionists, economists, statisticians, social economists, and other specialists in key areas such as public health; agriculture and food security; law; social protection, water, sanitation, and hygiene (WASH); education; governance; and gender.
+MQSUN+ provided multi-disciplinary, highly qualified expert teams, including nutritionists, economists, statisticians, social economists, and other specialists in key areas such as public health; agriculture and food security; law; social protection, water, sanitation, and hygiene; education; governance; and gender.
 
-MQSUN+ builds on the successes of the previous MQSUN Framework Agreement of which Health Partners International was a core implementing partner.
+MQSUN+ built upon the successes of the previous MQSUN Framework Agreement.
 
 ### Sample Activities
 
-* Transform,  through the MQSUN+ framework, the multi-sectoral response to malnutrition in conflict-affected Karamoja, Uganda. The aim is to shift from a humanitarian response to an approach focused on strengthening the institutions and systems necessary for the Government of Uganda to effectively manage and be accountable for delivering health and relief services, including the multi-sectoral response necessary to address malnutrition.
+* Transform, through the MQSUN+ framework, the multi-sectoral response to malnutrition in conflict-affected Karamoja, Uganda. The aim is to shift from a humanitarian response to an approach focused on strengthening the institutions and systems necessary for the Government of Uganda to effectively manage and be accountable for delivering health and relief services, including the multi-sectoral response necessary to address malnutrition.
 * Provide policy and budget cycle management assistance to governments in the SUN Movement and to the SUN Movement Secretariat to catalyse country efforts to scale up nutrition impact.
 * Assist the Foreign, Commonwealth & Development Office (FCDO) to maximise the quality and effectiveness of its nutrition-related programmes.
 * Support evidence generation and lesson learning around the global targets to reduce malnutrition.
