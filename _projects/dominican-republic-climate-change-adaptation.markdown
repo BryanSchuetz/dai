@@ -17,6 +17,8 @@ DAI is developing a feasibility study and final designs for a climate change ada
  
 Funded through Agence Française de Développement’s [Adapt’Action](https://www.afd.fr/en/adaptaction) Framework, the study will inform a shared vision of the objectives of basin management and the actions necessary to manage the basin’s water resources in the face of climate breakdown—in accordance with the requirements of sustainable, economically viable, and socially equitable development.
 
+![Screen Shot 2020-12-07 at 11.32.57 AM.png](/uploads/Screen%20Shot%202020-12-07%20at%2011.32.57%20AM.png)
+
 ## Sample Activities
 
 * Produce an in-depth characterization of the Yaque del Sur River Basin in terms of water resources, climate, environmental and social risks, and socio-economic and gender issues.
