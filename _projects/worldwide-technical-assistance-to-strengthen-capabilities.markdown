@@ -11,6 +11,7 @@ solutions:
 - Global Health
 - Nutrition and Food Security
 regions: Worldwide
+country: Worldwide
 ---
 
 The Technical Assistance to Strengthen Capabilities (TASC) Project contributes to improved nutritional outcomes as part of the UKaid-funded Technical Assistance for Nutrition programme, which works to strengthen the capacity of 60 countries.
