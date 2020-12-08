@@ -20,7 +20,7 @@ Our technical assistance team provides support to reinforce the capacities of ke
 
 By improving the policy, regulatory, and institutional environment for investment promotion and facilitation, trade, and value chain development, the project facilitates socioeconomic resilience, especially in the context of COVID-19. It focuses particularly on the financial sector and investments, EU-Somalia business linkages, and food security and nutrition.
 
-In the context of economic integration of Somalia in the Horn of Africa, the project contributes to building peace and trust in Somalia and encourages dialogue between Somalis on private sector matters. It is aligned with the Africa-Europe Alliance on Sustainable Investments and Jobs, the EU External Investment Plan approach (Sustainable Business for Africa Platform – SB4A), and EU Economic Diplomacy Objectives and Guidelines.
+In the context of economic integration of Somalia in the Horn of Africa, the project contributes to building peace and trust in Somalia and encourages dialogue between Somalis on private sector matters. It is aligned with the [Africa-Europe Alliance on Sustainable Investments and Jobs](https://ec.europa.eu/commission/africaeuropealliance_en), the EU External Investment Plan approach ([Sustainable Business for Africa Platform – SB4A](https://ec.europa.eu/commission/sites/beta-political/files/sustainable_business_for_africa.pdf)), and EU economic diplomacy objectives and guidelines.
 
 ![UNADJUSTEDNONRAW_thumb_747d.jpg](/uploads/UNADJUSTEDNONRAW_thumb_747d.jpg)
 
