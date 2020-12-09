@@ -12,6 +12,7 @@ summary: 'Two innovations supported by the DAI-led, U.S. Agency for Internationa
   project recently received Indonesia Healthcare Innovation Awards in the categories
   of "Healthcare Movement for Healthy Women Workers" and "Information and Communication
   Technology in the Health Sector."  '
+social-image: "/uploads/sm%20Kesga_OSC03613.jpg"
 country: Indonesia
 ---
 
@@ -23,6 +24,8 @@ In the first award, USAID Jalin collaborated with the Semarang City Health Offic
 
 In the second award, USAID Jalin, the National Ministry of Health, and Perkumpulan Obstetri dan Ginekologi Indonesia (Indonesian Association for Obstetrics and Gynecology) collaborated to develop the Maternal and Perinatal Death Notification (MPDN) tool and socialize its use to all health facilities in Indonesia. MPDN is a digital reporting application that updates Indonesia's manual death reporting system and will help to ensure real-time and accurate reporting of maternal and perinatal deaths across the country. 
 
-Dr. Danu, one of the doctors who initiated MPDN, said, “I felt very proud [to receive the award]. MPDN is a fruit of my passion that is aligned with my specialty. It is a masterpiece [that was realized] with the help of Jalin.” 
+![Kesga_OSC03613.jpg](/uploads/Kesga_OSC03613.jpg)`A woman opens the MPDN app on her desktop.`
+
+Dr. Danu Maryoto Teguh, one of the doctors who initiated MPDN, said, “I felt very proud [to receive the award]. MPDN is a fruit of my passion that is aligned with my specialty. It is a masterpiece [that was realized] with the help of Jalin.” 
 
 The award winners will receive financial and in-kind equipment support as incentives to continue and scale-up their innovations. The judging panel represented 18 different institutions, including the Indonesian Ministry of Health, Ministry of Research and Technology, and Indonesian Institute of Sciences. The Indonesian Minister of Health, Terawan Agus Putranto, shared his aspiration during his speech at the event: “Hopefully, the awards can strengthen our determination to innovate towards self-reliance as a nation full of innovation.”
