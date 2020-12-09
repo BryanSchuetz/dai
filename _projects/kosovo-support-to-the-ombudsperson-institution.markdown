@@ -17,6 +17,8 @@ The Ombudsperson Institution of Kosovo (OIK) is an independent institution estab
 
 Our project supports the OIK to effectively protect and promote the rights and fundamental freedoms of citizens by enforcement of institutional capacities and the introduction of new tools and methods. It also helps the OIK raise awareness among citizens, public authorities, and civil society on the role of the OIK in the promotion and protection of human rights.
 
+![oneKosovo_OIK.jpg](/uploads/oneKosovo_OIK.jpg)
+
 ### Sample Activities
 
 * Build capacity of the OIK staff by developing and facilitating training and training of trainer programmes and providing mentoring and support to the team of legal advisors.
