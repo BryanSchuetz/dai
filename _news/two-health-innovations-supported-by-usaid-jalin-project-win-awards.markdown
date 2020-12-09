@@ -23,7 +23,7 @@ In the first award, USAID Jalin collaborated with the Semarang City Health Offic
 
 In the second award, USAID Jalin, the National Ministry of Health, and Perkumpulan Obstetri dan Ginekologi Indonesia (Indonesian Association for Obstetrics and Gynecology) collaborated to develop the Maternal and Perinatal Death Notification (MPDN) tool and socialize its use to all health facilities in Indonesia. MPDN is a digital reporting application that updates Indonesia's manual death reporting system and will help to ensure real-time and accurate reporting of maternal and perinatal deaths across the country. 
 
-![Kesga_OSC03613.jpg](/uploads/Kesga_OSC03613.jpg)`A woman opens the MPDN app on her desktop.`
+![Kesga_OSC03613.jpg](/uploads/Kesga_OSC03613.jpg)`A staff member of the Indonesian Ministry of Health opens the MPDN application on her desktop.`
 
 Dr. Danu Maryoto Teguh, one of the doctors who initiated MPDN, said, “I felt very proud [to receive the award]. MPDN is a fruit of my passion that is aligned with my specialty. It is a masterpiece [that was realized] with the help of Jalin.” 
 
