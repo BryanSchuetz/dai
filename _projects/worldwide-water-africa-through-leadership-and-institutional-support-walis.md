@@ -21,6 +21,8 @@ promos:
   link: https://www.globalwaters.org/resources/assets/walis/addressing-human-resource-gaps-sanitation-sector
 - title: Strengthening Africa’s WASH Sector Capacity for Data-Driven Decision-Making
   link: https://medium.com/usaid-global-waters/strengthening-africas-wash-sector-capacity-for-data-driven-decision-making-99c0c8caf6b
+- title: WALIS Program Summary
+  link: https://www.globalwaters.org/sites/default/files/walis_project_summary_final.pdf
 redirect_from:
 - "/walis"
 layout: project
