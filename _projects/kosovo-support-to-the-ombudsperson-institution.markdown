@@ -1,6 +1,6 @@
 ---
 title: Kosovo—Support to the Ombudsperson Institution
-date: 2020-12-09 15:20:00 Z
+date: 2020-12-09 10:20:00 Z
 summary: We support the Ombudsperson Institution of Kosovo to effectively protect
   and promote the rights and fundamental freedoms of citizens by enforcement of institutional
   capacities and the introduction of new tools and methods.
