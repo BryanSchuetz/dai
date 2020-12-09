@@ -1,7 +1,6 @@
 ---
 title: Two Health Innovations Supported by USAID Jalin Project Win Awards
-date: 2020-12-08 10:59:00 Z
-published: false
+date: 2020-12-09 08:59:00 Z
 solutions:
 - Global Health
 regions: Asia and the Pacific
