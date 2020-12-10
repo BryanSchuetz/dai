@@ -19,7 +19,7 @@ DAI has long had a presence in continental Europe. With the [acquisition](https:
 
 From corporate locations in Ankara (Turkey), Belgrade (Serbia), Brussels (Belgium), Cologne (Germany), London (United Kingdom), Sofia (Bulgaria), and Vienna (Austria), our team of 100+ employees oversees a portfolio of more than 95+ EU projects in 80+ countries.
 
-![Dai and Europe Map](/uploads/europe-map.png)
+![thumbnail_Updated Map - EU BU Offices.png](/uploads/thumbnail_Updated%20Map%20-%20EU%20BU%20Offices.png)
 
 Our EU Business Unit covers the whole spectrum of DAI operations, from project delivery, framework contract implementation, and global facilities management to business development, communications, and knowledge management. The EU team is seamlessly integrated into DAI’s global organisation, tapping the full range of technical specialists and support staff from our United States, United Kingdom, Nigeria, Pakistan, Palestine, and other locations. 
 

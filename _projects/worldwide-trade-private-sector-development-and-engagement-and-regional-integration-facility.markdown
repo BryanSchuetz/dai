@@ -27,19 +27,15 @@ With the TPSD Facility, DAI provides technical expertise to EU staff working on 
 ### Sample Activities
 
 * Design and support the implementation of a Private Sector Engagement Action Plan for DEVCO.
-
 * Mobilize and manage short-term technical expertise for in-country assignments.
-
 * Build the capacity of EU staff on investment climate, supporting micro and small enterprises, the private sector and trade, and the External Investment Plan.
-
 * Design a business environment reform diagnostic toolkit.
-
 * Deliver technical expertise to DEVCO on private sector development and engagement, using DAI’s in-house global expertise.
-
 * Showcase EU projects and explain the External Investment Plan to a wider audience.
 
 ### Select Results
 
+* Developed the [Business Environment Reform Guidelines](https://europa.eu/capacity4dev/t-and-m-series/documents/guidelines-ndeg9-business-environment-reform) published by the Directorate-General for International Cooperation and Development of the European Commission.
 * Organised in-country [short-term assignments](http://ec.europa.eu/europeaid/files/tpsd-infographic/) for EU Delegations on the investment climate and the identification of potential investment opportunities.
 * Conducted a survey of the state of the structured dialogue with the private sector in Sub-Saharan Africa.
 * Designed Business Environment Reform Guidelines for EU staff.
