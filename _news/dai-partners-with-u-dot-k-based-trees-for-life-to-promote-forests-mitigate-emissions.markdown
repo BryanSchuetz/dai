@@ -24,6 +24,8 @@ As a Gold Partner, DAI has [set up its own grove](https://treesforlife.org.uk/gr
 
 Smith cited the United Kingdom’s role in hosting next year’s [COP 26](https://ukcop26.org/) as an impetus both for the partnership and for a broader review of the company’s environmental policy. “In light of the escalating climate emergency, we need to take greater responsibility for our environmental impact. After a turbulent year that changed the way we deliver our international work, especially our reliance on air travel, we see this as a unique opportunity to take stock and take action.”
 
+![Saplings at Dundreggan.jpg](/uploads/Saplings%20at%20Dundreggan.jpg)`Saplings at the Dundreggan Rewilding Centre in the Scottish Highlands. Photo courtesy Trees for Life.`
+
 The firm’s forthcoming Emission Reduction Strategy 2021 will look at how we measure our carbon footprint, Smith said, and introduce practices to prevent unnecessary emissions and reduce or offset our remaining emissions—including through mechanisms such as the Trees for Life partnership.  
 
 “Trees for Life is aptly named because native forests are so much more than trees,” said [Felicity Buckle](https://www.dai.com/who-we-are/our-team/felcity-buckle), a Senior Consultant in DAI’s [land practice](https://www.dai.com/our-work/solutions/environment-solutions/land-tenure), who is leading the work with the charity. “Restoring these unique habitats through tree planting helps to address biodiversity loss, reduce localised flooding, and reduce the impacts of climate change.” 
