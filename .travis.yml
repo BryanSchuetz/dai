@@ -6,6 +6,8 @@ node_js:
 language: ruby
 rvm:
 - 2.3.4
+install:
+- gem install bundler
 cache:
   bundler: true
   directories:
