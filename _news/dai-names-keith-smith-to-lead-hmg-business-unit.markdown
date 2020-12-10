@@ -9,7 +9,7 @@ summary: 'DAI has named Keith Smith to lead its HMG Business Unit, which focuses
 social-image: "/uploads/KeithSmith%20sm.jpg"
 ---
 
-DAI has named [Keith Smith](https://www.dai.com/who-we-are/our-team/keith-smith) to lead its HMG Business Unit, which focuses on delivering UKAID and implementing bilateral development investments for Her Majesty’s Government, principally the U.K. Department for International Development (DFID) and the Foreign and Commonwealth Office. 
+DAI has named [Keith Smith](https://www.dai.com/who-we-are/our-team/keith-smith) to lead its HMG Business Unit, which focuses on delivering UKAID and implementing bilateral development investments for Her Majesty’s Government. 
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Smith, who currently serves as the unit’s Commercial Director, will assume his
 
 “Keith has a knack for building relationships, developing teams, and delivering results,” said [Zan Northrip](https://www.dai.com/who-we-are/leadership/zan-northrip), Executive Vice President for DAI’s Development Partners Group, who announced the appointment to DAI staff around the world. “We’re delighted that he’s bringing those qualities to our U.K. leadership team.”
 
-A qualified aircraft engineer, Smith began his career in international development 20 years ago with assignments in Kosovo, Liberia, Macedonia, and Sierra Leone, before taking on his first leadership position with the DFID- and U.S. Agency for International Development (USAID)-funded Liberia Community Infrastructure Project. He went on to lead successful USAID programming in challenging, fragile contexts in Sri Lanka and Pakistan, including from 2008 managing 150 local and expat professionals focused on building governance capacity in what was then Pakistan’s Federally Administered Tribal Areas.
+A qualified aircraft engineer, Smith began his career in international development 20 years ago with assignments in Kosovo, Liberia, Macedonia, and Sierra Leone, before taking on his first leadership position with the U.K. Foreign, Commonwealth & Development Office (formerly the U.K. Department for International Development (DFID))- and U.S. Agency for International Development (USAID)-funded Liberia Community Infrastructure Project. He went on to lead successful USAID programming in challenging, fragile contexts in Sri Lanka and Pakistan, including from 2008 managing 150 local and expat professionals focused on building governance capacity in what was then Pakistan’s Federally Administered Tribal Areas.
 
 Returning to DAI’s U.K. headquarters in 2010, Smith worked extensively in DFID programme management and took on the mandate to strengthen DAI’s project delivery across the board. He ultimately served as DAI’s first Commercial Director for its U.K. and European Commission businesses, professionalizing a broad range of pricing, contractual, and legal functions, and playing a central role in consolidating the firm’s supplier relationship with DFID, in particular.
 
