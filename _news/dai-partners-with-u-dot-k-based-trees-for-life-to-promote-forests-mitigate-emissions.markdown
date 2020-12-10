@@ -1,7 +1,6 @@
 ---
 title: DAI Partners with U.K.-Based Trees for Life to Promote Forests, Mitigate Emissions
 date: 2020-12-10 08:51:00 Z
-published: false
 solutions:
 - Natural Resource Management
 - Climate Change Adaptation and Mitigation
@@ -12,6 +11,7 @@ summary: 'As part of a broader commitment to mitigate its environmental impact, 
   charity focused on restoring the Caledonian forest and rewilding the Scottish Highlands
   by planting native trees, nurturing seedlings, encouraging forest regeneration,
   and reintroducing missing species.  '
+social-image: "/uploads/Saplings%20at%20Dundreggan-d19dba.jpg"
 ---
 
 As part of a broader commitment to mitigate its environmental impact, DAI today announced a new corporate partnership with Trees for Life, a British conservation charity focused on restoring the Caledonian forest and rewilding the Scottish Highlands by planting native trees, nurturing seedlings, encouraging forest regeneration, and reintroducing missing species.  
