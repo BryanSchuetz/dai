@@ -42,7 +42,7 @@ While still one of the poorest countries in the world, Ethiopia has made major a
 
 The [Land Investment for Transformation (LIFT) programme](https://liftethiopia.com/), funded by the Foreign, Commonwealth & Development Office (FCDO), is raising incomes for rural poor and vulnerable populations in Ethiopia and enhancing economic growth through second-level land certification and improved rural land administration. The team works with the government of Ethiopia to improve land tenure security for farmers and boost their productivity, [especially among women](http://dai-global-developments.com/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia).
 
-To learn more LIFT's initiatives, [watch these videos](https://www.youtube.com/channel/UCfLfROLhFn-LF9rk1ru81Rg).
+To learn more about LIFT's initiatives, [watch these videos](https://www.youtube.com/channel/UCfLfROLhFn-LF9rk1ru81Rg).
 
 ![](https://assetify-dai.com/projects/Liftnew.jpg)
 
