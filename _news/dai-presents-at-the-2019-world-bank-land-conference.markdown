@@ -26,9 +26,8 @@ At this year’s event, Tressan Sullivan, who manages the U.S. Agency for Intern
 
 <iframe src="https://player.vimeo.com/video/326565759" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-DAI’s [Ian Rose](https://www.dai.com/who-we-are/our-team/ian-rose) presented on how to grow the nascent mortgage market in Ghana. “On the one hand, Ghana represents a regional model of how collateralization of long-term leasehold rights can successfully be used to facilitate access to credit,” says Rose. “However, the mortgage market, particularly in areas of customary tenure, is small when compared to its potential.” Rose’s paper recommends ways for Ghana to overcome obstacles and enable land users to unlock the equity in their land holdings. 
+DAI’s Ian Rose presented on how to grow the nascent mortgage market in Ghana. “On the one hand, Ghana represents a regional model of how collateralization of long-term leasehold rights can successfully be used to facilitate access to credit,” says Rose. “However, the mortgage market, particularly in areas of customary tenure, is small when compared to its potential.” Rose’s paper recommends ways for Ghana to overcome obstacles and enable land users to unlock the equity in their landholdings. 
 
 Other DAI land team members presented work on private sector initiatives to incentivize public buy-in to land administration services in Ethiopia, the use and management of communal land in the highlands of Ethiopia, and strengthening farmers’ rights in Malawi. 
 
-DAI works across all types of tenure systems—customary, private, and public.
-DAI has led land and property right projects for USAID, the U.K. Department for International Development, the Millennium Challenge Corporation, and the European Union.
+DAI works across all types of tenure systems—customary, private, and public. DAI has led land and property right projects for USAID, the U.K. Foreign, Commonwealth & Development Office, the Millennium Challenge Corporation, and the European Union.
