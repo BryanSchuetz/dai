@@ -4,7 +4,7 @@ date: 2019-04-09 11:04:00 Z
 lastname: Brandamir
 summary: Elodie Brandamir has more than 15 years of experience managing public health
   programs in challenging environments.
-job-title: Operations Director, TDDAP Project
+job-title: " Deputy Team Leader, TDDA project"
 image: "/uploads/Elodie%20-%204.jpg"
 solutions:
 - Global Health Security and Pandemic Preparedness
