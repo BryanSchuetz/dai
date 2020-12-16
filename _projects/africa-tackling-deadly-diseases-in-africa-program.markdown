@@ -26,7 +26,7 @@ Epidemics are a global threat, killing millions of people each year. Strong heal
 
 The Tackling Deadly Diseases in Africa (TDDA) programme works with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We are delivering practical changes that strengthen health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, Niger, and Uganda. 
 
->  “Pandemics are the greatest single threat to global health today. TDDA is a flagship programme of the UK Government helping to protect populations and economies around the world, including in the UK.”  —**Graham Gass, Group Head, Africa Regional Department, UK Foreign, Commonwealth & Development Office**
+>  “Pandemics are the greatest single threat to global health today. TDDA is a flagship programme of the UK Government helping to protect populations and economies around the world, including in the UK.”  -**Graham Gass, Group Head, Africa Regional Department, UK Foreign, Commonwealth & Development Office**
 
 We work closely with the African Centers for Disease Control and the World Health Organisation’s African Regional Office (WHO/AFRO) to reinforce regional efforts at harmonization and cross-border collaboration.  
 
@@ -46,7 +46,7 @@ In 2020, our work to help build emergency response mechanisms was adapted and mo
 
 TDDA tackles the systemic causes of health insecurity, not just the symptoms. Instead of fighting fires, this programme helps equip countries to manage disease outbreaks and other health threats before they become public health crises. Our work shows that collective efforts can make a real difference, even in countries facing significant challenges.
 
-> “Our TDDA programme provides important evidence to support the work of others. We’re showing that even in challenging contexts, collective action can make a real difference to global health security.” — **Jeffrey Mecaskey, TDDA Team Leader, DAI Global Health** 
+> “Our TDDA programme provides important evidence to support the work of others. We’re showing that even in challenging contexts, collective action can make a real difference to global health security.” -**Jeffrey Mecaskey, TDDA Team Leader, DAI Global Health** 
 
 ## Sample Activities
 
