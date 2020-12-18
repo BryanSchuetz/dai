@@ -25,8 +25,6 @@ With experience working in countries such as Bangladesh, Columbia, Egypt, Gabon,
 
 Most recently, as the Shell Iraq Local Content Manager, he laid the foundations for a significant mindset change on the business imperative of responsible local content development in the country. On behalf of Shell, Chris led collaborations with donor agencies and nongovernmental organizations, including The World Bank, GIZ, and SPARK Amsterdam, helping to create opportunities for sustainable economic development in countries where Shell operates.
 
-* B.A. business administration, Robert Gordon’s University, Scotland
-
+* B.A.. business administration, Robert Gordon’s University, Scotland
 * Graduate Diploma, British Institute of Marketing, United Kingdom
-
 * Graduate Diploma, Chartered Institute of Purchasing and Supply, United Kingdom
