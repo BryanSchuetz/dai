@@ -10,7 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [RFP 0002-2020 Facilitation of Systems Thinking Workshops](/uploads/RFP%20Systems%20Thinking%20Workshop.pdf "01/2021")
+* [RFP 0002-2020 Facilitation of Systems Thinking Workshops](/uploads/RFP%20Systems%20Thinking%20Workshop%5B1%5D.pdf "01/2021")
 * [RFP-DRG Electoral Cybersecurity](/uploads/RFP%20DRG%20Electoral%20Cybersecurity%20Final.pdf)
 * [RFP-IGPA-BAG-2021 Landfill Rehabilitation](/uploads/RFP-DAI-IGPA-BAG-20-021%20Landfill%20Rehabilitation%20and%20Transfer%20Station%20-Extended,%20Q&A.pdf "01/2021")
 * [Capacity Building Training for KRG Governorates
