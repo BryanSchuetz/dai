@@ -31,3 +31,4 @@ In the event of a disaster during the course of the project, Tayar will engage t
 ### Select Results
 
 * Assisted Rajapur’s Emergency Operation Center to develop emergency text messages, monitor online weather updates, and support stakeholder coordination when monsoon rains put Karnali River communities at risk of flooding in Rajapur Municipality in Septemeber 2020. 
+* Raised public awareness on hazard preparedness and response through informative videos, public service announcements, and social media outreach provided by Tayar grantee, Public Affairs Research and Communication (PARC).PARC has helped NDRRMA create more than 90 awareness videos in more than six ethnic languages to reach a wider mass. The content is shared through social media platforms, including NDRRMA’s own channels, which have more than 18,000 followers. 
