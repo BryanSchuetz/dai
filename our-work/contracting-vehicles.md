@@ -77,15 +77,15 @@ International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–20
 
 ### Advisory Services Activities Inside and Outside EU-28
 
-* [Lot 5: SME Access to Finance and Private Sector Development](http://frameworkcontracts.com/lots/eib-5/)
+* Lot 5: SME Access to Finance and Private Sector Development
 
 # Australian Department of Foreign Affairs and Trade
 
-* [Aid Advisory Services Standing Offer](http://frameworkcontracts.com/lots/dfat/)
+* Aid Advisory Services Standing Offer
 
 # New Zealand Aid Programme
 
-* [Agricultural Services Panel ](http://frameworkcontracts.com/lots/mfat)
+* Agricultural Services Panel 
 
 To review consultant opportunities for EC, DFAT, and MFAT lots, visit our [Framework Contracts site](http://frameworkcontracts.com).
 
