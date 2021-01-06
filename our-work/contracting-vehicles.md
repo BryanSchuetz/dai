@@ -62,16 +62,16 @@ International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–20
 
 ### Framework Contract Beneficiaries
 
-* [Lot 1: Sustainable Management of Natural Resources and Resilience](http://frameworkcontracts.com/lots/siea-1/)
-* [Lot 2: Infrastructure, Sustainable Growth and Jobs](http://frameworkcontracts.com/lots/siea-2/)
-* [Lot 3: Human Rights, Democracy and Peace](http://frameworkcontracts.com/lots/siea-3/)
-* [Lot 4: Human Development and Safety Net](http://frameworkcontracts.com/lots/siea-4/)
-* [Lot 5: Budget Support](http://frameworkcontracts.com/lots/siea-5/)
-* [Lot 6: Innovative Financing for Development](http://frameworkcontracts.com/lots/siea-6/)
+* Lot 1: Sustainable Management of Natural Resources and Resilience
+* Lot 2: Infrastructure, Sustainable Growth and Jobs
+* Lot 3: Human Rights, Democracy and Peace
+* Lot 4: Human Development and Safety Net
+* Lot 5: Budget Support
+* Lot 6: Innovative Financing for Development
 
 ### Framework Contract Commission
 
-* [Lot 1: Evaluation](http://frameworkcontracts.com/lots/ec-com-2015-1/)
+* Lot 1: Evaluation
 
 # European Investment Bank
 
