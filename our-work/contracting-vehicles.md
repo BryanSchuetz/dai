@@ -87,7 +87,6 @@ International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–20
 
 * Agricultural Services Panel 
 
-To review consultant opportunities for EC, DFAT, and MFAT lots, visit our [Framework Contracts site](http://frameworkcontracts.com).
 
 # French Development Agency (AFD)
 
