@@ -60,34 +60,15 @@ International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–20
 
 # European Commission
 
-### Framework Contract Beneficiaries
-
+### EC Framework Contract SIEA (Services for Implementation of External Aid)
+ 
 * Lot 1: Sustainable Management of Natural Resources and Resilience
 * Lot 2: Infrastructure, Sustainable Growth and Jobs
 * Lot 3: Human Rights, Democracy and Peace
 * Lot 4: Human Development and Safety Net
 * Lot 5: Budget Support
 * Lot 6: Innovative Financing for Development
-
-### Framework Contract Commission
-
-* Lot 1: Evaluation
-
-# European Investment Bank
-
-### Advisory Services Activities Inside and Outside EU-28
-
-* Lot 5: SME Access to Finance and Private Sector Development
-
-# Australian Department of Foreign Affairs and Trade
-
-* Aid Advisory Services Standing Offer
-
-# New Zealand Aid Programme
-
-* Agricultural Services Panel 
-
-
+ 
 # French Development Agency (AFD)
-
-* Framework contract Lot 1: Studies and Technical assistance for the implementation of the ‘Adapt’ Action’ Facility (2018—2022)
+ 
+Framework contract Lot 1: Studies and Technical assistance for the implementation of the ‘Adapt’ Action’ Facility (2018—2022)
