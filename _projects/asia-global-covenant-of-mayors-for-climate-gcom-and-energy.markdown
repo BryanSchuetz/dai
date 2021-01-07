@@ -1,7 +1,8 @@
 ---
 title: Asia—Global Covenant of Mayors for Climate (GCoM) and Energy
 date: 2021-01-07 10:47:00 Z
-published: false
+summary: 'Our team supports the Global Covenant of Mayors for Climate and Energy in
+  East Asia, South Asia, and Southeast Asia. '
 start: 2021
 end: 2024
 client: European Union
@@ -16,7 +17,7 @@ Climate change is a global challenge that largely impacts urban life. Given that
 
 The Global Covenant of Mayors for Climate and Energy (GCoM) aims to strengthen the role of cities within the wider international scenario, and provide operational legs and tools for effective climate action as a global alliance of cities. More specifically, with an aim to support cities and local government in different geographical regions of the world, regional and national covenants are established to serve as local chapters of the broader GCoM alliance. 
 
-This project specifically targets Asian countries. Our team supports the GCoM in Asia, in particularly East Asia (Japan and South Korea through national satellite secretariats as well as China to ensure stronger engagement in the GCoM), South Asia (mainly but not exclusively India, Bangladesh, Nepal, Sri Lanka through Regional Secretariat) and Southeast Asia (mainly but not exclusively Indonesia, Malaysia, Singapore, Vietnam through Regional Secretariat). The action will encourage signatory cities and partners to further commit or new cities and urban stakeholders to join the GCoM alliance to share a long-term vision, where voluntary action to combat climate change and achieve a resilient and low-emission society is enhanced.
+This project specifically targets Asian countries. Our team supports the GCoM in Asia, in particular East Asia, South Asia, and Southeast Asia. The action will encourage signatory cities and partners to further commit or new cities and urban stakeholders to join the GCoM alliance to share a long-term vision, where voluntary action to combat climate change and achieve a resilient and low-emission society is enhanced.
 
 ### Sample Activities
 
