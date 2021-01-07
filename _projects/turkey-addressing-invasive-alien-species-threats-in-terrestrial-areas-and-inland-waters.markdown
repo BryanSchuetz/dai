@@ -23,6 +23,8 @@ The overall goal of this project is to ensure the resilience of inland waters an
 
 Our team is supporting Turkey with the preparation of a legal instrument, developing action and management plans as well as building the institutional capacity of relevant authorities and actions to increase public awareness. 
 
+![s3.jpg](/uploads/s3.jpg)
+
 ### Sample Activities
 
 * Identify legislative gaps for the control of invasive alien species in terrestrial areas and inland waters.
