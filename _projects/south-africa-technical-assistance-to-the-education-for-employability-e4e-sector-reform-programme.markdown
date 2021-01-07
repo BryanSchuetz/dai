@@ -2,7 +2,6 @@
 title: South Africa—Technical Assistance to the Education for Employability (E4E)
   Sector Reform Programme
 date: 2021-01-07 10:17:00 Z
-published: false
 summary: E4E supports the South African government’s efforts in improving the quality
   of basic education, vocational training, and job placement services from early childhood
   through teenage years until the acquisition of skills needed for the world of work.
