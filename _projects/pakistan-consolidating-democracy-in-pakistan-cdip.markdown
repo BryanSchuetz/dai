@@ -39,22 +39,9 @@ CDIP worked in four thematic areas, with a cross-cutting focus on increasing the
 * Trained women parliamentarians on legislative effectiveness, leadership, conflict management, political negotiation, agenda setting, and communications.
 * Trained 230 mid- to senior-level journalists on best practices for election reporting, media ethics, human rights, and the Sustainable Development Goals.
 * Helped an estimated 9.2 million people access the civic information portal ([PakVoter](https://pakvoter.org/)), revamped and launched by CDIP to increase civic literacy on elections and democratic processes. 
-ECP’s post-election review (2018) conducted, and 19 institutional and electoral reforms introduced for more free, fair and independent elections in Pakistan.
-ECP’s Strategic Plan (2019–2023) developed, which includes all critical areas of institutional and electoral reforms along-with an ECP oversight committee to ensure management and monitoring of actions from the strategic plan.
-ECP’s Gender and Disability Electoral Working Group (G&DEWG) strengthened to sustain and strengthen the agenda of women’s electoral and political inclusion in Pakistan. 
-ECP’s costed operational plan for LG election developed, which included all critical areas of institutional and electoral reforms for upcoming local government elections.
-Women Parliamentary Caucus (WPC) facilitated in drafting amendments in the NADRA Ordinance, 2000 and Elections Act, 2017 for gender inclusion. Also, Chairperson of the Punjab Assembly Committee on Gender Mainstreaming drafted a Private Member Bill - the Punjab Child Marriage Restraint Bill 2019 which was signed by 200 MPAs.
-05 political parties supported in establishing their policy and research wings, with a mandate to develop citizen-centric, issue-based policies for their constituencies.
-10 political parties motivated to sign a Charter of Inclusion for women’s political empowerment in political parties as party members, office-bearers, candidates and voters.
-22 CSOs facilitated in engaging with state institutions for drafting the PWD bill with legislative committee.
-100+ CSOs institutionally integrated with CIP-PakVoter including 5 citizen-led online channels and 10+ public universities/schools for research/youth awareness.
-
-
-
-* Held an event with 150 participants to observe 2017 International People With Disabilities Day. The event served as a platform for the Election Commission of Pakistan to inform the community about steps taken to accommodate voters with disabilities.
-* Organised a National Dialogue about closing the gender gap in Pakistan’s Electoral Rolls. The dialogue opened with an expert briefing on the current situation, followed by a moderated roundtable by on key challenges and barriers to women’s voter registration, and a dialogue on policy recommendations to close the gender gap in electoral rolls.
+* Helped develop the Election Commission of Pakistan’s Strategic Plan (2019–2023), which includes all critical areas of institutional and electoral reforms along-with an oversight committee to ensure management and monitoring of actions from the strategic plan.
+* Strengthened the Election Commission of Pakistan’s Gender and Disability Electoral Working Group to sustain and strengthen the agenda of women’s electoral and political inclusion in Pakistan. 
+* Supported five political parties in establishing their policy and research wings, with a mandate to develop citizen-centric, issue-based policies for their constituencies.
+* Motivated 10 political parties to sign a Charter of Inclusion for women’s political empowerment in political parties as party members, office-bearers, candidates, and voters.
+* Facilitated 22 civil society organizations in engaging with state institutions for drafting the People With Disabilities bill with legislative committee.
 * Helped register more than 184,000 [women as voters](/uploads/DAI-Tabeer's%20contribution%20to%20increase%20women's%20political%20participation.pdf).
-* Reached 9.7 million citizens through a radio campaign stressing women’s electoral participation.
-* Ran a media campaign to inform citizens about the process required to check and update their details in the national electoral rolls. Some 1.5 million people visited electoral roll display centres and almost 900,000 applied for changes.
-* Supported the National Assembly of Pakistan to pass a landmark notification to establish a Special Committee on the Protection of Persons with Disabilities. The Assembly adopted all the recommendations the DAI team made in a recent policy paper on enhancing democratic inclusion and strengthening representation of marginalized groups.
-* Supported the launch of the Punjab Environment Policy, which will promote legislation to teach environmental subjects in schools, create a youth climate advocacy network, and establish laboratories to monitor air and water quality in Punjab.
