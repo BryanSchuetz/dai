@@ -36,11 +36,9 @@ CDIP worked in four thematic areas, with a cross-cutting focus on increasing the
 * Assisted more than 800,000 citizens with registering in the electoral rolls through 14,000 display centres.  
 * Briefed 400 mid- and senior-level officials from 13 political parties on relevant aspects of the Elections Act 2017, and on Pakistan’s international commitments.
 * Helped introduce parliamentary reforms such as question hour, backbench members’ hours, committee functioning, and constituency outreach. 
-* Trained women parliamentarians on legislative effectiveness, leadership, conflict management, political negotiation, agenda setting and communications.
-National Legislative Archive established to support PIPS and other parliamentary institutions in carrying out research and evidence-based legislative drafting.
-230 mid- to senior-level journalists trained on best practices for election reporting, media ethics, human rights and SDGs by training.
-An estimated 9.2 million people accessed the civic information portal (CIP-PakVoter Portal), revamped and launched by CDIP to increase civic literacy on elections and democratic processes. 
- B. Support to medium to long-term electoral and democratic reforms 
+* Trained women parliamentarians on legislative effectiveness, leadership, conflict management, political negotiation, agenda setting, and communications.
+* Trained 230 mid- to senior-level journalists on best practices for election reporting, media ethics, human rights, and the Sustainable Development Goals.
+* Helped an estimated 9.2 million people access the civic information portal ([PakVoter](https://pakvoter.org/)), revamped and launched by CDIP to increase civic literacy on elections and democratic processes. 
 ECP’s post-election review (2018) conducted, and 19 institutional and electoral reforms introduced for more free, fair and independent elections in Pakistan.
 ECP’s Strategic Plan (2019–2023) developed, which includes all critical areas of institutional and electoral reforms along-with an ECP oversight committee to ensure management and monitoring of actions from the strategic plan.
 ECP’s Gender and Disability Electoral Working Group (G&DEWG) strengthened to sustain and strengthen the agenda of women’s electoral and political inclusion in Pakistan. 
