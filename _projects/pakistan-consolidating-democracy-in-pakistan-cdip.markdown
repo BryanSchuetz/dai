@@ -35,8 +35,8 @@ CDIP worked in four thematic areas, with a cross-cutting focus on increasing the
 * Helped 1.1 million women and other socially excluded groups acquire their national identity cards for participating in electoral and democratic processes.
 * Assisted more than 800,000 citizens with registering in the electoral rolls through 14,000 display centres.  
 * Briefed 400 mid- and senior-level officials from 13 political parties on relevant aspects of the Elections Act 2017, and on Pakistan’s international commitments.
-Parliamentary reforms such as PM question hour, backbench members’ hours, committee functioning, MP’s constituency outreach introduced for adoption by Parliament. 
-Women parliamentarians (WPC) trained on legislative effectiveness, leadership, conflict management, political negotiation, agenda setting and communications.
+* Helped introduce parliamentary reforms such as question hour, backbench members’ hours, committee functioning, and constituency outreach. 
+* Trained women parliamentarians on legislative effectiveness, leadership, conflict management, political negotiation, agenda setting and communications.
 National Legislative Archive established to support PIPS and other parliamentary institutions in carrying out research and evidence-based legislative drafting.
 230 mid- to senior-level journalists trained on best practices for election reporting, media ethics, human rights and SDGs by training.
 An estimated 9.2 million people accessed the civic information portal (CIP-PakVoter Portal), revamped and launched by CDIP to increase civic literacy on elections and democratic processes. 
