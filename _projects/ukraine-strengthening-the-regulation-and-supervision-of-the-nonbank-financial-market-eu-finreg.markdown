@@ -7,7 +7,7 @@ summary: 'Through EU-FINREG, DAI is assisting the Ukrainian authorities in stren
   business, insurance, pensions, nonbank credit institutions, nonbank payment institutions,
   and other nonbank financial services. '
 start: 2017
-end: 2021
+end: 2023
 client: European Union
 solutions:
 - Economic Growth
