@@ -13,6 +13,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Regional
 promos:
+- title: L'Afrique contre les épidémies
+  link: "/uploads/TDDA%20copy%20for%20DAI%20website%20FR%20final.pdf"
 - title: Tackling Deadly Diseases in Africa
   link: "/uploads/TDDAP_2-pager_ENG_May19.pdf"
 - title: La Lutte Contre les Maladies Mortelles en Afrique
