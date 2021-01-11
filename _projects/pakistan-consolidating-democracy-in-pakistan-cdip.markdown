@@ -43,5 +43,5 @@ CDIP worked in four thematic areas, with a cross-cutting focus on increasing the
 * Strengthened the Election Commission of Pakistan’s Gender and Disability Electoral Working Group to sustain and strengthen the agenda of women’s electoral and political inclusion in Pakistan. 
 * Supported five political parties in establishing their policy and research wings, with a mandate to develop citizen-centric, issue-based policies for their constituencies.
 * Motivated 10 political parties to sign a Charter of Inclusion for women’s political empowerment in political parties as party members, office-bearers, candidates, and voters.
-* Facilitated 22 civil society organizations in engaging with state institutions for drafting the People With Disabilities bill with legislative committee.
+* Facilitated 22 civil society organizations in engaging with state institutions for drafting the People With Disabilities bill with a legislative committee.
 * Helped register more than 184,000 [women as voters](/uploads/DAI-Tabeer's%20contribution%20to%20increase%20women's%20political%20participation.pdf).
