@@ -32,12 +32,9 @@ CDIP worked in four thematic areas, with a cross-cutting focus on increasing the
 ### Select Results
 
 * Trained 850,000 election and polling staff on the conduct and management of free, fair, and impartial elections.
-1.1 million women and other socially excluded groups facilitated in acquiring their CNICs (national identity cards) for their participating in electoral and democratic processes.
-Over 800,000 citizens supported for their registration in the electoral rolls through 14,000 ECP display centres.  
-ECP’s internal systems and processes strengthened i.e. election observer accreditation system (OAS), election campaign monitoring process, and the results management system database of trained officials/ polling staff.
-400 mid and senior-level officials from 13 political parties briefed on relevant aspects of the Elections Act 2017, and on Pakistan’s international commitments.
-Overseas Internet voting piloted reviewed for ECP during the 2018 by-election in 35 constituencies, and a recommendation paper developed on future legal, policy and institutional reforms.
-PIPS, Punjab Assembly and Senate assisted in formulating their strategic plans and communication strategies.
+* Helped 1.1 million women and other socially excluded groups acquire their national identity cards for participating in electoral and democratic processes.
+* Assisted more than 800,000 citizens with registering in the electoral rolls through 14,000 display centres.  
+* Briefed 400 mid- and senior-level officials from 13 political parties on relevant aspects of the Elections Act 2017, and on Pakistan’s international commitments.
 Parliamentary reforms such as PM question hour, backbench members’ hours, committee functioning, MP’s constituency outreach introduced for adoption by Parliament. 
 Women parliamentarians (WPC) trained on legislative effectiveness, leadership, conflict management, political negotiation, agenda setting and communications.
 National Legislative Archive established to support PIPS and other parliamentary institutions in carrying out research and evidence-based legislative drafting.
