@@ -16,7 +16,7 @@ Our featured training includes:
 * Oil and Gas 101
 * Small Business Recovery and Resilience
 
-View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-TrainingCatalogue_2020.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
+View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-Training%20Catalogue2021.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
 
 ### Local Content Master Class
 
