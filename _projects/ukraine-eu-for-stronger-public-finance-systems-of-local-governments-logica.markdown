@@ -1,7 +1,6 @@
 ---
 title: Ukraine—EU for Stronger Public Finance Systems of Local Governments (LOGICA)
 date: 2021-01-14 08:58:00 Z
-published: false
 summary: The EU for Stronger Public Finance Systems of Local Governments project supported
   the Government of Ukraine to attain sustainable economic and development goals by
   increasing the efficiency and transparency of the local financial management systems,
@@ -22,6 +21,8 @@ In April 2017, the Government of Ukraine released a Medium-Term Government Prior
 In addition, through signing the Association Agreement (AA) with the European Union (EU) and its participation in the International Monetary Fund programme, Ukraine committed to improving its public financial management and modernizing its institutions. The Government engaged in extensive public administration and fiscal decentralization reforms to ensure efficient and transparent use of public budgets.  
 
 The EU for Stronger Public Finance Systems of Local Governments project supported the Government of Ukraine to attain sustainable economic and development goals by increasing the efficiency and transparency of the local financial management systems, in line with the EU-Ukraine Association Agreement and Ukraine’s Public Finance Management Strategy of 2017–2020. The purpose of this intervention was to strengthen fiscal decentralization and accountability at local and regional government levels.
+
+![LOGICA 3.jpg](/uploads/LOGICA%203.jpg)
 
 ### Sample Activities
 
