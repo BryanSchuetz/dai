@@ -2,9 +2,8 @@
 title: Uganda—Developing Market-Oriented and Environmentally Sustainable Beef Meat
   Industry
 date: 2020-04-29 10:40:00 Z
-summary: This European Union (EU)-funded programme contributes to a competitive, profitable,
-  job-intensive, gender-responsive, and environmentally sustainable agricultural sector
-  in Uganda.
+summary: This programme contributes to a competitive, profitable, job-intensive, gender-responsive,
+  and environmentally sustainable agricultural sector in Uganda.
 start: 2017
 end: 2021
 client: European Union
@@ -14,7 +13,7 @@ regions: Sub-Saharan Africa
 country: Uganda
 ---
 
-This European Union (EU)-funded programme contributes to a competitive, profitable, job-intensive, gender-responsive, and environmentally sustainable agricultural sector in Uganda. Our team uses a value chain approach in targeted areas to boost the overall performance—such as production volume, quality, value addition, increased employment, and environmental sustainability—of the meat sector.
+This programme contributes to a competitive, profitable, job-intensive, gender-responsive, and environmentally sustainable agricultural sector in Uganda. Our team uses a value chain approach in targeted areas to boost the overall performance—such as production volume, quality, value addition, increased employment, and environmental sustainability—of the meat sector.
 
 We bring together public and private players with smallholder farmers and beef-related agriculture firms to promote an environmentally sustainable, climate-resilient, low-emission, local, and regional meat industry. 
 
