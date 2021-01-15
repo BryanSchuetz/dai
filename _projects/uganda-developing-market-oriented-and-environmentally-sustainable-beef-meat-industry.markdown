@@ -17,6 +17,10 @@ This programme contributes to a competitive, profitable, job-intensive, gender-r
 
 We bring together public and private players with smallholder farmers and beef-related agriculture firms to promote an environmentally sustainable, climate-resilient, low-emission, local, and regional meat industry. 
 
+The project helps create producer groups—including women groups—that raise standards of beef production: promoting animal disease control and prevention, offering training on climate-smart pasture and manure management, promoting integrated water management, and encouraging supplementary feeding and efficient breeding methods (practices that can reduce greenhouse gas production). 
+
+The project also improves marketing and transportation to stimulate demand for safer meat processing and animal welfare practices. The project is assessing options for improving local slaughter facilities and partnering with urban women’s groups to generate income from cooked beef products. 
+
 ![1Uganda Beef- Field Visit at Kisombwa Dairy Farm (9).jpg](/uploads/1Uganda%20Beef-%20Field%20Visit%20at%20Kisombwa%20Dairy%20Farm%20(9).jpg)
  
 ## Sample Activities
