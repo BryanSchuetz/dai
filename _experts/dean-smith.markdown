@@ -1,6 +1,7 @@
 ---
 title: Dean Smith
 date: 2019-09-18 07:44:00 Z
+published: false
 lastname: Smith
 summary: Dean Smith has more than 20 years of experience designing and managing donor-funded
   projects in agriculture, value chain development, and enterprise competitiveness.
