@@ -2,7 +2,6 @@
 title: Turkey—Technical Assistance for Capacity Building for Effective Nationality
   Determination
 date: 2021-01-18 13:18:00 Z
-published: false
 summary: 'This project works to improve Turkey’s legal and administrative framework
   in migration management by establishing a well-functioning migration management
   system in line with the European Union (EU) acquis and standards. '
