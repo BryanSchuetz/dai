@@ -12,11 +12,15 @@ regions: Eastern Europe and Central Asia
 country: Belarus
 ---
 
-Belarus has made significant progress towards reducing air pollution in the last decades. However, the air quality in the country is not complying with standards, and is often the cause of serious health impacts. 
-One of the main goals of this project is to harmonise the relevant legislation in the fields of air quality monitoring and management and data collection systems. This project addresses the needs of the country toward improved air quality management and monitoring, aligning its environmental permitting regulations with international and EU standards. 
-The intervention works towards supporting investments in natural capital and cleaner technologies to encourage low-carbon development and help to reduce adverse impacts on public health in Belarus. 
-Sample Activities
-•	Assist Belarus in improving air quality management and carrying out air quality monitoring in full compliance with the EU Acquis and the Convention on Long range Trans-boundary Air Pollution and other relevant international environmental agreements;
+Belarus has made significant progress towards reducing air pollution in the last decades. However, the air quality in the country is not in compliance with standards and is often the cause of serious health impacts. 
+
+One of the main goals of this project is to harmonise the relevant legislation in the fields of air quality monitoring and management and data collection systems. This project addresses the needs of the country toward improved air quality management and monitoring, aligning its environmental permitting regulations with international and European Union (EU) standards. 
+
+The intervention supports investments in natural capital and cleaner technologies to encourage low-carbon development and reduce adverse impacts on public health in Belarus. 
+
+### Sample Activities
+
+* Assist Belarus in improving air quality management and carrying out air quality monitoring in full compliance with the EU Acquis and the Convention on Long-range Trans-boundary Air Pollution and other relevant international environmental agreements.
 * Align environmental permitting regulations in Belarus with international and EU standards.
 * Contribute to developing Belarus capacity in the field of air quality modelling and management.
 * Elaborate Sustainable Urban Mobility Plans for four major cities using urban air quality models and transport policy support tool which will allow for evidence-based decision making.
