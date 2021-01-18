@@ -1,8 +1,12 @@
 ---
-title: Belarus—Support to Effective Air Emissions and Radiation Monitoring and Improved
+title: Belarus—Support to Effective Air Emissions, Radiation Monitoring, and Improved
   Environmental Management
 date: 2021-01-18 09:58:00 Z
-published: false
+summary: 'This project works to harmonise the relevant legislation in the fields of
+  air quality monitoring and management and data collection systems in Belarus. This
+  project addresses the needs of the country to improve air quality management and
+  monitoring and align its environmental permitting regulations with international
+  and European Union (EU) standards. '
 start: 2020
 end: 2021
 client: European Union
@@ -14,9 +18,11 @@ country: Belarus
 
 Belarus has made significant progress towards reducing air pollution in the last decades. However, the air quality in the country is not in compliance with standards and is often the cause of serious health impacts. 
 
-One of the main goals of this project is to harmonise the relevant legislation in the fields of air quality monitoring and management and data collection systems. This project addresses the needs of the country toward improved air quality management and monitoring, aligning its environmental permitting regulations with international and European Union (EU) standards. 
+One of the main goals of this project is to harmonise the relevant legislation in the fields of air quality monitoring and management and data collection systems. This project addresses the needs of the country to improve air quality management and monitoring and align its environmental permitting regulations with international and European Union (EU) standards. 
 
 The intervention supports investments in natural capital and cleaner technologies to encourage low-carbon development and reduce adverse impacts on public health in Belarus. 
+
+![1 Belarus Air - pp.jpg](/uploads/1%20Belarus%20Air%20-%20pp.jpg)
 
 ### Sample Activities
 
