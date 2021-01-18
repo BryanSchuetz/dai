@@ -23,6 +23,8 @@ The development, implementation, and evaluation of the LAS pilot—allied with t
 
 This intervention is a critical element towards strengthening the migration management system in Turkey.
 
+![ND Turkey - 1st_Semi_Annual_Meeting (2) (1).jpg](/uploads/ND%20Turkey%20-%201st_Semi_Annual_Meeting%20(2)%20(1).jpg)
+
 ### Sample Activities
 
 * Develop and establish a comprehensive LAS, encompassing all required regulations, procedures, and tools for gathering evidence.
