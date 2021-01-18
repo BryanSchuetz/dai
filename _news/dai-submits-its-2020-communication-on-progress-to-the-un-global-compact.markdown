@@ -6,7 +6,7 @@ summary: 'DAI is delighted to submit its latest Communication on Progress to the
   Nations Global Compact. '
 ---
 
-DAI is delighted to submit its latest Communication on Progress to the United Nations Global Compact. 
+DAI is delighted to submit its latest [Communication on Progress](/uploads/UNGC%20Communication%20on%20Progress%202020.pdf) to the United Nations Global Compact. 
 
 The Compact is a “voluntary initiative based on CEO commitments to implement universal sustainability principles,” with a mission to “mobilize a global movement of sustainable companies and stakeholders to create the world we want.” Member companies align their strategies and operations with 10 principles covering human rights, labor rights, environmental sustainability, and ethical business practices, and seek to advance social progress as articulated in the UN Sustainable Development Goals (SDGs). DAI joined the Compact in 2018.
 
