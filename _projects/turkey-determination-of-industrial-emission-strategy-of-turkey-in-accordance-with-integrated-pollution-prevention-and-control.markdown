@@ -1,30 +1,34 @@
 ---
-title: Turkey—Determination of Industrial Emission Strategy of Turkey in Accordance
-  with Integrated Pollution Prevention and Control
+title: Serbia—Technical Assistance for Energy Efficiency and Renewable Energy Sources
 date: 2021-01-18 09:09:00 Z
 published: false
-summary: The project—Determination of Industrial Emission Strategy of Turkey in Accordance
-  with Integrated Pollution Prevention and Control—addresses one of the most crucial
-  environmental issues regarding the protection of human health and environment by
-  integrated management of industrial pollution through the implementation of the
-  Industrial Emissions Directive.
-start: 2020
-end: 2023
+summary: 'This project contributes to the security of supply, a more competitive energy
+  market, and sustainable energy development in Serbia. '
+start: 2019
+end: 2021
 client: European Union
 solutions:
 - Environment
 regions: Eastern Europe and Central Asia
-country: Turkey
+country: Serbia
 ---
 
-Environmental protection has been integrated into Turkey’s development goals since 1998 with the preparation and adoption of NEAP (National Environmental Action Plan) into multiannual development plans. This adoption process has been accelerated since 1999, when the country was officially recognized as a candidate for full European Union (EU) membership. Turkey has gone through considerable progress in harmonization and implementation of EU environmental acquis. 
+Serbia is among the European countries with the highest energy intensity, with a large dependence on fossil fuels, especially coal. Its development targets, however, require bringing the energy sector into a sustainable footing by improving the energy efficiency situation across all sectors and increasing the use of renewable energy sources. 
 
-Turkey’s Multi-annual Action Programme for Environment and Climate Action (2014–2016) and National Action Plan for EU Accession Phase-II (June 2015-June 2019) clearly state that the industrial pollution sub-sector is crucial for putting EU acquis into practice in the country and transposing the acquis in the field of industrial pollution control and risk management as a closing benchmark. 
-
-The project—Determination of Industrial Emission Strategy of Turkey in Accordance with Integrated Pollution Prevention and Control (IPPC)—addresses one of the most crucial environmental issues regarding the protection of human health and environment by integrated management of industrial pollution through the implementation of the Industrial Emissions Directive (IED).
+This project contributes to the security of supply, a more competitive energy market, and sustainable energy development in Serbia. Our objective is to improve policy enforcement, monitoring, and harmonization of national legislation in line with the European Union (EU) Energy Acquis and commitments for the energy community.
 
 ### Sample Activities
 
-* Increase the technical and institutional capacity of the competent authorities for effective implementation of IPPC approach in Turkey in line with the EU Industrial Emissions Directive, the most important environmental acquis in terms of effective industrial pollution reduction based on an integrated approach and the use of best available techniques.
-* Development of National Action Plan (NAP) for Implementation of IPPC approach defined by IED, and obtaining a strategy document to combine action plans regarding all environmental components (air, noise, water, soil, waste) as a precondition for ensuring the further developments in the environmental field.
-* Increase awareness of all relevant stakeholders for a smooth implementation of IPPC approach in Turkey by setting the activities on capacity building as training programs, dissemination of workshops, and study tours aiming for the sustainability of the project and continuity of outcomes beyond the implementation period.
+* Improve the regulatory framework for energy efficiency, aligning with requirements of the energy community and the EU Acquis. 
+* Increase the capacity of the Serbian Government to implement energy efficiency legislation and policy, particularly in households and within small businesses.
+* Raise awareness of energy efficiency.
+* Promote the significance of energy audits in small firms to raise energy efficiency and improve the use of energy.
+* Support the implementation of the National Verification Scheme of the Sustainability Criteria for Biofuels and Bioliquids.
+
+### Sample Results
+ 
+* Prepared legal gap analysis on energy efficiency in the Republic of Serbia.
+* Facilitated a study tour to Estonia. 
+* Established synergies with another project, Establishing and Strengthening of Capacities of the Conformity Assessment Bodies for the Implementation of Energy Labelling and Ecodesign Directives.
+* Developed a questionnaire for the assessment of renewable energy potential for bioliquids and biofuels in the Serbian transport sector.
+* Prepared a visibility package for printed materials in accordance with the new visibility guide for EU-funded projects in Serbia and the EUZATEBE campaign, which creates awareness about the role of the EU in Serbia.
