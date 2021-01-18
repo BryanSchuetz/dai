@@ -26,7 +26,7 @@ This project contributes to the security of supply, a more competitive energy ma
 * Promote the significance of energy audits in small firms to raise energy efficiency and improve the use of energy.
 * Support the implementation of the National Verification Scheme of the Sustainability Criteria for Biofuels and Bioliquids.
 
-### Sample Results
+### Select Results
  
 * Prepared legal gap analysis on energy efficiency in the Republic of Serbia.
 * Facilitated a study tour to Estonia. 
