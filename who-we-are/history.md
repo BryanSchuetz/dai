@@ -17,7 +17,7 @@ Employee-owned DAI is now a global development company with a record of deliveri
 
 [DAI’s mission is to make a lasting difference in the world](https://www.dai.com/who-we-are/mission-and-values) by helping people improve their lives. We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable.
 
-![Photo of DAI field staff](/assets/images/who-we-are/hood.jpg "DAI field staff plan work in Iraq.")
+[![DAI Timeline](/uploads/dai-timeline-screenshot.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Nvp3gPaPdAHkZGQqAK3McDCz__ybSQ1wLwUqYq2S8AA&font=Default&lang=en&timenav_position=top&hash_bookmark=true&initial_zoom=2#event-nigeria-rising)`View the DAI timeline`
 
 DAI made its earliest mark through a series of analytical studies. In 1973, we won a contract to analyze 36 U.S. Agency for International Development (USAID) projects in Latin America and Africa.
 
@@ -55,8 +55,6 @@ We further expanded our European footprint in 2019 with the integration of [Huma
 Over the past few years, we have had success serving commercial clients, getting a significant boost with the acquisition of [Local Content Solutions](https://www.dai.com/news/dai-joins-forces-with-local-content-solutions-ltd) and culminating in the launch of our [Sustainable Business Group](https://www.dai.com/news/dai-launches-new-unit-to-serve-commercial-clients-and-host-governments) in 2017.
 
 And we are steadily expanding our presence in the health arena, guided by a vision of tech-enabled, data-centric services to address the health and development challenges of the 21st century. In line with this vision, we have made strategic investments in digital health startups—[ThinkMD](https://www.dai.com/news/dai-invests-in-thinkmds-clinical-assessment-technology), [MobileODT](https://www.dai.com/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech), and [ClickMedix](https://www.dai.com/news/dai-global-health-invests-in-mhealth-leader-clickmedix)—and we welcomed [Health Partners International](https://www.dai.com/news/dai-acquires-hpi-group-adds-expertise-in-global-health-womens-empowerment) to the DAI team in June 2017. Just three months later, we announced a groundbreaking affiliation with the Chapel Hill, North Carolina-based [IntraHealth International](https://www.dai.com/news/dai-and-intrahealth-join-forces-to-amplify-global-health-impact).
-
-[![DAI Timeline](/uploads/dai-timeline-screenshot.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Nvp3gPaPdAHkZGQqAK3McDCz__ybSQ1wLwUqYq2S8AA&font=Default&lang=en&timenav_position=top&hash_bookmark=true&initial_zoom=2#event-nigeria-rising)`View the DAI timeline`
 
 DAI’s global employee owners celebrated the firm’s [50th anniversary](https://dai-fifty.netlify.app/) in 2020. As a global development company, we continue looking for ways to connect with customers across sectors and geographies, learn from them in ways that inform our work across clients and disciplines, and enhance our value as a global resource for diverse development actors.
 
