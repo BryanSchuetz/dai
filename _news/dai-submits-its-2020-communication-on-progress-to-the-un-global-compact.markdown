@@ -2,9 +2,9 @@
 title: DAI Submits Its 2020 Communication on Progress to the UN Global Compact
 date: 2021-01-19 08:00:00 Z
 published: false
+summary: 'DAI is delighted to submit its latest Communication on Progress to the United
+  Nations Global Compact. '
 ---
-
-DAI Submits Its 2020 Communication on Progress to the UN Global Compact
 
 DAI is delighted to submit its latest Communication on Progress to the United Nations Global Compact. 
 
