@@ -3,6 +3,11 @@ title: Turkey—Determination of Industrial Emission Strategy of Turkey in Accor
   with Integrated Pollution Prevention and Control
 date: 2021-01-18 09:09:00 Z
 published: false
+summary: The project—Determination of Industrial Emission Strategy of Turkey in Accordance
+  with Integrated Pollution Prevention and Control—addresses one of the most crucial
+  environmental issues regarding the protection of human health and environment by
+  integrated management of industrial pollution through the implementation of the
+  Industrial Emissions Directive.
 start: 2020
 end: 2023
 client: European Union
@@ -12,11 +17,11 @@ regions: Eastern Europe and Central Asia
 country: Turkey
 ---
 
-Environmental protection has been integrated into Turkey’s development goals since 1998 with the preparation and adoption of NEAP (National Environmental Action Plan) into multiannual development plans. This adoption process has been accelerated since 1999, when the country was officially recognized as a candidate for full EU membership. Turkey has gone through considerable progress in harmonization and implementation of EU environmental acquis. 
+Environmental protection has been integrated into Turkey’s development goals since 1998 with the preparation and adoption of NEAP (National Environmental Action Plan) into multiannual development plans. This adoption process has been accelerated since 1999, when the country was officially recognized as a candidate for full European Union (EU) membership. Turkey has gone through considerable progress in harmonization and implementation of EU environmental acquis. 
 
-Turkey’s Multi-annual Action Programme for Environment and Climate Action (2014-2016) and National Action Plan for EU Accession Phase-II (June 2015-June 2019) clearly state that the industrial pollution sub-sector is crucial for putting EU acquis into practice in the country and transposing the acquis in the field of industrial pollution control and risk management as a closing benchmark. 
+Turkey’s Multi-annual Action Programme for Environment and Climate Action (2014–2016) and National Action Plan for EU Accession Phase-II (June 2015-June 2019) clearly state that the industrial pollution sub-sector is crucial for putting EU acquis into practice in the country and transposing the acquis in the field of industrial pollution control and risk management as a closing benchmark. 
 
-The Project “Determination of Industrial Emission Strategy of Turkey in Accordance with Integrated Pollution Prevention and Control” is addressing one of the most crucial environmental issues regarding the protection of human health and environment by integrated management of industrial pollution through the implementation of Industrial Emissions Directive.
+The project—Determination of Industrial Emission Strategy of Turkey in Accordance with Integrated Pollution Prevention and Control (IPPC)—addresses one of the most crucial environmental issues regarding the protection of human health and environment by integrated management of industrial pollution through the implementation of the Industrial Emissions Directive (IED).
 
 ### Sample Activities
 
