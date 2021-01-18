@@ -28,12 +28,12 @@ This intervention is a critical element towards strengthening the migration mana
 * Develop and establish a comprehensive LAS, encompassing all required regulations, procedures, and tools for gathering evidence.
 * Train DGMM staff at central and local levels and staff at other relevant agencies such as law enforcement on nationality identification.
 * Increase knowledge management and research capacity related to the country of origin information.
-* Boosting intra- and inter-institutional cooperation on issues related to nationality determination is enhanced.
+* Boost intra- and inter-institutional cooperation on issues related to nationality determination.
 
 ### Select Results
 
-* Developed the concept for the Language Analysis System (LAS).
-* Analyzed 565 voice samples by both human experts and Accent Recognition System (ARS), submitted to DGMM.
-* Developed the LAS Procedures Manual approved by DGMM. 
-* Developed training manual reviewed by DGMM.
-* Ongoing developments of an e-learning system and e-learning contents in Turkish are being integrated onto the DGMM platform. 
+* Developed the concept for the LAS.
+* Analyzed 565 voice samples by both human experts and via an accent recognition system, submitted to DGMM.
+* Developed the LAS procedures manual approved by DGMM. 
+* Developed a training manual reviewed by DGMM.
+* Developed an e-learning system in Turkish for integration onto the DGMM platform. 
