@@ -36,7 +36,7 @@ We work closely with the African Centers for Disease Control and the World Healt
 
 ### Expert Support on the Ground
 
-TDDA provides technical expertise and targeted operational support through experts on the ground. The programme is shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We help our focus countries to bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflects the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses.
+TDDA provides technical expertise and targeted operational support through experts on the ground. The programme is shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We help our focus countries to bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflects the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. Meet our [Country Coordinators](/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf).
 
 ### Preventing Animal-to-Human Disease Transmission 
 
