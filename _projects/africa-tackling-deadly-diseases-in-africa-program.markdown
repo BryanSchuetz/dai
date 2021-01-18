@@ -15,6 +15,10 @@ country: Regional
 promos:
 - title: L'Afrique contre les épidémies
   link: "/uploads/TDDA%20copy%20for%20DAI%20website%20FR%20final.pdf"
+- title: Meet our Country Coordinators
+  link: "/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf"
+- title: Les Coordinateurs Pays de l’ACE
+  link: "/uploads/CC%20profiles%20FR%20final.pdf"
 - title: 'Q&A with Jeffrey Mecaskey: How Community Engagement, Regulations, and Incentives
     Build a Path to Improved Healthcare'
   link: https://dai-global-developments.com/articles/q-and-a-with-jeffery-mecaskey
@@ -27,6 +31,8 @@ The Tackling Deadly Diseases in Africa (TDDA) programme works with governments a
 >  “Pandemics are the greatest single threat to global health today. TDDA is a flagship programme of the UK Government helping to protect populations and economies around the world, including in the UK.”  -**Graham Gass, Group Head, Africa Regional Department, UK Foreign, Commonwealth & Development Office**
 
 We work closely with the African Centers for Disease Control and the World Health Organisation’s African Regional Office (WHO/AFRO) to reinforce regional efforts at harmonization and cross-border collaboration.  
+
+![tdaap.jpg](/uploads/tdaap.jpg)
 
 ### Expert Support on the Ground
 
