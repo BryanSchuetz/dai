@@ -13,10 +13,12 @@ solutions:
 - Digital Trainings
 regions: Worldwide
 promos:
-- title: 'Digital Frontiers One-Pager '
-  link: "/uploads/Digital%20Frontiers_One%20Pager_8.13.19.pdf"
+- title: 'Digital Frontiers: At the Frontlines of Digital Development'
+  link: "/uploads/DF_AtTheFrontlines_Factsheet_final.pdf"
 - title: Guide to Digital Considerations under COVID-19 Conditions
   link: https://www.usaid.gov/sites/default/files/documents/COVID-19_and_Digital_Development.pdf.pdf
+- title: 'Digital Frontiers One-Pager '
+  link: "/uploads/Digital%20Frontiers_One%20Pager_8.13.19.pdf"
 ---
 
 Across the developing world, digital technologies are accelerating change at every level of society—from mobile solutions that serve rural women’s savings groups in Tanzania to data-driven decision-making tools for natural resource planning in Honduras. The challenge is that, to date, these solutions have not matched the pace and scale of the problems they address.
