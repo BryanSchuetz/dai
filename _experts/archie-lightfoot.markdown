@@ -1,8 +1,8 @@
 ---
-title: Archie Lightfoot
+title: Archie D. Lightfoot
 date: 2021-01-19 08:14:00 Z
 lastname: Lightfoot
-summary: Archie Lightfoot has worked with DAI since 2015, supporting and directing
+summary: Archie D. Lightfoot has worked with DAI since 2015, supporting and directing
   projects in Botswana, Ethiopia, Ghana, Mexico, Mozambique, Pakistan, and Palestine.
   He took over as head of DAI’s Global Security function in 2021.
 job-title: 'Vice President, Global Security '
