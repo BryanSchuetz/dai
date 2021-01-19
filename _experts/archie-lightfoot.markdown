@@ -17,4 +17,4 @@ Before going to Kurdistan in August 2014, Archie consulted for a year with Sight
 
 For the previous 20 years or so, Archie worked in the oil and gas industry and prior to that served in the British Army and Merchant Navy. He has also been a Research Associate at the Sussex Centre for Conflict and Security Research and a visiting Lecturer on Third Sector Leadership at the Cass Business School in London.
 
-* M.A, international conflict, security, and development, University of Sussex
+* M.A., international conflict, security, and development, University of Sussex
