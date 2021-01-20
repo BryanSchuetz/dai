@@ -1,7 +1,7 @@
 ---
 title: Somalia—Technical Assistance Facility
 date: 2019-07-17 08:16:00 Z
-summary: The Technical Assistance Facility supports the development and implementation
+summary: The Technical Assistance Facility supported the development and implementation
   of a long-term strategy to build up a sustainable national system of social protection
   in Somalia.
 start: 2019
@@ -21,11 +21,11 @@ promos:
 
 Somalia shows signs of slow recovery from 25 years of state collapse, civil war, and political unrest. The country remains highly exposed to poverty, vulnerability, and food insecurity, however. Humanitarian crises have been particularly severe in 2008, 2011, and 2017, with a major famine taking place in 2011, another narrowly averted in 2017. Following the 2017 droughts, 3 million people received direct humanitarian assistance for their survival and international donors began to review their approaches in a new perspective, aiming to transition from humanitarian aid to long-term development approaches.
 
-The Technical Assistance Facility supports the development and implementation of a long-term strategy to build up a sustainable national system of social protection in Somalia.
+The Technical Assistance Facility supported the development and implementation of a long-term strategy to build up a sustainable national system of social protection in Somalia.
 
-The project is a component of the wider European Union Devco [Inclusive Local Economic Development programme](https://ec.europa.eu/trustfundforafrica/region/horn-africa/somalia/inclusive-local-and-economic-development-iled_en) that promotes stability in the country by “extending state authority and services, promoting local reconciliation and peacebuilding, creating inclusive economic opportunities, and protecting the most vulnerable.”
+The project was a component of the wider European Union's [Inclusive Local Economic Development programme](https://ec.europa.eu/trustfundforafrica/region/horn-africa/somalia/inclusive-local-and-economic-development-iled_en) that promotes stability in the country by “extending state authority and services, promoting local reconciliation and peacebuilding, creating inclusive economic opportunities, and protecting the most vulnerable.”
 
-The Technical Assistance Facility supports the Donor Working Group and facilitates policy dialogue between donors and Somali institutions. It furthermore supports the government of Somalia in its efforts to set up and implement its Social Protection Policy.
+The Technical Assistance Facility supported the Donor Working Group and facilitated policy dialogue between donors and Somali institutions. It furthermore supported the government of Somalia in its efforts to set up and implement its Social Protection Policy.
 
 ![Pic-Somalia-P.Crook.jpg](/uploads/Pic-Somalia-P.Crook.jpg)
 
