@@ -25,11 +25,11 @@ TASC is led by DAI with [NutritionWorks](https://www.nutritionworks.org.uk/) and
 
 TASC works collaboratively with [Nutrition International](https://www.nutritionintl.org/project/technical-assistance-for-nutrition-tan-project/), a key implementing partner under the TAN programme, to engage in joint learning and coordinate efforts on knowledge management.
 
-
-
-
 ## Sample Activities
 
-* Analyse finance for nutrition action.
-* Conduct multi-country reviews of nutrition plans.
-* Undertake case studies, produce monthly COVID-19 tracker updates, prepare technical guidance notes, create webinars.
+* Analyse finance for nutrition actions (e.g. costing of multi-sectoral plans, budget analysis, and financial tracking)
+* Support transition to the SUN Movement 3.0 Strategy (2021-2025)
+* Conduct multi-country reviews of nutrition plans. 
+* Support SUN Movement’s learning agenda.
+* Support FCDO on nutrition-related programme design and implementation (development of strategic cases; programme review; placement of consultants to boost technical capacity on nutrition; andother technical support)
+* Facilitate knowledge management, learning, and capacity building (case studies, a COVID-19 tracker with monthly updates, various technical guidance notes, webinars for FCDO staff, and wider audiences, etc.)
