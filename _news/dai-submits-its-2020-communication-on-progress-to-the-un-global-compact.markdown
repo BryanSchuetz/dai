@@ -1,6 +1,7 @@
 ---
 title: DAI Submits Its 2020 Communication on Progress to the UN Global Compact
 date: 2021-01-19 08:00:00 Z
+is_featured: true
 summary: 'DAI is delighted to submit its latest Communication on Progress to the United
   Nations Global Compact. '
 social-image: "/uploads/Screen%20Shot%202021-01-18%20at%204.55.07%20PM-9d0bc6.jpg"
@@ -11,6 +12,8 @@ DAI is delighted to submit its latest [Communication on Progress](/uploads/UNGC%
 The [Compact](https://www.unglobalcompact.org/) is a “voluntary initiative based on CEO commitments to implement universal sustainability principles,” with a mission to “mobilize a global movement of sustainable companies and stakeholders to create the world we want.” Member companies align their strategies and operations with 10 principles covering human rights, labor rights, environmental sustainability, and ethical business practices, and seek to advance social progress as articulated in the [UN Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals). DAI joined the Compact in 2018.
 
 ![Screen Shot 2021-01-18 at 4.55.07 PM.jpg](/uploads/Screen%20Shot%202021-01-18%20at%204.55.07%20PM.jpg)
+
+<!--more-->
 
 “This year—DAI’s 50th anniversary—turned out to be perhaps the most extraordinary year in our half century of operation, thanks largely to the COVID-19 pandemic but also to an energized movement for racial and social justice that has particular salience for any organization committed to human welfare and global citizenship,” writes DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard) in his introduction. 
 
