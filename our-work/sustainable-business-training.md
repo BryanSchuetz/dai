@@ -16,7 +16,7 @@ Our featured training includes:
 * Oil and Gas 101
 * Small Business Recovery and Resilience
 
-View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-Training%20Catalogue2021.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
+View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
 
 ### Local Content Master Class
 
@@ -39,7 +39,7 @@ Upcoming Sessions:
 * **Module 3:** Local Content Reporting, Impact Measurement, and Communications.
 * **Module 4:** Local Content Investments: Supplier and Workforce Development.
 
-View the [DAI E-training Catalogue 2020 here.](/uploads/DAI_E-TrainingCatalogue_2020.pdf)
+View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf)
 
 > “The Master Class has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
