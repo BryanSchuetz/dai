@@ -21,7 +21,7 @@ To sustain and expand action on nutrition, TASC provides demand-driven technical
 * Component 1: Assistance to governments in the SUN Movement and the SUN Movement Secretariat to catalyse efforts to scale up nutrition impact.
 * Component 2: Assistance to the Foreign, Commonwealth & Development Office (FCDO) Nutrition Policy Unit and FCDO country offices to maximise the quality and effectiveness of their nutrition-related policy and programmes, to support evidence generation and lesson learning and to develop nutrition capacity.
 
-TASC is led by DAI with [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/) as consortium partners, and is a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://www.dai.com/our-work/projects/worldwide-maximising-the-quality-of-scaling-up-nutrition-mqsun-mqsun-plus-framework) programme. 
+TASC is led by DAI with [NutritionWorks](https://www.nutritionworks.org.uk/) and [Development Initiatives](https://www.devinit.org/) as consortium partners, and is a follow-on to the [Maximising the Quality of Scaling Up Nutrition Plus (MQSUN+)](https://mqsunplus.path.org/) programme. 
 
 TASC works collaboratively with [Nutrition International](https://www.nutritionintl.org/project/technical-assistance-for-nutrition-tan-project/), a key implementing partner under the TAN programme, to engage in joint learning and coordinate efforts on knowledge management.
 
