@@ -13,6 +13,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: The Gambia
 promos:
+- title: 'Security Sector Reform in The Gambia: What is at Stake?'
+  link: https://issafrica.org/research/west-africa-report/security-sector-reform-in-the-gambia-what-is-at-stake
 - title: 'Restoring Trust: Toward a People-Centric Security Sector in The Gambia'
   link: https://dai-global-developments.com/articles/restoring-trust-toward-a-people-centric-security-sector-in-the-gambia
 - title: 'How Statistics Can Transform Governance: A Q&A with Economist and Statistician
