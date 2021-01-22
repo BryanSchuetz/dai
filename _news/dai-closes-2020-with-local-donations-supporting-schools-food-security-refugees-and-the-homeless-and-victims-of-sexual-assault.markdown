@@ -7,6 +7,7 @@ summary: At the close of a pandemic-stricken year that has proven challenging to
   many people in so many ways, DAI offices around the world made charitable contributions
   totaling $18,000 to local service organizations. We would like to thank all of these
   organizations for the work they do to support our communities.
+social-image: "/uploads/DENS.jpg"
 ---
 
 At the close of a pandemic-stricken year that has proven challenging to so many people in so many ways, DAI offices around the world made charitable contributions totaling $18,000 to local service organizations. We would like to thank all of these organizations for the work they do to support our communities.
