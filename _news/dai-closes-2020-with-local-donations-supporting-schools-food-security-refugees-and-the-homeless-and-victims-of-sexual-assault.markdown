@@ -24,4 +24,5 @@ In our Bethesda, Maryland, location, we supported the Montgomery County Public S
 “We rely on donations from local community partners such as yours to make this program possible,” wrote social worker Haifa Krakaur, Supervisor and Special Projects Coordinator for the program. “Thank you again for your continued support!”
 
 DAI also contributed match funding to the [Montgomery County Food Council](https://mocofoodcouncil.org/), which works to build a local, nutritious, robust, and equitable food system for all residents of the county. “We are sincerely grateful for your organization's generosity, and our progress and successes would not be possible without your valuable contributions,” said Executive Director Heather Bruskin.
-Finally, in Sofia, Bulgaria, DAI made a donation to The Council of Refugee Women in Bulgaria, an organization launched in 2002 to help refugees and asylum seekers integrate in Bulgarian society.
+
+Finally, in Sofia, Bulgaria, DAI made a donation to [The Council of Refugee Women](https://crw-bg.org/en/home) in Bulgaria, an organization launched in 2002 to help refugees and asylum seekers integrate in Bulgarian society.
