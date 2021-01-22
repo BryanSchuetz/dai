@@ -20,7 +20,7 @@ In our Apsley location in the United Kingdom, DAI continued a longstanding relat
 
 In Lagos, Nigeria, DAI made a charitable donation to [Partnership for Justice](http://pjnigeria.org/), an organization that provides free medical, emotional, and legal support to victims of rape through its crisis response unit, the [Mirabel Centre](http://pjnigeria.org/mirabel/watch-a-short-documentary-on-mirable-centre.pjn/). The Centre—which has supported more than 5,400 sexual assault survivors since its inception in 2013, according to founder Itoro Eze-Anaba—provides anti-rape education and outreach to reduce the incidence of sexual violence, through community partnerships to raise awareness, mobilize public opinion, and foster an anti-sexual-violence culture. 
 
-“They do fantastic work,” said Joe Abah, DAI’s Country Director in Nigeria.
+“They do fantastic work,” said [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), DAI’s Country Director in Nigeria.
 
 In our Bethesda, Maryland, location, we supported the Montgomery County Public Schools [Linkages to Learning Program](https://www.montgomeryschoolsmd.org/community-engagement/linkages-to-learning/), which has for 25 years served school communities with high rates of poverty by addressing the social, economic, health, and emotional issues that may interfere with student success. DAI’s funding provided grocery and other gift cards over the holiday period for vulnerable families and young people. 
 
