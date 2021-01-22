@@ -45,7 +45,11 @@ Through Puentes para el Empleo, DAI supported the U.S. Agency for International 
 
 ### Select Results
 
-* Trained 600 staff members of training centers and civil society organizations—including instructors, administrators, job placement specialists, psychologists, and social workers—to improve the quality and relevance of services provided to youth.
-* Introduced life skills curricula in 24 training centers.
+* Helped 4,708 vulnerable young people gain new or improved employment.   
+* Trained 11,930 vulnerable young people, equipping them with the technical, life skills, and on-the-job training necessary to meet the demands of employers.
+* Assisted 608 young people who had previously dropped out of school to complete their studies and graduate.
+* Built the capacity of 29 training centers, strengthened staff knowledge and capacity, improved institutional infrastructure, provided updated tools, equipment, and materials for learning, boosting data management capacity, and established new job placement services.
+* Formalized 107 alliances between training centers and companies.
+* Helped 56 individual firms take concrete steps to improve the inclusiveness of vulnerable youth and other marginalized populations in their corporate policies and practices.
+* Assisted seven municipalities to create or update municipal youth policies that strengthen the legal framework for the protection, participation, and development of youth in high-crime communities.
 * Created the Fair Programming Initiative to ensure the inclusion and fair treatment of vulnerable youth who provide software development services as part of the global IT value chain.
-* Provided technical assistance to companies to modify hiring, selection, and employment practices to better support youth in the workplace.
