@@ -2,7 +2,6 @@
 title: DAI Closes 2020 with Local Donations Supporting Schools, Food Security, Refugees
   and the Homeless, and Victims of Sexual Assault
 date: 2021-01-22 13:59:00 Z
-published: false
 summary: At the close of a pandemic-stricken year that has proven challenging to so
   many people in so many ways, DAI offices around the world made charitable contributions
   totaling $18,000 to local service organizations. We would like to thank all of these
