@@ -27,6 +27,9 @@ promos:
 - title: 'Just Add Water: Communications Technology Contributing to the Journey to
     Self Reliance'
   link: https://spark.adobe.com/page/FZdYuRsrp6AqO/
+- title: 'Youth in Government: Young People in Rural Guatemala Take an Active Role
+    in their Community'
+  link: https://spark.adobe.com/page/m7rLUoLXpHfld/
 layout: project
 ---
 
