@@ -30,7 +30,7 @@ The Comprehensive Africa Agriculture Development Programme (CAADP) is the agricu
 * Provide support to the events for Year of African Agriculture 2014 by liaising with the AU in Addis Ababa to manage the logistics for major conferences, seminars, workshops, and similar events.
 * Provide technical assistance specifically to the Southern African Development Community and its member states to advance their agriculture investment programmes.
 
-###  Select Results
+### Select Results
 
 * Formulated new Agriculture Investment Plans and revised existing plans for a variety of countries including the Democratic Republic of Congo, Djibouti, Mauritania, Seychelles, and South Sudan; provided regional support in the same fields for organisations such as the Economic Community of Central African States.
 * Facilitated several orientation seminars and business meetings to exchange strategic information and experiences.
