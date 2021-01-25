@@ -17,10 +17,17 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
+promos:
+- title: Afghan Municipalities Raise More Revenues, Deliver Better Services, Enhance
+    Stability
+  link: https://dai-global-developments.com/articles/afghan-municipalities-raise-more-revenues-deliver-better-services-enhance-stability
+- title: Afghan Cities Assisted by USAID Project Achieve Highest Ratings in Citizen
+    Survey
+  link: https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey
 layout: project
 ---
 
-SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, will aim to improve municipal financial management, [urban service delivery](http://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey/), and citizen consultation.
+SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, will aim to improve municipal financial management, [urban service delivery](https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey), and citizen consultation.
 
 <iframe src="https://player.vimeo.com/video/370977918" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
