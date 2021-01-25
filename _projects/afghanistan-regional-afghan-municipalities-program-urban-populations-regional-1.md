@@ -2,11 +2,10 @@
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command West (RAMP UP West)
 date: 2016-01-21 22:40:00 Z
-summary: 'Afghan municipalities have long suffered from underinvestment, limited support,
-  low revenues, and weak institutional capacity. As a result, services and infrastructure
-  in municipalities are minimal.
-
-'
+summary: 'The Regional Afghan Municipalities Program for Urban Populations, Regional
+  Command West project helped the Government of the Islamic Republic of Afghanistan
+  establish capable, legitimate governance at the municipal level in all four provincial
+  capitals under ISAF Regional Command West, Herat, Farah, Chagcharan, and Qala-e-Naw. '
 start: 2011
 end: 2014
 client: U.S. Agency for International Development
@@ -30,7 +29,7 @@ RAMP UP West used a "learning by doing," approach by helping municipalities impl
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Increase the capacity of GIRoA municipal officials.
 * Improve the delivery of municipal services to citizens.
@@ -39,13 +38,13 @@ RAMP UP West used a "learning by doing," approach by helping municipalities impl
 
 ###  Select Results
 
-* Assisted municipalities to implement 17 key infrastructure and service delivery projects previously identified by citizens as urgent needs, including construction of sidewalks, rehabilitation of roads, bridges and drainage canals, building of Boulevards, parking lots, garbage bins and public green spaces.
+* Assisted municipalities to implement 17 key infrastructure and service delivery projects previously identified by citizens as urgent needs, including the construction of sidewalks, rehabilitation of roads, bridges, and drainage canals, the building of Boulevards, parking lots, garbage bins, and public green spaces.
 * Held workshops where 11,466 citizens attended to learn about “Roles and Responsibilities of the Municipality and Citizens.”
 * Developed Municipal Management and Capacity Building Plans for each municipality and trained so far more than 200 municipal officials in municipal finance, public administration, revenue enhancement, business registration, public relations and outreach, construction management, and public works maintenance.
 * Supported municipal officials in all four partner municipalities to hold two budget hearings each that allowed for citizen input into the budget preparation process.
-* Supported three partner municipalities to hold Youth and the Municipality Seminars bringing together 145 young people together with their government to discuss city planning and touch on key issues such as cleanliness of the city and the role youth can play in keeping the city clean.
+* Supported three partner municipalities to hold Youth and the Municipality Seminars bringing together 145 young people together with their government to discuss city planning and touch on key issues such as the cleanliness of the city and the role youth can play in keeping the city clean.
 * Increased municipal revenues between 21 and 264 percent by identifying new resources and registering 6,790 properties and businesses.
-* Assisted in establishment of Municipal Advisory Boards to engage citizens in municipal decision-making processes. Engaged 5,200 citizens in the development of Service Delivery Improvement Plans (SDIPs) during nearly 50 sessions.
+* Assisted in the establishment of Municipal Advisory Boards to engage citizens in municipal decision-making processes. Engaged 5,200 citizens in the development of Service Delivery Improvement Plans during nearly 50 sessions.
 * Established multistakeholder Economic Development Steering Committees in each partner municipality to facilitate the inclusive development of Strategic Economic Development Plans.
 
 [1]: https://assetify-dai.com/projects/RampUpWest_0.jpg
