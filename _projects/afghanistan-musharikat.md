@@ -7,8 +7,8 @@ start: 2015
 end: 2021
 client: U.S. Agency for International Development
 solutions:
-- Include Primary and/or Secondary Solutions
-- 
+- Governance
+- Economic Growth
 - Gender and Social Inclusion
 - Transition and Stabilization Programming
 - Voice and Accountability
@@ -19,10 +19,14 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
+promos:
+- title: Women and Girls Advocate for Their Place in Afghanistan’s Social and Political
+    Mainstream
+  link: https://dai-global-developments.com/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream
 layout: project
 ---
 
-Musharikat supported the U.S. Agency for International Development (USAID) Afghanistan's investments in women's rights groups and activists. Musharikat—which means "partnership" or "participation" in Dari and Pashto—[works](https://dai-global-developments.com/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream) to build constituencies, strengthen advocacy, and increase awareness and support for women's equality and empowerment in all of Afghanistan's 34 provinces.
+Musharikat supports the U.S. Agency for International Development (USAID) Afghanistan's investments in women's rights groups and activists. Musharikat—which means "partnership" or "participation" in Dari and Pashto—[works](https://dai-global-developments.com/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream) to build constituencies, strengthen advocacy, and increase awareness and support for women's equality and empowerment in all of Afghanistan's 34 provinces.
 
 ### ![](https://assetify-dai.com/projects/Musharikat-web.jpg)
 
