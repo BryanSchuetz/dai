@@ -23,8 +23,8 @@ country:
 promos:
 - title: 'From Desert, Mountain, and Plain: Afghanistan’s First-Ever Nomad Gathering'
   link: https://dai-global-developments.com/articles/from-desert-mountain-and-plain-afghanistans-first-ever-nomad-gathering
-- title: 
-  link: 
+- title: Sexual Harassment Law Passes Afghan Houses
+  link: https://dai-global-developments.com/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval
 layout: project
 ---
 
