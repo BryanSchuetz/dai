@@ -15,6 +15,10 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
+promos:
+- title: 'Sustainable and Nutritious: Kitchen Gardens Reduce Malnutrition in Rwanda
+    and Afghanistan'
+  link: https://www.agrilinks.org/post/local-flavors-kitchen-gardens-reduce-malnutrition-local-ownership-makes-them-sustainable
 layout: project
 ---
 
