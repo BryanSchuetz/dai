@@ -20,6 +20,11 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
+promos:
+- title: 'From Desert, Mountain, and Plain: Afghanistan’s First-Ever Nomad Gathering'
+  link: https://dai-global-developments.com/articles/from-desert-mountain-and-plain-afghanistans-first-ever-nomad-gathering
+- title: 
+  link: 
 layout: project
 ---
 
@@ -38,7 +43,7 @@ The Assistance to Legislative Bodies of Afghanistan (ALBA) project prepared both
 * Sponsored 64 provincial oversight trips with commissions from both Houses.
 * Advised on 160 executive oversight actions (questionings, hearings, reports).
 * Placed 160 top graduates throughout parliament in the ALBA Fellowship Program.
-* Conducted 195 trainings to Secretariat and Ministry of Parliamentary Affairs staff, advisors and ALBA Fellows.
+* Conducted 195 training sessions for Secretariat and Ministry of Parliamentary Affairs staff, advisors, and ALBA Fellows.
 * Sponsored 34 public forums that allow parliamentarians and the public to interact.
 * Published 33 publications for Parliament.
 * Supported parliamentarians as they crafted and passed more than 50 laws, including the [Anti-Harassment Law](http://dai-global-developments.com/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval?utm_source=daidotcom) to protect women.
