@@ -1,28 +1,27 @@
 ---
 title: Democratic Republic of Congo—Capacity Building at Rawbank
-date: 2016-01-21 22:40:52.765000000 Z
-client: International Finance Corporation
+date: 2016-01-21 22:40:00 Z
+summary: Complementing other International Finance Corporation interventions to improve
+  the enabling environment for private sector growth and investment, the capacity
+  building delivered to Rawbank in the Democratic Republic of Congo fell under the
+  Africa MSME Finance Program, which seeks to significantly increase support to African
+  micro, small, and medium enterprises (MSME).
 start: 2009
 end: 2012
+client: International Finance Corporation
+solutions:
+- Economic Growth
+- Finance and Investment
 regions:
 - Sub-Saharan Africa
 country:
 - Democratic Republic of Congo
-solutions:
-- Finance and Investment
 layout: project
-summary: 'Complementing other International Finance Corporation interventions to improve
-  the enabling environment for private sector growth and investment, the capacity
-  building delivered to Rawbank in the Democratic Republic of Congo falls under the
-  Africa MSME Finance Program, which seeks to significantly increase support to African
-  micro, small, and medium enterprises (MSME).
-
-'
 ---
 
-Complementing other International Finance Corporation interventions to improve the enabling environment for private sector growth and investment, the capacity building delivered to Rawbank in the Democratic Republic of Congo falls under the Africa MSME Finance Program, which seeks to significantly increase support to African micro, small, and medium enterprises (MSME).The institution building involved designing new MSME products and services and strengthening the overall management and risk management practices of the bank.
+Complementing other International Finance Corporation interventions to improve the enabling environment for private sector growth and investment, the capacity building delivered to Rawbank in the Democratic Republic of Congo falls under the Africa MSME Finance Program, which seeks to significantly increase support to African micro, small, and medium enterprises (MSME). The institution building involved designing new MSME products and services and strengthening the overall management and risk management practices of the bank.
 
-###  Sample Activities
+### Sample Activities
 
 * Provide capacity building, training, and on-the-job personnel and management development.
 * Develop a Rawbank SME strategy.
