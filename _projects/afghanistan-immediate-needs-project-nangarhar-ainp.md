@@ -8,7 +8,7 @@ start: 2004
 end: 2005
 client: U.S. Agency for International Development
 solutions:
-- Include Primary and/or Secondary Solutions
+- Fragile States
 - Peace-Building and Political Transition
 - Stabilization
 regions:
@@ -22,7 +22,7 @@ In 2004, the U.S. Agency for International Development (USAID) launched a nation
 
 ![][2]
 
-###  Sample Activities
+### Sample Activities
 
 * Establish economic safety net for women-run households.
 * Provide employment in Nangarhar province that was not related to poppy production.
@@ -33,7 +33,7 @@ In 2004, the U.S. Agency for International Development (USAID) launched a nation
 * Built 1,000 structures including dikes, flood protection walls, road culverts, wash culverts, irrigation control structures, and canal intakes.
 * Employed 134,000 people from 70,000 families.
 * Rehabilitated 147.5 kilometers of roads.
-* Desilted 2,300 kilometers of small and medium-sized canals.
+* Desilted 2,300 kilometers of small- and medium-sized canals.
 * Invested $2.3 million in local communities using locally procured materials.
 
 [1]: /our-work/projects/afghanistan—alternative-development-programeastern-region-adpe

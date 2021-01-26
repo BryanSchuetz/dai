@@ -1,10 +1,10 @@
 ---
 title: El Salvador—Puentes para el Empleo (Bridges to Employment Project)
 date: 2016-01-21 22:40:00 Z
-summary: 'Through Puentes para el Empleo, DAI is supporting USAID in El Salvador to
-  link youth—including young women and vulnerable populations—to basic social resources
-  of work, knowledge, security, and social capital in order to foster inclusion through
-  employment opportunities. '
+summary: 'Through Puentes para el Empleo, DAI supported the U.S. Agency for International
+  Development in El Salvador to link young people—including women and vulnerable populations—to
+  basic social resources of work, knowledge, security, and social capital to foster
+  inclusion through employment opportunities. '
 start: 2015
 end: 2020
 client: U.S. Agency for International Development
@@ -33,24 +33,23 @@ Many young people in El Salvador's high-crime communities face impossible choice
 
 These champions face epidemic violence, challenges in institutional capacity, a complex political and policy environment, and disjointed coordination at local and national levels. The result is a system that struggles to offer all Salvadoran youth positive pathways to meaningful social inclusion offered by economic stability and rewarding work.
 
-Through Puentes para el Empleo, DAI supports USAID in El Salvador to link youth—including young women and vulnerable populations—to basic social resources of work, knowledge, security, and social capital in order to foster inclusion through employment opportunities. By identifying and building on existing knowledge and networks, Puentes para el Empleo will convene Salvadoran champions for youth inclusion, optimize their performance, link them to one another, and link youth to them in order to facilitate pathways toward employment.
+Through Puentes para el Empleo, DAI supported the U.S. Agency for International Development in El Salvador to link young people—including women and vulnerable populations—to basic social resources of work, knowledge, security, and social capital to foster inclusion through employment opportunities. By identifying and building on existing knowledge and networks, Puentes para el Empleo convened Salvadoran champions for youth inclusion, optimized their performance, linked them to one another, and linked youth to them to facilitate employment.
 
 <iframe src="https://player.vimeo.com/video/206426070" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
 * Improve the enabling environment for workforce development and employment.
-
 * Strengthen the system of training and employment services.
-
 * Enhance the workforce readiness of youth.
 
 ### Select Results
 
-* Trained 600 staff members of training centers and civil society organizations—including instructors, administrators, job placement specialists, psychologists, and social workers—to improve the quality and relevance of services provided to youth.
-
-* Introduced life skills curricula in 24 training centers.
-
+* Helped 4,708 vulnerable young people gain new or improved employment.   
+* Trained 11,930 vulnerable young people, equipping them with the technical, life skills, and on-the-job training necessary to meet the demands of employers.
+* Assisted 608 young people who had previously dropped out of school to complete their studies and graduate.
+* Built the capacity of 29 training centers, strengthened staff knowledge and capacity, improved institutional infrastructure, provided updated tools, equipment, and materials for learning, boosting data management capacity, and established new job placement services.
+* Formalized 107 alliances between training centers and companies.
+* Helped 56 individual firms take concrete steps to improve the inclusiveness of vulnerable youth and other marginalized populations in their corporate policies and practices.
+* Assisted seven municipalities to create or update municipal youth policies that strengthen the legal framework for the protection, participation, and development of youth in high-crime communities.
 * Created the Fair Programming Initiative to ensure the inclusion and fair treatment of vulnerable youth who provide software development services as part of the global IT value chain.
-
-* Provided technical assistance to companies to modify hiring, selection, and employment practices to better support youth in the workplace.

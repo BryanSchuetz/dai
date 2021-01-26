@@ -22,6 +22,13 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
+promos:
+- title: 'Generation Rising: Young, Educated Afghan Women Enter the Workforce'
+  link: https://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce
+- title: In Afghanistan, Women Step Up to Fill Need for Frontline Healthcare Workers
+  link: https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers
+- title: "'There is No Need for Women to Work': Afghan TV Show Takes on Patriarchy"
+  link: https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy
 layout: project
 ---
 

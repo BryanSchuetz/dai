@@ -23,7 +23,7 @@ Africa Lead was measured by its training, institutional strengthening, and leade
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Train African food security leaders on the skills and knowledge needed to scale-up activities in agriculture and food security. Courses motivate participants to take the lead in their own institutions, countries, and regions.
 * Assess needs by understanding the roles people and training institutions play in meeting FTF goals, and tie those roles to the capacity building effort.
@@ -31,12 +31,12 @@ Africa Lead was measured by its training, institutional strengthening, and leade
 * Broker business-to-business exchanges that place African agricultural professionals in regional and international company units for hands-on experiential training.
 * Create an interactive, easily updated training database that serves as a matchmaking tool that leads institutions to develop appropriate training programs.
 
-###  Select Results
+### Select Results
 
 * Trained more than 1,600 CAADP champions from 29 countries in leadership, change management, and strategic planning. Increased training at more than 600 agricultural institutions.
 * Facilitated attendance of 553 members of nongovernmental organizations and the private sector to CAADP workshops. Produced 40 institutional capacity assessments.
 * Created database featuring 650 short-course offerings relevant to African agriculture professionals.
 * Brokered placements for eight agribusiness specialists—from Ethiopia, Liberia, Kenya, Rwanda, Uganda, and Zambia—with Hershey Company USA, Johannesburg Stock Exchange/South Africa Futures Exchange, and Zamindara Farm Solutions, India.
-* Provided online support to the Champions for Change in Food Security Facebook pages by posting agriculture and food security related articles, video clips, and links to pertinent websites.
+* Provided online support to the Champions for Change in Food Security Facebook pages by posting agriculture and food security-related articles, video clips, and links to pertinent websites.
 
 [1]: https://assetify-dai.com/projects/AfricaLEADprojectpic.jpg

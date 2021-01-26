@@ -2,11 +2,11 @@
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command East (RAMP UP East)
 date: 2016-01-21 22:40:00 Z
-summary: 'Afghan municipalities have long suffered from underinvestment, limited support,
-  low revenues, and weak institutional capacity. As a result, services and infrastructure
-  in municipalities are minimal.
-
-'
+summary: RAMP UP East helped municipalities implement projects through which local
+  officials improved their capacity to deliver services and build satisfaction, trust,
+  and support among citizens. All programming put municipal officials in front and
+  demonstrably in charge as they directed participatory planning processes and oversee
+  implementation.
 start: 2010
 end: 2014
 client: U.S. Agency for International Development
@@ -30,7 +30,7 @@ RAMP UP East helped municipalities implement projects through which local offici
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Build capacity of Government of the Islamic Republic of Afghanistan municipal officials.
 * Improve municipal service delivery.
@@ -38,13 +38,13 @@ RAMP UP East helped municipalities implement projects through which local offici
 
 ###  Select Results
 
-* Implemented 55 smallscale municipal infrastructure and 21 service delivery projects that addressed citizen priorities and served as learning opportunities for municipal officials in project planning.
+* Implemented 55 small-scale municipal infrastructure and 21 service delivery projects that addressed citizen priorities and served as learning opportunities for municipal officials in project planning.
 * Created 169,315 man-days of local labor by implementing municipal development projects.
 * Supported 13 municipalities in developing functional accounting systems.
 * Launched performance-oriented budgeting in 10 RAMP UP East municipalities.
 * Developed economic profiles and Local Economic Development Plans for 13 municipalities.
 * Initiated three public-private partnerships to enhance municipal revenue.
-* Registered 33,053 businesses in 13 municipalities and 19,002 properties in Jalalabad, Charikar, Ghazni, Khost and Mahmud Raqi.
+* Registered 33,053 businesses in 13 municipalities and 19,002 properties in Jalalabad, Charikar, Ghazni, Khost, and Mahmud Raqi.
 * Offered anticorruption training to 300 participants (212 municipal officials and 88 civil society members.
 * Provided training called “Public Participation in Local Governance” to 3,765 citizens (1,917 females and 1,848 males).
 * Facilitated a professional fellowship program for 52 male and female municipal offices or local nongovernmental organizations.
