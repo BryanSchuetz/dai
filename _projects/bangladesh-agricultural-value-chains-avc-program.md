@@ -21,6 +21,14 @@ promos:
   link: https://dai-global-developments.com/articles/all-systems-go-usaids-private-sector-led-approach-pays-dividends-in-bangladesh
 - title: "**Case Study:** _Adaptive Management to Support Market Systems Development_"
   link: https://www.microlinks.org/sites/default/files/resource/files/AdaptiveManagementCaseStudy090617low_0.pdf
+- title: Market Systems Development Boosts Farming, Nutrition in Bangladesh’s Southern
+    Delta
+  link: https://dai-global-developments.com/articles/market-systems-development-boosts-farming-nutrition-in-bangladeshs-southern-delta?utm_source=daidotcom
+- title: Jobs in Agriculture? Young Bangladeshis Have Options
+  link: https://www.agrilinks.org/post/jobs-agriculture-young-bangladeshis-have-options
+- title: Integrating CLA into Organizational Structure, Partner Management, and Project
+    Culture
+  link: https://usaidlearninglab.org/library/integrating-cla-organizational-structure-partner-management-and-project-culture
 layout: project
 ---
 
