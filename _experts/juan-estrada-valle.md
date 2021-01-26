@@ -10,6 +10,7 @@ solutions:
 - Economic Growth
 - Stabilization
 - Trade
+- Supply Chain
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa

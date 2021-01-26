@@ -12,6 +12,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Digital Strategy
 - Data for Decisions
+- Supply Chain
 layout: expert
 ---
 

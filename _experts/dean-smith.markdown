@@ -9,6 +9,7 @@ job-title: Senior Global Sector Specialist, Private Sector Development and Inves
 image: "/uploads/dean%20smith.jpg"
 solutions:
 - Economic Growth
+- Supply Chain
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa

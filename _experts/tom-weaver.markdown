@@ -9,6 +9,7 @@ image: "/uploads/Weaver,T_headshot%20copy.png"
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
+- Supply Chain
 regions:
 - Asia and the Pacific
 ---

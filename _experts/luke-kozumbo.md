@@ -12,6 +12,7 @@ solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
 - Social Strategy
+- Supply Chain
 regions:
 - Sub-Saharan Africa
 layout: expert

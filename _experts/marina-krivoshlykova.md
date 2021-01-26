@@ -14,6 +14,7 @@ regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
+- Supply Chain
 articles:
 - name: Market Trends and Resilience, _Developing Alternatives_
   article_file: http://dai-global-developments.com/articles/market-trends-and-resilience.html?utm_source=daidotcom

@@ -970,6 +970,9 @@ tbody tr:nth-child(odd) th {
 .hero-wrap.covid{
   background-image: url(/uploads/covid-background-header.jpg);
 }
+.hero-wrap.supply-chain{
+  background-image: url(/uploads/supply-hero.jpg);
+}
 .hero-wrap.working-dai{
   background-image: url(/assets/images/node/people-header.jpg);
 }
@@ -1609,7 +1612,7 @@ iframe.last-month{
 }
 
 // Covid
-.covid-news-wrapper{
+.covid-news-wrapper,.supply-chain--newswrapper{
   display: none;
   @include width(4);
   float: right;

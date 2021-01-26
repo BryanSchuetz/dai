@@ -192,6 +192,23 @@
         {%- endfor -%}</p>
   </div>
 </div>
+{%- elsif page.hero and page.url contains "/global-health-supply-chain" -%}
+  <div class="hero-wrap supply-chain">
+    <div class="node-hero">
+      <h1 class="hero-title"><a class="hero-title--link" href="/global-health-supply-chain">
+          <svg class="supply-chain-badge badge" viewBox="0 0 400 401" preserveAspectRatio="xMinYMax
+      meet">
+            <use xlink:href="#gh-supply-chain"></use>
+          </svg> {{page.title}}
+        </a></h1>
+      <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
+      <p class="section-nav">{%- for nav in site.data.nav-supply-chain -%}
+        <a class="covid-nav section-nav--link {% if page.url contains nav.parent%}active {% endif %}{% unless forloop.last %}last {% endunless %}"
+          href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %} / {% endunless %}
+        {%- endfor -%}
+      </p>
+    </div>
+  </div>
 {% elsif page.hero and page.url contains "news" %}
   <div class="hero-wrap news">
     <div class="node-hero">

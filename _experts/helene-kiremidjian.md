@@ -10,8 +10,7 @@ image: https://assetify-dai.com/experts/Helene%20Kiremidjian_Photo_inner.jpg
 solutions:
 - Energy
 - Economic Growth
-- 
-- 
+- Supply Chain 
 regions:
 - Latin America and the Caribbean
 - Middle East and North Africa

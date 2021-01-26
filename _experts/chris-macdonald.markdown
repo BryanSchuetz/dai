@@ -11,6 +11,7 @@ image: "/uploads/Chris_MacDonald_Photo.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
+- Supply Chain
 regions:
 - Asia and the Pacific
 - Middle East and North Africa

@@ -9,6 +9,7 @@ summary: 'Glen Lockwood is a Director for DAI''s Sustainable Business Group (SBG
 job-title: Director
 solutions:
 - Sustainable Business
+- Supply Chain
 regions:
 - Worldwide
 ---

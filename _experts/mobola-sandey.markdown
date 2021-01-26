@@ -9,6 +9,7 @@ job-title: Principal Specialist
 image: "/uploads/cdai-7.jpg"
 solutions:
 - Sustainable Business
+- Supply Chain
 regions:
 - Worldwide
 ---

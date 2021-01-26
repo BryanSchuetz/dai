@@ -11,6 +11,7 @@ solutions:
 - Local Content and Supply Chain Management
 - Social Strategy
 - Energy
+- Supply Chain
 regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean

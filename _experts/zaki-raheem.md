@@ -11,6 +11,7 @@ solutions:
 - Sustainable Business
 - Economic Growth
 - Market Systems and Value Chain
+- Supply Chain
 regions:
 - Sub-Saharan Africa
 articles:

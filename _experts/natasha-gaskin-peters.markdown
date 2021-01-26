@@ -8,7 +8,7 @@ job-title: Deputy Director, Centre for Local Business Development, Guyana
 image: "/uploads/natasha_pic%20(002).jpg"
 solutions:
 - Sustainable Business
-- 
+- Supply Chain
 regions:
 - Latin America and the Caribbean
 ---

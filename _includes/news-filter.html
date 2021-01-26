@@ -64,6 +64,7 @@ function concatValues( obj ) {
     }
 
 }
+//If you are filtering for a string that doesn't have a button...make it and click it  
   var filterFromQuerystring = getParameterByName('filter');
   $('button[data-filter=".' + filterFromQuerystring  + '"]').click();
 // END URL data-filtering stuff
