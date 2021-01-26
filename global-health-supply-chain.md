@@ -30,7 +30,7 @@ DAI’s comprehensive approach to supply chain management is premised on working
 * Warehousing and Inventory Management
 * Distribution and Transportation, including Last Mile Delivery
 * Data Management
-* Human Resources
+* Workforce Development and Institutional Capacity Building
 * Pharmaceutical Management
 * Financing 
 * Private Sector Outsourcing
@@ -72,7 +72,7 @@ COVID-related supply chain disruptions have laid bare the need for more agility,
 
 DAI also facilitates private sector engagement on national supply chain issues. We draw on our long-established relationship with the private sector to raise resources, support dialogue with government, and resolve transportation, distribution, and storage challenges. 
 
-For example, on [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project), we oversee the Italy Economic Support Fund for COVID-19, which provides catalytic funding to leverage private investment in support of Italian manufacturers and medical suppliers. This funding helped increase the production and distribution of personal protective equipment, and address market access and production bottlenecks. We are also assisting Italian factories and supply chains in adapting to the needs of the country’s healthcare system, including healthcare workers and patients.
+For example, on [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project), we are supporting Italy’s COVID-19 response by providing catalytic funding and technical assistance to leverage private investment for Italian manufacturers and medical suppliers. This has helped increase the production and distribution of personal protective equipment, and address market access and production bottlenecks. We are also assisting Italian factories and supply chains in adapting to the needs of the country’s healthcare system.
 
 ![Truck Containers](/uploads/local-content.png)
 
@@ -81,6 +81,6 @@ For example, on [INVEST](https://www.dai.com/our-work/projects/worldwide-the-inv
 
 DAI works in fragile and conflict-affected countries, including Afghanistan, Burma, Haiti, Liberia, and Somalia, where instability adds to the difficulty of maintaining efficient supply chains. We rely on our strong local relationships and continually updated political and economic analyses to provide rapid, flexible support that responds to changing security needs, host-country government imperatives, donor priorities, and operational restrictions. 
 
-For example, our [Afghanistan Value Chains—High-Value Crops](https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops) project is helping local businesses overcome COVID-induced border restrictions affecting agricultural supply chains. We worked with USAID to make strategic investments to incentivize exports through new routes and transport means, resulting in 92 shipments to the United States, Australia, Canada, Germany, Saudi Arabia, and Japan worth $4.5 million (a 58:1 return on investment).
+For example, our [Afghanistan Value Chains—High-Value Crops](https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops) project is helping local businesses overcome COVID-induced border restrictions affecting agricultural supply chains. We worked with USAID to make strategic investments to incentivize exports through new routes and transport means, resulting in 92 shipments to the United States, Australia, Canada, Germany, Saudi Arabia, and Japan worth $7.3 million (a 58:1 return on investment).
 
 In Haiti—a country with a history of devastating earthquakes, hurricanes, and contagious disease, including the 2010 cholera outbreak—our [Haiti Strategic Health Information System](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) project is contributing to the development of a nationally harmonized Logistics Management and Information System to track supply chain data on essential drugs and laboratory inputs, including their purchasing, storage, and distribution. The system will help make medicines available and accessible to Haiti’s entire population.
