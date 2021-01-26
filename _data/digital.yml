@@ -1,236 +1,240 @@
 
-- title: "Success to Sustainability: Engaging Horticulturalists in Uzbekistan with Digital Tools"
+- title: "Consent to Data Processing in Humanitarian and Development Contexts, Part 2: Beyond Consent"
   pub: "Digital"
-  date: 2020-08-13
-  link: "https://dai-global-digital.com/success-to-sustainability-the-use-of-digital-tools-to-engage-horticulturalists-in-uzbekistan.html?utm_source=daidotcom"
-  summary: "When DAI staff and partners ask us for examples of how our projects have successfully used digital tools, we inevitably describe the U.S. Agency for International Development-funded Uzbekistan Agricultural Value Chains (AVC) activity as one of the best examples. AVC strengthens agricultural value chains by engaging horticultural producers, processors, input suppliers, and exporters. With that goal in mind, it did not take long for the project to realize they could engage people through digital tools already widely used throughout the country to reach their target audience. They were right. A key part of this approach was understanding their audience and their social media habits—in short, knowing their users. As the project now looks to build on its success in using social media as a tool for development, it is creating a sustainability model based on insights from its target audience: horticulturalists in Uzbekistan."
+  date: 2021-01-21
+  link: "https://dai-global-digital.com/beyond-consent-why-seeking-consent-for-data-processing-can-be-problematic-in-humanitarian-and-development-contexts.html?utm_source=daidotcom"
+  summary: "This blog is part of a series on the use of management information systems (MIS) in humanitarian crises. In our last piece, we talked about how informed consent can be difficult in humanitarian settings, but that is not an excuse for failing to protect the privacy of beneficiaries. In this blog, we focus on what to do where consent is not possible."
   tags:
     - digital acceleration 
-    - Digital Insights 
-    - Social Media 
-    - Agriculture 
+    - consent 
+    - Privacy 
+    - humanitarian response 
 
-- title: "How the COVID-19 Pandemic is Accentuating the Digital Divide in the United States"
+- title: "Racist Hardware and What to Do About It"
   pub: "Digital"
-  date: 2020-08-06
-  link: "https://dai-global-digital.com/covid-19.html?utm_source=daidotcom"
-  summary: "For those of us who work in digital development internationally, the pervasiveness of the global digital divide is constantly top of mind. The majority of our work requires us to understand the digital ecosystem in which we are operating to reach different segments of the population in a specific country. At home in the United States, COVID-19 and the push for virtual schooling and telemedicine has laid bare, for many Americans, how significant and challenging the digital divide is within the United States."
+  date: 2021-01-14
+  link: "https://dai-global-digital.com/racist-hardware-and-what-to-do-about-it.html?utm_source=daidotcom"
+  summary: "In an astonishing letter to the editor published in the December 17, 2020, edition of the New England Journal of Medicine (NEJM), a group of five doctors from the University of Michigan Medical School presented findings from their study on adult inpatients receiving supplemental oxygen at the University’s hospital. They found that the variance between blood oxygen levels measured through a pulse oximeter—an optical device that estimates blood oxygen by analyzing the light absorbed in an extremity, usually a finger—and more rigorous (and invasive) analyses of arterial blood gas differed substantially depending on whether the patient was Black or white. Moreover, Black patients tended to get more optimistic readings from the oximeter. Such inaccuracies could quite possibly lead to worse clinical outcomes and could be particularly detrimental when treating COVID-19 as careful monitoring of patients’ blood oxygen levels can trigger lifesaving medical care.
+
+Against the backdrop of the ongoing global conversation about racism and bias, one might ask whether the pulse oximeters in this study are racist. Can a piece of hardware even be racist?"
+  tags:
+    - digital acceleration 
+    - Hardware 
+    - Makerspace 
+
+- title: "Looking Ahead: What We’re Thinking About in 2021"
+  pub: "Digital"
+  date: 2021-01-07
+  link: "https://dai-global-digital.com/looking-ahead-what-were-thinking-about-in-2021.html?utm_source=daidotcom"
+  summary: "As we (happily) say farewell to 2020, we at DAI’s Center for Digital Acceleration (CDA) feel stronger and more optimistic than ever before. If 2020 taught us anything, it is that adaptation is paramount. The events of the last year have changed almost every aspect of how we think, work, and live, and we would be naïve to think that our digital toolkit won’t change right along with us. Therefore, heading into 2021, we have high ambitions to continue to analyze and elevate inclusive, ethical, human-focused digital products and services that can help us rise to the occasion and address some of the deeply complex issues that 2020 unveiled. Below are seven areas we look forward to exploring further throughout the year—so stay tuned and check back often."
+  tags:
+    - digital acceleration 
+    - Data 
+    - Machine Learning 
+    - Think Piece 
+    - Cybersecurity 
+    - Disinformation 
+
+- title: "Digital@DAI 2020 Year in Review"
+  pub: "Digital"
+  date: 2020-12-30
+  link: "https://dai-global-digital.com/digital-at-dai-2020-year-in-review.html?utm_source=daidotcom"
+  summary: "2020 has been a year like no other. While those of us in the development sector have long anticipated the increased frequency of once-in-a-lifetime events—as our social, environmental, political, and economic systems grow increasingly strained and interconnected—none of us expected these “problems of tomorrow” to arise as quickly, globally, and devastatingly as they did."
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Digital Inclusion 
+    - Cybersecurity 
+    - Innovation 
+
+- title: "Addressing Concurrent Crises with Digital Tools: An ICTforAg Recap"
+  pub: "Digital"
+  date: 2020-12-23
+  link: "https://dai-global-digital.com/addressing-concurrent-crises-with-digital-tools-an-ictforag-recap.html?utm_source=daidotcom"
+  summary: "Reflecting back on 2020, it is still difficult for me to comprehend the many challenges the world faced this year and their implications for agriculture and resilience. From the locust outbreak in East Africa, to wildfires and extreme weather events, and of course, the COVID-19 pandemic, this year has made it clear that in a world increasingly shaped by unpredictability, the digital development community can no longer afford to address one specific challenge at a time. This year’s ICTforAg conference invited its speakers and participants to reflect on this reality and discover how digital tools and technologies can help us respond to concurrent—and increasingly frequent—crises worldwide."
   tags:
     - digital acceleration 
     - Digital Inclusion 
-    - COVID-19 
-
-- title: "Transforming In-Person Learning into Digital Collaboration"
-  pub: "Digital"
-  date: 2020-07-30
-  link: "https://dai-global-digital.com/transforming-in-person-learning-into-digital.html?utm_source=daidotcom"
-  summary: "COVID-19 pushed people into their homes and brought to light the different options that exist to transform the way we learn from in-person settings to online classrooms. Although online learning is not new, the adoption of these learning platforms by the general population has been slow in comparison to the development of new technology-enabled education solutions."
-  tags:
-    - digital acceleration 
-    - COVID-19 
-    - Digital Transformation 
+    - Resilience 
     - Digital Collaboration 
 
-- title: "What Are Algorithms and How Are They Biased?"
+- title: "A Vision for Smart Connectivity in the Three Seas Region"
   pub: "Digital"
-  date: 2020-07-23
-  link: "https://dai-global-digital.com/algorithms-in-development.html?utm_source=daidotcom"
-  summary: "In the age of Big Tech and social media, the term algorithm gets thrown around a lot to describe the unseen mechanism that determines what people see on social media or the suggestions that they receive on Netflix. But what exactly is an algorithm? And can an algorithm be biased?"
+  date: 2020-12-17
+  link: "https://dai-global-digital.com/a-vision-for-smart-connectivity-in-the-three-seas-region.html?utm_source=daidotcom"
+  summary: "During the pandemic, we have been struck by one of the few upsides of this new way of working—the ability to bring together experts and thinkers virtually in ways that contribute to a more global conversation. This was the case recently when DAI spoke at the Three Seas Initiative with leaders and experts from across Europe and beyond about the concept of ‘Smart Connectivity.’"
   tags:
     - digital acceleration 
-    - Algorithmic Bias 
-    - Digital Health 
-    - Digital Inclusion 
+    - Environment & Energy 
+    - Innovation 
+    - Events 
 
-- title: "Apply Now: Host USAID’s first-ever Digital Development Online Training"
+- title: "Apply Now: Support USAID’s DRG Center in Addressing Electoral Cybersecurity Threats"
   pub: "Digital"
-  date: 2020-07-21
-  link: "https://dai-global-digital.com/apply-now-host-usaids-first-ever-digital-development-online-training.html?utm_source=daidotcom"
-  summary: "Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD team to roll out and implement USAID’s Agency-wide Digital Strategy, which was released in April 2020.
+  date: 2020-12-11
+  link: "https://dai-global-digital.com/apply-now-support-usaids-drg-center-in-addressing-electoral-cybersecurity-threats.html?utm_source=daidotcom"
+  summary: "The increasingly widespread use of technology in the electoral process in countries around the world creates significant cybersecurity risks, ranging from simple hacks to sophisticated exploitation of hardware or software vulnerabilities. Governments, election management bodies (EMBs), candidates, and parties are often ill-equipped to prepare for and respond to cybersecurity attacks and key decision makers may not understand the gravity of the risks.
 
-As part of the Digital Strategy, the Digital Skills Initiative is developing training sessions and resources geared towards USAID staff. These resources will support staff to increase their understanding of–and ability to use–digital tools and skills."
-  tags:
-    - digital acceleration 
-    - Digital Collaboration 
+USAID’s Democracy, Human Rights, and Governance (DRG) Center views electoral processes as pivotal to a country’s stability and aims to strengthen technical knowledge on addressing electoral cybersecurity threats.
 
-- title: "Digital Innovator Series: Talking Equitable Access to Healthcare During COVID-19 Pandemic with Vanderbilt Pediatrics"
-  pub: "Digital"
-  date: 2020-07-16
-  link: "https://dai-global-digital.com/digital-innovator-series-talking-equitable-access-to-healthcare-during-covid-19-with-vanderbilt-pediatrics.html?utm_source=daidotcom"
-  summary: "We recently spoke with Shari Barkin, MD, MSHS, William K. Warren Foundation Chair in Medicine; Marian Wright Edelman Professor of Pediatrics; Director, Division of General Pediatrics, Vanderbilt University Medical Center, about how COVID-19 highlights issues around health equity and acts as a forcing mechanism for technology-driven innovation. This is an excerpt from that interview."
-  tags:
-    - digital acceleration 
-    - COVID-19 
-    - Global Health 
-    - Digital Innovator 
-
-- title: "Staying Safe Online—Cyber Hygiene Skills Strengthen Resilience for Small Business, Even In Times of Crisis"
-  pub: "Digital"
-  date: 2020-07-14
-  link: "https://dai-global-digital.com/staying-safe-online.html?utm_source=daidotcom"
-  summary: "As COVID-19 drives more people online for work, entertainment, and even connection to friends and family, digital and data security issues are increasingly important across the United States and around the world. However, citizen-focused digital and data security discussions are still in early stages in some countries, especially in Southeast Asia, and my home base, Cambodia. So—who really gets left behind? It is often the citizens and small companies that rely on digital tools, but do not all have strong cyber skills to safely do business online."
+Today, Digital Frontiers releases a request for proposals (RFP) to experienced organizations, firms, or individuals to develop and convene expert briefings and presentations for USAID DRG staff on cybersecurity in elections, including risks, threats, and mitigation strategies."
   tags:
     - digital acceleration 
     - Cybersecurity 
-    - Digital Inclusion 
+    - Governance 
 
-- title: "Lessons from a School Teacher: 5 Tips for Effective Distance Learning"
+- title: "Consent to Data Processing in Humanitarian and Development Contexts, Part 1: Who, What, When, and How"
   pub: "Digital"
-  date: 2020-07-09
-  link: "https://dai-global-digital.com/distance-learning.html?utm_source=daidotcom"
-  summary: "Since the world was catapulted into a socially distant new reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training for staff, partners, and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
+  date: 2020-12-10
+  link: "https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html?utm_source=daidotcom"
+  summary: "In late 2019 and early 2020, DAI and our partner, Caribou Digital, worked closely with the U.K. Foreign, Commonwealth &amp; Development Office to analyse identification and registration systems in protracted and recurrent crises. For those interested in reading more about the research, the report can be found here.
 
-As we work to scale support to meet this rising demand, who better to consult on the topic than school teachers? Teachers and students around the world were thrown into distance teaching with little notice and wildly varied levels of preparation. This disruption sparked newfound—but long deserved—teacher accolades from parents suddenly playing an intimate role in their child’s daily learning. Surely anyone with the ability to command a 6-year old’s attention from 30 miles away is worthy of our discipleship. So how did they do it and what did they learn? I spoke with elementary, middle, and high school teachers to glean their insights into engaging learners at a distance. While they had much to share on the matter, what I’ve highlighted below are those takeaways most applicable to the field of international development."
+In this post—the first of a two-part series—we dig into some of the issues around consent and other legal bases for data processing in humanitarian and development contexts identified in our research. For other blogs about our research, see our comments on interoperability and the risks and benefits of management information systems at the humanitarian-social protection nexus."
+  tags:
+    - digital acceleration 
+    - Consent 
+    - privacy 
+    - Interoperability 
+
+- title: "Reflections on Machine Learning for Gender Inclusion in Afghanistan"
+  pub: "Digital"
+  date: 2020-12-03
+  link: "https://dai-global-digital.com/reflections-on-machine-learning-for-gender-inclusion-in-afghanistan.html?utm_source=daidotcom"
+  summary: "This past summer, DAI’s Promote: Women in the Economy (WIE) project came to an end. Funded by the U.S. Agency for International Development, the project bolstered women’s inclusion in Afghanistan’s economy through technical assistance, access to finance, and business training. In 2016, our team wrote about the possibility of leveraging machine learning to “automate the alignment of unstructured CVs and resumes with available jobs, thereby facilitating the Afghan women’s access to employment opportunities.” Four years later, this use case for machine learning is one of our favorite examples. We reflect on five lessons from this initiative, and how we can translate its success into future endeavors."
+  tags:
+    - digital acceleration 
+    - Machine Learning 
+    - Afghanistan 
+
+- title: "Considerations for a Successful ICT Strategy in Local Context: Lessons from Timor-Leste"
+  pub: "Digital"
+  date: 2020-11-27
+  link: "https://dai-global-digital.com/considerations-for-a-successful-ict-strategy-in-local-context-lessons-from-timor-leste.html?utm_source=daidotcom"
+  summary: "Those with access to technology in various parts of the world use it in similar ways. In places as distant as Chile, Vietnam, and Norway, people use e-commerce platforms for buying and selling goods, emailing each other, and e-calendars for business schedules, and social media platforms for sharing news, communicating, and organizing. Despite these crosscutting uses of technology and often the ubiquity of the platforms themselves (Facebook is the world’s most popular social media site, with 2.6 billion monthly active users), the context in which these technologies exist matter greatly for how that technology is governed and understood.
+
+Technology strategies and policies must be tailored to the local context so that a country can successfully promote the use of technology for growth and prosperity while governing its use to protect citizens and national security. This approach aligns closely with the first two Principles for Digital Development, which are 1) Design with the user—using conversation, observation, and co-creation to create a product or initiative that is truly beneficial and appropriate and 2) Understand the existing ecosystem—considering the particular structures and needs that exist in each country, region, and community."
+  tags:
+    - digital acceleration 
+    - ICT 
+    - Digital Principles 
+    - Asia and the Pacific 
+
+- title: "Eliminating Cyber Violence Against Women and Girls"
+  pub: "Digital"
+  date: 2020-11-25
+  link: "https://dai-global-digital.com/eliminating-cyber-violence-against-women-and-girls.html?utm_source=daidotcom"
+  summary: "Today is the United Nations’ International Day for the Elimination of Violence Against Women. Like every year on this day–and any other official “Day” that amplifies the inequalities between women and men–I’m heaving a big sigh… because we’re still here. We still require these Days. We continue to need reminding that women are still fighting for equality all over the world.
+
+These thoughts can get me down, but today, I’m pulling up my positive socks. Observing these Days provides an opportunity to celebrate the progress societies have made in closing gender gaps and can galvanise us to acknowledge the work still left to do. If days like today inspire us to take positive action to shape a better world for women and men, then that is all to the good."
+  tags:
+    - digital acceleration 
+    - Digital Gender Divide 
+    - Digital Privacy 
+
+- title: "Respond Now: USAID Seeks ICT Regulatory Policy Technical Assistance Services in Latin America, the Caribbean, Africa, and the Indo-Pacific"
+  pub: "Digital"
+  date: 2020-11-20
+  link: "https://dai-global-digital.com/respond-now-usaid-seeks-ict-regulatory-policy-technical-assistance-services-in-latin-america-the-caribbean-africa-and-the-indo-pacific.html?utm_source=daidotcom"
+  summary: "The Digital Frontiers project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development’s (USAID) Promoting American Approaches to ICT Regulatory Policy (ProICT) activity."
+  tags:
+    - digital acceleration 
+    - Governance 
+    - ICT 
+    - ICT Policy 
+
+- title: "Increasing Adoption and Awareness of Fintech Solutions in Mexico: Q&A with Roberto Velez and Lorena Segura"
+  pub: "Digital"
+  date: 2020-11-19
+  link: "https://dai-global-digital.com/increasing-adoption-and-awareness-of-fintech-solutions-in-mexico-interview-with-roberto-velez-and-lorena-segura.html?utm_source=daidotcom"
+  summary: "Launched in 2019, the U.K. Foreign, Commonwealth &amp; Development Office’s (FCDO) Prosperity Fund Mexico Financial Services Programme aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and market entrants. Despite challenges due to COVID-19, this project has been able to hit the ground running with Caravana FinTech, an initiative that seeks to increase adoption and awareness of financial technology (FinTech) solutions that benefit micro, small, and medium enterprises (MSMEs). I recently spoke with Roberto Velez, FinTech Adoption and Socialization Lead, and Lorena Segura, FinTech Socialization Leader, about how the programme is supporting MSMEs to expand their reach and encourage the use of FinTech solutions."
+  tags:
+    - digital acceleration 
+    - Digital Transformation 
+    - Digital Financial Services 
+    - Economic Growth 
+
+- title: "Digital Innovator Series: Talking About Life After an Accelerator with Muuve’s Phanith Phan"
+  pub: "Digital"
+  date: 2020-11-18
+  link: "https://dai-global-digital.com/digital-innovator-series.html?utm_source=daidotcom"
+  summary: "We recently spoke with Phanith Phan, the CEO of Muuve, an innovative delivery services startup in Cambodia. Muuve was one of the startups involved in the 2019 Smartscale by Seedstars accelerator, co-funded by the U.S. Agency for International Development-funded Development Innovations project and telecommunications company Smart Axiata. This accelerator model was investor-led and focused on connecting scalable tech startups to mentors, investment advisory services, and targeted technical assistance. Muuve is one of Cambodia’s success stories in a growing digital ecosystem—even through the COVID-19 pandemic. The young team also secured investment from Cambodian venture fund, OOCTANE, a few months after finishing the accelerator in 2019. This is an excerpt from that interview."
+  tags:
+    - digital acceleration 
+    - Innovation 
+    - Digital Ecosystems 
+    - Digital Innovator Series 
+
+- title: "Strengthening Cyber Resilience as a Cornerstone of Self-Determination"
+  pub: "Digital"
+  date: 2020-11-12
+  link: "https://dai-global-digital.com/strengthening-cyber-resilience-as-a-cornerstone-of-self-determination.html?utm_source=daidotcom"
+  summary: "Cybersecurity and cyber resilience are becoming increasingly crucial considerations for countries seeking to assert sovereignty and self-determination. This desire is particularly acute in regions such as Eastern Europe, South Caucasus, and the Western Balkans, all of which face increasingly complex cyberattacks emanating from nefarious individual and nation-state actors. As these countries navigate digitalization and the interconnectedness of their critical infrastructure (CI) operations, including financial networks and government services, they must strengthen their capacity to address vulnerabilities caused by new technological developments and an increasingly hostile international security environment. Domestic leadership, regional cohesion, and international support are pivotal in strengthening cybersecurity capacity, legislative and strategic frameworks, and institutions in these regions."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+    - Critical Infrastructure 
+
+- title: "Top 3 Considerations for eLearning Design"
+  pub: "Digital"
+  date: 2020-11-10
+  link: "https://dai-global-digital.com/top-three-considerations-for-elearning-design.html?utm_source=daidotcom"
+  summary: "COVID-19 has caused major disruptions for people from all walks of life. It has dramatically changed the nature of activities we used to do in person, especially those aiming to bring people together to learn, exchange knowledge, and strengthen relationships. As we grapple with the uncertainty of how in-person education and training will continue as the pandemic evolves, many types of learning experiences have preemptively moved online, especially those for adults.
+
+At the Center for Digital Acceleration, we see significant opportunities for creative digital collaboration that would have been impossible just a year ago. Electronic learning has emerged as a particularly interesting category for development solutions. Projects with goals that span the thematic spectrum—from strengthening agricultural supply chains to supporting rule of law to stemming climate change—are considering how to implement digital curricula and thinking carefully about what approaches could work best for their myriad stakeholder groups."
   tags:
     - digital acceleration 
     - Education 
-    - Digital Collaboration 
+    - elearning 
 
-- title: "What are User Perceptions of Internet Trust and Privacy in India and Ghana?"
+- title: "Western Nations Seek to Bulk Up Critical Infrastructure, Digitalization, and Cybersecurity in the Western Balkans"
   pub: "Digital"
-  date: 2020-07-06
-  link: "https://dai-global-digital.com/what-are-user-perceptions-of-internet-trust-and-privacy-in-india-and-ghana.html?utm_source=daidotcom"
-  summary: "It’s been a hard couple of years for the internet. Between election interference via social media platforms, disinformation going viral and facilitating genocides, and most recently, the rampant spread of a conspiracy theories that 5G internet broadband caused the COVID-19 pandemic, optimism in the internet’s force for good seems shaky at best.
-
-I was scrolling Twitter recently and saw a tweet that ironically, mournfully noted, “Remember when this was the platform that was going to save democracy?” I do indeed remember. Simpler times, my friends.
-
-Internet platforms such as Google and Facebook have invested immense resources in countering the more nefarious consequences of internet-enabled bad actors, including significant investment in machine-learning capabilities to uproot disinformation and box out cyber criminals before real harm occurs.
-
-These supply-side focused solutions are indeed powerful, scalable tools in the fight against digital harms. However, to date, there has been less effort to develop demand-side solutions at scale, such as meaningful, global digital literacy and regulatory protections for users."
+  date: 2020-11-05
+  link: "https://dai-global-digital.com/impact-of-the-us-and-eu-in-critical-infrastructure-digitalization-and-cybersecurity-in-the-western-balkans.html?utm_source=daidotcom"
+  summary: "The Western Balkans, like many regions across the world, is navigating the disruptive effects of COVID-19 on their economies, while also digitalizing numerous critical sectors. Critical infrastructure (CI) is defined as “the physical and cyber systems and assets that are so vital to [a country] that their incapacity or destruction would have a debilitating impact on physical or economic security or public health or safety.” Recent threats emanating from malicious individual and nation-state actors remind us that cybersecurity considerations are vital to mitigate potentially widespread and devastating effects. In fact, the need to focus on network and system securities is only accelerated with the unique nature of digital challenges brought on by the COVID-19 pandemic in the region."
   tags:
     - digital acceleration 
-    - Trust 
+    - Cybersecurity 
+    - Critical Infrastructure 
+
+- title: "Digital Innovator Series: The View from Latvia’s Startup Scene with TrueSix’s Julia Gifford"
+  pub: "Digital"
+  date: 2020-10-29
+  link: "https://dai-global-digital.com/digital-innovator-series-the-view-from-latvias-start-up-scene-with-truesixs-julia-gifford.html?utm_source=daidotcom"
+  summary: "Even though the U.S. Agency for International Development (USAID)’s Journey to Self-Reliance has been covered extensively by the press, think tanks, academia, and implementers since its 2018 launch (more than 390,000 Google search results and counting), not much has been written about the countries that have actually graduated from assistance. Latvia—a small country of two million people wedged between Russia and the Baltic Sea—was one of 11 central, eastern, and southeastern European states to graduate in the 1990s or early 2000s. After $57 million over eight years of USAID support ending in 1999, what’s going on in Latvia now? Specifically, what’s going on in Latvia’s startup scene and in the digital realm? Quite a bit, as it turns out—from throwable microphones and localization and translation management platforms to one of the world’s first COVID-19 contact tracing apps using the Apple/Google application programming interfaces (APIs). I sat down with my friend of 25 years, Julia Gifford, Canadian-Latvian startup advocate and founder of TrueSix—a Latvian content marketing firm that helps brands get noticed in the U.S. market with strategic content, copy, and advertising—to find out more."
+  tags:
+    - digital acceleration 
+    - Innovation 
+    - Digital Ecosystems 
+    - Digital Innovator Series 
+
+- title: "How to Protect Digital Privacy and Security During COVID-19 Response"
+  pub: "Digital"
+  date: 2020-10-27
+  link: "https://dai-global-digital.com/how-to-protect-digital-privacy-and-security-during-covid-19-response.html?utm_source=daidotcom"
+  summary: "What do cyber attacks, virtual learning platforms, and the spread of misinformation online have in common?
+
+
+  All have seen substantial spikes over the past four months.
+  Each one would be nonexistent without digital technology.
+
+
+Technology has served as both an advantage and a hindrance during COVID-19 digital response. On one hand, apps like Zoom have allowed people to stay connected with loved ones while safe at home, and many have been able to work remotely without major disruption to their jobs."
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Digital Privacy 
+    - Digital Security 
+
+- title: "Cybersecurity Frontier Insights Findings: User Perceptions of Trust and Privacy on the Internet"
+  pub: "Digital"
+  date: 2020-10-22
+  link: "https://dai-global-digital.com/cybersecurity-frontier-insights-findings-user-perceptions-of-trust-and-privacy-on-the-internet.html?utm_source=daidotcom"
+  summary: "Last week we shared that the Center for Digital Acceleration was launching our most recent Cybersecurity Frontier Insights research into user perceptions of trust and privacy in India and Ghana. Here are the findings from that report, which can be downloaded here.
+
+Since the creation of the internet more than 30 years ago, our lives, economies, and societies have changed dramatically and the restrictions of the COVID-19 pandemic have accelerated change even more. As we’ve developed seemingly endless new methods of online communication, commerce, and civic participation, the international development community has become more acutely aware of a growing digital divide: those who are poor, rural, remote, illiterate, female, or living with disabilities in emerging markets risk being excluded from the benefits of digital transformation. Therefore, especially in recent years and months, we’ve seen valiant efforts from governments, private companies, and the development community to bridge digital gaps aiming to enable more people to access and benefit from online services. However, as access and use has increased, so has the number of digital risks, with data breaches, fraud, surveillance, and cybercrime on the rise globally."
+  tags:
+    - digital acceleration 
     - Privacy 
     - Cybersecurity 
-
-- title: "Disinformation and Dating Apps—A Match Made in Heaven (But Swipe Left Though)"
-  pub: "Digital"
-  date: 2020-07-02
-  link: "https://dai-global-digital.com/disinformation-and-dating-apps-a-match-made-in-heaven-but-swipe-left-though.html?utm_source=daidotcom"
-  summary: "Somehow, we have made it to the halfway point of 2020. This year has been wild, to say the least—more than 500,000 people around the world have died due to COVID-19. The murders of George Floyd, Ahmaud Arbery, Breonna Taylor, Riah Milton, Dominique Fells, Oluwatoyin “Toyin” Salau, and quite literally countless other members of the Black community have led to a crisis of conscience and a (sorely needed, long overdue, how-is-this-only-happening-now) reckoning in the United States. In all honesty, I wrote this post about disinformation and dating apps over a month ago. We held it because the light tone wasn’t right for the historical moment we found—and continue to find—ourselves in. I still think it might be too early. However, as my wise friend and colleague Gratiana Fu points out, the topic of disinformation is especially relevant, right now, precisely because disinformation about  COVID-19, Black Lives Matter, and many other topics is spreading so quickly. So, with no further ado—enjoy this silly little romp through the world of disinformation on dating apps."
-  tags:
-    - digital acceleration 
     - Trust 
-    - Disinformation 
-
-- title: "How Technology Can Reflect Human Bias—And Resources to Understand It"
-  pub: "Digital"
-  date: 2020-06-25
-  link: "https://dai-global-digital.com/understanding-algorithmic-bias.html?utm_source=daidotcom"
-  summary: "With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job, or which books and movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to, and eradicate, systemic racism in the United States, and in other parts of the world, have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased, too.
-
-Over the next several months DAI’s Center for Digital Acceleration will explore this topic by trying to answer the following questions (and more) in a new series: How pervasive is algorithmic bias, and which platforms are the worst offenders? (b) How does algorithmic bias work, and how we can tackle it at a technological level? (c) What other responses—policy, digital literacy, and so on—exist to tackle this phenomenon? (d) What are the effects of algorithmic bias on the broader digital development sector?"
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-
-- title: "The Importance of Personal Digital Security"
-  pub: "Digital"
-  date: 2020-06-18
-  link: "https://dai-global-digital.com/personal-digital-security-the-beginning.html?utm_source=daidotcom"
-  summary: "In the current climate of data collection and data harvesting by every website, company, government or official body that has access to your browser traffic, usage history, and location, your data is always at risk and vulnerable. To add to this, nothing is absolutely, unequivocally, 100 percent secure. Even air-gapped computers that have no connection to the internet, as demonstrated with the CIA-infected Iranian centrifuges with Stuxnet are vulnerable.
-
-Did that sound alarmist? Well, it was meant to be. The good thing is there are simple measures that anyone from web and software developers to computer laypersons can take to protect themselves from the inevitable breach of their data. The more aware we are and the more precautions we take to avoid exposing our “IRL”-selves to the ever-present threats, the better our chances are of staying secure."
-  tags:
-    - digital acceleration 
-    - Privacy 
-    - Cybersecurity 
-
-- title: "COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data"
-  pub: "Digital"
-  date: 2020-06-10
-  link: "https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html?utm_source=daidotcom"
-  summary: "This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.
-
-For the past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States’ daily incidence of deaths slowly declines, Mexico reported its largest daily incidence yet with 1,092 deaths on June 4."
-  tags:
-    - digital acceleration 
-    - Global Health 
-    - Data Visualization 
-    - Data 
-    - COVID-19 
-
-- title: "This Week"
-  pub: "Digital"
-  date: 2020-06-02
-  link: "https://dai-global-digital.com/this-week.html?utm_source=daidotcom"
-  summary: "Dear friends and colleagues: we had a lighthearted blog post ready to go this week, but in light of recent events, we’re sure it can wait. Instead, we’re using this time to pause and reflect about the killing of George Floyd and the years of structural racism and inequities that his story represents, both in the U.S. and across the countries where DAI works. We’re also thinking about cities and communities reeling from a combination of a global pandemic and widespread unrest. In the meantime, take care and stay strong."
-  tags:
-    - digital acceleration 
-
-- title: "Digital Collaboration: Recommendations from a Six-Week Veteran"
-  pub: "Digital"
-  date: 2020-05-25
-  link: "https://dai-global-digital.com/hosting-virtual-meetings-recommendations-from-a-six-week-veteran.html?utm_source=daidotcom"
-  summary: "Over the past few months, I have been reading article after article about how to run a successful virtual workshop, training, event, and so on, all of which provided useful advice. But, as I have run my fair share of virtual meetings these days, and because I am often described as “direct” by my peers and colleagues, I thought I would take a stab at making my own list of to-the-point recommendations."
-  tags:
-    - digital acceleration 
-    - Events 
-    - Virtual Workshops 
-    - Digital Collaboration 
-
-- title: "Castles Made of Sand: Digital Transformation From the Silicon Up"
-  pub: "Digital"
-  date: 2020-05-15
-  link: "https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html?utm_source=daidotcom"
-  summary: "Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devices that run our modern world. Digital solutions are built on a foundation of silicon, and the landscape of silicon chip production is changing in ways that could have far-reaching impact on how that foundation is laid, and by whom."
-  tags:
-    - digital acceleration 
-    - Makerspace 
-    - Hardware 
-
-- title: "Digital Innovator Series: Talking Financial Inclusion with MIX"
-  pub: "Digital"
-  date: 2020-05-13
-  link: "https://dai-global-digital.com/digital-innovator-interview-talking-financial-inclusion-with-mix.html?utm_source=daidotcom"
-  summary: "We recently spoke with Nikhil Gehani, Director of Communications at MIX, a global data resource for socially responsible investors and businesses, about inclusive finance and what it means for low-income countries. This is an excerpt of that interview."
-  tags:
-    - digital acceleration 
-    - Economic Growth 
-    - Digital Financial Services 
-    - Entrepreneurship 
-    - Think Piece 
-    - Digital Innovator 
-
-- title: "Privacy: How COVID-19 Has Sped Up the Debate"
-  pub: "Digital"
-  date: 2020-05-11
-  link: "https://dai-global-digital.com/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html?utm_source=daidotcom"
-  summary: "As many countries struggle to manage the COVID-19 crisis, governments globally are looking to data-driven technologies to minimize cases or to help facilitate a transition out of lockdown. The technologies being claimed to protect, prevent, and track include symptom tracking apps that help us understand the disease, digital contact tracing apps that alert us to our interaction with the virus, quarantine enforcement apps that monitor people’s compliance (such as those in Hong Kong, Poland, and Kazakhstan; proposed in Russia and Egypt), and immunity certification that identify individuals who have had COVID-19.
-
-In more developed nations such as the United Kingdom and United States, conversations around data privacy are rife. For example, the UK National Health Service (NHS) is negotiating with Google and Apple about the efficacy of its proposed contact-tracing app in light of the two tech giants’ stringent adherence to privacy.
-
-In the face of serious threats, many of us might say we have a reasonable expectation that our government will use technology to track and pre-empt risks. In the same way we might expect protection from terrorist attacks, we may also accept such measures to be employed during a public health crisis like the current pandemic.
-
-But the vital question is: how can we ensure that the deployment of these digital tools are effective and do not set a dangerous precedent of digital surveillance?"
-  tags:
-    - digital acceleration 
-    - COVID-19 
-    - Cybersecurity 
-    - Digital Health 
-
-- title: "COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us"
-  pub: "Digital"
-  date: 2020-05-05
-  link: "https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html?utm_source=daidotcom"
-  summary: "The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low- and middle-income countries have begun to see increases in reported cases.
-
-In Mexico, the number of cases has slowly risen. Public health experts have urgently suggested that testing needs to be dramatically increased to appropriately track the spread of the COVID-19 pandemic. As the graph below shows, the numbers reported from Worldometer corroborate this testing deficit, as Mexico has one of the lowest rates of testing per 1 million people in the region, even among countries of similar size and income per capita."
-  tags:
-    - digital acceleration 
-    - Digital Health 
-    - COVID-19 
-    - Data 
-
-- title: "5 Ways Entrepreneurship Ecosystems are Using Technology to Adapt to the COVID-19 Crisis"
-  pub: "Digital"
-  date: 2020-05-05
-  link: "https://dai-global-digital.com/5-ways-entrepreneurship-ecosystems-are-using-technology-to-adapt-to-the-covid-19-crisis.html?utm_source=daidotcom"
-  summary: "During this unprecedented global economic downturn caused by COVID-19, accelerators, incubators, and other entrepreneurship support organizations have a valuable role to play in helping entrepreneurs and small and medium-sized enterprises (SMEs) in emerging and frontier markets. Over the past two months supporting the Shell LiveWIRE global entrepreneurship program and the Kosmos Innovation Center, DAI’s Sustainable Business Group has worked closely with the Global Accelerator Network (GAN) and the Aspen Network of Development Entrepreneurs (ANDE) to leverage technology in support of global entrepreneurship in emerging economies. For corporates, foundations, donors, and development banks that support similar entrepreneurship ecosystems, we offer some learning here from our projects and global networks.
-
-Photo by Oscar Nilsson on Unsplash."
-  tags:
-    - digital acceleration 
-    - COVID-19 
-    - Entrepreneurship 
 
