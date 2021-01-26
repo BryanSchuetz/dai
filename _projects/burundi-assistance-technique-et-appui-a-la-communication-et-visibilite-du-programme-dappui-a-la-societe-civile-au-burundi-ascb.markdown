@@ -14,9 +14,9 @@ regions: Sub-Saharan Africa
 country: Burundi
 ---
 
-Since 2005, Burundi’s public policies around decentralization have called for civil society to participate in local governance—particularly in the preparation, implementation, and monitoring of municipal community development five-year plans (PCDCs). 
+Since 2005, Burundi’s public policies around decentralization have called for civil society to participate in local governance—particularly in the preparation, implementation, and monitoring of municipal community development five-year plans. 
 
-The Assistance Technique et Appui à la Communication et Visibilité du Programme d'Appui à la Société Civile au Burundi (ASCB) project supports civil organisations’ (CSOs) participation in development and local governance issues. The project is implemented through grants (call for proposals) and procurement of services. 
+The Assistance Technique et Appui à la Communication et Visibilité du Programme d'Appui à la Société Civile au Burundi (ASCB) project supports civil organisations’ participation in development and local governance issues. The project is implemented through grants and procurement of services. 
 
 DAI’s team advises and supports ASBC’s implementing partners through technical assistance focused on methodology, tools for monitoring and evaluation, capitalization, and capacity building for grassroots organisations. 
 
