@@ -16,6 +16,10 @@ regions:
 - Sub-Saharan Africa
 country:
 - Cabo Verde
+promos:
+- title: 'Public-Private Partnerships for Land Administration: Can It Work in Cabo
+    Verde?'
+  link: https://dai-global-developments.com/articles/public-private-partnerships-for-land-administration-can-it-work-in-cabo-verde
 layout: project
 ---
 
