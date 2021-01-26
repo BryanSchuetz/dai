@@ -1,11 +1,11 @@
 ---
-title: Philippines—Protect Wildlife (Protect)
+title: Philippines—Protect Wildlife
 date: 2017-02-16 20:47:00 Z
-summary: Protect is a multi-pronged program in the Philippines that works to conserve
+summary: 'Protect is a multi-pronged program in the Philippines that works to conserve
   biodiversity, protect wildlife, and sustain ecosystem services in ways that also
-  improve the local population’s livelihoods and long-term well-being.
+  improve the local population’s livelihoods and long-term well-being. '
 start: 2016
-end: 2020
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Environment
@@ -32,7 +32,7 @@ By 2020, Protect had improved the conservation of more than 200,000 hectares of 
 * Broker partnerships that provide financial support to local conservation efforts through direct investment in ecologically sound commercial ventures.
 * Support targeted behavior change campaigns to improve attitudes toward biodiversity and increase participation in conservation.
 * Coordinate with local and national partners to design and deliver training in community-based natural resource management and deputize a cadre of local wildlife protection officers.
-* Help leading Philippine universities establish centers of excellence in conservation to produce research, support evidence-based policy making, and train next generation of conservation scientists.
+* Help leading Philippine universities establish centers of excellence in conservation to produce research, support evidence-based policymaking, and train the next generation of conservation scientists.
 * Develop and disseminate mobile application that enables community members to upload GPS-registered photos and anonymously report illegal activity.
 
 ### Select Results

@@ -18,6 +18,8 @@ country:
 promos:
 - title: How Learning and Adapting Enabled Civil Society Innovations in Cambodia
   link: https://usaidlearninglab.org/sites/default/files/resource/files/031820_annotated_evidence_summary_e.pdf
+- title: Empowering Voters One Mobile Phone at a Time
+  link: https://blog.usaid.gov/2015/09/empowering-voters-one-mobile-phone-at-a-time/
 layout: project
 ---
 

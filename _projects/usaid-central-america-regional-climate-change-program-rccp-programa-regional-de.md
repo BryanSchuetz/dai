@@ -1,8 +1,8 @@
 ---
-title: USAID Central America Regional Climate Change Program (RCCP) (Programa Regional
-  de Cambio Climatico—PRCC)
+title: Central America—Regional Climate Change Program (RCCP) (Programa Regional de
+  Cambio Climatico—PRCC)
 date: 2016-01-21 22:40:00 Z
-summary: This regional initiative is identifying solutions and action plans to permit
+summary: This regional initiative identified solutions and action plans to permit
   the countries and territories of Central America and the Dominican Republic to respond
   to the effects of climate change.
 start: 2013
