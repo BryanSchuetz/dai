@@ -12,7 +12,7 @@ featuresection: supply-chain
 summary: |
   COVID-19 has surfaced vulnerabilities in global supply chains, forcing governments, businesses, and consumers to adapt to delays and shortages in medical supplies, food items, and other essential commodities. With trade slowdowns, factory closures, and other economic disruptions, livelihoods—and lives—are threatened around the globe. But this crisis also presents an opportunity to make supply chains dramatically more resilient, flexible, and responsive.
 layout: node
-# published: false
+published: false
 ---
 
 ## An Innovative and Holistic Approach 
