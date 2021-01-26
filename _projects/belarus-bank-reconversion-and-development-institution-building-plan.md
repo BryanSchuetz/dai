@@ -9,6 +9,7 @@ start: 2009
 end: 2011
 client: European Bank for Reconstruction and Development
 solutions:
+- Economic Growth
 - Finance and Investment
 regions:
 - Eastern Europe and Central Asia
