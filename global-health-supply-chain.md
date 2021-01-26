@@ -2,17 +2,23 @@
 title: Supply Chain Solutions
 date: 2016-01-22 00:11:00 Z
 permalink: "/global-health-supply-chain"
-social-image: ""
+published: false
+social-image: ''
 solutions:
 - Global Health
 - Supply Chain
 hero: true
 related: false
 featuresection: supply-chain
-summary: |
-  COVID-19 has surfaced vulnerabilities in global supply chains, forcing governments, businesses, and consumers to adapt to delays and shortages in medical supplies, food items, and other essential commodities. With trade slowdowns, factory closures, and other economic disruptions, livelihoods—and lives—are threatened around the globe. But this crisis also presents an opportunity to make supply chains dramatically more resilient, flexible, and responsive.
+summary: 'COVID-19 has surfaced vulnerabilities in global supply chains, forcing governments,
+  businesses, and consumers to adapt to delays and shortages in medical supplies,
+  food items, and other essential commodities. With trade slowdowns, factory closures,
+  and other economic disruptions, livelihoods—and lives—are threatened around the
+  globe. But this crisis also presents an opportunity to make supply chains dramatically
+  more resilient, flexible, and responsive.
+
+'
 layout: node
-published: false
 ---
 
 ## An Innovative and Holistic Approach 

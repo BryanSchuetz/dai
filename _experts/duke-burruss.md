@@ -13,7 +13,7 @@ solutions:
 - Economic Growth
 - Supply Chain
 regions:
-- Sub-Saharan Africa 
+- Sub-Saharan Africa
 layout: expert
 ---
 
