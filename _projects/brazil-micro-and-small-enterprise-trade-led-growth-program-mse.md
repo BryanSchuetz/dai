@@ -20,13 +20,13 @@ Micro and small enterprises (MSEs) make important contributions to the Brazilian
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Improve the business environment.
 * Promote commercial linkages.
 * Facilitate MSE access to financial services.
 
-###  Select Results
+### Select Results
 
 * Initiated an organic certification process for 80 cashew nut producers.
 * Obtained higher prices for honey due to improved quality; developed new packaging and marketing material for bottled honey, and trained 800 families in quality and productivity techniques.
