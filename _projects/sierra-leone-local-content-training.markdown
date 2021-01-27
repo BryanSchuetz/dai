@@ -13,7 +13,7 @@ solutions:
 regions: Sub-Saharan Africa
 country: Sierra Leone
 promos:
-- title: "**News**:_ Companies trained to report on local content compliance_"
+- title: Companies Trained to Report on Local Content Compliance
   link: http://awoko.org/2017/07/11/sierra-leone-news-companies-trained-to-report-on-local-content-compliance/
 ---
 
