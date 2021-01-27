@@ -18,6 +18,8 @@ regions:
 country:
 - Ethiopia
 promos:
+- title: Ethiopia Stands Poised to Lead an African Industrial Revolution
+  link: https://dai-global-developments.com/articles/ethiopia-stands-poised-to-lead-an-african-industrial-revolution
 - title: 'Webinar: Market Systems Development in Ethiopia'
   link: https://www.youtube.com/watch?v=lnXWzARh8iE
 - title: 'Facilitating Inclusive Growth in Ethiopia: Think Systemically, Act Strategically,
