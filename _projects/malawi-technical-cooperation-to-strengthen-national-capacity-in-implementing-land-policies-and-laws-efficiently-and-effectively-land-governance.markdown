@@ -6,12 +6,12 @@ summary: The Malawi Land Governance programme is enhancing people’s livelihood
   food security through sustainable agricultural development, with an emphasis on
   reaching remote rural areas and vulnerable populations.
 start: 2016
-end: 2020
+end: 2021
 client: European Union
 solutions:
 - Environment
 - Land Tenure and Property Rights
-- 
+- Governance
 regions: Sub-Saharan Africa
 country: Malawi
 promos:
