@@ -1,11 +1,11 @@
 ---
-title: Democratic Republic of Congo—Capacity Building at Rawbank
+title: Democratic Republic of the Congo—Capacity Building at Rawbank
 date: 2016-01-21 22:40:00 Z
 summary: Complementing other International Finance Corporation interventions to improve
   the enabling environment for private sector growth and investment, the capacity
-  building delivered to Rawbank in the Democratic Republic of Congo fell under the
-  Africa MSME Finance Program, which seeks to significantly increase support to African
-  micro, small, and medium enterprises (MSME).
+  building delivered to Rawbank in the Democratic Republic of the Congo fell under
+  the Africa MSME Finance Program, which seeks to significantly increase support to
+  African micro, small, and medium enterprises (MSME).
 start: 2009
 end: 2012
 client: International Finance Corporation
@@ -19,7 +19,7 @@ country:
 layout: project
 ---
 
-Complementing other International Finance Corporation interventions to improve the enabling environment for private sector growth and investment, the capacity building delivered to Rawbank in the Democratic Republic of Congo falls under the Africa MSME Finance Program, which seeks to significantly increase support to African micro, small, and medium enterprises (MSME). The institution building involved designing new MSME products and services and strengthening the overall management and risk management practices of the bank.
+Complementing other International Finance Corporation interventions to improve the enabling environment for private sector growth and investment, the capacity building delivered to Rawbank in the Democratic Republic of the Congo falls under the Africa MSME Finance Program, which seeks to significantly increase support to African micro, small, and medium enterprises (MSME). The institution building involved designing new MSME products and services and strengthening the overall management and risk management practices of the bank.
 
 ### Sample Activities
 

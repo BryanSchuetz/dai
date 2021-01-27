@@ -1,10 +1,10 @@
 ---
-title: Democratic Republic of Congo—Food Production, Processing, and Marketing (FPPM)
-  Project
+title: Democratic Republic of the Congo—Food Production, Processing, and Marketing
+  (FPPM) Project
 date: 2016-01-21 22:40:00 Z
 summary: 'The Food Production, Processing, and Marketing (FPPM) Project in the Democratic
-  Republic of Congo rehabilitated smallholder access to inputs, services, and markets
-  so that even smallholder farms were able to become income-generating businesses. '
+  Republic of the Congo rehabilitated smallholder access to inputs, services, and
+  markets so that even smallholder farms were able to become income-generating businesses. '
 start: 2011
 end: 2014
 client: U.S. Agency for International Development
