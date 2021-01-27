@@ -22,9 +22,9 @@ Loans to micro, small, and medium-sized enterprises (MSMEs) account for only 6 p
 
 The National Bank of Egypt is the oldest and largest commercial bank in Egypt wholly owned by the Egyptian government. With a nationwide network of more than 300 banking units and dedicated small and medium-sized enterprises (SME) department with nearly 1,000 employees, the bank is a national leader in SME finance. DAI is assisting the bank to increase its microfinance and broader MSME portfolio.
 
-###  ![][1]
+![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Review strategy, provide recommendations, and assist with the implementation of measures for expanding MSME lending and risk management.
 * Assess the feasibility of setting up a separate microfinance business unit (in-house vs. specialised subsidiary), provide recommendations, and assist with the development of micro-lending.
