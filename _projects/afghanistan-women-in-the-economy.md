@@ -29,6 +29,8 @@ promos:
   link: https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers
 - title: "'There is No Need for Women to Work': Afghan TV Show Takes on Patriarchy"
   link: https://www.theguardian.com/global-development/2018/oct/31/there-is-no-need-for-women-to-work-afghan-tv-show-takes-on-patriarchy
+- title: Reflections on Machine Learning for Gender Inclusion in Afghanistan
+  link: https://dai-global-digital.com/reflections-on-machine-learning-for-gender-inclusion-in-afghanistan.html
 layout: project
 ---
 
