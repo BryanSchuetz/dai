@@ -16,6 +16,11 @@ regions:
 - Sub-Saharan Africa
 country:
 - Ethiopia
+promos:
+- title: Community Gardens help Ethiopia’s Urban Poor Grow
+  link: https://cityfarmer.info/community-gardens-help-ethiopias-urban-poor-grow/
+- title: Urban Gardens in Ethiopia Help HIV-Affected Women
+  link: https://www.youtube.com/watch?v=OYHbgFYxEJQ
 layout: project
 ---
 
@@ -23,14 +28,14 @@ With a population vulnerable to HIV/AIDS and poverty, Ethiopia needs innovative 
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Establish hundreds of communal and school-based vegetable gardens in and around Ethiopia's cities, tended primarily by women and children, and using low-maintenance water and irrigation systems that minimize laborious water transfer.
 * Creatively engage and empower children and students through microgardening, savings groups, gardening contests, and other methods.
 * Integrate gardening activities with programs to expand access to financial savings, agriculture markets, and poultry to diversify livelihoods and income sources.
 * Use gardens as a community-based platform for transferring skills in gardening, nutrition, group savings, market access, and AIDS treatment and care.
 
-###  Select Results
+### Select Results
 
 * More than 400 groups and school-based gardens have given 35,000 households access to training and technologies (such as drip kits) in urban gardening.
 * More than 110,000 women, orphans, and vulnerable children have benefited through access to healthy food, new economic opportunities, stronger support networks, and secure access to land and water.
