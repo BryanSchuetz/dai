@@ -4,7 +4,8 @@ title: Democratic Republic of the Congo—Building Recovery and Reform through D
 date: 2016-01-21 22:40:00 Z
 summary: BRDG-DRC provided long- and short-term consulting and technical assistance,
   training services, applied research, workshops, conference organization and hosting,
-  logistical support, and commodities to advance the DRC's political transition.
+  logistical support, and commodities to advance the Democratic Republic of the Congo's
+  political transition.
 start: 2008
 end: 2010
 client: U.S. Agency for International Development
