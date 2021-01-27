@@ -27,17 +27,12 @@ USAID’s Domestic Resource Mobilization Program is supporting local and nationa
 ### Sample Activities
 
 * Develop e-learning platforms and procedure manuals to support the transition to a results-oriented budget focused on achieving results over spending money.
-
 * Assist government agencies in upgrading information systems to accurately assess citizen needs and target budgeting to serve marginalized communities.
-
 * Collaborate with the Ministry of Finance in creating and training a Fiscal Reform Unit to review and analyze tax policy and advance reform proposals.
-
 * Support the Public Procurement Ombudsman Office to improve citizen oversight of public procurement, increasing transparency and reducing corruption.
 
 ### Select Results
 
 * Increased social spending from 7.1 percent of GDP in 2007 to 9.2 percent in 2017.
-
 * Increased public spending in education from 3.38 percent in 2007 to 3.85 percent in 2017.
-
 * Increased public spending in health from 2 percent in 2007 to 2.5 percent in 2017.
