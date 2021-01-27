@@ -42,9 +42,9 @@ DAI’s team strove to create conditions for publicly accountable policing, rest
 ### Select Results
 
 * Helped draft decree to establish a Local Security Committee.
-* 
+* Reached 1.2 million women, men, girls, and boys through 90 awareness-raising and community mobilisation projects and 225 citizens forums on local justice systems and how to avoid extortion, bribery, and mob justice; 329 community zones formed and operational, enlisting 1,947 women and 4,070 men practicing Dynamique Communautaire to express security and justice needs.
 * Provided technical and logistical assistance to the drafting of the law on the national police force.
-* Helped create high school courses on security, justice, and community policing.
+* Educated 71,000 students on national security and justice institutions, with 235 school teachers, school inspectors, and prefects trained in 109 secondary schools.
 * Supported civil society organizations in their efforts to monitor security reform and security issues, including human rights violations, during the electoral period.
 * Funded civil society organizations for the monitoring of the first-ever police census.
 * Developed a communications strategy aimed at helping the media cover security issues more effectively, thereby better informing citizens.
