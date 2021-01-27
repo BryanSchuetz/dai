@@ -2,7 +2,6 @@
 title: Supply Chain Solutions
 date: 2016-01-22 00:11:00 Z
 permalink: "/global-health-supply-chain"
-published: false
 social-image: ''
 solutions:
 - Global Health
