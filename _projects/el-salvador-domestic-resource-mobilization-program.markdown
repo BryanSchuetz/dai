@@ -13,6 +13,9 @@ solutions:
 - Governance
 regions: Latin America and the Caribbean
 country: El Salvador
+promos:
+- title: When Tax Reform Leads to Increased Funding for Health Services
+  link: https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services
 ---
 
 Over the past 10 years, El Salvador’s government, with support from the U.S. Agency for International Development (USAID), implemented a series of important tax system reforms that helped raise an additional $2.4 billion in state revenue. Combined with reforms in public financial management, this [increase in public funds](https://www.dai.com/our-work/projects/el-salvador-fiscal-policy-and-expenditure-management-program-fpemp) led to improved citizen welfare, such as [higher public health spending](https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services) that has reduced child mortality and raised life expectancy. Despite these advances, the current tax effort has fallen short of its full potential, while government overspending has created a persistent fiscal deficit. In addition, municipal governments still need to improve their revenue mobilization to fund basic public services.
