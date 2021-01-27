@@ -30,6 +30,9 @@ promos:
   link: "/uploads/Case%20Study%202%20(Standalone_Web).pdf"
 - title: 'Adaptive Management: From the Inside Looking Out'
   link: "/uploads/Case%20Study%203%20(Standalone_Web).pdf"
+- title: Transforming Financial Service Markets for Micro, Small and Medium Enterprises
+    (MSMEs) in Ethiopia through Direct Technical Assistance to Financial Institutions
+  link: "/uploads/Case%20Study%204%20(Standalone_Web).pdf"
 layout: project
 ---
 
@@ -61,4 +64,3 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Generated £43 million of additional investment into the economy.
 * Created more than 30,000 financial accounts.
 
-[Case Study 3 (Standalone_Web).pdf](/uploads/Case%20Study%203%20(Standalone_Web).pdf)
