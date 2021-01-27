@@ -5,7 +5,7 @@ summary: This program helps generate access to finance, good quality jobs, and i
   incomes for Ethiopia's poor. DAI works with consortium partners First Consult (Ethiopia),
   Itad (United Kingdom), Enclude (Netherlands), and BCaD.
 start: 2013
-end: 2021
+end: 2020
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -19,10 +19,14 @@ country:
 promos:
 - title: 'Webinar: Market Systems Development in Ethiopia'
   link: https://www.youtube.com/watch?v=lnXWzARh8iE
+- title: 'Case Study: Facilitating Inclusive Growth in Ethiopia'
+  link: "/uploads/Case%20Study%201%20(Standalone_Web).pdf"
+- title: 'Case Study: '
+  link: 
 layout: project
 ---
 
-Enterprise Partners is the major component of the Foreign, Commonwealth & Development Office (FCDO)'s Private Enterprise Programme Ethiopia (PEPE). Enterprise Partners facilitates agro-industrial growth and enables access to finance. Our work will result in job and income opportunities and increased stability for poor people, particularly women. The planned impact is to create 45,000 jobs (75 percent for women) and increase incomes for 65,000 poor households.
+Enterprise Partners was the major component of the Foreign, Commonwealth & Development Office (FCDO)'s Private Enterprise Programme Ethiopia (PEPE). Enterprise Partners facilitates agro-industrial growth and enables access to finance. Our work will result in job and income opportunities and increased stability for poor people, particularly women. The planned impact is to create 45,000 jobs (75 percent for women) and increase incomes for 65,000 poor households.
 
 DAI implements this work with consortium partners First Consult (Ethiopia), Itad (United Kingdom), Enclude (Netherlands), and BCaD. We utilize the [market systems approach](https://www.dai.com/news/new-primer-market-systems-development-available) to achieve the impact. Enterprise Partners identifies key constraints and develops socially and environmentally responsible strategies, working with industry actors to introduce new business models. This is leading to a better business enabling environment and investment generation in Ethiopia.
 
@@ -49,3 +53,5 @@ DAI implements this work with consortium partners First Consult (Ethiopia), Itad
 * Supported the Development Bank of Ethiopia and 12 microfinance institutions with technical assistance that contributed to £50 million in loan disbursements and enabled another £204 million credit line by World Bank (to be disbursed by 2020).
 * Generated £43 million of additional investment into the economy.
 * Created more than 30,000 financial accounts.
+
+[Case Study 1 (Standalone_Web).pdf](/uploads/Case%20Study%201%20(Standalone_Web).pdf)
