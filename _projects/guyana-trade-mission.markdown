@@ -1,5 +1,5 @@
 ---
-title: Guyana Trade Mission
+title: Guyana—Trade Mission
 date: 2020-01-10 18:42:00 Z
 summary: The DAI Sustainable Business Group (SBG) was commissioned to support the
   Newfoundland and Labrador Oil and Gas Industry Association (Noia)’s trade mission
