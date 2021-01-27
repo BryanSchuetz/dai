@@ -18,10 +18,17 @@ regions:
 - Sub-Saharan Africa
 country:
 - Decomcratic Republic of the Congo
+promos:
+- title: Nurturing a Culture of Law and Justice in the DRC
+  link: https://dai-global-developments.com/articles/nurturing-a-culture-of-law-and-justice-in-the-drc
 layout: project
 ---
 
-The Democratic Republic of the Congo (DRC) has for decades been riven by war, corruption, and inadequate governance. Too often, the security and police forces have been part of the problem rather than the solution for the Congolese people, operating within a culture of impunity that perpetuates a cycle of violence, conflict, and criminality. If we are to help address poverty and establish democratic systems responsive to the needs of the DRC's citizens, we must simultaneously address this fundamental issue of human security. The Security Sector Accountability and Police Reform Programme (SSAPR) worked to improve the DRC's capacity to provide security, safety, and justice for all. Specifically, it tackled the "[demand side][1]" of the problem, working with citizens, government institutions, and elected representatives to ensure that the security and justice sectors are responsive and accountable to the people they are meant to serve.
+The Democratic Republic of the Congo (DRC) has for decades been riven by war, corruption, and inadequate governance. Too often, the security and police forces have been part of the problem rather than the solution for the Congolese people, operating within a culture of impunity that perpetuates a cycle of violence, conflict, and criminality. If we are to help address poverty and establish democratic systems responsive to the needs of the DRC's citizens, we must simultaneously address this fundamental issue of human security. 
+
+Against this backdrop, the United Kingdom in 2010 launched the Security Sector Accountability and Police Reform (SSAPR) programme, a five-year pilot initiative to promote accountability and support the national police reform process. DAI implemented the External Accountability Component of this programme in the provincial capitals of South Kivu, Bas-Congo, and Western Kasai.
+
+DAI’s team strove to create conditions for publicly accountable policing, restore popular trust, and redefine security as a collective interest of citizens and police alike. We collaborated with local communities, schools, religious institutions, media outlets, nongovernmental organizations, elected national and provincial officials, Police Nationale Congolaise agents, and local leaders. In the process, we gained insight into the mechanics of community-driven change that might be applied or adapted to programming in other environments suffering from unresponsive or predatory public institutions.
 
 ![][2]
 
@@ -35,11 +42,11 @@ The Democratic Republic of the Congo (DRC) has for decades been riven by war, co
 ### Select Results
 
 * Helped draft decree to establish a Local Security Committee.
+* 
 * Provided technical and logistical assistance to the drafting of the law on the national police force.
 * Helped create high school courses on security, justice, and community policing.
 * Supported civil society organizations in their efforts to monitor security reform and security issues, including human rights violations, during the electoral period.
 * Funded civil society organizations for the monitoring of the first-ever police census.
 * Developed a communications strategy aimed at helping the media cover security issues more effectively, thereby better informing citizens.
 
-[1]: http://sustainablesecurity.org/2014/06/11/ssr-and-sexual-violence-in-drcongo/
 [2]: https://assetify-dai.com/projects/congoinner.jpg
