@@ -14,6 +14,9 @@ regions:
 - Latin America and the Caribbean
 country:
 - El Salvador
+promos:
+- title: When Tax Reform Leads to Increased Funding for Health Services
+  link: https://dai-global-developments.com/articles/when-tax-reform-leads-to-increased-funding-for-health-services
 layout: project
 ---
 
