@@ -1,10 +1,11 @@
 ---
-title: Sierra Leone—Local Content Training
+title: Sierra Leone—Local Content Planning and Reporting
 date: 2017-08-24 15:56:00 Z
-summary: For nearly two years, the Sustainable Business Group’s Local Content Plan
-  and Reporting online platform has been in operation in Sierra Leone. 
+summary: DAI's Sustainable Business Group’ works with the Sierra Leone Local Content
+  Agency on an online portal and scorecard system to simplify and assure standardization
+  in the way in which companies report their local content performance data.
 start: 2016
-end: 2020
+end: 2021
 client: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 solutions:
 - Sustainable Business
@@ -16,8 +17,10 @@ promos:
   link: http://awoko.org/2017/07/11/sierra-leone-news-companies-trained-to-report-on-local-content-compliance/
 ---
 
-In accordance with the provisions of the Sierra Leone Local Content Agency Act of 2016, the Sierra Leone Local Content Agency (LCA) uses the Sustainable Business Group (SBG)’s Local Content Plan and Reporting online platform to enable Sierra Leonean companies to report their local content performance data. DAI configured the software, then trained 50 companies and the regulator in the use of the portal. 
+In accordance with the provisions of the Sierra Leone Local Content Agency Act of 2016, the Sierra Leone Local Content Agency (LCA) is obligated to establish an online portal and scorecard system to simplify and assure standardization in the way in which companies report their local content performance data. To this end, DAI’s proprietary Local Content Plan and Reporting Platform ([LCPR](https://www.dai.com/our-work/local-content-plan-and-report)) software was configured to meet the LCA’s needs over the course of a GIZ-funded contract from 2016 to 2017.
+ 
+In November 2019, GIZ and the LCA engaged SBG for a second contract, to ensure the submission of data in LCPR by the companies covered by the LCA’s mandate and to improve the quality of data being reported. DAI’s tasks also include assisting companies to prepare their three-year Local Content Plans, with targets, and supporting the LCA in the hiring of an individual in Sierra Leone to be trained as the LCPR Portal Consultant. The intention is that the LCA will hire this person at the end of the contract period to continue DAI’s work, ensuring the sustainability of the platform and project. 
 
-In November 2019, GIZ and the LCA engaged SBG for a second contract, to improve the reporting compliance and quality of the companies covered by the LCA’s mandate. In addition to the software subscription, SBG provides user support, training, and guidance to 36 companies operating in a wide variety of sectors: agriculture, banking, hospitality, ICT, insurance, logistics and transport, manufacturing, mining, oil, gas, and services. 
+To date, DAI has contacted the 36 companies covered by the LCA’s mandate, guiding them on data submissions and providing user support when needed. These companies come from several sectors: agriculture, banking, hospitality, ICT, insurance, logistics and transport, manufacturing, mining, oil and gas, and services. 
 
-Thorough SBG’s efforts, compliance and data reporting have increased through 2020, enabling the generation of insightful semi-annual analytical local content reports for the LCA. 
+Compliance and data reporting have been increased, and analytical Local Content Performance Reports have been produced for 2019 and 2020. An LCPR Portal Consultant has been hired and now sits within the LCA in Sierra Leone. 
