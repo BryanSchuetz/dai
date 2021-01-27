@@ -36,6 +36,9 @@ promos:
 - title: 'Journeys to Impact: Charting New Pathways from Pilot to Scale for Market
     Systems Transformation in Ethiopia'
   link: "/uploads/Case%20Study%205%20(Standalone_Web).pdf"
+- title: 'Changing the Rules with Evidence, Strategies, and Action: Lessons from Our
+    Cotton and Leather Interventions'
+  link: "/uploads/Case%20Study%206%20(Standalone_Web).pdf"
 - title: 
   link: 
 layout: project
@@ -69,3 +72,4 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Generated £43 million of additional investment into the economy.
 * Created more than 30,000 financial accounts.
 
+[Case Study 6 (Standalone_Web).pdf](/uploads/Case%20Study%206%20(Standalone_Web).pdf)
