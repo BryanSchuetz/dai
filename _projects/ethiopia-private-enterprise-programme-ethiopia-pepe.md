@@ -33,6 +33,11 @@ promos:
 - title: Transforming Financial Service Markets for Micro, Small and Medium Enterprises
     (MSMEs) in Ethiopia through Direct Technical Assistance to Financial Institutions
   link: "/uploads/Case%20Study%204%20(Standalone_Web).pdf"
+- title: 'Journeys to Impact: Charting New Pathways from Pilot to Scale for Market
+    Systems Transformation in Ethiopia'
+  link: "/uploads/Case%20Study%205%20(Standalone_Web).pdf"
+- title: 
+  link: 
 layout: project
 ---
 
