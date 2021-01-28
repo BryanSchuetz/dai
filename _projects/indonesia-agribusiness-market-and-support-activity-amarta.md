@@ -21,12 +21,12 @@ Indonesian agribusiness is changing for the better, pursuing new supply chain mo
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Implement public outreach, awareness, and education program that uses university curricula, national and regional conferences, alliances of agribusiness enterprises, training, and media campaigns to raise awareness of the benefits of market competition.
 * Ensure that enterprises have the inputs, financing, technical know-how, information, and incentives they need to respond to market demand.
 
-###  Select Results
+### Select Results
 
 * Brought more than 26,000 additional hectares under improved technologies or management practices.
 * Assisted more than 575 producer organizations, water user associations, trade and business associations, and community-based organizations.
