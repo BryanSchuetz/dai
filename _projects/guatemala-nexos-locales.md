@@ -30,6 +30,8 @@ promos:
 - title: 'Youth in Government: Young People in Rural Guatemala Take an Active Role
     in their Community'
   link: https://spark.adobe.com/page/m7rLUoLXpHfld/
+- title: Six Ways to Mitigate Instability in Central America
+  link: https://dai-global-developments.com/articles/mitigating-instability-in-central-america
 layout: project
 ---
 
