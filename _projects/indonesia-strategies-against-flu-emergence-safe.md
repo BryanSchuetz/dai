@@ -30,4 +30,15 @@ In recent years, the U.S. Agency for International Development (USAID) and DAI h
 * Increase awareness of the symptoms and risk factors of H5N1-related illness so households can recognize them and respond appropriately.
 * Host face-to-face discussions with partner organizations and the Indonesian poultry industry to coordinate efforts.
 
+### Select Results
+
+* At the end of two years, 347 farms had self-financed changes at
+their farms. 
+* Introduced academic partners and their students to new biosecurity practices
+by establishing Teaching Farms at their institutions and providing new information and material to reinforce classroom curriculum. 
+* At the end of two years, 2,721 vendors had made changes in 69 markets.
+* Four new teaching farms were opened, completely financed by industry partners.
+* At the end of two years, 202 documents were accessible globally
+and more than 2,052 visitors from 18 countries had accessed information about avian flu and pandemics. 
+
 [1]: https://assetify-dai.com/projects/IndonesiaSAFE.jpg
