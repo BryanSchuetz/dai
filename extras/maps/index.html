@@ -156,7 +156,7 @@ function toggleLayer(ids, name) {
 
 
 map.on('click', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['json-pins'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['json-strict-pins'] });
 
     if (features.length) {
         map.flyTo({center: features[0].geometry.coordinates});
@@ -173,7 +173,7 @@ map.on('click', function (e) {
 });
 
 map.on('mousemove', function (e) {
-    var features = map.queryRenderedFeatures(e.point, { layers: ['json-pins'] });
+    var features = map.queryRenderedFeatures(e.point, { layers: ['json-strict-pins'] });
     map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 });
 </script>
