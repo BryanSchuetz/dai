@@ -1,35 +1,28 @@
 ---
 title: India—Water Analysis, Innovations, and Systems Program (WAISP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: DAI was contracted by the U.S. Agency for International Development to analyze
+  its comparative advantage for delivering innovative solutions to India's water challenges.
 start: 2010
 end: 2013
+client: U.S. Agency for International Development
+solutions:
+- Environment
+- Water and Sanitation Services and Management
 regions:
 - Asia and the Pacific
 country:
 - India
-solutions:
-- Environment
 layout: project
-summary: 'Food, health, and the environment are inextricably linked to the supply
-  of water. In India, a country of 1.2 billion people, the water supply is being squeezed
-  by the growing population and climate change. Despite overexploitation of groundwater,
-  deteriorating water quality, and weak water governance, there is cause for optimism
-  as the public and business sectors now acknowledge these threats to India''s economic
-  growth and public health.
-
-'
 ---
 
 Food, health, and the environment are inextricably linked to the supply of water. In India, a country of 1.2 billion people, the water supply is being squeezed by the growing population and climate change. Despite overexploitation of groundwater, deteriorating water quality, and weak water governance, there is cause for optimism as the public and business sectors now acknowledge these threats to India's economic growth and public health.
 
 Given the competing water demands between agriculture, domestic use, and industry, the industrial sector could be the worst hit, with a direct impact on economic growth and jobs. Improved municipal and industrial water-use efficiency and water reuse will decrease freshwater demand, slow groundwater withdrawals, and reduce pollution. We were contracted by the U.S. Agency for International Development to analyze its comparative advantage for delivering innovative solutions to India's water challenges.
 
-
-
 ![][1]
 
-###  Select Results
+### Select Results
 
 * For USAID, completed whole-of-sector assessment examining linkages with climate change, food security, and health that informed the agency's internal prioritizing and strategy.
 * Analyzed the potential and feasibility of intersectoral water use, primarily for municipal wastewater reuse by industry, and of instituting more efficient water-use practices.
