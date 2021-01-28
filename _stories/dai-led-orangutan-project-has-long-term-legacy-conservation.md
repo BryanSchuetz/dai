@@ -1,6 +1,6 @@
 ---
 title: DAI-led Orangutan Project has Long-Term Legacy on Conservation
-date: 2016-02-03 14:42:05.262000000 Z
+date: 2016-02-03 14:42:00 Z
 regions:
 - Asia and the Pacific
 solutions:

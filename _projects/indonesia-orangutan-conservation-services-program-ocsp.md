@@ -6,9 +6,7 @@ summary: 'OCSP addressed the major threats driving orangutan extinction: forest 
   strengthened partnerships with 40 international and local organizations, private
   sector partners, government institutions, and communities, which together supported
   the design and establishment of best management practices for key habitat conservation
-  of wild orangutan populations.
-
-'
+  of wild orangutan populations.'
 start: 2007
 end: 2010
 client: U.S. Agency for International Development
@@ -18,6 +16,12 @@ regions:
 - Asia and the Pacific
 country:
 - Indonesia
+promos:
+- title: New Orangutan Species Discovered in Forest Supported by USAID Conservation
+    Program
+  link: https://dai-global-developments.com/articles/new-orangutan-species-discovered-in-forest-block-saved-by-usaid-conservation-program
+- title: DAI-led Orangutan Project has Long-Term Legacy on Conservation
+  link: https://www.dai.com/publications/dai-led-orangutan-project-has-long-term-legacy-conservation
 layout: project
 ---
 
