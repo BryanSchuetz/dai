@@ -27,7 +27,7 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 
 ![women4health.jpg](/uploads/women4health.jpg)
 
-###  Sample Activities
+### Sample Activities
 
 * Improving the capacity of colleges of nursing and midwifery and colleges of health technology to train female health workers, improving the accreditation status and training capacity of health training colleges, and increasing graduation rates.
 * Improving the recruitment, deployment, and retention of midwives in rural facilities while implementing a Foundation Year Training Programme, or access course, for rural women to improve their academic credentials, study skills, and confidence to enter health worker training.
@@ -55,4 +55,3 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 * Supported trauma assessment for those affected by trauma to become midwives and nurses with the World Health Organisation.
 
 *Find open and [free access to the W4H materials](https://learninghub4hrh.org/) on Human Resources for Health, hosted by the Center for Gender Studies of Bayero University in Kano.*
- 
