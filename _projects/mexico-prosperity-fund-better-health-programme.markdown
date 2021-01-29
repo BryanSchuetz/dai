@@ -14,11 +14,11 @@ country: Mexico
 promos:
 - title: 'VIDEO: Interview with Expert Rosa Zárate, National School of Nursing and
     Obstetrics, National Autonomous University of Mexico '
-  link: https://dai0.sharepoint.com/:v:/s/extMBH/EYaPp1EpW9BEmwE2TC89ZMwBCvcvbZPS672HYsG-Mi9e2A?e=MNQvgG
+  link: https://dai-assets.s3.amazonaws.com/videos/entrevista-rosa.mp4
 - title: 'VIDEO: Interview with Liz Fenton, Health Education England'
-  link: https://dai0.sharepoint.com/:v:/s/extMBH/EaM_Emf3QmpEjDW2N7Ob4nIBnXTCT3U0klGhE95jShhxQw?e=rkpz1i
+  link: https://dai-assets.s3.amazonaws.com/videos/liz-fenton.mp4
 - title: 'VIDEO: Advanced Nursing Practice'
-  link: https://dai0.sharepoint.com/:v:/s/extMBH/ET2Wk3wPKMhPsrfLesHz2aABmJAxrKqYyZjfoh8oy_ZsNg?e=W1g5Jp
+  link: https://dai-assets.s3.amazonaws.com/videos/nursing-1.mp4
 ---
 
 The Better Health Programme Mexico (BHPMx) is part of the U.K. Global Prosperity Fund Better Health Programme that covers eight countries. The DAI-managed programme addresses the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health. 
