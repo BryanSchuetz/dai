@@ -12,6 +12,9 @@ solutions:
 - Economic Growth
 regions: Worldwide
 promos:
+- title: 'Business Unusual: New Partnership Approach Leads with Local Resilience Efforts
+    in South Sudan'
+  link: https://www.agrilinks.org/post/business-unusual-new-partnership-approach-leads-local-resilience-efforts-south-sudan
 - title: Lessons Learned from Engaging Local, Non-State Actors through Data and Inclusive
     Dialogue for CAADP Implementation
   link: https://www.agrilinks.org/post/lessons-learned-engaging-local-non-state-actors-through-data-and-inclusive-dialogue-caadp
