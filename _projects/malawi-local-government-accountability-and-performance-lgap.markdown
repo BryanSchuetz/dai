@@ -2,12 +2,10 @@
 title: Malawi—Local Government Accountability and Performance (LGAP)
 date: 2017-01-10 18:54:00 Z
 '2021': 
-summary: Over 20 years since its first multi-party elections, the government of Malwai
-  is renewing efforts to decentralize government power, based on the principle that
-  sustainable socioeconomic development is best achieved when decisions are made at
-  the local level. Despite an initially strong legal framework for local governance,
-  institutional tensions as well as confusion over roles and responsibilities between
-  levels of government continues to hinder successful decentralization.
+summary: To ensure more citizens benefit from the effects of decentralization, the
+  Local Government Accountability and Performance activity works across eight districts
+  to improve local government performance and transparency, increase citizen engagement,
+  and strengthen the enabling environment for decentralization in Malawi.
 start: 2016
 end: 2021
 client: 'U.S. Agency for International Development, U.K. Foreign, Commonwealth & Development
@@ -20,7 +18,7 @@ solutions:
 regions: Sub-Saharan Africa
 country: Malawi
 promos:
-- title: LGAP SUPPORT TO COVID-19 RESPONSE IN MALAWI
+- title: LGAP Support to COVID-19 Response in Malawi
   link: "/uploads/COVID%20FLIER.pdf"
 ---
 
