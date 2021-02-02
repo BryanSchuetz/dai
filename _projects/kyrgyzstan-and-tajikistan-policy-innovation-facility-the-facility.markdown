@@ -1,5 +1,5 @@
 ---
-title: Kyrgyzstan and Tajikistan — Policy Innovation Facility (The Facility)
+title: Kyrgyzstan and Tajikistan—Policy Innovation Facility (The Facility)
 date: 2019-06-13 17:21:00 Z
 summary: The Facility provides flexible, short-term, demand-driven support for policy
   development and capacity building to the governments of Tajikistan and Kyrgyzstan.
