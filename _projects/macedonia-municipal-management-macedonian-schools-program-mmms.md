@@ -1,26 +1,27 @@
 ---
-title: Macedonia—Municipal Management of Macedonian Schools Program (MMMS)
-date: 2016-01-21 22:40:52.765000000 Z
-client: Embassy of the Kingdom of the Netherlands
-start: 2006
-end: 2007
-regions:
-- Eastern Europe and Central Asia
-country:
-- Macedonia
-solutions:
-- Governance
-layout: project
-summary: 'The Republic of Macedonia has made decentralization and the promotion of
+title: Macedonia—Municipal Management of Macedonian Schools (MMMS)
+date: 2016-01-21 22:40:00 Z
+summary: The Republic of Macedonia has made decentralization and the promotion of
   democratic local governance a principal part of its commitment to restore, revitalize,
   and expand democratic practices. The goal of MMMS was to provide technical assistance
   and training to local governments to improve their ability to undertake their new
   responsibilities in school management.
-
-'
+start: 2006
+end: 2007
+client: Embassy of the Kingdom of the Netherlands
+solutions:
+- Governance
+- Education
+regions:
+- Eastern Europe and Central Asia
+country:
+- Macedonia
+layout: project
 ---
 
-The Republic of Macedonia has made decentralization and the promotion of democratic local governance a principal part of its commitment to restore, revitalize, and expand democratic practices. The goal of MMMS was to provide technical assistance and training to local governments to improve their ability to undertake their new responsibilities in school management. ![][1]
+The Republic of Macedonia has made decentralization and the promotion of democratic local governance a principal part of its commitment to restore, revitalize, and expand democratic practices. The goal of the Municipal Management of Macedonian Schools (MMMS) project was to provide technical assistance and training to local governments to improve their ability to undertake their new responsibilities in school management. 
+
+![][1]
 
 ###  Sample Activities
 
@@ -29,7 +30,7 @@ The Republic of Macedonia has made decentralization and the promotion of democra
 * Provide direct technical assistance to eight municipalities.
 * Develop best practice models of local education management.
 
-###  Select Results
+### Select Results
 
 * Created and published a registry of schools for all eight partner municipalities, including assessments of the technical conditions and the relative urgency of needed interventions.
 * Published a manual on how to assess schools.
