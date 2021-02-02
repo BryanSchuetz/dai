@@ -20,7 +20,7 @@ The Technical Assistance to AFIKEPO Nutrition Programme was designed to achieve 
 
 Our team supports the relevant line ministries, training institutions, and the targeted districts to appraise, plan, and implement activities in a qualitative manner while maintaining a focus on good governance and support coordination and communication and operational research.
 
-[A woman shows how she preerves her vegetales using a sun drier.JPG](/uploads/A%20woman%20shows%20how%20she%20preerves%20her%20vegetales%20using%20a%20sun%20drier.JPG)
+![A woman shows how she preerves her vegetales using a sun drier.JPG](/uploads/A%20woman%20shows%20how%20she%20preerves%20her%20vegetales%20using%20a%20sun%20drier.JPG)
 
 ### Sample Activities
 
