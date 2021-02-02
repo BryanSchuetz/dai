@@ -20,6 +20,8 @@ This project works to increase the value of traded timber products, strengthen f
 
 The forest sector plays a key role in Liberia’s sustainable socioeconomic development, poverty reduction, and economic growth. FLEGT-VPA aims to reduce risk of civil conflict through improvements in forest governance and sustainable forest management.
 
+![Liberia VPA-SU_2.jpg](/uploads/Liberia%20VPA-SU_2.jpg)
+
 ### Sample Activities
 
 * Build on [earlier results](https://www.dai.com/our-work/projects/liberia-support-unit-liberia-flegt-voluntary-partnership-agreement-vpa) that established systems, institutions, and capacity for the VPA, and further transfer the responsibility for VPA from donors to the Government of Liberia.
