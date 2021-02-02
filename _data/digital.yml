@@ -1,4 +1,17 @@
 
+- title: "Towards Inclusive Machine Translation: A Case for User-Centered Design in Machine Learning"
+  pub: "Digital"
+  date: 2021-01-28
+  link: "https://dai-global-digital.com/understanding-user-centered-design-for-machine-learning.html?utm_source=daidotcom"
+  summary: "In November 2020, Masakhane, a grassroots natural language process (NLP) community whose “mission is to strengthen and spur NLP in African languages, for Africans, by Africans,” published a paper titled “Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages.” Machine translation refers to the use of software to translate digital and nondigital text and speech from one language into another. Google Translate is one of the more common examples of machine translation. Most of us have experienced issues translating text, especially sentences and phrases, as Google Translate often has difficulty detecting meaning and context. Due to these challenges, it can often give users incorrect word-for-word translations. (In your free time, search for the #GoogleTranslateFail hashtag on Twitter for a whole host of mistranslated content and a good laugh.)
+
+Google Translate, and other mainstream machine translation tools, are also limited in the number of languages they are able to translate. As of today, Google Translate offers support for only 108 of the more than 7,000 languages spoken across the globe. Many of the languages that are not supported are what machine learning researchers consider to be “low-resourced,” a term used to describe languages that have few digital resources available and, more importantly, that are less commonly taught, endangered, or low density. The Masakhane paper outlines an alternative “participatory” approach for low-resourced languages to standard NLP tasks such as crowd-sourced annotation for training data and evaluation benchmarks. To learn more about the basics of NLP, head to our previous blog post on the importance of NLP in development."
+  tags:
+    - digital acceleration 
+    - Machine Learning 
+    - Human-centered design 
+    - Digital Inclusion 
+
 - title: "Consent to Data Processing in Humanitarian and Development Contexts, Part 2: Beyond Consent"
   pub: "Digital"
   date: 2021-01-21
@@ -224,17 +237,4 @@ Technology has served as both an advantage and a hindrance during COVID-19 digit
     - COVID-19 
     - Digital Privacy 
     - Digital Security 
-
-- title: "Cybersecurity Frontier Insights Findings: User Perceptions of Trust and Privacy on the Internet"
-  pub: "Digital"
-  date: 2020-10-22
-  link: "https://dai-global-digital.com/cybersecurity-frontier-insights-findings-user-perceptions-of-trust-and-privacy-on-the-internet.html?utm_source=daidotcom"
-  summary: "Last week we shared that the Center for Digital Acceleration was launching our most recent Cybersecurity Frontier Insights research into user perceptions of trust and privacy in India and Ghana. Here are the findings from that report, which can be downloaded here.
-
-Since the creation of the internet more than 30 years ago, our lives, economies, and societies have changed dramatically and the restrictions of the COVID-19 pandemic have accelerated change even more. As we’ve developed seemingly endless new methods of online communication, commerce, and civic participation, the international development community has become more acutely aware of a growing digital divide: those who are poor, rural, remote, illiterate, female, or living with disabilities in emerging markets risk being excluded from the benefits of digital transformation. Therefore, especially in recent years and months, we’ve seen valiant efforts from governments, private companies, and the development community to bridge digital gaps aiming to enable more people to access and benefit from online services. However, as access and use has increased, so has the number of digital risks, with data breaches, fraud, surveillance, and cybercrime on the rise globally."
-  tags:
-    - digital acceleration 
-    - Privacy 
-    - Cybersecurity 
-    - Trust 
 
