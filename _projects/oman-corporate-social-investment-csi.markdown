@@ -1,5 +1,5 @@
 ---
-title: Oman Corporate Social Investment Benchmarking Study
+title: Oman—Corporate Social Investment Benchmarking Study
 date: 2020-01-10 18:54:00 Z
 summary: DAI’s Sustainable Business Group (SBG) completed a rapid desktop benchmarking
   study comparing social investment spend and initiatives across seven major oil and
