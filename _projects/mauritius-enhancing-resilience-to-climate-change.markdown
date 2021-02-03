@@ -1,7 +1,7 @@
 ---
 title: Mauritius—Enhancing Resilience to Climate Change
 date: 2019-03-08 20:40:00 Z
-summary: DAI works with the Government of Mauritius to improve capacity and coordination
+summary: DAI worked with the Government of Mauritius to improve capacity and coordination
   across key institutions dealing with climate change.
 start: 2018
 end: 2020
@@ -12,9 +12,9 @@ regions: Sub-Saharan Africa
 country: Mauritius
 ---
 
-DAI works with the Government of Mauritius to improve capacity and coordination across key institutions dealing with climate change, including the Ministry of Environment and Sustainable Development, the Land Drainage Authority, and the National Disaster Risk Reduction and Management Centre. 
+DAI worked with the Government of Mauritius to improve capacity and coordination across key institutions dealing with climate change, including the Ministry of Environment and Sustainable Development, the Land Drainage Authority, and the National Disaster Risk Reduction and Management Centre. 
 
-The team fosters the integration of climate change adaptation and risks in the government’s public policies and sectors such as coastal zone land planning, disaster risk management, and drainage.
+The team fostered the integration of climate change adaptation and risks in the government’s public policies and sectors such as coastal zone land planning, disaster risk management, and drainage.
 
 ![Mauritius-Climate.jpg](/uploads/Mauritius-Climate.jpg "Photo: Ludovic Lubeigt")
 
