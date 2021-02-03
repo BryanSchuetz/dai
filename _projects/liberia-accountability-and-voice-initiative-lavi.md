@@ -18,6 +18,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Liberia
+promos:
+- title: Gender-Based Violence on the Rise in the COVID-19 Era
+  link: https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era
 layout: project
 ---
 
