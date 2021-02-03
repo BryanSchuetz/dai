@@ -16,7 +16,7 @@ regions:
 country:
 - Nigeria
 promos:
-- title: "**Article**: _Chevron’s Corporate Social Enterprise in Nigeria​_"
+- title: Chevron’s Corporate Social Enterprise in Nigeria​
   link: "/uploads/Great_Insights_Kaplan_PIND.pdf"
 - title: Chevron’s Nigerian Initiative Found to Decrease Business Risk, Attract Local
     Investment, and "Bring Hope"
