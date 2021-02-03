@@ -24,6 +24,8 @@ promos:
   link: https://dai-global-developments.com/articles/curbing-irregular-migration-shifting-focus-from-the-american-dream-to-the-honduran-reality
 - title: Evidence-based Programming
   link: "/uploads/honduras-abreviated.pdf"
+- title: 'Development During Quarantine: Lessons from Four USAID Projects'
+  link: https://dai-global-developments.com/articles/development-during-quarantine-lessons-from-four-usaid-projects
 ---
 
 A major impediment to Honduran students’ success is violence in and around schools, which can lead to life-long negative behavior that impacts Honduran society and beyond. Preventing that violence is critical to enabling at-risk youth to [stay in school](https://dai-global-developments.com/articles/safe-learning-spaces-in-honduras-curb-undocumented-migration), contributing to better academic outcomes, improved lives, reduced crime, and stronger communities.
