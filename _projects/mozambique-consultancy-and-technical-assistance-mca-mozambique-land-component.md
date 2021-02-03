@@ -1,12 +1,10 @@
 ---
 title: Mozambique—Consultancy and Technical Assistance to the MCA Land Component
 date: 2016-01-21 22:40:00 Z
-summary: 'Land administration in Mozambique has been seriously under-resourced, and
+summary: Land administration in Mozambique has been seriously under-resourced, and
   needed new, modern systems in place to be able to deal with the increasing demands
   being placed upon it. The principal aim of this support programme to four provinces
   was to improve the efficiency of the land rights management and registration system.
-
-'
 start: 2009
 end: 2013
 client: Millennium Challenge Account
@@ -18,6 +16,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Mozambique
+promos:
+- title: Monitoring Our Assumptions
+  link: https://dai-global-developments.com/articles/monitoring-our-assumptions
 layout: project
 ---
 
