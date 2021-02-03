@@ -21,6 +21,8 @@ promos:
 - title: Partnering and Coordination for Resilience in Kenya’s Northern Arid and Semiarid
     Lands
   link: https://www.agrilinks.org/post/partnering-and-coordination-resilience-kenyas-northern-arid-and-semiarid-lands
+- title: 'Development During Quarantine: Lessons from Four USAID Projects'
+  link: https://dai-global-developments.com/articles/development-during-quarantine-lessons-from-four-usaid-projects
 ---
 
 Policy LINK strengthens the leadership capacity of public, private, and civil society actors and fosters collective action among them to transform policy systems. Building on the successes of [Africa Lead](https://www.dai.com/our-work/projects/africa-africa-lead-ii)’s nearly decade of programming, Policy LINK does this through a range of core services, including:
