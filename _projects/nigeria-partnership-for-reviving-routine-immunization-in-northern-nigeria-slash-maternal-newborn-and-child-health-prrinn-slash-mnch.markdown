@@ -37,7 +37,7 @@ A broad range of indicators provide strong evidence of value for money and lives
 ### Select Results
 
 * Developed one of the largest and enduring community engagement and mobilization initiatives in Northern Nigeria, resulting in large increases in demand for child immunization and MNCH services. 
-* Developed and implemented a human resource (HR) information system that was used to capture baseline HR information, plan for equitable distribution of health workers, and support administration of human resources.
+* Developed and implemented a human resource information system that was used to capture baseline information, plan for equitable distribution of health workers, and support the administration of human resources.
 * Rolled out the District Health Information Systems 2 (DHIS2), in collaboration with Health Information Systems Program – Nigeria (HISP Nigeria) and also successfully pioneered the use of the mobile version of the software, revolutionizing access to health data across the country.
 * Doubled percentage rates of women receiving antenatal care and delivering with a skilled birth attendant, from 25 to 51 percent and from 11 to 27 percent, respectively.
 * Reduced child mortality—by 41 percent in the under-5 mortality rate and by 44 percent in the infant mortality rate.
