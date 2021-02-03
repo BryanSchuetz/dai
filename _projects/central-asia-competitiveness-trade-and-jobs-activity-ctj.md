@@ -27,6 +27,9 @@ promos:
 - title: 'Opening a Gateway to Tajik Watermelons:  Leveraging New Markets to Support
     Smallholder Farmers in Tajikistan'
   link: https://usaidcentralasia.exposure.co/opening-a-gateway-for-tajik-watermelons?fbclid=IwAR3Sx4h7W6G0LHJHeterz6Cp2H0nKbizcqcB3gJCw2ahvwSM80Wa0tG4f4c
+- title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
+    of COVID-19
+  link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
 layout: project
 ---
 

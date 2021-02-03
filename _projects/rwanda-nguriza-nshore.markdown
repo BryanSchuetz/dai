@@ -12,6 +12,10 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Rwanda
+promos:
+- title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
+    of COVID-19
+  link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
 ---
 
 By all accounts, Rwanda’s economic outlook is [strong and positive](https://www.dai.com/news/dai-set-to-launch-usaid-small-business-growth-program-in-rwanda). An increasingly attractive investment climate makes Rwanda a favorable environment for business startups, entrepreneurship, technology-driven businesses, and the private sector—and has the ability to deliver on the government’s promises of prosperity and opportunity for all its citizens. Despite this environment, structural challenges continue to constrain small and medium-sized enterprise growth and potential, particularly in critical areas such as access to finance, business growth and profitability, and job creation.  

@@ -30,7 +30,7 @@ Like with its successful [PolSEFF](/our-work/projects/poland-polish-sustainable-
 
 The €110 million allocated to MorSEFF includes financial contributions from EBRD, Agence Française de Développement (AFD), Kreditanstalt für Wiederaufbau (KfW), the European Investment Bank (EIB), and the European Union (EU). Those funds were on-lent to industrial companies willing to invest in green-energy equipment and complemented by EU-funded technical assistance or grants to participating companies.  
 
-Investments supported by MorSEFF have resulted in 207,289 megawatt hours of annual energy savings and helped avoid 102,725 tons of CO2 equivalent emissions annually.
+Investments supported by MorSEFF resulted in 207,289-megawatt hours of annual energy savings and helped avoid 102,725 tons of CO2 equivalent emissions annually.
 
 <iframe src="https://player.vimeo.com/video/288153357" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
