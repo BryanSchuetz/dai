@@ -1,7 +1,6 @@
 ---
 title: Malawi—Local Government Accountability and Performance (LGAP)
 date: 2017-01-10 18:54:00 Z
-'2021': 
 summary: To ensure more citizens benefit from the effects of decentralization, the
   Local Government Accountability and Performance activity works across eight districts
   to improve local government performance and transparency, increase citizen engagement,
