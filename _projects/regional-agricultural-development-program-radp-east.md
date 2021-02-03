@@ -17,6 +17,10 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
+promos:
+- title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
+    of COVID-19
+  link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
 layout: project
 ---
 
