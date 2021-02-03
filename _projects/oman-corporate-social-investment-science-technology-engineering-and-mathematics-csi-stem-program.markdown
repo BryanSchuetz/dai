@@ -1,11 +1,11 @@
 ---
-title: Oman Corporate Social Investment Science, Technology, Engineering, and Mathematics
+title: Oman—Corporate Social Investment Science, Technology, Engineering, and Mathematics
   (CSI STEM) Program
 date: 2020-01-10 19:25:00 Z
 summary: 'DAI’s Sustainable Business Group (SBG) is designing and implementing a flagship
   social investment initiative for a large Omani conglomerate. '
 start: 2019
-end: 2020
+end: 2021
 client: Omani conglomerate
 solutions:
 - Sustainable Business
