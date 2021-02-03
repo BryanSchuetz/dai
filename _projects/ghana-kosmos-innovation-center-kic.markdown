@@ -27,6 +27,8 @@ promos:
   link: https://www.dai.com/news/kosmos-innovation-center-wins-prestigious-2018-p3-impact-award
 - title: Building the Future of TechEnabled Agriculture
   link: https://www.dai.com/uploads/kic-27672d.pdf
+- title: Commercializing Agricultural Innovations in the Age of COVID-19
+  link: https://dai-global-developments.com/articles/commercializing-agricultural-innovations-in-the-age-of-covid-19
 End: 
 ---
 
