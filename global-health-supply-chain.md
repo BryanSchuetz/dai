@@ -20,7 +20,7 @@ summary: 'COVID-19 has surfaced vulnerabilities in global supply chains, forcing
 layout: node
 ---
 
-## An Innovative and Holistic Approach 
+## An Innovative and Holistic Approach to Supply Chain Management
 
 DAI’s comprehensive approach to supply chain management is premised on working with local partners to build their capacity to tackle supply chain challenges in the following areas:
 
