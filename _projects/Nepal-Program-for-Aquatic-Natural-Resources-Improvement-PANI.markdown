@@ -5,7 +5,7 @@ summary: The Paani program works with local and national counterparts to conserv
   freshwater biodiversity and implement sustainable water management practices in
   Nepal.
 start: 2016
-end: 2020
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Natural Resource Management
@@ -17,6 +17,8 @@ promos:
 - title: 'Enhancing Watershed Management: Integrated Water Resources Management in
     Nepal'
   link: https://medium.com/@bridgebiointegration/investing-in-prosperity-5c1e8622df4b
+- title: Clean Water for All by 2030. No, Really
+  link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 ---
 
 The water that courses through Nepal’s great Karnali, Mahakali, and [Rapti river](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e?fbclid=IwAR1Sn6NagFFnLHUHi48zZFs93-zO0lzB1GbhF3zK537USnhWPFheNRgG_Ik) basins irrigates the region’s farmland and sustains the health of its people, while also providing a critical habitat for diverse freshwater species and propelling the hydroelectric dams that help to power the country. However, important water resources such as these are increasingly strained by population growth, climate change, and indiscriminate use—stressors that will become more severe if left unchecked.
