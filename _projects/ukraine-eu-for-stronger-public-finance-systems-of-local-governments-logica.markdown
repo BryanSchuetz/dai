@@ -14,6 +14,10 @@ solutions:
 - Public Financial Management
 regions: Eastern Europe and Central Asia
 country: Ukraine
+promos:
+- title: Fiscal Decentralization Builds Citizen Trust, Positions Ukraine for European
+    Future
+  link: https://dai-global-developments.com/articles/fiscal-decentralization-builds-citizen-trust-positions-ukraine-for-european-future
 ---
 
 In April 2017, the Government of Ukraine released a Medium-Term Government Priority Action Plan up to 2020. Among the five main goals of the plan was achieving effective governance, as a result of the public administration, decentralization, and public finance reform. 
