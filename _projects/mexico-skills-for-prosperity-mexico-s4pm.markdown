@@ -1,8 +1,8 @@
 ---
 title: Mexico—Skills for Prosperity Mexico (S4PM)
 date: 2019-12-18 15:14:00 Z
-summary: The Skills for Prosperity Mexico (S4PM) project works to prepare learners
-  to go from the classroom to the workforce with the right skills for the marketplace.
+summary: The Skills for Prosperity Mexico project works to prepare learners to go
+  from the classroom to the workforce with the right skills for the marketplace.
 start: 2020
 end: 2023
 client: Foreign, Commonwealth & Development Office
@@ -14,11 +14,11 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The Skills for Prosperity Mexico (S4PM) Programme aims to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
+The Skills for Prosperity Mexico (S4PM) Programme works to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
  
-Achieving inclusive economic growth and poverty reduction will require changing the way government, private sector and training providers work together. The United Kingdom is a leader in these kinds of Education-to-Employment (E2E) partnerships. Through S4PM, DAI will draw on best practices both from Britain’s experience and from promising Mexican models of public-private collaboration to strengthen E2E partnerships nationwide.
+Achieving inclusive economic growth and poverty reduction will require changing the way government, private sector, and training providers work together. The United Kingdom is a leader in these kinds of Education-to-Employment (E2E) partnerships. Through S4PM, DAI draws on best practices both from Britain’s experience and from promising Mexican models of public-private collaboration to strengthen E2E partnerships nationwide.
  
-S4PM will work to increase market relevance of technical and vocational qualifications, as well as the quality of those qualifications in the classroom. Even more important is increasing equity. Marginalised youth will have access to higher-quality and market-aligned vocational training and higher education that will put them on pathways to better quality jobs and increased incomes.
+S4PM works to increase market relevance of technical and vocational qualifications, as well as the quality of those qualifications in the classroom. Even more important is increasing equity. Marginalised youth will have access to higher-quality and market-aligned vocational training and higher education that will put them on pathways to better quality jobs and increased incomes.
 
 ![Mexico Skills.jpg](/uploads/Mexico%20Skills.jpg)`Photo courtesy: International Youth Foundation.`
 

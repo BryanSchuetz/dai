@@ -13,8 +13,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: Mexico
 promos:
-- title: '"Finding solutions in the sandbox: The Sandbox Challenge was an example
-    of innovation"'
+- title: 'Finding Solutions in the Sandbox: The Sandbox Challenge was an Example of
+    Innovation'
   link: https://www.excelsior.com.mx/opinion/london-eye/encontrando-soluciones-en-el-arenero/1404217
 ---
 
