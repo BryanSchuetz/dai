@@ -2,10 +2,10 @@
 title: Nigeria—State Partnership for Accountability, Responsiveness, and Capability
   (SPARC)
 date: 2016-01-21 22:40:00 Z
-summary: Nigeria is Africa’s largest economy. However, despite its economic dynamism,
-  Nigeria’s inefficient resource management, widespread corruption, and a lack of
-  accountability have undermined the government’s ability to translate this economic
-  progress into inclusive growth and improved public services.
+summary: 'The former U.K. Department for International Development (now called Foreign,
+  Commonwealth & Development Office) launched the State Partnership for Accountability,
+  Responsiveness, and Capability to support the Nigerian government in better managing
+  resources and providing more responsive and accountable services. '
 start: 2008
 end: 2016
 client: Foreign, Commonwealth & Development Office
@@ -37,8 +37,8 @@ Over eight years, SPARC enabled responsive policy formulation and performance-fo
 ### Sample Activities
 
 * Supporting 10 state governments to undertake self-assessments of performance for collective corrective action and improving governance using innovative tools based on the Public Expenditure Financial Accountability assessment framework.
-* Working though the Federal Government and Federal agencies such as the Nigeria Governors Forum to leverage reform in specific states and throughout the Federal Republic, including fragile states.
-* Improving budgetary performance, including internally generated revenue, to support delivery of better government services in health, education and economic growth, especially for marginalised groups.
+* Working through the Federal Government and Federal agencies such as the Nigeria Governors Forum to leverage reform in specific states and throughout the Federal Republic, including fragile states.
+* Improving budgetary performance, including internally generated revenue, to support delivery of better government services in health, education, and economic growth, especially for marginalised groups.
 
 ### Select Results
 
