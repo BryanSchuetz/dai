@@ -15,6 +15,10 @@ solutions:
 - 
 regions: Eastern Europe and Central Asia
 country: Pakistan
+promos:
+- title: How EuropeAid’s Pakistan BRACE Programme is Engaging Communities in the COVID-19
+    Era
+  link: https://dai-global-developments.com/articles/how-europeaids-pakistan-brace-programme-is-engaging-communities-in-the-covid-19-era
 ---
 
 DAI supports the Government of Balochistan with the implementation of the Rural Development and Community Empowerment (BRACE) Programme. Within the BRACE Programme, the EU-funded BRACE TA Project supports the Government of Balochistan in reducing the negative impact of poverty and social inequality, and to turn this into opportunities to build and empower resilient communities participating actively in implementing socio-economic development activities in partnership with local authorities. The technical assistance focuses on developing a provincial policy and fiscal framework to better facilitate community-driven socioeconomic development interventions with empowered citizens and communities.
