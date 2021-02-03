@@ -3,9 +3,9 @@ title: Mozambique—Supporting the Policy Environment for Economic Development (
   SPEED+)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Supporting the Policy Environment for Economic Development+ program
-  is helping to create a favorable business environment in Mozambique to attract investment
-  and expand markets, with the goal of contributing to inclusive economic growth and
-  the conservation of natural resources. '
+  helped create a favorable business environment in Mozambique to attract investment
+  and expand markets, contributing to inclusive economic growth and the conservation
+  of natural resources. '
 start: 2016
 end: 2020
 client: U.S. Agency for International Development
@@ -26,9 +26,9 @@ promos:
 layout: project
 ---
 
-Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. With a pressing [need to reform](http://dai-global-developments.com/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/) the country’s business policies and strengthen private sector participation, the U.S. Agency for International Development (USAID) initiated the Support Program for Economic and Enterprise Development (SPEED), implemented by DAI from 2010 to 2015. Over the course of the program, [SPEED successfully expanded policy reforms](http://dai-global-developments.com/articles/reforming-business-policy-mozambique?utm_source=daidotcom) that increased trade and investment, the competitiveness of Mozambican firms, and local job opportunities and incomes.
+Mozambique has been engaged in economic policy reform since its first democratic elections in 1994. With a pressing [need to reform](http://dai-global-developments.com/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience/) the country’s business policies and strengthen private sector participation, the U.S. Agency for International Development (USAID) initiated the Support Program for Economic and Enterprise Development (SPEED), implemented by DAI from 2010 to 2015. Over the course of the program, SPEED successfully [expanded policy reforms](http://dai-global-developments.com/articles/reforming-business-policy-mozambique?utm_source=daidotcom) that increased trade and investment, the competitiveness of Mozambican firms, and local job opportunities and incomes.
 
-To build upon this momentum, the USAID-funded Supporting the Policy Environment for Economic Development ([SPEED\+](http://www.speed-program.com/)) program works to further develop a favorable business environment to attract investment and expand markets, with the goal of contributing to inclusive economic growth and the conservation of natural resources. Working with consortium partner Nathan Associates, DAI is helping to [advance reforms](https://www.dai.com/news/dais-ian-rose-on-legal-reform-in-the-land-sector) in key areas such as agriculture, trade and investment, power, water, and biodiversity conservation, while also improving government transparency and fostering new public-private partnerships.
+To build upon this momentum, the USAID-funded Supporting the Policy Environment for Economic Development ([SPEED\+](http://www.speed-program.com/)) program further developed a favorable business environment to attract investment and expand markets, contributing to inclusive economic growth and the conservation of natural resources. Working with consortium partner Nathan Associates, DAI helped [advance reforms](https://www.dai.com/news/dais-ian-rose-on-legal-reform-in-the-land-sector) in key areas such as agriculture, trade and investment, power, water, and biodiversity conservation, while also improving government transparency and fostering new public-private partnerships.
 
 ![SPEED  photo.jpg](/uploads/SPEED%20%20photo.jpg)
 
@@ -44,7 +44,7 @@ To build upon this momentum, the USAID-funded Supporting the Policy Environment 
 
 * Assisted in reviewing the National Commercial Code for the Mozambique Council of Ministers, which will simplify the process of registering and starting a business in Mozambique.
 * Developed a decree to establish the National Trade Facilitation Committee, which coordinates, supervises, and monitors implementation of the World Trade Organization Trade Facilitation Agreement.
-* Supported industry associations to successfully advocate for removal of the Nacala Special Import Tax, which increases the competitiveness of Mozambique’s exports by reducing the cost of outbound shipping containers by $400 each.
+* Supported industry associations to successfully advocate for the removal of the Nacala Special Import Tax, which increases the competitiveness of Mozambique’s exports by reducing the cost of outbound shipping containers by $400 each.
 * Created a comprehensive guide for implementing Mozambique’s [land legislation](https://dai-global-developments.com/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience) and trained Ministry of Agriculture staff in its use.
-* Collaborated with USAID’s Power Africa initiative help Mozambique create a [new independent energy regulator](https://medium.com/power-africa/mozambique-gets-new-energy-regulator-c67b8b95d516), the Energy Regulatory Authority.
+* Collaborated with USAID’s Power Africa initiative to help Mozambique create a [new independent energy regulator](https://medium.com/power-africa/mozambique-gets-new-energy-regulator-c67b8b95d516), the Energy Regulatory Authority.
 * [Supported counterparts](https://www.land-links.org/project/mozambique-support-program-for-economic-and-enterprise-development-plus-speed/) at the Ministry of Land, Environment, and Rural Development to complete a package of four priority land law and administration reforms that will enhance accessibility and security of formal land tenure, and stimulate an increase in land-based investment by clarifying, simplifying, and providing more certainty on land use titles. 
