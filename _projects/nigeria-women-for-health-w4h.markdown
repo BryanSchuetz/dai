@@ -11,6 +11,10 @@ solutions:
 - Gender and Social Inclusion
 regions: Sub-Saharan Africa
 country: Nigeria
+promos:
+- title: UK Aid Has Helped a Generation of Women in Rural Nigeria to Become Health
+    Workers
+  link: https://www.globalcitizen.org/en/content/uk-aid-thousands-women-nurses-nigeria/
 ---
 
 Nigeria has the [highest number of maternal deaths in Sub-Saharan Africa](https://devex.shorthandstories.com/care-amid-conflict/index.html) and high rates of under-5 child mortality. These indicators are even more severe in northern Nigeria, where up to 90 percent of pregnant women deliver their babies without a skilled birth attendant. States such as Yobe and Borno are particularly fragile, suffering insurgency which has terrorised young women. Female health workers are particularly important in the north of the country because social norms in rural communities can prohibit women from receiving care from male health workers.
@@ -23,7 +27,7 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 
 ![women4health.jpg](/uploads/women4health.jpg)
 
-###  Sample Activities
+### Sample Activities
 
 * Improving the capacity of colleges of nursing and midwifery and colleges of health technology to train female health workers, improving the accreditation status and training capacity of health training colleges, and increasing graduation rates.
 * Improving the recruitment, deployment, and retention of midwives in rural facilities while implementing a Foundation Year Training Programme, or access course, for rural women to improve their academic credentials, study skills, and confidence to enter health worker training.
@@ -51,4 +55,3 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 * Supported trauma assessment for those affected by trauma to become midwives and nurses with the World Health Organisation.
 
 *Find open and [free access to the W4H materials](https://learninghub4hrh.org/) on Human Resources for Health, hosted by the Center for Gender Studies of Bayero University in Kano.*
- 

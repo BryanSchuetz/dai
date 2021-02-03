@@ -26,6 +26,8 @@ promos:
 - title: 'Pivoting in a Pandemic: Youth in USAID’s Bridges to Employment Project Create
     Essential Supplies for Healthcare Workers'
   link: https://www.edu-links.org/learning/youth-usaids-bridges-employment-project-create-essential-supplies-healthcare-workers#.X5nNanxUqHw.twitter
+- title: Six Ways to Mitigate Instability in Central America
+  link: https://dai-global-developments.com/articles/mitigating-instability-in-central-america
 layout: project
 ---
 

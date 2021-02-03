@@ -5,7 +5,7 @@ summary: The Liberia Accountability and Voice Initiative is improving the citize
   relationship in Liberia by supporting coalitions and advocacy campaigns that promote
   public sector accountability.
 start: 2015
-end: 2020
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Governance
@@ -21,20 +21,19 @@ country:
 layout: project
 ---
 
-The Liberia Accountability and Voice Initiative (LAVI) is improving the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability.
-LAVI brings together diverse stakeholders to form coalitions around themes that include improving natural resource management (NRM) and enhancing the education system. 
+The Liberia Accountability and Voice Initiative (LAVI) is improving the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability. LAVI brings together diverse stakeholders to form coalitions around themes that include improving natural resource management (NRM) and enhancing the education system. 
 
 The project also works with partners from civil society, the private sector, and government to conduct advocacy activities to reform laws, policies, and government programs. To support sustainability in the work of its partners, LAVI builds the capacity of coalitions in research, fundraising, outcome monitoring, and communication. 
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Provide in-kind grants and support for government agencies involved in NRM to conduct community outreach activities.
 * Train local small businesses to provide organizational development services to civil society groups, government agencies, and the private sector.
 * Support coalition partners in developing communication strategies and materials and conducting public relations activities.
 
-###  Select Results
+### Select Results
 
 * Facilitated eight civil society organizations in coming together to form the NRM Coalition to advocate for reforms to County Social Development Funds, which collect and distribute funds from extractive concessions to community development projects.
 * Supported the NRM Coalition in conducting surveys and focus group discussions in Liberia’s 15 counties to inform the creation of a roadmap for advocacy efforts.

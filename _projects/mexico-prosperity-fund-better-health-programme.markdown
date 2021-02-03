@@ -11,6 +11,14 @@ solutions:
 - Global Health
 regions: Latin America and the Caribbean
 country: Mexico
+promos:
+- title: 'VIDEO: Interview with Expert Rosa Zárate, National School of Nursing and
+    Obstetrics, National Autonomous University of Mexico '
+  link: https://dai-assets.s3.amazonaws.com/videos/entrevista-rosa.mp4
+- title: 'VIDEO: Interview with Liz Fenton, Health Education England'
+  link: https://dai-assets.s3.amazonaws.com/videos/liz-fenton.mp4
+- title: 'VIDEO: Advanced Nursing Practice'
+  link: https://dai-assets.s3.amazonaws.com/videos/nursing-1.mp4
 ---
 
 The Better Health Programme Mexico (BHPMx) is part of the U.K. Global Prosperity Fund Better Health Programme that covers eight countries. The DAI-managed programme addresses the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health. 

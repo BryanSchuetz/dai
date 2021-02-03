@@ -1,13 +1,10 @@
 ---
 title: Malawi—Local Government Accountability and Performance (LGAP)
 date: 2017-01-10 18:54:00 Z
-'2021': 
-summary: Over 20 years since its first multi-party elections, the government of Malwai
-  is renewing efforts to decentralize government power, based on the principle that
-  sustainable socioeconomic development is best achieved when decisions are made at
-  the local level. Despite an initially strong legal framework for local governance,
-  institutional tensions as well as confusion over roles and responsibilities between
-  levels of government continues to hinder successful decentralization.
+summary: To ensure more citizens benefit from the effects of decentralization, the
+  Local Government Accountability and Performance activity works across eight districts
+  to improve local government performance and transparency, increase citizen engagement,
+  and strengthen the enabling environment for decentralization in Malawi.
 start: 2016
 end: 2021
 client: 'U.S. Agency for International Development, U.K. Foreign, Commonwealth & Development
@@ -20,7 +17,7 @@ solutions:
 regions: Sub-Saharan Africa
 country: Malawi
 promos:
-- title: LGAP SUPPORT TO COVID-19 RESPONSE IN MALAWI
+- title: LGAP Support to COVID-19 Response in Malawi
   link: "/uploads/COVID%20FLIER.pdf"
 ---
 
@@ -45,7 +42,7 @@ View Episodes Two and Three [here](https://player.vimeo.com/video/250615890) and
 
 * Provided integrated financial management information system training to every single finance staff and non-finance manager responsible for approving spending in all 28 districts of Malawi. 
 * Improved government human resources function by aligning payroll with an accurate headcount; conducting vacancy analysis; updating staff returns; review of personal emoluments; clarifying terms and conditions of service, and working conditions; and supporting recruitment.
-* Developed a Teacher-Performance Assessment System, revamped the school inspection system to uphold national standards, and developed professional certification for teachers.
+* Developed a Teacher-Performance Assessment System, revamped the school inspection system to uphold national standards, and developed a professional certification for teachers.
 * Developed public expenditure tracking tools.  
 
 <iframe src="https://player.vimeo.com/video/273965892" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
