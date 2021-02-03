@@ -12,6 +12,9 @@ solutions:
 - Institutional and Policy Reform
 regions: Eastern Europe and Central Asia
 country: Ukraine
+promos:
+- title: 'Stay the Course: A Decade of Focus on Economic Reforms Pays off in Ukraine'
+  link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
 ---
 
 After years of oligarchic control, the closing of more than 70 banks, and a threefold currency devaluation, the Ukrainian financial sector remains fragile and in need of a massive overhaul. On the commercial side, these pressures have curtailed the growth of small and medium enterprises (SMEs) by making financing less accessible and driving prohibitively high interest rates. Meanwhile, consumers have lost both money and trust in the banking system after the 2009 financial crisis, opting out of using banks altogether and converting their salaries directly to cash on payday. Continued strains such as these have brought the country's financial sector dangerously close to the point of collapse.
