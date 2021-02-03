@@ -15,6 +15,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Mozambique
+promos:
+- title: 'Empowering Women: Lessons from COVID-19 and Beyond'
+  link: https://dai-global-developments.com/articles/empowering-women-lessons-from-covid-19-and-beyond
 layout: project
 ---
 
