@@ -17,6 +17,10 @@ solutions:
 - Public Financial Management
 regions: Sub-Saharan Africa
 country: Regional
+promos:
+- title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
+    of COVID-19
+  link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
 ---
 
 The  U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (USAID TradeHub) engages with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supports these objectives by increasing exports from southern African countries to South Africa and the United States (under the African Growth and Opportunity Act [AGOA]), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The USAID TradeHub works with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
