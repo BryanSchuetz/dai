@@ -13,6 +13,9 @@ regions:
 - Asia and the Pacific
 country:
 - Pakistan
+promos:
+- title: Trade in the Time of COVID-19—Risk or Opportunity?
+  link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
 layout: project
 ---
 
