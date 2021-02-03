@@ -16,20 +16,20 @@ regions:
 country:
 - Nigeria
 promos:
-- title: "**Stories of Change**: _Green Bonds _"
-  link: https://www.pdfnigeria.org/rc/nigeria-sovereign-green-bonds-for-climate-action/
-- title: "**Stories of Change**: _Power_"
-  link: 'https://www.pdfnigeria.org/rc/powering-rural-nigeria-with-clean-and-affordable-energy/ '
-- title: "**Stories of Change**: _Mining_"
-  link: 'https://www.pdfnigeria.org/rc/reviving-the-mines-and-steel-industry-to-diversify-the-nigerian-economy/ '
-- title: "**Stories of Change**: _Trade_"
-  link: 'https://www.pdfnigeria.org/rc/afcfta-nigeria-signs-up/ '
-- title: "**Stories of Change**: _Improving Communications of the Nigerian Sovereign
-    Investment Authority_"
-  link: "/uploads/Improving-Communications-of-the-Nigeria-Sovereign-Investment-Authority-NSIA.pdf"
 - title: 'It’s Getting Easier to Do Business in Nigeria: How DFID’s Award-Winning
     Policy Development Facility Supported Reform'
   link: https://dai-global-developments.com/articles/its-getting-easier-to-do-business-in-nigeria-how-dfids-award-winning-policy-development-facility-supported-reform
+- title: "**Stories of Change**:  Green Bonds"
+  link: https://www.pdfnigeria.org/rc/nigeria-sovereign-green-bonds-for-climate-action/
+- title: "**Stories of Change**: Power"
+  link: 'https://www.pdfnigeria.org/rc/powering-rural-nigeria-with-clean-and-affordable-energy/ '
+- title: "**Stories of Change**: Mining"
+  link: 'https://www.pdfnigeria.org/rc/reviving-the-mines-and-steel-industry-to-diversify-the-nigerian-economy/ '
+- title: "**Stories of Change**: Trade"
+  link: 'https://www.pdfnigeria.org/rc/afcfta-nigeria-signs-up/ '
+- title: "**Stories of Change**: Improving Communications of the Nigerian Sovereign
+    Investment Authority"
+  link: "/uploads/Improving-Communications-of-the-Nigeria-Sovereign-Investment-Authority-NSIA.pdf"
 layout: project
 ---
 
