@@ -18,6 +18,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Liberia
+promos:
+- title: 'Development During Quarantine: Lessons from Four USAID Projects'
+  link: https://dai-global-developments.com/articles/development-during-quarantine-lessons-from-four-usaid-projects
 layout: project
 ---
 
