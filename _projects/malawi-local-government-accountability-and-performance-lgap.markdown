@@ -19,6 +19,8 @@ country: Malawi
 promos:
 - title: LGAP Support to COVID-19 Response in Malawi
   link: "/uploads/COVID%20FLIER.pdf"
+- title: Gender-Based Violence on the Rise in the COVID-19 Era
+  link: https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era
 ---
 
 More than 20 years have passed since Malawi held its first multi-party elections. The government is now renewing its efforts to decentralize—based on the principle that sustainable socioeconomic development is best achieved when decisions are made locally. Institutional tensions and confusion over responsibilities between government units continue to hinder successful decentralization, despite having a strong governance framework in place. District budgets are still allocated by the central government with little local input, political patronage and lack of supervision have led to a cycle of poor performance by public servants, and crucial information is not shared between levels of government. Pervasive constraints such as these contribute to the failure of local governments to deliver basic services to citizens, which undermines government credibility and public faith in the system.
