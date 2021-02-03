@@ -15,6 +15,8 @@ country: Regional
 promos:
 - title: 'Trade Foward Southern Africa Programme Flyer '
   link: "(/uploads/TFSA-FLYR%20final.pdf)"
+- title: Trade in the Time of COVID-19—Risk or Opportunity?
+  link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
 ---
 
 The [Trade Forward Southern Africa programme](https://tfsouthernafrica.org/) supports growth in trade, improves gender equality in the trade arena, and alleviates poverty across Botswana, Eswatini, Lesotho, Mozambique, Namibia, and South Africa, with a focus on increasing access to information and promoting trade; supporting compliance with market standards and better integrating value chains; providing and improving access to training in trade and customs; and promoting equality for women in trade.
