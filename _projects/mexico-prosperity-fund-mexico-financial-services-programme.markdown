@@ -16,6 +16,8 @@ promos:
 - title: 'Finding Solutions in the Sandbox: The Sandbox Challenge was an Example of
     Innovation'
   link: https://www.excelsior.com.mx/opinion/london-eye/encontrando-soluciones-en-el-arenero/1404217
+- title: 'Empowering Women: Lessons from COVID-19 and Beyond'
+  link: https://dai-global-developments.com/articles/empowering-women-lessons-from-covid-19-and-beyond
 ---
 
 There is considerable appetite in Mexico to modernise the country’s financial sector and develop its economic potential. This programme aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and new market entrants. Expanding and opening this sector will help to reduce poverty, increase productivity, and promote inclusive social and economic development.
