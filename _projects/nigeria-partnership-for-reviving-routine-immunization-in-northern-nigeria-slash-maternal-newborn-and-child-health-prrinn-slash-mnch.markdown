@@ -21,7 +21,7 @@ country: Nigeria
 
 Covering a population of approximately 19 million in four states of Northern Nigeria, the Partnership for Reviving Routine Immunization in Northern Nigeria / Maternal Newborn and Child Health programme (PRRINN/MNCH) combined health systems strengthening with routine immunization and maternal, newborn, and child health interventions.
 
-Working in states with some of the world’s worst indicators for maternal, newborn, and child health, PRRINN-MNCH revitalized primary health care and improved the availability, quality, and utilization of maternal, newborn, and child health services, including ante-, peri- and post- natal care, emergency obstetric and newborn care, essential care for newborns and infants, young child feeding and nutrition, and routine immunization against preventable diseases.
+Working in states with some of the world’s worst indicators for maternal, newborn, and child health, PRRINN-MNCH revitalized primary health care and improved the availability, quality, and utilization of maternal, newborn, and child health services, including ante-, peri- and post-natal care, emergency obstetric and newborn care, essential care for newborns and infants, young child feeding and nutrition, and routine immunization against preventable diseases.
 
 A broad range of indicators provide strong evidence of value for money and lives saved by PRRINN-MNCH. The programme delivered a range of outcomes at an estimated cost per person of £0.43 in 2013, which equates to a cost of between £16 and £33 per child life saved. The programme’s comprehensive approach to health system strengthening contributed to positive change in one of the world’s most difficult settings.
 
