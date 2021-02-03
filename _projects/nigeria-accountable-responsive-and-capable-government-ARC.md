@@ -6,7 +6,7 @@ summary: " The programme helps local governments in Nigeria develop and implemen
   budgets are used in delivering public goods and services to promote growth and reduce
   poverty."
 start: 2016
-end: 2020
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
