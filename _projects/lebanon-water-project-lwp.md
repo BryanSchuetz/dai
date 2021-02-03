@@ -15,6 +15,9 @@ regions:
 - Middle East and North Africa
 country:
 - Lebanon
+promos:
+- title: Clean Water for All by 2030. No, Really
+  link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 layout: project
 ---
 
