@@ -27,6 +27,9 @@ promos:
 - title: "**Stories of Change**: _Improving Communications of the Nigerian Sovereign
     Investment Authority_"
   link: "/uploads/Improving-Communications-of-the-Nigeria-Sovereign-Investment-Authority-NSIA.pdf"
+- title: 'It’s Getting Easier to Do Business in Nigeria: How DFID’s Award-Winning
+    Policy Development Facility Supported Reform'
+  link: https://dai-global-developments.com/articles/its-getting-easier-to-do-business-in-nigeria-how-dfids-award-winning-policy-development-facility-supported-reform
 layout: project
 ---
 
