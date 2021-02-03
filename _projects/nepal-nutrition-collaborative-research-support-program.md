@@ -8,7 +8,7 @@ summary: 'Preparing food for children ages 6-24 months takes a lot of mothers'' 
 
 '
 start: 2010
-end: 2015
+end: 2013
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
