@@ -20,13 +20,13 @@ regions:
 country:
 - Poland
 promos:
+- title: 'PolSEFF’s Legacy: Lower Energy Bills for Businesses Across Poland; a Financing
+    Model to Scale and Replicate'
+  link: https://dai-global-developments.com/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate
 - title: How Banks Can Help Businesses Reduce Their Energy Costs
   link: https://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs
 - title: Polish Sustainable Energy Financing Facility Wins Clean Energy Award
   link: https://www.dai.com/news/polish-sustainable-energy-financing-facility-wins-clean-energy-award
-- title: 'PolSEFF’s Legacy: Lower Energy Bills for Businesses Across Poland; a Financing
-    Model to Scale and Replicate'
-  link: https://dai-global-developments.com/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate
 layout: project
 ---
 
