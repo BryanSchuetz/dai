@@ -6,7 +6,7 @@ summary: Implemented on behalf of the Palestinian Ministry of Finance and Planni
   and Gaza by developing financing instruments to promote business investment and
   job training.
 start: 2016
-end: 2020
+end: 2021
 client: World Bank
 solutions:
 - Innovation and Entrepreneurship
