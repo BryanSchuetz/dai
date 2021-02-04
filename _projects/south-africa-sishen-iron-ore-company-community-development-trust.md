@@ -1,22 +1,18 @@
 ---
 title: South Africa—Sishen Iron Ore Company Community Development Trust
-date: 2016-01-21 22:40:52.765000000 Z
-client: Sishen Iron Ore Company
+date: 2016-01-21 22:40:00 Z
+summary: DAI developed a long-term strategy—named Vision 2030—to guide the Sishen
+  Iron Ore Company Community Development Trust's decisions during the next 20 years.
 start: 2011
 end: 2015
+client: Sishen Iron Ore Company
+solutions:
+- Sustainable Business
 regions:
 - Sub-Saharan Africa
 country:
 - South Africa
-solutions:
-- Sustainable Business
 layout: project
-summary: 'In September 2011, the South Africa-based Sishen Iron Ore Company Community
-  Development Trust learned it would receive dividends of more than $1 billion. It
-  also understood it was at risk of spending millions, but achieving little in terms
-  of improving lives in its beneficiary local mining communities.
-
-'
 ---
 
 In September 2011, the South Africa-based Sishen Iron Ore Company Community Development Trust learned it would receive dividends of more than $1 billion. It also understood it was at risk of spending millions, but achieving little in terms of improving lives in its beneficiary local mining communities.
@@ -25,8 +21,8 @@ DAI developed a long-term strategy—named Vision 2030—to guide the Trust's de
 
 Emerging from our long-term strategy planning with the Trust was the need for an effective mechanism to screen and implement infrastructure projects. We were subsequently contracted by the Trust to establish and operate its project management unit through 2015. Its projects are now addressing local needs in areas such as education, business, health, agriculture, and welfare.
 
-###  Sample Activities
+### Select Results
 
-* Review projects considered by the Trust to ensure they are a strategic fit, the business case is sound, all approvals with stakeholders (e.g., Departments of Education and Water Affairs, local municipalities) are sufficient, and pricing is realistic.
-* Ensure adherence to procedure, governance requirements, and quality assurance during construction.
-* Transfer project management, governance, and technical skills to the permanent staff of the beneficiary Trusts, as well as the construction contractors at the sites.
+* Reviewed projects considered by the Trust to ensure they are a strategic fit, the business case is sound, all approvals with stakeholders (e.g., Departments of Education and Water Affairs, local municipalities) are sufficient, and pricing is realistic.
+* Ensured adherence to procedure, governance requirements, and quality assurance during construction.
+* Transferred project management, governance, and technical skills to the permanent staff of the beneficiary Trusts, as well as the construction contractors at the sites.
