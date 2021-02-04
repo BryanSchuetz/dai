@@ -25,6 +25,8 @@ promos:
   link: https://dai-global-developments.com/articles/delivering-large-scale-land-certification-programmes-lessons-from-rwanda
 - title: 'Nine Lessons Learned: The Not-So-Simple Task of Obtaining Land Rights'
   link: https://dai-global-developments.com/articles/lessons-learned-the-not-so-simple-task-of-obtaining-land-rights
+- title: HTSPE Honored for Outstanding International Development Project 2014
+  link: https://www.dai.com/news/htspe-honored-outstanding-international-development-project-2014
 layout: project
 ---
 
