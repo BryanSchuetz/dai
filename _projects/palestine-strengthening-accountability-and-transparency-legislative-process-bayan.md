@@ -22,14 +22,14 @@ The strength of democracy in Palestine depends on the ability of its citizens an
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Establish a nonpartisan legislative development unit to provide resources and sustainable support to the broader legislative community.
 * Strengthen the Palestinian Authority's ability to research, analyze, draft, and implement effective legislation.
-* Support civil society's efforts to participate in the legislative process and hold governmental institutions accountable for their performance.
-* Implement six grant agreements with Palestinian CSOs to help CSOs and government forge partnerships that enable CSOs to engage the public policy process.
+* Support civil society's efforts to participate in the legislative process and hold government institutions accountable for their performance.
+* Implement six grant agreements with Palestinian CSOs to help CSOs and government forge partnerships that enable CSOs to engage in the public policy process.
 
-###  Select Results
+### Select Results
 
 * Legislative drafting training resulted in well-thought-out proposed amendments to laws, including the Child Law, Charitable Societies Law, and Judicial Authority Law.
 * Drafted a regulatory impact assessment manual in Arabic, distributed to 15 organizations and 40 individuals in the legislative community.
