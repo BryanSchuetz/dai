@@ -19,6 +19,8 @@ country:
 promos:
 - title: Philippine City Launches Mobile Payment Pilot
   link: https://dai-global-developments.com/articles/philippine-city-launches-mobile-payment-pilot
+- title: Facilitating e-Banking in the Philippines
+  link: https://dai-global-developments.com/articles/philippine-townhtml
 layout: project
 ---
 
