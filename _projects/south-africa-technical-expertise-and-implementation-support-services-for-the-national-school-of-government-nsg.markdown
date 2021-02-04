@@ -4,7 +4,7 @@ title: South Africa—Technical Expertise and Implementation Support Services fo
 date: 2020-08-07 18:04:00 Z
 summary: 'DAI is strengthening the National School of Government (NSG) as a training
   institution, rolling out three important training programmes—Breaking Barriers to
-  Entry, Compulsory Induction, and Reorientation programmes—, and strengthening the
+  Entry, Compulsory Induction, and Reorientation programmes—and strengthening the
   network and collaborations of the NSG in an effort to create new opportunities for
   the school and its beneficiaries. '
 start: 2019
