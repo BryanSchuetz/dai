@@ -16,6 +16,12 @@ regions:
 - Asia and the Pacific
 country:
 - Regional
+promos:
+- title: From Studies to Stakeholders—Integrating Climate Science into Community Adaptation
+    Planning
+  link: https://www.climatelinks.org/blog/studies-stakeholders%E2%80%94integrating-climate-science-community-adaptation-planning
+- title: 
+  link: 
 layout: project
 ---
 
@@ -34,7 +40,7 @@ The U.S. Agency for International Development (USAID)'s [Mekong ARCC](http://mek
 
 ### Select Results
 
-* Published a comprehensive, basin-wide [Climate Change Impact and Adaptation Study](http://mekongarcc.net/resource/usaid-mekong-arcc-lower-mekong-climate-study-released-download) that has informed the project's selection of priority vulnerable provinces for activities.
+* Published a comprehensive, basin-wide Climate Change Impact and Adaptation Study that has informed the project's selection of priority vulnerable provinces for activities.
 * Presented USAID Mekong ARCC to senior government officials from the region and the United States at the Lower Mekong Initiative Regional Working Group, a partnership of the Mekong riparian countries dedicated to building cooperation and capacity to address transnational issues.
 * Conducted preliminary analysis of the LMB that estimated at $34 billion the annual values at risk from climate change impacts on infrastructure services and assets, worker productivity, agricultural output, hydroelectrical power, and eco-system services.
 * Secured the Federation of Asian Bishops Conferences' [commitment](/news/asian-bishops-issue-call-prevent-global-warming-mitigate-climate-change) to promote the USAID Mekong ARCC model throughout Asia as part of their approach to climate change.
