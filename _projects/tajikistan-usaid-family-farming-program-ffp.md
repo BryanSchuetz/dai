@@ -24,16 +24,16 @@ Despite rising food prices, the food security situation in Tajikistan has genera
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/90795379" webkitallowfullscreen="" width="703"></iframe>
 
-The USAID Family Farming Program (FFP), under the Feed the Future initiative, worked to reduce poverty through improved nutrition and inclusive agricultural growth in 12 target districts in Khatlon province. FFP's efforts have largely focused on providing support to Water Users Associations (WUA) to improve their ability to manage irrigation water resources. FFP's work in organizing and strengthening WUAs, as well as work in rehabilitating irrigation infrastructure, directly impacts the availability of irrigation water, thereby boosting agricultural production. Increased production enhances the availability of food as well as producers' income, which will in turn improves food security and promotes inclusive agricultural growth in the targeted districts. FFP's work in improving household economics, disseminating agricultural production guides, and supporting irrigation water management policy reform also support the project's primary objective of improving agricultural production and access to food.
+The USAID Family Farming Program (FFP), under the Feed the Future initiative, worked to reduce poverty through improved nutrition and inclusive agricultural growth in 12 target districts in Khatlon province. FFP's efforts were largely focused on providing support to Water Users Associations (WUA) to improve their ability to manage irrigation water resources. FFP's work in organizing and strengthening WUAs, as well as work in rehabilitating irrigation infrastructure, directly impacted the availability of irrigation water, thereby boosting agricultural production. Increased production enhances the availability of food as well as producers' income, which improves food security and promotes inclusive agricultural growth in the targeted districts. FFP's work in improving household economics, disseminating agricultural production guides, and supporting irrigation water management policy reform also supported the project's primary objective of improving agricultural production and access to food.
 
-###  Sample Activities
+### Sample Activities
 
 * Implement irrigation system rehabilitation activities.
 * Strengthen WUA federations.
 * Conduct WUA legal and regulatory analysis and recommend updates.
 * Train WUAs on advanced policy guides developed by FFP.
 
-###  Select Results
+### Select Results
 
 * Fifty-six new WUAs have been established and four additional ones were strengthened in Khatlon province.
 * Sixty WUAs have been trained in leadership skills development, grants management, financial management, irrigation system maintenance, and conflict resolution.
