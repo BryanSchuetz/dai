@@ -1,14 +1,12 @@
 ---
 title: Poland—Polish Sustainable Energy Financing Facility (PolSEFF I & II)
 date: 2016-01-21 22:40:00 Z
-summary: 'We are creating a perpetual market for investments in efficient energy by
-  Poland''s local businesses by training financial institutions on how to appraise
-  and finance sensible energy projects; detailing for small and medium-sized enterprises
-  (SMEs) the competitive advantages of investing in energy-efficient materials and
-  equipment; and training local experts to assist SMEs in identifying and preparing
-  technically feasible, bankable projects.
-
-'
+summary: We created a perpetual market for investments in efficient energy by Poland's
+  local businesses by training financial institutions on how to appraise and finance
+  sensible energy projects; detailing for small and medium-sized enterprises (SMEs)
+  the competitive advantages of investing in energy-efficient materials and equipment;
+  and training local experts to assist SMEs in identifying and preparing technically
+  feasible, bankable projects.
 start: 2010
 end: 2018
 client: European Bank for Reconstruction and Development
@@ -26,6 +24,9 @@ promos:
   link: https://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs
 - title: Polish Sustainable Energy Financing Facility Wins Clean Energy Award
   link: https://www.dai.com/news/polish-sustainable-energy-financing-facility-wins-clean-energy-award
+- title: 'PolSEFF’s Legacy: Lower Energy Bills for Businesses Across Poland; a Financing
+    Model to Scale and Replicate'
+  link: https://dai-global-developments.com/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate
 layout: project
 ---
 
@@ -47,3 +48,4 @@ We [created a perpetual market](http://dai-global-developments.com/articles/how-
 
 * Established partnerships with five major financial institutions, which financed 2,012 efficient-energy projects from more than 1,900 small firms; trained 200 staff of financial institutions on how to responsibly finance projects; and developed a [website ](http://www.polseff.org/)and equipment with a database of more than 700 registered companies and 7,000 eligible products.
 * [Honored](/news/polish-sustainable-energy-financing-facility-wins-clean-energy-award) with the Financing Deal of the Year award at the 2016 Central and Eastern European Clean Energy Awards.
+* Developed the List of Eligible Materials and Equipment (LEME), an online searchable catalogue of pre-approved energy-efficient products. The LEME continues to be widely utilized by lenders and borrowers, with more than 70 percent of products purchased and leased under PolSEFF coming from the catalogue.
