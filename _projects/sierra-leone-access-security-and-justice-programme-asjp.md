@@ -1,9 +1,10 @@
 ---
 title: Sierra Leone—Access to Security and Justice Programme (ASJP)
 date: 2016-01-21 22:40:00 Z
-summary: Security and justice are essential to countries in sub-Saharan Africa. They
-  create an environment in which poverty-reducing development can occur and help reduce
-  the incidence of violent conflict.
+summary: The Access to Security and Justice Programme worked with the government of
+  Sierra Leone to consolidate peace and stability by increasing access to responsive,
+  accountable, and effective security and justice services, especially for the poor,
+  vulnerable, and those living in remote and marginalized areas.
 start: 2011
 end: 2016
 client: Foreign, Commonwealth & Development Office
@@ -41,6 +42,6 @@ Security and justice are essential to countries in sub-Saharan Africa. They crea
 * Supported the government of Sierra Leone strategy for national provision of accessible legal aid, paralegal services, and mediator dispute resolution.
 * Developed systems to improve effectiveness, efficiency, accountability, and oversight across the justice and security sector.
 
-[1]: http://dai-global-developments.com/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people?utm_source=daidotcom
+[1]: http://dai-global-developments.com/articles/in-sierra-leone-enhancing-traditional-law-and-justice-services-for-rural-people
 [2]: https://assetify-dai.com/projects/SecurityJustice.jpg
 [3]: http://www.advocaidsl.com/wp-content/uploads/2015/10/PayNoBribeForBail_PolicyReport.pdf
