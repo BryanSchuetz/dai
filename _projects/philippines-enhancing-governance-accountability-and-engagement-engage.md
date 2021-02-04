@@ -1,9 +1,9 @@
 ---
 title: Philippines—Enhancing Governance, Accountability, and Engagement (ENGAGE)
 date: 2016-01-21 22:40:00 Z
-summary: 'This project assists six conflict-affected areas in Mindanao, Philippines:
+summary: 'This project assisted six conflict-affected areas in Mindanao, Philippines:
   Cotabato City, Marawi City, Zamboanga City, Isabela City, Southern Basilan, Jolo,
-  and its surrounding environs.'
+  and surrounding environs.'
 start: 2013
 end: 2019
 client: U.S. Agency for International Development
@@ -31,10 +31,10 @@ ENGAGE supported at least 24 local government units (LGUs) and 48 civil society 
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Increase collaboration between local governments, civil society organizations, youth, and other citizen groups in setting development priorities and implementing plans.
-* Enhance capacity of community organizations to collaborate effectively with LGUs, and increase the capacity of LGUs to respond effectively to community priorities.
+* Enhance the capacity of community organizations to collaborate effectively with LGUs, and increase the capacity of LGUs to respond effectively to community priorities.
 * Improve transparency to ensure activities, policies, and decisions reflect community needs and are communicated effectively.
 * Assist LGUs to increase the locally generated revenues available for high-priority development and service needs.
 
