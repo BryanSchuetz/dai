@@ -12,6 +12,7 @@ end: 2012
 client: U.S. Agency for International Development
 solutions:
 - Gender and Social Inclusion
+- Governance
 regions:
 - Sub-Saharan Africa
 country:
