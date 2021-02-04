@@ -1,13 +1,11 @@
 ---
 title: Philippines—Environmental Governance Phase II (ECOGOV2)
 date: 2016-01-21 22:40:00 Z
-summary: 'Like most countries that have achieved significant economic development,
-  the Philippines now is struggling with development''s byproducts: forest loss, declining
-  fisheries, increased solid waste, and untreated wastewater. The key to overcoming
-  these environmental problems is institutionalizing incentives for sustainable resource
-  management.
-
-'
+summary: 'EcoGov2 supported two important trends in the Philippines: the move toward
+  integrated resource management, which addressed linkages and resolved conflicts
+  between upland and coastal resources, and the move toward decentralization, which
+  empowered local governments and communities to play bigger roles in managing their
+  natural resources.'
 start: 2004
 end: 2011
 client: U.S. Agency for International Development
@@ -24,14 +22,14 @@ Like most countries that have achieved significant economic development, the Phi
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Provide technical assistance for the implementation of activities resulting in improved environmental governance by the project's local and national counterparts.
 * Improve management of forests, coastal areas, and solid waste.
 * Promote local government investment in sanitation facilities.
 * Maintain a grant fund of $350,000 and work with 12 local firms engaged in indefinite quantity subcontracts.
 
-###  Select Results
+### Select Results
 
 * Helped 80 local governments better understand and meet their responsibilities in the management of public land designated as "only suitable for forest."
 * Created networks of marine-protected areas and networks of local government units responsible for fisheries management. These networks build managerial economies of scale, and build biologically significant protected areas.
