@@ -10,7 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [RFP ALG-003-21 Horticultural Cold Chain Consulting](http://assetify-dai.com/rfps/ALG-003-21%20Horticultural%20Cold%20Chain%20Consulting%20Services.pdf)
+* [RFP ALG-003-21 Horticultural Cold Chain Consulting](http://assetify-dai.com/rfps/ALG-003-21%20Horticultural%20Cold%20Chain%20Consulting%20Services.pdf "2/11/21")
 * [RFP IGPA-BAG-21001 Training Courses for Landfill Operations](/uploads/RFP-DAI-IGPA-BAG-21-001%20Conduct%20training%20courses%20for%20Landfill%20Operations_%20Extended.pdf "2/2/21")
 * [RFP PREIA-21-0001 Research on consumer and Trade Preferences](/uploads/RFP%23%20REQ-PRE-21-0001%20-%20Research%20on%20consumer%20and%20trade%20preferences%20-%20WP%20Y6%20Activiy%202.2.2.2%20(002).pdf "2/8/21")
 * [RFP IGPA-BAG-21-001 Conduct Training Courses for Landfill Operations](/uploads/RFP-DAI-IGPA-BAG-21-001%20Conduct%20training%20courses%20for%20Landfill%20Operations.pdf "01/26/21")
