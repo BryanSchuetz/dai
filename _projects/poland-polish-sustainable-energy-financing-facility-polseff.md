@@ -21,10 +21,13 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Poland
+promos:
+- title: How Banks Can Help Businesses Reduce Their Energy Costs
+  link: https://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs
 layout: project
 ---
 
-We are [creating a perpetual market](http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs?utm_source=daidotcom) for investments in efficient energy by Poland's local businesses by training financial institutions on how to appraise and finance sensible energy projects; detailing for small and medium-sized enterprises (SMEs) the competitive advantages of investing in energy-efficient materials and equipment; and training local experts to assist SMEs in identifying and preparing technically feasible, bankable projects. Following the success of the first phase of the program, PolSEFF II provides a new energy efficiency credit line through local participating financial institutions. The facility will provide up to a €200 million credit line, following the previous phase's €180 million disbursal, through a framework to commercial banks and leasing companies in Poland for on-lending to small and medium enterprises to finance investments in energy efficiency and small-scale renewable energy. This work will help build lasting capacity for this type of finance in Poland, which is presently highly reliant on foreign energy.
+We [created a perpetual market](http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs) for investments in efficient energy by Poland's local businesses by training financial institutions on how to appraise and finance sensible energy projects; detailing for small and medium-sized enterprises (SMEs) the competitive advantages of investing in energy-efficient materials and equipment; and training local experts to assist SMEs in identifying and preparing technically feasible, bankable projects. Following the success of the first phase of the program, PolSEFF II provides a new energy efficiency credit line through local participating financial institutions. The facility will provide up to a €200 million credit line, following the previous phase's €180 million disbursal, through a framework to commercial banks and leasing companies in Poland for on-lending to small and medium enterprises to finance investments in energy efficiency and small-scale renewable energy. This work will help build lasting capacity for this type of finance in Poland, which is presently highly reliant on foreign energy.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/95745379" webkitallowfullscreen="" width="703"></iframe>
 
