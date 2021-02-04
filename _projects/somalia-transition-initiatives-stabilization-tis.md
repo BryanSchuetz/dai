@@ -18,6 +18,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Somalia
+promos:
+- title: USAID TIS Supports Arts and Culture Week to Engage Youth in Puntland
+  link: https://www.dai.com/news/usaid-tis-supports-arts-and-culture-week-engage-youth-puntland
 layout: project
 ---
 
@@ -47,6 +50,5 @@ This U.S. Agency for International Development-funded program worked to increase
 * Awarded 95 construction contracts to local companies to promote transparent tendering and economic development.
 * Facilitated 19 community consensus-building processes, resulting in the design of peace dividends activities.
 * Constructed 67 kilometers of roads in Puntland and Somaliland.
-
 
 [1]: https://assetify-dai.com/projects/TISSomfish.jpg
