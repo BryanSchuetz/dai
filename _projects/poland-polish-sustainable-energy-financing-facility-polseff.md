@@ -32,6 +32,8 @@ layout: project
 
 We [created a perpetual market](http://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs) for investments in efficient energy by Poland's local businesses by training financial institutions on how to appraise and finance sensible energy projects; detailing for small and medium-sized enterprises (SMEs) the competitive advantages of investing in energy-efficient materials and equipment; and training local experts to assist SMEs in identifying and preparing technically feasible, bankable projects. Following the success of the first phase of the program, PolSEFF II provided a new energy efficiency credit line through local participating financial institutions. The facility provided up to a €200 million credit line, following the previous phase's €180 million disbursal, through a framework to commercial banks and leasing companies in Poland for on-lending to SMEs to finance investments in energy efficiency and small-scale renewable energy. This work helped build lasting capacity for this type of finance in Poland, which was highly reliant on foreign energy.
 
+Across more than 2,000 projects in all 16 of Poland’s provinces, PolSEFF helped the country’s private sector achieve annual energy savings of 342,000-megawatt hours and avoid more than 100,000 tons of carbon dioxide emissions per year—the equivalent of the annual energy consumption of 44,000 Polish households and carbon dioxide emissions of 50,000 cars. 
+
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/95745379" webkitallowfullscreen="" width="703"></iframe>
 
 ### Sample Activities
