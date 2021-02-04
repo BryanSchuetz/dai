@@ -14,6 +14,9 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Somalia
+promos:
+- title: New Somali Business Fund Creates Jobs
+  link: https://www.worldbank.org/en/news/feature/2018/05/30/new-somali-business-fund-creates-jobs
 ---
 
 Over the past 20 years, violent conflicts in various areas of the Somalia Peninsula have hindered lasting economic growth and stability in the entire region, with more than 70 percent of the population living below the poverty line today. Despite these difficult conditions, the Somali private sector has shown remarkable resiliency, with a variety of small businesses managing to prosper and create an environment for potential investment. However, key constraints such as weak infrastructure, limited access to finance, a lack of market information, and low levels of human capital impede the private-sector expansion crucial to reducing the country’s widespread poverty.
@@ -24,9 +27,9 @@ In managing the SBCF, DAI took a market-driven approach to building up a strong 
 
 ![Storeowner and customer in Somalia.jpg](/uploads/SBCF_photo.jpg)
 
-### Sample Activities
+### Select Results
 
-* Create a grants manual to establish guidelines for applicants to submit proposals and scoring criteria for reviewers evaluating submissions.
-* Raise awareness about the fund program and advertise calls to submit grant proposals using a range of media channels such as newspapers, radio, and social media, as well as through roadshows and introductory workshops.
-* Review and score proposals, inviting promising organizations to attend proposal development workshops with regional business advisors.
-* Provide grantees with follow-up site visits and mentoring from business advisors to support continued success and growth of new enterprises.
+* Created a grants manual to establish guidelines for applicants to submit proposals and scoring criteria for reviewers evaluating submissions.
+* Raised awareness about the fund program and advertise calls to submit grant proposals using a range of media channels such as newspapers, radio, and social media, as well as through roadshows and introductory workshops.
+* Reviewed and scored proposals, invited promising organizations to attend proposal development workshops with regional business advisors.
+* Provided grantees with follow-up site visits and mentoring from business advisors to support continued success and growth of new enterprises.
