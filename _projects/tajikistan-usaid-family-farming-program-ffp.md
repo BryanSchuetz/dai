@@ -1,22 +1,21 @@
 ---
 title: Tajikistan—USAID Family Farming Program (FFP)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: 'The USAID Family Farming Program (FFP), under the Feed the Future initiative,
+  worked to reduce poverty in Tajikistan through improved nutrition and inclusive
+  agricultural growth in 12 target districts in Khatlon province. '
 start: 2010
 end: 2015
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
 regions:
 - Eastern Europe and Central Asia
 country:
 - Tajikistan
-solutions:
-- Economic Growth
-layout: project
-summary: Tajikistan is the poorest country in Central Asia, with 49 percent of its
-  rural population living below the poverty line. Approximately 73 percent of the
-  country's 8.2 million citizens live in rural areas, where paid jobs are scarce and
-  the average amount of arable land held per person is 0.11 hectares.
 redirect_from:
 - "/tajikistan-ffp"
+layout: project
 ---
 
 Tajikistan is the poorest country in Central Asia, with 49 percent of its rural population living below the poverty line. Approximately 73 percent of the country's 8.2 million citizens live in rural areas, where paid jobs are scarce and the average amount of arable land held per person is 0.11 hectares. While 46.5 percent of the overall population is employed in agriculture, productivity in the sector is low and represents only 21 percent of national GDP.
@@ -25,7 +24,7 @@ Despite rising food prices, the food security situation in Tajikistan has genera
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/90795379" webkitallowfullscreen="" width="703"></iframe>
 
-The USAID Family Farming Program (FFP), under the Feed the Future initiative, aims to reduce poverty through improved nutrition and inclusive agricultural growth in 12 target districts in Khatlon province. FFP's efforts have largely focused on providing support to Water Users Associations (WUA) to improve their ability to manage irrigation water resources. FFP's work in organizing and strengthening WUAs, as well as work in rehabilitating irrigation infrastructure, directly impacts the availability of irrigation water, thereby boosting agricultural production. Increased production enhances the availability of food as well as producers' income, which will in turn improves food security and promotes inclusive agricultural growth in the targeted districts. FFP's work in improving household economics, disseminating agricultural production guides, and supporting irrigation water management policy reform also support the project's primary objective of improving agricultural production and access to food.
+The USAID Family Farming Program (FFP), under the Feed the Future initiative, worked to reduce poverty through improved nutrition and inclusive agricultural growth in 12 target districts in Khatlon province. FFP's efforts have largely focused on providing support to Water Users Associations (WUA) to improve their ability to manage irrigation water resources. FFP's work in organizing and strengthening WUAs, as well as work in rehabilitating irrigation infrastructure, directly impacts the availability of irrigation water, thereby boosting agricultural production. Increased production enhances the availability of food as well as producers' income, which will in turn improves food security and promotes inclusive agricultural growth in the targeted districts. FFP's work in improving household economics, disseminating agricultural production guides, and supporting irrigation water management policy reform also support the project's primary objective of improving agricultural production and access to food.
 
 ###  Sample Activities
 
