@@ -1,13 +1,11 @@
 ---
 title: Rwanda—Support for Land Tenure Regularisation
 date: 2016-01-21 22:40:00 Z
-summary: 'The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal the
+summary: The Land Tenure Regularisation (LTR) programme in Rwanda set as a goal the
   issuance of registered title to every landholder in the country. Prior to the project,
   we had laid the groundwork for an innovative approach to registration. Between 2005
-  and 2009, we developed and tested a feasible approach to [LTR][1], which lead to
-  the Strategic Road Map for Land Tenure Reform.
-
-'
+  and 2009, we developed and tested a feasible approach to LTR, which lead to the
+  Strategic Road Map for Land Tenure Reform.
 start: 2010
 end: 2013
 client: Foreign, Commonwealth & Development Office
@@ -22,6 +20,11 @@ regions:
 - Sub-Saharan Africa
 country:
 - Rwanda
+promos:
+- title: 'Delivering Large-Scale Land Certification Programmes: Lessons from Rwanda'
+  link: https://dai-global-developments.com/articles/delivering-large-scale-land-certification-programmes-lessons-from-rwanda
+- title: 'Nine Lessons Learned: The Not-So-Simple Task of Obtaining Land Rights'
+  link: https://dai-global-developments.com/articles/lessons-learned-the-not-so-simple-task-of-obtaining-land-rights
 layout: project
 ---
 
@@ -31,7 +34,7 @@ Titles were then issued to every landholder through a one-off, low-cost communit
 <iframe src="https://player.vimeo.com/video/104419937" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-###  Sample Activities
+### Sample Activities
 
 * Provide advice on all aspects of planning and implementing national roll-out of the LTR Programme.
 * Create a support team to work as an integral part of the Rwanda Natural Resources Authority (RNRA) and associated and act to strengthen existing capacity within the organisation.
@@ -39,7 +42,7 @@ Titles were then issued to every landholder through a one-off, low-cost communit
 * Help the RNRA deliver key messages to a range of target audiences, including a training programme and implementation of a communications strategy.
 * Work with the team from the World Bank to develop ways of collecting data and monitoring the impact of the project.
 
-###  Select Results
+### Select Results
 
 * Established a formal system for regularising land ownership and identified and registered more than 10.3 million land parcels.
 * Provided a legitimate cadastre of property ownership which will underpin long-term social stability.
