@@ -16,6 +16,12 @@ regions:
 - Asia and the Pacific
 country:
 - Philippines
+promos:
+- title: Philippines Increases Tax Collections by $1.1 Billion Year Over Year—Without
+    Raising Rates
+  link: https://dai-global-developments.com/articles/philippines-increases-tax-collections-by-11-billion-year-over-yearwithout-raising-rates
+- title: Philippines Experiences Nearly Seven-Fold Increase in Electronic Tax Filing
+  link: https://dai-global-developments.com/articles/philippines-increases-tax-collections-by-11-billion-year-over-yearwithout-raising-rates
 layout: project
 ---
 
