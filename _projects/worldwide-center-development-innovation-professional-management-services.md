@@ -1,9 +1,9 @@
 ---
 title: Worldwide—Center for Development Innovation Professional Management Services
 date: 2016-01-21 22:40:00 Z
-summary: The U.S. Global Development Lab's Center for Development Innovation (CDI)
-  is driving long-term, sustained investment in innovations that have the potential
-  to end extreme poverty.
+summary: DAI provided professional management services to the U.S. Agency for International
+  Development's Center for Development Innovation, supporting the utilization of three
+  core principles across the Lab’s activities.
 start: 2014
 end: 2018
 client: U.S. Agency for International Development
@@ -18,9 +18,9 @@ layout: project
 
 The [U.S. Global Development Lab](https://www.usaid.gov/globaldevlab) serves as an innovation hub within the U.S. Agency for International Development (USAID) by bringing together diverse partners to develop and scale up innovations to improve lives and reduce poverty around the world. The Lab’s [Center for Development Innovation](https://www.usaid.gov/GlobalDevLab/about/innovation) (CDI) advances this culture of creative problem solving by supporting innovators, inventers, and entrepreneurs in tackling important global development challenges.
 
-DAI provides professional management services to the CDI, supporting the utilization of three core principles across the Lab’s activities:
+DAI provided professional management services to the CDI, supporting the utilization of three core principles across the Lab’s activities:
 
-**Design Thinking**: DAI helps the Lab to reframe development challenges and engage local communities and partners more effectively through an iterative and collaborative approach to problem solving.
+**Design Thinking**: DAI helps the Lab to reframe development challenges and engage local communities and partners more effectively through an iterative and collaborative approach to problem-solving.
 
 **Adaptive Learning:** By using active listening, reflection, investigative analysis, and rapid feedback loops, USAID staff and partners are able to more effectively collaborate, refine their work, and adapt to changing conditions.
 
