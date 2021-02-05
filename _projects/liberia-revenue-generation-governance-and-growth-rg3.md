@@ -17,6 +17,11 @@ regions:
 country:
 - Liberia
 promos:
+- title: '2020 DIGITAL FINANCE BRIGHT SPOT: Digital Payments in Liberia'
+  link: https://www.marketlinks.org/resources/2020-digital-finance-bright-spot-digital-payments-liberia
+- title: Liberia Moves to Reduce Donor Dependence by Improving its Ability to Invest
+    in Itself
+  link: https://dai-global-developments.com/articles/liberia-moves-to-reduce-donor-dependence-by-improving-its-ability-to-invest-in-itself
 - title: "**Report**:  Benchmarking the Tax System in Liberia"
   link: "/uploads/BENCHMARKING%20THE%20TAX%20SYSTEM%20IN%20LIBERIA.pdf"
 layout: project
