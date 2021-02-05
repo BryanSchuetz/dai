@@ -1,37 +1,38 @@
 ---
 title: Worldwide—Global Development Alliance (GDA) Strategic Support Program
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
+date: 2016-01-21 22:40:00 Z
+summary: Since 2006, DAI has been called on by USAID to enhance, evaluate, and create
+  public-private partnerships. Two of our projects—Global Development Alliance Strategic
+  Support Program (2006–2011) and Evaluation of the Impact and Effectiveness of Development
+  Alliances (2007–2008)—effectively set the bar for partnership policy and practice
+  at USAID and its missions worldwide.
 start: 2006
 end: 2011
+client: U.S. Agency for International Development
+solutions:
+- Sustainable Business
+- Economic Growth
 regions:
 - Worldwide
 country:
 - Regional
-solutions:
-- Sustainable Business
-- Economic Growth
 layout: project
-summary: 'Public-private partnerships leverage external funds from corporations, foundations,
-  and other entities to achieve development objectives.
-
-'
 ---
 
 Public-private partnerships leverage external funds from corporations, foundations, and other entities to achieve development objectives. They are an increasingly important component of global development assistance. Since 2006, the U.S. Agency for International Development's (USAID)'s Office of Global Development Alliances—now known as the Global Partnerships Office—has forged more than 1,000 alliances with more than 3,000 partners. Since 2006, DAI has been called on by USAID to enhance, evaluate, and [create public-private partnerships][1]. Two of our projects—Global Development Alliance Strategic Support Program (2006–2011) and Evaluation of the Impact and Effectiveness of Development Alliances (2007–2008)—effectively set the bar for partnership policy and practice at USAID and its missions worldwide. For more information about the GDA's work, click [here][2].
 
 ![][3]
 
-###  Sample Activities
+### Sample Activities
 
 * Analyze the impact and effectiveness of partnership projects, partnership decision-making criteria, management procedures, monitoring, feedback mechanisms, and communications and support.
-* Determine if partnerships met goals, analyze sustainability of the outcomes, and outline motivations of private sector partners.
+* Determine if partnerships met goals, analyze the sustainability of the outcomes, and outline motivations of private sector partners.
 * Cultivate partners among the private sector, foundations, universities, other governments and donor organizations, and nongovernmental organizations.
 * Help USAID missions integrate partnerships into appropriate programs.
 * Develop effective communication and outreach materials for key audiences.
 * Position USAID's GDA program as the global thought leader on public-private partnerships.
 
-###  Select Results
+### Select Results
 
 * Trained more than 1,000 of USAID personnel on partnership strategy and implementation during dozens of sessions in Washington, D.C., and at USAID missions worldwide.
 * Delivered partnership strategies to 18 USAID missions and convened 26 private sector roundtables for the missions.
