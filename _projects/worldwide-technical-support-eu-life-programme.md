@@ -1,22 +1,22 @@
 ---
 title: Worldwide—Technical Support to the EU LIFE Programme
-date: 2016-01-21 22:40:52 Z
-client: European Union
+date: 2016-01-21 22:40:00 Z
+summary: As part of the Astrale group of nine European partners, we supported the
+  LIFE III Environment Programme from 2001 to 2005 and we have been supporting the
+  whole LIFE III and LIFE + Programmes since 2005, in our role as the External Assistance
+  Team.
 start: 2009
 end: 2014
-regions:
-- Worldwide
-country:
-- Regional
+client: European Union
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Environment
+regions:
+- Worldwide
+country:
+- Worldwide
 layout: project
-summary: 'LIFE, the Financial Instrument for the Environment, is one of the spearheads
-  of the European Union''s environmental policy.
-
-'
 ---
 
 LIFE, the Financial Instrument for the Environment, is one of the spearheads of the European Union's environmental policy. [LIFE projects][1] cover a wide scope – LIFE Environment projects address issues relating to the EU's [6th Environmental Action Plan][2] whilst LIFE Nature projects support the [Natura 2000 network][3]. The LIFE programme funds projects across all 28 member states. As part of the Astrale group of nine European partners, we supported the LIFE III Environment Programme from 2001 to 2005 and we have been supporting the whole LIFE III and LIFE + Programmes since 2005, in our role as the External Assistance Team.
@@ -25,14 +25,14 @@ One of the duties of the External Assistance Team is to assist LIFE beneficiarie
 
 ![][4]
 
-###  Sample Activities
+### Sample Activities
 
 * Support projects through all stages of the project cycle.
 * Monitor and evaluate project performance and deliverables.
 * Promote geographic and thematic networking.
 * Disseminate lessons learned and success stories.
 
-###  Select Results
+### Select Results
 
 * Successfully monitored more than 100 projects covering a range of technical themes including habitat restoration, species reintroductions, wastewater treatment, waste management, and energy efficiency.
 * Completed ex-post evaluations on closed projects, helping to understand the impact of LIFE funding on environmental policy and long-term conservation benefits.
