@@ -1,7 +1,7 @@
 ---
 title: Uganda—Governance, Accountability, Participation, and Performance Program (GAPP)
 date: 2016-01-21 22:40:00 Z
-summary: GAPP works to improve the legal, policy, regulatory, and institutional environment
+summary: GAPP worked to improve the legal, policy, regulatory, and institutional environment
   in Uganda to enhance democratic governance and the engagement of citizens with their
   local governments.
 start: 2012
@@ -15,12 +15,15 @@ regions:
 - Sub-Saharan Africa
 country:
 - Uganda
+promos:
+- title: In Uganda, Local Hearings Show Accountability in Action
+  link: https://dai-global-developments.com/articles/in-uganda-local-hearings-show-accountability-in-action
 layout: project
 ---
 
-Funded by the U.S. Agency for International Development and the U.K. Department for International Development, GAPP works to improve the legal, policy, regulatory, and institutional environment in Uganda to [enhance democratic governance](https://dai-global-developments.com/articles/in-uganda-local-hearings-show-accountability-in-action/) and the engagement of citizens with their local governments.
+Funded by the U.S. Agency for International Development and the U.K. Department for International Development, the Governance, Accountability, Participation, and Performance Program (GAPP) worked to improve the legal, policy, regulatory, and institutional environment in Uganda to [enhance democratic governance](https://dai-global-developments.com/articles/in-uganda-local-hearings-show-accountability-in-action) and the engagement of citizens with their local governments.
 
-Under a subcontract to RTI International, DAI helps to strengthen processes and policies for local governance accountability and conducts national-level advocacy for improved local governance financing, participation, and service delivery.
+Under a subcontract to RTI International, DAI helped to strengthen processes and policies for local governance accountability and conducts national-level advocacy for improved local governance financing, participation, and service delivery.
 
 ![gapp-6.jpg](/uploads/gapp-6.jpg)
 
