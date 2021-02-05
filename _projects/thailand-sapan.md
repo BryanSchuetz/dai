@@ -18,6 +18,9 @@ regions:
 - Asia and the Pacific
 country:
 - Thailand
+promos:
+- title: For Thailand’s Civil Society, Capacity Building Now Begins at Home
+  link: https://dai-global-developments.com/articles/usaid-sapan-program-energized-thailands-civil-society?utm_source=daidotcom
 layout: project
 ---
 
@@ -27,13 +30,13 @@ Our Bangkok-based team is promoting cooperation between civil society and agenci
 
 ![][1]
 
-###  Sample Activities
+### Sample Activities
 
 * Enhance the capacity of key independent agencies to promote effective, transparent, and accountable government.
 * Strengthen the capacity of civil society organizations and media to serve as checks and balances for political processes and public policy.
 * Support civic peace-building and engagement in local governance in Southern Thailand.
 
-###  Select Results
+### Select Results
 
 * Enrolled and provided training for more than 6,000 representatives of civil society organizations, universities, government, and media.
 * Facilitated and strengthened the capacity of a coalition of seven women-led civil society organizations, which now more effectively promotes and supports access by women to funding through the country's Women's Development Fund.
