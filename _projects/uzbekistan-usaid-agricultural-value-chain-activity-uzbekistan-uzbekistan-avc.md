@@ -24,10 +24,15 @@ promos:
 - title: USAID Celebrates the Achievements of Its Five-year Agriculture Program in
     Uzbekistan
   link: https://uz.usembassy.gov/usaid-celebrates-the-achievements-of-its-five-year-agriculture-program-in-uzbekistan/
+- title: Cold Storage Expansion Drives Market Development in Uzbekistan
+  link: https://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan
+- title: 'The Viral Success of Horticulturalist Chat Groups: An Uzbek ICT4Ag Case
+    Study'
+  link: https://dai-global-digital.com/horticulturalist-chat-groups-and-youtube-q-and-as-an-uzbek-ict4ag-case-study.html?utm_source=daidotcom
 layout: project
 ---
 
-The USAID Agricultural Value Chains Activity in Uzbekistan (Uzbekistan AVC) capitalized on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We scaled up support to post-harvest handling and fostering new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC co-invested with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and [cold chain operators](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan/)—to ensure scalability and sustainability.
+The USAID Agricultural Value Chains Activity in Uzbekistan (Uzbekistan AVC) capitalized on the achievements of USAID's Uzbekistan AgLinks (2007–2011) and [AgLinks Plus](https://www.dai.com/our-work/projects/uzbekistan-aglinks-plus) (2011–2015) projects, which were implemented by DAI. We scaled up support to post-harvest handling and fostering new business partnerships while expanding opportunities for women's entrepreneurship and employment. Uzbekistan AVC co-invested with stakeholders at key points along the chain—including local institutes, agrarian universities, and service providers such as agro-input dealers, nursery extension staff, pruning groups, consolidators, and [cold chain operators](http://dai-global-developments.com/articles/the-proliferation-of-cold-storage-in-uzbekistan)—to ensure scalability and sustainability.
 
 We [improved the quality](https://stories.usaid.gov/trade-for-tomorrow/#page-1) and volume of agricultural production and post-harvest handling and production, facilitated market linkages, and linked educational institutions with private sector demand.
 
