@@ -28,8 +28,8 @@ Funded by the former U.K. Department for International Development (now called F
 
 The topics of importance for policy debate in Zambia need to be chosen by Zambians. ZEAP advised its think tank partners about how to choose subjects that were relevant to the country's own interests and priorities, consistent with the think tank's own agenda, and which would attract interest from policy influencers.
 
-### Sample Activities
+### Select Results
 
-* Support high-quality research.
-* Promote better publicity and advocacy around research results.
-* Strengthen capacity amongst partner think tanks to deliver these results.
+* Supported high-quality research.
+* Promoted better publicity and advocacy around research results.
+* Strengthened capacity amongst partner think tanks to deliver these results.
