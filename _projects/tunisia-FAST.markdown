@@ -1,7 +1,7 @@
 ---
 title: Tunisia—Fiscal and Accounting System of Tunisia (FAST)
 date: 2019-10-22 11:47:00 Z
-summary: TAHSEEN supports the systems and procedures necessary to operationalize and
+summary: FAST supports the systems and procedures necessary to operationalize and
   accelerate Government of Tunisia reforms that are modernizing the system for managing
   public revenues and expenditures.
 start: 2019
@@ -19,9 +19,9 @@ While the Tunisian economy remains fragile in the aftermath of the 2010 revoluti
 
 FAST supports the systems and procedures necessary to operationalize and accelerate Government of Tunisia reforms that are modernizing the system for managing public revenues and expenditures.
 
-FAST complements other activities by the U.S. Agency for International Development and other international donors in Tunisia to support the Government of Tunisia and the Ministry of Finance’s plan for improving  public financial management. FAST focuses specifically on enhancing and upgrading the government’s integrated public financial management information system (PFMIS) to increase the efficiency, transparency, and predictability of public finances. The project strengthens the government’s capacity to carry out fiscal, budgetary, and revenue collection mandates. The project also advances electronic services to optimize regulations, procedures, and authorizations that reduce the cost and time burden on businesses, facilitate investment and trade, and promote innovation. 
+FAST complements other activities by the U.S. Agency for International Development and other international donors in Tunisia to support the Government of Tunisia and the Ministry of Finance’s plan for improving public financial management. FAST focuses specifically on enhancing and upgrading the government’s integrated public financial management information system (PFMIS) to increase the efficiency, transparency, and predictability of public finances. The project strengthens the government’s capacity to carry out fiscal, budgetary, and revenue collection mandates. The project also advances electronic services to optimize regulations, procedures, and authorizations that reduce the cost and time burden on businesses, facilitate investment and trade, and promote innovation. 
 
-Finally, FAST works to strengthen communication between policy makers and the public to build a common understanding of the constraints to—and opportunities for—economic expansion. Combining key public financial management reforms with associated e-service platforms that spur equitable economic growth, FAST represents an important opportunity to assist Tunisia in financing its journey to self-reliance.
+Finally, FAST works to strengthen communication between policymakers and the public to build a common understanding of the constraints to—and opportunities for—economic expansion. Combining key public financial management reforms with associated e-service platforms that spur equitable economic growth, FAST represents an important opportunity to assist Tunisia in financing its journey to self-reliance.
 
 ![Ministere_finances_Tunisie.jpg](/uploads/Ministere_finances_Tunisie.jpg)
 
