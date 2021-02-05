@@ -20,6 +20,8 @@ promos:
 - title: Project Helps Vietnam Cut Red Tape, Hone Competitiveness, and Boost Economic
     Growth
   link: http://dai-global-developments.com/articles/project-helps-vietnam-cut-red-tape-hone-competitiveness-and-boost-economic-growth?utm_source=daidotcom
+- title: Eighth Provincial Competitiveness Index Gains Wide Support in Vietnam
+  link: https://www.dai.com/news/eighth-provincial-competitiveness-index-gains-wide-support-vietnam
 layout: project
 ---
 
