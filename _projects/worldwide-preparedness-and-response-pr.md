@@ -1,11 +1,9 @@
 ---
 title: Worldwide—Preparedness and Response (P&R)
 date: 2016-01-21 22:40:00 Z
-summary: 'The P&R project helps address the practical issues confronting national
-  governments as they strive to cope with the human, financial, and logistical constraints
-  associated with pandemic threats. The objectives are: 1) national One Health platforms
-  established and strengthened; and 2) national preparedness and response plans developed,
-  tested, implemented, and evaluated.'
+summary: 'The P&R project addressed the practical issues confronting national governments
+  as they coped with the human, financial, and logistical constraints associated with
+  pandemic threats. '
 start: 2014
 end: 2019
 client: U.S. Agency for International Development
@@ -23,7 +21,7 @@ promos:
 layout: project
 ---
 
-The Preparedness and Response (P&R) project was one component of the U.S. Agency for International Development’s [Emerging Pandemic Threats (EPT 2)](http://www.usaid.gov/sites/default/files/documents/1864/preparedness-response-factsheet %281%29.pdf) program. The EPT initiative preparesd for, detected, and responded to outbreaks such as Ebola, avian influenza, and MERS that move between animal and human populations. EPT is, in turn, part of the U.S. Global Health Security Agenda, which brings together U.S. Government agencies and other national governments to address natural and manmade disease threats worldwide.
+The Preparedness and Response (P&R) project was one component of the U.S. Agency for International Development’s [Emerging Pandemic Threats (EPT 2)](http://www.usaid.gov/sites/default/files/documents/1864/preparedness-response-factsheet %281%29.pdf) program. The EPT initiative prepared for, detected, and responded to outbreaks such as Ebola, avian influenza, and MERS that move between animal and human populations. EPT is, in turn, part of the U.S. Global Health Security Agenda, which brings together U.S. Government agencies and other national governments to address natural and manmade disease threats worldwide.
 
 [P&R](http://preparednessandresponse.org/) had a dual mandate to help countries design and implement national preparedness and response plans for public health events of unknown etiology and to establish and strengthen national One Health platforms. Our goal was to help address the practical issues confronting national governments as they strive to cope with the human, financial, and logistical constraints associated with pandemic threats. The objectives were:
 
@@ -31,6 +29,7 @@ The Preparedness and Response (P&R) project was one component of the U.S. Agency
 2. National preparedness and response plans developed, tested, implemented, and evaluated. 
 
 The P&R project provided technical assistance to strengthen countries’ multisectoral preparedness efforts. Over the past four years, the project worked directly in 16 countries: Bangladesh, Cameroon, Cote D’ Ivoire, Ethiopia, Guinea, Indonesia, Kenya, Laos, Liberia, Mali, Rwanda, Sierra Leone, Tanzania, Thailand, Uganda, and Vietnam.
+
 [Listen to a podcast](https://soundcloud.com/csis-57169780/frontline-perspectives-on-pandemic-preparedness) about the global threat of pandemics with experts from P&R.
 
 <iframe src="https://player.vimeo.com/video/271122811" width="640" height="360" frameborder="0" allowfullscreen></iframe>
