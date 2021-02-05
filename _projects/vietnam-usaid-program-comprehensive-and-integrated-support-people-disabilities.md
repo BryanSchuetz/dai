@@ -14,6 +14,11 @@ regions:
 - Asia and the Pacific
 country:
 - Vietnam
+promos:
+- title: Energizing the Support Network for People with Disabilities in Vietnam
+  link: https://dai-global-developments.com/articles/energizing-the-support-network-for-people-with-disabilities-in-vietnam?utm_source=daidotcom
+- title: In Vietnam, Creating Opportunities for Children with Disabilities
+  link: https://dai-global-developments.com/articles/in-vietnam-opening-doors-of-opportunity-for-children-with-disabilities?utm_source=daidotcom
 layout: project
 ---
 
@@ -23,19 +28,19 @@ We assisted the Vietnamese to provide more comprehensive care, treatment, and sp
 
 ![][3]
 
-###  Sample Activities
+### Sample Activities
 
 * Build an integrated case management, social work, and referral system that will be sustained by local government.
-* Improve the quality of and access to specialized services in rehabilitation, [education][4], employment/livelihoods and social service.
+* Improve the quality of and access to specialized services in rehabilitation, [education][4], employment/livelihoods, and social service.
 * Enhance public health services to improve the systems for birth defects, postnatal newborn screening, and cancer surveillance.
 * Strengthen pre-pregnancy (preconception) services such as medical checkups, nutritional support, and information on avoiding exposure to environmental contaminants.
 
-###  Select Results
+### Select Results
 
 * Nearly 650 people with disabilities [participated][5] in social, education, and sports events in Danang and Dong Nai on Vietnam Disability Day in April 2013; and nearly 600 people with disabilities from Danang participated in an International Disability Day event in December 2013.
 * More than 450 children with disabilities have received scholarships.
 * More than 830 people with disabilities have received clinical examinations for physical therapy, prostheses/orthoses, wheelchairs, or hearing aids.
-* Almost 300 people with disabilities have received assistive devices such wheelchairs, walking canes, hearing aids, standing frames, and prostheses.
+* Almost 300 people with disabilities have received assistive devices such as wheelchairs, walking canes, hearing aids, standing frames, and prostheses.
 * Nearly 230 community government employees in Danang received training in disability classification and determination as required by the new Disability Law.
 * About 330 service providers from different local agencies in Danang attended an orientation workshop in December 2013.
 
