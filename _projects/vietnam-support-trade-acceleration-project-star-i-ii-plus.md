@@ -18,6 +18,9 @@ regions:
 - Asia and the Pacific
 country:
 - Vietnam
+promos:
+- title: USAID STAR Project Helped Propel Vietnam into the Global Economy
+  link: https://dai-global-developments.com/articles/usaid-star-project-helped-propel-vietnam-into-the-global-economy
 layout: project
 ---
 
