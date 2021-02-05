@@ -1,10 +1,8 @@
 ---
 title: Vietnam—Competitiveness Initiative (VNCI)
 date: 2016-01-21 22:40:00 Z
-summary: 'VNCI is an economic growth project designed to increase the competitiveness
-  of small and medium-sized enterprises (SMEs) in Vietnam
-
-'
+summary: The Vietnam—Competitiveness Initiative was an economic growth project designed
+  to increase the competitiveness of small and medium-sized enterprises in Vietnam.
 start: 2003
 end: 2013
 client: U.S. Agency for International Development
@@ -16,6 +14,9 @@ regions:
 - Asia and the Pacific
 country:
 - Vietnam
+promos:
+- title: 'Doing More with Doing Business: Vietnam Provincial Competitiveness Index'
+  link: https://dai-global-developments.com/articles/doing-more-with-doing-business-vietnam-provincial-competitiveness-index?utm_source=daidotcom
 layout: project
 ---
 
