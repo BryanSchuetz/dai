@@ -16,6 +16,25 @@ regions:
 - Sub-Saharan Africa
 country:
 - Tanzania
+promos:
+- title: 'HER LAND RIGHTS: How documented property rights gave a Tanzanian widow financial
+    stability'
+  link: https://usaidpubs.exposure.co/her-land-rights
+- title: 'Strengthening Women''s Land Tenure Rights in Matembo '
+  link: https://www.usaid.gov/tanzania/news/strengthening-women%E2%80%99s-land-tenure-rights-matembo
+- title: Rural Tanzanians Map Their Country’s Future
+  link: https://www.usaid.gov/news-information/frontlines/may-june-2017/rural-tanzanians-map-their-countrys-future
+- title: 'Land Rights Mark a New Frontier for Tanzania''s Rural Women '
+  link: https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women
+- title: 'LTA Success Story: Land Registration Opens Economic Doors for Women in Kiponzelo'
+  link: https://land-links.org/document/lta-success-story-land-registration-opens-economic-doors-women-kiponzelo/
+- title: Tanzania Land Tenure Project Wins USAID Digital Development Award
+  link: https://www.dai.com/news/tanzania-land-tenure-project-wins-usaid-digital-development-award
+- title: 'Beyond Boundaries: How Secure Land Tenure is Improving Lives in Rural Tanzania'
+  link: https://dai-global-developments.com/articles/beyond-boundaries-how-secure-land-tenure-is-improving-lives-in-rural-tanzania?utm_source=daidotcom
+- title: 'Using Mobile Technology for First Registration of Land: Lessons Learned
+    in Tanzania'
+  link: https://dai-global-developments.com/articles/using-mobile-technology-for-first-registration-of-land-lessons-learned-in-tanzania
 layout: project
 ---
 
@@ -36,6 +55,6 @@ Under the Land Tenure Assistance (LTA) activity, funded by the U.S. Agency for I
 * Developed formal field and office procedures for regularizing land ownership.
 * Demarcated 32,000 parcels in 22 villages and issued 22,000 Certificates of Customary Right of Occupancy.
 * Nearly 50 percent of land claims are by [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, [jointly](https://land-links.org/document/lta-success-story-land-registration-opens-economic-doors-women-kiponzelo/), or in common. 
-* [Won award](https://www.dai.com/news/tanzania-land-tenure-project-wins-usaid-digital-development-award) from U.S. Global Development Lab for its innovative use of GPS technology to survey and register land in rural communities and for its development of a [digital registry](http://www.digitaldevelopment.org/feed-future-tanzania-land-tenure-assistance) to document property transfers. 
+* [Won award](https://www.dai.com/news/tanzania-land-tenure-project-wins-usaid-digital-development-award) from U.S. Global Development Lab for its innovative use of GPS technology to survey and register land in rural communities and for its development of a digital registry to document property transfers. 
 
 <iframe src="https://player.vimeo.com/video/206238160" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
