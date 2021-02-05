@@ -27,3 +27,4 @@ From her early research in cultural anthropology to subsequent work in managemen
 * M.A., Western hemisphere and international economics, Johns Hopkins School for Advanced International Studies
 * B.A., geography, Clark University
 * Certified Performance Technologist, International Society for Performance Improvement
+* Member, UN Digital Impact Alliance Digital Principles Advisory Council, 2021-2023
