@@ -24,6 +24,8 @@ promos:
   link: https://dai-global-developments.com/articles/liberia-moves-to-reduce-donor-dependence-by-improving-its-ability-to-invest-in-itself
 - title: "**Report**:  Benchmarking the Tax System in Liberia"
   link: "/uploads/BENCHMARKING%20THE%20TAX%20SYSTEM%20IN%20LIBERIA.pdf"
+- title: 'Liberia Tax Reform Update: Tenfold Increase in Taxes Due Reported Via E-Filing'
+  link: https://www.dai.com/news/tenfold-increase-in-reported-tax-obligations-via-e-filing-marks-improved-transparency-governance-for-liberia
 - title: Liberia Launches Mobile Tax Payments, Opening Doors to Increased Revenue
     for Domestic Development
   link: https://dai-global-developments.com/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development
