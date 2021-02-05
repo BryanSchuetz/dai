@@ -1,9 +1,9 @@
 ---
 title: Worldwide—Evidence on Demand Core Services
 date: 2016-01-21 22:40:00 Z
-summary: "[Evidence on Demand](http://www.evidenceondemand.info/homepage.aspx) is
+summary: "[Evidence on Demand](http://www.evidenceondemand.info/homepage.aspx) was
   a resource service providing high-quality information in the fields of climate,
-  environment, infrastructure, and livelihoods. The information hub provides access
+  environment, infrastructure, and livelihoods. The information hub provided access
   to a broad range of documents, learning resources and technical expertise."
 start: 2012
 end: 2016
