@@ -2,7 +2,7 @@
 title: The Gambia—State Building Contract 1 Complementary Support (SBC1 CS)
 date: 2018-10-04 15:05:00 Z
 summary: Through the State Building Contract 1 Complementary Support programme, DAI
-  is promoting inclusive growth and improved governance in The Gambia.
+  promoted inclusive growth and improved governance in The Gambia.
 start: 2018
 end: 2020
 client: European Union
@@ -24,7 +24,7 @@ promos:
 
 Following the turmoil of a contested presidential election in 2016, The Gambia faced an uncertain future. While the population had high expectations for the political transition, a fragile economy along with the state’s poor record in providing basic public services threatened the country’s stability. Peaceful parliamentary elections in 2017 paved the way for policymakers to restore fiscal sustainability and lay the groundwork for the country’s economic recovery. The European Union has supported the democratic transition from the outset with an ambitious budget support programme that includes complementary support measures implemented by a technical assistance team. 
  
-The State Building Contract 1 Complementary Support (SBC1 CS) programme, funded by the European Commission and managed by DAI, aims at fostering inclusive growth and improving political and economic governance by focusing on four key areas: Public Finance Management and Procurement, Security Sector Reform, Reliable Statistics Systems, and Business Environment and Private Sector Development. Our technical assistance is facilitating policy dialogue within and across institutions and is proactively engaged in capacity building and institutional strengthening with the overarching goal of promoting human rights, the rule of law, informed democratic processes, effective and accountable public structures, an inclusive economy. 
+The State Building Contract 1 Complementary Support (SBC1 CS) programme worked to foster inclusive growth and improved political and economic governance by focusing on four key areas: public finance management and procurement, security sector reform, reliable statistics systems, and business environment and private sector development. Our assistance facilitated policy dialogue within and across institutions and proactively engaged in capacity building and institutional strengthening with the overarching goal of promoting human rights, the rule of law, informed democratic processes, effective and accountable public structures, an inclusive economy. 
 
 <iframe src="https://player.vimeo.com/video/486086052" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
