@@ -15,14 +15,17 @@ regions:
 country:
 - Timor Leste
 promos:
-- title: USAID/TIMOR-LESTE SIGNS MOU WITH CONOCOPHILLIPS
+- title: 'USAID/Timor-Leste Signs MOU with ConocoPhillips '
   link: https://www.usaid.gov/timor-leste/program-updates/usaidtimor-leste-signs-mou-conocophillips
+- title: 'USAID/Timor-Leste''s DAC Project Supports improved Nutrition and Agricultural
+    Development '
+  link: https://www.usaid.gov/timor-leste/program-updates/may-20-2014-dac-project-supports-improved-nutrition-and-agricultural-development
 layout: project
 ---
 
 In 2007, USAID invested in a hydroponic greenhouse facility that enabled 20 Timorese farmers to grow high-value vegetables such as peppers, tomatoes, and eggplant. These new products for local supermarkets replaced vegetables that previously had to be imported, jumpstarting production in Timor-Leste's Aileu District and increasing cash income for its farmers. Since then, Developing Agricultural Communities (DAC) and its predecessor, the Dezenvolve Setor Privadu project (2006–2010), engaged more than 450 farmers in greenhouse and outdoor vegetable production and helped build a stronger fresh produce value chain.
 
-Our approach provided technical and management assistance to input suppliers, farmers, traders, wholesalers, retailers, and even lenders, and was designed to ensure that these successes will sustain. This approach was driven by the market demand for higher quality, more diverse fresh produce and helped establish local horticulture as a contributor to the non-oil economy of Timor-Leste.
+[Our approach](https://www.usaid.gov/timor-leste/project-descriptions/developing-agricultural-communities) provided technical and management assistance to input suppliers, farmers, traders, wholesalers, retailers, and even lenders, and was designed to ensure that these successes will sustain. This approach was driven by the market demand for higher quality, more diverse fresh produce and helped establish local horticulture as a contributor to the non-oil economy of Timor-Leste.
 
 Farmer groups also contributed to community life, including the refurbishing of a traditional spiritual house and the building of a Catholic chapel. One invested cash and labor to repair roads needed for a buyer's truck to reach their field; others built water tanks for irrigation and planted more than 10,000 trees on erosion-prone areas.
 
