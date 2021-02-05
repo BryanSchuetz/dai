@@ -22,6 +22,8 @@ promos:
 - title: 'Q&A with Jeffrey Mecaskey: How Community Engagement, Regulations, and Incentives
     Build a Path to Improved Healthcare'
   link: https://dai-global-developments.com/articles/q-and-a-with-jeffery-mecaskey
+- title: Strengthening the COVID-19 Response and Protecting Health Services in Uganda
+  link: https://dai-global-developments.com/articles/strengthening-the-covid-19-response-and-protecting-health-services-in-uganda
 ---
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
