@@ -24,10 +24,10 @@ Starting in  2003, FANTA worked to improve and strengthen nutrition and food sec
 
 ![][1]
 
-###  Sample Activities
+### Select Results
 
-* Conduct Food Security Country Framework assessments in Bangladesh, Burundi, and Nepal to assist in the design of USAID Title II food aid programming.
-* Assist the Ugandan Ministry of Agriculture in developing guidelines for extension agents to integrate nutrition in agriculture extension activities.
-* Apply value chain methodology to determine entry points along different commodity value chains where agriculture interventions can positively influence nutritional outcomes.
+* Conducted Food Security Country Framework assessments in Bangladesh, Burundi, and Nepal to assist in the design of USAID Title II food aid programming.
+* Assisted the Ugandan Ministry of Agriculture in developing guidelines for extension agents to integrate nutrition in agriculture extension activities.
+* Applied value chain methodology to determine entry points along different commodity value chains where agriculture interventions can positively influence nutritional outcomes.
 
 [1]: https://assetify-dai.com/projects/WorldwideFANTAGuatemala.gif
