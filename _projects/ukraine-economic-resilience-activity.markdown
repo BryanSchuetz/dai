@@ -20,6 +20,9 @@ promos:
   link: https://www.usaid.gov/npi/stories/building-economic-resilience-eye-ukraine%E2%80%99s-storm
 - title: Gender-Based Violence on the Rise in the COVID-19 Era
   link: https://dai-global-developments.com/articles/gender-based-violence-on-rise-in-covid-19-era
+- title: 'Fresh Tomatoes on the Front Lines of War: USAID Helps Boost Entrepreneurs
+    in Ukraine'
+  link: https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine
 ---
 
 Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The USAID Economic Resilience Activity (ERA) aims to boost the economic resilience of eastern Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents gain locally needed job skills.
