@@ -10,10 +10,14 @@ client: U.S. Agency for International Development
 solutions:
 - Global Health
 - Health and Livelihoods
+- Economic Growth
 regions:
 - Sub-Saharan Africa
 country:
 - Tanzania
+promos:
+- title: Using Hard Data to Inform HIV/AIDS Interventions for Economic Strengthening
+  link: https://dai-global-developments.com/articles/using-hard-data-to-inform-hivaids-interventions-for-economic-strengthening
 layout: project
 ---
 
