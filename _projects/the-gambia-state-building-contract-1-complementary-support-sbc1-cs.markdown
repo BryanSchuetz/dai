@@ -26,7 +26,7 @@ Following the turmoil of a contested presidential election in 2016, The Gambia f
  
 The State Building Contract 1 Complementary Support (SBC1 CS) programme worked to foster inclusive growth and improved political and economic governance by focusing on four key areas: public finance management and procurement, security sector reform, reliable statistics systems, and business environment and private sector development. Our assistance facilitated policy dialogue within and across institutions and proactively engaged in capacity building and institutional strengthening with the overarching goal of promoting human rights, the rule of law, informed democratic processes, effective and accountable public structures, an inclusive economy. 
 
-<iframe src="https://player.vimeo.com/video/486086052" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/486086052" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Sample Activities
 
