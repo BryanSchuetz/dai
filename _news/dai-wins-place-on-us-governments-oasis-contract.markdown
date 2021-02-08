@@ -19,4 +19,4 @@ OASIS is officially designated a “[Best-in-Class](https://www.gsa.gov/buying-s
 
 “We are delighted that our systems, processes and capabilities have met the high standard demanded of OASIS service providers,” said Tine Knott, Senior Vice President for DAI’s U.S. Government Business Unit. “Through this Best-in-Class vehicle, we hope to continue our support to the U.S. Agency for International Development and our traditional partners in the global development sector, while making our services—in environment, finance, digital, and other disciplines—more readily available to other parts of the U.S. Government.”
  
-The OASIS IDIQ is active for five years, and task orders can be active through 2029. DAI’s OASIS team is led by Program Manager Natawnee Fritz and Contract Manager Kevin Kelly. For more information, please contact OASIScontracts@dai.com.
+The OASIS IDIQ is active for five years, and task orders can be active through 2029. DAI’s OASIS team is led by Program Manager Natawnee Fritz and Contract Manager Kevin Kelly. For more information, please contact [OASIScontracts@dai.com](mailto:oasiscontracts@dai.com).
