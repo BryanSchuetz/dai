@@ -4,7 +4,7 @@ date: 2018-10-04 15:05:00 Z
 summary: Through the State Building Contract 1 Complementary Support programme, DAI
   promoted inclusive growth and improved governance in The Gambia.
 start: 2018
-end: 2020
+end: 2021
 client: European Union
 solutions:
 - Governance
