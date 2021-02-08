@@ -32,4 +32,12 @@ To help empower young people in Tanzania, the Advancing Youth Activity, funded b
 * Foster leadership among youth by adapting the successful Champions for Change experiential leadership development methodology created by USAID’s [Africa Lead project](https://www.dai.com/our-work/projects/africa-africa-lead-ii).
 * Collaborate with the government of Tanzania to implement healthy life skills curricula in schools and roll out community-based healthy life skills services through preexisting networks.
 
+### Select Results
+
+* Supported 25,746 young people—64 percent of whom are women and 55 percent of whom are under the age of 25.
+* Established or improved 3,777 microbusinesses.
+* Helped 1.226 young people to become more active in decision-making bodies. 
+* Created 2,535 formal and informal jobs.
+* Created 149 young savings and lending groups that, collectively have saved about $365,200.
+
 <iframe src="https://player.vimeo.com/video/430347387" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
