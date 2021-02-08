@@ -7,6 +7,7 @@ summary: The U.S. General Services Administration has awarded DAI a place on the
   Acquisition Solution for Integrated Solutions (OASIS) contracting vehicle, one of
   a family of indefinite delivery, indefinite quantity (IDIQ) contracts that “provide
   flexible and innovative solutions for complex professional services.”
+social-image: "/uploads/sm%20OASIS%20logo.png"
 country: Worldwide
 ---
 
