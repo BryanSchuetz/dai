@@ -17,7 +17,7 @@ Funded by the Inter-American Development Bank, DAI’s Sustainable Business Grou
 
 SBG also developed a Technology Review that assessed the supply of RE/EE technologies within the local market. In-person insights were combined with mobile survey data collection to construct a grounded analysis of challenges for MSMEs and how an innovative green financing product could address those challenges. This interview-driven analysis included an assessment of strategic partnerships that would complement the comparative advantages of IPED and ensure alignment with national programs and objectives. The project also includes the design of a digital tool for IPED’s loan officers to screen climate risk as part of their loan underwriting process and assists IPED in developing an institutional greening policy.
 
-![EcoMicro-Pic.jpg](/uploads/EcoMicro-Pic.jpg)
+!![Guyana image012.jpg](/uploads/Guyana%20image012.jpg)
  
 ### Sample Activities
  
