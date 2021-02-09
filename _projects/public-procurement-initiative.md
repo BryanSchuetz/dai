@@ -25,4 +25,9 @@ DAI and lead partner Everis carried out studies on government procurement in Aus
 * Develop a methodology for collecting data.
 * Analyse public procurement data and legislation and their effects on trade flows, gross domestic product, and related policy—among other effects.
 
+### Select Results
+
+* Developed a methodology for quantifying public procurement flows. 
+* Built a database and series of country studies.
+
 [1]: https://assetify-dai.com/projects/EC-Procurement-webpage.jpg
