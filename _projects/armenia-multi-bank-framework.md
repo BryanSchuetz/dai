@@ -17,7 +17,7 @@ country:
 layout: project
 ---
 
-DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to support Armenian partner banks in establishing adequate lending practices and supporting them in loan appraisal and credit approval processes. DAI established and implemented EBRD-funded small and medium enterprise sub-projects in all-new partner banks. At the same time, we contributed to the overall institution strengthening of the banks by advising on the structuring of credit departments and developing and improving internal credit policies and procedures. We worked with the partner banks to create capabilities and capacities in both policies and procedures and staff to build a profitable and high-quality small and medium enterprise sub-loan portfolio and helped the banks further and independently develop their lending activities and effectively manage their portfolios.
+DAI was contracted by the European Bank for Reconstruction and Development (EBRD) to support Armenian partner banks in establishing adequate lending practices and supporting them in loan appraisal and credit approval processes. DAI established and implemented EBRD-funded small and medium enterprise sub-projects in all-new partner banks. 
 
 ### Sample Activities
 
@@ -27,3 +27,9 @@ DAI was contracted by the European Bank for Reconstruction and Development (EBRD
 * Introduce and strengthen risk management practices to support small and medium enterprise lending activities and overall management of partner banks.
 * Train loan officers and other relevant staff on advanced cash flow-based lending and modeling, advanced sales and marketing skills, and compliance issues related to anti-money-laundering guidelines.
 * Ensure adherence to high standards of integrity in the credit appraisal process.
+
+### Select Results
+
+* Contributed to the overall institutional strengthening of the banks by advising on the structuring of credit departments and developing and improving internal credit policies and procedures. 
+* Worked with the partner banks to create capabilities and capacities in both policies and procedures and staff to build a profitable and high-quality small and medium enterprise sub-loan portfolio. 
+* Helped the banks further and independently develop their lending activities and effectively manage their portfolios.
