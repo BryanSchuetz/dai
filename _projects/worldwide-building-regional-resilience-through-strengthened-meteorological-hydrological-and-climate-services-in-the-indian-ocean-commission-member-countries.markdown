@@ -8,7 +8,7 @@ summary: 'DAI provided technical expertise to design the Building Regional Resil
   Fund as part of the [Adapt’Action](https://www.afd.fr/en/adaptaction) framework
   contract. '
 start: 2019
-end: 2020
+end: 2021
 client: French Development Agency
 solutions:
 - Climate Change Adaptation and Mitigation
@@ -31,3 +31,9 @@ Working with World Meteorological Organisation staff, this assignment closely al
 * Identify gaps and capacity building needs among the national hydrological, meteorological, agrometeorological, and marine services of each beneficiary country and at the regional level.
 * Develop complementary studies for the Regional Hydromet Project, namely environmental and social impact assessment, economic and financial feasibility study, gender assessment plan, and action plan.
 * Develop a full-scale funding proposal for the Regional Hydromet Project.
+
+### Select Results
+
+* Drafted the project’s feasibility assessment, economic and financial analysis, gender assessment and action plan, and environmental and social management framework as per Green Climate Fund guidelines.
+* Drafted the full project proposal including project results framework and institutional mechanisms based on consultations with the French Development Agency (AFD), European Union, Indian Ocean Commission, and executing entities in Comoros, Madagascar, Mauritius, and Seychelles.
+* Provided support to the AFD team to address the Green Climate Fund evaluation panel queries in preparation for its review at the GCF Board meeting in spring 2021.
