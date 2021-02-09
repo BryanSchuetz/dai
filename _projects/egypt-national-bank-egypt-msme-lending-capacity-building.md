@@ -23,11 +23,11 @@ The National Bank of Egypt is the oldest and largest commercial bank in Egypt wh
 
 ![][1]
 
-### Sample Activities
+### Select Results
 
-* Review strategy, provide recommendations and assist with the implementation of measures for expanding MSME lending and risk management.
-* Assess the feasibility of setting up a separate microfinance business unit (in-house vs. specialised subsidiary), provide recommendations, and assist with the development of micro-lending.
-* Provide recommendations and assist with the implementation of credit scoring, to perhaps including the development of a scorecard, time-bound programme, and automated application processing.
-* Help develop an MSME Advisory Services Unit to support MSMEs in financial management, applying for and servicing loan products, and other needs.
+* Reviewed strategy, provided recommendations, and assisted with the implementation of measures for expanding MSME lending and risk management.
+* Assessed the feasibility of setting up a separate microfinance business unit (in-house vs. specialised subsidiary), provided recommendations, and assisted with the development of micro-lending.
+* Provided recommendations and assisted with the implementation of credit scoring, to perhaps including the development of a scorecard, time-bound programme, and automated application processing.
+* Helped develop an MSME Advisory Services Unit to support MSMEs in financial management, applying for and servicing loan products, and other needs.
 
 [1]: https://assetify-dai.com/projects/egyptmse.jpg
