@@ -21,6 +21,8 @@ promos:
   link: https://medium.com/usaid-global-waters/kenyan-county-sets-sights-on-lofty-wash-goals-958c3c164a0
 - title: Clean Water = Education, Access, Opportunity
   link: https://www.usglc.org/blog/clean-water-education-access-opportunity/
+- title: Responding to COVID-19 While Reinforcing Development Gains in Kenya
+  link: https://www.globalwaters.org/resources/blogs/responding-covid-19-while-reinforcing-development-gains-kenya
 layout: project
 ---
 
