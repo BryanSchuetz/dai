@@ -8,6 +8,7 @@ solutions:
 summary: Krista Baptista, the head of DAI’s Center for Digital Acceleration, has been
   chosen to serve on the United Nations’ Digital Impact Alliance Digital Principles
   Advisory Council.
+social-image: "/uploads/P_logo_200px-1.png"
 ---
 
 [Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista), the head of DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration), has been chosen to serve on the United Nations’ Digital Impact Alliance Digital Principles [Advisory Council](https://digitalprinciples.org/introducing-the-digital-principles-advisory-council-for-2021-2023/).
@@ -21,6 +22,8 @@ In her role, which has a two-year term, Baptista will work with donors, private 
 The Principles champion cross-sector collaboration, open knowledge sharing, and community-driven solutions. In 2018, the Digital Impact Alliance established the first Advisory Council to guide the program’s priorities, investments, and projects, and since then the Council has helped the team achieve several important milestones, from having [IBM sign](https://digitalprinciples.org/ibm-endorses-the-digital-principles/) on as the first private sector endorser to formalizing partnerships with [youth-led](https://plancanada.ca/yet4h) groups and incorporating the  Principles in donor and digital health [strategies](https://www.usaid.gov/usaid-digital-strategy).
 
 “The Digital Principles team and the Advisory Council gave me hope that there can be spirited dialogue from different perspectives,” said Jaclyn Carlsen, former Council Member and former DAI staffer. “We, together, can be less polarized and shape, if not nudge, the impact of technology on different communities.” 
+
+![PDD-UpdatedLogo-1.png](/uploads/PDD-UpdatedLogo-1.png)
 
 The other new Council members include Liliana Fernandez-Gomez, Directorate of Digital Development at National Planning Department, Government of Colombia; Dr. Ronda Železný-Green, The Internet Society; Sahil Tandon, The David and Lucille Packard Foundation, India; and Robert Opp, UNDP. The new members join Nora Lindström, Dr. Henry Mwanyika, and Lilian Nduati (Kenya), who continue their tenure. 
 
