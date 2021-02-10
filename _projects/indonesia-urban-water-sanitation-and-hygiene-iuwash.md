@@ -18,6 +18,9 @@ regions:
 - Asia and the Pacific
 country:
 - Indonesia
+promos:
+- title: Positively Mobilizing Urban Communities for WASH
+  link: https://dai-global-developments.com/articles/positively-mobilizing-urban-communities-for-wash
 layout: project
 ---
 
