@@ -54,3 +54,4 @@ By the end of 2019, the program had [helped more than 800,000](https://www.usglc
 * Trained 24 Water Resource Users Association (WRUAs) to understand and plan for effective conservation; protected 68 springs and planted 153,400 indigenous trees around water sources.
 * Established 234 demonstration farms at farmer’s homesteads to showcase various technologies for adoption by community members; trained more than 4,400 farmers on establishing kitchen gardens, with 5,949 kitchen gardens established in eight counties.
 * Collaborated with Busia Water Company to decrease non-revenue water by 66 percent and establish more than 200 new water connections, benefitting more than 1,000 people. 
+* Launched [mobile payment options](https://www.globalwaters.org/resources/blogs/responding-covid-19-while-reinforcing-development-gains-kenya) in light of COVID-19 crisis. 
