@@ -10,8 +10,11 @@ solutions:
 - Economic Growth
 - Finance and Investment
 articles:
-- name: 'DFS for Development: 6 Ideas to Reach the Next 1.7 Billion'
+- name: 'Digital Financial Services for Development: 6 Ideas to Reach the Next 1.7
+    Billion'
   article_file: https://www.centerforfinancialinclusion.org/dfs-for-development-6-ideas-to-reach-the-next-1-7-billion
+- name: 'Beyond Access and Usage: Financial Services for Livelihoods'
+  article_file: https://www.cgap.org/blog/beyond-access-and-usage-financial-services-livelihoods
 ---
 
 Till Bruett has more than 25 years of experience in the financial sector including commercial banking, microfinance, and digital finance. He joined DAI in 2019 as the Global Practice Lead for Financial Services and Investment. Till is no stranger to DAI. He co-founded Alternative Credit Technologies in 2000, a consulting company specialized in building inclusive financial systems that regularly worked with DAI in the 2000s on its flagship financial sector projects. 
