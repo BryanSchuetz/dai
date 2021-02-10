@@ -7,7 +7,7 @@ summary: 'The Supporting the Policy Environment for Economic Development+ progra
   and expand markets, contributing to inclusive economic growth and the conservation
   of natural resources. '
 start: 2016
-end: 2020
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
