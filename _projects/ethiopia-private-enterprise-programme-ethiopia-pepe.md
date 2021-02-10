@@ -71,3 +71,4 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Supported the Development Bank of Ethiopia and 12 microfinance institutions with technical assistance that contributed to £50 million in loan disbursements and enabled another £204 million credit line by World Bank (to be disbursed by 2020).
 * Generated £43 million of additional investment into the economy.
 * Created more than 30,000 financial accounts.
+* Watch [this video](https://www.youtube.com/watch?v=_N8yhJk9Phc) to learn more about how the project worked.
