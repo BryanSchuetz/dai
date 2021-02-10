@@ -18,6 +18,8 @@ regions:
 country:
 - Ethiopia
 promos:
+- title: 'VIDEO: The Market Systems Development Approach in Ethiopia'
+  link: https://www.youtube.com/watch?v=_N8yhJk9Phc
 - title: Ethiopia Stands Poised to Lead an African Industrial Revolution
   link: https://dai-global-developments.com/articles/ethiopia-stands-poised-to-lead-an-african-industrial-revolution
 - title: 'Webinar: Market Systems Development in Ethiopia'
@@ -39,8 +41,6 @@ promos:
 - title: 'Changing the Rules with Evidence, Strategies, and Action: Lessons from Our
     Cotton and Leather Interventions'
   link: "/uploads/Case%20Study%206%20(Standalone_Web).pdf"
-- title: 
-  link: 
 layout: project
 ---
 
