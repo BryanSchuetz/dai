@@ -16,7 +16,7 @@ The Council brings together digital experts across U.S., U.K., and European dono
 
 In her role, which has a two-year term, Baptista will work with donors, private sector firms, and other partners to further the goals of the Principles, of which DAI is a signatory.
 
-“I’m honored to serve on the Advisory Council,” Baptista said. “The Digital Principles are essential to the work we do at DAI and increasingly relevant to all the disciplines of development. I will try to bring new perspectives and energy to putting the Principles into practice with key stakeholders and communities.”
+“I’m honored to serve on the Advisory Council,” Baptista said. “The Digital Principles are essential to the work we do at DAI and increasingly relevant to all the disciplines of development. I believe that I bring new perspectives and energy to putting the Principles into practice with key stakeholders and communities.”
 
 The Principles champion cross-sector collaboration, open knowledge sharing, and community-driven solutions. In 2018, the Digital Impact Alliance established the first Advisory Council to guide the program’s priorities, investments, and projects, and since then the Council has helped the team achieve several important milestones, from having [IBM sign](https://digitalprinciples.org/ibm-endorses-the-digital-principles/) on as the first private sector endorser to formalizing partnerships with [youth-led](https://plancanada.ca/yet4h) groups and incorporating the  Principles in donor and digital health [strategies](https://www.usaid.gov/usaid-digital-strategy).
 
