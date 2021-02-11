@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [RFP 21-004 Self Learning Electronic Module on Gender and Trade](https://assetify-dai.com/rfps/rfp-no-req-pre-21-0004-self-learning-electronic--e--module-on-gender-and-trade-final "02/24/21")
 * [MOD-201-RFP Systems Thinking Workshop](/uploads/Mod%201%20RFP%20Systems%20Thinking%20Workshop.pdf)
 * [REQ-PRE-21-0003 Development and Implementation of the PSW Integrated Risk Management System](http://assetify-dai.com/rfps/REQ-PRE-21-0003%20Development%20and%20Implementation%20of%20the%20PSW%20Integrated%20Risk%20Management%20System.pdf "03/01/21")
 * [RFP ALG-003-21 Horticultural Cold Chain Consulting](http://assetify-dai.com/rfps/ALG-003-21%20Horticultural%20Cold%20Chain%20Consulting%20Services.pdf "2/11/21")
