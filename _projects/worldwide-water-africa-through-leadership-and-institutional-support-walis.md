@@ -29,6 +29,9 @@ promos:
   link: https://www.globalwaters.org/resources/assets/walis/walis-year-six-fact-sheet
 - title: WALIS Program Summary
   link: https://www.globalwaters.org/sites/default/files/walis_project_summary_final.pdf
+- title: 'Big Gains in Access to Safe Drinking Water: How Four African Countries Did
+    It … and How Others Can, Too'
+  link: https://dai-global-developments.com/articles/doubling-access-to-safe-drinking-water-how-four-african-countries-did-it-and-how-others-can-too
 redirect_from:
 - "/walis"
 layout: project
