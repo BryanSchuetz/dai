@@ -17,7 +17,7 @@ Based in London, John simultaneously oversees DAI Capital, a business unit creat
 
 John previously served as Director of the Project Management Unit in our Europe office, where he provided strategic guidance to large-scale programmes for clients including the U.K. Department for International Development, the European Commission, the Millennium Challenge Corporation, and the World Bank.
 
-John joined DAI from Relief International, where he was Senior Vice President for Programs. Prior to that he worked for tech startup Aeromesh, private equity firm H.I.G. Capital, and in the corporate strategy department of The Walt Disney Company. He was a founding board member of the Centre for Development Results and has served as chair of the International Development Working Group for British Expertise.
+Before joining DAI, John worked in both the nonprofit and private sectors, including for tech startup Aeromesh, private equity firm H.I.G. Capital, and in the corporate strategy department of The Walt Disney Company. He was a founding board member of the Centre for Development Results and has served as chair of the International Development Working Group for British Expertise.
 
 * M.B.A., University of Oxford
 * B.A., public and international affairs, Princeton University
