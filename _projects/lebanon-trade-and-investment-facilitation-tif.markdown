@@ -12,6 +12,10 @@ solutions:
 - Trade
 regions: Middle East and North Africa
 country: Lebanon
+promos:
+- title: USAID Launches the Trade and Investment Facilitation Project to Enhance Economic
+    Opportunities in Targeted Business Sectors in Lebanon
+  link: https://executive-bulletin.com/slider/usaid-launches-the-trade-and-investment-facilitation-tif-project-to-enhance-economic-opportunities-in-targeted-business-sectors-in-lebanon
 ---
 
 With a free market economy and a strong laissez-faire commercial tradition, Lebanon, until recent years, has been a regional epicenter for commerce, banking, and innovation. Now deeply mired in a crippling political and financial crisis, the country needs a new direction and assistance to turn around the economy, restart finance and export markets, facilitate policy change, and drive new investments that will bring in foreign exchange and improve global competitiveness. 
