@@ -2,7 +2,6 @@
 title: DAI’s Krista Baptista to Serve on Digital Impact Alliance Digital Principles
   Advisory Council
 date: 2021-02-11 08:56:00 Z
-published: false
 solutions:
 - Digital Acceleration
 summary: Krista Baptista, the head of DAI’s Center for Digital Acceleration, has been
