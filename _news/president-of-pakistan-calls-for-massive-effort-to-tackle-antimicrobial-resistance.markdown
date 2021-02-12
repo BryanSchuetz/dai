@@ -1,7 +1,6 @@
 ---
 title: President of Pakistan Calls for Massive Effort to Tackle Antimicrobial Resistance
 date: 2021-02-12 08:19:00 Z
-published: false
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
@@ -12,6 +11,7 @@ summary: Even as the world mobilizes to confront the immediate challenge of COVI
   the imminent and long-term threat of antimicrobial resistance (AMR) remains a pressing
   concern. President Dr. Arif Alvi of Pakistan affirmed his country’s commitment to
   tackling AMR at a recent meeting with representatives of the [Fleming Fund Grant](https://www.dai.com/our-work/projects/pakistan-fleming-fund).
+social-image: "/uploads/sm%20MicrosoftTeams-image.jpg"
 country: Pakistan
 ---
 
@@ -21,7 +21,7 @@ Facilitated by inappropriate use of medicines, the proliferation of low-quality 
 
 Left unchecked, AMR could result in more than $100 trillion in economic losses and up to 10 million deaths each year by 2050, according to the [Fleming Fund](https://www.flemingfund.org/our-approach/about-amr/), which supports low- and middle-income countries in their efforts to combat AMR.
 
-![MicrosoftTeams-image.jpg](/uploads/MicrosoftTeams-image.jpg)`Pictured at the February 10 meeting with President Alvi (from left): Dr. Abdul Wali, Deputy Director Programmes, Ministry of NHSR&C; Dr. Ayesha Rasheed, Team Leader, Fleming Fund Country Grant Pakistan; Annabel Gerry, Development Director, FCDO Pakistan, British High Commission; Dr. Arif Alvi, President of Pakistan; Dr. Christian Turner, British High Commissioner to Pakistan; Zan Northrip, Executive Vice President, DAI; Arsalan Ali Faheem, Development Director Pakistan, DAI; and Zubair Ahmed Shad, Consultant, Fleming Fund Country Grant Pakistan.`
+![newMicrosoftTeams-image.jpg](/uploads/newMicrosoftTeams-image.jpg)`Pictured at the February 10 meeting with President Alvi (from left): Dr. Abdul Wali, Deputy Director Programmes, Ministry of NHSR&C; Dr. Ayesha Rasheed, Team Leader, Fleming Fund Country Grant Pakistan; Annabel Gerry, Development Director, FCDO Pakistan, British High Commission; Dr. Arif Alvi, President of Pakistan; Dr. Christian Turner, British High Commissioner to Pakistan; Zan Northrip, Executive Vice President, DAI; Arsalan Ali Faheem, Development Director Pakistan, DAI; and Zubair Ahmed Shad, Consultant, Fleming Fund Country Grant Pakistan.`
 
 Following the February 10 meeting with a Fleming Fund delegation led by British High Commissioner to Pakistan Dr. Christian Turner, President Alvi called for introducing “massive changes to the present practice of frequent use of antimicrobial agents in human, animal and environmental sectors.” He said that “the unnecessary use of antibiotics posed serious health challenges requiring the change of attitude by medical practitioners and society as a whole.”
 
