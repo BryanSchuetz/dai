@@ -15,7 +15,7 @@ summary: Even as the world mobilizes to confront the immediate challenge of COVI
 country: Pakistan
 ---
 
-Even as the world mobilizes to confront the immediate challenge of COVID-19, the imminent and long-term threat of antimicrobial resistance (AMR) remains a pressing concern. President Dr. Arif Alvi of Pakistan affirmed his country’s commitment to tackling AMR at a recent meeting with representatives of the [Fleming Fund Grant](https://www.dai.com/our-work/projects/pakistan-fleming-fund), a U.K. Foreign, Commonwealth & Development Office-funded collaboration with the Government of Pakistan to strengthen systems across human health, animal health, and environment sectors. 
+Even as the world mobilizes to confront the immediate challenge of COVID-19, the imminent and long-term threat of antimicrobial resistance (AMR) remains a pressing concern. President Dr. Arif Alvi of Pakistan affirmed his country’s commitment to tackling AMR at a recent meeting with representatives of the [Fleming Fund Grant](https://www.dai.com/our-work/projects/pakistan-fleming-fund), a U.K. Department of Health and Social Care-funded collaboration with the Government of Pakistan to strengthen systems across human health, animal health, and environment sectors. 
 
 Facilitated by inappropriate use of medicines, the proliferation of low-quality drugs, and poor infection prevention and control measures, AMR occurs when microorganisms adapt in such a way that medications such as antibiotics become ineffective against them. 
 
