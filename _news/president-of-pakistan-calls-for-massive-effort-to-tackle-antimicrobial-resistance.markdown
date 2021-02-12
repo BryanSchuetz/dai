@@ -21,6 +21,8 @@ Facilitated by inappropriate use of medicines, the proliferation of low-quality 
 
 Left unchecked, AMR could result in more than $100 trillion in economic losses and up to 10 million deaths each year by 2050, according to the [Fleming Fund](https://www.flemingfund.org/our-approach/about-amr/), which supports low- and middle-income countries in their efforts to combat AMR.
 
+
+
 Following the February 10 meeting with a Fleming Fund delegation led by British High Commissioner to Pakistan Dr. Christian Turner, President Alvi called for introducing “massive changes to the present practice of frequent use of antimicrobial agents in human, animal and environmental sectors.” He said that “the unnecessary use of antibiotics posed serious health challenges requiring the change of attitude by medical practitioners and society as a whole.”
 
 “Like COVID-19, drug resistance does not respect borders,” said DAI’s [Dr. Ayesha Rasheed](https://www.dai.com/who-we-are/our-team/ayesha-rasheed), Team Leader for the Fleming Fund Country Grant Pakistan. “I’m delighted that, with the support of President Alvi, the United Kingdom and Pakistan are working together to tackle the threat of antimicrobial resistance in Pakistan. The Fleming Fund is investing more than £9 million in Pakistan to address this and support public health laboratories in the country.”
