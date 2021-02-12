@@ -21,7 +21,7 @@ Facilitated by inappropriate use of medicines, the proliferation of low-quality 
 
 Left unchecked, AMR could result in more than $100 trillion in economic losses and up to 10 million deaths each year by 2050, according to the [Fleming Fund](https://www.flemingfund.org/our-approach/about-amr/), which supports low- and middle-income countries in their efforts to combat AMR.
 
-
+![MicrosoftTeams-image.jpg](/uploads/MicrosoftTeams-image.jpg)`Pictured at the February 10 meeting with President Alvi (from left): Dr. Abdul Wali, Deputy Director Programmes, Ministry of NHSR&C; Dr. Ayesha Rasheed, Team Leader, Fleming Fund Country Grant Pakistan; Annabel Gerry, Development Director, FCDO Pakistan, British High Commission; Dr. Arif Alvi, President of Pakistan; Dr. Christian Turner, British High Commissioner to Pakistan; Zan Northrip, Executive Vice President, DAI; Arsalan Ali Faheem, Development Director Pakistan, DAI; and Zubair Ahmed Shad, Consultant, Fleming Fund Country Grant Pakistan.`
 
 Following the February 10 meeting with a Fleming Fund delegation led by British High Commissioner to Pakistan Dr. Christian Turner, President Alvi called for introducing “massive changes to the present practice of frequent use of antimicrobial agents in human, animal and environmental sectors.” He said that “the unnecessary use of antibiotics posed serious health challenges requiring the change of attitude by medical practitioners and society as a whole.”
 
@@ -30,6 +30,3 @@ Following the February 10 meeting with a Fleming Fund delegation led by British 
 In his remarks to the delegation, President Alvi noted that Pakistan is currently confronting several drug-resistant epidemics. The Government of Pakistan—including all Provincial Health and Livestock Departments—are committed to play their role in global disease control and stand by the global community in the effort to reduce the AMR burden, he said.
 
 Fleming Fund activities in Pakistan are focused on strengthening Pakistan’s health system capacities through improved integrated disease surveillance. The programme has assessed 25 national and provincial laboratories to strengthen their microbiology capacities, for example, and worked extensively to improve provincial capacities in monitoring and managing AMR, including the use of antimicrobial agents.
-
-            
-`Pictured at the February 10 meeting with President Alvi (from left): Dr. Abdul Wali, Deputy Director Programmes, Ministry of NHSR&C; Dr. Ayesha Rasheed, Team Leader, Fleming Fund Country Grant Pakistan; Annabel Gerry, Development Director, FCDO Pakistan, British High Commission; Dr. Arif Alvi, President of Pakistan; Dr. Christian Turner, British High Commissioner to Pakistan; Zan Northrip, Executive Vice President, DAI; Arsalan Ali Faheem, Development Director Pakistan, DAI; and Zubair Ahmed Shad, Consultant, Fleming Fund Country Grant Pakistan.`
