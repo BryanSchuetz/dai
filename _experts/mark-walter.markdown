@@ -15,7 +15,8 @@ solutions:
 regions:
 - Worldwide
 articles:
-- name: The CISG and Cross-Border Access to Commercial Justice
+- name: The United Nations Convention On Contracts for the International Sale of Goods
+    (CISG) and Cross-Border Access to Commercial Justice
   article_file: https://jlc.law.pitt.edu/ojs/index.php/jlc/article/view/169
 ---
 
