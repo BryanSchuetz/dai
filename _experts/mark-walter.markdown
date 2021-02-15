@@ -14,6 +14,9 @@ solutions:
 - Economic Growth
 regions:
 - Worldwide
+articles:
+- name: The CISG and Cross-Border Access to Commercial Justice
+  article_file: https://jlc.law.pitt.edu/ojs/index.php/jlc/article/view/169
 ---
 
 Mark Walter is an international development lawyer specializing in the business-enabling environment, commercial dispute resolution, trade policy reform and assessment, and drafting and implementation of commercial law. 
