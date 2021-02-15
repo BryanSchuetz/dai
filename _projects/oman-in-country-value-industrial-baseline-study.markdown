@@ -6,7 +6,7 @@ summary: DAI’s Sustainable Business Group (SBG) created an in-country value (I
   and quantitative analyses.
 start: 2018
 end: 2019
-client: Petroleum Development Oman
+client: Multinational Corporation
 solutions:
 - Sustainable Business
 regions: Middle East and North Africa
