@@ -2,7 +2,6 @@
 title: New Public Health Emergency Coordination System Will Strengthen Pandemic Response
   in Southeast Asia
 date: 2021-02-17 09:26:00 Z
-published: false
 solutions:
 - Global Health Security and Pandemic Preparedness
 - Governance
@@ -12,7 +11,7 @@ projects: Southeast Asia—ASEAN-USAID Partnership for Regional Optimization wit
 clients: U.S. Agency for International Development
 summary: 'DAI is supporting ASEAN to establish a Public Health Emergency Coordination
   System to strengthen a unified regional response to future pandemics. '
-social-image: "/uploads/800px-ASEAN_Embleme.png"
+social-image: "/uploads/800px-ASEAN_Embleme-f4a526.png"
 country: 'Southeast Asia '
 ---
 
