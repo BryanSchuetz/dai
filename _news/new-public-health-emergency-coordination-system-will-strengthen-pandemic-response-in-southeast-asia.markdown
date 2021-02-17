@@ -3,6 +3,17 @@ title: New Public Health Emergency Coordination System Will Strengthen Pandemic 
   in Southeast Asia
 date: 2021-02-17 14:26:00 Z
 published: false
+solutions:
+- Global Health Security and Pandemic Preparedness
+- Governance
+regions: Asia and the Pacific
+projects: Southeast Asia—ASEAN-USAID Partnership for Regional Optimization with the
+  Political-Security and Socio-Cultural Communities (PROSPECT)
+clients: U.S. Agency for International Development
+summary: 'DAI is supporting ASEAN to establish a Public Health Emergency Coordination
+  System to strengthen a unified regional response to future pandemics. '
+social-image: "/uploads/800px-ASEAN_Embleme.png"
+country: 'Southeast Asia '
 ---
 
 The unprecedented spread and devastation of the COVID-19 pandemic has tested communities throughout the globe—even those considered to be well-prepared. In Southeast Asia, where Member States of the Association of Southeast Asian Nations (ASEAN) boast a successful track record of dealing with infectious disease outbreaks of zoonotic origin such as Avian Influenza and Severe Acute Respiratory Syndrome, COVID-19 has highlighted where existing national and regional preparedness and response systems and mechanisms, previously successful, have fallen short. Importantly, the crisis has shown how public health emergencies can impact every facet of people’s daily lives, thus galvanizing a multisectoral and whole-of-society approach to recovery efforts as well as renewed vigor for planning and preparing for future threats.
