@@ -1,7 +1,7 @@
 ---
 title: New Public Health Emergency Coordination System Will Strengthen Pandemic Response
   in Southeast Asia
-date: 2021-02-17 14:26:00 Z
+date: 2021-02-17 09:26:00 Z
 published: false
 solutions:
 - Global Health Security and Pandemic Preparedness
@@ -21,6 +21,8 @@ The unprecedented spread and devastation of the COVID-19 pandemic has tested com
 Through the U.S. Agency for International Development (USAID)-funded [Partnership for Regional Optimization within the Political-Security and Socio-Cultural Communities](https://www.dai.com/our-work/projects/southeast-asia-asean-usaid-partnership-for-regional-optimization-with-the-political-security-and-socio-cultural-communities-prospect) (PROSPECT) project, DAI is supporting ASEAN to establish a Public Health Emergency Coordination System (APHECS) to strengthen a unified regional response to future pandemics. 
 
 Under this multi-year initiative, PROSPECT will support the ASEAN to institute a formal, multi-country mechanism to better prepare for, and respond to, public health emergencies. Once established, the emergency system will integrate existing, but disparate coordination mechanisms in the region under one cohesive institutional platform, enabling ASEAN’s 10 Member States—Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam—to be better prepared to coordinate across relevant stakeholders and mount swift and collective responses. 
+
+![800px-ASEAN_Embleme-bd3b46.png](/uploads/800px-ASEAN_Embleme-bd3b46.png)
  
 APHECS will be implemented through four phases:
 
