@@ -30,4 +30,4 @@ APHECS will be implemented through four phases:
  
 “Once established, APHECS will help ASEAN better employ a rapid joint outbreak investigation response and share technical expertise and resources, including logistical management for sharing medical supplies,” said [Keith Doxtater](https://www.dai.com/who-we-are/our-team/keith-doxtater), Chief of Party, PROSPECT. “For the first time, APHECS will provide a unified, multisectoral institutional framework with public health emergency preparedness and response standard operating procedures. This structure will enable the ASEAN Member States to prepare for and respond collectively to public health emergencies, mitigate the impact of future outbreaks, and manage assistance to the affected Member States.”
 
-PROSPECT is a joint project of USAID, the U.S. State Department, and ASEAN. 
+PROSPECT is a [joint project](https://asean.org/storage/The-ASEAN-January-2021-.pdf) of USAID, the U.S. State Department, and ASEAN. 
