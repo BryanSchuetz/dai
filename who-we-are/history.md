@@ -58,4 +58,6 @@ And we are steadily expanding our presence in the health arena, guided by a visi
 
 DAI’s global employee owners celebrated the firm’s [50th anniversary](https://dai-fifty.netlify.app/) in 2020. As a global development company, we continue looking for ways to connect with customers across sectors and geographies, learn from them in ways that inform our work across clients and disciplines, and enhance our value as a global resource for diverse development actors.
 
+[![DAI 50th Site Graphic](/uploads/dai-50.png)](https://dai-fifty.netlify.app/)
+
 “DAI is the only company in the world that can credibly claim to be a top-3 supplier in the USAID, DFID, and EC marketplace for development services,” wrote Boomgard in 2019, in his annual end-of-year letter to staff. “That prospect was inconceivable 50 years ago and improbable as recently as 15 years ago….Today it is reality.”
