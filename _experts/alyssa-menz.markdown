@@ -20,5 +20,5 @@ Alyssa currently serves as Technical Lead for the global advisory team with [She
 
 Prior to DAI, Alyssa worked with Synergy Global, an international sustainability consulting firm specializing in social impact and risk assessment, community relations management, social baseline studies, and community benefit creation.
  
-* M.Sc., nature, society, and environmental governance, University of Oxford, UK
+* M.Sc., nature, society, and environmental governance, University of Oxford
 * B.A., (hons) sustainable development, Columbia University
