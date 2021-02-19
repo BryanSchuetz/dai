@@ -24,8 +24,8 @@ promos:
   link: https://dai-global-developments.com/articles/q-and-a-with-jeffery-mecaskey
 - title: Strengthening the COVID-19 Response and Protecting Health Services in Uganda
   link: https://dai-global-developments.com/articles/strengthening-the-covid-19-response-and-protecting-health-services-in-uganda
-- title: "**Interview**:  Dabsou Guidaoussou, Chad Country Coordinator, on the Emergency
-    Response Mechanism element of the TDDA programme."
+- title: "**Interview**:  Dabsou Guidaoussou, Chad Country Coordinator, on TDDA's
+    Emergency Response Mechanism Element "
   link: https://dai-assets.s3.us-east-1.amazonaws.com/videos/chad-video-rough.mp4
 ---
 
