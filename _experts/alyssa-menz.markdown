@@ -12,6 +12,9 @@ solutions:
 - Sustainable Business
 - energy
 - Local Content and Supply Chain Management
+articles:
+- name: ANDE West Africa Hosts Workshop on Assisting Businesses in COVID-19 Crisis
+  article_file: https://dai-global-developments.com/articles/ande-west-africa-hosts-panel-on-assisting-businesses-in-covid-19-crisis
 ---
 
 Alyssa Menz is an Associate Manager in Sustainability and Supply Chain Development in DAI’s Sustainable Business Group (SBG) specializing in sustainable development, entrepreneurship and innovation, local content, and global supply chain development. Throughout her SBG tenure, she has worked on projects related to energy transition; enterprise development center design and implementation; corporate local content strategy design; government local content policy development; local content reporting, tracking, and quantitative analysis; industrial baseline studies; and corporate social investment initiatives.
