@@ -32,7 +32,7 @@ Contact [training@dai.com](mailto:training@dai.com) for pricing and registration
  
 Upcoming Sessions:
 
-* Date and Time: March 1 - 4, 2021 (9am-5pm Monday-Wednesday and 9am–4pm Thursday)*Greenwich Mean Time
+* Date and Time: June 7-10, 2021 (10 am-3 pm Monday-Thursday) British Summer Time
 
 * **Module 1:** Local Content Strategy and Policy Training.
 * **Module 2:** Local Content  Forecasting, Plans, and Procurement Tactics. 
