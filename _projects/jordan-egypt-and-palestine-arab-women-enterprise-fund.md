@@ -23,6 +23,8 @@ promos:
   link: https://seepnetwork.org/Blog-Post/Discovering-A-Route-to-Formalize-Women-Owned-Businesses-in-Jordan
 - title: 'Empowering Women: Lessons from COVID-19 and Beyond'
   link: https://dai-global-developments.com/articles/empowering-women-lessons-from-covid-19-and-beyond
+- title: Making Digital Finance Work for Women in the MENA Region
+  link: https://www.marketlinks.org/resources/making-digital-finance-work-women-mena-region
 layout: project
 ---
 
