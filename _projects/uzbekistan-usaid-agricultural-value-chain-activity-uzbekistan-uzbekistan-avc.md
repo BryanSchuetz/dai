@@ -42,7 +42,7 @@ The program supported 510 organizations and businesses, including fruit and vege
 
 Uzbekistan AVC provided more than 100,000 training hours to its partners. These training courses were reinforced with do-it-yourself videos that have been viewed on [YouTube](https://www.youtube.com/channel/UCpGVyZ0yok7YPxAw9-omMhA) more than 4 million times.
 
-<iframe src="https://player.vimeo.com/video/387504205" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/515428972" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -60,5 +60,7 @@ Uzbekistan AVC provided more than 100,000 training hours to its partners. These 
 * Published studies in the *International Journal of Advanced Science and Technology* on the "[Qualitative Organizing of Storage Process of Table Grape Varieties by Using Grape Guard Sheets in Cold Storage](http://sersc.org/journals/index.php/IJAST/article/view/21857)" and the *Journal of Advanced Research in Dynamical and Control Systems* on the "[Effect of Different Grape Guard Sheets for the Storage of 'Toyfi' Variety of Grape](https://www.jardcs.org/abstract.php?id=5769)."
 * Leveraged $23 million in private sector investment in the establishment of new orchards, installation of water-saving technologies, expansion of the cold chain network, and upgrades in product packaging, marketing, and branding to meet international standards.
 * Provided 100,000 hours of training and facilitated the emergence of 75 new consulting service providers, contributing to a 67 percent increase in farm yields, increasing income among targeted farmers by 107 percent. 
+
+<iframe src="https://player.vimeo.com/video/387504205" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/210491523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
