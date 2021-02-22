@@ -5,7 +5,6 @@ summary: Dan Heaney is a financial professional with more than 20 years of exper
   in public and private companies.
 image: "/assets/images/leaders/thumbnails/daniel-heaney.jpg"
 sort-order: 2
-layout: leaders
 ---
 
 Dan is a financial professional with more than 20 years of experience in public and private companies. He has held senior financial management positions in operational and corporate finance, with responsibility for treasury management, international finance, mergers and acquisitions, control, and audit. He currently serves as Chief Financial Officer of the Public Consulting Group, Inc. (PCG), a privately held consulting firm based in Boston. 

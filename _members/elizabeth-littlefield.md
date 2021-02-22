@@ -7,6 +7,7 @@ summary: Elizabeth Littlefield is one of the development community’s most dist
   in development finance, economic development, conservation, and poverty reduction.
 image: "/uploads/E%20little%20small.png"
 sort-order: 4
+layout: leaders
 ---
 
 Elizabeth Littlefield is one of the development community’s most distinguished leaders. A former President and Chief Executive Officer of the Overseas Private Investment Corporation (OPIC), she brings to DAI more than 30 years of expertise in development finance, economic development, conservation, and poverty reduction.
