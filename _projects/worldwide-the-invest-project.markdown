@@ -19,6 +19,9 @@ promos:
   link: https://www.usaid.gov/INVEST/blended-finance-starter-kit
 - title: What We Talk About When We Talk About Blended Finance
   link: https://www.marketlinks.org/post/what-we-talk-about-when-we-talk-about-blended-finance
+- title: Considering a Regional Investment Strategy to Drive Development in Higher-Risk
+    Countries
+  link: https://www.marketlinks.org/blogs/considering-regional-investment-strategy-drive-development-higher-risk-countries
 ---
 
 INVEST is a flexible, [efficient](https://www.devex.com/news/opinion-5-hacks-for-a-better-request-for-proposals-process-94249) buy-in mechanism that helps the U.S. Agency for International Development (USAID) [mobilize private capital](https://impactalpha.com/three-ways-to-get-better-outcomes-from-blended-finance/). Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. This represents an opportunity for USAID, but it requires [new forms of collaboration](http://dai-global-developments.com/articles/using-development-assistance-to-catalyze-sound-investments-in-emerging-and-developing-markets) with the private sector.

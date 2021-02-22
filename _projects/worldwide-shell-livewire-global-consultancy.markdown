@@ -25,4 +25,10 @@ DAI’s Sustainable Business Group (SBG) supports Shell with strengthening exi
 * Provide communications support to the entire program, via guidance for program strategy, creation and revision of editorial content, management of website development, animation of social media presence, and logistical and technical support 
 * Design and refine a repository of core entrepreneurship training focused on business model design, market research, local content and procurement, and design thinking. 
 
+### Select Results
+
+* Received 135 applications from Shell LiveWIRE graduates across 15 countries, 27,000 public votes to select the top ten innovators, and awarded $130,000 to the top ten finalists in 2020.
+* Trained more than 3,000 entrepreneurs each year in 19 countries.
+* Launched the first entrepreneurship training program for indigenous people in Canada in 2021.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AWPQFMSETpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
