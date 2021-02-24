@@ -32,6 +32,9 @@ promos:
 - title: 'Big Gains in Access to Safe Drinking Water: How Four African Countries Did
     It … and How Others Can, Too'
   link: https://dai-global-developments.com/articles/doubling-access-to-safe-drinking-water-how-four-african-countries-did-it-and-how-others-can-too
+- title: Documenting a Common Understanding of the Sanitation Situation in Five African
+    Countries
+  link: https://www.globalwaters.org/resources/blogs/documenting-common-understanding-sanitation-situation-five-african-countries
 redirect_from:
 - "/walis"
 layout: project
