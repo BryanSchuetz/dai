@@ -15,6 +15,9 @@ country: Worldwide
 promos:
 - title: TASC Project Brief
   link: "/uploads/TASC%20Brief%20Dec-2020.pdf"
+- title: "February 2021: Tracking Data and Evidence on the Indirect Impact of COVID-19
+    on Selected Nutrition \nOutcomes, Interventions, and Policy \nResponses"
+  link: "/uploads/C19%20Tracker%20-%20February%20Monthly%20Update.pdf"
 ---
 
 The Technical Assistance to Strengthen Capabilities Project (TASC) aims to contribute to improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by UKaid. TAN works to improve coverage of multi-sectoral nutrition interventions to drive improvements in health and nutrition status within countries. TAN aims to achieve this by strengthening the enabling environment for nutrition at the global and country levels and strengthening the capacity of countries within the Scaling Up Nutrition (SUN) Movement, ultimately delivering policies and programmes that support the reduction of malnutrition. 
@@ -36,3 +39,4 @@ TASC works collaboratively with [Nutrition International](https://www.nutritioni
 * Support SUN Movement’s learning agenda.
 * Support FCDO on nutrition-related programme design and implementation (development of strategic cases; programme review; placement of consultants to boost technical capacity on nutrition; and other technical support)
 * Facilitate knowledge management, learning, and capacity building (case studies, a COVID-19 tracker with monthly updates, various technical guidance notes, webinars for FCDO staff, and wider audiences, etc.)
+[C19 Tracker - February Monthly Update.pdf](/uploads/C19%20Tracker%20-%20February%20Monthly%20Update.pdf)
