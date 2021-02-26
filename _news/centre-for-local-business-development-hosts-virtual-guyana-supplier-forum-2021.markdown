@@ -2,6 +2,8 @@
 title: Centre for Local Business Development Hosts Virtual Guyana Supplier Forum 2021
 date: 2021-02-26 15:34:00 Z
 published: false
+regions: Latin America and the Caribbean
+social-image: "/uploads/2021%20Forum.png"
 ---
 
 Guyana’s [Centre for Local Business Development](https://centreguyana.com/)—[managed by DAI](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development) since its launch in 2017—recently hosted the [2021 Guyana Supplier Forum](https://guyanasupplierforum.com/). Sponsored by ExxonMobil Guyana and the Stabroek Block Co-Venturers Hess and CNOCC, the virtual event provided a platform for Guyanese suppliers to learn about existing and upcoming opportunities for local businesses in the country’s oil and gas sector. Attendees received up-to-date information on procurement processes, key contacts, and upcoming tenders from ExxonMobil Guyana and its Prime Contractors.
@@ -22,3 +24,5 @@ The 2021 Forum marks a unique year for the Centre, one that required adaptations
 
 The Centre serves as Guyana’s leading source for oil and gas business and industry information, professional development, and networking. Founded by ExxonMobil and managed by DAI, the Centre assists Guyanese firms to access opportunities in the oil and gas supply chain, which is poised to transform the small country’s economy. To date, the Centre has registered more than 4,700 businesses in its Supplier Registration Portal, conducted 3,000 seminars, supported 700 oil and gas vendors, and delivered HSSE programs to 220 businesses.\
 To view recorded sessions and other information on the Forum, visit [https://guyanasupplierforum.com](https://guyanasupplierforum.com/).
+
+![2021 Forum.png](/uploads/2021%20Forum.png)
