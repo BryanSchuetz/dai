@@ -16,7 +16,7 @@ Held from February 1-5, the Forum welcomed more than 700 local businesses. More 
 
 “The Forum provided a great opportunity for Guyanese businesses to interact directly with ExxonMobil Guyana and its Prime Contractors. The Centre is pleased to have organized a successful virtual event and will continue to support local businesses in the coming year to reach their goals,” said Centre Director [Natasha Gaskin-Peters](https://www.dai.com/who-we-are/our-team/natasha-gaskin-peters).
 
-![Guyana Forum 3-9fa119.jpg](/uploads/Guyana%20Forum%203-9fa119.jpg)`Participants network at a previous Guyana Supplier Forum. The 2021 event took place virtually.'
+![Guyana Forum 3-9fa119.jpg](/uploads/Guyana%20Forum%203-9fa119.jpg)`Participants network at a previous Guyana Supplier Forum. The 2021 event took place virtually.`
 
 In his welcome remarks, ExxonMobil’s Guyana President Alistair Routledge affirmed the company’s long-term commitment to support socioeconomic development and uplift the quality of life in the communities in which it operates.
 
