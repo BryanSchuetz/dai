@@ -19,6 +19,5 @@ Jette Findsen has experience working internationally and domestically on issues 
 
 Jette serves on the Anne Arundel County Citizen Environmental Commission and as an advisor for the Water Resource Foundation.  
 
-
 * M.A., international energy and environment, Johns Hopkins University, School of Advanced International Studies (SAIS)
 * B.A., international relations, University of Pennsylvania
