@@ -20,6 +20,9 @@ waves of refugees to regional instability and now COVID-19. While the Government
 
 PFMA will build the capacity of the Jordanian Ministry of Finance and other government institutions to modernize the revenue collection system, encourage compliance—including making it easier for taxpayers to comply with tax obligations—upgrade public procurement management, and improve budget planning, preparation, and execution. 
 
+Our approach is to work with and through local systems while thinking and working politically. Our assistance will be informed by an analysis of the political economy of the PFM
+ecosystem in Jordan. Central to our implementation methodology is the concept of change management—structured tools to assist government officials to make the personal and institutional transition from the status quo to new ways of doing business. 
+
 ![jordan.jpg](/uploads/jordan.jpg)
 
 ### Sample Activities
