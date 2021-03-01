@@ -25,7 +25,7 @@ The 2021 Forum marks a unique year for the Centre, one that required adaptations
 
 “Throughout the pandemic the Centre—while taking the necessary precautions—continued to provide its services and informational products online,” said Dr. Gaskin-Peters. Dr. Gaskin-Peters added that “the Centre is gearing up to support the rapid pace of growth in 2021 through its innovative ISO 9001 and Health, Safety, Security, and the Environment (HSSE) Management System programs as well as expanding its business seminars and courses.”
 
-The Centre serves as Guyana’s leading source for oil and gas business and industry information, professional development, and networking. Founded by ExxonMobil and managed by DAI, the Centre assists Guyanese firms to access opportunities in the oil and gas supply chain, which is poised to transform the small country’s economy. To date, the Centre has registered more than 4,700 businesses in its Supplier Registration Portal, conducted 3,000 seminars, supported 700 oil and gas vendors, and delivered HSSE programs to 220 businesses.\
+The Centre serves as Guyana’s leading source for oil and gas business and industry information, professional development, and networking. Founded by ExxonMobil and managed by DAI, the Centre assists Guyanese firms to access opportunities in the oil and gas supply chain, which is poised to transform the small country’s economy. To date, the Centre has registered more than 4,700 businesses in its Supplier Registration Portal, conducted 3,000 seminars, supported 700 oil and gas vendors, and delivered HSSE programs to 220 businesses.
 
 To view recorded sessions and other information on the Forum, visit [https://guyanasupplierforum.com](https://guyanasupplierforum.com/).
 
