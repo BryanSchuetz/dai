@@ -27,7 +27,7 @@ ecosystem in Jordan. Central to our implementation methodology is the concept of
 
 ### Sample Activities
 
-* Improve the revenue-raising system.
+* Build capacity within the Studies and Economic Policies Directorate to better utilize their revenue impact model to inform adaptations and fiscal responses to the COVID-19 crisis and deepen economic policy analysis capabilities overall.
 * Streamlining the budget management process.
 * Optimize public expenditure management.
 * Implement crosscutting PFM reforms such as interventions to address COVID-19. 
