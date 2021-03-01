@@ -19,6 +19,8 @@ The Public Financial Management and Administration (PFMA) project is a five-year
 
 PFMA will build the capacity of the Jordanian Ministry of Finance and other government institutions to modernize the revenue collection system, encourage compliance—including making it easier for taxpayers to comply with tax obligations—upgrade public procurement management, and improve budget planning, preparation, and execution. 
 
+![jordan.jpg](/uploads/jordan.jpg)
+
 ### Sample Activities
 
 * Improve the revenue-raising system.
