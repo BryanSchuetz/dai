@@ -10,9 +10,9 @@ solutions:
 - Economic Growth
 - Governance
 regions:
-- Sub-Saharan Africa
-- Eastern Europe and Central Asia
 - Asia and the Pacific
+- Eastern Europe and Central Asia
+- 
 articles:
 - name: 
   article_file: 
