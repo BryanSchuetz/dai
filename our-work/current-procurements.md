@@ -10,7 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [RFP-2021-03 Mongolia Cybersecurity Awareness Raising Campaign](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP%202021-03%20Mongolia%20Cybersecurity%20Awareness%20Raising%20Campaign%20final.pdf "")
+* [RFP-2021-03 Mongolia Cybersecurity Awareness Raising Campaign](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP%202021-03%20Mongolia%20Cybersecurity%20Awareness%20Raising%20Campaign%20final.pdf)
 * [RFP-EGA-21-006 Designing Egyptian Government’s Massive Open Online Courses (MOOC) Platforms](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-EGA-21-000.O5.E-Learning.00a.pdf "3/26")
 * [RFP-CTJ-KGS-21-0002 Certified Cultural Guides Training](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-CTJ-KGS-21-0002.pdf "03/10/21")
 * [RFP 21-004 Self Learning Electronic Module on Gender and Trade](https://assetify-dai.com/rfps/rfp-no-req-pre-21-0004-self-learning-electronic--e--module-on-gender-and-trade-final.pdf "02/24/21")
