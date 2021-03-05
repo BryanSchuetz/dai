@@ -7,6 +7,7 @@ summary: Blessing Musa Stephen is a global health practitioner with a multidisci
   economics, and more than 10 years of experience in the health development sector
   in Nigeria.
 job-title: Team Leader, Fleming Fund, Nigeria
+image: "/uploads/xBlessing_Headshot.jpg"
 solutions:
 - Global Health
 - Global Health Security and Pandemic Preparedness
