@@ -14,6 +14,7 @@ regions: Eastern Europe and Central Asia
 country: Pakistan
 promos:
 - title: 'Supporting Women’s Inclusion Through Community Development in Pakistan '
+  link: https://dai-global-developments.com/articles/supporting-womens-inclusion-through-community-development-in-pakistan
 ---
 
 DAI supported the Government of Khyber Pakhtunkhwa in implementing the Community Driven Local Development (KP-CDLD) Programme in the 13 districts of the province of Pakistan. The programme worked to build the responsiveness and effectiveness of the province’s administration to restore citizen trust; stimulate employment and livelihood opportunities; and ensure delivery of basic services. 
