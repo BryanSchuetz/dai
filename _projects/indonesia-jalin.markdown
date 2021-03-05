@@ -1,11 +1,11 @@
 ---
 title: Indonesia—Jalin
 date: 2017-09-14 21:31:00 Z
-summary: The U.S. Agency for International Development’s Jalin program assists the
-  Indonesian government as it promotes locally led solutions for preventing maternal
-  and newborn deaths and extending health services.
+summary: The U.S. Agency for International Development’s Jalin program assisted the
+  Indonesian government as it promoted solutions for preventing maternal and newborn
+  deaths and extending health services.
 start: 2017
-end: 2022
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Global Health
@@ -25,9 +25,9 @@ promos:
 
 While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations. 
 
-The U.S. Agency for International Development (USAID) Jalin project partners with the Indonesian Ministry of Health to reduce maternal and newborn deaths. USAID Jalin uses a whole-of-market approach to improve: 1) maternal and newborn health quality of care in public and private, primary and secondary facilities, and 2) the efficiency and effectiveness of the emergency referral system at community and facility levels. The project works to: sustain improvements in clinical hospital teams’ treatment of obstetric and newborn complications; focus stakeholder strategies on the main causes of maternal and newborn death; sustain improvements to quality of care provided by private midwives; and scale improved referral networks and integrated ICT platforms to support those referrals.  
+The U.S. Agency for International Development (USAID) Jalin project partnered with the Indonesian Ministry of Health to reduce maternal and newborn deaths. USAID Jalin used a whole-of-market approach to improve: 1) maternal and newborn health quality of care in public and private, primary and secondary facilities, and 2) the efficiency and effectiveness of the emergency referral system at community and facility levels. The project worked to: sustain improvements in clinical hospital teams’ treatment of obstetric and newborn complications; focus stakeholder strategies on the main causes of maternal and newborn death; sustain improvements to quality of care provided by private midwives; and scale improved referral networks and integrated ICT platforms to support those referrals.  
  
-The project supports activities in 120 of the Government of Indonesia’s priority districts for maternal and newborn health nationally and has a presence in 65 of these districts, across six provinces: Banten, Central Java, East Java, North Sumatra, South Sulawesi, and West Java.
+The project supported activities in 120 of the Government of Indonesia’s priority districts for maternal and newborn health nationally and had a presence in 65 of these districts, across six provinces: Banten, Central Java, East Java, North Sumatra, South Sulawesi, and West Java.
 
 ![Jalin-web-page.jpg](/uploads/Jalin-web-page.jpg)
 
@@ -43,7 +43,7 @@ The project supports activities in 120 of the Government of Indonesia’s priori
 
 * Supported development of the Maternal and Perinatal Death Notification (MPDN) application to improve real-time reporting, notification, and verification of maternal and newborn deaths.
 * Developed a web-based Minimum Service Standards budgeting tool to support annual budget forecasting for maternal and newborn health services.  
-* Completed the Every Mother and Newborn Counts (EMNC) study to understand the circumstances and causes of maternal and newborn deaths and strengthen the surveillance and response system.
+* Completed the Every Mother and Newborn Counts study to understand the circumstances and causes of maternal and newborn deaths and strengthen the surveillance and response system.
 * Conducted a study on Mapping of Insurance Payments against Quality of Care for maternal and newborn health to analyze claim data and recommend improvements to strengthen service delivery. 
 * Collaborated with private sector partners to secure co-financing, facilitate implementation and replication of activities, and promote sustainability and local ownership.
 * Implementing more than 20 local solutions focused on: clinical competency, antenatal care provision, policy and funding advocacy, referral systems, and transportation. 
