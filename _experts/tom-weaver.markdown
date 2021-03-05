@@ -21,6 +21,3 @@ Tom’s interest in combatting antimicrobial resistance (AMR) began with his wor
 * Ph.D., Faculty of Veterinary and Agricultural Sciences, University of Melbourne
 * M.A., Institute of Development Studies, University of Sussex
 * B.A., history, University College London
-
-
-
