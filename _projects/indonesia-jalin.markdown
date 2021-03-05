@@ -46,5 +46,5 @@ The project supported activities in 120 of the Government of Indonesia’s prior
 * Completed the Every Mother and Newborn Counts study to understand the circumstances and causes of maternal and newborn deaths and strengthen the surveillance and response system.
 * Conducted a study on Mapping of Insurance Payments against Quality of Care for maternal and newborn health to analyze claim data and recommend improvements to strengthen service delivery. 
 * Collaborated with private sector partners to secure co-financing, facilitate implementation and replication of activities, and promote sustainability and local ownership.
-* Implementing more than 20 local solutions focused on: clinical competency, antenatal care provision, policy and funding advocacy, referral systems, and transportation. 
+* Implemented more than 20 local solutions focused on: clinical competency, antenatal care provision, policy and funding advocacy, referral systems, and transportation. 
 * Strengthened sustainability and scalability of local solutions through: mobilization of local funding, issuance of government regulations, replication of successful activities, improvements to existing referral systems and health service delivery. 
