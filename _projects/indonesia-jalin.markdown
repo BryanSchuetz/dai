@@ -21,6 +21,8 @@ promos:
   link: https://www.usaid.gov/actingonthecall/stories/partnering-convenience-stores-bring-health-services-closer-home-indonesia
 - title: Two Health Innovations Supported by USAID Jalin Project Win Awards
   link: https://www.dai.com/news/two-health-innovations-supported-by-usaid-jalin-project-win-awards
+- title: DELIVERY! Saving Moms & Babies in Rural Indonesia
+  link: https://usaidindonesia.exposure.co/delivery
 ---
 
 While Indonesia has made significant progress toward key development goals, including greatly reducing child mortality, maternal and newborn deaths in Indonesia occur at higher rates compared with neighboring countries, particularly among poor and vulnerable populations. 
