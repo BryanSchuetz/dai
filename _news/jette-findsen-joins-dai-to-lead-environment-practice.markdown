@@ -12,7 +12,7 @@ summary: 'Jette Findsen has joined DAI as Vice President, Environment. At DAI, s
 social-image: "/uploads/1%20Jette-728a72.jpg"
 ---
 
-Jette Findsen has joined DAI as Vice President, Environment. At DAI, she will oversee a portfolio of projects and lead DAI’s strategy for climate change programs with the U.S. Government. She will also provide cross-sector assistance to projects focused on green finance, natural resources, water and waste management, clean energy, greenhouse gas management, carbon markets, and economic analysis of climate change mitigation and adaptation options.
+[Jette Findsen](https://www.dai.com/who-we-are/our-team/jette-findsen) has joined DAI as Vice President, Environment. At DAI, she will oversee a portfolio of projects and lead DAI’s strategy for climate change programs with the U.S. Government. She will also provide cross-sector assistance to projects focused on green finance, natural resources, water and waste management, clean energy, greenhouse gas management, carbon markets, and economic analysis of climate change mitigation and adaptation options.
 
 ![1 Jette-1ce4ee.jpg](/uploads/1%20Jette-1ce4ee.jpg){:.float-left}“The economic havoc caused by COVID-19 and the scale of the climate crisis demand that we use all available tools to reduce greenhouse gas emissions as quickly and equitably as possible, and take an active role helping vulnerable communities build resilience to the impacts of a changing climate,” Findsen said. “In past decades, we have focused on developing the science and protocols for assessing the problem. Now we need to focus on good governance as a framework equitable, vibrant, low-carbon, and resilient communities, and on creating an enabling environment for mobilizing green finance at scale.”
 
