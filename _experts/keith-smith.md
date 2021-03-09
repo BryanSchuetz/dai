@@ -9,12 +9,7 @@ job-title: Senior Vice President, HMG Business Unit
 image: https://assetify-dai.com/experts/KeithSmith1Inner.jpg
 solutions:
 - Include Primary and/or Secondary Solutions
-- 
-- 
 regions:
-- 
-- 
-- 
 layout: expert
 ---
 

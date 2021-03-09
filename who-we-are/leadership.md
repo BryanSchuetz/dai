@@ -3,20 +3,116 @@ title: Leadership
 permalink: "/who-we-are/leaders"
 related: false
 redirect_from:
-- "/who-we-are/leadership"
+  - "/who-we-are/leadership"
 layout: node
-summary: Our Global Executive Team ensures that DAI’s passion for development is delivered
-  with the discipline of a business. Embracing the rigors of the marketplace—competition
-  and innovation—they set the standards for a company dedicated to delivering both
-  development results and development value. The team is led by Jim Boomgard, who
-  reports to DAI’s [Board.](/who-we-are/leadership/board.html)
+summary: From our Board to our executives to our in-country directors, DAI’s leaders ensure that our passion for development is executed with the discipline of a business. They set the standards for a [global workforce](/who-we-are/the-team) dedicated to delivering both transformational results and optimal value.
 hero: true
 ---
 
-<!-- Our Global Executive Team ensures that DAI’s passion for development is delivered with the discipline of a business. Embracing the rigors of the marketplace—competition and innovation—they set the standards for a company dedicated to delivering both development results and development value. The Global Executive Team is led by Jim Boomgard, who reports to DAI’s [Board.](/who-we-are/leadership/board.html)
+{%- assign leaders = site.data.leadership | shuffle -%}
 
-<hr> -->
-{% assign leaders = site.leaders | sort: 'sort-order' %}
+<div class="bulma">
+  <div class="container">
+    <h2 class="is-size-3">Global Leadership Team</h2>
+    <p>Our Global leadership team ensures that DAI’s passion for development is delivered with the discipline of a business. 
+    </p> 
+    <div class="columns">
+      <div class="column">
+{%- for leader in leaders limit:7-%}
+{%- unless leader.published == false -%}
+<a href="{{leader.url}}">
+   <div class="card is-child">
+    <div class="card-image">
+      <figure class="image">
+        <img src="{{leader.image}}" alt="Placeholder image">
+      </figure>
+    </div>
+    <div class="card-content">
+      <div class="media">
+        <!-- <div class="media-left">
+          <figure class="image is-48x48">
+            <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+          </figure>
+        </div> -->
+        <div class="media-content">
+          <p class="title is-4">{{leader.name}}</p>
+          <p class="subtitle is-6">{{leader.title}}</p>
+        </div>
+      </div>
+      <div class="content">
+        <p>{{leader.summary}}</p>
+      </div>
+    </div>
+  </div>
+</a>
+{%- endunless -%}
+{%- endfor -%}
+    </div>
+<div class="column">
+{%- for leader in leaders offset:7 limit:7 -%}
+{%- unless leader.published == false -%}
+<a href="{{leader.url}}">
+<div class="card is-child">
+<div class="card-image">
+  <figure class="image">
+    <img src="{{leader.image}}" alt="Placeholder image">
+  </figure>
+</div>
+<div class="card-content">
+  <div class="media">
+    <!-- <div class="media-left">
+      <figure class="image is-48x48">
+        <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+      </figure>
+    </div> -->
+    <div class="media-content">
+      <p class="title is-4">{{leader.name}}</p>
+      <p class="subtitle is-6">{{leader.title}}</p>
+    </div>
+  </div>
+  <div class="content">
+    <p>{{leader.summary}}</p>
+  </div>
+</div>
+</div>
+</a>
+{%- endunless -%}
+{%- endfor -%}
+</div>
+  <div class="column">
+    {%- for leader in leaders offset:14 limit:7 -%}
+    {%- unless leader.published == false -%}
+  <a href="{{leader.url}}">
+    <div class="card is-child">
+      <div class="card-image">
+        <figure class="image">
+          <img src="{{leader.image}}" alt="Placeholder image">
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="media">
+          <!-- <div class="media-left">
+            <figure class="image is-48x48">
+              <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+            </figure>
+          </div> -->
+          <div class="media-content">
+            <p class="title is-4">{{leader.name}}</p>
+            <p class="subtitle is-6">{{leader.title}}</p>
+          </div>
+        </div>
+        <div class="content">
+          <p>{{leader.summary}}</p>
+        </div>
+      </div>
+    </div>
+  </a>
+    {%- endunless -%}
+    {%- endfor -%}
+  </div>
+  </div>
+</div>
+<!-- {% assign leaders = site.leaders | sort: 'sort-order' %}
 {% for leader in leaders %}
   <div class="people-block">
     <img src="{{leader.image}}" alt="" class="people-photo">
@@ -30,4 +126,4 @@ hero: true
     <a href="{{ leader.url }}" class="primary-block--button people-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   </div>
   <hr>
-{% endfor %}
+{% endfor %} -->

@@ -1774,3 +1774,85 @@ div.sharect{
     margin-bottom: 0;
   }
 }
+
+// Bulma imports/modifiers
+// Initial Variables Overwriting Defaults with DAI Brand Styles
+
+// Text
+$family-primary: "Helvetica", "Arial", "sans-serif";
+$family-secondary: "Proxima-Nova", "Helvetica", "Arial", "sans-serif";
+$body-family: $family-secondary;
+
+// Primary Colors
+$green: #8fc73e; 
+$blue: #a1c7e3;
+$grey-dark: #455560;
+
+
+// Neutral Pallete
+$grey: #56687b;
+$grey-light: #e4e5e6;
+$green-light: #d1e6c8;
+$beige: #dad2c8;
+
+
+//Accent Pallette
+$purple: #8060a9;
+$indigo: #445791;
+$cyan: #1d81bf;
+$turquoise: #96d5d2;
+$sea-foam: #b0dbbc;
+$yellow: #f9cc73;
+$orange: #f36c23;
+$red: #da1d45;
+$brown: #663d3b;
+
+//Derived Variables
+$primary: $grey;
+$info: $blue;
+$success: $green;
+$link: $cyan;
+$text: $grey-dark;
+
+//navbar variables
+$navbar-background-color: $grey-dark;
+$navbar-item-color: $grey-light;
+$navbar-item-hover-background-color: $grey;
+$navbar-item-hover-color: white;
+$navbar-dropdown-arrow: $grey-light;
+$navbar-dropdown-background-color: $grey-dark;
+$navbar-dropdown-item-hover-color: white; $navbar-dropdown-item-hover-background-color: $grey;
+
+// blockquote variables
+$content-blockquote-background-color: $grey-dark;
+$content-blockquote-border-left: 0px;
+$content-blockquote-padding: 7rem;
+
+.bulma{
+  // importing bulma under .bulma to force a namespace for it
+  @import "bulma.sass";
+  // undo dai styles that are leaking through and fucking with bulma styles
+  div{
+    width: auto;
+  }
+  .content{
+    padding: 0;
+  }
+  h2{
+    margin-bottom: .5rem;
+  }
+  .card{
+    margin-bottom: 2rem;
+  }
+  p{
+    margin-bottom: 1rem;
+  }
+}
+
+.bulma .card{
+  box-shadow: 0px 2px 60px 0px rgba(160,179,198,0.47);
+}
+.bulma .card-content .image{
+ clip-path: circle(49%);
+ -webkit-clip-path: circle(49%);
+}

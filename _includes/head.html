@@ -1,45 +1,65 @@
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="robots" content="index, follow">
+  <link href="http://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
   <!-- Enable responsiveness on mobile devices -->
-  <meta name="viewport" content="">
-  <meta name="keywords" content="International Development, DAI, Consulting, International Development Company, {{ page.title }}">
-  <meta name="description" content="{{ page.title }} &middot; {{ site.data.meta.description }}">
+  <meta name="viewport" content="" />
+  <meta
+    name="keywords"
+    content="International Development, DAI, Consulting, International Development Company, {{ page.title }}"
+  />
+  <meta
+    name="description"
+    content="{{ page.title }} &middot; {{ site.data.meta.description }}"
+  />
   <!-- Enable twitter card magic -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@daiglobal">
-  <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary | markdownify | strip_html | truncate: 300 }}{% else %}{{ site.data.meta.description }}{% endif %}">
-  <meta name="twitter:image" content="https://www.dai.com{{ page.social-image | default: "/uploads/social-image.jpg" }}">
-  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://www.dai.com{{ page.social-image | default: "/uploads/social-image.jpg" }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@daiglobal" />
+  <meta name="twitter:creator" content="@daiglobal" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta
+    name="twitter:description"
+    content="{% if page.summary %}{{ page.summary | markdownify | strip_html | truncate: 300 }}{% else %}{{ site.data.meta.description }}{% endif %}"
+  />
+  <meta name="twitter:image" content="https://www.dai.com{{ page.social-image |
+  default: "/uploads/social-image.jpg" }}"> <meta prefix="og: http://ogp.me/ns#"
+  property="og:image" content="https://www.dai.com{{ page.social-image |
+  default: "/uploads/social-image.jpg" }}" />
   <title>
-    {% if page.title == "Home" %}
-      {{ site.data.meta.title }} &middot; {{ site.data.meta.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.data.meta.title }}: International Development {% if page.title == 'Job Opportunities' %}Jobs{% endif %}
-    {% endif %}
+    {% if page.title == "Home" %} {{ site.data.meta.title }} &middot; {{
+    site.data.meta.tagline }} {% else %} {{ page.title }} &middot; {{
+    site.data.meta.title }}: International Development {% if page.title == 'Job
+    Opportunities' %}Jobs{% endif %} {% endif %}
   </title>
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css?v=107">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css?v=108" />
 
-{%- comment -%} Pull all this carreers crap out of here at some point  {%- endcomment -%}
-  {% if page.careers == true %}
-    <link rel="stylesheet" href="/careers/assets/build/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.2.0/lity.min.css">
-    <link rel="stylesheet" href="/careers/assets/build/css/main.css">
+  {%- comment -%} Pull all this carreers crap out of here at some point {%-
+  endcomment -%} {% if page.careers == true %}
+  <link rel="stylesheet" href="/careers/assets/build/css/bootstrap.min.css" />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.2.0/lity.min.css"
+  />
+  <link rel="stylesheet" href="/careers/assets/build/css/main.css" />
   {% endif %}
 
   <!-- Icons -->
-  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.png" />
   <!-- Javascript -->
-<script type="text/javascript" src="{{ site.baseurl }}/assets/js/site.js?v=5"></script>
+  <script
+    type="text/javascript"
+    src="{{ site.baseurl }}/assets/js/site.js?v=6"
+  ></script>
   <!-- proxima nova hosted at typekit -->
-  {% include head-webfonts.html %}
-  {% include head-scroll.html %}
+  {% include head-webfonts.html %} {% include head-scroll.html %}
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl}}/atom.xml">
+  <link
+    rel="alternate"
+    type="application/rss+xml"
+    title="RSS"
+    href="{{ site.baseurl}}/atom.xml"
+  />
   {% include svg-defs.html %}
 </head>
