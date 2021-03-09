@@ -3,9 +3,12 @@ title: Leadership
 permalink: "/who-we-are/leaders"
 related: false
 redirect_from:
-  - "/who-we-are/leadership"
+- "/who-we-are/leadership"
 layout: node
-summary: From our Board to our executives to our in-country directors, DAI’s leaders ensure that our passion for development is executed with the discipline of a business. They set the standards for a [global workforce](/who-we-are/the-team) dedicated to delivering both transformational results and optimal value.
+summary: From our Board to our executives to our in-country directors, DAI’s leaders
+  ensure that our passion for development is executed with the discipline of a business.
+  They set the standards for a [global workforce](/who-we-are/the-team) dedicated
+  to delivering both transformational results and optimal value.
 hero: true
 ---
 
