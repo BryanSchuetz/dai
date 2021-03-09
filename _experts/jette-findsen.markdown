@@ -1,12 +1,12 @@
 ---
 title: Jette Findsen
 date: 2021-03-01 15:20:00 Z
-published: false
 lastname: Findsen
 summary: Jette Findsen has experience working internationally and domestically on
   issues of climate change, natural resources management, environmental protection,
   and water and wastewater management.
 job-title: Vice President, Environment
+image: "/uploads/1%20Jette.jpg"
 solutions:
 - Environment
 - Natural Resource Management
