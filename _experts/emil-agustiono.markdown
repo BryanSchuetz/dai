@@ -6,7 +6,7 @@ summary: 'Dr. Emil Agustiono is a medical doctor and clinical epidemiologist wit
   more than 30 years of experience working at the national, provincial, and district
   level in Indonesia on issues ranging from pandemic preparedness and response to
   disaster planning to antimicrobial resistance and food safety. '
-job-title: 'Team Leader, Fleming Fund Project, Indonesia '
+job-title: Senior Director, Government Engagement, Fleming Fund, Indonesia
 image: "/uploads/Dr.%20Emil%20Agustiono.jpg"
 solutions:
 - Global Health

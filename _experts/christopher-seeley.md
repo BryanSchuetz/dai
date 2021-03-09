@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Seeley
 summary: Christopher Seeley is an expert in sustainable livelihoods, alternative development,
   and the design and management of large-scale, multi-objective environmental programs.
-job-title: Vice President, Environment
+job-title: Senior Advisor
 image: https://assetify-dai.com/experts/Seeley_Inner.jpg
 solutions:
 - Environment

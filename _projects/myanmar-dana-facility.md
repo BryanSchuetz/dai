@@ -24,7 +24,7 @@ Despite growth of more than 8 percent in gross domestic product from 2014 to 201
 
 However, small and medium-sized enterprises (SMEs), including household businesses, account for more than 90 percent of all enterprises in the country. Many of these operate on an informal basis, particularly those run by women. As a result, thousands of potential entrepreneurs are unable to seize business opportunities due to a lack of capital for investment and an uncertain business environment.
 
-The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperity"), a program funded by the Foreign, Commonwealth & Development Office (FCDO), works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. DaNa works across multiple levels, including with government policymakers, business sector leaders, and individual entrepreneurs, to address five key constraints to inclusive growth: infrastructure, regulatory environment, access to finance, exports, and inclusiveness of women and minority groups.
+The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperity"), a program funded by the Foreign, Commonwealth & Development Office (FCDO), works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. 
 
 ![DFID DaNa Facility in Burma](https://assetify-dai.com/projects/DaNa_Image.jpg)
 
@@ -32,8 +32,6 @@ The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperi
 
 * Strengthen the skills of, and [create significant business and employment opportunities](http://www.mmtimes.com/index.php/business/26753-dfid-funded-grant-program-to-target-businesses-in-four-sectors.html) for, poor women and marginalised groups.
 * Hold innovation challenges to identify and provide funding support for ideas that have the potential to deliver positive and impactful change in the business sector.
-* Provide rapid technical assistance in response to requests of the recently elected national government in regard to inclusive economic growth and private sector development.
-* Promote inclusive, evidence-based economic decision-making at both the national and sub-national levels.
 * Facilitate increased trade and exports, particularly in non-extractive and job-creating sectors such as textiles, bamboo, and agribusiness.
 
 ### Select Results

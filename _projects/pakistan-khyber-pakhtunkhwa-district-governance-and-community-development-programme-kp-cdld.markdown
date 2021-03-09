@@ -2,16 +2,19 @@
 title: Pakistan—Khyber Pakhtunkhwa District Governance and Community Development Programme
   (KP-CDLD)
 date: 2020-05-20 13:11:00 Z
-summary: The Community Driven Local Development Programme works to restore community
+summary: The Community Driven Local Development Programme worked to restore community
   trust in the local government and build government responsiveness in the Khyber
   Pakhtunkhwa province of Pakistan.
 start: 2014
-end: 2020
+end: 2021
 client: European Union
 solutions:
 - Governance
 regions: Eastern Europe and Central Asia
 country: Pakistan
+promos:
+- title: 'Supporting Women’s Inclusion Through Community Development in Pakistan '
+  link: https://dai-global-developments.com/articles/supporting-womens-inclusion-through-community-development-in-pakistan
 ---
 
 DAI supported the Government of Khyber Pakhtunkhwa in implementing the Community Driven Local Development (KP-CDLD) Programme in the 13 districts of the province of Pakistan. The programme worked to build the responsiveness and effectiveness of the province’s administration to restore citizen trust; stimulate employment and livelihood opportunities; and ensure delivery of basic services. 
