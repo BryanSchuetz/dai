@@ -16,9 +16,6 @@ hero: true
 
 <div class="bulma">
   <div class="container">
-    <h2 class="is-size-3">Global Leadership Team</h2>
-    <p>Our Global leadership team ensures that DAI’s passion for development is delivered with the discipline of a business. 
-    </p> 
     <div class="columns">
       <div class="column">
 {%- for leader in leaders limit:7-%}
