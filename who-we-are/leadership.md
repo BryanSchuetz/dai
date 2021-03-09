@@ -9,7 +9,10 @@ summary: From our Board to our executives to our in-country directors, DAI’s l
 hero: true
 ---
 
-{%- assign leaders = site.data.leadership | shuffle -%}
+{%- assign leaders = site.data.leadership -%}
+{%- if jekyll.environment == 'prod' -%}
+{%- assign leaders = leaders | shuffle -%}
+{%- endif -%}
 
 <div class="bulma">
   <div class="container">
@@ -20,7 +23,7 @@ hero: true
       <div class="column">
 {%- for leader in leaders limit:7-%}
 {%- unless leader.published == false -%}
-<a href="{{leader.url}}">
+<a class="bulma-card" href="{{leader.url}}">
    <div class="card is-child">
     <div class="card-image">
       <figure class="image">
@@ -51,7 +54,7 @@ hero: true
 <div class="column">
 {%- for leader in leaders offset:7 limit:7 -%}
 {%- unless leader.published == false -%}
-<a href="{{leader.url}}">
+<a class="bulma-card" href="{{leader.url}}">
 <div class="card is-child">
 <div class="card-image">
   <figure class="image">
@@ -82,7 +85,7 @@ hero: true
   <div class="column">
     {%- for leader in leaders offset:14 limit:7 -%}
     {%- unless leader.published == false -%}
-  <a href="{{leader.url}}">
+  <a class="bulma-card" href="{{leader.url}}">
     <div class="card is-child">
       <div class="card-image">
         <figure class="image">
