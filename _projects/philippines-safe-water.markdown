@@ -12,6 +12,9 @@ solutions:
 - Environment
 regions: Asia and the Pacific
 country: Philippines
+promos:
+- title: Confronting Climate Uncertainty Head on in the Philippines
+  link: https://medium.com/usaid-global-waters/confronting-climate-uncertainty-head-on-in-the-philippines-17d2666536b0
 ---
 
 Current water security challenges facing the Philippine archipelago include burgeoning populations, unsustainable land uses, and deficient wastewater services. At the center of the challenges is water—a steady, dependable supply is increasingly elusive in many parts of the country as flows oscillate between too much or too little. Unfortunately, such adversities will only increase in the face of climate change, which is expected to further exacerbate ecological imbalances as climate variability becomes the new normal.
