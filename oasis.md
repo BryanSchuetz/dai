@@ -1,8 +1,10 @@
 ---
 title: OASIS
-summary: OASIS is a multiple award, Indefinite Delivery/Indefinity Quantity Contract that provides flexible and innovative solutions for complex professional services.
+summary: OASIS is a multiple award, Indefinite Delivery/Indefinity Quantity Contract
+  that provides flexible and innovative solutions for complex professional services.
 layout: default
 ---
+
 # About OASIS
 
 [OASIS (One Acquisition Solution for Integrated Services)](https://www.gsa.gov/buying-selling/products-services/professional-services/buy-services/oasis-and-oasis-small-business) is a multiple award, Indefinite Delivery/Indefinity Quantity Contract (ID/IQ) that provides flexible and innovative solutions for complex professional services. This solutions-based contract provides a multidisciplined approach to meeting complex government requirements for integrated professional services in the broadest context of the contract’s scope, incorporating all contract types along with ancillary support services and supplies. OASIS provides ease of use for client agencies and maximum flexibility at the task order level.
