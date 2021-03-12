@@ -22,6 +22,9 @@ regions:
 - Asia and the Pacific
 country:
 - Pakistan
+promos:
+- title: 'Donor Action in Pakistan: A Comparative Case Study of CDIP and AAWAZ'
+  link: https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/16456
 layout: project
 ---
 
