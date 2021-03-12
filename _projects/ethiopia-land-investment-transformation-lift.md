@@ -62,3 +62,4 @@ To learn more about LIFT's initiatives, [watch these videos](https://www.youtube
 * Advanced implementation of the new Rural Land Administration System to record post-registration land transactions.
 * Produced land policy reports, including gender and social inclusion research, to allow government stakeholders to make evidence-based decisions.
 * Published the [Inclusive Land Registration and Critical Role of Social Development Officers Guide](/uploads/DAI%20SDO%20Guide-3ddf0d.pdf).
+* Launched a [Knowledge Hub](https://liftethiopia.com/knowledge/) to share lessons learned. 
