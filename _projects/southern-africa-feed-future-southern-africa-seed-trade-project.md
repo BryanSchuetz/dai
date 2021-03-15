@@ -27,6 +27,8 @@ promos:
   link: "/uploads/FINAL%20SADC%20Seed%20Variety%20Catalogue%20Additions%2009%2011%2020.pdf"
 - title: Improving Seed Trade in Southern Africa
   link: https://www.usglc.org/global-impact-project/stories/seeding-food-security
+- title: 'Food for Thought: Raising Women Through Agriculture '
+  link: https://www.usaid.gov/southern-africa-regional/news/food-thought-raising-women-through-agriculture
 layout: project
 ---
 
