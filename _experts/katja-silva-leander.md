@@ -6,13 +6,15 @@ summary: Katja Silva-Leander is a Director at DAI, specialized in inclusive econ
   growth, with 20 years of experience working in the financial services and international
   development fields.
 job-title: Director of Economic Growth, Technical Services
-image: https://assetify-dai.com/experts/SilvaLeander_Inner.jpg
+image: "/uploads/Katja%20Silva-Leander%202018%20(2).jpg"
 solutions:
 - Economic Growth
 - Finance and Investment
 - Market Systems and Value Chain
 regions:
-- Eastern Europe and Central Asia
+- Sub-Saharan Africa
+- Middle East and North Africa
+- Asia and the Pacific
 layout: expert
 ---
 
