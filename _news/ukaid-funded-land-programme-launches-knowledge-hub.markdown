@@ -15,7 +15,7 @@ social-image: "/uploads/smDigitization-Wukro%20Woreda,%20Tigray.jpg"
 country: Ethiopia
 ---
 
-The DAI-led Land Investment for Transformation (LIFT) Programme in Ethiopia—one of the world’s largest land tenure projects—has launched a Knowledge Hub to share insights and lessons learned with local and international stakeholders.
+The DAI-led [Land Investment for Transformation (LIFT) Programme](https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift) in Ethiopia—one of the world’s largest land tenure projects—has launched a [Knowledge Hub](https://liftethiopia.com/knowledge/) to share insights and lessons learned with local and international stakeholders.
 
 “Under the Ministry of Agriculture and in cooperation with UKAid, LIFT has been a global trend-setter showing that land certification can be done efficiently and effectively at a large-scale,” said Andy Smith, LIFT Team Leader. “LIFT takes an all-encompassing approach that includes securing landholder’s tenure rights through certifying land and ensuring farmers’ land rights are maintained through subsequent land transactions via a computerised rural land administration system.”
 
