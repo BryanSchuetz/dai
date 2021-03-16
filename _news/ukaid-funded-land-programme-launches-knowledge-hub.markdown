@@ -1,7 +1,6 @@
 ---
 title: UKaid-funded Land Programme Launches Knowledge Hub
 date: 2021-03-16 09:55:00 Z
-published: false
 solutions:
 - Land Tenure and Property Rights
 - Governance
@@ -21,6 +20,6 @@ The DAI-led [Land Investment for Transformation (LIFT) Programme](https://www.da
 
 ![Digitization-Wukro Woreda, Tigray.JPG](/uploads/Digitization-Wukro%20Woreda,%20Tigray.JPG)
 
-Since 2014, LIFT has distributed 12.6 million land certificates in Ethiopia, with more than 90 percent of these having a woman named as a sole or joint landholder, installed computerised rural land administration systems in 142 districts and reached 133,966 farmers through its market development interventions.
+Since 2014, LIFT has distributed 12.6 million land certificates in Ethiopia, with more than 90 percent of these having a woman named as a sole or joint landholder; installed computerised rural land administration systems in 142 districts; and reached 133,966 farmers through its market development interventions.
 
-LIFT was also one of the first UKAid-funded programmes to incorporate a [Making Markets Work for the Poor](https://en.wikipedia.org/wiki/M4P#:~:text=The%20term%20M4P%2C%20now%20more,of%20growth%20and%20economic%20development.) approach to catalyse farmers’ investments in their land upon receiving land certificates through complementary market development interventions in areas such as rural rental, access to finance, and access to agricultural inputs. 
+LIFT was one of the first UKAid-funded programmes to incorporate a [Making Markets Work for the Poor](https://en.wikipedia.org/wiki/M4P#:~:text=The%20term%20M4P%2C%20now%20more,of%20growth%20and%20economic%20development.) approach, which makes complementary market development interventions—in areas such as rural rental, access to finance, and access to agricultural inputs—to facilitate the process by which newly certified land owners invest in their land.
