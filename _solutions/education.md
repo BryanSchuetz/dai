@@ -19,7 +19,7 @@ promos:
 - title: "**News:** Recent Education News"
   link: "/news/view-more-news?filter=education"
 layout: solution
-type: primary 
+type: primary
 ---
 
 DAI’s Education Practice strengthens the provision of high-quality, inclusive education for children and youth around the world. We work hand-in-hand with educators, policy makers, communities, and stakeholders to implement local solutions, borrowing and building on [ideas and innovations](https://dai-global-developments.com/uploads/WhitePaper_InclusiveEducation.pdf) from across sectors and working to understand education systems as a whole. 
