@@ -1,11 +1,11 @@
 ---
 title: Helping Finance Self-Reliance
-date: 2016-01-22 00:11:14 Z
+date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/governance-solutions/helping-finance-self-reliance"
 solutions:
 - Governance
-layout: solution
 hero: true
+layout: solution
 ---
 
 DAI advises national economic authorities to implement a holistic approach to financing their development priorities, including helping them boost domestically generated tax revenue, maximize the efficiency and transparency of public spending, and partner with the private sector to stimulate investment and inclusive growth.
@@ -67,8 +67,6 @@ The [East Africa Trade and Investment Hub](/our-work/projects/east-africa-trade-
 
 DAI supports national governments, financial institutions, regulators, and credit reporting agencies to develop and deepen more functional and transparent financial markets to help allocate capital to underserved businesses and sectors.
 
-DAI worked in Kenya, under the Financial Inclusion for Rural Microenterprise (FIRM) project, to develop and deliver products and services at the county level to those who have been historically excluded from the financial system by combining mobile solutions, private sector capital, and innovative partnerships to expand credit access for micro, small, and medium-sized enterprises throughout Kenya. Between 2011 and 2016, FIRM facilitated more than $1 billion in financing of agricultural and rural loans that benefited more than 2.5 million mostly farm-based households and more than 1.7 million members of producer organizations and other Feed the Future beneficiaries, as well as promoted county-level and energy investments tied to Power Africa.
+DAI worked in Kenya, under the [Financial Inclusion for Rural Microenterprise (FIRM)](https://www.dai.com/our-work/projects/kenya-financial-inclusion-rural-microenterprises-firm) project, to develop and deliver products and services at the county level to those who have been historically excluded from the financial system by combining mobile solutions, private sector capital, and innovative partnerships to expand credit access for micro, small, and medium-sized enterprises throughout Kenya. Between 2011 and 2016, FIRM facilitated more than $1 billion in financing of agricultural and rural loans that benefited more than 2.5 million mostly farm-based households and more than 1.7 million members of producer organizations and other Feed the Future beneficiaries, as well as promoted county-level and energy investments tied to Power Africa.
 
-In Ukraine, the Financial Sector Transformation (FST) project secured the passage of four economic governance laws including two that combat corruption: The Base Erosion and Profit Shifting Law and Anti-Money Laundering (AML) Law. The AML law fundamentally transforms Ukraine’s legal framework for preventing and combatting money laundering, which cost the nation an estimated $12.3 billion in 2018. Moreover, the new law brings Ukraine’s AML framework into compliance with international standards. FST provided legal and technical advice at every step of the process, from conceptualization to passage of this transformative legislation.
-
-
+In Ukraine, the [Financial Sector Transformation (FST)](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst) project secured the passage of four economic governance laws including two that combat corruption: The Base Erosion and Profit Shifting Law and Anti-Money Laundering (AML) Law. The AML law fundamentally transforms Ukraine’s legal framework for preventing and combatting money laundering, which cost the nation an estimated $12.3 billion in 2018. Moreover, the new law brings Ukraine’s AML framework into compliance with international standards. FST provided legal and technical advice at every step of the process, from conceptualization to passage of this transformative legislation.
