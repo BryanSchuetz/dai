@@ -28,7 +28,7 @@ DAI’s heritage as an economic development firm, including extensive engagement
 
 Our team has deep professional experience in corporate finance, investment banking, private equity, venture capital, and venture building.
 
-## DAI Capital operates across three pillars:
+## DAI Capital operates across two pillars:
 
 ### Capital Advisory
 
@@ -48,11 +48,11 @@ For more information, please visit [www.daimagister.com](https://www.daimagister
 
 DAI’s longstanding local presence and extensive networks across frontier and emerging markets provide an ideal platform for identifying promising investment opportunities, performing due diligence on these investment opportunities, and providing management support for the investee management teams once an investment is made.  
 
-### Ventures
+<!-- ### Ventures
 
 We invest directly in early-stage companies and create greenfield businesses in frontier and emerging markets where the DAI platform provides a strategic advantage—particularly in financial services, agriculture, health, technology, and government services.
 
-DAI Capital’s existing portfolio includes several healthcare assets—[THINKMD](/news/dai-invests-in-thinkmds-clinical-assessment-technology), [ClickMedix](/news/dai-global-health-invests-in-mhealth-leader-clickmedix), and [MobileODT](/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech)—as well as greenfield startups at an earlier stage.
+DAI Capital’s existing portfolio includes several healthcare assets—[THINKMD](/news/dai-invests-in-thinkmds-clinical-assessment-technology), [ClickMedix](/news/dai-global-health-invests-in-mhealth-leader-clickmedix), and [MobileODT](/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech)—as well as greenfield startups at an earlier stage. -->
 
 <iframe src="https://player.vimeo.com/video/369894308" width="640" height="360" frameborder="0"
   allow="autoplay; fullscreen" allowfullscreen></iframe>`Devex interviews John Maris in October 2019 about DAI Capital.`
