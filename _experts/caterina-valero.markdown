@@ -9,7 +9,7 @@ job-title: Chief of Party, Unidos por la Justicia project
 image: "/uploads/caterina.jpg"
 solutions:
 - Economic Growth
-- Law and Justice
+- Governance
 - Workforce Development and Youth
 - 
 - 
