@@ -9,12 +9,12 @@ job-title: Chief of Party, Justice, Human Rights, and Security Strengthening
 image: "/uploads/Caterina%20Valero%20picture.jpg"
 solutions:
 - Economic Growth
-- Conflict and Vulnerability Analysis
 - Law and Justice
-- Education
-- Countering Extremism
-- Fragile States
-- Institutional and Policy Reform
+- Workforce Development and Youth
+- 
+- 
+- 
+- 
 regions:
 - Latin America and the Caribbean
 ---
