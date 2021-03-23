@@ -24,7 +24,7 @@ DAI [was awarded](/news/dai-wins-place-on-us-governments-oasis-contract) an unre
 ## Key Contractor Personnel and Information
 {:style="margin-top: 2rem;"}
 
-* **Natawne Fritz**
+* **Natawnee Fritz**
 * OASIS Program Manager
 * 301-771-7600
 * [Natawnee_fritz@dai.com](mailto:Natawnee_fritz@dai.com)
