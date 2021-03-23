@@ -6,7 +6,7 @@ summary: Caterina Valero is an international development professional with more 
   30 years of experience in program management and implementation in Latin America
   and the Caribbean.
 job-title: Chief of Party, Justice, Human Rights, and Security Strengthening
-image: "/uploads/Caterina%20Valero%20picture.jpg"
+image: "/uploads/caterina.jpg"
 solutions:
 - Economic Growth
 - Law and Justice
