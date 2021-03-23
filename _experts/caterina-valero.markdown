@@ -25,7 +25,7 @@ She currently serves as Chief of Party for the [Unidos por la Justicia (United f
 
 Prior to joining DAI, Caterina worked as a Senior Director with the Pan American Development Foundation in Washington, D.C., where she oversaw the home office staff and 11 country offices in the region and monitored the implementation of grants programming on projects with a total grants portfolio of $100 million. She supervised the strategic, technical, administrative, and operational components of a portfolio of 27 projects focused on social and economic development, juvenile justice, crime prevention, human rights, workforce development, municipal services, disaster management, and civil society in Latin America and the Carribean. The projects she coordinated during that tenure were funded by a variety of donors, such as the U.S. Agency for International Development (USAID), the World Bank, United Nations, Royal Caribbean, among others. She has received extensive training on USAID Rules and Regulations, USAID Financial Management, USAID Sub-Award Management, and monitoring and evaluation, among others.
 
-Caterina has contributed to more than 15 publications on poverty reduction, public and private sector partnerships, security, youth, among others.
+Caterina has contributed to more than 15 publications on poverty reduction, public and private sector partnerships, security, youth, among others, and edited nine publications on local governance.
 
 * M.S., comparative political science, Institut d’Etudes Politiques, France
 * M.S., international relations, Catholic University, Chile
