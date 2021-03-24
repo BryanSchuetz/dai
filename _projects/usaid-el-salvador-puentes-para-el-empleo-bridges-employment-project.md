@@ -17,6 +17,8 @@ regions:
 country:
 - El Salvador
 promos:
+- title: Building Bridges to a Better Future for Vulnerable Young Salvadorans
+  link: https://dai-global-developments.com/articles/building-bridges-to-a-better-future-for-vulnerable-young-salvadorans
 - title: Providing Key Stakeholders with the Tools and Know-How to Assist Vulnerable
     Populations
   link: https://www.youthpower.org/news/providing-key-stakeholders-tools-and-know-how-assist-vulnerable-populations
@@ -33,7 +35,7 @@ layout: project
 
 Many young people in El Salvador's high-crime communities face impossible choices for livelihoods among gang coercion, underemployment, and expensive, dangerous migration. At the same time, networks of committed people are engaging youth in positive development activities and working to grow the country's economy and strengthen the educational systems and institutions that [could offer viable alternatives to gangs and crime](http://dai-global-developments.com/articles/mitigating-instability-in-central-america?utm_source=daidotcom).
 
-These champions face epidemic violence, challenges in institutional capacity, a complex political and policy environment, and disjointed coordination at local and national levels. The result is a system that struggles to offer all Salvadoran youth positive pathways to meaningful social inclusion offered by economic stability and rewarding work.
+These champions face epidemic violence, challenges in institutional capacity, a complex political and policy environment, and disjointed coordination at local and national levels. The result is a system that struggles to [offer all Salvadoran youth](https://dai-global-developments.com/articles/building-bridges-to-a-better-future-for-vulnerable-young-salvadorans) positive pathways to meaningful social inclusion offered by economic stability and rewarding work.
 
 Through Puentes para el Empleo, DAI supported the U.S. Agency for International Development in El Salvador to link young people—including women and vulnerable populations—to basic social resources of work, knowledge, security, and social capital to foster inclusion through employment opportunities. By identifying and building on existing knowledge and networks, Puentes para el Empleo convened Salvadoran champions for youth inclusion, optimized their performance, linked them to one another, and linked youth to them to facilitate employment.
 
