@@ -1,7 +1,6 @@
 ---
 title: Ukraine—Governance and Local Accountability (HOVERLA)
 date: 2021-03-24 09:46:00 Z
-published: false
 summary: The Ukraine Governance and Local Accountability (HOVERLA) program is completing
   the necessary legal framework for decentralization, supporting the operation of
   newly consolidated communities, improving services delivered to citizens, and advancing
@@ -26,4 +25,9 @@ HOVERLA works to ensure that Ukraine's system of local self-governance is increa
 
 ### Sample Activities
 
-
+* Ensure the content of proposed primary or secondary legislation or amendments is evidence-based, in keeping with European standards, and rationalized within the local legal system and cultural environment. 
+* Support the development of subnational governance action plans.
+* Support effective systems of financial control and external audit of the local level. 
+* Increase local and subnational government capacity to perform budget fiscal and administrative roles.  
+* Expand municipal fiscal transparency through public hearings and 
+e-portals. 
