@@ -1,16 +1,16 @@
 ---
 title: Water and Sanitation Services and Management
-date: 2016-01-22 00:11:14.114000000 Z
+date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/environment-solutions/water-and-sanitation-services-and-resource-management"
 solutions:
 - Environment
-layout: solution
 redirect_from:
 - "/wash"
 hero: true
+layout: solution
 ---
 
-Given the centrality of clean water and good sanitation to human development and prosperity, our specialists help national governments, local governments, and private companies devise and carry out plans to improve water security, water productivity, and expanded access to clean water and sanitation services. Our solutions are designed to:
+Given the [centrality of clean water](https://daiglobal.exposure.co/the-value-of-water) and good sanitation to human development and prosperity, our specialists help national governments, local governments, and private companies devise and carry out plans to improve water security, water productivity, and expanded access to clean water and sanitation services. Our solutions are designed to:
 
 * Improve the management of water resources by diverse stakeholders—across the watershed and broader landscape.
 * Improve the productivity of water use by farmers.
