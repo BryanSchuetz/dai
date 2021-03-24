@@ -16,11 +16,17 @@ promos:
 - title: USAID Launches the Trade and Investment Facilitation Project to Enhance Economic
     Opportunities in Targeted Business Sectors in Lebanon
   link: https://executive-bulletin.com/slider/usaid-launches-the-trade-and-investment-facilitation-tif-project-to-enhance-economic-opportunities-in-targeted-business-sectors-in-lebanon
+- title: Follow the Trade and Investment Facilitation Project on Facebook
+  link: https://www.facebook.com/TIFleb/
+- title: Follow the Trade and Investment Facilitation Project on LinkedIn
+  link: https://www.linkedin.com/company/trade-and-investment-facilitation-project/
+- title: Follow the Trade and Investment Facilitation Project on Instagram
+  link: https://www.instagram.com/tifleb/
 ---
 
-With a free market economy and a strong laissez-faire commercial tradition, Lebanon, until recent years, has been a regional epicenter for commerce, banking, and innovation. Now deeply mired in a crippling political and financial crisis, the country needs a new direction and assistance to turn around the economy, restart finance and export markets, facilitate policy change, and drive new investments that will bring in foreign exchange and improve global competitiveness. 
+With a free market economy and a strong laissez-faire commercial tradition, Lebanon, until recent years, has been a regional epicenter for commerce, banking, and innovation. Now deeply mired in a political and financial crisis, the country needs a new direction and assistance to turn around the economy, restart finance and export markets, facilitate policy change, and drive new investments that will bring in foreign exchange and improve global competitiveness. 
 
-The Lebanon Trade and Investment Facilitation (TIF) Activity will support that new start. TIF works to boost the exports of Lebanese goods and services, facilitate investment in Lebanese enterprises, and improve the business and investment enabling environment in Lebanon.
+The Lebanon Trade and Investment Facilitation (TIF) Activity supports that new start. TIF works to boost the exports of Lebanese goods and services, facilitate investment in Lebanese enterprises, and improve the business and investment enabling environment in Lebanon.
  
 TIF’s priority sectors are tourism, agriculture and agrifoods, manufacturing, and the knowledge economy, with opportunities to be identified quickly based on a sector mapping exercise. TIF aims to generate more than $800 million in sales for Lebanese enterprises and leverage $270 million in private sector investment. 
 
