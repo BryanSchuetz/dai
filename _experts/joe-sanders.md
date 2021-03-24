@@ -1,6 +1,7 @@
 ---
 title: Joe Sanders
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Sanders
 summary: Joe Sanders has 18 years of experience, including more than 10 years of full-time
   management experience on projects funded by the U.S. Agency for International Development
