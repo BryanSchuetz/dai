@@ -8,7 +8,7 @@ job-title: Business Development, Environment
 image: https://assetify-dai.com/experts/Baca_Inner.jpg
 solutions:
 - Environment
-- Water and Sanitation Services and Management
+- 
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean
