@@ -22,6 +22,8 @@ promos:
   link: https://www.linkedin.com/company/trade-and-investment-facilitation-project/
 - title: Follow the Trade and Investment Facilitation Project on Instagram
   link: https://www.instagram.com/tifleb/
+- title: Call for Partnerships
+  link: https://fs24.formsite.com/llSOui/mfuzthif1z/index.html
 ---
 
 With a free market economy and a strong laissez-faire commercial tradition, Lebanon, until recent years, has been a regional epicenter for commerce, banking, and innovation. Now deeply mired in a political and financial crisis, the country needs a new direction and assistance to turn around the economy, restart finance and export markets, facilitate policy change, and drive new investments that will bring in foreign exchange and improve global competitiveness. 
