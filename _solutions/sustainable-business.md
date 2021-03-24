@@ -21,13 +21,8 @@ promos:
   link: "/our-work/the-projects?filter=sustainable-business"
 - title: "**News:** Recent Sustainable Business News"
   link: "/news/view-more-news?filter=sustainable-business"
-- title: "**Analysis**: _Unlocking Content_"
-  link: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making?utm_source=daidotcom
-- title: "**News**: _Tech Startups in Ghana_"
-  link: https://www.dai.com/news/kosmos-innovation-center-develops-tech-startups-to-solve-agriculture-problems-in-ghana
-- title: "**News**: _Chevron’s Nigerian Initiative Decreases Business Risk and Attracts
-    Investment_"
-  link: https://dai-global-developments.com/articles/chevrons-nigerian-initiative-found-to-decrease-business-risk-attract-local-investment-and-bring-hope
+- title: "**Articles:** Recent Blog Posts on Sustainable Business"
+  link: "/publications/view-more-articles?filter=sustainable-business"
 related: false
 hero: true
 layout: solution
@@ -62,8 +57,6 @@ Client focused and data-driven, our approach is defined by 40 years of developme
 ## Industries
 
 SBG works across industries including oil and gas, metals and mining, capital projects and infrastructure, renewable energy, retail, food and beverage, financial services, telecommunications, and more.
-
-<iframe src="https://www.dai.com/extras/maps/newsbg.html" frameborder="0"></iframe>
 
 ## Technical Service Areas:
 

@@ -18,7 +18,7 @@ promos:
   link: "/our-work/the-projects?filter=education"
 - title: "**News:** Recent Education News"
   link: "/news/view-more-news?filter=education"
-- title: "**Articles:** Recent Blog Posts on Educatoin"
+- title: "**Articles:** Recent Blog Posts on Education"
   link: "/publications/view-more-articles?filter=education"
 type: primary
 layout: solution
