@@ -6,7 +6,7 @@ summary: Caterina Valero is an international development professional with more 
   30 years of experience in program management and implementation in Latin America
   and the Caribbean.
 job-title: Chief of Party, Unidos por la Justicia project
-image: "/uploads/Caterina%20Portal.jpg"
+image: "/uploads/caterina-b31b88.jpg"
 solutions:
 - Economic Growth
 - Governance
