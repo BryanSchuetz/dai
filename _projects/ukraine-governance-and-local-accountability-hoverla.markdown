@@ -20,7 +20,7 @@ Ukraine continues along the path of decentralization, but there is an urgent nee
 
 The Ukraine Governance and Local Accountability (HOVERLA) program builds upon accomplishments from the U.S. Agency for International Development’s previous governance support to complete the necessary legal framework for decentralization and mitigate against backsliding, support the operation of newly consolidated communities, improve services delivered to citizens, and advance citizen engagement at all levels.
  
-HOVERLA works to to ensure that Ukraine's system of local self-governance is increasingly institutionalized and effective, that subnational governments are more self-reliant, and that citizens can play an increasingly influential role in local governance processes.
+HOVERLA works to ensure that Ukraine's system of local self-governance is increasingly institutionalized and effective, that subnational governments are more self-reliant, and that citizens can play an increasingly influential role in local governance processes.
 
 ![vru_1sept2020_1.jpeg](/uploads/vru_1sept2020_1.jpeg)
 
