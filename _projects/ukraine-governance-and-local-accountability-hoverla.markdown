@@ -24,3 +24,6 @@ The Ukraine Governance and Local Accountability (HOVERLA) program builds on the 
 HOVERLA’s key objectives are to ensure that Ukraine's system of local self-governance is increasingly institutionalized and effective, that subnational governments are more self-reliant, and that citizens can play an increasingly influential role in local governance processes.
 
 ![vru_1sept2020_1.jpeg](/uploads/vru_1sept2020_1.jpeg)
+
+### Sample Activities
+
