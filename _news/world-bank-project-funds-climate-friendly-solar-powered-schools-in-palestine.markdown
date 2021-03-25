@@ -24,9 +24,12 @@ F4J’s mandate is to address constraints to job growth in the West Bank and Gaz
 * Creating jobs and establishing a new set of engineering, accounting, and finance skills in the renewable energy sector that are currently not found in the Palestinian marketplace;
 * Reducing debt for the Ministry of Education and Higher Education; and 
 * Aligning with the Palestinian strategy to substitute energy sources with more reliable and greener energy.
+
 ## New Jobs
 
 Installing the rooftop solar systems will create jobs for sheet metal workers, electricians, and engineers. The European Photovoltaic Industry Association [estimates](https://www.solarpowereurope.org/new-studies-reveal-solars-tremendous-job-creation-potential/) that generally speaking, each megawatt installed creates from 15 to 27 jobs, depending on the technology involved. For this particular project investment, it is estimated that some 600 jobs will be created, of which more than 60 percent will go to young people and about a quarter to women.
+
+![palestine solar panels.jpg](/uploads/palestine%20solar%20panels.jpg)
 
 ## Closing the Energy Shortfall
 
