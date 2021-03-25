@@ -2,16 +2,15 @@
 title: Bill Parente
 date: 2016-01-21 22:18:00 Z
 lastname: Parente
-summary: 'A professional engineer by training, Bill has led numerous infrastructure
+summary: A professional engineer by training, Bill has led numerous infrastructure
   and development projects for donors in countries around the world. He contributes
   to DAI’s water, environment, and infrastructure programs as part of the Technical
   Services team.
-
-'
 job-title: 'Chief of Party, USAID IUWASH PLUS, Indonesia '
 image: "/uploads/PersonImage.jpeg"
 solutions:
 - Environment
+- Water and Sanitation Services and Management
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
