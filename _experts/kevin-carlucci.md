@@ -13,8 +13,8 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment
 - Natural Resource Management
-- 
 - Land Tenure and Property Rights
+- 
 regions:
 - Asia and the Pacific
 - Latin America and the Caribbean
