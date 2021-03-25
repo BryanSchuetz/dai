@@ -1,7 +1,6 @@
 ---
 title: World Bank Project Funds Climate-Friendly Solar-Powered Schools in Palestine
 date: 2021-03-25 16:10:00 Z
-published: false
 solutions:
 - Economic Growth
 - Environment
@@ -10,6 +9,11 @@ solutions:
 regions: Middle East and North Africa
 projects: Palestine—Finance for Jobs (F4J)
 clients: World Bank
+summary: The Finance for Jobs project in Palestine has awarded a grant enabling the
+  installation of solar rooftops on 400 schools across the country, creating a total
+  of 28 megawatts of generating capacity. The rooftop-solar installation is the largest
+  electricity generation project in Palestine.
+social-image: "/uploads/sm%20palestine%20solar%20panels.jpg"
 country: Palestine
 ---
 
