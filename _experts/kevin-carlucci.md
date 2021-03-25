@@ -13,7 +13,7 @@ solutions:
 - Climate Change Adaptation and Mitigation
 - Environment
 - Natural Resource Management
-- Water and Sanitation Services and Management
+- 
 - Land Tenure and Property Rights
 regions:
 - Asia and the Pacific
