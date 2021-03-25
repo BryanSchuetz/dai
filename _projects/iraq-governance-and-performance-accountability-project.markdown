@@ -10,6 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Digital Strategy
+- Water and Sanitation Services and Management
 regions: Middle East and North Africa
 country: Iraq
 promos:
