@@ -13,6 +13,12 @@ solutions:
 - Economic Growth
 regions: Middle East and North Africa
 country: Palestine
+promos:
+- title: World Bank Project Funds Climate-Friendly Solar-Powered Schools in Palestine
+  link: https://www.dai.com/news/world-bank-project-funds-climate-friendly-solar-powered-schools-in-palestine
+- title: DAI-Implemented Solar Energy Financing Project in Palestine Wins Excellence
+    Award from World Bank Group
+  link: https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank
 ---
 
 Palestine needs more sustainable and productive employment opportunities to accommodate the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s insecure business environment with high costs and risks has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and Palestinian Authority has undermined innovation and growth.
