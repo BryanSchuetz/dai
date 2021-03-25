@@ -5,7 +5,7 @@ summary: Innovation for Agribusiness works to increase revenue for small farmers
   northern Mozambique by promoting the development of inclusive and sustainable market
   systems.
 start: 2010
-end: 2021
+end: 2022
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
