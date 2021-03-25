@@ -9,6 +9,7 @@ job-title: Chief of Party, Philippines Safe Water
 image: https://assetify-dai.com/experts/Alma_Inner.jpg
 solutions:
 - Environment
+- Water and Sanitation Services and Management
 - Natural Resource Management
 regions:
 - Asia and the Pacific
