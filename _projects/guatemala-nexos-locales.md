@@ -19,6 +19,7 @@ solutions:
 - Fragile States
 - Stabilization
 - Human Centered Design
+- Water and Sanitation Services and Management
 regions:
 - Latin America and the Caribbean
 country:
