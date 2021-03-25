@@ -7,7 +7,7 @@ summary: Heather Skilling has more than 25 years of experience in strengthening 
   consulting work with the U.S. Agency for International Development (USAID), The
   World Bank, Asian Development Bank, the Foreign, Commonwealth & Development Office
   (FCDO), consulting firms, and others.
-job-title: Principal Global Practice Specialist, Water and Energy
+job-title: Principal Global Practice Specialist, Water
 image: https://assetify-dai.com/experts/Skilling%20Portal.jpg
 solutions:
 - Governance
