@@ -17,6 +17,8 @@ promos:
 - title: 'Enhancing Watershed Management: Integrated Water Resources Management in
     Nepal'
   link: https://medium.com/@bridgebiointegration/investing-in-prosperity-5c1e8622df4b
+- title: The Value of Water
+  link: https://daiglobal.exposure.co/the-value-of-water
 - title: Clean Water for All by 2030. No, Really
   link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 ---
