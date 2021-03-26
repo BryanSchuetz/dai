@@ -22,6 +22,8 @@ promos:
   link: https://daiglobal.exposure.co/engagement-pays-dividends-in-water-conservation
 - title: Saving Livelihoods One Drop at a Time
   link: https://medium.com/usaid-global-waters/saving-livelihoods-one-drop-at-a-time-269e1f3a9af7
+- title: Lebanon Project Demos Water-Saving Techniques
+  link: https://www.dai.com/news/lebanon-project-demos-water-saving-techniques
 - title: Clean Water for All by 2030. No, Really
   link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 layout: project
@@ -46,10 +48,10 @@ LWP is building on the successes of the [Lebanon Waste and Wastewater Sector Sup
 * Promoted the use of water-saving drip irrigation systems and hydroponics systems through partnerships between the private sector and farmers that results in 35 percent decrease in water consumption for irrigation that was reallocated for domestic use.
 * Supported the Association of Lebanese Industrialists to introduce water-saving and recycling technologies in nine stone-cutting factories resulting in a 90 percent decrease in freshwater use, $700,000 annual savings in water fees, and reduced pollution in the Litani River Basin.
 * Rehabilitated two constructed wetlands ensuring low-cost sewage treatment for more than 3,000 citizens in rural areas in the Bekaa and South Lebanon.
-•	Supported more than 400 teachers in 13 schools to incorporate water conservation subjects into elementary and middle school curricula, engaging around 575 students in water conservation and protection projects, and developed a series of educational videos to promote water conservation.
+* Supported more than 400 teachers in 13 schools to incorporate water conservation subjects into elementary and middle school curricula, engaging around 575 students in water conservation and protection projects, and developed a series of [educational videos](https://www.facebook.com/LebanonWater/videos/?ref=page_internal) to promote water conservation.
+* Supported Lebanese water utilities with water infrastructure works valued at around $22 million in Jezzine (South Lebanon), Koura (North Lebanon), Metn (Mount Lebanon), and West Bekaa (Bekaa).
 
 
-* Procured handheld billing devices for its water authority partners, which will improve bill collection.
 * Promoted the use of water-saving [drip irrigation](https://www.dai.com/news/lebanon-project-demos-water-saving-techniques) and hydroponics methods to public and private partners.
 * Improved the communication and customer service functions at the partner water authorities.
 * Supported the North Lebanon Water Establishment with [water infrastructure works](https://lb.usembassy.gov/usaid-supports-north-lebanon-water-establishment-2-8-million-infrastructure-works-improve-water-services-koura/) valued at $2.8 million in the Caza of Koura, including the redesign and rehabilitation of the Jradeh Pumping Station that serves several northern villages, including the supply and installation of a chlorination system. 
