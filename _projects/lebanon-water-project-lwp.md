@@ -20,6 +20,8 @@ promos:
   link: https://daiglobal.exposure.co/the-value-of-water
 - title: 'Engagement Pays Dividends in Water Conservation '
   link: https://daiglobal.exposure.co/engagement-pays-dividends-in-water-conservation
+- title: Saving Livelihoods One Drop at a Time
+  link: https://medium.com/usaid-global-waters/saving-livelihoods-one-drop-at-a-time-269e1f3a9af7
 - title: Clean Water for All by 2030. No, Really
   link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 layout: project
@@ -29,17 +31,24 @@ The Lebanon Water Project (LWP) is increasing reliable and sustainable access to
 
 LWP is building on the successes of the [Lebanon Waste and Wastewater Sector Support](/our-work/projects/lebanon-water-and-wastewater-sector-support-lwwss) project that ran from 2009 to 2015.
 
-![LWP drip irrigation.jpg](/uploads/LWP%20drip%20irrigation.jpg)
+![untitled-9262.jpg](/uploads/untitled-9262.jpg)
 
 ### Sample Activities
 
-* Review and strengthen the planning and internal operations management of water authorities.
+* Review and strengthen the planning and internal operations management of water utilities.
 * Design and support completion of baseline regional customer satisfaction surveys.
-* Develop pilot private sector partnerships that address improved service delivery, water conservation technologies, and water usage awareness.
+* Build sustainable partnerships between public water institutions, local communities, and the private sector that address improved service delivery, water conservation technologies, and water usage awareness.
 
 ### Select Results
 
-* Completed five-year business plans—in English and Arabic—for its partner water authorities.
+* Introduced fully automated systems for financial management, billing, and collection to improve work processes and control measures.
+* Installed around 35,000 water meters and procured handheld billing devices for water utilities, which will improve bill collection.
+* Promoted the use of water-saving drip irrigation systems and hydroponics systems through partnerships between the private sector and farmers that results in 35 percent decrease in water consumption for irrigation that was reallocated for domestic use.
+* Supported the Association of Lebanese Industrialists to introduce water-saving and recycling technologies in nine stone-cutting factories resulting in a 90 percent decrease in freshwater use, $700,000 annual savings in water fees, and reduced pollution in the Litani River Basin.
+* Rehabilitated two constructed wetlands ensuring low-cost sewage treatment for more than 3,000 citizens in rural areas in the Bekaa and South Lebanon.
+•	Supported more than 400 teachers in 13 schools to incorporate water conservation subjects into elementary and middle school curricula, engaging around 575 students in water conservation and protection projects, and developed a series of educational videos to promote water conservation.
+
+
 * Procured handheld billing devices for its water authority partners, which will improve bill collection.
 * Promoted the use of water-saving [drip irrigation](https://www.dai.com/news/lebanon-project-demos-water-saving-techniques) and hydroponics methods to public and private partners.
 * Improved the communication and customer service functions at the partner water authorities.
