@@ -1,14 +1,14 @@
 ---
 title: Shikha Gupta
 date: 2020-06-02 09:26:00 Z
+published: false
 lastname: Gupta
 summary: 'Shikha Gupta is the Senior Strategic Advisor helping DAI’s Sustainable Business
   Group (SBG) grow in a systematic way without losing its business culture, client
   focus, and high-quality product offerings.  '
-job-title: 'Senior Strategic Advisor '
 image: "/uploads/Shika%20Gupta.jpg"
 solutions:
-- Sustainable Business
+- Include Primary and/or Secondary Solutions
 regions:
 - Worldwide
 ---
