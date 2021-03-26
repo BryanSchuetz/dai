@@ -27,7 +27,7 @@ layout: default
     <p><strong>Social Networks</strong><br>
     <a href="http://twitter.com/daiglobal">Twitter</a><br>
     <a href="http://facebook.com/daiglobal">Facebook</a><br>
-    <a href="https://www.linkedin.com/company/dai">Linkedin</a><br><a href="https://www.instagram.com/daiglobal/">Instagram</a></p>
+    <a href="https://www.linkedin.com/company/dai">Linkedin</a><br><a href="https://www.instagram.com/daiglobal/">Instagram</a><br><a href="https://daiglobal.exposure.co/">Exposure</a></p>
     <br>
     <p style="margin-bottom: 0;"><strong>Images</strong></p>
     <p style="margin-top: 0;">If your likeness is reproduced in any of the images hosted on this website and you would like these images to be deleted, please contact the <a href="mailto:bryan_schuetz@dai.com">administrator</a> and the images will be promptly removed.</p>
