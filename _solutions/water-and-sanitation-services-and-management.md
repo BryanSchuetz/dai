@@ -18,3 +18,4 @@ Given the [centrality of clean water](https://daiglobal.exposure.co/the-value-of
 * Achieve public health goals by assisting cities and public utilities to extend clean water and sanitation infrastructure and services, and by helping to develop policies, regulations, and finance mechanisms that make household access to clean water and basic sanitation more feasible and affordable. 
 
 ![Water and Sanitation Infographic](https://assetify-dai.com/infographics/water-works.png)
+{:style="margin-bottom: 2rem;"}
