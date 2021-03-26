@@ -28,7 +28,9 @@ promos:
     Emergency Response Mechanism Element "
   link: https://dai-assets.s3.us-east-1.amazonaws.com/videos/chad-video-rough.mp4
 - title: Chad COVID-19 Projects Summary
-  link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/Chad%20COVID%20Response%20FINAL.pdf
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/Chad%20COVID%20Response%20FINAL%202.pdf
+- title: 'COVID-19: Protecting Lives in Cameroon'
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/covid-protecting-lives-in-cameroon.pdf
 ---
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 

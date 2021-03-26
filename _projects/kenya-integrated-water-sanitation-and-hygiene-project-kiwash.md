@@ -23,6 +23,8 @@ promos:
   link: https://www.usglc.org/blog/clean-water-education-access-opportunity/
 - title: Responding to COVID-19 While Reinforcing Development Gains in Kenya
   link: https://www.globalwaters.org/resources/blogs/responding-covid-19-while-reinforcing-development-gains-kenya
+- title: The Value of Water
+  link: https://daiglobal.exposure.co/the-value-of-water
 layout: project
 ---
 
