@@ -16,3 +16,5 @@ Given the [centrality of clean water](https://daiglobal.exposure.co/the-value-of
 * Improve the productivity of water use by farmers.
 * Forge cross-border partnerships to enhance transnational river basin management, which is critical for mitigating water scarcity at the regional level, alleviating poverty, improving food security, protecting ecosystems, and advancing livelihoods.
 * Achieve public health goals by assisting cities and public utilities to extend clean water and sanitation infrastructure and services, and by helping to develop policies, regulations, and finance mechanisms that make household access to clean water and basic sanitation more feasible and affordable. 
+
+![Water and Sanitation Infographic](https://assetify-dai.com/infograpics/water-works.png)
