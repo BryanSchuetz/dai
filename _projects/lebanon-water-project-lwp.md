@@ -18,6 +18,8 @@ country:
 promos:
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
+- title: 'Engagement Pays Dividends in Water Conservation '
+  link: https://daiglobal.exposure.co/engagement-pays-dividends-in-water-conservation
 - title: Clean Water for All by 2030. No, Really
   link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 layout: project

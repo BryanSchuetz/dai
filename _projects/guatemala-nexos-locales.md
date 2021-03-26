@@ -36,6 +36,8 @@ promos:
 - title: 'DAI Launches ''Lean HCD: A Case Study in Human-Centered Design in the Highlands
     of Guatemala'''
   link: https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html
+- title: The Value of Water
+  link: https://daiglobal.exposure.co/the-value-of-water
 layout: project
 ---
 
