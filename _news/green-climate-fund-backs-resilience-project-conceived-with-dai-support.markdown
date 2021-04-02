@@ -2,6 +2,13 @@
 title: Green Climate Fund Backs Resilience Project Conceived with DAI Support
 date: 2021-04-02 14:30:00 Z
 published: false
+solutions:
+- Climate Change Adaptation and Mitigation
+regions: Sub-Saharan Africa
+clients: French Development Agency
+summary: A project designed with DAI’s assistance to mitigate the impact of climate
+  change in four vulnerable Indian Ocean countries has won the support of the Green
+  Climate Fund) (GCF), the largest global fund dedicated to addressing climate change.
 ---
 
 A project designed with DAI’s assistance to mitigate the impact of climate change in four vulnerable Indian Ocean countries has won the support of the [Green Climate Fund](https://www.greenclimate.fund/about) (GCF), the largest global fund dedicated to addressing climate change. 
