@@ -1,7 +1,6 @@
 ---
 title: Green Climate Fund Backs Resilience Project Conceived with DAI Support
 date: 2021-04-02 14:30:00 Z
-published: false
 solutions:
 - Climate Change Adaptation and Mitigation
 regions: Sub-Saharan Africa
@@ -9,6 +8,7 @@ clients: French Development Agency
 summary: A project designed with DAI’s assistance to mitigate the impact of climate
   change in four vulnerable Indian Ocean countries has won the support of the Green
   Climate Fund) (GCF), the largest global fund dedicated to addressing climate change.
+social-image: "/uploads/Mauritius-Climate-009c3a.jpg"
 ---
 
 A project designed with DAI’s assistance to mitigate the impact of climate change in four vulnerable Indian Ocean countries has won the support of the [Green Climate Fund](https://www.greenclimate.fund/about) (GCF), the largest global fund dedicated to addressing climate change. 
@@ -17,7 +17,7 @@ On March 19, the GCF Board approved US$71 million to finance the five-year proje
 
 These countries are particularly exposed to the adverse effects of climate change, such as rising sea levels, increased sea surface and air temperatures, and changing rainfall patterns. They also suffer from tropical and non-tropical cyclones; from 1950 to 2020, extreme storms affected 62 percent of the population of the four countries, causing significant loss of life and damage estimated at $3.2 billion.
 
-![Mauritius-Climate-009c3a.jpg](/uploads/Mauritius-Climate-009c3a.jpg)`DAI designed interventions to help modernize national hydrological and meteorological services in four Indian Ocean countries, including Mauritius.`
+![Mauritius-Climate-009c3a.jpg](/uploads/Mauritius-Climate-009c3a.jpg)`DAI designed interventions to help mitigate climate change in four Indian Ocean countries, including Mauritius.`
 
 One of the weak links in the region is the ability of local governments to forecast, detect, and monitor hazards, and to generate and disseminate actionable early warnings that allow decision makers and communities to prepare for and adapt to climate change. 
 
