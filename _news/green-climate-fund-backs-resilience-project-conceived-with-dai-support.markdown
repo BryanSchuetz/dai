@@ -17,7 +17,7 @@ On March 19, the GCF Board approved US$71 million to finance the five-year proje
 
 These countries are particularly exposed to the adverse effects of climate change, such as rising sea levels, increased sea surface and air temperatures, and changing rainfall patterns. They also suffer from tropical and non-tropical cyclones; from 1950 to 2020, extreme storms affected 62 percent of the population of the four countries, causing significant loss of life and damage estimated at $3.2 billion.
 
-![Mauritius-Climate-009c3a.jpg](/uploads/Mauritius-Climate-009c3a.jpg)`DAI is supporting the AFD Adapt’action Facility's work in four Indian Ocean countries, including Mauritius.`
+![Mauritius-Climate-009c3a.jpg](/uploads/Mauritius-Climate-009c3a.jpg)`DAI designed interventions to help modernize national hydrological and meteorological services in four Indian Ocean countries, including Mauritius.`
 
 One of the weak links in the region is the ability of local governments to forecast, detect, and monitor hazards, and to generate and disseminate actionable early warnings that allow decision makers and communities to prepare for and adapt to climate change. 
 
