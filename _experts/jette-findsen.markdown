@@ -11,6 +11,7 @@ solutions:
 - Environment
 - Natural Resource Management
 - Water and Sanitation Services and Management
+- Climate Change Adaptation and Mitigation
 regions:
 - Worldwide
 ---
