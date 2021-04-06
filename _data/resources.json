@@ -901,7 +901,7 @@
       "year": 2020
     },
     {
-      "docTitle": "Tracking Data and Evidence on the Indirect Impact of COVID-19 on Selected Nutrition Outcomes, Interventions and Policy Responses",
+      "docTitle": "Tracking Data and Evidence on the Indirect Impact of COVID-19 on Selected Nutrition Outcomes, Interventions and Policy Responses (February Edition)",
       "docSummary": "The evidence tracker identifies and summarises data and evidence made available since August 2020 relating to the indirect impacts of COVID-19 on nutrition and policy responses. It is a joint product of the three consortium members under TASC: DAI, Nutrition Works, and Development Initiatives (DI), and includes previous work conducted under MQSUN+ from August to November 2020. The thematic focus areas include 1) Nutrition intervention delivery and coverage, 2) The availability and price of nutritious foodstuffs, 3) Dietary diversity and dietary practices – particularly among women and children, 4) Breastfeeding practices, and 5) Nutritional status, all of which consider a gender, equity and social inclusion lens where possible. Section one of the document presents an overarching synthesis of the findings from all the sources reviewed. For each key area, we reflect on what we know about the impact of COVID-19 on nutrition, what we don’t know, and how international and national policies are attempting to address these impacts on nutrition.",
       "organization": "TASC",
       "docType": [
@@ -921,6 +921,29 @@
       ],
       "docFilename": "C19-tracker-core-report-february.pdf",
       "docThumbnail": "C19-tracker-core-report-february_page1.jpeg",
+      "year": 2021
+    },
+    {
+      "docTitle": "Tracking Data and Evidence on the Indirect Impact of COVID-19 on Selected Nutrition Outcomes, Interventions and Policy Responses (March Edition)",
+      "docSummary": "The evidence tracker identifies and summarises data and evidence made available since August 2020 relating to the indirect impacts of COVID-19 on nutrition and policy responses. The thematic focus areas include 1) Nutrition intervention delivery and coverage, 2) The availability and price of nutritious foodstuffs, 3) Dietary diversity and dietary practices – particularly among women and children, 4) Breastfeeding practices, and 5) Nutritional status, all of which consider a gender, equity and social inclusion lens where possible.",
+      "organization": "TASC",
+      "docType": [
+        "Guides"
+      ],
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness"
+      ],
+      "technicalTerms": [
+        "Disease Control Elimination & Eradication",
+        "Community Health Systems and Gender",
+        "Education for Women in Health",
+        "Health Information",
+        "Health Service Delivery",
+        "Leadership and Governance",
+        "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+      ],
+      "docFilename": "C19_Tracker_Core_Report_March.pdf",
+      "docThumbnail": "C19_Tracker_Core_Report_March_page1.jpeg",
       "year": 2021
     }
 ]
