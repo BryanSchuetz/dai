@@ -22,11 +22,9 @@ Since 2000, DAI has worked with FCDO in scores of countries on three continents.
 
 ## European Donors 
 
-DAI was awarded with its first European Union (EU)-funded project in 1995. Technical excellence, innovation, and quality of services delivered from our 100-plus staff now make DAI the [largest single provider](https://www.dai.com/who-we-are/global-reach/european-union) of development services for the European Commission.
+DAI was awarded with its first European Union (EU)-funded project in 1995. Technical excellence, innovation, and quality of services delivered from our 100-plus staff now make DAI the [largest single provider](/who-we-are/global-reach/european-union) of development services for the European Commission.
 <iframe src="/extras/maps/ec" frameborder="0"></iframe>
 
 ## Sustainable Business
 
-DAI's [Sustainable Business Group](http://localhost:8080/our-work/solutions/sustainable-business) works across industries including oil and gas, metals and mining, capital projects and infrastructure, renewable energy, retail, food and beverage, financial services, telecommunications, and more.
-
-<iframe src="https://www.dai.com/extras/maps/newsbg.html" frameborder="0"></iframe>
+DAI's [Sustainable Business Group](/our-work/solutions/sustainable-business) works across industries including oil and gas, metals and mining, capital projects and infrastructure, renewable energy, retail, food and beverage, financial services, telecommunications, and more.
