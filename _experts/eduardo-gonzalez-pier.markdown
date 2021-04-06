@@ -10,6 +10,9 @@ solutions:
 - Global Health
 regions:
 - Latin America and the Caribbean
+articles:
+- name: Empowering Nurses to Strengthen the Mexican Health System
+  article_file: https://dai-global-developments.com/articles/empowering-nurses-to-strengthen-the-mexican-health-system
 ---
 
 Eduardo González-Pier is an economist with more than 20 years of experience in the health and social security sectors. He has contributed to the development of health policy in Mexico, including major reforms, from varied high-level positions at the Ministry of Health and the Mexican Institute of Social Security. His work focuses on providing sound evidence and analysis to inform policymaking and promoting the development of mechanisms and tools to improve health system performance.
