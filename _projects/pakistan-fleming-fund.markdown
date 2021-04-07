@@ -23,6 +23,8 @@ The Fleming Fund is a U.K. Department of Health and Social Care programme to hel
 
 Fleming Fund Pakistan partners include the Liverpool School of Tropical Medicine, Aga Khan University, and Health Security Partners.
 
+<iframe src="https://player.vimeo.com/video/533971183" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
+
 ## Sample Activities
 
 * Use an evidence-to-action approach that builds on existing assessments to enable a nuanced understanding of the antimicrobial resistance and use (AMR/AMU) challenges and opportunities, entry points, and policy constraints.
