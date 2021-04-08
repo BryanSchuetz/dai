@@ -31,6 +31,10 @@ promos:
   link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/Chad%20COVID%20Response%20FINAL%202.pdf
 - title: 'COVID-19: Protecting Lives in Cameroon'
   link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/covid-protecting-lives-in-cameroon.pdf
+- title: Visit the programme website
+  link: 'https://tacklingdeadlydiseasesinafrica.org '
+- title: Visitez le site Web du programme
+  link: https://afriquecontrelesepidemies.org
 ---
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
@@ -53,7 +57,7 @@ Zoonotic diseases, in which pathogens jump from animals to humans, account for 7
 
 ### COVID-19—How TDDA is Responding
 
-In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we are saving lives by providing operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020.
+In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we are saving lives by providing operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020.  Thanks to our ‘feet on the ground’ in our six focus countries, TDDA is uniquely placed to assist with COVID-19 vaccine roll out, including the UN-led COVAX programme. We are discussing with country partners and FCDO how we can assist this initiative, which is increasing access to vaccinations in lower income countries. 
 
 ### Making a Lasting Difference—Locally, Regionally, and Globally
 
