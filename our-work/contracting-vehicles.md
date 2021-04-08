@@ -15,7 +15,7 @@ layout: node
 
 ### Economic Growth
 
-* Jordan Economic Reform Activity (ERA) Indefinite Delivery Indefinite Quantity (2021-2026)
+* Jordan Economic Reform Activity (ERA) (2021-2026)
 * Regional Integration and Stronger Economies (RISE) (2020-2027)
 
 ### Governance
