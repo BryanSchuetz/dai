@@ -40,7 +40,7 @@ layout: node
 # U.K. Foreign, Commonwealth & Development Office (FCDO)
 
 * [Conflict Stability and Security Fund Framework  (CSSF) (2018-2020)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
-* Prosperity Fund Framework (2017-2019)
+* Prosperity Fund Framework (2017-2021)
 * General Economic Development Framework (GEDF) (2019–2021)
 
 International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–2021):
@@ -63,7 +63,7 @@ International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–20
 ### EC Framework Contract SIEA (Services for Implementation of External Aid)
  
 * Lot 1: Sustainable Management of Natural Resources and Resilience
-* Lot 2: Infrastructure, Sustainable Growth and Jobs
+* Lot 2: Infrastructure, Sustainable Growth, and Jobs
 * Lot 3: Human Rights, Democracy and Peace
 * Lot 4: Human Development and Safety Net
 * Lot 5: Budget Support
