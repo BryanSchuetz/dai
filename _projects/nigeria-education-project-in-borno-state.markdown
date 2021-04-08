@@ -5,7 +5,7 @@ summary: 'The Education Project in Borno State supported the state government’
   in the wake of insurgency and provided targeted relief to vulnerable and displaced
   populations. '
 start: 2019
-end: 2020
+end: 2021
 client: 'Shell Nigeria Exploration and Production Company Limited '
 solutions:
 - Education
@@ -26,5 +26,7 @@ It was anticipated that the active participation of local communities and govern
 ### Select Results
 
 * Completed baseline assessment of four schools in Kaga and Konduga. 
-* Trained teachers.
 * Rebuilt damaged school infrastructure. 
+* Built 14 classroom blocks.
+* Improved teacher effectiveness through training.
+* Supplied instruction and learning materials.

@@ -1,7 +1,7 @@
 ---
 title: Afghanistan—Strong Hubs for Afghan Hope and Resilience (SHAHAR)
 date: 2016-01-21 22:40:00 Z
-summary: SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities
+summary: SHAHAR helped create well-governed, fiscally sustainable Afghan municipalities
   capable of meeting the needs of growing urban populations.
 start: 2014
 end: 2021
@@ -27,7 +27,7 @@ promos:
 layout: project
 ---
 
-SHAHAR is helping create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, will aim to improve municipal financial management, [urban service delivery](https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey), and citizen consultation.
+SHAHAR helped create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, improved municipal financial management, [urban service delivery](https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey), and citizen consultation.
 
 <iframe src="https://player.vimeo.com/video/370977918" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
