@@ -218,7 +218,8 @@ hero-package: dai-people
         </div>
 
     </div>
-</section><section class="people" id="corporate">
+</section>
+<section class="people" id="corporate">
     <div class="container">
 
         <div class="row">
@@ -286,7 +287,8 @@ hero-package: dai-people
         </div>
 
     </div>
-</section><section class="team">
+</section>
+<!-- <section class="team">
     <div class="container">
         <div class="row">
             <div class="col-md-8">
@@ -528,4 +530,4 @@ hero-package: dai-people
       </div>
     </div>
   </div>
-</section>
+</section> -->
