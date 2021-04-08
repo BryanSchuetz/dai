@@ -15,11 +15,11 @@ layout: node
 
 ### Economic Growth
 
+* Jordan Economic Reform Activity (ERA) Indefinite Delivery Indefinite Quantity (2021-2026)
 * Regional Integration and Stronger Economies (RISE) (2020-2027)
 
 ### Governance
 
-* Programming Effectively Against Conflict and Extremism (PEACE) (2013-2020)
 * Rule of Law Technical Assistance Services (ROL) (2013–2023)
 * Public Financial Management II (PFM II) (2018–2025)
 
