@@ -27,7 +27,7 @@ promos:
 layout: project
 ---
 
-SHAHAR helped create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, improved municipal financial management, [urban service delivery](https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey), and citizen consultation.
+Our Strong Hubs for Afghan Hope and Resilience (SHAHAR) project worked to create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, improved municipal financial management, [urban service delivery](https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey), and citizen consultation. SHAHAR increased the capacity of the DMM to support and monitor the performance of municipalities. SHAHAR helped to develop and implement key supporting laws and regulations. To broaden and sustain its impact and to improve knowledge-sharing, SHAHAR developed support and learning networks among organizations and individuals that play key roles in governance and municipal service delivery.
 
 <iframe src="https://player.vimeo.com/video/370977918" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -35,12 +35,12 @@ SHAHAR helped create well-governed, fiscally sustainable Afghan municipalities c
 
 * Assist the DMM in organizing national, regional, and district municipal conferences for sharing best practices and lessons learned.
 * Provide technical assistance to each municipality to increase revenue and manage expenses so that they can maintain a healthy, balanced budget. 
-* Prepare and implement capacity building plans for municipal officials.
+* Prepare and implement capacity-building plans for municipal officials.
 
 ### Select Results
 
 * Municipalities successfully bid out and completed 39 projects worth more than $2 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
-* Employed nearly 450 interns in the municipalities, in DMM and in the SHAHAR offices to train the next cadre of municipal officials and provide necessary employment opportunities for recent graduates.
+* Employed nearly 450 interns in the municipalities, in DMM, and in the SHAHAR offices to train the next cadre of municipal officials and provide necessary employment opportunities for recent graduates.
 * Established Municipal Advisory Boards of citizens in 20 partner municipalities, all of which also developed and are implementing economic development plans and solid waste management plans.
 * Implemented 67 public-private partnerships, outsourcing government services to private businesses, and generating an estimated $1.4 million in additional municipal revenue.
 * Established 14 Citizen Service Centers, aimed at improving the two-way communication between citizens and municipal officials, which registered 11,000 inquiries from citizens.
