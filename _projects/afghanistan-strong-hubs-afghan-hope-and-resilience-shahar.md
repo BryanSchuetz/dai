@@ -42,6 +42,7 @@ Our Strong Hubs for Afghan Hope and Resilience (SHAHAR) project worked to create
 * Municipalities successfully bid out and completed 39 projects worth more than $2 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
 * Trained 7.960 municipal staff in core areas.
 * Employed 666 interns in the municipalities, in DMM, and in the SHAHAR offices to train the next cadre of municipal officials and provide necessary employment opportunities for recent graduates.
+* Helped municipalities generate more tax revenue. Municipalities with less-vibrant local economies and asset bases showed the highest revenue gains at 82 percent, on average. Tax revenue increases in Puli Alam in the North Region and Feroz Koh in the West, for example, showed total increases of more than 259 percent—a more than tripling of tax revenues and a substantial increase for both recurrent and development spending.
 * Established Municipal Advisory Boards of citizens in 20 partner municipalities, all of which also developed and are implementing economic development plans and solid waste management plans.
 * Implemented 141 public-private partnerships, outsourcing government services to private businesses.
 * Established 14 Citizen Service Centers, aimed at improving the two-way communication between citizens and municipal officials, which registered 329,677 inquiries from citizens.
