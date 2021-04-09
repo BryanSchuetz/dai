@@ -40,10 +40,11 @@ Our Strong Hubs for Afghan Hope and Resilience (SHAHAR) project worked to create
 ### Select Results
 
 * Municipalities successfully bid out and completed 39 projects worth more than $2 million; projects included building bus terminals, renovating parks and sports fields, and improving drainage.
-* Employed nearly 450 interns in the municipalities, in DMM, and in the SHAHAR offices to train the next cadre of municipal officials and provide necessary employment opportunities for recent graduates.
+* Trained 7.960 municipal staff in core areas.
+* Employed 666 interns in the municipalities, in DMM, and in the SHAHAR offices to train the next cadre of municipal officials and provide necessary employment opportunities for recent graduates.
 * Established Municipal Advisory Boards of citizens in 20 partner municipalities, all of which also developed and are implementing economic development plans and solid waste management plans.
-* Implemented 67 public-private partnerships, outsourcing government services to private businesses, and generating an estimated $1.4 million in additional municipal revenue.
-* Established 14 Citizen Service Centers, aimed at improving the two-way communication between citizens and municipal officials, which registered 11,000 inquiries from citizens.
+* Implemented 141 public-private partnerships, outsourcing government services to private businesses.
+* Established 14 Citizen Service Centers, aimed at improving the two-way communication between citizens and municipal officials, which registered 329,677 inquiries from citizens.
 * Increased the [revenue](http://dai-global-developments.com/articles/afghan-municipalities-raise-more-revenues-deliver-better-services-enhance-stability) in SHAHAR municipalities by 40 percent, with fixed revenue (consistent revenue based on long-term).
 * Held two Annual National Mayors’ Conferences, resulting in the establishment of the National Municipalities Network and the commitment on the part of the Afghan government and all 33 provincial mayors to move forward with the establishment of the Afghanistan Municipal Union. The Afghanistan Municipal Union will serve as a platform for Afghan mayors to advocate for resources and will provide opportunities for mayors to exchange ideas and share best practices.
 * Established the Integrated Financial Management System in 20 partner municipalities, automating many of the functions related to business licensing, land parcel registration and *safayi* (municipal service charges) billing and collection.
