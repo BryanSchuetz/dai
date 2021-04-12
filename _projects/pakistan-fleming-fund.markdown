@@ -21,7 +21,7 @@ promos:
 
 The Fleming Fund is a U.K. Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s [Fleming Fund programme](https://www.flemingfund.org/) in Pakistan is a collaboration with the Pakistani government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team will help incorporate One Health across programme interventions. DAI will help Pakistan become a leader in combating antimicrobial resistance, and a model for better management of antimicrobials in human and animal populations.
 
-Fleming Fund Pakistan partners include the Liverpool School of Tropical Medicine, Aga Khan University, and Health Security Partners.
+Fleming Fund Pakistan partners include the Aga Khan University, Health Security Partners, Indus Hospital Network, and Liverpool School of Tropical Medicine.
 
 <iframe src="https://player.vimeo.com/video/533971183" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
