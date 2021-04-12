@@ -1628,17 +1628,17 @@ iframe.last-month {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  height: 3672px;
+  height: 3632px;
   width: 400px;
 
   @include responsive(wide-screens) {
     width: 700px;
-    height: 5962px;
+    height: 5922px;
   }
 
   @include responsive(ultra-wide-screens) {
     width: 800px;
-    height: 6934px;
+    height: 6884px;
   }
 }
 .aside-quote {
