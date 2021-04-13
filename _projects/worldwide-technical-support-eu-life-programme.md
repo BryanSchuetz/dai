@@ -6,12 +6,13 @@ summary: As part of the Astrale group of nine European partners, we supported th
   whole LIFE III and LIFE + Programmes since 2005, in our role as the External Assistance
   Team.
 start: 2009
-end: 2014
+end: 2021
 client: European Union
 solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Environment
+- Climate Change Adaptation and Mitigation
 regions:
 - Worldwide
 country:
@@ -19,7 +20,7 @@ country:
 layout: project
 ---
 
-LIFE, the Financial Instrument for the Environment, is one of the spearheads of the European Union's environmental policy. [LIFE projects][1] cover a wide scope – LIFE Environment projects address issues relating to the EU's [6th Environmental Action Plan][2] whilst LIFE Nature projects support the [Natura 2000 network][3]. The LIFE programme funds projects across all 28 member states. As part of the Astrale group of nine European partners, we supported the LIFE III Environment Programme from 2001 to 2005 and we have been supporting the whole LIFE III and LIFE + Programmes since 2005, in our role as the External Assistance Team.
+LIFE, the Financial Instrument for the Environment, is one of the spearheads of the European Union's environmental policy. [LIFE projects][1] cover a wide scope—LIFE Environment projects address issues relating to the EU's [6th Environmental Action Plan][2] whilst LIFE Nature projects support the [Natura 2000 network][3]. The LIFE programme funds projects across all 28 member states. As part of the Astrale group of nine European partners, we supported the LIFE III Environment Programme from 2001 to 2005 and we have been supporting the whole LIFE III and LIFE + Programmes since 2005, in our role as the External Assistance Team.
 
 One of the duties of the External Assistance Team is to assist LIFE beneficiaries in carrying out their projects and keeping them compliant with European Commission rules. The External Assistance Team also assists with the ongoing assessment and monitoring of projects and communication activities under each strand of the programme. We have responsibility for 41 projects in the United Kingdom and Ireland, as well as for certain cross-sectoral and thematic issues.
 
