@@ -21,7 +21,7 @@ articles:
 layout: expert
 ---
 
-Juan Estrada-Valle is an international expert in agriculture, trade and investment, and on the promotion of development in conflict affected environments. He is currently the Chief of Party of the [Afghanistan Value Chains-High Value Crops](https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops-avc-high-value-crops) project, supporting the growth of the agriculture sector through a highly focused approach, using anchor firms as entry points into the agricultural value chains.
+Juan Estrada-Valle is an international expert in agriculture, trade and investment, and on the promotion of development in conflict-affected environments. He is currently the Chief of Party of the [Afghanistan Value Chains-High Value Crops](https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops) project, supporting the growth of the agriculture sector through a highly focused approach, using anchor firms as entry points into the agricultural value chains.
 
 Before his current assignment, Juan was the Chief of Party of the [East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih), a multi-country, multi-sector initiative to promote trade, investment, food security, and policy change in eight East African countries.
 
