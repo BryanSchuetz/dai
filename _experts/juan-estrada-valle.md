@@ -14,6 +14,10 @@ solutions:
 regions:
 - Asia and the Pacific
 - Sub-Saharan Africa
+articles:
+- name: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan Trade
+    in the COVID-19 Era'
+  article_file: https://dai-global-developments.com/articles/when-business-as-usual-is-not-good-for-business-afghanistan-pakistan-trade-in-the-covid-19-era
 layout: expert
 ---
 

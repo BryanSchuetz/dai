@@ -17,11 +17,14 @@ promos:
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
     of COVID-19
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
+- title: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan
+    Trade in the COVID-19 Era'
+  link: https://dai-global-developments.com/articles/when-business-as-usual-is-not-good-for-business-afghanistan-pakistan-trade-in-the-covid-19-era
 ---
 
-The Afghanistan Value Chains–High Value Crops project promotes rapid, inclusive, and lasting growth in the agriculture sector. This approach combines market systems development, which seeks to address market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners. This combined approach promotes behavior change, drives innovation, and accelerates economic growth in a way that ensures lasting and large-scale transformational market system change.
+The Afghanistan Value Chains–High Value Crops (AVC-HVC) project promotes rapid, inclusive, and lasting growth in the agriculture sector. This approach combines market systems development, which seeks to address market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners. This combined approach promotes behavior change, drives innovation, and accelerates economic growth in a way that ensures lasting and large-scale transformational market system change.
  
-During its first year, the project initiated the process of transforming Afghanistan’s agriculture sector, moving away from supply side activities to demand side and transformational interventions based on organizational and institutional arrangements to enable market actors to perceive and react to market incentives, upgrade their operations, and drive systemic growth. 
+During its first year, the project initiated the process of transforming Afghanistan’s agriculture sector, moving away from supply-side activities to demand-side and transformational interventions based on organizational and institutional arrangements to enable market actors to perceive and react to market incentives, upgrade their operations, and drive systemic growth. 
 
 ![FOX46770.jpg](/uploads/FOX46770.jpg)
 
@@ -29,7 +32,7 @@ During its first year, the project initiated the process of transforming Afghani
 
 * Support anchor firms to co-create upgrading strategies, so that they can exert a pull factor that would result in the systemic growth of the value chains.
 * Enable anchor firms to penetrate new markets by facilitating their participation in international trade events.
-* Provide technical services, including food safety training and certifications, packaging design and optimization of agro-processing lines.
+* Provide technical services, including food safety training and certifications, packaging design, and optimization of agro-processing lines.
 * Facilitate access to finance, both debt and equity, establishing partnerships to reduce the cost and time of transport.
 * Promote the delivery of private sector agricultural extension services.
 
