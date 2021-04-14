@@ -19,5 +19,5 @@ Prior to joining ACM in 2008, Patrick was a senior investment professional at Fr
 
 Patrick has been a board member of various portfolio companies operating in the emerging markets, including Helios Towers Africa, Termobarraquilla, S.A., Avantel S.A., and APR Energy. He started his career as an investment banker with Chase Securities Inc. in New York, covering Latin America.
 
-* B.A., economics, Wesleyan University
 * M.B.A., Columbia University
+* B.A., economics, Wesleyan University
