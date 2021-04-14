@@ -20,4 +20,4 @@ Prior to joining ACM in 2008, he was a senior investment professional at Frankli
 Patrick has been a board member of multiple portfolio companies operating in the emerging markets, including Helios Towers Africa, Termobarraquilla, Avantel, and APR Energy, among others. Patrick started his career as an investment banker with Chase Securities in New York covering Latin America.
 
 * B.A., economics, Wesleyan University
-* Masters, business administration, Columbia University
+* M.B.A., Columbia University
