@@ -11,6 +11,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment
 - Energy
+- Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Nepal
 ---
