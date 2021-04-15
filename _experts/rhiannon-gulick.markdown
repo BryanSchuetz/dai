@@ -9,6 +9,9 @@ job-title: Senior Global Practice Specialist, Environment
 image: "/uploads/Rhi%20G.jpg"
 solutions:
 - Environment
+- Climate Change Adaptation and Mitigation
+regions:
+- Worldwide
 ---
 
 As part of DAI’s Environment team, Rhiannon "Rhi" Gulick melds technical expertise in natural resource management, energy and climate change with practical experience in business development, facilitation, and technical writing. Rhi joined DAI in 2003, and in that time has worked across the company on business development, strategy, training, and technical support. 
