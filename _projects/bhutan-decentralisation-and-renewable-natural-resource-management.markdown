@@ -11,6 +11,7 @@ client: European Union
 solutions:
 - Energy
 - Environment
+- Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Bhutan
 ---
