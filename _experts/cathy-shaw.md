@@ -10,6 +10,7 @@ image: https://assetify-dai.com/experts/CathyShawInner.jpg
 solutions:
 - Environment
 - Fragile States
+- Climate Change Adaptation and Mitigation
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
