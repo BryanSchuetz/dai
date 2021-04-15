@@ -10,7 +10,9 @@ image: "/uploads/Waugh%20passport%20photo.jpg"
 solutions:
 - Environment
 - Natural Resource Management
-- 
+- Climate Change Adaptation and Mitigation
+regions:
+- Worldwide
 articles:
 - name: Rebuilding Global Nature-based Tourism will Protect Fragile Environments and
     Economies
