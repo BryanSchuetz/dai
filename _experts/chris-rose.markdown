@@ -9,6 +9,9 @@ image: "/uploads/ChrisRose-Inner.jpg"
 solutions:
 - Environment
 - Energy
+- Climate Change Adaptation and Mitigation
+regions:
+- Worldwide
 ---
 
 Chris Rose is a Senior Development Specialist with our Europe office’s Energy, Environment, and Climate Change practice. He has experience providing technical expertise on programmes funded by the Foreign, Commonwealth & Development Office (FCDO) and the European Commission, and supports business development and programme management across all donors in the fields of climate change, environment, and renewable energy.
