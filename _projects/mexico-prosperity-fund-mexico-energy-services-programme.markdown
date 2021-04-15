@@ -13,6 +13,7 @@ solutions:
 - Sustainable Business
 - Environment
 - Energy
+- Climate Change Adaptation and Mitigation
 regions: Latin America and the Caribbean
 country: Mexico
 ---
