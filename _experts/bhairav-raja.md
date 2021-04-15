@@ -11,6 +11,7 @@ solutions:
 - Finance and Investment
 - Market Systems and Value Chain
 - Sustainable Business
+- Climate Change Adaptation and Mitigation
 regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean
