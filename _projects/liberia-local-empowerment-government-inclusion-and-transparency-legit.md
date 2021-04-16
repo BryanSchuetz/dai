@@ -2,7 +2,7 @@
 title: Liberia—Local Empowerment for Government Inclusion and Transparency (LEGIT)
 date: 2016-01-21 22:40:00 Z
 summary: 'The Local Empowerment for Government Inclusion and Transparency program
-  is helping solidify decentralization reforms by facilitating the transfer of authority
+  helped solidify decentralization reforms by facilitating the transfer of authority
   from the national government to counties and cities, enhancing citizen participation
   in governance, and building capacity for government officials. '
 start: 2016
@@ -24,7 +24,7 @@ promos:
 layout: project
 ---
 
-The Government of Liberia has committed to moving forward with decentralization in the near-term, setting the stage for full devolution in the long-term. Greater decentralization will promote the country's continued development and allow the Liberian people to be "active partners in the [delivery of services](https://urban-links.org/paving-the-way-for-efficient-service-delivery/) and in the governance of their communities and counties." The Local Empowerment for Government Inclusion and Transparency (LEGIT) program, funded by the U.S. Agency for International Development (USAID), is helping solidify this process by facilitating the transfer of authority from the national government to counties and cities, enhancing citizen participation in governance, and building capacity for government officials. LEGIT activities complement the USAID [Liberia Accountability and Voice Initiative][1] (LAVI), further enhancing citizen engagement and government accountability throughout the country.
+The Government of Liberia has committed to moving forward with decentralization in the near-term, setting the stage for full devolution in the long-term. Greater decentralization will promote the country's continued development and allow the Liberian people to be "active partners in the [delivery of services](https://urban-links.org/paving-the-way-for-efficient-service-delivery/) and in the governance of their communities and counties." The Local Empowerment for Government Inclusion and Transparency (LEGIT) program, funded by the U.S. Agency for International Development (USAID), helped solidify this process by facilitating the transfer of authority from the national government to counties and cities, enhancing citizen participation in governance, and building capacity for government officials. LEGIT activities complemented the USAID [Liberia Accountability and Voice Initiative][1] (LAVI), further enhancing citizen engagement and government accountability throughout the country.
 
 <iframe src="https://player.vimeo.com/video/537816402" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
