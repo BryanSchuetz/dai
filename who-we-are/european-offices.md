@@ -39,4 +39,3 @@ layout: node
 | Hertfordshire, HP3 9TD | | |
 | Tel: +44 (0)1442 202400 | | |
 {:.locations-table}
-
