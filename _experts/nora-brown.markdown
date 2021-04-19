@@ -9,11 +9,11 @@ summary: 'An innovation and investment specialist, Nora Brown is an expert in de
 job-title: Senior Investment Advisor, INVEST
 image: "/uploads/Nora%20Brown%202019-766c5d.jpg"
 solutions:
-- Environment
-- Energy
+- Economic Growth
 - Finance and Investment
+- 
 regions:
-- Asia and the Pacific
+- Worldwide
 ---
 
 An innovation and investment specialist, Nora Brown is an expert in designing and managing development innovation and private capital mobilization projects for a variety of clients, notably the U.S. Agency for International Development (USAID) and the International Finance Corporation (IFC). Nora began her development career designing and managing multi-partner programs in business and entrepreneurship, focused on connecting the supply and demand of high-quality, local management talent. First as a consultant at the IFC, Nora continued as the Chief Operating Officer of the Global Business School Network, a nongovernmental organization she helped found in 2007 as a spinoff from the IFC.
