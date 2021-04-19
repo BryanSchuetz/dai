@@ -7,9 +7,9 @@ summary: 'Polly Gillingam joined DAI in 2000 and has 25 years of experience in t
 job-title: Director of New Business
 image: https://assetify-dai.com/experts/PollyGillinghamINNER.jpg
 solutions:
-- Environment
-- Sustainable Livelihoods
-- Natural Resource Management
+- Include Primary and/or Secondary Solutions
+- 
+- 
 layout: expert
 ---
 
