@@ -19,6 +19,8 @@ promos:
   link: http://dai-global-developments.com/articles/in-somalia-ensuring-social-protection-during-covid19-pandemic-and-food-security-crisis
 - title: 'REPORT: The Financial Flows of Social Transfers Programmes in Somalia'
   link: "/uploads/DAI_financial_flows_STPs_s_12_2_21.pdf"
+- title: 'REPORT: A Transformational Approach to Social Assistance in Somalia'
+  link: "/uploads/DAI_transformational_approach_to_SA_s_12_2_21.pdf"
 ---
 
 Somalia shows signs of slow recovery from 25 years of state collapse, civil war, and political unrest. The country remains highly exposed to poverty, vulnerability, and food insecurity, however. Humanitarian crises have been particularly severe in 2008, 2011, and 2017, with a major famine taking place in 2011, another narrowly averted in 2017. Following the 2017 droughts, 3 million people received direct humanitarian assistance for their survival and international donors began to review their approaches in a new perspective, aiming to transition from humanitarian aid to long-term development approaches.
