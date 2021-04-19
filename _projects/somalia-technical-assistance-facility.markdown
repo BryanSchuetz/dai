@@ -44,3 +44,11 @@ The Technical Assistance Facility supported the Donor Working Group and facilita
 * Assess pilot projects and other donor-funded initiatives.
 * Identify fiscal space for identified options of social transfer models.
 * Develop a shared learning agenda, including data requirements and knowledge gaps.
+
+### Select Results
+
+* Advised the Donor Working Group on social protection and facilitated policy coordination.
+* Analysed financial flows targeting social protection programmes in Somalia, and recommended improvements.
+* Mapped capacities and needs in key Somali agencies.
+* Proposed a comprehensive approach to building a nationally owned social protection system in the short to long term.
+* Contributed to ongoing discussions on the operationalisation of the humanitarian-development-peace nexus.
