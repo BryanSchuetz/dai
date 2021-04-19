@@ -30,11 +30,11 @@ The Government of Liberia has committed to moving forward with decentralization 
 
 ### Sample Activities
 
-* Work in at least three counties and three cities across the country to support the capacity building of local government staff.
+* Work in three counties and at least three cities across the country to support the capacity building of local governments.
 * Develop policies and guidelines to improve performance and accountability for local government processes.
 * [Facilitate engagement](https://urban-links.org/progress-mapping-maps-improving-government-accountability-liberias-cities/) between the Government of Liberia and its citizens.
 * Work with local governments to expand public-private partnerships for basic services.
-* Partner with mayors to examine service fee collection as a potential revenue source.
+* Support local governments in revising city ordinances.
 * Administer grants, training, and assistance to build government capacity and [promote civic engagement](https://www.usaid.gov/results-data/success-stories/mapping-gompa-city-changes-landscape-residents).
 
 ### Select Results
