@@ -39,8 +39,8 @@ The Government of Liberia has committed to moving forward with decentralization 
 
 ### Select Results
 
-* Provided 38 grants to 30 civil society organizations, three city corporations, three counties, and two national government counterparts. One grant is supporting the establishment of a governance resource center to serve as a virtual and practical information repository for research, policy instruments, and publications on decentralization.
-* Helped implement the Local Governance Act.
+* Provided 56 grants to civil society organizations, city corporations, counties, and national government counterparts. One grant specifically supported the establishment of a governance resource center to serve as a virtual and practical information repository for research, policies, and publications on decentralization.
+* Helped develop the implementation plan for the Local Governance Act.
 * Implemented 42 local government administration and financial management standard operating procedures for counties and cities.
 * Developed city atlases that are being used by partner cities in solid waste management planning and to resolve boundary disputes, yielding additional conflict-prevention impact.
 
