@@ -23,4 +23,4 @@ Nilu previously worked on various short-term assignments with the United Nations
 Her core areas of expertise include project operations and management, management information systems, governance, and water resources management. She has developed and maintained close partnerships with project stakeholders, nongovernmental groups, government agencies, civil society counterparts, private sector, academic institutions, USAID, and other donors. Throughout her career, she has incorporated capacity building, knowledge generation and dissemination, social inclusion, and gender into development programs. 
 
 * B.A., biological resources engineering, University of Maryland
-* M.A., management information systems, University of Maryland, 
+* M.A., management information systems, University of Maryland 
