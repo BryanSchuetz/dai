@@ -3,7 +3,6 @@ title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
 summary: 'The Local Content Masterclass brings together participants from the private and public sector, helping them balance the commercial realities of volatile global demand and sustained cost pressures with the current political momentum for increased local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills.'
 layout: default
-published: false
 ---
 # DAI's Industry Leading Local Content Masterclass
 
