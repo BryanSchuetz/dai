@@ -43,7 +43,7 @@ View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue202
 
 > “The Master Class has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
-<div class="form-wrapper">
+<!-- <div class="form-wrapper">
 <div class="lead-generator">
 <h3>Learn About Dates, Locations, and Pricing</h3>
 <form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
@@ -88,7 +88,7 @@ var campaign = queryValues.campaign;
 
 </script>
 </div>
-</div>
+</div> -->
 
 Since 2015, the topic of local content has taken center stage, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
 
