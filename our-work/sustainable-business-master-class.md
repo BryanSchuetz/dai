@@ -185,7 +185,7 @@ contract tendering, and evaluation techniques
                 </div>
               </div>
               <div class="content">
-                <p>Dorival has more than 10 years’ experience in oil and gas investment, focusing on local content policy and implementation, and leads activities related to local content, corporate social investment, and supplier development.</p>
+                <p>Dorival has more than 10 years’ experience in oil and gas investment, focusing on local content implementation, and leads activities related to local content, corporate social investment, and supplier development.</p>
               </div>
             </div>
           </div>
