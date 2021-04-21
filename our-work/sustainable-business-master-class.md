@@ -107,7 +107,7 @@ contract tendering, and evaluation techniques
         </h2>
       </div>
       <div class="text">
-        <p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis processes and standards, and “telling the story.</p>
+        <p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis processes and standards, and “telling the story".</p>
       </div>
   </div>
   <div class="carousel-cell">
@@ -132,7 +132,7 @@ contract tendering, and evaluation techniques
 ## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and trained more than 500 practitioners worldwide.
 
 <blockquote>
-  <p>"Certainly the prime Local Content course in the market. Highly recommended" <br>—<em>Local Content Manager, International Oil Field Services Company</em></p>
+  <p>"Certainly the prime Local Content course in the market. Highly recommended".<br>—<em>Local Content Manager, International Oil Field Services Company</em></p>
 </blockquote>
 
 <blockquote>
@@ -163,7 +163,7 @@ contract tendering, and evaluation techniques
                 </div>
               </div>
               <div class="content">
-                <p>Zachary has more than 10 years’ experience within the extractives industry, focusing on extensive local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
+                <p>Zachary has more than 10 years’ experience within the extractives industry, focusing on local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
               </div>
             </div>
           </div>
