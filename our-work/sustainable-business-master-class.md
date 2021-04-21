@@ -7,15 +7,14 @@ summary: The Local Content Masterclass brings together participants from the pri
   local content. DAI draws on more than 2,000 long-term projects and development assignments
   completed across 150 countries to advance participants’ skills.
 layout: default
+hero: true
 ---
 
-# DAI's Industry Leading Local Content Masterclass
-
-The Local Content Masterclass brings together participants from the private and public sector, helping them balance the commercial realities of volatile global demand and sustained cost pressures with the current political momentum for increased local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills.
+![](/uploads/masterclass-advert.jpg)
 
 <div class="form-wrapper">
   <div class="lead-generator">
-    <h3>Interested in participating? — contact us today.</h3>
+    <h3>Interested in participating?</h3>
     <form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
       <div class="form-controls--wrap">
         <input type="hidden" name="utf8" value="✓">
@@ -25,7 +24,7 @@ The Local Content Masterclass brings together participants from the private and 
         {% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
         {% comment %} <label for="email-address">Email Address</label> {% endcomment %}
         <input type="email" id="email-address" name="email" placeholder="Email Address">
-        <button type="submit">Submit</button>
+        <button type="submit">Submit Your Email</button>
       </div>
     </form>
     <p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
@@ -70,7 +69,6 @@ contract tendering, and evaluation techniques
 
 <div class="covid-carousel">
   <div class="carousel-cell">
-    <a href="/our-work/projects/worldwide-stamping-out-pandemic-and-avian-influenza-stop-ai">
       <div class="year">
         <h3>Module 1</h3>
       </div>
@@ -83,10 +81,8 @@ contract tendering, and evaluation techniques
       <div class="text">
         <p>Examines the various local content laws, regulations, and policies around the world and assesses their effectiveness.</p>
       </div>
-    </a>
   </div>
   <div class="carousel-cell">
-    <a href="/our-work/projects/worldwide-respond">
       <div class="year">
         <h3>Module 2</h3>
       </div>
@@ -99,10 +95,8 @@ contract tendering, and evaluation techniques
       <div class="text">
         <p>Prepares participants to forecast local content scenarios linked to the procurement of goods and services and the employment of workforces for large projects.</p>
       </div>
-    </a>
   </div>
   <div class="carousel-cell">
-    <a href="/our-work/projects/indonesia-strategies-against-flu-emergence-safe">
       <div class="year">
         <h3>Module 3</h3>
       </div>
@@ -115,13 +109,11 @@ contract tendering, and evaluation techniques
       <div class="text">
         <p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis processes and standards, and “telling the story.</p>
       </div>
-    </a>
   </div>
   <div class="carousel-cell">
     <div class="year">
       <h3>Module 4</h3>
     </div>
-    <a href="/our-work/projects/worldwide-preparedness-and-response-pr">
       <div class="image"><img src="/uploads/master-class-module-4.jpg" alt=""></div>
       <div class="title">
         <h2>Investments: Supplier and Workforce Development
@@ -132,7 +124,6 @@ contract tendering, and evaluation techniques
         <p>Teaches the use of data and analytics to structure capacity building and local content programs that are commercially
         effective and economically beneficial.</p>
       </div>
-    </a>
   </div>
 </div>
 
@@ -141,38 +132,72 @@ contract tendering, and evaluation techniques
 ## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and trained more than 500 practitioners worldwide.
 
 <blockquote>
-  <p>"Certainly the prime Local Content course in the market. Highly recommended" —<em>Local Content Manager, International Oil Field Services Company</em></p>
+  <p>"Certainly the prime Local Content course in the market. Highly recommended" <br>—<em>Local Content Manager, International Oil Field Services Company</em></p>
 </blockquote>
 
 <blockquote>
-  <p>“The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights.” —<em>Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board</em></p>
+  <p>“The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights.” <br>—<em>Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board</em></p>
 </blockquote>
 
 <blockquote>
-  <p>"Very dynamic and interactive. Well balanced between theory and real-life examples.” —<em>Local Content and Technology Manager, Shell Brazil Petroleo Ltd</em></p>
+  <p>"Very dynamic and interactive. Well balanced between theory and real-life examples.” <br>—<em>Local Content and Technology Manager, Shell Brazil Petroleo Ltd</em></p>
 </blockquote>
 
 ## The course is led by experts working at the forefront of international development and local content policy.
-
-**[Zachary Kaplan](/who-we-are/our-team/zachary-kaplan)—Vice President, Sustainable Business Group** 
-
-![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-left}
-
-[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan) has more than 10 years’ experience within the extractives industry, focusing on extensive local content and policy, and leads activities related to local content, corporate social investment, and supplier development.
-
-<span style="clear: both; margin-bottom: 1rem; display: block;"></span>
-
-**[Dorival Bettencourt](/who-we-are/our-team/dorival-bettencourt)—Director, Sustainable Business Group**
-
-![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-left}
-
-[Dorival Bettencourt](https://www.dai.com/who-we-are/our-team/dorival-bettencourt) has more than 10 years’ experience in oil and gas investment, focusing on local content policy and implementation, and leads activities related to local content, corporate social investment, and supplier development for oil and gas clients around the world.
-
-<span style="clear: both; margin-bottom: 1rem; display: block;"></span>
+<div class="bulma">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        <a class="bulma-card" href="/who-we-are/our-team/zachary-kaplan">
+           <div class="card is-child">
+            <div class="card-image" style="padding: 1rem;">
+              <figure class="image is-128x128">
+                <img class="is-rounded" src="/uploads/Zach%20Photo.jpg" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="card-content">
+              <div class="media">
+                <div class="media-content">
+                  <p class="title is-4">Zachary Kaplan</p>
+                  <p class="subtitle is-6">Vice President, Sustainable Business Group</p>
+                </div>
+              </div>
+              <div class="content">
+                <p>Zachary has more than 10 years’ experience within the extractives industry, focusing on extensive local content and policy, and leads activities related to local content, corporate social investment, and supplier development.</p>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="column">
+        <a class="bulma-card" href="/who-we-are/our-team/dorival-bettencourt">
+           <div class="card is-child">
+            <div class="card-image" style="padding: 1rem;">
+              <figure class="image is-128x128">
+                <img class="is-rounded" src="/uploads/Dorival_Bettencourt_photo.jpg" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="card-content">
+              <div class="media">
+                <div class="media-content">
+                  <p class="title is-4">Dorival Bettencourt</p>
+                  <p class="subtitle is-6">Director, Sustainable Business Group</p>
+                </div>
+              </div>
+              <div class="content">
+                <p>Dorival has more than 10 years’ experience in oil and gas investment, focusing on local content policy and implementation, and leads activities related to local content, corporate social investment, and supplier development.</p>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div> 
+  </div>
+</div>
 
 <div class="form-wrapper">
   <div class="lead-generator">
-    <h3>Interested in participating? — contact us today.</h3>
+    <h3>Interested in participating?</h3>
     <form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
       <div class="form-controls--wrap">
         <input type="hidden" name="utf8" value="✓">
@@ -182,7 +207,7 @@ contract tendering, and evaluation techniques
         {% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
         {% comment %} <label for="email-address">Email Address</label> {% endcomment %}
         <input type="email" id="email-address" name="email" placeholder="Email Address">
-        <button type="submit">Submit</button>
+        <button type="submit">Submit Your Email</button>
       </div>
     </form>
     <p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
