@@ -312,3 +312,6 @@ h2.solution-title svg{
   content: '\00a0\00a0/\00a0\00a0 ';
   color: $nav_links;
 }
+.footer-bottom-link:last-child::after {
+    content: "";
+}
