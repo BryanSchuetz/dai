@@ -9,11 +9,14 @@ summary: A project designed with DAI’s assistance to mitigate the impact of cl
   change in four vulnerable Indian Ocean countries has won the support of the Green
   Climate Fund) (GCF), the largest global fund dedicated to addressing climate change.
 social-image: "/uploads/Mauritius-Climate-009c3a.jpg"
+is_featured: true
 ---
 
 A project designed with DAI’s assistance to mitigate the impact of climate change in four vulnerable Indian Ocean countries has won the support of the [Green Climate Fund](https://www.greenclimate.fund/about) (GCF), the largest global fund dedicated to addressing climate change. 
 
 On March 19, the GCF Board approved US$71 million to finance the five-year project—*Building Regional Resilience through Strengthened Meteorological, Hydrological, and Climate Services in the Indian Ocean Commission Member Countries*. Implemented by the [Indian Ocean Commission](https://www.commissionoceanindien.org/) (IOC), it will support Comoros, Madagascar, Mauritius, and Seychelles to better manage the risks and impacts of climate-induced disasters.
+
+<!--more-->
 
 These countries are particularly exposed to the adverse effects of climate change, such as rising sea levels, increased sea surface and air temperatures, and changing rainfall patterns. They also suffer from tropical and non-tropical cyclones; from 1950 to 2020, extreme storms affected 62 percent of the population of the four countries, causing significant loss of life and damage estimated at $3.2 billion.
 
