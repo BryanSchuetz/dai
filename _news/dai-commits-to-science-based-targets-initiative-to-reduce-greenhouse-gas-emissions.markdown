@@ -1,7 +1,7 @@
 ---
 title: DAI Commits to Science Based Targets Initiative to Reduce Greenhouse Gas Emissions
 date: 2021-04-22 12:47:00 Z
-is_featured: false
+is_featured: true
 solutions:
 - Climate Change Adaptation and Mitigation
 regions: Worldwide
@@ -13,6 +13,8 @@ social-image: "/uploads/Clima-Med%20-%20Planting%20Campaign%202019%20%20(8)%20(1
 DAI has signed on to the [Science Based Targets initiative](https://sciencebasedtargets.org/) (SBTi), part of a company-wide effort to act against climate change. SBTi—a partnership between CDP, the United Nations Global Compact, the World Resources Institute, and the World Wide Fund for Nature—enables private sector companies to set science-based emissions reduction targets.
 
 Most of the world’s greenhouse gas emissions are directly or indirectly influenced by the corporate sector, SBTi explains. While more than 80 percent of the world’s largest 500 companies [have established emissions or energy reduction targets](https://sciencebasedtargets.org/resources/legacy/2016/04/Science-Based-Targets-Call-to-Action-Brochure-English.pdf), it is vital that these investments align with current climate science. SBTi provides resources to companies to develop targets consistent with the level of decarbonization required to keep the global temperature increase to no more than 2°C greater than pre-industrial temperature.
+
+<!--more-->
 
 “Joining SBTi is a critical step in measuring and reducing our climate impact,” says [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), Global Director of Climate at DAI. “The process will be an opportunity to take stock of our activities and set targets that are ambitious and firmly science based.”
 
