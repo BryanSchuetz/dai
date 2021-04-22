@@ -14,6 +14,9 @@ regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
+articles:
+- name: Q&A with Donald Lunan, Head of DAI’s New Climate Business Unit
+  article_file: https://dai-global-developments.com/articles/q-and-a-with-donald-lunan-head-of-dais-new-climate-business
 layout: expert
 ---
 
