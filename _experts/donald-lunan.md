@@ -17,6 +17,8 @@ regions:
 articles:
 - name: Q&A with Donald Lunan, Head of DAI’s New Climate Business Unit
   article_file: https://dai-global-developments.com/articles/q-and-a-with-donald-lunan-head-of-dais-new-climate-business
+- name: '2030: The Transition to a Low-Carbon Economy Must be Swift—and Fair'
+  article_file: https://dai-global-developments.com/articles/Swift-And-Fair
 layout: expert
 ---
 
