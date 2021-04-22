@@ -23,6 +23,8 @@ regions:
 - Middle East and North Africa
 - Sub-Saharan Africa
 articles:
+- name: 'Good News: Dasgupta Just Raised the Bar for Your Company'
+  article_file: https://dai-global-developments.com/articles/good-news-dasgupta-just-raised-the-bar-for-your-company
 - name: Addressing Resilience to Climate Change with Public-Private Partnerships in
     Vietnam, _Developing Alternatives_, Winter 2013–14
   article_file: http://dai-global-developments.com/articles/climate-resilient-city.html?utm_source=daidotcom
