@@ -1,7 +1,6 @@
 ---
 title: DAI Commits to Science Based Targets Initiative to Reduce Greenhouse Gas Emissions
 date: 2021-04-22 12:47:00 Z
-published: false
 is_featured: true
 solutions:
 - Climate Change Adaptation and Mitigation
@@ -19,10 +18,10 @@ Most of the world’s greenhouse gas emissions are directly or indirectly influe
 
 ![Clima-Med - Planting Campaign 2019  (8) (1).jpg](/uploads/Clima-Med%20-%20Planting%20Campaign%202019%20%20(8)%20(1).jpg)`Cities participating in the EU-funded Clima-Med project—implemented by DAI—hosted tree planting campaigns in 2019.`
 
-DAI joins more than 1,000 businesses in committing to the SBTi targets, including H&M, Honda, Mars, National Grid, and BT Group. At a time when leading organizations across all sectors—from international investors to donors and private corporations—are embracing the need for climate action, the undertaking demonstrates DAI’s shared dedication to that ambition. 
+DAI joins more than 1,000 businesses in committing to the SBTi targets, including H&M, Honda, Mars, National Grid, and BT Group. At a time when leading organizations across all sectors—from international investors to donors and private corporations—are embracing the need for climate action, the undertaking demonstrates DAI’s shared dedication to that ambition.
 
 DAI’s commitment to SBTi is only one part of the company’s global push to address climate change. Through its projects around the world, DAI helps community, business, and government partners translate climate science and global climate models into locally viable strategies and solutions.
 
 The company’s current climate work ranges from supporting municipalities in the [Southern Mediterranean](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood), to developing a climate change adaptation program in the [Dominican Republic](https://www.dai.com/our-work/projects/dominican-republic-climate-change-adaptation), to  mainstreaming “climate smart” planning in [Ethiopia](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches). DAI is also conducting a survey on climate research gaps for the [U.K. Foreign, Commonwealth, and Development Office](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) (FCDO) Climate and Resilience Framework Programme.
 
-Learn more about DAI’s climate change adaptation and mitigation work [here](https://www.dai.com/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation). 
+Learn more about DAI’s climate change adaptation and mitigation work [here](https://www.dai.com/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation).
