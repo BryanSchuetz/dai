@@ -16,8 +16,9 @@ regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean
 articles:
-- name: 
-  article_file: 
+- name: 'Opening the Tap: A Coordinated Approach to Facilitating Green Finance for
+    SMEs in Frontier and Emerging Markets'
+  article_file: https://dai-global-developments.com/articles/opening-the-tap-a-coordinated-approach-to-facilitating-green-finance-for-smes-in-frontier-and-emerging-markets
 - article_file: 
 layout: expert
 ---
