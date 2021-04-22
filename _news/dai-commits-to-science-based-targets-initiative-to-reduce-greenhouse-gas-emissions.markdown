@@ -8,6 +8,7 @@ solutions:
 regions: Worldwide
 summary: DAI has signed on to the Science Based Targets initiative (SBTi), part of
   a company-wide effort to act against climate change.
+social-image: "/uploads/Clima-Med%20-%20Planting%20Campaign%202019%20%20(8)%20(1).jpg"
 ---
 
 DAI has signed on to the [Science Based Targets initiative](https://sciencebasedtargets.org/) (SBTi), part of a company-wide effort to act against climate change. SBTi—a partnership between CDP, the United Nations Global Compact, the World Resources Institute, and the World Wide Fund for Nature—enables private sector companies to set science-based emissions reduction targets.
