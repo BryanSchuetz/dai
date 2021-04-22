@@ -2,9 +2,9 @@
 title: Donald Lunan
 date: 2016-01-21 22:18:00 Z
 lastname: Lunan
-summary: 'Donald Lunan is the Director of the Delivery Unit in DAI’s U.K. office,
-  overseeing the implementation of DAI’s portfolio of programmes with multilateral
-  and U.K. bilateral donors. '
+summary: Donald Lunan is the Director of the Climate Unit in DAI’s U.K. office, overseeing
+  the implementation of DAI’s portfolio of programmes with multilateral and U.K. bilateral
+  donors.
 job-title: Director, Climate Unit
 image: https://assetify-dai.com/experts/DonaldLunanINNER.jpg
 solutions:
