@@ -1,7 +1,7 @@
 ---
 title: DAI Commits to Science Based Targets Initiative to Reduce Greenhouse Gas Emissions
 date: 2021-04-22 12:47:00 Z
-is_featured: true
+is_featured: false
 solutions:
 - Climate Change Adaptation and Mitigation
 regions: Worldwide
