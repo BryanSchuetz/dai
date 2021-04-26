@@ -14,6 +14,8 @@ solutions:
 regions: Asia and the Pacific
 country: Pakistan
 promos:
+- title: Reaching the Needs of All Citizens in a More Democratic Pakistan
+  link: https://dai-global-developments.com/articles/reaching-the-needs-of-all-citizens-in-a-more-democratic-pakistan
 - title: 'Donor Action in Pakistan: A Comparative Case Study of CDIP and AAWAZ'
   link: https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/16456
 ---
