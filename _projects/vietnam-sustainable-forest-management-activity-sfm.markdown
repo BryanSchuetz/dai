@@ -13,8 +13,7 @@ solutions:
 regions: Asia and the Pacific
 country: Vietnam
 promos:
-- title: USAID Launches Two Projects Worth $74 Million To Help Vietnam Address The
-    Climate Crisis
+- title: USAID Launches Two Projects to Help Vietnam Address the Climate Crisis
   link: https://indiaeducationdiary.in/usaid-launches-two-projects-worth-74-million-to-help-vietnam-address-the-climate-crisis/
 ---
 
