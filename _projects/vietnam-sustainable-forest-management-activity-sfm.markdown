@@ -12,6 +12,10 @@ solutions:
 - Natural Resource Management
 regions: Asia and the Pacific
 country: Vietnam
+promos:
+- title: USAID Launches Two Projects Worth $74 Million To Help Vietnam Address The
+    Climate Crisis
+  link: https://indiaeducationdiary.in/usaid-launches-two-projects-worth-74-million-to-help-vietnam-address-the-climate-crisis/
 ---
 
 Limitations on land ownership, access to markets, and high-quality seed varietals constrain people’s ability to either manage their forests effectively or to derive additional benefits from that management. This results in lower levels of carbon sequestration, limits community livelihood opportunities, and contributes to degradation and encroachment on the forests themselves. By addressing the intertwined issues of economic opportunity and forest governance, the U.S. Agency for International Development’s Sustainable Forest Management (SFM) project supports Vietnam’s efforts to manage vital forest areas while helping its people share in the country’s rapid growth in an equitable, sustainable way.  
