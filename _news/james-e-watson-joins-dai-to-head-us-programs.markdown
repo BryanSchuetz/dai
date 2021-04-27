@@ -10,6 +10,8 @@ DAI is pleased to welcome to the firm James E. Watson II, an accomplished execut
 
 Watson most recently served as USAID’s Development Diplomat in Residence, based at Morehouse College in Atlanta, Georgia, from where he represented USAID across six southern states—fostering partnerships, advising on the internationalization of campuses, guiding students and faculty on international development and international opportunities, and recruiting for service with USAID. At the very end of his time at USAID, he served as the Agency’s interim Diversity, Equity & Inclusion (DEI) Coordinator, in which role he developed an options paper for the incoming Administrator on the creation of a DEI Secretariat and permanent DEI Coordinator.
 
+![Watson action.jpg](/uploads/Watson%20action.jpg)`Watson speaks to stakeholders in Honduras.`
+
 Previously, Watson spent most of his career overseas, assuming increasingly responsible long-term postings in Eastern Europe, the Caucasus, East and Southern Africa, and the Caribbean. In his most recent overseas role, as USAID Mission Director in Honduras from 2012 to 2017, he led a team of more than 100 staff and a program portfolio exceeding $500 million. 
 
 At a time of enormous economic and social challenges for Northern Triangle countries, Watson’s team produced a new five-year Country Development and Cooperation Strategy for Honduras and generated a number of important achievements, including pioneering secondary violence prevention and the Agency’s Place-Based Strategy approach, both of which contributed to Honduras cutting its homicide rate in half over the course of his tenure.
