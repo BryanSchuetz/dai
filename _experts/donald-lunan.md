@@ -3,7 +3,7 @@ title: Donald Lunan
 date: 2016-01-21 22:18:00 Z
 lastname: Lunan
 summary: Donald Lunan is the Global Director for Climate at DAI.
-job-title: Director, Climate Unit
+job-title: Global Director for Climate
 image: https://assetify-dai.com/experts/DonaldLunanINNER.jpg
 solutions:
 - Climate Change Adaptation and Mitigation
