@@ -1,10 +1,18 @@
 ---
 title: James E. Watson Joins DAI to Head U.S. Programs
 date: 2021-04-27 20:12:00 Z
-published: false
+is_featured: true
+summary: DAI is pleased to welcome to the firm [James E. Watson II](https://www.dai.com/who-we-are/our-team/james-e-watson),
+  an accomplished executive who as Vice President for U.S. Government Programs will
+  oversee a project portfolio encompassing 89 long-term initiatives in almost 50 countries.
+  Watson comes to DAI after a distinguished 32-year career with the U.S. Agency for
+  International Development (USAID).
+social-image: "/uploads/Watson%20action.jpg"
 ---
 
-DAI is pleased to welcome to the firm James E. Watson II, an accomplished executive who as Vice President for U.S. Government Programs will oversee a project portfolio encompassing 89 long-term initiatives in almost 50 countries. Watson comes to DAI after a distinguished 32-year career with the U.S. Agency for International Development (USAID).
+DAI is pleased to welcome to the firm [James E. Watson II](https://www.dai.com/who-we-are/our-team/james-e-watson), an accomplished executive who as Vice President for U.S. Government Programs will oversee a project portfolio encompassing 89 long-term initiatives in almost 50 countries. Watson comes to DAI after a distinguished 32-year career with the U.S. Agency for International Development (USAID).
+
+<!--more-->
 
 “I’m absolutely delighted to join the DAI team,” said Watson. “I have long admired the values that animate DAI’s development professionals and I’m looking forward to learning from and to sharing what I have learned from my 30-plus years in this field. Together, I think we can raise the bar still higher in terms of delivering development results around the world.”
 
