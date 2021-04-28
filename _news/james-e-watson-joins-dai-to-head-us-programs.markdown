@@ -14,7 +14,7 @@ DAI is pleased to welcome to the firm [James E. Watson II](https://www.dai.com/w
 
 <!--more-->
 
-“I’m absolutely delighted to join the DAI team,” said Watson. “I have long admired the values that animate DAI’s development professionals and I’m looking forward to learning from and to sharing what I have learned from my 30-plus years in this field. Together, I think we can raise the bar still higher in terms of delivering development results around the world.”
+“I’m absolutely delighted to join the DAI team,” said Watson. “I have long admired the values that animate DAI’s development professionals and I’m looking forward to learning from them and to sharing what I have learned from my 30-plus years in this field. Together, I think we can raise the bar still higher in terms of delivering development results around the world.”
 
 Watson most recently served as USAID’s Development Diplomat in Residence, based at Morehouse College in Atlanta, Georgia, from where he represented USAID across six southern states—fostering partnerships, advising on the internationalization of campuses, guiding students and faculty on international development and international opportunities, and recruiting for service with USAID. At the very end of his time at USAID, he served as the Agency’s interim Diversity, Equity & Inclusion (DEI) Coordinator, in which role he developed an options paper for the incoming Administrator on the creation of a DEI Secretariat and permanent DEI Coordinator.
 
