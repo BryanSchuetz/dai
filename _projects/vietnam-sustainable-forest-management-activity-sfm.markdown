@@ -13,8 +13,8 @@ solutions:
 regions: Asia and the Pacific
 country: Vietnam
 promos:
-- title: USAID Launches Two Projects to Help Vietnam Address the Climate Crisis
-  link: https://indiaeducationdiary.in/usaid-launches-two-projects-worth-74-million-to-help-vietnam-address-the-climate-crisis/
+- title: USAID Helps Vietnam's Climate Change Fight with Two New Projects
+  link: https://e.vnexpress.net/news/news/usaid-helps-vietnam-s-climate-change-fight-with-two-new-projects-4269347.html
 ---
 
 Limitations on land ownership, access to markets, and high-quality seed varietals constrain people’s ability to either manage their forests effectively or to derive additional benefits from that management. This results in lower levels of carbon sequestration, limits community livelihood opportunities, and contributes to degradation and encroachment on the forests themselves. By addressing the intertwined issues of economic opportunity and forest governance, the U.S. Agency for International Development’s Sustainable Forest Management (SFM) Activity supports Vietnam’s efforts to manage vital forest areas while helping its people share in the country’s rapid growth in an equitable, sustainable way.  
