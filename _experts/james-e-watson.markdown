@@ -6,6 +6,7 @@ summary: James Watson oversees all projects implemented by the U.S. Government B
   Unit, DAI’s largest operating division. As Vice President, he is responsible for
   ensuring operational excellence and delivering superior development results globally.
 job-title: 'Vice President, U.S. Government Programs '
+image: "/uploads/Watson.jpg"
 regions:
 - Worldwide
 ---
