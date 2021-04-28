@@ -28,6 +28,7 @@ This project contributes to the security of supply, a more competitive energy ma
 
 ### Select Results
  
+* Helped draft Serbia’s National Assembly law on energy efficiency and rational energy use.
 * Prepared legal gap analysis on energy efficiency in the Republic of Serbia.
 * Facilitated a study tour to Estonia. 
 * Established synergies with another project, Establishing and Strengthening of Capacities of the Conformity Assessment Bodies for the Implementation of Energy Labelling and Ecodesign Directives.
