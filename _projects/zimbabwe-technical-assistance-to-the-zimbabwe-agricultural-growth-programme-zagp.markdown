@@ -1,5 +1,6 @@
 ---
-title: Zimbabwe—Agricultural Growth Programme (ZAGP)
+title: Zimbabwe—Technical Assistance to the Zimbabwe Agricultural Growth Programme
+  (TA ZAGP)
 date: 2018-01-24 23:58:00 Z
 summary: The Zimbabwe Agriculture Growth Programme addresses critical weaknesses in
   the country’s livestock value chains with innovative approaches to strengthening
