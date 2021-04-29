@@ -34,7 +34,7 @@ DAI Global Health’s capacity was augmented by the June 2017 acquisition of [He
 
 ## Doing Development Differently
 
-In September 2017, DAI and [IntraHealth International](https://www.intrahealth.org/) joined forces to amplify their collective development impact. IntraHealth is a nonprofit with expertise in health workforce development, digital innovation, and reproductive, maternal, and child health, including HIV/AIDS. IntraHealth is now a strategic affiliate of DAI Global Health. Together, we offer a broad spectrum of integrated services to address the evolving global health and development challenges of the 21st century, with an emphasis on people-centered, tech-enabled, data-centric solutions focused primarily on the poor and underserved. 
+Together with our partners, we offer a broad spectrum of integrated services to address the evolving global health and development challenges of the 21st century, with an emphasis on people-centered, tech-enabled, data-centric solutions focused primarily on the poor and underserved.
 
 [Global Health Security and Pandemic Preparedness](/our-work/solutions/health-solutions/global-health-security-and-pandemic-preparedness)—We coordinate responses across sectors for a holistic approach to emerging infectious diseases and disease management. A strong response starts with capacity building for governments, communities, universities, and regional professional networks.
 
