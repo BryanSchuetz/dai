@@ -6,14 +6,6 @@ solutions:
 - Environment
 layout: solution
 hero: true
-promos:
-- title: Q&A with Donald Lunan, Head of DAI’s New Climate Business Unit
-  link: https://dai-global-developments.com/articles/q-and-a-with-donald-lunan-head-of-dais-new-climate-business?utm_source=daidotcom
-- title: '2030: The Transition to a Low-Carbon Economy Must be Swift—and Fair'
-  link: https://dai-global-developments.com/articles/Swift-And-Fair
-- title: DAI Commits to Science Based Targets Initiative to Reduce Greenhouse Gas
-    Emissions
-  link: https://www.dai.com/news/dai-commits-to-science-based-targets-initiative-to-reduce-greenhouse-gas-emissions
 ---
 
 We help community, business, and government partners translate climate science and global climate models into downscaled, locally viable strategies and solutions. We work with local and national governments and the private sector to develop programs and policies that will improve resilience to climate impacts, mitigate behaviors that exacerbate vulnerabilities, and protect freshwater supplies, forests, food security, and economic development.

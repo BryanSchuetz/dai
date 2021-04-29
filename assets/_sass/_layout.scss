@@ -137,13 +137,16 @@ body.st-ui-overlay-active {
 .covid .footer-inner,
 .country .container,
 .country .header-inner,
-.country .footer-inner {
+.country .footer-inner,
+.newpromo .container,
+.newpromo .header-inner,
+.newpromo .footer-inner{
   @include responsive(covid-screens) {
     @include width(16);
   }
 }
 
-.covid .node-inner {
+.covid .node-inner,.newpromo .node-inner {
   @include responsive(covid-screens) {
     @include width(12);
     float: left;
@@ -1665,8 +1668,9 @@ iframe.last-month {
 }
 
 // Covid
+// @todo abstract these covid styles into a new site wide promo style
 .covid-news-wrapper,
-.supply-chain--newswrapper {
+.supply-chain--newswrapper,.climate-news-wrapper {
   display: none;
   @include width(4);
   float: right;
