@@ -31,4 +31,4 @@ deploy:
   skip_cleanup: true
 
 notifications:
-  webhooks: https://outlook.office.com/webhook/e230676a-fcbc-477b-ba3a-b990baceca0a@7107113d-e20b-4c20-a4ce-553cabbf686d/TravisCI/c10a218fa1554b6f86e98870bd957e54/9025e18f-45f0-4c00-a56b-5e8a0c10503d
+  webhooks: https://dai0.webhook.office.com/webhookb2/e230676a-fcbc-477b-ba3a-b990baceca0a@7107113d-e20b-4c20-a4ce-553cabbf686d/TravisCI/c10a218fa1554b6f86e98870bd957e54/9025e18f-45f0-4c00-a56b-5e8a0c10503d
