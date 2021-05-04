@@ -1,6 +1,8 @@
 ---
-title: 'Connecting Public and Private Responses for the COVID-19 Global Recovery - Lessons for a more Inclusive and Sustainable way Forward'
+title: Connecting Public and Private Responses for the COVID-19 Global Recovery -
+  Lessons for a more Inclusive and Sustainable way Forward
 date: 2021-05-03 13:12:00 Z
+published: false
 tags:
 - COVID-19
 solutions:
@@ -11,7 +13,6 @@ summary: DAI and the European Centre for Development Policy Management announced
   series of webinars designed to engage and inform global development stakeholders
   seeking a more inclusive and sustainable way forward from the COVID-19 crisis.
 social-image: "/uploads/2021-webinar-1.jpg"
-published: false
 ---
 
 DAI and partner [European Centre for Development Policy Management (ECDPM)](https://ecdpm.org/) are organising a new series of webinars on COVID-19, building on the success of [last year’s series to connect public and private responses to the pandemic](/news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development).  
