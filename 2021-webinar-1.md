@@ -5,7 +5,7 @@ published: false
 layout: default
 ---
 
-# 2021 Webinar 1: Agrifinance for transformation: Partnering along sustainable value chains 
+# Agrifinance for transformation: Partnering along sustainable value chains 
 
 <div>
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 15, 10am–11:15am (Eastern Daylight Time); Wednesday May 19th, from 4:00 to 5:15 pm Central European Time</span>
