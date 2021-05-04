@@ -5,7 +5,7 @@ published: false
 layout: default
 ---
 
-# Agrifinance for transformation: Partnering along sustainable value chains 
+# Agrifinance for Transformation: Partnering Along Sustainable Value Chains 
 
 <div>
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 15, 10am–11:15am (Eastern Daylight Time); Wednesday May 19th, from 4:00 to 5:15 pm Central European Time</span>
