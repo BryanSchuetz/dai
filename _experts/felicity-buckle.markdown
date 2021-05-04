@@ -14,6 +14,10 @@ solutions:
 - Climate Change Adaptation and Mitigation
 regions:
 - Worldwide
+articles:
+- name: 'Ethiopia Case Study: Can the Land Titling Process Mitigate Land-Related Violence
+    Against Women and Vulnerable Groups?'
+  article_file: https://dai-global-developments.com/articles/ethiopia-case-study-can-land-titling-process-mitigate-land-related-violence-against-women-and-vulnerable-groups
 ---
 
 Felicity Buckle is a member of the Climate and Natural Resources Management team at DAI's U.K. office and is responsible for coordinating its land and property rights portfolio across a variety of donors, supporting business development and programme management teams. Felicity has technical expertise in land governance, with a focus on women’s land rights, working on assignments funded by the U.K. Foreign, Commonwealth & Development Office, the European Union, and government ministries.
