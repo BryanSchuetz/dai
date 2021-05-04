@@ -1,5 +1,6 @@
 ---
-title: 'Agrifinance for transformation: Partnering along sustainable value chains.'
+title: 'Webinar-1: Agrifinance for transformation: Partnering along sustainable value
+  chains.'
 permalink: "/2021-webinar-1"
 layout: default
 ---
