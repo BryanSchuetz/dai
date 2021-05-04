@@ -1,8 +1,9 @@
 ---
-title: Myanmar—DaNa Facility
+title: Myanmar—Economic Response Facility (ERF)
 date: 2016-01-21 22:40:00 Z
-summary: The DaNa Facility works to reduce poverty and increase incomes by fostering
-  a strong business environment conducive to the creation of jobs and economic opportunities.
+summary: The Economic Response Facility (ERF) works to reduce poverty and increase
+  incomes by fostering a strong business environment conducive to the creation of
+  jobs and economic opportunities.
 start: 2016
 end: 2022
 client: Foreign, Commonwealth & Development Office
@@ -24,7 +25,7 @@ Despite growth of more than 8 percent in gross domestic product from 2014 to 201
 
 However, small and medium-sized enterprises (SMEs), including household businesses, account for more than 90 percent of all enterprises in the country. Many of these operate on an informal basis, particularly those run by women. As a result, thousands of potential entrepreneurs are unable to seize business opportunities due to a lack of capital for investment and an uncertain business environment.
 
-The [DaNa Facility](http://www.danafacility.com/) (DaNa is Burmese for "prosperity"), a program funded by the Foreign, Commonwealth & Development Office (FCDO), works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. 
+The Economic Response Facility (ERF), funded by the Foreign, Commonwealth & Development Office (FCDO), works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. 
 
 ![DFID DaNa Facility in Burma](https://assetify-dai.com/projects/DaNa_Image.jpg)
 
