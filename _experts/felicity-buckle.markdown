@@ -24,7 +24,7 @@ Felicity Buckle is a member of the Climate and Natural Resources Management team
 
 Felicity’s geographical focus is Eastern and Southern Africa, where she has provided technical input on land programmes in Ethiopia, Malawi, and Tanzania. She has advised on how to strengthen vulnerable, marginalised, and disadvantaged groups' access to resource rights, particularly in relation to registration programmes. 
 
-More broadly, Felicity supports the team on business development, programme management, and research activities related climate change adaptation, natural resource management, and resilience. She is also working on DAI's carbon reduction and [Science Based Targets](dai.com/news/dai-commits-to-science-based-targets-initiative-to-reduce-greenhouse-gas-emissions) setting initiative.
+More broadly, Felicity supports the team on business development, programme management, and research activities related to climate change adaptation, natural resource management, and resilience. She is also working on DAI's carbon reduction and [Science Based Targets](dai.com/news/dai-commits-to-science-based-targets-initiative-to-reduce-greenhouse-gas-emissions) setting initiative.
 
 * M.Sc., managing rural development, University of London
 * B.A., philosophy, University of Birmingham
