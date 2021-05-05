@@ -8,7 +8,7 @@ sort-order: 0
 layout: leaders
 ---
 
-Jim Boomgard has worked at the forefront of economic development issues for more than 30 years in more than 30 countries. For the past 26 years he has worked for DAI—with the exception of a two-year stint with FMC Corporation, where he was seconded to establish a large-scale farming operation in Eastern Indonesia.
+Jim Boomgard has worked at the forefront of economic development issues for more than 30 years in more than 30 countries. For the past 35 years he has worked for DAI—with the exception of a two-year stint with FMC Corporation, where he was seconded to establish a large-scale farming operation in Eastern Indonesia.
 
 ![James Boomgard](/assets/images/leaders/james-boomgard.jpg)
 
