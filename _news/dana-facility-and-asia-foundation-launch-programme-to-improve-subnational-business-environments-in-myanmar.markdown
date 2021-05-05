@@ -5,13 +5,14 @@ date: 2017-07-14 21:06:00 Z
 solutions:
 - Economic Growth
 regions: Asia and the Pacific
-projects: Burma—DaNa Facility
+projects: Myanmar—Economic Response Facility (ERF)
 clients: U.K. Department for International Development
 summary: The DaNa Facility and The Asia Foundation this week launched a three-year
   programme to improve business competitiveness in Myanmar. Central to the programme
   is the Myanmar Business Environment Index (Myanmar BEI), an initiative that will
   identify constraints to business, recommend improvements to the regulatory environment,
   and raise awareness of opportunities to reform the business environment.
+country: Myanmar
 ---
 
 The DaNa Facility and The Asia Foundation this week launched a three-year programme to improve business competitiveness in Myanmar. Central to the programme is the Myanmar Business Environment Index (Myanmar BEI), an initiative that will identify constraints to business, recommend improvements to the regulatory environment, and raise awareness of opportunities to reform the business environment.
