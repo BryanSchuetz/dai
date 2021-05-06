@@ -7,7 +7,7 @@ summary: Despite positive economic growth in recent years, urban Indonesia still
   for All (IUWASH PLUS), is working to expand access to water and sanitation services
   to hundreds of thousands of low-income urban households.
 start: 2016
-end: 2021
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Environment
