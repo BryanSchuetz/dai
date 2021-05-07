@@ -2,6 +2,18 @@
 title: Nadya Boneva
 date: 2021-05-07 13:05:00 Z
 published: false
+lastname: Boneva
+summary: Nadya Boneva is an energy engineer and expert in environmental monitoring
+  control and health. She has more than 25 years of experience designing and implementing
+  projects for donors, international organizations, government, and the NGO sector.
+job-title: Practice Leader—Planet
+image: "/uploads/N%20Boneva%20(2).jpg"
+solutions:
+- Environment
+- Climate Change Adaptation and Mitigation
+- Energy
+regions:
+- Worldwide
 ---
 
 Nadya Boneva is an energy engineer and expert in environmental monitoring control and health. She has more than 25 years of experience designing and implementing projects for donors, international organizations, government, and the NGO sector.
