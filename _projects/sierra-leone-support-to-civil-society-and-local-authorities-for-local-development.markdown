@@ -2,9 +2,8 @@
 title: Sierra Leone—Support to Civil Society and Local Authorities for Local Development
 date: 2021-03-09 11:45:00 Z
 summary: We are supporting decentralization in Sierra Leone by empowering local authorities
-  as well as local and rural civil society organisations in selected districts to
-  plan and implement initiatives of service delivery, and capital investment that
-  respond to the priorities of communities.
+  as well as local and rural civil society groups in selected districts to plan and
+  implement initiatives of service delivery.
 start: 2018
 end: 2022
 client: European Union
@@ -32,7 +31,7 @@ Our assistance fosters decentralization by empowering local authorities as well 
 
 * Developed a strategy for strengthening the review processes for the decentralization policy and the Local Government Act.
 * Developed draft capacity needs assessment and a draft capacity-building strategy that were validated by the councils to ensure ownership, adoption, and implementation.
-* Developed a robust monitoring and evaluation capacity development action plan to be implemented and monitored at national and council levels using clearly defined implementation monitoring matrix.
+* Developed a robust monitoring and evaluation capacity development action plan to be implemented and monitored at national and council levels using a clearly defined implementation monitoring matrix.
 * Supported districts to plan and integrate COVID-19 activities into their grant applications.
 * Supported the strengthening of administrative systems to enhance the smooth operations of the councils.
 * Supported the strengthening of local accountability structures to promote transparency, inclusivity, and accountability in the governance of the councils.
