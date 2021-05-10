@@ -1,5 +1,6 @@
 ---
-title: Sierra Leone—Civil Service Reform, Parliament, and the Electoral Cycle
+title: Sierra Leone—Technical Assistance in Support of the Governance Sector in Civil
+  Service Reform, Parliament, and the Electoral Cycle
 date: 2020-04-29 11:08:00 Z
 summary: Our team works to consolidate past reforms in the areas of electoral support,
   parliamentary strengthening, and civil service reform within the new electoral cycle
@@ -14,9 +15,9 @@ regions: Sub-Saharan Africa
 country: Sierra Leone
 ---
 
-The technical assistance project to Sierra Leone was launched in the aftermath of presidential, parliamentary, and local elections in March 2018—the ideal timeframe to consolidate past reforms in Parliament’s work and electoral cycles. The project builds upon the commitment already undertaken by the Government of Sierra Leone, as supported through development partners including United Nations Development Programme (UNDP), the World Bank, the European Union, and the Foreign, Commonwealth & Development Office. The additional transfer of ownership from UNDP to the National Electoral Committee since the 2018 elections celebrates this accomplishment.
+This European Union (EU)-funded technical assistance project in Sierra Leone was launched in the aftermath of presidential, parliamentary, and local elections of March 2018—the ideal timeframe to consolidate past reforms in Parliament’s work and electoral cycles. The project builds upon the commitment already undertaken by the Government of Sierra Leone, as supported through partners including the United Nations Development Programme (UNDP), the World Bank, the EU, and the Foreign, Commonwealth & Development Office. 
 
-Our team works to consolidate past reforms in the areas of electoral support, parliamentary strengthening, and civil service reform within the new electoral cycle. The team is providing support to the electoral cycle to consolidate electoral and democratic reforms allowing for improved political dialogue; enhance the legislative process, institutional relevance, and effectiveness of Parliament; and improve the institutional capacity of the civil service to enhance public service delivery.
+Our team is consolidating past reforms in the areas of electoral support, parliamentary strengthening, and civil service reform within the new electoral cycle. The team is providing support to the electoral cycle to consolidate electoral and democratic reforms allowing for improved political dialogue; enhance the legislative process, institutional relevance, and effectiveness of Parliament; and improve the institutional capacity of the civil service to enhance public service delivery.
 
 ![sierra leone.jpg](/uploads/sierra%20leone.jpg)
 
