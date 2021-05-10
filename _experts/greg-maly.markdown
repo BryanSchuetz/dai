@@ -4,7 +4,7 @@ date: 2017-08-07 14:13:00 Z
 lastname: Maly
 summary: Greg Maly has spent his career working at the intersection of global development
   and diplomacy, technology, and the arts.
-job-title: Products Manager, Center for Digital Acceleration
+job-title: Associate Director of Digital Products, Center for Digital Acceleration
 image: "/uploads/greg.jpg"
 solutions:
 - Digital Acceleration
