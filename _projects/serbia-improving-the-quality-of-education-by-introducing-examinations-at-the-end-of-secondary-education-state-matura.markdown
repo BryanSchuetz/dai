@@ -3,7 +3,7 @@ title: Serbia—Improving the Quality of Education by Introducing Examinations a
   End of Secondary Education (State Matura)
 date: 2020-10-22 10:46:00 Z
 summary: The State Matura Project is preparing the education system and the Ministry
-  of Education, Science and Technological Development to implement final examinations
+  of Education, Science, and Technological Development to implement new final examinations
   at the end of secondary education in the Republic of Serbia.
 start: 2019
 end: 2021
@@ -19,7 +19,7 @@ Analyses of the Serbian education system carried out in recent years have shown 
 
 A new final examination system should resolve the existing problems and establish a coherent system linking educational goals, education standards, various forms of assessment, and evaluation. The standardized state-administered *matura*, at the end of secondary education across Serbia, will enable the evaluation of the quality of education to become more objective.
 
-The European Union-funded State Matura Project is preparing the education system and the Ministry of Education, Science, and Technological Development to implement the final examination.
+The European Union-funded State Matura Project is preparing the education system and the Ministry of Education, Science, and Technological Development to implement the new final examination.
 
 ![Serbia_Matura (1).jpg](/uploads/Serbia_Matura%20(1).jpg)
 
