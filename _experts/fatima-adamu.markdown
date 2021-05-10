@@ -15,6 +15,8 @@ articles:
 - name: Community Engagement, Routine Immunization, and the Polio Legacy in Northern
     Nigeria
   article_file: http://resources.healthpartners-int.co.uk/resource/1196/
+- name: Improving Human Resource for Health in Rural Northern Nigeria
+  article_file: https://www.intechopen.com/online-first/improving-human-resource-for-health-in-rural-northern-nigeria
 ---
 
 Fatima Adamu is a sociologist by training with particular expertise in gender, poverty, and equity issues in northern Nigeria. Fatima is also an expert in qualitative research and coordinated many qualitative studies, for example, she was the coordinator of one component of a multi-country research project that studied the interaction between religion and development, funded by the Foreign, Commonwealth & Development Office (FCDO). 
