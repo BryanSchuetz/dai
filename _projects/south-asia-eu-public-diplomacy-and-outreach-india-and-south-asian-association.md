@@ -2,7 +2,7 @@
 title: South Asia—EU Public Diplomacy and Outreach in India and the South Asian Association
   for Regional Cooperation (SAARC)
 date: 2016-01-21 22:40:00 Z
-summary: The EU Public Diplomacy and Outreach project aims to deepen the political,
+summary: The EU Public Diplomacy and Outreach project worked to deepen the political,
   economic, and cultural relationships of the European Union with the SAARC region,
   which includes Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan,
   and Sri Lanka.
@@ -22,7 +22,7 @@ layout: project
 
 There is a long history of engagement, and a great interest in taking forward cooperation, between the European Union and the South Asian Association for Regional Cooperation (SAARC) region, which includes Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. For a majority of these countries, the European Union is the largest provider of assistance, and their largest trading partner.
 
-Complementing other cooperation priorities instruments, the Lisbon Treaty in 2009 put visibility and awareness-raising at the heart of the European Union's external priorities. The EU Public Diplomacy and Outreach project aims to deepen the political, economic, and cultural relationships of the European Union with the SAARC region.
+Complementing other cooperation priorities instruments, the Lisbon Treaty in 2009 put visibility and awareness-raising at the heart of the European Union's external priorities. The EU Public Diplomacy and Outreach project worked to deepen the political, economic, and cultural relationships of the European Union with the SAARC region.
 
 ### Select Results
 
