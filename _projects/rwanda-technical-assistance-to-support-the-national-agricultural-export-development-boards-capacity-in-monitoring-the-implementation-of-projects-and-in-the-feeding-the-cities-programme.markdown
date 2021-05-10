@@ -23,6 +23,6 @@ The European Union (EU) supports the Government of Rwanda's efforts to modernize
 
 ### Sample Activities
 
-* Provide support and capacity building among project implementers to achieve their objectives.
+* Provide support and capacity building among project implementers.
 * Liaise between the different stakeholder partners.
-* Support the design and monitoring of the “Feeding the Cities” program, to support the sustainable use of land and water resources, value creation, and nutrition security.
+* Support the design and monitoring of the “Feeding the Cities” program, which works to support the sustainable use of land and water resources, value creation, and nutrition security.
