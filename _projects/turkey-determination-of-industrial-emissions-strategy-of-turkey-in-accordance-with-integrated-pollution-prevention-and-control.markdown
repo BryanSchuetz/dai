@@ -13,7 +13,7 @@ regions: Eastern Europe and Central Asia
 country: Turkey
 ---
 
-Turkey’s economic and social development performance since 2000 has been impressive, leading to increased employment and incomes and making it one of the largest middle-income countries. Turkey’s economy is mainly dominated by industry and services sectors, while the agriculture sector is less prevailing. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey’s export mix. 
+Turkey’s economic and social development performance since 2000 has been impressive, leading to increased employment and incomes and making it one of the largest middle-income countries. Turkey’s economy is mainly dominated by industry and services sectors, while the agriculture sector is smaller. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey’s export mix. 
 
 On the other hand, Turkey’s economic growth has been accompanied by a significant rise in pollutants, energy use, water consumption, and waste accumulation. The country's economic growth has also changed consumption and production patterns, caused environmental degradation and increased inequalities, which has been exacerbated by the increasing population and urbanisation levels. Reflecting rapid sectoral growth in energy, industry, transport, and tourism, industrial pollution problems represent one of the leading environmental issues in Turkey. 
 
