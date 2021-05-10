@@ -15,9 +15,9 @@ regions: Eastern Europe and Central Asia
 country: Serbia
 ---
 
-Analyses of the Serbian education system carried out in recent years have shown ample evidence of the need for improvement. The existing practice of the final examination system at the end of secondary education is not standardized; the assessment process is subjective and higher education institutions complain about the low level of knowledge and literacy of incoming students.
+Analyses of the Serbian education system carried out in recent years have shown ample evidence of the need for improvement. The existing practice of the final examination system at the end of secondary education is not standardized; the assessment process is subjective and higher education institutions complain about the limited knowledge and low literacy of incoming students.
 
-The introduction of the new final examination system should resolve the existing problems and establish a coherent system linking educational goals, education standards, various forms of assessment, and evaluation. The standardized state-administered matura, at the end of secondary education across Serbia, will enable the evaluation of the quality of education to become objective and build a knowledge-based society.
+A new final examination system should resolve the existing problems and establish a coherent system linking educational goals, education standards, various forms of assessment, and evaluation. The standardized state-administered *matura*, at the end of secondary education across Serbia, will enable the evaluation of the quality of education to become objective and build a knowledge-based society.
 
 DAI’s European Union-funded State Matura Project aims to prepare the education system and the Ministry of Education, Science, and Technological Development (MoESTD) to implement the final examinations at the end of secondary education in the Republic of Serbia.
 
