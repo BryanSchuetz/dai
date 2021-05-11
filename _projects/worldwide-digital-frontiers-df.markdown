@@ -12,6 +12,7 @@ solutions:
 - Insights for Emerging Markets
 - Digital Trainings
 regions: Worldwide
+country: Global
 promos:
 - title: 'Digital Frontiers: At the Frontlines of Digital Development'
   link: "/uploads/DF_AtTheFrontlines_Factsheet_final.pdf"
