@@ -11,7 +11,7 @@ layout: default
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Monday, June 15, 10am–11:15am (Eastern Daylight Time); Wednesday May 19th, from 4:00 to 5:15 pm Central European Time</span>
 </div>
 
-[![webinar postcard](/uploads/2021-webinar-1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSeVcgJ3Z8POLJF3iMRv052W1MCH0sDFEHs-WmT-W9tqmEUscw/viewform)
+![Agri finance postcard.jpg](/uploads/Agri%20finance%20postcard.jpg)
 
 **Description**: With more than 60 percent of Africa’s population (and more than 80 percent in some countries) dependent on small or micro-scale farming as their primary source of livelihood, enhancing the resilience and sustainability of agrifood systems should be a priority to build back better in the wake of the COVID-19 crisis. Yet, agriculture in Africa receives less than 3 percent of banking credit and accounts for less than 3 percent of African governments’ expenditure.  
 
