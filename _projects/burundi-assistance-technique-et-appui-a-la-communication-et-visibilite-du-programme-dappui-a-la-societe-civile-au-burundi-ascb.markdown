@@ -14,16 +14,16 @@ regions: Sub-Saharan Africa
 country: Burundi
 ---
 
-Since 2005, Burundi’s public policies around decentralization have called for civil society to participate in local governance—particularly in the preparation, implementation, and monitoring of municipal community development five-year plans. 
+Since 2005, Burundi’s public policies around decentralization have called for civil society to participate in local governance—particularly in the preparation, implementation, and monitoring of municipal community development five-year plans.
 
-The Assistance Technique et Appui à la Communication et Visibilité du Programme d'Appui à la Société Civile au Burundi (ASCB) project supports civil organisations’ participation in development and local governance issues. The project is implemented through grants and procurement of services. 
+Implemented through grants and procurement of services, the ASCB project supports civil organizations’ participation in development and local governance issues. 
 
-DAI’s team advises and supports ASBC’s implementing partners through technical assistance focused on methodology, tools for monitoring and evaluation, capitalization, and capacity building for grassroots organisations. 
+DAI’s team advises and supports ASBC’s implementing partners through technical assistance focused on methodology, tools for monitoring and evaluation, capitalization, and capacity building for grassroots organizations.
 
 ![Burundi.jpg](/uploads/Burundi.jpg)
 
 ### Sample Activities
 
 * Build the capacity of ASCB grantees to help them manage grants, ensure monitoring and evaluation, and capitalization of activities and communication.
-* Implement a communications strategy for better visibility of the programme, by developing a global communications plan in a participatory manner.
-* Perform the research needed to identify ways of improving the implementation of the ASCB and the kind of support needed by partners.
+* Implement a participatory communications strategy to raise the visibility of the program.
+* Research ways to improve implementation of the ASCB and identify the kind of support needed by partners.
