@@ -16,20 +16,19 @@ regions: Middle East and North Africa
 country: Egypt
 ---
 
-As Egypt continues to rebuild its economy it faces many challenges, including regional unrest and a slowdown in exports due to muted global growth. National security remains a concern. Nevertheless, Egypt’s economy has continued to expand, with the World Bank forecasting that Egypt’s economy would grow by 5.8 percent this fiscal year. It grew by 5.6 percent in 2018–2019.
+As Egypt continues to rebuild its economy it faces many challenges, including regional unrest and a slowdown in exports due to muted global growth. National security remains a concern. Nevertheless, Egypt’s economy has continued to expand.
 
-Up to June 2019, the country had an estimated electricity shortage of 30.4 gigawatts, according to the Ministry of Electricity and Renewable Energy. The gap between supply and demand will worsen with the expected increase in gross domestic product in the coming years based on economic growth. Egypt is now searching for solutions. DAI is creating the Cairo Energy Efficiency Centre to promote the use of renewable energy and spread awareness of energy saving. The team also supports the ongoing reform process of the energy sector by assisting Egypt to achieve sustainable energy and security of supplies.
+Up to June 2019, the country had an estimated electricity shortage of 30.4 gigawatts, according to the Ministry of Electricity and Renewable Energy. The gap between supply and demand will worsen with the expected increase in gross domestic product in the coming years. Egypt is now searching for solutions. DAI is creating the Cairo Energy Efficiency Centre to promote the use of renewable energy and spread awareness of energy saving. The team also supports ongoing reform in the energy sector by assisting Egypt to achieve sustainable energy and security of energy supplies.
 
 ![egypt.jpg](/uploads/egypt.jpg)`A monitoring device that measures carbon emissions.`
 
 ## Sample Activities
 
-* Re-organise the core functions of the New and Renewable Energy Authority (NREA).
-* Modernise the Renewables Energy Framework and strengthen energy modelling.
+* Reorganize core functions of the New and Renewable Energy Authority (NREA).
+* Modernize the Renewables Energy Framework and strengthen energy modelling.
 * Strengthen the institutional sustainability of the Energy System Model.
-* Contribute to the role of standards and measurements.
-* Support organisation and ongoing activities of Energy Efficiency Central Department at Ministry of Petroleum and Mineral Resources.
-* Reinforce awareness of the positive impacts and benefits of energy efficiency in all sectors.
+* Support the Energy Efficiency Central Department at Ministry of Petroleum and Mineral Resources.
+* Reinforce awareness of the benefits of energy efficiency in all sectors.
 
 ## Select Results
 
