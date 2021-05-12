@@ -21,9 +21,9 @@ In response to these challenges, ECTA proposed and signed a financial agreement 
  
 ### Sample Activities
 
-* Increase workers' skills to enhance productivity, quality, and processing based on best practices.
-* Improve access by smallholder farmers to inputs.
-* Increase availability of processing and grading capabilities to market high-quality coffees, and increase access to broad-based market information to all coffee farmers.
-* Integrate innovative solutions and technologies from coffee research with the extension system to contribute to higher yields and higher quality of Ethiopian coffees. 
-* Establish and capacitate strategic public and private stakeholders' coordination and dialogue platforms and ensure their functioning. 
-* Strengthen federal and regional coffee authorities' planning and management capacities.
+* Increase workers’ skills to enhance productivity, quality, and processing based on best practices.
+* Improve smallholder farmers’ access to inputs.
+* Expand availability of processing and grading capabilities in order to market higher-quality coffees, and increase access to broad-based market information to all coffee farmers.
+* Integrate innovative solutions and technologies from coffee research with the extension system to contribute to higher yields and higher quality of Ethiopian coffees.
+* Establish public and private stakeholders’ coordination and dialogue platforms and ensure their functioning.
+* Strengthen federal and regional coffee authorities’ planning and management capacities.
