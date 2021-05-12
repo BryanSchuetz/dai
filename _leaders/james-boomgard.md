@@ -1,7 +1,7 @@
 ---
 title: James Boomgard
 date: 2016-01-21 22:18:00 Z
-job-title: President and Chief Executive Officer
+job-title: President and Chief Executive Officer, Board Member
 summary: Jim has worked at the forefront of economic development issues for more than
   30 years in more than 30 countries.
 image: "/assets/images/leaders/thumbnails/james-boomgard.jpg"
@@ -16,6 +16,18 @@ Jim Boomgard has worked at the forefront of economic development issues for more
 Beginning in the early 1990s, Jim assumed progressively responsible roles at DAI, including serving as Senior Vice President of Business Development, Chief Operating Officer, and President. When he was elected Chief Executive Officer in 2009, he became only the fourth CEO in DAI’s 41-year history.
 
 An economist by training, Jim is a leading development thinker in the areas of private sector, enterprise, and financial sector development; microfinance; and agriculture and agribusiness.
+
+<aside>
+<h3>Recent Publications</h3>
+<ul>
+  <li><a href="https://ssir.org/articles/entry/its_time_to_put_employee_ownership_on_the_inclusiveness_agenda#">It’s Time to Put Employee Ownership on the Inclusiveness Agenda</a></li>
+  <li><a href="https://dai-global-developments.com/articles/mark-your-calendar-its-may-21">On Cultural Diversity: Mark Your Calendar, It’s May 21</a></li>
+  <li><a href="https://dai-global-developments.com/articles/a-digital-tool-to-get-the-world-moving-again">A Digital Tool to Get the World Moving Again</a></li>
+  <li><a href="https://dai-global-developments.com/articles/why-the-time-is-right-for-access-for-all">Why the Time is Right for Access for All</a></li>
+  <li><a href="https://dai-global-developments.com/articles/poverty-partnership-pursuit-innovation">Poverty, Partnership, and the Pursuit of Innovation</a></li>
+</ul>
+
+</aside>
 
 His work on small enterprise development in Thailand in the early 1980s, for example, laid the groundwork for much of the practical work on enterprise development that continues to this day. Subsequently, he helped design and later led the implementation of the Central Java Enterprise Development Project—one of the U.S. Agency for International Development’s first private sector-oriented development projects.
 
