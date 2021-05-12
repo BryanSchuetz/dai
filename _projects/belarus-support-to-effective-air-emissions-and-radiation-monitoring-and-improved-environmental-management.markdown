@@ -2,11 +2,9 @@
 title: Belarus—Support to Effective Air Emissions, Radiation Monitoring, and Improved
   Environmental Management
 date: 2021-01-18 09:58:00 Z
-summary: 'This project works to harmonise the relevant legislation in the fields of
-  air quality monitoring and management and data collection systems in Belarus. This
-  project addresses the needs of the country to improve air quality management and
-  monitoring and align its environmental permitting regulations with international
-  and European Union (EU) standards. '
+summary: This project supports investments in natural capital and cleaner technologies
+  to encourage low-carbon development and reduce adverse impacts on public health
+  in Belarus.
 start: 2020
 end: 2021
 client: European Union
@@ -16,20 +14,20 @@ regions: Eastern Europe and Central Asia
 country: Belarus
 ---
 
-Belarus has made significant progress towards reducing air pollution in the last decades. However, the air quality in the country is not in compliance with standards and is often the cause of serious health impacts. 
+Belarus has made significant progress toward reducing air pollution in recent decades. However, the air quality in the country is not in compliance with its standards and is often the cause of serious health effects.
 
-One of the main goals of this project is to harmonise the relevant legislation in the fields of air quality monitoring and management and data collection systems. This project addresses the needs of the country to improve air quality management and monitoring and align its environmental permitting regulations with international and European Union (EU) standards. 
+One main goal of this project is to harmonize relevant legislation in the fields of air quality monitoring and management and data collection systems. It addresses the country’s needs to improve air quality management and monitoring while aligning its environmental permitting regulations with international and European Union (EU) standards.
 
-The intervention supports investments in natural capital and cleaner technologies to encourage low-carbon development and reduce adverse impacts on public health in Belarus. 
+The intervention supports investments in natural capital and cleaner technologies to encourage low-carbon development and reduce adverse impacts on public health in Belarus.
 
 ![1 Belarus Air - pp.jpg](/uploads/1%20Belarus%20Air%20-%20pp.jpg)
 
 ### Sample Activities
 
-* Assist Belarus in improving air quality management and carrying out air quality monitoring in full compliance with the EU Acquis and the Convention on Long-range Trans-boundary Air Pollution and other relevant international environmental agreements.
+* Assist Belarus in improving air quality management and carrying out air quality monitoring in compliance with the EU Acquis, the Convention on Long-range Transboundary Air Pollution, and other international environmental agreements.
 * Align environmental permitting regulations in Belarus with international and EU standards.
-* Contribute to developing Belarus capacity in the field of air quality modelling and management.
-* Elaborate Sustainable Urban Mobility Plans for four major cities using urban air quality models and transport policy support tool which will allow for evidence-based decision making.
+* Develop Belarus’s capacity in air quality modelling and management.
+* Elaborate Sustainable Urban Mobility Plans for four major cities using urban air quality models and a transport policy support tool to support evidence-based decision making.
 
 ### Select Results
 
