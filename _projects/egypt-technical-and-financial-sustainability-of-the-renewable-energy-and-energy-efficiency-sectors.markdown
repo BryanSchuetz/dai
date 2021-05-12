@@ -3,9 +3,9 @@ title: Egypt—Technical and Financial Sustainability of the Renewable Energy an
   Efficiency Sectors
 date: 2020-04-21 16:07:00 Z
 summary: DAI is creating the Cairo Energy Efficiency Centre to promote the use of
-  renewable energy and spread awareness of energy saving. The team also supports the
-  ongoing reform process of the energy sector by assisting Egypt to achieve sustainable
-  energy and security of supplies.
+  renewable energy and spread awareness of energy saving. The team also supports ongoing
+  reform in the energy sector by assisting Egypt to achieve sustainable energy and
+  security of energy supplies.
 start: 2017
 end: 2021
 client: European Union
@@ -32,7 +32,7 @@ Up to June 2019, the country had an estimated electricity shortage of 30.4 gigaw
 
 ## Select Results
 
-* Completed the analyses of the current legal framework for the NREA, and assessed its organization and working procedures in view of a reorganization.
-* Prepared an assessment of the total resources of renewable energy schemes in Egypt and identified technical, financial, and regulatory gaps.
-* Prepared a design plan with recommendations for the establishment of the Energy Modelling Unit at the Ministry of Electricity and Renewable Energy. 
-* Prepared a situation analysis report and training needs assessment for the Ministry of Petroleum and Mineral Resources staff.
+* Analyzed the current legal framework for the NREA, and assessed the Authority’s working procedures in view of a reorganization.
+* Assessed the total resources available to renewable energy schemes in Egypt and identified technical, financial, and regulatory gaps.
+* Prepared a design and made recommendations for the establishment of the Energy Modelling Unit at the Ministry of Electricity and Renewable Energy.
+* Developed a situational analysis and training needs assessment for the Ministry of Petroleum and Mineral Resources.
