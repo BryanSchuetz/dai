@@ -31,7 +31,7 @@ The intervention supports investments in natural capital and cleaner technologie
 
 ### Select Results
 
-* Prepared an outline of legislative and regulatory amendments to be incorporated in the country’s current legal frameworks related to air quality monitoring and management. 
-* Compiled a list of main national regulatory legal acts and respective principal provisions to introduce the best EU policy approaches and experience in the field of air quality management in Belarus.
-* Drafted key provisions for Belarusian legislation and regulations to be adopted to achieve harmonization of the national system of environmental permits with EU’s best practices. 
-* Reviewed legislative acts recently prepared by the Ministry of Natural Resources and Environmental Protection (MNREP) staff concerning the integrated environmental permits.
+* Outlined legislative and regulatory amendments to be incorporated in the country’s legal frameworks related to air quality monitoring and management.
+* Compiled a list of national regulatory legal acts and their respective provisions to introduce the best EU policy approaches and experience in the field of air quality management.
+* Drafted key provisions for Belarusian legislation and regulations in order to achieve harmonization of the national system of environmental permits with EU best practices.
+* Reviewed legislation recently prepared by Ministry of Natural Resources and Environmental Protection staff concerning integrated environmental permits.
