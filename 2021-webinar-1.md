@@ -15,6 +15,10 @@ layout: default
 
 **Description**: With more than 60 percent of Africa’s population (and more than 80 percent in some countries) dependent on small or micro-scale farming as their primary source of livelihood, enhancing the resilience and sustainability of agrifood systems should be a priority to build back better in the wake of the COVID-19 crisis. Yet, agriculture in Africa receives less than 3 percent of banking credit and accounts for less than 3 percent of African governments’ expenditure.  
 
+<aside>
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVcgJ3Z8POLJF3iMRv052W1MCH0sDFEHs-WmT-W9tqmEUscw/viewform">Register Here</a></h2>
+</aside>
+
 This session explores how to effectively finance the diversification and upgrading of agriculture along sustainable and resilient agricultural value chains in an inclusive manner and potential innovative mechanisms to help financiers partnering along sustainable value chains and how they be supported. 
 
 * Moderator: [San Bilal](https://ecdpm.org/people/sanbilal/), Head of Programme Economic and Agricultural Transformation, ECDPM 
