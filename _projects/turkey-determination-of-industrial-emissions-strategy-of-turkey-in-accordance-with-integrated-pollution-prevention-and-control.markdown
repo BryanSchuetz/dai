@@ -26,4 +26,4 @@ Given that Turkey has a growing interest to control and prevent industrial pollu
 * Protect human health and the environment by integrated management of industrial pollution through the implementation of the IED.
 * Increase the technical and institutional capacity of the relevant authorities for effective implementation of the Intergovernmental Panel on Climate Change (IPCC) approach in Turkey in line with the European Union's IED.
 * Develop technical capacity and substructure for the implementation of IPPC approach.
-* Develop institutional capacity and increased awareness.
+* Develop institutional capacity and increase awareness.
