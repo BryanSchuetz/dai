@@ -27,8 +27,8 @@ The Facility builds relationships between decision-makers as a means of implemen
 
 ### Select Results
 
-* Supported the implementation of 16 approved dialogues—the highest number of concurrently running dialogues since the inception of the first phase of the Dialogue Facility in 2011. The 16 events comprised a total of 21 dialogue days with 1,587 delegates participating.
+* Supported the implementation of 16 approved dialogues—the highest number of concurrently running dialogues since the inception of the first phase of the Facility in 2011. The 16 events comprised a total of 21 dialogue days with 1,587 delegates participating.
 * Arranged dialogue study tours to seven EU Member States. 
 * Reported an overall general dialogue experience rating of 89 percent satisfaction (with the South African Police Services Cybercrime dialogue rated at the highest satisfaction level of 98 percent). 
 * Recorded the highest number of delegates at the Public Service Commission dialogue on Values and Ethics in the Public Sector, with 189 delegates attending on the first day and 162 on the second day. The Minister of Public Administration opened the dialogue conference. 
-* Developed a procurement strategy that benefits youth and women empowerment by supporting community-based small and micro enterprises as well as the use of environmentally friendly and sustainable materials.
+* Developed a procurement strategy that empowers young people and women by supporting community-based small and micro enterprises as well as the use of environmentally friendly and sustainable materials.
