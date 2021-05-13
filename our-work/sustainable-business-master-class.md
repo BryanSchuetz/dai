@@ -6,9 +6,11 @@ summary: The Local Content Masterclass brings together participants from the pri
   demand and sustained cost pressures with the current political momentum for increased
   local content. DAI draws on more than 2,000 long-term projects and development assignments
   completed across 150 countries to advance participants’ skills.
-layout: default
 hero: true
+layout: default
 ---
+
+<!--do not edit this page-->
 
 ![](/uploads/masterclass-advert.jpg)
 
@@ -126,6 +128,10 @@ contract tendering, and evaluation techniques
       </div>
   </div>
 </div>
+
+This is a four-day course: June 7–10, 2021, 10h00 - 15h00 BST. 
+
+The price per module is US$975. There is a 10 percent discount if participants take all four modules. A 15 percent discount is offered when three or more participants register together for the full course. Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
 
 <aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="/uploads/DAI_E-Training%20Catalogue2021.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
 
