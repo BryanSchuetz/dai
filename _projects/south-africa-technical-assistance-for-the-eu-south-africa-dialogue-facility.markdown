@@ -15,7 +15,7 @@ country: South Africa
 
 This Technical Assistance for the EU-South Africa Dialogue Facility, a follow-on project with two previous iterations, helps enable the strategic partnership that has existed between the European Union (EU) and South Africa since 2007. The initial Trade, Development, and Cooperation Agreement’s Dialogue Facility was launched as a pilot, as policy dialogue was a new concept, but since its launch, the demand for support steadily increased from a wider variety of stakeholders seeking assistance.
 
-The Facility builds relationships between decision-makers and is essentially the key means of implementing international partnerships between South Africa and the European Union. The project is expected to guarantee clear and transparent governance around the call for proposals processes and ensure that our team can optimize the focus and impact of the political dialogue between the European Union and the Republic of South Africa. 
+The Facility builds relationships between decision-makers and is a key means of implementing international partnerships between South Africa and the EU. The project is expected to guarantee clear and transparent governance around the call for proposals processes and ensure that our team can optimize the focus and impact of the political dialogue between the European Union and the Republic of South Africa. 
 
 ![SA-DF II  (1).jpg](/uploads/SA-DF%20II%20%20(1).jpg)
 
