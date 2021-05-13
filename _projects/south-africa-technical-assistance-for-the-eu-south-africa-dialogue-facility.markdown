@@ -13,7 +13,7 @@ regions: Sub-Saharan Africa
 country: South Africa
 ---
 
-This project enables the strategic partnership that has existed between the European Union and South Africa since 2007. The project directly follows the Trade, Development, and Cooperation Agreement’s Dialogue facility (TDCA, 2011-2015) and the Bridging Facility (2015-2016). The initial TDCA Facility was launched as a pilot programme, as policy dialogue was a new concept, but since its launch demands for support have steadily increased.  With each successive round of calls for proposals attracting greater and greater interest from a wider variety of departments seeking technical assistance.
+This project enables the strategic partnership that has existed between the European Union (EU) and South Africa since 2007. The project directly follows the Trade, Development, and Cooperation Agreement’s Dialogue facility (TDCA, 2011-2015) and the Bridging Facility (2015-2016). The initial TDCA Facility was launched as a pilot, as policy dialogue was a new concept, but since its launch demands for support have steadily increased.  With each successive round of calls for proposals attracting greater and greater interest from a wider variety of departments seeking technical assistance.
 
 The project builds relationships between decision-makers and is essentially the key means of implementing international partnerships between South Africa and the European Union. The project is expected to guarantee clear and transparent governance around the call for proposals processes and ensure that our team can optimize the focus and impact of the political dialogue between the European Union and the Republic of South Africa. 
 
@@ -22,8 +22,8 @@ The project builds relationships between decision-makers and is essentially the 
 ### Sample Activities
 
 * Improve sectoral policy dialogue between the EU and South Africa. 
-* Increase institutional capacity to help implement the areas of cooperation of the TDCA, the Strategic Partnership Joint Action Plan and the SADC EPA.
-* Increase awareness and understanding of the TDCA, the Strategic Partnership Joint Action Plan and the EPA. 
+* Increase institutional capacity to help implement the areas of cooperation of the TDCA, the Strategic Partnership Joint Action Plan, and the SADC EPA.
+* Increase awareness and understanding of the TDCA, the Strategic Partnership Joint Action Plan, and the EPA. 
 
 ### Select Results
 
