@@ -27,10 +27,6 @@ Since 2014, the Government of Malawi has continuously reiterated its commitment 
 
 ### Sample Activities
 
-* Work with Ministry of Finance, Economic Planning, and Development’s Public Finance Management System Division to oversee and deliver public finance reforms, support broader change management and work with all relevant counterparts across the projects components to embed innovative approach to tackle complex delivery bottlenecks.
-* Apply behaviour change and problem-driven approaches to drive forward tangible and relevant results.
-* Work with stakeholders in the Malawi public procurement system to improve transparency and accountability of public procurement.
-* Work with the Department of Human Resource Management and Development to increase control over payroll, enhance pension and payroll processing, and transferring pension payments to the terminal benefits module of the human resources management information system.
-* Support commitment control to reduce arrears and better manage debt.
-* Develop a policy and governance framework for monitoring of parastatals and other government investments.
-* Strengthen Malawi's tax policy framework and improve internal tax and non-tax policy and planning capabilities.
+* Work with Ministry of Finance, Economic Planning, and Development’s Public Finance Management System Division to oversee and deliver public finance reforms, support change management, and work across the project’s components to tackle complex delivery bottlenecks.
+* Apply behavior change and problem-driven approaches to drive forward tangible results.
+* Work with stakeholders in the Malawi public procurement system to improve transparency and accountability.
