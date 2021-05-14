@@ -23,12 +23,12 @@ This project worked to accelerate the sustainable reform of the justice sector b
 
 ### Sample Activities
 
-* Implement best practices to reduce the level of corruption in the justice sector and increase public trust in the justice sector.
+* Implement best practices to reduce the level of corruption and increase public trust in the justice sector.
 * Implement efficient disciplinary mechanisms for the Superior Council of Magistrates, the Superior Council of Prosecutors, and the General Prosecutor’s Office.
 * Develop the capacity of the Ministry of Justice and the National Institute of Justice to ensure efficient professional education.
 
 ### Select Results 
 
 * Supported the assessment of the current status and results of judicial map reform in Moldova.
-* Prepared comparative report on existing systems for performance evaluation of prosecutors elaborated.
+* Prepared comparative report on existing systems for performance evaluation of prosecutors.
 * Produced training agenda for judges and prosecutors on judicial ethics.
