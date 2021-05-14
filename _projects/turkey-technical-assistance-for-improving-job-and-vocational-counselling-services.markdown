@@ -17,9 +17,9 @@ Turkey's labor market suffers from low employment rates, particularly among wome
 
 The Technical Assistance for Improving Job and Vocational Counselling Services project supports the Turkish Employment Agency (İŞKUR) to fulfil its mandate as the country's lead provider of public employment services. İŞKUR maintains a presence in all of Turkey's provincial directorates, and with 3.5 million people registered as unemployed in 2018, there is significant demand for its services. 
 
-At the agency's current staffing levels, each job and vocational counsellor is responsible for an estimated 900 unemployed people. While the recruitment of 830 counsellors in 2019 (until December) facilitated an improved ratio of unemployed people per counsellor, the need for İŞKUR to deliver its services as effectively and efficiently as possible is paramount. 
+At the agency's 2018 staffing levels, each job and vocational counsellor was responsible for an estimated 900 unemployed people. While İŞKUR's recruitment of 830 counsellors in 2019  improved this ratio, the agency still faces an urgent need deliver its services as effectively and efficiently as possible.
 
-Our project develops the institutional and human capacities of the Agency, alongside the development and utilisation of innovative tools designed to improve job matching and career guidance services and the further development of awareness-raising measures and coordination mechanisms.
+To do so, the project is developing İŞKUR's institutional and human capacities, along with  innovative tools to improve job matching and career guidance services and awareness-raising measures and coordination mechanisms.
  
 ### Sample Activities
 
@@ -27,7 +27,7 @@ Our project develops the institutional and human capacities of the Agency, along
 * Train job and vocational counsellors on policy implementation.
 * Develop vocational orientation tests and online counselling applications.
 * Produce awareness-raising short movies about İŞKUR and its services. 
-* Support the organisation of career expo and international congress of employment policies.
-* Conduct studies on inclusive service delivery models for disadvantaged groups, effective cooperation mechanisms, and evaluation of IŞKUR employment fairs and career days.
-* Support the organisation of international mutual exchange programmes, workshops with career centres of universities.
-* Improve coordination and cooperation with private employment agencies, social partners, and nongovernmental organisations. 
+* Support the organization of career expo and international congress of employment policies.
+* Conduct studies on inclusive service delivery models for disadvantaged groups, effective cooperation mechanisms, and IŞKUR employment fairs and career days.
+* Help organize international mutual exchange activities and workshops with university career services.
+* Improve coordination and cooperation with private employment agencies, social partners, and nongovernmental organizations. 
