@@ -4,7 +4,7 @@ date: 2017-10-06 19:20:00 Z
 summary: 'INVEST is a flexible, efficient buy-in mechanism that helps the U.S. Agency
   for International Development mobilize private capital to achieve its goals. '
 start: 2017
-end: 2022
+end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
