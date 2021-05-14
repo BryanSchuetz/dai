@@ -15,7 +15,7 @@ regions: Eastern Europe and Central Asia
 country: Turkey
 ---
 
-Energy consumption in Turkey has rapidly grown—especially in recent years due to the pace of urbanization, positive demographic trends, economic growth, and increasing per capita income. On the other hand, Turkey’s import dependency of energy along with the price fluctuations of these imports makes energy security one of the top priorities of the country. 
+In recent years, energy consumption in Turkey has grown rapidly, due to urbanization, positive demographic trends, economic growth, and increasing per capita income. However, the country remains dependent on imported sources of energy, which can experience price fluctuations—making energy security one of Turkey's top priorities.
 
 The Technical Assistance Project for Establishment of Boosting Effective and Sustainable Transformation for Energy (BEST for Energy) will increase the use of alternative energy sources in the overall energy mix, such as renewable energy sources, as well as supports the international competitiveness of the renewable energy industry and services. The project focuses on the city of İzmir and its vicinity to ensure the strong clustering in the renewable energy sector, which is essential to stimulating a long-term and self-sufficient development of an enabling environment for the renewable energy sector.
 
