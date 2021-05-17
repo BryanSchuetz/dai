@@ -127,7 +127,7 @@ body.st-ui-overlay-active {
 .promos .footer-inner,
 .country .container,
 .country .header-inner,
-.country .footer-inner {
+.country .footer-inner{
   @include responsive(extra-ultra-wide-screens) {
     @include width(14);
   }
@@ -838,6 +838,9 @@ footer {
   }
   @include responsive(ultra-wide-screens) {
     @include width(2.4);
+  }
+  @include responsive(covid-screens){
+    @include width(3.1);
   }
   float: left;
   margin-right: $gutter;
