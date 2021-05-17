@@ -20,4 +20,4 @@ Prior to his current role, Paul was the DAI Chief of Party for the [USAID Climat
 
 Before joining DAI, Paul worked for Mercy Corps for 12 years, including six years as Country Director in Indonesia and Timor-Leste. In these roles, Paul led large teams and a diverse portfolio of programs, including those focused on climate and disaster resilience, market development, private sector engagement, and health. Paul is fluent in Bahasa Indonesia.
 
-* B.Sc., Agriculture, University of Newcastle Upon Tyne
+* B.Sc., agriculture, University of Newcastle Upon Tyne
