@@ -1,13 +1,13 @@
 ---
 title: Robin Martino
 date: 2021-05-13 19:42:00 Z
-published: false
 lastname: Martino
 summary: 'Robin Martino is Chief of Party for the [Integrated Natural Resource Management
   (INRM) Activity](https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm).
   INRM provides on-demand technical assistance for USAID Missions, Bureaus, and Independent
   Offices across a wide array of environmental and natural resource management issues. '
 job-title: 'Chief of Party, Integrated Natural Resource Management project '
+image: "/uploads/Robin%20Martino.jpg"
 solutions:
 - Environment
 - Natural Resource Management
