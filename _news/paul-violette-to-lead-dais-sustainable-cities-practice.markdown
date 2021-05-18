@@ -7,7 +7,7 @@ solutions:
 - Water and Sanitation Services and Management
 ---
 
-DAI is delighted to welcome to the firm Paul Violette, a global thought leader in the field of environmental sustainability. Paul will manage DAI’s newly constituted Sustainable Cities practice, which will collaborate with cities and peri-urban communities to reduce waste and environmental pollution, transition to renewables, improve service delivery, boost inclusive and equitable economic growth, and strengthen governance and resilience.
+DAI is delighted to welcome to the firm [Paul Violette](https://www.dai.com/who-we-are/our-team/paul-violette), a global thought leader in the field of environmental sustainability. Paul will manage DAI’s newly constituted Sustainable Cities practice, which will collaborate with cities and peri-urban communities to reduce waste and environmental pollution, transition to renewables, improve service delivery, boost inclusive and equitable economic growth, and strengthen governance and resilience.
 
 “The challenge of our times is to address climate change, environmental degradation, plastic pollution, and biodiversity loss while at the same time advancing the economic growth that underpins the livelihoods of vulnerable people and communities all over the world,” he said. “Cities and their rapidly growing urban populations are at the heart of what is a multifaceted challenge—one that the multidisciplinary team at DAI is ideally suited to meet. I can’t wait to get started.”
 
