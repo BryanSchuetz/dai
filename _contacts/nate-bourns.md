@@ -1,7 +1,7 @@
 ---
 title: Nate Bourns
 date: 2016-01-21 22:18:00 Z
-job-title: 'Vice President, Geographic and Digital Platforms'
+job-title: Vice President, Geographic and Digital Platforms
 email: nate_bourns@dai.com
 summary: Nate helped develop and implement our portfolio of microfinance and enterprise
   development projects in Latin America for seven years, work that reinforced his
