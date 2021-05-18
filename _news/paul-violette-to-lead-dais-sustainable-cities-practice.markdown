@@ -2,6 +2,9 @@
 title: Paul Violette to Lead DAI’s Sustainable Cities Practice
 date: 2021-05-18 12:58:00 Z
 published: false
+solutions:
+- Environment
+- Water and Sanitation Services and Management
 ---
 
 DAI is delighted to welcome to the firm Paul Violette, a global thought leader in the field of environmental sustainability. Violette will manage DAI’s newly constituted Sustainable Cities Practice, which will collaborate with cities and peri-urban communities to reduce waste and environmental pollution, transition to renewables, improve service delivery, boost inclusive and equitable economic growth, and strengthen governance and resilience.
