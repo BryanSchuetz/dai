@@ -26,13 +26,13 @@ promos:
   link: https://www.youtube.com/watch?v=lnXWzARh8iE
 - title: 'Facilitating Inclusive Growth in Ethiopia: Think Systemically, Act Strategically,
     Adjust Frequently for Best Results'
-  link: "/uploads/Case%20Study%201%20(Standalone_Web).pdf"
+  link: "/uploads/Facilitating%20Inclusive%20Growth%20in%20Ethiopia.pdf"
 - title: 'Enterprise Partners in Support of Industrial Transformation: Building an
     Industrial Labour Services Market in Ethiopia'
-  link: "/uploads/Case%20Study%202%20(Standalone_Web).pdf"
+  link: "/uploads/Enterprise%20Partners%20in%20Support%20of%20Industrial%20Transformation.pdf"
 - title: 'Adaptive Management: From the Inside Looking Out'
   link: "/uploads/Case%20Study%203%20(Standalone_Web).pdf"
-- title: Transforming Financial Service Markets for Micro, Small and Medium Enterprises
+- title: Transforming Financial Service Markets for Micro, Small, and Medium Enterprises
     (MSMEs) in Ethiopia through Direct Technical Assistance to Financial Institutions
   link: "/uploads/Case%20Study%204%20(Standalone_Web).pdf"
 - title: 'Journeys to Impact: Charting New Pathways from Pilot to Scale for Market
@@ -72,3 +72,5 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Generated £43 million of additional investment into the economy.
 * Created more than 30,000 financial accounts.
 * Watch [this video](https://www.youtube.com/watch?v=_N8yhJk9Phc) to learn more about how the project worked.
+
+[Enterprise Partners in Support of Industrial Transformation.pdf](/uploads/Enterprise%20Partners%20in%20Support%20of%20Industrial%20Transformation.pdf)
