@@ -31,7 +31,7 @@ promos:
     Industrial Labour Services Market in Ethiopia'
   link: "/uploads/Enterprise%20Partners%20in%20Support%20of%20Industrial%20Transformation.pdf"
 - title: 'Adaptive Management: From the Inside Looking Out'
-  link: "/uploads/Case%20Study%203%20(Standalone_Web).pdf"
+  link: "/uploads/Adaptive%20Management-%20From%20the%20Inside%20Looking%20Out.pdf"
 - title: Transforming Financial Service Markets for Micro, Small, and Medium Enterprises
     (MSMEs) in Ethiopia through Direct Technical Assistance to Financial Institutions
   link: "/uploads/Case%20Study%204%20(Standalone_Web).pdf"
@@ -73,4 +73,4 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Created more than 30,000 financial accounts.
 * Watch [this video](https://www.youtube.com/watch?v=_N8yhJk9Phc) to learn more about how the project worked.
 
-[Enterprise Partners in Support of Industrial Transformation.pdf](/uploads/Enterprise%20Partners%20in%20Support%20of%20Industrial%20Transformation.pdf)
+[Adaptive Management- From the Inside Looking Out.pdf](/uploads/Adaptive%20Management-%20From%20the%20Inside%20Looking%20Out.pdf)
