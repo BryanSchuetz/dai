@@ -1,7 +1,6 @@
 ---
 title: Pakistan—Land Registration in Merged Areas (LRMA) Activity
 date: 2021-05-19 14:06:00 Z
-published: false
 summary: 'The Land Registration in Merged Areas Activity is establishing a land record
   and registration system in seven districts of northwestern Pakistan so that citizens,
   families, landowners, investors, banks, and government actors have access to accurate,
@@ -28,6 +27,5 @@ LRMA strengthens the legal framework that supports access to accurate ownership 
 
 * Advise the client on deploying innovative information and communications technology and survey technologies. In so doing, however, we will reinforce the use of “fit-for-purpose” technology—technology that balances speed, accuracy, and affordability.
 * Engage women and other marginalized groups in the design of activities to promote their rights in land settlement processes.
-* 
- 
- 
+* Build capacity to implement land settlement and deliver land records management services. 
+* Develop specific communication messages around the maintenance of land records to generate public buy-in and ownership.
