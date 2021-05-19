@@ -37,7 +37,7 @@ promos:
   link: "/uploads/Transforming%20Financial%20Service%20Markets%20for%20MSMEs.pdf"
 - title: 'Journeys to Impact: Charting New Pathways from Pilot to Scale for Market
     Systems Transformation in Ethiopia'
-  link: "/uploads/Case%20Study%205%20(Standalone_Web).pdf"
+  link: "/uploads/Journeys%20to%20Impact.pdf"
 - title: 'Changing the Rules with Evidence, Strategies, and Action: Lessons from Our
     Cotton and Leather Interventions'
   link: "/uploads/Case%20Study%206%20(Standalone_Web).pdf"
@@ -73,4 +73,4 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Created more than 30,000 financial accounts.
 * Watch [this video](https://www.youtube.com/watch?v=_N8yhJk9Phc) to learn more about how the project worked.
 
-[Transforming Financial Service Markets for MSMEs.pdf](/uploads/Transforming%20Financial%20Service%20Markets%20for%20MSMEs.pdf)
+[Journeys to Impact.pdf](/uploads/Journeys%20to%20Impact.pdf)
