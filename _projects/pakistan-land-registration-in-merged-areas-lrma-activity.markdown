@@ -11,6 +11,7 @@ client: U.S. Agency for International Development
 solutions:
 - Governance
 - Land Tenure and Property Rights
+- Environment
 regions: Eastern Europe and Central Asia
 country: Pakistan
 ---
