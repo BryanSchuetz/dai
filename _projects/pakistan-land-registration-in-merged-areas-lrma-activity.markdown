@@ -19,4 +19,10 @@ country: Pakistan
 The Land Registration in Merged Areas (LRMA) Activity is establishing a land record and registration system in seven districts of the Merged Areas (formerly the Federally Administered Tribal Areas) of northwestern Pakistan so that citizens, families, landowners, investors, banks, and government actors have access to accurate, understandable, and current records of their land rights. 
  
 LRMA strengthens the legal framework that supports access to accurate ownership and title records, equitable rights recognition, dispute resolution systems (both formal and informal), collateralization of land, and the private use of government land for revenue generation and economic development.
+
+![Screen Shot 2021-05-19 at 10.17.53 AM.png](/uploads/Screen%20Shot%202021-05-19%20at%2010.17.53%20AM.png)
+
+### Sample Activities
+
+
  
