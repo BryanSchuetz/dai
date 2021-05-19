@@ -41,6 +41,8 @@ promos:
 - title: 'Changing the Rules with Evidence, Strategies, and Action: Lessons from Our
     Cotton and Leather Interventions'
   link: "/uploads/Changing%20the%20Rules%20with%20Evidence,%20Strategies,%20and%20Action-Lessons%20from%20our%20Cotton%20and%20Leather%20Interventions.pdf"
+- title: Enterprise Partners' Monitoring and Results Measurement System and DCED Experience
+  link: "/uploads/Enterprise%20Partners'%20Monitoring%20and%20Results%20Measurement%20System%20and%20DCED%20Experience.pdf"
 layout: project
 ---
 
