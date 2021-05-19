@@ -40,7 +40,7 @@ promos:
   link: "/uploads/Journeys%20to%20Impact.pdf"
 - title: 'Changing the Rules with Evidence, Strategies, and Action: Lessons from Our
     Cotton and Leather Interventions'
-  link: "/uploads/Case%20Study%206%20(Standalone_Web).pdf"
+  link: "/uploads/Changing%20the%20Rules%20with%20Evidence,%20Strategies,%20and%20Action-Lessons%20from%20our%20Cotton%20and%20Leather%20Interventions.pdf"
 layout: project
 ---
 
@@ -72,5 +72,3 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Generated £43 million of additional investment into the economy.
 * Created more than 30,000 financial accounts.
 * Watch [this video](https://www.youtube.com/watch?v=_N8yhJk9Phc) to learn more about how the project worked.
-
-[Journeys to Impact.pdf](/uploads/Journeys%20to%20Impact.pdf)
