@@ -15,9 +15,9 @@ regions: Eastern Europe and Central Asia
 country: Pakistan
 ---
 
-The Government of Khyber Pakhtunkhwa Settlement and Land Record project is a major commitment to the people of the province’s Merged Areas of northwestern Pakistan. The commitment is not only in terms of monetary and human resources—it is a commitment to provide the economic, social, and gender equity benefits of secure land tenure and property rights. By so doing, the project is a crucial contribution to overcoming the economic and social development lags of the areas.  
-
-The Land Registration in Merged Areas (LRMA) Activity contributes to the project by establishing a land record and registration system in seven districts of the Merged Areas (formerly the Federally Administered Tribal Areas) so that citizens, families, landowners, investors, banks, and government actors have access to accurate, understandable, and current records of their land rights. 
+The Government of Khyber Pakhtunkhwa’s Tribal Decade Strategy commits to providing the economic, social, and gender equity benefits of secure land tenure and property rights to the people of the Merged Areas of northwestern Pakistan.
+ 
+The Land Registration in Merged Areas (LRMA) Activity contributes to this strategy by establishing a land record and registration system in seven districts of the Merged Areas (formerly the Federally Administered Tribal Areas) so that citizens, families, landowners, investors, banks, and government actors have access to accurate, understandable, and current records of their land rights. 
  
 LRMA strengthens the legal framework that supports access to accurate ownership and title records, equitable rights recognition, dispute resolution systems (both formal and informal), collateralization of land, and the private use of government land for revenue generation and economic development.
 
