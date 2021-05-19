@@ -34,7 +34,7 @@ promos:
   link: "/uploads/Adaptive%20Management-%20From%20the%20Inside%20Looking%20Out.pdf"
 - title: Transforming Financial Service Markets for Micro, Small, and Medium Enterprises
     (MSMEs) in Ethiopia through Direct Technical Assistance to Financial Institutions
-  link: "/uploads/Case%20Study%204%20(Standalone_Web).pdf"
+  link: "/uploads/Transforming%20Financial%20Service%20Markets%20for%20MSMEs.pdf"
 - title: 'Journeys to Impact: Charting New Pathways from Pilot to Scale for Market
     Systems Transformation in Ethiopia'
   link: "/uploads/Case%20Study%205%20(Standalone_Web).pdf"
@@ -73,4 +73,4 @@ DAI implemented this work with consortium partners First Consult (Ethiopia), Ita
 * Created more than 30,000 financial accounts.
 * Watch [this video](https://www.youtube.com/watch?v=_N8yhJk9Phc) to learn more about how the project worked.
 
-[Adaptive Management- From the Inside Looking Out.pdf](/uploads/Adaptive%20Management-%20From%20the%20Inside%20Looking%20Out.pdf)
+[Transforming Financial Service Markets for MSMEs.pdf](/uploads/Transforming%20Financial%20Service%20Markets%20for%20MSMEs.pdf)
