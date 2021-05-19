@@ -4,7 +4,10 @@ date: 2021-05-19 14:55:00 Z
 published: false
 lastname: Vo
 summary: Brian Vo leads DAI's Market Solutions practice.
-job-title: Global Practice Lead, Market Solutions
+job-title: Global Practice Lead, Market Solutions, DAI Global Health
+image: "/uploads/1%20Brian%20Vo%20Headshot%20-%20small.jpg"
+solutions:
+- Global Health
 regions:
 - Worldwide
 ---
