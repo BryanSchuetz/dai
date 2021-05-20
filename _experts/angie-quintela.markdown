@@ -1,10 +1,10 @@
 ---
 title: Angie Quintela
 date: 2018-09-26 18:12:00 Z
+published: false
 lastname: Quintela
-summary: 'Angie Quintela is an education and governance specialist with a cross-cutting
-  focus on gender and inclusion, and is a founding member of DAI’s education practice. '
-job-title: 'Senior Global Practice Specialist, Education '
+summary: Angie Quintela is a Senior Project Manager.
+job-title: 'Senior Project Manager '
 image: "/uploads/Angie%20Quintela%20copy.png"
 solutions:
 - Governance
@@ -24,5 +24,5 @@ She has also supported the innovative use of technology in learning, with experi
 
 Angie has been certified in project management in development, and has substantial experience in every aspect of project management from design to startup to close-out, including in developing and managing project monitoring and evaluation and ensuring knowledge sharing across programs. Angie comes to DAI from the Academy of Educational Development and FHI 360. 
 
-* MALD, international affairs, The Fletcher School, Tufts University
+* M.A.L.D., international affairs, The Fletcher School, Tufts University
 * B.A., anthropology, The College of William and Mary
