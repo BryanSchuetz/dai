@@ -839,9 +839,6 @@ footer {
   @include responsive(ultra-wide-screens) {
     @include width(2.4);
   }
-  @include responsive(covid-screens){
-    @include width(3.1);
-  }
   float: left;
   margin-right: $gutter;
   ul {
@@ -856,6 +853,11 @@ footer {
 .promos .footer-nav {
   @include responsive(extra-ultra-wide-screens) {
     @include width(2.8);
+  }
+}
+.covid .footer-nav{
+    @include responsive(covid-screens){
+    @include width(3.1);
   }
 }
 .footer-nav.working {
