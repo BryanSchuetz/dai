@@ -1,19 +1,17 @@
 ---
 title: Former Finance Vice Minister Eduardo Fernandez Joins DAI
 date: 2012-03-19 18:05:00 Z
-summary: 'Dr. Eduardo Fernandez, Colombia''s former vice minister of finance and national
-  budget director, recently joined DAI as managing director for governance in the
-  Mexico office.
-
-'
 solutions:
 - Economic Growth
 - Finance and Investment
 - Public Financial Management
 regions:
 - Latin America and the Caribbean
-projects: 
-clients: 
+summary: 'Dr. Eduardo Fernandez, Colombia''s former vice minister of finance and national
+  budget director, recently joined DAI as managing director for governance in the
+  Mexico office.
+
+'
 layout: node
 ---
 
@@ -25,7 +23,7 @@ He has served as a senior governance consultant on projects in Peru, Ecuador, Co
 
 "We are delighted that Dr. Fernandez has joined our team," said [Nate Bourns][2], managing director of DAI Mexico. "As more Latin American governments at all levels search for ways to strengthen their financial performance and outlook, it is great for DAI to now have one of the best in the business at doing just that."
 
-Fernandez joins a public finance practice with a record of delivering results in diverse contexts all over the world. In [El Salvador][5], DAI's team increased tax revenues by 2 percent of gross domestic product without raising rates. In [Jordan][6], we rolled out a state-of-the-art financial management information system. In [Moldova][7], we introduced an electronic filing solution now used by 30,000 taxpayers. In Michoacán State, Mexico, we produced the state's first ever medium-term expenditure framework. In Bosnia & Herzegovina, we tripled registered taxpayers and halved collection costs.
+Fernandez joins a public finance practice with a record of delivering results in diverse contexts all over the world. In [El Salvador][5], DAI's team increased tax revenues by 2 percent of gross domestic product without raising rates. In [Jordan][6], we rolled out a state-of-the-art financial management information system. In [Moldova][7], we introduced an electronic filing solution now used by 30,000 taxpayers. In Michoacán State, Mexico, we produced the state's first-ever medium-term expenditure framework. In Bosnia & Herzegovina, we tripled registered taxpayers and halved collection costs.
 
 "In the world of public financial management, knowing what works is valuable, making it work is what counts," said Fernandez. "I am confident that in joining DAI, I am joining a team that will make a difference for national and subnational governments where it counts."
 
