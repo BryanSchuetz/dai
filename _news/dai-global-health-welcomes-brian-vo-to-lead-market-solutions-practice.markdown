@@ -9,7 +9,7 @@ summary: 'DAI is delighted to announce the appointment of [Brian Vo](https://www
 social-image: "/uploads/Brian%20Vo%20Headshot%20-%20small.jpg"
 ---
 
-DAI is delighted to announce the appointment of [Brian Vo](https://www.dai.com/who-we-are/our-team/brian-vo) to lead the Market Solutions practice in its Global Health Business. The Market Solutions practice focuses on integrating market-based tools and approaches into our technical designs, re-imagining partnerships with the private sector and social enterprises to generate new health solutions, and deploying investment skills and capital to achieve health outcomes.
+DAI is delighted to announce the appointment of [Brian Vo](https://www.dai.com/who-we-are/our-team/brian-vo) to lead the Market Solutions practice in its Global Health business. The Market Solutions practice focuses on integrating market-based tools and approaches into our technical designs, re-imagining partnerships with the private sector and social enterprises to generate new health solutions, and deploying investment skills and capital to achieve health outcomes.
 
 Vo was most recently Vice President of Social Investment and Innovative Finance at Pact, where he led Pact Ventures and Pact Institute in developing corporate and foundation partnerships to magnify social impact by testing new delivery models that integrate market-based mechanisms. 
 
