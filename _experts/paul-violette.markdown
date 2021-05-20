@@ -1,13 +1,13 @@
 ---
 title: Paul Violette
 date: 2021-05-18 13:08:00 Z
-published: false
 lastname: Violette
 summary: Paul Violette manages DAI’s Sustainable Cities practice, which collaborates
   with cities and peri-urban communities to reduce waste and environmental pollution,
   transition to renewables, improve service delivery, boost inclusive and equitable
   economic growth, and strengthen governance and resilience.
 job-title: 'Practice Leader, Sustainable Cities '
+image: "/uploads/Violette_High%20Resolution.jpg"
 solutions:
 - Environment
 ---
