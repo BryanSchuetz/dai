@@ -13,7 +13,7 @@ DAI is delighted to announce the appointment of [Brian Vo](https://www.dai.com/w
 
 Vo was most recently Vice President of Social Investment and Innovative Finance at Pact, where he led Pact Ventures and Pact Institute in developing corporate and foundation partnerships to magnify social impact by testing new delivery models that integrate market-based mechanisms. 
 
-![Vo baby.jpg](/uploads/Vo%20baby.jpg)
+![Vo baby.jpg](/uploads/Vo%20baby.jpg)`Brian Vo, pictured here with his daughter during the COVID-19 lockdown.`
 
 “I’m thrilled to be joining the global DAI team,” said Vo, who will be based in Washington, D.C. “It’s clear that markets are key to scaling delivery and care outcomes; public and donor funding can only reach so far. By leveraging innovative finance, market-based mechanisms, and high-impact social enterprises we can activate the private sector to help us scale health solutions that work. Building on DAI’s long history and commitment to engaging the private sector—through its [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business), [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital), and other teams—our Market Solutions practice will serve as the connective tissue to better leverage DAI’s broader capabilities in the health arena.”
 
