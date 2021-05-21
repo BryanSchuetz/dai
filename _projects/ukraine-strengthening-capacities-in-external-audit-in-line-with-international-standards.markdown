@@ -16,11 +16,11 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-Strong and efficient public financial management (PFM) is key for sustained economic growth and efficient provision of public services in Ukraine. The government’s PFM Strategy from 2017 was adopted with the goal to develop a modern and efficient system capable of providing public services efficiently while making use of available resources and allocating them in a clear consistency with development priorities. 
+Strong and efficient public financial management (PFM) is key for sustained economic growth and efficient provision of public services in Ukraine. The government adopted its 2017 PFM strategy to develop a modern and efficient system capable of providing efficient public services while allocating resources to align development priorities. 
 
-The external audit is an explicit part of the PFM strategy. However, the organisational and institutional capacities of Ukraine’s Supreme Audit Institution, the Accounting Chamber of Ukraine (ACU), need further strengthening and development. 
+The external audit is an explicit part of the PFM strategy. However, the organizational and institutional capacities of Ukraine’s Supreme Audit Institution, the Accounting Chamber of Ukraine (ACU), require further strengthening and development. 
 
-This project is designed to support the reform of external audit of budgetary funds by the ACU in line with the government's PFM Strategy and Action Plan. One of the main goals of the project is to strengthen the ACU’s institutional capacities in external audit consistent with international principles and standards. The four components of the project address legislative approximation and regulatory changes, institutional development, improvement of audit methodology, and strengthening of followup mechanisms and communication on the main results of ACU's work.
+This European Union project supports ACU to reform its external audit of budgetary funds in line with the government's PFM strategy and action plan. One of the project's main goals is to strengthen the ACU’s institutional capacities in external audit consistent with international principles and standards. The four components of the project address legislative approximation and regulatory changes, institutional development, improvement of audit methodology, and strengthening of followup mechanisms and communication on the main results of ACU's work.
 
 ![Ukraine_PFM Audit.jpg](/uploads/Ukraine_PFM%20Audit.jpg)
 
