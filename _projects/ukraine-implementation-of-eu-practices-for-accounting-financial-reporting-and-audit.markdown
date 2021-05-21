@@ -16,7 +16,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-Economic and political turbulence have marked Ukraine’s recent past. This turbulence not only disrupted the country's macroeconomic and financial stability, but also undermined its  investment climate, access to financial services for citizens and businesses, trade, and job creation. While positive  economic trends are emerging, challenges remain.
+Economic and political turbulence have marked Ukraine’s recent past. These conditions have not only disrupted the country's macroeconomic and financial stability, but also undermined its  investment climate, access to financial services for citizens and businesses, trade, and job creation. While positive  economic trends are emerging, challenges remain.
 
 The European Union-funded Implementation of EU Practices for Accounting, Financial Reporting, and Audit project works to address the various technical barriers that stand in the way of Ukraine’s economic development and success. Ukraine's public and private sectors require further reform to develop an economy that can deliver balanced and sustainable growth that brings the country closer to Europe. 
 
