@@ -18,7 +18,7 @@ Occupational health and safety (OHS) remains a key concern in Turkey. In 2017, o
 
 Improving OHS in Turkey is imperative. In support of this effort, DAI implemented the first phase of the Technical Assistance for Strengthening Institutional Capacity of the Centre for Labour and Social Training and Research (ÇASGEM) program from 2015 to 2017. Our work with ÇASGEM and in-depth knowledge of its institutional needs now guide our experience in implementing the intervention's second phase.
  
-The current project supports ÇASGEM, medical, and rehabilitation professionals through new learning modules. The program also works with ÇASGEM to implement capacity building activities necessary to meet the goals on requirements of safety and security in labour and social life. 
+The current project supports ÇASGEM, medical, and rehabilitation professionals through new learning modules. The program also works with ÇASGEM to implement capacity building activities necessary to meet the goals on requirements of safety and security in labor and social life. 
 
 ### Sample Activities
 
