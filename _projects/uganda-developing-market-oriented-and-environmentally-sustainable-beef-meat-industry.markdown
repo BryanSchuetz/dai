@@ -29,7 +29,7 @@ The project also improves marketing and transportation to stimulate demand for s
 
 ## Select Results
 
-* Delivered six Regulatory Impact Assessments with suggested actions and amendments in national regulations on animal feeds, veterinary practitioners, meat sector development, livestock identification and traceability, animal breeding, and animal disease control. 
+* Delivered six Regulatory Impact Assessments with suggestions for national regulations for animal feeds, veterinary practitioners, meat sector development, livestock identification and traceability, animal breeding, and animal disease control. 
 * Reviewed the Agricultural Sector Support Plan and helped develop a sectorial plan for the beef industry in Uganda.
 * Conducted a benchmarking trip to Botswana with government and beef industry representatives to learn about sustainable business planning, vet services, vaccine production, and commercial farm operations provided by local meat commission and community livestock holdings. 
 * Provided technical assistance to evaluate  bidders of the Sanga slaughterhouse in Uganda, a new facility compatible with sustainable farming standards.
