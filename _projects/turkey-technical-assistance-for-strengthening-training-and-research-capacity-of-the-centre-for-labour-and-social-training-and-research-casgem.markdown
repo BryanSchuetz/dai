@@ -2,9 +2,9 @@
 title: Turkey—Technical Assistance for Strengthening Training and Research Capacity
   of the Centre for Labour and Social Training and Research (ÇASGEM)
 date: 2020-08-14 11:26:00 Z
-summary: This project supports the Training and Research Centre for Labour and Social
-  Security, medical, and rehabilitation professionals by developing new learning modules
-  targeting to raise their capacity.
+summary: This project supports Turkey's Training and Research Centre for Labour and
+  Social Security, medical, and rehabilitation professionals by developing new learning
+  modules on occupational health and safety
 start: 2020
 end: 2023
 client: European Union
@@ -14,11 +14,11 @@ regions: Eastern Europe and Central Asia
 country: Turkey
 ---
 
-Occupational health and safety (OHS) remains a key concern in Turkey. In 2017, out of 15,676,733 insured employees, 359,653 of them suffered from occupational accidents; 691 reported cases of occupational disease; and 1,636 employees lost their lives. Occupational accidents and diseases cost the Turkish economy €1.66 billion per year.
+Occupational health and safety (OHS) remains a key concern in Turkey. In 2017, out of 15,676,733 insured employees, 359,653 suffered from occupational accidents; 691 reported cases of occupational disease; and 1,636 lost their lives. Occupational accidents and diseases cost the Turkish economy €1.66 billion per year.
 
-Improving OHS in Turkey is imperative. In support of this effort, DAI implemented the first phase of the Technical Assistance for Strengthening Institutional Capacity of ÇASGEM program from 2015 to 2017. Our experience with the Training and Research Centre for Labour and Social Security (ÇASGEM) and in-depth knowledge of its institutional needs guide our experience in implementing the intervention's second phase.
+Improving OHS in Turkey is imperative. In support of this effort, DAI implemented the first phase of the Technical Assistance for Strengthening Institutional Capacity of the Centre for Labour and Social Training and Research (ÇASGEM) program from 2015 to 2017. Our work with ÇASGEM and in-depth knowledge of its institutional needs now guide our experience in implementing the intervention's second phase.
  
-The Technical Assistance for Strengthening Training and Research Capacity of the Centre for Labour and Social Training and Research (ÇASGEM) project supports ÇASGEM, medical, and rehabilitation professionals through new learning modules. The project works with ÇASGEM to implement capacity building activities necessary to meet the goals on requirements of safety and security in labour and social life. 
+The current project supports ÇASGEM, medical, and rehabilitation professionals through new learning modules. The program also works with ÇASGEM to implement capacity building activities necessary to meet the goals on requirements of safety and security in labour and social life. 
 
 ### Sample Activities
 
