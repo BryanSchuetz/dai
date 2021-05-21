@@ -25,8 +25,8 @@ Sessions will bring together representatives from the public and private sectors
 ## Summer Sessions 
 
 * [May 19: Agrifinance for transformation: Partnering along sustainable value chains](/2021-webinar-1) 
-* June 9: How COVID-19 is boosting digital financial inclusion 
-* June 30: COVID-19 recovery in fragile and conflict-affected countries 
+* [June 9: How COVID-19 is boosting digital financial inclusion](/2021-webinar-2)
+* [June 30: COVID-19 recovery in fragile and conflict-affected countries](/2021-webinar-3)
 
 ## Post-Summer Sessions 
 

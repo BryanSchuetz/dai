@@ -26,3 +26,6 @@ This session explores how to effectively finance the diversification and upgradi
 * [Bettina Prato](https://www.ifad.org/en/profile/id/295569299), Senior Coordinator for the Smallholder and Agri-SME Finance and Investment Network (SAFIN), International Fund for Agricultural Development (IFAD) 
 * [Suzanne van Tilburg](https://www.linkedin.com/in/suzanne-van-tilburg/), Global Head F&A Networks, Rabobank 
 * [Bill Grant](/who-we-are/our-team/bill-grant), Senior Principal Global Practice Specialist, Agriculture and Market Systems 
+
+<h3>Recording:</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OhiNTm1LX6E?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
