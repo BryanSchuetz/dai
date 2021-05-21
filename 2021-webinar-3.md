@@ -1,5 +1,5 @@
 ---
-title: 'COVID-19 recovery in fragile and conflict affected countries'
+title: COVID-19 recovery in fragile and conflict affected countries
 permalink: "/2021-webinar-3"
 layout: default
 ---

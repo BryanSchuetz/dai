@@ -1,5 +1,5 @@
 ---
-title: 'How COVID-19 is boosting Digital Financial Inclusion'
+title: How COVID-19 is boosting Digital Financial Inclusion
 permalink: "/2021-webinar-2"
 layout: default
 ---
