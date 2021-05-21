@@ -16,7 +16,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-Strong and efficient public financial management (PFM) is key for sustained economic growth and efficient provision of public services in Ukraine. The government adopted its 2017 PFM strategy to develop a modern and efficient system capable of providing efficient public services while allocating resources to align development priorities. 
+Strong and efficient public financial management (PFM) is key for sustained economic growth and efficient provision of public services in Ukraine. The government adopted its 2017 PFM strategy to develop a modern system to efficiently provide public services and allocate resources to align with development priorities. 
 
 The external audit is an explicit part of the PFM strategy. However, the organizational and institutional capacities of Ukraine’s Supreme Audit Institution, the Accounting Chamber of Ukraine (ACU), require further strengthening and development. 
 
