@@ -1,8 +1,8 @@
 ---
 title: Turkmenistan—Public Administration Capacity Building
 date: 2020-04-21 13:08:00 Z
-summary: 'The Public Administration Capacity Building programme in Turkmenistan supports
-  the modernisation of the Turkmen Public Administration in line with European standards. '
+summary: 'The Public Administration Capacity Building program in Turkmenistan supports
+  the modernization of the Turkmen Public Administration in line with European standards. '
 start: 2016
 end: 2021
 client: European Union
@@ -28,8 +28,8 @@ In addition to working with the Academy of Civil Servants, DAI also engages with
 
 ### Select Results
  
-* Developed a Master of Public Administration program for the Academy of Civil Service under the President of Turkmenistan.  
-* Organized workshops and consultations for professors and lecturers from the Academy of Civil Service and other educational institutions on the contents and the provisional structure of the MPA. Two rounds of training of trainers' workshops with of36 participants were delivered. Four workshops on the master's programme were conducted with 177 participants. Two working group meetings on the programme were held with 40 participants. One human resource management workshop was held with 27 participants.
-* Developed a concept for an e-library, approved by the Rector of the Academy, to allow access to facilitate professional training of civil servants.
-* Developed a [website](https://publicadmin-tm.eu/) with detailed information about the activities of the technical assistance, and access to a learning management system for distance-learning purposes with relevant training materials for Turkmen civil servants, professors, lecturers, and students. 
-* Launched the Young Professionals initiative to identify young, bright, well-educated professors outside of the Academy who possess experience in public administration, innovative ideas, and willingness to participate in the development of the programme.
+* Developed a Master of Public Administration (MPA) program for the Academy of Civil Service under the President of Turkmenistan.  
+* Organized workshops and consultations for professors and lecturers from the Academy of Civil Service and other educational institutions on the contents and the provisional structure of the MPA. This included two rounds of training of trainers' workshops for 36 participants, four workshops on the MPA program for 177 participants, two working group meetings with 40 participants, and a human resource management workshop for 27 participants. 
+* Developed the concept for an e-library to  facilitate professional training of civil servants.
+* Developed a project [website](https://publicadmin-tm.eu/) and learning management system for distance-learning purposes with training materials for Turkmen civil servants, professors, lecturers, and students. 
+* Launched the Young Professionals initiative to identify young, bright, well-educated professors outside of the Academy who possess experience in public administration, innovative ideas, and willingness to participate in the program's development.
