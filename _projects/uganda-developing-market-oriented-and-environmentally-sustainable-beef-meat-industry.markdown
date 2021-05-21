@@ -13,7 +13,7 @@ regions: Sub-Saharan Africa
 country: Uganda
 ---
 
-This programme contributes to a competitive, profitable, job-intensive, gender-responsive, and environmentally sustainable agricultural sector in Uganda. Our team uses a value chain approach in targeted areas to boost the overall performance—such as production volume, quality, value addition, increased employment, and environmental sustainability—of the meat sector.
+The Developing Market-Oriented and Environmentally Sustainable Beef Meat Industry project contributes to a competitive, profitable, job-intensive, gender-responsive, and environmentally sustainable agricultural sector in Uganda. DAI uses a value chain approach in targeted areas to boost the overall performance of the meat sector, including its production volume, quality, value addition, employment rate, and environmental sustainability.
 
 We bring together public and private players with smallholder farmers and beef-related agriculture firms to promote an environmentally sustainable, climate-resilient, low-emission, local, and regional meat industry. 
 
