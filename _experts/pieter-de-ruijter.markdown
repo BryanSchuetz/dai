@@ -1,6 +1,7 @@
 ---
 title: Pieter de Ruijter
 date: 2017-06-02 12:59:00 Z
+published: false
 lastname: Ruijter
 summary: Pieter de Ruijter has more than 30 years of experience in health care technology
   systems development, specialising in the design and development of planning and
