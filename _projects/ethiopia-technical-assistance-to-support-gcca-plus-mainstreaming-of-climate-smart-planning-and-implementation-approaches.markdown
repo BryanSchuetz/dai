@@ -23,12 +23,12 @@ Using instruments such as GIS and remote sensing for monitoring and evaluation, 
 * Enhance institutional and technical capacity in planning, implementation, and monitoring for climate-smart outcomes in PSNP4’s public works and livelihoods components.
 * Generate evidence to promote dialogue on climate-sensitive development programming and climate financing.
 
-![2-0a212b.jpg](/uploads/2-0a212b.jpg)
+<iframe src="https://player.vimeo.com/video/555353932" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
 
 * Map climate hazard and vulnerability together with current use of climate-smart practices and technologies.
-* Design and roll out a national roadmap for mainstreaming of climate-smart procedures, tools, and processes.
+* Design and roll out a national roadmap for mainstreaming climate-smart procedures, tools, and processes.
 * Strengthen monitoring and evaluation of adaptation and resilience activities, and carbon sequestration.
 * Support linkages of PSNP planning processes with climate and disaster risk reduction and early warning systems.
 * Perform GIS mapping and codification of watersheds and micro watersheds in 22 focus districts.
