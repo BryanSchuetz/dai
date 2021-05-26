@@ -23,7 +23,7 @@ This session explores how to effectively finance the diversification and upgradi
 
 * Moderator: [San Bilal](https://ecdpm.org/people/sanbilal/), Head of Programme Economic and Agricultural Transformation, ECDPM 
 * Matthew Brooke, Policy Officer, Private sector/Agribusiness, Directorate-General for International Partnerships (DG INTPA), European Commission  
-* [Bettina Prato](https://www.ifad.org/en/profile/id/295569299), Senior Coordinator for the Smallholder and Agri-SME Finance and Investment Network (SAFIN), International Fund for Agricultural Development (IFAD) 
+* [Bettina Prato](https://www.ifad.org/en/profile/id/295569299), Senior Coordinator for the Smallholder and Agri-SME Finance and Investment Network (SAFIN) 
 * [Suzanne van Tilburg](https://www.linkedin.com/in/suzanne-van-tilburg/), Global Head F&A Networks, Rabobank 
 * [Bill Grant](/who-we-are/our-team/bill-grant), Senior Principal Global Practice Specialist, Agriculture and Market Systems 
 
