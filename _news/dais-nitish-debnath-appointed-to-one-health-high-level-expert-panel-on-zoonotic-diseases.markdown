@@ -1,0 +1,24 @@
+---
+title: DAI’s Nitish Debnath Appointed to One Health High-Level Expert Panel on Zoonotic
+  Diseases
+date: 2021-05-26 12:40:00 Z
+published: false
+solutions:
+- Global Health
+- Global Health Security and Pandemic Preparedness
+regions: Asia and the Pacific
+projects: Bangladesh—Fleming Fund
+clients: Foreign, Commonwealth & Development Office
+country: Bangladesh
+---
+
+Professor Nitish Chandra Debnath, DAI’s Country Team Lead for the Fleming Fund Bangladesh program, is one of 26 global experts selected to serve on an expert panel convened to advise leading global health agencies on the development of a plan to avert disease outbreaks with the potential to trigger pandemics. Professor Debnath has championed the One-Health movement in Bangladesh since its inception in 2008 and is currently Chair of One Health Bangladesh.
+
+The agencies—the Food and Agriculture Organization of the United Nations; the World Organisation for Animal Health; the United Nations Environment Programme; and the World Health Organization (WHO)—announced the creation of the new panel on May 20.  They declared that the panel will operate under the One Health Approach, which recognizes the links between the health of people, animals, and the environment, and highlights the need for specialists in multiple sectors to address any health threats and prevent disruption to agri-food systems.
+
+A veterinary virologist by training, Debnath served in Bangladesh’s Department of Livestock Services before joining the Bangladesh Livestock and Research Institute as a senior scientist. He was the founding Vice-Chancellor of the Chattogram Veterinary and Animal Sciences University, which began as a veterinary college within the University of Chattogram under his leadership. Debnath continues to be affiliated with various national, regional, and global organizations associated with One-Health. 
+Since the beginning of 2020, Professor Debnath has led DAI‘s Fleming Fund program in Bangladesh, which is collaborating with the government to strengthen systems using a One Health approach. The program is funded by the U.K. Department of Health and Social Care and is focused on enhancing antimicrobial resistance surveillance capacity across animal, aquatic, and human health sectors.
+
+“The scientific evidence supporting the integration of the One Health approach into practice is stronger than ever, yet it remains no sector’s priority,” said Professor Debnath. “The unprecedented human misery caused by COVID-19, however, appears to have led governments, development partners, UN agencies, and informed civil societies to agree that One Health in practice needs to be the highest priority. This Expert Panel will work towards achieving that goal and I am very pleased to be a part of this initiative.”
+
+“The selection of Professor Nitish to the new One Health High-Level Expert Panel is a recognition of his contribution to the One-Health movement,” said DAI Global Health Senior Vice President Jenny Baker. “I’m delighted that the Panel will be able to benefit from his excellent technical expertise and experience.”
