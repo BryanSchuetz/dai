@@ -21,6 +21,19 @@ DAI has always been employee-owned. As the company expanded outside the United S
 
 DAI’s model is broad-based—85 percent of employees have opted to buy shares—and no single employee may own more than 10 percent of the equity. All corporate employees around the world, regardless of location or salary level, receive a grant to jump-start their ownership experience. Then, each year, employees may buy or sell shares. Over the long term, share ownership has given hundreds of DAI employees the opportunity to build financial security. 
 
+<aside>
+  <h3>It’s Time to Put Employee Ownership on the Inclusiveness Agenda</h3>
+  <img src="/uploads/ssir-article-image.jpg" alt="SSIR Logo">
+  <blockquote>
+    <p>We are told that we live in an age of tribalism, when political and cultural allegiances shape our view of the world. But there is at least one thing that Democrats, Republicans, and Independents all agree on: they would all rather work in an employee-owned firm than some other kind of enterprise. “Americans disagree about a lot of things, but this is not one of them,” said Professor Joseph Blasi, Director of the Rutgers Institute for the Study of Employee Ownership and Profit Sharing. “Democrat or Republican, female or male, black or white, union or non-union, a majority of respondents said they prefer to work for a company with employee share ownership.”</p>
+    <p><a href="/who-we-are/leadership/james-boomgard">-James Boomgard</a></p>
+  </blockquote>
+  <a href="https://ssir.org/articles/entry/its_time_to_put_employee_ownership_on_the_inclusiveness_agenda" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70"
+      preserveAspectRatio="xMinYMax meet">
+      <use xlink:href="#redirect"></use>
+    </svg></a>
+</aside>
+
 ## Recognized for Innovation 
 
 In 2016, the Global Equity Organization, an association dedicated to advancing employee share ownership, presented DAI with its award for [Best Use of a Share Plan in a Private Company](https://www.dai.com/news/dai-employee-ownership-initiative-wins-prestigious-award). “DAI has raised the bar in achieving its corporate objectives and inclusively engaging its workforce as owners,” the evaluators wrote.   
