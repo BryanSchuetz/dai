@@ -5,7 +5,7 @@ lastname: Wallis
 summary: Catherine Wallis has worked in international development for 14 years  with
   public, commercial, and nonprofit clients across inclusive and sustainable agricultural
   supply chains, climate, and environmental sectors.
-job-title: Principal Consultant, Environment, Climate, and Livelihoods
+job-title: Principal Consultant, Climate and Natural Resources Management
 image: https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg
 solutions:
 - Energy
@@ -15,6 +15,8 @@ solutions:
 - Natural Resource Management
 - Sustainable and Accountable Health Services
 - Supply Chain
+regions:
+- Worldwide
 layout: expert
 ---
 
