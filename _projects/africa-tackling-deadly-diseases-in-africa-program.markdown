@@ -35,6 +35,8 @@ promos:
   link: 'https://tacklingdeadlydiseasesinafrica.org '
 - title: Visitez le site Web du programme
   link: https://afriquecontrelesepidemies.org
+- title: 'Health Equity is Key to Global Health Security Goals: Learning from COVID-19'
+  link: https://dai-global-developments.com/articles/health-equity-is-key-to-global-health-security-goals-learning-from-covid-19
 ---
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
