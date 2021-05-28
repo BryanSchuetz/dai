@@ -1,6 +1,7 @@
 ---
 title: Patricia Sturgess
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Sturgess
 summary: Patricia Sturgess has a unique background that combines more than 13 years
   of experience in the private, public and voluntary sectors, with expertise in livelihoods,
