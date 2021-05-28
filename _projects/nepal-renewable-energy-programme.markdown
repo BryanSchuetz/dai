@@ -35,3 +35,4 @@ The programme’s intended outcome is for government institutions and the privat
 
 * Built a Sustainable Energy Challenge Fund Application Portal that accepts applications for needs-based public sector financial assistance to de-risk and catalyze private sector investments in distributed renewable energy, primarily in the commercial and industrial markets.
 * Brought to a financial close NREP’s first distributed renewable energy project.
+* Launched the Sustainable Energy Challenge Fund to create an investment climate to catalyse private sector investments in renewable energy, diversify Nepal’s non-hydro energy generation mix, enable year-round renewable energy generation, and aim for zero emissions by 2050 through a long-term, low-carbon economic development strategy.
