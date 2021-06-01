@@ -1,7 +1,6 @@
 ---
 title: DAI to Establish Land Registration System in Northwestern Pakistan
-date: 2021-06-01 15:36:00 Z
-published: false
+date: 2021-06-01 13:06:00 Z
 solutions:
 - Land Tenure and Property Rights
 - Environment
