@@ -12,7 +12,7 @@ layout: default
 
 ![webinar postcard](/uploads/Digital%20postcard%20upd.jpg)
 
-**Description**: The COVID-19 pandemic represents a threat to the financial inclusion efforts achieved globally over the past decade. However, the crisis also holds the potential to boost financial digitalisation and turn out to be a game changer for financial inclusion of the most vulnerable population, in particular your and women. This panel will discuss the state of the financial inclusion sector and the potential innovations that can be brought by digital solutions.  
+**Description**: The COVID-19 pandemic represents a threat to the financial inclusion efforts achieved globally over the past decade. However, the crisis also holds the potential to boost financial digitalisation and turn out to be a game changer for financial inclusion of the most vulnerable population, in particular youth and women. This panel will discuss the state of the financial inclusion sector and the potential innovations that can be brought by digital solutions.  
 
 <aside>
 <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVcgJ3Z8POLJF3iMRv052W1MCH0sDFEHs-WmT-W9tqmEUscw/viewform">Register Here</a></h2>
