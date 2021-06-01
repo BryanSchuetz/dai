@@ -22,4 +22,4 @@ layout: default
 * [Paola Cervo](https://www.linkedin.com/in/paolacervo/), Coordinator, Africa-Europe Digital4Development Hub, Enabel 
 * [William Cook](https://www.cgap.org/about/people/william-cook), Senior Financial Sector Specialist, CGAP 
 * [Fiona Shera](https://www.dai.com/who-we-are/our-team/fiona-shera), Principal Consultant, Economic growth, DAI 
-* [Bitange Ndemo](https://bitangendemo.me/), Professor of Entrepreneurship, University of Kenya
+* [Bitange Ndemo](https://bitangendemo.me/), Professor of Entrepreneurship, University of Nairobi
