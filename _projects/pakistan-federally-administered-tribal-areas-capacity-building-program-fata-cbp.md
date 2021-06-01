@@ -17,6 +17,9 @@ regions:
 - Asia and the Pacific
 country:
 - Pakistan
+promos:
+- title: DAI to Establish Land Registration System in Northwestern Pakistan
+  link: https://www.dai.com/news/dai-to-establish-land-registration-system-in-northwestern-pakistan
 layout: project
 ---
 
