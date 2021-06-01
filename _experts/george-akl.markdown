@@ -1,7 +1,6 @@
 ---
 title: George Akl
 date: 2021-06-01 13:49:00 Z
-published: false
 lastname: 'Akl '
 summary: George Akl is an institutional governance and development expert with 25
   years of experience working with international donors supporting water and wastewater,
