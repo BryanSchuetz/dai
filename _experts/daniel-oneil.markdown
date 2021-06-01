@@ -13,7 +13,7 @@ regions:
 - Latin America and the Caribbean
 ---
 
-Daniel O’Neil has more than 30 years of experience directing a wide range of international development projects in Africa, Asia, and the Caribbean. He currently manages the U.S. Agency for International Development (USAID) Water and Sanitation Project](https://www.dai.com/our-work/projects/haiti-usaid-water-and-sanitation-watsan) in Haiti. The project supports the government to adopt a private-sector approach to providing water and sanitation services. 
+Daniel O’Neil has more than 30 years of experience directing a wide range of international development projects in Africa, Asia, and the Caribbean. He currently manages the U.S. Agency for International Development (USAID) [Water and Sanitation Project](https://www.dai.com/our-work/projects/haiti-usaid-water-and-sanitation-watsan) in Haiti. The project supports the government to adopt a private-sector approach to providing water and sanitation services. 
 
 Previous projects Daniel managed include a rural roads rehabilitation that was implemented in Liberia during the Ebola outbreak, a wide range of relief and reconstruction activities following the 2010 earthquake in Haiti, and a seven-year cross-border cooperation program between Haiti and the Dominican Republic.
 
