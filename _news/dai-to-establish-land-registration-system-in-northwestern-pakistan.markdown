@@ -1,0 +1,30 @@
+---
+title: DAI to Establish Land Registration System in Northwestern Pakistan
+date: 2021-06-01 15:36:00 Z
+published: false
+solutions:
+- Land Tenure and Property Rights
+- Environment
+- Governance
+regions: Eastern Europe and Central Asia
+projects: Pakistan—Land Registration in Merged Areas (LRMA) Activity
+clients: U.S. Agency for International Development
+summary: DAI is partnering with the U.S. Agency for International Development and
+  the Government of Khyber Pakhtunkhwa to establish a land record and registration
+  system in seven districts of the Merged Areas of northwestern Pakistan.
+country: Pakistan
+---
+
+DAI is partnering with the U.S. Agency for International Development (USAID) and the Government of Khyber Pakhtunkhwa to establish a land record and registration system in seven districts of the Merged Areas (formerly the Federally Administered Tribal Areas) of northwestern Pakistan.
+
+“Using technology and sound management practices, this project will assist in improving land record management, enhancing governance, and enabling planning for broad-based economic growth,” said [Arsalan Ali Faheem](https://www.dai.com/who-we-are/our-team/arsalan-ali-faheem), DAI’s Country Director in Pakistan.
+
+The four-year USAID [Pakistan Land Registration in Merged Areas (LRMA)](https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity) Activity, citizens is designed to help families, landowners, investors, banks, and government actors obtain access to accurate, understandable, and current records of their land rights.  
+ 
+LRMA will strengthen the legal framework that supports access to accurate ownership and title records, equitable rights recognition, dispute resolution systems (both formal and informal), collateralization of land, and the private use of government land for revenue generation and economic development.
+
+“We’re looking forward to working in partnership with the Government of Khyber Pakhtunkhwa to support the implementation of the Tribal Decade Strategy by establishing a modern, transparent, and inclusive land registration system,” said John Leckie, DAI’s Global Practice Lead for Land Tenure and Property Rights. “DAI brings expertise in systematic land registration and land administration systems from around the world to address this important challenge. Led by an all-Pakistani team, LRMA adds to an array of ongoing projects supporting the Government of Pakistan across several sectors, including economic growth, trade, social development, and health.”
+
+Through USAID’s Strengthening Tenure and Resource Rights (STARR) contract, DAI and specialist partners provide land tenure and property rights services to USAID and its government, private sector, and nonprofit partners. DAI tenure specialists carry out cutting-edge research on the impacts of tenure interventions on economic development, equity, and social stability. 
+
+Our land tenure and property rights work includes securing property rights, policy and legal reforms and regularization, cadaster development, land record rehabilitation and management, land information systems, institution building and information dissemination, participatory land use and resource planning, dispute resolution and mitigation, training, research and communications, and grants management.
