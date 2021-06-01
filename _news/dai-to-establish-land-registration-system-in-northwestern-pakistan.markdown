@@ -19,7 +19,7 @@ DAI is partnering with the U.S. Agency for International Development (USAID) and
 
 “Using technology and sound management practices, this project will assist in improving land record management, enhancing governance, and enabling planning for broad-based economic growth,” said [Arsalan Ali Faheem](https://www.dai.com/who-we-are/our-team/arsalan-ali-faheem), DAI’s Country Director in Pakistan.
 
-The four-year USAID [Pakistan Land Registration in Merged Areas (LRMA)](https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity) Activity, citizens is designed to help families, landowners, investors, banks, and government actors obtain access to accurate, understandable, and current records of their land rights. 
+The four-year USAID [Pakistan Land Registration in Merged Areas (LRMA)](https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity) Activity, is designed to help families, landowners, investors, banks, and government actors obtain access to accurate, understandable, and current records of their land rights. 
 
 ![Hudaira Pakistan.png](/uploads/Hudaira%20Pakistan.png)`Photo: Pakistan land plots. Credit: Unsplash.` 
  
