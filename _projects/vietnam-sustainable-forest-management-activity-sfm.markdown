@@ -21,7 +21,7 @@ Limitations on land ownership, access to markets, and high-quality seed varietal
 
 SFM helps the Government of Vietnam reduce carbon emissions associated with deforestation, the degradation of natural forests, and poor plantation management. SFM implements a “Green Prosperity” approach that strengthens local communities’ ability to protect their natural resource base and reduce emissions while building a strong foundation for sustainable livelihoods and equitable economic growth.
  
-In six provinces, SFM is strengthening community forest management models to address organizational capacity, livelihoods, finance, enforcement, and equitable benefit sharing. 
+In seven provinces, SFM is strengthening community forest management models to address organizational capacity, livelihoods, finance, enforcement, and equitable benefit sharing. 
 
 <iframe src="https://player.vimeo.com/video/555864541" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
