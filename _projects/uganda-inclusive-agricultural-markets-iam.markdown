@@ -30,3 +30,4 @@ Inclusivity lies at the heart of IAM. The team focuses on strengthening the mark
 * Support firms to commercialize new varieties, especially climate-smart varieties.
 * Strengthen advocacy of private firms in engaging with local government by improving enforcement of ordinances, improving budgeting for vital government activities, and providing input on district and regional development plans.
 * Identify private partners that are willing and able to invest in changing behavior, in increasing competitiveness, and in testing innovative business strategies to increase the inclusion of marginalized groups.
+* Help farmer organizations and agribusinesses recover from the secondary effects of COVID-19.
