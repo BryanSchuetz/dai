@@ -19,7 +19,7 @@ Invasive alien species are considered one of the main causes for marine and coas
 
 Identification, eradication, and management of invasive alien species is cited in Turkey’s National Strategy and Action Plan for Biodiversity. However, legislative gaps and lack of coordination among institutions in the country hinder its implementation.
  
-The overall goal of this project is to ensure the resilience of inland waters and terrestrial ecosystems in Turkey with a specific focus on invasive alien species. It aims to get the species under control in targeted terrestrial areas and inland waters in line with European Union regulations. 
+The overall goal of [this project](http://teriasturk.org/) is to ensure the resilience of inland waters and terrestrial ecosystems in Turkey with a specific focus on invasive alien species. It aims to get the species under control in targeted terrestrial areas and inland waters in line with European Union regulations. 
 
 Our team is supporting Turkey with the preparation of a legal instrument, developing action and management plans as well as building the institutional capacity of relevant authorities and actions to increase public awareness. 
 
