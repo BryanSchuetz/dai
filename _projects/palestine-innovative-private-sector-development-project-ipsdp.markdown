@@ -4,7 +4,7 @@ date: 2019-10-14 07:56:00 Z
 summary: The Innovative Private Sector Development (IPSD) project develops entrepreneurship
   and expands economic opportunity in the Palestinian Territories.
 start: 2019
-end: 2023
+end: 2024
 client: World Bank
 solutions:
 - Economic Growth
