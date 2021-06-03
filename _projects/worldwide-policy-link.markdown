@@ -12,6 +12,8 @@ solutions:
 - Economic Growth
 regions: Worldwide
 promos:
+- title: Gaps Among Stakeholders Must be Narrowed for Sustainable Agriculture
+  link: https://en.prothomalo.com/business/gaps-among-stakeholders-must-be-narrowed-for-sustainable-agriculture
 - title: 'Business Unusual: New Partnership Approach Leads with Local Resilience Efforts
     in South Sudan'
   link: https://www.agrilinks.org/post/business-unusual-new-partnership-approach-leads-local-resilience-efforts-south-sudan
