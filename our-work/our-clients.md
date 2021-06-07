@@ -20,7 +20,7 @@ Since 2000, DAI has worked with FCDO in scores of countries on three continents.
 
 <iframe src="/extras/maps/dfid" frameborder="0"></iframe>
 
-## European Donors 
+## European Union 
 
 DAI was awarded with its first European Union (EU)-funded project in 1995. Technical excellence, innovation, and quality of services delivered from our 100-plus staff now make DAI the [largest single provider](/who-we-are/global-reach/european-union) of development services for the European Commission.
 <iframe src="/extras/maps/ec" frameborder="0"></iframe>

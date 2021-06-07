@@ -81,7 +81,7 @@
   #menu #FCDO span{
     background-color: #C3282D;
   }
-  #menu #European span{
+  #menu [id="European Union"] span{
     background-color: #F4F200;
   }
   hr{
@@ -120,7 +120,7 @@ map.on('load', function(){
 });
 toggleLayer(['USAID'], 'USAID');
 toggleLayer(['DFID'], 'FCDO');
-toggleLayer(['EU Donors'], 'European');
+toggleLayer(['EU Donors'], 'European Union');
 
 function toggleLayer(ids, name) {
     var link = document.createElement('a');
