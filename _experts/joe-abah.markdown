@@ -15,7 +15,7 @@ regions:
 articles:
 - name: In Nigeria, Governance Champions Can Transform Resource Wealth into Development
     Results
-  article_file: http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/
+  article_file: http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results
 ---
 
 Originally trained as a barrister in Nigeria, Joe Abah gained extensive experience in the <a href="http://dai-global-developments.com/articles/in-nigeria-governance-champions-can-transform-resource-wealth-into-development-results/">governance sector</a>, working on public sector reform programs for the U.K. Prime Minister’s Office. He has spent more than 10 years managing governance programs in Nigeria for the U.K. Department for International Development, including on the DAI-led State Partnership for <a href="https://www.dai.com/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">Accountability Responsiveness and Capability</a> project.
