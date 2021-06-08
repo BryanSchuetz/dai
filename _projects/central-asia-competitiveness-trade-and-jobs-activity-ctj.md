@@ -33,6 +33,9 @@ promos:
 - title: 'Paving the Way for the Next Generation of Transport Leaders: Adopting Cutting
     Edge Transport and Logistics Standards in Kazakhstan'
   link: https://usaidcentralasia.exposure.co/paving-the-way-for-the-next-generation-of-transport-leaders
+- title: USAID Supports Central Asian National Tourism Organizations with Promoting
+    Post-pandemic Tourism
+  link: https://usaidcentralasia.exposure.co/building-a-stronger-central-asian-travel-brand/?fbclid=IwAR0yDDGGIyQD2KHshdLFw_Dkg65rM_OVmM1F7w0kNnY-OKyl02kqjWUuiYA
 layout: project
 ---
 
