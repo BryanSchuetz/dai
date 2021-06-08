@@ -13,19 +13,15 @@ layout: node
 ---
 
 <div class="block-project">
-  <h1>Projects</h1>
+  <h1>Articles</h1>
   <hr>
-  {% assign european-projects = site.projects | where:'client','European Union' | sort:'end' | reverse%}
-  {% assign current_year = site.time | date:"%Y" | times:1 %}
-  {% for project in european-projects %}
-  {%- unless project.end < current_year -%}
-  <div class="project-block">
-      <h3>{{ project.title }}</h3>
-      {% if project.summary %}<p>{{ project.summary | markdownify }}</p>{% endif %}
-      <a href="{{ project.url }}" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  {% for article in site.data.eu-pubs %}
+  <div class="project-blocke">
+      <h3>{{ article.title }}</h3>
+      {% if article.summary %}<p>{{ article.summary | truncate: 350 | markdownifyc }}</p>{% endif %}
+      <a href="{{ article.link }}" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
       <hr>
     </div>
-  {%- endunless -%}
   {% endfor %}
 </div>
 <div class="block-people">
