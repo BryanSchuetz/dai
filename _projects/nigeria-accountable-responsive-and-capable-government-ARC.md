@@ -39,6 +39,7 @@ PERL is implemented through coordinated “pillars” that together support sust
 * Embedding, deepening, and broadening reform through connected work in partner states, regional hubs, and the Federal Republic to influence change throughout all 36 states.
 * Establishing communities of practice for Commissioners of Planning and Budget from all 36 states and for senior women who serve as civil or public servants in strategic sectors.
 * Connecting governance reform with improved service delivery covering agriculture and primary health in Kaduna, education in Jigawa and Kano, and Ease of Doing Business across the southwest and southeast regions of Nigeria.
+* Focus on girls’ education, health, and open society initiatives in Kaduna, Kano, and Jigawa.
 
 ### Select Results
 
