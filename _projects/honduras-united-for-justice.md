@@ -6,7 +6,7 @@ summary: The Unidos por la Justicia (United for Justice) program works with loca
   the efficiency of the judicial system; and increase the effectiveness of community
   police.
 start: 2016
-end: 2021
+end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Governance
