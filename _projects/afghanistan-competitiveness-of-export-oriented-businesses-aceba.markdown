@@ -26,3 +26,7 @@ DAI’s market-oriented approach helps Afghan businesses increase the sales-wort
 * Improve exporter access to credit and investment from local and/or international financial institutions and investors.
 * Implement tailored firm-level export strategies.
 * Identify and mitigate major constraints within targeted exporters’ supply chains.
+
+### Select Results
+
+* Assisted the Ministry of Mines and Petroleum (MoMP), through a new process, to issue export certificates for 40,000 kg of lapis lazuli, 4.2 grams of emeralds, and 20.3 grams of rubies, collecting $7,637 in royalties. This is the first collection of royalties for gemstone exports that the MoMP has received in several years.
