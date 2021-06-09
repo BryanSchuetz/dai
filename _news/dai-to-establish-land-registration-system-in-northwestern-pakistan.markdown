@@ -20,7 +20,7 @@ DAI is partnering with the U.S. Agency for International Development (USAID) and
 
 ![Hudaira Pakistan.png](/uploads/Hudaira%20Pakistan.png)`Photo: Pakistan land plots.` 
 
-
+<!--more-->
 
 “Using technology and sound management practices, this project will assist in improving land record management, enhancing governance, and enabling planning for broad-based economic growth,” said [Arsalan Ali Faheem](https://www.dai.com/who-we-are/our-team/arsalan-ali-faheem), DAI’s Country Director in Pakistan.
 
