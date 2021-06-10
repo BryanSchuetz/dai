@@ -15,7 +15,7 @@ country: Pakistan
 promos:
 - title: 'Supporting Women’s Inclusion Through Community Development in Pakistan '
   link: https://dai-global-developments.com/articles/supporting-womens-inclusion-through-community-development-in-pakistan
-- title: "**Brochure** Community Driven Local Development Programme"
+- title: "**Brochure:** Community Driven Local Development Programme"
   link: "/uploads/CDLD%20brochure%20A4_KP_PRINT%20(1).pdf"
 ---
 
