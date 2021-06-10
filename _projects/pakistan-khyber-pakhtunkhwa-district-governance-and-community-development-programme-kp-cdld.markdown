@@ -15,6 +15,8 @@ country: Pakistan
 promos:
 - title: 'Supporting Women’s Inclusion Through Community Development in Pakistan '
   link: https://dai-global-developments.com/articles/supporting-womens-inclusion-through-community-development-in-pakistan
+- title: "**Brochure** Community Driven Local Development Programme"
+  link: "/uploads/CDLD%20brochure%20A4_KP_PRINT%20(1).pdf"
 ---
 
 DAI supported the Government of Khyber Pakhtunkhwa in implementing the Community Driven Local Development (KP-CDLD) Programme in the 13 districts of the province of Pakistan. The programme worked to build the responsiveness and effectiveness of the province’s administration to restore citizen trust; stimulate employment and livelihood opportunities; and ensure delivery of basic services. 
@@ -36,3 +38,5 @@ By following a decentralized and bottom-up approach, the programme aimed to achi
 * Conducted high-level EU missions in Chitral, Dir Lower, Haripur, Nowshera and Swabi to inspect small infrastructure facilities related to water supply, road construction and irrigation, and assessed the quality of local projects. 
 * Facilitated a “CDLD Experience Sharing Workshop” in Swat with stakeholders and partners to exchange experiences and build connections for increased collaboration and continuous learning.
 * Supported the Government of Khyber Pakhtunkhwa with the implementation of COVID-19 response actions—prepared needs assessment of health facilities in the districts covered by the programme and helped the COVID-19 response of the government, identifying poor and vulnerable families eligible for cash assistance.
+
+[CDLD brochure A4_KP_PRINT (1).pdf](/uploads/CDLD%20brochure%20A4_KP_PRINT%20(1).pdf)
