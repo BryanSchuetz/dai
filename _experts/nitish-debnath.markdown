@@ -28,3 +28,4 @@ Nitish is also a core member of the Board of Directors for the Council on Intern
 * M.Sc., veterinary medicine,Bangladesh Agricultural University
 * M.Sc., tropical veterinary medicine, University of Edinburgh
 * Doctorate, virology, University of Surrey (postdoctoral training in Japan)
+* Member, One Health High-Level Expert Panel
