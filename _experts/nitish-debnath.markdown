@@ -12,6 +12,10 @@ solutions:
 - Global Health Security and Pandemic Preparedness
 regions:
 - Asia and the Pacific
+articles:
+- name: DAI’s Nitish Debnath Appointed to One Health High-Level Expert Panel on Zoonotic
+    Diseases
+  article_file: https://www.dai.com/news/dais-nitish-debnath-appointed-to-one-health-high-level-expert-panel-on-zoonotic-diseases
 ---
 
 Dr. Nitish C. Debnath served in the Department of Livestock Services, Bangladesh, in different positions between 1979 and 1986. In late 1986, he joined the Bangladesh Livestock Research Institute and continued research in the field of animal virology and epidemiology until November 1996. 
