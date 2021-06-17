@@ -2,7 +2,6 @@
 title: Bangladesh—Strengthening Public Financial Management for Social Protection
   (SPFMSP)
 date: 2021-06-17 15:09:00 Z
-published: false
 start: 2020
 end: 2021
 client: Foreign, Commonwealth & Development Office
