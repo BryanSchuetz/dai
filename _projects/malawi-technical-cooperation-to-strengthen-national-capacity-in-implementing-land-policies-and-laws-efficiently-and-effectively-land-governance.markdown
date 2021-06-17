@@ -19,7 +19,7 @@ promos:
   link: https://dai-global-developments.com/articles/opportunities-and-challenges-of-land-reform-implementation-in-malawi
 ---
 
-The Malawi Land Governance programme, funded by the European Union, enhanced people’s livelihoods and food security through sustainable agricultural development, with an emphasis on remote rural areas. To better align the country’s land governance framework, DAI worked with government counterparts to develop and implement land policy reforms. Our team served in both advisory and capacity-building roles, providing government officials with skills to create and review effective land policy, as well as helping design procedures to carry out reforms at the national level.
+The Malawi Land Governance programme, funded by the European Union, enhanced people’s livelihoods and food security through sustainable agricultural development, with an emphasis on remote rural areas. To better align the country’s land governance framework, DAI worked with government counterparts to develop and implement land policy reforms. Our team served in both advisory and capacity-building roles, providing government officials with skills to create and review effective land policy, as well as helping design procedures to carry out reforms at the national level. The overall objective of the project was to improve livelihoods of the population, particularly in rural areas of the country through sustainable agricultural development in Malawi.
 
 ![Malawi Land.jpg](/uploads/Malawi%20Land.jpg)
 
