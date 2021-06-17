@@ -2,6 +2,9 @@
 title: DAI Attends Virtual 2021 European Development Days
 date: 2021-06-17 08:44:00 Z
 published: false
+tags:
+- European Union
+- climate
 solutions:
 - Environment
 - Energy
@@ -10,6 +13,7 @@ projects: Ethiopia—GCCA+/Climate Smart Mainstreaming into the Productive Safet
 clients: European Union
 summary: 'DAI is pleased to have been present at the [European Development Days (EDD)](https://eudevdays.eu/)
   on June 15–16. '
+social-image: "/uploads/Screen%20Shot%202021-06-17%20at%209.15.59%20AM.png"
 ---
 
 DAI is pleased to have been present at the [European Development Days (EDD)](https://eudevdays.eu/) on June 15-16. This year’s focus was the Green Deal for a Sustainable Future, and we hosted a virtual stand in the EDD Global Village to showcase our work with the European Union (EU) Delegation to Ethiopia and Ministry of Agriculture to mainstream climate-smart approaches in the [Productive Safety Net Programme (Climate-Smart PSNP).](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches) 
