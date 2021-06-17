@@ -1,7 +1,6 @@
 ---
 title: DAI Attends Virtual 2021 European Development Days
 date: 2021-06-17 08:44:00 Z
-published: false
 tags:
 - European Union
 - climate
