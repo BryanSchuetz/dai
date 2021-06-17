@@ -2,9 +2,9 @@
 title: Malawi—Technical Cooperation to Strengthen National Capacity in Implementing
   Land Policies and Laws Efficiently and Effectively (Land Governance)
 date: 2017-03-13 17:17:00 Z
-summary: The Malawi Land Governance programme is enhancing people’s livelihoods and
-  food security through sustainable agricultural development, with an emphasis on
-  reaching remote rural areas and vulnerable populations.
+summary: The Malawi Land Governance programme enhanced people’s livelihoods and food
+  security through sustainable agricultural development, with an emphasis on reaching
+  remote rural areas and vulnerable populations.
 start: 2016
 end: 2021
 client: European Union
@@ -17,9 +17,11 @@ country: Malawi
 promos:
 - title: Opportunities and Challenges of Land Reform Implementation in Malawi
   link: https://dai-global-developments.com/articles/opportunities-and-challenges-of-land-reform-implementation-in-malawi
+- title: 'Programme Results: Driving Land Governance in the Right Direction'
+  link: "/uploads/Malawi%20Land%20brochure%20A4%20(pages)_Final.pdf"
 ---
 
-The Malawi Land Governance programme, funded by the European Union, enhances people’s livelihoods and food security through sustainable agricultural development, with an emphasis on reaching remote rural areas. To better align the country’s land governance framework, DAI works with government counterparts to develop and implement land policy reforms. Our team serves in both advisory and capacity-building roles, providing government officials with skills to create and review effective land policy, as well as helping design procedures to carry out reforms at the national level.
+The Malawi Land Governance programme, funded by the European Union, enhanced people’s livelihoods and food security through sustainable agricultural development, with an emphasis on remote rural areas. To better align the country’s land governance framework, DAI worked with government counterparts to develop and implement land policy reforms. Our team served in both advisory and capacity-building roles, providing government officials with skills to create and review effective land policy, as well as helping design procedures to carry out reforms at the national level. The overall objective of the project was to improve the livelihoods of the population, particularly in rural areas of the country through sustainable agricultural development in Malawi. By the end of the programme, the institutional framework and capacity were strengthened at all levels for an efficient and effective land reform programme. Smallholder farmers’ land rights were improved, in particular women's, due to responsible land governance at the local level guided by principles enshrined in the [Voluntary Guidelines on the Governance of Tenure](http://www.fao.org/tenure/voluntary-guidelines/en/) (VGGT).
 
 ![Malawi Land.jpg](/uploads/Malawi%20Land.jpg)
 
@@ -34,3 +36,4 @@ The Malawi Land Governance programme, funded by the European Union, enhances peo
 * Supported the Ministry of Lands, Housing, and Urban Development to develop a Land Reform Implementation Plan, focusing on the pilot phase of land reforms.
 * Advised the Ministry of Lands in developing its gender strategy, monitoring and information strategy, and institutional strengthening plan.
 * Assisted in drafting regulations for the proposed Customary Land Act.
+* Provided formal and on-the-job training for nine contract staff and seven customary land committee members in each of the three pilots.
