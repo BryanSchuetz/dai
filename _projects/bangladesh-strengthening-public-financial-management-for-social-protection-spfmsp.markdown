@@ -1,0 +1,29 @@
+---
+title: Bangladesh—Strengthening Public Financial Management for Social Protection
+  (SPFMSP)
+date: 2021-06-17 15:09:00 Z
+published: false
+start: 2020
+end: 2021
+client: Foreign, Commonwealth & Development Office
+solutions:
+- Governance
+- Public Financial Management
+regions: Asia and the Pacific
+country: Bangladesh
+---
+
+The Strengthening Public Financial Management for Social Protection (SPFMSP) Programme was designed to develop the capacity of the Ministry of Finance (MoF) and line ministries. Its role is to establish policies, budgets, and reform plans for more efficient and effective social transfers to poor people, set up the Social Protection Budget Management Unit (SPBMU) within the MoF, undertake operational research and diagnostic studies, and establish multiple social protection management information systems (MIS) for associated line ministries.
+
+Government-to-people (G2P) cash transfer payments now cover about 35 million beneficiaries in Bangladesh. Digitised G2P payment systems allow poor and vulnerable people to choose their preferred mode for receiving cash transfers either through bank, mobile financial service providers, or agent banking/village kiosks. Millions of beneficiaries of maternity, old age, and widow allowances, student scholarships, now have greater control and ability to access their funding immediately and without traveling long distances. G2P empowers vulnerable people to make informed decisions about receiving their cash allowances while allowing governments to plan and time their cash flows for safety-net programs. The Treasury-compliant G2P systems benefit government planning as the money leaves the Treasury only when it is due to be paid, while the system verifies each beneficiary through their national identity cards, eliminating ghost beneficiaries and double-dipping. This means there is less chance of fraud and better allocation of funding. The SPFMSP project, under the broader umbrella of the Strengthening Government Social Protection multi-donor program, is supporting the Government of Bangladesh in consolidating its MIS and tools, while training officers and civil servants in the public administration for the expansion of G2P payment systems.
+
+DAI is managing the final year (2020–2021) of this project’s implementation and provides information technology, adaptive social protection, policy, and project management expertise to support this important program. 
+
+![Johannes Go_Dhaka Public Transport.jpg](/uploads/Johannes%20Go_Dhaka%20Public%20Transport.jpg)
+
+### Sample Activities
+
+* Design a grievance redress mechanism to support the prompt resolution of any payment issues arising.
+* Develop a Data Use Policy and Action Plan to guide the way the SPBMU and linked social protection programs process data, taking into consideration the tension between ensuring data protection to protect the privacy and other rights, the need for transparency and accountability, and the need to ensure evidence-based decision-making informed by data monitoring and analysis.
+* Conduct a Risk Management Review, and design a Risk Management Framework and Toolkit, to identify, address, and seek to minimize the future occurrence of risk throughout the stages of social protection payments from beneficiary targeting, identification, selection, registration, and the payment process.
+* Support the social protection system in Bangladesh to be more robust, adaptive, and shock-responsive to hold and process emergency cash transfers for COVID-19 response and future emergencies by undertaking an assessment of, and developing recommendations regarding system-based targeting.
