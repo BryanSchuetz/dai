@@ -1,7 +1,6 @@
 ---
 title: Lebanon—Water, Sanitation, and Conservation (WSC) Project
 date: 2021-06-21 08:33:00 Z
-published: false
 summary: WSC is increasing the volumes of wastewater treated, reducing the pollution
   and water losses that harm water sources, improving service delivery to citizens,
   and facilitating partnerships between public water utilities, municipalities, the
@@ -26,3 +25,11 @@ WSC is increasing the volumes of wastewater treated, reducing the pollution and 
 ![LWP well digging.jpg](/uploads/LWP%20well%20digging.jpg)
 
 ### Sample Activities
+
+* Rehabilitate, upgrade, and expand wastewater systems.
+* Implement water safety plans.
+* Promote water reuse and conservation in the industrial sector.
+* Reduce the regional water establishments' non-revenue water losses.
+* Improve public utility planning and management tools.
+* Conduct social marketing campaigns to increase civic engagement in water management.
+* Promote wastewater or sludge reuse opportunities for agricultural sector.
