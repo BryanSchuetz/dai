@@ -21,6 +21,8 @@ promos:
   link: https://daiglobal.exposure.co/the-value-of-water
 - title: Nepali River Communities and Local Governments Co-manage Freshwater Resources
   link: https://daiglobal.exposure.co/restore-our-earth
+- title: " Integrated Fish Farming Improves Food Security and Livelihoods in Nepal"
+  link: https://daiglobal.exposure.co/virtuous-circle
 - title: Clean Water for All by 2030. No, Really
   link: https://dai-global-developments.com/articles/clean-water-for-all-by-2030-no-really
 ---
