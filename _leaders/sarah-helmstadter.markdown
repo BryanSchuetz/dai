@@ -2,9 +2,10 @@
 title: Sarah Helmstadter
 date: 2020-05-19 11:16:00 Z
 job-title: Senior Vice President, Global Workforce
-summary: 'Sarah Helmstadter leads all aspects of talent acquisition, retention, development,
-  and management; and ensures the quality and efficiency of companywide human resource
-  operations. '
+summary: Sarah Helmstadter leads our Global Workforce, with responsibility for maintaining
+  and enhancing DAI’s corporate culture; leading all aspects of talent acquisition,
+  retention, development, and management; and ensuring the quality and efficiency
+  of companywide security and human resource operations.
 image: "/uploads/Sarah-thumbnail.jpg"
 sort-order: 3
 ---
