@@ -1,10 +1,10 @@
 ---
 title: Lebanon—Water Project (LWP)
 date: 2016-01-21 22:40:00 Z
-summary: The Lebanon Water Project (LWP) is increasing reliable and sustainable access
-  to water for Lebanese citizens, improving water management practices, enhancing
-  the efficiency and sustainability of the public water utilities, and responding
-  to water issues arising from the influx of Syrian refugees.
+summary: The Lebanon Water Project (LWP) increased reliable and sustainable access
+  to water for Lebanese citizens, improved water management practices, enhanced the
+  efficiency and sustainability of the public water utilities, and responded to water
+  issues arising from the influx of Syrian refugees.
 start: 2015
 end: 2021
 client: U.S. Agency for International Development
@@ -29,9 +29,9 @@ promos:
 layout: project
 ---
 
-The Lebanon Water Project (LWP) is increasing reliable and sustainable access to water for Lebanese citizens, [improving water management practices](https://medium.com/usaid-global-waters/saving-livelihoods-one-drop-at-a-time-269e1f3a9af7), enhancing the efficiency and sustainability of the public water utilities, and responding to water issues arising from the influx of Syrian refugees. We are promoting better water governance as a means to assure the long-term protection of Lebanon's water resources. In implementing the program, we have prioritized sustainability—environmental, financial, and social—and engagement with the private sector and municipalities to ensure widespread buy-in for change.
+The Lebanon Water Project (LWP) increased reliable and sustainable access to water for Lebanese citizens, [improved water management practices](https://medium.com/usaid-global-waters/saving-livelihoods-one-drop-at-a-time-269e1f3a9af7), enhanced the efficiency and sustainability of the public water utilities, and responded to water issues arising from the influx of Syrian refugees. We promoted better water governance as a means to assure the long-term protection of Lebanon's water resources. In implementing the program, we prioritized sustainability—environmental, financial, and social—and engagement with the private sector and municipalities to ensure widespread buy-in for change.
 
-LWP is building on the successes of the [Lebanon Waste and Wastewater Sector Support](/our-work/projects/lebanon-water-and-wastewater-sector-support-lwwss) project that ran from 2009 to 2015.
+LWP built on the successes of the [Lebanon Waste and Wastewater Sector Support](/our-work/projects/lebanon-water-and-wastewater-sector-support-lwwss) project that ran from 2009 to 2015.
 
 ![untitled-9262.jpg](/uploads/untitled-9262.jpg)
 
@@ -45,7 +45,7 @@ LWP is building on the successes of the [Lebanon Waste and Wastewater Sector Sup
 
 * Introduced fully automated systems for financial management, billing, and collection to improve work processes and control measures.
 * Installed around 35,000 water meters and procured handheld billing devices for water utilities, which will improve bill collection.
-* Promoted the use of water-saving drip irrigation systems and hydroponics systems through partnerships between the private sector and farmers that results in 35 percent decrease in water consumption for irrigation that was reallocated for domestic use.
+* Promoted the use of water-saving drip irrigation systems and hydroponics systems through partnerships between the private sector and farmers that resulted in a 35 percent decrease in water consumption for irrigation that was reallocated for domestic use.
 * Supported the Association of Lebanese Industrialists to introduce water-saving and recycling technologies in nine stone-cutting factories resulting in a 90 percent decrease in freshwater use, $700,000 annual savings in water fees, and reduced pollution in the Litani River Basin.
 * Rehabilitated two constructed wetlands ensuring low-cost sewage treatment for more than 3,000 citizens in rural areas in the Bekaa and South Lebanon.
 * Supported more than 400 teachers in 13 schools to incorporate water conservation subjects into elementary and middle school curricula, engaging around 575 students in water conservation and protection projects, and developed a series of [educational videos](https://www.facebook.com/LebanonWater/videos/?ref=page_internal) to promote water conservation.
