@@ -1,19 +1,15 @@
 ---
 title: Elizabeth Elfman
-date: 2016-01-21 22:18:43.395000000 Z
+date: 2016-01-21 22:18:00 Z
 lastname: Elfman
-regions: 
-solutions:
-- Global Health
-layout: expert
-image: https://assetify-dai.com/experts/Elizabeth%20Elfman%20inner.jpg
 summary: Elizabeth Elfman, a health specialist, began her career in Massachusetts
   working to accelerate health care delivery. Seven years later she has accrued a
   vast array of experience working and studying health systems.
 job-title: Development Specialist, Health
-articles:
-- name: 
-  article_file: 
+image: https://assetify-dai.com/experts/Elizabeth%20Elfman%20inner.jpg
+solutions:
+- Global Health
+layout: expert
 ---
 
 Elizabeth Elfman, a health specialist, began her career in Massachusetts working to accelerate health care delivery. Seven years later she has accrued a vast array of experience working and studying health systems. Her interests surround current initiatives with health system strengthening, universal health coverage, eHealth, and preventative health care measures.
@@ -22,3 +18,4 @@ Prior to joining DAI, Elizabeth supported projects with the U.S. Department of H
 
 * M.Sc., social policy and planning, London School of Economics  
 * B.A., political science and communications public service, University of Pennsylvania
+* Vice Chair, Private Sector Constituency for the World Health Organization’s Partnership for Maternal, Newborn & Child Health
