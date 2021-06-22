@@ -27,3 +27,10 @@ Our Nigerian partner firms are Yellow Brick Road, the Youth Empowerment and Deve
 * Implement social and behavior change activities combined with youth engagement with local policy makers and private sector partners.
 * Train and mentor youth in leadership and policy advocacy skills.
 * Facilitate partnerships to enable youth access to entrepreneurship training, incubation, and microfinance to increase self-employment.
+
+### Select Results
+
+* Engaged in national and state adolescent technical working groups: The team participated in national working group and Lagos State working group meetings and contributed technical inputs to the national policy on the Health and Development of Adolescent and Young Persons in Nigeria. In Lagos and Kano, the team engaged with the State Ministry of Health and the State Primary Health Care Management Boards.
+* Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents aged 15-19. 
+* Established partnerships with the private sector.
+* Formed Youth Advisory Committees in Lagos to ensure youth have a voice in project design and that the project remains nimble and responsive to adolescents’ health and well-being needs.
