@@ -2,6 +2,10 @@
 title: DAI’s Sarah Helmstadter is Founding Member of Industry Task Force on Race and
   Equity
 date: 2021-06-22 15:23:00 Z
+published: false
+summary: 'DAI’s Senior Vice President of Global Workforce [Sarah Helmstadter](https://www.dai.com/who-we-are/leadership/sarah-helmstadter)
+  is part of a new Task Force on Race and Equity in International Development. '
+social-image: "/uploads/new%20Sarah-5862ef.jpg"
 ---
 
 DAI’s Senior Vice President of Global Workforce [Sarah Helmstadter](https://www.dai.com/who-we-are/leadership/sarah-helmstadter) is part of a new Task Force on Race and Equity in International Development. 
