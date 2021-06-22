@@ -1,6 +1,7 @@
 ---
 title: Sani Daher
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Daher
 summary: 'Sani Daher, Vice President of Strategy, works with management on a number
   of strategic growth and operational initiatives. '
