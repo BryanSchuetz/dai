@@ -1,8 +1,9 @@
 ---
 title: 'Climate Futures Webinar Series: The Future of Adaptation'
 layout: default
-social-image: '/uploads/climate-webinar-promo.png'
+social-image: "/uploads/climate-webinar-promo.png"
 ---
+
 # Climate Futures Webinar Series: The Future of Adaptation
 
 In this first event in DAI’s Climate Futures Webinar series—The Future of Adaptation—our Global Climate Director Donald Lunan explored practical examples of adaptation emerging from projects around the world. 
