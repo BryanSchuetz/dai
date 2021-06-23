@@ -38,6 +38,10 @@ Our team focuses on ensuring effective organization of the overall SWAIMS progra
 * Formulated a civil society organisation (CSO) engagement strategy to provide a framework for the programme activities that involve civil society.
 * To tackle the impact of COVID-19 organized via videoconferences national webinars on raising awareness of CSOs in Côte d'Ivoire, Benin, Guinea Bissau, and Togo to promote wider engagement of the civil society in maritime security.
 * Launched the international tender procedure for supply of equipment to ECOWAS Maritime Centers and ECOWAS Multinational Maritime Coordination Center.
-* Formulated a private sector strategy, supported the development of an Alert Bulletin and organized a webinar to launch the strategy and foster the engagement of the private sector in maritime.
+* Formulated a private sector strategy, supported the development of an Alert Bulletin, and organized a webinar to launch the strategy and foster the engagement of the private sector in maritime.
 * Established a functional project management unit to coordinate the implementation of the different components of the project and to ensure monitoring and timely reporting on project activities and results by the implementing partners (UNODC, CILCL, ARSTM, ISMI, RMU, GIABA). 
 * Acted as the Secretariat to the first Steering Committee, coordinated visibility actions, and liaised with other EU-funded projects in the Gulf of Guinea to ensure coherence of action.
+* Conducted a detailed survey of maritime security stakeholders, delineating roles, and responsibilities in each member state.
+* Assessed the legal framework and existing legislation governing maritime crime.
+* Contributed to the drafting of model manuals and work packages for developing integrated maritime policy and the planned maritime security workshops.
+* Submitted a draft juridical report itemizing the legislation relating to maritime crime in ECOWAS member states.
