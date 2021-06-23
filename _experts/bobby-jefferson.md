@@ -21,3 +21,4 @@ Bobby Jefferson, a [leader](https://www.youtube.com/watch?v=jgPFVXSdtWQ) in info
 He has roles as a competition judge, technology reviewer, and judge of early-stage funding, including the Innovation to Action Challenge, Global Health Innovation Prize, and InnovateHealth@Yale Prize. In his role as Board Advisor or Board Observer during (post-deal) implementation, is to protect the investment, assess the soundness of the business model and technology, and foster the venture’s impact to achieve a global scale.
 
 * B.S., computer science, American University
+* Diversity, Equity, and Inclusion Committee Chair, SID Washington
