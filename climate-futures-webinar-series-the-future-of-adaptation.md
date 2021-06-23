@@ -20,3 +20,4 @@ Panelists included:
 
 The presentations were followed by a discussion in response to questions posed by the audience on the future of adaptation, allowing the panel to draw on their experience from the field. 
 
+<iframe src="https://player.vimeo.com/video/564704846?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Climate Futures Webinar Series: The Future of Adaptation - Q&amp;amp;A"></iframe>
