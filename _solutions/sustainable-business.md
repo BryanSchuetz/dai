@@ -14,15 +14,6 @@ redirect_from:
 - "/sustainable-business"
 - "/who-we-are/sustainable-business"
 - "/sbg"
-promos:
-- title: "**Our Team:** DAI Sustainable Business Experts"
-  link: "/who-we-are/the-team?filter=sustainable-business"
-- title: "**Our Work:** DAI Sustainable Business Projects"
-  link: "/our-work/the-projects?filter=sustainable-business"
-- title: "**News:** Recent Sustainable Business News"
-  link: "/news/view-more-news?filter=sustainable-business"
-- title: "**Articles:** Recent Blog Posts on Sustainable Business"
-  link: "/publications/view-more-articles?filter=sustainable-business"
 related: false
 hero: true
 layout: solution
