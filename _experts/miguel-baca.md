@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Baca
 summary: Miguel Baca is a development specialist with extensive experience in the
   Middle East, Latin America, and the Asia Pacific region.
-job-title: Business Development, Environment
+job-title: Director, Financial Management and Operations
 image: https://assetify-dai.com/experts/Baca_Inner.jpg
 solutions:
 - Environment
