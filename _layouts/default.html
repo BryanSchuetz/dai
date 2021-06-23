@@ -142,7 +142,7 @@
   </div>
   {%- endif -%}
 {% elsif page.hero and page.url contains "our-work" %}
-  <div class="hero-wrap our-work {% if page.url contains "sustainable-business" %} sustainable-business" {% endif %} >
+  <div class="hero-wrap our-work {% if page.url contains "sustainable-business" %} sustainable-business{% endif %}">
     <div class="node-hero">
     {%- comment -%} This spaggetti of logic is HORRIBLE. Find a way to reduce the complexity here 
     
