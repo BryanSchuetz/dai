@@ -1,18 +1,23 @@
 ---
 title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
-summary: The Local Content Masterclass brings together participants from the private
-  and public sector, helping them balance the commercial realities of volatile global
-  demand and sustained cost pressures with the current political momentum for increased
-  local content. DAI draws on more than 2,000 long-term projects and development assignments
-  completed across 150 countries to advance participants’ skills.
 hero: true
-layout: default
+layout: solution
+solutions: 
+- Sustainable Business 
+redirect_from: '/our-work/sustainable-business-master-class'
+permalink: '/our-work/solutions/corporate/sustainable-business-training'
 ---
+
+The Local Content Masterclass brings together participants from the private
+and public sector, helping them balance the commercial realities of volatile global
+demand and sustained cost pressures with the current political momentum for increased
+local content. DAI draws on more than 2,000 long-term projects and development assignments
+completed across 150 countries to advance participants’ skills.
 
 <!--do not edit this page-->
 
-![](/uploads/masterclass-advert.jpg)
+![Schedule](/uploads/masterclass-banner-06-2021.png)
 
 <div class="form-wrapper">
   <div class="lead-generator">
@@ -76,12 +81,12 @@ contract tendering, and evaluation techniques
       </div>
       <div class="image"><img src="/uploads/master-class-module-1.jpg" alt=""></div>
       <div class="title">
-        <h2>Strategy and Policy
+        <h2>Local Content Policy, Regulation and Forecasting 
           <hr class="bar">
         </h2>
       </div>
       <div class="text">
-        <p>Examines the various local content laws, regulations, and policies around the world and assesses their effectiveness.</p>
+        <p>Examines local content laws, regulations and policies around the world and prepares participants to forecast goods, services and workforce local content scenarios.</p>
       </div>
   </div>
   <div class="carousel-cell">
@@ -90,12 +95,12 @@ contract tendering, and evaluation techniques
       </div>
       <div class="image"><img src="/uploads/master-class-module-2.jpg" alt=""></div>
       <div class="title">
-        <h2>Forecasting, Plans, and Procurement Tactics
+        <h2>Local Content Plans, Procurement and Reporting
           <hr class="bar">
         </h2>
       </div>
       <div class="text">
-        <p>Prepares participants to forecast local content scenarios linked to the procurement of goods and services and the employment of workforces for large projects.</p>
+        <p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis, processes and standards, and “telling the story”.</p>
       </div>
   </div>
   <div class="carousel-cell">
@@ -104,36 +109,21 @@ contract tendering, and evaluation techniques
       </div>
       <div class="image"><img src="/uploads/master-class-module-3.jpg" alt=""></div>
       <div class="title">
-        <h2>Reporting, Impact Measurement, and Communications
+        <h2>Local Supplier Development
           <hr class="bar">
         </h2>
       </div>
       <div class="text">
-        <p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis processes and standards, and “telling the story".</p>
-      </div>
-  </div>
-  <div class="carousel-cell">
-    <div class="year">
-      <h3>Module 4</h3>
-    </div>
-      <div class="image"><img src="/uploads/master-class-module-4.jpg" alt=""></div>
-      <div class="title">
-        <h2>Investments: Supplier and Workforce Development
-          <hr class="bar">
-        </h2>
-      </div>
-      <div class="text">
-        <p>Teaches the use of data and analytics to structure capacity building and local content programs that are commercially
-        effective and economically beneficial.</p>
+        <p>Teaches the use of data and analytics to structure various types of capacity building and local content programs that are commercially effective and economically beneficial.</p>
       </div>
   </div>
 </div>
 
-This is a four-day course: June 7–10, 2021, 10h00 - 15h00 BST. 
+Three day in-person course from October 11 – 13, 2021, 09h00 - 17h00 GST at the Levatio Hotel in Muscat, Oman.
 
-The price per module is US$975. There is a 10 percent discount if participants take all four modules. A 15 percent discount is offered when three or more participants register together for the full course. Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
+The price for the course is USD 3,770 (OMR 1,450). Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
 
-<aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="/uploads/DAI_E-Training%20Catalogue2021.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
+<aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="/uploads/masterclass-brochure-06-2021.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
 
 ## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and trained more than 500 practitioners worldwide.
 
@@ -248,7 +238,7 @@ The price per module is US$975. There is a 10 percent discount if participants t
     // options
     cellAlign: 'left',
     contain: true,
-    autoPlay: 1700,
+    autoPlay: false,
     wrapAround: true,
   });
 </script>
