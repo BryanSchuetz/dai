@@ -27,7 +27,7 @@ promos:
   link: https://dai-global-developments.com/articles/development-during-quarantine-lessons-from-four-usaid-projects
 ---
 
-Policy LINK strengthens the leadership capacity of public, private, and civil society actors and fosters collective action among them to transform policy systems. Building on the successes of [Africa Lead](https://www.dai.com/our-work/projects/africa-africa-lead-ii)’s nearly decade of programming, Policy LINK does this through a range of core services, including:
+[Policy LINK](https://policylinkglobal.org/) strengthens the leadership capacity of public, private, and civil society actors and fosters collective action among them to transform policy systems. Building on the successes of [Africa Lead](https://www.dai.com/our-work/projects/africa-africa-lead-ii)’s nearly decade of programming, Policy LINK does this through a range of core services, including:
 
 ## Sample Activities
 
