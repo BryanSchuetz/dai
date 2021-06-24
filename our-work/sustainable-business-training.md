@@ -1,11 +1,11 @@
 ---
 title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
+permalink: not-sustainable-business-training
+published: false
 summary: 'Building off 50 years of international development experience, DAI offers
   a comprehensive catalogue of online training. '
 layout: default
-published: false
-permalink: not-sustainable-business-training
 ---
 
 # Sustainable Business Training
