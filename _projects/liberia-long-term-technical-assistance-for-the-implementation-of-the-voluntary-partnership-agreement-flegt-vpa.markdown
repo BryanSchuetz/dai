@@ -12,6 +12,7 @@ client: European Union
 solutions:
 - Environment
 - Governance
+- Land Tenure and Property Rights
 regions: Sub-Saharan Africa
 country: Liberia
 promos:
