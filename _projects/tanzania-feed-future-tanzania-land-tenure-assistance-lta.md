@@ -35,6 +35,9 @@ promos:
 - title: 'Using Mobile Technology for First Registration of Land: Lessons Learned
     in Tanzania'
   link: https://dai-global-developments.com/articles/using-mobile-technology-for-first-registration-of-land-lessons-learned-in-tanzania
+- title: 'Strengthening Women’s Land Rights in Rural Tanzania: Results from an Impact
+    Evaluation of USAID’s Land Tenure Assistance Activity'
+  link: https://land-links.org/2021/04/strengthening-womens-land-rights-in-rural-tanzania-results-from-an-impact-evaluation-of-usaids-land-tenure-assistance-activity/
 layout: project
 ---
 
