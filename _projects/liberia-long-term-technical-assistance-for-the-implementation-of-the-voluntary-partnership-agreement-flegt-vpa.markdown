@@ -13,6 +13,7 @@ solutions:
 - Environment
 - Governance
 - Land Tenure and Property Rights
+- Natural Resource Management
 regions: Sub-Saharan Africa
 country: Liberia
 promos:
