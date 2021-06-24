@@ -1,6 +1,6 @@
 ---
 title: Miriam Stankovich
-date: 2021-06-24 14:52:00 Z
+date: 2021-06-24 10:52:00 Z
 lastname: Stankovich
 summary: 'Miriam Stankovich has rich research experience in leading complex projects
   in data protection and governance, intellectual property and technology law, regulatory
