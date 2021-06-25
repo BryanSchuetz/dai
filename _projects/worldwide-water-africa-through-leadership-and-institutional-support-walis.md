@@ -35,6 +35,8 @@ promos:
 - title: Documenting a Common Understanding of the Sanitation Situation in Five African
     Countries
   link: https://www.globalwaters.org/resources/blogs/documenting-common-understanding-sanitation-situation-five-african-countries
+- title: 'VIDEO: USAID WALIS COVID-19 Response Video'
+  link: https://www.globalwaters.org/resources/assets/walis-covid-19-response-video
 redirect_from:
 - "/walis"
 layout: project
