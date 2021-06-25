@@ -15,6 +15,9 @@ solutions:
 regions: Latin America and the Caribbean
 country: Honduras
 promos:
+- title: 'A Journey of Perseverance: Boosting Young Hondurans’ Chances at Success
+    by Providing Skills Training and Work Experience to Nurture their Abilities'
+  link: https://medium.com/usaid-2030/a-journey-of-perseverance-5710e609cb57
 - title: Helping Vulnerable Young Hondurans to Gain Job Skills, Self-Confidence, and
     Hope for the Future
   link: https://urban-links.org/insight/helping-vulnerable-young-hondurans-to-gain-job-skills-self-confidence-and-hope-for-the-future/

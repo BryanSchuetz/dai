@@ -14,6 +14,8 @@ solutions:
 regions: Asia and the Pacific
 country: Nepal
 promos:
+- title: 'FINAL REPORT: Paani Achievements'
+  link: "/uploads/USAID%20Paani%20Summary%20Report%20Vol%20I%20&%20II%20Combined%20eBook%20June%2024Version.pdf"
 - title: 'Enhancing Watershed Management: Integrated Water Resources Management in
     Nepal'
   link: https://medium.com/@bridgebiointegration/investing-in-prosperity-5c1e8622df4b
@@ -29,9 +31,9 @@ promos:
 
 The water that courses through Nepal’s great Karnali, Mahakali, and [Rapti river](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e?fbclid=IwAR1Sn6NagFFnLHUHi48zZFs93-zO0lzB1GbhF3zK537USnhWPFheNRgG_Ik) basins irrigates the region’s farmland and sustains the health of its people, while also providing a critical habitat for diverse freshwater species and propelling the hydroelectric dams that help to power the country. However, important water resources such as these are increasingly strained by population growth, climate change, and indiscriminate use—stressors that will become more severe if left unchecked.
 
-The Paani (meaning “water” in Nepali) program, funded by the U.S. Agency for International Development, [plays a pivotal role](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e) in protecting these [critical water resources](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e) by working with local and national counterparts to conserve freshwater biodiversity and implement sustainable water management practices.
+The Paani (meaning “water” in Nepali) program, funded by the U.S. Agency for International Development, [played a pivotal role](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e) in protecting these [critical water resources](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e) by working with local and national counterparts to conserve freshwater biodiversity and implement sustainable water management practices.
 
-Paani works to raise the profile of freshwater issues through policy engagement, academic research, curriculum development, and sponsorship of international forums. The project emphasizes user-centered design to analyze how various stakeholders, including fishermen, government officials, and hydropower developers, use water resources to better incentivize their engagement in water conservation and management activities.
+Paani raised the profile of freshwater issues through policy engagement, academic research, curriculum development, and sponsorship of international forums. [The project emphasized](/uploads/USAID%20Paani%20Summary%20Report%20Vol%20I%20&%20II%20Combined%20eBook%20June%2024Version.pdf) user-centered design to analyze how various stakeholders, including fishermen, government officials, and hydropower developers, use water resources to better incentivize their engagement in water conservation and management activities.
 
 ![PANI cover.jpg](/uploads/PANI%20cover.jpg)
 
@@ -47,7 +49,7 @@ Paani works to raise the profile of freshwater issues through policy engagement,
 
 * Developed an Aquatic Animals and Biodiversity Conservation Bill, which was endorsed by three municipalities.
 * Launched an Integrated Water Resources Management course and scholarship program at Mid-Western University. The scholarship program expanded the reach of the program to humanities and social science students, as well as those from marginalized backgrounds.
-* Completed, by engaging hundreds of citizen scientists, comprehensive watershed profiles and watershed health reports for eight priority watersheds. These reports, and the consultative process used to create them, narrowed the knowledge gap and created a shared understanding of ecosystem health.
+* Completed, by engaging hundreds of citizen scientists, comprehensive watershed profiles, and watershed health reports for eight priority watersheds. These reports, and the consultative process used to create them, narrowed the knowledge gap and created a shared understanding of ecosystem health.
 * Facilitated the development of a Flood Early Warning System, which in July 2020 sent text alerts to 38 key contacts when the water level crossed the “warning level” in the river in the Lower Karnali Watershed. These contacts then passed the messages on, reaching more than 5,500 people in 1,000 households. With the FEWS securely in place, more lives and properties are spared during floods. 
 
 <iframe src="https://player.vimeo.com/video/538669119" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
