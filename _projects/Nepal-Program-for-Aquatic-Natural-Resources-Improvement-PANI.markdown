@@ -1,7 +1,7 @@
 ---
 title: Nepal—Paani
 date: 2017-01-10 18:29:00 Z
-summary: The Paani program works with local and national counterparts to conserve
+summary: The Paani program worked with local and national counterparts to conserve
   freshwater biodiversity and implement sustainable water management practices in
   Nepal.
 start: 2016
@@ -15,7 +15,7 @@ regions: Asia and the Pacific
 country: Nepal
 promos:
 - title: 'FINAL REPORT: Paani Achievements'
-  link: "/uploads/USAID%20Paani%20Summary%20Report%20Vol%20I%20&%20II%20Combined%20eBook%20June%2024Version.pdf"
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/rfps/USAID%20Paani%20Summary%20Report%20Vol%20I%20%26%20II%20Combined%20eBook%20June%2024Version.pdf
 - title: 'Enhancing Watershed Management: Integrated Water Resources Management in
     Nepal'
   link: https://medium.com/@bridgebiointegration/investing-in-prosperity-5c1e8622df4b
@@ -33,7 +33,7 @@ The water that courses through Nepal’s great Karnali, Mahakali, and [Rapti riv
 
 The Paani (meaning “water” in Nepali) program, funded by the U.S. Agency for International Development, [played a pivotal role](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e) in protecting these [critical water resources](https://medium.com/usaid-global-waters/collaboration-for-watershed-conservation-in-nepal-dc0d7c1d031e) by working with local and national counterparts to conserve freshwater biodiversity and implement sustainable water management practices.
 
-Paani raised the profile of freshwater issues through policy engagement, academic research, curriculum development, and sponsorship of international forums. [The project emphasized](/uploads/USAID%20Paani%20Summary%20Report%20Vol%20I%20&%20II%20Combined%20eBook%20June%2024Version.pdf) user-centered design to analyze how various stakeholders, including fishermen, government officials, and hydropower developers, use water resources to better incentivize their engagement in water conservation and management activities.
+Paani raised the profile of freshwater issues through policy engagement, academic research, curriculum development, and sponsorship of international forums. [The project emphasized](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/USAID%20Paani%20Summary%20Report%20Vol%20I%20%26%20II%20Combined%20eBook%20June%2024Version.pdf) user-centered design to analyze how various stakeholders, including fishermen, government officials, and hydropower developers, use water resources to better incentivize their engagement in water conservation and management activities.
 
 ![PANI cover.jpg](/uploads/PANI%20cover.jpg)
 
