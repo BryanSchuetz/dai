@@ -7,6 +7,9 @@ summary: 'DAI provides capacity-building services, such as support in financial 
 start: 2021
 end: 2025
 client: First Consult/Mastercard Foundation
+solutions:
+- Economic Growth
+- Workforce Development and Youth
 regions: Sub-Saharan Africa
 country: Ethiopia
 ---
