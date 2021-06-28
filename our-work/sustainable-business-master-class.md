@@ -166,22 +166,22 @@ The price for the course is USD 3,770 (OMR 1,450). Upon completion, you will rec
         </a>
       </div>
       <div class="column">
-        <a class="bulma-card" href="/who-we-are/our-team/dorival-bettencourt">
+        <a class="bulma-card" href="/who-we-are/our-team/chris-macdonald">
            <div class="card is-child">
             <div class="card-image" style="padding: 1rem;">
               <figure class="image is-128x128">
-                <img class="is-rounded" src="/uploads/Dorival_Bettencourt_photo.jpg" alt="Placeholder image">
+                <img class="is-rounded" src="/uploads/Chris_MacDonald_Photo.jpg" alt="Placeholder image">
               </figure>
             </div>
             <div class="card-content">
               <div class="media">
                 <div class="media-content">
-                  <p class="title is-4">Dorival Bettencourt</p>
-                  <p class="subtitle is-6">Director, Sustainable Business Group</p>
+                  <p class="title is-4">Christopher MacDonald</p>
+                  <p class="subtitle is-6">Managing Director, Oman</p>
                 </div>
               </div>
               <div class="content">
-                <p>Dorival has more than 10 years’ experience in oil and gas investment, focusing on local content implementation, and leads activities related to local content, corporate social investment, and supplier development.</p>
+                <p>Chris is an experienced leader in developing local content strategy for the private sector. He played an instrumental role in introducing the concept of In-Country Value to the Oil and Gas sector.​​</p>
               </div>
             </div>
           </div>
