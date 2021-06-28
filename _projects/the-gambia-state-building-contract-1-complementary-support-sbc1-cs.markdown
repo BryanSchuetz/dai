@@ -20,6 +20,8 @@ promos:
 - title: 'How Statistics Can Transform Governance: A Q&A with Economist and Statistician
     Jean-Paul Zoyem'
   link: https://dai-global-developments.com/articles/how-statistics-can-transform-governance-a-q-and-a-with-economist-and-statistician-jean-paul-zoyem
+- title: 'VIDEO: Gambia Police Training'
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/videos/fileDDAIGambiaExportThe%20Gambia-SSR%20FInal%20Conference%20%20-%20%20Training%20NEW.mp4_.mp4
 ---
 
 Following the turmoil of a contested presidential election in 2016, The Gambia faced an uncertain future. While the population had high expectations for the political transition, a fragile economy along with the state’s poor record in providing basic public services threatened the country’s stability. Peaceful parliamentary elections in 2017 paved the way for policymakers to restore fiscal sustainability and lay the groundwork for the country’s economic recovery. The European Union has supported the democratic transition from the outset with an ambitious budget support programme that includes complementary support measures implemented by a technical assistance team. 
