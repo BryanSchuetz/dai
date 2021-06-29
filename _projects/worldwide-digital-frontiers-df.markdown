@@ -23,9 +23,9 @@ promos:
 - title: 'REPORT: E-Commerce Marketplaces'
   link: "/uploads/E-Commerce_FRMT.pdf"
 - title: 'REPORT: Farmer Management Solutions'
-  link: "/uploads/FarmerManagement_FRMT.pdf"
+  link: "/uploads/FarmerManagement_FRMT-53bd30.pdf"
 - title: 'REPORT: Expanding Mobile Phone Access and Ownership '
-  link: "/uploads/MobilePhone_FRMT.pdf"
+  link: "/uploads/MobilePhone_FRMT-f14de6.pdf"
 - title: 'REPORT:  Digital Solutions Used by Agriculture Market System Actors in Response
     to COVID-19 '
   link: "/uploads/Rapid%20Analysis_External%20FRMT2.pdf"
@@ -53,5 +53,3 @@ Digital Frontiers helps USAID have greater impact across its development portfol
 * Implemented the Feed the Future [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/), supporting the development of digital tools to combat the spread of the fall armyworm agricultural pest in sub-Saharan Africa. Digital Frontiers received 283 applications of which 88 percent were from African applicants and awarded $450,000 to six winners working with smallholder farmers in Ghana, Kenya, Malawi, Nigeria, Tanzania, and Uganda.
 * Assisted in development of USAID’s “[How To: Create Digital ID for Inclusive Development](https://www.usaid.gov/digital-development/digital-id/how-to-guide)” guide.
 * Provided strategic support to USAID in Cambodia in creating a real-time data for adaptive management platform to improve the use of data to make evidence-based, timely, and inclusive programmatic decisions.
-
-[Rapid Analysis_External FRMT2.pdf](/uploads/Rapid%20Analysis_External%20FRMT2.pdf)
