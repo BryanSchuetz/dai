@@ -1,11 +1,10 @@
 ---
 title: Tamara Stanton
 date: 2021-07-01 14:14:00 Z
-published: false
 lastname: Stanton
 summary: 'Tamara Stanton is a Senior Advisor within DAI’s USG Business Unit. '
 job-title: Senior Advisor
-image: "/assets/images/contacts/tamara-stanton.jpg"
+image: "/uploads/Tamara.JPG"
 solutions:
 - Innovation and Entrepreneurship
 - Economic Growth
