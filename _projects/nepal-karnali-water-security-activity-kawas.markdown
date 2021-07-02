@@ -20,5 +20,7 @@ The Nepal Karnali Water Security Activity (KAWAS) works across the Karnali River
 
 Our team integrates water resources management, watershed biodiversity conservation, and water and sanitation service delivery by mapping and strengthening the roles, connections, and capacities of key actors and stakeholders systemwide.
 
+![DSC07129 - walking fish in bag.JPG](/uploads/DSC07129%20-%20walking%20fish%20in%20bag.JPG)
+
 ### Sample Activities
 
