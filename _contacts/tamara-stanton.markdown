@@ -1,6 +1,7 @@
 ---
 title: Tamara Stanton
 date: 2021-07-01 15:30:00 Z
+published: false
 job-title: Advisor
 summary: With more than 17 years of experience, she has led teams throughout the company
   to support every aspect of new business strategy and execution.
