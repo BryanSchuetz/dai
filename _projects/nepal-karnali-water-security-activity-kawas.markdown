@@ -24,3 +24,7 @@ Our team integrates water resources management, watershed biodiversity conservat
 
 ### Sample Activities
 
+* Develop climate-resilient water safety plans.
+* Create standard operating procedures addressing maintenance, safety, enforcement, and capacity.
+* Expand, refine, and institutionalize resilient and customer-centered fecal sludge management service delivery models.
+
