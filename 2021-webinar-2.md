@@ -23,3 +23,7 @@ layout: default
 * [William Cook](https://www.cgap.org/about/people/william-cook), Senior Financial Sector Specialist, CGAP 
 * [Fiona Shera](https://www.dai.com/who-we-are/our-team/fiona-shera), Principal Consultant, Economic growth, DAI 
 * [Bitange Ndemo](https://bitangendemo.me/), Professor of Entrepreneurship, University of Nairobi
+
+## Recording:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-34x9YEIWxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

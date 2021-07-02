@@ -25,3 +25,7 @@ This session will look at solutions to tackle the issue of exacerbated fragility
 * [Ric Goodman](/who-we-are/our-team/ric-goodman), Director of Resilience Technical Services, DAI 
 * [Aude de Montesquiou](https://www.linkedin.com/in/aude-de-montesquiou-6577b221/?originalSubdomain=fr), Senior Advisor for Strategy and Scaling Economic Inclusion through Digital Innovations, BRAC Institute for Governance and Development 
 * Abdullahi Osman, CEO Hormuud Foundation 
+
+## Recording:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NqrpMSCFU4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
