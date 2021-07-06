@@ -24,7 +24,7 @@ We are using a OneWater approach that knits together actors (community, municipa
 ### Sample Activities
 
 * Strengthen water management systems for safe and sustainable water services, including climate-resilient water safety plans.
-* Develop SBC strategy, campaign, and capacity-strengthening measures for water safety and conservation.
+* Develop social behavior change strategy, campaign, and capacity-strengthening measures for water safety and conservation.
 * Conduct citywide sanitation planning exercises that include fecal sludge management, city drainage, and solid waste systems.
 * Develop policies and regulations for improved watershed-level water resource management. 
 * Support the identification of ecologically significant areas to conserve biodiversity and water.
