@@ -21,9 +21,3 @@ Through supporting industrial park job creation and market linkage between the p
 BRIDGES, funded by the Mastercard Foundation, is implemented by [First Consult](https://www.devex.com/organizations/first-consult-52402) and DAI. DAI's role is providing capacity-building services, such as support in financial management, to ensure that First Consult is operating with compliant, effective processes conducive to good management on the BRIDGES programme. 
 
 ![DE1B1249.JPG](/uploads/DE1B1249.JPG)
-
-### Sample Activities
-
-* Facilitate access to finance through MSME finance programmes, private equity funds, advisory services, as well as availing grant facility through a crowdsourcing platform. 
-* Develop innovative and progressive (pre)payment and risk reduction mechanisms from the customers (factories, workers, government) based on MSME performance and track record (credit scoring via the data from the e-commerce payment platform).
-* Enable MSMEs to tap into to major market opportunities around the 10 major industrial parks and enterprises outside the parks.  
