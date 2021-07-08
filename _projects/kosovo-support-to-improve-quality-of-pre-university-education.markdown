@@ -11,9 +11,9 @@ regions: Eastern Europe and Central Asia
 country: Kosovo
 ---
 
-Kosovo’s education system has undergone substantial reforms in the past few decades and improving the quality of education provision is central to the country’s efforts to foster European integration. While the frameworks have been established, implementation needs to be reinforced. 
+Kosovo’s education system has undergone substantial reforms in the past few decades and improving the quality of education is central to the country’s efforts to foster European integration. While the frameworks have been established, implementation needs to be reinforced. 
 
-Our team is working to enhance a quality-based, accountable education and training system in Kosovo, in line with the best international practices in pre-university education.
+Our team is working to foster a quality-based, accountable education and training system in Kosovo, in line with the best international practices in pre-university education.
 
 In Kosovo, the recruitment process for teachers and principals varies widely across municipalities. Our project is strengthening mechanisms related to the implementation of merit-based, non-discriminatory, gender-equal, and transparent recruitment of teachers and principals, and their professional development. 
 
