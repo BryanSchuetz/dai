@@ -1,7 +1,6 @@
 ---
 title: Kosovo—Support to Improve Quality of Pre-university Education
 date: 2021-07-08 11:52:00 Z
-published: false
 start: 2021
 end: 2025
 client: European Union
