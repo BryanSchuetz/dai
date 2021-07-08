@@ -15,7 +15,7 @@ Kosovo’s education system has undergone substantial reforms in the past few de
 
 Our team is working to foster a quality-based, accountable education and training system in Kosovo, in line with the best international practices in pre-university education.
 
-In Kosovo, the recruitment process for teachers and principals varies widely across municipalities. Our project is strengthening mechanisms related to the implementation of merit-based, non-discriminatory, gender-equal, and transparent recruitment of teachers and principals, and their professional development. 
+In Kosovo, the recruitment process for teachers and principals varies widely across municipalities. One of our project's main tasks is to strengthen the mechanisms related to the implementation of merit-based, non-discriminatory, gender-equal, and transparent recruitment of teachers and principals, and their professional development. 
 
 ![Kosovo Education.jpg](/uploads/Kosovo%20Education.jpg)
 
