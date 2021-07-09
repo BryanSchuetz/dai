@@ -140,6 +140,7 @@ The price for the course is USD 3,770 (OMR 1,450). Upon completion, you will rec
 </blockquote>
 
 ## The course is led by experts working at the forefront of international development and local content policy.
+
 <div class="bulma">
   <div class="container">
     <div class="columns">
@@ -187,10 +188,31 @@ The price for the course is USD 3,770 (OMR 1,450). Upon completion, you will rec
           </div>
         </a>
       </div>
+      <div class="column">
+        <a class="bulma-card" href="/who-we-are/our-team/dorival-bettencourt">
+         <div class="card is-child">
+          <div class="card-image" style="padding: 1rem;">
+            <figure class="image is-128x128">
+              <img class="is-rounded" src="/uploads/Dorival_Bettencourt_photo.jpg" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Dorival Bettencourt</p>
+                <p class="subtitle is-6">Director, Sustainable Business Group</p>
+              </div>
+            </div>
+            <div class="content">
+              <p>Dorival has more than 10 years’ experience in oil and gas investment, focusing on local content implementation, and leads activities related to local content, corporate social investment, and supplier development.</p>
+            </div>
+          </div>
+        </div>
+        </a>
+      </div>
     </div> 
   </div>
 </div>
-
 <div class="form-wrapper">
   <div class="lead-generator">
     <h3>Interested in participating?</h3>
