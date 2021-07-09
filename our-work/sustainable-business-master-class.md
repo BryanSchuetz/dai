@@ -3,10 +3,10 @@ title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
 permalink: "/our-work/solutions/corporate/sustainable-business-training"
 hero: true
-layout: solution
 solutions:
 - Sustainable Business
 redirect_from: "/our-work/sustainable-business-master-class"
+layout: solution
 ---
 
 The Local Content Masterclass brings together participants from the private
@@ -123,7 +123,7 @@ Three day in-person course from October 11 – 13, 2021, 09h00 - 17h00 GST at th
 
 The price for the course is USD 3,770 (OMR 1,450). Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
 
-<aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="/uploads/masterclass-brochure-06-2021.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
+<aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="https://dai-assets.s3.us-east-1.amazonaws.com/our-work/In-Country%20Value%20Masterclass_Oct2021%20web.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
 
 ## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and trained more than 500 practitioners worldwide.
 
