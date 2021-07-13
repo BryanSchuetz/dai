@@ -827,7 +827,11 @@ footer {
 }
 
 // 🎌 FOOTER: NAV 🎌
-
+.newpromo .footer-nav{
+   @include responsive(covid-screens){
+     @include width(3.2);
+   }
+}
 .footer-nav {
   @include width(1);
   @include responsive(small-screens) {

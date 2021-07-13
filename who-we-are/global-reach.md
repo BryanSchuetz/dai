@@ -26,6 +26,14 @@ Nigeria is Africa’s most populous nation and largest economy, a country of alm
 
 <hr>
 
+## Pakistan
+
+Home to almost a quarter of a billion people at the crossroads of Central Asia, the Asian Subcontinent, and the Gulf, Pakistan is both a rapidly growing economy and a perennial geopolitical hotspot, given its borders with Afghanistan, China, India, and Iran. DAI brings to Pakistan its global perspective, resources, and expertise, and a locally-led team of world class professionals based in Islamabad.
+
+<a href="/who-we-are/global-reach/pakistan" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+
+<hr>
+
 ## United Kingdom
 
 With offices in Apsley, Hertfordshire, and in London, our U.K.-based team delivers results for bilateral and multilateral donors, governments, and private sector clients worldwide, often in difficult environments racked by insecurity and conflict.

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   {% include iehacks.html %}
   {% include head.html %}
-  <body class="{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country{% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate Change Adaptation and Mitigation' -%} newpromo{%- endif -%}" >
+  <body class="{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate Change Adaptation and Mitigation' or page.title == 'DAI in Pakistan'-%} newpromo{%- endif -%}" >
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}
@@ -126,7 +126,7 @@
   </div>
   {%- else if page.url contains "global-reach/european-union-office" or page.url contains "global-reach/european-union"-%}
   <div
-    class="hero-wrap {% if page.url contains "global-reach/european-union" or page.url contains "global-reach/european-union-office"%}our-work{% else %}who-we-are{%endif%}">
+    class="hero-wrap {% if page.url contains "global-reach/european-union" or page.url contains "global-reach/european-union-office" or page.url contains "global-reach/pakistan" %}our-work{% else %}who-we-are{%endif%}">
     <div class="node-hero">
       <h1 class="hero-title">
         {% if page.url contains "global-reach/european-union" or page.url contains "global-reach/european-union-office"%}<a
