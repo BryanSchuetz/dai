@@ -1,7 +1,11 @@
 ---
 title: DAI in Pakistan
 permalink: who-we-are/global-reach/pakistan
-summary: Home to almost a quarter of a billion people at the crossroads of Central Asia, the Asian Subcontinent, and the Gulf, Pakistan is both a rapidly growing economy and a perennial geopolitical hotspot, given its borders with Afghanistan, China, India, and Iran. DAI brings to Pakistan its global perspective, resources, and expertise, and a locally-led team of world class professionals based in Islamabad.
+summary: Home to almost a quarter of a billion people at the crossroads of Central
+  Asia, the Asian Subcontinent, and the Gulf, Pakistan is both a rapidly growing economy
+  and a perennial geopolitical hotspot, given its borders with Afghanistan, China,
+  India, and Iran. DAI brings to Pakistan its global perspective, resources, and expertise,
+  and a locally-led team of world class professionals based in Islamabad.
 hero: true
 layout: solution
 ---
