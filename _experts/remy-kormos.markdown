@@ -2,7 +2,7 @@
 title: Rémy Kormos
 date: 2018-04-02 17:01:00 Z
 lastname: Kormos
-summary: Rémy Kormos has more than 22 years of experience in international business
+summary: Rémy Kormos has more than 25 years of experience in international business
   law, implementing business environment reform, commercial law, and judicial reform
   in developing and transitioning countries.
 job-title: Principal Consultant, Economic Growth
@@ -21,7 +21,7 @@ regions:
 - Middle East and North Africa
 articles:
 - name: '"Pro-Poor Business Law and Regulatory Reform," Developing Alternatives'
-  article_file: https://dai-global-developments.com/articles/pro-poor-business-law-and-regulatory-reform/
+  article_file: https://dai-global-developments.com/articles/pro-poor-business-law-and-regulatory-reform
 - name: '"Vers l’unification de la culture juridique dans les pays balkaniques : L’acculturation
     du droit des affaires," Etudes Balkaniques '
   article_file: https://www.cairn.info/revue-etudes-balkaniques-cahiers-pierre-belon-2013-1-page-15.htm
@@ -37,6 +37,6 @@ From 1993 to 2001 Rémy practiced business law with leading global law firms, re
 
 Rémy has taught comparative law and commercial mediation as an adjunct professor and has published several articles on legal and regulatory reform and international development issues.  
  
-* Master of Laws, University of California
+* Master of Law, University of California
 * Juris Doctor, New York University School of Law
 * Bachelor of Arts, Yale University
