@@ -17,7 +17,7 @@
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <description>{{ post.summary | markdownify | remove:"<p>" | remove:"</p>" | strip_html | strip_newlines}}</description>
       <excerpt>{{ post.excerpt | strip_html | truncate:300 }}</excerpt>
-      <enclosure url="https:/dai.com{{ post.social-image | default:"/uploads/social-image.jpg" }}" length="{{post.social-image.size}}00" type="image/jpeg" />
+      <enclosure url="https://dai.com{{ post.social-image | default:"/uploads/social-image.jpg" }}" length="{{post.social-image.size}}00" type="image/jpeg" />
     </item>{% endfor %}
   </channel>
 </rss>
