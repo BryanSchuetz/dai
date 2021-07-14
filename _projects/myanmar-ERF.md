@@ -2,9 +2,9 @@
 title: Myanmar—Economic Response Facility (ERF)
 date: 2016-01-21 22:40:00 Z
 published: false
-summary: The Economic Response Facility (ERF) works to reduce poverty and increase
-  incomes by fostering a strong business environment conducive to the creation of
-  jobs and economic opportunities.
+summary: The Economic Response Facility (ERF) works to reduce poverty in Myanmar and
+  increase incomes by fostering a strong business environment conducive to the creation
+  of jobs and economic opportunities.
 start: 2016
 end: 2022
 client: Foreign, Commonwealth & Development Office
@@ -28,6 +28,8 @@ However, small and medium-sized enterprises (SMEs), including household business
 
 The Economic Response Facility (ERF), funded by the Foreign, Commonwealth & Development Office (FCDO), works to reduce poverty and increase incomes by fostering a strong business environment conducive to the creation of jobs and economic opportunities for SMEs and poor people. 
 
+
+
 ![DFID DaNa Facility in Burma](https://assetify-dai.com/projects/DaNa_Image.jpg)
 
 ### Sample Activities
@@ -38,6 +40,8 @@ The Economic Response Facility (ERF), funded by the Foreign, Commonwealth & Deve
 
 ### Select Results
 
+* Improved livelihoods, income, or employment for 289,741 people both directly and indirectly. Of the 65,195 individuals who benefitted directly, 50 percent are women. 
+* Helped 414,842 people (83 percent women and 38 percent from conflict-affected areas) benefit from financial services.
 * Produced report on "Respectful Workplaces" with the IFC, a culmination of a research process into people’s experiences of sexual harassment and bullying at work in Myanmar.
 * Supported nearly 1,000 people with disabilities to access to employment and improved incomes.
 * Since the project began in 2017, 490 participating farmer households have seen their incomes rise by an average of 67 percent, with increased yields and higher quality of ginger, generating profits of up £569 per acre. Women’s participation in Farmer Field Schools increased every month and currently totals 260 women, 55 percent of all trainees. 
