@@ -14,6 +14,7 @@ regions:
 - Asia and the Pacific
 articles:
 - name: USAID’s Partnership Approach Leaves Philippines’ Wildlife in Safer Hands
+  article_file: https://dai-global-developments.com/articles/usaids-partnership-approach-leaves-philippines-wildlife-in-safer-hands
 layout: expert
 ---
 
