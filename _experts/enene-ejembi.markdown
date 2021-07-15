@@ -1,11 +1,11 @@
 ---
 title: Enene Ejembi
 date: 2021-07-15 14:09:00 Z
-published: false
 lastname: Ejembi
 summary: Enene Ejembi designs strategy and leads implementation of a communications,
   knowledge management, monitoring and evaluation portfolio.
 job-title: Senior Manager, Knowledge Management & Strategic Communications
+image: "/uploads/enene.jpg"
 solutions:
 - Economic Growth
 - Governance
