@@ -10,11 +10,11 @@ client: U.S. Agency for International Development
 solutions:
 - Environment
 - Sustainable Livelihoods
-- 
-- 
 regions: Asia and the Pacific
 country: Philippines
 promos:
+- title: USAID’s Partnership Approach Leaves Philippines’ Wildlife in Safer Hands
+  link: https://dai-global-developments.com/articles/usaids-partnership-approach-leaves-philippines-wildlife-in-safer-hands
 - title: Philippine Wildlife Reporting App Promises to Upgrade Fight Against Trafficking
   link: https://news.mongabay.com/2020/09/philippine-wildlife-reporting-app-promises-to-upgrade-fight-against-trafficking/
 - title: 'Development During Quarantine: Lessons from Four USAID Projects'
@@ -23,11 +23,11 @@ promos:
   link: "/uploads/Protect%20Wildlife%20Final%20Report.2021-5-14.pdf"
 ---
 
-Environmental degradation and habitat destruction throughout the Philippines are not only harming wildlife but also undermining people’s livelihoods and creating social instability. In addition, wildlife poaching and trade continues to be a growing problem in the country, driven by poverty, porous borders, and weak law enforcement. It is within this context that the U.S. Agency for International Development (USAID) launched Protect, a multi-pronged program that worked to conserve biodiversity, protect wildlife, and sustain ecosystem services in ways that also improved the local population’s livelihoods and long-term well-being.
+Environmental degradation and habitat destruction throughout the Philippines are not only harming wildlife but also undermining people’s livelihoods and creating social instability. In addition, wildlife poaching and trade continues to be a growing problem in the country, driven by poverty, porous borders, and weak law enforcement. It is within this context that the U.S. Agency for International Development (USAID) launched Protect Wildlife, a multi-pronged program that worked to conserve biodiversity, protect wildlife, and sustain ecosystem services in ways that also improved the local population’s livelihoods and long-term well-being.
 
-Recognizing that the solutions to combating wildlife trafficking and biodiversity loss in the Philippines are complex, DAI took a holistic approach that included supporting ecologically sustainable fisheries and income-generating options for local communities, education and awareness campaigns, increased biodiversity research opportunities, and strong enforcement of environmental laws. Protect promoted solutions grounded in the context of each community—taking into account which species are threatened, how populations are affected, and the capacity of local police and governments—to provide sustainable livelihood alternatives and promote lasting behavior change. 
+Recognizing that the solutions to combating wildlife trafficking and biodiversity loss in the Philippines are complex, DAI took a holistic approach that included supporting ecologically sustainable fisheries and income-generating options for local communities, education and awareness campaigns, increased biodiversity research opportunities, and strong enforcement of environmental laws. Protect Wildlife promoted solutions grounded in the context of each community—taking into account which species are threatened, how populations are affected, and the capacity of local police and governments—to provide sustainable livelihood alternatives and promote lasting behavior change. 
 
-By 2020, Protect had improved the conservation of more than 200,000 hectares of a landscape important for biodiversity and water supply through a payment for ecosystem services program for services valued at $5.5 billion annually, revenue that is now reinvested in conservation and restoration directly benefiting 33 communities. 
+By 2020, Protect Wildlife had improved the conservation of more than 200,000 hectares of a landscape important for biodiversity and water supply through a payment for ecosystem services program for services valued at $5.5 billion annually, revenue that is now reinvested in conservation and restoration directly benefiting 33 communities. 
 
 <iframe src="https://player.vimeo.com/video/208299306" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
