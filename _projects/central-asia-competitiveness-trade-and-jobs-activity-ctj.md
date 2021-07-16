@@ -45,6 +45,8 @@ The U.S. Government's New Silk Road Initiative is supporting Central Asia to reg
 
 DAI's strategy focuses on facilitating the development of competitive, inclusive market systems in the region while ensuring that activities are demand-driven and locally led to increase sustainability. TCA promotes growth in the agricultural, transport, and logistics sectors by leveraging other USAID investments in the region, including two DAI-managed activities: [Uzbekistan Agricultural Value Chains][1] and [Pakistan Regional Economic Integration Activity][2].
 
+By 2026, we anticipate that the activity will have reduced the average time to move goods by road from Afghanistan to Kazakhstan by more than 25 percent, and that more accessible sources of information, better networking opportunities, and strengthened trade promotion service providers will generate more than $100 million in new cross-border sales. 
+
 ![][3]
 
 ### Sample Activities
