@@ -25,4 +25,5 @@ The Centre receives financial support from the Greater Guyana Initiative, funded
 The launch of Accelerate-Her expands on the Centre's work in supplier development and local content, to further inclusive and sustainable economic growth through women-led businesses across diverse sectors. Applications have opened for women entrepreneurs seeking to expand their company, access new markets, or increase efficiencies and innovation. Growth-minded businesses in any sector--including tourism, agri-business, food and beverage industry, transport, and hospitality--are encouraged to apply.
 
 To apply, visit: [http://centreguyana.com/wep/](https://centreguyana.com/wep/)
+
 For more information contact: Cara_Harley@dai.com 
