@@ -7,6 +7,7 @@ solutions:
 regions: Latin America and the Caribbean
 summary: Guyana’s Centre for Local Business Development has launched a cutting-edge
   women’s entrepreneurship programme, Accelerate-Her.
+social-image: "/uploads/IMG_4582%20(002).jpg"
 country: Guyana
 ---
 
