@@ -16,6 +16,8 @@ Guyana’s [Centre for Local Business Development](https://centreguyana.com/), [
 
 ![IMG_4582 (002).jpg](/uploads/IMG_4582%20(002).jpg)`The Centre for Local Business Development launches new initiative Accelerate-Her to empower women entrepreneurs in small and medium enterprises in Guyana.`
 
+<!--more-->
+
 The Centre’s Accelerate-Her programme targets local women owners, operators, and managers to build their leadership and business skills and help them grow companies across a wide variety of industries and sectors. The programme is designed to accelerate local small business development through tailored workshops, access to one-on-one business advisory and mentors, pitch development, and a supportive peer-learning environment for women. Predicated on successful mentorship and peer-learning models, Accelerate-Her matches a pool of professional mentors with participants based on their professional background and business focus.
 
 The Centre receives financial support from the Greater Guyana Initiative, funded by the Stabroek Block co-venturers ExxonMobil, Hess, and CNOOC.  
