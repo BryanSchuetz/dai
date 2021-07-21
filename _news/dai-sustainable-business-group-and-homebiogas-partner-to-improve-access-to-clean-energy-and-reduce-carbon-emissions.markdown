@@ -1,6 +1,6 @@
 ---
-title: DAI Sustainable Business Group and HomeBiogas Partner to Improve Access to
-  Clean Energy and Reduce Carbon Emissions
+title: DAI and HomeBiogas Partner to Improve Access to Clean Energy and Reduce Carbon
+  Emissions
 date: 2021-07-21 17:05:00 Z
 solutions:
 - Sustainable Business
