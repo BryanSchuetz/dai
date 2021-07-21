@@ -18,6 +18,8 @@ country: Worldwide
 promos:
 - title: 'Market Systems Development: A Primer on Pro-Poor Programming'
   link: https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming
+- title: Project Website
+  link: http://www.agrilinks.org/msp
 ---
 
 The Feed the Future Market Systems and Partnerships activity (MSP) helps the U.S. Agency for International Development (USAID) advance learning and good practice in integrating private sector engagement across all activities, while at the same time deepening market systems development across the Feed the Future program cycle.
