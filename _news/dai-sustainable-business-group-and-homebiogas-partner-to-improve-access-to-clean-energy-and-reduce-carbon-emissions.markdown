@@ -3,6 +3,12 @@ title: DAI Sustainable Business Group and HomeBiogas Partner to Improve Access t
   Clean Energy and Reduce Carbon Emissions
 date: 2021-07-21 17:05:00 Z
 published: false
+solutions:
+- Sustainable Business
+regions: Worldwide
+summary: DAI, through its Sustainable Business Group, has signed a memorandum of understanding
+  with HomeBiogas, a global leader in biogas systems
+social-image: "/uploads/HBG%20link%20preview.png"
 ---
 
 DAI, through its [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business), has signed a memorandum of understanding with [HomeBiogas](https://www.homebiogas.com/), a global leader in biogas systems. The partnership enables DAI to promote HomeBiogas systems in the frontier and emerging markets where DAI has established networks to improve access to energy and reduce carbon emissions. 
