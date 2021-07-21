@@ -2,6 +2,7 @@
 title: DAI-managed Centre for Local Business Development Launches Women’s Entrepreneurship
   Programme in Guyana
 date: 2021-07-20 17:42:00 Z
+is_featured: true
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
