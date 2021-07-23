@@ -13,6 +13,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Regional
 promos:
+- title: International Stakeholder Newsletter
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/our-work/810_5_DAI_TDDA_Int_NewsletterFINAL%20%282%29.pdf
 - title: L'Afrique contre les épidémies
   link: "/uploads/TDDA%20copy%20for%20DAI%20website%20FR%20final.pdf"
 - title: Meet our Country Coordinators

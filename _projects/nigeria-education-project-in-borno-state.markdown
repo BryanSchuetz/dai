@@ -23,10 +23,23 @@ It was anticipated that the active participation of local communities and govern
 
 ![shell.jpg](/uploads/shell.jpg)
 
+### Sample Activities
+
+* Enhance access to good quality education through infrastructural development. 
+* Improve teacher effectiveness through teacher training.
+* Improve school effectiveness through the provision of teaching and learning materials. 
+
 ### Select Results
 
-* Completed baseline assessment of four schools in Kaga and Konduga. 
+* Equipped 10 classrooms with solar electricity.
 * Rebuilt damaged school infrastructure. 
-* Built 14 classroom blocks.
-* Improved teacher effectiveness through training.
+* Constructed three new blocks of 14 classrooms and staff offices with toilet facilities and furniture.
 * Supplied instruction and learning materials.
+* Installed one solar-powered borehole and 5,000-liter overhead water reservoirs.
+* Strengthened the state’s capacity for modern instruction by training 10 master trainers and two school support officers in 21st century pedagogical skills, subject content knowledge, and technology for self-study.
+* Trained 42 teachers on digital literacy and provided each with a tablet computer to support continued professional development.
+* Trained 33 officials of the school-based management committee in school leadership,
+management, and sustainability.
+* Supplied 2,417 State Universal Basic Education Board-approved textbooks and
+set-up 24 learning corners.
+* Developed a strategy for teacher training for Borno state teachers.

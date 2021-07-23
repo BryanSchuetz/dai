@@ -1,6 +1,7 @@
 ---
 title: Centre for Local Business Development Hosts Virtual Guyana Supplier Forum 2021
 date: 2021-02-26 15:34:00 Z
+is_featured: true
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
@@ -12,6 +13,8 @@ country: Guyana
 ---
 
 Guyana’s [Centre for Local Business Development](https://centreguyana.com/)—[managed by DAI](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development) since its launch in 2017—recently hosted the [2021 Guyana Supplier Forum](https://guyanasupplierforum.com/). Sponsored by ExxonMobil Guyana and the Stabroek Block Co-Venturers Hess and CNOCC, the virtual event provided a platform for Guyanese suppliers to learn about existing and upcoming opportunities for local businesses in the country’s oil and gas sector. Attendees received up-to-date information on procurement processes, key contacts, and upcoming tenders from ExxonMobil Guyana and its Prime Contractors.
+
+<!--more-->
 
 Held from February 1-5, the Forum welcomed more than 700 local businesses. More than 400 businesses participated in a live Q&A session with ExxonMobil Guyana, Guyana Deepwater Offshore/SBM, Saipem, TechnipFMC, Guyana Shorebase Inc. (GYBSI), G-Boats, Schlumberger, Halliburton, Baker Hughes, Noble Drilling Services, Stena Drilling Ltd., and NABI-KCL. Presentations also featured Guyana’s Ministry of Natural Resources, the Centre, and the Private Sector Commission.
 
