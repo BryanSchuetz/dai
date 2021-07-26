@@ -1,6 +1,7 @@
 ---
 title: John Waugh
 date: 2020-01-23 12:56:00 Z
+published: false
 lastname: Waugh
 summary: 'John Waugh is a specialist in ecosystem management at landscape scales,
   working on complex problems in development and environment involving multiple systems,

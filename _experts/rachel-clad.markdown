@@ -1,6 +1,7 @@
 ---
 title: Rachel Clad
 date: 2018-07-25 20:16:00 Z
+published: false
 lastname: Clad
 summary: 'At the Center for Digital Acceleration, Rachel identifies, researches, and
   designs digital development solutions and works on business acquisition. '
