@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [Ukraine—RFP for a Threat Intelligence Platform provider REQ-KYI-21-0294](/uploads/REQ-KYI-21-0294.pdf)
 * [Egypt—Economic Governance Activity (EGA) RFP-21-057.AI-Chatbot](/uploads/RFP-EGA-21-057.AI-Chatbot.00-6cf643.pdf)
 * [USAID Economic Security Program-RFP-018 Procurement of Vertical Bailing Press](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/GESP-G-RFP-018-%20Procurement%20of%20Vertical%20Bailing%20Press_FinalRevision_July2.pdf "7/27")
 * [USAID Economic Security Program-RFP-017 Procurement of Stretch Wrapper Rotating Table Wrapping Machine](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/GESP-G-RFP-017%20Procurement%20of%20Stretch%20Wrapper%20Rotating%20Table%20Wrapping%20Machine_FinalRevisionJuly2.pdf "7/26")
