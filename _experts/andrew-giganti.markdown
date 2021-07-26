@@ -1,6 +1,7 @@
 ---
 title: Andrew Giganti
 date: 2019-12-18 17:30:00 Z
+published: false
 lastname: Giganti
 summary: Andrew Giganti joined DAI’s Sustainable Business Group as the Assistant for
   its Finance and Operations team.
