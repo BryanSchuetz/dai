@@ -12,6 +12,8 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Kosovo
 promos:
+- title: Prosecution Investigates Cases of Misuse Reported by Civil Society
+  link: https://www.usaid.gov/kosovo/news-information/news/prosecution-investigates-cases-misuse-reported-civil-society
 - title: E-procurement Platform Enables Purchase of Life-saving Supplies During COVID-19
     Pandemic
   link: https://www.usaid.gov/kosovo/news-information/news/e-procurement-platform-enables-purchase-life-saving-supplies-during-pandemic
