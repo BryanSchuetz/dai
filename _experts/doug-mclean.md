@@ -9,7 +9,7 @@ job-title: Strategic Advisor
 image: "/uploads/new%20Doug.jpg"
 solutions:
 - Economic Growth
-- Sustainable Business
+- 
 layout: expert
 ---
 
