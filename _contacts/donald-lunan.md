@@ -3,7 +3,7 @@ title: Donald Lunan
 date: 2016-01-21 22:18:00 Z
 job-title: Global Director, Climate
 email: donald_lunan@dai.com
-summary: 'Prior to leading the [Climate Business](https://www.dai.com/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation),
+summary: 'Prior to leading the [Climate Business,](https://www.dai.com/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation)
   Donald was the Director of Delivery for DAI’s U.K. portfolio, overseeing the implementation
   of programmes with multilateral and U.K. bilateral donors. Donald has more than
   19 years of international development experience, working across rural development,
