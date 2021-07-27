@@ -7,7 +7,7 @@ summary: The Feed the Future Market Systems and Partnerships activity (MSP) help
   the same time deepening market systems development across the Feed the Future program
   cycle.
 start: 2020
-end: 2023
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
@@ -16,8 +16,6 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: 'Market Systems Development: A Primer on Pro-Poor Programming'
-  link: https://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming
 - title: Project Website
   link: http://www.agrilinks.org/msp
 ---
