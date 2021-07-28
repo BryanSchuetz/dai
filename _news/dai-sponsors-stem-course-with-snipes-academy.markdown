@@ -6,7 +6,7 @@ summary: 'DAI recently sponsored a STEM coding camp in partnership with North Ca
 social-image: "/uploads/STEM%20sm.jpg"
 ---
 
-DAI recently sponsored a STEM coding camp in partnership with North Carolina-based [Snipes Academy of Arts and Design](https://snipes.nhcs.net/) for 10 elementary school-aged girls. Participants were selected by Snipes based on their creativity and problem-solving skills. 
+DAI recently sponsored a STEM coding camp in partnership with North Carolina-based [Annie H. Snipes Academy of Arts and Design](https://snipes.nhcs.net/) for 10 elementary school-aged girls. Participants were selected by Snipes based on their creativity and problem-solving skills. 
 
 The program focused on four modules—hardware (taking apart laptop computers), block coding in MIT’s Scratch, Robot kits assembly, and creative projects design and presentation. The curriculum was developed by [DaytoCode](https://www.daytocode.org/), a nonprofit that integrates arts with computer science.
 
