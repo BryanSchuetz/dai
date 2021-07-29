@@ -9,6 +9,7 @@ summary: Home to almost a quarter of a billion people at the crossroads of Centr
 hero: true
 regions:  
 layout: solution
+published: false
 ---
 
 <div class="block-project">
