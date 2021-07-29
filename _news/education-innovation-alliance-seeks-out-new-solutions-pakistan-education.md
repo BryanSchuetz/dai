@@ -17,6 +17,7 @@ regions:
 projects: 
 clients: 
 layout: node
+country: Pakistan
 ---
 
 With millions of children out of school and those in school failing to read and write at grade level, Pakistan will not only fall short of its Millennium Development Goals—it is gripped by an education emergency that will cripple the country's economy, stymie its growth, and threaten its stability.

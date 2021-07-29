@@ -144,6 +144,9 @@ body.st-ui-overlay-active {
   @include responsive(covid-screens) {
     @include width(16);
   }
+  @include responsive(extra-ultra-wide-screens){
+    @include width(18);
+  }
 }
 
 .covid .node-inner,.newpromo .node-inner {
@@ -151,6 +154,10 @@ body.st-ui-overlay-active {
     @include width(12);
     float: left;
     margin-right: $gutter;
+  }
+  @include responsive(extra-ultra-wide-screens){
+    @include width(14);
+    
   }
 }
 
@@ -831,6 +838,9 @@ footer {
    @include responsive(covid-screens){
      @include width(3.2);
    }
+   @include responsive(extra-ultra-wide-screens){
+     @include width(3.5);
+   }
 }
 .footer-nav {
   @include width(1);
@@ -1124,6 +1134,11 @@ iframe {
   }
   @include responsive(ultra-wide-screens) {
     height: 470px;
+  }
+}
+.newpromo iframe{
+  @include responsive(ultra-wide-screens){
+    height: 560px;
   }
 }
 

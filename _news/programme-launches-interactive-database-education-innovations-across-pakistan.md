@@ -17,6 +17,7 @@ regions: Asia and the Pacific
 projects: Pakistan—Education Voice and Accountability Fund
 clients: 
 layout: node
+country: Pakistan
 ---
 
 The U.K. Department of International Development (DFID)-funded [Ilm Ideas—Pakistan Education Fund][1] recently launched an interactive database of innovations designed to increase access for Pakistani children to quality education. Developed and implemented by Pakistani organizations and entrepreneurs, the [edinnovators.com][2] virtual platform connects these innovators with Pakistan's wider education ecosystem.

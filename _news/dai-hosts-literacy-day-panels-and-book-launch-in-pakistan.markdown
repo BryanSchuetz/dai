@@ -11,6 +11,7 @@ summary: 'On September 12, DAI will host a panel event to commemorate Internatio
   Technical Services Brigit Helms will discuss her recent book—“Access for All: Building
   Inclusive Economic Systems.”'
 social-image: "/uploads/ILD%20graphic%20(horizontal)-9c6563.jpg"
+country: Pakistan
 ---
 
 On September 12, DAI will host a panel event to commemorate International Literacy Day in Islamabad, Pakistan. Later the same day, DAI’s Vice President for Technical Services Brigit Helms will discuss her recent book—“[*Access for All: Building Inclusive Economic Systems*](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion).”

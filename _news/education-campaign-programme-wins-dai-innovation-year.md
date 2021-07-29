@@ -17,6 +17,7 @@ regions:
 projects: Pakistan—Transforming Education in Pakistan (TEP)
 clients: 
 layout: node
+country: Pakistan
 ---
 
 DAI is delighted to announce that the [Transforming Education in Pakistan (TEP) programme][1] has won Innovation of the Year with its Alif Ailaan Data Platform.

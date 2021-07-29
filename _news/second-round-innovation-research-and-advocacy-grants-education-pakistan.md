@@ -15,6 +15,7 @@ regions:
 projects: Pakistan—Education Voice and Accountability Fund (Ilm Ideas)
 clients: 
 layout: node
+country: Pakistan
 ---
 
 The U.K. Department for International Development (DFID), also known as UKaid, has launched a second round of grants under the [Ilm Ideas Program][1].

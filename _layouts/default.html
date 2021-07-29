@@ -66,50 +66,7 @@
       <p class="gallery-subhead">The transition to a low-carbon economy</p>
     </div>
   </div>
-</a>
-    <!-- commenting out a bunch of the older features 6/7/21 <a class="gallery-cell"
-  style="background: url(/uploads/trade-pakistan-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-  href="https://dai-global-developments.com/articles/when-business-as-usual-is-not-good-for-business-afghanistan-pakistan-trade-in-the-covid-19-era?utm_source=daidotcom">
-  <div class="shader">
-    <div class="gallery-cell--text">
-      <h2>Challenging Policy and Logistics</h2>
-      <p class="gallery-subhead">Afghanistan-Pakistan trade in the COVID-19 era</p>
-    </div>
-  </div>
-</a>
-<a class="gallery-cell"
-  style="background: url(/uploads/president-visit-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-  href="/news/president-of-pakistan-calls-for-massive-effort-to-tackle-antimicrobial-resistance">
-  <div class="shader">
-    <div class="gallery-cell--text">
-      <h2>Tackling Antimicrobial Resistance</h2>
-      <p class="gallery-subhead">President of Pakistan calls for massive effort</p>
-    </div>
-  </div>
-</a>
-<a class="gallery-cell"
-  style="background: url(/uploads/com-progress-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-  href="https://dai-global-developments.com/articles/why-aligning-with-the-sdgs-helps-energy-companies-position-for-growth-and-how-to-do-it?utm_source=daidotcom">
-  <div class="shader">
-    <div class="gallery-cell--text">
-      <h2>Aligning with the SDGs</h2>
-      <p class="gallery-subhead">Helping energy companies position for growth</p>
-    </div>
-  </div>
-</a>
-<a class="gallery-cell"
-  style="background: url(/uploads/magister-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-  href="/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets">
-  <div class="shader">
-    <div class="gallery-cell--text">
-      <h2>Announcing DAI Magister</h2>
-      <p class="gallery-subhead">Mobilizing investment in frontier and emerging markets</p>
-    </div>
-  </div>
-</a> -->
-
-
-  
+</a>  
   </div>
   {% endif %}
 {%- comment -%} Check for which section we're in and build the right mini-hero for each one — We don't build one for the Careers section because that happens in the careers layout {%- endcomment -%}
@@ -131,11 +88,17 @@
       <h1 class="hero-title">
         {% if page.url contains "global-reach/european-union" or page.url contains "global-reach/european-union-office"%}<a
           class="hero-title--link"
-          href="/who-we-are/global-reach/european-union">{{page.title}}</a>{% else %}{{page.title}}{% endif %}</h1>
+          href="/who-we-are/global-reach/european-union">{{page.title}}</a>{% else if page.url contains "global-reach/pakistan" %}<a
+          class="hero-title--link"
+          href="/who-we-are/global-reach/pakistan">{{page.title}}</a>{% else %}{{page.title}}{% endif %}</h1>
       <p class="hero-excerpt">{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}</p>
       {% if page.url contains "global-reach/european-union" or page.url contains "global-reach/european-union-office"%}<p
         class="section-nav">{%- for nav in site.data.europe-nav -%}
         <a class="section-nav--link {% if nav.text == 'EU'%}{% if page.url == '/who-we-are/global-reach/european-union'%}active {% endif %}{% elsif page.url contains nav.link%}active {% endif %}{% unless forloop.last %}last {% endunless %}"
+          href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %} / {% endunless %}
+        {%- endfor -%}</p>{% else if page.url contains "global-reach/pakistan" %}<p
+        class="section-nav">{%- for nav in site.data.pakistan-nav -%}
+        <a class="section-nav--link {% if nav.text == 'Pakistan'%}{% if page.url == '/who-we-are/global-reach/pakistan'%}active {% endif %}{% elsif page.url contains nav.link%}active {% endif %}{% unless forloop.last %}last {% endunless %}"
           href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %} / {% endunless %}
         {%- endfor -%}</p>{% endif %}
     </div>
