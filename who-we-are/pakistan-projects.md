@@ -7,9 +7,8 @@ summary: Home to almost a quarter of a billion people at the crossroads of Centr
   India, and Iran. DAI brings to Pakistan its global perspective, resources, and expertise,
   and a locally-led team of world class professionals based in Islamabad.
 hero: true
-regions:  
+regions: 
 layout: solution
-published: true
 ---
 
 <div class="block-project">
