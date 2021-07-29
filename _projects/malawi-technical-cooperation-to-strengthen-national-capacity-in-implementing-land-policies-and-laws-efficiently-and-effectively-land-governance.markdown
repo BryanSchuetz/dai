@@ -15,6 +15,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Malawi
 promos:
+- title: Malawi’s Land Governance is Headed in the Right Direction
+  link: https://dai-global-developments.com/articles/malawis-land-governance-is-headed-in-the-right-direction
 - title: Opportunities and Challenges of Land Reform Implementation in Malawi
   link: https://dai-global-developments.com/articles/opportunities-and-challenges-of-land-reform-implementation-in-malawi
 - title: 'Programme Results: Driving Land Governance in the Right Direction'
