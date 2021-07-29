@@ -1,10 +1,10 @@
 ---
 title: Chukwuka Enetanya
 date: 2021-07-15 13:46:00 Z
-published: false
 lastname: Enetanya
 summary: Chukwuka Enetanya is the compliance team lead in DAI's office in Nigeria.
 job-title: 'Senior Manager, Finance '
+image: "/uploads/Chukwuka%20Enetanya.jpg"
 solutions:
 - Economic Growth
 regions:
