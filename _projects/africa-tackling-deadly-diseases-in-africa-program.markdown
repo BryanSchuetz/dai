@@ -16,7 +16,7 @@ promos:
 - title: International Stakeholder Newsletter
   link: https://dai-assets.s3.us-east-1.amazonaws.com/our-work/810_5_DAI_TDDA_Int_NewsletterFINAL%20%282%29.pdf
 - title: L'Afrique contre les épidémies
-  link: "/uploads/TDDA%20copy%20for%20DAI%20website%20FR%20final.pdf"
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/our-work/TDDA%20copy%20for%20DAI%20website%20FR%20updated.docx.pdf
 - title: Meet our Country Coordinators
   link: "/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf"
 - title: Les Coordinateurs Pays de l’ACE
@@ -43,7 +43,7 @@ promos:
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
 
-The Tackling Deadly Diseases in Africa (TDDA) programme works with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We are delivering practical changes that strengthen health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, Niger, and Uganda. 
+The Tackling Deadly Diseases in Africa (TDDA) programme works with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We are delivering practical changes that strengthen health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
 
 >  “Pandemics are the greatest single threat to global health today. TDDA is a flagship programme of the UK Government helping to protect populations and economies around the world, including in the UK.”  -**Graham Gass, Group Head, Africa Regional Department, UK Foreign, Commonwealth & Development Office**
 
@@ -61,7 +61,7 @@ Zoonotic diseases, in which pathogens jump from animals to humans, account for 7
 
 ### COVID-19—How TDDA is Responding
 
-In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we are saving lives by providing operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020.  Thanks to our ‘feet on the ground’ in our six focus countries, TDDA is uniquely placed to assist with COVID-19 vaccine roll out, including the UN-led COVAX programme. We are discussing with country partners and FCDO how we can assist this initiative, which is increasing access to vaccinations in lower income countries. 
+In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we are saving lives by providing operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020.  Thanks to our ‘feet on the ground’ in our five focus countries, TDDA is uniquely placed to assist with COVID-19 vaccine roll out, including the UN-led COVAX programme. We are discussing with country partners and FCDO how we can assist this initiative, which is increasing access to vaccinations in lower income countries. 
 
 ### Making a Lasting Difference—Locally, Regionally, and Globally
 
