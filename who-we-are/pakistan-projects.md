@@ -31,14 +31,12 @@ layout: solution
   {% assign pakistan-news = site.news | where:'country','Pakistan' | sort:'date' | reverse  %}
   {% for article in pakistan-news %}
   {%- if jekyll.environment == 'prod' -%}
-    {%- if article.date > site.date -%}
     <div class="project-block">
       <h3>{{ article.title }}</h3>
       {% if article.summary %}<p>{{ article.summary | markdownify }}</p>{% endif %}
       <a href="{{ article.url }}" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
       <hr>
     </div>
-    {%- endif -%}
   {%- else -%}
     <div class="project-block">
       <h3>{{ article.title }}</h3>
