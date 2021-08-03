@@ -29,6 +29,9 @@ promos:
   link: https://www.usglc.org/global-impact-project/stories/seeding-food-security
 - title: 'Food for Thought: Raising Women Through Agriculture '
   link: https://www.usaid.gov/southern-africa-regional/news/food-thought-raising-women-through-agriculture
+- title: 'State-of-the-Art Digital Microscope Positions Zambia for Increased International
+    Seed Trade '
+  link: https://www.usaid.gov/southern-africa-regional/news/state-art-digital-microscope-positions-zambia-increased-international-seed
 layout: project
 ---
 
