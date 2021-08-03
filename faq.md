@@ -48,6 +48,10 @@ As a rule, no. Typically we implement programs funded by international donors, n
 
 DAI does not have a formal internship program. Periodically, targeted internship opportunities arise and when they do, we post information about them on our [careers page](/working-dai/job-opportunities). When offered, internships are paid; the individuals selected must be eligible to work in the country of the internship without company sponsorship. We encourage anyone who is interested to monitor our website and apply through the site for opportunities of interest to them.
 
+## How do I contact DAI regarding my application for a Special Immigrant Visa?
+
+If you are an Afghan citizen who worked directly for DAI in Afghanistan and you need employment verification in order to apply for the Special Immigrant Visa (SIV) Program, please contact our dedicated SIV [hotline](mailto:SIV@dai.com). In your message to our SIV Team, please be sure to submit a scanned copy of your passport/translated tazkira, any and all employment agreements, and scopes of work for each agreement. 
+
 
 [1]: mailto:steven_o'connor@dai.com?subject=faq
 [3]: /news-publications/news/dai-recognizes-two-employees-their-community-service
