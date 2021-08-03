@@ -7,7 +7,7 @@ summary: 'Virtuous Igbodika manages the delivery of project portfolio in DAI''s 
 job-title: Deputy Head, Project Management Unit
 image: "/uploads/Virtuous.jpeg"
 solutions:
-- Economic Growth
+- Governance
 regions:
 - Sub-Saharan Africa
 ---
@@ -20,4 +20,3 @@ She holds certificates in project management and gender studies and is a Project
 
 * B.Sc., economics, University of Maiduguri
 * M.Sc., development management, University of Birmingham
-* Ph.D., sustainable development, EUCLID University
