@@ -5,7 +5,7 @@ lastname: Adesina
 summary: 'Seun Adesina manages the business development portfolio in DAI’s Nigeria
   office. '
 job-title: Manager, Business Development
-image: "/uploads/nigeria-seun.jpg"
+image: "/uploads/Seun.jpeg"
 solutions:
 - Economic Growth
 regions:
