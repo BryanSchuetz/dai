@@ -2,7 +2,6 @@
 title: DAI is Launching New Supplier Management Portal Enabling Supply Chain Diversification
   and Localization
 date: 2021-08-04 15:55:00 Z
-published: false
 tags:
 - digital
 solutions:
