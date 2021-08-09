@@ -16,3 +16,8 @@ ISO 9001:2015 certification requires that a business implements a quality manage
 ISO 14001:2015 requires organisations to document and implement policy and action plans that manage environmental impact, including for areas such as compliance, wastage, and environmental proactivity. Organisations certified in ISO 9001 and ISO 14001 are committed to continuous improvement and assessed annually to ensure progress is being maintained.
 
 “This certification substantiates the hard work and attention to detail that our staff applies here in the United Kingdom, in Brussels, and around the world, and gives us an additional quality standard,” said Melanie Machray, DAI’s Quality and Systems Coordinator. “We want our customers and colleagues to know about our quality expectations, our focus on client satisfaction, and our commitment to continuous improvement.”
+
+
+You can verify the validity of our EMS 14001:2015 ISO certificate by entering our number 230400 via this link: www.british-assessment.co.uk/verify
+ 
+You can verify the validity of our QMS 9001:2015  ISO certificate by entering our number 182403 via this link: www.british-assessment.co.uk/verify
