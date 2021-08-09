@@ -5,7 +5,7 @@ summary: 'SHARPE works to bring about systemic improvements in the protracted re
   situation affecting three regions in Ethiopia, enabling refugees and their host
   communities to become more economically resilient. '
 start: 2019
-end: 2022
+end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States
@@ -15,19 +15,38 @@ regions: Sub-Saharan Africa
 country: Ethiopia
 ---
 
-The Foreign, Commonwealth & Development Office (FCDO) is providing funding to strengthen the economies of host and refugee populations in three regions in Ethiopia; Dolo, Gambella, and Jijiga. The SHARPE programme works to increase economic opportunities and support livelihoods in these regions.
+Through the innovative use of an adapted market systems development approach “Markets for Resilience”, the Strengthening Host and Refugees Populations in Ethiopia program (SHARPE) aims to strengthen the economies of target populations in three regions in Ethiopia; Dollo Ado, Gambella, and Jijiga.
 
-Through the innovative use of an adapted market systems development approach, SHARPE works to inclusively and sustainably empower refugees and host communities to become more economically resilient.
+SHARPE promotes increased refugee self-reliance and generates economic opportunities for host communities through the piloting and scaling of interventions. This approach is based upon understanding the economic barriers that refugee and host communities face, and working with key stakeholders—including businesses, government, and service providers—to make markets work for target communities.
 
-SHARPE promotes increased refugee self-reliance and generate economic opportunities for host communities through the piloting and scaling of interventions across seven sectors: crops, livestock, fish, wood, labour, aid, and access to finance. This approach is based upon understanding the economic barriers that refugee and host communities face, and working with key stakeholders—including businesses, government, and service providers—to make markets work for SHARPE’s target communities. 
+The program also serves as a learning platform to the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit up to 200,000 people in the target populations, helping them realize increases in incomes, employment, or expand access to assets through private sector-driven changes.
 
-SHARPE also serves as a learning platform to the wider international and Ethiopian development community to share lessons in the application of systemic approaches in humanitarian settings. SHARPE expects to benefit 200,000 people in the target populations, helping them realise increases in incomes, employment, or expand access to assets through private sector-driven changes. 
 
 <iframe src="https://player.vimeo.com/video/575825798" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
-* Test agricultural input supplier interest in expanding distribution to target areas. 
-* Explore supply of input, cultivation technology, and markets for backyard gardening.
-* Expand access to good quality seedlings to increase farmers' yields and incomes. 
-* Develop joint village savings and loans associations to improve access to finance for both refugees and host communities.
+**Financial services and business development services:**
+* Work with banks, micro-finance institutions, and digital financial service providers to develop an interface with and services for medium, small and micro enterprises (MSMEs) and rural clients.
+* Facilitate the expansion of DFS to refugees and host communities in Jijiga and Dollo Ado.
+* Support access to tailored and affordable financial services (credit and saving) for MSMEs, resulting in soft loans and business support services to 75-100 enterprises.
+
+**Regional market development for cereals and horticulture, livestock, and poultry:**
+* Work with agro-input dealers and lead companies to expand regional distribution networks and the range and quality of inputs. 
+* Facilitate networks of agro-vet dealers in Somali and Gambella to expand access to quality livestock and agricultural inputs. 
+* Support the expansion of micro and small businesses operating in the poultry and egg supply chain.
+
+**Aid Reform:**
+* Support the Comprehensive Refugee Response Framework implementation and the push to cash-based aid delivery.
+* Facilitate investment and innovation in commercial clean energy solutions. 
+* Align humanitarian and market-based interventions so that investments support the growth of local businesses and local markets
+* Facilitate local procurement of goods from refugees and host communities. 
+* Work with refugee agencies to support refugee business registration.
+* Develop access to clean solar energy in refugee camps in the Somali region. 
+
+## Select Results
+
+* 20,000 refugees and host community individuals have increased their enterprise or household performance.
+* £558,000 has been leveraged by market actors for investment in refugee hosting areas. 
+* Over 1,100 local host community businesses have received support to become more innovative and grow their business.
+* 18,155 individuals have experienced an increase in income, increase in employment, savings, or increased liquid assets.
