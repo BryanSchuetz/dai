@@ -1,15 +1,12 @@
 ---
 title: DAI Europe Earns ISO 9001:2015 and ISO 14001:2015 Certifications
 date: 2016-08-01 18:05:00 Z
+clients: U.K. Department for International Development
 summary: 'DAI Europe has achieved the internationally recognised ISO 9001:2015 and
   ISO 14001:2015 standards, establishing it as an operations leader in international
   development consulting and implementation.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: U.K. Department for International Development
 layout: node
 ---
 
@@ -26,3 +23,7 @@ ISO 14001:2015 requires organisations to have an environmental policy and action
 "The new 2015 standard also allowed merging with the environmentally focused ISO 14001 and we wanted to be one of the first U.K. companies to deploy a merged management system in accordance with the new standard.
 
 "This certification substantiates the hard work and attention to detail that our staff applies here in the United Kingdom and around the world, and gives us an additional quality standard. We also want our customers and colleagues to know about our quality expectations, our focus on client satisfaction, and our commitment to continuous improvement."  
+
+You can verify the validity of our EMS 14001:2015 ISO certificate by entering our number 230400 via this link: www.british-assessment.co.uk/verify
+ 
+You can verify the validity of our QMS 9001:2015  ISO certificate by entering our number 182403 via this link: www.british-assessment.co.uk/verify
