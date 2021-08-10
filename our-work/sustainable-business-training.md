@@ -1,11 +1,12 @@
 ---
 title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
-permalink: not-sustainable-business-training
-published: false
+permalink: our-work/solutions/sustainable/sustainable-business-training
 summary: 'Building off 50 years of international development experience, DAI offers
   a comprehensive catalogue of online training. '
 layout: default
+hero: true
+redirect_from: "/our-work/sustainable-business-training"
 ---
 
 # Sustainable Business Training
@@ -14,7 +15,7 @@ Building off 50 years of international development experience, DAI offers a comp
 
 Our featured training includes:
 
-* Local Content Master Class
+* [Local Content Master Class](/our-work/solutions/sustainable/training/master-class)
 * Oil and Gas 101
 * Small Business Recovery and Resilience
 

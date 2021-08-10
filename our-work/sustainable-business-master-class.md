@@ -1,11 +1,11 @@
 ---
-title: Sustainable Business Training
+title: Local Content Master Class
 date: 2017-06-19 15:11:00 Z
-permalink: "/our-work/solutions/corporate/sustainable-business-training"
+permalink: "our-work/solutions/sustainable/training/master-class"
 hero: true
 solutions:
 - Sustainable Business
-redirect_from: "/our-work/sustainable-business-master-class"
+redirect_from: "/solutions/corporate/sustainable-business-training"
 layout: solution
 ---
 
