@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 position: 7
-summary: Don't see the answer you're looking for? Send us your question and we will
+summary: Don't see the answer you're looking for? Send us your question and we'll
   find an answer for you.
 layout: default
 ---
