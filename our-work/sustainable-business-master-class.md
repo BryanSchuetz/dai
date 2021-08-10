@@ -1,7 +1,7 @@
 ---
 title: Local Content Master Class
 date: 2017-06-19 15:11:00 Z
-permalink: /our-work/solutions/sustainable/training/master-class
+permalink: "/our-work/solutions/sustainable/training/master-class"
 hero: true
 solutions:
 - Sustainable Business
