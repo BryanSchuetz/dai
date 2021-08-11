@@ -5,7 +5,9 @@ permalink: "/our-work/solutions/sustainable/training/master-class"
 hero: true
 solutions:
 - Sustainable Business
-redirect_from: "/solutions/corporate/sustainable-business-training"
+redirect_from: 
+- "/solutions/corporate/sustainable-business-training"
+- "/our-work/solutions/corporate/sustainable-business-training"
 layout: solution
 ---
 
