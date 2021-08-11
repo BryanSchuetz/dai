@@ -11,6 +11,7 @@ solutions:
 - Fragile States
 - Stabilization
 - Market Systems and Value Chain
+- Economic Growth
 regions: Sub-Saharan Africa
 country: Ethiopia
 ---
