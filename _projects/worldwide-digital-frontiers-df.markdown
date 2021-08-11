@@ -5,7 +5,7 @@ summary: Digital Frontiers supports the U.S. Agency for International Developmen
   Center for Digital Development in identifying the most successful digital solutions
   and scaling their impact globally.
 start: 2017
-end: 2022
+end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Digital Acceleration
