@@ -355,10 +355,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Rwanda",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/rwanda-nguriza-nshore\">Nguriza Nshore</a> (USAID)",
+        "description": "- <a   href=\"https://www.dai.com/our-work/projects/rwanda-nguriza-nshore\">Nguriza Nshore</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/rwanda-technical-assistance-to-support-the-national-agricultural-export-development-boards-capacity-in-monitoring-the-implementation-of-projects-and-in-the-feeding-the-cities-programme\">Ag Export</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -1529,10 +1529,10 @@
       "type": "Feature",
       "properties": {
         "title": "Global Projects based in Belgium",
-        "description": "- <a   href=\"https://dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility \">TPSD</a> (EC) <br>- <a   href=\"http://dai.com/our-work/projects/worldwide—technical-and-advisory-services-social-transfers-asist\">ASiST III</a> (EC) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">SEIA</a> (EC) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">EC Com 2015</a> (EC) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">SME Access to Finance</a> (EIB)<br>- <a   href=\"https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood\">Clima   Med</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-support-to-the-secretariat-of-the-global-covenant-of-mayors-for-climate-and-energy\">Climate and Energy</a> (EU)",
+        "description": "- <a   href=\"https://dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility \">TPSD</a> (EC) <br>- <a   href=\"http://dai.com/our-work/projects/worldwide—technical-and-advisory-services-social-transfers-asist\">ASiST III</a> (EC) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">SEIA</a> (EC) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">EC Com 2015</a> (EC) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">SME Access to Finance</a> (EIB)<br>- <a   href=\"https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood\">Clima   Med</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-support-to-the-secretariat-of-the-global-covenant-of-mayors-for-climate-and-energy\">Climate and Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy\">GCoM</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 7
+        "marker-symbol": 8
       },
       "geometry": {
         "coordinates": [
@@ -1542,6 +1542,42 @@
         "type": "Point"
       },
       "id": "fda69d625744cc626a3e930582fb9311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Active Projects in Benin",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/benin-assistance-technique-au-programme-dappui-a-la-mise-en-oeuvre-du-programme-dappui-au-developpement-durable-du-secteur-agricole-paddsa\">PADDSA</a> (EU)",
+        "marker-size": "small",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": 1
+      },
+      "geometry": {
+        "coordinates": [
+          2.3158,
+          9.3077
+        ],
+        "type": "Point"
+      },
+      "id": "8255e3df5c220d76d14177e8036ef706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Active Projects in Belarus",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/belarus-support-to-effective-air-emissions-and-radiation-monitoring-and-improved-environmental-management\">Env. Management</a> (EU)",
+        "marker-size": "small",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": 1
+      },
+      "geometry": {
+        "coordinates": [
+          27.9534,
+          53.7098
+        ],
+        "type": "Point"
+      },
+      "id": "32680680a94ea68ae0d33d914ae93c99"
     }
   ],
   "type": "FeatureCollection"
