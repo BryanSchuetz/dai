@@ -1590,7 +1590,7 @@
       },
       "geometry": {
         "coordinates": [
-          88.4976,
+          -88.4976, 
           17.1899
         ],
         "type": "Point"
