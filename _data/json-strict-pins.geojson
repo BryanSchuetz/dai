@@ -1511,10 +1511,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Egypt",
-        "description": "-<a href=\"https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund\">AWEF</a> (FCDO, IDB)<br>-<a href=\"https://www.dai.com/our-work/projects/egypt-macro-economic-stabilization-and-reform-mesr\">MESR</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/egypt-technical-and-financial-sustainability-of-the-renewable-energy-and-energy-efficiency-sectors\">Renewables</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/egypt-technical-and-financial-sustainability-of-the-renewable-energy-and-energy-efficiency-sectors\">Renewable   Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega\">EGA</a> (USAID)",
+        "description": "-<a href=\"https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund\">AWEF</a> (FCDO, IDB)<br>-<a href=\"https://www.dai.com/our-work/projects/egypt-macro-economic-stabilization-and-reform-mesr\">MESR</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/egypt-technical-and-financial-sustainability-of-the-renewable-energy-and-energy-efficiency-sectors\">Renewables</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/egypt-technical-and-financial-sustainability-of-the-renewable-energy-and-energy-efficiency-sectors\">Renewable   Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega\">EGA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/egypt-technical-assistance-improving-access-to-finance-by-facilitating-business-expansion-of-promising-and-growing-small-and-medium-enterprises\">Business Expansion</a> (EIB)",
         "marker-size": "#6c6c6c",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 5
+        "marker-symbol": 6
       },
       "geometry": {
         "coordinates": [
@@ -1578,6 +1578,24 @@
         "type": "Point"
       },
       "id": "32680680a94ea68ae0d33d914ae93c99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Active Projects in Belize",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/belize-idb-ecomicro-project\">EcoMicro</a> (IADB)",
+        "marker-size": "small",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": 1
+      },
+      "geometry": {
+        "coordinates": [
+          88.4976,
+          17.1899
+        ],
+        "type": "Point"
+      },
+      "id": "13fd1f24e6e5ed34d1ead77d9910b58a"
     }
   ],
   "type": "FeatureCollection"
