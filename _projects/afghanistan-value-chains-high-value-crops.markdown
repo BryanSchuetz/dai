@@ -20,6 +20,7 @@ promos:
 - title: 'When “Business as Usual” is not Good for Business: Afghanistan-Pakistan
     Trade in the COVID-19 Era'
   link: https://dai-global-developments.com/articles/when-business-as-usual-is-not-good-for-business-afghanistan-pakistan-trade-in-the-covid-19-era
+published: false
 ---
 
 The Afghanistan Value Chains–High Value Crops (AVC-HVC) project promotes rapid, inclusive, and lasting growth in the agriculture sector. This approach combines market systems development, which seeks to address market failures through interventions that modify market players’ incentives and behavior, with the use of anchor firms, i.e. well-established agribusinesses positioned to drive systemic change, as entry points and partners. This combined approach promotes behavior change, drives innovation, and accelerates economic growth in a way that ensures lasting and large-scale transformational market system change.

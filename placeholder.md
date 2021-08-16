@@ -34,6 +34,8 @@ redirect_from:
 - '/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar'
 - '/our-work/projects/afghanistan-women-in-the-economy'
 - '/our-work/projects/regional-agricultural-development-program-radp-east'
+- '/our-work/projects/afghanistan-value-chains-livestock'
+- '/our-work/projects/afghanistan-value-chains-high-value-crops'
 ---
 
 This page has been temporarily replaced following recent events in Afghanistan.
