@@ -14,6 +14,7 @@ projects: Afghanistan—Regional Afghan Municipalities Program for Urban Populat
   Regional Command East (RAMP UP East)
 clients: 
 layout: node
+published: false
 ---
 
 Through May 2013, the town of Chaghcharan in Afghanistan collected more property taxes than any time in its history. During April and May 2013 alone, revenue from property taxes increased 1,150 percent compared to the whole of 2012.
