@@ -19,6 +19,8 @@ country:
 - Jordan
 - Palestine
 promos:
+- title: ICAI Highlights AWEF Success Factors Relevant to Employment Programming
+  link: https://dai-global-developments.com/articles/icai-highlights-awef-success-factor-relevant-to-employment-programming
 - title: Discovering A Route to Formalize Women-Owned Businesses in Jordan
   link: https://seepnetwork.org/Blog-Post/Discovering-A-Route-to-Formalize-Women-Owned-Businesses-in-Jordan
 - title: 'Empowering Women: Lessons from COVID-19 and Beyond'

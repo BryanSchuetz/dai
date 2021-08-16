@@ -41,8 +41,6 @@ WIE worked across 30 Afghan provinces from its offices based in five economic zo
 
 WIE supported women ages 18 and above to find new or better jobs through job skills training based on market demand, and work experience placements in internships, apprenticeships, and on-the-job training activities. The program gave Afghan women the opportunity to gain work experience, prove their capabilities to employers, and secure new or better positions.
 
-Consortium partners included RSI Consulting (monitoring and evaluation) and the Thunderbird School of Global Management at Arizona State University.
-
 Watch the video to learn more about the project's impact: 
 <iframe src="https://player.vimeo.com/video/460701114" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -59,7 +57,7 @@ Watch the video to learn more about the project's impact:
 * Facilitated new or better employment for 19,869 women.
 * Supported apprenticeships or internships for 10,775 women.
 * Trained 5,882 men and women in gender-sensitivity skills.
-* Supported partner [AlemHealth](https://www.alemhealth.com/) to provide e-learning training on COVID-19 testing and care to 582 health workers (of which 314 women completed a post-test to qualify to diagnose COVID-19). AlemHealth also developed a triage phone center and app; 4,100 citizens registered their symptoms.
+* Supported a partner to provide e-learning training on COVID-19 testing and care to 582 health workers (of which 314 women completed a post-test to qualify to diagnose COVID-19). The partner also developed a triage phone center and app; 4,100 citizens registered their symptoms.
 * Awarded scholarships to more than 14,733 women to train in information technology, healthcare, retail sales, customer service, and other areas. 
 * Placed interns and apprentices in 2,524 private sector host companies across 30 provinces; more than half are working in [healthcare](https://dai-global-developments.com/articles/in-afghanistan-women-step-up-to-fill-need-for-frontline-healthcare-workers) and education—sectors critical to Afghans' well-being.
 * Assisted 330 young women to enter the banking sector by providing them on-the-job training and [internships](https://reliefweb.int/report/afghanistan/usaid-microfinance-training-program-assists-young-afghan-women-enter-financial) in microfinance institutions and commercial banks in major regional urban centers.
