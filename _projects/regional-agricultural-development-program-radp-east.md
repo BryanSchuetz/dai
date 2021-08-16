@@ -1,6 +1,7 @@
 ---
 title: Afghanistan—Regional Agricultural Development Program (RADP–East)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: The Regional Agricultural Development Program-East (RADP-East) uses a value
   chain facilitation strategy to improve crop yields and find new outlets for rural
   Afghan farmers to sell their harvests, thereby increasing the food and economic
@@ -26,7 +27,6 @@ promos:
 - title: Dairy Business Perseveres Through Pandemic
   link: https://www.usaid.gov/afghanistan/news/dairy-business-perseveres-through-pandemic
 layout: project
-published: false
 ---
 
 With plans for key infrastructure investments such as electrification and regional airports hubs, the farmers and agribusinesses of eastern Afghanistan are well positioned to take part in the country's growing economy and benefit from expanding international trade opportunities. However, challenges such as unreliable irrigation, poor cultivation techniques, a lack of knowledge about accessing new markets, and limited opportunities for women all contribute to reduced productivity and profitability in the region's agriculture sector.

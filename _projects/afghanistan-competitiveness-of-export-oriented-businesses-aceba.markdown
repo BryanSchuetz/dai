@@ -1,6 +1,7 @@
 ---
 title: Afghanistan—Competitiveness of Export-Oriented Businesses Activity (ACEBA)
 date: 2020-01-31 10:34:00 Z
+published: false
 summary: The Afghanistan Competitiveness of Export-Oriented Businesses Activity works
   to increase the competitiveness of export-oriented businesses in Afghanistan, promoting
   sustainable nationwide economic growth.
@@ -11,7 +12,6 @@ solutions:
 - Economic Growth
 regions: Eastern Europe and Central Asia
 country: Afghanistan
-published: false
 ---
 
 Many Afghan firms lack the competitive strength to maintain commercial viability in a distortion-free market, let alone to capture opportunities in export markets. The flagship economic growth project in USAID/Afghanistan’s portfolio, the Afghanistan Competitiveness of Export-Oriented Businesses Activity (ACEBA) project works to increase the competitiveness of export-oriented businesses, through a combination of key value chain support activities and export acceleration facilities designed to promote sustainable nationwide economic growth.

@@ -2,6 +2,7 @@
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command West (RAMP UP West)
 date: 2016-01-21 22:40:00 Z
+published: false
 summary: 'The Regional Afghan Municipalities Program for Urban Populations, Regional
   Command West project helped the Government of the Islamic Republic of Afghanistan
   establish capable, legitimate governance at the municipal level in all four provincial
@@ -19,7 +20,6 @@ regions:
 country:
 - Afghanistan
 layout: project
-published: false
 ---
 
 Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Of the total population of urban households, only 10 percent have piped water systems; only 20 percent of households have consistent city power—and 14 percent lack any access to electricity. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent.
