@@ -20,7 +20,7 @@ redirect_from:
 - "/our-work/projects/afghanistan-alternative-development-program-eastern-region-adpe"
 - "/our-work/projects/afghanistan-assistance-building-afghanistan-development-enterprise-abade"
 - "/our-work/projects/afghanistan-assistance-legislative-bodies-afghanistan-alba"
-- "/our-work/projects/afghanistan-competitiveness-of-export-oriented-businesses-aceba "
+- "/our-work/projects/afghanistan-competitiveness-of-export-oriented-businesses-aceba"
 - "/our-work/projects/afghanistan-immediate-needs-project-nangarhar-ainp"
 - "/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new"
 - "/our-work/projects/afghanistan-local-governance-and-community-development-lgcd"
