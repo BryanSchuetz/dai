@@ -1,6 +1,6 @@
 ---
 title: Placeholder Page
-permalink: /placeholder
+permalink: "/placeholder"
 layout: default
 redirect_from: 
 - '/news/afghanistan-agriculture-ministry-launches-knowledge-management-facility'
@@ -16,6 +16,8 @@ redirect_from:
 - '/our-work/projects/afghanistan-alternative-development-program-eastern-region-adpe'
 - '/news/hundreds-women-and-children-afghanistan-assisted-linda-norgrove-foundation'
 - '/news/linda-norgrove-foundation-supports-high-performing-school-in-rural-afghanistan'
+- "/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace"
+- "/our-work/projects/afghanistan-alternative-development-program-eastern-region-adpe"
 ---
 
 This page has been temporarily replaced following recent events in Afghanistan.
