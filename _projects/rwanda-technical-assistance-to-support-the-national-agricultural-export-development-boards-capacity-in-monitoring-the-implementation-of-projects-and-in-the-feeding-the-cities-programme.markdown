@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Rwanda
 ---
 
-Rwanda’s agricultural sector is predominantly composed of smallholder farmers, the country’s main food suppliers. With more than 70 percent farming community counted as smallholders, the country and its development partners have embarked on a plan to professionalize the industry, supporting farmers to maximize their productivity. The modernization plan also supports market linkages—locally and internationally. 
+Rwanda’s agricultural sector is predominantly composed of smallholder farmers, the country’s main food suppliers. With more than 70 percent of the farming community counted as smallholders, the country and its development partners have embarked on a plan to professionalize the industry, supporting farmers to maximize their productivity. The modernization plan also supports market linkages—locally and internationally. 
 
 The European Union (EU) supports the Government of Rwanda's efforts to modernize agriculture through a number of projects and funding models. DAI provides project monitoring and management support to the National Agricultural Export Development Board. 
 
