@@ -1,6 +1,7 @@
 ---
 title: Hundreds of Women and Children in Afghanistan Assisted by Linda Norgrove Foundation
 date: 2011-12-28 18:05:00 Z
+published: false
 summary: 'The Linda Norgrove Foundation marked its first year by releasing a list
   of its accomplishments in Afghanistan.
 
@@ -11,7 +12,6 @@ regions:
 projects: 
 clients: 
 layout: node
-published: false
 ---
 
 The Linda Norgrove Foundation marked its first year by releasing a list of its accomplishments in Afghanistan, including:

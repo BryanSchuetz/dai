@@ -1,6 +1,7 @@
 ---
 title: DAI Celebrates Projects Pressing for Progress in Gender Equality
 date: 2018-03-06 16:39:00 Z
+published: false
 solutions:
 - Gender
 summary: 'This International Women''s Day, March 8, DAI will press for progress by
@@ -9,7 +10,6 @@ summary: 'This International Women''s Day, March 8, DAI will press for progress 
   our stories on Facebook and Twitter using the #PressforProgress hashtag.'
 social-image: "/uploads/InternationalWomensDay-portrait-purpleonwhite.jpg"
 country: Nigeria
-published: false
 ---
 
 This [International Women's Day](https://www.internationalwomensday.com/), March 8, DAI will press for progress by hosting an internal panel of DAI gender experts to debate future programming and by externally highlighting women's successes from our work around the globe. Read our stories on Facebook and Twitter using the [#PressforProgress](https://twitter.com/search?q=%23PressForProgress&src=tyah) hashtag.

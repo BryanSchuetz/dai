@@ -1,6 +1,7 @@
 ---
 title: Afghanistan Agriculture Ministry Launches Knowledge Management Facility
 date: 2012-03-16 18:05:00 Z
+published: false
 summary: 'The Afghanistan Ministry of Agriculture, Irrigation and Livestock this week
   launched a dynamic database that will inform farmers and businesses of the latest
   prices, news, and trends in Afghan agriculture.
@@ -13,7 +14,6 @@ regions:
 projects: Afghanistan—Agricultural Credit Enhancement Program I & II (ACE)
 clients: 
 layout: node
-published: false
 ---
 
 The Afghanistan Ministry of Agriculture, Irrigation and Livestock this week launched a dynamic database that will inform farmers and businesses of the latest prices, news, and trends in Afghan agriculture.
