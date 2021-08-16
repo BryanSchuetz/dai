@@ -13,6 +13,7 @@ redirect_from:
 - '/news/young-afghan-women-trained-in-mountaineering-with-support-of-linda-norgrove-foundation'
 - '/news/dai-project-helps-afghan-municipality-boost-tax-revenue'
 - '/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace'
+- '/our-work/projects/afghanistan-alternative-development-program-eastern-region-adpe'
 ---
 
 This page has been temporarily replaced following recent events in Afghanistan.
