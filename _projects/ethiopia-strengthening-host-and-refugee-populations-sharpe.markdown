@@ -10,8 +10,6 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Fragile States
 - Economic Growth
-- 
-- 
 regions: Sub-Saharan Africa
 country: Ethiopia
 ---
@@ -24,7 +22,7 @@ The program also serves as a learning platform for the wider international and E
 
 <iframe src="https://player.vimeo.com/video/575825798" width="900" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-## Sample Activities
+### Sample Activities
 
 **Financial services and business development services:**
 * Work with banks, microfinance institutions, and digital financial service providers to develop an interface with and services for medium, small, and micro enterprises (MSMEs) and rural clients.
@@ -37,16 +35,16 @@ The program also serves as a learning platform for the wider international and E
 * Support the expansion of micro and small businesses operating in the poultry and egg supply chain.
 
 **Aid Reform:**
-* Support implementation of the Comprehensive Refugee Response Framework and create the conditions for a switch to cash transfers. 
-* Align humanitarian and market-based interventions so that investments from humanitarian agencies support the growth of local businesses and local markets.
-* Support refugee entrepreneurs to move from the informal to the formal sector by securing work permits and business licenses.
+* Support the Comprehensive Refugee Response Framework implementation and the push to cash-based aid delivery.
+* Facilitate investment and innovation in commercial clean energy solutions. 
+* Align humanitarian and market-based interventions so that investments support the growth of local businesses and local markets.
+* Facilitate local procurement of goods from refugees and host communities. 
+* Work with refugee agencies to support refugee business registration.
 * Develop access to clean solar energy in refugee camps in the Somali region. 
 
+### Select Results
 
-## Select Results
-
-* 20,000 refugees and host community individuals have increased their enterprise or household performance.
-* £558,000 has been leveraged by market actors for investment in refugee hosting areas. 
-* Over 1,100 local host community businesses have received support to become more innovative and grow their business.
-* 18,155 individuals have experienced an increase in income, increase in employment, savings, or increased liquid assets.
-
+* More than 20,000 refugees and host community individuals have increased their enterprise or household performance.
+* Nearly £558,000 has been leveraged by market actors for investment in refugee-hosting areas. 
+* More than 1,100 local host community businesses have received support to become more innovative and grow their business.
+* More than 18,150 individuals have experienced an increase in income, increase in employment, savings, or increased liquid assets.
