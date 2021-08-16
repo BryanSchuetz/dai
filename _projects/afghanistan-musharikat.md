@@ -24,6 +24,7 @@ promos:
     Mainstream
   link: https://dai-global-developments.com/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream
 layout: project
+published: false
 ---
 
 Musharikat supports the U.S. Agency for International Development (USAID) Afghanistan's investments in women's rights groups and activists. Musharikat—which means "partnership" or "participation" in Dari and Pashto—[works](https://dai-global-developments.com/articles/women-and-girls-advocate-for-their-place-in-afghanistans-social-and-political-mainstream) to build constituencies, strengthen advocacy, and increase awareness and support for women's equality and empowerment in all of Afghanistan's 34 provinces.

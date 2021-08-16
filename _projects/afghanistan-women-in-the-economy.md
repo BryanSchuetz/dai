@@ -32,6 +32,7 @@ promos:
 - title: Reflections on Machine Learning for Gender Inclusion in Afghanistan
   link: https://dai-global-digital.com/reflections-on-machine-learning-for-gender-inclusion-in-afghanistan.html
 layout: project
+published: false
 ---
 
 The U.S. Agency for International Development’s Promote: Women in the Economy (WIE) program [bolstered women’s inclusion](http://dai-global-developments.com/articles/out-of-hiding-assisting-young-educated-women-in-afghanistan-to-finally-enter-the-workforce?utm_source=daidotcom) in Afghanistan’s economy and worked to ensure that progress made by Afghan women over the past decade endures and advances.

@@ -26,6 +26,7 @@ promos:
 - title: Dairy Business Perseveres Through Pandemic
   link: https://www.usaid.gov/afghanistan/news/dairy-business-perseveres-through-pandemic
 layout: project
+published: false
 ---
 
 With plans for key infrastructure investments such as electrification and regional airports hubs, the farmers and agribusinesses of eastern Afghanistan are well positioned to take part in the country's growing economy and benefit from expanding international trade opportunities. However, challenges such as unreliable irrigation, poor cultivation techniques, a lack of knowledge about accessing new markets, and limited opportunities for women all contribute to reduced productivity and profitability in the region's agriculture sector.

@@ -20,6 +20,7 @@ summary: SIKA-North worked to create more resilient communities in Afghanistan t
   problems. This is critical to stability, as Afghans generally assert that government
   effectiveness improves their personal sense of predictability, community resilience,
   and physical security.
+published: false
 ---
 
 SIKA-North worked to create more resilient communities in Afghanistan that see their government officials as delivering public services and responsive to local problems. This is critical to stability, as Afghans generally assert that government effectiveness improves their personal sense of predictability, community resilience, and physical security.

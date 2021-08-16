@@ -18,6 +18,7 @@ regions:
 country:
 - Afghanistan
 layout: project
+published: false
 ---
 
 Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Only 10 percent of urban dwellers have piped water systems; 20 percent have consistent city power, and 14 percent lack any access to electricity. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent. 

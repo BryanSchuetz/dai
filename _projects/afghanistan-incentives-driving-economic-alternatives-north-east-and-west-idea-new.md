@@ -17,6 +17,7 @@ regions:
 country:
 - Afghanistan
 layout: project
+published: false
 ---
 
 Afghan farmers cultivate opium poppy because they need to feed their families—and for many poor rural Afghans, poppy growing is the only reliable source of cash, credit, and access to cropland. The Incentives Driving Economic Alternatives for the North, East, and West (IDEA-NEW) program dissuaded Afghans from growing poppy by increasing access to licit, commercially viable, alternative sources of income.

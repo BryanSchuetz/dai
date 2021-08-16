@@ -25,6 +25,7 @@ promos:
     Survey
   link: https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey
 layout: project
+published: false
 ---
 
 Our Strong Hubs for Afghan Hope and Resilience (SHAHAR) project worked to create well-governed, fiscally sustainable Afghan municipalities capable of meeting the needs of growing urban populations. Targeted support to municipal governments, as well as to the Deputy Ministry of Municipalities (DMM) and Municipal Advisory Boards, improved municipal financial management, [urban service delivery](https://dai-global-developments.com/articles/afghan-cities-assisted-by-usaid-project-achieve-highest-ratings-in-citizen-survey), and citizen consultation. SHAHAR increased the capacity of the DMM to support and monitor the performance of municipalities. SHAHAR helped to develop and implement key supporting laws and regulations. To broaden and sustain its impact and to improve knowledge-sharing, SHAHAR developed support and learning networks among organizations and individuals that play key roles in governance and municipal service delivery.
