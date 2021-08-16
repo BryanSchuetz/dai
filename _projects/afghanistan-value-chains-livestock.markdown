@@ -1,6 +1,7 @@
 ---
 title: Afghanistan Value Chains (AVC)—Livestock
 date: 2018-08-15 18:30:00 Z
+published: false
 summary: The Afghanistan Value Chains–Livestock project helps livestock farmers and
   related agribusinesses to increase productivity and create jobs by expanding into
   new markets, attracting investors, and improving efficiency.
@@ -17,7 +18,6 @@ promos:
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
     of COVID-19
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
-published: false
 ---
 
 Over the past 15 years, DAI has witnessed how Afghan agribusinesses have matured, moving steadily toward sustainability on market principles. We know Afghan livestock enterprises—farmers and herders, processors, distributors, marketers, and exporters in the poultry, sheep, dairy, and related value chains—want to be self-sufficient and commercially viable. However, high transaction costs, limited access to finance, and a poor enabling environment continue to deter private investment in livestock-related enterprises and hinder growth in Afghanistan’s agriculture sector overall.
