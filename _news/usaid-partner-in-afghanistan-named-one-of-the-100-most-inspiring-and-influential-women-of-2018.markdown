@@ -2,6 +2,7 @@
 title: USAID Promote Activist in Afghanistan Named One of the 100 Most Inspiring and
   Influential Women of 2018
 date: 2018-12-05 17:53:00 Z
+published: false
 solutions:
 - Stability
 - Gender and Social Inclusion
@@ -13,7 +14,6 @@ summary: Nargis Taraki of Afghanistan gained wide recognition for her recent spe
   as a woman.” The 21-year-old, a member of Afghanistan’s Musharikat civil society
   network for women’s rights and inclusion, was recently named one of the BBC’s “100
   Most Inspiring and Influential Women of 2018.”
-published: false
 ---
 
 Nargis Taraki of Afghanistan gained wide recognition for her recent speech at Kabul University, proclaiming, “No man has the right to take away your identity as a woman.” The 21-year-old, a member of Promote Musharikat's civil society network for women’s rights and inclusion, was recently named one of the BBC’s “[100 Most Inspiring and Influential Women of 2018](https://www.bbc.com/news/world-46225037).” The BBC published an [article](https://www.bbc.com/news/world-asia-46370981) about Taraki on December 1.

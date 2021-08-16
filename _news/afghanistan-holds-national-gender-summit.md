@@ -1,6 +1,7 @@
 ---
 title: Afghanistan Holds National Gender Summit
 date: 2016-06-01 18:05:00 Z
+published: false
 summary: A national summit on gender equality was recently held in Afghanistan that
   brought together activist and civil society groups to set priorities and establish
   coalitions.
@@ -16,7 +17,6 @@ projects:
 - Afghanistan—Musharikat
 clients: U.S. Agency for International Development
 layout: node
-published: false
 ---
 
 A national summit on gender equality was recently held in Afghanistan that brought together activist and civil society groups to set priorities and establish coalitions.

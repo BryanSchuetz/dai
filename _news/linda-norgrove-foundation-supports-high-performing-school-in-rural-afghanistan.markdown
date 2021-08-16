@@ -1,11 +1,11 @@
 ---
 title: Linda Norgrove Foundation Supports High-Performing School in Rural Afghanistan
 date: 2020-09-29 13:29:00 Z
+published: false
 summary: 'DAI employees fundraised $5,153 through company activities in 2019 for the
   Linda Norgrove Foundation to support a school in Afghanistan’s Bamyan province.
   This year''s fundraising will be done primarily through online classes. '
 social-image: "/uploads/LNF.png"
-published: false
 ---
 
 DAI employees fundraised $5,153 through company activities [in 2019](https://www.dai.com/news/dai-raises-more-than-5-dollars-000-for-linda-norgrove-foundation) for the [Linda Norgrove Foundation](https://lindanorgrovefoundation.org/) to support a school in Afghanistan’s Bamyan province. The foundation—a trust that gives grants to support women and children in Afghanistan—provided the rural Rustam School with a reliable water supply and basic educational necessities. 
