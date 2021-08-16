@@ -18,6 +18,8 @@ The Centre for Disaster Protection focuses on managing risks relating to disaste
 The Centre works with a wide range of organizations—country governments, development banks, humanitarian agencies, development insurers, private sector actors, research institutions, and nongovernmental organisations—to support partner countries to strengthen their pre-disaster planning and financial arrangements so they can respond more rapidly and effectively when a disaster strikes.
 
 As the managing agent, DAI is responsible for delivering high-quality technical expertise, managing the Centre’s Governance Structure and leading the operational aspects of the Centre. This includes playing a key role on the Centre’s Board, leading the operations of the Centre and delivering the technical assistance facility.
+
+![Walking in flooded street. Credit. Ranjan Bhandari.jpg](/uploads/Walking%20in%20flooded%20street.%20Credit.%20Ranjan%20Bhandari.jpg)
  
 ### Sample Activities 
  
