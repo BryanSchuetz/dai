@@ -12,6 +12,7 @@ redirect_from:
 - '/news/usaid-partner-in-afghanistan-named-one-of-the-100-most-inspiring-and-influential-women-of-2018'
 - '/news/young-afghan-women-trained-in-mountaineering-with-support-of-linda-norgrove-foundation'
 - '/news/dai-project-helps-afghan-municipality-boost-tax-revenue'
+- '/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace'
 ---
 
 This page has been temporarily replaced following recent events in Afghanistan.
