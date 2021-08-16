@@ -23,6 +23,8 @@ promos:
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
 - title: Keeping Essential Food Businesses Open During the COVID-19 Crisis in Afghanistan
   link: https://dai-global-developments.com/articles/keeping-essential-food-businesses-open-during-the-covid-19-crisis-in-afghanistan
+- title: Dairy Business Perseveres Through Pandemic
+  link: https://www.usaid.gov/afghanistan/news/dairy-business-perseveres-through-pandemic
 layout: project
 ---
 
