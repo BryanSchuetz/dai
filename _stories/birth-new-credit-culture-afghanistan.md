@@ -1,6 +1,7 @@
 ---
 title: The Birth of a New Credit Culture in Afghanistan
-date: 2016-02-03 14:42:05.262000000 Z
+date: 2016-02-03 14:42:05 Z
+published: false
 regions:
 - Eastern Europe and Central Asia
 solutions:
@@ -16,7 +17,6 @@ summary: Through the Agricultural Credit Enhancement (ACE) Program, the U.S. Age
   to administer the ADF, with a clearly defined governance structure and guided by
   rigorous policies and procedures.
 layout: node
-published: false
 ---
 
 Fifty-four months. That’s how long it took to conceive, launch, and hand over the Agricultural Development Fund (ADF) in Afghanistan.
