@@ -11,6 +11,7 @@ regions:
 projects: 
 clients: 
 layout: node
+published: false
 ---
 
 The Linda Norgrove Foundation marked its first year by releasing a list of its accomplishments in Afghanistan, including:

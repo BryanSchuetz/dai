@@ -23,13 +23,6 @@ Sagay Moodliar describes how DAI's Johannesburg-based team is helping South Afri
 
 Geospatial analyst [Carmen Tedesco][6] celebrates the "south-south" [collaboration][7] that is flourishing on the U.S. Agency for International Development's (USAID) interactive website for natural resource management communities, [FRAMEWeb][8].
 
-Four of the articles in this issue spring from the development program in Afghanistan:
-
-* Trade economist David Fischer makes the case for a "[Herat economic corridor][9]" that could catalyze the economy in western Afghanistan and make the city of Herat "an outward-looking regional industrial trade hub."
-* Dana Kenney, Matiullah Amanzai, and Said Noor Ahmad Sadat distill the lessons learned from the implementation of [microhydro power plants][10], some 160 of which have been installed in recent years to bring life-changing electric power to remote Afghan villages.
-* Anne Simmons-Benton, Jessica Heinzelman, and Jill Sackett outline their recommendations for restoring [Afghan women][11] to a place of opportunity in the national economy.
-* And in the [DAI_deas_][12] piece that accompanies every issue of _Developments_, [Juan Estrada-Valle ][13]describes the innovations in Islamic finance and credit administration that have enabled USAID's [Agricultural Credit Enhancement][14] program to make impressive headway in an environment far from conducive to lending—facilitating new borrowing for 15,000 rural households.
-
 Finally, in the executive opinion section, our Managing Director in our South Africa office, Claudia Manning, argues for a commitment to authentic local supplier development that goes beyond compliance with the nation's black economic empowerment scorecards.
 
 Click [here][15] to view Developments on its new web and mobile platform and [sign up here][16] to receive the quarterly publication.

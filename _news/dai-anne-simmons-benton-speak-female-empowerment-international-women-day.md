@@ -13,6 +13,7 @@ summary: 'Anne Simmons-Benton, who heads up DAI''s Gender Working Group, will sp
 
 '
 layout: node
+published: false
 ---
 
 Anne Simmons-Benton, who heads up DAI's Gender Working Group, will speak Thursday to approximately 150 attendees about techniques to economically empower the women of Afghanistan.

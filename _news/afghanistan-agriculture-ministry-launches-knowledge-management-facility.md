@@ -13,6 +13,7 @@ regions:
 projects: Afghanistan—Agricultural Credit Enhancement Program I & II (ACE)
 clients: 
 layout: node
+published: false
 ---
 
 The Afghanistan Ministry of Agriculture, Irrigation and Livestock this week launched a dynamic database that will inform farmers and businesses of the latest prices, news, and trends in Afghan agriculture.
