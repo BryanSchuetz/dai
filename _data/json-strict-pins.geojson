@@ -77,10 +77,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Nepal",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI\">Paani</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nepal-renewable-energy-programme\">REP</a> (FCDO)",
+        "description": "- <a   href=\"https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI\">Paani</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/nepal-renewable-energy-programme\">REP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/nepal-karnali-water-security-activity-kawas\">KAWAS</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -133,10 +133,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Bosnia and Herzegovina",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-leadership-interactions-networks-and-knowledge-link\">LINK</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services\">CDI</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide—water-africa-through-leadership-and-institutional-support-walis\">WALIS</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide—biodiversity-results-and-integrated-development-gains-enhanced-bridge\">BRIDGE</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df\">DF</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-the-invest-project\">INVEST</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-international-technical-operational-and-professional-support-services-itopss\">ITOPSS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy\">LiveWIRE</a> (Shell)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm\">INRM</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-support-to-public-administration-reform-process\">Public Administration</a>  (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-further-support-to-public-finance-management\">Public Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/bosnia-and-herzegovina-education-for-employment\">Education for Employment</a> (EU)",
         "marker-color": "#6699cc",
         "marker-size": "Small",
-        "marker-symbol": 2
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -244,10 +244,10 @@
       "properties": {
         "id": "ci6jrxi5100vukrm7f4mrty3k",
         "title": "Active Projects in Botswana",
-        "description": "- <a href=\"https://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a href=\"http://dai.com/our-work/projects/southern-africa—feed-future-southern-africa-seed-trade-project\">Seed Trade</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/southern-africa-trade-forward\">Trade Forward</a> (FCDO)",
+        "description": "- <a href=\"https://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a href=\"http://dai.com/our-work/projects/southern-africa—feed-future-southern-africa-seed-trade-project\">Seed Trade</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/southern-africa-trade-forward\">Trade Forward</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/botswana-technical-assistance-to-support-the-implementation-of-the-education-sector-plan\">Technical Assistance</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
@@ -355,10 +355,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Rwanda",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/rwanda-nguriza-nshore\">Nguriza Nshore</a> (USAID)",
+        "description": "- <a   href=\"https://www.dai.com/our-work/projects/rwanda-nguriza-nshore\">Nguriza Nshore</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/rwanda-technical-assistance-to-support-the-national-agricultural-export-development-boards-capacity-in-monitoring-the-implementation-of-projects-and-in-the-feeding-the-cities-programme\">Technical Assistance</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -593,10 +593,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Sierra Leonne",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/sierra-leone-civil-service-reform-parliament-and-the-electoral-cycle\">Civil Service Reform</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/sierra-leone-civil-service-reform-parliament-and-the-electoral-cycle\">Civil Service Reform</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/sierra-leone-support-to-civil-society-and-local-authorities-for-local-development\">Civil Society</a> (EU)",
         "marker-color": "#6699cc",
         "marker-size": "Small",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -647,10 +647,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Lebanon",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/lebanon-economic-reform-and-infrastructure-investment-programme-lerii\">LERII (FCDO)</a><br>- <a href=\"https://www.dai.com/our-work/projects/lebanon-trade-and-investment-facilitation-tif\">TIFF (USAID)</a><br>- <a href=\"https://www.dai.com/our-work/projects/lebanon-technical-assistance-facility-for-the-lebanese-private-sector\">TAF (EU)</a><br>- <a href=\"https://www.dai.com/our-work/projects/lebanon-water-project-lwp\">LWP (USAID)</a>",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/lebanon-economic-reform-and-infrastructure-investment-programme-lerii\">LERII (FCDO)</a><br>- <a href=\"https://www.dai.com/our-work/projects/lebanon-trade-and-investment-facilitation-tif\">TIFF (USAID)</a><br>- <a href=\"https://www.dai.com/our-work/projects/lebanon-technical-assistance-facility-for-the-lebanese-private-sector\">TAF (EU)</a><br>- <a href=\"https://www.dai.com/our-work/projects/lebanon-water-project-lwp\">LWP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/lebanon-water-sanitation-and-conservation-wsc-project\">WSC</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 5
       },
       "geometry": {
         "coordinates": [
@@ -834,8 +834,8 @@
         "id": "",
         "title": "Active Projects in Kosovo",
         "marker-size": "small",
-        "marker-symbol": 3,
-        "description": " - <a href=\"https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team\">TEAM</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/kosovo-support-to-the-ombudsperson-institution\">Ombudsperson</a>(EU)<br>- <a href=\"https://www.dai.com/our-work/projects/kosovo-strengthening-public-procurement-kspp\">KSPP</a> (FCDO)",
+        "marker-symbol": 4,
+        "description": " - <a href=\"https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team\">TEAM</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/kosovo-support-to-the-ombudsperson-institution\">Ombudsperson</a>(EU)<br>- <a href=\"https://www.dai.com/our-work/projects/kosovo-strengthening-public-procurement-kspp\">KSPP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/kosovo-support-to-improve-quality-of-pre-university-education\">Education</a> (EU)",
         "marker-color": "#6c6c6c"
       },
       "geometry": {
@@ -1072,10 +1072,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Ethiopia",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/ethiopia-private-enterprise-programme-ethiopia-pepe\">PEPE</a> (FCDO)<br>- <a href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead II</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift\">LIFT</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-responsible-and-innovative-land-administration-project-ii-reila-ii\">REILA   II</a> (MFA) <br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-strengthening-host-and-refugee-populations-sharpe\">SHARPE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-eu-coffee-action-for-ethiopia-eu-cafe\">EU-CAFE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-programme-to-support-lending-operations-to-the-womens-entrepreneurship-development-project-wedp\">WEDP</a> (EIB)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/ethiopia-private-enterprise-programme-ethiopia-pepe\">PEPE</a> (FCDO)<br>- <a href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead II</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-land-investment-transformation-lift\">LIFT</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-responsible-and-innovative-land-administration-project-ii-reila-ii\">REILA   II</a> (MFA) <br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-strengthening-host-and-refugee-populations-sharpe\">SHARPE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-eu-coffee-action-for-ethiopia-eu-cafe\">EU-CAFE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-programme-to-support-lending-operations-to-the-womens-entrepreneurship-development-project-wedp\">WEDP</a> (EIB)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-bridges\">BRIDGES</a> (FC)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 6
+        "marker-symbol": 7
       },
       "geometry": {
         "coordinates": [
@@ -1127,10 +1127,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Zambia",
-        "description": "- <a href=\"http://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a   href=\"http://dai.com/our-work/projects/southern-africa—feed-future-southern-africa-seed-trade-project\">Seed Trade</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta\">SUN TA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/zambia-local-impact-governance-activity-local-impact\">Local Impact</a> (USAID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/southern-africa%E2%80%94trade-and-investment-hub\">SATIH</a> (USAID) <br>- <a   href=\"http://dai.com/our-work/projects/southern-africa—feed-future-southern-africa-seed-trade-project\">Seed Trade</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta\">SUN TA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/zambia-local-impact-governance-activity-local-impact\">Local Impact</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/zambia-enhanced-capacity-and-compliance-with-international-aviation-standards\">Enhanced Capacity</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 5
       },
       "geometry": {
         "coordinates": [
@@ -1145,10 +1145,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Pakistan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94regional-economic-integration-activity-preia\">PREIA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-consolidating-democracy-in-pakistan-cdip\">CDIP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-district-governance-and-community-development-programme-kp-cdld\">KP-CDLD</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-balochistan-rural-development-and-community-empowerment-programme-brace\">BRACE</a> (EU)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94regional-economic-integration-activity-preia\">PREIA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-consolidating-democracy-in-pakistan-cdip\">CDIP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-khyber-pakhtunkhwa-district-governance-and-community-development-programme-kp-cdld\">KP-CDLD</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-balochistan-rural-development-and-community-empowerment-programme-brace\">BRACE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/pakistan-land-registration-in-merged-areas-lrma-activity\">LRMA</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 5
       },
       "geometry": {
         "coordinates": [
@@ -1423,7 +1423,7 @@
         "marker-size": "Small",
         "marker-color": "#6c6c6c",
         "marker-symbol": 5,
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishing-strong-monitoring-evaluation-and-coordination-mechanism-for-national-roma-integration-strategy\">Roma Integration</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-determination-of-industrial-emissions-strategy-of-turkey-in-accordance-with-integrated-pollution-prevention-and-control\">Emissions Strategy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishment-of-boosting-effective-and-sustainable-transformation-for-energy-best-for-energy\">BEST for Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-addressing-invasive-alien-species-threats-in-terrestrial-areas-and-inland-waters\">Invasive Species</a>(EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-capacity-building-for-effective-nationality-determination\">Technical Assistance</a> (EU)"
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishing-strong-monitoring-evaluation-and-coordination-mechanism-for-national-roma-integration-strategy\">Roma Integration</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-determination-of-industrial-emissions-strategy-of-turkey-in-accordance-with-integrated-pollution-prevention-and-control\">Emissions Strategy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-establishment-of-boosting-effective-and-sustainable-transformation-for-energy-best-for-energy\">BEST for Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-addressing-invasive-alien-species-threats-in-terrestrial-areas-and-inland-waters\">Invasive Species</a>(EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-technical-assistance-for-capacity-building-for-effective-nationality-determination\">Technical Assistance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/turkey-supporting-analysis-of-the-transport-legislation-of-turkey-in-the-process-of-harmonisation-with-the-eu-acquis\">Transport Legislation</a> (EU)"
       },
       "geometry": {
         "coordinates": [

@@ -22,10 +22,6 @@ layout: node
 <p>Our staff and advisors around the world have been sharing their perspectives on the COVID-19 pandemic in their countries.</p>
 <div class="grid-wrap">
   <div class="video-wrap">
-   <iframe src="https://player.vimeo.com/video/438326685" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-    <p class="caption">This report comes from Juan Estrada-Valle, Chief of Party of our USAID Afghanistan Value Chains–High Value Crops project.</p>
-  </div>
-  <div class="video-wrap">
     <iframe src="https://player.vimeo.com/video/432577525" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
     <p class="caption">This report comes from Natasha Gaskin-Peters, Deputy Director of our office in Georgetown, Guyana.</p>
   </div>
