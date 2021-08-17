@@ -1,19 +1,17 @@
 ---
 title: DAI and COVID-19
 permalink: "/covid-19-economic-and-social-recovery-services"
-summary: 'The novel coronavirus has had a profound public health impact in the developed
+summary: The novel coronavirus has had a profound public health impact in the developed
   world and is poised to have an equally if not more devastating effect on developing
   nations. As travel bans, lockdowns, and stalled trade take an increasing toll, economic
   spillover effects—and associated social instability—threaten to compound the crisis,
   especially in some of the world’s more vulnerable and fragile states.
-
-'
 hero: true
 solutions:
 - COVID-19
-layout: node
 related: false
 featuresection: covid
+layout: node
 ---
 
 # Economic and Social Recovery
