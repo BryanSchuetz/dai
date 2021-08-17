@@ -10,6 +10,10 @@ layout: default
 
 Don't see the answer you're looking for below? [Send us your question][1] and we’ll find an answer for you.
 
+## How do I contact DAI regarding my application for a Special Immigrant Visa?
+
+If you are an Afghan citizen who worked directly for DAI in Afghanistan and you need employment verification in order to apply for the Special Immigrant Visa (SIV) Program, please contact our dedicated SIV [hotline](mailto:SIV@dai.com). In your message to our SIV Team, please be sure to submit a scanned copy of your passport/translated tazkira, any and all employment agreements, and scopes of work for each agreement. 
+
 ##  What do the letters DAI stand for?
 
 It is no longer correct to refer to DAI as “Development Alternatives, Inc.” When the founders incorporated the company in 1970, they chose that name because they thought they could bring fresh alternatives and innovations to the way development was being done. And that spirit remains essential to the firm. But over the decades we have come to be known by the acronym, and in recent years we have opted to present ourselves as DAI, no spelling out required. As of 2016, the formal legal name of the company is DAI Global, LLC and the correct way to refer to the company is simply as DAI.
@@ -47,10 +51,6 @@ As a rule, no. Typically we implement programs funded by international donors, n
 ## Does DAI offer internships?
 
 DAI does not have a formal internship program. Periodically, targeted internship opportunities arise and when they do, we post information about them on our [careers page](/working-dai/job-opportunities). When offered, internships are paid; the individuals selected must be eligible to work in the country of the internship without company sponsorship. We encourage anyone who is interested to monitor our website and apply through the site for opportunities of interest to them.
-
-## How do I contact DAI regarding my application for a Special Immigrant Visa?
-
-If you are an Afghan citizen who worked directly for DAI in Afghanistan and you need employment verification in order to apply for the Special Immigrant Visa (SIV) Program, please contact our dedicated SIV [hotline](mailto:SIV@dai.com). In your message to our SIV Team, please be sure to submit a scanned copy of your passport/translated tazkira, any and all employment agreements, and scopes of work for each agreement. 
 
 
 [1]: mailto:steven_o'connor@dai.com?subject=faq
