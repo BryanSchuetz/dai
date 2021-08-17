@@ -447,10 +447,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Jordan",
-        "description": "- <a   href=\"https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund\">AWEF</a> (FCDO, IDB)",
+        "description": "- <a   href=\"https://www.dai.com/our-work/projects/jordan-egypt-and-palestine-arab-women-enterprise-fund\">AWEF</a> (FCDO, IDB)<br>- <a href=\"https://www.dai.com/our-work/projects/jordan-public-financial-management-and-administration-pfma-project\">PFMA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 1
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -759,10 +759,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Tajikistan",
-        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme\">EIP </a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-policy-innovation-facility-the-facility\">The   Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/tajikistan-agriculture-and-land-governance-alg\">ALG</a> (USAID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/central-asia—competitiveness-trade-and-jobs-activity-ctj\">CTJ</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-enterprise-and-innovation-programme\">EIP </a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/kyrgyzstan-and-tajikistan-policy-innovation-facility-the-facility\">The   Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/tajikistan-agriculture-and-land-governance-alg\">ALG</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/tajikistan-in-service-teacher-training-learning-assessment-planning-budgeting-and-monitoring\">Technical Assistance</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
@@ -851,10 +851,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Myanmar",
-        "description": "- <a   href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/myanmar-dana-facility\">DaNa Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/burma-responsible-investment-and-trade-activity-rita\">RITA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/myanmar-strengthening-of-public-financial-management-at-the-ministry-of-agriculture-livestock-and-irrigation\">PFM</a> (EU)",
+        "description": "- <a   href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/myanmar-dana-facility\">DaNa Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/burma-responsible-investment-and-trade-activity-rita\">RITA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
@@ -906,10 +906,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Moldova",
-        "marker-symbol": 1,
+        "marker-symbol": 3,
         "marker-size": "Small",
         "marker-color": "#6699cc",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/moldova-support-for-structured-policy-dialogue-coordination-of-the-implementation-of-the-association-agreement-and-enhancement-of-the-legal-approximation-process\">Dialogue</a> (EU)"
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/moldova-support-for-structured-policy-dialogue-coordination-of-the-implementation-of-the-association-agreement-and-enhancement-of-the-legal-approximation-process\">Dialogue</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/moldova-support-to-efficient-prevention-and-fight-against-corruption-in-the-justice-sector\">Fight Corruption</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/moldova-support-for-structured-policy-dialogue-coordination-of-the-implementation-of-the-association-agreement-and-enhancement-of-the-legal-approximation-process-9eb6f2\">Association Agreement</a> (EU)"
       },
       "geometry": {
         "coordinates": [
@@ -1091,10 +1091,10 @@
       "properties": {
         "id": "ci6jwcesi01egkrm52cl7dqg1",
         "title": "Active Projects in Ukraine",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst \">FST </a> (USAID)<br> - <a   href=\"https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity \">Economic Resilience Activity</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-implementation-of-eu-practices-for-accounting-financial-reporting-and-audit\">EU Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-support-in-approximation-of-the-eu-environmental-acquis\">Environment Acquis</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-eu-for-stronger-public-finance-systems-of-local-governments-logica\">LOGICA</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst \">FST </a> (USAID)<br> - <a   href=\"https://www.dai.com/our-work/projects/ukraine-economic-resilience-activity \">Economic Resilience Activity</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-implementation-of-eu-practices-for-accounting-financial-reporting-and-audit\">EU Finance</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-support-in-approximation-of-the-eu-environmental-acquis\">Environment Acquis</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-eu-for-stronger-public-finance-systems-of-local-governments-logica\">LOGICA</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla\">HOVERLA</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/ukraine-strengthening-capacities-in-external-audit-in-line-with-international-standards\">External Audit</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 5
+        "marker-symbol": 7
       },
       "geometry": {
         "coordinates": [
@@ -1109,10 +1109,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Georgia",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/georgia-trade-ready\">Trade Ready</a> (EBRD)<br>- <a   href=\"https://www.dai.com/our-work/projects/georgia-usaid-economic-security-program-georgia-esp\">Economic Security</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/georgia-support-to-the-independence-accountability-and-efficiency-of-the-judiciary\">Judiciary</a> (EU)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/georgia-trade-ready\">Trade Ready</a> (EBRD)<br>- <a   href=\"https://www.dai.com/our-work/projects/georgia-usaid-economic-security-program-georgia-esp\">Economic Security</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/georgia-support-to-the-independence-accountability-and-efficiency-of-the-judiciary\">Judiciary</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/georgia-support-the-fight-against-organized-crime\">Fight Crime</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 4
       },
       "geometry": {
         "coordinates": [
