@@ -1,7 +1,6 @@
 ---
 title: Ukraine—Cybersecurity for Critical Infrastructure Activity
 date: 2020-05-14 19:17:00 Z
-published: false
 summary: The activity strengthens Ukraine’s long-term cyber resilience through mutually
   reinforcing activities addressing legal, policy, institutional, workforce, and market
   gaps.
