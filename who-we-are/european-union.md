@@ -2,9 +2,8 @@
 title: DAI and the European Union
 permalink: who-we-are/global-reach/european-union
 summary: The European Union (EU) is the world’s largest development donor. DAI, with
-  its long-term presence on the European continent and the recent acquisition of Human
-  Dynamics, is a key partner in the implementation of the EU global strategy for international
-  development and cooperation.
+  its long-term presence on the European continent, is a key partner in the implementation
+  of the EU global strategy for international development and cooperation.
 hero: true
 regions: Eastern Europe and Central Asia
 related: true
@@ -25,7 +24,7 @@ Our EU Business Unit covers the whole spectrum of DAI operations, from project d
 
 This team orchestrates a network of some 800 in-house and external experts currently engaged on short- and long-term assignments encompassing all EU technical areas, including governance and public administration reforms, sustainable economic growth and agriculture, resilience, conflict and security, gender and social inclusion, climate change and green growth, digitalisation, global health, education, and social protection.
 
-DAI has extensive experience working with the Directorate-General for International Partnerships (DG INTPA), Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR), the EU’s External Action Service (EEAS), and European development financial institutions (EDFIs) such as the European Bank for Reconstruction and Development (EBRD) and the European Investment Bank (EIB).
+DAI has extensive experience working with the Directorate-General for International Partnerships (DG INTPA), Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR), the EU’s External Action Service (EEAS), and European development financial institutions such as the European Bank for Reconstruction and Development (EBRD) and the European Investment Bank (EIB).
 
 We partner with these and other clients to support the [European Consensus on Development](https://ec.europa.eu/international-partnerships/european-consensus-development_en) and achieve the United Nations Sustainable Development Goals. As a signatory of the UN Global Compact, we report on our contributions to achieving the SDGs in our annual [Communication on Progress](https://www.dai.com/news/dai-makes-its-2019-communication-on-progress-to-the-un-global-compact). As an [employee-owned](https://www.dai.com/who-we-are/employee-owners) and [mission-oriented](https://www.dai.com/who-we-are/mission-and-values) enterprise, we are wholly committed to upholding the highest standard of responsible and sustainable business. 
 
