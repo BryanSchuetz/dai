@@ -1365,10 +1365,10 @@
       "type": "Feature",
       "properties": {
         "title": "Global Projects based in the United Kingdom",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds\">EACDS</a> (FCDO) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">AAS Standing Offer</a> (DFAT) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">Agricultural Services Panel </a> (MFAT)<br>- <a   href=\"https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program\">TDDAP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-global-trade-programme-gtp\">Global Trade</a> (FCDO)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds\">EACDS</a> (FCDO) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">AAS Standing Offer</a> (DFAT) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">Agricultural Services Panel </a> (MFAT)<br>- <a   href=\"https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program\">TDDAP</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-global-trade-programme-gtp\">Global Trade</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-political-economic-and-technical-analysis-to-support-the-biodiverse-landscapes-fund\">Technical Analysis</a> (DEFRA)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-centre-for-disaster-protection\">Disaster Protection</a> (FCDO)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 7
+        "marker-symbol": 9
       },
       "geometry": {
         "coordinates": [
@@ -1528,7 +1528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Global Projects based in Belgium",
+        "title": "Global Projects Based in Belgium",
         "description": "- <a   href=\"https://dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility \">TPSD</a> (EC) <br>- <a   href=\"http://dai.com/our-work/projects/worldwide—technical-and-advisory-services-social-transfers-asist\">ASiST III</a> (EC) <br> - <a href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">SEIA</a> (EC) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">EC Com 2015</a> (EC) <br> - <a   href=\"https://www.dai.com/our-work/working-with-dai/contracting-vehicles\">SME Access to Finance</a> (EIB)<br>- <a   href=\"https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood\">Clima   Med</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-support-to-the-secretariat-of-the-global-covenant-of-mayors-for-climate-and-energy\">Climate and Energy</a> (EU)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
@@ -1542,6 +1542,24 @@
         "type": "Point"
       },
       "id": "fda69d625744cc626a3e930582fb9311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Active Projects in Bangladesh",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/bangladesh-strengthening-public-financial-management-for-social-protection-spfmsp\">SPFMSP</a> (FCDO)",
+        "marker-size": "small",
+        "marker-color": "#6c6c6c",
+        "marker-symbol": 1
+      },
+      "geometry": {
+        "coordinates": [
+          90.3563,
+          23.6580
+        ],
+        "type": "Point"
+      },
+      "id": "7eb1d7fce545adf33d562aa08a9fe301"
     }
   ],
   "type": "FeatureCollection"
