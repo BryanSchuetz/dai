@@ -1,12 +1,11 @@
 ---
 title: DAI and the European Union
 permalink: "/who-we-are/global-reach/european-union-office/contacts"
-layout: node
 summary: The European Union (EU) is the world’s largest development donor. DAI, with
-  its long-term presence on the European continent and the recent acquisition of Human
-  Dynamics, is a key partner in the implementation of the EU global strategy for international
-  development and cooperation.
+  its long-term presence on the European continent, is a key partner in the implementation
+  of the EU global strategy for international development and cooperation.
 hero: true
+layout: node
 ---
 
 # Our Team
