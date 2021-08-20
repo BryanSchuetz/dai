@@ -13,7 +13,7 @@ regions:
 - Latin America and the Caribbean
 ---
 
-Natasha is an Economist with experience in both micro- and macroeconomics. Natasha’s experience covers the real and fiscal sectors which include modelling and forecasting of Gross Domestic Product (GDP), fiscal revenues, fiscal expenditure and inflation along with analytics on the interlinkages between these two sectors. Natasha works with local companies in Guyana to assist them in entering the oil and gas value chain. This entails conducting gap analytics and the training and mentoring of these companies in order to improve their competitiveness and capacity to work in the oil and gas sector. 
+Natasha is an economist with experience in both micro- and macroeconomics. Natasha’s experience covers the real and fiscal sectors which include modelling and forecasting of Gross Domestic Product (GDP), fiscal revenues, fiscal expenditure and inflation along with analytics on the interlinkages between these two sectors. Natasha works with local companies in Guyana to assist them in entering the oil and gas value chain. This entails conducting gap analytics and the training and mentoring of these companies in order to improve their competitiveness and capacity to work in the oil and gas sector. 
 
 Natasha is the former Chairman of the Bureau of Statistics and a former Director on the Small Business Bureau’s Board, in Guyana, where she played an active role in determining policies to guide these two institutions. 
 
