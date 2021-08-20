@@ -15,4 +15,4 @@ Najla Al-Sinani joined DAI’s Oman team as an assistant, supporting operations 
 
 Before joining DAI, Najla studied operations management at Sultan Qaboos University. During her studies, she interned for Petroleum Development Oman (PDO), studying and analyzing various contracts to determine their impact on In-Country Value. 
 
-* B.A., operation management, Sultan Qaboos University 
+* B.A., operations management, Sultan Qaboos University 
