@@ -6,7 +6,7 @@ summary: 'Christina Aguila provides program design services, technical analysis 
   implementation, and project management for multinational energy companies, trade
   associations, and government clients engaged in corporate social responsibility
   and local content strategies. '
-job-title: Senior Analyst
+job-title: Lead Analyst
 image: "/uploads/caguila_photo_web.jpg"
 solutions:
 - Sustainable Business
