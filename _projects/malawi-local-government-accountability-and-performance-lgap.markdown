@@ -2,9 +2,9 @@
 title: Malawi—Local Government Accountability and Performance (LGAP)
 date: 2017-01-10 18:54:00 Z
 summary: To ensure more citizens benefit from the effects of decentralization, the
-  Local Government Accountability and Performance activity works across eight districts
-  to improve local government performance and transparency, increase citizen engagement,
-  and strengthen the enabling environment for decentralization in Malawi.
+  Local Government Accountability and Performance activity worked to improve local
+  government performance and transparency, increase citizen engagement, and strengthen
+  the enabling environment for decentralization in Malawi.
 start: 2016
 end: 2021
 client: 'U.S. Agency for International Development, U.K. Foreign, Commonwealth & Development
@@ -25,9 +25,9 @@ promos:
 
 More than 20 years have passed since Malawi held its first multi-party elections. The government is now renewing its efforts to decentralize—based on the principle that sustainable socioeconomic development is best achieved when decisions are made locally. Institutional tensions and confusion over responsibilities between government units continue to hinder successful decentralization, despite having a strong governance framework in place. District budgets are still allocated by the central government with little local input, political patronage and lack of supervision have led to a cycle of poor performance by public servants, and crucial information is not shared between levels of government. Pervasive constraints such as these contribute to the failure of local governments to deliver basic services to citizens, which undermines government credibility and public faith in the system.
 
-To ensure more citizens benefit from the effects of decentralization, the Local Government Accountability and Performance (LGAP) activity works across eight districts to improve local government performance and transparency, increase citizen engagement, and strengthen the enabling environment for decentralization in Malawi.
+To ensure more citizens benefit from the effects of decentralization, the Local Government Accountability and Performance (LGAP) activity worked across eight districts to improve local government performance and transparency, increase citizen engagement, and strengthen the enabling environment for decentralization in Malawi.
 
-DAI is taking an integrated systems approach that includes providing local government employees with the tools and skills to improve the quality of service, as well as incentivizing collaboration among local government institutions. Initiatives are district-led, reinforcing ownership, and accountability by local stakeholders and improving their capacity to sustain progress.
+DAI used an integrated systems approach that included providing local government employees with the tools and skills to improve the quality of service, as well as incentivizing collaboration among local government institutions. Initiatives were district-led, reinforcing ownership, and accountability by local stakeholders and improving their capacity to sustain progress.
 
 <iframe src="https://player.vimeo.com/video/250615766" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
