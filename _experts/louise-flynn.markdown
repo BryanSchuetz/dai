@@ -17,7 +17,5 @@ Louise Flynn leads DAI Sustainable Business Group’s (SBG) health, safety, secu
 Louise’s work includes development of training programs on health, safety, and environment (HSE) requirements for small and medium enterprise; and management of industrial baseline surveys and workforce analyses. She redesigned an oil and gas procurement course for the ExxonMobil-funded Centre for Local Business Development in Guyana, assisting local suppliers in strengthening their understanding of procurement requirements for the oil and gas industry. With her extensive background in HSE standards, Louise also developed the curriculum for the Centre’s health, safety, and environment courses.  She develops USAID environmental monitoring and mitigation plans and training staff on their implementation.  In her health and safety role, she has led DAI’s internal response to COVID-19 by developing company-level guidelines and has supported the re-opening and operations of all our over 150 offices during the pandemic.
 
 * Master of Public Health, Johns Hopkins University
-
 * Master of Environmental Studies, Yale University
-
 * B.A., biology and society, Cornell University
