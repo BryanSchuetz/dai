@@ -24,6 +24,6 @@ ISO 14001:2015 requires organisations to have an environmental policy and action
 
 "This certification substantiates the hard work and attention to detail that our staff applies here in the United Kingdom and around the world, and gives us an additional quality standard. We also want our customers and colleagues to know about our quality expectations, our focus on client satisfaction, and our commitment to continuous improvement."  
 
-You can verify the validity of our EMS 14001:2015 ISO certificate by entering our number 230400 via this link: www.british-assessment.co.uk/verify
+You can verify the validity of our EMS 14001:2015 ISO certificate by entering our number 230400 via this link: [www.british-assessment.co.uk/verify](https://www.british-assessment.co.uk/verify)
  
-You can verify the validity of our QMS 9001:2015  ISO certificate by entering our number 182403 via this link: www.british-assessment.co.uk/verify
+You can verify the validity of our QMS 9001:2015  ISO certificate by entering our number 182403 via this link: [www.british-assessment.co.uk/verify](https://www.british-assessment.co.uk/verify)
