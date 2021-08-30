@@ -55,7 +55,3 @@ As an [employee-owned](https://www.dai.com/who-we-are/employee-owners) and [miss
     Fax: +43 1 402 5020-20<br> 
   </p>
 </div>
-
-<div class="eu-badge">
-<img src="/uploads/eu-badge.png" alt="">
-</div>
