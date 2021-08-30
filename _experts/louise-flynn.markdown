@@ -1,23 +1,21 @@
 ---
 title: Louise Flynn
 date: 2020-01-03 19:04:00 Z
-published: false
 lastname: Flynn
-summary: 'Louise Flynn is a Lead Specialist in Environment and Health for DAI’s Sustainable
-  Business Group (SBG). As an environmental consultant for more than 20 years, she
-  investigated hazardous waste sites, conducted risk assessments, and managed energy-related
-  environmental impact assessments. '
+summary: Louise Flynn leads DAI Sustainable Business Group’s (SBG) health, safety,
+  security, and environment programs globally.
 job-title: Lead Specialist, Environment and Health
+image: "/uploads/LF.jpeg"
 solutions:
 - Sustainable Business
 regions:
 - Worldwide
 ---
 
-Louise Flynn is a Lead Specialist in Environment and Health for DAI’s Sustainable Business Group (SBG). As an environmental consultant for more than 20 years, she investigated hazardous waste sites, conducted risk assessments, and managed energy-related environmental impact assessments. 
+Louise Flynn leads DAI Sustainable Business Group’s (SBG) health, safety, security, and environment programs globally. As an environmental consultant for more than 25 years, she has managed environmental impact assessments (EIAs) and environmental safety and health impact assessments (ESHIAs) for major energy and sustainable development projects to the value of $3 million.
 
-Her work at DAI has included proposal development; creating and training staff on USAID environmental monitoring and mitigation plans; developing training programs on health, safety, and environment requirements for small and medium enterprises; and managing industrial baseline surveys and workforce analyses.
+Louise’s work includes development of training programs on health, safety, and environment (HSE) requirements for small and medium enterprise; and management of industrial baseline surveys and workforce analyses. She redesigned an oil and gas procurement course for the ExxonMobil-funded Centre for Local Business Development in Guyana, assisting local suppliers in strengthening their understanding of procurement requirements for the oil and gas industry. With her extensive background in HSE standards, Louise also developed the curriculum for the Centre’s health, safety, and environment courses.  She develops USAID environmental monitoring and mitigation plans and training staff on their implementation.  In her health and safety role, she has led DAI’s internal response to COVID-19 by developing company-level guidelines and has supported the re-opening and operations of all our over 150 offices during the pandemic.
 
-As an environmental consultant, Louise oversaw projects worth $5,000 to more than $3 million. Her hazardous waste site investigations included installing groundwater wells, collecting and analyzing water samples to determine contamination levels, and managing hydrogeologists studying aquifer hydrodynamics to determine groundwater flow patterns. She also managed environmental, social, and health impact assessments (ESHIAs) for major energy and sustainable development projects. Louise identified and addressed environmental, social, and health impacts to ensure compliance with national and international guidelines.
-
-Louise has country experience in Mozambique, Guyana, Liberia, Sierra Leone, Guinea, the Democratic Republic of the Congo, Angola, Peru, Ecuador, Uganda, Kenya, Venezuela, and China.
+* Master of Public Health, Johns Hopkins University
+* Master of Environmental Studies, Yale University
+* B.A., biology and society, Cornell University

@@ -59,6 +59,7 @@ We help communities, nations, and regions address food insecurity by championing
 **Trade and Private Sector Engagement**
 
 DAI works in line with the External Investment Plan for private sector engagement and investment and has an inclusive approach to development, working with donors, businesses, investors, and governments. 
+
 Our company has a longstanding commitment to responsible and sustainable business and is a signatory of the UN Global Compact. Dedicated teams and business units support private sector engagement and investment in EU partner countries. 
 
 <a href="/our-work/solutions/economic-growth" class="primary-block--button">Read More<svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
@@ -68,8 +69,7 @@ Our company has a longstanding commitment to responsible and sustainable busines
   
   <p><strong>Social Protection</strong></p>
   
-  <p>DAI works to protect poor, vulnerable, and socially excluded people. We promote human dignity and access to basic
-    social services, child and family services, labour markets, and livelihood support.</p>
+  <p>DAI works to protect poor, vulnerable, and socially excluded people. We promote human dignity and access to basic social services, child and family services, labour markets, and livelihood support.</p>
   
   <p><strong>Education and TVET (Technical and Vocational Education and Training)</strong></p>
   
