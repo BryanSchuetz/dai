@@ -33,11 +33,6 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 						<label for="fielddjnwuu-1">Center for Digital Acceleration</label></p>
 				</div>
 				<div>
-					<p><input class="topic-checks" id="fielddjnwuu-2" name="cm-fo-djnwuu" type="checkbox" value="12359019"
-						/>
-						<label for="fielddjnwuu-2">Center for Secure and Stable States</label></p>
-				</div>
-				<div>
 					<p><input class="topic-checks" id="fielddjnwuu-3" name="cm-fo-djnwuu" type="checkbox" value="12359020"
 						/>
 						<label for="fielddjnwuu-3">Sustainable Business Group</label></p>
