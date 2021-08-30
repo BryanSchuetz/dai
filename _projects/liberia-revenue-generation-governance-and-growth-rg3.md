@@ -1,8 +1,8 @@
 ---
 title: Liberia—Revenue Generation for Governance and Growth (RG3)
 date: 2016-01-21 22:40:00 Z
-summary: 'The Revenue Generation for Governance and Growth project is helping the
-  Liberia Revenue Authority to improve its tax collection system and cultivate accountability
+summary: 'The Revenue Generation for Governance and Growth project helped the Liberia
+  Revenue Authority to improve its tax collection system and cultivate accountability
   among taxpayers. '
 start: 2016
 end: 2021
@@ -34,7 +34,7 @@ layout: project
 
 Enhancing the government of Liberia's ability to collect taxes from its citizens is critical to the country's long-term development goals. However, tax evasion, poor tax policy, and ineffective enforcement all constrain the government's ability to [mobilize the domestic revenues](http://dai-global-developments.com/articles/big-data-and-domestic-resource-mobilization-how-donors-can-help-developing-countries-increase-revenue?utm_source=daidotcom) it needs to provide basic services to citizens and promote economic growth and social development.
 
-RG3 [assists](https://www.liberianobserver.com/news/usaid-liberia-rg3-project-donates-it-equipment-to-lra/) the Liberia Revenue Authority (LRA) to improve its tax collection system and cultivate accountability among taxpayers. The project pairs supply-side support to key government ministries with demand-side interventions that raise awareness of taxation responsibilities, [newly simplified payment methods](http://dai-global-developments.com/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development), and the risks of noncompliance.
+RG3 [assisted](https://www.liberianobserver.com/news/usaid-liberia-rg3-project-donates-it-equipment-to-lra/) the Liberia Revenue Authority (LRA) to improve its tax collection system and cultivate accountability among taxpayers. The project paired supply-side support to key government ministries with demand-side interventions that raise awareness of taxation responsibilities, [newly simplified payment methods](http://dai-global-developments.com/articles/liberia-launches-mobile-tax-payments-opening-doors-to-increased-revenue-for-domestic-development), and the risks of noncompliance.
 
 ![](https://assetify-dai.com/projects/Liberia_RG3_image.jpg)
 
