@@ -1,5 +1,5 @@
 ---
-title: Mexico—Energy Programme
+title: Mexico Clean Energy Programme
 date: 2019-03-14 20:59:00 Z
 summary: The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote
   energy-driven low-carbon growth, reducing poverty and generating new market opportunities
