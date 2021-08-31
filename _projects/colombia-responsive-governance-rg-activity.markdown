@@ -30,3 +30,7 @@ RG works in 27 conflict-affected municipalities.
 * Empower municipalities to deliver visible improvements in health, education, and infrastructure services.
 * Encourage meaningful civic engagement by civil society and private sector actors.
 * Strengthen the Government of Colombia’s capacity to meet citizen demands.
+
+### Select Results
+
+* Supported the Colombian government to launch its National Observatory of Logistics, Transportation, Mining, and Energy planning tool will allow national, departmental, and local governments to develop and implement better public policies to improve road connectivity and bring more development opportunities to rural communities in conflict-affected territories.
