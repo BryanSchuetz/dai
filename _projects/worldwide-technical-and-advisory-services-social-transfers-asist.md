@@ -1,7 +1,7 @@
 ---
 title: Worldwide—Advisory Service Social Transfers (ASiST III) Programme
 date: 2016-01-21 22:40:00 Z
-summary: DAI is helping the European Union to increase the impact, quality, coverage,
+summary: DAI helped the European Union to increase the impact, quality, coverage,
   and sustainability of social transfer schemes that target food and nutrition security.
 start: 2015
 end: 2021
@@ -21,9 +21,9 @@ promos:
 layout: project
 ---
 
-The Advisory Service in Social Transfers phase III programme (ASiST III) provides on-demand support to partner countries and European Union (EU) delegations in [addressing food security](https://www.dai.com/news/dais-asist-progamme-produces-documentary-on-food-security-in-madagascar) through national social transfer schemes. ASiST III has completed more than 170 assignments since 2015, examining the roles of public financial management, sustainable agriculture, rural development, and other factors in social transfer programmes and resilience to food crises.
+The Advisory Service in Social Transfers phase III programme (ASiST III) provided on-demand support to partner countries and European Union (EU) delegations in [addressing food security](https://www.dai.com/news/dais-asist-progamme-produces-documentary-on-food-security-in-madagascar) through national social transfer schemes. ASiST III completed 182 assignments since 2015, examining the roles of public financial management, sustainable agriculture, rural development, and other factors in social transfer programmes and resilience to food crises.
 
-These services assist countries and EU delegations to maximise the impact of food security and social transfer programmes and to develop a graduation plan to move from short-term, emergency social transfers to systemic national safety net programmes. For country-specific requests, ASiST provides guidance throughout the project cycle management, including programme design and monitoring and evaluation. ASiST also provides technical assistance on strategic issues, such as building partnerships with other donors and projects and offering feedback on policy documents.
+These services assisted countries and EU delegations to maximise the impact of food security and social transfer programmes and to develop a graduation plan to move from short-term, emergency social transfers to systemic national safety net programmes. For country-specific requests, ASiST provided guidance throughout the project cycle management, including programme design and monitoring and evaluation. ASiST also provided technical assistance on strategic issues, such as building partnerships with other donors and projects and offering feedback on policy documents.
 
 <iframe src="https://player.vimeo.com/video/264604855" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -36,7 +36,7 @@ These services assist countries and EU delegations to maximise the impact of foo
 
 ### Select Results
 
-* Conducted more than 170 assignments and led missions to more than 30 countries in Africa, Asia, and Latin America.
+* Conducted more than 180 assignments and led missions to more than 30 countries in Africa, Asia, and Latin America.
 * Designed social transfer programmes for pregnant women and infants, resilience interventions, and nutrition workshops.
 * Advised on the use of cash-transfer safety net programmes as a means to bridge humanitarian interventions and development cooperation.
 * Advised extensively on budget support operations targeting food and nutrition security and sustainable agriculture.
