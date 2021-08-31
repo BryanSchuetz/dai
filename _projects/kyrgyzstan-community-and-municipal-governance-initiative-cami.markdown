@@ -1,9 +1,10 @@
 ---
 title: Kyrgyzstan—Community and Municipal Governance Initiative (CAMI)
 date: 2016-12-21 15:55:00 Z
-summary: CAMI works with municipal governments to help them more effectively respond
-  to citizens’ needs and deliver services, thereby strengthening trust in government
-  institutions and fortifying the Kyrgyz Republic’s recent democratic gains.
+summary: 'CAMI has improved service delivery and strengthened government legitimacy
+  across 50 local municipalities in Kyrgyzstan, which resulted in 15,636 residents
+  with improved access to clean drinking water, 53,245 citizens benefitting from improved
+  garbage collection, and 590 public dialogue sessions. '
 start: 2016
 end: 2021
 client: U.S. Agency for International Development
