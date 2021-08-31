@@ -18,14 +18,33 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reducing poverty and generating new market opportunities for symbiotic U.K. partnerships and investments.
+The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reducing poverty, and generating new market opportunities for symbiotic U.K. partnerships and investments.
 
-DAI will help the FCDO achieve its vision by designing and implementing three enterprise development centres, drawing from similar projects in Canada, [Ghana](https://www.dai.com/our-work/projects/ghana-local-content-training), [Guyana](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development), Mozambique, Oman, Suriname, and [Trinidad and Tobago](https://www.dai.com/our-work/projects/trinidad-and-tobago-local-content-study). The locally run centres will leverage local content in the Mexican energy sector to create sustainable energy practices and foster cross-sectoral socioeconomic development. Gender inclusion and sustainability will inform all programme activities.
+DAI is helping the FCDO achieve its vision by implementing the Clean Energy Program in Mexico. This program aims to develop the skills of men and women, Small and Medium Enterprises (SMEs), and government institutions to support Mexico's transition to a low-carbon economy. 
 
-DAI's core partners on the project include Wood PLC, OPITO, and Ogilvy.
+The program has chosen EPI (Energía, Participación e Inclusión) as the delivery model, enhancing the skills, capabilities, and resources of the Mexican energy sector by co-creating solutions that innovate and drive inclusive and sustainable growth.
+
+Together with local partners, EPI offers targeted technical training and soft skills development, inter¬national certifications, and best practices exchanges. This helps to build local supply chains, developing skills and expertise to deliver lasting benefits to local people. EPI also promotes gender inclusion through specialized activities that aim to increase women’s participa¬tion in the energy industry.
+
+The original geographic scope included setting hubs in Mexico City, Tabasco, and Jalisco. However, due to the COVID-19 pandemic and at the request of the BEMC, the program adapted its course offer to online delivery, resulting in having beneficiaries from at least 16 states, expanding its original geographical scope while maintaining close relationships with government institutions of Jalisco and Tabasco.
+
 
 ### Sample Activities
 
-* Develop a local workforce that has the transferable energy sector skills and international certifications necessary to meet industry demand.
-* Build the capacity of Mexico’s small and medium-sized enterprises to better support supply chain integration.
-* Build the capacity of energy regulators and officials to promote international best practices in accountability and transparency and ensure compliance with local content regulations.
+Course portfolio for the Workforce includes:
+* EPI Energía.
+* Solar thermal.
+* Gender awareness and mentorship.
+* Energy efficiency basics and advanced.
+* Solar PV maintenance and decommissioning training
+* Technical English.
+
+Course portfolio for the SMEs includes:
+* Access to finance and procurement.
+* Suppliers' development and new business opportunities.
+* COVID-19 resilience kit, including financial services, energy efficiency, e-commerce, crisis management, and mental health tools.
+
+Course portfolio for Regulator Institutions includes:
+* Certification on ISO 14001 and 45001.
+* Soft skills development.
+* Capacity building on clean energies.
