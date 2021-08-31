@@ -28,7 +28,7 @@ Together with local partners, EPI offers targeted technical training and soft sk
 
 The original geographic scope included setting hubs in Mexico City, Tabasco, and Jalisco. However, due to the COVID-19 pandemic and at the request of the BEMC, the program adapted its course offer to online delivery, resulting in having beneficiaries from at least 16 states, expanding its original geographical scope while maintaining close relationships with government institutions of Jalisco and Tabasco.
 
-![Detalle_blog.jpg](/uploads/Detalle_blog.jpg)
+![Mexico Energy project.jpg](/uploads/Mexico%20Energy%20project.jpg)
 
 ### Sample Activities
 
