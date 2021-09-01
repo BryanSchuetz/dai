@@ -30,3 +30,9 @@ RG works in 27 conflict-affected municipalities.
 * Empower municipalities to deliver visible improvements in health, education, and infrastructure services.
 * Encourage meaningful civic engagement by civil society and private sector actors.
 * Strengthen the Government of Colombia’s capacity to meet citizen demands.
+
+### Select Results
+
+* Supported the Colombian government to launch its National Observatory of Logistics, Transportation, Mining, and Energy planning tool will allow national, departmental, and local governments to develop and implement better public policies to improve road connectivity and bring more development opportunities to rural communities in conflict-affected territories.
+* Initiated a course on social auditing with the participation of 60 social leaders, covering essential governance-related topics. The 10-session course addresses essential concepts regarding the government structure, participation and protection mechanisms for citizens, Peace Agreement implementation, human rights, social auditing, and public accountability exercises. 
+* Supported 27 conflict-affected municipalities in Colombia to prioritize crucial investment projects. The municipalities of Montelíbano and El Doncello will receive $1.1 million—from mining royalties—to improve rural public infrastructure, benefiting approximately 2,225 people.
