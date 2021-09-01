@@ -4,7 +4,9 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/sustainable-business
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#corp-badge"></use></svg>
-summary: The Sustainable Business Group (SBG) delivers solutions for companies and countries to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization. 
+summary: The Sustainable Business Group (SBG) delivers solutions for companies and
+  countries to accelerate their progress in energy transition, social and environmental
+  integration, and supply chain reorganization. 
 type: primary
 redirect_from:
 - "/erg"
