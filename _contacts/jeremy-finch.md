@@ -10,6 +10,6 @@ summary: Jeremy heads up both the internal audit and the ethics and compliance f
   pan-European businesses.
 image: https://assetify-dai.com/contacts/finch.jpg
 group: Management
-sort-order: 6
+sort-order: 8
 ---
 
