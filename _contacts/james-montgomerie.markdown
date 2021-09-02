@@ -11,9 +11,8 @@ summary: James has advised major international development companies on project 
   the company's Europe, Middle East and Africa business unit, where he was responsible
   for a project portfolio worth over £175m. He oversaw the growth of Palladium UK
   to become a key FCDO supplier and was responsible for building and maintaining that
-  client relationship. He brings high-level corporate leadership and general management
-  experience to DAI, where he leads the HMG Business Unit's Senior Delivery Team,
-  overseeing the delivery of projects across five portfolios.
+  client relationship. At DAI, James leads the HMG Business Unit's Senior Delivery
+  Team, overseeing the delivery of projects across five portfolios.
 image: "/uploads/James%20Montgomerie%20Square%20crop156x156.jpg"
 group: Management
 sort-order: 7
