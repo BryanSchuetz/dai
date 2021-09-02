@@ -1,8 +1,7 @@
 ---
 title: Corin Armstrong
-date: 2016-01-21 22:18:43.395000000 Z
-group: Business Development
-image: https://assetify-dai.com/contacts/corin-armstrong.jpg
+date: 2016-01-21 22:18:00 Z
+published: false
 job-title: Lead Development
 email: corin_armstrong@dai.com
 summary: Corin is a member of our business development team. He has substantial experience
@@ -17,6 +16,8 @@ summary: Corin is a member of our business development team. He has substantial 
   As Assistant to the Head of Information and Civil Society Department at DFID, he
   was responsible for political risk analysis in the department’s geographic areas
   of activity, liaison with civil society groups, and strategic communications.
+image: https://assetify-dai.com/contacts/corin-armstrong.jpg
+group: Business Development
 sort-order: 0
 ---
 
