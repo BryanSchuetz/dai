@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [EU-funded Technical Assistance for Energy Efficiency and Renewable Energy Sources in Serbia-Public Call to Small and Medium Enterprises to Participate in the Conduct of 10 Free Energy Audits (for companies established in the Republic of Serbia)](/uploads/Information%20on%20energy%20audits%20in%20SME_full%20set.pdf)
 * [The USAID Economic Security Program in Georgia - Request for Proposals: Procurement of Fiber and CO2 Laser Cutting Machine](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/GESP-G-RFP-028%20Procurement%20of%20FiberLaserCutting%20Machine_August17.pdf "9/8")
 * [Egypt—Economic Governance Activity (EGA) RFP-EGA-21-067.VCom.00 Provision of Visual Communications Support](/uploads/RFP-EGA-21-067.VCom.00.pdf)
 * [GESP-G-RFP-026 Procurement of Ceramic Workshop Equipment](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/GESP-G-RFP-026%20Procurement%20of%20Ceramic%20Workshop%20Equipment.pdf "8/20")
