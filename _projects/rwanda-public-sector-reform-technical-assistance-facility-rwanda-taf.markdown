@@ -7,7 +7,7 @@ summary: 'The Rwanda Technical Assistance Facility (TAF) is a component of the S
   policy-making agenda. '
 start: 2021
 end: 2025
-client: U.K. Foreign and Commonwealth Office
+client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Public Administration, Civil Service Reform, and Human Resources Management
