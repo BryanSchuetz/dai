@@ -10,6 +10,9 @@ solutions:
 - Environment
 regions: Eastern Europe and Central Asia
 country: Serbia
+promos:
+- title: 'Project News and Updates '
+  link: https://www.euzatebe.rs/en/projects/technical-assistance-to-the-ministry-in-charge-for-energy-and-relevant-public-entities-for-implementation-of-new-energy-law--neeap-and-res-directive/1
 ---
 
 Serbia is among the European countries with the highest energy intensity, with a large dependence on fossil fuels, especially coal. Its development targets, however, require bringing the energy sector into a sustainable footing by improving the energy efficiency situation across all sectors and increasing the use of renewable energy sources. 
