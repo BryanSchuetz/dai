@@ -1959,3 +1959,18 @@ a.bulma-card {
     width: 100px;
   }
 }
+
+.translations{
+  width: 20%;
+  float: right;
+  color: white;
+  a{
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: $link-green;
+    text-transform: uppercase;
+    &.active{
+      color: white;
+    }
+  }
+}
