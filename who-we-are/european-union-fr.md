@@ -1,5 +1,5 @@
 ---
-title: DAI et l’Union européenne 
+title: DAI et l’Union européenne
 permalink: who-we-are/global-reach/european-union-fr
 published: false
 summary: L’union européenne (UE) est le plus grand bailleur d’aide au développement
@@ -12,6 +12,7 @@ related: true
 country-page: true
 layout: node
 ---
+
 DAI est depuis longtemps présente sur le continent européen, mais c’est avec l'acquisition de la société de conseil et d’assistance technique Human Dynamics, en 2019, que nous avons atteint l'échelle et l'ampleur nous permettant d'offrir des services plus complets à nos clients européens. Nous sommes aujourd’hui le plus grand pourvoyeur de services de développement pour la Commission européenne.
 
 Depuis nos bureaux à Bruxelles (Belgique), Vienne (Autriche), Ankara (Turquie), Belgrade (Serbie), Cologne (Allemagne), Londres (Royaume-Uni) et Sofia (Bulgarie), notre équipe de 120 employés supervise un portefeuille de 85 projets de l'UE dans plus de 80 pays.
