@@ -110,7 +110,7 @@ href="https://dai-global-developments.com/articles/a-method-for-valuing-the-cost
       {%- else -%}
         {% assign nav-list = site.data.europe-nav %}
       {%- endif -%}
-      {%- if page.url contains '/who-we-are/global-reach/european-union-office/solutions' or page.url == '/who-we-are/global-reach/european-union' or page.url == '/who-we-are/global-reach/european-union-fr'-%}
+      {%- if page.url contains '/who-we-are/global-reach/european-union-office/solutions' or page.url contains '/who-we-are/global-reach/european-union-office/contacts' or page.url == '/who-we-are/global-reach/european-union' or page.url == '/who-we-are/global-reach/european-union-fr'-%}
         <div class="translations">
           <span><a class=" {%- unless page.url contains '-fr'  -%}active {%- endunless -%}" href="{%- if page.url contains '-fr' -%}{{page.url | remove:'-fr'}}{%- else -%}{{page.url}}{%- endif -%}">English</a> / <a class=" {%- if page.url contains '-fr'  -%}active {%- endif -%}" href="{%- if page.url contains '-fr' -%}{{page.url}}{%- else -%}{{page.url}}-fr{%- endif -%}">Français</a> </span>
         </div>
