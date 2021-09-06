@@ -4,11 +4,11 @@ date: 2017-06-19 15:11:00 Z
 permalink: "/our-work/solutions/sustainable/sustainable-business-training"
 summary: 'Building off 50 years of international development experience, DAI offers
   a comprehensive catalogue of online training. '
-layout: solution
 hero: true
 solutions:
 - Sustainable Business
 redirect_from: "/our-work/sustainable-business-training"
+layout: solution
 ---
 
 Building off 50 years of international development experience, DAI offers a comprehensive catalogue of online training. Our training sessions are distinguished by the quality of the content that is steeped in practical applications of development practices and topics. We draw on more than 2,000 long-term projects and development assignments completed across 150 countries to advance trainees’ understanding. Our expert trainers are development practitioners themselves and rely on data and analytics to craft the course material using real case studies to apply theory to practice. Our courses can be customized to specific languages, countries (specific geographies within a country), and development context to maximize the application of the material to current challenges.
@@ -35,8 +35,7 @@ Contact [training@dai.com](mailto:training@dai.com) for pricing and registration
  
 Upcoming Sessions:
 
-* Date and Time: June 7-10, 2021 (10 am-3 pm Monday-Thursday) British Summer Time
-
+* Date and Time: October 11 - 14, 2021 11h00 - 16h00 BST (14h00 - 19h00 GST, 06h00 - 11h00 EDT)
 * **Module 1:** Local Content Strategy and Policy Training.
 * **Module 2:** Local Content  Forecasting, Plans, and Procurement Tactics. 
 * **Module 3:** Local Content Reporting, Impact Measurement, and Communications.
