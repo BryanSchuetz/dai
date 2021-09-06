@@ -19,7 +19,7 @@ completed across 150 countries to advance participants’ skills.
 
 <!--do not edit this page-->
 
-![Schedule](/uploads/masterclass-banner-06-2021.png)
+![Schedule](/uploads/New%20web%20banner.png)
 
 <div class="form-wrapper">
 <div class="lead-generator">
