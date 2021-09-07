@@ -2,10 +2,11 @@
 title: Christina Frey
 date: 2018-04-05 17:07:00 Z
 lastname: Frey
-summary: Christina Frey brings 10 years of experience in sustainable development,
-  anti-corruption work, public sector governance, and political economy analysis across
-  sub-Saharan Africa and Asia.
-job-title: Principal Consultant, Governance
+summary: As Director of DAI’s governance practice in the United Kingdom, Christina
+  Frey provides technical and managerial expertise and leadership across DAI’s portfolio
+  of governance programmes with the U.K. Foreign, Commonwealth & Development Office
+  (FCDO).
+job-title: Director, Governance
 image: "/uploads/ChristinaFreyPortal.jpg"
 solutions:
 - Governance
@@ -14,13 +15,14 @@ solutions:
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific
+- Middle East and North Africa
 ---
 
-Christina Frey brings 10 years of experience in sustainable development, anti-corruption work, public sector governance, and political economy analysis. Her work focuses on institutional reform and accountability in sub-Saharan Africa and Asia, including Ethiopia, Ghana, Kenya, Nigeria, and Pakistan.
+As Director of DAI’s governance practice in the United Kingdom, Christina Frey provides technical and managerial expertise and leadership across DAI’s portfolio of governance programmes with the U.K. Foreign, Commonwealth & Development Office (FCDO). With 14 years of experience in sustainable development, institutional reform, public sector governance, and political economy analysis, her work focuses on strengthening accountability and development outcomes in projects in sub-Saharan Africa, the Middle East and North Africa (MENA), and Asia. She supports DAI’s clients and projects with strategic and technical assistance in governance reform, political economy analysis, adaptive programming, and policy development; and shares learnings from accountability and institutional strengthening programs with a variety of European donor agencies.
 
-After starting her career in health care, as nursing support and a paramedic, Christina moved into health sector governance programming for GIZ in Kenya. The position enabled her to combine her background in political science with her experience in health care delivery. In her role in DAI’s governance practice, she provides technical expertise to projects and new business efforts and shares learnings from accountability and institutional strengthening programs with a variety of European donor agencies.
-
-Christina specializes in innovation for public service delivery and problem-driven approaches to improving policy and accountability. She currently serves as Technical Lead on the Kenya Deepening Democracy Programme and as Technical Director of the Nigeria Accountable, Responsive, and Capable Government Programme, the UKaid flagship governance programme. In addition, Christina advises teams and clients in applying Political Economy Analysis and Adaptive Programming to DAI’s portfolio. 
+Christina specializes in innovation for public service delivery and problem-driven approaches to improving policy and accountability. This includes strengthening governance for development outcomes across DAI’s technical areas, including economic growth, education, and climate change. Most recent project roles include Technical Director for the FCDO-funded [Lebanon—Economic Reform and Infrastructure Investment Programme](https://www.dai.com/our-work/projects/lebanon-economic-reform-and-infrastructure-investment-programme-lerii); and she serves as Technical Director of the [Nigeria Accountable, Responsive, and Capable Government](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) pillar of the FCDO's flagship governance programme Partnership to Engage, Reform and Learn (PERL); as well as Technical Adviser on the Nigerian Partnership for Learning for All in Nigerian Education (PLANE) education governance programme. In addition, Christina advises teams and clients in applying political economy analysis and adaptive programming.
 
 * B.A., international relations, United States International University, Kenya
-* M.Sc., development management, London School of Economics
+* M.Sc., development management, London School of Economics and Political Science
+* Problem Driven Iterative Adaptation (PDIA) approach: Building Capability by Delivering Results I&II, Harvard Centre for International Development 
+* Governance and Accountability, International Centre for Parliamentary Studies 
