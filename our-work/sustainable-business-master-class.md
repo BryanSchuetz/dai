@@ -265,7 +265,7 @@ var queryValues = {};
 </div>
 </div>
 <script>
-\$('.covid-carousel').flickity({
+$('.covid-carousel').flickity({
 // options
 cellAlign: 'left',
 contain: true,
