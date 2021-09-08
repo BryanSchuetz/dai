@@ -20,7 +20,7 @@ The Centre works with a wide range of organizations—country governments, devel
 
 ![Walking in flooded street. Credit. Ranjan Bhandari.jpg](/uploads/Walking%20in%20flooded%20street.%20Credit.%20Ranjan%20Bhandari.jpg)
  
-This five-year program has the following goals: 
+This four-year program has the following goals: 
 
 * Deliver a respected and widely used quality assurance function that increases the quantity and quality of risk financing products and services. 
 * Provide effective technical assistance and capacity building that supports high-risk, vulnerable countries to make better risk management decisions. 
