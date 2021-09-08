@@ -10,21 +10,22 @@ end: 2025
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Environment
+- 
 regions: Worldwide
 country: Worldwide
 ---
 
-The Centre for Disaster Protection focuses on managing risks relating to disasters, helping countries move from reaction to readiness and plan better for future disasters.
+The [Centre for Disaster Protection](https://www.disasterprotection.org/) focuses on managing risks relating to disasters, helping countries move from reaction to readiness and plan better for future disasters.
  
-The Centre works with a wide range of organizations—country governments, development banks, humanitarian agencies, development insurers, private sector actors, research institutions, and nongovernmental organisations—to support partner countries to strengthen their pre-disaster planning and financial arrangements so they can respond more rapidly and effectively when a disaster strikes.
-
-As the managing agent, DAI is responsible for delivering high-quality technical expertise, managing the Centre’s Governance Structure and leading the operational aspects of the Centre. This includes playing a key role on the Centre’s Board, leading the operations of the Centre and delivering the technical assistance facility.
+The Centre works with a wide range of organizations—country governments, development banks, humanitarian agencies, development insurers, private sector actors, research institutions, and NGOs—to support partner countries to strengthen their pre-disaster planning and financial arrangements so they can respond more rapidly and effectively when a disaster strikes. 
 
 ![Walking in flooded street. Credit. Ranjan Bhandari.jpg](/uploads/Walking%20in%20flooded%20street.%20Credit.%20Ranjan%20Bhandari.jpg)
  
-### Sample Activities 
- 
-* Deliver a quality assurance function that increases the quantity and quality of risk financing products and services. 
+This five-year program has the following goals: 
+
+* Deliver a respected and widely used quality assurance function that increases the quantity and quality of risk financing products and services. 
 * Provide effective technical assistance and capacity building that supports high-risk, vulnerable countries to make better risk management decisions. 
 * Drive change through evidence, experimentation, and learning that strengthens the global evidence base on risk financing. 
-* Improve, through advocacy, the quality and quantity of risk financing provided through the multilateral system. 
+* Through advocacy, improve the quality and quantity of risk financing provided through the multilateral system. 
+
+As the managing agent, DAI is responsible for delivering high quality technical expertise, managing the Centre’s Governance Structure and leading the operational aspects of the Centre. This includes playing a key role on the Centre’s Board, leading the operations of the Centre, and delivering the technical assistance facility.
