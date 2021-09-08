@@ -142,8 +142,6 @@ var queryValues = {};
  </div>
 </div>
 
-Four day virtual course: October 11 - 14, 2021, 11h00 - 16h00 BST (14h00 - 19h00 GST, 06h00 - 11h00 EDT)
-
 The price for the course is USD 3,770. Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
 
 <aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="https://www.dai.com//uploads/DAI_E-Training%20Catalogue2021-4af714.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
