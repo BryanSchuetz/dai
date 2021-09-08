@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Centre for Disaster Protection
 date: 2021-08-16 13:56:00 Z
-published: false
 summary: The Centre for Disaster Protection focuses on managing risks relating to
   disasters, helping countries move from reaction to readiness and plan better for
   future disasters.
