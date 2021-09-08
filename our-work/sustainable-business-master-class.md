@@ -19,7 +19,7 @@ completed across 150 countries to advance participants’ skills.
 
 <!--do not edit this page-->
 
-![Schedule](/uploads/New%20web%20banner.png)
+![Schedule](/uploads/Narrow%20web%20banner_.png)
 
 <div class="form-wrapper">
 <div class="lead-generator">
@@ -84,62 +84,62 @@ var queryValues = {};
 
 <div class="covid-carousel">
 <div class="carousel-cell">
-    <div class="year">
-      <h3>Module 1</h3>
-    </div>
-    <div class="image"><img src="/uploads/master-class-module-1.jpg" alt=""></div>
-    <div class="title">
-      <h2>Strategy and Policy
-        <hr class="bar">
-      </h2>
-    </div>
-    <div class="text">
-      <p>Examines the various local content laws, regulations, and policies around the world and assesses their effectiveness.</p>
-    </div>
+<div class="year">
+<h3>Module 1</h3>
+</div>
+<div class="image"><img src="/uploads/master-class-module-1.jpg" alt=""></div>
+<div class="title">
+<h2>Strategy and Policy
+<hr class="bar">
+</h2>
+</div>
+<div class="text">
+<p>Examines the various local content laws, regulations, and policies around the world and assesses their effectiveness.</p>
+</div>
 </div>
 <div class="carousel-cell">
-    <div class="year">
-      <h3>Module 2</h3>
-    </div>
-    <div class="image"><img src="/uploads/master-class-module-2.jpg" alt=""></div>
-    <div class="title">
-      <h2>Forecasting, Plans, and Procurement Tactics
-        <hr class="bar">
-      </h2>
-    </div>
-    <div class="text">
-      <p>Prepares participants to forecast local content scenarios linked to the procurement of goods and services and the employment of workforces for large projects.</p>
-    </div>
+<div class="year">
+<h3>Module 2</h3>
+</div>
+<div class="image"><img src="/uploads/master-class-module-2.jpg" alt=""></div>
+<div class="title">
+<h2>Forecasting, Plans, and Procurement Tactics
+<hr class="bar">
+</h2>
+</div>
+<div class="text">
+<p>Prepares participants to forecast local content scenarios linked to the procurement of goods and services and the employment of workforces for large projects.</p>
+</div>
 </div>
 <div class="carousel-cell">
-    <div class="year">
-      <h3>Module 3</h3>
-    </div>
-    <div class="image"><img src="/uploads/master-class-module-3.jpg" alt=""></div>
-    <div class="title">
-      <h2>Reporting, Impact Measurement, and Communications
-        <hr class="bar">
-      </h2>
-    </div>
-    <div class="text">
-      <p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis processes and standards, and “telling the story".</p>
-    </div>
+<div class="year">
+<h3>Module 3</h3>
+</div>
+<div class="image"><img src="/uploads/master-class-module-3.jpg" alt=""></div>
+<div class="title">
+<h2>Reporting, Impact Measurement, and Communications
+<hr class="bar">
+</h2>
+</div>
+<div class="text">
+<p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis processes and standards, and “telling the story".</p>
+</div>
 </div>
 <div class="carousel-cell">
-  <div class="year">
-    <h3>Module 4</h3>
-  </div>
-    <div class="image"><img src="/uploads/master-class-module-4.jpg" alt=""></div>
-    <div class="title">
-      <h2>Investments: Supplier and Workforce Development
-        <hr class="bar">
-      </h2>
-    </div>
-    <div class="text">
-      <p>Teaches the use of data and analytics to structure capacity building and local content programs that are commercially
-      effective and economically beneficial.</p>
-    </div>
- </div>
+<div class="year">
+<h3>Module 4</h3>
+</div>
+<div class="image"><img src="/uploads/master-class-module-4.jpg" alt=""></div>
+<div class="title">
+<h2>Investments: Supplier and Workforce Development
+<hr class="bar">
+</h2>
+</div>
+<div class="text">
+<p>Teaches the use of data and analytics to structure capacity building and local content programs that are commercially
+effective and economically beneficial.</p>
+</div>
+</div>
 </div>
 
 The price for the course is USD 3,770. Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
@@ -278,7 +278,7 @@ var queryValues = {};
 </div>
 </div>
 <script>
-$('.covid-carousel').flickity({
+\$('.covid-carousel').flickity({
 // options
 cellAlign: 'left',
 contain: true,
