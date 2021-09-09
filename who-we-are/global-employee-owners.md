@@ -2,18 +2,20 @@
 title: Employee Ownership
 permalink: "/who-we-are/employee-owners"
 related: false
-layout: node
 hero: true
 summary: To achieve our [mission](https://www.dai.com/who-we-are/mission-and-values),
   we must succeed as a business. That means delivering outstanding results for our
   customers and providing a great place to work for employees, which in turn means
   we need a globally integrated workforce actively engaged as stakeholders around
   a common purpose.
+layout: node
 ---
 
 # Global Employee Owners
 
 Global employee ownership is a crucial part of that shared purpose. It encourages the discipline and efficiency that a for-profit structure demands. At the same time, our employee owners—as long-term investors in DAI—focus on long-run results rather than on short-term financial goals. We call our ownership model “inclusive capitalism.” 
+
+<iframe src="https://player.vimeo.com/video/601269304?h=d026186bcf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## An Inclusive Model
 
