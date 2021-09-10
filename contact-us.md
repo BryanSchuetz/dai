@@ -13,7 +13,7 @@ layout: default
 <strong><a href="mailto:siv@dai.com">Special Immigrant Visa Inquiries</a><br></strong>
 <p>Contact DAI regarding an application for a <a href="/faq">Special Immigrant Visa</a>.</p>
 <p>Tel: (301) 771-7600<br>
-<a href="mailto:steven_o'connor@dai.com">General Inquiries</a></p>
+<a href="mailto:steven_o'connor@dai.com?cc=elizabeth_drachman@dai.com&subject=General%20Inquiries">General Inquiries</a></p>
 
 
     <p><strong>Washington</strong><br>
@@ -22,7 +22,7 @@ layout: default
     <a href="https://www.google.com/maps/place/Development+Alternatives+Inc/@38.986188,-77.095005,17z/data=!3m1!4b1!4m2!3m1!1s0x89b7c964ea36cca5:0xad074d59840ba3da">Map this location</a></p>
 
     <p><strong>Additional Email Contacts</strong><br>
-    <a href="mailto:steven_o'connor@dai.com">Press Inquiries</a><br>
+    <a href="mailto:steven_o'connor@dai.com?cc=elizabeth_drachman@dai.com&subject=Press%20Inquiries">Press Inquiries</a><br>
     <a href="mailto:procurement@dai.com">Small Business/Procurement</a><br>
     <a href="mailto:contracts@dai.com">Contracts/Proposals</a><br>
     <a href="mailto:accountspayable@dai.com">Payment Inquiries</a><br>
