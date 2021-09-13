@@ -46,12 +46,15 @@ As county governments take on responsibility for investment in and oversight of 
 ### Select Results
 
 * Extended basic drinking water services to more than 874,388; another 69,566 gained access to basic sanitation services with 1,687 villages verified open-defecation free with monitoring plans in place.
-* Mobilized $17.4 million in new sector funding to expand the services or increase the efficiency of water service providers.
+* Mobilized $44 million in new sector funding to expand the services or increase the efficiency of water service providers.
+* Supported 22 projects to install solar power.  
 * Provided training and technical assistance to 13 partner WSPs to improve their performance and ability to qualify for financing that can expand and improve water services; the focus is to achieve greater cost recovery from users, increased efficiency in service, improved governance, and access to financing.
 * Provided training to 231 WASH enterprises on water sector reforms and rights to water access, basic computer skills, business planning, and strategic marketing, accompanied by on-the-job coaching and mentoring to help enterprises improve access to WASH services for targeted communities.
-* Trained 78 public health officers to initiate Community-Led Total Sanitation programs in their respective areas.
+* Trained 78 public health officers to initiate community-led total sanitation programs in their respective areas.
 * Facilitated the establishment of 12 farming demonstration sites to showcase low-cost methods for producing nutritious food and improved irrigation technologies that can significantly increase crop yields and raise incomes.
 * Trained 24 Water Resource Users Association (WRUAs) to understand and plan for effective conservation; protected 68 springs and planted 153,400 indigenous trees around water sources.
 * Established 234 demonstration farms at farmer’s homesteads to showcase various technologies for adoption by community members; trained more than 4,400 farmers on establishing kitchen gardens, with 5,949 kitchen gardens established in eight counties.
 * Collaborated with Busia Water Company to decrease non-revenue water by 66 percent and establish more than 200 new water connections, benefitting more than 1,000 people. 
 * Launched [mobile payment options](https://www.globalwaters.org/resources/blogs/responding-covid-19-while-reinforcing-development-gains-kenya) in light of COVID-19 crisis. 
+* Equipped 583 schools and health facilities with handwashing stations. 
+* Reached 528,666 people with WASH COVID-19 messaging. 
