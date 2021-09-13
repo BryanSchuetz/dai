@@ -7,7 +7,7 @@ summary: 'DAI is pleased to welcome to the firm Eric G. Postel, a development in
 social-image: "/uploads/Postel%202011%20SpeechV1.jpg"
 ---
 
-DAI is pleased to welcome to the firm [Eric G. Postel](https://www.dai.com/who-we-are/our-team/eric-postel), a development industry leader with a distinguished record as a public servant and as a private sector executive focused on emerging and frontier markets. Postel’s wide-ranging career encompasses pioneering work in development finance, impact investing, clean energy, and trade and investment facilitation, among other achievements, and spans more than 70 countries.
+DAI is pleased to welcome to the firm Eric G. Postel, a development industry leader with a distinguished record as a public servant and as a private sector executive focused on emerging and frontier markets. Postel’s wide-ranging career encompasses pioneering work in development finance, impact investing, clean energy, and trade and investment facilitation, among other achievements, and spans more than 70 countries.
 
 As Principal Development Advisor, Postel will engage DAI’s clients and stakeholders at the highest level, develop and support the execution of our strategy in particular countries and technical areas, and work on DAI development projects around the world.
 
