@@ -4,7 +4,8 @@ date: 2021-09-13 16:50:00 Z
 lastname: Owusu
 summary: 'Afua Owusu is an experienced strategic communications professional with
   a background in entrepreneurship and small business development. '
-job-title: Center for Digital Acceleration
+job-title: Associate, Center for Digital Acceleration
+image: "/uploads/Afua%20Owusu.jpg"
 solutions:
 - Digital Acceleration
 regions:
