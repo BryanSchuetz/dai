@@ -1,8 +1,7 @@
 ---
-title: Palestine— Small and Medium Enterprise Assistance for Recovery and Transition
+title: Palestine—Small and Medium Enterprise Assistance for Recovery and Transition
   (SMART) Activity
 date: 2021-09-10 15:54:00 Z
-published: false
 summary: 'The Small and Medium Enterprise Assistance for Recovery and Transition Activity
   helps Palestinian SMEs and startups rapidly recover from shocks and put them on
   a path to revitalization, creating job opportunities for a growing—and young—population. '
