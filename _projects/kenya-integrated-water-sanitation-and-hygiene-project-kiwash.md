@@ -28,11 +28,9 @@ promos:
 layout: project
 ---
 
-By [combining nutrition programming ](https://medium.com/usaid-global-waters/tackling-malnutrition-at-every-turn-ff0961ade674#.ff6g4pdvj)with improved access to water, sanitation, and hygiene (WASH), the U.S. Agency for International Development designed the Kenya Integrated Water, Sanitation, and Hygiene Project (KIWASH). [KIWASH](http://www.kiwash.org/) enabled more than 1 million Kenyans across nine counties to gain access to improved WASH services and assist households in gaining access to irrigation and nutrition services.
+By [combining nutrition programming ](https://medium.com/usaid-global-waters/tackling-malnutrition-at-every-turn-ff0961ade674#.ff6g4pdvj)with improved access to water, sanitation, and hygiene (WASH), the U.S. Agency for International Development designed the Kenya Integrated Water, Sanitation, and Hygiene Project (KIWASH). [KIWASH](http://www.kiwash.org/) enabled [nearly 900,000 Kenyans](https://www.usglc.org/blog/clean-water-education-access-opportunity/) across nine counties to gain access to improved WASH services and assist households in gaining access to irrigation and nutrition services.
 
 As county governments take on responsibility for investment in and oversight of service delivery to keep their constituents healthy—and their economies thriving—there is great opportunity to expand service delivery through public-private partnerships that bring new actors into the WASH sector. [KIWASH](https://www.kiwash.org/) partnered with water and sanitation service providers to develop bankable business plans, improve operations, and facilitate access to financing. In parallel, behavior change communication activities linked to community-led total sanitation and hygiene stimulated demand for improved household sanitation, hygiene, and nutrition. Our target counties were Busia, Kakamega, Kisumu, Kitui, Makueni, Migori, Nairobi, Nyamira, and Siaya.
-
-By the end of 2019, the program had [helped more than 800,000](https://www.usglc.org/blog/clean-water-education-access-opportunity/) Kenyans gain access to basic drinking water. 
 
 <iframe src="https://player.vimeo.com/video/226759747" width="640" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -47,7 +45,7 @@ By the end of 2019, the program had [helped more than 800,000](https://www.usglc
 
 ### Select Results
 
-* Extended basic drinking water services to more than 800,000; another 94,000 gained access to basic sanitation services with 1,147 villages verified open-defecation free with monitoring plans in place.
+* Extended basic drinking water services to more than 874,388; another 94,000 gained access to basic sanitation services with 1,147 villages verified open-defecation free with monitoring plans in place.
 * Mobilized $17.4 million in new sector funding to expand the services or increase the efficiency of water service providers.
 * Provided training and technical assistance to 13 partner WSPs to improve their performance and ability to qualify for financing that can expand and improve water services; the focus is to achieve greater cost recovery from users, increased efficiency in service, improved governance, and access to financing.
 * Provided training to 231 WASH enterprises on water sector reforms and rights to water access, basic computer skills, business planning, and strategic marketing, accompanied by on-the-job coaching and mentoring to help enterprises improve access to WASH services for targeted communities.
