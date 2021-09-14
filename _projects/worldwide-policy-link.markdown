@@ -5,7 +5,7 @@ summary: 'Policy LINK strengthens the leadership capacity of public, private, an
   civil society actors and fosters collective action among them to transform policy
   systems. '
 start: 2019
-end: 2024
+end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
