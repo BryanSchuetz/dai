@@ -3,7 +3,7 @@ title: Richard Heap
 date: 2021-09-14 08:44:00 Z
 lastname: Heap
 summary: Richard Heap is a Senior Consultant for Climate at DAI and has been involved
-  in some of DAI's most high-profile programs in the climate and energy sector/
+  in some of DAI's most high-profile programs in the climate and energy sector.
 job-title: Senior Consultant, Climate Business
 image: "/uploads/Heap,%20Richard%20-%20Photo.jpg"
 solutions:
