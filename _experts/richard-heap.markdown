@@ -17,5 +17,5 @@ Richard Heap is a Senior Consultant for Climate at DAI. Since joining DAI in 201
 
 Richard has strong experience working with multilateral and U.K. bilateral donors across climate policy and knowledge management. Prior to joining DAI, Richard worked at the United Nations Environment Programme. Based at UNEP’s Regional Office for West Asia in Bahrain, he led a research study on the climate change-conflict-displacement nexus.
 
-* B.Sc., Environmental Science, University of East Anglia
-* M.Sc., Disasters, Adaptation and Development, King’s College London
+* B.Sc., environmental science, University of East Anglia
+* M.Sc., disasters, adaptation, and development, King’s College London
