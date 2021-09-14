@@ -24,5 +24,5 @@ Christina specializes in innovation for public service delivery and problem-driv
 
 * B.A., international relations, United States International University, Kenya
 * M.Sc., development management, London School of Economics and Political Science
-* Problem Driven Iterative Adaptation (PDIA) approach: Building Capability by Delivering Results I&II, Harvard Centre for International Development 
-* Governance and Accountability, International Centre for Parliamentary Studies 
+* Certificate, Problem Driven Iterative Adaptation (PDIA) approach: Building Capability by Delivering Results I&II, Harvard Centre for International Development 
+* Certificate, Governance and Accountability, International Centre for Parliamentary Studies 
