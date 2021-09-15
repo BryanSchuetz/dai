@@ -21,6 +21,8 @@ GEFF Morocco II provides financing in the form of senior unsecured loans to part
 
 GEFF Morocco II is co-financed by the European Union and the Green Climate Fund and builds on the success of the [Morocco Sustainable Energy Financing Facility (MorSEFF)](https://www.dai.com/our-work/projects/morocco-sustainable-energy-financing-facility-morseff) programme, as well as the [Morocco Green Value Chains Facility](https://www.dai.com/our-work/projects/morocco-green-value-chains-morocco-gvc), both managed by DAI. 
 
+![OZZ9236-Edit.jpg](/uploads/OZZ9236-Edit.jpg)
+
 ### Sample Activities
 
 * Regular interaction, maintenance, and monitoring of the Green Technology Selector, the main tool used to communicate to the market a set of available technologies that have been identified as the best performing at a reasonable cost, under local market conditions.
