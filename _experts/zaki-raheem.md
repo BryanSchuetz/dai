@@ -5,7 +5,7 @@ lastname: Raheem
 summary: 'Zaki Raheem is private sector development specialist, where he engages in
   market assessments that look to link micro-, small-, and medium-sized enterprises
   and producers to growing markets. '
-job-title: 'Senior Specialist, Enterprise Development and Entrepreneurship '
+job-title: 'Senior Manager, Enterprise Development and Entrepreneurship '
 image: "/uploads/new_Zaki%20Raheem%20(in%20Quito).jpg"
 solutions:
 - Sustainable Business
@@ -36,7 +36,7 @@ To link these micro- and macro-economic research and consulting experiences, it 
 
 He has had the opportunity to conduct feasibility studies and value chain assessments; lead trainings and workshops for entrepreneurs and small businesses; host business plan competitions, startup boot camps, innovation challenges and pitch events; design and facilitate training-of-trainers for accelerators and incubators; and play a variety of senior program manager roles on corporate-, donor-, and foundation-funded enterprise development projects.
 
-He now serves as Technical Director for the global advisory team with [Shell LiveWIRE](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy), a flagship entrepreneurship program supporting the design, training curriculum development, mentorship, and impact investor engagement for a network of accelerators and pre-accelerators in Africa, Asia, Latin America and the Caribbean, focused on cleantech, agribusiness, and local content. He also serves as an entrepreneurship advisor for the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic)’s agritech incubator and agri-accelerator in Ghana; and the [Centre for Local Business Development](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development) in Guyana. 
+He now serves as Technical Director for the global advisory team with [Shell LiveWIRE](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy), a flagship entrepreneurship program supporting the design, training curriculum development, mentorship, and impact investor engagement for a network of accelerators and pre-accelerators in Africa, Asia, Latin America and the Caribbean, focused on cleantech, agribusiness, and local content. He also serves as an entrepreneurship advisor for the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic)’s agritech incubator and agri-accelerator in Ghana; and the Accelerate-HER women's accelerator in Guyana. 
 
 In addition to his full-time position with DAI, Zaki works part-time as an adjunct associate professor at Columbia University’s Graduate School of International Public Affairs; as a mentor for the #StartupColumbia social entrepreneurship competition; as a volunteer with TechStars #StartupWeekends in Washington, D.C.; and as a technical lead for DAI’s engagement with the Global Accelerator Network and Aspen Network of Development Entrepreneurs.
 
