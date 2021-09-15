@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Raja
 summary: 'Bhairav Raja is a Client Lead in DAI’s Sustainable Business Group, based
   in London. '
-job-title: Senior Principal, Private Sector Development
+job-title: Senior Manager, Private Sector Development
 image: "/uploads/cdai-22.jpg"
 solutions:
 - Economic Growth
