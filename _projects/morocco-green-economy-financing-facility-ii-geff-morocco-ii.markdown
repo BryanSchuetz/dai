@@ -1,7 +1,6 @@
 ---
 title: Morocco—Green Economy Financing Facility II (GEFF Morocco II)
 date: 2021-09-15 11:49:00 Z
-published: false
 summary: 'The Green Economy Financing Facility Morocco II provides financing in the
   form of senior unsecured loans to participating financial institutions, including
   banks, microfinance, and leasing companies. '
