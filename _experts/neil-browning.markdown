@@ -2,11 +2,9 @@
 title: Neil Browning
 date: 2018-04-04 23:10:00 Z
 lastname: Browning
-summary: 'Neil Browning leads quantitative and qualitative economic studies in emerging
-  and frontier markets, and specializes in data collection and econometric analysis
-  in challenging environments; and the development of business plans, policies and
-  national strategies to maximize economic growth. '
-job-title: Senior Analyst
+summary: Neil Browning is an economist and project manager focused on national and
+  subnational economies in emerging and frontier markets.
+job-title: Lead Analyst
 image: "/uploads/Neil_web.jpg"
 solutions:
 - Sustainable Business
@@ -16,9 +14,12 @@ regions:
 - Worldwide
 ---
 
-Prior to joining DAI, Neil Browning supported Malawian entrepreneurs as a Peace Corps Malawi Volunteer, worked at the United Nations Development Program in Geneva on its public-private partnership with DHL, and as a consultant for RTI International for a mobile phone-based labor market information project.
+Neil Browning helps clients meet their technical and policy goals as they engage with complex dynamics and myriad stakeholders, global to local. He is a lead analyst and project manager specializing in policy analysis, quantitative and qualitative economic assessment and implementing technical solutions in emerging and frontier markets. Neil has worked with local and multinational firms, trade associations, and national governments.
 
-With DAI’s Sustainable Business Group (SBG), Neil leads quantitative and qualitative economic studies in emerging and frontier markets, and specializes in data collection and econometric analysis in challenging environments; and the development of business plans, policies and national strategies to maximize economic growth. He has conducted national and province-level, survey-based competitiveness assessments in Sub-Saharan Africa, Oceania, and North America. Neil is also a key product developer for SBG's proprietary econometric analysis software and study process.
+Neil's areas of technical expertise include national and subnational market assessment, supply chain analysis, econometrics, statistical modeling, local content policy development, and SME competitiveness. In addition to project management and analytics, Neil is also a product developer for SBG’s proprietary econometric analysis software and study process. Neil has global experience consulting on major capital projects in the energy industry and has experience in ecotourism, logistics, and mobile application development. He has field experience in Mozambique, Malawi, Northern Canada, and Papua New Guinea, and has managed remote projects in Guyana, Jamaica, Kyrgyzstan, Tajikistan, Thailand, and the United States.
+
+Prior to joining DAI, Neil Browning supported Malawian entrepreneurs as a Peace Corps Malawi Volunteer and worked with the United Nations Development Program in Geneva on its public-private partnership with Deutsche Post DHL.
 
 * M.P.P., Duke University
 * B.A., international development, University of Oregon
+* P.M.P., Project Management Institute
