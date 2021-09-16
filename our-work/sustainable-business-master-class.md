@@ -19,7 +19,7 @@ completed across 150 countries to advance participants’ skills.
 
 <!--do not edit this page-->
 
-![Schedule](/uploads/Narrow%20web%20banner_.png)
+![Schedule](/uploads/New%20web%20banner-online.png)
 
 <div class="form-wrapper">
 <div class="lead-generator">
