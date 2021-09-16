@@ -14,6 +14,9 @@ solutions:
 regions: Middle East and North Africa
 country: Palestine
 promos:
+- title: Palestinians Benefitting from Jobs and Training Despite COVID-19 Thanks to
+    Innovative Development Impact Bond
+  link: https://www.worldbank.org/en/news/feature/2021/09/08/palestinians-benefitting-from-jobs-and-training-despite-covid-19
 - title: World Bank Project Funds Climate-Friendly Solar-Powered Schools in Palestine
   link: https://www.dai.com/news/world-bank-project-funds-climate-friendly-solar-powered-schools-in-palestine
 - title: DAI-Implemented Solar Energy Financing Project in Palestine Wins Excellence
