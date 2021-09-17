@@ -56,11 +56,12 @@ Send an email to the [Afghanistan SIV & P-2 Response Team](mailto:siv@dai.com) f
 | Related Employment documents | Employee Badge, Certificates, Paystubs |
 | Marital Status **(P-2 only)** | Single/Married/Divorced/Widowed |
 | Family Ddocuments **(P-2 only)** | Marriage Certificate, Death Certificate |
-| P-2 Referral Form **(P-2 only)** | Fill out using LINK or Attachment |
+| P-2 Referral Form **(P-2 only)** | Fill out using [this form](https://dai-assets.s3.us-east-1.amazonaws.com/siv/Excel%20Format%20of%20Referral%20Form.xlsx) |
 
 ## How do I learn more about the U.S. visa programs?
 
-* [Special Immigrant Visa (SIV) Guidelines by U.S. Department of State](https://travel.state.gov/content/travel/en/us-visas/immigrate/special-immg-visa-afghans-employed-us-gov.html)
+* [Afghanistan Inquiries - Updates on SIV & P-2 programs](https://www.state.gov/afghanistan-inquiries/) – Make sure to scroll down past the updates for US Citizens. There is a section specifically dedicated to SIV and P-2 respectively.
+* [Special Immigrant Visa (SIV) Guidelines U.S. Department of State](https://travel.state.gov/content/travel/en/us-visas/immigrate/special-immg-visa-afghans-employed-us-gov.html)
 * [Priority 2 Designation (P-2) Guidelines for Refugee Admissions by U.S. Department of State](https://www.state.gov/u-s-refugee-admissions-program-priority-2-designation-for-afghan-nationals/)
 * [U.S. Refugee Admissions Program Instructions by Refugee Processing Center (RPC)](https://www.wrapsnet.org/siv-iraqi-syrian-afghan-referrals/)
 
@@ -70,4 +71,5 @@ No. If you have already filled out the form once you don’t need to fill it out
 
 ## I’ve already submitted my SIV application to the National Visa Center. How do I check on the status?
 
-Call the Department of State SIV Hotline: 1-888-407-4747 or 202-501-4444. The first prompt is for U.S. Citizens. Wait until it finishes the recording, then the second prompt will start. It says, “If you’re calling about Visas, press 1”.
+* Call the Department of State SIV Hotline: 1-888-407-4747 or 202-501-4444. The first prompt is for U.S. Citizens. Wait until it finishes the recording, then the second prompt will start. It says, “If you’re calling about Visas, press 1”.
+* [Resources from USAID including list of NGO's active in Afghanistan](https://www.cidi.org/disaster-responses/afghanistan-crisis/)
