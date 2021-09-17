@@ -1974,3 +1974,8 @@ a.bulma-card {
     }
   }
 }
+
+ol li::marker{
+  text-align: center !important;
+  font-family: monospace;
+}
