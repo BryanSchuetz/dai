@@ -11,7 +11,7 @@ solutions:
 - Land Tenure and Property Rights
 - Governance
 - Gender and Social Inclusion
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Worldwide
 articles:

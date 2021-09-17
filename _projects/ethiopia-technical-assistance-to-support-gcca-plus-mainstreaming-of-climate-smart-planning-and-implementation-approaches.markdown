@@ -9,7 +9,7 @@ end: 2022
 client: European Union
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: Sub-Saharan Africa
 country: Ethiopia
 ---

@@ -3,7 +3,7 @@ title: New Journal Article Details How Mekong Communities Implement Climate Adap
 date: 2017-01-18 18:41:00 Z
 solutions:
 - Natural Resource Management
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: Asia and the Pacific
 projects: Southeast Asia—Mekong Adaptation and Resilience to Climate Change (ARCC)
 clients: U.S. Agency for International Development

@@ -9,7 +9,7 @@ summary: The schoolyards of Queens, New York, where Paul Hartman grew up, are a 
 job-title: Chief of Party, Mekong ARCC
 image: https://assetify-dai.com/experts/innerpaul.jpg
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions:
 - Asia and the Pacific

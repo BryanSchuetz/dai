@@ -10,7 +10,7 @@ start: 2011
 end: 2016
 client: U.S. Agency for International Development
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions:
 - Asia and the Pacific

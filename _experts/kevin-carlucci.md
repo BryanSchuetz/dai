@@ -10,7 +10,7 @@ job-title: Senior Global Practice Specialist, Environment and Land
 image: https://assetify-dai.com/experts/Kevin%20inner.jpg
 solutions:
 - Energy
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 - Natural Resource Management
 - Land Tenure and Property Rights

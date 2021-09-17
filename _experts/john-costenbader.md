@@ -10,7 +10,7 @@ summary: Twenty years ago, John Costenbader graduated from a small New England c
 job-title: Senior Development Specialist, Climate Change & Natural Resource Management
 image: https://assetify-dai.com/experts/John%20Costenbader%20Inner.jpg
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 - Governance
 - Energy

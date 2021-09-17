@@ -7,7 +7,7 @@ summary: 'Joey Manfredo is an international development professional with more t
 job-title: Senior Project Manager
 image: https://assetify-dai.com/experts/Joey%20inner.jpg
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 - Natural Resource Management
 regions:

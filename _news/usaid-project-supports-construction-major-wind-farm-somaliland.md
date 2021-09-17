@@ -8,7 +8,7 @@ summary: 'The Government of Somaliland recently launched its first pilot wind fa
 '
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Sub-Saharan Africa
 projects: 

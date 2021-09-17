@@ -7,7 +7,7 @@ summary: 'Calling it their spiritual obligation to "safeguard the integrity of c
 
 '
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions:
 - Asia and the Pacific

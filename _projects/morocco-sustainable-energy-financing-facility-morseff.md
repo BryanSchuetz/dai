@@ -15,7 +15,7 @@ solutions:
 - Energy
 - Environment
 - Finance and Investment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Sub-Saharan Africa
 country:

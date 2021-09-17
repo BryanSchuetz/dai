@@ -8,7 +8,7 @@ start: 2016
 end: 2020
 client: U.S. Agency for International Development
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 - Sustainable Livelihoods
 - Natural Resource Management

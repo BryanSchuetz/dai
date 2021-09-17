@@ -11,7 +11,7 @@ image: "/uploads/Waugh%20passport%20photo.jpg"
 solutions:
 - Environment
 - Natural Resource Management
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Worldwide
 articles:

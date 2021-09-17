@@ -8,7 +8,7 @@ summary: As a consultant for DAI, Jonathan Ammoun provides technical inputs and 
 job-title: Consultant, Climate and Natural Resource Management
 image: "/uploads/J%20Ammoun.jpg"
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Natural Resource Management
 regions:
 - Worldwide

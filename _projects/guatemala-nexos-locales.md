@@ -10,7 +10,7 @@ end: 2023
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security
-- Climate Change Adaptation and Mitigation
+- Climate
 - Decentralization and Local Government Management
 - Economic Growth
 - Governance

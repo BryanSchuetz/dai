@@ -11,7 +11,7 @@ end: 2017
 client: European Union
 solutions:
 - Energy
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 - Governance
 regions:

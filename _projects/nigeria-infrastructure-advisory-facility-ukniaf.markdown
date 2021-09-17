@@ -10,7 +10,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: Sub-Saharan Africa
 country: Nigeria
 ---

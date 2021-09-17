@@ -9,7 +9,7 @@ job-title: Senior Global Practice Specialist, Environment
 image: "/uploads/Rhi%20G.jpg"
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Worldwide
 ---

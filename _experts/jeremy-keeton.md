@@ -8,7 +8,7 @@ summary: Jeremy Keeton specializes in biodiversity conservation and climate chan
 job-title: 'Deputy Chief of Party, Paani '
 image: https://assetify-dai.com/experts/Keeton%20inner.jpg
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 - Institutional and Policy Reform
 - Natural Resource Management

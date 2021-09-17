@@ -8,7 +8,7 @@ start: 2018
 end: 2025
 client: European Union
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions: Middle East and North Africa
 country: Regional

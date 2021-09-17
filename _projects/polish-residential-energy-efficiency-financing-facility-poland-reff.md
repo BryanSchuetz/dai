@@ -9,7 +9,7 @@ client: European Bank for Reconstruction and Development
 solutions:
 - Energy
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Eastern Europe and Central Asia
 country:

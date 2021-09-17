@@ -8,7 +8,7 @@ start: 2016
 end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Global Health
 - Fragile States
 - 

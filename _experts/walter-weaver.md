@@ -8,7 +8,7 @@ job-title: Vice President, Asia Region
 image: https://assetify-dai.com/experts/innerweaver.jpg
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Asia and the Pacific
 layout: expert

@@ -10,7 +10,7 @@ job-title: Practice Leader, Planet
 image: "/uploads/N%20Boneva%20(2).jpg"
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 - Energy
 regions:
 - Worldwide

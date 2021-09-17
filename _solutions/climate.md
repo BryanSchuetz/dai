@@ -3,10 +3,8 @@ title: Climate
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/climate
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
-  meet"><use xlink:href="#corp-badge"></use></svg>
-summary: The Sustainable Business Group (SBG) delivers solutions for companies and
-  countries to accelerate their progress in energy transition, social and environmental
-  integration, and supply chain reorganization. 
+  meet"><use xlink:href="#climate"></use></svg>
+summary: We help community, business, and government partners translate climate science and global climate models into downscaled, locally viable strategies and solutions.
 type: primary
 redirect_from:
 - "/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation"
@@ -15,7 +13,7 @@ hero: true
 layout: solution
 ---
 
-We help community, business, and government partners translate climate science and global climate models into downscaled, locally viable strategies and solutions. We work with local and national governments and the private sector to develop programs and policies that will improve resilience to climate impacts, mitigate behaviors that exacerbate vulnerabilities, and protect freshwater supplies, forests, food security, and economic development.
+We work with local and national governments and the private sector to develop programs and policies that will improve resilience to climate impacts, mitigate behaviors that exacerbate vulnerabilities, and protect freshwater supplies, forests, food security, and economic development.
 
 DAI also recognizes that developing countries’ growth—often fueled by the conversion of forests for agriculture expansion and the exploitation of forests for needed foreign exchange—can confound adaptation and contribute to climate change. We strive to end the conflict between advancing development and [mitigating climate change](https://www.facebook.com/DAIGlobal/videos/10155131037990797/) through our diverse portfolio of climate change and economic growth services. To support clients’ efforts to reduce greenhouse gas emissions and encourage low-emission development, our specialists work with national and local governments, communities, and private companies to:
 

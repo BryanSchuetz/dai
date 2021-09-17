@@ -10,7 +10,7 @@ summary: 'The European Bank for Reconstruction and Development (EBRD) has [launc
 
 '
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Economic Growth
 regions:
 - decreasing

@@ -7,7 +7,7 @@ summary: Zac Bull is a Senior Consultant in climate and natural resource managem
 job-title: Senior Consultant, Climate and Natural Resource Management
 image: "/uploads/Zac%20Bull%20(003).jfif"
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Natural Resource Management
 regions:
 - Worldwide

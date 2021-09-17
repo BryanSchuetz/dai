@@ -8,7 +8,7 @@ summary: 'Paul Jeffery has 22 years of experience leading international developm
 job-title: Director, Asia Region
 image: "/uploads/Paul%20Jeffery%20ID%20photo.jpg"
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions:
 - Asia and the Pacific

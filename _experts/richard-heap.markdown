@@ -7,7 +7,7 @@ summary: Richard Heap is a Senior Consultant for Climate at DAI and has been inv
 job-title: Senior Consultant, Climate Business
 image: "/uploads/Heap,%20Richard%20-%20Photo.jpg"
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions:
 - Worldwide

@@ -8,7 +8,7 @@ end: 2024
 client: European Union
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: Asia and the Pacific
 country: Asia
 ---

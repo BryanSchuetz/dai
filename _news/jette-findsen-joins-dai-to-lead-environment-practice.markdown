@@ -3,7 +3,7 @@ title: Jette Findsen Joins DAI to Lead Environment Practice
 date: 2021-03-09 08:42:00 Z
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: Worldwide
 clients: U.S. Agency for International Development
 summary: 'Jette Findsen has joined DAI as Vice President, Environment. At DAI, she

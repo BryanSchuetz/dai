@@ -3,7 +3,7 @@ title: DAI Partners with U.K.-Based Trees for Life to Promote Forests, Mitigate 
 date: 2020-12-10 08:51:00 Z
 solutions:
 - Natural Resource Management
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 clients: Foreign, Commonwealth & Development Office
 summary: 'As part of a broader commitment to mitigate its environmental impact, DAI

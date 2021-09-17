@@ -14,7 +14,7 @@ solutions:
 - Sustainable Business
 - Environment
 - Energy
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: Latin America and the Caribbean
 country: Mexico
 ---

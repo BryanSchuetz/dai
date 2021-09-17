@@ -8,7 +8,7 @@ summary: 'In sheer numbers, the second NASA International Space Apps Challenge A
 
 '
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions:
 - Asia and the Pacific

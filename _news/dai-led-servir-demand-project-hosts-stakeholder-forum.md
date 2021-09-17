@@ -8,7 +8,7 @@ summary: 'The DAI-led SERVIR Program Demand Activity brought together representa
 '
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: 
 projects: Worldwide—SERVIR Program Demand Activity
 clients: 

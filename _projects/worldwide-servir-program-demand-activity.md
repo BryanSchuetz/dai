@@ -9,7 +9,7 @@ regions:
 country:
 - Worldwide
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 layout: project
 summary: Satellites photograph the world, providing a world of information. DAI helped

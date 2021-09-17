@@ -8,7 +8,7 @@ end: 2021
 client: 'Agence Française de Développement '
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions: Latin America and the Caribbean
 country: Dominican Republic
 ---

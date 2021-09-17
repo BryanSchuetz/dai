@@ -9,7 +9,7 @@ job-title: Principal Global Practice Leader, Climate Change and Natural Resource
 image: "/uploads/Jon%20Randall%20Casual.jpg"
 solutions:
 - Energy
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 - Natural Resource Management
 regions:

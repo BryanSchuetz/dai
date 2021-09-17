@@ -9,7 +9,7 @@ image: "/uploads/ChrisRose-Inner.jpg"
 solutions:
 - Environment
 - Energy
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Worldwide
 ---

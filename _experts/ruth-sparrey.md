@@ -10,7 +10,7 @@ solutions:
 - Environment
 - Health and Livelihoods
 - Sustainable and Accountable Health Services
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia

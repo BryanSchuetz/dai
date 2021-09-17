@@ -10,7 +10,7 @@ job-title: Lead, Climate and Natural Resources
 image: https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg
 solutions:
 - Energy
-- Climate Change Adaptation and Mitigation
+- Climate
 - Economic Growth
 - Environment
 - Natural Resource Management

@@ -9,7 +9,7 @@ summary: Nick Hobgood has 30 years of experience leading complex, multisector de
 job-title: 'Director, Project Delivery, Middle East and North Africa '
 image: https://assetify-dai.com/experts/HobgoodInner.jpg
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Economic Growth
 - Environment
 - Natural Resource Management

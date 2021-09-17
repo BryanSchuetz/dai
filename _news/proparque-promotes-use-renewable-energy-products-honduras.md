@@ -4,7 +4,7 @@ date: 2012-12-10 18:05:00 Z
 solutions:
 - Energy
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Latin America and the Caribbean
 projects: Honduras—ProParque

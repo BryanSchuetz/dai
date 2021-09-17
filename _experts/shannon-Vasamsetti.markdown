@@ -8,7 +8,7 @@ job-title: Global Practice Specialist, Climate Change and Natural Resources Mana
 image: "/uploads/DAI-Bio----Shannon-Dugan.jpg"
 solutions:
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Asia and the Pacific
 ---

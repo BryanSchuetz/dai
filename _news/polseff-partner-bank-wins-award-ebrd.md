@@ -12,7 +12,7 @@ solutions:
 - Economic Growth
 - Environment
 - Finance and Investment
-- Climate Change Adaptation and Mitigation
+- Climate
 - Energy
 regions:
 - Eastern Europe and Central Asia

@@ -6,7 +6,7 @@ summary: Donald Lunan is the Global Director for Climate at DAI.
 job-title: Global Director for Climate
 image: https://assetify-dai.com/experts/DonaldLunanINNER.jpg
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Environment
 regions:
 - Asia and the Pacific

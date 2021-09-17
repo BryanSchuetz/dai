@@ -12,7 +12,7 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 - Environment
-- Climate Change Adaptation and Mitigation
+- Climate
 regions:
 - Worldwide
 country:

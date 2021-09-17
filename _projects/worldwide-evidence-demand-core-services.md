@@ -9,7 +9,7 @@ start: 2012
 end: 2016
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Climate Change Adaptation and Mitigation
+- Climate
 - Economic Growth
 - Environment
 - Land Tenure and Property Rights
