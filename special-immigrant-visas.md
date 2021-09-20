@@ -73,4 +73,4 @@ No. If you have already filled out the form once you don’t need to fill it out
 ## I’ve already submitted my SIV application to the National Visa Center. How do I check on the status?
 
 * Call the Department of State SIV Hotline: 1-888-407-4747 or 202-501-4444. The first prompt is for U.S. Citizens. Wait until it finishes the recording, then the second prompt will start. It says, “If you’re calling about Visas, press 1”.
-* [Resources from USAID including list of NGO's active in Afghanistan](https://www.cidi.org/disaster-responses/afghanistan-crisis/)
+* [Resources from USAID including a list of nongovernmental organizations active in Afghanistan](https://www.cidi.org/disaster-responses/afghanistan-crisis/)
