@@ -1,6 +1,7 @@
 ---
 title: Christopher Seeley
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Seeley
 summary: Christopher Seeley is an expert in sustainable livelihoods, alternative development,
   and the design and management of large-scale, multi-objective environmental programs.
