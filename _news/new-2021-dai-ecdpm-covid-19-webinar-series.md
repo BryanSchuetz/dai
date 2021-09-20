@@ -16,7 +16,7 @@ social-image: "/uploads/2021-webinar-1.jpg"
 
 DAI and partner [European Centre for Development Policy Management (ECDPM)](https://ecdpm.org/) are launching a new webinar series on COVID-19, building on the success of last year’s series to connect public and private [responses to the pandemic](/news/webinar-series-connecting-public-and-private-responses-to-covid-19-and-its-impact-on-global-development). 
 
-[![webinar postcard](/uploads/2021-webinar-1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSeVcgJ3Z8POLJF3iMRv052W1MCH0sDFEHs-WmT-W9tqmEUscw/viewform) 
+[![webinar postcard](/uploads/invite%20save%20the%20date2.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSfy_OF2WF1HhRMQ3Yyw2Q_WsPf7PS_4c9spr6mYPRvCroqTCg/viewform) 
 
 Our new series explores the impact and opportunities of the COVID-19 pandemic on global development, with a focus on how the crisis led to a revisit of the European agenda and adapted practices for international partnerships and public-private collaboration.  
 
@@ -30,6 +30,6 @@ Sessions will bring together representatives from the public and private sectors
 
 ## Post-Summer Sessions 
 
-* September 15: Integrated approaches to development finance for building back better  
-* October 6: Green deal approaches to COVID-19 recovery
-* October 27: Women’s economic empowerment   
+* October 14: Green deal approaches to COVID-19 recovery   
+* October 27: Mainstreaming gender-lens investing
+* November 25: Integrated approaches to development finance for building back better   
