@@ -1,5 +1,5 @@
 ---
-title: Special Immigrant Visa and P-2 Program Resoruces
+title: Special Immigrant Visa and Priority-2 Program Resources
 summary: How do I apply to DAI for an employment verification letter or a referral
   to the P-2 program?
 layout: default
@@ -52,11 +52,11 @@ Send an email to the [Afghanistan SIV & P-2 Response Team](mailto:siv@dai.com) f
 |:--|:--|
 | Forms of Identification - Primary Applicant | Tazkira, National ID card, Passport, Translated Tazkira |
 | Forms of Identification - Family Members **(P-2 only)** | Tazkira, National ID card, Passport, Translated Tazkira |
-| Contact Information | Phone Nnumber |
+| Contact Information | Phone Number |
 | Employment Agreements and Scopes of Work | |
 | Related Employment documents | Employee Badge, Certificates, Paystubs |
 | Marital Status **(P-2 only)** | Single/Married/Divorced/Widowed |
-| Family Ddocuments **(P-2 only)** | Marriage Certificate, Death Certificate |
+| Family Documents **(P-2 only)** | Marriage Certificate, Death Certificate |
 | P-2 Referral Form **(P-2 only)** | Fill out using [this form](https://dai-assets.s3.us-east-1.amazonaws.com/siv/Excel%20Format%20of%20Referral%20Form.xlsx) |
 
 ## How do I learn more about the U.S. visa programs?
