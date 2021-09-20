@@ -20,4 +20,4 @@ As the Chief of Party of the U.S. Agency for International Development (USAID)-f
 Beyond engagement in donor-funded projects, Stephen has advised multinational pharmaceutical and health technology companies on product markets, business models for emerging markets, and partnership development. Stephen regularly advises and mentors new social enterprises and startups on strategy, product development, and organizational growth. He also serves on several advisory boards and the board of directors of the CORE Group.
  
 * B.A., English and philosophy, Michigan State University
-* M.P.H., public health, Tulane University School of Public and Tropical Medicine
+* MPH, Tulane University School of Public and Tropical Medicine
