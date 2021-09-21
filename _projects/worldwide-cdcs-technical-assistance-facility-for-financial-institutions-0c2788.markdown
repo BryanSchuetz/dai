@@ -25,6 +25,8 @@ The Facility aims to promote sustained practice changes in financial services pr
 
 The Facility seeks to bring about transformational change not only in the FIs where CDC has invested but also in the wider financial services market. Through generated evidence and focused TA, the Facility will help CDC investees demonstrate the business case for financial services that more visibly support CDC’s Enhanced Development Impact priorities
 
+![226.3986.jpg](/uploads/226.3986.jpg)
+
 ### Sample Activities
 
 * Co-creating concept notes with CDC’s Financial Services Group and its investees, designing TA packages.
