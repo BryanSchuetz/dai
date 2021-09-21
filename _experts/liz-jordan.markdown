@@ -19,4 +19,4 @@ Liz Jordan is a senior water, sanitation, and hygiene (WASH) expert, with 10 yea
 Earlier in her career, Liz worked for Innovations for Poverty Action in western Kenya, managing field implementation of a randomized control trial designed to study the effects of WASH and nutrition interventions on child growth. Her Ph.D. research focused on post-disaster recovery outcomes following the Indian Ocean tsunami.
 
 * Ph.D., civil engineering, University of Colorado Boulder 
-* .S. and B.S., aerospace engineering, Massachusetts Institute of Technology
+* M.S. and B.S., aerospace engineering, Massachusetts Institute of Technology
