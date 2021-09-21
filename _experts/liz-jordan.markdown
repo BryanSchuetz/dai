@@ -1,12 +1,12 @@
 ---
 title: Liz Jordan
 date: 2021-09-21 16:50:00 Z
-published: false
 lastname: Jordan
 summary: 'Liz Jordan is a senior water, sanitation, and hygiene (WASH) expert, with
   10 years of experience working in Africa, Asia, and Latin America, with a particular
   focus on applying research and learning to WASH programs. '
 job-title: Senior Global Practice Specialist, water, sanitation, and hygiene
+image: "/uploads/liz%20jordan.jpg"
 solutions:
 - Environment
 - Water and Sanitation Services and Management
@@ -18,5 +18,5 @@ Liz Jordan is a senior water, sanitation, and hygiene (WASH) expert, with 10 yea
 
 Earlier in her career, Liz worked for Innovations for Poverty Action in western Kenya, managing field implementation of a randomized control trial designed to study the effects of WASH and nutrition interventions on child growth. Her Ph.D. research focused on post-disaster recovery outcomes following the Indian Ocean tsunami.
 
-* Ph.D., civil engineering, University of Colorado Boulder 
+* Ph.D., civil engineering, University of Colorado, Boulder 
 * M.S. and B.S., aerospace engineering, Massachusetts Institute of Technology
