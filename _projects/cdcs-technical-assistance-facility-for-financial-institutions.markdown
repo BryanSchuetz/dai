@@ -2,6 +2,7 @@
 title: Regional—CDC’s Technical Assistance Facility for Financial Institutions (CDC
   TAF)
 date: 2021-09-21 13:13:00 Z
+published: false
 summary: 'CDC TAF is a three-year program that supports the CDC Group in addressing
   two pressing priorities: i) inclusion and ii) climate change and environmental sustainability
   by catalyzing sustainable practice change in financial institutions.'
