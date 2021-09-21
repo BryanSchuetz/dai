@@ -6,6 +6,7 @@ lastname: Jordan
 summary: 'Liz Jordan is a senior water, sanitation, and hygiene (WASH) expert, with
   10 years of experience working in Africa, Asia, and Latin America, with a particular
   focus on applying research and learning to WASH programs. '
+job-title: Senior Global Practice Specialist, water, sanitation, and hygiene
 solutions:
 - Environment
 - Water and Sanitation Services and Management
