@@ -31,5 +31,4 @@ Jonathan conceptualized and managed the Green Recovery and Reconstruction Toolki
 As DAI’s Global Practice Leader for Environment, and Climate Change, Jonathan leads business development, technical assistance, and project management with a focus on climate change, environment, natural resource management, and water resources.
 
 * M.S., ecology, University of California, Davis
-
 * B.A., environmental studies and English, Saint Mary's College
