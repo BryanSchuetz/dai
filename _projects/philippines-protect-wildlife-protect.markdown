@@ -1,9 +1,9 @@
 ---
 title: Philippines—Protect Wildlife
 date: 2017-02-16 20:47:00 Z
-summary: 'Protect is a multi-pronged program in the Philippines that works to conserve
+summary: 'Protect was a multi-pronged program in the Philippines that worked to conserve
   biodiversity, protect wildlife, and sustain ecosystem services in ways that also
-  improve the local population’s livelihoods and long-term well-being. '
+  improved the local population’s livelihoods and long-term well-being. '
 start: 2016
 end: 2021
 client: U.S. Agency for International Development
@@ -15,6 +15,9 @@ country: Philippines
 promos:
 - title: USAID’s Partnership Approach Leaves Philippines’ Wildlife in Safer Hands
   link: https://dai-global-developments.com/articles/usaids-partnership-approach-leaves-philippines-wildlife-in-safer-hands
+- title: 'Q&A with Protect Wildlife Leader Rebecca Paz: Biodiversity Conservation
+    and Local Development Can Go Hand in Hand'
+  link: https://dai-global-developments.com/articles/q-and-a-with-protect-wildlife-leader-rebecca-paz-biodiversity-conservation-and-local-development-can-go-hand-in-hand
 - title: Philippine Wildlife Reporting App Promises to Upgrade Fight Against Trafficking
   link: https://news.mongabay.com/2020/09/philippine-wildlife-reporting-app-promises-to-upgrade-fight-against-trafficking/
 - title: 'Development During Quarantine: Lessons from Four USAID Projects'

@@ -44,7 +44,6 @@ A national team, led by [Dr. Fatima Adamu](https://www.dai.com/who-we-are/our-te
 * Enabled 8,792 female students to enroll in midwifery, nursing, and community health extension worker training, with 38 percent of the 1,551 graduates to date employed and working in rural facilities, a 134 percent increase compared to the start of the program in 2012.
 * Enabled 2,818 rural female students to enroll in an access course and sponsorship initiative to achieve the qualifications needed to enter professional health training.  
 * Increased by more than 6,000 the number of students in training. 
-* Increased female friendliness of health training institutions. Watch these [videos](http://women4healthnigeria.org/index.php/videos) to learn more. 
   
 **Fragile States:**
 
