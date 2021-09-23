@@ -1979,3 +1979,14 @@ ol li::marker{
   text-align: center !important;
   font-family: monospace;
 }
+
+.covid-carousel.climate{
+  div.image{
+    img{
+      min-height: 150px;
+    }
+    height: 150px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+}

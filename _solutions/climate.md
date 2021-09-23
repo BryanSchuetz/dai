@@ -4,7 +4,7 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/climate
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#climate"></use></svg>
-summary: We help community, business, and government partners translate climate science and global climate models into downscaled, locally viable strategies and solutions.
+summary: We help community, business, and government partners translate climate science and global climate policy into locally viable and sustainable solutions.
 type: primary
 redirect_from:
 - "/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation"
@@ -13,15 +13,28 @@ hero: true
 layout: solution
 ---
 
-We work with local and national governments and the private sector to develop programs and policies that will improve resilience to climate impacts, mitigate behaviors that exacerbate vulnerabilities, and protect freshwater supplies, forests, food security, and economic development.
+Climate Change presents a complex problem, but one that we know how to solve - we need to reduce emissions of greenhouse gases, while supporting vulnerable communities to adapt to a changing climate. There is no single solution, no silver bullet, but a need to innovate and scale, bringing together experts from multiple disciplines to develop appropriate responses.
 
-DAI also recognizes that developing countries’ growth—often fueled by the conversion of forests for agriculture expansion and the exploitation of forests for needed foreign exchange—can confound adaptation and contribute to climate change. We strive to end the conflict between advancing development and [mitigating climate change](https://www.facebook.com/DAIGlobal/videos/10155131037990797/) through our diverse portfolio of climate change and economic growth services. To support clients’ efforts to reduce greenhouse gas emissions and encourage low-emission development, our specialists work with national and local governments, communities, and private companies to:
+<aside>
+  <img class="float-left" src="/uploads/cop26.jpg" alt="" style="display: block; padding: 10px; background-color: white;">
+  <h3>DAI & COP26</h3>
+  <p>DAI will be at the 26th UN Climate Change Conference of the Parties in Glasgow this October. Uniting the world to tackle climate change. Follow along our updates... Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+</aside>
 
-* Assess mitigation and adaptation options.
-* Craft plans and undertake actions to improve the management of forests, water, and coastal resources.
-* Embed climate resilience strategies within critical sectors, including agriculture, health, infrastructure, and governance.
-* Develop clean energy resources and improve energy efficiency.
-* Establish greenhouse gas accounting and monitoring systems.
-* Capitalize on carbon markets to create economic incentives based on sound resource management.
+We need to continue to adapt as we move forward, adopting new technologies and fresh approaches to continue to make progress at speed. DAI is uniquely well placed for this challenge. Working globally, with expertise and networks that span across development, we can bring together the best minds to deliver appropriate solutions at local, national, and international scale.
+
+{% include climate-carousel.html %}
+
+We work with governments, communities, and the private sector to develop programs and strategies that will improve resilience to climate impacts and provide low-carbon pathways to inclusive economic development. In doing so, we ensure that essential natural resources - freshwater, forests, soil - are managed to protect biodiversity while sustaining the livelihoods that depend on them.
+
+Our teams support the delivery of a range of interventions, including:
+
+* Developing mitigation and adaptation plans of action
+* Undertaking assessments to improve the management of forests, water, and coastal resources
+* Working with companies and financial institutions to mitigate climate risks in investments and supply chains
+* Delivering innovative financial mechanisms that allow the flow of international climate finance to smallholders and SMEs
+* Supporting the development of fiscal policies that help governments fund the transition to low-carbon economies
+* Embedding climate resilience strategies within critical sectors, including agriculture, health, infrastructure, and governance
+* Supporting access to clean and renewable energy and improving energy efficiency.
 
 <iframe src="https://player.vimeo.com/video/214065469" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
