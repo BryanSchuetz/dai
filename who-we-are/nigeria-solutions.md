@@ -5,7 +5,7 @@ summary: Nigeria is Africa’s most populous nation and largest economy, a count
   almost unimaginable promise. But like many emerging nations it faces the development
   challenges that come with industrialization and growth. With offices in Lagos and
   Abuja, our extensive in-country team works with public and private sector clients
-  to realize Nigeria's extrordinary potential.
+  to realize Nigeria's extraordinary potential.
 hero: true
 regions: Sub-Saharan Africa
 related: true
