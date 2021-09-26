@@ -1990,3 +1990,6 @@ ol li::marker{
     margin-bottom: 10px;
   }
 }
+.brief-aside{
+  @include clearfix;
+}

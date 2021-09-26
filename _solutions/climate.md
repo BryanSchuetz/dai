@@ -15,7 +15,7 @@ layout: solution
 
 Climate Change presents a complex problem, but one that we know how to solve - we need to reduce emissions of greenhouse gases, while supporting vulnerable communities to adapt to a changing climate. There is no single solution, no silver bullet, but a need to innovate and scale, bringing together experts from multiple disciplines to develop appropriate responses.
 
-<aside>
+<aside class="brief-aside">
   <img class="float-left" src="/uploads/cop26.jpg" alt="" style="display: block; padding: 10px; background-color: white;">
   <h3>DAI & COP26</h3>
   <p>Find out more about DAI's climate related work below.</p>
