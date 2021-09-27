@@ -27,3 +27,7 @@ VUES promotes the deployment of 400 megawatts of advanced and distributed energy
 * Use challenges and prize competitions to engage private sector actors with innovative ideas—for technologies like energy storage to smooth demand “peaks,” rooftop solar, energy efficiency, or electric public transit—by funding pilots and proofs of concept.
 * Use blended finance approaches for new energy project development.
 * Mobilize public and private sector investment for the deployment of advanced, distributed energy systems.
+
+### Select Results
+
+* Supported the Vietnam Electricity Corporation (EVN) to conduct a utility technical and financial impact analysis of various rooftop solar deployment scenarios, evaluate rooftop solar systems in its electricity distribution network, and build EVN’s capacity to mitigate adverse impacts to the grid.
