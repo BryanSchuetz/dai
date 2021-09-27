@@ -37,7 +37,7 @@ The Malawi Land Governance programme, funded by the European Union, enhanced peo
 
 ### Select Results
 
-* Supported the Ministry of Lands, Housing, and Urban Development to develop a Land Reform Implementation Plan, focusing on the pilot phase of land reforms.
-* Advised the Ministry of Lands in developing its gender strategy, monitoring and information strategy, and institutional strengthening plan.
+* Supported the Ministry of Lands, Housing, and Urban Development (MoLHUD) to develop a Land Reform Implementation Plan, focusing on the pilot phase of land reforms.
+* Advised the MoLHUD in developing its gender strategy, monitoring and information strategy, institutional strengthening plan, devolution plan, and district land registry plan.
 * Assisted in drafting regulations for the proposed Customary Land Act.
-* Provided formal and on-the-job training for nine contract staff and seven customary land committee members in each of the three pilots.
+* Provided formal and on-the-job training for nine contract staff and seven customary land committee members in each of the three pilots. Trained field teams and consortium partners in systematic land registration using satellite images.
