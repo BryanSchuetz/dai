@@ -1,0 +1,30 @@
+---
+title: Worldwide—EU Global Support Facility for Nationally Determined Contributions
+  (NDCs)
+date: 2021-09-29 11:44:00 Z
+published: false
+summary: The Global NDC Support Facility contributes to the acceleration of the transition
+  towards low-carbon, resource-efficient, and resilient economies in line with the
+  EU Green Deal, Paris Agreement, the Sendai Framework on Disaster Risk Reduction,
+  and the Sustainable Development Goals.
+start: 2021
+end: 2026
+client: European Union
+solutions:
+- Environment
+regions: Worldwide
+country: Worldwide
+---
+
+Climate action—including achieving climate neutrality and enhancing resilience—is at the heart of the Paris Agreement, 2030 Agenda, and European Union (EU) Green Deal. As part of the Paris Agreement, all parties are requested to communicate new or updated nationally determined contributions (NDCs) every five years, outlining climate actions they have taken. Developing countries are in particular need of support in implementing and updating their own NDCs.
+
+DAI is setting up and operating a global NDC Support Facility to contribute to the acceleration of the transition towards low-carbon, resource-efficient, and resilient economies in line with the EU Green Deal, Paris Agreement, the Sendai Framework on Disaster Risk Reduction, and the Sustainable Development Goals. The facility's purpose is to deliver high-level technical assistance and policy advice to support the design, update, and implementation of EU partner countries' NDCs, long-term strategies, and national adaptation plans.
+
+### Sample Activities
+
+* Provide technical support to partner countries, helping them plan climate adaptation measures including nature-based solutions for adaptation and mitigation purposes, natural capital accounting, and valuation for ecosystems services in the context of the Paris Agreement, the Sendai Framework, and the 2030 Agenda.
+* Provide advice on issues related to climate loss and damage, disaster risk reduction, disaster and emergency preparedness, early warning systems, risk assessment and management, community resilience, livelihoods, and ecosystems.
+* Support to design and implementation of public economic policies contributing to climate mitigation and adaptation objectives. 
+* Support partners countries’ review and enhancement of monitoring, reporting, and verification frameworks related to NDCs and strategies.
+* Train stakeholders on the implementation of the Paris Agreement, the Sendai Framework, and the 2030 Agenda.
+* Produce communication and visibility products including video clips, webpages, and banners/posters around the NDCs.
