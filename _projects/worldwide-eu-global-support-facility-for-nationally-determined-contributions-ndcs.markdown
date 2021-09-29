@@ -10,9 +10,10 @@ start: 2021
 end: 2026
 client: European Union
 solutions:
-- Environment
+- Climate
 - Energy
 - Climate Change Adaptation and Mitigation
+- 
 regions: Worldwide
 country: Worldwide
 ---
@@ -27,7 +28,7 @@ DAI is setting up and operating the EU Global Support Facility for Nationally De
 
 * Provide technical support to partner countries, helping them plan climate adaptation measures including nature-based solutions for adaptation and mitigation purposes, natural capital accounting, and valuation for ecosystems services in the context of the Paris Agreement, the Sendai Framework, and the 2030 Agenda.
 * Provide advice on issues related to climate loss and damage, disaster risk reduction, disaster and emergency preparedness, early warning systems, risk assessment and management, community resilience, livelihoods, and ecosystems.
-* Support to design and implementation of public economic policies contributing to climate mitigation and adaptation objectives. 
-* Support partners countries’ review and enhancement of monitoring, reporting, and verification frameworks related to NDCs and strategies.
+* Support the design and implementation of public economic policies contributing to climate mitigation and adaptation objectives. 
+* Support partner countries’ review and enhancement of monitoring, reporting, and verification frameworks related to NDCs and climate strategies.
 * Train stakeholders on the implementation of the Paris Agreement, the Sendai Framework, and the 2030 Agenda.
-* Produce communication and visibility products including video clips, webpages, and banners/posters around the NDCs.
+* Produce communication and visibility products including videos, webpages, and banners/posters around the NDCs.
