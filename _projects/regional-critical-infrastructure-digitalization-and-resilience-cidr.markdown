@@ -24,6 +24,6 @@ CIDR supports the governments of the Western Balkans, Black Sea Region, and Sout
 
 ### Sample Activities 
 
-* Accelerate the development of the workforce to protect against and respond to threats from malign actors, particularly cyberattacks.
+* Accelerate the development of the relevant workforce to protect against and respond to threats from malign actors, particularly cyberattacks.
 * Empower entities to identify and address threats and facilitate the export of U.S. technology and expertise to counter these threats.
 * Establish the policies, frameworks, and coordination bodies necessary to empower entities to protect and improve the resilience critical infrastructure.  
