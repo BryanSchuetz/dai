@@ -7,9 +7,9 @@ layout: default
 
 # Afghanistan Resources (SIV & P-2)
 
-<aside style="border: 1px solid red;">
-  <p style="margin-bottom: 0px;">If you have an immediate safety concern, please contact the UNHCR Protection Office by phone at 0790691746 or 0704996168, or by email at <a href="mailto:afgkaprt@unhcr.org">afgkaprt@unhcr.org</a>.</p>
-</aside>
+<!-- <aside style="border: 1px solid red;">
+  <p style="margin-bottom: 0px;">If you have an immediate safety concern, please contact .</p>
+</aside> -->
 
 If you are an Afghan national who has worked directly for DAI in Afghanistan and you need employment verification to apply for the Special Immigrant Visa (SIV) Program or the Priority-2 Designation (P-2) Refugee Visa Program, please contact our Afghanistan SIV & P-2 Response Team at [SIV@dai.com](mailto:SIV@dai.com). We are committed to supporting you in the application process. 
 
