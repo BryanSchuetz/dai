@@ -11,6 +11,8 @@ end: 2026
 client: European Union
 solutions:
 - Environment
+- Energy
+- Climate Change Adaptation and Mitigation
 regions: Worldwide
 country: Worldwide
 ---
