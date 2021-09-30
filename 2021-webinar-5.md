@@ -1,10 +1,10 @@
 ---
-title: Mainstreaming gender lens investing
+title: Mainstreaming Gender Lens Investing
 permalink: "/2021-webinar-5"
 layout: default
 ---
 
-# Mainstreaming gender lens investing
+# Mainstreaming Gender Lens Investing
 
 <div>
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong>Wednesday October 27th, from 4:00 to 5:15 pm CET</span>
