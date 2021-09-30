@@ -1993,3 +1993,11 @@ ol li::marker{
 .brief-aside{
   @include clearfix;
 }
+.bulma .fb-pub-buttons{
+  background-color: #85c481;
+  color: white;
+}
+.bulma .fb-pub-buttons:hover{
+  color: white;
+  background-color: #54aa4f
+}

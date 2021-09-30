@@ -22,6 +22,11 @@ Sign up below to receive news alerts from DAI. We'll send out word when we have 
 			<p>
 				<label><strong>Topics</strong></label>
 				<br />
+        <div>
+					<p><input class="topic-checks" id="fielddjnwuu-0" name="cm-fo-djnwuu" type="checkbox" value="12358953"
+						/>
+						<label for="fielddjnwuu-4">Natural Resources Management</label></p>
+				</div>
 				<div>
 					<p><input class="topic-checks" id="fielddjnwuu-0" name="cm-fo-djnwuu" type="checkbox" value="12358953"
 						/>
