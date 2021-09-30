@@ -13,11 +13,7 @@ layout: default
 ![webinar postcard](/uploads/new-flier-green-deal.jpg)
 
 
-**Description**: Following the initial crisis response policies aimed at mitigating the most immediate and
-pressing challenges, governments and international organisations are developing policy and
-investment packages to shape the long-term recovery from the crisis. There are strong calls
-for these packages to stimulate a “green recovery” in line with the spirit of the EU Green
-Deal.
+**Description**: Following the initial crisis response policies aimed at mitigating the most immediate and pressing challenges, governments and international organisations are developing policy and investment packages to shape the long-term recovery from the crisis. There are strong calls for these packages to stimulate a “green recovery” in line with the spirit of the EU Green Deal. [Register Now](https://docs.google.com/forms/d/e/1FAIpQLSfy_OF2WF1HhRMQ3Yyw2Q_WsPf7PS_4c9spr6mYPRvCroqTCg/viewform)
 
 This panel will discuss emerging approaches to support a global green and resilient
 recovery from a policy and a finance perspective.
