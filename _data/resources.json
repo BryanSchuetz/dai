@@ -989,7 +989,79 @@
       "docFilename": "C19_Tracker_Core_Report_April.pdf",
       "docThumbnail": "C19_Tracker_Core_Report_April_page1.jpeg",
       "year": 2021
-    }
+    },
+    {
+      "docTitle": "How to Promote Better Nutrition Through Social Assistance",
+      "docSummary": "This document was produced by the TASC project to provide guidance on how social assistance programmes can improve nutrition by increasing the uptake of and access to nutrition relevant services and improving diet quality; to provide a better understanding of which social assistance tools can have the biggest (and least) impact on improving access to and uptake of nutrition relevant services and diet quality across different contexts; to create a better understanding of the policy architecture on social assistance at the global, regional, and national levels to help alleviate malnutrition; and to provide recommendations on what FCDO could do more or differently in the shared social assistance and nutrition space",
+      "organization": "TASC",
+      "docType": [
+        "Guides"
+      ],
+      "solutions": [
+        "Global Health Security and Pandemic Preparedness"
+      ],
+      "technicalTerms": [
+        "Health Care Financing",
+        "Leadership and Governance",
+        "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+      ],
+      "docFilename": "how-to-promote-better-nutrition-through-social-assistance.pdf",
+      "docThumbnail": "how-to-promote-better-nutrition-through-social-assistance.jpeg",
+      "year": 2021
+    },
+        {
+          "docTitle": "FCDO's Aid Spending for Nutrition: 2019",
+          "docSummary": "The latest outcome data show that malnutrition remains a pervasive challenge in all parts of the world, affecting every country. Progress is currently too slow against global targets, and the current levels of available resources sit below estimates of need. While domestic investments are key to sustainability, donor commitments to nutrition-related interventions have been an essential resource in achieving short-, medium- and long-term outcomes in developing countries. While the global economy, competing national priorities and the impact of the Covid-19 pandemic all continue to affect the aid landscape, additional action and increased resources are required to accelerate progress and secure better futures for all. Against this backdrop, this report presents detailed information on the United Kingdom (UK) Foreign, Commonwealth and Development Office (the FCDO, formerly the Department for International Development, or DFID)’s aid spending on nutrition-specific and nutrition-sensitive programmes, as well as its performance against the Nutrition for Growth (N4G) commitments made in 2012.",
+          "organization": "TASC",
+          "docType": [
+            "Technical Brief"
+          ],
+          "solutions": [
+            "Health Systems Strengthening"
+          ],
+          "technicalTerms": [
+            "Health Care Financing"
+          ],
+          "docFilename": "fcdos-aid-spending-for-nutrition-2019.pdf",
+          "docThumbnail": "fcdos-aid-spending-for-nutrition-2019.jpeg",
+          "year": 2021
+        },
+        {
+          "docTitle": "Planetary Boundaries and Veterinary Services",
+          "docSummary": "National Veterinary Services (NVS) play a crucial role in animal health, production and welfare. They are also intimately involved with safeguarding global health security and the health of the planet. Climate change is just one of the nine planetary boundaries (PBs), i.e. Earth system processes, that can be used to monitor the vital signs of our living planet. In this paper, the authors identify the positive and negative impacts of humaninduced management of aquatic and terrestrial animals in relation to these PBs. In the context of NVS, the authors provide an overview of the real and potential impacts of NVS policies on Earth systems and offer suggestions as to how new sustainability paradigms may assist with reviewing and revising NVS mandates and facilitating stakeholder engagement. Opportunities are proposed for the World Organisation for Animal Health to contribute to the global debate on the role of aquatic and terrestrial animal agriculture and wildlife in sustainable development. In addition, the paper suggests that a wider debate is required in relation to recent significant increases in domestic animal populations and PBs. Intersectoral and interdisciplinary collaboration are required to achieve the transformation of the framework in which NVS operate. While such transformations cannot be driven by the veterinary profession alone, veterinarians have proven very effective operators in the One Health arena. By building on these intersectoral linkages, it will be possible for our profession and NVS to actively contribute to the crucial discussions and transformations required to pull Earth system metrics back within safe boundaries.",
+          "organization": "Global Health",
+          "docType": [
+            "Journal Article"
+          ],
+          "source": "OIE Rev Sci Tech",
+          "solutions": [
+            "Global Health Security and Pandemic Preparedness"
+          ],
+          "technicalTerms": [
+            "Leadership and Governance"
+          ],
+          "docFilename": "planetary-boundaries-and-veterinary-services.pdf",
+          "docThumbnail": "planetary-boundaries-and-veterinary-services.jpeg",
+          "year": 2021
+        },
+        {
+          "docTitle": "Continuing Professional Development for Veterinarians in a Changing World",
+          "docSummary": "The veterinary profession has time and again successfully adapted to new challenges and developments, with considerable evolution of the skills needed. Different contexts, production systems and societal requirements continue to shape the profession, resulting in an increasing demand for specialisation, interdisciplinary collaboration along value chains, and preparedness for the omnipresent risk of emerging diseases. To keep up with changes, new insights, advances in research and novel ways to address challenges, continuing professional development (CPD) and the adaptation and updating of the veterinary curriculum have been essential to maintain and enhance the quality and performance of Veterinary Services. This paper reviews actors involved in the provision of Veterinary Services and discusses how vital CPD is in addressing current and future challenges, by focusing on veterinarians and allied veterinary professionals. The authors examine how providers of CPD contribute to the system and how the internal and external factors of a cohort or individual affect the quality and impact of capacity development. The paper further examines the landscape of veterinary CPD in terms of organisational structures, pedagogical approaches, the transition from input- to outcome-based learning, modern delivery tools, and the demands on the different actors involved in the delivery of animal health services. The authors conclude that CPD is essential if the quality of Veterinary Services is to keep pace with the ever-increasing and evolving demands of the 21st century. A CPD programme should therefore be constructed in a way that is tailored to the needs of veterinary professionals and to the requirements of their workplace, whether they work with animal keepers, livestock value chains, national governments or international regulatory bodies. An optimised and successful veterinary sector requires an evidencebased CPD programme that keeps those professionals who are involved in the delivery of animal health services both competent and relevant in a changing world.",
+          "organization": "Global Health",
+          "docType": [
+            "Journal Article"
+          ],
+          "source": "OIE Rev Sci Tech",
+          "solutions": [
+            "Global Health Security and Pandemic Preparedness"
+          ],
+          "technicalTerms": [
+            "Human Resources for Health"
+          ],
+          "docFilename": "continuing-professional-development-for-veterinarians.pdf",
+          "docThumbnail": "continuing-professional-development-for-veterinarians.jpeg",
+          "year": 2021
+        }
 ]
 
 
