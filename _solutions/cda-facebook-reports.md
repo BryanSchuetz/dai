@@ -1,14 +1,15 @@
 ---
-title: 'Facebook Reports Placeholder Title'
+title: Facebook Reports Placeholder Title
 date: 2021-09-28 00:11:00 Z
 permalink: "/our-work/solutions/digital-acceleration-solutions/facebook-reports"
+published: false
 solutions:
 - Digital Acceleration
 promos: 
 hero: true
 layout: solution
-published: false
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium eu sem et commodo. Maecenas eget porta risus, ut dictum justo. Donec vitae elementum neque, a mollis odio. Integer vel lacus lacus. Mauris sed dapibus nibh. Aenean gravida volutpat hendrerit. Nam pulvinar rutrum viverra. Vivamus egestas faucibus eros, quis efficitur quam malesuada vel. Ut commodo dictum euismod. Phasellus pharetra ultricies ligula, eget semper dui tempor non. Nam id diam vitae diam sodales sodales. Aenean et feugiat neque.
 
 <aside>
