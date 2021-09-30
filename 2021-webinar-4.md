@@ -10,7 +10,7 @@ layout: default
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Thursday October 14th, from 4:00pm to 5:15pm Central European Time and 10:00am to 11:15am Eastern Daylight Time</span>
 </div>
 
-![webinar postcard](/uploads/green-deal-webinar.jpg)
+![webinar postcard](/uploads/new-flier-green-deal.jpg)
 
 
 **Description**: Following the initial crisis response policies aimed at mitigating the most immediate and
