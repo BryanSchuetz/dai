@@ -10,14 +10,10 @@ layout: default
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Thursday October 14th, from 4:00pm to 5:15pm Central European Time and 10:00am to 11:15am Eastern Daylight Time</span>
 </div>
 
-![webinar postcard](/uploads/green-deal-webinar.jpg)
+![webinar postcard](/uploads/new-flier-green-deal.jpg)
 
 
-**Description**: Following the initial crisis response policies aimed at mitigating the most immediate and
-pressing challenges, governments and international organisations are developing policy and
-investment packages to shape the long-term recovery from the crisis. There are strong calls
-for these packages to stimulate a “green recovery” in line with the spirit of the EU Green
-Deal.
+**Description**: Following the initial crisis response policies aimed at mitigating the most immediate and pressing challenges, governments and international organisations are developing policy and investment packages to shape the long-term recovery from the crisis. There are strong calls for these packages to stimulate a “green recovery” in line with the spirit of the EU Green Deal. [Register Now](https://docs.google.com/forms/d/e/1FAIpQLSfy_OF2WF1HhRMQ3Yyw2Q_WsPf7PS_4c9spr6mYPRvCroqTCg/viewform)
 
 This panel will discuss emerging approaches to support a global green and resilient
 recovery from a policy and a finance perspective.
