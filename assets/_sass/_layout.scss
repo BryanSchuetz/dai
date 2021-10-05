@@ -1791,6 +1791,10 @@ iframe.last-month {
       width: 265px;
       margin-right: 16px;
     }
+    @include responsive(extra-ultra-wide-screens){
+      width: 317px;
+      margin-right: 16px;
+    }
     img {
       margin-bottom: 1rem;
     }
