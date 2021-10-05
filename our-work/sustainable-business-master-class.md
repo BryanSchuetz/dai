@@ -21,49 +21,7 @@ completed across 150 countries to advance participants’ skills.
 
 ![Schedule](/uploads/New%20web%20banner-d491ce.png)
 
-<div class="form-wrapper">
-<div class="lead-generator">
-<h3>Interested in participating?</h3>
-<form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
-<div class="form-controls--wrap">
-<input type="hidden" name="utf8" value="✓">
-<input type="hidden" name="source" id="source" value="">
-<input type="hidden" name="campaign" id="campaign" value="">
-{% comment %} <label for="name">Full Name</label> {% endcomment %}
-{% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
-{% comment %} <label for="email-address">Email Address</label> {% endcomment %}
-<input type="email" id="email-address" name="email" placeholder="Email Address">
-<button type="submit">Submit Your Email</button>
-</div>
-</form>
-<p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
-<script>
-var queryValues = {};
-
-      $.each(window.location.href.split('?').pop().split('&'), function (i, v) {
-        var v = v.split('=');
-        if (v.length > 1) // prevent v\[1\] from erroring if no querystring present
-          queryValues[v[0].toLowerCase() ] = v[1].toLowerCase();
-      });
-    
-      if (queryValues.submit == 'success') {
-        $('#theForm').css('display', 'none');
-        $('#theForm-success').css('display', 'block');
-      }
-    
-      if (typeof queryValues.source != "undefined") {
-        var source = queryValues.source;
-        $('#source').prop("value", source);
-      }
-      if (typeof queryValues.campaign != "undefined") {
-        var campaign = queryValues.campaign;
-        $('#campaign').prop("value", campaign);
-      }
-    
-    </script>
-
-</div>
-</div>
+{% include _our-work/sbg-form.html %}
 
 ## Participants are trained to:
 
@@ -82,65 +40,8 @@ var queryValues = {};
 
 ## Course Modules
 
-<div class="covid-carousel">
-<div class="carousel-cell">
-<div class="year">
-<h3>Module 1</h3>
-</div>
-<div class="image"><img src="/uploads/master-class-module-1.jpg" alt=""></div>
-<div class="title">
-<h2>Strategy and Policy
-<hr class="bar">
-</h2>
-</div>
-<div class="text">
-<p>Examines the various local content laws, regulations, and policies around the world and assesses their effectiveness.</p>
-</div>
-</div>
-<div class="carousel-cell">
-<div class="year">
-<h3>Module 2</h3>
-</div>
-<div class="image"><img src="/uploads/master-class-module-2.jpg" alt=""></div>
-<div class="title">
-<h2>Forecasting, Plans, and Procurement Tactics
-<hr class="bar">
-</h2>
-</div>
-<div class="text">
-<p>Prepares participants to forecast local content scenarios linked to the procurement of goods and services and the employment of workforces for large projects.</p>
-</div>
-</div>
-<div class="carousel-cell">
-<div class="year">
-<h3>Module 3</h3>
-</div>
-<div class="image"><img src="/uploads/master-class-module-3.jpg" alt=""></div>
-<div class="title">
-<h2>Reporting, Impact Measurement, and Communications
-<hr class="bar">
-</h2>
-</div>
-<div class="text">
-<p>Trains practitioners on the methods for selecting the right metrics and key performance indicators, establishing the right data collection and analysis processes and standards, and “telling the story".</p>
-</div>
-</div>
-<div class="carousel-cell">
-<div class="year">
-<h3>Module 4</h3>
-</div>
-<div class="image"><img src="/uploads/master-class-module-4.jpg" alt=""></div>
-<div class="title">
-<h2>Investments: Supplier and Workforce Development
-<hr class="bar">
-</h2>
-</div>
-<div class="text">
-<p>Teaches the use of data and analytics to structure capacity building and local content programs that are commercially
-effective and economically beneficial.</p>
-</div>
-</div>
-</div>
+{% include _our-work/sbg-carousel.html %}
+
 The three-day course is available online and in-person. 
 December 7 - 9, 2021 in Muscat, Oman.
 The price for the course is USD 3,510. Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
@@ -251,39 +152,7 @@ The price for the course is USD 3,510. Upon completion, you will receive a certi
 </div>
 </form>
 <p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
-<script>
-var queryValues = {};
-
-      $.each(window.location.href.split('?').pop().split('&'), function (i, v) {
-        var v = v.split('=');
-        if (v.length > 1) // prevent v\[1\] from erroring if no querystring present
-          queryValues[v[0].toLowerCase() ] = v[1].toLowerCase();
-      });
-    
-      if (queryValues.submit == 'success') {
-        $('#theForm').css('display', 'none');
-        $('#theForm-success').css('display', 'block');
-      }
-    
-      if (typeof queryValues.source != "undefined") {
-        var source = queryValues.source;
-        $('#source').prop("value", source);
-      }
-      if (typeof queryValues.campaign != "undefined") {
-        var campaign = queryValues.campaign;
-        $('#campaign').prop("value", campaign);
-      }
-    
-    </script>
 
 </div>
 </div>
-<script>
-$('.covid-carousel').flickity({
-// options
-cellAlign: 'left',
-contain: true,
-autoPlay: false,
-wrapAround: true,
-});
-</script>
+{% include _our-work/sbg-script.html %}
