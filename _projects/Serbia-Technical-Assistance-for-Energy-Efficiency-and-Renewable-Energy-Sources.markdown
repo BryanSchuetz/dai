@@ -33,7 +33,7 @@ Serbia is among the European countries with the highest energy intensity, with a
 
 ### Select Results
  
-* Helped draft Serbia’s National Assembly law on energy efficiency and rational energy use.
+* [Helped draft](https://www.dai.com/news/new-laws-in-serbia-promise-to-advance-the-energy-transition) Serbia’s National Assembly law on energy efficiency and rational energy use.
 * Prepared legal gap analysis on energy efficiency in the Republic of Serbia.
 * Facilitated a study tour to Estonia. 
 * Established synergies with another project, Establishing and Strengthening of Capacities of the Conformity Assessment Bodies for the Implementation of Energy Labelling and Ecodesign Directives.
