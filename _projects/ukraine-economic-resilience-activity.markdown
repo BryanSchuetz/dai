@@ -25,7 +25,7 @@ promos:
   link: https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine
 ---
 
-Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The USAID Economic Resilience Activity (ERA) aims to boost the economic resilience of eastern Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents gain locally needed job skills.
+Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The [USAID Economic Resilience Activity (ERA)](https://era-ukraine.org.ua/) aims to boost the economic resilience of eastern Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents gain locally needed job skills.
 
 <iframe src="https://player.vimeo.com/video/371460790" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
