@@ -17,8 +17,6 @@ demand and sustained cost pressures with the current political momentum for incr
 local content. DAI draws on more than 2,000 long-term projects and development assignments
 completed across 150 countries to advance participants’ skills.
 
-<!--do not edit this page-->
-
 ![Schedule](/uploads/New%20web%20banner-d491ce.png)
 
 {% include _our-work/sbg-form.html %}
@@ -139,6 +137,7 @@ The price for the course is USD 3,510. Upon completion, you will receive a certi
 <div class="form-wrapper">
 <div class="lead-generator">
 <h3>Interested in participating?</h3>
+
 <form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
 <div class="form-controls--wrap">
 <input type="hidden" name="utf8" value="✓">
