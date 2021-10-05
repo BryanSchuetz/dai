@@ -27,4 +27,4 @@ By the end of the program, Maldives will have the fiscal space and management ca
 
 * Support the Ministry of Finance with a comprehensive roll-out of performance-based budgeting to all ministries.
 * Evaluate procurement processes for capital projects and re-engineer processes to align public contracting with current law and international open contracting standards.
-* Increase transparency and bottom-up accountability by incorporating public engagement, including by Atoll Councils, women’s development committees, and private contractor associations. 
+* Increase transparency and bottom-up accountability by incorporating public engagement, including by atoll councils, women’s development committees, and private contractor associations. 
