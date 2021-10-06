@@ -13,6 +13,8 @@ country: Serbia
 promos:
 - title: 'Project News and Updates '
   link: https://www.euzatebe.rs/en/projects/technical-assistance-to-the-ministry-in-charge-for-energy-and-relevant-public-entities-for-implementation-of-new-energy-law--neeap-and-res-directive/1
+- title: New Laws in Serbia Promise to Advance the Energy Transition
+  link: https://www.dai.com/news/new-laws-in-serbia-promise-to-advance-the-energy-transition
 ---
 
 Serbia is among the European countries with the highest energy intensity, with a large dependence on fossil fuels, especially coal. Its development targets, however, require bringing the energy sector into a sustainable footing by improving the energy efficiency situation across all sectors and increasing the use of renewable energy sources. 
@@ -31,7 +33,7 @@ Serbia is among the European countries with the highest energy intensity, with a
 
 ### Select Results
  
-* Helped draft Serbia’s National Assembly law on energy efficiency and rational energy use.
+* [Helped draft](https://www.dai.com/news/new-laws-in-serbia-promise-to-advance-the-energy-transition) Serbia’s National Assembly law on energy efficiency and rational energy use.
 * Prepared legal gap analysis on energy efficiency in the Republic of Serbia.
 * Facilitated a study tour to Estonia. 
 * Established synergies with another project, Establishing and Strengthening of Capacities of the Conformity Assessment Bodies for the Implementation of Energy Labelling and Ecodesign Directives.

@@ -21,10 +21,10 @@ The project supports ministries to adopt performance-based budgeting, engage the
 
 By the end of the program, Maldives will have the fiscal space and management capacity to effectively and transparently implement President Solih’s Strategic Action Plan (SAP). Public revenues will be steadily increasing, budgets will be better planned and tied to strategic objectives, and public investments will be based on sound analysis and prioritization, resulting in better public services and measurably improved commitment to and capacity for self-reliance. 
 
-![maldives.jpg](/uploads/maldives.jpg)
+<iframe src="https://player.vimeo.com/video/623772788?h=99da47e1c1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
 
 * Support the Ministry of Finance with a comprehensive roll-out of performance-based budgeting to all ministries.
 * Evaluate procurement processes for capital projects and re-engineer processes to align public contracting with current law and international open contracting standards.
-* Increase transparency and bottom-up accountability by incorporating public engagement, including by Atoll Councils, women’s development committees, and private contractor associations. 
+* Increase transparency and bottom-up accountability by incorporating public engagement, including by atoll councils, women’s development committees, and private contractor associations. 
