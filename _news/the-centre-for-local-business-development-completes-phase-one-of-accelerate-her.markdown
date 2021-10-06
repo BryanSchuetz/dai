@@ -1,7 +1,6 @@
 ---
 title: The Centre for Local Business Development Completes Phase One of Accelerate-Her
 date: 2021-10-06 08:52:00 Z
-published: false
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
