@@ -12,7 +12,7 @@ Don't see the answer you're looking for below? [Send us your question][1] and we
 
 <aside>
   <h2>How do I contact DAI regarding my application for a Special Immigrant Visa?</h2>
-  <p>If you are an Afghan citizen who worked directly for DAI in Afghanistan and you need employment verification in order to apply for the Special Immigrant Visa (SIV) Program, please contact our dedicated SIV <a href="mailto:SIV@dai.com">hotline</a>. In your message to our SIV Team, please be sure to submit a scanned copy of your passport/translated tazkira, any and all employment agreements, and scopes of work for each agreement.</p>
+  <p>If you are an Afghan citizen who worked directly for DAI in Afghanistan and you need employment verification in order to apply for the Special Immigrant Visa (SIV) Program, please contact our dedicated SIV <a href="mailto:SIV@dai.com">hotline</a>. In your message to our SIV Team, please be sure to submit a scanned copy of your passport/translated tazkira, any and all employment agreements, and scopes of work for each agreement. <a href="/special-immigrant-visas">More details are available here</a>.</p>
 </aside>
 
 ##  What do the letters DAI stand for?
