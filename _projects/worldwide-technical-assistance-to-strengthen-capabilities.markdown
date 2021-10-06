@@ -18,6 +18,8 @@ promos:
 - title: 'April 2021: Tracking Data and Evidence on the Indirect Impact of COVID-19
     on Selected Nutrition Outcomes, Interventions, and Policy Responses'
   link: "/uploads/C19_Tracker_Core_Report_April.pdf"
+- title: 'Burkina Faso: Successfully Scaling Up Nutrition in a Digital World'
+  link: https://scalingupnutrition.org/news/burkina-faso-successfully-scaling-up-nutrition-in-a-digital-world/
 ---
 
 The Technical Assistance to Strengthen Capabilities Project (TASC) aims to contribute to improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by UK Aid. TAN works to improve coverage of multi-sectoral nutrition interventions to drive improvements in health and nutrition status within countries. TAN aims to achieve this by strengthening the enabling environment for nutrition at the global and country levels and strengthening the capacity of countries within the Scaling Up Nutrition (SUN) Movement, ultimately delivering policies and programmes that support the reduction of malnutrition. 
