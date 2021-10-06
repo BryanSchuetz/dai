@@ -1,9 +1,9 @@
 ---
 title: Ethiopia—Land Investment for Transformation (LIFT)
 date: 2016-01-21 22:40:00 Z
-summary: The Land Investment for Transformation programme is raising incomes for the
-  rural poor and vulnerable populations in Ethiopia and enhancing economic growth
-  through second-level land certification and improved rural land administration.
+summary: The Land Investment for Transformation programme raised incomes for the rural
+  poor and vulnerable populations in Ethiopia and enhanced economic growth through
+  second-level land certification and improved rural land administration.
 start: 2013
 end: 2021
 client: Foreign, Commonwealth & Development Office
@@ -42,7 +42,7 @@ layout: project
 
 While still one of the poorest countries in the world, Ethiopia has made major advances in reducing poverty levels and increasing agricultural production in recent years. However, the pace of progress is constrained by inefficiencies in the rural land sector, including weak documentation and management of land rights.
 
-The [Land Investment for Transformation (LIFT) programme](https://liftethiopia.com/), funded by the Foreign, Commonwealth & Development Office (FCDO), is raising incomes for rural poor and vulnerable populations in Ethiopia and enhancing economic growth through second-level land certification and improved rural land administration. The team works with the government of Ethiopia to improve land tenure security for farmers and boost their productivity, [especially among women](http://dai-global-developments.com/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia).
+The [Land Investment for Transformation (LIFT) programme](https://liftethiopia.com/), funded by the Foreign, Commonwealth & Development Office (FCDO), raised incomes for rural poor and vulnerable populations in Ethiopia and enhanced economic growth through second-level land certification and improved rural land administration. The team worked with the government of Ethiopia to improve land tenure security for farmers and boost their productivity, [especially among women](http://dai-global-developments.com/articles/womens-land-rights-and-the-problem-of-polygamy-a-proposal-in-ethiopia).
 
 ![](https://assetify-dai.com/projects/Liftnew.jpg)
 
