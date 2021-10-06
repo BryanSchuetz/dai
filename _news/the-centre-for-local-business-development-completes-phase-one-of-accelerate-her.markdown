@@ -17,7 +17,7 @@ At an intense Weekend Bootcamp on September 17-19, more than 30 participants lea
 
  “Today [the Bootcamp] was such an amazing learning experience,” said Sadia Ali-Rahaman, an Accelerate-Her participant. “To look at every segment of my passion and realizing that it is that business that has so much room for growth is a remarkable feeling… It was such an honor to be in the company of the women and men there. To learn from them; to have them give insight and for helping me realize that we don’t have to play it small. With the right models, systems, and processes you really can take your dreams to great height.”
 
-![Sadia Ali-Rahaman-41286f.jpg](/uploads/Sadia%20Ali-Rahaman-41286f.jpg)`Sadia Ali-Rahaman.`
+![Sadia Ali-Rahaman-41286f.jpg](/uploads/Sadia%20Ali-Rahaman-41286f.jpg)`Accelerate-Her participant, Sadia Ali-Rahaman.`
 
 Bootcamp mentors evaluated the entrepreneurs to select 15 to move on to Phase Two. But so outstanding were the participants that 17 women will now take the next step to help grow their businesses. 
 
