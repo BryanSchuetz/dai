@@ -9,6 +9,8 @@ end: 2024
 client: European Union
 solutions:
 - Governance
+- Public Financial Management
+- Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: Kenya
 ---
