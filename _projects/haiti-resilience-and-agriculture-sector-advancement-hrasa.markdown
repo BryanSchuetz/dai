@@ -24,7 +24,7 @@ The Feed the Future Haiti Resilience and Agriculture Sector Advancement (HRASA) 
  
 HRASA improves the efficiency and effectiveness of existing market system actors; stimulates and expands private sector engagement and investment in agricultural market systems; and strengthens the capacity of subsistence farming households to participate in opportunities.
 
-[IMG_9348.JPG](/uploads/IMG_9348.JPG)
+![IMG_9348.JPG](/uploads/IMG_9348.JPG)
 
 ### Sample Activities
 
