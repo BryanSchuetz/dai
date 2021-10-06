@@ -16,6 +16,8 @@ regions:
 country:
 - Ethiopia
 promos:
+- title: 'Land and Climate: Lessons from Ethiopia'
+  link: https://dai-global-developments.com/articles/land-and-climate-lessons-from-ethiopia
 - title: "**GUIDE**: Inclusive Land Registration and Critical Role of Social Development
     Officers "
   link: "/uploads/DAI%20SDO%20Guide-3ddf0d.pdf"
