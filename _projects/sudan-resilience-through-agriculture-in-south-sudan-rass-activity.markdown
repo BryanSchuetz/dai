@@ -8,6 +8,11 @@ summary: The Resilience through Agriculture in South Sudan (RASS) Activity impro
 start: 2021
 end: 2025
 client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Gender and Social Inclusion
+- Agriculture and Food Security
+- Fragile States
 regions: Sub-Saharan Africa
 country: Sudan
 ---
@@ -26,4 +31,6 @@ RASS will strengthen capacities to sustain gender-responsive, diversified, and m
 
 * Provide grants to local institutions, including producer groups, women and youth associations, and micro, small, and medium-sized enterprise to build their capacity, as well as pilot market-sensitive approaches to increasing production; support the inclusion of women and youth in seizing economic opportunities; promote gender equality through co-responsible masculinities, and improve household nutrition and livelihood outcomes. 
 * Promote forage and animal feed production.
-* 
+* Improve linkage between farmers and input suppliers. 
+* Promote diversified and nutrient-rich crop production. 
+* Expand opportunities for sustainable, locally driven livelihoods. 
