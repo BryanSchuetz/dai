@@ -22,7 +22,7 @@ Serbia is among the European countries with the highest energy intensity, largel
 
 In support of these efforts, DAI is implementing [Technical Assistance for Energy Efficiency and Renewable Energy Sources](https://www.dai.com/our-work/projects/Serbia-Technical-Assistance-for-Energy-Efficiency-and-Renewable-Energy-Sources), a European Union project that contributes to the security of energy supply, a more competitive energy market, and sustainable energy development in Serbia.
 
-![national assembly 2.jpg](/uploads/national%20assembly%202.jpg)`Serbia's National Assembly.`
+![Windmills](/uploads/karsten-wurth-karsten-wuerth-wIYDNL0M_p4-unsplash.jpg)
 
 A major achievement of the project is the adoption by the National Assembly of the Republic of Serbia of a Law on the Use of Renewable Energy Sources (RES Law). (A second major piece of legislation, the Law for Energy Efficiency and Rational Use of Energy, is currently in the drafting process with the Ministry in charge of energy and relevant public entities.)
 
