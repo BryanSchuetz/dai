@@ -25,4 +25,8 @@ Our core partners include CrossBoundary, McKinsey & Company, and Ndarama Works.
 
 ### Sample Activities
 
-* 
+* Provide short-term capacity support for deal teams to fill gaps in expertise or bandwidth.
+* Integrate, develop, and expand central tools and resources that encourage collaboration.
+* Provide support for technical innovation.
+* Provide outreach support to increase linkages among U.S. industry, state and federal-level trade promotion agencies, and African counterparts.
+* Implement incentive-based grants, subcontracts.
