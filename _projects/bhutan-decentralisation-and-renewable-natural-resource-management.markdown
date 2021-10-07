@@ -27,3 +27,10 @@ This project supports the implementation of the European Union (EU)-bilateral de
 * Provide technical assistance and capacity building to improve the implementation of programs financed by the EU.
 * Facilitate related policy dialogue and engagement between the EU and the Royal Government of Bhutan.
 * Strengthen the capacity of the National Statistical Bureau and improve the statistical system at central and local levels to support effective renewable natural resources management and local governance of sustainable development.
+
+### Select Results
+
+* Conducted two overseas trainings in India for Government officials on evidence-based statistics for economic development, and on agricultural content communications application for use on mobile phones.
+* Conducted online training for government officials on value chain analyses and small business development.
+* Delivered several studies, including on local government rural revenue mobilisation strategy, agroforestry systems and practices, circular economies and waste recycling models, farm mechanisation potentials, and identification and management of fallow land.
+* Completed technical assistance work on livestock farm management, providing farm potential and strategic gap analysis with respect to the production capacity of inputs and their contribution to input demand in Bhutan.
