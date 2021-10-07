@@ -1,7 +1,6 @@
 ---
 title: Sudan—Resilience through Agriculture in South Sudan (RASS) Activity
 date: 2021-10-07 15:43:00 Z
-published: false
 summary: The Resilience through Agriculture in South Sudan (RASS) Activity improves
   food security and community household recovery and resilience in 13 target counties
   in South Sudan, reducing their long-term reliance on humanitarian assistance.
@@ -13,6 +12,8 @@ solutions:
 - Gender and Social Inclusion
 - Agriculture and Food Security
 - Fragile States
+- Nutrition and Food Security
+- Sustainable Livelihoods
 regions: Sub-Saharan Africa
 country: Sudan
 ---
@@ -34,3 +35,4 @@ RASS will strengthen capacities to sustain gender-responsive, diversified, and m
 * Improve linkage between farmers and input suppliers. 
 * Promote diversified and nutrient-rich crop production. 
 * Expand opportunities for sustainable, locally driven livelihoods. 
+* Expand access to financial services to diversify livelihoods and protect productive assets. 
