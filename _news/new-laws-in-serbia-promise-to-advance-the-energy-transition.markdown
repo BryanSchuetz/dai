@@ -3,6 +3,7 @@ title: New Laws in Serbia Promise to Advance the Energy Transition
 date: 2021-10-05 15:00:00 Z
 tags:
 - European Union
+is_featured: true
 solutions:
 - Energy
 - Environment
@@ -20,9 +21,11 @@ country: Serbia
 
 Serbia is among the European countries with the highest energy intensity, largely dependent on fossil fuels, especially coal. Its development targets, however, call on the country to put its energy sector on a more sustainable footing by improving energy efficiency and increasing the use of renewable energy sources. 
 
-In support of these efforts, DAI is implementing [Technical Assistance for Energy Efficiency and Renewable Energy Sources](https://www.dai.com/our-work/projects/Serbia-Technical-Assistance-for-Energy-Efficiency-and-Renewable-Energy-Sources), a European Union project that contributes to the security of energy supply, a more competitive energy market, and sustainable energy development in Serbia.
-
 ![Windmills](/uploads/karsten-wurth-karsten-wuerth-wIYDNL0M_p4-unsplash.jpg)
+
+<!--more-->
+
+In support of these efforts, DAI is implementing [Technical Assistance for Energy Efficiency and Renewable Energy Sources](https://www.dai.com/our-work/projects/Serbia-Technical-Assistance-for-Energy-Efficiency-and-Renewable-Energy-Sources), a European Union project that contributes to the security of energy supply, a more competitive energy market, and sustainable energy development in Serbia.
 
 A major achievement of the project is the adoption by the National Assembly of the Republic of Serbia of a Law on the Use of Renewable Energy Sources (RES Law). (A second major piece of legislation, the Law for Energy Efficiency and Rational Use of Energy, is currently in the drafting process with the Ministry in charge of energy and relevant public entities.)
 
