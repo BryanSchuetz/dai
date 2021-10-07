@@ -8,9 +8,9 @@ start: 2021
 end: 2026
 client: U.S. Agency for International Development
 solutions:
-- Economic Growth
+- Education
 - Workforce Development and Youth
-- Fragile States
+- Economic Growth
 regions: Latin America and the Caribbean
 country: Honduras
 ---
