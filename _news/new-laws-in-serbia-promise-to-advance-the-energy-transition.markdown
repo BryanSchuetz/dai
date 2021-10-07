@@ -15,7 +15,7 @@ summary: DAI is implementing Technical Assistance for Energy Efficiency and Rene
   Energy Sources, a European Union project that contributes to the security of energy
   supply, a more competitive energy market, and sustainable energy development in
   Serbia.
-social-image: "/uploads/SM%20national%20assembly%202.jpg"
+social-image: "/uploads/karsten-wurth-karsten-wuerth-wIYDNL0M_p4-unsplash.jpg"
 country: Serbia
 ---
 
