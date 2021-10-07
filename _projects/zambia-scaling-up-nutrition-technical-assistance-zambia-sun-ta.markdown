@@ -43,4 +43,5 @@ Zambia SUN TA will layer interventions in nutrition, health, agriculture, and wa
 * Conducted one of the first virtual site visits, using Google Meets, during the COVID-19 pandemic. 
 * Trained 588 lead farmers—who established 288 community gardens—to improve the production of nutritious vegetables and legumes.
 * Trained 407 health facility staff and 1,490 community-based volunteers on forming and managing nutrition-focused mother support groups. 
-* Trained 379 government staff and volunteers to roll out WASH activities in communities, including the formation of Sanitation Action Groups and Village WASH Committees.  
+* Trained 379 government staff and volunteers to roll out WASH activities in communities, including the formation of Sanitation Action Groups and Village WASH Committees. 
+* Established 157 New Health Facility Gardens to date.
