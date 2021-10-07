@@ -9,8 +9,8 @@ end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Education
-- Workforce Development and Youth
 - Economic Growth
+- Workforce Development and Youth
 regions: Latin America and the Caribbean
 country: Honduras
 ---
