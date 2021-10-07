@@ -22,5 +22,7 @@ Working in partnership with public and private sector stakeholders, YEMP aims to
  
 By the end of YEMP—with 500,000 young people engaged and 100,000 newly employed—the project will have laid the foundation for an economically empowered generation of Hondurans to forge close ties to their communities and have confidence in a future where they can achieve their goals.
 
+![Unidos_CitizenSecurity-02283.jpg](/uploads/Unidos_CitizenSecurity-02283.jpg)
+
 ### Sample Activities
  
