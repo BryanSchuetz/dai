@@ -124,7 +124,7 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Miguel Baca </h2>
-                            <h3 class="item--title"> Director, Environment and Health </h3>
+                            <h3 class="item--title">Senior Director, Environment and Health </h3>
                             <div class="line"></div>
                             <p> Miguel is DAI's Director of Environment and Health for the Latin America & Caribbean / Global Region. Since 2008, he has served as DAI’s technical leader in all tourism-related initiatives, developing and implementing innovative approaches in rural, community-based, and small enterprise-focused tourism programs. </p>
                         </div>
@@ -192,7 +192,7 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Tamara Stanton </h2>
-                            <h3 class="item--title"> Managing Director </h3>
+                            <h3 class="item--title">Senior Principal Advisor</h3>
                             <div class="line"></div>
                             <p> Since 2000, Tamara has held corporate and project-level roles in new business, recruiting, and project implementation. In all positions she’s held – head of DAI’s U.S. Government Business Development Unit, Innovation and Engagement Advisor on USAID’s Grand Challenges for Development program, and new business manager – Tamara embodies DAI’s values and passion for development. </p>
                         </div>
@@ -207,7 +207,7 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Kieran Griffin </h2>
-                            <h3 class="item--title"> Associate Consultant </h3>
+                            <h3 class="item--title">Senior Consultant</h3>
                             <div class="line"></div>
                             <p> A member of DAI Europe’s Business Development Unit since 2013, Kieran focuses on creating compelling proposals for the U.K. Department for International Development and Foreign and Commonwealth Office work. </p>
                         </div>
@@ -246,7 +246,7 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Tami Fries </h2>
-                            <h3 class="item--title"> Director </h3>
+                            <h3 class="item--title"> Senior Director</h3>
                             <div class="line"></div>
                             <p> Tami specializes in information systems, management training, and participatory approaches to project and program planning. As Director in Information Technology, she manages a team of business analysts and software developers in designing, implementing, and maintaining core business information systems for DAI’s home office and field projects. </p>
                         </div>
@@ -261,9 +261,9 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Keith Smith </h2>
-                            <h3 class="item--title"> Commercial Director </h3>
+                            <h3 class="item--title"> SVP, HMG Business Unit </h3>
                             <div class="line"></div>
-                            <p> In the course of his career at DAI, <br class='visible-lg'>Keith has managed a range of development projects, from infrastructure, agriculture, and health initiatives to grants management, governance, and reintegration of ex-combatants. Keith is currently Commercial Director for DAI Europe. </p>
+                            <p> In the course of his career at DAI, Keith has managed a range of development projects, from infrastructure, agriculture, and health initiatives to grants management, governance, and reintegration of ex-combatants.</p>
                         </div>
                     </div>
                 </div>
@@ -276,9 +276,9 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Cecile Hipos </h2>
-                            <h3 class="item--title"> IT Manager </h3>
+                            <h3 class="item--title">Director, IT</h3>
                             <div class="line"></div>
-                            <p> Since she started working with DAI in <br class='visible-lg'>1994, Cecile has successfully designed, managed, and implemented IT <br class='visible-lg'>systems for donor-funded projects in Africa, Asia, Europe, and North and South America. </p>
+                            <p> Since she started working with DAI in 1994, Cecile has successfully designed, managed, and implemented IT systems for donor-funded projects in Africa, Asia, Europe, and North and South America. </p>
                         </div>
                     </div>
                 </div>
