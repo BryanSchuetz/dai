@@ -1,7 +1,6 @@
 ---
 title: Africa—Trade and Investment (ATI) Activity
 date: 2021-10-07 15:40:00 Z
-published: false
 summary: The Africa Trade and Investment (ATI) Activity is a whole-of-government platform
   to help African and U.S. businesses double two-way trade and investment, thereby
   solidifying Africa’s place as a significant trading partner of the United States.
