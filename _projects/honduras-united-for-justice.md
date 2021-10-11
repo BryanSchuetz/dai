@@ -53,6 +53,7 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
 * Launched training in social auditing for 23 CSOs to detect corruption; 48 CSOs to conduct oversight in security, justice and human rights; and 38 CSOs in crime data analysis and citizen security.  
 * Provided support to human rights defenders to improve reporting and investigation of human rights violations, as well as institutional strengthening to the Public Prosecutor’s office and the Office of the Special Prosecutor for Human Rights to streamline the handling of human rights cases.
 * Provided training on human rights and the private sector to 90 business leaders in key urban centers and worked on the development of a human rights police for businesses.
+* Built and launched an electronic case file system, modernizing the paper-based system of the Judicial Branch.  
  
 **Community Policing:** 
 
