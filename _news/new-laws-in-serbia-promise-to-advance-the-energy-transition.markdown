@@ -8,6 +8,7 @@ solutions:
 - Energy
 - Environment
 - Institutional and Policy Reform
+- Climate
 regions: Eastern Europe and Central Asia
 projects: Serbia—Technical Assistance for Energy Efficiency and Renewable Energy Sources
 clients: European Union
