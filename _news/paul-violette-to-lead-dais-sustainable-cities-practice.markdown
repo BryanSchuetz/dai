@@ -4,6 +4,7 @@ date: 2021-05-18 12:58:00 Z
 solutions:
 - Environment
 - Water and Sanitation Services and Management
+- Climate
 summary: 'DAI is delighted to welcome to the firm [Paul Violette](https://www.dai.com/who-we-are/our-team/paul-violette),
   a global thought leader in the field of environmental sustainability. '
 social-image: "/uploads/Violette_High%20Resolution-dcb598.jpg"
