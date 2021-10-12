@@ -2,6 +2,7 @@
 title: Climate
 date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/climate-videos
+published: false
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#climate"></use></svg>
 summary: We help community, business, and government partners translate climate science
@@ -12,7 +13,6 @@ redirect_from:
 related: false
 hero: true
 layout: solution
-published: false
 ---
 
 # Climate Videos
