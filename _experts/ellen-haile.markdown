@@ -5,7 +5,7 @@ lastname: Haile
 summary: Ellen Haile has a background in Applied Economics and currently supports
   the Sustainable Business Group as an Associate Analyst.
 job-title: Associate Analyst
-image: "/uploads/E.Haile_Photo-ae91e0.jpg"
+image: "/uploads/E.Haile_Photo%20copy.png"
 solutions:
 - Sustainable Business
 ---
