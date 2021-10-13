@@ -7,7 +7,6 @@ icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="x
   meet"><use xlink:href="#climate"></use></svg>
 summary: We help community, business, and government partners translate climate science
   and global climate policy into locally viable and sustainable solutions.
-type: primary
 redirect_from:
 - "/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation"
 related: false
