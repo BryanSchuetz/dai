@@ -11,7 +11,7 @@ solutions:
 
 Ellen Haile has a background in Applied Economics and currently supports the Sustainable Business Group as an Associate Analyst. Prior to joining DAI, Ellen developed economic and statistical models for risk modeling in the banking industry, worked on supply chain management issues, and has experience in qualitative data collection. Ellen also has international experience in Eritrea and Paraguay.
 
-At SBG, Ellen provides technical support on projects and new business initiatives through background research and analysis, inputs for client presentations, and providing coordination and administrative support. 
+Ellen provides technical support on projects and new business initiatives through background research and analysis, inputs for client presentations, and providing coordination and administrative support. 
 
 * Master of Applied Economics, The Ohio State University 
 * B.A., Political Science and Communication Studies, Ohio University 
