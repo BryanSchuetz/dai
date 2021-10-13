@@ -29,10 +29,10 @@ DAI [was awarded](/news/dai-wins-place-on-us-governments-oasis-contract) an unre
 * 301-771-7600
 * [Natawnee_fritz@dai.com](mailto:Natawnee_fritz@dai.com)
 
-* **Kevin Kelly**
+* **Zach Arney**
 * OASIS Contract Manager
 * 301-771-7600
-* [kevin_kelly@dai.com](mailto:kevin_kelly@dai.com)
+* [zach_arney@dai.com](mailto:zach_arney@dai.com)
 * [OASISContracts@dai.com](mailto:OASISContracts@dai.com)
 
 * [OASIS Conformed Contract](/uploads/oasis-contract.pdf)
