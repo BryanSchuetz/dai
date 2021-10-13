@@ -14,7 +14,7 @@ hero: true
 layout: solution
 ---
 
-Climate Change presents a complex problem, but one that we know how to solve - we need to reduce emissions of greenhouse gases, while supporting vulnerable communities to adapt to a changing climate. There is no single solution, no silver bullet, but a need to innovate and scale, bringing together experts from multiple disciplines to develop appropriate responses.
+Climate Change presents a complex problem, but one that we know how to solve—we need to reduce emissions of greenhouse gases, while supporting vulnerable communities to adapt to a changing climate. There is no single solution, no silver bullet, but a need to innovate and scale, bringing together experts from multiple disciplines to develop appropriate responses.
 
 <aside class="brief-aside">
   <img class="float-left" src="/uploads/cop26.jpg" alt="" style="display: block; padding: 10px; background-color: white;">
@@ -26,7 +26,7 @@ We need to continue to adapt as we move forward, adopting new technologies and f
 
 {% include climate-carousel.html %}
 
-We work with governments, communities, and the private sector to develop programs and strategies that will improve resilience to climate impacts and provide low-carbon pathways to inclusive economic development. In doing so, we ensure that essential natural resources - freshwater, forests, soil - are managed to protect biodiversity while sustaining the livelihoods that depend on them.
+We work with governments, communities, and the private sector to develop programs and strategies that will improve resilience to climate impacts and provide low-carbon pathways to inclusive economic development. In doing so, we ensure that essential natural resources—freshwater, forests, soil—are managed to protect biodiversity while sustaining the livelihoods that depend on them.
 
 Our teams support the delivery of a range of interventions, including:
 
