@@ -32,6 +32,6 @@ layout: solution
 <hr />
 
 <iframe style="margin-bottom: 3px;" src="https://player.vimeo.com/video/630229305?h=31c4861e79&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Film 4 - Climate Finance and Biodiversity Livelihoods and Biodiversity Biodiversity  2.4.m4v"></iframe>
-`Climate Finance and Biodiversity Livelihoods and Biodiversity Biodiversity`
+`Climate Finance and Biodiversity`
 
 <hr />
