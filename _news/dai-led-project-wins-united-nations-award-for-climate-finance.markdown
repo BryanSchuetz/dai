@@ -8,9 +8,9 @@ clients: World Bank
 country: Palestine
 ---
 
-Two investment projects of the World Bank-funded Finance for Jobs (F4J) program in Palestine have won an award from the United Nations Framework Convention on Climate Change Secretariat (UN Climate Change) in the category, “Financing for Climate Friendly Investment.” 
+Two investment projects of the World Bank-funded [Finance for Jobs (F4J)](https://www.dai.com/our-work/projects/palestine-finance-for-jobs-f4j) program in Palestine have [won an award](https://unfccc.int/news/un-global-climate-action-awards-winners-unveiled-today) from the United Nations Framework Convention on Climate Change Secretariat (UN Climate Change) in the category, “Financing for Climate Friendly Investment.” 
 
-The F4J activities—a solar-powered industrial park in Gaza and 500 solar-powered public schools—were praised for their “innovative financing structure, [which includes] blended concessional finance, to help de-risk the projects.”
+The F4J activities—a solar-powered [industrial park](https://www.worldbank.org/en/about/partners/brief/west-bank-and-gaza-securing-energy-for-growth-and-development) in Gaza and 500 solar-powered [public schools](https://www.dai.com/news/world-bank-project-funds-climate-friendly-solar-powered-schools-in-palestine)—were praised for their “innovative financing structure, [which includes] blended concessional finance, to help de-risk the projects.”
 
 “The F4J project demonstrates that climate finance can result in real environmental benefits while creating jobs and promoting resilient communities,” said Jette Findsen, DAI’s Vice President, Environment. “DAI is excited to partner with the World Bank and Ministry of Finance and Planning in West Bank and Gaza on this important effort to address electricity shortages and support the transition toward a low-carbon future in Gaza.”
 
