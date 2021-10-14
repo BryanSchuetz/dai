@@ -851,10 +851,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Myanmar",
-        "description": "- <a   href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/myanmar-dana-facility\">DaNa Facility</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/burma-responsible-investment-and-trade-activity-rita\">RITA</a> (USAID)",
+        "description": "- <a   href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/burma-responsible-investment-and-trade-activity-rita\">RITA</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
