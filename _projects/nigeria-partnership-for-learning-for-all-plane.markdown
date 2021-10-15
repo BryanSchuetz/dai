@@ -20,7 +20,7 @@ PLANE focuses on improving basic education and tackling fundamental system const
  
 In partnership with our key subcontractor FHI360, PLANE operates across Kano, Kaduna, Jigawa, the South East and South West regions, and in the federal capital territory to improve regulation and accountability of both the state and non-state sector, fostering better collaboration and connectivity and promoting successful models that contribute to innovation. 
 
-![WhatsApp Image 2019-07-30 at 8.45.51 AM.jpeg](/uploads/WhatsApp%20Image%202019-07-30%20at%208.45.51%20AM.jpeg)
+![plane.jpg](/uploads/plane.jpg)
 
 ### Sample Activites
 
