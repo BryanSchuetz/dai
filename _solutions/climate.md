@@ -20,6 +20,7 @@ Climate Change presents a complex problem, but one that we know how to solve—w
   <img class="float-left" src="/uploads/cop26.jpg" alt="" style="display: block; padding: 10px; background-color: white;">
   <h3>DAI & COP26</h3>
   <p>Find out more about DAI's climate related work below.</p>
+  <p><strong>Check out our latest <a href="/our-work/solutions/climate-videos">climate related films</a>.</strong></p>
 </aside>
 
 We need to continue to adapt as we move forward, adopting new technologies and fresh approaches to continue to make progress at speed. DAI is uniquely well placed for this challenge. Working globally, with expertise and networks that span across development, we can bring together the best minds to deliver appropriate solutions at local, national, and international scale.
