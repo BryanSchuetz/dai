@@ -1,7 +1,7 @@
 ---
 title: Liberia—Accountability and Voice Initiative (LAVI)
 date: 2016-01-21 22:40:00 Z
-summary: The Liberia Accountability and Voice Initiative is improving the citizen-state
+summary: The Liberia Accountability and Voice Initiative improved the citizen-state
   relationship in Liberia by supporting coalitions and advocacy campaigns that promote
   public sector accountability.
 start: 2015
@@ -24,9 +24,9 @@ promos:
 layout: project
 ---
 
-The Liberia Accountability and Voice Initiative (LAVI) is improving the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability. LAVI brings together diverse stakeholders to form coalitions around themes that include improving natural resource management (NRM) and enhancing the education system. 
+The Liberia Accountability and Voice Initiative (LAVI) improved the citizen-state relationship in Liberia by supporting coalitions and advocacy campaigns that promote public sector accountability. LAVI brought together diverse stakeholders to form coalitions around themes that include improving natural resource management (NRM) and enhancing the education system. 
 
-The project also works with partners from civil society, the private sector, and government to conduct advocacy activities to reform laws, policies, and government programs. To support sustainability in the work of its partners, LAVI builds the capacity of coalitions in research, fundraising, outcome monitoring, and communication. 
+The project also worked with partners from civil society, the private sector, and government to conduct advocacy activities to reform laws, policies, and government programs. To support sustainability in the work of its partners, LAVI built the capacity of coalitions in research, fundraising, outcome monitoring, and communication. 
 
 ![][1]
 
