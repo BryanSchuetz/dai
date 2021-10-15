@@ -18,7 +18,7 @@ regions: Sub-Saharan Africa
 country: South Sudan
 ---
 
-South Sudan’s rural areas are generally remote, with poor infrastructure, limited health and education services, weak institutions and human capacity, and a nascent private sector. Largely outside the formal economy, livelihoods are resource-based and often insufficient to enable households to sustain and recover reoccurring shocks and stresses and break out of poverty. Extended periods of intense conflict for more than 40 years have weakened social cohesion, eroded trust within and between communities, and resulted in significant levels of trauma and gender-based violence. 
+South Sudan’s rural areas have poor infrastructure, limited health and education services, weak institutions and human capacity, and a nascent private sector. Largely outside the formal economy, livelihoods are resource-based and often insufficient to enable households to sustain and recover reoccurring shocks and stresses and break out of poverty. Extended periods of intense conflict for more than 40 years have weakened social cohesion, eroded trust within and between communities, and resulted in significant levels of trauma and gender-based violence. 
 
 The Resilience through Agriculture in South Sudan (RASS) Activity has been designed to improve food security and community household recovery and resilience in 13 target counties in South Sudan, reducing their long-term reliance on humanitarian assistance.
  
@@ -30,7 +30,7 @@ RASS strengthens capacities to sustain gender-responsive, diversified, and marke
   
 ### Sample Activities
 
-* Provide grants to local institutions, including producer groups, women and youth associations, and micro, small, and medium-sized enterprise to build their capacity, as well as pilot market-sensitive approaches to increasing production; support the inclusion of women and youth in seizing economic opportunities; promote gender equality through co-responsible masculinities, and improve household nutrition and livelihood outcomes. 
+* Provide grants to local institutions, including producer groups, women and youth associations, and micro, small, and medium-sized enterprise to build their capacity.
 * Promote forage and animal feed production.
 * Improve linkage between farmers and input suppliers. 
 * Promote diversified and nutrient-rich crop production. 
