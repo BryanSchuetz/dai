@@ -11,6 +11,8 @@ client: European Bank for Reconstruction and Development
 solutions:
 - Environment
 - Energy
+- Climate
+- Finance and Investment
 regions: Middle East and North Africa
 country: Tunisia
 ---

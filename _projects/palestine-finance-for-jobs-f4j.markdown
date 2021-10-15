@@ -14,6 +14,8 @@ solutions:
 regions: Middle East and North Africa
 country: Palestine
 promos:
+- title: DAI-Led Project Wins United Nations Award for Climate Finance
+  link: https://www.dai.com/news/dai-led-project-wins-united-nations-award-for-climate-finance
 - title: Palestinians Benefitting from Jobs and Training Despite COVID-19 Thanks to
     Innovative Development Impact Bond
   link: https://www.worldbank.org/en/news/feature/2021/09/08/palestinians-benefitting-from-jobs-and-training-despite-covid-19

@@ -7,8 +7,9 @@ start: 2018
 end: 2022
 client: European Bank for Reconstruction and Development
 solutions:
-- Energy
+- Climate
 - Environment
+- Energy
 regions: Middle East and North Africa
 country: Morocco
 ---
