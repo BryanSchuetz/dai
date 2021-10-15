@@ -11,6 +11,10 @@ solutions:
 - Natural Resource Management
 regions:
 - Worldwide
+articles:
+- name: The Crucial Role of Social Protection Systems in Building Resilience to Climate
+    Risks
+  article_file: https://dai-global-developments.com/articles/the-crucial-role-of-social-protection-systems-in-building-resilience-to-climate-risks
 ---
 
 Zac Bull is a Senior Consultant in climate and natural resource management, based in DAI’s U.K. office. Zac joined DAI in 2021 and works across our portfolio of resilience programmes. He brings experience working in multilateral governance, international policy, and national systems on climate change, focusing on climate finance, adaptation, and capacity building.

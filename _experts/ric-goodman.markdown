@@ -14,6 +14,10 @@ solutions:
 - Economic Growth
 regions:
 - Sub-Saharan Africa
+articles:
+- name: The Crucial Role of Social Protection Systems in Building Resilience to Climate
+    Risks
+  article_file: https://dai-global-developments.com/articles/the-crucial-role-of-social-protection-systems-in-building-resilience-to-climate-risks
 ---
 
 Ric Goodman's focus is on solutions to extreme poverty and vulnerability, often in hard to reach areas. He completed a master's degree in protected area management at the University of Wales, focussing on social and economic development in the high mountain areas of the Himalaya and Andes. He broadened his work to provide goods and services to populations in remote areas, often in fragile ecosystems and environments, where people's livelihoods are inherently fragile.
