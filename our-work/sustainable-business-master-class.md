@@ -46,7 +46,7 @@ Upon completion, participants receive a certificate. DAI is a BAC-accredited sho
 
 {% include _our-work/sbg-carousel.html %}
 
-<aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="https://www.dai.com//uploads/DAI_E-Training%20Catalogue2021-4af714.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
+<aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="https://www.dai.com//uploads/Masterclass%20hybrid%20brochure%20_Dec2021%20.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
 
 ## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
 
