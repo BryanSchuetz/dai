@@ -40,9 +40,10 @@ completed across 150 countries to advance participants’ skills.
 
 {% include _our-work/sbg-carousel.html %}
 
-The three-day course is available online and in-person. 
-December 7 - 9, 2021 in Muscat, Oman.
-The price for the course is USD 3,510. Upon completion, you will receive a certificate. DAI is a BAC-accredited short-course provider.
+Join us for the three-day course either in-person in Muscat or virtually
+Date: **December 7 - 9, 2021 in Muscat, Oman.**
+Time: **09h00 – 17h00 GST, 05h00 - 13h00 GMT, 07h00 - 15h00 CAT**
+Cost: **USD 3,770 / 3,510** (in-person / virtual). Upon completion, participants receive a certificate. DAI is a BAC-accredited short-course provider.
 
 <aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="https://www.dai.com//uploads/DAI_E-Training%20Catalogue2021-4af714.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
 
