@@ -1,6 +1,7 @@
 ---
 title: Daxa Patel
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Patel
 summary: Daxa Patel has 18 years of multi-country, multimillion-pound project delivery
   experience. Daxa has built and led large multicultural teams in Africa, Asia, Europe,
