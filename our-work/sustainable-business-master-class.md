@@ -23,7 +23,7 @@ Join our three-day course in December either in-person in Muscat or virtually.
 
 Date: **December 7 - 9, 2021 in Muscat, Oman.**\
 Time: **09h00 – 17h00 GST, 05h00 - 13h00 GMT, 07h00 - 15h00 CAT**\
-Cost: **USD 3,770 / 3,510** (in-person / virtual). 
+Cost: **USD 3,770 / 3,510** (in-person / virtual)
 
 Upon completion, participants receive a certificate. DAI is a BAC-accredited short-course provider.
 
