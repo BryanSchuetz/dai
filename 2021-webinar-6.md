@@ -1,5 +1,5 @@
 ---
-title: Integrated Approaches to Development Finance for Building Back Better  
+title: Integrated Approaches to Development Finance for Building Back Better
 permalink: "/2021-webinar-6"
 layout: default
 ---
