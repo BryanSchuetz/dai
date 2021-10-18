@@ -21,7 +21,7 @@ completed across 150 countries to advance participants’ skills.
 
 Join our three-day course in December either in-person in Muscat or virtually.
 
-Date: **December 7 - 9, 2021 in Muscat, Oman**\
+Date: **December 7 - 9, 2021 in Muscat, Oman**
 Time: **09h00 – 17h00 GST, 05h00 - 13h00 GMT, 07h00 - 15h00 CAT**
 Cost: **USD 3,770 / 3,510** (in-person / virtual)
 
