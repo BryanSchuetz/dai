@@ -212,15 +212,6 @@ DAI leads customized courses upon request for private sector or government clien
 * Designs and implements local content stakeholder engagement strategies across DAI’s portfolio
 * Extractive Industry Lead for U.S. Agency for International Development-funded private sector development and competitiveness program in Mozambique
 
-**Dr. Michael Warner—Senior Advisor, Local Content Performance and Reporting**
-
-![Michael Warner Photo](/uploads/warner.jpg){:.float-right}
-
-* One of the world’s leading authorities on local content in the context of the oil and gas, mining, and infrastructure sectors
-* Founder and lead trainer of the BAC-accredited Local Content Master Class, where he trained more than 400 professionals in local content
-* Former Managing Director of Local Content Solutions Ltd., an advisory and training company acquired by DAI in 2017
-* Media appearances to discuss business and international development on BBC *Newsnight*, BBC Radio 4, BBC World Service, and CNBC, and has authored articles in *Newsweek* and *The Guardian*
-* Author of multiple books and papers on local content, including *[Local Content in Procurement](https://www.amazon.com/Local-Content-Procurement-Competitive-Industries/dp/1906093644)*, published by Greenleaf Publishing in 2012
 
 **Zaki Raheem—Senior Specialist, Sustainable Business Group**
 
