@@ -35,7 +35,7 @@ Contact [training@dai.com](mailto:training@dai.com) for pricing and registration
  
 Upcoming Sessions:
 
-* Date and Time: October 11 - 14, 2021 11h00 - 16h00 BST (14h00 - 19h00 GST, 06h00 - 11h00 EDT)
+* Date and Time: December 7 - 9, 2021. 9am – 5pm GST
 * **Module 1:** Local Content Strategy and Policy Training.
 * **Module 2:** Local Content  Forecasting, Plans, and Procurement Tactics. 
 * **Module 3:** Local Content Reporting, Impact Measurement, and Communications.
