@@ -16,8 +16,8 @@ regions:
 country:
 - Nigeria
 promos:
-- title: 'It’s Getting Easier to Do Business in Nigeria: How DFID’s Award-Winning
-    Policy Development Facility Supported Reform'
+- title: 'It’s Getting Easier to Do Business in Nigeria: How the Award-Winning Policy
+    Development Facility Supported Reform'
   link: https://dai-global-developments.com/articles/its-getting-easier-to-do-business-in-nigeria-how-dfids-award-winning-policy-development-facility-supported-reform
 - title: "**Stories of Change**:  Green Bonds"
   link: https://www.pdfnigeria.org/rc/nigeria-sovereign-green-bonds-for-climate-action/
