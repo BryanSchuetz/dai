@@ -22,6 +22,10 @@ regions:
 - Latin America and the Caribbean
 country:
 - Honduras
+promos:
+- title: Modernized Honduran Judicial System Promises Lower Costs, Increased Efficiency,
+    Safer Communities, and Greater Transparency
+  link: https://dai-global-developments.com/articles/modernized-honduran-judicial-system-promises-lower-costs-increased-efficiency-safer-communities-and-greater-transparency
 layout: project
 ---
 
