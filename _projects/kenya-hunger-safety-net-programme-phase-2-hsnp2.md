@@ -26,18 +26,18 @@ The goal of [HSNP2](http://www.hsnp.or.ke/) was to continue to reduce poverty, h
 
 Through HSNP, more than 600,000 of Kenya’s most vulnerable people had access to cash transfers on a regular basis and up to 2.1 million people were reached with emergency cash transfers in times of drought or flood. 
 
-<iframe src="https://player.vimeo.com/video/624481140?h=91195f7fa6" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/207471099?h=ff9ba990b1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Sample Activities
 
 * Build capacity and sustainability of local partners.
-* Implement framework for emergency scale up.
+* Implement framework for emergency scale-up.
 * Agree with stakeholders to recertification process for cash transfers
 
 ### Select Results
 
-* Activated the [HSNP Dashboard](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe?utm_source=daidotcom), allowing real time data about cash transfers and the process to be transferred online to and from field-level staff, improving service.
+* Activated the [HSNP Dashboard](http://dai-global-developments.com/articles/strengthening-kenyas-hunger-safety-net-through-better-data-transfe?utm_source=daidotcom), allowing real-time data about cash transfers and the process to be transferred online to and from field-level staff, improving service.
 * Reached 69,000 households in four northern counties with a cash transfer payment every two months in the first phase of HSNP in Kenya—from 2009 to 2012.
-* Transitioned HSNP2 to be a Government of Kenya flagship programme. It expanded to register 374,000 households (more than 2.1 million people) across four most arid and vulnerable counties.
+* Transitioned HSNP2 to be a Government of Kenya flagship programme. It expanded to register 374,000 households (more than 2.1 million people) across the four most arid and vulnerable counties.
 * Close to 100,000 households are paid a regular transfer. HSNP has paid transfers to nearly 90,000 households from an early stage of the current extreme drought cycle, helping avoid damaging impact and losses occurring.
-* Held up as a [case study](https://europa.eu/capacity4dev/articles/ground-long-road-social-protection-somalia) in “shock-responsive social protection,” contributing to evidence of cost effectiveness of investments in resilience and planned intervention at early stage of a disaster compared to costly reactive “emergency” responses.
+* Held up as a [case study](https://europa.eu/capacity4dev/articles/ground-long-road-social-protection-somalia) in “shock-responsive social protection,” contributing to evidence of cost-effectiveness of investments in resilience and planned intervention at early stage of a disaster compared to costly reactive “emergency” responses.
