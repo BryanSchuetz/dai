@@ -19,4 +19,4 @@ As Director of MozUp, Barbara leads the overall strategy and implementation of a
 
 Before joining DAI, Barbara held several management roles on various workforce, SME, community and local governance development projects driven by both private and public sector partners. Most recently, Barbara served as part of the Senior Management Team on the USAID-funded Community Engagement Project in Jordan, where she worked with community members across the country to mitigate threats to their social and economic well-being. She also managed workforce and small and medium enterprise development efforts for private sector partners including the Caterpillar Foundation’s Middle East and North Africa Youth Empowerment Strategy, and John Deere’s vocational training and community development programs in India and Brazil respectively.
  
-*B.Sc., Commerce, University of Virginia McIntire School of Commerce
+* B.Sc., Commerce, University of Virginia McIntire School of Commerce
