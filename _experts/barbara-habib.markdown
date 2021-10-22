@@ -1,7 +1,6 @@
 ---
 title: Barbara Habib
 date: 2020-01-09 21:55:00 Z
-published: false
 lastname: Habib
 summary: 'Barbara Habib is a Senior Manager for DAI''s Sustainable Business Group
   and Project Director for its Enterprise Development Center in Mozambique. She is
