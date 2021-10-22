@@ -39,4 +39,8 @@ Our teams support the delivery of a range of interventions, including:
 * Embedding climate resilience strategies within critical sectors, including agriculture, health, infrastructure, and governance
 * Supporting access to clean and renewable energy and improving energy efficiency.
 
-<iframe src="https://player.vimeo.com/video/214065469" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<hr>
+
+## COP26 Working across the climate change spectrum 2021
+
+<iframe src="https://player.vimeo.com/video/637605292?h=7fd0deb988&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="COP26 Working across the climate change spectrum 2021"></iframe>

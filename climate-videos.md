@@ -19,6 +19,17 @@ layout: solution
   <div class="columns">
     <div class="column">
       <div class="modal-link">
+        <img src="/uploads/spectrum-video-thumbnail.jpg" alt="climate video" class=" modal-button" data-target="modal1" style="cursor: pointer;">
+        <p><strong>COP26 Working across the climate change spectrum 2021</strong></p>
+      </div>
+      <div id="modal1" class="modal">
+        <div class="modal-background"></div>
+          <div class="modal-content" style="width: 800px;">
+            <iframe src="https://player.vimeo.com/video/637605292?h=7fd0deb988&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="COP26 Working across the climate change spectrum 2021"></iframe>
+          </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+      </div>
+      <div class="modal-link">
         <img src="/uploads/climate-video-1.jpg" alt="climate video" class=" modal-button" data-target="modal1" style="cursor: pointer;">
         <p><strong>Climate and Biodiversity</strong></p>
       </div>
