@@ -12,6 +12,10 @@ solutions:
 - Trade
 regions: Sub-Saharan Africa
 country: Sub-Saharan Africa, North Africa
+promos:
+- title: 'USAID Delivers on Prosper Africa Goals with Africa Trade and Investment
+    Program '
+  link: https://www.usaid.gov/news-information/press-releases/oct-21-2021-usaid-delivers-prosper-africa-goals-africa-trade-and-investment
 ---
 
 The Africa Trade and Investment (ATI) program is a five-year, flexible buy-in mechanism managed by the U.S. Agency for International Development (USAID)’s Bureau for Africa. USAID’s flagship effort under the [Prosper Africa](https://www.prosperafrica.gov/) initiative, ATI will boost trade, increase investment, and support healthy business climates across the African continent. ATI works with USAID missions, bureaus, and independent offices to mobilize enterprise-driven solutions and achieve development outcomes across North and sub-Saharan Africa.  
