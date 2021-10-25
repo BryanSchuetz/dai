@@ -31,7 +31,7 @@ Nine years after the first pilot payment, ESP has officially reached all eligibl
 
 ### Select Results
 
-* Successful roll-out of senior citizens grants to all over 80s in all districts of Uganda, as of June 2021.
-* Procurement and delivery of motorbikes and IT equipment to all districts in the country.
+* Rolled out senior citizen grants to all people over the age of 80 in all districts.
+* Procured and delivered motorbikes and IT equipment to all districts in the country.
 * Continued payments throughout the coronavirus pandemic, under COVID-19 standard operating procedures.
-* Draft National Policy on Disability submitted to Cabinet.
+* Submitted draft National Policy on Disability to Cabinet.
