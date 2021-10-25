@@ -15,7 +15,7 @@ We envision a world in which communities and societies become more prosperous, f
  <div class="bulma">
    <div class="container columns">
      <div class="column">
-       <div class="card">
+       <div class="card bm--card-equal-height">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2020-cop-preview.jpg" alt="Placeholder image">
@@ -29,7 +29,7 @@ We envision a world in which communities and societies become more prosperous, f
              </div>
            </div>
            <div class="content">
-             <p>“The livable world at the heart of DAI’s mission is, inconceivable in the absence of a habitable planet,” Boomgard continues. “Even as we come together to fight the most lethal pandemic in a century, responsible companies must increasingly turn their attention to a pervasive threat that will remain the world’s biggest challenge long after COVID-19 has become a manageable disease: that threat is climate change.”</p>
+             <p>“The livable world at the heart of DAI’s mission is, inconceivable in the absence of a habitable planet,” writes DAI President and CEO Jim Boomgard in his introduction. “Even as we fight the most lethal pandemic in a century, responsible companies must increasingly turn their attention to a pervasive threat that will remain the world’s biggest challenge long after COVID-19 has become a manageable disease: that threat is climate change.”</p>
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
@@ -38,7 +38,7 @@ We envision a world in which communities and societies become more prosperous, f
        </div>
      </div>
      <div class="column">
-       <div class="card">
+       <div class="card bm--card-equal-height">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2019-cop-preview.jpg" alt="Placeholder image">
@@ -61,11 +61,33 @@ We envision a world in which communities and societies become more prosperous, f
        </div>
      </div>
    </div>
+   <div class="container columns">
+     <div class="column is-half">
+       <div class="card bm--card-equal-height">
+         <div class="card-image">
+           <figure class="image is-3by2">
+             <img src="/uploads/2018-cop-thumbnail.jpg" alt="Placeholder image">
+           </figure>
+         </div>
+         <div class="card-content">
+           <div class="media">
+             <div class="media-content">
+               <p class="title is-4">Communication on Progress</p>
+               <p class="subtitle is-6">2018</p>
+             </div>
+           </div>
+           <div class="content">
+             <p>“As we look forward to 2019 and to our fiftieth year of operations in 2020, we are challenging ourselves to deliver greater and greater value to our partners around the world, and we find ourselves working in exciting new ways,” wrote DAI President and CEO Jim Boomgard in his introduction. “In all of these endeavors, we remain committed to shaping a more livable world in the spirit of the UN Global Compact and its underlying principles.”</p>
+           </div>
+         </div>
+         <footer class="card-footer pt-0" style="padding-top: 0;" >
+           <a href="https://preview-dai.com/uploads/DAI%20Global%20UNGC%20COP%20Final.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+         </footer>
+       </div>
+       <div class="column"></div>
+     </div>
+   </div>
   </div>
- 
- With regard to COVID-19, our first priority was ensuring the safety of our employees and supporting public health measures. Like many organizations, we curtailed travel and in-person interaction, enhanced our digital capabilities, and found creative ways to work remotely-even on projects in the field. 
- 
- This year—DAI’s 50th anniversary—turned out to be perhaps the most extraordinary year in our half century of operation, thanks largely to the COVID-19 pandemic but also to an energized movement for racial and social justice that has particular salience for any organization committed to human welfare and global citizenship. In the wake of the George Floyd killing, we announced a companywide commitment to weave anti-racism into the fabric of our corporate culture, and pledged to devote at least $1 million to this effort.
  
  
  
