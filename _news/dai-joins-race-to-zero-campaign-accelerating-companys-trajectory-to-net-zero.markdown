@@ -4,6 +4,10 @@ date: 2021-10-28 07:45:00 Z
 published: false
 tags:
 - climate
+solutions:
+- Climate Change Adaptation and Mitigation
+- Climate
+- Environment
 summary: 'In March, DAI signed up to the Science Based Targets Initiative (SBTi) as
   part of a company-wide effort to reduce corporate greenhouse gas emissions and curb
   climate impact—all with an eye to supporting the global commitment agreed in Paris
