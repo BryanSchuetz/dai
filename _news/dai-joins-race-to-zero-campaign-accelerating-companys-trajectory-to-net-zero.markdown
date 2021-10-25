@@ -20,6 +20,8 @@ Our pledge in March committed DAI to emissions reduction targets that, if adopte
 
 “The IPCC’s Sixth Assessment Report this summer signalled code red when it comes to climate change,” said [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), Global Director of DAI’s [Climate Business](https://www.dai.com/our-work/solutions/climate). “It underscored the need for faster and more ambitious decarbonisation plans.”
 
+![1.5C_Campaign_Logo_-_no_our_only_future_RGB-01.png](/uploads/1.5C_Campaign_Logo_-_no_our_only_future_RGB-01.png)
+
 [Race To Zero](https://unfccc.int/climate-action/race-to-zero-campaign#eq-2) is a global initiative that brings together businesses, cities, regions, and investors to support what the campaign calls “a healthy, resilient, zero carbon recovery that prevents future threats, creates decent jobs, and unlocks inclusive, sustainable growth.” Currently, the campaign represents 733 cities, 31 regions, more than 3,000 businesses, and 173 large investors—all committed to achieving net zero by 2050.
 
 Specifically, DAI has signed the campaign’s[ Business Ambition for 1.5](https://sciencebasedtargets.org/business-ambition-for-1-5c/) Letter, which commits signatories to a net-zero target of emissions cuts in line with a 1.5°C future.
