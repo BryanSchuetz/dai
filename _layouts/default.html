@@ -2,7 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   {% include iehacks.html %}
   {% include head.html %}
-  <body class="{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate' or page.title == 'DAI in Pakistan' or page.title == 'Sustainable Business' -%} newpromo{%- endif -%}" >
+  
+  <body class="{% if page.ultrawide == true %}newpromo {% endif %}{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate' or page.title == 'DAI in Pakistan' or page.title == 'Sustainable Business' -%} newpromo{%- endif -%}" >
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}
