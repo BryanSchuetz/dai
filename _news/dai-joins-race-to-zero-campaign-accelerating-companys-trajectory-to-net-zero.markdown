@@ -12,6 +12,7 @@ summary: 'In March, DAI signed up to the Science Based Targets Initiative (SBTi)
   part of a company-wide effort to reduce corporate greenhouse gas emissions and curb
   climate impact—all with an eye to supporting the global commitment agreed in Paris
   to reach Net Zero by 2050. '
+social-image: "/uploads/SBT_(1).png"
 ---
 
 In March, DAI[ signed up](https://www.dai.com/news/dai-commits-to-science-based-targets-initiative-to-reduce-greenhouse-gas-emissions) to the Science Based Targets Initiative (SBTi) as part of a company-wide effort to reduce corporate greenhouse gas emissions and curb climate impact—all with an eye to supporting the global commitment agreed in Paris to reach [Net Zero](https://sciencebasedtargets.org/net-zero) by 2050. 
