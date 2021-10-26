@@ -19,7 +19,7 @@ In March, DAI [signed up](https://www.dai.com/news/dai-commits-to-science-based-
 
 Our pledge in March committed DAI to emissions reduction targets that, if adopted by industry around the world, would correspond to stabilizing global temperatures at around 2°C above pre-industrial levels. But DAI has now signed on to the Race to Zero campaign, which increases our ambition and calls on the company to achieve a 50 percent reduction [across all three scopes](https://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Diagram%20of%20scopes%20and%20emissions%20across%20the%20value%20chain.pdf) in its emissions by 2030.
 
-“The IPCC’s Sixth Assessment Report this summer signalled code red when it comes to climate change,” said [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), Global Director of DAI’s [Climate Business](https://www.dai.com/our-work/solutions/climate). “It underscored the need for faster and more ambitious decarbonisation plans.”
+“The Intergovernmental Panel on Climate Change’s Sixth Assessment Report this summer signalled code red when it comes to climate change,” said [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), Global Director of DAI’s [Climate Business](https://www.dai.com/our-work/solutions/climate). “It underscored the need for faster and more ambitious decarbonisation plans.”
 
 ![1.5C_Campaign_Logo01.png](/uploads/1.5C_Campaign_Logo01.png)
 
