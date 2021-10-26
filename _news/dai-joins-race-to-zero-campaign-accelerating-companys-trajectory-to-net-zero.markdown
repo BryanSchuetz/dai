@@ -17,7 +17,7 @@ social-image: "/uploads/SBT_(1).png"
 
 In March, DAI [signed up](https://www.dai.com/news/dai-commits-to-science-based-targets-initiative-to-reduce-greenhouse-gas-emissions) to the Science Based Targets Initiative (SBTi) as part of a company-wide effort to reduce corporate greenhouse gas emissions and curb climate impact—all with an eye to supporting the global commitment agreed in Paris to reach [Net Zero](https://sciencebasedtargets.org/net-zero) by 2050. 
 
-Our pledge in March committed DAI to emissions reduction targets that, if adopted by industry around the world, would correspond to stabilizing global temperatures at around 2°C above pre-industrial levels. But DAI has now signed on to the Race to Zero campaign, which increases our ambition and calls on the company to achieve a 50 percent reduction across all three scopes in its emissions by 2030.
+Our pledge in March committed DAI to emissions reduction targets that, if adopted by industry around the world, would correspond to stabilizing global temperatures at around 2°C above pre-industrial levels. But DAI has now signed on to the Race to Zero campaign, which increases our ambition and calls on the company to achieve a 50 percent reduction [across all three scopes](https://www.ghgprotocol.org/sites/default/files/ghgp/standards_supporting/Diagram%20of%20scopes%20and%20emissions%20across%20the%20value%20chain.pdf) in its emissions by 2030.
 
 “The IPCC’s Sixth Assessment Report this summer signalled code red when it comes to climate change,” said [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), Global Director of DAI’s [Climate Business](https://www.dai.com/our-work/solutions/climate). “It underscored the need for faster and more ambitious decarbonisation plans.”
 
