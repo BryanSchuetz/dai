@@ -12,4 +12,5 @@ Listed below are current solicitations. To view additional information regarding
 
 * [RFP 2021-16 ProICT Colombia](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP%202021-16%20ProICT%20Colombia-FINAL.pdf "11/3")
 * [RFP No. RFP-EGA-21-087 Implementation of Learning Management System](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-EGA-21-087.LMS.01.pdf "10/27")
+* [RFP-EGA-21-087 Requests for clarification](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-EGA-21-087_RFP_MOD_%232_ResponseToBiddersInquiries.00.pdf "11/1")
 * [RFP-EGA-21-087 Answers to Questions](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-EGA-21-087_RFP_MOD%231_ResponseToBiddersInquiries.00.pdf "10/27")
