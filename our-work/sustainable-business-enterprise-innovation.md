@@ -24,7 +24,7 @@ Our programs support start-up incubators, business accelerators, innovation hubs
 ## Global Leaders in Entreprenuership and Innovation
 
 <div class="bulma enterprise-innovation">
-  <div class="columns is-3" style="margin-bottom: 1.75rem;">
+  <div class="columns is-3">
     <div class="column">
       <div class="card bm--card-equal-height">
         <span class="icon">
@@ -72,7 +72,7 @@ Our programs support start-up incubators, business accelerators, innovation hubs
     </div>
   </div>
   <div class="columns">
-    <div class="colum">
+    <div class="column">
       <div class="card">
         <span class="icon">
           <i class="fas fa-users"></i>
