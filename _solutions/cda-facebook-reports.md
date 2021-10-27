@@ -27,7 +27,7 @@ As emerging markets recover and rebound from the immense challenges presented by
           <div class="card">
             <div class="card-image">
               <figure class="image is-4by5">
-                <img src="/uploads/fi-cyber-thumb.jpg" alt="Placeholder image">
+                <img src="/uploads/msme-study-thumb-placeholder.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="card-content">
@@ -56,7 +56,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/lean-hcd-thumb.png" alt="Placeholder image">
+              <img src="/uploads/msme-study-thumb-placeholder.png" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -87,7 +87,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/coffe-cloud-eng.jpg" alt="Placeholder image">
+              <img src="/uploads/msme-study-thumb-placeholder.png" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -116,7 +116,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/cybersecurity-thumb.png" alt="Placeholder image">
+              <img src="/uploads/msme-study-thumb-placeholder.png" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
