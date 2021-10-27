@@ -8,7 +8,6 @@ hero: true
 solutions:
 - Sustainable Business
 layout: solution
-published: false
 ultrawide: true
 icons: true
 ---
