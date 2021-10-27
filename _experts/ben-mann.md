@@ -1,6 +1,7 @@
 ---
 title: Ben Mann
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Mann
 summary: 'Ben Mann is a specialist in monitoring and evaluation, knowledge management,
   and learning, and the systems that support them. '
