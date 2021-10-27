@@ -10,7 +10,7 @@ layout: default
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Tuesday, November 2 from 10:55 CET 14:55 GMT </span>
 </div>
 
-![](/uploads/cop26-event-poster.jpg)
+![](/uploads/cop26-event-1-poster-revised.jpg)
 
 DEVEX is hosting a day of conversations between development finance institutions, aid agencies, finance experts, international NGOs, corporate leaders, and investors about the future of development finance.
 As COP26 goes enters its first week, DAI will be using this opportunity to focus specifically on climate finance. High-income nations have pledged $100 billion annually to help lower-income countries (LICs) reduce emissions and achieve the targets set by the Paris Agreement. As these targets have been missed to date, rapid mobilization of private finance at scale is crucial to bridge the funding gap and help LICs build resilience against the impacts of climate change.
