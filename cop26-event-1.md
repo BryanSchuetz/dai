@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Development Finance: Financing a Post-Pandemic World'
-permalink: "the-future-of-development-finance-in-a-post-pandemic-world-cop26"
+permalink: the-future-of-development-finance-in-a-post-pandemic-world-cop26
 layout: default
 ---
 
