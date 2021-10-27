@@ -26,7 +26,6 @@ hero-package: dai-people
             </div>
             <div class="main-image" style="background-image: url('assets/build/img/people/technical-main.jpg')"></div>
         </div>
-
         <div class="row">
             <div class="people-list">
 

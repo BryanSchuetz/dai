@@ -10,16 +10,13 @@ hero: true
 layout: solution
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium eu sem et commodo. Maecenas eget porta risus, ut dictum justo. Donec vitae elementum neque, a mollis odio. Integer vel lacus lacus. Mauris sed dapibus nibh. Aenean gravida volutpat hendrerit. Nam pulvinar rutrum viverra. Vivamus egestas faucibus eros, quis efficitur quam malesuada vel. Ut commodo dictum euismod. Phasellus pharetra ultricies ligula, eget semper dui tempor non. Nam id diam vitae diam sodales sodales. Aenean et feugiat neque.
+The COVID-19 pandemic has revealed the vital role digital technologies play in enabling businesses, communities, and individuals to connect, function, and thrive. Ensuring that micro, small, and medium enterprises (MSMEs) can access digital tools is particularly crucial in emerging markets, because MSMEs fuel economic growth and spur job creation. According to the [World Bank](https://www.worldbank.org/en/topic/smefinance), MSMEs constitute 90 percent of businesses and more than half of employment globally.
 
-<aside>
-  <h2>Policy Wrapper</h2>
-  <p>Quisque consequat quam diam, ut imperdiet purus euismod non. Cras at quam nec nunc sagittis volutpat. Aenean varius
-  pellentesque leo ut sodales. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed
-  ultricies laoreet tellus, et feugiat dolor mollis a.</p>
-</aside>
+With digital tools, MSMEs enhance their bottom lines by efficiently communicating with customers and suppliers, entering new markets via e-commerce, and accessing digital financial services. In the COVID-19 era, [research](https://www.apec.org/-/media/APEC/Publications/2020/7/Supporting-MSMEs-Digitalization-Amid-COVID-19/220_PSU_Supporting-MSMEs-Digitalization-Amid-COVID-19.pdf) shows, using digital tools to manage transactions and engage customers mitigates some of the economic and logistical challenges faced by MSMEs, positioning them for growth. 
 
-Phasellus vitae sem vel felis mollis imperdiet vitae ut magna. Donec elit dui, sagittis ultrices gravida non, malesuada scelerisque mi. Quisque ultrices lectus in cursus malesuada. Curabitur eu commodo nunc. Mauris a enim eu lacus feugiat efficitur vitae interdum purus. Quisque molestie, risus vel varius varius, neque felis pharetra felis, in posuere mi urna sagittis libero.
+To gain a fuller picture of how MSMEs are using digital tools, DAI’s Center for Digital Acceleration partnered with survey firm Ipsos and Facebook to administer a large-scale, in-person survey in Bangladesh, Columbia, India, Indonesia, Peru, Philippines, Sri Lanka, and Thailand **[between X and X 2021]**. Despite the challenges of the pandemic, our researchers took a face-to-face approach allowing us to compare responses from MSMEs operating  both online and off. The country briefs provide an overview of each country’s digital ecosystem and MSME sector, followed by a summary of findings regarding the impact of digital tool usage on MSMEs and economic growth, highlighting differences in the responses among key segments of the surveyed business population within each country. 
+
+As emerging markets recover and rebound from the immense challenges presented by the COVID-19 pandemic, this research contributes important insights for actors seeking to enhance inclusive economic growth and business resilience. The nuanced findings derived from this study’s use of in-person interviews at scale shed light on crucial opportunities for policymakers to equip MSMEs - including offline MSMEs - with digital pathways to growth in the context of the COVID-19 crisis. This research articulates clear, actionable approaches to promote inclusivity and resilience amongst both online and offline MSMEs, offering a new bank of insights on the increasingly important role of digital tools in economic growth.
 
 <div class="bulma">
   <div class="container">
@@ -39,7 +36,12 @@ Phasellus vitae sem vel felis mollis imperdiet vitae ut magna. Donec elit dui, s
                 </div>
               </div>
               <div class="content">
-                Brief summary of report here Quisque consequat quam diam, ut imperdiet purus euismod non. Cras at quam nec nunc sagittis volutpat. Aenean varius pellentesque leo ut sodales. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                <p>These research findings afford insight into key MSME segments:</p>
+                <ul>
+                  <li>Women-owned MSMEs</li>
+                  <li>MSMEs in urban, suburban, and rural areas</li>
+                  <li>MSMEs working in specific business sectors</li>
+                </ul>
               </div>
             </div>
             <footer class="card-footer pt-0" style="padding-top: 0;" >
@@ -63,7 +65,12 @@ Phasellus vitae sem vel felis mollis imperdiet vitae ut magna. Donec elit dui, s
               </div>
             </div>
             <div class="content">
-              Brief summary of report here Quisque consequat quam diam, ut imperdiet purus euismod non. Cras at quam nec nunc sagittis volutpat. Aenean varius pellentesque leo ut sodales. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+              <p>These research findings afford insight into key MSME segments:</p>
+                <ul>
+                  <li>Women-owned MSMEs</li>
+                  <li>MSMEs in urban, suburban, and rural areas</li>
+                  <li>MSMEs working in specific business sectors</li>
+                </ul>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
@@ -89,9 +96,12 @@ Phasellus vitae sem vel felis mollis imperdiet vitae ut magna. Donec elit dui, s
               </div>
             </div>
             <div class="content">
-              Brief summary of report here Quisque consequat quam diam, ut imperdiet purus euismod non. Cras at quam nec nunc
-              sagittis volutpat. Aenean varius pellentesque leo ut sodales. Orci varius natoque penatibus et magnis dis
-              parturient montes, nascetur ridiculus mus.
+              <p>These research findings afford insight into key MSME segments:</p>
+                <ul>
+                  <li>Women-owned MSMEs</li>
+                  <li>MSMEs in urban, suburban, and rural areas</li>
+                  <li>MSMEs working in specific business sectors</li>
+                </ul>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
@@ -115,9 +125,12 @@ Phasellus vitae sem vel felis mollis imperdiet vitae ut magna. Donec elit dui, s
               </div>
             </div>
             <div class="content">
-              Brief summary of report here Quisque consequat quam diam, ut imperdiet purus euismod non. Cras at quam nec nunc
-              sagittis volutpat. Aenean varius pellentesque leo ut sodales. Orci varius natoque penatibus et magnis dis
-              parturient montes, nascetur ridiculus mus.
+              <p>These research findings afford insight into key MSME segments:</p>
+                <ul>
+                  <li>Women-owned MSMEs</li>
+                  <li>MSMEs in urban, suburban, and rural areas</li>
+                  <li>MSMEs working in specific business sectors</li>
+                </ul>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
@@ -129,7 +142,3 @@ Phasellus vitae sem vel felis mollis imperdiet vitae ut magna. Donec elit dui, s
     </div>
   </div>
 </div>
-
-## Additional Information
-
-Phasellus nec eleifend augue. Morbi massa enim, ultricies eget aliquam et, bibendum id est. Quisque consequat quam diam, ut imperdiet purus euismod non. Cras at quam nec nunc sagittis volutpat. Aenean varius pellentesque leo ut sodales. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultricies laoreet tellus, et feugiat dolor mollis a. Phasellus lacinia faucibus erat, ut pretium ante venenatis vel.
