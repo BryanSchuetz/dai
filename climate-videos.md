@@ -20,7 +20,7 @@ layout: solution
     <div class="column">
       <div class="modal-link">
         <img src="/uploads/spectrum-video-thumbnail.jpg" alt="climate video" class=" modal-button" data-target="modal1" style="cursor: pointer;">
-        <p><strong>Working across the climate change spectrum</strong></p>
+        <p><strong>Working Across the Climate Change Spectrum</strong></p>
       </div>
       <div id="modal1" class="modal">
         <div class="modal-background"></div>
