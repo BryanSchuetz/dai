@@ -1,5 +1,5 @@
 ---
-title: MSME Reports Placeholder Title
+title:  'Insights from Emerging Markets: MSMEs and Digital Tool Use amidst the COVID-19 Pandemic'
 date: 2021-09-28 00:11:00 Z
 permalink: "/our-work/solutions/digital-acceleration-solutions/msme-study"
 published: false
