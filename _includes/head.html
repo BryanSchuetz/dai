@@ -33,7 +33,7 @@
     Opportunities' %}Jobs{% endif %} {% endif %}
   </title>
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css?v=143" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css?v=144" />
 
   {% if page.careers == true %}
   <link rel="stylesheet" href="/careers/assets/build/css/bootstrap.min.css" />
@@ -51,6 +51,10 @@
     type="text/javascript"
     src="{{ site.baseurl }}/assets/js/site.js?v=9"
   ></script>
+
+  {%- if page.icons == true -%}
+      <script src="https://kit.fontawesome.com/b28c01506f.js" crossorigin="anonymous"></script>
+  {%- endif -%}
   <!-- proxima nova hosted at typekit -->
   {% include head-webfonts.html %} {% include head-scroll.html %}
   <!-- RSS -->
