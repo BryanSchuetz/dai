@@ -26,7 +26,7 @@ Our programs support start-up incubators, business accelerators, innovation hubs
 
 <div class="bulma enterprise-innovation">
   <div class="columns is-3" style="margin-bottom: 1.75rem;">
-    <div class="colum">
+    <div class="column">
       <div class="card bm--card-equal-height">
         <span class="icon">
           <i class="fas fa-lightbulb"></i>
@@ -41,7 +41,7 @@ Our programs support start-up incubators, business accelerators, innovation hubs
         </div>
       </div>
     </div>
-    <div class="colum">
+    <div class="column">
       <div class="card bm--card-equal-height">
         <span class="icon">
           <i class="fas fa-pencil-ruler"></i>
@@ -56,7 +56,7 @@ Our programs support start-up incubators, business accelerators, innovation hubs
         </div>
       </div>
     </div>
-    <div class="colum">
+    <div class="column">
     <div class="card bm--card-equal-height">
       <span class="icon">
         <i class="fas fa-piggy-bank"></i>
