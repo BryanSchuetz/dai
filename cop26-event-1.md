@@ -4,7 +4,7 @@ permalink: the-future-of-development-finance-in-a-post-pandemic-world-cop26
 layout: default
 ---
 
-# The Future of Development Finance: Financing a Post-Pandemic World
+# The Future of Development Finance in a World Facing a Climate Crisis
 
 <div>
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Tuesday, November 2 from 10:55 CET 14:55 GMT </span>
