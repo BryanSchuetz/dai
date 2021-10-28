@@ -1,7 +1,6 @@
 ---
 title: DAI Joins Race to Zero Campaign, Accelerating Company’s Trajectory to Net Zero
 date: 2021-10-28 07:45:00 Z
-published: false
 tags:
 - climate
 solutions:
