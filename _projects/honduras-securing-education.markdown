@@ -46,7 +46,7 @@ The *Asegurando la Educación* (Securing Education) program, funded by the U.S. 
 
 ### Select Results
 
-* [Launched](https://dai-global-developments.com/articles/early-warning-and-response-system-increases-school-enrollment-and-retention) the Early Warning and Response System to increase school enrollment and retention after COVID-19 crisis.  
+* [Launched](https://dai-global-developments.com/articles/early-warning-and-response-system-increases-school-enrollment-and-retention) the Early Warning and Response System to increase school enrollment and retention after COVID-19 crisis. 
 * Helped 23 schools design and submit plans for reopening after COVID, enabling 10,999 students to return to the classroom, ultimately improving retention and decreasing the risk of irregular migration.
 * Created and delivered Teacher Wellbeing sessions providing strategies to reduce stress and strengthen social-emotional skills. By promoting the sessions to benefit more than 5,650 educators, the team created healthier learning environments for approximately 432,694 students.
 * Launched the Educators for Peace e-Learning Training with a webinar that reached more than an estimated 464,800 people through television broadcasts and Facebook Live. 
