@@ -1,8 +1,9 @@
 ---
 title: Turkey—Technical Assistance on Preparation of River Basin Management Plans
   for Six Basins
-date: 2021-10-29 12:48:00 Z
-published: false
+date: 2021-10-29 08:48:00 Z
+summary: DAI is strengthening Turkey’s capacity to prepare European Union-required
+  river basin management plans for six out of the 25 river basins in the country.
 start: 2021
 end: 2024
 client: European Union
@@ -13,12 +14,11 @@ regions: Eastern Europe and Central Asia
 country: Turkey
 ---
 
-Turkey is at increasing risk of water scarcity due to its growing population, infrastructural developments, overexploitation of watersheds, pollution, and climate change. The development of river basin management plans is important for the sustainable management of water, and is part of Turkey’s implementation of the EU Environmental acquis. 
+Turkey is at increasing risk of water scarcity due to its growing population, infrastructural developments, overexploitation of watersheds, pollution, and climate change. The development of river basin management plans is important for the sustainable management of water and is part of Turkey’s implementation of the [European Union Environmental acquis](http://www.ecranetwork.org/Horizontal-Activities/Handbook-EU-Environmental-Acquis). 
 
-The purpose of the project is to strengthen Turkey’s capacity for the preparation of RBMPs for 6 out of the 25 river basins in the country. The RBMPs summarise the state of the water environment, pressures affecting the water environment where its status is less than good, set statutory objectives for river, lake, groundwater, transitional and coastal water bodies, and contain measures needed to achieve them.  
-
+DAI is strengthening Turkey’s capacity to prepare river basin management plans for six out of the 25 river basins in the country. The plans summarise the state of the water environment; pressures affecting the water environment where its status is less than good; set statutory objectives for river, lake, groundwater, transitional, and coastal water bodies; and contain measures needed to achieve them.  
  
-The RBMPs will be developed in accordance with the European Union Water Framework Directive (WFD), which requires Member States to bring all the waters in the Union to good health by 2027.  
+The plans will be developed in accordance with the [European Union Water Framework Directive](https://ec.europa.eu/environment/water/water-framework/index_en.html) (WFD), which requires member states to improve the health of river basins in the Union by 2027.  
 
 ![Turkey-unsplash.jpg](/uploads/Turkey-unsplash.jpg)`Photo: Unsplash.`
 
