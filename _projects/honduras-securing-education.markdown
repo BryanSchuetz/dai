@@ -32,7 +32,7 @@ promos:
 
 A major impediment to Honduran students’ success is violence in and around schools, which can lead to life-long negative behavior that impacts Honduran society and beyond. Preventing that violence is critical to enabling at-risk youth to [stay in school](https://dai-global-developments.com/articles/safe-learning-spaces-in-honduras-curb-undocumented-migration), contributing to better academic outcomes, improved lives, reduced crime, and stronger communities.
 
-The *Asegurando la Educación* (Securing Education) program, funded by the U.S. Agency for International Development (USAID), is helping 115 schools establish cultures of nonviolence, inclusion, and respect. The project [partners]((https://eccnetwork.net/peer-violence-bullying/)) with education systems and communities in target municipalities to make schools safer for students and teachers while empowering schools to play a larger role in [decreasing community violence](https://www.baselgovernance.org/blog/el-salvadors-rule-law-election-deserves-our-support-heres-how).
+The *Asegurando la Educación* (Securing Education) program, funded by the U.S. Agency for International Development (USAID), helps schools establish cultures of nonviolence, inclusion, and respect. The project [partners]((https://eccnetwork.net/peer-violence-bullying/)) with education systems and communities in target municipalities to make schools safer for students and teachers while empowering schools to play a larger role in [decreasing community violence](https://www.baselgovernance.org/blog/el-salvadors-rule-law-election-deserves-our-support-heres-how).
 
 <iframe src="https://player.vimeo.com/video/340415699" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
