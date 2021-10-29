@@ -27,6 +27,6 @@ The plans will be developed in accordance with the [European Union Water Framewo
 * Analyse data requirements and collect required data both from Ankara and on-site, data requirement analysis report. 
 * Review river basin districts, water bodies, typologies, classes, and categories.  
 * Analyse the pressure and impacts on water bodies.  
-* Update the monitoring programmes for the six basins. 
+* Update monitoring programmes for the six basins. 
 * Prepare significant water management issues reports.  
 * Carry out a study visit to an EU Member State to evaluate their experience with the significant water management issues.
