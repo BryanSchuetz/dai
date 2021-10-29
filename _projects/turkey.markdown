@@ -24,9 +24,9 @@ The RBMPs will be developed in accordance with the European Union Water Framewor
 
  
 
-Sample activities 
+### Sample Activities 
 
-Analyse data requirements and collect required data both from Ankara and on-site, data requirement analysis report. 
+* Analyse data requirements and collect required data both from Ankara and on-site, data requirement analysis report. 
 
 Analyse the current situation with regards to WFD implementation, state-of-affairs in the field of water management, actual legislative and administrative structure of water management.   
 
