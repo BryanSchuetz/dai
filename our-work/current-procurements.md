@@ -10,7 +10,6 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [RFA 2021-06 Assessment on Farmer-Centric Models of Data Governance and Ownership](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/DAI%20Digital%20Frontiers%20RFA%202021-06%20D4RFS.pdf "11/19")
 * [RFP 2021-16 ProICT Colombia](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP%202021-16%20ProICT%20Colombia-FINAL.pdf "11/3")
-* [RFP No. RFP-EGA-21-087 Implementation of Learning Management System](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-EGA-21-087.LMS.01.pdf "10/27")
 * [RFP-EGA-21-087 Requests for clarification](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-EGA-21-087_RFP_MOD_%232_ResponseToBiddersInquiries.00.pdf "11/1")
-* [RFP-EGA-21-087 Answers to Questions](https://dai-assets.s3.us-east-1.amazonaws.com/rfps/RFP-EGA-21-087_RFP_MOD%231_ResponseToBiddersInquiries.00.pdf "10/27")
