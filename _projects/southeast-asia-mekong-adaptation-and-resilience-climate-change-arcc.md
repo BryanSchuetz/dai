@@ -20,8 +20,8 @@ promos:
 - title: From Studies to Stakeholders—Integrating Climate Science into Community Adaptation
     Planning
   link: https://www.climatelinks.org/blog/studies-stakeholders%E2%80%94integrating-climate-science-community-adaptation-planning
-- title: 
-  link: 
+- title: Establishing a Model at the Local Level for Science-Driven Climate Adaptation
+  link: https://dai-global-developments.com/articles/climate-adaptation-success-achieved-by-bridging-climate-science-with-local-realities-in-the-lower-mekong
 layout: project
 ---
 
