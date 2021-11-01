@@ -13,7 +13,7 @@ summary: At least nine DAI-led projects and a number of technical experts are pa
 social-image: "/uploads/White%20Logo-Gray%20Background.jpg"
 ---
 
-At least nine DAI-led projects and a number of technical experts are participating in the [26th Conference of the Parties (COP)](https://ukcop26.org/the-conference/presidency-programme/) convention in Glasgow, running through November 12. COP is the decision-making body of the United Nations Framework Convention on Climate Change (UNFCCC) and this convention is the overarching international agreement on taking action to address climate change. 
+At least nine DAI-led projects and several technical experts are participating in the [26th Conference of the Parties (COP)](https://ukcop26.org/the-conference/presidency-programme/) convention in Glasgow, running through November 12. COP is the decision-making body of the United Nations Framework Convention on Climate Change (UNFCCC) and this convention is the overarching international agreement on taking action to address climate change. 
 
 “We are presenting the work that we are doing in mitigating climate change, and helping vulnerable countries and communities adapt to a changing climate,” said [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), DAI’s Global Director for Climate. “We will have a varied presence across Glasgow throughout the two weeks, ensuring that voices are heard from our projects on the impacts of climate change, and the importance of urgent [action](https://www.dai.com/news/dai-joins-race-to-zero-campaign-accelerating-companys-trajectory-to-net-zero).”
 
