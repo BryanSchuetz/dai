@@ -54,6 +54,17 @@ layout: solution
     </div>
     <div class="column">
       <div class="modal-link">
+        <img src="/uploads/hunger-saftey-net-video-thumb.jpg" alt="climate video" class=" modal-button" data-target="building-resilience" style="cursor: pointer;">
+        <p><strong>Building Resilience to Extreme Weather</strong></p>
+      </div>
+      <div id="building-resilience" class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content" style="width: 800px;">
+        <iframe style="margin-bottom: 3px;" src="https://player.vimeo.com/video/207471099?h=ff9ba990b1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Building Resilience to Extreme Weather"></iframe>
+        </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+      </div>
+      <div class="modal-link">
         <img src="/uploads/climate-video-2.jpg" alt="climate video" class=" modal-button" data-target="modal2" style="cursor: pointer;">
         <p><strong>Climate Adaptation and Biodiversity</strong></p>
       </div>
@@ -130,5 +141,24 @@ document.addEventListener('DOMContentLoaded', function () {
     return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
   }
 
+});
+
+function getParameterByName(name) {
+    if (name !== "" && name !== null && name != undefined) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    } else {
+        var arr = location.href.split("/");
+        return arr[arr.length - 1];
+    }
+};
+var filterFromQuerystring = getParameterByName('video');
+
+console.log(filterFromQuerystring);
+
+$(function() {
+  $('#'+ filterFromQuerystring).addClass('is-active');
 });
 </script>
