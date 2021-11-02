@@ -24,7 +24,7 @@ In November 1996, he joined the newly established Chittagong Government Veterina
 
 Nitish is also a core member of the Board of Directors for the Council on International Veterinary Medical Education for Asia; president of Bangladesh Veterinary Council; president of the professional organization Agriculturist (Krishibid) Institution Bangladesh; and an Associate Fellow of Chatham House Global Health.
 
-In 2021, Nitish was invited to become one of 26 global experts selected to serve on the One Health High Level Expert Panel convened to advise leading global health agencies on the development of a plan to avert disease outbreaks with the potential to trigger pandemics. 
+In 2021, Nitish was invited to become one of 26 global experts selected to serve on the [One Health High Level Expert Panel](https://www.who.int/news/item/11-06-2021-26-international-experts-to-kickstart-the-joint-fao-oie-unep-who-one-health-high-level-expert-panel-(ohhlep)) convened to advise leading global health agencies on the development of a plan to avert disease outbreaks with the potential to trigger pandemics. 
 
 * Doctorate, veterinary medicine, Bangladesh Agricultural University
 * M.Sc., veterinary medicine, Bangladesh Agricultural University
