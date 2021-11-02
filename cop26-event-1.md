@@ -7,7 +7,7 @@ layout: default
 # The Future of Development Finance in a World Facing a Climate Crisis
 
 <div>
-  <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Tuesday, November 2 from 10:55 CET 14:55 GMT </span>
+  <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Tuesday, November 2 from 08:00 ET 12:00 GMT </span>
 </div>
 
 ![](/uploads/cop26-event-1-poster-revised.jpg)
