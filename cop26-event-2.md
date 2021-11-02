@@ -1,5 +1,5 @@
 ---
-title: The Need for a Global Alliance for Disaster Preparedness 
+title: The Need for a Global Alliance for Disaster Preparedness
 permalink: the-need-for-a-global-alliance-for-disaster-preparedness
 layout: default
 ---
