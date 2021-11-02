@@ -24,3 +24,5 @@ recovery from a policy and a finance perspective.
 * [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), Director of Climate Unit, DAI
 * [Nancy Saich](https://www.linkedin.com/in/nancy-saich-7b38333b/?originalSubdomain=lu), Chief Climate Change Expert, European Investment Bank (EIB)
 * [Jean-Paul Adam](https://knowledge.uneca.org/experts/full-detail/882), Director of the Technology, Climate Change and Natural Resources Division, United Nations Economic Commission for Africa (UNECA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpWS8pBwZL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
