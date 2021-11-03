@@ -73,3 +73,7 @@ International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–20
 # French Development Agency (AFD)
  
 Framework contract Lot 1: Studies and Technical assistance for the implementation of the ‘Adapt’ Action’ Facility (2018—2022)
+
+# Kreditanstalt für Wiederaufbau (KfW)
+
+Framework Agreement for Consulting Services in Fragile Contexts (2021–2025)
