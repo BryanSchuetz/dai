@@ -33,7 +33,7 @@ Client focused and data driven, our approach is defined by 50 years of developme
 * **Policy and Strategy**: We work with governments and corporations to develop policies and strategies that enable a smart transition to alternative and clean energy.  
 * **Energy Supply Chain**: We work with investors, operators, contractors, and suppliers to ensure the supply chain meets key performance, economic, social, environmental, and governance requirements.  
 * **Energy Business Planning**: Supporting investors to understand project bankability and feasibility, as well as develop strategies to mitigate investment risks.   
-* **Entrepreneurship and Innovation**: Strengthening the entrepreneurship ecosystem to catalyze the formation of new businesses that drive economic and social impact. 
+* **[Entrepreneurship and Innovation](/our-work/solutions/sustainable/sustainable-business-enterprise-innovation)**: Strengthening the entrepreneurship ecosystem to catalyze the formation of new businesses that drive economic and social impact. 
 * **Supply Chain Localization**: Integrated services and tools to help investors and operators reorganize their supply chains and make them more sustainable. 
 * **Performance Measurement**: Advisory services and tools to track the performance of supply chains across a range of sustainability criteria. 
 * **Supply Chain Analytics**: Our expertise in data collection, processing, and analysis delivers actionable insights. 
