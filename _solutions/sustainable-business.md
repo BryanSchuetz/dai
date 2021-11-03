@@ -45,3 +45,8 @@ Client focused and data driven, our approach is defined by 50 years of developme
 * **[Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)**: DAI’s industry-leading training course enables public and private stakeholders to effectively design and manage local content to maximize benefits and minimize risk.  
 * **Industrial Baseline Studies**: DAI’s rigorous approach for quantifying, delivering, and performance managing ​In-Country Value / Local Content.  
 * **Computable General Equilibrium (CGE) Modeling**: A rigorous economic modeling and analysis to estimate and understand lasting changes across industries and economies. 
+
+<aside style="margin-top: 2rem;">
+  <p>The Sustainable Business Group delivers solutions for companies and countries to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization.</P>
+  <a style="width: 50%;" href="mailto:contact_sbg@dai.com" target="blank" class="primary-block--button expert-button">Contact the Sustainable Business Group <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+</aside>

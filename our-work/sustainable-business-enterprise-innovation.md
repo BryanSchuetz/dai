@@ -2,7 +2,6 @@
 title: Entrepreneurship & Innovation
 date: 2017-06-19 15:11:00 Z
 permalink: "/our-work/solutions/sustainable/sustainable-business-enterprise-innovation"
-published: false
 summary: ''
 hero: true
 solutions:
@@ -207,4 +206,7 @@ innovation programmes over the past 10 years with multilateral, bilateral, found
   </div>
 </div>
 
-
+<aside style="margin-top: 2rem;">
+  <p>The Sustainable Business Group delivers solutions for companies and countries to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization.</P>
+  <a style="width: 50%;" href="mailto:contact_sbg@dai.com" target="blank" class="primary-block--button expert-button">Contact the Sustainable Business Group <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+</aside>
