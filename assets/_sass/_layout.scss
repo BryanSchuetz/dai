@@ -2033,3 +2033,18 @@ ol li::marker{
 .modal-link{
   cursor: pointer;
 }
+
+.card.forthcoming{
+  p,p.title{
+    color: $grey-light;
+  }
+  .fb-pub-buttons{
+    background-color: $grey-light;
+    &:hover{
+      background-color: $grey-light;
+    }
+  }
+  a{
+    cursor: not-allowed;
+  }
+}
