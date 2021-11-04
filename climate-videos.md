@@ -30,6 +30,19 @@ layout: solution
         <button class="modal-close is-large" aria-label="close"></button>
       </div>
       <div class="modal-link">
+        <img src="/uploads/climate-futures-webinar-1.jpg" alt="climate video" class=" modal-button" data-target="climate-futures-1" style="cursor: pointer;">
+        <p><strong>Climate Futures: Future of Mitigation</strong></p>
+      </div>
+      <div id="climate-futures-1" class="modal">
+        <div class="modal-background"></div>
+          <div class="modal-content" style="width: 800px;">
+            <iframe src="https://player.vimeo.com/video/580371693?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+              width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""
+              title="Future of Mitigation - DAI Climate Futures Webinar Series"></iframe>
+          </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+      </div>
+      <div class="modal-link">
         <img src="/uploads/spectrum-video-thumbnail.jpg" alt="climate video" class=" modal-button" data-target="modal1" style="cursor: pointer;">
         <p><strong>Working Across the Climate Change Spectrum</strong></p>
       </div>
@@ -64,6 +77,31 @@ layout: solution
       </div>
     </div>
     <div class="column">
+      <div class="modal-link">
+        <img src="/uploads/climate-video-preserving-forests.jpg" alt="climate video" class=" modal-button" data-target="preserving-forests" style="cursor: pointer;">
+        <p><strong>Honduras - Preserving Forests and Improving Livelihoods</strong></p>
+      </div>
+      <div id="preserving-forests" class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content" style="width: 800px;">
+        <iframe src="https://player.vimeo.com/video/637616263?h=92cbe25eba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="COP26 - Honduras - Preserving forests and improving livelihoods"></iframe>
+        </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+      </div>
+      <div class="modal-link">
+        <img src="/uploads/climate-futures-adaptation.jpg" alt="climate video" class=" modal-button"
+          data-target="climate-futures-2" style="cursor: pointer;">
+        <p><strong>Climate Futures: Future of Adaptation</strong></p>
+      </div>
+      <div id="climate-futures-2" class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content" style="width: 800px;">
+          <iframe src="https://player.vimeo.com/video/564742726?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""
+            title="Climate Futures Webinar Series: The Future of Adaptation"></iframe>
+        </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+      </div>
       <div class="modal-link">
         <img src="/uploads/hunger-saftey-net-video-thumb.jpg" alt="climate video" class=" modal-button" data-target="building-resilience" style="cursor: pointer;">
         <p><strong>Building Resilience to Extreme Weather</strong></p>
