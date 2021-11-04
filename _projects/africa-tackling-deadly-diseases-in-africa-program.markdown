@@ -1,7 +1,7 @@
 ---
 title: Africa—Tackling Deadly Diseases in Africa (TDDA) programme
 date: 2019-01-23 15:27:00 Z
-summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme aims to save lives
+summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme works to save lives
   and improve global health security by reducing the impact of disease outbreaks,
   epidemics, and other public health threats across sub-Saharan Africa. '
 start: 2019
@@ -49,8 +49,6 @@ The Tackling Deadly Diseases in Africa (TDDA) programme works with governments a
 
 We work closely with the African Centers for Disease Control and the World Health Organisation’s African Regional Office (WHO/AFRO) to reinforce regional efforts at harmonization and cross-border collaboration.  
 
-![tdaap.jpg](/uploads/tdaap.jpg)
-
 ### Expert Support on the Ground
 
 TDDA provides technical expertise and targeted operational support through experts on the ground. The programme is shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We help our focus countries to bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflects the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. Meet our [Country Coordinators](/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf).
@@ -68,6 +66,8 @@ In 2020, our work to help build emergency response mechanisms was adapted and mo
 TDDA tackles the systemic causes of health insecurity, not just the symptoms. Instead of fighting fires, this programme helps equip countries to manage disease outbreaks and other health threats before they become public health crises. Our work shows that collective efforts can make a real difference, even in countries facing significant challenges.
 
 > “Our TDDA programme provides important evidence to support the work of others. We’re showing that even in challenging contexts, collective action can make a real difference to global health security.” -**Jeffrey Mecaskey, TDDA Team Leader, DAI Global Health** 
+
+![tdaap.jpg](/uploads/tdaap.jpg)
 
 ## Sample Activities
 
