@@ -18,6 +18,17 @@ layout: solution
 <div class="bulma">
   <div class="columns">
     <div class="column">
+    <div class="modal-link">
+        <img src="/uploads/three-ways-to-accelerate.jpg" alt="climate video" class=" modal-button" data-target="three-ways-to-accelerate" style="cursor: pointer;">
+        <p><strong>Three Ways to Accelerate the Transition to Clean Energy</strong></p>
+      </div>
+      <div id="three-ways-to-accelerate" class="modal">
+        <div class="modal-background"></div>
+          <div class="modal-content" style="width: 800px;">
+            <iframe src="https://player.vimeo.com/video/637589221?h=8392ed2a70&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="COP26 - Three ways to accelerate the transition to clean energy"></iframe>
+          </div>
+        <button class="modal-close is-large" aria-label="close"></button>
+      </div>
       <div class="modal-link">
         <img src="/uploads/spectrum-video-thumbnail.jpg" alt="climate video" class=" modal-button" data-target="modal1" style="cursor: pointer;">
         <p><strong>Working Across the Climate Change Spectrum</strong></p>
