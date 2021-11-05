@@ -36,3 +36,7 @@ The programme fosters long-term links between Mexican institutions and the Natio
 * Support the strengthening of inclusive leadership and learning among health professionals in the Mexican health system.
 * Mainstream gender equality and social inclusion at all levels of the programme, ensuring the approach is embedded within core programme activities and within the management structures and processes. The work will be based on a nuanced understanding of the cultural, political, and economic context that drives current behaviour.
 * Conduct innovative research to understand some of the underlying social drivers of obesity in Mexico and support partnerships with the United Kingdom that will enable high-quality learning for both the United Kingdom and the Mexican public health approach. For example, research might explore how stress and violence links with obesity, inactivity, depression, and poor eating habits, and develop integrated approaches to tackle violence and obesity.
+
+### Select Results
+
+* Delivered the [Microguide Mexico](https://inductionhealthcare.com/guidance/) to the Mexican Institute of Social Security. The guide is aimed at providing clinicians with updated treatment guidelines for type 2 diabetes and hypertension. 
