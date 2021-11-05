@@ -118,7 +118,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/cambodia-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -128,13 +128,13 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-cambodia.jpg" alt="Placeholder image">
+              <img src="/uploads/msme-study-thumbnail-colombia.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <p class="title is-4">Columbia Country Brief</p>
+                <p class="title is-4">Colombia Country Brief</p>
               </div>
             </div>
             <div class="content">
@@ -147,7 +147,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/colombia-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -327,7 +327,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
-        <a download class="card-footer-item fb-pub-buttons">Download Report</a>
+        <a download class="card-footer-item fb-pub-buttons" href="/uploads/thailand-country-brief.pdf">Download Report</a>
       </footer>
     </div>
   </div>
