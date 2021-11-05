@@ -2047,4 +2047,10 @@ ol li::marker{
   a{
     cursor: not-allowed;
   }
+  .content p em{
+    border-bottom: 1px solid #e4e5e6;
+  }
+}
+.bulma .card-footer{
+  margin-top: 0;
 }

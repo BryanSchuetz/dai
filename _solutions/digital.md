@@ -29,6 +29,18 @@ layout: solution
 The CDA helps our clients—businesses, governments, and foundations—integrate digital tools and approaches across their portfolio through research, design, and implementation. We build upon DAI’s nearly five decades of experience and have invested in mapping emerging markets to identify appropriate digital tools that will drive results. 
 
 <br>
+{%comment%}
+<aside class="insights promo">
+  <div>
+    <a href="/our-work/solutions/digital-acceleration-solutions/msme-study">
+      <img src="/uploads/msme-study-reports-thumbnail.jpg" alt="">
+      <h3>MSME Study</h3>
+      <p>Ensuring that micro, small, and medium enterprises (MSMEs) can access digital tools is particularly crucial in emerging markets, because MSMEs fuel economic growth and spur job creation.</p>
+    </a>
+    <a href="/our-work/solutions/digital-acceleration-solutions/msme-study" target="blank" class="primary-block--button expert-button" style="clear: left;margin-bottom: 1rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+</aside> 
+{%endcomment%}
 <aside class="insights promo">
   <div>
     <a href="/hcd.pdf">

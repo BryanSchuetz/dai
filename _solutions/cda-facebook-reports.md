@@ -40,8 +40,7 @@ As emerging markets recover and rebound from the immense challenges presented by
               </div>
             </div>
             <footer class="card-footer pt-0" style="padding-top: 0;" >
-              <a class="card-footer-item fb-pub-buttons">Download Report</a>
-              <a class="card-footer-item fb-pub-buttons">Share Report</a>
+              <a download class="card-footer-item fb-pub-buttons">Download Report</a>
             </footer>
           </div>
       </div>
@@ -68,8 +67,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons" href="">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons" href="">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="">Download Report</a>
           </footer>
         </div>
       </div>
@@ -93,8 +91,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons">Download Report</a>
           </footer>
         </div>
       </div>
@@ -121,8 +118,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons" href="">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons" href="">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="">Download Report</a>
           </footer>
         </div>
       </div>
@@ -151,8 +147,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons" href="">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons" href="">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="">Download Report</a>
           </footer>
         </div>
       </div>
@@ -174,8 +169,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons">Download Report</a>
           </footer>
         </div>
       </div>
@@ -204,8 +198,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons" href="">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons" href="">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="">Download Report</a>
           </footer>
         </div>
       </div>
@@ -227,8 +220,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons">Download Report</a>
           </footer>
         </div>
       </div>
@@ -257,8 +249,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons" href="">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons" href="">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="">Download Report</a>
           </footer>
         </div>
       </div>
@@ -285,8 +276,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a class="card-footer-item fb-pub-buttons">Download Report</a>
-            <a class="card-footer-item fb-pub-buttons">Share Report</a>
+            <a download class="card-footer-item fb-pub-buttons">Download Report</a>
           </footer>
         </div>
       </div>
@@ -310,8 +300,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
-        <a class="card-footer-item fb-pub-buttons" href="">Download Report</a>
-        <a class="card-footer-item fb-pub-buttons" href="">Share Report</a>
+        <a download class="card-footer-item fb-pub-buttons">Download Report</a>
       </footer>
     </div>
   </div>
@@ -338,8 +327,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
-        <a class="card-footer-item fb-pub-buttons">Download Report</a>
-        <a class="card-footer-item fb-pub-buttons">Share Report</a>
+        <a download class="card-footer-item fb-pub-buttons">Download Report</a>
       </footer>
     </div>
   </div>
@@ -363,8 +351,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
-        <a class="card-footer-item fb-pub-buttons" href="">Download Report</a>
-        <a class="card-footer-item fb-pub-buttons" href="">Share Report</a>
+        <a download class="card-footer-item fb-pub-buttons">Download Report</a>
       </footer>
     </div>
   </div>
@@ -386,11 +373,14 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
-        <a class="card-footer-item fb-pub-buttons">Download Report</a>
-        <a class="card-footer-item fb-pub-buttons">Share Report</a>
+        <a download class="card-footer-item fb-pub-buttons">Download Report</a>
       </footer>
     </div>
   </div>
 </div>
   </div>
 </div>
+
+<aside>
+  <p style="font-size: .8rem; margin-bottom: 0px;"><em>Research findings reported in this series should not be considered representative of country MSMEs due to the limitations of the surveys. See methodology appendices for more information.</em></p>
+</aside>
