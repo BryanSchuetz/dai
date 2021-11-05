@@ -1,7 +1,7 @@
 ---
 title: Mexico—Better Health Programme (BHPMx)
 date: 2019-07-10 08:17:00 Z
-summary: The Mexico Better Health Programme addresses the growing threat of noncommunicable
+summary: The Mexico Better Health Programme addressed the growing threat of noncommunicable
   diseases—especially obesity and diabetes—with a focus on realizing the economic
   and social benefits associated with improved health.
 start: 2019
@@ -23,9 +23,9 @@ promos:
   link: https://dai-global-developments.com/articles/empowering-nurses-to-strengthen-the-mexican-health-system
 ---
 
-The Better Health Programme Mexico (BHPMx) is part of the U.K. Global Prosperity programme Better Health Programme that covers eight countries. The DAI-managed programme addresses the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health. 
+The Better Health Programme Mexico (BHPMx) was part of the U.K. Global Prosperity programme Better Health Programme that covers eight countries. The DAI-managed programme addressed the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health. 
 
-The programme fosters long-term links between Mexican institutions and the National Health Service, other U.K. institutions, and networks of researchers and service providers. U.K. and Mexican partners will together build an understanding of the gendered nature of the NCD epidemic and of the severe exclusion of some groups based on ethnicity, disability, or geographical location, as well as high levels of gender-based violence across the country and inequality within the health system.
+The programme fostered long-term links between Mexican institutions and the National Health Service, other U.K. institutions, and networks of researchers and service providers. U.K. and Mexican partners together built an understanding of the gendered nature of the NCD epidemic and of the severe exclusion of some groups based on ethnicity, disability, or geographical location, as well as high levels of gender-based violence across the country and inequality within the health system.
 
 <iframe src="https://player.vimeo.com/video/471017654" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -40,4 +40,7 @@ The programme fosters long-term links between Mexican institutions and the Natio
 ### Select Results
 
 * Delivered the [Microguide Mexico](https://inductionhealthcare.com/guidance/) to the Mexican Institute of Social Security. The guide is aimed at providing clinicians with updated treatment guidelines for type 2 diabetes and hypertension.
-* Conducted five closure workshops on integrating public healthcare competencies into medical curricula.  
+* Conducted five closure workshops on integrating public healthcare competencies into medical curricula.
+* Developed two e-learning courses on "clinical management of overweight, obesity and diabetes" and "digital skills for primary healthcare" to be transferred to the Mexican Institute of Social Security.
+* Developed an accredited diploma for local health managers, in partnership with Mexico’s Secretariat of Health.
+* Prodcued a training of trainers’ Advanced Nursing Course in partnership with Mexico’s National School of Nursing & Obstetrics.
