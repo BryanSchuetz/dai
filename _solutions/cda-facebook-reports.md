@@ -296,7 +296,7 @@ As emerging markets recover and rebound from the immense challenges presented by
           </div>
         </div>
         <div class="content">
-          <p>Forthcoming December 2021</p>
+          <p><em>Forthcoming December 2021</em></p>
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
@@ -347,7 +347,7 @@ As emerging markets recover and rebound from the immense challenges presented by
           </div>
         </div>
         <div class="content">
-          <p>Forthcoming January 2022</p>
+          <p><em>Forthcoming January 2022</em></p>
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
@@ -369,7 +369,7 @@ As emerging markets recover and rebound from the immense challenges presented by
           </div>
         </div>
         <div class="content">
-          <p>Forthcoming January 2022</p>
+          <p><em>Forthcoming January 2022</em></p>
         </div>
       </div>
       <footer class="card-footer pt-0" style="padding-top: 0;">
