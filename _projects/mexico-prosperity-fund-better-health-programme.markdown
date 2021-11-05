@@ -39,4 +39,5 @@ The programme fosters long-term links between Mexican institutions and the Natio
 
 ### Select Results
 
-* Delivered the [Microguide Mexico](https://inductionhealthcare.com/guidance/) to the Mexican Institute of Social Security. The guide is aimed at providing clinicians with updated treatment guidelines for type 2 diabetes and hypertension. 
+* Delivered the [Microguide Mexico](https://inductionhealthcare.com/guidance/) to the Mexican Institute of Social Security. The guide is aimed at providing clinicians with updated treatment guidelines for type 2 diabetes and hypertension.
+* Conducted five closure workshops on integrating public healthcare competencies into medical curricula.  
