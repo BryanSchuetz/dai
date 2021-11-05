@@ -41,6 +41,8 @@ The programme fostered long-term links between Mexican institutions and the Nati
 
 * Delivered the [Microguide Mexico](https://inductionhealthcare.com/guidance/) to the Mexican Institute of Social Security. The guide is aimed at providing clinicians with updated treatment guidelines for type 2 diabetes and hypertension.
 * Conducted five closure workshops on integrating public healthcare competencies into medical curricula.
+* Trained more than 5,000 health workers through seminars on improving health education and practice.
 * Developed two e-learning courses on "clinical management of overweight, obesity and diabetes" and "digital skills for primary healthcare" to be transferred to the Mexican Institute of Social Security.
 * Developed an accredited diploma for local health managers, in partnership with Mexico’s Secretariat of Health.
-* Prodcued a training of trainers’ Advanced Nursing Course in partnership with Mexico’s National School of Nursing & Obstetrics.
+* Produced a training of trainers’ Advanced Nursing Course in partnership with Mexico’s National School of Nursing & Obstetrics.
+* Created a bespoke communication campaign designed for three deprived areas in Zapopan and Acatlán de Juárez in Jalisco state, aimed at curbing sugar consumption in fizzy drinks. The campaign design approached healthy eating positively.
