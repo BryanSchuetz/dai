@@ -28,7 +28,7 @@ promos:
 - title: Making Digital Finance Work for Women in the MENA Region
   link: https://www.marketlinks.org/resources/making-digital-finance-work-women-mena-region
 - title: 'REPORT: Gender-Smart Investing in MENA'
-  link: "/uploads/AWEF-Gender%20Smart%20Investing%20in%20MENA-report%20final%205%20October.pdf"
+  link: "/uploads/AWEF-Gender%20Smart%20Investing%20in%20MENA%20report%20--FINAL%20-Nov%202021.pdf"
 layout: project
 ---
 
