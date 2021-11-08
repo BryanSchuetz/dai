@@ -19,7 +19,7 @@ promos:
   link: https://dai-global-developments.com/articles/malawis-land-governance-is-headed-in-the-right-direction
 - title: Opportunities and Challenges of Land Reform Implementation in Malawi
   link: https://dai-global-developments.com/articles/opportunities-and-challenges-of-land-reform-implementation-in-malawi
-- title: 'Programme Results: Driving Land Governance in the Right Direction'
+- title: Programme Results
   link: "/uploads/Malawi%20Land%20brochure%20A4%20(pages)_Final-7c9be0.pdf"
 - title: What We Have Learned through Land Reform Implementation in Malawi
   link: https://dai-global-developments.com/articles/land-reform-implementation-in-malawi
