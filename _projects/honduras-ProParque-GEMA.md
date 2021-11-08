@@ -19,6 +19,8 @@ country:
 promos:
 - title: Six Ways to Mitigate Instability in Central America
   link: http://dai-global-developments.com/articles/mitigating-instability-in-central-america
+- title: 'Climate Change Governance: Six Lessons Learned'
+  link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 layout: project
 ---
 
