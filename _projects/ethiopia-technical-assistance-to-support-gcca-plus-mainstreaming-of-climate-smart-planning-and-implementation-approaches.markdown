@@ -15,6 +15,8 @@ country: Ethiopia
 promos:
 - title: Mainstreaming Climate-Smart Approaches at all Levels of Ethiopian Society
   link: https://dai-global-developments.com/articles/mainstreaming-climate-smart-approaches-at-all-levels-of-ethiopian-society
+- title: 'Climate Change Governance: Six Lessons Learned'
+  link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 ---
 
 Addressing climate change and environmental degradation is high on the agenda for the Government of Ethiopia as it seeks to implement policies, strategies, and guidelines with the potential to achieve integrated rural development.

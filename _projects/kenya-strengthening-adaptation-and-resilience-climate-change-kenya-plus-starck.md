@@ -16,6 +16,9 @@ regions:
 - Sub-Saharan Africa
 country:
 - Kenya
+promos:
+- title: 'Climate Change Governance: Six Lessons Learned'
+  link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 layout: project
 ---
 
