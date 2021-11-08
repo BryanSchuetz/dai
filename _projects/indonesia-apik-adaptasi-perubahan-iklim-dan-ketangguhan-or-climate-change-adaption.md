@@ -22,6 +22,8 @@ promos:
   link: https://www.climatelinks.org/blog/improving-community-preparedness-through-flood-early-warning-systems
 - title: Education for Disaster Preparedness
   link: https://www.climatelinks.org/blog/education-disaster-preparedness
+- title: 'Climate Change Governance: Six Lessons Learned'
+  link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
 layout: project
 ---
 
