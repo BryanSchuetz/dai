@@ -10,7 +10,7 @@ layout: default
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Tuesday, November 9 from 12:00 EST 17:00 GMT </span>
 </div>
 
-![COP out.jpg](/uploads/COP%20out.jpg)
+![COP out-cbea0d.jpg](/uploads/COP%20out-cbea0d.jpg)
 
 The Centre for Disaster Prevention and DAI are co-hosting [Devex’s “COP out” Panel](https://pages.devex.com/cop-out-or-radically-change-the-way-the-world-pays-for-disasters.html) on Tuesday, 9 November. In this second week of COP26, the panel will discuss how international and local actors can work together to create mechanisms for pre-agreed financing to ensure a more timely, efficient, and agile disaster response.
 
