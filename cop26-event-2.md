@@ -7,7 +7,7 @@ layout: default
 # The Need for a Global Alliance for Disaster Preparedness 
 
 <div>
-  <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Tuesday, November 9 from 13:00 CET 17:00 GMT </span>
+  <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Tuesday, November 9 from 12:00 EST 17:00 GMT </span>
 </div>
 
 ![COP out.jpg](/uploads/COP%20out.jpg)
