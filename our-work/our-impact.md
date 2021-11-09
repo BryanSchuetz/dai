@@ -17,7 +17,7 @@ We envision a world in which communities and societies become more prosperous, f
  <div class="bulma">
    <div class="container columns">
      <div class="column">
-       <div class="card bm--card-equal-height">
+       <div class="card">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2020-cop-preview.jpg" alt="Placeholder image">
@@ -40,7 +40,7 @@ We envision a world in which communities and societies become more prosperous, f
        </div>
      </div>
      <div class="column">
-       <div class="card bm--card-equal-height">
+       <div class="card">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2019-cop-preview.jpg" alt="Placeholder image">
@@ -65,7 +65,7 @@ We envision a world in which communities and societies become more prosperous, f
    </div>
    <div class="container columns">
      <div class="column is-half">
-       <div class="card bm--card-equal-height">
+       <div class="card">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2018-cop-thumbnail.jpg" alt="Placeholder image">
