@@ -26,7 +26,7 @@ As emerging markets recover and rebound from the immense challenges presented by
   <div class="container">
     <div class="columns">
       <div class="column">
-        <div class="card">
+        <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
               <img src="/uploads/msme-study-thumbnail-bangladesh.jpg" alt="Placeholder image">
@@ -53,7 +53,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <div class="column">
-        <div class="card">
+        <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
               <img src="/uploads/msme-study-thumbnail-cambodia.jpg" alt="Placeholder image">
@@ -82,7 +82,7 @@ As emerging markets recover and rebound from the immense challenges presented by
     </div>
     <div class="columns">
       <div class="column">
-        <div class="card">
+        <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
               <img src="/uploads/msme-study-thumbnail-colombia.jpg" alt="Placeholder image">
@@ -109,7 +109,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <div class="column">
-        <div class="card">
+        <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
               <img src="/uploads/msme-study-thumbnail-indonesia.jpg" alt="Placeholder image">
@@ -138,7 +138,7 @@ As emerging markets recover and rebound from the immense challenges presented by
     </div>
     <div class="columns">
       <div class="column">
-<div class="card">
+<div class="card is-fullheight">
   <div class="card-image">
     <figure class="image is-4by5">
       <img src="/uploads/msme-study-thumbnail-peru.jpg" alt="Placeholder image">
@@ -165,7 +165,7 @@ As emerging markets recover and rebound from the immense challenges presented by
 </div>
       </div>
       <div class="column">
-        <div class="card">
+        <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
               <img src="/uploads/msme-study-thumbnail-philippines.jpg" alt="Placeholder image">
@@ -195,7 +195,7 @@ As emerging markets recover and rebound from the immense challenges presented by
     </div>
     <div class="columns">
       <div class="column">
-        <div class="card">
+        <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
               <img src="/uploads/msme-study-thumbnail-thailand.jpg" alt="Placeholder image">
@@ -235,6 +235,6 @@ As emerging markets recover and rebound from the immense challenges presented by
   </div>
 </div>
 
-<aside>
+<aside style="margin-top: 2rem;">
   <p style="font-size: .8rem; margin-bottom: 0px;"><em>Research findings reported in this series should not be considered representative of country MSMEs due to the limitations of the surveys. See methodology appendices for more information.</em></p>
 </aside>

@@ -12,12 +12,12 @@ ultrawide: true
 
 We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable. Integral to that mission is a commitment to uphold human rights and labor standards, promote environmental responsibility, and combat corruption in all its forms.
  
- **You can learn more about our commitment to Shape a More Livable World** by reviewing our [UNGC Communication on Progress](https://www.dai.com/news/dai-submits-its-2020-communication-on-progress-to-the-un-global-compact) for the current and previous years below.
+ **You can learn more about our commitment to Shaping a More Livable World** by reviewing our [UNGC Communication on Progress](https://www.dai.com/news/dai-submits-its-2020-communication-on-progress-to-the-un-global-compact) for the current and previous years below.
  
  <div class="bulma">
    <div class="container columns">
      <div class="column">
-       <div class="card">
+       <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2020-cop-preview.jpg" alt="Placeholder image">
@@ -40,7 +40,7 @@ We envision a world in which communities and societies become more prosperous, f
        </div>
      </div>
      <div class="column">
-       <div class="card">
+       <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2019-cop-preview.jpg" alt="Placeholder image">
@@ -65,7 +65,7 @@ We envision a world in which communities and societies become more prosperous, f
    </div>
    <div class="container columns">
      <div class="column is-half">
-       <div class="card">
+       <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
              <img src="/uploads/2018-cop-thumbnail.jpg" alt="Placeholder image">
