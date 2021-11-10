@@ -1,6 +1,5 @@
 ---
 title: Our Impact
-published: false
 summary: 'As an independent, employee-owned global development company, our mission
   is to make a lasting difference in the world by helping people improve their lives.
 
