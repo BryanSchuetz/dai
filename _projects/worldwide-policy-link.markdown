@@ -11,6 +11,7 @@ solutions:
 - Agriculture and Food Security
 - Economic Growth
 regions: Worldwide
+country: Worldwide
 promos:
 - title: Gaps Among Stakeholders Must be Narrowed for Sustainable Agriculture
   link: https://en.prothomalo.com/business/gaps-among-stakeholders-must-be-narrowed-for-sustainable-agriculture
