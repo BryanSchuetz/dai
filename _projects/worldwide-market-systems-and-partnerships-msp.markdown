@@ -18,6 +18,9 @@ country: Worldwide
 promos:
 - title: Project Website
   link: http://www.agrilinks.org/msp
+- title: What’s Different about Doing PSE in Fragile and Conflict-affected Situations?
+    Four Key Considerations
+  link: https://www.marketlinks.org/blogs/whats-different-about-doing-pse-fragile-and-conflict-affected-situations-four-key
 ---
 
 The Feed the Future Market Systems and Partnerships activity (MSP) helps the U.S. Agency for International Development (USAID) advance learning and good practice in integrating private sector engagement across all activities, while at the same time deepening market systems development across the Feed the Future program cycle.
