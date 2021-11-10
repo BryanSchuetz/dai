@@ -18,7 +18,7 @@ The [Centre for Disaster Protection](https://www.disasterprotection.org/) focuse
  
 The Centre works with a wide range of organizations—country governments, development banks, humanitarian agencies, development insurers, private sector actors, research institutions, and NGOs—to support partner countries to strengthen their pre-disaster planning and financial arrangements so they can respond more rapidly and effectively when a disaster strikes. 
 
-![Walking in flooded street. Credit. Ranjan Bhandari.jpg](/uploads/Walking%20in%20flooded%20street.%20Credit.%20Ranjan%20Bhandari.jpg)
+<iframe src="https://player.vimeo.com/video/644414093?h=52a6b13567" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
  
 This four-year program has the following goals: 
 
