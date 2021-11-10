@@ -44,7 +44,7 @@ layout: solution
       </div>
       <div class="modal-link">
         <img src="/uploads/spectrum-video-thumbnail.jpg" alt="climate video" class=" modal-button" data-target="full-spectrum" style="cursor: pointer;">
-        <p><strong>Working Across the Climate Change Spectrum</strong></p>
+        <p><strong>DAI—Working Across the Climate Change Spectrum</strong></p>
       </div>
       <div id="full-spectrum" class="modal">
         <div class="modal-background"></div>
@@ -104,7 +104,7 @@ layout: solution
       </div>
       <div class="modal-link">
         <img src="/uploads/hunger-saftey-net-video-thumb.jpg" alt="climate video" class=" modal-button" data-target="building-resilience" style="cursor: pointer;">
-        <p><strong>Building Resilience to Extreme Weather</strong></p>
+        <p><strong>Kenya—Building Resilience to Extreme Weather</strong></p>
       </div>
       <div id="building-resilience" class="modal">
         <div class="modal-background"></div>
