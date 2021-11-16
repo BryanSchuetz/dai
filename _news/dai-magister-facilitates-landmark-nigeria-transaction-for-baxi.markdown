@@ -1,12 +1,12 @@
 ---
 title: DAI Magister Facilitates Landmark Nigeria FinTech Transaction for Baxi
-date: 2021-11-15 09:32:00 Z
-published: false
+date: 2021-11-16 08:32:00 Z
 regions: Sub-Saharan Africa
-summary: 'We are delighted to report that DAI—through DAI Magister, the investment
+summary: We are delighted to report that DAI—through DAI Magister, the investment
   fundraising and mergers and acquisitions (M&A) advisory arm of DAI Capital—served
-  as co-advisor for Capricorn Digital (trading as Baxi) in its just-announced purchase
-  by MFS Africa. '
+  as co-advisor for Capricorn Digital (trading as Baxi) in its recently announced
+  purchase by MFS Africa.
+social-image: "/uploads/DAI-Magister-01.png"
 country: Nigeria
 ---
 
