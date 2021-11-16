@@ -10,7 +10,7 @@ social-image: "/uploads/DAI-Magister-01.png"
 country: Nigeria
 ---
 
-We are delighted to report that DAI—through [DAI Magister](https://www.dai.com/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets), the investment fundraising and mergers and acquisitions (M&A) advisory arm of [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital)—served as co-advisor for Capricorn Digital (trading as Baxi) in its recently announced [purchase by MFS Africa](https://qz.com/africa/2078996/mfs-africa-bought-baxis-agent-banking-for-cross-border-trade/). Baxi is one of Nigeria’s most prominent financial technology enterprises; South Africa-based MFS is one of the continent’s leading fintech players.
+We are delighted to report that DAI—through [DAI Magister](https://www.daimagister.com/transactions), the investment fundraising and mergers and acquisitions (M&A) advisory arm of [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital)—served as co-advisor for Capricorn Digital (trading as Baxi) in its recently announced [purchase by MFS Africa](https://qz.com/africa/2078996/mfs-africa-bought-baxis-agent-banking-for-cross-border-trade/). Baxi is one of Nigeria’s most prominent financial technology enterprises; South Africa-based MFS is one of the continent’s leading fintech players.
 
 ![DAI-Magister-01.svg](/uploads/DAI-Magister-01.svg)
 
@@ -20,7 +20,7 @@ It also highlights a number of key trends in Africa’s rapidly growing fintech 
 
 “M&A will emerge as a key trend alongside larger fundraises, as companies such as MFS build continental leadership,” Ruparelia added. “After the sales of Paystack, DPO Group, and now Baxi, many leading fintech firms will consider both M&A and fundraising as viable options to achieve scale.”
 
-DAI took a majority stake in Magister Advisors—an investment advisor focused on the Africa and MENA region—in November 2020, thereby forming DAI Magister and enhancing DAI Capital’s ability to mobilize private capital in frontier and emerging markets.
+DAI took a [majority stake](https://www.dai.com/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets) in Magister Advisors—an investment advisor focused on the Africa and MENA region—in November 2020, thereby forming DAI Magister and enhancing DAI Capital’s ability to mobilize private capital in frontier and emerging markets.
 
 “The continent remains heavily unbanked, with far greater reliance on cash than in developed markets, suggesting continued opportunity to bring value to the market and facilitate higher valuations,” Ruparelia said.
 
