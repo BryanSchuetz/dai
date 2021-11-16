@@ -1,5 +1,5 @@
 ---
-title: DAI Magister Facilitates Large Nigeria FinTech Transaction for Baxi
+title: DAI Magister Facilitates Landmark Nigeria FinTech Transaction for Baxi
 date: 2021-11-15 09:32:00 Z
 published: false
 regions: Sub-Saharan Africa
