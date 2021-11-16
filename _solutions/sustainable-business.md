@@ -14,7 +14,7 @@ redirect_from:
 - "/sustainable-business"
 - "/who-we-are/sustainable-business"
 - "/sbg"
-related: false
+related: true
 hero: true
 layout: solution
 ---
