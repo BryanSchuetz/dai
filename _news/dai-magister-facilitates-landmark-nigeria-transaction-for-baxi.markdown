@@ -18,7 +18,7 @@ Thought to be Nigeria’s [second-largest](https://techcabal.com/2021/10/20/mfs-
 
 It also highlights a number of key trends in Africa’s rapidly growing fintech sector, according to Divij Ruparelia, a Principal with DAI Magister. “This has been a record year for African financial tech, with more than $800 million in deals to date,” he said. “We expect the sector will see value rise toward $5 billion annually in the coming years.”
 
-“M&A will emerge as a key trend alongside larger fundraises, as companies such as MFS build continental leadership,” Ruparelia added. “After the sales of Paystack, DPO Group, and now Baxi, many leading fintech firms will consider both M&A and fundraising as viable options to achieve scale.”
+![Baxi Logo.png](/uploads/Baxi%20Logo.png){:.float-left}“M&A will emerge as a key trend alongside larger fundraises, as companies such as MFS build continental leadership,” Ruparelia added. “After the sales of Paystack, DPO Group, and now Baxi, many leading fintech firms will consider both M&A and fundraising as viable options to achieve scale.”
 
 DAI took a [majority stake](https://www.dai.com/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets) in Magister Advisors—an investment advisor focused on the Africa and MENA region—in November 2020, thereby forming DAI Magister and enhancing DAI Capital’s ability to mobilize private capital in frontier and emerging markets.
 
