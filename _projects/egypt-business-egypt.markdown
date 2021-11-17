@@ -30,4 +30,8 @@ DAI’s implementation approach makes maximum use of Egyptian resources. The bul
 
 * Boost networks among women-focused ecosystem actors to improve women’s access to mentors, finance, and information and to strengthen incubators and accelerators to cater to women.
 * Support businesswomen’s associations to advocate for changes to existing practices, such as assessment of women-owned businesses as high risk by banks and investors. 
+* Build networks among youth-focused organizations and accelerators, and link them to sources of best practice, such as the Global Accelerator Network. 
+* Establish sector-specific accelerators.
+* Build capacity of business development service centers, facilitate networks with financial institutions, and broker linkages with anchor firms.
+* Simplify tax policies, regulations, and processes for MSMEs.
  
