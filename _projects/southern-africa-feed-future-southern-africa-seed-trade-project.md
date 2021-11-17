@@ -45,12 +45,12 @@ The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Z
 
 ### Sample Activities
 
-* Promote SADC ownership of the harmonized seed regulations (HSR) process by strengthening national and regional institutions.
-* Build the capacity of the SADC Seed Centre to provide technical assistance to national agencies and engage the private sector.
-* Assist the SADC Seed Centre to develop a sustainable business model for HSR.
-* Support the development of SADC regional seed catalog, seed lot certification and SADC package labeling.
-* Synchronize assistance in Malawi, Zambia, and Zimbabwe with the Common Market for Eastern and Southern Africa Seed Harmonisation Implementation Plan.
-* Transfer technology and management practices that [prioritize](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) and scale up regional variety registration and seed certification models.
+* Operationalize the SADC Seed Centre.
+* Engage with seed companies to apply for and register seed varieties on the SADC Seed Variety Catalogue so they can be eligible for regional production and trade.
+* Domesticate and harmonize seed policies within the SADC region.
+* Grant awards to produce and trade high-quality seed and pressure test the SADC Harmonized Seed Regulatory System (HSRS) for scale-up; infrastructure and capacity-building; and raise awareness of the HSRS across the SADC region.
+* Provide institutional and human capacity building for seed delivery including management practices and proper crop inspections.
+* Facilitate technology transfer, including [digitizing seed quality assurance](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) through the development and operationalization of Online Seed Certification Systems and Seed Inspector Trainings, updates to and training on diagnostic and testing equipment.
 
 ### Select Results
 
