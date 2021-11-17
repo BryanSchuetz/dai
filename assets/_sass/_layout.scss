@@ -1922,12 +1922,6 @@ $content-blockquote-padding: 7rem;
   // importing bulma under .bulma to force a namespace for it
   @import "bulma.sass";
   // undo dai styles that are leaking through and fucking with bulma styles
-  a.close{
-    color: #85c481;
-    &:hover{
-      color: #54aa4f;
-    }
-  }
   div {
     width: auto;
   }
@@ -1942,14 +1936,6 @@ $content-blockquote-padding: 7rem;
   }
   p {
     margin-bottom: 1rem;
-  }
-  button.button{
-    background-color: #85c481;
-    color: white;
-    &:hover{
-      background-color: #54aa4f;
-      color: white;
-    }
   }
 }
 
