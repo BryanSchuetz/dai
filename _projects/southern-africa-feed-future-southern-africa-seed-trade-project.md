@@ -1,5 +1,5 @@
 ---
-title: Feed the Future Southern Africa Seed Trade Project
+title: Feed the Future Southern Africa Seed Trade Project (Seed Trade Project)
 date: 2016-01-21 22:40:00 Z
 summary: This project provides technical assistance to help harmonize seed regulations
   in the Southern African Development Community (SADC), which will allow seed trade
@@ -32,35 +32,43 @@ promos:
 - title: 'State-of-the-Art Digital Microscope Positions Zambia for Increased International
     Seed Trade '
   link: https://www.usaid.gov/southern-africa-regional/news/state-art-digital-microscope-positions-zambia-increased-international-seed
+- title: 'VIDEO: What is the Relationship between the OECD Seed Schemes and the SADC
+    HSRS? '
+  link: https://youtu.be/yvJ5ANSg2J0
 layout: project
 ---
 
-The Feed the Future Southern Africa Seed Trade Project is designed to increase the availability of high-quality seed of improved varieties to farmers in the Southern Africa Development Community (SADC) to improve yields and increase food security and nutrition. The Seed Trade Project provides diverse assistance to implement the SADC Harmonized Seed Regulations (HSR) to foster seed trade across the region and integrate smaller and isolated national seed markets into a larger, more efficient SADC-wide seed market. The Seed Trade Project also helps policy-makers put in place the mechanisms needed to improve access to high-quality, affordable seed—allowing smallholder farmers and large private sector producers to grow more food at cheaper prices for consumers across the region.
+The Seed Trade Project works to improve the availability of and access to high-quality seed in the Southern African Development Community (SADC) countries. The project supports the SADC Secretariat to harmonize policies and regulations governing seed trade in the SADC Member States. The work facilitates seed trade across the region, integrating small and isolated national markets into one larger SADC-wide market for seeds. This, in turn, increases agricultural productivity and profitability and subsequent food and nutrition security.
 
-Located in Gaborone, Botswana, Pretoria, South Africa, and Lusaka, Zambia, the Seed Trade Project supports activities in three Feed the Future focus countries: Malawi, Mozambique, and Zambia; and is also active in Zimbabwe, an aligned Feed the Future country. However, many regional project activities will benefit all 15 SADC Member States. The Seed Trade Project provides targeted technical assistance to facilitate implementation of SADC’s Harmonized Seed Regulations (HSR).
+The [Feed the Future Enabling Environment for Food Security (2016) Report](https://agrilinks.org/activities/feed-future-enabling-environment-food-security-project) found that small national variations among regulations related to variety release, seed certification, and quality control, and quarantine and phytosanitary regulations lead to increased transaction costs and duplicative procedures, which together not only raise the cost, but also increase the time required to get seeds to farmers.
+
+The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Zimbabwe. However, its work in these targeted project countries has spill-over effects in the remaining 12 SADC Member States.
 
 <iframe src="https://player.vimeo.com/video/212912142" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Sample Activities
 
-* Promote SADC ownership of the harmonized seed regulations (HSR) process by strengthening national and regional institutions.
-* Build the capacity of the SADC Seed Centre to provide technical assistance to national agencies and engage the private sector.
-* Assist the SADC Seed Centre to develop a sustainable business model for HSR.
-* Support the development of SADC regional seed catalog, seed lot certification and SADC package labeling.
-* Synchronize assistance in Malawi, Zambia, and Zimbabwe with the Common Market for Eastern and Southern Africa Seed Harmonisation Implementation Plan.
-* Transfer technology and management practices that [prioritize](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) and scale up regional variety registration and seed certification models.
+* Operationalize the SADC Seed Centre.
+* Engage with seed companies to apply for and register seed varieties on the SADC Seed Variety Catalogue so they can be eligible for regional production and trade.
+* Domesticate and harmonize seed policies within the SADC region.
+* Grant awards to produce and trade high-quality seed and pressure test the SADC Harmonized Seed Regulatory System (HSRS) for scale-up; infrastructure and capacity-building; and raise awareness of the HSRS across the SADC region.
+* Provide institutional and human capacity building for seed delivery including management practices and proper crop inspections.
+* Facilitate technology transfer, including [digitizing seed quality assurance](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) through the development and operationalization of Online Seed Certification Systems and Seed Inspector Trainings, updates to and training on diagnostic and testing equipment.
 
 ### Select Results
 
-* Established the Southern African Development Community (SADC) Seed Committee.
-* Launched the Seed Control and Certification Institute Online Seed Lab in Zambia.
+* Facilitated development and review of the SADC Seed Centre Sustainability Business Model and its Implementation Plan along with the approval of both at the June 2020 Windhoek Meeting of Ministers responsible for Agriculture. The plan focused on activities with the potential to trigger multiple streams of revenue for the SADC Seed Centre.
+* Developed and validated four SADC HSRS manuals for SADC on (1) SADC Variety Testing and Release Technical Guidelines, (2) SADC Technical Guidelines on Variety Testing and Release of Public-Bred Varieties, (3) SADC Regional Quarantine and Phytosanitary Guidelines, (4) SADC Seed Certification and Quality Assurance Guidelines. These documents are critical in regional variety release and certification of seed according to the SADC HSRS standards.
 * Supported [Zambia’s accession](https://www.usaid.gov/southern-africa-regional/news/zambia-first-nation-domesticate-regional-seed-trade-policy) to the SADC Harmonized Seed Regulatory System.
-* [Launched grant](https://clubofmozambique.com/news/the-u-s-government-through-the-feed-the-future-southern-africa-seed-trade-project-launches-grant-to-the-association-for-the-promotion-of-the-seed-sector-in-mozambique/) to the Association for the Promotion of the Seed Sector (APROSE), for the implementation of the Southern African Development Community (SADC) Harmonised Seed Regulatory System in Mozambique.
+* Supported the review, drafting, consulting on, analysis and/or approval of 33 elements of regional and national seed and phytosanitary legislation comprising seed policies, seed and plant health laws, regulations, statutory instruments as well as technical guidelines.
+* Trained more than 2,000 individuals on the SADC HSRS Seed Variety Release, Seed Certification and Quality Assurance, Quarantine and Phytosanitary Measures for Seed, and improved business management practices.
+* Engaged with 14 seed companies and now have 91 seed varieties released regionally and registered on the SADC Variety Catalogue—Maize, Irish Potato, Sorghum, Soybean, Beans, Wheat, Ground Nuts, and Cotton—and they are all eligible for regional production and trade.
+* Partnered with Seed Co. Zambia through a grant to pilot and pressure-test the SADC HSRS’ Seed Labels and Certificates in 2019. Seed Co. Zambia produced 226 megatons of hybrid maize seed, of which 200 megatons was exported to the Democratic Republic of Congo. Three more seed companies—Lake Agriculture of Zambia, Zimbabwe Super Seeds Cooperative Company, and Peacock Seeds of Malawi—engaged in 2020 to further test the SADC HSRS as a second phase pilot.
+* Lake Agriculture, Seed Co. Zambia, and Zimbabwe Super Seeds are scaling up the SADC Seed Labels and Certificates post piloting through seed productions under the SADC HSRS during the 2020/21 planting season using their own resources, with only technical assistance from the Project. Lake Agriculture exported in September 2021 scaling up from 250 megatons in 2020 to 850 megatons in 2021.  
+* Digitized seed quality assurance in Malawi, Mozambique, and Zambia by developing and operationalizing an Online Seed Certification System to the National Seed Authorities and seed producers, both private and public.
+* Transferred 12 technologies and management practices to SADC Member States, including the three online seed certification systems, new management practice/laboratory technology, and new seed varieties.  
+* [Launched grant](https://clubofmozambique.com/news/the-u-s-government-through-the-feed-the-future-southern-africa-seed-trade-project-launches-grant-to-the-association-for-the-promotion-of-the-seed-sector-in-mozambique/) to the Association for the Promotion of the Seed Sector, for the implementation of the SADC Harmonised Seed Regulatory System in Mozambique.
 * Facilitated inaugural Hybrid Maize Seed produced under the Harmonized Seed Regulatory Systems, the [first export](https://www.usaid.gov/southern-africa-regional/news/seed-zambia-fields-democratic-republic-congo) of a nongenetically modified organism hybrid maize seed easily produced in Zambia, but not in the mineral-rich the Democratic Republic of Congo. 
-* Facilitated review of the SADC Seed Centre Sustainability Business Model and its Implementation Plan along with approval of both. The plan focuses on activities with potential to trigger multiple streams of revenue for the SADC Seed Centre, laying the groundwork for self-reliance and long-term sustainability.
-* Trained more than 1,500 individuals on SADC Harmonized Seed Regulatory Systems’ seed variety release, seed certification and quality assurance, quarantine and phytosanitary measures for seed, and improved business management practices.
-* Engaged with 13 seed companies and now have 55 seed varieties registered on the SADC Variety Catalogue—Maize, Irish Potato, Sorghum, Soybean, Beans, Wheat, Ground Nuts, and Cotton—and they are all eligible for regional trade.
-* Transferred a total of six technologies to SADC Member States, including three online seed certification systems, new management practice/laboratory technology, and new seed varieties.
 * Assisted [Zimbabwe Super Seeds](https://www.usaid.gov/southern-africa-regional/news/regional-seed-trade-empowers-farmers-and-bolsters-food-security) to successfully produce and export improved seed under regional guidelines.
 
 <iframe src="https://player.vimeo.com/video/615988209?h=26f0f905b9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe><iframe src="https://player.vimeo.com/video/615988209?h=26f0f905b9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
