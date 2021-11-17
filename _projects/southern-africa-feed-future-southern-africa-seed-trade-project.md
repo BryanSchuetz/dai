@@ -32,6 +32,13 @@ promos:
 - title: 'State-of-the-Art Digital Microscope Positions Zambia for Increased International
     Seed Trade '
   link: https://www.usaid.gov/southern-africa-regional/news/state-art-digital-microscope-positions-zambia-increased-international-seed
+- title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 1)'
+  link: 'https://youtu.be/EYMZvZGRe_g '
+- title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 2)'
+  link: https://youtu.be/7dv5Avn2kMs
+- title: 'VIDEO: What is the Relationship between the OECD Seed Schemes and the SADC
+    HSRS? '
+  link: https://youtu.be/yvJ5ANSg2J0
 layout: project
 ---
 
