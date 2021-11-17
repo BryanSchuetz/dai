@@ -174,7 +174,7 @@
 {%- endunless -%}
 
 {% if page.title contains 'Sustainable Business' %}
-  <div class="bulma" id="slidebox">
+  {% comment %} <div class="bulma" id="slidebox">
       <a class="close">x</a>
       <h2 class="title" style="margin-bottom: 1rem;">Subscribe for Updates on SBG</h2>
       <div>
@@ -189,7 +189,7 @@
           </form>
       </div>
       <script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
-  </div>
+  </div> {% endcomment %}
 {% else %}  
 {%- comment -%} found_item box markup {%- endcomment -%}
 <div id="slidebox">
