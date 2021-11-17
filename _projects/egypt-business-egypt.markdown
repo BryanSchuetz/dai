@@ -1,7 +1,6 @@
 ---
 title: Egypt—Business Egypt
 date: 2021-11-17 15:27:00 Z
-published: false
 summary: 'Business Egypt is building a robust ecosystem of market-led institutions—incubators,
   accelerators, business service providers, financial institutions, youth and women’s
   networks, business associations, public-private forums, one-stop shops—working in
@@ -14,6 +13,7 @@ solutions:
 - Climate
 - Gender and Social Inclusion
 - Workforce Development and Youth
+- Business Environment Reform
 regions: Middle East and North Africa
 country: Egypt
 ---
