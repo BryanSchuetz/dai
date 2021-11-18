@@ -18,6 +18,9 @@ solutions:
 - Supply Chain
 regions:
 - Worldwide
+articles:
+- name: 'Opinion: Why we need locally integrated biodiversity solutions'
+  article_file: https://www.devex.com/news/sponsored/opinion-why-we-need-locally-integrated-biodiversity-solutions-101951
 layout: expert
 ---
 
