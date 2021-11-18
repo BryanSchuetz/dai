@@ -23,7 +23,7 @@ The Facility will promote sustained practice changes in financial services provi
 
 Through generated evidence and focused assistance, the Facility will help CDC investees demonstrate the business case for financial services which would lead to a knock-on effect to other financial service providers (FSPs) in these markets that more visibly support CDC’s impact priorities.
 
-![226.3986.jpg](/uploads/226.3986.jpg)
+![CDC FI TA Facility Response.jpg](/uploads/CDC%20FI%20TA%20Facility%20Response.jpg)
 
 ### Sample Activities
 
