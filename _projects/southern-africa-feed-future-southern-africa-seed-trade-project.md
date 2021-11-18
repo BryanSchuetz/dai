@@ -35,6 +35,12 @@ promos:
 - title: 'VIDEO: What is the Relationship between the OECD Seed Schemes and the SADC
     HSRS? '
   link: https://youtu.be/yvJ5ANSg2J0
+- title: 'VIDEO: USG Transfers Nearly $200,000 in Seed Testing Technology and Lab
+    Equipment to Mozambique'
+  link: https://youtu.be/FjtZI-fwjLo
+- title: 'VIDEO: USAID Supports Maiden Export of Seed Produced and Certified under
+    the SADC Harmonized Seed Regulatory System'
+  link: https://www.linkedin.com/posts/itai-m-50791a31_seed-law-harmonization-in-sadc-gathers-momentum-activity-6634476458905604096-qAe7
 layout: project
 ---
 
