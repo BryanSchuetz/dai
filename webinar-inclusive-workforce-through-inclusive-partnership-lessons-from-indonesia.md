@@ -27,9 +27,6 @@ In this webinar, local partners from the Indonesian government, private sector, 
   <p><strong>Join by phone:</strong> <br>+1-415-655-0002 United States Toll <br>+44-203-478-5290 United Kingdom Toll <br>Access code: 233 034 30872</p>
 </aside>
 
-The DAI-implemented U.S. Agency for International Development-funded [Mitra Kunci Initiative](https://www.dai.com/our-work/projects/indonesia-mitra-kunci-initiative) is working through multi-stakeholder partnerships in a pentahelix framework to improve the enabling environment for an inclusive workforce in Central and East Java. In this YEO Solution Webinar, local partners from Indonesian government, private sector, nongovernmental groups, and media, and civil society will share lessons and tools for leveling access to opportunities. Indonesian youth representatives will also share their personal experiences. Audience members will interact with the panelists to discuss scalable solutions to achieve SDG 8 for youth with disability populations.
-
-
 ## Panelists
 
 <div class="bulma">
