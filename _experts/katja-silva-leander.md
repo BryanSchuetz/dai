@@ -15,6 +15,9 @@ regions:
 - Sub-Saharan Africa
 - Middle East and North Africa
 - Asia and the Pacific
+articles:
+- name: 'Opinion: Promoting gender and climate-smart investment'
+  article_file: https://www.devex.com/news/sponsored/opinion-promoting-gender-and-climate-smart-investment-102072
 layout: expert
 ---
 
