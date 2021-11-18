@@ -1,17 +1,19 @@
 ---
-title: 'Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia'
+title: 'Webinar: Inclusive Workforce Through Inclusive Partnership—Lessons from USAID/Indonesia
+  Mitra Kunci'
+published: false
 layout: default
 regions:
 - Asia and the Pacific
 ---
 
-# Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia
+# Webinar: Inclusive Workforce Through Inclusive Partnership—Lessons from USAID/Indonesia Mitra Kunci
 
 <div>
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Friday, December 3, 8:30 EST</span>
 </div>
 
-![Inclusive Workforce Webinar](/uploads/inclusive-workforce-webinar.png)
+![Webinar Indo.jpg](/uploads/Webinar%20Indo.jpg)
 
 From November 18 to December 10, Making Cents International is hosting a webinar series—the 2030 Youth Economic Opportunities (YEO) Solution Sessions—to facilitate a vibrant set of virtual discussions on key youth employment issues through dialogue about pressing issues, practical tools, and evidence-based solutions. 
 
@@ -73,7 +75,7 @@ In this webinar, local partners from the Indonesian government, private sector, 
           <div class="card is-child bm--card-equal-height">
             <div class="card-image" style="padding: 1rem;">
               <figure class="image is-128x128">
-                <img class="is-rounded" src="/uploads/inclusive-workforce-webinar-madi.png" alt="Placeholder image">
+                <img class="is-rounded" src="/uploads/contact-card-placeholder.jpg" alt="Placeholder image">
               </figure>
             </div>
             <div class="card-content">
