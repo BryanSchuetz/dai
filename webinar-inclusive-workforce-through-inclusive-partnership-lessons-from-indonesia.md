@@ -11,7 +11,7 @@ layout: default
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Friday, December 3, 8:30 EST</span>
 </div>
 
-![Indo webinar.jpg](/uploads/Indo%20webinar.jpg)
+![Indo webinar-57e610.jpg](/uploads/Indo%20webinar-57e610.jpg)
 
 From November 18 to December 10, Making Cents International is hosting a webinar series—the 2030 Youth Economic Opportunities (YEO) Solution Sessions—to facilitate a vibrant set of virtual discussions on key youth employment issues through dialogue about pressing issues, practical tools, and evidence-based solutions. 
 
