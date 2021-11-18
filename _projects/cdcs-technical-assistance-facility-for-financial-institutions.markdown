@@ -1,10 +1,9 @@
 ---
-title: Regional—CDC’s Technical Assistance Facility for Financial Institutions (CDC
-  TAF)
+title: Regional—FSG Plus, CDC’s Technical Assistance Facility for Financial Institutions
 date: 2021-09-21 13:13:00 Z
-summary: 'CDC TAF is a three-year program that supports the CDC Group in addressing
-  two pressing priorities: i) inclusion and ii) climate change and environmental sustainability
-  by catalyzing sustainable practice change in financial institutions.'
+summary: FSG Plus is a three-year program that supports the CDC Group in addressing
+  two pressing priorities—inclusion and climate change and environmental sustainability—by
+  catalyzing sustainable practice change in financial institutions.
 start: 2021
 end: 2024
 client: Foreign, Commonwealth & Development Office
