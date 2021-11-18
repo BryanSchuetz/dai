@@ -41,6 +41,10 @@ promos:
 - title: 'VIDEO: USAID Supports Maiden Export of Seed Produced and Certified under
     the SADC Harmonized Seed Regulatory System'
   link: https://www.linkedin.com/posts/itai-m-50791a31_seed-law-harmonization-in-sadc-gathers-momentum-activity-6634476458905604096-qAe7
+- title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 1)'
+  link: https://youtu.be/EYMZvZGRe_g
+- title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 2)'
+  link: https://youtu.be/7dv5Avn2kMs
 layout: project
 ---
 
@@ -66,15 +70,10 @@ The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Z
 * Facilitated development and review of the SADC Seed Centre Sustainability Business Model and its Implementation Plan along with the approval of both at the June 2020 Windhoek Meeting of Ministers responsible for Agriculture. The plan focused on activities with the potential to trigger multiple streams of revenue for the SADC Seed Centre.
 * Developed and validated four SADC HSRS manuals for SADC on (1) SADC Variety Testing and Release Technical Guidelines, (2) SADC Technical Guidelines on Variety Testing and Release of Public-Bred Varieties, (3) SADC Regional Quarantine and Phytosanitary Guidelines, (4) SADC Seed Certification and Quality Assurance Guidelines. These documents are critical in regional variety release and certification of seed according to the SADC HSRS standards.
 * Supported [Zambia’s accession](https://www.usaid.gov/southern-africa-regional/news/zambia-first-nation-domesticate-regional-seed-trade-policy) to the SADC Harmonized Seed Regulatory System.
-* Supported the review, drafting, consulting on, analysis and/or approval of 33 elements of regional and national seed and phytosanitary legislation comprising seed policies, seed and plant health laws, regulations, statutory instruments as well as technical guidelines.
+* Supported the review, drafting, consulting on, analysis and/or approval of 34 elements of regional and national seed and phytosanitary legislation comprising seed policies, seed and plant health laws, regulations, statutory instruments as well as technical guidelines.
 * Trained more than 2,000 individuals on the SADC HSRS Seed Variety Release, Seed Certification and Quality Assurance, Quarantine and Phytosanitary Measures for Seed, and improved business management practices.
 * Engaged with 14 seed companies and now have 91 seed varieties released regionally and registered on the SADC Variety Catalogue—Maize, Irish Potato, Sorghum, Soybean, Beans, Wheat, Ground Nuts, and Cotton—and they are all eligible for regional production and trade.
-* Partnered with Seed Co. Zambia through a grant to pilot and pressure-test the SADC HSRS’ Seed Labels and Certificates in 2019. Seed Co. Zambia produced 226 metric tons of hybrid maize seed, of which 200 metric tons was exported to the Democratic Republic of Congo. Three more seed companies—Lake Agriculture of Zambia, Zimbabwe Super Seeds Cooperative Company, and Peacock Seeds of Malawi—engaged in 2020 to further test the SADC HSRS as a second phase pilot.
+* Partnered with Seed Co. Zambia through a grant to pilot and pressure-test the SADC HSRS’ Seed Labels and Certificates in 2019. Seed Co. Zambia produced 226 metric tons of hybrid maize seed, of which 200 metric tons were exported to the Democratic Republic of Congo. Three more seed companies—Lake Agriculture of Zambia, Zimbabwe Super Seeds Cooperative Company, and Peacock Seeds of Malawi—engaged in 2020 to further test the SADC HSRS as a second phase pilot.
 * Lake Agriculture, Seed Co. Zambia, and Zimbabwe Super Seeds are scaling up the SADC Seed Labels and Certificates post piloting through seed productions under the SADC HSRS during the 2020/21 planting season using their own resources, with only technical assistance from the Project. Lake Agriculture exported in September 2021 scaling up from 250 metric tons in 2020 to 850 metric tons in 2021.  
 * Digitized seed quality assurance in Malawi, Mozambique, and Zambia by developing and operationalizing an Online Seed Certification System to the National Seed Authorities and seed producers, both private and public.
 * Transferred 12 technologies and management practices to SADC Member States, including the three online seed certification systems, new management practice/laboratory technology, and new seed varieties.  
-* [Launched grant](https://clubofmozambique.com/news/the-u-s-government-through-the-feed-the-future-southern-africa-seed-trade-project-launches-grant-to-the-association-for-the-promotion-of-the-seed-sector-in-mozambique/) to the Association for the Promotion of the Seed Sector, for the implementation of the SADC Harmonised Seed Regulatory System in Mozambique.
-* Facilitated inaugural Hybrid Maize Seed produced under the Harmonized Seed Regulatory Systems, the [first export](https://www.usaid.gov/southern-africa-regional/news/seed-zambia-fields-democratic-republic-congo) of a nongenetically modified organism hybrid maize seed easily produced in Zambia, but not in the mineral-rich the Democratic Republic of Congo. 
-* Assisted [Zimbabwe Super Seeds](https://www.usaid.gov/southern-africa-regional/news/regional-seed-trade-empowers-farmers-and-bolsters-food-security) to successfully produce and export improved seed under regional guidelines.
-
-<iframe src="https://player.vimeo.com/video/615988209?h=26f0f905b9" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
