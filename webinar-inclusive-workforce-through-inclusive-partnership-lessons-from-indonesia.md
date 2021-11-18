@@ -1,7 +1,7 @@
 ---
 title: 'Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia'
-layout: default
 published: false
+layout: default
 ---
 
 # Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia
