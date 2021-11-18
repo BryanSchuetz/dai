@@ -5,7 +5,7 @@ published: false
 layout: default
 ---
 
-# Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia
+# Webinar: Inclusive Workforce Through Inclusive Partnership—Lessons from USAID/Indonesia Mitra Kunci
 
 <div>
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Friday, December 3, 8:30 EST</span>
