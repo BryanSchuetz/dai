@@ -1,6 +1,8 @@
 ---
 title: 'Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia'
 layout: default
+regions:
+- Asia and the Pacific
 ---
 
 # Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia
