@@ -1,11 +1,9 @@
 ---
-title: Regional—CDC’s Technical Assistance Facility for Financial Institutions (CDC
-  TAF)
+title: Regional—FSG Plus, CDC’s Technical Assistance Facility for Financial Institutions
 date: 2021-09-21 13:13:00 Z
-published: false
-summary: 'CDC TAF is a three-year program that supports the CDC Group in addressing
-  two pressing priorities: i) inclusion and ii) climate change and environmental sustainability
-  by catalyzing sustainable practice change in financial institutions.'
+summary: FSG Plus is a three-year program that supports the CDC Group in addressing
+  two pressing priorities—inclusion and climate change and environmental sustainability—by
+  catalyzing sustainable practice change in financial institutions.
 start: 2021
 end: 2024
 client: Foreign, Commonwealth & Development Office
@@ -15,22 +13,22 @@ regions: Worldwide
 country: Nigeria, Pakistan, India, South Africa, Nepal, Ghana
 ---
 
-The CDC Group is the U.K. Government’s development finance institution, supporting the growth of private businesses in Africa and South Asia. The Technical Assistance Facility (TAF) is helping CDC take a systemic approach to providing assistance, delivering broader development impact beyond the direct outputs created by its investees thereby leveraging CDC’s position as a market influencer. 
+CDC Group is the U.K. Government’s development finance institution, supporting the growth of private businesses in Africa and South Asia. 
+FSG Plus is a three-year program that will support CDC in addressing two pressing priorities: i) inclusion and ii) climate change and environmental sustainability by catalyzing sustainable practice change in financial institutions. It will do this through:
 
-CDC TAF is a three-year program that supports the CDC in addressing two pressing priorities: i) inclusion and ii) climate change and environmental sustainability by catalyzing sustainable practice change in financial institutions through:
+* Support to CDC’s Financial Services Group (FSG) investees.
+* Design and delivery of research and events to promote shared learning.
 
-* Support to CDC’s Financial Services Group Investees
-* Design and delivery of research and events to promote shared learning
+The Facility will promote sustained practice changes in financial services providers leading to improvements in the relevance, quality, affordability, and/or accessibility of financial services for target populations, green sectors, and/or small and medium-sized enterprises (SMEs).
 
-CDC TAF promotes sustained practice changes in financial services providers leading to improvements in the relevance, quality, affordability, and/or accessibility of financial services for target populations, green sectors, and/or small and medium-sized enterprises (SMEs).
+Through generated evidence and focused assistance, the Facility will help CDC investees demonstrate the business case for financial services which would lead to a knock-on effect to other financial service providers (FSPs) in these markets that more visibly support CDC’s impact priorities.
 
-CDC TAF seeks to bring about transformational change not only in the financial institutions where CDC has invested but also in the wider financial services market. Through generated evidence and focused assistance, CDC TAF will help CDC investees demonstrate the business case for financial services that more visibly support CDC’s Enhanced Development Impact priorities.
-
-![226.3986.jpg](/uploads/226.3986.jpg)
+![CDC FI TA Facility Response.jpg](/uploads/CDC%20FI%20TA%20Facility%20Response.jpg)
 
 ### Sample Activities
 
-* Co-creating concept notes with CDC’s Financial Services Group and its investees, designing support packages.
-* Create new financial products according to ‘best fit’—tailored to the local market context and the needs of the most vulnerable households, smallholder farmers, and SMEs, and that promote climate finance activities and upgrade environmental, social, and governance standards.
-* Ensure a diverse and balanced portfolio of research, event, and assistance projects and use feedback back loops to maximize the synergies between the projects. 
-* Select, contract and manage the performance of assistance providers.
+* Co-creating concept notes with CDC’s Financial Services Group and its financial institution investees, designing technical assistance projects.
+* Supporting FSPs to develop new financial products according to "best fit"—tailored to the local market context and the needs of the most vulnerable households, smallholder farmers, and SMEs. These products will also promote climate risk management along the pillars of the Task Force on Climate Finance Disclosure, and climate finance and upgrade environmental, social, and governance standards.
+* Ensure a diverse and balanced portfolio of technical assistance projects, and use feedback back loops to maximize the synergies between the projects. 
+* Leverage research findings to share learnings with the broader FSP market.
+* Select, contract, and manage the performance of technical assistance providers.
