@@ -10,7 +10,6 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
 regions: Worldwide
-country: Nigeria, Pakistan, India, South Africa, Nepal, Ghana
 ---
 
 CDC Group is the U.K. Government’s development finance institution, supporting the growth of private businesses in Africa and South Asia. 

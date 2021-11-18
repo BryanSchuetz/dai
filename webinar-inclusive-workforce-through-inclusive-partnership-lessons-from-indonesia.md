@@ -11,9 +11,13 @@ layout: default
 
 ![Inclusive Workforce Webinar](/uploads/inclusive-workforce-webinar.png)
 
-In partnership with Making Cents International, DAI invites you to participate in the interactive Youth Economic Opportunities (YEO) Solution Webinar Session, “Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia.”
- 
-Growing socio-economic inequality and disparity gaps have brought issues of equity and inclusion into sharper focus during the COVID-19 pandemic. In Indonesia, young people with disabilities face increasing challenges in accessing education and training opportunities as well as employment and entrepreneurship. Employers are often unwilling or reluctant to hire youth with disabilities, creating barriers to employment and workplace inclusion. 
+From November 18 to December 10, Making Cents International is hosting a webinar series—the 2030 Youth Economic Opportunities (YEO) Solution Sessions—to facilitate a vibrant set of virtual discussions on key youth employment issues through dialogue about pressing issues, practical tools, and evidence-based solutions. 
+
+As part of the YEO Solution Session Series, DAI is hosting a discussion with panelists from the U.S. Agency for International Development-funded [Mitra Kunci Initiative](https://www.dai.com/our-work/projects/indonesia-mitra-kunci-initiative) that works to achieve a more inclusive Indonesian workforce. 
+
+In Indonesia, young people with disabilities face increasing challenges in accessing education and training opportunities as well as employment and entrepreneurship. Employers are often unwilling or reluctant to hire youth with disabilities, creating barriers to employment and workplace inclusion. The DAI-implemented USAID Mitra Kunci Initiative is working through multi-stakeholder partnerships in a pentahelix framework to improve the enabling environment for an inclusive workforce in Central and East Java. 
+
+In this webinar, local partners from the Indonesian government, private sector, nongovernmental groups, media, and civil society will share lessons and tools for leveling access to opportunities. Indonesian youth representatives will also share their personal experiences. Audience members will interact with the panelists to discuss scalable solutions to achieve SDG 8 for youth with disability populations.
 
 <aside>
   <h2>Joining Details</h2>
@@ -21,9 +25,6 @@ Growing socio-economic inequality and disparity gaps have brought issues of equi
   <p><strong>Join by video system:</strong> <br>Dial 23303430872@dai.webex.com <br>You can also dial 173.243.2.68 and enter your meeting number.</p>
   <p><strong>Join by phone:</strong> <br>+1-415-655-0002 United States Toll <br>+44-203-478-5290 United Kingdom Toll <br>Access code: 233 034 30872</p>
 </aside>
-
-The DAI-implemented U.S. Agency for International Development-funded [Mitra Kunci Initiative](https://www.dai.com/our-work/projects/indonesia-mitra-kunci-initiative) is working through multi-stakeholder partnerships in a pentahelix framework to improve the enabling environment for an inclusive workforce in Central and East Java. In this YEO Solution Webinar, local partners from Indonesian government, private sector, nongovernmental groups, and media, and civil society will share lessons and tools for levelling access to opportunities. Indonesian youth representatives will also share their personal experiences. Audience members will interact with the panellists to discuss scalable solutions to achieve SDG 8 for youth with disability populations.
-
 
 ## Panelists
 
