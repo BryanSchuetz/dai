@@ -11,6 +11,9 @@ solutions:
 - Environment
 regions:
 - Worldwide
+articles:
+- name: 'Opinion: Why we need locally integrated biodiversity solutions'
+  article_file: https://www.devex.com/news/sponsored/opinion-why-we-need-locally-integrated-biodiversity-solutions-101951
 ---
 
 Richard Heap is a Senior Consultant for Climate at DAI. Since joining DAI in 2017, Richard has been involved in some of our most high-profile programs in the climate and energy sector, most recently acting as Senior Project Manager on the U.K Foreign, Commonwealth & Development Office [Nepal Renewable Energy Programme](https://www.dai.com/our-work/projects/nepal-renewable-energy-programme) (NREP). Prior to working in the Climate Business, Richard was a Senior Consultant in DAI’s U.K. Resilience portfolio, overseeing the implementation of climate projects under the U.K’s Resilience and Response to Crises framework.
