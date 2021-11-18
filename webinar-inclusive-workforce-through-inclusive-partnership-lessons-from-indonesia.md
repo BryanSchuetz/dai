@@ -1,7 +1,6 @@
 ---
 title: 'Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia'
 layout: default
-published: false
 ---
 
 # Webinar: Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia
@@ -10,7 +9,7 @@ published: false
   <span style="display: block; margin-bottom: 1rem;"><strong>Date:</strong> Friday, December 3, 8:30 EST</span>
 </div>
 
-![Inclusive Workforce Webinar](/uploads/inclusive-workforce-webinar.jpg)
+![Inclusive Workforce Webinar](/uploads/inclusive-workforce-webinar.png)
 
 In partnership with Making Cents International, DAI invites you to participate in the interactive Youth Economic Opportunities (YEO) Solution Webinar Session, “Inclusive Workforce Through Inclusive Partnership: Lessons from Indonesia.”
  
@@ -71,7 +70,7 @@ The DAI-implemented U.S. Agency for International Development-funded [Mitra Kunc
           <div class="card is-child bm--card-equal-height">
             <div class="card-image" style="padding: 1rem;">
               <figure class="image is-128x128">
-                <img class="is-rounded" src="/uploads/contact-card-placeholder.jpg" alt="Placeholder image">
+                <img class="is-rounded" src="/uploads/inclusive-workforce-webinar-madi.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="card-content">
