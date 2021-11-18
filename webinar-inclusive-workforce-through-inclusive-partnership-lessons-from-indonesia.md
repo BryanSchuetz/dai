@@ -56,7 +56,7 @@ In this webinar, local partners from the Indonesian government, private sector, 
         <div class="card is-child bm--card-equal-height">
           <div class="card-image" style="padding: 1rem;">
             <figure class="image is-128x128">
-              <img class="is-rounded" src="/uploads/inclusive-workforce-webinar-adi.jpg" alt="Placeholder image">
+              <img class="is-rounded" src="/uploads/inclusive-workforce-webinar-adi.JPG" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -75,7 +75,7 @@ In this webinar, local partners from the Indonesian government, private sector, 
           <div class="card is-child bm--card-equal-height">
             <div class="card-image" style="padding: 1rem;">
               <figure class="image is-128x128">
-                <img class="is-rounded" src="/uploads/contact-card-placeholder.jpg" alt="Placeholder image">
+                <img class="is-rounded" src="/uploads/inclusive-workforce-webinar-madi.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="card-content">
