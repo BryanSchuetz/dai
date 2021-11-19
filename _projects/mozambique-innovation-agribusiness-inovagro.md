@@ -22,6 +22,9 @@ promos:
 - title: Savings Groups Enabling Hundreds of Smallholders in Mozambique to Buy Certified
     Seed
   link: https://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree
+- title: 'IFPRI REPORT: Impacts of Market Systems Development Programs: The Case of
+    InovAgro'
+  link: https://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/134698/filename/134910.pdf
 layout: project
 ---
 
