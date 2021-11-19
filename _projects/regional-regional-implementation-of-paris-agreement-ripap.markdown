@@ -10,6 +10,7 @@ end: 2018
 client: European Union
 solutions:
 - Environment
+- Climate
 regions: Eastern Europe and Central Asia
 country: Regional
 ---
