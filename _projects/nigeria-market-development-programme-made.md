@@ -20,6 +20,8 @@ promos:
 - title: Using Market-Driven Strategies to Reduce Poverty and Human Trafficking in
     Nigeria
   link: https://dai-global-developments.com/articles/using-market-driven-strategies-to-reduce-poverty-and-human-trafficking-in-nigeria
+- title: The Partnership Initiatives in the Niger Delta Foundation Awards DAI
+  link: https://www.dai.com/news/niger-delta-foundation-awards-dai
 layout: project
 ---
 
