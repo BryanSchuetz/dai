@@ -1,5 +1,5 @@
 ---
-title: The Partnership Initiatives in the Niger Delta Foundation Awards DAI
+title: Partnership Initiatives in the Niger Delta Foundation Awards DAI
 date: 2021-11-19 09:08:00 Z
 solutions:
 - Economic Growth
@@ -15,7 +15,7 @@ social-image: "/uploads/sm%20pind%20award.jpg"
 country: Nigeria
 ---
 
-DAI has been recognized by the [Partnership Initiatives in the Niger Delta (PIND)](https://pindfoundation.org/) with an award as part of the foundation's 10-year anniversary celebration of making a difference by reducing poverty, powering coastal communities, catalyzing youth employment, fostering stability, empowering local organizations and enabling development in the Niger Delta region. 
+[Partnership Initiatives in the Niger Delta (PIND)](https://pindfoundation.org/) recognized DAI with an award as part of the foundation's anniversary celebration. For the past 10 years, PIND as worked to make a difference in the Niger Delta region by reducing poverty, powering coastal communities, catalyzing youth employment, fostering stability, empowering local organizations and enabling development.
 
 DAI, through the [Market Development in the Niger Delta (MADE) project](https://www.dai.com/our-work/projects/nigeria-market-development-programme-made), phases I and II, worked in all nine Niger Delta states to promote inclusive, pro-poor growth for farmers and entrepreneurs. 
 
