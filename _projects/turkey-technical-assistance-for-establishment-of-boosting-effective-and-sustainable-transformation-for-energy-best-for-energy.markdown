@@ -11,6 +11,7 @@ client: European Union
 solutions:
 - Environment
 - Energy
+- Climate
 regions: Eastern Europe and Central Asia
 country: Turkey
 ---
