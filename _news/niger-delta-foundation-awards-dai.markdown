@@ -1,7 +1,6 @@
 ---
 title: Niger Delta Foundation Awards DAI
 date: 2021-11-19 09:08:00 Z
-published: false
 solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
@@ -12,6 +11,7 @@ summary: 'DAI has been recognized by the [Partnership Initiatives in the Niger D
   10-year anniversary celebration of making a difference by reducing poverty, powering
   coastal communities, catalyzing youth employment, fostering stability, empowering
   local organizations and enabling development in the Niger Delta region. '
+social-image: "/uploads/sm%20pind%20award.jpg"
 country: Nigeria
 ---
 
