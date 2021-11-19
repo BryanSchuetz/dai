@@ -9,6 +9,7 @@ end: 2023
 client: European Union
 solutions:
 - Environment
+- Climate
 regions: Eastern Europe and Central Asia
 country: Turkey
 ---

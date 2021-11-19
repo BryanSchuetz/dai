@@ -12,6 +12,7 @@ client: European Union
 solutions:
 - Environment
 - Energy
+- Climate
 regions: Middle East and North Africa
 country: Egypt
 ---
