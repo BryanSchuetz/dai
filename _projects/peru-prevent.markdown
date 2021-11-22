@@ -1,8 +1,8 @@
 ---
 title: Peru—Prevent activity
 date: 2019-10-03 13:57:00 Z
-summary: The Peru Prevent project helps Peruvian institutions and actors more effectively
-  manage the country’s natural resources for future generations.
+summary: Peru Prevent helps Peruvian institutions and actors more effectively manage
+  the country’s natural resources for future generations.
 start: 2019
 end: 2024
 client: U.S. Agency for International Development
