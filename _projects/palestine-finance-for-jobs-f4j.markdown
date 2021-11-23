@@ -30,7 +30,7 @@ promos:
 
 Palestine needs more sustainable and productive employment opportunities to accommodate the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s insecure business environment with high costs and risks has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and Palestinian Authority has undermined innovation and growth.
 
-Implemented on behalf of the Palestinian Ministry of Finance and Planning (MOFP), the Finance for Jobs project (F4J) addresses constraints to job growth in the West Bank and Gaza by developing innovative financing [instruments](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) to promote business investment and job training.
+Implemented on behalf of the Palestinian Ministry of Finance (MOF), the Finance for Jobs project (F4J) addresses constraints to job growth in the West Bank and Gaza by developing innovative financing [instruments](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) to promote business investment and job training.
 
 ![W4J-pic.jpg](/uploads/W4J-pic.jpg)
 
@@ -39,7 +39,7 @@ Implemented on behalf of the Palestinian Ministry of Finance and Planning (MOFP)
 * Design, test, and implement three innovative financial instruments.
 * Solicit proposals from investment funds for cost-shared financing to improve performance of enterprises, and assist selected funds in enhancing their overall pipeline of invested businesses.
 * With partner Social Finance, [build a financial model for a development impact bond (DIB)](https://menafn.com/1099229278/EBRD-addressing-youth-unemployment-in-West-Bank-and-Gaza) that meets the needs of the Palestinian Authority, service providers, employers, and investors, and identify DIB investors.
-* Develop a social cost-benefit analysis tool to assist the MOFP and private-sector stakeholders in identifying industries and businesses with high job-creation potential for investment.
+* Develop a social cost-benefit analysis tool to assist the MOF and private-sector stakeholders in identifying industries and businesses with high job-creation potential for investment.
 
 ### Select Results
 
