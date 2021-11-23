@@ -31,3 +31,4 @@ Ukraine is engaged in an ongoing hybrid, asymmetric, and kinetic struggle agains
 ### Select Results
 
 * Supported five universities to adopt computer science courses in their mainstream curricula, enrolling 368 students. The project developed and promoted the courses and will continue to facilities partnerships with higher education institutions.
+* Supported supported the Ukraine National Security and Defense Council in the October 2021 international conference "Countering Cyber Threats in the Modern Security Environment." 
