@@ -27,3 +27,7 @@ Ukraine is engaged in an ongoing hybrid, asymmetric, and kinetic struggle agains
 * Establish a communications and liaison office to increase stakeholder engagement and coordination.
 * Perform large-scale tabletop exercises to test and reinforce developed response procedures to cyberattacks against critical infrastructure.
 * Build the capacity of security operations center analysts, system designers, risk managers, and auditors on topics that are relevant to their responsibilities.
+
+### Select Results
+
+* Supported five universities to adopt computer science courses in their mainstream curricula, enrolling 368 students. The project developed and promoted the courses and will continue to facilities partnerships with higher education institutions.
