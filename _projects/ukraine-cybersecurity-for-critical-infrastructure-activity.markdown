@@ -32,3 +32,4 @@ Ukraine is engaged in an ongoing hybrid, asymmetric, and kinetic struggle agains
 
 * Supported five universities to adopt computer science courses in their mainstream curricula, enrolling 368 students. The project developed and promoted the courses and will continue to facilities partnerships with higher education institutions.
 * Supported supported the Ukraine National Security and Defense Council in the October 2021 international conference "Countering Cyber Threats in the Modern Security Environment." 
+* Hosted a Certified Information Security Manager training covering establishing and maintaining an information security governance framework; managing information risk to an acceptable level based organizational goals and objectives; developing and maintaining an information security program that identifies, manages, and protects assets; and, developing the capability to detect, investigate, respond to and recover from information security incidents. 
