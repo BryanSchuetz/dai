@@ -28,3 +28,9 @@ Prevent supports Peru’s problem-solvers to work more effectively as catalysts,
 * Implement capacity-building plan for justice sector operators and collaborating administrative agencies.
 * Build monitoring and reporting capabilities in and around protected areas.
 * Leverage private sector resources to support artisanal and small-scale gold mining formalization efforts and timber traceability.
+
+### Select Results
+
+* Contributed to the creation by the government of a High-Level Commission for the Prevention and Reduction of Environmental Crimes and the establishment of an Environmental Crimes Unit to improve inter-institutional coordination to safeguard the country’s natural heritage, led by the Ministry of Environment. 
+* Supported new technological solutions used by the national authorities to better supervise compliance of forest resource use in real-time. More than 400 indigenous people have been trained in the use of drones and GPS to monitor and protect their territories from illegal logging in the Amazon. 
+* Developed a comprehensive communication and awareness-raising strategy involving campaigning and capacity building for dozens of journalists nationwide—yielding hundreds of news stories about the conservation of the Amazon.
