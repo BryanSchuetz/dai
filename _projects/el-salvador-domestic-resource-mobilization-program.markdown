@@ -36,3 +36,8 @@ USAID’s Domestic Resource Mobilization Program is supporting local and nationa
 * Increased social spending from 7.1 percent of GDP in 2007 to 9.2 percent in 2017.
 * Increased public spending in education from 3.38 percent in 2007 to 3.85 percent in 2017.
 * Increased public spending in health from 2 percent in 2007 to 2.5 percent in 2017.
+* Reduced value-added tax evasion from 25.7 percent of potential value-added tax revenues in 2014 to 17.6 percent in 2019. 
+* Increased tax revenues from 16.1 percent of GDP in 2006 to 18.3 in 2019.
+* Increased social spending from 6.9 percent of GDP in 2006 to 9.4 percent in 2019.
+* Our work has supported the supreme audit authority in reforming the audit practices to improve accountability and transparency practices—increasing the agency’s productivity by 500 percent. 
+* Implemented a call center for the National Administration of Aqueducts and Sewers that monitors all technical and environmental issues related to operations. The agency's productivity increased initially by more than 100 percent.
