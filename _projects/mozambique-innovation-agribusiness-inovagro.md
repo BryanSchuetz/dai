@@ -15,15 +15,19 @@ regions:
 country:
 - Mozambique
 promos:
-- title: 'The Complexity of Building a Market for Certified Seeds: A Case Study from
-    Mozambique'
-  link: https://dai-global-developments.com/articles/the-complexity-of-building-a-market-for-certified-seeds-a-case-study-from-mozambique
-- title: Savings Groups Enabling Hundreds of Smallholders in Mozambique to Buy Certified
-    Seed
-  link: https://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree
 - title: 'IFPRI REPORT: Impacts of Market Systems Development Programs: The Case of
     InovAgro'
   link: https://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/134698/filename/134910.pdf
+- title: 'VIDEO: Seed System Development'
+  link: https://player.vimeo.com/external/652071458.hd.mp4?s=1c318ad443a490c0ec8238c576e06ebd5347b37c&profile_id=174
+- title: 'VIDEO: Output Marketing'
+  link: https://player.vimeo.com/external/652067679.hd.mp4?s=ee2484abfe2dc008393c47d77c7d190fed04ef46&profile_id=174
+- title: Savings Groups Enabling Hundreds of Smallholders in Mozambique to Buy Certified
+    Seed
+  link: https://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree
+- title: 'The Complexity of Building a Market for Certified Seeds: A Case Study from
+    Mozambique'
+  link: https://dai-global-developments.com/articles/the-complexity-of-building-a-market-for-certified-seeds-a-case-study-from-mozambique
 layout: project
 ---
 
