@@ -4,8 +4,9 @@ date: 2021-12-01 17:39:00 Z
 published: false
 solutions:
 - Sustainable Business
-summary: MozUp delivers a variety of supplier development services to small and medium-sized
-  enterprises (SMEs) and has already hosted 72 seminars and business training sessions
+summary: In November, MozUp, the Enterprise Development Centre in Mozambique, officially
+  launched its Maputo office. MozUp delivers a variety of supplier development services
+  to small and medium-sized enterprises.
 social-image: "/uploads/Vanderleia%201%5B88%5D-51c2c9.png"
 country: Mozambique
 ---
