@@ -2,8 +2,8 @@
 title: Albania—Integrated Policy Management Groups (IPMGs) for Policy Dialogue and
   Coordination
 date: 2019-11-18 13:30:00 Z
-summary: DAI is providing technical assistance to the Integrated Policy Management
-  Groups (IPMGs) for policy dialogue and coordination in Albania to improve institutional
+summary: DAI provided technical assistance to the Integrated Policy Management Groups
+  (IPMGs) for policy dialogue and coordination in Albania to improve institutional
   mechanisms, capacities, and procedures for strategic and integrated planning at
   central and sector levels.
 start: 2019
@@ -19,9 +19,9 @@ Albania has been on the path to European Union (EU) accession since 2014, when t
 
 Integrated Policy Management Groups (IPMGs) and Sector Steering Committees (SSC) were established by the Government of Albania within priority areas and sectors to move the country closer to accession. IPMGs focus on cooperation at the steering level in good governance and public administration; competitiveness and investment; employment and skills; and integrated land management. SSCs focus on cooperation at the steering level within sectors of special importance for reforms and inter-institutional coordination, including justice reform; home affairs; public financial management; interconnectivity; and environment, climate, and waste management.
 
-Each IMPG/SSC has a technical secretariat. The Department for Development and Good Governance (DDGG), within the Albania Prime Minister’s Office, acts as central secretariat to support the overall IMPG mechanism, along with the Ministry of Finance and Economy and Ministry for Europe and Foreign Affairs. 
+Each IMPG/SSC has a technical secretariat. The Department for Development and Good Governance (DDGG), within the Albania Prime Minister’s Office, acts as a central secretariat to support the overall IMPG mechanism, along with the Ministry of Finance and Economy and Ministry for Europe and Foreign Affairs. 
 
-DAI is providing technical assistance to the Integrated Policy Management Groups (IPMGs) for policy dialogue and coordination in Albania to improve institutional mechanisms, capacities, and procedures for strategic and integrated planning at central and sector levels.
+DAI provided technical assistance to the Integrated Policy Management Groups (IPMGs) for policy dialogue and coordination in Albania to improve institutional mechanisms, capacities, and procedures for strategic and integrated planning at central and sector levels.
 
 ![albania.jpg](/uploads/albania.jpg)
 
