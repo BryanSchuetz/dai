@@ -25,7 +25,7 @@ DAI is helping the FCDO achieve its vision by implementing the Clean Energy Prog
 
 The program has chosen EPI (Energía, Participación e Inclusión) as the delivery model, enhancing the skills, capabilities, and resources of the Mexican energy sector by co-creating solutions that innovate and drive inclusive and sustainable growth.
 
-Together with local partners, EPI offers targeted technical training and soft skills development, inter¬national certifications, and best practices exchanges. This helps to build local supply chains, developing skills and expertise to deliver lasting benefits to local people. EPI also promotes gender inclusion through specialized activities that aim to increase women’s participa¬tion in the energy industry.
+Together with local partners, EPI offers targeted technical training and soft skills development, international certifications, and best practices exchanges. This helps to build local supply chains, developing skills and expertise to deliver lasting benefits to local people. EPI also promotes gender inclusion through specialized activities that aim to increase women’s participa¬tion in the energy industry.
 
 The original geographic scope included setting hubs in Mexico City, Tabasco, and Jalisco. However, due to the COVID-19 pandemic and at the request of the BEMC, the program adapted its course offer to online delivery, resulting in having beneficiaries from at least 16 states, expanding its original geographical scope while maintaining close relationships with government institutions of Jalisco and Tabasco.
 
