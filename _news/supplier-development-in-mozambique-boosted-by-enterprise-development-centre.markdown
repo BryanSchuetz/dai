@@ -24,7 +24,7 @@ MozUP provides access to training on Area 4’s web-based Supplier Registration 
 Vanderleia Mamade, who participated in several MozUp activities, is the executive director of Lia & Luana, a catering company. Before the end of 2020, her company won its largest ever contract with a consortium of large companies to provide 1,500 meals per day. In such uncertain times, with the challenge of maintaining a workforce of more than 120 employees, winning the contract held special meaning.
 
 ![an imnage](/uploads/Vanderleia%201%5B88%5D.png)
-`Vanderleia Mamade, Executive Director of Lia & Luana at the Launch event`
+`Vanderleia Mamade, Executive Director of Lia & Luana at the Launch event. Photo: MozUp`
 
 “The various competencies and knowledge that we developed with MozUp’s support were fundamental to our success in this proposal. Our proposal ended up being very competitive, and we applied concepts we learned from MozUp. The concepts related to food, health, and occupational safety were of great value because these were important tender criteria,” said Vanderleia.
 
