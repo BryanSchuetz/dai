@@ -5,7 +5,7 @@ summary: Innovation for Agribusiness works to increase revenue for small farmers
   northern Mozambique by promoting the development of inclusive and sustainable market
   systems.
 start: 2010
-end: 2022
+end: 2021
 client: Swiss Agency for Development and Cooperation
 solutions:
 - Economic Growth
@@ -28,7 +28,7 @@ promos:
 layout: project
 ---
 
-Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. The Swiss Agency for Development Cooperation is working with Mozambique’s government to increase farmers’ incomes in this region through the Innovation for Agribusiness ([InovAgro](https://beamexchange.org/practice/programme-index/278/)) project. Launched in 2011, InovAgro promotes the development of inclusive and sustainable market systems, also known as Making Markets Work for the Poor.
+Small farms have traditionally dominated agricultural production in northern Mozambique, providing primarily subsistence output and offering limited commercial opportunities. The Swiss Agency for Development Cooperation worked with Mozambique’s government to increase farmers’ incomes in this region through the Innovation for Agribusiness ([InovAgro](https://beamexchange.org/practice/programme-index/278/)) project. Launched in 2011, InovAgro promotes the development of inclusive and sustainable market systems, also known as Making Markets Work for the Poor.
 
 InovAgro III builds on the program’s previous phases by further strengthening the capacity of seed companies and input suppliers to provide extension services to small farmers across five target value chains. The project also works with rural communities to [improve their access to credit](http://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree/) and their land tenure security as a means to increasing agricultural productivity. In addition, [InovAgro](https://www.eda.admin.ch/deza/en/home/countries/mozambique.par2_projectfilter_page1.html/content/dezaprojects/SDC/en/2011/7F06353/phase3) collaborates with local and national government stakeholders to promote agricultural and economic reforms.
 

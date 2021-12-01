@@ -15,7 +15,7 @@ social-image: "/uploads/sm%20pind%20award.jpg"
 country: Nigeria
 ---
 
-[Partnership Initiatives in the Niger Delta (PIND)](https://pindfoundation.org/) recognized DAI with an award as part of the foundation's 1anniversary celebration. For the past 10 years, PIND has worked to make a difference in the Niger Delta region by reducing poverty, powering coastal communities, catalyzing youth employment, fostering stability, empowering local organizations, and enabling development.
+[Partnership Initiatives in the Niger Delta (PIND)](https://pindfoundation.org/) recognized DAI with an award as part of the foundation's 10th anniversary celebration. For the past 10 years, PIND has worked to make a difference in the Niger Delta region by reducing poverty, powering coastal communities, catalyzing youth employment, fostering stability, empowering local organizations, and enabling development.
 
 The award was recently received by DAI Nigeria Country Director [Dr. Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah) for DAI’s partnership in reducing poverty through market linkages, jobs facilitation, and increasing incomes in the Niger Delta.
 
