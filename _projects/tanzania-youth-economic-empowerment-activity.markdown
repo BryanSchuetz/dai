@@ -43,5 +43,6 @@ To date, the project has reached 28,700 youth, created 2,840 jobs, helped youth 
 * Helped 1.226 young people to become more active in decision-making bodies. 
 * Created 2,840 formal and informal jobs.
 * Created 149 young savings and lending groups that, collectively have saved about $365,200.
+* Supported a youth group from Iringa, which won a prize for empowering women entrepreneurs at an exhibition convened by the Minister of State in the President's Office of Regional Administration and Local Government. The group’s 20 members, who received business skills management and food processing training from the project, process milk into yogurt which they sell to earn an income.
 
 <iframe src="https://player.vimeo.com/video/430347387" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
