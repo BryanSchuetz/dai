@@ -2,11 +2,10 @@
 title: Kevin Carlucci
 date: 2016-01-21 22:18:00 Z
 lastname: Carlucci
-summary: Kevin Carlucci focuses on resource use efficiency (water, energy) and governance
-  of land and its natural resources. He has particular interest in environmental finance,
-  such as payments for ecosystem services, and in working to demystify how to access
-  climate adaptation funding.
-job-title: Senior Global Practice Specialist, Environment and Land
+summary: 'Kevin Carlucci is a development professional with more than 20 years of
+  experience across a diverse set of disciplines, including finance, natural resource
+  management, economic policy reform, and emerging market economic development. '
+job-title: Principal Global Practice Specialist, Economic Growth
 image: https://assetify-dai.com/experts/Kevin%20inner.jpg
 solutions:
 - Energy
@@ -22,9 +21,9 @@ regions:
 layout: expert
 ---
 
-As a behavioral economist, Kevin's work has focused on resource use efficiency (water, energy) and governance of land and its natural resources. He has particular interest in environmental finance, such as payments for ecosystem services, and in working to demystify how to access climate adaptation funding. A big believer in learning through data and illustrations, he has a keen interest in incorporating low-cost data collection technologies in the field and using data visualization as a means of community engagement.
-
-Fluent in Spanish, Kevin has worked across Asia, Latin America, and Africa in technical areas such as watershed management, land use and spatial planning, forestry, land tenure, biodiversity conservation, energy efficiency, water utility financing, and climate change adaptation. As the technical backstop for the Mekong River Basin Adaptation and Resilience to Climate Change program, he helped develop a model to integrate downscaled climate science data with local knowledge to prioritize and monitor adaptation activities. He also led the research and authored the U.S. Agency for International Development's first "how to" design manual for integrating climate change adaptation into biodiversity conservation activities.
+Kevin Carlucci is a development professional with more than 20 years of experience across a diverse set of disciplines, including finance, natural resource management, economic policy reform, and emerging market economic development. He led the establishment of DAI's first Climate Change practice, learning alongside the U.S. Agency for International Development how climate programming would work in the 2010s. After years of supporting biodiversity, water, and climate programs, in 2018 he moved to Maputo to serve in a technical role—and eventually, Chief of Party—for the [Mozambique SPEED+ program](https://www.dai.com/our-work/projects/mozambique-support-program-economic-and-enterprise-development-speed), which focused on policy reform in agriculture, land tenure, trade, power, water, and biodiversity. He currently plays a hybrid role as Project Director in the Africa region and Practice Specialist in the Economic Growth sector’s Resilience, Equity & Inclusion practice.
+ 
+With a keen interest in integrated programs, Kevin now brings his cross-sectoral expertise to bear on resilience programming that incorporates a mix of social, environmental, and economic safeguards that are critical to weathering all shocks, pandemics to extreme weather events. He has a personal interest in integrated water resource management (IWRM), climate finance, and improving resource use efficiency (water, energy). Proficient in Portuguese and Spanish, Kevin has worked across Latin America, Africa, and Asia.
 
 * M.A., behavioral economics, Center for Latin American Studies, Vanderbilt University
 * B.A., economics and business, Rhodes College
