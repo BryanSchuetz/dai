@@ -1,6 +1,6 @@
 ---
 title: DAI Acquires International Asset Management Firm, MicroVest
-date: 2021-12-01 01:00:00 Z
+date: 2021-12-02 01:00:00 Z
 is_featured: false
 solutions:
 - Development Finance
