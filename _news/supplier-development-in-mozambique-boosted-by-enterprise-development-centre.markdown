@@ -1,7 +1,6 @@
 ---
 title: Supplier Development in Mozambique boosted by Enterprise Development Centre
-date: 2021-12-01 17:39:00 Z
-published: false
+date: 2021-12-02 17:39:00 Z
 solutions:
 - Sustainable Business
 summary: In November, MozUp, the Enterprise Development Centre in Mozambique, officially
