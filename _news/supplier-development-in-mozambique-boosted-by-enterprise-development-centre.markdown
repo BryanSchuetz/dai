@@ -1,6 +1,6 @@
 ---
 title: Supplier Development in Mozambique boosted by Enterprise Development Centre
-date: 2021-12-02 17:39:00 Z
+date: 2021-12-02 05:00:00 Z
 solutions:
 - Sustainable Business
 regions: Sub-Saharan Africa
