@@ -62,11 +62,12 @@ Building on 20 years of experience leading projects in Honduras, DAI combines be
  
 **Community Policing:** 
 
-* Supported 270 National Police community relations activities that attracted 44,760 residents of 29 high-crime barrios, with double these activities planned through 2020;
+* Supported 962 National Police community relations activities that attracted 72,681 residents of 29 high-crime barrios.
 * Supported 25 trainings for 570 people, mostly police officers, on human rights and community policing issues, and produced curriculum to be instituted by the National Police Academy. 
  
 **Protecting Women:** 
 
+* Empowered five civil society organizations to provide 1,125 gender-based violence survivors with psychological support and legal counsel, and strengthened working relations between those organizations, police, prosecutors, and government service providers. 
 * Designed training to support female survivors of violence now incorporated into National Police Academy coursework. 
 * Fostered National Police initiative to develop a Gender Policy. 
 * Supported National Police Mother’s Day-themed information fairs that provided gender-based violence information to 800 people, mostly women, in Tegucigalpa, San Pedro Sula, and La Ceiba. 
