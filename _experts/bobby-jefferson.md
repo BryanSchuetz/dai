@@ -3,7 +3,8 @@ title: Bobby Jefferson
 date: 2016-01-21 22:18:00 Z
 lastname: Jefferson
 summary: Bobby Jefferson, a leader in the field of information and communications
-  technology for development, works to expand DAI's range of digital health services.
+  technology for development and global health, is Head of Diversity, Equity, Engagement,
+  and Inclusion at DAI.
 job-title: Head of Diversity, Equity, Engagement, and Inclusion (DEEI)
 image: https://assetify-dai.com/experts/bobby%20jeffersonInner.jpg
 solutions:
@@ -16,9 +17,15 @@ solutions:
 layout: expert
 ---
 
-Bobby Jefferson, a [leader](https://www.youtube.com/watch?v=jgPFVXSdtWQ) in information and communications technology for development (ICT4D), works to expand DAI’s range of digital health services. Bobby serves as Board advisor for health technology startups THINKMD, ClickMedix, CodePartners, DataElevates, Covelocity.Health, and MobileODT. He is responsible for sourcing, evaluating, and implementing technology startup investment opportunities. He performs technology reviews of early-stage companies, startup innovations, and early-stage social venture to apply digital health and cybersecurity to address key issues in international development and LMIC. He has performed technology due diligence of pre-revenue startups, early-round innovators, niche health solutions in collaboration with incubators in Maryland, Massachusetts, and North Carolina. He uses private-sector digital health, interoperability, and cybersecurity solutions to support international development projects for the U.S. Agency for International Development and Centers for Disease Control and Prevention.
- 
-He has roles as a competition judge, technology reviewer, and judge of early-stage funding, including the Innovation to Action Challenge, Global Health Innovation Prize, and InnovateHealth@Yale Prize. In his role as Board Advisor or Board Observer during (post-deal) implementation, is to protect the investment, assess the soundness of the business model and technology, and foster the venture’s impact to achieve a global scale.
+Bobby Jefferson, previously Vice President and Chief Technology Officer for DAI Global Health, helped establish DAI's successful digital and global health teams, and frequently represents the company at the highest levels, both in technical forums and more broadly.
+
+Bobby is steeped in the issues of racial and social justice. He has reflected on those issues for decades as a professional in our industry and beyond, and over the past 18 months in particular he has lent his insights to DAI's Racial and Social Justice Initiative (RSJI), serving on the RSJI Steering Committee since its inception and building strong relationships with the firm's affinity groups.
+
+In 2020, he joined the Board of Directors of the Society for International Development-Washington, D.C. Chapter, a position to which he was re-elected in 2021. As a member of SID-Washington’s Executive Committee, Bobby has been instrumental in shaping the organization’s strategic thinking on Diversity, Equity, and Inclusion (DEI): chairing the DEI Committee, establishing the Race, Ethnicity, and Diversity Workgroup, and setting in motion the DEI Strategic Plan. Bobby is also co-chair of the Council of International Development Companies’ new DEI Committee and participates in British Expertise International’s Equity, Diversity, & Inclusion Working Group.
+
+Before joining DAI in 2016, he served as Vice President and Director of the Center for Development Informatics at Palladium (formerly Futures Group), where he built a practice focused on [ICT](https://www.youtube.com/watch?v=jgPFVXSdtWQ) for global health and adjacent sectors, leading a staff of 120 in 10 countries. 
+
+He serves as a board member and advisor for enterprises including THINKMD, ClickMedix, DataElevates, Covelocity.Health, SimPrints, the Mentor Capital Network, and the gBeta MedTech Black Founders Accelerator program, where he mentors Black entrepreneurs and their startups.
 
 * B.S., computer science, American University
 * Diversity, Equity, and Inclusion Committee Chair, SID Washington
