@@ -5,6 +5,7 @@ is_featured: false
 solutions:
 - Development Finance
 summary: 'DAI announced today that it has acquired MicroVest Capital Management (“MicroVest”), one of the world’s leading lenders to responsible finance institutions—an acquisition that will expand the capabilities of DAI’s investment management arm, DAI Capital.'
+social-image: "/uploads/microvest-handshake.png"
 ---
 
 ## Acquisition in high-growth ESG/impact investing arena enhances DAI’s ability to spur investment in emerging and frontier economies
