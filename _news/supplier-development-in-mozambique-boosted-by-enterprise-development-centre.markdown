@@ -28,7 +28,7 @@ Vanderleia Mamade, who participated in several MozUp activities, is the executiv
 
 “The various competencies and knowledge that we developed with MozUp’s support were fundamental to our success in this proposal. Our proposal ended up being very competitive, and we applied concepts we learned from MozUp. The concepts related to food, health, and occupational safety were of great value because these were important tender criteria,” said Vanderleia.
 
-When she heard about MozUp, the young executive director seized the opportunity to upskill, capitalize on the company’s growth potential, and create jobs. MozUp has helped her identify areas for improvement within the company and facilitated business training, and is supporting her application to become the first Mozambican catering company to attain International Safety Organization Food Safety Management Systems Certification (ISO 22000),
+When she heard about MozUp, the young executive director seized the opportunity to upskill, capitalize on the company’s growth potential, and create jobs. MozUp has helped her identify areas for improvement within the company and facilitated business training, and is supporting her application to become the first Mozambican catering company to attain International Safety Organization Food Safety Management Systems Certification (ISO 22000).
 
 Vanderleia hopes the certification will lead to new opportunities. “We wouldn't even be able to think about obtaining the certificate by December 2021 if MozUp had not decided to offer its continuous support in this process.”
 
