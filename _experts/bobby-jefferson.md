@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Jefferson
 summary: Bobby Jefferson, a leader in the field of information and communications
   technology for development, works to expand DAI's range of digital health services.
-job-title: Vice President and Chief Technology Officer, DAI Global Health
+job-title: Head of Diversity, Equity, Engagement, and Inclusion (DEEI)
 image: https://assetify-dai.com/experts/bobby%20jeffersonInner.jpg
 solutions:
 - Digital Acceleration
