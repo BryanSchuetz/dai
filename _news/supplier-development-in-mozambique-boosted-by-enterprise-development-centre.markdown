@@ -1,5 +1,5 @@
 ---
-title: Supplier Development in Mozambique boosted by Enterprise Development Centre
+title: Supplier Development in Mozambique Boosted by Enterprise Development Centre
 date: 2021-12-02 05:00:00 Z
 solutions:
 - Sustainable Business
@@ -31,8 +31,6 @@ Vanderleia Mamade, who participated in several MozUp activities, is the executiv
 When she heard about MozUp, the young executive director seized the opportunity to upskill, capitalize on the company’s growth potential, and create jobs. MozUp has helped her identify areas for improvement within the company and facilitated business training, and is supporting her application to become the first Mozambican catering company to attain International Safety Organization Food Safety Management Systems Certification (ISO 22000),
 
 Vanderleia hopes the certification will lead to new opportunities. “We wouldn't even be able to think about obtaining the certificate by December 2021 if MozUp had not decided to offer its continuous support in this process.”
-
-*Area 4 is operated by Mozambique Rovuma Venture S.p.A. (MRV), a joint venture between Eni, ExxonMobil, and CNPC.*
 
 Area 4 is operated by Mozambique Rovuma Venture S.p.A. (a joint venture between Eni, ExxonMobil and CNPC), Galp, KOGAS, and Empresa Nacional de Hidrocarbonetos E.P. 
 
