@@ -34,6 +34,6 @@ Vanderleia hopes the certification will lead to new opportunities. “We wouldn'
 
 *Area 4 is operated by Mozambique Rovuma Venture S.p.A. (MRV), a joint venture between Eni, ExxonMobil, and CNPC.*
 
-Area 4 is operated by Mozambique Rovuma Venture S.p.A. (MRV), a joint venture between Eni, ExxonMobil and CNPC. Galp, KOGAS and Empresa Nacional de Hidrocarbonetos E.P., also have a participating interest in Area 4. 
+Area 4 is operated by Mozambique Rovuma Venture S.p.A. (a joint venture between Eni, ExxonMobil and CNPC), Galp, KOGAS, and Empresa Nacional de Hidrocarbonetos E.P. 
 
 Learn more about [MozUp.](https://mozup.org/) Learn more about [DAI’s Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business)
