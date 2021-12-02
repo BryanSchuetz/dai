@@ -3,11 +3,12 @@ title: Supplier Development in Mozambique boosted by Enterprise Development Cent
 date: 2021-12-02 17:39:00 Z
 solutions:
 - Sustainable Business
+regions: Sub-Saharan Africa
+projects: Mozambique—Enterprise Development Center
 summary: In November, MozUp, the Enterprise Development Centre in Mozambique, officially
   launched its Maputo office. MozUp delivers a variety of supplier development services
   to small and medium-sized enterprises.
 social-image: "/uploads/Vanderleia%201%5B88%5D-51c2c9.png"
-country: Mozambique
 ---
 
 In November, MozUp, the Enterprise Development Centre (EDC) in Mozambique, officially launched its Maputo office. MozUp is operated by Mozambique Enterprise for Sustainability (MES), which is a joint venture between DAI and Mozambican implementing partner, Taciana Peão Lopes & Advogados Associados. Though the formal launch event took place in November, MozUp has been operational since April 2020.
