@@ -17,9 +17,7 @@ solutions:
 layout: expert
 ---
 
-Bobby Jefferson, previously Vice President and Chief Technology Officer for DAI Global Health, helped establish DAI's successful digital and global health teams, and frequently represents the company at the highest levels, both in technical forums and more broadly.
-
-Bobby is steeped in the issues of racial and social justice. He has reflected on those issues for decades as a professional in our industry and beyond, and over the past 18 months in particular he has lent his insights to DAI's Racial and Social Justice Initiative (RSJI), serving on the RSJI Steering Committee since its inception and building strong relationships with the firm's affinity groups.
+Bobby Jefferson is DAI's first-ever Head of Diversity, Equity, Engagement, and Inclusion. He was previously Vice President and Chief Technology Officer for DAI Global Health, helping establish DAI's successful digital and global health teams. Bobby is steeped in the issues of racial and social justice. He has reflected on those issues for decades as a professional in the global development industry and beyond, and over the past 18 months in particular he has lent his insights to DAI's [Racial and Social Justice Initiative (RSJI)](https://www.dai.com/news/an-anti-racist-company-ceo-jim-boomgard-lays-out-vision-for-dais-racial-and-social-justice-initiative), serving on the RSJI Steering Committee since its inception.
 
 In 2020, he joined the Board of Directors of the Society for International Development-Washington, D.C. Chapter, a position to which he was re-elected in 2021. As a member of SID-Washington’s Executive Committee, Bobby has been instrumental in shaping the organization’s strategic thinking on Diversity, Equity, and Inclusion (DEI): chairing the DEI Committee, establishing the Race, Ethnicity, and Diversity Workgroup, and setting in motion the DEI Strategic Plan. Bobby is also co-chair of the Council of International Development Companies’ new DEI Committee and participates in British Expertise International’s Equity, Diversity, & Inclusion Working Group.
 
