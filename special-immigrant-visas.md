@@ -29,9 +29,9 @@ If you are an Afghan national who has worked directly as an employee for DAI in 
 
 No. If you have already emailed us, do not fill out the webform. We are receiving a high volume of requests and any duplicates will make it harder for us to respond to your first email.
 
-## Why am I receiving emails from “JIRA”? 
+## Why am I receiving emails from new email addresses? Is it safe to respond?  
 
-DAI is now using JIRA software to manage requests for EVLs and P-2 referrals. Please create an account with JIRA and respond to those emails with the requested materials. 
+DAI is now using JIRA software to manage requests for EVLs and P-2 referrals. Please respond to those emails with the requested materials. Emails from the following addresses are legitimate: SIV@dai.com, sivsupport@daisiv.net, and jira@nafjc.com.
 
 ## How do I check on the status of my request to DAI for an EVL or P-2? 
 
