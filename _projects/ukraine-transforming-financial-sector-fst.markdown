@@ -14,7 +14,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 promos:
 - title: 'Stay the Course: A Decade of Focus on Economic Reforms Pays off in Ukraine'
-  link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
+  link: https://dai-global-developments.com/articles/stay-the-course-a-decade-of-focus-on-economic-reforms-pays-off-in-ukraine
 - title: USAID Project Named Finalist for Global Financial Inclusion Award
   link: https://www.dai.com/news/usaid-project-named-finalist-for-global-financial-inclusion-award
 ---
