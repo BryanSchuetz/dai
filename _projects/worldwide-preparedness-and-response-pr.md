@@ -18,6 +18,8 @@ country:
 promos:
 - title: Preparedness & Response Planning Toolkit
   link: https://s3.amazonaws.com/one-health-app/static/docs/toolkits/Preparedness_and_Response_Toolkit/Preparedness_and_Response_Toolkit_complete.pdf
+- title: Preparedness & Response VIDEOs
+  link: https://vimeo.com/preparednessandresponse
 layout: project
 ---
 
