@@ -58,15 +58,13 @@ The Justice, Human Rights, and Security Strengthening Activity (Unidos por la Ju
  
 **Community Policing:** 
 
-* Supported 962 National Police community relations activities that attracted 72,681 residents of 29 high-crime barrios.
-* Supported 25 trainings for 570 people, mostly police officers, on human rights and community policing issues, and produced curriculum to be instituted by the National Police Academy. 
+* Supported 962 National Police community relations activities that attracted the participation of 72,681 residents of 29 high-crime barrios, including 43,961 children and youths.
+* Supported 25 trainings for 570 people, mostly police officers, on human rights and community policing issues, and produced curriculum to be instituted by the National Police Academy.
  
 **Protecting Women:** 
 
-* Empowered five civil society organizations to provide 1,125 gender-based violence survivors with psychological support and legal counsel, and strengthened working relations between those organizations, police, prosecutors, and government service providers. 
-* Designed training to support female survivors of violence now incorporated into National Police Academy coursework. 
-* Fostered National Police initiative to develop a Gender Policy. 
-* Supported National Police Mother’s Day-themed information fairs that provided gender-based violence information to 800 people, mostly women, in Tegucigalpa, San Pedro Sula, and La Ceiba. 
-* Facilitated network of 215 volunteers in four cities to advise female victims of violence and steer them to legal and psychological services.
+* Supported training on gender-based violence and gender equality in the workplace in a series of workshops attended by 256 business executives.
+* Designed training to support female survivors of violence now incorporated into National Police Academy coursework.
+* Led a participatory external assessment of the National Police and gender, prompting the opening of gender offices in urban police stations in the country’s two largest cities.
 
 <iframe src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
