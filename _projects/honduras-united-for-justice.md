@@ -43,20 +43,18 @@ The Justice, Human Rights, and Security Strengthening Activity (Unidos por la Ju
 
 ### Select Results
 
-**Institutional Reform supporting:** 
+**Institutional Reform:** 
  
-* Reorganization of Integrated Justice Centers in the northern cities of San Pedro Sula (pop. 720,000) and La Ceiba (pop. 198,000) using a replicable model, and built capacity in the cities’ regional Inter-Institutional Criminal Justice Sub Commissions, where police, prosecutors, and judges convene to improve local administration of justice, especially for vulnerable groups. 
-* Adoption of digital case files, projected to increase efficiency and transparency in a national criminal justice system that handles 125,000 cases annually. 
-* System upgrades at the Ministry of Human Rights, Attorney General’s and Public Defender’s Offices, and Judicial School. 
-* Installation of facial recognition and fingerprint processing systems to speed up positive identification, which will be connected with mobile crime scene units, the National Persons Registry, and National Migration Institute. 
+* Upgraded to digital case files, increasing efficiency and transparency in a national criminal justice system that handles 125,000 cases annually.
+* Installed facial recognition and fingerprint processing systems at forensic medicine units to speed up positive identification, which will be connected with mobile crime scene units and the police investigations agency.
  
 **Access to Justice and Civil Society:** 
  
-* Provided 625 vulnerable individuals with psychological support and legal counsel via civil society organizations (CSOs) empowered by Unidos. 
-* Launched training in social auditing for 23 CSOs to detect corruption; 48 CSOs to conduct oversight in security, justice and human rights; and 38 CSOs in crime data analysis and citizen security.  
+* Empowered five civil society organizations to provide 1,125 gender-based violence survivors with psychological support and legal counsel, and strengthened working relations between those organizations, police, prosecutors, and government service providers. Facilitated network of 215 community volunteers in four cities to advise female survivors of violence and steer them to legal and psychological services.
+* Conducted training in social auditing for 23 civil society organizations to detect corruption; 48 civil society organizations to conduct oversight in security, justice and human rights; and 38 civil society organizations in crime data analysis and citizen security.
 * Provided support to human rights defenders to improve reporting and investigation of human rights violations, as well as institutional strengthening to the Public Prosecutor’s office and the Office of the Special Prosecutor for Human Rights to streamline the handling of human rights cases.
-* Provided training on human rights and the private sector to 90 business leaders in key urban centers and worked on the development of a human rights police for businesses.
-* Built and launched an electronic case file system, modernizing the paper-based system of the Judicial Branch.  
+* Developed the organizational structure, mission, and vision for the Human Rights Ministry, equipped and trained its Human Rights Observatory and facilitated joint research of the observatory and civil society advocates.
+* Provided training on human rights and the private sector to 90 business leaders in key urban centers and helped the nation’s largest private sector organization develop and adopt a human rights policy for businesses. 
  
 **Community Policing:** 
 
