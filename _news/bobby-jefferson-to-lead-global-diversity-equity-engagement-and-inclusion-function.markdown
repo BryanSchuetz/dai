@@ -2,7 +2,6 @@
 title: Bobby Jefferson to Lead Global Diversity, Equity, Engagement, and Inclusion
   Function
 date: 2021-12-06 10:01:00 Z
-published: false
 social-image: "/uploads/Screen%20Shot%202021-12-06%20at%2010.10.37%20AM.png"
 ---
 
