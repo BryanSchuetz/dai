@@ -2069,3 +2069,17 @@ ol li::marker{
 .bulma .card-footer{
   margin-top: 0;
 }
+
+.bulma{
+  .dai-button{
+  background-color: $link-green;
+  color: white;
+  &:hover{
+    background-color: darken($link-green, 10%);
+    color: white;
+  }
+}
+.close{
+  color: $grey-dark;
+}
+}

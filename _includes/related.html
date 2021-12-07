@@ -173,6 +173,28 @@
   {%- endfor -%}
 {%- endunless -%}
 
+{% if page.title contains 'Sustainable Business' %}
+<div class="bulma" id="slidebox">
+  <a class="close">x</a>
+  <h2 class="title" style="margin-bottom: 1rem;">Subscribe to DAI's Sustainable Business newsletter</h2>
+  <div>
+    <form class="js-cm-form" id="subForm" action="https://www.createsend.com/t/subscribeerror?description="
+      method="post"
+      data-id="5B5E7037DA78A748374AD499497E309E746EF5B253190526D86D9CFBBF4483A14227752833CA296BFA81F044DF1ECEDF44F47C17C8EEF006B00A98C2DC96496A">
+      <div class="block">
+        <div>
+          <label class="label">Email Address</label>
+          <input autocomplete="Email" aria-label="Email" class="js-cm-email-input qa-input-email input" id="fieldEmail"
+            maxlength="200" name="cm-bjjdtly-bjjdtly" required="" type="email">
+        </div>
+      </div>
+      <button class="button dai-button" type="submit">Subscribe</button>
+    </form>
+  </div>
+  <script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+</div>
+{% else %}
+
 {%- comment -%} found_item box markup {%- endcomment -%}
 <div id="slidebox">
   <a class="close">x</a>
@@ -184,7 +206,7 @@
     <a href="{{ found_item.relatedlink | default: found_item.url}}?related-box" class="primary-block--button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
   {%- endif -%}
 </div>
-
+{%- endif -%}
 {%- comment -%} TODO: prevent pages from linking to themeselves, and account for pages which will find no match {%- endcomment -%}
 
 {%- comment -%} found_item box animation  {%- endcomment -%}
