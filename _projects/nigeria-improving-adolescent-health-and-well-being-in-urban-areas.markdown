@@ -24,15 +24,17 @@ Program objectives include 1) improve skills for healthy living and future plann
 
 ### Sample Activities
 
-* Establish youth-friendly sexual and reproductive health and rights service and other social support. 
+* Establish youth-friendly sexual and reproductive health and rights services and other social support. 
+* Support youth leadership training to equip teenagers to advocate for family planning and reproductive health services in local policies and budgets.
 * Integrate youth-led, human-centered design to ensure that project interventions meet adolescents’ needs. 
-* Implement social and behavior change activities combined with youth engagement with local policy makers and private sector partners.
-* Train and mentor youth in leadership and policy advocacy skills.
-* Facilitate partnerships to enable youth access to entrepreneurship training, incubation, and microfinance to increase self-employment.
+* Implement social and behavior change activities combined with youth engagement with local policymakers and private sector partners.
+* Partner with public and private sector organizations to secure job training placements for poor urban youth, and run mentorship services from the youth centers. 
 
 ### Select Results
 
-* Engaged in national and state adolescent technical working groups: The team participated in national working group and Lagos State working group meetings and contributed technical inputs to the national policy on the Health and Development of Adolescent and Young Persons in Nigeria. In Lagos and Kano, the team engaged with the State Ministry of Health and the State Primary Health Care Management Boards.
+* Enrolled 418 young across two hubs in the reproductive health course; 393 have graduated.
+* Trained 16 healthcare partners on providing family planning services to adolescents; partners are now providing contraception to young people.
+* Distributed contraception to 119 young people; 61 are new users.
 * Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents aged 15-19. 
 * Established partnerships with the private sector.
 * Formed Youth Advisory Committees in Lagos to ensure youth have a voice in project design and that the project remains nimble and responsive to adolescents’ health and well-being needs.
