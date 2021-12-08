@@ -6,7 +6,7 @@ summary: 'Zimbabwe TRACE seeks to design, build, and implement a civil society s
   programme where the civil society organisations look at government in a less adversarial
   way and forge relationships to promote constructive dialogue and partnership. '
 start: 2014
-end: 2021
+end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
@@ -33,5 +33,10 @@ TRACE seeks to design, build, and implement a civil society support programme wh
 * Manage the programme Secretariat, including the design and implementation of grant windows and grants to capable, qualified awardees.
 * Oversee contracting, monitoring and evaluation, coordination, and dissemination of lessons learned.
 * With partner Jimat Development Consultants of Zimbabwe, identify, contract, and manage mentors and other Zimbabwean technical experts.
+
+### Select Results
+
+* TRACE partners handled 151,461 legal aid matters by March 2020, significantly exceeding its cumulative milestone of 130,000. 
+* Raised civic awareness on topics such as gender-based violence, people with disabilities, social inclusion, constitutional amendments, human rights, mineral revenue transparency, and electoral matters.
 
 [1]: https://assetify-dai.com/projects/Zimbabwe-TRACE-pic_1.jpg
