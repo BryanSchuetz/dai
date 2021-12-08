@@ -34,5 +34,5 @@ We supported the Ministry of Education and Science in Tajikistan in improving se
 * Delivered concept paper on strengthening the National Learning Assessment System.
 * Developed a Teachers' Competence Framework.
 * Developed a Strategy and Action Plan on Teachers' Continuous Professional Development.
-* Introduced a competence-based learning system.
+* Introduced a competency-based learning system.
 * Trained 62,970 teachers on competency-based education.
