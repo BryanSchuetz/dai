@@ -28,3 +28,7 @@ By focusing on supporting inclusive and sustainable economic growth in Kyrgyzsta
 * Create an online incubation technology platform.
 * Map business advisory service providers and providing tailored capacity building based on training needs assessments.
 * Facilitate direct market linkages to mobilise key actors and stimulate demand among MSMEs for business advisory services.
+
+### Select Results
+
+* Held a demonstration day to link nine Grow Your Business training program participants with possible investors.
