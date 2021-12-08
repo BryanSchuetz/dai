@@ -38,3 +38,5 @@ By assisting Indonesia’s efforts to improve the skills needed to work in the l
 * Engaged 25,270 people—more than half of whom were women—in youth festivals, a Student Services Entrepreneurship Program, youth camps, workshops, and more activities.
 * Provided workforce development programs to 13,333 people, more than half of whom were women. The participants have improved job skills and 212 of them have new or better employment.
 * Trained 1,030 service providers (578 male and 452 female) who serve vulnerable persons.
+*  Mitra Kunci met with USAID/Indonesia and the Acting Director General of Higher Education, Research, and Technology to discuss Mitra Kunci’s Student Community Service on Entrepreneurship (KKN-TKWU) program (pictured below). Mitra Kunci has 
+* Trained 592 lecturers and 908 students as facilitators via the project's Student Community Service on Entrepreneurship (KKN-TKWU) program. Through 11 partner higher education institutions, KKN-TWKU has reached more than 3,100 villages and 146 cities and districts across Java.
