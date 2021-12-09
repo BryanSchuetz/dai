@@ -5,8 +5,8 @@ summary: 'As an independent, employee-owned global development company, our miss
 
 '
 hero: true
-layout: node
 ultrawide: true
+layout: node
 ---
 
 We envision a world in which communities and societies become more prosperous, fairer and better governed, safer, healthier, and environmentally more sustainable. Integral to that mission is a commitment to uphold human rights and labor standards, promote environmental responsibility, and combat corruption in all its forms.
@@ -30,7 +30,7 @@ We envision a world in which communities and societies become more prosperous, f
              </div>
            </div>
            <div class="content">
-             <p>“The livable world at the heart of DAI’s mission is, inconceivable in the absence of a habitable planet,” writes DAI President and CEO Jim Boomgard in his introduction. “Even as we fight the most lethal pandemic in a century, responsible companies must increasingly turn their attention to a pervasive threat that will remain the world’s biggest challenge long after COVID-19 has become a manageable disease: that threat is climate change.”</p>
+             <p>“The livable world at the heart of DAI’s mission is inconceivable in the absence of a habitable planet,” writes DAI President and CEO Jim Boomgard in his introduction. “Even as we fight the most lethal pandemic in a century, responsible companies must increasingly turn their attention to a pervasive threat that will remain the world’s biggest challenge long after COVID-19 has become a manageable disease: that threat is climate change.”</p>
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
