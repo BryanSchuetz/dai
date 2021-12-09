@@ -20,7 +20,7 @@ The U.S. Agency for International Development-funded Youth-Powered Ecosystem to 
 
 Program objectives include 1) improve skills for healthy living and future planning; 2) foster an enabling social and policy environment for adolescent health and development; and 3) increase youth workforce readiness, job opportunities, and entrepreneurship to address socioeconomic determinants of adolescent health. Cross-cutting program objectives include local capacity development and evidence generation and learning. 
 
-![Nigeria youth.jpg](/uploads/Nigeria%20youth.jpg)
+![Adolescent 1.jpg](/uploads/Adolescent%201.jpg)
 
 ### Sample Activities
 
