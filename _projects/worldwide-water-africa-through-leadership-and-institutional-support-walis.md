@@ -25,10 +25,6 @@ promos:
   link: https://www.globalwaters.org/resources/assets/walis/improving-wash-evidence-based-decision-making-iwed-program-summary
 - title: USAID Supports a Sanitation Revolution in Africa
   link: https://www.globalwaters.org/resources/blogs/usaid-supports-sanitation-revolution-africa
-- title: WALIS Year Six Fact Sheet
-  link: https://www.globalwaters.org/resources/assets/walis/walis-year-six-fact-sheet
-- title: WALIS Program Summary
-  link: https://www.globalwaters.org/sites/default/files/walis_project_summary_final.pdf
 - title: 'Big Gains in Access to Safe Drinking Water: How Four African Countries Did
     It … and How Others Can, Too'
   link: https://dai-global-developments.com/articles/doubling-access-to-safe-drinking-water-how-four-african-countries-did-it-and-how-others-can-too
@@ -37,6 +33,8 @@ promos:
   link: https://www.globalwaters.org/resources/blogs/documenting-common-understanding-sanitation-situation-five-african-countries
 - title: 'VIDEO: USAID WALIS COVID-19 Response Video'
   link: https://www.globalwaters.org/resources/assets/walis-covid-19-response-video
+- title: 'The WASH Response to COVID-19 in Africa: What Happened and What’s Next?'
+  link: https://www.globalwaters.org/resources/assets/wash-response-covid-19-africa-what-happened-and-whats-next
 redirect_from:
 - "/walis"
 layout: project
