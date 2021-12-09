@@ -14,7 +14,7 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
+In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
 
 The U.S. Agency for International Development-funded Youth-Powered Ecosystem to Advance Urban Adolescent Health activity [aims to empower](https://www.usaid.gov/nigeria/press-releases/usaid-takes-novel-approach-improving-adolescent-health) young people with skills, social capital, and resources needed to realize their full potential. The program will improve adolescent health by increasing access to voluntary family planning services and situating family planning within a broader, more holistic context of youth empowerment, coupled with a deeper understanding of the challenges that adolescents face. 
 
