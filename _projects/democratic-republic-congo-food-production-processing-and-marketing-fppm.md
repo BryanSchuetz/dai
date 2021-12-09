@@ -36,7 +36,7 @@ Working with producer organizations, public and private partnerships, and other 
 * Assisted 67,231 rural households and impacted either directly or indirectly 454,482 individuals.
 * 487 producer organizations benefitted from our assistance, either through improved productivity, value addition, or capacity reinforcement.
 * 223 agriculture-related firms received assistance.
-* 55 new best practice technologies were introduced
+* 55 new best practice technologies were introduced.
 * 11,491 individuals received short-term agricultural sector productivity or food security training.
 * 94 new qualified agricultural extension agents are active in the project zone and 124 qualified business development agents are active.
 * 27 storage facilities were constructed by FPPM partners.
