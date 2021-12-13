@@ -11,8 +11,8 @@ regions:
 - Middle East and North Africa
 ---
 
-Najla Al-Sinani joined DAI’s Oman team as an assistant, supporting operations and finance in Oman. Najla serves as a pivotal link between DAI’s home office in Bethesda and DAI’s office in Oman coordinating joint office efforts. Additionally, Najla manages logistics for DAI staff and projects, provides support and information to corporate partners in Oman and works on new business efforts for DAI Oman. 
+Najla Al-Sinani joined DAI’s Oman team as an assistant, supporting operations and finance in Oman. Najla serves as a pivotal link between DAI’s home office in Bethesda and DAI’s office in Oman, coordinating joint office efforts. Additionally, Najla manages logistics for DAI staff and projects, provides support and information to corporate partners in Oman, and works on new business efforts for DAI Oman. 
 
-Before joining DAI, Najla studied operations management at Sultan Qaboos University. During her studies, she interned for Petroleum Development Oman (PDO), studying and analyzing various contracts to determine their impact on In-Country Value. 
+Before joining DAI, Najla studied operations management at Sultan Qaboos University. During her studies, she interned for Petroleum Development Oman, studying and analyzing various contracts to determine their impact on in-country value. 
 
 * B.A., operations management, Sultan Qaboos University 
