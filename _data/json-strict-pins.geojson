@@ -556,24 +556,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Active Projects in Afghanistan",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/afghanistan-value-chains-high-value-crops\">AVC Crops</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/afghanistan-value-chains-livestock\">AVC Livestock</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/afghanistan-musharikat\">Musharikat</a> (USAID) <br>- <a   href=\"https://www.dai.com/our-work/projects/afghanistan-women-in-the-economy\">WIE</a> (USAID) <br>- <a   href=\"https://www.dai.com/our-work/projects/regional-agricultural-development-program-radp-east\">RADP East</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar\">SHAHAR</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/afghanistan-competitiveness-of-export-oriented-businesses-aceba\">ACEBA</a>(USAID)",
-        "marker-size": "small",
-        "marker-color": "#6c6c6c",
-        "marker-symbol": 7
-      },
-      "geometry": {
-        "coordinates": [
-          65.742187,
-          34.452218
-        ],
-        "type": "Point"
-      },
-      "id": "639ce6613276794c0ba916e5437169d2"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Active Projects in Vietnam",
         "description": "- <a   href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/philippines-sri-lanka-and-vietnam-municipal-waste-recycling-project-mwrp\">MWRP</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/vietnam-urban-energy-security\">VUES</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/vietnam-technical-assistance-for-the-arise-plus-programme\">ARISE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/vietnam-sustainable-forest-management-activity-sfm\">SFM</a> (USAID)",
         "marker-size": "small",
