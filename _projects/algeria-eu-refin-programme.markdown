@@ -1,6 +1,9 @@
 ---
 title: Algeria—EU REFIN Programme
 date: 2021-12-14 02:00:00 Z
+summary: 'Our assistance is part of a wider objective to strengthen public financial
+  management in Algeria, contributing to the improvement of the competitiveness of
+  the national economy. '
 start: 2021
 end: 2023
 client: European Union
