@@ -4,7 +4,7 @@ date: 2020-06-02 08:45:00 Z
 lastname: 'Al-Sinani '
 summary: Najla Al-Sinani supports operations and finance at DAI's Oman office.
 job-title: Assistant
-image: "/uploads/Najla-9a69d2.png"
+image: "/uploads/Najla-1df7a8.png"
 solutions:
 - Sustainable Business
 regions:
