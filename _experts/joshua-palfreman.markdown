@@ -2,9 +2,9 @@
 title: Joshua Palfreman
 date: 2021-12-14 09:24:00 Z
 lastname: Palfreman
-summary: 'Joshua Palfreman is a Senior Global Practice Specialist at DAI, tasked with
-  establishing and directing a new Waste Management Practice at DAI: Sustainable Cities. '
-job-title: Senior Global Practice Specialist, Sustainable Cities
+summary: Joshua Palfreman is a Senior Global Practice Specialist at DAI, tasked with
+  establishing and directing a new Waste Management Practice.
+job-title: Senior Global Practice Specialist, Waste Management
 image: "/uploads/Joshua%20Palfreman%201.jpg"
 solutions:
 - Environment
@@ -13,7 +13,7 @@ regions:
 - Worldwide
 ---
 
-Joshua Palfreman is a Senior Global Practice Specialist at DAI, tasked with establishing and directing a new Waste Management Practice at DAI: Sustainable Cities. 
+Joshua Palfreman is a Senior Global Practice Specialist at DAI, tasked with establishing and directing a new Waste Management practice. 
 
 Joshua is a waste management, recycling, water, sanitation, and hygiene specialist with sound knowledge of integrated solid waste management planning, technology, and infrastructure design, municipal service planning, and private sector development (market systems) drawn from postgraduate study, 12 years of professional experience and a geographic specialty in East, Southern and West Africa, South America, Middle East, North Africa, and Southeast Asia. 
 
