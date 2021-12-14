@@ -1,11 +1,11 @@
 ---
 title: Ahmed Al-Abri
 date: 2020-06-02 09:31:00 Z
-published: false
 lastname: 'Al-Abri '
 summary: 'Ahmed Al-Abri is a Senior Manager for DAI''s office in Oman, providing project
   management, technical support, client relationship management, and business development. '
 job-title: Senior Manager
+image: "/uploads/Ahmedprofile.png"
 solutions:
 - Sustainable Business
 regions:
