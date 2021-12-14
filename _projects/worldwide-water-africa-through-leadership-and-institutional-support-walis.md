@@ -25,10 +25,6 @@ promos:
   link: https://www.globalwaters.org/resources/assets/walis/improving-wash-evidence-based-decision-making-iwed-program-summary
 - title: USAID Supports a Sanitation Revolution in Africa
   link: https://www.globalwaters.org/resources/blogs/usaid-supports-sanitation-revolution-africa
-- title: WALIS Year Six Fact Sheet
-  link: https://www.globalwaters.org/resources/assets/walis/walis-year-six-fact-sheet
-- title: WALIS Program Summary
-  link: https://www.globalwaters.org/sites/default/files/walis_project_summary_final.pdf
 - title: 'Big Gains in Access to Safe Drinking Water: How Four African Countries Did
     It … and How Others Can, Too'
   link: https://dai-global-developments.com/articles/doubling-access-to-safe-drinking-water-how-four-african-countries-did-it-and-how-others-can-too
@@ -37,6 +33,8 @@ promos:
   link: https://www.globalwaters.org/resources/blogs/documenting-common-understanding-sanitation-situation-five-african-countries
 - title: 'VIDEO: USAID WALIS COVID-19 Response Video'
   link: https://www.globalwaters.org/resources/assets/walis-covid-19-response-video
+- title: 'The WASH Response to COVID-19 in Africa: What Happened and What’s Next?'
+  link: https://www.globalwaters.org/resources/assets/wash-response-covid-19-africa-what-happened-and-whats-next
 redirect_from:
 - "/walis"
 layout: project
@@ -44,9 +42,9 @@ layout: project
 
 Despite significant progress made through donor and nongovernmental organization investments over the past 30 years, a large percentage of Africans still lack access to clean water and proper sanitation. To help address the lack of access to water and sanitation services and facilities from a regional perspective, the U.S. Agency for International Development created the Water for Africa through Leadership and Institutional Support (WALIS) program. [WALIS](https://www.globalwaters.org/walis) [builds the capacity](https://www.youtube.com/playlist?list=PL6ps-GXU9LQpxzSHNREGMfoE8WOPU4Zp6) of national and regional leaders to capture and apply evidence to deliver improved access to safely managed water and sanitation for all. 
 
-WALIS has spent the past five years (2015–2020) strengthening the ability of [African leaders](https://www.globalwaters.org/resources/assets/snapshot-stockholm-building-africa%E2%80%99s-leadership-sanitation-recap), institutions, and stakeholders to use data and analyses to shape water, sanitation, and hygiene (WASH) policies, plans, and budgets. In its sixth and final year, WALIS is reinforcing core program activities while strengthening the integration of WASH into COVID-19 response and research efforts. The COVID-19 pandemic has demonstrated the critical importance of sanitation, hygiene, and adequate access to clean water for preventing and containing diseases. 
+WALIS strengthened the ability of [African leaders](https://www.globalwaters.org/resources/assets/snapshot-stockholm-building-africa%E2%80%99s-leadership-sanitation-recap), institutions, and stakeholders to use data and analyses to shape water, sanitation, and hygiene (WASH) policies, plans, and budgets. In [its final year](https://www.globalwaters.org/resources/assets/walis-final-summary-report), WALIS worked to reinforce core program activities while strengthening the integration of WASH into COVID-19 response and research efforts. The COVID-19 pandemic demonstrated the critical importance of sanitation, hygiene, and adequate access to clean water for preventing and containing diseases. 
 
-DAI leads the WALIS team and engages with multiple partners and key investors in Africa’s WASH sector.
+DAI lead the WALIS team and engaged with multiple partners and key investors in Africa’s WASH sector.
 
 <iframe src="https://player.vimeo.com/video/400294186" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -62,5 +60,8 @@ DAI leads the WALIS team and engages with multiple partners and key investors in
 * Through its [Improving WASH Evidence-Based Decision-Making Program](https://www.youtube.com/playlist?list=PL6ps-GXU9LQpxzSHNREGMfoE8WOPU4Zp6), WALIS worked in six African countries on country-led activities to improve knowledge management and develop national water resources and sanitation information monitoring and knowledge management systems with relevant ministries.
 * [Supported AMCOW](https://www.globalwaters.org/resources/blogs/usaid-supports-sanitation-revolution-africa) to monitor and evaluate 39 countries on their progress to achieve the Ngor Declaration on Sanitation and Hygiene. This declaration represents the continent’s vision to achieve universal access to adequate and sustainable sanitation and hygiene services and to eliminate open defecation by 2030. WALIS’s support resulted in the first-ever robust monitoring framework and baseline of the ten commitments key to achieving Africa’s vision under the Ngor Declaration. 
 * Strengthened [gender equality](https://www.globalwaters.org/resources/blogs/women-wash-leaders-achieving-equitable-access-wash-services-ghana) and social inclusion in the WASH sector in Ghana by working with Water & Sanitation for the Urban Poor to support two utility partners in the development of gender-sensitive guidelines. WALIS also trained 310 organization staff members in gender mainstreaming.
+* Trained 1,805 people through 69 sessions.
+* Produced 61 studies and 72 communication products.
+* Helped develop 38 enabling environment policies or plans. 
 
 <iframe src="https://player.vimeo.com/video/234027383" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -5,7 +5,7 @@ lastname: Browning
 summary: Neil Browning is an economist and project manager focused on national and
   subnational economies in emerging and frontier markets.
 job-title: Lead Analyst
-image: "/uploads/Neil_web.jpg"
+image: "/uploads/Neil%20Browning.png"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management

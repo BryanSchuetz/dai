@@ -1,11 +1,11 @@
 ---
 title: Natural Resource Management
-date: 2016-01-22 00:11:14.114000000 Z
+date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/environment-solutions/natural-resource-management"
 solutions:
 - Environment
-layout: solution
 hero: true
+layout: solution
 ---
 
 Across the developing world, population growth and surging demand for agricultural land has put tremendous pressure on natural resources as people strive to meet their daily needs for food, shelter, and energy. Many governments face increasing pressure from communities and local and international businesses to exploit natural resources in the quest for economic growth. But DAI’s experience has shown that growth and conservation are not mutually exclusive—in fact, linking the two can have significant, mutually reinforcing benefits.

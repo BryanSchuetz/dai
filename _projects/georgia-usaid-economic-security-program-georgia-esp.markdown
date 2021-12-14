@@ -14,6 +14,8 @@ country: Georgia
 promos:
 - title: 'Georgia: Co-investing with the Private Sector to Boost Sustainable Tourism '
   link: https://usaid-pse.exposure.co/georgia-coinvesting-with-the-private-sector-to-boost-sustainable-tourism
+- title: Project Video Channel
+  link: https://www.youtube.com/channel/UCv6NMRe2cDvSczBdtb1jWuQ
 ---
 
 Georgia is a small country at the crossroads of Asia and Europe on a vital trading and transit route for goods and services. In recent years, Georgia signed free trade agreements that greatly expand Georgia's market access. The USAID Economic Security Program assists Georgian firms to take advantage of the country’s market access and location to exploit regional economic opportunities and compete with international competitors for Georgia's domestic market.

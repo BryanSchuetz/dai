@@ -1,5 +1,5 @@
 ---
-title: Nigeria—Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
+title: Nigeria—Youth-Powered Ecosystem to Advance Urban Adolescent Health
 date: 2020-05-08 14:13:00 Z
 summary: 'The Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being
   program empowers young Nigerians to think about their futures differently and access
@@ -10,27 +10,34 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Workforce Development and Youth
+- Global Health
 regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
-The Youth-Powered Ecosystem to Advance Urban Adolescent Health and Well-Being activity [empowers young Nigerians](https://www.usaid.gov/nigeria/press-releases/usaid-takes-novel-approach-improving-adolescent-health) to think about their futures differently and access the skills, social capital, and resources needed to realize their aspirations. The program works to improve the health and well-being of urban, low-income adolescents, ages 15 to 19, by increasing voluntary family planning uptake, situating family planning within a broader, more holistic context that encompasses: 1) enhancing youth life skills for healthy living and future planning; 2) fostering an enabling social and policy environment for adolescent health and development; and 3) increasing youth workforce readiness, job opportunities, and entrepreneurship to address socioeconomic determinants of adolescent health.  
+In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
 
-Our Nigerian partner firms are Yellow Brick Road, the Youth Empowerment and Development Initiative, and the Women Friendly Initiative, and an international organization, Grassroots Soccer. 
+The U.S. Agency for International Development-funded Youth-Powered Ecosystem to Advance Urban Adolescent Health activity [aims to empower](https://www.usaid.gov/nigeria/press-releases/usaid-takes-novel-approach-improving-adolescent-health) young people with skills, social capital, and resources needed to realize their full potential. The program will improve adolescent health by increasing access to voluntary family planning services and situating family planning within a broader, more holistic context of youth empowerment, coupled with a deeper understanding of the challenges that adolescents face. 
 
-![Nigeria youth.jpg](/uploads/Nigeria%20youth.jpg)
+Program objectives include 1) improve skills for healthy living and future planning; 2) foster an enabling social and policy environment for adolescent health and development; and 3) increase youth workforce readiness, job opportunities, and entrepreneurship to address socioeconomic determinants of adolescent health. Cross-cutting program objectives include local capacity development and evidence generation and learning. 
+
+![Adolescent 1.jpg](/uploads/Adolescent%201.jpg)
 
 ### Sample Activities
 
-* Establish youth-friendly sexual and reproductive health and rights service and other social support. 
+* Establish youth-friendly sexual and reproductive health and rights services and other social support. 
+* Support youth leadership training to equip teenagers to advocate for family planning and reproductive health services in local policies and budgets.
 * Integrate youth-led, human-centered design to ensure that project interventions meet adolescents’ needs. 
-* Implement social and behavior change activities combined with youth engagement with local policy makers and private sector partners.
-* Train and mentor youth in leadership and policy advocacy skills.
-* Facilitate partnerships to enable youth access to entrepreneurship training, incubation, and microfinance to increase self-employment.
+* Implement social and behavior change activities combined with youth engagement with local policymakers and private sector partners.
+* Partner with public and private sector organizations to secure job training placements for poor urban youth, and run mentorship services from the youth centers. 
 
 ### Select Results
 
-* Engaged in national and state adolescent technical working groups: The team participated in national working group and Lagos State working group meetings and contributed technical inputs to the national policy on the Health and Development of Adolescent and Young Persons in Nigeria. In Lagos and Kano, the team engaged with the State Ministry of Health and the State Primary Health Care Management Boards.
-* Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents aged 15-19. 
-* Established partnerships with the private sector.
-* Formed Youth Advisory Committees in Lagos to ensure youth have a voice in project design and that the project remains nimble and responsive to adolescents’ health and well-being needs.
+* Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents, aged 15-19.
+* Launched two pilot Youth Hubs in Lagos, at sites provided by the Lagos State Ministry of Youth and Social Development, reflecting local ownership and planning for sustainability from the start.
+* Reached 864 adolescents using the locally adapted [SKILLZ United](https://borgenproject.org/tag/skillz-curriculum/) curriculum in Lagos, with 827 graduating and 720 enrolling in follow-on SKILLZ Clubs.
+* Provided contraceptive methods to 887 young people, of which 483 are new users.
+* Engaged young people throughout project implementation, particularly by forming the Youth Advisory Committees in Lagos and Kano.
+* Trained 68 multi-cadre providers to strengthen capacity in basic contraceptive technology, respectful, youth-friendly counseling, and the commodity logistics management system.
+* Strengthened capacity of 137 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
+* Contributed to national- and state-level policy dialogue, technical working groups, and conferences.

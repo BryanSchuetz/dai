@@ -7,7 +7,7 @@ summary: 'Barbara Habib is a Senior Manager for DAI''s Sustainable Business Grou
   a development professional with more than 13 years of experience managing and implementing
   economic and community development projects. '
 job-title: Senior Manager
-image: "/uploads/Barbara%20Photo-203b60.jpg"
+image: "/uploads/Barbara_Habib_profile.png"
 solutions:
 - Sustainable Business
 regions:

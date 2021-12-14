@@ -22,6 +22,8 @@ promos:
   link: https://player.vimeo.com/external/652071458.hd.mp4?s=1c318ad443a490c0ec8238c576e06ebd5347b37c&profile_id=174
 - title: 'VIDEO: Output Marketing'
   link: https://player.vimeo.com/external/652067679.hd.mp4?s=ee2484abfe2dc008393c47d77c7d190fed04ef46&profile_id=174
+- title: 'VIDEO: Agricultural Fund'
+  link: https://player.vimeo.com/external/655044546.hd.mp4?s=b0237c8f271b5b8a6a8edd897e9ff3893d0f0476&profile_id=174
 - title: Savings Groups Enabling Hundreds of Smallholders in Mozambique to Buy Certified
     Seed
   link: https://dai-global-developments.com/articles/breaking-a-wooden-box-under-a-mango-tree

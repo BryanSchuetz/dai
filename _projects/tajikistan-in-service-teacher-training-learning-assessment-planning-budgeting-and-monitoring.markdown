@@ -17,7 +17,7 @@ country: Tajikistan
 
 Tajikistan has one of the youngest populations in Central Asia, which can be viewed as a great opportunity for socio-economic development. Among Central Asian countries, Tajikistan continues to record by far the highest annual population growth at 2.2 percent, but official unemployment is amongst the highest within Central Asian countries. To turn its relative demographic advantages into opportunities for growth, further progress on education reform is needed in Tajikistan. 
 
-We supported the Ministry of Education and Science in Tajikistan in improving services related to teacher training, learning assessment, financial planning, and monitoring. This intervention supported an increase in the quality of education provision through improved teaching, learning assessment, education system management, and budgeting and evaluation. This work contributed to the development of a modern education system. 
+We supported the Ministry of Education and Science in Tajikistan in improving services related to teacher training, learning assessment, financial planning, and monitoring. This intervention supported an increase in the quality of education provision through improved teaching, learning assessment, education system management, and budgeting and evaluation. This work contributed to the development of a modern education system. The team reached 63,000 teachers, 1,000 education professionals, and 200 pedagogical staff from universities.
 
 ![TJ-Edu.png](/uploads/TJ-Edu.png)
 
@@ -34,5 +34,5 @@ We supported the Ministry of Education and Science in Tajikistan in improving se
 * Delivered concept paper on strengthening the National Learning Assessment System.
 * Developed a Teachers' Competence Framework.
 * Developed a Strategy and Action Plan on Teachers' Continuous Professional Development.
-* Introduced a competence-based learning system.
+* Introduced a competency-based learning system.
 * Trained 62,970 teachers on competency-based education.
