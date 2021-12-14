@@ -6,7 +6,7 @@ summary: 'Zachary Kaplan specializes in public-private partnerships in both core
   social infrastructure, helping governments and private sector clients work together
   and deliver key services and goods. '
 job-title: Vice President, Sustainable Business Group
-image: "/uploads/Zach%20Photo.jpg"
+image: "/uploads/Zach%20websitepng.png"
 solutions:
 - Business Environment Reform
 - Sustainable Business
