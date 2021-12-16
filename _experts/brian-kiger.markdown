@@ -7,6 +7,7 @@ summary: 'Brian Kiger brings 17 years of experience residing in diverse and econ
   sector stakeholders in the agriculture, water, sanitation, and hygiene sectors to
   improve available services and products. '
 job-title: Principal Global Practice Specialist, Agriculture and Market Systems
+image: "/uploads/bk2.jpg"
 solutions:
 - Economic Growth
 - Agriculture and Food Security
