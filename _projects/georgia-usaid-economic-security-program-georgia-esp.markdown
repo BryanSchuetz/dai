@@ -12,6 +12,8 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Georgia
 promos:
+- title: USAID-Backed Video Wins World Tourism Organization Contest
+  link: https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest
 - title: 'Georgia: Co-investing with the Private Sector to Boost Sustainable Tourism '
   link: https://usaid-pse.exposure.co/georgia-coinvesting-with-the-private-sector-to-boost-sustainable-tourism
 - title: Project Video Channel
