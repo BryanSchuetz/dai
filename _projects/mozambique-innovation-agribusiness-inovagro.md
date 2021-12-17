@@ -55,6 +55,14 @@ InovAgro III built on the program’s previous phases by further strengthening t
 * InovAgro II worked with 19 local traders to purchase 5,500 metric tonnes of produce from smallholder farmers for a total value of $1.5 million.
 * InovAgro II assisted 4,700 farmers to save for seed and input purchases through village savings groups.
 * InovAgro II supported four villages with 17,000 residents to demarcate community boundaries and worked with seed companies to respond to increased demands for inputs stimulated by the new secure land tenure.
+
+* Assisted more than 25,300 farmers (47 percent women) to increase their incomes by a cumulative $34.4 million over the past six years.
+* InovAgro III helped local traders further improve the efficiency of transactions, leading traders to establish 515 rural buying posts used to purchase 22,300 metric tons of commodities worth $10.5 million in 2021, representing a 90 percent increase in value of purchases compared to 2020. 
+* InovAgro III launched the Fundo Agricola (FA) to expand farmers’ capacity to save for seeds and other agricultural inputs by leveraging Mozambique’s existing network of village savings and loan associations, which has more than 600,000 members. The FA provided a system for farmers to save in advance for the inputs they need to purchase at the beginning of each planting season. Over six years, 19,194 members (55.3 percent women) saved $668,000, specifically for purchase of agricultural inputs and services needed during the planting season.
+•	Assisted seed companies and agrodealers to establish 841 demo plots in 2021 to create demand for certified seeds and improved production practices. The seed partners recorded sales of 811 metric tons in 2021, representing more than a seven-fold increase in annual sales compared to 2016.  
+•	From no active private firms, there are now 10 international and national seed companies, multiple distributors, and more than 84 retail outlets selling certified seeds to smallholder farmers in InovAgro project districts.
+
+
 * InovAgro III assisted 5,000 new farmers to increase their incomes, bringing the program’s total to 20,000 farmers helped.
 * InvoAgro III helped local traders further improve efficiency of transactions, leading to a 100 percent increase in purchases from farmers compared to phase II levels, valued at $3.8 million.
 * InovAgro III added 8,000 new members to village saving groups and promoted a 500 percent increase in total savings for seeds and inputs from 2017 to 2018. 
