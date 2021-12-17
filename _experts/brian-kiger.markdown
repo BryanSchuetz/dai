@@ -21,6 +21,7 @@ Brian Kiger brings 17 years of experience residing in diverse and economically u
 Brian is passionate about advising and leading teams to use locally available resources productively and efficiently within socially responsible, inclusive business enterprises to reach rural, peri-urban, and urban customers with products and services. His work focuses on reducing market inefficiencies in the Asian and Sub-Saharan African markets.
 
 * M.S., applied economics and Community Development, Illinois State University
+* M.A., trans-Atlantic R\relationships, University of Bath
 * B.A., romance languages, University of North Carolina at Chapel Hill
 * Returned Peace Corps Volunteers, Kyrgyzstan
 * AmeriCorps Vista Alum
