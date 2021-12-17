@@ -62,8 +62,4 @@ InovAgro III built on the program’s previous phases by further strengthening t
 * Assisted seed companies and agrodealers to establish 841 demo plots in 2021 to create demand for certified seeds and improved production practices. The seed partners recorded sales of 811 metric tons in 2021, representing more than a seven-fold increase in annual sales compared to 2016.  
 * From no active private firms, there are now 10 international and national seed companies, multiple distributors, and more than 84 retail outlets selling certified seeds to smallholder farmers in InovAgro project districts.
 
-
-* InvoAgro III helped local traders further improve efficiency of transactions, leading to a 100 percent increase in purchases from farmers compared to phase II levels, valued at $3.8 million.
-* InovAgro III added 8,000 new members to village saving groups and promoted a 500 percent increase in total savings for seeds and inputs from 2017 to 2018. 
-
 <iframe src="https://DAIGlobal.exposure.co/the-seeds-of-transformation/embed/cover?embed=true" style="width:100%;height:600px;margin-bottom:5px;border:solid 1px #ccc;border-radius:2px;"></iframe><br><a href="https://DAIGlobal.exposure.co/the-seeds-of-transformation">The Seeds of Change</a> by <a href="https://daiglobal.exposure.co/">DAI Global</a> on <a href="https://exposure.co" style="text-transform:uppercase">Exposure</a>
