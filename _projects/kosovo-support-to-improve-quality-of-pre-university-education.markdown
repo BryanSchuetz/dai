@@ -21,7 +21,7 @@ A further key area of focus will be on further operationalising the core role of
 
 High-quality textbooks underpin teaching and learning and one of the first activities of the project was to support MESTI to develop the new law on textbooks which will further strengthen all phases of the textbook development and selection process. The project will also carry out targeted capacity building of the Textbooks Council and develop the capacities of schools and other relevant institutions to engage in processes related to drafting, implementation, and revision of textbooks.
 
-![Kosovo Education.jpg](/uploads/Kosovo%20Education.jpg)
+![Pic for Website (3).jpg](/uploads/Pic%20for%20Website%20(3).jpg)
 
 ### Sample Activities
  
