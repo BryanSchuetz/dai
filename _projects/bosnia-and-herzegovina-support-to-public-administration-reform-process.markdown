@@ -30,3 +30,4 @@ Bosnia and Herzegovina has been implementing public administration reform since 
 * Prepared solutions for the design of an improved, performance-based system for monitoring and evaluating reform projects.
 * Drafted a policy paper analyzing the coordination structures.
 * Delivered workshops on the principle of political neutrality.
+* Trained 500 civil servants and took concrete steps towards the digitalization of the public administration system.  
