@@ -19,9 +19,7 @@ The [Stemazone ](https://stemazoneoman.om/)initiative for Omani youth, funded by
 
 Stemazone, an innovative educational initiative, focuses on STEAM (science, technology, engineering, arts, and math) for Omani children aged 6 to 16. Through its [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) and [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration), DAI partnered with Eshraqa to deliver this flagship corporate social responsibility program, which launched in May 2021. In November, the vibrant Stemazone Center at the Children’s Museum in Qurum, Muscat opened its doors. In partnership with the Ministry of Education and the Ministry of Culture, Sports & Youth, the centre provides an experience zone for in-person workshops and learning.
 
-> “We are delighted that Eshraqa’s Stemazone has received these awards. DAI has helped us to design and implement a world-class education programme that supports Oman’s Vision 2040, equipping youth with skills to take on the challenges of the global economy in the 21st century”,
->
-> said Rajiv Ahuja, Head of Corporate Communications and CSR Programs at Khimji Ramdas
+> “We are delighted that Eshraqa’s Stemazone has received these awards. DAI has helped us to design and implement a world-class education programme that supports Oman’s Vision 2040, equipping youth with skills to take on the challenges of the global economy in the 21st century”, said Rajiv Ahuja, Head of Corporate Communications and CSR Programs at Khimji Ramdas.
 
 <iframe src="https://player.vimeo.com/video/552003877" width="640" height="329" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
