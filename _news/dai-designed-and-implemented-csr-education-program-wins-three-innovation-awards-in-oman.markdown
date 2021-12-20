@@ -33,4 +33,4 @@ Stemazone’s virtual learning platform, [e-Stemazone](https://stemazoneoman.om/
 
 On 26 October, Oman’s Youth Day, the Stemazone won the Sultanate’s Youth Proficiency Award for Education. The award is presented to the best education initiative.
 
-Leveraging 50 years of economic development experience, DAI has built a growing portfolio of entrepreneurship and innovation programmes over the past 10 years with multilateral, bilateral, foundation, and corporate funders. Learn more about [DAI’s entrepreneurship and innovation solutions here](https://www.dai.com/our-work/solutions/sustainable/sustainable-business-enterprise-innovation).
+Leveraging 50 years of economic development experience, DAI has built a growing portfolio of entrepreneurship and innovation programmes over the past 10 years with multilateral, bilateral, foundation, and corporate funders. Learn more about [DAI’s entrepreneurship and innovation solutions ](https://www.dai.com/our-work/solutions/sustainable/sustainable-business-enterprise-innovation)or [contact the Sustainable Business Group.](mailto:contact_sbg@dai.com)
