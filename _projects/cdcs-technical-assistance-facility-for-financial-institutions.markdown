@@ -13,7 +13,7 @@ regions: Worldwide
 ---
 
 CDC Group is the U.K. Government’s development finance institution, supporting the growth of private businesses in Africa and South Asia. 
-FSG Plus is a three-year program that will support CDC in addressing two pressing priorities: i) inclusion and ii) climate change and environmental sustainability by catalyzing sustainable practice change in financial institutions. It will do this through:
+FSG Plus is a three-year program that will support CDC in addressing two pressing priorities—i) inclusion and ii) climate change and environmental sustainability—by catalyzing sustainable practice change in financial institutions. It will do this through:
 
 * Support to CDC’s Financial Services Group (FSG) investees.
 * Design and delivery of research and events to promote shared learning.
