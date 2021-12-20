@@ -1,8 +1,7 @@
 ---
 title: DAI-Designed and Implemented CSR Education Program Wins Three Innovation Awards
   in Oman
-date: 2021-12-20 13:01:00 Z
-published: false
+date: 2021-12-20 09:00:00 Z
 tags:
 - CSR
 - corporate sustainability
@@ -12,6 +11,13 @@ tags:
 solutions:
 - Sustainable Business
 regions: Middle East and North Africa
+summary: 'The Stemazone initiative for Omani youth, funded by Khimji Ramdas Eshraqa
+  and designed and implemented by DAI, was a big winner at this month’s Future Skills
+  and Human Resources Development Conference 2021 in Muscat, Oman. The Arabian Research
+  Bureau ARB/OITE presented awards to Eshraqa—the social development arm of Omani
+  conglomerate Khimji Ramdas—in three categories: “Future Technology,” “Robotics,”
+  and “Best of the Best.”'
+social-image: "/uploads/DAI-CSR-awards-link-preview.png"
 country: Oman
 ---
 
