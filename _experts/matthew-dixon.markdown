@@ -6,7 +6,7 @@ summary: Matthew Dixon is an environment and project management professional foc
   on further strengthening business operations and project finance in the Sustainable
   Business Group.
 job-title: Project Management Analyst
-image: "/uploads/portrait%20(002).png"
+image: "/uploads/Matthew%20Dixon%20website.png"
 solutions:
 - Sustainable Business
 - 
