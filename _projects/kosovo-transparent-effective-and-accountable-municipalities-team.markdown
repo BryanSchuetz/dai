@@ -12,6 +12,9 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Kosovo
 promos:
+- title: 'Setting Up for Success: Data and Public Oversight for More Transparent Public
+    Procurement in Kosovo'
+  link: https://www.open-contracting.org/2021/12/14/setting-up-for-success-data-and-public-oversight-for-more-transparent-public-procurement-in-kosovo/
 - title: Prosecution Investigates Cases of Misuse Reported by Civil Society
   link: https://www.usaid.gov/kosovo/news-information/news/prosecution-investigates-cases-misuse-reported-civil-society
 - title: E-procurement Platform Enables Purchase of Life-saving Supplies During COVID-19
