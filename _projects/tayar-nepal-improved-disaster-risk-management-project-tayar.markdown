@@ -11,6 +11,9 @@ solutions:
 - Environment
 regions: Asia and the Pacific
 country: Nepal
+promos:
+- title: 'Tayar Year 2 Progress Summary '
+  link: "/uploads/USAID%20Tayar%20Nepal%20-%20Year%202%20Summary%20-submitted.pdf"
 ---
 
 Nepal is prone to a range of natural disasters, including floods, landslides, fires, earthquakes, and disease outbreaks. In the wake of recent tragedies in the country, including the massive 2015 Gorkha earthquake, the U.S. Agency for International Development (USAID) has established a flagship disaster preparedness and response program for Nepal.  
