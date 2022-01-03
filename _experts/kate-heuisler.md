@@ -23,7 +23,5 @@ Prior to moving to Cambodia, she was based in Uganda from 2010 to 2014 as an ind
 
 Previously, she worked for DAI's corporate office providing strategic and management advice to a wide range of post-crisis, civil society support, and community engagement projects, supporting in-country leaders to deliver programs that invested in people and had long-lasting results. Kate served as the Deputy Chief of Party and then Chief of Party for the DAI Small Grants Program in Timor-Leste from 2004 to 2008, supporting and growing civil society, improving private and government service delivery, and building capacity after the country’s independence from Indonesia. 
 
-Kate is a frequent contributor to the [Digital@DAI](https://dai-global-digital.com/) and Development Innovations [blogs](https://www.development-innovations.org/category/blog/), sharing thought pieces about managing partnerships, building dynamic and diverse teams, directing organizational innovation, and leading strategic communications. 
-
 * M.Sc., cultural anthropology, University of Pennsylvania
 * Fluent in Spanish and Tetum
