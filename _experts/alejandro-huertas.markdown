@@ -6,6 +6,7 @@ summary: 'With more than 15 years of professional experience, Alejandro Huertas 
   to or leads technical design efforts for DAI in the Latin American region in governance
   and economic growth. '
 job-title: Senior Global Sector Specialist
+image: "/uploads/Alejandro%20Huertas1.jpg"
 solutions:
 - Economic Growth
 - Governance
