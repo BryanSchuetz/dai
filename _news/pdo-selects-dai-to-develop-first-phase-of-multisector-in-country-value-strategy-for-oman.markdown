@@ -11,6 +11,7 @@ summary: DAI and Petroleum Development Oman (PDO) are delighted to announce that
   a comprehensive “in-country value” (ICV) strategy for Oman, encompassing sectors
   beyond the traditional ICV arena of oil and gas.
 social-image: "/uploads/7F5A0320-8fb7e0.JPG"
+country: Oman
 ---
 
 DAI and [Petroleum Development Oman](https://www.pdo.co.om/en/Pages/Home.aspx) (PDO) are delighted to announce that PDO has awarded a contract to DAI to conduct the first phase of a study that will establish a comprehensive “in-country value” (ICV) strategy for Oman, encompassing sectors beyond the traditional ICV arena of oil and gas.

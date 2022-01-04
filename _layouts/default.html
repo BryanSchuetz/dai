@@ -147,7 +147,24 @@ href="https://dai-global-developments.com/articles/a-method-for-valuing-the-cost
         {%- endfor -%}</p>{% endif %}
     </div>
   </div>
+  {% elsif page.url contains "/global-reach/oman" %}
+    <div class="hero-wrap {% if page.url contains " global-reach/oman"
+      %}our-work{% else %}who-we-are{%endif%}">
+      <div class="node-hero">
+        <h1 class="hero-title">{% if page.url contains "global-reach/oman" %}<a class="hero-title--link"
+            href="/who-we-are/global-reach/oman">FEH{{page.title}}</a>{% else %}{{page.title}}{% endif %}</h1>
+        <p class="hero-excerpt">{{page.summary | markdownify | remove:"
+        <p>" | remove:"</p>"}}</p>
+        {% if page.url contains "global-reach/oman" %}<p
+          class="section-nav">{%- for nav in site.data.nav-nigeria -%}
+          <a class="section-nav--link {% if page.url contains nav.link%}active {% endif %}{% unless forloop.last %}last {% endunless %}"
+            href="{{ nav.link }}">{{ nav.text | upcase }}</a>{% unless forloop.last %} / {% endunless %}
+          {%- endfor -%}
+        </p>{% endif %}
+      </div>
+    </div>
   {%- endif -%}
+
 {% elsif page.hero and page.url contains "our-work" %}
   <div class="hero-wrap our-work {% if page.url contains "sustainable-business" or page.url contains "local-content-and-supply-chain" %} sustainable-business{% endif %}">
     <div class="node-hero">
