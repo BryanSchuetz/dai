@@ -12,6 +12,9 @@ solutions:
 - Natural Resource Management
 regions: Worldwide
 country: Worldwide
+promos:
+- title: 'NEWSLETTER: INRM '
+  link: https://spark.adobe.com/page/sRGtSXtP6I1Zm/
 ---
 
 Coordinating and integrating biodiversity conservation with other development efforts, where appropriate, can provide a powerful opportunity to address the multifaceted challenges people face to add value and produce longer-lasting development outcomes. 

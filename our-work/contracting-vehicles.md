@@ -30,31 +30,15 @@ layout: node
 * Resilient Cities Asia Activity (RCA) (2017-2024)
 * Famine Early Warning Systems Network (FEWS NET 7) (2019–2024)
 
-# General Services Administration Schedules
+# General Services Administration 
 
-* Professional Services Schedule (PSS) (2016-2021)
+* One Acquisition Solution for Integrated Services ([OASIS](https://www.dai.com/oasis)) (2020-2024)
 
 # Centers for Disease Control and Prevention (CDC)
 
 * International, Technical, Operational, Professional Support Services (ITOPSS) (2018–2023)
 
-# U.K. Foreign, Commonwealth & Development Office (FCDO)
-
-* [Conflict Stability and Security Fund Framework  (CSSF) (2018-2020)](https://www.dai.com/working-dai/current-procurements/conflict-stability-and-security-fund)
-* Prosperity Fund Framework (2017-2021)
-* General Economic Development Framework (GEDF) (2019–2021)
-
-International Multi-Disciplinary Programme Framework Agreement (IMDP) (2019–2021):
-* Lot 5 – Humanitarian—Low Value
-* Lot 10 – Research—Low Value
-* Lot 11 – Climate Change and Environment—High Value
-* Lot 12 – Conflict and Governance—High Value
-* Lot 13 – Education—High Value
-* Lot 16 – Infrastructure—High Value
-* Lot 17 – Livelihoods—High Value
-* Lot 22 – Statistics and Data—High Value
-
-### Expert Advisory Call Down Services
+# U.K. Foreign, Commonwealth & Development Office (FCDO) Expert Advisory Call Down Services
 
 * [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
 * Lot C: Promoting Global Prosperity (Partner to IMC Worldwide)

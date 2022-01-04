@@ -5,13 +5,13 @@ lastname: Saucedo
 summary: Belem Saucedo collaborates on projects with financial institutions to strengthen
   MSME ecosystems in developing countries.
 job-title: Associate Manager
-image: "/uploads/Profile%20Pic%20(2).jpg"
+image: "/uploads/Belem_website.png"
 solutions:
 - Sustainable Business
 - 
 ---
 
-Belem is an Associate Manager with DAI’s Sustainable Business Group (SBG) as part of the entrepreneurship team for global initiatives. In her work with SBG, Belem collaborates on projects with financial institutions to strengthen MSME ecosystems in developing countries.
+Belem is an Associate Manager with DAI’s Sustainable Business Group as part of the entrepreneurship team for global initiatives. In her work with SBG, Belem collaborates on projects with financial institutions to strengthen MSME ecosystems in developing countries.
 
 Prior to joining SBG, Belem worked as a Senior Analyst on the Mexico Clean Energy Program implemented by DAI, coordinating technical and soft skills training with a gender and social inclusion approach. She also served as a Field Coordinator for the World Bank, managing the logistics for entrepreneurship impact evaluations centered on high-impact firms and gender empowerment. For nearly four years, Belem served as Deputy Director of Competition Analysis at BBVA, during which time she analyzed the banking sector and represented the entity in national associations.
 

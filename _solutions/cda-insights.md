@@ -11,6 +11,14 @@ layout: solution
 
 <br>
 <div class="insights">
+<div>
+    <a href="/uploads/regulating-ai-cda.pdf">
+      <img src="/uploads/regulating-ai-cda.png" alt="">
+      <h3>Regulating AI and Big Data Deployment in Healthcare</h3>
+      <p>Proposing Robust and Sustainable Solutions for Developing Countries’ Governments.</p>
+    </a>
+    <a href="/uploads/regulating-ai-cda.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
   <div>
     <a href="/fi-cyber-user-trust.pdf">
       <img src="/uploads/fi-cyber-thumb.jpg" alt="">

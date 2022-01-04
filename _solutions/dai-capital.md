@@ -46,7 +46,11 @@ For more information, please visit [www.daimagister.com](https://www.daimagister
 
 ### Asset Management
 
-DAI’s longstanding local presence and extensive networks across frontier and emerging markets provide an ideal platform for identifying promising investment opportunities, performing due diligence on these investment opportunities, and providing management support for the investee management teams once an investment is made.  
+DAI’s longstanding local presence and extensive networks across frontier and emerging markets provide an ideal platform for identifying promising investment opportunities, performing due diligence on these investment opportunities, and providing management support for the investee management teams once an investment is made.
+
+In December 2021, DAI announced the [acquisition of MicroVest Capital Management](/news/dai-acquires-international-asset-management-firm-microvest), adding a rich vein of expertise to DAI’s existing asset management team, connecting that combined team to a wider network of investors, and providing DAI a platform on which to build a world class asset management business.
+
+For more information on MicroVest, please visit [https://microvestfund.com/](https://microvestfund.com/). 
 
 <!-- ### Ventures
 
