@@ -32,3 +32,7 @@ Finally, FAST works to strengthen communication between policymakers and the pub
 * Train Ministry of Finance staff by reinforcing training-on-job functions, system operability and security, and using PFMIS data to improve reporting on budget and expenditure management.
 * Simplify business processes by detailing the new streamlined process, including the rules, regulations, roles and responsibilities, key performance indicators, and flow diagrams for new processes.
 * Foster public-private dialogue to help the government engage with the public and private sectors about key economic and fiscal policies through institutionalized mechanisms.
+
+## Select Results
+
+* Co-organized the launch of a national Online Business Registration system.
