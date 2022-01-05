@@ -34,6 +34,7 @@ In seven provinces, SFM is strengthening community forest management models to a
 * Support law enforcement to maintain forest integrity through analysis and action planning.
 * Implement interventions that strengthen grower groups, increase production of high-quality timber products, and create replicable, scalable models. 
 
-### Select Results
+## Select Results
 
 * Supported seven provinces to develop forest law enforcement action plans.
+* Signed a partnership agreement with the Biomass Fuel Vietnam Co., Ltd. to leverage $7.5 million to promote more than 5,000 hectares of Forest Stewardship Council-certified plantation forests from 3,000 small-scale forest owners in Nghe An province. 
