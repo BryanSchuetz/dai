@@ -2,7 +2,7 @@
 title: Kosovo—Transparent, Effective, and Accountable Municipalities (TEAM)
 date: 2017-02-06 22:20:00 Z
 summary: The Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity
-  assists the Government of Kosovo in strengthening systems and limiting opportunities
+  assisted the Government of Kosovo in strengthening systems and limiting opportunities
   for fraud, waste, or abuse in public procurement.
 start: 2016
 end: 2022
@@ -29,7 +29,7 @@ Public procurement is a government tool used to deliver goods and services such 
 
 However, in Kosovo, citizens, civil society organizations, and private sector economic operators report that public procurement had been compromised by political patronage, nepotism, fraud, and other forms of corruption. This problem reduces public resources available for service delivery to citizens, undermines public confidence in government, and deters foreign investment. It is critically important for the Government of Kosovo to address these weaknesses or gaps in the procurement system, especially at the municipal level, to safeguard public money spent through public procurement.
 
-To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the five-year Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity. The project supports Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM works with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations. In addition, USAID TEAM builds the capacity of civil society organizations to exercise citizen oversight municipal procurement in a watchdog role and to provide checks and balances by exposing corrupt practices and [working with citizens](https://www.facebook.com/usaidkosovo/videos/527441967721553/) and local governments as a partner in the process of procurement modernization.
+To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the five-year Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity. The project supported Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM worked with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations. In addition, USAID TEAM built the capacity of civil society organizations to exercise citizen oversight municipal procurement in a watchdog role and to provide checks and balances by exposing corrupt practices and [working with citizens](https://www.facebook.com/usaidkosovo/videos/527441967721553/) and local governments as a partner in the process of procurement modernization.
 
 <iframe src="https://player.vimeo.com/video/377382167" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
