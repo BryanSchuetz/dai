@@ -22,5 +22,5 @@ Fiona has worked as a consultant on a range of trade projects, including as tech
 
 Fiona worked at the former U.K. Department for International Development (now Foreign, Commonwealth & Development Office) for 13 years, including as Head of Trade and Development between 2008 and 2010, where she developed the department’s aid-for-trade portfolio and helped establish the Joint Trade Policy Unit. She has also worked for the World Bank, the European Union, and in the nongovernmental organization sector in a career encompassing aid for trade, trade policy and negotiations, export promotion, enterprise development, and support for regional integration. Fiona has lived and worked in Ethiopia, Tanzania, and Uganda. 
 
-* M.A., International Affairs, Columbia University
-* B.A., Economics, Cambridge University
+* M.A., international affairs, Columbia University
+* B.A., economics, Cambridge University
