@@ -5,7 +5,7 @@ lastname: Kent
 summary: 'Olga Kent is an international development professional with a background
   in finance and accounting.  '
 job-title: Lead Revenue Analyst
-image: "/uploads/Olga%20Kent.jpg"
+image: "/uploads/Olga_website.png"
 solutions:
 - Sustainable Business
 regions:
