@@ -1,6 +1,10 @@
 ---
 title: Sofia Martinez
 date: 2022-01-05 15:27:00 Z
+tags:
+- energy
+- renewable energy
+- climate
 lastname: Martinez
 summary: Sofia is a Principal in the Climate Business Unit where she will focus on
   strengthening DAI’s corporate responses and leadership, supporting existing projects
