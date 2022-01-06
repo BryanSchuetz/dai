@@ -5,7 +5,7 @@ summary: The Haiti Strategic Health Information System Program team consolidated
   integrated Haiti’s disconnected health information assets to create a comprehensive
   national system.
 start: 2017
-end: 2022
+end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Global Health

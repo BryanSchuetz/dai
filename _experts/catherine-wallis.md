@@ -2,11 +2,10 @@
 title: Catherine Wallis
 date: 2016-01-21 22:18:00 Z
 lastname: Wallis
-summary: 'Catherine Wallis leads our Climate and Natural Resources Team, supporting
-  business development, technical assistance, and project management with a focus
-  on resilient and food-secure communities, healthy productive ecosystems, and sustainable
-  development outcomes in the context of climate hazards. '
-job-title: Lead, Climate and Natural Resources
+summary: 'Catherine Wallis has 20 years’ experience delivering multi-annual programmes
+  delivering rural development, sustainable livelihoods, and social development outcomes
+  in over 30 countries in Africa, Asia, and the Indian Ocean. '
+job-title: Principal Consultant, Climate
 image: https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg
 solutions:
 - Energy
@@ -24,12 +23,11 @@ articles:
 layout: expert
 ---
 
-Catherine Wallis leads our Climate and Natural Resources Team, supporting business development, technical assistance, and project management with a focus on resilient and food-secure communities, healthy productive ecosystems, and sustainable development outcomes in the context of climate hazards. Catherine has more than 15 years of experience delivering international development projects in Afghanistan, Bangladesh, Burkina Faso, Ethiopia, Chad, Comoros, Ghana, India, Ivory Coast, Kenya, Liberia, Madagascar, Malawi, Mauritius, Nigeria, Tanzania, Uganda, and Vietnam. 
-She has experience in working with smallholder farmers and communities in fragile environments in Africa and Asia. Her expertise lies in climate resilience and risk management, climate-smart agriculture, ecosystem-based approaches, and adaptive social protection.
+Catherine Wallis is a member of our Climate unit, where she helps build world-class teams, offerings, and networks across DAI and among partners to deliver exceptional and impactful climate action. She previously led Climate and Natural Resources portfolio within the Resilience team, supporting business development, technical assistance, and project management.
 
-She currently oversees DAI’s Adapt’action framework contracts in small and developing island states financed by the Agence Française de Developpement (AFD). These short and strategic assignments support host governments in implementing their Paris Agreement commitments by integrating climate risks into sectoral policies and programming, as well as supporting access to international climate finance. The Indian Ocean Hydromet programme formulation mission successfully resulted into approved funding by the Green Climate Fund and the AFD in March 2021. 
+Catherine has 20 years’ experience delivering multi-annual programs delivering rural development, sustainable livelihoods, and social development outcomes in more than 30 countries in Africa, Asia, and the Indian Ocean. She has also led multiple business case development and project evaluations for multiple donors. For the past 12 years, she specialises in climate action, ecosystem-based adaptation, natural resources management, and biodiversity conservation.
 
-She provides thought leadership for mainstreaming climate solutions that enhance the development impact of DAI’s projects, such as Ethiopia’s [GCCA+ Climate Smart Approaches for the Productive Safety Net Programme (PSNP)](https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-gcca-plus-mainstreaming-of-climate-smart-planning-and-implementation-approaches). She also provides peer review guidance to in-house framework and call-down contracts with the Foreign, Commonwealth & Development Office and the European Union relating to climate, resilience and the environment.
+Since 2018 she oversees DAI’s Adapt’action framework contracts in small and developing island states financed by French Development Agency (AFD). These strategic assignments support host governments to operationalise their Paris Agreement commitments by integrating climate risks into sectoral policies and enabling access to climate finance. The Indian Ocean Hydromet programme formulation mission successfully resulted into approved funding by the Green Climate Fund and the AFD in March 2021.
 
 * MSc, environmental policy, planning and sciences, University of Bath
 * MSc., agronomy, Ecole Nationale Supérieure d'Agronomie et des Industries Alimentaires

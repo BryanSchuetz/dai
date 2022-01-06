@@ -6,7 +6,7 @@ summary: 'Peter Dimitroff holds more than 25 years of international development 
   project management experience, primarily in the Middle East and Afghanistan and
   focusing on anti-corruption, budget transparency, legislative strengthening, and
   women’s empowerment. '
-job-title: Chief of Party, USAID Iraq Governance and Performance Accountability Project
+job-title: Interim Regional Vice President, Africa Region
 image: https://assetify-dai.com/experts/Dimitroff%2C%20Peter%20inner.jpg
 solutions:
 - Fragile States
@@ -23,7 +23,7 @@ layout: expert
 
 Peter Dimitroff holds more than 25 years of international development and project management experience, primarily in the Middle East and Afghanistan and focusing on anti-corruption, budget transparency, legislative strengthening, and women’s empowerment. After a 12-year army career in his native country of Canada, Peter served on the staff of the Canadian Parliament for six years in a variety of roles, including Chief of Staff to the Secretary of State for Central Asia and the Middle East within the Department of Foreign Affairs. He parlayed this experience into the international development arena, serving as the National Democratic Institute’s Country Director in Bosnia and Herzegovina, then in Afghanistan, and later in Yemen for the whole Arabian Gulf Region. He subsequently held senior technical and managerial positions on U.S. Agency for International Development (USAID) projects in Iraq and Afghanistan, as well as with the Afghanistan NGO Safety Office.
 
-Since joining DAI he has been deployed to Haiti, Sri Lanka, Guinea, and Afghanistan, where he served as Chief of Party for the USAID Assistance to Legislative Bodies of Afghanistan program and as Senior Technical Advisor for the [Promote Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) project, part of the largest women’s empowerment program in USAID’s history. He currently serves in Iraq for DAI as Chief of Party for USAID’s flagship governance project, the [Iraq Governance and Performance Accountability project](https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project), operating through the country to support improved local service delivery and public financial management. 
+Since joining DAI he has been deployed to Haiti, Sri Lanka, Guinea, and Afghanistan, where he served as Chief of Party for the USAID Assistance to Legislative Bodies of Afghanistan program and as Senior Technical Advisor for the Promote Musharikat project, part of the largest women’s empowerment program in USAID’s history. He also formerly served in Iraq for DAI as Chief of Party for USAID’s flagship governance project, the [Iraq Governance and Performance Accountability project](https://www.dai.com/our-work/projects/iraq-governance-and-performance-accountability-project), operating through the country to support improved local service delivery and public financial management. 
 
 * M.A., public policy and administration, Carleton University
 * B.A., political studies and history, Royal Military College of Canada  
