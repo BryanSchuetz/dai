@@ -1,6 +1,7 @@
 ---
 title: Mark Rasmuson
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Rasmuson
 summary: 'Mark Rasmuson currently serves as Senior Technical and Management Advisor
   for the U.S. Agency for International Development (USAID) Preparedness and Response
