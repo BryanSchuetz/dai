@@ -4,7 +4,7 @@ date: 2020-01-22 08:03:00 Z
 lastname: Fritz
 summary: Natawnee Fritz oversees the market analysis, research, and strategy development
   and implementation for DAI’s U.S. Government business unit.
-job-title: Senior Director, U.S. Government Strategy
+job-title: Vice President, Business Transformation
 image: "/uploads/natawnee.jpg"
 ---
 
