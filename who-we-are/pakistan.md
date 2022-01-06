@@ -1,6 +1,6 @@
 ---
 title: DAI in Pakistan
-permalink: who-we-are/global-reach/pakistan
+permalink: who-we-are/global-reach/pakistan-office
 summary: Home to almost a quarter of a billion people at the crossroads of Central
   Asia, the Asian Subcontinent, and the Gulf, Pakistan is both a rapidly growing economy
   and a perennial geopolitical hotspot, given its borders with Afghanistan, China,
