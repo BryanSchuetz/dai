@@ -2,10 +2,10 @@
 title: Bhairav Raja
 date: 2016-01-21 22:18:00 Z
 lastname: Raja
-summary: 'Bhairav Raja is a Client Lead in DAI’s Sustainable Business Group, based
-  in London. '
-job-title: Senior Manager, Private Sector Development
-image: "/uploads/cdai-22.jpg"
+summary: 'Bhairav Raja is the Practice Lead for Responsible Business at DAI’s Sustainable
+  Business Group, based in London. '
+job-title: Practice Lead, Responsible Business
+image: "/uploads/Bhairav%20Raja.png"
 solutions:
 - Economic Growth
 - Finance and Investment
