@@ -5,7 +5,7 @@ summary: The Technical Assistance to Strengthen Capabilities (TASC) Project cont
   to improved nutritional outcomes as part of the UKaid-funded Technical Assistance
   for Nutrition programme, which works to strengthen the capacity of 60 countries.
 start: 2020
-end: 2021
+end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health

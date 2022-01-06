@@ -1,7 +1,7 @@
 ---
 title: Nigeria—Fleming Fund
 date: 2019-06-21 13:05:00 Z
-summary: 'DAI’s Fleming Fund programme in Nigeria is a collaboration with the Nigerian
+summary: 'DAI’s Fleming Fund programme in Nigeria was a collaboration with the Nigerian
   government to strengthen systems for AMR and Antimicrobial Use (AMR/AMU) using a
   “One Health” approach—a multisectoral approach to complex health problems that reaches
   across human health, animal health, and environment sectors. '
@@ -19,11 +19,11 @@ promos:
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
 ---
 
-The Fleming Fund is a U.K. Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s [Fleming Fund](https://www.flemingfund.org/) programme in Nigeria is a collaboration with the Nigerian government to strengthen systems for AMR and Antimicrobial Use (AMR/AMU) using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team will help incorporate One Health across programme interventions. DAI will work with the Nigerian government to become a leader in combating antimicrobial resistance.
+The Fleming Fund is a U.K. Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s [Fleming Fund](https://www.flemingfund.org/) programme in Nigeria was a collaboration with the Nigerian government to strengthen systems for AMR and Antimicrobial Use (AMR/AMU) using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team helped incorporate One Health across programme interventions. DAI worked with the Nigerian government to become a leader in combating antimicrobial resistance.
 
-The DAI team convenes and supports a National AMR Symposium, a series of consultative meetings, workshops and one-on-one meetings to launch the OHNSC with the AMRCC Secretariat and associated technical working groups. The National AMR Symposium sets the stage for ongoing state-level AMR engagement.
+The DAI team convened and supported a National AMR Symposium, a series of consultative meetings, workshops and one-on-one meetings to launch the technical working groups. The National AMR Symposium set the stage for ongoing state-level AMR engagement.
 
-Fleming Fund Nigeria partners include the Institute for Human Virology Nigeria, the International Foundation Against Infectious Disease in Nigeria, the Liverpool School of Tropical Medicine, and Life Stock Management Services.
+Fleming Fund Nigeria partners included the Institute for Human Virology Nigeria, the International Foundation Against Infectious Disease in Nigeria, the Liverpool School of Tropical Medicine, and Life Stock Management Services.
 
 ## Sample Activities
 
