@@ -1,6 +1,7 @@
 ---
 title: Jeremy Haslam
 date: 2017-09-20 19:05:00 Z
+published: false
 lastname: Haslam
 summary: Jeremy “Jez” Haslam is an international development and crisis response professional
   with two decades of experience delivering programs in countries facing complex emergencies,
