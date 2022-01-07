@@ -7,7 +7,7 @@ hero: true
 regions: Middle East and North Africa
 related: true
 country-page: true
-layout: node
+layout: solution
 ---
 
 <div class="block-project">

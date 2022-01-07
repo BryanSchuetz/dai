@@ -7,18 +7,8 @@ hero: true
 regions: Middle East and North Africa
 related: true
 country-page: true
-layout: node
+layout: solution
 ---
-
-<div class="country-people">
-  <div class="country-people--block first">
-    <div class="countryRep">
-    <img src="https://www.dai.com/uploads/Chris_MacDonald_Photo.jpg" alt="Joe Abah">
-    <p class="name"><strong><a href="https://www.dai.com/who-we-are/our-team/chris-macdonald">Chris MacDonald, Managing Director, Oman and GCC Countries </a></strong></p>
-    </div>  
-  </div>
-</div> 
-
 In Oman, DAI has supported clients including Shell, Occidental Petroleum Oman, Khimji Ramdas Group, and government ministries including Commerce, Industry and Investment Promotion, Health, and Petroleum Development Oman (PDO). 
 
 Our work has focused on providing advisory and implementation services in corporate social investment (CSI) and in-country value (ICV). PDO defines ICV as “the total spends retained in country that benefits business development, contributes to human capability development and stimulates productivity in Oman’s economy.”
