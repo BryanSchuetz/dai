@@ -1,14 +1,20 @@
 ---
 title: DAI in Oman
 permalink: "/who-we-are/global-reach/oman-office"
-summary: |
-  DAI’s office in Oman was established in November 2018 as a point of entry to expand its services in the Gulf region. Since inception it has focused on the objectives of Oman Vision 2040, particularly on promoting a competitive economy that is productive and diversified, driven by an innovative private sector, and achieving sustainable development for the country.
+summary: 'DAI’s office in Oman was established in November 2018 as a point of entry
+  to expand its services in the Gulf region. Since inception it has focused on the
+  objectives of Oman Vision 2040, particularly on promoting a competitive economy
+  that is productive and diversified, driven by an innovative private sector, and
+  achieving sustainable development for the country.
+
+'
 hero: true
 regions: Middle East and North Africa
 related: true
 country-page: true
 layout: solution
 ---
+
 In Oman, DAI has supported clients including Shell, Occidental Petroleum Oman, Khimji Ramdas Group, and government ministries including Commerce, Industry and Investment Promotion, Health, and Petroleum Development Oman (PDO). 
 
 Our work has focused on providing advisory and implementation services in corporate social investment (CSI) and in-country value (ICV). PDO defines ICV as “the total spends retained in country that benefits business development, contributes to human capability development and stimulates productivity in Oman’s economy.”
