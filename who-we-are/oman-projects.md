@@ -1,8 +1,13 @@
 ---
 title: DAI in Oman
 permalink: "/who-we-are/global-reach/oman/projects"
-summary: |
-  DAI’s office in Oman was established in November 2018 as a point of entry to expand its services in the Gulf region. Since inception it has focused on the objectives of Oman Vision 2040, particularly on promoting a competitive economy that is productive and diversified, driven by an innovative private sector, and achieving sustainable development for the country.
+summary: 'DAI’s office in Oman was established in November 2018 as a point of entry
+  to expand its services in the Gulf region. Since inception it has focused on the
+  objectives of Oman Vision 2040, particularly on promoting a competitive economy
+  that is productive and diversified, driven by an innovative private sector, and
+  achieving sustainable development for the country.
+
+'
 hero: true
 regions: Middle East and North Africa
 related: true
