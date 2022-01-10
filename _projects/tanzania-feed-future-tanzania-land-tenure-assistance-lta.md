@@ -56,7 +56,7 @@ Under the Land Tenure Assistance (LTA) activity, funded by the U.S. Agency for I
 ### Select Results
 
 * Developed formal field and office procedures for regularizing land ownership.
-* Demarcated 32,000 parcels in 22 villages and issued 22,000 Certificates of Customary Right of Occupancy.
+* Demarcated 107,226 parcels in 66 villages and issued 97,799 Certificates of Customary Right of Occupancy.
 * Nearly 50 percent of land claims are by [women](https://www.usaid.gov/results-data/success-stories/land-rights-mark-new-frontier-rural-women), who hold land in multiple plots either singly, [jointly](https://land-links.org/document/lta-success-story-land-registration-opens-economic-doors-women-kiponzelo/), or in common. 
 * [Won award](https://www.dai.com/news/tanzania-land-tenure-project-wins-usaid-digital-development-award) from U.S. Global Development Lab for its innovative use of GPS technology to survey and register land in rural communities and for its development of a digital registry to document property transfers. 
 
