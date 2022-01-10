@@ -9,8 +9,8 @@ end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
-- Sustainable Livelihoods
-- Education
+- Gender and Social Inclusion
+- Workforce Development and Youth
 regions: Asia and the Pacific
 country: Indonesia
 promos:
