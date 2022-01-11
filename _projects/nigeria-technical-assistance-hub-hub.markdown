@@ -25,5 +25,5 @@ We apply core principles such as continuous curation of technical assistance res
 
 ## Sample Activities
 
-* Serve as a demonstration of the TA Hub’s core principles—the group-antenatal care programme will assist state governments to implement and sustain group-antenatal care as part of each state’s primary healthcare system. Group-antenatal care will serve as the platform for related services such as early malaria detection and malaria treatment, and will tie into another TA Hub investment focused on strengthening the primary healthcare system’s management capacity. 
+* Serve as a demonstration of the TA Hub’s core principles—the group-antenatal care program will assist state governments to implement and sustain group-antenatal care as part of each state’s primary healthcare system. Group-antenatal care will serve as the platform for related services such as early malaria detection and malaria treatment, and will tie into another TA Hub investment focused on strengthening the primary healthcare system’s management capacity. 
 * Strengthen Nigeria's primary healthcare management capacity by improving management, operational efficiency, governance, supervision, and the quality of clinical services. 
