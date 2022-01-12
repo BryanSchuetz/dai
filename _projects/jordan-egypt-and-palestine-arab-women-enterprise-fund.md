@@ -68,7 +68,7 @@ Read more about women’s economic empowerment on AWEF’s [learning hub.](https
 
 <hr>
 
-**One year (2021) extension of AWEF in Egypt (AWEF II)**
+**One year (2021) extension in Egypt (AWEF II)**
 
 ### Select Results
 
