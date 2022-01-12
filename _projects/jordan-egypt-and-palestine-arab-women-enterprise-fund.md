@@ -66,6 +66,7 @@ Read more about women’s economic empowerment on AWEF’s [learning hub.](https
 * Worked with partners to develop and test new recruitment processes for women in the readymade garment sector. These new approaches included running women-only job fairs, creating mixed-gender outreach teams as part of recruitment drives, and adopting gender-sensitive promotional materials. As a result of this intervention, 4,028 women were reached through recruitment events and AWEF’s partner and lead firm, Arafa, established a reputation as a credible employer within targeted communities. 
 * Influenced a formal change in the Palestinian Monetary Authority’s regulations on allowing banks to offer accounts for low-income earners. This change in position enables all low-income earners as well as those who are self-employed, to access banking services and accounts which dramatically expands their potential market and improves women’s ability to make decisions over their own finances. 
 
+<hr>
 
 **One year (2021) extension of AWEF in Egypt (AWEF II)**
 
