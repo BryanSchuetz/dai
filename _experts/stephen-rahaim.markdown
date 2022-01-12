@@ -5,7 +5,7 @@ lastname: Rahaim
 summary: 'Stephen Rahaim is a health system, private sector engagement, and social
   innovation specialist with 20 years of experience working to strengthen health systems
   in emerging and developing markets. '
-job-title: Senior Global Practice Leader, Innovation
+job-title: Senior Global Practice Leader, Market Solutions
 image: "/uploads/Stephen%20Rahaim%20site.jpg"
 solutions:
 - Global Health
@@ -20,4 +20,4 @@ As the Chief of Party of the U.S. Agency for International Development (USAID)-f
 Beyond engagement in donor-funded projects, Stephen has advised multinational pharmaceutical and health technology companies on product markets, business models for emerging markets, and partnership development. Stephen regularly advises and mentors new social enterprises and startups on strategy, product development, and organizational growth. He also serves on several advisory boards and the board of directors of the CORE Group.
  
 * B.A., English and philosophy, Michigan State University
-* MPH, Tulane University School of Public and Tropical Medicine
+* M.P.H., Tulane University School of Public and Tropical Medicine
