@@ -12,6 +12,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Public Financial Management
+- Resilience
 regions: Asia and the Pacific
 country: Bangladesh
 promos:
