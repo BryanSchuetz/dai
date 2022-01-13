@@ -3,9 +3,8 @@ title: Jay Gutzwiller
 date: 2020-01-22 13:56:00 Z
 lastname: Gutzwiller
 summary: Jay Gutzwiller manages DAI’s portfolio of USAID-funded projects in Eastern
-  Europe, Latin America, and the Caribbean, as well as Washington, D.C.-based global
-  programs.
-job-title: Vice President, Global Region
+  Europe, Latin America, and the Caribbean.
+job-title: Regional Vice President, Eastern Europe, Latin America, and the Caribbean
 image: "/uploads/Jay.jpg"
 solutions:
 - Economic Growth
