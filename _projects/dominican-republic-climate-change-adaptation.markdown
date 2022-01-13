@@ -4,7 +4,7 @@ date: 2020-12-07 10:07:00 Z
 summary: DAI is developing a feasibility study and final designs for a climate change
   adaptation programme for the Yaque del Sur River Basin in the Dominican Republic.
 start: 2020
-end: 2021
+end: 2022
 client: 'Agence Française de Développement '
 solutions:
 - Environment
