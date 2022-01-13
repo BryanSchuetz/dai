@@ -6,7 +6,7 @@ summary: The State Matura Project is preparing the education system and the Mini
   of Education, Science, and Technological Development to implement new final examinations
   at the end of secondary education in the Republic of Serbia.
 start: 2019
-end: 2021
+end: 2022
 client: European Union
 solutions:
 - Governance
