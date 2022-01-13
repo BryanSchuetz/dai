@@ -2,8 +2,8 @@
 title: Moldova—Support to Efficient Prevention and Fight Against Corruption in the
   Justice Sector
 date: 2021-03-09 11:37:00 Z
-summary: This project worked to accelerate the sustainable reform of the justice sector
-  by supporting the implementation of the legislation to prevent and combat corruption
+summary: This project accelerated the sustainable reform of the justice sector by
+  supporting the implementation of the legislation to prevent and combat corruption
   in the justice sector in the Republic of Moldova.
 start: 2018
 end: 2021
