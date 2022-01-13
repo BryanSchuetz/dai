@@ -1,11 +1,11 @@
 ---
 title: Morocco—Technical Assistance to Support Social Protection Reform
 date: 2019-05-13 10:00:00 Z
-summary: 'The Technical Assistance to Support Social Protection Reform project in
-  Morocco works to: coordinate and monitor social protection reforms; strengthen capacity
-  in social assistance, social insurance, social protection, and health; produce studies
-  to improve the monitoring and evaluation of the reforms; and implement communication
-  and visibility activities.'
+summary: The Technical Assistance to Support Social Protection Reform project in Morocco
+  coordinated and monitored social protection reforms; strengthened capacity in social
+  assistance, social insurance, social protection, and health; produced studies to
+  improve the monitoring and evaluation of the reforms; and implemented communication
+  and visibility activities.
 start: 2019
 end: 2021
 client: European Union
@@ -17,9 +17,9 @@ regions: Middle East and North Africa
 country: Morocco
 ---
 
-The Government of Morocco is investing in the improvement of its social protection system to boost access to health care among the population. DAI is providing technical assistance to the European Union (EU)-funded Support Social Protection Reform program, which works to coordinate and monitor social protection reforms, based on the logical framework of a result-oriented budget programming; strengthen capacity in social assistance, social insurance, social protection, and health; produce studies to improve the monitoring and evaluation of the reforms, and implement communication and visibility activities.
+The Government of Morocco is investing in the improvement of its social protection system to boost access to health care among the population. DAI provided technical assistance to the European Union (EU)-funded Support Social Protection Reform program, which worked to coordinate and monitor social protection reforms, based on the logical framework of a result-oriented budget programming; strengthened capacity in social assistance, social insurance, social protection, and health; produced studies to improve the monitoring and evaluation of the reforms, and implemented communication and visibility activities.
 
-The project is being implemented jointly with IBF and Vayans Consulting, two consulting firms based in Belgium and Morocco, respectively.
+The project was being implemented jointly with IBF and Vayans Consulting, two consulting firms based in Belgium and Morocco, respectively.
 
 ![MorocPhoto 7-ceef73.jpg](/uploads/MorocPhoto%207-ceef73.jpg)
 
