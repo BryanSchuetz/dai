@@ -7,7 +7,7 @@ summary: 'DAI’s Sustainable Business Group (SBG) supports Shell with strengt
   for successful entrepreneurs to connect with Shell’s local value chain and relevant
   local markets.  '
 start: 2019
-end: 2021
+end: 2022
 client: Shell International B.V.
 solutions:
 - Sustainable Business
