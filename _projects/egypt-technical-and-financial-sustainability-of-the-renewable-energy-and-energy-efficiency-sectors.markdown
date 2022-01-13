@@ -7,7 +7,7 @@ summary: DAI is creating the Cairo Energy Efficiency Centre to promote the use o
   reform in the energy sector by assisting Egypt to achieve sustainable energy and
   security of energy supplies.
 start: 2017
-end: 2021
+end: 2022
 client: European Union
 solutions:
 - Environment
