@@ -1,7 +1,7 @@
 ---
 title: Serbia—Technical Assistance for Energy Efficiency and Renewable Energy Sources
 date: 2021-01-18 09:09:00 Z
-summary: 'This project contributes to the security of supply, a more competitive energy
+summary: 'This project contributed to the security of supply, a more competitive energy
   market, and sustainable energy development in Serbia. '
 start: 2019
 end: 2021
@@ -19,7 +19,7 @@ promos:
 
 Serbia is among the European countries with the highest energy intensity, with a large dependence on fossil fuels, especially coal. Its development targets, however, require bringing the energy sector into a sustainable footing by improving the energy efficiency situation across all sectors and increasing the use of renewable energy sources. 
 
-[This project](https://neap-res-directive.euzatebe.rs/en) contributes to the security of supply, a more competitive energy market, and sustainable energy development in Serbia. Our objective is to improve policy enforcement, monitoring, and harmonization of national legislation in line with the European Union (EU) Energy Acquis and commitments for the energy community.
+[This project](https://neap-res-directive.euzatebe.rs/en) contributed to the security of supply, a more competitive energy market, and sustainable energy development in Serbia. Our objective was to improve policy enforcement, monitoring, and harmonization of national legislation in line with the European Union (EU) Energy Acquis and commitments for the energy community.
 
 ![Energy Serbia - PSC 1.jpg](/uploads/Energy%20Serbia%20-%20PSC%201.jpg)
 
