@@ -33,3 +33,11 @@ DAI provided technical assistance to the Integrated Policy Management Groups (IP
 * Improve the quality of policy management and produce high-quality analytical reports.
 * Strengthen the capacities of the Department for Development and Good Governance to mainstream crosscutting issues such as gender equality, climate change, environment as well as addressing of EU Acquis alignment priorities and the Sustainable Development Goals.
 * Support the sectorial IPMG/SSC secretariats to establish tools to effectively coordinate, plan, and monitor the implementation of sector reforms and priorities by streamlining the IPMGs' structure and processes.
+
+### Select Results
+
+* Built the capacity of the IPMG structures and the DDGG in its role as coordinator of the IMPG Mechanism.
+* Developed a proposal for the IPMG Rules of Procedure document to clarify roles, ensure a common understanding of the IPMG mechanism, and provide guidance to line ministries on fulfilling their important role in inter-ministerial policy coordination.
+* Developed a methodological framework to support the IPMG Mechanism for Organization, Functioning, and Performance Appraisal, which set out the framework for the organization, monitoring and assessment of the IPMG mechanism—including a capacity building needs assessment tool that will allow IPMGs to identify and track gaps and a comprehensive system of performance indicators to follow progress achieved under each IPMG.
+* Developed the Technical Note, "Annual Stocktaking of Governance Reforms and Potential Ways Forward," as a strategic document in assessing the current state of play in several areas focused on good governance.
+* Presented recommendations for a concrete reform agenda in the short- and medium-term.
