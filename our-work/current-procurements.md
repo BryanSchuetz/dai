@@ -10,4 +10,5 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-* [RFP-CAI-22-0008 Piloting of Internal Control and Governance Units (ICGUs) Within Government Entities in Egypt](https://dai-assets.s3.amazonaws.com/rfps/RFP-CAI-22-0008-FINAL.pdf)
+* [RFP-CAI-22-0008 Piloting of Internal Control and Governance Units (ICGUs) Within Government Entities in Egypt](https://dai-assets.s3.amazonaws.com/rfps/RFP-CAI-22-0008-FINAL.pdf "2/7")
+*[REQ-CHN-21-0005 Comprehensive Health Insurance](https://dai-assets.s3.amazonaws.com/rfps/RFQ-%20Health%20Insurance%202022.01.12.pdf "1/24")
