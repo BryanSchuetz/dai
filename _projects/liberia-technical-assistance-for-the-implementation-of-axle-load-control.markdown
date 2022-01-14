@@ -18,7 +18,6 @@ Since the end of its civil wars, Liberia has sought to strengthen the infrastruc
 
 Under the Technical Assistance for the Implementation of Axle Load Control project, DAI is advancing Liberia's road network in line with standards established by the Economic Community of West African States (ECOWAS). We are working to improve the sustainability and security of the road transport system by curtailing vehicle overloading—deploying a mobile brigade to monitor loading, enforce penalties, and over time reduce the rate at which regional road corridors deteriorate.
 
-![Liberia_EU.jpg](/uploads/Liberia_EU.jpg)
 
 ### Sample Activities
 
