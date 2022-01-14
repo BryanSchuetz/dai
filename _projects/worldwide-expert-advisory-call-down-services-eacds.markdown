@@ -16,6 +16,9 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
+- title: '"The Crucial Role of Social Protection Systems in Building Resilience to
+    Climate Risks"'
+  link: https://dai-global-developments.com/articles/the-crucial-role-of-social-protection-systems-in-building-resilience-to-climate-risks
 - title: "**Report**:_El Niño 2018-19: Historical Impact Analysis_"
   link: "/uploads/DFID_El%20Nino_2018_Historical%20Impact%20Analysis%20(University%20of%20Reading).pdf"
 - title: "**Guidance Note**: _Education in Emergencies_"
