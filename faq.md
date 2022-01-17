@@ -23,15 +23,15 @@ It is no longer correct to refer to DAI as “Development Alternatives, Inc.” 
 
 We are skilled technical specialists and project managers, trained in the disciplines of international development and steeped in the challenges of operating overseas. We work for development agencies, private corporations, and philanthropies to tackle fundamental social and economic development problems caused by inefficient markets, ineffective governance, and instability. This means working across the spectrum of international development. Today, for example, it means:
 
-* Equipping women to join the workforce in Afghanistan and the Middle East
+* Equipping women to join the workforce in the Middle East
 * Stimulating the trade in life-changing seeds for farmers in southern Africa
 * Reversing the dynamics that lead to violent extremism in Kenya, Pakistan, and the Philippines
 * Strengthening overseas health systems so they can contain the next pandemic threat, like Ebola
-* Helping oil companies invest in their host communities in a way that benefits both their bottom line and the local people and enterprises in those communities
+* Helping energy companies invest in their host communities in a way that benefits both their bottom line and the local people and enterprises in those communities
 
 ## Is DAI a company or an NGO?
 
-DAI is a company, wholly owned by its employees. Our founders created a business model that would embrace the rigors of the marketplace—competition and innovation—and plough its returns back into the organization and its people so that DAI can serve as an engine for progress in emerging and developing nations. Competition is at the heart of this vision. We compete for 99 percent of our projects. For DAI, open competition keeps us sharp and tests our claims to quality and value. For our clients, for taxpayers, and for development as a whole, competition yields lower costs, better value, superior technical innovation, and more diverse technical choices. DAI is a proud member of the Council for International Development Companies, but we also believe that the enterprise of development is best served by a diverse ecosystem of service providers including private firms large and small, local and international NGOs, multilateral organizations, academic institutions, think tanks, and so on. In 2017, DAI entered into a formal strategic affiliation with the distinguished North Carolina-based NGO, IntraHealth International.
+DAI is a company, wholly owned by its employees. Our founders created a business model that would embrace the rigors of the marketplace—competition and innovation—and plough its returns back into the organization and its people so that DAI can serve as an engine for progress in emerging and developing nations. Competition is at the heart of this vision. We compete for 99 percent of our projects. For DAI, open competition keeps us sharp and tests our claims to quality and value. For our clients, for taxpayers, and for development as a whole, competition yields lower costs, better value, superior technical innovation, and more diverse technical choices. DAI is a proud member of the Council for International Development Companies, but we also believe that the enterprise of development is best served by a diverse ecosystem of service providers including private firms large and small, local and international NGOs, multilateral organizations, academic institutions, think tanks, and so on.
 
 ## Who owns DAI?
  
@@ -39,7 +39,7 @@ DAI is wholly owned by its employees. All global corporate employees may invest 
 
 ##  How many people work for DAI?
 
-Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of May 2020, we employ approximately 5,400 people worldwide, a large majority of them local staff.
+Given the churn of projects and the mix of long- and short-term assignments, this is a moving target. But as of December 2021, we employ approximately 5,000 people worldwide, a large majority of them local staff.
 
 ##  Who are your partners?
 
