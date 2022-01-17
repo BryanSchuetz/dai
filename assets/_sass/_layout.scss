@@ -1659,17 +1659,17 @@ iframe.last-month {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  height: 3676px;
+  height: 3476px;
   width: 400px;
 
   @include responsive(wide-screens) {
     width: 700px;
-    height: 5866px;
+    height: 5666px;
   }
 
   @include responsive(ultra-wide-screens) {
     width: 800px;
-    height: 5928px;
+    height: 5728px;
   }
 }
 .aside-quote {
