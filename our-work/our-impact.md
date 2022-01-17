@@ -19,7 +19,7 @@ We envision a world in which communities and societies become more prosperous, f
        <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
-             <img src="/uploads/ungc-report-2021.png" alt="Placeholder image">
+             <img src="/uploads/ungc2021.png" alt="Placeholder image">
            </figure>
          </div>
          <div class="card-content">
@@ -34,7 +34,7 @@ We envision a world in which communities and societies become more prosperous, f
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
-           <a href="/uploads/ungc-2021.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+           <a href="/uploads/ungc-report-2021.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
          </footer>
        </div>
      </div>
