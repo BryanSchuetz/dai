@@ -19,6 +19,29 @@ We envision a world in which communities and societies become more prosperous, f
        <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
+             <img src="/uploads/ungc2021.png" alt="Placeholder image">
+           </figure>
+         </div>
+         <div class="card-content">
+           <div class="media">
+             <div class="media-content">
+               <p class="title is-4">Communication on Progress</p>
+               <p class="subtitle is-6">2021</p>
+             </div>
+           </div>
+           <div class="content">
+             <p>"Under the leadership of longtime DAI climate and environment specialist Donald Lunan," writes DAI President and CEO Jim Boomgard in his introduction. "The Climate Practice is ensuring that we deliver a “whole of company” approach to our efforts, leveraging our climate programming across the wide range of DAI clients, technical disciplines, and geographies to ensure that we are sharing knowledge and expertise across all our offices and projects, and helping to drive innovation."</p>
+           </div>
+         </div>
+         <footer class="card-footer pt-0" style="padding-top: 0;" >
+           <a href="/uploads/ungc-2021.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+         </footer>
+       </div>
+     </div>
+     <div class="column">
+       <div class="card is-fullheight">
+         <div class="card-image">
+           <figure class="image is-3by2">
              <img src="/uploads/2020-cop-preview.jpg" alt="Placeholder image">
            </figure>
          </div>
@@ -34,11 +57,13 @@ We envision a world in which communities and societies become more prosperous, f
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
-           <a href="https://www.dai.com/uploads/UNGC%20Communication%20on%20Progress%202020.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+           <a href="/uploads/UNGC%20Communication%20on%20Progress%202020.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
          </footer>
        </div>
      </div>
-     <div class="column">
+   </div>
+   <div class="container columns">
+     <div class="column is-half">
        <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
@@ -57,13 +82,11 @@ We envision a world in which communities and societies become more prosperous, f
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
-           <a href="https://www.dai.com/uploads/UNGC%20Communication%20on%20Progress%202020.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+           <a href="/uploads/DAI%20UNGC%20Communication%20on%20Progress%202019.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
          </footer>
        </div>
      </div>
-   </div>
-   <div class="container columns">
-     <div class="column is-half">
+            <div class="column">
        <div class="card is-fullheight">
          <div class="card-image">
            <figure class="image is-3by2">
@@ -82,11 +105,10 @@ We envision a world in which communities and societies become more prosperous, f
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
-           <a href="https://preview-dai.com/uploads/DAI%20Global%20UNGC%20COP%20Final.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+           <a href="/uploads/DAI%20Global%20UNGC%20COP%20Final.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
          </footer>
+       </div>       
        </div>
-       <div class="column"></div>
-     </div>
    </div>
   </div>
  
