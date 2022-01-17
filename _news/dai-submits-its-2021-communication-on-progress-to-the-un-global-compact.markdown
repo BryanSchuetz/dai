@@ -2,7 +2,16 @@
 title: DAI Submits Its 2021 Communication on Progress to the UN Global Compact
 date: 2022-01-18 07:57:00 Z
 published: false
+solutions:
+- Climate
+- Stability
+- Governance
+- Economic Growth
+regions: Worldwide
+summary: DAI is delighted to submit its [UNGC 2021_DAI Submission.pdf](/uploads/UNGC%202021_DAI%20Submission.pdf)
+  to the United Nations Global Compact.
 social-image: "/uploads/Screen%20Shot%202022-01-17%20at%204.59.12%20PM-af0672.png"
+country: Worldwide
 ---
 
 DAI is delighted to submit its [UNGC 2021_DAI Submission.pdf](/uploads/UNGC%202021_DAI%20Submission.pdf) to the United Nations Global Compact.
