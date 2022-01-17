@@ -5,7 +5,7 @@ summary: EACDS is a technical advisory call-down service which provides rapid-re
   expert support to the Foreign, Commonwealth & Development Office and other U.K.
   Government agencies and other donors.
 start: 2016
-end: 2021
+end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Climate
@@ -16,6 +16,9 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
+- title: '"The Crucial Role of Social Protection Systems in Building Resilience to
+    Climate Risks"'
+  link: https://dai-global-developments.com/articles/the-crucial-role-of-social-protection-systems-in-building-resilience-to-climate-risks
 - title: "**Report**:_El Niño 2018-19: Historical Impact Analysis_"
   link: "/uploads/DFID_El%20Nino_2018_Historical%20Impact%20Analysis%20(University%20of%20Reading).pdf"
 - title: "**Guidance Note**: _Education in Emergencies_"

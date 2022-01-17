@@ -6,7 +6,7 @@ summary: This project provides technical assistance to help harmonize seed regul
   across the region, thereby integrating smaller and isolated national markets into
   one larger SADC market for seeds.
 start: 2015
-end: 2021
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Agriculture and Food Security

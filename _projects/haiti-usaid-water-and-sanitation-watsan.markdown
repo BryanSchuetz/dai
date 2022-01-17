@@ -6,7 +6,7 @@ summary: The USAID Water and Sanitation project works with private-sector partne
   access to basic water services and 75,000 Haitians gain access to basic sanitation
   services.
 start: 2017
-end: 2021
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Environment

@@ -6,7 +6,7 @@ summary: 'This project supports the implementation of the European Union (EU)-bi
   EU budget support programs: 1) Rural Development and Climate Change, and 2) Local
   Governance and Fiscal Decentralization.'
 start: 2019
-end: 2021
+end: 2022
 client: European Union
 solutions:
 - Energy

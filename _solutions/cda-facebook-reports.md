@@ -349,5 +349,6 @@ As emerging markets recover and rebound from the immense challenges presented by
 </div>
 
 <aside style="margin-top: 2rem;">
+<p style="font-size: .8rem; margin-bottom: 0px;"><em>The reports in this series use branding terms present at the time of surveying such as 'Facebook' and 'Facebook apps' which are now called 'Meta' and 'Meta technologies,' respectively.</em></p>
   <p style="font-size: .8rem; margin-bottom: 0px;"><em>Research findings reported in this series should not be considered representative of country MSMEs due to the limitations of the surveys. See methodology appendices for more information.</em></p>
 </aside>
