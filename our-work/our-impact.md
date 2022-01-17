@@ -30,7 +30,7 @@ We envision a world in which communities and societies become more prosperous, f
              </div>
            </div>
            <div class="content">
-             <p>"Under the leadership of longtime DAI climate and environment specialist Donald Lunan," writes DAI President and CEO Jim Boomgard in his introduction. "The Climate Practice is ensuring that we deliver a “whole of company” approach to our efforts, leveraging our climate programming across the wide range of DAI clients, technical disciplines, and geographies to ensure that we are sharing knowledge and expertise across all our offices and projects, and helping to drive innovation."</p>
+             <p>“In 2021, the environment—climate in particular—has been a point of emphasis for DAI,” writes DAI President and CEO Jim Boomgard in his introduction. “Under the leadership of longtime DAI climate and environment specialist Donald Lunan, the Climate Practice is ensuring that we deliver a ‘whole of company’ approach to our efforts, leveraging our climate programming across the wide range of DAI clients, technical disciplines, and geographies.”</p>
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
