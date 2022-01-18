@@ -1,11 +1,11 @@
 ---
 title: Lebanon—Economic Reform and Infrastructure Investment Programme (LERII)
 date: 2020-01-23 10:06:00 Z
-summary: 'LERII assists the Lebanese government in implementing key economic reforms,
-  reaches agreement on the construction of key donor-financed infrastructure projects,
-  and ensures that such projects are successfully built and operated. '
+summary: 'LERII aimed to assist the Lebanese government in implementing key economic
+  reforms, reach agreement on the construction of key donor-financed infrastructure
+  projects, and ensure that such projects were successfully built and operated. '
 start: 2020
-end: 2024
+end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
@@ -15,7 +15,7 @@ regions: Middle East and North Africa
 country: Lebanon
 ---
 
-Lebanon is at a critical moment of its history—its economy is in crisis and its citizens are increasingly unsatisfied. It is facing a fiscal crisis with an increasing budget deficit of 11 percent of GDP and current account deficit of 25 percent of GDP in 2018, combined with the third-highest gross public debt in the world. Fiscal pressures are reflected in the lack and low quality of public goods and services, including inadequate infrastructure for electricity, water, waste, and transport, which particularly affects vulnerable people and harms businesses. Poor performance in the public sector, the lack of accountability in the management of resources, and corruption have further exacerbated the situation.
+Lebanon is at a critical moment in its history—its economy is in crisis and its citizens are increasingly unsatisfied. It is facing a fiscal crisis with an increasing budget deficit of 11 percent of GDP and a current account deficit of 25 percent of GDP in 2018, combined with the third-highest gross public debt in the world. Fiscal pressures are reflected in the lack and low quality of public goods and services, including inadequate infrastructure for electricity, water, waste, and transport, which particularly affects vulnerable people and harms businesses. Poor performance in the public sector, the lack of accountability in the management of resources, and corruption have further exacerbated the situation.
 
 In response, and in the context of an increasingly unstable region, the Government of Lebanon has set out an economic reform vision and Capital Investment Plan identifying critical investments that will support growth and investment, providing employment opportunities for host communities and for Syrian refugees.
 
