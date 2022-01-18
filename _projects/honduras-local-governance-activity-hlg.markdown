@@ -1,10 +1,9 @@
 ---
 title: Honduras—Local Governance Activity (HLG)
 date: 2016-11-19 00:25:00 Z
-summary: HLG works in 80 municipalities in six departments in western Honduras to
-  address entrenched socioeconomic challenges related to food insecurity, climate
-  vulnerability, gender disparity, and local governance to sustainably improve the
-  lives of the Honduran people.
+summary: 'HLG works to strengthen the essential capacity of civil society groups,
+  local governments, and service providers to provide Honduran citizens with improved
+  services. '
 start: 2016
 end: 2022
 client: U.S. Agency for International Development
@@ -23,7 +22,7 @@ promos:
   link: https://urban-links.org/insight/helping-vulnerable-young-hondurans-to-gain-job-skills-self-confidence-and-hope-for-the-future/
 ---
 
-Despite great economic stability since 2000, and historic high rates of irregular migration, Honduras has yet to significantly improve living conditions or reduce poverty for much of its citizenry. In 2019, more than 250,000 Honduran migrants were apprehended by U.S. Customs and Border Control, the highest rate yet. In 2021, the White House addressed this crisis in its Root Causes Strategy, which identifies corruption, democratic governance, combating gender-based violence, amongst other areas, as root causes of irregular migration. 
+Despite great economic stability since 2000, and historic high rates of irregular migration, Honduras has yet to significantly improve living conditions or reduce poverty for much of its citizenry. In 2019, more than 250,000 Honduran migrants were [apprehended](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters/usbp-sw-border-apprehensions) by U.S. Customs and Border Control, the highest rate yet. In 2021, the White House addressed this crisis in its [Root Causes Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf), which identifies corruption, democratic governance, combating gender-based violence, amongst other areas, as root causes of irregular migration. 
 
 The inability of local governments to provide effective public services to their citizens remains a key barrier to tackling the inter-related challenges of economic insecurity, lack of trust in the government, social inclusion, and high rates of violence and migration...
 In this climate, the U.S. Agency for International Development (USAID)designed the Honduras Local Governance (HLG) Activity to enhance public service delivery as well as increase the transparency, accountability, and responsiveness of local governments.
@@ -36,15 +35,18 @@ HLG works to strengthen the essential capacity of civil society groups, local go
 
 ### Sample Activities
 
-* Bring together disparate local agencies responsible for health, education, and water to improve coordination of services and partner with national poverty alleviation programs.
+* Bring together disparate local agencies responsible for health, education, and water to improve coordination of services.
 * Improve engagement and advocacy processes to better empower and involve vulnerable populations, including [women](https://www.youtube.com/watch?v=dwvx1dGYzHU), [youth](https://urban-links.org/insight/helping-vulnerable-young-hondurans-to-gain-job-skills-self-confidence-and-hope-for-the-future/), and indigenous persons.
-* Assist municipalities in creating user-friendly tools to increase transparency and accountability, such as a Citizens’ Guide to the Budget and an annual Budget in Brief.
-* Utilize community planning processes to identify priority small infrastructure projects and provide technical assistance and funding to support construction.
+* Assist municipalities in creating user-friendly tools to increase transparency and accountability, and train Citizen Transparency Committees on transparency and accountability.
+* Work with local governments and citizen oversight stakeholders to update municipal transition and transfer manuals to prepare for overturn in personnel after local and national elections.
+* Collaborate with the Secretary of Health to equip hospitals, triage centers, and laboratories with COVID-19 prevention and care equipment, and support COVID-19 prevention and awareness-building activities.
 
 ### Select Results
 
-* Issued an Annual Program Statement to 18 *mancomunidades* (associations of municipalities) in the six departments to solicit expressions of interest and grant applications from the *mancomunidades* to fund innovative approaches to address core challenges in Western Honduras.
-* Provided a grant to the Association of Municipalities of Honduras to support the Technical Secretariat for the Administrative Career Law. Through this support, the grantee will help municipalities generate the knowledge, skills, and technical capabilities needed to contribute to the modernization and transparency of local public management in Western Honduras.
-* Provided an in-kind grant to the Secretariat of Governance, Justice, and Decentralization to improve the capacity of its management. The goods donated consist of information technology equipment that will allow the SGJD to improve its physical facilities and provide adequate equipment for its operation and thus improve the provision of the service to the municipalities, *mancomunidades*, Citizen Transparency Commissions, and other instances at the national level.
-* Delivered 119 health kits—including scales, measuring rods, teaching materials, and counseling sheets—to eight decentralized health managers who will use these kits to expand coverage to 26 communities that previously lacked the resources to help undernourished children.
+* Helped the Nueva Suyapa Women’s Network from Tegucigalpa to hold its first advocacy event, enabling the network to successfully secure service provider commitment to improve sexual, reproductive, and mental healthcare for women and survivors of gender-based, domestic, and intrafamilial violence.
+* Supported the Tela and La Ceiba local governments to raise the LGBTQI+ and transgender flags in front of their municipal buildings for the first time, a symbol of respect for LGBTQI+ human rights.
+* Trained 160 civil society groups on the barriers to social inclusion affecting vulnerable groups and preventing their participation in local decision-making.
+* Empowered civil society organizations to lead 11 forums to promote citizens’ role in service provision, in which 1,689 people participated.
+* Trained 500 young people on the social oversight process, and 35 percent of the 69 social audits completed were conducted directly by youth organizations, with HLG support, promoting citizen oversight and reducing the risk of corruption.
+* Supported three municipalities to initiate drafting of a Municipal Transparency Plan for the first time, coached civil society groups on their role in the process, and, with the Secretaría Técnica de la Carrera Administrativa Municipal, carried out four workshops, training 88 municipal servants and civil society members to reinforce municipal officials’ obligations. 
 * Developed a [digital dashboard](https://www.youtube.com/watch?v=qnUB6JTGEg0&feature=youtu.be) to provide key partners such as *mancomunidades*, local governments, and soon, local service providers of education, nutrition, and water and sanitation with information in a visual and interactive way.

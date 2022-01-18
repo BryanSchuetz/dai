@@ -26,20 +26,17 @@ View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue202
 The [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
 
 In light of current circumstances, DAI will not be holding in-person Master Class courses this year, however, we are offering four full-day online Local Content modules derived from the Master Class. 
+
+Upcoming Sessions:
+
+* May 17 - 19, 2022 in Dubai, UAE
+* October 17 - 19, 2022 in Houston, USA
  
 ### Online Training
 
 Our tailored online training brings you insight from our expert trainers working at the forefront of international development and local content policy. The full-day modules involve interactive workshop activities, networking opportunities, and local content skills building.
 
-Contact [training@dai.com](mailto:training@dai.com) for pricing and registration.
- 
-Upcoming Sessions:
-
-* Date and Time: December 7 - 9, 2021. 9am – 5pm GST
-* **Module 1:** Local Content Strategy and Policy Training.
-* **Module 2:** Local Content  Forecasting, Plans, and Procurement Tactics. 
-* **Module 3:** Local Content Reporting, Impact Measurement, and Communications.
-* **Module 4:** Local Content Investments: Supplier and Workforce Development.
+Contact [training@dai.com](mailto:training@dai.com) for pricing and registration. 
 
 View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf)
 
@@ -93,8 +90,6 @@ var campaign = queryValues.campaign;
 </div> -->
 
 Since 2015, the topic of local content has taken center stage, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
-
-<script id="infogram_0__/a4OO6kty6VOVCplLgMBc" title="Master Class Evaluations" src="https://e.infogram.com/js/dist/embed.js?BHY" type="text/javascript"></script>
 
 <hr>
 
