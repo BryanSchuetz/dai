@@ -18,7 +18,7 @@ local content. DAI draws on more than 2,000 long-term projects and development a
 
 ## Join one of our three-day Masterclass courses in 2022
 
-Date: **May 17 - 19, in Dubai, UAE** <br> **October 17-19, Houston, USA** <br> Time: **09h00 – 17h00** <br> Cost: **USD 3,770**
+Date: **May 17 - 19, in Dubai, UAE** and **October 17-19, Houston, USA** <br> Time: **09h00 – 17h00** <br> Cost: **USD 3,770**
 
 Upon completion, participants receive a certificate. DAI is a BAC-accredited short-course provider.
 
