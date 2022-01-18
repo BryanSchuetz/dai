@@ -14,14 +14,11 @@ layout: solution
 The Local Content Masterclass brings together participants from the private
 and public sector, helping them balance the commercial realities of volatile global
 demand and sustained cost pressures with the current political momentum for increased
-local content. DAI draws on more than 2,000 long-term projects and development assignments
-completed across 150 countries to advance participants’ skills.
+local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills.
 
-![Schedule](/uploads/New%20web%20banner-d491ce.png)
+## Join one of our three-day Masterclass courses in 2022
 
-Join our three-day course in December either in-person in Muscat or virtually.
-
-Date: **December 7 - 9, 2021 in Muscat, Oman** <br> Time: **09h00 – 17h00 GST, 05h00 - 13h00 GMT, 07h00 - 15h00 CAT** <br> Cost: **USD 3,770 / 3,510** (in-person / virtual)
+Date: **May 17 - 19, in Dubai, UAE** <br> Time: **09h00 – 17h00** <br> Cost: **USD 3,770** 
 
 Upon completion, participants receive a certificate. DAI is a BAC-accredited short-course provider.
 
