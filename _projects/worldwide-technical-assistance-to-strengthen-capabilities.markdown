@@ -13,16 +13,16 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: TASC Project Brief
+- title: "**Brief:** TASC Project"
   link: "/uploads/TASC%20Brief%20Dec-2020.pdf"
 - title: 'April 2021: Tracking Data and Evidence on the Indirect Impact of COVID-19
     on Selected Nutrition Outcomes, Interventions, and Policy Responses'
   link: "/uploads/C19_Tracker_Core_Report_April.pdf"
 - title: 'Burkina Faso: Successfully Scaling Up Nutrition in a Digital World'
   link: https://scalingupnutrition.org/news/burkina-faso-successfully-scaling-up-nutrition-in-a-digital-world/
-- title: "**Brief** Technical Assistance to the SUN Movement "
+- title: "**Brief:** Technical Assistance to the SUN Movement "
   link: "/uploads/TASC%20Component%20Briefs%20C1.pdf"
-- title: "**Brief** Technical Assistance to FCDO"
+- title: "**Brief:** Technical Assistance to FCDO"
   link: "/uploads/TASC%20Component%20Briefs%20C2.pdf"
 ---
 
