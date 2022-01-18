@@ -7,7 +7,7 @@ summary: 'Chris MacDonald is a supply chain management and procurement and contr
   private-sector clients on local content development strategies for DAI’s Sustainable
   Business Group. '
 job-title: Managing Director, Oman and GCC Countries
-image: "/uploads/Chris_website.png"
+image: "/uploads/chris-d5bb33.jpg"
 solutions:
 - Sustainable Business
 - Local Content and Supply Chain Management
