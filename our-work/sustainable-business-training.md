@@ -91,8 +91,6 @@ var campaign = queryValues.campaign;
 
 Since 2015, the topic of local content has taken center stage, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
 
-<script id="infogram_0__/a4OO6kty6VOVCplLgMBc" title="Master Class Evaluations" src="https://e.infogram.com/js/dist/embed.js?BHY" type="text/javascript"></script>
-
 <hr>
 
 ## Why Does Local Content Matter?
