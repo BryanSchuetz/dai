@@ -27,7 +27,6 @@ Multicultural, multilingual, and multidisciplinary to the core—global in outlo
 
 <a href="/who-we-are/global-reach/united-kingdom/contacts/management" class="primary-block--button contacts-button">
 Management Team Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
-<a href="/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators" class="primary-block--button contacts-button">Portfolio Coordinator Contacts <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 
 <aside>
   DAI Global UK is committed to providing the highest level of quality and environmental management, meeting the latest in global best practices as demonstrated by <a href="/news/dai-europe-earns-iso-90012015-and-iso-140012015-certifications">our conformance</a> to the highly regarded ISO 14001:2015 and ISO 9001:2015.
