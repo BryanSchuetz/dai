@@ -41,3 +41,4 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 * Assisted 18 entrepreneurs and small enterprises.
 * Facilitated increased sales of sanitation products and services for 11 small firms.
 * Built capacity of nine water and sanitation national and sub-national institutions through training in sector planning, investment, monitoring, or regulation.
+* Working with the Haitian National Water Authority to assist local water utilities (CTEs) to function as independent businesses. Despite COVID-19, an increase in crime, the presidential assassination, and a fuel shortage, a core group of CTEs increased their combined revenues from 3 million gourdes to nearly 8 million gourdes in 2021.
