@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Estrada-Valle
 summary: 'Juan Estrada-Valle is an international expert in agriculture, trade, investment,
   and stability. '
-job-title: 'Chief of Party, Afghanistan Value Chains-High Value Crops '
+job-title: Vice President, Strategic Growth Initiatives
 image: "/uploads/Juan.jpg"
 solutions:
 - Economic Growth
