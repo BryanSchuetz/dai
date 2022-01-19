@@ -21,13 +21,11 @@ articles:
 layout: expert
 ---
 
-Juan Estrada-Valle is an international expert in agriculture, trade and investment, and on the promotion of development in conflict-affected environments. He was most recently the Chief of Party of the Afghanistan Value Chains-High Value Crops project, supporting the growth of the agriculture sector through a highly focused approach, using anchor firms as entry points into the agricultural value chains.
+Juan Estrada-Valle is responsible for maximizing the performance of DAI’s USG portfolio by increasing the efficiency of technical services, financial management, and internal processes. Juan leads substantial investments in the business unit’s organizational and operational modernization and enhanced customer responsiveness, in pursuit of ambitious growth targets. In doing so, he contributes to the delivery of year-on-year business unit growth. 
 
-Before that, Juan was the Chief of Party of the [East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih), a multi-country, multi-sector initiative to promote trade, investment, food security, and policy change in eight East African countries.
-
-Throughout his career, Juan managed large-scale and complex development projects funded by the United States Agency for International Development in Africa, the Balkans, and South Asia. He was a Senior Scientist in trade economics at the International Crops Research Institute for the Semi-Arid Tropics, and before beginning his development career he was an agribusiness entrepreneur.
-
-He is a [Board Member](https://www.dai.com/news/dai-juan-estrada-valle-elected-board-member-agribusiness-economics-and) of the Agribusiness Economics and Management Section of the Agricultural and Applied Economics Association, and in 2015 received a special [commendation](https://www.facebook.com/DAIGlobal/posts/10152684125290797) from the Government of the Islamic Republic of Afghanistan for his work rehabilitating the agriculture sector.
+Growing up during the Guatemalan Civil War, he witnessed first-hand the struggles rural farmers in the face of large corporate and political interests. As his father, the Minister of Agriculture in the country’s first democratically elected government, fought to reform a broken system, Juan became convinced that he, too, had a part to play. Over the last 20 years, he has sought to craft equitable and impactful solutions for those most in need, across Sub-Saharan Africa, the Balkans, and South Asia. 
+ 
+Juan is an international expert in agriculture, trade and investment, and the promotion of development in conflict-affected environments. Over a decade and a half with DAI, Juan has managed highly successful USAID projects valued over $500 million, including three projects in Afghanistan, applying an adaptive management approach in a highly complex and volatile operating environment. As Chief of Party of the [East Africa Trade and Investment Hub](https://www.dai.com/our-work/projects/east-africa-trade-and-investment-hub-tih), he facilitated $600 million in exports under AGOA; $400 million worth of trade in staple crops, directly benefiting 14 million East Africans; and $178 million in private investment, across eight African countries.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/35273230?title=0&byline=0&portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
