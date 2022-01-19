@@ -19,7 +19,9 @@ promos:
 - title: The Crucial Role of Social Protection Systems in Building Resilience to Climate
     Risks
   link: https://dai-global-developments.com/articles/the-crucial-role-of-social-protection-systems-in-building-resilience-to-climate-risks
-  Key: 
+- title: Infographic - Results from the Strengthening Public Financial Management
+    for Social Protection Program
+  link: "/uploads/01-DAI355_SPFMSP%20infographic_191021_B-2.pdf"
 ---
 
 The Strengthening Public Financial Management for Social Protection (SPFMSP) Programme was designed to develop the capacity of the Ministry of Finance (MoF) and line ministries. Its role was to establish policies, budgets, and reform plans for more efficient and effective social transfers to poor people, set up the Social Protection Budget Management Unit (SPBMU) within the MoF, undertake operational research and diagnostic studies, and establish multiple social protection management information systems (MIS) for associated line ministries.
