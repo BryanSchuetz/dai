@@ -31,3 +31,9 @@ DAI’s technical assistance works to increase the access to capital and financi
 * Design and roll out a tailor-made programme, the "Advanced Support Programme for Growing SMEs," aiming to bring dynamic, growing SMEs to "listing ready" status in the Nile Stock Exchange (NILEX) and thus overcoming constraints limiting their further expansion.
 * Support the development of AlexBank in its role of nominated advisor for NILEX.
 * Strengthen the institutional capacity of AlexBank in order to enable further expansion (deepening and broadening) of its activities in SME lending, with particular focus on the delivery of nonfinancial services to SMEs.
+
+### Select Results
+
+* Developed selection criteria for listing.
+* Shortlisted 17 SMEs from AlexBank’s portfolio for engagement.
+* Developed a tool for SME outreach and engagement.
