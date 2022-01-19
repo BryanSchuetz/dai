@@ -31,3 +31,7 @@ ALG assists the Government of Tajikistan to sustainably reduce hunger, undernutr
 * Increase availability and consumption of diverse and nutritious foods.
 * Improve adaptation to and recovery from shocks and stresses through diversification of livelihoods.
 * Support extension services that address natural resource constraints. 
+
+### Select Results
+
+* Held 19 training sessions for 165 community agriculture volunteers—92 women and 73 men—who will carry out activities in their villages across 12 districts. Training covered adult learning, community mobilization, the work of a volunteer, and WASH and home garden management topics.
