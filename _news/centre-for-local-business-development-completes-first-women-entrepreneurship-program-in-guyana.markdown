@@ -1,8 +1,7 @@
 ---
 title: Centre for Local Business Development Completes First Women Entrepreneurship
   Program in Guyana
-date: 2022-01-20 09:08:00 Z
-published: false
+date: 2022-01-20 06:00:00 Z
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
