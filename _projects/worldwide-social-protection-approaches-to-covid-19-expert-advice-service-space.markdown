@@ -12,15 +12,12 @@ solutions:
 - Gender and Social Inclusion
 - Humanitarian Cash
 regions: Worldwide
+country: Worldwide
 ---
 
 Countries across the globe are using or adapting social protection systems and programs, as well as humanitarian cash assistance, to respond to the COVID-19 crisis. Getting support quickly to those in need is helping them to meet unexpected costs and compensate for the loss of income—both in the immediate and longer-term as countries enter periods of COVID-driven recession.
 
-The Social Protection Approaches to COVID-19 Expert Advice Service (SPACE) is a joint initiative of the Foreign, Commonwealth & Development Office (FCDO) Better Assistance in Crises and Gender-Responsive Social Protection programs; GIZ (the German Federal Ministry for Economic Cooperation and Development); and the Australian Department of Foreign Affairs and Trade (DFAT).
-
-Between April 2020 and November 2021, SPACE supported decision-makers across national governments, donors, and implementing partners to establish, maintain or adapt systems and programs to meet rapidly growing needs. 
-
-SPACE has supported over 40 countries providing independent, evidence-based, timely, practical, and actionable advice. Direct support is responsive to the unique requirements of specific actors and contexts and broadly addresses the following themes: 
+Between April 2020 and November 2021, the Social Protection Approaches to COVID-19 Expert Advice Service (SPACE) supported decision-makers across national governments, donors, and implementing partners in over 40 countries with independent, evidence-based, timely, and actionable advice to meet growing needs. Direct support was responsive to the unique requirements of specific actors and contexts and broadly addressed the following themes: 
 * Social protection and humanitarian linkages 
 * Gender and social inclusion principles
 * Programme adaptation and phasing 
@@ -35,7 +32,9 @@ SPACE has supported over 40 countries providing independent, evidence-based, tim
 * Economic inclusion
 * Informal workers
 
-SPACE is managed by DAI through the FCDO framework agreement [Expert Advisory Call Down Services (EACDS) Lot B] (https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) ‘Strengthening resilience and response to crises’, and the helpline advice is provided by independent consultants contracted by FCDO, GIZ, DFAT, and other partners. SPACE has benefitted from the support and engagement of [GSMA] (https://www.gsma.com/), the [Centre for Disaster Protection] (https://www.disasterprotection.org/), and the [HEART Consortium] (https://www.heart-resources.org/about/). SPACE publications can be found on SocialProtection.org [here] (https://socialprotection.org/node/33315/publications) and a video about SPACE [here] (Embed Video: 
+SPACE was a joint initiative of the Foreign, Commonwealth & Development Office (FCDO) Better Assistance in Crises and Gender-Responsive Social Protection programs; GIZ (the German Federal Ministry for Economic Cooperation and Development); and the Australian Department of Foreign Affairs and Trade (DFAT). 
+
+The program was managed by DAI through the FCDO framework agreement [Expert Advisory Call Down Services (EACDS) Lot B] (https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) ‘Strengthening resilience and response to crises’, and the helpline advice is provided by independent consultants contracted by FCDO, GIZ, DFAT, and other partners. SPACE has benefitted from the support and engagement of [GSMA] (https://www.gsma.com/), the [Centre for Disaster Protection] (https://www.disasterprotection.org/), and the [HEART Consortium] (https://www.heart-resources.org/about/). SPACE publications can be found on SocialProtection.org [here] (https://socialprotection.org/node/33315/publications) and a video about SPACE [here] (Embed Video: 
 https://www.youtube.com/watch?v=EIGlWkAnCu4).
 
 ### Sample Activities
