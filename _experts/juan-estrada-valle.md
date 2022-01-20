@@ -29,7 +29,7 @@ Juan is an international expert in agriculture, trade and investment, and the pr
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="https://player.vimeo.com/video/35273230?title=0&byline=0&portrait=0" webkitallowfullscreen="" width="703"></iframe>
 
-* Ph.D., international development, agri-food systems economics, Michigan State University 
+* Ph.D. (ABD), international development, agri-food systems economics, Michigan State University 
 * Postgraduate Diploma, stabilization and development operations in fragile states, U.S. Naval Postgraduate School
 * M.S., agricultural economics, Michigan State University
 * B.S., agronomy, animal science, Universidad de San Carlos, Guatemala
