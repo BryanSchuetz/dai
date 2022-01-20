@@ -35,8 +35,6 @@ SPACE has supported over 40 countries providing independent, evidence-based, tim
 * Economic inclusion
 * Informal workers
 
-
-
 SPACE is managed by DAI through the FCDO framework agreement [Expert Advisory Call Down Services (EACDS) Lot B] (https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) ‘Strengthening resilience and response to crises’, and the helpline advice is provided by independent consultants contracted by FCDO, GIZ, DFAT, and other partners. SPACE has benefitted from the support and engagement of [GSMA] (https://www.gsma.com/), the [Centre for Disaster Protection] (https://www.disasterprotection.org/), and the [HEART Consortium] (https://www.heart-resources.org/about/). SPACE publications can be found on SocialProtection.org [here] (https://socialprotection.org/node/33315/publications) and a video about SPACE [here] (Embed Video: 
 https://www.youtube.com/watch?v=EIGlWkAnCu4).
 
