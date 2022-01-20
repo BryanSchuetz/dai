@@ -2,6 +2,7 @@
 title: Centre for Local Business Development Completes First Women Entrepreneurship
   Program in Guyana
 date: 2022-01-20 09:08:00 Z
+published: false
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
@@ -16,6 +17,7 @@ The DAI-led Centre for Local Business Development (The Centre) has successfully 
 More than 90 women applied to the program. Of these, 35 were shortlisted to participate in an intense three-day Weekend Bootcamp on September 17-19 where they learned how to use the Business Model Canvas tool. The 35 were further evaluated, and 16 of these women joined the second phase of the program, representing businesses from the construction, cosmetology, education, garment manufacturing, janitorial, tourism, and other sectors.
 
 ![Accelerate-her Demo Day (3).jpg](/uploads/Accelerate-her%20Demo%20Day%20(3).jpg)
+`Nicola Balram, Communications Specialist and co-facilitator, introduces the entrepreneurs on Demo Day. Photo: The Centre for Local Business Development`
 
 Phase Two of Accelerate-Her was a nine-week program comprising one-on-one mentorship sessions, pitch presentation preparation, and in-person and virtual classroom experiences. The 16 participants were individually matched to a mentor and specific programs based on their business’s needs. The training covered financial management, marketing, and pitch development.
 
