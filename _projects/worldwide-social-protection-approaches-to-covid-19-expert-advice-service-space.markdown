@@ -16,7 +16,9 @@ regions: Worldwide
 
 Countries across the globe are using or adapting social protection systems and programs, as well as humanitarian cash assistance, to respond to the COVID-19 crisis. Getting support quickly to those in need is helping them to meet unexpected costs and compensate for the loss of income—both in the immediate and longer-term as countries enter periods of COVID-driven recession.
 
-Between April 2020 and November 2021, the Social Protection Approaches to COVID-19 Expert Advice Service (SPACE) has supported decision-makers across national governments, donors, and implementing partners to establish, maintain or adapt systems and programs to meet rapidly growing needs. 
+The Social Protection Approaches to COVID-19 Expert Advice Service (SPACE) is a joint initiative of the Foreign, Commonwealth & Development Office (FCDO) Better Assistance in Crises and Gender-Responsive Social Protection programs; GIZ (the German Federal Ministry for Economic Cooperation and Development); and the Australian Department of Foreign Affairs and Trade (DFAT).
+
+Between April 2020 and November 2021, SPACE has supported decision-makers across national governments, donors, and implementing partners to establish, maintain or adapt systems and programs to meet rapidly growing needs. 
 
 SPACE has supported over 40 countries providing independent, evidence-based, timely, practical, and actionable advice. Direct support is responsive to the unique requirements of specific actors and contexts and broadly addresses the following themes: 
 * Social protection and humanitarian linkages 
@@ -36,9 +38,7 @@ SPACE has supported over 40 countries providing independent, evidence-based, tim
 Embed Video: 
 https://www.youtube.com/watch?v=EIGlWkAnCu4 
 
-SPACE is a joint initiative of FCDO’s Better Assistance in Crises (BASIC) and Gender-Responsive Social Protection (GSP) programs (funded by UKAid); GIZ (funded by the German Federal Ministry for Economic Cooperation and Development); and the Australian Government through the Department of Foreign Affairs and Trade (DFAT).
-
-SPACE is managed by DAI through the FCDO framework agreement EACDS Lot B service ‘Strengthening resilience and response to crises’, and the helpline advice is provided by independent consultants contracted by FCDO, GIZ, DFAT, and other partners. SPACE has benefitted from the support and engagement of GSMA, the Centre for Disaster Protection, and the HEART Consortium. SPACE publications can be found on SocialProtection.org here.
+SPACE is managed by DAI through the FCDO framework agreement [Expert Advisory Call Down Services (EACDS) Lot B] (https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) ‘Strengthening resilience and response to crises’, and the helpline advice is provided by independent consultants contracted by FCDO, GIZ, DFAT, and other partners. SPACE has benefitted from the support and engagement of GSMA, the Centre for Disaster Protection, and the HEART Consortium. SPACE publications can be found on SocialProtection.org here.
 
 ### Sample Activities
 
