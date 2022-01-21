@@ -14,7 +14,7 @@ social-image: "/uploads/Screen%20Shot%202022-01-17%20at%204.59.12%20PM-af0672.pn
 country: Worldwide
 ---
 
-DAI is delighted to submit its [2021 Communication on Progress](/uploads/UNGC%20DAI%202021%20final.pdf) to the United Nations Global Compact.
+DAI is delighted to submit its [2021 Communication on Progress](https://dai-assets.s3.amazonaws.com/ungc-final-2021.pdf) to the United Nations Global Compact.
 
 The [Compact](https://www.unglobalcompact.org/) is a “voluntary initiative based on CEO commitments to implement universal sustainability principles,” with a mission to “mobilize a global movement of sustainable companies and stakeholders to create the world we want.” 
 
