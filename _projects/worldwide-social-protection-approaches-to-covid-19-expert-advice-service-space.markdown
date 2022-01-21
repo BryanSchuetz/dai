@@ -14,6 +14,8 @@ solutions:
 - Climate
 - Gender and Social Inclusion
 - Humanitarian Cash
+- Governance
+- Economic Growth
 regions: Worldwide
 country: Worldwide
 ---
