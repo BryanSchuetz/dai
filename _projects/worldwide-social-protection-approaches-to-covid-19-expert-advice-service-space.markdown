@@ -36,6 +36,8 @@ SPACE was a joint initiative of the Foreign, Commonwealth & Development Office (
 
 The program was managed by DAI through the FCDO framework agreement [Expert Advisory Call Down Services (EACDS) Lot B](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) ‘Strengthening resilience and response to crises’, and the helpline advice is provided by independent consultants contracted by FCDO, GIZ, DFAT, and other partners. SPACE has benefitted from the support and engagement of [GSMA](https://www.gsma.com/), the [Centre for Disaster Protection](https://www.disasterprotection.org/), and the [HEART Consortium](https://www.heart-resources.org/about/). SPACE publications can be found on SocialProtection.org [here](https://socialprotection.org/node/33315/publications) and a video about SPACE [here](https://www.youtube.com/watch?v=EIGlWkAnCu4).
 
+![SPACE.png](/uploads/SPACE.png)
+
 ### Sample Activities
 
 * Provide technical guidance on options for using social protection and humanitarian assistance to combat the economic impact of COVID, through adaption, development, phasing, coordination, and mapping of responses
