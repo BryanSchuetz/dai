@@ -6,8 +6,10 @@ summary: SPACE has been supporting governments and other decision-makers in the 
   crisis worldwide.
 start: 2020
 end: 2021
-client: Foreign, Commonwealth & Development Office; Deutsche Gesellschaft für Internationale
-  Zusammenarbeit (GIZ)
+client:
+- Foreign, Commonwealth & Development Office
+- Gesellschaft für Internationale Zusammenarbeit (GIZ)
+- Department of Foreign Affairs & Trade (AusAid)
 solutions:
 - Social Protection
 - Fragile States
