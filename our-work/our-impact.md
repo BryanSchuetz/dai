@@ -34,7 +34,7 @@ We envision a world in which communities and societies become more prosperous, f
            </div>
          </div>
          <footer class="card-footer pt-0" style="padding-top: 0;" >
-           <a href="/uploads/ungc-report-2021.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
+           <a href="/uploads/UNGC%20DAI%202021.pdf" class="card-footer-item fb-pub-buttons">DOWNLOAD REPORT</a>
          </footer>
        </div>
      </div>
