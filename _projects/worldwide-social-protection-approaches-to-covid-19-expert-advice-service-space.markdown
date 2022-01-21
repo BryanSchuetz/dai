@@ -1,10 +1,13 @@
 ---
 title: Worldwide—Social Protection Approaches to COVID-19 Expert Advice Service (SPACE)
 date: 2022-01-20 10:10:00 Z
+summary: SPACE has been supporting governments and other decision-makers in the use
+  or adaptation of social protection systems and programs to respond to the COVID-19
+  crisis worldwide.
 start: 2020
 end: 2021
 client: Foreign, Commonwealth & Development Office; Deutsche Gesellschaft für Internationale
-  Zusammenarbeit; Australian Department of Foreign Affairs and Trade
+  Zusammenarbeit (GIZ)
 solutions:
 - Social Protection
 - Fragile States
