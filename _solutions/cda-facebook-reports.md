@@ -10,7 +10,7 @@ hero: true
 layout: solution
 ---
 
-*December 6, 2021*
+*January 24, 2022*
 
 The COVID-19 pandemic has revealed the vital role digital technologies play in enabling businesses, communities, and individuals to connect, function, and thrive. Ensuring that micro, small, and medium enterprises (MSMEs) can access digital tools is particularly crucial in emerging markets because MSMEs fuel economic growth and spur job creation. According to the [World Bank](https://www.worldbank.org/en/topic/smefinance), MSMEs constitute 90 percent of businesses and more than half of employment globally. With digital tools, MSMEs enhance their bottom lines by efficiently communicating with customers and suppliers, entering new markets via e-commerce, and accessing digital financial services. In the COVID-19 era, [research](https://www.apec.org/-/media/APEC/Publications/2020/7/Supporting-MSMEs-Digitalization-Amid-COVID-19/220_PSU_Supporting-MSMEs-Digitalization-Amid-COVID-19.pdf) shows, using digital tools to manage transactions and engage customers mitigates some of the economic and logistical challenges faced by MSMEs, positioning them for growth. 
 
@@ -24,7 +24,30 @@ As emerging markets recover and rebound from the immense challenges presented by
 
 <div class="bulma">
   <div class="container">
+
+
     <div class="columns">
+      <div class="column">
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image is-4by5">
+              <img src="/uploads/msme-study-thumbnail-global.jpg" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Global Report</p>
+              </div>
+            </div>
+            <div class="content">
+            </div>
+          </div>
+          <footer class="card-footer pt-0" style="padding-top: 0;">
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/global-country-brief.pdf">Download Report</a>
+          </footer>
+        </div>
+      </div>
       <div class="column">
         <div class="card is-fullheight">
           <div class="card-image">
@@ -52,6 +75,8 @@ As emerging markets recover and rebound from the immense challenges presented by
           </footer>
         </div>
       </div>
+    </div>
+    <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
           <div class="card-image">
@@ -79,8 +104,6 @@ As emerging markets recover and rebound from the immense challenges presented by
           </footer>
         </div>
       </div>
-    </div>
-    <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
           <div class="card-image">
@@ -108,6 +131,8 @@ As emerging markets recover and rebound from the immense challenges presented by
           </footer>
         </div>
       </div>
+    </div>
+    <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
           <div class="card-image">
@@ -135,8 +160,6 @@ As emerging markets recover and rebound from the immense challenges presented by
           </footer>
         </div>
       </div>
-    </div>
-    <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
           <div class="card-image">
@@ -164,6 +187,8 @@ As emerging markets recover and rebound from the immense challenges presented by
           </footer>
         </div>
       </div>
+    </div>
+    <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
           <div class="card-image">
@@ -191,8 +216,6 @@ As emerging markets recover and rebound from the immense challenges presented by
           </footer>
         </div>
       </div>
-    </div>
-    <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
           <div class="card-image">
@@ -219,6 +242,35 @@ As emerging markets recover and rebound from the immense challenges presented by
             <a download class="card-footer-item fb-pub-buttons" href="/uploads/indonesia-country-brief.pdf">Download Report</a>
           </footer>
         </div>
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column">
+        <div class="card is-fullheight">
+            <div class="card-image">
+              <figure class="image is-4by5">
+                <img src="/uploads/msme-study-thumbnail-mexico.jpg" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="card-content">
+              <div class="media">
+                <div class="media-content">
+                  <p class="title is-4">Mexico Country Brief</p>
+                </div>
+              </div>
+              <div class="content">
+                <p>These research findings afford insight into key MSME segments:</p>
+                <ul>
+                  <li>Women-owned MSMEs</li>
+                  <li>MSMEs working in specific business sectors</li>
+                  <li>Microenterprises, small enterprises, and medium-sized enterprises</li>
+                </ul>
+              </div>
+            </div>
+            <footer class="card-footer pt-0" style="padding-top: 0;">
+              <a download class="card-footer-item fb-pub-buttons" href="/uploads/mexico-country-brief.pdf">Download Report</a>
+            </footer>
+          </div>
       </div>
         <div class="column">
           <div class="card is-fullheight">
@@ -335,20 +387,36 @@ As emerging markets recover and rebound from the immense challenges presented by
         </div>
       </div>
       <div class="column">
-       
-    </div>
-    <div class="columns">
-      <div class="column">
-        
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image is-4by5">
+              <img src="/uploads/msme-study-thumbnail-vietnam.jpg" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-content">
+                <p class="title is-4">Vietnam Country Brief</p>
+              </div>
+            </div>
+            <div class="content">
+              <p>These research findings afford insight into key MSME segments:</p>
+              <ul>
+                <li>Women-owned MSMEs</li>
+                <li>MSMEs working in specific business sectors</li>
+                <li>Microenterprises, small enterprises, and medium-sized enterprises</li>
+              </ul>
+            </div>
+          </div>
+          <footer class="card-footer pt-0" style="padding-top: 0;">
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/vietnam-country-brief.pdf">Download Report</a>
+          </footer>
+        </div> 
       </div>
-      <div class="column">
-
-      </div>
-    </div>
   </div>
 </div>
 
 <aside style="margin-top: 2rem;">
-<p style="font-size: .8rem; margin-bottom: 0px;"><em>The reports in this series use branding terms present at the time of surveying such as 'Facebook' and 'Facebook apps' which are now called 'Meta' and 'Meta technologies,' respectively.</em></p>
+<p style="font-size: .8rem; margin-bottom: .8rem;"><em>The reports in this series use branding terms present at the time of surveying such as 'Facebook' and 'Facebook apps' which are now called 'Meta' and 'Meta technologies,' respectively.</em></p>
   <p style="font-size: .8rem; margin-bottom: 0px;"><em>Research findings reported in this series should not be considered representative of country MSMEs due to the limitations of the surveys. See methodology appendices for more information.</em></p>
 </aside>

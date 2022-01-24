@@ -7,15 +7,9 @@ summary: To ensure more citizens benefit from the effects of decentralization, t
   the enabling environment for decentralization in Malawi.
 start: 2016
 end: 2021
-<<<<<<< HEAD
-client: 
-  - U.S. Agency for International Development
-  - U.K. Foreign, Commonwealth & Development Office 
-=======
 client:
 - U.S. Agency for International Development
 - Foreign, Commonwealth & Development Office
->>>>>>> 13ab9ab0e1645117b655f88c437f805029d82f62
 solutions:
 - Governance
 - Decentralization and Local Government Management
