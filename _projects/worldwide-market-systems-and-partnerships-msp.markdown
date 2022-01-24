@@ -24,6 +24,8 @@ promos:
 - title: 'Towards Transformational Impact: Synergies of Private Sector Engagement
     and Market Systems Development'
   link: https://agrilinks.org/post/towards-transformational-impact-synergies-private-sector-engagement-and-market-systems
+- title: Primer on Private Sector Engagement for Fragile and Conflict-Affected Situations
+  link: https://www.marketlinks.org/resources/primer-private-sector-engagement-fragile-and-conflict-affected-situations
 ---
 
 The Feed the Future Market Systems and Partnerships activity (MSP) helps the U.S. Agency for International Development (USAID) advance learning and good practice in integrating private sector engagement across all activities, while at the same time deepening market systems development across the Feed the Future program cycle.

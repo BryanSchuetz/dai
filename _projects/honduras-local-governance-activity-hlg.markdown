@@ -31,7 +31,7 @@ HLG currently works in 45 municipalities in western Honduras and urban areas in 
  
 HLG works to strengthen the essential capacity of civil society groups, local governments, and service providers to provide citizens with improved services. In alignment with USAID Honduras’ Country Development Cooperation Strategy for 2020-2025 and its goal of “a more prosperous, democratic and secure Honduras where citizens, especially youth, are inspired to stay and invest in their future,” the Activity further expanded its efforts to reduce irregular migration, reintegrate migrant returnees, and adopt Positive Youth Development approaches. 
 
-<iframe src="https://player.vimeo.com/video/314131855" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/667918683?h=bf095dcc5a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Sample Activities
 
@@ -48,5 +48,4 @@ HLG works to strengthen the essential capacity of civil society groups, local go
 * Trained 160 civil society groups on the barriers to social inclusion affecting vulnerable groups and preventing their participation in local decision-making.
 * Empowered civil society organizations to lead 11 forums to promote citizens’ role in service provision, in which 1,689 people participated.
 * Trained 500 young people on the social oversight process, and 35 percent of the 69 social audits completed were conducted directly by youth organizations, with HLG support, promoting citizen oversight and reducing the risk of corruption.
-* Supported three municipalities to initiate drafting of a Municipal Transparency Plan for the first time, coached civil society groups on their role in the process, and, with the Secretaría Técnica de la Carrera Administrativa Municipal, carried out four workshops, training 88 municipal servants and civil society members to reinforce municipal officials’ obligations. 
-* Developed a [digital dashboard](https://www.youtube.com/watch?v=qnUB6JTGEg0&feature=youtu.be) to provide key partners such as *mancomunidades*, local governments, and soon, local service providers of education, nutrition, and water and sanitation with information in a visual and interactive way.
+* Supported three municipalities to initiate the drafting of a Municipal Transparency Plan for the first time, coached civil society groups on their role in the process, and, with the Secretaría Técnica de la Carrera Administrativa Municipal, carried out four workshops, training 88 municipal servants and civil society members to reinforce municipal officials’ obligations. 

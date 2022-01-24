@@ -1,6 +1,7 @@
 ---
 title: Global Offices
 permalink: "/who-we-are/global-reach/united-kingdom/contacts/portfolio-coordinators"
+published: false
 layout: node
 redirect_from:
 - "/who-we-are/global-reach/dai-europe/contacts/portfolio-coordinators"
@@ -11,7 +12,6 @@ summary: 'Since 1970, we have worked in more than 150 countries, at any one time
 
 '
 hero: true
-published: false
 ---
 
 # United Kingdom Portfolio Coordinators
