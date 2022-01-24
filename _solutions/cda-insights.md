@@ -11,7 +11,15 @@ layout: solution
 
 <br>
 <div class="insights">
-<div>
+  <div>
+    <a href="/uploads/ethical-ai.pdf">
+      <img src="/uploads/ethical-ai-thumbnail.jpg" alt="">
+      <h3>Toward Ethical Artificial Intelligence in International Development</h3>
+      <p>Exploring how the international development community can move toward more ethical uses of AI while still reaping its benefits.</p>
+    </a>
+    <a href="/uploads/ethical-ai.pdf" target="blank" class="primary-block--button expert-button"  style="clear: left; margin-bottom: 2rem;">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+  </div>
+  <div>
     <a href="/uploads/regulating-ai-cda.pdf">
       <img src="/uploads/regulating-ai-cda.png" alt="">
       <h3>Regulating AI and Big Data Deployment in Healthcare</h3>

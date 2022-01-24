@@ -24,8 +24,6 @@ As emerging markets recover and rebound from the immense challenges presented by
 
 <div class="bulma">
   <div class="container">
-
-
     <div class="columns">
       <div class="column">
         <div class="card is-fullheight">
@@ -41,6 +39,7 @@ As emerging markets recover and rebound from the immense challenges presented by
               </div>
             </div>
             <div class="content">
+            <p>This global report contextualizes the findings of individual country briefs within the framework of the SDGs, highlighting findings related to specific SDGs while also reinforcing the ecosystem of partnerships necessary to further each goal.</p>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
