@@ -41,7 +41,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/global-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/global-country-brief-revised.pdf">Download Report</a>
           </footer>
         </div>
       </div>
