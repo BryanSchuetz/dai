@@ -35,3 +35,4 @@ By the end of Creando—with 500,000 young people engaged and 100,000 newly empl
 ### Select Results
 
 * Supported the Honduran Ministry of Education in its nationwide launch of the 2022 back-to-school campaign “Te Queremos Estudiando.” By supporting the Government’s enrollment goal of 2 million students in more than 23 schools, USAID is ensuring that youth return to the classroom, complete their education, and secure a better future in Honduras.
+* Incorporated USAID's Influencer 504 Social Emotional Learning (SEL) program into the curriculum at Academia Yo Puedo Ser in Santa Rosa de Copán. SEL skills not only provide youth with the tools to navigate difficult personal and workplace challenges but represent critical life skills for new hires desired by employers. 
