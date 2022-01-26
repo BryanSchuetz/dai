@@ -46,6 +46,6 @@ The U.S. Agency for International Development’s Indonesia Urban Water, Sanitat
 * Built 3,700 infiltration ponds to recharge groundwater supply and mitigate the effects of climate change.
 * Strengthened the capacity of more than 60 local government institutions (water supply and wastewater operators) to serve vulnerable populations in 66 cities.
 * More than 183,000 people (37 percent of them women) have benefited from project training and capacity building activities.
-* More than $100 million funding has been leveraged from public budgets and private partnership investment to support water supply and sanitation services.
+* Leveraged more than $240 million for WASH programs.
 
 <iframe allowfullscreen="" frameborder="0" height="394" mozallowfullscreen="" src="//player.vimeo.com/video/105875924" webkitallowfullscreen="" width="703"></iframe>
