@@ -7,6 +7,7 @@ layout: default
 
 # Afghanistan Resources (SIV & P-2)
 
+<h3 style="direction: rtl;"><a href="/uploads/Updated_SIV_Website_PRS.pdf">منابع معلومات برای افغانستان (P-2 & SIV)</a></h3>
 
 If you are an Afghan national who has worked directly as an employee for DAI in Afghanistan and you need an Employment Verification Letter (EVL) to apply for the Special Immigrant Visa (SIV) Program or need an Employer Priority-2 Designation (P-2) Referral, please fill out [this form](http://daisiv.dai.com/). DAI is now using this form and JIRA software to manage requests for SIV Employment Verification Letters and P-2 referrals. We are committed to supporting you in the application process.
 
