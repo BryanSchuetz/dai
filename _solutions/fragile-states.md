@@ -23,8 +23,10 @@ promos:
   link: "/uploads/Youth%20and%20Violent%20Extremism%20in%20Mindanao,%20Philippines.pdf"
 - title: "**White Paper:** Programming Responses to Power Grabbers in Times of Crisis "
   link: "/uploads/WhitePaper_Power%20Grabbing%20in%20the%20Post%20Pandemic%20Era_converted.pdf"
-- title: "**Flyer:** Women, Peace, and Security"
-  link: "/uploads/Women,%20Peace,%20and%20Security.pdf"
+- title: "**Brochure:** Women, Peace, and Security"
+  link: "/uploads/Women%20Peace%20and%20Security.pdf"
+- title: "**Brochure:** Stabilization and Peacebuilding"
+  link: "/uploads/Stabilization%20&%20Peacebuilding%20%20pages.pdf"
 hero: true
 layout: solution
 ---
