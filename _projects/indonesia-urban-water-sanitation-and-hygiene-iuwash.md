@@ -1,11 +1,10 @@
 ---
 title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS)
 date: 2016-01-21 22:40:00 Z
-summary: Despite positive economic growth in recent years, urban Indonesia still suffers
-  from one of the lowest rates of access to safe water and improved sanitation in
-  the region. USAID’s IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health
-  for All (IUWASH PLUS), is working to expand access to water and sanitation services
-  to hundreds of thousands of low-income urban households.
+summary: IUWASH PLUS worked with civil society groups and local governments to mobilize
+  demand for improved drinking water and sanitation services, as well as built the
+  capacity of private businesses, utilities, and national-level programs to provide
+  these services in a fair and sustainable fashion.
 start: 2016
 end: 2022
 client: U.S. Agency for International Development
@@ -28,7 +27,9 @@ layout: project
 
 Better management of urban growth will be crucial to guarantee sustainable cities. It is not uncommon for citizens in and around Indonesia’s major cities for residents to spend up to two hours a day transporting expensive water to their homes for drinking and cooking. In addition, a lack of sewage and wastewater infrastructure in many densely populated, low-income areas leads to tainted ground and surface water, creating serious health risks from waterborne diseases.
 
-USAID’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUWASH PLUS) project and its predecessor, IUWASH, have brought reliable water supply to more than 3 million people and safely managed [sanitation services](https://medium.com/usaid-global-waters/strengthening-urban-indonesias-water-and-sanitation-systems-geser-si-jahat-out-with-the-bad-fa3772d5cc6b) to more 600,000 city dwellers. The IUWASH PLUS team works with civil society groups and local governments to mobilize demand for improved drinking water and sanitation services, as well as to build the capacity of private businesses, utilities, and national-level programs to provide these services in a fair and sustainable fashion.![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
+The U.S. Agency for International Development’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUWASH PLUS) project and its predecessor, IUWASH, brought reliable water supply to more than 3 million people and safely managed [sanitation services](https://medium.com/usaid-global-waters/strengthening-urban-indonesias-water-and-sanitation-systems-geser-si-jahat-out-with-the-bad-fa3772d5cc6b) to more 960,000 city dwellers. The IUWASH PLUS team worked with civil society groups and local governments to mobilize demand for improved drinking water and sanitation services, as well as built the capacity of private businesses, utilities, and national-level programs to provide these services in a fair and sustainable fashion.
+
+![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
 
 ### Sample Activities
 
@@ -40,9 +41,7 @@ USAID’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan 
 
 ### Select Results (IUWASH and IUWASH PLUS)
 
-* Brought [reliable water supply](https://medium.com/usaid-global-waters/making-sanitation-services-affordable-in-indonesia-s-cities-5a2621014c1f#.s3v3zp1xo) to more than 3 million people and safely managed sanitation services to 230,000 city dwellers.
-* Improved sanitation facilities for more than 360,000 people.
-* Provided basic sanitation facilities to 27,500 poor people.
+* Brought [reliable water supply](https://medium.com/usaid-global-waters/making-sanitation-services-affordable-in-indonesia-s-cities-5a2621014c1f#.s3v3zp1xo) to more than 3 million people and safely managed sanitation services to 960,000 city dwellers.
 * Reduced water costs for low-income households by 57 percent.
 * Built 3,700 infiltration ponds to recharge groundwater supply and mitigate the effects of climate change.
 * Strengthened the capacity of more than 60 local government institutions (water supply and wastewater operators) to serve vulnerable populations in 66 cities.
