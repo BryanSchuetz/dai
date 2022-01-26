@@ -31,3 +31,7 @@ By the end of Creando—with 500,000 young people engaged and 100,000 newly empl
 * Facilitate soft-skill and behavior change programs with the private sector.
 * Improve the Government of Honduras' capacity to engage youth in developing education and training programs. 
 * Introduce life and career counseling services in educational institutions, employment centers, and key community spaces for youth.
+
+### Select Results
+
+* Supported the Honduran Ministry of Education in its nationwide launch of the 2022 back-to-school campaign “Te Queremos Estudiando.” By supporting the Government’s enrollment goal of 2 million students in more than 23 schools, USAID is ensuring that youth return to the classroom, complete their education, and secure a better future in Honduras.
