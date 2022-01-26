@@ -22,7 +22,7 @@ In partnership with our key subcontractor FHI360, PLANE operates across Kano, Ka
 
 ![plane.jpg](/uploads/plane.jpg)
 
-### Sample Activites
+### Sample Activities
 
 * Improve teaching and learning in performance-focused schools and colleges—leading to the use of evidence-based teaching and learning approaches and better management.
 * Assist stakeholders in upgrading their systems to better incorporate human and financial resources, ultimately allowing them to run their operations more efficiently. Better-managed systems should lead to better results for students.
