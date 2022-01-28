@@ -11,7 +11,7 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: INVEST Year FIVE Quarterly Report
+- title: INVEST Year Five Quarterly Report
   link: "/uploads/INVEST%20Y5Q1%20Report%20Jan%2028%202022.pdf"
 - title: Corporate Investment Partnerships Report
   link: https://www.usaid.gov/INVEST/corporate-investment-partnerships-growth-sustainability
