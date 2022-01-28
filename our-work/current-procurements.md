@@ -12,3 +12,4 @@ Listed below are current solicitations. To view additional information regarding
 
 * [RFA 2022-01 Women's Digital Inclusion Challenge](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-01%20Women%27s%20Digital%20Inclusion%20Challenge.pdf "3/5")
 * [RFP-CAI-22-0008 Piloting of Internal Control and Governance Units (ICGUs) Within Government Entities in Egypt](https://dai-assets.s3.amazonaws.com/rfps/RFP-CAI-22-0008-FINAL.pdf "2/7")
+* [RFP-CAI-22-0008 Questions and Answers](https://dai-assets.s3.amazonaws.com/rfps/RFP-CAI-22-0008-questions-and-answers.pdf "2/7")
