@@ -40,3 +40,4 @@ The program intends to create at least 4,800 new jobs, support at least 720 smal
 ### Select Results
 
 * Supported the Georgian Anti-Piracy Center to produce videos informing the public about illegal content and intellectual property rights. The videos provide statistical data, specific examples, and the details about impact of internet piracy. 
+* Produced a video tour of Samtskhe-Javakehi that was selected as the best in Europe and one of the five best in the world in the Promotion and Decade of Action category of the United Nations World Tourism Organization's [Tourism Video Competition](https://www.unwto.org/news/2021-unwto-tourism-video-competition-winners).
