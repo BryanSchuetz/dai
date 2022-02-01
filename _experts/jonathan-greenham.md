@@ -5,7 +5,7 @@ lastname: Greenham
 summary: For 30 years, Jonathan Greenham has focused on identifying new options for
   agribusiness entrepreneurs in developing countries, improving production, increasing
   access to markets, and forging public-private partnerships.
-job-title: Chief of Party, USAID Haiti AVANSE
+job-title: Chief of Party
 image: https://assetify-dai.com/experts/Greenham_Inner.jpg
 solutions:
 - Economic Growth
