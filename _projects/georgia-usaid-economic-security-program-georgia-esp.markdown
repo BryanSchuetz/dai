@@ -36,3 +36,7 @@ The program intends to create at least 4,800 new jobs, support at least 720 smal
 * Support micro, small, and medium-sized enterprises to improve productivity, sales, and quality, and to develop new products and services.
 * Develop industry-led workforce.
 * Build public-private partnerships.
+
+### Select Results
+
+* Supported the Georgian Anti-Piracy Center to produce videos informing the public about illegal content and intellectual property rights. The videos provide statistical data, specific examples, and the details about impact of internet piracy. 
