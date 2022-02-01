@@ -1,5 +1,5 @@
 ---
-title: Lisa ruch
+title: Lisa Ruch
 date: 2016-01-21 22:18:00 Z
 job-title: Director, Business Development, Global
 email: lisa_ruch@dai.com
