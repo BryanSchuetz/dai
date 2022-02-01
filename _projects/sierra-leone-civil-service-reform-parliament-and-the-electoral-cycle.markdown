@@ -6,7 +6,7 @@ summary: Our team works to consolidate past reforms in the areas of electoral su
   parliamentary strengthening, and civil service reform within the new electoral cycle
   in Sierra Leone.
 start: 2018
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Legislative Strengthening
@@ -15,7 +15,7 @@ regions: Sub-Saharan Africa
 country: Sierra Leone
 ---
 
-This European Union (EU)-funded technical assistance project in Sierra Leone was launched in the aftermath of presidential, parliamentary, and local elections of March 2018—the ideal timeframe to consolidate past reforms in Parliament’s work and electoral cycles. The project builds upon the commitment already undertaken by the Government of Sierra Leone, as supported through partners including the United Nations Development Programme (UNDP), the World Bank, the EU, and the Foreign, Commonwealth & Development Office. 
+This European Union (EU)-funded project in Sierra Leone was launched in the aftermath of presidential, parliamentary, and local elections of March 2018—the ideal timeframe to consolidate past reforms in Parliament’s work and electoral cycles. The project builds upon the commitment already undertaken by the Government of Sierra Leone, as supported through partners including the United Nations Development Programme (UNDP), the World Bank, the EU, and the Foreign, Commonwealth & Development Office. 
 
 Our team is consolidating past reforms in electoral support, parliamentary strengthening, and civil service reform within the new electoral cycle. The team is consolidating electoral and democratic reforms allowing for improved political dialogue; enhancing the legislative process, institutional relevance, and effectiveness of Parliament; and improving the institutional capacity of the civil service to enhance public service delivery.
 
