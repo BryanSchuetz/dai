@@ -23,17 +23,18 @@ The U.S. Agency for International Development (USAID)-funded [Governance and Loc
 
 In his opening remarks, Marc Ellingstad, Director of the Office of Democracy and Governance at USAID’s Ukraine Mission, emphasized that HOVERLA is designed to support a combination of legislative reform, local government strengthening, and citizen engagement activities. “This forum represents a very significant milestone in Ukraine’s history,” he said. "Decentralization is about strengthening local governments, and more than that, giving the people access to their governments. This forum represents just that, the mayors as representatives of their communities have prioritized the laws that need to be addressed in the spring session of the Verkhovna Rada of Ukraine for the mayors and their community governments to fulfill their mandate.”
 
-Since 2014, the Verkhovna Rada (parliament) of Ukraine has been working on a myriad of laws that will [shape decentralization](https://decentralization.gov.ua/en/) and deconcentration of sectoral services. These laws will also pave the way for private sector participation, regional development, accessibility, political stability, trust, and improved service delivery. However, what distinguishes the 2022 spring and fall session is that now they prioritize the laws in conformance to the expressed wishes of their citizenry, as represented by their mayors. The forum acknowledges that the mayors and local government associations as advocates are best able to bridge the central and local governments.
+Since 2014, the Verkhovna Rada (parliament) of Ukraine has been working on various laws that will [shape decentralization](https://decentralization.gov.ua/en/) and the deconcentration of sectoral services. These laws will also pave the way for private sector participation, regional development, accessibility, political stability, trust, and improved service delivery. However, what distinguishes the 2022 spring and fall session is that now they prioritize the laws in line with the expressed wishes of local citizens, as represented by local mayors. The forum acknowledges that the mayors and local government associations as advocates are best able to make the connection between central and local governments.
 
-Prior to the forum, HOVERLA conducted a survey among local communities and identified the following priorities for legislative revisions in 2022:
-* Consolidation of decentralization at the constitutional level through amendments to the Constitution in terms of decentralization.
-* Establishing a clear division of powers between local governments at different levels.
-* Strengthening the financial base of local self-government by increasing the share of personal income tax contributions to local budgets.
-* Avoidance of duplication of powers between local governments and executive bodies by their legislative separation.
-* Improving the mechanisms for paying personal income tax to balance the interests of communities that attract investors and communities that provide services to citizens at the place of residence, i.e., the implementation of fair payment of this tax in the distribution between place of work and place of residence.
+Prior to the forum, a HOVERLA survey of local communities identified the following priorities for legislative revisions in 2022:
+
+* Consolidate decentralization at the constitutional level through amendments to the Constitution.
+* Establish a clear division of powers between local governments at different levels.
+* Strengthen the financial base of local self-government by increasing the share of personal income tax contributions to local budgets.
+* Avoid duplication of powers between local governments and executive bodies.
+* Improve mechanisms for paying personal income tax to balance the interests of communities that attract investors and communities that provide services to citizens at the place of residence (that is, implement fair distribution of tax payments between place of work and place of residence).
 * Develop, adopt, and implement a law on service in local self-government bodies that meets European standards.
 * Adopt and implement the law on local state administrations.
-* Institutionalize a new tool for citizen participation in community governance through the adoption and implementation of the law on local referendums.
+* Institutionalize a new tool for citizen participation in community governance by adopting and implementing the law on local referendums.
 * Replace the Soviet principles of establishing and changing the administrative-territorial structure as the territorial and spatial basis of local government.
 * Eliminate the shortcomings of the current legislation on communal property.
 
