@@ -15,6 +15,9 @@ country: Worldwide
 promos:
 - title: 'NEWSLETTER: INRM '
   link: https://spark.adobe.com/page/sRGtSXtP6I1Zm/
+- title: The Relationship Between Medium-Scale Farms and Deforestation in Sub-Saharan
+    Africa
+  link: https://land-links.org/document/the-relationship-between-medium-scale-farms-and-deforestation-in-sub-saharan-africa/
 ---
 
 Coordinating and integrating biodiversity conservation with other development efforts, where appropriate, can provide a powerful opportunity to address the multifaceted challenges people face to add value and produce longer-lasting development outcomes. 
