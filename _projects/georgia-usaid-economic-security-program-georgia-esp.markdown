@@ -3,7 +3,7 @@ title: Georgia—USAID Economic Security Program
 date: 2019-05-08 12:09:00 Z
 summary: The USAID Economic Security Program assists Georgian firms to take advantage
   of the country’s market access and location to exploit regional economic opportunities
-  and compete with international competitors for Georgia's domestic market.
+  and compete with international competitors for the domestic market.
 start: 2019
 end: 2024
 client: U.S. Agency for International Development
