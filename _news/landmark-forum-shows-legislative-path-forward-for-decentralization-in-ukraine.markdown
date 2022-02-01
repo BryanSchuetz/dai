@@ -1,6 +1,6 @@
 ---
-title: DAI Supports Prioritizing Laws on Decentralization in Ukraine
-date: 2022-01-31 16:02:00 Z
+title: Landmark Forum Shows Legislative Path Forward for Decentralization in Ukraine
+date: 2022-02-01 05:02:00 Z
 published: false
 tags:
 - governance
