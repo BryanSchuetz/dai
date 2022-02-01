@@ -8,9 +8,9 @@ summary: Erin moved from the United States to the U.K. office in January 2017 an
   DAI in 2014 as Vice President of Corporate Financial Planning and Analysis, responsible
   for consolidated financial reporting, processes, systems, and supporting the company’s
   global strategy. She has 25 years of business experience at both the operations
-  and the corporate level. Prior to joining DAI, she was the deputy CFO for Vencore,
-  Inc., overseeing project financial operations, financial planning and budgeting,
-  and pricing.
+  and the corporate level. Prior to joining DAI, she was the Deputy Chief Financial
+  Officer for Vencore, Inc., overseeing project financial operations, financial planning
+  and budgeting, and pricing.
 image: "/uploads/ErinCerpa.jpg"
 group: Management
 sort-order: 3
