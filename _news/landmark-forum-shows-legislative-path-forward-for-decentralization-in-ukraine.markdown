@@ -17,7 +17,7 @@ summary: 'The U.S. Agency for International Development (USAID)-funded [Governan
 country: Ukraine
 ---
 
-Ukraine has embraced the concept of decentralization and understands that a complex array of activities, policies, and procedures are needed to bolster the reorganization of financial, political, administrative, and service delivery systems. Most critically, Ukraine also understands that decentralization needs to be addressed in law.
+Ukraine has embraced the concept of decentralization and understands that an array of activities, policies, and procedures are needed to support the reorganization of financial, political, administrative, and service delivery systems. Most critically, Ukraine also understands that decentralization needs to be addressed in law.
 
 The U.S. Agency for International Development (USAID)-funded [Governance and Local Accountability (HOVERLA)](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla) activity continues the U.S. Government’s consistent support of this vision and journey. On January 31, with the support of USAID HOVERLA, the government and representatives met in a historic forum to set the legislative agenda for 2022. 
 
