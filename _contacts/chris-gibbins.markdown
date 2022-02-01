@@ -1,6 +1,7 @@
 ---
 title: Chris Gibbins
 date: 2022-01-31 11:24:00 Z
+job-title: Project Finance Manager
 email: chris_gibbins@dai.com
 summary: Chris leads the DAI business partnering team in the UK, which provides financial
   operations and support to UK operations. Chris has over eight years of experience
