@@ -5,12 +5,15 @@ lastname: Greenham
 summary: For 30 years, Jonathan Greenham has focused on identifying new options for
   agribusiness entrepreneurs in developing countries, improving production, increasing
   access to markets, and forging public-private partnerships.
-job-title: Chief of Party
+job-title: Chief of Party, Feed the Future DRC Strengthening Livelihoods and Resilience
+  Activity
 image: https://assetify-dai.com/experts/Greenham_Inner.jpg
 solutions:
 - Economic Growth
 regions:
-- Eastern Europe and Central Asia
+- Sub-Saharan Africa
+- Latin America and the Caribbean
+- Middle East and North Africa
 layout: expert
 ---
 
