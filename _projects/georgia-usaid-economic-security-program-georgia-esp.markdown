@@ -40,6 +40,6 @@ The program intends to create at least 4,800 new jobs, support at least 720 smal
 ### Select Results
 
 * Supported the Georgian Anti-Piracy Center to produce videos informing the public about illegal content and intellectual property rights. The videos provide statistical data, specific examples, and the details about impact of internet piracy. 
-* Produced a video tour of Samtskhe-Javakehi that was selected as the best in Europe and one of the five best in the world in the Promotion and Decade of Action category of the United Nations World Tourism Organization's [Tourism Video Competition](https://www.unwto.org/news/2021-unwto-tourism-video-competition-winners).
+* Produced a video tour of Samtskhe-Javakehi [that was selected](https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest) as the best in Europe and one of the five best in the world in the Promotion and Decade of Action category of the United Nations World Tourism Organization's [Tourism Video Competition](https://www.unwto.org/news/2021-unwto-tourism-video-competition-winners).
 * Partnered with global e-commerce platform Etsy to onboard more than 100 Georgian artisans, many of whom had lost their traditional sales channels because of the COVID-19 pandemic. 
 * Finalized a partnership with Mastercard to achieve specific developmental goals in terms of e-commerce and digitalization, while at the same time utilizing the company’s vast marketing and promotion effort to build overall visibility for Georgia’s positioning within the knowledge economy.
