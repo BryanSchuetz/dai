@@ -29,12 +29,12 @@ The activity contributes to improved cybersecurity in Ukraine. Increasing organi
 
 * With the government, review existing or drafted cybersecurity legislation, policies, and strategies, and develop an approach for the legal, regulatory, and institutional frameworks to create a national Cybersecurity Roadmap.
 * Build government capacity to implement key cybersecurity initiatives in critical infrastructure protection through the establishment of a Cyber Excellence Mechanism.
-* Improve national preparedness through assessments of security in selected critical infrastructure operators leading to development of a Cyber Maturity Model.
-•	Perform large-scale tabletop exercises to test and reinforce developed response procedures to cyberattacks against critical infrastructure.
-•	Develop and support new degree programs in cybersecurity at higher education institutions
-•	Provide immediate upskilling of current cybersecurity industry professionals.
-•	Build the capacity of security operations center analysts, system designers, risk managers, and auditors on topics that are relevant to their responsibilities.
-•	Create new and innovative approaches in cybersecurity, both proactively and in response to Government of Ukraine needs for support to protect critical infrastructure entities from cyberattacks. 
+* Improve national preparedness through assessments of security in selected critical infrastructure operators leading to the development of a Cyber Maturity Model.
+* Perform large-scale tabletop exercises to test and reinforce developed response procedures to cyberattacks against critical infrastructure.
+* Develop and support new degree programs in cybersecurity at higher education institutions.
+* Provide immediate upskilling of current cybersecurity industry professionals.
+* Build the capacity of security operations center analysts, system designers, risk managers, and auditors on topics that are relevant to their responsibilities.
+* Create new and innovative approaches in cybersecurity, both proactively and in response to Government of Ukraine needs for support to protect critical infrastructure entities from cyberattacks. 
 •	Raise awareness within the Government of Ukraine entities and among the private sector about cybersecurity threats and means of protection. 
 
 
