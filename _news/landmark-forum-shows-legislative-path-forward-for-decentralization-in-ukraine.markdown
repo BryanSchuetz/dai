@@ -1,6 +1,6 @@
 ---
 title: Landmark Forum Shows Legislative Path Forward for Decentralization in Ukraine
-date: 2022-02-01 05:02:00 Z
+date: 2022-02-02 05:02:00 Z
 published: false
 tags:
 - governance
@@ -14,12 +14,15 @@ summary: 'The U.S. Agency for International Development (USAID)-funded [Governan
   and Local Accountability (HOVERLA)](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla)
   activity supported a historic forum in Ukraine setting the legislative agenda for
   2022. '
+social-image: "/uploads/sm%20USAID%20HOVERLA%20Forum.jpg"
 country: Ukraine
 ---
 
 Ukraine has embraced the concept of decentralization and understands that an array of activities, policies, and procedures are needed to support the reorganization of financial, political, administrative, and service delivery systems. Most critically, Ukraine also understands that decentralization needs to be addressed in law.
 
 The U.S. Agency for International Development (USAID)-funded [Governance and Local Accountability (HOVERLA)](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla) activity continues the U.S. Government’s consistent support of this vision and journey. On January 31, with the support of USAID HOVERLA, the Ukrainian government and local representatives met in a historic forum to set the legislative agenda for 2022. 
+
+![USAID HOVERLA Forum.jpg](/uploads/USAID%20HOVERLA%20Forum.jpg)`Photo: USAID HOVERLA.`
 
 In his opening remarks, Marc Ellingstad, Director of the Office of Democracy and Governance at USAID’s Ukraine Mission, emphasized that HOVERLA is designed to support a combination of legislative reform, local government strengthening, and citizen engagement activities. “This forum represents a very significant milestone in Ukraine’s history,” he said. "Decentralization is about strengthening local governments, and more than that, giving the people access to their governments. This forum represents just that, the mayors as representatives of their communities have prioritized the laws that need to be addressed in the spring session of the Verkhovna Rada of Ukraine for the mayors and their community governments to fulfill their mandate.”
 
