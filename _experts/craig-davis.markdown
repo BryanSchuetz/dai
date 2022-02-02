@@ -1,12 +1,12 @@
 ---
 title: Craig Davis
 date: 2022-02-02 14:45:00 Z
-published: false
 lastname: Davis
 summary: Craig Davis has more than 20 years of experience in international development,
   education and training, research and publication, technical assistance, and capacity
   building.
 job-title: 'Chief of Party, Creando Mi Futuro Aquí '
+image: "/uploads/author.jpg"
 solutions:
 - Governance
 - Workforce Development and Youth
@@ -27,7 +27,7 @@ Prior to this, Craig served as COP school-based [violence prevention project](ht
 
 He has led several other U.S. Agency for International Development projects, including ones in Afghanistan, Iraq, Pakistan, and Yemen. At the Bureau of International Labor Affairs at the U.S. Department of Labor, he served as Education Specialist, managing a portfolio of child labor and education projects. As Civil Society Director for IREX, he managed a portfolio of civil society projects in the former Soviet Union and expanded the division’s new business into the Middle East and into new anti-corruption and conflict mitigation technical areas. 
 
-* Dual PhD, religious studies and near eastern languages and cultures, Indiana University
+* Dual Ph.D., religious studies and near eastern languages and cultures, Indiana University
 * M.A., religious studies, Indiana University
 * M.A., near eastern languages and cultures, Indiana University
 * B.A., English as a second language, Universidad Internacional de las Americas
