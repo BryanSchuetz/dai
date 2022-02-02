@@ -39,7 +39,13 @@ The activity contributes to improved cybersecurity in Ukraine. Increasing organi
 
 ### Select Results
 
+* Supported the development and adoption of a new National Cybersecurity Strategy, formalized in a Presidential Decree in August 2021.
+* Prepared the Roadmap for implementation of the National Cybersecurity Strategy and research on the cybersecurity workforce needs.  
+* Provided technical advice during the drafting of a new Law on Critical Infrastructure. The Ukrainian Parliament adopted the law and the president signed it into law, laying out the parameters for managing critical infrastructure and mandates further legislation, including the introduction of cyber insurance.
+* Launched a Small and Medium Business Accelerator “CyberAccelerator UA,” which provided more than 100 hours of training to 10 cybersecurity companies.
+* Launched the Chief Technology Officer Peer Mentoring Program, which matched Ukrainian mentees and U.S. Chief Information Security Officer mentors and led to hundreds of hours of highly contextual professional exchanges.
+* Supported the establishment of a Cybersecurity Higher Education Program involving 14 universities representing 10 oblasts across the country. 
 * Supported five universities to adopt computer science courses in their mainstream curricula, enrolling 368 students. The project developed and promoted the courses and will continue to facilitate partnerships with higher education institutions.
-* Supported the Ukraine National Security and Defense Council in the October 2021 international conference "Countering Cyber Threats in the Modern Security Environment." 
-* Hosted a Certified Information Security Manager training covering: establishing and maintaining an information security governance framework; managing information risk to an acceptable level based on organizational goals and objectives; developing and maintaining an information security program that identifies, manages, and protects assets; and, developing the capability to detect, investigate, respond to and recover from information security incidents. 
-* Provided support to operationalize the UA30 Cyber Center under the State Special Communications Service of Ukraine, an important element in the framework of the country's cybersecurity strategy. 
+* Activated the RangeForce platform to provide hands-on training to up to 10,000 top students in cybersecurity concentrations. 
+* Provided professional training to critical infrastructure operators and government employees for certification in globally recognized credentials, including Certified Information Systems Security Professional, Certified Network Defender, and Certified Ethical Hacker. 
+* Provided support to operationalize the UA30 Cyber Center under the State Special Communications Service of Ukraine, an important element in the framework of the country’s cybersecurity strategy. The center houses Ukraine’s Computer Emergency Response Team as well as teams monitoring and analyzing potential threats and vulnerabilities. The Activity provided branding and communications assistance to support the launch event attended by President Zelensky and Vice Prime Minister Fedorov.
