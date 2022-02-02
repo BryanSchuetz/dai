@@ -21,7 +21,7 @@ articles:
   article_file: https://dai-global-developments.com/articles/a-shift-in-mindset-distance-learning-during-covid-19-boosts-participation-in-honduras
 ---
 
-Craig Davis has more than 20 years of experience in international development, education and training, research and publication, technical assistance, and capacity building. He is currently the Chief of Party for the [Creando Mi Futuro Aquí](https://www.dai.com/our-work/projects/honduras-creando-mi-futuro) project in Honduras, a workforce development project designed to prepare youth for the labor market and reduce out-migration. 
+Craig Davis has more than 20 years of experience in international development, education and training, research and publication, technical assistance, and capacity building. He is currently the Chief of Party (COP) for the [Creando Mi Futuro Aquí](https://www.dai.com/our-work/projects/honduras-creando-mi-futuro) project in Honduras, a workforce development project designed to prepare youth for the labor market and reduce out-migration. 
 
 Prior to this, Craig served as COP school-based [violence prevention project](https://www.dai.com/our-work/projects/honduras-securing-education) in Honduras. Craig served as Regional Director in Nairobi, Kenya, for [Africa Lead](https://www.dai.com/our-work/projects/africa-leadership-training-and-capacity-building-program-africa-lead), a food security and resilience project. Before that, he was Chief of Party for the [Transition Initiatives for Stabilization (TIS)](https://www.dai.com/our-work/projects/somalia-transition-initiatives-stabilization-tis) project in Somalia. 
 
