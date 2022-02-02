@@ -34,9 +34,8 @@ The activity contributes to improved cybersecurity in Ukraine. Increasing organi
 * Develop and support new degree programs in cybersecurity at higher education institutions.
 * Provide immediate upskilling of current cybersecurity industry professionals.
 * Build the capacity of security operations center analysts, system designers, risk managers, and auditors on topics that are relevant to their responsibilities.
-* Create new and innovative approaches in cybersecurity, both proactively and in response to Government of Ukraine needs for support to protect critical infrastructure entities from cyberattacks. 
-•	Raise awareness within the Government of Ukraine entities and among the private sector about cybersecurity threats and means of protection. 
-
+* Create new and innovative approaches in cybersecurity, both proactively and in response to the government's needs for support to protect critical infrastructure entities from cyberattacks. 
+* Raise awareness within government entities and among the private sector about cybersecurity threats and means of protection. 
 
 ### Select Results
 
