@@ -13,6 +13,12 @@ solutions:
 - 
 regions:
 - Latin America and the Caribbean
+articles:
+- name: Early Warning and Response System Increases School Enrollment and Retention
+  article_file: https://dai-global-developments.com/articles/early-warning-and-response-system-increases-school-enrollment-and-retention
+- name: 'A Shift in Mindset: Distance Learning during COVID-19 Boosts Participation
+    in Honduras'
+  article_file: https://dai-global-developments.com/articles/a-shift-in-mindset-distance-learning-during-covid-19-boosts-participation-in-honduras
 ---
 
 Craig Davis has more than 20 years of experience in international development, education and training, research and publication, technical assistance, and capacity building. He is currently the Chief of Party for the [Creando Mi Futuro Aquí](https://www.dai.com/our-work/projects/honduras-creando-mi-futuro) project in Honduras, a workforce development project designed to prepare youth for the labor market and reduce out-migration. 
