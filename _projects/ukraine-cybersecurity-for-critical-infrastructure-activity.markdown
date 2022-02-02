@@ -19,7 +19,7 @@ promos:
   link: https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html
 ---
 
-Ukraine is engaged in an ongoing hybrid, asymmetric, and kinetic struggle against cyberattacks on its critical infrastructure. Ukraine’s energy sectors—oil and gas, nuclear, electricity, and hydroelectric systems—are a particular target of cyber aggression. Hybrid warfare campaigns against Ukraine continue, with a marked increase in targeted spear-phishing campaigns against Government of Ukraine employees. 
+Ukraine is engaged in an ongoing struggle against cyberattacks on its critical infrastructure. Ukraine’s energy sectors—oil and gas, nuclear, electricity, and hydroelectric systems—are a particular target. Hybrid campaigns against Ukraine continue, with a marked increase in targeted spear-phishing campaigns against Government of Ukraine employees. 
 
 These attacks, and others, pose complex and novel challenges that require Ukraine to respond rapidly, deploy effective countermeasures, and build new defenses against future attacks from a range of potential internal and external malicious actors. The U.S. Agency for International Development (USAID)-funded Cybersecurity for Critical Infrastructure Activity works to strengthen the resilience of Ukraine’s critical infrastructure from cyberattacks by establishing trusted collaboration between key cybersecurity stakeholders in the government, private sector, academia, and civil society.
 
