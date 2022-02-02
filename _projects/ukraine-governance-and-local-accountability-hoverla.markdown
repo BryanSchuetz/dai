@@ -13,6 +13,9 @@ solutions:
 - Institutional and Policy Reform
 regions: Eastern Europe and Central Asia
 country: Ukraine
+promos:
+- title: Landmark Forum Shows Legislative Path Forward for Decentralization in Ukraine
+  link: https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine
 ---
 
 Ukraine continues along the path of decentralization, but there is an urgent need to secure the gains of the past six years of reform. Stakeholders in Ukraine, including the current administration, understand that the expansion of the institutions of democratic local governance is critical to raising local living standards and reducing out-migration, achieving more balanced regional economic development, improving accountability, and enhancing citizen confidence. 
