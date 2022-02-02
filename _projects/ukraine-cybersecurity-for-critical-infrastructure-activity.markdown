@@ -41,9 +41,9 @@ The activity contributes to improved cybersecurity in Ukraine. Increasing organi
 
 * Supported the development and adoption of a new National Cybersecurity Strategy, formalized in a Presidential Decree in August 2021.
 * Prepared the Roadmap for implementation of the National Cybersecurity Strategy and research on the cybersecurity workforce needs.  
-* Provided technical advice during the drafting of a new Law on Critical Infrastructure. The Ukrainian Parliament adopted the law and the president signed it into law, laying out the parameters for managing critical infrastructure and mandates further legislation, including the introduction of cyber insurance.
-* Launched a Small and Medium Business Accelerator “CyberAccelerator UA,” which provided more than 100 hours of training to 10 cybersecurity companies.
-* Launched the Chief Technology Officer Peer Mentoring Program, which matched Ukrainian mentees and U.S. Chief Information Security Officer mentors and led to hundreds of hours of highly contextual professional exchanges.
+* Provided technical advice during the drafting of a new Law on Critical Infrastructure. The Ukrainian Parliament adopted the law and the president signed it into law, laying out the parameters for managing critical infrastructure and mandates for further legislation, including the introduction of cyber insurance.
+* Launched a Small and Medium Business Accelerator, “CyberAccelerator UA,” which provided more than 100 hours of training to 10 cybersecurity companies.
+* Launched the Chief Technology Officer Peer Mentoring Program, which matched Ukrainian mentees and U.S. Chief Information Security Officer mentors and led to hundreds of hours of professional exchanges.
 * Supported the establishment of a Cybersecurity Higher Education Program involving 14 universities representing 10 oblasts across the country. 
 * Supported five universities to adopt computer science courses in their mainstream curricula, enrolling 368 students. The project developed and promoted the courses and will continue to facilitate partnerships with higher education institutions.
 * Activated the RangeForce platform to provide hands-on training to up to 10,000 top students in cybersecurity concentrations. 
