@@ -1,12 +1,12 @@
 ---
 title: Mark McCord
 date: 2022-02-03 08:32:00 Z
-published: false
 lastname: McCord
 summary: Mark McCord has more than 36 years of experience in competitiveness, economic
   growth, and organizational development, including 21 years as a Chief of Party or
   Project Director for donor-led programs.
 job-title: Chief of Party
+image: "/uploads/Mark%20McCord.jpg"
 solutions:
 - Economic Growth
 - Business Environment Reform
