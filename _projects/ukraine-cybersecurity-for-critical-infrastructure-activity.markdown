@@ -25,6 +25,8 @@ These attacks, and others, pose complex and novel challenges that require Ukrain
 
 The activity contributes to improved cybersecurity in Ukraine. Increasing organizational and technical capacity in key institutions and ensuring that the next generation of cybersecurity professionals is prepared to take on these challenges are the activity’s priorities, as well as building the foundation for improved preparedness based on an effective legal regulatory framework, effective communication between stakeholders, and engagement with the private sector. In addition, the activity supports a secure digital transformation in Ukraine by providing testing of e-services and engaging a broader community of experts and testers. 
 
+![ukraine cyber-7ddcb9.jpg](/uploads/ukraine%20cyber-7ddcb9.jpg)
+
 ### Sample Activities
 
 * With the government, review existing or drafted cybersecurity legislation, policies, and strategies, and develop an approach for the legal, regulatory, and institutional frameworks to create a national Cybersecurity Roadmap.
