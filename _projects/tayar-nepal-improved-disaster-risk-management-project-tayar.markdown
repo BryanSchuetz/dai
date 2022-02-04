@@ -1,9 +1,8 @@
 ---
 title: Nepal—Improved Disaster Risk Management Project (Tayar)
 date: 2019-09-25 13:47:00 Z
-summary: As USAID's flagship disaster preparedness and response program for Nepal,
-  the Tayar project strengthens the capacity of Nepal’s disaster risk management and
-  preparedness institutions.
+summary: Tayar strengthens the capacity of Nepal’s disaster risk management and preparedness
+  institutions.
 start: 2019
 end: 2024
 client: U.S. Agency for International Development
@@ -35,3 +34,4 @@ In the event of a disaster during the course of the project, Tayar will engage t
 * Raised public awareness on hazard preparedness and response through informative videos, public service announcements, and social media outreach provided by Tayar grantee, Public Affairs Research and Communication (PARC). PARC has helped NDRRMA create more than 90 awareness videos in more than six ethnic languages to reach a wider mass. The content is shared through social media platforms, including NDRRMA’s own channels, which have more than 18,000 followers. 
 * Developed the *Disability Inclusive Get Ready Guidebook* and circulated it to all 753 municipalities. The guidebook describes basic concepts of disability, its types, and developing
 knowledge and skills on how to be prepared and protected in earthquakes, landslides, fires, pandemics, and floods.
+* Launched Bachau, a mobile application tool that supports people with hearing impairments during emergencies through text messages to police, ambulance, and fire fighters. 
