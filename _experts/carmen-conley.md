@@ -15,6 +15,8 @@ regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa
 articles:
+- name: 'Local Governance: Chipping Away at Corruption'
+  article_file: https://dai-global-developments.com/articles/local-governance-chipping-away-at-corruption
 - name: Parliamentary Strengthening through the Lens of a Decade of Assistance to
     Pakistan’s National and Provincial Parliaments, U.K. Parliament
   article_file: http://data.parliament.uk/WrittenEvidence/CommitteeEvidence.svc/EvidenceDocument/International%20Development/Parliamentary%20Strengthening/written/13624.html
