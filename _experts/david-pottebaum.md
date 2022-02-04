@@ -5,7 +5,7 @@ lastname: Pottebaum
 summary: David Pottebaum has more than 27 years of technical and managerial experience
   focusing on institutional and organizational development, public administration
   transparency and accountability, policy reform, and rural agricultural development.
-job-title: Chief of Party, Philippines ENGAGE Program
+job-title: Chief of Party, Thailand
 image: "/uploads/David%20Pottebaum%20NEW.jpg"
 solutions:
 - Governance
@@ -18,12 +18,10 @@ layout: expert
 
 David Pottebaum has more than 27 years of technical and managerial experience focusing on institutional and organizational development, public administration transparency and accountability, policy reform, and rural agricultural development. For more than 16 years he has led and managed recovery and reconciliation projects and operations in complex settings in Southeast and South Asia. 
 
-David has served as U.S. Agency for International Development (USAID) Chief of Party on five long-term projects in Southeast and South Asia over the past 14 years. He currently serves as the Chief of Party on the Enhancing Governance, Accountability and Engagement (ENGAGE) Project in the Philippines, where he leads the design and implementation of governance, accountability and local government and nongovernmental organization capacity-building initiatives. Prior to this, he served as Chief of Party on the USAID-funded Thailand Sapan Project, Bangladesh Promoting Governance, Accountability, Transparency and Integrity project, Indonesia Support for Peaceful Democratization project, and Indonesia Program Support Initiative.
+David has served as U.S. Agency for International Development (USAID) Chief of Party on five long-term projects in Southeast and South Asia over the past 14 years. He most recently served as the Chief of Party on the Enhancing Governance, Accountability and Engagement (ENGAGE) Project in the Philippines, where he led the design and implementation of governance, accountability, and local government and nongovernmental organization capacity-building initiatives. Prior to this, he served as Chief of Party on the USAID-funded Thailand Sapan Project, Bangladesh Promoting Governance, Accountability, Transparency and Integrity project, Indonesia Support for Peaceful Democratization project, and Indonesia Program Support Initiative.
 
 Prior to his work with DAI, David served for five years on the United Nations Development Programme (UNDP)/Cambodia Resettlement and Reintegration Project and its successor project. Earlier, in Thailand, he worked with the UN Border Relief Operations, managing humanitarian relief and development efforts for villages affected by instability on the Thai-Cambodia border.
 
 * Ph.D., applied economics, Cornell University
-
 * M.S., agricultural economics, University of Minnesota
-
 * B.S., international agriculture, Purdue University
