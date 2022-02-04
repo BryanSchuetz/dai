@@ -12,6 +12,8 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Kosovo
 promos:
+- title: 'Local Governance: Chipping Away at Corruption'
+  link: https://dai-global-developments.com/articles/local-governance-chipping-away-at-corruption
 - title: 'Setting Up for Success: Data and Public Oversight for More Transparent Public
     Procurement in Kosovo'
   link: https://www.open-contracting.org/2021/12/14/setting-up-for-success-data-and-public-oversight-for-more-transparent-public-procurement-in-kosovo/
