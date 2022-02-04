@@ -32,37 +32,27 @@
   height: 100%;
 }
 .gallery-cell--text {
-  text-align: center;
-  padding: 2rem 1rem 3rem 1rem;
+  text-align: left;
+  padding: 2rem 1rem 3rem 0rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hero-bar{
+  display: block;
+  width: 60px;
+  height: 10px;
+  background-color: white;
+  margin-bottom: .8rem;
 }
 .shader {
-  background: -moz-linear-gradient(
-    top,
-    rgba(0, 0, 0, 0.73) 0%,
-    rgba(0, 0, 0, 0.73) 10%,
-    rgba(0, 0, 0, 0) 100%
-  ); /* FF3.6-15 */
-  background: -webkit-linear-gradient(
-    top,
-    rgba(0, 0, 0, 0.73) 0%,
-    rgba(0, 0, 0, 0.73) 10%,
-    rgba(0, 0, 0, 0) 100%
-  ); /* Chrome10-25,Safari5.1-6 */
-  background: -ms-linear-gradient(
-    top,
-    rgba(0, 0, 0, 0.73) 0%,
-    rgba(0, 0, 0, 0.73) 10%,
-    rgba(0, 0, 0, 0) 100%
-  );
-  background: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.73) 0%,
-    rgba(0, 0, 0, 0.73) 10%,
-    rgba(0, 0, 0, 0) 100%
-  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ba000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
-  position: relative;
-  top: -10px;
+  background: rgb(0,0,0);
+  background: rgb(0,0,0);
+  background: -moz-linear-gradient(90deg, rgba(0,0,0,0.804359243697479) 0%, rgba(0,0,0,0.5970763305322129) 42%, rgba(0,0,0,0.4) 67%, rgba(0,0,0,0) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(0,0,0,0.804359243697479) 0%, rgba(0,0,0,0.5970763305322129) 42%, rgba(0,0,0,0.4) 67%, rgba(0,0,0,0) 100%);
+  background: linear-gradient(90deg, rgba(0,0,0,0.804359243697479) 0%, rgba(0,0,0,0.5970763305322129) 42%, rgba(0,0,0,0.4) 67%, rgba(0,0,0,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
+  position: absolute;
+  bottom: -10px;
   margin-top: 10px;
   padding-bottom: 20px;
 }
@@ -106,7 +96,7 @@ body.st-ui-overlay-active {
 }
 .container,
 .header-inner,
-.footer-inner {
+.footer-inner, .gallery-cell--text {
   @include width(4);
   margin: auto;
   @include responsive(small-screens) {
@@ -548,7 +538,7 @@ aside {
     width: 100%;
   }
   padding: 7px;
-  background-color: lighten($button-green, 5%);
+  background-color: #56687B;
   color: $text-white;
   font-weight: 400;
   border-radius: 2px;
@@ -556,7 +546,7 @@ aside {
   width: 30%;
 }
 .primary-block--button:hover {
-  background-color: darken($button-green, 10%);
+  background-color: darken(#56687B, 10%);
   color: $text-white;
 }
 .primary-block {
