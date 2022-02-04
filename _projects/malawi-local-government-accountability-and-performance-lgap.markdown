@@ -18,6 +18,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Malawi
 promos:
+- title: 'Local Governance: Chipping Away at Corruption'
+  link: https://dai-global-developments.com/articles/local-governance-chipping-away-at-corruption
 - title: LGAP Support to COVID-19 Response in Malawi
   link: "/uploads/COVID%20FLIER.pdf"
 - title: Gender-Based Violence on the Rise in the COVID-19 Era
