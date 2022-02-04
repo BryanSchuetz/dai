@@ -15,6 +15,9 @@ solutions:
 - Stabilization
 regions: Sub-Saharan Africa
 country: Democratic Republic of the Congo
+promos:
+- title: 'Local Governance: Chipping Away at Corruption'
+  link: https://dai-global-developments.com/articles/local-governance-chipping-away-at-corruption
 ---
 
 More than a decade has passed since the Democratic Republic of the Congo (DRC) adopted a new constitution and began holding free elections, yet the democratic system remains fragile, with few or no basic public services in much of the country. A lack of government accountability and transparency, along with widespread corruption, has led to general public mistrust of politicians and government officials.
