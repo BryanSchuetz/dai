@@ -1,8 +1,8 @@
 ---
 title: Recent Projects
+published: false
 summary: A list of active projects, sorted by end date in reverse chronological order
 layout: default
-published: false
 ---
 
 <h1>Recent Projects</h1>
