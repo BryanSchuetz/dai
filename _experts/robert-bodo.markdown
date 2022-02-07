@@ -24,5 +24,5 @@ Robert has served as U.S. Agency for International Development (USAID) Chief of 
 
 Prior to his work with DAI, Robert served for 14 years on the Research Triangle Institute and several years on Chemonics and ICMA projects, managing local governance and public administration reform, municipal budget reform, service delivery, local economic development, and waste management improvement.
 
-*M.A., liberal arts—government, Harvard University 
-*B.A., political science, Stonehill College
+* M.A., liberal arts—government, Harvard University 
+* B.A., political science, Stonehill College
