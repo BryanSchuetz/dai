@@ -11,6 +11,7 @@ solutions:
 regions:
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
+- Sub-Saharan Africa
 ---
 
 Gabriel Abraham has more than 25 years of experience leading local governance and decentralization projects worldwide. A seven-time Chief of Party, he is a recognized expert in guiding strategies to strengthen public institutions, facilitate citizen engagement, and enhance service delivery in some of the world’s most complex and nuanced operating environments.
