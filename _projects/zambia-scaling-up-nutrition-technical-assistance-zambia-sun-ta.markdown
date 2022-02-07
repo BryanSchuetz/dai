@@ -45,3 +45,4 @@ Zambia SUN TA will layer interventions in nutrition, health, agriculture, and wa
 * Trained 407 health facility staff and 1,490 community-based volunteers on forming and managing nutrition-focused mother support groups. 
 * Trained 379 government staff and volunteers to roll out WASH activities in communities, including the formation of Sanitation Action Groups and Village WASH Committees. 
 * Constructed latrines and handwashing stations for 111 villages in Mansa District and—once they are confirmed open defection-free (ODF)—they will join 122 other villages that have been verified ODF under SUN TA for a total of 233.
+* Facilitated the official handover of 13 boreholes to communities in the Kasama District, Northern Province. Each borehole serves a minimum of 250 people, which translates to a total 3,200 people gaining access to clean, safe water. In 2022, SUN TA is aiming to complete 550 boreholes.
