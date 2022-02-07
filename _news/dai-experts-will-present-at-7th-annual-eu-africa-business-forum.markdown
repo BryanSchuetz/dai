@@ -24,4 +24,4 @@ On February 14, from 10 to 10:45 am CET, [Bhairav Raja](https://www.dai.com/who-
 
 Throughout the week, DAI also will showcase the [EU Support to Policy Dialogue on Investment Climate](https://www.dai.com/our-work/projects/somalia-eu-support-to-policy-dialogue-on-investment-climate) in Somalia project through a booth at the forum. The project is working to enhance the investment climate and business environment by improving access to finance, markets, and essential services for medium, small, and micro enterprises in the country. 
 
-Connect and join us for live chats or meetings and learn more about the project and our work on investment climate and investment facilitation in Africa. Follow the forum on Twitter at ‌‌[#EABF](https://twitter.com/search?q=%23EABF&src=typed_query&f=live).
+Connect and join us for live chats or meetings and learn more about the project and our work on investment climate and investment facilitation in Africa. Follow the forum on Twitter at ‌‌[#EABF](https://twitter.com/search?q=%23EABF&src=typed_query&f=live) or [register here](https://eu.eventscloud.com/ereg/index.php?eventid=200234866&).
