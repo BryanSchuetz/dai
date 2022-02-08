@@ -14,6 +14,8 @@ solutions:
 regions: Middle East and North Africa
 country: Palestine
 promos:
+- title: 'VIDEO: Setting Entrepreneurs Up for Success'
+  link: https://www.facebook.com/70185985796/videos/2805992683028390
 - title: DAI-Led Project Wins United Nations Award for Climate Finance
   link: https://www.dai.com/news/dai-led-project-wins-united-nations-award-for-climate-finance
 - title: Palestinians Benefitting from Jobs and Training Despite COVID-19 Thanks to
@@ -43,6 +45,6 @@ Implemented on behalf of the Palestinian Ministry of Finance (MOF), the Finance 
 
 ### Select Results
 
-* **Entrepreneurship Ecosystem Matching Grant (EE-MG):** This cost-sharing mechanism targets early-stage investment funds seeking to build a portfolio of startup and early-stage enterprises. So far, the EE-MG has helped mobilize private capital of $7.7 million by supporting 48 startups—creating 20 jobs.
+* **[Entrepreneurship Ecosystem Matching Grant (EE-MG)](https://www.facebook.com/70185985796/videos/2805992683028390):** This cost-sharing mechanism targets early-stage investment funds seeking to build a portfolio of startup and early-stage enterprises. So far, the EE-MG has helped mobilize private capital of $7.7 million by supporting 48 startups—creating 20 jobs.
 * **Investment Co-Financing Facility (ICF):** This risk-sharing grant mechanism provides commercially sound, job-creating, private sector investments that may otherwise not be considered viable due to market and institutional failures. The ICF helped launch a solar-powered industrial park, which will help create 650 jobs. ICF is also supporting other four investment projects in Palestine that are expected to create about 1,150 direct and indirect jobs. So far, 426 jobs have been created by these projects with about $29 million of private capital mobilization. 
 * **[Development Impact Bond (DIB)](https://www.ebrd.com/news/2019/ebrd-addressing-youth-unemployment-in-west-bank-and-gaza.html):** This marks the [first World Bank DIB](https://www.worldbank.org/en/news/feature/2019/11/11/rethinking-job-creation-for-palestinian-youth) to be implemented worldwide. The bond will catalyze the role of the private sector by crowding in both private sector capital and expertise to better incentivize employment outcomes. It will address unemployment through skills development of 2,000 graduates to improve their employability. So far, more than 655 young people, about half of whom are women, have been accepted into training programs; 448 young people have completed training, and 167 have found jobs—with more than $2 million in outcome payments repaid to investors. 
