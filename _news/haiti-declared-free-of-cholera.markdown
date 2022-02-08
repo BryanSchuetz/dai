@@ -14,6 +14,7 @@ projects: Haiti—USAID Water and Sanitation project
 clients: U.S. Agency for International Development
 summary: 'On February 4, Haitian Prime Minister Dr. Ariel Henry declared the country
   free of cholera—nearly 12 years after the outbreak of the epidemic. '
+social-image: "/uploads/sm%20haiti%20cholera.jpg"
 country: Haiti
 ---
 
