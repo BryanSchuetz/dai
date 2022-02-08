@@ -28,6 +28,6 @@ Since that time, investments and activities by the U.S. Agency for International
 
 At a ceremony announcing this achievement, Guito Edward, the General Director of Haiti’s Directorate of Potable Water and Sanitation (DINEPA), mentioned the significant improvements in the water and sanitation sector, including the expansion of piped water networks and the opening of fecal sludge management sites at Morne-a-Cabri and Fonfred, facilitated by DAI. Since 2017, the DAI-led team has been focusing on four target urban communes, helping 300,000 people gain access to improved water services and 75,000 people gain access to improved sanitation services. 
 
-The team has been working with DINEPA to improve water and sanitation services in Haiti, putting in place systems that not only ensure better service but that have resulted in a 30 percent increase in the overall local water utilities' revenues—ensuring that the improved services are sustainable. 
-
 “COVID-19 has reminded us that public health measures rely to a large degree on public understanding and participation,” said USAID Water and Sanitation Project Chief of Party Dan O’Neil. “This achievement is due to the careful planning of the Haitian government, the commitment of the Haitian people, and the generosity of international donors.” 
+
+The project also has been working with DINEPA to put in place systems that not only ensure better service but that have resulted in a 30 percent increase in the overall local water utilities' revenues—ensuring sustainability. 
