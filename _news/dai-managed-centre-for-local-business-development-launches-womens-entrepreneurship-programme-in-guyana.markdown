@@ -6,6 +6,7 @@ is_featured: true
 solutions:
 - Sustainable Business
 regions: Latin America and the Caribbean
+projects: Guyana—Centre for Local Business Development
 summary: Guyana’s Centre for Local Business Development has launched a cutting-edge
   women’s entrepreneurship programme, Accelerate-Her.
 social-image: "/uploads/IMG_4582%20(002).jpg"
@@ -13,7 +14,6 @@ country: Guyana
 ---
 
 Guyana’s [Centre for Local Business Development](https://centreguyana.com/), [managed by DAI](https://www.dai.com/our-work/projects/guyana-centre-for-local-business-development) since its launch in 2017, has launched a cutting-edge women’s entrepreneurship programme, [*Accelerate-Her*](https://centreguyana.com/wep/). The programme will provide Guyanese women with an opportunity to receive professional development and mentoring that fosters personal growth and local business success.
-
 
 ![IMG_4582 (002).jpg](/uploads/IMG_4582%20(002).jpg)`The Centre for Local Business Development launches new initiative Accelerate-Her to empower women entrepreneurs in small and medium enterprises in Guyana.`
 
