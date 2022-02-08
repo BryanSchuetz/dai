@@ -3,7 +3,7 @@ title: William McKenzie
 date: 2019-06-05 09:26:00 Z
 lastname: McKenzie
 summary: William McKenzie is a Director within DAI’s Global Operations Strategy.
-job-title: Director, Global Operations Strategy.
+job-title: Director, Global Operations Strategy
 image: "/uploads/William%20McKenzie.jpg"
 solutions:
 - Include Primary and/or Secondary Solutions
