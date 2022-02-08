@@ -15,6 +15,8 @@ regions:
 articles:
 - name: Improving Resilience of the HIV Affected, _Developing Alternatives_
   article_file: http://dai-global-developments.com/articles/improving-resilience-of-the-hiv-affectede280a8?utm_source=daidotcom
+- name: Collaboration is Essential to Improving Maternal and Newborn Health in Indonesia
+  article_file: https://dai-global-developments.com/articles/lets-work-together-to-improve-maternal-and-newborn-health
 layout: expert
 ---
 
@@ -22,4 +24,3 @@ Kirsten Weeks has more than 17 years of experience in designing, implementing, a
 
 * M.S., public health, Emory University
 * B.A., University of North Carolina
-* Fluent in Spanish
