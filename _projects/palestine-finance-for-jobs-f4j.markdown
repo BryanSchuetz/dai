@@ -4,7 +4,7 @@ date: 2016-12-01 21:19:00 Z
 summary: Implemented on behalf of the Palestinian Ministry of Finance and Planning,
   the Finance for Jobs project addresses constraints to job growth in the West Bank
   and Gaza by developing financing instruments to promote business investment and
-  job training.
+  job creation.
 start: 2016
 end: 2025
 client: World Bank
@@ -34,17 +34,17 @@ Palestine needs more sustainable and productive employment opportunities to acco
 
 Implemented on behalf of the Palestinian Ministry of Finance (MOF), the Finance for Jobs project (F4J) addresses constraints to job growth in the West Bank and Gaza by developing innovative financing [instruments](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) to promote business investment and job creation.
 
-![W4J-pic.jpg](/uploads/W4J-pic.jpg)
+![F4J.jpg](/uploads/F4J.jpg)
 
 ### Sample Activities
 
 * Design, test, and implement three innovative financial instruments.
-* Solicit proposals from investment funds for cost-shared financing to improve performance of enterprises, and assist selected funds in enhancing their overall pipeline of invested businesses.
-* With partner Social Finance, [build a financial model for a development impact bond (DIB)](https://menafn.com/1099229278/EBRD-addressing-youth-unemployment-in-West-Bank-and-Gaza) that meets the needs of the Palestinian Authority, service providers, employers, and investors, and identify DIB investors.
-* Develop a social cost-benefit analysis tool to assist the MOF and private-sector stakeholders in identifying industries and businesses with high job-creation potential for investment.
+* Solicit proposals from early-stage investment funds for business development services.
+* With partner Social Finance, [build and design a development impact bond (DIB)](https://menafn.com/1099229278/EBRD-addressing-youth-unemployment-in-West-Bank-and-Gaza), which relies on results to address the skills gap between labor supply and demand to improve employment opportunities in Palestine.
+* Develop a comprehensive model that captures the social and economic cost-benefit to assess the social, environmental, and economic impact of private investments that justify the rationale for public financial support to these investments that otherwise would not have the capacity to proceed.  
 
 ### Select Results
 
-* **[Entrepreneurship Ecosystem Matching Grant (EE-MG)](https://www.facebook.com/70185985796/videos/2805992683028390):** This cost-sharing mechanism targets early-stage investment funds seeking to build a portfolio of startup and early-stage enterprises. So far, 48 startups have benefited from the EE-MG with $8.2 million in private capital being mobilized and more than 200 jobs created.
-* **Investment Co-Financing Facility (ICF):** This risk-sharing grant mechanism provides commercially sound, job-creating, private sector investments that may otherwise not be considered viable due to market and institutional failures. The ICF helped launch a solar-powered industrial park, which will help create 650 jobs. ICF is also supporting other four investment projects in Palestine that are expected to create about 1,150 direct and indirect jobs. So far, 426 jobs have been created by these projects with about $29 million of private capital mobilization. 
-* **[Development Impact Bond (DIB)](https://www.ebrd.com/news/2019/ebrd-addressing-youth-unemployment-in-west-bank-and-gaza.html):** This marks the [first World Bank DIB](https://www.worldbank.org/en/news/feature/2019/11/11/rethinking-job-creation-for-palestinian-youth) to be implemented worldwide. The bond will catalyze the role of the private sector by crowding in both private sector capital and expertise to better incentivize employment outcomes. It will address unemployment through skills development of 2,000 graduates to improve their employability. So far, more than 655 young people, about half of whom are women, have been accepted into training programs; 448 young people have completed training, and 167 have found jobs—with more than $2 million in outcome payments repaid to investors. 
+* **[Entrepreneurship Ecosystem Matching Grant (EE-MG)](https://www.facebook.com/70185985796/videos/2805992683028390):** This cost-sharing mechanism targets early-stage investment funds seeking to build a portfolio of startup and early-stage enterprises.  So far, the EE-MG has helped mobilize private capital of $8.4 million by supporting 48 startups—creating 200 jobs.
+* **Investment Co-Financing Facility (ICF):** This risk-sharing grant mechanism provides commercially sound, job-creating, private sector investments that may otherwise not be considered viable due to market and institutional failures. The ICF helped launch a solar-powered industrial park, which will help create 620 jobs. ICF is also supporting other six investment projects in Palestine that are expected to create about 1,500 direct and indirect jobs. So far, 426 jobs have been created by these projects with about $34.8 million of private capital mobilization.
+* **[Development Impact Bond (DIB)](https://www.ebrd.com/news/2019/ebrd-addressing-youth-unemployment-in-west-bank-and-gaza.html):** This marks the [first World Bank DIB](https://www.worldbank.org/en/news/feature/2019/11/11/rethinking-job-creation-for-palestinian-youth) to be implemented worldwide. The bond will catalyze the role of the private sector by crowding in both private sector capital and expertise to better incentivize employment outcomes. It will address unemployment through skills development of 1,250 graduates to improve their employability. So far, more than 720 young people, about 40 percent of whom are women, have been accepted into training programs; 490 young people have completed training, and 213 have found jobs—with more than $2 million in outcome payments repaid to investors.
