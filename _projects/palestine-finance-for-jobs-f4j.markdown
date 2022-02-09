@@ -30,9 +30,9 @@ promos:
   link: https://dai-global-developments.com/articles/world-bank-project-aims-to-rebuild-gaza-solar-facility-in-wake-of-conflict
 ---
 
-Palestine needs more sustainable and productive employment opportunities to accommodate the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s insecure business environment with high costs and risks has deterred outside private investment, while a breakdown of trust and dialogue between the private sector and Palestinian Authority has undermined innovation and growth.
+Palestine needs more sustainable and productive employment opportunities to accommodate the state’s growing population. Creating jobs would reduce poverty and improve quality of life, but many companies have been cut off from direct market contact and cannot find financing, limiting their ability to compete, grow, and add jobs. In addition, Palestine’s unstable business environment with substantial market failures and risks has deterred private investment as a result of the long-standing political turmoil imposing restrictions on access to markets, movement of goods and people, and lack of control over resources.
 
-Implemented on behalf of the Palestinian Ministry of Finance (MOF), the Finance for Jobs project (F4J) addresses constraints to job growth in the West Bank and Gaza by developing innovative financing [instruments](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) to promote business investment and job training.
+Implemented on behalf of the Palestinian Ministry of Finance (MOF), the Finance for Jobs project (F4J) addresses constraints to job growth in the West Bank and Gaza by developing innovative financing [instruments](https://www.dai.com/news/dai-led-solar-financing-project-in-palestine-wins-excellence-award-from-world-bank) to promote business investment and job creation.
 
 ![W4J-pic.jpg](/uploads/W4J-pic.jpg)
 
