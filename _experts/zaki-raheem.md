@@ -28,7 +28,7 @@ articles:
 layout: expert
 ---
 
-Zaki Raheem first became interested in microenterprise development while working with Practical Action and UN-Habitat 20 years ago in the Kibera slums of Nairobi. The experience exposed him to the power of grassroots entrepreneurship, and the potentially positive impact that smart investments, inclusive policies, and sound market assessments could have on the lives and livelihoods of the enterprising poor in the developing world.
+Zaki Raheem first became interested in microenterprise development while working with Practical Action and UN-Habitat 20 years ago in the Kibera slums of Nairobi. The experience exposed him to the power of grassroots entrepreneurship, and the potential positive impact that smart investments, inclusive policies, and sound market assessments could have on the lives and livelihoods of the enterprising poor in the developing world.
 
 After these early experiences, Zaki joined the socially responsible investment advisory team at Morgan Stanley Capital International to explore the role of capital markets and multinational corporation investments in emerging markets, as the impact investment field was just emerging. 
 
