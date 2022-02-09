@@ -44,9 +44,10 @@ Based in Washington, D.C., INVEST is USAID’s flagship [blended finance](https:
 
 ### Select Results
 
+* Mobilized $274 million in capital and supported 90 transactions, including 71 closed deals. An additional $1.15 billion in transactions are projected based on current capital raise efforts.
 * Completed a rapid assessment of Gender Lens Investing opportunities in five countries in sub-Saharan Africa, identifying 25 opportunities and recommendations for [USAID’s GenDev programming](https://www.usaid.gov/what-we-do/gender-equality-and-womens-empowerment). Provided catalytic capital for gender-lens investing funds, including Women’s World Banking’s Capital Partners Fund II. 
 * Conducted a market assessment and designed a blended finance funding platform for USAID/India to mobilize resources and invest in the tuberculosis, water, sanitation, and hygiene (WASH), environmental, energy, and health sectors.
-* Mobilized advisors to conduct rapid assessments of sectors to encourage investment in Afghanistan, with a focus on deal-making for investment and trade partnerships between Afghanistan and India.
 * Provided transaction advisory support to Power Africa for solar energy and mini-grid expansion in Kenya, raising more than $60.5 million in equity transactions. 
 * Assisted in development of the "[Blended Finance Roadmap for Global Health](https://www.dai.com/news/usaid-launches-roadmap-for-attracting-investments-in-global-health)."
 * Produced the "[Corporate Investment Partnerships for Growth and Stability report](https://www.usaid.gov/INVEST/documents/1865/corporate-investment-partnerships-report)," on how companies, international development agencies, and investors align around purpose and profit.
+* Grown the USAID Finance and Investment Network from 26 in 2017 to more than 459 members in 2022. This diverse network has expertise in a wide range of sectors and works in 195 countries.
