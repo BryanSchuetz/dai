@@ -25,10 +25,11 @@ To better integrate Somalia’s economy in the Horn of Africa, the project encou
 
 ### Sample Activities
 
-* Strengthen the government's capacity to engage with the private sector and implement and enforce needed reforms.
-* Organize public-private dialogue platforms and investment promotion events.
-* Produce studies to support the competitiveness of Somali exports.
-* Provide advisory services, training, and facilitation to federal government entities on priority reforms.
-* Promote responsible business conduct across the Somali private sector.
-* Build the capacity of private sector organizations on corporate governance, fair competition, decent jobs, and health.
-* Distribute information materials and basic health products to members of the private sector and producer groups.
+* Conducted the EU Business in Somalia Mapping Study.
+* Launched a study on the SME landscape in Somalia focusing on key barriers to SME growth and recommendations for development finance institution interventions.
+* Commenced a study on innovative financing options for non-banking financial institutions with key informant interviews with public and private stakeholders in the financial sector.
+* Conducted multiple consultations with key stakeholders, such as the Ministry of Commerce and Industries (MOCI) and Somalia Investment Promotion Office, to implement project activities.
+* Supported the Somaliland Quality Control Commission (SQCC) to coordinate a training workshop on investment promotion in Berbera Corridor.
+* Developed studies on priority sector investments from the Government of Somalia’s National Investment Promotion Strategy, and ensured alignment to diaspora and foreign investor interests.
+* Facilitated efforts to support the development of the EU-Somalia Investment, Trade, and Business Forum.
+* Carried out a public-private dialogue training workshop for MOCI staff to establish a common understanding of public-private dialogue fundamentals.
