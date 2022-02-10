@@ -25,8 +25,18 @@ To better integrate Somalia’s economy in the Horn of Africa, the project encou
 
 ### Sample Activities
 
+* Address obstacles to EU development finance institution engagement in Somalia.
+* Facilitate public-private dialogue for innovative financing with emphasis on group financial products.
+* Facilitate EU/Somalia structured dialogue on investment, trade, and business.
+* Enhance agricultural inspection and standards for export and food security.
+* Support public-private dialogue for a national trade policy.
+* Promote investment and trade along the Berbera Corridor.
+* Formalise cooperatives for enhanced access to markets and finance.
+
+### Select Results
+
 * Conducted the EU Business in Somalia Mapping Study.
-* Launched a study on the SME landscape in Somalia focusing on key barriers to SME growth and recommendations for development finance institution interventions.
+* Launched a study on the SME landscape in Somalia focusing on key barriers to growth and recommendations for development finance institution interventions.
 * Commenced a study on innovative financing options for non-banking financial institutions with key informant interviews with public and private stakeholders in the financial sector.
 * Conducted multiple consultations with key stakeholders, such as the Ministry of Commerce and Industries (MOCI) and Somalia Investment Promotion Office, to implement project activities.
 * Supported the Somaliland Quality Control Commission (SQCC) to coordinate a training workshop on investment promotion in Berbera Corridor.
