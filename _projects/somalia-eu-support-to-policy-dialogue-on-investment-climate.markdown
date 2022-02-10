@@ -38,7 +38,7 @@ To better integrate Somalia’s economy in the Horn of Africa, the project encou
 * Conducted the EU Business in Somalia Mapping Study.
 * Launched a study on the SME landscape in Somalia focusing on key barriers to growth and recommendations for development finance institution interventions.
 * Commenced a study on innovative financing options for non-banking financial institutions with key informant interviews with public and private stakeholders in the financial sector.
-* Conducted multiple consultations with key stakeholders, such as the Ministry of Commerce and Industries (MOCI) and Somalia Investment Promotion Office, to implement project activities.
+* Conducted multiple consultations with key stakeholders, such as the Ministry of Commerce and Industries (MOCI) and the Somalia Investment Promotion Office.
 * Supported the Somaliland Quality Control Commission (SQCC) to coordinate a training workshop on investment promotion in Berbera Corridor.
 * Developed studies on priority sector investments from the Government of Somalia’s National Investment Promotion Strategy, and ensured alignment to diaspora and foreign investor interests.
 * Facilitated efforts to support the development of the EU-Somalia Investment, Trade, and Business Forum.
