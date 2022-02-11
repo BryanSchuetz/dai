@@ -21,13 +21,11 @@ Our featured training includes:
 
 View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
 
-### Local Content Master Class
+### [Local Content Masterclass](http://www.dai.com/masterclass)
 
-The [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) offers the industry-leading Master Class enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
+The [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) offers the industry-leading Masterclass enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
 
-In light of current circumstances, DAI will not be holding in-person Master Class courses this year, however, we are offering four full-day online Local Content modules derived from the Master Class. 
-
-Upcoming Sessions:
+Upcoming courses in 2022:
 
 * May 17 - 19, 2022 in Dubai, UAE
 * October 17 - 19, 2022 in Houston, USA
@@ -40,7 +38,7 @@ Contact [training@dai.com](mailto:training@dai.com) for pricing and registration
 
 View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf)
 
-> “The Master Class has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
+> “The Masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
 
 <!-- <div class="form-wrapper">
 <div class="lead-generator">
@@ -112,7 +110,7 @@ These challenges include:
 
 <hr>
 
-## What is the Master Class?
+## What is the Masterclass?
 
 * A **three-day** training covering the full landscape of local content.
 * Framed by the **regional context** of local content regulation and sector development.
@@ -231,4 +229,4 @@ DAI leads customized courses upon request for private sector or government clien
 
 ## Contact Us
 
-To find out more or apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
+To find out more or apply for an upcoming Masterclass or training, please email [training@dai.com](mailto:training@dai.com).
