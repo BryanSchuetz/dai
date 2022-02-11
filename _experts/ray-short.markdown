@@ -9,7 +9,6 @@ job-title: Program Director, Critical Infrastructure Digitization and Resilience
 image: "/uploads/portal%20Ray%20C%20Short.jpg"
 solutions:
 - Digital Acceleration
-- Governance
 - 
 regions:
 - Eastern Europe and Central Asia
