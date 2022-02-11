@@ -62,13 +62,19 @@ body{
   opacity: 100;
 }
 a {
-  color: darken($button-green, 10%);
+  color: $dai-hyperlink;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: darken($button-green, 20%);
+  color: darken($dai-hyperlink, 10%);
   text-decoration: none;
+}
+.hero-wrap a{
+  color: $dai-blue-01;
+}
+.hero-wrap a:hover{
+  color: lighten($dai-blue-01, 10%);
 }
 
 // 🎌 HEADINGS 🎌

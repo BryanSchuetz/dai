@@ -57,7 +57,7 @@
   padding-bottom: 20px;
 }
 .flickity-prev-next-button .arrow {
-  fill: $button-green;
+  fill: $dai-dark;
 }
 .container.content.home {
   padding-top: 4rem;
@@ -538,7 +538,7 @@ aside {
     width: 100%;
   }
   padding: 7px;
-  background-color: #56687B;
+  background-color: $dai-gray-02;
   color: $text-white;
   font-weight: 400;
   border-radius: 2px;
@@ -546,7 +546,7 @@ aside {
   width: 30%;
 }
 .primary-block--button:hover {
-  background-color: darken(#56687B, 10%);
+  background-color: darken($dai-gray-02, 10%);
   color: $text-white;
 }
 .primary-block {
@@ -632,12 +632,12 @@ aside {
 .section-nav .section-nav--link {
   font-size: 0.8rem;
   font-weight: 700;
-  color: $link-green;
+  color: $dai-blue-01;
   &:hover {
-    color: #e0dfdd;
+    color: lighten($dai-blue-01, 10%);
   }
   &.active {
-    color: #e0dfdd;
+    color: $dai-light-gray;
   }
 }
 .hero-title--link {
@@ -805,17 +805,17 @@ a.close:hover {
     font-size: 0.7em;
   }
   strong {
-    color: $link-green;
+    color: $dai-hyperlink;
   }
   a:hover strong {
-    color: #43873f;
+    color: $dai-hyperlink;
   }
 }
 // 🎌 FOOTER 🎌
 
 footer {
   background-color: $slate;
-  padding-top: 2rem;
+  padding-top: 2rem; 
   margin-top: 2rem;
 }
 .footer-inner {
@@ -825,12 +825,12 @@ footer {
 
 // 🎌 FOOTER: NAV 🎌
 .newpromo .footer-nav{
-   @include responsive(covid-screens){
-     @include width(3.2);
-   }
-   @include responsive(extra-ultra-wide-screens){
-     @include width(3.5);
-   }
+  @include responsive(covid-screens){
+    @include width(3.2);
+  }
+  @include responsive(extra-ultra-wide-screens){
+    @include width(3.5);
+  }
 }
 .footer-nav {
   @include width(1);
@@ -1493,10 +1493,10 @@ button.active,
   font-weight: bold;
 }
 h3.alg-title {
-  color: #54aa4f;
+  color: $dai-hyperlink;
 }
 h3.alg-title:hover {
-  color: #43873f;
+  color: darken($dai-hyperlink, 10%);
 }
 .facet-item {
   text-transform: capitalize;
@@ -1962,14 +1962,13 @@ a.bulma-card {
 .translations{
   width: 20%;
   float: right;
-  color: white;
   a{
     font-size: 0.8rem;
     font-weight: 700;
-    color: $link-green;
+    
     text-transform: uppercase;
     &.active{
-      color: white;
+      color: lighten($dai-blue-01, 10%);
     }
   }
 }
