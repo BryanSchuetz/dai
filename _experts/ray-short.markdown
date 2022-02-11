@@ -8,7 +8,7 @@ summary: Ray Short is an international development professional with expertise i
 job-title: Program Director, Critical Infrastructure Digitization and Resilience
 image: "/uploads/portal%20Ray%20C%20Short.jpg"
 solutions:
-- Digital Strategy
+- Digital Acceleration
 - Governance
 - 
 regions:
