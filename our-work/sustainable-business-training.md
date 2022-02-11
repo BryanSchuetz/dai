@@ -15,11 +15,11 @@ Building off 50 years of international development experience, DAI offers a comp
 
 Our featured training includes:
 
-* [Local Content Master Class](/our-work/solutions/sustainable/training/master-class)
+* [Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)
 * Oil and Gas 101
 * Small Business Recovery and Resilience
 
-View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf) To find out more, apply for an upcoming Master Class or training, please email [training@dai.com](mailto:training@dai.com).
+View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf) To find out more, apply for an upcoming Masterclass or training, please email [training@dai.com](mailto:training@dai.com).
 
 ### [Local Content Masterclass](http://www.dai.com/masterclass)
 
