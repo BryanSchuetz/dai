@@ -1826,7 +1826,12 @@ iframe.last-month {
     }
   }
 }
-
+.covid-carousel.sbg .carousel-cell{
+  @include responsive(extra-ultra-wide-screens){
+    width: 265px;
+    margin-right: 16px;
+  }
+}
 div.video-wrap {
   iframe {
     margin-bottom: 0px;
@@ -2004,6 +2009,15 @@ ol li::marker{
 .bulma .fb-pub-buttons:hover{
   color: white;
   background-color: #54aa4f
+}
+.bulma .site-buttons{
+  background-color: #56687b;
+  color: white;
+}
+
+.bulma .site-buttons:hover{
+  background-color: #516273;
+  color: white;
 }
 
 .bm--card-equal-height {

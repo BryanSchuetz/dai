@@ -1,5 +1,5 @@
 ---
-title: Local Content Master Class
+title: Local Content Masterclass
 date: 2017-06-19 15:11:00 Z
 permalink: "/our-work/solutions/sustainable/training/master-class"
 hero: true
@@ -10,20 +10,43 @@ redirect_from:
 - "/our-work/solutions/corporate/sustainable-business-training"
 layout: solution
 ---
-
-The Local Content Masterclass brings together participants from the private
-and public sector, helping them balance the commercial realities of volatile global
-demand and sustained cost pressures with the current political momentum for increased
-local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills.
-
-## Join one of our three-day Masterclass courses in 2022
-
-Date: **May 17 - 19, in Dubai, UAE** and **October 17 - 19, Houston, USA** <br> Time: **09h00 – 17h00** <br>Price: 3,950 USD per person
-
-Upon completion, participants receive a certificate. DAI is a BAC-accredited short-course provider.
-
-{% include _our-work/sbg-form.html %}
-
+<div class="bulma" style="margin-bottom: 1.5rem;">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        The Local Content Masterclass brings together participants from the private
+        and public sector, helping them balance the commercial realities of volatile global
+        demand and sustained cost pressures with the current political momentum for increased
+        local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills.
+        <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
+          <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">Join one of our three-day Masterclass courses in 2022</h3>
+          <p style="margin-bottom: 0px;">Date: <strong>May 17 - 19, in Dubai, UAE</strong> and <strong>October 17 - 19, Houston, USA</strong></p>
+          <p style="margin-bottom: 0px;">Time: <strong>09h00 – 17h00</strong> </p>
+          <p style="margin-bottom: 0px;">Price: 3,950 USD per person</p>
+          <p style="margin-bottom: 0px; margin-top: 1.5rem;">Upon completion, participants receive a certificate. DAI is a BAC-accredited short-course provider.</p>
+        </div>
+      </div>
+      <div class="column is-one-third">
+                <div class="card">
+          <div class="card-image">
+            <figure class="image is-4by5">
+              <img src="/uploads/sbg-brochure-thumbnail.jpg" alt="report cover">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+            <p style="margin-bottom: 0;">Download the <strong>masterclass brochure</strong> for more details on the course content.</p>
+            </div>
+          </div>
+          <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
+            <a download class="is-capitalized card-footer-item site-buttons is primary" href="/uploads/new-masterclass_brochure_2022.pdf">Download Brochure</a>
+          </footer>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container"><button onclick="window.location.href='https://form.collect.dai.com/LYv5zVCT';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Register for Masterclass 2022</button></div>
+</div>
 ## Participants are trained to:
 
 * Drive local sustainable development when sourcing or making new investments
@@ -42,8 +65,6 @@ Upon completion, participants receive a certificate. DAI is a BAC-accredited sho
 ## Course Modules
 
 {% include _our-work/sbg-carousel.html %}
-
-<aside><h2 style="margin-bottom: 0rem; text-align: center;"><a href="/uploads/Masterclass_brochure_2022-cca34c.pdf">Download</a> the brochure for more details on the course content.</h2></aside>
 
 ## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
 
@@ -133,24 +154,6 @@ Upon completion, participants receive a certificate. DAI is a BAC-accredited sho
 </div>
 </div>
 </div>
-<div class="form-wrapper">
-<div class="lead-generator">
-<h3>Interested in participating?</h3>
+<div class="bulma container"><button onclick="window.location.href='mailto:training@dai.com';" class="button is-large is-primary" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Contact Us</button></div>
 
-<form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
-<div class="form-controls--wrap">
-<input type="hidden" name="utf8" value="✓">
-<input type="hidden" name="source" id="source" value="">
-<input type="hidden" name="campaign" id="campaign" value="">
-{% comment %} <label for="name">Full Name</label> {% endcomment %}
-{% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
-{% comment %} <label for="email-address">Email Address</label> {% endcomment %}
-<input type="email" id="email-address" name="email" placeholder="Email Address">
-<button type="submit">Submit Your Email</button>
-</div>
-</form>
-<p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
-
-</div>
-</div>
 {% include _our-work/sbg-script.html %}
