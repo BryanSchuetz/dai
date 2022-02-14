@@ -10,6 +10,7 @@ redirect_from:
 - "/our-work/solutions/corporate/sustainable-business-training"
 layout: solution
 ---
+
 <div class="bulma" style="margin-bottom: 1.5rem;">
   <div class="container">
     <div class="columns">
