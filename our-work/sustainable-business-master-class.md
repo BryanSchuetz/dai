@@ -40,7 +40,7 @@ layout: solution
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
-            <a download class="is-capitalized card-footer-item site-buttons is primary" href="/uploads/new-masterclass_brochure_2022.pdf">Download Brochure</a>
+            <a download class="is-capitalized card-footer-item site-buttons is primary" href="/uploads/masterclass-brochure-2022.pdf">Download Brochure</a>
           </footer>
         </div>
       </div>
