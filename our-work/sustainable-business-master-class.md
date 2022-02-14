@@ -62,24 +62,6 @@ layout: solution
 
 * Design and implement programs to address gaps in the local supply chain, from enterprises to individual workers
 
-## Course Modules
-
-{% include _our-work/sbg-carousel.html %}
-
-## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
-
-<blockquote>
-<p>"Certainly the prime Local Content course in the market. Highly recommended".<br>—<em>Local Content Manager, International Oil Field Services Company</em></p>
-</blockquote>
-
-<blockquote>
-<p>“The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights.” <br>—<em>Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board</em></p>
-</blockquote>
-
-<blockquote>
-<p>"Very dynamic and interactive. Well balanced between theory and real-life examples.” <br>—<em>Local Content and Technology Manager, Shell Brazil Petroleo Ltd</em></p>
-</blockquote>
-
 ## The course is led by experts working at the forefront of international development and local content policy.
 
 <div class="bulma">
@@ -90,7 +72,7 @@ layout: solution
 <div class="card is-child">
 <div class="card-image" style="padding: 1rem;">
 <figure class="image is-128x128">
-<img class="is-rounded" src="/uploads/Zach%20Photo.jpg" alt="Placeholder image">
+<img class="is-rounded" src="/uploads/Zach%20websitepng.png" alt="Placeholder image">
 </figure>
 </div>
 <div class="card-content">
@@ -112,7 +94,7 @@ layout: solution
 <div class="card is-child">
 <div class="card-image" style="padding: 1rem;">
 <figure class="image is-128x128">
-<img class="is-rounded" src="/uploads/Chris_MacDonald_Photo.jpg" alt="Placeholder image">
+<img class="is-rounded" src="/uploads/chris-d5bb33.jpg" alt="Placeholder image">
 </figure>
 </div>
 <div class="card-content">
@@ -134,7 +116,7 @@ layout: solution
 <div class="card is-child">
 <div class="card-image" style="padding: 1rem;">
 <figure class="image is-128x128">
-<img class="is-rounded" src="/uploads/Dorival_Bettencourt_photo.jpg" alt="Placeholder image">
+<img class="is-rounded" src="/uploads/Dorival%20web.jpg" alt="Placeholder image">
 </figure>
 </div>
 <div class="card-content">
@@ -154,6 +136,26 @@ layout: solution
 </div>
 </div>
 </div>
+
+## Course Modules
+
+{% include _our-work/sbg-carousel.html %}
+
+## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
+
+<blockquote>
+<p>"Certainly the prime Local Content course in the market. Highly recommended".<br>—<em>Local Content Manager, International Oil Field Services Company</em></p>
+</blockquote>
+
+<blockquote>
+<p>“The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights.” <br>—<em>Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board</em></p>
+</blockquote>
+
+<blockquote>
+<p>"Very dynamic and interactive. Well balanced between theory and real-life examples.” <br>—<em>Local Content and Technology Manager, Shell Brazil Petroleo Ltd</em></p>
+</blockquote>
+
+
 <div class="bulma container"><button onclick="window.location.href='mailto:training@dai.com';" class="button is-large is-primary" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Contact Us</button></div>
 
 {% include _our-work/sbg-script.html %}
