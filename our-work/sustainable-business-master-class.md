@@ -33,7 +33,7 @@ layout: solution
             <figure class="image is-4by5">
               <img src="/uploads/sbg-brochure-thumbnail.jpg" alt="report cover">
             </figure>
-          </div>
+<!--           </div> -->
           <div class="card-content">
             <div class="content">
             <p style="margin-bottom: 0;">Download the <strong>Masterclass brochure</strong> for more details on the course content.</p>
