@@ -36,7 +36,7 @@ layout: solution
           </div>
           <div class="card-content">
             <div class="content">
-            <p style="margin-bottom: 0;">Download the <strong>masterclass brochure</strong> for more details on the course content.</p>
+            <p style="margin-bottom: 0;">Download the <strong>Masterclass brochure</strong> for more details on the course content.</p>
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0; margin-top: 0;">
