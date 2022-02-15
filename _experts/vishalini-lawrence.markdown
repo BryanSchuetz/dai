@@ -5,6 +5,7 @@ lastname: Lawrence
 summary: Vishalini Lawrence is Senior Principal Global Practice Lead for the Resilience
   and Inclusion Practice.
 job-title: " Senior Principal Global Practice Lead, Resilience and Inclusion"
+image: "/uploads/New%20Vishalini.jpg"
 solutions:
 - Economic Growth
 - Gender and Social Inclusion
