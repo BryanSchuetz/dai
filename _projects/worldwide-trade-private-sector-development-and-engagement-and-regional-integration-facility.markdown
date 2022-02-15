@@ -46,7 +46,7 @@ Considering the economic and social impacts of the coronavirus pandemic that sta
 * Provided regular training on the private sector and trade and the EIP through classroom, remote, or recorded training sessions.
 * Developed the EIP in Practice e-learning modules.
 
-### Select Results, Phase 2
+### Select Results, Phase II
 
 * Contributed to the launch of the [Team Europe Investing in Young Businesses in Africa](https://ec.europa.eu/international-partnerships/news/team-europe-mobilises-support-african-economies_en).
 * Conducted a field mission in Mali providing guidance on how to improve public-private dialogue in a politically unstable context.
