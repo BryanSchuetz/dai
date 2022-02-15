@@ -14,6 +14,9 @@ solutions:
 - Finance and Investment
 regions: Worldwide
 country: Worldwide
+promos:
+- title: 'How European Firms Contribute to Sustainable Growth and Development in Cameroon,
+    Ghana, Kenya, and Uganda '
 Key: 
 ---
 
@@ -47,3 +50,11 @@ Considering the economic and social impacts of the coronavirus pandemic that sta
 * Developed the EIP in Practice e-learning modules.
 * Produced “EIP Stories” short videos.
 * Published a [report](/uploads/FINAL%20Annex%20B%20European%20Investment%20in%20Ghana%20brochure.pdf) on the scope of European investment in Ghana. 
+
+### Select Results, Phase 2
+
+* Contributed to the launch of the [Team Europe Investing in Young Businesses in Africa](https://ec.europa.eu/international-partnerships/news/team-europe-mobilises-support-african-economies_en).
+* Conducted a field mission in Mali providing guidance on how to improve public-private dialogue in a politically unstable context.
+* Designed and conducted an online survey to better understand EU delegations’ needs for capacity building and technical assistance.
+* Delivered a masterclass on ‘Raw Materials’ for EU staff. 
+* Facilitated annual seminar for EU staff on sustainable value chains, raw materials, and social economy. 
