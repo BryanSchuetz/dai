@@ -14,9 +14,6 @@ solutions:
 - Finance and Investment
 regions: Worldwide
 country: Worldwide
-promos:
-- title: 'How European Firms Contribute to Sustainable Growth and Development in Cameroon,
-    Ghana, Kenya, and Uganda '
 Key: 
 ---
 
@@ -43,13 +40,11 @@ Considering the economic and social impacts of the coronavirus pandemic that sta
 ### Select Results, Phase I
 
 * Developed the [Business Environment Reform Guidelines](https://europa.eu/capacity4dev/t-and-m-series/documents/guidelines-ndeg9-business-environment-reform).
-* Organised in-country [short-term assignments](http://ec.europa.eu/europeaid/files/tpsd-infographic/) for EU Delegations on the investment climate and the identification of potential investment opportunities.
-* Conducted a survey of the state of the structured dialogue with the private sector in Sub-Saharan Africa.
-* Designed Business Environment Reform Guidelines for EU staff.
+* Organised more than 50 in-country [short-term assignments](http://ec.europa.eu/europeaid/files/tpsd-infographic/) for EU delegations on the investment climate and the identification of potential investment opportunities.
+* Conducted [mappings of EU investment](/uploads/EU%20investment%20mapping%20in%20Cameroon%20Ghana%20Kenya%20and%20Uganda.pdf.pdf) in Angola, Burkina Faso, Cameroon, Cape Verde, Côte d’Ivoire, Ghana, Jordan, Kenya, Madagascar, Tanzania, Uganda, and Zambia. 
+* Conducted an annual survey of the state of the structured dialogue with the private sector in Sub-Saharan Africa (SB4A State of Play).
 * Provided regular training on the private sector and trade and the EIP through classroom, remote, or recorded training sessions.
 * Developed the EIP in Practice e-learning modules.
-* Produced “EIP Stories” short videos.
-* Published a [report](/uploads/FINAL%20Annex%20B%20European%20Investment%20in%20Ghana%20brochure.pdf) on the scope of European investment in Ghana. 
 
 ### Select Results, Phase 2
 
