@@ -1,6 +1,7 @@
 ---
 title: Sean Caselli-Mechael
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Caselli-Mechael
 summary: Sean Caselli-Mechael is the New Business Manager for the Center for Secure
   and Stable States.
