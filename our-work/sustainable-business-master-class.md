@@ -33,7 +33,7 @@ layout: solution
             <figure class="image is-4by5">
               <img src="/uploads/sbg-brochure-thumbnail.jpg" alt="report cover">
             </figure>
-<!--           </div> -->
+          </div>
           <div class="card-content">
             <div class="content">
             <p style="margin-bottom: 0;">Download the <strong>Masterclass brochure</strong> for more details on the course content.</p>
@@ -48,6 +48,7 @@ layout: solution
   </div>
   <div class="container"><button onclick="window.location.href='https://form.collect.dai.com/LYv5zVCT';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Register for Masterclass 2022</button></div>
 </div>
+
 ## Participants are trained to:
 
 * Drive local sustainable development when sourcing or making new investments
