@@ -7,11 +7,11 @@ summary: 'Celestine Procter is an Acting Principal Global Practice Manager in DA
 job-title: 'Senior Principal Global Practice Specialist, Stabilisation and Peacebuilding '
 image: "/uploads/Celestine%20procter.jpeg"
 solutions:
+- Fragile States
 - Countering Extremism
 - Stabilization
 - Peace-Building and Political Transition
 - Peace-building and State-building
-- Fragile States
 regions:
 - Worldwide
 ---
