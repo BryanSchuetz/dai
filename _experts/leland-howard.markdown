@@ -1,6 +1,7 @@
 ---
 title: Leland Howard
 date: 2017-04-14 12:50:00 Z
+published: false
 lastname: Howard
 summary: 'Leland Howard is the Strategic Recruitment Manager. Leland brings 10 years
   of international development recruitment experience, with a focus on good governance,
