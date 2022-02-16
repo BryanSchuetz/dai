@@ -28,3 +28,11 @@ Taqarib strengthens the foundation of a more unified Libyan state by empowering 
 * Use a Municipal Performance Index to gauge the administrative capacity of local governments, quantify their delivery of essential services and infrastructure, as well as monitor the corresponding public perceptions of governments’ effectiveness and legitimacy.
 * Engage local communities and community organizations to ensure that citizens have a voice in prioritizing and monitoring the expenditure of public resources.
 * Partner with community organizations to generate public support local revenue generation, public-private partnerships, city-to-city collaboration, and other tools that are important for achieving sustainable development and self-reliance.
+
+## Select Results
+ 
+* Enrolled nearly 700 participants in professional development courses or training.
+* Supported the development of 27 COVID-19 response plans across 30 municipalities.
+* Delivered a cumulative total of almost $3.5 million in equipment and supplies to municipal partners, aimed at a variety of service-delivery improvements, and at responses to COVID-19.
+* Trained 1,233 individuals in community emergency response.
+* Introduced or changed 19 public policies, with citizen input.
