@@ -1,6 +1,7 @@
 ---
 title: Arthur Carlson
 date: 2020-05-27 14:26:00 Z
+published: false
 lastname: Carlson
 summary: 'Arthur Carlson is an international development practitioner with 25 years
   of experience leading complex projects in emergency response, community development,
