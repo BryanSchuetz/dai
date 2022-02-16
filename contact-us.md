@@ -5,7 +5,7 @@ summary: Contact details. United States, Europe, Asia and Pacific
 layout: default
 ---
 
-# Contact Us
+˚# Contact Us
 
 <div class="cf">
 <div class="contact-us us">
@@ -65,6 +65,11 @@ layout: default
     Apsley<br>
     Hertfordshire, HP3 9TD<br>
     <a href="https://www.google.com/maps/place/DAI+Europe/@51.7295892,-0.4582898,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x7c0d368c0749a3fb!8m2!3d51.7295892!4d-0.4561011?hl=en-US">Map this location</a></p>
+    <p><strong>London</strong><br>
+      1 Smart’s Place<br>
+      London<br> 
+      WC2B 5LW
+    </p>
 
 <h2 id="uk">Africa</h2>
   <p>
