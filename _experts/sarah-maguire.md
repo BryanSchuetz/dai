@@ -9,12 +9,11 @@ summary: Sarah Maguire is the Global Director of  Safeguarding at DAI. Sarah pra
 job-title: Global Director of Safeguarding
 image: "/uploads/new%20Sarah%20Maguire.jpg"
 solutions:
+- Governance
 - Gender and Social Inclusion
 - Law and Justice
 - Security and Justice
-- Fragile States
 - Voice and Accountability
-- Governance
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
