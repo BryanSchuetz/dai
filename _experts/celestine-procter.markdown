@@ -11,6 +11,7 @@ solutions:
 - Stabilization
 - Peace-Building and Political Transition
 - Peace-building and State-building
+- Fragile States
 regions:
 - Worldwide
 ---
