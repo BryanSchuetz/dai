@@ -7,6 +7,7 @@ summary: Vishalini Lawrence is Senior Principal Global Practice Lead for the Res
 job-title: " Senior Principal Global Practice Lead, Resilience and Inclusion"
 image: "/uploads/New%20Vishalini.jpg"
 solutions:
+- Fragile States
 - Economic Growth
 - Gender and Social Inclusion
 regions:
