@@ -1,7 +1,9 @@
 ---
 title: Madagascar—Improving the Business Environment and Investment Climate (CLIM-INVEST)
 date: 2022-02-17 19:18:00 Z
-published: false
+summary: CLIM-INVEST supports Madagascar by stimulating investments in the country,
+  creating high-quality jobs, fostering sustainable and inclusive growth, and encouraging
+  responsible business conduct.
 start: 2022
 end: 2025
 client: European Union
@@ -11,10 +13,14 @@ regions: Sub-Saharan Africa
 country: Madagascar
 ---
 
-Over the past decade, the European Union (EU) has increasingly emphasized the role and importance of the private sector in development and cooperation with Madagascar. 
-From this point of view, the support to Madagascar through the CLIM-INVEST project falls explicitly within the framework of EU’s commitments to stimulate investments in the country, the creation of quality jobs, sustainable and inclusive growth, and responsible business conduct.
-The project will support the national strategy for improving the business environment and the investment climate and increase the institutional, organizational, and technical capacities of the entities involved in the public-private dialogue. Additionally, the technical assistance will also support efforts to promote the formalization of businesses with a strong social and environmental impact and the monitoring of the reforms necessary to bolster the economic attractiveness of Madagascar. 
-Sample activities
-•	Consolidate and operationalize the mechanism for public-private dialogue (PPD) in Madagascar
-•	Increase institutional capacities for steering the country's competitiveness in terms of the business environment and the investment climate
-•	Encourage businesses at the national level to develop their practices in line with internationally established inclusive growth procedures 
+Over the past decade, the European Union (EU) has increasingly emphasized the role and importance of the private sector in development and cooperation with Madagascar. Supporting Madagascar through the CLIM-INVEST project falls within the framework of the EU’s commitments to stimulate investments in the country, create high-quality jobs, foster sustainable and inclusive growth, and encourage responsible business conduct.
+
+Our project supports the national strategy for improving the business and investment environment and increasing the institutional, organizational, and technical capacities of the entities involved in public-private dialogue. Additionally, the technical assistance will also support efforts to promote the formalization of businesses with a strong social and environmental impact and the monitoring of the reforms necessary to bolster the economic attractiveness of Madagascar. 
+
+![Madagascar_CLIM-INVEST.jpg](/uploads/Madagascar_CLIM-INVEST.jpg)
+
+### Sample Activities
+
+* Consolidate and operationalize the mechanism for public-private dialogue.
+* Increase institutional capacities for steering the country's competitiveness in terms of the business environment and the investment climate.
+* Encourage businesses to develop their practices in line with internationally established inclusive growth procedures.
