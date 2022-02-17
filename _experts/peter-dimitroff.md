@@ -8,12 +8,11 @@ summary: 'Peter Dimitroff holds more than 25 years of international development 
 job-title: Interim Regional Vice President, Africa
 image: https://assetify-dai.com/experts/Dimitroff%2C%20Peter%20inner.jpg
 solutions:
-- Fragile States
+- Governance
 - Peace-Building and Political Transition
 - Gender and Social Inclusion
 - Institutional and Policy Reform
 - Legislative Strengthening
-- Governance
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa
