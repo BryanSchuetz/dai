@@ -9,7 +9,6 @@ job-title: Director, Frontiers Team/Know-How Lab
 image: https://assetify-dai.com/experts/CathyShawInner.jpg
 solutions:
 - Environment
-- Fragile States
 - Climate
 regions:
 - Eastern Europe and Central Asia

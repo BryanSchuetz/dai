@@ -10,10 +10,10 @@ job-title: Global Director of Safeguarding
 image: "/uploads/new%20Sarah%20Maguire.jpg"
 solutions:
 - Governance
+- Fragile States
 - Gender and Social Inclusion
 - Law and Justice
 - Security and Justice
-- Voice and Accountability
 regions:
 - Eastern Europe and Central Asia
 - Sub-Saharan Africa
