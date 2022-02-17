@@ -2,13 +2,13 @@
 title: Entrepreneurship & Innovation
 date: 2017-06-19 15:11:00 Z
 permalink: "/our-work/solutions/sustainable/sustainable-business-enterprise-innovation"
-summary: ''
+summary: 
 hero: true
 solutions:
 - Sustainable Business
-layout: solution
 ultrawide: true
 icons: true
+layout: solution
 ---
 
 <aside>
@@ -20,7 +20,7 @@ icons: true
 
 Our programs support start-up incubators, business accelerators, innovation hubs, impact investors, and governments supporting entrepreneurship and innovation throughout Latin America and the Caribbean, Africa, Asia, and the Middle East.
 
-## Global Leaders in Entreprenuership and Innovation
+## Global Leaders in Entrepreneurship and Innovation
 
 <div class="bulma enterprise-innovation">
   <div class="columns is-3">
