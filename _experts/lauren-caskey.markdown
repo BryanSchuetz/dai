@@ -8,6 +8,7 @@ summary: 'Lauren Caskey has more than 20 years of experience designing, implemen
 job-title: Business Development, Economic Growth
 image: "/uploads/Lauren%20Caskey.jpg"
 solutions:
+- Fragile States
 - Economic Growth
 ---
 

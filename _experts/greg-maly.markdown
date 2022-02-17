@@ -7,8 +7,8 @@ summary: Greg Maly has spent his career working at the intersection of global de
 job-title: Associate Director of Digital Products, Center for Digital Acceleration
 image: "/uploads/greg.jpg"
 solutions:
+- Fragile States
 - Digital Acceleration
-- Stabilization
 - Global Health
 - Human Centered Design
 - Data for Decisions
