@@ -15,7 +15,7 @@ country: Madagascar
 
 Over the past decade, the European Union (EU) has increasingly emphasized the role and importance of the private sector in development and cooperation with Madagascar. Supporting Madagascar through the CLIM-INVEST project falls within the framework of the EU’s commitments to stimulate investments in the country, create high-quality jobs, foster sustainable and inclusive growth, and encourage responsible business conduct.
 
-Our project supports the national strategy for improving the business and investment environment and increasing the institutional, organizational, and technical capacities of the entities involved in public-private dialogue. Additionally, the technical assistance will also support efforts to promote the formalization of businesses with a strong social and environmental impact and the monitoring of the reforms necessary to bolster the economic attractiveness of Madagascar. 
+Our project supports the national strategy for improving the business and investment environment and increasing the institutional, organizational, and technical capacities of the entities involved in public-private dialogue. We also support efforts to formalize businesses with strong social and environmental ethics and we monitor the needed reforms to bolster the economic attractiveness of Madagascar. 
 
 ![Madagascar_CLIM-INVEST.jpg](/uploads/Madagascar_CLIM-INVEST.jpg)
 
