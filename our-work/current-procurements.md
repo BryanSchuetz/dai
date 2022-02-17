@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [RFA-2022-08 Kirana Training Kit](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-08-Kirana%20Training%20Kit.pdf "3/5")
 * [RFA-2022-07 SARDI SME Cybersecurity Awareness Campaign design and implementation](https://dai-assets.s3.amazonaws.com/rfps/Digital%20Frontiers-RFA-2022-07-SARDI%20CybersecurityCampaign.pdf "3/15")
 * [RFI Design, development, implementation, and support of a comprehensive government budgeting solution for the Government of Tunisia.](https://dai-assets.s3.amazonaws.com/rfps/FAST%20Procurement%20Notice%20-%20Government%20Budgeting%20Solution.pdf "6/18")
 * [RFP-2022-04 Primary Data Collection Support to the 2022 Digital Ecosystem Country Assessment](https://dai-assets.s3.amazonaws.com/rfps/RFP%202022-04%20Mali%20DECA%20Support%20Services%20%281%29.pdf "4/7")
