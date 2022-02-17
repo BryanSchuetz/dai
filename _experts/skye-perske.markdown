@@ -6,9 +6,6 @@ summary: 'In her role as Business Development Director for the Asia Region, Skye
   is focused on ensuring strong links between business development and project management. '
 job-title: 'Business Development Director, Asia '
 image: "/uploads/Perske,%20Skyelar%E2%80%9414--jpg--use%20this%20one.jpg"
-solutions:
-- Fragile States
-- Countering Extremism
 regions:
 - Sub-Saharan Africa
 - Middle East and North Africa

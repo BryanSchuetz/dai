@@ -10,7 +10,6 @@ image: https://assetify-dai.com/experts/PeterRossINNER.jpg
 solutions:
 - Governance
 - Legislative Strengthening
-- Fragile States
 regions:
 - Sub-Saharan Africa
 layout: expert
