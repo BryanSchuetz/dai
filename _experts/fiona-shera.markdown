@@ -11,6 +11,7 @@ image: "/uploads/Fiona%20Shera.jpg"
 solutions:
 - Trade
 - Economic Growth
+- Gender and Social Inclusion
 regions:
 - Sub-Saharan Africa
 - Middle East and North Africa
