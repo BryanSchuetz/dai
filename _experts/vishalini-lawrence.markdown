@@ -3,18 +3,23 @@ title: Vishalini Lawrence
 date: 2022-02-15 10:25:00 Z
 lastname: Lawrence
 summary: Vishalini Lawrence is Senior Principal Global Practice Lead for the Resilience
-  and Inclusion Practice.
+  and Inclusion practice. She has 15 years of experience leading peacebuilding, stabilization,
+  and governance programs in Kenya, Malaysia, and Somalia.
 job-title: " Senior Principal Global Practice Lead, Resilience and Inclusion"
 image: "/uploads/New%20Vishalini.jpg"
 solutions:
 - Fragile States
 - Economic Growth
 - Gender and Social Inclusion
+- Governance
+- Peace-Building and Political Transition
+- Conflict and Vulnerability Analysis
+- Countering Extremism
 regions:
 - Worldwide
 ---
 
-Vishalini Lawrence is Senior Principal Global Practice Lead for the Resilience and Inclusion practice. Vishalini has 20 years of experience leading economic development, peacebuilding, and governance programs in Cambodia, Ethiopia, Indonesia, Kenya, Malaysia, Somalia, Tanzania, and Uganda.
+Vishalini Lawrence is Senior Principal Global Practice Lead for the Resilience and Inclusion practice. She has 15 years of experience leading peacebuilding, stabilization, and governance programs in Kenya, Malaysia, and Somalia.
 
 In Somalia, she witnessed transformative change in some of the most marginalized and insecure areas as a result of co-design and co-investment with Somali communities and the private sector and learned about what works and what doesn’t when it comes to delivering aid with dignity and impact. In Malaysia, she was inspired by the brave actions of civil society organizations, most of whom were women or youth-led, advancing democratic reform to shape a more inclusive and fair society. 
 
