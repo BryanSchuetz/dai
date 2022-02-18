@@ -7,7 +7,7 @@ summary: John Sampson has more than 17 years of experience leading complex, high
   and transition, countering violent extremism, governance, climate-related conflict,
   natural resource management, emergency assistance, crisis management, infrastructure,
   and civil-military coordination programs.
-job-title: Advisor, Stability and Transition
+job-title: Advisor, Conflict, Stabilization, and Peacebuilding
 image: "/uploads/John%20Sampson.jpg"
 solutions:
 - Fragile States
