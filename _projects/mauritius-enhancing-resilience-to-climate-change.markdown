@@ -27,10 +27,18 @@ The team is fostering the integration of climate change adaptation and risks in 
 
 ### Select Results
 
-* Held a workshop for 60 government officials to provide final comments before the validation of the National Disaster Risk Reduction and Management Policy, Strategic Framework, and Action Plan, all drafted by the DAI team. The documents will be revised for eventual adoption as official policy.
-* Produced a climate change and vulnerability assessment report including an atlas of marine submersion and inland flooding risks based on climate projections.
-* Organised national and local workshops and roundtables for more than 100 government and private sector participants to build their understanding of integrated flood risk management, best practices for integrated coastal management, and to contribute ideas towards a climate change resilience strategy.
-* Formulated a comprehensive integrated coastal zone resilience strategy based on the vulnerability assessment.
-* Carried out an initial gap analysis of disaster risk reduction institutions and mechanisms.
-* Set up the GIS database for the Land Drainage Authorities.
-* Assessed the functionality of current drainage infrastructure and designed a rehabilitation program.
+* A multi-stakeholder climate change vulnerability assessment was carried out in 5 coastal sites and one inland site on mainland Mauritius to understand the current and projected impacts of hydro-meteorological hazards. The climate risks analyses included marine submersion, coastal erosion, and inland floods. The assessment looked at the impacts on urban and social systems, infrastructure, natural resources, with damage and disruption to these systems quantified in economic terms. Risk maps were produced at both national and priority site levels.
+ 
+* Developed a national Climate Resilience Strategy and initiated multi-stakeholder workshops and dialogues to highlight the importance of cross-coordination on risk management among public sector entities.
+ 
+* Carried out detailed hydrological and drainage systems assessments in the 6 priority sites identified as the most exposed to flood risks on the mainland. These resulted in the formulation of a program of priority drain infrastructure measures including emergency repair/maintenance works, additional studies, and monitoring measures.
+ 
+* Designed preliminary studies which led to the formulation of terms of reference for the Land Drainage Master Plan.
+ 
+* Provided technical assistance to the newly formed Land Drainage Authority (LDA), including technical capacity building on designing and setting up the GIS database systems, training on hydrology and hydraulic modeling, and crisis communications. 
+
+* Drafted standard hydrometeorological equipment geotechnical survey specifications for drain design studies. 
+ 
+* Developed technical guidelines and toolkit for the LDA on sustainable drainage systems, maintenance best practices, and mainstreaming climate risks.
+ 
+* Developed policy, strategic framework, and 2020-2030 action plan for the National Disaster Risk Reduction and Management Centre in line with the Sendai Framework 2015-2030. 
