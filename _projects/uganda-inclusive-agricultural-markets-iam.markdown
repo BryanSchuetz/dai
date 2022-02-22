@@ -31,3 +31,8 @@ Inclusivity lies at the heart of IAM. The team focuses on strengthening the mark
 * Strengthen advocacy of private firms in engaging with local government by improving enforcement of ordinances, improving budgeting for vital government activities, and providing input on district and regional development plans.
 * Identify private partners that are willing and able to invest in changing behavior, in increasing competitiveness, and in testing innovative business strategies to increase the inclusion of marginalized groups.
 * Help farmer organizations and agribusinesses recover from the secondary effects of COVID-19.
+
+### Select Results
+
+* Supported grain trader Okeba Uganda Limited to strengthen its supply chain from iron-rich bean producers. The company signed a 30,000 metric ton supply contract for soya bean with Spenza limited Kenya. In collaboration with IAM, Okeba has mobilized 11,872 smallholder farmers (7,006 women and 3,028 refugees), recruited and trained 160 business agents, known as local market facilitators. 
+* Helped input distribution partner Oasis Agribusiness to sell 12.6 metric tons of maize grains to Abim Farmers Development Agency.  
