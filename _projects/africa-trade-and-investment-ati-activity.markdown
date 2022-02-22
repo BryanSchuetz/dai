@@ -40,5 +40,5 @@ ATI is designed to unlock billions in exports and investments and generate thous
 
 ### Select Results
 
-* Boosting women-owned businesses through a partnership with WEConnect, a global network connecting women-owned businesses to qualified buyers around the world. 
+* Facilitated a partnership with WEConnect, a global network connecting women-owned businesses to qualified buyers around the world. 
 * Participated in a buyer-seller webinar in Nairobi, Kenya, co-hosted by the Kenya Manufacturers’ Association and USAID Kenya/East Africa. The session brought together 35 textile and apparel companies, including two buyers from The Children’s Place. 
