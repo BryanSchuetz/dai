@@ -18,7 +18,7 @@ promos:
   link: https://www.usaid.gov/news-information/press-releases/oct-21-2021-usaid-delivers-prosper-africa-goals-africa-trade-and-investment
 ---
 
-The Africa Trade and Investment (ATI) program is a five-year, flexible buy-in mechanism managed by the U.S. Agency for International Development (USAID)’s Bureau for Africa. USAID’s flagship effort under the [Prosper Africa](https://www.prosperafrica.gov/) initiative, ATI will boost trade, increase investment, and support healthy business climates across the African continent. ATI works with USAID missions, bureaus, and independent offices to mobilize enterprise-driven solutions and achieve development outcomes across North and sub-Saharan Africa.  
+The Africa Trade and Investment (ATI) program is a five-year, flexible buy-in mechanism managed by the U.S. Agency for International Development (USAID)’s Bureau for Africa. USAID’s flagship effort under the [Prosper Africa](https://www.prosperafrica.gov/) initiative, ATI boosts trade, increases investment, and supports healthy business climates across the African continent. ATI works with USAID missions, bureaus, and independent offices to mobilize enterprise-driven solutions and achieve development outcomes across North and sub-Saharan Africa.  
 
 As a demand-driven mechanism, ATI is flexible and responsive. ATI brings together a tested network of partners that can work across the intersection of trade and investment, deploying proven approaches testing new finance solutions, and building partnerships for sustainability and scale.
 
@@ -37,3 +37,8 @@ ATI is designed to unlock billions in exports and investments and generate thous
 * Engage trade facilitation service providers.
 * Support individual deal opportunities, particularly those with a U.S. nexus. 
 * Design and implement other activities that drive trade and investment into and out of African markets. 
+
+### Select Results
+
+* Boosting women-owned businesses through a partnership with WEConnect, a global network connecting women-owned businesses to qualified buyers around the world. 
+* Participated in a buyer-seller webinar in Nairobi, Kenya, co-hosted by the Kenya Manufacturers’ Association and USAID Kenya/East Africa. The session brought together 35 textile and apparel companies, including two buyers from The Children’s Place. 
