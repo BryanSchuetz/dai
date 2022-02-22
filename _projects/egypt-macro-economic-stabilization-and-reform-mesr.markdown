@@ -30,3 +30,7 @@ MESR also works with the Government of Egypt to analyze, monitor, and evaluate t
 * Analyze and assess different forms of alternative financing schemes.
 * Conduct legal and regulatory review of the public investment landscape.
 * Develop and conduct training to build capacity for planning and monitoring units in government entities.
+
+### Select Results
+
+* Supported the Ministry of Planning and Economic Development to publish the country’s first Gender-Responsive Sustainable Development Planning Manual.
