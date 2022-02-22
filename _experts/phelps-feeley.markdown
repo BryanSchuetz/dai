@@ -9,7 +9,7 @@ job-title: 'Chief of Party, Central Asia '
 image: "/uploads/Phelps%20Feeley.jpg"
 solutions:
 - Fragile States
-- Conflict and Vulnerability Analysis
+- Governance
 - Peace-Building and Political Transition
 regions:
 - Eastern Europe and Central Asia
