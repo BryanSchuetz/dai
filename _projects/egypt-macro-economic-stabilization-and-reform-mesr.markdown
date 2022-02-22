@@ -34,3 +34,4 @@ MESR also works with the Government of Egypt to analyze, monitor, and evaluate t
 ### Select Results
 
 * Supported the Ministry of Planning and Economic Development to publish the country’s first Gender-Responsive Sustainable Development Planning Manual.
+* Trained the media and communications units of the Ministry of Finance and the Ministry of Planning and Economic Development to communicate their work more effectively through various media platforms. MESR provided the units with in-house video production units, laptops specialized in handling video editing software, cameras, lighting, audio, and mobile journalism equipment.
