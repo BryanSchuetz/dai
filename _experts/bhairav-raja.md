@@ -2,9 +2,9 @@
 title: Bhairav Raja
 date: 2016-01-21 22:18:00 Z
 lastname: Raja
-summary: 'Bhairav Raja is the Practice Lead for Responsible Business at DAI’s Sustainable
+summary: 'Bhairav Raja is the Director for Responsible Business at DAI’s Sustainable
   Business Group, based in London. '
-job-title: Practice Lead, Responsible Business
+job-title: Director, Responsible Business
 image: "/uploads/Bhairav%20Raja.png"
 solutions:
 - Economic Growth
