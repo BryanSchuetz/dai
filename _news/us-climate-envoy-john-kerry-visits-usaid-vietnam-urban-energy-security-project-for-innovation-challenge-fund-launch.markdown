@@ -2,11 +2,26 @@
 title: U.S. Climate Envoy John Kerry Visits USAID Vietnam Urban Energy Security Project
   for Innovation Challenge Fund Launch
 date: 2022-02-23 13:48:00 Z
+solutions:
+- Climate
+- Energy
+regions: Asia and the Pacific
+projects: Vietnam—Urban Energy Security (VUES)
+clients: U.S. Agency for International Development
+summary: The U.S. Agency for International Development (USAID) has launched a $2.5
+  million Innovation Challenge Fund in Vietnam called “Tomorrow’s Energy Creators,”
+  designed to catalyze solutions to urban energy challenges. U.S. Climate Envoy John
+  Kerry, U.S. Ambassador Marc Knapper, and others attended the launch event where
+  the first five awardees were announced.
+social-image: "/uploads/sm%20Kerry.jpg"
+country: Vietnam
 ---
 
 The U.S. Agency for International Development (USAID) has launched a $2.5 million Innovation Challenge Fund in Vietnam called “Tomorrow’s Energy Creators,” designed to catalyze solutions to urban energy challenges. U.S. Climate Envoy [John Kerry](https://www.state.gov/biographies/john-kerry/), U.S. Ambassador [Marc Knapper](https://www.state.gov/biographies/marc-knapper/), and others attended the launch event where the first five awardees were announced.
 
 “We’re in a race against time to avoid the worst consequences of the climate crisis,” Kerry said. “It’s a pleasure to engage here in Vietnam with such promising young entrepreneurs and to witness their vision to accelerate the clean energy transition. They are an inspiring reflection of the real potential across Vietnam.”  
+
+![Kerry 2.jpg](/uploads/Kerry%202.jpg)`Photo: USAID Vietnam Urban Energy Security project.` 
 
 The Innovation Challenge Fund—managed by the DAI-led [Vietnam Urban Energy Security (VUES)](https://www.dai.com/our-work/projects/vietnam-urban-energy-security) project—provides awards up to $100,000 to organizations with promising new products, business models, or financing models for advanced, distributed urban energy systems in Danang or Ho Chi Minh cities. Successful pilots and demonstrations may receive further support to scale and become commercially viable.
 
