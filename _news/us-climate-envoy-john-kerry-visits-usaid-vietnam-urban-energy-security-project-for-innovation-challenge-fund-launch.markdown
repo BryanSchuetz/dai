@@ -21,7 +21,7 @@ The U.S. Agency for International Development (USAID) has launched a $2.5 millio
 
 “We’re in a race against time to avoid the worst consequences of the climate crisis,” Kerry said. “It’s a pleasure to engage here in Vietnam with such promising young entrepreneurs and to witness their vision to accelerate the clean energy transition. They are an inspiring reflection of the real potential across Vietnam.”  
 
-![Kerry 2.jpg](/uploads/Kerry%202.jpg)`Photo: USAID Vietnam Urban Energy Security project.` 
+![Kerry 2.jpg](/uploads/Kerry%202.jpg)`U.S. Special Presidential Envoy for Climate John Kerry visits an exhibition of the first five awardees’ energy innovations under USAID's Innovation Challenge Fund. Photo: USAID VUES.` 
 
 The Innovation Challenge Fund—managed by the DAI-led [Vietnam Urban Energy Security (VUES)](https://www.dai.com/our-work/projects/vietnam-urban-energy-security) project—provides awards up to $100,000 to organizations with promising new products, business models, or financing models for advanced, distributed urban energy systems in Danang or Ho Chi Minh cities. Successful pilots and demonstrations may receive further support to scale and become commercially viable.
 
@@ -34,6 +34,8 @@ The first round of awards under the fund will support technologies or practices 
 * TAM Consultancy Co. Ltd. to pilot a smart control system for air compressors for use in the industrial sector
 * VietnamNet ICOM Media, for a smartphone application to encourage energy savings by electricity customers
 * Allotrope Partners to pilot a battery energy storage system in the commercial and industrial sector
+
+![Kerry 1.jpg](/uploads/Kerry%201.jpg)`Kerry listens as one of the first five awardees explains his innovation. Photo: USAID VUES.`
 
 In addition to managing the fund, VUES supports USAID investments in Vietnam’s energy sector by driving engagement down to the city level, complementing existing programming such as the Vietnam Low Emission Energy Program.
 
