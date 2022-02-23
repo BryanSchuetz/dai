@@ -37,6 +37,4 @@ The first round of awards under the fund will support technologies or practices 
 
 ![Kerry 1.jpg](/uploads/Kerry%201.jpg)`Kerry listens as one of the first five awardees explains his innovation. Photo: USAID VUES.`
 
-In addition to managing the fund, VUES supports USAID investments in Vietnam’s energy sector by driving engagement down to the city level, complementing existing programming such as the Vietnam Low Emission Energy Program.
-
-VUES promotes the deployment of 400 megawatts of advanced and distributed energy solutions in urban centers, ranging from solar panels and storage batteries to energy-efficient vehicles. 
+In addition to managing the fund, VUES supports USAID investments in Vietnam’s energy sector by driving engagement down to the city level, complementing existing programming such as the Vietnam Low Emission Energy Program. VUES promotes the deployment of 400 megawatts of advanced and distributed energy solutions in urban centers, ranging from solar panels and storage batteries to energy-efficient vehicles. 
