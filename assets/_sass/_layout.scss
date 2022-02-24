@@ -742,7 +742,7 @@ textarea {
   color: #555;
 }
 #slidebox h2 {
-  color: $link-green;
+  color: $dai-gray-02;
   font-size: 1.1rem;
   margin: 10px 20px 5px 0px;
 }
@@ -2075,10 +2075,10 @@ ol li::marker{
 
 .bulma{
   .dai-button{
-  background-color: $link-green;
+  background-color: $dai-gray-02;
   color: white;
   &:hover{
-    background-color: darken($link-green, 10%);
+    background-color: darken($dai-gray-02, 10%);
     color: white;
   }
 }

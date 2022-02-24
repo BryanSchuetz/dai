@@ -1,33 +1,12 @@
 ---
 title: Working at DAI
 permalink: "/careers/working-at-dai"
-layout: default
+layout: careers
 careers: true
+feature-title: Shaping a more livable world.
+feature-text: DAI works on the frontlines of international development. Global in reach and outlook, our 3,000 employees are committed to delivering development results in more than 100 countries worldwide. Join us in shaping a more livable world.
+hero-package: career-areas
 ---
-
-<section class="hero--home">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-            <h1 class="title line">Shaping a more <br class="hidden-sm">livable world.</h1>
-            <p class="sub--title">DAI works on the frontlines of international development. Global in reach and outlook, our 3,000 employees are committed to delivering development results in more than 100 countries worldwide. Join us in shaping a more livable world.</p>
-            </div>
-        </div>
-    </div>
-<div class="visible-lg visible-md visible-sm visible-xs">
-    {%- include _careers/searchbox.html -%}
-</div>
-
-<video autoplay="autoplay" loop="loop" id="bgvid" class="hidden-sm hidden-xs" muted>
-<source src="https://s3.amazonaws.com/dai-assets/videos/hero/home.mp4" type="video/mp4" /> 
-<source src="https://s3.amazonaws.com/dai-assets/videos/hero/home.webm" type="video/webm" /> 
-Your browser does not support HTML5 video.
-</video>
-
-<button id="advancedSearchBtn" class="btn btn-success btn-search">
-Advanced <br>Search <img class="icon" src="assets/build/img/icons/arrow-button.svg" alt="Arrow icon">
-</button>
-</section><!-- #section -->
 <div class="hidden-lg hidden-md hidden-sm hidden-xs">
 <div class="form" id="careerSearchForm">
 <div class="container-fluid">
