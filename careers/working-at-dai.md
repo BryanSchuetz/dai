@@ -4,9 +4,12 @@ permalink: "/careers/working-at-dai"
 layout: careers
 careers: true
 feature-title: Shaping a more livable world.
-feature-text: DAI works on the frontlines of international development. Global in reach and outlook, our 3,000 employees are committed to delivering development results in more than 100 countries worldwide. Join us in shaping a more livable world.
+feature-text: DAI works on the frontlines of international development. Global in
+  reach and outlook, our 3,000 employees are committed to delivering development results
+  in more than 100 countries worldwide. Join us in shaping a more livable world.
 hero-package: career-areas
 ---
+
 <div class="hidden-lg hidden-md hidden-sm hidden-xs">
 <div class="form" id="careerSearchForm">
 <div class="container-fluid">
