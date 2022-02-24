@@ -1,7 +1,7 @@
 ---
-published: false
 title: Ukraine—Cybersecurity for Critical Infrastructure Activity
 date: 2020-05-14 19:17:00 Z
+published: false
 summary: The Cybersecurity for Critical Infrastructure Activity works to strengthen
   the resilience of Ukraine’s critical infrastructure from cyberattacks by establishing
   trusted collaboration between key cybersecurity stakeholders in the government,
