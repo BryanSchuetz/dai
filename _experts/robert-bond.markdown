@@ -2,9 +2,8 @@
 title: Robert Bond
 date: 2017-05-19 17:43:00 Z
 lastname: Bond
-summary: Robert Bond was most recently Chief of Party for the Ukraine [Financial Sector
-  Transformation (FST)](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst)
-  project, funded by the U.S. Agency for International Development (USAID).
+summary: Robert Bond was most recently Chief of Party for the Ukraine Financial Sector
+  Transformation (FST) project, funded by the U.S. Agency for International Development.
 job-title: Advisor
 image: "/uploads/BobBond.jpg"
 solutions:
@@ -14,7 +13,7 @@ regions:
 - Latin America and the Caribbean
 ---
 
-Robert Bond was most recently Chief of Party for the Ukraine [Financial Sector Transformation (FST)](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst) project, funded by the U.S. Agency for International Development (USAID).
+Robert Bond was most recently Chief of Party for the Ukraine Financial Sector Transformation (FST) project, funded by the U.S. Agency for International Development (USAID).
 
 From September 2010 through December 2012, Robert ran the Ukraine Financial Sector Rehabilitation Project (USAID/FINREP), implemented by Booz Allen Hamilton, that helped Ukraine implement reforms to lessen its vulnerability to external financial shocks and increase the adoption of international standards of disclosure, transparency, and financial market regulation. 
 
