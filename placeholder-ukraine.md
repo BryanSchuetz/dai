@@ -13,6 +13,9 @@ redirect_from:
 - "/our-work/projects/ukraine-strengthening-capacities-in-external-audit-in-line-with-international-standards"
 - "/our-work/projects/ukraine-support-in-approximation-of-the-eu-environmental-acquis"
 - "/our-work/projects/ukraine-strengthening-the-regulation-and-supervision-of-the-nonbank-financial-market-eu-finreg"
+- "/who-we-are/our-team/robert-bodo"
+- "/who-we-are/our-team/tim-madigan"
+- "/who-we-are/our-team/gabriel-abraham"
 ---
 
 This page has been temporarily replaced following recent events in Ukraine.
