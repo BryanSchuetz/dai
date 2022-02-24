@@ -1,4 +1,5 @@
 ---
+published: false
 title: Ukraine—Cybersecurity for Critical Infrastructure Activity
 date: 2020-05-14 19:17:00 Z
 summary: The Cybersecurity for Critical Infrastructure Activity works to strengthen
