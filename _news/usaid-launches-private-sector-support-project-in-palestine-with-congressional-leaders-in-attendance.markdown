@@ -11,7 +11,7 @@ clients: U.S. Agency for International Development
 summary: Speaker of the U.S. House of Representatives Nancy Pelosi and seven U.S.
   House Representatives—Ted Deutch, Bill Keating, Ro Khanna, Andy Kim, Barbara Lee,
   Adam Schiff, and Eric Swalwell—attended the launch last week of the Small and Medium
-  Enterprise Assistance for Recovery and Transition (SMART) activity in Palestine.
+  Enterprise Assistance for Recovery and Transition (SMART) Activity in Palestine.
 social-image: "/uploads/sm%20SMART%20Launch_01.jpg"
 country: Palestine
 ---
