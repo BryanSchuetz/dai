@@ -13,6 +13,10 @@ solutions:
 - Workforce Development and Youth
 regions: Middle East and North Africa
 country: Palestine
+promos:
+- title: USAID Launches Private Sector Support Project in Palestine, with Congressional
+    Leaders in Attendance
+  link: https://www.dai.com/news/usaid-launches-private-sector-support-project-in-palestine-with-congressional-leaders-in-attendance
 ---
 
 Palestinian small and medium enterprises (SMEs) have long had to cope with persistent challenges—a local market with limited purchasing power, restrictions on the movement of goods and people, limited access to export markets, and more. The COVID-19 crisis put unanticipated pressure on an already constrained economy. The May 2021 conflict between Israeli forces and Hamas inflicted further damage on the private sector, in Gaza especially. 
