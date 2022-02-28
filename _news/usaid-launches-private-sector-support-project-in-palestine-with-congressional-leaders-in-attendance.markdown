@@ -6,17 +6,17 @@ solutions:
 - Economic Growth
 regions: Middle East and North Africa
 projects: Palestine—Small and Medium Enterprise Assistance for Recovery and Transition
-  (SMART) Activity
+  (SMART)
 clients: U.S. Agency for International Development
 summary: Speaker of the U.S. House of Representatives Nancy Pelosi and seven U.S.
   House Representatives—Ted Deutch, Bill Keating, Ro Khanna, Andy Kim, Barbara Lee,
   Adam Schiff, and Eric Swalwell—attended the launch last week of the Small and Medium
-  Enterprise Assistance for Recovery and Transition (SMART) Activity in Palestine.
+  Enterprise Assistance for Recovery and Transition (SMART) project in Palestine.
 social-image: "/uploads/sm%20SMART%20Launch_01.jpg"
 country: Palestine
 ---
 
-Speaker of the U.S. House of Representatives Nancy Pelosi and seven U.S. House Representatives—Ted Deutch, Bill Keating, Ro Khanna, Andy Kim, Barbara Lee, Adam Schiff, and Eric Swalwell—attended the launch last week of the [Small and Medium Enterprise Assistance for Recovery and Transition (SMART) Activity](https://www.dai.com/our-work/projects/palestine-small-and-medium-enterprise-assistance-for-recovery-and-transition-smart-activity) in Palestine. Pelosi praised the efforts of the U.S. Agency for International Development (USAID) and the project. 
+Speaker of the U.S. House of Representatives Nancy Pelosi and seven U.S. House Representatives—Ted Deutch, Bill Keating, Ro Khanna, Andy Kim, Barbara Lee, Adam Schiff, and Eric Swalwell—attended the launch last week of the [Small and Medium Enterprise Assistance for Recovery and Transition (SMART)](https://www.dai.com/our-work/projects/palestine-small-and-medium-enterprise-assistance-for-recovery-and-transition-smart-activity) project in Palestine. Pelosi praised the efforts of the U.S. Agency for International Development (USAID) and the project. 
 
 ![SMART Launch_01.jpeg](/uploads/SMART%20Launch_01.jpeg)`Speaker of the U.S. House of Representatives Nancy Pelosi discusses the important role of small businesses. Photo: U.S. Embassy.`
 
