@@ -33,7 +33,7 @@ Kim, who sits on the House Foreign Affairs Committee, reflected on how he began 
 
 Lee, in her role as Chair of the State, Foreign Operations, and Related Programs Subcommittee of the House Appropriations Committee, was instrumental in securing the funding to West Bank and Gaza that made SMART possible. “It’s such an honor to be with you today,” said the Congresswoman. “So often we fund initiatives, and we never get to see the launch. We never actually get to be with the people who are going to be doing the job.”
 
-![SMART Launch_02.jpg](/uploads/SMART%20Launch_02.jpg)`Congresswoman Barbara Lee told the audience about her experience as a small business owner and mentioned the 'spirit, the creativity, the entrepreneurship, and the vision and steadfastness of the Palestinian people.' Photo: U.S. Embassy.`
+![SMART Launch_02.jpg](/uploads/SMART%20Launch_02.jpg)`Congresswoman Barbara Lee told the audience about her experience as a small business owner and praised the 'spirit, creativity, entrepreneurship, vision, and steadfastness of the Palestinian people.' Photo: U.S. Embassy.`
 
 SMART Chief of Party [Said Abu Hijleh](https://www.dai.com/who-we-are/our-team/said-abu-hijleh) concluded the proceedings with a brief presentation of the project, then he invited the Pelosi and the Congressional Delegation to a reception with Palestinian business leaders. 
 
