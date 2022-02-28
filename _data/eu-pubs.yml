@@ -1,176 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'">
+    <title>Page not found &middot; GitHub Pages</title>
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f1f1f1;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
 
+      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
 
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
 
-- title: |
-    Climate Change Governance: Six Lessons Learned
-  pub: "Developments"
-  date: 2021-11-08
-  link: "https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned?utm_source=daidotcom"
-  summary: |
-    Climate change works against the achievement of all the Sustainable Development Goals, from poverty reduction and food security to institution and capacity building. Recent World Bank estimates show that inaction on climate change will force 100 million more people into extreme poverty by 2030. Floods and droughts, reduced water supplies, and the loss of viable agricultural land all strain state capacity to provide protection and public goods. In already-weak states, climate change acts as a “threat multiplier.” 
-  tags:
-    - climate-change
-    - european-union
-    - usaid
-    - climate
-    - governance
-- title: |
-    Q&A: Switching to Renewable Energy is an Urgent Priority in Batloun, Lebanon
-  pub: "Developments"
-  date: 2021-11-04
-  link: "https://dai-global-developments.com/articles/switching-to-renewable-energy-is-an-urgent-priority-in-batloun-lebanon?utm_source=daidotcom"
-  summary: |
-    Marwan Kaiss has been the Mayor of Batloun, Lebanon, since 2016. Batloun is a small town in the Chouf district, which forms part of the Chouf Biosphere Reserve. Its natural beauty, proximity to the Reserve, and rich history make it a top spot for environmental and cultural tourism. Mayor Kaiss is driven to see Batloun become a “green town” and has been implementing its Climate Change Action Plan (SECAP). Key to this has been the town’s involvement in the Clima-Med project and his membership of the Covenant of Mayors Mediterranean. With the cooperation of citizens and the continued support of the international community, Mayor Kaiss intends Batloun to be on track to help reach the Southern Mediterranean’s 2030 emission reduction targets. We sat with Mayor Kaiss to find out more. 
-  tags:
-    - climate
-    - environment-and-energy
-    - european-union
-- title: |
-    Mainstreaming Climate-Smart Approaches at all Levels of Ethiopian Society
-  pub: "Developments"
-  date: 2021-10-27
-  link: "https://dai-global-developments.com/articles/mainstreaming-climate-smart-approaches-at-all-levels-of-ethiopian-society?utm_source=daidotcom"
-  summary: |
-    Adapting to climate change and building resilience to its harmful effects is especially important in countries where the population is highly vulnerable to the effects of global warming, such as Ethiopia. That’s exactly what the GCCA+/Climate Smart Mainstreaming into the Productive Safety Net Program (Climate-Smart PSNP) has been focused on since 2018. The European Union (EU) project is mainstreaming climate-smart approaches at grassroots and institutional levels, thereby contributing to a sustainable change of practices to adapt to climate change, at all levels of Ethiopian society. 
-  tags:
-    - climate
-    - climate change
-    - agriculture
-    - european-union
-- title: |
-    EU Forest Project in Liberia Tackles Deforestation and Paves the Way for Stability
-  pub: "Developments"
-  date: 2021-06-24
-  link: "https://dai-global-developments.com/articles/eu-forest-project-in-liberia-tackles-deforestation-and-paves-the-way-for-stability?utm_source=daidotcom"
-  summary: |
-    Liberia is home to half of the remaining rainforest in West Africa. Covering more than 60 percent of the nation’s land surface, forests are the fourth-largest contributor to Liberia’s economy and an important source of income for one-third of its 4.5 million people. They also make Liberia one of the world’s hotspots for biological diversity, hosting more than 2,200 species of flora and nearly 900 fauna. However, the forests face pressing challenges due to illegal logging and other drivers of deforestation. 
-  tags:
-    - environment-and-energy
-    - forestry
-    - economic-growth
-    - land rights
-    - land tenure
-    - resilience
-    - european-union
-- title: |
-    Zimbabwe Agriculture Project Finds Ways to Engage Smallholder Farmers, Despite COVID-19
-  pub: "Developments"
-  date: 2021-04-28
-  link: "https://dai-global-developments.com/articles/zimbabwe-agriculture-project-finds-ways-to-engage-smallholder-farmers-despite-covid-19?utm_source=daidotcom"
-  summary: |
-    March 30 marked one year since the Government of Zimbabwe declared the country’s first nationwide lockdown to curb the spread of COVID-19. The strict lockdown and enforcement measures have caused significant hardship for most citizens, but particularly for informal traders in poorer urban areas and communities that depend on agriculture for their incomes. 
-  tags:
-    - covid-19
-    - economic-growth
-    - agriculture
-    - european-union
-- title: |
-    Supporting Women’s Inclusion Through Community Development in Pakistan
-  pub: "Developments"
-  date: 2021-03-08
-  link: "https://dai-global-developments.com/articles/supporting-womens-inclusion-through-community-development-in-pakistan?utm_source=daidotcom"
-  summary: |
-    Since the early 2000s, the province of Khyber Pakhtunkhwa (KP), home to more than 30 million citizens in northwest Pakistan, has suffered from the effects of militancy and natural disasters. Taliban attacks from neighbouring Afghanistan and severe droughts and floods have displaced people, increased poverty, hindered access to basic services, and sown distrust in government. 
-  tags:
-    - governance
-    - european-union
-    - pakistan
-- title: |
-    Fiscal Decentralization Builds Citizen Trust, Positions Ukraine for European Future
-  pub: "Developments"
-  date: 2021-02-03
-  link: "https://dai-global-developments.com/articles/fiscal-decentralization-builds-citizen-trust-positions-ukraine-for-european-future?utm_source=daidotcom"
-  summary: |
-    Sharing borders with four European Union (EU) member states—Hungary, Poland, Romania, and Slovakia—Ukraine is now a participant in the European Neighbourhood Policy and the Eastern Partnership, and thus a priority partner of the EU. Yet the ratification of the Ukraine-EU Association Agreement, begun in 2012 and concluded five years later, turned out to be a fraught process. Indeed, the 2014 Ukrainian Revolution, or Euromaidan, started when pro-Russian President Viktor Yanukovytch suspended it. 
-  tags:
-    - governance
-    - public-financial-management
-    - finance
-    - technology
-    - european-union
-- title: |
-    In Somalia, Ensuring Social Protection During the COVID-19 Pandemic and Food Security Crisis
-  pub: "Developments"
-  date: 2020-04-28
-  link: "https://dai-global-developments.com/articles/in-somalia-ensuring-social-protection-during-covid19-pandemic-and-food-security-crisis?utm_source=daidotcom"
-  summary: |
-    After many years of conflict, recurrent natural disasters, and humanitarian crisis, Somalia is highly susceptible to poverty and food insecurity, and its health indicators are among the worst in the world. Against this backdrop, the COVID-19 pandemic is a palpable threat to the country’s healthcare system, food security, and already fragile economy. 
-  tags:
-    - covid-19
-    - stability
-    - food security
-    - resilience
-    - fragile-states
-    - agriculture
-    - european-union
-- title: |
-    How Statistics Can Transform Governance: A Q&A with Economist and Statistician Jean-Paul Zoyem
-  pub: "Developments"
-  date: 2020-04-20
-  link: "https://dai-global-developments.com/articles/how-statistics-can-transform-governance-a-q-and-a-with-economist-and-statistician-jean-paul-zoyem?utm_source=daidotcom"
-  summary: |
-    Statistics are of paramount importance for governance. High-quality data inform policy making and the public debate: They help assess and design policies and hold governments accountable. However, as the World Bank reported in 2017, Africa’s statistical capacity lags behind most of the developed world. Absent adequate statistics, policy makers are hard pressed to conduct proper monitoring of poverty, inequality, or service delivery, to take just a few examples. Even though money has been invested to build African capacity in this regard, the political incentives needed to build and sustain reliable, independent national statistics systems are too often lacking. This shortcoming is all the more apparent under authoritarian regimes. 
-  tags:
-    - governance
-    - european-union
-- title: |
-    Restoring Trust: Toward a People-Centric Security Sector in The Gambia
-  pub: "Developments"
-  date: 2020-02-14
-  link: "https://dai-global-developments.com/articles/restoring-trust-toward-a-people-centric-security-sector-in-the-gambia?utm_source=daidotcom"
-  summary: |
-    It’s hard to imagine that The Gambia emerged only recently from 22 years of authoritarian rule: first impressions are of a vibrant and happy nation. Surrounded by Senegal to the north, east, and south, The Gambia is known as the “smiling coast of Africa” because Gambians are said to possess a knack for putting people at ease. 
-  tags:
-    - fragile-states
-    - stability
-    - governance
-    - european-union
-- title: |
-    Paving the Way for Green Energy Financing in the Mediterranean
-  pub: "Developments"
-  date: 2019-11-15
-  link: "https://dai-global-developments.com/articles/paving-the-way-for-green-energy-financing-in-the-mediterranean?utm_source=daidotcom"
-  summary: |
-    In the face of a gathering climate crisis, “The world must quickly implement massive energy efficiency and conservation practices,” declared more than 11,000 climate scientists in a statement issued November 5. Their warning lends added urgency to a program that the European Bank for Reconstruction and Development (EBRD) has been running for more than a decade, and which is now poised to expand in North Africa. 
-  tags:
-    - environment-and-energy
-    - economic-growth
-    - finance
-    - climate change
-    - european-union
-- title: |
-    PolSEFF’s Legacy: Lower Energy Bills for Businesses Across Poland; a Financing Model to Scale and Replicate
-  pub: "Developments"
-  date: 2017-05-30
-  link: "https://dai-global-developments.com/articles/polseff-legacy-lower-energy-bills-for-businesses-across-poland-a-financing-model-to-scale-and-replicate?utm_source=daidotcom"
-  summary: |
-    While Poland’s private sector grew steadily in the post-Soviet era, its reliance on old energy equipment and poorly insulated facilities contributed to the country becoming one of the highest energy consumers in Europe. In 2010, when the European Bank for Reconstruction and Development (EBRD) launched the Polish Sustainable Energy Financing Facility (PolSEFF), few business owners had invested in energy efficiency measures compared with the European Union average, and Polish lending institutions were not prepared to finance these types of upgrades. As a result, business owners continued to pay unnecessarily high energy bills and emit unnecessarily high amounts of carbon. 
-  tags:
-    - economic-growth
-    - finance
-    - environment-and-energy
-    - european-union
-- title: |
-    Growing a Global Network of Microfinance Practitioners
-  pub: "Developments"
-  date: 2015-10-15
-  link: "https://dai-global-developments.com/articles/growing-a-global-network-of-microfinance-practitioners?utm_source=daidotcom"
-  summary: |
-    The European Commission (EC) is one of the world’s leading exponents of access-to-finance programming, known particularly for initiatives such as  mentoring local banks and developing loan programmes for small businesses and green energy investment. Equally noteworthy is an EC programme dedicated to promoting microfinance in developing countries, a programme that recently closed after vitalizing a global network of local microfinance practitioners who in turn reached some 3.5 million people. 
-  tags:
-    - economic-growth
-    - resilience
-    - european-union
-- title: |
-    How Banks Can Help Businesses Reduce Their Energy Costs
-  pub: "Developments"
-  date: 2015-03-05
-  link: "https://dai-global-developments.com/articles/how-banks-can-help-businesses-in-developing-countries-to-greatly-reduce-their-energy-costs?utm_source=daidotcom"
-  summary: |
-    Energy consumption can account for up to half the cost of doing business for small and medium-sized enterprises (SMEs). These businesses of 250 or fewer employees make up 95 percent of enterprises across the world; they also account for approximately 60 percent of all private sector employment. Globally, there is great potential to reduce their energy costs and carbon emissions. 
-  tags:
-    - environment-and-energy
-    - economic-growth
-    - european-union
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
 
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
 
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+
+      #suggestions {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #suggestions a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <h1>404</h1>
+      <p><strong>File not found</strong></p>
+
+      <p>
+        The site configured at this address does not
+        contain the requested file.
+      </p>
+
+      <p>
+        If this is your site, make sure that the filename case matches the URL.<br>
+        For root URLs (like <code>http://example.com/</code>) you must provide an
+        <code>index.html</code> file.
+      </p>
+
+      <p>
+        <a href="https://help.github.com/pages/">Read the full documentation</a>
+        for more information about using <strong>GitHub Pages</strong>.
+      </p>
+
+      <div id="suggestions">
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      </div>
+
+      <a href="/" class="logo logo-img-1x">
+        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=">
+      </a>
+
+      <a href="/" class="logo logo-img-2x">
+        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEQUM1QkUxRUI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEQUM1QkUxRkI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdGQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjgwQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hfPRaQAAB6lJREFUeNrsW2mM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">
+      </a>
+    </div>
+  </body>
+</html>
