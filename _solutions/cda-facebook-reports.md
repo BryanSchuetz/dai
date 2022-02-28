@@ -10,7 +10,7 @@ hero: true
 layout: solution
 ---
 
-*January 24, 2022*
+*February 28, 2022*
 
 The COVID-19 pandemic has revealed the vital role digital technologies play in enabling businesses, communities, and individuals to connect, function, and thrive. Ensuring that micro, small, and medium enterprises (MSMEs) can access digital tools is particularly crucial in emerging markets because MSMEs fuel economic growth and spur job creation. According to the [World Bank](https://www.worldbank.org/en/topic/smefinance), MSMEs constitute 90 percent of businesses and more than half of employment globally. With digital tools, MSMEs enhance their bottom lines by efficiently communicating with customers and suppliers, entering new markets via e-commerce, and accessing digital financial services. In the COVID-19 era, [research](https://www.apec.org/-/media/APEC/Publications/2020/7/Supporting-MSMEs-Digitalization-Amid-COVID-19/220_PSU_Supporting-MSMEs-Digitalization-Amid-COVID-19.pdf) shows, using digital tools to manage transactions and engage customers mitigates some of the economic and logistical challenges faced by MSMEs, positioning them for growth. 
 
@@ -27,7 +27,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-global.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-global.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -41,7 +41,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/global-country-brief-revised.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/global-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -49,7 +49,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/argentina-msme-thumb.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-argentina.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -68,7 +68,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/argentina-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/argentina-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -78,7 +78,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-bangladesh.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-bangladesh.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -97,7 +97,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/bangladesh-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/bangladesh-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -105,7 +105,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/brazil-msme-thumb.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-brazil.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -124,7 +124,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/brazil-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/brazil-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -134,7 +134,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-cambodia.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-cambodia.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -153,7 +153,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/cambodia-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/cambodia-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -161,7 +161,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-colombia.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-colombia.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -180,7 +180,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/colombia-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/colombia-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -190,7 +190,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/india-msme-thumb.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-india.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -209,7 +209,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/india-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/india-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -217,7 +217,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-indonesia.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-indonesia.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -236,7 +236,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/indonesia-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/indonesia-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -246,7 +246,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
             <div class="card-image">
               <figure class="image is-4by5">
-                <img src="/uploads/msme-study-thumbnail-mexico.jpg" alt="Placeholder image">
+                <img src="/uploads/final-msme-reports/msme-study-thumbnail-mexico.jpg" alt="Placeholder image">
               </figure>
             </div>
             <div class="card-content">
@@ -265,7 +265,7 @@ As emerging markets recover and rebound from the immense challenges presented by
               </div>
             </div>
             <footer class="card-footer pt-0" style="padding-top: 0;">
-              <a download class="card-footer-item fb-pub-buttons" href="/uploads/mexico-country-brief.pdf">Download Report</a>
+              <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/mexico-country-brief.pdf">Download Report</a>
             </footer>
           </div>
       </div>
@@ -273,7 +273,7 @@ As emerging markets recover and rebound from the immense challenges presented by
           <div class="card is-fullheight">
             <div class="card-image">
               <figure class="image is-4by5">
-                <img src="/uploads/msme-study-thumbnail-peru.jpg" alt="Placeholder image">
+                <img src="/uploads/final-msme-reports/msme-study-thumbnail-peru.jpg" alt="Placeholder image">
               </figure>
             </div>
             <div class="card-content">
@@ -292,7 +292,7 @@ As emerging markets recover and rebound from the immense challenges presented by
               </div>
             </div>
             <footer class="card-footer pt-0" style="padding-top: 0;">
-              <a download class="card-footer-item fb-pub-buttons" href="/uploads/peru-country-brief.pdf">Download Report</a>
+              <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/peru-country-brief.pdf">Download Report</a>
             </footer>
           </div>
         </div>
@@ -302,7 +302,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-philippines.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-philippines.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -321,7 +321,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/philippines-country-brief.pdf">Download
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/philippines-country-brief.pdf">Download
               Report</a>
           </footer>
         </div>
@@ -330,7 +330,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/sri-lanka-msme-thumb.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-sri-lanka.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -349,7 +349,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/sri-lanka-country-brief.pdf">Download
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/sri-lanka-country-brief.pdf">Download
               Report</a>
           </footer>
         </div>
@@ -360,7 +360,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-thailand.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-thailand.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -379,7 +379,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/thailand-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/thailand-country-brief.pdf">Download Report</a>
           </footer>
         </div>
       </div>
@@ -387,7 +387,7 @@ As emerging markets recover and rebound from the immense challenges presented by
         <div class="card is-fullheight">
           <div class="card-image">
             <figure class="image is-4by5">
-              <img src="/uploads/msme-study-thumbnail-vietnam.jpg" alt="Placeholder image">
+              <img src="/uploads/final-msme-reports/msme-study-thumbnail-vietnam.jpg" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
@@ -406,7 +406,7 @@ As emerging markets recover and rebound from the immense challenges presented by
             </div>
           </div>
           <footer class="card-footer pt-0" style="padding-top: 0;">
-            <a download class="card-footer-item fb-pub-buttons" href="/uploads/vietnam-country-brief.pdf">Download Report</a>
+            <a download class="card-footer-item fb-pub-buttons" href="/uploads/final-msme-reports/vietnam-country-brief.pdf">Download Report</a>
           </footer>
         </div> 
       </div>
