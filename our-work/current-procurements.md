@@ -10,8 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
-*[RFP 2022-04 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFP%202022-04%20Modification%2001.pdf "3/14")
-*[RFA 2022-06 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-07%20Modification%2001.pdf "4/7")
+* [RFP 2022-04 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFP%202022-04%20Modification%2001.pdf "3/14")
+* [RFA 2022-06 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-07%20Modification%2001.pdf "4/7")
 * [RFA 2022-07 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-07%20Modification%2001.pdf "3/15")
 * [RFA 2022-08 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-08%20Modification%2001.pdf "3/11")
 * [RFA-2022-08 Kirana Training Kit](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-08-Kirana%20Training%20Kit.pdf "3/11")
