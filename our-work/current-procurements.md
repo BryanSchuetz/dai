@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [RFA 2022-07 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-07%20Modification%2001.pdf "3/15")
 * [RFA 2022-08 Modification 01](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-08%20Modification%2001.pdf "3/11")
 * [RFA-2022-08 Kirana Training Kit](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-08-Kirana%20Training%20Kit.pdf "3/11")
 * [RFA-2022-07 SARDI SME Cybersecurity Awareness Campaign design and implementation](https://dai-assets.s3.amazonaws.com/rfps/Digital%20Frontiers-RFA-2022-07-SARDI%20CybersecurityCampaign.pdf "3/15")
