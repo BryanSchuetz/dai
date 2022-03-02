@@ -4,7 +4,7 @@ date: 2019-02-05 19:16:00 Z
 lastname: Shera
 summary: Fiona Shera has more than 25 years of experience in international development,
   with a strong focus on trade and gender.
-job-title: Lead Technical Adviser, Trade
+job-title: Lead Technical Adviser, Trade and Investment
 image: "/uploads/Fiona%20Shera.jpg"
 solutions:
 - Trade
