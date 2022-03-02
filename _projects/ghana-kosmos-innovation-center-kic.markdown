@@ -32,6 +32,8 @@ promos:
 End: 
 ---
 
+![KIC article.png](/uploads/KIC%20article.png)
+
 DAI helped to [design, launch, and implement](https://www.dai.com/news/kosmos-energy-launches-groundbreaking-social-investment-initiative-ghana) the Kosmos Innovation Center (KIC) program to advance locally led, market-driven solutions to some of the country’s key challenges.
 
 [KIC](http://www.kosmosinnovationcenter.com/) is an effort to channel young people’s innovative entrepreneurialism into the country’s agricultural sector. Each year, KIC takes approximately 120 aspiring entrepreneurs through the KIC AgriTech Challenge, a series of market research tours, capacity-building programs, team-building exercises, and pitch competitions, culminating in seed funding and incubation support to a handful of high-potential startups that emerge from the program. KIC also engages with more mature agrifirms that are adding value to Ghanaian raw materials and supports them on their journey to scale and access growth capital. DAI’s Sustainable Business Group (SBG) provides capacity building support, personnel recruitment and management, stakeholder engagement, investment due diligence, and ongoing technical assistance to [KIC](https://thebftonline.com/2018/features/kosmos-energy-agrics-new-ally/). 
