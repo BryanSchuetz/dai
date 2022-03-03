@@ -11,8 +11,8 @@ solutions:
 - Fragile States
 - Countering Extremism
 - Stabilization
+- Security and Justice
 - Peace-Building and Political Transition
-- Peace-building and State-building
 regions:
 - Worldwide
 ---
