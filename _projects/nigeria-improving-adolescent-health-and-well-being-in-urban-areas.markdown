@@ -35,9 +35,9 @@ Program objectives include 1) improve skills for healthy living and future plann
 
 * Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents, aged 15-19.
 * Launched two pilot Youth Hubs in Lagos, at sites provided by the Lagos State Ministry of Youth and Social Development, reflecting local ownership and planning for sustainability from the start.
-* Reached 864 adolescents using the locally adapted [SKILLZ United](https://borgenproject.org/tag/skillz-curriculum/) curriculum in Lagos, with 827 graduating and 720 enrolling in follow-on SKILLZ Clubs.
+* Reached 2,012 adolescents using the locally adapted [SKILLZ United](https://borgenproject.org/tag/skillz-curriculum/) curriculum in Lagos, with 827 graduating and 720 enrolling in follow-on SKILLZ Clubs.
 * Provided contraceptive methods to 887 young people, of which 483 are new users.
 * Engaged young people throughout project implementation, particularly by forming the Youth Advisory Committees in Lagos and Kano.
 * Trained 68 multi-cadre providers to strengthen capacity in basic contraceptive technology, respectful, youth-friendly counseling, and the commodity logistics management system.
-* Strengthened capacity of 137 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
+* Strengthened capacity of 231 youth champions in social and leadership skills, who will lead youth advocacy initiatives in their respective communities.
 * Contributed to national- and state-level policy dialogue, technical working groups, and conferences.
