@@ -13,7 +13,7 @@ summary: A strategic partnership between DAI and Magister will help Magister acc
 
 *A strategic partnership between DAI and Magister will help Magister accelerate its growth in frontier and emerging markets, in addition to its European tech franchise, and support DAI’s efforts to mobilize commercial capital in the places that need it most.*
 
-![DAI Magister](/uploads/magister.png)
+![DAIMAGISTER-logo copy-d1ffeb.png](/uploads/DAIMAGISTER-logo%20copy-d1ffeb.png)
 
 <!--more-->
 
