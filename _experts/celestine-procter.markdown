@@ -3,7 +3,7 @@ title: Celestine Procter
 date: 2022-01-03 19:18:00 Z
 lastname: Procter
 summary: 'Celestine Procter is an Acting Principal Global Practice Manager in DAI’s
-  Conflict, Stabilization, and Peacebuilding. '
+  Conflict, Stabilization, and Peacebuilding practice. '
 job-title: Senior Principal Global Practice Specialist, Conflict, Stabilization, and
   Peacebuilding
 image: "/uploads/Celestine%20procter.jpeg"
