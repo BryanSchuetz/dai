@@ -12,7 +12,7 @@ country: Nigeria
 
 We are delighted to report that DAI—through [DAI Magister](https://www.daimagister.com/transactions), the investment fundraising and mergers and acquisitions (M&A) advisory arm of [DAI Capital](https://www.dai.com/our-work/solutions/dai-capital)—served as co-advisor for Capricorn Digital (trading as Baxi) in its recently announced [purchase by MFS Africa](https://qz.com/africa/2078996/mfs-africa-bought-baxis-agent-banking-for-cross-border-trade/). Baxi is one of Nigeria’s most prominent financial technology enterprises; South Africa-based MFS is one of the continent’s leading fintech players.
 
-![DAI-Magister-01.svg](/uploads/DAI-Magister-01.svg)
+![DAIMAGISTER-logo copy.png](/uploads/DAIMAGISTER-logo%20copy.png)
 
 Thought to be Nigeria’s [second-largest](https://techcabal.com/2021/10/20/mfs-africa-acquires-baxi/) fintech M&A transaction on record (the largest was Stripe’s $200 million purchase of Paystack last year), the deal represents a landmark for the continent: the first-ever tech acquisition of its kind by a South African firm in Nigeria. 
 
