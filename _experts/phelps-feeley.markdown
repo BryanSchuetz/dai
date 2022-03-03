@@ -11,6 +11,9 @@ solutions:
 - Fragile States
 - Governance
 - Peace-Building and Political Transition
+- Countering Extremism
+- Security and Justice
+- Stabilization
 regions:
 - Eastern Europe and Central Asia
 ---
