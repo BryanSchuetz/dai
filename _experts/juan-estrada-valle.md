@@ -8,7 +8,6 @@ job-title: Vice President, USG Strategic Growth Initiatives
 image: "/uploads/Juan.jpg"
 solutions:
 - Economic Growth
-- Stabilization
 - Trade
 - Supply Chain
 regions:
