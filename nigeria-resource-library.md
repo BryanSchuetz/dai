@@ -76,7 +76,7 @@ search.addWidget(
     //  },
       templates: {
         empty: 'No results',
-        item: '<a class="alg-link" href="https://dai-assets.s3.amazonaws.com/nigeria-resource-library/{{docFilename}}"><h3 class="alg-title">{{{docTitle}}}</h3></a><p style="font-size: .8rem; margin-bottom: .1rem;">{{#year}}{{year}} | {{/year}}<strong>{{organization}}</strong></p><img class="docThumbnail" style="width: 15%; margin-top: .5rem; margin-bottom: 0px; float: left; margin-right: 1rem; margin-bottom: .5rem;" src="https://dai-assets.s3.amazonaws.com/nigeria-resource-library/thumbnails/placeholder.jpg"/><span class="alg-text">{{#docSummary}}{{{_snippetResult.docSummary.value}}}{{/docSummary}}{{^docSummary}}{{{_snippetResult.summary.value}}}{{/docSummary}}</span><br><hr style="clear: left;">'
+        item: '<a class="alg-link" href="https://dai-assets.s3.amazonaws.com/nigeria-resource-library/files/{{docFilename_NigeriaSparcSharePoint}}.pdf"><h3 class="alg-title">{{{docTitle}}}</h3></a><p style="font-size: .8rem; margin-bottom: .1rem;">{{#year}}{{year}} | {{/year}}<strong>{{organization}}</strong></p><img class="docThumbnail" style="width: 15%; margin-top: .5rem; margin-bottom: 0px; float: left; margin-right: 1rem; margin-bottom: .5rem;" src="https://dai-assets.s3.amazonaws.com/nigeria-resource-library/thumbnails/{{docFilename_NigeriaSparcSharePoint}}_page1.jpeg"/><span class="alg-text">{{#docSummary}}{{{_snippetResult.docSummary.value}}}{{/docSummary}}{{^docSummary}}{{{_snippetResult.summary.value}}}{{/docSummary}}</span><br><hr style="clear: left;">'
           }
         })
       );
