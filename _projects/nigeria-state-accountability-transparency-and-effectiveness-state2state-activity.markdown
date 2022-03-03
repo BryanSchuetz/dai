@@ -28,4 +28,9 @@ We partner with key Nigerian organizations to capture, document, and share best 
 * Harness the rapid expansion of technology to foster networks and connectivity, improve access to government services, and enhance administrative systems. 
 * Cultivate a culture of learning across our networked staffing structure and use tested monitoring and evaluation tools—political economy analysis and thinking and working politically to track political will, and capacity assessments—to inform implementation.
 * Strengthen the governance structures and capacity necessary to improve service delivery performance.
-* Strengthen partnerships among independent state bureaus of procurement or due process offices, agencies, state ministries of finance, SHoAs, auditors, civil society actors, and the private sector.  
+* Strengthen partnerships among independent state bureaus of procurement or due process offices, agencies, state ministries of finance, SHoAs, auditors, civil society actors, and the private sector. 
+
+### Select Results
+
+* Reviewed consolidated state and revenue codes in Ebonyi and Adamawa and established seven new codes that were adopted by the states and used for the 2022 budgets.
+* Supported states in increasing their World Bank States Fiscal Transparency, Accountability, and Sustainability Program standing. 
