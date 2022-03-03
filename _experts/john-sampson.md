@@ -12,6 +12,8 @@ image: "/uploads/John%20Sampson.jpg"
 solutions:
 - Fragile States
 - Stabilization
+- Peace-Building and Political Transition
+- Countering Extremism
 regions:
 - Sub-Saharan Africa
 - Eastern Europe and Central Asia
