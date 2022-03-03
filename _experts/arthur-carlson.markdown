@@ -8,8 +8,11 @@ summary: 'Arthur Carlson is an international development practitioner with 25 ye
 job-title: Director, Project Delivery Team, Stabilization and Peacebuilding
 image: "/uploads/Arthur%20Carlson%201.jpg"
 solutions:
-- Stability
+- Stabilization
 - Fragile States
+- Countering Extremism
+- Peace-Building and Political Transition
+- Security and Justice
 ---
 
 Arthur Carlson is an international development practitioner with 25 years of experience leading complex projects in emergency response, community development, refugee assistance, infrastructure, and institutional system strengthening. Art manages a portfolio of governance and countering violent extremism projects ensuring quality programming, contractual compliance, and effective lines of communication between DAI, project teams, and clients. He has extensive technical experience in conflict and post-conflict programming, infrastructure projects, emergency relief, refugee protection and resettlement, humanitarian aid, portfolio management, and operational planning. 
