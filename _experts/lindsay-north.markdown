@@ -8,6 +8,10 @@ job-title: Senior Global Practice Specialist, Conflict, Stabilization, and Peace
 image: "/uploads/Lindsay%20North2.jpeg"
 solutions:
 - Fragile States
+- Security and Justice
+- Stabilization
+- Peace-Building and Political Transition
+- Countering Extremism
 regions:
 - Worldwide
 ---
