@@ -12,6 +12,9 @@ solutions:
 - Natural Resource Management
 - Fragile States
 - Stabilization
+- Security and Justice
+- Countering Extremism
+- Peace-Building and Political Transition
 regions:
 - Middle East and North Africa
 layout: expert
