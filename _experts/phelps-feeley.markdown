@@ -5,7 +5,7 @@ lastname: Feeley
 summary: 'Phelps Feeley has more than 10 years of experience in program design, leadership
   and management for political transition, governance, stabilization, peacebuilding,
   research, media, and civil society strengthening projects. '
-job-title: 'Chief of Party, Central Asia '
+job-title: Advisor, Conflict, Stabilization, and Peacebuilding
 image: "/uploads/Phelps%20Feeley.jpg"
 solutions:
 - Fragile States
