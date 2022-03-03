@@ -12,4 +12,4 @@ In insecure environments, it’s critical that community revitalization efforts 
 
 Our approach focuses on implementing rapid response initiatives that engage stakeholders in reconciliation and stabilization processes that build a base for long-term development. We seek to rebuild social capital through work with community institutions and support to culturally sensitive activities. We work with organizations and individuals to strengthen their capacity. We promote economic recovery and economic growth by engaging with the private sector.
 
-When crises develop, we adapt quickly, deploying staff and funds and adapting program interventions as needed. We respond to a range of needs, from micro-projects at the community level to provincial, national, and even regional work with a variety of organizations, institutions, and partners
+When crises develop, we adapt quickly, deploying staff and funds and adapting program interventions as needed. We respond to a range of needs, from micro-projects at the community level to provincial, national, and even regional work with a variety of organizations, institutions, and partners.
