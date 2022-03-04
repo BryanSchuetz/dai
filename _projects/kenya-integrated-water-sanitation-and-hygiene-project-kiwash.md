@@ -45,7 +45,7 @@ As county governments take on responsibility for investment in and oversight of 
 
 ### Select Results
 
-* Extended basic drinking water services to more than 874,388; another 69,566 gained access to basic sanitation services with 1,687 villages verified open-defecation free with monitoring plans in place.
+* Extended basic drinking water services to more than 874,388 people; another 69,566 gained access to basic sanitation services with 1,687 villages verified open-defecation free with monitoring plans in place.
 * Mobilized $44 million in new sector funding to expand the services or increase the efficiency of water service providers.
 * Supported 22 projects to install solar power.  
 * Provided training and technical assistance to 13 partner WSPs to improve their performance and ability to qualify for financing that can expand and improve water services; the focus is to achieve greater cost recovery from users, increased efficiency in service, improved governance, and access to financing.
