@@ -15,12 +15,12 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Pakistan
 promos:
+- title: Fleming Fund Pakistan 2021 Achievements - Infographic
+  link: "/uploads/Fleming%20Fund%20Pakistan%202021%20Achievements%20-%20Infographic.png"
 - title: President of Pakistan Calls for Massive Effort to Tackle Antimicrobial Resistance
   link: https://www.dai.com/news/president-of-pakistan-calls-for-massive-effort-to-tackle-antimicrobial-resistance
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
-- title: Fleming Fund Pakistan 2021 Achievements - Infographic
-  link: "/uploads/Fleming%20Fund%20Pakistan%202021%20Achievements%20-%20Infographic.png"
 Field name: 
 ---
 
