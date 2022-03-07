@@ -2,9 +2,9 @@
 title: South Africa—Technical Expertise and Implementation Support Services for the
   National School of Government (NSG)
 date: 2020-08-07 18:04:00 Z
-summary: 'DAI is strengthening the National School of Government (NSG) as a training
-  institution, rolling out three important training programmes—Breaking Barriers to
-  Entry, Compulsory Induction, and Reorientation programmes—and strengthening the
+summary: 'DAI assisted the NSG in fulfilling its mandate. Our intervention strengthened
+  the NSG as a training institution, rolled out three training programmes (Breaking
+  Barriers to Entry, Compulsory Induction, and Reorientation), and strengthened the
   network and collaborations of the NSG to create new opportunities for the school
   and its beneficiaries. '
 start: 2019
@@ -15,11 +15,15 @@ solutions:
 - Education
 regions: Sub-Saharan Africa
 country: South Africa
+promos:
+- title: Strengthening South Africa’s Public Sector Capacity to Drive Sustainable
+    Development
+  link: https://dai-global-developments.com/articles/strengthening-south-africas-public-sector-capacity-to-drive-sustainable-development
 ---
 
 The National School of Government (NSG) in South Africa contributes to the establishment of a capable, professional, and responsive public sector that is committed to, and has institutionalized, the values and policies of a developmental state. The NSG plays a critical role in building the professionalization of public service through learning and development interventions.
 
-DAI assists the NSG in fulfilling its mandate. Our intervention strengthens the NSG as a training institution, rolling out three important training programmes (Breaking Barriers to Entry, Compulsory Induction, and Reorientation), and strengthens the network and collaborations of the NSG to create new opportunities for the school and its beneficiaries. 
+DAI assisted the NSG in fulfilling its mandate. Our intervention strengthened the NSG as a training institution, rolled out three training programmes (Breaking Barriers to Entry, Compulsory Induction, and Reorientation), and strengthened the network and collaborations of the NSG to create new opportunities for the school and its beneficiaries. 
  
 ### Sample Activities
 
