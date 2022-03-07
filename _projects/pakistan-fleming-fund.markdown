@@ -19,6 +19,9 @@ promos:
   link: https://www.dai.com/news/president-of-pakistan-calls-for-massive-effort-to-tackle-antimicrobial-resistance
 - title: 'Data Makes a Difference: How We Are Tackling the Next Pandemic'
   link: https://dai-global-developments.com/articles/data-makes-a-difference-how-we-are-tackling-the-next-pandemic
+- title: Fleming Fund Pakistan 2021 Achievements - Infographic
+  link: "/uploads/Fleming%20Fund%20Pakistan%202021%20Achievements%20-%20Infographic.png"
+Field name: 
 ---
 
 The Fleming Fund is a U.K. Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s [Fleming Fund programme](https://www.flemingfund.org/) in Pakistan was a collaboration with the Pakistani government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in One Health, the DAI team helps incorporate One Health across programme interventions. DAI is helping Pakistan become a leader in combating antimicrobial resistance, and a model for better management of antimicrobials in human and animal populations.
