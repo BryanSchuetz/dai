@@ -28,8 +28,6 @@ The Fleming Fund is a U.K. Department of Health and Social Care programme to hel
 
 Fleming Fund Pakistan partners include the Aga Khan University, Health Security Partners, Indus Hospital Network, and Liverpool School of Tropical Medicine.
 
-<iframe src="https://player.vimeo.com/video/533971183" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
-
 <iframe src="https://player.vimeo.com/video/685423252" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
 ## Sample Activities
