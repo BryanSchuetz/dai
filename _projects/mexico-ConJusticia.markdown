@@ -37,3 +37,8 @@ After five years, ConJusticia, in close coordination with other U.S. Agency for 
 * Support internal processes and management of attorneys general offices and courts.
 * Improve communication, transparency, and accountability of justice sector institutions through proactive engagement with users and the public.
 * Engage private sector, civil society, and other relevant local organizations to identify problems and results together with justice system stakeholders and promote strengthened mechanisms for inter-institutional collaboration.
+
+### Select Results
+
+* Worked with four target states to design criminal prosecution policies that will lead to accountability and proper crime resolution.
+* Supported in Coahuila a multidisciplinary task force to strategically target impunity in home robberies; the task force has already begun criminal proceedings against 47 key suspects.
