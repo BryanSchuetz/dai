@@ -42,3 +42,4 @@ After five years, ConJusticia, in close coordination with other U.S. Agency for 
 
 * Worked with four target states to design criminal prosecution policies that will lead to accountability and proper crime resolution.
 * Supported in Coahuila a multidisciplinary task force to strategically target impunity in home robberies; the task force has already begun criminal proceedings against 47 key suspects.
+* Helped the Mexican Laboratory for Innovation in Criminal Justice establish a methodology and digital platform to document, disseminate, and exchange information on innovations for the transformation of Mexico’s criminal justice system.
