@@ -15,6 +15,9 @@ solutions:
 - Governance
 regions: Latin America and the Caribbean
 country: Mexico
+promos:
+- title: Ramping up Gender-Based Violence Prevention, Risk Mitigation, and Response
+  link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
 ---
 
 Over the last 10 years, the Government of Mexico introduced major reforms to improve the effectiveness, transparency, accessibility, and fairness of its criminal justice. However, its implementation has proceeded slowly and unevenly at the national and state levels. The lack of results of the reform and continued levels of impunity throughout Mexico have reduced citizen confidence in the government and called into question the legitimacy of the justice system. With high levels of violence and organized crime, and more than 30,000 homicides in 2019 alone, it is imperative that Mexican justice sector actors and citizens work together to make their communities safer and to ensure the rule of law is enforced. While the challenges are immense, there are opportunities as some states have shown a commitment to advancing the justice reform process and are eager to make progress toward reducing impunity and improving trust in their state-level institutions.
