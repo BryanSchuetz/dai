@@ -43,3 +43,5 @@ After five years, ConJusticia, in close coordination with other U.S. Agency for 
 * Worked with four target states to design criminal prosecution policies that will lead to accountability and proper crime resolution.
 * Supported in Coahuila a multidisciplinary task force to strategically target impunity in home robberies; the task force has already begun criminal proceedings against 47 key suspects.
 * Helped the Mexican Laboratory for Innovation in Criminal Justice establish a methodology and digital platform to document, disseminate, and exchange information on innovations for the transformation of Mexico’s criminal justice system.
+* Assisted justice operators in scaling a successful innovation developed with previous USAID support called *Alerta Naranja*, which provides a tech tool for inter-institutional collaboration that reduces the time of first responders to calls of domestic violence. 
+*Alerta Naranja* has resulted in significant reductions in the response time, from 42 minutes to 21 minutes on average in one area. 
