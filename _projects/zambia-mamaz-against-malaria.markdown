@@ -18,6 +18,9 @@ promos:
 - title: Empowering Women and Communities to Promote Universal Health Coverage in
     Rural Zambia
   link: https://www.tandfonline.com/doi/full/10.1080/09614524.2018.1508421
+- title: Health Equity for Women and Girls Requires Cultural Change, Participation,
+    and Local Influencers
+  link: https://dai-global-developments.com/articles/health-equity-for-women-and-girls-requires-cultural-change-participation-and-local-influencers
 ---
 
 Malaria is a serious public health problem in rural Zambia, particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years.

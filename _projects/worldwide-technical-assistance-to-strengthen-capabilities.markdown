@@ -24,6 +24,9 @@ promos:
   link: "/uploads/TASC%20Component%20Briefs%20C1.pdf"
 - title: "**Brief:** Technical Assistance to FCDO"
   link: "/uploads/TASC%20Component%20Briefs%20C2.pdf"
+- title: Health Equity for Women and Girls Requires Cultural Change, Participation,
+    and Local Influencers
+  link: https://dai-global-developments.com/articles/health-equity-for-women-and-girls-requires-cultural-change-participation-and-local-influencers
 ---
 
 The Technical Assistance to Strengthen Capabilities Project (TASC) aims to contribute to improved nutritional outcomes as part of the Technical Assistance for Nutrition (TAN) Programme funded by UK Aid. TAN works to improve coverage of multi-sectoral nutrition interventions to drive improvements in health and nutrition status within countries. TAN aims to achieve this by strengthening the enabling environment for nutrition at the global and country levels and strengthening the capacity of countries within the Scaling Up Nutrition (SUN) Movement, ultimately delivering policies and programmes that support the reduction of malnutrition. 
