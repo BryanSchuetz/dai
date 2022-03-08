@@ -13,6 +13,9 @@ solutions:
 - Market Systems and Value Chain
 regions: Sub-Saharan Africa
 country: Uganda
+promos:
+- title: Ramping up Gender-Based Violence Prevention, Risk Mitigation, and Response
+  link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
 ---
 
 The Feed the Future Inclusive Agricultural Markets (IAM) Activity works to increase incomes and improve livelihoods in Uganda by promoting agriculture-led economic growth.
