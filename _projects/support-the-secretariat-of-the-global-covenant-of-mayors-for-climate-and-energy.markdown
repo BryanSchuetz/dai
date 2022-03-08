@@ -31,7 +31,7 @@ The DAI team provides systematic and continual support to the Global GCoM Secret
 * Organise events to enhance the international visibility of the GCoM in coordination with the regional covenants.
 * Develop coordination mechanisms between the regional and the global covenants to improve coherence between their activities.
 * Develop the current IT and database infrastructure of the global covenant into a more cohesive platform for data collection, conversion, analysis, and storage. 
-* Further develop the regional covenant structures and competences in the context of the Paris Agreement, the 2030 Agenda, and EU Climate Diplomacy. 
+* Further develop the regional covenant structures and competencies in the context of the Paris Agreement, the 2030 Agenda, and EU Climate Diplomacy. 
 * Enhance promotion, coordination, technical support (help desks), and training activities for signatories nationally and regionally in coherence with the EU’s bilateral climate and energy dialogues. 
 * Facilitate exchanges of good practices and experience, within and across regional covenants and other regions. 
 * Develop regional capacities of scientific validation of inventories and Action Plans. 
