@@ -29,7 +29,7 @@ DAI is supporting a regional approach to support the transition towards sustaina
 ### Sample Activities 
 
 * Support sustainable climate and energy policies and strategies both at national and local levels.
-* Provide assistance for the formulation and implementation of local Sustainable Energy Access and Climate Action Plans in line with the [Global Covenant of Mayors](https://www.globalcovenantofmayors.org/) principles.
+* Assist in the formulation and implementation of local Sustainable Energy Access and Climate Action Plans in line with the [Global Covenant of Mayors](https://www.globalcovenantofmayors.org/) principles.
 * Identify concrete pilot actions and facilitate climate investments and the setup of finance mechanisms at national and local levels to accomplish those actions.
 
 ### Select Results
