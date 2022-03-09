@@ -31,4 +31,4 @@ GEFF Morocco II is co-financed by the European Union and the Green Climate Fund 
 * Train participating financial institutions to develop marketing strategies and activities to build customer awareness and fill the pipeline with clean energy projects.
 * Support the participating financial institutions in the development of loan products that specifically target the client base.
 * Support the sub-project lifecycle by contributing to the origination, preparation and financing of building-level energy efficiency sub-projects, including conducting eligibility assessments. 
-* Implement a Gender Action Plan based on the country-level Gender Baseline Assessment on the awareness of climate change risk, differentiated needs and coping strategies, as well as and obstacles to access finance for green technologies for women and men.
+* Implement a Gender Action Plan based on the country-level Gender Baseline Assessment on the awareness of climate change risk, differentiated needs and coping strategies, as well as obstacles to access finance for green technologies for women and men.
