@@ -19,7 +19,7 @@ The Global Symposium on Health Systems Research is organized every two years by 
 
 **Monday, October 8**
 
-DAI Global Health is hosting a One Health simulation to build skills in multisectoral coordination for preparedness and response to public health threats. Facilitated by DAI’s [Jeff Mecaskey](https://www.dai.com/who-we-are/our-team/jeffrey-mecaskey), Susan Scribner, [Miniratu Soyoola](https://www.dai.com/who-we-are/our-team/miniratu-soyoola), and [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley), this session provides a practical opportunity for participation and learning on evidence related to advancing One Health and sustainable multisectoral coordination in practice.
+DAI Global Health is hosting a One Health simulation to build skills in multisectoral coordination for preparedness and response to public health threats. Facilitated by DAI’s Jeff Mecaskey, Susan Scribner, [Miniratu Soyoola](https://www.dai.com/who-we-are/our-team/miniratu-soyoola), and [Paula Quigley](https://www.dai.com/who-we-are/our-team/paula-quigley), this session provides a practical opportunity for participation and learning on evidence related to advancing One Health and sustainable multisectoral coordination in practice.
 
 Quigley and Eva Rahman will support the facilitation of an IntraHealth-hosted skills-building session, "How to Translate Health Systems Research into Powerful Advocacy Messages, Op-Eds, and Thought Leadership."
 
