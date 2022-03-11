@@ -16,15 +16,6 @@ regions:
 country:
 - Regional
 promos:
-- title: USAID’s Seed Trade Project Supports SADC’s Commitment to Plant Health in
-    2020 and Beyond
-  link: https://www.usaid.gov/southern-africa-regional/news/usai-seed-trade-project-support-sadcs-commitment-plant-health-2020
-- title: With USAID Support, SADC Countries with Seed Deficit Could Find Relief Soon
-  link: https://www.usaid.gov/southern-africa-regional/news/usaid-support-sadc-countries-seed-deficits-could-find-relief-soon
-- title: Zambia First SADC Nation to Domesticate SADC HSRS
-  link: "/uploads/FINAL%20Zambia%20First%20SADC%20Nation%20to%20Domesticate%20SADC%20HSRS.pdf"
-- title: SADC Seed Variety Catalogue Additions
-  link: "/uploads/FINAL%20SADC%20Seed%20Variety%20Catalogue%20Additions%2009%2011%2020.pdf"
 - title: Improving Seed Trade in Southern Africa
   link: https://www.usglc.org/global-impact-project/stories/seeding-food-security
 - title: 'Food for Thought: Raising Women Through Agriculture '
@@ -52,7 +43,7 @@ promos:
 layout: project
 ---
 
-The Seed Trade Project works to improve the availability of and access to high-quality seed in the Southern African Development Community (SADC) countries. The project supports the SADC Secretariat to harmonize policies and regulations governing seed trade in the SADC Member States. The work facilitates seed trade across the region, integrating small and isolated national markets into one larger SADC-wide market for seeds. This, in turn, increases agricultural productivity and profitability and subsequent food and nutrition security.
+The Seed Trade Project works to improve the availability of and access to high-quality seed in the Southern African Development Community (SADC) countries. The project supports the SADC Secretariat to harmonize policies and regulations governing seed trade in the SADC Member States. The work facilitates seed trade across the region, integrating small and isolated national markets into one larger SADC-wide market for seeds. This, in turn, [increases agricultural productivity](https://www.usglc.org/global-impact-project/stories/seeding-food-security) and profitability and subsequent food and nutrition security.
 
 The [Feed the Future Enabling Environment for Food Security (2016) Report](https://agrilinks.org/activities/feed-future-enabling-environment-food-security-project) found that small national variations among regulations related to variety release, seed certification, and quality control, and quarantine and phytosanitary regulations lead to increased transaction costs and duplicative procedures, which together not only raise the cost, but also increase the time required to get seeds to farmers.
 
@@ -63,7 +54,7 @@ The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Z
 ### Sample Activities
 
 * Operationalize the SADC Seed Centre.
-* Engage with seed companies to apply for and register seed varieties on the SADC Seed Variety Catalogue so they can be eligible for regional production and trade.
+* [Engage with seed companies](https://www.usaid.gov/southern-africa-regional/news/usai-seed-trade-project-support-sadcs-commitment-plant-health-2020) to apply for and register seed varieties on the SADC Seed Variety Catalogue so they can be eligible for regional production and trade.
 * Domesticate and harmonize seed policies within the SADC region.
 * Grant awards to produce and trade high-quality seed and pressure test the SADC Harmonized Seed Regulatory System (HSRS) for scale-up; infrastructure and capacity-building; and raise awareness of the HSRS across the SADC region.
 * Provide institutional and human capacity building for seed delivery including management practices and proper crop inspections.
@@ -79,7 +70,7 @@ The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Z
 * Trained more than 2,000 individuals on the SADC HSRS Seed Variety Release, Seed Certification and Quality Assurance, Quarantine and Phytosanitary Measures for Seed, and improved business management practices.
 * Engaged with 15 seed companies and now have 96 seed varieties released regionally and registered on the SADC Variety Catalogue—maize, Irish potato, sorghum, soybean, beans, wheat, groundnuts, and cotton—and they are all eligible for regional production and trade. This represents a 284 percent increase from when the project started. 
 * [Partnered with Seed Co. Zambia](https://www.usaid.gov/southern-africa-regional/news/seed-zambia-fields-democratic-republic-congo) through a grant to pilot and pressure-test the SADC HSRS’ Seed Labels and Certificates in 2019. Seed Co. Zambia produced 226 metric tons of hybrid maize seed, of which 200 metric tons were exported to the Democratic Republic of Congo. Three more seed companies—Lake Agriculture of Zambia, [Zimbabwe Super Seeds Cooperative Company](https://www.usaid.gov/southern-africa-regional/news/regional-seed-trade-empowers-farmers-and-bolsters-food-security), and Peacock Seeds of Malawi—engaged in 2020 to further test the SADC HSRS as a second phase pilot, producing a combined 475 metric tons of improved seed for export to Mozambique. All four pilot productions totaled 701 metric tons, valued at $1,268,000. Of the 701 metric tons produced, 516 metric tons was exported.
-* Lake Agriculture, Seed Co. Zambia, and Zimbabwe Super Seeds scaled up the SADC Seed Labels and Certificates post piloting through seed productions under the SADC HSRS during the 2020-21 planting season using their own resources, with only technical assistance from the project. Together, the three seed companies produced 2,109 metric tons of improved seed and exported 1,640 metric tons to DRC and Mozambique. The combined pilot and scale-up productions totaled 2,810 metric tons of high-quality seed produced and traded under the SADC HSRS (624 percent above LOP target) for a total value of $5,038,590, which surpasses the project's target by nearly 500 percent. Given the U.S. Government’s initial investment during the pilot phase, this total also marks a 564 percent of leveraged investment. 
+* Lake Agriculture, Seed Co. Zambia, and [Zimbabwe Super Seeds](https://www.usaid.gov/southern-africa-regional/news/usaid-support-sadc-countries-seed-deficits-could-find-relief-soon) scaled up the SADC Seed Labels and Certificates post piloting through seed productions under the SADC HSRS during the 2020-21 planting season using their own resources, with only technical assistance from the project. Together, the three seed companies produced 2,109 metric tons of improved seed and exported 1,640 metric tons to DRC and Mozambique. The combined pilot and scale-up productions totaled 2,810 metric tons of high-quality seed produced and traded under the SADC HSRS (624 percent above LOP target) for a total value of $5,038,590, which surpasses the project's target by nearly 500 percent. Given the U.S. Government’s initial investment during the pilot phase, this total also marks a 564 percent of leveraged investment. 
 * Digitized seed quality assurance in Malawi, Mozambique, and Zambia by developing and operationalizing an Online Seed Certification System to the National Seed Authorities and seed producers, both private and public.
 * Transferred 12 technologies and management practices to SADC Member States, including the three online seed certification systems, new management practice/laboratory technology, and new seed varieties.
 * Revamped the [SADC Seed Centre website](https://www.sadcseedcentre.com/).
