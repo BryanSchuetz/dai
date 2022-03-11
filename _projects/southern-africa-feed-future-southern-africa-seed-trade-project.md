@@ -16,20 +16,6 @@ regions:
 country:
 - Regional
 promos:
-- title: 'Food for Thought: Raising Women Through Agriculture '
-  link: https://www.usaid.gov/southern-africa-regional/news/food-thought-raising-women-through-agriculture
-- title: 'State-of-the-Art Digital Microscope Positions Zambia for Increased International
-    Seed Trade '
-  link: https://www.usaid.gov/southern-africa-regional/news/state-art-digital-microscope-positions-zambia-increased-international-seed
-- title: 'VIDEO: What is the Relationship between the OECD Seed Schemes and the SADC
-    HSRS? '
-  link: https://youtu.be/yvJ5ANSg2J0
-- title: 'VIDEO: USG Transfers Nearly $200,000 in Seed Testing Technology and Lab
-    Equipment to Mozambique'
-  link: https://youtu.be/FjtZI-fwjLo
-- title: 'VIDEO: USAID Supports Maiden Export of Seed Produced and Certified under
-    the SADC Harmonized Seed Regulatory System'
-  link: https://www.linkedin.com/posts/itai-m-50791a31_seed-law-harmonization-in-sadc-gathers-momentum-activity-6634476458905604096-qAe7
 - title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 1)'
   link: https://youtu.be/EYMZvZGRe_g
 - title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 2)'
@@ -70,5 +56,5 @@ The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Z
 * [Partnered with Seed Co. Zambia](https://www.usaid.gov/southern-africa-regional/news/seed-zambia-fields-democratic-republic-congo) through a grant to pilot and pressure-test the SADC HSRS’ Seed Labels and Certificates in 2019. Seed Co. Zambia produced 226 metric tons of hybrid maize seed, of which 200 metric tons were exported to the Democratic Republic of Congo. Three more seed companies—Lake Agriculture of Zambia, [Zimbabwe Super Seeds Cooperative Company](https://www.usaid.gov/southern-africa-regional/news/regional-seed-trade-empowers-farmers-and-bolsters-food-security), and Peacock Seeds of Malawi—engaged in 2020 to further test the SADC HSRS as a second phase pilot, producing a combined 475 metric tons of improved seed for export to Mozambique. All four pilot productions totaled 701 metric tons, valued at $1,268,000. Of the 701 metric tons produced, 516 metric tons was exported.
 * Lake Agriculture, Seed Co. Zambia, and [Zimbabwe Super Seeds](https://www.usaid.gov/southern-africa-regional/news/usaid-support-sadc-countries-seed-deficits-could-find-relief-soon) scaled up the SADC Seed Labels and Certificates post piloting through seed productions under the SADC HSRS during the 2020-21 planting season using their own resources, with only technical assistance from the project. Together, the three seed companies produced 2,109 metric tons of improved seed and exported 1,640 metric tons to DRC and Mozambique. The combined pilot and scale-up productions totaled 2,810 metric tons of high-quality seed produced and traded under the SADC HSRS (624 percent above LOP target) for a total value of $5,038,590, which surpasses the project's target by nearly 500 percent. Given the U.S. Government’s initial investment during the pilot phase, this total also marks a 564 percent of leveraged investment. 
 * Digitized seed quality assurance in Malawi, Mozambique, and Zambia by developing and operationalizing an Online Seed Certification System to the National Seed Authorities and seed producers, both private and public.
-* Transferred 12 technologies and management practices to SADC Member States, including the three online seed certification systems, new management practice/laboratory technology, and new seed varieties.
+* Transferred 12 [technologies](https://youtu.be/FjtZI-fwjLo) and management practices to SADC Member States, including the three online seed certification systems, new management practice/[laboratory technology](https://www.usaid.gov/southern-africa-regional/news/state-art-digital-microscope-positions-zambia-increased-international-seed), and new seed varieties.
 * Revamped the [SADC Seed Centre website](https://www.sadcseedcentre.com/).
