@@ -16,8 +16,6 @@ regions:
 country:
 - Regional
 promos:
-- title: Improving Seed Trade in Southern Africa
-  link: https://www.usglc.org/global-impact-project/stories/seeding-food-security
 - title: 'Food for Thought: Raising Women Through Agriculture '
   link: https://www.usaid.gov/southern-africa-regional/news/food-thought-raising-women-through-agriculture
 - title: 'State-of-the-Art Digital Microscope Positions Zambia for Increased International
@@ -57,7 +55,7 @@ The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Z
 * [Engage with seed companies](https://www.usaid.gov/southern-africa-regional/news/usai-seed-trade-project-support-sadcs-commitment-plant-health-2020) to apply for and register seed varieties on the SADC Seed Variety Catalogue so they can be eligible for regional production and trade.
 * Domesticate and harmonize seed policies within the SADC region.
 * Grant awards to produce and trade high-quality seed and pressure test the SADC Harmonized Seed Regulatory System (HSRS) for scale-up; infrastructure and capacity-building; and raise awareness of the HSRS across the SADC region.
-* Provide institutional and human capacity building for seed delivery including management practices and proper crop inspections.
+* Provide institutional and [human capacity](https://www.usaid.gov/southern-africa-regional/news/food-thought-raising-women-through-agriculture) building for seed delivery including management practices and proper crop inspections.
 * Facilitate technology transfer, including [digitizing seed quality assurance](http://dai-global-developments.com/articles/four-recommendations-for-strengthening-seed-systems/) through the development and operationalization of Online Seed Certification Systems and Seed Inspector Trainings, updates to and training on diagnostic and testing equipment.
 
 ### Select Results
