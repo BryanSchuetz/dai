@@ -8,10 +8,10 @@ summary: 'As Vice President in DAI’s Development Partners Group, Luqman Ahmad 
 job-title: Vice President, Global Technical Businesses
 image: "/uploads/Ahmad,%20Luqman%20-%20Photo.jpg"
 solutions:
-- Global Health
 - Climate
-- Finance and Investment
 - Economic Growth
+- Global Health
+- Finance and Investment
 regions:
 - Worldwide
 ---
