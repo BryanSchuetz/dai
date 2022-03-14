@@ -11,6 +11,7 @@ solutions:
 - Global Health
 - Climate
 - Finance and Investment
+- Economic Growth
 regions:
 - Worldwide
 ---
