@@ -193,7 +193,7 @@ layout: careers
                             <h2 class="item--name"> Tamara Stanton </h2>
                             <h3 class="item--title">Senior Principal Advisor</h3>
                             <div class="line"></div>
-                            <p> Since 2000, Tamara has held corporate and project-level roles in new business, recruiting, and project implementation. In all positions she’s held – head of DAI’s U.S. Government Business Development Unit, Innovation and Engagement Advisor on USAID’s Grand Challenges for Development program, and new business manager – Tamara embodies DAI’s values and passion for development. </p>
+                            <p> Since 2000, Tamara has held corporate and project-level roles in new business, recruiting, and project implementation. In all positions she’s held—head of DAI’s U.S. Government Business Development Unit, Innovation and Engagement Advisor on USAID’s Grand Challenges for Development program, and new business manager—Tamara embodies DAI’s values and passion for development. </p>
                         </div>
                     </div>
                 </div>
