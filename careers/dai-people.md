@@ -176,9 +176,9 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Nate Bourns </h2>
-                            <h3 class="item--title"> Vice President </h3>
+                            <h3 class="item--title"> Vice President, Geographic and Digital Platforms </h3>
                             <div class="line"></div>
-                            <p>Nate is charged with ensuring that DAI makes the most of its geographic footprint, focusing on countries such as Nigeria, where we have large project portfolios and business development pipelines across multiple customers. Previously, he led our Europe-based Technical Services and Business Development teams in designing, managing, and providing technical assistance to DAI’s projects with the U.K. Department for International Development, the European Commission, and other clients.</p>
+                            <p>Nate works across all DAI business units and corporate offices to build a next-generation operating model. He is responsible for developing and executing DAI’s digital strategy and leading the company’s corporate presence in key geographies such as Colombia, Nigeria, Pakistan, and Palestine.</p>
                         </div>
                     </div>
                 </div>
