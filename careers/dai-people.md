@@ -208,7 +208,7 @@ layout: careers
                             <h2 class="item--name"> Kieran Griffin </h2>
                             <h3 class="item--title">Senior Consultant</h3>
                             <div class="line"></div>
-                            <p> A member of DAI Europe’s Business Development Unit since 2013, Kieran focuses on creating compelling proposals for the U.K. Department for International Development and Foreign and Commonwealth Office work. </p>
+                            <p> A member of DAI’s European Business Development Unit since 2013, Kieran focuses on creating compelling proposals for the U.K. Foreign, Commonwealth & Development Office work. </p>
                         </div>
                     </div>
                 </div>
