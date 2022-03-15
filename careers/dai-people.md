@@ -1,7 +1,6 @@
 ---
 title: DAI People
 permalink: "/careers/dai-people"
-layout: careers
 careers: true
 feature-title: DAI employs talented professionals all over the world in support of
   our mission.
@@ -10,6 +9,7 @@ feature-text: In DAI’s corporate offices and on our projects across the globe,
   management, business development, finance, human resources, IT, procurement, monitoring
   and evaluation, and communications.
 hero-package: dai-people
+layout: careers
 ---
 
 <section class="people" id="technical">
@@ -55,7 +55,7 @@ hero-package: dai-people
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Ejonta Pashaj </h2>
-                            <h3 class="item--title"> Principal Global Practice Leader </h3>
+                            <h3 class="item--title"> Vice President, USG Business Development </h3>
                             <div class="line"></div>
                             <p> Ejonta’s areas of expertise include decentralization, local government strengthening and service delivery improvement, citizen participation, community development, and outreach and anticorruption strategies. Ejonta leads DAI’s Local Governance global practice area, developing and delivering integrated solutions for DAI’s projects and business development initiatives. </p>
                         </div>
