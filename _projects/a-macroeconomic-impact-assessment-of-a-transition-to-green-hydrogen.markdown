@@ -1,6 +1,7 @@
 ---
 title: A Macroeconomic Impact Assessment of a Transition to Green Hydrogen
 date: 2022-03-16 09:00:00 Z
+published: false
 summary: 'DAI assessed the economic impact of a national energy transition from fossil
   fuels toward clean hydrogen-based solutions. '
 start: 2021
