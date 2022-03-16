@@ -108,9 +108,9 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Dave Whitfield </h2>
-                            <h3 class="item--title"> Field Operations Manager </h3>
+                            <h3 class="item--title"> Director, Regional Finance and Operations </h3>
                             <div class="line"></div>
-                            <p> Dave has been providing home office management and support for DAI projects since 2008. As the Field Operations Manager for the Preparedness & Response project, he enables national governments to establish and strengthen systems, policies, and practices for the prevention, detection, response, and control of emerging disease threats. </p>
+                            <p> Dave has been providing home office management and support for DAI projects since 2008. As Director of Regional Finance and Operations for Global Programs, he oversees the management of project-wide operations for an $884 million portfolio. </p>
                         </div>
                     </div>
                 </div>
