@@ -123,9 +123,9 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Miguel Baca </h2>
-                            <h3 class="item--title">Senior Director, Environment and Health </h3>
+                            <h3 class="item--title">Director for Strategy, Operations and Finance at USG Programs </h3>
                             <div class="line"></div>
-                            <p> Miguel is DAI's Director of Environment and Health for the Latin America & Caribbean / Global Region. Since 2008, he has served as DAI’s technical leader in all tourism-related initiatives, developing and implementing innovative approaches in rural, community-based, and small enterprise-focused tourism programs. </p>
+                            <p> As Director for Strategy, Operations and Finance, Miguel is responsible for overseeing the creation, coordination, and implementation of effective operational and financial standards and procedures across all regions in DAI’s USG Programs Unit. </p>
                         </div>
                     </div>
                 </div>
