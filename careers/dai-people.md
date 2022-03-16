@@ -70,7 +70,7 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Christina Frey </h2>
-                            <h3 class="item--title"> Senior Consultant </h3>
+                            <h3 class="item--title"> Director, Governance  </h3>
                             <div class="line"></div>
                             <p> Christina specializes in sustainable development, public sector governance, and political economy analysis. A governance consultant on the Europe Technical Services team, she works on public sector projects and business development activities with a focus on governance and accountability reform, and public service delivery. </p>
                         </div>
@@ -294,7 +294,7 @@ layout: careers
                 <h1 class="title line">Our Team</h1>
                 <div class="copy">
                     <p>
-                        We are a global team of individuals. We come from different continents and countries, and speak different languages but we share the same mission – to bring sound and creative solutions to some of the biggest challenges in international development.
+                        We are a global team of individuals. We come from different continents and countries, and speak different languages but we share the same mission—to bring sound and creative solutions to some of the biggest challenges in international development.
                     </p>
                     <p class="hidden-xs">Click on the photographs below to learn more about our people, their backgrounds, and their work.</p>
                 </div>
