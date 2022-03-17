@@ -1,7 +1,7 @@
 ---
 title: Chris Gibbins
 date: 2022-01-31 11:24:00 Z
-job-title: Project Finance Manager
+job-title: Director, Financial Management
 email: chris_gibbins@dai.com
 summary: Chris leads the U.K.'s HMG business partnering team, which provides financial
   operations and support to all programs within the HMG business unit. Chris has more
