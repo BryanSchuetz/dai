@@ -5,9 +5,11 @@ summary: 'DAI assessed the economic impact of a national energy transition from 
   fuels toward clean hydrogen-based solutions. '
 start: 2021
 end: 2021
+client: Public sector client
 solutions:
 - Sustainable Business
 regions: Middle East and North Africa
+country: Regional
 Field name: 
 ---
 
