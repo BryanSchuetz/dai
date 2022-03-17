@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+*[RFP 2022-05 Mod 1](https://dai-assets.s3.amazonaws.com/rfps/RFP%202022-05%20Mod%201.pdf "3/23")
+* [RFP# REQ-PRE-22-0006 - Research on Related Infrastructure Needs](https://dai-assets.s3.amazonaws.com/rfps/RFP%23%20REQ-PRE-22-0006%20-%20Research%20on%20Related%20Infrastructure%20Needs.pdf "3/23")
 * [Tunisia FAST REQ-TUN-22-0011 GOT Budgeting Solution](https://dai-assets.s3.amazonaws.com/rfps/Tunisia%20FAST%20REQ-TUN-22-0011%20GOT%20Budgeting%20Solution.pdf "4/5")
 * [EGA-RFQ for Simultaneous Translation](https://dai-assets.s3.amazonaws.com/rfps/EGA-RFQ%20for%20Simultaneous%20Translation%20.pdf "3/25")
 * [RFP 2022-05 Online Gender Training](https://dai-assets.s3.amazonaws.com/rfps/RFP%202022-05%20Online%20Gender%20Training.pdf "4/2")
