@@ -1,6 +1,7 @@
 ---
 title: Elizabeth Elfman
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Elfman
 summary: Elizabeth Elfman, a health specialist, began her career in Massachusetts
   working to accelerate health care delivery. Seven years later she has accrued a
