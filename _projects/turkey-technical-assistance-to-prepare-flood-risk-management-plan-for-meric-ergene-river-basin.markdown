@@ -24,6 +24,8 @@ Our project works to reduce the adverse consequences of flood events for human h
 
 In addition to this, the project has the broader relevance for the national reform to provide workshops to a range of stakeholders to strengthen the capacities of the national, river basin, and local authorities on planning, and implementation of the flood risk management plans. 
 
+![Turkey_Meric River Basin (2).jpg](/uploads/Turkey_Meric%20River%20Basin%20(2).jpg)`Stock image of the Meriç-Ergene River Basin.` 
+
 ### Sample Activities
 
 * Support the implementation of the Flood Risks Assessment and Management Directive.
