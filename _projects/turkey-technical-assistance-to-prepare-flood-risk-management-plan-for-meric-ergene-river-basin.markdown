@@ -22,7 +22,7 @@ Extreme flood events have caused serious economic, social, and environmental imp
 
 Our project works to reduce the adverse consequences of flood events for human health, environment, cultural heritage, and economic activity through assessment and management of flood risk. This intervention focuses on the preparation of flood risk management plans for the Meriç-Ergene River Basin, which is situated in Turkey’s northwest on the boundaries with Greece and Bulgaria.
 
-In addition to this, the project has the broader relevance for the national reform to provide workshops to a range of stakeholders to strengthen the capacities of the national, river basin, and local authorities on planning, and implementation of the flood risk management plans. 
+The project provides workshops to a range of stakeholders to strengthen the capacities of the national, river basin, and local authorities on planning, and implementation of the flood risk management plans. 
 
 ![Turkey_Meric River Basin (2).jpg](/uploads/Turkey_Meric%20River%20Basin%20(2).jpg)`Stock image of the Meriç-Ergene River Basin.` 
 
