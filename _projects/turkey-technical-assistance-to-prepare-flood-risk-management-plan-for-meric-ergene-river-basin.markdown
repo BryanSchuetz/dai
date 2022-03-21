@@ -20,7 +20,7 @@ country: Turkey
 
 Extreme flood events have caused serious economic, social, and environmental impacts and losses in human life, which have significantly increased in recent years in Turkey. In this regard, the European Union’s Floods Directive is the most substantial piece of European flood risk management policy, which also requires Turkey to adapt the directive and prepare an individual implementation plan to advance the accession to the European Union.
 
-Our project works to reduce the adverse consequences of flood events for human health, environment, cultural heritage, and economic activity through assessment and management of flood risk. This intervention focuses on the preparation of flood risk management plans for the Meriç-Ergene River Basin. 
+Our project works to reduce the adverse consequences of flood events for human health, environment, cultural heritage, and economic activity through assessment and management of flood risk. This intervention focuses on the preparation of flood risk management plans for the Meriç-Ergene River Basin, which is situated in Turkey’s northwest on the boundaries with Greece and Bulgaria.
 
 In addition to this, the project has the broader relevance for the national reform to provide workshops to a range of stakeholders to strengthen the capacities of the national, river basin, and local authorities on planning, and implementation of the flood risk management plans. 
 
