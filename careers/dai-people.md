@@ -206,9 +206,9 @@ layout: careers
                         </div>
                         <div class="info">
                             <h2 class="item--name"> Kieran Griffin </h2>
-                            <h3 class="item--title">Senior Consultant</h3>
+                            <h3 class="item--title">Principal Consultant and Bid Director</h3>
                             <div class="line"></div>
-                            <p> A member of DAI’s European Business Development Unit since 2013, Kieran focuses on creating compelling proposals for the U.K. Foreign, Commonwealth & Development Office work. </p>
+                            <p> Kieran is responsible for identifying and directing new business opportunities across DAI’s technical portfolio for key clients such as the U.K. Foreign, Commonwealth and Development Office and the World Bank. Kieran provides leadership, marketing, technical, and commercial expertise while maintaining and enhancing effective partnerships with clients, partners, and other stakeholders. </p>
                         </div>
                     </div>
                 </div>
