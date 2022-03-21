@@ -1,6 +1,7 @@
 ---
 title: Samantha Weinberg
 date: 2019-08-15 18:21:00 Z
+published: false
 lastname: Weinberg
 summary: 'Samantha Weinberg is the Associate Manager of Products and Innovation at
   DAI’s Center for Digital Acceleration. '
