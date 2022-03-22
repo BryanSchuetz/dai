@@ -13,6 +13,8 @@ solutions:
 regions: Asia and the Pacific
 country: Philippines
 promos:
+- title: How USAID Helps Filipino Families Access Affordable Toilets and Septic Tanks
+  link: https://medium.com/usaid-2030/virgies-hope-for-better-sanitation-b09203ad509f
 - title: Confronting Climate Uncertainty Head on in the Philippines
   link: https://medium.com/usaid-global-waters/confronting-climate-uncertainty-head-on-in-the-philippines-17d2666536b0
 - title: Four Ways USAID is Taking Action on Climate Change through Water
