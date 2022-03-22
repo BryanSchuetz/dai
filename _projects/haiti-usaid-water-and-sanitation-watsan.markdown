@@ -14,6 +14,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: Haiti
 promos:
+- title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
+  link: https://dai-global-developments.com/articles/beyond-the-washroom-sustainable-systemwide-approaches-for-good-sanitation
 - title: Haiti Declared Free of Cholera
   link: https://www.dai.com/news/haiti-declared-free-of-cholera
 - title: Creating a Roadmap for Sustainable Water Service Delivery in Haiti
