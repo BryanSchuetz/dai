@@ -17,6 +17,8 @@ regions:
 country:
 - Kenya
 promos:
+- title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
+  link: https://dai-global-developments.com/articles/beyond-the-washroom-sustainable-systemwide-approaches-for-good-sanitation
 - title: Kenyan County Sets Sights on Lofty WASH Goals
   link: https://medium.com/usaid-global-waters/kenyan-county-sets-sights-on-lofty-wash-goals-958c3c164a0
 - title: Clean Water = Education, Access, Opportunity
