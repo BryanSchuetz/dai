@@ -17,7 +17,7 @@ country: Vietnam
 
 DAI’s Sustainable Business Group assisted VF Corporation—one of the world’s largest apparel, footwear and accessories companies—to reduce COVID transmission and safely re-open key supplier factories to employees during the COVID-19 pandemic, while maintaining business continuity. DAI oversaw a COVID-19 response program that directly supported factories across process development, procurement, and training, and saw the safe reopening of seven VF supply chain factories in compliance with Vietnam’s government guidelines. 
 
-\*\*DAI’s support included:\*\*
+**DAI’s support included:**
 
 * Providing personal protective equipment and test kits for workers.
 
