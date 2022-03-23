@@ -27,18 +27,17 @@ The program focused on maternal and newborn health (MNH), family planning, sexua
 
 **Supported factory clinics to strengthen health promotion, quality of service, and referrals:**
 
-· Trained clinic staff; health, safety, and environment officers; and peer educators and workers.
+*Trained clinic staff; health, safety, and environment officers; and peer educators and workers.
 
-· Developed or strengthened 56 standard operating procedures (SOPs) and introduced a quality assurance tool to monitor the maintenance of standards.
+*Developed or strengthened 56 standard operating procedures (SOPs) and introduced a quality assurance tool to monitor the maintenance of standards.
 
-· Secured more advanced care for factory workers by facilitating referral agreements between factories and health facilities.
+*Secured more advanced care for factory workers by facilitating referral agreements between factories and health facilities.
 
 **Responded swiftly to COVID-19 surge:**
 
-· Distributed COVID-19 health promotion materials, developed and strengthened COVID-related SOPs, and provided relevant training.
+*Distributed COVID-19 health promotion materials, developed and strengthened COVID-related SOPs, and provided relevant training.
 
-· Supported factories to vaccinate workers by advocating for vaccines and supplying equipment.
+*Supported factories to vaccinate workers by advocating for vaccines and supplying equipment.
 
->“At VF, we want people in our supply chain to live better, healthier lives because of their connection with VF. DAI supports our mission by working with us to effectively develop and deliver health programs to our supply chain workers in Indonesia and Vietnam that are timely and relevant to workers’ needs.”
-Jens Aas, Program Manager Worker and Community Development, VF Corporation
-
+> “At VF, we want people in our supply chain to live better, healthier lives because of their connection with VF. DAI supports our mission by working with us to effectively develop and deliver health programs to our supply chain workers in Indonesia and Vietnam that are timely and relevant to workers’ needs.”
+> Jens Aas, Program Manager Worker and Community Development, VF Corporation
