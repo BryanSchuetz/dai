@@ -25,12 +25,12 @@ The stemazone is national in scope and implemented in partnership with the Oman 
 
 <iframe src="https://player.vimeo.com/video/552003877" width="640" height="329" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>{:.video}
 
-## Select Results
+###  Select Results
 
-### A Digital-First Approach to Learning
+**A Digital-First Approach to Learning**
 The stemazone curriculum emphasizes best practices in hands-on learning by doing. Students learn about technology, develop new skills with the guidance of experienced instructors, and conduct experiments based on the engineering design process—using simple materials they can find in their homes. The platform includes coding exercises for beginners from the age of seven to more intermediate coders. The e-stemazone helps develop students’ technological skills by having them interact with content online.
 
-### Stemazone Program Wins Three Innovation Awards 
+**Stemazone Program Wins Three Innovation Awards** 
 
 [The stemazone Initiative was a big winner at the 2021 Future Skills and Human Resources Development Conference in Muscat, Oman.](https://www.dai.com/news/dai-designed-and-implemented-csr-education-program-wins-three-innovation-awards-in-oman) The Arabian Research Bureau ARB/OITE presented awards to Eshraqa in three categories: “Future Technology,” “Robotics,” and “Best of the Best.”
 
