@@ -2,7 +2,6 @@
 title: Indonesia—Improving the Health of Female Workers at Global Apparel Company’s
   Factories
 date: 2022-03-23 11:35:00 Z
-published: false
 summary: 'DAI was commissioned by VF Corporation—one of the world’s largest apparel,
   footwear, and accessories companies—to help develop and implement a health program
   for a majority-female workforce.
