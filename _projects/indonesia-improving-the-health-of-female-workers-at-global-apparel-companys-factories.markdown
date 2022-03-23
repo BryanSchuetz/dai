@@ -40,4 +40,5 @@ The program focused on maternal and newborn health (MNH), family planning, sexua
 * Supported factories to vaccinate workers by advocating for vaccines and supplying equipment.
 
 > “At VF, we want people in our supply chain to live better, healthier lives because of their connection with VF. DAI supports our mission by working with us to effectively develop and deliver health programs to our supply chain workers in Indonesia and Vietnam that are timely and relevant to workers’ needs.”
+>
 > Jens Aas, Program Manager Worker and Community Development, VF Corporation
