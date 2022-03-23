@@ -17,11 +17,11 @@ regions: Asia and the Pacific
 country: Indonesia
 ---
 
-DAI’s Sustainable Business Group was commissioned by [VF Corporation](https://www.vfc.com/)—one of the world’s largest apparel, footwear, and accessories companies—to help develop and implement a health program for a majority-female workforce. The project was initiated under a partnership between a DAI-implemented and USAID [Jalin-funded project.](https://www.dai.com/our-work/projects/indonesia-jalin)
+DAI’s Sustainable Business Group was commissioned by [VF Corporation](https://www.vfc.com/)—one of the world’s largest apparel, footwear, and accessories companies—to help develop and implement a health program for a majority-female workforce. The project was initiated under a partnership between VF Corporation and the [USAID Jalin project.](https://www.dai.com/our-work/projects/indonesia-jalin)
 
-Women comprise around 70 percent of VF Indonesia’s supply chain factory workers, with many of reproductive age requiring maternal and newborn health services. Long working hours make accessing these important health services challenging and can have detrimental health outcomes.
+Women comprise around 70 percent of VF Corporation Indonesia’s supply chain factory workers, with many of reproductive age requiring maternal and newborn health services. Long working hours make accessing these important health services challenging and can have detrimental health outcomes.
 
-The program focused on maternal and newborn health (MNH), family planning, sexual and gender-based violence, and COVID-19. It strengthens MNH services in factory clinics, increases staff and worker MNH knowledge, and improves referral pathways so that workers can receive more advanced treatment. Delivered in 10 VF Corporation factories across Java, Indonesia, the program will reach 18,500 employees by the end of 2022.
+The program focuses on maternal and newborn health (MNH), family planning, sexual and gender-based violence, and COVID-19. It strengthens MNH services in factory clinics, increases staff and worker MNH knowledge, and improves referral pathways so that workers can receive more advanced treatment. Delivered in 10 VF Corporation factories across Java, Indonesia, the program will reach 18,500 employees by the end of 2022.
 
 ### Select Results
 
