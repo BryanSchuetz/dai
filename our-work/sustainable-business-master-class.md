@@ -24,7 +24,7 @@ layout: solution
           <p style="margin-bottom: 0px;">Date: <strong>May 17 - 19, in Dubai, UAE</strong> and <strong>October 17 - 19, Houston, USA</strong></p>
           <p style="margin-bottom: 0px;">Time: <strong>09h00 – 17h00</strong> </p>
           <p style="margin-bottom: 0px;">Price: 3,950 USD per person</p>
-          <p style="margin-bottom: 0px; margin-top: 1.5rem;">Upon completion, participants receive a certificate. DAI is a BAC-accredited short-course provider.</p>
+          <p style="margin-bottom: 0px; margin-top: 1.5rem;">Upon completion, participants receive a certificate.</p>
         </div>
       </div>
       <div class="column is-one-third">
