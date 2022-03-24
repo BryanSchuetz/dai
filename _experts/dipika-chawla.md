@@ -14,10 +14,11 @@ solutions:
 regions:
 - Worldwide
 articles:
+- name: A Strong Innovation Ecosystem Relies on Financially Sustainable Incubators
+    and Accelerators
+  article_file: https://dai-global-developments.com/articles/a-strong-innovation-ecosystem-relies-on-financially-sustainable-incubators-and-accelerators?utm_source=daidotcom
 - name: Commercializing Agricultural Innovations in the Age of COVID-19
   article_file: https://dai-global-developments.com/articles/commercializing-agricultural-innovations-in-the-age-of-covid-19
-- name: Corporate Partnerships and Building the Future of Tech-Enabled Agriculture
-  article_file: https://www.dai.com/uploads/kic-27672d.pdf
 - name: "“Unlocking Local Content: Harnessing the Power of Data-Driven Decision Making,”
     _DAIdeas_"
   article_file: http://dai-global-developments.com/articles/unlocking-local-content-harnessing-the-power-of-data-driven-decision-making?utm_source=daidotcom
