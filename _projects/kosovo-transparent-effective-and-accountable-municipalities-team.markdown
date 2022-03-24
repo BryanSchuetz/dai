@@ -2,11 +2,11 @@
 title: Kosovo—Transparent, Effective, and Accountable Municipalities (TEAM); Municipal
   Integrity Activity
 date: 2017-02-06 22:20:00 Z
-summary: The Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity
-  assisted the Government of Kosovo in strengthening systems and limiting opportunities
-  for fraud, waste, or abuse in public procurement.
+summary: 'The Municipal Integrity Activity is working with central government oversight
+  agencies, municipalities, and civil society, media, and private sector actors to
+  advance reform in public procurement in Kosovo. '
 start: 2016
-end: 2022
+end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Governance
@@ -32,18 +32,20 @@ Public procurement is a government tool used to deliver goods and services such 
 
 However, in Kosovo, citizens, civil society organizations, and private sector economic operators report that public procurement had been compromised by political patronage, nepotism, fraud, and other forms of corruption. This problem reduces public resources available for service delivery to citizens, undermines public confidence in government, and deters foreign investment. It is critically important for the Government of Kosovo to address these weaknesses or gaps in the procurement system, especially at the municipal level, to safeguard public money spent through public procurement.
 
-To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the five-year Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity. The project supported Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM worked with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations. In addition, USAID TEAM built the capacity of civil society organizations to exercise citizen oversight municipal procurement in a watchdog role and to provide checks and balances by exposing corrupt practices and [working with citizens](https://www.facebook.com/usaidkosovo/videos/527441967721553/) and local governments as a partner in the process of procurement modernization.
+To assist the Government of Kosovo in strengthening systems and limit opportunities for fraud, waste, or abuse in public procurement, the U.S. Agency for International Development (USAID) launched the Transparent, Effective, and Accountable Municipalities (USAID TEAM) activity, which DAI implemented from 2016 to 2022. The project supported Kosovo to improve the transparency and accountability of the municipal procurement process in all 38 municipalities. At the central level, USAID TEAM worked with institutions that oversee public procurement, supervise municipal internal auditors, manage the municipal budgeting process, and oversee anti-corruption investigations. In addition, USAID TEAM built the capacity of civil society organizations to exercise citizen oversight municipal procurement in a watchdog role and to provide checks and balances by exposing corrupt practices and [working with citizens](https://www.facebook.com/usaidkosovo/videos/527441967721553/) and local governments as a partner in the process of procurement modernization.
+
+Building off that project, the Municipal Integrity Activity is working with central government oversight agencies, municipalities, and civil society, media, and private sector actors to advance reform in public procurement, with a renewed emphasis on budget planning, contract management, audit, integrity, and private sector engagement. 
 
 <iframe src="https://player.vimeo.com/video/377382167" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Sample Activities
 
-* Support the implementation and rollout of the electronic procurement system and the move to a fully electronic procurement environment, markedly improving the transparency and accountability of government procurement activities.
-* Provide day-to-day coaching and mentoring assistance in five focus municipalities (Prishtinë/Priština, Gjakovë/Đakovica, Pejë/Peć, Gjilan/Gnjilane and Vushtrri/Vučitrn) in procurement, finance, and audit.
-* Partner with central government institutions and independent agencies to strengthen the procurement system and enhance oversight and audit mechanisms.
-* Work with civil society organizations in all 38 municipalities to strengthen their capacities to collect, analyze, and share data on corruption in public procurement.
+* Assist national accountability agencies in providing more effective and coordinated financial oversight.
+* Increase the government's use of good practices in budget planning, public procurement, and contract management.
+* Support the government in advancing norms and practices that support internal audit and accountability.
+* Work with civil society, media, and the private sector to improve the integrity of public and private sector actors in public procurement.
 
-### Select Results
+### Select Results (from TEAM)
 
 * The Public Procurement Regulatory Commission (PPRC) fully adopted electronic procurement and expanded the functionality of the e-Procurement platform. Now, procurement tenders for all government agencies must be issued through the e-Procurement platform and private sector economic operators must submit their bids online (SEE VIDEO ABOVE). All contracting authorities must now publish procurement contract data on the electronic platform. Currently, there are 12,282 public contracts available to citizens on the e-Procurement platform. In 2018 and 2019, government agencies initiated 12,237 procurement activities valued at €740 million through e-Procurement.
 * 24 Kosovo municipalities voluntarily published 2,895 procurement contracts on their municipal websites.
