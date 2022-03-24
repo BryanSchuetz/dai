@@ -14,6 +14,9 @@ solutions:
 - 
 regions:
 - Worldwide
+articles:
+- name: Four Reasons Entrepreneurship Programs Should Invest in Alumni Networks
+  article_file: https://dai-global-developments.com/articles/four-reasons-entrepreneurship-programs-should-invest-in-alumni-networks?utm_source=daidotcom
 ---
 
 Christina Aguila is an international development professional with a background in enterprise development and economic growth. As a Senior Analyst with DAI’s private sector practice, she provides program design services, technical analysis and implementation, and project management for multinational energy companies, trade associations, and government clients engaged in corporate social responsibility and local content strategies. Her work has involved launching new training products and designing programs for supplier development and entrepreneurship initiatives, organizing trade missions, and conducting competitiveness assessments for small and medium businesses.
