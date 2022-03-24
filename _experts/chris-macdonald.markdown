@@ -18,6 +18,10 @@ regions:
 - Sub-Saharan Africa
 - Latin America and the Caribbean
 - Eastern Europe and Central Asia
+articles:
+- name: 'Oman’s Journey to In-Country Value: An Approach to Local Content that Works
+    for Government and the Private Sector'
+  article_file: https://dai-global-developments.com/articles/omans-journey-to-in-country-value-an-approach-to-local-content-that-works-for-government-and-the-private-sector?utm_source=daidotcom
 ---
 
 Chris MacDonald is an internationally recognized expert on local content and in-country value (ICV) for the oil and gas industry. Working with Shell International for over 36 years, including expatriate residential assignments in 12 countries, he developed extensive global experience in supply chain management and procurement. Today, he advises private-sector clients on local content development strategies for DAI’s Sustainable Business Group (SBG). He also leads DAI’s development of Oman’s national ICV Blueprint Strategy on behalf of the Ministry of Commerce and Industry and Petroleum Development Oman.
