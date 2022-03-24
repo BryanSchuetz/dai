@@ -22,9 +22,8 @@ articles:
 - name: 5 Ways Entrepreneurship Ecosystems are Using Technology to Adapt to the COVID-19
     Crisis
   article_file: https://dai-global-digital.com/5-ways-entrepreneurship-ecosystems-are-using-technology-to-adapt-to-the-covid-19-crisis.html
-- name: Why more diaspora investors are exploring business opportunities in Somaliland,
-    _The Guardian_
-  article_file: http://www.theguardian.com/global-development-professionals-network/dai-partner-zone/bringing-it-home
+- name: Four Reasons Entrepreneurship Programs Should Invest in Alumni Networks
+  article_file: https://dai-global-developments.com/articles/four-reasons-entrepreneurship-programs-should-invest-in-alumni-networks?utm_source=daidotcom
 layout: expert
 ---
 
