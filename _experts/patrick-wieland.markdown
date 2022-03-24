@@ -7,6 +7,9 @@ summary: 'Patrick Wieland is an environmental and natural resource lawyer with m
   than 16 years of experience improving environmental management in Peru. '
 job-title: Chief of Party, Peru Prevent
 image: "/uploads/Patrick%20Wieland.jpg"
+solutions:
+- Environment
+- Natural Resource Management
 regions:
 - Latin America and the Caribbean
 ---
