@@ -143,7 +143,7 @@ layout: solution
 
 {% include _our-work/sbg-carousel.html %}
 
-## DAI's globally recognised and [accredited](https://www.the-bac.org/) Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
+## DAI's globally recognized Local Content Masterclass has been operating for more than 10 years and has trained more than 500 practitioners worldwide.
 
 <blockquote>
 <p>"Certainly the prime Local Content course in the market. Highly recommended".<br>—<em>Local Content Manager, International Oil Field Services Company</em></p>
