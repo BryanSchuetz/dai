@@ -11,6 +11,9 @@ solutions:
 - Sustainable Business
 regions:
 - Worldwide
+articles:
+- name: Three Key Elements in Developing Local Content Policy for the Renewables Sector
+  article_file: https://dai-global-developments.com/articles/three-key-elements-in-developing-local-content-policy-for-the-renewables-sector?utm_source=daidotcom
 ---
 
 Tate Crowards is an Analyst in DAI’s Sustainable Business Group managing a portfolio of projects in supplier development, SME green financing, and economic growth through entrepreneurship. With a background in research synthesis and both qualitative and quantitative economic analysis, Tate assists with the technical delivery of corporate social investment and local content projects globally. She has conducted industrial baseline studies, developed industry supply chain mapping and analysis, and has instructed on the use of competitiveness assessments for local content forecasting and policy development. 
