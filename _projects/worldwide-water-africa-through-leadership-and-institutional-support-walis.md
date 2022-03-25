@@ -9,7 +9,7 @@ client: U.S. Agency for International Development
 solutions:
 - Environment
 - Natural Resource Management
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions:
 - Sub-Saharan Africa
 country:
@@ -44,7 +44,7 @@ Despite significant progress made through donor and nongovernmental organization
 
 WALIS strengthened the ability of [African leaders](https://www.globalwaters.org/resources/assets/snapshot-stockholm-building-africa%E2%80%99s-leadership-sanitation-recap), institutions, and stakeholders to use data and analyses to shape water, sanitation, and hygiene (WASH) policies, plans, and budgets. In [its final year](https://www.globalwaters.org/resources/assets/walis-final-summary-report), WALIS worked to reinforce core program activities while strengthening the integration of WASH into COVID-19 response and research efforts. The COVID-19 pandemic demonstrated the critical importance of sanitation, hygiene, and adequate access to clean water for preventing and containing diseases. 
 
-DAI lead the WALIS team and engaged with multiple partners and key investors in Africa’s WASH sector.
+DAI lead the WALIS team and engaged with multiple partners and key investors in Africa’s water security, sanitation, and hygiene sector.
 
 <iframe src="https://player.vimeo.com/video/400294186" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
