@@ -8,7 +8,7 @@ start: 2019
 end: 2024
 client: U.S. Agency for International Development
 solutions:
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 - Environment
 regions: Asia and the Pacific
 country: Philippines
