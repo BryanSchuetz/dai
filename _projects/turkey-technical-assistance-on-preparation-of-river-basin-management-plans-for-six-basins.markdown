@@ -9,7 +9,7 @@ end: 2024
 client: European Union
 solutions:
 - Environment
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions: Eastern Europe and Central Asia
 country: Turkey
 ---
