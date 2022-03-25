@@ -9,7 +9,7 @@ start: 2002
 end: 2008
 client: U.S. Agency for International Development
 solutions:
-- Economic Growth
+- Water Security, Sanitation, and Hygiene
 - Environment
 regions:
 - Middle East and North Africa
