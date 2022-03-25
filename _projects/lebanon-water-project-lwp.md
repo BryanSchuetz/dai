@@ -1,16 +1,16 @@
 ---
 title: Lebanon—Water Project (LWP)
 date: 2016-01-21 22:40:00 Z
-summary: The Lebanon Water Project (LWP) increased reliable and sustainable access
-  to water for Lebanese citizens, improved water management practices, enhanced the
-  efficiency and sustainability of the public water utilities, and responded to water
-  issues arising from the influx of Syrian refugees.
+summary: The Lebanon Water Project increased reliable and sustainable access to water
+  for Lebanese citizens, improved water management practices, enhanced the efficiency
+  and sustainability of the public water utilities, and responded to water issues
+  arising from the influx of Syrian refugees.
 start: 2015
 end: 2021
 client: U.S. Agency for International Development
 solutions:
 - Environment
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions:
 - Middle East and North Africa
 country:
