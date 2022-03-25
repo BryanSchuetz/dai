@@ -1,18 +1,17 @@
 ---
 title: Philippines—Water Revolving Fund Support Program (PWRF)
 date: 2016-01-21 22:40:00 Z
-summary: Public resources alone cannot meet the investment required for the Philippines
-  to achieve its goals for access to potable water. The Philippines Water Revolving
-  Fund (PWRF), the only water revolving fund outside the United States and Europe,
-  leveraged overseas development assistance with local private funds using a blended
-  finance arrangement between the Philippine government and private banks.
+summary: The Philippines Water Revolving Fund, the only water revolving fund outside
+  the United States and Europe, leveraged overseas development assistance with local
+  private funds using a blended finance arrangement between the Philippine government
+  and private banks.
 start: 2006
 end: 2013
 client: U.S. Agency for International Development
 solutions:
 - Environment
 - Finance and Investment
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific
 country:
