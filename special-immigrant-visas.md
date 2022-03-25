@@ -11,9 +11,13 @@ layout: default
 
 If you are an Afghan national who has worked directly as an employee for DAI in Afghanistan and you need an Employment Verification Letter (EVL) to apply for the Special Immigrant Visa (SIV) Program or need an Employer Priority-2 Designation (P-2) Referral, please fill out [this form](http://daisiv.dai.com/). DAI is now using this form and JIRA software to manage requests for SIV Employment Verification Letters and P-2 referrals. We are committed to supporting you in the application process.
 
+<aside>**Please note that submitting fraudulent or tampered documents will lead to an automatic disqualification for an Employment Verification Letter, Letter of Recommendation, or Priority 2 (P-2) Referral from DAI.**</aside>
+
 ## How do I apply to DAI for an SIV EVL or a Referral to the P-2 program? 
 
 **Apply through [this form](http://daisiv.dai.com/)**. Please only fill out the form once and attach the requested documents. That will allow us to process your request for an SIV Employment Verification Letter or P-2 Referral as soon as possible. Once you receive your EVL, please follow Department of State guidelines for submission of your SIV application. DAI will directly submit your application materials for P-2 referrals. 
+
+**Please use caution when providing personal information about your Special Immigrant Visa (SIV) application or Priority (P-2) referral to any third-party organization. If you are concerned about an organization’s authenticity, please email [jawed_ferdous@dai.com](mailto:jawed_ferdous@dai.com) with the details and contact information of the third-party organization and we will work to confirm that it is a valid source.**
 
 ## Do I attach anything to the form?
 
@@ -57,3 +61,13 @@ Please review the information below:
 * [Priority 2 Designation (P-2) Guidelines for Refugee Admissions by U.S. Department of State](https://www.state.gov/u-s-refugee-admissions-program-priority-2-designation-for-afghan-nationals/)
 * [U.S. Refugee Admissions Program Instructions by Refugee Processing Center (RPC)](https://www.wrapsnet.org/siv-iraqi-syrian-afghan-referrals/)
 * [Resources from USAID including a list of nongovernmental organizations active in Afghanistan](https://www.cidi.org/disaster-responses/afghanistan-crisis/)
+
+## Is DAI relocating its staff members?
+
+DAI is committed to supporting our staff who wish to relocate from Afghanistan to the extent that we can. However, DAI does not directly lead nor is responsible for relocation flights. DAI’s primary role is to provide qualifying staff and eligible dependent information and supporting documents to the Department of State and/or private relocation partners. 
+ 
+As a U.S. Government Implementing Partner, we have aligned our approach to the Department of State framework and USAID guidance. The Department of State has established a new unit focused on relocation and resettlement, led by Ambassador Elizabeth Jones as Coordinator for Afghan Relocation Efforts. At this time, the Department of State is only supporting the relocation of U.S. Citizens, Lawful Permanent U.S. Residents, evacuation-separated family reunification cases, and Special Immigrant Visa (SIV) holders and eligible applicants. For more information on Department of State flight manifest eligibility, please reference the [linked](https://afghanevac.org/flight-manifest-eligibility/) graphic developed by the #AfghanEvac Coalition.
+ 
+DAI established a dedicated Afghanistan Relocation Team to support relocation efforts of our eligible direct staff on Department of State sanctioned flights. Our team is working to ensure that all DAI SIV applicants with Chief of Mission (COM) approval or further along in the SIV application process are in the queue for official relocation by the Department of State. For those of you who are SIV applicants, we will contact you for additional information as the Department of State requires.
+ 
+At this time, DAI is unable to support relocation efforts for subcontractor employees, independent contractors, interns, grantees, or vendors. Should this change, we will update this page. For subcontractors, please contact your employer directly. “
