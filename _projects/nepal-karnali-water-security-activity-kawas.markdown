@@ -1,16 +1,16 @@
 ---
 title: Nepal—Karnali Water Activity
 date: 2021-07-02 08:47:00 Z
-summary: 'The Nepal Karnali Water Activity works across the Karnali River Basin in
-  Western Nepal to promote healthy, resilient, and water-secure communities by improving
-  water resources management practices, drinking water supply and multiple-use systems,
-  and fecal sludge management access and treatment plants. '
+summary: 'The Nepal Karnali Water Activity works across the Karnali River Basin to
+  promote healthy, resilient, and water-secure communities by improving water resources
+  management practices, drinking water supply and multiple-use systems, and fecal
+  sludge management access and treatment plants. '
 start: 2021
 end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Environment
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions: Asia and the Pacific
 country: Nepal
 ---
