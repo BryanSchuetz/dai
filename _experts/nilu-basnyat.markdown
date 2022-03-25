@@ -8,8 +8,7 @@ job-title: Development Specialist, Governance and Environment
 image: "/uploads/Nilu.jpg"
 solutions:
 - Environment
-- Water and Sanitation Services and Management
-- 
+- Water Security, Sanitation, and Hygiene
 - Natural Resource Management
 - Governance
 regions:
