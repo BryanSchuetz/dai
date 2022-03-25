@@ -10,7 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Natural Resource Management
 - Environment
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions: Asia and the Pacific
 country: Nepal
 promos:
