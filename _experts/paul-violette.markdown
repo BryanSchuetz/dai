@@ -10,9 +10,12 @@ job-title: 'Practice Leader, Sustainable Cities '
 image: "/uploads/Violette_High%20Resolution.jpg"
 solutions:
 - Environment
+- Water Security, Sanitation, and Hygiene
+regions:
+- Worldwide
 ---
 
-Paul Violette manages DAI’s Sustainable Cities practice, which collaborates with cities and peri-urban communities to reduce waste and environmental pollution, transition to renewables, improve service delivery, boost inclusive and equitable economic growth, and strengthen governance and resilience. Paul has more than 20 years of experience implementing environment projects spanning 40 countries, with an emphasis on climate change, clean energy, sustainable infrastructure, and water, sanitation, and hygiene (WASH). 
+Paul Violette manages DAI’s Sustainable Cities practice, which collaborates with cities and peri-urban communities to reduce waste and environmental pollution, transition to renewables, improve service delivery, boost inclusive and equitable economic growth, and strengthen governance and resilience. Paul has more than 20 years of experience implementing environment projects spanning 40 countries, with an emphasis on climate change, clean energy, sustainable infrastructure, and water security, sanitation, and hygiene (WSSH). 
 
 Before joining DAI, he served as Vice President of Environment & Infrastructure for DT Global (formerly AECOM International Development). Previously, as DT Global’s Director of Climate Change, Energy and Environment, he built a climate change portfolio by providing technical leadership and managing a global team implementing innovative U.S. Agency for International Development (USAID) projects such as Adapt Asia-Pacific, PARA-Agua, Philippines Be Secure, and Pacific Climate Ready.
 
