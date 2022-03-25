@@ -4,14 +4,14 @@ date: 2021-12-16 08:49:00 Z
 lastname: Kiger
 summary: 'Brian Kiger brings 17 years of experience residing in diverse and economically
   under-developed communities—working with local and international private and public
-  sector stakeholders in the agriculture, water, sanitation, and hygiene sectors to
-  improve available services and products. '
+  sector stakeholders in the agriculture, water security, sanitation, and hygiene
+  sectors to improve available services and products. '
 job-title: Principal Global Practice Specialist, Agriculture and Market Systems
 image: "/uploads/bk2.jpg"
 solutions:
 - Economic Growth
 - Agriculture and Food Security
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions:
 - Worldwide
 ---
