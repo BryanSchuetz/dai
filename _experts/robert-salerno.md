@@ -1,6 +1,7 @@
 ---
 title: Robert Salerno
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Salerno
 summary: Robert Salerno a global health and development practitioner with 15 years
   of experience working on complex development projects for a variety of donor and
