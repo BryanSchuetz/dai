@@ -10,7 +10,7 @@ job-title: Chief of Party, Lebanon Water Project
 image: "/uploads/George%20Akl.jpg"
 solutions:
 - Environment
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions:
 - Middle East and North Africa
 ---
