@@ -8,7 +8,7 @@ job-title: Chief of Party, USAID Water and Sanitation Project
 image: "/uploads/Oneil_Dan%201.jpg"
 solutions:
 - Environment
-- Water and Sanitation Services and Management
+- Water Security, Sanitation, and Hygiene
 regions:
 - Latin America and the Caribbean
 ---
