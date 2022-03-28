@@ -48,19 +48,20 @@ Technology helps us to work smarter, not harder, to achieve the best results. Ac
 
 Our global network and experience mean we understand that different actors bring different strengths and solutions—and that systemic changes in health need inputs from local and international partners. We act as a convener, bringing together the best ideas across disciplines, civil society, government, and the private sector to broker innovative and impactful solutions.
 
-**Health Systems Strengthening**—We unlock governance, financial, and market potential to tackle health systems failures, improve accountability, and expand equitable access to high-quality health services and products in support of universal health coverage. 
+### Our Practice Areas
 
-We work across high-priority health areas including reproductive, maternal, newborn, child, and adolescent health; nutrition; clean water; malaria; neglected tropical diseases; and other communicable and noncommunicable diseases. 
+**Health Security**—As COVID-19 has demonstrated, disease outbreaks can overwhelm global health and economic systems, throwing populations into chaos and uncertainty.
 
-We build bridges between the agriculture, nutrition, and food security sectors, engaging community leaders, nongovernmental groups, governments, and the private sector to foster resilience, expand economic opportunity, and improve health outcomes through our integrated agriculture, agribusiness, and livelihoods programs.
+Within 18 months from the start of the COVID-19 pandemic, more than 4 million people died and millions more were hospitalized or facing long-term health consequences from catching the virus. While the pandemic’s economic impact is yet to be fully understood, estimates from the Ebola and SARS epidemics suggest the world lost nearly $100 billion in productivity, meaning COVID-19’s impact will be much greater. These crises have demonstrated the importance of pandemic preparedness, disease surveillance, and immunizations to safeguard our neighborhoods and communities.
+
+Our health security practice imagines a world where governments can act quickly to prevent, detect, and respond to health threats. One where countries work together, developing consensus and partnership across different ministries and neighboring states. And one where scientists and health workers have the resources and knowledge to provide the very best vaccines, medicines, and healthcare for their citizens.
 
 **Digital Health Solutions**—We specialize in electronic health information systems (eHIS) and the use of information for strategic decision making, especially in emerging markets and fragile states.
 
 We work with governments to develop interoperability between eHIS and other public health informatics systems, including PEPFAR Data for Accountability, Transparency, and Impact Monitoring (DATIM), and Laboratory Information Systems. Our health informatics experience spans DHIS2, SmartCare, OpenMRS, CommCare, MESI, and IQCare.
 
-We build on strategic partnerships with—and investments in—a range of next-generation health technology innovators that lie along the health value chain, including ClickMedix, MobileODT, and ThinkMD. Our future lies in creating the “connective tissue” that knits together disparate tools in  a fully integrated system that spans from the individual patient all the way up and across the national health system. 
+We build on strategic partnerships with—and investments in—a range of next-generation health technology innovators that lie along the health value chain, including ClickMedix, MobileODT, and ThinkMD. Our future lies in creating the “connective tissue” that knits together disparate tools in a fully integrated system that spans from the individual patient all the way up and across the national health system. 
 
 <aside style="width: 33%; float: left; border-top: 2px solid #54aa4f; height: 250px; font-size: .9rem; "><strong>ClickMedix</strong> has introduced its mobile health platform to the health insurance industry in the Middle East and expanded into Sub-Saharan Africa.</aside>
 <aside style="width: 33%; float: left; border-top: 2px solid #54aa4f; height: 250px; font-size: .9rem; "><strong>ThinkMD</strong> is reverse-innovating and bringing low-cost, high-quality healthcare services from emerging markets back to the United States.</aside>
 <aside style="width: 33%; float: left; border-top: 2px solid #54aa4f; height: 250px; font-size: .9rem; "><strong>MobileODT</strong> is a clinical technology making it easier for health professionals to remotely provide visual assessments.</aside>
-
