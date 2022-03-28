@@ -34,7 +34,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
 
 ## We Bring a Multi-Sector Perspective
 
-Together with our partners, we offer a broad spectrum of integrated services to address the evolving global health and development challenges of the 21st century, with an emphasis on people-centered, tech-enabled, data-centric solutions focused primarily on the poor and underserved.
+The health problems we tackle are complex—entwined with climate, governance, business, and financial issues that mean solutions need to work for systems—not silos. Our multidisciplinary expertise means when we design health programs we sit with bankers, scientists, statisticians, and politicians to develop smart strategies and projects that work for the long haul.
 
 [Global Health Security and Pandemic Preparedness](/our-work/solutions/health-solutions/global-health-security-and-pandemic-preparedness)—We coordinate responses across sectors for a holistic approach to emerging infectious diseases and disease management. A strong response starts with capacity building for governments, communities, universities, and regional professional networks.
 
