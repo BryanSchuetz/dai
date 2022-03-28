@@ -30,7 +30,7 @@ The health of our communities and our planet has never been more important. The 
 
 That’s why we are passionate about Global Health. We are on a mission to shape a more liveable world and we have more than 50 years of experience in doing just that. We specialize in improving health security and systems, health equity, and private sector engagement using our diverse expertise and unique ways of working.
 
-![IntraHealth (1).JPG](/uploads/IntraHealth%20(1).JPG)
+![highlights_ZAMBIA_169.jpg](/uploads/highlights_ZAMBIA_169.jpg)`Photo: Toby Madden for Transaid.`
 
 ## We Bring a Multi-Sector Perspective
 
@@ -47,6 +47,8 @@ Technology helps us to work smarter, not harder, to achieve the best results. Ac
 ## We Act as a Broker 
 
 Our global network and experience mean we understand that different actors bring different strengths and solutions—and that systemic changes in health need inputs from local and international partners. We act as a convener, bringing together the best ideas across disciplines, civil society, government, and the private sector to broker innovative and impactful solutions.
+
+![Supported by TOPDeAMOR, midwives in Garut provide home visits to pregnant women (Photo by Oscar Siagian for USAID Jalin).jpg](/uploads/Supported%20by%20TOPDeAMOR,%20midwives%20in%20Garut%20provide%20home%20visits%20to%20pregnant%20women%20(Photo%20by%20Oscar%20Siagian%20for%20USAID%20Jalin).jpg)`Photo: Oscar Siagian for USAID Jalin.`
 
 ### Our Practice Areas
 
