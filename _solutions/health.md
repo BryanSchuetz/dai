@@ -56,9 +56,16 @@ Within 18 months from the start of the COVID-19 pandemic, more than 4 million pe
 
 Our health security practice imagines a world where governments can act quickly to prevent, detect, and respond to health threats. One where countries work together, developing consensus and partnership across different ministries and neighboring states. And one where scientists and health workers have the resources and knowledge to provide the very best vaccines, medicines, and healthcare for their citizens.
 
-**Digital Health Solutions**—We specialize in electronic health information systems (eHIS) and the use of information for strategic decision making, especially in emerging markets and fragile states.
+**Health Governance**—The health governance team supports international Universal Health Coverage goals—where individuals and communities receive the health services they need without suffering financial hardship.
 
-We work with governments to develop interoperability between eHIS and other public health informatics systems, including PEPFAR Data for Accountability, Transparency, and Impact Monitoring (DATIM), and Laboratory Information Systems. Our health informatics experience spans DHIS2, SmartCare, OpenMRS, CommCare, MESI, and IQCare.
+Around the world, the most stretched health systems face the biggest challenges in creating efficient and equitable healthcare. Globally 80 percent of people live in low- and middle-income states, but only 20 percent of global health expenditure is spent in these countries. Over-stretched health systems face additional governance challenges such as poor financial controls, limited accountability mechanisms, and weak partnerships with the private sector. Health information is often recorded on paper and data systems for tracking outbreaks and conducting surveillance are often fragmented. 
+
+Strong partnerships and systems are the answer to many of these issues. We adopt a non-hierarchical, partnership approach with public sector and civil society to develop health systems that deliver quality services fairly. We start with inclusive stakeholder mapping and political economy analysis to understand the incentives, opportunities and barriers to change. We then use this data to help make systems more transparent, efficient and effective. 
+
+
+
+
+
 
 We build on strategic partnerships with—and investments in—a range of next-generation health technology innovators that lie along the health value chain, including ClickMedix, MobileODT, and ThinkMD. Our future lies in creating the “connective tissue” that knits together disparate tools in a fully integrated system that spans from the individual patient all the way up and across the national health system. 
 
