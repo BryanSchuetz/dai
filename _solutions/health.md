@@ -24,7 +24,7 @@ redirect_from: "/global-health"
 layout: solution
 ---
 
-We envision better health systems that foster quality & access; reduce threats; and promote healthier behaviors to improve lives globally.
+We envision better health systems that foster quality and access, reduce threats, and promote healthier behaviors to improve lives globally.
 
 The health of our communities and our planet has never been more important. The recent growth of melting glaciers, rising seas, migration, conflict, and global epidemics and pandemics have put the health of our globe into sharp focus. Our world needs better health security, better access to healthcare, a deeper understanding of how our natural world and physical health interact, and greater engagement with the market forces that shape our global economy.
 
