@@ -24,15 +24,15 @@ redirect_from: "/global-health"
 layout: solution
 ---
 
-DAI Global Health leverages what DAI has learned in other sectors since 1970—providing technical assistance to hundreds of long-term development projects worldwide in agriculture, environment, economic growth, governance, and post-conflict stabilization—and applies it to global health.
+We envision better health systems that foster quality & access; reduce threats; and promote healthier behaviors to improve lives globally.
 
-Our proven whole-of-systems approach strengthens health systems, enhances global health security, and advances digital health approaches to take solutions to scale and achieve impact.
+The health of our communities and our planet has never been more important. The recent growth of melting glaciers, rising seas, migration, conflict, and global epidemics and pandemics have put the health of our globe into sharp focus. Our world needs better health security, better access to healthcare, a deeper understanding of how our natural world and physical health interact, and greater engagement with the market forces that shape our global economy.
+
+That’s why we are passionate about Global Health. We are on a mission to shape a more liveable world and we have more than 50 years of experience in doing just that. We specialize in improving health security and systems, health equity, and private sector engagement using our diverse expertise and unique ways of working.
 
 ![IntraHealth (1).JPG](/uploads/IntraHealth%20(1).JPG)
 
-DAI Global Health’s capacity was augmented by the June 2017 acquisition of [Health Partners International (HPI)](http://healthpartners-int.co.uk/), which brought to DAI a wealth of technical know-how in health systems strengthening. Over two decades, HPI delivered more than 200 health projects in 40 countries in reproductive, maternal, newborn, child, and adolescent health, including immunization, nutrition, malaria, and other communicable diseases.
-
-## Doing Development Differently
+## We Bring a Multi-Sector Perspective
 
 Together with our partners, we offer a broad spectrum of integrated services to address the evolving global health and development challenges of the 21st century, with an emphasis on people-centered, tech-enabled, data-centric solutions focused primarily on the poor and underserved.
 
