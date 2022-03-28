@@ -36,7 +36,17 @@ That’s why we are passionate about Global Health. We are on a mission to shape
 
 The health problems we tackle are complex—entwined with climate, governance, business, and financial issues that mean solutions need to work for systems—not silos. Our multidisciplinary expertise means when we design health programs we sit with bankers, scientists, statisticians, and politicians to develop smart strategies and projects that work for the long haul.
 
-[Global Health Security and Pandemic Preparedness](/our-work/solutions/health-solutions/global-health-security-and-pandemic-preparedness)—We coordinate responses across sectors for a holistic approach to emerging infectious diseases and disease management. A strong response starts with capacity building for governments, communities, universities, and regional professional networks.
+## We Think and Work Politically 
+
+Getting government buy-in and support for development projects requires an understanding of the politics, incentives, and agendas of policymakers. We conduct political economy analyses to help us design solutions that reach across the aisle.
+
+## We Integrate Digital Technology Technology
+
+Technology helps us to work smarter, not harder, to achieve the best results. Across all our projects, we look for opportunities to incorporate digital technology for program management, data analysis, and health services.
+
+## We Act as a Broker 
+
+Our global network and experience mean we understand that different actors bring different strengths and solutions—and that systemic changes in health need inputs from local and international partners. We act as a convener, bringing together the best ideas across disciplines, civil society, government, and the private sector to broker innovative and impactful solutions.
 
 **Health Systems Strengthening**—We unlock governance, financial, and market potential to tackle health systems failures, improve accountability, and expand equitable access to high-quality health services and products in support of universal health coverage. 
 
