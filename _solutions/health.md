@@ -58,7 +58,7 @@ Within 18 months from the start of the COVID-19 pandemic, more than 4 million pe
 
 Our health security practice imagines a world where governments can act quickly to prevent, detect, and respond to health threats. One where countries work together, developing consensus and partnership across different ministries and neighboring states. And one where scientists and health workers have the resources and knowledge to provide the very best vaccines, medicines, and healthcare for their citizens.
 
-**Health Governance**—The health governance team supports international Universal Health Coverage goals—where individuals and communities receive the health services they need without suffering financial hardship.
+**Health Governance**—The health governance team supports international Universal Health Coverage goals, where individuals and communities receive the health services they need without suffering financial hardship.
 
 Around the world, the most stretched health systems face the biggest challenges in creating efficient and equitable healthcare. Globally 80 percent of people live in low- and middle-income states, but only 20 percent of global health expenditure is spent in these countries. Overstretched health systems face additional governance challenges such as poor financial controls, limited accountability mechanisms, and weak partnerships with the private sector. Health information is often recorded on paper and data systems for tracking outbreaks and conducting surveillance are often fragmented. 
 
