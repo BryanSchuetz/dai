@@ -21,6 +21,9 @@ promos:
 - title: Health Equity for Women and Girls Requires Cultural Change, Participation,
     and Local Influencers
   link: https://dai-global-developments.com/articles/health-equity-for-women-and-girls-requires-cultural-change-participation-and-local-influencers
+- title: "Evidence Brief: Scaling Up Rectal Artesunate in a \nCommunity-Based Initiative
+    in Zambia"
+  link: "/uploads/MAM@Scale_Evidence_Brief_January_2022.pdf"
 ---
 
 Malaria is a serious public health problem in rural Zambia, particularly affecting children under 5. A variety of delays and barriers to successful treatment for severe malaria mean that incidence rates in Central Province between 2013 and 2015 were 495 per 1,000 children under 5 years.
@@ -46,4 +49,4 @@ MAM used a health systems and operational research approach to address the const
 ### Select Results
 
 * [Provided proof](http://dai-global-developments.com/articles/zambia-pilot-shows-how-to-scale-relief-for-children-suffering-from-malaria/) that rectal artesunate administered in rural communities is a highly effective intervention for severe malaria among young children (6 months to 6 years old). The severe malaria mortality rate in this age group fell by 94.6 percent.
-* Trained community health workers to mobilise their communities in support of a severe malaria agenda and to set up and manage systems to address the access and affordability barriers to use of services. 
+* Trained community health workers to mobilize their communities in support of a severe malaria agenda and to set up and manage systems to address the access and affordability barriers to services. 
