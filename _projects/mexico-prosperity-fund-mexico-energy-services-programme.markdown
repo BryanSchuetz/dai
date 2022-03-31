@@ -1,12 +1,9 @@
 ---
-title: Mexico—Clean Energy Programme
+title: Mexico—Clean Energy Programme (MCEP)
 date: 2019-03-14 20:59:00 Z
-summary: The U.K. Foreign, Commonwealth and Development Office (FCDO) aims to promote
-  energy-driven low-carbon growth, reducing poverty and generating new market opportunities
-  for symbiotic U.K. partnerships and investments. DAI is helping the FCDO achieve
-  its vision in Mexico by implementing the Clean Energy Program, which aims to develop
-  the skills of men and women, small and medium enterprises, and government institutions
-  to support Mexico's transition to a low-carbon economy.
+summary: 'DAI is implementing the Mexico Clean Energy Programme (MCEP), which is developing
+  the skills of small and medium enterprises and government institutions to support
+  Mexico''s transition to a low-carbon economy. '
 start: 2019
 end: 2022
 client: Foreign, Commonwealth & Development Office
@@ -19,9 +16,9 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reducing poverty, and generating new market opportunities for symbiotic U.K. partnerships and investments.
+The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reduce poverty, and generate new market opportunities for symbiotic U.K. partnerships and investments.
 
-DAI is helping the FCDO achieve its vision by implementing the Mexico Clean Energy Program (MCEP). This program aims to develop the skills of men and women, small and medium enterprises (SMEs), and government institutions to support Mexico's transition to a low-carbon economy. 
+DAI is helping the FCDO achieve its vision by implementing the Mexico Clean Energy Programme (MCEP), which is developing the skills of small and medium enterprises (SMEs) and government institutions to support Mexico's transition to a low-carbon economy. 
 
 The program has chosen EPI (Energía, Participación e Inclusión) as the delivery model, enhancing the skills, capabilities, and resources of the Mexican energy sector by co-creating solutions that innovate and drive inclusive and sustainable growth. MCEP developed its curricula based on the findings of an industrial baseline study that DAI conducted in 2019 to identify key supply chains.
 
