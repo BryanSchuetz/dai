@@ -1,5 +1,5 @@
 ---
-title: Mexico Clean Energy Programme
+title: Mexico—Clean Energy Programme
 date: 2019-03-14 20:59:00 Z
 summary: The U.K. Foreign, Commonwealth and Development Office (FCDO) aims to promote
   energy-driven low-carbon growth, reducing poverty and generating new market opportunities
@@ -19,7 +19,7 @@ regions: Latin America and the Caribbean
 country: Mexico
 ---
 
-The U.K. Foreign, Commonwealth and Development Office (FCDO) aims to promote energy-driven low-carbon growth, reducing poverty, and generating new market opportunities for symbiotic U.K. partnerships and investments.
+The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reducing poverty, and generating new market opportunities for symbiotic U.K. partnerships and investments.
 
 DAI is helping the FCDO achieve its vision by implementing the Mexico Clean Energy Program (MCEP). This program aims to develop the skills of men and women, small and medium enterprises (SMEs), and government institutions to support Mexico's transition to a low-carbon economy. 
 
