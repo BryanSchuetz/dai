@@ -10,9 +10,9 @@ regions: Eastern Europe and Central Asia
 projects: Kosovo—Transparent, Effective, and Accountable Municipalities (TEAM); Municipal
   Integrity Activity
 clients: U.S. Agency for International Development
-summary: We are delighted to partner once again with the U.S. Agency for International
-  Development (USAID) in Kosovo to further cement ongoing efforts to address long-standing
-  corruption and public services delivery.
+summary: The U.S. Agency for International Development (USAID) is investing to consolidate
+  ongoing efforts that address long-standing issues of corruption and public service
+  delivery in Kosovo.
 country: Kosovo
 ---
 
@@ -26,12 +26,12 @@ Despite those advances, there are still corruption vulnerabilities left to be ad
 
 <iframe src="https://player.vimeo.com/video/695011456?h=fb566c909e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-The Kosovo Municipal Integrity Activity, which operates for five years, will enhance public financial management (PFM), with a focus on municipal procurement, and reinforce accountability mechanisms both inside and outside government. Building on the previous successes, the team will work with central government oversight agencies, with municipalities, and with civil society, media, and private sector actors to advance reform in public procurement, with a renewed emphasis on budget planning, contract management, audit, integrity, internal control, anti-corruption, and private sector engagement. 
+The five-year Kosovo Municipal Integrity Activity will enhance public financial management (PFM), with a focus on municipal procurement, and reinforce accountability mechanisms both inside and outside government. Building on the previous successes, the team will work with central government oversight agencies, with municipalities, and with civil society, media, and private sector actors to advance reform in public procurement, with a renewed emphasis on budget planning, contract management, audit, integrity, internal control, anti-corruption, and private sector engagement. 
 
-“We achieved breakthrough change in Kosovo’s public procurement through USAID TEAM by introducing and providing access to full transparent procurement data to the public. It is evident that transparency limits the opportunities and incentives for corruption as it provides real-time information for the wider audience in the process,” said Deputy Chief of Party Aferdita Mekuli. 
+“We achieved breakthrough change in Kosovo’s public procurement through USAID TEAM by introducing and providing access to full, transparent procurement data to the public,” said Deputy Chief of Party Aferdita Mekuli. “Transparency limits the opportunities and incentives for corruption because it provides the real-time information for the wider audience in the process.” 
 
-“But transparency is not enough to eradicate corruption,” Mekuli added. “Governments need to fight corruption by streamlining PFM processes, introducing robust internal controls and enforcement mechanisms, making the government officials accountable. This activity comes just in time to introduce a transformed, transparent PFM to successfully fight corruption. Robust PFM systems are essential for the whole budget cycle, starting from the budget formulation to its execution, including procurement, financial management control, and internal audit.”
+“But transparency is not enough to eradicate corruption,” Mekuli added. “Governments need to fight corruption by streamlining PFM processes, introducing robust internal controls and enforcement mechanisms, and making government officials accountable. This new activity comes just in time to introduce a transformed, transparent PFM process to successfully fight corruption. Robust PFM systems are essential for the whole budget cycle, starting from the budget formulation to its execution, including procurement, financial management control, and internal audit.”
 
-The activity aligns with the mission of USAID’s Anti-Corruption Task Force (ACTF) of “expanding and accelerating efforts to build local capacity to prevent, detect, and  mitigate corruption and hold corrupt actors accountable; strengthening oversight, accountability, and justice sector institutions; supporting open government and transparency norms; and empowering civil society and media reformers to uncover corruption and engage in collective advocacy.” The project’s anticorruption goals are also shared by the new Kurti Administration in Kosovo and its anticorruption strategy.
+The activity aligns with the mission of USAID’s [Anti-Corruption Task Force (ACTF)](https://www.usaid.gov/anti-corruption): “expanding and accelerating efforts to build local capacity to prevent, detect, and  mitigate corruption and hold corrupt actors accountable; strengthening oversight, accountability, and justice sector institutions; supporting open government and transparency norms; and empowering civil society and media reformers to uncover corruption and engage in collective advocacy.” The project’s anticorruption goals are also shared by the new Kurti Administration in Kosovo.
 
 “Public procurement is an integral part of an effective public administration and PFM—as it is one of the key means by which public money is spent to provide public services,” said Mekuli.
