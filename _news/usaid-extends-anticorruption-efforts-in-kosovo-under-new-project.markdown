@@ -2,6 +2,9 @@
 title: USAID Extends Anticorruption Efforts in Kosovo Under New Project
 date: 2022-04-01 13:52:00 Z
 published: false
+tags:
+- anticorruption
+- governance
 solutions:
 - Governance
 - Public Financial Management
@@ -13,6 +16,7 @@ clients: U.S. Agency for International Development
 summary: The U.S. Agency for International Development (USAID) is investing to consolidate
   ongoing efforts that address long-standing issues of corruption and public service
   delivery in Kosovo.
+social-image: "/uploads/Performance%20with%20Umbrellas%20-%20TEAM%20%20-%20FOL%20%20(15).jpg"
 country: Kosovo
 ---
 
