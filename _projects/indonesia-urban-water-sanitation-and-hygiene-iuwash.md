@@ -1,12 +1,13 @@
 ---
-title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS)
+title: Indonesia—Urban Water, Sanitation, and Hygiene (IUWASH, IUWASH PLUS, IUWASH
+  Tangguh)
 date: 2016-01-21 22:40:00 Z
-summary: IUWASH PLUS worked with civil society groups and local governments to mobilize
-  demand for improved drinking water and sanitation services, as well as built the
-  capacity of private businesses, utilities, and national-level programs to provide
-  these services in a fair and sustainable fashion.
+summary: The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (USAID
+  IUWASH Tangguh) strengthens inclusive, system-wide connections across stakeholders,
+  data platforms, and finance mechanisms to achieve healthy, productive, and resilient
+  cities.
 start: 2016
-end: 2022
+end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Environment
@@ -27,17 +28,17 @@ layout: project
 
 Better management of urban growth will be crucial to guarantee sustainable cities. It is not uncommon for citizens in and around Indonesia’s major cities for residents to spend up to two hours a day transporting expensive water to their homes for drinking and cooking. In addition, a lack of sewage and wastewater infrastructure in many densely populated, low-income areas leads to tainted ground and surface water, creating serious health risks from waterborne diseases.
 
-The U.S. Agency for International Development’s Indonesia Urban Water, Sanitation and Hygiene—Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUWASH PLUS) project and its predecessor, IUWASH, brought reliable water supply to more than 3 million people and safely managed [sanitation services](https://medium.com/usaid-global-waters/strengthening-urban-indonesias-water-and-sanitation-systems-geser-si-jahat-out-with-the-bad-fa3772d5cc6b) to more 960,000 city dwellers. The IUWASH PLUS team worked with civil society groups and local governments to mobilize demand for improved drinking water and sanitation services, as well as built the capacity of private businesses, utilities, and national-level programs to provide these services in a fair and sustainable fashion.
+The Indonesia Urban Resilient Water, Sanitation, and Hygiene Activity (IUWASH Tangguh) strengthens inclusive, system-wide connections across stakeholders, data platforms, and finance mechanisms to achieve healthy, productive, and resilient cities. IUWASH Tangguh is expected to reach at least 1.5 million people with improved access to safely managed drinking water and at least 1 million people with improved access to safe sanitation services. To achieve these ambitious targets and ensure sustainability, we will develop at least 50 public-private partnerships and mobilize at least $310 million for Indonesia’s WASH and WRM sectors.  
+
+IUWASH Penyehatan Lingkungan untuk Semua, or Environmental Health for All—(IUWASH PLUS) and its predecessor, IUWASH, brought reliable water supply to more than 3 million people and safely managed [sanitation services](https://medium.com/usaid-global-waters/strengthening-urban-indonesias-water-and-sanitation-systems-geser-si-jahat-out-with-the-bad-fa3772d5cc6b) to more 960,000 city dwellers. 
 
 ![IUWASH_image.jpg](/uploads/IUWASH_image.jpg)
 
 ### Sample Activities
 
-* Engage local entrepreneurs in developing innovative WASH products and services through challenge competitions, such as designing affordable pressure sensors for leak detection or creating new urban septic waste removal services.
-* Engage women at each stage of water security, sanitation, and hygiene delivery, from latrine design and construction to gender-based planning and budgeting with government partners.
-* Work with business associations to build capacity and develop standard certifications for companies involved in water and sanitation services.
-* Support cooperatives, community credit organizations, and commercial banks in providing consumer and small business loans for WASH-related projects.
-* Support citizen engagement in the water security, sanitation, and hygiene (WSSH) sector through radio programming, civic forums, text message gateways, complaint hotlines, and social media, as well as designing a crowdsourcing platform to collect and display citizen feedback.
+* Catalyze and facilitate local WASH and water resource management (WRM) partnerships to stimulate entrepreneurship and technology uptake, improve skills across operators and service providers, and expand and scale public-private partnerships, and other financing instruments.
+* Employ data, evidence, and visualizations to support decision making and spur dialogue and action.
+* Expand access to domestic, regional, and international finance by brokering arrangements between utilities and new financing facilities to support new connections as well as green, gender-responsive, and climate-resilient infrastructure.
 
 ### Select Results (IUWASH and IUWASH PLUS)
 
