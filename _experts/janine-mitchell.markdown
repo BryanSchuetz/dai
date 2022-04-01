@@ -3,7 +3,7 @@ title: Janine Mitchell
 date: 2021-08-24 09:56:00 Z
 lastname: Mitchell
 summary: Janine Mitchell is an Epidemiologist and Global Health Specialist with more
-  than 15 years of experience and having worked in more than 30 countries.
+  than 15 years of experience and has worked in more than 30 countries.
 job-title: Senior Practice Specialist, Health Security
 image: "/uploads/Janine%20Mitchell2022v.02.jpg"
 solutions:
