@@ -1,15 +1,15 @@
 ---
 title: Regional—FSG Plus, BII’s Technical Assistance Facility for Financial Institutions
 date: 2021-09-21 13:13:00 Z
-summary: FSG Plus is a three-year program that supports the CDC Group in addressing
-  two pressing priorities—inclusion and climate change and environmental sustainability—by
-  catalyzing sustainable practice change in financial institutions.
+summary: FSG Plus is a three-year program that supports British International Investment
+  in addressing two pressing priorities—inclusion and climate change and environmental
+  sustainability—by catalyzing sustainable practice change in financial institutions.
 start: 2021
 end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Economic Growth
-regions: Worldwide
+regions: Regional
 ---
 
 British International Investment (BII)—formerly CDC Group—is the U.K. Government’s development finance institution, supporting the growth of private businesses in Africa and South Asia. 
