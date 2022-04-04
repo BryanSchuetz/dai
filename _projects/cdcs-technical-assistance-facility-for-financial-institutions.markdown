@@ -13,6 +13,7 @@ regions: Worldwide
 ---
 
 British International Investment (BII)—formerly CDC Group—is the U.K. Government’s development finance institution, supporting the growth of private businesses in Africa and South Asia. 
+
 FSG Plus is a three-year program that will support BII in addressing two pressing priorities—i) inclusion and ii) climate change and environmental sustainability—by catalyzing sustainable practice change in financial institutions. It will do this through:
 
 * Support to BII’s Financial Services Group (FSG) investees.
@@ -20,7 +21,7 @@ FSG Plus is a three-year program that will support BII in addressing two pressin
 
 The Facility will promote sustained practice changes in financial services providers leading to improvements in the relevance, quality, affordability, and/or accessibility of financial services for target populations, green sectors, and/or small and medium-sized enterprises (SMEs).
 
-Through generated evidence and focused assistance, the Facility will help BII investees demonstrate the business case for financial services which would lead to a knock-on effect to other financial service providers (FSPs) in these markets that more visibly support BII’s impact priorities.
+Through generated evidence and focused assistance, the Facility will help BII investees demonstrate the business case for financial services which would lead to a knock-on effect on other financial service providers (FSPs) in these markets that more visibly support BII’s impact priorities.
 
 ![CDC FI TA Facility Response.jpg](/uploads/CDC%20FI%20TA%20Facility%20Response.jpg)
 
