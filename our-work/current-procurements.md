@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [BDAA-Pilot and Scaling Tools RFA](/uploads/BDAA-Pilot%20and%20Scaling%20Tools%20RFA-FINAL.pdf "5/5")
+
 * [RFP- REQ-PRE-22-0005 - Consultancy services for implementation of an Enterprise Resource Planning](https://dai-assets.s3.amazonaws.com/rfps/RFP-%20REQ-PRE-22-0005%20-%20Consultancy%20services%20for%20implementation%20of%20an%20Enterprise%20Resource%20Planning%20%28ERP%29.pdf "4/5")
 * [RFP- REQ-PRE-22-0008 - Global Trends in Climate Change Mitigation and their Impact](https://dai-assets.s3.amazonaws.com/rfps/RFP-%20REQ-PRE-22-0008%20-%20Global%20Trends%20in%20Climate%20Change%20Mitigation%20and%20their%20Impact.pdf "4/4")
 * [Tunisia FAST REQ-TUN-22-0011 GOT Budgeting Solution](https://dai-assets.s3.amazonaws.com/rfps/Tunisia%20FAST%20REQ-TUN-22-0011%20GOT%20Budgeting%20Solution_revised%203.22.2022.pdf "4/5")
