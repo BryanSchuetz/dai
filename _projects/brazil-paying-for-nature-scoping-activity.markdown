@@ -2,11 +2,17 @@
 title: Brazil—Paying for Nature Scoping Activity
 date: 2022-04-07 16:07:00 Z
 published: false
-summary: The Brazilian Amazon ecosystem plays a critical role as part of global systems,
-  influencing the global carbon cycle and thus climate change, as well as hemispheric
-  hydrological systems. Defra commissioned DAI to conduct research and analysis of
-  the current state of play in the Legal Amazon region to inform the next round of
-  climate finance investments in the country.
+summary: Defra commissioned DAI to conduct research and analysis of the current state
+  of play in the Legal Amazon region in Brazil to inform the next round of climate
+  finance investments in the country.
+start: 2021
+end: 2022
+client: Department for Environment Food and Rural Affairs (Defra); UK ICF
+solutions:
+- Resilience
+- Environment
+regions: Latin America and the Caribbean
+country: Brazil
 ---
 
 Home to 33 percent of the world’s tropical forests, the Brazilian Amazon ecosystem plays a critical role as part of global systems, influencing the global carbon cycle and thus climate change, as well as hemispheric hydrological systems.
