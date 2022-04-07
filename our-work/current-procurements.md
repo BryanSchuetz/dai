@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
 
+* [RFP 2022-06 Digital Literacy Online Training](/uploads/RFP%202022-06%20Digital%20Literacy%20Online%20Training.pdf)
 * [Tunisia FAST REQ-TUN-22-0011 GOT Budgeting Solution_revised 3.22.2022](/uploads/Tunisia%20FAST%20REQ-TUN-22-0011%20GOT%20Budgeting%20Solution_revised%203.22.2022.pdf "5/6")
 * [RFA 2022-11 Cybersecurity Training](/uploads/RFA%202022-11%20Cybersecurity%20Training.pdf "4/26")
 * [BDAA-Pilot and Scaling Tools RFA](/uploads/BDAA-Pilot%20and%20Scaling%20Tools%20RFA-FINAL.pdf "5/5")
