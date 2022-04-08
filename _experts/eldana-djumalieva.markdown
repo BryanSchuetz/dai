@@ -8,8 +8,8 @@ summary: Eldana Djumalieva is a qualified economist with 26 years of experience 
 job-title: Principal/Project Director, Development Finance and Investment
 image: "/uploads/Picture1.jpg"
 solutions:
+- Climate
 - Finance and Investment
-- 
 regions:
 - Asia and the Pacific
 - Eastern Europe and Central Asia
