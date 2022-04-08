@@ -9,7 +9,7 @@ job-title: Principal/Project Director, Development Finance and Investment
 image: "/uploads/Picture1.jpg"
 solutions:
 - Finance and Investment
-- Climate
+- 
 regions:
 - Worldwide
 ---
