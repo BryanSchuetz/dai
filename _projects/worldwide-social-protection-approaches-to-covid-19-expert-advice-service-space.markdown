@@ -57,3 +57,15 @@ The program was managed by DAI through the FCDO framework agreement [Expert Advi
 * Review, and support the development of, country-specific plans for social protection and humanitarian systems, as applied to the response to the economic impact of COVID.
 * Share evidence accrued over time and globally through country case studies, and international best practices. 
 * Provide learning sessions through multiple media (webinars, learning briefs, country-specific sessions, etc.)
+
+### Select Results
+
+* Independent advice provided through over 120 engagements, in over 40 countries, to more than 25 actors (donors, implementing partners, and governments). 
+* Monitoring data provides evidence that SPACE engagements: 
+- Facilitated users to influence partners
+- Supported in convening and coordinating amongst actors
+- Aligned and amplified ongoing and planned work in the sector
+- Directly informed program and response designs
+- Brokered access and uptake of knowledge and evidence in the sector.
+* More than 50 online resources made available to guide the effective design and delivery of social protection and humanitarian systems in response to COVID-19; documents have been accessed more than 21,000 times. 
+
