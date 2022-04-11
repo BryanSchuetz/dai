@@ -21,5 +21,6 @@ Eldana Djumalieva is a qualified economist with 26 years of experience in the de
 
 Eldana is Principal/Project Director leading the climate finance stream within DAI’s Development Finance and Investment team. Her focus is to facilitate the mobilisation of finance at scale, including private capital, to bridge the SDG and climate financing gaps.
 
-* M.A., Sydney University
+* Masters in International Business, Sydney University
+* Master’s Honours Component, University of Maastricht
 * B.Sc.Econ., Kyrgyz National University
