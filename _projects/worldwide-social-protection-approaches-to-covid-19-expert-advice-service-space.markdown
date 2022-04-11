@@ -63,7 +63,7 @@ The program was managed by DAI through the FCDO framework agreement [Expert Advi
 * Independent advice provided through over 120 engagements, in over 40 countries, to more than 25 actors (donors, implementing partners, and governments). 
 * Monitoring data provides evidence that SPACE engagements: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Facilitated users to influence partners
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Facilitated users to influence partners
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supported in convening and coordinating amongst actors
 
