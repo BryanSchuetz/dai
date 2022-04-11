@@ -65,12 +65,12 @@ The program was managed by DAI through the FCDO framework agreement [Expert Advi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Facilitated users to influence partners
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supported in convening and coordinating amongst actors
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Supported in convening and coordinating amongst actors
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aligned and amplified ongoing and planned work in the sector
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Aligned and amplified ongoing and planned work in the sector
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Directly informed program and response designs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Directly informed program and response designs
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brokered access and uptake of knowledge and evidence in the sector.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Brokered access and uptake of knowledge and evidence in the sector.
 * More than 50 online resources made available to guide the effective design and delivery of social protection and humanitarian systems in response to COVID-19; documents have been accessed more than 21,000 times. 
 
