@@ -38,3 +38,4 @@ Together, these efforts should increase participation and inclusion in Egypt’s
 ### Select Results
 
 * Supported the Ministry of Planning and Economic Development and the National Council for Women in the creation of the Governance Excellence Award for Equal Opportunity and Empowerment of Women. EGA developed a manual for the application and selection process and a training program for potential applicants. 
+* Supported the Central Agency for Organization and Administration to develop an interactive online learning management system that enhances the management and delivery of capacity-building programs for civil servants. 
