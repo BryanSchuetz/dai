@@ -16,7 +16,7 @@ country: Egypt
 
 The Government of Egypt has achieved an encouraging degree of macroeconomic stabilization in the past several years, coupled with regulatory, policy, and civil service reforms to create space for private sector growth. Yet, Egypt’s economic governance reforms must be broader and deeper if it is to achieve its development vision of improving public welfare by creating enough quality jobs to meet the massive demographic challenge it now faces. The reforms must strengthen a weak institutional framework and begin to reverse socioeconomic inequities.
 
-The Egypt Economic Governance Activity (EGA) works with the Government of Egypt to support the country’s investment climate by strengthening inclusive governance and supporting the Government’s structural reform program.
+The Egypt Economic Governance Activity (EGA) works with the government to support the country’s investment climate by strengthening inclusive governance and supporting the government’s structural reform program.
  
 EGA assists with Egypt’s economic and good governance reforms by:
  
@@ -35,3 +35,6 @@ Together, these efforts should increase participation and inclusion in Egypt’s
 * Develop and roll out content for anti-corruption training courses, including digital courses.
 *  Work with government counterparts to utilize customer feedback and data regarding service performance to identify opportunities to scale effective service models.
 
+### Select Results
+
+* Supported the Ministry of Planning and Economic Development and the National Council for Women in the creation of the Governance Excellence Award for Equal Opportunity and Empowerment of Women. EGA developed a manual for the application and selection process and a training program for potential applicants. 
