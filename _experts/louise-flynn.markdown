@@ -4,7 +4,7 @@ date: 2020-01-03 19:04:00 Z
 lastname: Flynn
 summary: Louise Flynn leads DAI Sustainable Business Group’s (SBG) health, safety,
   security, and environment programs globally.
-job-title: Lead Specialist, Environment and Health
+job-title: Director, Sustainable Business Group
 image: "/uploads/LF.jpeg"
 solutions:
 - Sustainable Business
