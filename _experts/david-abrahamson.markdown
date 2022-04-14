@@ -1,12 +1,12 @@
 ---
 title: David Abrahamson
 date: 2022-04-14 13:51:00 Z
-published: false
 lastname: Abrahamson
 summary: 'David Abrahamson has been working in international development and environmental
   affairs since 2004, with a focus on livelihood-related environmental issues in Asia. '
 job-title: Senior Global Practice Specialist, Climate Change and Natural Resources
   Management
+image: "/uploads/david%20abrahamson.jpg"
 solutions:
 - Climate
 - Environment
