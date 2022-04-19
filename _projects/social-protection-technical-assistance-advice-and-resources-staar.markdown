@@ -16,7 +16,7 @@ solutions:
 regions: Worldwide
 ---
 
-The Social Protection Technical Advice, Assistance and Resources Facility (STAAR) is a joint initiative of the U.K.’s Foreign Commonwealth and Development Office’s Better Assistance in Crises (BASIC) and Gender-Responsive Social Protection (GSP) programs. The project is dedicated to expanding and improving the effectiveness of investments in both gender-responsive social protection and social protection approaches in crises. Actors from national governments, donors, and implementing partners are encouraged to access the Facility for free, with direct support from STAAR’s independent expert roster—in the form of technical assistance, specialist advice, or bespoke resources.
+The Social Protection Technical Advice, Assistance and Resources Facility (STAAR) is a joint initiative of the U.K.’s Foreign Commonwealth and Development Office’s Better Assistance in Crises (BASIC) and Gender-Responsive Social Protection (GSP) programs. The project is dedicated to expanding and improving the effectiveness of investments in both gender-responsive social protection and social protection approaches in crises. Actors from national governments, donors, and implementing partners are encouraged to access the Facility for free, with direct support from STAAR’s independent expert roster—in the form of technical assistance, specialist advice, or bespoke resources. 
 
 **Why Social Protection?**
 
