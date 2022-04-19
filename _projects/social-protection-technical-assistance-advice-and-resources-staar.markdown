@@ -24,7 +24,7 @@ Social protection reduces both poverty and inequality. Predictable access to sup
 
 **Social Protection Approaches in Crises**
 
-Strengthening social protection systems directly benefits people living in, or at risk of crisis. Whether caused by conflict, political and economic instability, or environmental fragility. Linking traditional humanitarian assistance—which provides the bulk of support to conflict-affected communities—with social protection systems can build people’s resilience to crises and increase human capital? 
+Strengthening social protection systems directly benefits people living in, or at risk of crisis. Whether caused by conflict, political and economic instability, or environmental fragility. [Linking traditional humanitarian assistance](https://www.calpnetwork.org/blog/five-practical-insights-on-linking-humanitarian-assistance-and-social-protection/)—which provides the bulk of support to conflict-affected communities—with social protection systems can build people’s resilience to crises and increase human capital? 
 
 The COVID-19 pandemic has highlighted just how powerful social protection can be as a tool for crisis response. It has been used by governments across the globe to help people manage the economic fall-out of the pandemic in their own lives. Critically, those countries with stronger routine social protection systems have been able to meet emerging needs more quickly and more effectively than others. 
 
