@@ -9,10 +9,9 @@ start: 2021
 end: 2024
 client: Foreign, Commonwealth & Development Office
 solutions:
-- - Social Protection
-  - Fragile States
-  - Gender and Social Inclusion
-  - Climate Change Adaptation and Mitigation
+- Fragile States
+- Gender and Social Inclusion
+- Climate Change Adaptation and Mitigation
 regions: Worldwide
 country: Worldwide
 ---
