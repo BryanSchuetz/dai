@@ -28,7 +28,7 @@ Strengthening social protection systems directly benefits people living in, or a
 
 The COVID-19 pandemic has highlighted just how powerful social protection can be as a tool for crisis response. It has been used by governments across the globe to help people manage the economic fall-out of the pandemic in their own lives. Critically, those countries with stronger routine social protection systems have been able to meet emerging needs more quickly and more effectively than others. 
 
-[1E1A2125.JPG](/uploads/1E1A2125.JPG)
+![1E1A2125.JPG](/uploads/1E1A2125.JPG)
 
 **Gender-Responsive Social Protection**
 
