@@ -2,9 +2,9 @@
 title: Kongkona Sarma
 date: 2016-01-21 22:18:00 Z
 lastname: Sarma
-summary: Kongkona Sarma is an economist with more than 15 years of experience working
-  primarily in areas of investment facilitation, business environment reform, and
-  monitoring and evaluation.
+summary: Kongkona Sarma is an economist with 20 years of experience working primarily
+  in areas of investment facilitation, business environment reform, and monitoring
+  and evaluation.
 job-title: 'Principal Consultant, Economic Growth '
 image: https://assetify-dai.com/experts/Kongkona%20Sarma%20Inner.jpg
 solutions:
@@ -12,17 +12,20 @@ solutions:
 - Economic Growth
 - Market Systems and Value Chain
 regions:
-- Asia and the Pacific
+- Worldwide
 articles:
 - name: 'Opinion: Promoting gender and climate-smart investment'
   article_file: https://www.devex.com/news/sponsored/opinion-promoting-gender-and-climate-smart-investment-102072
 layout: expert
 ---
 
-Kongkona Sarma is an economist with more than 15 years of experience working primarily in areas of investment facilitation, business environment reform, and monitoring and evaluation. She started her career in the capital markets, gaining skills in financial valuation, corporate restructuring, and quantitative research. Drawing on her experience from the financial sector, Kongkona has specialized in private sector engagement with a focus on market systems and value chain analysis, programme impact evaluation, economic and financial appraisal, and developing results measurement framework. She has worked in economic appraisal of donor-aided programmes and conducted market assessments in various sectors. 
+Kongkona Sarma is an economist with more than 20 years of experience working primarily in the areas of sustainable investment, focusing on environmental, social, and governance (ESG), standards and impact measurement, investment facilitation, business environment reform, and program impact evaluation. She started her career in the capital markets in India, gaining skills in financial valuation and data analytics. Drawing on her experience in the financial sector, Kongkona has worked in private sector engagement programs using a market systems approach, specializing in value chain analysis, economic and financial appraisal, and developing results measurement frameworks. She has extensive experience designing technical assistance for financial institutions (FIs) by demonstrating the business case for financial services to promote gender lens investing and green financing. 
 
-Kongkona has undertaken assignments for various bilateral and multilateral organizations including the Foreign, Commonwealth & Development Office (FCDO), Inter-American Development Bank, World Bank and Commonwealth Secretariat in Afghanistan, Barbados, Bhutan, Guyana, India, Myanmar, Nepal, Ethiopia, Kenya, Nigeria, India, St. Helena, St. Lucia, Trinidad and Tobago, and Uganda.
-She is also an avid traveller and is involved in promoting pro-poor tourism efforts, advising responsible tourism organisations in the northeastern region of India and Bhutan.
+Kongkona has served as a Technical Director for DAI’s Economic Growth portfolio of programs, including [Business Environment Reform Facility](https://www.dai.com/our-work/projects/worldwide-business-environment-reform-facility-berf), Jobs Evaluation & Measuring Impact (JEMI), and Greening the Mohammed VI Fund, Morocco. She is currently the Delivery Lead of [FSG Plus](https://www.dai.com/our-work/projects/cdcs-technical-assistance-facility-for-financial-institutions), a £5m program that promotes sustained changes in the practices of British International Institute (BII) FI investees through focused technical assistance to promote financial inclusion, and climate and environmental sustainability.
+
+Kongkona has undertaken assignments for various bilateral and multilateral organizations including the Foreign, Commonwealth & Development Office, BII, World Bank, Inter-American Development Bank, and Commonwealth Secretariat in Asia, Africa, and the Caribbean. 
+
+She is also involved in promoting pro-poor tourism efforts, advising responsible tourism organizations in the northeastern region of India and Bhutan.
 
 * Master of Public Administration, Maxwell School of Citizenship, Syracuse University
 * Master of Economics, Jawaharlal Nehru University, India
