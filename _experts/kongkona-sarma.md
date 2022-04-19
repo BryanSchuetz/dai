@@ -6,7 +6,7 @@ summary: Kongkona Sarma is an economist with 20 years of experience working prim
   in areas of investment facilitation, business environment reform, and monitoring
   and evaluation.
 job-title: 'Principal Consultant, Economic Growth '
-image: https://assetify-dai.com/experts/Kongkona%20Sarma%20Inner.jpg
+image: "/uploads/1516355565156.jpg"
 solutions:
 - Business Environment Reform
 - Economic Growth
