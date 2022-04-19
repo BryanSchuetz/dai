@@ -1,6 +1,10 @@
 ---
 title: Worldwide—Social Protection Technical Assistance, Advice and Resources (STAAR)
 date: 2022-04-19 13:32:00 Z
+summary: 'The Social Protection Technical Advice, Assistance and Resources Facility
+  (STAAR) is an FCDO project dedicated to expanding and improving the effectiveness
+  of investments in gender-responsive social protection and social protection approaches
+  in crises. '
 start: 2021
 end: 2024
 client: Foreign, Commonwealth & Development Office
@@ -8,6 +12,7 @@ solutions:
 - - Social Protection
   - Fragile States
   - Gender and Social Inclusion
+  - Climate Change Adaptation and Mitigation
 regions: Worldwide
 ---
 
