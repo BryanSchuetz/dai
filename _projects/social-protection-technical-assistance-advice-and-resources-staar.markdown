@@ -28,6 +28,8 @@ Strengthening social protection systems directly benefits people living in, or a
 
 The COVID-19 pandemic has highlighted just how powerful social protection can be as a tool for crisis response. It has been used by governments across the globe to help people manage the economic fall-out of the pandemic in their own lives. Critically, those countries with stronger routine social protection systems have been able to meet emerging needs more quickly and more effectively than others. 
 
+[1E1A2125.JPG](/uploads/1E1A2125.JPG)
+
 **Gender-Responsive Social Protection**
 
 Social Protection has real potential to address the drivers of gender inequality as well as poverty—closing gender gaps in education, health, and economic opportunities. To do this, systems and programs can be designed or strengthened using a gender lens—examining how each element of the system can best integrate gender equality considerations. For example, when thinking through the program design elements of the social protection system in relation to girls’ education: poverty and vulnerability assessments should map girls’ and boys’ access to and success in education; while benefits packages might include a scale-up of school feeding to maximize attention spans.
