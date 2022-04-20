@@ -62,10 +62,10 @@ The program was managed by DAI through the FCDO framework agreement [Expert Advi
 
 * Independent advice provided through over 120 engagements, in over 40 countries, to more than 25 actors (donors, implementing partners, and governments). 
 * Monitoring data provides evidence that SPACE engagements: 
-   Facilitated users to influence partners
-   Supported in convening and coordinating among actors
-   Aligned and amplified ongoing and planned work in the sector
-   Directly informed program and response designs
-   Brokered access and uptake of knowledge and evidence in the sector.
+Facilitated users to influence partners;
+Supported in convening and coordinating among actors;
+Aligned and amplified ongoing and planned work in the sector;
+Directly informed program and response designs;
+Brokered access and uptake of knowledge and evidence in the sector.
 * More than 50 online resources made available to guide the effective design and delivery of social protection and humanitarian systems in response to COVID-19; documents have been accessed more than 21,000 times. 
 
