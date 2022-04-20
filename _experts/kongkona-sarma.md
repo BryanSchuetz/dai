@@ -9,6 +9,8 @@ job-title: 'Principal Consultant, Economic Growth '
 image: "/uploads/1516355565156.jpg"
 solutions:
 - Economic Growth
+- Finance and Investment
+- 
 regions:
 - Worldwide
 articles:
