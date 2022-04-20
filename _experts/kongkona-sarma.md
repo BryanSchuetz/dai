@@ -8,7 +8,7 @@ summary: Kongkona Sarma is an economist with 20 years of experience working prim
 job-title: 'Principal Consultant, Economic Growth '
 image: "/uploads/1516355565156.jpg"
 solutions:
-- Finance and Investment
+- Economic Growth
 regions:
 - Worldwide
 articles:
