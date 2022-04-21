@@ -20,6 +20,8 @@ country:
 promos:
 - title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
   link: https://dai-global-developments.com/articles/beyond-the-washroom-sustainable-systemwide-approaches-for-good-sanitation
+- title: Five Lessons on Effectively Improving the Water Sector
+  link: https://dai-global-developments.com/articles/five-lessons-on-effectively-improving-the-water-sector
 - title: Kenyan County Sets Sights on Lofty WASH Goals
   link: https://medium.com/usaid-global-waters/kenyan-county-sets-sights-on-lofty-wash-goals-958c3c164a0
 - title: Clean Water = Education, Access, Opportunity

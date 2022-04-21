@@ -19,6 +19,8 @@ country:
 promos:
 - title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
   link: https://dai-global-developments.com/articles/beyond-the-washroom-sustainable-systemwide-approaches-for-good-sanitation
+- title: Five Lessons on Effectively Improving the Water Sector
+  link: https://dai-global-developments.com/articles/five-lessons-on-effectively-improving-the-water-sector
 - title: Positively Mobilizing Urban Communities for WASH
   link: https://dai-global-developments.com/articles/positively-mobilizing-urban-communities-for-wash
 - title: The Value of Water
