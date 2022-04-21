@@ -11,6 +11,7 @@ solutions:
 - Economic Growth
 - Finance and Investment
 - Gender and Social Inclusion
+- Business Environment Reform
 regions:
 - Worldwide
 articles:
