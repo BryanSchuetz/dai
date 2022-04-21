@@ -22,6 +22,8 @@ The European Union-funded Support to Democratic Governance in Nigeria (EUSDGN) P
 
 DAI leads activities under Component 1 of the programme—Support to the Independent National Electoral Commission (INEC)—which works to enhance the credibility of the elections and seeks to boost citizen participation across the country. Under the supervision of the EU Delegation, DAI also supports monitoring and evaluation and leads visibility activities for the project. 
 
+![ADEM7824.jpg](/uploads/ADEM7824.jpg)
+
 ### Sample Activities
  
 * Support the successful preparation and implementation of the 2023 and 2027 elections.
