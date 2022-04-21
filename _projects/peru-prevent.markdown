@@ -12,6 +12,9 @@ solutions:
 - Natural Resource Management
 regions: Latin America and the Caribbean
 country: 'Peru '
+promos:
+- title: It’s Time Forensic Timber Tracing Became Mainstream
+  link: https://dai-global-developments.com/articles/its-time-forensic-timber-tracing-became-mainstream
 ---
 
 Illegal activity, biodiversity loss, weak governance, and social conflict around natural resource management are threatening one of the world’s most ecologically and culturally significant ecosystems in Peru. Additionally, the lack of maintenance of these extraordinary areas has led to the country forgoing millions of dollars in tourism and thousands of job opportunities. On the other hand, Peru is home to a network of diverse, talented, committed local problem-solvers who are ready to apply creative new approaches—rooted in deep local knowledge—to address environmental crime. 
