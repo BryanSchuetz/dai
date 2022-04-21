@@ -16,6 +16,8 @@ country: Haiti
 promos:
 - title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
   link: https://dai-global-developments.com/articles/beyond-the-washroom-sustainable-systemwide-approaches-for-good-sanitation
+- title: Five Lessons on Effectively Improving the Water Sector
+  link: https://dai-global-developments.com/articles/five-lessons-on-effectively-improving-the-water-sector
 - title: Haiti Declared Free of Cholera
   link: https://www.dai.com/news/haiti-declared-free-of-cholera
 - title: Creating a Roadmap for Sustainable Water Service Delivery in Haiti
