@@ -18,6 +18,8 @@ country:
 promos:
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
+- title: Five Lessons on Effectively Improving the Water Sector
+  link: https://dai-global-developments.com/articles/five-lessons-on-effectively-improving-the-water-sector
 - title: 'Engagement Pays Dividends in Water Conservation '
   link: https://daiglobal.exposure.co/engagement-pays-dividends-in-water-conservation
 - title: Saving Livelihoods One Drop at a Time
