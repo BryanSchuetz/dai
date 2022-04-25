@@ -5,7 +5,7 @@ lastname: Raheem
 summary: 'Zaki Raheem is private sector development specialist, where he engages in
   market assessments that look to link micro-, small-, and medium-sized enterprises
   and producers to growing markets. '
-job-title: 'Senior Manager, Enterprise Development and Entrepreneurship '
+job-title: Technical Director, Sustainable Business Group
 image: "/uploads/Zaki%20Raheem.png"
 solutions:
 - Sustainable Business
