@@ -1,0 +1,22 @@
+---
+title: SBTi Approves DAI’s Ambitious Greenhous Gas Reduction Targets
+date: 2022-04-26 13:10:00 Z
+published: false
+tags:
+- climate
+solutions:
+- Climate
+regions: Worldwide
+---
+
+DAI is delighted to announce that the greenhouse gas emissions targets proposed as part of our membership in the [Race To Zero](https://unfccc.int/climate-action/race-to-zero-campaign#eq-2) initiative have been approved by the Science Based Targets Initiative (SBTi).
+
+The SBTi’s Race to Zero campaign brings together businesses, cities, regions, and investors to support what the campaign calls “a healthy, resilient, zero-carbon recovery that prevents future threats, creates decent jobs, and unlocks inclusive, sustainable growth.” 
+
+DAI has committed to reducing absolute scope 1, 2, and 3 greenhouse gas emissions by 50 percent by 2030 from a 2019 base year.
+
+The SBTi has established a set of criteria that all targets must meet in order to be validated as science-based. “The SBTi commends your ambitious 1.5°C-aligned target, currently the most ambitious designation available through the SBTi process,” the organization wrote in its approval communication.
+
+“It just so happens that we received our approval on Earth Day, which made for a lovely bit of symbolism for our Net Zero Task Force,” said [Donald Lunan](https://www.dai.com/who-we-are/our-team/donald-lunan), DAI’s Global Director, Climate. “Now it’s up to the Task Force and all of us here at DAI to implement the framework, meet these targets, and ensure DAI is doing its part to advance meaningful climate action.”
+
+For an overview of our work in climate adaptation and mitigation, visit our [climate solutions page](https://www.dai.com/our-work/solutions/climate) or check out our latest [Communication on Progress](https://dai-assets.s3.amazonaws.com/ungc-final-2021.pdf).
