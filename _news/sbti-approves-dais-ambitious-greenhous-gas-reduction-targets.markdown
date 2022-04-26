@@ -7,6 +7,7 @@ tags:
 solutions:
 - Climate
 regions: Worldwide
+social-image: "/uploads/SBTi_company_card%20for%20SM.png"
 ---
 
 DAI is delighted to announce that the greenhouse gas emissions targets proposed as part of our membership in the [Race To Zero](https://unfccc.int/climate-action/race-to-zero-campaign#eq-2) initiative have been approved by the Science Based Targets Initiative (SBTi).
