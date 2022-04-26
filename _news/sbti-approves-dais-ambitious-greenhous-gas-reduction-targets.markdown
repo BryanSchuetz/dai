@@ -14,7 +14,7 @@ DAI is delighted to announce that the greenhouse gas emissions targets proposed 
 
 The SBTi’s Race to Zero campaign brings together businesses, cities, regions, and investors to support what the campaign calls “a healthy, resilient, zero-carbon recovery that prevents future threats, creates decent jobs, and unlocks inclusive, sustainable growth.” 
 
-DAI has committed to reducing absolute scope 1, 2, and 3 greenhouse gas emissions by 50 percent by 2030 from a 2019 base year.
+DAI [has committed](https://www.dai.com/news/dai-commits-to-science-based-targets-initiative-to-reduce-greenhouse-gas-emissions) to reducing absolute scope 1, 2, and 3 greenhouse gas emissions by 50 percent by 2030 from a 2019 base year.
 
 The SBTi has established a set of criteria that all targets must meet in order to be validated as science-based. “The SBTi commends your ambitious 1.5°C-aligned target, currently the most ambitious designation available through the SBTi process,” the organization wrote in its approval communication.
 
