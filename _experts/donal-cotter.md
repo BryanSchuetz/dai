@@ -6,7 +6,7 @@ summary: 'Donal Cotter is an expert in economic growth programming, competitiven
   and market-based systems with more than 20 years of experience in international
   development. '
 job-title: Chief of Party, Afghanistan
-image: https://assetify-dai.com/experts/Donal%20Inner.jpg
+image: "/uploads/Donal.Cotter%20for%20site.jpg"
 solutions:
 - Economic Growth
 - Trade
