@@ -2,22 +2,25 @@
 title: Donal Cotter
 date: 2016-01-21 22:18:00 Z
 lastname: Cotter
-summary: Donal Cotter has more than more than 23 years of experience in the fields
-  of finance and economic growth, including 15 years of experience in international
-  development. He has held management roles on five major donor-funded economic growth
-  initiatives in transitioning economies.
+summary: 'Donal Cotter is an expert in economic growth programming, competitiveness,
+  and market-based systems with more than 20 years of experience in international
+  development. '
 job-title: Chief of Party, Afghanistan
 image: https://assetify-dai.com/experts/Donal%20Inner.jpg
 solutions:
 - Economic Growth
+- Trade
 regions:
 - Eastern Europe and Central Asia
 - Middle East and North Africa
 layout: expert
 ---
 
-Donal Cotter has more than more than 23 years of experience in the fields of finance and economic growth, including 15 years of experience in international development. He has held management roles on five major donor-funded economic growth initiatives in transitioning economies.
+Donal Cotter is an expert in economic growth programming, competitiveness, and market-based systems with more than 20 years of experience in international development. He has held senior management positions in several large economic development, financial and economic inclusion, and trade integration projects.
 
-Donal has extensive experience in private sector enterprise development and strategic planning; capacity building and institutional strengthening for government ministries and professional accounting certification associations; credit management in small business lending; and working in interculturally sensitive, conflict, and post-conflict environments.
+Consistent themes on projects which he has managed include—competitiveness, improvements to the business, investment and trade enabling environments, international and regional trade facilitation, World Trade Organization accession, financial inclusion, institutional development, sustainable livelihood development, and management of grants under contract.
 
-* B.A., accounting and finance, Cork Institute of Technology
+He has held senior management roles on six major donor-funded economic growth initiatives in interculturally sensitive, conflict, and post-conflict environments.
+
+* B.A., accounting and finance, Munster Institute of Technology, Ireland
+* Fellow of the Institute of Incorporated Public Accountants, Ireland
