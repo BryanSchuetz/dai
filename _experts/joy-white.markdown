@@ -1,7 +1,7 @@
 ---
 title: Joy White
 date: 2017-04-05 20:07:00 Z
-lastname: white
+lastname: White
 summary: Joy White is an international management specialist with more than 20 years
   of experience in international development, information technology systems, and
   foreign policy.
