@@ -13,13 +13,8 @@ solutions:
 - Market Systems and Value Chain
 - Supply Chain
 articles:
-- name: Capturing Systemic Change in Bangladesh
-  article_file: https://www.marketlinks.org/post/capturing-systemic-change-bangladesh
 - name: 10 Trends Changing Entrepreneurship Ecosystems
   article_file: https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html
-- name: 5 Ways Entrepreneurship Ecosystems are Using Technology to Adapt to the COVID-19
-    Crisis
-  article_file: https://dai-global-digital.com/5-ways-entrepreneurship-ecosystems-are-using-technology-to-adapt-to-the-covid-19-crisis.html
 - name: Four Reasons Entrepreneurship Programs Should Invest in Alumni Networks
   article_file: https://dai-global-developments.com/articles/four-reasons-entrepreneurship-programs-should-invest-in-alumni-networks?utm_source=daidotcom
 layout: expert
