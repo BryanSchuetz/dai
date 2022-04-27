@@ -3,15 +3,17 @@ title: Ethics and Compliance at DAI
 promos:
 - title: DAI Code of Business Conduct and Ethics
   link: "/uploads/DAI%20Business%20Code%20of%20Conduct.pdf"
+- title: DAI Code of Business Conduct and Ethics—Arabic
+  link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20AR%20-%20Copy.pdf"
+- title: DAI Code of Business Conduct and Ethics—Spanish
+  link: "/uploads/DAI%20Business%20Code%20of%20Conduct%20-%20Spanish.pdf"
 - title: Modern Day Slavery and Anti-Human Trafficking
   link: "/uploads/modern-day-slavery-statement.pdf"
-- title: DAI Europe Commitment Statement
+- title: Europe Commitment Statement
   link: "/uploads/DAI-Europe%20Commitment%20Statement%20to%20DFID%20Signed%20June%202019.pdf"
-summary: 'DAI implements stringent policies and processes to ensure that our projects
-  succeed in a compliant and ethical manner, and DAI employees play a pivotal role
+summary: DAI implements stringent policies and processes to ensure that our projects
+  succeed in a compliant and ethical manner, and our employees play a pivotal role
   in upholding DAI’s high standards.
-
-'
 hero: true
 layout: node
 ---

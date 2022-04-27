@@ -1,7 +1,7 @@
 ---
 title: Georgia—Support the Fight Against Organized Crime
 date: 2021-02-12 08:39:00 Z
-summary: We support the Georgia Ministry of Internal Affairs, and its relevant departments,
+summary: We supported the Georgia Ministry of Internal Affairs, and its relevant departments,
   law enforcement, and State Security Services in the fight against organized crime.
 start: 2018
 end: 2022
@@ -16,9 +16,9 @@ country: Georgia
 
 The Government of Georgia has implemented various reforms to strengthen the rule of law, with emphasis on prevention and fight against organized crime. Since 2013, the Interagency Coordinating Council on Fight Against Organized Crime has been mandated with updating, coordinating, and implementing the National Strategy of 2017-2020 for Combating Organized Crime and its action plan.
 
-Our project supports the implementation of the strategy and its plan to build the capacity of the Ministry of Internal Affairs and other relevant departments involved in the fight against organized crime. We also support law enforcement and state security services.
+Our project supported the implementation of the strategy and its plan to build the capacity of the Ministry of Internal Affairs (MIA) and other relevant departments involved in the fight against organized crime. We also supported law enforcement and state security services.
 
-The project helps enhance cooperation with transborder and international law enforcement agencies. The objectives are linked to the Visa Liberalization Action Plan that has set several obligations and benchmarks for its implementation within the competence of the Ministry of Interior in Georgia. 
+The project contributed to enhanced international law enforcement cooperation, strengthened the capabilities of the inter-agency Coordinating Council for the fight against organised crime, and increased the analytical capacities of the Ministry. The team also promoted human-rights-oriented approaches in prosecution, awareness of combating cybercrime, and strengthened the role of MIA Academy.
 
 ![Georgia-Stock image.jpg](/uploads/Georgia-Stock%20image.jpg)
  
