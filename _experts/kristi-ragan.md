@@ -2,18 +2,15 @@
 title: Kristi Ragan
 date: 2016-01-21 22:18:00 Z
 lastname: Ragan
-summary: 'Kristi Ragan leads INVEST, a flagship USAID program to research, develop,
-  and build “blended finance” solutions for development challenges. '
-job-title: Chief of Party, USAID INVEST
+summary: Kristi Ragan leads Africa Trade and Investment (ATI) program, which boosts
+  trade, increases investment, and supports healthy business climates across the African
+  continent.
+job-title: Chief of Party, Africa Trade and Investment (ATI) program
 image: https://assetify-dai.com/experts/Ragan_Inner_0.jpg
 solutions:
 - Economic Growth
-- Innovation and Entrepreneurship
+- Trade
 regions:
-- Asia and the Pacific
-- Eastern Europe and Central Asia
-- Latin America and the Caribbean
-- Middle East and North Africa
 - Sub-Saharan Africa
 layout: expert
 ---
@@ -22,8 +19,8 @@ Growing up on a family farm in Wisconsin, Kristi Ragan developed a deep urge to 
 
 >"There are no single-actor solutions to the challenges of development. Partnering with business is one of the best ways to leverage both funds and know-how in order to solve problems and improve people's lives." — Kristi Ragan
 
-She joined DAI in 2003 and quickly built relationships with Walmart, Gap, Chevron, and other multinational corporations, and leveraged these relationships after being named to lead the core services team for the U.S. Agency for International Development's (USAID) Office of Global Development Alliances. Kristi most recently lead an initiative for USAID that worked to encourage innovative solutions to global problems. She now manages [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project), a flagship USAID program to research, develop, and build “blended finance” solutions for development challenges. Building on three decades of work in Africa, Asia, and the Pacific, Kristi remains committed to finding new ways to raise the quality of life for the world's poor.
+She joined DAI in 2003 and quickly built relationships with Walmart, Gap, Chevron, and other multinational corporations, and leveraged these relationships after being named to lead the core services team for the U.S. Agency for International Development's (USAID) Office of Global Development Alliances. Kristi most recently managed [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project), a flagship USAID program to research, develop, and build “blended finance” solutions for development challenges. Building on three decades of work in Africa, Asia, and the Pacific, Kristi remains committed to finding new ways to raise the quality of life for the world's poor.
 
 * M.S., Georgetown University
-* M.A,. St. John's College
+* M.A., St. John's College
 * Co-Chair, Society for International Development's Work Group on Corporate Responsibility
