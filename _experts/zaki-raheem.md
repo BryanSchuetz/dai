@@ -15,8 +15,8 @@ solutions:
 articles:
 - name: 10 Trends Changing Entrepreneurship Ecosystems
   article_file: https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html
-- name: Four Reasons Entrepreneurship Programs Should Invest in Alumni Networks
-  article_file: https://dai-global-developments.com/articles/four-reasons-entrepreneurship-programs-should-invest-in-alumni-networks?utm_source=daidotcom
+- name: How Incubators & Accelerators in Emerging Markets Can Build Corporate Partnerships
+  article_file: https://dai-global-developments.com/articles/ande-west-africa-hosts-panel-on-assisting-businesses-in-covid-19-crisis
 layout: expert
 ---
 
