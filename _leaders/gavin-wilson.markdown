@@ -10,6 +10,8 @@ summary: Gavin Wilson leads DAI Capital, the investment banking and asset manage
 Gavin Wilson leads DAI Capital, the investment banking and asset management arm of DAI.
  
 Gavin brings to DAI a wealth of experience at the very highest levels of the development finance, emerging markets, and investing arenas, with a distinguished record of service that spans public and private sectors.
+
+![Gavin 5290.jpg](/uploads/Gavin%205290.jpg)
  
 He spent 13 years at Goldman Sachs, including serving as a Managing Director in the firm’s Investment Banking Division in London. On either side of his time at Goldman, he worked for 16 years at the World Bank Group, including as the founding CEO of IFC Asset Management Company (AMC) from 2009 to 2017.
  
