@@ -1,6 +1,6 @@
 ---
 title: SBTi Approves DAI’s Ambitious Greenhous Gas Reduction Targets
-date: 2022-04-26 13:10:00 Z
+date: 2022-04-29 13:10:00 Z
 tags:
 - climate
 solutions:
