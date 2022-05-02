@@ -1,6 +1,7 @@
 ---
 title: Seun Adesina
 date: 2021-07-15 14:43:00 Z
+published: false
 lastname: Adesina
 summary: 'Seun Adesina manages the business development portfolio in DAI’s Nigeria
   office. '
