@@ -2,9 +2,9 @@
 title: Moldova—Support for Structured Policy Dialogue, Coordination of the Implementation
   of the Association Agreement, and Enhancement of the Legal Approximation Process
 date: 2020-08-17 14:30:00 Z
-summary: The DAI-led technical assistance project works to increase the capacity of
-  the Government of the Republic of Moldova and other key national institutions in
-  implementing the European Union-Republic of Moldova Association Agenda.
+summary: The DAI-led technical assistance project is increasing the capacity of the
+  Government of the Republic of Moldova and other key national institutions in implementing
+  the European Union-Republic of Moldova Association Agenda.
 start: 2020
 end: 2025
 client: European Union
@@ -28,3 +28,11 @@ Drawing upon the best EU and international practices, we provide tailormade tech
 * Improve policy development mechanisms for adequate budgeting of strategic documents as well as action plans related to the implementation of the AA.
 * Support the legal approximation process by providing technical expertise and capacity building.
 * Develop and upgrade the IT systems in national public administrations to support the implementation of the AA with the European Union, including in terms of security and integrity.
+
+### Select Results
+
+* Prepared 23 assessment reports and recommendations about the Government’s public consultation tools with business, civil society, and the public regarding draft laws.
+* Supported improving existing laws and drafted new laws connected with: copyrights, access to public information, market surveillance, and personal data protection.
+* Organised 55 roundtable discussions with 565 participants from more than 100 institutions.
+* Conducted training sessions with newly elected Members of Parliament about Parliament’s role in Moldova’s EU integration process.
+* Conducted overall assessment of Moldova’s existing gaps as to EU law requirements in several areas, including consumer protection, environment, motor vehicles, aviation, competition, state aid, quality of fuel, and access to public information.
