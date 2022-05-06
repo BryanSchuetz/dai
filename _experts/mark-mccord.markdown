@@ -19,7 +19,7 @@ Mark McCord has more than 36 years of experience in competitiveness, economic gr
 
 Prior to his international development career, Mark led metropolitan economic development authorities in the United States for more than 15 years, winning Oklahoma Chamber of Commerce Executive of the Year on two different occasions (1989 and 1993) and being named one of the 40 top leaders in Colorado Springs under 40 years of age in 1998. He was also acknowledged by the U.S. Department of Defense for his support for military men and women in the cities where he served. In 2017, he was named a Rockefeller Foundation Global Fellow for his service in leadership and education.
 
-Mark has received numerous accolades from clients and the U.S. Government on his leadership of engagements, results-oriented focus, and strong teambuilding skills, including being named as a Senior Bellagio Fellow by the Rockefeller Foundation. He is an internationally acclaimed writer, author, and speaker on topics from economic growth to leadership.
+Mark has received numerous accolades from clients and the U.S. Government for his leadership of engagements, results-oriented focus, and strong teambuilding skills, including being named as a Senior Bellagio Fellow by the Rockefeller Foundation. He is an internationally acclaimed writer, author, and speaker on topics from economic growth to leadership.
 
 * B.S., Southwestern Oklahoma State University
 * M.A., Gonzaga University
