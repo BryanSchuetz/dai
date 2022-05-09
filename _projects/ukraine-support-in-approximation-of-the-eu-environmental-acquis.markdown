@@ -15,7 +15,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-*[Since the Russian invasion in February 2024, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
+*[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
 
 Ukraine faces longstanding environmental challenges, including air pollution, a lack of water resources, land degradation, solid waste management, biodiversity loss, human health issues associated with environmental risk factors, and climate change. The unbalanced exploitation of natural resources and low priority placed on environmental issues have made it difficult for the country to achieve sustainable economic development. 
 
