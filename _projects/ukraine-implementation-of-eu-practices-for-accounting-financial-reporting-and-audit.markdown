@@ -16,6 +16,8 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
+*[Since the Russian invasion in February 2024, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
+
 Economic and political turbulence have marked Ukraine’s recent past. These conditions have not only disrupted the country's macroeconomic and financial stability, but also undermined its investment climate, access to financial services for citizens and businesses, trade, and job creation. While positive economic trends are emerging, challenges remain.
 
 The European Union (EU)-funded Implementation of EU Practices for Accounting, Financial Reporting, and Audit project works to address the various technical barriers that stand in the way of Ukraine’s economic development and success. Ukraine's public and private sectors require further reform to develop an economy that can deliver balanced and sustainable growth that brings the country closer to Europe. 
