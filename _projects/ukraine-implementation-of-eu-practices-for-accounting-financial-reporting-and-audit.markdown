@@ -16,7 +16,7 @@ regions: Eastern Europe and Central Asia
 country: Ukraine
 ---
 
-*[Since the Russian invasion in February 2024, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
+*[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
 
 Economic and political turbulence in Ukraine’s recent past have not only disrupted the country’s macroeconomic and financial stability, but also undermined its investment climate, access to financial services for citizens and businesses, trade performance, and job creation. 
 
