@@ -23,7 +23,7 @@ Through EU-FINREG, DAI is assisting the Ukrainian authorities in strengthening t
 
 ![Ukraine-FINREG-events and trainings (4).JPG](/uploads/Ukraine-FINREG-events%20and%20trainings%20(4).JPG)
 
-## Sample Activities
+### Sample Activities
 
 * Enable the approximation of Ukraine to European Union standards and best practices in a broad range of financial services, including securities and investment businesses, fund management, insurance and nonstate pension funds provision, leasing and factoring services, nonbank credit institutions, and payment services.
 * Define solvency standards and market entry rules for nonbank financial institutions. 
@@ -31,7 +31,7 @@ Through EU-FINREG, DAI is assisting the Ukrainian authorities in strengthening t
 * Increase through capacity building the operational independence and enforcement powers of the National Securities and Stock Market Commission. 
 * Consolidate nonbank financial institutions and build a sound regulatory environment for nonbank financial services.
 
-## Select Results
+### Select Results
 
 * Supported the drafting of law No. 1069-2, On Amendments to Some Legislative Acts of Ukraine on Improving Functions in State Regulation of Financial Services Market, adopted by the Parliament of Ukraine in September 2019. The law will reduce the number of regulators in the nonbanking financial services markets by allocating the functions of the National Commission between the National Bank of Ukraine and the National Securities and Stock Market Commission. 
 * Prepared and submitted a brief review of the revised law to international financing institutions and donors operating in Ukraine.
