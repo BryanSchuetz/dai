@@ -1,7 +1,6 @@
 ---
 title: Ukraine—Support in Approximation of the EU Environmental Acquis
 date: 2020-05-06 13:05:00 Z
-published: false
 summary: 'Implementation of EU legislation in Ukraine environmental protection occurs
   within eight sectors and is governed by 29 sources of law establishing common rules
   and standards to be reflected in domestic law. This project addresses the relevant
