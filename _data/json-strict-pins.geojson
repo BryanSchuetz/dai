@@ -376,10 +376,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Indonesia",
-        "description": "- <a href=\"http://dai.com/our-work/projects/southeast-asia—asean-us-partnership-good-governance-equitable-and-sustainable\">PROGRESS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash\">IUWASH PLUS</a> (USAID)<br>- <a href=\"http://www.dai.com/our-work/projects/indonesia%E2%80%94apik-adaptasi-perubahan-iklim-dan-ketangguhan-or-climate-change-adaption\">APIK</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/indonesia-mitra-kunci-initiative\">Mitra Kunci</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94preparedness-and-response-pr\">P&R</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/southeast-asia-asean-usaid-partnership-for-regional-optimization-with-the-political-security-and-socio-cultural-communities-prospect\">PROSPECT</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/indonesia-urban-water-sanitation-and-hygiene-iuwash\">IUWASH PLUS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/indonesia-mitra-kunci-initiative\">Mitra Kunci</a> (USAID)<br>",
         "marker-size": "small",
         "marker-color": 1,
-        "marker-symbol": 5
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
