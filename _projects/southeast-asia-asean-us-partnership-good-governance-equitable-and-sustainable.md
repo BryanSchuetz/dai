@@ -26,7 +26,7 @@ layout: project
 
 Southeast Asia has transformed from a region of political strife and poverty to a region of economic progress and increasing democracy, capped by the Association of South East Asian Nations’ (ASEAN) ambitious plan for a fully integrated ASEAN community.
 
-The ASEAN-U.S. Partnership for Good Governance, Equitable, and Sustainable Development and Security (PROGRESS) project [seized this momentum](https://asean.usmission.gov/asean-and-u-s-celebrate-ongoing-partnership-at-usaid-progress-event/) and converged with the renewed U.S. focus on the region as a strategic economic and geopolitical partner. For ASEAN to achieve its own integration agenda and be a dynamic U.S. partner in regional and transnational challenges such as the fight against terrorism and promotion of good governance and human rights, ASEAN must have the institutional capability to muster and enhance its ability for collective action. PROGRESS focused on strengthening institutions to advance ASEAN’s vision.
+The ASEAN-U.S. Partnership for Good Governance, Equitable, and Sustainable Development and Security (PROGRESS) project [seized this momentum](https://asean.usmission.gov/asean-and-u-s-celebrate-ongoing-partnership-at-usaid-progress-event/) and converged with the renewed U.S. focus on the region as a strategic economic and geopolitical partner. For ASEAN to achieve its own integration agenda and be a dynamic U.S. partner in regional and transnational challenges such as the fight against terrorism and the promotion of good governance and human rights, ASEAN must have the institutional capability to muster and enhance its ability for collective action. PROGRESS focused on strengthening institutions to advance ASEAN’s vision.
 
 ![ASEAN Progress.jpg](/uploads/ASEAN%20Progress.jpg)
 
@@ -37,7 +37,7 @@ The ASEAN-U.S. Partnership for Good Governance, Equitable, and Sustainable Devel
 * Support ASEAN institutions to better prepare for and respond to natural disasters.
 * Strengthen institutions responsible for ensuring the promotion and protection of human rights and countering trafficking in persons.
 * Work closely with ASEAN Secretariat’s Legal Service and Agreement Division to develop a practical system to report on the implementation of ASEAN agreements.
-* Engage youth as future leaders and who will bring together civil society and government officials to discuss pressing issues facing the region.
+* Engage youth as future leaders who will bring together civil society and government officials to discuss pressing issues facing the region.
 * Strengthen ASEAN judicial cooperation.
 * Promote science-based decision making through a fellowship embedding early-career scientists in ministries of energy, agriculture, and science and technology.
 

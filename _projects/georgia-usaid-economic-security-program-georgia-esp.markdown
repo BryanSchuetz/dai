@@ -12,6 +12,9 @@ solutions:
 regions: Eastern Europe and Central Asia
 country: Georgia
 promos:
+- title: USAID Georgia Project Nominated for Inclusive Entrepreneurship Initiative
+    of the Year
+  link: https://www.dai.com/news/usaid-georgia-project-nominated-for-inclusive-entrepreneurship-initiative-of-the-year
 - title: USAID-Backed Video Wins World Tourism Organization Contest
   link: https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest
 - title: 'Georgia: Co-investing with the Private Sector to Boost Sustainable Tourism '
@@ -20,7 +23,7 @@ promos:
   link: https://www.youtube.com/channel/UCv6NMRe2cDvSczBdtb1jWuQ
 ---
 
-Georgia is a small country at the crossroads of Asia and Europe on a vital trading and transit route for goods and services. In recent years, Georgia signed free trade agreements that greatly expand Georgia's market access. The USAID Economic Security Program assists Georgian firms to take advantage of the country’s market access and location to exploit regional economic opportunities and compete with international competitors for Georgia's domestic market.
+Georgia is a country at the crossroads of Asia and Europe on a vital trading and transit route for goods and services. In recent years, Georgia signed free trade agreements that greatly expand Georgia's market access. The USAID Economic Security Program assists Georgian firms to take advantage of the country’s market access and location to exploit regional economic opportunities and compete with international competitors for Georgia's domestic market.
 
 The USAID Economic Security Program focuses on enterprises outside of agriculture that show strong potential to create jobs, increase incomes, and increase revenues, as well as support diversification to more productive economic activities, including tourism, light manufacturing, creative industries, shared intellectual services, and solid waste management sectors. 
 
