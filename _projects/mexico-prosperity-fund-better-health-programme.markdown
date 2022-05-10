@@ -23,6 +23,8 @@ promos:
   link: https://dai-global-developments.com/articles/empowering-nurses-to-strengthen-the-mexican-health-system
 - title: Better Health Impact Report
   link: "/uploads/BHPMx_ImpactReportv3_EN.pdf"
+- title: 'Technical Brief: Better Health'
+  link: "/uploads/BetterHealthMx.pdf"
 ---
 
 The Better Health Programme Mexico (BHPMx) was part of the U.K. Global Prosperity programme Better Health Programme that covers eight countries. The DAI-managed programme addressed the growing incidence of noncommunicable diseases (NCD) in Mexico—especially in relation to obesity and diabetes—with the aim of enhancing the economic and social benefits associated with improved health. 
