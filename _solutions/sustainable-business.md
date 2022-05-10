@@ -20,9 +20,9 @@ layout: solution
 
 <img src="/uploads/advisory-implementation.png" alt="Advisory to Implementation" class="float-right" style="width:40%; border-width: 0px;">
 
-# Full Life-Cycle Advisory and Project Implementation Services that Advance the Global Sustainability Agenda.
+# Full Life-Cycle Advisory and Project Implementation Services that Advance the Global Sustainability Agenda
 
-The Sustainable Business Group works across industries including oil and gas, metals and mining, capital projects and infrastructure, renewable energy, retail, food and beverage, financial services, and telecommunications.
+The Sustainable Business Group works across industries including manufacturing, energy and renewables, mining, retail, apparel, food and beverage, financial services, and telecommunications.
 
 # Solutions and Products
 
