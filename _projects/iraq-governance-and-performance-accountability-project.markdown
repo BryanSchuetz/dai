@@ -40,6 +40,7 @@ The Iraq Governance and Performance Accountability (IGPA) project, known locally
 
 ### Select Results
 
+* Revamped climate change adaptation and mitigation guidelines at the national, provincial, and local levels in Iraq. In collaboration with the Renewable Energy Department of the Ministry of Electricity and in coordination with other ministries, IGPA developed a solar power guidebook, facilitated a review of and proposed changes to the Solid Waste Management law, introduced climate-smart agriculture practices, reactivated provincial environment development and protection councils in six provinces, helped plan and implement climate change mitigation and adaption awareness campaigns, and, with the Ministry of Environment, amended Environment Protection Fund’s rules. 
 * Developed bidding documents for 476 projects worth $2.5 billion, 151 projects were awarded worth $864 million; 36 employees received international accreditation as procurement trainers expanding the pool of experts to promote transparency and judicious use of funds. 
 * Re-engineered 99 service delivery processes that improved the efficiency and the effectiveness of the government services delivery. 
 * Facilitated citizen access to avail themselves of government services, including fee and utility payments, through Xizmat, the Kurdistan region’s web portal where 422 government services are centrally located. 
