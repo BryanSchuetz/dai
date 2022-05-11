@@ -26,3 +26,14 @@ Fleming Fund Bangladesh partners include Liverpool School of Tropical Medicine, 
 * Conduct a political economy analysis to create a formal stakeholder map, review current AMR activities, and consider various AMR governance models. This analysis will be used to conduct an advocacy strategy for sustained high-level ownership by the government to strengthen the capacity of multisectoral coordination. 
 * In collaboration with the human health technical working group, conduct antimicrobial use and resistance studies and identify a hospital cluster to study prescription patterns. 
 * Link existing systems in the animal health sector and create means of capturing disaggregated antimicrobial use data, including in-feed use, treatments, pharmacy dispensing for animal use, and public and private clinical usage.  
+
+## Sample Results
+
+* Developed national coordinating mechanisms for AMR plans and strategies across multiple ministries.
+* Developed an integrated national information management system to share and analyze AMR data across sectors.
+* Piloted AMU study across hospitals.
+* Assessing and renovating 32 laboratories in animal health, human health, and aquaculture and procuring blood culture, antimicrobial susceptibility testing, and mass spectrometer instruments for key sites.
+* Trained technical laboratory staff in biosafety and biosecurity, bioinformatics and sequencing, epidemiology, antimicrobial susceptibility training, and external quality assurance.
+* Implemented a laboratory information management system in animal health laboratories.
+* Developed surveillance plans and protocols for AMR and antimicrobial use for cattle and poultry, which have been endorsed by the Government of Indonesia.
+* Developing a genomics study, co-funded by the Government of Indonesia, sequencing 200 strains.
