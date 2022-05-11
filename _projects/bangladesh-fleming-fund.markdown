@@ -30,3 +30,13 @@ Fleming Fund Bangladesh partners include Liverpool School of Tropical Medicine, 
 * Develop an advocacy strategy to gain key decision-makers’ support for AMR surveillance and its multisectoral governance structure and a national budget contribution.  
 * Implement a capacity strengthening plan, including a joint training on data management, and digital health technical support to the data coordinating centre for health. 
 * Support the National Reference Laboratory to conduct monthly supervision visits to surveillance sites to ensure that laboratories have appropriate quality management systems in place.  
+
+## Select Results 
+
+* Finalized the National AMR Surveillance Strategy endorsed by the Bangladeshi Government. 
+* Finalized sector-specific surveillance plans for human, animal, and aquatic sectors, using a One Health approach.
+* Revised government-sponsored AMR sectoral working groups and reorganized or created the relevant committees.
+* Completed assessment of targeted laboratories and finalized plans for refurbishment. 
+* Completed data management assessments in all laboratories and data coordination centers. 
+* Completed training of trainers program on basic microbiology, biosafety and biosecurity, laboratory data management, and advanced microbiology. 
+* Completed a survey to assess antimicrobial use in human health, poultry, and fishery sectors. 
