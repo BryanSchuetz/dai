@@ -9,7 +9,7 @@ layout: default
 
 <h3 style="direction: rtl;"><a href="/uploads/Updated_SIV_Website_PRS.pdf">منابع معلومات برای افغانستان (P-2 & SIV)</a></h3>
 
-If you are an Afghan national who has worked directly as an employee for DAI in Afghanistan and you need an Employment Verification Letter (EVL) to apply for the Special Immigrant Visa (SIV) Program or need an Employer Priority-2 Designation (P-2) Referral, please fill out [this form](http://daisiv.dai.com/). DAI is now using this form and JIRA software to manage requests for SIV Employment Verification Letters and P-2 referrals. We are committed to supporting you in the application process.
+If you are an Afghan national who has worked directly as an employee for DAI in Afghanistan and you need an Employment Verification Letter (EVL) to apply for the Special Immigrant Visa (SIV) Program or need an Employer Priority-2 Designation (P-2) Referral, please fill out [this form](http://daisiv.dai.com/). DAI is now using this form to manage requests for SIV Employment Verification Letters and P-2 referrals. We are committed to supporting you in the application process.
 
 <aside><strong>Please note that submitting fraudulent or tampered documents will lead to an automatic disqualification for an Employment Verification Letter, Letter of Recommendation, or Priority 2 (P-2) Referral from DAI.</strong></aside>
 
@@ -36,11 +36,10 @@ No. If you have already emailed us, do not fill out the webform. We are receivin
 
 ## Why am I receiving emails from new email addresses? Is it safe to respond?  
 
-DAI is now using JIRA software to manage requests for EVLs and P-2 referrals. Please respond to those emails with the requested materials. Emails from the following addresses are legitimate: SIV@dai.com, sivsupport@daisiv.net, and jira@nafjc.com.
+Please respond to those emails with the requested materials. Emails from the following addresses are legitimate: SIV@dai.com and sivsupport@daisiv.net.
 
 ## How do I check on the status of my request to DAI for an EVL or P-2? 
 
-If you submit via the webform, you will be able to create an account with JIRA after receiving the first confirmation email. The status of your request will be visible upon account login.
 If you submitted your request to SIV@dai.com, we will email you with any updates regarding the status of your request. 
 
 ## I’ve already submitted my SIV application to the National Visa Center. How do I check on the status?
