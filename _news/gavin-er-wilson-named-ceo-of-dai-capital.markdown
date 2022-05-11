@@ -1,5 +1,5 @@
 ---
-title: Gavin E.R. Wilson Named CEO of DAI Capital
+title: Gavin Wilson Named CEO of DAI Capital
 date: 2022-05-12 10:00:00 Z
 published: false
 solutions:
@@ -13,7 +13,7 @@ social-image: "/uploads/sm%20gavin%20news-7c8f6a.jpg"
 
 ## Wilson’s appointment underlines DAI’s commitment to mobilize private capital at scale in emerging and frontier economies, the critical ingredient needed to drive global development and climate action
 
-DAI, one of the world’s leading development consulting firms, today announced the appointment of Gavin Wilson as Chief Executive Officer of DAI Capital, its investment banking and asset management arm.
+DAI, one of the world’s leading development consulting firms, today announced the appointment of Gavin E.R. Wilson as Chief Executive Officer of DAI Capital, its investment banking and asset management arm.
 
 “As development professionals, we are increasingly attuned to the critical importance of capital flows that spur growth, create jobs, reduce poverty, and support the tax revenues underlying essential public services,” said DAI President and CEO [Jim Boomgard](https://www.dai.com/who-we-are/leadership/james-boomgard). “Gavin’s extensive experience in public and private finance, his vision, his proven record of leadership, and his stature in the field will all be invaluable as we build DAI Capital into a driver of sustainable investment in the places that need it most.”
 
