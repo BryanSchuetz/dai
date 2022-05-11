@@ -9,6 +9,9 @@ solutions:
 - Sustainable Business
 regions:
 - Worldwide
+articles:
+- name: Worker Health and Wellbeing Programs Key to Supply Chain Resilience
+  article_file: 'https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience '
 ---
 
 Alice Rossignol is a Lead Analyst for DAI’s Sustainable Business Group. An economist experienced in quantitative and qualitative analysis methods (including surveys and interviews), Alice has conducted a variety of strategic advisory and diagnostic pieces, industrial baseline studies, and supply chain assessments for clients including the European Commission (EC), Inter-American Development Bank (IDB), Conservation International, and international energy companies. 
