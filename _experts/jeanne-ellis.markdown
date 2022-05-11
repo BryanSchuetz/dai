@@ -12,8 +12,8 @@ solutions:
 regions:
 - Worldwide
 articles:
-- name: Transitioning a Supply Base from Offshore Oil and Gas to Marine Renewables
-  article_file: https://dai-global-developments.com/articles/transitioning-a-supply-base-from-offshore-oil-and-gas-to-marine-renewables
+- name: Worker Health and Wellbeing Programs Key to Supply Chain Resilience
+  article_file: https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience
 ---
 
 Jeanne Ellis is a Director for DAI’s Sustainable Business Group, where she manages a portfolio of projects in social impact management, local content development, and corporate social investment. She has 20 years of experience in designing, implementing, and overseeing social and economic development programs for donors, governments and mining and oil and gas companies. Her technical areas of expertise include social impact assessment, IFC Performance Standards, extractive sector governance, public-private partnerships, and stakeholder engagement. Recent clients include ExxonMobil, Rio Tinto and the Nova Scotia Department of Energy and Mines.
