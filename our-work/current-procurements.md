@@ -8,7 +8,7 @@ hero: true
 layout: node
 ---
 
-Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ) or request for proposal (RFP), click the link below.
+Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
 * [RFP 2022-07 Data Jam 2022 RFP](/uploads/RFP%202022-07%20Data%20Jam%202022%20RFP.pdf "6/2")
 * [RFA-2022-13_Digital Policy Advocacy Support in Southeast Asia and Mongolia_Final](/uploads/RFA-2022-13_Digital%20Policy%20Advocacy%20Support%20in%20Southeast%20Asia%20and%20Mongolia_Final.pdf "6/8")
