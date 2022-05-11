@@ -1,6 +1,7 @@
 ---
 title: Gavin E. R. Wilson
 date: 2022-04-28 13:24:00 Z
+published: false
 job-title: CEO, DAI Capital
 summary: Gavin Wilson leads DAI Capital, the investment banking and asset management
   arm of DAI.
