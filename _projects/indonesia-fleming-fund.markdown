@@ -27,7 +27,7 @@ Fleming Fund Bangladesh partners include Liverpool School of Tropical Medicine, 
 * In collaboration with the human health technical working group, conduct antimicrobial use and resistance studies and identify a hospital cluster to study prescription patterns. 
 * Link existing systems in the animal health sector and create means of capturing disaggregated antimicrobial use data, including in-feed use, treatments, pharmacy dispensing for animal use, and public and private clinical usage.  
 
-## Sample Results
+## Select Results
 
 * Developed national coordinating mechanisms for AMR plans and strategies across multiple ministries.
 * Developed an integrated national information management system to share and analyze AMR data across sectors.
