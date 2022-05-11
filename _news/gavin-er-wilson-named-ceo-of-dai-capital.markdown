@@ -2,6 +2,9 @@
 title: Gavin E.R. Wilson Named CEO of DAI Capital
 date: 2022-05-12 10:00:00 Z
 published: false
+solutions:
+- Economic Growth
+- Finance and Investment
 summary: DAI, one of the world’s leading development consulting firms, today announced
   the appointment of Gavin Wilson as Chief Executive Officer of DAI Capital, its investment
   banking and asset management arm.
@@ -18,7 +21,7 @@ DAI, one of the world’s leading development consulting firms, today announced 
 
 ![gavin news-8aa227.jpg](/uploads/gavin%20news-8aa227.jpg)`Gavin Wilson in DAI's Bethesda office.` 
  
-[DAI Capital](https://www.dai.com/our-work/solutions/dai-capital) is building a multiproduct platform based on two core pillars: a corporate finance business that helps companies raise capital, and an asset management business that makes investments. In 2020, DAI [acquired a majority stake ](https://www.dai.com/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets)in Magister Advisors to form [DAI Magister](https://www.daimagister.com/), a corporate finance and M&A advisory business that connects growth companies in emerging and frontier markets with global equity investors. In 2021, DAI acquired MicroVest Capital Management, a leading private credit investor in responsible finance institutions, which has made investments of more than US$1 billion to promote financial inclusion across 60 countries. 
+[DAI Capital](https://www.dai.com/our-work/solutions/dai-capital) is building a multiproduct platform based on two core pillars: a corporate finance business that helps companies raise capital, and an asset management business that makes investments. In 2020, DAI [acquired a majority stake ](https://www.dai.com/news/dai-magister-the-leading-capital-advisor-and-investment-bank-for-international-and-emerging-markets)in Magister Advisors to form [DAI Magister](https://www.daimagister.com/), a corporate finance and M&A advisory business that connects growth companies in emerging and frontier markets with global equity investors. In 2021, DAI [acquired MicroVest Capital Management](https://www.dai.com/news/dai-acquires-international-asset-management-firm-microvest), a leading private credit investor in responsible finance institutions, which has made investments of more than US$1 billion to promote financial inclusion across 60 countries. 
  
 “We intend to deepen and broaden our product offering, our geographic presence, and our client relationships through additional acquisitions as well as through organic growth and partnerships,” added Wilson.
 
