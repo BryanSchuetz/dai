@@ -17,7 +17,7 @@ Our featured training includes:
 
 * [Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)
 
-* Oil and Gas 101
+* Energy 101
 
 * Small Business Recovery and Resilience
 
