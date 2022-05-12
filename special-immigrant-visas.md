@@ -30,10 +30,6 @@ If you are an Afghan national who has worked directly as an employee for DAI in 
 | Family Documents (Forms of Identification for Family Members, Marital Status, Relevant Certificates) **(P-2 only)** | Tazkira, National ID Card, Passport, Translated Tazkira, Marriage Certificate, Death Certificate |
 | P-2 Referral Form **(P-2 only)** | Fill out using [this form](https://dai-assets.s3.us-east-1.amazonaws.com/siv/Excel%20Format%20of%20Referral%20Form.xlsx) |
 
-## I’ve already submitted my request to SIV@dai.com. Should I fill out the webform as well?
-
-No. If you have already emailed us, do not fill out the webform. We are receiving a high volume of requests and any duplicates will make it harder for us to respond to your first email.
-
 ## How do I check on the status of my request to DAI for an EVL or P-2? 
 
 If you submitted your request to SIV@dai.com, we will email you with any updates regarding the status of your request. 
