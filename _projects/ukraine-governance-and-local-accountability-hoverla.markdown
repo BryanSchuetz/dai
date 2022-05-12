@@ -35,3 +35,6 @@ HOVERLA works to ensure that Ukraine's system of local self-governance is increa
 * Increase local and subnational government capacity to perform budget fiscal and administrative roles.  
 * Expand municipal fiscal transparency through public hearings and 
 e-portals. 
+
+### Select Results
+
