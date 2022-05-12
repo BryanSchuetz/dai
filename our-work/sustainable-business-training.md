@@ -11,7 +11,7 @@ redirect_from: "/our-work/sustainable-business-training"
 layout: solution
 ---
 
-Building off 50 years of international development experience, DAI offers a comprehensive catalogue of online training. Our training sessions are distinguished by the quality of the content that is steeped in practical applications of development practices and topics. We draw on more than 2,000 long-term projects and development assignments completed across 150 countries to advance trainees’ understanding. Our expert trainers are development practitioners themselves and rely on data and analytics to craft the course material using real case studies to apply theory to practice. Our courses can be customized to specific languages, countries (specific geographies within a country), and development context to maximize the application of the material to current challenges.
+Building off 50 years of international development experience, DAI offers a comprehensive catalogue of training. Our training sessions are distinguished by the quality of the content that is steeped in practical applications of development practices and topics. We draw on more than 2,000 long-term projects and development assignments completed across 150 countries to advance trainees’ understanding. Our expert trainers are development practitioners themselves and rely on data and analytics to craft the course material using real case studies to apply theory to practice. Our courses can be customized to specific languages, countries (specific geographies within a country), and development context to maximize the application of the material to current challenges.
 
 Our featured training includes:
 
