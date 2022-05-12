@@ -10,8 +10,6 @@ image: "/uploads/Ahmad,%20Luqman%20-%20Photo.jpg"
 solutions:
 - Climate
 - Economic Growth
-- Global Health
-- Finance and Investment
 regions:
 - Worldwide
 ---
