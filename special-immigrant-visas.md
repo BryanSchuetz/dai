@@ -9,17 +9,17 @@ layout: default
 
 <h3 style="direction: rtl;"><a href="/uploads/Updated_SIV_Website_PRS.pdf">منابع معلومات برای افغانستان (P-2 & SIV)</a></h3>
 
-If you are an Afghan national who has worked directly as an employee for DAI in Afghanistan and you need an Employment Verification Letter (EVL) to apply for the Special Immigrant Visa (SIV) Program or need an Employer Priority-2 Designation (P-2) Referral, please fill out [this form](http://daisiv.dai.com/). DAI is now using this form to manage requests for SIV Employment Verification Letters and P-2 referrals. We are committed to supporting you in the application process.
+If you are an Afghan national who has worked directly as an employee for DAI in Afghanistan and you need an Employment Verification Letter (EVL) to apply for the Special Immigrant Visa (SIV) Program or need an Employer Priority-2 Designation (P-2) Referral, please email [siv@dai.com](mailto:siv@dai.com). We are committed to supporting you in the application process.
 
 <aside><strong>Please note that submitting fraudulent or tampered documents will lead to an automatic disqualification for an Employment Verification Letter, Letter of Recommendation, or Priority 2 (P-2) Referral from DAI.</strong></aside>
 
-## How do I apply to DAI for an SIV EVL or a Referral to the P-2 program? 
+## How do I request an SIV EVL or a Referral to the P-2 program? 
 
-**Apply through [this form](http://daisiv.dai.com/)**. Please only fill out the form once and attach the requested documents. That will allow us to process your request for an SIV Employment Verification Letter or P-2 Referral as soon as possible. Once you receive your EVL, please follow Department of State guidelines for submission of your SIV application. DAI will directly submit your application materials for P-2 referrals. 
+**Please email us at [siv@dai.com](mailto:siv@dai.com) for more information. Once you receive your EVL, please follow Department of State guidelines for submission of your SIV application. DAI will directly submit your application materials for P-2 referrals. 
 
 **Please use caution when providing personal information about your Special Immigrant Visa (SIV) application or Priority (P-2) referral to any third-party organization. If you are concerned about an organization’s authenticity, please email [jawed_ferdous@dai.com](mailto:jawed_ferdous@dai.com) with the details and contact information of the third-party organization and we will work to confirm that it is a valid source.**
 
-## Do I attach anything to the form?
+## What documents should I submit?
 
 | Needed Information | Documentation Accepted by DAI |
 |:--|:--|
@@ -33,10 +33,6 @@ If you are an Afghan national who has worked directly as an employee for DAI in 
 ## I’ve already submitted my request to SIV@dai.com. Should I fill out the webform as well?
 
 No. If you have already emailed us, do not fill out the webform. We are receiving a high volume of requests and any duplicates will make it harder for us to respond to your first email.
-
-## Why am I receiving emails from new email addresses? Is it safe to respond?  
-
-Please respond to those emails with the requested materials. Emails from the following addresses are legitimate: SIV@dai.com and sivsupport@daisiv.net.
 
 ## How do I check on the status of my request to DAI for an EVL or P-2? 
 
