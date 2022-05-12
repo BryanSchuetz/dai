@@ -19,6 +19,8 @@ promos:
   link: https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine
 ---
 
+*[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
+
 Ukraine continues along the path of decentralization, but there is an urgent need to secure the gains of the past six years of reform. Stakeholders in Ukraine, including the current administration, understand that the expansion of the institutions of democratic local governance is critical to raising local living standards and reducing out-migration, achieving more balanced regional economic development, improving accountability, and enhancing citizen confidence. 
 
 The Ukraine Governance and Local Accountability (HOVERLA) program builds upon accomplishments from the U.S. Agency for International Development’s previous governance support to complete the necessary legal framework for decentralization and mitigate against backsliding, support the operation of newly consolidated communities, improve services delivered to citizens, and advance citizen engagement at all levels.
