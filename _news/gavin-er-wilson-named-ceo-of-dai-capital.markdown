@@ -1,6 +1,7 @@
 ---
 title: Gavin Wilson Named CEO of DAI Capital
 date: 2022-05-12 10:00:00 Z
+is_featured: true
 solutions:
 - Economic Growth
 - Finance and Investment
