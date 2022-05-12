@@ -24,5 +24,5 @@ Gavin has also served as a Commissioner on the Business and Sustainable Developm
 
 Earlier in his career, Gavin worked for McKinsey & Company and as a special advisor at the Bank of England. 
  
-* M.B.A., Stanford University
+* M.B.A., Stanford Graduate School of Business
 * B.A., philosophy, politics, and economics, University of Oxford
