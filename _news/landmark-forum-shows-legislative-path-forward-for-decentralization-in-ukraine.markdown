@@ -12,8 +12,7 @@ projects: Ukraine—Governance and Local Accountability (HOVERLA)
 clients: U.S. Agency for International Development
 summary: 'The U.S. Agency for International Development (USAID)-funded [Governance
   and Local Accountability (HOVERLA)](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla)
-  activity supported a historic forum in Ukraine setting the legislative agenda for
-  2022. '
+  activity supported a historic forum in Ukraine setting the legislative agenda. '
 social-image: "/uploads/sm%20USAID%20HOVERLA%20Forum.jpg"
 country: Ukraine
 ---
