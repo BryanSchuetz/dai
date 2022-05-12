@@ -39,4 +39,4 @@ e-portals.
 ### Select Results
 
 * Donated IT equipment to 25 communities and three Oblasts State Administrations of Poltava, Volyn, and Lviv to better respond to the emergency situations and challenges on the ground. HOVERLA partners received 130 laptops, 60 printers, and 488 supplementing pieces of IT equipment, which will be directed to the emergent needs of the local and oblast authorities to provide residents with continued services.
-* 
+* Hosted historic forum with more than 300 participants to set the legislative agenda for 2022. 
