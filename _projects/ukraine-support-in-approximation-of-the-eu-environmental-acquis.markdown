@@ -27,9 +27,13 @@ The EU-funded Support to Ukraine in Approximation of the EU Environmental Acquis
 
 ![140198 Ukraine Environmental Acquis Website Project Profile PICTURE.jpg](/uploads/140198%20Ukraine%20Environmental%20Acquis%20Website%20Project%20Profile%20PICTURE.jpg)
 
-## Sample Activities
+### Sample Activities
 
 * Help create and implement air quality and waste management mandates in line with the EU-Ukraine Association Agreement.
 * Improve the institutional capacity of authorities at the Ministry of Ecology and Natural Resources and the Ministry for Regional Development, Building, and Housing.
 * Raise public awareness of environmental issues.
 * Support implementation of the National Waste Management Strategy.
+
+### Select Results
+
+* Assessed environmental losses and drafted recommendations for priority waste streams as part of a pilot activity for [EcoThreat](https://ecozagroza.gov.ua/), which tracks war-related environmental threats.
