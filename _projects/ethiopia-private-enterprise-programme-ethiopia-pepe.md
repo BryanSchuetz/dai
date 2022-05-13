@@ -13,6 +13,7 @@ solutions:
 - Gender
 - Workforce Development and Youth
 - Market Systems and Value Chain
+- Finance and Investment
 regions:
 - Sub-Saharan Africa
 country:
