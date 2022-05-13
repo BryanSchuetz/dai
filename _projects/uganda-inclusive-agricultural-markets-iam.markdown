@@ -38,4 +38,5 @@ Inclusivity lies at the heart of IAM. The team focuses on strengthening the mark
 ### Select Results
 
 * Supported grain trader Okeba Uganda Limited to strengthen its supply chain from iron-rich bean producers. The company signed a 30,000 metric ton supply contract for soya bean with Spenza limited Kenya. In collaboration with IAM, Okeba has mobilized 11,872 smallholder farmers (7,006 women and 3,028 refugees), recruited and trained 160 business agents, known as local market facilitators. 
-* Helped input distribution partner Oasis Agribusiness to sell 12.6 metric tons of maize grains to Abim Farmers Development Agency.  
+* Helped input distribution partner Oasis Agribusiness to sell 12.6 metric tons of maize grains to Abim Farmers Development Agency. 
+* Supported the Rubanga Cooperative Society, a farmer cooperative dealing in coffee, maize, and bean, in signing a supply contract for Arabica coffee worth $557,280, along with a financing agreement worth more than $315,000 to offer crop advances to smallholder farmers and act as working capital for the cooperative to purchase greater volumes of Arabica coffee under the supply contract. 
