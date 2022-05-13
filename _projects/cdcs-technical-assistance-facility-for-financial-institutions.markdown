@@ -1,5 +1,5 @@
 ---
-title: Regional—FSG Plus, BII’s Technical Assistance Facility for Financial Institutions
+title: Regional—Financial Services Group (FSG Plus)
 date: 2021-09-21 13:13:00 Z
 summary: FSG Plus is a three-year program that supports British International Investment
   in addressing two pressing priorities—inclusion and climate change and environmental
