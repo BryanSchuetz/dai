@@ -13,17 +13,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Regional
 promos:
-- title: International Stakeholder Newsletter
-  link: https://dai-assets.s3.us-east-1.amazonaws.com/our-work/810_5_DAI_TDDA_Int_NewsletterFINAL%20%282%29.pdf
-- title: L'Afrique contre les épidémies
-  link: https://dai-assets.s3.us-east-1.amazonaws.com/our-work/TDDA%20copy%20for%20DAI%20website%20FR%20updated.docx.pdf
 - title: Meet our Country Coordinators
   link: "/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf"
-- title: Les Coordinateurs Pays de l’ACE
-  link: "/uploads/CC%20profiles%20FR%20final.pdf"
-- title: 'Q&A with Jeffrey Mecaskey: How Community Engagement, Regulations, and Incentives
-    Build a Path to Improved Healthcare'
-  link: https://dai-global-developments.com/articles/q-and-a-with-jeffery-mecaskey
 - title: Strengthening the COVID-19 Response and Protecting Health Services in Uganda
   link: https://dai-global-developments.com/articles/strengthening-the-covid-19-response-and-protecting-health-services-in-uganda
 - title: "**Interview**:  Dabsou Guidaoussou, Chad Country Coordinator, on TDDA's
@@ -33,17 +24,15 @@ promos:
   link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/Chad%20COVID%20Response%20FINAL%202.pdf
 - title: 'COVID-19: Protecting Lives in Cameroon'
   link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/covid-protecting-lives-in-cameroon.pdf
-- title: Visit the programme website
-  link: 'https://tacklingdeadlydiseasesinafrica.org '
-- title: Visitez le site Web du programme
-  link: https://afriquecontrelesepidemies.org
 - title: 'Health Equity is Key to Global Health Security Goals: Learning from COVID-19'
   link: https://dai-global-developments.com/articles/health-equity-is-key-to-global-health-security-goals-learning-from-covid-19
+- title: 'TDDA: Where We Work '
+  link: "/uploads/DAI_TDDA_FCDO_full%20country%20set.pdf"
 ---
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
 
-The Tackling Deadly Diseases in Africa (TDDA) programme works with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We are delivering practical changes that strengthen health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
+The [Tackling Deadly Diseases in Africa (TDDA)](https://tacklingdeadlydiseasesinafrica.org) programme works with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We are delivering practical changes that strengthen health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
 
 >  “Pandemics are the greatest single threat to global health today. TDDA is a flagship programme of the UK Government helping to protect populations and economies around the world, including in the UK.”  -**Graham Gass, Group Head, Africa Regional Department, UK Foreign, Commonwealth & Development Office**
 
@@ -51,7 +40,7 @@ We work closely with the African Centers for Disease Control and the World Healt
 
 ### Expert Support on the Ground
 
-TDDA provides technical expertise and targeted operational support through experts on the ground. The programme is shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We help our focus countries to bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflects the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. Meet our [Country Coordinators](/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf).
+[TDDA](https://afriquecontrelesepidemies.org) provides technical expertise and targeted operational support through experts on the ground. The programme is shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We help our focus countries to bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflects the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. Meet our [Country Coordinators](/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf).
 
 ### Preventing Animal-to-Human Disease Transmission 
 
@@ -84,3 +73,4 @@ TDDA tackles the systemic causes of health insecurity, not just the symptoms. In
 * Supported scale-up of COVID-19 diagnostic activities in Cameroon and widened access to free testing services beyond the capital Yaoundé to six high-risk regions. 
 * Helped prevent the spread of diseases in Uganda by improving the skills of border officials. We are supporting the Ministry of Health to provide targeted supervision, on-the-job training and mentoring of 60 health workers at more than 40 official points of entry.  
 * Facilitated Uganda’s Agriculture Ministry to conduct disease investigations for Rift Valley fever, anthrax, and brucellosis among animals, with the aim of predicting and preventing these diseases which threaten human health and food production. Also, workshops on the WHO’s Integrated Disease Surveillance and Response framework were provided for national trainers working across Uganda’s public, animal, and environmental health organisations and ministries, supporting efforts to reduce deaths from communicable and non-communicable diseases. 
+[DAI_TDDA_FCDO_full country set.pdf](/uploads/DAI_TDDA_FCDO_full%20country%20set.pdf)

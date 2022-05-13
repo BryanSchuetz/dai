@@ -1,10 +1,10 @@
 ---
 title: Feed the Future Southern Africa Seed Trade Project (Seed Trade Project)
 date: 2016-01-21 22:40:00 Z
-summary: This project provides technical assistance to help harmonize seed regulations
-  in the Southern African Development Community (SADC), which will allow seed trade
-  across the region, thereby integrating smaller and isolated national markets into
-  one larger SADC market for seeds.
+summary: This project provided technical assistance to help harmonize seed regulations
+  in the Southern African Development Community (SADC), which allowed seed trade across
+  the region, thereby integrating smaller and isolated national markets into one larger
+  SADC market for seeds.
 start: 2015
 end: 2022
 client: U.S. Agency for International Development
@@ -27,11 +27,11 @@ promos:
 layout: project
 ---
 
-The Seed Trade Project works to improve the availability of and access to high-quality seed in the Southern African Development Community (SADC) countries. The project supports the SADC Secretariat to harmonize policies and regulations governing seed trade in the SADC Member States. The work facilitates seed trade across the region, integrating small and isolated national markets into one larger SADC-wide market for seeds. This, in turn, [increases agricultural productivity](https://www.usglc.org/global-impact-project/stories/seeding-food-security) and profitability and subsequent food and nutrition security.
+The Seed Trade Project improved the availability of and access to high-quality seed in the Southern African Development Community (SADC) countries. The project supported the SADC Secretariat to harmonize policies and regulations governing seed trade in the SADC Member States. The work facilitated seed trade across the region, integrating small and isolated national markets into one larger SADC-wide market for seeds. This, in turn, [increased agricultural productivity](https://www.usglc.org/global-impact-project/stories/seeding-food-security) and profitability and subsequent food and nutrition security.
 
-The [Feed the Future Enabling Environment for Food Security (2016) Report](https://agrilinks.org/activities/feed-future-enabling-environment-food-security-project) found that small national variations among regulations related to variety release, seed certification, and quality control, and quarantine and phytosanitary regulations lead to increased transaction costs and duplicative procedures, which together not only raise the cost, but also increase the time required to get seeds to farmers.
+The [Feed the Future Enabling Environment for Food Security (2016) Report](https://agrilinks.org/activities/feed-future-enabling-environment-food-security-project) found that small national variations among regulations related to variety release, seed certification, quality control, and quarantine and phytosanitary regulations lead to increased transaction costs and duplicative procedures, which together not only raise the cost, but also increase the time required to get seeds to farmers.
 
-The Seed Trade Project’s focus countries are Malawi, Mozambique, Zambia, and Zimbabwe. However, its work in these targeted project countries has spill-over effects in the remaining 12 SADC Member States.
+The Seed Trade Project’s focus countries were Malawi, Mozambique, Zambia, and Zimbabwe. However, its work in these targeted project countries had spill-over effects in the remaining 12 SADC Member States.
 
 <iframe src="https://player.vimeo.com/video/212912142" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

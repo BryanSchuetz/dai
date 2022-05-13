@@ -14,6 +14,9 @@ solutions:
 - Sustainable Business
 regions: Asia and the Pacific
 country: Indonesia
+promos:
+- title: Worker Health and Wellbeing Programs Key to Supply Chain Resilience
+  link: https://dai-global-developments.com/articles/worker-health-and-wellbeing-programs-key-to-supply-chain-resilience?utm_source=daidotcom
 ---
 
 DAI’s Sustainable Business Group was commissioned by [VF Corporation](https://www.vfc.com/)—one of the world’s largest apparel, footwear, and accessories companies—to help develop and implement a health program for a majority-female workforce. The project was initiated under a partnership between VF Corporation and the [USAID Jalin project.](https://www.dai.com/our-work/projects/indonesia-jalin)

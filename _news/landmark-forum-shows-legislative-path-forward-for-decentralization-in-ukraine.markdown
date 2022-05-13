@@ -1,7 +1,6 @@
 ---
 title: Landmark Forum Shows Legislative Path Forward for Decentralization in Ukraine
 date: 2022-02-02 05:02:00 Z
-published: false
 tags:
 - governance
 solutions:
@@ -12,8 +11,7 @@ projects: Ukraine—Governance and Local Accountability (HOVERLA)
 clients: U.S. Agency for International Development
 summary: 'The U.S. Agency for International Development (USAID)-funded [Governance
   and Local Accountability (HOVERLA)](https://www.dai.com/our-work/projects/ukraine-governance-and-local-accountability-hoverla)
-  activity supported a historic forum in Ukraine setting the legislative agenda for
-  2022. '
+  activity supported a historic forum in Ukraine setting the legislative agenda. '
 social-image: "/uploads/sm%20USAID%20HOVERLA%20Forum.jpg"
 country: Ukraine
 ---

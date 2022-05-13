@@ -11,13 +11,13 @@ redirect_from: "/our-work/sustainable-business-training"
 layout: solution
 ---
 
-Building off 50 years of international development experience, DAI offers a comprehensive catalogue of online training. Our training sessions are distinguished by the quality of the content that is steeped in practical applications of development practices and topics. We draw on more than 2,000 long-term projects and development assignments completed across 150 countries to advance trainees’ understanding. Our expert trainers are development practitioners themselves and rely on data and analytics to craft the course material using real case studies to apply theory to practice. Our courses can be customized to specific languages, countries (specific geographies within a country), and development context to maximize the application of the material to current challenges.
+Building off 50 years of international development experience, DAI offers a comprehensive catalogue of training. Our training sessions are distinguished by the quality of the content that is steeped in practical applications of development practices and topics. We draw on more than 2,000 long-term projects and development assignments completed across 150 countries to advance trainees’ understanding. Our expert trainers are development practitioners themselves and rely on data and analytics to craft the course material using real case studies to apply theory to practice. Our courses can be customized to specific languages, countries (specific geographies within a country), and development context to maximize the application of the material to current challenges.
 
 Our featured training includes:
 
 * [Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)
 
-* Oil and Gas 101
+* Energy 101
 
 * Small Business Recovery and Resilience
 
@@ -156,9 +156,9 @@ To stimulate engagement and cross-learning between participants, we make every e
 
 <hr>
 
-## Oil and Gas 101 Training
+## Energy 101 Training
 
-SBG has been a capacity-building and stakeholder engagement partner for international oil and gas companies around the world for the last half-decade. During this period SBG has conducted dozens of Oil and Gas 101 workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the oil and gas industry and develop the industry knowledge of various stakeholders.
+SBG has been a capacity-building and stakeholder engagement partner for international energy companies around the world for the last half-decade. During this period SBG has conducted dozens of Energy workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the Energy industry and develop the industry knowledge of various stakeholders.
 
 ## Who Can Participate?
 
@@ -244,7 +244,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 * Extractive Industry Lead for U.S. Agency for International Development-funded private sector development and competitiveness program in Mozambique
 
-**Zaki Raheem—Senior Specialist, Sustainable Business Group**
+**Zaki Raheem—Technical Director, Sustainable Business Group**
 
 ![new_Zaki Raheem (in Quito)-50e97b.jpg](/uploads/new_Zaki%20Raheem%20(in%20Quito)-50e97b.jpg){:.float-right}
 
@@ -256,19 +256,6 @@ DAI leads customized courses upon request for private sector or government clien
 
 * Adjunct Professor at Columbia University’s School of International and Public Affairs, where he teaches a graduate-level MSME development class
 
-**Dipika Chawla —Principal Specialist, Sustainable Business Group**
-
-![Dipika headshot.jpg](/uploads/Dipika%20headshot.jpg){:.float-right}
-
-[Dipika Chawla](https://www.dai.com/who-we-are/our-team/dipika-chawla) is an entrepreneurship specialist with more than 10 years’ experience in sustainable economic growth and MSME development.
-
-* Leads international and interdisciplinary teams to design and deliver entrepreneurship and MSME development programs
-
-* Experienced trainer in product design, business model development, pivoting, organizational management, and pitching to investors
-
-* Designs and manages programs for business plan and innovation competitions; technology incubators and business accelerators; and entrepreneurship ecosystem strengthening
-
-* Presently serving as Team Lead of the technical team supporting the implementation of Kosmos Innovation Center, a regional entrepreneurship program in West Africa
 
 <hr>
 
