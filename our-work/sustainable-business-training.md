@@ -39,30 +39,6 @@ Upcoming courses in 2022:
 
 <hr>
 
-## Why Does Local Content Matter?
-
-Local content has the potential to provide significant contributions to the host economy from major inward investments.
-
-DAI’s [Sustainable Business Group](/our-work/solutions/sustainable-business) tackles the growing challenges facing private sector companies (investors, operators, contractors) and public authorities in meeting local content regulations and supporting the sustainable industrial development of host economies through capital investments.
-
-> "The course has given me great insight... and covered all the important areas of local content: policy, procurement and metrics."—*Project Co-ordinator for Local Content, Ministry of Energy, Ghana*
-
-These challenges include:
-
-* Since 2015, **dramatic falls** in commodity oil, gas prices and challenging metal and mineral price
-
-* Uncertain **global demand** for oil, gas, and mining products
-
-* Uneven **global recovery** after the 2008 shock, which has driven many governments to seek to privatize public infrastructure operations and investments to reduce government expenditures
-
-* Limited government and **regulatory capacity**
-
-* Growing trend for governments to pass and/or strengthen **local content legislation**, regulations, and policy due to realization that globalization does not always demonstrably benefit local populations
-
-* Balancing the **unintended consequences of globalization** with the **risks of protectionism** in terms of inflation, disinvestment, unemployment, and recession
-
-<hr>
-
 ## What is the Masterclass?
 
 * A **three-day** training covering the full landscape of local content.
