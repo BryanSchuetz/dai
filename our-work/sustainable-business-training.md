@@ -17,11 +17,13 @@ Our featured training includes:
 
 * [Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)
 
+* Social Performance Fundamentals 
+
 * Energy 101
 
 * Small Business Recovery and Resilience
 
-View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf) To find out more, apply for an upcoming Masterclass or training, please email [training@dai.com](mailto:training@dai.com).
+To find out more please email [training@dai.com](mailto:training@dai.com).
 
 **DAI upholds strict standards of excellence in our training as a British Accreditation Council-certified short-course provider**
 
@@ -34,65 +36,6 @@ Upcoming courses in 2022:
 * May 17 - 19, 2022 in Dubai, UAE
 
 * October 17 - 19, 2022 in Houston, USA
-
-### Online Training
-
-Our tailored online training brings you insight from our expert trainers working at the forefront of international development and local content policy. The full-day modules involve interactive workshop activities, networking opportunities, and local content skills building.
-
-Contact [training@dai.com](mailto:training@dai.com) for pricing and registration.
-
-View the [DAI E-training Catalogue here.](/uploads/DAI_E-Training%20Catalogue2021.pdf)
-
-> “The Masterclass has really opened up our minds and shown us a clear way of how to develop local content legal and regulatory frameworks and strategies and the importance of having monitoring and reporting tools. It was also nice to network with our colleagues from Kenya and Uganda and share experiences”—*Director of Local Content, National Economic Empowerment Council, Government of Tanzania*
-
-<!-- <div class="form-wrapper">
-<div class="lead-generator">
-<h3>Learn About Dates, Locations, and Pricing</h3>
-<form id="theForm" accept-charset="UTF-8" action="https://formkeep.com/f/e09f37e21611" method="POST">
-<div class="form-controls--wrap">
-<input type="hidden" name="utf8" value="✓">
-<input type="hidden" name="source" id="source" value="">
-<input type="hidden" name="campaign" id="campaign" value="">
-{% comment %} <label for="name">Full Name</label> {% endcomment %}
-{% comment %} <input type="name" id="name" name="name" placeholder="Full Name"> {% endcomment %}
-{% comment %} <label for="email-address">Email Address</label> {% endcomment %}
-<input type="email" id="email-address" name="email" placeholder="Email Address">
-<button type="submit">Submit</button>
-</div>
-</form>
-<p id="theForm-success">Thanks for inquiring, we'll be in touch soon with more information.</p>
-<script>
-var queryValues = {};
-
-\$.each(window.location.href.split('?').pop().split('&'), function (i, v)
-{
-var v = v.split('=');
-if(v.length > 1) // prevent v\[1\] from erroring if no querystring present
-queryValues\[ v\[0\].toLowerCase() \] = v\[1\].toLowerCase();
-});
-
-if ( queryValues.submit == 'success' )
-{
-\$('#theForm').css('display', 'none');
-\$('#theForm-success').css('display', 'block');
-}
-
-if (typeof queryValues.source != "undefined")
-{
-var source = queryValues.source;
-\$('#source').prop("value", source);
-}
-if (typeof queryValues.campaign != "undefined")
-{
-var campaign = queryValues.campaign;
-\$('#campaign').prop("value", campaign);
-}
-
-</script>
-</div>
-</div> -->
-
-Since 2015, the topic of local content has taken center stage, and with it the need for a new profession to implement fast-developing local content compliance regimes and deliver tangible local benefits as a balance to unrestrained globalization.
 
 <hr>
 
