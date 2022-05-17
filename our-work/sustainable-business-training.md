@@ -42,6 +42,12 @@ Courses in 2022:
 
 ### Social Performance Fundamentals 
 
+A one-day course designed for corporate and philanthropic leaders responsible for social performance programming.
+
+The course trains leaders who are new to social performance to design, implement, and monitor meaningful social performance programming in emerging and frontier markets. It helps participants develop an understanding of how to balance risk and impact, equips them with tools to craft their social impact story, and explains methods for rigorous monitoring and evaluation of social investments.
+
+Download the course brochure
+
 <hr>
 
 ### Energy 101 Training
