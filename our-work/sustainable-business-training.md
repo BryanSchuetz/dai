@@ -17,7 +17,7 @@ Our featured training includes:
 
 * [Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)
 
-* Social Performance Fundamentals 
+* Social Performance Fundamentals
 
 * Energy 101
 
@@ -27,9 +27,9 @@ To find out more please email [training@dai.com](mailto:training@dai.com).
 
 **DAI upholds strict standards of excellence in our training as a British Accreditation Council-certified short-course provider**
 
-### [Local Content Masterclass](http://www.dai.com/masterclass)
+## [Local Content Masterclass](http://www.dai.com/masterclass)
 
-DAI's industry-leading Local Content Masterclass enables regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. The three course covers the full landscape of local content and comprises **lectures**, hands-on **group exercises**, **computer modeling**, and **video case studies**.* The class examines **strategic alignment** of regulations, industrial policy, and commercial interests; **smart procurement** to manage local content; and the **mechanics** of local content.
+DAI's industry-leading Local Content Masterclass enables regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. The three course covers the full landscape of local content and comprises **lectures**, hands-on **group exercises**, **computer modeling**, and **video case studies**.\* The class examines **strategic alignment** of regulations, industrial policy, and commercial interests; **smart procurement** to manage local content; and the **mechanics** of local content.
 
 Courses in 2022:
 
@@ -39,8 +39,7 @@ Courses in 2022:
 
 <hr>
 
-
-### Social Performance Fundamentals 
+## Social Performance Fundamentals
 
 A one-day course designed for corporate and philanthropic leaders responsible for social performance programming.
 
@@ -48,12 +47,18 @@ The course trains leaders who are new to social performance to design, implement
 
 ### Course modules
 
-* ESG Reporting and Compliance   
+* ESG Reporting and Compliance
+
 * Stakeholder Engagement
+
 * Social Investment, Monitoring, Reporting, Evaluation, and Learning
-* Social Impact Assessment 
+
+* Social Impact Assessment
+
 * Inclusive Growth: Localization and Supplier Diversity
+
 * Building and Maintaining a Connected ESG Function
+
 * Communications and Storytelling
 
 [Download the course brochure](/uploads/Social-Performance-Training_brochure_2022.pdf)
@@ -64,7 +69,7 @@ Courses in 2022:
 
 <hr>
 
-### Energy 101 Training
+## Energy 101 Training
 
 SBG has been a capacity-building and stakeholder engagement partner for international energy companies around the world for the last half-decade. During this period SBG has conducted dozens of Energy workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the Energy industry and develop the industry knowledge of various stakeholders.
 
@@ -163,7 +168,6 @@ DAI leads customized courses upon request for private sector or government clien
 * Technical Director for the global advisory team with Shell LiveWIRE, a flagship entrepreneurship program supporting a global network of accelerator and pre-accelerator programs
 
 * Adjunct Professor at Columbia University’s School of International and Public Affairs, where he teaches a graduate-level MSME development class
-
 
 <hr>
 
