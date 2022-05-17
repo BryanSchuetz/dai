@@ -3,7 +3,7 @@ title: Sustainable Business Training
 date: 2017-06-19 15:11:00 Z
 permalink: "/our-work/solutions/sustainable/sustainable-business-training"
 summary: 'Building off 50 years of international development experience, DAI offers
-  a comprehensive catalogue of online training. '
+  a comprehensive catalogue of training. '
 hero: true
 solutions:
 - Sustainable Business
@@ -73,29 +73,6 @@ These challenges include:
 
 * Examines **strategic alignment** of regulations, industrial policy, and commercial interests; **smart procurement** to manage local content; and the **mechanics** of local content.
 
-<hr>
-
-## Who Can Participate?
-
-To stimulate engagement and cross-learning between participants, we make every effort to invite individuals from a range of organizations involved in local content management. Typical participants include:
-
-* **National and international oil, gas, and mining companies**: This category could include individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance, and those in sustainable development roles.
-
-* **National and international companies involved in other capital intensive sectors such as infrastructure, transportation, renewable energy, utilities, and water management**: Individuals from commercial departments, contracting and procurement, external and government affairs, human resources, social performance and sustainable development.
-
-* **Government policy-making authorities**: Staff working at the national or provincial level engaged in industrial policy, private sector development, supply chain linkage programs, and the promotion of inward investment and exports.
-
-* **Host-country regulatory agencies**: Officials responsible for setting local content targets, compiling aggregate demand, assessing local market capability, managing registers of domestic suppliers, and engaging in tendering processes.
-
-* **International and larger-scale domestic contractor suppliers**: Those who manage local supply chains, source globally, and/or have business development interests in emerging economies. Relevant departments include business development, account management, marketing, service delivery, production, human resources, social performance, and sustainable development.
-
-* **Local supplier business and trade associations**
-
-* **Official development agencies and development finance institutions**: Personnel who work in procurement departments, oil, gas, mining, and infrastructure departments, and business linkage advisory services.
-
-> "The course was beyond my expectations. I thought I was coming for validation, but actually learnt many new insights"—*Head of Strategy and Policy Development, Nigerian Content Development Monitoring Board*
->
-> “Certainly the prime local content course in the market. Highly recommended.”—*Local Content Manager, international oil field services company*
 
 <hr>
 
