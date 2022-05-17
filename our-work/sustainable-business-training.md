@@ -138,7 +138,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 **Zachary Kaplan—Vice President, Sustainable Business Group**
 
-![Zachary Kaplan Photo](/uploads/Zach%20Photo.jpg){:.float-right}
+![Zachary Kaplan Photo](/uploads/Zach%20websitepng.png){:.float-right}
 
 [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan) has more than 10 years’ experience within the extractives industry, focusing on extensive local content and policy, and leads activities related to local content, corporate social investment, and supplier development.
 
@@ -171,6 +171,8 @@ DAI leads customized courses upon request for private sector or government clien
 * Technical Director for the global advisory team with Shell LiveWIRE, a flagship entrepreneurship program supporting a global network of accelerator and pre-accelerator programs
 
 * Adjunct Professor at Columbia University’s School of International and Public Affairs, where he teaches a graduate-level MSME development class
+
+
 
 <hr>
 
