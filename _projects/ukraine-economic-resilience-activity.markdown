@@ -1,7 +1,6 @@
 ---
 title: Ukraine—USAID Economic Resilience Activity (ERA)
 date: 2018-11-16 14:43:00 Z
-published: false
 summary: The USAID Economic Resilience Activity works to strengthen the economy of
   eastern Ukraine in the response to recent regional instability.
 start: 2018
@@ -26,7 +25,7 @@ promos:
   link: https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine
 ---
 
-Even before the onset of regional instability, eastern Ukraine was saddled with lagging industries. Recent conflict has further crippled local industry by disrupting market links and displacing entire communities. The [USAID Economic Resilience Activity (ERA)](https://era-ukraine.org.ua/) aims to boost the economic resilience of eastern Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience nearly nonexistent. The program works to diversify the region’s industries and improve its integration with the rest of the country, while also helping residents gain locally needed job skills.
+Even before the onset of Russia’s 2022 war in Ukraine, eastern Ukraine was saddled with communities ripped apart, disrupted markets, and internally displaced people (IDP). The U.S. Agency for International Development's [Economic Resilience Activity (ERA)](https://era-ukraine.org.ua/) aims to boost the economic resilience of Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience ravaged. The program works to diversify the industries and improve IDP integration with the rest of the country, while also helping them gain locally needed job and livelihood skills.
 
 <iframe src="https://player.vimeo.com/video/371460790" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -40,7 +39,6 @@ Even before the onset of regional instability, eastern Ukraine was saddled with 
 
 ### Select Results
 
-* Facilitated inward investment of Danish engineering firm [BIIR](http://euromaidanpress.com/2015/06/04/danish-entrepreneur-now-is-the-time-to-invest-in-ukraine/) in Rubizhne, a city in the Luhansk Oblast in eastern Ukraine. To date, BIIR has procured $25,000 worth of computers and software and weighed in on curriculum requirements to launch the Rubizhne training of trainers’ program at Dahl University with the plan to hire the trained graduates. 
 * Assisted 935 vulnerable and hard-to-reach beneficiaries—of whom 61 percent were female—in the first year with training and technical assistance.
 * Supported grantee Ukrainian Leadership Academy to host a youth forum called
 “[Every Tomorrow Starts Today](https://www.facebook.com/watch/?v=528382821056937).” More than 400 young leaders from all 24 oblasts of Ukraine helped develop a vision for “Ukraine 2030.” 
