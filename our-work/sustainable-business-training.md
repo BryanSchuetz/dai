@@ -46,12 +46,21 @@ A one-day course designed for corporate and philanthropic leaders responsible fo
 
 The course trains leaders who are new to social performance to design, implement, and monitor meaningful social performance programming in emerging and frontier markets. It helps participants develop an understanding of how to balance risk and impact, equips them with tools to craft their social impact story, and explains methods for rigorous monitoring and evaluation of social investments.
 
+### Course modules
+
+* ESG Reporting and Compliance   
+* Stakeholder Engagement
+* Social Investment, Monitoring, Reporting, Evaluation, and Learning
+* Social Impact Assessment 
+* Inclusive Growth: Localization and Supplier Diversity
+* Building and Maintaining a Connected ESG Function
+* Communications and Storytelling
+
 [Download the course brochure](/uploads/Social-Performance-Training_brochure_2022.pdf)
 
 Courses in 2022:
 
 * September 16, 2022 in London, UK
-
 
 <hr>
 
