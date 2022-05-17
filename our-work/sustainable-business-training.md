@@ -162,9 +162,9 @@ DAI leads customized courses upon request for private sector or government clien
 
 * Extractive Industry Lead for U.S. Agency for International Development-funded private sector development and competitiveness program in Mozambique
 
-**Zaki Raheem—Technical Director, Sustainable Business Group**
+**Zaki Raheem—Technical Director, Sustainable Business Group** 
 
-![new_Zaki Raheem (in Quito)-50e97b.jpg](/uploads/new_Zaki%20Raheem%20(in%20Quito)-50e97b.jpg){:.float-right}
+![new_Zaki Raheem (in Quito)-50e97b.jpg](/uploads/Zaki%20Raheem.png){:.float-right}
 
 [Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem) has more than 18 years’ experience as an MSME development specialist designing, advising, mentoring, and managing entrepreneurship, enterprise development, value chain development, and financial inclusion programs.
 
