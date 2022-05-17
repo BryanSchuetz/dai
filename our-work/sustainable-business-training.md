@@ -152,7 +152,7 @@ DAI leads customized courses upon request for private sector or government clien
 
 **Dorival Bettencourt—Director, Sustainable Business Group**
 
-![Dorval bettencourt photo](/uploads/Dorival_Bettencourt_photo.jpg){:.float-right}
+![Dorval bettencourt photo](/uploads/Dorival%20web.jpg){:.float-right}
 
 [Dorival Bettencourt](https://www.dai.com/who-we-are/our-team/dorival-bettencourt) has more than 10 years’ experience in oil and gas investment, focusing on local content policy and implementation, and leads activities related to local content, corporate social investment, and supplier development for oil and gas clients around the world.
 
