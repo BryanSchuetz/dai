@@ -71,11 +71,11 @@ Courses in 2022:
 
 ## Energy 101 Training
 
-SBG has been a capacity-building and stakeholder engagement partner for international energy companies around the world for the last half-decade. During this period SBG has conducted dozens of Energy workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the Energy industry and develop the industry knowledge of various stakeholders.
+DAI has been a capacity-building and stakeholder engagement partner for international energy companies around the world for the last half-decade. During this period DAI has conducted dozens of Energy workshops around the world, including in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness of the Energy industry and develop the industry knowledge of various stakeholders.
 
-## Who Can Participate?
+### Who Can Participate?
 
-So far, we have trained more than 400 individuals from the media, government, blogger activists, civil society, nongovernmental organizations, environmental specialists, community leaders, mayor’s offices, governor’s offices, religious leaders, security forces, businesses, business associations, and several other stakeholder groups.
+So far, we have trained more than 400 individuals from the media, government, blogger activists, civil society, non-governmental organizations, environmental specialists, community leaders, mayor’s offices, governor’s offices, religious leaders, security forces, businesses, business associations, and several other stakeholder groups.
 
 The sessions cover a range of topics including:
 
@@ -93,7 +93,9 @@ The sessions cover a range of topics including:
 
 * Introduction to gas and LNG
 
-In addition to general capacity-building and awareness programs, SBG also delivers training focused on specific project phases or event. An example is the training workshop on the fundamentals of the oil & gas industry delivered to Senegal’s ESIA Technical Committee in July 2018. The workshop, held in Dakar, was organized by the Directorate of the Environment under the Ministry of Environment and Sustainable Development in coordination with the operator BP. The objective of the workshop was to give participants a deeper technical understanding of the oil and gas industry to enhance their ability to assess the Tortue-1 ESIA document. The sessions covered the industry value chain; the process by which hydrocarbons are formed; technical aspects of the upstream segment, technologies used at different phases; gas composition, process processing and the LNG market; detailed breakdowns of different production facilities; and operational aspects of oil spill response.
+In addition to general capacity-building and awareness programs, DAI also delivers training focused on specific project phases or events. An example is the training workshop on the fundamentals of the oil & gas industry delivered to Senegal’s ESIA Technical Committee in July 2018. The workshop, held in Dakar, was organized by the Directorate of the Environment under the Ministry of Environment and Sustainable Development in coordination with the operator BP. The objective of the workshop was to give participants a deeper technical understanding of the oil and gas industry to enhance their ability to assess the Tortue-1 ESIA document. The sessions covered the industry value chain; the process by which hydrocarbons are formed; technical aspects of the upstream segment, technologies used at different phases; gas composition, process processing and the LNG market; detailed breakdowns of different production facilities; and operational aspects of oil spill response.
+
+<hr>
 
 ## Small Business Recovery and Resilience Training
 
@@ -113,7 +115,7 @@ The modules are designed to:
 
 DAI’s small business recovery and resilience training can be delivered either as individual, targeted modules or as the holistic two-day MSME Resilience System.
 
-## Who Can Participate?
+### Who Can Participate?
 
 * **Companies**: Support local suppliers, redirect corporate social responsibility (CSR) funds to effective training for sustainable growth
 
@@ -124,6 +126,7 @@ DAI’s small business recovery and resilience training can be delivered either 
 * **Financial institutions**: Reduce MSME portfolio risk and nonperforming loans
 
 * **Industry associations**: Develop the resilience of member companies and support them as they adjust to a COVID-19 environment
+<hr>
 
 ## Customized Courses
 
