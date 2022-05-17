@@ -37,6 +37,8 @@ Courses in 2022:
 
 * October 17 - 19, 2022 in Houston, USA
 
+[Read more about the Masterclass](http://www.dai.com/masterclass) 
+
 <hr>
 
 ## Social Performance Fundamentals
