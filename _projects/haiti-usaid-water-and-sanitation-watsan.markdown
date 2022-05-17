@@ -1,10 +1,10 @@
 ---
 title: Haiti—USAID Water and Sanitation project
 date: 2018-01-01 20:11:00 Z
-summary: The USAID Water and Sanitation project works with private-sector partners
-  and national and local government institutions in Haiti to help 250,000 people gain
-  access to basic water services and 75,000 Haitians gain access to basic sanitation
-  services.
+summary: 'The USAID Water and Sanitation project helped local water utilities and
+  fecal sludge management sites to provide improved water service to more than 300,000
+  people, improved sanitation service to more than 75,000 people, and to put the local
+  water utilities and fecal sludge facilities on a stable financial footing. '
 start: 2017
 end: 2022
 client: U.S. Agency for International Development
@@ -28,7 +28,7 @@ promos:
 
 In Haiti, the incidence of life-threatening water-borne diseases has worsened in recent years, due in large part to the massive earthquake in 2010 and Hurricane Matthew in 2016. Today, fewer Haitians have access to improved water sources than in 1990. Haiti’s National Directorate for Water and Sanitation has become absorbed in emergency response rather than planning the effective decentralization of water security, sanitation, and hygiene (WSSH) services. Private-sector actors have attempted to fill gaps in access, but without proper regulation, these services are often unaffordable for low-income populations and cause environmental damage.
 
-To help reverse these trends, the U.S. Agency for International Development (USAID) designed the USAID Water and Sanitation project to lay the foundation for sustainable, safe, and affordable water and sanitation services. The team supports infrastructure projects that expand access to water and sanitation services while also building local capacity to provide ongoing maintenance. Working in four target communities, the program is helping 300,000 people gain access to basic water services and 75,000 people gain access to basic sanitation services.
+To help reverse these trends, the U.S. Agency for International Development (USAID) designed the USAID Water and Sanitation project to lay the foundation for sustainable, safe, and affordable water and sanitation services. The team supported infrastructure projects to expand access to water and sanitation services while also building local capacity to provide ongoing maintenance. Working in four target communities, the program was able to help the local water utilities and fecal sludge management sites to provide improved water service to more than 300,000 people, improved sanitation service to more than 75,000 people, and to put the local water utilities and fecal sludge facilities on a stable financial footing. 
 
 ![Haiti WASH web image.jpg](/uploads/Haiti%20WASH%20web%20image.jpg)
 
