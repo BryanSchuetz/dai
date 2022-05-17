@@ -29,9 +29,9 @@ To find out more please email [training@dai.com](mailto:training@dai.com).
 
 ### [Local Content Masterclass](http://www.dai.com/masterclass)
 
-The [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) offers the industry-leading Masterclass enabling regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk.
+DAI's industry-leading Local Content Masterclass enables regulators, companies, and contractors to effectively design and manage local content to maximize benefits and minimize risk. The three course covers the full landscape of local content and comprises **lectures**, hands-on **group exercises**, **computer modeling**, and **video case studies**.* The class examines **strategic alignment** of regulations, industrial policy, and commercial interests; **smart procurement** to manage local content; and the **mechanics** of local content.
 
-Upcoming courses in 2022:
+Courses in 2022:
 
 * May 17 - 19, 2022 in Dubai, UAE
 
@@ -39,20 +39,12 @@ Upcoming courses in 2022:
 
 <hr>
 
-## What is the Masterclass?
 
-* A **three-day** training covering the full landscape of local content.
-
-* Framed by the **regional context** of local content regulation and sector development.
-
-* Consists of **lectures**, hands-on **group exercises**, **computer modeling**, and **video case studies**.
-
-* Examines **strategic alignment** of regulations, industrial policy, and commercial interests; **smart procurement** to manage local content; and the **mechanics** of local content.
-
+### Social Performance Fundamentals 
 
 <hr>
 
-## Energy 101 Training
+### Energy 101 Training
 
 SBG has been a capacity-building and stakeholder engagement partner for international energy companies around the world for the last half-decade. During this period SBG has conducted dozens of Energy workshops in Senegal, Mauritania, Sao Tome, Mozambique, Guyana, and Suriname. The objective of the sessions is to build awareness around the Energy industry and develop the industry knowledge of various stakeholders.
 
