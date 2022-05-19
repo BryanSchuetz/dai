@@ -1,6 +1,6 @@
 ---
-title: Democratic Republic of the Congo—Strengthening Livelihoods and Resilience (SLR)
-  Activity
+title: Democratic Republic of the Congo—Feed the Future Strengthening Livelihoods
+  and Resilience (SLR) Activity
 date: 2020-10-02 13:42:00 Z
 summary: The DRC Strengthening Livelihoods and Resilience Activity assists the Government
   to improve the resilience capacities in vulnerable households and communities and
@@ -15,6 +15,10 @@ solutions:
 - 
 regions: Sub-Saharan Africa
 country: Democratic Republic of Congo
+promos:
+- title: 'Navigating Systemic Resilience Trade-Offs in Conflict Settings: Examples
+    from Ituri, DRC'
+  link: https://www.vikarainstitute.org/post/navigating-systemic-resilience-trade-offs-in-conflict-settings-examples-from-ituri-drc
 ---
 
 The Democratic Republic of the Congo (DRC) Strengthening Livelihoods and Resilience (SLR) Activity assists the Government of the DRC to improve the resilience of vulnerable households and communities and support the Congolese people, households, and communities in their efforts to sustainably escape poverty and chronic vulnerability. SLR strengthens systems and institutional capacity; fosters inclusive economic growth and improved livelihoods; improves the availability, access, utilization, and stability of nutritious foods; and promotes gender equity and the empowerment of women and youth.
