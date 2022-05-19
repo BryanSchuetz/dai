@@ -17,4 +17,3 @@ Listed below are current solicitations. To view additional information regarding
 * [Centre Comms Agency—TOR 11052022](/uploads/Centre%20Comms%20Agency%20-%20TOR%2011052022%20%5B75%5D.pdf "6/7")
 * [RFP 2022-07 Data Jam 2022 RFP](/uploads/RFP%202022-07%20Data%20Jam%202022%20RFP.pdf "6/2")
 * [RFA-2022-13_Digital Policy Advocacy Support in Southeast Asia and Mongolia_Final](/uploads/RFA-2022-13_Digital%20Policy%20Advocacy%20Support%20in%20Southeast%20Asia%20and%20Mongolia_Final.pdf "6/8")
-* [RFA 2022-12 SARDI SME Digital Upskilling](/uploads/RFA%202022-12%20SARDI%20SME%20Digital%20Upskilling.pdf "5/18")
