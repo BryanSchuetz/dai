@@ -1,18 +1,15 @@
 ---
 title: Doreen Erfe
 date: 2016-01-21 22:18:00 Z
-published: false
 lastname: Erfe
-summary: 'Doreen Erfe joined the U.S. Agency for International Development (USAID)-funded
-  Philippine Water Revolving Fund Support Program in 2008 as Senior Policy and Institutional
-  Development Specialist.
-
-'
-job-title: Senior Policy Development Specialist
+summary: Doreen Erfe is the Resources Mobilization Specialist for the Philippines
+  Safe Water Activity.
+job-title: Resources Mobilization Specialist
 image: https://assetify-dai.com/experts/doreen-erfe.jpg
 solutions:
 - Environment
 - Natural Resource Management
+- Water Security, Sanitation, and Hygiene
 regions:
 - Asia and the Pacific
 layout: expert
