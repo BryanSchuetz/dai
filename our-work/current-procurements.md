@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFA 2022-12 Modification 2](/uploads/RFA%202022-12%20Modification%202.pdf "5/26")
 * [RFQ-ALG-013-22 Saplings and Grape Cuttings](/uploads/RFQ-ALG-013-22%20Saplings%20and%20Grape%20Cuttings%20FINAL.pdf "6/5")
 * [RFP-TCA-KYR-22-0001 Portfolio of Handicraft Products](/uploads/RFP-TCA-KYR-22-0001%20Portfolio%20of%20Handicraft%20Products%20(for%20DAI%20website).pdf "6/11")
 * [RFA 2022-12 Modification 1](/uploads/RFA%202022-12%20Modification%201.pdf "5/26")
