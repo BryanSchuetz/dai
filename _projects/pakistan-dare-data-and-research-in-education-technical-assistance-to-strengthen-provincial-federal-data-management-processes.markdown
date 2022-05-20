@@ -2,6 +2,14 @@
 title: 'Pakistan—DARE (Data and Research in Education): Technical Assistance to Strengthen
   Provincial-Federal Data Management Processes'
 date: 2022-05-20 09:08:00 Z
+start: 2022
+end: 2023
+client: World Bank
+solutions:
+- Education
+- Education
+regions: Asia and the Pacific
+country: Pakistan
 ---
 
 DARE (Data and Research in Education) aims to improve Pakistan’s education data infrastructure and enhance coordination in the sector between the country’s federal and provincial governments. The project supports Pakistan’s Ministry of Federal Education and Professional Training, providing technical assistance (TA) to stakeholders at both federal and provincial levels. 
