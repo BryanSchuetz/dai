@@ -25,7 +25,7 @@ DAI will deliver the project with core partner Impetus Advisory Group.
 
 ### Sample Activities
 
-The project consists of three components:
+The project has three components:
 * A comprehensive study of the existing education-related databases at the federal and provincial levels will be completed. 
 * The development of a data standardization framework using the results from the first component. This data standardization framework will be a guiding document for setting up an integrated national education database that could be used as an open data portal. The TA team will work with the stakeholders and prepare a costed plan of action for setting up an integrated national education database.
 * A design, along with all required technical details, for setting up the national open data portal. 
