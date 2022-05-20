@@ -11,6 +11,8 @@ solutions:
 - Natural Resource Management
 - Environment
 - Water Security, Sanitation, and Hygiene
+- Climate
+- Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Nepal
 promos:
