@@ -30,5 +30,6 @@ DAI’s market-oriented approach helps Afghan businesses increase the sales-wort
 
 ### Select Results
 
+*  Placed 1,109 apprentices who will complete skills training in various sectors, such as carpets, cashmere, and food production. Apprentices will increase value in the workforce and generate income that will support 11,000 household members while they learn new skills.
 * Assisted the Ministry of Mines and Petroleum (MoMP), through a new process, to issue export certificates for 40,000 kg of lapis lazuli, 4.2 grams of emeralds, and 20.3 grams of rubies, collecting $7,637 in royalties. This is the first collection of royalties for gemstone exports that the MoMP has received in several years.
 * Partnered with Label STEP, the world's only fair-trade nonprofit committed to the wellbeing of weavers and workers in the handmade carpet industry, to support Afghan carpet exporters by strengthening supply chain integration, quality control, and production management. Label STEP will organize weavers on local levels and cooperate with local producers and exporters to increase the weavers' integration in the value chain, improve access to quality control, support production management, and enhance product quality.

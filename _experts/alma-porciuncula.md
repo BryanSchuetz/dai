@@ -5,7 +5,7 @@ lastname: Porciuncula
 summary: Alma Porciuncula has been leading DAI's work in the Philippines on innovative
   financing for water supply and sanitation projects, policy, and regulatory and utility
   reform since 1994.
-job-title: Chief of Party, Philippines Safe Water
+job-title: Chief of Party, Philippines Safe Water Activity
 image: https://assetify-dai.com/experts/Alma_Inner.jpg
 solutions:
 - Environment
@@ -13,6 +13,10 @@ solutions:
 - Natural Resource Management
 regions:
 - Asia and the Pacific
+articles:
+- name: Innovative Fund Enables Philippine Water Utilities to Invest, Deliver Safe
+    Water to New Customers
+  article_file: https://dai-global-developments.com/articles/innovative-fund-enables-philippine-water-utilities-to-invest
 layout: expert
 ---
 
