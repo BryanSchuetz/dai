@@ -392,25 +392,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "ci6jvqkq300u9jsm7843tgqu1",
-        "title": "Active Projects in Sri Lanka",
-        "description": "- <a href=\"http://dai.com/our-work/projects/sri-lanka—strengthening-democratic-governance-and-accountability-project-sdgap\">SDGAP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/philippines-sri-lanka-and-vietnam-municipal-waste-recycling-project-mwrp\">MWRP</a> (USAID)",
-        "marker-size": "small",
-        "marker-color": "#6c6c6c",
-        "marker-symbol": 2
-      },
-      "geometry": {
-        "coordinates": [
-          80.595703,
-          8.015715
-        ],
-        "type": "Point"
-      },
-      "id": "4c8799be200cae4d4862382d6b54b2c2"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "ci6jvqkpz00u5jsm799dnxr7j",
         "title": "Active Projects in Laos",
         "description": "- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROSPECT</a> (USAID)",
