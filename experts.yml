@@ -1,5 +1,6 @@
 ---
 ---
+
 {% capture newline %}
 {% endcapture %}
  {% for expert in site.experts %}- name: "{{ expert.title | downcase }}"
