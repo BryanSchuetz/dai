@@ -8,6 +8,8 @@ end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Environment
+- Climate
+- Climate Change Adaptation and Mitigation
 regions: Asia and the Pacific
 country: Nepal
 promos:
