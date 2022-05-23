@@ -14,7 +14,7 @@ solutions:
 - Peace-Building and Political Transition
 - Stabilization
 regions:
-- Asia and the Pacific
+- Eastern Europe and Central Asia
 country:
 - Pakistan
 layout: project
