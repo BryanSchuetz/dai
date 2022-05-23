@@ -1,7 +1,6 @@
 ---
 title: Mark Walker
-group: Nigeria
-image: "/uploads/mark-walker.jpg"
+published: false
 job-title: Manager, Delivery and Integration
 email: mark_walker@dai.com
 summary: |
@@ -15,6 +14,8 @@ summary: |
 
   * M.Sc., agricultural extension, University of Reading
   * B.Sc., environmental science, University of London
+image: "/uploads/mark-walker.jpg"
+group: Nigeria
 sort-order: 1
 ---
 
