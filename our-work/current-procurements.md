@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [Crisis Protection Gap—Top Down Costing Analysis ToR CDP FINAL](/uploads/Crisis%20Protection%20Gap%20-%20Top%20Down%20Costing%20Analysis%20ToR%20CDP%20%20FINAL.pdf "6/7")
+* [Crisis Protection Gap—Bottom up Costing ToR CDP FINAL](/uploads/Crisis%20Protection%20Gap%20-%20Bottom%20up%20Costing%20ToR%20CDP%20FINAL.pdf "6/7")
 * [RFP 2022-08 Digital Agri Hub RFP State of the Sector](/uploads/RFP%202022-08%20Digital%20Agri%20Hub%20RFP%20State%20of%20the%20Sector.pdf "6/16")
 * [RFA 2022-12 Modification 2](/uploads/RFA%202022-12%20Modification%202.pdf "5/26")
 * [RFQ-ALG-013-22 Saplings and Grape Cuttings](/uploads/RFQ-ALG-013-22%20Saplings%20and%20Grape%20Cuttings%20FINAL.pdf "6/5")
