@@ -10,7 +10,7 @@ solutions:
 - Public Financial Management
 - Economic Growth
 regions:
-- Asia and the Pacific
+- Eastern Europe and Central Asia
 country:
 - Pakistan
 promos:

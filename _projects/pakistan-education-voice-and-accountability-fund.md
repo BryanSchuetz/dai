@@ -13,7 +13,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Education
 regions:
-- Asia and the Pacific
+- Eastern Europe and Central Asia
 country:
 - Pakistan
 layout: project
