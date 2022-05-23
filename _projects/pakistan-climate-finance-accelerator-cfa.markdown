@@ -20,7 +20,7 @@ country: Pakistan
 
 The global Climate Finance Accelerator (CFA) programme is a four-year technical assistance programme funded by the U.K. Department of Business, Energy & Industrial Strategy (BEIS) and implemented by PricewaterhouseCoopers. DAI, as a subcontractor, will deliver the first two phases of the CFA activities in Pakistan, including a scoping exercise to map Pakistan's climate finance landscape. 
 
-### Sample Activities
+## Sample Activities
 
 * Develop a shortlist of potential low-carbon projects relevant to Pakistan's Nationally Determined Contributions.
 * Build the capacity of those businesses involved to ensure they can productively engage with financial experts at events convened to connect projects with capital market players.
