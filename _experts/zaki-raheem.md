@@ -24,7 +24,7 @@ Zaki Raheem first became interested in microenterprise development while working
 
 After these early experiences, Zaki joined the socially responsible investment / ESG advisory team at Morgan Stanley Capital International to explore the role of capital markets and multinational corporation investments in emerging markets, as the impact investment field was just emerging.
 
-link these micro- and macro-economic research and consulting experiences, it was a natural progression for Zaki to become a development specialist, where he engages in market assessments that look to link entrepreneurs, micro-, small-, and medium-sized enterprises and producers to growing markets.
+To link these micro- and macro-economic research and consulting experiences, it was a natural progression for Zaki to become a development specialist, where he engages in market assessments that look to link entrepreneurs, micro-, small-, and medium-sized enterprises, and producers to growing markets.
 
 He has had the opportunity to conduct feasibility studies and value chain assessments; lead training and workshops for entrepreneurs and small businesses; host business plan competitions, startup boot camps, innovation challenges and pitch events; design and facilitate training-of-trainers for accelerators and incubators; and play a variety of senior program manager roles on corporate-, donor-, and foundation-funded enterprise development projects.
 
