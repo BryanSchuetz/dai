@@ -11,7 +11,7 @@ start: 2021
 end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
-- Finance and Investment
+- Economic Growth
 regions: Middle East and North Africa
 country: Mexico
 ---
