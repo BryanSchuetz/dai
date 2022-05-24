@@ -38,9 +38,9 @@ The activity is expected to strengthen services for some 1.1 million Filipinos.
 * Improve the resilience of upstream water supplies through integrated water resources management and reduce the volume of downstream demand by building a constituency of water-wise households and businesses.
 
 ## Select Results
-
-* Provided access to safe water supply and safe managed sanitation services to about 1 million and 500,000 households, respectively.
-* Helped mobilize $75 million of investments for water supply and sanitation projects.
-* Helped to reduce, sequester, or avoid through sustainable landscapes activities about 1 million greenhouse gas emissions, estimated in metric tons of CO2 equivalent.
-* Supported at least 600,000 people to benefit from the adoption and implementation of measures to improve water resources management.
-* Strengthened national and local policies and plans integrating water supply and sanitation service provision and sustainable water resource management and institutions.
+ 
+* Helped about 200,000 people to access safe water supply and household sanitation services.
+* Mobilized more than $10 million in funding for water supply and sanitation projects; and another $10 million for investments supporting sustainable landscapes.
+* Forged partnerships with public and private entities to support governance and utility reforms and sustainable livelihood activities for communities living in or around watersheds.
+* Scaled payment for ecosystem services as a means for local government augment public resources for watershed management.
+* Piloted output-based aid and blended finance scheme for basic sanitation services of poor households. 
