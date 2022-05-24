@@ -13,6 +13,8 @@ solutions:
 regions: Asia and the Pacific
 country: Philippines
 promos:
+- title: Hybrid Finance Model Shows Promise in Boosting Access to Sanitation
+  link: https://dai-global-developments.com/articles/hybrid-finance-model-shows-promise-in-boosting-access-to-sanitation
 - title: How USAID Helps Filipino Families Access Affordable Toilets and Septic Tanks
   link: https://medium.com/usaid-2030/virgies-hope-for-better-sanitation-b09203ad509f
 - title: Confronting Climate Uncertainty Head on in the Philippines
@@ -43,4 +45,4 @@ The activity is expected to strengthen services for some 1.1 million Filipinos.
 * Mobilized more than $10 million in funding for water supply and sanitation projects; and another $10 million for investments supporting sustainable landscapes.
 * Forged partnerships with public and private entities to support governance and utility reforms and sustainable livelihood activities for communities living in or around watersheds.
 * Scaled payment for ecosystem services as a means for local government augment public resources for watershed management.
-* Piloted output-based aid and blended finance scheme for basic sanitation services of poor households. 
+* [Piloted](https://dai-global-developments.com/articles/hybrid-finance-model-shows-promise-in-boosting-access-to-sanitation) output-based aid and blended finance scheme for basic sanitation services of poor households. 
