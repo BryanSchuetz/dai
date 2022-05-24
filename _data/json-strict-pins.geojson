@@ -1416,10 +1416,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Egypt",
-        "description": "-<a href=\"https://www.dai.com/our-work/projects/egypt-macro-economic-stabilization-and-reform-mesr\">MESR</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/egypt-technical-and-financial-sustainability-of-the-renewable-energy-and-energy-efficiency-sectors\">Renewables</a> (EU)<br>- <a   href=\"https://www.dai.com/our-work/projects/egypt-technical-and-financial-sustainability-of-the-renewable-energy-and-energy-efficiency-sectors\">Renewable   Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega\">EGA</a> (USAID)",
+        "description": "-<a href=\"https://www.dai.com/our-work/projects/egypt-macro-economic-stabilization-and-reform-mesr\">MESR</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/egypt-technical-and-financial-sustainability-of-the-renewable-energy-and-energy-efficiency-sectors\">Renewable Energy</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega\">EGA</a> (USAID)",
         "marker-size": "#6c6c6c",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 4
+        "marker-symbol": 3
       },
       "geometry": {
         "coordinates": [
