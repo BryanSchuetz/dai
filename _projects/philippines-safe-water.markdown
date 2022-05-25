@@ -44,5 +44,5 @@ The activity is expected to strengthen services for some 1.1 million Filipinos.
 * Helped about 200,000 people to access safe water supply and household sanitation services.
 * Mobilized more than $10 million in funding for water supply and sanitation projects; and another $10 million for investments supporting sustainable landscapes.
 * Forged partnerships with public and private entities to support governance and utility reforms and sustainable livelihood activities for communities living in or around watersheds.
-* Scaled payment for ecosystem services as a means for local government augment public resources for watershed management.
+* Replicated development of payment for ecosystem services in other municipalities and improved existing systems to generate more fees and better management of funds.
 * [Piloted](https://dai-global-developments.com/articles/hybrid-finance-model-shows-promise-in-boosting-access-to-sanitation) output-based aid and blended finance scheme for basic sanitation services of poor households. 
