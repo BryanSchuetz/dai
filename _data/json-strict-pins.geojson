@@ -254,10 +254,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Kenya",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/kenya-niwajibu-wetu-niwetu\">NIWETU</a> (USAID)<br> - <a href=\"https://www.dai.com/our-work/projects/kenya-deepening-democracy-programme-ddp\">DDP</a> (FCDO) <br> - <a   href=\"https://www.dai.com/our-work/projects/africa-leadership-training-and-capacity-building-program-africa-lead\">Africa   Lead II</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/kenya-niwajibu-wetu-niwetu\">NIWETU</a> (USAID)<br> - <a href=\"https://www.dai.com/our-work/projects/kenya-deepening-democracy-programme-ddp\">DDP</a> (FCDO)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -988,7 +988,7 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Ethiopia",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/ethiopia-private-enterprise-programme-ethiopia-pepe\">PEPE</a> (FCDO)<br>- <a href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead II</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-responsible-and-innovative-land-administration-project-ii-reila-ii\">REILA   II</a> (MFA) <br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-strengthening-host-and-refugee-populations-sharpe\">SHARPE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-eu-coffee-action-for-ethiopia-eu-cafe\">EU-CAFE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-programme-to-support-lending-operations-to-the-womens-entrepreneurship-development-project-wedp\">WEDP</a> (EIB)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-bridges\">BRIDGES</a> (FC)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/ethiopia-private-enterprise-programme-ethiopia-pepe\">PEPE</a> (FCDO)<br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-responsible-and-innovative-land-administration-project-ii-reila-ii\">REILA   II</a> (MFA) <br>- <a   href=\"https://www.dai.com/our-work/projects/ethiopia-strengthening-host-and-refugee-populations-sharpe\">SHARPE</a> (FCDO)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-to-support-eu-coffee-action-for-ethiopia-eu-cafe\">EU-CAFE</a> (EU)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-technical-assistance-programme-to-support-lending-operations-to-the-womens-entrepreneurship-development-project-wedp\">WEDP</a> (EIB)<br>- <a href=\"https://www.dai.com/our-work/projects/ethiopia-bridges\">BRIDGES</a> (FC)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
         "marker-symbol": 7
@@ -1110,10 +1110,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Tanzania",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/tanzania-youth-economic-empowerment-activity\">Advancing Youth</a> (USAID) <br>- <a href=\"https://www.dai.com/our-work/projects/africa-africa-lead-ii\">Africa Lead II</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/tanzania-youth-economic-empowerment-activity\">Advancing Youth</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 2
+        "marker-symbol": 1
       },
       "geometry": {
         "coordinates": [
@@ -1165,7 +1165,7 @@
       "type": "Feature",
       "properties": {
         "title": "Global Projects Based in the United States",
-        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-leadership-interactions-networks-and-knowledge-link\">LINK</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services\">CDI</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide—biodiversity-results-and-integrated-development-gains-enhanced-bridge\">BRIDGE</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df\">DF</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-the-invest-project\">INVEST</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-international-technical-operational-and-professional-support-services-itopss\">ITOPSS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy\">LiveWIRE</a> (Shell)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm\">INRM</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/worldwide-policy-link\">Policy LINK</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services\">CDI</a> (USAID)<br>- <a   href=\"http://dai.com/our-work/projects/worldwide—biodiversity-results-and-integrated-development-gains-enhanced-bridge\">BRIDGE</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df\">DF</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-the-invest-project\">INVEST</a> (USAID)<br>- <a   href=\"https://www.dai.com/our-work/projects/worldwide-international-technical-operational-and-professional-support-services-itopss\">ITOPSS</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy\">LiveWIRE</a> (Shell)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-market-systems-and-partnerships-msp\">MSP</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/worldwide-integrated-natural-resource-management-inrm\">INRM</a> (USAID)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
         "marker-symbol": 9
@@ -1183,10 +1183,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Ghana",
-        "description": "- <a target=\"blank\" href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead II</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/ghana—market-development-made-northern-ghana\">MADE</a> (FCDO)<br>- <a target=\"blank\" href=\"https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic\">KIC</a> (Kosmos)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/ghana—market-development-made-northern-ghana\">MADE</a> (FCDO)<br>- <a target=\"blank\" href=\"https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic\">KIC</a> (Kosmos)",
         "marker-size": "small",
         "marker-color": "#6c6c6c",
-        "marker-symbol": 3
+        "marker-symbol": 2
       },
       "geometry": {
         "coordinates": [
@@ -1194,8 +1194,7 @@
           8.320212
         ],
         "type": "Point"
-      },
-      "id": "d63e15f4af360d1af1d46ff8fe848187"
+      }
     },
     {
       "type": "Feature",
@@ -1220,10 +1219,10 @@
       "type": "Feature",
       "properties": {
         "title": "Active Projects in Senegal",
-        "description": "- <a target=\"blank\" href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead II</a> (USAID)<br>- <a href=\"https://www.dai.com/our-work/projects/senegal-feed-the-future-policy-systems-services-pss-activity\">PSS</a> (USAID)",
+        "description": "- <a href=\"https://www.dai.com/our-work/projects/senegal-feed-the-future-policy-systems-services-pss-activity\">PSS</a> (USAID)",
         "marker-size": "Small",
         "marker-color": "#6699cc",
-        "marker-symbol": 2
+        "marker-symbol": 1
       },
       "geometry": {
         "coordinates": [

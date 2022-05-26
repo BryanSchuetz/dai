@@ -1267,5 +1267,75 @@
           "docFilename": "tasc-c-2.pdf",
           "docThumbnail": "tasc-c-2_page1.jpeg",
           "year": 2021
+        },
+        {
+          "docTitle": "Improving How to Reach Those Most-at-risk of Malnutrition: A Guidance Note",
+          "docSummary": "This guidance offers practical information on 1) how to identify population groups that are most nutritionally at-risk and 2) how to better address the nutritional needs of identified at-risk groups. It is organised according to key phases of the project cycle and includes annexes with further resources and analysis on at-risk groups and strategies to reach them.",
+          "organization": "Global Health",
+          "docType": [
+            "Guides"
+          ],
+          "solutions": [
+            "Health Systems Strengthening"
+          ],
+          "technicalTerms": [
+            "Community Health Systems and Gender",
+            "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+          ],
+          "docFilename": "reaching-at-risk-groups-guidance.pdf",
+          "docThumbnail": "reaching-at-risk-groups-guidance_page1.jpeg",
+          "year": 2022
+        },
+        {
+          "docTitle": "Aligning Food System Activities with Healthier Diets for Low-Income Households: A guidance note",
+          "docSummary": "The purpose of this guidance is to support organisations and practitioners involved in food system activities to design programmes and conduct policy engagement to enable the world’s most vulnerable people to eat more diverse, healthier diets, while also meeting climate and/or economic objectives. In so doing, it aims to increase the efficiency and effectiveness of food system activities in achieving development goals. It provides guidance to help answer the question: how can development activities in food systems be designed to align with healthier diets?",
+          "organization": "Global Health",
+          "docType": [
+            "Guides"
+          ],
+          "solutions": [
+            "Health Systems Strengthening"
+          ],
+          "technicalTerms": [
+            "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+          ],
+          "docFilename": "food-systems-guidance.pdf",
+          "docThumbnail": "food-systems-guidance_page1.jpeg",
+          "year": 2022
+        },
+        {
+          "docTitle": "Monitoring and Evaluation of Nutrition-Relevant Programmes: A Guidance Document",
+          "docSummary": "This document has been developed by the Technical Assistance to Strengthen Capabilities project (TASC) team to support the monitoring and evaluation (M&E) of nutrition-relevant Foreign, Commonwealth and Development Office programmes. This includes guidance on how to support more accurate measurement of programme outcomes and impacts for all target populations, including the most marginalised women and children; and to use the data generated through M&E efforts to reflect on the contribution made by nutrition programmes, and improve them as necessary to increase effectiveness",
+          "organization": "Global Health",
+          "docType": [
+            "Guides"
+          ],
+          "solutions": [
+            "Digital Health Solutions"
+          ],
+          "technicalTerms": [
+            "Community Health Systems and Gender",
+            "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+          ],
+          "docFilename": "nutrition-monitoring-evaluation-guidance.pdf",
+          "docThumbnail": "nutrition-monitoring-evaluation-guidance_page1.jpeg",
+          "year": 2022
+        },
+        {
+          "docTitle": "How to Promote Better Nutrition Through Social Assistance: A Guidance Note",
+          "docSummary": "Social assistance is recognised as an important mechanism to support poor and vulnerable members of society and is increasingly being considered as a means of supporting nutritionally at-risk populations. This guidance focuses on the nutrition sensitivity of social assistance and is intended as a resource that can support practitioners at any point in the programme cycle. The primary audience for this guidance is teams developing and implementing social protection and nutrition policy and programming across multiple organisations. It focuses on strengthening nutrition outcomes through social assistance policies and programming across the nexus. Specifically, it highlights good practices and key considerations for better achieving nutritional outcomes at three levels: policy, programme design and implementation",
+          "organization": "Global Health",
+          "docType": [
+            "Guides"
+          ],
+          "solutions": [
+            "Global Health Security and Pandemic Preparedness"
+          ],
+          "technicalTerms": [
+            "Reproductive, Maternal, Newborn, Child and Adolescent Health & Nutrition"
+          ],
+          "docFilename": "social-protection-nutrition-guidance.pdf",
+          "docThumbnail": "social-protection-nutrition-guidance_page1.jpeg",
+          "year": 2022
         }
 ]
