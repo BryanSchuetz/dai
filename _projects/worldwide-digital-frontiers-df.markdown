@@ -11,6 +11,7 @@ solutions:
 - Digital Acceleration
 - Insights for Emerging Markets
 - Digital Trainings
+- Finance and Investment
 regions: Worldwide
 country: Global
 promos:

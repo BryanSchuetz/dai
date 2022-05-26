@@ -10,6 +10,7 @@ client: U.S. Agency for International Development
 solutions:
 - Economic Growth
 - Trade
+- Finance and Investment
 regions: Middle East and North Africa
 country: Lebanon
 promos:

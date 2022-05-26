@@ -13,6 +13,7 @@ solutions:
 - Economic Growth
 - Business Environment Reform
 - Institutional and Policy Reform
+- Finance and Investment
 regions:
 - Sub-Saharan Africa
 country:
