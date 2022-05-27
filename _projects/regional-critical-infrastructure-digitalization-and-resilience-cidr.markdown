@@ -2,7 +2,7 @@
 title: "Regional—Critical Infrastructure \nDigitalization and Resilience (CIDR)"
 date: 2021-09-29 15:48:00 Z
 summary: The Critical Infrastructure Digitalization and Resilience (CIDR) activity
-  seeks to enable digital transformation by supporting critical infrastructure operators,
+  enables digital transformation by supporting critical infrastructure operators,
   host governments, and oversight bodies to address immediate cybersecurity vulnerabilities
   in Eastern Europe and Eurasia.
 start: 2021
@@ -25,6 +25,6 @@ CIDR supports the governments of the Western Balkans, Black Sea Region, and Sout
 
 * Accelerate the development of the relevant workforce to protect against and respond to threats from malign actors, particularly cyberattacks.
 * Empower entities to identify and address threats and facilitate the export of U.S. technology and expertise to counter these threats.
-* Establish the policies, frameworks, and coordination bodies necessary to empower entities to protect and improve the resilience critical infrastructure.
+* Establish the policies, frameworks, and coordination bodies necessary to empower entities to protect and improve the resilience of critical infrastructure.
 * Establish robust information-sharing networks between national and regional critical infrastructure entities, promoting coordinated threat identification and response.
 * Improve U.S. security through the application of lessons learned from this USAID-supported activity by U.S. critical infrastructure entities.
