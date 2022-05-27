@@ -6,6 +6,7 @@ lastname: Audsley
 summary: Hind Audsley is a senior manager and proven Chief of Party whose 18 years
   of experience includes 10 years providing oversight to donor-funded programs and
   eight years of field experience in fragile or transitional environments.
+job-title: Global Practice Specialist, Conflict, Stabilization, and Peacebuilding
 solutions:
 - Fragile States
 - Conflict and Vulnerability Analysis
