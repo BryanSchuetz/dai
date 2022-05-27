@@ -1,8 +1,9 @@
 ---
-title: Global Offices
-permalink: "/who-we-are/global/"
+title: Global Locations
+permalink: "/who-we-are/global-locations/"
 redirect_from:
 - "/who-we-are/global-reach"
+- /who-we-are/global/
 summary: Since 1970, we have worked in more than 150 countries, and at any one time
   we are likely to have active projects in 90 or more countries. This worldwide portfolio
   is supported from corporate offices in Europe, Nigeria, the United Kingdom, and
