@@ -15,6 +15,10 @@ Don't see the answer you're looking for below? [Send us your question][1] and we
   <p>If you are an Afghan national who has worked directly for DAI in Afghanistan and you need employment verification to apply for the Special Immigrant Visa (SIV) Program or the Priority-2 Designation (P-2) Refugee Visa Program, please <a href="/special-immigrant-visas">visit this page</a>.</p>
 </aside>
 
+## Where is DAI located?
+
+Since 1970, we have worked in more than 150 countries, and at any one time we are likely to have active projects in 90 or more countries. This worldwide portfolio is supported from more than a dozen corporate offices, including [locations](/who-we-are/global-locations) in Abuja, Nigeria; Amman, Jordan; Ankara, Turkey; Apsley, United Kingdom; Belgrade, Serbia; Bethesda (Md.), United States; Bogota, Colombia; Brussels, Belgium; Georgetown, Guyana; Islamabad, Pakistan; Lagos, Nigeria; London, United Kingdom; Muscat, Oman; Ramallah, Palestine; Sofia, Bulgaria; and Vienna, Austria.
+
 ##  What do the letters DAI stand for?
 
 It is no longer correct to refer to DAI as “Development Alternatives, Inc.” When the founders incorporated the company in 1970, they chose that name because they thought they could bring fresh alternatives and innovations to the way development was being done. And that spirit remains essential to the firm. But over the decades we have come to be known by the acronym, and in recent years we have opted to present ourselves as DAI, no spelling out required. As of 2016, the formal legal name of the company is DAI Global, LLC and the correct way to refer to the company is simply as DAI.

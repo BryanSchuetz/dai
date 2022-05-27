@@ -11,7 +11,13 @@
   />
   <meta
     name="description"
-    content="{{ page.title }} &middot; {{ site.data.meta.description }}"
+    content="
+    {% if page.title == 'Frequently Asked Questions' or page.title == 'Global Locations' %}
+    Where is DAI located?  Our worldwide portfolio is supported from more than a dozen corporate offices, including locations in Abuja, Nigeria; Amman, Jordan; Ankara, Turkey; Apsley, United Kingdom; Belgrade, Serbia; Bethesda (Md.), United States; Bogota, Colombia; Brussels, Belgium; Georgetown, Guyana; Islamabad, Pakistan; Lagos, Nigeria; London, United Kingdom; Muscat, Oman; Ramallah, Palestine; Sofia, Bulgaria; and Vienna, Austria.
+    {% else %}  
+    {{ page.title }} &middot; {{ site.data.meta.description }}"
+    {% endif %}
+    
   />
   <!-- Enable twitter card magic -->
   <meta name="twitter:card" content="summary_large_image" />
