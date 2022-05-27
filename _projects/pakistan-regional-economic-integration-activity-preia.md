@@ -19,6 +19,8 @@ promos:
 - title: USAID Projects Work Together to Bolster Trade between Pakistan and Central
     Asia
   link: https://dai-global-developments.com/articles/usaid-projects-work-together-to-bolster-trade-between-pakistan-and-central-asia
+- title: USAID Promotes Regional Trade between Pakistan and Kazakhstan
+  link: https://kz.usembassy.gov/usaid-promotes-regional-trade-between-pakistan-and-kazakhstan/
 layout: project
 ---
 
