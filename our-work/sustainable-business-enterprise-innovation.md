@@ -1,5 +1,5 @@
 ---
-title: Entrepreneurship & Innovation
+title: Responsible Business
 date: 2017-06-19 15:11:00 Z
 permalink: "/our-work/solutions/sustainable/sustainable-business-enterprise-innovation"
 summary: 
