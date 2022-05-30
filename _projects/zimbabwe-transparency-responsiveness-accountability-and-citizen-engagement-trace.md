@@ -6,7 +6,7 @@ summary: 'Zimbabwe TRACE seeks to design, build, and implement a civil society s
   programme where the civil society organisations look at government in a less adversarial
   way and forge relationships to promote constructive dialogue and partnership. '
 start: 2014
-end: 2023
+end: 2022
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
