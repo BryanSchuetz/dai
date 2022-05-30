@@ -1,5 +1,5 @@
 ---
-title: Africa—Trade and Investment (ATI) Activity
+title: Africa—Prosper Africa Trade and Investment (ATI)
 date: 2021-10-07 15:40:00 Z
 summary: The Africa Trade and Investment (ATI) Activity is a whole-of-government platform
   to help African and U.S. businesses double two-way trade and investment, thereby
