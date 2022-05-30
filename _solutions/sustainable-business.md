@@ -45,7 +45,7 @@ Client focused and data driven, our approach is defined by 50 years of developme
 
 * **Training**: Bespoke and off-the-shelf training products and services that cover multiple sustainability areas.
 
-##  Products
+## Products
 
 * **[Supplier Management Portal](https://supplier-management-portal-dai.com)**: DAI’s cloud-based digital platform creates business linkages between large-scale international buyers and verified local suppliers.
 
@@ -56,6 +56,6 @@ Client focused and data driven, our approach is defined by 50 years of developme
 * **Computable General Equilibrium (CGE) Modeling**: A rigorous economic modeling and analysis to estimate and understand lasting changes across industries and economies.
 
 <aside style="margin-top: 2rem;">
-<p>The Sustainable Business Group delivers solutions for companies and countries to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization.</P>
+<p>Helping companies put sustainability at the core of their operations and become leaders in responsible business.</P>
 <a style="width: 50%;" href="mailto:contact_sbg@dai.com" target="blank" class="primary-block--button expert-button">Contact the Sustainable Business Group <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 </aside>
