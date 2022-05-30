@@ -19,7 +19,7 @@ promos:
   link: https://www.usaid.gov/news-information/press-releases/oct-21-2021-usaid-delivers-prosper-africa-goals-africa-trade-and-investment
 ---
 
-The Africa Trade and Investment (ATI) program is a five-year, flexible buy-in mechanism managed by the U.S. Agency for International Development (USAID)’s Bureau for Africa. USAID’s flagship effort under the [Prosper Africa](https://www.prosperafrica.gov/) initiative, ATI boosts trade, increases investment, and supports healthy business climates across the African continent. ATI works with USAID missions, bureaus, and independent offices to mobilize enterprise-driven solutions and achieve development outcomes across North and sub-Saharan Africa.  
+The Prosper Africa Trade and Investment (ATI) program is a five-year, flexible buy-in mechanism managed by the U.S. Agency for International Development (USAID)’s Bureau for Africa. USAID’s flagship effort under the [Prosper Africa](https://www.prosperafrica.gov/) initiative, ATI boosts trade, increases investment, and supports healthy business climates across the African continent. ATI works with USAID missions, bureaus, and independent offices to mobilize enterprise-driven solutions and achieve development outcomes across North and sub-Saharan Africa.  
 
 As a demand-driven mechanism, ATI is flexible and responsive. ATI brings together a tested network of partners that can work across the intersection of trade and investment, deploying proven approaches testing new finance solutions, and building partnerships for sustainability and scale.
 
