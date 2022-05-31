@@ -17,43 +17,26 @@ hero: true
 layout: solution
 ---
 
-<img src="/uploads/advisory-implementation.png" alt="Advisory to Implementation" class="float-right" style="width:40%; border-width: 0px;">
-
 # Full Life-Cycle Advisory and Project Implementation Services that Advance the Global Sustainability Agenda
 
-The Sustainable Business Group works across industries including manufacturing, energy and renewables, mining, retail, apparel, food and beverage, financial services, and telecommunications.
+DAI's Sustainable Business Group works across industries including manufacturing, energy and renewables, mining, retail, apparel, food and beverage, financial services, and telecommunications.
 
-# Solutions and Products
+Whether we’re helping the multinationals localize their supply chain in Africa or safely re-open garment factories in Vietnam during the pandemic, our work is guided by 50 years of development experience around the world. 
 
-Client focused and data driven, our approach is defined by 50 years of development experience around the world. We rely on data-rich technical analysis and on-the-ground relationships to structure successful service engagements and investments in emerging markets, with an unwavering commitment to our clients and the countries where they work.
+We rely on data-rich technical analysis and on-the-ground relationships to structure successful service engagements and investments in developed and emerging markets, with an unwavering commitment to our clients and the countries where they work.
 
-## Solutions
+## Helping businesses responsibly pursue their ESG commitments 
 
-* **Policy and Strategy**: We work with governments and corporations to develop policies and strategies that enable a smart transition to alternative and clean energy.
+We believe the private sector can meet this challenge and deliver growth by developing inclusive supply chains, fit-for-purpose corporate social investments, and data-driven strategy and program design. 
 
-* **Energy Supply Chain**: We work with investors, operators, contractors, and suppliers to ensure the supply chain meets key performance, economic, social, environmental, and governance requirements.
+We help our clients move beyond regulatory compliance to position themselves as leaders in responsible business.
 
-* **Energy Business Planning**: Supporting investors to understand project bankability and feasibility, as well as develop strategies to mitigate investment risks.
+## Supporting corporations to optimize and localize their supply chains
 
-* **[Entrepreneurship and Innovation](/our-work/solutions/sustainable/sustainable-business-enterprise-innovation)**: Strengthening the entrepreneurship ecosystem to catalyze the formation of new businesses that drive economic and social impact.
+Our work in supply chains applies state-of-art data collection and analysis to enhance business decision making and ensure inclusive growth outcomes.
 
-* **Supply Chain Localization**: Integrated services and tools to help investors and operators reorganize their supply chains and make them more sustainable.
-
-* **Performance Measurement**: Advisory services and tools to track the performance of supply chains across a range of sustainability criteria.
-
-* **Supply Chain Analytics**: Our expertise in data collection, processing, and analysis delivers actionable insights.
-
-* **Training**: Bespoke and off-the-shelf training products and services that cover multiple sustainability areas.
-
-## Products
-
-* **[Supplier Management Portal](https://supplier-management-portal-dai.com)**: DAI’s cloud-based digital platform creates business linkages between large-scale international buyers and verified local suppliers.
-
-* **[Local Content Masterclass](/our-work/solutions/sustainable/training/master-class)**: DAI’s industry-leading training course enables public and private stakeholders to effectively design and manage local content to maximize benefits and minimize risk.
-
-* **Industrial Baseline Studies**: DAI’s rigorous approach for quantifying, delivering, and performance managing ​In-Country Value / Local Content.
-
-* **Computable General Equilibrium (CGE) Modeling**: A rigorous economic modeling and analysis to estimate and understand lasting changes across industries and economies.
+Our approach delivers comprehensive programs of business upskilling and workforce training that ensure large-scale investments have the infrastructure for long-term sustainable operations and maintenance.
+ 
 
 <aside style="margin-top: 2rem;">
 <p>Helping companies put sustainability at the core of their operations and become leaders in responsible business.</P>
