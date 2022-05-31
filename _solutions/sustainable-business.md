@@ -27,6 +27,8 @@ We rely on data-rich technical analysis and on-the-ground relationships to struc
 
 ## Helping businesses responsibly pursue their ESG commitments 
 
+The new frontier of what it means to be a responsible business requires companies to drive meaningful impact and local prosperity in the communities and environments where they operate.
+
 We believe the private sector can meet this challenge and deliver growth by developing inclusive supply chains, fit-for-purpose corporate social investments, and data-driven strategy and program design. 
 
 We help our clients move beyond regulatory compliance to position themselves as leaders in responsible business.
