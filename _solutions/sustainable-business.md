@@ -21,7 +21,7 @@ layout: solution
 
 DAI's Sustainable Business Group works across industries including manufacturing, energy and renewables, mining, retail, apparel, food and beverage, financial services, philanthropy, and telecommunications.
 
-Whether we’re helping the multinationals localize their supply chain in Africa or safely re-open garment factories in Vietnam during the pandemic, our work is guided by 50 years of development experience around the world. 
+Whether we’re helping the multinationals safely re-open garment factories in Vietnam during the pandemic or helping lenders design programs in climate finance, our work is guided by 50 years of development experience around the world. 
 
 We rely on data-rich technical analysis and on-the-ground relationships to structure successful service engagements and investments in developed and emerging markets, with an unwavering commitment to our clients and the countries where they work.
 
