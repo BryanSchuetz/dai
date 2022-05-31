@@ -19,7 +19,7 @@ layout: solution
 
 # Full Life-Cycle Advisory and Project Implementation Services that Advance the Global Sustainability Agenda
 
-DAI's Sustainable Business Group works across industries including manufacturing, energy and renewables, mining, retail, apparel, food and beverage, financial services, and telecommunications.
+DAI's Sustainable Business Group works across industries including manufacturing, energy and renewables, mining, retail, apparel, food and beverage, financial services, philanthropy, and telecommunications.
 
 Whether we’re helping the multinationals localize their supply chain in Africa or safely re-open garment factories in Vietnam during the pandemic, our work is guided by 50 years of development experience around the world. 
 
