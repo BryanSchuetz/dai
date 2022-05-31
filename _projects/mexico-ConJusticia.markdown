@@ -45,3 +45,4 @@ After five years, ConJusticia, in close coordination with other U.S. Agency for 
 * Helped the Mexican Laboratory for Innovation in Criminal Justice establish a methodology and digital platform to document, disseminate, and exchange information on innovations for the transformation of Mexico’s criminal justice system.
 * Assisted justice operators in scaling a successful innovation developed with previous USAID support called *Alerta Naranja*, which provides a tech tool for inter-institutional collaboration that reduces the time of first responders to calls of domestic violence. 
 *Alerta Naranja* has resulted in significant reductions in the response time, from 42 minutes to 21 minutes on average in one area. 
+* Piloted a prioritization tool for high-risk victims of gender-based violence. The tool has been applied to 23 cases and 15 security plans have been developed as a result.
