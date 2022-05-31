@@ -35,3 +35,4 @@ As Associate Director of the Digital Advisory portfolio within DAI’s Center fo
 * M.A., democracy and governance, Georgetown University
 * B.A., journalism and mass communication, Arizona State University
 * B.A., media studies, English literature, and psychology, Christ College, Bangalore University
+* Member, 2022 Innovation Steering Committee, Engineering for Change (E4C) program
