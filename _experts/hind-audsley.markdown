@@ -1,7 +1,6 @@
 ---
 title: Hind Audsley
 date: 2022-05-27 12:49:00 Z
-published: false
 lastname: Audsley
 summary: Hind Audsley is a senior manager and proven Chief of Party whose 18 years
   of experience includes 10 years providing oversight to donor-funded programs and
