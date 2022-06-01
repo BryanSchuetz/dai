@@ -24,7 +24,7 @@ Working at the intersection of public financial management (PFM), local governan
  
 RG works in 27 conflict-affected municipalities.
 
-![RGA.jpg](/uploads/RGA.jpg)`Hanz Ripper for DAI.`
+![Mujeres Valientes Constructoras de Paz IV.png](/uploads/Mujeres%20Valientes%20Constructoras%20de%20Paz%20IV.png)
 
 ### Sample Activities
 
