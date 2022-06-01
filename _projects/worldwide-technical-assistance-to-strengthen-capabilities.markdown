@@ -13,8 +13,8 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: 'Case Study: Transforming Nutrition Outcomes'
-  link: "/uploads/Transforming%20nutrition%20outcomes.pdf"
+- title: "**Guidance notes:** Transforming nutrition outcomes"
+  link: "/uploads/Transforming%20nutrition%20outcomes%5B62%5D-ce824e.pdf"
 - title: "**Brief:** TASC Project"
   link: "/uploads/TASC%20Brief%20Dec-2020.pdf"
 - title: 'April 2021: Tracking Data and Evidence on the Indirect Impact of COVID-19
