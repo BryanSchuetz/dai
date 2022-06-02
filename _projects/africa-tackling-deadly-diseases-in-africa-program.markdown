@@ -28,6 +28,9 @@ promos:
   link: https://dai-global-developments.com/articles/health-equity-is-key-to-global-health-security-goals-learning-from-covid-19
 - title: 'TDDA: Where We Work '
   link: "/uploads/DAI_TDDA_FCDO_full%20country%20set.pdf"
+- title: "**Case Study**: Strengthening Health Security: Building the Role of Civil
+    Society"
+  link: "/uploads/TDDA%20CSO%20capacity%20building%20case%20study.pdf"
 ---
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
