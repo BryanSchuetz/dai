@@ -2,9 +2,9 @@
 title: Jay Gutzwiller
 date: 2020-01-22 13:56:00 Z
 lastname: Gutzwiller
-summary: Jay Gutzwiller is a Project Team Director in our Eastern Europe, Latin America,
-  and the Caribbean region.
-job-title: Project Team Director, Eastern Europe, Latin America, and the Caribbean.
+summary: As a Project Team Director, Jay Gutzwiller manages a portfolio of DAI’s contracts
+  with the U.S. Agency for International Development in Latin America.
+job-title: Project Team Director, Latin America
 image: "/uploads/Jay.jpg"
 solutions:
 - Economic Growth
