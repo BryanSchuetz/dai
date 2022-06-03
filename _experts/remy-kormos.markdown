@@ -5,20 +5,14 @@ lastname: Kormos
 summary: Rémy Kormos has more than 25 years of experience in international business
   law, implementing business environment reform, commercial law, and judicial reform
   in developing and transitioning countries.
-job-title: Principal Consultant, Economic Growth
+job-title: General Counsel, DAI Capital
 image: "/uploads/Remy%20Kormos-cd2e82.JPG"
 solutions:
-- Economic Growth
-- Public-Private Partnerships
+- DAI Capital
 - Governance
-- Business Environment Reform
 - Law and Justice
-- 
 regions:
-- Eastern Europe and Central Asia
-- Sub-Saharan Africa
-- Asia and the Pacific
-- Middle East and North Africa
+- Worldwide
 articles:
 - name: '"Pro-Poor Business Law and Regulatory Reform," Developing Alternatives'
   article_file: https://dai-global-developments.com/articles/pro-poor-business-law-and-regulatory-reform
@@ -27,15 +21,14 @@ articles:
   article_file: https://www.cairn.info/revue-etudes-balkaniques-cahiers-pierre-belon-2013-1-page-15.htm
 ---
 
-Rémy Kormos has more than 25 years of experience practicing international business law and implementing economic growth and governance initiatives in developing and transitioning countries. He is a leading expert improving the business enabling environment and legal and judicial reform.  
+Rémy Kormos is General Counsel of DAI Capital, DAI’s advisory and investment arm dedicated to mobilizing private capital in frontier and emerging markets. He provides legal advice on business transactions, mergers and acquisitions, corporate governance, and regulatory compliance to DAI Capital, including MicroVest Capital Management, an investment adviser specializing in mobilizing investment for responsible financial institutions, and DAI Magister Ltd., a U.K.-based capital advisory firm.  
+   
+Between 2008 and 2020, Remy was a member of DAI's U.S. Government Development Innovations team and DAI Europe’s Technical Services team, supporting business development efforts and providing technical assistance on donor projects across Africa, the Middle East, Eastern Europe, Asia, and Latin America/Caribbean.  
 
-A member of DAI’s Economic Growth team, he is a senior consultant on the European Union-funded [Trade and Private Sector Development Facility](https://www.dai.com/our-work/projects/worldwide-trade-private-sector-development-and-engagement-and-regional-integration-facility) and the U.K. Foreign, Commonwealth & Development Office-funded [Business Environment Reform Facility](https://www.dai.com/our-work/projects/worldwide-business-environment-reform-facility-berf). He has held a long-term position on a U.S. Agency for International Development (USAID)-funded project in Morocco and has completed assignments in Burkina Faso, Democratic Republic of Congo, Haiti, Jordan, Kosovo, Kyrgyzstan, Mali, Mexico, Myanmar, Papua New Guinea, Serbia, Sri Lanka, Tajikistan, Vietnam, and Zimbabwe.  
+Rémy has contributed to numerous knowledge management and research initiatives including the EC Trade and Private Sector Development Facility and the FCDO Business Environment Reform Facility.  Rémy is a leading expert in business enabling environment reform, private sector development and governance. While based in Morocco, he led the commercial law reform component of the successful USAID Improving the Business Climate Program implemented by DAI. 
+Between 2003 and 2008, Rémy was General Counsel of DPK Consulting, a USAID consulting firm specialized in judicial reform. He served as Commercial Law Reform Liaison with the American Bar Association Europe and Eurasia (ABA-CEELI) program in Bulgaria from 2002 to 2003.  Rémy was a Senior Associate with Farella, Braun & Martel, a corporate law firm in San Francisco, between 1998 and 2001, advising clients on entity formation, early-stage financing, corporate governance, securities law and M&A.  He started his legal career in 1993 at the international law firm Coudert Brothers in New York and Paris, advising clients on general corporate and securities law matters and M&A.  In the New York office he was a member of the Investment Fund group, advising asset managers, drafting offering documents and preparing SEC filings.  In the Paris office he advised on cross-border M&A transactions and was part of Coudert’s Africa Group.
+Rémy has an LL.M. from the University of California, Berkeley Law School, a J.D. from New York University School of Law and a B.A. from Yale University.  He is a native French and English speaker, speaks proficient Spanish and basic Bulgarian.
 
-Prior to joining DAI in 2009, Rémy supported USAID-funded justice and commercial law reform projects in the Dominican Republic, Serbia, and Bulgaria and served as Commercial Law Liaison with the American Bar Association’s Central European and Eurasian Law Initiative in Bulgaria. 
-
-From 1993 to 2001 Rémy practiced business law with leading global law firms, representing multinational corporations on foreign direct investment and mergers and acquisitions transactions in Europe, North America, and Sub-Saharan Africa, financial sector clients on regulatory compliance, and early-stage technology companies on a variety of corporate law matters.
-
-Rémy has taught comparative law and commercial mediation as an adjunct professor and has published several articles on legal and regulatory reform and international development issues.  
  
 * Master of Law, University of California
 * Juris Doctor, New York University School of Law
