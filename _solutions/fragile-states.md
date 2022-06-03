@@ -26,6 +26,8 @@ promos:
   link: "/uploads/Women%20Peace%20and%20Security.pdf"
 - title: "**Brochure:** Stabilization and Peacebuilding"
   link: "/uploads/Stabilization%20&%20Peacebuilding%20%20pages.pdf"
+- title: "**Lessons Learned**: Conflict, Stabilization, & Peacebuilding"
+  link: "/uploads/Conflict,%20Stabilization,%20&%20Peacebuilding%20Lessons%20Learned%20spreads%20May%202022.pdf"
 hero: true
 layout: solution
 ---
