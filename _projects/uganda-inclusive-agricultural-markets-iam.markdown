@@ -16,6 +16,8 @@ country: Uganda
 promos:
 - title: Ramping up Gender-Based Violence Prevention, Risk Mitigation, and Response
   link: https://dai-global-developments.com/articles/ramping-up-gender-based-violence-prevention-risk-mitigation-and-response
+- title: 'Improving Farmers'' Access to Quality Inputs '
+  link: https://daiglobal.exposure.co/improving-farmers-access-to-quality-inputs
 ---
 
 The Feed the Future Inclusive Agricultural Markets (IAM) activity works to increase incomes and improve livelihoods in Uganda by promoting agriculture-led economic growth.
