@@ -6,6 +6,9 @@ regions: Sub-Saharan Africa
 country: Nigeria
 ---
 
+DAI Country Director in Nigeria, Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), explained the dependencies between climate change, poverty reduction and clean energy, his speech highlighted how renewable energy can reduce poverty and strengthen the Nigerian economy if effectively harnessed. 
+
+
 The inauguration of the Carbon Chamber Project (CCB) by the National Chamber Policy Centre of the Abuja Chamber of Commerce and Industry (ACCI) presented a valuable opportunity for DAI to engage with Climate Change decision makers and green energy technology companies about programs and policies to reduce greenhouse gas emissions and accelerate development efforts.
 
 Country Director, Dr Joe Abah, explained the dependencies between climate change, poverty reduction and clean energy, his speech highlighted how renewable energy can reduce poverty and strengthen the Nigerian economy if effectively harnessed. 
