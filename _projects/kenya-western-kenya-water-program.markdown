@@ -25,3 +25,6 @@ WKWP features a Solution Fund and emphasizes data and technology, collaboration 
 ![Photo A_Muhuru Bay Water Project_Migori County.jpg](/uploads/Photo%20A_Muhuru%20Bay%20Water%20Project_Migori%20County.jpg)
 
 ## Sample Activities
+
+* Develop and operationalize a Solution Fund, a grant and subcontract facility used to engage on a demand basis, to address county-specific sector challenges.
+*  
