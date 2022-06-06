@@ -38,5 +38,5 @@ Skills for Prosperity follows an inclusion and gender approach through its inter
 * Trained TVET professors to teach Python programing language in technical and vocational upper secondary schools in the Mexican state of Jalisco.
 * Launched a mentorship program for higher education female students in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace, especially how to overcome gender-based stereotypes.
 * Offered technical advice to educational institutions and companies to increase their Labour Equality and No-Discrimination standards according to the Mexican Norm (NMX-025).
-* Trained HE professors in Oaxaca to manage robotics and programming labs that offer young TVET students, especially women,  their first practical sight of STEM career options. 
+* Trained higher-education professors in Oaxaca to manage robotics and programming labs that offer young TVET students, especially women,  their first practical sight of STEM career options. 
 * Completed a teacher training program to prepare teachers to teach Python skills to students in technical and vocational upper secondary schools in the Mexican state of Jalisco. 
