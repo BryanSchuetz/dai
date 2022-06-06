@@ -18,7 +18,7 @@ The Carbon Chamber Project creates a platform where climate change decision make
 
 ![IMG_9399.jpg](/uploads/IMG_9399.jpg)
 
-Nigeria is home to 2.6 percent of the world’s population and is only responsible for 0.26 percent of global emissions. Yet, its low-income households bear the brunt of climate change impact, placing the nation among the 10 most vulnerable countries to the impacts of climate change and natural hazards. 
+[Nigeria is home](https://dailytrust.com/inaction-against-climate-change-will-cost-nigeria-460bn) to 2.6 percent of the world’s population and is only responsible for 0.26 percent of global emissions. Yet, its low-income households bear the brunt of climate change impact, placing the nation among the 10 most vulnerable countries to the impacts of climate change and natural hazards. 
 
 “Nigeria experienced a double shock of severe drought in the northeast and widespread flooding that affected nearly the entire country in 2012," said Abah. "The floods caused nearly $17 billion in damage and losses in the 12 most-affected states. Climate change inaction could cost Nigeria between 6 percent to 30 percent of income by 2050, equivalent to a loss of $100-460 billion.” 
 
