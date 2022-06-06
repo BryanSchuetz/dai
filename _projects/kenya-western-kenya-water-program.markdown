@@ -1,7 +1,6 @@
 ---
 title: "Kenya—Western Kenya Water \nProject (WKWP)"
 date: 2022-06-06 14:04:00 Z
-published: false
 summary: The U.S. Agency for International Development (USAID)-funded Western Kenya
   Water Project (WKWP) supports decentralized county governments to deliver basic
   drinking water services to 500,000 Kenyans and improve water service quality for
@@ -29,4 +28,7 @@ WKWP features a Solution Fund and emphasizes data and technology, collaboration 
 ## Sample Activities
 
 * Develop and operationalize a Solution Fund, a grant and subcontract facility used to engage on a demand basis, to address county-specific sector challenges.
-*  
+* Work with county governments and utilities to develop disaster risk management and water safety plans.
+* Enhance compliance of utilities with water quality key performance indicators.
+* Build the capacity of the shareholders, boards of directors, and senior management of targeted water utilities.
+* Provide targeted support to strengthen operational performance of rural enterprises.
