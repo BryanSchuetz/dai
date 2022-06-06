@@ -31,7 +31,7 @@ SFPMx works to increase the market relevance of technical and vocational qualifi
 
 ### Select Results
 
-* Established Cisco Networking Academies at Conalep (TVET institutions) in Puebla and Jalisco and prepared their IT professors to teach routing and switching to their students. 
+* Established Cisco Networking Academies at Conalep (technical and vocational education and training (TVET) institutions) in Puebla and Jalisco and prepared their IT professors to teach routing and switching to their students. 
 * Trained TVET professors to teach Python programing language in technical and vocational upper secondary schools in the Mexican state of Jalisco.
 * Launched a mentorship program for higher education female students in Chihuahua whereby successful women in STEM give advice on how to face challenges at school and the workplace, especially how to overcome gender-based stereotypes.
 -	Offered technical advice to educational institutions and companies to increase their Labour Equality and No-Discrimination standards according to the Mexican Norm (NMX-025).

@@ -1,7 +1,6 @@
 ---
 title: DAI’s Joe Abah Speaks at Carbon Conference in Abuja
 date: 2022-06-06 08:49:00 Z
-published: false
 solutions:
 - Climate
 regions: Sub-Saharan Africa
