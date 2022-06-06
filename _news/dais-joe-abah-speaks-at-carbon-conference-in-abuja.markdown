@@ -2,11 +2,16 @@
 title: DAI’s Joe Abah Speaks at Carbon Conference in Abuja
 date: 2022-06-06 08:49:00 Z
 published: false
+solutions:
+- Climate
 regions: Sub-Saharan Africa
+social-image: "/uploads/sm%20IMG_9399.jpg"
 country: Nigeria
 ---
 
-DAI Country Director in Nigeria, Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), explained the dependencies between climate change, poverty reduction and clean energy, his speech highlighted how renewable energy can reduce poverty and strengthen the Nigerian economy if effectively harnessed. 
+DAI Country Director in Nigeria, Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), recently spoke at the inaugural Carbon Chamber Project, hosted by the National Chamber Policy Centre of the Abuja Chamber of Commerce and Industry.
+
+explained the dependencies between climate change, poverty reduction and clean energy, his speech highlighted how renewable energy can reduce poverty and strengthen the Nigerian economy if effectively harnessed. 
 
 
 The inauguration of the Carbon Chamber Project (CCB) by the National Chamber Policy Centre of the Abuja Chamber of Commerce and Industry (ACCI) presented a valuable opportunity for DAI to engage with Climate Change decision makers and green energy technology companies about programs and policies to reduce greenhouse gas emissions and accelerate development efforts.
