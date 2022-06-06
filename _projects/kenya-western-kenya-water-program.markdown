@@ -16,6 +16,8 @@ regions: Sub-Saharan Africa
 country: Kenya
 ---
 
+Most urban water service providers in Western Kenya are in a cycle of underperformance. Urban water coverage is declining due to urbanization and population growth and county-owned water service providers cannot keep up with demand. High water losses and low coverage rates, combined with high operational costs largely due to inefficiency and high energy costs, leave the service providers chronically short of the capital they need to expand and better serve customers. 
+
 The U.S. Agency for International Development (USAID)-funded Western Kenya Water Project (WKWP) supports decentralized county governments to deliver basic drinking water services to 500,000 Kenyans and improve water service quality for 350,000 Kenyans.
  
 The project works across eight counties in Western Kenya (Bungoma, Busia, Kakamega, Siaya, Homa Bay, Kisii, Kisumu, and Migori) and with Lake Victoria North and South Basins to advance water security in the region. Our approach—dubbed Kenya *Inatimiza* (Kenya Delivers)—calls for solutions co-created and co-designed with each of the counties, depending on their baseline needs, priorities, and potential. The program draws together the different components critical to countywide sustained service delivery—urban and rural water services, water resources management, and the good governance and financing strategies that help a sector to grow and satisfy customers. 
