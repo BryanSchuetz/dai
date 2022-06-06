@@ -23,7 +23,7 @@ Nigeria is home to 2.6 percent of the world’s population and is only responsib
 
 Rapid increases in urbanization and urban poverty also escalate climate risk with an estimated 24 percent of Nigeria’s population (approximately 41 million people) living in high climate exposure areas.
 
-For many years, DAI has led work in climate adaptation and mitigation around the world. In 2021, DAI collaborated with the Rural Electrification Agency of Nigeria to facilitate the provision of clean, safe, and reliable energy with focus on rural communities in Nigeria. The evidence-based, practical, and actionable recommendations drawn from the partnership improved the capacity of the agency to deliver inclusive renewable energy solutions. 
+For many years, DAI has [led work in climate adaptation and mitigation](https://www.dai.com/our-work/solutions/climate) around the world. In 2021, DAI collaborated with the Rural Electrification Agency of Nigeria to facilitate the provision of clean, safe, and reliable energy with focus on rural communities in Nigeria. The evidence-based, practical, and actionable recommendations drawn from the partnership improved the capacity of the agency to deliver inclusive renewable energy solutions. 
 
 While the need for alternative energy sources remains in focus, more efforts and strategies should be put in place for people and businesses—especially those in rural areas who rely on electricity to thrive. This will ultimately drive development, reduce unemployment, and increase the nation’s revenue. 
 
