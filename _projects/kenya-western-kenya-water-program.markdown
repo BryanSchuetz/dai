@@ -23,7 +23,7 @@ The project works across eight counties in Western Kenya (Bungoma, Busia, Kakame
  
 WKWP features a Solution Fund and emphasizes data and technology, collaboration with the private sector, and engagement of Kenyan resource partners. 
 
-![Photo A_Muhuru Bay Water Project_Migori County.jpg](/uploads/Photo%20A_Muhuru%20Bay%20Water%20Project_Migori%20County.jpg)
+![Devs----KIWASH-Women-4.jpeg](/uploads/Devs----KIWASH-Women-4.jpeg)
 
 ## Sample Activities
 
