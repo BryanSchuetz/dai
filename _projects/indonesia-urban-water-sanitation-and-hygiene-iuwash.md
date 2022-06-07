@@ -25,6 +25,9 @@ promos:
   link: https://dai-global-developments.com/articles/positively-mobilizing-urban-communities-for-wash
 - title: The Value of Water
   link: https://daiglobal.exposure.co/the-value-of-water
+- title: 'United States Pledges $44 Million to Bring Safe, Clean Water to Communities
+    in Indonesia '
+  link: https://www.usaid.gov/indonesia/press-releases/apr-7-2022-united-states-pledges-44-million-bring-safe-clean-water
 layout: project
 ---
 
