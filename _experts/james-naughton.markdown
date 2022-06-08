@@ -31,6 +31,5 @@ As Investment Promotion Manager on the [Promoting Inclusive Markets in Somalia (
  
 James works in our Economic Growth and Global Development Finance and Investment teams and is currently developing green bonds for commercial banks in Armenia.
  
-* Private markets investments, Saïd Business School, University of Oxford
 * M.Sc., development studies, London South Bank University
 * B.Sc, (Hons), genetics, Queen's University Belfast
