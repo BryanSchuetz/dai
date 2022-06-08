@@ -4,7 +4,7 @@ date: 2021-07-15 13:52:00 Z
 lastname: Igbodika
 summary: 'Virtuous Igbodika manages the delivery of project portfolio in DAI''s office
   in Nigeria. '
-job-title: Deputy Head, Project Management Unit
+job-title: Head, Program Management
 image: "/uploads/Virtuous.jpeg"
 solutions:
 - Governance
