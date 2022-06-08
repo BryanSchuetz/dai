@@ -12,6 +12,9 @@ solutions:
 - Workforce Development and Youth
 regions: Latin America and the Caribbean
 country: Mexico
+promos:
+- title: 'Project YouTube Channel '
+  link: https://www.youtube.com/channel/UCSJTczpbfeXMEPu_3Hbr5Ng
 ---
 
 The Skills for Prosperity Mexico (SFPMx) Programme works to prepare learners to go from the classroom to the workforce with the right skills for the job and for the marketplace.
