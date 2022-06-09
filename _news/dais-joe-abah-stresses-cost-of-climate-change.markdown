@@ -5,6 +5,9 @@ date: 2022-06-06 08:49:00 Z
 solutions:
 - Climate
 regions: Sub-Saharan Africa
+summary: DAI Country Director in Nigeria, Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah),
+  recently spoke at the inauguration of the Carbon Chamber Project, by the National
+  Chamber Policy Centre of the Abuja Chamber of Commerce and Industry.
 social-image: "/uploads/sm%20IMG_9399.jpg"
 country: Nigeria
 ---
