@@ -1,7 +1,6 @@
 ---
 title: Joshua Moraczewski Succeeds Co-founder Gil Crawford as MicroVest CEO
-date: 2022-06-09 09:35:00 Z
-published: false
+date: 2022-06-09 10:30:00 Z
 solutions:
 - DAI Capital
 regions: Worldwide
