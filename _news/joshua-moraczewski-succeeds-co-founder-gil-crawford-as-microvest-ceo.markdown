@@ -10,13 +10,13 @@ social-image: "/uploads/sm%20Josh%20Gil_Treatment%203.png"
 
 ## Crawford to Serve as Chair of MicroVest Board and Investment Committee
 
-BETHESDA, MD, June 9, 2022—MicroVest Capital Management today announced that Gil Crawford, co-founder and long-time CEO, has handed over day-to-day management of the firm to [Joshua Moraczewski](https://www.dai.com/who-we-are/our-team/joshua-moraczewski), as part of a planned leadership succession process. Moraczewski, who joined the company in November 2021 as Chief Operating Officer following the firm’s acquisition by DAI, has been named CEO. Crawford will maintain a full-time role at the firm and assume the title of Chairman of the Board while continuing to Chair the MicroVest Investment Committee.  
+MicroVest Capital Management today announced that Gil Crawford, co-founder and long-time CEO, has handed over day-to-day management of the firm to [Joshua Moraczewski](https://www.dai.com/who-we-are/our-team/joshua-moraczewski), as part of a planned leadership succession process. Moraczewski, who joined the company in November 2021 as Chief Operating Officer following the firm’s acquisition by DAI, has been named CEO. Crawford will maintain a full-time role at the firm and assume the title of Chairman of the Board while continuing to Chair the MicroVest Investment Committee.  
 
 “Gil is one of our industry’s visionaries,” said DAI Capital CEO [Gavin Wilson](https://www.dai.com/who-we-are/leadership/gavin-wilson). “His model of balancing purpose with investment discipline has served as a blueprint for today’s microfinance investment industry and helped MicroVest channel more than $1 billion in private capital to responsible financial institutions in support of financial inclusion, job creation, and poverty reduction in developing markets. We are delighted that we will continue to benefit from Gil’s vision and guidance under his new role as Chairman going forward.” 
 
 After co-founding MicroVest in 2003, [Crawford](https://microvestfund.com/our_team/gil-crawford/) served as CEO for nearly two decades and played an integral role in bringing microfinance investing into the mainstream. He led the launch of the first North American-based private investment vehicle focused on microfinance and has launched multiple follow-on debt and equity products designed to facilitate inclusion for underserved microentrepreneurs worldwide. 
 
-![Josh Gil_Treatment 3.png](/uploads/Josh%20Gil_Treatment%203.png)`Joshua Moraczewski and Gil Crawford in DAI's Bethesda office.`
+![Josh Gil_Treatment 3.png](/uploads/Josh%20Gil_Treatment%203.png)`Joshua Moraczewski, at left, and Gil Crawford in DAI's Bethesda office.`
 
 “Co-founding MicroVest alongside Bo Cutter and Gerhard Pries and serving as the firm’s CEO has been one of the most rewarding experiences of my professional career,” said Crawford. “Our team built MicroVest into a leader in microfinance and small business investing and the firm will continue to reach new heights under Josh’s leadership. Josh brings an important new perspective to our operations, and I look forward to working closely with him and the rest of our incredible team.”
 
