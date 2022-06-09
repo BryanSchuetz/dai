@@ -41,5 +41,3 @@ DAI Board member [Elizabeth Littlefield](https://www.dai.com/who-we-are/board/el
   
   <p>MicroVest is a registered investment adviser, Certified B Corporation, and wholly-owned subsidiary of MicroVest General Partner Holding LLC, a Delaware statutory Public Benefit LLC whose purpose is <em>to create scalable investment opportunities that support enterprising ventures and projects in underserved or underfinanced sectors and communities worldwide</em>. MicroVest is a Signatory of the United Nations Principles for Responsible Investment (UNPRI) and The Operating Principles for Impact Management.</p>
 </aside>
-
-
