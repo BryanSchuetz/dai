@@ -9,7 +9,7 @@ job-title: Global Practice Specialist, Health Security
 image: "/uploads/NicoleDeCastro_photo%20portal.jpg"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Security
 ---
 
 Nicole DeCastro began her career in humanitarian and disaster response working with the U.S. Agency for International Development to address crises including Ebola in West Africa and the humanitarian emergency in Syria. The issue of access to quality healthcare in both settings drew her into the field of global health. Nicole’s interests focus on health systems strengthening, health security, and pandemic preparedness.

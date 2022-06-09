@@ -9,7 +9,7 @@ summary: Drawing on a professional background that combines laboratory-based res
 job-title: Senior Advisor and Laboratory Capacity Expert
 image: "/uploads/Unknown-b2855d.jpeg"
 solutions:
-- Global Health Security and Pandemic Preparedness
+- Health Security
 - Global Health
 ---
 

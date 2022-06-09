@@ -9,8 +9,7 @@ job-title: Technical Lead, Reproductive, Maternal, Newborn, Child and Adolescent
 image: "/uploads/Paula%20Quigley%20DAI%20site.jpg"
 solutions:
 - Global Health
-- Health Governance
-- Global Health Security and Pandemic Preparedness
+- Health Equity
 regions:
 - Sub-Saharan Africa
 - Asia and the Pacific

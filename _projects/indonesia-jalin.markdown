@@ -11,6 +11,7 @@ solutions:
 - Global Health
 - Innovation and Entrepreneurship
 - Health Governance
+- Market Solutions
 regions: Asia and the Pacific
 country: Indonesia
 promos:

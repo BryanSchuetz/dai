@@ -2,6 +2,7 @@
 title: Health Security
 date: 2016-01-21 18:23:00 Z
 permalink: /our-work/solutions/dai-global-health/health-security
+redirect_from: /our-work/solutions/health-solutions/global-health-security-and-pandemic-preparedness
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
 summary: Equipping governments around the world to respond to epidemics and health emergencies

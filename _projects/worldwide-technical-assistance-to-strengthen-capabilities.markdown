@@ -10,6 +10,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 - Nutrition and Food Security
+- Health Equity
 regions: Worldwide
 country: Worldwide
 promos:

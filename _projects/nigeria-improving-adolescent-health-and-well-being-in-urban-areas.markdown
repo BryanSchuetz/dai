@@ -11,6 +11,7 @@ solutions:
 - Economic Growth
 - Workforce Development and Youth
 - Global Health
+- Health Equity
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:

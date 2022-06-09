@@ -9,6 +9,7 @@ job-title: Senior Practice Lead, Health Equity
 image: "/uploads/Jacqui%20Larsen.jpg"
 solutions:
 - Global Health
+- Health Equity
 regions:
 - Worldwide
 ---

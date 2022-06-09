@@ -9,7 +9,7 @@ job-title: Team Leader, Fleming Fund, Pakistan
 image: "/uploads/ayesha%20rasheed%20full.jpg"
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Security
 regions:
 - Asia and the Pacific
 ---

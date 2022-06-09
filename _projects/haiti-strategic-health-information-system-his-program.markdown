@@ -11,6 +11,7 @@ solutions:
 - Global Health
 - Digital Acceleration
 - Data for Decisions
+- Health Governance
 regions: Latin America and the Caribbean
 country: Haiti
 promos:

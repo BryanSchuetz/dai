@@ -26,7 +26,7 @@
     <h1>Our Projects</h1>
     <hr>
     {% for project in projects %}
-      {% unless page.title == 'Energy' or page.url contains "digital-acceleration-solutions" or page.title == 'Education' or page.url contains "health-solutions" or page.title == 'Local Content and Supply Chain Management' %}
+      {% unless page.title == 'Energy' or page.url contains "digital-acceleration-solutions" or page.title == 'Education' or page.url contains "health-solutions" or page.title == 'Local Content and Supply Chain Management' or page.url contains 'our-work/solutions/dai-global-health' %}
         {% if project.end >= current_year %}
     <div class="project-block grid-item {% for solution in project.solutions %} {{ solution | slugify }} {% endfor %}{% for region in project.regions %} {{ region | slugify}} {% endfor %} {% for client in project.client %} {{ client | slugify }} 
     {% endfor %}{% if project.end < current_year %} closed {% else %} active{% endif %}">

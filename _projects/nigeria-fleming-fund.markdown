@@ -11,7 +11,7 @@ client: U.K. Department of Health and Social Care
 solutions:
 - Health Governance
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Global Health Security
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:

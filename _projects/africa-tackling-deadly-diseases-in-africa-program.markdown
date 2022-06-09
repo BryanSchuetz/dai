@@ -9,7 +9,7 @@ end: 2023
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
-- Global Health Security and Pandemic Preparedness
+- Health Governance
 regions: Sub-Saharan Africa
 country: Regional
 promos:

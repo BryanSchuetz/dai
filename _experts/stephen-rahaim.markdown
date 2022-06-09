@@ -9,6 +9,7 @@ job-title: Senior Global Practice Leader, Global Health Market Solutions
 image: "/uploads/Stephen%20Rahaim%20site.jpg"
 solutions:
 - Global Health
+- Market Solutions
 regions:
 - Worldwide
 ---

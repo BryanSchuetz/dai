@@ -15,10 +15,8 @@ solutions:
 - Innovation and Entrepreneurship
 - Sustainable Livelihoods
 - Transition and Stabilization Programming
-- 
+- Market Solutions
 - Workforce Development and Youth
-- 
-- 
 regions:
 - Eastern Europe and Central Asia
 country:

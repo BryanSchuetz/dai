@@ -10,6 +10,7 @@ end: 2022
 client: U.K Department of Health and Social Care
 solutions:
 - Global Health
+- Health Security
 regions: Asia and the Pacific
 country: Indonesia
 promos:

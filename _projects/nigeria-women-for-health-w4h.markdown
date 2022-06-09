@@ -9,6 +9,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
 - Gender and Social Inclusion
+- Health Governance
 regions: Sub-Saharan Africa
 country: Nigeria
 promos:

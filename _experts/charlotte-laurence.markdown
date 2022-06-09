@@ -8,6 +8,7 @@ job-title: Project Director, Tackling Deadly Diseases in Africa (TDDA) programme
 image: "/uploads/Charlotte%20Laurence%20Dec%202020%20site.jpg"
 solutions:
 - Global Health
+- Health Governance
 regions:
 - Sub-Saharan Africa
 ---

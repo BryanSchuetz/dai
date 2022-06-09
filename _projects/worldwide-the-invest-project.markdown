@@ -8,6 +8,7 @@ end: 2024
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
+- Market Solutions
 regions: Worldwide
 country: Worldwide
 promos:

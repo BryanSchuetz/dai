@@ -11,7 +11,7 @@ client: U.K. Department of Health and Social Care
 solutions:
 - Global Health
 - Health Governance
-- Global Health Security and Pandemic Preparedness
+- Global Health Security
 regions: Eastern Europe and Central Asia
 country: Pakistan
 promos:

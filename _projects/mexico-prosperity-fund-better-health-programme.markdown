@@ -9,6 +9,7 @@ end: 2021
 client: Foreign, Commonwealth & Development Office
 solutions:
 - Global Health
+- Health Equity
 regions: Latin America and the Caribbean
 country: Mexico
 promos:
