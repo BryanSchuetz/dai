@@ -3,6 +3,8 @@ title: DAI’s Global Health and Digital Expertise Highlighted at EDD 2022
 date: 2022-06-09 08:50:00 Z
 tags:
 - European Union
+solutions:
+- Global Health
 clients: European Union
 summary: 'The 2022 hybrid edition of [European Development Days (EDD)](https://eudevdays.eu/),
   held June 21-22, will focus on the European Union''s "Global Gateway: building sustainable
