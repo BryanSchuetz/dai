@@ -19,8 +19,7 @@ DAI will actively contribute to this year's event through a stand on the UKaid-f
 
 <!--more-->
 
-**Stand: Meet the Tackling Deadly Diseases in Africa team 
-Global Village Stand 5675**
+## Stand: Meet the Tackling Deadly Diseases in Africa team, Global Village Stand 5675
 
 Epidemics are a global threat, killing millions of people each year. Robust health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
 
@@ -32,7 +31,7 @@ For our TDDA team, one of the most important lessons from the COVID-19 pandemic 
 
 ![Logo_edd22_EC-Green.png](/uploads/Logo_edd22_EC-Green.png)
 
-**Lunch event: Whose Business is Health Security? June 22, from 13:00 to 14:15 (CET), Room L3**
+## Lunch event: Whose Business is Health Security? June 22, from 13:00 to 14:15 (CET), Room L3
 
 The model developed by TDDA reaches some of the most vulnerable in society (the poorest, refugees, the disabled, and women), empowering local civil society organizations, for instance, to deliver vital community engagement in settings not easily served by formal structures. Our work offers essential insights for program design recognizing that health security is everybody's business.
 
@@ -40,7 +39,7 @@ At our lunch event on June 22, [Dabsou Guidaoussou and Omer Njajou](https://www.
 
 [Register here.](https://forms.office.com/pages/responsepage.aspx?id=PREHcQviIEykzlU8q79obVUSljMZJZBKu0o8-fd0keNUOE9GMUZYSThMSTdTVkNNTUlYRFIxSUVSTC4u)
 
-**Lab Debate: Artificial Intelligence (AI) and Data Innovation for the Future of Healthcare, June 22, from 12:05 to 12:50 (CET), Studio 3**
+## Lab Debate: Artificial Intelligence (AI) and Data Innovation for the Future of Healthcare, June 22, from 12:05 to 12:50 (CET), Studio 3
 
 [The session](https://eudevdays.eu/community/sessions/5447/ai-impact-on-society-futurism-practice), organized by Assortis and partners, will bring diverse case studies showing AI application in the health sector, focusing on how AI-powered by data has made healthcare efficient and accessible and how it can lead to innovation in developing countries. 
 
