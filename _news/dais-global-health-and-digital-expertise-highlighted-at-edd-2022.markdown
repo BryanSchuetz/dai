@@ -17,6 +17,8 @@ The 2022 hybrid edition of [European Development Days (EDD)](https://eudevdays.e
 
 DAI will actively contribute to this year's event through a stand on the UKaid-funded [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program) program; a lunchtime presentation with TDDA country coordinators from Chad and Cameroon; and participation in a panel about artificial intelligence and health. 
 
+<!--more-->
+
 **Stand: Meet the Tackling Deadly Diseases in Africa team 
 Global Village Stand 5675**
 

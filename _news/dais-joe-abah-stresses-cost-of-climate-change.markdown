@@ -11,9 +11,9 @@ country: Nigeria
 
 DAI Country Director in Nigeria, Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah), recently spoke at the inauguration of the Carbon Chamber Project, by the National Chamber Policy Centre of the Abuja Chamber of Commerce and Industry.
 
-Abah discussed the dependencies between climate change, poverty reduction, and clean energy. His speech highlighted how renewable energy can reduce poverty and strengthen the Nigerian economy if effectively harnessed. 
-
 <!--more-->
+
+Abah discussed the dependencies between climate change, poverty reduction, and clean energy. His speech highlighted how renewable energy can reduce poverty and strengthen the Nigerian economy if effectively harnessed. 
 
 The Carbon Chamber Project creates a platform where climate change decision makers and green energy technology companies come together to discuss programs and policies to reduce greenhouse gas emissions and how to accelerate development efforts.
 
