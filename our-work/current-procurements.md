@@ -10,11 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFP 2022-08 Mod 1](/uploads/RFP%202022-08%20Mod%201.pdf "7/1")
 * [RFP 2022-08 Digital Agri Hub RFP State of the Sector-821142](/uploads/RFP%202022-08%20Digital%20Agri%20Hub%20RFP%20State%20of%20the%20Sector-821142.pdf "6/17")
 * [SOLICITUD DE PROPUESTA (RFP)YEMP-RFP-INT-2022-0001](https://dai-assets.s3.amazonaws.com/rfps/YEMP-RFP-INT-2022-001%20Capacitacion%20Do%20No%20Harm_Final.pdf "6/12")
-* [RFA 2022-13 Digital Policy Advocacy Support_ Modification 1-cbcaf7](/uploads/RFA%202022-13%20Digital%20Policy%20Advocacy%20Support_%20Modification%201-cbcaf7.pdf "6/7")
-* [Crisis Protection Gap—Top Down Costing Analysis ToR CDP FINAL](/uploads/Crisis%20Protection%20Gap%20-%20Top%20Down%20Costing%20Analysis%20ToR%20CDP%20%20FINAL.pdf "6/7")
-* [Crisis Protection Gap—Bottom up Costing ToR CDP FINAL](/uploads/Crisis%20Protection%20Gap%20-%20Bottom%20up%20Costing%20ToR%20CDP%20FINAL.pdf "6/7")
 * [RFP-TCA-KYR-22-0001 Portfolio of Handicraft Products](/uploads/RFP-TCA-KYR-22-0001%20Portfolio%20of%20Handicraft%20Products%20(for%20DAI%20website).pdf "6/11")
-* [Centre Comms Agency—TOR 11052022](/uploads/Centre%20Comms%20Agency%20-%20TOR%2011052022%20%5B75%5D.pdf "6/7")
-* [RFA-2022-13_Digital Policy Advocacy Support in Southeast Asia and Mongolia_Final](/uploads/RFA-2022-13_Digital%20Policy%20Advocacy%20Support%20in%20Southeast%20Asia%20and%20Mongolia_Final.pdf "6/8")
