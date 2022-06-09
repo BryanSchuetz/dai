@@ -1,6 +1,16 @@
 ---
 title: DAI's Global Health and Digital Expertise Highlighted at EDD 2022
-date: 2022-06-09 12:50:00 Z
+date: 2022-06-09 08:50:00 Z
+tags:
+- European Union
+clients: European Union
+summary: 'The 2022 hybrid edition of [European Development Days (EDD)](https://eudevdays.eu/),
+  held June 21-22, will focus on the European Union''s "Global Gateway: building sustainable
+  partnerships for a connected world." DAI will actively contribute to this year''s
+  event through a stand on the UKaid-funded [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program)
+  program; a lunchtime presentation with TDDA country coordinators from Chad and Cameroon;
+  and participation in a panel about artificial intelligence and health. '
+social-image: "/uploads/Logo_edd22_EC-Blue.png"
 ---
 
 The 2022 hybrid edition of [European Development Days (EDD)](https://eudevdays.eu/), held June 21-22, will focus on the European Union's "Global Gateway: building sustainable partnerships for a connected world." 
