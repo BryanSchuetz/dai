@@ -8,7 +8,7 @@ regions: Worldwide
 social-image: "/uploads/sm%20Josh%20Gil_Treatment%203.png"
 ---
 
-Crawford to Serve as Chair of MicroVest Board and Investment Committee
+## Crawford to Serve as Chair of MicroVest Board and Investment Committee
 
 BETHESDA, MD, June 9, 2022—MicroVest Capital Management today announced that Gil Crawford, co-founder and long-time CEO, has handed over day-to-day management of the firm to Joshua Moraczewski, as part of a planned leadership succession process. Moraczewski, who joined the company in November 2021 as Chief Operating Officer following the firm’s acquisition by DAI, has been named CEO. Crawford will maintain a full-time role at the firm and assume the title of Chairman of the Board while continuing to Chair the MicroVest Investment Committee.  
 
