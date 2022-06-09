@@ -3,7 +3,7 @@ title: DAI Acquires International Asset Management Firm, MicroVest
 date: 2021-12-02 01:00:00 Z
 is_featured: false
 solutions:
-- Development Finance
+- DAI Capital
 summary: DAI announced today that it has acquired MicroVest Capital Management (“MicroVest”),
   one of the world’s leading lenders to responsible finance institutions—an acquisition
   that will expand the capabilities of DAI’s investment management arm, DAI Capital.
