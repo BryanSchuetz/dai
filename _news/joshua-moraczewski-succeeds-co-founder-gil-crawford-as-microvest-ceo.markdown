@@ -4,6 +4,10 @@ date: 2022-06-09 10:30:00 Z
 solutions:
 - DAI Capital
 regions: Worldwide
+summary: 'MicroVest Capital Management today announced that Gil Crawford, co-founder
+  and long-time CEO, has handed over day-to-day management of the firm to [Joshua
+  Moraczewski](https://www.dai.com/who-we-are/our-team/joshua-moraczewski), as part
+  of a planned leadership succession process. '
 social-image: "/uploads/sm%20Josh%20Gil_Treatment%203.png"
 ---
 
