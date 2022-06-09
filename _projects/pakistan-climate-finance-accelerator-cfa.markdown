@@ -1,7 +1,6 @@
 ---
 title: Pakistan—Climate Finance Accelerator (CFA)
-date: 2022-05-23 13:03:00 Z
-published: false
+date: 2022-06-09 12:03:00 Z
 tags:
 - climate
 summary: 'DAI is delivering the first two phases of the Climate Finance Accelerator
@@ -18,9 +17,14 @@ regions: Eastern Europe and Central Asia
 country: Pakistan
 ---
 
-The global Climate Finance Accelerator (CFA) programme is a four-year technical assistance programme funded by the U.K. Department of Business, Energy & Industrial Strategy (BEIS) and implemented by PricewaterhouseCoopers. DAI, as a subcontractor, will deliver the first two phases of the CFA activities in Pakistan, including a scoping exercise to map Pakistan's climate finance landscape. 
+The global Climate Finance Accelerator (CFA) program is a four-year technical assistance program funded by the U.K. Department of Business, Energy & Industrial Strategy (BEIS) and implemented by PricewaterhouseCoopers. DAI, as a subcontractor, is delivering the first two phases of the CFA activities in Pakistan by convening a wide variety of stakeholders, including project proponents and developers, banks and other finance providers, and government representatives.
 
 ## Sample Activities
 
-* Develop a shortlist of potential low-carbon projects relevant to Pakistan's Nationally Determined Contributions.
-* Build the capacity of those businesses involved to ensure they can productively engage with financial experts at events convened to connect projects with capital market players.
+The project has five core components:
+
+* Formulating a report mapping the climate finance ecosystem in Pakistan and outlining the key gaps that are a barrier to a fully functioning supply chain.
+* Launching a call for proposals to identify low carbon projects relevant to the interest of investors. The projects should also deliver co-benefits such as poverty reduction, improved gender equality, and building resilience to climate impacts. 
+* Developing a shortlist of 8 to 10 bankable and potentially low-carbon projects. 
+* Building the capacity of project proponents to ensure they can productively engage with financial experts at events convened to connect projects with capital market players.
+* Developing knowledge products, including an in-country event summary report, final outline term sheets prepared by participants, and a summary of identified recommended changes to the policy environment.
