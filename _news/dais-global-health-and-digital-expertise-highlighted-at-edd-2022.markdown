@@ -10,7 +10,7 @@ summary: 'The 2022 hybrid edition of [European Development Days (EDD)](https://e
   event through a stand on the UKaid-funded [Tackling Deadly Diseases in Africa (TDDA)](https://www.dai.com/our-work/projects/africa-tackling-deadly-diseases-in-africa-program)
   program; a lunchtime presentation with TDDA country coordinators from Chad and Cameroon;
   and participation in a panel about artificial intelligence and health. '
-social-image: "/uploads/Logo_edd22_EC-Blue.png"
+social-image: "/uploads/sm.png"
 ---
 
 The 2022 hybrid edition of [European Development Days (EDD)](https://eudevdays.eu/), held June 21–22, will focus on the European Union's "Global Gateway: building sustainable partnerships for a connected world." 
