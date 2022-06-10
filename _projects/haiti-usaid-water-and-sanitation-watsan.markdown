@@ -14,6 +14,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: Haiti
 promos:
+- title: Lessons Learned from Twelve Years of Urban Sanitation Work in Haiti
+  link: https://www.globalwaters.org/resources/assets/lessons-learned-twelve-years-urban-sanitation-work-haiti
 - title: 'Beyond the Washroom: Sustainable, Systemwide Approaches for Good Sanitation'
   link: https://dai-global-developments.com/articles/beyond-the-washroom-sustainable-systemwide-approaches-for-good-sanitation
 - title: Five Lessons on Effectively Improving the Water Sector
