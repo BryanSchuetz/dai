@@ -28,6 +28,8 @@ promos:
   link: https://daiglobal.exposure.co/the-value-of-water
 - title: Using Data-Driven Management to Improve Water Service Provider Performance
   link: https://www.globalwaters.org/resources/assets/using-data-driven-management-improve-water-service-provider-performance
+- title: Applying Adaptive Management for Results in a Fragile Environment
+  link: https://www.globalwaters.org/resources/assets/applying-adaptive-management-results-fragile-environment
 ---
 
 In Haiti, the incidence of life-threatening water-borne diseases has worsened in recent years, due in large part to the massive earthquake in 2010 and Hurricane Matthew in 2016. Today, fewer Haitians have access to improved water sources than in 1990. Haiti’s National Directorate for Water and Sanitation has become absorbed in emergency response rather than planning the effective decentralization of water security, sanitation, and hygiene (WSSH) services. Private-sector actors have attempted to fill gaps in access, but without proper regulation, these services are often unaffordable for low-income populations and cause environmental damage.
