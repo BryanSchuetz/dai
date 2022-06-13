@@ -1,8 +1,8 @@
 ---
 title: Responsible Business
 date: 2017-06-19 15:11:00 Z
-redirect_from: "/our-work/solutions/sustainable/sustainable-business-enterprise-innovation"
 permalink: "/our-work/solutions/sustainable/responsible-business"
+redirect_from: "/our-work/solutions/sustainable/sustainable-business-enterprise-innovation"
 summary: 
 hero: true
 solutions:
