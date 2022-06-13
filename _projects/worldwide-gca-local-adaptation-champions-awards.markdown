@@ -32,4 +32,4 @@ DAI is supporting the delivery of the Local Adaptation Champions Awards 2022 thr
 
 **Prizes and Awards Ceremony**
 
-Twenty nominees will benefit from media coverage around their nomination for the Awards. Four winners (one per category) will receive a cash prize of €15,000 from a high-level jury in November, in Sharm el-Sheikh, Egypt, during COP27.
+Twenty nominees will benefit from media coverage around their nomination for the Awards. Four winners (one per category) will receive a cash prize of €15,000 from a high-level jury in November, in Sharm el-Sheikh, Egypt, during [COP27](https://sdg.iisd.org/events/2021-un-climate-change-conference-unfccc-cop-27/).
