@@ -8,17 +8,16 @@ summary: Rémy Kormos has more than 25 years of experience in international busi
 job-title: General Counsel, DAI Capital
 image: "/uploads/Remy%20Kormos-cd2e82.JPG"
 solutions:
-- DAI Capital
 - Governance
-- Law and Justice
+- Economic Growth
 regions:
 - Worldwide
 articles:
 - name: '"Pro-Poor Business Law and Regulatory Reform," Developing Alternatives'
   article_file: https://dai-global-developments.com/articles/pro-poor-business-law-and-regulatory-reform
-- name: '"Vers l’unification de la culture juridique dans les pays balkaniques : L’acculturation
-    du droit des affaires," Etudes Balkaniques '
-  article_file: https://www.cairn.info/revue-etudes-balkaniques-cahiers-pierre-belon-2013-1-page-15.htm
+- name: Business Environment Reform Guidelines, Directorate-General for International
+    Cooperation and Development, European Commission (2020)
+  article_file: https://europa.eu/capacity4dev/t-and-m-series/documents/guidelines-ndeg9-business-environment-reform
 ---
 
 Rémy Kormos is General Counsel of DAI Capital, DAI’s advisory and investment arm dedicated to mobilizing private capital in frontier and emerging markets. He provides legal advice on business transactions, mergers and acquisitions, corporate governance, and regulatory compliance to DAI Capital, including MicroVest Capital Management, an investment adviser specializing in mobilizing investment for responsible financial institutions, and DAI Magister Ltd., a U.K.-based capital advisory firm.  
