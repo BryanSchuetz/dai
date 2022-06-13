@@ -4,7 +4,7 @@ date: 2022-06-13 16:06:00 Z
 summary: DAI is supporting the delivery of the Local Adaptation Champions Awards 2022.
 start: 2022
 end: 2023
-client: Foreign, Commonwealth & Development Office
+client: The Global Center on Adaptation
 solutions:
 - Climate
 - Climate Change Adaptation and Mitigation
