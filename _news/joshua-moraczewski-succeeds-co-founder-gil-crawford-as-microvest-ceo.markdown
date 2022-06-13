@@ -8,7 +8,7 @@ summary: 'MicroVest Capital Management today announced that Gil Crawford, co-fou
   and long-time CEO, has handed over day-to-day management of the firm to [Joshua
   Moraczewski](https://www.dai.com/who-we-are/our-team/joshua-moraczewski), as part
   of a planned leadership succession process. '
-social-image: "/uploads/sm%20Josh%20Gil_Treatment%203.png"
+social-image: "/uploads/Photo%20Josh%20and%20Gil-9ad397.jpg"
 ---
 
 ## Crawford to Serve as Chair of MicroVest Board and Investment Committee
@@ -19,11 +19,11 @@ MicroVest Capital Management today announced that Gil Crawford, co-founder and l
 
 After co-founding MicroVest in 2003, [Crawford](https://microvestfund.com/our_team/gil-crawford/) served as CEO for nearly two decades and played an integral role in bringing microfinance investing into the mainstream. He led the launch of the first North American-based private investment vehicle focused on microfinance and has launched multiple follow-on debt and equity products designed to facilitate inclusion for underserved microentrepreneurs worldwide. 
 
-![Josh Gil_Treatment 3.png](/uploads/Josh%20Gil_Treatment%203.png)`Joshua Moraczewski, at left, and Gil Crawford in DAI's Bethesda office.`
+![Photo Josh and Gil.jpg](/uploads/Photo%20Josh%20and%20Gil.jpg)`Joshua Moraczewski, at left, and Gil Crawford in DAI's Bethesda office.`
 
 “Co-founding MicroVest alongside Bo Cutter and Gerhard Pries and serving as the firm’s CEO has been one of the most rewarding experiences of my professional career,” said Crawford. “Our team built MicroVest into a leader in microfinance and small business investing and the firm will continue to reach new heights under Josh’s leadership. Josh brings an important new perspective to our operations, and I look forward to working closely with him and the rest of our incredible team.”
 
-Josh Moraczewski has more than 20 years of investment banking and private equity experience in both developed and emerging markets. Before joining MicroVest’s parent company, DAI, in 2019, Moraczewski was a Partner at Kew Capital, an alternative asset investment management company based in London, and Credit Suisse, where he was on the Global Structuring Desk in London covering Central and Eastern Europe, the Middle East, and Africa. He also worked in Credit Suisse’s Investment Banking Division in New York, where he was a member of both the Structured Products and Energy Groups. 
+Moraczewski has more than 20 years of investment banking and private equity experience in both developed and emerging markets. Before joining MicroVest’s parent company, DAI, in 2019, Moraczewski was a Partner at Kew Capital, an alternative asset investment management company based in London, and Credit Suisse, where he was on the Global Structuring Desk in London covering Central and Eastern Europe, the Middle East, and Africa. He also worked in Credit Suisse’s Investment Banking Division in New York, where he was a member of both the Structured Products and Energy Groups. 
 
 "I'm excited to build on MicroVest’s history as a pioneer in the microfinance investment space,” said Moraczewski. “MicroVest has built a distinguished record over nearly two decades of investing in companies whose interests are aligned with the communities they serve. We will continue to innovate, generate impact, and pursue value for all our stakeholders while maintaining high standards of integrity and investment discipline. I look forward to working closely with our firm's leadership and the rest of our talented team to achieve this next phase of growth." 
 
