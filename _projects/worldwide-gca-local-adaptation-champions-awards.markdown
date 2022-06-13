@@ -1,7 +1,6 @@
 ---
 title: Worldwide—GCA Local Adaptation Champions Awards
 date: 2022-06-13 16:06:00 Z
-published: false
 summary: DAI is supporting the delivery of the Local Adaptation Champions Awards 2022.
 start: 2022
 end: 2023
@@ -14,9 +13,11 @@ regions: Worldwide
 country: Worldwide
 ---
 
-Launched by The Global Center on Adaptation in 2022, the Local Adaptation Champions Awards spotlight and reward inspiring, innovative, and scalable locally led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities, sections of society, and individuals who are at the frontlines of the greatest existential threat faced by humankind.
+Launched by [The Global Center on Adaptation](https://gca.org/llachampions/) in 2022, the Local Adaptation Champions Awards spotlight and reward inspiring, innovative, and scalable locally led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities, sections of society, and individuals who are at the frontlines of the greatest existential threat faced by humankind.
 
 DAI is supporting the delivery of the Local Adaptation Champions Awards 2022 through a range of activities including conceptualizing the Awards process; developing the Awards criteria and material required for the submission of entries; developing a global outreach and publicity plan; building an applications portal; managing the receipt of applications; managing the shortlisting process; and organizing a high-level Awards ceremony at COP27, Egypt.
+
+![website-featured-photo.png](/uploads/website-featured-photo.png)
  
 **Who Can Enter?**
 
