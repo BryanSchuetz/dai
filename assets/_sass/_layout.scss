@@ -2086,3 +2086,22 @@ ol li::marker{
   color: $grey-dark;
 }
 }
+.covid-carousel.sbg-case-study{
+  .carousel-cell{
+    li{
+      margin-bottom: 0px;
+    }
+    @include responsive(wide-screens) {
+      width: 100%;
+      min-height: 682px;
+      .image{
+        height: 250px;
+      }
+    }
+    @include responsive(extra-ultra-wide-screens){
+      width: 484px;
+      margin-right: 16px;
+      min-height: 818px;
+    }
+  } 
+}
