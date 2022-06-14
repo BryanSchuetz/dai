@@ -14,13 +14,11 @@ regions: Middle East and North Africa
 country: Jordan
 ---
 
-Jordan’s economy has experienced a series of shocks—from
-waves of refugees to regional instability and now COVID-19. While the Government of Jordan has introduced new tax legislation and sought to improve tax administration, upgrade the budgeting process, and streamline public expenditures management, there is still much work to be done to ensure macro-fiscal resilience while maintaining the fiscal space to deliver social goods to citizens. To support the government with this fiscal imperative, the U.S. Agency for International Development designed the Public Financial Management and Administration (PFMA) activity. PFMA is a five-year initiative to improve the Jordanian revenue system and enhance the budget management process. 
+Jordan’s economy has experienced a series of shocks—from waves of refugees to regional instability and now COVID-19. While the Government of Jordan has introduced new tax legislation and sought to improve tax administration, upgrade the budgeting process, and streamline public expenditures management, there is still much work to be done to ensure macro-fiscal resilience while maintaining the fiscal space to deliver social goods to citizens. To support the government with this fiscal imperative, the U.S. Agency for International Development designed the Public Financial Management and Administration (PFMA) activity. PFMA is a five-year initiative to improve the Jordanian revenue system and enhance the budget management process. 
 
 PFMA will build the capacity of the Jordanian Ministry of Finance and other government institutions to modernize the revenue collection system, encourage compliance—including making it easier for taxpayers to comply with tax obligations—upgrade public procurement management, and improve budget planning, preparation, and execution. 
 
-Our approach is to work with and through local systems while thinking and working politically. Our assistance will be informed by an analysis of the political economy of the PFM
-ecosystem in Jordan. Central to our implementation methodology is the concept of change management—structured tools to assist government officials to make the personal and institutional transition from the status quo to new ways of doing business. 
+Our approach is to work with and through local systems while thinking and working politically. Our assistance will be informed by an analysis of the political economy of the PFM ecosystem in Jordan. Central to our implementation methodology is the concept of change management—structured tools to assist government officials to make the personal and institutional transition from the status quo to new ways of doing business. 
 
 ![jordan.jpg](/uploads/jordan.jpg)
 
@@ -32,3 +30,7 @@ ecosystem in Jordan. Central to our implementation methodology is the concept of
 * Develop and implement an electronic revenue management system.
 * Strengthen the preparation of results-oriented budgets.
 * Strengthen audit processes and procedures. 
+
+### Select Results
+
+* Developed new, user-friendly tools, including a series of tailored dashboards to visualize budgetary information and data mining tools to assist the search for information. These tools allow stakeholders, depending on their authority, to access the needed information in a timely way. 
