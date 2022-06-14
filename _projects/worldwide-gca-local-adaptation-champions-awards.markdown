@@ -22,7 +22,7 @@ DAI is supporting the delivery of the Local Adaptation Champions Awards 2022 thr
 **Who Can Enter?**
 
 * The Awards are open to any individual, organization, or group of partners worldwide, who have implemented or are in the process of implementing climate change adaptation and resilience solutions that follow one of the eight principles for locally led adaptation.
-* Apply now, [with this link:](https://gca.org/apply-llachampions/)
+* Apply now, [with this link.](https://gca.org/apply-llachampions/)
 
 **Awards Categories**
 
