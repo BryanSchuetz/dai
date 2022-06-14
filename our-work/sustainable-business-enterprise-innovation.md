@@ -74,7 +74,7 @@ DAI provides a comprehensive suite of solutions that move our clients from strat
               </div>
               <div class="content">
                 <p>Designs best-in-class programs in social performance that promote the development
-                  of inclusive supply chains in Africa, Asia, and Latin America.​​</p>
+                  of inclusive supply chains.​​</p>
               </div>
             </div>
           </div>
