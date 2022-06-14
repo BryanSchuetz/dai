@@ -18,7 +18,7 @@ Belize ranks fifth at risk in the world for climate change and is increasingly a
 
 In partnership with the Government of Canada, the InterAmerican Development Bank contracted DAI to support the Belize Credit Union League (BCUL) and three of its credit unions with financial products customized around climate adaptation, particularly for businesses in the agribusiness, fisheries, and livestock value chains.
 
-![Belize ecomicro.jpg](/uploads/Belize%20ecomicro.jpg)
+<iframe src="https://player.vimeo.com/video/720230193?h=646d96ea5e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ### Sample Activities
 
