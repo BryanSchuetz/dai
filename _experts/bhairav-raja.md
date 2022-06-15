@@ -22,7 +22,7 @@ articles:
 layout: expert
 ---
 
-Bhairav Raja leads the Responsible Business Practice in DAI’s Sustainable Business Group, based in London. Bhairav has worked globally, including in a range of frontier and emerging markets in Africa and Latin America. He has designed and led private sector engagement projects for a broad client base, including governments and private and public corporations across energy, financial services, and retail.
+Bhairav Raja leads the [Responsible Business Practice](https://www.dai.com/our-work/solutions/sustainable/responsible-business) in DAI’s Sustainable Business Group, based in London. Bhairav has worked globally, including in a range of frontier and emerging markets in Africa and Latin America. He has designed and led private sector engagement projects for a broad client base, including governments and private and public corporations across energy, financial services, and retail.
 
 He has designed solutions for small businesses in digital financial services and climate finance, guided innovation in access to finance in agribusiness and renewable energy value chains, advised on corporate social investment strategies and led policy research inputs for macro policy instruments such as the European Commission’s Carbon Border Adjustment Mechanism and Sustainable Corporate Governance Initiative. He has advised and trained a range of stakeholders from small business associations, multinational corporations, government ministries, central banks, and other regulatory authorities. His work is contributing to policy and innovation solutions that enhance the quality of inclusive economic growth.
 
