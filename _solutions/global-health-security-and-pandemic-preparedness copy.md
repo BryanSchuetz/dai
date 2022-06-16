@@ -6,6 +6,7 @@ solutions:
 - Global Health
 hero: true
 layout: solution
+published: false
 ---
 
 We coordinate responses across sectors for a holistic approach to emerging infectious diseases and disease management. 

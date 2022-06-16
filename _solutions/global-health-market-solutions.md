@@ -14,6 +14,8 @@ Over one third of people around the world don’t have access to basic, affordab
 
 Stronger relationships between public and private entities and engagement with other industries such as transportation, agriculture, and education, are needed to provide the world’s most vulnerable with access to equitable healthcare. Our Market Solutions practice develops new partnerships, investments, and programs to enable companies and health services to grow. We envision quality healthcare becoming a driver of economic growth and community wellness by supporting governments and civil society to leverage private sector actors and market dynamics.
 
+<img src="/uploads/market-solutions-feature.jpg" alt="">
+
 We work with start-ups, small businesses, governments, local and multinational corporations, banks and investors to craft solutions that leverage market forces and incentives and empower the private sector. 
 
 **We specialise in analysing and understanding market systems, developing and strengthening partnerships and creating innovative finance models. Health market system analysis.** DAI has well-honed tools, skills, and in-country experience around the world to analyse market dynamics, failures, and successes to inform systemic change. 

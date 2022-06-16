@@ -2,6 +2,7 @@
 title: Health Governance
 date: 2016-01-21 18:23:00 Z
 permalink: /our-work/solutions/dai-global-health/health-governance
+redirect_from: /our-work/solutions/governance-solutions/health-governance
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
 summary: Developing fairer, better health systems through strong processes and meaningful partnerships 
@@ -13,6 +14,8 @@ hero: true
 The health governance team supports international Universal Health Coverage goals: where individuals and communities receive the health services they need without suffering financial hardship.   
 
 Around the world, the most stretched health systems face the biggest challenges in creating efficient and equitable healthcare. Globally 80% of people live in low-and middle-income states, but only 20% of global health expenditure is spent in these countries. Over-stretched health systems face additional governance challenges such as poor financial controls, limited accountability mechanisms and weak partnerships with the private sector. Health information is often recorded on paper and data systems for tracking outbreaks and conducting surveillance are often fragmented.  
+
+<img src="/uploads/health-governance-feature.jpg" alt="">
 
 Strong partnerships and systems are the answer to many of these issues. We adopt a non-hierarchical, partnership approach with public sector and civil society to develop health systems that deliver quality services fairly. We start with inclusive stakeholder mapping and political economy analysis to understand the incentives, opportunities and barriers to change. We then use this data to help make systems more transparent, efficient and effective.  Key services we offer include: 
 

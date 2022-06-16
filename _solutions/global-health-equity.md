@@ -12,6 +12,8 @@ hero: true
 ---
 Social or economic status can potentially have a greater influence on a person’s health than the availability of healthcare. Access to clean water, social support, education, income, food security and housing dramatically affect our level of exposure and resilience to threats and diseases, our health-related behaviours, and our ability to access health services. There is an unfair and unavoidable difference in health status between rich and poor countries. Globally, the lower the socioeconomic position of a country, the worse the health of its citizens. In fact, social determinants are estimated to account for 30-55% of an individual’s health status. These inequalities in social determinants however also exist within countries and it is the poorest and most vulnerable that are worse affected.
 
+<img src="/uploads/health-equity-feature.jpg" alt="">
+
 Our Health Equity practice aims to reach society’s most vulnerable by tackling structural inequities around nutrition, livelihoods, sexual & reproductive health, maternal & newborn health, and family planning. Ensuring we spotlight and tackle pervasive inequalities around gender and inclusion within these thematic areas will always be central our work.
 
 **We specialise in designing innovative, evidence-based technical programmes that impact vulnerable young girls, pregnant women, infants & children, parents & carers and youth, refugees and people living in conflict affected areas.**

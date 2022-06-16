@@ -16,6 +16,8 @@ As COVID-19 has demonstrated, disease outbreaks can overwhelm global health and 
 
 Within 18 months from the start of the COVID-19 pandemic, over 4 million people died and millions more were hospitalised or facing long-term health consequences from catching the virus. While the pandemic’s economic impact is yet to be fully understood, estimates from the Ebola and SARS epidemics suggest the world lost near $100 billion in productivity, meaning COVID-19’s impact will be much greater. These crises have demonstrated the importance of pandemic preparedness, disease surveillance, and immunizations to safeguard our neighbourhoods and communities.
 
+<img src="/uploads/health-security-feature.jpg" alt="">
+
 Our health security practice imagines a world where governments can act quickly to prevent, detect, and respond to health threats. One where countries work together, developing consensus and partnership across different ministries and neighbour states. And one where scientists and health workers have the resources and knowledge to provide the very best vaccines, medicines, and healthcare for their citizens. 
 
 ## We specialise in preventing, detecting, and responding to health threats.
