@@ -26,7 +26,9 @@ IAM takes a [market systems development](https://dai-global-developments.com/art
  
 Inclusivity lies at the heart of IAM. The team focuses on strengthening the market integration of “zone of influence” districts and of marginalized groups including women, youth, refugees, their host communities, and the people of [Karamoja](https://en.wikipedia.org/wiki/Karamoja)—Uganda’s least economically developed region. IAM will ensure that 60 percent of those benefitting from the activities are women and 40 percent are young people.
 
-<iframe src="https://player.vimeo.com/video/721057794?h=9036522966" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>`Video: IAM partnered with Okeba Uganda to increase refugee communities' access to quality agricultural inputs and niche markets.` 
+<div class="video-wrap">
+  <iframe src="https://player.vimeo.com/video/721057794?h=9036522966" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe><code>Video: IAM partnered with Okeba Uganda to increase refugee communities' access to quality agricultural inputs and niche markets.</code>
+</div>
 
 ### Sample Activities
 
