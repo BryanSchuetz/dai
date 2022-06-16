@@ -19,11 +19,11 @@ That’s why we are passionate about Global Health. We are on a mission to shape
 <img src="https://www.dai.com/uploads/highlights_ZAMBIA_169.jpg" alt="">`Photo: Toby Madden for Transaid.`
 
 <h1>Our Principles</h1>
-<div class="bulma enterprise-innovation">
+<div class="bulma enterprise-innovation health-principles">
   <div class="columns is-3">
     <div class="column">
       <div class="card bm--card-equal-height">
-        <span class="icon">
+        <span class="icon is-medium is-primary">
           <i class="fa-regular fa-chart-network"></i>
         </span>
         <div class="card-content">
@@ -37,7 +37,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
     </div>
     <div class="column">
       <div class="card bm--card-equal-height">
-        <span class="icon">
+        <span class="icon is-medium is-primary">
           <i class="fa-regular fa-landmark"></i>
         </span>
         <div class="card-content">
@@ -52,7 +52,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
     </div>
     <div class="column">
     <div class="card bm--card-equal-height">
-      <span class="icon">
+      <span class="icon is-medium is-primary">
         <i class="fa-regular fa-laptop-mobile"></i>
       </span>
       <div class="card-content">
@@ -68,7 +68,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
   <div class="columns">
     <div class="column">
         <div class="card">
-          <span class="icon">
+          <span class="icon is-medium is-primary">
             <i class="fa-regular fa-handshake-angle"></i>
           </span>
           <div class="card-content">

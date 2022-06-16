@@ -2097,4 +2097,27 @@ ol li::marker{
       min-height: 818px;
     }
   } 
+} 
+.bulma .card-image-pad{
+  padding: 1rem;
+  img{
+    border: 0px;
+  }
+}
+.bulma .card-content.health img{
+  clip-path: none;
+  border: none;
+}
+.bulma .card-content.health figure{
+  clip-path: none;
+}
+.bulma .card-health{
+  &:hover {
+    .card {
+      box-shadow: 0px 2px 60px 0px rgba(118, 132, 146, 0.47);
+    }
+  }
+}
+.bulma .health-principles{
+
 }
