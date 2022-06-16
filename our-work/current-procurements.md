@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [GESP-G-RFQ-015 Whitewater](https://dai-assets.s3.amazonaws.com/rfps/GESP-G-RFQ-015%20Whitewater.pdf "6/24")
+* [RFQ-ACEBA-KBL-2022-I-0018 - Serviced Office Space](https://dai-assets.s3.amazonaws.com/rfps/RFQ-ACEBA-KBL-2022-I-0018%20-%20Serviced%20Office%20Space.pdf "6/17")
 * [FE_RFP_LPTA_015-22_POTATO SEEDS](/uploads/FE_RFP_LPTA_015-22_POTATO%20SEEDS.pdf "7/2")
 * [RFP 2022-09 Digital Development in Sub-Sahara Africa Mapping Exercise](/uploads/RFP%202022-09%20Digital%20Development%20in%20Sub-Sahara%20Africa%20Mapping%20Exercise.pdf "7/1")
 * [RFP 2022-08 Mod 1](/uploads/RFP%202022-08%20Mod%201.pdf "7/1")
