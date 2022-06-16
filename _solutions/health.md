@@ -4,7 +4,8 @@ date: 2016-01-21 18:23:00 Z
 permalink: our-work/solutions/global-health
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
-summary: We envision better health systems that foster quality & access; reduce threats; and promote healthier behaviours to improve lives globally.
+summary: We envision better health systems that foster quality & access; reduce threats;
+  and promote healthier behaviours to improve lives globally.
 type: primary
 related: false
 hero: true
@@ -12,6 +13,7 @@ redirect_from: "/global-health"
 icons: true
 layout: solution
 ---
+
 The health of our communities and our planet has never been more important. The recent growth of melting glaciers, rising seas, migration, conflict, and global epidemics and pandemics have put the health of our globe into sharp focus. Our world needs better health security, better access to healthcare, a deeper understanding of how our natural world and physical health interact and greater engagement with the market forces that shape our global economy.   
 
 That’s why we are passionate about Global Health. We are on a mission to shape a more liveable world and we have over 50 years’ experience in doing just that. We specialise in improving health security and systems, health equity and private sector engagement using our diverse expertise and unique ways of working. 

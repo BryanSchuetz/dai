@@ -1,15 +1,17 @@
 ---
 title: Market Solutions
 date: 2016-01-21 18:23:00 Z
-permalink: /our-work/solutions/dai-global-health/market-solutions
+permalink: "/our-work/solutions/dai-global-health/market-solutions"
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
-summary: Harnessing market dynamics to improve health systems and access to affordable, sustainable health services and products 
+summary: Harnessing market dynamics to improve health systems and access to affordable,
+  sustainable health services and products
 layout: solution
 solutions:
 - Global Health
 hero: true
 ---
+
 Over one third of people around the world don’t have access to basic, affordable healthcare and governments are unable to single-handedly meet the needs of their population. Significant untapped potential to deliver health products, services and information exists within the private sector Business can be one the world’s greatest drivers of positive impact, as demonstrated by the explosion of social enterprises and impact investors emerging daily around the world. But in many countries, economic, financial, and regulatory barriers prevent new companies and business from developing or applying their health care solutions. 
 
 Stronger relationships between public and private entities and engagement with other industries such as transportation, agriculture, and education, are needed to provide the world’s most vulnerable with access to equitable healthcare. Our Market Solutions practice develops new partnerships, investments, and programs to enable companies and health services to grow. We envision quality healthcare becoming a driver of economic growth and community wellness by supporting governments and civil society to leverage private sector actors and market dynamics.

@@ -1,15 +1,17 @@
 ---
 title: Health Equity
 date: 2016-01-21 18:23:00 Z
-permalink: /our-work/solutions/dai-global-health/health-equity
+permalink: "/our-work/solutions/dai-global-health/health-equity"
 icon: <svg class="health-badge badge" viewBox="0 0 100 100" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#health-badge"></use></svg>
-summary: We envision better health systems that foster quality & access; reduce threats; and promote healthier behaviours to improve lives globally.
+summary: We envision better health systems that foster quality & access; reduce threats;
+  and promote healthier behaviours to improve lives globally.
 layout: solution
 solutions:
 - Global Health
 hero: true
 ---
+
 Social or economic status can potentially have a greater influence on a person’s health than the availability of healthcare. Access to clean water, social support, education, income, food security and housing dramatically affect our level of exposure and resilience to threats and diseases, our health-related behaviours, and our ability to access health services. There is an unfair and unavoidable difference in health status between rich and poor countries. Globally, the lower the socioeconomic position of a country, the worse the health of its citizens. In fact, social determinants are estimated to account for 30-55% of an individual’s health status. These inequalities in social determinants however also exist within countries and it is the poorest and most vulnerable that are worse affected.
 
 <img src="/uploads/health-equity-feature.jpg" alt="">

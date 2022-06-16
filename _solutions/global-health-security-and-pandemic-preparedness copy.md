@@ -2,11 +2,11 @@
 title: Global Health Security and Pandemic Preparedness
 date: 2016-01-22 00:11:00 Z
 permalink: "/our-work/solutions/health-solutions/global-health-security-and-pandemic-preparedness"
+published: false
 solutions:
 - Global Health
 hero: true
 layout: solution
-published: false
 ---
 
 We coordinate responses across sectors for a holistic approach to emerging infectious diseases and disease management. 
