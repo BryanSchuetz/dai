@@ -23,7 +23,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
   <div class="columns is-3">
     <div class="column">
       <div class="card bm--card-equal-height">
-        <span class="icon is-medium is-primary">
+        <span class="icon is-primary is-large">
           <i class="fa-regular fa-chart-network"></i>
         </span>
         <div class="card-content">
@@ -37,7 +37,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
     </div>
     <div class="column">
       <div class="card bm--card-equal-height">
-        <span class="icon is-medium is-primary">
+        <span class="icon is-primary is-large">
           <i class="fa-regular fa-landmark"></i>
         </span>
         <div class="card-content">
@@ -52,7 +52,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
     </div>
     <div class="column">
     <div class="card bm--card-equal-height">
-      <span class="icon is-medium is-primary">
+      <span class="icon is-primary is-large">
         <i class="fa-regular fa-laptop-mobile"></i>
       </span>
       <div class="card-content">
@@ -68,7 +68,7 @@ That’s why we are passionate about Global Health. We are on a mission to shape
   <div class="columns">
     <div class="column">
         <div class="card">
-          <span class="icon is-medium is-primary">
+          <span class="icon is-primary is-large">
             <i class="fa-regular fa-handshake-angle"></i>
           </span>
           <div class="card-content">
