@@ -2123,3 +2123,18 @@ ol li::marker{
     font-size: 2rem;
   }
 }
+
+.covid-carousel.climate.equal-height .carousel-cell{
+  display: flex;
+  align-items: stretch;
+  min-height: 100%;
+}
+.bulma.enterprise-innovation.practice-leaders .bulma-card .card{
+  height: 100%;
+}
+.covid-carousel.climate.localization.equal-height{
+  height: 500px;
+  @include responsive(medium-screens){
+    height: 100%;
+  }
+}

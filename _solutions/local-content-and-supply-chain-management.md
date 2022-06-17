@@ -1,18 +1,169 @@
 ---
-title: Local Content and Supply Chain Management
+title: Localization  
 date: 2016-01-22 00:11:00 Z
-permalink: "/our-work/solutions/corporate/local-content-and-supply-chain-management"
+permalink: /our-work/solutions/sustainable/localization
+redirect_from: "/our-work/solutions/corporate/local-content-and-supply-chain-management"
 solutions:
 - Sustainable Business
 hero: true
 layout: solution
+ultrawide: true
+icons: true
 ---
 
-The [Sustainable Business Group](/our-work/solutions/sustainable-business) builds in-house programs or develops multistakeholder, industry-wide solutions that will create a sustainable industrial base without losing sight of immediate business needs. Our approach begins with a discussion of business objectives, procurement needs, and community expectations, and includes target-setting, stakeholder engagement, measurement and evaluation, and communications. We help clients determine if and how to engage other operators, contractors, governments, and communities in the program. We can focus our services to meet particular needs or build directories that broaden suppliers’ markets, thereby improving their abilities to thrive and to support procurement needs.
+## Supporting corporations to optimize and localize their supply chains
 
+Changing energy security demands, the transition to renewable energy, the advent of new technologies, and post-COVID policies favoring localization for increased resilience and local impact all require companies to develop and implement new strategies to determine which products and services they can source locally. 
 
-* We've developed [Supplier Registration Portal](/our-work/supplier-registration-portal) software which operators of large-scale capital projects use to more effectively manage their [supply chains](/global-health-supply-chain). It leverages technology to build and strengthen networks in supplier management globally.
-* We work closely with clients to deploy our [Local Content Optimization Model (LCOM)](/our-work/local-content-optimization-model), which forecasts local content capacity based on detailed analysis of the demand side of investments and the supply-side capabilities of the local supplier and labor markets. 
-* We offer a **Supplier Registration Portal** that matches local suppliers with buyers (operators and primary contractors) and helps foreign suppliers form alliances with local vendors to access protected local markets.  
-* We provide regulators and companies with our [Local Content Plan and Reporting platform (LCPR)](/our-work/local-content-plan-and-report), which is configured to domestic regulations and assures companies meet their obligations to comply with local content, contract tendering, and reporting requirements. 
-* We deliver the established [Sustainable Business Training](/our-work/sustainable-business-training) in Africa, Middle East, Americas, and Asia. We also provide confidential advisory services to governments and companies on local content regulation, the development of local content plans, and the drafting and execution of contract documents to leverage local content within major contract tenders. [Read the brochure](/uploads/Local%20Content%20Masterclass_General%20Flyer.pdf).  
+Our work in supply chains applies state-of-art data collection and analysis to enhance business decision making and ensure inclusive growth outcomes, from offshore wind projects in North America to workforce development programs in Southern Africa.
+
+## We support private and public sector clients and implement programs that sustainably drive supply chain performance and economic development
+
+We’ve helped governments design local content policies that drive job creation and support foreign direct investment as well as enabled multinationals to enter new markets by upskilling businesses, training workers, and tapping the newly competitive local supply base. 
+
+Successful localization in emerging or nascent markets is premised upon analytical, data-driven tools that allow an understanding of where local businesses stand and what they need to do to win work. 
+
+Our approach delivers comprehensive programs of business upskilling and workforce training that ensure large-scale investments have the infrastructure for long-term sustainable operations and maintenance.
+
+## Case Studies
+
+{% include localization-studies-carousel.html %}
+
+## Practice Leaders
+
+<div class="bulma enterprise-innovation practice-leaders">
+   <div class="container">
+      <div class="columns">
+         <div class="column">
+            <div class="bulma-card bm--card-equal-height">
+               <div class="card is-child bm--card-equal-height">
+                  <div class="card-image" style="padding: 1rem;">
+                     <figure class="image is-128x128">
+                        <img class="is-rounded" src="/uploads/new%20Patrick%20Henry.jpg" alt="Placeholder image">
+                     </figure>
+                  </div>
+                  <div class="card-content">
+                     <div class="media">
+                        <a href="/who-we-are/our-team/patrick-henry">
+                           <div class="media-content">
+                              <p class="title is-4" style="color: #1e7ab3;">Patrick Henry </p>
+                              <p class="subtitle is-6" style="color: #1e7ab3;">Senior Director, Sustainable Business Group</p>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="content">
+                        <p>Leads innovative global supplier development initiatives.</p>
+                        <div class="bulma">
+                           <button class="button is-primary" onclick="window.location.href='mailto:patrick_henry@dai.com'">
+                           <span class="icon is-small">
+                           <i class="fa-solid fa-envelope"></i>
+                           </span>
+                           <span>Contact</span>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="column">
+            <div class="bulma-card bm--card-equal-height">
+               <div class="card is-child">
+                  <div class="card-image" style="padding: 1rem;">
+                     <figure class="image is-128x128">
+                        <img class="is-rounded" src="/uploads/Dorival%20web.jpg" alt="Placeholder image">
+                     </figure>
+                  </div>
+                  <div class="card-content">
+                     <div class="media">
+                        <a href="/who-we-are/our-team/dorival-bettencourt">
+                           <div class="media-content">
+                              <p class="title is-4" style="color:#1e7ab3;">Dorival Bettencourt</p>
+                              <p class="subtitle is-6" style="color:#1e7ab3;">Director, Strategy and Growth</p>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="content">
+                        <p>Helps companies and countries find innovative ways to unleash the potential of the private sector to generate sustainable economic development.​​</p>
+                        <div class="bulma">
+                           <button class="button is-primary" onclick="window.location.href='mailto:dorival_bettencourt@dai.com'">
+                           <span class="icon is-small">
+                           <i class="fa-solid fa-envelope"></i>
+                           </span>
+                           <span>Contact</span>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="columns">
+        <div class="column">
+          <div class="bulma-card bm--card-equal-height">
+               <div class="card is-child">
+                  <div class="card-image" style="padding: 1rem;">
+                     <figure class="image is-128x128">
+                        <img class="is-rounded" src="/uploads/ngp%20(002)-18bbc4.jpg" alt="Placeholder image">
+                     </figure>
+                  </div>
+                  <div class="card-content">
+                     <div class="media">
+                        <a href="/who-we-are/our-team/natasha-gaskin-peters">
+                           <div class="media-content">
+                              <p class="title is-4" style="color: #1e7ab3;">Natasha Gaskin-Peters</p>
+                              <p class="subtitle is-6" style="color: #1e7ab3;">Director, Centre for Local Business Development, Guyana</p>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="content">
+                        <p>Leads the Centre for Local Business Development in Guyana.</p>
+                        <div class="bulma">
+                           <button class="button is-primary" onclick="window.location.href='mailto:natasha_gaskin-peters@dai.com '">
+                           <span class="icon is-small">
+                           <i class="fa-solid fa-envelope"></i>
+                           </span>
+                           <span>Contact</span>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+        </div>
+        <div class="column">
+                                  <div class="bulma-card bm--card-equal-height">
+               <div class="card is-child">
+                  <div class="card-image" style="padding: 1rem;">
+                     <figure class="image is-128x128">
+                        <img class="is-rounded" src="/uploads/LF.jpeg" alt="Placeholder image">
+                     </figure>
+                  </div>
+                  <div class="card-content">
+                     <div class="media">
+                        <a href="/who-we-are/our-team/louise-flynn">
+                           <div class="media-content">
+                              <p class="title is-4" style="color:#1e7ab3;">Louise Flynn</p>
+                              <p class="subtitle is-6" style="color:#1e7ab3;">Director, Sustainable Business Group</p>
+                           </div>
+                        </a>
+                     </div>
+                     <div class="content">
+                        <p>Leads industrial baseline surveys and workforce analyses.​​</p>
+                        <div class="bulma">
+                           <button class="button is-primary" onclick="window.location.href='mailto:louise_flynn@dai.com'">
+                           <span class="icon is-small">
+                           <i class="fa-solid fa-envelope"></i>
+                           </span>
+                           <span>Contact</span>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+        </div>
+      </div>
+   </div>
+</div>
