@@ -1,7 +1,7 @@
 ---
-title: Localization  
+title: Localization
 date: 2016-01-22 00:11:00 Z
-permalink: /our-work/solutions/sustainable/localization
+permalink: "/our-work/solutions/sustainable/localization"
 redirect_from: "/our-work/solutions/corporate/local-content-and-supply-chain-management"
 solutions:
 - Sustainable Business
