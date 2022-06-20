@@ -27,7 +27,7 @@ promos:
 
 Even before the onset of Russia’s 2022 war in Ukraine, eastern Ukraine was saddled with communities ripped apart, disrupted markets, and internally displaced people (IDP). The U.S. Agency for International Development Economic Resilience Activity (ERA) aims to boost the economic resilience of Ukraine in the face of a conflict that has left industry ransacked, communities divided physically and politically, and the social, financial, and physical assets that underlie resilience ravaged. The program works to diversify the industries and improve IDP integration with the rest of the country, while also helping displaced people gain locally needed jobs and livelihood skills. 
 
-<iframe src="https://player.vimeo.com/video/371460790" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+![era.jpg](/uploads/era.jpg)
 
 ### Sample Activities
 
@@ -44,8 +44,7 @@ Even before the onset of Russia’s 2022 war in Ukraine, eastern Ukraine was sad
 
 * Assisted 7,494 vulnerable and hard-to-reach beneficiaries—of whom 64 percent were female—since the beginning of the project with training and technical assistance.
 * Helped to raise more than $4 million in commercial capital for eastern Ukrainian small firms.
-* Supported grantee Ukrainian Leadership Academy to host a youth forum called
 * Assisted the Ministry of Communities and Territories Development in holding the International Marathon for Local Governments to support cities in Ukraine. Five online meetings between Ukraine’s community leaders and their counterparts from 35 countries were held, engaging more than 1,000 participants. 
 * Supported the relocation program provided by the Reform Team under the Ministry of Economy of Ukraine to facilitate the relocation of enterprises from hostilities areas to safer regions of Ukraine. 
-* Launched a new campaign, CXID: Reload (East:Reload), designed to reposition eastern Ukraine in the hearts and minds of all Ukrainians as a region that has the potential to become a center of IT excellence and set an inspirational tone for entrepreneurs, innovators and small business owners; inspire self-investment and entrepreneurship, and gain the attention of the national and international investor community. The campaign launch reached more than 13 million people. Although the campaign was launched before the war, it has the potential to be continued after Ukraine is liberated.   
+* Launched a new campaign, CXID: Reload (East:Reload), designed to reposition eastern Ukraine in the hearts and minds of all Ukrainians as a region that has the potential to become a center of IT excellence and set an inspirational tone for entrepreneurs, innovators, and small business owners; inspire self-investment and entrepreneurship, and gain the attention of the national and international investor community. The campaign launch reached more than 13 million people. Although the campaign was launched before the war, it has the potential to be continued after Ukraine is liberated.   
 * Worked with a small group of “pathfinder farmers” to help them to grow cherry tomatoes that are in high demand by national retail stores which resulted in a contract to regularly ship the tomatoes to Fozzy Group, which owns more than 500 supermarkets throughout Ukraine. The [cooperative](https://www.usaid.gov/npi/stories/fresh-tomatoes-front-lines-war-usaid-helps-boost-entrepreneurs-ukraine) is now in sales negotiations for the sale of new products next year and ERA is scaling up the pilot to farming communities. 
