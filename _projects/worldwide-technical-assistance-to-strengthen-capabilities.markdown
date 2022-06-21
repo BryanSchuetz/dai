@@ -14,19 +14,19 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: "**Guidance notes:** Transforming nutrition outcomes"
+- title: "**Guidance Notes:** Transforming Nutrition Outcomes"
   link: "/uploads/Transforming%20nutrition%20outcomes%5B96%5D-b5067b.pdf"
 - title: "**Brief:** TASC Project"
   link: "/uploads/TASC%20Brief%20Dec-2020.pdf"
-- title: 'April 2021: Tracking Data and Evidence on the Indirect Impact of COVID-19
-    on Selected Nutrition Outcomes, Interventions, and Policy Responses'
-  link: "/uploads/C19_Tracker_Core_Report_April.pdf"
-- title: TASC-Overview ICAI Guidance Summary Briefs
-  link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs.pdf"
 - title: "**Brief:** Technical Assistance to the SUN Movement "
   link: "/uploads/TASC%20Component%20Briefs%20C1.pdf"
 - title: "**Brief:** Technical Assistance to FCDO"
   link: "/uploads/TASC%20Component%20Briefs%20C2.pdf"
+- title: Tracking Data and Evidence on the Indirect Impact of COVID-19 on Selected
+    Nutrition Outcomes, Interventions, and Policy Responses
+  link: "/uploads/C19_Tracker_Core_Report_April.pdf"
+- title: TASC-Overview ICAI Guidance Summary Briefs
+  link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs.pdf"
 - title: Health Equity for Women and Girls Requires Cultural Change, Participation,
     and Local Influencers
   link: https://dai-global-developments.com/articles/health-equity-for-women-and-girls-requires-cultural-change-participation-and-local-influencers
