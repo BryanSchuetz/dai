@@ -1,4 +1,5 @@
 ---
+order: 4
 title: Patrick Henry
 date: 2017-08-29 11:44:00 Z
 lastname: Henry

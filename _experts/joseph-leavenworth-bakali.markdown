@@ -1,4 +1,5 @@
 ---
+order: 22
 title: Joseph Leavenworth Bakali
 date: 2021-08-20 15:27:00 Z
 lastname: 'Leavenworth Bakali '

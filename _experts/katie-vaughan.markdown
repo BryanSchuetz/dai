@@ -1,4 +1,5 @@
 ---
+order: 26
 title: Katie Vaughan
 date: 2020-06-02 08:22:00 Z
 lastname: Vaughan

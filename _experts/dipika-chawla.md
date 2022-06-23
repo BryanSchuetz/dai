@@ -9,7 +9,6 @@ summary: 'Dipika Chawla is a Principal Specialist with DAI’s Sustainable Busin
 job-title: Principal Specialist
 image: "/uploads/Dipika%20Chawla%20headshot%202019.jpg"
 solutions:
-- Sustainable Business
 - Social Strategy
 regions:
 - Worldwide

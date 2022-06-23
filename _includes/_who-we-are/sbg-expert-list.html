@@ -1,0 +1,24 @@
+
+<div class="experts-rail grid">
+  {% assign sorted_experts = site.experts  | where_exp:"expert","expert.solutions contains 'Sustainable Business'" | sort:'order' %}
+
+
+
+  {% for expert in sorted_experts %}
+    {% unless expert.published == false %}
+    <div class="people-block grid-item {% for expertise in expert.solutions %} {{ expertise | downcase | slugify }} {% endfor %}{% for region in expert.regions %} {{ region | slugify}} {% endfor %}">
+      <img class="team-pic" src="{{ expert.image }}">
+      <div class="expert-detailslist--metadata">
+        <h3 class="expert-details--name">{{ expert.title }}</h3>
+        <p class="expert-details--title">{{ expert.job-title | markdownify |remove: "<p>" | remove: "</p>"}}</p>
+        </div>
+        <div class="expert-summary">
+          {% if expert.summary %}<p>{{ expert.summary | markdownify | remove:'<p>' | remove:'</p>' }}</p>{% endif %}
+        </div>
+        <a href="{{ expert.url }}" target="blank" class="primary-block--button expert-button">Read More <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
+        {% unless forloop.last %}<hr>{% endunless %}
+    </div>
+    {% endunless %}
+  {% endfor %}
+  </div>
+  

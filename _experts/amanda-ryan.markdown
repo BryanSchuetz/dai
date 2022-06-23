@@ -1,4 +1,5 @@
 ---
+order: 24
 title: Amanda Ryan
 date: 2017-08-10 16:46:00 Z
 lastname: Ryan
