@@ -1,7 +1,7 @@
 ---
-order: 6
 title: Chris MacDonald
 date: 2018-02-16 21:53:00 Z
+order: 6
 lastname: MacDonald
 summary: 'Chris MacDonald is a supply chain management and procurement and contracting
   professional with 36 years of experience working for Shell International. He advises

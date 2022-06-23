@@ -1,7 +1,7 @@
 ---
-order: 10
 title: Amy Fisher
 date: 2020-02-28 17:37:00 Z
+order: 10
 lastname: Fisher
 summary: As Associate Manager for DAI’s Sustainable Business Group (SBG), Amy Fisher
   supports the financial and operational structures of SBG’s business unit, in addition

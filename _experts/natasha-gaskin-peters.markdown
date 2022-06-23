@@ -1,7 +1,7 @@
 ---
-order: 3
 title: Natasha Gaskin-Peters
 date: 2019-06-05 18:29:00 Z
+order: 3
 lastname: Gaskin-Peters
 summary: Natasha Gaskin-Peters is an economist with experience in both micro- and
   macroeconomics with DAI's Sustainable Business Group (SBG)

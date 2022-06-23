@@ -1,7 +1,7 @@
 ---
-order: 25
 title: Najla Al-Sinani
 date: 2020-06-02 08:45:00 Z
+order: 25
 lastname: 'Al-Sinani '
 summary: Najla Al-Sinani supports operations and finance at DAI's Oman office.
 job-title: Assistant

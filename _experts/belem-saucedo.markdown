@@ -1,7 +1,7 @@
 ---
-order: 14
 title: Belem Saucedo
 date: 2021-08-23 13:35:00 Z
+order: 14
 lastname: Saucedo
 summary: Belem Saucedo collaborates on projects with financial institutions to strengthen
   MSME ecosystems in developing countries.
