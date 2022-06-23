@@ -5,7 +5,7 @@ summary: 'HLG works to strengthen the essential capacity of civil society groups
   local governments, and service providers to provide Honduran citizens with improved
   services. '
 start: 2016
-end: 2022
+end: 2025
 client: U.S. Agency for International Development
 solutions:
 - Decentralization and Local Government Management

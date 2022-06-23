@@ -14,19 +14,19 @@ solutions:
 regions: Worldwide
 country: Worldwide
 promos:
-- title: "**Guidance notes:** Transforming nutrition outcomes"
+- title: "**Guidance Notes:** Transforming Nutrition Outcomes"
   link: "/uploads/Transforming%20nutrition%20outcomes%5B96%5D-b5067b.pdf"
 - title: "**Brief:** TASC Project"
   link: "/uploads/TASC%20Brief%20Dec-2020.pdf"
-- title: 'April 2021: Tracking Data and Evidence on the Indirect Impact of COVID-19
-    on Selected Nutrition Outcomes, Interventions, and Policy Responses'
-  link: "/uploads/C19_Tracker_Core_Report_April.pdf"
-- title: 'Burkina Faso: Successfully Scaling Up Nutrition in a Digital World'
-  link: https://scalingupnutrition.org/news/burkina-faso-successfully-scaling-up-nutrition-in-a-digital-world/
 - title: "**Brief:** Technical Assistance to the SUN Movement "
   link: "/uploads/TASC%20Component%20Briefs%20C1.pdf"
 - title: "**Brief:** Technical Assistance to FCDO"
   link: "/uploads/TASC%20Component%20Briefs%20C2.pdf"
+- title: Tracking Data and Evidence on the Indirect Impact of COVID-19 on Selected
+    Nutrition Outcomes, Interventions, and Policy Responses
+  link: "/uploads/C19_Tracker_Core_Report_April.pdf"
+- title: TASC-Overview ICAI Guidance Summary Briefs
+  link: "/uploads/TASC-Overview%20ICAI%20guidance%20summary%20briefs.pdf"
 - title: Health Equity for Women and Girls Requires Cultural Change, Participation,
     and Local Influencers
   link: https://dai-global-developments.com/articles/health-equity-for-women-and-girls-requires-cultural-change-participation-and-local-influencers
@@ -58,9 +58,9 @@ TASC is led by DAI with [NutritionWorks](https://www.nutritionworks.org.uk/) and
 1. **[Improving How to Reach Those Most-at-Risk of Malnutrition Guidance Note](https://assetify-dai.com/resource-library/reaching-at-risk-groups-guidance.pdf):** Supports the identification of key population groups that are most nutritionally at-risk, the drivers of elevated malnutrition risk, and how to address the nutritional needs of at-risk groups
 1. **[Aligning Food System Activities with Healthier Diets for Low-Income Households Guidance Note](https://assetify-dai.com/resource-library/food-systems-guidance.pdf)** Supports organisations and practitioners to design programmes and policies that enable the world’s most vulnerable people to eat more diverse, healthier diets, while also meeting climate and economic objectives.
 1. **[How to Promote Better Nutrition Through Social Assistance Guidance Note](https://assetify-dai.com/resource-library/social-protection-nutrition-guidance.pdf):** Identifies how to use social protection programmes to target those most at risk of malnutrition, improve diets and address other nutrition determinants.
-1. **[Monitoring and Evaluation of Nutrition-Relevant Programmes A Guidance Note](https://assetify-dai.com/resource-library/nutrition-monitoring-evaluation-guidance.pdf) and associated indicator tool:** Supports accurate measurement of programme outcomes and impacts for target populations. It explains how to use the data generated through M&E efforts to reflect the contribution made by nutrition programmes, and to improve them as necessary to increase effectiveness.
+1. **[Monitoring and Evaluation of Nutrition-Relevant Programmes A Guidance Note](https://assetify-dai.com/resource-library/nutrition-monitoring-evaluation-guidance.pdf) and [associated indicator tool](https://dai-assets.s3.amazonaws.com/tasc-nutrition-monitoring-indicator-database.xlsx):** Supports accurate measurement of programme outcomes and impacts for target populations. It explains how to use the data generated through M&E efforts to reflect the contribution made by nutrition programmes, and to improve them as necessary to increase effectiveness.
 * Supported FCDO to identify, quantify, and understand its [Official Development Assistance (ODA) spending](https://devinit.org/blog/latest-data-uk-fcdo-nutrition-spending/) on nutrition-specific and nutrition-sensitive programmes, as well as its performance against the Nutrition for Growth (N4G) commitments made in 2012. 
 * Supported the Sun Operationalisation Group through a change management process with clear [actionable recommendations](https://scalingupnutrition.org/wp-content/uploads/2021/10/Ops-group-report-II-30092021.pdf) to implement [SUN Movement Strategy 3.0](https://scalingupnutrition.org/about-sun/the-sun-movement-strategy/). 
 * Assessed the effectiveness of MQSUN+ TA and identified best practices and lessons learned to inform the future design and provision of assistance: [Case Studies](https://assetify-dai.com/resource-library/tasc-effectiveness-of-technical-assistance-all-casestudies.pdf); [Synthesis Report](https://assetify-dai.com/resource-library/tan-mqsn-ta-effectiveness.pdf); [Guidance Note](https://assetify-dai.com/resource-library/technical-assistance-checklist.pdf).
 * Published a [suite of case studies](https://scalingupnutrition.org/sun-solution-stories-good-practice-in-the-spotlight/) sharing good practices in areas key to fighting malnutrition in all its forms, including Coordination, Information Systems, Digital Solutions, Nutrition-sensitive interventions
-* Developed a revised [Joint Annual Assessment tool](https://scalingupnutrition.org/news/the-new-joint-annual-assessment-for-suns-third-phase-kicks-off/) to support nutrition stakeholders in SUN countries to reflect on progressand bottlenecks and set country priorities for scaling up nutrition for the year ahead.
+* Developed a revised [Joint Annual Assessment tool](https://scalingupnutrition.org/news/the-new-joint-annual-assessment-for-suns-third-phase-kicks-off/) to support nutrition stakeholders in SUN countries to reflect on progress and bottlenecks and set country priorities for scaling up nutrition for the year ahead.
