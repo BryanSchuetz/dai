@@ -2,6 +2,15 @@
 title: DAI Joins the International Renewable Energy Agency (IRENA) Coalition for Action
 date: 2022-06-23 10:20:00 Z
 published: false
+solutions:
+- Climate
+- Energy
+regions: Worldwide
+summary: 'DAI has become a member of the International Renewable Energy Agency (IRENA)
+  Coalition for Action Steering Group. The Coalition brings together world leaders
+  to discuss trends, determine actions, and share knowledge and best practice to advance
+  the global energy transition in line with the Sustainable Development Goals (SDG7). '
+social-image: "/uploads/IRENA%20coalition%20for%20action.jpg"
 ---
 
 We are delighted to announce our membership of the International Renewable Energy Agency ([IRENA](https://www.irena.org/)) [Coalition for Action Steering Group](https://coalition.irena.org/). The Coalition meets annually during the IRENA Assembly, bringing together world leaders in renewable energy to discuss trends, determine actions, and share knowledge and best practice. The network aims to advance the global energy transition in line with the Sustainable Development Goals (SDG7). 
