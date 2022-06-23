@@ -1,7 +1,7 @@
 ---
-order: 12
 title: Luke Kozumbo
 date: 2016-01-21 22:18:00 Z
+order: 12
 lastname: Kozumbo
 summary: 'Luke Kozumbo specializes in economic analysis and issues of trade and economic
   competitiveness.

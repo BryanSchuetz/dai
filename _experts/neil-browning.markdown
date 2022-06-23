@@ -1,7 +1,7 @@
 ---
-order: 17
 title: Neil Browning
 date: 2018-04-04 23:10:00 Z
+order: 17
 lastname: Browning
 summary: Neil Browning is an economist and project manager focused on national and
   subnational economies in emerging and frontier markets.

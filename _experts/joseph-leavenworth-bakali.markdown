@@ -1,7 +1,7 @@
 ---
-order: 22
 title: Joseph Leavenworth Bakali
 date: 2021-08-20 15:27:00 Z
+order: 22
 lastname: 'Leavenworth Bakali '
 summary: 'Joe Leavenworth Bakali provides technical analysis, program management,
   and business development support to innovation, local content, and energy transition

@@ -1,7 +1,7 @@
 ---
-order: 2
 title: Louise Flynn
 date: 2020-01-03 19:04:00 Z
+order: 2
 lastname: Flynn
 summary: Louise Flynn leads DAI Sustainable Business Group’s (SBG) health, safety,
   security, and environment programs globally.

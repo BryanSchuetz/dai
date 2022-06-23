@@ -1,7 +1,7 @@
 ---
-order: 20
 title: Ellen Haile
 date: 2021-10-13 08:54:00 Z
+order: 20
 lastname: Haile
 summary: Ellen Haile has a background in Applied Economics and currently supports
   the Sustainable Business Group as an Associate Analyst.

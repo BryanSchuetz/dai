@@ -1,7 +1,7 @@
 ---
-order: 24
 title: Amanda Ryan
 date: 2017-08-10 16:46:00 Z
+order: 24
 lastname: Ryan
 summary: Amanda Ryan specializes in local content for the mining and oil and gas industries
   and supports data and policy analysis, project management, and business development

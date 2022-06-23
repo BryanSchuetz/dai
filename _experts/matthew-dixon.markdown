@@ -1,7 +1,7 @@
 ---
-order: 19
 title: Matthew Dixon
 date: 2019-06-10 19:00:00 Z
+order: 19
 lastname: Dixon
 summary: Matthew Dixon is an environment and project management professional focused
   on further strengthening business operations and project finance in the Sustainable

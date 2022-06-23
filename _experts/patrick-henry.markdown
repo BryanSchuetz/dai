@@ -1,7 +1,7 @@
 ---
-order: 4
 title: Patrick Henry
 date: 2017-08-29 11:44:00 Z
+order: 4
 lastname: Henry
 summary: 'Patrick Henry is a Senior Director in DAI Global’s Sustainable Business
   Group who leads supplier development initiatives globally and manages DAI’s work

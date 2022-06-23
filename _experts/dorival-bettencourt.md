@@ -1,7 +1,7 @@
 ---
-order: 0
 title: Dorival Bettencourt
 date: 2016-01-21 22:18:00 Z
+order: 0
 lastname: Bettencourt
 summary: Dorival Bettencourt is a private sector development specialist with extensive
   policy and oil and gas industry experience.
