@@ -13,7 +13,7 @@ summary: 'DAI has become a member of the International Renewable Energy Agency (
 social-image: "/uploads/IRENA%20coalition%20for%20action.jpg"
 ---
 
-We are delighted to announce our membership of the International Renewable Energy Agency ([IRENA](https://www.irena.org/)) [Coalition for Action Steering Group](https://coalition.irena.org/). The Coalition meets annually during the IRENA Assembly, bringing together world leaders in renewable energy to discuss trends, determine actions, and share knowledge and best practice. The network aims to advance the global energy transition in line with the Sustainable Development Goals (SDG7). 
+## We are delighted to announce our membership of the International Renewable Energy Agency ([IRENA](https://www.irena.org/)) [Coalition for Action Steering Group](https://coalition.irena.org/). The Coalition meets annually during the IRENA Assembly, bringing together world leaders in renewable energy to discuss trends, determine actions, and share knowledge and best practice. The network aims to advance the global energy transition in line with the Sustainable Development Goals (SDG7). 
 
 [Sofia Martinez](https://www.dai.com/who-we-are/our-team/sofia-martinez) will represent DAI, initially joining three of the six working groups: Business and Investors; Decarbonising End-Use Sectors Group; and Sustainable Energy Jobs.
 
