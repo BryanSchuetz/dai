@@ -105,6 +105,6 @@ of inclusive supply chains.​​</p>
 </div>
 
 <aside style="margin-top: 2rem;">
-<p>The Sustainable Business Group delivers solutions for companies and countries to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization.</P>
+<p>Sustainable Business Group delivers solutions for companies and countries to accelerate their progress in energy transition, social and environmental integration, and supply chain reorganization.</P>
 <a style="width: 50%;" href="mailto:contact_sbg@dai.com" target="blank" class="primary-block--button expert-button">Contact the Sustainable Business Group <svg class="redirect" viewBox="0 0 36 70" preserveAspectRatio="xMinYMax meet"><use xlink:href="#redirect"></use></svg></a>
 </aside>
