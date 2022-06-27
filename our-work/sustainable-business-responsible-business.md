@@ -22,7 +22,7 @@ We believe the private sector can meet this challenge and deliver growth by deve
 
 We help our clients move beyond regulatory compliance to position themselves as leaders in responsible business, whether that be by expanding access to green finance, incentivizing communities to protect their natural capital, or designing workforce health programs.
 
-## We support businesses on their path to sustainability through the full lifecycle of their projects, from strategy to impact evaluation.
+## We support businesses on their path to sustainability through the full lifecycle of their projects, from strategy to impact evaluation
 
 DAI provides a comprehensive suite of solutions that move our clients from strategy development and feasibility assessment through to piloting, implementation at scale, and impact evaluation. Our capabilities include social investment strategy development; program implementation and development of local partner capacity; reporting, monitoring, and evaluation; and application of bespoke digital tools. Our expertise includes worker and community wellbeing, local prosperity and entrepreneurship, circular economy, and natural capital solutions.
 
