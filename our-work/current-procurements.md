@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFP-ALG-018-22-Lowest Price Technically Acceptable_FINAL](/uploads/RFP-ALG-018-22-Lowest%20Price%20Technically%20Acceptable_FINAL.pdf "7/9")
 * [RFP 2022-10 Digital Government Online Training](/uploads/RFP%202022-10%20Digital%20Government%20Online%20Training.pdf "7/12")
 * [GESP-G-RFQ-015 Whitewater](https://dai-assets.s3.amazonaws.com/rfps/GESP-G-RFQ-015%20Whitewater.pdf "6/24")
 * [FE_RFP_LPTA_015-22_POTATO SEEDS](/uploads/FE_RFP_LPTA_015-22_POTATO%20SEEDS.pdf "7/2")
