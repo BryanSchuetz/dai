@@ -1,18 +1,20 @@
 ---
 title: DAI Hosts Fintech Roundtable in Nigeria
 date: 2022-06-29 07:31:00 Z
-published: false
 solutions:
 - Finance and Investment
 regions: Sub-Saharan Africa
 summary: DAI recently hosted members of Nigeria’s financial technology ecosystem to
   discuss the direction of financial regulation and its potential impact on the sector.
+social-image: "/uploads/sm.jpg"
 country: Nigeria
 ---
 
 DAI recently hosted members of Nigeria’s financial technology ecosystem to discuss the direction of financial regulation and its potential impact on the sector. In the first Development Matters Roundtable since the pandemic, DAI’s Nigeria office–in partnership with DAI’s investment advisory arm DAI Magister–convened the discourse around a vision for a regulatory environment that accelerates growth and innovation in the burgeoning fintech sector. 
 
 The roundtable speakers included Winston Osuchukwu, Senior Vice President Distribution, Migo; Olufemi Sojinrin, Chief Information Officer, Nigeria Inter-Bank Settlement System Plc (NIBSS);  Ayodele Adeyemi Faboya, Partner, Banwo & Ighodalo; and Musa Itopa Jimoh, Director Payments, Central Bank of Nigeria. 
+
+![roundtable.jpg](/uploads/roundtable.jpg)`Victor Basta, Winston Osuchukwu, Ayodele Adeyemi Faboya, Olufemi Sojinrin, and Joe Abah.`
 
 In the keynote address, guest speaker Aishah Ahmad, the Deputy Governor of the Central Bank of Nigeria Financial Systems Stability Directorate, charted the evolution of financial institutions and the rise of digital banking in Nigeria. She highlighted how the sector has always been driven by the adoption of technology, leading to card regulations, internet banking, funds transfer, mobile banking, cryptocurrency, non-fungible tokens, and the eNaira.
 
