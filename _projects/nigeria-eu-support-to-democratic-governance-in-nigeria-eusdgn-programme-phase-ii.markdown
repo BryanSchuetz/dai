@@ -29,3 +29,7 @@ DAI leads activities under Component 1 of the programme—Support to the Indepen
 * Support the successful preparation and implementation of the 2023 and 2027 elections.
 * Ensure the recommendations of the EU Election Observation Missions are taken into full account in the design and implementation of the INEC.
 * Support visibility and communication actions.
+
+### Select Results
+
+* Sponsored Mega Music Concerts in Lagos and Abuja, registering 20,000 young people to vote in the 2023 general elections.
