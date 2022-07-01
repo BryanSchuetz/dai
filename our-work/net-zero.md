@@ -1,11 +1,15 @@
 ---
 title: Net Zero at DAI
-summary: 'At DAI, we are motivated by shaping a more livable world. That means tackling the climate crisis. Each new climate science publication increasingly underscores the threat posed by climate change, with the IPCC 6th Assessment Report citing near-record levels of GHG emissions in 2021, despite global lockdowns resulting from COVID-19.'
+permalink: "/our-work/our-impact/net-zero"
+summary: At DAI, we are motivated by shaping a more livable world. That means tackling
+  the climate crisis. Each new climate science publication increasingly underscores
+  the threat posed by climate change, with the IPCC 6th Assessment Report citing near-record
+  levels of GHG emissions in 2021, despite global lockdowns resulting from COVID-19.
 hero: true
 ultrawide: true
 layout: node
-permalink: /our-work/our-impact/net-zero
 ---
+
 ## DAI is committed to reducing greenhouse gas emissions (GHG) and becoming Net Zero by 2050. 
 
 At DAI, we are motivated by shaping a more livable world. That means tackling the climate crisis. Each new climate science publication increasingly underscores the threat posed by climate change, with the IPCC 6th Assessment Report citing near-record levels of GHG emissions in 2021, despite global lockdowns resulting from COVID-19.
