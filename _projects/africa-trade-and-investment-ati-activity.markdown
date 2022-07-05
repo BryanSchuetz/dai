@@ -14,6 +14,8 @@ solutions:
 regions: Sub-Saharan Africa
 country: Sub-Saharan Africa, North Africa
 promos:
+- title: Administrator Samantha Power Launches $30 Million Tradeboost Program
+  link: https://www.usaid.gov/news-information/press-releases/jun-29-2022-administrator-samantha-power-launches-30-million-tradeboost-program
 - title: 'USAID Delivers on Prosper Africa Goals with Africa Trade and Investment
     Program '
   link: https://www.usaid.gov/news-information/press-releases/oct-21-2021-usaid-delivers-prosper-africa-goals-africa-trade-and-investment
