@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [CIDR RFI Gender IR4: Incentivizing Businesses to Incorporate Gender Inclusive Approaches to Growth](https://dai-assets.s3.amazonaws.com/rfps/CIDR_RFI_Gender_IR4.pdf "7/13")
+* [CIDR RFI Gender IR4: Building a Diverse and Inclusive Human Resources Pool](https://dai-assets.s3.amazonaws.com/rfps/CIDR_RFI_Gender_IR3.pdf "7/13")
 * [RFP 2022-10 Mod 1](/uploads/RFP%202022-10%20Mod%201.pdf "7/12")
 * [RFP-ALG-018-22-Lowest Price Technically Acceptable_FINAL](/uploads/RFP-ALG-018-22-Lowest%20Price%20Technically%20Acceptable_FINAL.pdf "7/9")
 * [RFP 2022-10 Digital Government Online Training](/uploads/RFP%202022-10%20Digital%20Government%20Online%20Training.pdf "7/12")
