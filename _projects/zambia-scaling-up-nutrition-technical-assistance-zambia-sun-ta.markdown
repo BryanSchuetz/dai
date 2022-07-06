@@ -21,6 +21,8 @@ promos:
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
     of COVID-19
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
+- title: USAID Administrator Visits DAI-led Projects During Tour of Zambia
+  link: https://www.dai.com/news/usaid-administrator-visits-dai-led-projects-during-tour-of-zambia
 ---
 
 DAI supports the Government of Zambia to reduce stunting among children under 2 years of age. The first phase of Zambia’s [Scaling Up Nutrition](https://scalingupnutrition.org/) program launched in 2011 and covered 14 districts; [this phase](https://www.dai.com/news/dai-to-launch-usaid-zambia-program-to-reduce-stunting-in-young-children) will expand activities to 30 districts covering 7.1 million people, including 850,000 children under age 2 and their mothers.
