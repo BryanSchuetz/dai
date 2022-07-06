@@ -33,4 +33,4 @@ DAI’s Sustainable Business Group assisted [VF Corporation](https://www.vfc.com
 
 > “At VF, we want people in our supply chain to live better, healthier lives because of their connection with VF. DAI supports our mission by working with us to effectively develop and deliver health programs to our supply chain workers in Indonesia and Vietnam that are timely and relevant to workers’ needs.”
 >
-> Jens Aas, Program Manager Worker and Community Development, VF Corporation
+> Jens Aas, Worker and Community Development Program Manager, VF Corporation
