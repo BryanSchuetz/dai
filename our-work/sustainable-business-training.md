@@ -68,7 +68,7 @@ The course trains leaders who are new to social performance to design, implement
 Courses in 2022:
 
 * September 16, 2022 in London, UK
-* [Novmeber 1, 2022 in Houston, US](/uploads/Houston_Social-Performance-Training_brochure.pdf)
+* [November 1, 2022 in Houston, US](/uploads/Houston_Social-Performance-Training_brochure.pdf)
 
 <hr>
 
