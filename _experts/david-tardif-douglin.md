@@ -1,6 +1,7 @@
 ---
 title: David Tardif-Douglin
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Tardif-Douglin
 summary: David Tardif-Douglin is an agricultural economist with expertise in capacity
   building, training, and managing and overseeing multiple technical teams operating
