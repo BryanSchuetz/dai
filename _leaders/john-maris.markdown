@@ -1,7 +1,7 @@
 ---
 title: John Maris
 date: 2020-07-08 14:12:00 Z
-job-title: Chief Financial Officer; Managing Director, DAI Capital
+job-title: Chief Financial Officer
 summary: John maintains the integrity of the company’s financial statements, ensures
   compliance with all financial regulators and tax authorities, and leads our business
   forecasting and modelling work to inform strategic and operational decisions.
@@ -13,9 +13,7 @@ John Maris is DAI’s Chief Financial Officer. As the head of DAI’s Finance te
 
 ![Maris leader-6132d5.jpg](/uploads/Maris%20leader-6132d5.jpg)
 
-Based in London, John simultaneously oversees DAI Capital, a business unit created and developed under his direction. DAI Capital builds on DAI’s in-depth market knowledge to catalyze private investment within and into frontier and emerging markets.
-
-John previously served as Director of the Project Management Unit in our Europe office, where he provided strategic guidance to large-scale programmes for clients including the U.K. Department for International Development, the European Commission, the Millennium Challenge Corporation, and the World Bank.
+Based in London, John previously served as Director of the Project Management Unit in our Europe office, where he provided strategic guidance to large-scale programs for clients including the U.K. Department for International Development, the European Commission, the Millennium Challenge Corporation, and the World Bank.
 
 Before joining DAI, John worked in both the nonprofit and private sectors, including for tech startup Aeromesh, private equity firm H.I.G. Capital, and in the corporate strategy department of The Walt Disney Company. He was a founding board member of the Centre for Development Results and has served as chair of the International Development Working Group for British Expertise.
 
