@@ -12,8 +12,7 @@ layout: node
 
 ## DAI is committed to reducing greenhouse gas emissions (GHG) and becoming Net Zero by 2050. 
 
-At DAI, we are motivated by shaping a more livable world. That means tackling the climate crisis. Each new climate science publication increasingly underscores the threat posed by climate change, with the IPCC 6th Assessment Report citing near-record levels of GHG emissions in 2021, despite global lockdowns resulting from COVID-19.
-In 2021, DAI launched the Climate business to build on our global expertise in climate change adaptation and mitigation and provide our clients with fresh solutions, approaches, and innovation. We are committed to addressing the challenges posed by climate change in everything we do as a company, and our Net Zero Initiative is an essential part of this commitment.
+In 2021, DAI launched a new climate practice to build on our global expertise in climate change adaptation and mitigation and provide our clients with fresh solutions, approaches, and innovation. We are committed to addressing the challenges posed by climate change in everything we do as a company, and our Net Zero Initiative is an essential part of this commitment.
 
 In April 2022, the Science-Based Targets Initiative (SBTi) validated our near-term emissions reduction target. Our proposed target meets all SBTi criteria in terms of timeframe, emissions coverage, and ambition. We are now implementing our decarbonization strategy across DAI. 
 
