@@ -16,6 +16,9 @@ regions:
 country:
 - Regional
 promos:
+- title: 'Seed Trade in Southern Africa: Operationalizing 15 Years of Policy in Six
+    Years'
+  link: https://dai-global-developments.com/articles/seed-trade-in-southern-africa-operationalizing-15-years-of-policy-in-six-years
 - title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 1)'
   link: https://youtu.be/EYMZvZGRe_g
 - title: 'VIDEO: What is the SADC Harmonized Seed Regulatory System? (Part 2)'
