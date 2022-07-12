@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [EOI for Digital Frontiers Experts WomenConnect](https://dai-assets.s3.amazonaws.com/rfps/EOI%20for%20Digital%20Frontiers%20Experts_%20WomenConnect.pdf "7/25")
 * [CIDR RFI Gender IR4: Incentivizing Businesses to Incorporate Gender Inclusive Approaches to Growth](https://dai-assets.s3.amazonaws.com/rfps/CIDR_RFI_Gender_IR4.pdf "7/13")
 * [CIDR RFI Gender IR4: Building a Diverse and Inclusive Human Resources Pool](https://dai-assets.s3.amazonaws.com/rfps/CIDR_RFI_Gender_IR3.pdf "7/13")
 * [RFP 2022-10 Mod 1](/uploads/RFP%202022-10%20Mod%201.pdf "7/12")
