@@ -14,6 +14,7 @@ solutions:
 - Sustainable Livelihoods
 regions:
 - Middle East and North Africa
+- Eastern Europe and Central Asia
 ---
 
 Michelle Morgan oversees DAI’s Afghanistan Management Unit, delivering programs in Afghanistan, managing risks in the new operating environment, and supporting [Special Immigrant Visa](https://www.dai.com/special-immigrant-visas) processing and eventual relocation of DAI staff and their families. She has dedicated a career of nearly 30 years to private sector development—building local knowledge, skills, and processes for market-driven, sustainable economic growth. Most of her career has been in conflict zones or countries in transition, most recently Afghanistan. Her leadership skills are as strong as her technical accomplishments, making her one of the rare Chiefs of Party who can effectively manage large programs and undertake necessary, sometimes significant, adjustments without losing momentum or stakeholders’ confidence. 
