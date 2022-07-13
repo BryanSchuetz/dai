@@ -10,6 +10,8 @@ solutions:
 - Economic Growth
 - Gender and Social Inclusion
 - Voice and Accountability
+regions:
+- Middle East and North Africa
 ---
 
 Michelle Morgan has dedicated her 25-year career to private sector development—and improving local knowledge, skills, and processes for sustained economic growth. Most of her career has been in conflict zones or countries in transition, most notably Afghanistan. Her leadership skills are as strong as her technical accomplishments, making her one of the rare Chiefs of Party who can effectively manage large programs and undertake necessary, sometimes significant, adjustments without losing momentum or stakeholders’ confidence. 
