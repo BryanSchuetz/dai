@@ -6,7 +6,7 @@ summary: 'Dipika Chawla is a Principal Specialist with DAI’s Sustainable Busin
   Group, where she manages a portfolio of projects providing advisory services to
   multinational corporations looking to drive sustainable economic growth in the countries
   where they operate. '
-job-title: Principal Specialist
+job-title: Strategic Investment Advisor, USAID INVEST
 image: "/uploads/Dipika%20Chawla%20headshot%202019.jpg"
 solutions:
 - Social Strategy
