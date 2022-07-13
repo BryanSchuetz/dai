@@ -9,9 +9,7 @@ summary: As Director for Strategy, Operations, and Finance, Miguel Baca is respo
 job-title: Director, Strategy, Operations, and Finance for USG Programs
 image: https://assetify-dai.com/experts/Baca_Inner.jpg
 regions:
-- Asia and the Pacific
-- Latin America and the Caribbean
-- Middle East and North Africa
+- Worldwide
 - 
 layout: expert
 ---
