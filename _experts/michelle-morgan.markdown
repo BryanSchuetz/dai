@@ -10,8 +10,8 @@ job-title: Senior Director, Afghanistan Management Unit
 image: "/uploads/michelle.jpg"
 solutions:
 - Economic Growth
-- Gender and Social Inclusion
-- Voice and Accountability
+- Agriculture and Food Security
+- Sustainable Livelihoods
 regions:
 - Middle East and North Africa
 ---
