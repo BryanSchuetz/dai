@@ -14,6 +14,13 @@ solutions:
 - Climate
 regions: Asia and the Pacific
 country: Bhutan
+promos:
+- title: 'EU-TACS Newsletter: June 2022'
+  link: https://us6.campaign-archive.com/?u=abade74e7a12d1bf82a103073&id=1c6a7ea9e4
+- title: 'Past Issue: EU-TACS Newsletter'
+  link: https://us6.campaign-archive.com/home/?u=abade74e7a12d1bf82a103073&id=c3c2ca6d56
+- title: 
+  link: 
 ---
 
 Bhutan is a small country wedged between India and China with 60 percent of its population relying on agriculture-based livelihoods such as subsistence farming and animal husbandry. Twelve percent of the country’s people are poor. Most industrial sectors are cottage industries. Rugged mountainous terrain makes it difficult and expensive to build and maintain roads, transport, energy, and other infrastructure, so Bhutan’s long-term self-reliance will rely upon effectively managed local natural resources.
