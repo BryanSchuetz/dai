@@ -15,9 +15,9 @@ solutions:
 regions: Asia and the Pacific
 country: Bhutan
 promos:
-- title: 'EU-TACS Newsletter: June 2022'
+- title: "**EU-TACS Newsletter:** June 2022"
   link: https://us6.campaign-archive.com/?u=abade74e7a12d1bf82a103073&id=1c6a7ea9e4
-- title: 'Past Issue: EU-TACS Newsletter'
+- title: "**Past Issues:** EU-TACS Newsletter"
   link: https://us6.campaign-archive.com/home/?u=abade74e7a12d1bf82a103073&id=c3c2ca6d56
 - title: 
   link: 
