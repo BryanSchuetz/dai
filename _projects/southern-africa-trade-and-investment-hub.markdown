@@ -47,7 +47,7 @@ The USAID TradeHub is based in Pretoria, South Africa, with resident representat
 * Partnered with the U.S. Produce Marketing Association to establish new buyer networks and identify investment opportunities in fresh produce markets in Swaziland and Zambia.
 * Linked more than 200 Southern African textile, apparel, accessory, and specialty food companies from Southern Africa to the United States and international markets via global trading platforms, including Fancy Food (New York), MAGIC (Las Vegas), and Gulf Foods (Dubai).
 * Facilitated more than $59 million in African intra-regional trade and exports to the United States, including through AGOA.
-* Facilitated $153.2 million in private-sector investment ($94.2 million in agriculture and$59 million in non-agriculture sectors).
+* Facilitated $153.2 million in private-sector investment ($94.2 million in agriculture and $59 million in non-agriculture sectors).
 * Facilitated $16 million in agriculture-related finance.
 * Formed 30 public-private partnerships.
 * Created 1,448 new jobs.
