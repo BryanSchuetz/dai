@@ -28,7 +28,7 @@ Given the ongoing Russian invasion, FSR will work with donors and other developm
 
 Ukraine stands poised to continue its transition to a system in which all businesses have access to finance, where bank and non-bank financial institutions operate as efficient and transparent intermediaries, once the conflict subsides. With additional support and development, its financial system can provide the integrity, stability, and transparency to enable price discovery, raise capital, increase savings and investment, and provide risk management for businesses to fully participate.
 
-Importantly, FSR will complete FST’s foundational efforts to create a world-class, multi-asset capital and commodity market and trading hub, NEXT-UA, in partnership with the U.S.and Ukrainian Governments. 
+Importantly, FSR will complete FST’s foundational efforts to create a world-class, multi-asset capital and commodity market and trading hub, NEXT-UA, in partnership with the U.S. and Ukrainian Governments. 
 
 To build the capacity of business advocates, associations, consumer watchdogs, and academia to educate and protect Ukrainian consumers and businesses from misinformation over the long term, we will use our Grants Under Contract facility to fund new oversight mechanisms, improved journalism, and tools that enable everyday Ukrainians to understand and trust the system. 
 
