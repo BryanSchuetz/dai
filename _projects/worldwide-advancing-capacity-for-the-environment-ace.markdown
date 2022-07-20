@@ -1,6 +1,6 @@
 ---
 title: Worldwide—Advancing Capacity for the Environment (ACE)
-date: 2022-07-20 13:35:00 Z
+date: 2022-07-20 10:30:00 Z
 published: false
 summary: The Advancing Capacity for the Environment (ACE) program supports the  U.S.
   Agency International Development (USAID)’s work in climate change, environment,
