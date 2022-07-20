@@ -19,8 +19,6 @@ Through the Critical Infrastructure Digitalization and Resilience (CIDR) activit
 
 CIDR supports the governments of the Western Balkans, Black Sea Region, and South Caucasus in assisting critical infrastructure entities to incorporate cybersecurity best practices into their operations, planning, and procurement; prioritize cybersecurity investment needs; select appropriate mandatory or voluntary standards and corresponding security controls; and establish the basis for regionwide cybersecurity information sharing. Through a regional approach focused on improved policies and legislation, information sharing, workforce development, and capacity-building, the program will support sectors such as energy, water, transport, healthcare, finance, and telecommunications.
 
-![ERA_Social_Boost_Graduation.jpg](/uploads/ERA_Social_Boost_Graduation.jpg)
-
 ### Sample Activities 
 
 * Accelerate the development of the relevant workforce to protect against and respond to threats from malign actors, particularly cyberattacks.
