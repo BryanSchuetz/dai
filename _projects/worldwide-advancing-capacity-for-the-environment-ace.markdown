@@ -1,7 +1,6 @@
 ---
 title: Worldwide—Advancing Capacity for the Environment (ACE)
 date: 2022-07-20 10:30:00 Z
-published: false
 summary: The Advancing Capacity for the Environment (ACE) program supports the  U.S.
   Agency International Development (USAID)’s work in climate change, environment,
   energy, and infrastructure.
@@ -26,6 +25,6 @@ Infrastructure (EEI) fulfill its mandate as a Center of Excellence—by providin
 ### Sample Activities
 
 * Support the planning, roll-out, and implementation of USAID’s 2022 Climate Strategy.
-* Manage USAID’s Climatelinks.org, Land-Links.org, Urban-Links.org, and BiodiversityLinks.org websites.
+* Manage and update USAID’s Climatelinks.org, Land-Links.org, Urban-Links.org, and BiodiversityLinks.org websites.
 * Design curriculum and multifaceted learning materials for different levels of learners in key EEI topics.
 * Co-create an EEI Knowledge Management Strategic Plan.
