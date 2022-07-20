@@ -27,3 +27,5 @@ Infrastructure (EEI) fulfill its mandate as a Center of Excellence—by providin
 
 * Support the planning, roll-out, and implementation of USAID’s 2022 Climate Strategy.
 * Manage USAID’s Climatelinks.org, Land-Links.org, Urban-Links.org, and BiodiversityLinks.org websites.
+* Design curriculum and multifaceted learning materials for different levels of learners in key EEI topics.
+* Co-create an EEI Knowledge Management Strategic Plan.
