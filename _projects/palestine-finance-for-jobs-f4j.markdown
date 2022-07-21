@@ -16,6 +16,8 @@ country: Palestine
 promos:
 - title: 'VIDEO: Setting Entrepreneurs Up for Success'
   link: https://www.facebook.com/70185985796/videos/2805992683028390
+- title: 'VIDEO: Incentivizing Investment in Palestine for Job Creation'
+  link: https://www.linkedin.com/feed/update/urn:li:activity:6955874688178757632
 - title: DAI-Led Project Wins United Nations Award for Climate Finance
   link: https://www.dai.com/news/dai-led-project-wins-united-nations-award-for-climate-finance
 - title: Palestinians Benefitting from Jobs and Training Despite COVID-19 Thanks to
