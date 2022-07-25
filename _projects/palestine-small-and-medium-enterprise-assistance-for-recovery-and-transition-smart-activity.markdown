@@ -32,3 +32,7 @@ The Palestine Small and Medium Enterprise Assistance for Recovery and Transition
 * Connect firms to buyers and buyer networks abroad.
 * Assist startups and SMEs to adopt modern business practices and attain bankable or investment-ready status.
 * Provide targeted institutional and human capacity support to advance a policy agenda to bolster competitiveness and trade.
+
+### Select Results
+
+* Signed 25 contracts with different suppliers and delivered items to hotels that are part of the Hotel Recovery Program. The first recipient was the Retno Hotel in Ramallah, which received hotel amenities including 15 TVs, 45 phones, 15 mini refrigerators, and 30 orthopedic mattresses. 
