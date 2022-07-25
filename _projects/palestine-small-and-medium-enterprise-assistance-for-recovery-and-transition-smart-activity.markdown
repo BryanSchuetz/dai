@@ -36,3 +36,4 @@ The Palestine Small and Medium Enterprise Assistance for Recovery and Transition
 ### Select Results
 
 * Signed 25 contracts with different suppliers and delivered items to hotels that are part of the Hotel Recovery Program. The first recipient was the Retno Hotel in Ramallah, which received hotel amenities including 15 TVs, 45 phones, 15 mini refrigerators, and 30 orthopedic mattresses. 
+*  Helped 36 firms under the Private Sector Rapid Recovery Program. By the end of the first year, SMART will have assisted 125 firms. 
