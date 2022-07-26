@@ -4,7 +4,8 @@ date: 2016-01-21 22:18:00 Z
 lastname: Estrada-Valle
 summary: 'Juan Estrada-Valle is an international expert in agriculture, trade, investment,
   and stability. '
-job-title: Vice President for Strategic Growth, USG Business Unit
+job-title: Vice President for Strategic Growth, USG Business Unit, Latin America and
+  Caribbean Region
 image: "/uploads/Juan.jpg"
 solutions:
 - Economic Growth
