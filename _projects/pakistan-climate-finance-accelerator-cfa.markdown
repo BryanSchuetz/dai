@@ -26,3 +26,5 @@ The global Climate Finance Accelerator (CFA) program is a four-year technical as
 * Develop a shortlist of eight to 10 potentially low-carbon projects. 
 * Build the capacity of project proponents to ensure they can productively engage with financial experts at events convened to connect projects with capital market players.
 * Develop knowledge products, including an in-country event summary report, final outline term sheets prepared by participants, and a summary of identified recommended changes to the policy environment.
+
+**To find out more about the project and the call for proposals for low-carbon projects (August 2022), please visit the project website: [https://cfapakistan.com](https://cfapakistan.com/)**

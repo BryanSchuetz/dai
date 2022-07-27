@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [YEMP-RFP-INT-2022-001 Do No Harm Training](https://dai-assets.s3.amazonaws.com/rfps/YEMP-RFP-INT-2022-001%20Do%20No%20Harm%20Training.pdf "8/6")
+* [RFP-MSP-007 DRC Strategic Opportunity Analysis & Framework Design](https://dai-assets.s3.amazonaws.com/rfps/RFP-MSP-007%20DRC%20Strategic%20Opportunity%20Analysis%20%26%20Framework%20Design.pdf "8/26")
 * [EOI for Digital Frontiers Experts WomenConnect](https://dai-assets.s3.amazonaws.com/rfps/EOI%20for%20Digital%20Frontiers%20Experts_%20WomenConnect.pdf "7/25")
 * [CIDR RFI Gender IR4: Incentivizing Businesses to Incorporate Gender Inclusive Approaches to Growth](https://dai-assets.s3.amazonaws.com/rfps/CIDR_RFI_Gender_IR4.pdf "7/13")
 * [CIDR RFI Gender IR4: Building a Diverse and Inclusive Human Resources Pool](https://dai-assets.s3.amazonaws.com/rfps/CIDR_RFI_Gender_IR3.pdf "7/13")
