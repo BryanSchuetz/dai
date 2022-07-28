@@ -1,6 +1,7 @@
 ---
 title: Mark Walter
 date: 2018-11-15 14:05:00 Z
+published: false
 lastname: 'Walter '
 summary: 'Mark Walter is an international development lawyer specializing in the business-enabling
   environment, commercial dispute resolution, trade policy reform and assessment,
