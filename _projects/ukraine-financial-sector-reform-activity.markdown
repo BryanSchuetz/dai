@@ -15,6 +15,9 @@ solutions:
 - Institutional and Policy Reform
 regions: Eastern Europe and Central Asia
 country: Ukraine
+promos:
+- title: Transforming the Ukrainian Financial Sector
+  link: https://dai-global-developments.com/articles/transforming-the-ukrainian-financial-sector
 ---
 
 Building on three decades of support to Ukraine’s financial sector, including the recently completed  [Financial Sector Transformation Activity (FST)](https://www.dai.com/our-work/projects/ukraine-transforming-financial-sector-fst)—the Financial Sector Reform (FSR) Activity supports Ukraine’s economic development and growth. 
