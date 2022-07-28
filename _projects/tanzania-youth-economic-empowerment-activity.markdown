@@ -25,6 +25,8 @@ In the past decade, Tanzania experienced significant improvements—both economi
 
 To help empower young people in Tanzania, the Advancing Youth Activity, funded by Feed the Future and the U.S. Agency for International Development (USAID), helped young people ages 15 to 29 to enhance their employability, business savvy, leadership skills, and participation in civic life. The program encouraged young people to use health data and services to make better personal choices. The Feed the Future Tanzania Advancing Youth activity collaborated with young people in program design and implementation and built public-private partnerships to [bolster job opportunities](https://www.usaid.gov/tanzania/press-releases/may-29-2019-united-states-disburses-grants-worth-750000-create-jobs) for them.
 
+The project reached more than 43,000 young people and provided more than $2.3 million in grants to youth-led agribusinesses.
+
 ![AY.jpg](/uploads/AY.jpg)
 
 ### Sample Activities
