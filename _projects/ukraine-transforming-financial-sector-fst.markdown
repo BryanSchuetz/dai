@@ -15,9 +15,6 @@ country: Ukraine
 promos:
 - title: Transforming the Ukrainian Financial Sector
   link: https://dai-global-developments.com/articles/transforming-the-ukrainian-financial-sector
-- title: How Modernizing Ukraine’s Financial Infrastructure Led to More Inclusivity
-    and Investment
-  link: https://dai-global-developments.com/articles/q-and-a-how-modernizing-ukraines-financial-infrastructure-led-to-more-inclusivity-and-investment
 - title: 'Stay the Course: A Decade of Focus on Economic Reforms Pays off in Ukraine'
   link: https://dai-global-developments.com/articles/stay-the-course-a-decade-of-focus-on-economic-reforms-pays-off-in-ukraine
 - title: USAID Project Named Finalist for Global Financial Inclusion Award
