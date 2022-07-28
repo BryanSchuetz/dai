@@ -11,9 +11,12 @@ solutions:
 regions:
 - Eastern Europe and Central Asia
 - Latin America and the Caribbean
+articles:
+- name: Transforming the Ukrainian Financial Sector
+  article_file: https://dai-global-developments.com/articles/transforming-the-ukrainian-financial-sector
 ---
 
-Robert Bond was most recently Chief of Party for the Ukraine Financial Sector Transformation (FST) project, funded by the U.S. Agency for International Development (USAID) and now heads up the Ukraine Financial Sector Reform Actvity.
+Robert Bond was most recently Chief of Party for the Ukraine Financial Sector Transformation (FST) project, funded by the U.S. Agency for International Development (USAID) and now heads up the Ukraine Financial Sector Reform Activity.
 
 From September 2010 through December 2012, Robert ran the Ukraine Financial Sector Rehabilitation Project (USAID/FINREP), implemented by Booz Allen Hamilton, that helped Ukraine implement reforms to lessen its vulnerability to external financial shocks and increase the adoption of international standards of disclosure, transparency, and financial market regulation. 
 
