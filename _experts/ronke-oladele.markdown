@@ -1,6 +1,7 @@
 ---
 title: Ronke Oladele
 date: 2022-07-29 11:53:00 Z
+published: false
 lastname: Oladele
 summary: Ronke Oladele is an International Development professional at DAI's Sustainable
   Business Group.
@@ -18,4 +19,5 @@ Before joining DAI, Ronke worked as a philanthropy officer in a capacity-buildin
 Ronke is passionate about reducing inequalities through education, entrepreneurship and businesses using their resources to create positive, sustainable impact.
 
 * M.Sc., International Development, University of Birmingham
+
 * LLB., Law with Business, University of Birmingham
