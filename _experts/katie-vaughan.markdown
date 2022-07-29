@@ -1,7 +1,6 @@
 ---
 title: Katie Vaughan
 date: 2020-06-02 08:22:00 Z
-order: 26
 lastname: Vaughan
 summary: 'Katie Vaughan is an international development and project management professional
   supporting the finance and operations team in the Sustainable Business Group. '
@@ -11,6 +10,7 @@ solutions:
 - Sustainable Business
 regions:
 - Worldwide
+order: 27
 ---
 
 Katie Vaughan is an international development and project management professional supporting the Delivery, Finance, and Operations Team in the Sustainable Business Group since 2020. Katie specializes in project and financial management for complex programs and manages the registration of new country platforms for The Sustainable Business Group around the world. In her role as a Senior Management Analyst, Katie supports enterprise development for oil and gas programs, notably for the Mozambique Enterprise Development Center.
