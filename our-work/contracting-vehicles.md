@@ -44,13 +44,17 @@ layout: node
 * [Lot B: Strengthening Resilience and Response to Crises](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds-lot-b-strengthening-resilience-and-response-to-crises)
 * Lot C: Promoting Global Prosperity (Partner to IMC Worldwide)
 
+# U.K. Government (Crown Commercial Service)
+
+Cyber Security Services 3 (CS3) Flexible Commercial Agreement: cybersecurity-related consultancy and advice, penetration testing, incident response, and managed security services (2022-2025)
+
 # European Commission
 
 ### EC Framework Contract SIEA (Services for Implementation of External Aid)
  
 * Lot 1: Sustainable Management of Natural Resources and Resilience
 * Lot 2: Infrastructure, Sustainable Growth, and Jobs
-* Lot 3: Human Rights, Democracy and Peace
+* Lot 3: Human Rights, Democracy, and Peace
 * Lot 4: Human Development and Safety Net
 * Lot 5: Budget Support
 * Lot 6: Innovative Financing for Development
