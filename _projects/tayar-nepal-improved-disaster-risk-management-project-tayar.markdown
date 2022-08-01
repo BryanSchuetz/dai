@@ -37,3 +37,4 @@ In the event of a disaster during the course of the project, Tayar will engage t
 * Developed the *Disability Inclusive Get Ready Guidebook* and circulated it to all 753 municipalities. The guidebook describes basic concepts of disability, its types, and developing
 knowledge and skills on how to be prepared and protected in earthquakes, landslides, fires, pandemics, and floods.
 * Launched Bachau, a mobile application tool that supports people with hearing impairments during emergencies through text messages to police, ambulance, and firefighters. 
+* Produced 4,462 copies of information, education, and communication materials related to earthquake-resistant construction technology and the electronic building permit system, which were distributed to stakeholders.  
