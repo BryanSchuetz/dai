@@ -1,7 +1,6 @@
 ---
 title: Iraq—Support Policy Dialog and Technical Assistance
 date: 2022-07-28 03:19:00 Z
-published: false
 summary: The Support Policy Dialog and Technical Assistance in Iraq project supports
   the EU’s objective to improve the overall stability of Iraq by addressing the root
   causes of the continued political and institutional fragility.
