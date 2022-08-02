@@ -36,3 +36,7 @@ RASS strengthens capacities to sustain gender-responsive, diversified, and marke
 * Promote diversified and nutrient-rich crop production. 
 * Expand opportunities for sustainable, locally driven livelihoods. 
 * Expand access to financial services to diversify livelihoods and protect productive assets. 
+
+### Select Results
+
+* Distributed seeds to the 104 RASS-supported producer groups in the counties of Wau, Jur River, Akobo, Kapoeta North, and Budi. In total 2,561 farmers will benefit from increased agriculture productivity, improved food security, and additional household income. 
