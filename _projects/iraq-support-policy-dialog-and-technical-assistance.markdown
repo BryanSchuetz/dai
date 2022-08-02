@@ -1,6 +1,9 @@
 ---
 title: Iraq—Support Policy Dialog and Technical Assistance
 date: 2022-07-28 03:19:00 Z
+tags:
+- Europe
+- European Union
 summary: The Support Policy Dialog and Technical Assistance in Iraq project supports
   the EU’s objective to improve the overall stability of Iraq by addressing the root
   causes of the continued political and institutional fragility.
@@ -16,6 +19,8 @@ country: Iraq
 Iraq was once considered one of the most developed countries in the Middle East, but since the outbreak of war in the 1990s, Iraq was plunged into an era of poverty, violence, and instability. The development landscape has been marred by political insecurity, corruption, and fragile institutions, leading to a reliance on European Union (EU) development and humanitarian funding. 
 
 The Support Policy Dialog and Technical Assistance in Iraq project supports the EU’s objective to improve the overall stability of Iraq by addressing the root causes of the continued political and institutional fragility. This project strengthens public institutions and develops capacities for policymaking, supports the government's revision of coherent development policy frameworks, and contributes to the general socio-economic development of the country.
+
+![49-Babil Province-Phase II.jpeg](/uploads/49-Babil%20Province-Phase%20II.jpeg)
 
 ### Sample Activities
 
