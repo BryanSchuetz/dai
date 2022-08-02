@@ -93,7 +93,8 @@ To act on any of the above rights, DAI may need to request additional informatio
 ## Breaches of Personal Data
 
 DAI applies best business practices and secure systems to protect personal information. If a data breach that included personal information were to occur, DAI will respond to the breach as required by the relevant regulations. 
-If you are aware of a breach of personal data that involves DAI, please contact [gdpr@dai.com](mailto:gdpr@dai.com) immediately.
+
+If you are aware of a breach of personal data that involves DAI, please contact [data_privacy@dai.com](mailto:data_privacy@dai.com) immediately.
 
 ## Information Collected by DAI’s Website
 
@@ -103,11 +104,11 @@ DAI uses HTTP cookies to improve the performance of our site. All retained data 
 
 ## Images Utilized by DAI
 
-DAI utilizes images collected by our staff to demonstrate the nature and impact of our work. DAI seeks consent to the degree practical from the individuals depicted in these images. If your likeness is reproduced in any of the images hosted on a DAI website and you would like these images to be deleted, please [contact the administrator](mailto:gdpr@dai.com) and the images will be promptly removed. 
+DAI utilizes images collected by our staff to demonstrate the nature and impact of our work. DAI seeks consent to the degree practical from the individuals depicted in these images. If your likeness is reproduced in any of the images hosted on a DAI website and you would like these images to be deleted, please [contact the administrator](mailto:data_privacy@dai.com) and the images will be promptly removed. 
 
 ## Contact for Requests and Complaints
 
-If you would like additional details regarding DAI’s Personal Information and Privacy Policy, to submit a request regarding your personal information, or to submit a complaint please contact [gdpr@dai.com](mailto:gdpr@dai.com). 
+If you would like additional details regarding DAI’s Personal Information and Privacy Policy, to submit a request regarding your personal information, or to submit a complaint please contact [data_privacy@dai.com](mailto:data_privacy@dai.com). 
 
 An email communication to the above address is the quickest way to receive a response from DAI. However, you may also submit requests in writing to the contacts below:
 
