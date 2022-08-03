@@ -13,11 +13,47 @@ solutions:
 hero: true
 ---
 
-The health governance team supports international Universal Health Coverage goals: where individuals and communities receive the health services they need without suffering financial hardship.   
+The health governance team supports international Universal Health Coverage goals: where individuals and communities receive the health services they need without suffering financial hardship.
+
+<img src="/uploads/health-governance-feature.jpg" alt="">
 
 Around the world, the most stretched health systems face the biggest challenges in creating efficient and equitable healthcare. Globally 80% of people live in low-and middle-income states, but only 20% of global health expenditure is spent in these countries. Over-stretched health systems face additional governance challenges such as poor financial controls, limited accountability mechanisms and weak partnerships with the private sector. Health information is often recorded on paper and data systems for tracking outbreaks and conducting surveillance are often fragmented.  
 
-<img src="/uploads/health-governance-feature.jpg" alt="">
+<h2>Case Studies</h2>
+<div class="bulma enterprise-innovation">
+  <div class="tile is-ancestor">
+    <div class="is-parent tile is-4">
+      <div class="tile box is-child" style="background-image: url(/uploads/tdaap.jpg); background-size: cover; background-position: center; min-height: 15rem;">
+        <article>
+        </article>
+      </div>
+    </div>
+    <div class="tile is-parent">
+      <div class="tile box is-child">
+        <article>
+          <p><strong>Tackling Deadly Diseases in Africa (TDDA)</strong></p>
+          <p>Epidemics and disease in Africa kill millions a year. The U.K. Foreign, Commonwealth & Development Office (FCDO)-funded <a href="/our-work/projects/africa-tackling-deadly-diseases-in-africa-program">TDDA program</a> strengthens government systems to prevent future outbreaks, epidemics, and pandemics such as Ebola, COVID-19, or monkeypox. DAI works in Cameroon, Chad, Cote d’Ivoire, Mali, and Uganda to support international health regulation implementation, strengthen emergency management systems and implement One Health structures. Through TDDA, countries are more equipped to respond and prevent health security crises closer in line with international standards and better able tackle and respond to health threats, especially regarding border crossings, points of entry and One Health governance structures. </p>
+        </article>
+      </div>
+    </div>
+  </div>
+  <div class="tile is-ancestor">
+    <div class="is-parent tile">
+      <div class="tile box is-child">
+        <article>
+          <p><strong>Haiti Health Information Systems (HIS)</strong></p>
+          <p>In Haiti, fragmented national health information management systems and data coherence led to poor procurement practices, irregular disease surveillance, and challenges in predicting and responding to disease outbreaks. Through the <a href="/our-work/projects/haiti-strategic-health-information-system-his-program">U.S. Agency for International Development (USAID)-funded HIS</a>, DAI supported the Haitian Ministry of Public Health and Population to increase data reporting across from 35 percent to 66 percent of health facilities. The program equipped Haiti with a national software system to improve analytics and interoperability between various systems and strengthened data governance to ensure the coherence and sustainability for years to come.</p>
+        </article>
+      </div>
+    </div>
+    <div class="tile is-parent is-4">
+      <div class="tile box is-child" style="background-image: url(/uploads/DAI-HIS%20Data%20visualizer%20from%20HAITI.jpg); background-size: cover; background-position: center; min-height: 15rem;">
+        <article>
+        </article>
+      </div>
+    </div>
+  </div>
+</div>
 
 Strong partnerships and systems are the answer to many of these issues. We adopt a non-hierarchical, partnership approach with public sector and civil society to develop health systems that deliver quality services fairly. We start with inclusive stakeholder mapping and political economy analysis to understand the incentives, opportunities and barriers to change. We then use this data to help make systems more transparent, efficient and effective.  Key services we offer include: 
 
