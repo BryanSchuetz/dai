@@ -18,6 +18,7 @@ Social or economic status can potentially have a greater influence on a person�
 
 Our Health Equity practice aims to reach society’s most vulnerable by tackling structural inequities around nutrition, livelihoods, sexual & reproductive health, maternal & newborn health, and family planning. 
 
+<aside>
 <h2>Case Studies</h2>
 <div class="bulma enterprise-innovation">
   <div class="tile is-ancestor">
@@ -53,7 +54,7 @@ Our Health Equity practice aims to reach society’s most vulnerable by tackling
     </div>
   </div>
 </div>
-
+</aside>
 
 Ensuring we spotlight and tackle pervasive inequalities around gender and inclusion within these thematic areas will always be central our work.
 

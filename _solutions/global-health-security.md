@@ -17,6 +17,7 @@ As COVID-19 has demonstrated, disease outbreaks can overwhelm global health and 
 
 Within 18 months from the start of the COVID-19 pandemic, over 4 million people died and millions more were hospitalised or facing long-term health consequences from catching the virus. 
 
+<aside>
 <h2>Case Studies</h2>
 <div class="bulma enterprise-innovation">
   <div class="tile is-ancestor">
@@ -52,6 +53,7 @@ Within 18 months from the start of the COVID-19 pandemic, over 4 million people 
     </div>
   </div>
 </div>
+</aside>
 
 While the pandemic’s economic impact is yet to be fully understood, estimates from the Ebola and SARS epidemics suggest the world lost near $100 billion in productivity, meaning COVID-19’s impact will be much greater. These crises have demonstrated the importance of pandemic preparedness, disease surveillance, and immunizations to safeguard our neighbourhoods and communities.
 
