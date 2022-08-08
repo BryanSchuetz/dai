@@ -30,7 +30,7 @@ ALG assists the Government of Tajikistan to sustainably reduce hunger, undernutr
 
 ### Sample Activities
 
-* Design an Inclusive Partnership Facility to provide competitive performance-based grants, subcontracts, and technical assistance. 
+* Design an inclusive partnership facility to provide competitive performance-based grants, subcontracts, and technical assistance. 
 * Increase productivity, post-harvest handling, and storage, and expand access to markets of existing and newly organized value chains.
 * Increase availability and consumption of diverse and nutritious foods.
 * Improve adaptation to and recovery from shocks and stresses through diversification of livelihoods.
@@ -38,6 +38,7 @@ ALG assists the Government of Tajikistan to sustainably reduce hunger, undernutr
 
 ### Select Results
 
-* Held 19 training sessions for 165 community agriculture volunteers—92 women and 73 men—who will carry out activities in their villages across 12 districts. Training covered adult learning, community mobilization, the work of a volunteer, and WASH and home garden management topics.
+* Held 19 training sessions for 165 community agriculture volunteers—92 women and 73 men—who will carry out activities in their villages across 12 districts. Training covered adult learning; community mobilization; the work of a volunteer; water, sanitation, and hygiene; and home garden management topics.
 *  Supported the National Valuation Standards for land, establishing basic principles of valuation and requirements for assessing the value of movable and immovable property. Upholding national standards for land valuation is a critical step in establishing a fair market price for land use rights once the right of alienation is adopted.
 * Held a training of trainers to expand home garden management skills on at-home seedling production for 144 community agriculture volunteers. The volunteers will share these techniques and skills with members of their communities through home visits and group sessions at their own home garden demonstration plots.
+* Signed a follow-on grant agreement with Kota Global to provide professional sewing and paid on-the-job training to 100 vulnerable women and young people in Khatlon. Graduates will receive vocational certificates and after completing the training, Kota Global has committed to offering at least 75 percent of the successful graduates full-time employment in its factory in Bokhtar. 
