@@ -28,3 +28,8 @@ The project also includes special activities to address COVID-19 by ensuring tha
 * Strengthen the capabilities of firms and their workforces, addressing the capability shortfalls, information asymmetries, and other factors that dissuade firms from investing in capacity-building activities on their own. 
 * Support the entry of new, complementary actors into the IT ecosystem, aiding the private sector to build the technology and business infrastructure that IT service companies rely on to compete, including finance. 
 * Stimulate demand through international market linkages and will encourage foreign direct investment in the West Bank and Gaza. 
+
+### Select Results
+
+* Selected 65 firms to receive financial support through a joint program formed by TechStart and IPSD formed a joint program to provide financial support.
+* Awarded six grants covering equipment, salaries, and rent.
