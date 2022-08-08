@@ -2,6 +2,9 @@
 title: South Africa—Technical Assistance to the Education for Employability (E4E)
   Sector Reform Programme
 date: 2021-01-07 10:17:00 Z
+tags:
+- Europe
+- European Union
 summary: E4E supports the South African government’s efforts in improving the quality
   of basic education, vocational training, and job placement services from early childhood
   through teenage years.
@@ -27,3 +30,9 @@ Our team supports the National Treasury and three key implementing government de
 * Strengthen the Department of Employment and Labour, Department of Basic Education, and Department of Higher Education and Training to deliver the outcomes of E4E.
 * Improve collaboration and increased coordination between the three departments and the National Treasury towards the achievement of more inclusive, equitable, and quality education and employment prospects for South African young people.
 * Provide programme management and operational support, including secretarial support for the governance structures, coordination, and alignment of systems among the three involved departments and other stakeholders, including the grants implemented by civil society and coordination of donor support to establish connections with other projects.
+
+### Select Results
+
+* Delivered working sessions with the Departments of Employment and Labour, Basic Education, and Higher Education and Training, to refine business plans, policy dialogues, programme implementation, and monitoring and evaluation.
+* Improved collaboration and increased coordination between the three departments and the National Treasury toward achieving more inclusive, equitable, and quality education and employment prospects for young South Africans.
+* Provided programme management and operational support—including secretarial support for the governance structures, coordination, and alignment of systems—among the three partner departments and other stakeholders.
