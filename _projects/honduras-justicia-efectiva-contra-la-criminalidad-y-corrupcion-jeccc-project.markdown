@@ -30,4 +30,3 @@ JECCC aims to deliver marked improvement in the investigation, prosecution, and 
 * Ensure that prosecutors, public defenders, police, courts, civil society groups, universities, and other counterparts institutionalize improved systems, tools, and internal processes. 
 * Engage private sector firms and industry groups to mobilize their networks and use their convening power for oversight of the justice sector. 
 * Provide technical support to establish and implement additional protocols to identify, investigate, and prosecute inter-related criminal phenomena and promote collaboration within the justice sector.
- 
