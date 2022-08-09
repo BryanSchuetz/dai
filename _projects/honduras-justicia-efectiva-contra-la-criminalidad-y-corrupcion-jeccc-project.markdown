@@ -20,12 +20,12 @@ Honduras' persistently high levels of crime, impunity, and corruption continue t
 
 Representing the next generation of justice reform and anticorruption programming in Honduras, the Justicia Efectiva Contra la Criminalidad y Corrupción project (Effective Justice to Combat Criminality and Corruption (JECCC)) combats impunity and corruption by targeting crime and by promoting collaboration among justice institutions and counterparts from civil society, the private sector, academia, and other nonstate actors. This holistic approach strengthens the criminal justice system and will ultimately lead to increased citizen confidence and reduce push factors for irregular migration.
  
-JECCC aims to deliver marked improvement in the investigation, prosecution, and resolution of targeted crimes; a significant increase in access to justice among vulnerable populations (emphasizing youth, women, and returnees); and better institutional and civil society oversight mechanisms to ensure transparency and accountability. 
+JECCC aims to deliver marked improvement in the investigation, prosecution, and resolution of targeted crimes; a significant increase in access to justice among vulnerable populations (emphasizing young people, women, and returnees); and better institutional and civil society oversight mechanisms to ensure transparency and accountability. 
 
-![Unidos_CitizenSecurity-02054.jpg](/uploads/Unidos_CitizenSecurity-02054.jpg)
+![Unidos_CitizenSecurity-00612.jpg](/uploads/Unidos_CitizenSecurity-00612.jpg)
 
 ## Sample Activities
 
-* Ensure that prosecutors, public defenders, police, courts, civil society groups, universities, and other counterparts institutionalize improved systems, tools, and internal processes. 
+* Ensure that prosecutors, public defenders, courts, civil society groups, universities, and other counterparts institutionalize improved systems, tools, and internal processes. 
 * Engage private sector firms and industry groups to mobilize their networks and use their convening power for oversight of the justice sector. 
 * Provide technical support to establish and implement additional protocols to identify, investigate, and prosecute inter-related criminal phenomena and promote collaboration within the justice sector.
