@@ -36,4 +36,5 @@ Taqarib strengthens the foundation of a more unified Libyan state by empowering 
 * Delivered a cumulative total of almost $3.5 million in equipment and supplies to municipal partners, aimed at a variety of service-delivery improvements, and at responses to COVID-19.
 * Trained 1,233 individuals in community emergency response.
 * Introduced or changed 19 public policies, with citizen input.
-* Supported the Swani bin Adam Municipality with ten solar-powered pole lights for a playground and 14 solar-powered pole lights for the health center in the Shuhada Swani district. 
+* Supported the Swani bin Adam Municipality with 10 solar-powered pole lights for a playground and 14 solar-powered pole lights for the health center in the Shuhada Swani district. 
+* Supported the Ministry of Local Governance's first-ever conference for Libya’s women municipal council members. With nearly 90 women council members in attendance, the participants discussed ministry policy advancements intended to directly benefit women and made recommendations regarding further support.
