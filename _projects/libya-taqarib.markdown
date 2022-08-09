@@ -35,8 +35,9 @@ Taqarib empowers local governments, reinforces community bonds, and improves peo
  
 * Enrolled nearly 700 participants in professional development courses or training.
 * Supported the development of 27 COVID-19 response plans across 30 municipalities.
-* Delivered a cumulative total of almost $3.5 million in equipment and supplies to municipal partners, aimed at a variety of service-delivery improvements, and at responses to COVID-19.
+* Delivered nearly $3.5 million in equipment and supplies to municipal partners, aimed at a variety of service-delivery improvements, and at responses to COVID-19.
 * Trained 1,233 individuals in community emergency response.
 * Introduced or changed 19 public policies, with citizen input.
+* Conducted more than 40 community service events across 18 partner municipalities, implemented in partnership with more than 600 volunteers, municipal staff members, and representatives from civil society. 
 * Supported the Swani bin Adam Municipality with 10 solar-powered pole lights for a playground and 14 solar-powered pole lights for the health center in the Shuhada Swani district. 
 * Supported the Ministry of Local Governance's first-ever conference for Libya’s women municipal council members. With nearly 90 women council members in attendance, the participants discussed ministry policy advancements intended to directly benefit women and made recommendations regarding further support.
