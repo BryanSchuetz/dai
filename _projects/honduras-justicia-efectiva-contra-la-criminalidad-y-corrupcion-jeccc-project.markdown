@@ -1,7 +1,6 @@
 ---
 title: Honduras—Justicia Efectiva Contra la Criminalidad y Corrupción (JECCC) project
 date: 2022-05-23 19:36:00 Z
-published: false
 summary: The Justicia Efectiva Contra la Criminalidad y Corrupción project (JECCC)
   combats impunity and corruption by targeting crime and by promoting collaboration
   among justice institutions and counterparts from civil society, the private sector,
