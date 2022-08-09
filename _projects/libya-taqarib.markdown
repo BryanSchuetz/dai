@@ -18,7 +18,9 @@ country: Libya
 
 Among the first acts of Libya’s revolutionary government in November 2011 was to create a Ministry of Local Government, a first step in fulfilling the people’s commitment to *la markaziyya,* or decentralization, a core value of the revolution, seen as insurance against the emergence of another brutal and totalizing dictatorship. In June 2012, Libya’s National Transitional Council approved Law 59, which outlined an audacious plan for fiscal and administrative governance at the municipal level.
 
-Taqarib strengthens the foundation of a more unified Libyan state by empowering local governments, reinforcing community bonds, and improving people’s standard of living. Taqarib helps citizens engage in public dialogue, prioritize public resource allocations, and understand the roles and responsibilities of local government. The project links enhancements to service delivery at the municipal level with national efforts to improve the execution of decentralization policy, and with efforts to undertake evidence-based reform. 
+The Libya Local Governance and Civil Society (LGCS) Program, locally known as “Taqarib” (the Arabic term for coming together or growing closer), supports Libya’s political transition by strengthening the pillars of a stable, democratic, and responsive Libyan state.  
+
+Taqarib empowers local governments, reinforces community bonds, and improves people’s standard of living. Taqarib helps citizens engage in public dialogue, prioritize public resource allocations, and understand the roles and responsibilities of local government. The project links enhancements to service delivery at the municipal level with national efforts to improve the execution of decentralization policy, and with efforts to undertake evidence-based reform. 
 
 ![Libya.jpg](/uploads/Libya.jpg)
 
