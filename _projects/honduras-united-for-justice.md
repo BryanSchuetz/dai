@@ -7,7 +7,7 @@ summary: The Justice, Human Rights, and Security Strengthening Activity (Unidos 
   and justice sectors; enhance the efficiency of the judicial system; and increase
   the effectiveness of community police.
 start: 2016
-end: 2023
+end: 2026
 client: U.S. Agency for International Development
 solutions:
 - Governance
