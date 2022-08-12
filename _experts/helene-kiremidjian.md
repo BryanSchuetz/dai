@@ -5,7 +5,7 @@ lastname: Kirémidjian
 summary: Hélène Kirémidjian has 10 years of professional experience in analysis, design,
   and implementation of economic growth projects focusing on value chain development
   and business enabling environment reform.
-job-title: Global Practice Specialist, Private Sector Development and Investment
+job-title: Senior Global Practice Specialist, Private Sector Development and Skills
 image: https://assetify-dai.com/experts/Helene%20Kiremidjian_Photo_inner.jpg
 solutions:
 - Energy

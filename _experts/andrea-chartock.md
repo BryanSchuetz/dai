@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Chartock
 summary: 'Andrea Chartock’s work focuses on promoting economic growth and designing
   and managing monitoring and evaluation of projects. '
-job-title: Principal Global Practice Specialist, Private Sector Development and Investment
+job-title: Principal Global Practice Specialist, Private Sector Development and Skills
 image: "/uploads/new%20Andrea%20Chartock.jpg"
 solutions:
 - Economic Growth
