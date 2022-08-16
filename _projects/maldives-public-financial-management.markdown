@@ -26,5 +26,6 @@ By the end of the program, Maldives will have the fiscal space and management ca
 ## Sample Activities
 
 * Support the Ministry of Finance with a comprehensive roll-out of performance-based budgeting to all ministries.
+* Support the Government of Maldives as they put policies and procedures in place to create “green budgeting.” 
 * Evaluate procurement processes for capital projects and re-engineer processes to align public contracting with current law and international open contracting standards.
 * Increase transparency and bottom-up accountability by incorporating public engagement, including by atoll councils, women’s development committees, and private contractor associations. 
