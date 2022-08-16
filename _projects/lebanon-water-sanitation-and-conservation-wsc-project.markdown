@@ -32,4 +32,8 @@ WSC is increasing the volumes of wastewater treated, reducing the pollution and 
 * Reduce the regional water establishments' non-revenue water losses.
 * Improve public utility planning and management tools.
 * Conduct social marketing campaigns to increase civic engagement in water management.
-* Promote wastewater or sludge reuse opportunities for agricultural sector.
+* Promote wastewater or sludge reuse opportunities for the agricultural sector.
+
+### Select Results
+
+* Installed inverters to the Litani River Authority’s Khirbet Qanafar laboratory, upgrading the existing solar panel system that was installed by the [Lebanon Water Project](https://www.dai.com/our-work/projects/lebanon-water-project-lwp). The updated system can operate without the need for Electricite du Liban or generator power and will allow for the storage of solar power for a longer time, reducing the interruptions in electrical power.
