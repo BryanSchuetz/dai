@@ -1,13 +1,13 @@
 ---
 title: Rashad Bibars
 date: 2022-08-12 20:30:00 Z
-published: false
 lastname: Bibars
 summary: Rashad Bibars is a senior development leader with more than 18 years of experience
   in designing and managing complex economic growth and private sector programs in
   Afghanistan, Jordan, and the Middle East in areas related to micro, small, and medium
   enterprise (MSME) and workforce development.
 job-title: Principal Global Practice Specialist, Private Sector Development and Skills
+image: "/uploads/Rashad%20Bibars.jpg"
 solutions:
 - Economic Growth
 - Market Systems and Value Chain

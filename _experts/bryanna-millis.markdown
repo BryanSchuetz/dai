@@ -1,10 +1,10 @@
 ---
 title: Bryanna Millis
 date: 2022-08-12 20:46:00 Z
-published: false
 lastname: Millis
 summary: 'Bryanna Millis is a Principal Global Practice Specialist with DAI. '
 job-title: Principal Global Practice Specialist, Private Sector Development and Skills
+image: "/uploads/Bryanna%20Millis.jpg"
 solutions:
 - Economic Growth
 - Market Systems and Value Chain
