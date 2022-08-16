@@ -30,6 +30,8 @@ promos:
   link: https://www.globalwaters.org/resources/assets/using-data-driven-management-improve-water-service-provider-performance
 - title: Applying Adaptive Management for Results in a Fragile Environment
   link: https://www.globalwaters.org/resources/assets/applying-adaptive-management-results-fragile-environment
+- title: Launch of the Water Resilience Center
+  link: "/uploads/Launch%20of%20the%20water%20resilience%20center.pdf"
 ---
 
 In Haiti, the incidence of life-threatening water-borne diseases has worsened in recent years, due in large part to the massive earthquake in 2010 and Hurricane Matthew in 2016. Today, fewer Haitians have access to improved water sources than in 1990. Haiti’s National Directorate for Water and Sanitation has become absorbed in emergency response rather than planning the effective decentralization of water security, sanitation, and hygiene (WSSH) services. Private-sector actors have attempted to fill gaps in access, but without proper regulation, these services are often unaffordable for low-income populations and cause environmental damage.
@@ -54,3 +56,4 @@ To help reverse these trends, the U.S. Agency for International Development (USA
 * Facilitated increased sales of sanitation products and services for 11 small firms.
 * Built capacity of nine water and sanitation national and sub-national institutions through training in sector planning, investment, monitoring, or regulation.
 * Working with the Haitian National Water Authority to assist local water utilities (CTEs) to function as independent businesses. Despite COVID-19, an increase in crime, the presidential assassination, and a fuel shortage, a core group of CTEs increased their combined revenues from 3 million gourdes to nearly 8 million gourdes in 2021.
+* Launched the [Water Resilience Center.](/uploads/Launch%20of%20the%20water%20resilience%20center.pdf)
