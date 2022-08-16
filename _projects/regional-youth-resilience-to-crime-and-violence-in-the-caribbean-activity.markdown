@@ -1,7 +1,6 @@
 ---
 title: Regional—Youth Resilience to Crime and Violence in the Caribbean Activity
 date: 2022-08-15 14:48:00 Z
-published: false
 summary: The Youth Resilience to Crime and Violence Prevention in the Caribbean Activity—in
   Grenada, Guyana, St. Lucia, St. Vincent, and the Grenadines—supports young people
   to build more safe, prosperous, and resilient societies.
