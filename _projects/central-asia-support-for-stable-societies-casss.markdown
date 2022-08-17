@@ -12,13 +12,14 @@ solutions:
 - Fragile States
 regions: Eastern Europe and Central Asia
 country: Regional
+promos:
+- title: Uzbek-Language Cartoon Helps Strengthen Family Ties, Prevents Violent Extremism
+  link: https://usaidcentralasia.exposure.co/uzbeklanguage-cartoon-helps-strengthen-family-ties-prevents-violent-extremism
 ---
 
 The Central Asia Support for Stable Societies activity identified and tested new methods for the prevention of violent extremism in Central Asia. The activity conducted field and digital research to identify risk and prevention factors for violent extremism. Based on the research results, the activity worked closely with civil society organizations (CSOs) in Kazakhstan, the Kyrgyz Republic, Tajikistan, and Uzbekistan to design and test developing evidence-based, practical approaches that broadened understandings of how to address violent extremism risk reduction pilot programming. 
 
 CASSS applied a public health model to research, design, pilot, and evaluate CVE programming across digital and real-world environments, in collaboration with the U.S. Agency for International Development. Through the public health model, CASSS has researched and identified risk and protective factors of violent extremism and designed pilot interventions based on these findings. 
-
-
 
 ## Sample Activities
 
