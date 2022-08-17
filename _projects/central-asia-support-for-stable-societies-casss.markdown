@@ -1,7 +1,6 @@
 ---
 title: Central Asia—Support for Stable Societies (CASSS)
 date: 2022-08-17 20:04:00 Z
-published: false
 summary: The Central Asia Support for Stable Societies activity identified and tested
   new methods for the prevention of violent extremism in Central Asia.
 start: 2018
@@ -15,6 +14,8 @@ country: Regional
 promos:
 - title: Uzbek-Language Cartoon Helps Strengthen Family Ties, Prevents Violent Extremism
   link: https://usaidcentralasia.exposure.co/uzbeklanguage-cartoon-helps-strengthen-family-ties-prevents-violent-extremism
+- title: Violent Extremism Risk Framework
+  link: https://pdf.usaid.gov/pdf_docs/PA00Z9VV.pdf
 ---
 
 The Central Asia Support for Stable Societies activity identified and tested new methods for the prevention of violent extremism in Central Asia. The activity conducted field and digital research to identify risk and prevention factors for violent extremism. Based on the research results, the activity worked closely with civil society organizations (CSOs) in Kazakhstan, the Kyrgyz Republic, Tajikistan, and Uzbekistan to design and test developing evidence-based, practical approaches that broadened understandings of how to address violent extremism risk reduction pilot programming. 
