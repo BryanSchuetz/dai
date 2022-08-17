@@ -22,7 +22,7 @@ transparency, and community resilience. In five years, we will leave behind stro
 
 ![180608_Limonade_03.jpg](/uploads/180608_Limonade_03.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Establish and implement an adaptive learning agenda for the project to sustain continuous cycles of generating, integrating, and sharing learning, both internally and externally.
 * Operationalize a youth-centered systems-strengthening approach through the targeted support of grants to local partners, including youth groups, government, the private sector, and civil society. 

@@ -25,14 +25,14 @@ Essor’s workstreams focused on:
 
 ![DRC-Essor-web-page-1.jpg](/uploads/DRC-Essor-web-page-1.jpg)
 
-### Essor A2F Sample Activities
+## Essor A2F Sample Activities
 
 * Assist the Ministry of Finance to develop an MSME-specific chapter inside the first National Financial Inclusion Strategy.
 * Support the National Financial Education Programme.
 * Provide exclusive technical assistance aimed at [operationalising a leasing-enabling environment](http://dai-global-developments.com/articles/dfid-programme-establishes-business-equipment-leasing-in-sub-saharan-africas-largest-country/) following the DRC’s adoption of its leasing law.
 * Provide exclusive technical assistance aimed at effective market liberalisation through an inclusive insurance-enabling environment following the DRC’s adoption of a new insurance code.
 
-### Essor A2F Select Results
+## Essor A2F Select Results
 
 * Developed a Collateral Registry IT tool that allows data gathering, sharing, and management of information on borrowers' collateral by financial institutions.
 * Designed financial literacy modules to train potential lessors and lessees in the DRC on how debt, credit, and leasing works.

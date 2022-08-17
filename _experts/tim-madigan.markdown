@@ -1,7 +1,6 @@
 ---
 title: Tim Madigan
 date: 2022-02-07 11:43:00 Z
-published: false
 lastname: Madigan
 summary: Tim Madigan has 30 years of technical and managerial experience in complex
   programs in challenging international settings focusing on design and implementation
