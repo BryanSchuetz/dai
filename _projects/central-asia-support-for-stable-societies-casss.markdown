@@ -16,6 +16,8 @@ promos:
   link: https://usaidcentralasia.exposure.co/uzbeklanguage-cartoon-helps-strengthen-family-ties-prevents-violent-extremism
 - title: Violent Extremism Risk Framework
   link: https://pdf.usaid.gov/pdf_docs/PA00Z9VV.pdf
+- title: CASSS Research Findings
+  link: https://pdf.usaid.gov/pdf_docs/PA00Z9VP.pdf
 ---
 
 The Central Asia Support for Stable Societies activity identified and tested new methods for the prevention of violent extremism in Central Asia. The activity conducted field and digital research to identify risk and prevention factors for violent extremism. Based on the research results, the activity worked closely with civil society organizations (CSOs) in Kazakhstan, the Kyrgyz Republic, Tajikistan, and Uzbekistan to design and test developing evidence-based, practical approaches that broadened understandings of how to address violent extremism risk reduction pilot programming. 
