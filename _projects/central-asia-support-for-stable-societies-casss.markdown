@@ -14,6 +14,8 @@ country: Regional
 promos:
 - title: Uzbek-Language Cartoon Helps Strengthen Family Ties, Prevents Violent Extremism
   link: https://usaidcentralasia.exposure.co/uzbeklanguage-cartoon-helps-strengthen-family-ties-prevents-violent-extremism
+- title: 'Preventing Violent Extremism with Life Skills and New Opportunities '
+  link: https://usaidcentralasia.exposure.co/preventing-violent-extremism-with-life-skills-and-new-opportunities
 - title: Violent Extremism Risk Framework
   link: https://pdf.usaid.gov/pdf_docs/PA00Z9VV.pdf
 - title: CASSS Research Findings
