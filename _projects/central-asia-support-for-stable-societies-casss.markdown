@@ -2,6 +2,8 @@
 title: Central Asia—Support for Stable Societies (CASSS)
 date: 2022-08-17 20:04:00 Z
 published: false
+summary: The Central Asia Support for Stable Societies activity identifies and tests
+  new methods for the prevention of violent extremism in Central Asia.
 end: 2022
 client: U.S. Agency for International Development
 solutions:
@@ -12,6 +14,8 @@ country: Regional
 ---
 
 
+
+The Central Asia Support for Stable Societies activity identifies and tests new methods for the prevention of violent extremism in Central Asia. The activity conducted field and digital research to identify risk and prevention factors for violent extremism. Based on the research results, the activity works closely with civil society organizations (CSOs) in Kazakhstan, the Kyrgyz Republic, Tajikistan, and Uzbekistan to design and test violent extremism risk reduction pilot programming. 
 
 
 ## Select Results
