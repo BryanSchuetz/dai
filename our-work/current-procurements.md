@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [GESP-RFP-056 Preparation and Implementation of ICT Trade Mission to Uzbekistan](/uploads/GESP-RFP-056.pdf "9/2")
 * [CDP-Sahel Technical Consultancy-ToR](/uploads/CDP%20-%20Sahel%20Technical%20Consultant%20-%20ToR%20.pdf "9/16")
 * [FV_RFP_LPTA_025-22_regional saplings](/uploads/FV_RFP_LPTA_025-22_regional%20saplings%20-08122022.pdf "8/20")
 * [GESP-G-RFQ-019 Procurement of Friction Washer and Sink-float Tank](https://dai-assets.s3.amazonaws.com/rfps/GESP-G-RFQ-019_%20Procurement%20of%20Friction%20Washer%20and%20Sink-float%20Tank.pdf "8/31")
