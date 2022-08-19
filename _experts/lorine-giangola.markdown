@@ -16,7 +16,7 @@ regions:
 - Worldwide
 ---
 
-Lorine Giangola specializes in natural resources management and climate change adaptation, with a focus on agroecosystems. She has extensive experience engaging and building the capacity of diverse stakeholders, including women and indigenous groups, in natural resources and climate adaptation decision processes, with on-the-ground technical work in the United States, South America, the Caribbean, West Africa, and Central, South, and Southeast Asia.
+Lorine Giangola specializes in natural resources management and climate change adaptation, with a focus on agroecosystems. She has extensive experience engaging and building the capacity of diverse stakeholders, including women and indigenous groups, in natural resources and climate adaptation decision processes, with on-the-ground technical work in Asia, the Caribbean, South America, the United States, and West Africa.
  
 Lorine originally trained as a landscape and conservation ecologist, but her interest in the complex decision-making processes related to managing natural resources and ecosystems for multiple goals—environmental quality, food production, economic development, public health, cultural preservation, recreation—led her to study context-sensitive and problem-oriented policy analysis in graduate school.
  
