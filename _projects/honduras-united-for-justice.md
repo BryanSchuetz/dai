@@ -68,5 +68,3 @@ The Justice, Human Rights, and Security Strengthening Activity (Unidos por la Ju
 * Supported training on gender-based violence and gender equality in the workplace in a series of workshops attended by 256 business executives.
 * Designed training to support female survivors of violence now incorporated into National Police Academy coursework.
 * Led a participatory external assessment of the National Police and gender, prompting the opening of gender offices in urban police stations in the country’s two largest cities.
-
-<iframe src="https://player.vimeo.com/video/626774963?h=8300e0b201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
