@@ -1,7 +1,6 @@
 ---
 title: Lorine Giangola
 date: 2022-08-19 13:47:00 Z
-published: false
 lastname: Giangola
 summary: 'Lorine Giangola specializes in natural resources management and climate
   change adaptation, with a focus on agroecosystems. '
