@@ -1,7 +1,6 @@
 ---
 title: USAID Launches Next-Generation Project to Reduce Corruption in Honduras
 date: 2022-08-22 11:22:00 Z
-published: false
 ---
 
 DAI is again partnering with the U.S. Agency for International Development in Honduras on broad reform efforts to reduce impunity and corruption within the Honduran justice system.
