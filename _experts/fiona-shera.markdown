@@ -1,6 +1,7 @@
 ---
 title: Fiona Shera
 date: 2019-02-05 19:16:00 Z
+published: false
 lastname: Shera
 summary: Fiona Shera has more than 25 years of experience in international development,
   with a strong focus on trade and gender.
