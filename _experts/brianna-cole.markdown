@@ -1,11 +1,11 @@
 ---
 title: Brianna Cole
 date: 2022-08-12 20:41:00 Z
-published: false
 lastname: Cole
 summary: 'Brianna Cole is a Global Practice Specialist in DAI’s Private Sector Development
   and Skills practice. '
 job-title: Global Practice Specialist, Private Sector Development and Skills
+image: "/uploads/Brianna%20Cole.jpg"
 solutions:
 - Economic Growth
 - Trade
