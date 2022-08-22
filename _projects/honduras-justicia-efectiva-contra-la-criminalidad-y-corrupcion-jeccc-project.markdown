@@ -14,6 +14,9 @@ solutions:
 - 
 regions: Latin America and the Caribbean
 country: Honduras
+promos:
+- title: USAID Launches Next-Generation Project to Reduce Corruption in Honduras
+  link: https://www.dai.com/news/usaid-launches-next-generation-project-to-reduce-corruption-in-honduras
 ---
 
 Honduras' persistently high levels of crime, impunity, and corruption continue to plague citizens who remain frustrated that the government is not delivering justice effectively or protecting the most vulnerable. Many systemic challenges contribute to low levels of human and physical security in the Northern Triangle region as a whole and cause Honduran citizens to pursue irregular migration to leave the country. 
