@@ -25,7 +25,7 @@ Representing the next generation of justice reform and anticorruption programmin
  
 JECCC aims to deliver marked improvement in the investigation, prosecution, and resolution of targeted crimes; a significant increase in access to justice among vulnerable populations (emphasizing young people, women, and returnees); and better institutional and civil society oversight mechanisms to ensure transparency and accountability. 
 
-![Unidos_CivilSociety-02704.jpg](/uploads/Unidos_CivilSociety-02704.jpg)
+![JECCC Conventionality_SPSNov-18-05302-10inch.jpg](/uploads/JECCC%20Conventionality_SPSNov-18-05302-10inch.jpg)
 
 ## Sample Activities
 
