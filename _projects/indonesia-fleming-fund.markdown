@@ -20,7 +20,7 @@ promos:
 
 The Fleming Fund is a U.K Department of Health and Social Care programme to help low- and middle-income countries fight antimicrobial resistance (AMR). DAI’s [Fleming Fund programme](https://www.flemingfund.org/) in Indonesia is a collaboration with the Indonesian government to strengthen systems using a “One Health” approach—a multisectoral approach to complex health problems that reaches across human health, animal health, and environment sectors. As global leaders in the approach, the DAI team is helping incorporate One Health across programme interventions. DAI helps Indonesia become a leader in combating AMR, and a model for better management of antimicrobials in human and animal populations.  
 
-Fleming Fund Bangladesh partners include Liverpool School of Tropical Medicine, The Aga Khan University, and Health Security Partners. 
+The Fleming Fund Country Grant to Indonesia partners include Koperasi Jasa Institut Riset Eijkman (KIRE, formerly the Eijkman Institute for Molecular Biology), Health Security Partners, The Liverpool School of Tropical Medicine, and Prevalensi. 
 
 ## Sample Activities 
 
@@ -30,11 +30,8 @@ Fleming Fund Bangladesh partners include Liverpool School of Tropical Medicine, 
 
 ## Select Results
 
-* Developed national coordinating mechanisms for AMR plans and strategies across multiple ministries.
-* Developed an integrated national information management system to share and analyze AMR data across sectors.
-* Piloted AMU study across hospitals.
-* Assessing and renovating 32 laboratories in animal health, human health, and aquaculture and procuring blood culture, antimicrobial susceptibility testing, and mass spectrometer instruments for key sites.
-* Trained technical laboratory staff in biosafety and biosecurity, bioinformatics and sequencing, epidemiology, antimicrobial susceptibility training, and external quality assurance.
-* Implemented a laboratory information management system in animal health laboratories.
-* Developed surveillance plans and protocols for AMR and antimicrobial use for cattle and poultry, which have been endorsed by the Government of Indonesia.
-* Developing a genomics study, co-funded by the Government of Indonesia, sequencing 200 strains.
+* Established the One Health AMR Taskforce, three technical working groups, and official endorsement of the National Action Plan on AMR 2020-2024 with the issuance of Coordinating Minister of Human Development and Culture Regulation No.7 of 2021.
+* Conducted Antimicrobial Use Point Prevalence Survey of 1,236 patients in seven hospitals; survey of 600 poultry samples in eight provinces; ans aquaculture AMR surveillance of 600 samples in 16 provinces. The surveys gave key insights into the use practice and AMR pattern across the human and animal sectors informing policy and advocacy goals.  
+* Supplied equipment and National Referral Laboratory renovations. All lead Ministry of Agriculture labs now use improved and networked iVLabs laboratory information systems. The antimicrobial resistance information system (AMRIS) in AMR and AMU has been made ready for Government of Indonesia servers to be installed and utilized.  
+* Conducted genome sequencing for more than 200 human, chicken, and environmental strains that were extracted and shipped for commercial sequencing. 
+* Trained 1,310 participants including clinicians, lab personnel, vet, and policymakers on basic microbiology, advanced microbiology, biosafety and biosecurity, quality management, epidemiology of AMR, AMR data management, bioinformatics, and data collections on poultry and aquaculture. 

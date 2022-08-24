@@ -23,7 +23,7 @@ High-quality textbooks underpin teaching and learning and one of the first activ
 
 ![Pic for Website (3).jpg](/uploads/Pic%20for%20Website%20(3).jpg)
 
-### Sample Activities
+## Sample Activities
  
 * Establish a mechanism for quality, non-discriminatory, gender-equal, and criterion-based recruitment of school directors and teachers.
 * Develop a strategic plan for a periodic and ad-hoc evaluation of schools’ performance and initiation of monitoring processes for a new outcome-based curriculum at the central and local levels.

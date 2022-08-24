@@ -1,7 +1,6 @@
 ---
 title: Malawi—Governance for Solutions (GfS) Activity
 date: 2022-08-01 13:03:00 Z
-published: false
 summary: 'The Malawi Governance for Solutions (GfS) Activity works to foster stable,
   resilient, and more self-reliant partnerships that best position local communities
   to address their own challenges and contribute to the trajectory of [Malawi Vision
@@ -23,7 +22,7 @@ Through a problem-driven, iterative adaptation approach, DAI helps local stakeho
 
 ![ASAP_MWI_2021_health surveillance assistants hired by district (1).jpg](/uploads/ASAP_MWI_2021_health%20surveillance%20assistants%20hired%20by%20district%20(1).jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Launch an Innovation Fund to provide small grants and/or in-kind assistance to support coalition members to research and test innovative ideas and deliver on the most promising reform initiatives.
 * Support the government to recruit, hire, and fund additional human resources for the healthcare industry.

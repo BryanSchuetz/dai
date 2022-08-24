@@ -25,6 +25,8 @@ The DAI team convened and supported a National AMR Symposium, a series of consul
 
 Fleming Fund Nigeria partners included the Institute for Human Virology Nigeria, the International Foundation Against Infectious Disease in Nigeria, the Liverpool School of Tropical Medicine, and Life Stock Management Services.
 
+![NigeriaFF.jpg](/uploads/NigeriaFF.jpg)
+
 ## Sample Activities
 
 * Build a One Health governance structure for AMR/AMU surveillance, by establishing a One Health National Steering Committee (OHNSC) that will work closely with the National AMR Coordinating Committee (AMRCC) Secretariat.
@@ -32,3 +34,12 @@ Fleming Fund Nigeria partners included the Institute for Human Virology Nigeria,
 * Strengthen AMR and AMU surveillance in food animals by building a common set of initiatives between the private food production sector and the public animal health sector, balancing production and marketing with research, workforce training, and regulatory functions.
 * Establish a foundation for AMR surveillance in aquatic animals.
 * Conduct a situational analysis of environmental laboratory stakeholders to assess requirements for an AMR bacteriology sentinel site for environmental health.
+
+## Select Results
+
+* Built a strong multisector country AMR governance structure at national and local levels in health facilities and laboratories. 
+* Strengthened laboratory infrastructure and equipment across reference laboratories and surveillance sites.
+* Improved antimicrobial stewardship across human health reference laboratories and sites.
+* Developed and used policies, strategies, protocols, standards, and guidelines relevant to effective AMR.
+* Trained and equipped 485 government staff in seven AMR thematic areas.
+* Built foundations for effective surveillance data sharing and use through the establishment of the community of practice.

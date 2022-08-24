@@ -14,6 +14,9 @@ solutions:
 - 
 regions: Latin America and the Caribbean
 country: Honduras
+promos:
+- title: USAID Launches Next-Generation Project to Reduce Corruption in Honduras
+  link: https://www.dai.com/news/usaid-launches-next-generation-project-to-reduce-corruption-in-honduras
 ---
 
 Honduras' persistently high levels of crime, impunity, and corruption continue to plague citizens who remain frustrated that the government is not delivering justice effectively or protecting the most vulnerable. Many systemic challenges contribute to low levels of human and physical security in the Northern Triangle region as a whole and cause Honduran citizens to pursue irregular migration to leave the country. 
@@ -22,7 +25,7 @@ Representing the next generation of justice reform and anticorruption programmin
  
 JECCC aims to deliver marked improvement in the investigation, prosecution, and resolution of targeted crimes; a significant increase in access to justice among vulnerable populations (emphasizing young people, women, and returnees); and better institutional and civil society oversight mechanisms to ensure transparency and accountability. 
 
-![Unidos_CitizenSecurity-00612.jpg](/uploads/Unidos_CitizenSecurity-00612.jpg)
+![JECCC Conventionality_SPSNov-18-05302-10inch.jpg](/uploads/JECCC%20Conventionality_SPSNov-18-05302-10inch.jpg)
 
 ## Sample Activities
 

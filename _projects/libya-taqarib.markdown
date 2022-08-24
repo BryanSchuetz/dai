@@ -24,14 +24,14 @@ Taqarib empowers local governments, reinforces community bonds, and improves peo
 
 ![Libya.jpg](/uploads/Libya.jpg)
 
-## Sample Activities
+### Sample Activities
 
 * Design and execute strategies for service delivery at the municipal level. 
 * Use a Municipal Performance Index to gauge the administrative capacity of local governments, quantify their delivery of essential services and infrastructure, as well as monitor the corresponding public perceptions of governments’ effectiveness and legitimacy.
 * Engage local communities and community organizations to ensure that citizens have a voice in prioritizing and monitoring the expenditure of public resources.
 * Partner with community organizations to generate public support local revenue generation, public-private partnerships, city-to-city collaboration, and other tools that are important for achieving sustainable development and self-reliance.
 
-## Select Results
+### Select Results
  
 * Enrolled nearly 700 participants in professional development courses or training.
 * Supported the development of 27 COVID-19 response plans across 30 municipalities.
@@ -41,3 +41,4 @@ Taqarib empowers local governments, reinforces community bonds, and improves peo
 * Conducted more than 40 community service events across 18 partner municipalities, implemented in partnership with more than 600 volunteers, municipal staff members, and representatives from civil society. 
 * Supported the Swani bin Adam Municipality with 10 solar-powered pole lights for a playground and 14 solar-powered pole lights for the health center in the Shuhada Swani district. 
 * Supported the Ministry of Local Governance's first-ever conference for Libya’s women municipal council members. With nearly 90 women council members in attendance, the participants discussed ministry policy advancements intended to directly benefit women and made recommendations regarding further support.
+* Delivered to the Abusliem Municipality a jaw crushing machine that [crushes concrete and most forms of rocks](https://www.facebook.com/watch/?extid=NS-UNK-UNK-UNK-IOS_GK0T-GK1C-GK2C&v=1051909622353541) and minerals for use as building material.  This machine will not only facilitate the removal of war debris but will offer low-cost rebuilding options by producing materials to be used to pave roads and build and repair infrastructure. It will also generate income for the local government and restore confidence in the local population. 

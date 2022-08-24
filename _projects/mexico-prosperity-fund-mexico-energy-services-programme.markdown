@@ -1,9 +1,9 @@
 ---
 title: Mexico—Clean Energy Programme (MCEP)
 date: 2019-03-14 20:59:00 Z
-summary: 'DAI is implementing the Mexico Clean Energy Programme (MCEP), which is developing
-  the skills of small and medium enterprises and government institutions to support
-  Mexico''s transition to a low-carbon economy. '
+summary: 'DAI implemented the Mexico Clean Energy Programme, which developed the skills
+  of small and medium enterprises and government institutions to support Mexico''s
+  transition to a low-carbon economy. '
 start: 2019
 end: 2022
 client: Foreign, Commonwealth & Development Office
@@ -18,15 +18,15 @@ country: Mexico
 
 The U.K. Foreign, Commonwealth & Development Office (FCDO) aims to promote energy-driven low-carbon growth, reduce poverty, and generate new market opportunities for symbiotic U.K. partnerships and investments.
 
-DAI is helping the FCDO achieve its vision by implementing the Mexico Clean Energy Programme (MCEP), which is developing the skills of small and medium enterprises (SMEs) and government institutions to support Mexico's transition to a low-carbon economy. 
+DAI helped the FCDO achieve its vision by implementing the Mexico Clean Energy Programme (MCEP), which developed the skills of small and medium enterprises (SMEs) and government institutions to support Mexico's transition to a low-carbon economy. 
 
-The program uses EPI (Energía, Participación e Inclusión) as the delivery model, enhancing the skills, capabilities, and resources of the Mexican energy sector by co-creating solutions that drive inclusive and sustainable growth. MCEP developed its curricula based on the findings of an industrial baseline study that DAI conducted in 2019 to identify key supply chains.
+The program used EPI (Energía, Participación e Inclusión) as the delivery model, enhanced the skills, capabilities, and resources of the Mexican energy sector by co-creating solutions that drove inclusive and sustainable growth. MCEP developed its curricula based on the findings of an industrial baseline study that DAI conducted in 2019 to identify key supply chains.
 
-Together with local partners, EPI offers targeted technical training and soft skills development, international certifications, and best practices exchanges. This training builds local supply chains, develops skills and expertise to deliver lasting benefits to local people. EPI also integrates women’s participation in the energy industry.
+Together with local partners, EPI offered targeted technical training and soft skills development, international certifications, and best practices exchanges. This training built local supply chains, and developed skills and expertise to deliver lasting benefits to local people. EPI also integrated women’s participation in the energy industry.
 
 ![Mexico Energy project.jpg](/uploads/Mexico%20Energy%20project.jpg)
 
-### Sample Activities
+## Sample Activities
 
 Course portfolio for the workforce includes:
 * EPI Energía.
@@ -46,7 +46,7 @@ Course portfolio for regulator institutions includes:
 * Soft skills development.
 * Capacity building on clean energies.
 
-### Select Results
+## Select Results
 
 * Delivered eight training programs on diverse topics—from a general course on the energy sector to specialized courses on finance, business opportunities, the electricity industry, clean energy, innovation, and English skills. 
 * Designed five additional activities in response to the COVID-19 pandemic focused on the recovery of SMEs in various areas recognized as critical by the industry—financial services, energy efficiency, e-commerce, crisis management, and mental health tools.
