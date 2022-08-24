@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [Request for quotes for translation services](https://dai-assets.s3.amazonaws.com/rfps/RFQ%20-%20Simplified%20Acquisition_CIDR%20Translation%20Services-FINAL.pdf "9/30")
 * [GESP-RFP-056 Preparation and Implementation of ICT Trade Mission to Uzbekistan](/uploads/GESP-RFP-056.pdf "9/2")
 * [CDP-Sahel Technical Consultancy-ToR](/uploads/CDP%20-%20Sahel%20Technical%20Consultant%20-%20ToR%20.pdf "9/16")
 * [FV_RFP_LPTA_025-22_regional saplings](/uploads/FV_RFP_LPTA_025-22_regional%20saplings%20-08122022.pdf "8/20")

@@ -1,6 +1,8 @@
 ---
-title: USAID Launches Next-Generation Project to Reduce Corruption in Honduras
+title: USAID Launches Next-Generation Project to Reduce Impunity and Corruption in
+  Honduras
 date: 2022-08-22 11:22:00 Z
+is_featured: true
 solutions:
 - Governance
 - Security and Justice Development
@@ -16,6 +18,10 @@ country: Honduras
 ---
 
 DAI is again partnering with the U.S. Agency for International Development in Honduras on broad reform efforts to reduce impunity and corruption within the Honduran justice system.
+
+![JECCC Conventionality_SPSNov-18-05302-10inch-cb92ef.jpg](/uploads/JECCC%20Conventionality_SPSNov-18-05302-10inch-cb92ef.jpg)
+
+<!--more-->
 
 The new project—the [*Justicia Efectiva Contra la Criminalidad y Corrupción* project (Effective Justice to Combat Criminality and Corruption), or JECCC](https://www.dai.com/our-work/projects/honduras-justicia-efectiva-contra-la-criminalidad-y-corrupcion-jeccc-project)—works to further progress made by the ongoing DAI-led [Justice, Human Rights, and Security Strengthening Activity (*Unidos por la Justicia*)](https://www.dai.com/our-work/projects/honduras-united-for-justice) project, which works with local partners to improve citizen engagement in the security and justice sectors, enhance the [efficiency of the judicial system](https://dai-global-developments.com/articles/modernized-honduran-judicial-system-promises-lower-costs-increased-efficiency-safer-communities-and-greater-transparency), and increase the effectiveness of community police.
 

@@ -15,7 +15,8 @@ solutions:
 regions: Latin America and the Caribbean
 country: Honduras
 promos:
-- title: USAID Launches Next-Generation Project to Reduce Corruption in Honduras
+- title: USAID Launches Next-Generation Project to Reduce Impunity and Corruption
+    in Honduras
   link: https://www.dai.com/news/usaid-launches-next-generation-project-to-reduce-corruption-in-honduras
 ---
 
