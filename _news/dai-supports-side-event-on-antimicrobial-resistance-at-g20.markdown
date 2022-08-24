@@ -1,10 +1,14 @@
 ---
 title: DAI Supports Side Event on Antimicrobial Resistance at G20
 date: 2022-08-24 18:55:00 Z
-published: false
+solutions:
+- Global Health
+regions: Asia and the Pacific
 ---
 
 DAI is supporting the Indonesian Government to host a side event on antimicrobial resistance (AMR) ahead of this year’s G20 meeting in Bali. The event is part of the G20 Presidency’s health track, which is working to tackle drug resistance through expanding global AMR surveillance and a multisectoral, One Health approach. 
+
+![Unknown-1.png](/uploads/Unknown-1.png)
 
 At least 1.27 million deaths per year are attributable to AMR, and health economists estimate that, if current trends continue, AMR could result in $100 trillion lost in economic activity and up to 10 million deaths each year by 2050.
 
