@@ -8,6 +8,7 @@ summary: 'DAI is supporting the Indonesian Government to host a side event on an
   resistance (AMR) ahead of this year’s G20 meeting in Bali. The event is part of
   the G20 Presidency’s health track, which is working to tackle drug resistance through
   expanding global AMR surveillance and a multisectoral, One Health approach. '
+country: "/uploads/Unknown-1.png"
 ---
 
 DAI is supporting the Indonesian Government to host a side event on antimicrobial resistance (AMR) ahead of this year’s G20 meeting in Bali. The event is part of the G20 Presidency’s health track, which is working to tackle drug resistance through expanding global AMR surveillance and a multisectoral, One Health approach. 
