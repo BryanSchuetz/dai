@@ -4,6 +4,10 @@ date: 2022-08-24 18:55:00 Z
 solutions:
 - Global Health
 regions: Asia and the Pacific
+summary: 'DAI is supporting the Indonesian Government to host a side event on antimicrobial
+  resistance (AMR) ahead of this year’s G20 meeting in Bali. The event is part of
+  the G20 Presidency’s health track, which is working to tackle drug resistance through
+  expanding global AMR surveillance and a multisectoral, One Health approach. '
 ---
 
 DAI is supporting the Indonesian Government to host a side event on antimicrobial resistance (AMR) ahead of this year’s G20 meeting in Bali. The event is part of the G20 Presidency’s health track, which is working to tackle drug resistance through expanding global AMR surveillance and a multisectoral, One Health approach. 
