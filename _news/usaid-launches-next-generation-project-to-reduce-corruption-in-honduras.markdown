@@ -2,6 +2,7 @@
 title: USAID Launches Next-Generation Project to Reduce Impunity and Corruption in
   Honduras
 date: 2022-08-22 11:22:00 Z
+is_featured: true
 solutions:
 - Governance
 - Security and Justice Development
