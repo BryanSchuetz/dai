@@ -54,8 +54,8 @@ The USAID TradeHub is based in Pretoria, South Africa, with resident representat
 * Formed 30 public-private partnerships.
 * Created 1,448 new jobs.
 
-Partnerships Toward Ecosystem Change:
+**Partnerships Toward Ecosystem Change:**
 <iframe src="https://player.vimeo.com/video/743060212?h=0bf31a271f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-How the USAID TradeHub works:
+**How the USAID TradeHub works:**
 <iframe src="https://player.vimeo.com/video/497656901" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
