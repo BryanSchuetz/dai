@@ -24,6 +24,8 @@ The project will assist municipal “clusters”—in which multiple municipalit
 
 The project will facilitate the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment. Successful service improvements and investments will build momentum for sustained individual and organizational transformation, sparking replication of successful tools and approaches that build community resilience and foster a culture of municipal excellence that embraces private enterprise and pursues local economic growth.
 
+![Jordan-248fc2.jpg](/uploads/Jordan-248fc2.jpg)
+
 ## Sample Activities
 
 * Facilitate multi-stakeholder dialogue that highlights new voices—including unemployed youth, female home-based business owners, people with disabilities, and local environmental civil society organizations—in municipal planning.
