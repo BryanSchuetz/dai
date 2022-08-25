@@ -20,20 +20,20 @@ promos:
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
 ---
 
-Over the past 15 years, DAI has witnessed how Afghan agribusinesses have matured, moving steadily toward sustainability on market principles. We know Afghan livestock enterprises—farmers and herders, processors, distributors, marketers, and exporters in the poultry, sheep, dairy, and related value chains—want to be self-sufficient and commercially viable. However, high transaction costs, limited access to finance, and a poor enabling environment continue to deter private investment in livestock-related enterprises and hinder growth in Afghanistan’s agriculture sector overall.
+AVC-Livestock builds the capacity of livestock-related enterprises, or anchor firms, so they become more efficient and profitable. Working directly with agribusiness companies through co-investment agreeements, AVC-Livestock utilizes anchor firms as conduits through which the program engages the broader sector—from suppliers to individual producers: Afghanistan’s farmers. The growth of the anchor firms promotes efficiency and profitability, and strengthens the entire Afghan livestock value chain with a direct and positive impact on the economy, households, and livelihoods.
 
-The Afghanistan Value Chains–Livestock (AVC-Livestock) project, funded by the U.S. Agency for International Development, takes a [market systems approach](http://dai-global-developments.com/articles/market-systems-development-a-primer-on-pro-poor-programming/) by working with promising Afghan livestock enterprises to stimulate demand and catalyze growth throughout targeted value chains. The project offers management consulting to these anchor firms to help them expand into domestic and international markets and attract private investment. By increasing productivity for farmers and downstream businesses in livestock value chains, AVC-Livestock helps raise incomes for thousands of households and create jobs for men, women, and young people.
+AVC-Livestock assists vulnerable farm communities and households severely impacted by continued regional droughts, climate change, and the lingering impacts of the COVID-19 pandemic. The program also supports activities designed to increase the domestic production of food, as imports become increasingly costly.
 
 ![AVC - Livestock web.jpg](/uploads/AVC%20-%20Livestock%20web.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Collaborate with input suppliers, farmers, aggregators, and financial institutions to better perceive and respond to market opportunities.
 * Increase productivity of firms through co-investments to procure veterinary services, upgrade processing capacity, and improve branding and packaging.
 * Support advocacy to government officials to reduce policy constraints to productivity and investment in the livestock sector.
 * Assist firms in accessing credit by providing advisory services and linking them to lending institutions.
 
-### Select Results
+## Select Results
 
 * Contacted more than 250 stakeholders for information that would help to direct the assistance the project is providing to the sector.
 * Completed a gender and youth analysis report that is guiding program intervention. More than 40 women attend a business-to-business women-only meetings and 20 microfinance institutions conducted “Women’s Access to Finance Shura” with 34 women business owners.
