@@ -17,9 +17,9 @@ DAI is supporting the Indonesian Government to host a side event on antimicrobia
 
 At least 1.27 million deaths per year are attributable to AMR, and health economists estimate that, if current trends continue, AMR could result in $100 trillion lost in economic activity and up to 10 million deaths each year by 2050.
 
-Since 2019, DAI has been working with the Government of Indonesia to stop the spread of drug resistance as part of the Fleming Fund grants program. Funded by the British government, the Fleming Fund supports more than 20 countries by boosting AMR and antimicrobial use surveillance, improving laboratory capacity and data sharing, and establishing One Health coordinating mechanisms to sustain investment in AMR containment. 
+Since 2019, DAI has been working with the Government of Indonesia to stop the spread of drug resistance as part of the Fleming Fund grants program. Funded by the British government, the [Fleming Fund](https://www.flemingfund.org/) supports more than 20 countries by boosting AMR and antimicrobial use surveillance, improving laboratory capacity and data sharing, and establishing One Health coordinating mechanisms to sustain investment in AMR containment. 
 
-> “Stronger integrated One Health antimicrobial resistance and use surveillance systems will result in better global data that informs responses and will help to ensure existing antimicrobials remain effective,” said Tom Weaver, DAI Team Leader for the Fleming Fund country grant in Indonesia, which has supported 34 labs and helped to strengthen the Indonesian government’s One Health AMR coordination system and date management.
+> “Stronger integrated One Health antimicrobial resistance and use surveillance systems will result in better global data that informs responses and will help to ensure existing antimicrobials remain effective,” said [Tom Weaver](https://www.dai.com/who-we-are/our-team/tom-weaver), DAI Team Leader for the [Fleming Fund country grant in Indonesia](https://www.dai.com/our-work/projects/indonesia-fleming-fund), which has supported 34 labs and helped to strengthen the Indonesian government’s One Health AMR coordination system and date management.
 
 The British Ambassador to Indonesia and Timor-Leste, Owen Jenkins, who joined the event, noted: 
 
