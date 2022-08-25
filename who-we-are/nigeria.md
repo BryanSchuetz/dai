@@ -28,11 +28,11 @@ layout: node
     </div>   
   </div>
 </div> 
-<p>DAI has a <a href="/uploads/nigeria-timeline.pdf">history of work</a> in Nigeria going back to the 1970s, implementing dozens of major projects for clients including the U.K. Foreign, Commonwealth & Development Office, the U.S. Agency for International Development, the European Union, and the Chevron-funded Partnership Initiatives for the Niger Delta. Ongoing projects in Nigeria include <a href="/our-work/projects/nigeria-water-sanitation-and-hygiene-coordination-project-wcp">conducting water, sanitation, and hygiene initiatives</a>; empowering women to serve as <a href="/our-work/projects/nigeria-women-for-health-w4h">nurses and midwives in Northern Nigeria</a>; promoting more <a href="/our-work/projects/nigeria-state-partnership-accountability-responsiveness-and-capability-sparc">accountable, responsive, and capable state and federal governments</a>, while building the government’s capacity to develop pro-poor public policy; and boosting incomes through <a href="/our-work/projects/nigeria-market-development-programme-made">investment and market systems in the Niger Delta</a>.</p>
+<p>DAI has implemented development projects in Nigeria since 1970, and after nearly 50 years of remote implementation, the company established a global operating platform in Nigeria—the first of many locally registered, fully fledged, corporate offices manned by professionals who bring technical expertise, local knowledge, and convening power. Since March 2018, the Nigeria team has worked in collaboration with colleagues around the world to deliver value for our clients and beneficiaries in Nigeria. Our clients include the U.K. Foreign, Commonwealth & Development Office, the U.S. Agency for International Development, the European Union, the Federal Government of Nigeria, and the Bill and Melinda Gates Foundation. Our diverse project portfolio encompasses: improving [governance and public service delivery](https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity), [strengthening democratic systems](https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii) in collaboration with the Independent National Electoral Commission; [empowering young Nigerians](https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas) to access health resources and life skills; helping government develop and implement policies that promote growth and reduce poverty; building the capacity of public officials for fiscal transparency and discipline; and through delivering a more inclusive and effective education system that leads to better learning outcomes for students.</p>
 
-DAI joined forces with GRID Consulting in 2018. The combined entity—complementing DAI’s global resources with GRID’s deep-rooted networks, insights, and track record of delivery in Nigeria—enables DAI to serve more efficiently a growing, technically diverse, multiclient portfolio in Nigeria, and to reinvest operational savings in our work and the operating platform that supports it.
+Our corporate commitment to maintain long-term operational capability in Nigeria means our clients and partners benefit from DAI expertise across our global network as we continue to expand our services to a diverse range of clients: philanthropies, foundations, private firms, and government agencies. 
 
-From this integrated platform, DAI is able to recruit, retain, support, and ensure the security of the people who deliver our work in Nigeria and the region, in full compliance with local laws and regulations and with DAI’s global standards. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and supports to partners, customers, and beneficiaries. 
+In the course of our work with international donors and the Nigerian state and federal ministries, DAI has built a rich body of knowledge and extensive networks in the private sector and at the federal, state, and local government levels. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and support partners, customers, and beneficiaries.
 
 {% include help-desk.html %}
 
@@ -52,8 +52,8 @@ From this integrated platform, DAI is able to recruit, retain, support, and ensu
 <div style="width: 45%; float: left;">
   <p>
     <strong>Lagos Office</strong><br>
-    3a Eko Akete Close<br>
-    Off St Gregory’s College Road<br>
+    28 Maitama Sule Street<br>
+    Off Awolowo Road<br>
     Ikoyi, Lagos<br>
     +234 1 291 8657<br>
   </p>
