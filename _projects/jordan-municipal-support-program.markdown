@@ -20,10 +20,13 @@ Mayors and municipal councilors, as the face of government accountability and pu
 
 The Jordan Municipal Support Program works to improve local government service delivery, stimulate local economic development, and thereby strengthen the social contract in the Kingdom.
  
-The project assists municipal “clusters”—in which multiple municipalities share tools and resources—to better serve their communities by delivering visibly improved services and infrastructure. Each cluster enhances and sustainably manages high-priority services that directly support economic development. Municipalities in each cluster will collaborate with one another, with other Jordanian government stakeholders, and with the private sector to leverage and invest in existing assets that deliver cost-effective, sustainable services and economic growth.
+The project will assist municipal “clusters”—in which multiple municipalities share tools and resources—to better serve their communities by delivering visibly improved services and infrastructure. Municipalities in each cluster will collaborate with one another, with other Jordanian government stakeholders, and with the private sector to leverage and invest in existing assets that deliver cost-effective, sustainable services and economic growth.
 
-The project will facilitate the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment. Successful service improvements and investments will build momentum for sustained individual and organizational transformation, sparking replication of successful tools and approaches that build community resilience and foster a culture of municipal excellence that embraces private enterprise and pursues local economic growth
+The project will facilitate the launch and sustainable management of private investments and public-private partnerships that deliver community-responsive services, mobilize revenue, and generate employment. Successful service improvements and investments will build momentum for sustained individual and organizational transformation, sparking replication of successful tools and approaches that build community resilience and foster a culture of municipal excellence that embraces private enterprise and pursues local economic growth.
 
 ## Sample Activities
 
-* 
+* Facilitate multi-stakeholder dialogue that highlights new voices—including unemployed youth, female home-based business owners, people with disabilities, and local environmental civil society organizations—in municipal planning.
+* Adapt the Municipal Performance and Investment Readiness tool to include a new investment readiness measurement and measure performance rather than just capacity. 
+* Support municipal clusters to establish strong plans and mechanisms for coordinated climate resilience and emergency response. 
+* Develop an action plan for implementing International Public Sector Accounting Standards and strengthening financial reporting. 
