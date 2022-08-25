@@ -21,6 +21,8 @@ promos:
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
     of COVID-19
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
+- title: 
+  link: 
 ---
 
 The  U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (USAID TradeHub) engages with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supports these objectives by increasing exports from southern African countries to South Africa and the United States (under the [AGOA](https://ustr.gov/issue-areas/trade-development/preference-programs/african-growth-and-opportunity-act-agoa)), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The USAID TradeHub works with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
@@ -31,7 +33,7 @@ The USAID TradeHub is based in Pretoria, South Africa, with resident representat
 
 <iframe src="https://player.vimeo.com/video/266114693" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
 * Commercialize agribusiness and consumer goods value chains to compete in regional and global markets.
 * Use evidence and strategic communications to advocate for regional and national governments to increase regional trade and integration.
@@ -40,7 +42,7 @@ The USAID TradeHub is based in Pretoria, South Africa, with resident representat
 * Empower local champions and institutions—especially the private sector—to lead value chain competitiveness and regional integration initiatives.
 * Integrate gender considerations throughout to maximize women entrepreneurs' engagement and competitiveness.
 
-### Select Results
+## Select Results
 
 * Finalized a €30 million loan from the European Investment Bank to the National Bank of Malawi to build commodities warehouses.
 * Collaborated with Cargill to develop a market information system in Zambia conveying spot and future grain prices benchmarked against South Africa's Grain Information Service.
@@ -51,6 +53,9 @@ The USAID TradeHub is based in Pretoria, South Africa, with resident representat
 * Facilitated $16 million in agriculture-related finance.
 * Formed 30 public-private partnerships.
 * Created 1,448 new jobs.
+
+Partnerships Toward Ecosystem Change:
+<iframe src="https://player.vimeo.com/video/743060212?h=0bf31a271f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 How the USAID TradeHub works:
 <iframe src="https://player.vimeo.com/video/497656901" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
