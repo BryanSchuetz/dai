@@ -1,7 +1,6 @@
 ---
 title: Jordan—Municipal Support Program
 date: 2022-08-25 13:48:00 Z
-published: false
 summary: The Jordan Municipal Support Program improves local government service delivery,
   stimulates local economic development, and thereby strengthens the social contract
   in the Kingdom.
