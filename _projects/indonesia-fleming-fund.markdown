@@ -22,6 +22,8 @@ The Fleming Fund is a U.K Department of Health and Social Care programme to help
 
 The Fleming Fund Country Grant to Indonesia partners include Koperasi Jasa Institut Riset Eijkman (KIRE, formerly the Eijkman Institute for Molecular Biology), Health Security Partners, The Liverpool School of Tropical Medicine, and Prevalensi. 
 
+![wantimpres photo July 12 2022.jpg](/uploads/wantimpres%20photo%20July%2012%202022.jpg)
+
 ## Sample Activities 
 
 * Conduct a political economy analysis to create a formal stakeholder map, review current AMR activities, and consider various AMR governance models. This analysis will be used to conduct an advocacy strategy for sustained high-level ownership by the government to strengthen the capacity of multisectoral coordination. 

@@ -6,7 +6,7 @@ summary: Robin Young is Principal Global Practice Specialist for DAI with 25 yea
   of experience as technical advisor and team leader on investment and financial services
   projects and engagements in developing and frontier markets.
 job-title: Senior Principal Development Specialist, Financial Services and Investment
-image: https://assetify-dai.com/experts/Young_Inner.jpg
+image: "/uploads/new%20Robin%20Young.jpg"
 solutions:
 - Economic Growth
 - Finance and Investment

@@ -1,5 +1,5 @@
 ---
-title: Mozambique—Enterprise Development Center
+title: Mozambique—Enterprise Development Center (MozUp)
 date: 2020-02-05 16:09:00 Z
 summary: 'DAI will establish and operate an Enterprise Development Center (EDC) in
   Mozambique. The Center will collaborate with the government of Mozambique and the
