@@ -2,8 +2,8 @@
 title: Kate Heuisler
 date: 2016-01-21 22:18:00 Z
 lastname: Heuisler
-summary: Kate Heuisler is a Principal Digital and Innovation Advisor.
-job-title: Principal Digital and Innovation Advisor
+summary: Kate Heuisler is Chief of Party for the Mozambique SPEED project.
+job-title: Chief of Party, Mozambique SPEED
 image: "/uploads/New%20Kate.jpg"
 solutions:
 - Digital Acceleration
@@ -11,7 +11,7 @@ solutions:
 - Innovation and Entrepreneurship
 - Digital Strategy
 regions:
-- Asia and the Pacific
+- Sub-Saharan Africa
 layout: expert
 ---
 
