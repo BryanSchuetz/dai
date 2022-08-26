@@ -24,6 +24,8 @@ promos:
   link: https://dai-global-developments.com/articles/mozambique-even-a-progressive-land-law-needs-revision-after-a-generation-of-experience
 - title: How One Geologist Built a Business and Brought Water to Thousands
   link: https://usaidpubs.exposure.co/more-water-for-everyone
+- title: Project YouTube Channel
+  link: https://www.youtube.com/channel/UCjCX20yI9s4GSmiLxcmvsmQ
 layout: project
 ---
 
