@@ -29,6 +29,6 @@ The project will facilitate the launch and sustainable management of private inv
 ## Sample Activities
 
 * Facilitate multi-stakeholder dialogue that highlights new voices—including unemployed youth, female home-based business owners, people with disabilities, and local environmental civil society organizations—in municipal planning.
-* Adapt the Municipal Performance and Investment Readiness tool to include a new investment readiness measurement and measure performance rather than just capacity. 
+* Introduce a Municipal Performance and Investment Readiness tool to measure municipal service delivery performance and capacity to attract private investment. 
 * Support municipal clusters to establish strong plans and mechanisms for coordinated climate resilience and emergency response. 
 * Develop an action plan for implementing International Public Sector Accounting Standards and strengthening financial reporting. 
