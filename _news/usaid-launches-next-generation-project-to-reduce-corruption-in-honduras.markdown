@@ -13,7 +13,7 @@ clients: U.S. Agency for International Development
 summary: DAI is again partnering with the U.S. Agency for International Development
   in Honduras on broad reform efforts to reduce impunity and corruption within the
   Honduran justice system.
-social-image: "/uploads/Screen%20Shot%202022-08-22%20at%2012.18.35%20PM.png"
+social-image: "/uploads/JECCC%20Conventionality_SPSNov-18-05302-10inch-cb92ef.jpg"
 country: Honduras
 ---
 
