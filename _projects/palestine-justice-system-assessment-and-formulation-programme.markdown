@@ -20,7 +20,7 @@ Over the last 30 years, Palestinian citizens and businesses have increasingly st
 
 Our technical assistance team is working with the Office of the European Union Representative to the West Bank and Gaza Strip, European development partners, and the Justice Sector Working Group, in the identification and formulation of an evidence-based, cross-cutting programme that promotes the rule of law and protects human rights for all Palestinians.
 
-[Justice1.JPG](/uploads/Justice1.JPG)
+![Justice1.JPG](/uploads/Justice1.JPG)
 
 ## Sample Activities
 
