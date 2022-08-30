@@ -26,12 +26,10 @@ The project worked with district officials to plan, design, implement, and monit
 
 ![][1]
 
-## Sample Activities
+## Select Results
 
-* Identify sources of instability using the Stability Analysis Mechanism tool that enables districts to pinpoint issues that undermine peace, predictability, and productivity.
-* Build Stability Working Groups of key local Afghans who host forums and together identify and discuss district sources of instability.
-* Promote district-level communication among government and nongovernment stakeholders to more efficiently create localized stability-based activities.
-* Build capacity at entities such as District Development Assemblies to address the sources of instability, provide services to their communities, and improve provincial-district coordination.
-* Support activities designed by district entities that mitigate local sources of instability.
+* Helped districts pinpoint issues that undermine peace, predictability, and productivity.
+* Promoted district-level communication among government and nongovernment stakeholders to more efficiently create localized stability-based activities.
+* Built capacity to address the sources of instability, provide services to their communities, and improve provincial-district coordination.
 
 [1]: https://assetify-dai.com/projects/sikanorth1.jpg
