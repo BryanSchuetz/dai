@@ -1,7 +1,6 @@
 ---
 title: Placeholder Page
 permalink: "/placeholder"
-layout: default
 redirect_from:
 - "/news/afghanistan-agriculture-ministry-launches-knowledge-management-facility"
 - "/news/afghanistan-holds-national-gender-summit"
@@ -20,7 +19,6 @@ redirect_from:
 - "/our-work/projects/afghanistan-alternative-development-program-eastern-region-adpe"
 - "/our-work/projects/afghanistan-assistance-building-afghanistan-development-enterprise-abade"
 - "/our-work/projects/afghanistan-assistance-legislative-bodies-afghanistan-alba"
-- "/our-work/projects/afghanistan-competitiveness-of-export-oriented-businesses-aceba"
 - "/our-work/projects/afghanistan-immediate-needs-project-nangarhar-ainp"
 - "/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new"
 - "/our-work/projects/afghanistan-local-governance-and-community-development-lgcd"
@@ -38,6 +36,7 @@ redirect_from:
 - "/our-work/projects/afghanistan-value-chains-high-value-crops"
 - "/publications/birth-new-credit-culture-afghanistan"
 - "/news/dai-project-helps-afghan-municipality-boost-tax-revenue"
+layout: default
 ---
 
 This page has been temporarily replaced following recent events in Afghanistan.
