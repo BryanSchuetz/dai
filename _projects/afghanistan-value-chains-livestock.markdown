@@ -1,7 +1,6 @@
 ---
 title: Afghanistan Value Chains (AVC)—Livestock
 date: 2018-08-15 18:30:00 Z
-published: false
 summary: The Afghanistan Value Chains–Livestock project helps livestock farmers and
   related agribusinesses to increase productivity and create jobs by expanding into
   new markets, attracting investors, and improving efficiency.
