@@ -1,7 +1,6 @@
 ---
 title: Afghanistan—Competitiveness of Export-Oriented Businesses Activity (ACEBA)
 date: 2020-01-31 10:34:00 Z
-published: false
 summary: The Afghanistan Competitiveness of Export-Oriented Businesses Activity works
   to increase the competitiveness of export-oriented businesses in Afghanistan, promoting
   sustainable nationwide economic growth.
