@@ -32,10 +32,9 @@ ASMED supported small and medium-sized enterprises (SMEs), the major drivers of 
 
 ## Select Results
 
-* Established 50 Global Development Alliances—public-private partnerships on behalf of the U.S. Agency for International Development (USAID)—leveraging $100 million from private partners.
 * Generated 95,000 jobs.
 * Organized participation in 30 international trade fairs that generated $45 million in sales for Afghan businesses.
-* Supported the next generation of Afghan leaders by helping 2,000 university students (approximately 25 percent of whom are women) complete a comprehensive internship program; another 500 (approximately 170 women) participated in the project's Young Professionals Mentorship Program.
+* Supported the next generation of Afghan leaders by helping 2,000 university students (complete a comprehensive internship program; another 500 participated in the project’s Young Professionals Mentorship Program.
 * Utilized 11 percent more local small businesses as partners than originally planned.
 
 [1]: https://assetify-dai.com/projects/asmedinner.jpg

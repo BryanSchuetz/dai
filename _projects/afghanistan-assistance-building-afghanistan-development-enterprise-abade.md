@@ -1,7 +1,6 @@
 ---
 title: Afghanistan—Assistance in Building Afghanistan by Development Enterprise (ABADE)
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: ABADE aims to increase domestic and foreign investment, stimulate employment,
   and improve sales of Afghan products. By funding Afghan businesses that have viable
   plans and matching funds, ABADE helps these businesses mitigate the financial risk
