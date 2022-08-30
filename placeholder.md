@@ -32,7 +32,6 @@ redirect_from:
 - "/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar"
 - "/our-work/projects/afghanistan-women-in-the-economy"
 - "/our-work/projects/regional-agricultural-development-program-radp-east"
-- "/our-work/projects/afghanistan-value-chains-high-value-crops"
 - "/publications/birth-new-credit-culture-afghanistan"
 - "/news/dai-project-helps-afghan-municipality-boost-tax-revenue"
 layout: default
