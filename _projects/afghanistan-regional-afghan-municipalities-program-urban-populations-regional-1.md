@@ -2,7 +2,6 @@
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command West (RAMP UP West)
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: 'The Regional Afghan Municipalities Program for Urban Populations, Regional
   Command West project helped the Government of the Islamic Republic of Afghanistan
   establish capable, legitimate governance at the municipal level in all four provincial
