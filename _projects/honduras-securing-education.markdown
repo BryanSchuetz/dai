@@ -18,6 +18,8 @@ country: Honduras
 promos:
 - title: Early Warning and Response System Increases School Enrollment and Retention
   link: https://dai-global-developments.com/articles/early-warning-and-response-system-increases-school-enrollment-and-retention
+- title: Mainstreaming Gender Equity and Inclusion in Honduran Schools
+  link: https://dai-global-developments.com/articles/mainstreaming-gender-equity-and-inclusion-in-honduran-schools
 - title: 'A Shift in Mindset: Distance Learning during COVID-19 Boosts Participation
     in Honduras'
   link: https://dai-global-developments.com/articles/a-shift-in-mindset-distance-learning-during-covid-19-boosts-participation-in-honduras
@@ -36,7 +38,7 @@ The *Asegurando la Educación* (Securing Education) program, funded by the U.S. 
 
 <iframe src="https://player.vimeo.com/video/340415699" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
 * [Assist teachers and administrators](http://dai-global-developments.com/articles/baseline-study-prompts-school-officials-to-counter-violence-in-honduras/) to integrate locally tailored violence-prevention techniques into curriculum development, teacher training, and after-school activities.
 * Provide grants and technical assistance to schools, community organizations, and social service partners to pilot customized prevention services.
@@ -44,11 +46,11 @@ The *Asegurando la Educación* (Securing Education) program, funded by the U.S. 
 * Collaborate with the Ministry of Education to develop and implement protocols to help school staff address and mitigate violence.
 * Train schools and education centers on applying screening models to identify high-risk youth for early intervention and additional support.
 
-### Select Results
+## Select Results
 
 * [Launched](https://dai-global-developments.com/articles/early-warning-and-response-system-increases-school-enrollment-and-retention) the Early Warning and Response System (EWRS) to increase school enrollment and retention after COVID-19 crisis. To date, the project has trained 30,223 educators in 13,593 schools across the country in EWRS retention and enrollment activities.
 * Helped 23 schools design and submit plans for reopening after COVID, enabling 10,999 students to return to the classroom, ultimately improving retention and decreasing the risk of irregular migration.
-* Created and delivered Teacher Wellbeing sessions providing strategies to reduce stress and strengthen social-emotional skills. By promoting the sessions to benefit more than 11,136 educators, the team created healthier learning environments for nearly 800,000 students, ultimately curbing irregular migration. 
+* Created and delivered Teacher Well-being sessions providing strategies to reduce stress and strengthen social-emotional skills. By promoting the sessions to benefit more than 11,136 educators, the team created healthier learning environments for nearly 800,000 students, ultimately curbing irregular migration. 
 * Launched the Educators for Peace e-Learning Training with a webinar that reached more than an estimated 464,800 people through television broadcasts and Facebook Live. 
 * Reached more than 558,287 individuals through the Curbing Migration communications campaign and hired and trained 159 new university fellows, who support retention activities for 102,316 students.
 * Designed and implemented a sports-based, social-emotional learning program, training physical education teachers to deliver it in 88 schools. The project has trained 152 educators and 47 education authorities to conduct 25 sessions, which has benefitted 2,077 students. 
