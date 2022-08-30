@@ -1,37 +1,36 @@
 ---
 title: Afghanistan—Small and Medium Enterprise Development (ASMED)
-date: 2016-01-21 22:40:52 Z
-published: false
-client: U.S. Agency for International Development
-start: 2006
-end: 2012
-regions:
-- Eastern Europe and Central Asia
-country:
-- Afghanistan
-solutions:
-- Economic Growth
-- Gender
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'ASMED supported small and medium-sized enterprises (SMEs), the major drivers
   of Afghanistan''s economic development. Through support for investment, technology,
   and business development services, ASMED improved private sector productivity by
   expanding SMEs and increasing employment.
 
 '
+start: 2006
+end: 2012
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+- Gender
+regions:
+- Eastern Europe and Central Asia
+country:
+- Afghanistan
+layout: project
 ---
 
 ASMED supported small and medium-sized enterprises (SMEs), the major drivers of Afghanistan's economic development. Through support for investment, technology, and business development services, ASMED improved private sector productivity by expanding SMEs and increasing employment. ASMED collaborated with Afghan private sector and international partners in key sectors such as agribusiness, carpets, marble, gemstones, and business services. We also facilitated public-private partnerships, grants, and practical and technical training. In its final year, ASMED concentrated on creating professional, commercial linkages among SMEs in 25 key districts.
 
 ![][1]
 
-###  Sample Activities
+## Sample Activities
 
 * Help establish small and medium-sized businesses and create full-time jobs in Afghanistan.
-* Train Afghan men and women in business courses.
-* Establish business associations (25 for women alone), and support the growth of associations through grants.
+* Train Afghans in business courses.
+* Establish business associations and support the growth of associations through grants.
 
-###  Select Results
+## Select Results
 
 * Established 50 Global Development Alliances—public-private partnerships on behalf of the U.S. Agency for International Development (USAID)—leveraging $100 million from private partners.
 * Generated 95,000 jobs.
