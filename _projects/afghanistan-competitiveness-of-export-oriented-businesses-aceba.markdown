@@ -19,8 +19,6 @@ DAI’s market-oriented approach helps Afghan businesses increase the sales-wort
 
 After a brief suspension of most activities between August and December 2021, ACEBA resumed work prioritizing livelihoods support, focusing on domestic production activities and humanitarian goods and services that will sustain households. The project supports activities that improve market performance, while maintaining existing efforts focused on its key value chains of saffron, cashmere, and carpets, and creates a new value chain for humanitarian goods and services. 
 
-![Marble Photo (8).JPG](/uploads/Marble%20Photo%20(8).JPG)
-
 ## Sample Activities
 
 * Provide support to the implementation of key value chain interventions that will improve inputs, quality, and product development by exporters. 
