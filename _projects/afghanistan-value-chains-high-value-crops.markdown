@@ -25,7 +25,7 @@ The Afghanistan Value Chains–Crops (AVC) project promotes rapid, inclusive, an
 
 In its final year, the project addresses the food emergency affecting 22 percent of Afghans and utilizes its existing partnerships with more than 200 agribusinesses to reach Afghans across the country. The project supports 25,000 farmers to grow wheat for their own consumption and supply to the domestic market. The project will also provide seeds, fertilizers, and training to 10,000 rural women to create gardens that will supplement the food needs of their households. These activities will result in the production of more than 30,000 metric tons of wheat with an estimated value of $3.6 million—enough to feed 345,000 Afghans. In 2023, the project will support 5,000 farmers to grow legume crops and 5,000 to grow rice.  
 
-![Crops.png](/uploads/Crops.png) 
+![Afghanistan Crops.png](/uploads/Afghanistan%20Crops.png)
 
 ## Sample Activities
 
