@@ -2,10 +2,10 @@
 title: Jacqui Moller Larsen
 date: 2021-09-20 11:25:00 Z
 lastname: Moller Larsen
-summary: 'As Senior Practice Lead, Health Equity, Jacqui Moller Larsen provides thought
-  leadership and technical input into the design and implementation of projects in
-  a broad range of health areas for a diverse set of clients. '
-job-title: Senior Practice Lead, Health Equity
+summary: 'As Senior Global Practice Leader for Health Equity, Jacqui Moller Larsen
+  provides thought leadership and technical input into the design and implementation
+  of projects in a broad range of health areas for a diverse set of clients. '
+job-title: Senior Global Practice Leader, Health Equity
 image: "/uploads/Jacqui%20Larsen.jpg"
 solutions:
 - Global Health
@@ -14,7 +14,7 @@ regions:
 - Worldwide
 ---
 
-As Senior Practice Lead, Health Equity, Jacqui Moller Larsen provides thought leadership and technical input into the design and implementation of projects in a broad range of health areas for a diverse set of clients. Additionally, her role promotes connectivity across our health practice areas that create multi-sectoral responses to complex health issues as well as the inclusion of evidence-based, crosscutting approaches to tackling social determinants such as social and behavior change.
+As Senior Global Practice Leader for Health Equity, Jacqui Moller Larsen provides thought leadership and technical input into the design and implementation of projects in a broad range of health areas for a diverse set of clients. Additionally, her role promotes connectivity across our health practice areas that create multi-sectoral responses to complex health issues as well as the inclusion of evidence-based, crosscutting approaches to tackling social determinants such as social and behavior change.
 
 Jacqui has 25 years of experience in public health, leadership development, and organizational change management in both the United Kingdom and low-income countries and has lived and worked in Africa and Asia.
 
