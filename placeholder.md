@@ -13,9 +13,6 @@ redirect_from:
 - "/news/dai-project-helps-afghan-municipality-boost-tax-revenue"
 - "/news/hundreds-women-and-children-afghanistan-assisted-linda-norgrove-foundation"
 - "/news/linda-norgrove-foundation-supports-high-performing-school-in-rural-afghanistan"
-- "/our-work/projects/afghanistan-regional-agricultural-development-program-radp-north"
-- "/our-work/projects/afghanistan-small-and-medium-enterprise-development-asmed"
-- "/our-work/projects/afghanistan-women-in-the-economy"
 - "/publications/birth-new-credit-culture-afghanistan"
 - "/news/dai-project-helps-afghan-municipality-boost-tax-revenue"
 layout: default
