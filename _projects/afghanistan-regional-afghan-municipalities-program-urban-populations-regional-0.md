@@ -2,7 +2,6 @@
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command North (RAMP UP North)
 date: 2016-01-21 22:40:00 Z
-published: false
 summary: 'This project addressed these challenges and helped the Government of the
   Islamic Republic of Afghanistan (GIRoA) establish capable, legitimate governance
   at the municipal level in nine provincial capitals. '
