@@ -2,9 +2,10 @@
 title: Afghanistan—Regional Afghan Municipalities Program for Urban Populations, Regional
   Command East (RAMP UP East)
 date: 2016-01-21 22:40:00 Z
-published: false
-summary: 'The Regional Afghan Municipalities Program for Urban Populations, Regional
-  Command East (RAMP UP East) supported 14 provincial capitals. '
+summary: The Regional Afghan Municipalities Program for Urban Populations, Regional
+  Command East (RAMP UP East) supported 14 provincial capitals. Its primary customers
+  were municipal officials such as mayors, revenue officers, and engineers as well
+  as the citizens who benefit from municipal services.
 start: 2010
 end: 2014
 client: U.S. Agency for International Development
@@ -19,8 +20,6 @@ country:
 - Afghanistan
 layout: project
 ---
-
-Afghan municipalities have long suffered from underinvestment, limited support, low revenues, and weak institutional capacity. As a result, services and infrastructure in municipalities are minimal. Few have piped water systems or consistent city power—lack of access to electricity is common. Inadequate sanitation services result in high rates of infant mortality. Community and social amenities are deteriorated or absent.
 
 The Regional Afghan Municipalities Program for Urban Populations, Regional Command East (RAMP UP East) supported 14 provincial capitals. Its primary customers were municipal officials such as mayors, revenue officers, and engineers as well as the citizens who benefit from municipal services.
 
@@ -42,7 +41,7 @@ RAMP UP East helped municipalities implement projects through which local offici
 * Launched performance-oriented budgeting in 10 RAMP UP East municipalities.
 * Developed economic profiles and Local Economic Development Plans for 13 municipalities.
 * Initiated three public-private partnerships to enhance municipal revenue.
-* Offered anticorruption training to 300 participants, 212 municipal officials and 88 civil society members.
+* Offered anticorruption training to 300 participants—212 municipal officials and 88 civil society members.
 * Provided training on public participation in local governance to 3,765 citizens.
 * Facilitated a professional fellowship program for 52 municipal offices or local nongovernmental organizations.
 * Supported 500 entrepreneurs through business training and local craft exhibitions.
