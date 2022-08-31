@@ -1,10 +1,8 @@
 ---
 title: Afghanistan—Assistance to Legislative Bodies of Afghanistan (ALBA)
 date: 2016-01-21 22:40:00 Z
-summary: The Assistance to Legislative Bodies of Afghanistan prepared both houses
-  of Parliament for greater self-reliance. The program provided issue-based assistance
-  that focused training and capacity building on actual bills or policies that Members
-  of Parliament and staff were addressing.
+summary: 'The Assistance to Legislative Bodies of Afghanistan (ALBA) project prepared
+  both houses of Parliament for greater self-reliance. '
 start: 2013
 end: 2018
 client:
@@ -20,11 +18,6 @@ regions:
 - Eastern Europe and Central Asia
 country:
 - Afghanistan
-promos:
-- title: 'From Desert, Mountain, and Plain: Afghanistan’s First-Ever Nomad Gathering'
-  link: https://dai-global-developments.com/articles/from-desert-mountain-and-plain-afghanistans-first-ever-nomad-gathering
-- title: Sexual Harassment Law Passes Afghan Houses
-  link: https://dai-global-developments.com/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval
 layout: project
 ---
 
@@ -46,6 +39,6 @@ The Assistance to Legislative Bodies of Afghanistan (ALBA) project prepared both
 * Conducted 195 training sessions for Secretariat and Ministry of Parliamentary Affairs staff, advisors, and ALBA Fellows.
 * Sponsored 34 public forums that allow parliamentarians and the public to interact.
 * Published 33 publications for Parliament.
-* Supported parliamentarians as they crafted and passed more than 50 laws, including the [Anti-Harassment Law](http://dai-global-developments.com/articles/law-to-criminalize-sexual-harassment-passed-by-afghan-parliament-awaits-presidents-approval?utm_source=daidotcom) to protect women.
+* Supported parliamentarians as they crafted and passed more than 50 laws.
 
 [1]: https://assetify-dai.com/projects/ALBAsite.jpg
