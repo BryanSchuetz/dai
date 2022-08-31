@@ -17,7 +17,6 @@ redirect_from:
 - "/our-work/projects/afghanistan-agricultural-credit-enhancement-program-i-ii-ace"
 - "/our-work/projects/afghanistan-alternative-development-program-eastern-region-adpe"
 - "/our-work/projects/afghanistan-assistance-legislative-bodies-afghanistan-alba"
-- "/our-work/projects/afghanistan-incentives-driving-economic-alternatives-north-east-and-west-idea-new"
 - "/our-work/projects/afghanistan-musharikat"
 - "/our-work/projects/afghanistan-regional-afghan-municipalities-program-urban-populations-regional-0"
 - "/our-work/projects/afghanistan-regional-afghan-municipalities-program-urban-populations-regional-1"
