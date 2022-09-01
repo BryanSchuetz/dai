@@ -21,9 +21,9 @@ The U.S. Agency for International Development-funded [Business Egypt](https://ww
 
 The initiative is part of the country’s efforts to combat climate change ahead of the UN Climate Change Conference 2022 ([COP27](https://sdg.iisd.org/events/2021-un-climate-change-conference-unfccc-cop-27/)), which Egypt is set to host November 6-18 in Sharm El-Sheikh.
 
-The DAI-led Business Egypt team is managing the [online platform](https://climatechrun.com/) for the competition, providing virtual space for sharing ideas and designing climate solutions. 
-
 ![2-e8a34a.jpg](/uploads/2-e8a34a.jpg)`(From left) Kanayo Awani, Executive Vice President of Afreximbank; Nicole Shampaine, Chargé d’Affairs of the U.S. Embassy to Cairo; Amr Talaat, Minister of Communications and Information Technology; Dr. Rania Al-Mashat, the Egyptian Minister of International Cooperation; Dr. Yasmine Fouad, Minister of Environment; Aser Yassin, Egyptian actor; Hisham El-Nazer, Country Director of Google Egypt; and Praveen Agrawal, Representative and Country Director of the World Food Program in Egypt.`
+
+The DAI-led Business Egypt team is managing the [online platform](https://climatechrun.com/) for the competition, providing virtual space for sharing ideas and designing climate solutions. 
 
 At [the launch event](https://www.egypttoday.com/Article/3/118570/Egypt-launches-ClimaTech-RUN-2022-initiative), U.S. Chargé d’Affaires in Cairo Nicole Shampaine said, “Climate change is a threat that sees no borders. The United States is committed to dealing with the climate crisis and cooperating with our global partners to strengthen our shared climate ambition.” 
 
