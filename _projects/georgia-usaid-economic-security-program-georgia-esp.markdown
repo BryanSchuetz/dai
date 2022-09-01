@@ -33,17 +33,18 @@ The program intends to create at least 4,800 new jobs, support at least 720 smal
 
 ![Batumi_port_Barry_Kent.jpg](/uploads/Batumi_port_Barry_Kent.jpg "Photo by Barry Kent.")
 
-### Sample Activities
+## Sample Activities
 
 * Strengthen cooperation in targeted sectors.
 * Support micro, small, and medium-sized enterprises to improve productivity, sales, and quality, and to develop new products and services.
 * Develop industry-led workforce.
 * Build public-private partnerships.
 
-### Select Results
+## Select Results
 
-* Supported the Georgian Anti-Piracy Center to produce videos informing the public about illegal content and intellectual property rights. The videos provide statistical data, specific examples, and the details about impact of internet piracy. 
+* Supported the Georgian Anti-Piracy Center to produce videos informing the public about illegal content and intellectual property rights. The videos provide statistical data, specific examples, and the details about the impact of internet piracy. 
 * Produced a video tour of Samtskhe-Javakehi [that was selected](https://www.dai.com/news/usaid-backed-video-wins-world-tourism-organization-contest) as the best in Europe and one of the five best in the world in the Promotion and Decade of Action category of the United Nations World Tourism Organization's [Tourism Video Competition](https://www.unwto.org/news/2021-unwto-tourism-video-competition-winners).
 * Partnered with global e-commerce platform Etsy to onboard more than 100 Georgian artisans, many of whom had lost their traditional sales channels because of the COVID-19 pandemic. 
 * Finalized a partnership with Mastercard to achieve specific developmental goals in terms of e-commerce and digitalization, while at the same time utilizing the company’s vast marketing and promotion effort to build overall visibility for Georgia’s positioning within the knowledge economy.
 * Helped operationalize a formerly dormant building, called the Shuamta Gateway, to provide tourists with food and beverage options, services such as four-wheeling, hiking, and horseback riding, and informational services. The building is near the [Alaverdi Heritage Trail](https://hikearmenia.org/all-trails/trail/world-heritage-trail), another tourist attraction.
+* Since the project began working with [Enterprise Georgia](https://www.enterprisegeorgia.gov.ge/en), its rank among investment promotion agencies discussed in the [2022 Emerging Europe Investment Promotion Report](https://emerging-europe.com/investment-promotion-report-2022/) increased from 17th in 2019 to 5th in 2022.
