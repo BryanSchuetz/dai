@@ -18,6 +18,7 @@ regions: Middle East and North Africa
 country: Egypt
 promos:
 - title: USAID Business Egypt Project Supports the Global ClimaTech Run 2022
+  link: https://www.dai.com/news/usaid-business-egypt-project-supports-the-global-climatech-run-2022
 ---
 
 The sustainable, inclusive economic growth foreseen by [Egypt Vision 2030](https://en.wikipedia.org/wiki/Egypt_Vision_2030) will depend on the ability of Egypt’s private enterprises to grow, create jobs, and adapt to market changes without donor support. Egypt’s private sector can recover successfully from pandemic-inflicted economic damage and make major strides toward sustainable growth with support from the U.S. Agency for International Development’s Business Egypt activity. 
@@ -28,7 +29,7 @@ DAI’s implementation approach makes maximum use of Egyptian resources. The bul
 
 ![DSC00310.JPG](/uploads/DSC00310.JPG)
 
-### Sample Activities
+## Sample Activities
 
 * Boost networks among women-focused ecosystem actors to improve women’s access to mentors, finance, and information and to strengthen incubators and accelerators to cater to women.
 * Support businesswomen’s associations to advocate for changes to existing practices, such as assessment of women-owned businesses as high risk by banks and investors. 
@@ -36,4 +37,3 @@ DAI’s implementation approach makes maximum use of Egyptian resources. The bul
 * Establish sector-specific accelerators.
 * Build capacity of business development service centers, facilitate networks with financial institutions, and broker linkages with anchor firms.
 * Simplify tax policies, regulations, and processes for MSMEs.
- 
