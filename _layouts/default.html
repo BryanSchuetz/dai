@@ -3,7 +3,7 @@
   {% include iehacks.html %}
   {% include head.html %}
   
-  <body class="{% if page.ultrawide == true %}newpromo {% endif %}{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate' or page.title == 'DAI in Pakistan' or page.title == 'Sustainable Business' or page.title == 'DAI in Oman' or page.url contains '/our-work/solutions/global-health'-%} newpromo{%- endif -%}" >
+  <body class="{% if page.ultrawide == true %}newpromo {% endif %}{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate' or page.title == 'DAI in Pakistan' or page.title =='DAI Capital' or page.title == 'Sustainable Business' or page.title == 'DAI in Oman' or page.url contains '/our-work/solutions/global-health'-%} newpromo{%- endif -%}" >
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}

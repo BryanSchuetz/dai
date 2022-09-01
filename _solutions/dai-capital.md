@@ -7,16 +7,6 @@ icon: <svg class="capital-badge badge" viewBox="0 0 100 100" preserveAspectRatio
 summary: Dedicated to mobilizing private capital in frontier and emerging markets,
   DAI Capital is the advisory and investment arm of DAI.
 type: primary
-promos:
-- title: "**News:** DAI Invests in ThinkMD"
-  link: "/news/dai-invests-in-thinkmds-clinical-assessment-technology"
-- title: "**News:** DAI Invests in ClickMedix"
-  link: "/news/dai-global-health-invests-in-mhealth-leader-clickmedix"
-- title: "**News:** DAI Invests in MobileODT"
-  link: "/news/dai-invests-in-mobileodt-a-breakthrough-provider-of-cervical-cancer-detection-tech"
-- title: "**Blog:** New Research Offers Alternatives for Frontier Market Venture Capital
-    and Private Equity"
-  link: https://dai-global-developments.com/articles/new-research-offers-alternatives-for-frontier-markets
 related: false
 hero: true
 layout: solution
