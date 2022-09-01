@@ -20,6 +20,9 @@ regions:
 articles:
 - name: Solutions to combat sexual exploitation in the aid sector examined
   article_file: https://parliamentlive.tv/Event/Index/620bcf77-ad6f-4607-8b3f-bcdb85edd613
+- name: 'Madam Policy Podcast Guest Sarah Maguire:  *Lessons in Leadership from a
+    Champion of Women and Girls*'
+  article_file: https://podcasts.apple.com/us/podcast/dais-trailblazer-sarah-maguire-show-people-what-they/id1570666986?i=1000577927981
 layout: expert
 ---
 
