@@ -16,6 +16,8 @@ solutions:
 - Business Environment Reform
 regions: Middle East and North Africa
 country: Egypt
+promos:
+- title: USAID Business Egypt Project Supports the Global ClimaTech Run 2022
 ---
 
 The sustainable, inclusive economic growth foreseen by [Egypt Vision 2030](https://en.wikipedia.org/wiki/Egypt_Vision_2030) will depend on the ability of Egypt’s private enterprises to grow, create jobs, and adapt to market changes without donor support. Egypt’s private sector can recover successfully from pandemic-inflicted economic damage and make major strides toward sustainable growth with support from the U.S. Agency for International Development’s Business Egypt activity. 
