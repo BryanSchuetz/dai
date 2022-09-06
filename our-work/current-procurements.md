@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFP Curriculum ASEAN Logistics Training(https://dai-assets.s3.amazonaws.com/rfps/RFP%20Curriculum%20ASEAN%20Logistics%20Training_1sept22.pdf "10/1")
 * [RFA-2022-16_WiC Research](/uploads/RFA-2022-16_WiC%20Research.pdf "9/29")
 * [Request for quotes for translation service Q&A](https://dai-assets.s3.amazonaws.com/rfps/RFP%20Q%26A.docx%20-.pdf "9/30")
 * [Request for quotes for translation services](https://dai-assets.s3.amazonaws.com/rfps/RFQ%20-%20Simplified%20Acquisition_CIDR%20Translation%20Services-FINAL.pdf "9/30")
