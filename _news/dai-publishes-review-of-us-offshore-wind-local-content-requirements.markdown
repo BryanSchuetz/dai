@@ -5,6 +5,7 @@ published: false
 summary: DAI has published a new technical report that reviews the requirements for
   local content and economic benefit requirements for offshore wind projects constructed
   in the United States.
+country: US
 ---
 
 DAI has published a new technical report that reviews the requirements for local content and economic benefit requirements for offshore wind projects constructed in the United States. The report, “U.S. Federal and State Local Content Requirements for Offshore Wind Projects”, analyses both the federal and state level local content requirements and discusses new Jersey as a reference case.

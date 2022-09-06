@@ -1,11 +1,10 @@
 ---
 title: Tate Crowards
 date: 2020-06-02 09:51:00 Z
-order: 18
 lastname: Crowards
-summary: Tate Crowards is an Associate Analyst with the Sustainable Business Group
-  (SBG) with a background in research synthesis and both qualitative and quantitative
-  analysis.
+summary: Tate Crowards is an economist leading numerous development projects globally
+  focused on local content policy, supplier and workforce development, and sustainable
+  financing.
 job-title: Analyst
 image: "/uploads/Tate%20Crowards.png"
 solutions:
@@ -18,6 +17,7 @@ articles:
   article_file: https://dai-global-developments.com/articles/why-aligning-with-the-sdgs-helps-energy-companies-position-for-growth-and-how-to-do-it?utm_source=daidotcom
 - name: Three Key Elements in Developing Local Content Policy for the Renewables Sector
   article_file: https://dai-global-developments.com/articles/three-key-elements-in-developing-local-content-policy-for-the-renewables-sector
+order: 18
 ---
 
 Tate Crowards is an Analyst in DAI’s Sustainable Business Group managing a portfolio of projects in supplier development, SME green financing, and economic growth through entrepreneurship. With a background in research synthesis and both qualitative and quantitative economic analysis, Tate assists with the technical delivery of corporate social investment and local content projects globally. She has conducted industrial baseline studies, developed industry supply chain mapping and analysis, and has instructed on the use of competitiveness assessments for local content forecasting and policy development. 
