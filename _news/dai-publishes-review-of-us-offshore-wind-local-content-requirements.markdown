@@ -2,6 +2,8 @@
 title: DAI Publishes Review of Local Content Requirements for U.S. Offshore Wind Projects
 date: 2022-09-03 15:54:00 Z
 published: false
+solutions:
+- Sustainable Business
 summary: DAI has published a new technical report that reviews the requirements for
   local content and economic benefit requirements for offshore wind projects constructed
   in the United States.
@@ -26,4 +28,6 @@ Michael Warner, Senior Advisor to DAI’s Sustainable Business Group and Founder
 
 [Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), Economist at DAI’s Sustainable Business Group said that: “The local content requirements and incentives being deployed will require time to be implemented, and success will need to be evidenced through comprehensive and continual measurement, evaluation, and learning in both the public and private sectors.”
 
-The report concludes that local content requirements will likely remain integral to federal-level wind leasing and state-level power purchasing and will continue to be increasingly targeted in terms of delivering specified industrial development outcomes with policymakers progressively augmenting regulation with the aim of building domestic supply chains that support, rather than undermine, investment and growth in the U.S. OSW sector.
+The report concludes that local content requirements will likely remain integral to federal-level wind leasing and state-level power purchasing and will continue to be increasingly targeted in terms of delivering specified industrial development outcomes with policymakers progressively augmenting regulation with the aim of building domestic supply chains that support, rather than undermine, investment and growth in the U.S. OSW sector.\
+\
+*[Contact the report authors ](mailto:contact_sbg@dai.com)*
