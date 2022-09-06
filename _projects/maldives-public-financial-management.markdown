@@ -29,3 +29,9 @@ By the end of the program, Maldives will have the fiscal space and management ca
 * Support the Government of Maldives as they put policies and procedures in place to create “green budgeting.” 
 * Evaluate procurement processes for capital projects and re-engineer processes to align public contracting with current law and international open contracting standards.
 * Increase transparency and bottom-up accountability by incorporating public engagement, including by atoll councils, women’s development committees, and private contractor associations. 
+
+## Select Results
+
+* Enhanced the country's transparency, system design, monitoring, and auditing processes to reduce corruption and improve integrity in the overall budgeting process. More than 530 government staff were involved in formal capacity building to increase the effectiveness in managing public finances. 
+* Trained more than 100 government officials on project feasibility methodologies.
+* Developed awareness and familiarity for 491 government officials in budgeting for new project initiatives.
