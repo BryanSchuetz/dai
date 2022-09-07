@@ -38,3 +38,4 @@ The [Nguriza Nshore](http://www.ngurizanshore.rw/) (“Lend so that I may invest
 * Facilitated the creation of 1,927 jobs.
 * Leveraged more than $1.6 million in private and U.S. Government investment.
 * Assisted the Government of Rwanda in developing an Entrepreneurship Development Policy.
+* Developed an agribusiness strategy including processes, financial products, and de-risking mechanisms for the Bank of Kigali. The strategy followed the bank’s launch of an SME center, which helps the bank to get closer to small business customers with the aim of understanding their needs and to offer tailor-made financial and non-financial services.
