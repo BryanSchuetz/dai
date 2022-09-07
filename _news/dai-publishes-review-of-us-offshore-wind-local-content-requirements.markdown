@@ -11,10 +11,10 @@ social-image: "/uploads/1OSW%20Report%20cover-de4444.png"
 country: US
 ---
 
-DAI has published a new technical report that reviews local content and economic benefit requirements for offshore wind projects in the United States. The report, *U.S. Federal and State Local Content Requirements for Offshore Wind Projects*, analyzes both federal and state-level local content requirements and discusses New Jersey as a reference case.\
+DAI has published a new technical report that reviews local content and economic benefit requirements for offshore wind projects in the United States. The report, *U.S. Federal and State Local Content Requirements for Offshore Wind Projects*, analyzes both federal and state-level local content requirements and discusses New Jersey as a reference case.
 \
 <div data-tf-widget="OARosYGo" data-tf-transitive-search-params="utm_source, utm_campaign" data-tf-hide-headers data-tf-iframe-props="title=Wind Energy Report Leads" data-tf-medium="snippet" data-tf-hidden="utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>\
-\
+
 U.S. federal and state agencies are increasingly embedding local content requirements and incentives within their criteria for developing large renewable projects. The report unpacks the key policy instruments for promoting local content in the U.S. offshore wind sector. These include the Inflation Reduction Act, the Jones Act, federal wind lease sales, state-level power purchase auctions, and federal and state grants and tax incentives to stimulate the U.S. domestic workforce and supply chain development.
 
 Behind these local content requirements lies the new enthusiasm of governments for policies that encourage domestic industrial transformation and local “green jobs”* *as outcomes of capital investments in renewable energy projects.
