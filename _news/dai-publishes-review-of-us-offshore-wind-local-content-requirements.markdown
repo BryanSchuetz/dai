@@ -10,9 +10,9 @@ summary: DAI has published a new technical report that reviews the requirements 
 country: US
 ---
 
-DAI has published a new technical report that reviews the requirements for local content and economic benefit requirements for offshore wind projects constructed in the United States. The report, “U.S. Federal and State Local Content Requirements for Offshore Wind Projects”, analyses both the federal and state level local content requirements and discusses new Jersey as a reference case.
+![1OSW Report cover.png](/uploads/1OSW%20Report%20cover.png){.float-left}DAI has published a new technical report that reviews the requirements for local content and economic benefit requirements for offshore wind projects constructed in the United States. The report, “U.S. Federal and State Local Content Requirements for Offshore Wind Projects”, analyses both the federal and state level local content requirements and discusses new Jersey as a reference case.
 
-<button data-tf-popup="OARosYGo" data-tf-iframe-props="title=Wind Energy Report Leads" data-tf-medium="snippet" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#DA4F25;color:#FFFFFF;font-size:20px;border-radius:7px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Request Report</button><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="OARosYGo" data-tf-hide-headers data-tf-iframe-props="title=Wind Energy Report Leads" data-tf-medium="snippet" data-tf-hidden="utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 U.S. federal and state agencies are increasingly embedding local content requirements and incentives within the development of large-scale renewable projects. The report unpacks the key policy instruments for leveraging local content in the U.S. offshore wind sector. These include the Inflation Reduction Act, the Jones Act, federal-level wind lease sales, state-level power purchase auctions, and federal- and state-level grants and tax incentives to stimulate the U.S. domestic workforce and supply chain development.
 
