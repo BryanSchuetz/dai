@@ -26,5 +26,5 @@ He has participated in the development and implementation of the second and thir
 He is co-author of books such as *Introducción a las políticas públicas: Conceptos y herramientas desde la relación entre Estado y ciudadanía* (2013), *Metodología para la actuación preventiva de la Procuraduría General de la Nación en las diferentes etapas del ciclo de las políticas públicas* (2011), and has published numerous articles and chapters in books.
 
 * M.A., development management, London School of Economics
-* Specialist., development planning and administration, Universidad de los Andes
+* Specialist, development planning and administration, Universidad de los Andes
 * B.A., civil engineering, Universidad Nacional de Colombia
