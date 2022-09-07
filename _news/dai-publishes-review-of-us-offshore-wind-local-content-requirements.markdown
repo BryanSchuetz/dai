@@ -19,7 +19,7 @@ U.S. federal and state agencies are increasingly embedding local content require
 
 Behind these local content requirements lies the new enthusiasm of governments for policies that encourage domestic industrial transformation and local “green jobs” as outcomes of capital investments in renewable energy projects.
 
-[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Vice President of [DAI’s Sustainable Business Group,](https://www.dai.com/our-work/solutions/sustainable-business) said, 
+[Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Vice President of [DAI’s Sustainable Business Group,](https://www.dai.com/our-work/solutions/sustainable-business) said,
 
 > “The right policy instruments and incentives in the offshore wind sector could be key in improving domestic energy security, creating local jobs, and achieving net zero.”
 
@@ -33,4 +33,4 @@ The imperative to achieve net zero has placed investment in renewables at the fo
 
 The report concludes that local content requirements will likely remain integral to federal-level wind leasing and state-level power purchasing, and will increasingly be designed to deliver specified industrial development outcomes, with policy makers progressively augmenting regulation that builds domestic supply chains in order to support, rather than undermine, investment and growth in the U.S. offshore wind sector.
 
-*[Contact the report authors ](mailto:contact_sbg@dai.com)*\
+*[Contact the report authors ](mailto:contact_sbg@dai.com)*
