@@ -25,7 +25,7 @@ The acceleration toward net zero has placed investment in renewables at the fore
 
 Michael Warner, Senior Advisor to DAI’s Sustainable Business Group and Founder of the Centre for Local Content Innovation said, “To accomplish these economic development goals, governments like that in the U.S. are embedding local content requirements in the development of large-scale renewable development projects. Similar requirements are being used elsewhere in places like the United Kingdom, indicating a global trend toward leveraging local content requirements in renewable energy projects as a new economic policy tool.”
 
-[Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), Economist at DAI’s Sustainable Business Group said that: “The local content requirements and incentives being deployed will require time to be implemented, and success will need to be evidenced through comprehensive and continual measurement, evaluation, and learning in both the public and private sectors.”
+[Tate Crowards](https://www.dai.com/who-we-are/our-team/tate-crowards), Economist at DAI’s Sustainable Business Group said that: “The local content requirements and incentives being deployed will require time to be implemented, and success will need to be evidenced through comprehensive and continual measurement, evaluation, and learning in both the public and private sectors.” 
 
 <div data-tf-widget="OARosYGo" data-tf-hide-headers data-tf-iframe-props="title=Wind Energy Report Leads" data-tf-medium="snippet" data-tf-hidden="utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
