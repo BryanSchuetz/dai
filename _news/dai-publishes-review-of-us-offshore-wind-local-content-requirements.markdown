@@ -1,6 +1,6 @@
 ---
 title: DAI Publishes Review of Local Content Requirements for U.S. Offshore Wind Projects
-date: 2022-09-07 15:54:00 Z
+date: 2022-09-07 09:30:00 Z
 published: false
 solutions:
 - Sustainable Business
