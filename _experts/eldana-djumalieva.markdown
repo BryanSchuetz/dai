@@ -5,7 +5,7 @@ lastname: Djumalieva
 summary: Eldana Djumalieva is an economist with 26 years of experience in the delivery
   of programs for multilateral aid agencies and development finance institutions and
   has a particular focus on climate finance.
-job-title: Principal/Project Director, Development Finance and Investment
+job-title: Principal Consultant, Development Finance and Investment
 image: "/uploads/Picture1.jpg"
 solutions:
 - Climate
