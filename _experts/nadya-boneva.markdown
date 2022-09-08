@@ -6,7 +6,7 @@ summary: Nadya Boneva is an engineer and expert in environmental monitoring cont
   and health. She has more than 25 years of experience designing and implementing
   projects for donors, international organizations, government, and the nongovernmental
   sector.
-job-title: Practice Leader, Planet
+job-title: Senior Global Practice Leader, Planet
 image: "/uploads/N%20Boneva%20(2).jpg"
 solutions:
 - Environment
