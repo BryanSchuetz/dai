@@ -5,7 +5,7 @@ lastname: Adegoke
 summary: 'Dr. Adetoro Adeyemi Adegoke has more than 20 years of experience working
   and managing reproductive, maternal, newborn, child, and adolescent health; health
   system strengthening; human resources for health; and education programmes. '
-job-title: Technical Lead, Health Service Delivery, Global Health
+job-title: Practice Leader, Health Service Delivery, Global Health
 image: "/uploads/Adetoro%20Adegoke%20DAI%20site-0ddbb5.jpg"
 solutions:
 - Global Health
