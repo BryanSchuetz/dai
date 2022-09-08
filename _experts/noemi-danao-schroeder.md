@@ -5,7 +5,7 @@ lastname: Danao-Schroeder
 summary: 'Noemi Danao-Schroeder first worked internationally as a summer volunteer
   for a rural vaccination campaign in Paraguay. That experience kickstarted 25 years
   of international development work. '
-job-title: 'Regional Vice President, Global '
+job-title: Regional Vice President, Global
 image: "/uploads/Noemi%20Headshot%20May2019.jpg"
 solutions:
 - Finance and Investment
