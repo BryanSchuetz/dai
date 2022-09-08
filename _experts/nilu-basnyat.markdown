@@ -4,7 +4,7 @@ date: 2021-04-19 08:26:00 Z
 lastname: Basnyat
 summary: Nilu Puri Basnyat is an experienced program manager and technical specialist
   for governance and environmental water projects in Nepal.
-job-title: Development Specialist, Governance and Environment
+job-title: Global Practice Specialist, Governance and Environment
 image: "/uploads/Nilu.jpg"
 solutions:
 - Environment
