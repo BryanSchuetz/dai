@@ -6,7 +6,7 @@ summary: While in graduate school for international development, Carmen Conley w
   surprised to learn there was an emerging field of international democracy assistance,
   where she could apply her practical U.S. political experience in campaigns to her
   development studies.
-job-title: Global Practice Lead, Service Delivery and Institutional Reform
+job-title: Global Practice Leader, Service Delivery and Institutional Reform
 image: https://assetify-dai.com/experts/Lane_Inner.jpg
 solutions:
 - Institutional and Policy Reform
