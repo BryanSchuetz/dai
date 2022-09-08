@@ -4,7 +4,7 @@ date: 2019-10-23 13:51:00 Z
 lastname: Bruett
 summary: Till Bruett has more than 25 years of experience in the financial sector
   including commercial banking, microfinance, and digital finance.
-job-title: 'Global Practice Lead, Finance, Investment and Trade '
+job-title: 'Global Practice Leader, Finance, Investment and Trade '
 image: "/uploads/Till%20Bruett%20headshot.jpg"
 solutions:
 - Economic Growth
