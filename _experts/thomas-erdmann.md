@@ -6,7 +6,7 @@ summary: 'Thomas Erdmann specializes in natural resources management and project
   A trained forester, he offers expertise in community forestry, agroforesty, ecoregional
   or landscape-scale conservation and development, conservation forestry, land use
   planning, and environmental impact and management. '
-job-title: 'Principle Global Practice Specialist, Climate Change and Natural Resources
+job-title: 'Principal Global Practice Specialist, Climate Change and Natural Resources
   Management '
 image: https://assetify-dai.com/experts/ErdmannInner.jpg
 solutions:

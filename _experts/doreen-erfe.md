@@ -4,7 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Erfe
 summary: Doreen Erfe is the Resources Mobilization Specialist for the Philippines
   Safe Water Activity.
-job-title: Resources Mobilization Specialist
+job-title: 'Global Practice Specialist, Resources Mobilization '
 image: "/uploads/Doreen%20Erfe.jpg"
 solutions:
 - Environment
