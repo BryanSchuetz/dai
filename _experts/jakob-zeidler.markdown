@@ -15,6 +15,6 @@ Jakob Zeidler joined the distinguished European consultancy Human Dynamics in 20
 
 Jakob was drawn to Human Dynamics’ work on public administration reform in the Western Balkans, a topic he was researching in Serbia through a university exchange programme. Following a short stint in business development, he joined the Implementation Department in 2007 and managed numerous projects in the areas of public administration reform, local development, and agriculture, working in Africa, the Middle East, and Eastern Europe. As Head of Department, he and his team of project directors were responsible for, among others, several of the European Commission’s flagship projects in the area of climate change in the Middle East and North Africa region, local development in Pakistan, security in West Africa/ECOWAS, and financial sector reform in Ukraine. 
 
-As Vice President of DAI’s European Union business, Jakob leads the business unit’s integration, growth, and diversification. Based in Vienna, Jakob oversees roughly 100 staff in DAI’s corporate offices in Austria, Belgium, Bulgaria, Germany, Serbia, Turkey, and the United Kingdom. 
+As Vice President of DAI’s European Union business, Jakob leads the business unit’s integration, growth, and diversification. Based in Vienna, Jakob oversees roughly 100 staff in DAI’s corporate offices in Austria, Belgium, Bulgaria, Germany, Serbia, Türkiye, and the United Kingdom. 
 
 * M.S., international relations, University of Vienna
