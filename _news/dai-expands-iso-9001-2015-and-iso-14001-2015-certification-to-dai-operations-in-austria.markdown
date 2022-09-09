@@ -26,4 +26,4 @@ Organizations certified in ISO 9001 and ISO 14001 are committed to continuous im
 
 *You can verify the validity of our EMS 14001:2015 ISO certificate by entering our number 230400 [via this link](https://www.british-assessment.co.uk/verify-certification/).*
 
-*For a copy of the latest EQMS policy, please contact Melanie_Machray@dai.com.*
+*For a copy of the latest EQMS policy, please contact [Melanie Machray](mailto:melanie_machray@dai.com)*
