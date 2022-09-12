@@ -25,7 +25,7 @@ The Palestine Small and Medium Enterprise Assistance for Recovery and Transition
 
 ![0A9A5085.JPG](/uploads/0A9A5085.JPG)
 
-### Sample Activities
+## Sample Activities
 
 * Support interventions that facilitate women and youth’s access to employment opportunities.
 * Build firms’ capacity to produce products and services for specific markets with the quality and adherence to standards those markets demand.
@@ -33,7 +33,8 @@ The Palestine Small and Medium Enterprise Assistance for Recovery and Transition
 * Assist startups and SMEs to adopt modern business practices and attain bankable or investment-ready status.
 * Provide targeted institutional and human capacity support to advance a policy agenda to bolster competitiveness and trade.
 
-### Select Results
+## Select Results
 
 * Signed 25 contracts with different suppliers and delivered items to hotels that are part of the Hotel Recovery Program. The first recipient was the Retno Hotel in Ramallah, which received hotel amenities including 15 TVs, 45 phones, 15 mini refrigerators, and 30 orthopedic mattresses. 
-*  Helped 36 firms under the Private Sector Rapid Recovery Program. By the end of the first year, SMART will have assisted 125 firms. 
+* Allocated $1.8 million to assist 38 Palestinian-owned hotels, creating 1,000 jobs.
+* Allocated $5.7 million to assist private-sector recovery—$3.2 million of which helped 60 small businesses to develop recovery plans. 
