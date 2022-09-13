@@ -28,7 +28,7 @@ RASS strengthens capacities to sustain gender-responsive, diversified, and marke
 
 ![sudan.jpg](/uploads/sudan.jpg)
   
-### Sample Activities
+## Sample Activities
 
 * Provide grants to local institutions, including producer groups, women and youth associations, and micro, small, and medium-sized enterprise to build their capacity.
 * Promote forage and animal feed production.
@@ -37,6 +37,6 @@ RASS strengthens capacities to sustain gender-responsive, diversified, and marke
 * Expand opportunities for sustainable, locally driven livelihoods. 
 * Expand access to financial services to diversify livelihoods and protect productive assets. 
 
-### Select Results
+## Select Results
 
-* Distributed seeds to the 104 RASS-supported producer groups in the counties of Wau, Jur River, Akobo, Kapoeta North, and Budi. In total 2,561 farmers will benefit from increased agriculture productivity, improved food security, and additional household income. 
+* Provided 2,585 farmers with quality certified seeds in RASS’s priority counties and supplied an additional 80 seed multiplication farmers with groundnut seeds to build seed multipliers' capacity to produce adequate seeds to supply to local farmers for planting the following season, thereby increasing food production and food security. 
