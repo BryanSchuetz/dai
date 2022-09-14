@@ -326,7 +326,9 @@
       {% if page.collection == 'news' %}<h1>{{ page.title }}</h1>{% endif %}
         {{ content }}
         {% if  page.collection == 'news' or page.collection == 'projects' or page.collection == 'experts'%}
+        {% unless page.related == false %}
           {% include  related.html %}
+        {% endunless %}
         {% elsif page.layout == 'node' or page.layout == 'solution' %}
           {% unless page.related == false %}
             {% include  related.html %}
