@@ -2,7 +2,6 @@
 title: DAI Expands ISO 9001:2015 and ISO 14001:2015 Certification to DAI Operations
   in Austria
 date: 2022-09-09 11:35:00 Z
-published: false
 summary: DAI is pleased to announce that it has achieved ISO 9001:2015 and ISO 14001:2015
   certification for its operations in Austria, joining DAI offices in Belgium and
   the United Kingdom in holding the internationally recognized quality and environmental
