@@ -1,6 +1,6 @@
 ---
 title: DAI Welcomes Finance and Technology Advisor Juan Pujadas to Its Board
-date: 2014-09-01 09:50:00 Z
+date: 2022-09-14 09:50:00 Z
 published: false
 summary: DAI today announced that Juan Pujadas has joined the DAI Board of Managers.
   A retired principal at PriceWaterhouseCoopers (PwC), Pujadas has global experience
