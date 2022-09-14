@@ -10,8 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
-* [RFA-2022-16 Modification 01](/uploads/RFA-2022-16%20Modification%2001.pdf)
-* [RFA-2022-16_Women’s Participation in Southeast Asia’s Cybersecurity Sector](/uploads/RFA-2022-16_Women%E2%80%99s%20Participation%20in%20Southeast%20Asia%E2%80%99s%20Cybersecurity%20Sector.pdf)
+* [RFA-2022-16 Modification 01](/uploads/RFA-2022-16%20Modification%2001.pdf "9/29")
+* [RFA-2022-16_Women’s Participation in Southeast Asia’s Cybersecurity Sector](/uploads/RFA-2022-16_Women%E2%80%99s%20Participation%20in%20Southeast%20Asia%E2%80%99s%20Cybersecurity%20Sector.pdf "9/29")
 * [EOI GPM 220831 Implementation of Performance Management System](https://dai-assets.s3.amazonaws.com/rfps/EOI.GPM.220831.pdf "10/4")
 * [RFA 2022-17 ICT4AG 2023-4](/uploads/RFA%202022-17%20ICT4AG%202023-4.pdf "10/4")
 * [RFP Curriculum ASEAN Logistics Training](https://dai-assets.s3.amazonaws.com/rfps/RFP%20Curriculum%20ASEAN%20Logistics%20Training_1sept22.pdf "10/1")
