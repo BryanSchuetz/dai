@@ -6,6 +6,7 @@ summary: DAI today announced that Juan Pujadas has joined the DAI Board of Manag
   in leadership, professional services, banking, finance, mergers and acquisitions,
   technology, and risk and crisis management.
 social-image: "/uploads/Juan%20Pujadas%20JPG"
+related: false
 ---
 
 ![juan-pujadas.jpg](/uploads/juan-pujadas.jpg){:.float-left}DAI today announced that Juan Pujadas has joined the DAI Board of Managers. A retired principal at PriceWaterhouseCoopers (PwC), Pujadas has global experience in leadership, professional services, banking, finance, mergers and acquisitions, technology, and risk and crisis management.
