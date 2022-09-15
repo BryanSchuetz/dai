@@ -1,7 +1,7 @@
 ---
-published: false
 title: Publications
 permalink: "/publications/view-more-articles"
+published: false
 position: 2
 related: false
 summary: 'By freely sharing what we learn, we have built a reputation as thought leaders
