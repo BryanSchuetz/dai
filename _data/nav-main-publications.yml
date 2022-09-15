@@ -1,6 +1,10 @@
-- text: View More Articles
-  link: /publications/view-more-articles
+- text: Blog Posts
+  link: https://dai-global-developments.com
+- text: Developments Blog
+  link: https://dai-global-developments.com/developments
+- text: Digital@DAI Blog
+  link: https://dai-global-digital.com/
 - text: GH Resource Library
-  link: /resource-library
+  link: https://www.dai.com/resource-library
 - text: Nigeria Resource Library
-  link: /nigeria-resource-library
+  link: https://www.dai.com/nigeria-resource-library
