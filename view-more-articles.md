@@ -1,4 +1,5 @@
 ---
+published: false
 title: Publications
 permalink: "/publications/view-more-articles"
 position: 2
