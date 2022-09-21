@@ -27,13 +27,13 @@ This project supported the implementation of the European Union (EU)-bilateral d
 
 ![bhutan.jpg](/uploads/bhutan.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Provide technical assistance and capacity building to improve the implementation of programs financed by the EU.
 * Facilitate related policy dialogue and engagement between the EU and the Royal Government of Bhutan.
 * Strengthen the capacity of the National Statistical Bureau and improve the statistical system at central and local levels to support effective renewable natural resources management and local governance of sustainable development.
 
-### Select Results
+## Select Results
 
 * Conducted two overseas trainings in India for Government officials on evidence-based statistics for economic development, and on agricultural content communications applications for use on mobile phones.
 * Conducted online training for government officials on value chain analyses and small business development.
