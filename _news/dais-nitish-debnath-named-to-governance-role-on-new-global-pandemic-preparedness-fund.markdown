@@ -1,7 +1,7 @@
 ---
 title: DAI’s Nitish Debnath Named to Governance Role on New Global Pandemic Preparedness
   Fund
-date: 2022-09-21 14:33:00 Z
+date: 2022-09-21 01:00:00 Z
 published: false
 solutions:
 - Global Health
