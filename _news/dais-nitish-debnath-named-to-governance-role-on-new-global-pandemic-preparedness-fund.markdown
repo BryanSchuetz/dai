@@ -13,7 +13,7 @@ summary: 'An international response to the COVID-19 pandemic, the FIF aims to im
 social-image: "/uploads/Nitish%20action-ab9813.jpg"
 ---
 
-DAI Bangladesh Team Lead [Nitish Debnath](http://preview-dai.com/who-we-are/our-team/nitish-debnath) has been appointed to the governing body of the World Bank’s new [Financial Intermediary Fund (FIF) for Pandemic Prevention, Preparedness and Response](https://www.worldbank.org/en/programs/financial-intermediary-fund-for-pandemic-prevention-preparedness-and-response-ppr-fif).
+DAI Bangladesh Team Lead [Nitish Debnath](https://www.dai.com/who-we-are/our-team/nitish-debnath) has been appointed to the governing body of the World Bank’s new [Financial Intermediary Fund (FIF) for Pandemic Prevention, Preparedness and Response](https://www.worldbank.org/en/programs/financial-intermediary-fund-for-pandemic-prevention-preparedness-and-response-ppr-fif).
 
 ![Nitish action-73cc3a.jpg](/uploads/Nitish%20action-73cc3a.jpg)
 
