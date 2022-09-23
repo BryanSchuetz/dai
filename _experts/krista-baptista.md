@@ -1,6 +1,7 @@
 ---
 title: Krista Baptista
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Baptista
 summary: As the head of DAI’s Center for Digital Acceleration, Krista Baptista is
   responsible for leading the team, advancing the Center’s strategy, and delivering
