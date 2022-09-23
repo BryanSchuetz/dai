@@ -27,5 +27,9 @@ The Building Climate Resilience Activity supports Honduran actors and systems at
 ![honduras.jpg](/uploads/honduras.jpg)
   
 ## Sample Activities 
- 
- 
+
+* Increase access to and use of reliable hydromet information—by national, regional, and municipal decision makers—to foster evidence-based decision-making. 
+* Streamline policies, regulations, and processes, or develop new models, to enable an integrated water management approach in the most vulnerable and degraded sub-watersheds.
+* Strengthen the accountability and sustainability of the Fund for the Management of Protected Areas and Wildlife, which supports Honduras’s public and private protected areas and reserves. 
+* Increase sustainable tourism investments.
+* Implement an official National Park Ranger program by institutionalizing the youth conservation corps curricula.
