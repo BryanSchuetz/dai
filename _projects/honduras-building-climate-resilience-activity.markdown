@@ -19,7 +19,9 @@ country: Honduras
 ---
 
 As climate change stresses the forests of Honduras and renders them more susceptible to threats such as insects and wildfires, simultaneous threats from deforestation and degradation—driven by agricultural expansion and extractive activity—exert even more pressure on those same forests. Meanwhile, shifting precipitation patterns, including worsening drought and stronger tropical cyclones, are altering the hydrology of key watersheds. This vicious cycle compounds longstanding poverty, marginalization, and food insecurity; erodes community cohesion, further stressing already weak local systems and contributing to high rates of internal and outward migration; and limits opportunities for young people to build their futures in Honduras.
- 
+
+Honduras’s forested watersheds provide vital ecosystem services and contribute to the country’s climate targets. Hondurans require new approaches to build resilience that will enable them to thrive—where they are.
+
 The Building Climate Resilience Activity supports Honduran actors and systems at the national, watershed, basin, and community levels to develop the inclusive governance, local capacity, and resources they need to withstand and respond to climate change and build the resilience that will allow all Hondurans to move forward into a more climate-secure future.
 
 ![honduras.jpg](/uploads/honduras.jpg)
