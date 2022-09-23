@@ -24,7 +24,7 @@ Honduras’s forested watersheds provide vital ecosystem services and contribute
 
 The Building Climate Resilience Activity supports Honduran actors and systems at the national, watershed, basin, and community levels to develop the inclusive governance, local capacity, and resources they need to withstand and respond to climate change and build the resilience that will allow all Hondurans to move forward into a more climate-secure future.
 
-![honduras.jpg](/uploads/honduras.jpg)
+![honduras water.jpg](/uploads/honduras%20water.jpg)
   
 ## Sample Activities 
 
