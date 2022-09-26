@@ -42,13 +42,13 @@ The USAID TradeHub was based in Pretoria, South Africa, with resident representa
 
 ## Select Results
 
+* In fiscal year 2022, the USAID TradeHub facilitated $173 million in agricultural and non-agricultural exports to South Africa and the United States. These results represent 394 percent of the target of $44 million. This number brings the cumulative value of all exports facilitated by the project from the region to South Africa and the United States (under AGOA) to $307 million, against a target of $73 million, representing an over-achievement of 421 percent.
 * Finalized a €30 million loan from the European Investment Bank to the National Bank of Malawi to build commodities warehouses.
 * Collaborated with Cargill to develop a market information system in Zambia conveying spot and future grain prices benchmarked against South Africa's Grain Information Service.
 * Partnered with the U.S. Produce Marketing Association to establish new buyer networks and identify investment opportunities in fresh produce markets in Swaziland and Zambia.
 * Linked more than 200 Southern African textile, apparel, accessory, and specialty food companies from Southern Africa to the United States and international markets via global trading platforms, including Fancy Food (New York), MAGIC (Las Vegas), and Gulf Foods (Dubai).
 * Formed 30 public-private partnerships.
 * Created 1,448 new jobs.
-* In fiscal year 2022, the USAID TradeHub facilitated $173 million in agricultural and non-agricultural exports to South Africa and the United States. These results represent 394 percent of the target of $44 million. This number brings the cumulative value of all exports facilitated by the project from the region to South Africa and the United States (under AGOA) to $307 million, against a target of $73 million, representing an over-achievement of 421 percent.
 
 **Partnerships Toward Ecosystem Change:**
 <iframe src="https://player.vimeo.com/video/743060212?h=0bf31a271f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
