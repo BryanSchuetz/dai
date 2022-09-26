@@ -25,7 +25,7 @@ promos:
   link: 
 ---
 
-The  U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (USAID TradeHub) engaged with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supported these objectives by increasing exports from southern African countries to South Africa and the United States (under the [AGOA](https://ustr.gov/issue-areas/trade-development/preference-programs/african-growth-and-opportunity-act-agoa)), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The USAID TradeHub worked with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
+The U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (USAID TradeHub) engaged with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supported these objectives by increasing exports from southern African countries to South Africa and the United States (under the [AGOA](https://ustr.gov/issue-areas/trade-development/preference-programs/african-growth-and-opportunity-act-agoa)), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The USAID TradeHub worked with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
 
 The USAID TradeHub was based in Pretoria, South Africa, with resident representatives in Eswatini, Lesotho, Malawi, Mozambique, and Zambia. The program worked with Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Eswatini, and Zambia.
 
@@ -51,6 +51,7 @@ The USAID TradeHub was based in Pretoria, South Africa, with resident representa
 * Facilitated $16 million in agriculture-related finance.
 * Formed 30 public-private partnerships.
 * Created 1,448 new jobs.
+* In fiscal year 2022, the USAID TradeHub facilitated $173 million in agricultural and non-agricultural exports to South Africa and the United States. These results represent 394 percent of the target of $44 million. This number brings the cumulative value of all exports facilitated by the project from the region to South Africa and the United States (under AGOA) to $307 million, against a target of $73 million, representing an over-achievement of 421 percent.
 
 **Partnerships Toward Ecosystem Change:**
 <iframe src="https://player.vimeo.com/video/743060212?h=0bf31a271f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
