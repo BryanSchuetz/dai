@@ -42,7 +42,7 @@ The USAID TradeHub was based in Pretoria, South Africa, with resident representa
 
 ## Select Results
 
-* In fiscal year 2022, the USAID TradeHub facilitated $173 million in agricultural and non-agricultural exports to South Africa and the United States. These results represent 394 percent of the target of $44 million. This number brings the cumulative value of all exports facilitated by the project from the region to South Africa and the United States (under AGOA) to $307 million, against a target of $73 million, representing an over-achievement of 421 percent.
+* Facilitated, in fiscal year 2022, $173 million in agricultural and non-agricultural exports to South Africa and the United States. These results represent 394 percent of the target of $44 million. This number brings the cumulative value of all exports facilitated by the project from the region to South Africa and the United States (under AGOA) to $307 million, against a target of $73 million, representing an over-achievement of 421 percent.
 * Finalized a €30 million loan from the European Investment Bank to the National Bank of Malawi to build commodities warehouses.
 * Collaborated with Cargill to develop a market information system in Zambia conveying spot and future grain prices benchmarked against South Africa's Grain Information Service.
 * Partnered with the U.S. Produce Marketing Association to establish new buyer networks and identify investment opportunities in fresh produce markets in Swaziland and Zambia.
