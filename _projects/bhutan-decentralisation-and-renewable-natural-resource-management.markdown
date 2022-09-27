@@ -25,15 +25,15 @@ Bhutan is a small country wedged between India and China with 60 percent of its 
 
 This project supported the implementation of the European Union (EU)-bilateral development cooperation strategy in Bhutan, with particular focus on the two ongoing EU budget support programs: 1) Rural Development and Climate Change, and 2) Local Governance and Fiscal Decentralization. The team produced studies on agroforestry systems and practices, strategy and programme formulation, circular economies and waste recycling models, farm mechanisation potentials, and identification and management of fallow land.
 
-![bhutan.jpg](/uploads/bhutan.jpg)
+<iframe src="https://player.vimeo.com/video/752174427?h=add14b2e9b" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
 * Provide technical assistance and capacity building to improve the implementation of programs financed by the EU.
 * Facilitate related policy dialogue and engagement between the EU and the Royal Government of Bhutan.
 * Strengthen the capacity of the National Statistical Bureau and improve the statistical system at central and local levels to support effective renewable natural resources management and local governance of sustainable development.
 
-### Select Results
+## Select Results
 
 * Conducted two overseas trainings in India for Government officials on evidence-based statistics for economic development, and on agricultural content communications applications for use on mobile phones.
 * Conducted online training for government officials on value chain analyses and small business development.

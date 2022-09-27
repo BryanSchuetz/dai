@@ -11,6 +11,7 @@ layout: node
 
 ### Environment & Energy
 
+* Water and Development II (WADI II) (2022–2027)
 * Strengthening Tenure and Resource Rights II (STARR II) (2018–2025)
 
 ### Economic Growth
