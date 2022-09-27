@@ -16,7 +16,7 @@ regions: Latin America and the Caribbean
 country: Honduras
 ---
 
-Climate shocks continue to undermine Honduran development efforts. Hurricanes, drought, and other extreme weather events exacerbate food insecurity and water scarcity, which in turn hamper poverty reduction efforts, provoke social unrest, and drive irregular migration. Perhaps nowhere is this vicious cycle more evident than in Honduras, where the COVID-19 pandemic and back-to-back tropical storms, combined with consecutive years of below-average rainfall, have decimated the economy, and led to growing food insecurity. 
+In Honduras, hurricanes, drought, and other extreme weather events exacerbate food insecurity and water scarcity, which hamper poverty reduction efforts, provoke social unrest, and drive irregular migration. Most recently, the COVID-19 pandemic and back-to-back tropical storms, combined with consecutive years of below-average rainfall, have decimated the Honduran economy, and led to growing food insecurity. 
 
 Hondurans require new approaches to build resilience that will enable them to thrive—where they are.
 
