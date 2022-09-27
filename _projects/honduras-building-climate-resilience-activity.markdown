@@ -2,11 +2,9 @@
 title: Honduras—Building Climate Resilience Activity
 date: 2022-09-23 15:30:00 Z
 published: false
-summary: The Building Climate Resilience Activity supports Honduran systems at the
-  national, watershed, basin, and community levels to develop the inclusive governance,
-  local capacity, and resources they need to withstand and respond to climate change
-  and build the resilience that will allow all Hondurans to move forward into a more
-  climate-secure future.
+summary: 'The Building Climate Resilience Activity strengthens the capacity of Honduran
+  systems to respond to climate variability and change, thereby helping address underlying
+  factors that contribute to irregular migration.  '
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
@@ -22,7 +20,7 @@ As climate change stresses the forests of Honduras, making them more susceptible
 
 Hondurans require new approaches to build resilience that will enable them to thrive—where they are.
 
-The Building Climate Resilience Activity supports Honduran systems at the national, watershed, basin, and community levels to develop the inclusive governance, local capacity, and resources they need to withstand and respond to climate change and build the resilience that will allow all Hondurans to move forward into a more climate-secure future.
+The Building Climate Resilience Activity strengthens the capacity of Honduran systems to respond to climate variability and change, thereby helping address underlying factors that contribute to irregular migration.  
 
 ![honduras water.jpg](/uploads/honduras%20water.jpg)
   
