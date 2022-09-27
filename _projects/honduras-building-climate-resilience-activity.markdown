@@ -16,7 +16,7 @@ regions: Latin America and the Caribbean
 country: Honduras
 ---
 
-As climate change stresses the forests of Honduras, making them more susceptible to insects and wildfires, other threats from deforestation and degradation—driven by agricultural expansion and extractive activity—exert even more pressure. Meanwhile, calamitous weather, including dire droughts and tropical cyclones, are altering key watersheds. This vicious cycle compounds longstanding poverty, marginalization, and food insecurity; erodes community cohesion, further weakening local systems and contributing to migration; and limits opportunities for young people to build their futures in Honduras.
+Climate shocks continue to undermine Honduran development efforts. Hurricanes, drought, and other extreme weather events exacerbate food insecurity and water scarcity, which in turn hamper poverty reduction efforts, provoke social unrest, and drive irregular migration. Perhaps nowhere is this vicious cycle more evident than in Honduras, where the COVID-19 pandemic and back-to-back tropical storms, combined with consecutive years of below-average rainfall, have decimated the economy, and led to growing food insecurity. 
 
 Hondurans require new approaches to build resilience that will enable them to thrive—where they are.
 
