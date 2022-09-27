@@ -16,11 +16,11 @@ regions: Latin America and the Caribbean
 country: Honduras
 ---
 
-In Honduras, hurricanes, drought, and other extreme weather events exacerbate food insecurity and water scarcity, which hamper poverty reduction efforts, provoke social unrest, and drive irregular migration. Most recently, the COVID-19 pandemic and back-to-back tropical storms, combined with consecutive years of below-average rainfall, have decimated the Honduran economy, and led to growing food insecurity. 
+In Honduras, climate change exacerbates extreme weather events and shocks such as cyclones, forest fires, and drought. These shocks threaten Honduran ecosystems, worsen food insecurity, and contribute to water scarcity. Most recently, the COVID-19 pandemic and back-to-back tropical storms, combined with consecutive years of below-average rainfall, have decimated the Honduran economy, hampering poverty reduction efforts, provoking social unrest, and driving irregular migration.
 
-Hondurans require new approaches to build resilience that will enable them to thrive—where they are.
+In the face of these unprecedented challenges, Hondurans need new approaches to build resilience that will enable them to thrive—where they are.
 
-The Building Climate Resilience Activity strengthens the capacity of Honduran systems to respond to climate variability and change, thereby helping address underlying factors that contribute to irregular migration. The Activity works specifically to improve equitable, inclusive, and transparent water resources management; conserve critical ecosystems; and manage climate risk. 
+The Building Climate Resilience Activity strengthens the capacity of Honduran systems to respond to climate change, which will help to address underlying factors that contribute to irregular migration. The Activity collaborates with local communities, government officials, nongovernmental groups, and businesses to improve equitable, inclusive, and transparent water resources management; conserve critical ecosystems; and manage climate risk.
 
 ![honduras water.jpg](/uploads/honduras%20water.jpg)
   
