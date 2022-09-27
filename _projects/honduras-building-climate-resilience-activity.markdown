@@ -27,8 +27,7 @@ The Building Climate Resilience Activity strengthens the capacity of Honduran sy
 ## Sample Activities 
 
 * Increase access to and use of reliable weather information—by national, regional, and municipal decision makers—to foster evidence-based decision-making. 
-* Streamline policies, regulations, and processes, or develop new models, to enable an integrated water management approach in the most vulnerable and degraded sub-watersheds.
+* Streamline policies, regulations, and processes, or develop new models, to enable an integrated water management approach in the most vulnerable and degraded sub-watersheds. Improve water availability for domestic and agricultural use.
 * Strengthen the accountability and sustainability of the Fund for the Management of Protected Areas and Wildlife, which supports Honduras’s public and private protected areas and reserves. 
 * Increase sustainable tourism investments.
 * Institutionalize improved management of parks and protected areas through training and capacity building.
-* Improve water availability for domestic and agricultural use.
