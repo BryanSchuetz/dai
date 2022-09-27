@@ -1,8 +1,11 @@
 ---
 title: Juan Pujadas
 date: 2016-01-21 22:18:00 Z
-summary: |
-  Juan is a widely experienced board member and former chief executive with global experience in leadership, professional services, banking, finance, mergers and acquisitions, technology, and risk and crisis management.
+summary: 'Juan is a widely experienced board member and former chief executive with
+  global experience in leadership, professional services, banking, finance, mergers
+  and acquisitions, technology, and risk and crisis management.
+
+'
 image: "/uploads/juan-pujadas-member.png"
 sort-order: 5
 layout: leaders
