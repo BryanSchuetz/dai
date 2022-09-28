@@ -10,9 +10,9 @@ summary: Krista Baptista, the head of DAI’s Center for Digital Acceleration, h
 social-image: "/uploads/P_logo_200px-1.png"
 ---
 
-[Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista), the head of DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration), has been chosen to serve on the United Nations’ Digital Impact Alliance Digital Principles [Advisory Council](https://digitalprinciples.org/introducing-the-digital-principles-advisory-council-for-2021-2023/).
+Krista Baptista, the head of DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration), has been chosen to serve on the United Nations’ Digital Impact Alliance Digital Principles [Advisory Council](https://digitalprinciples.org/introducing-the-digital-principles-advisory-council-for-2021-2023/).
 
-The Council brings together digital experts across U.S., U.K., and European donors to align on digital strategies. The [Digital Principles](https://digitalprinciples.org/principles/) were created in consultation with organizations such as The Bill and Melinda Gates Foundation, the Swedish International Development Agency, UNICEF and the UN Development Program (UNDP), the World Bank, the U.S. Agency for International Development, and the World Health Organization.
+The Council brings together digital experts across U.S., U.K., and European donors to align on digital strategies. The [Digital Principles](https://digitalprinciples.org/principles/) were created in consultation with organizations such as The Bill and Melinda Gates Foundation, the Swedish International Development Agency, UNICEF, the UN Development Program (UNDP), the World Bank, the U.S. Agency for International Development, and the World Health Organization.
 
 In her role, which has a two-year term, Baptista will work with donors, private sector firms, and other partners to further the goals of the Principles, of which DAI is a signatory.
 
