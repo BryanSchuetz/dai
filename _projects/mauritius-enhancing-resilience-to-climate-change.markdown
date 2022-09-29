@@ -18,32 +18,21 @@ The team fostered the integration of climate change adaptation and risks in the 
 
 ![Mauritius-Climate.jpg](/uploads/Mauritius-Climate.jpg "Photo: Ludovic Lubeigt")
 
-### Sample Activities 
+## Sample Activities 
 
 * Bolster understanding of climate change vulnerability in key flood-prone locations.
-
 * Build public sector skills to implement a national climate resilience strategy and manage flood risks.
-
 * Undertake studies to design the scope of the Land Drainage Master Plan.
-
 * Provide technical assistance, training, and institutional development support to the Land Drainage Authority staff.
-
 * Develop the national disaster risk reduction policy for mainland Mauritius and its outer islands.
 
-### Select Results
+## Select Results
 
-* Implemented a multi-stakeholder climate change vulnerability assessment in 5 coastal sites and one inland site on mainland Mauritius to understand the current and projected impacts of hydro-meteorological hazards. The climate risks analyses included marine submersion, coastal erosion, and inland floods. The assessment looked at the impacts on urban and social systems, infrastructure, natural resources, with damage and disruption to these systems quantified in economic terms. Risk maps were produced at both national and priority site levels.
- 
+* Implemented a multi-stakeholder climate change vulnerability assessment in five coastal sites and one inland site on mainland Mauritius to understand the current and projected impacts of hydro-meteorological hazards. The climate risks analyses included marine submersion, coastal erosion, and inland floods. The assessment looked at the impacts on urban and social systems, infrastructure, and natural resources, with damage and disruption to these systems quantified in economic terms. Risk maps were produced at both national and priority site levels.
 * Developed a national Climate Resilience Strategy and initiated multi-stakeholder workshops and dialogues to highlight the importance of cross-coordination on risk management among public sector entities.
- 
 * Carried out detailed hydrological and drainage systems assessments in the 6 priority sites identified as the most exposed to flood risks on the mainland. These resulted in the formulation of a program of priority drain infrastructure measures including emergency repair/maintenance works, additional studies, and monitoring measures.
- 
 * Designed preliminary studies which led to the formulation of terms of reference for the Land Drainage Master Plan.
- 
 * Provided technical assistance to the newly formed Land Drainage Authority (LDA), including technical capacity building on designing and setting up the GIS database systems, training on hydrology and hydraulic modeling, and crisis communications. 
-
-* Drafted standard hydrometeorological equipment geotechnical survey specifications for drain design studies. 
- 
+* Drafted standard hydrometeorological equipment geotechnical survey specifications for drain design studies.  
 * Developed technical guidelines and toolkit for the LDA on sustainable drainage systems, maintenance best practices, and mainstreaming climate risks.
- 
-* Developed policy, strategic framework, and 2020-2030 action plan for the National Disaster Risk Reduction and Management Centre in line with the Sendai Framework 2015-2030. 
+* Developed policy, strategic framework, and 2020-2030 action plan for the National Disaster Risk Reduction and Management Centre in line with the Sendai Framework 2015-2030.
