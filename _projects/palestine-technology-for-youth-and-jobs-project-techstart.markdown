@@ -31,5 +31,7 @@ The project also includes special activities to address COVID-19 by ensuring tha
 
 ### Select Results
 
-* Selected 65 firms to receive financial support through a joint program formed by TechStart and IPSD formed a joint program to provide financial support.
-* Awarded six grants covering equipment, salaries, and rent.
+* TechStart and IPSD formed a joint program to provide financial support to Palestinian companies struggling through the current COVID-19 pandemic; 167 applications were submitted and 65 firms received awards. 
+* TechStart approved the salary subsidies of 172 out of 197 of the employees evaluated—the total awarded support was $559,201. Sixty out of the 172 supported staff were female (35%) and 101 (59%) were youths under 30 years old. 
+* Gaza Tech and Innovative Recovery Program awarded 6 grants covering equipment, salaries, and rent totalling $967,850; 118 employees received salary support.
+* The 28 grantees (9 TechStart and 19 IPSD) that applied and confirmed their interest will participate in the Technical Assistance program.
