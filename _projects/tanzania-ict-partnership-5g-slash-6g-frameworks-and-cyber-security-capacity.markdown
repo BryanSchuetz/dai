@@ -17,7 +17,9 @@ regions: Sub-Saharan Africa
 country: Tanzania
 ---
 
-The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity project supports the U.S. Embassy in building Tanzania’s capacity to embrace international best practices and standards that advance an open, interoperable, and secure internet; defend against authoritarian practices; and catalyze investments in goods and services related to information and communications technologies (ICT).
+While Tanzania has a robust information and communications technologies (ICT) and digital sector (including private-sector developers, tech startups, local talent, and a burgeoning e-government ecosystem), the policy and regulatory environment has not kept pace with technological advancements. 
+
+The Tanzania ICT Partnership: 5G/6G Frameworks and Cyber Security Capacity project supports the U.S. Embassy in building Tanzania’s capacity to embrace international best practices and standards that advance an open, interoperable, and secure internet; defend against authoritarian practices; and catalyze investments in goods and services related to information and ICT.
  
 This initiative is preparing Tanzanian regulators for 5G—the fifth-generation technology standard for broadband networks—and other advanced technologies by building their capacity to implement regulatory frameworks, promote cybercrime frameworks and legislation, and provide cybersecurity technical assistance. Additionally, we work with local organizations and government institutions to promote greater public awareness and sensitization around cybercrime and cybersecurity issues.
  
