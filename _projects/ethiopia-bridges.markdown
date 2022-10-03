@@ -33,12 +33,12 @@ BRIDGES is part of MasterCard’s ‘Young Africa Works’ program using youth e
  
 * Provide support for recruitment, compliance, project management software (if applicable), health and safety/safeguarding, human resources, and ISO to develop bespoke BRIDGES materials, including:
 1. Anti-harassment and discrimination
-2. Workplace violence
-3. Workplace safety
-4. Conflicts of interest
-5. Compliance and grant management
-6. Conducting due diligence of partners and service providers
-7. Review of compliance and risk processes and materials.
+1. Workplace violence
+1. Workplace safety
+1. Conflicts of interest
+1. Compliance and grant management
+1. Conducting due diligence of partners and service providers
+1. Review of compliance and risk processes and materials.
 
 * Technical input in the implementation of the BRIDGES contract, including review and support on the design of key strategies and implementation modalities of selected interventions.
 
