@@ -38,3 +38,4 @@ In line with the U.S. Agency for International Development's Regional Integratio
 * Design instruments to raise private capital for firms—including MSMEs—and projects in sectors and regions prioritized by the U.S. Agency for International Development and the Government of Colombia, and assist the Government in increasing and maximizing the impact of its investments and de-risking mechanisms. 
 * Support the Government of Colombia to identify and
 address the barriers hindering the operationalization of the National Financial Inclusion and Economic and Financial Education Policy by convening stakeholders in the market system from the national to the municipal level to co-create solutions. 
+* Provide assistance to design, test, and roll out a financial literacy program for members of savings and credit cooperatives, associations of producers, and nongovernmental organizations. 
