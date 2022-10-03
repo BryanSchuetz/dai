@@ -17,7 +17,11 @@ regions: Latin America and the Caribbean
 country: Colombia
 ---
 
-The Colombia Equitable Finance Activity (EFA) partners with underserved populations, the financial services sector, and the Government of Colombia to address the demand, supply, and enabling environment constraints that limit access to formal financial services for rural and conflict-affected Colombians. 
+Colombia is a financial inclusion and innovation leader in Latin America and, at the national level, boasts financial access rates comparable to many developed economies. However, there remains a stark divide between prosperous urban centers and
+rural municipalities. Decades of armed conflict have devastated the economy of rural Colombia, and rural municipalities remain on the fringe of financial sector innovation, separated
+by poor physical infrastructure, limited connectivity, and pervasive security challenges. 
+
+The Colombia Equitable Finance Activity (EFA) partners with these underserved populations, the financial services sector, and the Government of Colombia to address the demand, supply, and enabling environment constraints that limit access to formal financial services for rural and conflict-affected Colombians. 
  
 On the demand side, EFA improves the financial and digital capabilities of individuals and micro, small, and medium-sized enterprises (MSMEs) to bolster economic activity and social stability, drive financial product uptake and customer performance, and increase household income and assets.
  
