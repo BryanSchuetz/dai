@@ -27,20 +27,19 @@ BRIDGES is part of MasterCard’s ‘Young Africa Works’ program using youth e
 ### Sample Activities
 
 * Provide program management and best practice support and training, including:
-1. Implementation of internal review, approval and documentation methodologies and tools,
-2. Review of process flow and templates currently being used by BRIDGES (strengths, weaknesses, opportunities and threats),
-3. Facilitating experience-sharing opportunities with similar programs in other countries
+1. Implementation of internal review, approval, and documentation methodologies and tools.
+2. Review of process flow and templates currently being used by BRIDGES (strengths, weaknesses, opportunities, and threats).
+3. Facilitating experience-sharing opportunities with similar programs in other countries.
  
-* Provide support Recruitment, Compliance, if applicable Project Management Software, Health and Safety/Safeguarding, HR, and ISO to develop bespoke BRIDGES materials that include:
+* Provide support for recruitment, compliance, project management software (if applicable), health and safety/safeguarding, human resources, and ISO to develop bespoke BRIDGES materials, including:
+1. Anti-harassment and discrimination
+2. Workplace violence
+3. Workplace safety
+4. Conflicts of interest
+5. Compliance and grant management
+6. Conducting due diligence of partners and service providers
+7. Review of compliance and risk processes and materials.
 
-(i) anti-harassment and discrimination,
-(ii) workplace violence,
-(iii) workplace safety,
-(iv) conflicts of interest,
-(v) compliance and Grant Management,
-(vi) conducting due diligence of partners and service providers,
-(vii) review of compliance and risk processes and materials;
-
-* Technical input in the implementation of the BRIDGES contract including review and support on the design of key strategies and implementation modalities of selected interventions;
+* Technical input in the implementation of the BRIDGES contract, including review and support on the design of key strategies and implementation modalities of selected interventions.
 
  
