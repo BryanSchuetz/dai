@@ -27,6 +27,8 @@ For the enabling environment, EFA works to enhance the availability of actionabl
 
 In line with the U.S. Agency for International Development's Regional Integration Strategy, EFA prioritizes five economic corridors of Programas de Desarrollo con Enfoque Territorial (PDET) municipalities, representing areas most affected by the conflict and home to 3 million Colombians. 
 
+![efa.jpg](/uploads/efa.jpg)
+
 ## Sample Activities
 
 * Design instruments to raise private capital for firms—including MSMEs—and projects in sectors and regions prioritized by the U.S. Agency for International Development and the Government of Colombia, and assist the Government in increasing and maximizing the impact of its investments and de-risking mechanisms. 
