@@ -28,3 +28,5 @@ This initiative is preparing Tanzanian regulators for 5G—the fifth-generation 
 ## Sample Activities
 
 * Conduct an in-depth analysis of Tanzania’s adoption of advanced technologies.
+* Develop an expert speaker series to showcase the findings of the assessment and to promote further discussion on advanced tech. Identify other events in-country to support business-to-business and business-to-government audiences to discuss and promote investment in the ICT sector. 
+* Conduct an explanatory report on the Budapest Convention on Cybercrime, explaining the significance of the protocol and the impact of possible accession. Facilitate cybercrime information exchanges Between U.S. Government and Tanzanian law enforcement partners.
