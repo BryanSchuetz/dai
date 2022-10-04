@@ -14,6 +14,9 @@ solutions:
 - Water and Sanitation Services and Management
 regions: Middle East and North Africa
 country: Lebanon
+promos:
+- title: 2022 USAID CLA Case Competition Finalist
+  link: https://usaidlearninglab.org/sites/default/files/2022-09/12_wsc_lebanon_case_submittal_to_the_2022_cla_competition_-_christelle_safi_lebanon_ce.pdf
 ---
 
 Despite ample natural water sources, Lebanon is a country in a state of “water impoverishment.” Inefficient water resources management and deficient wastewater management capacity are jeopardizing the health of the Lebanese people and overwhelming the environment. An acute economic crisis, the global COVID-19 pandemic, and the 2020 [Beirut port explosion](https://en.wikipedia.org/wiki/2020_Beirut_explosion) worsened the situation. 

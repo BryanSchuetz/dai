@@ -4,10 +4,6 @@ date: 2012-01-26 18:05:00 Z
 summary: 'The fall/winter issue of _Developments_ is now available.
 
 '
-solutions: 
-regions: 
-projects: 
-clients: 
 layout: node
 ---
 
@@ -17,11 +13,11 @@ Heading up a team in one of the most challenging environments in the world, Sule
 
 Mohamed and Raheem write about the broad initiatives of the project—called the [Partnership for Economic Growth][1]—which include improving the region's business environment, building a framework for energy regulation, increasing agricultural productivity, enhancing the livestock value chain, and promoting investment. The project works entirely through partnerships with Somaliland's governance structures and its dynamic private sector.
 
-Inside the issue, the focus is largely on DAI's work in the Middle East and North Africa (MENA). In a Q&A, DAI Jordan Managing Director [Jamal Al-Jabiri ][2]answers questions about the development effects of the ongoing Arab Spring, the investment climate in Jordan, and the MENA region's most pressing need: jobs.
+Inside the issue, the focus is largely on DAI's work in the Middle East and North Africa (MENA). In a Q&A, DAI Jordan Managing Director Jamal Al-Jabiri answers questions about the development effects of the ongoing Arab Spring, the investment climate in Jordan, and the MENA region's most pressing need: jobs.
 
 Next is an article on one of our most successful MENA projects—the USAID-funded [Fiscal Reform Project II][3] in Jordan. This project has literally [written the book][4] on improving government effectiveness in Jordan. Authors Steve Rozner and [Eunice Heredia-Ortiz][5] write about how the project has been able to exceed its objectives despite political uncertainty in the region due to the Arab Spring.
 
-DAI's information and communications specialists [Krista Baptista][6] and Joshua Haynes (who now works as a USAID fellow on Internet freedom initiatives) reflect on the use of social media in the Arab Spring—specifically in Tunisia and Libya—and, more importantly, on the use of social media in civil society strengthening going forward.
+DAI's information and communications specialists Krista Baptista and Joshua Haynes (who now works as a USAID fellow on Internet freedom initiatives) reflect on the use of social media in the Arab Spring—specifically in Tunisia and Libya—and, more importantly, on the use of social media in civil society strengthening going forward.
 
 In Lebanon, DAI's work in the water sector faces a pressing challenge: a lack of skilled water workers. USAID's [Lebanon Water and Wastewater Sector Support Program][7]—implemented by DAI—is addressing this issue by training existing utility staff in areas such as business planning, finance and accounting, project management, computer literacy, and the operation and maintenance of utility equipment. The program also supports the utilities by funding and implementing business-process integration platforms that automate processes and improve resource allocation.
 
@@ -35,11 +31,9 @@ And finally, in the DAI_deas_ publication that accompanies this issue of _Develo
 
 
 [1]: /our-work/projects/somalia-partnership-economic-growth-program
-[2]: /who-we-are/our-team/jamal-al-jabiri
 [3]: /our-work/projects/jordan-fiscal-reform-project-ii-frp-ii
 [4]: http://www.frp2.org/english/PublicExpenditurePerspectives.aspx
 [5]: /who-we-are/our-team/eunice-heredia-ortiz
-[6]: /who-we-are/our-team/krista-baptista
 [7]: /our-work/projects/lebanon-water-and-wastewater-sector-support-lwwss
 [8]: /our-work/projects/middle-east-and-north-africa-further-advancing-blue-revolution-initiative-fabri
 [9]: /our-work/projects/morocco-economic-competitiveness-project-mec

@@ -26,6 +26,8 @@ promos:
   link: https://www.agrilinks.org/post/partnering-and-coordination-resilience-kenyas-northern-arid-and-semiarid-lands
 - title: 'Development During Quarantine: Lessons from Four USAID Projects'
   link: https://dai-global-developments.com/articles/development-during-quarantine-lessons-from-four-usaid-projects
+- title: 2022 USAID CLA Case Competition Special Mention
+  link: https://usaidlearninglab.org/sites/default/files/2022-08/119_policy_link_s_sudan_-_shannon_sarbo.pdf
 ---
 
 [Policy LINK](https://policylinkglobal.org/) strengthens the leadership capacity of public, private, and civil society actors and fosters collective action among them to transform policy systems. Building on the successes of [Africa Lead](https://www.dai.com/our-work/projects/africa-africa-lead-ii)’s nearly decade of programming, Policy LINK does this through a range of core services, including:

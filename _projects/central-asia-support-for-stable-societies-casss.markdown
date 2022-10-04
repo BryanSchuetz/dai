@@ -26,6 +26,8 @@ The Central Asia Support for Stable Societies activity identified and tested new
 
 CASSS applied a public health model to research, design, pilot, and evaluate CVE programming across digital and real-world environments, in collaboration with the U.S. Agency for International Development. Through the public health model, CASSS has researched and identified risk and protective factors of violent extremism and designed pilot interventions based on these findings. 
 
+<iframe src="https://player.vimeo.com/video/755682248?h=cce4823054" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Sample Activities
 
 * Develop a sound research design and a clear process.
