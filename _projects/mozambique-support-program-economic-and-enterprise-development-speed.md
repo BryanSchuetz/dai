@@ -33,7 +33,7 @@ Mozambique has been engaged in economic policy reform since its first democratic
 
 To build upon this momentum, the USAID-funded Supporting the Policy Environment for Economic Development ([SPEED\+](http://www.speed-program.com/)) program further developed a favorable business environment to attract investment and expand markets, contributing to inclusive economic growth and the conservation of natural resources. Working with consortium partner Nathan Associates, DAI helped [advance reforms](https://www.dai.com/news/dais-ian-rose-on-legal-reform-in-the-land-sector) in key areas such as agriculture, trade and investment, power, water, and biodiversity conservation, while also improving government transparency and fostering new public-private partnerships.
 
-The third iteration of SPEED, starting in 2021, is improving Mozambique’s business enabling environment and enhancing governance in agriculture, trade facilitation, energy, biodiversity conservation, and health; it is also strengthening public financial management, while enhancing the role of civil society, thereby improving the country’s ability to plan, manage, and finance its own development. 
+The third iteration of SPEED, which started in 2021, is improving Mozambique’s business enabling environment and enhancing governance in agriculture, trade facilitation, energy, biodiversity conservation, and health; it is also strengthening public financial management, while enhancing the role of civil society, thereby improving the country’s ability to plan, manage, and finance its own development. 
 
 ![SPEED  photo.jpg](/uploads/SPEED%20%20photo.jpg)
 
