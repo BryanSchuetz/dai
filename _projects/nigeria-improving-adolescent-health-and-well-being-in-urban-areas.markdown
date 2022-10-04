@@ -24,13 +24,13 @@ promos:
 
 In Nigeria, the growing urban youth population includes an increasingly marginalized segment—adolescents who are out-of-school, unmarried, married, or underprivileged, facing high rates of sexually transmitted diseases and unplanned pregnancies. Unfortunately, they also face more barriers in accessing accurate, reliable health information, as traditional programs have struggled to reach them or meet their needs. 
 
-The U.S. Agency for International Development-funded Youth-Powered Ecosystem to Advance Urban Adolescent Health activity [aims to empower](https://www.usaid.gov/nigeria/press-releases/usaid-takes-novel-approach-improving-adolescent-health) young people with skills, social capital, and resources needed to realize their full potential. The program will improve adolescent health by increasing access to voluntary family planning services and situating family planning within a broader, more holistic context of youth empowerment, coupled with a deeper understanding of the challenges that adolescents face. 
+The U.S. Agency for International Development-funded Youth-Powered Ecosystem to Advance Urban Adolescent Health activity [empowers](https://www.usaid.gov/nigeria/press-releases/usaid-takes-novel-approach-improving-adolescent-health) young people with skills, social capital, and resources needed to realize their full potential. The program improves adolescent health by increasing access to voluntary family planning services and situating family planning within a broader, more holistic context of youth empowerment, coupled with a deeper understanding of the challenges that adolescents face. 
 
-Program objectives include 1) improve skills for healthy living and future planning; 2) foster an enabling social and policy environment for adolescent health and development; and 3) increase youth workforce readiness, job opportunities, and entrepreneurship to address socioeconomic determinants of adolescent health. Cross-cutting program objectives include local capacity development and evidence generation and learning. 
+The program works to improve skills for healthy living and future planning; foster an enabling social and policy environment for adolescent health and development; and increase youth workforce readiness, job opportunities, and entrepreneurship to address socioeconomic determinants of adolescent health. 
 
 ![Adolescent 1.jpg](/uploads/Adolescent%201.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Establish youth-friendly sexual and reproductive health and rights services and other social support. 
 * Support youth leadership training to equip teenagers to advocate for family planning and reproductive health services in local policies and budgets.
@@ -38,7 +38,7 @@ Program objectives include 1) improve skills for healthy living and future plann
 * Implement social and behavior change activities combined with youth engagement with local policymakers and private sector partners.
 * Partner with public and private sector organizations to secure job training placements for poor urban youth, and run mentorship services from the youth centers. 
 
-### Select Results
+## Select Results
 
 * Conducted formative research that explored the characteristics, interests, behaviors, and needs of urban adolescents, aged 15-19.
 * Launched six Youth Hubs.
