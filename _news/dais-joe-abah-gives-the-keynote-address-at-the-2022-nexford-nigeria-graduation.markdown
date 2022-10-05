@@ -1,6 +1,6 @@
 ---
 title: DAI’s Joe Abah Gives the Keynote Address at the 2022 Nexford Nigeria Graduation
-date: 2022-10-05 01:09:00 Z
+date: 2022-10-05 09:09:00 Z
 published: false
 solutions:
 - Governance
@@ -8,6 +8,7 @@ solutions:
 regions: Sub-Saharan Africa
 summary: DAI's Country Director in Nigeria Dr. Joe Abah recently provided the keynote
   speech at the Nexford Nigeria 2022 graduation ceremony.
+social-image: "/uploads/sm%20Dr%20Joe2%5B60%5D.jpg"
 country: Nigeria
 ---
 
