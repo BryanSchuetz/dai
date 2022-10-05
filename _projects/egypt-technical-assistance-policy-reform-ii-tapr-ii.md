@@ -1,21 +1,21 @@
 ---
 title: Egypt—Technical Assistance for Policy Reform II (TAPR II)
-date: 2016-01-21 22:40:52.765000000 Z
-client: U.S. Agency for International Development
-start: 2005
-end: 2009
-regions:
-- Sub-Saharan Africa
-country:
-- Egypt
-solutions:
-- Economic Growth
-layout: project
+date: 2016-01-21 22:40:00 Z
 summary: 'TAPR II''s objective was to provide a comprehensive and integrated source
   of technical assistance to Egyptian reformers to help them define and implement
   their vision for economic policy and institutional reforms.
 
 '
+start: 2005
+end: 2009
+client: U.S. Agency for International Development
+solutions:
+- Economic Growth
+regions:
+- Middle East and North Africa
+country:
+- Egypt
+layout: project
 ---
 
 TAPR II's objective was to provide a comprehensive and integrated source of technical assistance to Egyptian reformers to help them define and implement their vision for economic policy and institutional reforms. The project, on which DAI was a subcontractor to BearingPoint, promoted investment, improved Egypt's financial structure and services, supported macroeconomic stabilization, increased trade and investment, and strengthened the private sector. It sought to reduce the government's role, deregulate burdensome regimes, streamline processes, and harmonize policies, laws, and regulations that govern economic institutions. TAPR II built partnerships with Egyptian reformers within government and the private sector who support critical, demand-driven reforms while responding to changing circumstances. DAI also provided support to enhance project monitoring, evaluate Egyptian achievement of goals to obtain funds under the U.S. Government Direct Support Program to Egypt, improve dissemination of information on economic reform to the public, and solicit greater involvement of civil society in the reform process.
