@@ -1,7 +1,6 @@
 ---
 title: Türkiye—Smart Ankara Sustainable Urban Mobility Plan
 date: 2022-10-05 11:04:00 Z
-published: false
 tags:
 - Europe
 - European Union
