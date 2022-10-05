@@ -5,7 +5,7 @@ summary: The Further Support to Public Finance Management project enables author
   in BiH to improve public finance management by increasing expenditure effectiveness
   and the budget planning process.
 start: 2020
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Governance

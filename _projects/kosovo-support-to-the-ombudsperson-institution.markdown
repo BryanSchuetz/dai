@@ -5,7 +5,7 @@ summary: We support the Ombudsperson Institution of Kosovo to effectively protec
   and promote the rights and fundamental freedoms of citizens by enforcement of institutional
   capacities and the introduction of new tools and methods.
 start: 2019
-end: 2022
+end: 2023
 client: European Union
 solutions:
 - Governance
