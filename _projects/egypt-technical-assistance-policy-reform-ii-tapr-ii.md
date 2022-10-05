@@ -1,11 +1,9 @@
 ---
 title: Egypt—Technical Assistance for Policy Reform II (TAPR II)
 date: 2016-01-21 22:40:00 Z
-summary: 'TAPR II''s objective was to provide a comprehensive and integrated source
+summary: TAPR II's objective was to provide a comprehensive and integrated source
   of technical assistance to Egyptian reformers to help them define and implement
   their vision for economic policy and institutional reforms.
-
-'
 start: 2005
 end: 2009
 client: U.S. Agency for International Development
