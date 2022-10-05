@@ -1,0 +1,14 @@
+---
+title: DAI’s Joe Abah Gives the Keynote Address at the 2022 Nexford Nigeria Graduation
+date: 2022-10-05 01:09:00 Z
+published: false
+---
+
+On Saturday September 10th, 2022, DAI Country Director Joe Abah joined a distinguished lineup to participate in the Nexford Nigeria 2022 graduation ceremony. Nexford is a fully online university based in Washington DC, that offers accredited degree programs at a flexible pace. The university celebrated students at the Lagos Oriental Hotel followed by a graduation procession led by the Chief Academic Officer. During the formal ceremony, the students were addressed by speakers including: Dr. Joe Abah, Adetayo Bamiduro, Abubakar Suleiman and Dr. Oby Ezekwesili, with Ebuka Obi-Uchendu acting as emcee.
+
+Joe Abah delivered the keynote address to graduating students titled “Emerging Leaders: Skills Building for Next Generation Leadership and How to Compete in a Globalized World” He defined leadership as the ability to inspire, arouse, excite, or motivate ordinary people to do extraordinary things. 
+In his presentation, Abah spoke about ten key qualities needed to gain a competitive advantage in a globalized world. Highlights from his speech touched on the need to have unshakable belief and grit—which is a powerful motivator to achieve an objective. He advised the students to lead by example, establishing themselves as credible people who deserve to be respected and trusted by peers and superiors. Further, he said that as upcoming leaders, vision is crucial, as it is the ability to conceptualize the end goal and how to achieve it by focusing on the most important aspects of self, goals, and aspirations. 
+
+Speaking on the importance of adequate preparation, he advised graduating students to learn how to leverage their strengths to solve problems proactively and efficiently. Reiterating that a key aspect of preparation is the ability to adapt and swiftly change behavior in response to changes in a situation. He encouraged graduands to be accountable and abstain from deflecting in the face of challenges even when they are inherited, as leaders shouldn’t spread blame—they own and address the issue on the table, he stated that “a responsible leader radiates faith, confidence, and self-belief even when embroiled in doubt.”
+
+Abah emphasized that leaders must maintain tight control over their inner circle and urged the graduating students to surround themselves with positive-minded people as this will foster an environment that encourages them to approach challenges with strength, and inspiration to thrive as excellent leaders. Rounding up his address he spoke on the power of effective communication as a critical leadership tool, encouraging the graduands to practice communication skills – as it takes purpose and intention to implement effective communication.
