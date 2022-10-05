@@ -1,7 +1,6 @@
 ---
 title: Nigeria—John Odigie Oyegun Public Service Academy (JOOPSA)
 date: 2022-10-05 08:49:00 Z
-published: false
 summary: DAI is operationalizing the Edo State Government's John Odigie Oyegun Public
   Service Academy (JOOPSA), to serve as a platform to train its public service to
   deliver high-value services to citizens and accelerate other reforms.
