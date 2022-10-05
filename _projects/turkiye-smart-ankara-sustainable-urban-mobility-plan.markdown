@@ -18,7 +18,7 @@ Ankara is the second-largest city in Türkiye, with the population expected to r
 
 In 2020, the European Commission presented its Sustainable and Smart Mobility Strategy, laying out the foundation for how the European Union transport system can achieve its green and digital transformation and become more resilient to future crises. The aim of this strategy is to cut emissions by 90 percent by 2050, through the delivery of a smart, competitive, safe, accessible, and affordable transport system. 
 
-This project is supporting the preparation of a Sustainable Urban Mobility Plan (SUMP) for Ankara in line with EU best practices and standards, and the development of the Smart Bike System for Ankara. The main objective of the project is to achieve a shift from individual transportation to sustainable, accessible, and extensive modes of public transport at the national level, as well as at the urban level.
+The Smart Ankara project supports the preparation of a Sustainable Urban Mobility Plan (SUMP) for Ankara in line with EU best practices and standards, and the development of the Smart Bike System for Ankara. The main objective of the project is to achieve a shift from individual transportation to sustainable, accessible, and extensive modes of public transport at the national level, as well as at the urban level.
 
 Our team is providing assistance to help strengthen the institutional and administrative capacity of the relevant administrations and stakeholders to facilitate the evolution from the present fossil-fuel-based and private car-oriented transport system, to a more sustainable and inclusive transport system for all. 
 
