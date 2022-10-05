@@ -1,7 +1,6 @@
 ---
 title: Colombia—Equitable Finance Activity (EFA)
 date: 2022-10-03 17:50:00 Z
-published: false
 summary: The Colombia Equitable Finance Activity (EFA) partners with underserved populations,
   the financial services sector, and the Government of Colombia to address the demand,
   supply, and enabling environment constraints that limit access to formal financial
