@@ -11,7 +11,7 @@ client: European Bank for Reconstruction and Development
 solutions:
 - Economic Growth
 regions:
-- Sub-Saharan Africa
+- Middle East and North Africa
 country:
 - Egypt
 layout: project
