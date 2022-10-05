@@ -1,7 +1,6 @@
 ---
 title: DAI’s Joe Abah Gives the Keynote Address at the 2022 Nexford Nigeria Graduation
 date: 2022-10-05 09:09:00 Z
-published: false
 solutions:
 - Governance
 - Education
@@ -20,4 +19,6 @@ Abah's keynote address, “Emerging Leaders: Skills Building for Next Generation
 
 Abah spoke about 10 key qualities needed to gain a competitive advantage in a globalized world. He advised the students to lead by example, establishing themselves as credible people who deserve to be respected and trusted by peers and superiors. Further, he said that as upcoming leaders, vision is crucial, as it is the ability to conceptualize the end goal and how to achieve it by focusing on the most important aspects of self, goals, and aspirations. 
 
-Speaking on the importance of adequate preparation, he advised graduating students to learn how to leverage their strengths to solve problems proactively and efficiently. Reiterating that a key aspect of preparation is the ability to adapt and swiftly change behavior in response to changes in a situation. He encouraged graduates to be accountable and abstain from deflecting in the face of challenges even when they are inherited, as leaders shouldn’t spread blame—they own and address the issue on the table, he stated that “a responsible leader radiates faith, confidence, and self-belief even when embroiled in doubt.”
+Speaking on the importance of adequate preparation, he advised graduating students to learn how to leverage their strengths to solve problems actively and efficiently. A key aspect of preparation is the ability to adapt in response to a changing situation, he said, encouraging graduates to be accountable and abstain from deflecting responsibility or placing blame in the face of challenges—rather, they should own and address the issue on the table. 
+ 
+“A responsible leader radiates faith, confidence, and self-belief,” he said, “even when embroiled in doubt.”
