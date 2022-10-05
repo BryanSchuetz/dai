@@ -2,6 +2,9 @@
 title: Nigeria—John Odigie Oyegun Public Service Academy (JOOPSA)
 date: 2022-10-05 08:49:00 Z
 published: false
+summary: DAI is operationalizing the Edo State Government's John Odigie Oyegun Public
+  Service Academy (JOOPSA), to serve as a platform to train its public service to
+  deliver high-value services to citizens and accelerate other reforms.
 start: 2022
 end: 2023
 client: Edo State Government
@@ -20,6 +23,6 @@ DAI is operationalizing JOOPSA by developing procedures, programs, strategies, a
 ## Sample Activities
 
 * Develop procedures for startup operations, such as procedures for designing and delivering seminars that meet international standards. 
-* Identify key partnerships—for program offerings, operations, and uptake of products, supplies e.g., universities/higher institutions, vocational schools, other public sector educational bodies to establish a credible and empowering faculty (internal and external)
-•	Review the competency framework and conduct a learning needs assessment to identify the minimum required schools for a public service academy to develop Fit-for-Purpose programs and delivery channels
-
+* Identify key partnerships for program offerings, operations, and uptake of products. 
+* Seek other universities and higher institutions, vocational schools, and other public sector educational bodies to establish a credible faculty.
+* Review the competency framework and conduct a learning needs assessment to identify the minimum required programs for a public service academy.
