@@ -15,7 +15,7 @@ DAI's Country Director in Nigeria [Dr. Joe Abah](https://www.dai.com/who-we-are/
 
 Abah's keynote address, “Emerging Leaders: Skills Building for Next Generation Leadership and How to Compete in a Globalized World,” defined leadership as the ability to inspire ordinary people to do extraordinary things. 
 
-![Dr Joe2[60].jpeg](/uploads/Dr%20Joe2%5B60%5D.jpeg)`Photo: Nigeria office.`
+![Dr Joe2[60].jpeg](/uploads/Dr%20Joe2%5B60%5D.jpeg)`Photo: Dr. Joe Abah at the Nexford Nigeria 2022 graduation ceremony.`
 
 Abah spoke about 10 key qualities needed to gain a competitive advantage in a globalized world. He advised the students to lead by example, establishing themselves as credible people who deserve to be respected and trusted by peers and superiors. Further, he said that as upcoming leaders, vision is crucial, as it is the ability to conceptualize the end goal and how to achieve it by focusing on the most important aspects of self, goals, and aspirations. 
 
