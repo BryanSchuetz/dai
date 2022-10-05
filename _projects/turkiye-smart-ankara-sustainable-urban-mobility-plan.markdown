@@ -23,7 +23,7 @@ The Smart Ankara project supports the preparation of a Sustainable Urban Mobilit
 
 Our team helps strengthen the institutional and administrative capacity of the relevant administrations and stakeholders to facilitate the evolution from the present fossil-fuel-based and car-oriented transport system to a more sustainable and inclusive transport system for all. 
 
-![SUMP1.jpg](/uploads/SUMP1.jpg)
+![TK_SUMP_rev 1.png](/uploads/TK_SUMP_rev%201.png)
 
 ## Sample Activities
 
