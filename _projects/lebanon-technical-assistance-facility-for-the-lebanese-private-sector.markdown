@@ -1,6 +1,9 @@
 ---
 title: Lebanon—Technical Assistance Facility for the Private Sector
 date: 2020-04-20 10:42:00 Z
+tags:
+- Europe
+- European Union
 summary: The Technical Assistance Facility contributes to the expansion and diversification
   of Lebanon’s economy through the modernization of the private sector and the promotion
   of trade, entrepreneurship, and innovation.
