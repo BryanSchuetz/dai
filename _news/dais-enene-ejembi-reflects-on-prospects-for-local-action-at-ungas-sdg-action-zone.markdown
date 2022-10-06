@@ -2,6 +2,9 @@
 title: DAI’s Enene Ejembi Reflects on Prospects for “Local Action” at UNGA’s SDG Action
   Zone
 date: 2022-10-06 12:08:00 Z
+solutions:
+- Gender and Social Inclusion
+- Localization
 regions: Sub-Saharan Africa
 summary: DAI’s Enene Ejembi took part in a wide-ranging discussion touching on poverty,
   inequality, gender, and climate during UNGA's SDG Action Zone events.
