@@ -39,9 +39,9 @@ CVECA assists hotspot communities to build resilient ecosystems that reduce risk
 
 ## Sample Activities
 
-* Develop a sound research design and a clear process.
-* Examine the impacts on violent extremism and conflict risks.
-* Develop evidence-based, practical approaches that broaden understandings of how to address violent extremism.
+* Increase support services facilitated by community leaders to vulnerable individuals and families.
+*  Train psychologists and mental health professionals to provide at-risk individuals with mental health and psychosocial services, with a particular focus on preventing and countering violent extremism.
+* Form issue-based champions for change groups that bring together women leaders from nongovernmental and civil society organizations.
 
 ## Select Results
 
