@@ -17,7 +17,7 @@ solutions:
 - Finance and Investment
 - Climate
 regions:
-- Sub-Saharan Africa
+- Middle East and North Africa
 country:
 - Morocco
 promos:
