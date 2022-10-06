@@ -10,6 +10,10 @@ A video of Ejembi’s session, “Responding to the Times: Equity, Access & Reco
 The panel discussed the harmful effects conflict can have on the global economy, and especially on developing nations, by exacerbating food insecurity, constraining energy supplies, and raising costs in ways that inflame social divides, all of which impedes progress toward the SDGs. 
 In response to a question on how the achievement of the SDGs can be supported by local action, Ejembi—DAI’s Strategic Communications and Knowledge Management Lead in Nigeria—called for a combination of individual commitment, collective action, government responsibility, and coordination with regional authorities and international donors. “Individual ambition and determination is a start, but when individuals organize, their collective voice, energy, and effort begin to matter,” she said.
 
+![MicrosoftTeams-image.png](/uploads/MicrosoftTeams-image.png)
+
+![MicrosoftTeams-image (1).png](/uploads/MicrosoftTeams-image%20(1).png)
+
 Individual contributions leading to collective action can be an effective way of triggering change, she added. Examples include young people coordinating to hold government to account via social media, or community leaders taking on advocacy roles in political and governance processes to improve the lives of their people. “These are the individual contributions that aggregate and move the needle.”
 
 “I would like to see more regional cooperation in Africa, at all levels,” Ejembi said—citing the  African Continental Free Trade Agreement as “a big step in the right direction—while “partners who provide funding need to be less prescriptive and more collaborative, and representatives of government need to be better at ensuring donor support aligns with national and subnational priorities.”
