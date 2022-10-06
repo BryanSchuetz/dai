@@ -1,5 +1,6 @@
 ---
-title: Central Asia—Support for Stable Societies (CASSS)
+title: "Central Asia—Support for Stable Societies (CASSS); Countering Violent \nExtremism
+  in Central Asia: Support for Resilient \nCommunities"
 date: 2022-08-17 20:04:00 Z
 summary: The Central Asia Support for Stable Societies activity identified and tested
   new methods for the prevention of violent extremism in Central Asia.
