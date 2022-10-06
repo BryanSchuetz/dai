@@ -14,7 +14,7 @@ country: Nigeria
 
 At the 77th United Nations General Assembly ([UNGA](https://www.un.org/en/ga/)), DAI’s [Enene Ejembi](https://www.dai.com/who-we-are/our-team/enene-ejembi) took part in a wide-ranging discussion touching on poverty, inequality, gender, and climate under the auspices of the SDG Action Zone, a forum designed as a complement to UNGA’s more scripted content, which brings together people working at various levels to achieve the Sustainable Development Goals (SDGs)—from grassroots changemakers and business leaders to government officials and representatives from the highest echelons of the UN.
 
-A video of Ejembi’s session, “[Responding to the Times: Equity, Access & Recovery](https://sdgactionzone.org/2022-on-demand/)”, is now available.   
+A video of Ejembi’s session, “[Responding to the Times: Equity, Access & Recovery](https://sdgactionzone.org/2022-on-demand/),” is now available.   
 
 The panel discussed the harmful effects conflict can have on the global economy, and especially on developing nations, by exacerbating food insecurity, constraining energy supplies, and raising costs in ways that inflame social divides, all of which impede progress toward the SDGs. 
 
