@@ -34,6 +34,9 @@ DAI has implemented development projects in Nigeria since 1970, and after nearly
 Since March 2018, the Nigeria team has worked in collaboration with colleagues around the world to deliver value for our clients and beneficiaries in Nigeria. Our clients include the U.K. Foreign, Commonwealth & Development Office, the U.S. Agency for International Development, the European Union, the Federal Government of Nigeria, and the Bill and Melinda Gates Foundation. Our diverse project portfolio encompasses: improving [governance and public service delivery](https://www.dai.com/our-work/projects/nigeria-state-accountability-transparency-and-effectiveness-state2state-activity), [strengthening democratic systems](https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii) in collaboration with the Independent National Electoral Commission; [empowering young Nigerians](https://www.dai.com/our-work/projects/nigeria-improving-adolescent-health-and-well-being-in-urban-areas) to access health resources and life skills; [helping government develop](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) and implement policies that promote growth and reduce poverty; [building the capacity of public officials](https://www.dai.com/our-work/projects/nigeria-technical-assistance-to-strengthen-public-financial-management-statistics-monitoring-and-evaluation-systems) for fiscal transparency and discipline; and through delivering a [more inclusive and effective education](https://www.dai.com/our-work/projects/nigeria-partnership-for-learning-for-all-plane) system that leads to better learning outcomes for students.
 
 Our corporate commitment to maintain long-term operational capability in Nigeria means our clients and partners benefit from DAI expertise across our global network as we continue to expand our services to a diverse range of clients: philanthropies, foundations, private firms, and government agencies. 
+
+In the course of our work with international donors and the Nigerian state and federal ministries, DAI has built a rich body of knowledge and extensive networks in the private sector and at the federal, state, and local government levels. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and support partners, customers, and beneficiaries.
+
 <hr>
 <div class="bulma">
   <div class="container">
@@ -84,11 +87,7 @@ Our corporate commitment to maintain long-term operational capability in Nigeria
       </div>
     </div>  
   </div>
-</div>
-<hr>
-In the course of our work with international donors and the Nigerian state and federal ministries, DAI has built a rich body of knowledge and extensive networks in the private sector and at the federal, state, and local government levels. As we absorb and apply the lessons of our work across clients and sectors, we continue to refine platform services and support partners, customers, and beneficiaries.
-
-{% include help-desk.html %}
+</div> 
 
 --- 
 
