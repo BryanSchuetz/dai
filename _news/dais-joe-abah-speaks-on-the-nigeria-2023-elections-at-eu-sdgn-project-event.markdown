@@ -1,5 +1,5 @@
 ---
-title: DAI’s Joe Abah Speaks on the Nigeria 2023 Elections at EU-SDGN Project Event
+title: DAI’s Joe Abah Speaks on the Nigeria 2023 Elections at EUSDGN Project Event
 date: 2022-10-11 16:11:00 Z
 tags:
 - Nigeria
