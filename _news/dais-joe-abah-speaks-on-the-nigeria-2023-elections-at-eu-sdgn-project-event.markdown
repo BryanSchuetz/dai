@@ -18,7 +18,8 @@ social-image: "/uploads/DSC_4606.jpg"
 country: Nigeria
 ---
 
-The European Union Support to Democratic Governance in Nigeria project recently formally closed out its first phase and hosted a launch of its [second phase](https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii) which runs through 2027. The event was both a discussion of accomplishments from the project’s first phase and an opportunity to share plans for the second phase. 
+The European Union Support to Democratic Governance in Nigeria project recently closed out its first phase and hosted a launch of its [second phase](https://www.dai.com/our-work/projects/nigeria-eu-support-to-democratic-governance-in-nigeria-eusdgn-programme-phase-ii) which runs through 2027. The event was both a discussion of the project’s initial accomplishments from the project’s first phase and an opportunity to share plans for its next stage.
+
 
 The project works to facilitate peaceful and fair electoral processes and advancements in Nigeria’s economic development. DAI implements component one of the programme—providing support to the Independent National Electoral Commission (INEC)—focused on enhancing the credibility of elections and boosting citizen participation across the country. 
 
