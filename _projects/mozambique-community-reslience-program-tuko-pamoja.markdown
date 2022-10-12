@@ -16,9 +16,9 @@ promos:
   link: https://usaidlearninglab.org/resources/pivoting-response-contextual-changes-adaptive-management-mozambique
 ---
 
-The Mozambique Community Resilience Program (MCRP), known locally as Tuko Pamoja ("We are together"), was designed to understand the dynamics and causes of the violence that had begun in 2017. Violent attacks were initially sporadic but escalated in frequency and deadliness until the insurgents were in effective control of northern parts of Cabo Delgado province. 
+The Mozambique Community Resilience Program (MCRP), known locally as Tuko Pamoja ("We are together"), was designed to understand the dynamics and causes of the violence that had begun in 2017 in northern parts of Cabo Delgado province. 
 
-MCRP worked in districts across Cabo Delgado province and in Nampula province in partnership with local government entities, community leaders, civil society organizations (CSOs), and other stakeholders. The program utilized a small grants mechanism allowing flexible implementation to respond to changes in context. 
+MCRP worked in districts across Cabo Delgado province and in Nampula province in partnership with local government entities, community leaders, civil society organizations, and other stakeholders. The program utilized a small grants mechanism allowing flexible implementation to respond to changes in context. 
 
 ## Sample Activities
 
