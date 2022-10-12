@@ -1,0 +1,38 @@
+---
+title: Mozambique—Community Reslience Program (Tuko Pamoja)
+date: 2022-10-12 13:58:00 Z
+published: false
+summary: The Mozambique Community Resilience Program, known locally as Tuko Pamoja,
+  strengthened locally driven resilience to violent extremism in northern Mozambique.
+start: 2019
+end: 2022
+client: U.S. Agency for International Development
+solutions:
+- Fragile States
+regions: Sub-Saharan Africa
+country: Mozambique
+promos:
+- title: 'Pivoting in Response to Contextual Changes: Adaptive Management in Mozambique'
+  link: https://usaidlearninglab.org/resources/pivoting-response-contextual-changes-adaptive-management-mozambique
+---
+
+The Mozambique Community Resilience Program (MCRP), known locally as Tuko Pamoja ("We are together"), was designed to understand the dynamics and causes of the violence that had begun in 2017. Violent attacks were initially sporadic but escalated in frequency and deadliness until the insurgents were in effective control of northern parts of Cabo Delgado province. 
+
+MCRP worked in districts across Cabo Delgado province and in Nampula province in partnership with local government entities, community leaders, civil society organizations (CSOs), and other stakeholders. The program utilized a small grants mechanism allowing flexible implementation to respond to changes in context. 
+
+## Sample Activities
+
+* Increase the capacity of youth leaders to promote resilience amongst their peers in the face of violent extremism. 
+* Reduce young people’s feelings of economic marginalization.
+* Increase positive engagement about community grievances between communities and the government. 
+* Increase dialogue and information sharing between communities and the local government
+* Increase local government responsiveness to address community priorities.
+
+## Select Results
+
+* MCRP is the first program to focus on P/CVE in northern Mozambique, partnering with over 25 local organizations over the past two years. To strengthen local organizations to prevent and counter VE in northern Mozambique, MCRP 
+
+* Hosted a workshop in Pemba to strengthen local organizations to prevent and counter violent extremism in northern Mozambique, bringing together 100 representatives from local government, grantees, community and private sector beneficiaries, and program staff. This workshop was the first of its kind for government, civil society organizations, and community changemakers working on preventing violent extremism in northern Mozambique. 
+* Partnered with Nampula Produções and identified six influential musicians in Memba to build awareness of positive narratives. They formed a band called Atuns de Memba and have produced and disseminated songs and videos with messages about preventing extremism.
+* Created fishing clubs in Chaonthe, Muthele, and Hacaburi villages to engage with young people and provide a focus other than violent extremism. The clubs have added new services to generate more income. They are selling ice water, and ice cubes and they rent space out to some fishermen who want to conserve their fish. 
+* Partnered with provincial cultural group Tambo Tambulani Tambo to host a series of interactive theater performances in Metuge district. Scripts were developed with input from community members and focused on solidarity, peace, and mutual support. 
