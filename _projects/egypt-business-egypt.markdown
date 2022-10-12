@@ -41,3 +41,4 @@ DAI’s implementation approach makes maximum use of Egyptian resources. The bul
 ## Select Results
 
 * Supported the Women Entrepreneurs Network and Tiye Angels networks’ participation in the Africa Women Innovation & Entrepreneurship Forum, where members spoke on panels such as “Venture Capital and Support for Africa’s Bright Ideas" and “Training and Support for Start-Ups—What Works.”
+* Implemented an outreach and technical assistance plan to increase awareness about the Visa "She's Next" initiative in Egypt and supported women-led startups in their applications through a series of technical workshops.
