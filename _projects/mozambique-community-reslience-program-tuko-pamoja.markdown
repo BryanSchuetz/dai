@@ -1,5 +1,5 @@
 ---
-title: Mozambique—Community Reslience Program (Tuko Pamoja)
+title: Mozambique—Community Resilience Program (Tuko Pamoja)
 date: 2022-10-12 13:58:00 Z
 published: false
 summary: The Mozambique Community Resilience Program, known locally as Tuko Pamoja,
