@@ -37,3 +37,7 @@ DAI’s implementation approach makes maximum use of Egyptian resources. The bul
 * Establish sector-specific accelerators.
 * Build capacity of business development service centers, facilitate networks with financial institutions, and broker linkages with anchor firms.
 * Simplify tax policies, regulations, and processes for MSMEs.
+
+## Select Results
+
+* Supported the Women Entrepreneurs Network and Tiye Angels networks’ participation in the Africa Women Innovation & Entrepreneurship Forum, where members spoke on panels such as “Venture Capital and Support for Africa’s Bright Ideas" and “Training and Support for Start-Ups—What Works.”
