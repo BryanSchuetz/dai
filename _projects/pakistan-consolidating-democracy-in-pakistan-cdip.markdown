@@ -11,7 +11,7 @@ client: Foreign, Commonwealth & Development Office
 solutions:
 - Governance
 - Legislative Strengthening
-regions: Eastern Europe and Central Asia
+regions: Asia and the Pacific
 country: Pakistan
 promos:
 - title: Reaching the Needs of All Citizens in a More Democratic Pakistan
