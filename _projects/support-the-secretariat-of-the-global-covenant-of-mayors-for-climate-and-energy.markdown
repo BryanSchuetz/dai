@@ -2,11 +2,11 @@
 title: Worldwide—Support the Secretariat of the Global Covenant of Mayors for Climate
   and Energy
 date: 2020-10-09 09:26:00 Z
-summary: "The Support the Secretariat of the GCoM for Climate and Energy project develops,
+summary: 'The Support the Secretariat of the GCoM for Climate and Energy project develops,
   monitors, and leads climate and sustainable energy action and diplomacy globally
   through the local level, supporting the implementation of the Paris Agreement, the
-  2030 Agenda and the Sustainable Development Goals, and other United Nations' initiatives
-  on climate change and cities. \n"
+  2030 Agenda and the Sustainable Development Goals, and other United Nations'' initiatives
+  on climate change and cities. '
 start: 2020
 end: 2024
 client: European Union
@@ -20,13 +20,13 @@ More than half of the world’s population lives in cities, which is likely to i
 
 The roles of cities and local authorities as hubs of innovation and creativity have gained increasing importance in preparing for, and adapting to, the increased risk posed by climate change. Climate action in cities can catalyse national economic prosperity and enhance the quality of life for urban dwellers while reducing global emissions. Energy, building, mobility, and planning solutions and innovations in cities have the potential to deliver major emission cuts. 
 
-The idea of changing how we plan, build, manage, and power our cities and towns paved the way for the development of the Global Covenant of Mayors (GCoM) for Climate and Energy initiative. In 2020, more than 10,000 cities from 138 countries across six continents—representing 21 percent of the global urban population—are signatories of the GCoM. By doing so, they pledge to implement policies and undertake measures to reduce or limit greenhouse gas emissions, prepare for the impacts of climate change, increase access to sustainable energy, and track progress toward these objectives. 
+The idea of changing how we plan, build, manage, and power our cities and towns paved the way for the development of the Global Covenant of Mayors (GCoM) for Climate and Energy initiative. In 2022, more than 12,600 cities from 143 countries across six continents—representing more than 1 billion people—are signatories of the GCoM. By doing so, they pledge to implement policies and undertake measures to reduce or limit greenhouse gas emissions, prepare for the impacts of climate change, increase access to sustainable energy, and track progress toward these objectives. 
 
 The Support the Secretariat of the GCoM for Climate and Energy project develops, monitors, and leads climate and sustainable energy action and diplomacy globally through the local level, supporting the implementation of the Paris Agreement, the 2030 Agenda and the Sustainable Development Goals, and other United Nations' initiatives on climate change and cities. 
 
 The DAI team provides systematic and continual support to the Global GCoM Secretariat in Brussels. 
 
-### Sample Activities
+## Sample Activities
  
 * Organise events to enhance the international visibility of the GCoM in coordination with the regional covenants.
 * Develop coordination mechanisms between the regional and the global covenants to improve coherence between their activities.
