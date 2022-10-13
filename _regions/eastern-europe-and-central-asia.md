@@ -1,12 +1,12 @@
 ---
 title: Eastern Europe and Central Asia
-date: 2016-01-27 22:20:40.426000000 Z
-layout: node
+date: 2016-01-27 22:20:00 Z
 summary: DAI first worked in Eastern Europe and Central Asia in 1976, and since the
   breakup of the Soviet Union and Yugoslavia, we have joined donors and governments
   in the region to promote democratic practices and enterprise economies, strengthen
   farming and business practices, and encourage responsible resource management.
 hero: true
+layout: node
 ---
 
 From legislative strengthening assistance in Ukraine and Armenia to governance reform in Serbia and Romania, we have led and supported good governance initiatives since 1996, helping numerous institutions across the region become effective public servants.
@@ -17,4 +17,4 @@ Since 1997, we have managed European Bank for Reconstruction and Development-fin
 
 In Afghanistan, our work dates to 1976 and includes nearly 30 long- and short-term projects. We are now implementing seven major projects in the country for the U.S. Agency for International Development. Our enterprise development project, for example, has generated 100,000 jobs and leveraged $104 million in new investment; and our agricultural credit team, working with the Afghan agriculture ministry, has facilitated 11,500 loans to commercial farmers in 24 provinces.
 
-Since the Soviet invasion of Afghanistan in 1979, Eastern Europe and Central Asia has undergone dramatic social, political, and economic change, in addition to devastating armed conflict, most recently in Afghanistan. We are proud of our development results in the face of this upheaval, and committed to building on this experience in the years to come.
+Since the Soviet invasion of Afghanistan in 1979, Eastern Europe and Central Asia have undergone dramatic social, political, and economic change, in addition to devastating armed conflict, most recently in Afghanistan. We are proud of our development results in the face of this upheaval and are committed to building on this experience in the years to come.
