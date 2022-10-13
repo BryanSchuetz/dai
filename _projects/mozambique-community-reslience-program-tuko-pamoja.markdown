@@ -1,7 +1,6 @@
 ---
 title: Mozambique—Community Resilience Program (Tuko Pamoja)
 date: 2022-10-12 13:58:00 Z
-published: false
 summary: The Mozambique Community Resilience Program, known locally as Tuko Pamoja,
   strengthened locally driven resilience to violent extremism in northern Mozambique.
 start: 2019
