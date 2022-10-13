@@ -17,7 +17,7 @@ While Kosovo has been making positive progress towards reform and the requiremen
 
 The Kosovo Strengthening Public Procurement (KSPP) project, part of the U.K. Foreign, Commonwealth & Development Office’s Conflict, Stability and Security Fund, works to strengthen the public procurement system in Kosovo to reduce incidents of malfeasance and corruption. It improves practices implemented by contracting authorities, as well as working with the Procurement Review Body (PRB)—a decision-making panel—to ensure professional and fair adjudication of procurement disputes.
 
-![file-12.jpeg](/uploads/file-12.jpeg)
+![Newborn_Pristina.jpg](/uploads/Newborn_Pristina.jpg)
  
 ### Sample Activities
  
