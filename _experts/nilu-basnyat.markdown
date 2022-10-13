@@ -2,9 +2,10 @@
 title: Nilu Basnyat
 date: 2021-04-19 08:26:00 Z
 lastname: Basnyat
-summary: Nilu Puri Basnyat is an established country representative for DAI in Nepal,
-  and an experienced program manager, and technical specialist for governance and
-  environmental water projects.
+summary: 'Nilu Puri Basnyat is DAI’s country representative in Nepal, where she provides
+  strategic advice to the firm, establishes and maintains networks and key relationships,
+  strengthens DAI’s positioning in and support for the development sector, facilitates
+  project delivery, and works to mitigate risk. '
 job-title: Country Representative, Nepal
 image: "/uploads/Nilu.jpg"
 solutions:
