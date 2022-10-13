@@ -10,7 +10,7 @@ end: 2023
 client: World Bank
 solutions:
 - Education
-regions: Eastern Europe and Central Asia
+regions: Asia and the Pacific
 country: Pakistan
 ---
 
