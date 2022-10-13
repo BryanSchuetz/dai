@@ -5,7 +5,7 @@ lastname: Boulton
 summary: Danielle Boulton has more than 10 years of experience in project and team
   management and delivery, new business development, knowledge management, value for
   money analysis, and stakeholder engagement and coordination.
-job-title: Senior Program Manager, Global Health
+job-title: Project Director, Global Health
 image: "/uploads/Danielle%20Boulton.jpg"
 solutions:
 - Global Health
