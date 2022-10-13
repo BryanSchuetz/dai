@@ -13,7 +13,7 @@ solutions:
 - Environment
 - Climate
 - Climate Change Adaptation and Mitigation
-regions: Eastern Europe and Central Asia
+regions: Asia and the Pacific
 country: Pakistan
 ---
 
