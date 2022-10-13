@@ -25,7 +25,7 @@ SFPMx works to increase the market relevance and quality of technical and profes
 
 Skills for Prosperity follows an inclusion and gender approach through its interventions to ensure more marginalized people have opportunities to access quality education and training. The Programme also drives sustainable changes to increase women´s participation in Science, Technology, Engineering and Maths (STEM). It works with indigenous communities to help their members access better training opportunities that increase their employability.
 
-![Mexico Skills.jpg](/uploads/Mexico%20Skills.jpg)`Photo courtesy: International Youth Foundation.`
+![COMUNIDAD UTVCO 1.JPG](/uploads/COMUNIDAD%20UTVCO%201.JPG)
 
 ### Sample Activities
 
