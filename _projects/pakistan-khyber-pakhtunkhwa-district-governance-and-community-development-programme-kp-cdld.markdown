@@ -10,7 +10,7 @@ end: 2021
 client: European Union
 solutions:
 - Governance
-regions: Eastern Europe and Central Asia
+regions: Asia and the Pacific
 country: Pakistan
 promos:
 - title: 'Supporting Women’s Inclusion Through Community Development in Pakistan '

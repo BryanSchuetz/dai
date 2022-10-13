@@ -10,7 +10,7 @@ end: 2022
 client: European Union
 solutions:
 - Governance
-regions: Eastern Europe and Central Asia
+regions: Asia and the Pacific
 country: Pakistan
 promos:
 - title: How EuropeAid’s Pakistan BRACE Programme is Engaging Communities in the COVID-19
