@@ -14,7 +14,7 @@ solutions:
 - Peace-Building and Political Transition
 - Stabilization
 regions:
-- Eastern Europe and Central Asia
+- Asia and the Pacific
 country:
 - Pakistan
 layout: project
@@ -24,7 +24,7 @@ Khyber Pakhtunkhwa (KP) is Pakistan's smallest province, but it ranks third in p
 
 The Khyber Pakhtunkhwa Governance Program (KPG) assisted the provincial government and civil society organizations to improve local government service and better serve citizens. It managed a mechanism for supporting activities that reinforced stability, counter extremism, and promoted democratic inclusiveness, including for women and other marginalized groups.
 
-### Sample Activities
+## Sample Activities
 
 * Leverage current KP government initiatives and systems with government taking the lead role.
 * Deliver integrated assistance packages in areas such as training government units to improve services and accountability.

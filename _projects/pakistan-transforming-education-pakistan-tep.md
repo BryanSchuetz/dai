@@ -14,7 +14,7 @@ solutions:
 - Voice and Accountability
 - Education
 regions:
-- Eastern Europe and Central Asia
+- Asia and the Pacific
 country:
 - Pakistan
 layout: project
