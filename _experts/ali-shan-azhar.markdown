@@ -12,7 +12,7 @@ solutions:
 - Global Health
 - Health Governance
 regions:
-- Eastern Europe and Central Asia
+- Asia and the Pacific
 ---
 
 Ali Shan Azhar is a social sector governance specialist who started his career in Pakistan as a civil servant and since 2003 has conducted analytical research on poverty, inequality, economic growth, and human development in Pakistan and South Asia. He worked as Senior Research Fellow at the Mahbub ul Haq Human Development Centre in Islamabad and was the Editor of the annual “South Asia Human Development Report.” 
