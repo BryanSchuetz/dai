@@ -6,10 +6,11 @@ summary: 'Ali Shan Azhar is a social sector governance specialist who started hi
   career in Pakistan as a civil servant and since 2003 has conducted analytical research
   on poverty, inequality, economic growth, and human development in Pakistan and South
   Asia. '
-job-title: Governance Adviser
+job-title: Governance Adviser, Fleming Fund Pakistan
 image: "/uploads/Ali%20Shan%20Azhar.jpg"
 solutions:
 - Global Health
+- Health Governance
 regions:
 - Eastern Europe and Central Asia
 ---
