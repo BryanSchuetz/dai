@@ -16,7 +16,7 @@ The Partners for Transparency (PfT) program supports locally driven solutions th
 
 ![colombia.png](/uploads/colombia.png)
 
-### Sample Activities
+## Sample Activities
  
 * Advance national-level government transparency and accountability initiatives.
 * Promote local-level civic participation.
