@@ -12,7 +12,7 @@ solutions:
 - Governance
 - Land Tenure and Property Rights
 - Environment
-regions: Eastern Europe and Central Asia
+regions: Asia and the Pacific
 country: Pakistan
 ---
 

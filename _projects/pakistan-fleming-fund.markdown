@@ -12,7 +12,7 @@ solutions:
 - Global Health
 - Health Governance
 - Global Health Security
-regions: Eastern Europe and Central Asia
+regions: Asia and the Pacific
 country: Pakistan
 promos:
 - title: Fleming Fund Pakistan 2021 Achievements - Infographic
