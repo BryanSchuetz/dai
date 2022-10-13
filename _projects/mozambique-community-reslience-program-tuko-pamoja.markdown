@@ -25,13 +25,13 @@ MCRP worked in districts across Cabo Delgado province and in Nampula province in
 * Increase the capacity of youth leaders to promote resilience amongst their peers in the face of violent extremism. 
 * Reduce young people’s feelings of economic marginalization.
 * Increase positive engagement about community grievances between communities and the government. 
-* Increase dialogue and information sharing between communities and the local government
+* Increase dialogue and information sharing between communities and the local government.
 * Increase local government responsiveness to address community priorities.
 
 ## Select Results
 
 * Hosted a workshop in Pemba to strengthen local organizations to prevent and counter violent extremism in northern Mozambique, bringing together 100 representatives from local government, grantees, community and private sector beneficiaries, and program staff. This workshop was the first of its kind for government, civil society organizations, and community changemakers working on preventing violent extremism in northern Mozambique. 
-* Partnered with Nampula Produções and identified six influential musicians in Memba to build awareness of positive narratives. They formed a band called Atuns de Memba and have produced and disseminated songs and videos with messages about preventing extremism.
-* Created fishing clubs in Chaonthe, Muthele, and Hacaburi villages to engage with young people and provide a focus other than violent extremism. The clubs have added new services to generate more income. They are selling ice water, and ice cubes and they rent space out to some fishermen who want to conserve their fish. 
-* Partnered with provincial cultural group Tambo Tambulani Tambo to host a series of interactive theater performances in Metuge district. Scripts were developed with input from community members and focused on solidarity, peace, and mutual support. 
+* With a partner, identified influential musicians to build awareness of positive narratives. They formed a band and have produced and disseminated songs and videos with messages about preventing extremism.
+* Created fishing clubs in three villages to engage with young people and provide a focus other than violent extremism. The clubs have added new services to generate more income. They are selling ice water, and ice cubes and they rent space out to some fishermen who want to conserve their fish. 
+* Partnered with a provincial cultural group to host a series of interactive theater performances in Metuge district. Scripts were developed with input from community members and focused on solidarity, peace, and mutual support. 
 * Conducted 334 dialogues across a variety of grants to build community awareness of the conflict, and to discuss community issues. 
