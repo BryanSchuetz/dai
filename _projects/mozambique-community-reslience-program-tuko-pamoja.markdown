@@ -19,6 +19,8 @@ The Mozambique Community Resilience Program (MCRP), known locally as Tuko Pamoja
 
 MCRP worked in districts across Cabo Delgado province and in Nampula province in partnership with local government entities, community leaders, civil society organizations, and other stakeholders. The program utilized a small grants mechanism allowing flexible implementation to respond to changes in context. MCRP was the first program to focus on preventing and countering violent extremism in northern Mozambique, partnering with more than 25 local organizations over the past two years. 
 
+![tuko.jpg](/uploads/tuko.jpg)`Photo: Fabio de Sousa.`
+
 ## Sample Activities
 
 * Increase the capacity of youth leaders to promote resilience amongst their peers in the face of violent extremism. 
