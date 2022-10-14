@@ -26,7 +26,7 @@ But the relationship between the ruling party and civil society is highly polari
 
 TRACE seeks to design, build, and implement a civil society support program where the CSOs look at government in a less adversarial way and forge relationships to promote constructive dialogue and partnership. The ultimate aim is to empower citizens to hold the Zimbabwean state to account for its use of resources and its respect for human rights and democratic principles. This is to be achieved by enabling CSOs to work in more innovative, flexible, and collective ways to identify and focus on tractable issues in five TRACE priority themes: access to justice, human rights, electoral reform, access to information, and service delivery.
 
-![][1]
+![TRACE Participants at a mobile legal clinic (pic Credit Mafunda ZLHR).jpg](/uploads/TRACE%20Participants%20at%20a%20mobile%20legal%20clinic%20(pic%20Credit%20Mafunda%20ZLHR).jpg)
 
 ### Sample Activities
 
