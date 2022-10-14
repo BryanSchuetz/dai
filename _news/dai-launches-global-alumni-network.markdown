@@ -8,7 +8,7 @@ DAI is delighted to announce the launch of a new professional community that wil
 
 Since DAI’s founding more than 50 years ago, staff members have often reflected on how much their relationships with DAI’s people come to define their time at the company and leave a meaningful impact on their careers and their lives. The Alumni Network aims to celebrate and capitalize on the knowledge, experiences, and social connections that employees develop during their tenure at DAI.  
 
-![Mozambique ReConnect 1.png](/uploads/Mozambique%20ReConnect%201.png)`DAI colleagues reunite at a recent Alumni Network event in Mozambique. Photo: DAI.`
+![Mozambique ReConnect final.png](/uploads/Mozambique%20ReConnect%20final.png)`DAI colleagues reunite at a recent Alumni Network event in Mozambique. Photo: DAI.`
 
 “The idea of the Network is simple,” says DAI CEO [Jim Boomgard](https://www.dai.com/who-we-are/board/james-boomgard). “Too often, the bonds that connect us for the duration of a project or an assignment—the bonds that allow us to achieve great things—can fade away as projects turn over and people move on to other jobs or pursue other interests. We want to bring DAI alumni and employees back together in a network that will foster relationships and collaboration.” 
 
