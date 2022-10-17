@@ -1,7 +1,6 @@
 ---
 title: DAI Launches Global Alumni Network
-date: 2022-10-17 06:41:00 Z
-published: false
+date: 2022-10-17 05:41:00 Z
 summary: 'DAI is delighted to announce the launch of a new professional community
   that will bring together current and former DAI staff from around the world. The
   [DAI Alumni Network](https://alumni.dai.com/) will provide spaces—both in person
