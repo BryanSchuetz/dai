@@ -27,4 +27,6 @@ The DAI Alumni Network will also provide a forum to elevate *local* voices, allo
 
 In this spirit, the Alumni Network has already hosted “Reconnect Events” with DAI alumni and staff in Ethiopia, Jordan, Mozambique, Nigeria, and Palestine.   
 
+![events.png](/uploads/events.png)`Reconnect Events in Nigeria, Ethiopia, and Jordan. Photo: DAI.`
+
 The Alumni Network is open to all former and current DAI corporate and project staff, including those who worked for DAI-predecessor firms such as HTSPE, the HPI Group, GRID Consulting, Human Dynamics, Magister, and MicroVest. Alumni at all career levels—from those just starting out to those who have retired—are encouraged to [register here.](https://alumni.dai.com/)   
