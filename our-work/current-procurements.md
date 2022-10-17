@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFA 2022-20 RFS Toolkit](/uploads/RFA%202022-20%20RFS%20Toolkit.pdf "11/22")
 * [Procurement of Market Acceleration Services in Silicon Valley for Georgian Startups](https://dai-assets.s3.amazonaws.com/rfps/GESP-RFP-060-FINAL%5B71%5D.pdf "10/24")
 * [EOI Template_Mexico ConJusticia_Fortalecimiento GEPPP](/uploads/EOI%20Template_Mexico%20ConJusticia_Fortalecimiento%20GEPPP.pdf "10/24")
 * [EOI Template_Mexico ConJusticia_Comunidad Aprendizaje FORTSJP](/uploads/EOI%20Template_Mexico%20ConJusticia_Comunidad%20Aprendizaje%20FORTSJP.pdf "10/24")
