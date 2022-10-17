@@ -19,6 +19,10 @@ Since DAI’s founding more than 50 years ago, staff members have often reflecte
 
 The Alumni Network centers around an [online portal](https://alumni.dai.com/), exclusively accessible to former and current DAI staff. Members can create profiles in the platform’s directory to connect with alumni from more than 80 countries. The platform offers features to help users explore career and partnership opportunities, participate in social and learning events, and engage with new thinking and solutions from DAI.
 
+![portal.png](/uploads/portal.png)`The Alumni Network’s online platform is a membership hub open to all current and former employees.`  
+
+The DAI Alumni Network will also provide a forum to elevate *local* voices, allowing each member the opportunity to be seen and heard. Alumni from all countries, backgrounds, and experience levels can celebrate their accomplishments, share their stories, and build their social and professional networks, locally and internationally.  
+
 “DAI has always had a vibrant alumni community,” says Alexandra Begle, Director of the DAI Alumni Network. “We felt that 2022 was the right time to formalize and expand that community into the Alumni Network. After several years of remote work and reduced travel due to the pandemic, our staff is eager for reconnection with former colleagues across the world.”   
 
 In this spirit, the Alumni Network has already hosted “Reconnect Events” with DAI alumni and staff in Ethiopia, Jordan, Mozambique, Nigeria, and Palestine.   
