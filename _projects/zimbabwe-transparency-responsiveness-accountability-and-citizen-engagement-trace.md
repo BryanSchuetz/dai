@@ -26,7 +26,7 @@ But the relationship between the ruling party and civil society is highly polari
 
 TRACE seeks to design, build, and implement a civil society support program where the CSOs look at government in a less adversarial way and forge relationships to promote constructive dialogue and partnership. The ultimate aim is to empower citizens to hold the Zimbabwean state to account for its use of resources and its respect for human rights and democratic principles. This is to be achieved by enabling CSOs to work in more innovative, flexible, and collective ways to identify and focus on tractable issues in five TRACE priority themes: access to justice, human rights, electoral reform, access to information, and service delivery.
 
-![][1]
+![TRACE Participants at a mobile legal clinic (pic Credit Mafunda ZLHR).jpg](/uploads/TRACE%20Participants%20at%20a%20mobile%20legal%20clinic%20(pic%20Credit%20Mafunda%20ZLHR).jpg)
 
 ### Sample Activities
 
@@ -36,7 +36,8 @@ TRACE seeks to design, build, and implement a civil society support program wher
 
 ### Select Results
 
-* TRACE partners handled 151,461 legal aid matters by March 2020, significantly exceeding its cumulative milestone of 130,000. 
-* Raised civic awareness on topics such as gender-based violence, people with disabilities, social inclusion, constitutional amendments, human rights, mineral revenue transparency, and electoral matters.
+* TRACE partners had provided legal support that benefited over 250,000 citizens by the end of December 2021, significantly exceeding its cumulative milestone of 130,000. Approximately 40 percent of the support provided was for direct beneficiaries, with the remainder standing to benefit indirectly.
+* Over 60 percent of beneficiaries were women, and maintenance, inheritance and property rights, divorce, and protection orders (from gender-based violence) accounted for most cases.
+* The project raised civic awareness on topics such as people with disabilities, social inclusion, constitutional amendments, human rights, mineral revenue transparency, and electoral matters.
 
 [1]: https://assetify-dai.com/projects/Zimbabwe-TRACE-pic_1.jpg

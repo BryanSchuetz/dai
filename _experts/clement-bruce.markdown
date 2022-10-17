@@ -1,6 +1,7 @@
 ---
 title: Clement Bruce
 date: 2022-01-06 14:23:00 Z
+published: false
 lastname: Bruce
 summary: 'Clement Bruce is an experienced project manager with more than seven years
   of project management experience in the private sector managing large multi-country

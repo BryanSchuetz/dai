@@ -8,7 +8,7 @@ layout: default
 
 # Frequently Asked Questions
 
-Don't see the answer you're looking for below? [Send us your question][1] and we'll find an answer for you.
+Don't see the answer you're looking for below? [Send us your question][1] and we will find an answer for you.
 
 <aside>
   <h2>How do I contact DAI regarding my application for a Special Immigrant Visa?</h2>
