@@ -4,13 +4,17 @@ date: 2022-01-21 18:23:00 Z
 permalink: our-work/solutions/climate-cop
 icon: <svg class="corp-badge badge" viewBox="0 0 101 101" preserveAspectRatio="xMinYMax
   meet"><use xlink:href="#climate"></use></svg>
-summary: |
-  As the need to address the global climate crisis becomes ever more pressing, DAI is proud to be part of a defining moment for the planet's future. DAI technical experts from across world offices are involved in several events at COP27 and would welcome your participation. If you are at COP27, please come and talk to us.
+summary: 'As the need to address the global climate crisis becomes ever more pressing,
+  DAI is proud to be part of a defining moment for the planet''s future. DAI technical
+  experts from across world offices are involved in several events at COP27 and would
+  welcome your participation. If you are at COP27, please come and talk to us.
+
+'
 redirect_from:
 - "/our-work/solutions/environment-solutions/climate-change-adaptation-and-mitigation"
 related: false
 hero: true
-ultrawide: true 
+ultrawide: true
 layout: solution
 ---
 
