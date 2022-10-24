@@ -2,9 +2,9 @@
 title: Ruth Sparrey
 date: 2016-01-21 22:18:00 Z
 lastname: Sparrey
-summary: Ruth Sparrey leads the Resilience, Climate, and Environment practice in our
-  U.K. office.
-job-title: Director, Resilience, Climate, and Environment
+summary: 'Ruth Sparrey is to an advisor the Resilience, Climate, and Environment practice
+  in our U.K. office. '
+job-title: Advisor
 image: https://assetify-dai.com/experts/RuthInner.jpg
 solutions:
 - Environment
@@ -20,7 +20,7 @@ regions:
 layout: expert
 ---
 
-Ruth Sparrey leads the Resilience, Climate, and Environment practice in our U.K. office. She brings more than 25 years of experience as a rural development consultant and project director, working with community-based and nongovernmental organisations, and with governments to manage innovative livelihood initiatives targeted at households, farms, and communities. She has overseen and managed a wide range of projects in Afghanistan, Bangladesh, Kyrgyzstan, the Sahel, South Sudan, eSwatini, and Thailand for a range of clients, including the U.K. Foreign, Commonwealth & Development Office, the European Union, the World Food Programme, GIZ, and the Capacity Building Trust Fund. 
+Ruth Sparrey is to an advisor the Resilience, Climate, and Environment practice in our U.K. office. She brings more than 25 years of experience as a rural development consultant and project director, working with community-based and nongovernmental organisations, and with governments to manage innovative livelihood initiatives targeted at households, farms, and communities. She has overseen and managed a wide range of projects in Afghanistan, Bangladesh, Kyrgyzstan, the Sahel, South Sudan, eSwatini, and Thailand for a range of clients, including the U.K. Foreign, Commonwealth & Development Office, the European Union, the World Food Programme, GIZ, and the Capacity Building Trust Fund. 
 
 At DAI, Ruth has held programme management responsibility for [Evidence on Demand](https://www.dai.com/our-work/projects/worldwide-evidence-demand-core-services), a knowledge service that covered climate, environment, infrastructure, and livelihoods themes, and was responsible for the [Expert Advisory Call Down Service for Resilience and Strengthening Response to Crisis](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds) managed by DAI. 
 
