@@ -5,6 +5,8 @@
 - text: News
   link: /news/view-more-news?filter=climate
 - text: Publications
-  link: /publications/view-more-articles?filter=climate
+  link: https://dai-global-developments.com/tags/climate/
 - text: Videos
   link: /our-work/solutions/climate-videos
+- text: COP27
+  link: /our-work/solutions/climate-cop

@@ -17,7 +17,7 @@ layout: default
     {% endfor %}
 {% endif %}
 {{ content }}
-{% unless page.type == 'primary' or page.url contains 'our-work/solutions/climate-videos' or page.url contains 'cda-insights'%}
+{% unless page.type == 'primary' or page.url contains 'our-work/solutions/climate-videos' or page.url contains 'cda-insights' or page.url contains '/climate-cop' %}
   {% include solution-queries.html %}
 {% endunless %}
 </div>
@@ -64,8 +64,49 @@ layout: default
   </ul>
 </div>
 {% endif %}
-{% if page.title =='Climate' %}
-  <div class="covid-news-wrapper">
+{% if page.title == 'Climate' %}
+{%  if page.url contains "climate-cop"  %}
+    <div class="covid-news-wrapper">
+    <ul>
+      <li class="covid-list-item"><a class="covid-item-link" href="/who-we-are/our-team/zac-bull">
+        <div class="covid-item-image" style="background-image: url(/uploads/Zac-a1e373.jpg);"></div>
+        <span class="covid-item-text">Zac Bull, Senior Manager</span>
+      </a></li>
+      
+      <li class="covid-list-item"><a class="covid-item-link" href="https://www.linkedin.com/in/marcdeschamps1708/">
+        <div class="covid-item-image" style="background-image: url(/uploads/marc-dechamps.png);"></div>
+        <span class="covid-item-text">Marc Deschamps, Co Head at DAI Magister</span>
+      </a></li>
+
+      <li class="covid-list-item"><a class="covid-item-link" href="/who-we-are/our-team/jette-findsen">
+        <div class="covid-item-image" style="background-image: url(/uploads/1%20Jette.jpg);"></div>
+        <span class="covid-item-text">Jette Findsen, Vice President, Environment</span>
+      </a></li>
+      
+      <li class="covid-list-item"><a class="covid-item-link" href="/who-we-are/our-team/colleen-green">
+        <div class="covid-item-image" style="background-image: url(https://assetify-dai.com/experts/innercoleen.jpg);"></div>
+        <span class="covid-item-text">Colleen Green, Vice President, Economic Growth</span>
+      </a></li>
+      
+      <li class="covid-list-item"><a class="covid-item-link" href="who-we-are/our-team/donald-lunan">
+        <div class="covid-item-image" style="background-image: url(https://assetify-dai.com/experts/DonaldLunanINNER.jpg);"></div>
+        <span class="covid-item-text">Donald Lunan, Global Director for Climate</span>
+      </a></li>
+
+      <li class="covid-list-item"><a class="covid-item-link" href="/who-we-are/our-team/sofia-martinez">
+        <div class="covid-item-image" style="background-image: url(/uploads/Martinez,%20Sofia%20-%20Photo%20.jpg);"></div>
+        <span class="covid-item-text">Sofia Martinez, Principal, Climate</span>
+      </a></li>
+
+      <li class="covid-list-item"><a class="covid-item-link" href="/who-we-are/our-team/catherine-wallis">
+        <div class="covid-item-image" style="background-image: url(https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg);"></div>
+        <span class="covid-item-text">Catherine Wallis, Principal Consultant, Climate</span>
+      </a></li>
+
+    </ul>
+  </div>
+{%  else  %}
+    <div class="covid-news-wrapper">
     <ul>
       <li class="covid-list-item"><a class="covid-item-link" href="/uploads/energy-technical-services.pdf">
         <div class="covid-item-image" style="background-image: url(/uploads/energy-technical-services.png);"></div>
@@ -89,7 +130,8 @@ layout: default
     </a></li>
     </ul>
   </div>
-  {% endif %}
+{% endif %}
+{% endif %}
   {% if page.title == 'DAI in Pakistan' %}
   <div class="covid-news-wrapper">
     <ul>

@@ -230,7 +230,7 @@
   {%- endif -%}
 
 {% elsif page.hero and page.url contains "our-work" %}
-  <div class="hero-wrap our-work {% if page.url contains "sustainable-business" or page.url contains "local-content-and-supply-chain" %} sustainable-business{% endif %}">
+  <div class="hero-wrap our-work {% if page.url contains "sustainable-business" or page.url contains "local-content-and-supply-chain" %} sustainable-business{% endif %}{%- if page.url contains "climate-cop" -%} cop27{%- endif -%}">
     <div class="node-hero">
     {%- comment -%} This spaggetti of logic is HORRIBLE. Find a way to reduce the complexity here 
     
@@ -250,8 +250,8 @@
       |> print the SOLUTION's summary—pull out p tags etc.
     - if we're on the Global Health primary solution, print a call out to sign up to the newsletter
       {%- endcomment -%}
-        <h1 class="hero-title">{% if page.type == "primary" or page.url contains 'our-work/solutions/climate-videos' %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }}  {% if page.url contains "digital-acceleration" %}<a class="hero-title--link" href="/our-work/solutions/digital-acceleration">Center for Digital Acceleration</a> {% else %}<a class="hero-title--link" href="/{{ solution[0].permalink }}">{{ solution[0].title }}</a>{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}{% if page.url contains 'our-work/solutions/climate-videos'%}<a class="hero-title--link" href="/our-work/solutions/climate">{{page.title}}</a>{% endif %}</h1>
-        <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}{%if page.title == 'Global Health'%} <br><span style="font-size: .8rem;"><a href="/sign-up">Subscribe</a> to our newsletter for periodic updates from DAI Global Health.</span> {% endif %} {% if page.url contains 'our-work/solutions/climate-videos'%}{{page.summary}}{% endif %}</p>
+        <h1 class="hero-title">{% if page.type == "primary" or page.url contains 'our-work/solutions/climate-videos' or page.url contains "climate-cop" %}{{ page.icon }} {% endif %}{% if page.layout == "solution" and page.type != "primary" %}{% assign solution = site.solutions | where_exp:"item","item.title == page.solutions[0]" %}{{ solution[0].icon }}  {% if page.url contains "digital-acceleration" %}<a class="hero-title--link" href="/our-work/solutions/digital-acceleration">Center for Digital Acceleration</a> {% else %}<a class="hero-title--link" href="/{{ solution[0].permalink }}">{{ solution[0].title }}</a>{% endif %} {% else %}{% if page.title == "Digital Acceleration" %}Center for Digital Acceleration{% else %}{{page.title}}{% endif %}{% endif %}{% if page.url contains 'our-work/solutions/climate-videos' or page.url contains "climate-cop"%}<a class="hero-title--link" href="/our-work/solutions/climate">{{page.title}}</a>{% endif %}</h1>
+        <p class="hero-excerpt">{% if solution %} {{ solution[0].summary | markdownify | remove:"<p>" | remove:"</p>"}}{%else%}{{page.summary | markdownify | remove:"<p>" | remove:"</p>"}}{%endif%}{%if page.title == 'Global Health'%} <br><span style="font-size: .8rem;"><a href="/sign-up">Subscribe</a> to our newsletter for periodic updates from DAI Global Health.</span> {% endif %} {% if page.url contains 'our-work/solutions/climate-videos' or page.url contains "climate-cop"%}{{page.summary}}{% endif %}</p>
         <!-- headernav for Global Health -->
         {% if page.url contains '/our-work/solutions/dai-global-health' or page.url contains 'our-work/solutions/global-health' %}<p class="section-nav">
           {%- for nav in site.data.nav-health -%}

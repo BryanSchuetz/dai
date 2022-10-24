@@ -2143,3 +2143,11 @@ ol li::marker{
     }
   }
 }
+.cop-event-header{
+  padding-left: 0; 
+  margin-left: 0;
+}
+.cop-event-header li{
+  margin-bottom: 0;
+  list-style-type: none;
+}

@@ -14,7 +14,7 @@ hero: true
 layout: solution
 ---
 
-Climate Change presents a complex problem, but one that we know how to solve—we need to reduce emissions of greenhouse gases while supporting vulnerable communities to adapt to a changing climate. There is no single solution, no silver bullet, but a need to innovate and scale, bringing together experts from multiple disciplines to develop appropriate responses.
+[![cop square logo](/uploads/cop-square.jpg){:.float-left}](/our-work/solutions/climate-cop)Climate Change presents a complex problem, but one that we know how to solve—we need to reduce emissions of greenhouse gases while supporting vulnerable communities to adapt to a changing climate. There is no single solution, no silver bullet, but a need to innovate and scale, bringing together experts from multiple disciplines to develop appropriate responses.
 
 We need to continue to adapt as we move forward, adopting new technologies and fresh approaches to continue to make progress at speed. DAI is uniquely well placed for this challenge. Working globally, with expertise and networks that span across development, we can bring together the best minds to deliver appropriate solutions at local, national, and international scale.
 
