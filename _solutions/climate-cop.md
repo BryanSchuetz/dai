@@ -22,6 +22,7 @@ layout: solution
   <img src="/uploads/cop27-banner.jpg" alt="" style="margin-bottom: 3rem;">
   <h2 style="font-size: 2rem; font-weight: bold;">DAI at COP27</h2>
   <ul class="cop-event-header">
+ <hr>
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
     <li><strong>Wednesday, November 09, 2022</strong></li>
     <li><strong>Virtual Event, COP27 Finance Day</strong></li>
