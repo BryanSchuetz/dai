@@ -37,7 +37,7 @@ layout: solution
     <li><strong>Wednesday, November 09, 2022</strong></li>
     <li><strong>Virtual Event, COP27 Finance Day</strong></li>
   </ul>
-  <p>The Foreign, Commonwealth & Development Office's (FCDO) <a href="https://www.disasterprotection.org/">Centre for Disaster Protection</a>, managed by DAI, will be part of the <a href="https://www.globalresiliencepartnership.org/">Global Resilience Partnership’s</a> podcast series that seeks to illuminate and debunk some key myths that impede action and investment into resilience. The podcast will focus on risks relating to disasters and financing countries to move from reaction to readiness to plan better for future disasters.</p>
+  <p>The Foreign, Commonwealth & Development Office's (FCDO’s) <a href="https://www.disasterprotection.org/">Centre for Disaster Protection</a>, managed by DAI, will be part of the <a href="https://www.globalresiliencepartnership.org/">Global Resilience Partnership’s</a> podcast series that seeks to illuminate and debunk some key myths that impede action and investment into resilience. The podcast will focus on risks relating to disasters and financing countries to move from reaction to readiness to plan better for future disasters.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/worldwide-centre-for-disaster-protection">Project Overview</a>
  <hr>
   <ul class="cop-event-header">
@@ -46,7 +46,7 @@ layout: solution
     <li><strong>Blue Zone, COP 27 Finance Day</strong></li>
   </ul>
   
-  <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>, drawing out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries – Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
+  <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the [Expert Advisory Call Down Service](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries – Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
   <hr>
   <ul class="cop-event-header">
