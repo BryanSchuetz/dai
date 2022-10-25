@@ -22,9 +22,11 @@ regions: Asia and the Pacific
 country: Cambodia
 ---
 
+Low-quality road infrastructure has limited the growth of the agriculture, tourism, manufacturing, and construction sectors, and significantly contributed to high poverty levels in rural Cambodia. Lack of access to roads has trapped many rural communities in poverty, as residents do not have access to education, healthcare, or markets. These regions are also highly vulnerable to natural disasters due to climate change, heightening the vulnerability of these communities. 
+
 The Technical Assistance to the Sustainable Assets for Agriculture Markets, Business and Trade (SAAMBAT) programme in Cambodia aims to reduce multidimensional poverty by developing a better connected, more climate resilient, and more equitable rural economy in Cambodia. It looks to improve connectivity, reduce production and marketing costs, increase private sector investment, and boost the productivity of farmers, focusing on value chain infrastructure and in particular rural road infrastructure (component 1) and skills, technology, and enterprise (component 2).
 
-The DAI-led consortium (with partners Gopa Infra and TAS Euro) supports the Ministry of Rural Development with capacity-building activities for rural road rehabilitation.
+The DAI-led consortium (with partners Gopa Infra and TAS Euro) supports component 1 and works with the Ministry of Rural Development with capacity-building activities for rural road rehabilitation.
 
 ## Sample Activities
 
