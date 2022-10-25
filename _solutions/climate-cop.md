@@ -36,6 +36,7 @@ layout: solution
   </ul>
   
   <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>, drawing out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries – Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
   
   <ul class="cop-event-header">
     <li><strong>GCoM Women Leaders and Climate Change: Empowerment, Progress, Challenges</strong></li>
