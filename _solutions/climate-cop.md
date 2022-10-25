@@ -17,6 +17,7 @@ hero: true
 ultrawide: true
 layout: solution
 ---
+
 <div class="bulma">
   <img src="/uploads/cop27-banner.jpg" alt="" style="margin-bottom: 3rem;">
   <h2 style="font-size: 2rem; font-weight: bold;">DAI at COP27</h2>
