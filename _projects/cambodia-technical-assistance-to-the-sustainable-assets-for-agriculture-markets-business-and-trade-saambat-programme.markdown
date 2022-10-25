@@ -1,6 +1,6 @@
 ---
 title: Cambodia—Technical Assistance to the Sustainable Assets for Agriculture Markets,
-  Business, and Trade (SAAMBAT) programme
+  Business, and Trade (SAAMBAT) Programme
 date: 2022-10-25 09:11:00 Z
 tags:
 - Europe
