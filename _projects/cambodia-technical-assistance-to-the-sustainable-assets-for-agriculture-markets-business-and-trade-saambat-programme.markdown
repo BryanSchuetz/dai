@@ -2,7 +2,6 @@
 title: Cambodia—Technical Assistance to the Sustainable Assets for Agriculture Markets,
   Business, and Trade (SAAMBAT) programme
 date: 2022-10-25 09:11:00 Z
-published: false
 tags:
 - Europe
 - European Union
@@ -30,6 +29,6 @@ The DAI-led consortium (with partners Gopa Infra and TAS Euro) supports componen
 
 ## Sample Activities
 
-* Support rural road safety.
-* Develop environmental and social safeguarding frameworks
-* Promote climate change resilience and adaptation.
+* Develop a road safety plan for Cambodia for the next decade.
+* Provide training and guidance on road safety awareness, environmental and social safeguarding, and climate change resilience and adaptation for rural roads. 
+* Produce manuals, procedures, and guidelines for rural road infrastructure and safety.
