@@ -6,7 +6,7 @@ summary: 'Catherine Wallis has 20 years’ experience delivering multi-annual pr
   delivering rural development, sustainable livelihoods, and social development outcomes
   in over 30 countries in Africa, Asia, and the Indian Ocean. '
 job-title: Principal Consultant, Climate
-image: https://assetify-dai.com/experts/Catherine%20Wallis%20INNER.jpg
+image: "/uploads/Catherine%20Wallis.jpeg"
 solutions:
 - Energy
 - Climate
