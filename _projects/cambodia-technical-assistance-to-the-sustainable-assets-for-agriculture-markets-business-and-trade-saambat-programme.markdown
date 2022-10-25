@@ -13,6 +13,11 @@ summary: The Technical Assistance to the Sustainable Assets for Agriculture Mark
 start: 2022
 end: 2023
 client: European Investment Bank
+solutions:
+- Economic Growth
+- Climate
+- Climate Change Adaptation and Mitigation
+- Environment
 regions: Asia and the Pacific
 country: Cambodia
 ---
