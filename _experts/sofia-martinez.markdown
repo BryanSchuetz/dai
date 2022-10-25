@@ -10,7 +10,7 @@ summary: Sofia Martinez is a Principal in the Climate unit, where she focuses on
   DAI’s corporate responses and leadership, supporting existing projects and pipelines,
   and identifying future areas and opportunities.
 job-title: Principal, Climate
-image: "/uploads/Martinez,%20Sofia%20-%20Photo%20.jpg"
+image: "/uploads/Photo%20Sofia%20Martinez%20headshot.jpg"
 solutions:
 - Environment
 - Climate
