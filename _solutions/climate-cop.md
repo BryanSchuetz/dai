@@ -91,4 +91,5 @@ layout: solution
     <li><strong>Blue Zone, COP 27 Solutions Day</strong></li>
   </ul>
   <p>GCoM’s Annual Aggregation Report sheds light on the collective influence of its signatories at the frontlines of the fight against climate change and calls for a significant boost in urban climate finance flows to realize the full potential of city climate action. The launch event will hear from GCoM Board Mayors on the overall impact across the alliance; from the secretariat team to draw out regional highlights, and from regional covenants and cities to detail actions on reducing emissions, building resilience and adaptation responses, and addressing clean energy access and energy poverty. Peter Haems, GCoM Secretariat Expert, The event will oversee the event in close collaboration with Mayors and experts from multiple regions and regional covenants. </p>
-</div>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.globalcovenantofmayors.org/">Project Overview</a>
+  </div>
