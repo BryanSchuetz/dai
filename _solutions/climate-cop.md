@@ -64,7 +64,7 @@ layout: solution
   <p>
     Launched by The <a href="https://gca.org/">Global Centre on Adaptation</a> in 2022, the Local Adaptation Champions Awards spotlight and reward innovative, exemplary, inspiring, and scalable locally-led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities. The Awards ceremony will celebrate the adaption work achieved by local actors from around the world, joined on stage by Dr. Patrick V. Verkooijen, CEO of The Global Center on Adaptation; Mrs. Saima Wazed Putul, Thematic Ambassador, Climate Vulnerable Forum; Dr. Rania A. Al Mashat, Minister of International Cooperation, Arab Republic of Egypt; Sheela Patel, Director, Society for Promotion of Area Resource Centres.
   </p>
-  <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
+  <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="https://gca.org/llachampions/">Project Overview</a>
   <hr>
   <ul class="cop-event-header">
     <li><strong>The COP27 Resilience Hub: Addressing Innovation Barriers in Energy and Mobility Entrepreneurship</strong></li>
