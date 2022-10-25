@@ -6,7 +6,7 @@ summary: Jonathan Randall has been working at the intersection of sustainable ec
   development, climate change, and environmental conservation for more than 17 years.
 job-title: Principal Global Practice Leader, Climate Change and Natural Resources
   Management
-image: "/uploads/Jon%20Randall%20Casual.jpg"
+image: "/uploads/Jonathan%20Randall.png"
 solutions:
 - Energy
 - Climate
