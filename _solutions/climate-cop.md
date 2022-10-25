@@ -73,6 +73,7 @@ layout: solution
     <li><strong>Blue Zone, COP 27 Energy and ACE Day</strong></li>
   </ul>
   <p>Hosted by the International Coalition for Sustainable Infrastructure (ICSI), this session will begin with a series of short showcase presentations from speakers in the form of short ‘lightning talks’, followed by an interactive roundtable discussion to discuss opportunities, synergies, and challenges. <a href="https://www.globalcovenantofmayors.org/impact2021/">Sofía Martínez</a>, DAI Climate Team, will join the roundtable discussion, which will convene energy and transport professionals to discuss barriers and opportunities for entrepreneurship in the space. ICSI will be joined by participating organizations, including Climate Resolve, TryKe, youthinkgreen Egypt, and the Global Covenant of Mayors for Climate and Energy (GCoM). </p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://cop-resilience-hub.org/">Project Overview</a>
   
   <ul class="cop-event-header">
     <li><strong>GCoM: Energy Transition Key Insights from GCoM signatories </strong></li>
