@@ -20,9 +20,9 @@ layout: solution
 
 <div class="bulma">
   <img src="/uploads/cop27-banner.jpg" alt="" style="margin-bottom: 3rem;">
-<\n>
+
 ### DAI AT COP27
-<\n>
+
   <ul class="cop-event-header">
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
     <li><strong>Wednesday, November 09, 2022</strong></li>
@@ -30,7 +30,7 @@ layout: solution
   </ul>
   <p>The FCDO’s <a href="https://www.disasterprotection.org/">Centre for Disaster Protection</a>, managed by DAI, will be part of the <a href="https://www.globalresiliencepartnership.org/">Global Resilience Partnership’s</a> podcast series that seeks to illuminate and debunk some key myths that impede action and investment into resilience. The podcast will focus on risks relating to disasters and financing countries to move from reaction to readiness to plan better for future disasters.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/worldwide-centre-for-disaster-protection">Project Overview</a>
-<\n> 
+
 
   <ul class="cop-event-header">
     <li><strong>FCDO Taskforce on Access to Climate Finance: presentation of the 2022 Annual Report</strong></li>
