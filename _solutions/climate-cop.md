@@ -21,7 +21,6 @@ layout: solution
 <div class="bulma">
   <img src="/uploads/cop27-banner.jpg" alt="" style="margin-bottom: 3rem;">
 
-### DAI AT COP27
 
   <ul class="cop-event-header">
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
