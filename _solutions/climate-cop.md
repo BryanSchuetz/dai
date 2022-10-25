@@ -53,7 +53,6 @@ layout: solution
       <li><strong>Sharm Al Shiekh, COP27 Decarbonisation Day</strong></li>
     </ul>
     <p>The DAI drinks reception offers an opportunity for friends and colleagues to socialize while exploring ways we can drive more climate finance into adaptation. For further information or to confirm your attendance, please contact William Gee at william_gee@dai.com.</p>
-    <a style="margin-bottom: 1rem;" class=" button is-primary mb-4" href="/our-work/solutions/climate">Project Overview</a>
   </aside>
   
   <ul class="cop-event-header">
