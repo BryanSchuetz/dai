@@ -81,7 +81,7 @@ layout: solution
     <li><strong>Blue Zone, COP 27 Solutions Day </strong></li>
   </ul>
   <p>
-    This debate will feature Mayors and local leaders discussing their energy transition efforts, including GCoM signatories from Poland, Lebanon, Australia, Zambia, Moldova, and Chile. Mr. Eero Ailio, DG ENER, will moderate the discussion, exploring the key drivers and barriers behind the signatories’ success stories and considering future expectations relevant to the energy transition.
+    This debate will feature Mayors and local leaders discussing their energy transition efforts, including GCoM signatories from Poland, Lebanon, Australia, Zambia, Moldova, and Chile. Mr. Eero Ailio, DG ENER, will moderate the discussion, exploring the key drivers and barriers behind the signatories’ success stories and considering future expectations relevant to the energy transition. DAI serves as the Secretariat to GCoM.
   </p>
   <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
   <hr>
@@ -90,6 +90,6 @@ layout: solution
     <li><strong>Thursday, November 17, 2022, 14:30-15:30 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP 27 Solutions Day</strong></li>
   </ul>
-  <p>GCoM’s Annual Aggregation Report sheds light on the collective influence of its signatories at the frontlines of the fight against climate change and calls for a significant boost in urban climate finance flows to realize the full potential of city climate action. The launch event will hear from GCoM Board Mayors on the overall impact across the alliance; from the secretariat team to draw out regional highlights, and from regional covenants and cities to detail actions on reducing emissions, building resilience and adaptation responses, and addressing clean energy access and energy poverty. </p>
+  <p>GCoM’s Annual Aggregation Report sheds light on the collective influence of its signatories at the frontlines of the fight against climate change and calls for a significant boost in urban climate finance flows to realize the full potential of city climate action. The launch event will hear from GCoM Board Mayors on the overall impact across the alliance; from the secretariat team to draw out regional highlights, and from regional covenants and cities to detail actions on reducing emissions, building resilience and adaptation responses, and addressing clean energy access and energy poverty. DAI serves as the Secretariat to GCoM.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.globalcovenantofmayors.org/">Project Overview</a>
   </div>
