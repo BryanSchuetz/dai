@@ -20,7 +20,9 @@ layout: solution
 
 <div class="bulma">
   <img src="/uploads/cop27-banner.jpg" alt="" style="margin-bottom: 3rem;">
-  
+<\n>
+### DAI AT COP27
+<\n>
   <ul class="cop-event-header">
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
     <li><strong>Wednesday, November 09, 2022</strong></li>
