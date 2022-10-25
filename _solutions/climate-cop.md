@@ -23,6 +23,16 @@ layout: solution
   <h2 style="font-size: 2rem; font-weight: bold;">DAI at COP27</h2>
   <ul class="cop-event-header">
  <hr>
+
+  <aside>
+    <ul class="cop-event-header">
+      <li><strong>DAI, Evening Reception</strong></li>
+      <li><strong>Friday, November 11, 2022, 19:00-21:00 (GMT+2)</strong></li>
+      <li><strong>Sharm Al Shiekh, COP27 Decarbonisation Day</strong></li>
+    </ul>
+    <p>The DAI drinks reception offers an opportunity for friends and colleagues to socialize while exploring ways we can drive more climate finance into adaptation. For further information or to confirm your attendance, please contact William Gee at william_gee@dai.com.</p>
+  </aside>
+<hr>
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
     <li><strong>Wednesday, November 09, 2022</strong></li>
     <li><strong>Virtual Event, COP27 Finance Day</strong></li>
@@ -46,15 +56,6 @@ layout: solution
   </ul>
   <p>This panel discussion will showcase female mayors and stakeholders from the Global Covenant of Mayors (<a href="https://www.globalcovenantofmayors.org/">GCoM’s</a>) signatory cities, including GCoM Board members. The focus will be on recognizing the importance of their role in leading climate actions and highlight their contribution to integrating gender into climate and energy policies. The event will be moderated by Ms. Myriam Makdissi, with keynote speakers including the Mayor of Kota Kinabalu, Malaysia, Ms. Noorliza Awang Alip; Mayor of Nabeul, Tunisia, Mrs. Basma Maatoug; former Mayor of Bethlehem, Palestine, Ms. Vera Baboun; former-Minister of the Environment, Egypt, Dr. Laila Iskandar.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
-  <hr>
-  <aside>
-    <ul class="cop-event-header">
-      <li><strong>DAI, Evening Reception</strong></li>
-      <li><strong>Friday, November 11, 2022, 19:00-21:00 (GMT+2)</strong></li>
-      <li><strong>Sharm Al Shiekh, COP27 Decarbonisation Day</strong></li>
-    </ul>
-    <p>The DAI drinks reception offers an opportunity for friends and colleagues to socialize while exploring ways we can drive more climate finance into adaptation. For further information or to confirm your attendance, please contact William Gee at william_gee@dai.com.</p>
-  </aside>
   <hr>
   <ul class="cop-event-header">
     <li><strong>The Global Centre on Adaptation, 2022 Local Adaption Champions Awards Ceremony</strong></li>
