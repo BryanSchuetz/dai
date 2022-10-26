@@ -64,6 +64,13 @@ layout: solution
   <p>This panel discussion will showcase female mayors and stakeholders from the Global Covenant of Mayors (<a href="https://www.globalcovenantofmayors.org/">GCoM’s</a>) signatory cities, including GCoM Board members. DAI serves as the secretariat to the GCoM. The focus will be on recognizing the importance of their role in leading climate actions and highlight their contribution to integrating gender into climate and energy policies. The event will be moderated by Ms. Myriam Makdissi (from the EC-funded [Clima-Med program](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood) managed by DAI) with keynote speakers including the Mayor of Kota Kinabalu, Malaysia, Ms. Noorliza Awang Alip; Mayor of Nabeul, Tunisia, Mrs. Basma Maatoug; former Mayor of Bethlehem, Palestine, Ms. Vera Baboun; former-Minister of the Environment, Egypt, Dr. Laila Iskandar.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
   <hr>
+    <li><strong>USAID Implementing Partners: Doing Our Part roundtable</strong></li>
+    <li><strong>Saturday, November 12, 2022, 11:00-12:00 (GMT+2)</strong></li>
+    <li><strong>The Climate Registry Pavilion, COP27 Adaption and Agriculture Day</strong></li>
+  </ul>
+  <p>DAI is working to reduce operational greenhouse gas emissions, expand climate resilience and mitigation throughout our programming, and strengthen diversity, equity, and inclusion across our climate work. This Roundtable will discuss issues such as how DAI and other USAID implementing partners can achieve net zero targets, what actions we can take to change emission trajectories, and where we can make the most significant impact.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.usaspending.gov/agency/agency-for-international-development?fy=2022">Project Overview</a>
+<hr>
   <ul class="cop-event-header">
     <li><strong>The Global Centre on Adaptation, 2022 Local Adaption Champions Awards Ceremony</strong></li>
     <li><strong>Saturday, November 12, 2022 – 16:00-17:00 (GMT+2)</strong></li>
