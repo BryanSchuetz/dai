@@ -49,6 +49,13 @@ layout: solution
   <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the [Expert Advisory Call Down Service](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries – Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
   <hr>
+    <li><strong>USAID, Economic Governance Activity (EGA): Youth and Innovation, University and Climate Action</strong></li>
+    <li><strong>Thursday, November 09, 2022, 12:00-13:00 (GMT+2)</strong></li>
+    <li><strong>Green Zone, COP27 Science Day</strong></li>
+  </ul>
+  <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>
+<hr>
   <ul class="cop-event-header">
     <li><strong>GCoM Women Leaders and Climate Change: Empowerment, Progress, Challenges</strong></li>
     <li><strong>Friday, November 11, 2022</strong></li>
