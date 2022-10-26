@@ -45,7 +45,6 @@ layout: solution
     <li><strong>Wednesday, November 9, 2022, 14:30-15:15 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP 27 Finance Day</strong></li>
   </ul>
-  
   <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the [Expert Advisory Call Down Service](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries – Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
   <hr>
@@ -95,7 +94,14 @@ layout: solution
   </ul>
   <p>Hosted by the International Coalition for Sustainable Infrastructure (ICSI), this session will begin with a series of short showcase presentations from speakers in the form of short ‘lightning talks’, followed by an interactive roundtable discussion to discuss opportunities, synergies, and challenges. <a href="https://www.globalcovenantofmayors.org/impact2021/">Sofía Martínez</a>, DAI Climate Team, will join the roundtable discussion, which will convene energy and transport professionals to discuss barriers and opportunities for entrepreneurship in the space. ICSI will be joined by participating organizations, including Climate Resolve, TryKe, youthinkgreen Egypt, and the Global Covenant of Mayors for Climate and Energy (GCoM). </p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://cop-resilience-hub.org/">Project Overview</a>
-  <hr>
+<hr>
+    <li><strong>USAID, Economic Governance Activity (EGA): Governance as an Enabler for Climate Action</strong></li>
+    <li><strong>Wednesday, November 16, 2022, 14:00-15:00 (GMT+2)</strong></li>
+    <li><strong>Green Zone, COP27 Biodiversity Day</strong></li>
+  </ul>
+  <p>Climate governance is critical to promoting climate action and must be at the center of effective responses to climate change. This event will discuss challenges and opportunities relating to climate change governance and share knowledge and experiences. Speakers include Dr. Ali Abo Sena, Chief Executive Officer, Egyptian Environmental Affairs Agency; Eng. Sherif Abdelrehiem, Head of Central Climate Change Unit, Ministry of Environment, Egypt; Eng. Yasser Sherif, Climate Change Governance Egypt, and Mr. Tawfik El-Kheshen, Environmental Governance Technical Advisor.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>  
+<hr>
   <ul class="cop-event-header">
     <li><strong>GCoM: Energy Transition Key Insights from GCoM signatories </strong></li>
     <li><strong>Thursday, November 17, 2022, 12:30-13:30 (GMT+2)</strong></li>
