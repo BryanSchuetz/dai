@@ -55,6 +55,13 @@ layout: solution
   <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>
 <hr>
+    <li><strong>USAID, Business Egypt: ClimaTech Run 2022</strong></li>
+    <li><strong>Thursday, November 10, 2022, 10:00-12:00 (GMT+2)</strong></li>
+    <li><strong>Green Zone, COP 27 Science Day</strong></li>
+  </ul>
+  <p>The ClimaTech Run is a competition addressing start-ups and digital artists from around the world, aiming to increase their role in raising climate change awareness and establishing innovative and sustainable solutions for climate action. The competition is organized by the Egyptian Ministries of International Cooperation (MOIC), Environment, and Communications and Information Technology in partnership with USAID, Afreximbank, World Food Programme, Google, the United Nations Population Fund, General Motors, and the Mansour Group. The DAI-led Business Egypt team is managing the online platform for the competition, providing virtual space for sharing ideas and designing climate solutions, and will support MOIC with the Pitching Event for the 15 finalists. Winners’ Announcement for the ClimaTech Run 2022 will take place in the Blue Zone.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/news/usaid-business-egypt-project-supports-the-global-climatech-run-2022">Project Overview</a>
+<hr>
   <ul class="cop-event-header">
     <li><strong>GCoM Women Leaders and Climate Change: Empowerment, Progress, Challenges</strong></li>
     <li><strong>Friday, November 11, 2022</strong></li>
