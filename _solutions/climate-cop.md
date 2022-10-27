@@ -34,7 +34,7 @@ layout: solution
   </aside>
   <hr>
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
-    <li><strong>Wednesday, November 09, 2022</strong></li>
+    <li><strong>Wednesday, November 10, 2022</strong></li>
     <li><strong>Virtual Event, COP27 Finance Day</strong></li>
   </ul>
   <p>The Foreign, Commonwealth & Development Office's (FCDO’s) <a href="https://www.disasterprotection.org/">Centre for Disaster Protection</a>, managed by DAI, will be part of the <a href="https://www.globalresiliencepartnership.org/">Global Resilience Partnership’s</a> podcast series that seeks to illuminate and debunk some key myths that impede action and investment into resilience. The podcast will focus on risks relating to disasters and financing countries to move from reaction to readiness to plan better for future disasters.</p>
