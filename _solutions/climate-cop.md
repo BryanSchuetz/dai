@@ -18,7 +18,7 @@ ultrawide: true
 layout: solution
 ---
 
-<div class="bulma">
+<div class="bulma cop27">
   <img src="/uploads/cop27-banner.jpg" alt="" style="margin-bottom: 3rem;">
   <h2 style="font-size: 2rem; font-weight: bold;">DAI at COP27</h2>
   <ul class="cop-event-header">
@@ -32,7 +32,7 @@ layout: solution
     </ul>
     <p>The DAI drinks reception offers an opportunity for friends and colleagues to socialize while exploring ways we can drive more climate finance into adaptation. For further information or to confirm your attendance, please contact William Gee at william_gee@dai.com.</p>
   </aside>
-<hr>
+  <hr>
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
     <li><strong>Wednesday, November 09, 2022</strong></li>
     <li><strong>Virtual Event, COP27 Finance Day</strong></li>
@@ -54,7 +54,7 @@ layout: solution
 
   <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>
-<hr>
+  <hr>
     <li><strong>USAID, Business Egypt: ClimaTech Run 2022</strong></li>
     <li><strong>Thursday, November 10, 2022, 10:00-12:00 (GMT+2)</strong></li>
     <li><strong>Green Zone, COP 27 Science Day</strong></li>
