@@ -42,14 +42,14 @@ layout: solution
  <hr>
   <ul class="cop-event-header">
     <li><strong>FCDO Taskforce on Access to Climate Finance: presentation of the 2022 Annual Report</strong></li>
-    <li><strong>Wednesday, November 9, 2022, 14:30-15:15 (GMT+2)</strong></li>
+    <li><strong>Wednesday, November 10, 2022, 14:30-15:15 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP 27 Finance Day</strong></li>
   </ul>
-  <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the [Expert Advisory Call Down Service](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries – Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
+  <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the [Expert Advisory Call Down Service](https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds), draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries—Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
   <hr>
     <li><strong>USAID, Economic Governance Activity (EGA): Youth and Innovation, University and Climate Action</strong></li>
-    <li><strong>Thursday, November 09, 2022, 12:00-13:00 (GMT+2)</strong></li>
+    <li><strong>Thursday, November 10, 2022, 12:00-13:00 (GMT+2)</strong></li>
     <li><strong>Green Zone, COP27 Science Day</strong></li>
 
   <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
@@ -67,7 +67,7 @@ layout: solution
     <li><strong>Friday, November 11, 2022</strong></li>
     <li><strong>Green Zone, COP27 Decarbonisation Day</strong></li>
   </ul>
-  <p>This panel discussion will showcase female mayors and stakeholders from the Global Covenant of Mayors (<a href="https://www.globalcovenantofmayors.org/">GCoM’s</a>) signatory cities, including GCoM Board members. DAI serves as the secretariat to the GCoM. The focus will be on recognizing the importance of their role in leading climate actions and highlight their contribution to integrating gender into climate and energy policies. The event will be moderated by Ms. Myriam Makdissi (from the EC-funded [Clima-Med program](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood) managed by DAI) with keynote speakers including the Mayor of Kota Kinabalu, Malaysia, Ms. Noorliza Awang Alip; Mayor of Nabeul, Tunisia, Mrs. Basma Maatoug; former Mayor of Bethlehem, Palestine, Ms. Vera Baboun; former-Minister of the Environment, Egypt, Dr. Laila Iskandar.</p>
+  <p>This panel discussion will showcase female mayors and stakeholders from the Global Covenant of Mayors (<a href="https://www.globalcovenantofmayors.org/">GCoM’s</a>) signatory cities, including GCoM Board members. DAI serves as the secretariat to the GCoM. The focus will be on recognizing the importance of their role in leading climate actions and highlight their contribution to integrating gender into climate and energy policies. The event will be moderated by Ms. Myriam Makdissi (from the EC-funded [Clima-Med program](https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood) managed by DAI) with keynote speakers including the Mayor of Kota Kinabalu, Malaysia, Noorliza Awang Alip; Mayor of Nabeul, Tunisia, Basma Maatoug; former Mayor of Bethlehem, Palestine, Vera Baboun; former-Minister of the Environment, Egypt, Dr. Laila Iskandar.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
   <hr>
     <li><strong>USAID Implementing Partners: Doing Our Part roundtable</strong></li>
@@ -82,7 +82,7 @@ layout: solution
     <li><strong>Saturday, November 12, 2022 – 16:00-17:00 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP27 Adaption and Agriculture Day</strong></li>
   
-  <p>Launched by The <a href="https://gca.org/">Global Centre on Adaptation</a> in 2022, the DAI-managed Local Adaptation Champions Awards spotlight and reward innovative, exemplary, inspiring, and scalable locally-led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities. The Awards ceremony will celebrate the adaption work achieved by local actors from around the world, joined on stage by Dr. Patrick V. Verkooijen, CEO of The Global Center on Adaptation; Mrs. Saima Wazed Putul, Thematic Ambassador, Climate Vulnerable Forum; Dr. Rania A. Al Mashat, Minister of International Cooperation, Arab Republic of Egypt; Sheela Patel, Director, Society for Promotion of Area Resource Centres.
+  <p>Launched by The <a href="https://gca.org/">Global Centre on Adaptation</a> in 2022, the DAI-managed Local Adaptation Champions Awards spotlight and reward innovative, exemplary, inspiring, and scalable locally-led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities. The Awards ceremony will celebrate the adaption work achieved by local actors from around the world, joined on stage by Dr. Patrick V. Verkooijen, CEO of The Global Center on Adaptation; Saima Wazed Putul, Thematic Ambassador, Climate Vulnerable Forum; Dr. Rania A. Al Mashat, Minister of International Cooperation, Arab Republic of Egypt; Sheela Patel, Director, Society for Promotion of Area Resource Centres.
   </p>
   <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="https://gca.org/llachampions/">Project Overview</a>
 <hr>
@@ -98,14 +98,14 @@ layout: solution
     <li><strong>Tuesday, November 15, 2022, 14:00-15:00 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP 27 Energy and ACE Day</strong></li>
   </ul>
-  <p>Hosted by the International Coalition for Sustainable Infrastructure (ICSI), this session will begin with a series of short showcase presentations from speakers in the form of short ‘lightning talks’, followed by an interactive roundtable discussion to discuss opportunities, synergies, and challenges. <a href="https://www.globalcovenantofmayors.org/impact2021/">Sofía Martínez</a>, DAI Climate Team, will join the roundtable discussion, which will convene energy and transport professionals to discuss barriers and opportunities for entrepreneurship in the space. ICSI will be joined by participating organizations, including Climate Resolve, TryKe, youthinkgreen Egypt, and the Global Covenant of Mayors for Climate and Energy (GCoM). </p>
+  <p>Hosted by the International Coalition for Sustainable Infrastructure (ICSI), this session will begin with a series of short showcase presentations from speakers in the form of short lightning talks, followed by an interactive roundtable discussion to discuss opportunities, synergies, and challenges. <a href="https://www.globalcovenantofmayors.org/impact2021/">Sofía Martínez</a>, DAI Climate Team, will join the roundtable discussion, which will convene energy and transport professionals to discuss barriers and opportunities for entrepreneurship in the space. ICSI will be joined by participating organizations, including Climate Resolve, TryKe, youthinkgreen Egypt, and the Global Covenant of Mayors for Climate and Energy (GCoM). </p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://cop-resilience-hub.org/">Project Overview</a>
 <hr>
     <li><strong>USAID, Economic Governance Activity (EGA): Governance as an Enabler for Climate Action</strong></li>
     <li><strong>Wednesday, November 16, 2022, 14:00-15:00 (GMT+2)</strong></li>
     <li><strong>Green Zone, COP27 Biodiversity Day</strong></li>
   
-  <p>Climate governance is critical to promoting climate action and must be at the center of effective responses to climate change. This event will discuss challenges and opportunities relating to climate change governance and share knowledge and experiences. Speakers include Dr. Ali Abo Sena, Chief Executive Officer, Egyptian Environmental Affairs Agency; Eng. Sherif Abdelrehiem, Head of Central Climate Change Unit, Ministry of Environment, Egypt; Eng. Yasser Sherif, Climate Change Governance Egypt, and Mr. Tawfik El-Kheshen, Environmental Governance Technical Advisor.</p>
+  <p>Climate governance is critical to promoting climate action and must be at the center of effective responses to climate change. This event will discuss challenges and opportunities relating to climate change governance and share knowledge and experiences. Speakers include Dr. Ali Abo Sena, Chief Executive Officer, Egyptian Environmental Affairs Agency; Eng. Sherif Abdelrehiem, Head of Central Climate Change Unit, Ministry of Environment, Egypt; Eng. Yasser Sherif, Climate Change Governance Egypt, and  Tawfik El-Kheshen, Environmental Governance Technical Advisor.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>  
 <hr>
   <ul class="cop-event-header">
@@ -114,7 +114,7 @@ layout: solution
     <li><strong>Blue Zone, COP 27 Solutions Day </strong></li>
   </ul>
   <p>
-    This debate will feature Mayors and local leaders discussing their energy transition efforts, including GCoM signatories from Poland, Lebanon, Australia, Zambia, Moldova, and Chile. Mr. Eero Ailio, DG ENER, will moderate the discussion, exploring the key drivers and barriers behind the signatories’ success stories and considering future expectations relevant to the energy transition. DAI serves as the Secretariat to GCoM.
+    This debate will feature Mayors and local leaders discussing their energy transition efforts, including GCoM signatories from Poland, Lebanon, Australia, Zambia, Moldova, and Chile. Eero Ailio, DG ENER, will moderate the discussion, exploring the key drivers and barriers behind the signatories’ success stories and considering future expectations relevant to the energy transition. DAI serves as the Secretariat to GCoM.
   </p>
   <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
   <hr>
