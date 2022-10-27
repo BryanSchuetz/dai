@@ -7,8 +7,8 @@ summary: The Haiti Resilient Environment North activity strengthens communities,
   and restores ecosystem services using a watershed management approach that fosters
   sustainable productivity—through interventions such as enhanced agroforestry and
   soil conservation techniques—and economic inclusion.
-start: 2022
-end: 2027
+start: 2023
+end: 2028
 client: U.S. Agency for International Development
 solutions:
 - Environment
