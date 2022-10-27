@@ -58,7 +58,7 @@ layout: solution
     <li><strong>USAID, Business Egypt: ClimaTech Run 2022</strong></li>
     <li><strong>Thursday, November 10, 2022, 10:00-12:00 (GMT+2)</strong></li>
     <li><strong>Green Zone, COP 27 Science Day</strong></li>
-  </ul>
+  
   <p>The ClimaTech Run is a competition addressing start-ups and digital artists from around the world, aiming to increase their role in raising climate change awareness and establishing innovative and sustainable solutions for climate action. The competition is organized by the Egyptian Ministries of International Cooperation (MOIC), Environment, and Communications and Information Technology in partnership with USAID, Afreximbank, World Food Programme, Google, the United Nations Population Fund, General Motors, and the Mansour Group. The DAI-led Business Egypt team is managing the online platform for the competition, providing virtual space for sharing ideas and designing climate solutions, and will support MOIC with the Pitching Event for the 15 finalists. Winners’ Announcement for the ClimaTech Run 2022 will take place in the Blue Zone.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/news/usaid-business-egypt-project-supports-the-global-climatech-run-2022">Project Overview</a>
 <hr>
@@ -73,7 +73,7 @@ layout: solution
     <li><strong>USAID Implementing Partners: Doing Our Part roundtable</strong></li>
     <li><strong>Saturday, November 12, 2022, 11:00-12:00 (GMT+2)</strong></li>
     <li><strong>The Climate Registry Pavilion, COP27 Adaption and Agriculture Day</strong></li>
-  </ul>
+ 
   <p>DAI is working to reduce operational greenhouse gas emissions, expand climate resilience and mitigation throughout our programming, and strengthen diversity, equity, and inclusion across our climate work. This Roundtable will discuss issues such as how DAI and other USAID implementing partners can achieve net zero targets, what actions we can take to change emission trajectories, and where we can make the most significant impact.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.usaspending.gov/agency/agency-for-international-development?fy=2022">Project Overview</a>
 <hr>
@@ -81,9 +81,8 @@ layout: solution
     <li><strong>The Global Centre on Adaptation, 2022 Local Adaption Champions Awards Ceremony</strong></li>
     <li><strong>Saturday, November 12, 2022 – 16:00-17:00 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP27 Adaption and Agriculture Day</strong></li>
-  </ul>
-  <p>
-    Launched by The <a href="https://gca.org/">Global Centre on Adaptation</a> in 2022, the DAI-managed Local Adaptation Champions Awards spotlight and reward innovative, exemplary, inspiring, and scalable locally-led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities. The Awards ceremony will celebrate the adaption work achieved by local actors from around the world, joined on stage by Dr. Patrick V. Verkooijen, CEO of The Global Center on Adaptation; Mrs. Saima Wazed Putul, Thematic Ambassador, Climate Vulnerable Forum; Dr. Rania A. Al Mashat, Minister of International Cooperation, Arab Republic of Egypt; Sheela Patel, Director, Society for Promotion of Area Resource Centres.
+  
+  <p>Launched by The <a href="https://gca.org/">Global Centre on Adaptation</a> in 2022, the DAI-managed Local Adaptation Champions Awards spotlight and reward innovative, exemplary, inspiring, and scalable locally-led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities. The Awards ceremony will celebrate the adaption work achieved by local actors from around the world, joined on stage by Dr. Patrick V. Verkooijen, CEO of The Global Center on Adaptation; Mrs. Saima Wazed Putul, Thematic Ambassador, Climate Vulnerable Forum; Dr. Rania A. Al Mashat, Minister of International Cooperation, Arab Republic of Egypt; Sheela Patel, Director, Society for Promotion of Area Resource Centres.
   </p>
   <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="https://gca.org/llachampions/">Project Overview</a>
 <hr>
@@ -105,7 +104,7 @@ layout: solution
     <li><strong>USAID, Economic Governance Activity (EGA): Governance as an Enabler for Climate Action</strong></li>
     <li><strong>Wednesday, November 16, 2022, 14:00-15:00 (GMT+2)</strong></li>
     <li><strong>Green Zone, COP27 Biodiversity Day</strong></li>
-  </ul>
+  
   <p>Climate governance is critical to promoting climate action and must be at the center of effective responses to climate change. This event will discuss challenges and opportunities relating to climate change governance and share knowledge and experiences. Speakers include Dr. Ali Abo Sena, Chief Executive Officer, Egyptian Environmental Affairs Agency; Eng. Sherif Abdelrehiem, Head of Central Climate Change Unit, Ministry of Environment, Egypt; Eng. Yasser Sherif, Climate Change Governance Egypt, and Mr. Tawfik El-Kheshen, Environmental Governance Technical Advisor.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>  
 <hr>
