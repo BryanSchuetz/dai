@@ -10,9 +10,5 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFA 2022-21 RFS Cross Sector Guidance](/uploads/RFA%202022-21%20RFS%20Cross%20Sector%20Guidance.pdf "12/1")
 * [RFA 2022-20 RFS Toolkit](/uploads/RFA%202022-20%20RFS%20Toolkit.pdf "11/22")
-* [Procurement of Market Acceleration Services in Silicon Valley for Georgian Startups](https://dai-assets.s3.amazonaws.com/rfps/GESP-RFP-060-FINAL%5B71%5D.pdf "10/24")
-* [EOI Template_Mexico ConJusticia_Fortalecimiento GEPPP](/uploads/EOI%20Template_Mexico%20ConJusticia_Fortalecimiento%20GEPPP.pdf "10/24")
-* [EOI Template_Mexico ConJusticia_Comunidad Aprendizaje FORTSJP](/uploads/EOI%20Template_Mexico%20ConJusticia_Comunidad%20Aprendizaje%20FORTSJP.pdf "10/24")
-* [RFP 2022-12 Mod 1](/uploads/RFP%202022-12%20Mod%201.pdf "10/25")
-* [Digital Frontiers RFP 2022-12 RFS Assessments 2023](/uploads/Digital%20Frontiers%20RFP%202022-12%20RFS%20Assessments%202023.pdf "10/25")
