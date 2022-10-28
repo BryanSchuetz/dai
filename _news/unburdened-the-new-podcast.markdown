@@ -2,7 +2,7 @@
 title: 'Unburdened: The New Podcast from DAI’s Global Health Team'
 date: 2022-10-28 11:10:00 Z
 summary: 'DAI has launched [Unburdened](https://dai-global-developments.com/unburdened-podcast),
-  a podcast that gives DAI’s cut on global health issues, that go beyond healthcare. '
+  a podcast that gives DAI’s cut on global health issues that go beyond healthcare. '
 social-image: "/uploads/MicrosoftTeams-image%20(3)-9189f9.png"
 ---
 
