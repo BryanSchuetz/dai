@@ -6,11 +6,11 @@ summary: 'DAI has launched [Unburdened](https://dai-global-developments.com/unbu
 social-image: "/uploads/MicrosoftTeams-image%20(3)-9189f9.png"
 ---
 
-DAI has launched [Unburdened](https://dai-global-developments.com/unburdened-podcast), a podcast that gives DAI’s cut on global health issues, that go beyond healthcare. The podcast aims to discuss large global problems, through a health lens and uses data to highlight the importance of development activities.  
+DAI has launched [Unburdened](https://dai-global-developments.com/unburdened-podcast), a podcast that gives DAI’s cut on global health issues that go beyond healthcare. The podcast aims to discuss large global problems, through a health lens and uses data to highlight the importance of development activities.  
 
-[Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks), Vice President of Global Health at DAI said, “So much of what we’ve experienced with COVID-19 is how global health affects our entire lives. This podcast is a way to explore how things like equity, pollution, governance, and economics impact our wellbeing—and discover what we can do about it.” 
+[Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks), Vice President of Global Health at DAI said, “So much of what we’ve experienced with COVID-19 is how global health affects our entire lives. This podcast is a way to explore how things such as equity, pollution, governance, and economics impact our wellbeing—and discover what we can do about it.” 
 
-Unburdened’s first, five-episode series asks the question: Can gender equality make us healthier? and uses the United Nations’ gender inequality index to frame discussions. 
+Unburdened’s first, five-episode series asks the question: "Can gender equality make us healthier?" and uses the United Nations’ gender inequality index to frame discussions. 
 
 ![MicrosoftTeams-image (3).png](/uploads/MicrosoftTeams-image%20(3).png)
 
