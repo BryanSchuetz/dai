@@ -38,6 +38,8 @@ promos:
 - title: 'Strengthening Women’s Land Rights in Rural Tanzania: Results from an Impact
     Evaluation of USAID’s Land Tenure Assistance Activity'
   link: https://land-links.org/2021/04/strengthening-womens-land-rights-in-rural-tanzania-results-from-an-impact-evaluation-of-usaids-land-tenure-assistance-activity/
+- title: Feed the Future Tanzania Land Tenure Assistance Activity Evaluation
+  link: https://land-links.org/evaluation/feed-the-future-tanzania-land-tenure-assistance-activity/
 layout: project
 ---
 
