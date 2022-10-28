@@ -1,5 +1,5 @@
 ---
-title: Asia—Global Covenant of Mayors for Climate (GCoM) and Energy
+title: Asia—Global Covenant of Mayors (GCoM) for Climate and Energy
 date: 2021-01-07 10:47:00 Z
 summary: 'Our team supports the Global Covenant of Mayors for Climate and Energy in
   East Asia, South Asia, and Southeast Asia. '
