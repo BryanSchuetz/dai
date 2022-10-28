@@ -28,7 +28,7 @@ layout: solution
     <ul class="cop-event-header">
       <li><strong>DAI, Evening Reception</strong></li>
       <li><strong>Friday, November 11, 2022, 19:00-21:00 (GMT+2)</strong></li>
-      <li><strong>Sharm Al Shiekh, COP27 Decarbonisation Day</strong></li>
+      <li><strong>Sharm Al Sheikh, COP27 Decarbonisation Day</strong></li>
     </ul>
     <p>The DAI drinks reception offers an opportunity for friends and colleagues to socialize while exploring ways we can drive more climate finance into adaptation. For further information or to confirm your attendance, please contact William Gee at william_gee@dai.com.</p>
   </aside>
