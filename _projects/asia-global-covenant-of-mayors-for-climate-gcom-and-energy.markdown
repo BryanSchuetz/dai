@@ -15,7 +15,7 @@ country: Asia
 
 Climate change is a global challenge but one that particularly affects urban life. Urban activities are major sources of greenhouse gas emissions, but cities are also profoundly affected by climate change in terms of their basic services, infrastructure, housing, livelihoods, and health. And as hubs of innovation and creativity, they also have an important role to play in preparing for and adapting to the risks posed by climate change.
 
-A global alliance of cities, the Global Covenant of Mayors for Climate and Energy (GCoM) aims to strengthen the role of cities on the wider international scene and provide operational tools for effective climate action. Regional and national covenants serve as local chapters of the broader GCoM alliance. Our team supports the GCoM in East Asia, South Asia, and Southeast Asia, assisting signatory cities and partners in their commitments while encouraging new cities and urban stakeholders to join the GCoM alliance in pursuit of a shared vision for a resilient and low-emission future.
+A global alliance of cities, the Global Covenant of Mayors (GCoM) for Climate and Energy aims to strengthen the role of cities on the wider international scene and provide operational tools for effective climate action. Regional and national covenants serve as local chapters of the broader GCoM alliance. Our team supports the GCoM in East Asia, South Asia, and Southeast Asia, assisting signatory cities and partners in their commitments while encouraging new cities and urban stakeholders to join the GCoM alliance in pursuit of a shared vision for a resilient and low-emission future.
 
 ### Sample Activities
 
