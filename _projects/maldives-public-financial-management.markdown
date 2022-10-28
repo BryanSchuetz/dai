@@ -35,3 +35,4 @@ By the end of the program, Maldives will have the fiscal space and management ca
 * Enhanced the country's transparency, system design, monitoring, and auditing processes to reduce corruption and improve integrity in the overall budgeting process. More than 530 government staff were involved in formal capacity building to increase the effectiveness in managing public finances. 
 * Trained more than 100 government officials on project feasibility methodologies.
 * Developed awareness and familiarity for 491 government officials in budgeting for new project initiatives.
+* Compiled a macroeconomic chapter on higher education spending for the Budget Book of the Maldives, a key publication of the Ministry of Finance. 
