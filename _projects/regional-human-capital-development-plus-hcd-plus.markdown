@@ -1,6 +1,6 @@
 ---
 title: Regional—Human Capital Development Plus (HCD+)
-date: 2022-10-31 13:55:00 Z
+date: 2022-10-31 11:00:00 Z
 summary: DAI is incubating HDC+, a regional advocacy and technical assistance hub
   that contributes to increasing government commitment, funding, and accountability
   to developing human capital across the continent.
@@ -13,7 +13,7 @@ regions: Sub-Saharan Africa
 country: Nigeria, Ethiopia, Kenya, and Burkina Faso
 ---
 
-DAI is incubating HDC+, a regional advocacy and technical assistance hub that contributes to increasing government commitment, funding, and accountability to developing human capital across the continent.
+DAI is incubating Human Capital Development Plus (HDC+), a regional advocacy and technical assistance hub that contributes to increasing government commitment, funding, and accountability to developing human capacity across the continent.
 
 We are incubating HCD+ from a program sponsored within DAI into a fully registered and functional not-for-profit HCD hub based in Nigeria to serve as a continental platform and critical partner for African governments. We are providing technical assistance in setting up HCD+ to be an independent entity professionally staffed with tested processes, controls, and governance structures established to deliver on its vision.
 
