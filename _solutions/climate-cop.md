@@ -52,7 +52,7 @@ layout: solution
     <li><strong>Thursday, November 10, 2022, 12:00-13:00 (GMT+2)</strong></li>
     <li><strong>Green Zone, COP27 Science Day</strong></li>
 
-  <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
+  <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Leslie Reed, USAID Egypt Mission Director; and Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>
   <hr>
     <li><strong>USAID, Business Egypt: ClimaTech Run 2022</strong></li>
