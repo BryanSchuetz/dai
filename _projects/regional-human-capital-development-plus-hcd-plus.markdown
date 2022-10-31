@@ -1,7 +1,6 @@
 ---
 title: Regional—Human Capital Development Plus (HCD+)
 date: 2022-10-31 13:55:00 Z
-published: false
 summary: DAI is incubating HDC+, a regional advocacy and technical assistance hub
   that contributes to increasing government commitment, funding, and accountability
   to developing human capital across the continent.
@@ -21,6 +20,8 @@ We are incubating HCD+ from a program sponsored within DAI into a fully register
 HCD+ will have the capability to serve as an African voice for advocacy, accountability, and transparency on issues of human capital. It will seek to accelerate political commitments, decision-making, and funding for key priorities toward realizing Sustainable Development Goals No. 1-6 in Sub-Saharan Africa. 
 
 The initial phase focuses on Burkina Faso, Ethiopia, Kenya, and Nigeria.
+
+![Sud Kivu IGA photo 1.jpg](/uploads/Sud%20Kivu%20IGA%20photo%201.jpg)
 
 ## Sample Activities
 
