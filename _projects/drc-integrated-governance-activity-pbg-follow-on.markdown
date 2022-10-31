@@ -5,7 +5,7 @@ summary: The Integrated Governance Activity is helping local governments to impr
   public services and establish trust with their citizens, as well as training civil
   society groups to better advocate their needs to elected officials.
 start: 2017
-end: 2023
+end: 2022
 client: U.S. Agency for International Development
 solutions:
 - Governance
