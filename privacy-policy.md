@@ -113,7 +113,7 @@ If you would like additional details regarding DAI’s Personal Information and 
 An email communication to the above address is the quickest way to receive a response from DAI. However, you may also submit requests in writing to the contacts below:
 
 <aside>
-Chief Ethics and Compliance Officer<br>
+Chief Ethics and Integrity Officer<br>
 DAI Global LLC<br>
 7600 Wisconsin Ave, Suite 200<br>
 Bethesda, MD 20814<br>
@@ -127,5 +127,5 @@ Apsley<br>
 Hertfordshire, HP3 9TD<br>
 </aside>
 
-Last revised on May 16, 2018.
+Last revised on Oct 31, 2022.
 

@@ -20,11 +20,8 @@ layout: solution
         demand and sustained cost pressures with the current political momentum for increased
         local content. DAI draws on more than 2,000 long-term projects and development assignments completed across 150 countries to advance participants’ skills.
         <div class="container" style="margin-bottom: 1rem; margin-top: 1rem;">
-          <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">Join one of our three-day Masterclass courses in 2022</h3>
-          <p style="margin-bottom: 0px;">Date: <strong>May 17 - 19, in Dubai, UAE</strong> and <strong>October 17 - 19, Houston, USA</strong></p>
-          <p style="margin-bottom: 0px;">Time: <strong>09h00 – 17h00</strong> </p>
-          <p style="margin-bottom: 0px;">Price: 3,950 USD per person</p>
-          <p style="margin-bottom: 0px; margin-top: 1.5rem;">Upon completion, participants receive a certificate.</p>
+          <h3 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">Join one of our three-day Masterclass courses in 2023</h3>
+          <p>Check back soon for 2023 course dates and venues.</p>
         </div>
       </div>
       <div class="column is-one-third">
@@ -46,23 +43,8 @@ layout: solution
       </div>
     </div>
   </div>
-  <div class="container"><button onclick="window.location.href='https://form.collect.dai.com/LYv5zVCT';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Register for Masterclass 2022</button></div>
+  <!-- <div class="container"><button onclick="window.location.href='https://form.collect.dai.com/LYv5zVCT';" class="button is-large is-primary is-size-6-mobile" style="display: block; margin-left: auto; margin-right: auto; width: 60%; overflow: hidden; font-size: 1.3rem; ">Register for Masterclass 2022</button></div> -->
 </div>
-
-## Participants are trained to:
-
-* Drive local sustainable development when sourcing or making new investments
-
-* Navigate and adhere to local content regulatory and legal frameworks
-
-* Deliver tangible local benefits while balancing investment goals and social value
-
-* Learn practical solutions that have been tried and tested in the field
-
-* Reposition local content as a core element in sourcing goods and services competitively using new procurement,
-  contract tendering, and evaluation techniques
-
-* Design and implement programs to address gaps in the local supply chain, from enterprises to individual workers
 
 ## The course is led by experts working at the forefront of international development and local content policy.
 
@@ -138,6 +120,21 @@ layout: solution
 </div>
 </div>
 </div>
+
+## Participants are trained to:
+
+* Drive local sustainable development when sourcing or making new investments
+
+* Navigate and adhere to local content regulatory and legal frameworks
+
+* Deliver tangible local benefits while balancing investment goals and social value
+
+* Learn practical solutions that have been tried and tested in the field
+
+* Reposition local content as a core element in sourcing goods and services competitively using new procurement,
+  contract tendering, and evaluation techniques
+
+* Design and implement programs to address gaps in the local supply chain, from enterprises to individual workers
 
 ## Course Modules
 

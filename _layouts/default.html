@@ -1,15 +1,38 @@
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
   {% include iehacks.html %}
   {% include head.html %}
   
-  <body class="{% if page.ultrawide == true %}newpromo {% endif %}{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{% if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate' or page.title == 'DAI in Pakistan' or page.title =='DAI Capital' or page.title == 'Sustainable Business' or page.title == 'DAI in Oman' or page.url contains '/our-work/solutions/global-health'-%} newpromo{%- endif -%}" >
+  <body class="{% if page.ultrawide == true %}newpromo {% endif %}{% if page.promos %}{% if page.promos[0].title.size > 1 %}promos {% endif %}{% endif %}{%  if page.country-page %}country {% endif %}{%- if page.url contains '/covid-19' -%}covid {%- endif -%}{%- if page.title == 'Climate' or page.title == 'DAI in Pakistan' or page.title =='DAI Capital' or page.title == 'Sustainable Business' or page.title == 'DAI in Oman' or page.url contains '/our-work/solutions/global-health'-%} newpromo{%- endif -%}" >
     <div class="wrapper">
       {% include header.html %}
       {% if page.title == 'Home' %}
   <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true, "autoPlay": 5000, "setGallerySize": false }'>
 
     <!-- Hero Box Cells -->
+    <a class="gallery-cell"
+    style="background: url(/uploads/cop-27-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
+    href="our-work/solutions/climate-cop">
+      <div class="shader">
+        <div class="gallery-cell--text">
+          <h2>DAI at COP27</h2>
+          <span class="hero-bar"></span>
+          <p class="gallery-subhead">Find out where we are and what we are doing</p>
+        </div>
+      </div>
+    </a>
+    <a class="gallery-cell"
+    style="background: url(/uploads/mexico-blog-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
+    href="https://dai-global-developments.com/articles/mexico-toward-a-gender-sensitive-energy-transition/">
+      <div class="shader">
+        <div class="gallery-cell--text">
+          <h2>Mexico's Clean Energy Program</h2>
+          <span class="hero-bar"></span>
+          <p class="gallery-subhead">Ensuring women are part of the transition</p>
+        </div>
+      </div>
+    </a>
     <a class="gallery-cell"
     style="background: url(/uploads/unburdened-podcast-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
     href="https://dai-global-developments.com/unburdened-podcast?utm_source=daidotcom">
@@ -44,28 +67,6 @@
       </div>
     </a>
     <a class="gallery-cell"
-    style="background: url(/uploads/family-planning-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-    href="https://dai-global-developments.com/articles/how-countries-can-meet-their-family-planning-commitments/?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Fostering Family Planning</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">How governments can meet their family planning commitments</p>
-        </div>
-      </div>
-    </a>
-    <a class="gallery-cell"
-    style="background: url(/uploads/schools-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-    href="https://dai-global-developments.com/articles/mainstreaming-gender-equity-and-inclusion-in-honduran-schools?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Safe Schools in Honduras</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">How one USAID program mainstreams gender equity</p>
-        </div>
-      </div>
-    </a>
-    <a class="gallery-cell"
     style="background: url(/uploads/oswlc-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
     href="/news/dai-publishes-review-of-us-offshore-wind-local-content-requirements ">
       <div class="shader">
@@ -77,50 +78,6 @@
       </div>
     </a>
     <a class="gallery-cell"
-    style="background: url(/uploads/orangutan-herobox.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-    href="https://dai-global-developments.com/articles/making-a-difference-in-orangutan-conservation-the-importance-of-building-trust-among-stakeholders-and-using-new-communication-tools?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Biodiversity in Indonesia</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">The long tail of the Orangutan Conservation Services Program</p>
-        </div>
-      </div>
-    </a>
-    <a class="gallery-cell"
-    style="background: url(/uploads/youth-future-hero.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-    href="https://dai-global-developments.com/articles/there-are-42-000-young-people-ready-to-lead-tanzanias-economic-growth-heres-how-they-got-there?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Youth at the Forefront</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">Young people poised to lead in Tanzania</p>
-        </div>
-      </div>
-    </a>
-    <a class="gallery-cell"
-      style="background: url(/uploads/sheema-hero.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-      href="https://dai-global-developments.com/articles/governments-are-crucial-to-locally-led-development?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Locally Led Development</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">Critical factors for engaging governments</p>
-        </div>
-      </div>
-    </a>
-    <a class="gallery-cell"
-      style="background: url(/uploads/hero-hybrid-sanition.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-      href="https://dai-global-developments.com/articles/hybrid-finance-model-shows-promise-in-boosting-access-to-sanitation?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Hybrid Sanitation Finance</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">Model proves viability in the Philippines</p>
-        </div>
-      </div>
-    </a>
-    <a class="gallery-cell"
       style="background: url(/uploads/seed-trade-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
       href="https://dai-global-developments.com/articles/seed-trade-in-southern-africa-operationalizing-15-years-of-policy-in-six-years?utm_source=daidotcom">
       <div class="shader">
@@ -128,18 +85,6 @@
           <h2>Seeds of Promise</h2>
           <span class="hero-bar"></span>
           <p class="gallery-subhead">Foundations laid for flourishing seed trade</p>
-        </div>
-      </div>
-    </a>
-
-    <a class="gallery-cell"
-      style="background: url(/uploads/health-security-better-hero.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;"
-      href="https://dai-global-developments.com/articles/health-security-is-everyones-business-reflections-from-the-tackling-deadly-diseases-in-africa-programme?utm_source=daidotcom">
-      <div class="shader">
-        <div class="gallery-cell--text">
-          <h2>Health Security Is Everyone’s Business</h2>
-          <span class="hero-bar"></span>
-          <p class="gallery-subhead">Reflections from the TDDA project</p>
         </div>
       </div>
     </a>
