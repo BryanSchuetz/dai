@@ -30,8 +30,12 @@ Building on the U.S. Agency for International Development’s achievements throu
 
 ![IMG_0018.JPG](/uploads/IMG_0018.JPG)
 
-### Sample Activities
+## Sample Activities
 
 * Provide training for staff of the Tax Administration to improve tax collection.
 * Engages civil society to catalyze improvements in Guatemala’s domestic resource mobilization, PFM systems, and fiscal transparency and accountability.
 * Apply process optimization and IT transformation methodology to help government ministry IT departments to design, develop, test, and deploy the integrated planning management tool.
+
+## Select Results
+
+* Provided a total of 27 hours of training to staff of the Superintendency of Tax Administration where they learned data management, among other skills.
