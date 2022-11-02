@@ -1669,7 +1669,7 @@ iframe.last-month {
 }
 .accordion {
   .faq {
-    a {
+    a.accordian-header{
       cursor: pointer;
       display: block;
       padding: 15px;
@@ -2153,4 +2153,10 @@ ol li::marker{
 }
 .bulma.cop27 li{
   list-style-type: none;
+}
+
+a.accordian-header{
+  &:hover{
+    color: darken($color: #ffffff, $amount: 10%);
+  }
 }
