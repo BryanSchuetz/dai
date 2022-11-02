@@ -113,8 +113,13 @@ layout: solution
   <p>Launched by The <a href="https://gca.org/">Global Centre on Adaptation</a> in 2022, the DAI-managed Local Adaptation Champions Awards spotlight and reward innovative, exemplary, inspiring, and scalable locally-led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities. The Awards ceremony will celebrate the adaption work achieved by local actors from around the world, joined on stage by Dr. Patrick V. Verkooijen, CEO of The Global Center on Adaptation; Saima Wazed Putul, Thematic Ambassador, Climate Vulnerable Forum; Dr. Rania A. Al Mashat, Minister of International Cooperation, Arab Republic of Egypt; Sheela Patel, Director, Society for Promotion of Area Resource Centres.
   </p>
   <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="https://gca.org/llachampions/">Project Overview</a>
-  
 <hr>
+    <li><strong>IRENA: Gender Just Energy Transitions – fireside discussion organised by DAI</strong></li>
+    <li><strong>Saturday, November 12, 2022, 17:30–18:30 (GMT+2)</strong></li>
+    <li><strong>Blue Zone, COP27 Adaption and Agriculture Day</strong></li>
+  <p>This session brings together diverse voices and highlights key elements within the theme narrative, including investment and capacity-building for gender mainstreaming into just transition activities. It will integrate discussions around policy and technology. It is hoped that any conclusions drawn may be followed-up via the IRENA Coalition for Action and the Sustainable Energy Jobs Group. The session will take the form of a roundtable discussion to discuss opportunities, synergies and challenges, followed by a Q&A from the audience.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.irena.org/events/2022/Nov/IRENA-at-COP27">Project Overview</a>
+<hr>  
   <ul class="cop-event-header">
     <li><strong>The COP27 Resilience Hub: Addressing Innovation Barriers in Energy and Mobility Entrepreneurship</strong></li>
     <li><strong>Tuesday, November 15, 2022, 14:00-15:00 (GMT+2)</strong></li>
