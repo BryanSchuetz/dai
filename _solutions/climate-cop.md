@@ -41,6 +41,15 @@ layout: solution
   <p>This session will discuss financing for climate action with particular attention to local contexts, highlighting challenges and opportunities facing local authorities wishing to take a leading role. It will also consider lessons learned from EU projects and identify obstacles, solutions, and best practices for efficient use of climate finance by local authorities.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a>
   <hr>
+<hr>
+<ul class="cop-event-header">
+    <li><strong>Director General for Neighbourhood and Enlargement Negotiation (DG NEAR): Adaptation to Climate Change in the Southern Mediterranean – Food and Water Security in Focus</strong></li>
+    <li><strong>Tuesday, November 8, 2022, 19:00-20:00 (GMT+2)</strong></li>
+    <li><strong>Blue Zone, World Leaders Summit Day Two</strong></li>
+  </ul>
+  <p>Considering the challenges the Mediterranean is facing, there is an urgent and critical need for countries to adapt and increase the region's resilience to climate change. The event will discuss challenges, joint responses and initiatives, draw lessons learned from the bilateral and regional cooperation, and reflect on how best to support the region going forward in view of the changing context.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a>
+  <hr>
 <ul class="cop-event-header">
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
     <li><strong>Thursday, November 10, 2022</strong></li>
