@@ -65,26 +65,24 @@ layout: solution
   <p>The Foreign, Commonwealth & Development Office's (FCDO’s) <a href="https://www.disasterprotection.org/">Centre for Disaster Protection</a>, managed by DAI, will be part of the <a href="https://www.globalresiliencepartnership.org/">Global Resilience Partnership’s</a> podcast series that seeks to illuminate and debunk some key myths that impede action and investment into resilience. The podcast will focus on risks relating to disasters and financing countries to move from reaction to readiness to plan better for future disasters.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/worldwide-centre-for-disaster-protection">Project Overview</a>
  <hr>
+    <li><strong>USAID, Business Egypt: ClimaTech Run 2022</strong></li>
+    <li><strong>Thursday, November 10, 2022, 10:00-12:00 (GMT+2)</strong></li>
+    <li><strong>Green Zone, COP 27 Science Day</strong></li>
+  <p>The ClimaTech Run is a competition addressing start-ups and digital artists from around the world, aiming to increase their role in raising climate change awareness and establishing innovative and sustainable solutions for climate action. The competition is organized by the Egyptian Ministries of International Cooperation (MOIC), Environment, and Communications and Information Technology in partnership with USAID, Afreximbank, World Food Programme, Google, the United Nations Population Fund, General Motors, and the Mansour Group. The DAI-led Business Egypt team is managing the online platform for the competition, providing virtual space for sharing ideas and designing climate solutions, and will support MOIC with the Pitching Event for the 15 finalists. Winners’ Announcement for the ClimaTech Run 2022 will take place in the Blue Zone.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/news/usaid-business-egypt-project-supports-the-global-climatech-run-2022">Project Overview</a>
+<hr>
+    <li><strong>USAID, Economic Governance Activity (EGA): Youth and Innovation, University and Climate Action</strong></li>
+    <li><strong>Thursday, November 10, 2022, 12:00-13:00 (GMT+2)</strong></li>
+    <li><strong>Green Zone, COP27 Science Day</strong></li>
+  <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Leslie Reed, USAID Egypt Mission Director; and Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>
+<hr>
     <li><strong>FCDO Taskforce on Access to Climate Finance: presentation of the 2022 Annual Report</strong></li>
     <li><strong>Thursday, November 10, 2022, 14:30-15:15 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP 27 Finance Day</strong></li>
   </ul>
   <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the <a href="https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds">Expert Advisory Call Down Service</a>, draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries—Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
-  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
-  <hr>
-    <li><strong>USAID, Economic Governance Activity (EGA): Youth and Innovation, University and Climate Action</strong></li>
-    <li><strong>Thursday, November 10, 2022, 12:00-13:00 (GMT+2)</strong></li>
-    <li><strong>Green Zone, COP27 Science Day</strong></li>
-
-  <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Leslie Reed, USAID Egypt Mission Director; and Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
-  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>
-  <hr>
-    <li><strong>USAID, Business Egypt: ClimaTech Run 2022</strong></li>
-    <li><strong>Thursday, November 10, 2022, 10:00-12:00 (GMT+2)</strong></li>
-    <li><strong>Green Zone, COP 27 Science Day</strong></li>
-  
-  <p>The ClimaTech Run is a competition addressing start-ups and digital artists from around the world, aiming to increase their role in raising climate change awareness and establishing innovative and sustainable solutions for climate action. The competition is organized by the Egyptian Ministries of International Cooperation (MOIC), Environment, and Communications and Information Technology in partnership with USAID, Afreximbank, World Food Programme, Google, the United Nations Population Fund, General Motors, and the Mansour Group. The DAI-led Business Egypt team is managing the online platform for the competition, providing virtual space for sharing ideas and designing climate solutions, and will support MOIC with the Pitching Event for the 15 finalists. Winners’ Announcement for the ClimaTech Run 2022 will take place in the Blue Zone.</p>
-  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/news/usaid-business-egypt-project-supports-the-global-climatech-run-2022">Project Overview</a>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a> 
 <hr>
   <ul class="cop-event-header">
     <li><strong>GCoM Women Leaders and Climate Change: Empowerment, Progress, Challenges</strong></li>
