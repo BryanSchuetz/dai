@@ -33,6 +33,15 @@ layout: solution
     <p>The DAI drinks reception offers an opportunity for friends and colleagues to socialize while exploring ways we can drive more climate finance into adaptation. For further information or to confirm your attendance, please contact William Gee at william_gee@dai.com.</p>
   </aside>
   <hr>
+<ul class="cop-event-header">
+    <li><strong>Director General for Neighbourhood and Enlargement Negotiation (DG NEAR): Local Climate Action, Finance and Partnerships for Climate Action in the Southern Mediterranean</strong></li>
+    <li><strong>Tuesday, November 8, 2022, 17:30-18:30 (GMT+2)</strong></li>
+    <li><strong>Blue Zone, World Leaders Summit Day Two</strong></li>
+  </ul>
+  <p>This session will discuss financing for climate action with particular attention to local contexts, highlighting challenges and opportunities facing local authorities wishing to take a leading role. It will also consider lessons learned from EU projects and identify obstacles, solutions and best practices for efficient use of climate finance by local authorities.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
+  <hr>
+<ul class="cop-event-header">
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
     <li><strong>Thursday, November 10, 2022</strong></li>
     <li><strong>Virtual Event, COP27 Finance Day</strong></li>
@@ -40,7 +49,6 @@ layout: solution
   <p>The Foreign, Commonwealth & Development Office's (FCDO’s) <a href="https://www.disasterprotection.org/">Centre for Disaster Protection</a>, managed by DAI, will be part of the <a href="https://www.globalresiliencepartnership.org/">Global Resilience Partnership’s</a> podcast series that seeks to illuminate and debunk some key myths that impede action and investment into resilience. The podcast will focus on risks relating to disasters and financing countries to move from reaction to readiness to plan better for future disasters.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/worldwide-centre-for-disaster-protection">Project Overview</a>
  <hr>
-  <ul class="cop-event-header">
     <li><strong>FCDO Taskforce on Access to Climate Finance: presentation of the 2022 Annual Report</strong></li>
     <li><strong>Thursday, November 10, 2022, 14:30-15:15 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP 27 Finance Day</strong></li>
