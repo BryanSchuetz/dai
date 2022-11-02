@@ -99,12 +99,6 @@ layout: solution
   <p>DAI is proud to manage The Global Centre on Adaptation’s Local Adaptation Champions Awards 2022. The four winners will be announced during a prestigious awards ceremony at COP27 and spotlit during the newly formed GCA Global Hub on Locally Led Adaptation (LLA) launch. The hub has been developed to bring together partners to address three main issues: the highly localized nature of climate impacts; the importance of local adaptation action; and barriers to accelerating and scaling up LLA.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://gca.org/call-for-partnerships-gca-global-hub-on-locally-led-adaptation/">Project Overview</a>
   <hr>
-    <li><strong>USAID Implementing Partners: Doing Our Part roundtable</strong></li>
-    <li><strong>Saturday, November 12, 2022, 11:00-12:00 (GMT+2)</strong></li>
-    <li><strong>The Climate Registry Pavilion, COP27 Adaption and Agriculture Day</strong></li>
-  <p>DAI is working to reduce operational greenhouse gas emissions, expand climate resilience and mitigation throughout our programming, and strengthen diversity, equity, and inclusion across our climate work. This Roundtable will discuss issues such as how DAI and other USAID implementing partners can achieve net zero targets, what actions we can take to change emission trajectories, and where we can make the most significant impact.</p>
-  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.usaspending.gov/agency/agency-for-international-development?fy=2022">Project Overview</a>
-<hr>
   <ul class="cop-event-header">
     <li><strong>The Global Centre on Adaptation, 2022 Local Adaption Champions Awards Ceremony</strong></li>
     <li><strong>Saturday, November 12, 2022, 16:00-17:00 (GMT+2)</strong></li>
