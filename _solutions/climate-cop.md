@@ -107,7 +107,7 @@ layout: solution
 <hr>
   <ul class="cop-event-header">
     <li><strong>The Global Centre on Adaptation, 2022 Local Adaption Champions Awards Ceremony</strong></li>
-    <li><strong>Saturday, November 12, 2022 – 16:00-17:00 (GMT+2)</strong></li>
+    <li><strong>Saturday, November 12, 2022, 16:00-17:00 (GMT+2)</strong></li>
     <li><strong>Blue Zone, COP27 Adaption and Agriculture Day</strong></li>
   
   <p>Launched by The <a href="https://gca.org/">Global Centre on Adaptation</a> in 2022, the DAI-managed Local Adaptation Champions Awards spotlight and reward innovative, exemplary, inspiring, and scalable locally-led efforts that address the impacts of climate change and build effective climate resilience among the most vulnerable communities. The Awards ceremony will celebrate the adaption work achieved by local actors from around the world, joined on stage by Dr. Patrick V. Verkooijen, CEO of The Global Center on Adaptation; Saima Wazed Putul, Thematic Ambassador, Climate Vulnerable Forum; Dr. Rania A. Al Mashat, Minister of International Cooperation, Arab Republic of Egypt; Sheela Patel, Director, Society for Promotion of Area Resource Centres.
@@ -152,4 +152,4 @@ layout: solution
   </ul>
   <p>GCoM’s Annual Aggregation Report sheds light on the collective influence of its signatories at the frontlines of the fight against climate change and calls for a significant boost in urban climate finance flows to realize the full potential of city climate action. The launch event will hear from GCoM Board Mayors on the overall impact across the alliance; from the secretariat team to draw out regional highlights, and from regional covenants and cities to detail actions on reducing emissions, building resilience and adaptation responses, and addressing clean energy access and energy poverty. DAI serves as the Secretariat to GCoM.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.globalcovenantofmayors.org/">Project Overview</a>
-  </div>
+  <hr>
