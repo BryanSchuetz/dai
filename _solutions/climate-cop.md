@@ -34,6 +34,14 @@ layout: solution
   </aside>
   <hr>
 <ul class="cop-event-header">
+    <li><strong>Union for Mediterranean (UfM): Concrete solutions to support access to climate finance at the local level in the South Mediterranean region</strong></li>
+    <li><strong>Tuesday, November 8, 2022, 16:15-17:15 (GMT+2)</strong></li>
+    <li><strong>Blue Zone, World Leaders Summit Day Two</strong></li>
+  </ul>
+  <p>This session looks at unlocking much-needed funding for the South Mediterranean region and considers the example of two initiatives in the region. Speakers include Ramadan Seddik, Director General of Environment – Luxor Governorate; Oussama Kaassamani, Clima-Med key expert; Olgu Okumus, Clima-Med Policy and Finance Strategy expert; Sophie De Coninck, UNCDF LoCAL Global Manager.</p>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ufmsecretariat.org/">Project Overview</a>
+<hr>
+<ul class="cop-event-header">
     <li><strong>Director General for Neighbourhood and Enlargement Negotiation (DG NEAR): Local Climate Action, Finance and Partnerships for Climate Action in the Southern Mediterranean</strong></li>
     <li><strong>Tuesday, November 8, 2022, 17:30-18:30 (GMT+2)</strong></li>
     <li><strong>Blue Zone, World Leaders Summit Day Two</strong></li>
@@ -48,14 +56,7 @@ layout: solution
   </ul>
   <p>Considering the challenges the Mediterranean is facing, there is an urgent and critical need for countries to adapt and increase the region's resilience to climate change. The event will discuss challenges, joint responses and initiatives, draw lessons learned from the bilateral and regional cooperation, and reflect on how best to support the region going forward in view of the changing context.</p>
   <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a>
-  <hr>
-<ul class="cop-event-header">
-    <li><strong>Union for Mediterranean (UfM): Concrete solutions to support access to climate finance at the local level in the South Mediterranean region</strong></li>
-    <li><strong>Tuesday, November 8, 2022, 16:15-17:15 (GMT+2)</strong></li>
-    <li><strong>Blue Zone, World Leaders Summit Day Two</strong></li>
-  </ul>
-  <p>This session looks at unlocking much-needed funding for the South Mediterranean region and considers the example of two initiatives in the region. Speakers include Ramadan Seddik, Director General of Environment – Luxor Governorate; Oussama Kaassamani, Clima-Med key expert; Olgu Okumus, Clima-Med Policy and Finance Strategy expert; Sophie De Coninck, UNCDF LoCAL Global Manager.</p>
-  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ufmsecretariat.org/">Project Overview</a>
+  
   <hr>
 <ul class="cop-event-header">
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
