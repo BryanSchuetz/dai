@@ -39,7 +39,7 @@ layout: solution
     <li><strong>Blue Zone, World Leaders Summit Day Two</strong></li>
   </ul>
   <p>This session will discuss financing for climate action with particular attention to local contexts, highlighting challenges and opportunities facing local authorities wishing to take a leading role. It will also consider lessons learned from EU projects and identify obstacles, solutions and best practices for efficient use of climate finance by local authorities.</p>
-  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a>
+  <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a>
   <hr>
 <ul class="cop-event-header">
     <li><strong>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</strong></li>
