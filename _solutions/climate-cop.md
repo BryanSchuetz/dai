@@ -104,7 +104,19 @@ The [Clima-Med](https://www.climamed.eu/) project is implemented by a DAI-led co
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a>    
     </div>
   </div>
-
+ <div class="faq">
+    <a class="accordion-header">
+      <ul class="cop-event-header">
+        <li>EU: Adaptation to Climate Change in the Southern Mediterranean – Food and Water Security in Focus</li>
+        <li>Tuesday, November 8, 2022, 19:00-20:00 (GMT+2)</li>
+        <li>Green Zone, EU Pavilion, World Leaders Summit Day Two</li>
+      </ul>    
+    </a>
+    <div class="faq-answer">
+      <p>In light of the challenges the Mediterranean is facing, there is an urgent and critical need for countries to adapt and increase their resilience to climate change. The EU is committed to supporting the region in these endeavors in its ongoing cooperation with the Southern Neighbourhood region. The event proposes to discuss challenges, joint responses, and initiatives, draw lessons learned from bilateral and regional cooperation, and reflect on how best to support the region in the future, given the changing context. The event is organized by the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR) and moderated by Mr. Naguib Amin, Team Leader for Clima-Med. The [Clima-Med](https://www.climamed.eu/)  project is implemented by a DAI-led consortium.</p>
+      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood">Project Overview</a>    
+    </div>
+  </div>
   <div class="faq">
     <a class="accordion-header">
       <ul class="cop-event-header">
