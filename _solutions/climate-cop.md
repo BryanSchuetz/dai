@@ -134,7 +134,7 @@ layout: solution
       </ul>      
     </a>
     <div class="faq-answer">
-      <p>This panel discussion will showcase female mayors and stakeholders from the Global Covenant of Mayors (<a href="https://www.globalcovenantofmayors.org/">GCoM’s</a>) signatory cities, including GCoM Board members. DAI serves as the secretariat to the GCoM. The focus will be on recognizing the importance of their role in leading climate actions and highlight their contribution to integrating gender into climate and energy policies. The event will be moderated by Ms. Myriam Makdissi from the EC-funded <a href="https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood">Clima-Med program</a> managed by DAI with keynote speakers including the Mayor of Kota Kinabalu, Malaysia, Noorliza Awang Alip; Mayor of Nabeul, Tunisia, Basma Maatoug; former Mayor of Bethlehem, Palestine, Vera Baboun; former-Minister of the Environment, Egypt, Dr. Laila Iskandar.</p>
+      <p>This panel discussion will showcase female mayors and stakeholders from the Global Covenant of Mayors (<a href="https://www.globalcovenantofmayors.org/">GCoM’s</a>) signatory cities, including GCoM Board members. The Secretariat is a joint venture between the European Commission, represented by DAI, and Bloomberg Philanthropies. The focus will be on recognizing the importance of their role in leading climate actions and highlight their contribution to integrating gender into climate and energy policies. The event will be moderated by Ms. Myriam Makdissi from the EC-funded <a href="https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood">Clima-Med program</a> managed by DAI with keynote speakers including the Mayor of Kota Kinabalu, Malaysia, Noorliza Awang Alip; Mayor of Nabeul, Tunisia, Basma Maatoug; former Mayor of Bethlehem, Palestine, Vera Baboun; former-Minister of the Environment, Egypt, Dr. Laila Iskandar.</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
     </div>
   </div>
@@ -214,7 +214,7 @@ layout: solution
     </a>
     <div class="faq-answer">
       <p>
-        This debate will feature Mayors and local leaders discussing their energy transition efforts, including GCoM signatories from Poland, Lebanon, Australia, Zambia, Moldova, and Chile. Eero Ailio, DG ENER, will moderate the discussion, exploring the key drivers and barriers behind the signatories’ success stories and considering future expectations relevant to the energy transition. DAI serves as the Secretariat to GCoM.
+        This debate will feature Mayors and local leaders discussing their energy transition efforts, including GCoM signatories from Poland, Lebanon, Australia, Zambia, Moldova, and Chile. Eero Ailio, DG ENER, will moderate the discussion, exploring the key drivers and barriers behind the signatories’ success stories and considering future expectations relevant to the energy transition. The Secretariat is a joint venture between the European Commission, represented by DAI, and Bloomberg Philanthropies.
       </p>
       <a class=" button is-primary mb-4" style="margin-bottom: 1rem;" href="/our-work/projects/asia-global-covenant-of-mayors-for-climate-gcom-and-energy">Project Overview</a>
     </div>
@@ -228,7 +228,7 @@ layout: solution
       </ul>      
     </a>
     <div class="faq-answer">
-      <p>GCoM’s Annual Aggregation Report sheds light on the collective influence of its signatories at the frontlines of the fight against climate change and calls for a significant boost in urban climate finance flows to realize the full potential of city climate action. The launch event will hear from GCoM Board Mayors on the overall impact across the alliance; from the secretariat team to draw out regional highlights, and from regional covenants and cities to detail actions on reducing emissions, building resilience and adaptation responses, and addressing clean energy access and energy poverty. DAI serves as the Secretariat to GCoM.</p>
+      <p>GCoM’s Annual Aggregation Report sheds light on the collective influence of its signatories at the frontlines of the fight against climate change and calls for a significant boost in urban climate finance flows to realize the full potential of city climate action. The launch event will hear from GCoM Board Mayors on the overall impact across the alliance; from the secretariat team to draw out regional highlights, and from regional covenants and cities to detail actions on reducing emissions, building resilience and adaptation responses, and addressing clean energy access and energy poverty. The Secretariat is a joint venture between the European Commission, represented by DAI, and Bloomberg Philanthropies.</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.globalcovenantofmayors.org/">Project Overview</a>
     </div>
   </div>
