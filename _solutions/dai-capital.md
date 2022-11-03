@@ -55,32 +55,32 @@ DAI Capital’s existing portfolio includes several healthcare assets—[THINKMD
 
 <div class="faq-wrap accordion">
   <div class="faq">
-    <a class="accordian-header">1. Why has DAI launched DAI Capital?</a>
+    <a class="accordion-header">1. Why has DAI launched DAI Capital?</a>
     <div class="faq-answer">
       <p>DAI has launched DAI Capital to build on the success of its economic development work across frontier and merging markets by catalyzing private, commercial capital into those markets.</p>
     </div>
   </div>
   <div class="faq">
-    <a class="accordian-header">2. What is the value proposition of DAI Capital?</a>
+    <a class="accordion-header">2. What is the value proposition of DAI Capital?</a>
     <div class="faq-answer">
       <p>DAI Capital's team of finance and investment professionals has extensive transaction experience and is able to leverage DAI's sector and country experts to deliver capital advisory and investment services for our clients and investors.</p>
     </div>
   </div>
   <div class="faq">
-    <a class="accordian-header">3. How does DAI Capital support DAI’s mission?</a>
+    <a class="accordion-header">3. How does DAI Capital support DAI’s mission?</a>
     <div class="faq-answer">
       <p>DAI Capital upholds DAI’s longstanding commitment to responsible and sustainable business, and we aim to generate competitive investment returns by supporting profitable, socially responsible businesses. We are firmly committed to achieving the highest standards of corporate, environmental, and social governance, transparency, compliance, and accountability. Adhering to our values will create better prospects for long-term growth.</p>
     </div>
   </div>
   <div class="faq">
-    <a class="accordian-header">4. How does DAI Capital support the Sustainable Development Goals (SDGs)?</a>
+    <a class="accordion-header">4. How does DAI Capital support the Sustainable Development Goals (SDGs)?</a>
     <div class="faq-answer">
       <p>DAI’s heritage as an economic development firm that designs and implements development projects in partnership with local and international development finance institutions and development agencies makes DAI Capital an ideal partner for private sector institutions seeking investment opportunities that promote the achievement of the SDGs.</p> 
       <p>Further, DAI Capital aims to become a leader in the World Bank’s “billions to trillions” agenda by leveraging our platform to catalyze private capital flows to frontier and emerging markets.</p>
     </div>
   </div>
   <div class="faq">
-    <a class="accordian-header">5.	How will DAI Capital complement DAI’s long-standing development consulting business?</a>
+    <a class="accordion-header">5.	How will DAI Capital complement DAI’s long-standing development consulting business?</a>
     <div class="faq-answer">
       <p>DAI Capital collaborates with DAI’s development experts across the globe. We work primarily in:</p>
       <ul>

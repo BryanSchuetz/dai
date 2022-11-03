@@ -1669,12 +1669,12 @@ iframe.last-month {
 }
 .accordion {
   .faq {
-    a.accordian-header{
+    a.accordion-header{
       cursor: pointer;
       display: block;
       padding: 15px;
       text-decoration: none;
-      background-color: #455560;
+      background-color: #56687b;
       color: white;
     }
     .faq-answer {
@@ -2155,8 +2155,13 @@ ol li::marker{
   list-style-type: none;
 }
 
-a.accordian-header{
-  &:hover{
-    color: darken($color: #ffffff, $amount: 10%);
+.faq-wrap.accordion.cop27{
+  .faq{
+    border-bottom: 1px solid white;
+  }
+  a.accordion-header{
+   li:first-of-type{
+    font-weight: bold;
+   }
   }
 }
