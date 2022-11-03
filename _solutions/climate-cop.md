@@ -71,10 +71,23 @@ This session, organized by the [Union for the Mediterranean](https://ufmsecretar
     </a>
     <div class="faq-answer">
       <p>This session will discuss financing for climate action with particular attention to local contexts, highlighting challenges and opportunities facing local authorities wishing to take a leading role. It will also consider lessons learned from EU projects and identify obstacles, solutions, and best practices for efficient use of climate finance by local authorities.</p>
+      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a> 
+    </div>
+  </div>
+  <div class="faq">
+    <a class="accordion-header">
+      <ul class="cop-event-header">
+        <li>Director General for Neighbourhood and Enlargement Negotiation (DG NEAR): Local Climate Action, Finance and Partnerships for Climate Action in the Southern Mediterranean</li>
+        <li>Tuesday, November 8, 2022, 17:30-18:30 (GMT+2)</li>
+        <li>Blue Zone, World Leaders Summit Day Two</li>
+      </ul>      
+    </a>
+    <div class="faq-answer">
+      <p>This session will discuss financing for climate action with particular attention to local contexts, highlighting challenges and opportunities facing local authorities wishing to take a leading role. It will also consider lessons learned from EU projects and identify obstacles, solutions, and best practices for efficient use of climate finance by local authorities.</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a>    
     </div>
   </div>
-<div class="faq">
+  <div class="faq">
     <a class="accordion-header">
       <ul class="cop-event-header">
         <li>Director General for Neighbourhood and Enlargement Negotiation (DG NEAR): Adaptation to Climate Change in the Southern Mediterranean – Food and Water Security in Focus</li>
