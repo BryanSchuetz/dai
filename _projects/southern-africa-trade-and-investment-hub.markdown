@@ -21,8 +21,10 @@ promos:
 - title: How Donor-Funded Economic Growth Projects are Adapting to the Challenges
     of COVID-19
   link: https://dai-global-developments.com/articles/how-donor-funded-economic-growth-projects-are-adapting-to-the-challenges-of-covid-19
-- title: 
-  link: 
+- title: How to Facilitate Access to Finance
+  link: "/uploads/163%20Learning%20Piece%20on%20the%20USAID%20TradeHub%20Investment%20Model_September%2027%202022%5B47%5D.pdf"
+- title: Lifecycle of an Export Deal
+  link: "/uploads/Learning%20Piece%20-%20Lifecycle%20of%20an%20export%20deal_Sept%20%2015%202022.pdf"
 ---
 
 The U.S. Agency for International Development (USAID) Southern Africa Trade and Investment Hub (USAID TradeHub) engaged with partners across the region to increase sustainable economic growth, global export competitiveness, and trade in targeted southern African countries. It supported these objectives by increasing exports from southern African countries to South Africa and the United States (under the [AGOA](https://ustr.gov/issue-areas/trade-development/preference-programs/african-growth-and-opportunity-act-agoa)), boosting capital and technology flows from South Africa to other southern African countries, and providing targeted trade facilitation support to Zambia. The USAID TradeHub worked with market actors to identify and resolve enterprise constraints and to implement sustainable solutions through market-based trade and investment facilitation services. 
