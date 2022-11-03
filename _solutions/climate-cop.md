@@ -49,6 +49,21 @@ layout: solution
   <div class="faq">
     <a class="accordion-header">
       <ul class="cop-event-header">
+        <li>EU: Concrete Solutions to Support Access to Climate Finance at the Local Level in the South Mediterranean Region</li>
+        <li>Tuesday, November 8, 2022, 16:15-17:15 (GMT+2)</li>
+        <li>Blue Zone, Union for the Mediterranean Pavilion, World Leaders Summit Day Two</li>
+      </ul>      
+    </a>
+    <div class="faq-answer">
+      <p>Both the use of SEACAPs as the funding tool for climate projects and other tools prepared by Clima-Med project (National Coordination Groups, SEACAP Support Mechanisms, Finance model, and funding Guidelines) and the LoCAL mechanism can factually help increase the flow of climate finance, and in parallel, can help increase funding capacities of local governments.
+
+This session, organized by the [Union for the Mediterranean](https://ufmsecretariat.org/), will discuss how to unlock much-needed funding in the South Mediterranean region and will take the example of two initiatives that have been or will be implemented in the region. The [Clima-Med](https://www.climamed.eu/) project is implemented by a DAI-led consortium. Speakers at the event will include Clima-Med experts Mr. Oussama Kaassamani, Clima-Med SEACAP expert for Mashrek region, and Ms. Olgu Okumus, Clima-Med Policy and Finance Strategy expert.
+</p>    
+    </div>
+  </div>
+  <div class="faq">
+    <a class="accordion-header">
+      <ul class="cop-event-header">
         <li>Director General for Neighbourhood and Enlargement Negotiation (DG NEAR): Local Climate Action, Finance and Partnerships for Climate Action in the Southern Mediterranean</li>
         <li>Tuesday, November 8, 2022, 17:30-18:30 (GMT+2)</li>
         <li>Blue Zone, World Leaders Summit Day Two</li>
@@ -59,7 +74,7 @@ layout: solution
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ec.europa.eu/info/departments/european-neighbourhood-policy-and-enlargement-negotiations_en#:~:text=The%20mission%20of%20the%20Directorate,European%20Commission%20policies%20are%20concerned">Project Overview</a>    
     </div>
   </div>
-  <div class="faq">
+<div class="faq">
     <a class="accordion-header">
       <ul class="cop-event-header">
         <li>Director General for Neighbourhood and Enlargement Negotiation (DG NEAR): Adaptation to Climate Change in the Southern Mediterranean – Food and Water Security in Focus</li>
