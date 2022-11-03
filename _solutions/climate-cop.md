@@ -140,19 +140,6 @@ layout: solution
   </div>
   <div class="faq">
     <a class="accordion-header">
-      <ul>
-        <li>The Global Centre on Adaptation, The GCA Pavilion: GCA Global Hub on Locally Led Adaptation</li>
-        <li>Saturday, November 12, 2022</li>
-        <li>Blue Zone, COP27 Adaption and Agriculture Day</li>
-      </ul>      
-    </a>
-    <div class="faq-answer">
-      <p>DAI is proud to manage The Global Centre on Adaptation’s Local Adaptation Champions Awards 2022. The four winners will be announced during a prestigious awards ceremony at COP27 and spotlit during the newly formed GCA Global Hub on Locally Led Adaptation (LLA) launch. The hub has been developed to bring together partners to address three main issues: the highly localized nature of climate impacts; the importance of local adaptation action; and barriers to accelerating and scaling up LLA.</p>
-      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://gca.org/call-for-partnerships-gca-global-hub-on-locally-led-adaptation/">Project Overview</a>
-    </div>
-  </div>
-  <div class="faq">
-    <a class="accordion-header">
       <ul class="cop-event-header">
         <li>The Global Centre on Adaptation, 2022 Local Adaption Champions Awards Ceremony</li>
         <li>Saturday, November 12, 2022, 16:00-17:00 (GMT+2)</li>
