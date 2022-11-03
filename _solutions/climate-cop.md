@@ -188,7 +188,20 @@ layout: solution
     </a>
     <div class="faq-answer">
       <p>Climate governance is critical to promoting climate action and must be at the center of effective responses to climate change. This event will discuss challenges and opportunities relating to climate change governance and share knowledge and experiences. Speakers include Dr. Ali Abo Sena, Chief Executive Officer, Egyptian Environmental Affairs Agency; Eng. Sherif Abdelrehiem, Head of Central Climate Change Unit, Ministry of Environment, Egypt; Eng. Yasser Sherif, Climate Change Governance Egypt, and  Tawfik El-Kheshen, Environmental Governance Technical Advisor.</p>
-      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>  
+      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a> 
+</div>
+  </div>
+  <div class="faq">
+    <a class="accordion-header">
+      <ul>
+        <li>EU: Disaster Risk Reduction - Risk, Assessment, and Solutions</li>
+        <li>Wednesday, November 16, 2022, 14:30-15:30 (GMT+2)</li>
+        <li>Green Zone, EU Pavilion , COP27 Biodiversity Day</li>
+      </ul>
+    </a>
+    <div class="faq-answer">
+      <p>This panel discussion will present the key urban adaptation and mitigation tools that are increasing resilience to climate change and helping prepare for its adverse impacts. Through the valuable accounts of Mayors and local leaders from all over the world, the panel will explore cities’ achievements in reducing their vulnerability to climate change and environmental hazards. This side event is supported by the GCoM Secretariat, a joint venture between the European Commission, represented by DAI, and Bloomberg Philanthropies.</p>
+      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/support-the-secretariat-of-the-global-covenant-of-mayors-for-climate-and-energy">Project Overview</a>  
     </div>
   </div>
   <div class="faq">
