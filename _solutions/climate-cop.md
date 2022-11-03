@@ -42,7 +42,7 @@ layout: solution
       </ul>
     </a>
     <div class="faq-answer">
-      <p>This session looks at unlocking much-needed funding for the South Mediterranean region and considers the example of two initiatives in the region. Speakers include Ramadan Seddik, Director General of Environment – Luxor Governorate; Oussama Kaassamani, Clima-Med key expert; Olgu Okumus, Clima-Med Policy and Finance Strategy expert; Sophie De Coninck, UNCDF LoCAL Global Manager.</p>
+      <p>This session looks at unlocking much-needed funding for the South Mediterranean region and considers the example of two initiatives in the region. Speakers include Ramadan Seddik, Director General of Environment – Luxor Governorate; Oussama Kaassamani, <a href="https://www.climamed.eu/">Clima-Med</a> key expert; Olgu Okumus, Clima-Med Policy and Finance Strategy expert; Sophie De Coninck, UNCDF LoCAL Global Manager.</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ufmsecretariat.org/">Project Overview</a>
     </div>
   </div>
@@ -57,7 +57,7 @@ layout: solution
     <div class="faq-answer">
       <p>Both the use of SEACAPs as the funding tool for climate projects and other tools prepared by Clima-Med project (National Coordination Groups, SEACAP Support Mechanisms, Finance model, and funding Guidelines) and the LoCAL mechanism can factually help increase the flow of climate finance, and in parallel, can help increase funding capacities of local governments.
 
-This session, organized by the [Union for the Mediterranean](https://ufmsecretariat.org/), will discuss how to unlock much-needed funding in the South Mediterranean region and will take the example of two initiatives that have been or will be implemented in the region. The [Clima-Med](https://www.climamed.eu/) project is implemented by a DAI-led consortium. Speakers at the event will include Clima-Med experts Mr. Oussama Kaassamani, Clima-Med SEACAP expert for Mashrek region, and Ms. Olgu Okumus, Clima-Med Policy and Finance Strategy expert.
+This session, organized by the <a href="https://ufmsecretariat.org/">Union for the Mediterranean</a>, will discuss how to unlock much-needed funding in the South Mediterranean region and will take the example of two initiatives that have been or will be implemented in the region. The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a DAI-led consortium. Speakers at the event will include Clima-Med experts Mr. Oussama Kaassamani, Clima-Med SEACAP expert for Mashrek region, and Ms. Olgu Okumus, Clima-Med Policy and Finance Strategy expert.
 </p>    
     </div>
   </div>
@@ -74,7 +74,7 @@ This session, organized by the [Union for the Mediterranean](https://ufmsecretar
 
 The EU cooperates with its Southern neighbors to support their green transition and help the region adapt to climate impacts. The EU also supports local authorities and their affiliation with the Global Covenant of Mayors for Climate and Energy (GCoM) initiative through its Mediterranean branch, the [Covenant of Mayors Mediterranean](https://www.com-med.org/en/).
 
-The [Clima-Med](https://www.climamed.eu/) project is implemented by a DAI-led consortium. Speakers at the event will include the Clima-Med Team Leader, Mr. Naguib Amin and Mr. Georges Youssef, Mayor of Menjez, Lebanon. The event is organized by the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR).</p>
+The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a DAI-led consortium. Speakers at the event will include the Clima-Med Team Leader, Mr. Naguib Amin and Mr. Georges Youssef, Mayor of Menjez, Lebanon. The event is organized by the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR).</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood">Project Overview</a> 
     </div>
   </div>
@@ -113,7 +113,7 @@ The [Clima-Med](https://www.climamed.eu/) project is implemented by a DAI-led co
       </ul>    
     </a>
     <div class="faq-answer">
-      <p>In light of the challenges the Mediterranean is facing, there is an urgent and critical need for countries to adapt and increase their resilience to climate change. The EU is committed to supporting the region in these endeavors in its ongoing cooperation with the Southern Neighbourhood region. The event proposes to discuss challenges, joint responses, and initiatives, draw lessons learned from bilateral and regional cooperation, and reflect on how best to support the region in the future, given the changing context. The event is organized by the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR) and moderated by Mr. Naguib Amin, Team Leader for Clima-Med. The [Clima-Med](https://www.climamed.eu/)  project is implemented by a DAI-led consortium.</p>
+      <p>In light of the challenges the Mediterranean is facing, there is an urgent and critical need for countries to adapt and increase their resilience to climate change. The EU is committed to supporting the region in these endeavors in its ongoing cooperation with the Southern Neighbourhood region. The event proposes to discuss challenges, joint responses, and initiatives, draw lessons learned from bilateral and regional cooperation, and reflect on how best to support the region in the future, given the changing context. The event is organized by the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR) and moderated by Mr. Naguib Amin, Team Leader for Clima-Med. The <a href="https://www.climamed.eu/">Clima-Med</a>  project is implemented by a DAI-led consortium.</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood">Project Overview</a>    
     </div>
   </div>
