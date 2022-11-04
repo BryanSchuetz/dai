@@ -49,3 +49,5 @@ Most of our emissions in Scope 3 are caused by business travel. We have not excl
 * We collaborate across our sector to facilitate best practice, sharing what we have learned and seeking to provide greater value to our clients and the societies where we operate.
 * We ensure transparency by embedding our science-based targets into our global environment, social, and governance metrics, which measure our performance. We report to the CDP Global initiative annually.
 
+**Please find our DAI Global UK Reduction Plan <a href="https://dai-assets.s3.amazonaws.com/DAI%20Global%20UK%20Carbon%20Reduction%20Plan%202022.pdf">here.</a>**
+
