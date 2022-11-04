@@ -119,6 +119,19 @@ The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a
   </div>
   <div class="faq">
     <a class="accordion-header">
+      <ul>
+        <li>FCDO Taskforce on Access to Climate Finance: presentation of the 2022 Annual Report</li>
+        <li>Thursday, November 9, 2022, 14:30-15:15 (GMT+2)</li>
+        <li>Blue Zone, COP 27 Finance Day</li>
+      </ul>      
+    </a>
+    <div class="faq-answer">
+      <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the <a href="https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds">Expert Advisory Call Down Service</a>, draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries—Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
+      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a> 
+    </div>
+  </div>
+  <div class="faq">
+    <a class="accordion-header">
       <ul class="cop-event-header">
         <li>The Centre for Disaster Protection, 'Hard-Talks’ podcast discussion on Disaster Risk Finance and Insurance</li>
         <li>Thursday, November 10, 2022</li>
@@ -154,19 +167,6 @@ The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a
     <div class="faq-answer">
       <p>This event will highlight university students’ participation in and the challenges they face contributing to climate action. Students who participated in the Model COP and the Climate Change Changers programs in Egypt will share their experiences. Speakers at this event include H.E. Dr. Yasmine Fouad, Minister of Environment, Egypt; Leslie Reed, USAID Egypt Mission Director; and Dr. Mohamed El-Khosht, president of Cairo University and Cairo University students.</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/egypt-economic-governance-activity-ega">Project Overview</a>
-    </div>
-  </div>
-  <div class="faq">
-    <a class="accordion-header">
-      <ul>
-        <li>FCDO Taskforce on Access to Climate Finance: presentation of the 2022 Annual Report</li>
-        <li>Thursday, November 10, 2022, 14:30-15:15 (GMT+2)</li>
-        <li>Blue Zone, COP 27 Finance Day</li>
-      </ul>      
-    </a>
-    <div class="faq-answer">
-      <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the <a href="https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds">Expert Advisory Call Down Service</a>, draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries—Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
-      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a> 
     </div>
   </div>
   <div class="faq">
