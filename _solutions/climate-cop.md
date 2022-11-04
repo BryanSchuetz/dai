@@ -120,14 +120,14 @@ The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a
   <div class="faq">
     <a class="accordion-header">
       <ul>
-        <li>FCDO Taskforce on Access to Climate Finance: presentation of the 2022 Annual Report</li>
+        <li>Transforming Access to Climate Finance: Presentation of the Taskforce First Annual Report</li>
         <li>Thursday, November 9, 2022, 14:30-15:15 (GMT+2)</li>
         <li>Blue Zone, COP 27 Finance Day</li>
       </ul>      
     </a>
     <div class="faq-answer">
-      <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce</a>. The Report, delivered by DAI staff through the <a href="https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds">Expert Advisory Call Down Service</a>, draws out the key achievements over the past year. The event will feature Steering Committee members and representatives from Fiji and the UK (co-chairs) and five pioneer countries—Bangladesh, Fiji, Jamaica, Rwanda, and Uganda. Parties will discuss their efforts to align with the Principles of the Taskforce to enhance and increase access to climate finance. </p>
-      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Project Overview</a> 
+      <p>This event will present the 2022 Annual Report of the <a href="https://ukcop26.org/wp-content/uploads/2021/09/Taskforce-on-Access-to-Climate-Finance-Revised-Concept-Note.pdf">Taskforce on Access to Climate Finance</a>. The Report, delivered by DAI staff through the <a href="https://www.dai.com/our-work/projects/worldwide-expert-advisory-call-down-services-eacds">Expert Advisory Call Down Service</a>, draws out the key achievements over the past year and provides recommendations. Lord Goldsmith will give the opening address. On the panel will be the Executive Director of the Green Climate Fund, the Managing Director of the World Bank, and senior representatives from Germany, Rwanda, Uganda, and Fiji. </p>
+      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://eu.eventscloud.com/website/9604/ukpavilionprogramme/">Link to Event</a> 
     </div>
   </div>
   <div class="faq">
