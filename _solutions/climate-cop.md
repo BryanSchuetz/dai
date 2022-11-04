@@ -55,10 +55,8 @@ layout: solution
       </ul>      
     </a>
     <div class="faq-answer">
-      <p>Both the use of SEACAPs as the funding tool for climate projects and other tools prepared by Clima-Med project (National Coordination Groups, SEACAP Support Mechanisms, Finance model, and funding Guidelines) and the LoCAL mechanism can factually help increase the flow of climate finance, and in parallel, can help increase funding capacities of local governments.
-
-This session, organized by the <a href="https://ufmsecretariat.org/">Union for the Mediterranean</a>, will discuss how to unlock much-needed funding in the South Mediterranean region and will take the example of two initiatives that have been or will be implemented in the region. The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a DAI-led consortium. Speakers at the event will include Clima-Med experts Mr. Oussama Kaassamani, Clima-Med SEACAP expert for Mashrek region, and Ms. Olgu Okumus, Clima-Med Policy and Finance Strategy expert.
-</p>    
+      <p>Both the use of SEACAPs as the funding tool for climate projects and other tools prepared by Clima-Med project (National Coordination Groups, SEACAP Support Mechanisms, Finance model, and funding Guidelines) and the LoCAL mechanism can factually help increase the flow of climate finance, and in parallel, can help increase funding capacities of local governments.</p>
+      <p>This session, organized by the <a href="https://ufmsecretariat.org/">Union for the Mediterranean</a>, will discuss how to unlock much-needed funding in the South Mediterranean region and will take the example of two initiatives that have been or will be implemented in the region. The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a DAI-led consortium. Speakers at the event will include Clima-Med experts Mr. Oussama Kaassamani, Clima-Med SEACAP expert for Mashrek region, and Ms. Olgu Okumus, Clima-Med Policy and Finance Strategy expert.</p>    
     </div>
   </div>
   <div class="faq">
@@ -70,11 +68,9 @@ This session, organized by the <a href="https://ufmsecretariat.org/">Union for t
       </ul>      
     </a>
     <div class="faq-answer">
-      <p>Local authorities are uniquely positioned to identify the climate change adaptation responses that best meet local needs. Furthermore, they typically have the mandate to undertake the small- to medium-sized adaptation investments needed to build climate resilience. Yet they frequently lack the resources to do so, especially in a way aligned with established decision-making processes and public planning and budgeting cycles. 
-
-The EU cooperates with its Southern neighbors to support their green transition and help the region adapt to climate impacts. The EU also supports local authorities and their affiliation with the Global Covenant of Mayors for Climate and Energy (GCoM) initiative through its Mediterranean branch, the <a href="https://www.com-med.org/en/">Covenant of Mayors Mediterranean</a>.
-
-The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a DAI-led consortium. Speakers at the event will include the Clima-Med Team Leader, Mr. Naguib Amin and Mr. Georges Youssef, Mayor of Menjez, Lebanon. The event is organized by the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR).</p>
+      <p>Local authorities are uniquely positioned to identify the climate change adaptation responses that best meet local needs. Furthermore, they typically have the mandate to undertake the small- to medium-sized adaptation investments needed to build climate resilience. Yet they frequently lack the resources to do so, especially in a way aligned with established decision-making processes and public planning and budgeting cycles. </p>
+      <p>The EU cooperates with its Southern neighbors to support their green transition and help the region adapt to climate impacts. The EU also supports local authorities and their affiliation with the Global Covenant of Mayors for Climate and Energy (GCoM) initiative through its Mediterranean branch, the <a href="https://www.com-med.org/en/">Covenant of Mayors Mediterranean</a>.</p>
+      <p>The <a href="https://www.climamed.eu/">Clima-Med</a> project is implemented by a DAI-led consortium. Speakers at the event will include the Clima-Med Team Leader, Mr. Naguib Amin and Mr. Georges Youssef, Mayor of Menjez, Lebanon. The event is organized by the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR).</p>
       <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.dai.com/our-work/projects/regional-eu-for-climate-action-in-the-european-neighbourhood-instrument-eni-southern-neighbourhood">Project Overview</a> 
     </div>
   </div>
