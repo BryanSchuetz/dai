@@ -11,6 +11,7 @@ solutions:
 - Climate
 - Governance
 regions: Worldwide
+country: Worldwide
 ---
 
 DAI is delivering the Climate Ambition Support Alliance Phase 2, CASA2 will provide legal, technical, strategic, diplomatic, and media support to negotiators of the United Nations Framework Convention on Climate Change (UNFCCC), including at the yearly Conference of Parties (COPs) and intercessional meetings. CASA2 supports the most vulnerable groups of countries, the Alliance of Small Island States (AOSIS) and the Least Developed Countries (LDCs), to engage in and influence the outcomes of international climate negotiations.
