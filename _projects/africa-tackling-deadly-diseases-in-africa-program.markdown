@@ -1,8 +1,8 @@
 ---
 title: Africa—Tackling Deadly Diseases in Africa (TDDA) programme
 date: 2019-01-23 15:27:00 Z
-summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme works to save lives
-  and improve global health security by reducing the impact of disease outbreaks,
+summary: 'The Tackling Deadly Diseases in Africa (TDDA) programme worked to save lives
+  and improved global health security by reducing the impact of disease outbreaks,
   epidemics, and other public health threats across sub-Saharan Africa. '
 start: 2019
 end: 2022
@@ -26,8 +26,6 @@ promos:
   link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/covid-protecting-lives-in-cameroon.pdf
 - title: 'Health Equity is Key to Global Health Security Goals: Learning from COVID-19'
   link: https://dai-global-developments.com/articles/health-equity-is-key-to-global-health-security-goals-learning-from-covid-19
-- title: 'TDDA: Where We Work '
-  link: "/uploads/DAI_TDDA_FCDO_full%20country%20set.pdf"
 - title: "**Case Study**: Strengthening Health Security: Building the Role of Civil
     Society"
   link: "/uploads/TDDA%20CSO%20capacity%20building%20case%20study.pdf"
