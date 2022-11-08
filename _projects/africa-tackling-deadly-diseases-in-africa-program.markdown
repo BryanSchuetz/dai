@@ -57,7 +57,7 @@ In 2020, our work to help build emergency response mechanisms was adapted and mo
 
 TDDA tackles the systemic causes of health insecurity, not just the symptoms. Instead of fighting fires, this programme helps equip countries to manage disease outbreaks and other health threats before they become public health crises. Our work shows that collective efforts can make a real difference, even in countries facing significant challenges.
 
-<iframe src="https://player.vimeo.com/video/768660914?h=7bc224bc91" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/768660914?h=7bc224bc91" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>`VIDEO: Building the role of civil society organisations in health security in Chad.`
 
 ## Sample Activities
 
