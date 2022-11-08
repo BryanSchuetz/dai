@@ -35,29 +35,29 @@ promos:
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
 
-The [Tackling Deadly Diseases in Africa (TDDA)](https://tacklingdeadlydiseasesinafrica.org) programme works with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We are delivering practical changes that strengthen health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
+The [Tackling Deadly Diseases in Africa (TDDA)](https://tacklingdeadlydiseasesinafrica.org) programme worked with governments and communities across sub-Saharan Africa, empowering them to achieve their own ambitions in health security. We delivered practical changes that strengthened health systems, crisis preparedness, and emergency response mechanisms in Cameroon, Chad, Côte D’Ivoire, Mali, and Uganda. 
 
 >  “Pandemics are the greatest single threat to global health today. TDDA is a flagship programme of the UK Government helping to protect populations and economies around the world, including in the UK.”  -**Graham Gass, Group Head, Africa Regional Department, UK Foreign, Commonwealth & Development Office**
 
-We work closely with the African Centers for Disease Control and the World Health Organisation’s African Regional Office (WHO/AFRO) to reinforce regional efforts at harmonization and cross-border collaboration.  
+We worked closely with the African Centers for Disease Control and the World Health Organisation’s African Regional Office (WHO/AFRO) to reinforce regional efforts at harmonization and cross-border collaboration.  
 
 ### Expert Support on the Ground
 
-[TDDA](https://afriquecontrelesepidemies.org) provides technical expertise and targeted operational support through experts on the ground. The programme is shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We help our focus countries to bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflects the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. Meet our [Country Coordinators](/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf).
+[TDDA](https://afriquecontrelesepidemies.org) provided technical expertise and targeted operational support through experts on the ground. The programme was shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We helped our focus countries bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflected the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. Meet our [Country Coordinators](/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf).
 
 ### Preventing Animal-to-Human Disease Transmission 
 
-Zoonotic diseases, in which pathogens jump from animals to humans, account for 75 percent of all new infectious diseases. With this clear global threat in mind, TDDA supports the One Health approach to improve coordination between human, animal, and environmental health. We provide advice to strengthen One Health policies and co-ordination across different government ministries and agencies. 
+Zoonotic diseases, in which pathogens jump from animals to humans, account for 75 percent of all new infectious diseases. With this clear global threat in mind, TDDA supported the One Health approach to improve coordination between human, animal, and environmental health. We provided advice to strengthen One Health policies and coordination across different government ministries and agencies. 
 
 ### COVID-19—How TDDA is Responding
 
-In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we are saving lives by providing operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020.  Thanks to our ‘feet on the ground’ in our five focus countries, TDDA is uniquely placed to assist with COVID-19 vaccine rollout, including the UN-led COVAX programme. We are discussing with country partners and FCDO how we can assist this initiative, which is increasing access to vaccinations in lower-income countries. 
+In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we provided operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020. Thanks to our ‘feet on the ground’ in our five focus countries, TDDA was uniquely placed to assist with COVID-19 vaccine rollout, including the UN-led COVAX programme. 
 
 ### Making a Lasting Difference—Locally, Regionally, and Globally
 
-TDDA tackles the systemic causes of health insecurity, not just the symptoms. Instead of fighting fires, this programme helps equip countries to manage disease outbreaks and other health threats before they become public health crises. Our work shows that collective efforts can make a real difference, even in countries facing significant challenges.
+TDDA tackled the systemic causes of health insecurity, not just the symptoms. Instead of fighting fires, this programme helped equip countries to manage disease outbreaks and other health threats before they become public health crises. Our work showed that collective efforts can make a real difference, even in countries facing significant challenges.
 
-<iframe src="https://player.vimeo.com/video/768660914?h=7bc224bc91" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>`VIDEO: Building the role of civil society organisations in health security in Chad.`
+<iframe src="https://player.vimeo.com/video/768660914?h=7bc224bc91" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>`VIDEO: See how we helped build the role of civil society organisations in health security in Chad.`
 
 ## Sample Activities
 
