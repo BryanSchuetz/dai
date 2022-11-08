@@ -29,6 +29,9 @@ promos:
 - title: "**Case Study**: Strengthening Health Security: Building the Role of Civil
     Society"
   link: "/uploads/TDDA%20CSO%20capacity%20building%20case%20study.pdf"
+- title: 'VIDEO (long version): Building the Role of Civil Society Organisations in
+    Health Security in Chad'
+  link: https://vimeo.com/daiglobal/tddachad
 ---
 
 Epidemics are a global threat, killing millions of people each year. Strong health systems need strong institutions, infrastructure, surveillance systems, and well-trained and equipped staff. Without them, disease outbreaks can quickly become epidemics and then pandemics, which devastate lives and livelihoods. 
