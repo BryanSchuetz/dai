@@ -51,24 +51,23 @@ Zoonotic diseases, in which pathogens jump from animals to humans, account for 7
 
 ### COVID-19—How TDDA is Responding
 
-In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we are saving lives by providing operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020.  Thanks to our ‘feet on the ground’ in our five focus countries, TDDA is uniquely placed to assist with COVID-19 vaccine roll out, including the UN-led COVAX programme. We are discussing with country partners and FCDO how we can assist this initiative, which is increasing access to vaccinations in lower income countries. 
+In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we are saving lives by providing operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020.  Thanks to our ‘feet on the ground’ in our five focus countries, TDDA is uniquely placed to assist with COVID-19 vaccine rollout, including the UN-led COVAX programme. We are discussing with country partners and FCDO how we can assist this initiative, which is increasing access to vaccinations in lower-income countries. 
 
 ### Making a Lasting Difference—Locally, Regionally, and Globally
 
 TDDA tackles the systemic causes of health insecurity, not just the symptoms. Instead of fighting fires, this programme helps equip countries to manage disease outbreaks and other health threats before they become public health crises. Our work shows that collective efforts can make a real difference, even in countries facing significant challenges.
 
-![tdaap.jpg](/uploads/tdaap.jpg)
+<iframe src="https://player.vimeo.com/video/768660914?h=7bc224bc91" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
 
 * Coordinate with government ministries and civil society organisations to establish shared goals for health security. 
 * Employ tools such as Joint External Evaluations and One Health simulations to help set national health priorities, using the focus on infectious diseases to accelerate progress towards universal health coverage and international compliance. 
-* Strengthen health surveillance, including processes at border entry points, to ensure decision-makers have the data they need to quickly identify and manage disease outbreaks, and better co-ordinate actions with neighbouring countries.  
-* Map resources and gaps in National Action Plans with WHO/AFRO and systematizing Events Based Surveillance with Africa CDC.
+* Strengthen health surveillance, including processes at border entry points, to ensure decision-makers have the data they need to quickly identify and manage disease outbreaks, and better coordinate actions with neighbouring countries.  
+* Map resources and gaps in National Action Plans with WHO/AFRO and systematising Events Based Surveillance with Africa CDC.
 * Build local emergency response capacity by engaging communities in efforts to prepare and react rapidly, so that local outbreaks do not become epidemics. 
 * Pre-approve suppliers so that countries can access and deploy resources quickly in emergencies, where needed. 
 * Provide global stakeholders, including the United Kingdom, with timely information enabling standby teams of emergency response specialists to mobilise in-country in the event of outbreaks.  
- 
 
 ## Select Results
 
