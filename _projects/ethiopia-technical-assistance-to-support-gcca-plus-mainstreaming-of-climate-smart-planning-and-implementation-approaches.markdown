@@ -32,8 +32,17 @@ Using instruments such as GIS and remote sensing for monitoring and evaluation, 
 
 ## Sample Activities
 
-* Map climate hazard and vulnerability together with current use of climate-smart practices and technologies.
+* Map climate hazards and vulnerability together with current use of climate-smart practices and technologies.
 * Design and roll out a national roadmap for mainstreaming climate-smart procedures, tools, and processes.
 * Strengthen monitoring and evaluation of adaptation and resilience activities, and carbon sequestration.
 * Support linkages of PSNP planning processes with climate and disaster risk reduction and early warning systems.
 * Perform GIS mapping and codification of watersheds and micro watersheds in 22 focus districts.
+
+## Select Results
+
+* Supported 22 districts in the roll-out of climate-smart approaches. 
+* Trained 2,000 agriculture public officers on climate risks and how to mitigate them. 
+* Revised and piloted watershed and rangeland development guidelines in 22 districts across a range of ecological areas. 
+* Mainstreamed climate-smart approaches mainstreamed into PSNP manuals, guides, and training materials.  
+* Carried out stocktaking process to understand land use and climate-related issues, evaluate capacities in the field, and map climate-smart practices already in use. 
+* Delineated micro-watersheds in the 22 districts, including base maps that include bio-physical assessment data, current land use, land cover, and other baseline information needed in development planning.
