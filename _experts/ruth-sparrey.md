@@ -1,6 +1,7 @@
 ---
 title: Ruth Sparrey
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Sparrey
 summary: 'Ruth Sparrey is to an advisor the Resilience, Climate, and Environment practice
   in our U.K. office. '
