@@ -29,6 +29,8 @@ promos:
 - title: "**Case Study**: Strengthening Health Security: Building the Role of Civil
     Society"
   link: "/uploads/TDDA%20CSO%20capacity%20building%20case%20study.pdf"
+- title: "**Case Study**: Epidemics Begin and End in Communities"
+  link: "/uploads/Case%20Study%20Epidemics%20begin%20and%20end%20in%20communities.pdf"
 - title: "**Video (long version)**: Building the Role of Civil Society Organisations
     in Health Security in Chad"
   link: https://vimeo.com/daiglobal/tddachad
