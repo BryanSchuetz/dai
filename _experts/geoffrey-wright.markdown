@@ -1,6 +1,7 @@
 ---
 title: Geoffrey Wright
 date: 2018-06-20 14:10:00 Z
+published: false
 lastname: 'Wright '
 summary: 'Geoffrey Wright is a senior trade and regulatory reform leader with 26 years
   of experience. '
