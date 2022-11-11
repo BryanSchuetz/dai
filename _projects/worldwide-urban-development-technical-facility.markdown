@@ -14,6 +14,14 @@ The first-ever EU Urban Development Technical Facility focuses on supporting EU 
 
 Our team will provide advisory, analytical and technical reviews for greater coordination and alignment on sustainable urban development; increasing knowledge capitalization and dissemination within the European Commission, development partners and partner countries; and providing operational support to the EU Platform for Urban Development. These activities will contribute to achieving the objectives of the EU Green Deal, the EU Global Gateway initiative, the New Urban Agenda, and the Sustainable Development Goals, while also supporting digital transformation, sustainable growth and jobs, good governance, human development, and migration management.
 
+We are pleased to report that DAI has been awarded a contract to support the implementation of the Urban Development Technical Facility (UDTF).
+ 
+UDTF is the first-ever Facility of the European Union specifically focused on supporting EU partner countries in tackling their urban development challenges. The Facility will deliver high-level technical assistance and policy advice to improve the quality and impact of the EU’s interventions in urban development at a local, regional, and global level. Integrated urban planning coupled with greener infrastructure and better coordinated growth will enhance urban resilience while minimizing the adverse environmental impacts of human settlement, in line with the objectives of the EU Green Deal, the New Urban Agenda, and the Sustainable Development Goals. 
+ 
+Our UDTF team will provide advisory, analytical, and technical reviews to improve coordination and alignment on sustainable urban development; increase knowledge capitalization and dissemination within the European Commission, its global development partners, and partner countries; and provide operational support to the upcoming EU Platform for Urban Development. 
+
+
+
 ## Sample Activities
 
 * Provide technical assistance to EC and EU Delegations in supporting sustainable urban development related actions in partner countries, including the designing and implementation of programmes on sustainable cities, advise on public strategies to increase policy dialog with partner countries, and provide guidance to Delegations or partners on how to mainstream urban development aspects into interventions.
