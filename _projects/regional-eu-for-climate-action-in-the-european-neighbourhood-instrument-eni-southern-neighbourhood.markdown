@@ -18,6 +18,9 @@ promos:
   link: https://www.dai.com/news/project-supported-tunisian-city-named-a-frontrunner-in-global-climate-city-challenge
 - title: 'Climate Change Governance: Six Lessons Learned'
   link: https://dai-global-developments.com/articles/climate-change-governance-six-lessons-learned
+- title: 'Funding Climate Action in the South Mediterranean: Local Authorities Take
+    the Lead'
+  link: https://dai-global-developments.com/articles/funding-climate-action-in-the-south-mediterranean-local-authorities-take-the-lead/
 ---
 
 Identified as a [climate change hotspot region](https://www.iucn.org/regions/mediterranean/our-work/climate-change-mediterranean), the Southern Mediterranean region is seeing increasing water scarcity, rising temperatures, and growing rates of desertification. The increasing frequency of climate change impacts affects both socio-economic development and the geopolitical environment. The multidimensional nature of climate change calls for a coherent and coordinated multi-sectoral response.
