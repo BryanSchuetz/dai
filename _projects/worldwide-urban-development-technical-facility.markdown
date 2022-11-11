@@ -1,9 +1,15 @@
 ---
 title: Worldwide—Urban Development Technical Facility
 date: 2022-11-11 11:18:00 Z
-published: false
+summary: 'The first-ever EU Urban Development Technical Facility focuses on supporting
+  partner countries in their urban development challenges. '
 start: 2022
+end: 2026
 client: European Union
+solutions:
+- Climate
+- Environment
+- 
 regions: Worldwide
 country: Worldwide
 ---
@@ -17,5 +23,5 @@ We provide advisory, analytical, and technical reviews for greater coordination 
 ## Sample Activities
 
 * Provide technical assistance to European Commission and EU Delegations in supporting sustainable urban development actions in partner countries, including the design and implementation of programmes on sustainable cities, advise on public strategies to increase policy dialog with partner countries, and provide guidance to Delegations or partners on how to mainstream urban development aspects into interventions.
-* Increase knowledge on the different levels of sustainability in the context of urban development to share with EU Commission, development partners and partner countries, through the organisation of meetings and events, conducting research and supporting the development of knowledge on gender equality and human rights-based approach in urban development areas. 
+* Increase knowledge on the different levels of sustainability in the context of urban development to share with all stakeholders, through meetings and events, conducting research, and supporting the development of knowledge on gender equality and human rights-based approach in urban development areas. 
 * Develop an EU Platform as a new forum for greater coordination and alignment on sustainable urban development. 
