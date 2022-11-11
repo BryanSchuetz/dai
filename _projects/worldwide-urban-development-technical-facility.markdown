@@ -20,6 +20,8 @@ The first-ever EU Urban Development Technical Facility focuses on supporting par
 
 We provide advisory, analytical, and technical reviews for greater coordination and alignment on sustainable urban development; increase knowledge dissemination among all stakeholders; and provide operational support to the EU Platform for Urban Development. These activities contribute to achieving the objectives of the EU Green Deal, the EU Global Gateway initiative, the New Urban Agenda, and the Sustainable Development Goals, while also supporting digital transformation, sustainable growth and jobs, good governance, human development, and migration management.
 
+![urban.jpg](/uploads/urban.jpg)
+
 ## Sample Activities
 
 * Provide technical assistance to European Commission and EU Delegations in supporting sustainable urban development actions in partner countries, including the design and implementation of programmes on sustainable cities, advise on public strategies to increase policy dialog with partner countries, and provide guidance to Delegations or partners on how to mainstream urban development aspects into interventions.
