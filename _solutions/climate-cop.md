@@ -194,19 +194,6 @@ layout: solution
   </div>
   <div class="faq">
     <a class="accordion-header">
-      <ul>
-        <li>IRENA: Gender Just Energy Transitions – fireside discussion organised by DAI</li>
-        <li>Saturday, November 12, 2022, 17:30–18:30 (GMT+2)</li>
-        <li>Blue Zone, COP27 Adaption and Agriculture Day</li>
-      </ul>      
-    </a>
-    <div class="faq-answer">
-      <p>This session brings together diverse voices and highlights key elements within the theme narrative, including investment and capacity-building for gender mainstreaming into just transition activities. It will integrate discussions around policy and technology. It is hoped that any conclusions drawn may be followed-up via the IRENA Coalition for Action and the Sustainable Energy Jobs Group. The session will take the form of a roundtable discussion to discuss opportunities, synergies and challenges, followed by a Q&A from the audience.</p>
-      <a style="margin-bottom: 1rem;" class="button is-primary" href="https://www.irena.org/events/2022/Nov/IRENA-at-COP27">Project Overview</a>
-    </div>
-  </div>
-  <div class="faq">
-    <a class="accordion-header">
       <ul class="cop-event-header">
         <li>The COP27 Resilience Hub: Addressing Innovation Barriers in Energy and Mobility Entrepreneurship</li>
         <li>Tuesday, November 15, 2022, 14:00-15:00 (GMT+2)</li>
