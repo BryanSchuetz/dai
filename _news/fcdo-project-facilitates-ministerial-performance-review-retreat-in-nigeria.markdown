@@ -20,7 +20,7 @@ country: Nigeria
 
 Citing his administration’s efforts to fight corruption and improve governance, Nigerian President Muhammed Buhari recently opened the 3rd Ministerial Performance Review Retreat, an event facilitated by the [Partnership to Engage, Reform, and Learn (PERL)](https://www.dai.com/our-work/projects/nigeria-accountable-responsive-and-capable-government-ARC) project, which is funded by the U.K. Foreign, Commonwealth & Development Office.
 
-![Ministerial retreat-9aefc0.jpg](/uploads/Ministerial%20retreat-9aefc0.jpg)`Abah, third from left, and DAI's Senior Vice President of Geographic and Digital Platforms Nate Bourns, fourth from left, are pictured with retreat attendees.`
+![Ministerial retreat-9aefc0.jpg](/uploads/Ministerial%20retreat-9aefc0.jpg)`From left, Umar Abu, PERL-ARC Federal Lead; Nnenna Abah FCDO Partnership for Learning for All project; Abah; Nate Bourns, DAI Senior Vice President of Geographic and Digital Platforms; and Nguyan Feese, Education Consultant.`
 
 “As an administration, we are unwavering in our fight against corruption,” he said. “We will continue to review and prosecute high-profile corruption cases and ensure speedy completion.”
 The retreat—themed “Enhance security, fight corruption, transform the economy”—was held in Abuja to review the progress the Nigerian Government has made since the last such forum in October 2021. In addition to President Buhari, attendees included the former President of Kenya, Uhuru Kenyatta, the leadership of Nigeria’s National Assembly, all members of the Federal Executive Council, and the Defense Chiefs, among others.
