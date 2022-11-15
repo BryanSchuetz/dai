@@ -10,6 +10,8 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [Request for Proposal (RFP-RITA-22-009): Providing Event (Project) Management Services for Myanmar SMEs 
+at International Agribusiness/Food Processing Tradeshows](/uploads/Public%20Advertisment-%20RFP%20(Final)%2015%20Nov%202022%5B80%5D.pdf "12/8")
 * [RFP-CEC-LIM-22-0037 Eval Medio Termino-Prevenir](/uploads/RFP-CEC-LIM-22-0037%20Eval%20Medio%20Termino-Prevenir.pdf "11/29")
 * [Cybersecurity Training](https://dai-assets.s3.amazonaws.com/rfps/RFP-%20CIDR%20E%26E%20Cybersecurity%20Training_FINAL.pdf "12/5")
 * [RFA 2022-20 Modification 01](/uploads/RFA%202022-20%20Modification%2001.pdf "11/22")
