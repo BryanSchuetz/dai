@@ -25,6 +25,8 @@ Whether we’re helping a multinational safely re-open garment factories during 
 
 We rely on data-rich technical analysis and on-the-ground relationships to structure successful service engagements and investments in developed and emerging markets, with an unwavering commitment to our clients and the countries where they work.
 
+[![webinar advert](/uploads/webinar-advert.png)](https://teams.microsoft.com/registration/PREHcQviIEykzlU8q79obQ,E0TmfYSWy0KFnlMS1aPSKw,86IRvITB0USv9q4wkOJdqA,ThsNhFfXHECRnBHuPCE-6g,reB7QA6QC0eaNdb5-Ecukg,f2DWXVH2gk2wVE6sSV5aZw?mode=read&tenantId=7107113d-e20b-4c20-a4ce-553cabbf686d)
+
 ## Helping businesses achieve their ESG commitments 
 
 The new frontier of what it means to be a responsible business requires companies to drive meaningful impact and local prosperity in the communities and environments where they operate.
