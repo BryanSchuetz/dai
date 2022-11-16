@@ -5,7 +5,7 @@ summary: Contact details. United States, Europe, Asia and Pacific
 layout: default
 ---
 
-˚# Contact Us
+# Contact Us
 
 <div class="cf">
 <div class="contact-us us">
