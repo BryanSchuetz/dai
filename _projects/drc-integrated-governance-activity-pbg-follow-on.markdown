@@ -22,7 +22,7 @@ promos:
 
 More than a decade has passed since the Democratic Republic of the Congo (DRC) adopted a new constitution and began holding free elections, yet the democratic system remains fragile, with few or no basic public services in much of the country. A lack of government accountability and transparency, along with widespread corruption, has led to general public mistrust of politicians and government officials.
 
-However, an emerging generation of leaders in the DRC has shown a commitment to greater transparency and institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), is helping governments improve public services and establish trust with their citizens. Building on the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supports new leaders to reform government services at the national, provincial, and local levels. The IGA team also trains civil society and private-sector groups to better advocate their needs to elected officials.
+However, an emerging generation of leaders in the DRC has shown a commitment to greater transparency and institutional reform. To build on this momentum, the Integrated Governance Activity (IGA), funded by the U.S. Agency for International Development (USAID), helped governments improve public services and establish trust with their citizens. Building on the successes of previous USAID programs in the DRC, such as the [Good Governance Program](https://www.dai.com/our-work/projects/democratic-republic-congo-programme-de-bonne-gouvernance-pbg), IGA supported new leaders to reform government services at the national, provincial, and local levels. The IGA team also trained civil society and private-sector groups to better advocate their needs to elected officials.
 
 ![DRC Good Governance teaching.JPG](/uploads/DRC%20Good%20Governance%20teaching.JPG)
 
@@ -39,5 +39,5 @@ However, an emerging generation of leaders in the DRC has shown a commitment to 
 * Strengthened local government finances and own-source revenues substantially.
 * Conducted community scorecard activities in about 40 schools and 160 health centers; plans for improving services and facilities have been adopted and implemented.
 * Strengthened local governments’ financial management, which resulted in increased revenue.
-* Helped staff implementing the annual investment budget to follow correct procurement rules for the first time.
+* Helped staff implement the annual investment budget to follow correct procurement rules for the first time.
 * Established six Community Emergency Response Teams in four provinces.

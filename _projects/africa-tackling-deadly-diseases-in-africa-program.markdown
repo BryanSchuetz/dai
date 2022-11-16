@@ -13,19 +13,16 @@ solutions:
 regions: Sub-Saharan Africa
 country: Regional
 promos:
-- title: Meet our Country Coordinators
-  link: "/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf"
-- title: Strengthening the COVID-19 Response and Protecting Health Services in Uganda
-  link: https://dai-global-developments.com/articles/strengthening-the-covid-19-response-and-protecting-health-services-in-uganda
-- title: "**Interview**:  Dabsou Guidaoussou, Chad Country Coordinator, on TDDA's
-    Emergency Response Mechanism Element "
-  link: https://dai-assets.s3.us-east-1.amazonaws.com/videos/chad-video-rough.mp4
-- title: Chad COVID-19 Projects Summary
-  link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/Chad%20COVID%20Response%20FINAL%202.pdf
-- title: 'COVID-19: Protecting Lives in Cameroon'
-  link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/covid-protecting-lives-in-cameroon.pdf
+- title: Building Trust in Uncertain Times
+  link: "/uploads/TDDA%20Building%20trust%20in%20uncertain%20times.pdf"
 - title: 'Health Equity is Key to Global Health Security Goals: Learning from COVID-19'
   link: https://dai-global-developments.com/articles/health-equity-is-key-to-global-health-security-goals-learning-from-covid-19
+- title: Strengthening the COVID-19 Response and Protecting Health Services in Uganda
+  link: https://dai-global-developments.com/articles/strengthening-the-covid-19-response-and-protecting-health-services-in-uganda
+- title: Chad COVID-19 Projects Summary
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/Chad%20COVID%20Response%20FINAL%202.pdf
+- title: "**Case Study**:  COVID-19: Protecting Lives in Cameroon"
+  link: https://dai-assets.s3.us-east-1.amazonaws.com/tdda/covid-protecting-lives-in-cameroon.pdf
 - title: "**Case Study**: Strengthening Health Security: Building the Role of Civil
     Society"
   link: "/uploads/TDDA%20CSO%20capacity%20building%20case%20study.pdf"
@@ -46,15 +43,15 @@ We worked closely with the African Centers for Disease Control and the World Hea
 
 ### Expert Support on the Ground
 
-[TDDA](https://afriquecontrelesepidemies.org) provided technical expertise and targeted operational support through experts on the ground. The programme was shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We helped our focus countries bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflected the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. Meet our [Country Coordinators](/uploads/CC%20profiles%20EN%20final%5B1%5D.pdf).
+[TDDA](https://afriquecontrelesepidemies.org) provided [technical expertise](https://www.tacklingdeadlydiseasesinafrica.org/post/where-next-for-health-security-strengthening-oct-2022) and targeted operational support through experts on the ground. The programme was shaped by international standards including International Health Regulations, Joint External Evaluations, and National Action Plans for Health Security, informed by our nuanced understanding of circumstances on the ground. We helped our focus countries bridge the gap between high-level policy guidelines and operational improvements that really make a difference. Our work reflected the specific challenges and practical realities in each country, thanks to our continuously updated political economy analyses. 
 
 ### Preventing Animal-to-Human Disease Transmission 
 
 Zoonotic diseases, in which pathogens jump from animals to humans, account for 75 percent of all new infectious diseases. With this clear global threat in mind, TDDA supported the One Health approach to improve coordination between human, animal, and environmental health. We provided advice to strengthen One Health policies and coordination across different government ministries and agencies. 
 
-### COVID-19—How TDDA is Responding
+### COVID-19—How TDDA Responded
 
-In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we provided operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying 23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020. Thanks to our ‘feet on the ground’ in our five focus countries, TDDA was uniquely placed to assist with COVID-19 vaccine rollout, including the UN-led COVAX programme. 
+In 2020, our work to help build emergency response mechanisms was adapted and mobilised to respond to COVID-19. Rather than focusing solely on pre-crisis preparedness, we provided operational and financial help to community organisations delivering urgent and vital support at scale. In Cameroon, for example, we widened access to free testing, identifying  23.7 percent of the country’s 21,000 confirmed infections as of September 30, 2020. Thanks to our ‘feet on the ground’ in our five focus countries, TDDA was uniquely placed to assist with COVID-19 vaccine rollout, including the UN-led COVAX programme. 
 
 ### Making a Lasting Difference—Locally, Regionally, and Globally
 
