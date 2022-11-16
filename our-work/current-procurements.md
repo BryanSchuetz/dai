@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [REVISED RFP CIDR CICWG North Macedonia](https://dai-assets.s3.amazonaws.com/rfps/REVISED_RFP-%20CIDR%20CICWG_North%20Macedonia_FINAL.pdf "12/5")
 * [RFP No. 2022-06-ING Amendment](https://dai-assets.s3.amazonaws.com/rfps/RFP%20No.%202022-06-ING%20Amendment%201.pdf "12/1")
 * [RFP No. 2022-07-ING Amendment](https://dai-assets.s3.amazonaws.com/rfps/RFP%20No.%202022-07-ING%20Amendment%201.pdf "12/1")
 * [Request for Proposal (RFP-RITA-22-009): Providing Event (Project) Management Services for Myanmar SMEs 
