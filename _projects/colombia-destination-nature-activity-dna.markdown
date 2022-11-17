@@ -23,6 +23,8 @@ Coinciding with the Peace Accords, Colombia's international tourist arrivals sur
 The Destination Nature Activity (DNA) is an innovative new program that embraces the emerging nature tourism industry as a central pillar for the Government of Colombia to achieve its environmental ambitions, while also meeting its social and economic commitments in the 2016 Peace Accord.
  
 DNA addresses the root causes of environmental degradation and reduces major drivers of land use change that contribute to greenhouse gas emissions by using nature tourism as a tool for conservation, while supporting the livelihoods of rural citizens, who represent the growing conservation constituency for Colombia’s natural wealth. 
+
+![DNA.jpg](/uploads/DNA.jpg)
  
 ## Sample Activities
 
