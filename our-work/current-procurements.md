@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [Digital Frontiers RFP 2022-13 Conference and Workshop Implementation](/uploads/Digital%20Frontiers%20RFP%202022-13%20Conference%20and%20Workshop%20Implementation.pdf "12/20")
 * [RFP0010-CdMx-GEPPP](/uploads/RFP0010-CdMx-GEPPP.pdf "12/6")
 * [RFP0009-CdMx-FORTSJP](/uploads/RFP0009-CdMx-FORTSJP.pdf "12/6")
 * [REVISED RFP CIDR CICWG North Macedonia](https://dai-assets.s3.amazonaws.com/rfps/REVISED_RFP-%20CIDR%20CICWG_North%20Macedonia_FINAL.pdf "12/5")
