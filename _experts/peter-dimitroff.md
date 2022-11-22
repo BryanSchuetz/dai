@@ -5,7 +5,7 @@ lastname: Dimitroff
 summary: 'Peter Dimitroff holds more than 25 years of international development and
   project management experience, focusing on anti-corruption, budget transparency,
   legislative strengthening, and women’s empowerment. '
-job-title: Regional Vice President, Africa
+job-title: Vice President, Regional Projects
 image: https://assetify-dai.com/experts/Dimitroff%2C%20Peter%20inner.jpg
 solutions:
 - Governance
