@@ -15,6 +15,9 @@ solutions:
 regions: Asia and the Pacific
 country: Pakistan
 promos:
+- title: Fleming Fund Program Receives Award for Improving Responsible Drug Use in
+    Pakistan
+  link: https://www.dai.com/news/fleming-fund-program-receives-award-for-improving-responsible-drug-use-in-pakistan
 - title: Fleming Fund Pakistan 2021 Achievements - Infographic
   link: "/uploads/Fleming%20Fund%20Pakistan%202021%20Achievements%20-%20Infographic.png"
 - title: President of Pakistan Calls for Massive Effort to Tackle Antimicrobial Resistance
