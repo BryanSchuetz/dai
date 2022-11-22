@@ -6,7 +6,7 @@ summary: 'Michelle Morgan oversees DAI’s Afghanistan Management Unit, deliveri
   in Afghanistan, managing risks in the new operating environment, and supporting
   [Special Immigrant Visa](https://www.dai.com/special-immigrant-visas) processing
   and eventual relocation of DAI staff and their families. '
-job-title: Senior Director, Afghanistan Management Unit
+job-title: Senior Portfolio Director, Central Asia, Afghanistan, and Pakistan
 image: "/uploads/michelle.jpg"
 solutions:
 - Economic Growth
