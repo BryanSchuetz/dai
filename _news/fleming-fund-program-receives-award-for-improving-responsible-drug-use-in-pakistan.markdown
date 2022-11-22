@@ -1,7 +1,6 @@
 ---
 title: Fleming Fund Program Receives Award for Improving Responsible Drug Use in Pakistan
 date: 2022-11-22 09:49:00 Z
-published: false
 tags:
 - health
 solutions:
@@ -13,12 +12,15 @@ summary: 'The Fleming Fund project in Pakistan has been selected as the winner o
   a global antimicrobial (AMR) stewardship prize by the AMR Industry Alliance, one
   of the world’s largest coalitions of private-sector diagnostic and pharmaceutical
   companies seeking to curb AMR. '
+social-image: "/uploads/smFF.png"
 country: Pakistan
 ---
 
 The [Fleming Fund project in Pakistan](https://www.dai.com/our-work/projects/pakistan-fleming-fund) has been selected as the winner of a global antimicrobial (AMR) stewardship prize by the AMR Industry Alliance, one of the world’s largest coalitions of private-sector diagnostic and pharmaceutical companies seeking to curb AMR. 
 
 The prize, awarded annually by the Swiss-based alliance, recognizes innovative and scalable approaches to AMR stewardship (actions that promote responsible drug use) in low- and middle-income countries. The two winners this year have been awarded 10,000 Swiss francs each. 
+
+![FF.png](/uploads/FF.png)`Photo: Fleming Fund Pakistan.`
 
 In winning the award, DAI, the Fleming Fund’s implementing partner in Pakistan, was recognized for its clinical engagement program in six hospitals. Clinical engagement in AMR stewardship improves responsible drug use by encouraging doctors to order laboratory tests before prescribing antibacterial drugs for patients. The project also runs infection prevention and control initiatives in hospitals to improve basic hygiene and sanitation measures that reduce infections. 
 
