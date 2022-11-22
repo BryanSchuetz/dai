@@ -27,7 +27,6 @@ DNA addresses the root causes of environmental degradation and reduces major dri
  
 ## Sample Activities
 
-* Build the capacity of local destination management organizations to analyze and orient nature tourism experiences to core clients.\
-* Develop a brand kit to unify and strengthen DNA destination campaigns across all communication channels. A mix of human interest, wildlife science, and adventure tourism short-form content will be continuously produced with partners at DNA destinations.
-* Promote low-emissions DNA activities optimized for community-based small businesses that may see nature tourism as an opportunity to diversify their livelihoods.
-
+* Work with local destination management organizations to improve competitiveness of nature tourism experiences, generate market demand and local employment, and sustainably manage high conservation value natural assets. 
+* Improve collaborative governance between destination management organizations and environmental authorities to balance tourist traffic with sustainable carrying capacity of ecologically sensitive tourism destinations.
+* Increase public and private investment in nature tourism to generate revenue dependent upon low emissions land use and protecting biodiversity for its suite of ecosystem services.
