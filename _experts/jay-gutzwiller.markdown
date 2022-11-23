@@ -1,6 +1,7 @@
 ---
 title: Jay Gutzwiller
 date: 2020-01-22 13:56:00 Z
+published: false
 lastname: Gutzwiller
 summary: As a Project Team Director, Jay Gutzwiller manages a portfolio of DAI’s contracts
   with the U.S. Agency for International Development in Latin America.
