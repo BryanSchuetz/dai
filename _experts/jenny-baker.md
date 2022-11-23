@@ -2,10 +2,9 @@
 title: Jenny Baker
 date: 2016-01-21 22:18:00 Z
 lastname: Baker
-summary: 'As Senior Vice President within DAI’s cross-donor Development Partners Group,
-  Jenny Baker works to ensure optimized operations across customer-focused, technical,
-  and geographic units to achieve DAI’s global strategic growth objectives. '
-job-title: Senior Vice President, Business Optimization
+summary: As Chief Ethics and Integrity Officer, Jenny Baker oversees the implementation
+  and expansion of DAI’s industry-leading ethics and safeguarding program.
+job-title: 'Chief Ethics and Integrity Officer '
 image: https://assetify-dai.com/experts/Baker_Inner.jpg
 solutions:
 - 
@@ -17,10 +16,8 @@ regions:
 layout: expert
 ---
 
-As Senior Vice President within DAI’s cross-donor Development Partners Group, Jenny Baker works to ensure optimized operations across customer-focused, technical, and geographic units to achieve DAI’s global strategic growth objectives. 
-
-Prior to her current position, Jenny served as the head of DAI’s Global Health unit where she oversaw an expanding health business that delivered integrated solutions to strengthen health systems for a diverse set of clients.
-
-Jenny brings 30 years of international development experience, including 12 years on long-term assignments overseas. Prior to joining DAI in 2008, she served as Chemonics’ Senior Vice President for Europe and Eurasia. Her technical specializations include governance, health, economic growth, policy reform, and human and institutional capacity development.
+As Chief Ethics and Integrity Officer, Jenny Baker oversees the implementation and expansion of DAI’s industry-leading ethics and safeguarding program. In doing so, she advises DAI’s project and management teams worldwide to uphold our firm’s—and our clients’—ethics and compliance standards. She ensures that all DAI employees, partners, and stakeholders have voice and are empowered to raise ethics questions and concerns without fear of retaliation.
+ 
+Jenny’s 30-year career has included multiple long-term assignments on donor-funded international development projects overseas. She has also held a range of corporate roles in DAI’s U.S. and U.K. offices—most recently as Senior Vice President charged with optimizing DAI’s operations across our donor-facing businesses.
 
 * B.S., international relations, Georgetown University
