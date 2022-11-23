@@ -1,7 +1,6 @@
 ---
 title: Sofia Martinez
 date: 2022-01-05 15:27:00 Z
-published: false
 tags:
 - energy
 - renewable energy
