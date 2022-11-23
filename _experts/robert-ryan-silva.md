@@ -2,9 +2,9 @@
 title: Robert Ryan-Silva
 date: 2016-01-21 22:18:00 Z
 lastname: Ryan-Silva
-summary: Rob Ryan-Silva is an international development professional with nearly 25
-  years of experience using systems approaches to achieve development results. Rob
-  joined DAI in 2002.
+summary: 'Rob Ryan-Silva is an international development professional with almost
+  30 years of experience using systems approaches to achieve development results.
+  Rob joined DAI in 2002. '
 job-title: Global Practice Specialist, Governance, and Director, DAI Maker Lab
 image: https://assetify-dai.com/experts/RyanSilvaInner.jpg
 solutions:
@@ -24,10 +24,10 @@ articles:
 layout: expert
 ---
 
-Rob Ryan-Silva is an international development professional with nearly 25 years of experience using systems approaches to achieve development results. Rob joined DAI in 2002.
+Robert Ryan-Silva is an international development professional with almost 30 years of experience using systems approaches to achieve development results. Rob joined DAI in 2002. 
 
-As Director of the [DAI Maker Lab](/our-work/solutions/dai-maker-lab), Rob [builds hardware](https://www.youtube.com/watch?v=DyS8gPtVwC0) and capacities around building hardware in support of DAI’s projects worldwide. Previously, as Project Director for the five-year, $185 million RESPOND project, Rob worked with government ministries, academia, multilateral organizations, nongovernmental organizations, and donors in Africa and Southeast Asia to create new opportunities to build the capacity to prevent and respond to outbreaks of emerging infectious disease. He has led DAI’s Governance practice, worked on redevelopment in Iraq and Afghanistan, and managed efforts to contain avian influenza. He attributes his success in these disparate areas to an approach that emphasizes understanding the perspectives and incentives of partners and using that understanding to create space for collaborative work toward common objectives.
+Rob’s specialty is engaging in deep contextual analysis to craft development innovations that work. By closely examining and modeling complete systems (spoken and unspoken needs of stakeholders, systems and the often implicit subsystems and ecosystems they rely on, the needs of donors, and more), Rob fashions sometimes unexpected interventions that are compatible with important parameters that others often miss. This deep systems approach links a diverse range of accomplishments, whether as Chief of Party of the [RESPOND](https://www.dai.com/our-work/projects/worldwide-respond) project, building defenses against emerging infectious diseases, or building electronic hardware and capacities to build hardware in support of DAI projects around the world.  
 
-He has experience working with projects funded by the U.S. Agency for International Development in Afghanistan, Egypt, El Salvador, Indonesia, Iraq, Jordan, Morocco, and Pakistan. Prior to joining DAI, Rob managed operations for the Egypt field office of the Centre for Development and Population Activities (CEDPA), and worked for other international development organizations.
+He has experience working with projects funded by the U.S. Agency for International Development in Afghanistan, Bangladesh, Cambodia, Egypt, El Salvador, Indonesia, Iraq, Jordan, Nepal, Thailand, and Vietnam. Prior to joining DAI, Rob managed operations for the Egypt field office of the Centre for Development and Population Activities and worked for other international development implementers. 
 
 * B.A., political science, University of Massachusetts at Amherst
