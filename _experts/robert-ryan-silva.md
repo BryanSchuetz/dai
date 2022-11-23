@@ -5,7 +5,7 @@ lastname: Ryan-Silva
 summary: 'Rob Ryan-Silva is an international development professional with almost
   30 years of experience using systems approaches to achieve development results.
   Rob joined DAI in 2002. '
-job-title: Global Practice Specialist, Governance
+job-title: Senior Portfolio Director, East Asia Region
 image: https://assetify-dai.com/experts/RyanSilvaInner.jpg
 solutions:
 - Global Health
