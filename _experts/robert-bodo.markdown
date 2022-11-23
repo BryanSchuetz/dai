@@ -1,6 +1,7 @@
 ---
 title: Robert Bodo
 date: 2022-02-07 14:45:00 Z
+published: false
 lastname: Bodo
 summary: 'Robert Bodo has more than 25 years of experience managing donor-funded projects
   in Central and Eastern Europe, Caucasus, and Central Asia. His expertise includes
