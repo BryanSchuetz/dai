@@ -1,8 +1,8 @@
 ---
 title: Sarah Conlon
 date: 2020-07-30 20:51:00 Z
-job-title: Director of EC Framework Contracts
-summary: 'Sarah Conlon is the Director of DAI’s European Commission Framework Contracts
+job-title: Senior Director of EC Frameworks
+summary: 'Sarah Conlon is the Senior Director of DAI’s European Commission Frameworks
   Unit. She manages a team of consultants who bid for and manage short-term technical
   assistance contracts across six thematic lots. Sarah has worked in the international
   donor development field since 2008, and has managed projects in Africa, Asia, and
