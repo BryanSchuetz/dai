@@ -1,6 +1,7 @@
 ---
 title: Ray Short
 date: 2022-02-11 13:47:00 Z
+published: false
 lastname: Short
 summary: Ray Short is an international development professional with expertise in
   the application of innovative information and communications technologies supporting
