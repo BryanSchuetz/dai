@@ -21,7 +21,7 @@ The Southern Africa Mobilizing Investment Activity promotes inclusive economic g
  
 The Activity focuses on both increasing investment and expanding the private sector. 
 
-
+![trade.jpg](/uploads/trade.jpg)
 
 ## Sample Activities
 
