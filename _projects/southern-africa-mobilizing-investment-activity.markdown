@@ -1,7 +1,6 @@
 ---
 title: Southern Africa—Mobilizing Investment Activity
 date: 2022-11-28 14:02:00 Z
-published: false
 summary: The USAID Southern Africa Mobilizing Investment Activity is a five-year initiative
   to promote inclusive economic growth and self-reliance in the region.
 start: 2022
