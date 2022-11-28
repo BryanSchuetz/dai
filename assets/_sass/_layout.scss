@@ -1988,6 +1988,11 @@ ol li::marker{
     margin-bottom: 10px;
   }
 }
+.deei-carousel{
+  height: 50%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 .brief-aside{
   @include clearfix;
 }
@@ -2164,4 +2169,19 @@ ol li::marker{
     font-weight: bold;
    }
   }
+}
+.deei-mosaic{
+  width: 99vw;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  margin-left: -50vw;
+  left: 50%;
+  position: relative;
+  right: 50%;
+  margin-right: -50vw;
+  height: 400px;
+  background-image: url('/uploads/deei-mosaic.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
