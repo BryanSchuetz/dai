@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFP 2022-14 Mod 1[61]](/uploads/RFP%202022-14%20Mod%201%5B61%5D.pdf "12/6")
 * [Request for Quotation_RFQ-IT-LRMA-0002_-7fb9d9](/uploads/Request%20for%20Quotation_RFQ-IT-LRMA-0002_-7fb9d9.pdf "12/6")
 * [RFP 2022-14 Equitable AI Challenge Community of Practice](/uploads/RFP%202022-14%20Equitable%20AI%20Challenge%20Community%20of%20Practice.pdf "12/6")
 * [Digital Frontiers RFP 2022-13 Conference and Workshop Implementation](/uploads/Digital%20Frontiers%20RFP%202022-13%20Conference%20and%20Workshop%20Implementation.pdf "12/20")
