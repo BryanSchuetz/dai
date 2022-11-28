@@ -4,7 +4,7 @@ date: 2022-07-07 09:04:00 Z
 lastname: Patel
 summary: 'Ishani Patel is a global health and development professional with experience
   in program design, management, and implementation of health programs. '
-job-title: Associate Global Practice Specialist, Global Health
+job-title: Associate Specialist, Projects
 image: "/uploads/Ishani%20Patel%201.jpg"
 solutions:
 - Global Health
