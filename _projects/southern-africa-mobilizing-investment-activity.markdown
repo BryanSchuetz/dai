@@ -2,7 +2,10 @@
 title: Southern Africa—Mobilizing Investment Activity
 date: 2022-11-28 14:02:00 Z
 published: false
+summary: The USAID Southern Africa Mobilizing Investment Activity is a five-year initiative
+  to promote inclusive economic growth and self-reliance in the region.
 start: 2022
+end: 2027
 client: U.S. Agency for International Development
 solutions:
 - Economic Growth
@@ -12,12 +15,9 @@ regions: Sub-Saharan Africa
 country: Regional
 ---
 
-Customer: USAID
-Contract Date: November 2022
-Period of Performance: Five years
-Estimated Revenue: $34 million
- 
-We are delighted to announce that DAI has been awarded the USAID Southern Africa Mobilizing Investment Activity, a five-year initiative to promote inclusive economic growth and self-reliance in the region, in line with USAID/Southern Africa’s Regional Development Cooperation Strategy (RDCS).
+Increasing investment supports the expansion of the private sector and catalyze economic growth in the region, which remains challenged by high levels of poverty, unemployment (especially youth unemployment), and inequality. DAI will partner with businesses and capital providers to better enable investors and funds to mobilize private capital into sectors with the potential to address these challenges.
+
+The Southern Africa Mobilizing Investment Activity promotes inclusive economic growth and self-reliance in the region.
  
 The RDCS hypothesizes that increasing investment will support the expansion of the private sector and catalyze economic growth in the region, which remains challenged by high levels of poverty, unemployment (especially youth unemployment), and inequality. DAI will partner with businesses and capital providers to better enable investors and funds to mobilize private capital into sectors with the potential to address these challenges.
  
