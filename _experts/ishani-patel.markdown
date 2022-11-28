@@ -12,7 +12,7 @@ regions:
 - Worldwide
 ---
 
-Ishani Patel is a global health and development professional with experience in program design, management, and implementation of health programs. She began her career in domestic gender-based violence advocacy and policy. Since joining DAI, she has worked as a project manager on the U.K. Department of Health and Social Care-funded Fleming Fund Country Grants in Bangladesh, Indonesia, Nigeria, and Pakistan. Ishani’s interests focus on public-private engagement to improve health outcomes, reproductive health and rights, and prioritizing gender and social inclusion in health programming. 
+Ishani Patel is a global health and development professional with experience in program design, management, and implementation of health programs. She began her career in domestic gender-based violence advocacy and policy. Since joining DAI, she has worked as a project manager on the U.K. Department of Health and Social Care-funded Fleming Fund Country Grants in Bangladesh, Indonesia, Nigeria, and Pakistan. She currently serves as a project manager on the USAID [INVEST](https://www.dai.com/our-work/projects/worldwide-the-invest-project) project. Ishani’s interests focus on building public-private partnerships to improve health outcomes, reproductive health and rights, and prioritizing gender and social inclusion in health and development programming.
 
 * Master's, maternal and child health, University of North Carolina, Chapel Hill
 * B.A., classical civilizations, University of California, Los Angeles
