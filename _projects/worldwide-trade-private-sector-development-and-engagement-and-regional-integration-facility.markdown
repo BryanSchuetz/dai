@@ -23,11 +23,11 @@ The Trade, Private Sector Development, and Engagement (TPSD/E) Facility I was es
 
 TPSD/E II consolidates and expands upon the gains made in building the capacity and knowledge of EU institutions to deliver results during the previous phase. Our team of experts delivers technical assistance, capacity building and communications, and visibility in: women’s economic empowerment; green economy; digitalisation; sustainable value chains and investment; trade; access to finance and investment facilitation; public-private dialogue and business environment reform; and skills development vocational training. 
 
-Considering the economic and social impacts of the coronavirus pandemic that started in 2020, TPSD/E II engages with the EU at headquarter and EU Delegations globally, supporting a comprehensive response strategy to the crisis with an emphasis on economic and social resilience. 
+Considering the economic and social impacts of the coronavirus pandemic that started in 2020, TPSD/E II engages with the EU at headquarters and EU Delegations globally, supporting a comprehensive response strategy to the crisis with an emphasis on economic and social resilience. 
 
-<iframe src="https://player.vimeo.com/video/319475541" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>`Video highlighting EU efforts to increase private investment in energy projects in the DRC.`
+<iframe src="https://player.vimeo.com/video/776301712?h=32e8dd155a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-### Sample Activities
+## Sample Activities
 
 * Provide technical advice and support to EU staff to analyse, design, and implement EU interventions. 
 * Support EU delegations and headquarters to facilitate public-private dialogue and policy dialogues.
@@ -37,7 +37,7 @@ Considering the economic and social impacts of the coronavirus pandemic that sta
 * Design and conduct training, seminars, workshops, and webinars in Brussels and on the ground.
 * Promote, disseminate, and showcase TPSD/E II interventions through the preparation of communication materials.
 
-### Select Results, Phase I
+## Select Results, Phase I
 
 * Developed the [Business Environment Reform Guidelines](https://europa.eu/capacity4dev/t-and-m-series/documents/guidelines-ndeg9-business-environment-reform).
 * Organised more than 50 in-country [short-term assignments](http://ec.europa.eu/europeaid/files/tpsd-infographic/) for EU delegations on the investment climate and the identification of potential investment opportunities.
@@ -46,10 +46,12 @@ Considering the economic and social impacts of the coronavirus pandemic that sta
 * Provided regular training on the private sector and trade and the EIP through classroom, remote, or recorded training sessions.
 * Developed the EIP in Practice e-learning modules.
 
-### Select Results, Phase II
+## Select Results, Phase II
 
 * Contributed to the launch of the [Team Europe Investing in Young Businesses in Africa](https://ec.europa.eu/international-partnerships/news/team-europe-mobilises-support-african-economies_en).
 * Conducted a field mission in Mali providing guidance on how to improve public-private dialogue in a politically unstable context.
 * Designed and conducted an online survey to better understand EU delegations’ needs for capacity building and technical assistance.
 * Delivered a masterclass on ‘Raw Materials’ for EU staff. 
 * Facilitated annual seminar for EU staff on sustainable value chains, raw materials, and social economy. 
+
+<iframe src="https://player.vimeo.com/video/319475541" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>`Video highlighting EU efforts to increase private investment in energy projects in the DRC.`
