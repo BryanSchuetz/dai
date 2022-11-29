@@ -16,8 +16,6 @@ DAI has published a new technical report that reviews local content and economic
 
 U.S. federal and state agencies are increasingly embedding local content requirements and incentives within their criteria for developing large renewable projects. The report unpacks the key policy instruments for promoting local content in the U.S. offshore wind sector. These include the Inflation Reduction Act, the Jones Act, federal wind lease sales, state-level power purchase auctions, and federal and state grants and tax incentives to stimulate the U.S. domestic workforce and supply chain development.
 
-[![webinar advert](/uploads/webinar-advert.png)](https://teams.microsoft.com/registration/PREHcQviIEykzlU8q79obQ,E0TmfYSWy0KFnlMS1aPSKw,86IRvITB0USv9q4wkOJdqA,ThsNhFfXHECRnBHuPCE-6g,reB7QA6QC0eaNdb5-Ecukg,f2DWXVH2gk2wVE6sSV5aZw?mode=read&tenantId=7107113d-e20b-4c20-a4ce-553cabbf686d)
-
 Behind these local content requirements lies the new enthusiasm of governments for policies that encourage domestic industrial transformation and local “green jobs” as outcomes of capital investments in renewable energy projects.
 
 [Zachary Kaplan](https://www.dai.com/who-we-are/our-team/zachary-kaplan), Vice President of [DAI’s Sustainable Business Group,](https://www.dai.com/our-work/solutions/sustainable-business) said,
