@@ -129,35 +129,124 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
   </article>
 </div>
 
-<h2>Where We Are Today</h2>
+<h2 style="margin-top: 2rem;">Where We Are Today</h2>
 <p>While we have work to do to advance diversity and inclusion, we aspire to build a workplace that reflects the diverse world we live in and hope to create.</p>
+
 {% include deei-carousel.html %}
 
 
 <h2>Employee Resource Groups</h2>
 <p>DAI's employee resource groups are an important part of the business. We work hand in hand to create community, belonging and leadership opportunities for employees to learn and grow.</p>
 
-<div class="bulma columns">
-  <div class="column">
-    <div class="card">
-      <div class="card-image">
-        <figure class="image is-4by3">
-          <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-        </figure>
-      </div>
-      <div class="card-content">
-        <div class="content">
-          <h2></h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-            <a href="#">#css</a> <a href="#">#responsive</a>
-          </p>
-          <br>
-          <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+<div class="bulma">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        {% for group in page.groups limit:1 %}
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image">
+              <img src="{{ group.image }}" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <h3>{{ group.name }}</h3>
+              <p>{{ group.description }}</p>
+            </div>
+          </div>
         </div>
+        {% endfor %}
+      </div>
+      <div class="column">
+        {% for group in page.groups offset:1 limit:1 %}
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image">
+              <img src="{{ group.image }}" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <h3>{{ group.name }}</h3>
+              <p>{{ group.description }}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column">
+        {% for group in page.groups limit:1 offset:2 %}
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image">
+              <img src="{{ group.image }}" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <h3>{{ group.name }}</h3>
+              <p>{{ group.description }}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="column">
+        {% for group in page.groups offset:3 limit:1 %}
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image">
+              <img src="{{ group.image }}" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <h3>{{ group.name }}</h3>
+              <p>{{ group.description }}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column">
+        {% for group in page.groups limit:1 offset:4 %}
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image">
+              <img src="{{ group.image }}" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <h3>{{ group.name }}</h3>
+              <p>{{ group.description }}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="column">
+        {% for group in page.groups offset:5 limit:1 %}
+        <div class="card is-fullheight">
+          <div class="card-image">
+            <figure class="image">
+              <img src="{{ group.image }}" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <h3>{{ group.name }}</h3>
+              <p>{{ group.description }}</p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
-  <div class="column"></div>
 </div>

@@ -1989,7 +1989,14 @@ ol li::marker{
   }
 }
 .deei-carousel{
-  height: 50%;
+  div.image{
+    img{
+      min-height: 485px;
+    }
+    height: 485px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
