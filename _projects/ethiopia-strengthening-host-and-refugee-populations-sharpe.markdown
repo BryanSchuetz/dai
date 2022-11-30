@@ -14,7 +14,7 @@ regions: Sub-Saharan Africa
 country: Ethiopia
 promos:
 - title: Developing the Solar Energy Market with Refugee and Host Communities
-  link: 
+  link: "/uploads/Developing%20the%20Solar%20Energy%20Market%20with%20Refugee%20and%20Host%20Communities.pdf"
 - title: Economic Empowerment of Refugee Women through Small Business Development
   link: 
 ---
