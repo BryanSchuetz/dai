@@ -12,6 +12,11 @@ solutions:
 - Economic Growth
 regions: Sub-Saharan Africa
 country: Ethiopia
+promos:
+- title: Developing the Solar Energy Market with Refugee and Host Communities
+  link: 
+- title: Economic Empowerment of Refugee Women through Small Business Development
+  link: 
 ---
 
 Through the innovative use of an adapted market systems development approach “Markets for Resilience”, the Strengthening Host and Refugees Populations in Ethiopia program (SHARPE) works to strengthen the economies of target populations in three regions in Ethiopia; Dollo Ado, Gambella, and Jijiga. 
