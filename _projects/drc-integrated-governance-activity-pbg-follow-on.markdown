@@ -1,8 +1,8 @@
 ---
 title: Democratic Republic of the Congo—Integrated Governance Activity (IGA)
 date: 2017-02-23 21:19:00 Z
-summary: The Integrated Governance Activity is helping local governments to improve
-  public services and establish trust with their citizens, as well as training civil
+summary: The Integrated Governance Activity helped local DRC governments to improve
+  public services and establish trust with their citizens, as well as trained civil
   society groups to better advocate their needs to elected officials.
 start: 2017
 end: 2022
