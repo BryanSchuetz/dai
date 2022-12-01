@@ -17,7 +17,7 @@ social-image: "/uploads/smFF.png"
 country: Pakistan
 ---
 
-The [Fleming Fund project in Pakistan](https://www.dai.com/our-work/projects/pakistan-fleming-fund) has been selected as the winner of a global antimicrobial (AMR) stewardship prize by the AMR Industry Alliance, one of the world’s largest coalitions of private-sector diagnostic and pharmaceutical companies seeking to curb AMR. 
+The [Fleming Fund project in Pakistan](https://www.dai.com/our-work/projects/pakistan-fleming-fund) has been selected as the winner of a global antimicrobial resistance (AMR) stewardship prize by the AMR Industry Alliance, one of the world’s largest coalitions of private-sector diagnostic and pharmaceutical companies seeking to curb AMR. 
 
 ![FF.png](/uploads/FF.png)`Photo: Fleming Fund Pakistan.`
 
