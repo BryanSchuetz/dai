@@ -14,6 +14,7 @@ country: Somalia
 promos:
 - title: "**Priority Sector Investment Study:** Agribusiness Opportunities in Somalia's
     Food Production Sector  "
+  link: "/uploads/Priority-Sector-Investment-Study-Somalia.pdf"
 ---
 
 The European Union (EU) Support to Policy Dialogue on Investment Climate in Somalia project is enhancing the investment climate and business environment by improving access to finance, markets, and essential services for medium, small, and micro enterprises (MSMEs).
