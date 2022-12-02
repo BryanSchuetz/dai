@@ -23,6 +23,5 @@ Listed below are current solicitations. To view additional information regarding
 * [RFP No. 2022-07-ING Amendment](https://dai-assets.s3.amazonaws.com/rfps/RFP%20No.%202022-07-ING%20Amendment%201.pdf "12/1")
 * [Request for Proposal (RFP-RITA-22-009): Providing Event (Project) Management Services for Myanmar SMEs 
 at International Agribusiness/Food Processing Tradeshows](/uploads/Public%20Advertisment-%20RFP%20(Final)%2015%20Nov%202022%5B80%5D.pdf "12/8")
-* [RFP-CEC-LIM-22-0037 Eval Medio Termino-Prevenir](/uploads/RFP-CEC-LIM-22-0037%20Eval%20Medio%20Termino-Prevenir.pdf "11/29")
 * [Cybersecurity Training revised](https://dai-assets.s3.amazonaws.com/rfps/REVISED%20RFP-%20CIDR%20E%26E%20Cybersecurity%20Training_FINAL.pdf "12/5")
 * [RFA 2022-21 RFS Cross Sector Guidance](/uploads/RFA%202022-21%20RFS%20Cross%20Sector%20Guidance.pdf "12/1")
