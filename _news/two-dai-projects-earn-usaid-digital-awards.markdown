@@ -1,6 +1,6 @@
 ---
 title: Two DAI Projects Earn USAID Digital Awards
-date: 2022-12-02 14:13:00 Z
+date: 2022-12-05 08:00:00 Z
 published: false
 solutions:
 - Digital Acceleration
@@ -22,6 +22,6 @@ The Accelerator took three main approaches: 1) working with partners such as Mic
 
 “Both the Economic Security Program and Digital Frontiers have made critical contributions to USAID’s Digital Strategy, and DAI is proud to be a partner in bringing that strategy to life in some of the most dynamic digital ecosystems in the world,” said [Anand Varghese](https://www.dai.com/who-we-are/our-team/anand-varghese), Associate Director, Center for Digital Acceleration. “The Economic Security Program’s efforts have strengthened Georgia’s linkages to the global digital economy, and Digital Frontiers has made massive strides in increasing user trust in Southeast Asia. Both of these Digi winners will have long-term positive impacts in shaping a more livable world through the power of digital technology.”
 
-USAID’s Innovation, Technology, and Research Hub received nearly 200 applications for this year’s awards. Each project was judged on the ability to deploy digital technology or support the digital ecosystem, as outlined in USAID’s Digital Strategy.
+USAID’s Innovation, Technology, and Research Hub received nearly 200 applications for this year’s awards. Each project was judged on the ability to deploy digital technology or support the digital ecosystem, as outlined in USAID’s [Digital Strategy](https://www.usaid.gov/usaid-digital-strategy).
 
 “The Digis recognize and celebrate USAID projects and activities that embrace the Agency's strategic goals of improving development and humanitarian assistance outcomes through the use of digital technology and strengthening open, secure, and inclusive digital ecosystems,” said USAID in announcing the awards. “These ecosystems can help drive economic empowerment and financial inclusion, advance national security, support accountability and transparency in governance, and make development and humanitarian assistance more efficient and effective.”
