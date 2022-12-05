@@ -10,6 +10,7 @@ layout: node
 
 Listed below are current solicitations. To view additional information regarding an individual request for quotation (RFQ), request for application (RFA), or request for proposal (RFP), click a link below.
 
+* [RFQ - Simplified Acquisition_CIDR Moldova Translation Services](https://dai-assets.s3.amazonaws.com/rfps/RFQ%20-%20Simplified%20Acquisition_CIDR%20Moldova%20Translation%20Services.pdf "12/20")
 * [Request for Quotation_RFQ-IT-LRMA-0002](/uploads/Request%20for%20Quotation_RFQ-IT-LRMA-0002-030a23.pdf "12/6")
 * [RFP No. RFP-EGA-22-0220 Implementation of Performance Management System](https://dai-assets.s3.amazonaws.com/rfps/EGA-RFP-22-0220.GPM.00.pdf "12/11")
 * [RFP 2022-14 Mod 1](/uploads/RFP%202022-14%20Mod%201%5B61%5D.pdf "12/6")
