@@ -16,6 +16,8 @@ country: Ukraine
 promos:
 - title: Landmark Forum Shows Legislative Path Forward for Decentralization in Ukraine
   link: https://www.dai.com/news/landmark-forum-shows-legislative-path-forward-for-decentralization-in-ukraine
+- title: HOVERLA Emergency Response Support
+  link: "/uploads/HOVERLA%20Emergency%20Response%20Support.pdf"
 ---
 
 *[Since the Russian invasion in February 2022, DAI’s programs in Ukraine have had to adapt their modes of operation and in some cases their underlying activities and objectives. This project description remains generally accurate but should be read with that caveat in mind.]*
