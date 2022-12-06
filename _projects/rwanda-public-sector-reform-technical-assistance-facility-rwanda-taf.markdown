@@ -15,6 +15,10 @@ solutions:
 - Institutional and Policy Reform
 regions: Sub-Saharan Africa
 country: Rwanda
+promos:
+- title: 'Case Study: Strengthening Accountability to Gender Equality at the Decentralised
+    Level'
+  link: "/uploads/Rwanda_TAF_GMO_02.pdf"
 ---
 
 The Rwanda Technical Assistance Facility (TAF) is a component of the Strengthening Public Financial Management and Revenue Collection (SPARC) program, which aims to support the Government of Rwanda on a range of priorities across the public sector policy-making agenda. 
