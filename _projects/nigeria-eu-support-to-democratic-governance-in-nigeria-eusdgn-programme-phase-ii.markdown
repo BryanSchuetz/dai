@@ -37,7 +37,7 @@ DAI leads activities under Component 1 of the programme—Support to the Indepen
 
 * Trained 79 Justices of the Court of Appeal and Judges (Members) of the Election Petition Tribunal.
 * Leading [innovative voter education](https://eusdgn.org/youthvotecountng-mega-concert-in-lagos/) on the electoral process, including the incorporation of pop-culture and music artists during the [Youth Votes Count concert](https://eusdgn.org/wp-content/uploads/2022/09/Case-Study-1.pdf), which led to 25,000 youths registering for their permanent voters' card. 
-* Leading the signing of the Peace Accord by all presidential candidates for the 2023 General elections committing to a civil electoral process, and submitting themselves to accountability.
+* Leading the signing of the [Peace Accord by all presidential candidates](https://placng.org/Legist/political-parties-presidential-candidates-sign-peace-accord-as-campaigns-start/) for the 2023 General elections committing to a civil electoral process, and submitting themselves to accountability.
 * Mobilized over 1,800 Persons with Disabilities across the country to vote and be a part of the electoral process.
 * Introduced community outreach and sensitization programs for marginalized groups.
 * Trained 80 female journalists on impactful, public-interest and investigative reporting of the electoral process.
