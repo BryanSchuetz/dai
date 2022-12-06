@@ -15,7 +15,7 @@ regions:
 order: 17
 ---
 
-Neil Browning helps clients meet their supply chain goals as they engage with complex dynamics in new and challenging markets. He is a manager at DAI's Sustainable Business Group, leading industrial studies for major multinational firms such as ExxonMobil, TotalEnergies, and Lockheed Martin.
+Neil Browning helps clients meet their supply chain goals as they engage with complex dynamics in new and challenging markets. He is a manager at DAI's Sustainable Business Group, leading industrial studies for major multinational firms.
 
 Neil has global experience analyzing the short and long-term social, political and economic impacts of major energy projects. He also has experience in aerospace, defense, ecotourism, and logistics. Regionally, Neil has led projects in the Caribbean, East Africa, Oceania, Northern America, and the Middle East.
 
