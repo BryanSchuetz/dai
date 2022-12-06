@@ -19,7 +19,7 @@ This European Union (EU)-funded project in Sierra Leone was launched in the afte
 
 Our team is consolidating past reforms in electoral support, parliamentary strengthening, and civil service reform within the new electoral cycle. The team is consolidating electoral and democratic reforms allowing for improved political dialogue; enhancing the legislative process, institutional relevance, and effectiveness of Parliament; and improving the institutional capacity of the civil service to enhance public service delivery.
 
-![sierra leone.jpg](/uploads/sierra%20leone.jpg)
+<iframe src="https://player.vimeo.com/video/778506729?h=393f5f4136" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
 
