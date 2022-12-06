@@ -2,9 +2,9 @@
 title: Skye Perske
 date: 2017-04-14 12:33:00 Z
 lastname: Perske
-summary: 'In her role as Business Development Director for the Asia Region, Skye Perske
-  is focused on ensuring strong links between business development and project management. '
-job-title: 'Business Development Director, Asia '
+summary: 'In her role as New Business Director, Skye Perske is focused on ensuring
+  strong links between business development and project management. '
+job-title: New Business Director
 image: "/uploads/Perske,%20Skyelar%E2%80%9414--jpg--use%20this%20one.jpg"
 regions:
 - Sub-Saharan Africa
