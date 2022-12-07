@@ -22,7 +22,7 @@ hero: true
 layout: node
 ---
 
-Ethics, integrity, and compliance are fundamental DAI values at the core of how DAI interacts with clients, partners, employees, and vendors across the globe. These values are embodied in DAI’s Global Ethics, Integrity, and Safeguarding Program, which is affirmed by DAI’s Board, and applied across the entire company and all entities in which DAI has an ownership position.
+Ethics, integrity, and compliance are fundamental DAI values at the core of how DAI interacts with clients, partners, employees, and vendors across the globe. These values are embodied in DAI’s Ethics, Integrity, and Safeguarding Program, which is affirmed by DAI’s Board and applied across the entire company and all entities in which DAI has an ownership position.
 
 DAI’s Chief Ethics and Integrity Officer oversees the Ethics, Compliance, and Safeguarding program, promotes a culture of compliance through training and regular communication on important topics, and works with DAI management to establish, monitor, and enforce standards, policies, and procedures to identify and prevent illegal, unethical, or improper conduct.
 
