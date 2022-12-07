@@ -26,8 +26,6 @@ Ethics, integrity, and compliance are fundamental DAI values at the core of how 
 
 DAI’s Chief Ethics and Compliance Officer oversees the Ethics and Compliance program, promotes a culture of compliance through training and regular communication on important topics, and works with DAI management to establish, monitor, and enforce standards, policies, and procedures to identify and prevent illegal, unethical, or improper conduct.
 
-<iframe src="https://player.vimeo.com/video/35507889?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 At DAI, we take compliance seriously. Accomplishing development results in challenging circumstances while complying with funding partner and host nation laws and policies requires disciplined performance. DAI professionals recognize that meeting these high standards will model effective and compliant management to their beneficiaries and establish trusting relationships essential to successful development.
 
 If you have a question or concern on ethics or compliance that you would like to communicate to DAI, please contact the Chief Ethics and Compliance Officer directly at +1-301-771-7998 or at [ethics@dai.com](mailto:ethics@dai.com). If you wish to remain anonymous, please visit [www.dai.ethicspoint.com](http://www.dai.ethicspoint.com) and choose “To Make a Report.” Select your country and file your report. A hotline number for your country will also appear on the page. The Ethicspoint hotline service provides translations if necessary. All reports will be reviewed and responded to appropriately.
