@@ -10,11 +10,12 @@ solutions:
 regions: Sub-Saharan Africa
 projects: Nigeria—Technical Assistance to Strengthen Public Financial Management,
   Statistics, Monitoring, and Evaluation Systems
+clients: European Union
+summary: Yobe State, Nigeria, recently received an award of excellence for its recent
+  governance reforms in public finance management supported in part by DAI-led projects.
 social-image: "/uploads/sm%20yobe%20state%20award.jpg"
 country: Nigeria
 ---
-
-Yobe State Receives Award of Excellence for Governance Reforms
 
 Yobe State, Nigeria, recently received an award of excellence for its recent governance reforms in public finance management supported in part by DAI-led projects.
 
