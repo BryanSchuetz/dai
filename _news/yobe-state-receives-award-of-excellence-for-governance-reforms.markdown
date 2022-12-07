@@ -18,15 +18,15 @@ Yobe State Receives Award of Excellence for Governance Reforms
 
 Yobe State, Nigeria, recently received an award of excellence for its recent governance reforms in public finance management supported in part by DAI-led projects.
 
-The award comes from the State Fiscal Transparency Accountability and Sustainability Programme (SFTAS), which is funded by the World Bank and Nigeria’s Federal Ministry of Finance. The four-year program supports Nigerian states to strengthen fiscal performance and sustainability. Yobe ranked first among the 36 states in Nigeria and the Federal Capital Territory and will receive up to $2 million in World Bank funding. 
+The award comes from the [State Fiscal Transparency Accountability and Sustainability Programme (SFTAS)](https://projects.worldbank.org/en/projects-operations/project-detail/P162009), which is funded by the World Bank and Nigeria’s Federal Ministry of Finance. The four-year program supports Nigerian states to strengthen fiscal performance and sustainability. Yobe ranked first among the 36 states in Nigeria and the Federal Capital Territory and will receive up to $2 million in World Bank funding. 
 
-States participate in the program by meeting a set of eligibility criteria called disbursement link indicators (DLIs) that evaluate a state’s fiscal transparency, accountability, and sustainability. The funding awarded depends on the number of DLIs achieved. 
+States participate in the program by meeting a set of eligibility criteria called [disbursement link indicators (DLIs)](https://www.sftas.org.ng/sftas-program-scope-duration-and-components/) that evaluate a state’s fiscal transparency, accountability, and sustainability. The funding awarded depends on the number of DLIs achieved. 
 
 ![yobe state award-fe5977.jpg](/uploads/yobe%20state%20award-fe5977.jpg)
  
-“We are proud of Yobe State and the way that it has continued to drive development and governance reforms despite daunting security challenges,” said DAI Country Director Joe Abah.
+“We are proud of Yobe State and the way that it has continued to drive development and governance reforms despite daunting security challenges,” said DAI Country Director Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah).
  
-DAI has supported Yobe’s reforms through various projects. Since 2008—through the U.K. Foreign, Commonwealth & Development Office (FCDO)-funded State Partnership for Accountability, Responsiveness, and Capability project (SPARC)—DAI has supported the state government in responsive policy formulation and performance-focused public service delivery by helping the state improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning that improves health services, education, and the prospects for economic growth. 
+DAI has supported Yobe’s reforms through various projects. Since 2008—through the U.K. Foreign, Commonwealth & Development Office (FCDO)-funded [State Partnership for Accountability, Responsiveness, and Capability project (SPARC)](https://www.dai.com/our-work/projects/nigeria-state-partnership-for-accountability-responsiveness-and-capability)—DAI has supported the state government in responsive policy formulation and performance-focused public service delivery by helping the state improve revenue collection, reduce budgetary waste, and implement strategies for locally led planning that improves health services, education, and the prospects for economic growth. 
  
 SPARC’s successor—the FCDO’s Partnership to Engage, Reform, and Learn-Accountable, Responsive, and Capable Government project (PERL-ARC)—worked with Yobe to promote governance reforms and improve service delivery. In 2016, PERL-ARC’s assistance to the state government enabled the passage of two key public financial management laws: The Fiscal Responsibility Act and the Public Procurement Law, which improved the state’s fiscal and revenue performance.
  
