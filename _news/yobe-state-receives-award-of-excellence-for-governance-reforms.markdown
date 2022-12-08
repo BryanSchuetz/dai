@@ -23,7 +23,7 @@ The award comes from the [State Fiscal Transparency Accountability and Sustainab
 
 States participate in the program by meeting a set of eligibility criteria called [disbursement link indicators (DLIs)](https://www.sftas.org.ng/sftas-program-scope-duration-and-components/) that evaluate a state’s fiscal transparency, accountability, and sustainability. The funding awarded depends on the number of DLIs achieved. 
 
-![yobe state award-fe5977.jpg](/uploads/yobe%20state%20award-fe5977.jpg)
+![yobe state award-fe5977.jpg](/uploads/yobe%20state%20award-fe5977.jpg)`PERL’s capacity-building training workshop on medium-term revenue strategy implementation. Photo: FCDO PERL-ARC.`
  
 “We are proud of Yobe State and the way that it has continued to drive development and governance reforms despite daunting security challenges,” said DAI Country Director Dr. [Joe Abah](https://www.dai.com/who-we-are/our-team/joe-abah).
  
