@@ -18,16 +18,14 @@ The Conflict Stability and Security Fund (CSSF)is a cross-government fund that t
 Under CIEP, the Tackling Illicit Financial Flows (TIFF) Programme works with a number of state institutions providing expert assistance as they seek to strengthen a country's strategy and response to IFFs and linked corruption.
    
 Intended outcomes include: 
-1. An increase in the capacity of Ecuador’s Fiscalia FDE to analyse, investigate and prosecute domestic anti-corruption dynamics of concern to the institution and the Authority.  
-2. The successful delivery of Colombia’s Fiscalía General de la Nación's (FGN) strategic illicit finances work plan and which envisages an enhanced capacity to analyse, investigate and prosecute IFFs sustaining organised crime and other linked threats.  
+1. An increase in the capacity of Ecuador’s Fiscalía del Estado (FDE) to analyse, investigate and prosecute domestic anti-corruption dynamics of concern to the institution and the Authority.  
+2. The successful delivery of the strategic illicit finances work plan of Colombia’s Fiscalía General de la Nación (FGN), which envisages an enhanced capacity to analyse, investigate and prosecute IFFs sustaining organised crime and other linked threats.  
 3. An increase in the capacity of Peru’s Superintendencia Nacional de Aduanas y de Administración Tributaria (SUNAT) to apply IFF monitoring and analysis to tackling illegal deforestation.  
-4. An increase in the capacity of regional FIUs to share best practices between countries and, ultimately, to collaborate cross-region.  
+4. An increase in the capacity of regional finance intelligence units (FIUs) to share best practices between countries and, ultimately, to collaborate cross-region.  
 
 ### Sample Activities
 
-* Provide strategic support to the Fiscalía del Estado (FDE) in Ecuador to enhance its capacity to tackle domestic anti-corruption dynamics.  
+* Provide strategic support to the FDE in Ecuador to enhance its capacity to tackle domestic anti-corruption dynamics.  
 * Provide strategic support to the Fiscalía General de la Nación (FGN) in Colombia in the implementation of the strategic work plan of that institution’s illicit finances directorate. 
 * Enhance localised capacity within the Peruvian tax authorities (SUNAT) to trace and tackle IFFs as they contribute to deforestation in the Amazon. 
 * Working with two or more regional (Ecuador, Peru, Colombia and Panama) Financial Investigation Units to share best practice between countries and promote enhanced intra-regional collaboration. 
-
- 
