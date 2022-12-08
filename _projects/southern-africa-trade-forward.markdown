@@ -17,6 +17,17 @@ promos:
   link: "(/uploads/TFSA-FLYR%20final.pdf)"
 - title: Trade in the Time of COVID-19—Risk or Opportunity?
   link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
+- title: Roadmap towards EU Compliance for South Africa
+  link: 
+- title: Presentation on removing barriers to export of farmed shellfish from South
+    Africa and Namibia
+  link: 
+- title: 
+  link: 
+- title: 
+  link: 
+- title: 
+  link: 
 ---
 
 [Trade Forward Southern Africa](https://tfsouthernafrica.org/) (TFSA) is a program designed to alleviate poverty across the Southern African Customs Union and Mozambique (SACU+M) by increasing the scale and quality of trade within the union as well as with the UK.
