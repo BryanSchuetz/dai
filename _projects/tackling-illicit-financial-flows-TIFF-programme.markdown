@@ -13,7 +13,7 @@ solutions:
 - Fragile States
 - Stability
 regions: Latin America and the Caribbean
-country: Colombia,  Ecuador,  Peru
+country: Colombia,  Ecuador,  Peru, Panama
 region: Latin America and the Caribbean
 ---
 
