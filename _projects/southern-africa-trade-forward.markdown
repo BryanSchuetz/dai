@@ -19,11 +19,9 @@ promos:
   link: https://dai-global-developments.com/articles/trade-in-the-time-of-covid-19-risk-or-opportunity
 ---
 
-The [Trade Forward Southern Africa programme](https://tfsouthernafrica.org/) supports growth in trade, improves gender equality in the trade arena, and alleviates poverty across Botswana, Eswatini, Lesotho, Mozambique, Namibia, and South Africa, with a focus on increasing access to information and promoting trade; supporting compliance with market standards and better integrating value chains; providing and improving access to training in trade and customs; and promoting equality for women in trade.
+[Trade Forward Southern Africa](https://tfsouthernafrica.org/) (TFSA) is a program designed to alleviate poverty across the Southern African Customs Union and Mozambique (SACU+M) by increasing the scale and quality of trade within the union as well as with the UK.
 
-The programme falls within the Global Trade Programme (GTP) of the UK Prosperity Fund, a cross-government development assistance fund with the primary objective of reducing poverty in developing middle-income countries and creating opportunities for international business, including U.K. companies. 
- 
-Trade Forward Southern Africa works to increase opportunities to trade, overcome nontechnical barriers to trade in goods, and improve export performance in the region while facilitating trade with the United Kingdom as it exits the European Union.
+The program helps businesses meet the standards required for exporting to regional and international markets. It works primarily with and through Business Support Organisations (BSOs), such as export promotion agencies and chambers of commerce, to provide targeted support to various sectors. It has a strong focus on providing technical cooperation to export and near-export businesses, and particularly female-owned entrepreneurs and sectors in which a greater proportion of women are employed.
 <iframe src="https://player.vimeo.com/video/481288886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 ### Sample Activities
 
@@ -31,3 +29,26 @@ Trade Forward Southern Africa works to increase opportunities to trade, overcome
 * Offer support in compliance with market standards and integration in supply chains and value chains.
 * Train relevant stakeholders in trade and customs best practices.
 * Support fuller participation of women in trade.
+
+### Select Results
+
+**Trade Training and Support**
+* 707  businesses and firms provided with value chain training interventions
+* 369  SACU+M businesses benefited from non-training interventions supported by TFSA
+* 23 Business Support Organisations across SACU+M capacitated
+* 90 technical staff trained in the government and private sector
+* 564 women-owned businesses received value chain-related training
+14 individuals completed the HAB training program; of these, 10 were women and 4 were men. In addition, 4 represented private sector firms, and 8 were from government ministries, departments, or agencies, and 2 from the University of Namibia. All participants were either technicians, tasked with the identification of harmful organisms on a daily basis, or otherwise employed within the early warning system infrastructure.
+* 26 Export Trade Knowledge Centres established across SACU+M
+
+**Trade Information** 
+* 19 webinars hosted and co-hosted by TFSA which had a total of 2,338 attendees.
+* 5 in-person trade outreach events engaging 808 participants.
+* Creation of a digital School of Export with over 1,585 registrations, more than 60 percent of which are women-led businesses across SACU+M.
+ 
+**Women in Trade**
+* Over 454 women-led businesses registered and trained on the ETT program.
+* Capacity built among 14 business support organizations to serve the needs of women in trade better.
+* Regional community of practice established, with 17 coaches.
+* 5 women-led business across SACU+M successfully completed their first regional trade; they accredited their success to increased understanding of trade terminology, contracting (which allowed them to negotiate better terms), confidence, and support from the program
+* Black Khakhela, which completed the Women in Export Trade Training, is one of the Mozambican brands approved on the Amazon platform.
