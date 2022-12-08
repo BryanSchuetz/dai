@@ -20,7 +20,7 @@ Under CIEP, the Tackling Illicit Financial Flows (TIFF) Programme works with a n
 Intended outcomes include: 
 1. An increase in the capacity of Ecuador’s FDE to analyse, investigate and prosecute domestic anti-corruption dynamics of concern to the institution and the Authority.  
 2. The successful delivery of Colombia’s Fiscalía General de la Nación's (FGN) strategic illicit finances work plan and which envisages an enhanced capacity to analyse, investigate and prosecute IFFs sustaining organised crime and other linked threats.  
-3. An increase in the capacity of Peru’s SUNAT to apply IFF monitoring and analysis to tackling illegal deforestation.  
+3. An increase in the capacity of Peru’s Superintendencia Nacional de Aduanas y de Administración Tributaria (SUNAT) to apply IFF monitoring and analysis to tackling illegal deforestation.  
 4. An increase in the capacity of regional FIUs to share best practices between countries and, ultimately, to collaborate cross-region.  
 
 ### Sample Activities
