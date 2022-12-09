@@ -32,12 +32,12 @@ DAI leads activities under Component 1 of the programme—Support to the Indepen
 * Improve the quality of electoral administration in Nigeria through support to INEC, State Independent Electoral Commissions, and other stakeholders.
 * Strengthen legislative and judicial reform capacities in compliance with democratic principles and standards.
 * Enhance pluralism, internal democracy, and equality of opportunity in the political parties and party system.
-* Empower media, including new media, to promote fair and ethical coverage of the electoral process and combat hate speech and disinformation.
-* Empower civil society organisations (CSOs) and relevant agencies to demand greater transparency and accountability in the electoral and decision-making process and promote greater citizens’ participation.
+* Empower media, including new media, to promote fair and ethical coverage of the electoral process and combat hate speech and disinformation, and strengthen the capacity of the media regulators.
+* Empower civil society organizations (CSOs) and relevant agencies to demand greater transparency and accountability in the electoral and decision-making process and promote greater citizens’ participation.
 * Champion citizens’ access to The National Assembly of Nigeria (NASS) and improve NASS engagement with constituencies.
-* Enhance the capacities of political parties to constructively engage with the electoral process, INEC and stakeholders (including CSOs)
-* Strengthen legal reforms and other initiatives for the inclusion of women, youth and marginalised groups, including minorities, in politics, political parties and in political leadership and decision-making positions strengthened.
-* Enhance the policy framework for increased participation of internally Displaced Persons (IDPs) in the electoral process.
+* Enhance media engagements and delivery of extensive civic and voter education.
+* Strengthen legal reforms and other initiatives for the inclusion of women, youth, and marginalized groups, including minorities, in politics, political parties, and in political leadership and decision-making positions strengthened.
+
 
 ### Select Results
 
