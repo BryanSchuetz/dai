@@ -23,7 +23,7 @@ In recent decades, Lebanon’s private sector has grown, largely organically, to
 
 The Technical Assistance Facility contributed to the expansion and diversification of Lebanon’s economy through the modernization of the private sector and the promotion of trade, entrepreneurship, and innovation.
 
-![Devs -- LIVCD Honey pic 2.jpg](/uploads/Devs%20--%20LIVCD%20Honey%20pic%202.jpg)
+<iframe src="https://player.vimeo.com/video/779651969?h=54e8ae3a71" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Sample Activities
 
