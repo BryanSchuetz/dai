@@ -2,6 +2,7 @@
 _gh_pages
 .ruby-version
 .jekyll-metadata
+robots.txt
 
 # Numerous always-ignore extensions
 *.diff
