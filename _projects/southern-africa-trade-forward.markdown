@@ -26,7 +26,7 @@ promos:
 
 [Trade Forward Southern Africa](https://tfsouthernafrica.org/) (TFSA) is a program designed to alleviate poverty across the Southern African Customs Union and Mozambique (SACU+M) by increasing the scale and quality of trade within the union as well as with the UK.
 
-The program helps businesses meet the standards required for exporting to regional and international markets. It works primarily with and through Business Support Organisations (BSOs), such as export promotion agencies and chambers of commerce, to provide targeted support to various sectors. It has a strong focus on providing technical cooperation to export and near-export businesses, and particularly female-owned entrepreneurs and sectors in which a greater proportion of women are employed.
+The program helps businesses meet the standards required for exporting to regional and international markets. It works primarily with and through Business Support Organisations (BSOs), such as export promotion agencies and chambers of commerce, to provide targeted support to various sectors. It has a strong focus on providing technical cooperation to export and near-export businesses, particularly female-owned entrepreneurs and sectors in which a greater proportion of women are employed.
 <iframe src="https://player.vimeo.com/video/481288886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Sample Activities
@@ -44,7 +44,7 @@ The program helps businesses meet the standards required for exporting to region
 * 23 Business Support Organisations across SACU+M capacitated
 * 90 technical staff trained in the government and private sector
 * 564 women-owned businesses received value chain-related training
-14 individuals completed the HAB training program; of these, 10 were women and 4 were men. In addition, 4 represented private sector firms, and 8 were from government ministries, departments, or agencies, and 2 from the University of Namibia. All participants were either technicians, tasked with the identification of harmful organisms on a daily basis, or otherwise employed within the early warning system infrastructure.
+14 individuals completed the HAB training program; of these, 10 were women and 4 were men. In addition, 4 represented private sector firms, 8 were from government ministries, departments, or agencies, and 2 from the University of Namibia. All participants were either technicians, tasked with the identification of harmful organisms on a daily basis, or otherwise employed within the early warning system infrastructure.
 * 26 Export Trade Knowledge Centres established across SACU+M
 
 **Trade Information** 
