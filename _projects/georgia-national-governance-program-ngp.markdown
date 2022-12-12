@@ -2,9 +2,9 @@
 title: Georgia—National Governance Program (NGP)
 date: 2022-12-12 13:36:00 Z
 published: false
-summary: The National Governance Program (NGP) works with the Government of Georgia
-  to deliver citizen-responsive governance based on greater accountability, transparency,
-  and institutional independence.
+summary: The National Governance Program works with the Government of Georgia to deliver
+  citizen-responsive governance based on greater accountability, transparency, and
+  institutional independence.
 start: 2022
 end: 2027
 client: U.S. Agency for International Development
@@ -17,7 +17,7 @@ regions: Eastern Europe and Central Asia
 country: Georgia
 ---
 
-The geopolitical landscape in and around Georgia is shifting dramatically. But, there is hope for a broader consensus among the electorate. A comfortable majority of Georgians are simultaneously: 1) in favor of continuing Euro-Atlantic integration—especially economic integration through European Union (EU) accession; and 2) showing solidarity with Ukraine; while 3) giving credit to the Georgian Dream government for refraining from more provocative moves against the Russian Federation. 
+The geopolitical landscape in and around Georgia is shifting dramatically. But, there is hope for a broader consensus among the electorate. A comfortable majority of Georgians are simultaneously: 1) in favor of continuing Euro-Atlantic integration—especially economic integration through European Union (EU) accession; and 2) showing solidarity with Ukraine; while 3) giving credit to the Georgian government for refraining from more provocative moves against the Russian Federation. 
 
 Within that context, the National Governance Program (NGP) works with the Government of Georgia to deliver citizen-responsive governance based on greater accountability, transparency, and institutional independence.
  
