@@ -33,7 +33,7 @@ The TAF will support the government in delivering the National Strategy for Tran
 
 ### Sample Activities
 
-* Support an improved enabling environment for private sector-led growth through advisory support to the Ministry of Trade and Industry on feedback mechanism and evidence-based problem-solving.
+* Support an improved enabling environment for private sector-led growth through advisory support to the Ministry of Trade and Industry on feedback mechanisms and evidence-based problem-solving.
 * Promote more effective citizen and business participation in local government policy-making through support to the Joint Action Development Forum and the Rwanda Governance Board.
 * Promote stronger public sector accountability through reform of the Imihigo system to ensure local communities have a greater role in transparent decision-making, shifting focus towards outcome targets and improvements to the system of change. 
 * Support integration of gender equality into the Imihigo planning, budgeting, and evaluation systems through advisory support to the Gender Monitoring Office. 
