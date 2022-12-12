@@ -4,8 +4,7 @@ date: 2016-01-21 22:18:00 Z
 lastname: Randall
 summary: Jonathan Randall has been working at the intersection of sustainable economic
   development, climate change, and environmental conservation for more than 17 years.
-job-title: Principal Global Practice Leader, Climate Change and Natural Resources
-  Management
+job-title: Chief of Party, Advancing Capacity for the Environment (ACE)
 image: "/uploads/Jonathan%20Randall.png"
 solutions:
 - Energy
@@ -27,8 +26,6 @@ Since that time, Jonathan has managed and contributed to the development of a nu
 Through his work on natural disaster recovery, Jonathan has responded to multiple floods, hurricanes, and wildfires. These include the 2004 Indian Ocean tsunami, Cyclone Jokwe in Mozambique, Hurricane Katrina in the United States, Nepal Ghorka Earthquake, and Typhoons Pongsona and Chata’an in Micronesia. For communities recovering from disaster, Jonathan has provided support for environmentally sound rebuilding strategies that increase community resilience and support the concept of “build back better.” 
 
 Jonathan conceptualized and managed the Green Recovery and Reconstruction Toolkit for Humanitarian Aid which was awarded the Green Star Award by United Nations Environment Program, UNOCHA, and the Green Cross in 2013. He is also the co-author of the World Bank-funded publication, “Natural Security: Protected Areas and Hazard Mitigation,” which was launched at the UN Convention on Biological Diversity Conference of the Parties.
-
-As DAI’s Global Practice Leader for Environment, and Climate Change, Jonathan leads business development, technical assistance, and project management with a focus on climate change, environment, natural resource management, and water resources.
 
 * M.S., ecology, University of California, Davis
 * B.A., environmental studies and English, Saint Mary's College

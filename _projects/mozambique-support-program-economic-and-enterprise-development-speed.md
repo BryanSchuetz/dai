@@ -26,6 +26,8 @@ promos:
   link: https://usaidpubs.exposure.co/more-water-for-everyone
 - title: Project YouTube Channel
   link: https://www.youtube.com/channel/UCjCX20yI9s4GSmiLxcmvsmQ
+- title: "Mozambique Launches its First-Ever National \nBiodiversity Information System"
+  link: "/uploads/Mozambique%20SPEED%20-%20biodiversity%20portal%20writeup-%20branded.pdf"
 layout: project
 ---
 
@@ -56,3 +58,5 @@ The third iteration of SPEED, which started in 2021, is improving Mozambique’s
 *  Trained 15 judges on the importance of protecting Mozambique's biodiversity by processing wildlife crimes. 
 * Supported the Wildlife Conservation Society to launch the Mozambican Biodiversity Information System [(SIBMOZ) website](https://sibmoz.gov.mz/) and the Environmental Licensing Management System. SIBMOZ is the first comprehensive biodiversity website of its kind in Mozambique.
 * Supported a new electricity law that offers simplified licensing for mini-grid investments; under the current regime investors must follow the concession process (22 steps, $2 million, three years), while the new law allows mini-grid projects up to 10 megawatts to obtain a simplified license that requires only three steps at one agency. The law empowers the new energy regulator, ARENE, to engage in public procurements and tariffs, and unbundles the electricity market for service providers, grid operators, and system operators, bringing improved competition and efficiencies. 
+* Supported the country's first National 
+Biodiversity Information System, called [Mozambican Biodiversity Information System (SIBMOZ)](https://sibmoz.gov.mz/).

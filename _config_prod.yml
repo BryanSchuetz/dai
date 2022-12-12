@@ -157,6 +157,7 @@ exclude:
 - gulpfile.js
 - Gemfile
 - Gemfile.lock
+- robots.txt
 sass:
   sass_dir: assets/_sass
   style: compressed

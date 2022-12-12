@@ -1,6 +1,7 @@
 ---
 title: Bill Parente
 date: 2016-01-21 22:18:00 Z
+published: false
 lastname: Parente
 summary: A professional engineer by training, Bill has led numerous infrastructure
   and development projects for donors in countries around the world. He contributes
