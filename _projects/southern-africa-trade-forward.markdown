@@ -1,5 +1,5 @@
 ---
-title: Southern Africa—Trade Forward Southern Africa
+title: Southern Africa—Trade Forward Southern Africa (TFSA)
 date: 2020-02-21 11:49:00 Z
 summary: The Trade Forward Southern Africa programme supports growth in trade, improves
   gender equality in the trade arena, and alleviates poverty across Botswana, Eswatini,
@@ -28,15 +28,15 @@ promos:
 
 The program helps businesses meet the standards required for exporting to regional and international markets. It works primarily with and through Business Support Organisations (BSOs), such as export promotion agencies and chambers of commerce, to provide targeted support to various sectors. It has a strong focus on providing technical cooperation to export and near-export businesses, and particularly female-owned entrepreneurs and sectors in which a greater proportion of women are employed.
 <iframe src="https://player.vimeo.com/video/481288886" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-### Sample Activities
+
+## Sample Activities
 
 * Provide increased access to information and trade promotion.
 * Offer support in compliance with market standards and integration in supply chains and value chains.
 * Train relevant stakeholders in trade and customs best practices.
 * Support fuller participation of women in trade.
 
-
-### Select Results
+## Select Results
 
 **Trade Training and Support**
 * 707  businesses and firms provided with value chain training interventions
