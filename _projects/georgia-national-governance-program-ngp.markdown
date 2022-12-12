@@ -30,5 +30,6 @@ NGP strengthens accountability systems, procedures, and mechanisms within both g
 * Assist the Ministry of Finance in improving the quality of performance-based budgets and public investment management, bolster line ministry ownership of internal audit and control functions, and integrate climate change priorities into fiscal policy and risk management. 
 * Increase public engagement and access to information.
 * Build the capacity of line ministries in policy planning methodology.
+* Improve institutional capacity to mitigate cybersecurity risks. 
 * Implement solutions for improving appraisal and evaluation systems and the lifecycle of human resource management.
 * Support the Anti-Corruption Secretariat and Council in strengthening anti-corruption policy formulation and planning.
