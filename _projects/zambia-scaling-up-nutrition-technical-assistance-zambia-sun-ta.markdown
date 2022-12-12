@@ -33,14 +33,14 @@ Zambia SUN TA will layer interventions in nutrition, health, agriculture, and wa
 
 ![Zambia-SUN-TA.jpg](/uploads/Zambia-SUN-TA.jpg)
 
-### Sample Activities
+## Sample Activities
 
 * Provide training and guidance to build the capacity of Zambia’s NFNC and line ministries to deliver nutrition-specific and nutrition-sensitive services.
 * Build capacity of district- and ward-level staff to plan and coordinate demand-driven interventions in nutrition, health, agriculture, and WASH.
 * Collaborate with partners to assess local barriers and opportunities in areas such as WASH and food value chains, communications and messaging strategies, and uses of digital technology.
 * Capture knowledge from across districts and develop constituencies for sharing lessons learned and best practices to increase uptake of successes and decrease use of less-effective efforts.
 
-### Select Results
+## Select Results
 
 * Conducted one of the first virtual site visits, using Google Meets, during the COVID-19 pandemic. 
 * Established more than 2,000 community and health facility vegetable gardens across 13 focus districts and trained more than 8,000 community-based volunteers on how to deliver proper food preparation sessions. 
@@ -48,4 +48,4 @@ Zambia SUN TA will layer interventions in nutrition, health, agriculture, and wa
 * Trained 379 government staff and volunteers to roll out WASH activities in communities, including the formation of Sanitation Action Groups and Village WASH Committees. 
 * Constructed latrines and handwashing stations for 111 villages in Mansa District and—once they are confirmed open defection-free (ODF)—they will join 122 other villages that have been verified ODF under SUN TA for a total of 233.
 * Facilitated the official handover of 20 boreholes, translating to a total 10,000 people gaining access to clean, safe water. 
-* Supported the Ministry of Health to train more than 1,500 community volunteers, known as community distributors, to expand family planning service coverage to more rural Zambian communities. The distributors collectively reached more 200,353 people, marking more than a 1,000 percent increase in people reached compared to 2020.  
+* Supported the Ministry of Health to train more than 1,500 community volunteers, known as community distributors, to expand family planning service coverage to more rural Zambian communities. The distributors collectively reached more than 200,353 people, marking more than a 1,000 percent increase in people reached compared to 2020.  
