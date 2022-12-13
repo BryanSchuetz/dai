@@ -5,7 +5,7 @@ lastname: Rapier
 summary: Richard Rapier for 15 years has worked in domestic and international programs
   addressing water security, sanitation, and hygiene, water and waste resource management,
   and environmental and social impact assessment and management in infrastructure.
-job-title: 'Senior Advisor, Water Security, Sanitation, and Hygiene '
+job-title: Senior Portfolio Director, Global Region
 image: "/uploads/rich-rapier-bio.jpg"
 solutions:
 - Environment
