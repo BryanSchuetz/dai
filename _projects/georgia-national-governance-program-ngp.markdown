@@ -1,7 +1,6 @@
 ---
 title: Georgia—National Governance Program (NGP)
 date: 2022-12-12 13:36:00 Z
-published: false
 summary: The National Governance Program works with the Government of Georgia to deliver
   citizen-responsive governance based on greater accountability, transparency, and
   institutional independence.
