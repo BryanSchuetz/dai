@@ -7,12 +7,14 @@ layout: default
 <div class="covid-news-wrapper">
   <ul>
     {% assign deei-news = site.news | where_exp:"item","item.tags contains 'deei'" | sort:'date' | reverse  %}
-    <li class="covid-list-item"><a class="covid-item-link"
-      href="/our-work/our-impact/net-zero">
-      <div class="covid-item-image" style="background-image: url(/uploads/net-zero.jpg);"></div>
-      <span class="covid-item-text">Net Zero at DAI</span>
-    </a>
-  </li>
+    {% for promo in deei-news %}
+      <li class="covid-list-item">
+        <a class="covid-item-link"
+        href="{{ promo.permalink }}">
+        <div class="covid-item-image" style="background-image: url('{{ promo.social-image }}');"></div>
+        <span class="covid-item-text">{{ promo.title }}</span></a>
+      </li>
+    {% endfor %}
   </ul>
 </div>  
 {% endif %}
