@@ -1,6 +1,7 @@
 ---
 title: Diversity Equity Engagement and Inclusion
-summary: Our mission is to make a lasting difference in the world by helping people improve their lives. We rely on our diverse cultures, backgrounds, and points of view to advance our mssion, and our success depends on fostering a workplace where everyone, everywhere, feels valued, appreciated, and empowered.
+summary: |
+  Our mission is to make a lasting difference in the world by helping people improve their lives. We rely on our diverse cultures, backgrounds, and points of view to advance our mission, and our success depends on fostering a workplace where everyone, everywhere feels valued and empowered. 
 hero: true
 layout: node
 groups:
@@ -31,8 +32,7 @@ groups:
 
     
 ---
-
-We're commited to living by [our values](/who-we-are/mission-and-values). We will foster diversity, equity, and inclusion inside DAI, in our work around the world, and within the international development sector. You'll notice that we add extra "E" to the familiar DEI acronym, which stands for engagement—underscoring how important it is for us to have every member of staff energetically involved as part of our shared corporate purpose.
+In line with [our values](/who-we-are/mission-and-values), DAI is committed to fostering diversity, equity, engagement, and inclusion inside DAI, in our work around the world, and within the international development sector. You’ll notice that we add an extra “E” to the familiar DEI acronym, which stands for engagement—underscoring how important it is for us to have every member of staff energetically involved as part of our shared corporate purpose.
 
 <div class="deei-mosaic">
 
@@ -40,7 +40,7 @@ We're commited to living by [our values](/who-we-are/mission-and-values). We wil
 
 ## Our DEEI Plan
 
-We weave diversity, equity, engagement, and inclusion into every aspect of our business and a cross every region and country where we operate. These three pillars outline the work we're doing.
+We weave diversity, equity, engagement, and inclusion into every aspect of our business and across every region and country where we operate, working across three pillars: people, solutions, and partnerships.
 
 <div class="bulma">
   <article class="media">
@@ -53,7 +53,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
       <div class="content pl-4" style="margin-bottom: 0;">
         <h3>People</h3>
         <p style="margin-bottom: 0;">
-          We are focused on developing an inclusive culture that seeks out and harnesses the talents of a diverse workforce, giving our teams the space to be entreprenurial and innovative in pushing our development goals forward. We keep staff involved and engaged in our DEEI efforts.
+          We nurture an inclusive culture that seeks out and harnesses the talents of a diverse workforce, giving our teams the space to be entrepreneurial and innovative in pushing our development goals forward. We keep staff informed, involved, and engaged in our DEEI efforts.
         </p>
       </div>
       <nav class="level is-mobile">
@@ -81,7 +81,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
       <div class="content pl-4" style="margin-bottom: 0;">
         <h3>Solutions</h3>
         <p style="margin-bottom: 0;">
-          We are focused on developing an inclusive culture that seeks out and harnesses the talents of a diverse workforce, giving our teams the space to be entreprenurial and innovative in pushing our development goals forward. We keep staff involved and engaged in our DEEI efforts.
+          We work alongside underserved groups and communities to help them address the issues and inequities they face. From providing LGBTQI+ healthcare services in Colombia to expanding gender inclusion in Nepal and women's empowerment in the Middle East, we put DEEI and inclusive development at the heart of the work we do.
         </p>
       </div>
       <nav class="level is-mobile">
@@ -109,7 +109,7 @@ We weave diversity, equity, engagement, and inclusion into every aspect of our b
       <div class="content pl-4" style="margin-bottom: 0;">
         <h3>Partnerships</h3>
         <p style="margin-bottom: 0;">
-          We are focused on developing an inclusive culture that seeks out and harnesses the talents of a diverse workforce, giving our teams the space to be entreprenurial and innovative in pushing our development goals forward. We keep staff involved and engaged in our DEEI efforts.
+          We are more effective in addressing racism, discrimination, and exclusion when we build bridges with like-minded organizations. DAI is a founding member of the Coalition for Racial & Ethnic Equity in Development (CREED) and a lead member of the WILD Network (Women in Global Development Leadership Forum). Global Head of DEEI Bobby Jefferson is a member of the Society for International Development–U.S. Executive Committee. In that role, he instituted the Race, Ethnicity, and Diversity workgroup and set their DEI strategic plan in motion. He is also co-chair of the Council of International Development Companies’ DEI Committee and participates in British Expertise International’s Equity, Diversity, & Inclusion Working Group. Our goal is to advance DEEI within the development sector and beyond.
         </p>
       </div>
       <nav class="level is-mobile">
