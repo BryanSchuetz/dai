@@ -2,10 +2,10 @@
 title: Joshua Kirton
 date: 2022-06-29 15:02:00 Z
 lastname: Kirton
-summary: 'Joshua Kirton joined DAI in 2022 as a Senior Global Practice Specialist
-  in the Finance, Investment, and Trade Practice. Earlier in his career, Josh worked
-  in development finance and on data and analytics projects in humanitarian response
-  settings in the Middle East and North Africa.  '
+summary: 'Joshua Kirton is a Senior Global Practice Specialist in the Finance, Investment,
+  and Trade Practice. Earlier in his career, Josh worked in development finance and
+  on data and analytics projects in humanitarian response settings in the Middle East
+  and North Africa.  '
 job-title: Senior Global Practice Specialist, Finance and Investment
 image: "/uploads/JoshKirton_Headshot_5.14.20.JPG"
 solutions:
