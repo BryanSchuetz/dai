@@ -12,6 +12,7 @@ summary: 'At an online panel hosted this week by the Society for International D
   Washington, D.C. chapter (SID-W), DAI Global Health Vice President and Chief Technology
   Officer Bobby Jefferson facilitated a timely conversation around the topics of achieving
   racial equity and inclusive development in technology. '
+social-image: https://assetify-dai.com/experts/bobby%20jeffersonInner.jpg
 ---
 
 At an online panel hosted this week by the Society for International Development’s Washington, D.C. chapter (SID-W), DAI Global Health Vice President and Chief Technology Officer [Bobby Jefferson](https://www.dai.com/who-we-are/our-team/bobby-jefferson) facilitated a timely conversation around the topics of achieving racial equity and inclusive development in technology. 
